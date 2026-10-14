@@ -1,0 +1,555 @@
+fetched p0020-raw.json 10 / 10
+RETRY rocky-mountain-circuits HTTP Error 503: Service Unavailable
+fetched p0021-raw.json 10 / 10
+fetched p0022-raw.json 10 / 10
+RETRY southeastern-kentucky-rehabilitation-industries HTTP Error 503: Service Unavailable
+RETRY southern-energy-management HTTP Error 503: Service Unavailable
+fetched p0023-raw.json 10 / 10
+RETRY steel-craft-technologies HTTP Error 503: Service Unavailable
+fetched p0024-raw.json 10 / 10
+RETRY trayer-engineering-corporation HTTP Error 503: Service Unavailable
+fetched p0025-raw.json 10 / 10
+RETRY two-in-one-manufacturing-inc HTTP Error 503: Service Unavailable
+RETRY united-electronic-industries-inc HTTP Error 503: Service Unavailable
+RETRY united-tool-mold-inc HTTP Error 503: Service Unavailable
+RETRY universal-plastic-mold-upm-inc HTTP Error 503: Service Unavailable
+RETRY vesper-medical HTTP Error 503: Service Unavailable
+RETRY steel-craft-technologies HTTP Error 503: Service Unavailable
+ok   S&K Electronics, Inc. 
+fetched p0026-raw.json 10 / 10
+RETRY wells-vehicle-electronics HTTP Error 503: Service Unavailable
+ok   SHINE Wire 
+RETRY yaskawa-america-drives-motion-division HTTP Error 503: Service Unavailable
+ok   Segue Manufacturing Services LLC 
+ok   Standard Components LLC 
+RETRY trayer-engineering-corporation HTTP Error 503: Service Unavailable
+RETRY zentech-manufacturing-inc HTTP Error 503: Service Unavailable
+RETRY united-electronic-industries-inc HTTP Error 503: Service Unavailable
+RETRY united-tool-mold-inc HTTP Error 503: Service Unavailable
+ok   Select Brands LLC 
+RETRY vesper-medical HTTP Error 503: Service Unavailable
+ok   Southwest Plastics Co. 
+ok   SeaTac Packaging Manufacturing Corporation 
+ok   Single Source Medical 
+fetched p0027-raw.json 10 / 10
+ok   Technical Cable Applications, Inc. 
+ok   Shermco Industries (previously Power Products & Solutions) 
+RETRY a-f-johnson-millwork-co HTTP Error 503: Service Unavailable
+ok   Sentra-Sota Sheet Metal 
+ok   Stantek Contract Manufacturing 
+ok   TBR Electronics 
+ok   Signature Cable 
+ok   TSMC Washington 
+RETRY ace-solar HTTP Error 503: Service Unavailable
+ok   Tri-Mack Plastics Manufacturing Corporation 
+ok   Tru-Tronics Intl 
+ok   Spectra-Tech Manufacturing, Inc. 
+fetched p0028-raw.json 10 / 10
+ok   Steel Technologies LLC 
+ok   Techno Metal Post Vermont 
+ok   TTM Technologies Denver 
+ok   Suntronic 
+RETRY ambac-international HTTP Error 503: Service Unavailable
+RETRY sea-watch-international-ltd Expecting ',' delimiter: line 61 column 4 (char 3456)
+RETRY seaway-plastics-engineering 'NoneType' object has no attribute 'group'
+ok   TDI Custom Packaging Inc 
+RETRY arc-fabricators HTTP Error 503: Service Unavailable
+RETRY arch-medical-solutions-seabrook HTTP Error 503: Service Unavailable
+RETRY ace-solar HTTP Error 503: Service Unavailable
+fetched p0029-raw.json 10 / 10
+ok   United poly systems 
+ok   Structural Metal Fabricators Inc. 
+ok   TOA SE, Inc. 
+ok   SMK Packaging 
+ok   Sigenics, Inc. 
+ok   TE Wire & Cable 
+ok   Universal Plastic Mold UPM, Inc. 
+fetched p0030-raw.json 10 / 10
+ok   SMC Integration Solutions, LLC 
+ok   Stonewall Cable, Inc. 
+RETRY avx-corporation HTTP Error 503: Service Unavailable
+ok   Wald Wire & Manufacturing Co 
+ok   Van Ness Plastic Molding Co 
+fetched p0031-raw.json 10 / 10
+RETRY ted-manufacturing-corporation Expecting ',' delimiter: line 64 column 4 (char 4191)
+ok   4G Steel Fabrication 
+ok   Thermoplastic Processes 
+ok   A & N Custom Fabrication Inc 
+ok   Wallace Electronics Inc 
+ok   Two In One Manufacturing, Inc. 
+ok   Rocky Mountain Circuits 
+ok   Southeastern Kentucky Rehabilitation Industries 
+ok   Vital Systems Corporation 
+ok   Tristate Electronic Manufacturing 
+RETRY avx-corporation HTTP Error 503: Service Unavailable
+ok   Yaskawa America — Drives & Motion Division 
+ok   A & L Sheet Metal Fabrications 
+RETRY advance-switchboard-distribution HTTP Error 503: Service Unavailable
+RETRY advanced-underground-utility-locating HTTP Error 503: Service Unavailable
+ok   TOMAR Electronics, Inc. 
+ok   Warrenton Steel 
+ok   A&A Manufacturing 
+RETRY advancedpcb-aurora-co HTTP Error 503: Service Unavailable
+ok   Veterans Trading Company, LLC 
+ok   WCJ Pilgrim Wire LLC 
+ok   4 B Plastics Inc 
+ok   Widener Metals, Inc 
+ok   Washington Metal Fabricators 
+ok   Wells Vehicle Electronics 
+ok   ARDCO Rosseett Manufacturing Corporation 
+ok   A Fabric Place 
+ok   ACS Industries Inc 
+ok   ALL COUNTY SHEET METAL INC 
+ok   701 Sawmill 
+ok   AC Horn Manufacturing 
+RETRY avx-corporation HTTP Error 503: Service Unavailable
+fetched p0032-raw.json 10 / 10
+RETRY advanced-underground-utility-locating HTTP Error 503: Service Unavailable
+ok   Steel Craft Technologies 
+ok   AADCO Medical, Inc. 
+ok   ALIGN PRECISION - Tusacloosa (Plant II) 
+fetched p0033-raw.json 9 / 10
+ok   A.C. Legg, Inc. 
+ok   Wirthwein Fountain Inn, LLC 
+PAGE DONE p0025-profiles.json
+RETRY ace-wire-cable-co-inc HTTP Error 500: Internal Server Error
+RETRY accent-woodworking-inc HTTP Error 500: Internal Server Error
+ok   Trayer Engineering Corporation 
+fetched p0034-raw.json 10 / 10
+skip Alabama Power James H. Miller Generating Plant 
+RETRY andersen-wrecking-co-inc HTTP Error 503: Service Unavailable
+RETRY advanced-underground-utility-locating HTTP Error 503: Service Unavailable
+fetched p0035-raw.json 10 / 10
+ok   United Tool & Mold Inc 
+ok   ASYST Automation 
+ok   Absolute Electronics 
+RETRY approved-sheet-metal HTTP Error 503: Service Unavailable
+ok   ARCH Medical Solutions - Seabrook 
+RETRY star-plastics-llc The read operation timed out
+fetched p0036-raw.json 10 / 10
+ok   Aftermarket Parts div of VVG 
+ok   United Electronic Industries, Inc. 
+ok   ARC Fabricators 
+ok   AB Electronics 
+RETRY arizona-bakery-sales-services HTTP Error 503: Service Unavailable
+ok   Vesper Medical 
+PAGE DONE p0024-profiles.json
+RETRY arizona-capacitors-inc HTTP Error 503: Service Unavailable
+RETRY arizona-emergency-products HTTP Error 503: Service Unavailable
+ok   ATEX Technologies, Inc. 
+RETRY arizona-furnishings HTTP Error 503: Service Unavailable
+ok   Zentech Manufacturing, Inc. 
+ok   A.F. Johnson Millwork Co. 
+PAGE DONE p0026-profiles.json
+ok   AMP Welding & Metal Fabrication 
+RETRY southern-energy-management Remote end closed connection without response
+ok   AeroParts Manufacturing & Repair, Inc. 
+ok   Against the Grain Furniture 
+ok   Alsco Uniforms 
+ok   All-State Plastics 
+ok   ARF Solar LLC 
+ok   Allen Harim Foods 
+ok   Aaloktronix 
+RETRY arizona-capacitors-inc HTTP Error 503: Service Unavailable
+ok   ACE Solar 
+ok   Ace Electronics 
+ok   Alabama Steel Supply 
+ok   Sea Watch International Ltd 
+RETRY atlantic-semiconductor HTTP Error 503: Service Unavailable
+ok   American HomePatient 
+RETRY august-packaging HTTP Error 503: Service Unavailable
+RETRY arizona-furnishings HTTP Error 503: Service Unavailable
+ok   ATACO Steel Products 
+ok   Advance Switchboard Distribution 
+RETRY aurora-specialty-textiles-group-inc HTTP Error 503: Service Unavailable
+ok   AMBAC International 
+ok   AMERICAN AUTOMOTIVE LLC 
+PAGE DONE p0027-profiles.json
+ok   American Cable Assemblies 
+ok   Aco Inc 
+ok   Amboseli Foods LLC 
+ok   Alameda Food Service 
+ok   Achtuning 
+RETRY b-s-cable-company-inc HTTP Error 503: Service Unavailable
+ok   Amp Flow Electric Inc. 
+ok   Adaptive Technologies Inc 
+ok   AdvancedPCB 
+ok   Ace Wire & Cable Co., Inc. 
+ok   Abbott 
+RETRY ballard-marine-fabricators HTTP Error 503: Service Unavailable
+ok   Agile Magnetics (A Standex Electronics Company) 
+ok   American Apparel 
+RETRY seaway-plastics-engineering Expecting ',' delimiter: line 73 column 4 (char 4292)
+RETRY bare-wood-furniture-center HTTP Error 503: Service Unavailable
+RETRY august-packaging HTTP Error 503: Service Unavailable
+fetched p0037-raw.json 10 / 10
+ok   TED Manufacturing Corporation 
+PAGE DONE p0023-profiles.json
+ok   Architectural System Fabricators 
+ok   American Made Apparel Manufacturing., Inc. 
+ok   Alpha Packaging, Inc. 
+RETRY aurora-specialty-textiles-group-inc HTTP Error 503: Service Unavailable
+fetched p0038-raw.json 10 / 10
+ok   Able Coil & Electronics 
+ok   Advanced Underground Utility Locating 
+ok   American Leather Operations, LLC 
+ok   Alamance Foods, Inc. 
+PAGE DONE p0030-profiles.json
+RETRY amtech 'NoneType' object has no attribute 'group'
+ok   Accent Woodworking Inc. 
+ok   Artistic Iron Works 
+fetched p0039-raw.json 9 / 10
+ok   Automotive Parts Headquarters Inc. 
+ok   Arkansas Electrical Outlet Inc 
+RETRY acton-custom-enterprises-llc 'NoneType' object has no attribute 'group'
+ok   Auto Pro USA 
+ok   Alaska Alloy 
+PAGE DONE p0031-profiles.json
+ok   Antaya Technologies Corporation 
+RETRY american-textile-mills Expecting ',' delimiter: line 71 column 4 (char 3310)
+ok   Ascot Valley Foods 
+ok   Anfinsen Plastic Molding Inc. 
+ok   Architectural Wood 
+ok   Amphenol Custom Cable 
+ok   BA Steel LLC 
+RETRY biro-manufacturing-co HTTP Error 503: Service Unavailable
+ok   Atlantic Restaurant & Supermarket Equipment 
+ok   Andersen Wrecking Co., Inc. 
+ok   Arizona Emergency Products 
+ok   BMES 
+RETRY blue-horizon-energy HTTP Error 503: Service Unavailable
+ok   Autobahn Performance Inc 
+RETRY blytheville-sheet-metal-inc HTTP Error 503: Service Unavailable
+ok   Southern Energy Management 
+PAGE DONE p0021-profiles.json
+ok   Approved Sheet Metal 
+ok   Aurora Energy, Inc 
+ok   AstroNova, Inc. 
+ok   Bayou Apparel LLC 
+ok   BEI Precision 
+ok   AVX Corporation 
+PAGE DONE p0028-profiles.json
+ok   Arizona Bakery Sales & Services 
+ok   Beacon Solar Construction 
+RETRY bow-auto-parts HTTP Error 503: Service Unavailable
+ok   Arizona Furnishings 
+ok   AutoPartSource 
+ok   BOH Electronics 
+ok   Bafs Inc. 
+ok   Bay City Electric Works 
+ok   Bass Electronics, Inc. 
+ok   Star Plastics, LLC 
+PAGE DONE p0022-profiles.json
+ok   Atlantic Semiconductor 
+ok   At Last Gourmet Foods Inc. 
+ok   Barnhardt Manufacturing Co 
+ok   Barney and Carey Lumber Specialties 
+ok   B.S. Cable Company, Inc. 
+RETRY automotive-technology 'NoneType' object has no attribute 'group'
+ok   Bauer Sheet Metal & Fab 
+ok   Bernman Mold & Engineering 
+RETRY aviva-wholesale-louisiana-t-shirts-htv-vinyl-heat-press-machines-equipment-supplies Expecting ',' delimiter: line 53 column 4 (char 2966)
+ok   Arizona Capacitors Inc 
+ok   Best Source Electronic Corporation. 
+ok   Biomerics 
+ok   Boise Metal Works 
+ok   Blue Creek Iron Works - Metal Fabricator | Sheet Metal Fabrication Services in Dadeville, Alabama 
+ok   Boston Medical Products Inc 
+ok   Beijer Electronics Inc. 
+ok   Bismarck Canvas Co 
+ok   Bergey's Wholesale Parts 
+ok   BluePrint Engines 
+ok   August Packaging 
+ok   Bradford Woodworking 
+ok   Boston Solar 
+ok   C Worth Superstore 
+ok   Blackshirt Oilfield Services 
+ok   Bellhouse Medical Equipment Services Special Needs 
+ok   Bear Packaging & Supply Inc 
+ok   Ballard Marine Fabricators 
+ok   Amtech 
+ok   CBM Plastics, Inc. 
+ok   Built By Newport 
+ok   Bare Wood Furniture Center 
+ok   Bone Dry Solar 
+ok   Bay Metals & Fabrication, LLC 
+PAGE DONE p0036-profiles.json
+RETRY assured-solar-energy The read operation timed out
+ok   Acton Custom Enterprises, LLC 
+PAGE DONE p0029-profiles.json
+ok   Blue Horizon Energy 
+ok   C&C Power, Inc. 
+ok   Black Wolf Design 
+ok   Brandywine Electronics Ltd 
+ok   Biro Manufacturing Co 
+PAGE DONE p0037-profiles.json
+ok   Bow Auto Parts 
+ok   Automotive Technology 
+ok   Aurora Specialty Textiles Group, Inc. 
+PAGE DONE p0034-profiles.json
+ok   CB Solar Inc. 
+ok   C H Babb Co Inc 
+ok   American Textile Mills 
+PAGE DONE p0032-profiles.json
+ok   Blytheville Sheet Metal Inc 
+PAGE DONE p0038-profiles.json
+ok   CF woodworks 
+ok   Bueno Foods 
+ok   Bucks 4x4 
+ok   Broomfield Sheet Metal Inc 
+PAGE DONE p0039-profiles.json
+RETRY seaway-plastics-engineering Expecting ',' delimiter: line 81 column 4 (char 5027)
+ok   Assured Solar Energy 
+PAGE DONE p0033-profiles.json
+ok   Aviva Wholesale Louisiana T-Shirts - HTV Vinyl - Heat Press Machines - Equipment & Supplies 
+PAGE DONE p0035-profiles.json
+RETRY seaway-plastics-engineering 'NoneType' object has no attribute 'group'
+skip Seaway Plastics Engineering 'NoneType' object has no attribute 'group'
+PAGE DONE p0020-profiles.json
+ALL-DONE errors 1 of 200
+collected 197
+shine-wire | wording/address
+seatac-packaging-manufacturing-corporation | certs ['MBE certified (Minority Business Enterprise)']
+signature-cable | nums ['48']
+star-plastics-llc | certs ['IATF 16949:2016']
+steel-technologies-llc | wording/address
+stonewall-cable-inc | wording/address
+toa-se-inc | nums ['30']
+tomar-electronics-inc | wording/address
+technical-cable-applications-inc | wording/address
+trayer-engineering-corporation | nums ['53,000']
+tristate-electronic-manufacturing | wording/address
+tru-tronics-intl | wording/address
+united-electronic-industries-inc | certs ['ISO 9001:2015', 'ISO/IEC 17025:2017']
+vesper-medical | wording/address
+vital-systems-corporation | nums ['1,000']
+wells-vehicle-electronics | wording/address
+zentech-manufacturing-inc | wording/address
+ab-electronics | nums ['1,000', '10']
+ac-horn-manufacturing | nums ['115']
+american-automotive-llc | wording/address
+abbott | wording/address
+acton-custom-enterprises-llc | wording/address
+advance-switchboard-distribution | nums ['12']
+advanced-underground-utility-locating | nums ['61,900']
+alameda-food-service | wording/address
+amphenol-custom-cable | wording/address
+amtech | wording/address
+andersen-wrecking-co-inc | wording/address
+arizona-bakery-sales-services | wording/address
+arizona-capacitors-inc | wording/address
+assured-solar-energy | nums ['1980']
+atlantic-semiconductor | wording/address
+auto-pro-usa | nums ['1950']
+autobahn-performance-inc | nums ['24,000']
+automotive-parts-headquarters-inc | nums ['200,000']
+ba-steel-llc | wording/address
+bei-precision | wording/address
+bay-city-electric-works | wording/address
+bear-packaging-supply-inc | nums ['1980']
+blue-horizon-energy | wording/address
+boston-medical-products-inc | wording/address
+brandywine-electronics-ltd | wording/address
+broomfield-sheet-metal-inc | wording/address
+collected 197
+done rocky-mountain-circuits 1 
+done s-k-electronics-inc 2 
+done shine-wire 0 
+done smc-integration-solutions-llc 1 
+done smk-packaging 1 
+done sea-watch-international-ltd 1 
+done seatac-packaging-manufacturing-corporation 0 
+done segue-manufacturing-services-llc 0 
+done select-brands-llc 0 
+done sentra-sota-sheet-metal 3 
+done shermco-industries-previously-power-products-solutions 0 
+done sigenics-inc 0 
+done signature-cable 0 
+done single-source-medical 0 
+done southeastern-kentucky-rehabilitation-industries 0 
+done southern-energy-management 0 
+done southwest-plastics-co 0 
+done spectra-tech-manufacturing-inc 1 
+done standard-components-llc 1 
+done stantek-contract-manufacturing 0 
+done star-plastics-llc 0 
+done steel-craft-technologies 2 
+done steel-technologies-llc 1 
+done stonewall-cable-inc 1 
+done structural-metal-fabricators-inc 1 
+done suntronic 1 
+done tbr-electronics 0 
+done tdi-custom-packaging-inc 0 
+done te-wire-cable 0 
+done ted-manufacturing-corporation 0 
+done toa-se-inc 0 
+done tomar-electronics-inc 0 
+done tsmc-washington 3 
+done ttm-technologies-denver 0 
+done technical-cable-applications-inc 1 
+done techno-metal-post-vermont 2 
+done thermoplastic-processes 1 
+done trayer-engineering-corporation 0 
+done tri-mack-plastics-manufacturing-corporation 0 
+done tristate-electronic-manufacturing 1 
+done tru-tronics-intl 0 
+done two-in-one-manufacturing-inc 0 
+done united-electronic-industries-inc 3 
+done united-tool-mold-inc 0 
+done united-poly-systems 0 
+done universal-plastic-mold-upm-inc 0 
+done van-ness-plastic-molding-co 2 
+done vesper-medical 3 
+done veterans-trading-company-llc 2 
+done vital-systems-corporation 1 
+done wcj-pilgrim-wire-llc 4 
+done wald-wire-manufacturing-co 1 
+done wallace-electronics-inc 0 
+done warrenton-steel 0 
+done washington-metal-fabricators 1 
+done wells-vehicle-electronics 0 
+done widener-metals-inc 2 
+done wirthwein-fountain-inn-llc 2 
+done yaskawa-america-drives-motion-division 0 
+done zentech-manufacturing-inc 1 
+done 4-b-plastics-inc 0 
+done 4g-steel-fabrication 0 
+done 701-sawmill 0 
+done a-l-sheet-metal-fabrications 5 
+done a-n-custom-fabrication-inc 0 
+done a-fabric-place 2 
+done a-a-manufacturing 1 
+done a-c-legg-inc 1 
+done a-f-johnson-millwork-co 0 
+done aadco-medical-inc 0 
+done ab-electronics 0 
+done ac-horn-manufacturing 2 
+done ace-solar 2 
+done acs-industries-inc 1 
+done align-precision-tusacloosa-plant-ii 0 
+done all-county-sheet-metal-inc 2 
+done ambac-international 0 
+done american-automotive-llc 1 
+done amp-welding-metal-fabrication 0 
+done arc-fabricators 0 
+done arch-medical-solutions-seabrook 2 
+done ardco-rosseett-manufacturing-corporation 2 
+done arf-solar-llc 2 
+done asyst-automation 0 
+done ataco-steel-products 0 
+done atex-technologies-inc 0 
+done avx-corporation 0 
+done aaloktronix 0 
+done abbott 2 
+done able-coil-electronics 1 
+done absolute-electronics 1 
+done accent-woodworking-inc 0 
+done ace-electronics 0 
+done ace-wire-cable-co-inc 1 
+done achtuning 2 
+done aco-inc 0 
+done acton-custom-enterprises-llc 0 
+done adaptive-technologies-inc 1 
+done advance-switchboard-distribution 2 
+done advanced-underground-utility-locating 0 
+done advancedpcb-aurora-co 0 
+done aeroparts-manufacturing-repair-inc 0 
+done aftermarket-parts-div-of-vvg 1 
+done against-the-grain-furniture 1 
+done agile-magnetics-a-standex-electronics-company 0 
+done alabama-steel-supply 0 
+done alamance-foods-inc 1 
+done alameda-food-service 0 
+done alaska-alloy 0 
+done all-state-plastics 0 
+done allen-harim-foods 3 
+done alpha-packaging-inc 0 
+done alsco-uniforms 1 
+done amboseli-foods-llc 1 
+done american-apparel 1 
+done american-cable-assemblies 0 
+done american-homepatient 1 
+done american-leather-operations-llc 1 
+done american-made-apparel-manufacturing-inc 0 
+done amp-flow-electric-inc 3 
+done amphenol-custom-cable 2 
+done amtech 0 
+done andersen-wrecking-co-inc 3 
+done anfinsen-plastic-molding-inc 1 
+done antaya-technologies-corporation 0 
+done approved-sheet-metal 2 
+done architectural-system-fabricators 0 
+done architectural-wood 2 
+done arizona-bakery-sales-services 0 
+done arizona-capacitors-inc 1 
+done arizona-emergency-products 0 
+done arizona-furnishings 3 
+done arkansas-electrical-outlet-inc 1 
+done artistic-iron-works 1 
+done ascot-valley-foods 0 
+done assured-solar-energy 0 
+done astronova-inc 0 
+done at-last-gourmet-foods-inc 2 
+done atlantic-restaurant-supermarket-equipment 1 
+done atlantic-semiconductor 2 wrong
+done august-packaging 0 
+done aurora-energy-inc 1 
+done aurora-specialty-textiles-group-inc 0 
+done auto-pro-usa 0 
+done autopartsource 1 
+done autobahn-performance-inc 0 
+done automotive-parts-headquarters-inc 1 
+done automotive-technology 0 
+done aviva-wholesale-louisiana-t-shirts-htv-vinyl-heat-press-machines-equipment-supplies 1 
+done b-s-cable-company-inc 2 
+done ba-steel-llc 1 
+done bei-precision 1 
+done bmes 2 
+done boh-electronics 1 
+done bafs-inc 0 
+done ballard-marine-fabricators 3 
+done bare-wood-furniture-center 1 
+done barney-and-carey-lumber-specialties 1 
+done barnhardt-manufacturing-co 3 
+done bass-electronics-inc 1 
+done bauer-sheet-metal-fab 0 
+done bay-city-electric-works 0 
+done bay-metals-fabrication-llc 0 
+done bayou-apparel-llc 0 
+done beacon-solar-construction 0 
+done bear-packaging-supply-inc 0 
+done beijer-electronics-inc 3 
+done bellhouse-medical-equipment-services-special-needs 0 
+done bergey-s-wholesale-parts 4 
+done bernman-mold-engineering 1 
+done best-source-electronic-corporation 0 
+done biomerics 0 
+done biro-manufacturing-co 0 
+done bismarck-canvas-co 2 
+done black-wolf-design 0 
+done blackshirt-oilfield-services 1 
+done blue-creek-iron-works-metal-fabricator-sheet-metal-fabrication-services-in-dadeville-alabama 3 
+done blue-horizon-energy 1 
+done blueprint-engines 0 
+done blytheville-sheet-metal-inc 0 
+done boise-metal-works 1 
+done bone-dry-solar 0 
+done boston-medical-products-inc 1 
+done boston-solar 0 
+done bow-auto-parts 0 
+done bradford-woodworking 3 
+done brandywine-electronics-ltd 2 
+done broomfield-sheet-metal-inc 1 
+done bucks-4x4 0 
+done bueno-foods 1 
+done built-by-newport 0 
+done c-h-babb-co-inc 0 
+done c-worth-superstore 0 
+done c-c-power-inc 0 
+done cb-solar-inc 3 
+done cbm-plastics-inc 2 
+done cf-woodworks 2 
+ALL-DONE errors 0
+clean 196 | sentences removed 139 | needs review 1 | check errors 0
+REVIEW atlantic-semiconductor Source describes ERAI, Inc., not Atlantic Semiconductor
+sql parts 3 stories 196

@@ -1,0 +1,599 @@
+# At Last Gourmet Foods Inc.
+
+**Old description:** Founded by wife and husband team Janet and Ray in 1990, At Last! Gourmet Foods handcrafts fresh, premium soups, sauces, sides, entrees, dips, spreads, marinades and broths for foodservice operators, grocery retailers, and brand owners who take pride in the quality of food they share with their consumers. Sourcing only the finest ingredients from trusted partners, we cook the traditional way, using techniques that honor each ingredient, building flavor slowly for an unforgettable taste.
+
+## About
+At Last Gourmet Foods Inc. was founded in 1990 by wife-and-husband team Janet and Ray in Minneapolis, Minnesota. The company began by handcrafting fresh, premium soups, sauces, sides, entrees, dips, spreads, marinades, and broths using traditional cooking techniques that honor each ingredient and build flavor slowly.
+
+Today the business operates as a contract manufacturer and co-packer, offering private-label production and product development services from concept through packaging. Its SQF-certified facility handles production scheduling, ingredient sourcing, and regulatory compliance for FDA and USDA labeling requirements. The team includes a director of IT, a regulatory compliance specialist with ten years of experience, and a production scheduler who also manages purchasing.
+
+The company serves foodservice operators, grocery retailers, and brand owners seeking to scale recipes or launch private-label lines. Since 2020 it has also run the ALFA accelerator program in partnership with FoodOps, providing guidance and production resources to small food makers looking to bring their products to market.
+
+At Last Gourmet Foods emphasizes sourcing transparency and partnership, stating that it seeks to provide financial reward to every stakeholder in every product it produces. Its differentiation rests on traditional, small-batch cooking methods, a commitment to ingredient quality, and a regulatory compliance function that ensures labeling accuracy across all customer projects.
+
+## Known for
+- Handcrafted, small-batch cooking using traditional techniques
+- Private label production and product development from concept to packaging
+- SQF-certified food safety management
+- ALFA accelerator program supporting emerging food brands
+- In-house regulatory compliance for FDA and USDA labeling
+
+## Capabilities
+- Private label production
+- Product development
+- Regulatory compliance (FDA/USDA)
+- Production scheduling
+- Purchasing management
+- Ingredient sourcing
+- Packaging
+
+## Industries
+- Foodservice
+- Grocery retail
+- Brand owners
+- Small food manufacturers
+
+## Certifications
+- SQF
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 1990
+- **Headquarters:** Minneapolis, Minnesota
+
+<details><summary>Sources</summary>
+
+- Founded in 1990 by Janet and Ray -> db
+- Headquartered in Minneapolis, Minnesota -> db
+- SQF certified -> db
+- Produces soups, sauces, sides, entrees, dips, spreads, marinades, broths -> db, /about
+- Offers private label production and product development -> /, products
+- Serves foodservice operators, grocery retailers, brand owners -> db, /about
+- ALFA accelerator program with FoodOps since 2020 -> /
+- Team includes Director of IT, Regulatory Compliance Specialist, Production Scheduler/Purchasing Manager -> /about
+- Cooks traditional way, building flavor slowly -> db, /about
+- Mission: industry leading quality, exceptional customer service, sourcing transparency -> /about
+</details>
+
+---
+
+# Atlantic Restaurant & Supermarket Equipment
+
+**Old description:** Atlantic supplies commercial cooking equipment, refrigeration, walk-in coolers and freezers, ice machines, food preparation equipment, and supermarket displays. Visit our Kearny, New Jersey showroom or shop online with nationwide shipping and experienced equipment support since 1998.
+
+## About
+Atlantic Restaurant & Supermarket Equipment operates from a 50,000-square-foot showroom and warehouse in Kearny, New Jersey. Founded in 1998, the company has spent over two decades supplying commercial kitchen equipment to businesses across the New York metropolitan area.
+
+The distributor stocks a broad range of products including commercial cooking equipment (ranges, fryers, ovens, griddles), refrigeration equipment (reach-in refrigerators, display cases, prep tables, walk-in coolers and freezers), commercial ice machines, food preparation equipment, and supermarket display cases. It also offers kitchen design consultation and coordinates delivery and installation for walk-in units. The facility carries inventory from brands such as Atosa, Coldline, Hoshizaki, Pitco, and Dukers, and provides nationwide shipping.
+
+Atlantic serves independent restaurants, supermarkets, delis, bakeries, cafeterias, convenience stores, butcher shops, and other foodservice operations. Customers include operators opening new locations, replacing aging equipment, or expanding existing kitchens. Recent reviews highlight walk-in cooler projects for restaurants and retail stores.
+
+The company emphasizes knowledgeable guidance over simple product sales, aiming to help customers build functional kitchens and service areas. It offers financing up to $50,000 and a one-year limited parts and labor warranty on equipment.
+
+## Known for
+- 50,000 sq. ft. showroom and warehouse in Kearny, NJ
+- Nationwide shipping with equipment support since 1998
+- Kitchen design consultation services
+- Financing options up to $50,000
+- One-year limited parts and labor warranty
+
+## Capabilities
+- Commercial cooking equipment distribution
+- Commercial refrigeration equipment distribution
+- Walk-in cooler and freezer supply
+- Commercial ice machine distribution
+- Food preparation equipment distribution
+- Supermarket display equipment distribution
+- Kitchen design consultation
+- Equipment financing facilitation
+- Installation coordination for walk-in units
+
+## Industries
+- Restaurants
+- Supermarkets
+- Bakeries
+- Delis
+- Cafeterias
+- Convenience stores
+- Butcher shops
+- Foodservice operations
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Founded:** 1998
+- **Headquarters:** Kearny, New Jersey
+
+<details><summary>Sources</summary>
+
+- Founded in 1998 -> db
+- Headquarters in Kearny, New Jersey -> db
+- 50,000 sq. ft. showroom and warehouse -> /
+- Nationwide shipping and equipment support since 1998 -> /
+- Supplies cooking equipment, refrigeration, walk-ins, ice machines, food prep equipment, supermarket displays -> /
+- Offers kitchen design consultation -> /
+- Financing up to $50,000 -> /
+- One-year limited parts and labor warranty -> /
+- Serves restaurants, supermarkets, delis, bakeries, cafeterias, convenience stores, butcher shops, foodservice operations -> /
+- Carries brands including Atosa, Coldline, Hoshizaki, Pitco, Dukers -> /
+</details>
+
+---
+
+# Atlantic Semiconductor
+
+**Old description:** ERAI, Inc. is a privately held global information services organization that monitors, investigates and reports issues affecting the global semiconductor supply chain. Since 1995, ERAI tools and services have assisted buyers and sellers from all sectors of the supply chain in preventing loss by mitigating risk in the material purchasing process. Our unique service enables companies to perform industry specific risk mitigation on suspect counterfeit, high-risk and non-conforming parts, as well as, problematic vendors and customers.
+
+## About
+Atlantic Semiconductor operates from Peabody, Massachusetts, where it has been supplying electronic components since 1995. The privately held company was established to provide authenticated, reliable parts to original equipment manufacturers and contract manufacturers.
+
+The company maintains a 26,500-square-foot warehouse and a proprietary database, called the Matrix, that tracks more than 10 million electronic components and computer products. Beyond distribution, Atlantic Semiconductor runs an in-house authentication lab staffed by component engineers and certified quality inspectors. The lab performs a range of counterfeit-detection tests, including acetone and scrape tests, X-ray examination of bond wires and lead frames, parametric I‑V curve tracing for diodes and transistors, functional memory testing with Advin equipment, and bench testing of oscillators, switches, and relays.
+
+Customers are primarily OEMs and contract manufacturers in the electronics, semiconductor, and computer industries. The company also partners with external test houses such as Semiconductor in Clearwater, Florida, and Custom Analytical in Salem, New Hampshire, to extend its analytical capabilities.
+
+Atlantic Semiconductor says its differentiation rests on ISO 9001:2015 certification, a focus on counterfeit prevention, and a commitment to fast fulfillment and fair pricing. The firm’s stated goal is to provide superior service that fosters repeat business and continual improvement.
+
+## Known for
+- ISO 9001:2015 certified quality system
+- 26,500+ sq ft warehouse with 10+ million parts in proprietary database
+- In-house counterfeit detection lab with X-ray, parametric, and functional test capabilities
+- Nearly 30 years serving OEMs and contract manufacturers
+
+## Capabilities
+- Counterfeit parts checklist
+- Part marking verification/spec sheet review
+- Device surface acetone test
+- Print marking test (mineral spirits/isopropyl alcohol)
+- Scrape test (razor blade)
+- Mechanical measurement (caliper)
+- X-ray examination (bonding diagram/pinout verification, package lead frame, bond wire condition)
+- Discrete device measurement (inductors, capacitors, resistors)
+- Parametric testing (diodes, transistors MOSFET/Bipolar I-V characteristics)
+- Functional test – digital (Advin memory test on PROMs, EEPROM, RAM)
+- Functional test – analog (BkPrecision) DIP components test
+- Bench test (oscillators, switches, relays)
+
+## Industries
+- Electronics
+- Semiconductor
+- Computer
+- OEM
+- Contract Manufacturing
+
+## Equipment
+- Advin Memory Test
+- BkPrecision
+- X-ray inspection system
+
+## Certifications
+- ISO 9001:2015
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Founded:** 1995
+- **Headquarters:** Peabody, Massachusetts
+
+<details><summary>Sources</summary>
+
+- Founded in 1995 in Peabody, MA -> /
+- 26,500+ sq ft warehouse -> /
+- 10+ million parts in proprietary database (the Matrix) -> /
+- ISO 9001:2015 certified -> /
+- Provides electronic components to OEMs and CMs -> /
+- Counterfeit detection tests: acetone, scrape, X-ray, parametric, functional, bench -> /quality
+- Partners: Premier Semiconductor (Clearwater, FL) and Custom Analytical (Salem, NH) -> /quality
+- Staff includes sales reps, purchasing agents, component engineers, certified quality inspectors -> /quality
+- Equipment: Advin Memory Test, BkPrecision -> /quality
+- Goal: superior service fostering repeat business and continual improvement -> /
+</details>
+
+---
+
+# August Packaging
+
+**Old description:** August Packaging has been a cornerstone of the St. Louis packaging market since 1987, providing the industry with reliable, innovative packaging solutions that protect products and enhance brand presence. With the growth in e-commerce packaging over the past 20 years, our team is experienced and here to provide the same support wherever you are.
+
+## About
+August Packaging was founded in 1987 in St. Louis, Missouri, and has operated continuously from its headquarters on Hoffmeister Avenue. The company began as a local packaging supplier and grew into a national partner through a network of third‑party logistics facilities.
+
+The firm provides end‑to‑end packaging services, including custom structural and graphic design, prototype development, package testing and certification, automation integration (pallet unitizing, case sealing, full‑line automation), vendor‑managed inventory programs, and sustainability consulting. It produces custom corrugated containers, flexible packaging, and barrier films for food and industrial applications, handling projects from concept through production.
+
+August Packaging serves customers in e‑commerce and third‑party logistics, manufacturing and industrial sectors, food and beverage, retail and consumer goods, and healthcare and pharmaceuticals. Its multi‑location programs and stocking programs support businesses with distributed operations across the United States.
+
+The company emphasizes a full‑service partnership model, positioning itself as an extension of the client’s team rather than a transactional vendor. Its stated mission is to deliver innovative packaging solutions while building lasting partnerships based on trust, quality, and exceptional service, guided by values of integrity, innovation, quality, and partnership.
+
+## Known for
+- Full-service packaging partner from concept to production
+- National reach with local service via 3PL partner facilities
+- Vendor-managed inventory programs with customized reporting
+- Automation solutions for increased throughput and labor re-allocation
+- Sustainability consulting and eco-friendly packaging alternatives
+
+## Capabilities
+- Custom packaging design
+- Product-specific packaging design
+- Brand integration & visual identity
+- Structural engineering for optimal protection
+- Cost-effective material selection
+- Prototype development & testing
+- Automation (pallet unitization, case sealing, full-line automation)
+- Graphic design & branding integration
+- Package performance testing & certification
+- Sustainability consulting
+- Packaging consultation (needs assessment, material/design recommendations, cost analysis, regulatory compliance)
+- Multi-location programs
+- Stocking programs
+- Vendor-managed inventory
+- Custom corrugated manufacturing
+- Flexible packaging solutions
+- Barrier packaging for food products
+
+## Industries
+- E-Commerce & 3PL
+- Manufacturing & Industrial
+- Food & Beverage
+- Retail & Consumer Goods
+- Healthcare & Pharmaceuticals
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1987
+- **Headquarters:** St. Louis, Missouri
+
+<details><summary>Sources</summary>
+
+- Founded 1987 in St. Louis, Missouri -> db and /about
+- Headquarters at 4156 Hoffmeister Ave, Saint Louis, MO 63125 -> / and /about
+- Provides custom packaging design, automation, vendor-managed inventory, sustainability consulting -> /services
+- Serves e-commerce & 3PL, manufacturing & industrial, food & beverage, retail & consumer goods, healthcare & pharmaceuticals -> /services
+- Offers custom corrugated, flexible packaging, barrier packaging -> /products
+- National reach via 3PL partner facilities -> /about
+- Mission: deliver innovative packaging solutions while building lasting partnerships based on trust, quality, and exceptional service -> /about
+- Values: integrity, innovation, quality, partnership -> /about
+</details>
+
+---
+
+# Aurora Energy, Inc
+
+**Old description:** Serving the Mid-Atlantic, Aurora Energy is a commercial solar energy leader based in Columbia, Maryland. Founded in 1994, we empower businesses across Maryland, DC, and Virginia to achieve clean energy goals through custom-designed, installed, and maintained commercial solar power systems. We tailor our services for each business customer, making
+
+## About
+Aurora Energy, Inc. is a commercial solar energy company based in Columbia, Maryland, founded in 1994. The firm serves businesses across Maryland, Washington, D.C., and Virginia, providing custom-designed, installed, and maintained solar power systems. No founder names or ownership details are disclosed.
+
+The company manages the full project lifecycle: due diligence, engineering and design, permitting, installation, and ongoing operations. Its team handles commercial-scale photovoltaic arrays, including rooftop, carport, and ground-mount configurations, and assists clients with incentive programs such as USDA grants and utility interconnection. Aurora does not manufacture panels or perform residential installations.
+
+Clients span commercial property management, government facilities, hospitality, agriculture, and non-profit sectors. Notable projects include the United Therapeutics Unisphere in Silver Spring — described as the world’s largest net-zero building — multiple hotel rooftops in the D.C. area, the first solar installation at the Pentagon, and systems for Bernstein Management Corporation, Meinhardt Properties, Shapiro & Duncan, Porter Construction, MOMI, Retired Racehorse Project, and Waredaca Farms.
+
+Aurora differentiates itself by tackling complex design challenges that other installers decline, emphasizing tailored solutions and hands-on coordination with utilities and grant agencies. Customers cite the firm’s responsiveness, detailed proposals, and ability to deliver maintenance-free performance meeting projected energy savings.
+
+## Known for
+- Custom design, installation, and maintenance of commercial solar systems
+- Expertise in overcoming challenging design obstacles
+- Assistance with USDA grants and utility company coordination
+- Full project lifecycle management from due diligence to operation
+- Exclusive focus on commercial (non-residential) solar projects
+
+## Capabilities
+- Commercial solar system design
+- Commercial solar installation
+- Solar project development
+- Engineering for photovoltaic arrays
+- Operations and maintenance
+- Grant and incentive assistance (USDA)
+- Utility interconnection coordination
+- Community solar array siting
+- Free commercial solar consultation
+- Due diligence and site assessment
+- Permitting and regulatory compliance
+- Rooftop, carport, and ground-mount solar arrays
+
+## Industries
+- Commercial real estate
+- Property management
+- Government / military facilities
+- Hospitality
+- Agriculture
+- Non-profit organizations
+- Construction and engineering firms
+
+## Company details
+- **Company Type:** Installer / service company
+- **Founded:** 1994
+- **Headquarters:** Columbia, Maryland
+
+<details><summary>Sources</summary>
+
+- Company name Aurora Energy, Inc -> db
+- Founded 1994 -> db
+- Headquarters Columbia, Maryland -> db
+- Services: custom-designed, installed, and maintained commercial solar power systems -> /
+- Service area: Maryland, DC, Virginia -> /
+- Notable project: United Therapeutics Unisphere (largest net-zero building) -> /
+- Hotel rooftop installations in DC area and first solar project at Pentagon -> /
+- Customer testimonials from Bernstein Management Corporation, Meinhardt Properties, Shapiro & Duncan, Porter Construction, MOMI, Retired Racehorse Project, Waredaca Farms -> /
+- No residential solar, not a direct seller of panels -> /
+- Assistance with USDA grants and utility coordination -> /
+- Full lifecycle: due diligence, design, installation, operation -> /
+- Known for figuring out how to make a design work when others can't -> /
+</details>
+
+---
+
+# Aurora Specialty Textiles Group, Inc.
+
+**Old description:** Dedicated to quality and customer satisfaction, Aurora Specialty Textiles focuses on research, development and investment in state-of-the-art technology to meet your advanced and unique textile needs.
+
+## About
+Aurora Specialty Textiles Group operates from Yorkville, Illinois, where it has manufactured textiles in the United States for over a century. The company celebrated its 140th anniversary of domestic production in 2023. It functions as a subsidiary of Meridian Industries, Inc., a family-owned diversified manufacturing group founded in 1943 and based in Milwaukee, Wisconsin, which comprises five operating companies.
+
+The company specializes in textile coating and finishing, offering a broad range of processes including coating, dyeing, fabric preparation, calendering, angle inducing, and converting services such as precision slitting to widths between 0.75 and 126 inches. Its dedicated research and development team supports new product innovation from concept through commercialization, and the firm also provides fabric sourcing for both woven and nonwoven materials from domestic and international suppliers. Quality control is conducted in on-site laboratories with in-line coat weight monitoring and a contamination-controlled rewind area.
+
+Aurora serves markets that require pressure-sensitive tape backings, technical textiles, and printable textiles, engineering custom fabrics for diversified end-use applications. Its customer base includes businesses seeking coated and finished textile solutions across various industrial sectors.
+
+The company emphasizes its commitment to quality and sustainability, holding ISO 9001 and ISO 14001 certifications. Its stated mission is to exceed customer expectations while providing a safe, collaborative workplace, and its vision targets North American leadership in textile finishing and coating through continuous investment in technology and skilled personnel.
+
+## Known for
+- ISO 9001 and ISO 14001 certified quality and environmental management systems
+- Precision slitting capability from 0.75" to 126" wide
+- In-house R&D staff with proven product development track record
+- In-line coat weight monitoring on coating lines
+- Contamination-free, environmentally controlled final rewind area
+
+## Capabilities
+- Coating & Finishing
+- Dyeing
+- Fabric Preparation
+- Calendering
+- Converting Services
+- Fabric Sourcing
+- Angle Inducing
+- New Product Innovation
+
+## Industries
+- Pressure-sensitive tape
+- Technical textiles
+- Printable textiles
+
+## Certifications
+- ISO 9001
+- ISO 14001
+
+## Company details
+- **Company Type:** Manufacturer
+- **Ownership:** Subsidiary of Meridian Industries, Inc. (family-owned)
+- **Headquarters:** Yorkville, Illinois
+
+<details><summary>Sources</summary>
+
+- Headquarters in Yorkville, Illinois -> db
+- 140th anniversary of U.S. textile manufacturing celebrated in 2023 -> /
+- Subsidiary of Meridian Industries, Inc., a family-owned group founded in 1943 -> /about
+- ISO 9001 certified -> /quality
+- ISO 14001 EMS certified -> db, /
+- Processes: coating, finishing, dyeing, fabric preparation, calendering, converting, fabric sourcing, angle inducing, new product innovation -> /capabilities
+- Converting: precision slitting 0.75" to 126" -> /capabilities
+- Markets: pressure-sensitive tape backing, technical textiles, printable textiles -> /
+- In-line coat weight monitoring, contamination-controlled rewind area -> /quality
+- Mission and vision statements -> /about
+</details>
+
+---
+
+# Auto Pro USA
+
+**Old description:** has dedicated itself since 2001 to the restoration & performance industries and is committed to providing the highest quality product at the most competitive pricing in the market. We are confident that we supply some of the finest automotive parts in the marketplace. Using only the finest quality materials
+
+## About
+Auto Pro USA was founded in 2001 in Carson, California. The company has dedicated itself to the restoration and performance automotive industries, focusing on supplying reproduction parts for classic vehicles.
+
+Product descriptions note CNC machining for hub adapters to ensure precise fit, and the use of materials such as polished aluminum, stainless steel, walnut wood, leather, and suede. No facility size or headcount figures are disclosed.
+
+Auto Pro USA serves the classic car restoration market, performance automotive enthusiasts, and direct consumers through its e-commerce platform. Its catalog targets owners and restorers of vehicles such as 1958‑64 Chevrolet full‑size cars, 1963‑82 Corvettes, 1969‑94 GM trucks, and 1999‑2007 Ford Mustangs.
+
+The company states that it differentiates itself by providing the highest quality product at the most competitive pricing, using only the finest quality materials, and ensuring direct replacement fitment to original equipment part numbers.
+
+## Known for
+- Highest quality product at the most competitive pricing
+- Uses only the finest quality materials
+- CNC machined for perfect fitting hub adapters
+- Direct replacement for OEM part numbers ensuring precise fit
+- Commitment to dependable, long-lasting replacement parts
+
+## Capabilities
+- CNC machining
+- Reproduction part manufacturing
+
+## Industries
+- Automotive restoration
+- Automotive performance
+- Classic car parts
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 2001
+- **Headquarters:** Carson, California
+
+<details><summary>Sources</summary>
+
+- Founded in 2001 -> db
+- Headquarters in Carson, California -> db
+- Dedicated to restoration & performance industries -> db description
+- Supplies reproduction automotive parts (power steering cylinders, fan clutches, steering wheels, hub adapters, convertible top cylinders, horn buttons) -> page /
+- CNC machining used for hub adapters -> page /
+- Materials include polished aluminum, stainless steel, walnut wood, leather, suede -> page /
+- Serves classic car restoration and performance markets -> db description
+- Claims highest quality at competitive pricing using finest materials -> db description
+</details>
+
+---
+
+# AutoPartSource
+
+**Old description:** We are an American-owned company with 80 years in business with an emphasis on the Automotive Aftermarket via Sales, Distribution, and Manufacturing of Brake pads, Cabin Air Filters, and Exhaust Assemblies.
+
+## About
+AutoPartSource is based in Richmond, Virginia, and traces its roots to 1946. The American-owned company has operated for eight decades in the automotive aftermarket, building a business around the sale, distribution, and manufacture of brake pads, cabin air filters, and exhaust assemblies.
+
+The company manufactures brake pads, shoes, rotors, drums, cabin air filters, and exhaust components such as catalytic converters, flex pipes, and welded assemblies at its Richmond facility. It applies a rust‑abatement zinc coating to brake pads to prevent delamination and uses premium coated steel for durability. Cabin air filters are produced under the AirQualitee brand and through private‑label programs, with media options including particulate and carbon types. A warehouse in Richmond supports distribution across the United States and internationally, including Canada.
+
+AutoPartSource serves the automotive aftermarket and light‑ to medium‑duty truck segments. Its customer base includes traditional warehouse distributors, jobbers, fleet operators, and national accounts in both the U.S. and Canada. The company also supplies emergency‑service vehicles and offers private‑label programs for brake pads and cabin air filters.
+
+The firm emphasizes made‑in‑the‑USA production for its cabin air filters and highlights full‑line coverage engineered to OE form, fit, and function. Its differentiators include the zinc coating process, premium coated steel, and the ability to customize private‑label offerings for distributors.
+
+## Known for
+- Made-in-the-USA cabin air filter manufacturing
+- Private-label programs for brake pads and cabin air filters
+- Rust abatement zinc coating on brake pads
+- Premium coated steel for extended service life
+- Full-line coverage engineered to OE form, fit, and function
+
+## Capabilities
+- Rust abatement coating (Zn)
+- Premium coated steel application
+- Cabin air filter manufacturing (particulate and carbon media)
+- Brake pad and shoe manufacturing
+- Brake rotor and drum manufacturing
+- Exhaust assembly manufacturing (catalytic converters, flex pipes, welded assemblies)
+- Private label program management
+- Warehouse distribution (domestic and international)
+- Direct sales to warehouse distributors, jobbers, fleets, national accounts
+
+## Industries
+- Automotive aftermarket
+- Light duty truck
+- Medium duty truck
+- Emergency service vehicles
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1946
+- **Ownership:** American-owned
+- **Headquarters:** Richmond, Virginia
+
+<details><summary>Sources</summary>
+
+- Founded 1946 -> db
+- Headquarters Richmond, Virginia -> db
+- American-owned company -> page
+- 80 years in business -> page
+- Sales, Distribution, and Manufacturing of Brake pads, Cabin Air Filters, and Exhaust Assemblies -> page
+- Sells to Warehouse Distributors, Jobbers, Fleets, National Accounts -> page
+- Private label programs for brake pads and cabin air filters -> page
+- Distributes via Richmond warehouse to USA and internationally, including Canada -> page
+- Manufactures cabin air filters in USA under AirQualitee brand -> page
+- Products: brake pads, shoes, rotors, drums, cabin air filters, PPE masks, exhaust converters, flex pipes, welded assemblies -> page
+- Capabilities: Rust Abatement Coating (Zn), Premium Coated Steel -> page
+- Industries: automotive, light and medium duty truck applications -> page
+- Various media types for cabin air filters (particulate or carbon) -> page
+</details>
+
+---
+
+# Autobahn Performance Inc
+
+**Old description:** We specialize in fixing and maintaining vehicles with the highest quality parts and skilled, reliable labor, ensuring the job is done right the very first time. As a family-owned and operated business since 1994, we take pride in serving our community with honest, dependable automotive care and a personal touch that keeps our customers coming back year after year.
+
+## About
+Autobahn Performance Inc has operated as a family-owned auto repair shop in Peabody, Massachusetts since 1994. The business was established to provide honest, dependable automotive care to the local community with a personal touch.
+
+The shop specializes in repair and maintenance services for a wide range of vehicles, including American, European, import, and exotic makes. Its service portfolio covers air conditioning repair and replacement (compressors, condensers, evaporators), brake repair and fluid service, engine diagnostics, computer diagnostics, digital vehicle inspection, and general auto repair. Technicians are factory trained, and the facility offers amenities such as free Wi-Fi, a waiting room with beverages and snacks, after-hours drop-off, a kids' play area, and complimentary Uber rides.
+
+The company serves individual vehicle owners throughout the Peabody area, welcoming both new and returning customers. Its customer base spans owners of virtually all vehicle types, from daily drivers to exotic models, reflecting the shop’s capability to handle diverse automotive platforms.
+
+The family-owned structure emphasizes reliable labor, quality parts, and a community-focused approach that has kept customers returning for decades.
+
+## Known for
+- Factory-trained technicians
+- Complimentary Uber rides for customers
+- After-hours vehicle drop-off
+- Digital vehicle inspection service
+
+## Capabilities
+- Auto A/C repair and replacement
+- Brake repair and service
+- Brake fluid service
+- Engine diagnostics
+- Computer diagnostics
+- Digital vehicle inspection
+- General auto repair
+
+## Industries
+- Automotive repair
+- Automotive maintenance
+- Vehicle inspection
+
+## Company details
+- **Company Type:** Installer / service company
+- **Founded:** 1994
+- **Ownership:** Family-owned
+- **Headquarters:** Peabody, Massachusetts
+
+<details><summary>Sources</summary>
+
+- Founded 1994, family-owned -> db
+- Headquarters: Peabody, MA -> db
+- Services: A/C repair, brake repair, engine diagnostics, computer diagnostics, digital vehicle inspection, general auto repair -> /
+- Services most makes & models: American, European, Import, Exotic -> /
+- Factory trained technicians -> /
+- 2 year / 24,000 mile warranty -> /
+- Amenities: free Wi-Fi, waiting room, beverages & snacks, after hours drop-off, TV, kids play area, work station, free Uber rides -> /
+- Website: autobahnperformance.com -> db
+</details>
+
+---
+
+# Automotive Parts Headquarters Inc.
+
+**Old description:** Don Bickle Jr. and Tim Bickle, owners of Hays,Kansas-based Warehouse Inc. and its network of S&W Supply stores, announced Tuesday they have partnered with Automotive Parts Headquarters Inc., a third-generation, family-owned auto parts distributor based in St. Cloud, Minnesota. APH…
+
+## About
+Automotive Parts Headquarters Inc. (APH) is a third-generation, family-owned aftermarket auto parts distributor headquartered in St. Cloud, Minnesota. The company traces its roots to 1920 when National Bushing & Parts Company incorporated in Minneapolis. Jack Bartlett joined the firm in 1938, became a financial partner in 1959, and with partners established APH in 1965. Leadership passed to his son John Bartlett in 1976 and to the third generation, Corey Bartlett, who became president in 2008.
+
+Today APH operates three modern distribution centers, including a 160,000-square-foot facility expanded by 40,000 square feet in 2018, and supports a network of nearly 300 corporate and independent Auto Value parts stores across Minnesota, Wisconsin, North Dakota, South Dakota, Michigan, Montana, Iowa, Nebraska, and Wyoming. The company employs approximately 1,800 people and serves as a regional hub for the Aftermarket Auto Parts Alliance, which connects more than 2,200 parts stores and 3,000 certified service centers throughout North America.
+
+APH’s customer base includes independent auto parts retailers, professional repair shops, and heavy-duty truck service providers through its affiliation with HDA Truck Pride. The distributor supplies a broad range of aftermarket components for passenger vehicles and commercial trucks, emphasizing rapid fulfillment from its Midwest warehouses.
+
+The company says its differentiation lies in a service-first culture — “Service is the difference” — backed by core values of integrity, continuous improvement, and community support. APH highlights its family ownership and long-term relationships with suppliers and store owners as key to its ability to say “yes” to customer requests and maintain consistent parts availability.
+
+## Known for
+- Family-owned and operated for three generations
+- Network of nearly 300 Auto Value parts stores across nine states
+- 1,800 service-driven employees
+- Member of the Aftermarket Auto Parts Alliance and HDA Truck Pride
+
+## Capabilities
+- Aftermarket auto parts distribution
+- Warehouse and distribution center operations
+- Retail auto parts store operations (Auto Value)
+- Supply chain management for independent retailers
+- Heavy-duty truck parts distribution (HDA Truck Pride)
+
+## Industries
+- Automotive aftermarket
+- Auto parts retail
+- Automotive service and repair
+- Heavy-duty truck parts
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Founded:** 1920
+- **Employees:** 1,800
+- **Ownership:** Family-owned
+- **Headquarters:** St. Cloud, Minnesota
+
+<details><summary>Sources</summary>
+
+- Founded 1920 as National Bushing & Parts Company -> /about
+- Headquarters in St. Cloud, Minnesota -> /about
+- Third-generation family-owned (Bartlett family) -> /about
+- 1,800 employees -> /about
+- Three modern distribution centers, 160,000 sq. ft. facility expanded by 40,000 sq. ft. -> /about
+- Nearly 300 Auto Value stores across nine states -> /about
+- Member of Aftermarket Auto Parts Alliance -> /about
+- Affiliated with HDA Truck Pride -> /about
+- Core values and service-first culture -> /about
+- Community involvement (WACOSA, American Cancer Society, etc.) -> /about
+- Partnership with Bickle family (Warehouse Inc.) -> /
+</details>
+
+---

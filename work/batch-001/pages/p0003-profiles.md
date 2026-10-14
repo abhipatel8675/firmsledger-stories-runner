@@ -262,7 +262,7 @@ Bunty LLC is headquartered in Greenville, South Carolina. The company was founde
 
 The company provides a broad range of metalworking services, including custom forging (closed-die, cold forging), casting (die, investment, permanent mold, sand, centrifugal, and lost-foam), CNC machining (5-axis, milling, turning, EDM wire cutting), heat treatment, surface treatments (anodizing, plating, powder coating, DLC), and fabrication with tooling. Bunty operates domestic and overseas manufacturing, warehousing, and inspection facilities, supporting production from prototype through full-run volumes. No specific facility size or headcount is disclosed.
 
-Bunty serves the automotive, aerospace, energy, medical, and food-processing industries. Its customer base includes the world’s largest tire manufacturer, a leading transmission supplier to a major Japanese automaker, Tier I automotive manufacturers of shocks, brakes, drivetrain components, and mirror assemblies, as well as producers of stainless-steel parts for food processing that meet FDA standards.
+Bunty serves the automotive, aerospace, energy, medical, and food-processing industries. Its customer base includes the world’s largest tire manufacturer, a transmission supplier to a major Japanese automaker, Tier I automotive manufacturers of shocks, brakes, drivetrain components, and mirror assemblies, as well as producers of stainless-steel parts for food processing that meet FDA standards.
 
 The company emphasizes a flexible, adaptive business model that combines global sourcing with reduced overhead and agility. It highlights rapid turnaround—offering delivery of stocked parts within one to three days—volume discounts, an extensive inventory of metal shapes, and rigorous process control protocols certified to AS9100D and ISO 9001:2015. Bunty positions itself as a partner that brings global manufacturing capabilities to small and mid-sized businesses.
 
@@ -428,7 +428,7 @@ The shop runs 30 injection molding machines ranging from 100 to 950 tons of clam
 
 C & S serves as a Tier 2 automotive supplier, producing plastic components for domestic and export vehicle programs. The company does not disclose specific OEM customers but emphasizes its IATF 16949:2016 quality registration and a commitment to zero-defect production across all shifts.
 
-The firm positions itself on competitive pricing, 100 percent on-time delivery, and a quality system staffed by dedicated technicians on every production shift. Its stated goal is to be the best possible second-tier supplier to the automotive industry.
+The firm positions itself on competitive pricing, 100 percent on-time delivery, and a quality system staffed by dedicated technicians on every production shift.
 
 ## Known for
 - 100% on-time delivery record
@@ -555,7 +555,6 @@ Johnson founded the business on a legacy of quality, precision, and craftsmanshi
 ## Known for
 - Commonly holds tolerances to ±0.0001 inch
 - Specializes in fracture-critical and flight-safety-critical landing gear components
-- AS9100:2016 and ISO 9001:2015 certified, ITAR registered
 - Proactive scheduling module for on-time delivery
 - Long-term established vendor relationships
 

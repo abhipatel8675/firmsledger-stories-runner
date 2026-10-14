@@ -1,0 +1,694 @@
+# MetalPride Inc.
+
+**Old description:** We are a fast-paced, specialized custom sheet metal fabrication shop for Commercial Roofing and Architectural Projects. Standard Roofing orders of Coping Cap, Gutter, Downspout, Trim & Flashing Packages, Snaploc Standing Seam Panels, and Custom Screw Down Panels will consistently be complete within 24-48 hours. ES-1 Certified and fabricated to SMACNA Standards; We are set up to produce Commercial Roofing metal all day, everyday and bring a lot of custom fabrication options including welding and in-house painting to the mix.
+
+## About
+MetalPride Inc. was founded in 2001 in Atlanta, Georgia, by Gary Woodall, a commercial roofing veteran with over 30 years of experience running crews on high-end jobs. Woodall recognized an industry-wide problem with getting sheet metal fabricated on time and launched the company to address that gap. Michael Marchman, who brings a background in automotive and auto-part sales, serves as president.
+
+The shop specializes in custom sheet metal fabrication for commercial roofing and architectural projects. Its core processes include press-brake forming up to 12-foot lengths in steel (26-gauge to 1/4-inch) and aluminum (.032 to .090), welding, and in-house painting of mill-finish materials. Standard roofing items such as coping cap, gutter, downspout, trim and flashing packages, Snaploc standing seam panels, and custom screw-down panels are typically completed within 24 to 48 hours. The facility in southwest Atlanta stocks a range of pre-painted Kynar-coated coil, galvanized, Galvalume, and anodized aluminum, and the company operates its own delivery fleet to reduce project delays.
+
+MetalPride serves architectural contractors, project managers, and government/military buyers. Its products finish roofing, curtain wall, and storefront installations, and the team can fabricate most items listed in the SMACNA manual. Sales director Sean Rhodes adds 25 years of government and military contract experience, indicating a foothold in public-sector work.
+
+The company emphasizes reliable lead times, ES-1 certification, and adherence to SMACNA standards as differentiators. In-house painting and welding, a stocked inventory of industry-standard metals, and a focus on clear, consistent communication are cited as reasons customers return.
+
+## Known for
+- Standard roofing orders completed in 24–48 hours
+- ES-1 certified and fabricated to SMACNA standards
+- In-house welding and painting of mill-finish steel and aluminum
+- Own delivery fleet for direct job-site transport
+- Stocked inventory of pre-painted Kynar coil, galvanized, Galvalume, and anodized aluminum
+
+## Capabilities
+- Custom sheet metal fabrication
+- Press-brake forming (up to 12' lengths)
+- Welding
+- In-house painting
+- Snaploc standing seam panel fabrication
+- Custom screw-down panel fabrication
+- Coping cap, gutter, downspout, trim & flashing packages
+- Curtain wall and storefront metal fabrication
+- SMACNA manual fabrication
+- ES-1 certified fabrication
+- Inventory planning and stocking
+- Delivery and freight management
+
+## Industries
+- Commercial roofing
+- Architectural sheet metal
+- Curtain wall systems
+- Storefront installations
+- Residential construction
+- Industrial construction
+- Government and military contracting
+
+## Certifications
+- ES-1 Certified
+- SMACNA Standards
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 2001
+- **Headquarters:** Atlanta, Georgia
+
+<details><summary>Sources</summary>
+
+- Founded 2001 -> db
+- Headquarters Atlanta, GA -> db
+- CEO Gary Woodall founded company after 30 years commercial roofing experience -> /
+- President Michael Marchman background in automotive sales -> /
+- Standard roofing orders completed within 24-48 hours -> /
+- ES-1 Certified and fabricated to SMACNA Standards -> /
+- Press-brake capabilities up to 12' lengths for steel and aluminum -> /
+- In-house welding and painting available for mill finish steel and aluminum -> /
+- Own delivery fleet to cut down project delays -> /capabilities
+- Stock variety of industry standard aluminum, steel & stainless -> /capabilities
+- Industries: commercial roofing, architectural, curtain wall, store front -> /
+- Government/military contract sales experience (Sean Rhodes) -> /
+- Materials: Kynar coated, galvanized, Galvalume, anodized, mill finish, stainless -> /
+- Team members: Justin Schneider, Teagan Rhodes, Doug Gallaway, Gary Woodall, Michael Marchman, Sean Rhodes -> /
+</details>
+
+---
+
+# Metro Assemblies, Inc
+
+**Old description:** Welcome to Metro Assemblies, Inc, the leading contract manufacturer of custom wire and cable assemblies. We are dedicated to providing high-quality, custom solutions for all your wire and cable assembly needs. With a focus on excellence and innovation, we strive to exceed our customers' expectations. Proudly manufacturing in Minneapolis, Minnesota since 1971.
+
+## About
+Metro Assemblies, Inc. was founded in 1971 by Robert and Priscilla Barnick in a family garage in Minneapolis, Minnesota. The family-owned business has grown into a multi-million-dollar contract manufacturer while remaining headquartered in Minneapolis.
+
+The company produces custom wire and cable assemblies, including wire harnesses, cable assemblies, insert overmolded cables, box builds, and electro-mechanical assemblies. Its capabilities span automatic wire cutting and stripping, terminal crimping, soldering, ultrasonic splicing and welding, sleeving, heat shrink, potting, CNC and laser cutting, and 3D printing. Metro supports programs from rapid prototyping through low-volume specialty runs to higher-volume steady-state production.
+
+Metro serves OEMs and contract manufacturers across medical device, industrial automation, defense, consumer electronics, agriculture, telecommunications, and automotive sectors. Its customer base ranges from start-ups to Fortune 50 corporations.
+
+The company emphasizes its founding values of high-quality products and excellent customer service, backed by ISO 9001 certification, UL listing (ZPFW2/8), and adherence to IPC/WHMA-A-620 workmanship standards. Metro highlights on-time delivery, competitive pricing, and a team of qualified experts as key differentiators.
+
+## Known for
+- ISO 9001 certified and UL listed (ZPFW2/8)
+- Manufactures to IPC/WHMA-A-620 standards
+- Prototype through full production support
+- Insert overmolding and custom molded cable assemblies
+- On-time delivery commitment
+
+## Capabilities
+- Custom cable assemblies
+- Wire harnesses
+- Insert overmolding
+- Box build / electro-mechanical assemblies
+- Prototyping
+- Automatic wire cutting & stripping
+- Terminal crimping
+- Soldering of components
+- Ultrasonic splicing
+- Ultrasonic welding
+- Sleeving & heat shrink
+- Potting / epoxy / waterproofing
+- CNC & laser cutting
+- 3D printing
+- Electrical & mechanical testing
+- Quality assurance processing
+
+## Industries
+- Medical device
+- Industrial automation
+- Defense
+- Consumer electronics
+- Agriculture
+- Telecommunications
+- Automotive
+
+## Equipment
+- Automatic wire cutting & wire stripping
+- Insert overmolding of cable
+- Ultrasonic splicing
+- Terminal crimping
+- Soldering of components
+- Sleeving & heat shrink
+- Ultrasonic welding
+- Electrical & mechanical testing
+- Potting / epoxy / waterproofing
+- CNC & laser cutting
+- 3D printing
+
+## Certifications
+- ISO 9001
+- UL Listed (ZPFW2/8)
+- IPC/WHMA-A-620
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 1971
+- **Ownership:** Family-owned
+- **Headquarters:** Minneapolis, Minnesota
+
+<details><summary>Sources</summary>
+
+- Founded 1971 by Robert and Priscilla Barnick -> /about-us
+- Headquartered in Minneapolis, Minnesota -> /about-us
+- Family-owned, started in family garage -> /about-us
+- ISO 9001 certified and UL listed (ZPFW2/8) -> /
+- Manufactures to IPC/WHMA-A-620 standards -> /services
+- Industries served: medical device, industrial automation, defense, consumer electronics, agriculture, telecommunications, automotive -> /
+- Capabilities: insert overmolding, ultrasonic splicing/welding, automatic wire cutting/stripping, terminal crimping, soldering, sleeving, heat shrink, potting, CNC/laser cutting, 3D printing -> /capabilities
+- Prototype through full production support -> /services
+- On-time delivery commitment -> /
+- Competitive pricing -> /
+- Serves OEMs and contract manufacturers from start-ups to Fortune 50 -> /about-us
+- Custom molded cable assemblies with branding -> /services
+- Harsh environment assemblies: potting, waterproofing, overmolding -> /services
+- Rapid prototype development -> /services
+- Wire processing: cutting, stripping, crimping, soldering -> /services
+</details>
+
+---
+
+# Meyers Auto Inc
+
+**Old description:** Since 1962, Meyers Auto has provided the greater Aberdeen area with high quality reycled auto parts at affordable rates. Find your part online, stop in and let one of our Automotive Professionals help guide you, or give us a call and we’ll be more than happy to help you find the parts you need!
+
+## About
+Meyers Auto Inc. has operated from Aberdeen, South Dakota since 1962. The business began as a local auto recycler serving the greater Aberdeen area, offering recycled automotive parts at affordable prices. No founder names or ownership structure are disclosed in public sources.
+
+The company functions as an auto recycler and parts supplier, maintaining an up-to-date inventory searchable through the Car-Part Interchange system. It specializes in parts for all makes and models from model year 2000 onward, including cars and four-wheel-drive vehicles, and also purchases late-model wrecked vehicles for dismantling. A standard 90-day warranty covers all parts, with extended warranty options available. Facility size, headcount, and annual volume figures are not published.
+
+Meyers Auto serves automotive repair shops, collision centers, insurance companies, and individual vehicle owners throughout South Dakota and surrounding regions. Its customer base includes anyone seeking recycled replacement components such as wiring harnesses, bumper assemblies, differential units, and emissions-related parts. The company also buys wrecked late-model vehicles from sellers looking to dispose of damaged cars.
+
+The business highlights its status as a Certified Member of the Automotive Recyclers Association (ARA) and its long-standing presence in the region as key differentiators. It emphasizes an always-current inventory, multi-part search capability, and the ability to source hard-to-find items on request.
+
+## Known for
+- Certified Member of the Automotive Recyclers Association (ARA)
+- Standard 90-day warranty on all parts with extended options
+- Specializes in all makes and models from 2000 onward
+- Purchases late-model wrecked vehicles for recycling
+- Real-time inventory via Car-Part Interchange system
+
+## Capabilities
+- Auto parts recycling
+- Recycled auto parts sales
+- Vehicle acquisition (late-model wrecked)
+- Parts inventory management (Car-Part Interchange)
+- Warranty coverage (90-day standard)
+- Extended warranty options
+- Multi-part search
+- Search by image
+
+## Certifications
+- Certified Member ARA
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Founded:** 1962
+- **Headquarters:** Aberdeen, South Dakota
+
+<details><summary>Sources</summary>
+
+- Founded 1962 -> db and homepage
+- Headquarters in Aberdeen, South Dakota -> db and homepage
+- Certified Member ARA -> homepage
+- Standard 90-day warranty -> homepage
+- Extended warranties available -> homepage
+- Specializes in all makes and models from 2000 onward -> homepage
+- Buys late-model wrecked vehicles -> homepage
+- Uses Car-Part Interchange system -> capabilities (db)
+- Offers multi-part search and search by image -> homepage
+- Serves greater Aberdeen area and South Dakota -> homepage
+</details>
+
+---
+
+# Michael Foods Inc
+
+**Old description:** While our Michael Foods name has only been around since 1987, our true origins date all the way back to 1908 on a small family farm in New England. Over the past century, our capabilities have grown into innovative food offerings that reduce food safety risk, naturally extended shelf life and simplify food preparation and processing for foodservice kitchens and food manufacturers alike.
+
+## About
+Michael Foods, headquartered in Elizabeth, New Jersey, traces its roots to a small family farm in New England in 1908. The Michael Foods name was established in 1987, and the company now operates as a subsidiary of Post Holdings.
+
+The company manufactures value-added egg products and refrigerated potato solutions for foodservice, industrial, and retail channels. Its capabilities include egg processing (traditional, cage-free, organic), potato processing, and precooked egg manufacturing. Facilities span multiple locations, including a precooked egg manufacturing and distribution facility in Norwalk, Iowa, where an expansion announced in 2023 added 186 jobs. Michael Foods describes itself as a multi-billion-dollar supplier supporting high-volume operations with consistent, ready-to-use products.
+
+Customers span restaurants, healthcare, lodging and hospitality, convenience stores, colleges and universities, K-12 schools, delis and bakeries, as well as manufacturers of sauces and dressings, baked goods, pastas, sports nutrition, and pet foods.
+
+The company states its offerings reduce food safety risk, extend shelf life naturally, and simplify food preparation and processing for kitchens and manufacturers alike.
+
+## Known for
+- Reduces food safety risk through value-added egg products
+- Naturally extends shelf life
+- Simplifies food preparation and processing
+- Scalable solutions for high-volume operations
+- Consistent, ready-to-use egg and potato products
+
+## Capabilities
+- Value-added egg processing (traditional, cage-free, organic)
+- Refrigerated potato processing
+- Precooked egg manufacturing
+- Bulk food supply and distribution
+- Foodservice and industrial ingredient solutions
+
+## Industries
+- Restaurants
+- Healthcare
+- Lodging & Hospitality
+- Convenience Stores
+- College & University
+- K-12 Schools
+- Deli & Bakery
+- Sauces & Dressings
+- Baked Goods
+- Pastas
+- Sports Nutrition
+- Pet Foods
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1987
+- **Ownership:** Subsidiary of Post Holdings
+- **Headquarters:** Elizabeth, New Jersey
+
+<details><summary>Sources</summary>
+
+- Founded 1987, origins 1908 on family farm in New England -> db, /about-us
+- Headquarters Elizabeth, New Jersey -> db
+- Subsidiary of Post Holdings -> /about-us (news item)
+- Multi-billion-dollar supplier of value-added eggs and refrigerated potatoes -> /about-us
+- Precooked egg manufacturing and distribution facility in Norwalk, Iowa; expansion 2023 adding 186 jobs -> /about-us
+- Industries served: restaurants, healthcare, lodging & hospitality, convenience stores, college & university, K-12 schools, deli & bakery, sauces & dressings, baked goods, pastas, sports nutrition, pet foods -> /
+- Egg product choices: traditional, cage-free, organic -> /about-us
+- Capabilities: reduce food safety risk, extend shelf life, simplify preparation -> description, /about-us
+</details>
+
+---
+
+# Michigan Chair Company
+
+**Old description:** Michigan Chair has been bending since 1946. You have the assurance knowing that we deliver by an agreed upon due date. We dry bends to between 6-8% moisture content, and adjust the shape to match your specs before they are shipped. If you think that you have a problem that may be solved with steam bending, give us a call. We will give you an honest evaluation of how well bending will satisfy your expectations in comparison to similar products.
+
+## About
+Michigan Chair Company, located in Howard City, Michigan, has been producing custom steam-bent hardwood components since 1946.
+
+The company specializes in steam bending solid hardwoods to customer specifications, drying parts to 6–8% moisture content per Wood Component Manufacturers Association standards and adjusting shapes before shipment. It works with species including white ash, cherry, hard maple, soft maple, poplar, red oak, and walnut, accepting CAD data for quoting and production. No facility size or headcount figures are published.
+
+Michigan Chair serves residential and contract furniture manufacturers, ranging from large multinational corporations to single-person studio furniture makers. Its bent parts address short-grain strength issues and allow designers to reduce joints and glue lines in high-end furniture.
+
+The company emphasizes on-time delivery to agreed dates, honest evaluations of whether steam bending suits a given application, and fast turnaround. It positions its process as a way to eliminate the cracking and movement associated with glued-up curved panels.
+
+## Known for
+- Delivers by agreed-upon due date
+- Dries bends to 6–8% moisture content per WCMA standards
+- Adjusts shape to customer specifications before shipping
+- Provides honest evaluation of steam bending suitability
+- Fast turnaround time
+
+## Capabilities
+- Steam bending
+- Custom hardwood bending
+- Moisture content drying (6-8%)
+- Shape adjustment to specification
+- CAD file acceptance
+- Species selection consultation
+- Short grain strength solutions
+
+## Industries
+- Residential furniture manufacturing
+- Contract furniture manufacturing
+- Studio furniture making
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 1946
+- **Headquarters:** Howard City, Michigan
+
+<details><summary>Sources</summary>
+
+- Founded 1946, Howard City, Michigan -> db
+- Custom solid hardwood steam bending company -> /
+- Serves residential and contract furniture manufacturers -> /
+- Customers range from large multinationals to single-person studios -> /
+- Dries bends to 6-8% moisture content per WCMA -> /
+- Adjusts shape to match specs before shipping -> /
+- Offers honest evaluation of bending suitability -> /
+- Fast turnaround time claimed -> /
+- Works with species: White Ash, Cherry, Hard Maple, Soft Maple, Poplar, Red Oak, Walnut -> /
+- Accepts CAD data at cad@michair.com -> /
+- Contact persons Tim or Bob -> /
+- Historical catalogs from 1924, 1926, 1930 -> /
+</details>
+
+---
+
+# Michigan Precision Fabricators
+
+**Old description:** All of our products are built per current industry standards, meet all stringent specifications and adhere to strict quality procedures. Our heavy duty designs will overcome the most unforgiving industrial environments or our medium duty designs can be suited for any general purpose application.
+
+## About
+Michigan Precision Fabricators, LLC was founded in 2008 in Commerce Township, Michigan. The company was established by a group of founders who identified a gap in the supply chain for industrial-grade dampers and expansion joints, aiming to deliver dependable, high-quality products quickly and at competitive cost.
+
+The company manufactures a range of dampers — including butterfly, louver, diverter, barometric, radial vane, and paddle types — as well as expansion joints. It operates a fully integrated CNC machine shop where skilled machinists design and produce all bracketry and drive components to ISO 5211 standards, and also offers automation packages, project management, spare-parts inventory services, and field maintenance, inspection, commissioning, and repair. The team brings more than 20 years of industry experience and 40 years in metal fabrication.
+
+Its products serve steel processing plants, municipalities, industrial wastewater treatment facilities, chemical and petrochemical complexes, and tier-one automotive plants, among other industrial sectors.
+
+The founders started the business to address a market shortage of rapidly produced, reliable damper and expansion-joint solutions. The company’s stated mission is to develop partnerships by providing superior products at low cost with on-time delivery, guided by a vision of harnessing collective genius and embracing change.
+
+## Known for
+- Rapid production of dampers and expansion joints without compromising quality
+- Fully integrated CNC machine shop for custom bracketry and drive components
+- Certified technicians available for field inspections, commissioning, and repair
+- Project management with dedicated 2–5 person teams for transparency
+- Spare-parts inventory management and stocking at company facilities
+
+## Capabilities
+- Damper manufacturing
+- Expansion joint manufacturing
+- CNC machining
+- Automation package integration
+- Project management
+- Spare parts inventory management
+- Field service and maintenance
+- Design and fabrication of bracketry and drive components
+- ISO 5211 compliant mounting
+- Custom damper design
+- Remote linkage kits
+
+## Industries
+- Steel processing
+- Municipalities
+- Industrial wastewater treatment
+- Chemical and petrochemical
+- Tier-one automotive
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 2008
+- **Headquarters:** Commerce Township, Michigan
+
+<details><summary>Sources</summary>
+
+- Founded 2008 in Commerce Township, Michigan -> db, /about
+- Manufactures butterfly, louver, diverter, barometric, radial vane, paddle dampers and expansion joints -> /, /about
+- Operates fully integrated CNC machine shop for bracketry and drive components -> /services
+- Offers automation packages, project management, spare parts inventory, field maintenance -> /services
+- Team has 20+ years industry experience and 40 years metal fabrication -> /
+- Serves steel processing, municipalities, wastewater treatment, chemical/petrochemical, tier-one automotive -> /about
+- Mission: develop partnerships with superior products at low cost, on-time delivery -> /about
+- Vision: harness collective genius, embrace change -> /about
+- ISO 5211 standards followed for mounting -> /services
+</details>
+
+---
+
+# Micro Control Company
+
+**Old description:** Micro Control Company is the worldwide leader in burn-in with test systems. Micro Control offers solutions for high-power burn-in test applications requiring individual temperature control and logic/memory burn-in test applications for lower power devices.
+
+## About
+Micro Control Company was founded in 1972 in Arden Hills, Minnesota. The company began as a pioneer in the test and measurement segment of the electronics industry, developing the industry's first microprocessor-controlled test system.
+
+Today, the company designs and manufactures high-performance burn-in with test systems, custom burn-in boards, and supporting accessories for semiconductor manufacturers. Its 157,000-square-foot facility houses in-house system assembly, integration, and validation, supported by a workforce in which one-third are engineers. The product line spans standard burn-in applications to systems capable of stressing devices at 2,000+ watts per device under test with individual temperature control. Automation integration—including automated loading, mobile robotics, and the proprietary C-Breez software platform—extends across the portfolio.
+
+Micro Control serves the world's semiconductor manufacturers across AI and high-performance computing, automotive, aerospace, defense, advanced manufacturing, consumer electronics, and custom silicon markets. Its systems are used for production screening, qualification, and reliability testing of high-pin-count and high-power devices.
+
+The company emphasizes an engineering-first culture, with design, applications, manufacturing, and service teams working as a single unit from concept through deployment. It highlights a 50-plus-year history of technical breakthroughs, a global support network spanning 15 countries, and a commitment to supporting installed systems for seven or more years with critical spare parts on standby.
+
+## Known for
+- 50+ years of burn-in expertise since 1972
+- Engineering-first culture with 33% of staff as engineers
+- In-house manufacturing in 157,000 sq. ft. facility
+- Global support across 15 countries with dedicated representatives
+- C-Breez software platform with 12 updates per year
+
+## Capabilities
+- Burn-in with test systems design and manufacturing
+- Custom burn-in board design and manufacturing
+- Burn-in accessories manufacturing
+- High-power burn-in test (2000+ W DUTs)
+- Individual temperature control (ITC) burn-in
+- Automation integration (automated loading, mobile robotics, cross-platform software)
+- C-Breez software platform development and updates
+- Engineering & R&D collaboration
+- In-house system assembly, integration, and validation
+- Field services (installation, troubleshooting, training)
+- Upgrade & modernization services for installed systems
+- Compliance & qualification support
+- Burn-in efficiency & facility optimization
+- Lifecycle management & spare parts support
+- Global service & support across 15 countries
+- High pin count device testing
+- Parallel device testing
+- Logic/memory burn-in test applications
+- Production burn-in
+- Signal integrity and thermal stability design
+
+## Industries
+- Semiconductor manufacturing
+- AI / high-performance computing
+- Automotive
+- Aerospace
+- Defense
+- Advanced manufacturing
+- Consumer electronics
+- Custom silicon
+
+## Equipment
+- C-Breez software platform
+- Automated loading systems
+- Mobile robotics
+- Burn-in with test systems
+- Burn-in boards
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1972
+- **Headquarters:** Arden Hills, Minnesota
+
+<details><summary>Sources</summary>
+
+- Founded 1972 -> db
+- Headquarters Arden Hills, Minnesota -> db
+- 157,000 sq. ft. facility -> /services
+- 33% of staff are engineers -> /services
+- 15 countries with dedicated representatives -> /services
+- 14 person dedicated field service team -> /services
+- 12 software updates per year -> /services
+- 25 years continuous development -> /services
+- 7+ years active support after purchase -> /services
+- 100% systems have critical spare parts on standby -> /services
+- 100% projects involve customer collaboration -> /services
+- 100% future systems designed with customer collaboration -> /services
+- 100% systems run on C-Breez -> /services
+- High-power burn-in up to 2000+ W DUTs -> /
+- Individual temperature control (ITC) burn-in -> /
+- Automation integration (automated loading, mobile robotics) -> /about-us
+- C-Breez software platform -> /services
+- Industries served: AI, automotive, aerospace, defense, advanced manufacturing, consumer electronics, custom silicon -> /about-us
+- Engineering-first culture, one team from design to deployment -> /about-us
+- Global leader in burn-in with test systems -> /
+</details>
+
+---
+
+# MicroTek-Cables
+
+**Old description:** Since 1984, MicroTek has been setting the standard for quality manufacturing. We help clients prepare for the future and create sustainable business models by providing the highest quality wiring components quickly and at a competitive price.
+
+## About
+MicroTek, a non-profit manufacturer, was founded in 1983 in Chicopee Falls, Massachusetts. The organization began in a century-old mill building with a mission to connect people as well as electronic parts, specifically providing employment support for individuals with developmental and intellectual disabilities in a self-sustaining, community-based manufacturing setting.
+
+The company designs and produces custom cable assemblies, wire harnesses, control panels, and complete electro-mechanical assemblies. Its 55,000-square-foot facility in Chicopee houses engineering and design services using SolidWorks, Visio, and AutoCAD, along with prototyping, automated tooling, and material management programs such as VMI and Kanban. Production relies on Komax cut/strip/crimp machines, automated stripping equipment, hot-stamp wire marking, and automated label-wrapping systems, all adhering to IPC standards for crimp height and pull testing.
+
+MicroTek serves the medical, scientific, and security industries worldwide, shipping to multiple international addresses. The firm maintains associations with IPC/WHMA, the Social Enterprise Alliance, the Association for Developmental Disabilities Providers, and Associated Industries of Massachusetts.
+
+As a social enterprise, MicroTek differentiates itself by integrating a diverse workforce—including employees with disabilities—into high-quality manufacturing. The organization emphasizes a human approach to production, combining rigorous quality systems with a mission-driven culture that prioritizes employee safety and continuous training.
+
+## Known for
+- Non-profit social enterprise employing individuals with developmental and intellectual disabilities
+- IPC/WHMA standards compliance for crimp height and pull testing
+- Automated Komax cut/strip/crimp equipment for repeatable wire processing
+- Vendor-managed inventory (VMI) and Kanban material management programs
+- Worldwide shipping with multi-address logistics management
+
+## Capabilities
+- Custom cable assemblies
+- Wire harnesses
+- Control systems & panels
+- Electro-mechanical assemblies
+- Engineering & design (SolidWorks, Visio, AutoCAD)
+- Prototyping
+- Tooling & automation
+- Material management (VMI, Kanban, kitting, just-in-time fulfillment)
+- Shipping (worldwide, multi-address)
+- Automated wire cutting, stripping, crimping (Komax)
+- Wire marking (hot stamp)
+- Automated self-laminating label wrapping
+- IPC standards compliance (crimp height, pull test)
+
+## Industries
+- Medical
+- Scientific
+- Security
+
+## Equipment
+- Komax cut/strip/crimp equipment
+- Automated stripping equipment
+- Hot stamp equipment
+- Automated self-laminating label wrapping equipment
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1983
+- **Ownership:** Non-profit
+- **Headquarters:** Chicopee, Massachusetts
+
+<details><summary>Sources</summary>
+
+- Founded 1983 in Chicopee Falls, MA -> /about-us
+- Non-profit mission to employ individuals with disabilities -> /about-us
+- Facility history: 24,000 sq ft (2003), 55,000 sq ft (2014) -> /about-us
+- Custom cable assemblies, wire harnesses, control panels, electro-mechanical assemblies -> /
+- Engineering & design with SolidWorks, Visio, AutoCAD -> /services
+- Prototyping, tooling & automation, material management (VMI, Kanban), shipping -> /services
+- Komax cut/strip/crimp equipment, automated stripping, hot stamp, automated label wrapping -> /services
+- IPC standards for crimp height and pull test -> /services
+- Industries served: medical, scientific, security -> /
+- Associations: IPC/WHMA, SEA, ADDP, AIM -> /about-us
+- Headquarters: Chicopee, Massachusetts -> db
+- Founded year: 1983 -> db
+</details>
+
+---
+
+# Mid-Atlantic Plastics
+
+**Old description:** was founded in 2005 with inspiration from our customers. Providing quality plastic fabrication services to various types of customers has always been paramount. “The bitterness of poor quality remains long after the cheap price is forgotten”. With the plastics industry being so dynamic, innovation is key. Staying ahead of the curve with technology and skills are important factors in productivity and success. We provide fabrication services to many types of fields, including health care, law enforcement, food processing, military, machine shops and residential applications, to name a few.
+
+## About
+Mid-Atlantic Plastics was founded in 2005 in Rosedale, Maryland, driven by customer demand for quality plastic fabrication. The company began with a focus on delivering reliable fabrication services across diverse industries.
+
+The shop specializes in custom plastic fabrication, offering CNC routing, machining, edge finishing, welding, engraving, line bending, and drilling. With four CNC routers—including a large-format machine handling sheets up to 80 by 121 inches—a HendrickSaw panel saw capable of 126 by 120 inches, and a strip heater rig that can bend up to four 48-inch-wide pieces simultaneously, the facility runs jobs from single prototypes to large production runs.
+
+Customers span health care, law enforcement, food processing, military, machine shops, and residential projects. Long-term clients include a sign company relying on custom acrylic signage and a partner of 15 years using routing, tapping, bending, machining, polishing, and gluing services.
+
+The company emphasizes quality over low cost, citing a philosophy that poor quality outlasts cheap pricing. It maintains a DVS (German Welding Society) certification through Wegener Welding for thermoplastic welding and continuously updates technology to stay ahead in the dynamic plastics industry.
+
+## Known for
+- DVS (German Welding Society) certification for thermoplastic welding
+- Four CNC routers with large-format capacity up to 80″ × 121″
+- HendrickSaw panel saw with 126″ × 120″ capacity
+- Strip heater rig for up to four simultaneous 48″-wide bends
+- Laser and CNC router engraving up to 80″ × 121″
+
+## Capabilities
+- CNC Routing
+- CNC Machining
+- Edge Polishing
+- Edge Beveling
+- Saw Cutting
+- Solvent Welding
+- Thermoplastic Welding
+- Laser Engraving
+- CNC Router Engraving
+- Line Bending
+- Drilling
+- Tapping
+- Helicoil Insertion
+- Flame Polishing
+- Sanding & Buffing
+- Jointing
+
+## Industries
+- Health care
+- Law enforcement
+- Food processing
+- Military
+- Machine shops
+- Residential
+- Signage
+
+## Equipment
+- CNC routers (4, up to 80″ × 121″)
+- HendrickSaw panel saw (126″ × 120″)
+- Table saw
+- Strip heater rig (4 × 48″ wide bends)
+- Heating elements (96″ long)
+- Laser engraver (24″ × 36″)
+- CNC router engraver (80″ × 121″)
+
+## Certifications
+- DVS (German Welding Society) Certification from Wegener Welding
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 2005
+- **Headquarters:** Rosedale, Maryland
+
+<details><summary>Sources</summary>
+
+- Founded 2005 -> db
+- Headquarters Rosedale, Maryland -> db
+- Plastic fabrication company -> /
+- Services: CNC machining, edge polishing, edge beveling, saw cutting, solvent welding, thermoplastic welding, engraving, line bending, drilling & tapping, CNC routing -> /services
+- 4 CNC routers, largest 80″ x 121″ -> /services
+- HendrickSaw panel saw 126″ x 120″ -> /services
+- Table saw for close tolerances -> /services
+- Strip heater rig up to 4 simultaneous 48″ bends -> /services
+- Heating elements up to 96″ long -> /services
+- Laser engraving up to 24″ x 36″, CNC router engraving up to 80″ x 121″ -> /services
+- DVS certification from Wegener Welding -> /services
+- Industries: health care, law enforcement, food processing, military, machine shops, residential -> /
+- Sign company testimonial (Chris McDermott) -> /
+- 15-year partner testimonial (Donny Dixon) -> /services
+- Materials: Acrylic, Polycarbonate, ABS, PVC, Foam/Expanded PVC, Polypropylene, HDPE, Kydex, Sintra/Komatex/E-PVC, Rigid Type 1 Grade 1 PVC -> /services
+- Volume: single prototypes to large volume projects -> /services
+- Quality philosophy quote -> /
+</details>
+
+---
+
+# Mid-Florida Plastics Inc
+
+**Old description:** Engineered Plastics, a family owned and operated business, serving the plastics industry since 1992 is known for its superiority in providing custom injection moldings and testing products for the concrete industry. We offer the complete line of test materials and accessories. Such products include transfer cases, cylinder molds, compression pads, retainers, and more.
+
+## About
+Mid-Florida Plastics Inc, operating as Engineered Plastics Corp, was founded in 1992 as a family-owned and operated business in Orlando, Florida. The company began by serving the plastics industry with a focus on custom injection moldings and specialized testing products for the concrete sector.
+
+The company manufactures a complete line of concrete testing accessories, including transfer cases, cylinder molds, compression pads, and retainers. Its capabilities encompass custom injection molding and precision machining, with bearing surfaces held parallel within 0.002 inches. No facility size or headcount figures are publicly disclosed.
+
+Engineered Plastics primarily serves the concrete testing and construction materials industries, supplying products used in ASTM-standard evaluation of concrete strength and moisture acceptability. Its customer base includes testing laboratories, construction firms, and distributors across the United States.
+
+The company states its mission is to be recognized as the supplier of quality products, superior customer service, competitive pricing, and speedy delivery. Core values cited are absolute integrity, product quality, outstanding service, and social enterprise.
+
+## Known for
+- Family-owned and operated since 1992
+- Full line of concrete testing accessories (transfer cases, cylinder molds, compression pads, retainers)
+- Precision machining of bearing surfaces to ±0.002 in parallelism
+- Commitment to speedy delivery and competitive pricing
+- Core values: absolute integrity, product quality, outstanding service, social enterprise
+
+## Capabilities
+- Custom injection molding
+- Concrete testing product manufacturing
+- Precision machining (bearing surfaces to ±0.002 in)
+
+## Industries
+- Concrete industry
+- Construction materials testing
+- Plastics industry
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1992
+- **Ownership:** Family-owned
+- **Headquarters:** Orlando, Florida
+
+<details><summary>Sources</summary>
+
+- Founded 1992 -> db
+- Family-owned and operated -> /about
+- Headquarters Orlando, Florida -> db
+- Custom injection moldings and testing products for concrete industry -> /
+- Products: transfer cases, cylinder molds, compression pads, retainers -> /
+- Mission: quality products, superior customer service, competitive pricing, speedy delivery -> /
+- Core values: absolute integrity, product quality, outstanding service, social enterprise -> /about
+- Bearing surfaces machined parallel within 0.002 in -> db (products array)
+- Serves concrete testing and construction materials industries -> /
+- Operates as Engineered Plastics Corp -> /
+</details>
+
+---

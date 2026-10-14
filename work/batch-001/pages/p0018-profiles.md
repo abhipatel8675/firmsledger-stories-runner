@@ -42,8 +42,6 @@ Praxis emphasizes quality, innovation, and customer success as differentiators, 
 
 ## Certifications
 - cGMP
-- DEA Registration (Schedules III-V)
-- NIOSH Approval
 
 ## Company details
 - **Company Type:** Contract Packaging
@@ -320,7 +318,7 @@ The shift into bedding was driven by the 2004 federal open-flame mattress standa
 **Old description:** Since 2016, we've built our reputation on skilled craftsmanship and genuine customer care. As a veteran-owned business with a CFESA Certified Master Technician, we're committed to delivering professional repairs backed by comprehensive warranties that protect your investment and give you complete peace of mind.
 
 ## About
-Premier Restaurant Equipment Solutions operates from Lynn, Massachusetts, serving the North Shore and Greater Boston area. The company was founded in 2016 as a veteran-owned business, established to provide rapid-response commercial kitchen equipment repair and sales with a focus on minimizing costly downtime for foodservice operators.
+Restaurant Equipment Solutions operates from Lynn, Massachusetts, serving the North Shore and Greater Boston area. The company was founded in 2016 as a veteran-owned business, established to provide rapid-response commercial kitchen equipment repair and sales with a focus on minimizing costly downtime for foodservice operators.
 
 The company specializes in repair and sales of commercial dishwashers, ovens, and refrigeration systems, along with a full range of restaurant equipment. A CFESA Certified Master Technician leads the technical team, offering onsite service around the clock. Repairs cover heating elements, pump failures, thermostat calibration, ignition systems, and walk-in or reach-in refrigeration units. Every repair is backed by a 30-day parts and labor warranty, with a 90-day parts-only option available.
 

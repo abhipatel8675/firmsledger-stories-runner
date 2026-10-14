@@ -1,0 +1,658 @@
+# Shearer's Snack Foods
+
+**Old description:** After success with Schwan Foods, Steve became the Chief Financial Officer of Links Snacks, a $1.4 billion family-owned manufacturer of beef jerky and meat snacks. In this role, he was responsible for all finance, treasury, and IT functions. He then joined Kindeva, a $400MM private equity-backed company of drug delivery devices.
+
+## About
+Shearer's Foods, headquartered in Phoenix, Arizona, was founded in 2012. The company operates as a private brand and co-manufacturer of snack foods across North America. Ownership structure is not publicly disclosed, though the executive team includes veterans of major consumer goods companies such as Unilever, Kraft Heinz, and Schwan Foods.
+
+The company runs 16 plants with more than 100 production lines, including three Canadian facilities operating under the Super-Pufft name. Its manufacturing footprint covers salty snacks, cookies, and crackers, with specialized capabilities in single- and twin-screw extrusion, baked crisp production using milk protein, and peanut butter wafer bars, protein bars, and crème wafers at its Guelph, Ontario plant. Shearer's offers both private brand partnerships—developing products under retailer labels—and co-manufacturing services for national brands.
+
+Shearer's serves retailers seeking private label snacks and national brands requiring contract manufacturing capacity. Its customer base spans the salty snack, cookie, and cracker categories, with the company noting it is the largest private brand salty snack supplier and second-largest private brand cookie and cracker supplier in North America.
+
+The company emphasizes three differentiators: expertise through dedicated product development, commercialization, and category leadership teams; proven processes including GFSI-certified facilities with SQL Food Safety and Quality modules and a stage-gate commercialization process; and national footprint efficiencies that provide supply chain, production, and shipping advantages.
+
+## Known for
+- Largest private brand salty snack supplier in North America
+- Second-largest private brand cookie and cracker supplier
+- GFSI certified facilities with SQL Food Safety and Quality modules
+- 16 plants and 100+ production lines across North America
+- Dedicated product development, commercialization, and category leadership teams
+
+## Capabilities
+- Private brand manufacturing
+- Co-manufacturing
+- Product development
+- Commercialization (stage-gate process)
+- Category leadership and insights
+- Single-screw extrusion
+- Twin-screw extrusion
+- Baked crisp production
+- Peanut butter wafer bar production
+- Protein bar production
+- Crème wafer production
+- Salty snack manufacturing
+- Cookie manufacturing
+- Cracker manufacturing
+
+## Industries
+- Salty snacks
+- Cookies
+- Crackers
+- Private label manufacturing
+- Contract manufacturing
+
+## Equipment
+- Single-screw extruders
+- Twin-screw extruders
+
+## Certifications
+- GFSI certified scheme
+- SQL Food Safety module
+- SQL Quality module
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 2012
+- **Headquarters:** Phoenix, Arizona
+
+<details><summary>Sources</summary>
+
+- Founded 2012, headquartered in Phoenix, Arizona -> db
+- 16 plants and more than 100 production lines -> /
+- 3 locations in Canada operating as Super-Pufft -> /
+- Private brand and co-manufacturer producing salty snacks, cookies, crackers -> /about
+- Largest supplier of private brand salty snacks, second-largest for private brand cookies and crackers -> /about
+- GFSI certified scheme with SQL Food Safety and Quality modules -> /about
+- Single- and twin-screw extrusion capabilities -> db
+- Canada plant in Guelph produces peanut butter wafer bars, protein bars, crème wafers -> /about
+- Minnesota and Pennsylvania plants make baked crisps using milk protein -> /about
+- Product development, commercialization, and category leadership teams -> /about
+- Stage-gate commercialization process -> /about
+- Executive team: Chad Marquardt (CGO), Michael Darer (CSO), Chris Read (CPO), Steve Fuechtmann (CFO) -> /, /about
+</details>
+
+---
+
+# Shore Metal Fabricators LLC
+
+**Old description:** Welcome to Shore Metal Fabricators, your local experts for professional gutter installation, custom HVAC solutions and more in Delaware. Since 2019, our family-owned business has combined over 30 years of experience with modern technology to protect your home from the elements. Whether you need a reliable drainage system or precision-fit ductwork, our team delivers results that last.
+
+## About
+Shore Metal Fabricators LLC was founded in 2019 in Clayton, Delaware, as a family-owned and operated business. The company traces its roots to over 30 years of hands-on metal fabrication experience, combining that legacy with modern technology to serve the Mid-Atlantic region.
+
+The company specializes in professional gutter installation, standing seam roofing systems, and custom HVAC ductwork fabrication. Using in-house roll forming equipment, they produce seamless gutters and precision HVAC components tailored to each property. They handle both residential and commercial projects across Delaware and Eastern Maryland, offering custom accessories and large-scale installations.
+
+Their customers include homeowners, commercial property owners, and contractors in Delaware and Eastern Maryland seeking gutter, roofing, and HVAC ductwork solutions. The firm focuses on the specific environmental demands of the Mid-Atlantic coast, such as heavy rain and seasonal temperature shifts.
+
+The firm differentiates itself through its family-owned structure, three decades of fabrication expertise, in-house roll forming capabilities, and rare ES-1 and GT-1 certifications for gutter and perimeter edge systems that meet International Building Code wind resistance requirements. They also highlight local accountability and recognition as a Top 3 Gutter Company in Central Delaware for 2025.
+
+## Known for
+- Family-owned and operated with over 30 years of fabrication experience
+- In-house roll forming for custom seamless gutters and HVAC components
+- ES-1 and GT-1 certified gutter and perimeter edge systems
+- Recognized as a Top 3 Gutter Company in Central Delaware (2025)
+- Local service across Delaware and Eastern Maryland
+
+## Capabilities
+- Gutter installation
+- Standing seam roofing systems
+- HVAC ductwork fabrication
+- Custom metal fabrication
+- In-house roll forming
+- Seamless gutter production
+- ES-1 certified perimeter edge systems
+- GT-1 certified gutter systems
+- Residential and commercial installation
+- Custom accessories fabrication
+
+## Industries
+- Residential construction
+- Commercial construction
+- HVAC
+- Roofing
+
+## Certifications
+- ES-1
+- GT-1
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 2019
+- **Ownership:** Family-owned
+- **Headquarters:** Clayton, Delaware
+
+<details><summary>Sources</summary>
+
+- Founded in 2019 -> db, /about-us
+- Family-owned and operated -> /, /about-us
+- Over 30 years of hands-on fabrication experience -> /, /about-us
+- Headquartered in Clayton, Delaware -> db
+- Services: gutter installation, standing seam roofing, HVAC ductwork fabrication -> /
+- In-house roll forming technology -> /, /about-us
+- ES-1 and GT-1 certifications -> /, /about-us
+- Residential and commercial projects -> /
+- Serves Delaware and Eastern Maryland -> /, /about-us
+- Top 3 Gutter Company 2025 -> /
+- First State Favorites award -> /about-us
+</details>
+
+---
+
+# Shoreline Manufacturing
+
+**Old description:** With a large, expandable facility, we have the capacity to grow alongside your needs and handle projects of any size. Equipped with state-of-the-art machinery, including a 4K and 8K laser, two press brakes, a shear, a roller, and multiple welding stations, we have the tools to handle even the most complex projects with precision and efficiency. Watch the video below to get a quick tour of our metal fabrication facility.
+
+## About
+Shoreline Manufacturing operates from a large, expandable facility in Holland, Michigan, where it has been producing custom metal fabrications since 2006. The company was founded that year and has grown its capacity to handle projects of varying scale.
+
+The shop specializes in carbon steel, stainless steel, and aluminum fabrication, offering laser cutting with 4K and 8K lasers, MIG and TIG welding, press brake forming, steel rolling, and engineering services. Its equipment roster includes two press brakes, a shear, a roller, and multiple welding stations, supporting work from prototyping through finished production, including food-grade stainless assemblies.
+
+Shoreline serves customers needing custom metal parts and assemblies, with documented product lines such as the Beach Rover, GPU enclosures, GS Equipment components, and truck parts. The company emphasizes its ability to manage smaller production runs alongside larger projects, providing a single source from prototype to finish.
+
+The business highlights quick turnaround times and a facility designed to expand with client demand as key differentiators. It also positions its food-grade stainless capabilities and willingness to handle short runs as reasons customers choose them for regulated and prototype-driven work.
+
+## Known for
+- Quick turnaround times
+- Handles smaller production runs with ease
+- Food-grade stainless production meeting regulations
+- Large, expandable facility with capacity to grow alongside customer needs
+- Prototyping to finish under one roof
+
+## Capabilities
+- Laser cutting (4K and 8K)
+- MIG welding
+- TIG welding
+- Press brake forming
+- Steel rolling
+- Engineering services
+- Custom metal fabrication
+- Food-grade stainless fabrication
+
+## Equipment
+- 4K laser
+- 8K laser
+- Two press brakes
+- Shear
+- Roller
+- Multiple welding stations
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 2006
+- **Headquarters:** Holland, Michigan
+
+<details><summary>Sources</summary>
+
+- Founded 2006 -> /
+- Headquarters Holland, Michigan -> /
+- Services: laser cutting, MIG/TIG welding, press brake, steel rolling, engineering -> /
+- Equipment: 4K laser, 8K laser, two press brakes, shear, roller, multiple welding stations -> /
+- Materials: carbon steel, stainless steel, aluminum -> /
+- Products: Beach Rover, GPUs, GS Equipment, Truck Parts -> /
+- Specializes in food-grade stainless production -> /
+- Handles smaller production runs and prototyping to finish -> /
+- Large expandable facility -> /
+- Quick turnaround times -> /
+</details>
+
+---
+
+# Siemens Corporation
+
+**Old description:** Siemens Corporation manufactures and supplies switchgear for power distribution. Products include medium-voltage and high-voltage (gas-insulated) switchgear, solid-shield switchgear and circuit breakers, serving utilities and industrial facilities worldwide.
+
+## About
+Siemens Corporation, headquartered in Houston, Texas, traces its origins to 1847 when Werner von Siemens established a workshop in Berlin. The U.S. entity operates as a subsidiary of the global Siemens AG, employing over 1,000 people across its American operations. The company combines global standards with local market expertise, maintaining manufacturing facilities and innovation hubs across Europe, the Americas, Asia‑Pacific, and the Middle East.
+
+The company manufactures and supplies switchgear for power distribution, producing medium‑voltage and high‑voltage gas‑insulated switchgear, solid‑shield switchgear, circuit breakers, and control systems. Its facilities support the full product lifecycle from engineering through final testing, serving utility and industrial customers worldwide.
+
+Siemens Corporation serves the power generation, industrial, oil and gas, and commercial sectors. Its equipment is installed in utility substations, industrial plants, and commercial infrastructure projects across global markets.
+
+The company’s stated purpose is to combine the real and digital worlds to accelerate digitalization and sustainability for its customers, a mission that guides its product development and service offerings.
+
+## Known for
+- Global standards with local market expertise in over 200 countries
+- Industrial AI and digital twin technologies for engineering and operations
+- Purpose-driven strategy combining digitalization and sustainability
+- Extensive portfolio spanning electrification, automation, and digitalization
+
+## Capabilities
+- Medium voltage switchgear manufacturing
+- High voltage gas-insulated switchgear (GIS) manufacturing
+- Solid-shield switchgear manufacturing
+- Circuit breaker manufacturing
+- Control systems manufacturing
+- Power distribution equipment engineering
+- Switchgear testing and validation
+
+## Industries
+- Power Generation
+- Industrial
+- Oil & Gas
+- Commercial
+- Utilities
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1847
+- **Employees:** 1000+
+- **Headquarters:** Houston, Texas
+
+<details><summary>Sources</summary>
+
+- headquarters Houston, Texas -> db
+- founded 1847 -> db
+- employee count 1000+ -> db
+- manufactures switchgear for power distribution -> db (description)
+- products: medium-voltage, high-voltage GIS, circuit breakers, control systems -> db (products)
+- industries served: Power Generation, Industrial, Oil & Gas, Commercial -> db (industries_served)
+- history since 1847 Berlin workshop -> /about-us
+- global presence in over 200 countries -> /about-us
+- purpose: combine real and digital worlds for digitalization and sustainability -> /about-us
+</details>
+
+---
+
+# Siemon
+
+**Old description:** Founded in 1903, The Siemon Company, initially known as Siemon Hard Rubber Company, was established on OEM principles, catering to the needs of the telecommunications, electrical apparatus, automotive, and entertainment industries by developing solutions that meet manufacturer specifications. With over a century of experience, innovation, quality, and reliability infuse life into every product bearing the Siemon name.
+
+## About
+The Siemon Company, founded in 1903 as the Siemon Hard Rubber Company, is headquartered in Watertown, Connecticut. A fourth‑generation family business, it began on OEM principles, developing components for the telecommunications, electrical apparatus, automotive, and entertainment industries. Current president and CEO Henry Siemon represents the family’s continued leadership.
+
+Today Siemon designs and manufactures copper, fiber, and high‑speed connectivity solutions for data centers, smart buildings, and cellular networks. Its manufacturing capabilities include injection molding with automated 24/7 cells, assembly and kitting, and product development. The company operates a global network of certified installers and runs a Global Project Services (GPS) division, established in 1999, that manages multi‑site cabling projects, infrastructure moves, adds, changes, and break‑fix support worldwide.
+
+Siemon serves manufacturers, integrators, value‑added resellers, and end‑user organizations across industries such as data centers, smart buildings, cellular networks, telecommunications, electrical apparatus, automotive, and entertainment. Its OEM Technologies group works directly with manufacturers to co‑design and supply market‑centric connectivity products.
+
+The company cites its century‑long family ownership and the GPS division’s single‑point‑of‑contact model, global certified installer network, and webTRAC project‑tracking portal as key differentiators that ensure consistent quality and on‑time delivery across international deployments.
+
+## Known for
+- Fourth‑generation family ownership since 1903
+- Global Project Services (GPS) with single‑point‑of‑contact project management
+- Worldwide network of Siemon‑certified installers
+- Automated 24/7 injection molding capacity
+- webTRAC secure project‑tracking portal
+
+## Capabilities
+- Global Project Services
+- Injection Molding
+- Automated 24/7 molding
+- Assembly and Kitting
+- Product Development
+- Certified Installer Program
+- Data Center Services
+- Data Center Design Services
+- Engineering and Design
+- CAD Services
+- Bid/Tender Management
+- 24 Hour Service Desk
+- Project Management
+- OEM Technologies
+- Infrastructure moves adds & changes (I-MAC)
+- Break-fix Layer 1 support
+
+## Industries
+- Data Centers
+- Smart Buildings
+- Cellular Networks
+- Telecommunications
+- Electrical Apparatus
+- Automotive
+- Entertainment
+
+## Equipment
+- Injection Molding machines
+- Automated 24/7 molding cells
+
+## Certifications
+- ISO 9001
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1903
+- **Ownership:** Family-owned
+- **Headquarters:** Watertown, Connecticut
+
+<details><summary>Sources</summary>
+
+- Founded 1903 -> db
+- Headquarters Watertown, Connecticut -> db
+- Family-owned fourth generation -> /about
+- ISO9001 certification -> db
+- Designs and manufactures copper, fiber, high-speed connectivity -> /
+- Global Project Services (GPS) division established 1999 -> /about
+- Injection Molding and Automated 24/7 molding -> db
+- Assembly and Kitting -> db
+- Certified Installer Program -> /services
+- Data Center Services and Design Services -> /services
+- Engineering and Design, CAD Services, Bid/Tender Management, 24 Hour Service Desk, Project Management -> /about
+- OEM Technologies for manufacturers, integrators, VARs -> /
+- Industries: Data Centers, Smart Buildings, Cellular Networks, Telecommunications, Electrical Apparatus, Automotive, Entertainment -> / and db
+- webTRAC project tracking portal -> /about
+- Languages supported on website -> /
+</details>
+
+---
+
+# Sierra Bags
+
+**Old description:** In 1924, Badger Paper was founded, and was producing paper bags and wax paper. Badger Paper Company became a member of Sigma Q Corporation in 1985. In 1991, the company moved from California to Sparks, Nevada as Sierra Converting Corporation. The name changed to Sierra Packaging & Converting LLC in 2004. Almost ten years later the company move to a 170,000 square feet state of the art building in Stead, Reno
+
+## About
+Sierra Packaging & Converting, based in Reno, Nevada, traces its roots to 1924 when Badger Paper was founded in California producing paper bags and wax paper. The company joined Sigma Q Corporation in 1985, relocated to Sparks, Nevada in 1991 as Sierra Converting Corporation, and adopted its current name in 2004. It is minority-owned and operated.
+
+The company manufactures printed flexible packaging for the food and snack industries, offering printed and unprinted laminated films, paper, and foil in one- to three-ply structures. Its in-house capabilities span flexographic printing up to 10 colors on a 59-inch web, solvent-based, solventless, and water-based lamination, wet and dry wax coating, high-speed slitting with laser scoring and perforating, and pouch and bag making on 11 machines. The 170,000-square-foot plant houses eight high-resolution flexo presses from Comexi, Uteco, Windmöller & Hölscher, and Bobst, a full digital pre-press department with in-house plate making, and a quality lab equipped for oxygen transmission rate, gas chromatography, and seal-curve analysis.
+
+Customers include producers of frozen foods, dairy, bakery, deli, pet food, and vegetable products such as steamed green beans. The company serves both branded food manufacturers and co-packers seeking flexible packaging that provides barrier protection, convenience features, and shelf appeal.
+
+Sierra emphasizes that keeping printing, laminating, waxing, and converting under one roof, combined with patented technology and a trained staff, enables fast turnaround without sacrificing quality. Its minority-owned status is also highlighted as part of its identity.
+
+## Known for
+- All printing, laminating, waxing, and converting done in-house
+- Patented packaging technology
+- Eight high-resolution flexo presses with up to 10-color capability
+- In-house digital plate making and quality lab with OTR and gas chromatography
+- Minority-owned and operated
+
+## Capabilities
+- Flexographic printing (up to 10 colors, 59" web width)
+- Lamination (solvent-based, solventless, water-based)
+- Wet and dry wax coating
+- High-speed slitting
+- Laser scoring and perforating
+- Pouch and bag making
+- Digital pre-press graphics
+- In-house plate making
+- Quality testing (OTR, gas chromatography, solvent retention, coefficient of friction, seal curves, heat resistance)
+
+## Industries
+- Food packaging
+- Snack packaging
+- Frozen food
+- Dairy
+- Bakery
+- Deli
+- Pet food
+- Produce packaging
+
+## Equipment
+- Comexi flexo presses
+- Uteco flexo presses
+- Windmöller & Hölscher flexo presses
+- Bobst flexo presses
+- Totani bag/pouch machines
+- Hudson Sharp bag/pouch machines
+- Roan's bag/pouch machines
+- High-speed slitters with laser
+
+## Certifications
+- MINORITY OWNED
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1924
+- **Ownership:** Minority-owned
+- **Headquarters:** Reno, Nevada
+
+<details><summary>Sources</summary>
+
+- Founded 1924 as Badger Paper -> /about-us
+- Joined Sigma Q Corporation in 1985 -> /about-us
+- Relocated to Sparks, Nevada in 1991 as Sierra Converting Corporation -> /about-us
+- Renamed Sierra Packaging & Converting LLC in 2004 -> /about-us
+- Moved to 170,000 sq ft facility in Stead, Reno in early 2010s -> /about-us
+- Minority-owned and operated -> /about-us, db
+- Manufactures printed flexible packaging for food and snack industries -> /
+- Offers printed/unprinted 1-3 ply laminated films, paper, foil -> /
+- Produces side seal bags, stand-up pouches, 3-side seal pouches, center seam bags -> /
+- Flexographic printing up to 10 colors, 59" web width -> /services
+- Flexo presses from Comexi, Uteco, W&H, Bobst -> /services
+- Lamination: solvent-based, solventless, water-based -> /services
+- Wet and dry wax coating -> /services
+- 7 high-speed slitters with laser scoring/perforating -> /services
+- 11 bag/pouch making machines from Totani, Hudson Sharp, Roan's -> /services
+- In-house digital pre-press graphics and plate making -> /services, /about-us
+- Quality lab with OTR, gas chromatography, solvent retention, COF, seal curves, heat resistance -> /about-us
+- Industries served: food, snack, frozen food, dairy, bakery, deli, pet food, produce -> /about-us, /services
+- Patented technology mentioned -> /about-us
+- Fast turnaround while maintaining high quality -> /about-us
+- Company type: manufacturer -> /
+</details>
+
+---
+
+# Sierra Communications, LLC
+
+**Old description:** Since 1991, Sierra Communications & Technologies has been a leading provider of Telephone and IT support and consulting, focusing on small and medium sized businesses in the Bangor, Augusta, Lewiston-Auburn, Brunswick, and Portland areas. We have helped hundreds of businesses increase productivity and profitability by making communications and IT a streamlined part of operations. We equip our clients with customized technology solutions for greater operational value and to reduce risk.
+
+## About
+Sierra Communications, LLC was founded in 1991 in Bangor, Maine. The company is family-owned, a detail noted by a client who reported that one of the family owners presented their services during the evaluation process. From its start, the firm has focused on telephone and IT support for small and medium-sized businesses across central and southern Maine, including the Bangor, Augusta, Lewiston-Auburn, Brunswick, and Portland areas.
+
+The company delivers a suite of managed technology services: 24/7/365 monitoring and maintenance of devices, servers, and networks; business continuity and disaster recovery planning; VoIP telephone systems; cloud services for remote data access; and security services targeting malware, viruses, and ransomware. It also provides IT consulting, network support, and infrastructure management. Operations run from three locations — the Bangor headquarters, a Central Maine office in Winthrop, and a Raleigh, North Carolina office — though headcount and facility size are not disclosed.
+
+Sierra serves small and medium businesses in Maine and beyond. Reference clients include Canteen Service Co., a food-service operator; Arnold Memorial Hospital, a healthcare provider; and MSAD #63, a school district. The firm emphasizes customized technology solutions to increase productivity and reduce risk for each customer.
+
+The company states that its proactive monitoring approach secures revenue through business continuity, claiming that clients experience 99.99% uptime. It differentiates itself with round-the-clock support, personalized account management, and a focus on making communications and IT a streamlined part of operations.
+
+## Known for
+- 24/7/365 monitoring and maintenance of devices, servers, and networks
+- 99.99% uptime for clients
+- Proactive business continuity and disaster recovery planning
+- Family-owned with personalized account management
+- Multi-state presence in Maine and North Carolina
+
+## Capabilities
+- Managed IT Services
+- Business Continuity Planning
+- VoIP Telephone Systems
+- Cloud Services
+- Security Services (malware, ransomware protection)
+- IT Consulting
+- Network Support
+- Infrastructure Management
+- Cloud Integration
+
+## Industries
+- Healthcare
+- Education
+- Food Service
+- Small and medium businesses
+
+## Company details
+- **Company Type:** Installer / service company
+- **Founded:** 1991
+- **Ownership:** Family-owned
+- **Headquarters:** Bangor, Maine
+
+<details><summary>Sources</summary>
+
+- Founded 1991 -> db
+- Headquarters Bangor, Maine -> /
+- Family-owned -> / (testimonial from Michael Willey)
+- Services: Managed IT, Business Continuity, VoIP, Cloud, Security, IT Consulting, Network Support, Infrastructure Management -> /services
+- Clients: Canteen Service Co., Arnold Memorial Hospital, MSAD #63 -> /
+- Locations: Bangor (HQ), Winthrop (Central Maine), Raleigh, NC -> /
+- 99.99% uptime claim -> /
+- 24/7/365 monitoring -> /services
+- Proactive monitoring for business continuity -> /
+- Customized technology solutions -> /
+- LinkedIn URL -> db
+</details>
+
+---
+
+# Sigmatex
+
+**Old description:** partner in high performance carbon fibre textiles. With the widest array of conversion technologies available, coupled with an unrivalled range of carbon fibre grades, including recycled materials, our innovative, customised carbon textile solutions are truly designed for performance.
+
+## About
+Sigmatex was founded in 1986 and is headquartered in Cameron, South Carolina. For well over 30 years, the company has been a pioneer in the design, development, and manufacture of carbon fibre textiles for the composites industry.
+
+The company produces a broad range of carbon fibre fabrics using what it describes as the widest array of conversion technologies available. Its product lines include 2D woven fabrics (plain, twill, satin, and complex designs), spread tow fabrics (sigmaST), multiaxial non-crimp fabrics (NCF), unidirectional fabrics with various stabilising methods, flat tow fabrics (sigmaFT), and recycled fabrics (sigmaRF) made from internal and customer production waste.
+
+Sigmatex serves all industrial markets, with explicit mention of automotive, sporting goods, consumer electronics, and aerospace applications. The company is on the journey to AS9100D certification for aerospace supply.
+
+Sigmatex emphasizes its unrivalled range of carbon fibre grades, including recycled materials, and customised textile solutions designed for performance. It has set public sustainability targets: a 25% reduction in energy consumption per linear meter of fabric by 2025, sourcing more than 50% of energy from renewables by 2025, zero waste to landfill by 2026, and a greater than 25% cut in transportation CO2 emissions by the end of 2024.
+
+## Known for
+- Widest array of conversion technologies for carbon fibre textiles
+- Unrivalled range of carbon fibre grades including recycled materials
+- Customised carbon textile solutions designed for performance
+- Sustainability targets: 25% energy reduction per linear meter by 2025, >50% renewable energy by 2025, zero waste to landfill by 2026, >25% transport CO2 reduction by 2024
+
+## Capabilities
+- 2D woven fabrics
+- Spread tow fabrics
+- Multiaxial non-crimp fabrics (NCF)
+- Unidirectional fabrics
+- Flat tow fabrics
+- Recycled fabrics
+- Carbon fibre textile design and development
+- Conversion technologies
+
+## Industries
+- Composites
+- Automotive
+- Sporting goods
+- Consumer electronics
+- Aerospace
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1986
+- **Headquarters:** Cameron, South Carolina
+
+<details><summary>Sources</summary>
+
+- Founded 1986 -> db
+- Headquarters Cameron, South Carolina -> db
+- Manufactures carbon fibre textiles -> /
+- Produces 2D woven, spread tow, multiaxial NCF, unidirectional, flat tow, recycled fabrics -> /services
+- Serves automotive, sporting goods, consumer electronics, aerospace -> /
+- On the journey to AS9100D certification for aerospace -> /
+- Sustainability commitments (energy, renewables, waste, CO2) -> /
+- Languages supported (English, Chinese, Italian, Japanese, German, Spanish, French) -> /
+- LinkedIn URL -> db
+</details>
+
+---
+
+# Signum, LLC
+
+**Old description:** At Signum, we specialize in crafting innovative Internet of Things (IoT) solutions that transform the way the world works. From concept to production, our expertise in engineering, manufacturing, and cloud integration empowers businesses to unlock the full potential of connectivity.
+
+## About
+Signum, LLC operates from two North Dakota locations: an engineering hub in Fargo and a manufacturing facility in Richardton. The company was formed in 2019 as a joint venture between Amber Waves Electronics, founded in 2003 by Doug Hauck, and QED Embedded, founded in 2013 by Ed Schwind. In 2022 Signum acquired both predecessors, consolidating design, firmware, and production capabilities under a single organization.
+
+The firm provides end-to-end Internet of Things solutions, spanning hardware design, PCB layout, firmware and software development, cloud integration, and wireless connectivity (Wi‑Fi, Bluetooth, Zigbee, cellular, and satellite). Its ISO 9001:2015, ISO 13485:2016, and ISO 27001:2022 certified facility in Richardton handles surface‑mount assembly, conformal coating, and prototyping through full‑scale production runs, supporting high‑mix, precision electronic manufacturing.
+
+Signum serves medical device manufacturers, industrial IoT developers, and embedded‑systems companies that require device‑to‑cloud connectivity. The company highlights its status as the first North Dakota electronics manufacturer to achieve ISO 13485 certification, and notes a customer base of over 100 organizations across the United States.
+
+Leadership emphasizes a one‑stop, end‑to‑end approach that combines engineering, in‑house manufacturing, and secure data delivery to accelerate time‑to‑market for connected products. The triple ISO certification is presented as a differentiator that extends quality discipline from production into information security for connected‑device data.
+
+## Known for
+- First North Dakota electronics manufacturer with ISO 13485:2016 certification
+- Triple ISO certified (ISO 9001:2015, ISO 13485:2016, ISO 27001:2022)
+- End-to-end engineering, manufacturing, and IoT services under one roof
+- In-house SMT assembly and conformal coating from prototype to full-scale production
+- Engineering hub in Fargo and manufacturing facility in Richardton, ND
+
+## Capabilities
+- PCB design
+- Firmware development
+- Software development (web, mobile, database)
+- Cloud integration
+- Wireless systems design (Wi-Fi, Bluetooth, Zigbee, custom RF)
+- Cellular connectivity
+- Satellite connectivity
+- SMT assembly
+- Conformal coating
+- Electronics prototyping
+- Full-scale electronics manufacturing
+- Embedded systems engineering
+- Hardware design
+- System design
+- Data delivery services
+- IoT solution development
+
+## Industries
+- Medical electronics
+- Internet of Things (IoT)
+- Embedded systems
+- Manufacturing solutions
+
+## Certifications
+- ISO 9001:2015
+- ISO 13485:2016
+- ISO 27001:2022
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 2019
+- **Headquarters:** Richardton, ND
+
+<details><summary>Sources</summary>
+
+- Founded 2019 as joint venture between Amber Waves Electronics and QED Embedded -> /about
+- Acquired Amber Waves Electronics and QED Embedded in 2022 -> /about
+- Headquarters in Richardton, ND (manufacturing) and engineering hub in Fargo, ND -> /about
+- ISO 9001:2015, ISO 13485:2016, ISO 27001:2022 certifications -> /about, /
+- First North Dakota electronics manufacturer with ISO 13485 certification -> /about
+- Capabilities: PCB design, firmware, software, cloud, wireless, cellular, satellite, SMT assembly, conformal coating, prototyping, full-scale manufacturing -> /, /services
+- Industries: medical electronics, IoT, embedded systems -> /about
+- Founders: Doug Hauck (Amber Waves), Ed Schwind (QED Embedded) -> /about
+- End-to-end engineering and IoT provider differentiation -> /about
+- In-house manufacturing from prototype to delivery -> /
+- High-mix, precision manufacturing environment -> /
+- Components per hour metric mentioned -> /
+</details>
+
+---
+
+# Silver State Inc
+
+**Old description:** A diversified, innovative supplier of quality, stylish fabrics. Founded in honest practices, fair dealing, and enduring relationships since 1952. We are a professional, tightly knit partnership of family and staff devoted to the success, satisfaction and well-being of one another.
+
+## About
+Silver State Inc has operated from South Salt Lake, Utah since its founding in 1952. The company describes itself as a professional, tightly knit partnership of family and staff, indicating family ownership, though individual founders are not named in public materials.
+
+The business supplies a diversified range of quality, stylish fabrics under its own Silver State Fabrics label alongside the Alaxi Fabrics and Sunbrella Trim collections. It offers custom weave downs and custom fabric products, and maintains a network of showrooms and sales representatives to serve customers. Facility size, headcount, and annual volume are not disclosed.
+
+The fabric lines suggest service to interior design, upholstery, marine, and outdoor living markets, with Sunbrella Trim pointing to marine and outdoor applications. Customers include design professionals and specifiers who use project and book registration forms, though specific client names are not public.
+
+The company states it was founded on honest practices, fair dealing, and enduring relationships, and emphasizes a culture devoted to the success, satisfaction, and well‑being of its family and staff partnership.
+
+## Known for
+- Family and staff partnership culture
+- Custom weave downs and custom fabric products
+- Multi-brand portfolio: Silver State Fabrics, Alaxi Fabrics, Sunbrella Trim
+- Showroom and sales representative network
+
+## Capabilities
+- Custom weaving (weave downs)
+- Custom fabric products
+- Fabric distribution
+- Showroom and representative services
+- Project registration and specification support
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Founded:** 1952
+- **Ownership:** Family-owned
+- **Headquarters:** South Salt Lake, Utah
+
+<details><summary>Sources</summary>
+
+- Founded 1952 -> db
+- Headquarters South Salt Lake, Utah -> db
+- Family-owned partnership -> description
+- Supplier of quality stylish fabrics -> description
+- Brands: Silver State Fabrics, Alaxi Fabrics, Sunbrella Trim -> page:/
+- Custom weave downs and custom products -> products
+- Showrooms and representatives -> page:/
+- Project and book registration forms -> page:/
+- Tariff notice contact info -> page:/
+- Social media: YouTube, Instagram -> page:/
+</details>
+
+---

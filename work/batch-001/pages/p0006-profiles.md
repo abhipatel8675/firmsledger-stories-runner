@@ -3,7 +3,7 @@
 **Old description:** Custom Service Plastics, LLC (CSP) operates out of facilities totaling over 200,000 sq. ft located in beautiful Lake Geneva, Wisconsin. CSP has been in operation since 2000 supporting a large host of Fortune 500 company’s worldwide operations.
 
 ## About
-Custom Service Plastics, LLC (CSP) has operated from Lake Geneva, Wisconsin since 2000. The company occupies facilities totaling more than 200,000 square feet at 201 Sheridan Springs Road and is certified as a Woman Business Enterprise (WBE), a Minority Business Enterprise (MBE), and an SBA-designated Small Disadvantaged Business operating under the IATF 16949 quality management system.
+Custom Service Plastics, LLC (CSP) has operated from Lake Geneva, Wisconsin since 2000. The company occupies facilities totaling more than 200,000 square feet and is certified as a Woman Business Enterprise (WBE), a Minority Business Enterprise (MBE), and an SBA-designated Small Disadvantaged Business operating under the IATF 16949 quality management system.
 
 CSP provides custom plastic molding and complete engineering solutions, supported by a team of engineering, quality, and manufacturing associates. The operation emphasizes cost efficiency and on-time delivery across its production floor, offering low-cost engineering support for diverse client needs.
 
@@ -139,7 +139,7 @@ Today Dalsin provides full-service contract metal manufacturing and assembly for
 
 Dalsin serves industries including solar energy mounting and racking systems, fuel cell assemblies and enclosures, renewable energy storage, appliance, bus and recreational vehicle, automotive equipment, and DC racking and storage. Its customer base also extends to energy, transportation, power management, materials handling, and construction sectors, with long-term relationships spanning decades.
 
-The company differentiates itself through a 'Better by Design' philosophy that emphasizes early engineering collaboration to improve product performance and reduce costs. Sustainability initiatives include a rooftop solar array generating 46 percent of the facility's electricity and zero-waste programs. Dalsin holds ISO 9001:2015 and ISO 14001:2015 certifications and pursues Green Waste certification.
+The company differentiates itself through a 'Better by Design' philosophy that emphasizes early engineering collaboration to improve product performance and reduce costs. Sustainability initiatives include a rooftop solar array generating 46 percent of the facility's electricity and zero-waste programs.
 
 ## Known for
 - Collaborative design and design-for-manufacture (DFM) optimization
@@ -322,7 +322,7 @@ The company develops woven fabric solutions for filtration and industrial applic
 
 Decotex serves a broad range of industries, including water purification, wastewater treatment, mining and minerals, food and beverage, chemical and industrial processing, electrical appliance, and automotive filtration. Its fabrics are used in applications such as screen printing, filter media, conveyor belting, vacuum belts, and tubular woven products for specialized industrial processes.
 
-Decotex emphasizes product and technical knowledge, a low-overhead structure for competitive pricing, a large inventory of key fabrics enabling fast and same-day delivery, and the development of new fabrics to meet evolving customer needs. Its stated mission is to be a leading supplier of filtration and industrial woven and non-woven media while providing a high level of service and technical support.
+Decotex emphasizes product and technical knowledge, a low-overhead structure for competitive pricing, a large inventory of key fabrics enabling fast and same-day delivery, and the development of new fabrics to meet evolving customer needs. Its stated mission is to be a supplier of filtration and industrial woven and non-woven media while providing a high level of service and technical support.
 
 ## Known for
 - Large inventory of key fabrics for immediate delivery
@@ -397,13 +397,12 @@ DEMEP delivers consulting, training, and implementation services rather than man
 
 The partnership serves Delaware's manufacturing base across multiple sectors, along with financial institutions and health care and service providers. Its client engagements span automotive suppliers requiring ISO/TS 16949 compliance, medical device manufacturers needing ISO 13485 systems, and general manufacturers seeking lean transformation, quality certification, energy reduction, or market growth strategies.
 
-DEMEP was founded with a mandate to transfer Lean Best Practices and Quality Systems Training to the manufacturing community. The organization states its purpose is to improve the global competitiveness of Delaware manufacturers by providing confidential access to industry best practices, processes, and business improvement methodologies through its national network of 51 MEP Centers.
+DEMEP was founded with a mandate to transfer Lean Best Practices and Quality Systems Training to the manufacturing community.
 
 ## Known for
 - Official MEP National Network representative for Delaware
 - Access to 51 MEP Centers across all 50 states and Puerto Rico
 - Federally and state funded non-profit structure
-- Confidential access to industry best practices and methodologies
 - Services tailored to client needs and budget
 
 ## Capabilities
@@ -613,7 +612,7 @@ The company emphasizes its dual-process capability—injection molding and vacuu
 **Old description:** The Better Business Bureau (BBB) is a private, 501(c)(6) nonprofit organization founded in 1912. BBB’s self-described mission is to focus on advancing marketplace trust, consisting of 97 independently incorporated local BBB organizations in the United States and Canada, coordinated under the International Association of Better Business Bureaus (IABBB) in Arlington, Virginia.
 
 ## About
-Direct Components Inc. operates from a 10,700-square-foot facility in Tampa, Florida, where it has been based since relocating in 2020. The company was founded on July 6, 1998, and has been under the sole ownership of Aaron Nursey since 2014. What began as a specialized sourcing operation for allocated and obsolete semiconductors has grown into a broad-line stocking distributor with more than 100 employees and annual sales exceeding $160 million as of 2021.
+Direct Components Inc. operates from a 10,700-square-foot facility in Tampa, Florida, where it has been based since relocating in 2020. The company was founded on July 6, 1998, and has been under the sole ownership of Aaron Nursey since 2014.
 
 The firm functions as an independent distributor of electronic components, focusing on hard-to-find, end-of-life, and obsolete parts for OEMs, contract manufacturers, and EMS providers. Its capabilities span semiconductor sourcing, excess inventory recovery through direct purchase, consignment, or brokered models, and a full in-house quality lab. The 2,000-square-foot climate-controlled lab and warehouse maintains ANSI/ESD S20.20 compliance and houses equipment including a Keyence VHX digital microscope, Creative Electron Truview Prime X-ray system, Hitachi XMET 8000, Mantis Elite microscope, and Tektronix 576 curve tracer. Testing covers external visual inspection, dimensional checks, acetone testing, electrical and memory testing, X-ray analysis, and decapsulation. The company reports millions of parts in stock and a 48-hour turnaround from receipt through mitigation to shipment.
 
@@ -725,7 +724,7 @@ The company emphasizes counterfeit mitigation as a core differentiator, holding 
 ## About
 Founded in 1970 in Lenexa, Kansas, Disposable Instrument Co has specialized in medical device component manufacturing for over five decades. The company operates as a U.S.-based producer of custom stainless steel surgical components.
 
-The company manufactures a range of precision surgical components including wound drainage trocars, fixation pins, Steinmann pins, K-wires, tunnelers, guide pins, obturators, and handles, points, and ends. All parts are made from surgical- or implant-grade stainless steel certified to ASTM F-899/ISO 7153-1 or ASTM F-138/ISO 5832-1. Disposable Instrument employs proprietary manufacturing processes that yield a distinctive high-gloss finish, and maintains full traceability by part, heat, job, or lot number with records retained for at least seven years. Statistical process control and 100% visual inspection are standard. To date, the company has produced over 35 million metal medical device components.
+The company manufactures a range of precision surgical components including wound drainage trocars, fixation pins, Steinmann pins, K-wires, tunnelers, guide pins, obturators, and handles, points, and ends. All parts are made from surgical- or implant-grade stainless steel certified to ASTM F-899/ISO 7153-1 or ASTM F-138/ISO 5832-1. Disposable Instrument employs proprietary manufacturing processes that yield a distinctive high-gloss finish, and maintains full traceability by part, heat, job, or lot number with records retained for at least seven years. To date, the company has produced over 35 million metal medical device components.
 
 Disposable Instrument serves the medical device industry exclusively, supplying component manufacturers and original equipment manufacturers that require precision stainless steel parts for surgical applications. Its customer base includes firms needing custom trocars, fixation pins, and other implantable or single-use instruments.
 

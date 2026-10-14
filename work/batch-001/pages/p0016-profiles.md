@@ -5,7 +5,7 @@
 ## About
 OE Solar is headquartered in Albuquerque, New Mexico. The company was founded in 2009 as Osceola Energy, Inc. with the original goal of installing solar across the state. It is a woman‑owned small business that rebranded to OE Solar as its focus expanded to enterprise‑level renewable energy solutions for both private and public sector clients.
 
-The firm operates as a full‑service engineering, procurement, and construction (EPC) contractor for commercial solar photovoltaic systems, battery energy storage systems (BESS), EV charging infrastructure, solar carports, and microgrid installations. It also provides operations and maintenance, community solar development, and pre‑construction planning. To date, OE Solar reports 6.8 MW of solar installed across more than 2,100 clients over 17 years in business; facility size and employee count are not disclosed.
+The firm operates as a full‑service engineering, procurement, and construction (EPC) contractor for commercial solar photovoltaic systems, battery energy storage systems (BESS), EV charging infrastructure, solar carports, and microgrid installations. It also provides operations and maintenance, community solar development, and pre‑construction planning.
 
 OE Solar serves commercial and industrial businesses, federal, state, and local government agencies, Tribal Nations, military installations, educational institutions, and hospitality venues. Named clients include Santa Ana Casino, Santa Ana Golf Club, Albuquerque Public Schools, and the Picuris Pueblo — for whom the company built New Mexico’s first community solar project.
 
@@ -43,7 +43,6 @@ The company emphasizes its GSA‑approved, woman‑owned small business status, 
 - Electric vehicle charging infrastructure
 
 ## Certifications
-- Woman‑Owned Small Business (WOSB)
 - GSA Approved
 - NABCEP Certified
 - Tesla Certified

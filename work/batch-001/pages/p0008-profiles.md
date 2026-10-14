@@ -540,13 +540,12 @@ The company fabricates structural steel for building structures, bridges, and pr
 
 FabArc serves the automotive, commercial construction, healthcare construction, and industrial construction sectors across the Southeast. It also fabricates ASME-code pressure vessels from carbon steel, stainless steel, nickel alloys, chromium alloys, titanium, and aluminum for industries such as chemical and power generation.
 
-The company emphasizes fast-track project support, backed by a bonding capacity of $175 million per project and $300 million aggregate. Its supervisors average over 25 years of experience, and the firm maintains a low experience modification rate (EMR) below 1.0, reflecting a strong safety record. A bar-coded inventory and production control system supports on-time delivery.
+The company emphasizes fast-track project support, backed by a bonding capacity of $175 million per project and $300 million aggregate. A bar-coded inventory and production control system supports on-time delivery.
 
 ## Known for
 - Fast-track project support with urgent delivery capability
 - Pre-approved $175 million single-project and $300 million aggregate bonding capacity
 - Supervisors and managers averaging over 25 years of industry experience
-- Experience Modification Rate (EMR) consistently below 1.0 (0.48–0.78)
 - Bar-coded inventory, production control, and shipping system
 
 ## Capabilities
@@ -691,10 +690,6 @@ The company emphasizes a build-to-last philosophy, using American-made materials
 - EDM Machining
 - CNC Machining
 - Ferrous/Non-Ferrous Sawing
-
-## Certifications
-- Veteran-Owned Small Business (VOSB)
-- Woman-Owned Small Business (WOSB)
 
 ## Company details
 - **Company Type:** Custom Fabrication & Welding

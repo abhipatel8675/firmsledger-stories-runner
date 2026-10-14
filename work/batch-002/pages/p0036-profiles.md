@@ -1,0 +1,669 @@
+# Barney and Carey Lumber Specialties
+
+**Old description:** A loaf of bread cost 7¢ and a pound of steak would run you about 26¢. The gummy bear was just invented in Germany, and Babe Ruth was the most famous person in the country. It was 1922, and it was the year that Barney & Carey Company Inc. was founded on the banks of the Neponset River in Milton, MA.
+
+## About
+Barney & Carey Lumber Specialties operates from Avon, Massachusetts, but traces its roots to 1922 when the Barney & Carey Company Inc. was founded on the banks of the Neponset River in nearby Milton. The business has remained a family-owned operation since its inception.
+
+The company runs a specialty lumberyard stocking rare and exotic hardwoods alongside a custom millwork shop equipped with CNC machining centers. Its capabilities include precision CNC woodworking for custom cabinet parts, prototypes, and period millwork; custom molding production supported by over 350 knife profiles that can be cut in any species; and furniture refinishing and restoration for heirloom pieces. The shop serves both trade professionals and individual woodworkers, offering milling, cutting, and planing services on any material in inventory.
+
+Customers range from contractors and trade professionals on commercial and historic restoration projects to hobbyists and homeowners. Notable projects cited by the company include the 4,000-bottle wine cellar for Boston’s XV Beacon hotel, a 25-foot period dining table for a Newport mansion owner, the reception area of a Manhattan skyscraper, and a Madison Avenue storefront. An online cabinet design tool allows customers to specify and order custom parts without a sales consultation.
+
+The company emphasizes quality and service as its foundation, highlighting that its custom moldings are produced without the “skip” or “chatter” common in mass-produced profiles, and that pricing is often comparable to stock patterns. The availability of reclaimed species such as American Elm and a broad selection of exotic woods further differentiate its material offering.
+
+## Known for
+- Over 350 knife profiles for custom moldings in any species
+- Custom moldings free of skip or chatter
+- Online self-service cabinet design and ordering
+- Reclaimed and rare wood inventory (e.g., reclaimed American Elm)
+- Full-service lumberyard with CNC milling for contractors and hobbyists
+
+## Capabilities
+- Specialty lumber sales
+- Custom millwork
+- CNC woodworking
+- CNC machining
+- Furniture refinishing
+- Custom cabinet parts
+- Custom moldings
+- Trim reproduction
+- Period millwork
+- Online cabinet design tool
+- Milling
+- Cutting
+- Planing
+
+## Industries
+- Construction trades
+- Historic restoration
+- Hospitality
+- Commercial construction
+- High-end residential
+- DIY woodworking
+
+## Equipment
+- CNC machines
+- Milling equipment
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 1922
+- **Headquarters:** Avon, MA
+
+<details><summary>Sources</summary>
+
+- Founded 1922 on banks of Neponset River in Milton, MA -> db
+- Headquarters in Avon, MA -> /
+- Specialty lumberyard with rare/exotic woods -> /
+- CNC machining capabilities -> /
+- Custom millwork with over 350 knife profiles -> /about
+- Furniture refinishing services -> /
+- Serves contractors and hobbyists -> /
+- Projects: XV Beacon hotel, Newport mansion, Manhattan skyscraper, Madison Ave storefront -> /about
+- Online cabinet design tool -> /
+- Reclaimed Elm lumber -> /about
+- No skip or chatter on custom moldings -> /about
+- Materials: American Ash, Beech, Eastern White Pine, Radiata Pine, C-select pine, Lauan -> /about
+</details>
+
+---
+
+# Barnhardt Manufacturing Co
+
+**Old description:** Since 1964, NCFI has been at the forefront of high-performance foam solutions, leading innovation in the US construction industry with applications such as spray foam insulation, foam roofing, agriculture and geotechnical solutions. NCFI also specializes in OEM solutions for foam insulated cooler and refrigeration panels, Taxidermy, Marine flotation, and other speciality foam solutions.
+
+## About
+Barnhardt Manufacturing Co. was founded in 1900 in Charlotte, North Carolina, and has operated continuously for over 125 years. The company began as a cotton purification business and has since expanded into a family of brands that includes Carolina Absorbent Cotton and NCFI.
+
+Today, Barnhardt produces purified cotton in traditional, organic, and reclaimed forms, supplying cotton, polyester, and rayon coils to the pharmaceutical and vitamin industries. Through its NCFI brand, the company also manufactures high-performance polyurethane foam solutions, including spray foam insulation, foam roofing, agricultural and geotechnical foams, and OEM foam panels for coolers, refrigeration, taxidermy, and marine flotation.
+
+The company serves customers in pharmaceuticals, vitamins, construction, agriculture, geotechnical engineering, marine, taxidermy, and refrigeration manufacturing. Carolina Absorbent Cotton ships its engineered fibers nationwide and globally, while NCFI's foam products are used in building insulation, roofing systems, and specialty OEM applications across the United States.
+
+Barnhardt emphasizes a legacy of care, stating that it has prioritized the well-being of customers, employees, and suppliers for more than a century. The company highlights its commitment to excellence, fast and reliable delivery, and the sustainable, hypoallergenic properties of its purified cotton as key differentiators.
+
+## Known for
+- Over 125 years of cotton purification expertise
+- Fast, reliable nationwide and global delivery of engineered fibers
+- Multiple cotton types: organic, traditional, and reclaimed
+- High-performance foam solutions since 1964
+- OEM foam solutions for coolers, refrigeration, and marine flotation
+
+## Capabilities
+- Cotton purification
+- Cotton coil manufacturing
+- Organic cotton processing
+- Reclaimed cotton processing
+- Spray foam insulation
+- Foam roofing
+- Agricultural foam solutions
+- Geotechnical foam solutions
+- OEM foam insulated panels
+- Taxidermy foam solutions
+- Marine flotation foam
+- Specialty foam solutions
+
+## Industries
+- Pharmaceutical
+- Vitamin
+- Construction
+- Agriculture
+- Geotechnical
+- Marine
+- Taxidermy
+- Refrigeration
+- Consumer goods
+- Medical
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1900
+- **Headquarters:** Charlotte, North Carolina
+
+<details><summary>Sources</summary>
+
+- Founded 1900 -> db, /
+- Headquarters Charlotte, NC -> db, /
+- Brands: Carolina Absorbent Cotton (75+ years), NCFI (since 1964) -> /
+- Products: purified cotton (traditional, organic, reclaimed), cotton/polyester/rayon coils -> /
+- Foam solutions: spray foam insulation, foam roofing, agricultural, geotechnical, OEM panels for coolers/refrigeration, taxidermy, marine flotation -> /
+- Industries served: pharmaceutical, vitamin, construction, agriculture, geotechnical, marine, taxidermy, refrigeration, consumer/medical -> /
+- Differentiators: legacy of care, commitment to excellence, fast reliable delivery, sustainable/hypoallergenic cotton properties -> /
+- Company type: manufacturer of cotton and foam products -> /
+</details>
+
+---
+
+# Bass Electronics, Inc.
+
+**Old description:** We take pride in being a United States based manufacturing company. With over 40 years of industrial product development behind us, we look forward to a future of even more innovative design. We have solutions for extreme temperature applications, highly corrosive areas, explosion proof/flameproof areas, and high vibration/heavy shock areas. Choose your application below.
+
+## About
+Bass Electronics, Inc. was founded in 1963 in Baton Rouge, Louisiana. The company remains under family leadership, with second-generation president Bill Bass guiding operations after more than 40 years of experience. What began as a specialized industrial camera provider has grown into a U.S.-based manufacturer focused on harsh-environment vision systems.
+
+The company designs and builds ruggedized cameras for extreme conditions: boiler and furnace cameras rated to 4,000 °F, stainless-steel housings for corrosive atmospheres, explosion-proof and flameproof models, and ground-flare camera systems. Its portfolio includes portable furnace cameras for field demonstrations, along with accessories, engineering support, and full-service maintenance. All products are assembled domestically, though facility size and headcount are not disclosed.
+
+Bass Electronics serves industrial process facilities that need reliable visual monitoring in high-temperature, corrosive, explosive, or high-vibration settings. Typical applications include boiler and furnace inspection, flare-stack monitoring, and process viewing in chemical, petrochemical, and power-generation plants. The company emphasizes NDAA-compliant solutions for federal and defense-related projects.
+
+The firm traces its differentiation to over six decades of application-specific development, a two-year warranty on all parts, and a commitment to corrosion protection for electronics exposed to hydrogen sulfide and chlorine. Bass positions its expertise as protecting both people and processes through purpose-built camera systems.
+
+## Known for
+- U.S.-based manufacturing with over 60 years of experience
+- Ruggedized cameras for extreme temperatures up to 4,000 °F
+- Explosion-proof and flameproof certified designs
+- NDAA-compliant product line
+- Two-year warranty on all parts
+
+## Capabilities
+- Industrial camera design and manufacturing
+- Ruggedized camera systems for extreme temperatures
+- Explosion-proof/flameproof camera systems
+- Corrosion-resistant camera housings (stainless steel)
+- High vibration/shock resistant camera systems
+- Portable furnace camera systems
+- Engineering and design services
+- Full service support and maintenance
+- NDAA compliance consulting
+- Corrosion protection for electronics
+
+## Industries
+- Industrial process facilities
+- Process industrial facilities
+- Boiler and furnace operations
+- Ground flare systems
+
+## Equipment
+- CF Boiler and Furnace Camera 4000°F/2200°C
+- SE-2012 Stainless Steel Camera
+- BE-11 Explosion Proof Camera
+- CRC-18 Ground Flare Camera System
+- Portable Furnace Camera
+
+## Certifications
+- NDAA Compliance
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1963
+- **Ownership:** Family-owned
+- **Headquarters:** Baton Rouge, Louisiana
+
+<details><summary>Sources</summary>
+
+- Founded 1963 -> db
+- Headquarters Baton Rouge, LA -> db
+- Family-owned (second generation) -> /about-us
+- Manufactures industrial cameras for extreme environments -> /
+- Products: CF Boiler and Furnace Camera, SE-2012, BE-11, CRC-18, Portable Furnace Camera -> /
+- Serves industrial process facilities -> /about-us
+- NDAA Compliance -> / (blog post)
+- Two-year warranty on all parts -> / (product list)
+- Corrosion protection for electronics -> / (blog post)
+- Second-generation president Bill Bass -> /about-us
+- U.S.-based manufacturing -> /
+- Ruggedized camera products, accessories, services, engineering, full service support -> /about-us
+</details>
+
+---
+
+# Bauer Sheet Metal & Fab
+
+**Old description:** At Bauer Sheet Metal and Fabricating, Inc., we pride ourselves on being in business since 1932. We continually strive to stay on the cutting edge by utilizing the newest technologies in sheet metal and steel fabrications along with installations.
+
+## About
+Bauer Sheet Metal and Fabricating, Inc. has operated from Scottville, Michigan since 1932. The company began as a sheet metal and steel fabrication shop and has expanded to offer on-site installation services alongside its manufacturing operations.
+
+Today the firm provides precision sheet metal fabrication, structural steel fabrication, and industrial installation. Its manufacturing capabilities include forming, shearing, punching, sawing, flame and plasma cutting, laser cutting, MIG and TIG welding (including food-grade), finishing such as painting, polishing, and powder coating, and secondary machining. The shop runs equipment such as Eagle, Bertsch, and Wysong power rolls, Cincinnati and Wysong shears, a Kamatsu Rason KCR 1251 flame cutter, Hypertherm plasma systems, Bystronic laser cutters, and a Fabriline 60-ton punch. Ultrasonic thickness testing is used for quality verification. The company operates from two locations with an experienced staff, though headcount and annual volume are not disclosed.
+
+Bauer serves the marine and offshore sector under American Bureau of Shipping (ABS) certification, delivering wheelhouse expansions, stack replacements, hull and structural repairs, galley replacements, and custom railings and stairways. For the mining industry, it builds MSHA-compliant equipment including pollution control and dust collection systems, material handling equipment, and structural steel and sheet metal designs. The company also serves food-industry material handling systems, providing custom fabrications such as kitchen hoods, stainless countertops, and flashing, and handles barge repair and general manufacturing repair work.
+
+The company emphasizes customer service as its top priority and maintains certifications from the American Welding Society (AWS) and ABS. It differentiates itself through its certified welding, ultrasonic thickness testing, MSHA-compliant mining fabrication, and the ability to handle projects of all sizes from two Michigan locations.
+
+## Known for
+- ABS certified for marine and offshore fabrication
+- AWS certified welding
+- MSHA-compliant mining industry fabrication
+- Ultrasonic thickness testing for precision
+- Two locations with experienced staff
+
+## Capabilities
+- Forming (press and roll forming)
+- Shearing
+- Punching
+- Sawing
+- Flame cutting
+- Plasma cutting
+- Laser cutting
+- Welding (MIG, TIG, food-grade)
+- Finishing (painting, polishing, powder coating)
+- Machining (secondary operations)
+- Ultrasonic thickness testing
+- Engineering
+- On-site installation
+- Machine installation and maintenance
+- Pollution control and dust collection systems
+- Material handling equipment design and installation
+- Structural steel and sheet metal design
+- Custom railings and stairways fabrication
+- Custom fabrication (kitchen hoods, flashing, stainless countertops)
+
+## Industries
+- Marine and offshore
+- Mining
+- Food processing
+- Material handling
+
+## Equipment
+- Eagle Power Roll
+- Bertsch Power Roll
+- Wysong Power Roll
+- Wysong Mechanical shear
+- Cincinnati shear
+- Kamatsu Rason KCR 1251
+- Hypertherm plasma system
+- Bystronic laser cutter
+- Fabriline 60-ton punch
+
+## Certifications
+- AWS (American Welding Society)
+- ABS (American Bureau of Shipping)
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 1932
+- **Headquarters:** Scottville, Michigan
+
+<details><summary>Sources</summary>
+
+- Founded 1932 -> db, /about
+- Headquarters Scottville, Michigan -> db, /about
+- Capabilities: forming, shearing, punching, sawing, flame cutting, welding, finishing, machining, ultrasonic thickness testing -> /quality, /about
+- Equipment: Eagle Power Roll, Bertsch Power Roll, Wysong Power Roll, Wysong Mechanical shear, Cincinnati shear, Kamatsu Rason KCR 1251, Hypertherm, Bystronic, Fabriline 60 Ton -> /quality
+- Certifications: AWS, ABS -> /about
+- Materials: carbon steel, stainless steel, aluminum, polycarbonates -> /about
+- Industries: marine/offshore (ABS), mining (MSHA), food industry material handling -> /about, db
+- Two locations, experienced staff -> /about
+- Flame cutting accuracy 0.03125 in -> /quality
+- Customer service priority -> /, /about
+- Custom fabrications: kitchen hoods, railings, flashing, stainless countertops -> /
+</details>
+
+---
+
+# Bay City Electric Works
+
+**Old description:** Bay City Electric Works is a leading generator distributor in California. Specializes in Kohler emergency generator systems along with automatic transfer switches and paralleling switchgear. Provides complete backup-power solutions (sales, service and rentals) for commercial, industrial and residential customers.
+
+## About
+Bay City Electric Works was founded in 1932 by Bob and Leola Norris as a small appliance repair shop on University Avenue in San Diego. The business became a Kohler generator dealer in 1962 and was appointed Kohler's distributor for San Diego and Imperial Counties in 1971. Ownership changed hands several times: in 1984 the assets were purchased by CDS Electric (Wilmer Spitzer, Wally Dier, Tom Claycomb); Tom Claycomb took full control in 1986. In 2007 Mark Loftin, Chuck Loftin, and Rodney Lee acquired the company, and in 2021 the Lee family — Rod & Kim Lee, Austin & Kara Lee, and Adrian Lee — bought 100 percent of the stock, making it a family-owned operation. The corporate headquarters moved to a 70-employee facility in Poway, California, in 2012.
+
+Today the company operates as an authorized distributor for Kohler (now Rehlko) emergency standby generators, automatic transfer switches, and paralleling switchgear, as well as Bobcat industrial air compressors and portable generators. It maintains a multimillion-dollar parts inventory and provides 24/7 service, maintenance, and repair for all generator brands. Bay City also runs a rental fleet, offers application engineering and generator training for contractors and specifying engineers, and operates a 20,000-square-foot sales and service center opened in 2024 in Galt, California, to serve Northern California and Northern Nevada.
+
+The customer base spans commercial, industrial, and residential sectors, including healthcare facilities, data centers, municipal agencies, and homeowners across California, Nevada, and Hawaii. Contractors and specifying engineers rely on the firm's application engineering support for design, installation, and safety compliance.
+
+Bay City emphasizes a customer-centric philosophy — “The Customer Is At The Center Of All We Do” — and positions itself as the exclusive power systems supplier for its three-state territory, backed by over 90 years of continuous operation.
+
+## Known for
+- Exclusive Kohler/Rehlko distributor for California, Nevada, and Hawaii since 1932
+- 24/7 emergency generator service with factory-trained technicians
+- Multimillion-dollar genuine parts inventory for fast turnaround
+- Application engineering and generator training for contractors and engineers
+- Full-service rental fleet with delivery, setup, and support
+
+## Capabilities
+- Generator sales (Kohler/Rehlko)
+- Generator installation and commissioning
+- Generator maintenance and repair (all brands)
+- Generator rental (prime and standby)
+- Parts distribution (OEM and genuine components)
+- Automatic transfer switch installation
+- Paralleling switchgear installation
+- Industrial air compressor sales (Bobcat)
+- Portable generator sales
+- Application engineering support
+- Generator training services
+- Power solutions consulting
+- BIM object library for design
+
+## Industries
+- Commercial
+- Industrial
+- Residential
+- Healthcare facilities
+- Data centers
+- Municipal government
+- Contractors
+- Specifying engineers
+- Homeowners
+
+## Equipment
+- Kohler/Rehlko generators
+- Bobcat industrial air compressors
+- Outback Power energy storage systems
+- EnerSys energy storage systems
+- Automatic transfer switches
+- Paralleling switchgear
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Founded:** 1932
+- **Employees:** 70
+- **Ownership:** Family-owned
+- **Headquarters:** Poway, California
+
+<details><summary>Sources</summary>
+
+- Founded 1932 by Bob and Leola Norris -> /about-us
+- Became Kohler dealer 1962, distributor 1971 -> /about-us
+- Ownership changes: 1984 CDS Electric, 1986 Tom Claycomb, 2007 Loftin/Lee, 2021 Lee family 100% -> /about-us
+- Headquarters moved to Poway, CA in 2012 with 70 employees -> /about-us
+- Authorized distributor for Kohler/Rehlko generators, ATS, paralleling switchgear -> /about-us, /
+- Bobcat industrial air compressors and portable generators -> /about-us, /
+- Multimillion-dollar parts inventory -> /
+- 24/7 emergency service, factory-trained technicians -> /
+- Rental fleet with delivery, setup, support -> /
+- Application engineering and generator training -> /
+- 20,000 sq ft facility in Galt, CA opened 2024 -> /about-us
+- Serves California, Nevada, Hawaii -> /
+- Industries: commercial, industrial, residential, healthcare, data centers, municipal -> db, /
+- Acquired Diesel Generator Services, AG Engineering, Alpro Power -> /about-us
+- Company type: distributor -> db description
+- Family-owned (Lee family) -> /about-us
+- Employee count 70 -> db, /about-us
+- LinkedIn URL -> db
+</details>
+
+---
+
+# Bay Metals & Fabrication, LLC
+
+**Old description:** Bay Metals & Fabrication is Norfolk and Virginia Beach’s trusted ship repair and metalworks company. With over 30 years of operational excellence to call upon, we have the expertise and equipment to handle complex ship repairs, custom fabrications, and large metalwork projects that meet you and your industry’s quality standards.
+
+## About
+Bay Metals & Fabrication, LLC operates from Chesapeake, Virginia, and was founded in 1996. The company emerged as a ship repair and metalworks provider for the Norfolk and Virginia Beach maritime community.
+
+The company delivers a full range of marine and industrial services: ship repair, maintenance, refit, and overhaul; marine pipe fabrication; equipment fabrication and installation; HVAC fabrication; Collective Protective Systems (CPS) fabrication and installation; non‑destructive testing (NDT) including VT, PT, MT, UTT, and UTS; equipment tower fabrication and installation; sheet metal fabrication (including jointer metal doors); and furniture fabrication. They also perform structural fitting, precision layout, and installation of ship components, and work in confined, enclosed, and open spaces, tanks, and voids. Facility size and headcount are not disclosed.
+
+Bay Metals serves government entities and commercial businesses worldwide, with a focus on U.S. Navy vessels and maritime customers. Concrete clients referenced include BAE Systems, Lyons Shipyard, NAVSEA, the USS Ponce, and the MK60 Griffin Missile System program. The company has earned a Partner2Win Supplier Award from BAE Systems for its support of Navy vessels.
+
+The firm positions itself as the "special forces of ship repair," citing unmatched experience in high‑quality ship repair and custom marine fabrication on the waterfront. Its stated mission emphasizes delivering the highest‑quality products and services on time and within budget, continuous process improvement, open communication, employee involvement, a safe workplace, and a strong environmental protection management program. Reputable agencies reportedly return because of the company’s track record of durable fabrications and repairs.
+
+## Known for
+- Over 30 years of operational excellence in ship repair and metal fabrication
+- Describes itself as the 'special forces of ship repair' with unmatched waterfront experience
+- Partner2Win Supplier Award from BAE Systems for support of U.S. Navy vessels
+- Comprehensive marine and industrial services including NDT, CPS, and HVAC fabrication
+- Commitment to safety, quality, and environmental protection management
+
+## Capabilities
+- Ship repair and maintenance
+- Vessel refit and overhaul
+- Marine pipe fabrication
+- Equipment fabrication and installation
+- HVAC fabrication
+- Collective Protective Systems (CPS) fabrication and installation
+- Non-destructive testing (NDT): VT, PT, MT, UTT, UTS
+- Equipment tower fabrication and installation
+- Sheet metal fabrication (including jointer metal doors)
+- Furniture fabrication
+- Structural fitting and installation of ship components
+- Precision layout and alignment of structural components
+- Confined space, enclosed space, and tank work
+- Crewing, logistics, surveying, and training services
+- Custom metal fabrication
+- Commercial ship repair and fabrication
+
+## Industries
+- Government entities
+- Commercial businesses
+- U.S. Navy
+- Defense contractors
+- Shipbuilding and repair
+- Missile systems
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1996
+- **Headquarters:** Chesapeake, Virginia
+
+<details><summary>Sources</summary>
+
+- Founded in 1996 -> db
+- Headquartered in Chesapeake, Virginia -> db
+- Provides ship repair, marine services, and metal fabrication -> /
+- Offers marine pipe fabrication, equipment fabrication, HVAC, CPS, NDT, tower fabrication, sheet metal, furniture fabrication -> /
+- Serves government entities and commercial businesses globally -> /about-us
+- Clients include BAE Systems, Lyons Shipyard, NAVSEA, USS Ponce, MK60 Griffin Missile System -> /about-us
+- Received Partner2Win Supplier Award from BAE Systems -> /about-us
+- Company describes itself as 'special forces of ship repair' -> /about-us
+- Mission includes quality, safety, environmental protection, employee involvement -> /about-us
+</details>
+
+---
+
+# Bayou Apparel LLC
+
+**Old description:** Bayou Apparel has been helping local businesses communicate their message since 2004. As one of only a few local LSU official licensees, Bayou Apparel offers the highest-quality products to showcase your brand.
+
+## About
+Bayou Apparel LLC was founded in February 2004 in Baton Rouge, Louisiana, by Dan McNamara after he spent more than a decade in the college apparel market. The business remains family‑owned, with Dan and his wife Deprina “Red” McNamara serving as co‑owners and their son Daniel handling corporate and promotional sales.
+
+The company operates an in‑house production facility where it provides screen printing, custom embroidery, and graphic design services, and it maintains a showroom stocked with thousands of promotional items such as pens, mugs, koozies, and USB drives. All decoration work is done on site, allowing the team to control quality and turnaround for custom apparel and branded merchandise.
+
+Bayou Apparel serves a mix of corporate clients, local businesses, and university partners. As an official LSU licensee, it produces licensed fan apparel for events ranging from the Heisman Trophy ceremony to College Football National Championships, while its Bayou Promotions division, launched in 2020, focuses on corporate uniforms, tradeshow giveaways, and promotional products for companies of all sizes.
+
+The founders say the business was built on the ability to bring a client’s idea to life through integrated design and decoration capabilities, backed by experience with high‑profile sporting events and a commitment to personal service from a family‑run team.
+
+## Known for
+- In-house screen printing, embroidery, and graphic design under one roof
+- Official LSU licensee for collegiate apparel
+- Experience producing merchandise for major sporting events (Heisman Trophy, College Football National Championships, March Madness, College World Series)
+- Family-owned and operated with direct owner involvement
+- Launched Bayou Promotions division in 2020 to serve corporate market
+
+## Capabilities
+- Screen printing
+- Custom embroidery
+- Graphic design
+- Promotional product sourcing
+- Custom apparel decoration
+
+## Industries
+- Promotional products
+- Corporate apparel
+- Collegiate licensing
+- Sports event merchandise
+- Tradeshow giveaways
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 2004
+- **Ownership:** Family-owned
+- **Headquarters:** Baton Rouge, Louisiana
+
+<details><summary>Sources</summary>
+
+- Founded in February 2004 -> /about-us
+- Founder Dan McNamara -> /about-us
+- Family-owned (Dan and Red McNamara) -> /about-us
+- Headquarters in Baton Rouge, Louisiana -> db
+- In-house screen printing -> /
+- In-house custom embroidery -> /
+- In-house graphic design -> /
+- Promotional products (pens, mugs, koozies, USB drives) -> /
+- Official LSU licensee -> /
+- Bayou Promotions division launched August 2020 -> /about-us
+- Experience with major sporting events (Heisman Trophy, College Football National Championships, March Madness, College World Series) -> /about-us
+- Serves corporate clients, local businesses, university partners -> /about-us
+- Integrated design and decoration capabilities -> /about-us
+</details>
+
+---
+
+# Beacon Solar Construction
+
+**Old description:** For over a decade, Beacon Solar Construction has been a leading provider of solar solutions in Swansea, Massachusetts, Rhode Island, and Connecticut. As experts in the field, we offer a full range of solar services, including installation, repair, and maintenance for both residential and commercial properties.
+
+## About
+Beacon Solar Construction was founded in 2007 in Berkley, Massachusetts. For over a decade the company has provided solar solutions across Swansea, Massachusetts, Rhode Island, and Connecticut.
+
+The firm operates as a full-service, turnkey solar contractor, managing every project phase in-house — from initial consultation and custom array design through installation, repair, and ongoing maintenance. Its crews install photovoltaic systems for both residential and commercial properties, along with electric-vehicle chargers and energy-storage products such as the Tesla Powerwall, Generac home generators, and FranklinWh batteries.
+
+Customers include homeowners and businesses seeking to lower energy costs or improve sustainability profiles throughout southeastern New England. The company serves the renewable-energy and clean-energy sectors, with a focus on solar photovoltaic and storage installations for private residences and commercial facilities in Massachusetts, Rhode Island, and Connecticut.
+
+Beacon Solar emphasizes a 30-year warranty and a “Renewable Energy Simplified” approach, positioning itself as a long-term partner for system upgrades, troubleshooting, and performance optimization. The business was built to guide clients seamlessly through the solar journey, from incentive navigation to post-installation support.
+
+## Known for
+- 30-year warranty on installations
+- Full-service turnkey project management in-house
+- Authorized dealer for Tesla Powerwall, Generac, and FranklinWh
+- Custom solar array design and product selection
+- Service territory covering Massachusetts, Rhode Island, and Connecticut
+
+## Capabilities
+- Solar photovoltaic installation
+- Solar system repair
+- Solar system maintenance
+- Electric vehicle charger installation
+- Energy storage system installation
+- Custom solar array design
+- Turnkey solar project management
+
+## Industries
+- Renewable energy
+- Solar energy
+- Clean energy
+- Commercial solar
+- Residential solar
+
+## Company details
+- **Company Type:** Installer / service company
+- **Founded:** 2007
+- **Headquarters:** Berkley, Massachusetts
+
+<details><summary>Sources</summary>
+
+- Founded 2007 -> db and page '/'
+- Headquarters Berkley, Massachusetts -> db
+- Services: solar installation, repair, maintenance, EV charger, energy storage -> page '/'
+- Authorized dealer for Tesla Powerwall, Generac, FranklinWh -> page '/'
+- 30-year warranty -> page '/'
+- Serves MA, RI, CT -> page '/'
+- Full-service turnkey solar contractor -> page '/'
+</details>
+
+---
+
+# Bear Packaging & Supply Inc
+
+**Old description:** Founded in warren michigan in 1967, bear packaging & supply (formerly the bland company) has been manufacturing high quality plastic bags under the trade mark “bear claw bags” for some 45 years. In the early 80’s manufacturing was moved to a more centralized location in mt. Pleasant, to better serve the needs of customers in central and northern michigan. In 1994 all operations were consolidated into the mt pleasant location, and remain there today. 2002 saw the first change in ownership when bear packaging & supply was purchased by triple threat inc. Bear claw bags have become known throughout michigan as the highest quality bags in the market. It always has and always will be the promise that bear claw bags are made up to a quality standard, not down to a price. Quality, service and value remain our guiding principle to our customers.
+
+## About
+Bear Packaging & Supply Inc began in 1967 in Warren, Michigan, as the Bland Company. The business adopted the Bear Claw Bags trademark and relocated manufacturing to Mt. All operations consolidated in Mt. Pleasant by 1994. In 2002, Triple Threat Inc acquired the company, which continues to operate from its Mt. Pleasant facility.
+
+The company produces plastic bags including trash bags (16, 30, and 55 gallon), animal feed bags, and custom table covers in multiple colors and sizes. With four converting lines and large material inventory on hand, Bear Packaging can produce custom-sized bags within one to two business days with low minimum orders. Bags are made to a 2-mil thick, super heavy-duty standard.
+
+The company serves customers across Michigan, supplying waste management firms, agricultural operations needing feed bags, and event planners requiring custom table coverings for parties and weddings.
+
+Bear Packaging emphasizes manufacturing to a quality standard rather than a price point, with guiding principles of quality, service, and value. The company highlights quick turnaround on custom orders and low minimums as key differentiators.
+
+## Known for
+- Made to a quality standard, not down to a price
+- Custom bags produced within 1-2 business days
+- Low minimum orders on custom sizes
+- Four converting lines with large material inventory
+
+## Capabilities
+- Plastic bag manufacturing
+- Custom bag converting
+- Table cover manufacturing
+- Film converting
+- Custom sizing
+- Low minimum order production
+
+## Industries
+- Waste management
+- Agriculture/Animal feed
+- Event services
+
+## Equipment
+- 4 converting lines
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1967
+- **Ownership:** Private, owned by Triple Threat Inc since 2002
+- **Headquarters:** Mt Pleasant, Michigan
+
+<details><summary>Sources</summary>
+
+- Founded 1967 in Warren, Michigan as Bland Company -> /about-us
+- Relocated to Mt. Pleasant early 1980s, consolidated 1994 -> /about-us
+- Acquired by Triple Threat Inc in 2002 -> /about-us
+- Manufactures trash bags, animal feed bags, custom table covers -> /
+- Four converting lines, thousands of pounds material on floor -> /
+- Custom bags in 1-2 business days with low minimums -> /
+- Bags 2-mil thick, super heavy duty -> /
+- Capacities: 16, 30, 55 gallon; colors: Red, Blue, Green, Pink -> /
+- Headquarters Mt. Pleasant, Michigan -> db
+</details>
+
+---
+
+# Beijer Electronics Inc.
+
+**Old description:** Founded in Sweden in 1981, we’ve grown into a global company focused on connecting people and technology. Our evolution reflects decades of engineering strength, customer‑centric innovation, and commitment to safer, smarter, more sustainable industrial operations.
+
+## About
+Beijer Electronics Inc. is the U.S. subsidiary of a global industrial electronics group founded in Sweden in 1981. The American operation is headquartered in Salt Lake City, Utah, where it supports customers across the Americas with rugged human-machine interface (HMI) hardware, distributed I/O systems, and automation software.
+
+The company designs and manufactures industrial panels, the X3 extreme ultra HMI series, and remote I/O modules that feature hot-swap redundancy for demanding environments. Its software portfolio includes the iX and WebIQ platforms for HMI development and web-based visualization. Engineering and final assembly are coordinated through a global supply chain; specific facility size and headcount for the Salt Lake City office are not publicly disclosed.
+
+Beijer serves marine, general manufacturing, and rugged-environment sectors. In marine, its solutions help operators meet IMO emissions and cybersecurity requirements; a referenced case study highlights Hyundai Heavy Industries reducing its carbon footprint with a Beijer control system. Manufacturing customers use the automation portfolio for machine building and process optimization, while rugged-environment clients deploy the IP66/NEMA 4X sealed HMIs in extreme heat, cold, vibration, and sunlight.
+
+The firm traces its origin to a Swedish engineering start-up focused on connecting people and technology. It emphasizes open software and hardware architectures, sustainability integrated into operations, and products tested to MIL‑STD‑810H and DNV standards as differentiators that enable digital transformation in harsh conditions.
+
+## Known for
+- Open software and hardware platforms for digital transformation
+- Rugged HMI and I/O products tested to MIL‑STD‑810H and DNV
+- Hot-swap redundant distributed I/O for high availability
+- Sustainability integrated into product design and operations
+- Marine-certified solutions for IMO emissions and cybersecurity compliance
+
+## Capabilities
+- Rugged distributed I/O with hot-swap redundancy
+- HMI hardware design and manufacturing (X3 extreme ultra series)
+- HMI software development (iX, WebIQ)
+- Industrial automation and connectivity solutions
+- Remote monitoring and digitalization services
+- Marine control systems for emission and cybersecurity compliance
+
+## Industries
+- Marine
+- Manufacturing
+- Rugged Environments
+
+## Certifications
+- MIL-STD-810H
+- DNV
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1981
+- **Headquarters:** Salt Lake City, Utah
+
+<details><summary>Sources</summary>
+
+- Founded in Sweden in 1981 -> db
+- Headquartered in Salt Lake City, Utah -> db
+- Provides rugged HMI products, remote I/O solutions -> pages /
+- Serves marine, manufacturing, rugged environments -> pages / and industries_served
+- Hyundai Heavy Industries case study -> pages /
+- Tested to MIL-STD-810H, DNV -> pages /
+- Open software and hardware solutions -> pages /
+- Sustainability integrated in operations -> pages /
+- X3 extreme ultra HMIs with IP66/NEMA 4X -> pages /
+- iX and WebIQ software -> pages /
+- Hot-swap redundancy on distributed I/O -> capabilities and pages /
+</details>
+
+---

@@ -72,7 +72,7 @@ Today the company operates a 135,000-square-foot SQF-certified USDA facility in 
 
 Pegasus serves national consumer brands, supermarket retailers, club stores, quick-service and casual-dining restaurant chains, and foodservice distributors. It also manages private-label programs for major grocery and club channels and markets its own brands, By the Bite and The Perfect Bite Co. Client relationships are often confidential; testimonials reference retail, foodservice, and emerging-brand partners who value the company’s responsiveness and consistency at scale.
 
-The company positions itself on a combination of scale and agility: a large certified facility paired with a “nimble” operating model that emphasizes quick response, rapid changeover, and fast time-to-market. Its stated values — safety first, bravery, momentum, continuous improvement, respect, empowerment, and pursuing the best over the easiest — underpin a culture aimed at reliable, high-performance co-manufacturing.
+The company positions itself on a combination of scale and agility: a large certified facility paired with a “nimble” operating model that emphasizes quick response, rapid changeover, and fast time-to-market.
 
 ## Known for
 - 135,000 sq ft SQF-certified frozen USDA facility in Rockwall, Texas
@@ -388,10 +388,9 @@ The company provides custom plastic injection molding services from initial conc
 
 PART Inc. serves diverse industries with plastic components, though the company does not specify individual sectors in its public materials. Customers range from those needing prototype validation to full-scale production partners.
 
-The firm distinguishes itself by aiming to be one of the best rather than one of the largest molders, a philosophy reflected in a 99.9% satisfaction rating for quality and on-time delivery tracked since 2000. The operation is ISO 9001:2015 certified by Bureau Veritas, and leadership emphasizes integrity, innovation, and collaboration as core values.
+The operation is ISO 9001:2015 certified by Bureau Veritas, and leadership emphasizes integrity, innovation, and collaboration as core values.
 
 ## Known for
-- Aim to be one of the best, not the largest, plastic molding company
 - 99.9% satisfaction rating for quality and on-time delivery since 2000
 - ISO 9001:2015 certified by Bureau Veritas
 - Family-owned with over 60 years of combined leadership experience
@@ -519,7 +518,7 @@ The company operates facilities in North Canton and Allendale, producing a range
 
 Polymer Packaging serves the food, beverage, bakery, industrial, specialty manufacturing, automotive, aerospace, medical, and pharmaceutical sectors. Its customer base includes companies requiring engineered flexible packaging as well as low-cost commodity packaging.
 
-The company states its mission is to be the leading provider of engineered flexible packaging solutions and the low-cost supplier of commodity packaging products. It emphasizes a collaborative approach that delivers fast, effective solutions for demanding applications.
+The company states its mission is to be the provider of engineered flexible packaging solutions and the low-cost supplier of commodity packaging products. It emphasizes a collaborative approach that delivers fast, effective solutions for demanding applications.
 
 ## Known for
 - Same-day quote response

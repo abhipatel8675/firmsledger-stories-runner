@@ -389,7 +389,6 @@ GTP emphasizes technical expertise, a culture of innovation, cost competitivenes
 - IATF 16949 certified quality management system
 - In-house automation fabrication capabilities
 - Material expertise with alternative material development
-- Supplier relationships exceeding 20 years
 - Sustainability programs including recycling and waste reduction
 
 ## Capabilities
@@ -503,15 +502,15 @@ The company states that its differentiation lies in a custom manufacturing solut
 ## About
 Green Sun Energy Services, LLC was founded in 2010 in Middletown, New Jersey, by Glen A. Koedding and Christopher R. Torre. Koedding brought over 20 years of experience advising Fortune 500 executives on strategy, operations, and finance, while Torre contributed 25 years in technical design, system monitoring, and project management. The company began with a mission to safeguard homeowners and small businesses from rising energy costs, power disruptions, and reliance on foreign fuels.
 
-The firm delivers full-spectrum energy and home-service solutions across Monmouth, Ocean, Middlesex, Somerset, Mercer, and Union counties. Its core offerings include residential and commercial solar photovoltaic systems, battery backup storage, GAF Timberline HDZ roofing with a 50-year warranty, Generac standby generator installation and maintenance, EV charger deployment, and seasonal services such as soft washing, gutter cleaning, and professional holiday lighting. Solar panel removal and reinstallation paired with roofing work is also provided. The company reports thousands of satisfied customers and over 300 online reviews.
+The firm delivers full-spectrum energy and home-service solutions across Monmouth, Ocean, Middlesex, Somerset, Mercer, and Union counties. Its core offerings include residential and commercial solar photovoltaic systems, battery backup storage, GAF Timberline HDZ roofing with a 50-year warranty, Generac standby generator installation and maintenance, EV charger deployment, and seasonal services such as soft washing, gutter cleaning, and professional holiday lighting. Solar panel removal and reinstallation paired with roofing work is also provided.
 
 Green Sun serves homeowners, small businesses, and non-profit organizations throughout central New Jersey. Residential clients seek solar, roofing, generators, and EV charging; commercial and non-profit customers pursue solar solutions with incentives like tax credits, accelerated depreciation, and SREC-II income. The company also manages SREC trading for clients.
 
-The company emphasizes its locally owned structure, long-term relationship focus, and flexible financing through dozens of lending and leasing partners. Leadership holds NABCEP certification (Torre, #PVA-111016-016148) and Generac Sales and Service Certification (Koedding), underscoring technical credibility. A 50-year roofing warranty and industry-leading product warranties are highlighted as differentiators.
+The company emphasizes its locally owned structure, long-term relationship focus, and flexible financing through dozens of lending and leasing partners. Leadership holds NABCEP certification (Torre, #PVA-48) and Generac Sales and Service Certification (Koedding), underscoring technical credibility. A 50-year roofing warranty and product warranties are highlighted as differentiators.
 
 ## Known for
 - Locally owned and operated across six New Jersey counties
-- NABCEP-certified solar design and installation (NABCEP# PVA-111016-016148)
+- NABCEP-certified solar design and installation (NABCEP# PVA-48)
 - Generac-certified generator sales, installation, and service
 - Dozens of lending and leasing options for accessible financing
 - 50-year warranty on GAF Timberline HDZ roofing systems
@@ -551,7 +550,7 @@ The company emphasizes its locally owned structure, long-term relationship focus
 
 ## Certifications
 - ISO 9001
-- NABCEP Certified (PV Installation Professional, #PVA-111016-016148)
+- NABCEP Certified (PV Installation Professional, #PVA-48)
 - Generac Sales and Service Certification
 
 ## Company details
@@ -568,7 +567,7 @@ The company emphasizes its locally owned structure, long-term relationship focus
 - Karen A. Koedding, Partner, Operations since 2010 -> /about
 - Services: solar, roofing, generators, EV chargers, seasonal -> /, /about
 - Service counties: Monmouth, Ocean, Middlesex, Somerset, Mercer, Union -> /about
-- NABCEP certification (Christopher Torre #PVA-111016-016148) -> /about
+- NABCEP certification (Christopher Torre #PVA-48) -> /about
 - Generac Sales and Service Certification (Glen Koedding) -> /about
 - ISO9001 certification -> db
 - GAF Timberline HDZ roofing with 50-year warranty -> /

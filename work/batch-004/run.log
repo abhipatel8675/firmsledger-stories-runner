@@ -1,0 +1,569 @@
+fetched p0060-raw.json 10 / 10
+RETRY hbi-textiles-manufacturing HTTP Error 503: Service Unavailable
+RETRY hpc-medx HTTP Error 503: Service Unavailable
+RETRY hti-plastics HTTP Error 500: Internal Server Error
+fetched p0061-raw.json 10 / 10
+fetched p0062-raw.json 10 / 10
+RETRY high-speed-interconnect-llc HTTP Error 503: Service Unavailable
+fetched p0063-raw.json 10 / 10
+RETRY hoskinds-hardwoods HTTP Error 503: Service Unavailable
+fetched p0064-raw.json 10 / 10
+RETRY house-of-timber HTTP Error 503: Service Unavailable
+fetched p0065-raw.json 10 / 10
+RETRY high-speed-interconnect-llc HTTP Error 503: Service Unavailable
+RETRY hy-ten-plastics-inc HTTP Error 503: Service Unavailable
+ok   H&H Classic Parts 
+ok   HBI Textiles Manufacturing 
+ok   HPC Medx 
+fetched p0066-raw.json 10 / 10
+ok   Headwaters Woodworking 
+ok   High Country Metal Works 
+RETRY integrated-components-inc HTTP Error 503: Service Unavailable
+fetched p0067-raw.json 9 / 10
+ok   Hall's Garage 
+RETRY integrated-plastics-machinery HTTP Error 503: Service Unavailable
+ok   HK TEXTILE INC. 
+RETRY intek-plastics HTTP Error 503: Service Unavailable
+ok   Harvest Market 
+ok   HRS Sheet Metal 
+RETRY hy-ten-plastics-inc HTTP Error 503: Service Unavailable
+RETRY high-speed-interconnect-llc HTTP Error 503: Service Unavailable
+ok   Hawaii Spring Supply Inc 
+fetched p0068-raw.json 9 / 10
+ok   HTI Plastics 
+RETRY interstate-power-systems HTTP Error 503: Service Unavailable
+ok   High Ground Electric 
+fetched p0069-raw.json 9 / 10
+ok   Hercules Sheet Metal & Metal Buildings 
+RETRY iowa-custom-wood-company-llc HTTP Error 503: Service Unavailable
+ok   Hologic 
+fetched p0070-raw.json 10 / 10
+ok   Hudson Bros Trailer Mfg., Inc. 
+ok   H&R Steel Supplies and Fabrication 
+ok   Hayden Valley Foods 
+ok   Hawaii Solar Outfitters 
+ok   Heintz Steel & Manufacturing Company 
+fetched p0071-raw.json 10 / 10
+RETRY j-custom-supply-inc-camlok-connectors HTTP Error 503: Service Unavailable
+ok   Hansen International Inc. 
+ok   Hudson Scientific LLC 
+ok   Indiana Wire Assemblies 
+ok   House of Breakers 
+ok   Houston Wire & Cable 
+fetched p0072-raw.json 10 / 10
+ok   HORIZON CABLE SERVICE HOBBS, NW 
+ok   Hwy 83 Manufacturing 
+ok   Hitachi Computer Products, America 
+ok   Hana Technologies 
+ok   Hornwood Inc. 
+ok   Illinois Components 
+ok   Instrument Control Company 
+ok   Hoosier Solar 
+ok   H & H Custom Metal Fabricating 
+PAGE DONE p0060-profiles.json
+fetched p0073-raw.json 10 / 10
+RETRY jason-lewis-furniture HTTP Error 503: Service Unavailable
+ok   Innosys Inc. 
+RETRY jose-s-sheet-metal-llc HTTP Error 503: Service Unavailable
+ok   Industrial Wire & Cable Corporation 
+RETRY kam-plastics-corp HTTP Error 503: Service Unavailable
+ok   Innovative Electronics Corporation 
+RETRY ica Expecting ',' delimiter: line 76 column 4 (char 3633)
+ok   House of Timber 
+ok   Integrity Equipment Solutions 
+RETRY kalsec HTTP Error 503: Service Unavailable
+ok   Hardy Lawn Furniture 
+RETRY kam-plastics-corp HTTP Error 503: Service Unavailable
+fetched p0074-raw.json 10 / 10
+ok   Imperium Cable 
+RETRY holley-steel-inc 'NoneType' object has no attribute 'group'
+RETRY hoosier-woodworks HTTP Error 500: Internal Server Error
+RETRY horizon-sheet-metal-inc HTTP Error 500: Internal Server Error
+ok   High Peak Fabrication 
+ok   Innovative Radiology 
+ok   Interior Wood Products LLC 
+fetched p0075-raw.json 10 / 10
+ok   Hickory Furniture 
+RETRY keller-products HTTP Error 503: Service Unavailable
+ok   Incipio Devices 
+ok   Indianapolis Wire & Terminal 
+ok   Intek Plastics 
+fetched p0076-raw.json 10 / 10
+ok   Hoskinds Hardwoods 
+ok   International Coil Inc 
+ok   Hurley Metal Fabrication & MFG 
+RETRY kodiak-assembly-solutions-lp HTTP Error 503: Service Unavailable
+ok   Integrity Tennessee 
+RETRY jones-mcleod HTTP Error 500: Internal Server Error
+RETRY ironwood-plastics-inc HTTP Error 500: Internal Server Error
+ok   JW Electrical Supply 
+skip Iowa Solar 
+ok   JK Woodworking 
+ok   Integrated Plastics Machinery 
+ok   House of Brands, Inc. 
+RETRY lsm-heating-plumbing-electric-inc HTTP Error 503: Service Unavailable
+ok   Idaho Hat Company 
+fetched p0077-raw.json 10 / 10
+ok   Industrial Electronics, Inc. 
+RETRY hoosier-woodworks HTTP Error 500: Internal Server Error
+RETRY kg-sheet-metal-services-llc HTTP Error 500: Internal Server Error
+RETRY jones-creek-apparel HTTP Error 500: Internal Server Error
+RETRY l-l-electronics HTTP Error 500: Internal Server Error
+RETRY kapa-foods-wholesale-food-supplier HTTP Error 500: Internal Server Error
+RETRY j-c-wood-products HTTP Error 500: Internal Server Error
+ok   Iowa Custom Wood Company, LLC 
+ok   JC Biomedical - Medical Equipment Repair & Calibration 
+ok   Jeffries Manufacturing LLC 
+ok   JE Import Performance Inc 
+fetched p0078-raw.json 10 / 10
+ok   Interstate Power Systems 
+fetched p0079-raw.json 10 / 10
+ok   Industrial Fabrication 
+RETRY lee-s-foodservice-parts-repairs HTTP Error 503: Service Unavailable
+ok   Iron Works 
+ok   High Speed Interconnect LLC 
+ok   Hemeixin Electronics Co.,Ltd｜PCB Manufacturer 
+PAGE DONE p0061-profiles.json
+RETRY leonard-truck-outfitters HTTP Error 503: Service Unavailable
+RETRY leonard-truck-outfitters HTTP Error 503: Service Unavailable
+ok   Jason Lewis Furniture 
+ok   J Custom Supply, Inc.- CamLok Connectors 
+RETRY integrated-components-inc 'NoneType' object has no attribute 'group'
+ok   In Style USA 
+RETRY les-hall-filter-usa-formerly-oil-filter-service HTTP Error 503: Service Unavailable
+ok   Kelly Cable of N.M., Inc. 
+RETRY lester-electrical-nebraska-inc HTTP Error 503: Service Unavailable
+ok   Jagemann Precision Plastics 
+ok   Inva Tech Pharma 
+ok   J M Industries 
+ok   Karlin Foods Corporation. 
+RETRY life-science-outsourcing-inc HTTP Error 503: Service Unavailable
+ok   Jose's Sheet Metal LLC 
+ok   Jonathan A. Nussbaum - Furniture Maker 
+ok   KCM Cable and Manufacturing 
+ok   Jam Packaging 
+RETRY les-hall-filter-usa-formerly-oil-filter-service HTTP Error 503: Service Unavailable
+ok   Isoflex Packaging 
+ok   Legends Home 
+RETRY logo-work-gloves-llc HTTP Error 503: Service Unavailable
+ok   Jimdi Plastics Inc 
+PAGE DONE p0068-profiles.json
+ok   J M Mold South Inc 
+ok   Lamb Energy 
+ok   Keller Products 
+ok   KAM Plastics Corp 
+ok   ICA 
+ok   L & H Branding Irons 
+RETRY loyd-s-electric-supply-inc HTTP Error 503: Service Unavailable
+RETRY lyle-w-williams HTTP Error 503: Service Unavailable
+ok   Kansas City Treats 
+RETRY inglot-electronics Remote end closed connection without response
+ok   Kimco Design & Manufacturing 
+ok   Lange Brothers Woodwork Co., Inc. 
+ok   Hy-Ten Plastics Inc 
+PAGE DONE p0064-profiles.json
+ok   LWI Metal Works 
+ok   LSM Heating, Plumbing, Electric, Inc. 
+ok   Kapa Foods - Wholesale Food Supplier 
+ok   Kalsec 
+ok   Lauck Manufacturing 
+ok   KeyCare Medical 
+ok   Klockner Pentaplast 
+ok   Intermountain Wind & Solar 
+ok   J M Cooper 
+ok   Ironwood Plastics Inc. 
+ok   Kenyon's Grist Mill 
+ok   Lectron Industries 
+ok   Laser Cut Inc 
+ok   Limitorque Corporation 
+RETRY manufacturing-solutions-inc-msi HTTP Error 503: Service Unavailable
+ok   Kapital Electric, Inc. 
+ok   Lee's Foodservice Parts & Repairs 
+RETRY martin-steel-inc HTTP Error 503: Service Unavailable
+ok   Kodiak Assembly Solutions, LP 
+RETRY intertech-products-inc The read operation timed out
+ok   J & C Wood Products 
+PAGE DONE p0067-profiles.json
+ok   Lake Erie Frozen Foods Co 
+ok   LJ Design and Manufacturing 
+ok   Hoosier Woodworks 
+RETRY manufacturing-solutions-inc-msi HTTP Error 503: Service Unavailable
+ok   Kimmie Candy Company 
+ok   Jones Creek Apparel 
+RETRY mastercraft-hardwood-lumber-inc HTTP Error 503: Service Unavailable
+ok   Liberty Plastics Molding Corporation Inc. 
+RETRY mastercraft-hardwood-lumber-inc HTTP Error 503: Service Unavailable
+ok   Lester Electrical-Nebraska Inc 
+ok   Kerr Industries of Texas 
+PAGE DONE p0070-profiles.json
+ok   KG Sheet Metal Services, LLC 
+ok   Lomont Molding LLC 
+ok   M & P Auto Parts 
+ok   M&I Electric Industries 
+ok   L & L Electronics 
+PAGE DONE p0071-profiles.json
+RETRY mcelroy-electronics HTTP Error 503: Service Unavailable
+ok   Leading Edge Manufacturing, LLC 
+ok   Legere Group Ltd 
+ok   Log House Foods 
+ok   Maine Energy Experts 
+RETRY medical-device-manufacturing HTTP Error 503: Service Unavailable
+ok   Integrated Components Inc 
+ok   MAHLE Engine Components USA, Inc. 
+ok   Les Hall Filter USA (Formerly Oil Filter Service) 
+RETRY metal-masters-inc HTTP Error 503: Service Unavailable
+ok   Jones-McLeod 
+PAGE DONE p0069-profiles.json
+RETRY holley-steel-inc 'NoneType' object has no attribute 'group'
+ok   Leonard Truck Outfitters 
+ok   Lyle W Williams 
+ok   Marchel Industries 
+RETRY michael-foods-inc HTTP Error 503: Service Unavailable
+ok   MBS Custom Woodworking Corp. 
+ok   Madison County Metalwork 
+ok   Intertech Products, Inc. 
+PAGE DONE p0066-profiles.json
+ok   Live Wire Solar 
+ok   Maine Commercial Solar 
+ok   Louisiana Plastic Converting 
+ok   Inglot Electronics 
+PAGE DONE p0065-profiles.json
+ok   Life Scientific, Inc. 
+ok   Martin's Steel LLC. 
+ok   Maine Technology Group 
+RETRY matz-equipment-automotive-lifts-parts-accessories HTTP Error 500: Internal Server Error
+RETRY meyers-auto-inc HTTP Error 500: Internal Server Error
+RETRY mark-downs-office-furniture HTTP Error 500: Internal Server Error
+RETRY mps-plastics-inc HTTP Error 500: Internal Server Error
+ok   Massachusetts Bay Technologies 
+ok   Martin Bamberger Co 
+ok   M-C Fabrication Inc 
+RETRY mark-downs-office-furniture HTTP Error 503: Service Unavailable
+ok   Mammoth Manufacturing 
+RETRY horizon-sheet-metal-inc The read operation timed out
+ok   Manufacture Good 
+ok   Life Science Outsourcing, Inc. 
+ok   Martin Steel Inc. 
+ok   Low Country Case & Millwork 
+ok   Loyal Stricklin 
+ok   Master Sheet Metal Inc 
+ok   Logo Work Gloves LLC 
+ok   MV Circuit Breakers 
+RETRY microtek-cables HTTP Error 500: Internal Server Error
+ok   MTM Molded Products 
+ok   Magic Valley Equipment 
+ok   Little Rock Truck Parts 
+ok   Mastercraft Hardwood Lumber Inc 
+ok   Mainca Usa Inc. 
+ok   Maysteel Industries, LLC 
+ok   Maui Auto Parts 
+ok   Matix Corporation 
+ok   Martin's Equipment 
+ok   MESI 
+RETRY mass-renewables Expecting ',' delimiter: line 45 column 4 (char 3306)
+ok   McDonald Plastic Molding, Inc. 
+RETRY liberty-steel-wire-products-peoria 'NoneType' object has no attribute 'group'
+ok   M & S Fabricators 
+ok   Michigan Precision Fabricators 
+ok   Michigan Chair Company 
+RETRY leonard-metal-fabricators-inc The read operation timed out
+ok   Micro Control Company 
+ok   Metal City Fab 
+ok   Mather Process Solutions 
+ok   Mid-Florida Plastics Inc 
+RETRY mectronx-corp 'NoneType' object has no attribute 'group'
+ok   Meyers Auto Inc 
+ok   Messer Truck and Van Maine, Messer Truck Equipment 
+ok   Mid-Atlantic Plastics 
+ok   Meta Fab, Inc. 
+ok   MetalPride Inc. 
+ok   Horizon Sheet Metal Inc 
+PAGE DONE p0063-profiles.json
+ok   Mark Downs Office Furniture 
+ok   Metal Solutions, LLC. 
+ok   Medical Murray 
+ok   Manufacturing Solutions, Inc. (MSI) 
+RETRY maxzone-auto-parts 'NoneType' object has no attribute 'group'
+ok   McElroy Electronics 
+RETRY loyd-s-electric-supply-inc The read operation timed out
+ok   Matz Equipment - Automotive Lifts Parts & Accessories 
+ok   MPS Plastics Inc 
+PAGE DONE p0075-profiles.json
+ok   Metro Assemblies, Inc 
+ok   Med Associates 
+ok   Liberty Steel Wire Products Peoria 
+PAGE DONE p0073-profiles.json
+ok   MicroTek-Cables 
+RETRY holley-steel-inc 'NoneType' object has no attribute 'group'
+ok   Leonard Metal Fabricators Inc 
+PAGE DONE p0072-profiles.json
+ok   Mass Renewables 
+PAGE DONE p0076-profiles.json
+ok   Loyd's Electric Supply, Inc. 
+PAGE DONE p0074-profiles.json
+ok   Medical Device Manufacturing 
+RETRY mectronx-corp Expecting ',' delimiter: line 81 column 4 (char 4273)
+ok   Michael Foods Inc 
+PAGE DONE p0079-profiles.json
+RETRY metal-masters-inc The read operation timed out
+RETRY maxzone-auto-parts 'NoneType' object has no attribute 'group'
+ok   Holley Steel Inc 
+PAGE DONE p0062-profiles.json
+ok   Mectronx Corp 
+ok   Maxzone Auto Parts 
+PAGE DONE p0077-profiles.json
+ok   Metal Masters Inc. 
+PAGE DONE p0078-profiles.json
+ALL-DONE errors 0 of 200
+collected 199
+h-h-classic-parts | wording/address
+hbi-textiles-manufacturing | wording/address
+hana-technologies | nums ['1.1']
+hickory-furniture | nums ['19']
+high-ground-electric | nums ['24']
+high-speed-interconnect-llc | certs ['ISO 9001:2015']
+horizon-sheet-metal-inc | wording/address
+house-of-brands-inc | wording/address
+ica | nums ['350,000']
+imperium-cable | nums ['2.4']
+in-style-usa | wording/address
+innovative-electronics-corporation | nums ['1,000', '10']
+integrated-plastics-machinery | wording/address
+intek-plastics | certs ['AS9100D']
+j-custom-supply-inc-camlok-connectors | nums ['15']
+jones-creek-apparel | wording/address
+jones-mcleod | nums ['100']
+jose-s-sheet-metal-llc | wording/address
+kam-plastics-corp | wording/address
+keller-products | wording/address
+lsm-heating-plumbing-electric-inc | wording/address
+lake-erie-frozen-foods-co | certs ['USDA inspection']
+lamb-energy | certs ['California Contractor License #720647']
+laser-cut-inc | wording/address
+leading-edge-manufacturing-llc | wording/address
+les-hall-filter-usa-formerly-oil-filter-service | nums ['1.5']
+liberty-plastics-molding-corporation-inc | nums ['1,000,000']
+life-scientific-inc | wording/address
+mps-plastics-inc | nums ['25,000']
+mtm-molded-products | wording/address
+mainca-usa-inc | wording/address
+maine-energy-experts | wording/address
+maine-technology-group | wording/address
+marchel-industries | wording/address
+martin-steel-inc | nums ['70']
+mather-process-solutions | wording/address
+maxzone-auto-parts | nums ['720,000']
+metalpride-inc | wording/address
+michigan-chair-company | nums ['1920']
+micro-control-company | wording/address
+mid-florida-plastics-inc | wording/address
+collected 199
+done h-h-custom-metal-fabricating 2 
+done h-h-classic-parts 0 
+done h-r-steel-supplies-and-fabrication 0 
+done hbi-textiles-manufacturing 1 
+done hk-textile-inc 2 
+done horizon-cable-service-hobbs-nw 1 
+done hpc-medx 1 
+done hrs-sheet-metal 0 
+done hti-plastics 0 
+done hall-s-garage 0 
+done hana-technologies 3 
+done hansen-international-inc 4 
+done hardy-lawn-furniture 0 
+done harvest-market 0 
+done hawaii-solar-outfitters 0 
+done hawaii-spring-supply-inc 2 
+done hayden-valley-foods 0 
+done headwaters-woodworking 3 
+done heintz-steel-manufacturing-company 1 
+done hemeixin-electronics-co-ltd-pcb-manufacturer 0 
+done hercules-sheet-metal-metal-buildings 2 
+done hickory-furniture 0 
+done high-country-metal-works 1 
+done high-ground-electric 0 
+done high-peak-fabrication 1 
+done high-speed-interconnect-llc 1 
+done hitachi-computer-products-america 3 
+done holley-steel-inc 0 
+done hologic 3 
+done hoosier-solar 0 wrong
+done hoosier-woodworks 0 
+done horizon-sheet-metal-inc 1 
+done hornwood-inc 0 
+done hoskinds-hardwoods 0 
+RETRY house-of-brands-inc expected string or bytes-like object, got 'NoneType'
+done house-of-brands-inc 0 
+done house-of-breakers 2 
+done house-of-timber 0 
+done houston-wire-cable 6 
+done hudson-bros-trailer-mfg-inc 4 
+done hudson-scientific-llc 0 
+done hurley-metal-fabrication-mfg 0 
+done hwy-83-manufacturing 3 
+done hy-ten-plastics-inc 0 
+done ica 1 
+done idaho-hat-company 1 
+done illinois-components 2 
+done imperium-cable 0 
+done in-style-usa 0 
+done incipio-devices 0 
+done indiana-wire-assemblies 1 
+done indianapolis-wire-terminal 2 
+done industrial-electronics-inc 1 
+done industrial-fabrication 0 
+done industrial-wire-cable-corporation 0 
+done inglot-electronics 0 
+done innosys-inc 0 
+done innovative-electronics-corporation 0 
+done innovative-radiology 0 
+done instrument-control-company 2 
+RETRY integrated-components-inc expected string or bytes-like object, got 'NoneType'
+done integrated-components-inc 0 
+done integrated-plastics-machinery 3 
+done integrity-equipment-solutions 6 
+done integrity-tennessee 0 
+done intek-plastics 1 
+done interior-wood-products-llc 1 
+done intermountain-wind-solar 0 
+done international-coil-inc 1 
+done interstate-power-systems 0 
+done intertech-products-inc 1 
+done inva-tech-pharma 0 
+done iowa-custom-wood-company-llc 2 
+done iron-works 1 
+done ironwood-plastics-inc 0 
+done isoflex-packaging 1 
+done j-c-wood-products 1 
+done j-custom-supply-inc-camlok-connectors 1 
+done j-m-cooper 2 
+done j-m-industries 1 
+done j-m-mold-south-inc 1 
+done jc-biomedical-medical-equipment-repair-calibration 0 
+done je-import-performance-inc 0 
+done jk-woodworking 4 
+done jw-electrical-supply 2 
+done jagemann-precision-plastics 0 
+done jam-packaging 1 
+done jason-lewis-furniture 1 
+done jeffries-manufacturing-llc 0 
+done jimdi-plastics-inc 1 
+done jonathan-a-nussbaum-furniture-maker 1 
+RETRY jones-creek-apparel expected string or bytes-like object, got 'NoneType'
+done jones-creek-apparel 0 
+done jones-mcleod 1 
+done jose-s-sheet-metal-llc 1 
+done kam-plastics-corp 1 
+done kcm-cable-and-manufacturing 2 
+done kg-sheet-metal-services-llc 0 
+done kalsec 0 
+done kansas-city-treats 1 
+done kapa-foods-wholesale-food-supplier 0 
+done kapital-electric-inc 0 
+done karlin-foods-corporation 1 
+done keller-products 0 
+done kelly-cable-of-n-m-inc 0 
+done kenyon-s-grist-mill 0 
+done kerr-industries-of-texas 0 
+done keycare-medical 0 
+done kimco-design-manufacturing 0 
+done kimmie-candy-company 2 
+done klockner-pentaplast 0 
+done kodiak-assembly-solutions-lp 0 
+done l-h-branding-irons 2 
+done l-l-electronics 0 
+done lj-design-and-manufacturing 0 
+done lsm-heating-plumbing-electric-inc 0 
+done lwi-metal-works 0 
+done lake-erie-frozen-foods-co 0 
+done lamb-energy 0 
+done lange-brothers-woodwork-co-inc 0 
+done laser-cut-inc 1 
+done lauck-manufacturing 1 
+done leading-edge-manufacturing-llc 2 
+done lectron-industries 0 
+done lee-s-foodservice-parts-repairs 1 
+done legends-home 3 
+done legere-group-ltd 0 
+done leonard-metal-fabricators-inc 2 
+done leonard-truck-outfitters 1 
+done les-hall-filter-usa-formerly-oil-filter-service 1 
+done lester-electrical-nebraska-inc 0 
+done liberty-plastics-molding-corporation-inc 0 
+done liberty-steel-wire-products-peoria 0 
+done life-science-outsourcing-inc 0 
+done life-scientific-inc 0 
+done limitorque-corporation 0 
+done little-rock-truck-parts 0 
+done live-wire-solar 2 
+done log-house-foods 0 
+done logo-work-gloves-llc 1 
+done lomont-molding-llc 1 
+done louisiana-plastic-converting 0 
+done low-country-case-millwork 0 
+done loyal-stricklin 1 
+done loyd-s-electric-supply-inc 4 
+done lyle-w-williams 0 
+done m-p-auto-parts 1 
+done m-s-fabricators 0 
+done m-i-electric-industries 0 
+done m-c-fabrication-inc 1 
+done mahle-engine-components-usa-inc 0 
+done mbs-custom-woodworking-corp 0 
+done mesi 1 
+done mps-plastics-inc 1 
+done mtm-molded-products 0 
+done mv-circuit-breakers 1 
+done madison-county-metalwork 1 
+done magic-valley-equipment 1 
+done mainca-usa-inc 1 
+done maine-commercial-solar 1 
+RETRY maine-energy-experts expected string or bytes-like object, got 'NoneType'
+done maine-energy-experts 2 
+done maine-technology-group 2 
+done mammoth-manufacturing 1 
+done manufacture-good 1 
+done manufacturing-solutions-inc-msi 0 
+done marchel-industries 0 
+done mark-downs-office-furniture 2 
+done martin-bamberger-co 2 
+done martin-steel-inc 2 
+done martin-s-equipment 1 
+done martin-s-steel-llc 0 
+done mass-renewables 0 
+done massachusetts-bay-technologies 1 
+done master-sheet-metal-inc 0 
+done mastercraft-hardwood-lumber-inc 0 
+done mather-process-solutions 2 
+done matix-corporation 0 
+done matz-equipment-automotive-lifts-parts-accessories 0 
+done maui-auto-parts 1 
+done maxzone-auto-parts 1 
+done maysteel-industries-llc 1 
+done mcdonald-plastic-molding-inc 0 
+done mcelroy-electronics 1 
+done mectronx-corp 0 
+done med-associates 2 
+done medical-device-manufacturing 1 
+done medical-murray 0 
+done messer-truck-and-van-maine-messer-truck-equipment 3 
+done meta-fab-inc 1 
+done metal-city-fab 0 
+done metal-masters-inc 0 
+done metal-solutions-llc 0 
+done metalpride-inc 0 
+done metro-assemblies-inc 0 
+done meyers-auto-inc 3 
+done michael-foods-inc 0 
+done michigan-chair-company 0 
+done michigan-precision-fabricators 0 
+done micro-control-company 0 
+done microtek-cables 0 
+done mid-atlantic-plastics 0 
+done mid-florida-plastics-inc 2 
+ALL-DONE errors 0
+clean 196 | sentences removed 142 | needs review 3 | check errors 0
+REVIEW hoosier-solar Source description refers to Advantage Capital, not Hoosier Solar.
+REVIEW houston-wire-cable too short after fact-check (59 words)
+REVIEW integrity-equipment-solutions too short after fact-check (76 words)
+sql parts 3 stories 196

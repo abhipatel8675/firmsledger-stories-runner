@@ -95,7 +95,6 @@ The company states its mission is to be the most quality-attractive dietary supp
 - State-of-the-art packaging lines
 
 ## Certifications
-- cGMP (21 CFR Part 111)
 - CGMP
 
 ## Company details
@@ -134,7 +133,7 @@ Founded in 1984 as a wholly owned subsidiary of Tama Chemicals, Moses Lake Indus
 
 MLI develops and manufactures ultra-high-purity chemistries for the semiconductor industry, offering a portfolio that has grown to over 1,000 products. Its capabilities span advanced packaging, IC substrate, Damascene, TMAH, and analytical reagent formulations. The company provides localized manufacturing, technical support, R&D services, and distribution through multiple plants worldwide. In-house raw material synthesis, proprietary manufacturing systems designed and managed by internal experts, real-time analytical monitoring, and strict packaging and shipping controls underpin its production process.
 
-The company serves semiconductor manufacturers and advanced technology firms, collaborating closely with leading chip makers to develop next-generation solutions. Its customer base includes global semiconductor fabs requiring high-performance chemical solutions for cutting-edge device production.
+The company serves semiconductor manufacturers and advanced technology firms, collaborating closely with chip makers to develop next-generation solutions. Its customer base includes global semiconductor fabs requiring high-performance chemical solutions for cutting-edge device production.
 
 MLI differentiates itself through a quality operating system built on Failure Mode and Effects Analysis (FMEA), in-house raw material production, and a Certificate of Analysis provided with every shipment. The founder's original vision—to create a lasting enterprise invested in people, community, and environment—continues to drive its focus on innovative, operational, and financial excellence.
 
@@ -247,7 +246,6 @@ The company emphasizes transformative relationships, integrity, and innovative p
 ## Certifications
 - HACCP
 - SQF
-- FDA registered
 
 ## Company details
 - **Company Type:** Food co-packing and contract manufacturing
@@ -284,7 +282,7 @@ The company emphasizes transformative relationships, integrity, and innovative p
 ## About
 MSI Mold Builders was founded in 1971 by Ed and CharLes Klouda in Swisher, Iowa, as a family-owned mold building and servicing operation. The company relocated to a 35,000-square-foot headquarters in Cedar Rapids in 1990 and added a 20,000-square-foot facility in Greenville, South Carolina, in 2001. A 12,000-square-foot expansion in Cedar Rapids followed in 2015. Now in its third generation, the business is led by CEO Roger Klouda and President Kyle Klouda.
 
-The company designs and builds steel and aluminum injection molds for processes including structural foam, reaction injection molding (RIM), blow molding, gas assist, and structural web, as well as aluminum tooling for limited production. MSI specializes in large-tonnage molds weighing up to 150,000 pounds, supported by two U.S. facilities totaling over 67,000 square feet. Since 1971, the firm has delivered thousands of molds across a range of sizes and complexities, offering end-to-end services from design and engineering through in-house sampling, repair, and preventative maintenance.
+The company designs and builds steel and aluminum injection molds for processes including structural foam, reaction injection molding (RIM), blow molding, gas assist, and structural web, as well as aluminum tooling for limited production. MSI specializes in large-tonnage molds weighing up to 150,000 pounds, supported by two U.S. Since 1971, the firm has delivered thousands of molds across a range of sizes and complexities, offering end-to-end services from design and engineering through in-house sampling, repair, and preventative maintenance.
 
 MSI serves OEMs and suppliers in automotive, power sports, agriculture, lawn and garden, medical equipment, heavy truck, material handling, recreational vehicles, construction, office furniture, solar, energy distribution, infrastructure, data centers, and appliance industries. Notable projects include tooling for the AxSYM medical program and reusable pallets for the solar industry.
 
@@ -462,7 +460,7 @@ Neaton Auto Products Manufacturing was founded in 1984 in Eaton, Ohio, as a whol
 
 The company designs and manufactures steering wheels, airbag modules, decorative interior trim, exterior components, resin parts, leather-wrapped steering wheels, and magnesium components. Its manufacturing processes include injection molding, blow molding, painting, welding, assembly, wrapping, sewing, and reaction injection molding (RIM). The primary Eaton campus spans over 565,000 square feet of production space, with additional U.S. facilities in Marysville, Ohio (sales and technical support) and Rome, Georgia (painting, assembly, and cockpit trim). Operations extend to multiple sites in Mexico and a network of Nihon Plast plants in China, Vietnam, Thailand, and Indonesia. North American sales exceeded $300 million in 2023.
 
-Neaton serves the automotive industry, specifically major OEMs requiring safety systems such as airbag modules and steering wheels, as well as interior and exterior trim components. Its customer base includes leading automakers across North America, supported by deep integration with OEM platforms and end-to-end product development from tooling to final assembly.
+Neaton serves the automotive industry, specifically major OEMs requiring safety systems such as airbag modules and steering wheels, as well as interior and exterior trim components. Its customer base includes automakers across North America, supported by deep integration with OEM platforms and end-to-end product development from tooling to final assembly.
 
 The company emphasizes decades of technical expertise in safety systems, decorative trim, and blow-molded parts, along with on-site design support and IATF 16949-certified quality systems. President Takeshi (Casey) Toyota states the business is built by and for its associates, aiming to bring smiles to employees, customers, and communities.
 

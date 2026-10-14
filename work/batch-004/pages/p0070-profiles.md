@@ -1,0 +1,709 @@
+# Karlin Foods Corporation.
+
+**Old description:** Karlin Foods produces Store Brands – and through our premier Chef Karlin line, packer label items in over 50 categories. We’re proud to point to our national clients – they count on us for the safest, highest quality, most delicious food products – for the world class service and unmatched value we bring to the Store Brand world.
+
+## About
+Karlin Foods Corporation was founded in 1977 in Northfield, Illinois, as a family-owned business with roots in macaroni and dry soup mixes. The company remains family-owned and operates from its headquarters in Northfield, a northern suburb of Chicago.
+
+The company manufactures private label and control brand food products across more than 50 categories, including potato and rice side dishes, skillet dinners, dips, dressings, soups, pasta sides, sauces, stuffing mixes, baking needs, gravies, seasonings, bread crumbs and coatings, premium items, and goat milk products. A 320,000-square-foot distribution center in Ashton, Illinois, equipped with 17 dock doors, handles over 50 truck shipments daily, supporting nationwide distribution from a centralized Midwest location.
+
+Karlin Foods serves national retail and grocery customers seeking store brand and packer label products. Its client base includes major retailers and food service operators that rely on the company for private label manufacturing, product development, and logistics.
+
+The company emphasizes its family-owned heritage, in-house product development capabilities, and a combination of quality, service, and value as key differentiators. Its founding principle of building trust through consistent delivery underpins its long-term relationships with store brand buyers.
+
+## Known for
+- Family-owned since 1977
+- Over 50 private label product categories
+- 320,000 sq ft distribution center with 17 dock doors
+- Over 50 daily truck shipments from centralized Midwest location
+- In-house product development for new and specialty items
+
+## Capabilities
+- Private label food manufacturing
+- Product development
+- Co-packing
+- Dry mix production
+- Sauce and dressing manufacturing
+- Packaging
+- Warehousing and distribution
+- Bread crumb and coating production
+- Goat milk product manufacturing
+- Potato side dish manufacturing
+- Rice side dish manufacturing
+- Skillet dinner manufacturing
+- Dip and dressing manufacturing
+- Soup manufacturing
+- Pasta side dish manufacturing
+- Stuffing mix manufacturing
+- Baking mix manufacturing
+- Gravy and seasoning manufacturing
+- Premium item manufacturing
+
+## Industries
+- Private label food manufacturing
+- Store brand food manufacturing
+- Food and beverage manufacturing
+- Grocery retail
+- Food service
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 1977
+- **Ownership:** Family-owned
+- **Headquarters:** Northfield, Illinois
+
+<details><summary>Sources</summary>
+
+- Founded in 1977 -> db
+- Headquartered in Northfield, IL -> /about
+- Family-owned company -> /
+- Produces private label and control brand items in over 50 categories -> /about
+- Distribution center in Ashton, IL, 320,000 sq ft, 17 dock doors, 50+ truck shipments daily -> /about
+- Product development team creates new and specialty items -> /
+- Roots in macaroni & dry soup mixes -> /about
+- Product categories: potato side dishes, rice side dishes, skillet dinners, dips, dressings, soups, pasta side dishes, sauces, stuffing mixes, baking needs, gravies, seasonings, bread crumbs, coatings, premium items, goat milk products -> /
+</details>
+
+---
+
+# Keller Products
+
+**Old description:** For more than eight decades, Keller Products has been the trusted American manufacturer of precision crafted plywood cylinder components and cylinder based furniture. With millions of cylinders produced for leading OEMs across office/retail furniture, hospitality, retail fixtures, millwork, and architectural design, Keller is the undisputed industry expert in this specialized craft. We make designing ‘round’ products easy!
+
+## About
+Keller Products was founded in 1946 by Robert R. Keller Sr. in Manchester, New Hampshire, where the company still operates its original Union Street facility. The business began producing defense-grade laminations for World War II before expanding into commercial furniture components, early snowboards, and eventually wooden drum shells. Today the company is headquartered in Bow, New Hampshire, and remains privately held and family-run under third-generation leadership.
+
+The company specializes in precision-crafted plywood cylinder components and cylinder-based furniture, and is recognized as the world's largest OEM producer of wooden drum shells. Its capabilities include molded plywood forming, patented VSS™ technology, and sanding as a standard step. With more than 600 employees across multiple divisions, Keller Products delivers millions of cylinders annually and supports projects from prototype through high-volume production.
+
+Keller serves OEMs in office and retail furniture, hospitality, retail fixtures, millwork, and architectural design, as well as the percussion industry for drum shells. Its customer base includes furniture manufacturers and musical instrument brands that require consistent, scalable wood cylinder production.
+
+The company emphasizes its patented VSS™ technology, family-owned stability, and a policy of including sanding at no extra charge. It positions itself as a single-source partner for prototype-to-production support, leveraging decades of experience in wood lamination and cylinder forming.
+
+## Known for
+- Largest OEM producer of wooden drum shells globally
+- Patented VSS™ technology for cylinder forming
+- Sanding included as standard, not an add-on
+- Prototype-to-production support across all volumes
+- Third-generation family ownership
+
+## Capabilities
+- Molded plywood cylinder manufacturing
+- Wood drum shell production
+- VSS™ technology
+- Sanding (standard)
+- Prototype to production support
+- Custom wood component manufacturing
+- Precision plywood lamination
+- Cylinder forming
+
+## Industries
+- Office furniture
+- Retail furniture
+- Hospitality
+- Retail fixtures
+- Millwork
+- Architectural design
+- Percussion instruments (drum shells)
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1946
+- **Employees:** 600+
+- **Ownership:** Family-owned
+- **Headquarters:** Bow, New Hampshire
+
+<details><summary>Sources</summary>
+
+- Founded 1946 by Robert R. Keller Sr. in Manchester, NH -> /about
+- Headquartered in Bow, NH -> db
+- Family-owned, third-generation leadership -> /about
+- 600+ employees across multiple divisions -> /about
+- Produces plywood cylinder components and cylinder-based furniture -> db
+- World's largest OEM producer of wooden drum shells -> /about
+- Patented VSS™ technology -> /about
+- Sanding included as standard -> db
+- Prototype to production support -> db
+- Serves office/retail furniture, hospitality, retail fixtures, millwork, architectural design -> db
+- Serves percussion/drum industry -> /about
+- Millions of cylinders produced annually -> db
+</details>
+
+---
+
+# Kelly Cable of N.M., Inc.
+
+**Old description:** Founded in 1988, Kelly Cable is headquartered in Albuquerque, New Mexico and has been serving the telecommunications and utility industry in New Mexico for decades. Kelly Cable has customers located across all major New Mexico markets, with additional key locations including Santa Fe, Roswell, Las Cruces, Las Vegas and Farmington.
+
+## About
+Kelly Cable of N.M., Inc. was founded in 1988 and is headquartered in Albuquerque, New Mexico. In 2017 the company became a subsidiary of Peak Utility Services Group, a national infrastructure solutions provider that supports six operating companies across the United States. The business began as a local utility contractor serving the telecommunications and utility sectors in New Mexico.
+
+The company delivers end‑to‑end utility infrastructure services, including broadband distribution and transmission (5G cellular towers, copper and fiber networks), engineering, procurement and construction (EPC), hydro excavation using water‑pressure and vacuum technology, and a range of specialty services such as horizontal directional drilling, cathodic protection and leak surveys. It also operates a 24/7 on‑call emergency response team. With approximately 179 employees, Kelly Cable serves major New Mexico markets including Albuquerque, Santa Fe, Roswell, Las Cruces, Las Vegas and Farmington.
+
+Primary customers are telecommunications carriers, electric and gas utilities, oil‑and‑gas operators and broadband providers throughout New Mexico. The company works on projects ranging from urban fiber deployments to rural utility upgrades, often acting as a prime contractor for large‑scale infrastructure builds.
+
+Kelly Cable emphasizes a safety‑first culture backed by continuous training, certifications and audits. Its differentiation rests on combining local knowledge and rapid emergency response with the resources and vendor relationships of a national parent company, enabling it to manage complex projects from concept through construction.
+
+## Known for
+- 24/7 On-Call Emergency Service
+- Hydro excavation using water pressure and vacuum technology
+- End-to-end Engineering, Procurement & Construction (EPC) capabilities
+- Safety-focused culture with ongoing training and audits
+- Local presence across New Mexico with national resources through Peak Utility Services Group
+
+## Capabilities
+- Broadband distribution and transmission (5G, copper, fiber)
+- Engineering, Procurement & Construction (EPC)
+- Hydro excavation
+- Horizontal directional drilling
+- Cathodic protection
+- Leak surveys
+- 24/7 emergency response
+- Utility construction
+
+## Industries
+- Telecommunications
+- Utility
+- Oil and gas
+- Energy
+- Broadband
+
+## Company details
+- **Company Type:** Installer / service company
+- **Founded:** 1988
+- **Employees:** 179
+- **Ownership:** Subsidiary of Peak Utility Services Group
+- **Headquarters:** Albuquerque, New Mexico
+
+<details><summary>Sources</summary>
+
+- Founded 1988 -> db
+- Headquarters Albuquerque, NM -> db
+- Employee count 179 -> db
+- Subsidiary of Peak Utility Services Group since 2017 -> /
+- Services: broadband, EPC, hydro excavation, specialty, 24/7 emergency -> /capabilities
+- Industries: telecommunications, utility, oil, energy, broadband -> /
+- Safety culture with training and audits -> /
+- 179 employees -> db
+</details>
+
+---
+
+# Kenyon's Grist Mill
+
+**Old description:** Since 2009, we have been offering full-service kayak rentals by the mill on the Queen's River, Wood River, and Pawcatuck River.  Queen's River Kayak Company operates from late April to October (sometomes September can be difficult, as we are at the Big E).  To make a reservation, or to get more information, click
+
+## About
+Kenyon's Grist Mill operates in West Kingston, Rhode Island. The current limited-liability company was formed in 2009, though the milling business traces its roots to 1696, making it the oldest continuously operating manufacturer in the state. Paul Drumm Jr. acquired the mill in 1971, and his son, Paul Drumm III, now owns the operation.
+
+The mill still uses its 1886 vintage grist mill fitted with original granite millstones quarried in Westerly, Rhode Island. The single-pass stone-grinding process produces corn and grain meals, flours, and mixes—most notably Johnny Cake Meal and Clam Cake Mix—without additives, preservatives, or pesticides. Beyond food production, the company runs Queen's River Kayak Company, offering seasonal rentals on the Queen's, Wood, and Pawcatuck Rivers, and hosts weddings, corporate events, and educational tours at the historic site. It also serves as the national distributor for Lightfoot's Pine Soap.
+
+Products reach health-conscious consumers through local Rhode Island markets, gourmet and specialty shops, and wholesale channels that supply country clubs and hotels. Kayak rentals and guided tours attract tourists and outdoor-recreation groups, while the event venue serves wedding parties and corporate teams. The mill's FDA and Rhode Island Department of Health inspections allow nationwide shipping.
+
+The Drumm family emphasizes preserving Rhode Island's culinary heritage and the nutritional integrity of stone-ground grains. They source non-GMO seed from farmers who avoid pesticides, and they highlight the honesty and dependability that have kept customers returning for generations.
+
+## Known for
+- Oldest continuously operating manufacturer in Rhode Island (since 1696)
+- Genuine single-pass stone grinding on 1886 vintage mill with original Westerly granite millstones
+- No additives, preservatives, or pesticides; non-GMO grains sourced from local farmers
+- Inspected by Rhode Island Department of Health and FDA for nationwide distribution
+- Offers kayak rentals, historic tours, and event hosting at the mill site
+
+## Capabilities
+- Stone grinding
+- Grain milling
+- Food product manufacturing
+- Kayak rental
+- Event hosting
+- Guided historical tours
+- Wholesale distribution
+- Retail sales
+- Online sales
+- Soap distribution
+
+## Industries
+- Food and beverage manufacturing
+- Specialty food retail
+- Hospitality
+- Tourism
+- Event services
+- Outdoor recreation
+- Wholesale trade
+
+## Equipment
+- 1886 grist mill
+- Original granite millstones (Westerly, RI)
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 2009 (business dates to 1696)
+- **Ownership:** Family-owned (Paul Drumm family)
+- **Headquarters:** West Kingston, Rhode Island
+
+<details><summary>Sources</summary>
+
+- Founded 2009 -> db
+- Business dates to 1696 -> /
+- Located in West Kingston, RI -> db
+- Paul Drumm Jr. purchased in 1971 -> /
+- Current owner Paul Drumm III -> /
+- Uses 1886 grist mill with original granite millstones -> /
+- Produces Johnny Cake Meal, Clam Cake Mix, pancake mixes, etc. -> /
+- Offers kayak rentals on Queen's River, Wood River, Pawcatuck River -> db, /
+- Hosts weddings, private/corporate events, team building, educational tours -> /
+- Distributes Lightfoot's Pine Soap -> /
+- Inspected by RI Dept of Health and FDA -> /
+- Sources non-GMO grains, no pesticides, no additives/preservatives -> /
+- Ships nationwide -> /
+- Featured on Martha Stewart, Food Finds, Travel Channel -> /
+</details>
+
+---
+
+# Kerr Industries of Texas
+
+**Old description:** Since 1952, we’ve built our organization on creativity, common sense and putting customers’ needs first. Modern vehicles have come a long way since those early days, but we’ve never backed away from these principals. They form the core of everything we do.
+
+## About
+Kerr Industries of Texas was founded in 1952 in Grand Prairie, Texas. The company began with a focus on creativity, common sense, and putting customers' needs first, principles that continue to guide its operations.
+
+The company specializes in upfitting emergency and commercial vehicles, providing integration engineering, prisoner containment systems, push bars, K-9 transport, ballistic protection, auxiliary battery systems, and repainting services. As a Tier 1 supplier, Kerr maintains production quality and quality systems equivalent to OEM standards. The firm has upfitted hundreds of thousands of emergency vehicles, offering turn-key solutions for single units and large fleets while maintaining FMVSS/CMVSS compliance and preserving original factory warranties. Its technicians are EVT certified, and the company also operates as a retail and wholesale distributor of automotive parts, installing custom equipment packages at its facilities.
+
+Kerr serves law enforcement, emergency services, fire services, and commercial vehicle fleets. Its customers include front-line officers and agencies requiring reliable, ready-for-patrol vehicles. The company provides vehicle-specific option guides and engineering support to ensure equipment integration meets operational needs.
+
+Kerr differentiates itself through its Integration Engineering methodology, which bridges aftermarket equipment manufacturers and automotive OEMs. The company emphasizes quick turnaround, cost-effective solutions without compromising quality, and technical support throughout the vehicle lifecycle. Its READY FOR PATROL packages are designed to ensure all specified equipment works properly in new or existing vehicles.
+
+## Known for
+- Quick turnaround on single vehicles and large fleets
+- FMVSS/CMVSS compliance maintained on every upfit
+- OE factory warranty preserved
+- EVT certified installation technicians
+- Integration Engineering methodology bridging aftermarket and OEM
+
+## Capabilities
+- Integration Engineering
+- Prisoner Containment
+- Push-Bar Installation
+- K9 Products
+- Ballistic Protection
+- Turn-Key Vehicle Solutions
+- Auxiliary Battery System Installation
+- Repainting Services
+- Automotive Parts Distribution
+- Custom Equipment Package Design
+- FMVSS/CMVSS Compliance Verification
+- EVT Certified Upfitting
+- Technical Support
+- Vehicle Specific Option Guides
+
+## Industries
+- Law Enforcement
+- Emergency Services
+- Fire Services
+- Commercial Vehicles
+
+## Certifications
+- EVT certified
+- FMVSS/CMVSS compliance
+
+## Company details
+- **Company Type:** Installer / service company
+- **Founded:** 1952
+- **Headquarters:** Grand Prairie, Texas
+
+<details><summary>Sources</summary>
+
+- Founded in 1952 -> db
+- Headquarters in Grand Prairie, Texas -> db
+- Industries served: Law Enforcement, Emergency Services, Fire Services, Commercial Vehicles -> db
+- Capabilities: Integration Engineering, Prisoner Containment, Push-Bars, K9 Products, Ballistic Protection, Turn-Key Vehicle Solutions, Auxiliary Battery System, K-9 Transport, Repainting Services -> db
+- Upfitted hundreds of thousands of emergency vehicles -> page /
+- EVT certified technicians -> page /
+- FMVSS/CMVSS compliance maintained -> page /
+- Integration Engineering methodology -> page /
+- READY FOR PATROL packages -> page /
+- Tier 1 supplier with OEM-equivalent quality systems -> page /
+- Retail and wholesale distributor of automotive parts -> page /
+- Installation of custom equipment packages -> page /
+- Vehicle specific option guides and engineering support -> page /
+</details>
+
+---
+
+# KeyCare Medical
+
+**Old description:** More than 100 years ago citizens from across northwest North Dakota gathered to form an alliance that would result in a new regional hospital dedicated to bringing modern-day healthcare services to a mostly rural region. Trinity Health is a nonprofit, integrated healthcare system serving northwest/central North Dakota and Eastern Montana. With a tertiary care hospital in Minot, more than 40 specialties, several rural health clinics, and a long-term care facility, Trinity provides a full complement of healthcare services to the region. Since 1922, we've been committed to looking ahead and improving ourselves in ways that provide the best, most compassionate care possible for our patients, families, and communities.
+
+## About
+KeyCare Medical operates as the home medical equipment division of Trinity Health, a nonprofit integrated healthcare system founded in 1922 by citizens of northwest North Dakota to establish a regional hospital in Minot. Based in Minot, North Dakota, KeyCare Medical serves the surrounding rural region and eastern Montana from two locations: 530 20th Ave SW and the Trinity Medical Office Building at 2305 37th Ave SW, Suite 103.
+
+The division provides home medical equipment through rental, cash sales, and insurance navigation, supported by a clinical team that includes respiratory therapists, a certified orthotist, orthotic fitters, a certified prosthetist, certified mastectomy fitters, and licensed practical nurses. Services span bathroom safety, mobility equipment, daily living supplies, respiratory care (oxygen tanks, concentrators, CPAP/BiPAP, nebulizers), orthotics and prosthetics (custom-molded inserts, shoe modifications, pediatric orthotics, upper/lower extremity prosthetics, microprocessor hands and feet, cranial helmets), women's health (breast pumps, mastectomy bras, prostheses), and men's health products. KeyCare Medical also supplies commonly needed items to Trinity Health Kenmare Hospital and clinics in Mohall, New Town, and Velva.
+
+Customers include individuals requiring home medical equipment, patients across the Trinity Health system, and rural healthcare facilities in North Dakota and Montana. The division accepts Medicare, Medicaid, Tri-Care, BCBS Expansion, and most insurance plans, with reimbursement specialists handling claims submission. Its home assessment specialists visit clients to recommend appropriate equipment, serving a broad spectrum from post-surgical recovery to chronic condition management.
+
+KeyCare Medical emphasizes specialized training and exceptional service to ensure a positive experience for those in need of home medical equipment, striving to make the process seamless whether through equipment rental, cash sales, or navigating insurance options. The division's commitment to independence and well-being drives its approach to personalized care and local accessibility.
+
+## Known for
+- Home needs assessment by a specialist who visits the client's residence
+- Reimbursement specialists who track Medicare and insurance changes and submit claims
+- Acceptance of Medicare, Medicaid, Tri-Care, BCBS Expansion, and most insurance plans
+- Clinical staff including respiratory therapists, certified orthotists, prosthetists, and mastectomy fitters
+- Distribution of equipment to Trinity Health Kenmare Hospital and rural clinics in Mohall, New Town, and Velva
+
+## Capabilities
+- Equipment rental
+- Cash sales of home medical equipment
+- Insurance navigation and claims submission
+- Home needs assessment
+- Respiratory therapy services
+- Orthotic fitting and fabrication
+- Prosthetic fitting and fabrication
+- Mastectomy fitting
+- Custom-molded orthotic inserts
+- Shoe modifications
+- Pediatric orthotics
+- Upper/lower extremity prosthetics
+- Microprocessor-controlled prosthetic hands and feet
+- Cranial helmet fitting for infants
+- Breast pump fitting and supplies
+- Post-mastectomy breast prosthesis fitting
+- Oxygen tank and concentrator setup
+- CPAP/BiPAP setup and training
+- Nebulizer training
+- Suction machine training
+- Infant monitoring equipment setup
+
+## Industries
+- Home medical equipment
+- Durable medical equipment
+- Respiratory care
+- Orthotics and prosthetics
+- Women's health
+- Men's health
+- Home healthcare
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Ownership:** Nonprofit (part of Trinity Health)
+- **Headquarters:** Minot, North Dakota
+
+<details><summary>Sources</summary>
+
+- KeyCare Medical is a division of Trinity Health, a nonprofit integrated healthcare system founded in 1922 -> /
+- Located at 530 20th Ave SW, Minot, ND 58701 and Trinity Medical Office Building, 2305 37th Ave SW, Suite 103 -> /
+- Provides equipment rental, cash sales, insurance navigation, home needs assessment -> /
+- Clinical staff includes respiratory therapists, certified orthotist, orthotic fitters, certified prosthetist, certified mastectomy fitters, LPNs -> /
+- Accepts Medicare, Medicaid, Tri-Care, BCBS Expansion, most insurance plans -> /
+- Supplies items to Trinity Health Kenmare Hospital and clinics in Mohall, New Town, Velva -> /
+- Product categories: bathroom safety, mobility equipment, daily living supplies, respiratory care, orthotics/prosthetics, women's health, men's health -> /
+- Emphasizes specialized training and exceptional service for independence and well-being -> /
+- Part of Trinity Health which is a member of Mayo Clinic Care Network -> /services
+- Trinity Hospital designated Blue Distinction Center+ for Knee and Hip Replacement -> /about
+</details>
+
+---
+
+# Kimco Design & Manufacturing
+
+**Old description:** Our success in the Electronics Industry comes from our people, willingness to innovate, and the infrastructure to meet our customer’s dynamic needs.  We always want to be ready to grow with our customers and ready for new technologies. As a Kimball owned company, we have deep roots in the electronics industry with components expertise since the beginning of the high tech industry. Kimball Electronics, founded in 1951, is our distribution company specializing in electro mechanical components with headquarters in Salt Lake City, Utah.
+
+## About
+Kimco Design & Manufacturing operates from a 40,000-square-foot facility in Boise, Idaho. The company was started in 1999 by Kim Kimball, who serves as owner and president, as a Kimball-owned enterprise with roots in the electronics component distribution business dating back to 1951. Kim Kimball founded Kimco to provide a full suite of custom electronic manufacturing services under one roof.
+
+The shop specializes in printed circuit board assembly, cable and harness assembly, and electro-mechanical box-build assembly. Its processes include design-for-manufacturability review, new product introduction support, document control, first-article inspection, and obsolescence management. The facility is certified to ISO 9001:2015 and ISO 13485:2016 and works to IPC-610, IPC-620, and J-STD-001 workmanship standards.
+
+Kimco serves customers in medical, aerospace, computer and peripheral, test and instrumentation, automotive and transportation, and industrial markets. The company emphasizes turnkey solutions, lean practices, and customized fulfillment agreements tailored to each client’s production demands.
+
+Leadership says the company differentiates itself through flexible, scalable solutions; responsive end-to-end communication; and a dedicated, passionate staff that drives continuous improvement and long-standing partnerships.
+
+## Known for
+- Flexible, scalable solutions tailored to customer needs
+- Responsive end-to-end communication with no surprises
+- Dedicated staff passionate about quality and continuous improvement
+- Turnkey solutions with lean practices and customized fulfillment agreements
+- Robust quality management system certified to ISO 9001:2015 and ISO 13485:2016
+
+## Capabilities
+- Printed Circuit Board Assembly
+- Cable and Harness Assembly
+- Electro-Mechanical Assembly (Box Build)
+- Design for Manufacturability (DFM) review
+- New Product Introduction (NPI) support
+- Full Life Cycle Support
+- Customized Scalable Solutions
+- Electronic & EMA Testing
+- PCBA Test & Inspection
+- Obsolescence Management
+- Document Control & Revision Control
+- First Article Inspection
+- IPC-610/IPC-620/J-STD-001 Compliance
+- Critical Process Control & Defect Prevention
+- First-Pass Yield Tracking
+- Corrective and Preventive Actions
+- Contract Review
+
+## Industries
+- Medical
+- Aerospace
+- Computer & Peripheral
+- Test & Instrumentation
+- Automotive & Transportation
+- Industrial
+
+## Certifications
+- ISO 9001:2015
+- ISO 13485:2016
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 1999
+- **Ownership:** Family-owned (Kimball owned)
+- **Headquarters:** Boise, Idaho
+
+<details><summary>Sources</summary>
+
+- Founded in 1999 -> /about
+- Headquarters in Boise, Idaho -> /about
+- 40,000 sq ft manufacturing facility -> /services
+- ISO 9001:2015 and ISO 13485:2016 certified -> /services
+- Industries served: Medical, Aerospace, Computer & Peripheral, Test & Instrumentation, Automotive & Transportation, Industrial -> /
+- Ownership: Kimball owned company -> /about
+- Key personnel: Kim Kimball (Owner/President), Brian Storey (General Manager), Alexa Storey (Customer Service Manager), Tracy Eberhardt (Purchasing Manager) -> /about
+- Core capabilities: PCBA, Cable/Harness Assembly, Box Build -> /services
+- Quality standards: IPC-610, IPC-620, J-STD-001 -> /
+- Turnkey solutions, lean practices, customized fulfillment agreements -> /about
+- Design for Manufacturability (DFM) and New Product Introduction (NPI) support -> /
+- Obsolescence management and document control -> /
+</details>
+
+---
+
+# Kimmie Candy Company
+
+**Old description:** In 2000, Joe Dutra, a third-generation farmer, founded Kimmie Candy in Sacramento, California. By 2003, their ChocoRocks won "Product of the Year" at the Candy Grammys. In 2005, Dutra moved operations to Reno, Nevada, creating more American jobs. By 2008, Kimmie Candy's Reno facility was fully operational, with international sales following in 2009. Today, Kimmie Candy proudly labels its products "Made in America" and since moving to Reno, has grown from 7 to over 47 employees, continuing to add jobs and support the American Dream.
+
+## About
+Kimmie Candy Company was founded in 2000 by Joe Dutra, a third-generation farmer, in Sacramento, California. In 2005 Dutra relocated the business to Reno, Nevada, where a 47,000-square-foot facility became fully operational by 2008. International sales began the following year. The company remains privately held under Dutra's leadership and emphasizes "Made in America" labeling for all its products.
+
+The Reno plant produces a range of chocolate confections, including the signature ChocoRocks and the protein-fortified WheyBetter Crisps. Operations cover contract manufacturing and private-label work, with the facility equipped for small-batch runs as well as large-scale production. The production floor includes dedicated areas such as a chocolate lentil station, a candy carousel room, a color-coating lab, a hot chocolate room, and a nut-roasting zone. Headcount has grown from seven at the move to 47 employees today.
+
+Kimmie Candy serves wholesale distributors, retail chains, and brands seeking custom confections for corporate gifting or special events. Its wholesale program supplies peanut-free, gluten-free, kosher, organic, non-GMO, and fair-trade certified treats to stores. The contract-manufacturing side develops branded products for companies across the foodservice and consumer-goods sectors.
+
+The business was built on Dutra's desire to create American manufacturing jobs and to offer allergen-conscious, ethically sourced candy. The company highlights its SQF-certified food-safety system, fair-trade sourcing, and two decades of contract-manufacturing experience as key differentiators.
+
+## Known for
+- "Made in America" labeling on all products
+- Peanut-free, gluten-free, kosher, organic, non-GMO, and fair-trade certified
+- Over 20 years of contract manufacturing experience
+- 47,000 sq. ft. state-of-the-art facility in Reno
+- Flexible production from small batches to large-scale runs
+
+## Capabilities
+- Contract manufacturing
+- Private label production
+- Custom confection development
+- Small-batch production
+- Large-scale production
+- Chocolate molding
+- Panning
+- Color coating
+- Nut roasting
+- Food safety management (SQF certified)
+
+## Industries
+- Confectionery
+- Wholesale
+- Retail
+- Corporate gifting
+- Special events
+- Foodservice
+
+## Certifications
+- SQF
+- Fair Trade
+- Kosher
+- Organic
+- Non-GMO
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 2000
+- **Employees:** 47
+- **Ownership:** Privately held (founder Joe Dutra)
+- **Headquarters:** Reno, Nevada
+
+<details><summary>Sources</summary>
+
+- Founded 2000 by Joe Dutra in Sacramento, CA -> db
+- Relocated to Reno, NV in 2005; facility operational 2008 -> db
+- International sales began 2009 -> db
+- 47,000 sq. ft. facility in Reno -> /
+- Employee count 47 -> db
+- Products: ChocoRocks, WheyBetter Crisps -> /
+- Contract manufacturing and private label services -> /
+- Certifications: SQF, Fair Trade, Kosher, Organic, Non-GMO -> db, /
+- Wholesale program for retailers -> /
+- Corporate gifting and special event custom confections -> /
+- Peanut-free, gluten-free attributes -> /
+- LinkedIn URL -> db
+</details>
+
+---
+
+# Klockner Pentaplast
+
+**Old description:** We are a plastics manufacturer purpose driven to deliver the sustainable protection of everyday needs. Founded in 1965, we have 27 plants in 16 countries, and employ over 5,000 people, committed to serving customers worldwide.
+
+## About
+Klöckner Pentaplast, headquartered in Beaver, West Virginia, was founded in 1965. The company operates 27 plants across 16 countries and employs more than 5,000 people worldwide.
+
+The business innovates, designs and manufactures a broad portfolio of sustainable rigid and flexible plastic films. Its product range includes pharmaceutical blister packaging, medical device packaging, food packaging, consumer packaging, label films, shrink sleeves, pressure-sensitive labels, roll sleeves, capsules, battery films, cards and graphics films, and construction films such as tape, cooling tower, decorative and flooring films. Production capabilities span thermoforming films, static control films, PCR (post-consumer recycled) films and specialty rigid films.
+
+Klöckner Pentaplast serves the pharmaceutical, medical device, nutraceutical, food packaging, consumer packaging, label, cards and graphics, construction and battery industries. Concrete examples include blister packaging for pharmaceutical products, kpNext® MDR1 sustainable medical device films that are fully compatible with the #1 PET recycling stream, and kp Elite® Nova lightweight MAP trays that help food producers reduce material use while maintaining barrier performance.
+
+The company states its purpose is to deliver the sustainable protection of everyday needs and to lead in sustainable plastic solutions that improve lives, communities and health while protecting the planet. It emphasizes a circular economy approach where plastics remain a valuable raw material, particularly in medical device packaging.
+
+## Known for
+- Global leader in recycled content products and high-barrier protective packaging
+- kpNext® MDR1 100% compatible with #1 PET recycling stream
+- kp Elite® Nova lightest MAP tray design in its class
+- Purpose-driven sustainable protection of everyday needs
+- Champion circular economy where plastics are a source of valuable raw material
+
+## Capabilities
+- Pharmaceutical blister packaging
+- Medical device packaging films
+- Food packaging films
+- Thermoforming films
+- Static control films
+- PCR (post-consumer recycled) films
+- Shrink sleeves
+- Pressure-sensitive labels
+- Roll sleeves
+- Capsules
+- Battery films
+- Cards and graphics films
+- Construction films (tape, cooling tower, decorative, flooring)
+
+## Industries
+- Pharmaceutical
+- Medical device
+- Nutraceutical
+- Food packaging
+- Consumer packaging
+- Labels
+- Cards and graphics
+- Construction
+- Battery
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1965
+- **Employees:** 5,000+
+- **Headquarters:** Beaver, West Virginia
+
+<details><summary>Sources</summary>
+
+- Founded in 1965 -> db
+- Headquartered in Beaver, West Virginia -> db
+- 27 plants in 16 countries -> db
+- Employs over 5,000 people -> db
+- Global leader in recycled content products and high-barrier protective packaging -> /
+- Innovate, design and manufacture sustainable solutions -> /
+- Products include blister packaging for pharmaceuticals, medical device packaging, food packaging, consumer packaging, labels, cards and graphics, construction films -> /
+- kpNext® MDR1 sustainable medical device films compatible with PET recycling stream -> /
+- kp Elite® Nova lightweight MAP tray design -> /
+- Purpose: sustainable protection of everyday needs, circular economy champion -> /
+- LinkedIn URL -> db
+</details>
+
+---
+
+# Kodiak Assembly Solutions, LP
+
+**Old description:** Leading contract electronic manufacturer Kodiak Assembly Solutions specializes in offering impressive assembly services, including both Sn/Pb (Tin-Lead) Assembly and RoHS Assembly. Kodiak Assembly Solutions provides adaptable solutions for electronic assembly requirements with an emphasis on satisfying customer objectives and upholding industry standards.
+
+## About
+Kodiak Assembly Solutions, LP was founded in 2004 in Austin, Texas, to provide electronic manufacturing services (EMS) to original equipment manufacturers worldwide. The company operates from a 60,000-square-foot facility in Austin and has grown into a significant participant in the EMS sector through its engineering staff and manufacturing capacity.
+
+The company specializes in surface mount technology (SMT) assembly, mixed-technology PCB assembly, box build assembly, and system integration. It supports both tin-lead (Sn-Pb) and lead-free (RoHS) soldering chemistries to IPC-A-610 Class 2 and 3 standards. Production spans prototype through low, medium, and high volumes, with an ERP-driven material management system tracking more than 40,000 components across turnkey, consigned, and hybrid inventory models. In-house testing includes automated optical inspection, X-ray analysis, flying probe verification, and functional test.
+
+Kodiak serves high-reliability industries including medical and biotechnology, Internet of Things (IoT) devices, RF and wireless communications, industrial control systems, energy applications, oil and gas, security, and LED lighting. Its customer base consists of OEMs requiring turnkey electronics manufacturing and high-mix PCB assembly.
+
+The company emphasizes quality and on-time delivery, citing a 97 percent on-time delivery rate over the previous five years. It holds ISO 9001:2015, UL, CSA, and ITAR certifications, and participates in the Electronic Industry Citizenship Coalition. Engineering support and design-for-manufacturability services are offered through a single purchase order to streamline development.
+
+## Known for
+- 97% on-time delivery rate over the past five years
+- ISO 9001:2015, UL, CSA, and ITAR certified facility
+- 60,000 sq ft facility with advanced SMT automation and X-ray/AOI inspection
+- ERP-driven material management tracking 40,000+ components
+- Supports both Sn-Pb and RoHS assembly to IPC-A-610 Class 2 & 3
+
+## Capabilities
+- Surface mount technology (SMT) assembly
+- Mixed-technology PCB assembly
+- Box build assembly
+- System integration
+- New product introduction (NPI) support
+- Material management (turnkey, consigned, hybrid)
+- Component sourcing and procurement
+- Automated optical inspection (AOI)
+- X-ray inspection
+- Flying probe testing
+- Functional testing
+- Design for manufacturability (DFM)
+- Design for assembly (DFA)
+- Engineering support
+- Prototyping
+- Low-volume production
+- Medium-volume production
+- High-volume production
+- Sn-Pb (tin-lead) assembly
+- RoHS (lead-free) assembly
+- Wave soldering (RoHS and non-RoHS)
+
+## Industries
+- Medical and biotechnology
+- Internet of Things (IoT)
+- RF and wireless communications
+- Industrial control systems
+- Energy applications
+- Oil and gas
+- Security
+- LED lighting
+- Microprocessor embedded computer assemblies
+
+## Equipment
+- SMT automation lines
+- X-ray inspection system
+- Automated optical inspection (AOI) system
+- Flying probe tester
+- Wave soldering equipment (RoHS and non-RoHS)
+
+## Certifications
+- ISO 9001:2015
+- UL
+- CSA
+- ITAR
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 2004
+- **Headquarters:** Austin, Texas
+
+<details><summary>Sources</summary>
+
+- Founded in 2004 -> /about-us
+- Headquarters Austin, Texas -> db (hq_city, hq_state_label) and homepage
+- 60,000 sq ft facility -> /about-us
+- ISO 9001:2015, UL, CSA, ITAR certifications -> /about-us, /capabilities
+- Industries served: medical, IoT, RF, industrial controls, energy, oil & gas, security, LED lighting -> homepage
+- Capabilities: SMT, PCB assembly, box build, system integration, NPI, material management, testing -> homepage, /capabilities
+- Equipment: SMT automation, X-ray, AOI, flying probe, wave soldering -> /about-us
+- On-time delivery rate 97% over five years -> /about-us
+- ERP tracks 40,000+ components -> homepage
+- Sn-Pb and RoHS assembly to IPC-A-610 Class 2 & 3 -> homepage, /capabilities
+- Design for manufacturability and engineering support -> homepage, /capabilities
+- Participation in Electronic Industry Citizenship Coalition -> /about-us
+</details>
+
+---

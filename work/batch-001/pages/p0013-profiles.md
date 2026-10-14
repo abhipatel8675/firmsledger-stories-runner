@@ -397,7 +397,7 @@ The company cites its V² philosophy — value multiplied by velocity — as a g
 **Old description:** Located in Michigan and Tennessee, MP Components has grown since 1973 from a model and pattern shop into a solid business that is capable of producing Fixtures and Gauges, Models and Patterns, Molds, Match Metal Dies and Special Machines, along with providing Computer Aided Design (CAD) services. Serving a variety of industries, MP Components strives to deliver superior designed, engineered products to its customers giving them a competitive edge.
 
 ## About
-MP Components Inc. traces its roots to the fall of 1973, when Otto Schlatter and Larry Wiersma founded Model Pattern Company Inc. in Byron Center, Michigan. The shop began as a model and pattern operation, handcrafting prototypes for local manufacturers. In January 1996, the company was renamed MP Components to reflect its expanding capabilities. Today, the business remains family-owned, with the founders' sons, Joe and John Schlatter, leading the second generation from facilities in Byron Center, Michigan, and Cookeville, Tennessee.
+MP Components Inc. traces its roots to the fall of 1973, when Otto Schlatter and Larry Wiersma founded Model Pattern Company Inc. in Byron Center, Michigan. The shop began as a model and pattern operation, handcrafting prototypes for local manufacturers. In January 1996, the company was renamed MP Components to reflect its expanding capabilities. Today, the business remains family-owned, with the founders' sons, Joe and John Schlatter, the second generation from facilities in Byron Center, Michigan, and Cookeville, Tennessee.
 
 The company designs and builds a range of tooling, including checking fixtures (from simple to complex automated units), models and foundry patterns, aluminum vacuum molds, blow molds, foam and compression molds, match-metal trim dies, and special machinery. It also provides computer-aided design (CAD) services, CMM inspection, and CNC machining. Operations span a 28,000-square-foot plant in Michigan and a 10,000-square-foot facility in Tennessee, equipped with current-generation machining and measurement technology.
 
@@ -468,7 +468,7 @@ The founders' original mission — to deliver handcrafted quality models and pro
 **Old description:** Masimo Semiconductor has been developing and manufacturing III-V opto-electronic devices since 1982. Masimo Semiconductor’s scientists and engineers cumulatively have over 100 years of experience and account for over 140 publications, 34 patents, and 3 world record discrete semiconductor devices.
 
 ## About
-Masimo Semiconductor was founded in 1982 in Hudson, New Hampshire, and has since focused on the development and manufacture of III‑V opto‑electronic devices. The privately held company operates from a facility at 25 Sagamore Park Road in Hudson.
+Masimo Semiconductor was founded in 1982 in Hudson, New Hampshire, and has since focused on the development and manufacture of III‑V opto‑electronic devices. The privately held company operates from a facility in Hudson.
 
 The company specializes in wafer epitaxy, foundry services, and device fabrication. Its core processes include GaAs and InP MOCVD epitaxy, custom III‑V epitaxial growth, device fabrication, optical coating evaporation, and device testing. Masimo Semiconductor offers prototype through high‑volume production runs, supported by an on‑site Agnitron A300 MOCVD reactor installed in 2023 and advanced metrology equipment for epitaxial film and device characterization.
 
@@ -632,7 +632,7 @@ Matrix differentiates itself through nearly five decades of in-house design-for-
 **Old description:** McCann Fabrication is a full-service custom metal fabricator that provides a comprehensive range of quality crafted metal products and equipment. Since 1983, we’ve sustained a continuum of growth based on the practice of total quality management and one guiding principal: putting our integrity into action. We use only raw materials of the finest quality, and test all our products to ensure optimal safety and performance. Our impressive range of capabilities includes cutting, bending, welding, machining, waterjet cutting, and finishing, as well as handling and logistics.
 
 ## About
-McCann Fabrication operates from New Gloucester, Maine, where brothers Bill and Dick McCann founded the company in 1983. The business remains family-owned and operated, with three generations of the McCann family currently working on site and nearly three-quarters of the workforce having tenure of 15 years or more.
+McCann Fabrication operates from New Gloucester, Maine, where brothers Bill and Dick McCann founded the company in 1983.
 
 The shop delivers full-service custom metal fabrication across a 26,400-square-foot facility staffed by 30-plus employees running three shifts, seven days a week. Core processes include cutting, bending, welding, machining, 5-axis waterjet cutting, shearing, forming, plasma cutting, plate rolling, punching, band sawing, and finishing, supported by handling and logistics. Key equipment includes Cincinnati hydraulic press brakes (350- and 175-ton), a PaR 5-axis waterjet system with a 73-by-121-inch work envelope, Cincinnati shears, a Vicon CNC plasma cutter, a JetLine seam welder, Hyd-Mech band saws, a Roundo plate roll, and a Geka ironworker.
 

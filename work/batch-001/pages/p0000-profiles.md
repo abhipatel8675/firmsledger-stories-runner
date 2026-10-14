@@ -42,7 +42,6 @@ The company emphasizes a quality-first philosophy captured in the maxim that "th
 
 ## Certifications
 - VETERAN-OWNED
-- Class A HVAC License
 
 ## Company details
 - **Company Type:** HVAC Service and Sheet Metal Fabrication
@@ -63,7 +62,7 @@ The company emphasizes a quality-first philosophy captured in the maxim that "th
 - Owner-involved service -> /about, /services
 - Fast scheduling, sometimes within a week -> /services
 - Built for Wyoming conditions -> /, /about
-- Class A license number 2705158531 -> /, /about, /services
+- Class A license number  -> /, /about, /services
 - Headquarters at 1019 West 22nd Street, Cheyenne, WY 82001 -> /, /about, /services
 - Serves Southeast Wyoming -> /, /services
 - Quality-first philosophy quote -> /about
@@ -222,7 +221,7 @@ The company emphasizes its slogan "Because You Require Quality, Quickly!" as a d
 ## About
 3D Plastics Inc. operates from Newberg, Oregon, where it was founded in 2007 as a family-owned plastic injection molding company. The business draws on more than 75 years of combined team experience in project development, product design, and cost-effective manufacturing.
 
-The company runs injection molding machines ranging from 18 to 310 tons, producing parts from one ounce up to 26 ounces (approximately 2 pounds). In 2025 it molded over 8.3 million parts for 76 customers with a staff of 41. Capabilities include over-molding with threaded inserts, bushings, and metal or plastic substrates, plus in-house secondary operations such as ultrasonic welding, heat staking, pad printing, hot stamping, CNC machining, and 3D-printed prototypes. Tooling support spans prototype molds (under 500 cycles) to high-production tools exceeding one million cycles.
+The company runs injection molding machines ranging from 18 to 310 tons, producing parts from one ounce up to 26 ounces (approximately 2 pounds). Capabilities include over-molding with threaded inserts, bushings, and metal or plastic substrates, plus in-house secondary operations such as ultrasonic welding, heat staking, pad printing, hot stamping, CNC machining, and 3D-printed prototypes. Tooling support spans prototype molds (under 500 cycles) to high-production tools exceeding one million cycles.
 
 3D Plastics serves consumer, dental, medical, electrical, and industrial markets. Consumer work includes firework holders, magnifying lenses, and enclosures. Dental components cover caps, holders, handles, and light bezels. Medical projects involve gaskets, DNA holders, and housings. Electrical customers require tight-tolerance housings, electronic packaging, and complex components. Industrial parts are designed for stiffness under extreme pressure and heat. Long-term clients include IceAlert (since 2007) and FEC Source LLC for clear acrylic optical components.
 
@@ -645,7 +644,7 @@ Acadiana Textiles & Supply states that its focus is on dependable service, flexi
 **Old description:** Accumedix provides complete services to develop your ideas into innovative medical devices. We have been in operation since 2001 and are located in Libertyville, IL. Our Accumedix facility is FDA registered and has obtained ISO MDSAP and ISO 13485 and certifications for European Notified, UL, Medical Device Directive and FDA Quality System Reg. 21 CFR Part 820.
 
 ## About
-Accumedix, Inc. was founded in 2001 and operates from Libertyville, Illinois. The privately held company is led by President Paul J. Serio, a medical device industry veteran with over 35 years of experience at Baxter Healthcare and Fenwal Blood Technologies, and Vice President of Regulatory Affairs and Quality Michele H. Kupcso, who brings similar depth from Baxter and Allegiance Healthcare. Serio joined after leading global IT acquisitions and SAP implementations, while Kupcso previously ran an international regulatory consulting firm.
+Accumedix, Inc. was founded in 2001 and operates from Libertyville, Illinois. The privately held company is led by President Paul J. Serio, a medical device industry veteran with over 35 years of experience at Baxter Healthcare and Fenwal Blood Technologies, and Vice President of Regulatory Affairs and Quality Michele H. Kupcso, who brings similar depth from Baxter and Allegiance Healthcare. Serio joined after global IT acquisitions and SAP implementations, while Kupcso previously ran an international regulatory consulting firm.
 
 The company provides end-to-end medical device commercialization services, spanning design and development, quality management system implementation, contract manufacturing, assembly and packaging, and distribution. Its Libertyville facility includes clean room and white room manufacturing environments capable of handling clinical trial runs through full production scale. Services include sterile packaging, sterilization coordination (including ethylene oxide requalification and quarterly dose audits), lot-controlled warehousing, and drop-shipping. Accumedix also offers a subscription-based quality management system that covers FDA and European management representation, annual registrations, audits, and supplier quality oversight.
 

@@ -168,7 +168,7 @@ The firm specializes in textile converting, positioned between raw material manu
 
 Conneaut serves markets including aerospace, automotive, food processing, industrial, medical, oil and gas, sports and recreation, telecommunications, and durable goods. Specific applications cited by the company include electrical wire and cable, electronics, aerospace components, fiber optics, composite materials, ignition wire cores, magnet wire covering, braiding, weaving, knitting, and cordage.
 
-The company emphasizes its nine-decade track record, a loyal low-turnover workforce, and a quality policy focused on continuous improvement and customer fulfillment. It holds ISO 9001:2015 certification and states that its globally sourced products are REACH and RoHS compliant and conflict-minerals free. Its stated mission is to be the best specialty yarn converter in the world.
+The company emphasizes its nine-decade track record, a loyal low-turnover workforce, and a quality policy focused on continuous improvement and customer fulfillment. It holds ISO 9001:2015 certification and states that its globally sourced products are REACH and RoHS compliant and conflict-minerals free.
 
 ## Known for
 - Family-owned and operated since 1930 with continuous operations
@@ -315,7 +315,7 @@ Today, Cork Medical designs and manufactures the Nisus NPWT System, specialty ma
 
 The company serves healthcare institutions including hospitals, nursing homes, long-term care facilities, and homecare agencies, as well as distributors seeking cost-effective NPWT solutions. Cork Medical identifies as a medical device and support surface manufacturer.
 
-Cork Medical’s stated mission is to improve lives through innovative wound care products, with a vision to become a leading global manufacturer in the field. The company cites its ISO 13485:2016 certification and clinician-driven product development as key differentiators.
+Cork Medical’s stated mission is to improve lives through innovative wound care products, with a vision to become a global manufacturer in the field. The company cites its ISO 13485:2016 certification and clinician-driven product development as key differentiators.
 
 ## Known for
 - Nisus NPWT System: powerful, cost-effective negative pressure wound therapy
@@ -378,7 +378,6 @@ County Auto Salvage emphasizes transparency by including all shipping costs in l
 ## Known for
 - Included shipping costs in product prices with no hidden fees
 - 30-day return policy on all parts
-- 24/7 customer support staffed by automotive specialists
 - VIN-matched fitment verification for accurate part selection
 - Network of 200+ ARA-certified salvage yards across U.S. and Canada
 
@@ -438,7 +437,7 @@ Craftech Plastics was founded in 1979 in Anaheim, California, as a mold-making s
 
 Today the company runs 45-plus injection molding machines ranging from 38 to 750 tons across 110,000 square feet of production space. Its capabilities span consultative engineering, mold flow analysis, in-house toolroom construction (including multi-action and hot-runner molds), and specialized molding such as elastomeric overmolding, insert molding, multi-component molding, and high-temperature molding. Both plants feature ISO Class 8 and Class 7 cleanrooms for medical-grade production, complemented by value-added operations including cleanroom assembly, ultrasonic welding, laser degating, decoration, and packaging.
 
-Craftech serves medical device, consumer product, high-technology, and industrial markets. Its customer base includes a Global 1000 medical diagnostics OEM, a leading solar energy manufacturer, ophthalmology specialist CZM, and a major industrial technology OEM that has partnered with Craftech for over 20 years. The company supports programs from early design-for-manufacturability reviews through IQ/OQ/PQ validation for regulated medical components, as well as medium-volume runs for handheld electronics and consumer appliances.
+Craftech serves medical device, consumer product, high-technology, and industrial markets. Its customer base includes a Global 1000 medical diagnostics OEM, a solar energy manufacturer, ophthalmology specialist CZM, and a major industrial technology OEM that has partnered with Craftech for over 20 years. The company supports programs from early design-for-manufacturability reviews through IQ/OQ/PQ validation for regulated medical components, as well as medium-volume runs for handheld electronics and consumer appliances.
 
 The firm emphasizes a relationship-driven approach built on four core values—passion, integrity, accountability, and continuous improvement. Its structured 'Craftech Process' moves projects through Discover, Engage, and Fulfill phases with cross-functional kickoff meetings, risk scoring, and ongoing program management. Leadership cites the twin-plant footprint, combined 250-plus years of mold-making expertise, and single-source responsibility from design to validated production as key differentiators that have retained clients for decades.
 
@@ -538,7 +537,7 @@ The company produces a broad line of standard and custom electrical components, 
 
 Curtis serves OEMs and distributors in industrial instrumentation, power supply, telecommunications, medical, commercial appliance, machinery, aerospace, military, and networking sectors. Its customer base includes global 1000 organizations that rely on the firm for new product introduction support, PCB assembly, cable assemblies, system integration, and supply chain logistics.
 
-Quality is described as the founding principle of the business. Curtis holds ISO 9001:2015 certification, ITAR registration, and UL, CSA, and TUV safety approvals. The company emphasizes an industry-leading first-pass yield on new designs, achieved through optimized engineering methodology and process control, and offers engineering design-in and material outsourcing to help clients reduce cost of goods sold.
+Quality is described as the founding principle of the business. Curtis holds ISO 9001:2015 certification, ITAR registration, and UL, CSA, and TUV safety approvals. The company emphasizes an first-pass yield on new designs, achieved through optimized engineering methodology and process control, and offers engineering design-in and material outsourcing to help clients reduce cost of goods sold.
 
 ## Known for
 - Industry-leading first-pass yield on new designs

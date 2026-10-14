@@ -1,0 +1,546 @@
+fetched p0080-raw.json 10 / 10
+RETRY mid-south-wire-products-inc HTTP Error 503: Service Unavailable
+fetched p0081-raw.json 10 / 10
+fetched p0082-raw.json 10 / 10
+fetched p0083-raw.json 10 / 10
+RETRY morton-solar-llc HTTP Error 503: Service Unavailable
+RETRY mountain-meadow-wool-mill HTTP Error 503: Service Unavailable
+RETRY murray-electronics-inc HTTP Error 503: Service Unavailable
+RETRY nesson-cable-engineering HTTP Error 429: Too Many Requests
+fetched p0084-raw.json 10 / 10
+ok   Mighty Auto Parts 
+fetched p0085-raw.json 10 / 10
+ok   Miller Motor Company - Carquest Auto Parts 
+ok   Mission Solar Energy 
+ok   Midwestern Wood Products Company 
+ok   Midian Electronics 
+ok   Mill End Store - Portland (Milwaukie) 
+ok   Mike's Metal Works 
+ok   Mitchell Electronics, Inc 
+RETRY new-mexico-automotive-industry-alliance-nmaia HTTP Error 503: Service Unavailable
+ok   Morgan Plastic Fabrication 
+ok   Mister Bee Potato Chips Co 
+RETRY mountain-meadow-wool-mill HTTP Error 503: Service Unavailable
+ok   N.W. Metal Fabricators, Inc. 
+RETRY nicholas-and-company-salt-lake-city HTTP Error 503: Service Unavailable
+RETRY nile-automotive-tennessee HTTP Error 503: Service Unavailable
+ok   Mission Furniture Manufacturing. 
+ok   Modular Molding International, Inc., d/b/a A&M Engineering 
+ok   Moslow Wood Products 
+ok   Molding Services of Illinois 
+ok   Never Stop Building LLC 
+ok   Mon Health - DASCO Home Medical Equipment 
+ok   Middle Tennessee Solar LLC 
+ok   Moco Shirts 
+ok   Monarch Sales Company Inc 
+ok   Mockingbird Food Group 
+RETRY nile-automotive-tennessee HTTP Error 503: Service Unavailable
+ok   MoldPro, Inc. 
+ok   Midwest Wire Products Inc. 
+ok   New Mexico Printhouse LLC 
+ok   Minneapolis Sheet Metal Works 
+ok   New Hampshire Accents Fine Crafts, LLC 
+ok   Montana Fab 
+ok   Natural Furniture 
+ok   MxD 
+fetched p0086-raw.json 9 / 10
+ok   National Food Equipment Services 
+RETRY north-star-scientific-corporation HTTP Error 503: Service Unavailable
+RETRY northlake-medical-supply-inc HTTP Error 503: Service Unavailable
+ok   New Hampshire Steel Fabricators 
+ok   NU Packaging 
+ok   Mid-South Wire Products Inc. 
+ok   Montana Precision Products 
+RETRY nylacarb-corporation HTTP Error 503: Service Unavailable
+ok   Nordic Foods Inc 
+ok   Norco Precision - Metal Fabricator 
+ok   Miller Scales & Food Machines 
+PAGE DONE p0081-profiles.json
+ok   Murray Electronics Inc. 
+ok   National Content & Technology Cooperative 
+ok   New England Precision Inc. 
+RETRY nylacarb-corporation HTTP Error 503: Service Unavailable
+ok   New Farm Solar 
+ok   NewVision Security 
+ok   Morton Solar, LLC 
+RETRY netvia-group-an-epec-company 'NoneType' object has no attribute 'group'
+ok   Nihm Electronic Solutions 
+ok   Nextern 
+ok   Nesson Cable Engineering 
+ok   North Alabama Fabricating Company (NAFCO) 
+ok   Newfab Inc. 
+ok   Nicholas and Company Salt Lake City 
+RETRY midlands-packaging-corp Expecting ',' delimiter: line 80 column 4 (char 3763)
+ok   Nissha Medical Technologies - Sandpoint 
+ok   Nile Automotive Tennessee 
+ok   Newport Sea Salt Co. 
+ok   Northstar Manufacturing Company, Inc. 
+ok   Northlake Medical Supply Inc 
+ok   Nj Cable Telecommunications 
+PAGE DONE p0085-profiles.json
+RETRY national-bushing-parts-co 'NoneType' object has no attribute 'group'
+ok   Northwest Electric and Solar 
+ok   Nylacarb Corporation 
+RETRY new-horizons-food-solutions Expecting ',' delimiter: line 49 column 4 (char 3470)
+ok   Mountain Meadow Wool Mill 
+PAGE DONE p0082-profiles.json
+ok   Nucraft Furniture Co 
+ok   Northridge Metal Fabrication LLC 
+ok   North Star Scientific Corporation 
+fetched p0087-raw.json 9 / 10
+ok   Northern Bag & Box Co 
+ok   New Mexico Automotive Industry Alliance (NMAIA) 
+ok   North Wire 
+fetched p0088-raw.json 10 / 10
+RETRY oriole-textile-co HTTP Error 503: Service Unavailable
+RETRY ozark-integrated-circuits-inc HTTP Error 503: Service Unavailable
+fetched p0089-raw.json 10 / 10
+RETRY p-m-steel-company HTTP Error 503: Service Unavailable
+ok   NetVia Group, an Epec Company 
+fetched p0090-raw.json 10 / 10
+RETRY new-england-truck-design The read operation timed out
+RETRY norwood-medical 'NoneType' object has no attribute 'group'
+RETRY pacific-rim-packaging-inc HTTP Error 503: Service Unavailable
+RETRY pacific-packaging-industries HTTP Error 503: Service Unavailable
+fetched p0091-raw.json 10 / 10
+ok   Ocotillo Solar Electric 
+fetched p0092-raw.json 10 / 10
+ok   P Plus Packaging 
+RETRY patterson-elite HTTP Error 503: Service Unavailable
+ok   Olympia Sheet Metal Inc 
+ok   Oregon Wire 
+ok   Oregon Made Plastic Products, Inc. 
+ok   OSS Apparel 
+ok   New Horizons Food Solutions 
+RETRY pacific-packaging-industries HTTP Error 503: Service Unavailable
+ok   Opus Woodworking 
+fetched p0093-raw.json 9 / 10
+ok   OnBoard Circuits 
+ok   Omega Circuits & Engineering 
+RETRY pennpac-company-flexible-thermoforming-packaging-films HTTP Error 503: Service Unavailable
+ok   PAVmed 
+ok   Midlands Packaging Corp 
+PAGE DONE p0080-profiles.json
+ok   National Bushing & Parts Co 
+PAGE DONE p0083-profiles.json
+ok   Ozark Integrated Circuits, Inc. 
+fetched p0094-raw.json 10 / 10
+ok   PMC Plastic Molded Concepts 
+ok   Oregon and A to Z Auto Wrecking 
+ok   Owen Suter's Fine Furniture 
+ok   PURE Workplace - Topeka KS 
+ok   OnTenn Automotive USA-LLC 
+RETRY plastic-design-manufacturing HTTP Error 503: Service Unavailable
+ok   Oshkosh Airport Products 
+RETRY pacific-packaging-industries HTTP Error 503: Service Unavailable
+ok   Pasco Tool & Plastics Inc 
+fetched p0095-raw.json 10 / 10
+ok   Ozark Trailer Sales & MFG 
+RETRY podiumwear-custom-sports-apparel HTTP Error 503: Service Unavailable
+ok   Packaging & More 
+RETRY point-medical-corporation HTTP Error 503: Service Unavailable
+ok   Pacific West America 
+RETRY poly-ject-inc HTTP Error 503: Service Unavailable
+ok   Oakwell Inc. 
+ok   Owen Steel Company - Fabrication - DE 
+RETRY positran-manufacturing-inc HTTP Error 503: Service Unavailable
+ok   Pahlke Steel 
+ok   Pack Manufacturing Co 
+ok   PSPM Plastic System 
+ok   Panda Apparel LLC 
+fetched p0096-raw.json 10 / 10
+RETRY precision-inc-a-tt-electronics-company HTTP Error 503: Service Unavailable
+ok   Piedmont Metalworks LLC 
+ok   PLASTEEL, A Plastic Engineering Company 
+ok   PCB Prime, Inc. 
+fetched p0097-raw.json 10 / 10
+ok   Orlando Metal Fabrication 
+ok   PEECO 
+ok   Pappas Foods LLC 
+ok   Onofrio's Ultimate Foods LLC 
+PAGE DONE p0087-profiles.json
+RETRY poly-ject-inc HTTP Error 503: Service Unavailable
+ok   Pac/Rim Medical Technology & Supplies Corporation 
+ok   Pearl Global USA 
+ok   P&M Steel Company 
+ok   Pizza Solutions 
+RETRY precision-wood-finish HTTP Error 503: Service Unavailable
+RETRY premier-manufacturing HTTP Error 503: Service Unavailable
+ok   Park Manufacturing 
+ok   Panâh Project 
+fetched p0098-raw.json 10 / 10
+RETRY plastic-design-company HTTP Error 500: Internal Server Error
+RETRY penwood-manufacturing-llc HTTP Error 500: Internal Server Error
+RETRY poward-plastics-inc HTTP Error 500: Internal Server Error
+ok   Parker Medical Associates, LLC 
+ok   Oriole Textile Co. 
+ok   Par Hawaii Refining 
+fetched p0099-raw.json 9 / 10
+ok   Norwood Medical 
+PAGE DONE p0086-profiles.json
+ok   Paragon Metal Fabricators 
+ok   Pine Electronics, Inc. 
+ok   Percussionaire Corporation 
+ok   Petro Packaging Company, Inc. 
+ok   Pioneer Automotive Industries LLC 
+ok   POET Bioprocessing - Mitchell 
+ok   Pacific Rim Packaging, Inc 
+ok   Patterson Elite 
+ok   Pet All Manufacturing Inc - Blow Molding Machine Suppliers 
+ok   Plastic Molding Technology - El Paso 
+RETRY precision-wood-finish HTTP Error 503: Service Unavailable
+ok   Pearson Foods Corporation 
+ok   Outokumpu 
+PAGE DONE p0088-profiles.json
+ok   Precision Plastics 
+ok   Phase Sensitive Innovations 
+ok   Performance Foodservice - Denver 
+ok   Peninsula Foodservice 
+RETRY renewable-energy-design-group HTTP Error 503: Service Unavailable
+ok   Premium Auto Parts 
+ok   Precise Connections, Inc. 
+ok   Port Erie Plastics 
+ok   Plastipak Packaging Inc 
+RETRY revtech-manufacturing HTTP Error 503: Service Unavailable
+ok   Power Plus 
+ok   Pierce Manufacturing Company Inc. 
+ok   Piedmont Electrical Distributors of Greenville, Inc. 
+RETRY richardson-furniture-mfr HTTP Error 503: Service Unavailable
+ok   PennPac Company - Flexible & Thermoforming Packaging Films 
+ok   Premier Technical Plastics 
+ok   Plastics Plus 
+ok   PCE Inc. 
+PAGE DONE p0089-profiles.json
+RETRY roadrunner-fabrication HTTP Error 503: Service Unavailable
+ok   RCD Components 
+ok   Podiumwear Custom Sports Apparel 
+ok   Point Medical Corporation 
+RETRY premier-medical 'NoneType' object has no attribute 'group'
+ok   Poly-Ject Inc 
+ok   Printwear of Oregon 
+ok   Progress Wire Products Inc 
+ok   Professional Cabling Solutions 
+ok   Precision Plastics Packaging Co. 
+ok   Power Trans Inc 
+ok   Ray Albright Steel Products 
+ok   Quality Switch Inc 
+ok   Precision Inc., a TT Electronics Company 
+ok   New England Truck Design 
+PAGE DONE p0084-profiles.json
+ok   PurePoint Energy 
+ok   Promold Plastics 
+ok   Paul Mueller Company 
+ok   Pacific Packaging Industries 
+ok   Quality Woodworking and Store Fixtures LLC 
+RETRY precision-molded-plastics Expecting ',' delimiter: line 70 column 4 (char 3899)
+ok   Request Foods 
+RETRY panther-healthcare-medical-equipment-co-ltd Expecting ',' delimiter: line 45 column 4 (char 3126)
+ok   Richards Manufacturing 
+ok   Precision Medical Technologies 
+ok   Renogy 
+ok   Ready Cable Inc. - Post Tension, Rebar, & Lumber 
+RETRY pacific-jobbers-warehouse-inc The read operation timed out
+ok   Poward Plastics Inc 
+ok   Reading Truck 
+ok   Penwood Manufacturing LLC 
+PAGE DONE p0092-profiles.json
+ok   Putnam Medical Corporation 
+ok   Progressive Scale & Software Solutions 
+ok   Plastic Design Company 
+ok   Richardson Furniture Mfr 
+ok   ProXES Inc. 
+ok   R. Stahl Inc. 
+ok   Rice Equipment Service, Inc 
+ok   Renewable Energy Design Group 
+ok   Remington Medical 
+ok   Red V Foods 
+ok   Quality Custom Molding LLC 
+PAGE DONE p0096-profiles.json
+RETRY parts-midwest-inc The read operation timed out
+ok   ReVision Energy 
+ok   Plastic Design & Manufacturing 
+PAGE DONE p0093-profiles.json
+ok   Real Tree Woodworking 
+ok   RadScan Medical Equipment, Inc. 
+ok   Riverland Industries, Inc. 
+ok   Roadrunner Fabrication 
+ok   Revtech Manufacturing 
+ok   Premier Manufacturing 
+ok   Precision Wood Finish 
+ok   Resco Products Inc 
+ok   Rochester Rotational Molding 
+ok   Renewable Energy Systems, LLC 
+RETRY rapid-packaging Expecting ',' delimiter: line 71 column 4 (char 4293)
+ok   Positran Manufacturing Inc 
+PAGE DONE p0094-profiles.json
+ok   Ripple's Auto Parts 
+ok   Rock Creek Molding Incorporated 
+ok   Regal Plastics 
+PAGE DONE p0098-profiles.json
+ok   Premier Medical 
+ok   Pacific Jobbers Warehouse Inc 
+PAGE DONE p0090-profiles.json
+ok   Rivers Metal Products 
+ok   Richelieu Foods Inc 
+PAGE DONE p0099-profiles.json
+ok   Precision Molded Plastics 
+PAGE DONE p0095-profiles.json
+ok   Panther Healthcare Medical Equipment Co., Ltd 
+ok   Parts Midwest, Inc. 
+PAGE DONE p0091-profiles.json
+RETRY rapid-packaging 'NoneType' object has no attribute 'group'
+ok   Rapid Packaging 
+PAGE DONE p0097-profiles.json
+ALL-DONE errors 0 of 200
+collected 199
+midlands-packaging-corp | certs ['FDA 21 CFR §176.180 and §211.122 compliance', 'Federal Specification PPP-B-566E compliance']
+mighty-auto-parts | wording/address
+mission-furniture-manufacturing | wording/address
+montana-precision-products | wording/address
+morgan-plastic-fabrication | nums ['10', '10,000']
+national-bushing-parts-co | wording/address
+national-content-technology-cooperative | wording/address
+nesson-cable-engineering | nums ['1990']
+netvia-group-an-epec-company | certs ['RoHS Compliant', 'AS9102 FAI (upon request)']
+norco-precision-metal-fabricator | wording/address
+northwest-electric-and-solar | wording/address
+nucraft-furniture-co | wording/address
+ocotillo-solar-electric | wording/address
+onboard-circuits | wording/address
+oregon-made-plastic-products-inc | wording/address
+oregon-and-a-to-z-auto-wrecking | wording/address
+oshkosh-airport-products | nums ['1917']
+outokumpu | wording/address
+ozark-integrated-circuits-inc | nums ['2024'] ; certs ['CMMC Level 2 (C3PAO)']
+peeco | nums ['1980']
+plasteel-a-plastic-engineering-company | certs ['AS9100D']
+pspm-plastic-system | wording/address
+pure-workplace-topeka-ks | wording/address
+pac-rim-medical-technology-supplies-corporation | wording/address
+pack-manufacturing-co | wording/address
+panther-healthcare-medical-equipment-co-ltd | wording/address
+par-hawaii-refining | nums ['1970']
+paragon-metal-fabricators | certs ['AWS Certified Welders (American Welding Society)']
+patterson-elite | nums ['1970']
+pearl-global-usa | wording/address
+petro-packaging-company-inc | nums ['400,000']
+phase-sensitive-innovations | wording/address
+piedmont-electrical-distributors-of-greenville-inc | wording/address
+pioneer-automotive-industries-llc | wording/address
+plastics-plus | nums ['1,000']
+precision-molded-plastics | nums ['1.5']
+premier-manufacturing | wording/address
+premier-medical | wording/address
+premier-technical-plastics | wording/address
+promold-plastics | nums ['5,000,000']
+quality-woodworking-and-store-fixtures-llc | wording/address
+radscan-medical-equipment-inc | certs ['ISO 13485:2016', 'EU MDR compliant', 'RoHS compliant', 'REACH compliant']
+revision-energy | nums ['19,600']
+reading-truck | wording/address
+renewable-energy-systems-llc | certs ['NABCEP PV Technical Sales Certification']
+richelieu-foods-inc | wording/address
+collected 199
+done mid-south-wire-products-inc 0 
+done middle-tennessee-solar-llc 3 
+done midian-electronics 0 
+done midlands-packaging-corp 2 
+done midwest-wire-products-inc 1 
+done midwestern-wood-products-company 2 
+done mighty-auto-parts 1 
+done mike-s-metal-works 1 
+done mill-end-store-portland-milwaukie 0 
+done miller-motor-company-carquest-auto-parts 2 
+done miller-scales-food-machines 2 
+done minneapolis-sheet-metal-works 0 
+done mission-furniture-manufacturing 1 
+done mission-solar-energy 0 
+done mister-bee-potato-chips-co 4 
+done mitchell-electronics-inc 0 
+done mockingbird-food-group 0 
+done moco-shirts 1 
+done modular-molding-international-inc-d-b-a-a-m-engineering 0 
+done moldpro-inc 0 
+done molding-services-of-illinois 0 
+done mon-health-dasco-home-medical-equipment 0 
+done monarch-sales-company-inc 1 
+done montana-fab 0 
+done montana-precision-products 2 
+done morgan-plastic-fabrication 2 
+done morton-solar-llc 0 
+done moslow-wood-products 1 
+done mountain-meadow-wool-mill 0 
+done murray-electronics-inc 0 
+done mxd 2 
+done n-w-metal-fabricators-inc 2 
+done nu-packaging 1 
+done national-bushing-parts-co 2 
+done national-content-technology-cooperative 1 
+done national-food-equipment-services-2 1 
+done natural-furniture 2 
+done nesson-cable-engineering 0 
+done netvia-group-an-epec-company 1 
+done never-stop-building-llc 2 
+done new-england-precision-inc 0 
+RETRY new-england-truck-design expected string or bytes-like object, got 'NoneType'
+done new-england-truck-design 1 
+done new-farm-solar 0 
+done new-hampshire-accents-fine-crafts-llc 0 
+done new-hampshire-steel-fabricators 0 
+done new-horizons-food-solutions 1 
+done new-mexico-automotive-industry-alliance-nmaia 0 
+done new-mexico-printhouse-llc 0 
+done newvision-security 2 
+done newfab-inc 0 
+done newport-sea-salt-co 0 
+done nextern 0 
+done nicholas-and-company-salt-lake-city 1 
+done nihm-electronic-solutions 0 
+done nile-automotive-tennessee 1 
+done nissha-medical-technologies-sandpoint 0 
+done nj-cable-telecommunications 0 
+done norco-precision-metal-fabricator 1 
+done nordic-foods-inc 0 
+done north-alabama-fabricating-company-nafco 3 
+done north-star-scientific-corporation 1 
+done north-wire 0 
+done northern-bag-box-co 0 
+done northlake-medical-supply-inc 3 
+done northridge-metal-fabrication-llc 1 
+done northstar-manufacturing-company-inc 1 
+done northwest-electric-and-solar 5 
+done norwood-medical 0 
+done nucraft-furniture-co 1 
+done nylacarb-corporation 2 
+done oss-apparel 1 
+done oakwell-inc 0 
+done ocotillo-solar-electric 0 
+done olympia-sheet-metal-inc 0 
+done omega-circuits-engineering 0 
+done onboard-circuits 1 
+done ontenn-automotive-usa-llc 0 
+done onofrio-s-ultimate-foods-llc 0 
+done opus-woodworking 0 
+done oregon-made-plastic-products-inc 1 
+done oregon-wire 0 
+done oregon-and-a-to-z-auto-wrecking 2 
+done oriole-textile-co 0 
+done orlando-metal-fabrication 1 
+done oshkosh-airport-products 0 
+done outokumpu 0 
+done owen-steel-company-fabrication-de 1 
+done owen-suter-s-fine-furniture 2 
+done ozark-integrated-circuits-inc 1 
+done ozark-trailer-sales-mfg 2 
+done p-plus-packaging 2 
+done p-m-steel-company 0 
+done pavmed 0 
+done pcb-prime-inc 1 
+done pce-inc 0 
+done peeco 0 
+done plasteel-a-plastic-engineering-company 0 
+done pmc-plastic-molded-concepts 0 
+done poet-bioprocessing-mitchell 1 
+done pspm-plastic-system 0 
+done pure-workplace-topeka-ks 0 
+done pac-rim-medical-technology-supplies-corporation 0 
+done pacific-jobbers-warehouse-inc 0 
+done pacific-packaging-industries 0 
+done pacific-rim-packaging-inc 2 
+done pacific-west-america 7 
+done pack-manufacturing-co 1 
+done packaging-more 0 
+done pahlke-steel 0 
+done panda-apparel-llc 0 
+done panther-healthcare-medical-equipment-co-ltd 1 
+done pan-h-project 0 
+done pappas-foods-llc 0 
+done par-hawaii-refining 0 
+done paragon-metal-fabricators 1 
+done park-manufacturing 3 
+done parker-medical-associates-llc 2 
+done parts-midwest-inc 0 
+done pasco-tool-plastics-inc 1 
+done patterson-elite 0 
+done paul-mueller-company 2 
+done pearl-global-usa 0 
+done pearson-foods-corporation 2 
+done peninsula-foodservice 3 
+done pennpac-company-flexible-thermoforming-packaging-films 0 
+done penwood-manufacturing-llc 0 
+done percussionaire-corporation 1 
+done performance-foodservice-denver 3 
+done pet-all-manufacturing-inc-blow-molding-machine-suppliers 0 
+done petro-packaging-company-inc 0 
+done phase-sensitive-innovations 1 
+done piedmont-electrical-distributors-of-greenville-inc 0 
+done piedmont-metalworks-llc 0 
+done pierce-manufacturing-company-inc 3 
+done pine-electronics-inc 0 
+done pioneer-automotive-industries-llc 2 
+done pizza-solutions 0 
+done plastic-design-manufacturing 1 
+done plastic-design-company 0 
+done plastic-molding-technology-el-paso 2 
+done plastics-plus 0 
+done plastipak-packaging-inc 3 
+done podiumwear-custom-sports-apparel 0 
+done point-medical-corporation 0 
+done poly-ject-inc 1 
+done port-erie-plastics 1 
+done poward-plastics-inc 0 
+done power-plus 1 
+done power-trans-inc 3 
+done precise-connections-inc 2 
+done precision-inc-a-tt-electronics-company 2 
+done precision-medical-technologies 0 
+done precision-molded-plastics 0 
+done precision-plastics 0 
+done precision-plastics-packaging-co 1 
+done precision-wood-finish 1 
+done premier-manufacturing 2 
+done premier-medical 0 
+done premier-technical-plastics 3 
+done premium-auto-parts 2 
+done printwear-of-oregon 1 
+done proxes-inc 1 
+done professional-cabling-solutions 1 
+done progress-wire-products-inc 4 
+done progressive-scale-software-solutions 1 
+done promold-plastics 1 
+done purepoint-energy 0 
+done putnam-medical-corporation 2 
+done quality-custom-molding-llc 0 
+done quality-switch-inc 0 
+done quality-woodworking-and-store-fixtures-llc 3 
+done r-stahl-inc 0 
+done rcd-components 0 
+done radscan-medical-equipment-inc 0 
+done rapid-packaging 1 
+done ray-albright-steel-products 3 
+done revision-energy 2 
+done reading-truck 0 
+done ready-cable-inc-post-tension-rebar-lumber 1 
+done real-tree-woodworking 0 
+done red-v-foods 0 
+done regal-plastics 0 
+done remington-medical 0 
+done renewable-energy-design-group 2 
+done renewable-energy-systems-llc 0 
+done renogy 1 
+done request-foods 0 
+done resco-products-inc 2 
+done revtech-manufacturing 0 
+done rice-equipment-service-inc 3 
+done richards-manufacturing 1 
+done richardson-furniture-mfr 2 
+done richelieu-foods-inc 0 
+done ripple-s-auto-parts 2 
+done riverland-industries-inc 2 
+done rivers-metal-products 0 
+done roadrunner-fabrication 2 
+done rochester-rotational-molding 0 
+done rock-creek-molding-incorporated 4 
+ALL-DONE errors 0
+clean 198 | sentences removed 169 | needs review 1 | check errors 0
+REVIEW pacific-west-america too short after fact-check (22 words)
+sql parts 3 stories 198

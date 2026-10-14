@@ -5,7 +5,7 @@
 ## About
 CWR Hawaii Inc has operated as a locally owned rigging specialist in Honolulu, Hawaii since 1976. The company serves the Hawaiian islands and the broader Pacific Rim from its Honolulu base.
 
-The shop functions as a full-line rigging fabricator and service provider. It maintains the largest wire rope swage press in the state and produces custom wire rope, chain, synthetic, and high-performance slings with working loads up to 500,000 pounds. In-house capabilities include proof testing up to 750,000 pounds, static and dynamic load testing of hoists up to 25 tons, and onsite resin pour sockets using Crosby Wirelock resin. The company also operates an authorized repair station for brands such as Harrington Hoists, Ingersoll-Rand, JET, and Columbus-McKinnon, and offers wire rope pressure lubrication via Kirkpatrick systems. Rental inventory includes wireless load cells ranging from 2.5 to 55 tons, a 6.5-ton Bluetooth load cell, and a Straightpoint Colt tension meter.
+The shop functions as a full-line rigging fabricator and service provider. It maintains the largest wire rope swage press in the state and produces custom wire rope, chain, synthetic, and high-performance slings with working loads up to 500,000 pounds. The company also operates an authorized repair station for brands such as Harrington Hoists, Ingersoll-Rand, JET, and Columbus-McKinnon, and offers wire rope pressure lubrication via Kirkpatrick systems. Rental inventory includes wireless load cells ranging from 2.5 to 55 tons, a 6.5-ton Bluetooth load cell, and a Straightpoint Colt tension meter.
 
 CWR Hawaii supports marine, industrial, and material-handling customers across the Pacific. Its fabrication and repair services meet OSHA and ASME standards, and the company provides onsite consultation, certified product training, and same-day turnaround for many fabrication requests.
 
@@ -13,7 +13,6 @@ The company emphasizes its local presence, ISO 9001 certification, and the abili
 
 ## Known for
 - Largest wire rope swage press in Hawaii
-- Proof testing capacity up to 750,000 lbs
 - Authorized repair station for Harrington, Ingersoll-Rand, JET, Columbus-McKinnon
 - Onsite resin pour sockets with Crosby Wirelock resin (ready in 60 minutes)
 - Same-day fabrication service and onsite support
@@ -363,7 +362,6 @@ The company emphasizes its fully domestic supply chain—design, engineering, an
 - Diamond 10 KLA LED Soldermask Imager
 
 ## Certifications
-- ISO 9001:2015 (NSF ISR)
 - AS9100D (NSF ISR)
 - NADCAP Merit
 - ITAR

@@ -1,0 +1,807 @@
+# Sentra-Sota Sheet Metal
+
+**Old description:** Sentra-Sota Sheet Metal, Inc. was founded on May 26, 1982 by Ben Bechtold and Jerry Vogt. The company name, Sentra-Sota, was selected in recognition of their central Minnesota background. With humble beginnings in their garages, both men dreamed of building a successful business in the HVAC and architectural sheet metal industry.
+
+## About
+Sentra-Sota Sheet Metal, Inc. was founded on May 26, 1982, by Ben Bechtold and Jerry Vogt in Waite Park, Minnesota. The name reflects their central Minnesota roots, and the business began in the founders' garages before moving to a dedicated shop on Roosevelt Road in St. Cloud in 1984.
+
+The company operates a full-service custom sheet metal fabrication shop and a dedicated HVAC system fabrication and installation department at its current 3075 3rd Street South facility. Its capabilities cover architectural sheet metal, commercial HVAC ductwork, and custom metal products for projects ranging from large multi-story buildings to single-room installations. As of 1999 the shop employed 27 people; current headcount is not publicly disclosed.
+
+Sentra-Sota serves industrial, manufacturing, commercial property developers, medical facilities, food service, educational facilities, retail outlets, and residential customers throughout central Minnesota. The firm has worked on multiple LEED-registered projects and counts commercial, industrial, and residential buildings among its installed work.
+
+The company emphasizes competitive pricing, quality craftsmanship, and timely turnaround, supported by ongoing safety training and the integration of new fabrication technology. Its longevity and second-generation ownership under Jeff Bechtold, Jeff Popp, and Tyler Bechtold underscore a focus on continuity and customer relationships.
+
+## Known for
+- Competitive pricing, quality, and timely turnaround
+- Integration of latest fabrication technology
+- Routine safety and installation training for all employees
+- Experience on LEED-registered projects
+
+## Capabilities
+- HVAC system fabrication
+- HVAC installation
+- Architectural sheet metal fabrication
+- Custom sheet metal fabrication
+- Metal fabrication
+- Design and manufacturing of architectural metal products
+
+## Industries
+- Industrial
+- Manufacturing
+- Commercial property development
+- Medical facilities
+- Food service
+- Educational facilities
+- Retail
+- Residential
+
+## Certifications
+- LEED
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1982
+- **Headquarters:** Waite Park, Minnesota
+
+<details><summary>Sources</summary>
+
+- Founded May 26, 1982 by Ben Bechtold and Jerry Vogt -> /about-us
+- Started in founders' garages -> /about-us
+- Moved to Roosevelt Road, St. Cloud in 1984 -> /about-us
+- Moved to Clearwater Road, St. Cloud in 1990 -> /about-us
+- Ben Bechtold took full ownership in 1996 -> /about-us
+- Moved to current location at 3075 3rd Street South, Waite Park in 1999 -> /about-us
+- Employee base expanded to 27 by 1999 -> /about-us
+- Jeff Bechtold and Jeff Popp purchased company in 2006 -> /about-us
+- Tyler Bechtold joined in 2012, became partner in 2024 -> /about-us
+- Current leadership: Jeff Bechtold (President), Jeff Popp (Vice President), Tyler Bechtold (Partner) -> /about-us
+- HVAC system fabrication and installation department -> / and /services
+- Architectural sheet metal fabrication -> /services
+- Custom sheet metal fabrication shop -> /services
+- Industries served: industrial, manufacturing, commercial property developers, medical facilities, food service, educational facilities, retail, residential -> /services and /
+- Work on multiple LEED projects -> / and /about-us
+- Competitive price, quality, timely turnaround emphasized -> /about-us
+- Integration of latest technology -> /about-us
+- Routine safety and installation training -> /about-us
+- Headquarters: 3075 3rd Street South, Waite Park, Minnesota -> / and /about-us
+- Certification: LEED -> db
+</details>
+
+---
+
+# Shermco Industries (previously Power Products & Solutions)
+
+**Old description:** Shermco is North America’s largest and fastest-growing electrical testing organization accredited by the InterNational Electrical Testing Association. Trusted since 1974, Shermco has you covered when it comes to electrical testing, maintenance, and industry requirements.
+
+## About
+Shermco Industries, headquartered in Irving, Texas, was founded in 1974 by Pete Sherman. The company began by repairing generators for aircraft during the Vietnam War, with Sherman recalling that at one point nearly every B-52 in the U.S. fleet had a generator serviced by Shermco. That dedication to quality and personal service turned single-job clients into long-term partners, fueling the firm's growth into a nationwide electrical services provider.
+
+Today Shermco operates as an electrical services platform delivering field, shop, and engineering & control services. Its 700-plus NETA-certified technicians and 230-plus engineers work from 41 service centers across the United States and Canada. Core offerings include NETA-accredited power system testing and maintenance, transformer services, protection and control engineering, rotating machinery repair, wind turbine support, motor and generator rewinds up to 15 kV, circuit breaker refurbishment, disaster recovery, and electrical safety training. The motor shops hold ISO 9001:2015 and EASA accreditation, while breaker technicians are PEARL certified.
+
+The company serves data centers, utilities, oil and gas producers, chemical plants, industrial manufacturers, and the growing wind energy sector. Clients in these markets rely on Shermco to maintain continuous operation and avoid downtime, leveraging the firm's expertise in NERC, ERCOT, PJM, and CAISO compliance, interconnection studies, and field engineering support.
+
+Shermco states its purpose is to provide specialty technical expertise that safely and reliably powers essential businesses and communities. It emphasizes a safety-first culture where every employee can stop work without reprisal, and it positions itself as North America's largest and fastest-growing NETA-accredited testing organization.
+
+## Known for
+- North America's largest NETA-accredited electrical testing organization
+- 24/7 emergency field service with 41 locations across the U.S. and Canada
+- ISO 9001:2015 and EASA accredited motor and generator repair shops
+- PEARL-certified circuit breaker refurbishment and mobile breaker shops
+- 700+ NETA-certified technicians and 230+ engineers on staff
+
+## Capabilities
+- Electrical power system maintenance
+- NETA acceptance and maintenance testing
+- Protection and control testing
+- Transformer services and oil sampling
+- Rotating machinery field services
+- Wind field services
+- Engineering assessments for compliance (NERC, ERCOT, PJM, CAISO)
+- Interconnection studies
+- Motor and generator repair (rewinds, machining, balancing)
+- Breaker refurbishment (primary/secondary injection testing, overhauls, remanufacturing, retrofits)
+- Disaster recovery services
+- Electrical safety training (NFPA 70B)
+- Laser alignment services
+- Arc flash services
+- Compliance engineering services
+- Up-tower machining
+
+## Industries
+- Data centers
+- Utilities
+- Oil and gas
+- Chemicals
+- Industrial manufacturing
+- Wind energy
+- Renewables
+
+## Certifications
+- ISO 9001:2015
+- NETA accredited
+- EASA accredited
+- PEARL certified
+
+## Company details
+- **Company Type:** Installer / service company
+- **Founded:** 1974
+- **Employees:** 700+
+- **Headquarters:** Irving, Texas
+
+<details><summary>Sources</summary>
+
+- Founded 1974 by Pete Sherman -> /about-us
+- Headquartered in Irving, Texas -> /
+- 700+ NETA-certified technicians -> /about-us
+- 230+ engineers -> /about-us
+- 41 service centers in U.S. and Canada -> /about-us
+- NETA accredited electrical testing organization -> /about-us
+- ISO 9001:2015 accredited motor shops -> /services
+- EASA accredited motor shops -> /services
+- PEARL-certified breaker technicians -> /services
+- Markets: data centers, utilities, oil and gas, chemicals, industrial manufacturing -> /about-us
+- Wind field services -> /services
+- 24/7 emergency service -> /
+- Mobile breaker shops -> /services
+- Motor and generator rewinds up to 15kV -> /services
+- Disaster recovery services -> /services
+- Electrical safety training (NFPA 70B) -> /services
+- Laser alignment services -> /services
+- Arc flash services -> /services
+- Compliance engineering services -> /services
+- Up-tower machining -> /services
+</details>
+
+---
+
+# Sigenics, Inc.
+
+**Old description:** Sigenics specializes in designing, testing and delivering custom integrated circuits for sensor, analog, and mixed-signal applications. With 21+ years of IC experience, Sigenics' turnkey services provide the easiest path to ASIC production. Our in-house experts, test facilities, and manufacturing partners ensure top production quality.
+
+## About
+Sigenics, Inc. was founded in 2010 and is headquartered in Chicago, Illinois, with an additional design center in Los Osos, California. The company began as a specialist in custom integrated circuit design for sensor, analog, and mixed-signal applications, leveraging the collective experience of its engineering team.
+
+Sigenics provides turnkey ASIC development services that span specification, design, simulation, layout, and test. The firm maintains in-house test facilities and coordinates with manufacturing partners to deliver finished integrated circuits. Its engineering focus includes sensor interface design, CMOS design, power management, and analog and mixed-signal circuits. The company also offers reverse-engineering services to produce form-fit-function replacements for obsolete parts.
+
+The company serves military and aerospace programs, medical device manufacturers, and industrial automation customers. In the defense sector, Sigenics has developed custom devices for legacy avionics systems and complex ASICs for commercial and military-grade equipment. Its medical portfolio includes neural stimulation and signal acquisition chips for wearable and implantable devices. Industrial clients engage the firm for power management and sensor interface ICs used in automated electronic equipment.
+
+Sigenics positions its turnkey model as the easiest path to ASIC production, emphasizing that its in-house experts, test facilities, and qualified manufacturing partners ensure production quality. The company holds ISO 9001, AS9100, and ITAR certifications, supporting high-reliability requirements across its served markets.
+
+## Known for
+- Turnkey ASIC development from specification through test
+- In-house test facilities and qualified manufacturing partners
+- Reverse engineering for obsolete part replacement
+- ISO 9001, AS9100, and ITAR certified
+- Expertise in military, medical, and industrial high-reliability applications
+
+## Capabilities
+- Custom integrated circuit design
+- ASIC design and development
+- Turnkey ASIC supply
+- Sensor interface design
+- CMOS design
+- Power management design
+- Analog and mixed-signal design
+- Reverse engineering
+- Obsolete part replacement
+- Testing and validation
+- Specification, simulation, and layout
+- Manufacturing coordination
+
+## Industries
+- Military & Aerospace
+- Medical
+- Industrial
+
+## Certifications
+- ISO 9001
+- AS9100
+- ITAR
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 2010
+- **Headquarters:** Chicago, Illinois
+
+<details><summary>Sources</summary>
+
+- Founded 2010 -> db
+- Headquarters Chicago, IL -> /
+- Additional design center Los Osos, CA -> /
+- Specializes in custom IC design for sensor, analog, mixed-signal -> /
+- Turnkey ASIC services including specification, design, simulation, layout, test -> /
+- In-house test facilities and manufacturing partners -> /
+- Services: sensor interface design, CMOS design, power management, analog/mixed-signal -> /
+- Reverse engineering for obsolete part replacement -> /
+- Industries: Military & Aerospace, Medical, Industrial -> /
+- Military: legacy avionics, commercial/military-grade equipment -> /
+- Medical: neural stimulation, signal acquisition, wearables, implantables -> /
+- Industrial: power management, sensor interface ICs for automation -> /
+- Certifications: ISO 9001, AS9100, ITAR -> db, /
+- Company type: Manufacturer (delivers custom ICs) -> /
+</details>
+
+---
+
+# Signature Cable
+
+**Old description:** Since 2002, Signature Cable has met its customers’ demands with high reliability and quality conformance due to its effective manufacturing techniques, skilled personnel, state-of-the-art equipment. Signature Cable does not impose an annual minimum spend upon its customers. We will build one cable and accept a credit card or build thousands of cables on payment terms. Our sweet spot tends to be High Mix/Low to Medium Volume and all customers are treated equally. We also offer R&D support, build quick turn prototypes in twenty four to forty eight hours (provided material is available), and if local we have even delivered in urgent situations.
+
+## About
+Signature Cable, Inc. was founded in 2002 and is headquartered in Cranston, Rhode Island. The company operates a domestic manufacturing facility in Rhode Island, about 10 minutes from Providence, and also partners with suppliers in Hong Kong and China.
+
+The company specializes in molded cables, custom wire and cable harnesses, and electro-mechanical box build assemblies for original equipment manufacturers. It offers full production capabilities including wire harness production, cable assemblies, molded cable assemblies, prototyping, engineering, and R&D support.
+
+Its customer base spans the military, medical, industrial, aerospace, security, transportation, semiconductor, automation, and homeland security sectors. The company serves OEMs across these industries, building everything from single cables to thousands of units on payment terms.
+
+Signature Cable differentiates itself through its ISO 9001:2015 certification, UL and Canadian UL listings, RoHS compliance, and adherence to IPC 610/620 Class I, II, and III standards as well as MIL-STD-45662. The company emphasizes competitive pricing, low overhead, fast turnaround times, a newly implemented ERP system, and lean manufacturing practices such as 5S to drive efficiency and cost savings.
+
+## Known for
+- No minimum annual spend or order size
+- ISO 9001:2015 certified with UL/Canadian UL listings
+- Lean manufacturing (5S) and ERP-driven efficiency
+- Domestic manufacturing in the USA
+
+## Capabilities
+- Wire harness production
+- Wire harness assemblies
+- Custom cable assemblies
+- Molded cable assemblies
+- Electro-mechanical box build assemblies
+- Prototyping and engineering
+- Prototype design
+- R&D support
+- Continuity testing
+- Component detection
+- Capacitor checks
+- Resistor checks
+- Diode testing
+- Twisted pair testing
+- Hi-pot testing
+- Crimp/pull testing
+
+## Industries
+- Military
+- Medical
+- Industrial
+- Aerospace
+- Security
+- Transportation
+- Semiconductor
+- Automation
+- Homeland Security
+
+## Certifications
+- ISO 9001:2015
+- UL Listed
+- Canadian UL Listed
+- RoHS Compliant
+- IPC 610 Class I, II, III
+- IPC 620 Class I, II, III
+- MIL-STD-45662
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 2002
+- **Headquarters:** Cranston, Rhode Island
+
+<details><summary>Sources</summary>
+
+- Founded 2002 -> db, /about
+- Headquarters Cranston, Rhode Island -> /about
+- Domestic manufacturing facility in Rhode Island -> /about
+- Partnerships with suppliers in Hong Kong and China -> /about
+- Specializes in molded cables, custom wire and cable harnesses, electro-mechanical box build assemblies -> /about
+- High-mix, low-to-medium volume production -> /about
+- No minimum annual spend or order size -> /about, /
+- Quick-turn prototypes in 24-48 hours -> /about
+- Industries served: military, medical, industrial, aerospace, security, transportation, semiconductor, automation, homeland security -> /about
+- ISO 9001:2015 certified -> /quality, db
+- UL & Canadian UL Listed -> /quality
+- RoHS Compliant -> /quality, db
+- IPC 610 & 620 Class I, II, III standards -> /quality
+- MIL-STD-45662 -> /quality
+- Lean manufacturing (5S) and ERP system -> /quality
+- Competitive pricing, low overhead, fast turnaround -> /, /about
+- Company type: contract manufacturer -> /about
+- Makes physical products (wire harnesses, cable assemblies) -> /about
+- LinkedIn URL -> db
+</details>
+
+---
+
+# Single Source Medical
+
+**Old description:** Manufacturing in Indiana since 2001, SSM brings 40 people, a mature ISO 13485 quality system, and a machining foundation deep enough to absorb high-mix orthopedic work without growing pains. Our customers send a print — we deliver finished, marked, cleaned, inspected, packaged product.
+
+## About
+Single Source Medical was founded in 2001 in Churubusco, Indiana, and operates a 21,350-square-foot facility with a team of 40. The company is led by President Jordan Nicodemus and focuses exclusively on contract manufacturing for the orthopedic sector.
+
+The shop provides end-to-end production of implants and surgical instruments, running Swiss-type turning (20–32 mm bar capacity), 5-axis mill-turn, 5-axis milling (Matsuura MX-330 and DMG Mori), wire EDM, laser marking, multi-stage ultrasonic cleaning, citric passivation, deburring, finishing, CMM inspection, and final assembly. All processes are performed in-house under an ISO 13485:2016 quality system with FDA registration.
+
+Customers are orthopedic OEMs in the spine, trauma, and upper- and lower-extremity markets. Typical components include bone screws, trauma plates, spinal cages, acetabular shells, trial instruments, and broaches, machined from titanium 6Al-4V, cobalt chrome, 17-4 and 316L stainless steels, and medical-grade polymers.
+
+The company emphasizes a “wrap-around” service model — DFM feedback, fast-turn prototyping, vendor-managed inventory, and packaging/labeling — to shrink the supply chain. Its stated philosophy balances being a supplier of choice, an employer of choice, and an investment of choice, with a culture built on responsiveness, validated processes, and accountability.
+
+## Known for
+- Wrap-around services (DFM, prototyping, assembly, packaging, VMI) performed in-house
+- Full traceability from raw material heat lot through final inspection
+- Responsive front-end engineering with validated back-end processes
+- Three-pillar philosophy: supplier, employer, and investment of choice
+
+## Capabilities
+- Swiss-type turning (20–32 mm bar capacity)
+- 5-axis mill-turn / live tooling
+- 5-axis milling
+- Wire EDM
+- Laser marking (UDI, lot numbers)
+- Ultrasonic cleaning
+- Citric passivation (ASTM A967)
+- Deburring & finishing (tumbling, bead blast, hand polish)
+- CMM & vision inspection
+- Assembly (sub-assembly and final assembly)
+- Packaging & labeling
+- Vendor-managed inventory
+- DFM feedback
+- Prototyping
+- Saw cutting
+- Thread rolling (planned)
+- Heat treat (outsourced)
+- Anodization (outsourced)
+- Chrome coating (outsourced)
+- PVD coating (outsourced)
+- TiN coating (outsourced)
+- Electropolishing (outsourced)
+- Grinding (outsourced)
+- Overmolding (outsourced)
+
+## Industries
+- Orthopedic implants
+- Orthopedic instruments
+- Spine
+- Trauma
+- Upper extremity
+- Lower extremity
+- Medical devices
+
+## Equipment
+- Star Swiss platforms
+- Matsuura MX-330
+- DMG Mori 5-axis
+- Fanuc Robocut wire EDM
+- Zeiss Contura CMM
+- Keyence vision system
+- Surface profilometers
+- Fiber laser marking system
+
+## Certifications
+- ISO 13485:2016
+- FDA Registered
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 2001
+- **Employees:** 40
+- **Headquarters:** Churubusco, Indiana
+
+<details><summary>Sources</summary>
+
+- Founded 2001 -> db
+- 40 employees -> db
+- Headquarters Churubusco, Indiana -> db
+- ISO 13485:2016 certified -> /
+- FDA registered -> /
+- 21,350 sq ft facility -> /
+- Swiss-type turning, 5-axis milling, wire EDM, laser marking, cleaning, passivation, assembly -> /
+- Materials: Titanium, Cobalt Chrome, Stainless Steel, etc. -> /
+- Industries: orthopedic spine, trauma, upper/lower extremity -> /
+- Equipment: Star Swiss, Matsuura MX-330, DMG Mori, Fanuc Robocut, Zeiss Contura CMM, Keyence vision -> /
+- President Jordan Nicodemus -> /
+- Three commitments philosophy -> /
+- Vendor-managed inventory, DFM, prototyping -> /
+</details>
+
+---
+
+# Southeastern Kentucky Rehabilitation Industries
+
+**Old description:** SEKRI has formed a business relationship with non-profit organization Operation Warm. Founded in 1998, Operation Warm produces coats for children in need across the United States. For the past three years, they have manufactured coats both overseas and in U.S. manufacturing companies. The partnership between SEKRI and Operation Warm was launched in March 2016.
+
+## About
+Southeastern Kentucky Rehabilitation Industries (SEKRI) was established in 1971 in Corbin, Kentucky, as a non-profit organization dedicated to creating employment opportunities for people with mental and physical disabilities in the Appalachian region. At a time when few jobs existed for individuals with significant disabilities, government agencies and school systems began referring clients to SEKRI for basic work-skills training.
+
+Today SEKRI operates seven facilities across Kentucky and Tennessee, employing more than 700 people. The organization runs spreading and cutting operations on Gerber equipment and provides a full range of sewing services—from flat-lock single-needle stitching to embroidery—producing military apparel, commercial textiles, and partner products such as coats for Operation Warm. In addition to manufacturing, SEKRI offers contract packaging, fulfillment, warehousing, inventory management, and logistics, shipping over 50,000 units per week from its combined plants. The company also deploys teams to prepare and wrap training-range facilities with site-specific vinyl for military exercises.
+
+SEKRI’s primary customers are federal and defense agencies purchasing through the AbilityOne program, which requires a workforce of at least 75 percent disabled individuals. Key accounts include the U.S. military for sewn goods and Lockheed Martin, for which SEKRI manages vendor‑owned inventory and delivers orders in as little as two hours, earning a Platinum Vendor Supplier Rating. The non-profit also serves commercial partners such as Operation Warm and has supported training-range construction for soldier readiness programs.
+
+SEKRI’s founding mission—to provide competitive, gainful employment for persons with disabilities—remains its central differentiator. The organization maintains ISO 9001:2015 certification and a quality policy targeting 100 percent customer requirements and on-time delivery. Its AbilityOne designation and non-profit structure allow it to reinvest revenue directly into workforce development, including on‑site GED programs, veteran services, and rehabilitation referrals.
+
+## Known for
+- AbilityOne program: minimum 75% disabled workforce
+- ISO 9001:2015 certified quality management
+- Ships 50,000+ products weekly from seven facilities
+- Two-hour delivery on vendor-managed inventory for Lockheed Martin
+- Non-profit reinvesting in workforce development (GED, veteran services)
+
+## Capabilities
+- Spreading and cutting (Gerber technology)
+- Sewing: flat-lock single needle, embroidery, and other stitching
+- Contract packaging and fulfillment
+- Warehousing, inventory management, and logistics
+- Training range facility preparation and vinyl wrapping
+- Community rehabilitation referral services
+- Veteran employee services
+- On-site GED and adult education
+- Textile product manufacturing
+- Engineering and manufacturing of textile products
+- Vendor managed inventory
+- Shipping and distribution
+
+## Industries
+- Defense / Military
+- Government (AbilityOne program)
+- Aerospace (Lockheed Martin)
+- Non-profit / Social services (Operation Warm)
+- Textile / Apparel manufacturing
+- Training and simulation (training range facilities)
+
+## Equipment
+- Gerber spreading and cutting systems
+
+## Certifications
+- ISO 9001:2015
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1971
+- **Employees:** 700+
+- **Ownership:** Non-profit
+- **Headquarters:** Corbin, Kentucky
+
+<details><summary>Sources</summary>
+
+- Founded 1971 in Corbin, Kentucky -> /about
+- Non-profit providing employment for persons with disabilities -> /about
+- Operates seven facilities, employs over 700 individuals -> /about
+- ISO 9001:2015 certified -> /about
+- Ships over 50,000 products weekly -> /
+- Gerber technology for spreading and cutting -> /
+- Sewing services from flat-lock single needle to embroidery -> /
+- Contract packaging & fulfillment, warehouse, inventory management & logistics -> /
+- Vendor managed inventory for Lockheed Martin with 2-hour delivery -> /about
+- Training range facilities preparation with vinyl wrap -> /about
+- AbilityOne program (75% disabled workforce) -> /about
+- Lockheed Martin Platinum Vendor Supplier Rating -> /about
+- Partnership with Operation Warm -> db
+- Headquarters in Corbin, Kentucky -> /about
+- Executive team includes Leo Miller, Norm Bradley, etc. -> /about
+</details>
+
+---
+
+# Southern Energy Management
+
+**Old description:** We know that building a home is complex, and that it’s frustrating and costly to solve unexpected problems. Since 2001, we’ve helped builders solve home performance challenges to build more efficient homes, profitably and on schedule — without the headaches during or after construction.
+
+## About
+Southern Energy Management was founded in 2001 in Raleigh, North Carolina. The company began as a building performance and solar installation firm focused on helping builders and homeowners improve energy efficiency.
+
+The firm provides residential and commercial solar photovoltaic and battery storage installation, along with building performance services such as HERS ratings, code compliance testing, green program certification (including LEED and ENERGY STAR), zero energy consulting, air sealing, and HVAC grading. It operates as a certified Tesla Powerwall installer and reports more than 3,000 completed solar and battery projects. The company serves single-family builders, multifamily developers, commercial businesses, non-profits, and architects across North Carolina, South Carolina, and nationally for multifamily projects.
+
+Its customer base includes homeowners seeking solar and battery systems, production and custom home builders needing energy code compliance and performance verification, multifamily developers pursuing green certifications and incentive guidance, and commercial organizations looking for turn-key solar solutions. The company also works with architects on building performance modeling and certification.
+
+Southern Energy Management was started to address the complexity and cost of unexpected home performance problems during construction. The company says it helps builders solve those challenges to deliver more efficient homes profitably and on schedule, without headaches during or after the build.
+
+## Known for
+- Certified Tesla Powerwall installer
+- 3,000+ solar and battery installations completed
+- HERS ratings, code testing, and green certification for builders in NC and SC
+- Turn-key commercial solar solutions with grant writing and financial partnership
+- Nationwide multifamily green building consulting and incentive guidance
+
+## Capabilities
+- Residential solar PV installation
+- Commercial solar PV installation
+- Battery storage installation
+- HERS rating and code compliance testing
+- Green building certification (LEED, ENERGY STAR, DOE Zero Energy Ready)
+- Zero energy consulting
+- Air sealing services
+- HVAC grading
+- Building performance inspections
+- Energy modeling (ASHRAE)
+- Multifamily sustainability consulting
+- Incentive and grant guidance
+- Builder trade onboarding and training
+- Sales and marketing support for builders
+
+## Industries
+- Single-family home building
+- Multifamily construction
+- Commercial solar
+- Residential solar
+- Energy efficiency consulting
+- Green building certification
+- Architecture and design
+
+## Certifications
+- LEED
+- ENERGY STAR
+
+## Company details
+- **Company Type:** Installer / service company
+- **Founded:** 2001
+- **Headquarters:** Raleigh, North Carolina
+
+<details><summary>Sources</summary>
+
+- Founded 2001 -> db
+- Headquarters Raleigh, NC -> db
+- Certifications LEED, ENERGY STAR -> db
+- Capabilities list -> db
+- 3,000+ solar & battery customers -> homepage
+- Certified Tesla Powerwall Installer -> homepage
+- Services: residential solar, commercial solar, builder energy services, multifamily & commercial energy services -> homepage
+- Industries served: homeowners, builders, multifamily developers, commercial businesses, architects -> homepage
+- Why: help builders solve home performance challenges to build efficient homes profitably and on schedule -> description
+</details>
+
+---
+
+# Southwest Plastics Co.
+
+**Old description:** Since 1974, Southwest Plastics has provided outstanding quality, value, and service for customers nationwide. We’re committed to producing our plastic components onshore to ensure you get the best quality plastic components for your application. Whether you're a large corporation looking for high-volume plastic part production or a small private business looking to develop a custom component part, Southwest Plastics can make your vision a reality.
+
+## About
+Southwest Plastics Co. was founded in 1974 in Glendora, California, and remains a family-owned business now in its third generation of hands-on ownership. The company is led by owners Tom and Rob Jorgensen, who emphasize direct customer access and a commitment to onshore manufacturing.
+
+The company specializes in high-precision plastic components produced through thermoset molding, thermoplastic injection molding, transfer molding, compression molding, and rubber molding. Supported by in-house CNC machining, tooling, assembly, pad printing, testing, and packaging, Southwest Plastics reports producing millions of custom, high-tolerance parts annually for runs ranging from several thousand to millions of units.
+
+Its customer base spans aerospace, military and defense, automotive, medical device, electronics, food and beverage, power generation, oil and gas, OEMs, and marine and maritime sectors. The firm serves both large aerospace contractors and small manufacturers seeking custom component development.
+
+Southwest Plastics differentiates itself through its AS9100 certification, a focus on intellectual property protection, material expertise built over three generations, and a 'white-glove' service model that balances capacity for large projects with personalized attention. The company also highlights its role in reshoring initiatives and faster turnaround times for domestic production.
+
+## Known for
+- AS9100 certified quality management system
+- Millions of high-tolerance parts produced annually
+- Three generations of family ownership and material expertise
+- IP protection and onshore manufacturing commitment
+- White-glove service with direct owner access
+
+## Capabilities
+- Thermoset molding
+- Thermoplastic injection molding
+- Transfer molding
+- Compression molding
+- Rubber molding
+- CNC machining
+- Tooling
+- Assembly
+- Pad printing
+- Testing
+- Packaging
+- Delivery
+- Engineering services
+- Silk screen
+
+## Industries
+- Aerospace
+- Military & Defense
+- Automotive
+- Medical device
+- Electronics
+- Food & beverage
+- Power generation
+- Oil & gas
+- OEMs
+- Marine & maritime
+- Telecom
+- Healthcare
+
+## Certifications
+- AS9100
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1974
+- **Ownership:** Family-owned
+- **Headquarters:** Glendora, California
+
+<details><summary>Sources</summary>
+
+- Founded 1974 -> db
+- Headquarters Glendora, California -> db
+- AS9100 certification -> db, /services
+- Family-owned, three generations of hands-on ownership -> /about
+- Owners Tom and Rob Jorgensen -> /about
+- Processes: thermoset molding, thermoplastic injection molding, transfer molding, compression molding, rubber molding -> /services
+- Support services: CNC machining, tooling, assembly, pad printing, testing, packaging, delivery, engineering services, silk screen -> /services
+- Annual volume millions of parts, runs from several thousand to millions -> /services
+- Industries served: aerospace, military & defense, automotive, medical device, electronics, food & beverage, power generation, oil & gas, OEMs, marine & maritime -> /services
+- Additional industries: telecom, healthcare -> /
+- Differentiators: IP protection, onshore manufacturing, faster turnaround, white-glove service, reshoring commitment -> /about, /services
+- Materials: thermoset plastics, thermoplastic plastics, Delrin, Ryton, Ultem, ABS -> /services, / (article titles)
+</details>
+
+---
+
+# Spectra-Tech Manufacturing, Inc.
+
+**Old description:** Spectra-Tech was founded in 1998 in Batavia, Ohio, just 15 miles outside of Cincinnati. Our team of technical experts has spent many years in printed circuit board manufacturing. This expertise provides our customers the insight to resolve manufacturability issues and product solutions that result in lower cost and higher quality than other PCB manufacturers.
+
+## About
+Spectra-Tech Manufacturing, Inc. was founded in 1998 in Batavia, Ohio, about 15 miles east of Cincinnati. The company began with a team of technical experts who had spent years in printed circuit board manufacturing, aiming to give customers insight into manufacturability issues and deliver lower-cost, higher-quality assemblies than other PCB manufacturers.
+
+Today the firm operates as a full-service electronic contract manufacturer. Its facility runs four high-speed Fuji SMT lines, two ERSA selective soldering machines, a SPEA 4030 flying-probe in-circuit tester, X-ray inspection, and a Stoelting aqueous wash system. Services span surface-mount and through-hole assembly, conformal coating, wire harness and cable assembly, overmolding, box build, and engineering support including design-for-manufacturability reviews, prototyping, and documentation control via Aegis Factory Logix software.
+
+The company serves customers in industrial controls and water monitoring, and its ISO 13485:2016 certification qualifies it for medical-device work. Each client is assigned a dedicated program manager, and Spectra-Tech offers customized Kanban and stocking programs, supply-chain management with vendor consignment and EDI, and full program management from introduction through delivery.
+
+Spectra-Tech emphasizes its quality system—ISO 9001:2015 certified, IPC-A-610, J-STD-001, and IPC-7711/7721 trained personnel, plus RoHS-compliant processes—as the foundation for consistent, defect-free production across prototype, low-volume, and high-volume runs.
+
+## Known for
+- Dedicated program manager assigned to every customer
+- Custom Kanban and stocking programs for inventory turns and just-in-time delivery
+- Design for Manufacturability (DFM) review included as a value-added service
+- Four high-speed Fuji SMT lines with X-ray and flying-probe in-circuit test
+- ISO 9001:2015 and ISO 13485:2016 certified for medical and commercial assemblies
+
+## Capabilities
+- Surface Mount Assembly (SMT)
+- Through-hole Assembly
+- Selective Soldering
+- Conformal Coating
+- In-Circuit Testing (ICT) / Flying Probe
+- X-Ray Inspection
+- Water Wash / Aqueous Cleaning
+- Wire Harness Assembly
+- Cable Assembly
+- Overmolding
+- Box Build / Final Assembly
+- Engineering Services
+- Design for Manufacturability (DFM)
+- Prototyping
+- Program Management
+- Supply Chain Management
+- Kanban & Stocking Programs
+- Documentation Control & Process Engineering
+- BOM to Layout Verification
+- Revision Control / Paperless Documentation
+- Thermal Profiling
+- Fixture Development
+- IPC Certified Training (IPC-A-610, J-STD-001)
+- RoHS Compliant Manufacturing
+
+## Industries
+- Industrial Controls
+- Water Monitoring
+- Medical Devices
+
+## Equipment
+- Fuji high-speed SMT lines (4)
+- SPEA 4030 flying probe tester
+- ERSA selective soldering machines (2)
+- X-ray inspection system
+- Stoelting water wash system
+- Aegis Factory Logix software
+
+## Certifications
+- ISO 9001:2015
+- ISO 13485:2016
+- RoHS
+- IPC-A-610
+- J-STD-001
+- IPC-7711/7721
+- IPC CEPM
+- SMTA Corporate Member
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 1998
+- **Headquarters:** Batavia, Ohio
+
+<details><summary>Sources</summary>
+
+- Founded 1998 in Batavia, Ohio -> /, /about-us
+- Four high-speed Fuji SMT lines -> /
+- SPEA 4030 flying probe tester -> /
+- Two ERSA selective soldering machines -> /
+- X-ray inspection system -> /
+- Stoelting water wash system -> /
+- ISO 9001:2015 certified -> /quality
+- ISO 13485:2016 certified -> /quality
+- RoHS compliant processes -> /quality
+- IPC-A-610, J-STD-001, IPC-7711/7721 certified personnel -> /quality
+- IPC CEPM certified program managers -> /quality
+- SMTA Corporate Member since 2006 -> /quality
+- Markets: Industrial Controls, Water Monitoring -> /
+- Dedicated program manager per customer -> /services
+- Custom Kanban and stocking programs -> /services
+- Supply chain management with vendor consignment and EDI -> /services
+- Engineering services including DFM, prototyping, documentation control -> /services
+- Wire harness, cable assembly, overmolding services -> /services
+- Conformal coating capability -> /
+- Box build / final assembly -> /services
+- Aegis Factory Logix software for documentation -> /services
+- Facility address 4013 Borman Drive, Batavia, Ohio -> /
+</details>
+
+---
+
+# Standard Components LLC
+
+**Old description:** Standard Components, LLC, a privately owned business, specializes in the design, build, and certification of Aerospace, Defense and Automotive Checking Fixtures, Holding Fixtures, Transport Fixtures and Assembly Tooling. Since 2001, SCI has provided its customers with world-class quality solutions to their fixturing and tooling needs. In 2016, SCI was acquired by a Private Equity company, Summit Equity Group, which has invested significantly to help grow the business.
+
+## About
+Standard Components LLC was founded in 2001 in Sterling Heights, Michigan, as a privately owned business specializing in aerospace, defense, and automotive fixturing and tooling. In 2016 the company was acquired by the private equity firm Summit Equity Group, which has since invested in expanding its operations.
+
+The company designs, builds, and certifies checking fixtures, holding fixtures, transport fixtures, and assembly tooling for applications ranging from aircraft wings and doors to fighter jet components and automotive EV battery trays. Its 44,500-square-foot facility includes a climate-controlled certification room, two 10-ton crane bays, weld and paint stations, and both 3-axis and 5-axis milling centers, enabling vertically integrated production from design through final inspection.
+
+Standard Components serves commercial and corporate aircraft manufacturers such as Gulfstream and Bombardier, defense primes including Lockheed Martin, and automotive OEMs and Tier One suppliers like General Motors and Stellantis. Programs cover inspection and assembly fixtures for airframes, mission-critical defense hardware, and automotive interiors, body panels, and electrification components.
+
+The firm emphasizes a turn-key approach that spans quote inception, design, build, and final certification, backed by AS9100 Rev.D and ISO 9001:2015 quality systems and ITAR registration. Management cites its vertically integrated process control and dedicated certification environment as key differentiators for meeting stringent aerospace and defense requirements.
+
+## Known for
+- Turn-key program delivery from design through on-site installation
+- Vertically integrated manufacturing with in-house certification
+- Climate-controlled facility with dedicated CMM certification room
+- 3-axis and 5-axis milling capacity for complex tooling
+- AS9100 Rev.D, ISO 9001:2015, and ITAR compliance
+
+## Capabilities
+- Checking fixture design and build
+- Holding fixture design and build
+- Transport fixture design and build
+- Assembly tooling design and build
+- CMM checking fixture certification
+- Weld fixture fabrication
+- Vacuum and drill jig fabrication
+- Assembly fixture fabrication
+- 3-axis CNC milling
+- 5-axis CNC milling
+- Welding
+- Painting
+- Engineering services
+- Quality inspection and certification
+- Turn-key program management
+- On-site installation
+
+## Industries
+- Aerospace
+- Defense
+- Automotive
+
+## Equipment
+- 3-axis milling centers
+- 5-axis milling centers
+- 10-ton crane bays (two)
+- Weld stations
+- Paint stations
+- Climate-controlled certification room
+
+## Certifications
+- ISO 9001:2015
+- AS9100 Rev.D
+- ITAR registered
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 2001
+- **Ownership:** Privately owned; acquired by Summit Equity Group (private equity) in 2016
+- **Headquarters:** Sterling Heights, Michigan
+
+<details><summary>Sources</summary>
+
+- Founded in 2001 -> db
+- Headquarters in Sterling Heights, Michigan -> db
+- Privately owned, acquired by Summit Equity Group in 2016 -> /
+- 44,500 sq ft facility with climate-controlled certification room, two 10-ton crane bays, weld and paint stations, 3-axis and 5-axis milling centers -> /about
+- Certifications: ISO 9001:2015, AS9100 Rev.D, ITAR registered -> /about
+- Customers: Lockheed Martin, Gulfstream, Bombardier, General Motors, Stellantis -> /about
+- Materials: steel, aluminum, fixture plank, wood, plastics, acrylic, laminates, foam -> /
+- Industries: Aerospace (commercial/corporate aircraft), Defense (fighter jets, helicopters, combat vehicles), Automotive (OEMs, Tier One) -> /
+- Services: Engineering, Manufacturing, Quality Inspections, turn-key program deliverables -> /services
+- Capabilities: design, build, certification of checking fixtures, holding fixtures, transport fixtures, assembly tooling, CMM checking fixtures, weld fixtures, vacuum/drill jigs -> /about
+- LinkedIn URL -> db
+</details>
+
+---

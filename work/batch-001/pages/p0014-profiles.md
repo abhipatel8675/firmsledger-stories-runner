@@ -145,7 +145,7 @@ The company distributes medical equipment and supplies from established manufact
 
 Primary customers are U.S. government healthcare facilities, including VA Medical Centers, military hospitals, Indian Health Service centers, the National Institutes of Health, and other federal, state, and local agencies. Product categories span sports medicine and orthopedics, ophthalmology, trauma and battlefield equipment, cardiology, audiology, hematology, durable medical equipment, and imaging supplies. The firm also represents manufacturers in electromedical apparatus, surgical instruments, and medical wholesale distribution.
 
-Metro Medical emphasizes its expertise in government procurement regulations and contract vehicles, positioning itself as a small-business link that helps manufacturers navigate federal acquisition requirements. The company states its mission is to provide the best medical support for military personnel and their families, and to be the trusted choice for government contract officers and manufacturing partners.
+Metro Medical emphasizes its expertise in government procurement regulations and contract vehicles, positioning itself as a small-business link that helps manufacturers navigate federal acquisition requirements.
 
 ## Known for
 - Dedicated contract specialists knowledgeable in diverse contract vehicles

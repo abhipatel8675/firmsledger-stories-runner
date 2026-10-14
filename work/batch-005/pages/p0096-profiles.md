@@ -1,0 +1,650 @@
+# Premium Auto Parts
+
+**Old description:** Since 2005, Premium Auto Parts has served the greater Salt Lake City area with quality used auto parts. We carry all makes and models from compact cars to light-duty trucks, and several members of our sales staff have over 40 years experience in automotive parts! We
+
+## About
+Premium Auto Parts has operated from Salt Lake City, Utah since 2005, serving the greater Salt Lake City area as a used auto parts dealer. The business was established to supply recycled automotive components and has remained locally based while expanding its reach through shipping services.
+
+The company stocks used parts for all makes and models ranging from compact cars to light-duty trucks. Its inventory is organized with downloadable cut sheets covering vehicle configurations such as two- and four-door unibodies, full-frame sedans, SUVs, minivans, full-size vans, and various truck cab styles. Fulfillment options include nationwide shipping, daily local deliveries, and regional courier services. A warranty of up to 90 days applies to most recycled parts, depending on the component type, and the sales team includes members with over 40 years of automotive parts experience.
+
+Customers include independent repair shops, collision centers, and individual vehicle owners throughout the Intermountain West and nationwide via shipping. The business supports both walk-in and remote orders through an online search tool and phone assistance.
+
+Premium Auto Parts emphasizes the depth of its staff expertise and the breadth of its delivery network as key differentiators, aiming to simplify the process of locating and receiving quality recycled components.
+
+## Known for
+- Nationwide shipping, daily local deliveries, and regional courier services
+- Up to 90-day warranty on recycled parts
+- Sales staff with over 40 years of automotive parts experience
+- Downloadable cut sheets for major vehicle configurations
+- Online parts search tool with make/model lookup
+
+## Capabilities
+- Used auto parts sales
+- Nationwide shipping
+- Daily local delivery
+- Regional courier service
+- Parts search and lookup
+- Cut sheet provision
+- Warranty administration (up to 90 days)
+
+## Industries
+- Automotive aftermarket
+- Automotive repair
+- Vehicle recycling
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Founded:** 2005
+- **Headquarters:** Salt Lake City, Utah
+
+<details><summary>Sources</summary>
+
+- Founded 2005 -> db
+- Headquarters Salt Lake City, Utah -> db
+- Used auto parts dealer for all makes/models compact cars to light-duty trucks -> /
+- Nationwide shipping, daily local deliveries, regional courier services -> /
+- Up to 90-day warranty on recycled parts -> /
+- Sales staff with over 40 years experience -> /
+- Cut sheets for 2-dr/4-dr unibody, full-frame, SUV, minivan, van, truck cabs -> /
+- Online parts search tool -> /
+- Hours Mon-Fri 8:30am-6:00pm MST/MDT -> /
+- Payment: Visa, MasterCard, Discover, Amex, Debit, PayPal -> /
+</details>
+
+---
+
+# Printwear of Oregon
+
+**Old description:** PrintWear of Oregon has been specializing in quality and customer service since 1983. Located in beautiful Eugene, Oregon, we offer screen printing and embroidery on t-shirts, hoodies, sweat pants, hats and many other items. We also offer promotional products such as pens, mugs, magnets, tote bags and more. We cater to businesses, organizations, bands, and events promoters, offering the most cutting edge techniques and the highest commitment to customer satisfaction. Give us a call and let us help you with your next project!
+
+## About
+Printwear of Oregon was founded in 1983 in Eugene, Oregon. The company began as a screen printing and embroidery shop serving local businesses and organizations. In 2017, it merged with BirdTracs Embroidery, a well-known apparel logo-wear business, and consolidated operations at a new facility on Highway 99 North.
+
+The shop provides custom screen printing using plastisol, water-based, discharge, and silicone inks, as well as embroidery services. It also sources promotional products such as pens, mugs, magnets, and tote bags. Production takes place at the combined Eugene location, though the company does not disclose facility size or employee count.
+
+Printwear serves a mix of corporate clients, non-profit organizations, musical acts, and event promoters who need branded apparel and merchandise. The company emphasizes its ability to handle both small and large orders for a variety of garment types, including cotton and performance polyester fabrics.
+
+The business highlights its long-standing focus on quality and customer service, along with a range of ink technologies that allow for different finishes and fabric compatibility. The merger with BirdTracs was intended to bring two established decoration divisions under one roof to better serve customers.
+
+## Known for
+- Specializing in quality and customer service since 1983
+- Merged with BirdTracs Embroidery in 2017 to unite two decoration divisions
+- Offers plastisol, water-based, discharge, and silicone screen printing inks
+- Provides embroidery and promotional product sourcing
+- Caters to businesses, organizations, bands, and event promoters
+
+## Capabilities
+- Screen printing (plastisol, water-based, discharge, silicone inks)
+- Embroidery
+- Promotional product sourcing
+
+## Industries
+- Businesses
+- Organizations
+- Bands
+- Event promoters
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 1983
+- **Headquarters:** Eugene, Oregon
+
+<details><summary>Sources</summary>
+
+- Founded in 1983 -> db
+- Headquartered in Eugene, Oregon -> db
+- Offers screen printing, embroidery, and promotional products -> /
+- Merged with BirdTracs Embroidery in spring 2017 -> /
+- Located at 1541 Hwy 99 N, Eugene -> /
+- Screen printing ink types: plastisol, water-based, discharge, silicone -> /services
+- Serves businesses, organizations, bands, and event promoters -> /
+- Emphasizes quality and customer service -> /
+- Offers cutting edge techniques and highest commitment to customer satisfaction -> /
+</details>
+
+---
+
+# ProXES Inc.
+
+**Old description:** ProXES successfully combines three leading process technology brands under one roof: FrymaKoruma, Stephan and Terlet. Together, ProXES combines innovative and long-standing expertise as a manufacturer of machines, process lines and solutions for the food, pharmaceutical, cosmetics and advanced materials industries. As an agile partner - with 5 technology centres around the globe - ProXES supports its customers in turning new application ideas into desirable and sustainable products.
+
+## About
+ProXES Inc., headquartered in Mundelein, Illinois, traces its roots to 1917 and operates as the North American arm of a global group that unites three heritage brands—FrymaKoruma, Stephan, and Terlet—under one roof. The combined entity draws on over 300 years of process engineering experience to design and build machines, complete process lines, and integrated solutions for the food, pharmaceutical, cosmetics, and advanced materials sectors.
+
+The company’s portfolio spans emulsifiers, homogenizers, cutters, cookers, coolers, UHT and CIP systems, deaerators, wet grinders, stone mills, inline melters, heat exchangers, and multi-purpose machines, supporting processes such as emulsifying, homogenizing, heating, cooking, cooling, pasteurizing, sterilizing, aseptic processing, deaerating, crystallizing, particle size reduction, and vacuum cooling. Equipment ranges from pilot-scale units to custom lines capable of several tons per hour; stock models like the MaxxD and ProxxD are available for immediate delivery. A global team of 80 service professionals supports more than 100,000 installed machines from five technology centers worldwide.
+
+ProXES serves three primary markets: Food (condiments, dairy, baby food, chocolate, beverages, vegan products), Health, Personal Care & Pharma (cosmetics, ointments, API suspensions, eye drops, soft gels), and Advanced Materials (ceramics, paints and lacquers, lubricants, chemical suspensions). Customers include manufacturers seeking to develop new products or scale existing recipes, with the company’s Co-Creation model offering test-center trials, process optimization, technology guidance, training, and financial counseling from concept through full production.
+
+The group’s differentiation rests on its Co-Creation approach—guiding clients from initial product idea to full-scale manufacturing—and the depth of its installed base, which exceeds 100,000 machines serviced globally. The five technology centers provide hands-on application support, while the combined heritage of FrymaKoruma, Stephan, and Terlet delivers a breadth of process knowledge that few competitors can match.
+
+## Known for
+- Co-Creation model from product idea to full-scale production
+- Five global technology centers for application testing and optimization
+- Over 300 years of combined process technology expertise across FrymaKoruma, Stephan, and Terlet
+- 100,000+ machines installed and serviced worldwide
+- Stock machines (MaxxD, ProxxD) available for immediate shipment
+
+## Capabilities
+- Emulsifying
+- Homogenizing
+- Heating & Cooking
+- Cooling
+- Pasteurizing
+- Sterilizing
+- Aseptic Processing
+- Deaerating
+- Crystallizing
+- Particle Size Reduction
+- Vacuum Cooling & Evaporation
+- Commissioning
+- Installation
+- Maintenance
+- Remote Support
+- Digital Services
+- Troubleshooting
+- Spare Parts Supply
+- Retrofits & Upgrades
+- Service Contracts
+- Leasing
+- Test Machine Rentals
+
+## Industries
+- Food
+- Health, Personal Care & Pharma
+- Advanced Materials
+
+## Equipment
+- MaxxD
+- ProxxD
+- Emulsifiers
+- Homogenizers
+- Cutters
+- Cookers
+- Coolers
+- UHT Systems
+- CIP Systems
+- Deaerators
+- Wet Grinders/Mills
+- Stone Mills
+- Inline Melters
+- Heat Exchangers
+- Multi-Purpose Machines
+- Continuous Preparation Lines
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1917
+- **Employees:** 80
+- **Headquarters:** Mundelein, Illinois
+
+<details><summary>Sources</summary>
+
+- Headquarters in Mundelein, Illinois -> db
+- Founded 1917 -> db
+- Employee count 80 -> db
+- Combines FrymaKoruma, Stephan, Terlet brands -> homepage
+- Manufacturer of machines, process lines, solutions for food, pharma, cosmetics, advanced materials -> homepage
+- 5 technology centers globally -> homepage
+- 80 service professionals, 100,000+ machines serviced -> homepage
+- Processes: emulsifying, homogenizing, heating, cooking, cooling, pasteurizing, sterilizing, aseptic processing, deaerating, crystallizing, particle size reduction, vacuum cooling -> homepage
+- Equipment: emulsifiers, homogenizers, cutters, cookers, coolers, UHT systems, CIP systems, deaerators, wet grinders, stone mills, inline melters, heat exchangers, multi-purpose machines, continuous lines -> homepage
+- Volume range: pilot scale to several tons per hour; stock machines MaxxD, ProxxD -> homepage
+- Industries: Food (condiments, dairy, baby food, chocolate, beverages, vegan), Health Personal Care & Pharma (cosmetics, ointments, API suspensions, eye drops, soft gels), Advanced Materials (ceramics, paints, lubricants, chemical suspensions) -> homepage
+- Co-Creation approach: test center support, product & process optimization, technology guidance, training, financial counseling -> homepage
+- After-sales services: commissioning, installation, maintenance, remote support, digital services, troubleshooting, spare parts, retrofits, upgrades, service contracts, leasing, test machine rentals -> homepage
+</details>
+
+---
+
+# Professional Cabling Solutions
+
+**Old description:** Professional Cabling Solutions is also a Superior Modular Multimedia Design and Integration Specialist, offering a 25 year manufacturer's warranty, as well. SMP has been around since 1990 with innovations that have become standards that are still used today at an affordable price.
+
+## About
+Professional Cabling Solutions (PCS) was founded in 1990 and is headquartered in Springdale, Arkansas, serving the Northwest Arkansas region. The company operates as a design and integration specialist for cabling infrastructure.
+
+PCS specializes in the design and installation of cabling infrastructure for a variety of customer environments. As a Superior Modular Multimedia Design and Integration Specialist, the company provides design and integration services for Superior Modular Products (SMP) systems, backed by a 25-year manufacturer's warranty. The firm works with each customer's unique situation, drawing on past project experience to develop tailored solutions.
+
+The company serves commercial and institutional clients across Northwest Arkansas requiring structured cabling and multimedia integration. While specific industry verticals are not publicly listed, PCS focuses on customers needing customized cabling infrastructure design and installation.
+
+PCS differentiates itself as one of the few providers in Northwest Arkansas dedicated exclusively to cabling infrastructure. The company emphasizes its long-standing relationship with Superior Modular Products, whose innovations have set industry standards since 1990, and offers a 25-year manufacturer's warranty on installed systems.
+
+## Known for
+- One of the few Northwest Arkansas firms dedicated to cabling infrastructure
+- 25-year manufacturer's warranty on installed systems
+- Superior Modular Multimedia Design and Integration Specialist
+- Custom design and installation for unique customer environments
+
+## Capabilities
+- Cabling infrastructure design
+- Cabling infrastructure installation
+- Superior Modular multimedia design
+- Superior Modular multimedia integration
+- 25-year manufacturer's warranty administration
+
+## Company details
+- **Company Type:** Installer / service company
+- **Founded:** 1990
+- **Headquarters:** Springdale, Arkansas
+
+<details><summary>Sources</summary>
+
+- Founded in 1990 -> db
+- Headquartered in Springdale, Arkansas -> db
+- Specializes in design and installation of cabling infrastructure -> /
+- Superior Modular Multimedia Design and Integration Specialist -> db
+- Offers 25-year manufacturer's warranty -> db
+- One of few companies in Northwest Arkansas focused on cabling infrastructure -> /
+</details>
+
+---
+
+# Progress Wire Products Inc
+
+**Old description:** Welcome to Progress Wire Products. Since 1953, Progress Wire has manufactured quality wire grids and wire mesh, wire forms, wire displays, wire guards, fan guards and fabricated wire assemblies. All of our fabricated wire products are engineered to meet our customers’ specifications. Our products are proudly produced here in Ashland, Ohio with state-of-the-art equipment and highly skilled people.
+
+## About
+Progress Wire Products Inc. was founded in 1953 in Ashland, Ohio. The company began as a manufacturer of wire grids, wire mesh, and fabricated wire assemblies, serving original equipment manufacturers with custom-engineered components.
+
+Today the shop runs CNC straight-and-cut machines that handle wire diameters from 0.060 to 0.375 inch, two CNC mesh welders capable of producing flat grids and cable trays up to 48 by 144 inches, and a CNC jig-transfer spot welder for complex, irregularly shaped assemblies. An in-house tool room staffed by a skilled toolmaker supports custom fixture and die work. The company focuses on steel and stainless-steel wire forms, fan guards, light guards, motor mounts, cable trays, baskets, shelves, racks, and point-of-purchase displays.
+
+Progress Wire sells primarily to OEMs in sectors such as HVAC, lighting, and industrial equipment, supplying components like fan guards for HVAC units, light guards for fixtures, and wire mesh cable trays for electrical installations. The company emphasizes fast turn-around quotes and engineering support for custom fabricated wire assemblies.
+
+The business remains family-operated in Ashland, highlighting domestic production with modern equipment and experienced personnel as its core differentiators.
+
+## Known for
+- Fast turn-around quotes on custom wire fabrications
+- In-house tool room with skilled toolmaker for custom fixtures
+- CNC mesh welders producing grids up to 48″ × 144″
+- CNC straight-and-cut machines for wire diameters 0.060–0.375 in
+- CNC jig-transfer spot welder for complex flat assemblies
+
+## Capabilities
+- CNC straight and cut
+- CNC mesh welding
+- CNC jig transfer spot welding
+- Wire forming
+- Wire assembly
+- Wire grid welding
+- Wire mesh welding
+- Fan guard manufacturing
+- Light guard manufacturing
+- Cable tray fabrication
+- Wire basket fabrication
+- Wire display fabrication
+- Tool room services
+
+## Equipment
+- CNC Straight and Cut machines
+- CNC Mesh Welders
+- CNC Jig Transfer Spot Welder
+- Tool Room equipment
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1953
+- **Headquarters:** Ashland, Ohio
+
+<details><summary>Sources</summary>
+
+- Founded 1953 in Ashland, Ohio -> db
+- Manufactures wire grids, wire mesh, wire forms, wire displays, wire guards, fan guards, fabricated wire assemblies -> db
+- CNC Straight and Cut machines process wire .060 to .375 inches -> /
+- Two CNC Mesh Welders produce flat wire grids up to 48"x144" -> /
+- CNC Jig Transfer Spot Welder for complex flat fabricated wire assemblies -> /
+- In-house tool room with skilled toolmaker -> /
+- Products include light guards, motor mounts, HVAC & fan guards, cable trays, wire mesh & grids, wire baskets, shelves, racks & displays, wire forms & fabricated wire -> /
+- Serves OEMs with fast turn-around quotes -> /
+- Materials: steel and stainless steel wire -> /
+- Domestic production in Ashland, Ohio -> /
+</details>
+
+---
+
+# Progressive Scale & Software Solutions
+
+**Old description:** More than 45 years ago, Progressive Scale was founded as a scale company at a time when scales were transitioning from mechanical to electronic. Since then, we have remained at the forefront of technology advancements and have evolved our business to meet the c
+
+## About
+Progressive Scale & Software Solutions was founded in 1976 in Bethel, Connecticut, at the moment the weighing industry was shifting from mechanical to electronic instruments. The company began as a scale dealer and quickly moved into the space between hardware and data, focusing on what a weight reading should do next — trigger a filler, resolve a count, print a label, or land in a database.
+
+Today the firm operates as a single-source integrator: it specifies Rice Lake, A&D, Digi, Ohaus, and Totalcomp indicators and platforms; programs PLC logic, label formats, and ERP connections; and fields factory-trained technicians for on-site calibration and repair across Connecticut and the Northeast. Its proprietary Windows-based Provision Processing System (PPS) serves meat, poultry, and seafood plants with catch-weight labeling, lot traceability, and QuickBooks integration. More than 5,000 systems have been installed in five countries, supported by a network of 3,000 business partners that include end users and scale dealers worldwide.
+
+The customer base spans discrete manufacturing and protein processing. In manufacturing, the company delivers component counting and kitting, automated fill-to-target, checkweighing with barcode validation, and data collection to ERP, MES, and AS/400 systems. In meat, poultry, and seafood, it provides harvest stations, scale carts, washdown enclosures, and the PPS software for yield tracking and order fulfillment. Named references include PepsiCo, Stanley Black & Decker, Thule, Snake River Farms, United States Surgical (Covidien), a major switch manufacturer, and a fish processor using pay-by-weight stations.
+
+The company says its differentiation lies in eliminating the vendor gap — it sells the scale, writes the controls and data-collection software, and calibrates the installed system, so responsibility for the integration rests with one team. Round-the-clock technician consultation is offered because a stopped line does not wait for business hours.
+
+## Known for
+- Single-source integration: hardware specification, controls programming, and software development from one team
+- 24/7 technician consultation for production-critical systems
+- 5,000+ systems installed across five countries
+- Factory-trained calibration and repair service on Rice Lake and most other brands
+- Proprietary PPS software for meat, poultry, and seafood traceability and catch-weight labeling
+
+## Capabilities
+- Scale systems integration
+- Calibration (on-site)
+- Industrial scale repair
+- Controls programming (PLC logic)
+- ERP/MES/AS400 integration
+- Automation integration (weight as control signal)
+- Counting systems (networked counting scales)
+- Filling systems (adaptive fill-rate learning)
+- Weighing systems (bench, floor, monorail, in-motion)
+- Labeling systems (Zebra label printing, GS1 barcodes)
+- Data collection & reporting (SQL, Crystal Reports)
+- Rice Lake dealer sales & service
+- PPS (Provision Processing System) software for protein processing
+- Catch weight labeling
+- Lot traceability
+- QuickBooks integration
+- Barcode validation
+- Checkweighing with reject
+- Component counting and kitting
+- Automated fill-to-target
+- Harvest station and scale cart deployment
+- Washdown enclosure specification
+- 24/7 technician consultation
+
+## Industries
+- Manufacturing
+- Meat, poultry & seafood processing
+- Food processing
+
+## Equipment
+- Rice Lake indicators and platforms (including 1280)
+- Zebra printers (including ZM400)
+- A&D scales
+- Digi scales
+- Ohaus scales
+- Totalcomp scales
+- Symbol scanners
+- Photo eyes
+- Logic controllers
+- DIN-rail scale interface modules
+- Stainless washdown enclosures
+- Scale carts
+- Harvest stations
+
+## Company details
+- **Company Type:** Installer / service company
+- **Founded:** 1976
+- **Headquarters:** Bethel, Connecticut
+
+<details><summary>Sources</summary>
+
+- Founded 1976 in Bethel, Connecticut -> /about
+- 5,000+ products installed -> /
+- 3,000 business partners -> /about
+- 5 countries -> /about
+- 24/7 technician consultation -> /
+- Trusted by PepsiCo, Stanley Black & Decker, Thule, Snake River Farms -> /
+- Industries: Manufacturing, Meat poultry & seafood processing -> /
+- Equipment: Rice Lake, A&D, Digi, Ohaus, Totalcomp, Zebra printers -> /about
+- Software: PPS (Provision Processing System) -> /about
+- Projects: Automated filling (Greenville, SC), Barcode validation (United States Surgical), Counting & labeling (switch manufacturer), Pay-by-weight (fish processor) -> /
+- Services: Calibration, repair, Rice Lake dealer, controls programming, ERP integration -> /
+- Single-source integration: hardware, software, calibration -> /
+- Headquarters: Bethel, Connecticut -> db
+</details>
+
+---
+
+# Promold Plastics
+
+**Old description:** specializes in custom injection molding and mold making. We have been in business since 1967 serving the Medical, Electronic, Automotive, Industrial and Consumer Industries. We provide our customers with a one-stop solution for all of their custom designed plastic product applications.
+
+## About
+Promold Plastics is headquartered in Portland, Connecticut. The company was founded in 1967 by Riccardo Puglielli, an Italian immigrant who started a one‑man tool and die shop. Now a second‑generation, family‑owned business, it remains privately held.
+
+The firm specializes in custom injection molding and mold making, offering engineering and design review, mold design and fabrication, process qualification, and both short‑run and long‑run production — from as few as five parts up to five million parts annually. Its facility spans more than 40,000 square feet and provides secondary operations such as assembly, packaging, decorating, labeling, sonic welding, pad printing, and hot stamping. Quality assurance includes in‑house first‑article inspection, capability studies, gauge R&R, statistical process control, FMEA, and process validation.
+
+Promold serves the medical device, electronics, automotive, industrial, and consumer‑product sectors. Its customer base ranges from small independent companies working on low‑volume projects to global Fortune 500 corporations running high‑volume programs.
+
+The company says its differentiator is a management philosophy that empowers employees to continuously improve systems and processes, creating more value for customers. It also emphasizes domestic manufacturing, a state‑of‑the‑art inspection lab with advanced statistical quality control, and reliable worldwide shipping.
+
+## Known for
+- Domestic manufacturing with worldwide shipping
+- Advanced statistical quality control and in-house inspection lab
+- Management philosophy focused on continuous improvement
+- One-stop solution from mold design to assembly and packaging
+- Handles runs from 5 to 5 million parts annually
+
+## Capabilities
+- Custom injection molding
+- Mold design and fabrication
+- Engineering and design review for manufacturing
+- Process qualification and validation
+- Short-run and long-run injection molding
+- Secondary operations: assembly, packaging, decorating, labeling, sonic welding, pad printing, hot stamping
+- Quality assurance: first article inspection, capability studies, gauge R&R, statistical process control, FMEA, process validation
+
+## Industries
+- Medical devices
+- Electronics
+- Automotive
+- Industrial
+- Consumer products
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 1967
+- **Ownership:** Family-owned, Privately held, Second-generation
+- **Headquarters:** Portland, Connecticut
+
+<details><summary>Sources</summary>
+
+- Founded in 1967 as a one-man Tool & Die shop by Riccardo Puglielli -> /about
+- Second generation, privately held company -> /about
+- Over 40,000 square feet of manufacturing space -> /about
+- Specializes in close tolerance injection molds and molded components -> /about
+- Serves medical device, electronics, and industrial markets -> /about
+- Headquarters in Portland, Connecticut -> db
+- Founded year 1967 -> db
+- Custom injection molding and mold making -> /
+- Long and short run injection molding from 5 to 5 million parts per year -> /
+- Secondary operations: assembly, packaging, decorating, labeling, sonic welding -> /services
+- Quality assurance: first article inspection, capability studies, gauge R&R, SPC, FMEA, process validation -> /quality
+- Management philosophy empowers people to continually improve systems and processes -> /
+- Domestic manufacturing with worldwide shipping -> /
+- Clients range from small independent companies to global Fortune 500 corporations -> /
+</details>
+
+---
+
+# PurePoint Energy
+
+**Old description:** Founded on the principle that there is a better way to fuel our world, we help businesses, schools, warehouses, agricultural properties, and multi-family affordable housing communities take advantage of clean, reliable energy.
+
+## About
+PurePoint Energy was founded in 2007 in Norwalk, Connecticut, as a locally owned and operated solar energy services company. The firm began with a focus on helping businesses, schools, warehouses, agricultural properties, and multi-family affordable housing communities adopt clean energy.
+
+The company provides turnkey commercial solar photovoltaic installation, battery energy storage systems, and ongoing maintenance services. Its service department handles solar panel cleaning, inspections, repairs, and component replacements for both commercial and residential arrays. PurePoint manages the full project lifecycle, including system design, engineering, permitting, utility interconnection, installation, commissioning, and long-term monitoring. The team includes NABCEP-certified professionals with decades of solar experience.
+
+PurePoint serves clients across commercial, agricultural, non-profit, industrial, multi-family affordable housing, and real estate sectors. Notable projects include Barbour Gardens, Court of St. James, and Meriden Commons. The company operates throughout Connecticut, Massachusetts, Rhode Island, New Hampshire, Vermont, and Westchester County, New York.
+
+PurePoint emphasizes a “Clean, Honest, & Simple” approach, promising clear communication at every stage—from initial consultation through activation and ongoing support. Its turnkey model includes handling all permitting and interconnection paperwork, and its dedicated service department aims to maximize system performance over a 40-year lifespan.
+
+## Known for
+- Turnkey permitting and interconnection management
+- NABCEP-certified installation professionals
+- Multi-state service across New England and New York
+- Dedicated service department for maintenance and repairs
+- Focus on clear communication throughout project lifecycle
+
+## Capabilities
+- Commercial solar PV installation
+- Battery energy storage installation
+- Solar system maintenance and cleaning
+- Solar panel repair and component replacement
+- System design and engineering
+- Permitting and interconnection management
+- Utility coordination
+- Commissioning and activation
+- Residential solar cleaning and inspection
+- Real estate solar inspections
+
+## Industries
+- Commercial
+- Agricultural
+- Non-profit
+- Industrial
+- Multi-family affordable housing
+- Real estate
+- Education
+- Warehousing
+
+## Certifications
+- NABCEP
+
+## Company details
+- **Company Type:** Installer / service company
+- **Founded:** 2007
+- **Ownership:** Locally owned and operated
+- **Headquarters:** Norwalk, Connecticut
+
+<details><summary>Sources</summary>
+
+- Founded 2007 -> db
+- Headquarters Norwalk, CT -> db
+- Services: commercial solar installation, energy storage, maintenance, residential service -> page /
+- Industries served: commercial, agricultural, non-profit, industrial, multi-family affordable housing, real estate -> page /
+- NABCEP-certified professionals -> page /
+- Service area: CT, MA, RI, NH, VT, Westchester NY -> page /
+- Projects: Barbour Gardens, Court of St. James, Meriden Commons -> page /
+- Turnkey permitting and interconnection -> page /
+- Locally owned and operated since 2007 -> page /
+</details>
+
+---
+
+# Putnam Medical Corporation
+
+**Old description:** Always focused on innovation and working closely with physicians, Bill received over 40 patents, and developed and commercialized many new products for the Interventional Radiology and Oncology marketplace. Bill currently serves as Vice President of Development at Putnam Medical's sister company, Putnam Plastics. Prior technical positions include NAMIC, American Edwards Laboratories, and Sheridan Catheter. Bill also founded and operated Protube Extrusion which produced tubing for the Medical Device industry.
+
+## About
+Putnam Medical Corporation is based in Dayville, Connecticut, where it operates a 20,000-square-foot facility. The company was co-founded by Ryan Dandeneau, who serves as CEO, and is part of the Putnam family's medical device portfolio that includes sister company Putnam Plastics, a technology leader for over 40 years. The business is family-owned and focuses on development and manufacturing of complete medical device assemblies.
+
+The company provides end-to-end contract manufacturing for finished medical devices, covering development through packaging and sterilization preparation. Its capabilities include precision machining, supply chain management for extruded and molded components, assembly and process qualification (OQ/PQ), functional testing of products and packaging, and pilot production runs. Operations are housed in a 20,000-square-foot facility in northeastern Connecticut that includes a 4,500-square-foot ISO 13485:2016-certified Class 7 cleanroom and a 1,200-square-foot Class 7 R&D cleanroom, all meeting FDA Quality System Regulations.
+
+Putnam Medical serves the medical device industry, with a focus on interventional radiology and oncology applications. Its customers are typically medical device companies seeking a single-source partner for complete catheter and device assemblies, from design through validated production and packaging.
+
+The company emphasizes accelerated speed to market by simplifying the supply chain and reducing lead times, leveraging decades of extrusion, engineering, and finishing expertise from its sister company Putnam Plastics to deliver fully finished medical devices under one roof.
+
+## Known for
+- Accelerated speed to market through a simplified supply chain and reduced lead time
+- Single-source partner for finished medical device assemblies from development to packaging
+- FDA registered contract manufacturer with ISO 13485:2016 certified Class 7 cleanrooms
+- Decades of extrusion and catheter expertise via sister company Putnam Plastics
+- In-house pilot production and process validation (OQ/PQ)
+
+## Capabilities
+- Precision machining
+- Supply chain management for extrusion and molded components
+- Assembly and process qualification (OQ/PQ)
+- Product and packaging functional testing
+- Pilot production
+- Contract manufacturing of finished medical devices
+- Medical device development
+
+## Industries
+- Medical devices
+- Interventional radiology
+- Oncology
+
+## Certifications
+- ISO 13485:2016
+- FDA Quality System Regulations
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Ownership:** Family-owned
+- **Headquarters:** Dayville, Connecticut
+
+<details><summary>Sources</summary>
+
+- Headquarters: Dayville, CT -> db hq_city, hq_state_label; /about-us address
+- Facility size: 20,000 sq ft -> /about-us
+- Cleanroom sizes: 4,500 sq ft Class 7, 1,200 sq ft Class 7 R&D -> /about-us
+- ISO 13485:2016 compliant -> /about-us; db certifications
+- FDA registered contract manufacturer -> homepage
+- Co-founded by Ryan Dandeneau -> /about-us
+- William Appling President, over 40 patents -> /about-us; db description
+- Sister company Putnam Plastics over 40 years -> /about-us
+- Capabilities: precision machining, supply chain management, assembly qualification, functional testing, pilot production -> db capabilities, products
+- Industries: medical device, interventional radiology, oncology -> db description; /about-us
+- Accelerated speed to market through simplified supply chain -> /about-us
+- Family-owned (Putnam family) -> /about-us
+</details>
+
+---
+
+# Quality Custom Molding LLC
+
+**Old description:** Since 2019 Quality Custom Molding is owned by the Volmer family. Operations are located in Hermann, Missouri serving customers throughout the United States and abroad. For heavy or thin walls, complex geometries, and value-added secondary and finishing operations, count on Quality Custom Molding.
+
+## About
+Quality Custom Molding was founded in 2019 in Hermann, Missouri, and has been owned by the Volmer family since its inception. The family-run operation serves customers across the United States and internationally from its Midwestern location.
+
+The company specializes in custom blow molding, offering product design support, packaging, assembly, and secondary finishing operations. In 2023 it moved into a 97,000-square-foot facility equipped with accumulator head machines and continuous extrusion shuttle style blow molding machines capable of producing parts weighing 0.5 to 50 pounds. Robotic handling and automated trimming equipment ensure consistent quality, and the shop can run customer-owned molds or coordinate new tooling development with domestic and international mold makers.
+
+Quality Custom Molding serves a diverse set of industries including healthcare, construction, consumer goods, original equipment manufacturers, agriculture, sporting goods, lighting, toys, and maritime markets.
+
+The company emphasizes its identity as a small, family-run business that cultivates strong partnerships with chosen clients, committing to daily incremental improvements and adherence to customer-established quality standards.
+
+## Known for
+- Family-owned, partnership-focused approach
+- 97,000 sq ft facility with accumulator head and continuous extrusion shuttle blow molding machines
+- Robotic automation and trimming for consistent quality
+- In-house support for existing molds and new tooling development
+
+## Capabilities
+- Custom blow molding
+- Product design support
+- Packaging
+- Assembly
+- Secondary operations
+- Finishing operations
+- Mold tooling development
+- Automated trimming
+- Robotic handling
+
+## Industries
+- Healthcare
+- Construction
+- Consumer goods
+- OEM
+- Agricultural
+- Sporting goods
+- Lighting
+- Toy
+- Maritime
+
+## Equipment
+- Accumulator head blow molding machines
+- Continuous extrusion shuttle blow molding machines
+- Robots
+- Trimming equipment
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 2019
+- **Ownership:** Family-owned
+- **Headquarters:** Hermann, Missouri
+
+<details><summary>Sources</summary>
+
+- Founded in 2019 -> db
+- Headquarters in Hermann, Missouri -> db
+- Owned by Volmer family since 2019 -> /
+- 97,000-square-foot facility (2023) -> /
+- Accumulator head machines and continuous extrusion shuttle style blow molding machines -> /
+- Product weight range 0.5 to 50 lbs -> /
+- Robots and trimming equipment for automated consistent quality -> /
+- Services: product design support, packaging, assembly, secondary and finishing operations -> /
+- Can use existing molds or develop new tooling with American/international mold makers -> /
+- Industries served: healthcare, construction, consumer goods, OEM, agricultural, sporting goods, lighting, toy, maritime -> /
+- Mission: family-run business cultivating strong partnerships, commitment to quality standards, gradual daily improvements -> /
+</details>
+
+---

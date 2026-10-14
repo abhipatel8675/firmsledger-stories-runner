@@ -7,7 +7,7 @@ Harvest Food Group was founded in 1999 in Naperville, Illinois, as a family-run 
 
 The company operates a 184,000-square-foot SQF-certified and USDA-inspected manufacturing and distribution facility equipped with seven vertical form-fill-seal lines, one horizontal form-fill line, a bulk line, a bowl line, and two cup lines. It supplies IQF ingredients — vegetables, fruits, grains, legumes, herbs, and proteins — and provides co-manufacturing, private label, foodservice, and branded products under the Path of Life label, supported by a culinary-driven R&D team for custom formulations.
 
-Harvest Food Group serves leading retailers, brands, and foodservice providers across North America across retail, foodservice, private label, and co-manufacturing segments.
+Harvest Food Group serves retailers, brands, and foodservice providers across North America across retail, foodservice, private label, and co-manufacturing segments.
 
 The company emphasizes uncompromising food safety and quality, collaborative customer-first relationships, culinary innovation driven by consumer insight, and scalable solutions. Its mission centers on delivering premium products at fair prices with unparalleled service, backed by global sourcing and logistics that anticipate supply chain disruptions.
 

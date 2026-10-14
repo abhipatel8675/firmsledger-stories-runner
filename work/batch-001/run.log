@@ -1,19 +1,278 @@
-fetched p0016-raw.json 10 / 10
-ok   OE Solar 
-ok   Ohio Steel Industriesok   Orion Plastics  
-ok   P & M Apparel 
-
-ok   PICO Manufacturing Sales Corporation ok   PREMOLD CORP 
-
-ok   PB Metal ok   Pacific Packaging Products, Inc. - South 
-ok   Pacific Auto Company 
-
-ok   Obertron Electronic Manufacturing Inc 
-PAGE DONE p0016-profiles.json
-ALL-DONE errors 0 of 10
+refetched site text for p0000-raw.json
+refetched site text for p0001-raw.json
+refetched site text for p0002-raw.json
+refetched site text for p0003-raw.json
+refetched site text for p0004-raw.json
+refetched site text for p0005-raw.json
+refetched site text for p0006-raw.json
+refetched site text for p0007-raw.json
+refetched site text for p0008-raw.json
+refetched site text for p0009-raw.json
+refetched site text for p0010-raw.json
+refetched site text for p0011-raw.json
+refetched site text for p0012-raw.json
+refetched site text for p0013-raw.json
+refetched site text for p0014-raw.json
+refetched site text for p0015-raw.json
+refetched site text for p0016-raw.json
+refetched site text for p0017-raw.json
+refetched site text for p0018-raw.json
+refetched site text for p0019-raw.json
+ALL-DONE errors 0 of 0
 collected 200
-Traceback (most recent call last):
-  File "/home/runner/work/firmsledger-stories-runner/firmsledger-stories-runner/dev/company-stories/fix.py", line 51, in <module>
-    src={r['slug']:norm(json.dumps(r)) for r in json.load(open(f.replace('-profiles','-deep')))}
-                                                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-FileNotFoundError: [Errno 2] No such file or directory: 'work/batch-001//pages/p0000-deep.json'
+1939-sheet-metal-products-llc | certs ['Class A HVAC License']
+3d-plastics-inc | nums ['8.3']
+accumedix-inc | wording/address
+arkansas-poly-printing | nums ['1970']
+bergen-cable-technology | wording/address
+bunty-llc | wording/address
+c-s-plastics-llc | wording/address
+c-m-manufacturing | nums ['9100:2016']
+cwr-hawaii-inc | nums ['750,000']
+calumet-electronics | certs ['ISO 9001:2015 (NSF ISR)']
+conneaut-industries-inc | wording/address
+cork-medical | wording/address
+county-auto-salvage-llc | nums ['24']
+craftech-plastic-injection-molding-mold-making-tooling-and-engineering-for-medical-and-hi-technology-in-usa-mexico | wording/address
+curtis-industries | wording/address
+custom-service-plastics-inc-corporate-headquarters | wording/address
+dalsin-industries-inc | nums ['14001:2015']
+decotex-inc | wording/address
+delaware-manufacturing | wording/address
+direct-components | nums ['160']
+disposable-instrument-co | nums ['100']
+fabarc-steel-supply-inc | nums ['1.0']
+fabweld-co | certs ['Veteran-Owned Small Business (VOSB)', 'Woman-Owned Small Business (WOSB)']
+grand-traverse-plastics-corp-gtp | nums ['20']
+green-sun-energy-services-llc | nums ['300']
+harvest-food-group | wording/address
+keystone-electronics-inc | nums ['30']
+koller-craft-plastic-products | nums ['53', '345,000', '205']
+landmark-manufacturing-corporation | nums ['9001:2015']
+linear-manufactureing | certs ['Apple MFi (Made for iPhone/iPad/iPod)']
+m-plastics-inc | nums ['9001:2015', '22000'] ; certs ['ISO 9001:2015', 'FSSC 22000', 'ISO 22000:2018', 'AIB Certified']
+mp-components-inc | wording/address
+masimo-semiconductor | wording/address
+mccann-fabrication | nums ['15']
+metro-medical-equipment-supply-inc | wording/address
+montana-global-health | certs ['cGMP (21 CFR Part 111)']
+moses-lake-industries | wording/address
+motherlode-co-packing-corporate-offices | certs ['FDA registered']
+msi-mold-builders | nums ['67,000']
+neaton-auto-products-manufacturing | wording/address
+oe-solar | nums ['2,100'] ; certs ['Woman‑Owned Small Business (WOSB)']
+pegasus-foods-inc | wording/address
+plastics-advanced-research | wording/address
+polymer-packaging-inc | wording/address
+praxis-packaging | certs ['DEA Registration (Schedules III-V)', 'NIOSH Approval']
+premier-restaurant-equipment-solutions | wording/address
+ready-foods | nums ['200,000']
+collected 200
+done 1939-sheet-metal-products-llc 1 
+done 1x-technologies 0 
+done 3d-plastics-inc 0 
+done 425-fabrication-division-and-mobile-welding 0 
+done adco-international-plastics 2 
+done aim-processing 0 
+done acadiana-textiles-supply 0 
+done accumedix-inc 4 
+done acme-wire-products-co-inc 1 
+done aero-tech-manufacturing-inc 0 
+done agap-plastics-inc 0 
+done akron-steel-fabricators-inc 0 
+done alaska-packaging 1 
+done alcam-metal-distributors 0 
+done all-american-woodworks-cst 0 
+done alliance-wire-cable 2 
+done american-microsemiconductor-inc 0 
+done american-pasteurization-company 0 
+done arcadia-mfg-group 0 
+done arkansas-poly-printing 1 
+done atsumi-car-equipment-inc 1 
+done available-plastics-inc 0 
+done ayanna-plastics-engineering-inc 2 
+done badger-wire 0 
+done banner-medical 1 
+done basic-wire-cable 0 
+done bergen-cable-technology 0 
+done best-manufacturing-inc 0 
+done blue-ridge-industries 0 
+done bon-foods 0 
+done brevan-electronics 0 
+done brightlife-electric-nv 2 
+done brookfield-wire-llc 1 
+done bunty-llc 0 
+done business-furniture-co 1 
+done c-s-plastics-llc 2 
+done c-c-mouldings-inc 0 
+done c-m-manufacturing 1 
+RETRY monarch-metal-manufacturing Expecting ',' delimiter: line 1 column 40 (char 39)
+RETRY c-k-plasticsthermoforming-georgia The read operation timed out
+done c-k-plasticsthermoforming-georgia 2 
+done cm-fabricating 2 
+done cwr-hawaii-inc 0 
+done cable-associates 0 
+done cable-depot-inc 0 
+done calumet-electronics 0 
+done chicago-plastic-systems 0 
+done cirtronics-corporation 0 
+done claremont-foods 0 
+done classic-packaging-company 1 
+done classic-sheet-metal 2 
+done commercial-cabling-company 0 
+done commercial-creamery-co 1 
+done component-plastics-inc 0 
+done conneaut-industries-inc 0 
+done control-cable-inc 0 
+done cork-medical 0 
+done county-auto-salvage-llc 1 
+done craftech-plastic-injection-molding-mold-making-tooling-and-engineering-for-medical-and-hi-technology-in-usa-mexico 0 
+done curtis-industries 1 
+done custom-clothing-manufacturer-fashion-atlas-group 0 
+done custom-coils 0 
+done custom-service-plastics-inc-corporate-headquarters 2 
+done dca-manufacturing 0 
+done dalsin-industries-inc 0 
+done de-perini-metal-fabricators 0 
+done decotex-inc 2 
+done delaware-manufacturing 2 
+done desco-electronics-inc 0 
+done design-plastics-inc 0 
+done direct-components 0 
+done disposable-instrument-co 0 
+done distinctive-plastics 2 
+done drmet-biomedical-and-laser-services 1 
+done eci-llc 0 
+done ecm-electri-cord-manufacturing-co 2 
+done eeea-inc 0 
+done ems-solutions 0 
+done epd-electronic-parts-distributors-company 2 
+done edscha-automotive-michigan 2 
+done electrex-inc 1 
+done electro-soft-inc 2 
+done electronic-design-and-manufacturing-edm-a-pivot-international-company 1 
+done electronic-technologies-international-inc 0 
+done elite-biomedical-solutions 0 
+done engineered-medical-systems 0 
+done equipment-solutions-inc 6 
+done evertech 0 
+done f-m-corporation 2 
+done fabarc-steel-supply-inc 1 
+done fabweld-co 0 
+done flexible-circuit-technologies 0 
+done franklin-precision-industry 1 
+done freshpoint-connecticut 1 
+done garan-electronics-manufacturers 1 
+done gill-design-inc 0 
+done grand-rapids-controls-co-llc 0 
+done grand-traverse-plastics-corp-gtp 0 
+done green-light-manufacturing 0 
+done green-sun-energy-services-llc 2 
+done guardian-electric-manufacturing-co 0 
+done hlc-industries-inc 0 
+done harvest-food-group 1 
+done heale-manufacturing-co 2 
+done hireli-llc 1 
+done hollywood-woodwork 0 
+done horton-inc 0 
+done house-of-apparel 0 
+done hub-manufacturing 0 
+done illini-wire-works-inc 1 
+done imagineering-inc 1 
+done indigo-metal-fabrication-llc 4 
+done industrial-automation-and-communications-systems-a-division-of-triangle-electric-inc 2 
+done industrial-electronics-services-llc 1 
+done jh-larson-company 1 
+done journey-electronics-corp 0 
+done kbc-electronics 0 
+done ksm-metal-fabrication 0 
+done kt-plastics-inc 0 
+done kaiser-manufacturing-co 0 
+done kapstone-medical-llc 0 
+done keco-inc 0 
+done keystone-electronics-inc 1 
+done kimball-electronics-inc 0 
+done kinney-industries-inc 3 
+done kloeckner-metals-nashville-american-fabricators-inc 1 
+done koller-craft-plastic-products 1 
+done komplete-packaging-service 6 
+done landmark-manufacturing-corporation 1 
+done linear-manufactureing 3 
+done lone-star-circuits 1 
+done m-plastics-inc 7 
+done mars-engineering-company 1 
+done manar-tennplasco-plastic-injection-molder-contract-manufacturer 1 
+done mbs-fabrications 3 
+done meca-electronics-inc 0 
+done mos-plastics-inc 1 
+done mp-components-inc 2 
+done masimo-semiconductor 1 
+done matrix-plastic-products 0 
+done mccann-fabrication 0 
+done mega-electronics 1 
+done melink-solar 0 
+done metal-works-corporation 2 
+done metro-medical-equipment-supply-inc 0 
+done micron-corporation 0 
+done mid-america-wire-cable 0 
+done midcon-cables-company 1 
+done millennium-circuits-limited 0 
+done mills-industries 2 
+done mission-plastics-of-ar-inc 0 
+done modern-welding-company-of-kentucky 1 
+done monarch-metal-manufacturing 2 
+done montana-global-health 0 
+done moses-lake-industries 1 
+done motherlode-co-packing-corporate-offices 2 
+done msi-mold-builders 0 
+done nep-custom-cable-assembly-manufacturer 0 
+done neaton-auto-products-manufacturing 1 
+done new-england-fabricated-metals 0 
+done nuway-electronics 1 
+done o-donnell-metal-fabricators-inc 0 
+done oe-solar 0 
+done obertron-electronic-manufacturing-inc 0 
+done ohio-steel-industries 0 
+done orion-plastics 0 
+done p-m-apparel 0 
+done pb-metal 1 
+done pico-manufacturing-sales-corporation 0 
+done premold-corp 1 
+done pacific-auto-company 1 
+done pacific-packaging-products-inc-south 1 
+done peace-river-packing-company 1 
+done pegasus-foods-inc 0 
+done pennsylvania-transformer-technology-llc 1 
+done phase-electronics 1 
+done plasticology-llc 1 
+done plastics-advanced-research 3 
+done polar-wire-products 0 
+done polymer-packaging-inc 0 
+done polyzen-llc 0 
+done powell-industries 0 
+done praxis-packaging 0 
+done precision-cable-assemblies-inc-pca 0 
+done precision-molding-machining-reno-sparks-nv 2 
+done precision-textiles 0 
+done premier-restaurant-equipment-solutions 0 
+done premiere-packaging-inc 0 
+done prime-molding-technologies-inc 0 
+done production-science-inc 3 
+done proterial-cable-america-inc 3 
+done protoline-inc 0 
+done proxy-manufacturing-ma-electronic-manufacturing-services-pcb-assembly-service 0 
+RETRY puritan-medical-products expected string or bytes-like object, got 'NoneType'
+done puritan-medical-products 0 
+done qxmedical-llc 0 
+done quality-snack-foods-inc 1 
+done quantum-plastics 0 
+done rapport-inc 1 
+done ready-foods 0 
+done redstar-worldwide 0 
+done reliance-packaging 1 
+done richmond-auto-parts-technology-inc 0 
+ALL-DONE errors 0
+clean 198 | sentences removed 127 | needs review 2 | check errors 0
+REVIEW komplete-packaging-service too short after fact-check (41 words)
+REVIEW m-plastics-inc too short after fact-check (32 words)
+sql parts 3 stories 198

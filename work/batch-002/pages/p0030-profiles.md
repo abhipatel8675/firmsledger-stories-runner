@@ -1,0 +1,596 @@
+# Advanced Underground Utility Locating
+
+**Old description:** in order to have public utilities marked before you dig, but public utility companies will only locate the facilities they own(commonly only up to the meter) This leaves the remaining private utilities unmarked.
+
+## About
+Advanced Underground Utility Locating Inc. was founded in 2002 in Bend, Oregon. The company operates offices throughout Oregon and Washington and is licensed to serve California and Idaho.
+
+The firm specializes in private and public utility locating, offering complete utility detection and mapping, advanced utility locating, electrical fault locating, water leak detection, ground penetrating radar scanning, and floor or interior concrete scanning. Technicians use GPS data collection to produce high‑resolution utility maps exportable in KML, KMZ, SHP, and PDF formats, and they also employ drone photogrammetry for geo‑locked aerial imagery.
+
+Services are aimed at residential, commercial, and industrial clients, including homeowners planning small digs, contractors managing large‑scale construction, and facility managers overseeing complex underground infrastructure. The company notes that its mapping helps avoid costly replanning and damage during excavation.
+
+AUUL differentiates itself with the claim “If We Can’t Find It… It Can’t Be Found,” emphasizing its ability to locate utilities that other providers miss through the latest GPR technology and comprehensive mapping that includes depth, pipe size, and material identification.
+
+## Known for
+- GPS coordinates integrated into utility markings and high‑resolution maps
+- Drone satellite photogrammetry for geo‑locked aerial site imagery
+- Latest Ground Penetrating Radar technology to detect utilities others miss
+- No job too big or too small, with technicians across Oregon, Washington, California, and Idaho
+- Maps exportable in KML, KMZ, SHP, and PDF formats
+
+## Capabilities
+- Complete Utility Detection and Mapping
+- Advanced Utility Locating
+- Electrical Fault Locating
+- Water Leak Detection
+- Ground Penetrating Radar (GPR) Scanning
+- Floor/Interior Concrete Scanning
+- GPS Utility Data Collection
+- Reference Mapping
+- Drone Satellite Photogrammetry
+
+## Industries
+- Residential
+- Commercial
+- Industrial
+- Homeowner
+
+## Equipment
+- Ground Penetrating Radar (GPR) systems
+- Drone photogrammetry platform
+
+## Company details
+- **Company Type:** Installer / service company
+- **Founded:** 2002
+- **Headquarters:** Bend, Oregon
+
+<details><summary>Sources</summary>
+
+- Founded 2002 -> db
+- Headquarters Bend, Oregon -> db
+- Offices throughout Oregon and Washington, licensed in California and Idaho -> page '/'
+- Completed 61,943 projects -> page '/'
+- Services: Complete Utility Detection and Mapping, Advanced Utility Locating, Electrical Fault Locating, Water Leak Detection, Ground Penetrating Radar, Floor/Interior Scanning -> page '/'
+- GPS utility data collection, high-resolution maps, drone photogrammetry -> page '/services'
+- Reference mapping accuracy within 5ft -> page '/services'
+- Slogan: If We Can't Find It... It Can't Be Found -> page '/'
+- Serves residential, commercial, industrial, homeowner -> page '/services'
+</details>
+
+---
+
+# AdvancedPCB
+
+**Old description:** AdvancedPCB (formerly Advanced Circuits), founded in 1977, is an ISO 9001:2015-certified, ITAR-registered printed circuit board manufacturer with a facility in Aurora, Colorado, offering design, fabrication, and assembly services including quick-turn prototypes and flex and rigid-flex boards.
+
+## About
+AdvancedPCB traces its roots to 1977 when Advanced Printed Circuit Technology (APCT) was founded in Santa Clara, California. The company now operates under the unified AdvancedPCB name following a 2024 merger of APCT, Advanced Circuits, and San Diego PCB Design. Its headquarters are in Aurora, Colorado, with additional manufacturing and engineering sites in Santa Clara, Chandler, Anaheim, Maple Grove, and Orange County.
+
+The company provides end-to-end printed circuit board solutions, including design services, fabrication, and assembly. Its fabrication capabilities span quick-turn prototypes, standard multilayer boards (up to 10 layers), advanced high-density interconnect (HDI) and ultra-HDI designs (up to 40 layers), flex and rigid-flex circuits (1–6 layer flex, 4–22 layer rigid-flex), RF/microwave boards, and heavy-copper constructions. Assembly services cover turnkey, kitted, and partial fulfillment with lead, RoHS, and no-clean solder options, and no minimum volume requirements. Turnaround times range from same-day to four weeks, with manufacturing turns as fast as 24 hours.
+
+AdvancedPCB serves aerospace and defense, telecommunications and networking, medical technologies, industrial and robotics, and data center, networking, and storage markets. Its boards meet IPC Class 2 and Class 3 standards, and the company holds AS9100 quality certification for aerospace programs. Customers include engineers and product teams developing everything from satellite systems and medical devices to cloud infrastructure and robotic controls.
+
+The company emphasizes domestic manufacturing as a differentiator, operating multiple U.S. facilities to protect intellectual property, ensure ITAR compliance, and enable faster collaboration. It also offers a hybrid model with vetted offshore partners for non-ITAR, high-volume production. Free design-for-manufacturability (DFM) checks, proprietary design software (PCB Artist), and a “strive to say yes” service philosophy round out its value proposition.
+
+## Known for
+- Manufacturing turn times as fast as 24 hours
+- No minimum volume on assembly orders
+- Free DFM file checks and proprietary design software (PCB Artist)
+- ITAR-compliant data submission and U.S.-based manufacturing
+- Vendor-managed inventory (VMI) programs and seamless recipe transfer for offshore production
+
+## Capabilities
+- PCB design services (DFM review, impedance calculation, panel utilization, array drawings)
+- PCB fabrication: quick-turn prototypes
+- PCB fabrication: standard multilayer (0-10 layers, FR-4)
+- PCB fabrication: advanced HDI and UHDI (up to 40 layers)
+- PCB fabrication: flex circuits (1-6 layers)
+- PCB fabrication: rigid-flex circuits (4-22 layers, up to 4X HDI lamination cycles)
+- PCB fabrication: RF/microwave boards
+- PCB fabrication: heavy copper multilayer
+- PCB fabrication: custom materials
+- PCB assembly: turnkey, kitted, partial fulfillment
+- PCB assembly: lead, RoHS, no-clean solder
+- Free DFM file check
+- PCB Artist design software
+- Trace width calculator
+- Vendor-managed inventory (VMI)
+- Global offshore manufacturing (non-ITAR)
+- Strip-etch-strip line
+
+## Industries
+- Aerospace & Defense
+- Telecommunications & Networks
+- Medical Technologies
+- Industrial & Robotics
+- Data Centers, Networking & Storage
+
+## Equipment
+- Strip-Etch-Strip Line
+
+## Certifications
+- ISO 9001:2015
+- ITAR
+- AS9100
+- CMMC
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1977
+- **Headquarters:** Aurora, Colorado
+
+<details><summary>Sources</summary>
+
+- Founded 1977 as APCT in Santa Clara -> /about-us
+- Headquarters Aurora, Colorado -> /about-us
+- Multiple U.S. facilities (Santa Clara, Chandler, Anaheim, Maple Grove, Orange County) -> /about-us
+- ISO 9001:2015 certified, ITAR registered -> db, /quality
+- AS9100 quality certification for aerospace -> /
+- CMMC certification achieved -> /
+- Fabrication: quick-turn prototypes, standard multilayer up to 10 layers, HDI/UHDI up to 40 layers, flex 1-6 layers, rigid-flex 4-22 layers, RF/microwave, heavy copper, custom materials -> /
+- Assembly: turnkey/kitted/partial, lead/RoHS/no-clean solder, no minimum volume -> /
+- Turnaround: as fast as 24 hours, same-day to 4 weeks -> /
+- Industries served: aerospace/defense, telecom/networking, medical, industrial/robotics, data centers -> /
+- Free DFM checks, PCB Artist software, trace width calculator -> /
+- Vendor-managed inventory, offshore manufacturing for non-ITAR -> /
+- Strip-etch-strip line investment -> /
+</details>
+
+---
+
+# AeroParts Manufacturing & Repair, Inc.
+
+**Old description:** is a build-to-print manufacturer of complex sheet metal components and includes drop-hammer metal forming capabilities. Our in-house foundry, heat-treatment and welding are NADCAP and ISO/AS9100 accredited.
+
+## About
+AeroParts Manufacturing & Repair, Inc. operates a 128,000-square-foot facility in Rio Rancho, New Mexico. The company has been providing aircraft component repair and manufacturing services for over 50 years.
+
+As a build-to-print manufacturer, AeroParts produces complex sheet metal components using drop-hammer forming, supported by an in-house foundry, heat-treatment, and welding operations that hold NADCAP and AS9100 accreditation. The company also repairs metal and composite parts such as ducts, plenums, and mufflers, and specializes in restoring ozone converters through its proprietary AeroCLEAN® and AeroCOAT® processes. Additional capabilities include repair of nitrogen generation system components, along with testing and inspection services. AeroParts maintains FAA, EASA, and CAAC repair station certifications and employs over 100 technicians and tradespeople.
+
+The company serves the commercial aviation sector, with a customer base that includes major airlines such as Aero-Mexico, Air France, Alaska Airlines, American Airlines, Asiana Airlines, Boeing, British Airways, China Airlines, Delta TechOps, Hawaiian Airlines, Korean Airlines, Lufthansa, Singapore Airlines, Southwest Airlines, United Airlines, and UPS.
+
+AeroParts emphasizes reducing customer downtime and replacement costs through faster turnaround and lower-cost solutions, a philosophy it calls High Performance. Its proprietary ozone converter restoration processes have a proven track record of more than two decades, extending service life and lowering operating costs. The company also highlights innovative repairs for nitrogen generation system components, offering improved reliability and fast turn times.
+
+## Known for
+- Proprietary AeroCLEAN® and AeroCOAT® processes for ozone converter restoration
+- In-house foundry, heat treatment, and welding with NADCAP accreditation
+- Drop-hammer metal forming for complex sheet metal components
+- FAA, EASA, and CAAC repair station certifications
+- Build-to-print manufacturing of complex sheet metal components
+
+## Capabilities
+- Build-to-print sheet metal manufacturing
+- Drop-hammer metal forming
+- In-house foundry
+- Heat treatment (NADCAP accredited)
+- Welding (NADCAP accredited)
+- Ozone converter repair (AeroCLEAN® process)
+- Ozone converter repair (AeroCOAT® process)
+- Nitrogen generation system component repair
+- Metal and composite component repair
+- Testing and inspection
+- Custom ductwork manufacturing
+
+## Industries
+- Commercial aviation
+- Aerospace
+- Airline MRO
+
+## Certifications
+- AS9100 Rev D
+- NADCAP Heat Treatment
+- NADCAP Weld
+- FAA Repair Station License
+- EASA Repair Station License
+- CAAC Maintenance Organization Certificate
+- ANAC Argentina
+- CAA UK
+- CAAV
+
+## Company details
+- **Company Type:** Manufacturer
+- **Employees:** over 100
+- **Headquarters:** Rio Rancho, New Mexico
+
+<details><summary>Sources</summary>
+
+- Facility size 128,000 sq ft -> /about-us
+- Over 100 employees -> /about-us
+- Over 50 years in business -> /about-us
+- Build-to-print manufacturer of complex sheet metal components -> /
+- Drop-hammer metal forming capabilities -> /
+- In-house foundry, heat treatment, welding NADCAP and ISO/AS9100 accredited -> /
+- Proprietary AeroCLEAN® and AeroCOAT® processes for ozone converters -> /about-us
+- Nitrogen generation system component repair -> /
+- Metal/composite component repair (ducts, plenums, mufflers) -> /about-us
+- FAA, EASA, CAAC repair station certifications -> /quality
+- AS9100 Rev D certification -> /quality
+- NADCAP Heat Treatment accreditation -> /quality
+- NADCAP Weld accreditation -> /quality
+- Customer list includes major airlines -> /
+- Headquarters Rio Rancho, New Mexico -> db
+- LinkedIn URL -> db
+</details>
+
+---
+
+# Aftermarket Parts div of VVG
+
+**Old description:** has been committed to supplying quality parts at competitive prices through our network of distributors in the US, Canada and over 30 countries worldwide. We supply replacement parts compatible with OEM brand equipment like:
+
+## About
+Founded in 1971 in New Bern, North Carolina, the Aftermarket Parts division of Velocity Vehicle Group (VVG) began as a supplier of replacement components for forestry and construction heavy equipment. The division operates as part of VVG, a larger vehicle group, and has grown to serve a global distributor network.
+
+The division distributes aftermarket replacement parts compatible with a wide range of original equipment manufacturers, including Timberjack, John Deere, Tigercat, Barko, Caterpillar, Dana, Eaton, and numerous other brands. It maintains a distribution network spanning the United States, Canada, and more than 30 countries worldwide, supplying parts through independent distributors rather than selling directly to end users.
+
+Primary customers are distributors in the forestry, construction, and heavy-equipment sectors who need cost-effective alternatives to OEM parts. The catalog covers machinery such as Tigercat and Barko forestry equipment, Caterpillar construction machines, Gearmatic and Braden winches, and transmissions from Dana, Clark, Spicer, and Eaton.
+
+The company states its founding commitment was to provide quality parts at competitive prices, a mission reinforced by VVG's core values of Speed, Value, and Trust, which emphasize compliance, ethics, and integrity in every transaction.
+
+## Known for
+- Quality aftermarket parts at competitive prices
+- Global distributor network across US, Canada, and 30+ countries
+- Extensive cross-reference compatibility with major OEM brands
+- Focus on forestry and construction heavy equipment
+
+## Capabilities
+- Aftermarket parts distribution
+- OEM cross-referencing and identification
+- Global logistics and distribution
+- Inventory management for heavy equipment parts
+
+## Industries
+- Forestry
+- Construction
+- Heavy Equipment
+- Industrial Machinery
+
+## Equipment
+- Timberjack
+- John Deere
+- Tigercat
+- Barko
+- Caterpillar
+- Dana
+- Eaton
+- Gearmatic
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Founded:** 1971
+- **Ownership:** Division of Velocity Vehicle Group
+- **Headquarters:** New Bern, North Carolina
+
+<details><summary>Sources</summary>
+
+- Founded in 1971 -> db
+- Headquartered in New Bern, North Carolina -> db
+- Division of Velocity Vehicle Group (VVG) -> page '/'
+- Supplies aftermarket replacement parts for forestry and construction heavy equipment -> page '/'
+- Distributes through network in US, Canada, and 30+ countries -> page '/'
+- Compatible with OEM brands including Timberjack, John Deere, Tigercat, Barko, Caterpillar, Dana, Eaton, etc. -> page '/'
+- Core values of Speed, Value, Trust from VVG -> page '/'
+</details>
+
+---
+
+# Against the Grain Furniture
+
+**Old description:** Against the Grain Custom Furniture (ATG) was founded in 1996 by Yolanda Sandoval in Southern California, quickly gaining a reputation for innovative designs, exceptional quality, and great value. Our passion for craftsmanship has led us to work with amazing brands like Fred Segal, Paramount Pictures, Sony Entertainment, Dreamworks, Gianfranco Ferré, Waldorf Astoria (Hilton Worldwide Holdings), In-N-Out Burger, La Curacao and Lamborghini — along with countless designers who trust us for their custom projects.
+
+## About
+Against the Grain Furniture was founded in 1996 by Yolanda Sandoval in Pomona, California. The company began in Southern California with a focus on innovative designs, exceptional quality, and great value, quickly establishing a reputation for custom craftsmanship.
+
+The shop produces custom, hand-built furniture for both residential and commercial spaces, emphasizing pieces that are made in the USA. While specific facility size and headcount are not disclosed, the operation handles projects ranging from individual home furnishings to large-scale commercial installations.
+
+The client base spans hospitality, entertainment, retail, automotive, and food-service sectors. Notable projects include work for Fred Segal, Paramount Pictures, Sony Entertainment, Dreamworks, Gianfranco Ferré, Waldorf Astoria (Hilton Worldwide Holdings), In-N-Out Burger, La Curacao, and Lamborghini, as well as numerous interior designers who rely on the firm for custom projects.
+
+The company states that its differentiation lies in blending traditional craftsmanship with modern design, delivering warmth, character, and lasting quality. The founding vision centered on innovative design and value, a principle that continues to guide its made-in-USA production.
+
+## Known for
+- Custom hand-built furniture for residential and commercial spaces
+- Made in the USA
+- Serves high-profile brands across entertainment, hospitality, retail, and automotive
+- Founded on innovative design, exceptional quality, and great value
+
+## Capabilities
+- Custom furniture manufacturing
+- Hand-built furniture
+- Commercial furniture production
+- Residential furniture production
+
+## Industries
+- Hospitality
+- Entertainment
+- Retail
+- Automotive
+- Food service
+- Fashion
+- Residential
+- Commercial design
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1996
+- **Headquarters:** Pomona, California
+
+<details><summary>Sources</summary>
+
+- Founded 1996 by Yolanda Sandoval in Southern California -> db
+- Headquarters Pomona, California -> db
+- Custom hand-built furniture for homes and commercial spaces -> /
+- Clients include Fred Segal, Paramount Pictures, Sony Entertainment, Dreamworks, Gianfranco Ferré, Waldorf Astoria, In-N-Out Burger, La Curacao, Lamborghini -> db
+- Made in USA -> /
+- Celebrating 29 years of craftsmanship since 1996 -> /
+</details>
+
+---
+
+# Agile Magnetics (A Standex Electronics Company)
+
+**Old description:** Our certification ensures that we hold ourselves to the highest quality of standards as a manufacturer of custom transformers, inductors, coils, magnetics and other assemblies. We also remain in constant communication with our customers in order to satisfy each of their unique specifications for a project.
+
+## About
+Agile Magnetics operates a 40,000-square-foot ITAR manufacturing center in Concord, New Hampshire. The company has more than 23 years in the magnetics business and functions as a subsidiary of Standex Electronics; no founding year or individual founders are disclosed.
+
+The facility produces custom transformers, inductors, coils, and magnetic assemblies, including high-frequency transformers, power inductors, single- and three-phase transformers, magnet wire coils, air-core and iron-core coils, value-added assemblies, potted assemblies, stand-alone voltage adaptors, integrated PCBs, and enclosures. Every unit is computer tested before shipment, and a staff of engineers manages custom design through manufacturing.
+
+Primary markets include military and defense, aerospace, telecommunications, and off-grid energy production. The company highlights high-performance inductors for military/defense applications and custom magnetic designs for demanding industries.
+
+Agile Magnetics emphasizes extreme delivery reliability, extraordinary repeatability of manufacture, and remarkable responsiveness to inquiries and orders. It holds ISO 9001:2015 and AS9100:2016 certifications and can manufacture products to UL, CUL, VDE, and CE standards.
+
+## Known for
+- Extreme delivery reliability
+- Extraordinary repeatability of manufacture
+- Remarkable responsiveness to inquiries and orders
+- 40,000 sq ft ITAR manufacturing center
+- Every product computer tested prior to delivery
+
+## Capabilities
+- Custom transformer manufacturing
+- Custom inductor manufacturing
+- Coil winding (magnet wire, air core, iron core)
+- Value-added assembly
+- Potted assembly
+- Integrated PCB assembly
+- Enclosure fabrication
+- Stand-alone voltage adaptor manufacturing
+- High frequency power design
+- Single-phase transformer manufacturing
+- Three-phase transformer manufacturing
+- Custom magnetics design
+- Computer testing of finished units
+- 50/60/400 Hz power product manufacturing
+
+## Industries
+- Military & Defense
+- Aerospace
+- Telecommunications
+- Off-Grid Energy Production
+
+## Certifications
+- ISO 9001:2015
+- AS9100:2016
+- UL Recognized
+
+## Company details
+- **Company Type:** Manufacturer
+- **Ownership:** Subsidiary of Standex Electronics
+- **Headquarters:** Concord, New Hampshire
+
+<details><summary>Sources</summary>
+
+- Location: Concord, NH -> db
+- Facility: 40,000 sq ft ITAR manufacturing center -> /about-us
+- Parent company: Standex Electronics -> /about-us
+- Experience: more than 23 years in magnetics business -> /about-us
+- Products: custom transformers, inductors, coils, assemblies, voltage adaptors, integrated PCBs, enclosures -> /
+- Testing: every product computer tested prior to delivery -> /about-us
+- Certifications: ISO 9001:2015, AS9100:2016, UL Recognized -> /about-us, /
+- Standards: can manufacture to UL, CUL, VDE, CE -> /about-us
+- Industries: military/defense, aerospace, telecommunications, off-grid energy -> /about-us, /
+- Differentiators: extreme delivery reliability, extraordinary repeatability, remarkable responsiveness -> /
+</details>
+
+---
+
+# Alabama Power James H. Miller Generating Plant
+
+_skipped: not enough facts_
+
+# Alabama Steel Supply
+
+**Old description:** Yes, the walls and trim are painted with a long-lasting, factory-applied paint made by a leading manufacturer of heavy-duty, high-performance protective coatings for steel building components. A wide selection of colors is available.
+
+## About
+Alabama Steel Supply operates from Montgomery, Alabama, where it was founded in 1912 by Romanian immigrant Jacob Labovitz as a scrap metal, fur, and paper business. Four generations later, the company remains family-run under President Barry Labovitz on the same West Boulevard site.
+
+The firm manufactures metal roofing and siding panels (26 and 29 gauge), pre-engineered buildings, pole barn kits, barndominium packages, carports, and structural steel components such as purlins, girts, trusses, plate, tubing, and surplus pipe. Production runs on the company's own roll-forming lines with in-house engineering, allowing panels to be cut to exact job dimensions and trim fabricated to match. The plant ships to all 50 states; pole barn packages typically leave in about two weeks, while pre-engineered buildings average 10–12 weeks.
+
+Customers include contractors, farmers, facility managers, and homeowners across construction, agriculture, commercial, and residential sectors. The company also works with distributors and suppliers regionally. Projects range from clear-span warehouses and equipment covers to single sheets of roofing sold over the counter.
+
+Alabama Steel Supply differentiates itself by controlling the full chain—rolling, engineering, and fabricating in-house rather than brokering third-party panels. The same sales representative handles quoting, project management, and post-delivery support, and the company emphasizes straight answers even when a lower-cost option fits better.
+
+## Known for
+- Manufacturer, not a middleman: rolls own panels on in-house roll-forming lines
+- In-house engineering produces stamped, code-ready plans
+- Panels cut to exact job dimensions, not catalog SKUs
+- Same sales rep before, during, and after the sale
+- Support after delivery: install questions answered by the same team
+
+## Capabilities
+- Roll-forming (metal roofing/siding panels)
+- In-house engineering (stamped, code-ready plans)
+- Metal fabrication (trim, structural components)
+- Cut-to-length panel processing
+- Pre-engineered building design and manufacturing
+- Pole barn kit manufacturing
+- Barndominium package manufacturing
+- Carport and cover manufacturing
+- Structural steel fabrication (purlins, girts, trusses, plate, tubing, pipe)
+- Factory-applied protective coatings
+- Nationwide shipping
+- Counter pickup
+- Project management
+- Sales consulting (code, load, lead time advice)
+
+## Industries
+- Construction
+- Agriculture
+- Commercial
+- Residential
+
+## Equipment
+- Roll-forming lines
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1912
+- **Ownership:** Family-owned
+- **Headquarters:** Montgomery, Alabama
+
+<details><summary>Sources</summary>
+
+- Founded 1912 by Jacob Labovitz -> /about-us
+- Family-owned, four generations -> /about-us
+- Headquarters Montgomery, AL -> /about-us
+- Manufactures metal roofing, siding, pre-engineered buildings, pole barns, barndominiums, carports, structural steel components -> /
+- Own roll-forming lines and in-house engineering -> /
+- Panels cut to exact dimensions -> /
+- 26 and 29 gauge steel with long-life coatings -> /
+- Ships to 50 states -> /
+- Lead times: pole barns ~2 weeks, pre-engineered buildings 10-12 weeks -> /
+- Customers: contractors, farmers, facility managers, homeowners -> /
+- Same sales rep before, during, after sale -> /
+- Support after delivery -> /
+- Barry Labovitz President -> /about-us
+- Location 2 West Blvd, Montgomery, AL 36108 -> /about-us
+- Founded year 1912 -> db
+- Headquarters city Montgomery -> db
+- Headquarters state Alabama -> db
+</details>
+
+---
+
+# Alamance Foods, Inc.
+
+**Old description:** Our team of dedicated food scientists can work with you to develop new formulas, fine tune flavors, and scale up for production. We utilize advanced equipment and an established network of suppliers to quickly generate a range of custom formulations.
+
+## About
+Alamance Foods, Inc. is headquartered in Burlington, North Carolina. The company traces its roots to 1890 when R.W. Scott began selling butter and cream, and Alamance Foods was formally established in 1959 after becoming a co-manufacturer for a major aerosol whipped cream brand. It operates as a veteran-owned, family-led business.
+
+The company produces a range of food and beverage products including whipped cream, freezer pops, bottled water, and drinkable yogurt. It operates three manufacturing facilities in Burlington and Graham, North Carolina, with over 1,000 employees. Capabilities span custom formulation, flavor exploration, product development, food science, pilot plant testing, large-scale production, packaging, and logistics, with an annual capacity of tens of millions of cases.
+
+Alamance Foods serves foodservice operators, consumer packaged goods companies, retailers, convenience retailers, and restaurant brands. Its own brand portfolio includes Classic Cream®, Coffee Toppers®, Fun Pops®, Fun Pops Drinks®, Groovy Glacier®, Whipt®, and Triton Water®. The company also provides co-packing and end-to-end private label solutions.
+
+The firm emphasizes its veteran-owned, family-led values of integrity, quality, and service. Its AFI Labs center focuses on flavor exploration and food science to turn concepts into market-ready products, combining heritage with innovation.
+
+## Known for
+- World's largest aerosol production capacity
+- AFI Labs dedicated flavor exploration and food science hub
+- End-to-end private label solutions with fewer handoffs
+- Dedicated pilot plant testing for scale-up
+- Veteran-owned, family-led culture
+
+## Capabilities
+- Custom formulation
+- Flavor exploration
+- Product development
+- Food science & innovation
+- Pilot plant testing
+- Customized kitchen environments
+- Large-scale production
+- Packaging
+- Logistics
+- Co-packing
+- Private label solutions
+- R&D
+- Innovation
+
+## Industries
+- Food and beverage
+- Dairy
+- Aerosol whipped cream
+- Freezer pops
+- Bottled water
+- Drinkable yogurt
+- Foodservice
+- Consumer packaged goods
+- Retail
+- Convenience retail
+- Restaurant brands
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1959
+- **Employees:** 1000
+- **Ownership:** Veteran-owned, Family-led
+- **Headquarters:** Burlington, North Carolina
+
+<details><summary>Sources</summary>
+
+- Founded 1959 -> db
+- Headquarters Burlington, NC -> db
+- Employee count 1000 -> db
+- Veteran-owned and Family-led -> /about
+- Three facilities in Burlington and Graham, NC -> /capabilities
+- Tens of millions of cases annual capacity -> /capabilities
+- Brands: Classic Cream, Coffee Toppers, Fun Pops, etc. -> /
+- AFI Labs R&D center -> /capabilities
+- Expansion $36.6M for drinkable yogurt -> /about
+- Co-manufacturer for major aerosol whipped cream brand -> /about
+- Custom formulation, pilot plant, co-packing services -> /capabilities
+</details>
+
+---
+
+# Alameda Food Service
+
+**Old description:** Since 1977, Alameda Food Service has remained committed to delivering superior quality, exceptional value, and a reliable experience that is just as strong today as day one. As a family-owned distributor, our mission is to provide exceptional service that helps enhance the success of our customers.
+
+## About
+Alameda Food Service, a family-owned wholesale restaurant food supplier, was founded in 1977 and is headquartered in Las Vegas, Nevada. The company began as a distributor committed to delivering quality and value to food service operators across the western United States.
+
+The company operates a full-service distribution center in Las Vegas, providing product delivery and inventory management with temperature-controlled cold storage. Its logistics network supplies fresh meats, produce, dairy, seafood, grocery items, tortillas, oils, paper disposables, janitorial supplies, and frozen foods to professional kitchens.
+
+Alameda serves restaurants and food service establishments throughout Nevada — including Reno, Carson City, Las Vegas, and Laughlin — as well as St. George and Cedar City in Utah, and Bullhead City and Kingman in Arizona. Its customer base consists of independent and chain restaurants seeking reliable, on-time delivery.
+
+The company emphasizes service and reliability as its founding principles, stating it is "built on service, driven by reliability." Its mission is to enhance customer success through consistent product quality and dependable distribution.
+
+## Known for
+- Family-owned and operated since 1977
+- Full-service distribution with dedicated product delivery and cold storage
+- Serves restaurants across Nevada, Arizona, and Utah
+- Temperature-controlled storage for product quality
+- Reliable logistics network for on-time delivery
+
+## Capabilities
+- Food distribution
+- Product delivery
+- Cold storage
+- Inventory management
+- Wholesale food supply
+
+## Industries
+- Restaurants
+- Food service
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Founded:** 1977
+- **Ownership:** Family-owned
+- **Headquarters:** Las Vegas, Nevada
+
+<details><summary>Sources</summary>
+
+- Founded 1977 -> db
+- Family-owned -> home page
+- Headquarters Las Vegas, NV -> db
+- Distribution center at 3131 Builders Ave, Las Vegas -> home page
+- Services: Product Delivery, Inventory & Cold Storage -> home page
+- Service areas: Nevada, Arizona, Utah -> home page
+- Product categories: Meats, Produce, Dairy, Seafood, etc. -> home page
+- LinkedIn URL -> db
+</details>
+
+---

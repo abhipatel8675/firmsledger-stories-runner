@@ -1,0 +1,678 @@
+# P Plus Packaging
+
+**Old description:** P Plus Packaging is focused on high quality, durable food service packaging products. We are a full service distribution company serving the food service industry since 2011. P Plus carries a variety of products including all major brands.
+
+## About
+P Plus Packaging operates from Chantilly, Virginia, where it was founded in 2011. The company does not disclose its ownership structure or founder names in the available sources. It began as a full‑service distribution business focused on the food‑service packaging market.
+
+The company distributes a broad line of food‑service packaging, including kraft bowls, polypropylene lids, clamshells, cups, cutlery, bags, napkins, pizza boxes, and catering platters. It carries all major brands and organizes inventory into more than twenty collections such as biodegradable and eco‑friendly items, microwaveable containers, and portion cups. Operational services include same‑day pickup for phone or online orders and free local delivery on orders over $100.
+
+Customers are primarily restaurants, takeout operations, catering companies, and other food‑service businesses that need disposable packaging supplies. The product range is tailored for both front‑of‑house and back‑of‑house use, from deli containers and soufflé cups to trash liners and POS paper.
+
+P Plus Packaging states its focus is on high‑quality, durable food‑service packaging products and on providing a full‑service distribution experience that includes rapid fulfillment and brand‑agnostic sourcing.
+
+## Known for
+- Same‑day pickup for phone or online orders
+- Free local delivery on orders over $100
+- Carries all major packaging brands
+- Full‑service distribution model
+
+## Capabilities
+- Food‑service packaging distribution
+- Same‑day order pickup
+- Local delivery
+- Online ordering with chat support
+
+## Industries
+- Food service
+- Restaurant
+- Catering
+- Takeout
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Founded:** 2011
+- **Headquarters:** Chantilly, Virginia
+
+<details><summary>Sources</summary>
+
+- Founded 2011 -> db
+- Headquarters Chantilly, Virginia -> db
+- Full‑service distribution company -> /
+- Serves food‑service industry since 2011 -> /
+- Carries all major brands -> /
+- Same‑day pickup -> /
+- Free local delivery on orders over $100 -> /
+- Product collections listed (biodegradable, catering, cups, cutlery, etc.) -> /
+- Materials: kraft, polypropylene from product descriptions -> /
+</details>
+
+---
+
+# P&M Steel Company
+
+**Old description:** We have been servicing the regional area around Sioux Falls, South Dakota since 1970. Our full staff of experienced engineers, estimators, detailers, and fabricators are here to get your next project done right!
+
+## About
+P&M Steel Company operates from Sioux Falls, South Dakota, where it was founded in 1970 by Louis Profilet. The business began in the back of a machine shed in the city's industrial park and has since grown to a 50,000‑square‑foot office and production facility on 7.5 acres. Ownership is structured around an employee‑owner model, and leadership passed to Louis's son, Tate Profilet, in 1998.
+
+The company provides full‑service structural and miscellaneous steel fabrication, including contract fabrication, stair and railing design, material processing and procurement, project management, BIM modeling, design‑build and design‑assist, estimating, connection design, and detailing for structural steel, miscellaneous steel, and rebar. It also maintains a limited distribution center stocking joist and deck, roof deck, straight and custom‑bent rebar, and anchor bolts, with available finishes such as galvanized, painted, powder coat, and primer.
+
+P&M Steel serves customers within a 100‑mile radius of Sioux Falls across sectors that include religious and cultural facilities, residential and apartment complexes, education, healthcare, government, office and commercial buildings, and industrial and manufacturing plants.
+
+The firm's stated mission is to deliver excellent service to customers and the community through dedicated employee‑owners who rise to any challenge. Its early reputation was built on supplying rebar, structural steel, beams, columns, stairs, and rails to a growing regional construction market.
+
+## Known for
+- Employee-owned structure
+- Full-service fabrication and detailing under one roof
+- 50,000 sq ft production facility on 7.5 acres
+- Serves 100-mile radius from Sioux Falls
+- In-house BIM modeling and design-assist capabilities
+
+## Capabilities
+- Custom Steel Fabrication
+- Contract Fabrication
+- Stair & Railing Design
+- Material Processing
+- Material Procurement
+- Project Management
+- BIM Modeling
+- Design-Build / Design-Assist
+- Budget Pricing / Estimating
+- Available Finishes (Galvanized, Painted, Powder Coat, Primer)
+- Connection Design
+- Structural Steel Detailing
+- Miscellaneous Steel Detailing
+- Rebar Detailing
+- Joist & Deck Supply
+- Roof Deck Supply
+- Rebar – Straight & Custom Bent
+- Anchor Bolt Supply
+
+## Industries
+- Religious & Cultural
+- Residential & Apartments
+- Education
+- Healthcare
+- Government
+- Office & Commercial Buildings
+- Industrial & Manufacturing
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1970
+- **Ownership:** Employee-owned
+- **Headquarters:** Sioux Falls, South Dakota
+
+<details><summary>Sources</summary>
+
+- Founded 1970 by Louis Profilet in Sioux Falls, SD -> /about-us
+- Employee-owned ownership model -> /about-us
+- Facility: 50,000 sq ft on 7.5 acres -> /about-us
+- Serves 100-mile radius from Sioux Falls -> /about-us
+- Services: custom steel fabrication, contract fabrication, stair & railing design, material processing, procurement, project management, BIM modeling, design-build/design-assist, estimating, finishes, connection design, detailing -> /services
+- Industries served: religious & cultural, residential & apartments, education, healthcare, government, office & commercial, industrial & manufacturing -> /
+- Products: joist & deck, roof deck, rebar (straight & custom bent), anchor bolt -> /
+- Leadership: Tate Profilet took over in 1998 -> /about-us
+- Mission: excellent service through dedicated employee-owners -> /about-us
+</details>
+
+---
+
+# PAVmed
+
+**Old description:** PAVmed, a diversified medical technology company, was co-founded in 2014 by accomplished cardiothoracic surgeons Lishan Aklog, M.D., Chairman and Chief Executive Officer of PAVmed; and Brian DeGuzman, M.D., Chief Compliance & Technology Officer of PAVmed; along with Michael Glennon, an experienced medical device executive.
+
+## About
+PAVmed was founded in 2014 in New York, New York by cardiothoracic surgeons Lishan Aklog, M.D. and Brian DeGuzman, M.D., along with medical device executive Michael Glennon. The company began as a diversified medical technology venture with an imperative to innovate.
+
+PAVmed operates through a shared-services business model, providing enabling functions across its subsidiaries. Its portfolio includes Lucid Diagnostics, which offers the EsoGuard test for detecting esophageal precancer and cancer, and Veris Health, which delivers a digital health platform for remote patient monitoring and personalized cancer care. The company focuses on commercializing medical devices, diagnostics, and digital health technologies.
+
+The company serves healthcare systems, clinicians, and patients across the medical technology sector. Concrete examples include partnerships with Florida Digestive Health Specialists for EsoGuard mobile testing events and the San Antonio Fire Department for firefighter cancer screening. Veris Health participates in the CancerX public-private partnership alongside Moffitt Cancer Center and the Digital Medicine Society.
+
+PAVmed was started to improve patient care and save lives through disruptive medical technology, leveraging a shared-services model to achieve economies of scale and rapidly deploy resources across its businesses.
+
+## Known for
+- Shared-services model for economies of scale and rapid resource deployment
+- First and only diagnostic test for esophageal precancer and cancer (EsoGuard)
+- Digital health platform for remote patient monitoring and personalized cancer care
+- Commercial-stage diversified portfolio across device, diagnostics, and digital health
+
+## Capabilities
+- Medical device development
+- Diagnostic assay development
+- Digital health platform development
+- Remote patient monitoring services
+- Shared-services operational support
+
+## Industries
+- Medical technology
+- Diagnostics
+- Digital health
+- Healthcare systems
+- Cancer care
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 2014
+- **Headquarters:** New York, New York
+
+<details><summary>Sources</summary>
+
+- Founded 2014 in New York, NY by Lishan Aklog, Brian DeGuzman, Michael Glennon -> db
+- Shared-services business model -> page '/'
+- Subsidiaries: Lucid Diagnostics (EsoGuard test) and Veris Health (digital health platform) -> page '/'
+- Partnerships with Florida Digestive Health Specialists and San Antonio Fire Department -> page '/'
+- Veris Health founding member of CancerX -> page '/'
+- Mission to improve patient care and save lives -> page '/'
+</details>
+
+---
+
+# PCB Prime, Inc.
+
+**Old description:** PCB Prime, Inc. is a printed circuit board manufacturer based in Aurora, Colorado, with over 20 years in the electronics business, focused on consistent quality, dependable lead times, and responsive service.
+
+## About
+PCB Prime, Inc. operates from Aurora, Colorado, drawing on decades of experience in the printed circuit board fabrication and assembly industry. The company does not disclose a specific founding year or ownership structure, but describes itself as the culmination of extensive industry experience aimed at delivering consistent quality and dependable lead times.
+
+The company provides rigid PCB fabrication up to 42 layers using materials such as FR4, aluminum, Rogers, and Nelco, with capabilities including controlled impedance, blind and buried vias (HDI), via-in-pad, and Class II/III compliance. It also offers PCB assembly services — surface mount, through-hole, BGA, fine-pitch placement, X-ray inspection, and functional testing — along with flex, rigid-flex, stencils, cables, full box builds, and engineering support. All manufacturing is performed through a qualified network of partner facilities that are ISO 9001:2015 and UL certified, RoHS, REACH, and conflict-mineral compliant. Order volumes range from a single piece to one million pieces, with production lead times as short as two business days.
+
+PCB Prime serves contract electronics assemblers — identified as its largest customer group — as well as hobbyists, students, and large corporations seeking prototype or production quantities. Its prototype program offers fixed pricing for 2- to 8-layer boards with lead times of six to eleven days.
+
+The company emphasizes several differentiators: no tooling or test charges on bare boards, a single point of contact from quote to shipment, a diversified partner network to mitigate production risk, sales engineers with a minimum of 15 years' industry experience, and a commitment to availability and flexibility in scheduling and invoicing.
+
+## Known for
+- No tooling or test charges on bare boards
+- Single point of contact from quote to shipment
+- Diversified manufacturing partner network for risk mitigation
+- Sales engineers with minimum 15 years industry experience
+- Quick-turn prototypes shipped in as little as 2 business days
+
+## Capabilities
+- Rigid PCB fabrication (up to 42 layers)
+- Controlled impedance
+- Blind and buried vias (HDI)
+- Via in pad / active pad
+- Class II and Class III compliance
+- PCB assembly (SMT, through-hole, BGA, fine pitch)
+- X-ray inspection
+- Functional testing
+- Flex PCB fabrication
+- Rigid-flex PCB fabrication
+- Stencil manufacturing
+- Cable assembly
+- Full box build
+- Engineering services
+- Turnkey, kitted, and consigned assembly
+- Lead-free and leaded assembly
+- Prototype and production volumes (1 to 1,000,000 pieces)
+
+## Industries
+- Contract electronics assembly
+- Electronics manufacturing
+- Prototype development
+- Hobbyist and education markets
+
+## Certifications
+- ISO 9001:2015
+- UL certified
+- RoHS compliant
+- REACH compliant
+- Conflict Mineral compliant
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Headquarters:** Aurora, Colorado
+
+<details><summary>Sources</summary>
+
+- Headquarters: Aurora, Colorado -> db
+- Business description: printed circuit board manufacturer with over 20 years experience -> db
+- Rigid PCB capabilities: up to 42 layers, FR4, Aluminum, Rogers, Nelco, controlled impedance, blind/buried vias, via in pad, Class II/III -> /
+- PCB Assembly services: SMT, thru-hole, BGA, fine pitch, X-ray, functional testing, turnkey/kitted/consigned -> /
+- Other services: Flex, Rigid-Flex, Stencils, Cables, Full Box Builds, Engineering Services -> /
+- Prototype service pricing and lead times: 2-layer 6 days, 4-layer 7 days, 6-layer 10 days, 8-layer 11 days -> /
+- Volume range: 1 piece to 1,000,000 pieces -> /
+- Lead time: as little as 2 business days for production -> /
+- Certifications: ISO 9001:2015, UL, RoHS, REACH, Conflict Mineral compliant -> /about
+- Manufacturing model: uses qualified partner factories, all ISO 9001:2015 and UL certified -> /about
+- Key differentiators: no tooling/test charges, single point of contact, diversified partners, experienced staff (15+ years), availability, flexibility -> /about
+- Customer types: Contract Electronics Assemblers, hobbyists, students, corporations -> /about
+- Materials: FR4, Aluminum, Rogers, Nelco, exotic laminates -> /
+- No hidden fees, no tooling charges, free electrical testing -> /
+</details>
+
+---
+
+# PCE Inc.
+
+**Old description:** Founded in 1985, our humble entrance into the plastics manufacturing business, specifically injection mold manufactured products was as a small molder with an in-house engineering room and tool room. We trace our product debut to the design and manufacturing of one of the first vaginal applicator. Today, our plastic pharmaceutical applicators are used in a wide range of treatments in both prescription and over-the-counter markets, and we’ve expanded into the design and production of custom and proprietary thermoplastic injection-molded products for a variety of pharmaceuticals, animal health, food packaging, sporting goods, and other custom products.
+
+## About
+PCE Inc. is headquartered in Lincoln, Nebraska. The business traces its roots to 1985 when it began as a small injection molder with an in-house engineering and tool room, producing one of the first vaginal applicators. In 1993, Sam Featherston and a group of outside investors founded PCE Inc. in its current form; Featherston remains CEO and is active in daily operations. The company later divested its Geist Global data-center division in 2018 to focus entirely on plastics.
+
+Today PCE operates through two manufacturing subsidiaries: HTI Plastics and Lincoln Plastics. Together they provide extrusion blow molding, custom profile extrusion, and injection molding, supported by design, engineering, project management, and secondary operations. HTI Plastics runs a facility with 24 Krauss Maffei injection molding machines ranging from 55 to 1,800 tons, while Lincoln Plastics specializes in plastic extrusion profiles. All three manufacturing sites are ISO 9001 registered, and HTI Plastics holds FDA approval and ISO 13485 certification.
+
+The company serves agriculture, food, pharmaceutical, sporting goods, animal health, and food packaging markets. Its pharmaceutical applicators are used in both prescription and over-the-counter treatments, and it produces custom thermoplastic injection-molded components for a variety of proprietary and custom applications.
+
+PCE emphasizes growth through acquisition and complementary product development, continuous investment in the latest plastics manufacturing technology, and employee training backed by modern facilities and equipment to maximize quality output.
+
+## Known for
+- Growth via acquisition and complementary product development
+- Continuous investment in latest plastics manufacturing technology
+- Employee training and facility investment to maximize capabilities
+- ISO 9001 registered manufacturing facilities
+- HTI Plastics FDA approved and ISO 13485 certified
+
+## Capabilities
+- Extrusion blow molding
+- Custom profile extrusion
+- Injection molding
+- Design
+- Engineering
+- Project management
+- Secondary operations
+- Plastic extrusion profiles
+
+## Industries
+- Agriculture
+- Food
+- Pharmaceuticals
+- Sporting goods
+- Animal health
+- Food packaging
+
+## Equipment
+- 24 Krauss Maffei injection molding machines (55 ton to 1,800 ton)
+
+## Certifications
+- ISO 9001
+- ISO 13485
+- FDA approved
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1985
+- **Headquarters:** Lincoln, Nebraska
+
+<details><summary>Sources</summary>
+
+- Founded in 1985 -> db
+- Founded in 1993 by Sam Featherston and outside investors -> /about
+- Headquarters Lincoln, Nebraska -> db
+- Parent company of HTI Plastics and Lincoln Plastics -> /
+- ISO 9001 registered facilities -> /about
+- HTI Plastics FDA approved and ISO 13485 certified -> /about
+- 24 Krauss Maffei injection molding machines 55-1800 ton -> /
+- Extrusion blow molding, custom profile extrusion, injection molding capabilities -> /about
+- Industries served: agriculture, food, pharmaceutical, sporting goods -> /
+- Pharmaceutical applicators for prescription and OTC markets -> db
+- Animal health, food packaging, sporting goods custom products -> db
+- Sold Geist Global Division in 2018 -> /about
+- Growth, Technology, Employees differentiators -> /about
+</details>
+
+---
+
+# PEECO
+
+**Old description:** Philadelphia Electrical Equipment Company (PEECO) specializes in premium quality switchgear and power control systems that can be manufactured to meet the spec of any power control project. PEECO can deliver exactly what you need whether it's brand new gear for a new infrastructure project, retrofitted gear for integration with older facility systems, or expansions for previous projects. Customer satisfaction, product quality, and optimal lead times are our top priority.
+
+## About
+Philadelphia Electrical Equipment Company (PEECO) was established in 1981 by founder and chairman Robert Guarini, P.E., in Aston Township, Pennsylvania, a suburb of Philadelphia. Originally a global provider of generators and power control systems, the company has since narrowed its focus to the design and manufacture of medium- and low-voltage switchgear and automated power control systems.
+
+Operating from a 64,000-square-foot facility on three acres, PEECO produces custom switchgear, power control systems, and SCADA solutions for new infrastructure, retrofits, and expansions. The shop also delivers a full suite of field services including maintenance programs, integration and retrofitting, plant commissioning, on-site startup, load bank testing, and consulting engineering for specification writing and utility proposals.
+
+PEECO serves healthcare, pharmaceutical, government, education, alternative fuel, transportation, utility, and hospitality sectors. Its installed base includes Verizon, AT&T, Chemours, Harvard University, Universal Studios, SEPTA, Merck, Sanofi, the U.S. Army and Navy, Goya Foods, Boeing, Longwood Gardens, Amtrak, and numerous Veterans Affairs medical centers.
+
+The company cites meticulous attention to detail and optimal lead times as its primary differentiators, emphasizing that its facility’s access to air, sea, road, and rail transport supports rapid delivery of large-scale projects.
+
+## Known for
+- Meticulous attention to detail and optimal lead times
+- 64,000 sq ft facility with multi-modal transport access (air, sea, road, rail)
+- Full-service maintenance and retrofitting for all makes and models
+- Consulting engineering for specification writing and utility proposals
+
+## Capabilities
+- Low voltage switchgear manufacturing
+- Medium voltage switchgear manufacturing
+- Power control systems manufacturing
+- SCADA systems integration
+- Field site service and commissioning
+- Preventive maintenance programs
+- Integration and retrofitting of existing power systems
+- Consulting engineering (specification writing, utility proposals, bid packages)
+- Load bank testing (up to 2,000 kW)
+- Load bank rentals (2,000 kW mobile)
+- Cogeneration and combined heat and power (CHP) systems
+- Clean energy solutions (landfill, photovoltaic, wind, CHP)
+- Emergency services for installed equipment
+- Plant commissioning and on-site startup
+- System operation training
+
+## Industries
+- Healthcare
+- Pharmaceuticals
+- Government
+- Education
+- Alternative Fuel
+- Transportation
+- Utility
+- Hospitality
+
+## Certifications
+- ISO 9001
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1981
+- **Headquarters:** Aston Township, Pennsylvania
+
+<details><summary>Sources</summary>
+
+- Founded in 1981 by Robert Guarini, P.E. -> /about
+- Headquarters in Aston Township, Pennsylvania -> db, /about
+- 64,000 sq ft facility on three acres -> /about
+- Manufactures low and medium voltage switchgear, power control systems, SCADA -> /
+- Services: maintenance, integration/retrofitting, field site service, consulting engineering, clean energy solutions, load bank rentals, cogeneration/CHP -> /services
+- Industries served: healthcare, pharmaceuticals, government, education, alternative fuel, transportation, utility, hospitality -> /about
+- Customers include Verizon, AT&T, Chemours, Harvard University, Universal Studios, SEPTA, Merck, Sanofi, US Army, US Navy, Goya Foods, Boeing, Longwood Gardens, AMTRAK, etc. -> /about
+- Certification: ISO9001 -> db
+- Differentiators: meticulous attention to detail, optimal lead times, multi-modal transport access -> /about
+- CHP solutions since the 1980s -> /services
+- 2,000 kW mobile load bank rental -> /services
+- Emergency services for previously purchased equipment -> /services
+</details>
+
+---
+
+# PLASTEEL, A Plastic Engineering Company
+
+**Old description:** Plasteel is a Woman-Owned Small Business who is proudly ISO9001 and AS9100 certified. We provide precision CNC machining of plastic and metal components, state of the art plastic fabrication, and lean/5S shadowboards for tool control. We support Aerospace, Defense, Semiconductor, Medical, and many other industries.
+
+## About
+Plasteel, a Plastic Engineering Company, operates from Tempe, Arizona. Founded as a woman-owned small business, the company holds ISO 9001:2015 and AS9100 Rev D certifications. It specializes in precision CNC machining of both plastic and metal components, plastic fabrication, and lean/5S shadowboards for tool control.
+
+The 13,200-square-foot facility houses a range of equipment including 5-axis Mazak machining centers, HAAS vertical mills, Doosan turning centers with live tooling and sub-spindles, and large-format Anderson America and C.R. Onsrud CNC routers. With a staff of 50-plus, the shop handles CNC milling, turning, routing, plastic fabrication, FOD tool control, and custom shadowboard and Creform assembly services. Injection molding and vacuum forming are sourced through partner locations.
+
+Plasteel serves aerospace, defense, semiconductor, and medical industries, producing components such as cleanroom fixtures, chemical tanks, water enclosures, and retail displays. The company is ITAR registered and participates in GIDEP, supporting customers with NAICS codes covering aerospace manufacturing, semiconductor machinery, and medical device production.
+
+The company emphasizes quality, 5-axis capability, combined plastic and metal machining, fabrication expertise, and foreign object damage (FOD) control as key differentiators. Its mission focuses on partnership with customers, employees, and the community, aiming to become a regionally recognized brand in machining, fabrication, and lean tool control products.
+
+## Known for
+- ISO 9001:2015 and AS9100 Rev D certified quality system
+- 5-axis CNC machining for complex plastic and metal parts
+- In-house plastic fabrication and FOD tool control solutions
+- ITAR registered and GIDEP participant
+- Woman-owned small business with 50+ employees
+
+## Capabilities
+- CNC milling (5-axis and 3-axis)
+- CNC turning with live tooling and sub-spindle
+- CNC routing (large format)
+- Plastic fabrication
+- FOD tool control
+- Lean/5S shadowboard manufacturing
+- SKB case integration
+- Creform assembly
+- Inspection (CMM, optical comparators, profilometry, microscopy)
+- Precision machining of plastic and metal components
+
+## Industries
+- Aerospace
+- Defense
+- Semiconductor
+- Medical
+
+## Equipment
+- Mazak VC-500a 5-axis
+- Mazak Variaxis C-600 5-axis
+- HAAS VF6
+- HAAS VF4
+- Kent KVR-4020A
+- Bridgeport manual mill with power feed and DRO
+- ATrump manual mill with power feed and DRO
+- Mazak Quick Turn 350MY turning center
+- Doosan Puma 2100SY turning center with sub-spindle Y-axis
+- Doosan Lynx 220LM lathes
+- Doosan Puma GT2100M lathe
+- Doosan Puma 2240M lathe
+- HAAS SL20T CNC lathe with live tooling
+- HAAS SL30 CNC lathe
+- Hardinge precision tool room lathe
+- Anderson America STRATOS/NEST CNC router 60" x 120"
+- C.R. Onsrud MSeries CNC router 61" x 145"
+- MicroView 3-D Automated Imaging
+- Suburban Tool Masterview Comparator with DRO
+- Mitutoyo PH-3500 Comparator with DRO
+- Tesam Micro-hite 3D CMM
+- Mahr Pocket Surf 3 Digital Profilometer
+- Olympus SZ30 Optical Microscope with illuminator
+
+## Certifications
+- ISO 9001:2015
+- GIDEP
+- ITAR
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Employees:** 50+
+- **Ownership:** Woman-owned small business
+- **Headquarters:** Tempe, Arizona
+
+<details><summary>Sources</summary>
+
+- Woman-owned small business -> /
+- ISO9001:2015 and AS9100 Rev D certified -> /
+- Precision CNC machining of plastic and metal components -> /
+- Plastic fabrication and lean/5S shadowboards -> /
+- Industries: Aerospace, Defense, Semiconductor, Medical -> /
+- Facility: 13,200 sq ft, 50+ employees -> /about-us
+- Equipment: Mazak 5-axis, HAAS, Doosan, Anderson America routers -> /
+- ITAR registered, GIDEP participant -> /about-us
+- CAGE code 58L32 -> /
+- Mission: partnership, regional brand in machining, fabrication, lean tool control -> /about-us
+</details>
+
+---
+
+# PMC Plastic Molded Concepts
+
+**Old description:** We are Plastic Molded Concepts (PMC), one of the few plastic injection molding companies in the world that specializes in molding engineered resins. We specialize in the development of mission-critical components for industries like automation, aerospace and defense, medical, filtration, electronics, and food and beverage. In addition to your part design, we specialize in both pre and post molding operations including overmolding, in-mold decoration, precision CNC machining, plastic welding and more.
+
+## About
+Plastic Molded Concepts (PMC) operates from Eagle, Wisconsin, where it was founded in 1976. The company has spent nearly five decades developing injection molding expertise, focusing on engineered resins for mission-critical components.
+
+PMC specializes in plastic injection molding of engineered resins, offering services that span mold design, consulting, failure analysis, overmolding, insert molding, plastic welding, post-molding operations, in-mold decoration, precision CNC machining, and 3D printing. The company reports having helped customers develop and launch more than 10,000 molded products, supported by in-house Master Molders and state-of-the-art technologies.
+
+The company serves aerospace and defense, medical, filtration, electronics, food and beverage, and automation industries. Its capabilities are tailored for applications requiring complicated part geometry, exotic engineered resins, and tight dimensional tolerances, including insert molding for electronics and medical devices.
+
+PMC differentiates itself as one of the few injection molders specializing in engineered resins, emphasizing its ability to troubleshoot and resolve molding issues that other suppliers cannot. The firm highlights its pre- and post-molding operations and a focus on zero-defect design processes.
+
+## Known for
+- Specializes in molding engineered resins, including exotic grades
+- In-house Master Molders and state-of-the-art technologies
+- Analysis, troubleshooting, and resolution for molding issues other companies failed to solve
+- Pre- and post-molding operations: overmolding, in-mold decoration, precision CNC machining, plastic welding
+- 10,000+ molded products developed and launched for customers
+
+## Capabilities
+- Plastic injection molding
+- Plastic overmolding
+- Insert molding
+- Plastic welding
+- Post-molding operations
+- Mold design
+- Injection molding consulting
+- Failure analysis
+- New product design and development
+- 3D printing
+- In-mold decoration
+- Precision CNC machining
+
+## Industries
+- Aerospace and Defense
+- Medical
+- Filtration
+- Electronics
+- Food and Beverage
+- Automation
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1976
+- **Headquarters:** Eagle, Wisconsin
+
+<details><summary>Sources</summary>
+
+- Founded in 1976 -> db
+- Headquarters in Eagle, Wisconsin -> db
+- Specializes in molding engineered resins -> /
+- Offers plastic injection molding, overmolding, insert molding, plastic welding, post-molding operations, mold design, consulting, failure analysis, 3D printing, in-mold decoration, precision CNC machining -> /
+- Has helped develop and launch 10,000+ molded products -> /
+- Serves aerospace and defense, medical, filtration, electronics, food and beverage, automation industries -> /
+- Differentiates as one of few molders specializing in engineered resins with troubleshooting expertise -> /
+- In-house Master Molders and state-of-the-art technologies -> /
+</details>
+
+---
+
+# POET Bioprocessing - Mitchell
+
+**Old description:** Founded in 1987, we have grown from a single, humble bioprocessing facility in Scotland, South Dakota to the world’s largest producer of biofuel and a global leader in sustainable bioproducts. Today, we are headquartered in Sioux Falls, South Dakota, with 35 bioprocessing facilities across the Midwest, three corporate offices, four terminal locations, and nearly 2,600 team members. Our integrated business model combines research and development with expertise in design and construction, technology, operations, public affairs, and marketing.
+
+## About
+POET Bioprocessing – Mitchell is a bioprocessing facility operated by POET, LLC, headquartered in Sioux Falls, South Dakota. The company was founded in 1987 with a single facility in Scotland, South Dakota, and has since grown to 35 bioprocessing plants across the Midwest. The Mitchell location began startup in December 2006 and employs approximately 50 team members.
+
+The facility processes roughly 27 million bushels of corn annually to produce 86 million gallons of bioethanol, along with a suite of co-products including dried distillers grains, wet distillers grains, distillers corn oil, condensed distillers solubles (syrup), and pelletized feed products. Operations encompass corn milling, fermentation, distillation, dehydration, centrifugation, drying, and pelletizing.
+
+Primary markets include fuel blenders for bioethanol, livestock and poultry feed manufacturers for distillers grains and corn oil, and industrial users such as biodiesel producers, ink and paint formulators. The plant partners with over 30,000 local farmers to secure corn supply and supports rural economies through community impact grants.
+
+POET emphasizes an integrated business model that combines research and development with design, construction, technology, operations, public affairs, and marketing. The company states its mission is to produce American-made, plant-based fuel that reduces dependence on oil while strengthening grain markets across the Corn Belt.
+
+## Known for
+- Integrated R&D, design, construction, technology, operations, and marketing model
+- World’s largest biofuel producer and global leader in sustainable bioproducts
+- Safe, dependable, cost-effective transportation logistics
+- Partnerships with 30,000+ local farmers for reliable corn markets
+- Community impact grants supporting local projects
+
+## Capabilities
+- Corn milling
+- Fermentation
+- Distillation
+- Dehydration
+- Centrifugation
+- Drying (distillers grains)
+- Pelletizing
+- Corn oil extraction
+- Transportation logistics
+- Bioprocessing facility operations
+
+## Industries
+- Biofuel
+- Animal feed
+- Biodiesel
+- Industrial chemicals (inks, paints)
+- Agriculture
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1987
+- **Employees:** 2600
+- **Headquarters:** Mitchell, South Dakota
+
+<details><summary>Sources</summary>
+
+- Founded 1987 -> db
+- Headquarters Sioux Falls, SD -> db
+- 35 bioprocessing facilities -> db
+- 2,600 team members -> db
+- Mitchell facility startup December 2006 -> /
+- Mitchell facility employs ~50 -> /
+- Corn purchased 27M bushels annually -> /
+- Bioethanol production 86M gallons annually -> /
+- Products: bioethanol, dried distillers grains, distillers corn oil, syrup, wet distillers grains, pellets & cubes -> /
+- Industries: biofuel, animal feed, biodiesel, inks, paints -> /
+- Integrated business model description -> db
+- Transportation logistics expertise -> db
+- Partnership with 30,000+ local farmers -> /
+- Community impact grants -> /
+- LinkedIn URL -> db
+</details>
+
+---
+
+# PSPM Plastic System
+
+**Old description:** This is why our policy has always been based on commitment, intelligence and innovation – even in our processes – to reduce consumption and pass on the benefits to our clients. Before the environment became a worldwide issue, we already recycled the water we used, developed and used low energy consumption equipment and air-conditioned our processes to stabilize them and reduce our overheads. Quality and energy savings can co-exist happily.
+
+## About
+PSPM Plastic Systems operates from a facility in Lebanon, Pennsylvania. The company does not publish its founding year or ownership details, but its public messaging highlights a long-standing commitment to sustainable manufacturing—recycling process water, using low-energy equipment, and air-conditioning production areas to stabilize conditions and cut overhead—well before environmental concerns became mainstream.
+
+The company provides injection molding, assembly, and decoration services, including in-mold labeling (IML) and sleeve application. Its production lines are robotized and integrate assembly, encasing, vision inspection, and automated packing. An in-house engineering and design department supports eco-design and tooling development, while a quality laboratory equipped with 3D measurement, a dynamometer, and melt-flow index (MFI) testing backs process control. PSPM emphasizes total traceability through computerized logs and a release procedure for every finished-goods batch.
+
+PSPM serves primarily the pharmaceutical and food industries. Its quality and hygiene management system is based on HACCP principles and holds BRC-IOP certification, while also meeting ISO 9001 and Good Manufacturing Practice (GMP) requirements. The system is recognized and regularly audited by large pharmaceutical and food-industry clients.
+
+The company positions itself on the premise that quality and energy savings can coexist. Its differentiators include early adoption of resource-efficient processes, a HACCP-driven contamination-prevention framework, robotized lines that combine multiple secondary operations, and end-to-end digital traceability.
+
+## Known for
+- Water recycling and low-energy equipment adopted before environmental regulations
+- HACCP-based quality system with BRC-IOP and ISO 9001 certification
+- Robotized lines integrating assembly, vision inspection, and automated packing
+- Total product traceability via computerized control logs
+- Integrated design office offering eco-design services
+
+## Capabilities
+- Injection molding
+- Assembly
+- In-mold labeling (IML)
+- Sleeve decoration
+- Robotized assembly
+- Automated packing
+- Vision inspection
+- Barcode scanning
+- Quality control (HACCP, GMP)
+- Traceability systems
+- Design and engineering
+- Eco-design
+
+## Industries
+- Pharmaceutical
+- Food and beverage
+
+## Equipment
+- 3D measurement equipment
+- Dynamometer
+- Melt flow index (MFI) tester
+- Robotized assembly lines
+- Vision inspection systems
+- Barcode scanners
+
+## Certifications
+- ISO 14001
+- BRC-IOP
+- ISO 9001
+- GMP
+- HACCP
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Lebanon, Pennsylvania
+
+<details><summary>Sources</summary>
+
+- Location: Lebanon, Pennsylvania -> /
+- Sustainable practices: water recycling, low-energy equipment, air-conditioned processes -> db, /
+- Processes: injection molding, assembly, decoration (IML, sleeve) -> /
+- Robotized lines with assembly, encasing, vision control, automated packing -> /
+- Engineering and design department, eco-design -> /
+- Quality system based on HACCP, BRC-IOP certified, meets ISO 9001 and GMP -> /quality
+- Industries served: pharmaceutical and food industry clients -> /quality, industries_served
+- Laboratory equipment: 3D measurement, dynamometer, MFI -> /quality
+- Total traceability via computerized control logs -> /quality
+- Certifications: ISO 14001 -> db
+</details>
+
+---

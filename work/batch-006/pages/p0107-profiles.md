@@ -1,0 +1,678 @@
+# Solar Topps
+
+**Old description:** Based in Phoenix since 2009, our lowest-priced, premium solar energy solutions provide the best value in Solar, Battery Backup and EV Charging options. We’ve helped thousands of Arizonans happily make the switch to solar and we want to do the same for you!
+
+## About
+Solar Topps was founded in 2009 in Phoenix, Arizona, as a family-owned solar and battery installation company. The business began with a focus on providing premium solar energy solutions at the lowest prices, serving homeowners and businesses across Arizona.
+
+The company designs, engineers, installs, and services rooftop, ground-mount, and shade-structure solar systems, along with battery backup and EV charging solutions. All design, engineering, installation, and support are performed in-house by trained professionals—no subcontractors are used. Solar Topps stocks materials locally to enable quick installations and rapid service response, often dispatching technicians within hours. Since inception, the firm has installed over 3.15 million solar panels, integrated more than 1,200 battery backup systems, and helped over 25,000 homeowners go solar, delivering a cumulative $950 million in utility-bill savings.
+
+Solar Topps serves residential and commercial customers throughout Arizona. Its client base includes thousands of homeowners—such as the Heusinkveld, Edlund, Borino, and Singh families—and businesses seeking energy independence. The company maintains working relationships with utilities like APS, city permitting offices, and HOAs to streamline approvals and interconnections.
+
+The company says it was started to prioritize engineering quality, long-term risk mitigation, and service reality—areas where it claims many installers fall short. Its family-owned structure means it answers to customers rather than investors, and its in-house model ensures accountability from design through long-term support. Solar Topps holds an A+ BBB rating and was named EnergySage 2026 Local Installer of the Year in Arizona.
+
+## Known for
+- In-house engineering, installation, and service teams (no subcontractors)
+- Locally stocked materials for quick installs and rapid service response
+- Proactive utility, permitting, and HOA relationships
+- Family-owned with direct customer accountability
+- Engineering-focused, performance-driven system design
+
+## Capabilities
+- Solar PV system design and engineering
+- Rooftop solar installation
+- Ground-mount solar installation
+- Shade structure solar installation
+- Battery backup system installation
+- EV charging station installation
+- Solar panel removal and reinstallation
+- Solar panel removal and disposal/recycling
+- Existing system expansion (adding panels)
+- Solar panel replacement
+- System monitoring and maintenance
+- Permitting and utility interconnection coordination
+- Project management
+- In-house installation (no subcontractors)
+- Rapid service dispatch
+
+## Industries
+- Residential solar
+- Commercial solar
+- Battery energy storage
+- EV charging infrastructure
+
+## Equipment
+- FranklinWH battery systems
+- Enphase microinverters and products
+
+## Company details
+- **Company Type:** Installer / service company
+- **Founded:** 2009
+- **Ownership:** Family-owned
+- **Headquarters:** Phoenix, Arizona
+
+<details><summary>Sources</summary>
+
+- Founded 2009 in Phoenix, Arizona -> db
+- Family-owned, locally owned -> /about-us
+- No subcontractors, in-house teams -> /about-us
+- 3.15+ million panels installed -> /
+- 2.25 million panels installed (alternate figure) -> /about-us
+- 30k+ happy customers -> /
+- 1,200 battery backup systems integrated -> /about-us
+- 25,000 homeowners helped go solar -> /about-us
+- $950 million saved on utility bills -> /about-us
+- $4.1 billion property value raised -> /about-us
+- A+ BBB rated -> /
+- EnergySage 2026 Local Installer of the Year Arizona -> /about-us
+- Works with APS, city permitting offices, HOAs -> /about-us
+- FranklinWH batteries, Enphase products -> /, /about-us
+- Services: new installs, add-ons, battery-only, removal/reinstall, removal/discard, panel replacement, expansion -> /services
+- Service dispatch within hours -> /about-us
+- 90-panel system up in <2 months -> /about-us
+</details>
+
+---
+
+# SolarReviews
+
+**Old description:** Since 2013, our in-house solar experts and engineers have built one of the most accurate solar calculators available. Homeowners can use our solar calculator tool without inputting any personal information, so they can evaluate the economics of installing solar panels on their homes.
+
+## About
+SolarReviews operates from Denver, Colorado, where it was founded in 2013 by Australian entrepreneurs Andy Sendy and Vassie Fitzgerald. The company, owned by Solar Investments Inc., began after the co-founders recognized a disconnect between American consumers and solar installers, setting out to provide resources for researching solar panels, connecting with installers, and getting solar on roofs.
+
+The platform provides a solar cost and savings calculator that requires only a zip code and electricity bill, an unbiased consumer review platform covering U.S. solar companies and equipment, and a matching service that connects homeowners with up to four local installers. The editorial team, with more than 50 years of combined solar industry experience, produces expert rankings and articles cited by outlets such as NPR, CNBC, and Bloomberg. SolarReviews reports having assisted over 1.6 million consumers with their solar journeys.
+
+The service serves two primary audiences: homeowners evaluating residential solar options and solar installation companies seeking qualified leads. Installers can register to receive consumer inquiries filtered by service categories ranging from grid-tied residential systems to battery storage and off-grid installations. The company partners with industry organizations including SEIA, CALSSA, NABCEP, and Solar Energy International.
+
+SolarReviews emphasizes trust, expertise, and privacy as differentiators. Its calculator does not collect personal information, consumers control how many installers contact them, and data can be removed on request. The company states that none of its journalists or editors has a financial relationship with any solar manufacturer, distributor, or installer, and that it drops partners who sell consumer data.
+
+## Known for
+- Calculator requires only zip code and electric bill, no personal information
+- Consumers choose 1–4 installers to be contacted by; data never sold beyond that
+- Consumer data removable on request
+- Editorial independence: no financial ties to solar manufacturers or installers
+- Partners dropped if they sell consumer data
+
+## Capabilities
+- Solar cost and savings calculator
+- Unbiased consumer review platform for solar companies and equipment
+- Installer matching and lead generation (1–4 installers per consumer)
+- Editorial content and expert rankings for solar products
+- Privacy-controlled consumer data handling
+
+## Industries
+- Residential solar
+- Solar installation
+- Solar equipment
+
+## Company details
+- **Company Type:** Other
+- **Founded:** 2013
+- **Ownership:** Solar Investments Inc.
+- **Headquarters:** Denver, Colorado
+
+<details><summary>Sources</summary>
+
+- Founded 2013 -> db
+- Headquarters Denver, Colorado -> db
+- Co-founders Andy Sendy and Vassie Fitzgerald -> /about-us
+- Owner Solar Investments Inc. -> /about-us
+- Helped over 1.6 million consumers -> /about-us
+- Editorial team 50+ years combined experience -> /about-us
+- Partners: SEIA, CALSSA, NABCEP, Solar Energy International -> /about-us
+- Cited by NPR, CNBC, Bloomberg -> /about-us
+- Calculator requires only zip code and electric bill -> /about-us
+- Consumers choose 1-4 installers -> /about-us
+- Data removable on request -> /about-us
+- No financial relationships with solar companies -> /about-us
+- Australian co-founders -> /about-us
+- Mission to make going solar easy -> /about-us
+- Services categories for installers -> /services
+</details>
+
+---
+
+# Solid Stone Fabrics
+
+**Old description:** USA based leading supplier of performance, specialty and novelty fabrics and professional quality Custom Fabric Printing. We specialize in stretch, hologram, sequin, velvet and eco-friendly fabrics among many others. Our customer base is built around the  performance arts, costume, entertainment, fashion and swimwear industries.
+
+## About
+Solid Stone Fabrics was founded in 2003 by David L. Stone Jr. in Martinsville, Virginia, a city once known as the "Sweatshirt Capital of the World." Stone launched the business from his garage, determined to keep textile manufacturing alive in a region that had seen major plant closures. The company moved from a local business incubator to an 18,000-square-foot facility before settling in its current 82,000-square-foot building in 2015.
+
+The operation combines wholesale fabric distribution with a full-service custom printing and cut-and-sew facility. The warehouse stocks more than 90,000 yards of performance, specialty, and novelty fabrics—including stretch, hologram, sequin, velvet, and eco-friendly lines. In-house printing capabilities cover dye sublimation, acid dye for nylon, UV, and latex processes, while a laser cutting department and industrial sewing team produce flags, banners, marching-band uniforms, and home‑décor items such as wallpaper, desk mats, and canvas art.
+
+Customers span the performance‑arts, costume, entertainment, fashion, and swimwear markets, as well as dance and team‑spirit groups, marching bands, theme parks, and interior‑design professionals. The company also supplies home‑décor retailers with finished goods ranging from wall murals to acrylic accessories.
+
+Stone’s original goal was to bring textile printing back to the United States, eliminating the high minimums, long lead times, and questionable chemical processes associated with overseas production. The firm emphasizes low minimums—one yard for stock fabrics, five yards for custom prints—quick turnaround, and clean, domestically produced textiles.
+
+## Known for
+- 1-yard minimum on stock fabrics
+- 5-yard minimum on custom printed fabrics
+- Quick turnaround on custom printing
+- Made-in-USA textile printing
+- Clean sublimation and direct-to-textile processes
+
+## Capabilities
+- Wholesale fabric distribution
+- Custom fabric printing (dye sublimation)
+- Custom fabric printing (acid dye for nylon)
+- UV printing
+- Latex printing
+- Laser fabric cutting
+- Industrial sewing (flags, banners, uniforms)
+- Home décor manufacturing (wallpaper, desk mats, canvas art, etc.)
+- Graphic design services
+- Custom fabric sourcing and blending
+
+## Industries
+- Performance arts
+- Costume
+- Entertainment
+- Fashion
+- Swimwear
+- Dance
+- Team/spirit
+- Active apparel
+- Marching band
+- Theme parks
+- Home décor
+- Interior design
+
+## Equipment
+- UV printer
+- Laser cutting equipment
+- Industrial sewing machines
+- Sublimation printing equipment
+- Acid dye printing equipment
+- Latex printing equipment
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 2003
+- **Headquarters:** Martinsville, Virginia
+
+<details><summary>Sources</summary>
+
+- Founded 2003 by David L. Stone Jr. in Martinsville, VA -> /about
+- Started in garage, moved to incubator, then 18,000 sq ft, then 82,000 sq ft in 2015 -> /about
+- Warehouse stocks over 90,000 yards of fabric -> /about
+- Printing processes: dye sublimation, acid dye, UV, latex -> /services
+- Laser cutting and industrial sewing for flags, banners, uniforms -> /services
+- Home décor manufacturing: wallpaper, desk mats, canvas art, etc. -> /services
+- Industries served: performance arts, costume, entertainment, fashion, swimwear, dance, team/spirit, marching band, theme parks, home décor, interior design -> /about, /services
+- Minimums: 1 yard stock, 5 yards custom printed -> /, /services
+- Mission: bring textile printing back to USA, low minimums, quick turnaround, clean processes -> /about
+- Equipment: UV printer, laser cutting, industrial sewing, sublimation/acid dye/latex printing equipment -> /services
+- Materials: stretch, hologram, sequin, velvet, eco-friendly, nylon/lycra, polyester/spandex, glitter, tulle, mesh, polyester/nylon base fabrics, rigid substrates -> /, /about, /services
+</details>
+
+---
+
+# Sons of Sawdust Supply
+
+**Old description:** Sons of Sawdust is a woodworking business located in Nashville, TN that specializes in selling reclaimed wood, building custom farm tables and furniture, and transforming entire spaces with reclaimed wood. Here is the story of how Sons of Sawdust came to be:
+
+## About
+Sons of Sawdust Supply operates from Nashville, Tennessee, tracing its roots to 1926. The woodworking business began as a reclamation and fabrication shop focused on giving new life to aged lumber, though the founding family or individuals are not named in available records.
+
+The company mills and sells reclaimed wood at a flat rate of $8 per board foot, offering hand-hewn beams sourced from log cabins and custom-milled lath for decorative applications. Its workshop produces made-to-order farm tables, furniture pieces, and full-scale build-outs for bars, restaurants, and hotels. A subscription service called Box of Drops delivers curated reclaimed wood assortments to repeat customers.
+
+Sons of Sawdust serves interior designers, hospitality contractors, and residential clients across the Southeast. Its portfolio includes commercial installations for Nashville-area hospitality venues and custom furniture for private homes. The reclaimed lumber inventory appeals to architects and builders seeking character-rich material for feature walls, mantels, and structural accents.
+
+The business emphasizes the transformation of forgotten cabins and historic structures into functional, sustainable design elements, positioning reclaimed wood as both a material and a narrative for modern spaces.
+
+## Known for
+- Reclaimed wood sold at $8 per board foot
+- Hand-hewn beams salvaged from log cabins
+- Full-service commercial and hospitality build-outs (bars, restaurants, hotels)
+- Box of Drops subscription service for curated reclaimed wood
+- Custom farm table and furniture manufacturing
+
+## Capabilities
+- Reclaimed wood milling and sales
+- Custom farm table fabrication
+- Custom furniture manufacturing
+- Commercial hospitality build-out construction
+- Hand-hewn beam production
+- Decorative lath art fabrication
+- Subscription box fulfillment (Box of Drops)
+
+## Industries
+- Interior design
+- Hospitality (bars, restaurants, hotels)
+- Residential construction
+- Commercial construction
+- Retail lumber
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1926
+- **Headquarters:** Nashville, Tennessee
+
+<details><summary>Sources</summary>
+
+- Founded 1926 -> db
+- Headquarters Nashville, Tennessee -> db
+- Sells reclaimed wood at $8 per board foot -> /
+- Offers hand-hewn beams from log cabins -> /
+- Builds custom farm tables and furniture -> /
+- Provides commercial and hospitality build-outs for bars, restaurants, hotels -> /
+- Operates Box of Drops subscription service -> /
+- Produces Batman Building Reclaimed Lath Art -> /
+</details>
+
+---
+
+# SourceEazy
+
+**Old description:** Founded in 2020, SourceEazy (formerly SourceEazy) was created by our Founder and CEO, Russel Karim. Born in Dhaka, Bangladesh, Russel grew up closely tied to the garment industry. With Bangladesh being the second largest apparel-exporter in the world, Russel witnessed firsthand the negative effects that the industry had on his family and friends.
+
+## About
+SourceEazy was founded in 2020 in Des Moines, Iowa, by Russel Karim, who serves as CEO. Born in Dhaka, Bangladesh, Karim grew up amid the garment industry and later moved to the United States, where he built and exited two technology ventures. That background inspired him to create a platform that would bring software-driven efficiency to the promotional and uniform supply chain.
+
+The company operates an AI-powered sourcing platform that connects distributors, decorators, and brands with a global network of verified manufacturers. Its suite includes a design studio, an automated catalog builder, a merch-store front end, and tools for order management, inventory tracking, and fulfillment. The platform aggregates products from suppliers in Bangladesh, Pakistan, India, Guatemala, Mexico, China, Vietnam, and domestic U.S. sources, offering access to more than 500 print-on-demand items without requiring users to hold inventory.
+
+SourceEazy serves promotional-product distributors, uniform suppliers, corporate-gifting programs, and digital creators who launch branded merch stores. Customers include businesses such as Swag365, Global Swagger, and Merchpath, which use the platform to streamline quoting, sampling, and production tracking. The company reports more than 100 clients worldwide, with team members based in Des Moines and Dhaka providing on-the-ground oversight.
+
+Karim started SourceEazy to remove the layers of intermediaries that complicate sourcing and to advocate for sustainable, compliant manufacturing. The platform screens factories for labor and environmental standards, and its search engine filters suppliers by product type and volume. By automating design-to-delivery workflows, the company aims to let distributors focus on sales rather than supply-chain logistics.
+
+## Known for
+- Free marketplace signup for both distributors and manufacturers
+- AI-powered search that filters verified manufacturers by product and volume
+- Real-time order management and production tracking
+- Access to 500+ print-on-demand products with no inventory requirement
+- Factory compliance screening for labor and environmental standards
+
+## Capabilities
+- AI-powered sourcing
+- Design Studio
+- ProofEazy proofing and catalog technology
+- AI Catalog Builder
+- MerchStore e-commerce and fulfillment automation
+- Automated ordering and inventory control
+- Order fulfillment and shipment tracking
+- Team collaboration tools
+- Customizable products with embellishments and private labeling
+- Phygital solutions
+- Eco-friendly product options
+- Request for Quote (RFQ) management
+- Request for Sample management
+- Supplier verification and compliance screening
+- Automated factory-direct sourcing
+- Print-on-demand (500+ products)
+- Rewards and points-based programs
+- Integration with websites, social media, and marketplaces
+- Branded merch site creation
+- Personalized sales proposals
+- Custom catalog generation
+- Company swag store setup
+- Fundraising site creation
+- Global sourcing from Bangladesh, Pakistan, India, Guatemala, Mexico, China, Vietnam
+- Domestic U.S. sourcing
+- Uniform sourcing
+- Corporate gifting programs
+- Swag bulk ordering
+- Supply chain management
+
+## Industries
+- Promotional products
+- Uniforms
+- Event merchandise
+- Corporate gifting
+- Sports & fitness apparel
+- Streetwear
+- Golf apparel
+- College fan merchandise
+- Employee recognition
+- Eco-friendly apparel
+
+## Company details
+- **Company Type:** Installer / service company
+- **Founded:** 2020
+- **Headquarters:** Des Moines, Iowa
+
+<details><summary>Sources</summary>
+
+- Founded in 2020 -> db
+- Founder and CEO Russel Karim -> db
+- Born in Dhaka, Bangladesh -> db
+- Headquarters in Des Moines, Iowa -> db
+- Team also based in Dhaka, Bangladesh -> /about-us
+- 100+ clients worldwide -> /about-us
+- AI-powered sourcing platform for promotional, uniform & event products -> /about-us
+- Platform includes Design Studio, ProofEazy, AI Catalog Builder, MerchStore -> /about-us
+- Offers automated ordering, inventory control, fulfillment, shipment tracking -> /
+- Sources from Bangladesh, Pakistan, India, Guatemala, Mexico, China, Vietnam, domestic USA -> /about-us
+- Serves distributors, decorators, brands, digital creators -> /about-us
+- Customer examples: Swag365, Global Swagger, Merchpath -> /
+- Free marketplace signup for distributors and manufacturers -> /about-us
+- Robust search mechanism to filter manufacturers -> /about-us
+- Order management and real-time tracking -> /about-us
+- Access to verified suppliers with compliance screening -> /about-us
+- Largest customizable product database in the industry -> /about-us
+- Integrates with websites, social media, marketplaces -> /about-us
+- Builds branded merch sites, sales proposals, catalogs, swag stores, fundraising sites -> /about-us
+- No inventory, no upfront costs -> /
+- Access to 500+ print-on-demand products -> /
+- Rewards and points-based programs -> /
+- Ships 150+ new features every 6 months -> /
+</details>
+
+---
+
+# South Coast Solar
+
+**Old description:** South Coast Solar has been helping clients “go solar” since 2007. Our clients choose us because they demand quality products and professional solar installation, and because we have built a reputation for treating them fairly and honestly.
+
+## About
+South Coast Solar was founded in 2007 in Metairie, Louisiana, as an electrical contractor focused on solar energy and battery storage installations. The company operates additional offices in South Carolina and serves both commercial and residential customers across the region.
+
+The firm installs SunPower solar panels, Tesla Powerwall battery systems, and EV charging stations. Its services cover system design, leak-proof roof flashing, concealed conduit routing, and virtual consultations. Installers are factory-trained and nationally certified electricians, and the company emphasizes professional workmanship and aesthetic integration.
+
+South Coast Solar works with homeowners, businesses, and organizations seeking renewable energy and backup power solutions. Typical projects include rooftop solar arrays for residences, commercial-scale energy storage, and EV charger installations for private and fleet use.
+
+The company distinguishes itself through manufacturer certifications from Tesla and SunPower, a guaranteed leak-proof flashing method, and a commitment to transparent pricing and customer education. It was started to combine quality products with honest, fair treatment of clients.
+
+## Known for
+- Tesla Powerwall and SunPower certified installer
+- Factory-trained, nationally certified electricians
+- Guaranteed leak-proof roof flashing
+- Concealed conduit for clean aesthetics
+- Virtual solar consultations available
+
+## Capabilities
+- Solar panel installation
+- Tesla Powerwall installation
+- SunPower solar panel installation
+- EV charging station installation
+- Electrical contracting
+- System design
+- Leak-proof flashing installation
+- Conduit concealment
+- Virtual solar consultations
+
+## Industries
+- Solar energy
+- Energy storage
+- EV charging installation
+- Residential electrical
+- Commercial electrical
+
+## Certifications
+- Tesla Powerwall Certified Installer
+- SunPower Certified Installer
+- Factory trained installers
+- Nationally certified electricians
+
+## Company details
+- **Company Type:** Installer / service company
+- **Founded:** 2007
+- **Headquarters:** Metairie, Louisiana
+
+<details><summary>Sources</summary>
+
+- Founded 2007 -> db
+- Headquarters Metairie, Louisiana -> db
+- Services: solar panel, Tesla Powerwall, EV charging installation -> page /
+- Certifications: Tesla Powerwall Certified Installer, SunPower Certified Installer -> page /
+- Offices in Louisiana and South Carolina -> page /
+- Differentiators: leak-proof flashing, concealed conduit, virtual consultations -> page /
+- Factory-trained and nationally certified installers -> page /
+</details>
+
+---
+
+# South Electronics
+
+**Old description:** Authorized since 2012, South Electronics is a franchised distributor of electronic components and sourcing provider of Semiconductors. Our 8000 square foot facility is located on the corner of Technology Drive and Westgate Parkway in Dothan, Alabama. Our team is comprised of industry veterans, software developers, logistic experts and passionate account managers excited to create component solutions for our customers while offering the best experience possible. This core belief guides our company path, our partnership with manufacturers, and how we engage with customers.
+
+## About
+South Electronics was established in 2012 in Dothan, Alabama. The company operates an 8,000-square-foot facility at the intersection of Technology Drive and Westgate Parkway. It functions as a franchised distributor of electronic components and a sourcing provider for semiconductors.
+
+The company maintains factory-authorized product lines from non-competing manufacturers, offering components such as connectors, sensor cables, battery products, switches, hardware, and magnetics. Its quality management system is certified to AS9120B, and it participates in the GIDEP program and holds DLA registrations. A team of industry veterans, software developers, logistics specialists, and account managers supports sourcing depth and responsive account management.
+
+South Electronics serves customers in automotive, telecommunications, medical, high-technology, and industrial automation sectors. Its franchised lines cover components such as automotive relays, telecom interfaces, and industrial automation parts, supporting semiconductor-driven supply chains.
+
+The company emphasizes combining franchised lines, sourcing depth, and responsive account management to reduce friction in modern supply chains. It selects non-competitive franchise manufacturers to avoid channel conflict and expands factory-direct options based on customer demand, aiming to grow capacity and technical support as customer needs evolve.
+
+## Known for
+- Factory-authorized product lines from non-competing manufacturers
+- AS9120B-certified quality management system
+- GIDEP participation and DLA registrations
+- Responsive account management with industry veterans and software developers
+- Sourcing depth for semiconductor-driven supply chains
+
+## Capabilities
+- Franchised electronic component distribution
+- Semiconductor sourcing
+- Factory-authorized product line management
+- Quality management per AS9120B
+- GIDEP program participation
+- DLA compliance
+- Supply chain management
+- Account management
+- Inventory management
+
+## Industries
+- Automotive
+- Telecommunications
+- Medical
+- High Technology
+- Industrial Automation
+
+## Certifications
+- AS9120B
+- GIDEP
+- DLA
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Founded:** 2012
+- **Headquarters:** Dothan, Alabama
+
+<details><summary>Sources</summary>
+
+- Founded 2012 -> db
+- Headquarters Dothan, Alabama -> db
+- 8,000 sq ft facility -> /
+- Franchised distributor of electronic components -> /
+- AS9120B quality management system -> /quality
+- GIDEP participation -> /quality
+- DLA registrations -> /quality
+- Industries served: automotive, telecom, medical, high tech, industrial automation -> db
+- Team includes industry veterans, software developers, logistics specialists, account managers -> /
+- Factory-authorized product lines from non-competing manufacturers -> /about-us
+- Non-competitive franchise manufacturers -> /about-us
+- Expands factory-direct options based on customer demand -> /about-us
+</details>
+
+---
+
+# Southbridge Sheet Metal Works
+
+**Old description:** Southbridge Sheet Metal Works, Inc. has been in the business of metal fabrication since 1934. We are located in central Massachusetts and have the knowledge and experience to give you the highest quality products, from sheet metal enclosures to weldments.
+
+## About
+Southbridge Sheet Metal Works, Inc. was founded in 1934 in Sturbridge, Massachusetts, and has remained family-owned since its inception. The company operates from a 50,000-square-foot facility in central Massachusetts.
+
+The shop specializes in custom sheet metal enclosures and structural weldments, providing a complete fabrication workflow from layout and cutting through forming, machining, welding, painting, assembly, and inspection. Capabilities include 2,500-watt laser cutting (4' x 8' with pallet changer), 250-amp plasma and oxy-fuel cutting (10' x 12'), shearing up to 1/4-inch steel, press brakes up to 350 tons, vertical machining centers with 20" x 40" travel and 22 tool holders, CNC drilling and tapping up to 6' x 10', TIG/MIG welding, three paint booths, a coordinate measuring machine, and material handling via cranes up to 15 tons.
+
+Southbridge Sheet Metal Works serves customers needing prototype and production-run metal fabrication with just-in-time delivery. The company works from customer-supplied designs, using 3D CAD/CAM software to translate concepts into finished parts, and ships via its own enclosed trucks.
+
+The business emphasizes quick turnaround on prototypes and production runs, supported by in-house capabilities that span layout through final shipment, and a commitment to customer satisfaction.
+
+## Known for
+- Family-owned since 1934
+- 50,000-square-foot facility with full in-house fabrication
+- Quick-turn prototypes and just-in-time production runs
+- Coordinate measuring machine for quality assurance
+- Own fleet of enclosed trucks for shipping
+
+## Capabilities
+- Laser cutting (2,500 W, 4' x 8')
+- Plasma cutting (250 A, 10' x 12')
+- Oxy-fuel cutting
+- Shearing (up to 1/4" steel x 12')
+- Cut-off sawing (up to 18")
+- Rolling (up to 14 Ga. steel x 5')
+- Press brake forming (up to 350 tons)
+- Vertical machining (20" x 40", 22 tools)
+- CNC drilling and tapping (6' x 10', 18 tools)
+- TIG welding
+- MIG welding
+- Painting (3 booths)
+- Assembly
+- Coordinate measuring (CMM)
+- Material handling (cranes up to 15 tons)
+- Shipping (enclosed trucks)
+- CAD/CAM programming
+
+## Equipment
+- 2,500-watt laser cutter (4' x 8' with pallet changer)
+- 250-amp plasma cutter and oxy-fuel torches (10' x 12')
+- Shears (up to 1/4" steel x 12')
+- Cut-off saws (up to 18")
+- Rolls (up to 14 Ga. steel x 5')
+- Press brakes (up to 350 tons)
+- Vertical machining centers (20" x 40", 22 tool holders)
+- CNC drilling/tapping centers (6' x 10', 18 tool holders)
+- TIG/MIG welding equipment
+- Paint booths (3)
+- Coordinate measuring machine
+- Cranes (up to 15 tons)
+- Enclosed trucks (2, 26')
+- 3D CAD/CAM software
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 1934
+- **Ownership:** Family-owned
+- **Headquarters:** Sturbridge, Massachusetts
+
+<details><summary>Sources</summary>
+
+- Founded 1934 -> db
+- Family-owned since 1934 -> /
+- Headquarters in Sturbridge, Massachusetts -> db
+- 50,000 square foot facility -> /
+- Specializes in sheet metal enclosures and structural weldments -> /
+- Offers layout, cutting, forming, milling, welding, painting, assembly, shipping -> /
+- Quick turn-around prototypes and just-in-time production runs -> /
+- 2,500-watt laser cutting 4' x 8' with pallet changer -> /
+- 250-amp plasma cutting and oxy-fuel torches 10' x 12' -> /
+- Shears up to 1/4" steel x 12' -> /
+- Cut-off saws up to 18" -> /
+- Rolls up to 14 Ga. steel x 5' -> /
+- Press brakes up to 350 tons -> /
+- Vertical machining centers up to 20" x 40" with 22 tool holders -> /
+- CNC drilling/tapping up to 6' x 10' with 18 tool holders -> /
+- TIG/MIG welding -> /
+- 3 paint booths -> /
+- Coordinate measuring machine -> /
+- Cranes up to 15 tons -> /
+- 2 enclosed trucks 26' -> /
+- 3D CAD/CAM software -> /
+</details>
+
+---
+
+# Southeast SolarPros
+
+**Old description:** Southeast SolarPros was founded and is operated by Tommy Wood, a mechanical engineer with over 17 years of experience installing clean solar panels and solar thermal collectors. All designs are meticulously created by our owner, who inspects and commissions each solar panel installation. Our fresh approach to
+
+## About
+Southeast SolarPros is based in Irmo, South Carolina. Founded in 2009 by Tommy Wood, a mechanical engineer with over 17 years of experience installing solar panels and solar thermal collectors, the company is owner-operated with Wood serving as lead engineer, sales, and service manager.
+
+The firm specializes in designing, installing, and commissioning solar photovoltaic panels, solar thermal collectors, and battery energy storage systems for residential and commercial customers. All designs are created by Wood, who personally inspects and commissions each installation. The business operates as a service and installation contractor rather than a manufacturer of physical products.
+
+Southeast SolarPros serves homeowners and businesses seeking to reduce energy costs and carbon footprints through solar energy systems and battery storage. Its customer base includes residential clients looking for grid resiliency and commercial clients pursuing sustainable energy solutions, with a focus on integrated solar-plus-storage installations.
+
+The company distinguishes itself through owner-led design and commissioning, ensuring each system is tailored and verified by the founder. Its emphasis on integrated solar-plus-storage systems and mechanical-engineer oversight sets it apart in the regional market.
+
+## Known for
+- Owner-designed and commissioned installations
+- Integrated solar-plus-storage systems
+- Mechanical engineer-led project oversight
+- 17+ years of solar installation experience
+
+## Capabilities
+- Solar photovoltaic panel installation
+- Solar thermal collector installation
+- Battery energy storage system installation
+- System design and commissioning
+- Site assessment and engineering
+
+## Industries
+- Solar energy systems
+- Battery-Storage Units for Energy Storage
+- Sustainable Energy for Homes & Businesses
+- Residential solar
+- Commercial solar
+
+## Company details
+- **Company Type:** Installer / service company
+- **Founded:** 2009
+- **Ownership:** Owner-operated
+- **Headquarters:** Irmo, South Carolina
+
+<details><summary>Sources</summary>
+
+- Founded 2009 by Tommy Wood -> db
+- Headquarters Irmo, South Carolina -> db
+- Owner-operated by Tommy Wood, mechanical engineer -> description (db)
+- 17+ years experience installing solar panels and solar thermal collectors -> description (db)
+- Services: solar PV, solar thermal, battery storage installation -> description (db), industries_served (db)
+- Owner designs and commissions each installation -> description (db)
+- Industries served: solar energy systems, battery storage, sustainable energy for homes/businesses -> industries_served (db)
+</details>
+
+---
+
+# Southeastern Architectural Woodworks, Inc.
+
+**Old description:** Some may call us a little over the top or out of the ordinary, but if you ask our customers, Southeastern Architectural Woodworks is simply extraordinary.  Southeastern adds a visible value to every project from start to finish… and installation too!  Rather than using multiple companies to complete each step of your project, we offer a complete service that takes your ideas from designs to quality fabricated pieces that are then professionally finished and installed.  We don’t trust just anyone to install our products.  SAW Installation crews know your project from start to finish and are the best in the business when it comes to handling S.A.W. custom millwork.  We are licensed in Mississippi and Louisiana and have completed a variety of projects all over the southeast.
+
+## About
+Southeastern Architectural Woodworks, Inc. was founded in 1978 in Brandon, Mississippi. The company operates from its facility on Shiloh Road and serves clients throughout the southeastern United States.
+
+The firm provides a full-service offering for architectural millwork, taking projects from initial design through fabrication, finishing, and installation. Its capabilities include custom millwork production, wood fabrication, finishing services, and on-site installation performed by dedicated crews who are familiar with each project from start to finish. The company emphasizes that its installation teams are direct employees, not subcontractors, to maintain quality control.
+
+Southeastern works primarily with general contractors and construction professionals on commercial projects across the Southeast. The company holds contractor licenses in both Mississippi and Louisiana, allowing it to operate across state lines for a variety of project types. Past projects have spanned the southeastern region, though specific sectors are not publicly detailed.
+
+The business differentiates itself by consolidating design, fabrication, finishing, and installation under one roof, eliminating the need for multiple subcontractors. This integrated approach is intended to ensure consistency and accountability throughout the project lifecycle.
+
+## Known for
+- Complete in-house service from design through installation
+- Direct-employee installation crews
+- Licensed in Mississippi and Louisiana
+- Regional coverage across the Southeast
+
+## Capabilities
+- Custom architectural millwork
+- Wood fabrication
+- Finishing
+- Installation
+- Design assistance
+
+## Industries
+- Construction
+- Commercial construction
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1978
+- **Headquarters:** Brandon, Mississippi
+
+<details><summary>Sources</summary>
+
+- Founded in 1978 -> db
+- Headquartered in Brandon, Mississippi -> db
+- Licensed in Mississippi and Louisiana -> /
+- Offers complete service from design to fabrication, finishing, and installation -> /
+- Works with general contractors and construction professionals -> /
+- Employs direct installation crews -> /
+- Completed projects across the southeastern United States -> /
+</details>
+
+---

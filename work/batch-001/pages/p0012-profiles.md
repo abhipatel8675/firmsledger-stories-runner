@@ -13,7 +13,6 @@ The company’s stated differentiation rests on a philosophy that quality must b
 
 ## Known for
 - Quality built into the manufacturing process, not just inspected afterward
-- Over 30 years of electronic assembly experience since 1989
 - ISO 9001 certified quality management system
 - Cost-effective custom electronic assembly
 - Integrated electro-mechanical, cable/harness, and PCB assembly services
@@ -289,7 +288,7 @@ The company emphasizes its in-house welder qualification program based on AWS D1
 ## About
 Koller Craft Plastic Products, a division of Koller Enterprises, has operated from Fenton, Missouri since 1941 when A.J. Koller Sr. founded the company as a custom molder. The family-owned business, now in its third generation, adopted the "Craft" name to reflect the pride and craftsmanship its founder valued. The company maintains a second facility in Gadsden, Alabama.
 
-The molder provides full-service injection molding of plastic components, running 53 presses ranging from 80 to 2,200 tons across 345,000 square feet of manufacturing space. Its capabilities include gas-assist molding, over-molding, manual and automated assembly, and decorating services such as hot stamping. The company also offers engineering support with design optimization and rapid prototyping, material sourcing, and tooling maintenance. A combined workforce of approximately 205 employees supports these operations.
+Its capabilities include gas-assist molding, over-molding, manual and automated assembly, and decorating services such as hot stamping. The company also offers engineering support with design optimization and rapid prototyping, material sourcing, and tooling maintenance.
 
 Koller Craft serves the automotive, agriculture and lawn & garden, general industrial, and material handling sectors. Its customer base includes original equipment manufacturers such as Watlow Electric Manufacturing Company, whose logo appears on the company's website with permission.
 
@@ -297,7 +296,6 @@ The company emphasizes its ISO 9001 certification, held since April 2003, and a 
 
 ## Known for
 - ISO 9001 certified since April 2003
-- Two U.S. facilities totaling 345,000 sq ft with 53 presses (80–2,200 tons)
 - Family-owned, third-generation operation since 1941
 - Full-service offering: engineering, material sourcing, tooling & maintenance
 - Domestic production for faster delivery and rapid problem-solving
@@ -432,13 +430,12 @@ Today Landmark provides custom metal fabrication with start-to-finish capabiliti
 
 Its customer base includes manufacturers of agricultural and construction equipment (Kubota), outdoor power equipment (Excel Industries), and commercial trailers (Meritor), as evidenced by supplier awards from those companies. Landmark serves a range of industrial sectors requiring heavy-gauge metal stampings, welded assemblies, and finished components.
 
-The company emphasizes a total quality management system certified to ISO 9001:2015, with in-house precision measurement using FARO Edge 7-axis arms and Scantech 3D scanners. Its stated mission focuses on on-time delivery, continuous improvement, and long-term partnerships with customers and suppliers.
+Its stated mission focuses on on-time delivery, continuous improvement, and long-term partnerships with customers and suppliers.
 
 ## Known for
 - Start-to-finish metal fabrication: stamping, welding, laser cutting, machining, E-Coat finishing
 - Stamping capacity up to 2,000 tons
 - Robotic welding cells with Panasonic PerformArc systems
-- ISO 9001:2015 certified quality management
 - Over 650,000 sq ft facility with in-house tooling and engineering
 
 ## Capabilities
@@ -581,7 +578,6 @@ The company states its differentiation lies in turnkey solutions that free custo
 - AS9100:2016
 - ISO 9001:2015
 - IPC-610 (Operator Certification)
-- Apple MFi (Made for iPhone/iPad/iPod)
 
 ## Company details
 - **Company Type:** Electronics Manufacturing Services (EMS) / Contract Manufacturer
@@ -706,11 +702,10 @@ The company provides full-service custom poly bag and film manufacturing, includ
 
 M Plastics serves a broad range of industries, including meat and protein, poultry, seafood, bakery, produce and grocery, frozen foods, food processing, manufacturing, pharmaceutical, agriculture, construction, e-commerce, retail and apparel, electronics and ESD, and landscaping. The company emphasizes food-grade material options for food processors and manufacturers across the country.
 
-The company highlights its differentiators as full in-house control from raw LDPE resin to finished product, third-party audited quality systems (ISO 9001:2015 and FSSC 22000), custom printing capabilities, and competitive lead times on both custom and stock orders. Its family-owned structure and commitment to quality and customer satisfaction drive its approach to tailored packaging solutions.
+Its family-owned structure and commitment to quality and customer satisfaction drive its approach to tailored packaging solutions.
 
 ## Known for
 - In-house LDPE extrusion from raw resin to finished film
-- ISO 9001:2015 and FSSC 22000 certified quality and food safety systems
 - Flexographic printing up to six colors on any bag or film
 - Nationwide delivery with competitive lead times from Los Angeles facility
 - Family-owned and operated since 2005
@@ -744,12 +739,6 @@ The company highlights its differentiators as full in-house control from raw LDP
 - Flexographic printing press
 - Film extrusion line
 - Bag making equipment
-
-## Certifications
-- ISO 9001:2015
-- FSSC 22000
-- ISO 22000:2018
-- AIB Certified
 
 ## Company details
 - **Company Type:** Family-owned manufacturer
