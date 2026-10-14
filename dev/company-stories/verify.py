@@ -35,4 +35,6 @@ with cf.ThreadPoolExecutor(6) as ex:
   for slug,v in ex.map(run,rows):
     res[slug]=v; print('done',slug,len(v.get('unsupported',[])),'wrong' if v.get('wrong_company') else '',flush=True)
 json.dump(res,open(O+'verify-results.json','w'),indent=1)
-print('ALL-DONE errors',sum(1 for v in res.values() if v.get('error')))
+ve=sum(1 for v in res.values() if v.get('error'))
+print('ALL-DONE errors',ve)
+if res and ve/len(res)>0.3: sys.exit('Too many fact-check failures. Batch not marked done; will retry next run.')

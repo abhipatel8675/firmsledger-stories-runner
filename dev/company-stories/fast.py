@@ -46,7 +46,10 @@ def fetch_company(r):
 def load(path):
   pass
 
-raws=[f for f in sorted(glob.glob(f'{PAGES}/*-raw.json')) if not os.path.exists(f.replace('-raw','-profiles'))]
+def finished(f):
+  p=f.replace('-raw','-profiles')
+  return os.path.exists(p) and not any(o.get('error') for o in json.load(open(p)))
+raws=[f for f in sorted(glob.glob(f'{PAGES}/*-raw.json')) if not finished(f)]
 done={}
 def cached(r):
   c=f"{CACHE}/{r['slug']}.json"
@@ -73,4 +76,7 @@ with cf.ThreadPoolExecutor(FETCH_WORKERS) as ex:
     for i,r in enumerate(rows):
       futs.append(gen.submit(lambda f=f,i=i,r=r: finish(f,i,cached(r))))
 cf.wait(futs); gen.shutdown()
-print('ALL-DONE')
+errs=sum(1 for v in done.values() for o in v if o and o.get('error'))
+tot=sum(len(v) for v in done.values())
+print('ALL-DONE errors',errs,'of',tot)
+if tot and errs/tot>0.3: sys.exit('Too many API failures (key, credits or rate limit). Batch not marked done; will retry next run.')
