@@ -5,7 +5,7 @@ import generate
 
 PAGES=sys.argv[1] if len(sys.argv)>1 else 'docs/reports/stories/industry-top/pages'
 PATHS=['','/about-us','/about','/services','/capabilities','/quality']
-FETCH_WORKERS,GEN_WORKERS=20,12
+FETCH_WORKERS,GEN_WORKERS=20,60
 CACHE=f'{PAGES}/cache'; os.makedirs(CACHE,exist_ok=True)
 
 class Text(HTMLParser):

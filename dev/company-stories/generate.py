@@ -1,4 +1,4 @@
-import json,sys,re,time,urllib.request
+import json,sys,os,re,time,urllib.request
 key=[l.split('=',1)[1].strip().strip('"') for l in open('.env.local') if l.startswith('NEMOTRON_KEY_2=')][0]
 RULES="""You write a manufacturer's profile for a B2B sourcing directory, in the depth of a strong MFG.com profile, but as a story told by an independent editor (third person).
 From the INPUT (our database row + text from the company's own web pages), produce JSON:
@@ -26,16 +26,26 @@ Hard rules:
 - No street addresses, phone numbers, emails, ratings, 'verified', or superlatives (leading, best, premier, world-class, trusted).
 - Ignore cookie banners, menus, blog teasers, and text about other companies.
 - Output JSON only."""
+import threading
+_pace_lock=threading.Lock(); _pace_next=[0.0]
+RPM=float(os.environ.get('GEN_RPM','36'))
+def pace(extra=0):
+  with _pace_lock:
+    now=time.time(); t=max(now,_pace_next[0])+extra
+    _pace_next[0]=t+60/RPM
+  time.sleep(max(0,t-now))
+
 def call(r):
   inp={k:v for k,v in r.items() if v and k not in('phone','address','contact_email')}
   body={"model":"nvidia/nemotron-3-ultra-550b-a55b","temperature":0.3,"max_tokens":6000,
         "messages":[{"role":"system","content":RULES},{"role":"user","content":"INPUT:\n"+json.dumps(inp)[:20000]}]}
   for i in range(4):
     try:
+      pace()
       q=urllib.request.Request("https://integrate.api.nvidia.com/v1/chat/completions",json.dumps(body).encode(),{"Authorization":"Bearer "+key,"Content-Type":"application/json"})
       t=json.load(urllib.request.urlopen(q,timeout=300))["choices"][0]["message"]["content"]
       return {"name":r["name"],"slug":r["slug"],"old_description":r.get("description"),**json.loads(re.search(r"\{.*\}",t,re.S).group(0))}
-    except Exception as e: err=str(e)[:200]; print("RETRY",r["slug"],err[:80],flush=True); time.sleep(20*(i+1))
+    except Exception as e: err=str(e)[:200]; print("RETRY",r["slug"],err[:80],flush=True); pace(30 if '429' in str(e) else 0); time.sleep(5*(i+1))
   return {"name":r["name"],"slug":r["slug"],"skip":True,"error":err}
 def write(res,out):
   json.dump(res,open(out,'w'),indent=1)
