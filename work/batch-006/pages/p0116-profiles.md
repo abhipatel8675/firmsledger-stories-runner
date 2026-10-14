@@ -458,7 +458,7 @@ The Wire Guy Electric emphasizes transparent flat-rate pricing, a “no BS” qu
 **Old description:** Thornton Plastics specializes in small plastic containers and jars. These containers are perfect for packaging, shipping, storing, presenting and sampling any type of small object, liquid or product. Each container is made from high-quality polystyrene, polyethylene, or polypropylene plastic. These containers are used in several industries and many different types of applications. You can be sure to find the highest quality containers sold at a great price from Thornton Plastics.
 
 ## About
-Thornton Plastics operates from Salt Lake City, Utah, where it was founded in 1955 by Wayne Thornton. The business remains family-owned, with the third generation now the company after more than six decades in operation.
+The business remains family-owned, with the third generation now the company after more than six decades in operation.
 
 The company manufactures a range of small plastic containers, including snap-cap vials, hinged-lid containers, hinged boxes, and plastic jars with lids. Production uses polystyrene, polypropylene, and polyethylene (including high-density polyethylene), and the firm also distributes hundreds of related packaging items. All manufacturing takes place in the United States, though facility size and headcount are not disclosed.
 

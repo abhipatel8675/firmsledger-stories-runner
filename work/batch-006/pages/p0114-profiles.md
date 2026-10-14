@@ -582,13 +582,12 @@ Today the firm operates from a 45,000-square-foot facility where a team of sheet
 
 The company serves commercial construction, industrial manufacturing, HVAC, and food-service equipment sectors. Its customer base includes contractors and facility owners needing custom ductwork, kitchen exhaust hoods, dust collection networks, and specialized stainless steel assemblies for industrial plants.
 
-Tennessee Sheet Metal emphasizes that its founding commitment to quality and personalized service remains intact despite becoming one of the largest sheet metal shops in the mid-state region. The company also highlights a 100 percent safety commitment and maintains affiliations with the International Training Institute, SMACNA, and SMART.
+Tennessee Sheet Metal emphasizes that its founding commitment to quality and personalized service remains intact despite becoming one of the largest sheet metal shops in the mid-state region.
 
 ## Known for
 - One of the largest sheet metal shops in the mid-state area
 - Retains personalized service at scale
 - In-house engineering and skilled craftsmen
-- 100% commitment to safety
 - Affiliated with ITI, SMACNA, and SMART
 
 ## Capabilities

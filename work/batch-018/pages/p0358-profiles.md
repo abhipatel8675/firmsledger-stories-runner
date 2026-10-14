@@ -1,0 +1,617 @@
+# Industrial Semiconductor, Inc.
+
+**Old description:** :  Industrial Semiconductor was founded in 1991 by Fred Marquardt.  With an ever-present desire to manage his own company, Mr. Marquardt began his training in a radio/TV repair shop which then led to more formal training with the United States Air Force. After military service and with a background in a vacuum tube and solid-state electronics he was then selected to be part of the SCR development team at National Electronics where many new innovations in the manufacturing of SCRs were developed.
+
+## About
+Industrial Semiconductor, Inc. was founded in 1991 by Fred Marquardt in Granville, Illinois. Marquardt, a former U.S. Air Force technician with experience in vacuum-tube and solid-state electronics, had previously worked on SCR development at National Electronics and served on the JEDEC standards committee. The company incorporated in 2004. In 2015, ownership passed to Steven Malavolti, a 20-year U.S. Navy veteran who had joined the firm in 2007 and rose to general manager.
+
+The company operates as a mainline stocking distributor of high-power semiconductors, including SCRs, diodes, bridge modules, thyristor modules, diode modules, GTOs, and IGBTs. It carries products from manufacturers such as Dynex, Times Electric, RIRI Power Electronics, GE, Westinghouse, Infineon, Powerex, Mitsubishi, Westcode, and IXYS. Industrial Semiconductor also provides heatsink extrusion and assembly services, producing air-cooled thyristor assemblies, diode-heatsink assemblies, and SCR-heatsink assemblies. The firm emphasizes same-day shipping on stocked items with no minimum order requirement and maintains an extensive inventory supported by technical staff rather than traditional sales personnel.
+
+Industrial Semiconductor serves the power electronics industry, supplying components for industrial power systems, motor drives, and renewable energy applications. Early in its history, the company developed solid-state timing systems for SCCA and NASCAR racing and portable timing equipment for Ford Motor Company’s road racing team. Today, its customer base includes power electronic design engineers and industrial maintenance teams who rely on direct, technical consultation via phone and email.
+
+The company distinguishes itself by offering only new, factory-tested components that meet original OEM specifications, backed by a team of technical problem solvers. Its model prioritizes direct customer contact over e-commerce automation, aiming to match specific application requirements with the right component and support.
+
+## Known for
+- Same-day shipping on in-stock items
+- No minimum order quantity
+- Direct technical consultation via phone and email
+- Components factory-tested to OEM specifications
+- Heatsink extrusion and assembly capabilities
+
+## Capabilities
+- High-power semiconductor distribution
+- Heatsink extrusion
+- Thyristor assembly
+- Diode-heatsink assembly
+- SCR-heatsink assembly
+- Technical support and consultation
+- Same-day shipping
+- No minimum order
+- Data sheet provision
+
+## Industries
+- Power electronics
+- Industrial automation
+- Renewable energy
+- Automotive racing (historical)
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Founded:** 1991
+- **Ownership:** Privately held
+- **Headquarters:** Granville, IL
+
+<details><summary>Sources</summary>
+
+- Founded 1991 by Fred Marquardt -> /about-us
+- Headquarters Granville, IL -> /
+- Incorporated 2004 -> /about-us
+- Ownership transferred to Steven Malavolti in 2015 -> /about-us
+- Steven Malavolti is a 20-year U.S. Navy veteran -> /about-us
+- Distributes high-power semiconductors from Dynex, Times Electric, RIRI, GE, Westinghouse, Infineon, Powerex, Mitsubishi, Westcode, IXYS -> /about-us
+- Offers heatsink extrusion and assembly (air-cooled thyristor, diode-heatsink, SCR-heatsink) -> /about-us, db
+- Same-day shipping, no minimum order -> /
+- Technical problem solvers, not sales people -> /about-us
+- Products new and factory-tested to OEM specifications -> /about-us
+- Early products for SCCA, NASCAR, Ford Motor Company racing -> /about-us
+</details>
+
+---
+
+# Industrial Textiles Company
+
+**Old description:** You can put your trust in Industrial Textiles Company. We provide personal service and exceptional quality. All of our services and products are guaranteed. We have been in business for the nearly 65 years. Our unparalleled service, competitive prices, and overall value are why our loyal customers won't go anywhere else. We look forward to serving you!
+
+## About
+Industrial Textiles Company operates from a facility on East Boone Industrial Boulevard in Columbia, Missouri. The company states it has been in business for nearly 65 years, though a specific founding year is not published. Ownership details and founder names are not disclosed in public materials; the site's copyright is attributed to Jon Boucher.
+
+The shop specializes in custom twisting and winding services, along with cordage manufacturing and hose packaging. Its capabilities are presented as broad service categories rather than detailed process specifications; no facility size, headcount, or annual volume figures are provided. The company's website lists "QUALITY SERVICE-ON TIME DELIVERY-CUSTOMER SATISFACTION" as a guiding principle.
+
+The company does not list specific industries or customer types in its available literature. The industries_served field in the source data contains only a copyright notice, so target markets cannot be identified from the input. No concrete customer examples are given.
+
+Industrial Textiles Company emphasizes personal service, guaranteed quality, competitive pricing, and on-time delivery as its distinguishing factors. It also highlights its ISO 9001:2015 certification as a mark of its quality management system.
+
+## Known for
+- ISO 9001:2015 certified
+- Personal service focus
+- Guaranteed products and services
+- On-time delivery commitment
+- Competitive pricing
+
+## Capabilities
+- Custom twisting
+- Winding
+- Cordage manufacturing
+- Hose packaging
+
+## Certifications
+- ISO 9001:2015
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Headquarters:** Columbia, Missouri
+
+<details><summary>Sources</summary>
+
+- Headquarters: Columbia, Missouri -> db
+- ISO 9001:2015 certified -> page "/"
+- Custom twisting and winding -> page "/"
+- Cordage capabilities -> db
+- Hose packaging capabilities -> db
+- Nearly 65 years in business -> page "/"
+- Copyright Jon Boucher -> page "/"
+- QUALITY SERVICE-ON TIME DELIVERY-CUSTOMER SATISFACTION tagline -> page "/"
+- Personal service, guaranteed quality, competitive prices, on-time delivery -> page "/"
+- No specific industries listed -> db
+</details>
+
+---
+
+# Innovative Circuits Arizona
+
+**Old description:** at ICA specializes in delivering adaptable solutions which are vital for companies navigating the challenges of fierce market competition and rising customer demands. Our nimbleness in
+
+## About
+Innovative Circuits Arizona (ICA) operates from Gilbert, Arizona, providing electronics contract manufacturing and CNC machining services. The company focuses on adaptable solutions for customers facing competitive markets and compressed product lifecycles. No founding year, ownership structure, or founders are disclosed in public materials.
+
+ICA runs a dedicated 3,000-square-foot surface-mount assembly area with controlled temperature, humidity, and ESD compliance, alongside through-hole assembly capabilities. Its CNC department fields 3-axis, 4-axis, and 5-axis machines for metals, plastics, and specialty materials. The shop also offers rapid prototyping, a Juki ISM Fortress humidity-regulated inventory tower, and material procurement through a qualified supplier network. Testing services include automated optical inspection, X-ray inspection, in-circuit testing (ICT), functional testing, and environmental stress screening. Quality operations follow AS9100 and ISO 9001 with IPC standards, though the company notes that CNC machining and design fall outside the certified QMS scope.
+
+The company serves aerospace, medical device, automotive, automotive electronics, industrial, and telecommunications sectors. Customers range from prototype-stage innovators to established OEMs requiring high-mix, low- to medium-volume production runs.
+
+ICA emphasizes nimbleness and rapid iteration, positioning its prototyping services to validate designs quickly and reduce time-to-market. Quality control is described as a foundation rather than a final step, with real-time data collection, continuous feedback loops, and ESD protection maintained across all processes.
+
+## Known for
+- 3,000 sq ft climate-controlled SMT assembly space with ESD compliance
+- Juki ISM Fortress humidity-regulated inventory tower for material management
+- AS9100 and ISO 9001 certified with IPC standards adherence
+- In-house optical, X-ray, ICT, functional, and environmental testing capabilities
+- 3-axis, 4-axis, and 5-axis CNC machining for metals, plastics, and specialty materials
+
+## Capabilities
+- Electronics contract manufacturing
+- Surface mount technology (SMT) assembly
+- Through-hole assembly
+- CNC machining (3-axis, 4-axis, 5-axis)
+- Rapid prototyping
+- In-circuit testing (ICT)
+- Functional testing
+- Environmental stress testing
+- Automated optical inspection (AOI)
+- X-ray inspection
+- Inventory management (Juki ISM Fortress)
+- Material procurement
+- Quality management (AS9100/ISO 9001/IPC)
+- ESD-controlled manufacturing
+- CAD/CAM integration
+
+## Industries
+- Aerospace
+- Medical devices
+- Automotive
+- Automotive electronics
+- Industrial
+- Telecommunications
+- Electronics
+
+## Equipment
+- Juki ISM Fortress inventory tower
+- 3-axis CNC machines
+- 4-axis CNC machines
+- 5-axis CNC machines
+- Automated optical inspection systems
+- X-ray inspection systems
+- In-circuit testing (ICT) equipment
+- Functional test systems
+- Environmental stress test chambers
+
+## Certifications
+- AS9100
+- ISO 9001
+- IPC standards
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Headquarters:** Gilbert, Arizona
+
+<details><summary>Sources</summary>
+
+- Location: Gilbert, Arizona -> /
+- 3,000 sq ft SMT assembly space with temperature/humidity control and ESD compliance -> /
+- Juki ISM Fortress humidity-regulated inventory tower -> /
+- AS9100 and ISO 9001 certifications, IPC standards -> /, /quality
+- CNC machining with 3-axis, 4-axis, 5-axis capabilities -> /, products list
+- Testing: automated optical inspection, X-ray inspection, ICT, functional testing, environmental stress testing -> /quality
+- Industries served: aerospace, medical, automotive, industrial, telecommunications -> /about, industries_served
+- Rapid prototyping services -> /
+- Material procurement through trusted supplier network -> /
+- Quality control with real-time data monitoring and feedback loops -> /quality
+- ESD protection protocols across processes -> /quality
+- CNC machining and design not covered under QMS certification -> /, /quality
+- Company type: electronics contract manufacturer -> / (FAQ)
+</details>
+
+---
+
+# Integra Life Sciences
+
+**Old description:** Restoring Lives Through Everyday Impact: The Power of Small Actions
+
+## About
+Integra LifeSciences was founded in 1989 and is headquartered in Mansfield, Massachusetts. The company operates a manufacturing facility in Le Locle, Switzerland, where production of valves for hydrocephalus management is overseen by manufacturing operations supervisor Lucie Fillolleau.
+
+The company develops and manufactures a broad portfolio of medical devices for neurosurgery, including dural access and repair, cerebral spinal fluid management, and neuro-critical care. Its offerings extend to wound reconstruction with evidence-based regenerative technologies for soft tissue repair, plastic and reconstructive surgery solutions for complex hernias and nerve and tendon repair, as well as surgical instrumentation and lighting. Integra also runs the BioSkills Lab, a hands-on training environment where healthcare professionals practice surgical techniques.
+
+Integra serves neurosurgeons, plastic surgeons, ENT specialists, and wound-care providers. Its products are used in procedures ranging from hydrocephalus management and pediatric ear surgery (AERA® registry) to liver surgery using CUSA® technology. The company partners with physicians to deliver safe, fast, and effective treatments across these specialties.
+
+Integra positions its manufacturing as purpose-driven, emphasizing "Where Manufacturing Meets Purpose." The company highlights its global leadership in neurosurgery, evidence-based regenerative technologies, and long-standing innovation such as 20 years of CUSA® technology as differentiators.
+
+## Known for
+- Global leader in neurosurgery with broad portfolio for dural access, CSF management, neuro-critical care
+- Evidence-based regenerative technologies for soft tissue reconstruction
+- BioSkills Lab for immersive surgical training
+- 20-year track record with CUSA® surgical technology
+- Physician partnerships for safe, fast ENT treatments
+
+## Capabilities
+- Neurosurgery
+- Tissue Reconstruction
+- Cranial Stabilization and Fixation
+- Cerebral Spinal Fluid Management
+- Plastic and Reconstructive Surgery
+- Nerve and Tendon Repair
+- Wound Reconstruction
+- Minimally Invasive Surgery
+- Medical device manufacturing
+- Surgical instrumentation and lighting
+- Surgical training (BioSkills Lab)
+
+## Industries
+- Neurosurgery
+- Wound Reconstruction
+- Plastic and Reconstructive Surgery
+- ENT
+- Neuro-critical Care
+- Surgical Instruments
+- Medical Devices
+
+## Equipment
+- CUSA® technology
+- AERA® system
+- Hydrocephalus valves
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1989
+- **Headquarters:** Mansfield, Massachusetts
+
+<details><summary>Sources</summary>
+
+- Founded in 1989 -> db
+- Headquartered in Mansfield, Massachusetts -> db
+- Manufacturing facility in Le Locle, Switzerland -> page "/"
+- Produces valves for hydrocephalus management -> page "/"
+- Global leader in neurosurgery with portfolio for dural access, CSF management, neuro-critical care -> page "/"
+- Offers wound reconstruction with evidence-based regenerative technologies -> page "/"
+- Provides plastic and reconstructive surgery solutions for complex hernias, nerve and tendon repair -> page "/"
+- Supplies surgical instrumentation and lighting -> page "/"
+- Operates BioSkills Lab for surgical training -> page "/"
+- Serves neurosurgeons, plastic surgeons, ENT specialists, wound-care providers -> page "/"
+- Products used in hydrocephalus management, pediatric ear surgery (AERA® registry), liver surgery (CUSA® technology) -> page "/"
+- Emphasizes purpose-driven manufacturing ('Where Manufacturing Meets Purpose') -> page "/"
+- 20-year history with CUSA® technology -> page "/"
+</details>
+
+---
+
+# Integrated Technology Solutions | ITS Hawaii
+
+**Old description:** Crestron is the world’s leading innovator and manufacturer of advanced control and automation systems for the office, campus and home.
+
+## About
+Integrated Technology Solutions, LLC, doing business as ITS Hawaii, was established in 2016 in Waipahu, Hawaii. The company operates as a low-voltage contractor serving the entire state from its base on Oahu.
+
+ITS Hawaii designs, installs, and configures low-voltage infrastructure for commercial and residential clients. Its service portfolio covers structured cabling, network configuration, wireless access point deployment, digital signage installation, security camera and surveillance systems, audio/video distribution, home and business automation, system controls, point-to-point antennas, satellite dish and DIRECTV installation, video conferencing, and telephone systems including analog, VoIP, and digital lines. The firm holds a Hawaii contractor license (CT-36449) and is a Crestron authorized dealer, supplying and integrating Crestron control and automation hardware.
+
+The company serves customers across all Hawaiian islands — Oahu, Hawaii (Big Island), Lanai, Molokai, Maui, and Kauai. Its client base includes businesses undertaking IT infrastructure upgrades, home theater and automation specialists who subcontract networking and fiber termination work, and residential owners seeking integrated security, entertainment, and connectivity solutions. Reviews reference projects for medical facilities, though the company does not publish a formal industry list.
+
+ITS Hawaii states its mission is to improve clients' low-voltage infrastructure through new designs, outstanding craftsmanship, quality products, and excellent customer service. The firm emphasizes its statewide reach, over a decade of field experience, and its status as a Crestron authorized dealer as key differentiators.
+
+## Known for
+- Crestron Authorized Dealer
+- Hawaii Contractor License CT-36449
+- Statewide service across all Hawaiian islands
+- Over 10 years of low-voltage installation experience
+- Full-service digital signage and security camera installation
+
+## Capabilities
+- Low voltage design and installation
+- Structured cabling
+- Network configuration
+- Wireless access point installation
+- Digital signage installation
+- Security camera/CCTV installation
+- Audio/video system installation
+- Home automation
+- Business automation
+- System controls integration
+- Point-to-point antenna installation
+- Satellite dish installation
+- DIRECTV installation
+- Video conferencing installation
+- Telephone system installation (analog, VoIP, digital)
+- IT rack installation and configuration
+
+## Industries
+- Commercial
+- Residential
+
+## Certifications
+- Hawaii Contractor License CT-36449
+- Crestron Authorized Dealer
+
+## Company details
+- **Company Type:** Installer / service company
+- **Founded:** 2016
+- **Headquarters:** Waipahu, Hawaii
+
+<details><summary>Sources</summary>
+
+- Founded 2016 -> db
+- Headquarters Waipahu, Hawaii -> db
+- Contractor license CT-36449 -> /about
+- Crestron Authorized Dealer -> /
+- Services: structured cabling, wireless, digital signage, security cameras, AV, automation, telephone -> /
+- Statewide coverage across Hawaiian islands -> /about
+- Mission statement -> /about
+- Over 10 years experience -> /about
+- Residential and commercial customers -> /
+- Reviews mention IT infrastructure upgrade, home theater subcontracting -> /
+</details>
+
+---
+
+# Intelligent Manufacturing Solutions (IMS)
+
+**Old description:** With a focus on producing quality parts since 2005, we are well-equipped to meet the unique demands of each sector we serve.
+
+## About
+Intelligent Manufacturing Solutions (IMS) was founded in 2005 in Londonderry, New Hampshire, to fill a market gap for high-quality rapid prototype and small-lot printed circuit board assembly. The company was acquired by Perimeter Solutions (NYSE: PRM) on December 24, 2024, broadening its portfolio to include acquisition and sustainment of OEM legacy product lines.
+
+IMS provides full life-cycle electronics assembly services, spanning quick-turn prototypes, high-mix low-volume production, box build, design-for-manufacturability analysis, and end-of-life support including IP acquisition. The New England facility operates multiple SMT lines with Mycronic pick-and-place machines, Heller reflow ovens, 3D AOI and X-ray inspection, selective and wave soldering, and aqueous cleaning. The company emphasizes rapid turnaround, shipping prototypes overnight anywhere in the United States and delivering tested assemblies within hours for short-notice orders.
+
+IMS serves aerospace and defense, medical and instrumentation, communications, consumer electronics and IoT, automotive, and industrial sectors. Reference customers include an automotive technology company, a consumer robotics company, and an IoT solutions provider, all citing the firm's speed, quality, and flexibility in moving from prototype to full box build.
+
+The business was purpose-built to address the lack of responsive service for complex, low-volume PCBA projects. Management, with over 25 years of shared EMS experience, focuses on minimizing time-to-market and mitigating excess and obsolete inventory charges. The Perimeter Solutions acquisition adds a model for acquiring and sustaining OEM non-core products through their remaining lifecycle.
+
+## Known for
+- Purpose-built for rapid prototype and small-lot PCBA
+- Full life-cycle electronics assembly from prototype to end-of-life
+- Overnight shipping from New England facility to anywhere in the US
+- Process to mitigate excess and obsolete charges on prototypes
+- IP acquisition and legacy product line sustainment for OEMs
+
+## Capabilities
+- Rapid prototype PCB assembly
+- Box build assembly
+- High-mix low-volume PCB assembly
+- Design for manufacturability (DFM) analysis
+- End-of-life product support
+- IP acquisition and legacy product sustainment
+- Short-notice production
+- Build-to-order manufacturing
+- Component sourcing and procurement
+- SMT pick-and-place assembly
+- Through-hole assembly
+- Selective soldering
+- Wave soldering
+- Automated optical inspection (AOI)
+- 3D X-ray inspection
+- Solder paste inspection (SPI)
+- BGA/LGA/QFN placement
+- Rework and repair
+- Aqueous cleaning
+- Stencil cleaning
+- Programming and labeling
+- Packaging and fulfillment
+
+## Industries
+- Aerospace & Defense
+- Medical & Instrumentation
+- Communications
+- Consumer Electronics/IoT
+- Automotive
+- Industrial
+
+## Equipment
+- Mycronic MY300 SX14 pick-and-place (30,000 cph)
+- Mycronic M100 SX14 pick-and-place (25,000 cph) (2 units)
+- Mycronic MY9E pick-and-place (15,000 cph)
+- Heller 1808 MkIII reflow oven (3 units)
+- Mycronic Primo 3D solder paste inspection
+- Mycronic MY600 deposition with vision and repair
+- Mycronic My500 deposition with vision and repair
+- SpeedPrint SP710 advanced vision intelligence (2 units)
+- MPM Accuflex dual system
+- UniComp AX8200 programmable X-ray 2D/3D modeling 130kV
+- Mirtec MV6 Omni 3D AOI (2 units)
+- VJ Electronics Summit 1100HR rework
+- VJ Electronics Summit 1800HRE rework
+- Nordson Novo 103 selective soldering with pre-heat (Pb-free)
+- Ace 102 selective soldering with pre-heat (Pb)
+- Hollis TDL wave solder (Pb-free)
+- Aqueous Technologies Trident Trio triple batch cleaner (Kyzen A4639)
+- AquaKleen Auto Stencil Cleaner SC1550
+- Nordson-Dage Assur X-ray component counter
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 2005
+- **Ownership:** Acquired by Perimeter Solutions (NYSE: PRM) in 2024
+- **Headquarters:** Londonderry, New Hampshire
+
+<details><summary>Sources</summary>
+
+- Founded 2005 in Londonderry, NH -> /about-us
+- Acquired by Perimeter Solutions Dec 24 2024 -> /about-us
+- Full life-cycle electronics assembly, quick-turn prototype to high-mix -> /
+- Industries: aerospace, medical, industrial, automotive, communications, consumer electronics/IoT -> /
+- Equipment list including Mycronic pick-and-place, Heller reflow, Mirtec AOI, UniComp X-ray -> /about-us
+- Overnight shipping anywhere in US -> /services
+- Assemblies within hours for short-notice orders -> /services
+- Customer references: Automotive Tech Company, Consumer Robotics Company, IoT Solutions Provider -> /
+- Purpose-built for rapid prototype and small-lot PCBA gap -> /about-us
+- Management team with 25+ years shared experience -> /about-us
+- IP acquisition and legacy product sustainment model -> /about-us
+</details>
+
+---
+
+# Inter-Coastal Electronics Inc
+
+**Old description:** Inter-Coastal Electronics, the current Tactical Engagement Simulation System (TESS) Program of Record holder for US Army aviation, provides a low risk, cost effective embedded training solution that provides immediate interoperability with Army training ranges and Combat Training Centers (CTCs).  With extensive knowledge of embedded training spanning 30 years, ICE is committed to providing innovative embedded training solutions that enhance readiness, sustain proficiency, and reduce cost while adhering to a Modular Open Systems Architecture (MOSA) approach. ICE employs the requisite skills to implement the total live training experience for
+
+## About
+Based in Mesa, Arizona, Inter-Coastal Electronics (ICE) has spent three decades developing embedded training systems for military aviation. The company holds the Tactical Engagement Simulation System (TESS) program of record for U.S. Army aviation, delivering solutions that integrate directly with Army training ranges and Combat Training Centers. Current president David Weston joined in 2011 after engineering roles in semiconductors and aerospace, and leads a leadership team that includes veterans of Army aviation and defense acquisition.
+
+ICE designs, develops, manufactures, tests, and supports live training hardware and software. Its core products include TESS kits for the AH-64 Apache, the TOW Improved Target Acquisition System Laser Integrated Field Training System (LIFTS), and the Training Aircraft Survivability Equipment Stimulation Suite (TASS). The company handles ruggedized electronics design, environmental and electromagnetic qualification, production transition, and depot-level repair. Recent production runs include 12 TESS kits with ground support for Morocco, and maintenance contracts spanning Fort Cavazos, Texas, and multinational sites in the United Kingdom, United Arab Emirates, Taiwan, and Qatar.
+
+Customers are primarily defense agencies and prime contractors. The U.S. Army’s Program Executive Office for Simulation, Training and Instrumentation (PEO STRI) and Combat Training Centers at the National Training Center, Joint Readiness Training Center, and Joint Multinational Readiness Center use ICE systems. International operators include the Royal Netherlands Army, Australian Defence Force, and air forces of Morocco, the U.K., U.A.E., Taiwan, and Qatar.
+
+ICE emphasizes a Modular Open Systems Architecture (MOSA) approach to ensure interoperability and reduce lifecycle cost. The company cites its 30-year domain experience, low-risk acquisition profile, and immediate range interoperability as key differentiators. Its quality management is backed by a CMMI Maturity Level 3 appraisal at the FAAC division level.
+
+## Known for
+- TESS Program of Record holder for U.S. Army aviation
+- 30 years of embedded training experience
+- Modular Open Systems Architecture (MOSA) approach
+- Immediate interoperability with Army training ranges and Combat Training Centers
+- Designs, develops, manufactures, tests, delivers, and supports live training solutions
+
+## Capabilities
+- Embedded training solution development
+- Tactical Engagement Simulation System (TESS) production
+- Aviation training systems engineering
+- Live training system integration
+- Ruggedized electronics design
+- Environmental and electromagnetic qualification
+- Production transition and field support
+- Depot repair and maintenance
+- Systems engineering
+- Program management
+- Earned Value Management System (EVMS) implementation
+- Federal Acquisition Regulation (FAR) and DFARS compliance
+- Air worthiness release coordination
+- Modular Open Systems Architecture (MOSA) implementation
+
+## Industries
+- Defense
+- Military training
+- Aviation
+- Aerospace
+- Government
+
+## Certifications
+- CMMI Maturity Level 3
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Mesa, Arizona
+
+<details><summary>Sources</summary>
+
+- Headquartered in Mesa, Arizona -> db
+- Holds TESS Program of Record for U.S. Army aviation -> /
+- 30 years of embedded training experience -> /
+- David Weston joined as design engineer in 2011, became President -> /about
+- Kyle Preston CFO, PMP certified -> /about
+- Ben Covington VP Programs since 2008 -> /about
+- Jim Barker VP Business Development, retired Army aviation senior leader -> /about
+- George Ferido Strategy Director, former Army officer -> /about
+- Ryan Kirkpatrick Director of Engineering -> /about
+- Matt Hitchon Principal Engineer -> /about
+- Produces AH-64E TESS kits (e.g., 12 kits for Morocco) -> /
+- Provides maintenance & training for Apache TESS, TOW-ITAS LIFTS, TASS, ATMP -> /
+- International customers: Netherlands, UK, UAE, Taiwan, Qatar, Australia, Morocco -> /
+- U.S. Army Combat Training Centers: NTC, JRTC, JMRC -> /
+- Modular Open Systems Architecture (MOSA) approach -> /
+- CMMI Maturity Level 3 appraisal for FAAC Vehicle and Air Warfare Simulation Divisions -> /quality
+- Designs, develops, manufactures, tests, delivers, supports live training solutions -> /about
+- Ruggedized electronics design, environmental/electromagnetic qualification, production transition, field support -> /about
+- Earned Value Management System (EVMS) implementation for Bell Textron reporting -> /about
+- FAR/DFARS compliance expertise -> /about
+- Air worthiness releases for UH-60M, CH-47F, AH-64E -> /about
+</details>
+
+---
+
+# Intercoastal Electronics EMS
+
+**Old description:** Intercoastal specializes in complex builds that combine SMT, through-hole, fine-pitch, and specialty components. Our team manages challenging layouts and thermal/mechanical constraints to ensure robust, high-reliability assemblies.
+
+## About
+Intercoastal Electronics EMS operates from Rockledge, Florida, as a full-service U.S. electronics contract manufacturer. The company focuses on complex printed circuit board assemblies that combine surface-mount, through-hole, fine-pitch, and specialty components, managing challenging layouts and thermal-mechanical constraints to deliver high-reliability results.
+
+Its capabilities span SMT and through-hole assembly, fine-pitch placement, complex mixed-technology builds, prototype-to-production manufacturing, system integration and box build, inspection and conformal coating, engineering services, and electronics repair and rework including component reconditioning. The shop supports high-mix, low-to-medium volume production runs, offering flexible capacity from prototype quantities through low/mid-volume production.
+
+The company serves original equipment manufacturers, engineering teams, and product developers across the electronics industry, including commercial non-regulated product segments. It positions itself as a partner for supply-chain continuity and overflow manufacturing, helping customers bridge the gap between prototype and full-scale production.
+
+Intercoastal emphasizes IPC-certified assembly and inspection processes, transparent quoting and production planning with no hidden costs, and a disciplined approach that extends product life cycles while reducing scrap costs. Its engineering and repair services are designed to keep customer projects on schedule and optimize production efficiency.
+
+## Known for
+- IPC-certified assembly and inspection processes
+- Flexible capacity from prototype to low/mid-volume production
+- Transparent quoting and production planning with no hidden costs
+- Supply-chain continuity and overflow manufacturing support
+- Expert engineering services and electronics repair
+
+## Capabilities
+- SMT assembly
+- Through-hole assembly
+- Fine-pitch component placement
+- Specialty component assembly
+- Complex mixed-technology assembly
+- Prototype to production manufacturing
+- System assembly and box build
+- Inspection and conformal coating
+- Engineering services
+- Electronics repair and rework
+- Component reconditioning
+- Supply chain continuity and overflow manufacturing
+
+## Industries
+- OEMs
+- Engineering teams
+- Product developers
+- Commercial non-regulated products
+- Electronics industry
+
+## Certifications
+- IPC certified
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Headquarters:** Rockledge, Florida
+
+<details><summary>Sources</summary>
+
+- Location: Rockledge, Florida -> db:hq_city, db:hq_state_label
+- Business type: electronics contract manufacturer -> db:capabilities[0]
+- Specializes in complex builds combining SMT, through-hole, fine-pitch, specialty components -> db:description
+- Offers SMT and through-hole assembly, fine-pitch placement, complex mixed-technology builds -> db:products[1], db:products[2]
+- Provides prototype-to-production manufacturing, system assembly and box build -> db:products[3], db:products[4]
+- Inspection and conformal coating services -> db:capabilities[3]
+- Engineering services and electronics repair/rework -> db:capabilities[4], db:capabilities[6]
+- Supports high-mix, low-to-medium volume production -> db:products[13]
+- Serves OEMs, engineering teams, product developers -> db:products[14]
+- Commercial non-regulated products -> db:products[20]
+- IPC-certified assembly and inspection processes -> db:products[6]
+- Flexible capacity prototypes to low/mid-volume -> db:products[7]
+- Transparent quoting and production planning -> db:products[8]
+- Supply chain continuity and overflow manufacturing partner -> db:products[9]
+- Extends product life cycles, reduces scrap costs -> db:products[17]
+</details>
+
+---
+
+# Interior Woodworks
+
+**Old description:** Privately owned since 1994, Interior Woodworks uses old world techniques to design and fabricate signature pieces to ensure your cabinetry is unique and custom built.
+
+## About
+Interior Woodworks is a privately owned custom cabinetry shop based in Bismarck, North Dakota. Founded in 1994, the company has operated for over three decades under private ownership, though the founders are not named in available records.
+
+The shop specializes in the design and fabrication of custom cabinetry, employing what it describes as old world techniques to produce signature pieces. Each project is built to order, with an emphasis on uniqueness and craftsmanship rather than mass production.
+
+The company serves clients seeking bespoke cabinetry for residential and commercial interiors, though specific industries or customer segments are not detailed in public materials.
+
+Interior Woodworks distinguishes itself through its commitment to traditional woodworking methods, positioning its work as distinct from factory-made alternatives. The firm was started to provide custom-built cabinetry that reflects individual design intent.
+
+## Known for
+- Old world woodworking techniques
+- Custom design and fabrication of signature pieces
+- Each cabinetry piece unique and custom built
+
+## Capabilities
+- Custom cabinetry design
+- Cabinetry fabrication
+- Traditional woodworking techniques
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1994
+- **Ownership:** Privately owned
+- **Headquarters:** Bismarck, North Dakota
+
+<details><summary>Sources</summary>
+
+- Privately owned since 1994 -> db
+- Founded 1994 -> db
+- Headquarters Bismarck, North Dakota -> db
+- Uses old world techniques to design and fabricate signature pieces -> db
+- Custom cabinetry focus -> db
+</details>
+
+---
+
+# Intermountain Furniture Manufacturing Co
+
+_skipped: not enough facts_

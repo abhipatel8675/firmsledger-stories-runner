@@ -1,0 +1,563 @@
+# Farmhouse Style Furniture - Custom Furniture & Kitchen Cabinets | White Bear Lake
+
+**Old description:** At our core, we have a simple mission: to create handcrafted furniture that is both desirable and affordable. We understand the frustration of searching endlessly for the perfect piece, only to find it either out of reach financially or needing more quality. That’s why we have made it our goal to redefine the concept of “affordable furniture” by offering timeless, unique, and durable pieces made from solid wood. Our commitment extends beyond simply providing furniture. We deeply care about our community and have identified a genuine need for high-quality furniture at an accessible price point. By doing so, we aim to bring the beauty and craftsmanship of our pieces to a broader audience within our community and beyond.
+
+## About
+Farmhouse Style Furniture operates from White Bear Township, Minnesota. The business traces its start to 2012 when James Putnam built a dining table for a friend, sparking demand for his woodworking. By 2017 Putnam left his previous job to pursue the craft full time, and the company now runs under the Putnam Farmhouse Furniture brand with a small team that includes Nathan Glenz and Trevor Putnam.
+
+## Known for
+- Custom design collaboration process from concept to installation
+- Handcrafted joinery using dovetail, mortise-and-tenon, and tongue-and-groove techniques
+- Solid-wood construction with species including oak, cherry, maple, and walnut
+- Finish process covering sanding, staining, and sealing for durability
+
+## Capabilities
+- Custom furniture design and build
+- Kitchen cabinetry
+- Bathroom cabinetry
+- Mudroom and entryway storage
+- Living room furniture
+- Dovetail joinery
+- Mortise and tenon joinery
+- Tongue and groove joinery
+- Hand sanding, staining, and sealing
+
+## Industries
+- Residential furniture
+- Custom cabinetry
+- Home improvement
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 2012
+- **Headquarters:** White Bear Township, Minnesota
+
+<details><summary>Sources</summary>
+
+- Location: White Bear Township, Minnesota -> db
+- Founded 2012, full-time since 2017 -> /about-us
+- Founder James Putnam, team includes Nathan Glenz and Trevor Putnam -> /about-us
+- Products: custom furniture, kitchen/bathroom/mudroom/living room cabinetry -> /, /about-us
+- Joinery: dovetail, mortise and tenon, tongue and groove -> /quality
+- Materials: oak, cherry, maple, walnut -> /quality
+- Finish process: sanding, staining, sealing -> /quality
+- Mission: handcrafted affordable furniture -> /, /about-us
+</details>
+
+---
+
+# Farmville Wholesale Electric Supply Co., Inc.
+
+**Old description:** Farmville Wholesale Electric was founded in 1972 by Lynwood G. Smith of Farmville, Virginia. Mr. Smith, widely known as "Linnie", and his two brothers had previously established a contracting and retail firm known as Smitty Brothers Electric Company, which they owned for over forty years following World War II.  It was always Mr. Smith's dream, however, to be involved in the electrical business at the wholesale level.  That dream was realized through his two sons with the formation of FWESCO in 1972.  Mr. Smith went home to the Lord on January 17th, 2004.  He is dearly missed by all who knew him.
+
+## About
+Farmville Wholesale Electric Supply Co., Inc. (FWESCO) was founded in 1972 in Farmville, Virginia, by Lynwood G. "Linnie" Smith. Smith and his two brothers had previously operated Smitty Brothers Electric Company, a contracting and retail firm, for over forty years after World War II. Smith's ambition to operate at the wholesale level was realized through his two sons with the formation of FWESCO.
+
+The company operates a 4,000-square-foot showroom and a sales counter, offering wholesale pricing on electrical supplies and lighting fixtures. It serves as a distributor for residential and commercial lighting products, including chandeliers, ceiling fans, and outdoor lighting. No manufacturing processes are described; the business focuses on wholesale distribution and personalized customer service.
+
+Customers include residential homeowners, commercial contractors, and electricians seeking lighting and electrical supplies. The company's showroom and sales counter cater to both walk-in and project-based buyers in the Farmville region.
+
+The founder's original dream was to establish a wholesale electrical business, a vision carried forward by his sons. The company emphasizes knowledgeable staff and wholesale pricing as distinguishing factors.
+
+## Known for
+- 4,000-square-foot showroom with personalized service
+- Wholesale pricing on electrical supplies and lighting
+- Knowledgeable staff assisting residential and commercial projects
+- Family-owned since 1972
+
+## Capabilities
+- Wholesale electrical supply distribution
+- Lighting design consultation
+- Showroom product demonstration
+- Counter sales
+- Online project planning
+
+## Industries
+- Residential lighting
+- Commercial lighting
+- Electrical supplies
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Founded:** 1972
+- **Ownership:** Family-owned
+- **Headquarters:** Farmville, Virginia
+
+<details><summary>Sources</summary>
+
+- Founded in 1972 by Lynwood G. Smith -> /about
+- Previously operated Smitty Brothers Electric Company -> /about
+- Formation through his two sons -> /about
+- 4,000-square-foot showroom -> /about
+- Wholesale pricing -> /about
+- Knowledgeable staff -> /about
+- Residential and commercial lighting -> /about
+- Product categories: chandeliers, ceiling fans, outdoor lighting -> /
+- Online project planning tool -> /
+</details>
+
+---
+
+# Fashions Unlimited Inc.
+
+**Old description:** Fashions Unlimited is a full-service apparel manufacturer based in Baltimore, Maryland that has been serving a variety of clientele since 1976.
+
+## About
+Fashions Unlimited was founded in 1976 by Phil Spector in Baltimore, Maryland. After a decade working for a local manufacturer, Spector opened the facility to provide full-service apparel production. The company remains a domestic manufacturing operation in Baltimore.
+
+The shop specializes in activewear, intimate apparel, and swimwear constructed from stretch fabrics. Services span product development, pattern making and grading using AccuMark software, 3D digital rendering, cutting and sewing on overlock, single-needle lockstitch, coverstitch, zig‑zag, and flatlock machines, and a Gerber automatic cutter for precision. Finishing includes tagging, bagging, and bulk shipping; repair work covers retagging and rebagging. Production minimums start at 200 pieces per style, with a typical initial order of 300 pieces across multiple colors and sizes.
+
+Clients range from emerging brands to established labels in the activewear, intimate apparel, and swimwear sectors. The company also serves medical‑apparel customers such as Miss Daisy Medical. Fashions Unlimited does not handle tailored wovens, denim, sequins, or silk, and sources all materials domestically.
+
+The firm emphasizes its status as one of the few remaining onshore apparel factories, marketing “Made in the USA” output. Differentiators include in‑house 3D rendering (rare in Maryland), digital pattern workflows that reduce sample iterations, and Spector’s 50‑plus years of industry experience guiding development and costing.
+
+## Known for
+- One of the few remaining onshore apparel manufacturing facilities in the U.S.
+- In‑house 3D digital rendering via AccuMark (rare in Maryland)
+- Gerber automatic cutting for higher accuracy than manual cutting
+- Specialized stretch‑fabric machinery (overlock, coverstitch, flatlock, etc.)
+- Transparent hourly development billing with 50% deposit to start
+
+## Capabilities
+- Product development
+- Pattern making (AccuMark)
+- 3D digital rendering (AccuMark)
+- Cutting & sewing (stretch fabrics)
+- Automatic cutting (Gerber)
+- Finishing (tagging, bagging, bulk shipping)
+- Repair work (retagging, rebagging)
+- Consultation
+- Material sourcing (domestic only)
+
+## Industries
+- Activewear
+- Intimate apparel
+- Swimwear
+- Medical apparel
+
+## Equipment
+- Overlock machines
+- Single-needle lockstitch machines
+- Coverstitch machines
+- Zig-zag machines
+- Flatlock machines
+- Gerber automatic cutting machine
+- AccuMark pattern software
+- AccuMark 3D rendering software
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1976
+- **Headquarters:** Baltimore, Maryland
+
+<details><summary>Sources</summary>
+
+- Founded 1976 by Phil Spector -> /about-us
+- Headquarters in Baltimore, Maryland -> /about-us
+- Specializes in activewear, intimate apparel, swimwear with stretch fabrics -> /about-us
+- Services: product development, pattern making, 3D rendering, cutting & sewing, finishing, repair -> /about-us
+- Machines: overlock, single-needle lockstitch, coverstitch, zig-zag, flatlock, Gerber automatic cutter -> /about-us
+- Software: AccuMark for pattern making and 3D rendering -> /about-us
+- Minimum production order 200 pieces per style -> /about-us
+- Typical starting order 300 pieces across 2-3 colorways and 3-4 sizes -> /about-us
+- Development billed at $200/hr, typical project $3,000 per style -> /about-us
+- Materials sourced domestically; no sequins, denim, silk -> /about-us
+- Client Miss Daisy Medical -> db
+- Company description: full-service apparel manufacturer -> db
+</details>
+
+---
+
+# Fehrer Automotive
+
+**Old description:** Wir sind einer der weltweit führenden Spezialisten für Komponenten im Fahrzeuginnenraum.
+
+## About
+Fehrer Automotive operates from Gadsden, Alabama, as the U.S. arm of the Fehrer Group, which is integrated into the globally positioned AUNDE Group — one of the 100 largest automotive suppliers worldwide.
+
+The company manufactures seat cushions, seat modules, and lightweight composite structures made from fiber-reinforced plastics. It provides full-service support from initial concept through series production, including design via more than 50 CAD workstations, CNC-milled prototypes, and on-site service centers at major OEM facilities that enable direct collaboration with customer engineering teams.
+
+Fehrer serves automotive original equipment manufacturers, maintaining close proximity to OEMs through dedicated service centers. Its components are integrated into vehicle interiors across global platforms, with the company covering the complete value chain from development to serial delivery.
+
+Fehrer differentiates itself through end-to-end process control, customer-located engineering support, and material innovations such as variPUR, a proprietary lightweight material system. The group emphasizes quality management certified to ISO 9001, ISO 14001, and IATF 16949 standards.
+
+## Known for
+- Full-service coverage from concept to series production
+- Complete in-house value chain
+- On-site service centers at OEM locations
+- 50+ CAD workstations including at customer sites
+
+## Capabilities
+- Concept-to-production full service
+- Complete value chain management
+- CAD design (50+ workstations)
+- CNC milling for prototypes
+- Composite component manufacturing
+- Seat cushion production
+- Seat module assembly
+- On-site OEM engineering support
+
+## Industries
+- Automotive
+- Automotive OEM
+
+## Certifications
+- ISO 9001
+- ISO 14001
+- IATF 16949
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Gadsden, Alabama
+
+<details><summary>Sources</summary>
+
+- Fehrer Automotive operates from Gadsden, Alabama -> db
+- Part of AUNDE Group, one of the 100 largest automotive suppliers -> /
+- Specializes in vehicle interior components: seat cushions, seat modules, composite components -> /
+- Composite production since the 1980s -> /
+- Certifications: ISO 9001, ISO 14001, IATF 16949 -> db
+- Full service from idea to series production -> db
+- 50+ CAD workstations, service centers at OEMs -> db
+- variPUR material innovation -> /
+- Headquarters in Kitzingen (global), but this profile for Gadsden, Alabama -> / and db
+</details>
+
+---
+
+# Felbro Food Products, Inc.
+
+**Old description:** Felbro has been a market leader in food manufacturing since 1946. Through the years, we’ve worked with some of the world’s most recognized names in the food business, leveraging our premier team of experts in R&D and manufacturing. Still, we remain true to our values as a family-owned enterprise focusing on high-touch service, fast response times and superior quality.
+
+## About
+Felbro Food Products operates from Los Angeles, California, with a second facility in Compton. The company was founded in 1946 by brothers Maury and Sid Feldmar, who built the business around their shared interest in food formulation. The name Felbro derives from their surname. Ownership has remained in the family: the founders' sons, Mike and Bart Feldmar, joined in 1967, and the third generation arrived in 2007 when Mike's son Daniel entered the business. The firm moved from Venice Boulevard to its current Adams Boulevard location in 1972, expanded into the adjacent office building in 1982, and added the Compton site in 2006.
+
+Felbro develops and manufactures custom food and beverage formulas for commercial clients. Its product range covers powders and liquids spanning sweet and savory profiles. The company provides full-service solutions that include ideation, product development, manufacturing scale-up, inventory management, and delivery. Operations run from the Adams Boulevard plant and the Compton facility, though total square footage and headcount are not disclosed.
+
+Customers include quick-service restaurant chains, foodservice distributors, and branded food companies seeking private-label or co-manufacturing partners. Felbro describes itself as the behind-the-scenes team for some of the largest names in the food service industry, though specific client names are not public.
+
+The company emphasizes its family-owned structure as a differentiator, citing high-touch service, fast response times, and a consultative approach to product development. Minimum order thresholds are set at 3,000 pounds (or 600 gallons), with separate handling for smaller runs.
+
+## Known for
+- Family-owned across three generations
+- Full-service from ideation through delivery
+- Consultative approach to product development
+- Minimum order flexibility at 3,000 lb / 600 gal threshold
+
+## Capabilities
+- Custom food and beverage formulation
+- Product development and ideation
+- Manufacturing scale-up
+- Inventory management
+- Delivery and logistics
+- Powder production (sweet and savory)
+- Liquid production (sweet and savory)
+- Private labeling and co-manufacturing
+
+## Industries
+- Food and beverage manufacturing
+- Quick service restaurants
+- Foodservice distributors
+- Private label food brands
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1946
+- **Ownership:** Family-owned
+- **Headquarters:** Los Angeles, California
+
+<details><summary>Sources</summary>
+
+- Founded 1946 by Maury and Sid Feldmar -> /about
+- Family-owned, three generations (Mike, Bart, Daniel) -> /about
+- Facility history: Venice Blvd to Adams Blvd 1972, expanded 1982, Compton 2006 -> /about
+- Custom food and beverage formulas, powders and liquids sweet to savory -> /
+- Full-service: ideation, product development, scale-up, inventory management, delivery -> /
+- Industries: quick service restaurants, foodservice distributors, major food brands -> /
+- Minimum order thresholds: <3000lb/600gal and >3000lb/600gal -> /about
+- Headquarters Los Angeles, California -> db
+</details>
+
+---
+
+# Fellers Food Service Equipment & Design
+
+**Old description:** Bringing Foodservice Equipment and Design Together Since 1945
+
+## About
+Fellers Food Service Equipment & Design operates from Springfield, Missouri, where it was founded in 1945. The company has spent decades developing its craft in foodservice equipment distribution and commercial kitchen design, serving the region from its location
+
+The business combines equipment sales with design services, maintaining a showroom and product catalog for foodservice operators. A dedicated design team works on kitchen planning and visualization, while the company stocks and sources equipment ranging from cooking and refrigeration to preparation and serving lines. No facility size, headcount, or annual volume figures are disclosed.
+
+Fellers serves the foodservice and restaurant industries, including independent restaurants, institutional kitchens, and multi-unit operators.
+
+The company states its mission is to provide the highest level of service, merchandise, and insights, describing a continuing mission to learn and create new, better ways for customers to do business and succeed. The focus is framed around customer success rather than product specifications alone.
+
+## Known for
+- Foodservice equipment distribution and kitchen design since 1945
+- On-site showroom and product catalog for hands-on evaluation
+- Dedicated design team for commercial kitchen planning and visualization
+- Consultative approach focused on operator success
+
+## Capabilities
+- Foodservice equipment distribution
+- Commercial kitchen design
+- Showroom display and product demonstration
+- Project consultation and planning
+- Equipment specification and sourcing
+
+## Industries
+- Foodservice
+- Restaurant
+- Commercial kitchen
+- Institutional foodservice
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Founded:** 1945
+- **Headquarters:** Springfield, Missouri
+
+<details><summary>Sources</summary>
+
+- Founded 1945 -> db
+- Headquarters Springfield, Missouri -> db
+- Address 2140 Grand St, Springfield, MO 65802 -> page '/'
+- Tagline 'Bringing Foodservice Equipment and Design Together Since 1945' -> page '/'
+- Showroom and catalog mentioned -> page '/'
+- Design team for kitchen planning -> page '/'
+- Customer quote about best-in-class operation -> page '/'
+- Mission statement about service, merchandise, insights -> page '/'
+- Social media: Facebook, Twitter, YouTube -> page '/'
+</details>
+
+---
+
+# Fernwood Designs Woodworking
+
+**Old description:** Located in the Blue Ridge Mountains of  Western North Carolina, Rich Grenier is the owner/creator of Fernwood Designs.  His shop is tucked away on a peaceful parcel of land where he lives with his wife and artist
+
+## About
+Fernwood Designs Woodworking operates from a shop in Mars Hill, North Carolina, nestled in the Blue Ridge Mountains of western North Carolina. The business was founded by Rich Grenier, who serves as owner and creator, and runs the operation from a property he shares with his wife, artist Francine D’Antuono. A wooded path connects their home to the workshop, providing daily inspiration for his work.
+
+The shop produces a range of custom wood products and milling services. Offerings include custom cabinetry, furniture spanning farmhouse rustic to refined urban styles, wood countertops and table tops, built-in units, tongue-and-groove milling for flooring and ceilings, lathe-turned legs and trim, and milling and sanding of raw lumber up to 50 inches wide. The company also provides epoxy and stone inlays, fine art frames, interior and exterior doors, trim, and mouldings, along with design services that deliver detailed drawings and plans for projects of any scale.
+
+Fernwood Designs serves residential and commercial clients seeking custom architectural woodwork, furniture, and cabinetry. The company’s project portfolio includes kitchens, individual furniture pieces, and architectural millwork for both interior and exterior applications.
+
+Grenier emphasizes the artistic qualities of wood, working with exotic species and reclaimed boards salvaged from old structures. He treats each piece as a unique work of art, preserving the wood’s natural character through assembly. The addition of design services, led by D’Antuono, allows clients to visualize projects before fabrication begins.
+
+## Known for
+- Works with exotic and reclaimed lumber sourced from historic structures
+- Each piece of wood treated as an individual work of art
+- In-house design services with detailed drawings and plans
+- Milling and sanding capacity for raw lumber up to 50 inches wide
+- Epoxy and stone inlay capabilities
+
+## Capabilities
+- Custom cabinetry
+- Furniture manufacturing (farmhouse rustic to refined urban)
+- Wood countertop and table top fabrication
+- Custom built-in units
+- Tongue-and-groove milling for flooring and ceilings
+- Lathe turning for legs and trim
+- Milling and sanding of raw lumber up to 50 inches wide
+- Epoxy and stone inlay
+- Fine art frame making
+- Interior and exterior door manufacturing
+- Trim and moulding production
+- Design and drafting services
+
+## Company details
+- **Company Type:** Manufacturer
+- **Ownership:** Owner-operated (Rich Grenier)
+- **Headquarters:** Mars Hill, North Carolina
+
+<details><summary>Sources</summary>
+
+- Location: Mars Hill, NC -> db
+- Owner: Rich Grenier -> /about-us
+- Wife/artist: Francine D'Antuono -> /about-us
+- Shop on peaceful parcel with wooded path -> /about-us
+- Services: custom cabinetry, furniture, countertops, built-ins, tongue-and-groove milling, lathe turning, milling/sanding up to 50" wide, epoxy/stone inlays, fine art frames, doors, trim/mouldings -> /about-us
+- Design services offered with detailed drawings -> /about-us
+- Works with exotic and reclaimed lumber -> /about-us
+- Artistic approach to wood selection and assembly -> /about-us
+- Phone number 828-280-8636 -> /
+</details>
+
+---
+
+# Ferraro Foods of North Carolina
+
+**Old description:** EXCLUSIVE BRANDS AND PRODUCTS DESIGNED WITH OUR CUSTOMERS IN MIND
+
+## About
+Ferraro Foods traces its roots to 1975, when founder Ferraro established the business in Greenbrook, New Jersey. The company later relocated its headquarters to Mebane, North Carolina, where it operates today as an Italian specialty food distributor.
+
+The distributor carries thousands of stock-keeping units spanning pasta, premium cheeses, tomatoes, flour, beverages, meats, seafood, appetizers, desserts, and packaging such as pizza boxes and food containers. Its logistics network relies on multi-temperature trucks and refrigerated loading docks to maintain product integrity across a footprint that serves more than 8,000 customers in 26 states.
+
+Ferraro Foods targets the foodservice sector, supplying restaurants, pizzerias, caterers, and other operators that require consistent access to Italian and specialty ingredients. The company’s online ordering platform and monthly product publication, FRESCO by Ferraro, are designed to keep buyers current with new items and seasonal trends.
+
+From its start, the firm’s stated mission has been to lead the Italian food distribution market by delivering quality products, value, and reliable service. The ownership develops exclusive brands tailored to customer needs and emphasizes a cold-chain infrastructure that moves goods from distribution center to dock to truck under uniform standards.
+
+## Known for
+- Exclusive brands developed with customer input (FRESCO by Ferraro)
+- Multi-temperature fleet and refrigerated docks for cold-chain integrity
+- Serves over 8,000 foodservice accounts across 26 states
+- Monthly FRESCO publication highlights new products
+- Online ordering platform for stocked items
+
+## Capabilities
+- Food distribution
+- Multi-temperature transportation
+- Refrigerated warehousing
+- Online ordering
+- Exclusive brand development
+- Product sourcing
+- Monthly product catalog publication
+
+## Industries
+- Foodservice
+
+## Equipment
+- Multi-temp trucks
+- Refrigerated loading docks
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Founded:** 1975
+- **Headquarters:** Mebane, North Carolina
+
+<details><summary>Sources</summary>
+
+- Founded 1975 in Greenbrook, New Jersey -> page '/'
+- Founder Ferraro -> page '/'
+- Headquarters Mebane, North Carolina -> db
+- Services over 8,000 customers in 26 states -> page '/'
+- Carries thousands of products including pasta, cheeses, tomatoes, flour, beverages, meats, seafood, appetizers, desserts, pizza boxes, food containers -> page '/'
+- Uses multi-temp trucks and refrigerated loading docks -> page '/'
+- Exclusive brand FRESCO by Ferraro -> page '/'
+- Monthly publication FRESCO -> page '/'
+- Mission to be leading Italian Food distributor -> page '/'
+- Online ordering available -> page '/'
+- Company type: Distributor / reseller -> page '/' (Italian Food Distributor)
+- LinkedIn URL -> db
+</details>
+
+---
+
+# Fetting's Frozen Foods, LLC
+
+**Old description:** Mason Brothers Company is a family-owned wholesale grocery distributor proudly serving independent grocers across Minnesota, the Dakotas, Wisconsin, Iowa, and Michigan. With over 100 years of trusted experience, we deliver a full range of high-quality products—from fresh produce and frozen foods to dairy, dry goods, and tobacco.
+
+## About
+Fetting's Frozen Foods, LLC, operating as Mason Brothers Company, is a family-owned wholesale grocery distributor headquartered in Finley, North Dakota. The business traces its roots to 1920, when it began serving independent grocers across the Upper Midwest. Over more than a century, it has remained under family ownership, building a reputation for reliable supply across Minnesota, North Dakota, South Dakota, Wisconsin, Iowa, and Michigan.
+
+The company provides full-line grocery distribution, delivering fresh produce, frozen foods, dairy, dry goods, and tobacco products. Beyond core distribution, it operates three in-house brands: Heartland Farms for premium meats, Abby's Bakery for fresh-baked breads, rolls, cookies, and pastries, and Big Papa's 4th Street Meats for snack sticks and packaged meats. Services include in-store merchandising support, advertising programs, and dedicated logistics across its six-state territory. The deli foodservice capability supports convenience stores and retail delis with prepared foods and supplies.
+
+Customers are primarily independent grocery retailers, convenience stores, and deli foodservice operators throughout the Upper Midwest. The distributor tailors its product mix and merchandising assistance to the needs of smaller, locally owned stores that rely on consistent delivery and category expertise.
+
+Mason Brothers positions itself as a retail success partner rather than a transactional supplier. The combination of private-label brands, hands-on merchandising, and regional logistics is intended to give independent grocers a competitive edge against larger chains. The company emphasizes its long-term relationships and family-owned stability as differentiators in a consolidating industry.
+
+## Known for
+- Family-owned with over 100 years of continuous operation
+- Three proprietary brands: Heartland Farms (meat), Abby's Bakery (baked goods), Big Papa's 4th Street Meats (meats)
+- In-store merchandising and advertising support for independent retailers
+- Dedicated logistics network covering six Upper Midwest states
+- Full-line grocery distribution including fresh, frozen, dairy, dry, and tobacco
+
+## Capabilities
+- Wholesale grocery distribution
+- Deli foodservice supply
+- In-store merchandising support
+- Advertising and marketing services
+- Regional logistics and delivery
+- Private label brand management
+- Fresh bakery production
+
+## Industries
+- Grocery wholesale
+- Independent grocery retail
+- Convenience stores
+- Deli foodservice
+- Foodservice distribution
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Founded:** 1920
+- **Ownership:** Family-owned
+- **Headquarters:** Finley, North Dakota
+
+<details><summary>Sources</summary>
+
+- Company name: Fetting's Frozen Foods, LLC -> db
+- Operating as Mason Brothers Company -> /
+- Family-owned wholesale grocery distributor -> /, db
+- Founded/serving since 1920 -> /
+- Headquarters in Finley, North Dakota -> db
+- Serves independent grocers across Minnesota, North Dakota, South Dakota, Wisconsin, Iowa, Michigan -> /, db
+- In-house brands: Heartland Farms, Abby's Bakery, Big Papa's 4th Street Meats -> /
+- Services: full-line grocery distribution, retailer support & merchandising, convenience store and deli foodservice, logistics -> /
+- Employee benefits package described -> /
+- Capability: Deli Foodservice -> db
+</details>
+
+---
+
+# Findlay Food Coatings
+
+**Old description:** Findlay Food Coatings can design and blend innovative and individualized recipes for you, our customer.
+
+## About
+Findlay Food Coatings operates from Caldwell, Idaho, where its state-of-the-art facility was commissioned in January 2015. The U.S. entity, Findlay Food Coatings Ltd, was established in 2013 as the American arm of the Findlay Family Group, a fourth-generation family business with roots stretching back over a century to a local bread bakery on New Zealand’s East Coast. The group grew into the region’s largest plant bread producer before expanding into panko and conventional breadcrumbs and batter coating systems in the 1990s. David Findlay serves as managing director of the U.S. operation.
+
+The company designs and blends custom food-coating recipes, producing premixes, batter washes, pre-dusts, clear coats, flour-based French fry batters, adhesion batters, and tempura batters. Its U.S.-based technical team develops coating systems for substrates ranging from proteins to vegetables. A second powder-blending site in Nampa, Idaho, built in 2013, serves as a backup to the primary Caldwell plant.
+
+Findlay serves the food-coatings segment of the food-manufacturing industry, supplying manufacturers that coat French fries, proteins, and vegetables. Its customer base consists of food processors seeking cost-effective, innovative coating solutions for both new-product development and cost-reduction projects.
+
+The business emphasizes its family-owned heritage and a reputation for innovation, reliability, and consistency. Customers are drawn by the company’s willingness to “think outside the box” and deliver on its promises, backed by worldwide coating knowledge and a dedicated U.S. technical center.
+
+## Known for
+- Fourth-generation family ownership with over 100 years of food-industry experience
+- State-of-the-art Caldwell facility commissioned in 2015 with a backup Nampa plant
+- U.S.-based technical team that develops custom coating systems for proteins and vegetables
+- Reputation for innovation, quality, reliability, and consistency
+- Worldwide food-coating knowledge applied to custom recipe design
+
+## Capabilities
+- Custom food-coating recipe design and blending
+- Premix production
+- Batter wash production
+- Pre-dust production
+- Clear coat production
+- Flour-based French fry batter production
+- Adhesion batter production
+- Tempura batter production
+- Coating system development for proteins and vegetables
+- Powder blending
+
+## Industries
+- Food manufacturing
+- Food coatings
+- Frozen potato products (French fries)
+- Protein processing
+- Vegetable processing
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 2013
+- **Ownership:** Family-owned
+- **Headquarters:** Caldwell, Idaho
+
+<details><summary>Sources</summary>
+
+- Founded 2013 as U.S. entity -> /about-us
+- Caldwell facility commissioned January 2015 -> /about-us
+- Family-owned, fourth generation, over 100 years history -> /about-us
+- Products: premixes, batter wash, pre-dusts, clear coat, flour-based French fry batters, adhesion and tempura batters -> /
+- Custom recipe design and blending for proteins and vegetables -> /
+- Nampa backup plant built 2013 -> /about-us
+- David Findlay Managing Director -> /
+- Headquarters Caldwell, Idaho -> db
+</details>
+
+---

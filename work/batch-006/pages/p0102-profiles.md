@@ -1,6 +1,95 @@
 # SVTronics, Inc
 
-_skipped: 'NoneType' object has no attribute 'group'_
+**Old description:** SVTronics offers fully integrated solutions to customers who require more than just a PCB assembly. Our MAG team specializes in delivering fully integrated solutions with highly diversified requirements.
+
+## About
+SVTronics, Inc. operates from its headquarters in Plano, Texas. The company holds Minority Business Enterprise, HUBZone, and Small Business Enterprise certifications, reflecting its ownership structure. While a founding year is not publicly disclosed, the firm has built an advanced electronics manufacturing facility focused on restoring domestic production capacity.
+
+The company provides end-to-end electronics manufacturing services, ranging from prototype to high-volume production. Its capabilities include surface-mount and through-hole PCB assembly, with a dedicated high-speed SMT line and a separate prototype SMT line, automated screen printing with vision inspection, 01005 component placement, wave and selective soldering, conformal coating, mechanical assembly, and wiring and cable harness fabrication. Engineering support covers mechanical and electrical design, new product introduction, system integration, and testing. Order fulfillment and aftermarket services round out the offering.
+
+SVTronics serves military, aerospace, and government customers through its Military Aerospace and Government (MAG) business unit, led by Director Zenon “Bud” Maciekowicz. The company’s quality certifications — including ISO 9001:2015, AS9100D, and ISO 13485 — also position it for medical device and other regulated sectors.
+
+The company emphasizes a “Bring Manufacturing Back to America” mission, highlighting its U.S.-based facility and an online QuickPrice tool that delivers instant quotes with automated DFM/DFA checks and BOM sourcing. ITAR registration further enables work on defense-related programs.
+
+## Known for
+- Instant online quoting with automated DFM/DFA analysis and BOM sourcing
+- ITAR-registered facility for defense programs
+- Minority-owned, HUBZone and Small Business Enterprise certified
+- Dedicated high-speed SMT lines for both prototype and volume production
+- End-to-end services from engineering through aftermarket support
+
+## Capabilities
+- PCB Assembly (SMT and Through-Hole)
+- Prototype PCB Assembly
+- High-Volume PCB Assembly
+- New Product Introduction (NPI)
+- Mechanical Engineering Services
+- Electrical Engineering Services
+- System Integration and Testing
+- Cable and Wire Harness Assembly
+- Mechanical Assembly
+- Conformal Coating
+- Automated Screen Printing with Vision Inspection
+- 01005 Component Placement
+- Wave Soldering
+- Selective Soldering
+- Order Fulfillment and Logistics
+- Aftermarket Support Services
+- Automated BOM Sourcing
+- Online Quoting with DFM/DFA Analysis
+- 3D Product Rendering
+- Gerber and ODB++ File Support
+
+## Industries
+- Military
+- Aerospace
+- Government
+
+## Equipment
+- High-speed SMT production line
+- Prototype SMT production line
+- Automated vision screen printers
+- Wave soldering equipment
+- Selective soldering equipment
+
+## Certifications
+- ISO 9001:2015
+- AS9100D
+- ISO 13485
+- ITAR Registered
+- HUB Certificate
+- SBE Certificate
+- IPC 610
+- IPC 620
+- SMTA
+- Minority Business Certification
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Ownership:** Minority-owned, HUBZone certified, Small Business Enterprise
+- **Headquarters:** Plano, Texas
+
+<details><summary>Sources</summary>
+
+- Company name SVTronics, Inc -> db
+- Headquarters Plano, Texas -> db
+- Certifications ISO9001, ISO13485, ITAR -> db
+- Capabilities list including mechanical/electrical engineering, order fulfillment, 01005 placement, screen printers with vision, conformal coating -> db
+- Products list including PCB assembly, cable assemblies, prototype and high-volume production, SMT lines, wave/selective soldering -> db
+- Industries served: Military Aerospace & Govt - MAG -> db
+- LinkedIn URL -> db
+- Homepage: address 3465 Technology Dr Plano, TX 75074, phone, email -> /
+- Homepage: certifications ISO 9001:2015, AS9100D, ISO 13485, ITAR Registered, HUB Certificate, SBE Certificate, IPC 610, IPC 620, SMTA, Minority Business Certification -> /
+- Homepage: services - New Product Introduction, Electronic Manufacturing, System Integration and Testing, Mechanical and Electrical Engineering, Wiring and Cable Assemblies, Order Fulfillment and Aftermarket Services -> /
+- Homepage: online QuickPrice tool with instant quoting, automatic BOM sourcing, DFM/DFA check, Gerber/ODB++ support, 3D rendering -> /
+- Homepage: 'Bringing Manufacturing Back to America' mission, advanced facility in Plano, Texas -> /
+- Homepage: fully automated high speed SMT production line, separate SMT line for prototype production -> /
+- Homepage: screen printers with automated vision capability, wave and selective soldering, placement capability for 01005 package components -> /
+- Homepage: 'We provide all types of manufacturing services for electronics products from prototype thru production' -> /
+- Homepage: Military Aerospace & Govt - MAG business unit, Director Zenon “Bud” Maciekowicz -> /
+</details>
+
+---
 
 # Safe-T-Cap Manufacturing
 

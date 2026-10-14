@@ -1,0 +1,607 @@
+# Tekin
+
+**Old description:** The Tekin Pro-Lock Bullet connectors securely hold your battery connections no matter the conditions. Our proprietary design utilizes a unique internal locking mechanism that holds bullet connections firmly and will not fatigue or loosen up over time. A simple twist of the thumb nut cap, push down and your Pro-Lock bullet unlocks for easy removal from the battery terminal. Easy, tool-less insertion and removal means no more torn up fingers and pulling on wiring to unplug your batteries. Pro-Lock Bullets are the only solution for solid, efficient connections.
+
+## About
+Tekin, Inc. operates from McCall, Idaho, where it designs and manufactures electronic speed controls, brushless and brushed motors, servos, LiHV batteries, and proprietary connectors for radio-control vehicles. The company's founding year and ownership structure are not publicly disclosed in the available sources.
+
+The product line spans multiple ESC platforms — including the RX8 GEN3 for 1:8-scale racing, the RSX Pro for modified competition, the compact RS GEN3 series, the BXR brushed reversing controller, and the RX4 HardBox rock-crawling unit — alongside the Eliminator and GEN4 brushless motor families, the GEN4 SPEC-R spec-class motors, 5-Slot brushed crawler motors, full-aluminum-housing servos with digital magnetic position encoding, and POWER CELL LiHV battery packs in 1S–4S configurations. Tekin also produces the Pro-Lock Bullet connector, which uses a patented internal locking mechanism and tool-less thumb-nut release.
+
+Customers range from professional RC racers and no-prep drag teams to scale crawler enthusiasts and hobbyists. The RX8 GEN3 is noted as a choice of top drivers worldwide; the TYPE-D 4-pole 12-slot motor targets no-prep drag racing; the BXR and RX4 serve trail and rock-crawling applications; and the 5-Slot brushed motors address micro-crawler builds. Tekin also runs a custom-build series, Tekin Adventures, showcasing 3D-printed and kit-based projects.
+
+The company emphasizes racer-driven development — "Built for racers by racers" — and differentiates through field-tunable firmware via the HotWire programming device, Active Drag technology for throttle control, Element Proof sealing for all-weather durability, and Ultra-Low Resistance (ULR) motor windings. The Pro-Lock connector was created to eliminate connection fatigue and finger injuries common with traditional bullet plugs.
+
+## Known for
+- Proprietary Pro-Lock Bullet connector with internal locking mechanism and tool-less release
+- HotWire programming device and firmware ecosystem for ESC/motor tuning
+- Active Drag technology for smooth throttle and drag-brake control
+- Element Proof sealing on ESCs and servos for all-weather operation
+- ULR (Ultra-Low Resistance) motor winding technology for spec and modified classes
+
+## Capabilities
+- Electronic speed control (ESC) design and manufacturing
+- Brushless motor design and manufacturing
+- Brushed motor design and manufacturing
+- Servo design and manufacturing
+- LiHV battery pack assembly
+- Connector design and manufacturing
+- Firmware development and over-the-air updates
+- HotWire PC-based tuning interface
+- Custom RC vehicle prototyping and builds
+
+## Industries
+- Radio-control (RC) racing
+- RC drag racing / no-prep
+- RC rock crawling and scale trailing
+- RC hobby and enthusiast market
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** McCall, Idaho
+
+<details><summary>Sources</summary>
+
+- Headquarters: McCall, Idaho -> db
+- Pro-Lock Bullet connector proprietary design with internal locking mechanism and tool-less thumb-nut release -> pages./
+- RX8 GEN3 1:8 scale racing ESC chosen by top drivers worldwide -> pages./
+- RSX Pro modified ESC with HotWire tuning -> pages./
+- TYPE-D 4-pole 12-slot drag racing motor -> pages./
+- Tekin servos with full aluminum housing, digital magnetic position encoding, precision metal gears, Element Proof design -> pages./
+- POWER CELL LiHV batteries 1S-4S with 5mm bullets and 4-5mm reducers -> pages./
+- Eliminator drag racing motors in 5.0T-2.5T variants with option rotors -> pages./
+- GEN4 brushless motors 9.5T-5.5T with option rotors -> pages./
+- GEN4 SPEC-R motors 25.5T-10.5T with ULR technology -> pages./
+- 5-Slot brushed crawler motors 12T-20T, fully rebuildable -> pages./
+- BXR brushed reversing ESC under 1-inch square, Active Drag, Element Proof -> pages./
+- RX4 HardBox rock racing/crawling controller, Element Proof -> pages./
+- HotWire firmware updates (V291, V293, V295) for throttle/brake/torque control -> pages./
+- Tekin Adventures custom builds (K-55 rally truck, 3D printed, RX4 powered) -> pages./
+- RS GEN3 platform with Active Drag, 3rd channel input, HotWire compatibility -> pages./
+</details>
+
+---
+
+# Telink Semiconductor
+
+**Old description:** LE prioritizes ultra-low power efficiency and is ideal for applications demanding minimal, infrequent data transfers. Since 2014, Telink’s Bluetooth
+
+## About
+Telink Semiconductor, headquartered in Tustin, California, was founded in 2014 as a fabless semiconductor company specializing in ultra-low-power wireless connectivity chips for the Internet of Things. The company operates globally with sales and support offices in Shanghai, Shenzhen, Taipei, Silicon Valley, and the United Kingdom.
+
+Telink designs and supplies multi-protocol system-on-chip (SoC) solutions that integrate Bluetooth Low Energy, Bluetooth Classic, Bluetooth Mesh, Zigbee, Thread, Matter, Wi-Fi 6, and proprietary 2.4 GHz protocols. Its product portfolio includes the TL323X, TL3225 automotive-grade, TL721X, and TL3228 series, supported by complete software development kits, reference designs, an integrated development environment, and a technical forum for engineering support.
+
+The company's chips are used in smart home devices (lighting, locks), wireless audio and gaming peripherals, human interface devices, remote controls for major smart TV and set-top box brands, industrial IoT, automotive applications, and electronic shelf labels for smart retail. Telink cites deployments with some of the world's largest device makers and OEMs across these segments.
+
+Telink emphasizes ultra-low power efficiency, seamless multi-protocol transition on a single chip, and a one-stop development ecosystem as its core differentiators. The firm states its mission is to accelerate time-to-market for IoT developers through certified, interoperable connectivity solutions.
+
+## Known for
+- Ultra-low power efficiency for infrequent data transfers
+- Multi-protocol wireless SoCs supporting Bluetooth LE/Classic/Mesh, Zigbee, Thread, Matter, Wi-Fi 6, and 2.4 GHz proprietary
+- Thread and Matter certified products
+- Complete SDKs, reference designs, IDE, and technical forum for one-stop development support
+- Global sales and engineering support across China, Taiwan, North America, and Europe
+
+## Capabilities
+- Multi-protocol wireless SoC design
+- Bluetooth Low Energy (LE) implementation
+- Bluetooth Classic implementation
+- Bluetooth Mesh networking
+- Zigbee protocol support
+- Matter protocol support
+- Thread protocol support
+- Wi-Fi 6 (1T1R) integration
+- 2.4 GHz proprietary protocol development
+- Amazon Sidewalk ecosystem solutions
+- Software development kit (SDK) development
+- Reference design creation
+- Integrated development environment (IDE) provision
+- Hardware design guidelines
+- Technical support forum
+- Automotive-grade IC qualification
+
+## Industries
+- Smart home
+- Wireless audio
+- Wireless gaming
+- Industrial IoT
+- Automotive
+- Smart retail
+- Human input devices
+- Remote controls
+
+## Certifications
+- ROHS
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 2014
+- **Headquarters:** Tustin, California
+
+<details><summary>Sources</summary>
+
+- Founded 2014 -> db
+- Headquarters Tustin, California -> db
+- ROHS certification -> db
+- Multi-protocol wireless SoCs (Bluetooth LE, Classic, Mesh, Zigbee, Thread, Matter, Wi-Fi 6, 2.4GHz proprietary) -> /
+- Product series: TL323X, TL3225 automotive-grade, TL721X, TL3228 -> /
+- SDKs, reference designs, IDE, technical forum -> /
+- Industries: smart home, wireless audio, wireless gaming, industrial, automotive, smart retail, human input devices, remote controls -> /
+- Global offices: Mainland China (East, North, South), Taiwan, North America West Coast, Europe/Middle East/Africa -> /
+- Ultra-low power efficiency emphasis -> /
+- Thread and Matter certified -> /
+- Amazon Sidewalk ecosystem solutions -> /
+</details>
+
+---
+
+# Terrain Biomedical, Inc.
+
+**Old description:** Working with the leading brands in our competitive industry, the staff at Terrain Biomedical has been refurbishing and selling quality sterilizers since 2005. Our company has developed a solid reputation as a trustworthy and reliable source of sterilizers and a variety of other medical equipment.
+
+## About
+Terrain Biomedical, Inc. is based in Buffalo Grove, Illinois, and has been operating since 2005. The company was established to provide a more cost-effective, realistic approach to medical equipment transactions, covering the full equipment life cycle rather than just sales. No founders are named in the available materials, and ownership structure is not disclosed.
+
+The company refurbishes and sells sterilizers and a broad range of medical equipment, including autoclaves, defibrillators, patient monitors, fetal monitors, electrosurgical units, and surgical tables. Its team of degreed biomedical engineers follows strict processes to return used equipment to manufacturer-recommended specifications. Terrain also provides preventative maintenance, repair, re‑certification, electrical safety inspections, operational testing, installation, staff training, equipment removal, consultation, and rental services. Brands carried include Zoll, Corometrics, Mindray, and STERIS.
+
+Terrain serves skilled nursing facilities, rehabilitation centers, and other healthcare providers that need reliable medical equipment acquisition, service, and support. Customers range from facilities looking to purchase or rent refurbished units to those requiring ongoing maintenance contracts and emergency repair.
+
+The company emphasizes a complete life‑cycle service model: ensuring equipment works, is necessary, and lasts. Its engineers are qualified to perform repairs and re‑certifications on behalf of several major medical equipment manufacturers, and the firm offers free white‑glove local delivery on purchases.
+
+## Known for
+- Degreed biomedical engineers with manufacturer‑level qualifications
+- Strict refurbishment processes to OEM specifications
+- Authorized service for major medical equipment brands
+- Full life‑cycle support from purchase through retirement
+- Free white‑glove local delivery
+
+## Capabilities
+- Medical equipment refurbishment
+- Medical equipment sales
+- Medical equipment rental
+- Medical equipment repair
+- Preventative maintenance
+- Installation and training
+- Equipment removal
+- Consultation services
+- Biomedical engineering services
+- Re‑certification
+- Electrical safety inspection
+- Operational testing
+- Performance checks
+- Field service
+
+## Industries
+- Skilled nursing facilities
+- Rehabilitation facilities
+- Healthcare facilities
+- Medical equipment
+
+## Equipment
+- Autoclaves
+- Bladder scanners
+- Defibrillators
+- ECG/EKG machines
+- Electrosurgical units
+- Endoscopy equipment
+- Exam chairs
+- Fetal monitors
+- Patient monitors
+- Pulse oximeters
+- Zoll R Series Defibrillator/Monitor
+- Corometrics 170 Fetal Monitor
+- Mindray Passport 12m Patient Monitor
+- STERIS Amsco 3080 Surgical Table
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Founded:** 2005
+- **Headquarters:** Buffalo Grove, Illinois
+
+<details><summary>Sources</summary>
+
+- Founded 2005 -> db
+- Headquarters Buffalo Grove, Illinois -> db
+- Refurbishing and selling sterilizers since 2005 -> /
+- Biomedical engineers, degreed and experienced -> /about-us
+- Strict processes to bring used equipment back to manufacturer specs -> /about-us
+- Qualified to perform repairs, maintenance and re-certifications on behalf of major manufacturers -> /about-us
+- Services: repair, maintenance, re-certification, installation, training, removal, consultation, rental -> /about-us, /services
+- Brands carried: Zoll, Corometrics, Mindray, STERIS -> /
+- Industries: skilled nursing and rehabilitation facilities -> /about-us, /
+- Free white glove local delivery -> /
+- Complete equipment life cycle service focus -> /about-us
+</details>
+
+---
+
+# Tesla BioHealing Center
+
+**Old description:** Our biophoton energy field extends across the full length of the body from head to toe, surrounds it side to side, and expands outward to fill the surrounding environment in a multi-dimensional space. Unlike brief or pulsed exposures, the field is continuously present and dynamically maintained around the clock, day and night.
+
+## About
+Tesla BioHealing Center is headquartered in Milford, Delaware, and operates wellness centers in Arizona, Florida, Illinois, and Pennsylvania. The company's founding year and ownership structure are not publicly disclosed.
+
+The company designs and sells a line of biophoton energy devices marketed for general wellness. Its product range includes the Biophotonizer series (models A, Alpha, M, C, and P for pets), the QiRenew System, Cornerstone System, Water Energizing System, and accessories such as the Biophoton Pillow, Energized Neck Pillow, Energized Eye Mask, Energized Spring Water, and the PawRenew Pet Bed. Tesla BioHealing also operates physical centers where customers can experience the technology. The company claims 50,000 users worldwide.
+
+The primary customers are individuals seeking ambient wellness solutions for home use, as well as pet owners. The company also lists a partner center in Sarasota, Florida, suggesting a business-to-business channel for wellness practitioners or retailers. Industries served include wellness, health and wellness, and pet care.
+
+Tesla BioHealing differentiates itself with a "three-year biophoton output guarantee" promising free replacement if a device falls below minimum output, free ground shipping on U.S. orders over $600, and a "always on, no cords, no charging" ambient wellness concept. The company emphasizes that its products are not medical devices and are intended only for general wellness, relaxation, and comfort.
+
+## Known for
+- Three-year biophoton output guarantee with free replacement
+- Free ground shipping on U.S. orders over $600
+- Ambient wellness: continuous field, no cords or charging required
+- 50,000 users worldwide
+- Physical wellness centers in five states
+
+## Capabilities
+- Wellness center services
+- Biophoton device retail
+- Product warranty program
+
+## Industries
+- Wellness
+- Health and wellness
+- Pet care
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Milford, Delaware
+
+<details><summary>Sources</summary>
+
+- Headquarters in Milford, Delaware -> db
+- Wellness centers in Arizona, Florida, Illinois, Pennsylvania -> /
+- Product line includes Biophotonizer series, QiRenew System, Cornerstone System, Water Energizing System, Biophoton Pillow, Energized Neck Pillow, Energized Eye Mask, Energized Spring Water, PawRenew Pet Bed -> /
+- Claims 50,000 users worldwide -> /
+- Three-year biophoton output guarantee with free replacement -> /
+- Free ground shipping on U.S. orders over $600 -> /
+- Products marketed for general wellness, not medical use -> /
+- Japanese language support indicated -> /
+</details>
+
+---
+
+# Teton Valley Brands
+
+**Old description:** We’ve crafted a potato chip made with the best ingredients and 100% Real Idaho® potatoes. The result is an all natural and deep potato-flavored chip. Or, as we like to call them — Real Idaho potato chips.
+
+## About
+Teton Valley Brands operates a state-of-the-art manufacturing facility in Caldwell, Idaho, just west of Boise. The company produces all-natural potato chips made from 100% Real Idaho® potatoes, sourced from Idaho farms. Founded on the principle of simple ingredients, the brand emphasizes chips free of artificial colors, flavors, preservatives, hydrogenated oils, and refined salts.
+
+The facility currently employs ten community members and produces both Real Idaho® Potato Chips and Tallow & Stone tortilla chips. The potato chips are crafted using hand-selected Idaho potatoes from partner Cranney Farms, a multi-generational operation homesteaded in 1907. The tortilla chips are cooked in traditional tallow, offering a clean-label snacking option with a sturdy texture for dipping.
+
+Products are sold through retail locations across Idaho’s Treasure Valley, including branded varieties created in partnership with Boise State Athletics and the University of Idaho Athletics. The company serves the snack food and retail grocery sectors, with a focus on regional distribution and collegiate licensing.
+
+Teton Valley Brands differentiates itself by keeping the entire production process in Idaho, from potato sourcing to manufacturing and shipping. The partnership with Cranney Farms ensures a consistent supply of potatoes grown in volcanic soil with warm days and cool nights, which the company credits for superior taste and texture.
+
+## Known for
+- All-natural chips with no artificial colors, flavors, preservatives, hydrogenated oils, or refined salts
+- Made from 100% Real Idaho® potatoes sourced from Idaho farms
+- Tortilla chips cooked in traditional tallow for clean flavor
+- Partnership with multi-generational Idaho potato farmers (Cranney Farms)
+- Licensed chips for Boise State and University of Idaho athletics
+
+## Capabilities
+- Potato chip manufacturing
+- Tortilla chip manufacturing
+- Seasoning and flavoring
+- Packaging
+
+## Industries
+- Snack food
+- Retail grocery
+- Collegiate athletics licensing
+
+## Company details
+- **Company Type:** Manufacturer
+- **Employees:** 10
+- **Headquarters:** Caldwell, Idaho
+
+<details><summary>Sources</summary>
+
+- Headquarters in Caldwell, Idaho -> /
+- State-of-the-art manufacturing facility -> /
+- Employs ten community members -> /
+- Produces Real Idaho® Potato Chips and Tallow & Stone tortilla chips -> /
+- Uses 100% Real Idaho® potatoes from Idaho farms -> /
+- Primary potato supplier: Cranney Farms (homesteaded 1907, 20,000 acres) -> /
+- Chips are gluten-free, non-GMO, no artificial preservatives -> /
+- Partnership with Boise State Athletics and University of Idaho Athletics for branded chips -> /
+- Products sold at retail locations across Treasure Valley -> /
+</details>
+
+---
+
+# Texas Food Pack
+
+**Old description:** Texas Food Pack is a trusted all-in-one food packaging distributor providing restaurants with custom print solutions. We offer a wide range of packaging products serving restaurants, food service, hospitality, and grocers. Let us help you connect with your customers, extend your brand recognition, and set your restaurant apart from your competitors through our attractive, affordable, and easy custom print process.
+
+## About
+Texas Food Pack operates from Richardson, Texas. The company is organized as a limited liability company, though its founding year and ownership structure are not publicly disclosed. It began as a distributor focused on food packaging for restaurants and food-service businesses.
+
+The firm supplies a range of disposable packaging items including custom-printed packaging, hot and cold paper cups, deli paper wraps, paper shopping bags, and food containers. It positions itself as an all-in-one source for branded packaging, handling the print process in-house or through partners. No facility size, headcount, or annual volume figures are disclosed.
+
+Its customer base spans restaurants, food-service operators, hospitality venues, and grocers. The company emphasizes that custom-printed packaging serves as a marketing tool for these clients, helping them extend brand recognition beyond the point of sale.
+
+Texas Food Pack promotes its custom print process as attractive, affordable, and easy, arguing that generic stock packaging misses a marketing opportunity. The company says it aims to bring a brand’s personality to life through high-quality branded food packaging solutions.
+
+## Known for
+- All-in-one food packaging distributor
+- Custom print solutions that increase brand recognition
+- Affordable and easy custom print process
+- High-quality branded food packaging
+
+## Capabilities
+- Custom Print Packaging
+- Hot Paper Cups
+- Cold Paper Cups
+- Deli Paper Wraps
+- Paper Shopping Bags
+- Food Containers
+
+## Industries
+- Restaurants
+- Food service
+- Hospitality
+- Grocers
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Headquarters:** Richardson, Texas
+
+<details><summary>Sources</summary>
+
+- Company name and type: Texas Food Pack, food packaging distributor -> db
+- Headquarters: Richardson, Texas -> db
+- Capabilities: Custom Print Packaging, Hot Paper Cups, Cold Paper Cups, Deli Paper Wraps, Paper Shopping Bags, Food Containers -> db
+- Industries served: restaurants, food service, hospitality, grocers -> db
+- Description: trusted all-in-one food packaging distributor providing restaurants with custom print solutions -> /
+- Branded packaging emphasis: custom-printed food packaging essential for brand image -> /
+- Contact address: 801 E Campbell Rd Ste 152, Richardson, TX 75081 -> /
+- LinkedIn URL: https://www.linkedin.com/company/texasfoodpack/ -> db
+</details>
+
+---
+
+# Texas Instruments
+
+**Old description:** Texas Instruments (TI) is a semiconductor manufacturer headquartered in Texas. Produces analog and embedded processing chips used in a wide range of applications including automotive, industrial controls and consumer electronics.
+
+## About
+Texas Instruments traces its roots to 1930 when Geophysical Service Inc., a small oil and gas exploration firm, opened in Dallas, Texas. The company pivoted during World War II, applying signal‑processing expertise to submarine detection and radar, and established an electronics equipment laboratory in 1946. In the 1950s it reorganized as Texas Instruments Inc., entering the semiconductor industry with the invention of the silicon transistor in 1954 and Jack Kilby’s breakthrough integrated circuit in 1958. Today TI is headquartered in Dallas and operates as a publicly traded corporation.
+
+TI designs, manufactures, and sells analog and embedded processing semiconductors. Its portfolio exceeds 80,000 products, including analog ICs, embedded processors, and wireless transceivers. The company runs a global manufacturing network that includes 300 mm wafer fabs powered entirely by renewable electricity, producing tens of billions of chips annually. With roughly 33,000 employees worldwide, TI handles everything from process technology and design through packaging, test, and delivery.
+
+The company serves more than 100,000 customers across automotive, industrial, consumer electronics, communications, data‑center, and medical‑equipment markets. Its chips power vehicle electrification and safety systems, factory automation, smartphones, optical networking gear, and life‑saving medical devices. TI emphasizes supply‑chain reliability, promising delivery “in any geopolitical environment.”
+
+TI’s stated mission is to make electronics more affordable through semiconductors. It operates with three long‑term ambitions: act like owners who will own the company for decades, adapt to a changing world, and be a company its people are proud of. Differentiators cited include a 40,000‑patent portfolio, over $2 billion in annual R&D spending, and a comprehensive analog‑and‑embedded product breadth that lets engineers consolidate sourcing.
+
+## Known for
+- 80,000+ analog and embedded processing products in portfolio
+- Global manufacturing with 300 mm wafer fabs using 100% renewable electricity
+- 40,000+ patents held worldwide
+- $2B+ annual R&D investment
+- Tens of billions of chips produced each year
+
+## Capabilities
+- Analog IC design
+- Embedded processor design
+- Semiconductor wafer fabrication
+- Assembly and packaging
+- Test and reliability qualification
+- Quality management (anti-counterfeit, product change notification, product life cycle)
+- Environmental compliance (RoHS, lead-free)
+- Automotive PPAP support
+- Failure analysis
+- Kilby Labs advanced research
+
+## Industries
+- Automotive
+- Industrial
+- Consumer Electronics
+- Communications
+- Data Center
+- Personal Electronics
+- Medical Equipment
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1930
+- **Employees:** 33,000+
+- **Ownership:** Publicly traded
+- **Headquarters:** Dallas, Texas
+
+<details><summary>Sources</summary>
+
+- Founded 1930 as Geophysical Service Inc. -> /about
+- Headquarters Dallas, Texas -> /about
+- 33,000+ employees -> /about
+- 80,000+ products -> /about
+- Tens of billions chips/year -> /about
+- 100,000+ customers -> /about
+- Automotive, Industrial, Consumer Electronics, Communications industries -> /about and /
+- Data center, Personal electronics, Medical equipment -> / and /about
+- 300mm wafer fabs with 100% renewable electricity -> /
+- 40,000+ patents -> /
+- $2B+ R&D investment -> /
+- $370M TI Foundation giving since 1964 -> /
+- $71M+ STEM education since 2010 -> /
+- Jack Kilby invented integrated circuit 1958 -> /about
+- Silicon transistor 1954 -> /about
+- First single-chip microcontroller 1971 -> /about
+- DLP digital micromirror device 1985 -> /about
+- MagPack technology 2024 -> /about
+- Quality certifications and standards page -> /quality
+</details>
+
+---
+
+# Texas Kings Textile
+
+**Old description:** At Texas Kings Textile we specialize in sourcing the best materials from known institutional, credential rag suppliers as well as premium Stock lots. Over the last 10 years, we have grown to be in a leading position in textile recycling industry.
+
+## About
+Texas Kings Textile operates from a warehouse in Houston, Texas. The company has been active in textile recycling for over a decade, though a specific founding year is not publicly disclosed. Ownership details and founder names have not been published.
+
+The firm sources used clothing and wiping rags from institutional credential rag suppliers and premium stock lots. Its team of sorters and graders evaluates incoming textiles according to current fashion trends and vintage classifications. The Houston facility handles sorting, grading, and packing for export; no headcount or annual volume figures are provided.
+
+Texas Kings Textile serves international buyers across Latin America, Africa, Asia, and the Middle East. Named destination markets include Bolivia, Chile, the Democratic Republic of Congo, Liberia, Burkina Faso, Ghana, Zambia, Sharjah, Thailand, the Philippines, Cambodia, Guinea, Cameroon, Nigeria, Malawi, Senegal, Mali, and Jordan. Customers range from wholesale distributors to retail operators in the secondhand clothing trade.
+
+The company emphasizes its relationships with credentialed suppliers and its up-to-date grading expertise as key differentiators. It aims to become a global supplier of quality used clothing and wiping rags, leveraging an established buyer network built over ten years.
+
+## Known for
+- Sourcing from known institutional, credential rag suppliers and premium stock lots
+- Experienced sorters and graders up to date with latest fashion trends and vintage clothing
+- Established buyers in Latin America, Africa, Asia, and the Middle East
+- Over 10 years in the textile recycling industry
+
+## Capabilities
+- Textile sourcing
+- Sorting and grading
+- Used clothing supply
+- Wiping rag supply
+- Vintage clothing classification
+- Export packing
+
+## Industries
+- Textile recycling
+- Used clothing export
+- Wiping rag distribution
+- Secondhand clothing trade
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Headquarters:** Houston, Texas
+
+<details><summary>Sources</summary>
+
+- Company name: Texas Kings Textile -> db
+- Headquarters city/state: Houston, Texas -> db
+- Warehouse address: 7405 Cayuga St, Houston, TX 77054 -> /
+- Business description: sourcing from institutional credential rag suppliers and premium stock lots -> /
+- Products: used clothing, wiping rags, mix rags, children sweats, children clothing, mix clothing, vintage clothing -> /
+- Markets served: Latin America, Africa, Asia, Middle East; list of countries -> /
+- Experience: over 10 years in textile recycling industry -> /
+- Sorters and graders experienced with fashion trends and vintage clothing -> /
+- Established buyers in listed regions -> /
+</details>
+
+---
+
+# Texas Live Wire
+
+**Old description:** Texas Live Wire was founded on a commitment to excellence, safety, and customer trust. Our team of licensed electricians brings over two decades of experience to every job, ensuring that your home’s electrical systems are handled with the highest level of care and professionalism. We’re dedicated to delivering reliable, code-compliant, and efficient solutions for all your residential electrical needs.
+
+## About
+Texas Live Wire is based in San Angelo, Texas. The company was founded on a commitment to excellence, safety, and customer trust. Its team of licensed electricians brings over two decades of experience to residential and commercial projects.
+
+The firm provides a broad range of electrical services including electrical system design, panel upgrades from 100 to 200 amps, power distribution, manufacturing machine relocation, motor control center maintenance, and large switch gear installation. It also runs preventative maintenance programs such as conductor insulation testing, transformer testing, underground cable testing, and infrared thermographic inspections. Additional offerings cover full office renovations, commercial and warehouse lighting, and retail space electrical work.
+
+Texas Live Wire serves residential homeowners as well as commercial and industrial clients. Examples from its service list include office renovations, warehouse lighting, retail space wiring, and manufacturing equipment relocation and motor control center maintenance for industrial facilities.
+
+The company states it was founded on a commitment to excellence, safety, and customer trust, emphasizing code-compliant, efficient solutions delivered by licensed professionals.
+
+## Known for
+- Licensed electricians with over 20 years of experience
+- Code-compliant, safety-first approach
+- Design-build electrical system design
+- Preventative maintenance programs including infrared thermographic inspections
+- Services spanning residential, commercial, and industrial sectors
+
+## Capabilities
+- Electrical System Design
+- Panel Upgrades (100-200 amps)
+- Electrical Maintenance Coverage
+- Power Distribution
+- Manufacturing Machine Relocation
+- Motor Control Center Maintenance
+- Large Switch Gear Installation
+- Conductor Insulation Testing
+- Transformer Testing
+- Underground Cable Testing
+- Infrared/Thermographic Inspections
+- Full Office Renovations
+- Commercial/Warehouse Lighting
+- Retail Space Electrical Work
+
+## Industries
+- Residential
+- Commercial
+- Industrial
+- Manufacturing
+- Warehouse
+- Retail
+
+## Company details
+- **Company Type:** Installer / service company
+- **Headquarters:** San Angelo, Texas
+
+<details><summary>Sources</summary>
+
+- Location: San Angelo, Texas -> /
+- Services: electrical system design, panel upgrades, maintenance, power distribution, machine relocation, motor control center maintenance, switch gear installation, testing, inspections, renovations, lighting -> /services
+- Company founded on commitment to excellence, safety, customer trust -> /about-us
+- Licensed electricians with over two decades of experience -> /
+- Residential, commercial, industrial customer examples -> /services
+</details>
+
+---
+
+# The Factory 10
+
+**Old description:** Express yourself and show the world who you are with The Factory 10 by MaliaMonique custom apparel. At F10 we fulfill all your custom apparel needs from face masks, custom tees, bags, hats, dresses, etc.
+
+## About
+The Factory 10 operates from Columbia, South Carolina, as a family-owned and operated business. The company, branded as The Factory 10 by MaliaMonique, was founded by owner Tonia and runs with involvement from her daughter Kyndall. While the exact founding year is not publicly disclosed, the business emphasizes its family roots and a mission to empower through custom apparel.
+
+The company provides custom apparel manufacturing and decoration services, producing items such as t-shirts, face masks, tote bags, hats, dresses, and drinkware. It offers design mockup and proofing services, allowing customers to review artwork before printing. The operation handles both small personal orders and larger merchandise programs for organizations, though specific facility size, headcount, and production volumes are not disclosed.
+
+The Factory 10 serves individual consumers, businesses, and nonprofit organizations. A noted client is PGD Innovations, a nonprofit for which the company supplies all merchandise and assists with pricing, fabric selection, and design. The company also produces collegiate-themed items such as Clemson Tigers masks, indicating a reach into licensed fan apparel.
+
+The company states its differentiation lies in three pillars: empowerment, sustainability, and social impact. It collaborates with local artisans and marginalized communities to provide fair wages and skill development, and dedicates a portion of profits to charitable causes. A certified quality guarantee backs every product, with immediate replacement offered for any dissatisfaction.
+
+## Known for
+- Family-owned and operated business
+- Design mockup provided before printing
+- Certified quality product guarantee
+- Focus on empowerment, sustainability, and social impact
+- Collaborates with local artisans and marginalized communities
+
+## Capabilities
+- Custom apparel printing
+- Design mockup and proofing
+- Custom face mask manufacturing
+- Custom tote bag manufacturing
+- Custom hat decoration
+- Custom dress manufacturing
+- Custom drinkware printing
+
+## Industries
+- Apparel
+- Promotional products
+- Nonprofit organizations
+- Collegiate licensed merchandise
+- Retail fashion
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Ownership:** Family-owned
+- **Headquarters:** Columbia, South Carolina
+
+<details><summary>Sources</summary>
+
+- Location: Columbia, South Carolina -> db
+- Family-owned and operated -> /about-us
+- Owner Tonia and daughter Kyndall mentioned -> /about-us
+- Brand: The Factory 10 by MaliaMonique -> /
+- Custom apparel: tees, masks, bags, hats, dresses, cups -> /
+- Design mockup before printing -> /about-us
+- Certified quality guarantee -> /about-us
+- Mission pillars: empowerment, sustainability, social impact -> /about-us
+- Collaboration with local artisans and marginalized communities -> /about-us
+- Nonprofit client PGD Innovations -> /about-us
+- Collegiate merchandise (Clemson Tigers masks) -> /
+</details>
+
+---

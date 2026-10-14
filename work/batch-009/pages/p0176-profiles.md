@@ -1,0 +1,658 @@
+# G5 Textiles
+
+**Old description:** Founded in 1989, G5 TEXTILE GROUP is a global manufacturing company specializing in apparel and textiles. We supply clothing to major brands worldwide, prioritizing quality and innovation. Our strong values, integrity, and dedication have built trusted relationships with customers, suppliers, and partners.
+
+## About
+G5 Textile Group was founded in 1989 in St Cloud, Florida, by Eddie, who serves as CEO and founder. The company began as a global manufacturing operation specializing in apparel and textiles, supplying clothing to major brands worldwide.
+
+The company designs and produces custom-made garments at scale, leveraging manufacturing facilities and partners in the United States, El Salvador, China, and Colombia. Its "Smart Manufacture" approach blends advanced technology with customization, offering digital design visualization, order management via an online platform, and large-scale production capabilities for fashion, athletic wear, and merchandise.
+
+G5 serves brands across apparel, fashion, athletic wear, and merchandise sectors, with documented clients including the NBA's Orlando Magic, JPETROV Academy, and TeamIP for white-label fashion products. The company also produces gear for sports teams, sub-brands, and corporate merchandise programs.
+
+G5 emphasizes innovation, efficiency, and sustainability, employing eco-friendly materials, energy-efficient technologies, and waste reduction practices. Its founding goal remains meeting customer needs cost-effectively without sacrificing quality, a principle that guides its global operations and technology investments.
+
+## Known for
+- "Smart Manufacture" blending advanced technology with customization
+- Global manufacturing footprint across the United States, El Salvador, China, and Colombia
+- Online platform for design customization, order processing, and custom orders
+- Eco-friendly materials, energy-efficient technologies, and waste reduction practices
+- Cost-effective production without sacrificing quality or service
+
+## Capabilities
+- Custom garment design and development
+- Large-scale apparel manufacturing
+- Digital design visualization and prototyping
+- Online order management and customization platform
+- White-label fashion production
+- Athletic wear and performance textile manufacturing
+- Merchandise production for brands and sports teams
+- Sustainable textile manufacturing (eco-friendly materials, energy efficiency, waste reduction)
+
+## Industries
+- Apparel
+- Textiles
+- Fashion
+- Athletic wear
+- Merchandise
+- Sports teams
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1989
+- **Headquarters:** St Cloud, Florida
+
+<details><summary>Sources</summary>
+
+- Founded in 1989 -> db
+- Headquarters in St Cloud, Florida -> db
+- Founder Eddie (CEO/Founder) -> /about-us
+- Global manufacturing in US, El Salvador, China, Colombia -> / and /about-us
+- Smart Manufacture approach blending technology and customization -> /about-us
+- Online platform for design customization and order processing -> /
+- Clients: Orlando Magic, JPETROV Academy, TeamIP -> /
+- Sustainability practices: eco-friendly materials, energy-efficient tech, waste reduction -> /
+- Team members listed (CEO, Digital Creator, Sourcing Director, etc.) -> /about-us
+</details>
+
+---
+
+# GAMA Electronics Plant 2
+
+**Old description:** Fifty miles northwest of Chicago where industry and agriculture share the spotlight the phrase “Made in America” means business! We are a full service electronic products manufacturer. We have the industrial muscle and technical ingenuity you need to execute a winning project.
+
+## About
+GAMA Electronics Inc. operates from Woodstock, Illinois, about fifty miles northwest of Chicago. The company was founded in 1990 by John and Irene Golbeck, who continue to manage the business alongside their son Tom. The family-owned firm began as a full-service electronic products manufacturer with a focus on "Made in America" production.
+
+The company designs and manufactures electronic and electromechanical controls, including custom electronic assemblies, switches, control panels, and wireless remote controls. Its Woodstock facility handles both through-hole and surface-mount PCB assembly, mechanical assembly, wire harnessing, and packaging. Production scales from low-volume runs to high-volume sustained production, supported by factory automation and manual assembly. The engineering team provides complete circuit and PCB design, software development, mechanical design (sheet metal, injection-molded plastic, graphical overlays), and in-house prototyping.
+
+GAMA serves transportation, industrial equipment, medical, agriculture, and marine markets. In transportation, it supplies PCB assemblies, control panels, switches, and harnesses, including patented battery disconnect switches and high-volume cruise control switch assemblies for a major U.S. automotive manufacturer. Industrial customers use motor controls, access controls, remote controls, HVAC controls, gym equipment controls, winch and hoist controls, and lighting controls. Medical work includes heat sealer products (via the Steri Sealer line) and custom assemblies for X-ray machinery, pharmaceutical dispensing equipment, and patient assist devices. Agricultural applications feature remote control systems, motor control assemblies, and custom control panels.
+
+The company emphasizes its U.S.-based production facility combined with global alliances to offer competitive pricing and timely delivery. Its ISO 9001 certification underpins quality assurance, and the firm highlights a family-oriented work culture as a driver of customer satisfaction.
+
+## Known for
+- U.S. production facility with global alliances for competitive pricing
+- ISO 9001 certified quality system
+- Full-service design through production (circuit, PCB, software, mechanical)
+- In-house prototyping before tooling costs
+- Family-owned culture with employee-focused environment
+
+## Capabilities
+- Electronic assembly
+- Control systems
+- Motor controls
+- Electronic design
+- Switches and relays
+- Development and manufacturing
+- PCB assembly (through-hole)
+- PCB assembly (surface mount)
+- Mechanical assembly
+- Wire harnessing
+- Packaging
+- Circuit design
+- PCB design
+- Software design
+- Mechanical design (sheet metal, injection molded plastic, graphical overlay)
+- In-house prototyping
+- Custom electronic controls
+- Custom control panels
+- Wireless remote controls
+- Battery disconnect switches
+- Cruise control switch assembly
+- Heat sealer manufacturing
+- Remote control systems for commercial overhead doors
+- Boat lift remote control systems
+
+## Industries
+- Transportation
+- Industrial Equipment
+- Medical
+- Agriculture
+- Marine
+
+## Certifications
+- ISO 9001
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1990
+- **Ownership:** Family-owned
+- **Headquarters:** Woodstock, Illinois
+
+<details><summary>Sources</summary>
+
+- Headquarters: Woodstock, Illinois -> db
+- Founded 1990 by John & Irene Golbeck -> /about-us
+- Family-owned, managed with son Tom -> /about-us
+- Full service electronic products manufacturer -> /
+- Capabilities: electronic assemblies, control systems, motor controls, electronic design, switches, relays, development, manufacturing -> /
+- PCB assembly (thru-hole and surface mount), mechanical assembly, wire harnessing, packaging -> /capabilities
+- Production rates: low volume to high volume sustained -> /capabilities
+- Factory automation and manual assembly -> /capabilities
+- Design services: circuit/PCB design, software design, mechanical design (sheet metal, injection molded plastic, graphical overlay), in-house prototyping -> /capabilities
+- Industries: Transportation, Industrial Equipment, Medical, Agriculture, Marine -> /about-us, /
+- Transportation examples: PCB assemblies, control panels, switches, harnesses, battery disconnect switches, cruise control switch assembly for major US automotive manufacturer -> /
+- Industrial examples: motor controls, access controls, remote controls, HVAC controls, gym equipment controls, winch/lift/hoist controls, lighting controls -> /
+- Medical examples: heat sealer products (Steri Sealer), custom assemblies for X-ray, pharmaceutical dispensing, patient assist devices -> /
+- Agriculture examples: remote control systems, motor control assemblies, custom control panels -> /
+- ISO 9001 certification -> /about-us
+- U.S. production facility with global alliances -> /about-us, /capabilities
+- Family-oriented work culture -> /about-us
+</details>
+
+---
+
+# GAO RFID
+
+**Old description:** GAO RFID Inc. is a leading provider of cutting-edge RFID solutions. With 3 decades of expertise, GAO RFID Inc. designs and manufactures advanced RFID products that empower businesses to optimize operations, enhance security, and improve overall efficiency. Our innovative technology solutions are trusted by organizations across various industries, including logistics, healthcare, retail, and manufacturing.
+
+## About
+GAO RFID Inc., a member of the GAO Group, is headquartered in Toronto, Ontario, Canada, with a U.S. office in Manhattan, New York. The company is incorporated in both Canada and the United States and has over 30 years of experience delivering RFID and Bluetooth Low Energy (BLE) solutions.
+
+The company designs and manufactures a broad range of RFID and BLE hardware, including readers, tags, antennas, printers, and gateways covering frequencies from low frequency (125/134 kHz) and high frequency (13.56 MHz) to UHF (865–928 MHz) and active 2.5 GHz bands. Its middleware platform serves as a modular software engine for customizable RFID systems, and the firm offers integration, consulting, site surveys, and software customization. GAO RFID reports more than 11,000 system deployments across 70 countries.
+
+Customers range from small and mid-sized enterprises to Fortune 500 companies, educational institutions, and government agencies. The company serves industries such as agriculture, oil and gas, manufacturing, supply chain and logistics, transportation, railway, automotive, education, healthcare, retail, cold chain, livestock management, and data centers.
+
+GAO RFID emphasizes overnight delivery within the continental U.S. and Canada from local warehouses, on-site expert support, and hardware that is designed, manufactured, and tested in-house. Its team includes CompTIA RFID+ certified professionals, and its middleware architecture enables rapid customization for specific industry needs.
+
+## Known for
+- Overnight delivery within continental U.S. and Canada from local warehouse
+- On-site expert support available
+- Hardware designed, manufactured, and tested in-house
+- Over 30 years of experience with 11,000+ deployments in 70+ countries
+- CompTIA RFID+ certified engineering and sales staff
+
+## Capabilities
+- RFID reader design and manufacturing
+- RFID tag design and manufacturing
+- BLE gateway and beacon design and manufacturing
+- RFID antenna and peripheral manufacturing
+- RFID middleware development
+- RFID system integration
+- RFID consulting
+- RFID site survey
+- Software customization
+- Technical support and warranty services
+- Overnight delivery (logistics)
+
+## Industries
+- Agriculture
+- Oil & Gas
+- Manufacturing
+- Supply Chain
+- Logistics
+- Transportation
+- Railway
+- Automotive
+- Education
+- Healthcare
+- Retail
+- Government
+- Data Center
+- Cold Chain
+- Livestock
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Toronto, Ontario
+
+<details><summary>Sources</summary>
+
+- Headquartered in Toronto, Canada; U.S. office in Manhattan, New York -> /about
+- Incorporated in Canada and USA -> /about
+- Over 30 years of experience -> /about, /
+- 11,000+ RFID/BLE systems deployed in 70+ countries -> /
+- Designs and manufactures RFID/BLE hardware (readers, tags, antennas, printers, gateways) -> /, /about
+- Middleware platform for customizable software -> /, /about
+- Services: integration, consulting, site surveys, software customization -> /services, /about
+- Customers: SMEs to Fortune 500, educational, government agencies -> /about
+- Industries served: agriculture, oil & gas, manufacturing, supply chain, logistics, transportation, railway, automotive, education, healthcare, retail, cold chain, livestock, data centers -> /, /about
+- Overnight delivery within continental US & Canada from local warehouse -> /about, /services
+- On-site expert support -> /about, /services
+- Hardware designed, manufactured, tested in-house -> /about, /services
+- CompTIA RFID+ certified professionals -> /about
+- Member of GAO Group -> /
+</details>
+
+---
+
+# GEM EQUIPMENT OF OREGON INC
+
+**Old description:** Since 1968, GEM Equipment of Oregon, Inc. has been at the forefront of custom food processing equipment, specializing in advanced frying systems. From French fries to a wide variety of fried foods, we design, build, and install the industry's largest and most reliable fryers and blanchers. As part of FPS Food Process Solutions—a global leader in turnkey food processing—we deliver integrated solutions for fried food production worldwide, supported by the FPS family of companies including Charlottetown Metal Products (CMP) and Total Solutions Limited (TSL).
+
+## About
+GEM Equipment of Oregon, Inc. was founded in 1968 in Woodburn, Oregon, by co-founder Ed McKenney. Starting with limited resources but a clear vision to deliver equipment that meets real-world processing needs through close collaboration with customers, the company began as a custom food processing equipment specialist.
+
+The company designs, builds, and installs advanced frying systems, including fryers, blanchers, and batter application systems, for food manufacturers worldwide. As part of FPS Food Process Solutions—a global leader in turnkey food processing—GEM leverages computational fluid dynamics (CFD) modelling, stainless steel fabrication, and a global service network with remote diagnostics to deliver integrated fried food production lines.
+
+GEM serves the food processing industry, with a focus on fried food production such as French fries, potato chips, vegetables, seafood, and malting. Its equipment has been supplied to major processors including General Foods, Ore-Ida, Simplot, McCain Foods, and Lamb Weston.
+
+The company’s operating philosophy centers on lowest total cost of ownership over a ten-year horizon, exceptional service with urgency and accountability, and continuous improvement through innovation. GEM differentiates itself through CFD-optimized oil flow, easy access to critical components for maintenance, and a global service network offering remote diagnostics.
+
+## Known for
+- Lowest total cost of ownership over a ten-year horizon
+- Exceptional service with urgency and accountability
+- Continuous improvement through design and manufacturing enhancements
+- CFD-optimized oil flow for efficiency and safety
+- Global service network with remote diagnostics
+
+## Capabilities
+- Custom food processing equipment design
+- Advanced frying systems manufacturing
+- Blancher systems manufacturing
+- Batter application systems
+- Computational Fluid Dynamics (CFD) analysis
+- Equipment installation and commissioning
+- Maintenance and retrofit services
+- Remote diagnostics
+- Turnkey food processing line integration
+
+## Industries
+- Food processing
+- Fried food production
+- French fry manufacturing
+- Potato processing
+- Vegetable processing
+- Seafood processing
+- Malting
+
+## Equipment
+- Belt blancher
+- Deluge fryer
+- Tri-Mode blancher
+- Formed fryer
+- Vibrating conveyors
+- Potato chip fryer
+- Tote dumper
+- Flodin Rock Trap
+- Malting system
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1968
+- **Headquarters:** Woodburn, Oregon
+
+<details><summary>Sources</summary>
+
+- Founded 1968 -> db
+- Headquarters Woodburn, Oregon -> db
+- Co-founder Ed McKenney -> /about-us
+- Acquired by FPS Food Process Solutions 2023 -> /about-us
+- Chris Imdieke named COO 2020, CEO 2021 -> /about-us
+- Specializes in advanced frying systems -> /, /about-us
+- Part of FPS Food Process Solutions -> /, /about-us
+- Customers include General Foods, Ore-Ida, Simplot, McCain, Lamb Weston -> /about-us
+- CFD analysis expertise -> /
+- Global service network & remote diagnostics -> /
+- Lowest total cost of ownership philosophy -> /about-us
+- Continuous improvement philosophy -> /about-us
+- Equipment: belt blancher, deluge fryer, Tri-Mode blancher, formed fryer, vibrating conveyors, potato chip fryer, tote dumper, Flodin Rock Trap, malting system -> /about-us milestones
+- Stainless steel construction -> /
+- Batter applicators -> capabilities (db)
+- Blanchers, fryers, batter systems -> / technologies
+</details>
+
+---
+
+# GM Cable Contractors Inc
+
+**Old description:** GM Cable Contractors, Inc. provides our customers with LAN/WAN design, engineering and installation; CCTV/Video surveillance; voice, data and video networks; directional boring; outside plant design and construction; fiber optic design and installation; aerial construction as well as on-site employees provided for manpower contracts.
+
+## About
+GM Cable Contractors, Inc. operates from Baton Rouge, Louisiana, providing communications infrastructure services across the Gulf South region. The company does not publicly disclose its founding year, ownership structure, or founder names.
+
+The firm specializes in LAN/WAN design, engineering, and installation; CCTV and video surveillance; voice, data, and video networks; directional boring; outside plant design and construction; fiber optic design and installation; aerial construction; and on-site manpower contracting. Services are organized into inside plant, outside plant, fiber optics, directional drilling, audio visual, CCTV, and telephone systems. No facility size, headcount, or volume metrics are published.
+
+Its customer base includes universities, community colleges, public and private schools, state government agencies, municipalities, industrial plants, and hospitals.
+
+The company states its mission is to continually improve quality standards in communications and broadband technology through cabling, outside construction, and network design. It emphasizes consumer-driven services and support that deliver value, efficient and cost-effective facilities for superior performance and reliability, and a reputation for meeting or exceeding customer expectations.
+
+## Known for
+- Consumer-driven services and support delivering value
+- Efficient, cost-effective facilities for superior performance and reliability
+- Reputation for meeting or exceeding customer expectations
+- On-site manpower contract staffing
+
+## Capabilities
+- Inside plant cabling
+- Outside plant construction
+- Fiber optic design and installation
+- Directional drilling
+- Audio visual systems
+- CCTV and video surveillance
+- Telephone systems
+- LAN/WAN design and engineering
+- LAN/WAN installation
+- Voice/data/video network installation
+- Directional boring
+- Aerial construction
+- On-site manpower contracting
+- Customized design services
+
+## Industries
+- Universities
+- Community colleges
+- Public schools
+- Private schools
+- State government
+- Municipalities
+- Industrial plants
+- Hospitals
+
+## Company details
+- **Company Type:** Installer / service company
+- **Headquarters:** Baton Rouge, LA
+
+<details><summary>Sources</summary>
+
+- Location: Baton Rouge, LA -> db
+- Services: LAN/WAN design, engineering, installation; CCTV/video surveillance; voice/data/video networks; directional boring; outside plant design/construction; fiber optic design/installation; aerial construction; on-site manpower contracts -> /
+- Customer base: universities, community colleges, public/private schools, state government, municipalities, plants, hospitals -> /
+- Mission statement: improve quality standards, consumer-driven services, efficient cost-effective facilities, reputation for meeting/exceeding expectations -> /
+- Address: 9232 Joor Road, Baton Rouge, LA 70818 -> /
+- Phone, fax, business hours -> /
+- Capabilities from db: Network Cabling Services for Baton Rouge, LA; Customized Services; design services -> db
+</details>
+
+---
+
+# GRK Manufacturing Co
+
+**Old description:** GRK Manufacturing came into being in May of 1988 when Gary R. Kilday and family formed a corporation to purchase the assets of the Manual Arts Furniture Company. Manual Arts – or MAFCO as it was known – had a long history starting in 1915 as the only piano bench maker for the Baldwin Piano Company of downtown Cincinnati. Baldwin was a major provider of pianos in the United States and it turned to two “shop” teachers – manual arts teachers – to be their makers of piano benches. MAFCO provided Baldwin’s benches for almost 50 years.
+
+## About
+GRK Manufacturing is based in Hamilton, Ohio, and traces its roots to May 1988 when Gary R. Kilday and his family formed a corporation to acquire the assets of the Manual Arts Furniture Company (MAFCO). MAFCO had operated since 1915 as the exclusive piano bench supplier for the Baldwin Piano Company of Cincinnati, a relationship that lasted nearly 50 years.
+
+Today the company runs a woodworking shop and a sewing division from its Hamilton facility, which it moved into in 1992 after negotiating with the Horn Lumber Company. The sewing operation has grown from a single part‑time seamstress to three full‑time staff, producing piano covers and bench cushions. The woodshop turns out a range of items including doors, retail and grocery store fixtures, mirror frames, and components for agricultural tripods, while also importing piano benches and dollies for music‑industry customers.
+
+GRK serves the music, furniture, retail‑fixture, and agricultural‑equipment sectors. Historical customers include Baldwin Piano Company, the Nutone Company (mirror frames), and a North Carolina firm that bought solid‑oak tables. Current music‑industry clients receive both domestically made and imported benches and dollies.
+
+The company emphasizes its willingness to take on new woodworking challenges and the steady expansion of its sewing capacity as key differentiators. The 2023 transition to former Operations Manager Rob Vicena marks a continuation of that adaptive approach.
+
+## Known for
+- Sewing division expanded from part‑time to full‑time operation with three seamstresses
+- Woodworking team accepts diverse custom challenges across furniture, fixtures, and agricultural components
+- Offers both domestically produced and imported piano benches and dollies
+- Hamilton, Ohio facility occupied since 1992
+
+## Capabilities
+- Woodworking
+- Sewing
+- Piano bench manufacturing
+- Piano cover manufacturing
+- Bench cushion manufacturing
+- Retail fixture manufacturing
+- Mirror frame manufacturing
+- Tripod component manufacturing
+- Importing piano benches and dollies
+
+## Industries
+- Music
+- Furniture
+- Retail fixtures
+- Agricultural equipment
+- Mirror frames
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1988
+- **Ownership:** Family-owned (until 2023), now owned by former Operations Manager Rob Vicena
+- **Headquarters:** Hamilton, Ohio
+
+<details><summary>Sources</summary>
+
+- Founded May 1988 by Gary R. Kilday and family -> /
+- Acquired assets of Manual Arts Furniture Company (founded 1915) -> /
+- Located in Hamilton, Ohio since 1992 -> /
+- Produces piano covers, bench cushions, wood products (doors, fixtures, mirror frames, tripod components) -> /
+- Sewing division grew from one part-time seamstress to three full-time -> /
+- Imports piano benches and dollies for music customers -> /
+- Serves music, furniture, retail fixture, agricultural equipment industries -> /
+- Ownership transferred to Rob Vicena in 2023 -> /
+</details>
+
+---
+
+# Galaxy Electronics Inc
+
+**Old description:** Since 1993, we have specialized in full-service manufacturing of
+
+## About
+Galaxy Electronics Inc. is a family-owned contract electronics manufacturer headquartered in Charlotte, North Carolina. The company traces its roots to 1993, when it began specializing in full-service manufacturing of printed circuit boards, control panels, electromechanical assemblies, cable assemblies, and wiring harnesses; its own history page cites a founding date of 1999 as a garage operation repairing printed circuit boards.
+
+Today Galaxy Electronics provides a broad range of assembly services, including through-hole and surface-mount PCB assembly, mixed-technology boards, conformal coating, cable and wire harness fabrication, box-build and final assembly, electromechanical and control-panel integration, custom kitting, functional testing, and software embedding. The shop handles prototype runs through large-volume production and offers both full turnkey procurement of components, enclosures (metal and plastic), and custom overlays, as well as consignment assembly using customer-supplied materials. Key equipment includes an APS Nova Star wave solder machine, Schlueniger automatic wire cutting and marking systems, Tyco and Molex semi-automatic crimpers, and Tektronix test instrumentation.
+
+The company serves customers in automotive, medical, drilling and oil-rig contractors, electric utilities, telecommunications, computers, data processing, and general industrial equipment. Clients range from startups bringing a first product to market to established manufacturers seeking a dependable production partner for just-in-time or drop-ship delivery.
+
+Galaxy Electronics emphasizes its family-values culture, engineering-degreed ownership, and more than 40 combined years of hands-on experience as differentiators. It promotes quick turnaround, strict quality controls at every stage (ISO 9001 certified, ITAR registered), and flexible engagement models—turnkey, consignment, or hybrid—to meet varying supply-chain needs.
+
+## Known for
+- Family-owned with engineering-degreed ownership and 40+ years combined experience
+- Full turnkey manufacturing and consignment assembly options
+- Just-in-time delivery and drop-ship capabilities
+- ISO 9001 certified and ITAR registered
+- Quick turnaround on prototypes to large-volume production
+
+## Capabilities
+- Through-hole PCB assembly
+- Surface-mount PCB repair
+- Mixed-technology PCB assembly
+- Conformal coating
+- Cable assembly and wire harness fabrication
+- Box build and final assembly
+- Electromechanical and control panel assembly
+- Custom kitting
+- Electronic hardware assembly
+- Functional testing
+- Software installation/embedding
+- Turnkey procurement of enclosures (metal and plastic), harnesses, and custom overlays
+- Consignment assembly
+- Just-in-time delivery
+- Drop shipping
+- Custom packaging
+- IDC (insulation displacement connector) assembly
+- Low-residue (no-clean) flux process
+- Custom assemblies and prototyping
+- Contract assembly services
+
+## Industries
+- Automotive
+- Medical
+- Drilling & Oil Rig Contractors
+- Electric Utilities
+- Custom Manufacturing & Prototyping
+- Computers
+- Data Processing
+- Telecommunications
+- Electronics
+- Industrial Equipment
+
+## Equipment
+- APS Nova Star Wave Solder Machine (2010 model)
+- Schlueniger Automatic Wire Cutting, Stripping, and Marking Equipment
+- Tyco Semi-Automatic Crimping Equipment
+- Molex Semi-Automatic Crimping Equipment
+- Tektronix Oscilloscope and Power Supply
+- Dell Laptop Computers
+- Ingersoll-Rand Air Compressor
+- Cooper Pneumatic Screwdrivers
+
+## Certifications
+- ISO 9001
+- RoHS
+- ITAR
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 1993
+- **Ownership:** Family-owned
+- **Headquarters:** Charlotte, North Carolina
+
+<details><summary>Sources</summary>
+
+- Family-owned contract electronics manufacturer headquartered in Charlotte, NC -> /about
+- Founded in 1993 (per home page) and 1999 (per about page) -> / and /about
+- ISO 9001 certified, RoHS compliant, ITAR registered -> db and /
+- Services: PCB assembly, cable assemblies, wire harnesses, box build, electromechanical assemblies -> / and /services
+- Equipment: APS Nova Star wave solder, Schlueniger wire cutting, Tyco/Molex crimpers, Tektronix oscilloscope -> / and /services
+- Industries: Automotive, Medical, Drilling & Oil Rig, Electric Utilities, Telecommunications, Computers, Data Processing, Industrial Equipment -> / and /services
+- Quick turnaround, just-in-time delivery, drop ship -> / and /services
+- Full turnkey and consignment assembly -> /about
+- Engineering-degreed ownership, 40+ years combined experience -> /about
+</details>
+
+---
+
+# Gary Platt Seating
+
+**Old description:** Every chair in Gary Platt’s collection of performance casino seating is hand-crafted to perfection, bringing unsurpassed comfort to each player’s gaming experience. With more than 40 years in delivering state-of-the-art ergonomically sculpted performance casino seating, Gary Platt’s X-Tended Play and the X2– Tended Play series continue to push the bounds of excellence. For casino customers seeking an unsurpassed combination of functionality and durability in performance seating, Gary Platt’s casino chairs are simply the best!
+
+## About
+Gary Platt Seating operates from Sparks, Nevada, where it has produced performance casino seating for over four decades. The company's history emphasizes a focus on ergonomic design and hand-crafted construction, though no founding year or founder names are disclosed in public materials.
+
+The firm manufactures a range of casino chairs—including the Monaco, Genesis, Lido Revo, Bella, Sedona, Savannah, Lugano, San Remo, Sonoma Club, and Tesla lines—each built around proprietary foam and patented design elements. Production is described as hand-crafted, with extensive customization options for bases, finishes, upholstery, and back fabrics. No facility size, headcount, or annual volume figures are published.
+
+Gary Platt serves the casino gaming industry worldwide, supplying seating for slot areas, table games, high-limit rooms, poker, dealer stations, and sportsbook lounges. Specific models target distinct zones: the Savannah line for high-limit players, the Lugano for dealer comfort, and the Tesla and Monaco for general floor play. The company notes its chairs are used by casinos around the world.
+
+The company differentiates itself through its proprietary foam formulation, design patents (such as U.S. Patent No. D829458 for the Monaco and a patented wing-back on the Tesla), and a catalog of customizable finishes—powder coat, anodized, and plated—applied to steel or aluminum bases. These features are presented as the basis for “unsurpassed comfort” and extended time-on-device.
+
+## Known for
+- Proprietary foam formulation for ergonomic comfort
+- Design patents on key models (Monaco D829458, Tesla wing-back)
+- Hand-crafted assembly process
+- Extensive customization of bases, finishes, upholstery, and back fabrics
+- Over 40 years specializing in casino seating
+
+## Capabilities
+- Hand-crafted chair manufacturing
+- Ergonomic design and engineering
+- Custom upholstery application (fabric, vinyl, polyurethane, leather)
+- Custom metal finishing (powder coating, anodizing, plating)
+- Custom edge molding
+- Insert back handle installation
+- Design patent development and implementation
+
+## Industries
+- Casino gaming
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Sparks, Nevada
+
+<details><summary>Sources</summary>
+
+- Location: Sparks, Nevada -> db
+- Business: Performance casino seating manufacturer -> db, /
+- Experience: Over 40 years in casino seating -> /
+- Products: Multiple chair lines (Monaco, Genesis, Lido Revo, Bella, Sedona, Savannah, Lugano, San Remo, Sonoma Club, Tesla) -> /
+- Patents: Monaco U.S. Patent No. D829458, Tesla patented wing-back -> /
+- Materials: Upholstery options (fabric, polyurethane, vinyl, leather), metal finishes (powder coat, anodized, plated) -> /about-us
+- Customization: Bases, finishes, upholstery, back fabrics, edge molding, insert handles -> /about-us
+- Markets: Casinos worldwide, various gaming areas (high-limit, dealer, slot, table games) -> /
+</details>
+
+---
+
+# Gear For Sports Inc
+
+**Old description:** We truly understand the fundamentals of decorated garments. Gear products are tailored from only the finest fabrics and offer the most innovative decoration opportunities. Our customers have a unique and important message to deliver and our designs are best suited to deliver that message.
+
+## About
+Gear For Sports Inc. operates from Lenexa, Kansas, as a subsidiary of Unrivaled Teamwear LLC. The company’s founding year and original founders are not publicly disclosed.
+
+The company provides a portfolio of branded sportswear—including Under Armour, Champion, its own Gear for Sports label, and Comfort Wash—serving as a single source for t‑shirts, caps, fleece, performance wear, and outerwear. Gear For Sports emphasizes decorated garments, offering custom decoration and graphic design services on what it describes as the finest fabrics.
+
+The company serves clients in the sportswear and teamwear markets, providing a single resource for branded apparel needs.
+
+Gear For Sports says its differentiator is the ability to act as a single resource for all sportswear needs, backed by a long‑standing history of quality graphics and innovative apparel design, and the most innovative decoration opportunities across a breadth of accounts.
+
+## Known for
+- Single resource for all sportswear needs
+- Long-standing history of quality graphics and innovative apparel design
+- Innovative decoration opportunities on finest fabrics
+- Portfolio of powerful brands including Under Armour and Champion
+
+## Capabilities
+- Apparel decoration
+- Graphic design
+- Customer service
+
+## Industries
+- Sportswear
+- Teamwear
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Ownership:** Subsidiary of Unrivaled Teamwear LLC
+- **Headquarters:** Lenexa, Kansas
+
+<details><summary>Sources</summary>
+
+- Headquarters in Lenexa, Kansas -> db
+- Subsidiary of Unrivaled Teamwear LLC -> /
+- Brands: Under Armour, Champion, Gear for Sports, Comfort Wash -> /
+- Products: t-shirts, caps, fleece, performance wear, outerwear -> /
+- Offers decorated garments and innovative decoration opportunities -> /
+- Emphasizes quality graphics and innovative apparel design -> /
+- Single resource for all sportswear needs -> /
+- Customer service contact provided -> /
+- Address: 9700 Commerce Parkway, Lenexa, Kansas 66219 -> /
+</details>
+
+---
+
+# Geffdog Design and Apparel
+
+**Old description:** Our team consists of outstanding customer service professionals and skilled graphic designers who specialize in design for screen printing, embroidery, vinyl graphics, and promotional marketing. Our top priority is to earn your business by offering a unique shopping experience, both online and in-store, and delivering high-quality products that you can proudly promote.
+
+## About
+Geffdog Design and Apparel operates from Aberdeen, South Dakota. The company is staffed by customer service professionals and graphic designers who specialize in design for screen printing, embroidery, vinyl graphics, and promotional marketing. The business focuses on earning client relationships through a distinctive shopping experience available both online and at a physical location.
+
+The shop provides a range of decoration and branding services including screen printing, embroidery, vinyl graphics, promotional products, signs and banners, vehicle wraps and decals, engraving, plaques and trophies. It also offers online store creation and viewing-only showrooms for client-branded apparel. Promotional products are positioned as versatile tools for trade shows, employee recognition, and marketing campaigns, while signs and banners serve storefronts, events, and reception areas.
+
+Clients include businesses, organizations, and event planners seeking branded apparel for teams, trade shows, marketing campaigns, storefront signage, vehicle advertising, and corporate recognition programs. Vehicle wraps turn company vehicles into mobile billboards, and engraved plaques and trophies support employee recognition and office signage.
+
+Geffdog emphasizes a unique shopping experience both online and in-store, backed by in-house graphic design and a focus on delivering high-quality products that clients can proudly promote.
+
+## Known for
+- Unique online and in-store shopping experience
+- In-house graphic design for screen printing, embroidery, vinyl graphics, and promotional marketing
+- Custom online stores for branded apparel
+- Viewing-only showrooms for branded apparel
+- Focus on high-quality promotional products
+
+## Capabilities
+- Screen printing
+- Embroidery
+- Vinyl graphics
+- Promotional products
+- Signs and banners
+- Vehicle wraps and decals
+- Engraving
+- Plaques and trophies
+- Online store creation
+- Viewing-only showrooms
+- Graphic design for apparel and promotional products
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Headquarters:** Aberdeen, South Dakota
+
+<details><summary>Sources</summary>
+
+- Company name: Geffdog Design and Apparel -> db
+- Headquarters: Aberdeen, South Dakota -> db
+- Website: http://www.geffdog.com/ -> db
+- Products: Promotional products -> db
+- Team: customer service professionals and skilled graphic designers -> /
+- Specializes in design for screen printing, embroidery, vinyl graphics, and promotional marketing -> /
+- Offers unique shopping experience online and in-store -> /
+- Services: screen printing, embroidery, promotional products, signs & banners, vehicle wraps & decals, engraving, plaques & trophies, online stores, showrooms -> /
+- Promotional products used for trade shows, employee rewards, marketing campaigns -> /
+- Signs & banners for storefronts, event visibility, reception -> /
+- Vehicle wraps & decals for mobile advertising -> /
+- Engraving, plaques & trophies for corporate recognition and office signs -> /
+- Online stores for branded apparel purchasing -> /
+- Showrooms as viewing-only catalogs -> /
+</details>
+
+---

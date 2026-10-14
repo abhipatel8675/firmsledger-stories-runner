@@ -1,0 +1,562 @@
+# Apparel Forge
+
+**Old description:** manufactures in Sarasota, Florida allowing complete control over the production process from start to finish. Continuously striving to bring you the best quality apparel for your sports team, brand, club, or fundraiser.
+
+## About
+Apparel Forge operates a manufacturing facility in Sarasota, Florida, where it produces custom apparel and sportswear from start to finish. The company maintains complete control over its production process, handling everything from design to finished garment at its University Parkway location.
+
+The shop specializes in direct-to-film printing and fully custom sublimated sportswear, creating uniforms for flag football, team sports, and promotional apparel. Its capabilities cover the full manufacturing cycle, including pattern development, printing, cutting, and sewing, though specific facility size and headcount are not disclosed.
+
+Apparel Forge serves sports teams, brands, clubs, and fundraisers seeking custom-made garments. Customers range from local flag-football leagues to organizations needing branded merchandise, with the company positioning itself as a domestic source for made-in-America apparel.
+
+The company emphasizes its end-to-end control as a key differentiator, stating that overseeing every step allows it to engineer each garment to customer specifications using premium materials and construction techniques aimed at durability.
+
+## Known for
+- Complete control over production from start to finish
+- Made in America manufacturing
+- Premium materials and construction techniques
+- Direct-to-film and sublimation printing capabilities
+
+## Capabilities
+- Direct-to-film printing
+- Sublimation printing
+- Custom apparel manufacturing
+- Custom uniform manufacturing
+- Sportswear manufacturing
+
+## Industries
+- Sportswear
+- Team uniforms
+- Promotional apparel
+- Brand merchandise
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Sarasota, Florida
+
+<details><summary>Sources</summary>
+
+- Location: Sarasota, Florida -> db
+- Manufactures in-house with complete control -> db
+- Direct-to-film printing offered -> /
+- Fully custom sublimated sportswear -> /
+- Custom uniforms for flag football and teams -> /
+- Serves sports teams, brands, clubs, fundraisers -> /
+- Address: 1800 University Pkwy, Sarasota, FL 34243 -> /
+- Phone: +1 (941) 702-5710 -> /
+- Hours: Mon-Fri 8AM-6PM -> /
+</details>
+
+---
+
+# Apparel Manufacturing Co., Inc.
+
+**Old description:** Located in the metro-Atlanta area since 1981, Apparel Manufacturing's full array of branded merchandise travels to thousands of businesses and organizations, both nationwide and internationally.  All apparel products are embroidered, screen printed, or custom cut-and-sewn in our Lilburn, GA facility.  Over the last forty-four years, Apparel Manufacturing has grown from a humble staff of two to one of the most trusted names in the industry. When it comes to providing solutions for our clients, "no" is not an option!
+
+## About
+Apparel Manufacturing Co., Inc. has operated from Lilburn, Georgia, in the metro-Atlanta area since 1981. The family-owned business began as a two-person screen-printing shop and has grown to a staff of fifty under the leadership of President and CEO Martin S. Tulis.
+
+The company provides decorated apparel and branded merchandise through in-house screen printing, custom embroidery, custom cut-and-sew, and promotional product sourcing. Its Lilburn facility handles production and offers a webstore fulfillment option for client orders.
+
+Customers include businesses and organizations nationwide and internationally, ranging from corporate clients needing tradeshow giveaways and tech accessories to companies seeking uniform programs. The product lineup features brands such as Nike, Gildan, Port Authority, and Carhartt.
+
+The company emphasizes a “no is not an option” approach, positioning itself as a one-stop shop that combines domestic production with online store management to deliver orders on tight schedules.
+
+## Known for
+- Family-owned and operated since 1981
+- In-house production facility in Lilburn, GA
+- Webstore fulfillment and order management
+- Screen printing, embroidery, and cut-and-sew under one roof
+- Veteran staff of fifty employees
+
+## Capabilities
+- Screen printing
+- Custom embroidery
+- Custom cut-and-sew
+- Promotional product sourcing
+- Webstore fulfillment
+- Branded merchandise decoration
+- Tradeshow giveaway production
+- Tech accessory branding
+
+## Industries
+- Promotional products
+- Corporate apparel
+- Tradeshow and event marketing
+- Technology accessories
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1981
+- **Employees:** 50
+- **Ownership:** Family-owned
+- **Headquarters:** Lilburn, Georgia
+
+<details><summary>Sources</summary>
+
+- Founded 1981 in metro-Atlanta area -> db
+- Headquarters in Lilburn, Georgia -> db
+- Family-owned and operated -> page /
+- Started as two-person screen print shop -> page /
+- Current staff of fifty employees -> page /
+- In-house production facility with screen printing, embroidery, custom cut-and-sew -> description and page /
+- Webstore fulfillment option -> page /
+- President & CEO Martin S. Tulis -> page /
+- Serves businesses and organizations nationwide and internationally -> description
+- Offers branded merchandise from brands like Nike, Gildan, Port Authority, Carhartt -> page /
+</details>
+
+---
+
+# Applied Molding Technologies, LLC
+
+**Old description:** Founded in 2006, Applied Molding Technologies delivers thermoplastic injection and thermoset compression, transfer and injection molding from Frederic, Wisconsin, serving customers globally, with new tooling built domestically and off-shore.
+
+## About
+Applied Molding Technologies, LLC was founded in 2006 in Frederic, Wisconsin. The company began at a time when conventional wisdom held that domestic manufacturing could not compete with low-wage overseas producers, and its founders built the business on the premise that a fundamentally different operating model was required to succeed.
+
+The shop provides thermoplastic injection molding on all-electric presses ranging from 55 to 850 tons of clamp force, and thermoset compression, transfer, and injection molding on presses from 150 to 300 tons. It also offers value-added mechanical assembly including heat-staking, ultrasonic insertion, sub-assemblies, kitting, and packaging. Production runs 24 hours a day, seven days a week, 365 days a year on a four-shift rotation designed to minimize start-up and shut-down scrap. The facility handles low- to high-volume runs and high-cavitation tooling, with new molds built domestically or off-shore and maintained in-house.
+
+Applied Molding serves a global customer base with parts that require heat resistance, dielectric strength, and long-term stability, such as electrical and dielectric components and large or thick-section parts. As a pure custom molder with no proprietary product lines, the company scales its engineering, quality, and program-management support to each customer’s requirements, from full-scope program support to straightforward production orders.
+
+The company was designed from first principles around three core attributes: efficiency, customization, and adaptability. Its continuous 24/7 schedule, lean headcount, and in-house core capabilities are intended to reduce fixed overhead and improve repeatability. Management emphasizes continuous improvement and structured retrospection to rebuild processes when conditions change.
+
+## Known for
+- 24/7 continuous production on a four-shift rotation since inception
+- Thermoplastic and thermoset molding under one roof with a single quality system
+- Domestic and off-shore tooling options managed by the company
+- ISO 9001:2015 certified, process-controlled quality with full traceability
+- Scalable engineering and program management tailored to each program
+
+## Capabilities
+- Thermoplastic injection molding
+- Thermoset compression molding
+- Thermoset transfer molding
+- Thermoset injection molding
+- Mechanical assembly (heat-staking, ultrasonic insertion, sub-assemblies, kitting)
+- New mold builds (single-cavity to high-cavitation)
+- Off-shore tooling management
+- Tool maintenance and repair
+- Design for manufacturability (DFM) analysis
+- Insert molding
+- Automated production
+- Process-controlled production
+- Full traceability and documentation
+- Commodity and engineering grade resin processing
+- Tight-tolerance high-cavitation molding
+- Electrical/dielectric component molding
+- Large/thick-section part molding
+- Complex geometry molding
+- Repeatable fill for transfer molding
+- Fast cycle time thermoset injection
+- Packaging and ship-direct programs
+
+## Equipment
+- All-electric injection presses (55–850 tons)
+- Thermoset presses (150–300 tons)
+
+## Certifications
+- ISO 9001:2015
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 2006
+- **Headquarters:** Frederic, Wisconsin
+
+<details><summary>Sources</summary>
+
+- Founded in 2006 -> /about
+- Headquarters in Frederic, Wisconsin -> /
+- Thermoplastic injection molding 55-850T all-electric presses -> /capabilities
+- Thermoset compression, transfer, injection molding 150-300T presses -> /capabilities
+- Mechanical assembly with heat-staking, ultrasonic inserts, sub-assemblies, kitting -> /capabilities
+- 24/7/365 production, four-shift rotation -> /about
+- Domestic and off-shore tooling builds -> /
+- ISO 9001:2015 certified -> /
+- Pure custom molder, no proprietary products -> /about
+- Scalable engineering and program management -> /about
+- Continuous improvement and adaptability focus -> /about
+- Serves global customers -> /
+- Electrical/dielectric components and large/thick-section parts -> /capabilities
+- Tool maintenance and repair -> /
+- DFM analysis offered -> /products
+- Insert molding capability -> /capabilities
+- Automated production -> /capabilities
+- Process-controlled production -> /capabilities
+- Full traceability and documentation -> /capabilities
+- Commodity and engineering grade resins -> /capabilities
+- Tight tolerance high-cavitation work -> /capabilities
+- Complex geometries and repeatable fill -> /capabilities
+- Faster cycle times for thermoset injection -> /capabilities
+- Packaging and ship-direct programs -> /capabilities
+</details>
+
+---
+
+# Applied Plastics
+
+**Old description:** Applied Plastics has been providing quality machined and fabricated plastic parts since 1976. All of our products are proudly manufactured at our 30,000 sf facility located in Portland Oregon. From this location we serve customers throughout the United States, Canada, and beyond. Applied Plastics has enjoyed success over the years as a result of our dedication to the needs of our customers. We produce quality plastic products for a wide range of industries and market segments. Ranging from retail displays to industrial plastics to extruded UHMW board stock, Applied Plastics is committed to quality, integrity, and excellence in the industries we serve.
+
+## About
+Applied Plastics was founded in 1976 and operates a 30,000-square-foot manufacturing facility in Portland, Oregon. The company produces machined and fabricated plastic parts from this location, serving customers across the United States, Canada, and internationally.
+
+The shop specializes in plastic machining, acrylic fabrication, laser cutting and engraving, and cutting full sheets to size. It also extrudes UHMW board stock, including recycled UHMW, and works with a range of sheet, rod, and tube materials. The facility houses production equipment for these processes, though specific machine models are not disclosed.
+
+Applied Plastics serves industries such as retail display manufacturing and industrial plastics, supplying components for applications ranging from point-of-purchase displays to extruded UHMW products. Its customer base spans the U.S., Canada, and beyond.
+
+The company emphasizes a personal service guarantee, with machinists and fabricators collaborating directly with customers on material selection and design. It also highlights a near-zero-waste operation that recycles acrylic scrap, extrudes reprocessed UHMW, uses evaporative cooling, and employs motion-activated lighting to reduce energy consumption.
+
+## Known for
+- Direct collaboration between machinists and customers on material selection and design
+- Near-zero-waste facility with acrylic scrap recycling and on-site UHMW reprocessing
+- Energy-efficient shop using evaporative cooling and motion-activated lighting
+- Expert guidance on plastic sheets, rods, and tubes for specific applications
+
+## Capabilities
+- Plastic machining
+- Acrylic fabrication
+- Laser cutting
+- Laser engraving
+- Full sheet cutting to size
+- UHMW extrusion
+- Recycled UHMW extrusion
+- Custom plastic fabrication
+
+## Industries
+- Retail displays
+- Industrial plastics
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1976
+- **Headquarters:** Portland, Oregon
+
+<details><summary>Sources</summary>
+
+- Founded in 1976 -> db
+- 30,000 sf facility in Portland, Oregon -> /
+- Serves customers throughout United States, Canada, and beyond -> /
+- Provides machined and fabricated plastic parts -> /
+- Processes: plastic machining, acrylic fabrication, laser cutting and engraving, full sheets cut to size -> /
+- Extrudes UHMW board stock, including recycled UHMW -> /
+- Industries: retail displays, industrial plastics -> /
+- Personal service guarantee with direct machinist-customer collaboration -> /
+- Near-zero-waste operation: acrylic scrap recycling, reprocessed UHMW extrusion, evaporative cooling, motion-activated lighting -> /about-us
+- Expert material selection assistance for sheets, rods, tubes -> /about-us
+</details>
+
+---
+
+# Arcco Power Systems
+
+**Old description:** ARCCO's vision is to continue to be our customers’ most trusted generator partner – integral to their success. We are an innovation and strategy focused organization, operating as a “Best in Class” provider. We are valued by our customers, esteemed by fellow employees, embraced by teammates, respected by competitors, prized by shareholders, and appreciated by our communities.
+
+## About
+Based in Baton Rouge, Louisiana, Arcco Power Systems operates as a generator sales, service, and rental company. The firm maintains a staff of local employees supplemented by over 100 regional emergency responders who can be mobilized quickly for large-scale projects.
+
+Arcco sells a complete line of diesel, natural gas, and bi-fuel generators ranging from 10 kW to 3.2 MW, primarily from Generac, in stationary and portable configurations. The company services all makes and models of generators, provides fuel cleaning and fuel management services, and maintains a 60-unit portable generator fleet for emergency rental. Technicians are on call 24 hours a day, 365 days a year for repairs, fueling, and temporary power replacement.
+
+The company serves data centers, healthcare facilities, wastewater treatment plants, telecommunications providers, residential customers, educational institutions, manufacturing plants, oil and gas operations, and entertainment venues. Arcco also works with contractors to deliver power, shelter, and food-service support to disaster victims and first responders.
+
+Arcco states its vision is to be the customer's most generator partner, emphasizing an innovation- and strategy-focused approach with a "Best in Class" service model.
+
+## Known for
+- 24/7/365 emergency service coverage
+- 60-unit portable generator rental fleet for catastrophic events
+- Over 100 regional emergency responders available for rapid scaling
+- Service all makes and models of diesel and natural gas generators
+- Fuel cleaning and fuel management services
+
+## Capabilities
+- 24/7/365 emergency generator service
+- Generator maintenance (diesel, natural gas, bi-fuel)
+- Fuel cleaning and fuel management
+- Portable generator rental (60-unit fleet)
+- Generator sales (10 kW – 3.2 MW, stationary and portable)
+- ATS and switchgear sales
+- Emergency response coordination
+
+## Industries
+- Data centers
+- Healthcare
+- Wastewater treatment
+- Telecommunications
+- Residential
+- Education
+- Manufacturing
+- Oil and gas
+- Entertainment
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Employees:** 100+ regional emergency responders
+- **Headquarters:** Baton Rouge, Louisiana
+
+<details><summary>Sources</summary>
+
+- Headquarters: Baton Rouge, Louisiana -> /
+- Over 100 regional emergency responders -> /
+- 60-unit portable generator fleet -> /
+- 24/7/365 service for all makes and models -> /
+- Fuel cleaning and fuel service -> /
+- Sells diesel, natural gas, bi-fuel generators 10 kW to 3.2 MW -> /
+- Generac generator distributor -> /
+- Markets served: Data Centers, Healthcare, Waste Water, Telecomm, Residential, Education, Manufacturing, Oil & Gas, Entertainment -> /
+- Emergency response with contractors for power, shelter, food service -> /
+</details>
+
+---
+
+# Aries Electronics Inc
+
+**Old description:** CUSTOMIZATION: In addition to the standard products shown on this page, Aries specializes in custom design and production. Special materials, platings, sizes, and configurations can be furnished, depending on quantity. NOTE: Aries reserves the right to change product specifications without notice.
+
+## About
+Aries Electronics Inc was founded in 1972 in Bristol, Pennsylvania. The company began as a supplier of electrical sockets and interconnect products, growing into a manufacturer of specialized components for integrated circuit devices.
+
+The company produces a range of interconnect solutions including production IC sockets, test and burn-in sockets, high-frequency RF sockets, PCB and IC adapters, cable assemblies, and its patented Correct-A-Chip® limited-depth pin assemblies. Aries also offers custom engineering services and molds engineered plastics such as UL 94V-0 rated PEEK and Ultem to tolerances under 0.2 mm pitch.
+
+Aries serves original equipment manufacturers and electronic assembly companies across semiconductor, telecommunications, aerospace, and industrial electronics sectors. Its components are used in IC devices, electronic machinery, and custom OEM applications worldwide.
+
+The business differentiates itself through custom design and production capabilities, allowing special materials, platings, sizes, and configurations based on quantity requirements. The Correct-A-Chip technology eliminates the need for new PCB layouts when substituting integrated circuits, providing a cost-effective solution for obsolescence and design changes.
+
+## Known for
+- Patented Correct-A-Chip® limited-depth pin assembly eliminates PCB redesign
+- Custom design and production with special materials, platings, sizes, and configurations
+- Molding of UL 94V-0 PEEK and Ultem plastics at tolerances under 0.2 mm pitch
+- Over 150 full-spec product data sheets available for download
+- RoHS-compliant product offerings
+
+## Capabilities
+- Custom engineering services
+- Molding engineered plastics with tight tolerances (<0.2 mm pitch)
+- IC socket manufacturing (production, test, burn-in, high-frequency RF)
+- PCB and IC adapter manufacturing
+- Cable assembly
+- Correct-A-Chip limited-depth pin assembly production
+- Surface-mounting of electronic components onto adapters
+
+## Industries
+- Semiconductor
+- OEM electronics
+- Telecommunications
+- Aerospace
+- Industrial electronics
+- Electronic assembly
+
+## Certifications
+- RoHS
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1972
+- **Headquarters:** Bristol, Pennsylvania
+
+<details><summary>Sources</summary>
+
+- Founded in 1972 -> /
+- Headquarters in Bristol, Pennsylvania -> db
+- Manufactures electric sockets, interconnect products, Correct-A-Chip technology -> /
+- Offers custom engineering services and molding of engineered plastics with tight tolerances (<0.2mm pitch) -> /
+- Products include production IC sockets, test/burn-in sockets, high-frequency RF sockets, PCB/IC adapters, cable assemblies -> /
+- Materials: UL 94V-0 PEEK, Ultem, stainless steel -> /
+- RoHS certification -> db
+- Serves OEM electronics, semiconductor, electronic applications worldwide -> /
+- Patented Limited-Depth Pin Assembly (Correct-A-Chip Adaptors) -> /
+- Over 150 full-spec product data sheets available -> /
+</details>
+
+---
+
+# Arizona Cottons
+
+**Old description:** Hello my name is Reuben Rosas. I’ve been in the custom apparel industry since 2005. Working in both screen printing and Embroidery in Phoenix for 4 1/2 years and working for Arizona Cottons for 15 years now.
+
+## About
+Arizona Cottons operates from Tucson, Arizona. The company was founded by Reuben Rosas, who has worked in the custom apparel industry since 2005 and has led Arizona Cottons for over 15 years.
+
+The shop provides screen printing (both manual and automatic), embroidery, direct-to-film (DTF) printing, contract screen printing for B2B clients, clothing brand consulting, and full fulfillment including packaging and shipping. Order volumes range from small runs of 1–144 pieces to large orders of 501–10,000+ pieces. The facility uses automatic screen printing machines, advanced embroidery machines, and DTF transfer equipment.
+
+Customers include businesses such as Desert Swarm Bee Removal and Rancho Sahuarita, as well as startups, promotional buyers, and individuals ordering custom jerseys or gifts. The company serves corporate branding, promotional products, sports teams, and personal events.
+
+Arizona Cottons emphasizes that no order is too small or too large, offers fast turnaround times (with one customer reporting a three-day turnaround), and provides consulting expertise for clothing brands including overseas sourcing guidance.
+
+## Known for
+- No order too small or too large (1–144 to 10,000+ pieces)
+- Fast turnaround times, with small orders completed in as few as three days
+- Contract screen printing services for B2B partners
+- Clothing brand consulting including workflow improvements and overseas resources
+- End-to-end fulfillment covering printing, packaging, and shipping
+
+## Capabilities
+- Manual screen printing
+- Automatic screen printing
+- Embroidery
+- Direct-to-film (DTF) printing
+- Contract screen printing
+- Clothing brand consulting
+- Fulfillment (printing, packaging, shipping)
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Headquarters:** Tucson, Arizona
+
+<details><summary>Sources</summary>
+
+- Location: Tucson, Arizona -> db
+- Founder: Reuben Rosas, in industry since 2005, with Arizona Cottons for 15+ years -> db
+- Services: screen printing (manual/automatic), embroidery, DTF, contract printing, consulting, fulfillment -> /
+- Order volume tiers: Small 1-144, Medium 145-500, Large 501-10000+ -> /
+- Equipment: automatic screen printing machine, advanced embroidery machines, DTF transfers -> /
+- Customer examples: Desert Swarm Bee Removal, Rancho Sahuarita, Melissa, Nicole, Lori, Denisse -> /
+- Turnaround: order placed Tuesday, ready Friday (3 days) -> /
+- Materials: Gildan 5000 100% cotton, PC450/DT6000 100% cotton, foam trucker hats -> /
+- Company type: contract screen printing for B2B -> /
+</details>
+
+---
+
+# Arizona Foods Group Inc.
+
+**Old description:** Arizona Foods Group  is a third generation family owned and operated food manufacturing business that has specialized in providing delicious and exceptionally high quality food products to the food service industry for over 85 years.  Our production facility is located in Phoenix, Arizona…but our name is known throughout the United States.  We are committed to total excellence whether we are producing products under our own label, such as
+
+## About
+Arizona Foods Group Inc. operates a food manufacturing facility in Phoenix, Arizona. The company is a third-generation family-owned business that has served the food service industry for more than 85 years, building a national reputation from its Southwest base.
+
+The company manufactures a range of food products, including its own Ambrosia Frozen Yogurt line, and runs an extensive private-label program for food service operators. It offers custom formulation and packaging services, though specific facility size, headcount, and production volumes are not disclosed.
+
+Arizona Foods Group serves the food service industry nationwide, supplying both branded and private-label products to distributors, restaurants, and institutional buyers. Its membership in UniPro Foodservice and All Star Purchasing reflects its integration into national food service supply networks.
+
+The company states it is committed to total excellence whether producing under its own label or through its private-label program, emphasizing flexibility for customers seeking custom food products.
+
+## Known for
+- Third-generation family ownership
+- Over 85 years in food service manufacturing
+- Private label manufacturing program
+- Own-brand Ambrosia Frozen Yogurt line
+- Member of UniPro Foodservice and All Star Purchasing
+
+## Capabilities
+- Food manufacturing
+- Private label production
+- Frozen yogurt production
+
+## Industries
+- Food service
+
+## Company details
+- **Company Type:** Manufacturer
+- **Ownership:** Family-owned
+- **Headquarters:** Phoenix, Arizona
+
+<details><summary>Sources</summary>
+
+- Third generation family owned and operated food manufacturing business -> db, /
+- Over 85 years serving the food service industry -> db, /
+- Production facility located in Phoenix, Arizona -> db, /
+- Produces Ambrosia Frozen Yogurt under own label -> /
+- Offers private label program -> db, /
+- Member of UniPro Foodservice -> db, /
+- Member of All Star Purchasing -> /
+- Contact email customerservice@arizonafoodsgroup.com -> /
+- Phone 602-232-2570 -> /
+</details>
+
+---
+
+# Arizona Woodworks
+
+**Old description:** At Arizona Woodworks we employ the highest quality craftsman and the best materials to create the custom built cabinets, mantles, furniture, and commercial woodwork. A Prescott cabinet and woodworker for more than 30 years, we have the experience to design and build beautiful wood cabinetry and furniture   to fit any home or commercial application. …
+
+## About
+Arizona Woodworks operates from Prescott, Arizona, where it has served as a cabinet and woodworking shop for more than three decades. The company employs skilled craftsmen and selects quality materials to produce custom cabinetry, mantles, furniture, and commercial millwork. Ownership details and founder names are not publicly disclosed.
+
+The shop focuses on custom wood fabrication, including built-in cabinets for kitchens and bathrooms, fireplace mantles, heirloom-grade furniture, and commercial woodwork projects. Services span design, milling, assembly, and finishing across a range of wood species and finish options. No facility size, headcount, or annual volume figures are published.
+
+Customers include homeowners seeking tailored residential pieces — such as garage shelving, focal-point furniture, and fitted cabinetry — as well as commercial clients needing architectural millwork. A 2019 testimonial highlights work ranging from utilitarian storage to artistic statement pieces for a great room.
+
+Arizona Woodworks emphasizes its experienced craftsmen and material selection as core differentiators, aiming to deliver pieces that fit any residential or commercial application. The business holds an Arizona Registrar of Contractors license (ROC 214075).
+
+## Known for
+- Over 30 years of experience in Prescott
+- Custom design and build for any home or commercial application
+- Works with all wood species and finishes
+- AZ ROC licensed contractor
+
+## Capabilities
+- Custom cabinetry
+- Mantle fabrication
+- Commercial millwork
+- Custom furniture making
+- Heirloom furniture
+- Wood finishing
+- Design services
+
+## Industries
+- Residential (kitchens, bathrooms, furniture)
+- Commercial (architectural millwork)
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Prescott, Arizona
+
+<details><summary>Sources</summary>
+
+- Location: Prescott, Arizona -> db
+- Business description: custom built cabinets, mantles, furniture, commercial woodwork -> /about-us
+- Experience: more than 30 years -> /
+- License: AZ ROC 214075 -> /
+- Testimonial from Dec 25, 2019 by Rich And Pam Arnold -> /
+- Capabilities list: Custom Built Cabinets, Mantles, Commercial Woodwork, Millwork, Heirloom Furniture -> db
+- Materials: all woods, all finishes -> /
+- Services: design and build for home or commercial application -> /about-us
+- Copyright 2021 -> /
+</details>
+
+---
+
+# Arkansas Glass Container Corporation
+
+**Old description:** Arkansas Glass Container Corporation, located in Jonesboro, Arkansas, has been on the same property since 1948. Originally built to produce minnow-roach bait traps, a change in ownership and the company name in the mid-1950s resulted in a shift to food-grade containers -- a product that we still produce today. Proud to be American owned, Arkansas Glass Container Corporation, makes glass containers ranging from 8 ounces to one-gallon. We also offer a family of patented designed containers called the Stout, used for sauces, beverages or dressings.
+
+## About
+Arkansas Glass Container Corporation has operated from the same site in Jonesboro, Arkansas since 1948. The facility was originally built to produce minnow‑roach bait traps; a change of ownership and name in the mid‑1950s redirected the business toward food‑grade glass containers, a line it continues today. The company describes itself as American owned.
+
+The manufacturer produces clear glass containers ranging from 8‑ounce to one‑gallon capacities for the food and beverage sectors. Its catalog includes standard jars and a proprietary family of patented designs called the Stout, intended for sauces, beverages, and dressings.
+
+Primary customers are food and beverage processors seeking glass packaging. The company’s product examples show a variety of finishes (e.g., 38‑405, 70‑450) and label panel dimensions suited to commercial filling lines.
+
+Arkansas Glass emphasizes its domestic ownership and long‑term presence on a single property as distinguishing factors, along with the patented Stout container line developed for specific sauce, beverage, and dressing applications.
+
+## Known for
+- American owned and operated on the same property since 1948
+- Patented Stout container family for sauces, beverages, and dressings
+- Glass container range from 8 oz to 1 gallon with multiple finish options
+
+## Capabilities
+- Glass container manufacturing
+- Patented container design (Stout line)
+
+## Industries
+- Food
+- Beverage
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1948
+- **Ownership:** American owned
+- **Headquarters:** Jonesboro, Arkansas
+
+<details><summary>Sources</summary>
+
+- Located in Jonesboro, Arkansas since 1948 -> /
+- Originally produced minnow-roach bait traps, shifted to food-grade containers in mid-1950s -> /
+- American owned -> /
+- Manufactures clear glass containers 8 oz to 1 gallon -> /
+- Offers patented Stout container family for sauces, beverages, dressings -> /
+- Serves food and beverage industries -> /
+- Product examples with capacities, finishes, dimensions -> /
+- Founded 1948 -> db
+</details>
+
+---

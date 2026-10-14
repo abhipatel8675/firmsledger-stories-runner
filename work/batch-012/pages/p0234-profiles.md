@@ -1,0 +1,531 @@
+# Restaurant Equipment Company
+
+**Old description:** Restaurant Equipment Company, a family-owned and operated business, takes pride in delivering vital equipment at affordable prices. Our products, renowned for their durability and reliability, are trusted worldwide. We are dedicated to upholding the highest quality standards, ensuring customer satisfaction with every purchase. Our partnerships with several well-known manufacturers reinforce our commitment to excellence.​
+
+## About
+Restaurant Equipment Company, known as RECO, operates from Festus, Missouri, along U.S. Route 67. The business is family-owned and operated, though the founding year and original founders are not publicly disclosed. It began as a supplier of commercial kitchen equipment to the regional food-service market.
+
+The company stocks and sells new commercial restaurant equipment sourced from several well-known manufacturers, covering categories such as cooking, refrigeration, preparation, and warewashing. In addition to distribution, RECO fabricates custom cutting boards to customer-specified dimensions, offering a made-to-order service for food-preparation surfaces.
+
+Customers include independent restaurants and food-service operators throughout the Midwest and beyond. The firm’s partnerships with established equipment brands allow it to outfit full commercial kitchens or supply replacement units for existing operations.
+
+RECO emphasizes affordable pricing, durability, and reliability across its product lines, framing its mission around meeting vital equipment needs while maintaining high quality standards. The ownership cites long-standing manufacturer relationships as a cornerstone of its ability to deliver consistent value.
+
+## Known for
+- Family-owned and operated
+- Partnerships with several well-known equipment manufacturers
+- Custom cutting boards fabricated to exact dimensions
+- Focus on affordable pricing for commercial kitchen equipment
+
+## Capabilities
+- Commercial restaurant equipment distribution
+- Custom cutting board fabrication
+
+## Industries
+- Commercial food service
+- Restaurant industry
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Ownership:** Family-owned
+- **Headquarters:** Festus, Missouri
+
+<details><summary>Sources</summary>
+
+- Family-owned and operated -> db, /
+- Headquarters: Festus, Missouri, 2299 U.S. 67 -> /
+- Sells new commercial restaurant equipment -> /
+- Partnerships with several well-known manufacturers -> /
+- Offers custom cutting boards crafted to customer dimensions -> /
+- Website: recosupplyco.com -> db
+</details>
+
+---
+
+# Restronics Southeast
+
+**Old description:** We are a consultative OEM sales rep organization, where we help educate our customers to improve their processes and productivity.
+
+## About
+Restronics Southeast was founded in 1991 in Acworth, Georgia. The company operates as a national manufacturers' representative, led by Managing Partner Tim Glasgow, who brings 35 years of industry experience. Ownership details are not publicly disclosed.
+
+Rather than producing goods, Restronics provides consultative sales and engineering services to original equipment manufacturers. Its service portfolio includes ESD facility assessments, workstation evaluations, static bag testing, and assembly line consultation for both surface-mount and through-hole processes. The firm represents a roster of electronic-component manufacturers and manages distribution-channel relationships across a territory covering Georgia, Alabama, Tennessee, Mississippi, and Arkansas.
+
+The primary customers are OEMs in the electronics manufacturing sector seeking to improve process efficiency, reduce field failures, and optimize capital investment. Restronics' sales engineers work directly with engineering and procurement teams to identify ESD vulnerabilities and recommend equipment or process changes.
+
+The company emphasizes credibility with both customers and principals as its core asset, offering no-charge assessment services and honest, timely information to help manufacturers increase profitability. This consultative approach, rooted in long-standing industry relationships, is presented as the reason clients engage Restronics.
+
+## Known for
+- No-charge ESD and workstation assessments
+- Decades of industry experience among sales engineers
+- Manufacturer representation across a five-state Southeast territory
+- Focus on productivity optimization and field-failure reduction
+- Static bag testing for ESD-sensitive components
+
+## Capabilities
+- ESD facility assessment
+- Workstation ESD evaluation
+- Static bag testing
+- Assembly line consultation (SMT)
+- Assembly line consultation (Through-Hole)
+- Manufacturer representation
+- Distribution channel management
+
+## Industries
+- Electronic manufacturing
+- OEM
+
+## Certifications
+- ANSI
+
+## Company details
+- **Company Type:** Installer / service company
+- **Founded:** 1991
+- **Headquarters:** Acworth, Georgia
+
+<details><summary>Sources</summary>
+
+- Founded in 1991 -> db
+- Headquarters in Acworth, Georgia -> db
+- Tim Glasgow is Managing Partner -> /
+- Provides ESD assessment services -> /
+- Provides workstation assessment services -> /
+- Provides static bag testing services -> /
+- Provides assembly line consultation for SMT and Through-Hole -> /
+- Represents manufacturers in electronic manufacturing business -> /
+- Territory: Georgia, Alabama, Tennessee, Mississippi, Arkansas -> /
+- Certification: ANSI -> db
+</details>
+
+---
+
+# Revelation Medical Devices
+
+**Old description:** Our Auburn, Indiana-based company was founded in 1976 and continues to grow steadily. Our company has provided medical instrumentation to the orthopaedic industry for more than 45 years.
+
+## About
+Revelation Medical Devices operates from Auburn, Indiana, where it was founded in 1976. The company has supplied medical instrumentation to the orthopaedic industry for more than 45 years, building a reputation as a contract manufacturer for medical device innovators.
+
+The shop offers prototype-to-production capabilities that include 3-, 4-, and 5-axis milling, live-tool turning, orthopaedic-quality finishing, a dedicated polymer/plastic manufacturing cell, laser and TIG welding, laser etching, passivation, polishing, and non-sterile packaging and labeling. These services cover design, development, prototyping, and full-scale production under one roof.
+
+RMD serves medical device OEMs and startups, with a focus on the orthopaedic segment. Its location — within 45 minutes of Warsaw, Indiana, known as the orthopaedic capital of the world — allows close collaboration with both large and small customers in that cluster.
+
+The company states its mission is to empower medical device innovators by providing ISO-certified high-precision manufacturing from prototype to production with reliability, flexibility, and excellence. Core values of excellence, integrity, teamwork, and compassion are cited as the foundation of its partnership approach.
+
+## Known for
+- ISO 13485:2016 certified and FDA registered (Establishment 1836116)
+- Over 45 years of orthopaedic instrument manufacturing experience
+- Prototype-to-production capability under one roof (design, development, prototyping, production)
+- Located near the Warsaw, IN orthopaedic industry cluster
+- Dedicated polymer/plastic manufacturing cell and orthopaedic-quality finishing
+
+## Capabilities
+- 3-Axis Milling
+- 4-Axis Milling
+- 5-Axis Milling
+- Live Tool Turning
+- Orthopaedic Quality Finishing
+- Dedicated Poly/Plastic Manufacturing Cell
+- Laser Welding
+- TIG Welding
+- Laser Etching
+- Passivation
+- Polishing
+- Non-Sterile Packaging
+- Non-Sterile Labeling
+- Medical Device Design
+- Medical Device Development
+- Prototyping
+- Production
+
+## Industries
+- Medical Devices
+- Orthopaedics
+
+## Certifications
+- ISO 13485:2016
+- FDA Registration 1836116
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 1976
+- **Headquarters:** Auburn, Indiana
+
+<details><summary>Sources</summary>
+
+- Founded 1976 in Auburn, Indiana -> /about
+- ISO 13485:2016 certified -> /
+- FDA Registration Number 1836116 -> /
+- Capabilities: 3/4/5-axis milling, live tool turning, orthopaedic finishing, plastic cell, laser/TIG welding, laser etching, passivation, polishing, non-sterile packaging/labeling -> /
+- Serves medical device OEMs and startups, orthopaedic focus -> /
+- Located within 45 minutes of Warsaw, IN (orthopaedic capital) -> /
+- Mission: empower medical device innovators with ISO-certified high precision manufacturing from prototype to production -> /about
+- Core values: excellence, integrity, teamwork, compassion -> /about
+- LinkedIn URL -> db
+</details>
+
+---
+
+# Revolution Bag
+
+**Old description:** Delta Plastics of the South is founded in Stuttgart, Arkansas, with a focus on providing efficient irrigation solutions to farmers in the Mid-South, and soon after starts recycling to show the importance of being part of the solution to plastic waste.
+
+## About
+Revolution Bag operates from Little Rock, Arkansas, tracing its roots to 1996 when Delta Plastics of the South was founded in Stuttgart, Arkansas. The family-owned company began by providing efficient irrigation solutions to farmers in the Mid-South and quickly added recycling operations to address plastic waste.
+
+Today the company runs an integrated circular platform that collects, cleans, and mechanically recycles more than 300 million pounds of flexible film each year, producing certified post-consumer and post-industrial resins. Those resins feed its own manufacturing lines, which turn out trash-can liners under the Revolution Bag brand, carryout bags for foodservice, grocery, and retail, high-performance agricultural films, commercial sheeting, and stretch films. The business has grown through acquisitions including Rodeo Plastic Bag & Film, Command Packaging, Encore Recycling, Pak-Sher, Polar Plastics, Jadcore, and Five Point Films.
+
+Customers span agriculture, food service, grocery, retail, construction, and waste management, as well as global brands and OEMs that incorporate Revolution’s recycled resins into their own products. Hartsfield-Jackson Atlanta International Airport, for example, reports cutting virgin resin use from hundreds of thousands of pounds to 17,000 pounds annually through the partnership.
+
+The company says it was started to show the importance of being part of the solution to plastic waste, and it now champions a “sustainable loop” model that controls the entire lifecycle of plastics to create value for customers and reduce environmental impact.
+
+## Known for
+- World's largest recycler of heavily soiled agricultural plastics
+- Recovers, cleans, and processes over 300 million pounds of material annually
+- Proprietary mechanical recycling process for the toughest flexible films
+- Integrated sustainable loop model controlling the full plastic lifecycle
+- Manufactures products with up to 100% post-consumer resin
+
+## Capabilities
+- Film collection and recovery
+- Mechanical recycling of flexible films
+- Recycled resin production (post-consumer and post-industrial)
+- Trash can liner manufacturing
+- Carryout bag manufacturing (foodservice, grocery, retail)
+- Agricultural film manufacturing
+- Commercial sheeting and film manufacturing
+- Stretch film manufacturing
+- Custom sustainable loop program development
+- Irrigation planning software (Pipe Planner)
+
+## Industries
+- Agriculture
+- Food service
+- Grocery
+- Retail
+- Commercial construction
+- Waste management
+- Consumer goods
+- OEMs and brands
+- Converters
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1996
+- **Ownership:** Family-owned
+- **Headquarters:** Little Rock, Arkansas
+
+<details><summary>Sources</summary>
+
+- Founded 1996 in Stuttgart, Arkansas -> /about
+- Family-owned -> /about
+- HQ Little Rock, Arkansas -> db
+- Recovers 300M lbs/year -> homepage, /services
+- Diverted 3B lbs from landfills -> homepage
+- 100B gallons water saved via Pipe Planner -> homepage
+- Manufactures up to 100% PCR products -> homepage, /about
+- Acquisitions: Rodeo, Command Packaging, Encore, Pak-Sher, Polar, Jadcore, Five Point Films -> /about
+- Core divisions: Sustainable Agriculture, Commercial, Consumer, Materials, Stretch Solutions -> /about
+- World's largest recycler of heavily soiled ag plastics -> /services
+- Proprietary mechanical recycling process -> /services
+- Custom sustainable loop programs -> /services
+- Customer: Hartsfield-Jackson Atlanta International Airport -> homepage, /services
+- Products: trash can liners, carryout bags, ag films, commercial sheeting, stretch films -> homepage, /about, db products
+- Industries: agriculture, food service, grocery, retail, commercial, consumer -> homepage, /about, db industries
+</details>
+
+---
+
+# Reworx
+
+**Old description:** At Reworx, we create custom furniture and accents that merge sustainability with exceptional craftsmanship. By giving new life to reclaimed materials, we design pieces that transform spaces and tell meaningful stories. Committed to innovation, quality, and environmental responsibility, we combine timeless style with modern function to craft designs that embody both artistry and purpose.
+
+## About
+Reworx operates from Morris, Connecticut, with a shop in nearby Watertown. The company was founded by a family team, though the exact year is not publicly stated. The founders, referred to as family founders, built the business around giving new life to reclaimed materials, starting with barn wood mantels and expanding into custom furniture and accents.
+
+The company designs and builds custom furniture pieces using reclaimed wood, primarily sourced from old barns. Its services include a design studio where clients collaborate with reclamation experts, a salvage and wood sales operation for DIY projects, and a mobile onsite design-install consultation service for both residential and commercial spaces. The workshop and studio handle projects of varying scale, though specific production volumes and headcount are not disclosed.
+
+Reworx serves homeowners, interior designers, and commercial clients seeking sustainable, story-rich furnishings. Examples include residential mantle installations and commercial space consultations. The company also caters to DIY enthusiasts through its reclaimed material sales.
+
+Reworx distinguishes itself by merging sustainability with craftsmanship, transforming discarded materials into pieces that carry narrative weight. The founders emphasize innovation, quality, and environmental responsibility, aiming to combine timeless style with modern function.
+
+## Known for
+- Custom furniture crafted from reclaimed barn wood
+- Design studio collaboration with reclamation experts
+- Mobile onsite design-install service for homes and businesses
+- Salvage wood sales for DIY projects
+- Commitment to sustainability and environmental responsibility
+
+## Capabilities
+- Custom furniture design
+- Reclaimed material sourcing
+- Onsite design installation
+- Salvage wood sales
+- Design consultation
+
+## Industries
+- Residential
+- Commercial
+- DIY
+
+## Company details
+- **Company Type:** Manufacturer
+- **Ownership:** Family-owned
+- **Headquarters:** Morris, Connecticut
+
+<details><summary>Sources</summary>
+
+- Company name Reworx -> db
+- Headquarters in Morris, Connecticut -> db
+- Creates custom furniture and accents from reclaimed materials -> /
+- Offers design studio collaboration, salvage wood sales, mobile onsite design install -> /
+- Family founders -> /
+- Shop location in Watertown, CT -> /
+- Studio location in Morris, CT -> /
+- Serves residential and commercial clients -> /
+- Emphasizes sustainability and craftsmanship -> /
+</details>
+
+---
+
+# Rhino Wire Works, LLC
+
+**Old description:** At Rhino Wire Works, clients can request custom wire forms, bringing their ideas to life in collaboration with our skilled engineers. We meticulously craft each wire form to meet specific requirements, turning imagination into tangible, high-quality results for industrial, commercial, and artistic purposes.
+
+## About
+Rhino Wire Works operates from Delavan, Wisconsin, where it was established in January 1994 by John Burgstede as JB Wire Service, Inc. Burgstede brought over 40 years of experience from his uncle's wire forming and stamping business, joined by George Jeninga for a combined 70-plus years in the trade. The company was acquired in 2024 by Jonathan Zepeda, who adds two decades in steel and metals, while Burgstede remains involved in operations.
+
+The shop specializes in custom wire forms, handling projects from prototype through production runs for OEM and service parts. Its core capability is wire bending, quoting from prints, sketches, or samples, and it also designs and builds custom paint-line fixtures and hooks—sold under the Rhino Hooks brand—to increase line density and solve hanging issues. For secondary operations such as machining or finishing, the firm coordinates with local machine shops.
+
+Customers span industrial, commercial, and artistic sectors, ranging from large OEMs to small businesses needing custom brackets, hangers, or decorative wire work. The company emphasizes fast quotes, quick delivery, competitive pricing, and dependable service as its operating pillars.
+
+The business began from Burgstede's deep trade background and was later transitioned to Zepeda to preserve quality and continuity for existing clients while expanding capabilities in wire forming and fixture design.
+
+## Known for
+- Fast quotes and quick delivery
+- Prototype-to-production follow-through
+- Custom paint-line fixture and hook design (Rhino Hooks)
+- Bending from prints, sketches, or samples
+- Coordination with machine shops for secondary operations
+
+## Capabilities
+- Custom wire forming
+- Wire bending
+- Prototype to production
+- OEM parts manufacturing
+- Service parts manufacturing
+- Custom paint line fixture design and build
+- Hook manufacturing (Rhino Hooks)
+- Secondary operations coordination
+- Quoting from prints, sketches, or samples
+
+## Industries
+- Industrial
+- Commercial
+- Artistic
+- OEM
+- Paint line / coating
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1994
+- **Ownership:** Private, acquired 2024
+- **Headquarters:** Delavan, Wisconsin
+
+<details><summary>Sources</summary>
+
+- Founded January 1994 by John Burgstede in Delavan, WI -> /about
+- Formerly JB Wire Service, Inc. -> /about
+- Acquired by Jonathan Zepeda in 2024 -> /about
+- Custom wire forms, bending specialists, prototype to production -> /about
+- Custom paint line fixtures and hooks (Rhino Hooks) -> /about
+- Partners with machine shops for secondary operations -> /about
+- Serves industrial, commercial, artistic purposes -> /
+- Fast quotes, quick delivery, competitive prices, superior quality, dependable service -> /about
+- Location: 415 Hallberg St, Delavan, WI -> /
+- Made in the U.S.A. -> /
+</details>
+
+---
+
+# Rice Machinery Machine Tools SALES, Service
+
+**Old description:** Rice Machinery specializes in selling new machine tools, CNC controls, custom building, refurbishing and modernizing used machinery for all manufacturing industries including schools and colleges. We stand by our products 100%, and are well known to take great pride in our work and customer satisfaction.
+
+## About
+Rice Machinery, Inc. operates from Cranston, Rhode Island, where it was established in 1968 by S. Arnold Rice under the name Reynolds of Baker Street. The business, now owned by Cory McLaughlin, continues a multi-decade tradition of serving the New England region with machine tool sales and service.
+
+The company functions as an authorized distributor for Sharp CNC machine tools and Acu-Rite G2 CNC controls, while also stocking new and used equipment, repair parts, and accessories. Its 4,000-square-foot showroom and 15,000-square-foot main warehouse—supplemented by three additional warehouses across the state—support a parts and rebuilding department, a demo area, and a fleet of three service trucks that handle on-site installations, retrofits, and repairs. Services include CNC retrofits on knee and bed mills (two- or three-axis), control training, powerfeed and DRO installation, and machine rebuilds performed either in-house or at the customer’s facility.
+
+Customers span general manufacturing sectors as well as educational institutions such as schools and colleges throughout New England.
+
+Rice Machinery emphasizes its exclusive New England distributorship for Sharp and Acu-Rite products and a commitment to standing behind every sale with full product support and customer satisfaction.
+
+## Known for
+- Exclusive New England distributor for Sharp CNC machines and Acu-Rite G2 controls
+- In-house rebuilding, demo, and parts departments with three service trucks for daily on-site calls
+- 4,000 sq ft showroom and 15,000 sq ft warehouse plus three additional warehouses
+- Offers CNC retrofits, control training, and installation of powerfeeds, DROs, and power draw bars
+
+## Capabilities
+- Sales of new machine tools
+- Sales of used machine tools
+- CNC controls sales (Sharp, Acu-Rite)
+- Custom building of machinery
+- Refurbishing used machinery
+- Modernizing used machinery
+- CNC retrofits (2- or 3-axis) for knee and bed mills
+- In-house CNC control training
+- On-site CNC control training
+- Installation of powerfeeds
+- Installation of DROs
+- Installation of power draw bars
+- Machine rebuilding
+- Machine repair
+- Sales of new and used repair parts
+- Trade-ins and purchase of used/surplus machines
+- In-house CNC demo
+- Parts department
+
+## Industries
+- Manufacturing
+- Education (schools and colleges)
+
+## Equipment
+- Sharp CNC Machine Tools
+- Acu-Rite G2 CNC Controls
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Founded:** 1968
+- **Headquarters:** Cranston, Rhode Island
+
+<details><summary>Sources</summary>
+
+- Founded in 1968 by S. Arnold Rice -> /about
+- Formerly Reynolds of Baker Street -> /about
+- Current owner Cory McLaughlin -> /about
+- Headquartered in Cranston, Rhode Island -> db, /about
+- 4,000 sq ft showroom and 15,000 sq ft warehouse at main location -> /about
+- Three additional warehouses throughout the state -> /about
+- Three service trucks for daily on-site calls -> /about
+- Exclusive authorized distributor for Sharp CNC Machine Tools and Acu-Rite G2 CNC Controls in New England -> /, /about
+- Sells new and used machine tools, repair parts, accessories -> /, /about
+- Provides CNC retrofits (2- or 3-axis) for knee and bed mills -> /
+- Offers in-house and on-site CNC control training -> /
+- Installs powerfeeds, DROs, power draw bars -> /
+- Rebuilds and repairs machines in-house or at customer facility -> /
+- Buys and takes trade-ins of used/surplus machines -> /
+- Serves manufacturing industries and schools/colleges -> /, /about
+- Stands by products 100% and emphasizes customer satisfaction -> /
+</details>
+
+---
+
+# Rich Industries Import Auto Parts
+
+**Old description:** ince 1968, Rich Industries has provided customers in Kansas City, MO and nationwide with high quality New & Used Auto Parts, Import Auto Restoration, Used & Salvage Auto Sales and Nationwide Parts Locating. Our dedicated staff is here to help answer any of your questions along the way!
+
+## About
+Rich Industries Import Auto Parts has operated from Kansas City, Missouri since 1968. The business was founded to supply new and used auto parts to customers in the Kansas City area and across the United States, later adding import auto restoration and salvage vehicle sales to its offerings.
+
+The company stocks a range of components including A/C wiring harnesses, body wiring harnesses, charging port door assemblies, dash wiring harnesses, deck lid assemblies, diesel particulate filters, and bumper energy absorbers. Beyond parts distribution, Rich Industries provides nationwide parts locating, direct shipping, and restoration services for import vehicles. The facility also handles used and salvaged auto sales, though specific facility size and headcount are not disclosed.
+
+Customers include independent repair shops, restoration specialists, and individual vehicle owners seeking import parts or salvage vehicles. The company’s nationwide parts locating service supports clients who cannot find components locally, while its direct shipping program serves buyers across the country.
+
+Rich Industries differentiates itself with a 90-day warranty on all parts sold, extended warranty options, and a focus on customer service that the company describes as 'professional service meets professional experience.' The business also emphasizes its long-standing presence in the Kansas City market.
+
+## Known for
+- 90-day warranty on all parts
+- Extended warranty options available
+- Nationwide parts locating service
+- Direct parts shipping
+- Import auto restoration specialization
+
+## Capabilities
+- Auto parts distribution
+- Nationwide parts locating
+- Direct parts shipping
+- Import auto restoration
+- Used and salvage auto sales
+- Warranty support (90-day standard)
+
+## Industries
+- Automotive
+- Import automotive
+- Auto restoration
+- Salvage automotive
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Founded:** 1968
+- **Headquarters:** Kansas City, Missouri
+
+<details><summary>Sources</summary>
+
+- Founded 1968 -> db
+- Headquarters Kansas City, MO -> db
+- Services: New & Used Auto Parts, Import Auto Restoration, Used & Salvage Auto Sales, Nationwide Parts Locating -> /
+- 90-day warranty on all parts -> /
+- Extended warranties available -> /
+- Direct parts shipping -> /
+- Parts examples: A/C Wiring Harness, Body Wiring Harness, Charging Port Door Assembly, Dash Wiring Harness, Deck Lid Assembly, Diesel Particulate Filter, Bumper Energy Absorber (Front/Rear) -> db
+- Address: 4120 Winchester, Kansas City, MO 64129 -> /
+</details>
+
+---
+
+# Rich Metal Arts
+
+_skipped: not enough facts_
+
+# Richey Capacitor Inc.
+
+**Old description:** R. Royce Richey entered in the electronics industry in 1954 and was influential in the design and development of the subminiature electrolytic capacitor for the US market. He founded the company in 1965, and Richey is still one of the most recognizable names in the electronic industry.
+
+## About
+Richey Capacitor Inc. was founded in 1965 by R. Royce Richey in Nashville, Tennessee. Richey had entered the electronics industry in 1954 and played a key role in developing the subminiature electrolytic capacitor for the U.S. market, establishing a foundation for a company that remains a recognized name in electronic components.
+
+The company supplies a broad range of aluminum electrolytic and film capacitors, including computer-grade, snap-in, through-hole, dipped, and box-type configurations. Richey leverages manufacturing capabilities in China and Taiwan, where it applies thorough technical knowledge of capacitor design, and provides custom part-number data sheets and samples to support design engineers, purchasing agents, and distributors.
+
+Richey serves the broader electronics industry and has built long-term supply relationships with companies such as Franklin Electric, Paul C Buff, QSC Audio, Aclara, Astronics Electronic Solutions, United Technologies, and Robertshaw Controls, spanning industrial, audio, aerospace, and smart-infrastructure sectors.
+
+The company emphasizes personal customer service, comprehensive product information, and extensive technical support, underpinned by ongoing development of new materials and processes that translate into new business with customers.
+
+## Known for
+- Personal-level customer service with complete product information and technical support
+- Custom part-number data sheets and samples available on request
+- Ongoing development of new materials and processes
+- Long-standing supply relationships with major OEMs (Franklin Electric, QSC Audio, United Technologies, etc.)
+
+## Capabilities
+- Aluminum electrolytic capacitor supply
+- Film capacitor supply
+- Custom part numbering and data sheets
+- Sample provision
+- Technical support and consultation
+
+## Industries
+- Electronics
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1965
+- **Headquarters:** Nashville, Tennessee
+
+<details><summary>Sources</summary>
+
+- Founded in 1965 by R. Royce Richey -> /about
+- R. Royce Richey entered electronics industry in 1954, influential in subminiature electrolytic capacitor design -> /about
+- Headquarters in Nashville, Tennessee -> db
+- Markets aluminum electrolytic and film capacitors -> /about, /
+- Offers computer-grade, snap-in, through-hole, dipped, box-type film capacitors -> /
+- Leverages manufacturing capabilities in China and Taiwan -> /about
+- Provides custom part number data sheets and samples -> /, /about
+- Emphasizes personal customer service, complete product information, extensive technical support -> /
+- Constant development of new materials and processes -> /about
+- Long-term relationships with Franklin Electric, Paul C Buff, QSC Audio, Aclara, Astronics Electronic Solutions, United Technologies, Robertshaw Controls -> /about
+- Serves design engineers, purchasing agents, distributors -> /
+</details>
+
+---

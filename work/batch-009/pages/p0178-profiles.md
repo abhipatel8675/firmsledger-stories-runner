@@ -1,0 +1,633 @@
+# Gill CC Woodworks INC
+
+**Old description:** Gill CC Woodworks specializes in custom-designed handmade dining tables, bars, coffee tables, doors, and more. For 10 years, we have celebrated the spirit of each tree and brought nature’s beauty into homes and businesses. Each piece is composed of sustainably sourced logs sawn right on site by the maker, from tree to heirloom. Featuring mortise and tenon joinery, butterfly inlays, live edge, or traditional profiles, each piece is genuinely one of a kind.
+
+## About
+Gill CC Woodworks operates from a third-generation family farm in Gill, Massachusetts. Owner and woodworker Sam French founded the shop after growing up learning 18th-century reproduction techniques from his father, master craftsman Dick French. The business has been crafting custom furniture for approximately ten years.
+
+The company produces handcrafted dining tables, bars, coffee tables, doors, benches, and specialty pieces using mortise-and-tenon joinery, butterfly inlays, and live-edge or traditional profiles. All lumber is sustainably harvested from the property’s tree farm and sawn on-site at the farm’s sawmill, then dried in an acclimation room before being built in a multi-room shop complex. The operation maintains an extensive inventory of slabs and rough-sawn stock.
+
+Clients range from homeowners to institutions and commercial projects. Past work includes furniture for Smith College’s Neilson Library (designed by Maya Lin), Amherst College, Dudley Town Brewery, PACE Art Gallery, Mount Grace Land Trust, and architectural firms such as Bialosky Architects. Pieces are delivered and assembled nationwide.
+
+French emphasizes a full-circle process that honors each tree’s life, combining land preservation with craftsmanship. The shop’s integration of harvesting, milling, and building under one roof allows complete control over material quality and sustainability.
+
+## Known for
+- Sustainably harvested logs sawn on-site from the farm’s own tree farm
+- Mortise-and-tenon joinery with butterfly inlays and live-edge options
+- Full-cycle production from tree to finished heirloom piece
+- Nationwide delivery and assembly included
+
+## Capabilities
+- Custom furniture design
+- Handcrafted mortise-and-tenon joinery
+- Butterfly inlay work
+- Live-edge furniture fabrication
+- Traditional profile furniture
+- Sustainable wood harvesting
+- On-site sawmilling
+- Wood acclimation and drying
+- Nationwide delivery and assembly
+
+## Industries
+- Residential
+- Commercial
+- Education
+- Hospitality
+- Arts & Culture
+- Architecture
+- Conservation
+
+## Equipment
+- Sawmill
+- Acclimation room
+
+## Company details
+- **Company Type:** Manufacturer
+- **Ownership:** Family-owned
+- **Headquarters:** Gill, Massachusetts
+
+<details><summary>Sources</summary>
+
+- Location and family farm: /
+- Owner Sam French and father Dick French: /
+- 10 years experience: /
+- Sawmill, tree farm, lumber inventory, multi-room shop: /
+- Mortise and tenon, butterfly inlays, live edge: /
+- Past clients list: /
+- Nationwide delivery: /
+- Sustainability and full-circle process: /about
+- Business hours and contact: /about
+</details>
+
+---
+
+# Gilman Electrical Supply
+
+**Old description:** Gilman Electrical Supply, a division of Consolidated Electrical Distributors, provides electrical supplies to electricians and contractors for residential, commercial, and industrial applications. We pride ourselves
+
+## About
+Gilman Electrical Supply operates from Augusta, Maine, as a division of Consolidated Electrical Distributors. The founding year and original founders are not disclosed in the available information; the business functions as part of the larger CED network.
+
+The company distributes electrical supplies sourced from manufacturers to electricians and contractors. Its service model includes a customer portal that supports quote requests, online ordering, and personalized catalog creation for account holders. Facility size, headcount, and inventory breadth are not specified.
+
+Primary customers are electrical contractors working across residential, commercial, and industrial projects. The supplier positions itself as a wholesale source for professionals in those three construction segments.
+
+The business emphasizes its extensive product line from recognized manufacturers and the long-term relationships it maintains with contractor accounts. The online portal is presented as a key convenience for repeat buyers.
+
+## Known for
+- Extensive product line from leading manufacturers
+- Long-term contractor relationships
+- Customer portal for quotes, online ordering, and personalized catalogs
+- Backed by Consolidated Electrical Distributors national network
+
+## Capabilities
+- Electrical supply distribution
+- Online ordering portal
+- Quote management
+- Personalized catalog creation
+
+## Industries
+- Residential construction
+- Commercial construction
+- Industrial construction
+- Electrical contracting
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Ownership:** Division of Consolidated Electrical Distributors
+- **Headquarters:** Augusta, Maine
+
+<details><summary>Sources</summary>
+
+- Division of Consolidated Electrical Distributors -> db
+- Headquartered in Augusta, Maine -> db
+- Provides electrical supplies to electricians and contractors -> /
+- Serves residential, commercial, and industrial applications -> /
+- Offers customer portal for quotes, online ordering, personalized catalogs -> /
+- Carries extensive line from leading manufacturers -> /
+</details>
+
+---
+
+# Global Bridge Pharmaceutical
+
+**Old description:** Global Bridge Pharmaceutical is a pharmacist-led pharmaceutical distribution and consulting company committed to improving access to safe, affordable, and high-quality medicines. Headquartered in Charlotte, North Carolina, our core operations focus on supporting healthcare providers, pharmacies, hospitals, specialty practices, and public health organizations across the United States through compliant sourcing, supply chain support, and strategic pharmaceutical services.
+
+## About
+Global Bridge Pharmaceutical is a pharmacist-led pharmaceutical distribution and consulting company headquartered in Charlotte, North Carolina. The company was founded by a team of professionals with a combined 55 years of experience in healthcare and drug regulation. It operates as a certified Minority Business Entity (MBE), holds HUBZone certification, and is registered in the System for Award Management (SAM).
+
+The firm provides a range of pharmaceutical supply chain services including prescription drug procurement, pharmacovigilance and drug safety support, managed access and patient support programs, global access and export solutions, strategic sourcing, hospital supply chain support, and emergency procurement for drug shortages. It also offers drug information consulting, after-sales training, and collaboration on humanitarian public health projects. Global Bridge maintains offices in Charlotte, North Carolina; Ferrara, Italy; and Douala, Cameroon.
+
+Its customer base spans hospitals and health systems, clinics and pharmacies, government agencies and non-governmental organizations, pharmaceutical manufacturers, and public health organizations. The company works with healthcare providers, specialty practices, and charitable programs to address medication shortages, sourcing challenges, and continuity-of-care needs both domestically and internationally.
+
+Global Bridge differentiates itself through its pharmacist-led leadership, an agile network of licensed suppliers, and a social impact initiative called RxSecondHome™ that redirects excess and short-dated medicines to underserved patients. The company emphasizes compliant sourcing under FDA and DSCSA regulations and aims to reduce pharmaceutical waste while expanding access to affordable therapies.
+
+## Known for
+- Pharmacist-led team with combined 55 years of healthcare and regulatory experience
+- FDA-registered and DSCSA-compliant operations
+- Agile network of licensed suppliers and industry partners
+- Social impact initiative RxSecondHome™ redistributes excess and short-dated medicines
+
+## Capabilities
+- Rx Procurement
+- Pharmacovigilance & Drug Safety Services
+- Managed Access & Patient Support Programs
+- Global Access & Export Solutions
+- Strategic Pharmaceutical Sourcing
+- Hospital Supply Chain Support
+- Drug Shortage & Emergency Procurement
+- Excess Pharmaceutical Repurposing
+- Drug Information & Consulting Services
+- After-Sales Training Programs
+- Humanitarian & Public Health Project Collaboration
+
+## Industries
+- Hospitals & Health Systems
+- Clinics & Pharmacies
+- Government Agencies
+- Non-Governmental Organizations
+- Pharmaceutical Manufacturers
+- Public Health Organizations
+- Specialty Practices
+- Healthcare Providers
+
+## Certifications
+- FDA registered
+- DSCSA compliant
+- MBE certified
+- SAM registered
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Ownership:** Minority-owned, HUBZone certified, SAM registered, FDA registered
+- **Headquarters:** Charlotte, North Carolina
+
+<details><summary>Sources</summary>
+
+- Headquartered in Charlotte, North Carolina -> /
+- Pharmacist-led pharmaceutical distribution and consulting company -> /
+- Founded by professionals with combined 55 years experience -> /about-us
+- Certified Minority Business Entity (MBE), HUB Certified, SAM registered -> /about-us
+- FDA registered and DSCSA compliant -> /about-us
+- CAGE code 8F8E7 -> /about-us
+- Services: Rx Procurement, Pharmacovigilance, Managed Access, Export & Donor Programs -> /services
+- Industries served: Hospitals & Health Systems, Clinics & Pharmacies, Governments & NGOs, Manufacturers -> /
+- Offices in Charlotte NC, Ferrara Italy, Douala Cameroon -> /
+- Social impact initiative RxSecondHome™ -> /about-us
+- Differentiators: combined experience, pharmaceutical care, strategic relationships, certifications -> /about-us
+</details>
+
+---
+
+# Global Electronics
+
+**Old description:** Global Electronics develops and supplies automotive emissions calibration and end of line testing products to Automotive OEM’s and suppliers. Some of the products are : Misfire Generator and Dual Channel O-2 Fault Simulator to validate conformance to emissions standards for fuel emissions. USD II Automatic Transmission Solenoid end of line test and development system, Radio Frequency Signal Tracking System ( RFID ) for manufacturing applications, Powertrain Simulator, and other advanced simulation and development applications. Company also provides manufacturing and engineering services on number of targeted applications such as : Supplier Project Tracking Applications to OEM’s.
+
+## About
+Global Electronics Ltd. operates from New Baltimore, Michigan, where it develops and supplies automotive emissions calibration and end-of-line testing equipment. The company, structured as a limited liability entity, serves automotive OEMs and tier suppliers with specialized electronic test hardware and engineering services. No founding year or ownership details are disclosed.
+
+The product line includes misfire generators, dual-channel O2 fault simulators, the USDII automatic transmission solenoid test system, RFID signal tracking systems, powertrain simulators, cam timing fault simulators (PCAM), analog signal modification devices (ASMD), wire harnesses, breakout boxes, and custom circuit boards. Beyond hardware, the firm provides full-service electronic design and development, prototyping, assembly, manufacturing, PLC re-engineering, and supplier project tracking applications for OEMs. Facility size, headcount, and annual volumes are not publicly specified.
+
+Primary customers are automotive original equipment manufacturers and their supply chains, along with broader transportation industry clients. The company also pursues government-to-civilian technology transfer, targeting situational awareness, artificial intelligence, geo-fencing, virtual reality, commercial vehicle powertrain electronics testing, and communications networking applications.
+
+Global Electronics emphasizes a strategy of leveraging product development efforts across multiple markets, creating generic products from contract-specific work to deliver more cost-effective solutions. This approach, combined with expertise in transitioning defense-related technologies to commercial use, forms the core of its stated differentiation.
+
+## Known for
+- Leverages product development across multiple markets for cost-effective solutions
+- Transitions government technology to civilian applications (AI, VR, geo-fencing, communications networking)
+- Provides full-service electronic design and development
+- Specializes in PLC re-engineering and migration
+- Offers supplier project tracking applications for OEMs
+
+## Capabilities
+- Electronic design and development
+- Prototyping, assembly, and manufacturing
+- PLC re-engineering
+- Support services (team configuration for design applications)
+- Supplier project tracking applications
+- Emissions calibration and end-of-line testing product development
+- RFID signal tracking system development
+- Powertrain simulation
+- Wire harness assembly
+- Circuit board manufacturing
+- Breakout box fabrication
+- Misfire generator production
+- O2 fault simulator production
+- Universal solenoid driver (USDII) production
+- Analog signal modification device (ASMD) production
+- Cam timing fault simulator (PCAM) production
+
+## Industries
+- Automotive OEMs
+- Automotive suppliers
+- Transportation industry
+- Government/defense
+- Commercial vehicle
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** New Baltimore, Michigan
+
+<details><summary>Sources</summary>
+
+- Location: New Baltimore, Michigan -> db
+- Products: misfire generators, dual-channel O2 fault simulators, USDII, RFID tracking, powertrain simulators, PCAM, ASMD, wire harnesses, breakout boxes, circuit boards -> /
+- Services: electronic design and development, prototyping, assembly, manufacturing, PLC re-engineering, support services, supplier project tracking -> /, /services
+- Industries: automotive OEMs, automotive suppliers, transportation, government/defense, commercial vehicle -> /
+- Strategy: leverage product development across markets for cost-effective solutions -> /
+- Government-to-civilian technology transition: situational awareness, AI, geo-fencing, VR, commercial vehicle powertrain electronics, communications networking -> /
+- Company name: Global Electronics Ltd. -> /
+- PO Box 1030, New Baltimore, MI 48047 -> /
+</details>
+
+---
+
+# Global Steering Systems
+
+**Old description:** Global Steering Systems is the world’s leading manufacturer of steering components for automotive giants like Ford Motor Company, Jeep, Lucid Motors, and General Motors, to name a few. With a decades-long track record of excellence and production capabilities in North America, Asia Pacific, and Europe, GSS designs and manufactures “must-have” products for ensuring driver safety and satisfaction the world over—now and in the years ahead.
+
+## About
+Global Steering Systems (GSS) is headquartered in Watertown, Connecticut, with additional manufacturing and engineering facilities in Michigan, Poland, China, and a sales office in Brazil. The company operates as an independent, privately held enterprise and has over 40 years of experience in the steering components market.
+
+GSS designs and manufactures a full range of steering components, including column shafts, U-joints, center-mounted support bearings, intermediate shafts for column-drive and rack-drive applications, and a proprietary high-performance spline slider. The company operates full-service engineering teams that handle design, analysis, risk assessment, prototyping, and validation testing, supported by a full-service test lab that inspects products at every manufacturing stage. Production spans facilities in the United States, Poland, and China.
+
+The company serves the automotive industry, supplying steering systems to major OEMs such as Ford Motor Company, Jeep, Lucid Motors, and General Motors for both light- and heavy-duty vehicle platforms.
+
+GSS emphasizes its independent ownership structure as a differentiator, allowing it to expedite delivery of services and solutions to global automotive markets. Its engineering-driven approach, rigorous testing protocols, and proprietary spline technology are cited as key factors in setting performance benchmarks for steering systems.
+
+## Known for
+- Full-service test lab with testing at every manufacturing step
+- Cross-functional engineering teams handling design, analysis, risk assessment, prototyping, and validation
+- Proprietary high-performance spline slider technology
+- Independent privately held structure enabling expedited global delivery
+- Global manufacturing footprint in the U.S., Poland, China, and Brazil
+
+## Capabilities
+- Full Service Test Lab
+- Full Service Engineering
+- Design and Analysis
+- Risk Assessment
+- Prototyping
+- Validation Testing
+- Steering Component Manufacturing
+- Proprietary Spline Slider Production
+
+## Industries
+- Automotive
+
+## Company details
+- **Company Type:** Manufacturer
+- **Ownership:** Privately held
+- **Headquarters:** Watertown, Connecticut
+
+<details><summary>Sources</summary>
+
+- Headquarters in Watertown, Connecticut -> db
+- Facilities in United States, China, Poland, Brazil -> /
+- Independent privately held company -> /
+- Over 40 years of experience -> /about
+- Manufactures steering components: column shafts, U-joints, center-mounted support bearings, intermediate shafts, proprietary spline slider -> /
+- Full Service Test Lab and Full Service Engineering capabilities -> db, /
+- Customers include Ford Motor Company, Jeep, Lucid Motors, General Motors -> /
+- Serves automotive industry for light and heavy-duty vehicle platforms -> /
+- Engineering services: design, analyze, risk assess, prototype, test -> /
+- Global reach with manufacturing in US, Poland, China -> /
+</details>
+
+---
+
+# Global Textile Alliance, Inc.
+
+**Old description:** is the one with the most textile experience within GTA USA. With fabric production and design knowledge since 1953, this originally Belgian weaving mill has expanded its know-how across the world to bring you upholstery and curtain fabrics that radiate craftsmanship.
+
+## About
+Global Textile Alliance, Inc. (GTA USA) is headquartered in Reidsville, North Carolina, in the heart of the state's textile region. The company was founded in 2001 by principals who each brought two decades of experience in the textile and bedding industries. Its roots trace back to a Belgian weaving mill with fabric production and design knowledge dating to 1953, and the operation expanded globally before establishing a vertical manufacturing facility in Reidsville.
+
+GTA USA operates a fully vertical plant that handles yarn extrusion, warping, weaving, circular knitting, and finishing. The facility produces mattress and upholstery fabrics, as well as curtain fabrics, for the bedding and furniture markets. Design, development, and sales functions are consolidated at the Reidsville location, where textile engineers and designers collaborate on constructions, patterns, and colorations.
+
+The company serves bedding and furniture manufacturers, supplying mattress fabrics, headboard and border fabrics, and upholstery and curtain fabrics for the broader home market. Its customer base includes large-scale producers, and the firm emphasizes global sourcing combined with domestic manufacturing capacity to meet changing requirements.
+
+GTA USA highlights its flexibility to respond to evolving customer needs, a domestic vertical operation that mirrors its European and Indian sister companies, and a commitment to local production on a global scale. The firm also stresses strict design and innovation follow-up, employing the newest techniques and trends to deliver comfort-focused fabrics.
+
+## Known for
+- Flexibility to respond to changing customer requirements
+- Domestic vertical operation (warping, weaving, circular knitting, finishing)
+- Local production on a global scale with sister companies in Europe and India
+- Strict design and innovation follow-up using newest techniques and trends
+
+## Capabilities
+- Yarn extrusion
+- Fabric production
+- Finishing
+- Warping
+- Weaving
+- Circular knitting
+- Design and development
+- Sales and global sourcing
+- Mattress fabric manufacturing
+- Upholstery fabric manufacturing
+- Curtain fabric manufacturing
+
+## Industries
+- Bedding
+- Furniture
+- Mattress manufacturing
+- Upholstery
+- Curtain fabrics
+- Home textiles
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 2001
+- **Headquarters:** Reidsville, North Carolina
+
+<details><summary>Sources</summary>
+
+- Founded in 2001 -> /about-us
+- Headquarters in Reidsville, North Carolina -> /about-us and /
+- Vertical operation: warping, weaving, circular knitting, finishing -> /about-us
+- Belgian weaving mill heritage since 1953 -> / (description)
+- Serves bedding and furniture industries -> /about-us
+- Produces mattress, upholstery, curtain fabrics -> / and /about-us
+- Design, development, sales at Reidsville -> /about-us
+- Sister companies Ter Molst and Symphony Mills -> /about-us
+- Flexibility and local production on global scale -> / and /about-us
+</details>
+
+---
+
+# GlobalFoundries
+
+**Old description:** GlobalFoundries operates the world's largest semiconductor fabrication plant in Malta, NY. Provides foundry manufacturing services for a variety of integrated circuits, serving customers in microelectronics, mobile, IoT and automotive markets.
+
+## About
+GlobalFoundries was founded in 2009 as a joint venture between Mubadala Investment Company and Advanced Micro Devices (AMD) to address growing global demand for advanced semiconductors. The company established its global headquarters and flagship fabrication facility in Malta, New York, marking the first advanced foundry built in the United States in decades.
+
+The company operates as a pure-play semiconductor foundry, offering a differentiated portfolio of process technologies including CMOS, FinFET, FDX™ FD-SOI, RF-SOI, SiGe, BCD, power GaN, and silicon photonics. Its manufacturing footprint spans five sites: Malta (NY), Burlington (VT), Dresden (Germany), Singapore, and Guangzhou (China). The Malta campus serves as a highly automated 300mm fab, while Burlington specializes in RF and GaN technologies. GlobalFoundries provides end-to-end services from wafer fabrication and bump (200mm/300mm) through advanced packaging (2.5D/3D, wafer-to-wafer, die-to-wafer), assembly, and test, supported by a vetted network of OSAT partners. Headcount ranges from 5,000 to 9,999 employees.
+
+GlobalFoundries serves fabless semiconductor companies, integrated device manufacturers, and system houses across aerospace & defense, automotive, data center & communications infrastructure, home & industrial IoT, and smart mobile devices. Notable collaborations include a multi-year agreement with Marvell for high-performance SiGe optical connectivity, a partnership with TSMC to establish a U.S.-based source of silicon interposers for CoWoS® advanced packaging, and the acquisition of MIPS to strengthen processor IP capabilities.
+
+The company positions itself as a differentiated technology partner that combines R&D, IP, design, custom silicon, and advanced manufacturing across a flexible global footprint. Its stated mission is to deliver "trusted, essential chips through deep customer co-innovation and partnerships," emphasizing supply chain resilience and manufacturing optionality for security-critical and high-growth markets.
+
+## Known for
+- Global manufacturing footprint across four continents with five fabrication sites
+- 25+ years of RF testing experience and over 600 developed test solutions
+- Full turnkey offering from wafer fabrication through advanced packaging, assembly, and test
+- Differentiated technology portfolio including FD-SOI, RF-SOI, SiGe, GaN, and silicon photonics
+- Advanced packaging capabilities (2.5D/3D, heterogeneous integration) in Malta and Singapore
+
+## Capabilities
+- CMOS fabrication
+- FinFET fabrication
+- FDX™ FD-SOI
+- RF-SOI
+- SiGe BiCMOS
+- BCD (Bipolar-CMOS-DMOS)
+- Power GaN
+- Silicon photonics
+- Quantum technology processing
+- Advanced packaging (2.5D/3D, wafer-to-wafer, die-to-wafer)
+- Wafer bumping (SnAg, copper pillar, WLCSP) for 200mm and 300mm
+- Wafer sort with Known Good Die methodology
+- Backside grind, dicing, marking, binning
+- Module assembly and packaging
+- RF testing (high/low temperature, analog/digital TxRx, mmWave)
+- Memory testing (eNVM)
+- High-speed interface test
+- High-voltage/high-current testing
+- ATE test program development
+- Package engineering (electrical, thermal, mechanical analysis)
+- Reliability stress services (JEDEC, Mil-std, AEC)
+- Engineering and debugging services
+- Design services for manufacturability
+- MIPS processor IP integration
+
+## Industries
+- Aerospace & defense
+- Automotive
+- Data center & communications infrastructure
+- Home & industrial IoT
+- Smart mobile devices
+- Microelectronics
+- Wireless
+- IoT
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 2009
+- **Employees:** 5000-9999
+- **Ownership:** Joint venture (Mubadala, AMD)
+- **Headquarters:** Malta, New York
+
+<details><summary>Sources</summary>
+
+- Founded 2009 as joint venture between Mubadala and AMD -> /about-us
+- Headquarters in Malta, New York -> db, /
+- Employee count 5000-9999 -> db
+- Operates fabs in Malta, Burlington, Dresden, Singapore, Guangzhou -> /
+- Offers CMOS, FinFET, FD-SOI, RF-SOI, SiGe, BCD, Power GaN, silicon photonics -> /
+- Provides wafer bumping, sort, advanced packaging, assembly, test -> /services
+- Serves aerospace & defense, automotive, data center, IoT, smart mobile -> /
+- Collaborations with Marvell, TSMC, MIPS acquisition -> /
+- 25+ years RF testing experience, 600+ test solutions -> /services
+- Mission: trusted essential chips through co-innovation -> /about-us
+</details>
+
+---
+
+# Gold Path Solar
+
+**Old description:** Gold Path Solar was founded after more than 20 years in the solar industry to give property owners a better way to go solar. Too many customers face confusing presentations, high-pressure sales tactics, disconnected contractors and poor communication. We built an employee-owned solar company around clear guidance, personalized system design and accountable service.
+
+## About
+Gold Path Solar is headquartered in Greenville, South Carolina, and serves property owners across Ohio, Kentucky, and South Carolina. The company was formed after its leadership team accumulated more than 20 years of experience in the solar industry, though a specific founding year is not disclosed. It is structured as an employee-owned business, a model the founders chose to align long-term customer outcomes with the financial interests of the people doing the work.
+
+The company designs and installs residential and commercial photovoltaic systems and integrates battery storage. Its in-house teams handle system engineering, permitting, utility interconnection, and physical installation, using Enphase microinverters for panel-level production. The average residential installation is completed in one day; larger or more complex projects may require additional time. No facility size, headcount, or annual volume figures are published.
+
+Gold Path Solar works with homeowners, businesses, farms, nonprofits, and commercial property owners. Each project begins with a no-obligation consultation and a dedicated Solar Advocate who remains the single point of contact through design, permitting, installation, and activation. The company cites its employee-owned structure and the dedicated-advocate model as direct responses to common industry complaints about high-pressure sales, poor communication, and subcontracted labor.
+
+## Known for
+- Employee-owned structure aligns installer incentives with customer outcomes
+- Dedicated Solar Advocate serves as single point of contact from consultation through activation
+- In-house installation teams; no third-party subcontractors
+- Average residential installation completed in one day
+- Full permitting and utility interconnection managed internally
+
+## Capabilities
+- Residential solar system design and installation
+- Commercial solar system design and installation
+- Battery storage system integration
+- Permitting and utility interconnection management
+- Site survey and engineering plan preparation
+- System monitoring setup and post-installation support
+
+## Industries
+- Residential
+- Commercial
+- Agricultural
+- Nonprofit
+- Commercial property
+
+## Equipment
+- Enphase microinverters
+
+## Company details
+- **Company Type:** Installer / service company
+- **Ownership:** Employee-owned
+- **Headquarters:** Greenville, South Carolina
+
+<details><summary>Sources</summary>
+
+- Headquarters in Greenville, SC -> db
+- Serves Ohio, Kentucky, South Carolina -> /
+- Employee-owned structure stated multiple times -> /, /about-us
+- Founded after 20+ years industry experience (no explicit year) -> /, /about-us
+- In-house installation teams, no third-party labor -> /, /about-us
+- Uses Enphase microinverters -> / (products list)
+- 5-step process: consultation, site survey, permits, installation, activation -> /, /about-us
+- Dedicated Solar Advocate single point of contact -> /, /about-us
+- Services: residential, commercial, battery storage, permitting -> /
+- Industries: homeowners, businesses, farms, nonprofits, commercial property owners -> /
+- Average installation one day -> /, /about-us
+- Company type: installer/service company (designs, permits, installs) -> /
+</details>
+
+---
+
+# Golden Barrel Products Honey Brook
+
+**Old description:** For over 40 years, Golden Barrel has provided quality baking products with families and businesses across the country. As a family-owned company based in Lancaster County, Pennsylvania, we are proud to provide flavorful ingredients through our network of distributors nationwide.
+
+## About
+Golden Barrel Products, based in Honey Brook, Pennsylvania, traces its roots to 1934 when M. Simon Zook founded the Zook Molasses Company to supply local farmers with feeding molasses. The family-owned, woman-owned business expanded in 1980 when Zook's daughter Sally and her husband Larry Martin launched the Golden Barrel brand, moving into cooking and baking supplies. Today the company operates two family-run facilities in Honey Brook and Leola, Pennsylvania.
+
+The company produces a full line of baking ingredients and sweeteners — including molasses, syrups, sugars, cooking oils, baking mixes, and fondants — with capabilities in liquid and dry blending, warehousing, private labeling, and transportation. Its two rail-served plants give it the scale to be one of the Northeast's largest processors of bulk sweeteners such as corn syrups, invert sugars, and dextrose, while still packing retail-size products. The portfolio encompasses more than 200 custom liquid blends and over 45 stock items.
+
+Golden Barrel serves baking, confection, snack, beverage, and food-service customers of every size, from local bakeries to national distributors. Its products reach kitchens and food businesses across the country through a network of distributors and online channels.
+
+The business was built on a commitment to quality that began with feeding molasses and carried into the kitchen, emphasizing pure, natural ingredients and nearly a century of craft. The company highlights its rail-served capacity, custom blending flexibility, and end-to-end services from blending to delivery as key differentiators.
+
+## Known for
+- Family-owned and woman-owned since 1934
+- Two rail-served Pennsylvania facilities
+- Over 200 custom liquid blends
+- Private labeling and transportation services
+- Serves baking, confection, snack, beverage, and food-service markets
+
+## Capabilities
+- Food Service Manufacturing
+- Liquid Blending
+- Dry Blending
+- Warehousing
+- Private Labeling
+- Transportation
+- Bulk Sweetener Processing
+- Custom Blending
+- Retail Packing
+
+## Industries
+- Baking
+- Confection
+- Snack
+- Beverage
+- Food Service
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1934
+- **Ownership:** Family-owned, Woman-owned
+- **Headquarters:** Honey Brook, Pennsylvania
+
+<details><summary>Sources</summary>
+
+- Founded 1934 by M. Simon Zook -> /about-us
+- Family-owned and woman-owned -> /, /about-us
+- Two facilities in Honey Brook and Leola, PA -> /about-us
+- 200+ custom liquid blends -> /, /about-us
+- 45+ quality products -> /
+- Processes: liquid/dry blending, warehousing, private labeling, transportation -> /about-us
+- Industries: baking, confection, snack, beverage, food-service -> /about-us
+- Rail-served capacity, one of Northeast's largest bulk sweetener processors -> /about-us
+- Products: molasses, syrups, sugars, cooking oils, baking mixes, fondants, corn syrups, invert sugars, dextrose -> /about-us
+- Headquarters Honey Brook, Pennsylvania -> db, /about-us
+</details>
+
+---
+
+# Good Cable
+
+**Old description:** GoodCable Inc. is the oldest continuous cable assembly operation serving the greater Colorado Springs area since 1991.
+
+## About
+Founded in 1991 in Colorado Springs, Colorado, Good Cable (GoodCable Inc.) has operated continuously as a cable assembly shop serving the greater Colorado Springs area. The company began as a local operation focused on custom wire harness and cable assembly manufacturing.
+
+The company produces custom wire harnesses, cable assemblies, and electro-mechanical box builds, offering prototyping with engineering support and low-to-mid-volume production runs tracked by individual work orders. Capabilities include turnkey or consignment assembly, electrical and hipot testing with documented results, and relationships for printed circuit board fabrication. Work spans simple jumpers to complex harnesses using materials from PVC to Teflon.
+
+Customers operate in medical devices, gas-station and interstate signage, transformers, motorcycle accessories, theatrical lighting, cellular test equipment, ignition systems, disk drives, networking, audio-video, and aerospace (including F-14 bomb release harnesses). Named accounts have included Hewlett Packard, Helix Technologies, Wybron, Dunlavy Audio Labs, Rockwell, Ericsson, Castle Motorcycles, Exabyte, Ethicon Endo-Surgery, and Skyline Electric Signs.
+
+Good Cable differentiates itself with a guarantee that unsatisfied customers receive free labor and repair, a quality manual aligned with IPC, ANSI, UE, and CSA specifications, and a broad capability set that lets it accept nearly any copper-based assembly. The firm emphasizes quick turnaround and decades of staff experience.
+
+## Known for
+- Free labor and repair if assembly quality is unsatisfactory
+- Quality manual based on IPC, ANSI, UE, and CSA standards
+- Low-to-mid-volume runs tracked with individual work orders
+- Prototyping with engineering support and turnkey or consignment options
+- Electrical/hipot testing with reported results for every assembly
+
+## Capabilities
+- Custom wire harness manufacturing
+- Custom cable assembly manufacturing
+- Prototyping with engineering support
+- Low to mid volume production runs
+- Individual work order tracking
+- Turnkey assembly
+- Consignment assembly
+- Electrical/hipot testing (opens/shorts)
+- Electro-mechanical box build assembly
+- Printed circuit board assembly (via partners)
+
+## Industries
+- Medical devices
+- Gas station signage
+- Interstate signage
+- Transformers
+- Motorcycle accessories
+- Theatrical lighting
+- Cellular telephone test equipment
+- Ignition/electrical systems
+- Disk drive assemblies
+- Networking (RJ45, SCSI)
+- Audio/video interconnects
+- Computer peripherals
+- Surgical equipment
+- Gasoline signage
+- Aerospace (military harnesses)
+
+## Certifications
+- ANSI
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1991
+- **Headquarters:** Colorado Springs, Colorado
+
+<details><summary>Sources</summary>
+
+- Founded in 1991 -> db, page
+- Headquarters: Colorado Springs, Colorado -> db, page
+- Oldest continuous cable assembly operation in greater Colorado Springs area since 1991 -> page
+- Custom wire harness and cable assembly manufacturing, prototyping, electro-mechanical assembly -> page
+- Low to mid volume production runs, individual work orders -> page
+- Turnkey or part consignment -> page
+- Electrical/hipot testing with results -> page
+- Electro-mechanical assembly for enclosed box builds, relationships for PCB builds -> page
+- Materials: PVC to Teflon, copper -> page
+- Industries: medical, gas station signage, interstate signage, transformers, motorcycle accessories, theatrical lighting, cellular telephone, ignition/electrical, disk drive, networking, audio/video, computer, surgery, gasoline sign -> page
+- Customers: Hewlett Packard, Helix Technologies, Wybron, Dunlavy Audio Labs, Rockwell, Ericsson, Castle Motorcycles, Exabyte, Ethicon Endo-Surgery, Skyline Electric Signs, etc. -> page
+- Guarantee: free labor and repair if unsatisfied -> page
+- Quality manual uses IPC, ANSI, UE, CSA, customer specifications -> page
+- Certification: ANSI -> db
+- Hours: Monday-Friday 7AM-3PM -> page
+</details>
+
+---

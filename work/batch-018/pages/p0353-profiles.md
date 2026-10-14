@@ -1,0 +1,628 @@
+# Holm Made Toffee Co. Commercial Kitchen
+
+**Old description:** SUMMER SHIPPING INFO: Currently shipping Mon - Wed due to heat. 🌞 USE DISCOUNT CODE SUMMER10 AT CHECKOUT 🌞
+
+## About
+Holm Made Toffee Co. operates from a production kitchen in Bend, Oregon. The business is family- and women-owned, positioning itself as an artisan confectioner rooted in the Pacific Northwest.
+
+The company produces hazelnut toffee and seasonal confections in traditional handmade batches. Its kitchen uses Oregon-grown hazelnuts and ingredients sourced from around the Pacific Northwest, with formulations that exclude gluten, soy, corn syrup, and preservatives. The facility at 1234 NE 1st Street doubles as a retail space open Tuesday through Thursday for in-person shopping.
+
+Holm Made Toffee sells directly to consumers through its website and shop, and lists a wholesale channel for trade buyers. Its product line includes assorted-flavor toffee packs, gift tins, seasonal varieties such as candy-cane and gingerbread, and branded merchandise. Customers range from local shoppers to gift senders nationwide.
+
+The founders frame the business around a simple promise: "a little bit of happiness in every box." That pledge ties to the clean-label approach and the use of regional ingredients, distinguishing the brand in a crowded specialty-food market.
+
+## Known for
+- Traditional handmade batch production
+- Oregon-grown hazelnuts and Pacific Northwest ingredients
+- Gluten-free, soy-free, corn-syrup-free, preservative-free formulations
+- Women-owned and family-owned operation
+- On-site retail hours at the production kitchen
+
+## Capabilities
+- Handmade batch confectionery
+- Toffee production
+- Artisan candy making
+- Gift packaging and assortment
+- Retail storefront operation
+- Wholesale distribution
+- Seasonal product development
+
+## Industries
+- Confectionery manufacturing
+- Specialty food manufacturing
+- Gift and specialty retail
+- Wholesale food distribution
+
+## Certifications
+- Women-owned
+
+## Company details
+- **Company Type:** Manufacturer
+- **Ownership:** Family-owned, Women-owned
+- **Headquarters:** Bend, Oregon
+
+<details><summary>Sources</summary>
+
+- Location: Bend, Oregon -> db (hq_city, hq_state_label) and page '/'
+- Ownership: family- and women-owned -> page '/' and db certifications
+- Process: traditional handmade batches -> page '/'
+- Ingredients: Oregon-grown hazelnuts, Pacific Northwest ingredients -> page '/'
+- Dietary: no gluten, soy, corn syrup, preservatives -> page '/'
+- Facility: production kitchen at 1234 NE 1st St, Bend, OR 97701 -> page '/'
+- Retail hours: Tue-Thu 10am-4pm -> page '/'
+- Products: hazelnut toffee, seasonal flavors, gift tins, merchandise -> page '/'
+- Sales channels: direct-to-consumer, wholesale -> page '/'
+- Shipping: Mon-Wed in summer -> page '/'
+- Social platforms: Instagram, Facebook, TikTok -> page '/'
+- Website: http://www.holmmadetoffee.com/ -> db
+</details>
+
+---
+
+# HomeComing Woodworks
+
+**Old description:** My builder uses Houzz Pro to plan the timeline and give detailed estimates and daily updates with photos of progress, and provide invoices at pre-agreed key points in the build. This made the whole experience much more efficient and stress-free.
+
+## About
+HomeComing Woodworks operates a woodworking shop in Shelburne, Vermont, serving the greater Burlington region. The company's founding year and ownership structure are not publicly disclosed.
+
+The shop specializes in custom furniture design and fabrication, with a noted emphasis on Craftsman-style pieces, alongside expert antique restoration and refinishing. Its service roster includes custom tables, Murphy beds, bathroom vanities, bookcases, cabinet doors, kitchen cabinets, pantries, shelving, and cabinet refinishing and repair. The firm also offers 3D rendering to visualize projects. Houzz lists 68 completed projects spanning furniture restoration, tables, beds, sideboards, and chairs.
+
+HomeComing Woodworks serves residential clients across northwestern Vermont, including Burlington, South Burlington, Essex, Colchester, Williston, Winooski, Charlotte, Hinesburg, and surrounding communities. Its work touches homeowners undertaking remodels, new construction, and interior design projects, delivering everything from single heirloom restorations to full kitchen cabinetry suites.
+
+The company describes its approach as "exceptional design and a devotion to craftsmanship," rooted in a particular passion for the Craftsman aesthetic. That focus on traditional joinery and detail distinguishes its output in a market often driven by speed over longevity.
+
+## Known for
+- Custom design and fabrication of furniture
+- Expert antique repair, restoration, and refinishing
+- Specialty in Craftsman-style furniture
+- 3D rendering for project visualization
+
+## Capabilities
+- Custom Furniture
+- Custom Table
+- Antique Restoration
+- Custom Murphy Beds
+- 3D Rendering
+- Cabinet Refinishing
+- Cabinet Repair
+- Custom Bathroom Vanities
+- Custom Bookcases
+- Custom Cabinet Doors
+- Custom Cabinets
+- Custom Kitchen Cabinets
+- Custom Pantries
+- Custom Shelving
+- Furniture Restoration and Refinishing
+
+## Industries
+- Residential furniture
+- Cabinetry
+- Antique restoration
+- Home remodeling
+- Interior design
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Shelburne, VT
+
+<details><summary>Sources</summary>
+
+- Location: Shelburne, VT -> db
+- Address: 529 Martindale Road, Shelburne, VT 05482 -> page "/"
+- Phone: (802) 734-8125 -> page "/"
+- Website: homecomingwoodworks.com -> page "/"
+- Services: Custom Furniture, Custom Table, Antique Restoration, Custom Murphy Beds, 3D Rendering, Cabinet Refinishing, Cabinet Repair, Custom Bathroom Vanities, Custom Bookcases, Custom Cabinet Doors, Custom Cabinets, Custom Kitchen Cabinets, Custom Pantries, Custom Shelving -> page "/"
+- Specialty: Craftsman-style furniture -> page "/"
+- Description: Expert repair, restoration and refinishing of antiques; custom design and fabrication of furniture -> page "/"
+- Projects: 68 projects on Houzz, including furniture restoration, tables, beds, sideboards, chairs -> page "/"
+- Service areas: Burlington, Essex, South Burlington, Colchester, Essex Junction, Williston, Winooski, Shelburne, Hinesburg, Charlotte, Jonesville, North Ferrisburg, Richmon, and more -> page "/"
+- Rating: 4.8/5 on Houzz -> page "/"
+- Awards: 1 Houzz Award, 2 Houzz Badges -> page "/"
+- Category: Home Improvement Professionals, Furniture & Accessories -> page "/"
+</details>
+
+---
+
+# HomePlex Furniture | Custom Luxury Furniture
+
+**Old description:** Choose your: Size, Arm, Leg, Cushion Configuration, and Fabric
+
+## About
+HomePlex Furniture operates from Indianapolis, Indiana, where it has been designing and selling custom luxury furniture since 2010. The company focuses on pieces made in the USA, including a line of Amish-crafted furniture, and runs a showroom in Central Indiana.
+
+The product range spans living room, dining room, bedroom, and office furniture. A signature offering is 8-way hand-tied upholstery, a traditional construction method for durability and comfort. Customers can customize each piece by selecting size, arm style, leg style, cushion configuration, and fabric. The company lists an Apartment Sofa/Foundation at $3,909 as an example of its made-to-order pricing.
+
+HomePlex sells directly to consumers through its showroom and website, offering free delivery on most orders. While the primary customer base appears to be residential buyers, the customizable nature of the line also suits interior designers and specifiers seeking tailored upholstery and case goods.
+
+The company emphasizes honest design and domestic manufacturing, positioning its Amish-made and USA-made furniture as a differentiator in a market often dominated by imports. The 8-way hand-tied technique and extensive fabric selection underscore a focus on long-lasting comfort and craftsmanship.
+
+## Known for
+- USA-made and Amish-crafted furniture
+- 8-way hand-tied upholstery construction
+- Full customization of size, arm, leg, cushion, and fabric
+- Free delivery on most orders
+- Showroom in Central Indiana since 2010
+
+## Capabilities
+- Custom furniture manufacturing
+- 8-way hand-tied upholstery
+- Amish woodworking
+- Custom upholstery fabrication
+- Made-to-order case goods
+- Showroom sales
+- Delivery service
+
+## Industries
+- Residential furniture
+- Office furniture
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 2010
+- **Headquarters:** Indianapolis, Indiana
+
+<details><summary>Sources</summary>
+
+- Founded 2010 -> db
+- Headquarters Indianapolis, Indiana -> db
+- Designing furniture in Central Indiana since 2010 -> homepage
+- Offers USA & Amish furniture -> homepage
+- 8 Way Hand Tied Upholstery -> homepage
+- Customizable: Size, Arm, Leg, Cushion Configuration, Fabric -> homepage
+- Free delivery on most orders -> homepage
+- Product example: Apartment Sofa/Foundation $3,909 -> db
+- Categories: Living Room, Dining Room, Bedroom, Office Furniture -> homepage
+</details>
+
+---
+
+# Homewood Metalworks
+
+**Old description:** We’re open to the public! Homeowners, Contractors – EVERYONE!
+
+## About
+Homewood Metalworks was founded in 1991 in Conway, South Carolina. The company operates as an unlimited licensed general contractor, offering turnkey construction solutions alongside its manufacturing operations.
+
+The firm manufactures custom metal and steel roof and wall panels, structural buildings, and accessories at its 68,000-square-foot Conway facility. It maintains sales offices in Conway, Florence, and Moncks Corner, South Carolina, and in Laurinburg, North Carolina. An experienced crew and a company-owned fleet of construction vehicles and heavy equipment support utility installation and building projects.
+
+Homewood Metalworks serves homeowners, contractors, and the general public across Horry, Florence, Georgetown, Brunswick, Scotland, Robeson, Berkeley, Dorchester, and Charleston counties. Its customer base spans residential and commercial construction, roofing, and metal building projects.
+
+The company emphasizes its turnkey approach, designing metal buildings to match client floor plans and providing direct access to manufacturing and construction services without intermediaries.
+
+## Known for
+- Unlimited Licensed General Contractor
+- 68,000 sq ft manufacturing facility
+- Own fleet of construction vehicles and heavy equipment
+- Turnkey design and construction services
+- Direct sales to homeowners and contractors
+
+## Capabilities
+- Custom metal roofing panel manufacturing
+- Custom steel wall panel manufacturing
+- Metal building fabrication
+- Turnkey construction services
+- Building design to floor plans
+- Utility installation
+- Heavy equipment operation
+- Sales consulting
+- Free quoting
+
+## Industries
+- Construction
+- Roofing
+- Metal Building Construction
+- Utility Installation
+- General Contracting
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1991
+- **Headquarters:** Conway, South Carolina
+
+<details><summary>Sources</summary>
+
+- Founded 1991 -> db
+- Headquarters Conway, SC -> db
+- Manufactures custom metal and steel roof & wall panels, buildings and accessories -> /
+- Operates 68,000 sq ft warehouse -> /
+- Unlimited Licensed General Contractor -> /
+- Own fleet of construction vehicles and heavy equipment -> /
+- Services Horry, Florence, Georgetown, Brunswick, Scotland, Robeson, Berkeley, Dorchester, Charleston counties -> /
+- Sales offices in Conway SC, Florence SC, Moncks Corner SC, Laurinburg NC -> /
+- Over 35 years experience in construction business -> /
+</details>
+
+---
+
+# Horizon Nut Company
+
+**Old description:** 100% grower owned. Pistachios processed the way farmers intended them to be.
+
+## About
+Horizon Nut Company, founded in 2007 in Lost Hills, California, operates as a grower-owned pistachio processing facility. The business is owned by 45 family-farmer members who supply the crop, and it is led by a group of industry pioneers with decades of experience in California pistachio production.
+
+The company provides hulling, drying, and full pistachio processing services for its member growers. It is currently expanding its operations to meet rapidly growing demand, with a stated goal of reaching 100 million pounds of annual processing capacity. The facility handles the entire post-harvest process from farm to table.
+
+Horizon Nut serves pistachio growers throughout California’s Central Valley, which produces 99 percent of the U.S. pistachio crop. Its customer base consists of the 45 grower-owners, who are hands-on farming operations, and the company positions itself as a dedicated partner for moving their crop from harvest to market.
+
+The cooperative model is central to Horizon Nut’s identity: because the growers own the processor, the company says it never compromises on quality and processes pistachios “the way farmers intended them to be.” The structure aligns processing decisions directly with the interests of the farming families who supply the raw product.
+
+## Known for
+- 100% grower-owned cooperative structure
+- Target processing capacity of 100 million pounds annually
+- Hulling and drying services for member growers
+- Grower group of 45 family-farmer owners
+- Processing decisions aligned with farmer interests
+
+## Capabilities
+- Pistachio Processing
+- Hulling
+- Drying
+
+## Industries
+- Agriculture
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 2007
+- **Ownership:** Grower-owned (45 family-farmer members)
+- **Headquarters:** Lost Hills, California
+
+<details><summary>Sources</summary>
+
+- Founded in 2007 -> db
+- Headquarters in Lost Hills, California -> db
+- Grower-owned with 45 grower-members -> page '/'
+- Pistachio processing, hulling, and drying capabilities -> db and page '/'
+- Target processing capacity of 100 million pounds annually -> page '/'
+- Serves pistachio growers across California's Central Valley -> page '/'
+- California produces 99% of U.S. pistachio yield -> page '/'
+- Company led by diverse group of industry pioneers -> page '/'
+- Never compromise quality pledge -> page '/'
+- Processing pistachios the way farmers intended -> page '/'
+</details>
+
+---
+
+# House of Ari Jogiel
+
+**Old description:** We are the fastest-growing full-package company in Los Angeles, offering four verticals: strategy, design, development, and manufacturing. We specialize in
+
+## About
+House of Ari Jogiel was founded in 2017 in Los Angeles, California, by Ari Jogiel. The company began as a full-package operation offering strategy, design, development, and manufacturing services for fashion brands.
+
+The firm operates four verticals: strategy, design, development, and manufacturing. Its vertically integrated structure takes concepts through creative ideation, technical design, pattern making, sourcing, sampling, and prototype development to finished garments and accessories. Production runs range from 150 to 2,000 units, with most garments produced in Los Angeles while leveraging a global partner network. The company works with over 400 domestic and international brands.
+
+Clients span activewear, athleisure, contemporary, swimwear, sportswear, and streetwear categories. The company serves independent designers, in-house creative teams, and established brands seeking end-to-end production support, from brand identity and collection design through to final manufacturing.
+
+The company emphasizes a vertically integrated model that streamlines every stage, sustainable practices across sourcing, dyeing, and packaging, and a focus on craftsmanship over quantity. It positions itself on low minimum orders, quick turnaround times, and transparent pricing to help emerging brands avoid the pitfalls of overseas production.
+
+## Known for
+- Vertically integrated design, development, and manufacturing in Los Angeles
+- Production runs from 150 units with global partner network
+- Sustainable practices across sourcing, dyeing, packaging
+- Transparent pricing and quick turnaround for emerging brands
+- Craftsmanship and quality over fast-fashion volume
+
+## Capabilities
+- Strategy and market research
+- Brand identity and collection design
+- Technical design
+- Pattern making
+- Sourcing
+- Sampling
+- Prototype development
+- Garment manufacturing
+- Accessory manufacturing
+- Creative ideation
+- Blueprint Program (market research, strategic planning, brand identity, collection design)
+
+## Industries
+- Activewear
+- Athleisure
+- Contemporary
+- Swimwear
+- Sportswear
+- Streetwear
+- Fashion brands
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 2017
+- **Headquarters:** Los Angeles, California
+
+<details><summary>Sources</summary>
+
+- Founded 2017 -> db
+- Headquarters Los Angeles, California -> db and page
+- Founder Ari leads design team -> page
+- Four verticals: strategy, design, development, manufacturing -> page
+- Vertically integrated structure -> page
+- Production runs 150-2000 units -> page
+- Works with over 400 domestic and global brands -> page
+- Industries: activewear, athleisure, contemporary, swimwear, sportswear, streetwear -> page
+- Services: brand identity, collection design, market research, strategic planning, technical design, pattern making, sourcing, sampling, prototype development -> page
+- Sustainable practices across sourcing, dyeing, packaging -> page
+- Craftsmanship over quantity -> page
+- Low minimum orders, quick turnaround, transparent pricing -> page and testimonials
+- Made in Los Angeles -> page
+- Global partner network -> page
+</details>
+
+---
+
+# Houston Transformer Company
+
+**Old description:** Custom transformer, inductor, and magnetic-device manufacturer headquartered and manufacturing in Houston, Texas.
+
+## About
+Houston Transformer Company, LTD., founded in 1969, operates from a 33,000-square-foot climate-controlled facility in Houston, Texas. The company was established as a manufacturer of custom transformers, inductors, chokes, and related magnetic devices.
+
+The company designs and builds magnetic components ranging from sub-miniature surface-mount devices to three-phase distribution transformers weighing over 1,500 pounds. Its in-house capabilities include custom core configurations (toroidal, bobbin, layer-wound, water-cooled, transposed windings), winding with copper and aluminum conductors, and a full machine shop and sheet-metal department that produce bobbins, cases, NEMA enclosures, and sensor housings. An inventory of approximately 25,000 pounds of high-grade silicon steel supports short cycle times. The engineering staff brings over 75 years of combined design experience, and the workforce of 51–200 employees handles prototype through production volumes.
+
+Houston Transformer serves energy exploration and drilling operations, medical and biomedical equipment, military and aerospace programs, audio and lighting/LED manufacturers, data-processing and industrial-process-control systems, and communications OEMs. Products are sold in single-piece quantities as well as to original equipment manufacturers.
+
+The company emphasizes a “can-do” philosophy and unwavering customer focus, citing continuous improvement, cycle-time reduction, and adoption of cutting-edge technology as ongoing goals. Its reputation for dependability in extreme environments—up to 450 °F (250 °C) and 10 kV—stems from rigorous testing, traceability, and compliance with UL and other industry standards.
+
+## Known for
+- In-house steel cutting equipment for custom core configurations
+- Inventory of ~25,000 lbs high-grade silicon steel to reduce cycle time
+- On-site machine shop and sheet metal department for custom bobbins, cases, and NEMA enclosures
+- Engineering team with 75+ years combined design experience
+- Capability from sub-miniature SMD to 1,500 lb three-phase transformers
+
+## Capabilities
+- Custom magnetic design
+- Fast prototyping
+- Testing and traceability
+- UL and industry standards compliance
+- Custom core configurations (toroidal, bobbin, layer wound, water-cooled, transposed windings)
+- Copper and aluminum winding
+- CNC machining
+- Sheet metal fabrication (NEMA boxes, cases, cabinets)
+- Encapsulation, molding, epoxy coating, canning
+- Value-added assemblies
+- High-voltage insulation (up to 10 kV)
+- High-temperature operation (up to 450 °F)
+- Large-scale transformer manufacturing (up to 250 KVA, 1500 A)
+- Surface-mount magnetic assembly
+- Toroidal winding (up to 25 KVA)
+- Laminated and tape-wound cut-core construction
+- Ferrite core devices
+- Scott-T and Zig-Zag transformers
+- Reactors, chokes, inductors, coils
+- Precision inductors and chokes
+- Switch-mode inductors
+- DC-DC transformers
+- Converter and inverter transformers
+
+## Industries
+- Energy exploration
+- Drilling operations
+- Medical/biomedical
+- Military
+- Aerospace
+- Audio
+- Lighting/LEDs
+- Data processing
+- Industrial process control
+- Communications
+
+## Certifications
+- UL
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1969
+- **Employees:** 51-200
+- **Headquarters:** Houston, Texas
+
+<details><summary>Sources</summary>
+
+- Founded 1969 -> db, /about-us
+- Headquarters Houston, Texas -> db, /about-us
+- Facility 33,000 sq ft climate-controlled -> /about-us
+- Employee count 51-200 -> db
+- Industries served -> db, /about-us
+- Capabilities (custom design, prototyping, testing, traceability, UL compliance) -> /capabilities, /services
+- Products (transformers, inductors, chokes, coils, etc.) -> /capabilities, /products
+- Silicon steel inventory ~25,000 lbs -> /capabilities
+- Machine shop and sheet metal on-site -> /about-us, /services
+- Engineering staff 75+ years combined experience -> /about-us
+- High temperature up to 450°F (250°C) -> /capabilities
+- High voltage up to 10kV -> /capabilities
+- Single piece to OEM volumes -> /
+- LinkedIn URL -> db
+</details>
+
+---
+
+# Howard Industries
+
+**Old description:** Manufactures distribution and power transformers for electric utilities.
+
+## About
+Howard Industries is a private investment firm based in Ellisville, Mississippi, founded in 1969 by Peter Howard. Howard, who holds an economics degree from Principia College and an MBA from Columbia University, previously worked in strategic consulting at Arthur Young & Company and as a principal at another private investment firm. He established Howard Industries to provide patient capital and long-term support to management teams building market-businesses in manufacturing and specialized services.
+
+The firm deploys its own capital across a portfolio of small and medium-sized manufacturers and business service companies, with investments ranging from $100,000 to $100 million. Since inception, Howard Industries has completed 16 investments totaling approximately $400 million, targeting companies with earnings between $1 million and $6 million or, in turnaround situations, sales exceeding $15 million. The firm operates across the U.S., Mexico, and China but prefers to partner with businesses based in the United States or the United Kingdom.
+
+Portfolio companies span diverse sectors including motor and gear manufacturing (Jakel, Inc), specialty plastics (Continental Structural Plastics), data center infrastructure services (Critical Facilities Solutions, EDP Europe), powder coating (CPCS), fans and blowers (Comair Rotron), digital asset tracking (EnaSys), textile products (Rug Barn), bar code and RF labels (Colorflex/TTG), hinges and hardware (Lawrence Manufacturing), and consoles and racks (e-Systems Group). Howard Industries seeks niche manufacturers and service providers with defensible market positions and compelling customer value propositions.
+
+The firm differentiates itself through its use of proprietary capital, which eliminates external fund pressures and ensures a high certainty of close. Its approach emphasizes candid communication, incremental operational improvement, and alignment with management on long-term strategy rather than short-term exits. Howard Industries remains an active director in all its investments, providing strategic guidance and operational support.
+
+## Known for
+- Uses own capital for high certainty to close
+- No pressure to sell dictated by outside partners
+- Candid communication builds trust with partners
+- Long-term development focus rather than quick returns
+- Active board participation and operational support
+
+## Capabilities
+- Private equity investment
+- Long-term capital provision
+- Strategic consulting
+- Board governance
+- Operational improvement support
+
+## Industries
+- Steel processing
+- Textiles
+- Tubing
+- Electrical components
+- Motors and gears
+- Specialty plastics
+- Data center infrastructure
+- Powder coating
+- Fans and blowers
+- Digital asset tracking
+- Jacquard woven textiles
+- Bar code and RF labels
+- Hinges and hardware
+- Consoles and racks
+- Distribution services
+
+## Company details
+- **Company Type:** Other
+- **Founded:** 1969
+- **Ownership:** Private investment firm (principal: Peter Howard)
+- **Headquarters:** Ellisville, Mississippi
+
+<details><summary>Sources</summary>
+
+- Founded in 1969 -> db
+- Headquartered in Ellisville, Mississippi -> db
+- Principal Peter Howard founded the firm -> /
+- Peter Howard education: Principia College (economics), Columbia University (MBA) -> /
+- Peter Howard experience: Arthur Young & Company, private investment firm -> /
+- Firm provides patient capital for long-term development -> /
+- Uses own capital, $400M invested across 16 investments -> /
+- Investment criteria: earnings $1-6M, sales >$15M for turnarounds -> /
+- Geographic preference: US or UK based companies -> /
+- Portfolio companies across multiple industries -> /
+- Differentiators: own capital, no external pressure, candid communication, long-term focus -> /
+- Address: 1850 Lefthand Circle, Longmont, CO 80501 -> /
+- Contact: phoward@howardind.com -> /
+</details>
+
+---
+
+# Hubco Inc
+
+**Old description:** "Hubco, Inc. has remained a supplier for us since 2002. Quality product and responsive customer service have remained a constant throughout."
+
+## About
+Hubco Inc. traces its roots to 1919 in Hutchinson, Kansas, when Emerson Carey and James Dick founded the Hutchinson Bag Company to produce bags for the salt industry. The business has operated continuously in Hutchinson for over a century.
+
+Today the company functions as a textile bag manufacturer and supplier, producing custom cotton, burlap, and other fabric bags along with envelopes, cartons, and custom-printed fabrics. Its product lines include geological sample bags for mining and oil exploration, agricultural bags, cathodic protection/anode bags, retail and specialty packaging, tea towels, and food packaging. The shop offers letterpress printing on cloth bags and an online bag builder for custom orders.
+
+Hubco serves customers in mining, oil and gas, agriculture, food packaging, retail, and specialty packaging, as well as niche markets such as leather goods (Whiskey Leatherworks), utensil makers (Origin Utensils), university soil labs (Oklahoma State University), and farms (Garber Farms). Orders range from small custom runs to larger production volumes.
+
+The company emphasizes American-made production, quick service times, responsive customer service, and a willingness to accept small orders as key differentiators in a market where many competitors have shifted to imported goods.
+
+## Known for
+- American-made textile bags
+- Letterpress printing on cloth bags
+- Online custom bag builder
+- Small order acceptance
+- Responsive customer service
+
+## Capabilities
+- Textile bag manufacturing
+- Custom printing
+- Letter press printing
+- Geological sample bag production
+- Agricultural bag production
+- Cathodic protection/anode bag production
+- Retail packaging
+- Specialty packaging
+- Food packaging manufacturing
+- Tea towel and fabric production
+- Envelope and carton manufacturing
+- Fabric customization
+
+## Industries
+- Mining
+- Oil and gas exploration
+- Agriculture
+- Food packaging
+- Retail packaging
+- Specialty packaging
+- Leather goods
+- Soil testing
+- Farming
+- Utensils
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1919
+- **Headquarters:** Hutchinson, Kansas
+
+<details><summary>Sources</summary>
+
+- Founded 1919 by Emerson Carey and James Dick as Hutchinson Bag Company -> /
+- Headquarters in Hutchinson, Kansas -> db
+- Manufactures textile bags (cotton, burlap, custom fabrics) -> /
+- Produces geological sample bags for mining and oil industry -> /
+- Offers letterpress printing and online bag builder -> /
+- Serves mining, oil, agriculture, food packaging, retail, specialty packaging -> /
+- Customer examples: Whiskey Leatherworks, Origin Utensils, Oklahoma State University Soil Lab, Garber Farms -> /
+- Differentiators: American-made, small orders, customer service, service time -> /
+- LinkedIn URL -> db
+</details>
+
+---
+
+# Huerta Furniture
+
+**Old description:** Huerta Furniture is a family-run custom furniture making business serving all of Southern California since 1996. We pride ourselves in our honest craftsmanship, hospitable customer service, and unbeatable value and efficiency.
+
+## About
+Huerta Furniture, a family-run custom furniture maker, has operated from Arcadia, California since 1996. The company also maintains an office in South El Monte.
+
+The company designs and builds custom upholstered furniture—sectional sofas, chaise lounges, pull-out beds, armchairs, and daybeds—tailored to client specifications. Each piece is handmade in the U.S., with customers choosing from hundreds of fabric samples, multiple foam densities (standard, memory foam, feather down), and detailed options such as leg style, button spacing, and nail-head patterns. The workshop turns around completed pieces in approximately two weeks.
+
+Huerta Furniture serves residential customers across Southern California, including clients in Los Angeles, Norwalk, and South El Monte. The business works directly with homeowners seeking customized seating solutions.
+
+The company emphasizes honest craftsmanship, hospitable customer service, and value, positioning its custom pieces as competitively priced compared to high-end retailers. Reviews frequently cite the patience and professionalism of sales associate Eddy as a differentiator.
+
+## Known for
+- Two-week turnaround on custom furniture
+- Hundreds of fabric samples available in warehouse
+- Handmade in the U.S.A.
+- Customizable down to leg style and button spacing
+- Family-run with personal customer service
+
+## Capabilities
+- Custom furniture design
+- Upholstery
+- Foam selection (standard, memory foam, feather down)
+- Fabric selection
+- Handmade manufacturing
+- Custom detailing (leg style, button spacing, nail heads)
+
+## Industries
+- Residential furniture
+- Custom furniture
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1996
+- **Ownership:** Family-owned
+- **Headquarters:** Arcadia, California
+
+<details><summary>Sources</summary>
+
+- Family-run custom furniture making business since 1996 -> db
+- Headquartered in Arcadia, California -> db
+- Office in South El Monte -> /
+- Handmade in U.S.A. -> /
+- Customizable furniture with options for leg style, button spacing, nail heads -> /
+- Hundreds of fabric samples in warehouse -> /
+- Two-week turnaround for custom furniture -> /
+- Foam options: standard, memory foam, feather down -> /
+- Styles offered: 400 Low Boy, 500 High Boy, etc. -> /
+- Customer reviews highlight service from Eddy/Eddie -> /
+</details>
+
+---

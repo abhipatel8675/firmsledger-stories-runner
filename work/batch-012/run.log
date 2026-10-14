@@ -1,0 +1,546 @@
+fetched p0220-raw.json 10 / 10
+fetched p0221-raw.json 9 / 10
+fetched p0222-raw.json 10 / 10
+fetched p0223-raw.json 10 / 10
+RETRY pak-rite-ltd-michigan HTTP Error 503: Service Unavailable
+RETRY palmetto-furniture-co-inc HTTP Error 503: Service Unavailable
+fetched p0224-raw.json 10 / 10
+RETRY pacific-transformer HTTP Error 503: Service Unavailable
+RETRY penny-hardwoods HTTP Error 429: Too Many Requests
+ok   Ozark Mountain Steel 
+RETRY phoenix-cable-inc HTTP Error 503: Service Unavailable
+fetched p0225-raw.json 10 / 10
+ok   Old Capitol Food Company 
+ok   Olsun Electrics Corporation 
+ok   Olympus Manufacturing 
+RETRY pierburg-us-llc HTTP Error 503: Service Unavailable
+ok   Omni Defense Tech 
+fetched p0226-raw.json 9 / 10
+fetched p0227-raw.json 10 / 10
+ok   Panhandle Woodworks LLC 
+ok   Orion Manufacturing LLC 
+ok   Packaging Support Group 
+ok   Oliveira Textiles 
+fetched p0228-raw.json 10 / 10
+ok   PFI Fashions Inc 
+ok   PakTech 
+ok   PEC Solar Company 
+ok   Onyx Electronics Inc 
+ok   Olson Sheet Metal Works Inc 
+ok   Pennsylvania Farm Table Company - Farmhouse Tables 
+RETRY poly-plastics-inc HTTP Error 503: Service Unavailable
+skip Oregon Design Shop 
+fetched p0229-raw.json 10 / 10
+ok   One Semiconductor 
+fetched p0230-raw.json 10 / 10
+ok   Ontogen Medtech 
+ok   PDI Duct 
+ok   Ozark Biomedical 
+ok   Philatron Wire and Cable 
+ok   Olympic Controls Corporation 
+PAGE DONE p0220-profiles.json
+RETRY power-engineering-and-manufacturing-ltd HTTP Error 503: Service Unavailable
+RETRY pratt-woodworks HTTP Error 503: Service Unavailable
+ok   Pentar Incorporated 
+ok   Piston Automotive 
+ok   Piedmont Food Processing Center 
+fetched p0231-raw.json 9 / 10
+ok   PV Maine Solar 
+RETRY precision-metalworks-llc HTTP Error 503: Service Unavailable
+fetched p0232-raw.json 10 / 10
+ok   Peterson Company 
+RETRY premier-hospital-supply-o2-solutions HTTP Error 503: Service Unavailable
+ok   P&S Sheet Metal Miami 
+ok   Pascetti Steel Design, Inc. 
+ok   PM Assembly LLC 
+PAGE DONE p0221-profiles.json
+ok   Pegasus Auto Racing Supplies 
+ok   Phoenix Food LLC 
+RETRY pro-form-metals HTTP Error 503: Service Unavailable
+ok   Paragon Woodworking 
+RETRY pro-shaper-sheet-metal-llc HTTP Error 503: Service Unavailable
+RETRY poly-plastics-inc HTTP Error 503: Service Unavailable
+fetched p0233-raw.json 9 / 10
+ok   Pharmco Industries Inc 
+RETRY progressive-industrial-electrical HTTP Error 503: Service Unavailable
+ok   Pak-Rite Ltd Michigan 
+ok   Pak Solutions 
+ok   Palmetto Welding & Fabrication Services, LLC 
+ok   PennFab, Inc 
+ok   Packaging Utah - A Division of Traco 
+RETRY power-engineering-and-manufacturing-ltd HTTP Error 503: Service Unavailable
+ok   Pine Crafter Furniture 
+ok   Paradigm Foodworks Inc 
+fetched p0234-raw.json 10 / 10
+ok   Penn Panel & Box Co 
+ok   Parts Unlimited Interiors, Inc. 
+ok   Peli Inc 
+RETRY q-cells-usa HTTP Error 503: Service Unavailable
+ok   Portland Garment Factory 
+ok   Precision Food Equipment LLC. 
+skip Pierburg US, LLC. 
+ok   Pittsburgh Wire & Cable 
+ok   Phoenix-Lamar Corporation 
+ok   Potter Webster Company 
+fetched p0235-raw.json 10 / 10
+ok   Plastech Inc 
+fetched p0236-raw.json 10 / 10
+RETRY quintex-molding-llc HTTP Error 503: Service Unavailable
+RETRY pro-form-metals HTTP Error 503: Service Unavailable
+ok   Precise Cable Inc 
+ok   Planet Plastics Co 
+ok   Pivotal Brewing Company Bristol 
+ok   Power Electronics International, Inc. 
+RETRY poly-plastics-inc HTTP Error 503: Service Unavailable
+fetched p0237-raw.json 10 / 10
+RETRY rce-manufacturing HTTP Error 503: Service Unavailable
+ok   Palmetto Furniture Co Inc 
+ok   Pristine Surgical 
+ok   Poly Electronics 
+ok   Phoenix Cable Inc 
+PAGE DONE p0224-profiles.json
+ok   Penny Hardwoods 
+PAGE DONE p0223-profiles.json
+ok   Prima Distribution Inc 
+ok   Precision PCB | Precision Technologies, Inc. 
+ok   Power Brace Manufacturing 
+ok   Precision Resistive Products 
+ok   Piston Automotive Louisville 
+ok   PlastiCert 
+ok   Precision Steel 
+fetched p0238-raw.json 10 / 10
+RETRY rmc-plastics HTTP Error 503: Service Unavailable
+RETRY pro-form-metals HTTP Error 503: Service Unavailable
+RETRY radiation-electronics-inc HTTP Error 503: Service Unavailable
+skip Pratt Woodworks 
+ok   Premier Plastic Molding & Tooling, Inc. 
+ok   Puma Steel 
+fetched p0239-raw.json 10 / 10
+ok   Pacific Transformer 
+PAGE DONE p0222-profiles.json
+ok   Port Plastics 
+ok   Premier Hospital Supply & O2 Solutions 
+ok   Pivot International 
+RETRY port-clinton-manufacturing-co Expecting ',' delimiter: line 68 column 4 (char 3834)
+ok   Prettl Automotive 
+ok   Prysmian Group USA 
+ok   R & B Steel Fabrications 
+ok   Precision Packaging Products, Inc. 
+ok   Precision Metals Inc 
+ok   Provisur Technologies 
+ok   Premier Electric Inc. 
+ok   Quality Plastics Inc. 
+ok   Quality Concepts Manufacturing Inc 
+ok   Pyramid Semiconductor 
+ok   PwrQ 
+ok   Portland Bottling Company 
+RETRY revelation-medical-devices HTTP Error 503: Service Unavailable
+ok   Precision Metalworks LLC 
+RETRY precise-circuit-co Expecting ',' delimiter: line 79 column 4 (char 4232)
+ok   Premier Packaging Inc 
+PAGE DONE p0227-profiles.json
+ok   R & E Tooling & Plastics Inc 
+ok   REM Electronics 
+ok   Qualcomm Technologies 
+ok   Ralph's Industrial Electronics 
+ok   Pro Form Metals 
+ok   Quality Foods Distributing LLC 
+RETRY rock-valley-textiles-inc HTTP Error 503: Service Unavailable
+ok   Pro Shaper Sheet Metal LLC 
+ok   RJ Wood Industries 
+ok   RFL MFG 
+RETRY rockford-molded-products-inc HTTP Error 503: Service Unavailable
+ok   Progressive Industrial Electrical 
+ok   Q Cells USA 
+RETRY rocky-mountain-packaging HTTP Error 503: Service Unavailable
+RETRY rock-valley-textiles-inc HTTP Error 503: Service Unavailable
+ok   RB Apparel, Make it Yours Custom Apparel 
+ok   Redland Sheet Metal 
+ok   RIVEN 
+ok   RES Solar 
+ok   RACE Metalsmiths Machine Shop and Powder Coating 
+RETRY rose-medical HTTP Error 503: Service Unavailable
+ok   Quality Sheet Metal And Welding 
+ok   Quirk Wire Co Inc 
+ok   RDM Industrial Electronics Inc 
+ok   Pronghorn Pump LLC. 
+PAGE DONE p0228-profiles.json
+skip Rich Metal Arts 
+ok   Randy's Booth Co Inc. 
+RETRY roska-upholstery HTTP Error 503: Service Unavailable
+RETRY ross-family-fabrications HTTP Error 503: Service Unavailable
+ok   Quintex Molding, LLC 
+ok   Rail Yard Studios - Custom Furniture Designers and Builders 
+ok   Radford Fabrication LLC 
+ok   Radix Wire & Cable 
+ok   RDS Wire & Cable, Inc. 
+ok   Red Cloud Renewable Energy Center 
+ok   REYcomp INC 
+RETRY rustic-log-furniture-of-utah-inc HTTP Error 503: Service Unavailable
+ok   Radiation Electronics Inc 
+ok   Ray Brothers Inc 
+ok   RCE Manufacturing 
+ok   Quality Craft Wood Works Inc 
+PAGE DONE p0229-profiles.json
+ok   RDC USA Plant 6 
+RETRY rustic-timbers-furniture-co HTTP Error 503: Service Unavailable
+ok   Restronics Southeast 
+RETRY sai-advanced-power-solutions HTTP Error 503: Service Unavailable
+ok   Power Engineering and Manufacturing, Ltd. 
+ok   RAM Fabrication 
+ok   Renovation Manufacturing 
+RETRY smc-electrical-products HTTP Error 503: Service Unavailable
+RETRY roska-upholstery HTTP Error 503: Service Unavailable
+ok   REV - Home Internet, TV, & Security 
+PAGE DONE p0231-profiles.json
+ok   Right Stuff Equipment 
+ok   Reliable Formed Plastics 
+RETRY sage-plastics HTTP Error 503: Service Unavailable
+ok   Rhino Wire Works, LLC 
+ok   Rivers Clothing Company 
+ok   Raleigh Sheet Metal 
+ok   Razorback Equipment Company 
+RETRY samsung-austin-semiconductor HTTP Error 503: Service Unavailable
+ok   Restaurant Equipment Company 
+RETRY renaissance-design-group 'NoneType' object has no attribute 'group'
+ok   Rountree Electric Supply Co. 
+ok   Resonetics 
+RETRY r-d-electronics-inc 'NoneType' object has no attribute 'group'
+RETRY smc-electrical-products HTTP Error 503: Service Unavailable
+ok   Rite Stuff Foods Inc 
+ok   Roechling Automotive Duncan 
+ok   Redstone Solar 
+ok   Resonance Technologies 
+RETRY seaboard-controls-llc HTTP Error 503: Service Unavailable
+ok   Rocky Mountain Apparel 
+ok   Rocky Mountain Packaging 
+ok   Rock Valley Textiles Inc 
+ok   Reworx 
+ok   Rich Industries Import Auto Parts 
+ok   Poly Plastics Inc. 
+ok   Quantum Imaging 
+ok   Precise Circuit Co 
+PAGE DONE p0226-profiles.json
+ok   Rocky Mountain Power 
+RETRY selby-electric HTTP Error 503: Service Unavailable
+RETRY r-d-electronics-inc HTTP Error 503: Service Unavailable
+ok   Rockford Molded Products Inc 
+ok   Rice Machinery Machine Tools SALES, Service 
+ok   Reed Manufacturing Co Inc 
+ok   Rosti North Carolina 
+RETRY rmc-plastics Expecting ',' delimiter: line 67 column 4 (char 3241)
+RETRY revolution-bag Expecting ',' delimiter: line 53 column 4 (char 3778)
+ok   Rp Custom Woodworking LLC 
+ok   Ross Family Fabrications 
+ok   Revelation Medical Devices 
+ok   Richey Capacitor Inc. 
+ok   S. C. Hopkins Woodworking 
+ok   Sag Harbor Industries, Inc. 
+ok   SFS Fabrication 
+ok   SRS Fabrication Inc. 
+ok   Rose Medical 
+ok   S&W Foods 
+ok   Reeves Custom Metals Inc Since 1897 
+ok   Seattle Metals, Inc & Waterjet 
+ok   Sangamon Solar 
+ok   Roy's Wood Products 
+ok   Salted Metals 
+ok   SSS Medical 
+ok   Samsung Austin Semiconductor 
+ok   Rustic Log Furniture of Utah, Inc. 
+ok   Schaumburg Specialties - Racks & Carts 
+RETRY port-clinton-manufacturing-co 'NoneType' object has no attribute 'group'
+ok   Sailor Plastics 
+ok   Savannah Food Company 
+ok   Ruben Custom Sawmill and Woodworks, LLC 
+ok   S&F Foods, Inc. 
+ok   Rustic Montana Furniture 
+ok   Seal Solar 
+ok   Sattler Manufacturing 
+ok   Sage Plastics 
+ok   Saw Logs To Lumber 
+ok   Rockett Inc 
+PAGE DONE p0235-profiles.json
+ok   Seamless Manufacturing 
+ok   SAI Advanced Power Solutions 
+ok   SPI Solar Panel Installation NC 
+ok   Salem Cap World Truck Accessories and Trailers 
+ok   Rustic Timbers Furniture Co. 
+ok   SMC Electrical Products 
+ok   Sandin Manufacturing 
+ok   Rowe Electronics 
+ok   S and Y Industries, Inc. 
+PAGE DONE p0237-profiles.json
+ok   Revolution Bag 
+PAGE DONE p0234-profiles.json
+ok   Selby Electric 
+ok   Salteydogg METAL FAB 
+PAGE DONE p0238-profiles.json
+ok   RMC Plastics 
+PAGE DONE p0232-profiles.json
+ok   Renaissance Design Group 
+PAGE DONE p0233-profiles.json
+ok   Roska Upholstery 
+PAGE DONE p0236-profiles.json
+RETRY r-d-electronics-inc 'NoneType' object has no attribute 'group'
+ok   Port Clinton Manufacturing Co 
+PAGE DONE p0225-profiles.json
+ok   Seaboard Controls LLC 
+PAGE DONE p0239-profiles.json
+RETRY r-d-electronics-inc Extra data: line 2 column 1 (char 92)
+skip R & D Electronics Inc Extra data: line 2 column 1 (char 92)
+PAGE DONE p0230-profiles.json
+ALL-DONE errors 1 of 200
+collected 193
+old-capitol-food-company | wording/address
+olsun-electrics-corporation | nums ['35'] ; certs ['ABS (American Bureau of Shipping)', 'DNV (Det Norske Veritas)']
+olympic-controls-corporation | nums ['86,000']
+pdi-duct | certs ['IPC-A-620']
+pm-assembly-llc | certs ['RoHS compliant']
+pv-maine-solar | wording/address
+packaging-utah-a-division-of-traco | nums ['10,000']
+panhandle-woodworks-llc | wording/address
+paragon-woodworking | nums ['40']
+pascetti-steel-design-inc | wording/address
+pegasus-auto-racing-supplies | nums ['1970']
+penn-panel-box-co | wording/address
+pennfab-inc | nums ['1983']
+pharmco-industries-inc | wording/address
+phoenix-food-llc | wording/address
+pine-crafter-furniture | wording/address
+piston-automotive | wording/address
+piston-automotive-louisville | nums ['300,000']
+pivotal-brewing-company-bristol | wording/address
+port-clinton-manufacturing-co | nums ['3.5']
+portland-bottling-company | wording/address
+power-electronics-international-inc | nums ['250,000']
+precise-circuit-co | certs ['ANSI/ESD S20.20']
+precision-pcb-precision-technologies-inc | certs ['RoHS compliance']
+premier-electric-inc | wording/address
+premier-hospital-supply-o2-solutions | wording/address
+premier-packaging-inc | wording/address
+premier-plastic-molding-tooling-inc | wording/address
+prettl-automotive | nums ['10,000']
+prima-distribution-inc | nums ['1990']
+pro-shaper-sheet-metal-llc | nums ['1930']
+provisur-technologies | wording/address
+quality-sheet-metal-and-welding | certs ['Associated Builders & Contractors Association membership']
+quantum-imaging | certs ['AS9100D']
+r-e-tooling-plastics-inc | nums ['1.5']
+race-metalsmiths-machine-shop-and-powder-coating | wording/address
+rce-manufacturing | wording/address
+rfl-mfg | wording/address
+rmc-plastics | wording/address
+ray-brothers-inc | wording/address
+resonance-technologies | nums ['9001:2015']
+richey-capacitor-inc | wording/address
+rivers-clothing-company | wording/address
+rock-valley-textiles-inc | wording/address
+roechling-automotive-duncan | nums ['1822']
+ross-family-fabrications | nums ['1965']
+s-f-foods-inc | certs ['USDA Inspection', 'National Bioengineered Food Disclosure Standard']
+sai-advanced-power-solutions | wording/address
+sss-medical | wording/address
+salteydogg-metal-fab | nums ['35', '30']
+collected 193
+done old-capitol-food-company 0 
+done oliveira-textiles 0 
+done olson-sheet-metal-works-inc 2 
+done olsun-electrics-corporation 0 
+done olympic-controls-corporation 1 
+done olympus-manufacturing 2 
+done omni-defense-tech 0 
+done one-semiconductor 0 
+done ontogen-medtech 1 
+done onyx-electronics-inc 2 
+done orion-manufacturing-llc 3 
+done ozark-biomedical 4 
+done ozark-mountain-steel 0 
+done p-s-sheet-metal-miami 1 
+done pdi-duct 1 
+done pec-solar-company 3 
+done pfi-fashions-inc 0 
+done pm-assembly-llc 1 
+done pv-maine-solar 0 
+done pacific-transformer 0 
+done packaging-support-group 0 
+done packaging-utah-a-division-of-traco 0 
+done pak-solutions 1 
+done pak-rite-ltd-michigan 1 
+done paktech 0 
+done palmetto-furniture-co-inc 0 
+done palmetto-welding-fabrication-services-llc 3 
+done panhandle-woodworks-llc 3 
+done paradigm-foodworks-inc 4 
+done paragon-woodworking 0 
+done parts-unlimited-interiors-inc 0 
+done pascetti-steel-design-inc 0 
+done pegasus-auto-racing-supplies 1 
+done peli-inc 1 
+done penn-panel-box-co 0 
+done pennfab-inc 2 
+done pennsylvania-farm-table-company-farmhouse-tables 1 
+done penny-hardwoods 0 
+done pentar-incorporated 2 
+done peterson-company 0 
+done pharmco-industries-inc 1 
+done philatron-wire-and-cable 0 
+done phoenix-cable-inc 0 
+done phoenix-food-llc 3 
+done phoenix-lamar-corporation 0 
+done piedmont-food-processing-center 0 
+done pine-crafter-furniture 1 
+done piston-automotive 1 
+done piston-automotive-louisville 1 
+done pittsburgh-wire-cable 0 
+done pivot-international 0 
+done pivotal-brewing-company-bristol 2 
+done planet-plastics-co 0 
+done plastech-inc 1 
+done plasticert 0 
+done poly-electronics 2 
+done poly-plastics-inc 1 
+done port-clinton-manufacturing-co 0 
+done port-plastics 0 
+done portland-bottling-company 1 
+done portland-garment-factory 0 
+done potter-webster-company 4 
+done power-brace-manufacturing 0 
+done power-electronics-international-inc 1 
+RETRY res-solar Expecting ',' delimiter: line 1 column 40 (char 39)
+RETRY power-engineering-and-manufacturing-ltd expected string or bytes-like object, got 'NoneType'
+done power-engineering-and-manufacturing-ltd 1 
+done precise-cable-inc 0 
+done precise-circuit-co 2 
+done precision-food-equipment-llc 1 
+done precision-metals-inc 0 
+done precision-metalworks-llc 1 
+done precision-pcb-precision-technologies-inc 0 
+done precision-packaging-products-inc 1 
+done precision-resistive-products 2 
+done precision-steel 1 
+done premier-electric-inc 2 
+done premier-hospital-supply-o2-solutions 4 
+done premier-packaging-inc 1 
+done premier-plastic-molding-tooling-inc 1 
+done prettl-automotive 5 
+done prima-distribution-inc 0 
+done pristine-surgical 0 
+done pro-form-metals 1 
+done pro-shaper-sheet-metal-llc 2 
+done progressive-industrial-electrical 2 
+done pronghorn-pump-llc 2 
+done provisur-technologies 1 
+RETRY prysmian-group-usa expected string or bytes-like object, got 'NoneType'
+done prysmian-group-usa 2 
+done puma-steel 0 
+done pwrq 1 
+done pyramid-semiconductor 3 
+done q-cells-usa 0 
+done qualcomm-technologies 2 
+done quality-concepts-manufacturing-inc 1 
+done quality-craft-wood-works-inc 0 
+done quality-foods-distributing-llc 1 
+done quality-plastics-inc 0 
+done quality-sheet-metal-and-welding 0 
+done quantum-imaging 0 
+done quintex-molding-llc 1 
+done quirk-wire-co-inc 0 
+done r-b-steel-fabrications 1 
+done r-e-tooling-plastics-inc 0 
+done race-metalsmiths-machine-shop-and-powder-coating 0 
+done ram-fabrication 1 
+done rb-apparel-make-it-yours-custom-apparel 1 
+done rce-manufacturing 0 
+done rdc-usa-plant-6 1 
+done rdm-industrial-electronics-inc 1 
+done rds-wire-cable-inc 0 
+done rem-electronics 0 
+done res-solar 2 
+done rev-home-internet-tv-security 1 
+done reycomp-inc 1 
+done rfl-mfg 0 
+done riven 1 
+done rj-wood-industries 0 
+done rmc-plastics 1 
+done radford-fabrication-llc 1 
+done radiation-electronics-inc 1 
+done radix-wire-cable 2 
+done rail-yard-studios-custom-furniture-designers-and-builders 0 
+done raleigh-sheet-metal 4 
+done ralph-s-industrial-electronics 2 
+done randy-s-booth-co-inc 2 
+done ray-brothers-inc 0 
+done razorback-equipment-company 0 
+done red-cloud-renewable-energy-center 0 
+done redland-sheet-metal 4 
+done redstone-solar 0 
+done reed-manufacturing-co-inc 0 
+done reeves-custom-metals-inc-since-1897 0 
+done reliable-formed-plastics 1 
+done renovation-manufacturing 2 
+done resonance-technologies 0 
+done resonetics 0 
+done restaurant-equipment-company 4 
+done restronics-southeast 2 
+done revelation-medical-devices 0 
+done revolution-bag 0 
+done reworx 0 
+done rhino-wire-works-llc 1 
+done rice-machinery-machine-tools-sales-service 0 
+done rich-industries-import-auto-parts 2 
+done richey-capacitor-inc 1 
+done right-stuff-equipment 1 
+done rite-stuff-foods-inc 4 
+done rivers-clothing-company 0 
+done rock-valley-textiles-inc 0 
+done rockett-inc 1 
+done rockford-molded-products-inc 1 
+done rocky-mountain-apparel 1 
+done rocky-mountain-packaging 5 
+done rocky-mountain-power 1 
+done roechling-automotive-duncan 4 
+done rose-medical 0 
+done roska-upholstery 2 
+done ross-family-fabrications 0 
+done rosti-north-carolina 1 
+done rountree-electric-supply-co 2 
+done rowe-electronics 0 
+done roy-s-wood-products 1 
+done rp-custom-woodworking-llc 0 
+done ruben-custom-sawmill-and-woodworks-llc 4 
+done rustic-log-furniture-of-utah-inc 1 
+done rustic-montana-furniture 1 
+done rustic-timbers-furniture-co 1 
+done s-and-y-industries-inc 0 
+done s-f-foods-inc 0 
+done s-w-foods 0 
+done s-c-hopkins-woodworking 3 
+done sai-advanced-power-solutions 0 
+done sfs-fabrication 0 
+done smc-electrical-products 1 
+done spi-solar-panel-installation-nc 0 
+done srs-fabrication-inc 1 
+done sss-medical 4 
+done sag-harbor-industries-inc 2 
+done sage-plastics 0 
+done sailor-plastics 0 
+done salem-cap-world-truck-accessories-and-trailers 0 
+done salted-metals 0 
+done salteydogg-metal-fab 1 
+done samsung-austin-semiconductor 5 
+done sandin-manufacturing 0 
+done sangamon-solar 0 
+done sattler-manufacturing 0 
+done savannah-food-company 0 
+done saw-logs-to-lumber 0 
+done schaumburg-specialties-racks-carts 0 
+done seal-solar 0 
+done seamless-manufacturing 2 
+done seattle-metals-inc-waterjet 1 
+done selby-electric 1 
+ALL-DONE errors 0
+clean 191 | sentences removed 169 | needs review 2 | check errors 0
+REVIEW orion-manufacturing-llc too short after fact-check (63 words)
+REVIEW redland-sheet-metal too short after fact-check (44 words)
+sql parts 3 stories 191

@@ -1,0 +1,584 @@
+# RMC Plastics
+
+**Old description:** manufactures precision plastic and rubber molded parts for Texas and nationwide clients. With 50+ years in operation, our Houston team helps you plan, design, tool, and run parts that hit your budget and your deadline. We guide material selection, tooling options, and process settings so your parts run right, look sharp, and last. Made in the USA and ready for volume, we are here to make your next molded part a win.
+
+## About
+RMC Plastics is headquartered in Houston, Texas. The company traces its roots to 1966 when three friends — B.L. Jacquet, L.L. 'Mack' McKay Jr., and J.F. Cox — founded JMC Plastics and Manufacturing in the garage of McKay’s home. The operation later moved to its current north Houston site. Mack McKay bought out his partners and expanded the facility. After his death in 2003, his nephew Randy Hammond ran the company until 2012. In 2013 the McKay family sold the business to the Robertson family, also of Houston, and the firm was renamed RMC Plastics, Inc. The company remains family-owned and emphasizes direct owner involvement.
+
+RMC Plastics specializes in precision plastic and rubber injection molding, offering end-to-end services from product and mold design through material consulting, production, assembly, and warehousing. The shop runs 12 injection molding machines of varying sizes, enabling large production runs and quick changeovers. The company also maintains a deep stock of customers’ proprietary parts in its Houston warehouse for rapid fulfillment. All production is domestic, with a focus on made-in-the-USA components.
+
+The company serves a diverse industrial base across Texas and nationwide, including consumer products, oil and gas, electric, gas, and water utilities, construction, plumbing, and medical sectors. RMC works with both original equipment manufacturers and brand owners who require molded components for end-use applications.
+
+The current ownership highlights its family-owned structure as a differentiator, stating that customers work directly with owners who can make fast, flexible decisions. The firm also emphasizes its domestic manufacturing footprint and its ability to guide material selection and tooling strategy to meet budget and deadline requirements.
+
+## Known for
+- Family-owned with direct owner involvement
+- 12 injection molding machines with quick changeover capability
+- Warehousing of customer proprietary parts for rapid fulfillment
+- Made in the USA production
+- Material consulting and mold design services
+
+## Capabilities
+- Plastic injection molding
+- Rubber molding
+- Mold design
+- Product design
+- Material consulting
+- Production
+- Assembly
+- Warehousing
+
+## Industries
+- Consumer Products
+- Oil & Gas
+- Electric Utility
+- Gas Utility
+- Water Utility
+- Construction
+- Plumbing
+- Medical
+
+## Equipment
+- Haitian International injection molding machines
+- Nissei Plastic injection molding machines
+- Borche injection molding machines
+- ENGEL injection molding machines
+- Moretto automation equipment
+- Van Dorn Demag injection molding machines
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1966
+- **Ownership:** Family-owned
+- **Headquarters:** Houston, Texas
+
+<details><summary>Sources</summary>
+
+- Founded in 1966 by B.L. Jacquet, L.L. 'Mack' McKay Jr., and J.F. Cox -> /about-us
+- Originally operated out of garage, relocated to north Houston -> /about-us
+- Sold to Robertson family in 2013, renamed RMC Plastics -> /about-us
+- Operates 12 injection molding machines -> /about-us
+- Industries served: Consumer Products, Oil & Gas, Electric Utility, Gas Utility, Water Utility, Construction, Plumbing, Medical -> /about-us, /
+- Warehousing of customer proprietary parts for quick turn-around -> /
+- Family-owned with direct owner involvement -> /about-us
+- Made in the USA production -> /
+- Material consulting and mold design services -> /
+- Brands of machinery: Haitian, Nissei, Borche, Engel, Moretto, Van Dorn Demag -> /about-us
+</details>
+
+---
+
+# Radford Fabrication LLC
+
+**Old description:** At Radford Fabrication LLC, we pride ourselves on our adaptability and versatility. Every blueprint we receive is treated as an opportunity to showcase our talent, innovation, and create lasting relationships with our clients and local contractors. We work closely with each and every one of our customers to ensure every detail is properly assessed and planned. Through this process, we are able to provide our customers with accurate estimates and realistic timeframes.
+
+## About
+Radford Fabrication LLC operates from Anchorage, Alaska, with service extending to Palmer and Wasilla. The company's founding year and ownership structure are not publicly disclosed, nor are its founders named in available materials. It presents itself as a local welding and metal fabrication specialist serving the region.
+
+The shop provides welding fabrication, welding installation, and equipment repair, working with a range of metals including steel, aluminum, copper, bronze, stainless steel, brass, iron, and titanium. Every blueprint is treated as an opportunity to showcase talent and innovation, and the company works closely with customers to assess and plan each detail. No details on facility size, headcount, or production volumes are provided.
+
+Radford Fabrication serves local contractors and individual clients, as reflected in a testimonial from Mitchell Flores. Specific industry sectors are not explicitly listed, though the focus on local contractors suggests construction and industrial maintenance work.
+
+The company emphasizes adaptability, versatility, and talent in every project, promising accurate estimates, realistic timeframes, and timely execution without safety shortcuts. It cites workmanship, reliability, and customer satisfaction as the qualities that set it apart, maintaining communication from planning through completion.
+
+## Known for
+- Adaptability and versatility in handling diverse blueprints
+- Accurate estimates and realistic timeframes
+- Timely, efficient project execution with no safety shortcuts
+- Workmanship and reliability as core differentiators
+- Customer satisfaction through continuous communication
+
+## Capabilities
+- Welding fabrication
+- Welding installation
+- Equipment repair
+- Metal fabrication
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Headquarters:** Anchorage, Alaska
+
+<details><summary>Sources</summary>
+
+- Headquarters in Anchorage, Alaska -> db
+- Services: Welding Fabrication, Welding Installation, Equipment Repair -> /
+- Materials: Steel, Aluminum, Copper, Bronze, Stainless, Brass, Iron, Titanium -> /
+- Testimonial from Mitchell Flores -> /
+- Company emphasizes adaptability, accurate estimates, realistic timeframes, safety, workmanship, reliability -> /
+- Serves Palmer and Wasilla -> /about-us
+</details>
+
+---
+
+# Radiation Electronics Inc
+
+**Old description:** As manufacturer representatives, we are well established for expanding brand awareness of technology products across our territory on your behalf.  We address a variety of technology markets and industries, including: Avionics; Mil/Aero and Defense; Enterprise Computing and Networking; and Embedded Computing for Industrial, Medical, Telecom and Transportation. We have a full understanding of the driving forces behind the latest technologies.  If you are a manufacturer of technology products, looking for sales representation, choose us and we will align your products around our network to increase your market share.
+
+## About
+Radiation Electronics Inc. operates as a manufacturer's representative firm from its headquarters in Harrison, New York, covering a territory that spans New York, New Jersey, Connecticut, and eastern Pennsylvania. The company states it has been in business for over 50 years, though a specific founding year is not disclosed. Ownership structure and founder names are not provided in public materials.
+
+The firm represents a portfolio of technology product lines for principals such as APACER, Astronics Ballard Technology, Brandywine Communications, GIG-OPTICS, General Micro Systems, Moog-Protokraft, NEXCOM, Vialite, PPM, VIAVI, and Wolf Advanced Technology. Its offerings span computer systems and subsystems, embedded and rugged computers, network hardware, timing and synchronization equipment, RF-over-fiber links, storage devices, and test & measurement instruments. The sales team consists of professional sales engineers who provide technical support and product expertise across the territory.
+
+Radiation Electronics serves customers in avionics, defense and military aerospace, enterprise computing and networking, industrial, medical, space, and telecommunications and transportation markets. Its customer base includes engineers and developers, IT professionals, manufacturers, research and development organizations, and service providers.
+
+The company emphasizes long-term relationships with both the manufacturers it represents and the end-user customers, citing a focus on product quality, integrity, and professional, honest, and ethical business conduct as the foundation of its reputation.
+
+## Known for
+- Over 50 years of continuous operation
+- Professional sales engineering team
+- Territory coverage across NY, NJ, CT, and PA
+- Long-term relationships with principals and customers
+- Focus on product quality and ethical business conduct
+
+## Capabilities
+- Manufacturer representation
+- Technical sales support
+- Product line representation
+- Territory management
+- Technical product expertise
+
+## Industries
+- Avionics
+- Defense/Military Aerospace
+- Enterprise Computing & Networking
+- Industrial
+- Medical
+- Space
+- Telecommunications
+- Transportation
+- Embedded Computing
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Headquarters:** Harrison, New York
+
+<details><summary>Sources</summary>
+
+- Headquartered in Harrison, New York -> /
+- Territory covers NY, NJ, CT, PA -> /
+- In business over 50 years -> /
+- Represents APACER, Astronics Ballard Technology, Brandywine Communications, GIG-OPTICS, General Micro Systems, Moog-Protokraft, NEXCOM, Vialite, PPM, VIAVI, Wolf Advanced Technology -> /
+- Product categories: computer systems, embedded/rugged computers, network hardware, timing/sync, RFoF, storage, test & measurement -> /
+- Industries served: avionics, defense/mil-aero, enterprise computing, industrial, medical, space, telecom/transportation -> /
+- Customer types: engineers/developers, IT professionals, manufacturers, R&D, service -> /
+- Emphasis on long-term relationships, product quality, integrity, ethical conduct -> /
+</details>
+
+---
+
+# Radix Wire & Cable
+
+**Old description:** specializes in the design and manufacturing of products to meet the most challenging and severe environments, including temperature capabilities from 125°C to 1010°C
+
+## About
+Radix Wire & Cable is headquartered in Glenwillow, Ohio, and was founded in 1944. The company began as a specialist in high-temperature wire and cable designed for severe environments, and has remained focused on that niche for eight decades.
+
+Radix designs and manufactures a broad range of high-temperature wire and cable products rated from 125°C to 1010°C. Its portfolio includes silicone rubber insulated wires (Sil-A-Blend, DuraBlend), fluoropolymer insulated cables (ETFE, FEP, PFA), mica glass tape (MGT) constructions, and ceramic fiber cables for extreme heat. The company also produces fire-rated cables certified to UL 2196/ULC S-139, high-voltage cables, data communication cables (CAT6), flare stack ignition cables, and tray cables. Radix offers engineered solutions for custom requirements, with capabilities in extrusion, braiding, jacketing, and custom cable design.
+
+The company serves markets including fire protection, thermal processing, appliance, motors and industrial, oil and gas, transit infrastructure, auto/commercial vehicle, aerospace and defense, data centers, energy, and maintenance/repair/operations (MRO). Aerospace and defense is a noted segment, with products qualified for extreme environments.
+
+Radix emphasizes a partnership approach, stating that its team of problem solvers works to educate customers on possibilities to improve products or operations. The company highlights its 80-year history as a leader in high-temperature wire and cable, and its commitment to providing solutions rather than just selling products.
+
+## Known for
+- Temperature range from 125°C to 1010°C
+- UL 2196 / ULC S-139 certified fire resistive cables
+- Custom engineered solutions for extreme environments
+- Eight decades of high-temperature wire and cable expertise
+- Partnership-based problem-solving approach
+
+## Capabilities
+- High-temperature wire extrusion
+- Silicone rubber insulation
+- Fluoropolymer insulation (ETFE, FEP, PFA)
+- Mica glass tape (MGT) insulation
+- Braiding and jacketing
+- Fire-rated cable manufacturing (UL 2196)
+- High-voltage cable production
+- Data communication cable (CAT6) manufacturing
+- Custom engineered cable solutions
+- Flare stack ignition cable manufacturing
+- Tray cable manufacturing
+
+## Industries
+- Fire Protection
+- Thermal
+- Appliance
+- Motors and Industrial
+- Oil & Gas
+- Transit Infrastructure
+- Auto/Commercial Vehicle
+- Aerospace & Defense
+- Data Centers
+- Energy
+- MRO
+
+## Certifications
+- RoHS
+- UL 2196
+- ULC S-139
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1944
+- **Headquarters:** Glenwillow, Ohio
+
+<details><summary>Sources</summary>
+
+- Founded 1944 -> db, homepage
+- Headquarters Glenwillow, Ohio -> homepage contact section
+- Temperature range 125°C to 1010°C -> homepage
+- Product lines (SuperLinx, Sil-A-Blend, DuraFlex, DuraLife, Titan, etc.) -> homepage products
+- Markets served (Fire Protection, Thermal, Appliance, Motors and Industrial, Oil & Gas, Transit Infrastructure, Auto/Commercial Vehicle, Aerospace & Defense, Data Centers, Energy, MRO) -> homepage markets
+- UL 2196 / ULC S-139 certification for fire resistive cable -> homepage
+- RoHS compliance -> db
+- Partnership and problem-solving approach -> homepage About section
+- Engineered solutions for custom requirements -> homepage Engineered Solutions
+- LinkedIn URL -> db
+</details>
+
+---
+
+# Rail Yard Studios - Custom Furniture Designers and Builders
+
+**Old description:** Industrial designer and entrepreneur, Robert Hendrick, founded Rail Yard Studios. He designs the company's furniture collections and is in collaboration with other artists, designers, and architects. He began the effort out of a need to round out the cyclical nature of the railroad contracting business he owned.
+
+## About
+Rail Yard Studios operates from Nashville, Tennessee. Industrial designer and entrepreneur Robert Hendrick founded the company to complement the cyclical nature of the railroad contracting business he owned. The studio is owned by Hendrick along with Rob Humphreys, Rick Turner, and Jim "Pop" Hendrick, who serves as a mentor in the workshop.
+
+The studio designs and builds custom furniture for home and office, including tables, desks, beds, coffee tables, wine racks, and gift items. Its signature material is reclaimed steel sourced from railroad renovation projects, paired with natural wood and authentic vintage materials. The team has developed proprietary historic-preservation methods to repurpose industrial rail sections into finished pieces. Master craftsman Ryan Galbreath manages the workshop, overseeing metalworking, woodworking, and the development of new fabrication techniques.
+
+Rail Yard Studios serves residential and commercial clients, often collaborating with artists, designers, and architects on custom conference rooms, statement pieces, and full furnishings. The product line reflects Hendrick's background in industrial design and his interests in cycling, history, and art.
+
+The venture began as a way to stabilize revenue between railroad contracts, but its mission centers on sustainability and quality: each piece carries a narrative of the rail's service history. The company emphasizes a direct hand-off from maker to client, with pride in craftsmanship and environmental footprint.
+
+## Known for
+- Reclaims railroad steel from industrial renovation jobs for furniture
+- Proprietary historic-preservation methods for sustainability and quality
+- Custom designs by industrial designer Robert Hendrick
+- Collaboration with artists, designers, and architects
+- Workshop led by master craftsman Ryan Galbreath
+
+## Capabilities
+- Custom furniture design
+- Furniture fabrication
+- Metal reclamation and repurposing
+- Woodworking
+- Historic preservation techniques
+- Sustainable material sourcing
+- Custom conference room furniture
+- Custom coffee tables, desks, beds, wine racks
+
+## Industries
+- Residential furniture
+- Commercial office furniture
+- Custom furniture
+
+## Company details
+- **Company Type:** Manufacturer
+- **Ownership:** Multiple owners (Robert Hendrick, Rob Humphreys, Rick Turner, Jim 'Pop' Hendrick)
+- **Headquarters:** Nashville, Tennessee
+
+<details><summary>Sources</summary>
+
+- Location: Nashville, Tennessee -> db
+- Founder: Robert Hendrick -> /about-us
+- Owners: Robert Hendrick, Rob Humphreys, Rick Turner, Jim 'Pop' Hendrick -> /about-us
+- Production manager: Ryan Galbreath -> /about-us
+- Business origin: founded to round out cyclical railroad contracting business -> /about-us
+- Products: custom furniture (tables, desks, beds, coffee tables, wine racks, gifts) -> /, /about-us
+- Materials: reclaimed steel, natural wood, authentic vintage materials, railroad rail -> /, /about-us
+- Processes: reclaiming steel from industrial jobs, repurposing, historic preservation methods, woodworking, metalworking -> /about-us
+- Sustainability focus: sustainably sourced, historic preservation -> /
+- Collaboration: with artists, designers, architects -> /about-us
+</details>
+
+---
+
+# Raleigh Sheet Metal
+
+**Old description:** Raleigh Sheet Metal is a leading metal fabrication company in Raleigh, NC, providing top-quality services to commercial clients throughout the Triangle since 1981. We specialize in servicing the glass storefront industry, offering a full range of metal fabrication services including shaping for roofing and siding needs. Our team of experienced professionals is dedicated to delivering superior results and exceptional customer service. We use the latest equipment and techniques to ensure precision and accuracy in every project we undertake.
+
+## About
+Raleigh Sheet Metal has operated from Raleigh, North Carolina since 1981. The business traces its roots to a family trade: Terry Phillips, described as a third‑generation tin man, runs the shop with a perfectionist’s eye for sheet metal artistry.
+
+The company focuses on custom sheet metal fabrication, primarily serving the glass storefront market. Its work includes shaping and cutting metal for roofing and siding applications, with an emphasis on precision fitting to customer‑provided specifications.
+
+Customers are commercial contractors and building owners across the Research Triangle region. Projects range from storefront systems to architectural metalwork for roofing and siding, all produced to order rather than held in stock.
+
+The firm stresses reliability and craftsmanship, promising customized solutions delivered on time and within budget. Phillips’ reputation for exacting workmanship — “when it absolutely has to be perfect, there is no other” — underscores the shop’s positioning as a precision‑oriented job shop.
+
+## Known for
+- Third‑generation family expertise in sheet metal craftsmanship
+- Free on‑site estimates for commercial projects
+- Custom fabrication tailored to client specifications
+- Focus on precision fitting for glass storefront, roofing, and siding systems
+- Commitment to on‑time, on‑budget delivery
+
+## Capabilities
+- Sheet metal fabrication
+- Custom shaping for roofing and siding
+- Precision cutting to customer specifications
+- Glass storefront metal fabrication
+- Architectural metalwork
+
+## Industries
+- Glass storefront
+- Commercial construction
+- Roofing
+- Siding
+- Architectural metalwork
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 1981
+- **Ownership:** Family-owned (3rd generation)
+- **Headquarters:** Raleigh, North Carolina
+
+<details><summary>Sources</summary>
+
+- Founded in 1981 -> db
+- Headquarters at 517 Pershing Rd, Raleigh, NC 27608 -> page '/'
+- Specializes in glass storefront industry, shaping for roofing and siding -> page '/'
+- Terry Phillips identified as 3rd generation tin man -> page '/'
+- Offers free estimates -> page '/'
+- Serves commercial clients throughout the Triangle -> page '/'
+- Emphasizes customized solutions, on-time and within budget -> page '/'
+- Reputation for reliability, professionalism, customer satisfaction -> page '/'
+</details>
+
+---
+
+# Ralph's Industrial Electronics
+
+**Old description:** is one of 69 chapters of a national construction industry trade association representing more than 21,000 members. Founded on the Merit Shop Philosophy in 1980, ABC Pelican helps our members develop people, win work and deliver that work safely, ethically, profitably and for the betterment of the communities in which we work.
+
+## About
+Ralph's Industrial Electronics operates from Lafayette, Louisiana, where it was established in 1945 as Ralph's Industrial Electronic Supplies. The company has grown from a single location to a regional network of seven to eight branches spanning more than 80,000 square feet of combined sales and warehouse space. Ownership details and founder names are not disclosed in public materials.
+
+The business functions as a diversified full-line industrial electronic distributor, representing products from over 300 manufacturers. Its catalog spans components, tools, and wireless condition-monitoring hardware such as VT1 vibration sensors and wireless nodes that connect to cloud-based IIoT platforms. In addition to product supply, the company provides value-added services including vendor-managed inventory programs and on-site or facility-based product training for customer teams.
+
+Customers are industrial operations across the Gulf South region that require electrical, electronic, and maintenance-related supplies. The distributor's vibration-monitoring kits and remote-monitoring capabilities target plants seeking to avoid unplanned downtime by scheduling repairs based on real-time asset health data.
+
+The company states that its founding principle remains a commitment to strong, honest, and conscientious service, emphasizing a large, continuously trained sales force dedicated to customer satisfaction.
+
+## Known for
+- Over 300 manufacturer lines stocked across 80,000+ sq ft of regional inventory
+- Vendor-managed inventory programs
+- On-site and in-house product training and education
+- Wireless vibration monitoring and IIoT remote-monitoring solutions
+
+## Capabilities
+- Industrial electronic distribution
+- Vendor managed inventory
+- Product training and education
+- Vibration monitoring solutions
+- IIoT remote monitoring
+- Wireless sensor deployment
+
+## Industries
+- Industrial
+- Manufacturing
+- Maintenance and reliability
+
+## Equipment
+- VT1 vibration sensors
+- Wireless nodes for condition monitoring
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Founded:** 1945
+- **Headquarters:** Lafayette, Louisiana
+
+<details><summary>Sources</summary>
+
+- Founded 1945 -> /about-us
+- 7-8 locations, 80,000+ sq ft -> / and /about-us
+- 300+ manufacturers -> / and /about-us
+- Distributor business model -> /
+- Services: VMI, Education & Training -> / and /services
+- Vibration monitoring, IIoT, VT1 sensors, wireless nodes -> /
+- Headquarters Lafayette, LA -> db
+</details>
+
+---
+
+# Randy's Booth Co Inc.
+
+**Old description:** Randy's Made was cited in the 2024 Minnesota Manufacturing Awards as a Manufacturer of the Year. Bert Kissoondath is CEO of Randy’s Booth Co. Inc. His father, Randy, started building restaurant booths after immigrating to the U.S. from
+
+## About
+Randy's Booth Co. Inc. operates from Crystal, Minnesota, a northwest suburb of Minneapolis. The business traces its roots to the 1970s when Randy Kissoondath, an immigrant from Trinidad and Tobago, began building restaurant booths and established a national reputation through word of mouth. After a hiatus, Randy restarted the company at age 58, and his son Bert Kissoondath, now CEO, took full ownership following his father's sudden death in 2009. The firm has remained family-owned through two generations.
+
+The company manufactures custom hospitality furnishings — booths, chairs, stools, tables, banquettes, and headboards — from Northern Hardwoods including cherry, ash, oak, and maple. A team of 20 craftspeople works in a renovated facility on two acres that the company moved into in September 2017. The building provides 20-foot ceiling clearance, a loading dock, a showroom, and combined office and production space that Bert credits for improved throughput and profitability.
+
+Designers, architects, and builders across the United States specify Randy's Booth for restaurant, lounge, healthcare, corporate office, and residential projects. Long-standing accounts include hotel chains such as Hyatt and Perkins, and local landmarks like Mancini's Char House, Nye's, and O'Gara's. Recent work includes custom booths and furnishings for the Nova Restaurant Group's Hazelwood Food & Drink and multiple concepts for restaurateurs Kam Talebi and Luke Derheim.
+
+Bert Kissoondath says the company was built on his father's insistence that everything be handmade and that pride in workmanship shows in the finished product. That philosophy earned the firm the 2024 Minnesota Manufacturer of the Year award and the SBA's Minnesota Family Owned Business of the Year honor. Clients cite the team's integrity, on-time delivery, budget adherence, and willingness to value-engineer as reasons they return.
+
+## Known for
+- Second-generation family ownership with hands-on leadership
+- Full design-through-installation capability for custom hospitality furnishings
+- National client base built on word-of-mouth reputation since the 1970s
+- 2024 Minnesota Manufacturer of the Year and SBA Family Owned Business of the Year
+
+## Capabilities
+- Custom booth manufacturing
+- Chair manufacturing
+- Stool manufacturing
+- Table and base manufacturing
+- Banquette fabrication
+- Headboard fabrication
+- Woodworking with Northern Hardwoods
+- Custom furniture design
+- Installation services
+- Value engineering
+- Project management
+
+## Industries
+- Restaurants
+- Lounges
+- Healthcare
+- Corporate Offices
+- Residential
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1970s (original); 2009 (restart under Bert Kissoondath)
+- **Employees:** 20
+- **Ownership:** Family-owned
+- **Headquarters:** Crystal, Minnesota
+
+<details><summary>Sources</summary>
+
+- Location: Crystal, Minnesota -> /about-us
+- Founder: Randy Kissoondath, immigrant from Trinidad and Tobago, started in 1970s -> /about-us
+- CEO: Bert Kissoondath (son), took over after father's death in 2009 -> /about-us
+- Family-owned business -> /about-us
+- Products: custom booths, chairs, stools, tables, banquettes, headboards -> /
+- Materials: Northern Hardwoods (Cherry, Ash, Oak, Maple) -> /
+- Employee count: 20 -> /about-us
+- Facility: 2 acres, 20-foot ceilings, loading dock, showroom, moved September 2017 -> /about-us
+- Industries served: restaurants, lounges, healthcare, corporate offices, residential -> /
+- Clients: Hyatt, Perkins, Mancini's Char House, Nye's, O'Gara's, Nova Restaurant Group (Hazelwood), Kam Talebi, Luke Derheim -> /, /about-us
+- Awards: 2024 Minnesota Manufacturer of the Year, SBA Minnesota Family Owned Business of the Year -> /, /about-us
+- Philosophy: handmade quality, pride in workmanship -> /about-us
+- Client testimonials on integrity, on-time delivery, budget adherence, value engineering -> /
+</details>
+
+---
+
+# Ray Brothers Inc
+
+**Old description:** With several metal roof profiles, custom fabrication capabilities, and offering only the industries best prefinished paint systems let Ray Bros., Inc. assist you on planning your next metal roof and wall system project.
+
+## About
+Ray Brothers Inc., doing business as Ray Bros., Inc., operates from New Orleans, Louisiana. The company's founding year and ownership structure are not publicly disclosed in the available sources.
+
+The firm specializes in architectural sheet metal fabrication, producing structural panels (including the MT240 profile), architectural panels, and framing products. Its shop offers custom fabrication, waterjet cutting, and press forming, and it also provides commercial general contracting, material sales, and project planning, estimating, and design services. No facility size, headcount, or annual volume figures are published.
+
+Ray Bros. serves commercial, institutional, and public-sector clients across the Gulf Coast. Completed projects include re-roofing the Nashville Avenue Terminal at the Port of New Orleans, retro-framing the Plaquemines Parish Council Building, copper roofing for the Old Algiers Court House and Holy Name of Mary Catholic Church, and roof retrofits for Fifth Ward Elementary, Slidell Government Tower, and the Louisiana Avenue Wharf.
+
+## Known for
+- Multiple metal roof profiles
+- Custom fabrication capabilities
+- Industry-leading prefinished paint systems
+- Waterjet custom cutting
+- In-house press forming
+
+## Capabilities
+- Custom Fabrication
+- Waterjet Custom Cutting
+- Press Forming
+- Commercial General Contracting
+- Material Sales
+- Project Planning, Estimating and Design
+- Structural Panels (MT240)
+- Architectural Panels
+- Framing Products
+
+## Industries
+- Commercial construction
+- Government/Municipal
+- Education
+- Religious institutions
+- Port/Marine facilities
+
+## Equipment
+- Waterjet cutting system
+- Press
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** New Orleans, Louisiana
+
+<details><summary>Sources</summary>
+
+- Headquarters in New Orleans, Louisiana -> db (hq_city, hq_state_label) and homepage
+- Architectural sheet metal fabrication -> homepage
+- Structural panels MT240, architectural panels, framing products -> homepage
+- Custom fabrication, waterjet cutting, press forming -> homepage
+- Commercial general contracting, material sales, project planning/estimating/design -> homepage
+- Project examples: Port of New Orleans, Plaquemines Parish Council Building, Old Algiers Court House, Holy Name of Mary Catholic Church, Fifth Ward Elementary, Slidell Government Tower, Louisiana Avenue Wharf -> homepage
+- Multiple metal roof profiles, custom fabrication capabilities, prefinished paint systems -> description
+</details>
+
+---
+
+# Razorback Equipment Company
+
+**Old description:** Welcome to Razorback Equipment, the industry leader in manufacturing cutting-edge slicing equipment for industrial meat packing plants. With a relentless focus on innovation, precision, and efficiency, we revolutionize the way meat is processed, delivering exceptional solutions that meet the dynamic demands of the industry.At Razorback, we harness the power of advanced technology and visionary design to create slicing equipment that sets new benchmarks in performance. Our machines are meticulously engineered to flawlessly slice a wide range of meat products, from tender cuts to robust portions, with unparalleled accuracy and consistency. We understand that every cut matters, and our equipment ensures that you achieve the desired thickness, meeting the exacting standards of your customers.Safety, hygiene, and ease of maintenance are at the core of our equipment design. We prioritize the well-being of your employees and uphold impeccable food processing standards by adhering to rigorous industry regulations. Our machines not only enhance the reputation of your meat packing plant but also maximize operational efficiency by minimizing downtime due to maintenance.With a diverse product range, we offer slicing solutions tailored to different production capacities and specific requirements. Whether you need fully automated slicers for high-volume operations or semi-automatic and manual slicers for more specialized needs, Razorback has you covered. Our goal is to empower your meat processing facility to optimize productivity and achieve unparalleled success.We invite you to explore our website, where you'll find detailed information about our state-of-the-art slicing equipment, testimonials from our satisfied customers, and a glimpse into our commitment to innovation and quality. Feel free to reach out to our knowledgeable team, who are ready to assist you in finding the perfect slicing solution for your unique needs.Experience the future of meat processing with Razorback Equipment, where precision, efficiency, and excellence converge to redefine industry standards.
+
+## About
+Razorback Equipment Company operates from Howell, Michigan, where it designs and builds slicing equipment for industrial meat packing plants. The company has not disclosed its founding year, ownership structure, or the names of its founders.
+
+The company produces a line of slicing machines that includes the Model C, Model R, Pepperoni Slicer, Interleaver, Slice and Weigh Jump Conveyor, and Meat Stacker. Its range spans fully automated slicers for high-volume operations as well as semi-automatic and manual units for specialized needs. The equipment is engineered to handle a variety of meat products with an emphasis on consistent slice thickness, safety, hygiene, and ease of maintenance. No figures for facility size, employee count, or annual production volumes are published.
+
+Razorback serves industrial meat packing plants and meat processing facilities. Its customers are typically large-scale food processing operations that require automated or semi-automated slicing, interleaving, weighing, and stacking solutions. The company does not name specific clients in its public materials.
+
+Razorback states that its equipment is designed around safety, hygiene, and ease of maintenance to minimize downtime and meet rigorous food processing regulations. The company says it focuses on advanced technology and visionary design to deliver precision and efficiency for meat processing operations.
+
+## Known for
+- Safety, hygiene, and ease of maintenance at the core of equipment design
+- Fully automated, semi-automatic, and manual slicers for varied production capacities
+- Advanced technology and visionary design for precision and consistency
+- Minimized downtime through maintenance-friendly design
+
+## Capabilities
+- Industrial meat slicer manufacturing
+- Automated slicing system design
+- Food processing equipment engineering
+- Custom slicing solution development
+- Interleaving equipment production
+- Slice and weigh conveyor manufacturing
+- Meat stacking equipment production
+
+## Industries
+- Meat packing
+- Meat processing
+- Industrial food processing
+
+## Equipment
+- Razorback Model C
+- Razorback Model R
+- Razorback Pepperoni Slicer
+- Razorback Interleaver
+- Razorback Slice and Weigh Jump Conveyor
+- Razorback Meat Stacker
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Howell, Michigan
+
+<details><summary>Sources</summary>
+
+- Headquarters: Howell, Michigan -> db
+- Product models: Model C, Model R, Pepperoni Slicer, Interleaver, Slice and Weigh Jump Conveyor, Meat Stacker -> page '/'
+- Industry served: industrial meat packing plants and meat processing facilities -> page '/'
+- Offers fully automated, semi-automatic, and manual slicers -> page '/'
+- Design focus on safety, hygiene, and ease of maintenance -> page '/'
+- Equipment minimizes downtime due to maintenance -> page '/'
+- Provides tailored slicing solutions for different production capacities -> page '/'
+- Manufactures slicing equipment -> page '/'
+</details>
+
+---

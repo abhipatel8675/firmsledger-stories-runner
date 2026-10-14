@@ -1,0 +1,679 @@
+# Foodberry
+
+**Old description:** Foodberry is an innovation company that partners with leading brands to create better bite-sized snacks that are delicious, wholesome, and convenient.
+
+## About
+Foodberry is headquartered in Boston, Massachusetts. The company originated from research at Harvard and MIT, where founder David Edwards — a Harvard professor and serial entrepreneur — developed a plant-based coating technology to tackle two food-system problems: making convenient snacks nutritious and cutting plastic waste. The leadership team includes CEO Marty Kolewe (PhD, MIT/Johns Hopkins), board chair Stefan Catsicas (former Nestlé CTO), and operations head Jose Albelo. (No founding year disclosed.)
+
+Foodberry runs a 42,000 sq ft, SQF Level 2–certified facility in Boston offering co-manufacturing, product development, and technology transfer. Its platform transforms foods and beverages — fruit, ice cream, yogurt, smoothies — into bite-sized, edible-coated snacks. The R&D team works with partners from concept to scale-up and can integrate the coating process into existing lines.
+
+The company serves food and beverage brands in categories such as fruit snacks, frozen desserts, dairy, and convenience foods. Named partners include Bel Group (cheese and fruit-snack lines), Van Leeuwen (ice cream bonbons), Gopuff (ice cream bubbles), and Cape Cod Select (frozen smoothie bites).
+
+Foodberry’s mission is to “make the future of snacking as nutritious, delicious and good for the planet as a natural berry.” Its differentiators are a proprietary, no-mess coating that reduces packaging, an end-to-end innovation model covering R&D through full-scale production, and GFSI-recognized food safety certification.
+
+## Known for
+- Proprietary plant-based coating that turns any food or beverage into a bite-sized, self-contained snack
+- 42,000 sq ft SQF Level 2 certified co-manufacturing facility in Boston
+- Harvard/MIT-originated R&D team with deep food-science expertise
+- Technology transfer for seamless integration into partner production lines
+- Established partnerships with major brands including Bel Group, Van Leeuwen, and Gopuff
+
+## Capabilities
+- Product Development
+- Co-Manufacturing
+- Technology Transfer
+
+## Industries
+- Food & Beverage
+- Snack Foods
+- Frozen Desserts
+- Dairy & Cheese
+- Fruit & Vegetable Processing
+- Convenience Foods
+
+## Certifications
+- SQF Level 2
+- GFSI
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Headquarters:** Boston, Massachusetts
+
+<details><summary>Sources</summary>
+
+- Boston, Massachusetts headquarters -> db
+- Developed in labs at Harvard and MIT -> /about-us
+- Founder David Edwards, professor at Harvard -> /about-us
+- CEO Marty Kolewe, PhD Scientist, MIT, Johns Hopkins -> /about-us
+- Board Chair Stefan Catsicas, former Nestle CTO -> /about-us
+- Head of Operations Jose Albelo -> /about-us
+- Proprietary plant-based coating technology -> /
+- 42,000 sq ft production facility in Boston, MA -> /
+- GFSI / SQF Level 2 certified -> /
+- Services: Product Development, Co-Manufacturing, Tech Transfer -> /
+- Partnerships with Bel Group, Van Leeuwen, Gopuff, Cape Cod Select -> /
+- Mission: make future of snacking nutritious, delicious, good for planet -> /about-us
+- SQF certification -> db
+- Company type: Contract manufacturer / job shop -> /
+- Makes products: yes -> /
+</details>
+
+---
+
+# Foodservice Equipment Agents
+
+**Old description:** Founded in 1996, F.E.A. represents the industries' highest quality manufacturers
+
+## About
+Foodservice Equipment Agents (F.E.A.) was founded in 1996 in Placentia, California, as a manufacturer's representative firm serving the foodservice equipment market across California and Nevada. The company was established to connect commercial kitchen operators with high-quality equipment brands.
+
+F.E.A. represents a portfolio of equipment lines including Prática high-speed ovens, Hestan grills, Dry Ager aging cabinets, Mibrasa charcoal ovens, and others. In 2016 the firm launched a sister company, F.E.A. Service, which provides delivery, installation, warehousing, and distribution for several manufacturers. Its technicians are factory trained and authorized, using OEM parts to service brands such as Continental Refrigerator, Crown Verity, Electro Freeze, Federal Industries, Henkelman, Irinox, Moffat, Pizza Master, and Robot Coupe. The company also operates demonstration kitchens in Southern California, Northern California, and Las Vegas for hands-on equipment evaluation.
+
+The firm's customers include restaurants, hotels, institutional kitchens, and foodservice dealers throughout California and Nevada. By representing manufacturers such as Prática, Hestan, Dry Ager, and Mibrasa, F.E.A. supplies equipment for cooking, refrigeration, food preparation, and specialty applications.
+
+F.E.A. states its mission is to be the food equipment manufacturer representative in its territory, emphasizing excellence, innovation, and partnerships. The company highlights its NATE and EPA Universal certifications, factory-authorized service capability, and local demo kitchens as key differentiators.
+
+## Known for
+- Factory-trained, authorized technicians using OEM parts
+- Demo kitchens in Southern California, Northern California, and Las Vegas
+- Sister company F.E.A. Service provides delivery, installation, warehousing, and distribution
+- NATE and EPA Universal certifications
+- Represents a curated portfolio of high-quality foodservice equipment brands
+
+## Capabilities
+- Manufacturer representation
+- Equipment demonstration
+- Delivery
+- Installation
+- Warehousing
+- Distribution
+- Factory-authorized service
+- OEM parts service
+- NATE certified service
+- EPA Universal certified service
+
+## Industries
+- Foodservice
+
+## Equipment
+- Prática High Speed Ovens
+- Hestan Grills
+- Dry Ager
+- Mibrasa
+- Continental Refrigerator
+- Crown Verity
+- Electro Freeze
+- Federal Industries
+- Henkelman
+- Hestan Commercial
+- Irinox
+- Moffat
+- Pizza Master
+- Robot Coupe
+
+## Certifications
+- NATE
+- EPA Universal
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Founded:** 1996
+- **Headquarters:** Placentia, California
+
+<details><summary>Sources</summary>
+
+- Founded in 1996 -> db
+- Headquarters in Placentia, California -> db
+- Manufacturer's representative for foodservice equipment -> /
+- Sister company F.E.A. Service started in 2016 -> /
+- NATE and EPA Universal certifications -> /
+- Factory trained and authorized technicians using OEM parts -> /
+- Delivery, installation, warehousing, and distribution services -> /
+- Demo kitchens in Southern California, Northern California, and Las Vegas -> /about
+- Represents brands: Prática High Speed Ovens, Hestan Grills, Dry Ager, Mibrasa -> /
+- Services brands: Continental Refrigerator, Crown Verity, Electro Freeze, Federal Industries, Henkelman, Hestan Commercial, Irinox, Moffat, Pizza Master, Robot Coupe -> /
+- Mission: premier food equipment manufacturer representative in California and Nevada -> /
+- Values: Excellence, Innovation, Partnerships -> /
+</details>
+
+---
+
+# Forest Park Sheet Metal
+
+**Old description:** Forest Park Sheet Metal has provided quality metal fabrication services to customers for over 70 years by providing them with the professional care they deserve. Get in touch today to learn more about our Metal Fabrication Services.
+
+## About
+Forest Park Sheet Metal, based in Atlanta, Georgia, has delivered metal fabrication services for more than 70 years. The company, known as Forest Park Sheet Metal LLC, does not publish its exact founding year, ownership details, or founder names.
+
+The shop’s core capabilities include metal forming, shearing, laser cutting, and custom fabrication, allowing it to turn customer concepts into finished parts. No figures for facility square footage, employee count, or production volumes are available publicly.
+
+While the company serves the greater Atlanta area, it does not specify target industries or provide customer case studies on its website.
+
+The firm’s stated differentiators are professionalism, excellence, and timeliness, underpinned by a commitment to honest, efficient work, open communication, and exceptional service throughout each project. Its mission emphasizes making customers’ ideas a reality through high-quality services and transparent communication.
+
+## Known for
+- Over 70 years of experience
+- Honest and efficient work
+- Open communication channels
+- Professionalism, excellence, timeliness
+
+## Capabilities
+- Metal forming
+- Metal shearing
+- Laser cutting
+- Custom fabrication
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Atlanta, Georgia
+
+<details><summary>Sources</summary>
+
+- Location: Atlanta, Georgia -> db
+- Over 70 years in business -> /
+- Services: metal forming, metal shearing, laser cutting, custom fabrication -> /services
+- Company name: Forest Park Sheet Metal LLC -> /about
+- Address: 438 Circle 85, Atlanta GA 30349 -> /
+- Mission: honest & efficient work, open communication, exceptional service -> /
+- Differentiators: professionalism, excellence, timeliness -> /about
+</details>
+
+---
+
+# Forj Medical
+
+**Old description:** We’re your all-in, hands-on 100% medical focused CDMO partner, whether you need high-volume global manufacturing or custom full system development.
+
+## About
+Forj Medical is headquartered in Arden Hills, Minnesota, with additional facilities in St. Paul and Vadnais Heights. The company operates as a contract design and manufacturing organization (CDMO) focused exclusively on medical devices. Founding year and ownership details are not publicly disclosed.
+
+Forj Medical provides end-to-end contract design and manufacturing services for medical devices. Its capabilities span precision molding, printed circuit board assembly, automation, cable assembly, cleanroom operations, polymer and metal 3D printing, and supply chain management. The company also offers design and development services including full system development, electromagnetic sensor design, subassembly design, design for manufacturing and automation, prototyping, and process validation. With 450,000 square feet of manufacturing space across six global facilities, Forj assembles over 250 million devices and components annually and has accumulated more than four million hours of medical device engineering experience.
+
+Forj Medical serves medical device original equipment manufacturers ranging from startups to Fortune 500 companies. Its customer base includes companies developing fluid and gas management systems, surgical energy devices, optical systems, electromagnetic navigation sensors, stimulation and active wearables, and consumable components. Notable collaborations include work with Conavi Medical on a surgical imaging device and with Vocxi Health to miniaturize a breath-based cancer detection platform.
+
+Forj Medical positions itself as a fully integrated, medical-only CDMO that combines design, manufacturing, and operational support under one roof. The company emphasizes its vertically integrated in-house capabilities, global footprint with U.S. centers of excellence and near-shore/offshore options, and a quality system certified to ISO 13485 with five FDA establishment registrations.
+
+## Known for
+- 100% medical-focused contract design and manufacturing organization
+- Vertically integrated in-house capabilities spanning design, molding, PCBA, automation, and cleanroom assembly
+- Global footprint of six facilities totaling 450,000 square feet with U.S., near-shore, and offshore options
+- ISO 13485 certified with five FDA establishment registrations
+- Scalable production from prototype quantities to 10 million units annually
+
+## Capabilities
+- Precision Molding
+- PCBA Manufacturing
+- Automation
+- Cable Assembly
+- Cleanroom Operations
+- Polymer 3D Printing
+- Metal 3D Printing
+- Supply Chain Management
+- Service & Maintenance
+- Sustaining Engineering
+- Packaging & Shipping
+- Full Medical Device System Development
+- Custom Electromechanical System Design
+- Electromagnetic Sensor & Assembly Design
+- Subassembly & Component Design
+- Design for Excellence (DFX)
+- Design for Manufacturing
+- Design for Automation & Scale
+- Custom Prototyping
+- Process & Test Development
+- Quality Management System (QMS)
+- ISO 13485 Certification
+- FDA Registration
+- Vital Link Portal (Project Management & Compliance)
+
+## Industries
+- Medical Device Manufacturing
+- Fluid & Gas Management
+- Surgical Energy
+- Optical Systems
+- Electromagnetic Navigation Systems & Sensors
+- Stimulation & Active Wearables
+- Consumables & Components
+
+## Certifications
+- ISO 9001
+- ISO 13485
+- RoHS
+- FDA Establishment Registration
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Headquarters:** Arden Hills, Minnesota
+
+<details><summary>Sources</summary>
+
+- Headquarters in Arden Hills, MN -> /
+- Additional facilities in St. Paul and Vadnais Heights, MN -> /
+- 250+ million devices/components assembled per year -> /
+- 4+ million combined hours of medical device engineering -> /
+- 450,000 sq ft manufacturing space across 6 global facilities -> /
+- Capabilities: Precision Molding, PCBA Manufacturing, Automation, Cable Assembly, Cleanrooms, Polymer & Metal 3D Printing -> /
+- Design services: Full Medical Device System Development, Custom Electromechanical System Design, Electromagnetic Sensors & Assemblies, DFX, Prototyping -> /
+- Industries: Fluid & Gas Management, Surgical Energy, Optical Systems, Electromagnetic Navigation Systems & Sensors, Stimulation & Active Wearables, Consumables & Components -> /
+- Customer examples: Conavi Medical (Tom Looby), Vocxi Health, Fortune 500 Medical Device Manufacturer -> /
+- Certifications: ISO 13485, five FDA Establishment Registrations, ISO 9001, CE Mark, RoHS -> /
+- Scalable production from 10 units to 10 million -> /
+- Vertically integrated in-house capabilities -> /
+- Vital Link Portal for 24/7 project management and compliance access -> /
+- Company type: CDMO (Contract Design and Manufacturing Organization) -> /
+- Materials: Polymers & Metals -> /
+- Minimum order: 10 units -> /
+</details>
+
+---
+
+# FormTight, Inc.
+
+**Old description:** I have been running production for our company since 2022. Even in just these few years, I cannot recall how many times FormTight has come through for us. They have been accommodating, flexible, and understanding with each order and revision we have placed with them. They have also gone above and beyond in committing resources to our product, being willing to spend additional time with our R & D team to assure and improve quality. Their service and quality have given me the peace of mind that I am confident we would not receive elsewhere. Vendors like FormTight are hard to come by. They have been a valuable partner in our success, and I am confident that will continue to be the case moving forward.
+
+## About
+FormTight, Inc. was founded in 1992 and is headquartered in Denver, Colorado. The company operates as a custom plastic thermoforming specialist, though the input does not specify its ownership structure or founders by name.
+
+The company provides thin- and thick-gauge thermoforming for food, medical, industrial, and retail packaging. All stages—consultation, design, prototyping, mold manufacturing, 5-axis CNC routing, and production—are performed in-house at its Denver facility. It works with materials including PET, PVC, ABS, HIPS, HDPE, PP, PETG, and polycarbonate. No facility size, headcount, or annual volume figures are disclosed.
+
+FormTight serves customers ranging from small manufacturers to larger firms across the food, medical, industrial, and retail sectors. Named references include Innovative Brick Systems (Denver), Dazzling Displays, Taylor Tools (Denver), Camerons Products (Colorado Springs), Arm Automation (Austin, TX), and an inventor in Portland, CT.
+
+FormTight emphasizes attention to detail, competitive pricing, on-time delivery, and high-quality finished parts. It operates an in-house grinding system that recycles scrap back to suppliers, and highlights its ability to select alternative tooling approaches (such as male versus female molds) to solve difficult part geometries.
+
+## Known for
+- All process stages (design through production) under one roof in Denver
+- In-house scrap grinding and closed-loop recycling with material suppliers
+- 5-axis CNC routing for trim and secondary operations
+- Rapid prototyping turnaround for custom packaging
+- Tooling expertise including male/female mold selection
+
+## Capabilities
+- Thin gauge thermoforming
+- Thick gauge thermoforming
+- Custom packaging design
+- Plastic prototyping
+- Mold manufacturing
+- 5-axis CNC routing
+- In-house scrap grinding and recycling
+- Material selection and processing (PET, PVC, ABS, HIPS, HDPE, PP, PETG, PC)
+- Tooling fabrication
+- Consultation and design support
+- Production thermoforming
+
+## Industries
+- Food packaging
+- Medical packaging
+- Industrial thermoforming
+- Retail packaging
+
+## Equipment
+- 5-axis CNC router
+- In-house grinding system
+- Tooling foundry (partner)
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1992
+- **Headquarters:** Denver, Colorado
+
+<details><summary>Sources</summary>
+
+- Founded in 1992, headquartered in Denver, CO -> /about-us
+- Specializes in thin and thick gauge thermoforming for food, medical, industrial, retail -> /about-us
+- All stages in-house: consultation, design, prototyping, mold manufacturing, production, 5-axis CNC routing -> /about-us
+- Materials: PET, PVC, ABS, HIPS, HDPE, PP, PETG, PC -> / (contact form) and /services
+- In-house grinding operation for scrap recycling -> /about-us
+- Customer examples: Innovative Brick Systems, Dazzling Displays, Taylor Tools, Camerons Products, Arm Automation, Steven R. Knight -> /about-us testimonials
+- Over 30 years experience -> /about-us
+- Capabilities: custom packaging design, thin gauge, thick gauge, prototyping, mold manufacturing, 5-axis routing -> /services
+- Focus on attention to detail, competitive pricing, on-time delivery, high-quality -> /about-us
+- Tooling fabrication capability, male vs female tool selection -> /about-us testimonial (Stephen Grupinski)
+</details>
+
+---
+
+# Formel Industries Packaging
+
+**Old description:** – Purchasing ManagerLeading Manufacturer of Private Label Oils
+
+## About
+Formel Industries Packaging operates from Franklin Park, Illinois, producing flexible packaging for a range of consumer and industrial markets. The company's founding year and ownership structure are not publicly disclosed.
+
+The company manufactures printed roll stock, pre-formed pouches, laminated films, heat-transfer labels, Inno-Lok® pre-zippered films, lidding films, cellophane and polypropylene bags, stand-up pouches, and vertical form-fill-seal and flow-wrap packaging. It also supplies high-moisture-barrier films and oriented polypropylene (OPP and BOPP) films. Production capabilities include a 10-color W&H Miraflex press installed in 2023 and a regenerative thermal oxidizer for emissions control.
+
+Customers span medical device manufacturing, confectionery, pail production, private-label oils, and food packaging. A senior buyer at a large medical corporation noted the firm's ISO 13485 and FDA compliance, while a VP of procurement at a American confectioner and a purchasing manager at a private-label oil producer cited reliability and responsiveness.
+
+Formel emphasizes environmental responsibility, highlighting its regenerative thermal oxidizer and a stated sustainability vision. Customers consistently reference on-time delivery, quality ratings, and the ability to accommodate rush orders and last-minute changes.
+
+## Known for
+- 10-color W&H Miraflex press for high-definition printing
+- Regenerative thermal oxidizer for emissions control
+- ISO 13485 certification for medical device packaging
+- Stated commitment to environmental sustainability
+
+## Capabilities
+- Flexible packaging manufacturing
+- Printed roll stock production
+- Pre-formed pouch making
+- Film lamination
+- Heat transfer labeling
+- Inno-Lok® pre-zippered film application
+- Lidding film production
+- Cellophane and polypropylene bag making
+- Stand-up pouch manufacturing
+- Vertical form-fill-seal packaging
+- Flow wrap packaging
+- High moisture barrier film production
+- Oriented polypropylene (OPP/BOPP) film production
+- Regenerative thermal oxidation (emissions control)
+- 10-color rotogravure/flexographic printing
+
+## Industries
+- Medical devices
+- Confectionery
+- Pail manufacturing
+- Private label oils
+- Food packaging
+
+## Equipment
+- Regenerative Thermal Oxidizer
+- 10-Color W&H Miraflex Press
+
+## Certifications
+- ISO 13485
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Franklin Park, Illinois
+
+<details><summary>Sources</summary>
+
+- Location: Franklin Park, Illinois -> db
+- Certification: ISO 13485 -> db
+- Products: printed roll stock, pre-formed pouches, laminated films, heat transfer labels, Inno-Lok pre-zippered films, lidding films, cellophane & polypropylene bags, stand-up pouches, VFFS packaging, flow wrap packaging, high moisture barrier film, OPP/BOPP films -> /
+- Equipment: Regenerative Thermal Oxidizer -> / (news July 2023)
+- Equipment: 10-Color W&H Miraflex Press -> / (news September 2023)
+- Industries served: medical, confectionery, pail manufacturing, private label oils, food -> / (testimonials)
+- Environmental commitment: regenerative thermal oxidizer, sustainability vision -> / (news July 2023, January 2024)
+- Customer testimonials: on-time delivery, ISO 13485/FDA compliance, rush order flexibility -> /
+</details>
+
+---
+
+# Fortier, Inc.
+
+**Old description:** A well-organized layout is the foundation of a successful business. Fortier, Inc. specializes in space optimization and traffic flow layout design to ensure your customers and staff easily move through your space. Whether it’s a
+
+## About
+Based in Conway, Arkansas, Fortier, Inc. operates as a commercial design and equipment supply firm specializing in space optimization and traffic flow layout design. The company's founding year and ownership structure are not publicly disclosed, but it presents itself as a local partner for businesses seeking to improve customer and staff movement through their facilities.
+
+Fortier provides turnkey services that span commercial interior design, store layout planning, CAD design, equipment sales consulting, warehousing, and installation. The firm focuses on creating functional environments for retail and food-service clients, handling projects from initial concept through final installation, and supplies equipment such as shelving, refrigeration, and display fixtures.
+
+Its customer base includes convenience stores, liquor stores, and grocery departments, where the company designs layouts for product placement, customer flow, and operational efficiency. Fortier also serves broader commercial interior projects requiring integrated equipment supply and installation, emphasizing a local presence with sales offices ready to assist.
+
+The company emphasizes professionalism, excellence, and timeliness as core differentiators, promoting a reputation for responsive and generous service. A turnkey approach and local sales offices are highlighted as key advantages for clients seeking a single point of contact for design, equipment, and installation.
+
+## Known for
+- Turnkey services covering design, equipment, and installation
+- Local sales offices for hands-on support
+- Commitment to professionalism, excellence, and timeliness
+- Responsive and generous service reputation
+- CAD design and equipment consulting capabilities
+
+## Capabilities
+- Turnkey services
+- Commercial design consulting
+- Store layout design
+- Convenience store design planning
+- CAD design
+- Equipment sales consulting
+- Warehousing installation
+- Commercial interiors design
+- Equipment supply
+
+## Industries
+- Convenience stores
+- Liquor stores
+- Grocery departments
+- Commercial interiors
+
+## Company details
+- **Company Type:** Installer / service company
+- **Headquarters:** Conway, Arkansas
+
+<details><summary>Sources</summary>
+
+- Headquarters: Conway, Arkansas -> db
+- Services: Turnkey services, commercial design consulting, store layout design, CAD design, equipment sales consulting, warehousing installation -> page /
+- Industries served: Convenience stores, liquor stores, grocery departments, commercial interiors -> page /
+- Differentiators: Professionalism, Excellence, Timeliness; Local and ready to help; Turnkey services -> page /
+- Company type: Commercial Design & Equipment Supply Company -> page /
+</details>
+
+---
+
+# Forum Plastics LLC
+
+**Old description:** Forum offers a full suite of assembly services in an ISO Class 7 cleanroom, producing 100,000-200,000 parts per month.
+
+## About
+Forum Plastics LLC operates from Watertown, Connecticut, where it was founded in 1992 as GM Tool & Forum Molding Inc. The business was consolidated under the Forum Plastics name in 2009 and became part of the Squadron Capital group of companies in 2016, which reinvests proceeds into technology upgrades.
+
+As a full-service contract manufacturer, Forum provides injection molding, micro molding, insert and over molding, cleanroom assembly in an ISO Class 7 environment, mold design and fabrication, machining, pad printing, laser marking, and rapid prototyping. The company runs a 101-person operation in a facility that added 10,000 square feet in 2015 and relocated to a new building in December 2025, producing 100,000 to 200,000 parts per month.
+
+Forum serves medical device and life science OEMs and startups, as well as industrial and military/defense customers. Its client base ranges from early-stage ventures needing prototype volumes to global original equipment manufacturers requiring full-scale commercialization support.
+
+The company emphasizes an engineering-based, customer-first approach, offering design-for-manufacturability guidance, project management, and quality systems certified to ISO 13485:2016 and ISO 14001:2015, with ITAR registration. Squadron Capital backing enables continuous investment in advanced equipment such as CT scanning, micro molding presses, and additive manufacturing.
+
+## Known for
+- ISO Class 7 cleanroom molding and assembly
+- Micro molding capability for parts as small as 0.005 in³
+- In-house mold design, fabrication, and repair with full-service tool room
+- ITAR registered for defense work
+- Rapid prototyping delivering parts in days, not months
+
+## Capabilities
+- Cleanroom assembly (ISO Class 7)
+- Injection molding
+- Insert molding
+- Over molding
+- Micro molding
+- Mold design & fabrication
+- CNC machining
+- EDM machining
+- Precision grinding & polishing
+- Pad printing
+- Laser marking
+- Quick-turn prototyping
+- Quality & metrology (CMM, VMM, CT scanning, FAI, IQ/OQ/PQ, PPAP, Gage R&R)
+- Engineering & program management
+- Design for manufacturability (DFM)
+- Kitting & sterile packaging (through partners)
+- Serialization services
+- Mold financing
+- MoldFlow simulation
+- Additive manufacturing (3D printing)
+- Automated inspection
+- CT scanning services
+
+## Industries
+- Medical devices
+- Life sciences
+- Industrial
+- Military/Defense
+
+## Equipment
+- BOY Mini Molders
+- Arburg Shuttle Press
+- Arburg Micro Molders
+- Arburg 220 & 270 Ton Molding Cells
+- Keyence IM
+- Keyence IL
+- CT Scanner
+- 3D Systems Printer
+- Filament 3D Printer
+- Additive Freeform 3D Printer
+- CNC machining centers
+- EDM machines
+- Precision grinding and polishing centers
+- Coordinate Measuring Machine (CMM)
+- Vision Measuring Machine (VMM)
+
+## Certifications
+- ISO 13485:2016
+- ISO 9001:2008
+- ISO 14001:2015
+- ITAR registration
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 1992
+- **Employees:** 101
+- **Ownership:** Squadron Capital group
+- **Headquarters:** Watertown, Connecticut
+
+<details><summary>Sources</summary>
+
+- Founded 1992 as GM Tool & Forum Molding Inc. -> /about-us
+- Headquartered in Watertown, Connecticut -> /about-us
+- Consolidated under Forum Plastics Inc. in 2009 -> /about-us
+- Sold to Squadron Capital in 2016 -> /about-us
+- ISO 13485:2016 certified -> /quality
+- ISO 9001:2008 certified -> /about-us
+- ISO 14001:2015 certified -> /about-us
+- ITAR registration achieved 2020 -> /about-us
+- ISO Class 7 cleanroom molding and assembly -> /capabilities
+- Produces 100,000-200,000 parts per month -> /
+- 101 employees overseen by Director of Operations -> /about-us
+- Serves medical, industrial, military/defense industries -> /
+- Micro molding capability down to 0.005 in³ -> /capabilities
+- In-house mold design, fabrication, and repair -> /capabilities
+- Rapid prototyping to production in days -> /
+- Engineering-based company with DFM support -> /capabilities
+- Equipment: BOY Mini Molders, Arburg presses, CT scanner, Keyence systems, 3D printers -> /about-us
+- Facility: 10,000 sq ft addition 2015, moved to new facility Dec 2025 -> /about-us
+</details>
+
+---
+
+# Four Engines Apparel
+
+**Old description:** Four Engines Apparel | Embroidery & Printing – Personalization & brand gear in Massachusetts
+
+## About
+Four Engines Apparel operates from a shop at 201B West Boylston Street in West Boylston, Massachusetts. The company was established in 2020 by Dave Keddy, who began the venture as a home-based operation focused on quality decorations and personal customer service. After building a customer base, Keddy moved the business out of his basement into its current dedicated facility.
+
+The shop provides apparel decoration services including embroidery, screen printing, custom patches, and heat transfers. Keddy brings over 17 years of experience in logo merchandising, having started in screen printing in 2012 after working in paper and plastic printing. The operation handles orders across various garment types and materials, producing branded gear for clients ranging from single pieces to larger runs.
+
+Customers include local small businesses, musical acts, sports teams, and event organizers. The company has produced custom hats for a Las Vegas show, embroidered jackets for a soccer season, and show shirts for Expedition Reptile, a performing group that washes garments weekly. Keddy emphasizes serving small companies that larger facilities often turn away due to low minimum quantities.
+
+The business was founded partly to fill a gap for low-quantity orders that larger print shops decline. A longer-term mission aims to partner with a local charity to fund community music programs, reflecting Keddy's background as a musician and the company's name, inspired by a drumming term. The owner cites a personal drive for consistency and attention to detail as core to the work.
+
+## Known for
+- Accepts low-quantity orders that larger facilities decline
+- Owner-operated with over 17 years in logo merchandising
+- Personal customer service and direct communication
+- Fast turnaround on tight deadlines
+- Showcases actual completed work rather than stock imagery
+
+## Capabilities
+- Embroidery
+- Screen Printing
+- Custom Patches
+- Heat Transfers
+- Logo Merchandising
+- Custom Apparel Decoration
+
+## Industries
+- Music and Entertainment
+- Small Business
+- Sports Teams
+- Event Merchandise
+- Reptile Shows
+- Community Organizations
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 2020
+- **Ownership:** Owner-operated
+- **Headquarters:** West Boylston, Massachusetts
+
+<details><summary>Sources</summary>
+
+- Founded 2020, home-based then shop in West Boylston, MA -> /
+- Owner Dave Keddy -> / (reviews)
+- Services: embroidery, screen printing, patches, transfers -> /
+- Over 17 years experience in logo merchandising, started screen printing 2012 -> /about
+- Accepts low-quantity orders larger facilities decline -> /about
+- Mission to help small companies and music programs -> /about
+- Custom hats for Las Vegas show -> / (review)
+- Jackets for soccer season -> / (review)
+- Show shirts for Expedition Reptile -> / (review)
+- Address: 201B W Boylston St, West Boylston, MA 01583 -> /
+- Phone and email -> /
+</details>
+
+---
+
+# Four Fields Furniture
+
+**Old description:** Four Fields Furniture is a small custom woodworking shop based in the Minneapolis-St. Paul area. Since 2014, owner Adam Bischoff has been building beautiful, heirloom-quality furniture one piece at a time. Working with solid hardwoods and wood-and-steel combinations, Four Fields specializes in custom hardwood dining tables, live-edge slab dining tables, coffee tables, side tables, desks, entryway benches, and more—each one designed to fit your space and reflect your personal style.
+
+## About
+Four Fields Furniture operates from West St. Paul, Minnesota, in the Twin Cities metro area. Founded in 2014 by Adam Bischoff, the family-owned shop began as a one-person custom woodworking studio focused on heirloom-quality pieces built from solid hardwoods.
+
+The shop produces made-to-order furniture including dining tables, live-edge slab tables, coffee tables, side tables, desks, entryway benches, sideboards, and buffets. It also fabricates wood-and-steel designs with steel bases made in-house, and builds custom religious items such as kneelers, altars, and credence tables. Materials span walnut, oak, cherry, ash, maple, mahogany, parota, and steel. Typical lead times run 8–14 weeks after design approval and a 50% deposit, with pricing from $1,000 for side tables up to $12,000 for dining tables. The shop also offers table refinishing and restoration services.
+
+Four Fields serves residential customers across the Twin Cities metro — Minneapolis, St. Paul, and surrounding suburbs — delivering and installing finished pieces directly to homes. Its religious-furniture work extends to churches and faith-based organizations in the region.
+
+The company emphasizes careful craftsmanship and attention to detail, aiming for pieces that feel built to last generations. It distinguishes itself through in-house steel fabrication, a collaborative design process, and a refinishing service that extends the life of existing furniture.
+
+## Known for
+- Family-owned and operated since 2014
+- In-house steel base fabrication for wood-and-steel furniture
+- Custom religious furniture (kneelers, altars, credence tables)
+- Table refinishing and restoration service
+- Delivery and setup across the Twin Cities metro area
+
+## Capabilities
+- Custom hardwood furniture manufacturing
+- Live-edge slab table fabrication
+- Wood and steel combination fabrication
+- In-house steel base fabrication
+- Table refinishing and restoration
+- Custom religious furniture fabrication (kneelers, altars, credence tables)
+- Furniture design and consultation
+- Delivery and installation in Twin Cities metro
+
+## Industries
+- Residential furniture
+- Custom woodworking
+- Religious furniture
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 2014
+- **Ownership:** Family-owned
+- **Headquarters:** West St Paul, Minnesota
+
+<details><summary>Sources</summary>
+
+- Company name and description -> db
+- Location: West St Paul, Minnesota -> db
+- Founded 2014, owner Adam Bischoff, family-owned -> /
+- Custom woodworking shop, heirloom-quality furniture -> /
+- Products: custom dining tables, live-edge slab tables, coffee tables, side tables, desks, entryway benches, sideboards, buffets, wood-and-steel designs -> /
+- Materials: walnut, oak, cherry, ash, maple, mahogany, parota, steel bases made in-house -> /
+- Lead time 8-14 weeks after design approval and deposit, 50% deposit -> /
+- Pricing ranges: dining tables $3,000–$12,000, coffee/side tables $1,000–$3,500 -> /
+- Table refinishing services -> /
+- Serves Twin Cities metro area (Minneapolis, St. Paul, suburbs) -> /
+- Custom religious furniture: kneelers, altars, credence tables -> /
+- Over 100 five-star Google reviews -> /
+- Workshop address: 8313 Delaney Circle East, Inver Grove Heights MN 55076 -> /
+- Business address: 149 Southwind Lane, West St Paul, MN -> /
+- Family owned and operated since 2014 -> /about
+- Free quote with ballpark price -> /
+</details>
+
+---

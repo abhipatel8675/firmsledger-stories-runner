@@ -427,7 +427,88 @@ The company emphasizes flexibility, offering made-to-order modifications to its 
 
 # Route 66 Controls LLC
 
-_skipped: 'NoneType' object has no attribute 'group'_
+**Old description:** Fast delivery of electrical/mechanical R&D designs, simulations, finite element analysis, and prototypes of your ideas.  We have a group of top PhD design engineers.  Consider us your remote R&D.  Since 2005, we have designed, developed, and transferred dozens of high-tech power converter systems including motor drives, dc/dc, inverters, industrial UPS systems, battery chargers, automotive traction drives, and aerospace ground support and onboard chargers/drives.  Some of which you might have had interactions with.
+
+## About
+Route 66 Controls LLC was founded in 2005 in Cuba, Missouri, by Dr. Pourya Shamsi, who serves as CEO and lead design engineer. The company is structured as a design-engineer-owned firm, with its principal engineers holding ownership stakes, a model the firm says keeps overhead low and aligns incentives with project outcomes.
+
+The firm provides end-to-end R&D for power electronics and motor drives, covering electrical and mechanical design, finite-element simulation, embedded software development, prototyping, and testing. Its engineers work with tools such as Altium, Ansys, Matlab, and SolidWorks to deliver custom converters up to 2 MW, 2,000 A, and 12 kV, and can prototype systems up to 5 MW at IP68 ratings. In-house test capacity reaches 500 kW for converters and 300 kW for drives, supplemented by a local machining partner for larger mechanical structures. The company produces hundreds of prototypes annually but does not pursue high-volume manufacturing.
+
+Customers span aerospace (ground-support and onboard chargers), automotive (traction drives), industrial UPS, and emerging airship and eVTOL platforms. A noted reference project is the energy-management and battery-charger system powering LTA's airship. The firm also serves startups needing low-cost prototypes for fundraising and established OEMs seeking manufacturing-ready designs for certification.
+
+Route 66 Controls differentiates itself through full intellectual-property transfer — including design files, code, patents, and training — under NDA protection. Its PhD-level engineers, many of whom hold university faculty positions, bring federally funded research experience (NSF, DOE, DoD) to commercial projects, targeting delivery within three to six months.
+
+## Known for
+- Design-engineer-owned structure with lead engineers as shareholders
+- Full IP rights transfer including design files, code, patents, and training
+- PhD design engineers with university faculty roles and federal research funding
+- In-house testing up to 500 kW (converters) and 300 kW (drives)
+- Prototyping capability up to 5 MW and IP68 environmental rating
+
+## Capabilities
+- Electrical design (hardware, software, system integration)
+- Mechanical design (SolidWorks, Fusion 360)
+- Finite element analysis (Ansys FEM, IcePak thermal)
+- Simulation (Matlab)
+- Control design (digital control, RTOS programming)
+- Motor drives design
+- Power electronics design
+- Magnetics design
+- Thermal design and analysis
+- Wide bandgap technologies (SiC, GaN)
+- Prototyping (electrical and mechanical, up to 5 MW, IP68)
+- Low-volume manufacturing
+- Testing (up to 500 kW converters, 300 kW drives)
+- Tech transfer (training, documentation, full design file transfer)
+- Idea development and patentable design conceptualization
+- Embedded software coding (RTOS)
+- Compliance with UL1741, UL1998, SIL 3/ASIL-D
+- Local machining partner for larger mechanical structures
+- On-site deployment support
+
+## Industries
+- Aerospace (ground support, onboard chargers/drives)
+- Automotive (traction drives)
+- Industrial (UPS systems)
+- Airship (LTA airship energy management)
+- Transportation electrification (eVTOL)
+- Battery charging systems
+- Motor drives
+- Power conversion
+- Renewable energy (medium voltage DFIG drives)
+
+## Certifications
+- UL1741 (hardware)
+- UL1998 (software safety)
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 2005
+- **Ownership:** Design-engineer-owned
+- **Headquarters:** Cuba, Missouri
+
+<details><summary>Sources</summary>
+
+- Founded 2005 in Cuba, Missouri -> db
+- Design-engineer-owned firm with lead engineers as owners -> /services
+- CEO Dr. Pourya Shamsi with 20 years experience, top 2% researcher -> /services
+- Services: electrical/mechanical design, simulation, prototyping, testing, tech transfer -> /services
+- Custom converters up to 2MW, 2000A, 12kV -> /
+- Testing capacity 500kW converters, 300kW drives -> /services
+- Prototyping up to 5MW, IP68 rating -> /services
+- Hundreds of prototypes per year, not large-scale manufacturing -> /services
+- Industries: aerospace, automotive, industrial UPS, airship (LTA), eVTOL -> /, /services
+- Full IP transfer including design files, code, patents, training under NDA -> /
+- PhD engineers, university faculty, federal funding (NSF, DOE, DoD) -> /services
+- Target delivery 3-6 months -> /
+- Software tools: Altium, Eagle, Ansys, Matlab, SolidWorks, Fusion 360 -> /services
+- Standards: UL1741, UL1998, SIL 3/ASIL-D -> /services
+- Local machining partner for larger mechanical structures -> /services
+- Wide bandgap technologies (SiC, GaN) -> /services
+- Products: XM3 Module Gate Drivers, 3/5 Phase Inverters -> /
+</details>
+
+---
 
 # Rubix Foods
 
@@ -574,7 +655,7 @@ S.E. International, Inc. (SEI) was founded in 1979 in Summertown, Tennessee. The
 
 SEI designs, manufactures, and services the Radiation Alert® line of radiation detection instruments, including handheld detectors, area monitors, dosimeters, survey meters, portal monitors, and multichannel analyzers. All products are built and serviced at the Summertown facility, and the company also provides calibration services and free PC-based and Android monitoring software. Radiation Alert® instruments are distributed in over 100 countries through a global distributor network.
 
-The company serves radiation safety professionals, laboratories, hospitals, industrial facilities, and government agencies across sectors such as government and security, healthcare, industry and manufacturing, laboratories and education, nuclear and health physics, and public safety. Long-term distributors include NDT Supply (since 2000), and end users range from Geiger Counter Pro and Patriots Antiques to military personnel who have used the monitors in Iraq and Afghanistan.
+The company serves radiation safety professionals, laboratories, hospitals, industrial facilities, and government agencies across sectors such as government and security, healthcare, industry and manufacturing, laboratories and education, nuclear and health physics, and public safety.
 
 SEI emphasizes honesty, innovation, and dependable technology, with a mission to deliver high-quality equipment that fits a wide range of budgets while keeping safety at the core. The company supports local nonprofits through development grants and donations, and has received statewide recognition in Tennessee for international sales achievements and customer support.
 

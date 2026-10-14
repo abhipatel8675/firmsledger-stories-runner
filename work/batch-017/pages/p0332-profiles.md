@@ -1,0 +1,765 @@
+# Electro Craft Ohio Inc.
+
+**Old description:** ElectroCraft, Inc. provides application-engineered specialty fractional-horsepower motor and motion control products.
+
+## About
+Electro Craft Ohio Inc. operates from Gallipolis, Ohio, as a supplier of fractional-horsepower motors and motion control products. The company's founding year and ownership structure are not publicly disclosed.
+
+The company designs and manufactures brushless DC motors, DC motor drives, linear actuators, mobility gearmotors, and integrated wheel drives such as the MPW86 series. It positions itself as a global provider of application-engineered fractional-horsepower motor and motion products, serving thousands of applications across industrial, commercial, and consumer markets. Electro Craft emphasizes custom OEM solutions, offering configurable standard product families and engineering support for tailored designs. The MPW86 wheel drive, for example, integrates a brushless DC motor and heavy-duty gearbox inside a wheel assembly, offering 500 lb per wheel load and speeds up to 4.3 meters per second.
+
+Its customer base spans medical equipment, lab automation, mobile robotics, semiconductor and electronics manufacturing, military and defense, and agricultural automation. The company targets original equipment manufacturers (OEMs) seeking customizable motor systems rather than off-the-shelf components.
+
+Electro Craft differentiates itself through customizable product families, a rapid delivery program with globally stocked inventory, and access to deep engineering resources aimed at delivering quality, reliability, and performance at a low cost of ownership.
+
+## Known for
+- Customizable product families for OEM applications
+- Rapid delivery program with globally stocked inventory
+- Application-engineered fractional-horsepower motor designs
+- Integrated wheel drives with high torque density
+- Deep engineering resources for custom motion solutions
+
+## Capabilities
+- Brushless DC motor manufacturing
+- DC motor drive manufacturing
+- Linear actuator manufacturing
+- Mobility gearmotor manufacturing
+- Wheel drive manufacturing
+- Custom OEM motor design
+- Rapid delivery program
+
+## Industries
+- Medical Equipment
+- Lab Automation
+- Mobile Robotics
+- Semiconductor & Electronics Manufacturing
+- Military & Defense
+- Agricultural Automation
+
+## Certifications
+- ROHS
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Gallipolis, Ohio
+
+<details><summary>Sources</summary>
+
+- Location: Gallipolis, Ohio -> db
+- Description: fractional-horsepower motor and motion control products -> /
+- Product categories: Brushless DC Motors, DC Motor Drives, Linear Actuators, Mobility Gearmotors, Wheel Drives -> /
+- Industries served: Medical, Lab Automation, Mobile Robotics, Semiconductor & Electronics Manufacturing, Military & Defense, Agricultural Automation -> /
+- Certification: ROHS -> db
+- MPW86 wheel drive specifications (500 lb load, 4.3 m/s speed) -> /
+- Rapid Delivery Program with global stock -> /
+- Custom OEM solutions emphasis -> /
+</details>
+
+---
+
+# Electronic Applications, Inc
+
+**Old description:** Electronic Applications, Inc. is a wholesale Manufacturer of remote monitoring equipment for the RV industry, the luxury coach industry and  monitoring of remote location vacation homes and bunkers. Our products support remote control and monitoring of the following via the internet.
+
+## About
+Electronic Applications, Inc. was incorporated in August 1989 in Phoenix, Arizona, by brothers Russell and Robert Churchill. The privately held company began delivering its Watchdog Systems in 1990, focusing on remote monitoring equipment for recreational vehicles and luxury coaches.
+
+The company designs and manufactures remote monitoring systems—including tank, battery, generator, and environmental sensors—along with internet-controlled relay outputs, all housed in IP67-rated enclosures. Products are built using surface-mount technology on circuit boards assembled by ISO 9001:2000-certified partners with automated handling, and each unit undergoes a 48-hour burn-in. An in-house systems architect with two decades of mobile-design experience leads a network of hardware and software developers to keep the footprint small for motor-coach and marine installations.
+
+Electronic Applications sells wholesale to original-equipment manufacturers and authorized service centers in the recreational-vehicle, luxury-coach, and marine markets, as well as for remote-site monitoring of vacation homes and bunkers.
+
+The Churchill brothers founded the business to bring reliable, Ethernet-enabled monitoring to the luxury-coach market, and the company emphasizes quality through contracted ISO-certified assembly, rigorous burn-in testing, and built-in remote diagnostics (E-nostics) that let technicians troubleshoot via a web browser.
+
+## Known for
+- 48-hour burn-in on all Watchdog units
+- E-nostics built-in diagnostic web pages for remote troubleshooting
+- ISO 9001:2000-certified contract assembly with automated handling
+- Surface-mount designs for confined motor-coach and marine spaces
+- Wholesale-only model serving OEMs and authorized service centers
+
+## Capabilities
+- Design consulting
+- Project management
+- Remote monitoring system manufacturing
+- IP67 enclosure customization
+- Surface-mount PCB assembly
+- Automated numeric-controlled component handling
+- 48-hour burn-in testing
+- Post-production testing
+- E-nostics remote diagnostics
+- Internet-controlled relay outputs
+- Tank level monitoring
+- Battery monitoring
+- Solar charging system integration
+- Generator monitoring
+- Environmental monitoring (temperature, moisture, humidity)
+
+## Industries
+- Recreational vehicle (RV)
+- Luxury coach
+- Marine
+- Remote site monitoring (vacation homes, bunkers)
+
+## Equipment
+- Automated numeric-controlled handlers
+
+## Certifications
+- ISO 9001:2000
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1989
+- **Ownership:** Privately held
+- **Headquarters:** Phoenix, Arizona
+
+<details><summary>Sources</summary>
+
+- Incorporated August 1989 -> /about
+- Founded by Russell and Robert Churchill -> /about
+- Headquarters Phoenix, Arizona -> db
+- Wholesale manufacturer of remote monitoring equipment -> /
+- Products: tank monitoring, battery monitoring, solar charging systems, generator monitoring, temperature/moisture/humidity, internet-controlled relay outputs -> /
+- IP67 weather resistant controllers -> /
+- Sell only to OEM manufacturers and RV/coach service centers -> /
+- ISO 9001:2000 certified circuit assemblers -> /about
+- 48-hour burn-in -> /about
+- E-nostics diagnostic web pages -> /about
+- Surface mount technology -> /about
+- Automated numeric-controlled handlers -> /about
+- In-house Systems Architect with 20 years experience -> /about
+- Small agile company -> /about
+- Russ Churchill Chairman and President -> /about
+- Watchdog Systems since 1990 -> /about
+- Privately held -> /about
+- Industries: RV, luxury coach, remote vacation homes, bunkers -> /
+- Marine mentioned -> /about
+</details>
+
+---
+
+# Electronic Design & Packaging Co.
+
+**Old description:** Electronic Design & Packaging Co. is a contract manufacturer of printed circuit boards and electromechanical assemblies headquartered in Livonia, Michigan, in business since 1981.
+
+## About
+Electronic Design & Packaging Co., doing business as EDP Company, is headquartered in Livonia, Michigan, and has operated since 1981. The company's ownership structure and founders are not disclosed in public sources.
+
+EDP operates as a contract manufacturer of printed circuit boards and electromechanical assemblies, and also provides thermal and climatic testing services through its EDP Climatic Testing division. The testing facility houses three environmental chambers: a vehicle test chamber (-40 °F to 170 °F) equipped with a 400-hp AWD chassis dynamometer capable of 200 mph and solar/wind simulation; an engine test chamber (-40 °F to 170 °F) with water-brake dynamometers; and a component test chamber (-150 °F to 650 °F) for mechanical, electrical, temperature, and humidity testing. The site does not disclose headcount, facility square footage, or production volumes.
+
+The company serves the automotive and transportation sectors, including manufacturers of electric vehicles, batteries, heat exchangers, HVAC systems, and internal-combustion engines. Its testing services support development and validation of complete vehicle systems, powertrains, and individual components for both ICE and EV platforms.
+
+EDP emphasizes an affordable, modern test facility with three chamber sizes to match varied requirements, offering solar simulation up to 1,400 W/m², wind simulation synchronized to vehicle speed, and continuous air-quality monitoring.
+
+## Known for
+- Three thermal/climatic test cells (vehicle, engine, component) covering -150 °F to 650 °F
+- Vehicle chamber with 400-hp AWD chassis dynamometer, 200 mph, solar and wind simulation
+- Engine chamber with dual water-brake dynamometers
+- Component chamber with combined mechanical, electrical, temperature, and humidity testing
+- Contract manufacturing of PCBs and electromechanical assemblies
+
+## Capabilities
+- Thermal and Climatic Testing
+- Climatic Testing
+- Component Testing
+- Thermal Cycling
+- Thermal Shock Testing
+- Battery Testing
+- Durability Testing
+- Engine Testing
+- Vehicle Testing
+- Chassis Dynamometer Testing
+- Solar Simulation
+- Wind Load Simulation
+- Humidity Testing
+- Printed Circuit Board Assembly
+- Electromechanical Assembly
+
+## Industries
+- Automotive
+- Electric Vehicle
+- Battery
+- HVAC
+- Engine
+- Transportation
+- Powertrain
+- Component Manufacturing
+
+## Equipment
+- Vehicle Test Chamber
+- AWD Chassis Dynamometer (400-hp peak absorption)
+- Engine Test Chamber
+- Water Brake Dynamometers
+- Component Test Chamber
+- Solar Simulation System (1400 W/m² full spectrum, 1000 W/m² infrared)
+- Wind Simulation System (up to 60 mph)
+- Instrumentation Panels (thermocouple, coaxial, high voltage/current channels)
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 1981
+- **Headquarters:** Livonia, Michigan
+
+<details><summary>Sources</summary>
+
+- Founded 1981 -> db
+- Headquartered in Livonia, Michigan -> db
+- Contract manufacturer of PCBs and electromechanical assemblies -> db
+- Provides thermal and climatic testing services -> /
+- Three test cells: vehicle, engine, component -> /
+- Vehicle test chamber temp range -40°F to 170°F -> /
+- AWD chassis dynamometer 400-hp peak absorption -> /
+- Component test chamber -150°F to 650°F -> /
+- Serves automotive, EV, battery, HVAC industries -> /
+- Affordable modern test facility with three chamber sizes -> /
+</details>
+
+---
+
+# Electronic Engineering Co.
+
+**Old description:** Electronic Engineering is the leading provider of wireless communications, data, and security solutions in Iowa and Nebraska for over 75 years. Our mission to provide the best goods and services to its customers has made it us a leader in several industries and will continue providing services that make our customers’ lives safer, more efficient, and enjoyable.
+
+## About
+Electronic Engineering Co. has operated from Des Moines, Iowa since 1946, building a presence as a wireless communications, data, and security solutions provider across Iowa and Nebraska. The company was established as a specialist in electronics and communication, though founder names and ownership structure are not publicly disclosed.
+
+The firm delivers a full lifecycle of technical services including system engineering, project management, installation, equipment repair, FCC licensing, tower construction, and ongoing maintenance. Its portfolio spans two-way radio systems (as an authorized Motorola Solutions dealer), data communications, video security, fleet tracking (via Geotab), in-building coverage, vehicle upfitting (as a Federal Signal authorized service center), and dispatch solutions. The company also manages wireless networks through its system management offering.
+
+Electronic Engineering serves public safety agencies, enterprise customers, and fleet operators. Its public safety solutions unify voice, video, and data on a common platform, while its industry solutions address voice and multimedia collaboration needs for a range of commercial and government clients. Fleet solutions target organizations seeking vehicle tracking, upfitting, and in-vehicle video.
+
+The company emphasizes a collaborative, team-based approach with customers, stating that collaboration between the client and its technical staff guarantees a successful outcome. Its mission centers on providing goods and services that make customers’ lives safer, more efficient, and enjoyable, leveraging nearly 75 years of experience and partnerships with Motorola Solutions, Genetec, and Federal Signal.
+
+## Known for
+- Over 75 years of experience in wireless communications
+- Authorized Motorola Solutions dealer and ecosystem partner
+- Federal Signal authorized service center for vehicle upfitting
+- Comprehensive lifecycle support from design through maintenance
+- Extensive service coverage across Iowa and Nebraska
+
+## Capabilities
+- Consulting & Engineering
+- Two-Way Radio Solutions
+- Data Communications Solutions
+- Video Security Solutions
+- Fleet Solutions
+- System Management
+- Installation
+- Equipment Repair
+- FCC Licensing
+- Tower Construction
+- Maintenance
+- Vehicle Upfitting
+- In-Building Solutions
+- Radio Dispatch Solutions
+- GPS Tracking
+- System Engineering
+- Project Management
+
+## Industries
+- Public Safety Solutions
+- Industry Solutions
+
+## Company details
+- **Company Type:** Installer / service company
+- **Founded:** 1946
+- **Headquarters:** Des Moines, Iowa
+
+<details><summary>Sources</summary>
+
+- Founded in 1946 -> homepage
+- Headquarters Des Moines, Iowa -> db
+- Services include system engineering, installation, repair, FCC licensing, tower construction, maintenance -> homepage
+- Authorized Motorola Solutions dealer -> homepage
+- Federal Signal authorized service center for vehicle upfitting -> homepage
+- Public Safety Solutions offered -> homepage
+- Industry Solutions offered -> homepage
+- Geotab fleet tracking partner -> homepage
+- Genetec access control partner -> homepage
+- Team-based collaborative approach -> /about-us
+- Mission to make customers' lives safer, more efficient, enjoyable -> homepage
+</details>
+
+---
+
+# Electronic Integration Inc
+
+**Old description:** From Design to Production, Engineering Your Vision with Precision
+
+## About
+Electronic Integration Inc. operates from Feasterville, Pennsylvania, where it has built a reputation over more than two decades as a women-led, family-oriented electronics manufacturer. The company does not publish a specific founding year, but its leadership emphasizes a personal sense of ownership and long-term commitment to customers.
+
+The company provides end-to-end electronics manufacturing services, including PCB assembly (surface-mount, through-hole, and mixed-technology), box build and electro-mechanical assembly, PCB fabrication, conformal coating, selective soldering, and cable assembly. Its facility runs automated stencil printers, pick-and-place machines, reflow ovens, selective soldering systems, and rework stations, supporting both leaded and lead-free processes. Programs span rapid prototyping through low- and high-volume production, with engineering review, inspection, and functional testing integrated into the workflow.
+
+Electronic Integration serves OEMs across eight core market segments: automation, communications, energy, automotive, wearable technology, consumer electronics, LED lighting, and healthcare. The company also lists medical, industrial, and telecom customers, and its quality system is geared toward mission-critical applications requiring IPC-A-610 Class 2 and Class 3 workmanship.
+
+The firm says its differentiation lies in a culture guided by family values and female leadership, which it says translates into accountability and continuity. Quality is described as embedded throughout the manufacturing flow—from design-for-manufacturability reviews to final verification—rather than confined to a final inspection gate. The company also highlights a 24-hour quote response time and program management that coordinates engineering, materials, production, and delivery.
+
+## Known for
+- Women-led, family-oriented ownership model
+- ISO 9001:2015 certified quality management system
+- IPC-A-610 Class 2/3 and IPC-6012 compliant manufacturing
+- Automated SMT, selective soldering, and inspection equipment
+- Prototype-to-production volume flexibility with 24-hour quote response
+
+## Capabilities
+- PCB assembly (SMT, through-hole, mixed-technology)
+- Box build & electro-mechanical assembly
+- PCB fabrication
+- Conformal coating
+- Selective soldering
+- Cable assembly
+- Rapid prototyping
+- Design for manufacturability (DFM) review
+- Automated optical inspection (AOI)
+- Functional testing
+- Program management
+- Supply chain management
+- Engineering review
+- Project coordination
+- Production planning
+- Quality coordination
+- Schedule management
+- Customer communication
+
+## Industries
+- Automation
+- Communications
+- Energy
+- Automotive
+- Wearable technology
+- Consumer electronics
+- LED lighting
+- Healthcare
+- Medical
+- Industrial
+- Telecom
+
+## Equipment
+- Stencil printers
+- Surface mount pick-and-place machines
+- Reflow ovens
+- Selective soldering machines
+- Rework stations
+- Automated optical inspection (AOI) equipment
+
+## Certifications
+- ISO 9001:2015
+- IPC-A-610 Class 2
+- IPC-A-610 Class 3
+- IPC-6012
+- RoHS
+- REACH
+- Conflict Materials compliance
+- NSF-ISR Certificate of Registration
+
+## Company details
+- **Company Type:** Manufacturer
+- **Ownership:** Women-led, family-oriented
+- **Headquarters:** Feasterville, Pennsylvania
+
+<details><summary>Sources</summary>
+
+- Location: Feasterville, PA -> /
+- ISO 9001:2015 certification -> /
+- Women-led, family-oriented ownership -> /about
+- Automated equipment list (stencil printers, pick-and-place, reflow ovens, selective soldering, rework stations) -> /about
+- Industries served: Automation, Communication, Energy, Automotive, Wearable, Consumer, LED, Healthcare -> /
+- IPC-A-610 Class 2/3 and IPC-6012 standards -> /quality
+- RoHS, REACH, Conflict Materials compliance -> /quality
+- 24-hour quote response time -> /
+- Prototype to production volume range -> /
+- Program management and engineering review services -> /about
+</details>
+
+---
+
+# Electronic Systems
+
+**Old description:** Founded in 1980 and proudly based in Sioux Falls, South Dakota, Electronic Systems, Inc. (ESI) is a premier electronics manufacturing service provider. At ESI, we leverage our expertise to navigate the complexities of the electronics landscape, delivering value that empowers your business.
+
+## About
+Electronic Systems, Inc. (ESI) was founded in 1980 in Sioux Falls, South Dakota, where it remains headquartered. The company began as an electronics manufacturing service provider and has operated continuously in the region for over four decades.
+
+ESI delivers full-service electronics manufacturing, including program management, new product introduction, engineering support, supply chain management, logistics, and aftermarket services. Its production capabilities span surface-mount and through-hole assembly, BGA and micro-BGA packaging, selective, wave, and robotic soldering, automated conformal coating, potting, and epoxy application. The facility runs high-speed flexible SMT lines suited for low-volume, high-mix work and handles complex multi-layer printed circuit board assemblies. Testing services cover environmental, functional, in-circuit, cleanliness, and RF/wireless domains, backed by 2D/3D automated optical inspection and X-ray inspection of hidden solder joints. High-level systems assembly completes the offering from subassemblies to final box builds.
+
+The company serves original equipment manufacturers across industrial, biotech, energy management, communications, medical, and agriculture sectors. Testimonials reference customers such as an agriculture OEM, a medical OEM, an energy OEM, a commercial OEM, and an environmental OEM, indicating a diverse base of mid-to-large industrial clients.
+
+ESI emphasizes a "Legendary Service" model built on lean manufacturing expertise, a culture of empowered associates, customer-centric program management, strong financial stability, and long-term partnerships. It holds ISO 9001:2015 and ISO 13485:2016 registrations, complies with IPC-A-610 and IPC-7711/7721 standards, and has received multiple Circuits Assembly Magazine Service Excellence Awards for responsiveness, dependability, quality, and technology. The firm also highlights U.S.-based assembly, a resilient supply chain, and sustainability initiatives.
+
+## Known for
+- U.S.-based assembly ("Assembled in America")
+- ISO 9001:2015 and ISO 13485:2016 certified quality system
+- IPC-A-610 and IPC-7711/7721 compliant assembly processes
+- Comprehensive in-house testing including AOI, X-ray, environmental, functional, and RF/wireless
+- Award-winning service recognized by Circuits Assembly Magazine Service Excellence Awards
+
+## Capabilities
+- Program management
+- New product introduction (NPI) and prototyping
+- Engineering resources (DfX feedback, customized test development)
+- Supply chain management
+- Logistics and fulfillment
+- Aftermarket support
+- Ball-grid array (BGA) and micro-BGA packaging
+- Pin-through-hole (PTH) assembly
+- Selective, wave, and robotic soldering
+- High-speed flexible surface-mount technology (SMT) lines
+- Fine-pitch, high-count BGA placement
+- Multi-layer printed circuit board assembly
+- Automated conformal coating
+- Automated potting
+- Automated epoxy application
+- Environmental, functional, in-circuit, cleanliness, and RF/wireless testing
+- Test design and development
+- 2D and 3D automated optical inspection (AOI)
+- X-ray inspection (BGA/LGA/QFN)
+- High-level systems assembly (subassemblies to final box build)
+
+## Industries
+- Industrial
+- Biotech
+- Energy Management Systems
+- Communications
+- Medical
+- Agriculture
+
+## Equipment
+- High-speed flexible SMT lines
+- 2D and 3D automated optical inspection (AOI) systems
+- X-ray inspection systems
+- Automated conformal coating, potting, and epoxy application systems
+- Selective soldering equipment
+- Wave soldering equipment
+- Robotic soldering equipment
+- BGA/micro-BGA placement equipment
+
+## Certifications
+- ISO 9001:2015
+- ISO 13485:2016
+- IPC-A-610
+- IPC-7711/7721
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 1980
+- **Headquarters:** Sioux Falls, South Dakota
+
+<details><summary>Sources</summary>
+
+- Founded in 1980, headquartered in Sioux Falls, South Dakota -> /
+- Electronics manufacturing service provider -> /
+- Services: Program Management, New Product Introduction, Engineering Resources, Supply Chain Management, Logistics and Fulfillment, Aftermarket Support -> /services
+- Manufacturing capabilities: BGA/micro-BGA, PTH, selective/wave/robotic soldering, high-speed SMT, automated conformal coating/potting/epoxy, testing (environmental, functional, in-circuit, cleanliness, RF/wireless), AOI, X-ray, high-level assembly -> /services
+- Industries served: Industrial, Biotech, Energy Management Systems, Communications, Medical, Agriculture -> /about-us
+- Certifications: ISO 9001:2015, ISO 13485:2016, IPC-A-610, IPC-7711/7721 -> /quality
+- Testimonials from Agriculture OEM, Medical OEM, Energy OEM, Commercial OEM, Environmental OEM -> /
+- Assembled in America (US-based manufacturing) -> /
+- Awards: Circuits Assembly Magazine Service Excellence Awards -> /about-us
+- Values: Uncompromised Integrity, Proactive Responsiveness, Dynamic Flexibility -> /about-us
+</details>
+
+---
+
+# Electronics Expo
+
+**Old description:** Transform your space with our professional home theater design and installation services. Our expert team creates immersive entertainment experiences tailored to your lifestyle.
+
+## About
+Electronics Expo operates from Wayne, New Jersey, where it was founded in 2003. The company has grown over two decades into a multi-channel retailer serving both consumers and trade partners across the United States.
+
+The business carries an authorized-dealer lineup of more than 500 brands spanning home audio, video, portable audio, car electronics, and professional audio. In addition to retail sales, it provides custom home-theater design, professional installation, smart-home integration, and car-audio installation services. The company reports more than 196,000 customers served and 23-plus years of experience as of 2024.
+
+Its customer base includes homeowners building dedicated theater rooms, vehicle owners upgrading factory sound systems, professional musicians and engineers purchasing studio gear, and B2B trade partners such as custom integrators and installers who source through the company's Trade Partner Program.
+
+Electronics Expo emphasizes its status as an authorized dealer guaranteeing 100-percent genuine products with full manufacturer warranties, free shipping on all orders, and expert support available by phone. The combination of a broad curated catalog, in-house design and installation teams, and a dedicated trade program is presented as its core differentiation.
+
+## Known for
+- Authorized dealer for 500+ brands with full manufacturer warranty
+- Free shipping on all orders
+- In-house custom home theater design and professional installation
+- Car audio installation services
+- Trade Partner Program for B2B integrators and installers
+
+## Capabilities
+- Home theater design
+- Professional audio/video installation
+- Smart home integration
+- Car audio installation
+- Retail sales of consumer electronics
+- Trade partner / B2B sourcing program
+
+## Industries
+- Consumer electronics
+- Home theater
+- Car audio
+- Professional audio
+- Smart home
+
+## Company details
+- **Company Type:** Retailer
+- **Founded:** 2003
+- **Headquarters:** Wayne, New Jersey
+
+<details><summary>Sources</summary>
+
+- Founded 2003 -> db
+- Headquarters Wayne, New Jersey -> db
+- Authorized dealer for 500+ brands -> homepage
+- 196K+ happy customers, 23+ years experience -> homepage
+- Custom home theater design and installation services -> homepage
+- Car installation services -> homepage
+- Free shipping on all orders -> homepage
+- Trade Partner Program -> homepage
+- Social media: Facebook, Instagram, TikTok -> homepage footer
+</details>
+
+---
+
+# Elemental Energy
+
+**Old description:** Founded by graduates of the first and only accredited Bachelor’s of Science degree program in Renewable Energy Engineering.
+
+## About
+Elemental Energy is a locally owned and operated solar design and installation firm based in Portland, Oregon. Founded in 2010 by graduates of the first accredited Bachelor of Science program in Renewable Energy Engineering, the company began with a mission to critically address how society uses and thinks about energy.
+
+The company provides residential and commercial photovoltaic system design and installation, custom battery storage and backup systems, Tesla Powerwall installation, and licensed electrical services for residential, commercial, and industrial projects. With an in-house team of 55 employees, Elemental Energy has completed over 4,000 installations totaling more than 50 megawatts across Oregon and southern Washington.
+
+Its customers include homeowners and businesses throughout Oregon and Washington, as well as mobile system installations. The firm also partners with Twende Solar to deliver renewable energy to communities without electricity access in South America, Central America, Africa, and Asia.
+
+Elemental Energy emphasizes a humanitarian outlook and passion for clean energy, aiming to help clients achieve energy independence and realize the benefits of their financial investments. The company holds NABCEP certification for installers and technical sales professionals, is a Tesla Powerwall Certified Installer, and maintains Oregon and Washington contractor licenses.
+
+## Known for
+- In-house team handles every project from start to finish
+- Locally owned and operated in the Pacific Northwest since 2010
+- Tesla Powerwall Certified Installer
+- NABCEP Certified Installer and Technical Sales Professional
+- Over 4,000 installations and 50 MW deployed
+
+## Capabilities
+- Residential solar PV design and installation
+- Commercial solar PV and energy storage design and installation
+- Custom battery storage and backup system design and installation
+- Tesla Powerwall installation
+- Residential, commercial, and industrial electrical repairs, upgrades, and installations
+- Charitable solar installations via Twende Solar partnership
+
+## Industries
+- Residential
+- Commercial
+- Industrial
+- Mobile systems
+- International development (non-profit)
+
+## Equipment
+- Tesla Powerwall
+- Enphase (Premium Installer)
+
+## Certifications
+- OR CCB 195141
+- OR Electrical License C1228
+- WA CCB #ELEMEEL823D1
+- Energy Trust of Oregon Trade Ally
+- Tesla Powerwall Certified Installer
+
+## Company details
+- **Company Type:** Installer / service company
+- **Founded:** 2010
+- **Employees:** 55
+- **Ownership:** Locally owned & operated
+- **Headquarters:** Portland, Oregon
+
+<details><summary>Sources</summary>
+
+- Founded in 2010 -> db
+- Headquarters Portland, Oregon -> db
+- 55 employees -> page '/'
+- 4,000 installations -> page '/'
+- 50 MW installed -> page '/'
+- Locally owned & operated -> page '/'
+- Founded by graduates of Renewable Energy Engineering program -> page '/about-us'
+- NABCEP Certified Installer & Technical Sales Professional -> page '/about-us'
+- Tesla Powerwall Certified Installer -> page '/services'
+- OR CCB 195141 -> page '/'
+- OR Electrical License C1228 -> page '/'
+- WA CCB #ELEMEEL823D1 -> page '/'
+- Energy Trust of Oregon Trade Ally -> page '/about-us'
+- Enphase Premium Installer -> page '/services'
+- Partnership with Twende Solar -> page '/about-us'
+- Residential, commercial, industrial electrical services -> page '/services'
+- Mobile system installation -> page '/about-us'
+- International work in South America, Central America, Africa, Asia -> page '/about-us'
+- Mission to critically address energy use -> page '/about-us'
+- In-house team -> page '/'
+</details>
+
+---
+
+# Elevaris Medical Devices Inc.
+
+**Old description:** , precision micro-components, complex tubular components, and sub-assemblies for leading
+
+## About
+Elevaris Medical Devices Inc. is headquartered in Wilmington, Massachusetts. The company traces its roots to 1995 when it was founded as Spectra Medical Devices. Following the acquisition of UK-based XL Precision Technologies, the business rebranded to Elevaris Medical Devices, marking a new era of precision medical device development and manufacturing.
+
+The company operates as a contract development and manufacturing organization, designing, developing, and producing procedural needles, precision micro-components, complex tubular components, and sub-assemblies. Its manufacturing capabilities span laser cutting and welding, micro-machining via EDM and 5-axis CNC, grinding, injection and insert molding, cleanroom assembly in ISO Class 7 and 8 environments, precision forming, and metal finishing. Facilities worldwide support both development and high-volume production, including a MULTIVAC packaging line for sterile packaging.
+
+Elevaris serves multinational healthcare companies, global original equipment manufacturers, and emerging technology companies in the medical device sector. The firm also distributes complementary pharmaceutical products, surgical instruments, and medical supplies.
+
+The company emphasizes a legacy of engineering expertise and responsible innovation tied to ESG values. It differentiates itself through specialized processes such as 4-axis tube laser cutting with a 0.012 mm kerf width, micro-laser welding at 0.1 mm spot size, and a proprietary combination of laser, EDM, and additive manufacturing technologies.
+
+## Known for
+- 4-axis tube laser cutting with 0.012 mm minimum kerf width
+- Micro-laser welding with 0.1 mm spot size
+- ISO Class 7 and 8 cleanroom assembly for sterile production
+- MULTIVAC packaging system for high-volume UDI-compliant packaging
+- Proprietary blend of laser, EDM, 5-axis CNC, and 3D metal printing
+
+## Capabilities
+- 4-axis tube laser cutting
+- Flat-bed micro-laser cutting
+- Micro-laser welding (automated, 0.1 mm spot size)
+- Laser marking on metal or plastic
+- Laser cutting on stainless steel and Nitinol
+- Laser ablation for engraved features
+- EDM wire erosion
+- EDM sink erosion
+- 5-axis CNC machining
+- 3D metal printing
+- Centerless grinding
+- CNC grinding for complex needle tip geometries
+- Electrochemical grinding
+- Standard bevel and A&B bevel grinds
+- Lancet, trocar, diamond point grinding
+- Micro-needle grinding
+- Injection molding
+- Insert molding
+- Cleanroom assembly (ISO Class 7 & 8)
+- UV and air-cured adhesive bonding
+- Automated heat shrinking (FEP & PET tube)
+- PTFE tube inner liner installation
+- High-speed automated assembly and inspection
+- Packaging and pouching (Tyvek, MULTIVAC)
+- EtO sterilization options
+- Precision forming (swaging, bending, shaping, pressing, flattening)
+- Metal finishing (electropolishing, chemical etching, passivation, siliconization, chrome plating)
+- Procedural needle manufacturing (RF, epidural, biopsy, custom)
+- Contract development (design, process development)
+- Contract manufacturing (development to high-volume)
+
+## Industries
+- Medical device manufacturing
+- Healthcare (multinational)
+- Original equipment manufacturers (OEMs)
+- Emerging technology companies
+- Pharmaceutical products distribution
+- Surgical instruments distribution
+- Medical supplies distribution
+
+## Equipment
+- High-volume production laser equipment
+- Purpose-built laser systems
+- 4-axis tube laser cutting systems (four separate systems)
+- Flat-bed micro-laser cutting systems
+- Automated micro-laser welding systems (0.1 mm spot size)
+- MULTIVAC packaging solution
+- 5-axis CNC machining centers
+- 3D metal printing systems
+- EDM wire erosion machines
+- EDM sink erosion machines
+- Centerless grinding machines
+- CNC grinding machines
+- Electrochemical grinding equipment
+- Injection molding machines
+- Insert molding equipment
+- ISO Class 7 and 8 cleanroom assembly areas
+- Automated heat shrinking systems (FEP & PET)
+- PTFE tube inner liner installation equipment
+- High-speed assembly and inspection automation
+- Testing and qualification equipment
+
+## Certifications
+- CE Mark
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 1995
+- **Headquarters:** Wilmington, Massachusetts
+
+<details><summary>Sources</summary>
+
+- Headquarters: Wilmington, Massachusetts -> db
+- Founded 1995 as Spectra Medical Devices -> /about-us
+- Acquired XL Precision Technologies, rebranded to Elevaris -> /about-us
+- Contract Development and Manufacturing Organization -> /about-us
+- Products: procedural needles, precision micro-components, complex tubular components, sub-assemblies -> /
+- Also distributes pharmaceutical products, surgical instruments, medical supplies -> /about-us
+- Manufacturing capabilities: laser, micro-machining, grinding, molding, cleanroom assembly, forming, finishing -> /capabilities
+- Facilities worldwide, ISO Class 7/8 cleanrooms, MULTIVAC packaging -> /capabilities
+- Customers: multinational healthcare companies, global OEMs, emerging tech companies -> /about-us
+- ISO 13485 certifications at US, UK, Korea sites -> /quality
+- CE Mark certification -> certifications array
+- FDA Registration #1224960 -> /quality
+- Laser kerf width 0.012 mm, weld spot 0.1 mm -> /capabilities
+- Proprietary combination of laser, EDM, 5-axis CNC, 3D printing -> /capabilities
+- ESG values commitment -> /about-us
+- LinkedIn URL -> linkedin_url
+</details>
+
+---
+
+# Elite Apparel & Promo
+
+**Old description:** Looking for branded merchandise or uniform solutions that truly represent your company? You’ve come to the right place. Elite Apparel & Promo is your trusted source for innovative promotional products and scalable uniform programs designed to protect your brand and move your business forward.
+
+## About
+Elite Apparel & Promo operates from its headquarters in Columbus, Ohio, with a physical office in New Albany. The company also maintains offices in Wausau, Wisconsin, and Medellín, Colombia, extending its reach domestically and internationally. No founding year or ownership structure is publicly disclosed.
+
+The firm functions as a promotional product distributor and strategic branding partner, specializing in large-scale uniform programs for organizations with five or more locations. It sources merchandise — including apparel, bags, writing instruments, tech accessories, and drinkware — through a network of top suppliers, notably a strategic partner based in Shenzhen, China, that maintains a Columbus presence. This arrangement provides direct factory contact and hands-on production oversight, which the company says protects quality standards and supports competitive pricing with reliable turnaround.
+
+Clients span corporate, hospitality, golf, event, education, and non-profit sectors. Examples include multi-site businesses needing consistent uniform programs, golf tournaments seeking branded polos and accessories, restaurants and bars ordering custom barware and glassware, corporate events requiring logoed ice molds and tumblers, university bookstores stocking eco-friendly polos, and charity fundraisers using branded tee sets and towels.
+
+Elite Apparel & Promo emphasizes three pillars: innovative solutions, speed to market, and brand integrity. By partnering only with vetted suppliers and maintaining oversight through its Shenzhen-linked partner, the company aims to streamline ordering, ensure consistency across locations, and deliver merchandise that reflects each client’s brand standards. Its mission centers on building long-lasting relationships through branded merchandise delivered with precision and care.
+
+## Known for
+- Specializes in uniform programs for organizations with five or more locations
+- Strategic manufacturing partner in Shenzhen, China with Columbus-based representation
+- Direct factory contact and hands-on production oversight
+- Offices in Columbus, New Albany, Wausau, and Medellín for domestic and international service
+- Member of the Advertising Specialty Institute (ASI)
+
+## Capabilities
+- Promotional product distribution
+- Uniform program management
+- Custom branding and merchandise sourcing
+- Supplier quality oversight
+- International sourcing and logistics
+- Brand integrity management
+
+## Industries
+- Corporate branding
+- Promotional products
+- Uniform rental and sales
+- Hospitality
+- Golf and leisure
+- Events and conferences
+- Education
+- Non-profit
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Headquarters:** Columbus, Ohio
+
+<details><summary>Sources</summary>
+
+- Headquartered in Columbus, Ohio -> /about-us
+- Physical office at 7775 Walton Parkway, Suite 100, New Albany, OH 43054 -> /
+- Offices in Wausau, Wisconsin and Medellín, Colombia -> /about-us
+- Member of Advertising Specialty Institute (ASI) -> /about-us
+- Specializes in uniform programs for companies with five or more locations -> /about-us
+- Strategic partner based in Shenzhen, China with representation in Columbus, Ohio -> /about-us
+- Direct factory contact and hands-on production oversight -> /about-us
+- Product categories: apparel, bags, writing instruments, tech products, drinkware -> /
+- Serves corporate, golf, hospitality, events, education, non-profit sectors -> /about-us, /
+- Emphasizes innovative solutions, speed to market, brand integrity -> /about-us
+- Mission: build long-lasting relationships through branded merchandise -> /about-us
+</details>
+
+---

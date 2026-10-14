@@ -1,385 +1,113 @@
+refetched site text for p0101-raw.json
+refetched site text for p0103-raw.json
+refetched site text for p0104-raw.json
+refetched site text for p0105-raw.json
+refetched site text for p0106-raw.json
+refetched site text for p0107-raw.json
+refetched site text for p0108-raw.json
+refetched site text for p0109-raw.json
+refetched site text for p0111-raw.json
+refetched site text for p0112-raw.json
+refetched site text for p0113-raw.json
+refetched site text for p0114-raw.json
+refetched site text for p0115-raw.json
+refetched site text for p0116-raw.json
+refetched site text for p0117-raw.json
+refetched site text for p0118-raw.json
+refetched site text for p0119-raw.json
 fetched p0100-raw.json 10 / 10
-RETRY rooftop-power HTTP Error 503: Service Unavailable
-RETRY rosebud-wood-products HTTP Error 503: Service Unavailable
-fetched p0101-raw.json 10 / 10
-fetched p0102-raw.json 10 / 10
-RETRY rooftop-power HTTP Error 503: Service Unavailable
-RETRY svtronics-inc HTTP Error 503: Service Unavailable
-RETRY sanel-auto-parts-co HTTP Error 503: Service Unavailable
-RETRY sapona-plastics-llc HTTP Error 503: Service Unavailable
-fetched p0103-raw.json 10 / 10
-RETRY schneider-electric HTTP Error 503: Service Unavailable
-RETRY seattle-tacoma-box-co HTTP Error 503: Service Unavailable
-fetched p0104-raw.json 10 / 10
-RETRY secure-semiconductor-manufacturing-llc-office HTTP Error 503: Service Unavailable
-RETRY service-metal-fabricating-inc HTTP Error 503: Service Unavailable
-RETRY service-steel-inc HTTP Error 503: Service Unavailable
-RETRY shawmut-infinite HTTP Error 503: Service Unavailable
-RETRY schneider-electric HTTP Error 503: Service Unavailable
-ok   S E International Inc 
-RETRY secure-semiconductor-manufacturing-llc-office HTTP Error 503: Service Unavailable
-ok   Ron's Home Style Foods 
-ok   S L H Metals Inc 
-ok   Ryco Manufacturing, LLC dba Ryone Manufacturing Company 
-RETRY route-66-controls-llc 'NoneType' object has no attribute 'group'
-ok   Safety Fresh Foods 
-ok   SAERTEX USA ,LLC 
-ok   Servco Parts Center (Business Accounts Only) 
-fetched p0105-raw.json 10 / 10
-RETRY shearer-s-snack-foods HTTP Error 503: Service Unavailable
-ok   Rooted Furniture 
-ok   Safer Textiles 
-RETRY siemens-corporation HTTP Error 503: Service Unavailable
-ok   SINTX Technologies 
-ok   Rogers Electrical Contracting 
-RETRY silver-state-inc HTTP Error 503: Service Unavailable
-fetched p0106-raw.json 9 / 10
-ok   Sare Plastics Inc 
-ok   Schmersal Inc. 
-ok   Rubix Foods 
-ok   Sanel Auto Parts Co 
-ok   SML Packaging Solutions, LLC 
-ok   Shamrock Foodservice Warehouse 
-fetched p0107-raw.json 10 / 10
-ok   Safe-T-Cap Manufacturing 
-RETRY solar-technology-alabama HTTP Error 503: Service Unavailable
-ok   S&S Welding & Fabrication LLC 
-ok   Rooftop Solar 
-ok   Sanhua Automotive USA, INC 
+ok   Rogers Electrical Contractingok   Ron's Home Style Foods  
 ok   Rooftop Power 
-ok   SATMED Health LLC 
-ok   Seaca Packaging 
-ok   SAVKAT 
+ok   Rooftop Solar 
+
+ok   Rooted Furniture 
 ok   Rosebud Wood Products 
-ok   SemiGen, Inc 
-ok   Schroeder Furniture & Flooring 
-RETRY southbridge-sheet-metal-works HTTP Error 503: Service Unavailable
-RETRY southeast-solarpros HTTP Error 503: Service Unavailable
-fetched p0108-raw.json 10 / 10
-RETRY s-b-international Extra data: line 3 column 1 (char 897)
-ok   Sea Bright Solar 
+ok   Rubix Foods 
+ok   Ryco Manufacturing, LLC dba Ryone Manufacturing Company 
+ok   S E International Inc 
+fetched p0102-raw.json 10 / 10
+ok   Safer Textiles 
 ok   Safety Components an Elevate Textiles Company 
-ok   Shamrock Plastics Inc. 
-ok   Sensor Electronics Corporation 
-RETRY svtronics-inc 'NoneType' object has no attribute 'group'
-fetched p0109-raw.json 10 / 10
-ok   Shaker Style Handcrafted Furniture 
-RETRY specialty-plastics-fab-inc HTTP Error 429: Too Many Requests
-ok   Schneider Electric 
-ok   Secure Semiconductor Manufacturing, LLC Office 
-ok   Service Metal Fabricating Inc 
-ok   SRC Automotive Inc 
-ok   Service Steel, Inc. 
-RETRY selvaggio-steel-inc 'NoneType' object has no attribute 'group'
-RETRY route-66-controls-llc 'NoneType' object has no attribute 'group'
-ok   Shawmut Infinite 
-ok   Shoreline Manufacturing 
-RETRY sea-wire-and-cable-inc 'NoneType' object has no attribute 'group'
-ok   Smith Brothers of Berne Inc 
-ok   Sierra Communications, LLC 
-ok   Solar Energy Services, LLC. 
-RETRY s-b-international HTTP Error 503: Service Unavailable
-RETRY st-johns-packaging HTTP Error 503: Service Unavailable
-ok   Service Wire Co 
-fetched p0110-raw.json 10 / 10
-ok   Smt Manufacturing Group LLC 
-ok   Signum, LLC 
-ok   Sewer Cable Equipment Co 
-PAGE DONE p0104-profiles.json
-ok   Shore Metal Fabricators LLC 
-RETRY sapona-plastics-llc 'NoneType' object has no attribute 'group'
-ok   Solar Technology Alabama 
-fetched p0111-raw.json 10 / 10
-ok   Six Robblees' Inc 
-ok   Sons of Sawdust Supply 
-RETRY steven-engineering HTTP Error 503: Service Unavailable
-ok   Siemon 
-ok   Solar Guardians USA 
-fetched p0112-raw.json 10 / 10
-RETRY route-66-controls-llc HTTP Error 503: Service Unavailable
-ok   Selco Products Company 
-ok   Southeastern Architectural Woodworks, Inc. 
-ok   Southern Fabrication Works 
-ok   SolarReviews 
-fetched p0113-raw.json 10 / 10
-ok   South Electronics 
-ok   South Coast Solar 
-ok   Sierra Bags 
-ok   Spike Electric Controls 
-ok   Shearer's Snack Foods 
-RETRY sumitomo-electric-wiring-systems HTTP Error 503: Service Unavailable
-ok   Silver State Inc 
-ok   Southern Industrial Fabrics 
-ok   Solar Power & Light, LLC. 
-RETRY sumner-woodworker-store HTTP Error 503: Service Unavailable
-RETRY schwan-s-pizza-plant Remote end closed connection without response
-ok   Solar Topps 
-fetched p0114-raw.json 10 / 10
-ok   Southeast SolarPros 
-RETRY sun-solar-illinois HTTP Error 503: Service Unavailable
-ok   Skyline Furniture Mfg. Inc. 
-ok   Southbridge Sheet Metal Works 
-RETRY sunbelt-packaging-llc-proudly-part-of-bradyplus HTTP Error 503: Service Unavailable
-ok   Spring Solar 
-fetched p0115-raw.json 10 / 10
-ok   Specialty Cable Corporation 
-ok   Seattle-Tacoma Box Co 
-ok   Solid Stone Fabrics 
-ok   Southeastern Textile Machinery 
-ok   Solar Me 
-ok   Southland Steel Fabricators, Inc. 
-ok   Sigmatex 
-ok   Solar Rising 
-PAGE DONE p0106-profiles.json
-fetched p0116-raw.json 10 / 10
-ok   Spartronics 
-fetched p0117-raw.json 10 / 10
-RETRY swanson-sheet-metal-inc HTTP Error 503: Service Unavailable
-RETRY sumitomo-electric-wiring-systems HTTP Error 503: Service Unavailable
-fetched p0118-raw.json 10 / 10
-ok   Stammy's Steel 
-ok   Steel and Wire Products Co. 
-ok   Southern Interconnect 
-fetched p0119-raw.json 10 / 10
-ok   Southwest Wire Rope Inc 
-ok   Siemens Corporation 
-PAGE DONE p0105-profiles.json
-ok   Steel Specialties 
-RETRY standard-spring-parts 'NoneType' object has no attribute 'group'
-ok   Star Plastic Design 
-RETRY standard-spring-parts HTTP Error 503: Service Unavailable
-ok   Stone Plastics & Manufacturing 
-ok   Sumiden Wire Products Corporation 
-ok   Stitt Solar 
-ok   St. Johns Packaging 
-RETRY tennessee-sheet-metal-inc HTTP Error 503: Service Unavailable
-ok   Sunbelt Plastics Inc 
-RETRY tennessee-sheet-metal-inc HTTP Error 503: Service Unavailable
-ok   Spinnaker Contract Manufacturing, Inc. 
-ok   Specialty Plastics & Fab Inc 
-ok   SunCommon 
-RETRY texas-mesquite-co HTTP Error 503: Service Unavailable
-ok   Stone Creek Furniture 
-ok   Steel Queen 
-ok   SupplyOne Plastics, Inc. 
-ok   Standard Energy Solutions 
-ok   Superior Metalcraft 
-RETRY the-cotton-mafia HTTP Error 503: Service Unavailable
-ok   Standard Iron Works Inc 
-ok   Steel Fabricators LLC 
-ok   SEA Wire and Cable, Inc. 
-RETRY steel-plate-fabricators 'NoneType' object has no attribute 'group'
-ok   Suntria | Oklahoma Solar Panel Installers 
-ok   Schwan's Pizza Plant 
-RETRY steel-plate-fabricators HTTP Error 503: Service Unavailable
-ok   Sun Comm Technologies 
-ok   Synergy Renewable Systems, LLC 
-ok   SourceEazy 
-PAGE DONE p0107-profiles.json
-ok   Sunergy Systems 
-ok   TNT Springs, Inc. 
-RETRY steel-plate-fabricators HTTP Error 503: Service Unavailable
-ok   Team Solar Inc 
-ok   Spice World Inc 
-PAGE DONE p0108-profiles.json
-RETRY tillett-textiles HTTP Error 503: Service Unavailable
-ok   Swanson Sheet Metal Inc 
-ok   Sun Solar Illinois 
-ok   Sweet Spirit Foods 
-ok   Taylor Packaging Corporation 
-ok   StraightUp Solar 
-ok   Superior Plastics 
-ok   Stark Electronics Inc. 
-RETRY traverse-bay-manufacturing-inc HTTP Error 503: Service Unavailable
-RETRY strategy-plastics Expecting ',' delimiter: line 42 column 4 (char 2382)
-ok   Sunforce Solar 
-ok   Sunlight Electric 
-ok   Switchgear Solutions Ltd. (SSL) 
-RETRY svtronics-inc 'NoneType' object has no attribute 'group'
-RETRY triad-plastic-technologies HTTP Error 503: Service Unavailable
-ok   Texas Injection Molding LLC 
-ok   Sunergy Renewable Systems 
-ok   Steven Engineering 
-ok   Sund Manufacturing Co 
-ok   Stickley Furniture 
-ok   Sundance Power Systems Inc 
-ok   Superior Sheet Metal 
-ok   TCI Packaging 
-ok   Susa USA 
-ok   S.B International 
-PAGE DONE p0101-profiles.json
-RETRY tulsa-plastics-co HTTP Error 503: Service Unavailable
-ok   That Solar Company LLC 
-ok   Superior Metal Fab LLC 
-PAGE DONE p0112-profiles.json
-ok   Tennessee Sheet Metal Inc 
-ok   Sun Medical Equipment Company, Inc. 
-RETRY tulsa-sheet-metal HTTP Error 503: Service Unavailable
-ok   The Cable Guy 
+ok   Sanhua Automotive USA, INC 
+ok   Safe-T-Cap Manufacturing 
+ok   Sanel Auto Parts Co 
 ok   Sapona Plastics LLC 
-RETRY selvaggio-steel-inc Expecting ',' delimiter: line 73 column 4 (char 4414)
-ok   Thornton Plastic Co 
-ok   TY Fine Furniture 
-ok   The Modern Table Company 
-ok   Texas Mesquite Co 
-RETRY unlimited-metal-fabricators HTTP Error 503: Service Unavailable
-ok   The Furniture Ranch 
-ok   Sumitomo Electric Wiring Systems 
-ok   Tekmos 
-ok   Sunbelt Packaging LLC - Proudly Part of BradyPLUS 
-ok   The Flying Cow Shirt Company 
-ok   Teton Metal Fabrication 
-ok   Sumner Woodworker Store 
-ok   The Cotton Mafia 
-ok   Tabb Textile Systems Inc 
-ok   The Sweet Life Kettle Corn Company 
-ok   The Advertising Specialists of Maine 
-ok   TVS Manufacturing Specialist, Inc. 
-ok   Topper Town Abq 
-ok   Tennessee Chair Company 
-ok   Tillett Textiles 
-ok   Standard Spring Parts 
-PAGE DONE p0109-profiles.json
-ok   The Airtex Group 
-ok   The Food Processing Center 
-RETRY thaco-industries-usa-llc 'NoneType' object has no attribute 'group'
-ok   Telan Corporation 
-PAGE DONE p0114-profiles.json
-ok   Textiles Coated International 
-PAGE DONE p0115-profiles.json
-ok   The Wire Guy Electric 
-ok   Thyssenkrupp Automotive Systems of America 
-ok   Traditional Woodworks 
-ok   The Urban Wood Company 
-ok   Turner Welding And Fabrication LLC 
-ok   Twin City Fan Companies, Ltd. 
-RETRY route-66-controls-llc 'NoneType' object has no attribute 'group'
-ok   Tick Tock Energy, Inc. 
-ok   Trickett Woodworks Co 
-ok   Triad Plastic Technologies 
-ok   The Food Movement Natural Products Company 
-PAGE DONE p0116-profiles.json
-skip Route 66 Controls LLC 'NoneType' object has no attribute 'group'
+ok   Schmersal Inc.ok   Safety Fresh Foods 
+ ok   Sare Plastics Inc 
+
+RETRY svtronics-inc HTTP Error 503: Service Unavailable
+fetched p0110-raw.json 10 / 10
+ok   Steel Queen ok   Steel and Wire Products Co. ok   Steel Fabricators LLC
+
+ 
+ok   Steel Specialties 
+ok   Stitt Solarok   Stickley Furniture 
+ ok   Steven Engineering 
+
+ok   Stone Creek Furnitureok   Stone Plastics & Manufacturing  
+
+ok   Route 66 Controls LLC 
 PAGE DONE p0100-profiles.json
-ok   Tri-Steel Manufacturing Co 
-ok   Traverse Bay Manufacturing Inc 
-ok   U.S. Apparel 
-ok   US Advanced Medical Research, Inc. 
-ok   TruNorth Solar 
-ok   Titan Circuits 
-ok   Trim Illusion Inc 
-ok   True South Solar 
-ok   Tulsa Sheet Metal 
-ok   Traco Packaging - A Division of Traco Manufacturing, Inc. 
-ok   Trivium Packaging 
-ok   TrueChoicePack 
-ok   Strategy Plastics 
-PAGE DONE p0111-profiles.json
-RETRY tops-packaging-solutions 'NoneType' object has no attribute 'group'
-ok   Toshiba International Corporation 
-RETRY steel-plate-fabricators Expecting ',' delimiter: line 109 column 4 (char 5129)
-ok   US Wire & Cable Corporation 
-ok   Truck & Transportation Equipment Company 
-ok   Tulsa Plastics Co 
-PAGE DONE p0118-profiles.json
-ok   United Premium Foods 
-ok   Tri-Fab Steel Inc 
-skip Steel Plate Fabricators Expecting ',' delimiter: line 109 column 4 (char 5129)
-PAGE DONE p0110-profiles.json
-RETRY united-foods-international-usa-inc Expecting ',' delimiter: line 81 column 4 (char 4444)
-ok   Selvaggio Steel, Inc. 
-PAGE DONE p0103-profiles.json
-ok   Uniforce Plastics 
-RETRY svtronics-inc 'NoneType' object has no attribute 'group'
-ok   Unlimited Metal Fabricators 
-skip SVTronics, Inc 'NoneType' object has no attribute 'group'
+RETRY steel-plate-fabricators 'NoneType' object has no attribute 'group'
+ok   SVTronics, Inc 
 PAGE DONE p0102-profiles.json
-ok   Tops Packaging Solutions 
-PAGE DONE p0117-profiles.json
-RETRY ufp-packaging Remote end closed connection without response
-RETRY thaco-industries-usa-llc 'NoneType' object has no attribute 'group'
-ok   UFP Packaging 
-ok   United Foods International (USA), Inc. 
-PAGE DONE p0119-profiles.json
-ok   THACO INDUSTRIES USA LLC 
-PAGE DONE p0113-profiles.json
-ALL-DONE errors 3 of 200
-collected 197
+RETRY steel-plate-fabricators Expecting ',' delimiter: line 116 column 4 (char 5107)
+RETRY steel-plate-fabricators 'NoneType' object has no attribute 'group'
+ok   Steel Plate Fabricators 
+PAGE DONE p0110-profiles.json
+ALL-DONE errors 0 of 30
+collected 200
 rooftop-power | nums ['19,000'] ; certs ['Rhode Island General Contractor License 42278']
+route-66-controls-llc | certs ['SIL 3 / ASIL-D (design capability)']
 rubix-foods | wording/address
-saertex-usa-llc | nums ['3,300']
-satmed-health-llc | wording/address
+s-e-international-inc | nums ['2000']
 safer-textiles | wording/address
 sanel-auto-parts-co | wording/address
 sapona-plastics-llc | nums ['145,000']
 schmersal-inc | certs ['ATEX Directive 2014/34/EU']
-semigen-inc | wording/address
-shamrock-foodservice-warehouse | wording/address
-shearer-s-snack-foods | wording/address
-sierra-bags | nums ['2010']
-solar-guardians-usa | certs ['Better Business Bureau (BBB) accreditation']
-st-johns-packaging | wording/address
-standard-energy-solutions | nums ['89.6']
-standard-spring-parts | nums ['100']
-star-plastic-design | nums ['6.5']
 steel-and-wire-products-co | wording/address
 steven-engineering | nums ['2.1']
 stickley-furniture | wording/address
 stitt-solar | wording/address
-sumiden-wire-products-corporation | nums ['1989', '2017']
-sun-medical-equipment-company-inc | certs ['Community Health Accreditation Partner (CHAP) accreditation']
-sunbelt-plastics-inc | wording/address
-sunergy-systems | wording/address
-suntria-oklahoma-solar-panel-installers | wording/address
-superior-plastics | certs ['ITAR registered']
-sweet-spirit-foods | wording/address
-tci-packaging | wording/address
-thaco-industries-usa-llc | nums ['1,000']
-texas-injection-molding-llc | wording/address
-the-airtex-group | wording/address
-the-cable-guy | wording/address
-the-flying-cow-shirt-company | nums ['50']
-thornton-plastic-co | wording/address
-titan-circuits | wording/address
-tops-packaging-solutions | nums ['1,000,000']
-truck-transportation-equipment-company | nums ['27']
-truechoicepack | wording/address
-united-premium-foods | nums ['110,000']
-collected 197
+tennessee-sheet-metal-inc | nums ['100']
+thornton-plastic-co | nums ['1955']
+collected 200
 done rogers-electrical-contracting 0 
 done ron-s-home-style-foods 0 
 done rooftop-power 0 
 done rooftop-solar 0 
-done rooted-furniture 1 
-done rosebud-wood-products 1 
-done rubix-foods 1 
+done rooted-furniture 2 
+done rosebud-wood-products 0 
+done route-66-controls-llc 0 
+done rubix-foods 2 
 done ryco-manufacturing-llc-dba-ryone-manufacturing-company 0 
-done s-e-international-inc 0 
+done s-e-international-inc 3 
 done s-l-h-metals-inc 0 
-done s-s-welding-fabrication-llc 2 
+done s-s-welding-fabrication-llc 1 
 done s-b-international 0 
 done saertex-usa-llc 1 
 done satmed-health-llc 0 
 done savkat 0 
-done sea-wire-and-cable-inc 0 
+done sea-wire-and-cable-inc 1 
 done sintx-technologies 0 
 done sml-packaging-solutions-llc 0 
 done src-automotive-inc 0 
-done safe-t-cap-manufacturing 1 
+done svtronics-inc 1 
+done safe-t-cap-manufacturing 2 
 done safer-textiles 0 
 done safety-components-an-elevate-textiles-company 0 
 done safety-fresh-foods 1 
 done sanel-auto-parts-co 0 
-done sanhua-automotive-usa-inc 5 
-done sapona-plastics-llc 0 
-done sare-plastics-inc 2 wrong
-done schmersal-inc 1 
+done sanhua-automotive-usa-inc 7 
+done sapona-plastics-llc 1 
+done sare-plastics-inc 0 wrong
+done schmersal-inc 2 
 done schneider-electric 0 
-done schroeder-furniture-flooring 1 
-done schwan-s-pizza-plant 2 
+done schroeder-furniture-flooring 0 
+done schwan-s-pizza-plant 1 
 done sea-bright-solar 0 
 done seaca-packaging 1 
-done seattle-tacoma-box-co 5 
+done seattle-tacoma-box-co 6 
 done secure-semiconductor-manufacturing-llc-office 0 
 done selco-products-company 1 
 done selvaggio-steel-inc 0 
@@ -387,53 +115,55 @@ done semigen-inc 1
 done sensor-electronics-corporation 1 
 done servco-parts-center-business-accounts-only 0 
 done service-metal-fabricating-inc 2 
-done service-steel-inc 1 
+done service-steel-inc 0 
 done service-wire-co 0 
 done sewer-cable-equipment-co 2 
-done shaker-style-handcrafted-furniture 3 
+done shaker-style-handcrafted-furniture 4 
 done shamrock-foodservice-warehouse 0 
 done shamrock-plastics-inc 0 
+RETRY shawmut-infinite expected string or bytes-like object, got 'NoneType'
+RETRY southeastern-textile-machinery expected string or bytes-like object, got 'NoneType'
 done shawmut-infinite 0 
 done shearer-s-snack-foods 1 
 done shore-metal-fabricators-llc 1 
-done shoreline-manufacturing 0 
+done shoreline-manufacturing 1 
 done siemens-corporation 4 
 done siemon 0 
 done sierra-bags 1 
 done sierra-communications-llc 0 
 done sigmatex 0 
-done signum-llc 1 
+done signum-llc 4 
 done silver-state-inc 2 
-done six-robblees-inc 2 
+done six-robblees-inc 1 
 done skyline-furniture-mfg-inc 0 
-done smith-brothers-of-berne-inc 4 
+done smith-brothers-of-berne-inc 3 
 done smt-manufacturing-group-llc 0 
 done solar-energy-services-llc 0 
 done solar-guardians-usa 0 
 done solar-me 0 
 done solar-power-light-llc 0 
-done solar-rising 0 
-done solar-technology-alabama 1 
+done solar-rising 2 
+done solar-technology-alabama 0 
 done solar-topps 0 
 done solarreviews 0 
 done solid-stone-fabrics 0 
-done sons-of-sawdust-supply 3 
+done sons-of-sawdust-supply 2 
 done sourceeazy 0 
-done south-coast-solar 2 
+done south-coast-solar 0 
 done south-electronics 0 
 done southbridge-sheet-metal-works 0 
 done southeast-solarpros 1 
-done southeastern-architectural-woodworks-inc 5 
+done southeastern-architectural-woodworks-inc 2 
 done southeastern-textile-machinery 1 
 done southern-fabrication-works 0 
 done southern-industrial-fabrics 0 
 done southern-interconnect 0 
 done southland-steel-fabricators-inc 1 
 done southwest-wire-rope-inc 2 
-done spartronics 1 
+done spartronics 0 
 done specialty-cable-corporation 0 
 done specialty-plastics-fab-inc 0 
-done spice-world-inc 2 
+done spice-world-inc 0 
 done spike-electric-controls 0 
 done spinnaker-contract-manufacturing-inc 0 
 done spring-solar 0 
@@ -444,8 +174,110 @@ done standard-iron-works-inc 0
 done standard-spring-parts 3 
 done star-plastic-design 0 
 done stark-electronics-inc 0 
-Traceback (most recent call last):
-  File "/home/runner/work/firmsledger-stories-runner/firmsledger-stories-runner/dev/company-stories/verify.py", line 46, in <module>
-    res[slug]=v; print('done',slug,len(v.get('unsupported',[])),'wrong' if v.get('wrong_company') else '',flush=True)
-                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-TypeError: object of type 'bool' has no len()
+done steel-fabricators-llc 1 
+done steel-plate-fabricators 0 
+done steel-queen 0 
+done steel-specialties 1 
+done steel-and-wire-products-co 0 
+done steven-engineering 0 
+done stickley-furniture 0 
+done stitt-solar 0 
+done stone-creek-furniture 0 
+done stone-plastics-manufacturing 1 
+done straightup-solar 1 
+done strategy-plastics 0 
+done sumiden-wire-products-corporation 0 
+done sumitomo-electric-wiring-systems 1 
+done sumner-woodworker-store 0 
+done sun-comm-technologies 1 
+done sun-medical-equipment-company-inc 0 
+done sun-solar-illinois 2 
+done suncommon 0 
+done sunbelt-packaging-llc-proudly-part-of-bradyplus 0 
+done sunbelt-plastics-inc 0 
+done sund-manufacturing-co 2 
+done sundance-power-systems-inc 1 
+done sunergy-renewable-systems 0 
+done sunergy-systems 4 
+done sunforce-solar 0 
+done sunlight-electric 1 
+done suntria-oklahoma-solar-panel-installers 1 
+done superior-metal-fab-llc 1 
+done superior-metalcraft 1 
+done superior-plastics 2 
+done superior-sheet-metal 0 
+done supplyone-plastics-inc 0 
+done susa-usa 0 
+done swanson-sheet-metal-inc 0 
+done sweet-spirit-foods 0 
+done switchgear-solutions-ltd-ssl 0 
+done synergy-renewable-systems-llc 0 
+done tci-packaging 0 
+done thaco-industries-usa-llc 3 
+done tnt-springs-inc 1 
+done tvs-manufacturing-specialist-inc 2 
+done ty-fine-furniture 1 
+done tabb-textile-systems-inc 0 
+done taylor-packaging-corporation 0 
+done team-solar-inc 0 
+done tekmos 1 
+done telan-corporation 0 
+done tennessee-chair-company 3 
+done tennessee-sheet-metal-inc 3 
+done teton-metal-fabrication 0 
+done texas-injection-molding-llc 0 
+done texas-mesquite-co 1 
+done textiles-coated-international 0 
+done that-solar-company-llc 0 
+done the-advertising-specialists-of-maine 1 
+done the-airtex-group 2 
+done the-cable-guy 1 
+done the-cotton-mafia 0 
+done the-flying-cow-shirt-company 2 
+done the-food-movement-natural-products-company 3 
+done the-food-processing-center 5 
+done the-furniture-ranch 2 
+done the-modern-table-company 1 
+done the-sweet-life-kettle-corn-company 1 
+done the-urban-wood-company 1 
+done the-wire-guy-electric 0 
+done thornton-plastic-co 7 
+done thyssenkrupp-automotive-systems-of-america 1 
+done tick-tock-energy-inc 0 
+done tillett-textiles 0 
+done titan-circuits 1 
+done topper-town-abq 1 
+done tops-packaging-solutions 1 
+done toshiba-international-corporation 4 
+done traco-packaging-a-division-of-traco-manufacturing-inc 1 
+done traditional-woodworks 2 
+done traverse-bay-manufacturing-inc 1 
+done tri-fab-steel-inc 0 
+done tri-steel-manufacturing-co 0 
+done triad-plastic-technologies 0 
+done trickett-woodworks-co 0 
+done trim-illusion-inc 0 
+done trivium-packaging 0 
+done trunorth-solar 2 
+done truck-transportation-equipment-company 0 
+done true-south-solar 0 
+done truechoicepack 0 
+done tulsa-plastics-co 0 
+done tulsa-sheet-metal 1 
+done turner-welding-and-fabrication-llc 0 
+done twin-city-fan-companies-ltd 0 
+done u-s-apparel 0 
+done ufp-packaging 0 
+done us-advanced-medical-research-inc 1 
+done us-wire-cable-corporation 0 
+done uniforce-plastics 0 
+done united-foods-international-usa-inc 2 
+done united-premium-foods 0 
+done unlimited-metal-fabricators 0 
+ALL-DONE errors 0
+clean 196 | sentences removed 138 | needs review 4 | check errors 0
+REVIEW sare-plastics-inc Source name is Sare Plastics Inc but the content describes CPI Precision Plastics LLC.
+REVIEW sunergy-systems too short after fact-check (62 words)
+REVIEW the-food-processing-center too short after fact-check (67 words)
+REVIEW thornton-plastic-co too short after fact-check (43 words)
+sql parts 3 stories 196

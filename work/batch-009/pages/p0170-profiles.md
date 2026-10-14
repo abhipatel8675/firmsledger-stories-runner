@@ -1,0 +1,658 @@
+# Emco Industrial Plastics
+
+**Old description:** Emco’s skilled staff follows your project through every stage – from inception to creation and shipment. Here at Emco we design, assemble, test, re-test, decorate, package and ship your product. All of our molds are designed internally by our own staff and are 100% made in the USA! Our machines range in size from 30 ton (1 1/2 oz shot) to 550 ton (90 oz shot). Emco’s injection molding division has been manufacturing components since 1988!
+
+## About
+Emco Industrial Plastics is based in Cedar Grove, New Jersey. The company’s injection molding division has been manufacturing components since 1988, and its molds are designed and built entirely in-house by its own staff.
+
+The facility offers a broad range of plastic fabrication services: CNC machining, CNC routing, laser cutting, plastic welding, edge finishing, forming, polishing, drape and oven forming, vacuum forming, and custom injection molding on presses from 30 to 550 tons. Emco also machines, fabricates, and distributes engineering plastics such as acetal, acrylic, PEEK, HDPE, Kydex, Kynar, and many others, and provides value-added services including sealing, gasket cutting, and packaging.
+
+The company serves a diverse industrial base including aerospace, medical, semiconductor, food and beverage, automotive, chemical processing, oil and gas, heavy equipment, marine, and water treatment. Typical customers are OEMs requiring replacement parts, aerospace-grade components built to military specifications (e.g., MIL-P-25690, MIL-P-8184), and metal-detectable parts for food-processing equipment.
+
+Emco differentiates itself by managing projects from inception through shipment, with all tooling made in the USA and a skilled staff overseeing design, assembly, testing, decoration, and logistics.
+
+## Known for
+- Molds designed and built in-house, 100% made in the USA
+- Injection molding presses from 30 to 550 tons
+- Full project follow-through from inception to shipment
+- Extensive inventory of engineering plastics for machining and fabrication
+
+## Capabilities
+- Custom Fabrication
+- Value-Added Services
+- Injection Molding
+- Foam Cell PVC Machining, Fabricating & Distribution
+- Acetal Machining & Fabricating
+- Acrylic Machining & Fabricating
+- Celtec Machining & Fabricating
+- Corzan Machining & Fabricating
+- Delrin Machining & Fabrication
+- Ertalyte Machining & Fabrication
+- Fiberglass Machining & Fabrication
+- GPO Machining & Fabrication
+- HDPE Machining & Fabricating
+- Hydlar Machining & Fabrication
+- Kydex Machining & Fabrication
+- Kynar Machining & Fabrication
+- Nylatron Machining & Fabrication
+- Nylon Machining & Fabrication
+- PEEK Machining & Fabricating
+- PETG Machining & Fabrication
+- CNC Machining
+- CNC Routing
+- Laser Cutting
+- Plastic Welding
+
+## Industries
+- Aerospace
+- Aerospace California
+- Alternative Energy
+- Automotive
+- Building & Construction
+- Chemical Processing
+- Electrical
+- Fluid Handling
+- Food & Beverage Industry
+- Heavy Equipment
+- Marine
+- Medical Grade Plastic
+- OEM Replacement Parts
+- Oil & Gas
+- Packaging Machine Manufacturing
+- Semiconductor
+- Water & Wastewater
+
+## Equipment
+- Injection molding presses (30-550 ton)
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1988
+- **Headquarters:** Cedar Grove, New Jersey
+
+<details><summary>Sources</summary>
+
+- Headquarters: Cedar Grove, New Jersey -> db
+- Injection molding division since 1988 -> db
+- Molds designed internally, 100% made in USA -> db
+- Machines range 30-550 ton -> db
+- Capabilities: custom fabrication, CNC machining, routing, laser cutting, welding, etc. -> pages '/capabilities'
+- Industries served: aerospace, medical, semiconductor, etc. -> pages '/capabilities' and db industries_served
+- Materials: acetal, acrylic, PEEK, HDPE, Kydex, Kynar, etc. -> pages '/'
+- LinkedIn URL -> db
+</details>
+
+---
+
+# Emergent Solar Energy
+
+**Old description:** Your business deserves a trusted solar contractor who specializes in getting results for Indiana farms and manufacturers. Get in touch and let’s find a time to visit your site and make a plan together.
+
+## About
+Emergent Solar Energy is headquartered in West Lafayette, Indiana, within the Purdue Research Park. It operates as a privately held firm; no specific ownership designation such as veteran- or woman-owned is publicly claimed.
+
+The firm operates as a full-service engineering, procurement, and construction (EPC) contractor for commercial and industrial solar photovoltaic and battery energy storage systems. Its delivery model covers feasibility analysis, site-specific engineering, equipment procurement, construction management, utility interconnection, and commissioning under a single turnkey agreement. The team emphasizes professional-engineered designs, performance modeling, and component selection driven by warranty strength and supply-chain reliability. Metrics cited include 10+ years of commercial and industrial project experience, 99.89% system uptime across operating facilities, and a portfolio spanning active manufacturing plants, farms, and institutional sites.
+
+Emergent Solar serves manufacturing, agricultural, municipal, institutional, and commercial-industrial customers throughout Indiana and neighboring states. Notable projects include a solar installation for Subaru of Indiana Automotive. The company targets facilities with complex energy loads, demand-charge management needs, and sustainability objectives, offering integrated solar-plus-storage solutions designed for operational continuity.
+
+The company was started to address a gap in reliable, turnkey solar infrastructure for Indiana's industrial and agricultural sectors. Its stated differentiators include a disciplined, data-driven approach to project economics, single-contract accountability, and long-term performance monitoring backed by a 25-year production warranty and a 5-year workmanship guarantee.
+
+## Known for
+- Turnkey EPC delivery under a single contract
+- Professional-engineered designs with pre-procurement performance modeling
+- 25-year production warranty and 5-year workmanship guarantee
+- 99.89% system uptime across operating facilities
+- Experience in active manufacturing and agricultural environments
+
+## Capabilities
+- Feasibility and site analysis
+- Design and system engineering
+- Procurement and construction management
+- Utility interconnection and commissioning
+- Commercial and industrial solar EPC
+- Agricultural solar EPC
+- Municipal and institutional solar EPC
+- Battery energy storage system integration
+- Solar project financing and incentive modeling
+- Professional-engineered design
+- Component procurement planning
+- System performance monitoring
+- Proactive service and warranty support
+
+## Industries
+- Manufacturing
+- Agriculture
+- Municipal
+- Institutional
+- Commercial
+- Industrial
+
+## Company details
+- **Company Type:** Installer / service company
+- **Founded:** 2014
+- **Headquarters:** West Lafayette, Indiana
+
+<details><summary>Sources</summary>
+
+- Headquarters in West Lafayette, Indiana -> /
+- Founded in 2014 -> /about-us
+- Founders: Jeremy Lipinski, Adam Bolen, Zacaria Martinez -> /about-us
+- Full-service solar EPC contractor -> /
+- Turnkey solar and battery energy storage systems -> /
+- Industries served: manufacturing, agricultural, municipal, institutional -> /
+- Subaru of Indiana Automotive project -> /
+- 10+ years commercial & industrial project experience -> /
+- 99.89% system uptime -> /
+- 25-year production warranty and 5-year workmanship guarantee -> /about-us
+- Professional-engineered design -> /
+- Component procurement plan -> /
+- Project economic incentive modeling -> /
+- Feasibility, design, procurement, construction, interconnection, commissioning phases -> /
+- Single-contract EPC delivery model -> /
+- Active commercial and industrial facilities -> /
+</details>
+
+---
+
+# Emmaus Foods LLC
+
+**Old description:** We are a Custom Manufacturer of Food Products for the National Chain, Food Service, and Hospitality Segments of the Food Industry. Our Manufacturing Facility and Corporate Office are located in the heart of the Poultry Industry in Albertville, AL! We currently have approximately 500 Team Members to support our Business and are continuously striving to expand our Customer Portfolio through Superior Product Quality and Outstanding Customer Service!
+
+## About
+Emmaus Foods LLC operates a manufacturing facility and corporate office in Albertville, Alabama, in the heart of the poultry industry. The company is organized as a privately held limited liability corporation; no founding year or founders are disclosed for the food business, though the website references a steel fabrication entity incorporated in April 1989.
+
+The company describes itself as a custom manufacturer of food products for national chain, food service, and hospitality segments. The same web presence also details extensive steel fabrication capabilities: custom industrial tanks, structural steel design, fabrication, and erection, industrial coating, machining, and design. Products listed include tanks, pressure vessels, cyclones, scrubbers, fan housings, ductwork, hoppers, stacks, dampers, conveyors, and more. The workforce numbers approximately 500 team members.
+
+Customers span the food industry (national chains, food service operators, hospitality) as well as industrial sectors such as semiconductor (for stainless steel ducting), commercial and industrial building construction, and bridge projects. Coating services are offered to numerous unspecified industries.
+
+The company states it differentiates itself through a special workplace culture focused on team members, aiming to maintain a safe and pleasant environment. The steel fabrication side was reportedly started to offer a higher level of excellence after large manufacturers scaled back in-house capabilities.
+
+## Known for
+- Special workplace culture focused on team members
+- Rush fabrication services available in hours
+- Custom food manufacturing for national chains and food service
+- Industrial coating services for diverse industries
+- Design, fabrication, and erection of structural steel
+
+## Capabilities
+- Custom food product manufacturing
+- Custom industrial tank fabrication
+- Structural steel design, fabrication, and erection
+- Industrial coating services
+- Machining
+- Manufacturing
+- Design
+- Rush order fulfillment
+
+## Industries
+- Food industry (national chain, food service, hospitality)
+- Semiconductor
+- Commercial and industrial construction
+- Bridge construction
+- General industrial
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Employees:** 500
+- **Ownership:** Privately held LLC
+- **Headquarters:** Albertville, Alabama
+
+<details><summary>Sources</summary>
+
+- Company name Emmaus Foods LLC -> db
+- Location Albertville, AL -> db, /
+- Employee count 500 -> db, /
+- Ownership privately held LLC -> /
+- Custom manufacturer of food products -> /
+- Steel fabrication products (tanks, structural steel, ductwork, etc.) -> /
+- Steel and Fabrication Industry incorporated April 1989 -> /
+- Rush services in hours -> /
+- Special culture focusing on team members -> /
+- Industries: national chain, food service, hospitality, semiconductor -> /
+- Industrial coating services -> /
+- Materials: stainless steel, steel -> /
+</details>
+
+---
+
+# Empowered Solar
+
+**Old description:** Empowered Solar is an Idaho company designing and installing solar electric systems for residential and commercial customers. When you choose to do business with Empowered Solar you get professional local service and can feel confident that you are making a sound investment financially and environmentally. We provide solar panel installation for both roof mounted and ground mounted systems. We size each solar installation to fit the client's energy needs. Take control of your energy usage by calling us for a free quote today.
+
+## About
+Empowered Solar operates from Boise, Idaho, where it designs and installs solar electric systems for residential and commercial customers. The company does not publicly disclose its founding year, ownership structure, or the names of its founders.
+
+The firm provides turnkey solar installations, including both roof-mounted and ground-mounted arrays, and sizes each system to match the client's energy consumption. It sources high-quality solar panels, inverters, mounting hardware, and related components backed by warranties, but does not manufacture its own equipment. No facility size, headcount, or annual volume figures are published.
+
+Empowered Solar serves homeowners seeking to claim the federal 30% renewable energy tax credit and businesses aiming to generate their own electricity. The company also highlights a social-change initiative that partners with local non-profits and organizations in developing countries, though specific project examples are not detailed on its site.
+
+The company emphasizes professional local service and frames each project as a sound financial and environmental investment. Its stated mission ties local actions to global impact, positioning the business as a force for change both in Idaho and abroad. Differentiators cited include customized system sizing, component quality, and a community-oriented model.
+
+## Known for
+- Customized system sizing for each client's energy needs
+- Roof-mounted and ground-mounted installation options
+- High-quality panels, inverters, and mounting hardware with industry-leading warranties
+- Professional local service with free quotes
+- Social-change program partnering with non-profits and developing countries
+
+## Capabilities
+- Solar system design
+- Roof-mounted solar panel installation
+- Ground-mounted solar panel installation
+- System sizing and energy needs assessment
+- Residential solar installation
+- Commercial solar installation
+- Component procurement (panels, inverters, mounting systems)
+- Free quote consultation
+
+## Industries
+- Residential
+- Commercial
+- Non-profit
+
+## Certifications
+- LEED
+
+## Company details
+- **Company Type:** Installer / service company
+- **Headquarters:** Boise, Idaho
+
+<details><summary>Sources</summary>
+
+- Located in Boise, Idaho -> db
+- Designs and installs solar electric systems for residential and commercial customers -> db
+- Provides roof mounted and ground mounted solar panel installation -> db
+- Sizes each installation to fit client's energy needs -> db
+- Uses high quality solar panels, inverters, mounting systems with industry leading warranties -> db
+- LEED certification -> db
+- Serves residential customers (home owners) -> /
+- Serves commercial customers (businesses) -> /
+- Offers free quotes -> /
+- Mentions 30% renewable energy tax credit -> /
+- Works with local non-profits and abroad -> /
+</details>
+
+---
+
+# Encore Equipment LLC
+
+**Old description:** Our Mission is to provide the highest quality sales, pricing, and customer service. We have been offering new, refurbished, and used products for over 25 years. We will also purchase equipment of all types!
+
+## About
+Encore Equipment LLC is based in Redmond, Oregon, where it has maintained a presence in the medical capital equipment market for over 25 years. No founding year, ownership structure, or founder names are disclosed in the company’s public information.
+
+The firm sells new, refurbished, and used medical capital equipment and also purchases equipment of all types from customers. Its advertised product line includes Mac Medical warming cabinets, though the company does not publish facility size, employee count, or annual sales volumes. The website presents the business as a reseller and buyer of used medical equipment rather than a manufacturer.
+
+Encore targets healthcare providers and facilities that need capital equipment, describing itself as a medical capital equipment specialist. Beyond the medical field, the company does not specify other industry verticals or name individual customers.
+
+The company’s stated mission is to deliver the highest quality sales, pricing, and customer service, citing its decades of experience and its equipment buyback program as key differentiators. The mission statement appears on the company’s homepage alongside its product listings and contact information.
+
+## Known for
+- Over 25 years selling new, refurbished, and used medical capital equipment
+- Buys equipment of all types from customers
+- Specializes in medical capital equipment
+- Offers Mac Medical warming cabinets
+
+## Capabilities
+- Sales of new medical capital equipment
+- Sales of refurbished medical equipment
+- Sales of used medical equipment
+- Equipment purchasing and buyback
+
+## Industries
+- Medical capital equipment
+
+## Equipment
+- Mac Medical warming cabinets
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Headquarters:** Redmond, Oregon
+
+<details><summary>Sources</summary>
+
+- Company name: Encore Equipment LLC -> db
+- Location: Redmond, Oregon -> db, page '/'
+- Over 25 years offering new, refurbished, used products -> page '/'
+- Purchases equipment of all types -> page '/'
+- Specializes in medical capital equipment -> page '/', industries_served
+- Offers Mac Medical warming cabinets -> page '/', industries_served
+- Mission: highest quality sales, pricing, customer service -> page '/'
+- Website: encoreequip.com -> db
+</details>
+
+---
+
+# Encore Renewable Energy
+
+**Old description:** We develop, own and operate community-scale solar and energy storage projects. As a certified B-Corp, we leverage our business as a force for good—turning brownfields to brightfields and deploying dual-use solutions like pollinator-friendly ground cover and solar grazing across our portfolio. We’re delivering energy’s second act, or “encore,” by revitalizing communities and creating a cleaner, brighter future for all.
+
+## About
+Encore Renewable Energy is based in Burlington, Vermont. The company traces its roots to brownfield redevelopment, later expanding into community-scale solar and energy storage. It operates as a portfolio company of SUSI Partners.
+
+The firm develops, owns, and operates solar and storage projects from concept through long-term ownership. It specializes in reclaiming landfills, brownfields, rooftops, and parking lots, and integrates dual-use practices such as pollinator-friendly ground cover and solar grazing with sheep. Encore ranks as the top solar developer in Vermont and among the top 25 nationally. Its portfolio includes a 2.25‑megawatt landfill array in Derry, New Hampshire, projected to save the town $4 million over 25 years, and multiple community‑solar projects under construction in Illinois that maintain agricultural use through sheep grazing.
+
+Encore serves municipalities, utilities, businesses, institutions, non‑profits, and landowners across the Northeast and broader United States. Customers include the Town of Derry, New Hampshire, and landowners in Illinois leasing acreage for community solar. The company also works with commercial and institutional off‑takers seeking clean energy supply.
+
+As a certified B Corporation, Encore frames its mission as leveraging business as a force for good—turning “brownfields to brightfields” and delivering what it calls “energy’s second act.” Its stated values—integrity, determination, innovation, humility, curiosity, and impact—guide project decisions and community engagement.
+
+## Known for
+- Certified B Corporation meeting verified social and environmental performance standards
+- Ranked #1 solar developer in Vermont and top 25 in the U.S.
+- Full-service development from concept to long-term ownership and operation
+- Specialized expertise in brownfield, landfill, and agrivoltaic project sites
+- Backed by SUSI Partners as a portfolio company
+
+## Capabilities
+- Solar project development
+- Brownfield and landfill redevelopment
+- Agrivoltaics (solar grazing, pollinator-friendly ground cover)
+- Energy storage integration
+- Community-scale project origination
+- Long-term asset ownership and operation
+- Rooftop and parking lot solar installation
+- Project finance and permitting
+- Community solar program management
+
+## Industries
+- Solar energy
+- Energy storage
+- Brownfield redevelopment
+- Agrivoltaics
+- Community solar
+- Renewable energy project development
+
+## Certifications
+- Certified B Corporation
+
+## Company details
+- **Company Type:** Installer / service company
+- **Ownership:** Portfolio company of SUSI Partners
+- **Headquarters:** Burlington, Vermont
+
+<details><summary>Sources</summary>
+
+- Headquarters: Burlington, Vermont -> db
+- Origins as brownfield redevelopment company -> /
+- Portfolio company of SUSI Partners -> /
+- Develops, owns, operates community-scale solar and energy storage -> /
+- Full-service from concept to completion and long-term ownership -> /
+- Specializes in landfills, brownfields, rooftops, parking lots -> /
+- Dual-use: pollinator-friendly ground cover, solar grazing -> /
+- #1 Solar Developer in Vermont, Top 25 US Solar Developers -> /
+- 2.25 MW landfill project in Derry, NH saving $4M over 25 years -> /
+- Community solar projects under construction in Illinois with sheep grazing -> /
+- Serves municipalities, utilities, businesses, institutions, non-profits, landowners -> /
+- Certified B Corporation -> /
+- Values: integrity, determination, innovation, humility, curiosity, impact -> /
+- LinkedIn URL -> db
+</details>
+
+---
+
+# Endries Solar And Electric
+
+**Old description:** Endries Solar & Electric is a leading provider of solar products and services. We call the Sheboygan area our home, with our installation territory covering north of Green Bay, the Fox Valley, around Madison and as far south as the Wisconsin/Illinois border.
+
+## About
+Endries Solar & Electric operates from Oostburg, Wisconsin, serving a territory that stretches from north of Green Bay through the Fox Valley to the Wisconsin-Illinois border. The company is owned by Russel and Sarah Endries, who have been with the business since its inception. Russel Endries, a NABCEP-certified master electrician, installed his first solar system in 2008 and now serves as president.
+
+The firm provides full-service solar installation for residential and commercial customers, handling design, permitting, installation, commissioning, inspection, and maintenance. All work is performed by the company's own licensed and insured employees—no subcontractors are used. To date, the team has installed more than 1,000 photovoltaic systems, each designed by Russel Endries. The current staff includes eight people, among them a NABCEP-certified technical sales professional and a Tesla-certified installer with OSHA 30 and arc-flash credentials.
+
+Endries Solar & Electric serves homeowners and businesses across southeastern and central Wisconsin. Its projects range from rooftop arrays on private residences to ground-mount systems for commercial facilities. The company is listed on Wisconsin's Focus on Energy Trade Ally roster and holds national accreditation through NABCEP.
+
+Russel Endries founded the business on a passion for clean energy and a goal of reducing customers' ecological footprints while delivering long-term electricity savings. The company emphasizes that every system is owner-designed to maximize production and meet all code requirements, and it backs its work with a satisfaction guarantee.
+
+## Known for
+- All installations performed by licensed and insured employees, no subcontractors
+- NABCEP accredited company
+- Listed on Wisconsin's Focus on Energy Trade Ally roster
+- Owner-designed systems (over 1,000 installed)
+- Team includes NABCEP-certified professionals and a Tesla-certified installer
+
+## Capabilities
+- Solar photovoltaic system design
+- Permitting and paperwork management
+- Residential solar installation
+- Commercial solar installation
+- System commissioning and inspection
+- Solar maintenance and repair
+- Energy usage analysis and system sizing
+- Customized solar and electrical system engineering
+- Grid-tied and battery backup system integration
+- Ground-mount and rooftop mounting
+
+## Industries
+- Residential
+- Commercial
+- Renewable energy
+- Solar photovoltaic
+
+## Equipment
+- Hanwha QCell modules
+- Enphase IQ microinverters
+- Boviet bi-facial modules
+- Tesla Powerwall battery storage
+- Enphase ground-mount photovoltaic system
+
+## Certifications
+- NABCEP Accredited
+- Focus on Energy Trade Ally
+- NABCEP Certified PV Installation Professional
+- NABCEP Certified PV Technical Sales Professional
+- Tesla Certified Installer
+- OSHA 30
+- First Aid/CPR
+- ARC Flash
+
+## Company details
+- **Company Type:** Installer / service company
+- **Employees:** 8
+- **Ownership:** Private, owned by Russel and Sarah Endries
+- **Headquarters:** Oostburg, Wisconsin
+
+<details><summary>Sources</summary>
+
+- Located in Oostburg, Wisconsin -> db
+- Owner Russel Endries, NABCEP certified master electrician, first system 2008 -> /about
+- Over 1,000 PV solar systems installed -> /about
+- NABCEP accredited company -> /about
+- Focus on Energy Trade Ally -> /about
+- All installations by licensed/insured employees, no subcontractors -> / and /about
+- Team of 8 employees listed -> /about
+- Services: residential and commercial solar installation, design, permitting, commissioning, inspection, maintenance -> / and /about
+- Installation territory: north of Green Bay to WI/IL border -> db and /
+- Will Madson: 1 of 5 NABCEP Certified PV Technical Sales Professionals in Wisconsin -> /about
+- Troy Wenzel: certified Tesla Installer, OSHA 30, etc. -> /about
+- Brands: Hanwha QCell, Enphase IQ, Boviet, Tesla Powerwall -> /about
+</details>
+
+---
+
+# Energy Technologies, Inc., Manufacturing Building
+
+**Old description:** Energy Technologies, Inc. (ETI) power site covering rugged, high-reliability global UPS, Power Inverters, Solar Power, Battery Backup, Power Conditioning, Frequency Conversion, Power Distribution, Power Generation and Computer products that are the Standard used by defense, industrial and telecommunications experts worldwide.
+
+## About
+Energy Technologies, Inc. (ETI) operates from Mansfield, Ohio, where it designs and manufactures rugged, high-reliability power systems for demanding environments. The company focuses on uninterruptible power supplies, inverters, frequency converters, power conditioners, and distribution units built to withstand military and industrial conditions.
+
+ETI's product portfolio spans six branded lines—Rugged Power™, Military Power®, Tactical Power®, Airborne Power®, Industrial Power Source®, and Extreme Power Source™—covering AC and DC UPS systems, inverters, frequency converters, power distribution units, solar arrays, wind turbines, fuel cells, engine generators, battery storage, and rugged computer peripherals. All lines are offered in rackmount, NEMA 1–13, IP10–IP67, portable, and custom configurations. The company also provides custom design services and integrated intelligent UPS/PDU units that combine monitoring, SNMP, and HTTP interfaces in a single chassis.
+
+Primary customers include defense agencies, industrial firms, telecommunications providers, and medical equipment manufacturers. Military Power® products meet MIL-STD-167-1 and MIL-STD-810 requirements for shock, vibration, and temperature extremes. Tactical Power® gear supports field-deployable shelters, microgrids, vehicle power, and environmental control units. Airborne Power® serves aircraft applications, while Industrial Power Source® addresses harsh factory and infrastructure settings.
+
+ETI differentiates itself by designing products rugged from the outset rather than ruggedizing commercial off-the-shelf units. The company states that its designs have repeatedly passed military environmental standards, and its equipment is described as the standard used by defense, industrial, and telecommunications experts worldwide.
+
+## Known for
+- Products engineered rugged from the start, not ruggedized COTS
+- Designs validated to MIL-STD-810 and MIL-STD-167-1
+- Six product families covering rackmount, NEMA/IP, portable, and custom form factors
+- Integrated intelligent UPS/PDU units with SNMP/HTTP monitoring
+- Tactical deployable power including solar, wind, fuel cell, and generator systems
+
+## Capabilities
+- UPS manufacturing (AC/DC, rackmount, NEMA, portable)
+- Power inverter manufacturing (DC/AC, rackmount, NEMA, portable)
+- Frequency converter manufacturing (46-440 Hz input to 50/60/400 Hz output)
+- Power conditioner manufacturing
+- Power distribution unit (PDU) manufacturing (manual and intelligent with SNMP/HTTP)
+- Solar power system manufacturing (panels, charge controllers, deployable arrays)
+- Wind turbine generator manufacturing (deployable, with telescopic masts)
+- Fuel cell power system manufacturing
+- Engine generator manufacturing (portable, vehicle/trailer mount)
+- Battery module and energy storage manufacturing
+- Rugged computer and peripheral manufacturing (chassis, RAID, workstations, data vaults)
+- Custom power system design
+- Military specification compliance testing (MIL-STD-810, 167-1)
+- Environmental control unit (HVAC) manufacturing
+- Tactical shelter system integration
+- Microgrid power management system manufacturing
+
+## Industries
+- Defense/Military
+- Industrial
+- Telecommunications
+- Medical
+- Aerospace/Aviation
+
+## Certifications
+- MIL SPEC
+- MIL-STD-810
+- MIL-STD-167-1
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Mansfield, Ohio
+
+<details><summary>Sources</summary>
+
+- Company name, location, website -> db
+- Product lines and descriptions -> pages '/'
+- Certifications (MIL SPEC) -> db
+- Industries served (defense, industrial, telecommunications, medical) -> pages '/'
+- LinkedIn URL -> db
+- Military standards (MIL-STD-810, MIL-STD-167-1) -> pages '/'
+- Product configurations (rackmount, NEMA, IP, portable, custom) -> pages '/'
+- Tactical product categories (solar, wind, fuel cell, generator, shelter, microgrid) -> pages '/'
+</details>
+
+---
+
+# Engineered Textile Products
+
+**Old description:** ETP, Engineered Textile Products, Inc., is a leader in the custom fabrication of a large variety of environmental and industrial fabric products for the water, agriculture, and manufacturing industries. We distribute our products nationwide and export many of them throughout the world.
+
+## About
+Engineered Textile Products, Inc. (ETP) has operated from Mobile, Alabama since its founding in 1877. The family-owned business, now in its fifth generation, began as a textile fabrication shop serving the port city's maritime and industrial needs.
+
+The company specializes in custom fabrication of environmental and industrial textile products. Its capabilities span five branded lines: ETP Environmental produces site-specific liners and containment curtains for water and ecology projects; ETP Industrial supplies tarps, curtains, and covers for facility optimization and asset protection; ETP Artcraft Awnings delivers commercial and residential shade structures; ETP Sports outfits track-and-field, baseball, and gym facilities with surfacing and padding; and ETP Racemarks provides elite course marking and branding for regattas and triathlons. All products are designed to customer specifications using premium materials suited for harsh environments, with production scaled for nationwide distribution and global export.
+
+ETP serves the water management, agriculture, and manufacturing sectors, along with aerospace, education, maritime, sports, and event industries. Concrete installations include containment systems for NASA hangars, protective covers for high school athletic pits, port infrastructure at the Port of Mobile, and course marking for international triathlon events. The client base ranges from federal agencies and municipal utilities to private contractors and recreational organizations.
+
+The company attributes its longevity to a proactive, customer-first approach forged over five generations. It emphasizes precision-fit design collaboration, premium material selection, and consistent performance in demanding conditions, positioning itself as a partner that turns environmental challenges into high-performance assets.
+
+## Known for
+- Custom-fabricated textile solutions tailored to exact specifications
+- Five generations of family-owned expertise since 1877
+- Nationwide distribution and global export capability
+- Site-specific environmental liners and containment curtains
+- Champion-grade sports surfacing and water-event course marking
+
+## Capabilities
+- Custom textile fabrication
+- Design consultation and collaboration
+- Site-specific liner fabrication
+- Environmental curtain fabrication
+- Tarp, curtain, and cover manufacturing
+- Commercial and residential awning fabrication
+- Sports facility surfacing and padding
+- Water event course marking and branding
+- Precision-fit solution engineering
+- Premium material selection for harsh environments
+
+## Industries
+- Water management
+- Agriculture
+- Manufacturing
+- Aerospace
+- Education
+- Maritime and ports
+- Sports and recreation
+- Event management
+- Commercial construction
+- Residential construction
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1877
+- **Ownership:** Family-owned
+- **Headquarters:** Mobile, Alabama
+
+<details><summary>Sources</summary>
+
+- Founded 1877 -> /
+- Family-owned, five generations -> /
+- Headquarters Mobile, Alabama -> db
+- Custom fabrication of environmental and industrial fabric products -> db
+- Nationwide distribution and global export -> db
+- Product lines: ETP Environmental, ETP Industrial, ETP Artcraft Awnings, ETP Sports, ETP Racemarks -> /
+- Industries: water, agriculture, manufacturing -> db
+- Examples: NASA hangars, high school pits, Port of Mobile, regattas, triathlons -> /
+</details>
+
+---
+
+# Epic Steel
+
+**Old description:** Discover a world of possibilities with our extensive range of steel colors. From vibrant hues to elegant neutrals, we offer numerous choices to match your specific preferences. Take a closer look at our color options to find the perfect fit for your project’s unique style and vision.
+
+## About
+Epic Steel operates from Missoula, Montana, where it has served the region for decades as a family-owned and locally-owned manufacturer of metal roofing and siding. The company emphasizes domestically sourced materials and production entirely within the United States.
+
+The company produces a full line of metal building components, including roof and wall panels, standard trim, soffit, fasteners, accessories, underlayment, and snow retention systems. It also offers custom fabrication of pieces such as corner trim and snow slides, with a range of color finishes that meet Energy Star partner standards and incorporate recycled content.
+
+Epic Steel’s customers include residential and commercial contractors, custom home builders, agricultural operators, and individual property owners across western Montana. Testimonials reference projects ranging from shed roofs and patio covers to large steel buildings and cabinet shop facilities, highlighting the firm’s ability to serve both small and large orders.
+
+The business distinguishes itself through its focus on Montana’s climate, ensuring materials withstand extreme conditions, and through a stocked inventory of essential accessories that enables rapid turnaround — customers report orders completed in as little as 24 hours to one week. Its commitment to recycled materials and eco-friendly coatings further supports sustainability goals.
+
+## Known for
+- Family-owned and locally-owned with decades of experience
+- Domestically sourced steel, manufactured in the USA
+- Recycled materials and Energy Star partner–qualified paint finishes
+- Complete accessory stock enabling 24-hour to one-week turnaround
+- Products engineered for Montana’s climate extremes
+
+## Capabilities
+- Metal roofing panel manufacturing
+- Metal siding panel manufacturing
+- Custom metal fabrication
+- Color coating and finishing (Energy Star partner standards)
+- Accessory production (trim, soffit, fasteners, underlayment, snow retention)
+- Recycled material processing
+
+## Industries
+- Residential construction
+- Commercial construction
+- Agricultural building
+- Roofing
+- Siding
+- Custom home building
+
+## Company details
+- **Company Type:** Manufacturer
+- **Ownership:** Family-owned, locally-owned
+- **Headquarters:** Missoula, Montana
+
+<details><summary>Sources</summary>
+
+- Located in Missoula, MT -> /
+- Family-owned business -> /about
+- Manufactures metal roofing and siding -> /
+- Domestically sourced material, manufactured in USA -> /
+- Offers recycled materials and eco-friendly paint finishes meeting Energy Star partner standards -> /about
+- Fast turnaround: 3 days, 1 week, 24 hours -> / (testimonials)
+- Products: panels, trim, soffit, fasteners, accessories, underlayment, snow retention systems -> /
+- Serves contractors, homeowners, businesses -> / (testimonials)
+- Materials tailored to Montana climate -> /about
+</details>
+
+---

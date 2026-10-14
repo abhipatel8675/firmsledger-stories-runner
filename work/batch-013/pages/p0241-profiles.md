@@ -1,0 +1,665 @@
+# SiCamore Semi
+
+**Old description:** More efficient drivetrains using semiconductor technologies based on Wide Band Gap (WBG) materials such as Silicon Carbide (SiC) are enabling engineers to achieve high voltage (1.2 – 3.3KV) and high power demands in a cost-effective way.
+
+## About
+SiCamore Semi operates a pure-play semiconductor foundry in Bend, Oregon, drawing on more than 30 years of wafer-fabrication experience. The company focuses on wide-bandgap materials such as silicon carbide (SiC) and gallium nitride (GaN) to serve high-voltage, high-power applications.
+
+The foundry runs 100 mm and 150 mm production lines for silicon and SiC, offering single-step device manufacturing, multi-project wafer (MPW) service, and a dedicated gold fab for high-reliability, radiation-hardened, and RF devices. Process capabilities include photolithography with ASML 5000 I-line steppers and Karl Suss aligners, thin-film deposition (sputtering, PVD, CVD, PECVD, e-beam evaporation), frontside/backside metal stacks, thermal oxidation and diffusion, wet and plasma dry etching, RIE, rapid thermal annealing, and cold/hot ion implantation. SiC-specific steps cover high-temperature implant/anneal and gate oxidation with nitric oxide anneal. Partner services extend to device design, wafer thinning, dicing, packaging, and test.
+
+Customers span electric-vehicle drivetrain suppliers, medical-device makers (monitoring, diagnostic, therapeutic), industrial OEMs in agriculture, data centers, energy, and robotics, aerospace and defense programs requiring ITAR-compliant fabrication, and academic partners collaborating on NASA, NSF, DOE, and DOD grants. The company supplies SiC diodes, MOSFETs, JBSFETs, JFETs, IGBTs, Si SGTOs, and SDIODEs to these markets.
+
+SiCamore Semi states its mission is to deliver innovative power-semiconductor solutions through silicon, SiC, GaN, and photonics technologies, aiming to become the wide-bandgap fabrication facility in the U.S. Northwest for both government agencies and commercial sectors such as transportation, telecommunications, and healthcare infrastructure.
+
+## Known for
+- Pure-play foundry for advanced wide-bandgap power semiconductors
+- ITAR-certified secure fabrication environment
+- 100 mm and 150 mm wafer lines for silicon and SiC with single-step device manufacturing
+- Dedicated gold wafer fab for HiRel, radiation-hardened, and RF devices
+- Multi-project wafer (MPW) service and quick single-process-step turns
+
+## Capabilities
+- 100mm & 150mm wafer production for Si and SiC
+- Photolithography (ASML5000 I-Line Steppers, Karl Suss Aligners)
+- Thin film deposition (sputtering, PVD, CVD, PECVD, E-beam evaporation)
+- Frontside/backside metal deposition (Ti/TiW/AlCu, Ti/Ni/Ag, Ti/Pt/Au, AlSiCu)
+- Thermal oxidation and diffusion (Thermco, MRL)
+- Wet chemical etch
+- Plasma dry etch
+- RIE etch
+- Rapid thermal annealing (RTA)
+- Ion implantation (cold and hot)
+- SiC single-step process
+- High-temperature implant and annealing
+- Gate oxidation with nitric oxide anneal
+- Gold wafer fab for HiRel/Rad Hard/RF
+- Multi-project wafer (MPW) service
+- Wafer probe with Keysight B1505A
+- Device design
+- Wafer thinning
+- Wafer dicing
+- Packaging and test
+
+## Industries
+- Electric Vehicles
+- Medical
+- Industrial
+- Aerospace & Defense
+- Academia
+- Transportation
+- Telecommunications
+- Healthcare Infrastructure
+
+## Equipment
+- ASML5000 I-Line Steppers
+- Karl Suss Aligners
+- Thermco
+- MRL
+- Keysight B1505A power device analyzer/curve tracer
+
+## Certifications
+- ITAR
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Bend, Oregon
+
+<details><summary>Sources</summary>
+
+- Location: Bend, Oregon -> db
+- Pure-play semiconductor foundry -> /
+- 30 years wafer-fabrication experience -> /
+- ITAR certified -> /, db
+- 100mm & 150mm production lines for Si and SiC -> /
+- Single-step device manufacturing and MPW service -> /
+- Dedicated gold fab for HiRel/Rad Hard/RF -> /
+- Photolithography with ASML5000 I-Line Steppers and Karl Suss Aligners -> /
+- Thin film deposition (sputtering, PVD, CVD, PECVD, E-beam evaporation) -> /
+- Frontside/backside metal deposition stacks -> /
+- Thermal oxidation and diffusion (Thermco, MRL) -> /
+- Wet chemical etch, plasma dry etch, RIE etch -> /
+- Rapid thermal annealing (RTA) -> /
+- Ion implantation (cold and hot) -> /
+- SiC single-step process, high-temp implant/anneal, gate oxidation with nitric oxide anneal -> /
+- Wafer probe with Keysight B1505A -> /
+- Partner services: device design, wafer thinning, dicing, packaging, test -> /
+- Markets: Electric Vehicles, Medical, Industrial, Aerospace & Defense, Academia -> /
+- Academic collaborations for NASA, NSF, DOE, DOD grants -> /
+- Products: SiC diodes, MOSFETs, JBSFETs, JFETs, IGBTs, Si SGTOs, SDIODEs -> /
+- Mission: leading wide-bandgap facility in Northwest USA for government and commercial markets -> /
+</details>
+
+---
+
+# Sierra Biomed - Autoclave and Medical Equipment Service and Repairs
+
+**Old description:** Our Vision is To provide Peace of Mind for SPD managers, OR Managers and Biomed Departments by ensuring the highest reliability of equipment and being a one-call service provider for all SPD equipment
+
+## About
+Sierra Biomed operates from Aston Township, Pennsylvania, where it has spent more than 40 years serving the sterile processing departments of healthcare facilities. The company was built to consolidate the myriad service contracts that hospitals and surgery centers typically juggle, offering a single point of contact for equipment maintenance, repair, and installation.
+
+Its technicians handle preventative maintenance, emergency repairs, and new equipment installations for autoclaves and other sterile processing devices. The firm maintains what it describes as the largest in‑house inventory of preventative‑maintenance and repair parts in the region, enabling a 93 % first‑time fix rate. In 2025 the team logged over 270,000 service miles across seven states, supporting more than 485 client sites. A customer portal provides real‑time access to service records, job sheets, and repair histories.
+
+Sierra Biomed’s client base spans hospitals, ambulatory surgery centers, pharmaceutical firms, and laboratories. Named references include SurgCenter of Towson. The company emphasizes compliance with healthcare regulations and aims to minimize downtime through rapid response: online emergency requests are acknowledged within 10 minutes, and a technician is guaranteed on‑site within 24 hours.
+
+The business distinguishes itself with a ‘single‑source’ model that replaces multiple OEM and third‑party vendors, coupled with a culture of transparent communication and a ‘customer‑first’ mindset. Its stated goal is to give sterile processing managers peace of mind by ensuring equipment reliability through proactive, consolidated service.
+
+## Known for
+- Single-source service for multiple equipment manufacturers
+- 10-minute emergency response guarantee
+- 24-hour on-site technician guarantee
+- 93% first-time fix rate
+- Largest in-house inventory of PM and repair parts in the region
+
+## Capabilities
+- Preventative maintenance
+- Emergency repair
+- Equipment installation
+- Equipment sales
+- Consumable sales
+- Parts sales
+- Troubleshooting
+- Detailed reporting
+- Customer portal access
+- Staff training
+
+## Industries
+- Hospitals
+- Surgery centers
+- Pharmaceutical firms
+- Laboratories
+
+## Company details
+- **Company Type:** Installer / service company
+- **Headquarters:** Aston Township, Pennsylvania
+
+<details><summary>Sources</summary>
+
+- Headquarters: Aston Township, Pennsylvania -> db
+- Over 40 years experience -> /
+- 7 states served -> /
+- 270,000+ service miles in 2025 -> /
+- 485+ happy customers -> /
+- Single-source service group -> /
+- 10-minute emergency response guarantee -> /
+- 24-hour on-site response guarantee -> /
+- 93% first-time fix rate -> /
+- Largest in-house inventory of PM & repair parts in the region -> /services
+- Industries served: Hospitals, Surgery Centers, Pharmaceutical Firms, Laboratories -> /services
+- Customer portal for service records -> /
+- Core values: Open communication, Customer first, One team, All in mindset -> /
+- Equipment installation with staff training -> /services
+- Preventative maintenance, emergency repair, equipment installation -> /services
+- SurgCenter of Towson as a partner -> /
+</details>
+
+---
+
+# Sierra Metals
+
+**Old description:** At Sierra Metals Southwest LLC, we specialize in crafting exceptional architectural and ornamental metals in the Las Vegas area. With a passion for precision and design, we offer both standard and custom solutions to elevate commercial, residential, or artistic spaces. From intricate details to bold elements our expert team delivers high quality metal work tailored to your vision.
+
+## About
+Sierra Metals Southwest LLC operates from a facility on West Oquendo Road in Las Vegas, Nevada. The company was established by owners with more than 40 years of combined experience in metal fabrication and operates as part of a family of companies that includes Andy Russo Jr Inc, a union installation specialist, and Magnus Ornamental Metals, which focuses on residential ornamental work.
+
+The shop produces architectural and ornamental metalwork for commercial, residential, and artistic projects. Capabilities include MIG welding of steel, TIG welding of stainless steel, brass, and aluminum, shearing up to 3/16-inch mild steel at 12-foot lengths, ACM routing, polishing to #4, #6, and #8 finishes, and light-gauge bending up to 16 gauge at 12 feet. The facility also runs water-jet and plasma-cutting systems capable of beveling and 5-axis cutting with taper control, plus CAD support for custom designs. Standard and custom product lines cover fences, gates, handrails, decorative ceilings, door frames, shade panels, louvers, trellises, security screens, art sculptures, ACM panels, and standing-seam metal roofing components.
+
+Clients range from architects and general contractors on commercial builds to homeowners and artists seeking custom metal pieces. The company also partners with F&A Modular Homes to design and fabricate metal components for modular housing units, including studio and one-bedroom models.
+
+Sierra Metals emphasizes craftsmanship, innovation, customer focus, and reliability as its guiding principles, aiming to deliver tailored solutions with dependable turnaround for the Las Vegas market and beyond.
+
+## Known for
+- Over 40 years of ownership experience in metal fabrication
+- Craftsmanship: superior quality blending skill with artistry
+- Innovation: custom solutions that inspire and endure
+- Customer focus: lasting relationships by listening and exceeding expectations
+- Reliability: timely, dependable service
+
+## Capabilities
+- MIG welding (steel)
+- TIG welding (stainless steel, brass, aluminum)
+- Shearing (up to 3/16" mild steel, 12 ft)
+- ACM routing
+- Polishing (#4, #6, #8 finishes)
+- Light gauge bending (up to 16 gauge, 12 ft)
+- CAD services
+- Water jet cutting
+- Plasma cutting (beveling, 5-axis with taper control)
+- Custom fence & gate fabrication
+- Decorative handrails
+- Decorative ceilings
+- Door frames and guards
+- Shade panels
+- Louvers
+- Trellis
+- Security screens
+- Art sculpture
+- ACM panels
+- Metal soffit, fascia & trims
+- Metal wall panels
+- Standing seam metal panels
+
+## Industries
+- Architectural metalwork
+- Ornamental metalwork
+- Commercial construction
+- Residential construction
+- Artistic fabrication
+- Modular housing
+
+## Equipment
+- Water jet cutter
+- Plasma cutter
+- Shear (12 ft capacity)
+- Press brake (12 ft, 16 gauge)
+- Polishing equipment (#4, #6, #8 finishes)
+- Welding equipment (MIG, TIG)
+
+## Company details
+- **Company Type:** Manufacturer
+- **Ownership:** Private
+- **Headquarters:** Las Vegas, Nevada
+
+<details><summary>Sources</summary>
+
+- Company name: Sierra Metals Southwest LLC -> db
+- Headquarters: Las Vegas, NV -> db
+- Business description: architectural and ornamental metal fabrication -> /
+- Ownership experience: over 40 years industry experience -> /about
+- Sister companies: Andy Russo Jr Inc, Magnus Ornamental Metals -> /about
+- Fabrication processes: welding, shearing, ACM routing, polishing, bending, water jet, plasma cutting -> /services
+- Custom product lines: fences, gates, handrails, decorative ceilings, etc. -> /services
+- Modular homes partnership: F&A Modular Homes -> /
+- Industries served: commercial, residential, artistic, modular housing -> /, /about
+- Materials: steel, stainless steel, brass, aluminum, mild steel, ACM -> /services
+- Equipment: water jet, plasma cutter -> /services
+- Values: craftsmanship, innovation, customer focus, reliability -> /about
+- Address: 3555 W. Oquendo, Unit C, Las Vegas, NV 89118 -> /, /about, /services
+</details>
+
+---
+
+# Sigla Furniture | Best Custom Furniture Manufacturer in Los Angeles
+
+**Old description:** [foogallery id=”18566″] We are thrilled to have had the opportunity to collaborate with The Sardine Factory Restaurant, an iconic restaurant that has been a staple in the Monterey dining scene since 1968. Known for its historic Cannery Row setting and exquisite culinary offerings, The Sardine Factory has become a destination for celebrities, world leaders, and…
+
+## About
+Sigla Furniture operates from Los Angeles, California, where the company's roots trace back to 1976 when the founder arrived from Iran. By 1980 he had opened a small woodworking workshop after initially importing Italian music boxes. His wife joined the business in 1994, introducing computerized production management and organizing supplier relationships abroad. The business remains a second-generation, family-owned custom furniture manufacturer, now led by the founders' child. In 2022 the company expanded by acquiring JDM Furniture and Unfinished Chairs, adding founder Tom Juhasz and his decades of designer-focused experience.
+
+The workshop produces traditional and transitional dining tables, sofas, chairs, and case goods, all custom-made to order using premium imported materials. Each piece is handcrafted in the Los Angeles facility, with typical production and delivery taking eight to ten weeks from order confirmation. The 2022 acquisition broadened the catalog to include raw frames and expanded the range of finishes, fabrics, and leathers available for bespoke specification.
+
+Sigla serves residential clients, interior designers, and large-scale hospitality projects. Commercial references include the Omni Hotel, the Shade Hotel, and Marriott properties, alongside individual homeowners seeking custom seating, tables, and case goods. The company works from client sketches or existing SKUs, adapting frames, upholstery, and finishes to project requirements.
+
+The company emphasizes heirloom-quality craftsmanship intended to last generations, framing furniture as "a stitch in the tapestry of your family." A one-year Sigla Guarantee covers repairs for normal wear and tear, reflecting the founders' goal to create the last piece of furniture a customer will ever need.
+
+## Known for
+- Custom-made to order with 8–10 week production lead time
+- Heirloom-quality craftsmanship using premium imported materials
+- Second-generation family ownership with over 40 years of operation
+- Proven hospitality portfolio including Omni Hotel, Shade Hotel, and Marriott
+- Los Angeles workshop offering warehouse pickup and scheduled delivery
+
+## Capabilities
+- Custom furniture manufacturing
+- Handcrafted woodworking
+- Custom upholstery
+- Custom wood finishing
+- Custom fabric and leather selection
+- Hospitality furniture production
+- Residential furniture production
+- Interior design collaboration
+- Custom design from sketches
+- Warehouse pickup and delivery coordination
+
+## Industries
+- Residential
+- Hospitality
+- Interior design
+- Hotels
+- Restaurants
+
+## Company details
+- **Company Type:** Manufacturer
+- **Ownership:** Family-owned, second-generation
+- **Headquarters:** Los Angeles, California
+
+<details><summary>Sources</summary>
+
+- Founder arrived from Iran in 1976 -> /about-us
+- Workshop opened by 1980 after importing Italian music boxes -> /about-us
+- Wife joined in 1994, streamlined production and organized office -> /about-us
+- Second-generation family-owned custom furniture manufacturer -> /about-us
+- 2022 acquisition of JDM Furniture and Unfinished Chairs, added Tom Juhasz -> /about-us
+- Specializes in traditional and transitional dining tables, sofas, chairs, case goods -> /
+- Made in USA with premium imported materials -> /
+- Custom-made to order, 8-10 week production and delivery timeframe -> /about-us
+- Serves residential, hospitality, interior design clients -> /about-us
+- Hospitality clients: Omni Hotel, Shade Hotel, Marriott -> /about-us
+- Warehouse pickup at LA facility, scheduled delivery available -> /about-us
+- Sigla Guarantee: one-year repair for normal wear and tear -> /about-us
+- Custom design from sketches or SKU adaptation -> /about-us
+- Heirloom-quality craftsmanship philosophy -> /about-us
+</details>
+
+---
+
+# Sigler
+
+**Old description:** Sigler is where marketing takes shape. Commercial printing. Graphic design. Custom packaging. Online ordering. Branded apparel. We work with you, to make it all work together. See what Sigler can do for you.
+
+## About
+Sigler is headquartered in Ames, Iowa, where it provides a range of marketing and brand execution services. The company has been recognized locally, receiving the Ames Chamber of Commerce's 2022 Culture Curator of the Year award and being voted Best in the 2022 Des Moines People's Choice Awards. No founding year or ownership details are publicly disclosed.
+
+The firm's service portfolio includes commercial printing, graphic design, custom packaging, branded apparel, and an online ordering system. These capabilities are presented as an integrated workflow, allowing clients to move from design through production and fulfillment within a single provider. The company does not publish facility size, headcount, or production volume metrics.
+
+Sigler markets its services to businesses seeking coordinated brand materials, though it does not specify target industries or customer types beyond a general emphasis on brand consistency. The company's messaging focuses on making marketing elements "work together" rather than on particular verticals.
+
+The company has not publicly articulated a founding mission or a specific competitive differentiator beyond the integrated service model and its recent community awards.
+
+## Known for
+- Integrated marketing services: commercial printing, graphic design, custom packaging, branded apparel, and online ordering
+- Online ordering platform for marketing collateral
+- Award-winning company culture recognized by Ames Chamber and Des Moines People's Choice Awards
+
+## Capabilities
+- Commercial printing
+- Graphic design
+- Custom packaging
+- Online ordering
+- Branded apparel
+
+## Company details
+- **Headquarters:** Ames, Iowa
+
+<details><summary>Sources</summary>
+
+- Headquartered in Ames, Iowa -> db
+- Offers commercial printing -> /
+- Offers graphic design -> /
+- Offers custom packaging -> /
+- Offers online ordering -> /
+- Offers branded apparel -> /
+- Received 2022 Ames Chamber Culture Curator of the Year award -> /
+- Voted Best in 2022 Des Moines People's Choice Awards -> /
+</details>
+
+---
+
+# Silver State Wire & Cable Inc
+
+**Old description:** The Lacing Tape Dispenser is made with the ease of use in mind. It helps keep your workbench organized, without having loose rolls of lacing tape rolling around in the workspace. Made of sturdy materials for use in the aerospace industry work environments. It feeds lacing tape to the technician with a weighted base to help prevent wasted material during the installation process.
+
+## About
+Silver State Wire & Cable Inc. was founded in 1991 in Sparks, Nevada. The company began as a small value‑added service provider with two employees and three wire‑processing machines dating from the early 1950s. It is certified as a Woman‑Owned Small Business (WOSB) and holds a CAGE code of 01CV1.
+
+The firm specializes in wire processing, cable assembly, wiring harness fabrication, crimping, and supply‑chain services. It also manufactures proprietary products such as the Lacing Tape Dispenser and BRAIDLITE™ braided shielding for space applications. Operations include cutting, kitting, heat‑shrink installation, and thermal‑transfer marking using a SumiMark IV Plus system. The facility serves both prototype and production volumes, though specific headcount and floor space are not disclosed.
+
+Customers span aerospace, space systems, defense, and commercial markets. The company cites examples ranging from hobby‑plane builders and satellite integrators to fighter‑jet rewiring programs. Its ITAR registration and AS9100/ISO 9001 certifications enable work on controlled defense and aerospace programs.
+
+The founder’s original focus — delivering quality product at an affordable price — remains central. The company emphasizes its quality system, conflict‑minerals compliance, and adherence to FAR/DFAR flow‑down provisions as key differentiators.
+
+## Known for
+- AS9100 and ISO 9001 certified quality system
+- ITAR registered for defense work
+- Woman‑Owned Small Business (WOSB) certified
+- Proprietary BRAIDLITE™ braided shielding for space applications
+- Custom wire processing, cable assembly, and wiring harness services
+
+## Capabilities
+- Wire processing
+- Cable assembly
+- Wiring harness fabrication
+- Crimping
+- Supply chain services
+- Cutting and kitting
+- Heat‑shrink installation
+- Thermal‑transfer marking (SumiMark IV Plus)
+- Braided shielding fabrication
+- Lacing tape dispensing
+- Test methods for electronic components
+
+## Industries
+- Aerospace
+- Space systems
+- Defense
+- Commercial aviation
+
+## Equipment
+- SumiMark IV Plus Marking System
+
+## Certifications
+- ISO 9001
+- AS9100
+- ITAR
+- CSA
+- UL
+- REACH
+- Prop 65
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1991
+- **Ownership:** Woman‑Owned Small Business
+- **Headquarters:** Sparks, Nevada
+
+<details><summary>Sources</summary>
+
+- Founded 1991 -> /about-us
+- Headquarters Sparks, NV -> / and /about-us
+- CAGE 01CV1 -> / and /about-us
+- Certifications ISO9001, AS9100, ITAR -> / and /about-us
+- WOSB certified -> / (SBA Profile, WOSB Certificate)
+- Capabilities: wire processing, cable assembly, wiring harnesses, crimping -> / (products list) and /about-us
+- Industries: aerospace, space systems, defense -> / (designed for demanding aerospace applications, SPACE SYSTEMS)
+- Equipment: SumiMark IV Plus Marking System -> / (Product Spotlight)
+- Materials: Tin, Silver, Nickel plated braided sleeve, poly materials, coax & data cables, heat shrink, BRAIDLITE -> /
+- Proprietary products: Lacing Tape Dispenser, BRAIDLITE -> /
+- Company type: value added service provider, manufacturer -> /about-us
+- Ownership: Woman-owned small business -> / (WOSB Certificate)
+- Employee count at start: 2 -> /about-us
+</details>
+
+---
+
+# Simplex Fabrication Welding and CNC Plasma Cutting
+
+**Old description:** Hi. My name is Seth Neilson, the owner and welder/fabricator at Simplex Fabrication. 10 years ago, I bought a cheap tig welder off the internet and started teaching myself how to weld on an old Nissan I had in the garage. What started out as a hobby has slowly turned into a passion for me. I love welding and fabricating as well as innovating better ways of doing things. If you have an idea you would like to see brought to life, or you just need some cracks rewelded on your lawnmower, I am your guy.
+
+## About
+Simplex Fabrication operates from Woodbine, Maryland, where owner Seth Neilson began the business roughly a decade ago after teaching himself to weld with an inexpensive TIG welder. The venture started as a garage hobby repairing an old Nissan and grew into a full-time fabrication shop. Neilson remains the sole proprietor and primary welder-fabricator.
+
+The shop provides welding, CNC plasma cutting, and general metal fabrication services. Work ranges from rust repair on automotive and equipment parts to one-off custom builds such as a go-kart belt sander and a climbing-saddle hunting tree stand. Neilson handles quoting, fabrication, and finishing himself, keeping the operation lean and flexible.
+
+Customers include hobbyists, equipment owners needing repairs, and individuals with custom project ideas. The shop does not target a specific industry but serves anyone requiring metal fabrication or welding, from small repairs to prototype-level assemblies.
+
+Neilson says the business was born from a passion for welding and a drive to innovate better ways of building things. That mindset shapes the shop's approach: taking a customer's concept and turning it into a finished metal piece, whether it's a cracked lawnmower deck or a novel mechanical design.
+
+## Known for
+- Concept-to-completion custom fabrication
+- Repair and restoration welding (e.g., rust repair)
+- CNC plasma cutting for precise profiles
+- Owner-operated, direct communication with the fabricator
+- Innovation-focused approach to problem-solving
+
+## Capabilities
+- Welding (TIG)
+- CNC plasma cutting
+- Metal fabrication
+- Rust repair
+- Custom fabrication
+
+## Equipment
+- TIG welder
+- CNC plasma cutter
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Ownership:** Sole proprietorship (owner Seth Neilson)
+- **Headquarters:** Woodbine, Maryland
+
+<details><summary>Sources</summary>
+
+- Owner: Seth Neilson -> db
+- Location: Woodbine, Maryland -> db
+- Started ~10 years ago as hobby with cheap TIG welder -> pages:/
+- Services: welding, CNC plasma cutting, fabrication -> db, pages:/
+- Projects: rust repair, go-kart belt sander, climbing saddle hunting tree stand -> pages:/
+- Business model: custom fabrication and repair for individuals -> pages:/
+- Owner-operated, direct quoting via call/text/email -> pages:/
+</details>
+
+---
+
+# SinnovaTek
+
+**Old description:** Founded in 2015, SinnovaTek was built around principles of integrity, creativity, and sustainability. We became a certified B corporation in 2017 with the mission to promote worldwide health and wellness by fostering the delivery of high quality, healthy foods through sustainable methods.
+
+## About
+Founded in 2015 in Raleigh, North Carolina, SinnovaTek was established on principles of integrity, creativity, and sustainability. The company became a certified B Corporation in 2017, formalizing a mission to promote worldwide health and wellness by fostering the delivery of high-quality, healthy foods through sustainable methods.
+
+SinnovaTek develops and integrates advanced food processing technologies, manufacturing equipment such as thermal processing systems and pumps, while also offering a suite of integration tools. The company operates a precision-scale aseptic copacking facility for rapid prototyping and product launches, and runs a working pilot plant. Its Vitero™ protein‑polyphenol ingredient technology supports product development and piloting services, and the firm provides R&D and engineering support for food‑industry clients.
+
+The company serves the food processing and food technology sectors, working with both established manufacturers and early‑stage ventures. As a member of the Upcycled Food Association since 2020, SinnovaTek also focuses on upcycling excess food through innovative processing infrastructure.
+
+SinnovaTek differentiates itself by making advanced thermal processing and aseptic systems accessible to companies of all sizes, emphasizing that processed foods can retain high nutritional quality. The certified B Corp status and a team of food scientists and engineers with decades of commercialization experience underpin its approach.
+
+## Known for
+- Certified B Corporation since 2017
+- Member of Upcycled Food Association since 2020
+- End‑to‑end provider: equipment, ingredient technology, and co‑manufacturing
+- Precision‑scale aseptic copacking for rapid prototyping
+- Vitero™ protein‑polyphenol ingredient technology
+
+## Capabilities
+- Advanced food processing technology development and manufacturing
+- R&D and engineering services
+- Protein‑polyphenol ingredient technology development
+- Product development and piloting services
+- Precision‑scale aseptic food copacking
+- Rapid prototyping
+- Pilot facility operations
+- Equipment manufacturing: advanced thermal processing systems
+- Equipment manufacturing: pumps
+- Integration and implementation tools
+- Food safety processing and validation
+- Aseptic food processing
+- Advanced thermal processing
+- Upcycling food processing infrastructure
+- Co‑manufacturing (small‑scale manufacturing)
+- Product commercialization support
+
+## Industries
+- Food processing
+- Food technology
+- Upcycled food
+
+## Equipment
+- Advanced thermal processing systems
+- Pumps
+- Integration and implementation tools
+
+## Certifications
+- Certified B Corporation
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 2015
+- **Headquarters:** Raleigh, North Carolina
+
+<details><summary>Sources</summary>
+
+- Founded in 2015 -> /about-us
+- Certified B Corporation in 2017 -> /about-us
+- Member of Upcycled Food Association as of 2020 -> /about-us
+- Headquarters in Raleigh, North Carolina -> db
+- Builds and sells advanced thermal processing systems and pumps -> /
+- Offers Vitero protein‑polyphenol ingredient technology -> /
+- Provides precision‑scale aseptic food copacking and pilot facility -> /about-us
+- Team of food scientists and engineers with decades of experience -> /about-us
+- Focus on aseptic food processing and advanced thermal processing -> /about-us
+- End‑to‑end solutions provider for food industry -> /
+</details>
+
+---
+
+# Siri Wire Co
+
+**Old description:** who need mill-direct quality, real product knowledge, and a team that stands behind every order. We are
+
+## About
+Siri Wire Co. operates from Danielson, Connecticut, where it was founded in 1992. The company is a fourth‑generation family business, led by the same family that built it from the ground up, with over 50 years of combined industry experience.
+
+The company manufactures and stocks stainless steel and alloy wire, offering grades such as 302, 304, 316, 17‑7, 302HQ, 303, 316L, 410, 416, 420, and 430. Its capabilities include wire drawing, strand annealing, coating, redraw, and straight‑and‑cut services. Siri Wire maintains one of the largest domestic stocking positions for electro‑polish‑quality (EPQ) wire in the region, enabling same‑day shipping on many sizes. Through its affiliation with the Tri Star Metals family and the Bender Wire Group, the company draws on two fully operational U.S. production mills, providing domestic melt, DFARS‑compliant, and non‑DFARS material options.
+
+Siri Wire serves medical and surgical device makers, filter‑screen and washer producers, automotive suppliers, aerospace and defense contractors, fastener and cold‑heading shops, and general industrial customers. Typical applications include springs, fasteners, medical equipment, filter screens, washers, and rings.
+
+The company emphasizes mill‑direct quality, competitive pricing, and fast deliveries, backed by ISO 9001 certification and a team that stands behind every order. Its integration into the Tri Star Metals network expands metallurgical and engineering support while deepening inventory availability.
+
+## Known for
+- Same-day shipping on stocked EPQ wire
+- Largest regional stocking position for EPQ wire
+- Two domestic production mills via Tri Star Metals network
+- Domestic Melt, DFARS, and Non‑DFARS material options
+- Fourth‑generation family ownership with over 50 years industry experience
+
+## Capabilities
+- Stainless steel wire manufacturing
+- Wire drawing
+- Strand annealing
+- Coating services
+- Redraw services
+- Straight and cut
+- Electro polish quality (EPQ) wire production
+- Cold heading wire production
+- Spring wire production
+
+## Industries
+- Medical and Surgical Devices
+- Filter Screens and Washers
+- Automotive
+- Aerospace and Defense
+- Fasteners and Cold Heading
+- General Industrial
+
+## Equipment
+- Strand annealing furnaces
+
+## Certifications
+- ISO 9001
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1992
+- **Ownership:** Family-owned
+- **Headquarters:** Danielson, Connecticut
+
+<details><summary>Sources</summary>
+
+- Founded in 1992 in Danielson, CT -> homepage
+- Fourth-generation family business with over 50 years industry experience -> homepage
+- ISO 9001 certified -> homepage
+- Manufactures and stocks stainless steel and alloy wire -> homepage
+- Grades: 302, 304, 316, 17-7, 302HQ, 303, 316L, 410, 416, 420, 430 -> homepage
+- Capabilities: wire drawing, strand annealing, coating, redraw, straight and cut -> homepage
+- Largest domestic stocking position for EPQ wire in region, same-day shipping -> homepage
+- Part of Tri Star Metals and Bender Wire Group with two U.S. production mills -> homepage
+- Offers Domestic Melt, DFARS, Non-DFARS material -> homepage
+- Markets served: Medical and Surgical Devices, Filter Screens and Washers, Automotive, Aerospace and Defense, Fasteners and Cold Heading, General Industrial -> homepage
+- Applications: springs, fasteners, medical equipment, filter screens, washers, rings -> homepage
+- Specifications met: ASTM A313, AMS 5688, AMS 5678 -> homepage
+- Strand annealing furnaces -> homepage
+- Headquarters: Danielson, CT -> homepage/db
+</details>
+
+---
+
+# Six B Apparel
+
+**Old description:** Six B Apparel is THE premiere source when it comes to custom dye sublimated crew apparel. We proudly offer a “no minimum” on all orders and in-house an award-winning art department for all your design needs, assuring that small teams will look just as good as the big ones.
+
+## About
+Six B Apparel operates from Henderson, Nevada. The company's founding year and ownership structure are not publicly disclosed.
+
+The company specializes in custom dye-sublimated crew apparel, primarily crew shirts and hoodies for race teams. Using an all-over dye sublimation process with heat transfer, they produce full-color, high-resolution prints that cover the entire garment from neck to waist and sleeve to sleeve. The lightweight, breathable polyester fabric wicks moisture, and the specially formulated dyes permanently bond to the fabric so images do not peel or fade. Six B Apparel imposes no minimum order quantity and maintains an in-house award-winning art department to assist with design.
+
+The business serves the racing and motorsports industry, supplying custom crew shirts to race teams of all sizes. The company emphasizes that small teams receive the same professional appearance as larger organizations, and its customer base includes both professional and amateur racing outfits.
+
+Six B Apparel states that its differentiation rests on three pillars: great products, great prices, and exceptional customer service. The company was founded to ensure that small teams could access the same high-quality, fully customized apparel as well-funded competitors.
+
+## Known for
+- No minimum order quantity on all orders
+- In-house award-winning art department for design support
+- All-over dye sublimation with full-color, high-resolution prints
+- Lightweight, moisture-wicking polyester fabric
+- Prints are permanent and do not peel or fade
+
+## Capabilities
+- Custom dye sublimation
+- Heat transfer printing
+- Graphic design services
+- Custom crew shirts
+- Custom hoodies
+
+## Industries
+- Racing
+- Motorsports
+- Team apparel
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Henderson, Nevada
+
+<details><summary>Sources</summary>
+
+- Location: Henderson, Nevada -> db
+- Custom dye sublimated crew apparel (crew shirts, hoodies) -> /
+- No minimum order quantity -> /
+- In-house award-winning art department -> /
+- Serves racing industry and race teams -> /
+- All-over dye sublimation process with heat transfer -> /
+- Lightweight breathable polyester material -> /
+- Prints do not peel or fade -> /
+- Website: http://6bapparel.com/ -> db
+</details>
+
+---
