@@ -13,7 +13,9 @@ for o in json.load(open(O+'clean-stories.json')):
   about='\n\n'.join(' '.join(s for s in re.split(r'(?<=[.!?])\s+',p) if not any(b in s.lower() for b in bad)) for p in o['about'].split('\n\n')).strip()
   about=cl(about)
   if len(about.split())<80: continue
-  prof={k:cl(o.get(k)) for k in ['capabilities','industries','materials','equipment','volume','lead_time','tolerances','built_on','facts_used']}
+  tags=[t for t in (o.get('ownership_tags') or []) if t.split('-')[0].split()[0].lower() in src.get(o['slug'],'')]
+  prof={k:cl(o.get(k)) for k in ['capabilities','industries','materials','equipment','volume','lead_time','tolerances','built_on','facts_used','company_type','makes_products','type_evidence','founded_year','employee_count','cage_code','min_order','export_compliance','languages','social_links']}
+  prof['ownership_tags']=tags
   st.append(f"UPDATE companies SET description={q(about)}, certifications={arr(o.get('certifications') or [])}, profile={q(json.dumps(prof))}::jsonb, updated_at=now() WHERE slug={q(o['slug'])} AND approved AND profile IS NULL;\n")
 os.makedirs(O+'sql',exist_ok=True)
 n=-(-len(st)//per)

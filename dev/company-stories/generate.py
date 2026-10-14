@@ -15,6 +15,17 @@ From the INPUT (our database row + text from the company's own web pages), produ
  "lead_time": "typical lead/turnaround time as stated, e.g. '7 days for small orders' (empty if not stated)",
  "tolerances": "precision/tolerances as stated, e.g. '±0.0005 in' (empty if not stated)",
  "details": {"company_type":"","founded":"","employees":"","ownership":"","headquarters":"city, state"},
+ "company_type": "exactly one of: Manufacturer | Contract manufacturer / job shop | Distributor / reseller | Installer / service company | Retailer | Other",
+ "makes_products": "yes | no | unclear  (does the company itself manufacture physical products?)",
+ "type_evidence": "short quote from the INPUT that shows what kind of business it is",
+ "ownership_tags": ["only tags explicitly stated in the INPUT, from: Veteran-owned, Service-disabled veteran-owned, Woman-owned, Minority-owned, Family-owned, Employee-owned, Small business, HUBZone, 8(a)"],
+ "founded_year": "4-digit year only if explicitly stated, else empty",
+ "employee_count": "headcount or range only if explicitly stated, else empty",
+ "cage_code": "5-character CAGE code only if printed in the INPUT, else empty",
+ "min_order": "minimum order quantity as stated, else empty",
+ "export_compliance": ["only if stated, e.g. ITAR registered, EAR, export to Canada/Mexico"],
+ "languages": ["languages the company says it serves customers in, only if stated"],
+ "social_links": ["LinkedIn/Facebook/YouTube/X URLs of this company found in the INPUT"],
  "facts_used": ["fact -> source page path or 'db'"]
 }
 Hard rules:
