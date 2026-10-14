@@ -1,0 +1,47 @@
+name: company-stories
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+concurrency:
+  group: stories
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - name: Key
+        run: printf 'NEMOTRON_KEY_2=%s\n' "${{ secrets.NEMOTRON_KEY_2 }}" > .env.local
+      - name: Run batches (stops before the 6h limit; progress is saved)
+        run: timeout 320m bash dev/company-stories/run_forever.sh || true
+      - name: Remove secrets and contact details before saving
+        if: always()
+        run: rm -f .env.local
+      - name: Save progress
+        if: always()
+        run: |
+          rm -f .env.local
+          python3 - <<'PY'
+          import json,glob,re
+          EM=re.compile(r'[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[a-z]{2,}')
+          PH=re.compile(r'(\+?1[\s.-]?)?\(?\d{3}\)?[\s.-]?\d{3}[\s.-]?\d{4}')
+          def c(v):
+            if isinstance(v,str): return PH.sub('',EM.sub('',v))
+            if isinstance(v,list): return [c(x) for x in v]
+            if isinstance(v,dict): return {k:c(x) for k,x in v.items()}
+            return v
+          for f in glob.glob('work/**/*.json',recursive=True):
+            if f.endswith('-deep.json'): continue
+            try: d=json.load(open(f))
+            except Exception: continue
+            json.dump(c(d),open(f,'w'))
+          PY
+          git config user.name "stories-bot"
+          git config user.email "stories-bot@users.noreply.github.com"
+          git add -A work
+          git commit -m "progress $(date -u +%F-%H%M)" || exit 0
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
