@@ -49,7 +49,14 @@ def load(path):
 def finished(f):
   p=f.replace('-raw','-profiles')
   return os.path.exists(p) and not any(o.get('error') for o in json.load(open(p)))
-raws=[f for f in sorted(glob.glob(f'{PAGES}/*-raw.json')) if not finished(f)]
+allraws=sorted(glob.glob(f'{PAGES}/*-raw.json'))
+with cf.ThreadPoolExecutor(FETCH_WORKERS) as ex:
+  for f in allraws:
+    d=f.replace('-raw','-deep')
+    if finished(f) and not os.path.exists(d):
+      rows=list(ex.map(fetch_company,json.load(open(f)))); json.dump(rows,open(d,'w'),indent=1)
+      print('refetched site text for',os.path.basename(f),flush=True)
+raws=[f for f in allraws if not finished(f)]
 done={}
 def cached(r):
   c=f"{CACHE}/{r['slug']}.json"
