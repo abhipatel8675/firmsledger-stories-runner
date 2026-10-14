@@ -1,7 +1,7 @@
 import json,sys,os,re,glob,time,html,subprocess,urllib.request,concurrent.futures as cf
 from html.parser import HTMLParser
 sys.path.insert(0,os.path.dirname(__file__))
-import generate
+import generate, safeio
 
 PAGES=sys.argv[1] if len(sys.argv)>1 else 'docs/reports/stories/industry-top/pages'
 PATHS=['','/about-us','/about','/services','/capabilities','/quality']
@@ -47,24 +47,28 @@ def load(path):
   pass
 
 def finished(f):
-  p=f.replace('-raw','-profiles')
-  return os.path.exists(p) and not any(o.get('error') for o in json.load(open(p)))
+  rows=safeio.load(f.replace('-raw','-profiles'))
+  return isinstance(rows,list) and not any(o.get('error') for o in rows)
 allraws=sorted(glob.glob(f'{PAGES}/*-raw.json'))
 with cf.ThreadPoolExecutor(FETCH_WORKERS) as ex:
   for f in allraws:
     d=f.replace('-raw','-deep')
     if finished(f) and not os.path.exists(d):
-      rows=list(ex.map(fetch_company,json.load(open(f)))); json.dump(rows,open(d,'w'),indent=1)
+      rows=list(ex.map(fetch_company,json.load(open(f)))); safeio.save(rows,d)
       print('refetched site text for',os.path.basename(f),flush=True)
 raws=[f for f in allraws if not finished(f)]
 done={}
 def cached(r):
   c=f"{CACHE}/{r['slug']}.json"
-  if os.path.exists(c): return json.load(open(c))
+  o=safeio.load(c)
+  if isinstance(o,dict) and o.get('slug'): return safeio.clean_model(o)
   o=generate.call(r)
-  if not o.get('error'): json.dump(o,open(c,'w'))
+  if not o.get('error'): safeio.save(o,c)
   return o
 def finish(f,i,o):
+  try: _finish(f,i,o)
+  except Exception as e: print('PAGE ERROR',os.path.basename(f),repr(e)[:200],flush=True)
+def _finish(f,i,o):
   done[f][i]=o
   print(('skip ' if o.get('skip') else 'ok   ')+o['name'],o.get('error',''),flush=True)
   if all(done[f]):
@@ -74,10 +78,10 @@ gen=cf.ThreadPoolExecutor(GEN_WORKERS); futs=[]
 with cf.ThreadPoolExecutor(FETCH_WORKERS) as ex:
   for f in raws:
     d=f.replace('-raw','-deep')
-    if os.path.exists(d): rows=json.load(open(d))
-    else:
+    rows=safeio.load(d)
+    if not isinstance(rows,list):
       rows=list(ex.map(fetch_company,json.load(open(f))))
-      json.dump(rows,open(d,'w'),indent=1)
+      safeio.save(rows,d)
       print('fetched',os.path.basename(f),sum(bool(x['pages']) for x in rows),'/',len(rows),flush=True)
     done[f]=[None]*len(rows)
     for i,r in enumerate(rows):
@@ -86,4 +90,6 @@ cf.wait(futs); gen.shutdown()
 errs=sum(1 for v in done.values() for o in v if o and o.get('error'))
 tot=sum(len(v) for v in done.values())
 print('ALL-DONE errors',errs,'of',tot)
-if tot and errs/tot>0.3: sys.exit('Too many API failures (key, credits or rate limit). Batch not marked done; will retry next run.')
+if tot and errs/tot>0.3: print('Too many API failures (key, credits or rate limit). Batch not marked done; will retry next run.'); sys.exit(3)
+missing=[os.path.basename(f) for f in done if not finished(f) and not any(o and o.get('error') for o in done[f])]
+if missing: print('Pages not saved:',missing); sys.exit(2)

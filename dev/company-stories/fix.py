@@ -1,4 +1,6 @@
 import json,re,sys,glob,os
+sys.path.insert(0,os.path.dirname(os.path.abspath(__file__)))
+import safeio
 sys.path.insert(0,os.path.dirname(__file__))
 import generate
 
@@ -28,6 +30,7 @@ def clean_text(t,bad):
   return '\n\n'.join(out)
 
 def fix(o,src):
+  o=safeio.clean_model(o)
   if o.get('skip') or not o.get('about'): return o,[]
   log=[]
   certs=o.get('certifications') or []

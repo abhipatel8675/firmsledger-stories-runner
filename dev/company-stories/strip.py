@@ -1,4 +1,6 @@
 import json,re,sys,os
+sys.path.insert(0,os.path.dirname(os.path.abspath(__file__)))
+import safeio
 O=sys.argv[1] if len(sys.argv)>1 else 'docs/reports/stories/industry-top/'
 rows=json.load(open(O+'final-stories.json'))
 ver=json.load(open(O+'verify-results.json'))
@@ -8,7 +10,7 @@ for o in rows:
   v=ver.get(o['slug'],{})
   if v.get('error'): errors.append(o['slug']); continue
   if v.get('wrong_company'): wrong.append((o['slug'],v.get('note',''))); continue
-  bad={norm(s) for s in v.get('unsupported',[])}
+  bad={norm(s) for s in safeio.strs(v.get('unsupported')) if len(s)>20}
   paras=[]
   for p in o['about'].split('\n\n'):
     keep=[s for s in re.split(r'(?<=[.!?])\s+',p) if norm(s) not in bad and not any(b and b in norm(s) for b in bad)]

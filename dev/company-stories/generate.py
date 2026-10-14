@@ -1,4 +1,6 @@
 import json,sys,os,re,time,urllib.request
+sys.path.insert(0,os.path.dirname(os.path.abspath(__file__)))
+import safeio
 key=[l.split('=',1)[1].strip().strip('"') for l in open('.env.local') if l.startswith('NEMOTRON_KEY_2=')][0]
 RULES="""You write a manufacturer's profile for a B2B sourcing directory, in the depth of a strong MFG.com profile, but as a story told by an independent editor (third person).
 From the INPUT (our database row + text from the company's own web pages), produce JSON:
@@ -55,11 +57,12 @@ def call(r):
       pace()
       q=urllib.request.Request("https://integrate.api.nvidia.com/v1/chat/completions",json.dumps(body).encode(),{"Authorization":"Bearer "+key,"Content-Type":"application/json"})
       t=json.load(urllib.request.urlopen(q,timeout=300))["choices"][0]["message"]["content"]
-      return {"name":r["name"],"slug":r["slug"],"old_description":r.get("description"),**json.loads(re.search(r"\{.*\}",t,re.S).group(0))}
+      return safeio.clean_model({"name":r["name"],"slug":r["slug"],"old_description":r.get("description"),**json.loads(re.search(r"\{.*\}",t,re.S).group(0))})
     except Exception as e: err=str(e)[:200]; print("RETRY",r["slug"],err[:80],flush=True); pace(30 if '429' in str(e) else 0); time.sleep(5*(i+1))
   return {"name":r["name"],"slug":r["slug"],"skip":True,"error":err}
 def write(res,out):
-  json.dump(res,open(out,'w'),indent=1)
+  res=[safeio.clean_model(o) for o in res]
+  safeio.save(res,out)
   md=[]
   for o in res:
     md.append(f"# {o['name']}\n")

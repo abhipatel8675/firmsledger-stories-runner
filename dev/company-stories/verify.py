@@ -1,6 +1,6 @@
 import json,sys,os,re,glob,time,urllib.request,concurrent.futures as cf
 sys.path.insert(0,os.path.dirname(__file__))
-import fix
+import fix, safeio
 
 O=os.environ.get('OUT','docs/reports/stories/industry-top/')
 key=[l.split('=',1)[1].strip().strip('"') for l in open('.env.local') if l.startswith('NEMOTRON_KEY_2=')][0]
@@ -21,8 +21,10 @@ def pace(extra=0):
   time.sleep(max(0,t-now))
 
 def call(slug,story,source):
-  c=f'{CACHE}/{slug}.json'
-  if os.path.exists(c): return json.load(open(c))
+  import hashlib
+  c=f"{CACHE}/{slug}-{hashlib.sha1(story.encode()).hexdigest()[:10]}.json"
+  o=safeio.load(c)
+  if isinstance(o,dict): return o
   body={"model":os.environ.get("VERIFY_MODEL","nvidia/nemotron-3-super-120b-a12b"),"temperature":0,"max_tokens":16000,
         "messages":[{"role":"system","content":RULES},{"role":"user","content":"SOURCE:\n"+source[:30000]+"\n\nSTORY:\n"+story}]}
   for i in range(5):
@@ -30,21 +32,23 @@ def call(slug,story,source):
       pace()
       q=urllib.request.Request("https://integrate.api.nvidia.com/v1/chat/completions",json.dumps(body).encode(),{"Authorization":"Bearer "+key,"Content-Type":"application/json"})
       t=json.load(urllib.request.urlopen(q,timeout=300))["choices"][0]["message"]["content"]
-      o=json.loads(re.search(r"\{.*\}",t,re.S).group(0)); json.dump(o,open(c,'w')); return o
+      o=json.loads(re.search(r"\{.*\}",t,re.S).group(0)); o['unsupported']=safeio.strs(o.get('unsupported')); safeio.save(o,c); return o
     except Exception as e: print('RETRY',slug,str(e)[:60],flush=True); pace(30 if '429' in str(e) else 0); time.sleep(5*(i+1))
   return {"error":True}
 
 src={r['slug']:r for f in glob.glob(O+'pages/*-deep.json') for r in json.load(open(f))}
 rows=json.load(open(O+'final-stories.json'))
 def run(o):
-  r=src[o['slug']]; source=json.dumps({k:v for k,v in r.items() if k not in('phone','address','contact_email')})
-  story=o['about']+'\n\nKnown for: '+'; '.join(o.get('built_on') or [])
+  r=src.get(o['slug'])
+  if not r: return o['slug'],{'error':True,'note':'no site text'}
+  source=json.dumps({k:v for k,v in r.items() if k not in('phone','address','contact_email')})
+  story=o['about']+'\n\nKnown for: '+'; '.join(safeio.strs(o.get('built_on')))
   return o['slug'],call(o['slug'],story,source)
 res={}
 with cf.ThreadPoolExecutor(20) as ex:
   for slug,v in ex.map(run,rows):
     res[slug]=v; print('done',slug,len(v.get('unsupported',[])),'wrong' if v.get('wrong_company') else '',flush=True)
-json.dump(res,open(O+'verify-results.json','w'),indent=1)
+safeio.save(res,O+'verify-results.json')
 ve=sum(1 for v in res.values() if v.get('error'))
 print('ALL-DONE errors',ve)
-if res and ve/len(res)>0.3: sys.exit('Too many fact-check failures. Batch not marked done; will retry next run.')
+if res and ve/len(res)>0.3: print('Too many fact-check failures. Batch not marked done; will retry next run.'); sys.exit(3)
