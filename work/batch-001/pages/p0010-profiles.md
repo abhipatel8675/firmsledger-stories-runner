@@ -1,0 +1,774 @@
+# Harvest Food Group
+
+**Old description:** Harvest Food Group is a trusted partner in IQF innovation, delivering consistent quality and reliability across every product we make. As a family-founded business with over 25 years of experience, we combine deep industry knowledge with scale and flexibility to meet evolving customer needs.
+
+## About
+Harvest Food Group was founded in 1999 in Naperville, Illinois, as a family-run IQF vegetable business. The family-founded company has grown over 25 years into a vertically integrated frozen food manufacturer.
+
+The company operates a 184,000-square-foot SQF-certified and USDA-inspected manufacturing and distribution facility equipped with seven vertical form-fill-seal lines, one horizontal form-fill line, a bulk line, a bowl line, and two cup lines. It supplies IQF ingredients — vegetables, fruits, grains, legumes, herbs, and proteins — and provides co-manufacturing, private label, foodservice, and branded products under the Path of Life label, supported by a culinary-driven R&D team for custom formulations.
+
+Harvest Food Group serves leading retailers, brands, and foodservice providers across North America across retail, foodservice, private label, and co-manufacturing segments.
+
+The company emphasizes uncompromising food safety and quality, collaborative customer-first relationships, culinary innovation driven by consumer insight, and scalable solutions. Its mission centers on delivering premium products at fair prices with unparalleled service, backed by global sourcing and logistics that anticipate supply chain disruptions.
+
+## Known for
+- SQF-certified and USDA-inspected 184,000 sq ft facility
+- Seven vertical form-fill-seal lines plus horizontal, bulk, bowl, and cup lines
+- Culinary-driven R&D team for custom formulations
+- Global ingredient sourcing with inventory planning to mitigate disruptions
+- Family-owned, vertically integrated across IQF ingredients, co-manufacturing, private label, foodservice, and branded products
+
+## Capabilities
+- IQF freezing
+- co-manufacturing
+- private label manufacturing
+- foodservice product development
+- brand development (Path of Life)
+- vertical form-fill-seal packaging
+- horizontal form-fill-seal packaging
+- bulk packaging
+- bowl line production
+- cup line production
+- blending
+- coating
+- enrobing
+- measuring
+- culinary R&D
+- recipe formulation
+- inventory planning
+- logistics management
+- global ingredient sourcing
+
+## Industries
+- retail
+- foodservice
+- private label
+- co-manufacturing
+- consumer packaged goods
+
+## Equipment
+- vertical form-fill-seal lines (7)
+- horizontal form-fill-seal line
+- bulk line
+- bowl line
+- cup lines (2)
+
+## Certifications
+- SQF
+- USDA-inspected
+
+## Company details
+- **Company Type:** frozen food manufacturer
+- **Founded:** 1999
+- **Ownership:** family-owned
+- **Headquarters:** Naperville, Illinois
+
+<details><summary>Sources</summary>
+
+- Founded 1999 in Naperville, Illinois -> db, /about-us
+- Family-founded business -> /, /about-us
+- 184,000 sq ft SQF-certified and USDA-inspected facility -> /
+- Seven vertical form-fill-seal lines, one horizontal, one bulk, one bowl, two cup lines -> /
+- IQF ingredients: vegetables, fruits, grains, legumes, herbs, proteins -> /
+- Co-manufacturing, private label, foodservice, brands (Path of Life) -> /, /about-us
+- Serves leading retailers, brands, foodservice providers across North America -> /about-us
+- Mission: premium products at fair prices, unparalleled service -> /
+- Values: food safety, customer-first, culinary innovation, scalable solutions -> /about-us
+- Global sourcing and logistics anticipating disruptions -> /
+- Culinary-driven R&D team -> /
+- SQF certification -> db, /
+- USDA-inspected -> /
+- 25 years experience since 1999 -> /, /about-us
+- New state-of-the-art facility opened -> /, /about-us
+</details>
+
+---
+
+# Heale Manufacturing Co
+
+**Old description:** Heale Manufacturing Co., LLC, is a certified ISO 9001:2015 quality management system military and commercial producer of high-quality wiring harnesses, cable connectors, shielded leads, and electrical components.  Founded in 1957 by H.R. and Dorothy Heale, Heale has been a mainstay in the electrical harness industry, serving the U.S. military through numerous wars and defense operations.
+
+## About
+Heale Manufacturing Co., LLC, was founded in 1957 by H.R. and Dorothy Heale in Waukesha, Wisconsin. The family-owned business began as a producer of wiring harnesses and electrical components and has remained a fixture in the industry for over six decades.
+
+The company specializes in high-mix, low-volume wire harness manufacturing, delivering custom assemblies, prototypes, and short production runs. Its capabilities include cable connectors, shielded leads, and other electrical components, supported by an engineering team that assists with design challenges and manufacturability. Heale maintains a library of over one million drawings, enabling rapid duplication of hard-to-find parts.
+
+Heale serves both military and commercial markets. Its harnesses are used in agriculture, construction, specialty vehicles, and by the U.S. military across numerous defense programs. The company cites long-standing relationships with defense contractors and original equipment manufacturers in those sectors.
+
+Heale emphasizes responsiveness and technical authority as differentiators. It promotes fast RFQ turnaround, personalized service, and ongoing post-delivery support, positioning itself as a partner for projects that larger manufacturers often decline. The founders’ original focus on military-grade quality continues to shape the company’s approach.
+
+## Known for
+- High-mix, low-volume production for custom assemblies and prototypes
+- Fast RFQ response times
+- Engineering support for design and manufacturability
+- Library of over 1,000,000 drawings for rapid part duplication
+- Personalized service and ongoing post-delivery support
+
+## Capabilities
+- Wire harness manufacturing
+- Cable connector assembly
+- Shielded lead production
+- Custom assembly
+- Prototyping
+- Short-run production
+- Engineering design support
+- Drawing management
+- Post-delivery support
+
+## Industries
+- Agriculture
+- Military
+- Specialty Vehicles
+- Construction
+
+## Certifications
+- ISO 9001:2015
+
+## Company details
+- **Company Type:** LLC
+- **Founded:** 1957
+- **Ownership:** Family-owned
+- **Headquarters:** Waukesha, Wisconsin
+
+<details><summary>Sources</summary>
+
+- Founded in 1957 by H.R. and Dorothy Heale -> /about
+- Headquartered in Waukesha, Wisconsin -> / (contact section)
+- ISO 9001:2015 certified -> /about
+- Produces wiring harnesses, cable connectors, shielded leads, electrical components -> /about
+- Specializes in high-mix, low-volume manufacturing -> / (HEALE DIFFERENCE)
+- Maintains library of over 1,000,000 drawings -> / (HEALE DIFFERENCE)
+- Serves agriculture, military, specialty vehicles, construction -> / (industries section)
+- Family-owned (founders H.R. and Dorothy Heale) -> /about
+- Fast RFQ response times -> / (HEALE DIFFERENCE)
+- Engineering experience and design support -> / (HEALE DIFFERENCE)
+- Personalized service and ongoing support -> / (HEALE DIFFERENCE)
+- Company type LLC -> db
+- Founded year 1957 -> db
+- Headquarters city/state -> db
+</details>
+
+---
+
+# HiReli LLC
+
+**Old description:** Since 2001, HiReli LLC has been serving the public and private sectors with power systems products from leading industry manufacturers. We are a certified Women Business Enterprise (WBE) with WBENC and we also hold a variety of state certifications such as in New Jersey and Delaware, along with being registered with a variety of agencies. The HiReli Supply Division is a Value Added Reseller (VAR) of equipment including engineering service offerings.
+
+## About
+HiReli LLC was founded in 2001 in Milford, Delaware, as a women-owned business certified by the Women's Business Enterprise National Council (WBENC). The company also holds state-level certifications in New Jersey and Delaware and is registered with multiple government agencies.
+
+Operating as a value-added reseller (VAR), HiReli supplies engineered power systems from manufacturers such as Virginia Transformer and Relays & Automation. Its services division provides consulting, education and training, field services and testing, after-market parts sales, and engineering and power system studies. The firm focuses on smart-grid and mission-critical custom power solutions for both public and private sector clients.
+
+HiReli serves utilities, oil and gas, data centers and mission-critical facilities, health care, universities, government, water treatment, telecommunications, transit, renewable energy, distributed energy resources, battery energy storage systems, and distributed generation interconnections. Customers include public agencies and private operators across the U.S. Northeast.
+
+The company emphasizes its engineering and support team, product expertise, and experience as the foundation of its "Highly Reliable Power Systems" tagline. It states that its ISO 9001:2015-certified quality management system underpins a commitment to continuous improvement and consistent delivery.
+
+## Known for
+- Certified Women Business Enterprise (WBE) via WBENC
+- ISO 9001:2015 quality management system certification
+- Value-added reseller (VAR) with engineering service offerings
+- Over 25 years in business (since 2001)
+- Partnered solutions with leading power systems manufacturers
+
+## Capabilities
+- Custom engineered power systems (smart grid, mission critical)
+- Consulting services
+- Education and training
+- Field services and testing
+- After-market parts sales
+- Engineering and power system studies
+- Value-added resale of electrical equipment
+
+## Industries
+- Utilities
+- Oil & Gas
+- Data Centers / Mission Critical Facilities
+- Health Care
+- Universities
+- Government
+- Water Treatment Systems
+- Telecommunications
+- Transit
+- Renewable Energy
+- Distributed Energy Resources
+- Battery Energy Storage Systems
+- Distributed Generation Interconnections
+
+## Equipment
+- Virginia Transformer Products
+- Relays & Automation Products
+
+## Certifications
+- ISO 9001:2015
+- WBENC Women Business Enterprise (WBE)
+- New Jersey WBE Certification
+- Delaware WBE Certification
+
+## Company details
+- **Company Type:** Value Added Reseller (VAR) and engineering services provider
+- **Founded:** 2001
+- **Ownership:** Women-owned (WBE certified)
+- **Headquarters:** Milford, Delaware
+
+<details><summary>Sources</summary>
+
+- Founded 2001 -> db
+- Headquarters Milford, Delaware -> db
+- WBE certified with WBENC -> /
+- State certifications in New Jersey and Delaware -> /
+- ISO 9001:2015 certified -> /quality
+- Services: consulting, education & training, field services & testing, after-market parts sales, engineering/power system studies -> /services
+- Industries served: utilities, oil & gas, data centers, health care, universities, government, water treatment, telecommunications, transit, renewable energy, distributed energy resources, battery energy storage, DG interconnects -> /
+- Products represented: Virginia Transformer, Relays & Automation -> /
+- VAR with engineering services -> db description
+- Tagline 'Highly Reliable Power Systems' -> /
+- Over 25 years in business -> /
+- ISO 9001:2015 scope: technical sales and engineering services for electrical equipment and services -> /quality
+</details>
+
+---
+
+# Hollywood Woodwork
+
+**Old description:** Yves DesMarais, Chairman & CEO, moved from Quebec, Canada in 1969 to start Hollywood Woodwork with his family. He obtained a degree in Accounting and Masters of Business Administration from Florida Atlantic University. As CEO of Hollywood Woodwork since 1974, he has navigated the company from a small local shop to a recognized provider of fine architectural woodwork nationally and throughout the Caribbean. His focus is on strategic direction, relationship development and fiscal oversight of the company. Yves and his partners sold 30% of the company ownership to the Employee Stock Ownership Program (ESOP) in 1999, officially making Hollywood Woodwork an employee-owned company, with a goal of eventually becoming 100% employee-owned. He served ten years on the board of the Tropical Forest Foundation and served as National President of the Architectural Woodwork Institute in 1994-1995.
+
+## About
+Hollywood Woodwork was founded in 1968 by John DesMarais Sr. in Hollywood, Florida. The company began as a family-owned shop and transitioned to an Employee Stock Ownership Plan (ESOP) in 1999, with the goal of becoming fully employee-owned. Yves DesMarais, who moved from Quebec in 1969, has served as Chairman and CEO since 1974, guiding the firm from a local operation to a national and Caribbean provider of architectural woodwork. His son, Sebastien DesMarais, became President in 2015 after joining in 2010.
+
+The company operates a 90,000-square-foot manufacturing facility in South Florida with a staff of over 150, including estimators, project managers, millwork engineers, master craftsmen, machine technicians, installation carpenters, and quality and safety professionals. Hollywood Woodwork provides full-service architectural millwork and custom interiors, covering design assist, submittals and procurement, engineering, fabrication, and installation. The shop fabricates and integrates wood with metal, stone, glass, and upholstery to meet design and budget requirements.
+
+Hollywood Woodwork serves general contractors, developers, architects, and designers on high-end commercial and residential projects across the United States, Puerto Rico, and the Caribbean. Project types include luxury hotels, multifamily developments, corporate headquarters, airports, convention centers, stadiums, universities, and museums. Notable projects referenced on the company’s website include the Alina Residences, Auberge, Ocean Reef, Miami Dolphins Training Facility, The Ray Hotel, and the Pier 66 project in Fort Worth, Texas.
+
+The firm emphasizes its employee-ownership model as a driver of accountability and service, stating that every employee-owner is a stakeholder in customer success. It also highlights its AWI Quality Certification Program (QCP) compliance, LEED and FSC project experience, and a “Can Do” attitude combined with honesty and exceptional service as differentiators.
+
+## Known for
+- Employee-owned through ESOP since 1999
+- AWI Quality Certification Program (QCP) certified
+- LEED and FSC project capabilities
+- 90,000 sq ft manufacturing facility in South Florida
+- Full-service from design assist through installation
+
+## Capabilities
+- Design Assist
+- Submittals & Procurement
+- Engineering
+- Fabrication
+- Installation
+- Custom architectural millwork
+- Custom interior fabrication
+- Integration of wood with metal, stone, glass, and upholstery
+- Project management
+- Estimating
+- Quality & safety compliance
+
+## Industries
+- Commercial construction
+- Residential construction
+- Luxury hotels
+- Multifamily developments
+- Corporate headquarters
+- Airports
+- Convention centers
+- Stadiums
+- Universities
+- Museums
+- General contractors
+- Developers
+- Architects
+- Designers
+
+## Certifications
+- AWI Quality Certification Program (QCP)
+- LEED
+- FSC
+
+## Company details
+- **Company Type:** Employee-owned (ESOP) architectural woodwork manufacturer
+- **Founded:** 1968
+- **Employees:** 150+
+- **Ownership:** Employee Stock Ownership Plan (ESOP) since 1999, formerly family-owned
+- **Headquarters:** Hollywood, Florida
+
+<details><summary>Sources</summary>
+
+- Founded 1968 by John DesMarais Sr. -> /about-us
+- Incorporated in 1968 -> /about-us
+- Yves DesMarais moved from Quebec in 1969, CEO since 1974 -> /about-us, /
+- ESOP transition 1999, goal 100% employee-owned -> /about-us, /
+- Sebastien DesMarais President since 2015, joined 2010 -> /about-us, /
+- Headquarters Hollywood, Florida -> db, /about-us
+- 90,000 sq ft facility -> /about-us
+- Over 150 employees -> /about-us, db
+- Processes: Design Assist, Submittals & Procurement, Engineering, Fabrication, Installation -> /
+- Fabrication integrates wood with metal, stone, glass, upholstery -> /about-us
+- Industries: luxury hotels, multifamily, corporate HQ, airports, convention centers, stadiums, universities, museums -> /about-us
+- Customer types: general contractors, developers, architects, designers -> /about-us
+- Projects: Alina Residences, Auberge, Ocean Reef, Miami Dolphins Training Facility, The Ray Hotel, Pier 66 -> /, /about-us
+- AWI QCP certified -> /about-us
+- LEED and FSC project experience -> /about-us
+- Employee ownership as differentiator -> /about-us
+- “Can Do” attitude, honesty, exceptional service -> /about-us
+</details>
+
+---
+
+# Horton, Inc.
+
+**Old description:** Founded in 1951, Horton is the world’s leading provider of premium engine-cooling solutions for OEM applications and the aftermarket. Our customer-inspired innovations — including fans, fan drives and related components — can help products last longer, run quieter and consume less fuel.
+
+## About
+Horton, Inc. was founded in 1951 in Britton, South Dakota, when Hugh Schilling acquired the company with backing from three investors. Originally focused on industrial clutches, the business pivoted in the 1960s to apply its clutch expertise to engine cooling for on- and off-highway vehicles.
+
+Today Horton designs and manufactures fan drives, fans, and thermal-management components for heavy-duty applications. The company operates 15 facilities worldwide, serves customers in 70 countries through 900 distributor locations, and produced its 10 millionth fan drive in 2024. Its engineering team uses simulation software and extensive in-house testing to develop customized cooling assemblies that integrate fans, drives, brackets, and hubs.
+
+Horton’s products are used across on-highway and off-highway markets, including commercial trucking, construction, mining, agriculture, stationary power generation, gas compression, and emerging electrification platforms. Major OEMs such as Peterbilt, Kenworth, Freightliner, Navistar, and Volvo have specified Horton fan drives as standard equipment, while fleets and distributors rely on the company’s global sales and service network.
+
+The company attributes its longevity to a collaborative development model that emphasizes listening to customer requirements, then delivering tailored solutions backed by a trained worldwide distributor network. Horton also highlights its environmental focus, noting that its cooling products help reduce fuel consumption and noise while its manufacturing processes aim to eliminate waste and prevent pollution.
+
+## Known for
+- Collaborative solution development with OEMs
+- Extensive in-house testing and simulation capabilities
+- Global distributor and dealer network in 70 countries
+- Full customization of fan, drive, bracket, and hub assemblies
+- Products designed to reduce fuel consumption and noise
+
+## Capabilities
+- Engine cooling system design
+- Fan drive manufacturing
+- Fan manufacturing
+- Thermal management engineering
+- Custom cooling solution development
+- In-house testing and validation
+- Application engineering support
+
+## Industries
+- On-Highway
+- Off-Highway
+- Commercial Trucking
+- Construction
+- Mining
+- Agriculture
+- Stationary Power Generation
+- Gas Compression
+- Electrification
+
+## Certifications
+- ISO 9001
+- ISO 14001
+- IATF 16949
+- ISO 27001
+
+## Company details
+- **Company Type:** Engine cooling solutions manufacturer
+- **Founded:** 1951
+- **Ownership:** Private (founded by Hugh Schilling)
+- **Headquarters:** Britton, South Dakota
+
+<details><summary>Sources</summary>
+
+- Founded in 1951 -> db, /about
+- Hugh Schilling purchased Horton for $50,000 on September 17, 1951 -> /about
+- Originally manufactured industrial clutches -> /about
+- Applied clutch expertise to engine cooling in 1960s -> /about
+- Fan drives installed to save fuel during 1970s energy crisis -> /about
+- Fan drives became standard on Peterbilt, Kenworth, Freightliner, Navistar, Volvo -> /about
+- 15 facilities worldwide -> /about
+- 70 countries served -> /about
+- 900 distributor locations -> /about
+- 10,000,000th fan drive produced in 2024 -> /about
+- Global sales offices in U.S., Canada, Mexico, Germany; representatives in Korea, China, Japan, India, Australia, Columbia, Chile -> /about
+- Certifications: ISO 9001, ISO 14001, IATF 16949, ISO 27001 -> /about, db
+- Industries: trucking, construction, mining, agriculture, generator sectors -> home page
+- Industries from form: On-Highway, Off-Highway, Commercial Trucking, Agriculture, Mining, Construction, Stationary/Generators, Electrification -> home page
+- Gas compression applications -> home page
+- Collaborative solution development emphasis -> /about
+- In-house testing resources and simulation tools -> /about
+- Global distributor and dealer network -> /about
+- Customization of entire cooling solution -> /about
+- Environmental responsibility: reduce fuel consumption, noise, waste, pollution -> /about
+- Leadership: Cordell Dietz, President and CEO -> /about
+- Locations: Roseville, MN; Britton, SD; Schweinfurt, Germany; Oconee, SC; Wuxi, China -> /about
+</details>
+
+---
+
+# House of Apparel
+
+**Old description:** As a full-service custom screen printing and graphic design company based out of Basehor, KS, House of Apparel specializes in customized screen printing, screen print transfers, and simulated process printing techniques for T-shirts. Whenever you need custom t shirt printing Kansas City, KS locals love, give us a call. We offer the screen printing services you need to create beautiful, long-lasting custom clothes.
+
+## About
+House of Apparel was founded in 1985 in Basehor, Kansas, just outside Kansas City. The company has been family-owned and operated since its inception.
+
+The company provides a full range of custom apparel services including screen printing (up to 10 colors), process printing, screen print transfers, heat sublimation, sublimation transfers, embroidery, patch and emblem production (appliqué, woven, or custom materials), graphic design, logo development, and digitizing. All work is done in-house using automated screen printing presses and multiple embroidery machines. They handle orders from single pieces to large corporate runs, with most orders shipping within seven to ten business days. The shop stocks a wide selection of brand-name apparel from Adidas, Carhartt, Nike, and others.
+
+House of Apparel serves corporate clients, small businesses, and individuals. Their workwear and safety apparel outfit construction crews, restaurant staff, and medical teams, while promotional items support branding for events and trade shows. They also supply hi-visibility safety gear compliant with ANSI/OSHA standards, including vests, shirts, and reflective strips.
+
+The company differentiates itself by keeping all production in-house, using automated presses and multiple embroidery machines to maintain control over quality and turnaround, and by stocking a wide range of brand-name apparel. Customer support follows each order from start to finish to ensure accuracy and on-time delivery.
+
+## Known for
+- All services performed in-house
+- Automated screen printing presses and multiple embroidery machines
+- Most orders shipped in 7–10 business days
+- Stocks major brands including Adidas, Carhartt, Nike
+- ANSI/OSHA-compliant safety apparel
+
+## Capabilities
+- Screen printing (up to 10 colors)
+- Process printing
+- Screen print transfers
+- Heat sublimation
+- Sublimation transfers
+- Embroidery
+- Patch and emblem production (appliqué, woven, custom materials)
+- Graphic design
+- Logo development
+- Digitizing
+- Custom artwork preparation
+- Workwear manufacturing
+- Safety apparel (ANSI/OSHA compliant)
+- Promotional product decoration
+
+## Industries
+- Corporate
+- Construction
+- Restaurant/Hospitality
+- Medical/Healthcare
+- Safety/High-visibility
+- Promotional/Events
+
+## Equipment
+- Automated screen printing presses
+- Multiple embroidery machines
+
+## Certifications
+- ANSI
+
+## Company details
+- **Company Type:** Custom apparel decorator
+- **Founded:** 1985
+- **Ownership:** Family-owned
+- **Headquarters:** Basehor, Kansas
+
+<details><summary>Sources</summary>
+
+- Founded in 1985 -> db, /about
+- Located in Basehor, KS -> db, /about
+- Family-owned and operated -> homepage
+- Services: screen printing, embroidery, patches, heat sublimation, graphic design, digitizing -> /about
+- Automated screen printing presses and multiple embroidery machines -> /about
+- Turnaround 7-10 business days -> /about
+- Brands carried: Adidas, Carhartt, Nike, etc. -> /about
+- Industries served: construction, restaurants, medical, corporate, promotional -> /about
+- ANSI/OSHA-compliant safety apparel -> /about, db certifications
+- Nationwide shipping -> homepage
+</details>
+
+---
+
+# Hub Manufacturing
+
+**Old description:** Brad runs the shop floor day-to-day at Hub Manufacturing. When you call about a project, you’re talking to a team that’s been replicating precision metal parts in Minneapolis since 1956 — and an owner who still walks the floor.
+
+## About
+Hub Manufacturing operates from a 30,000-square-foot facility in Minneapolis, Minnesota, where it has produced precision metal stampings and fabrications since 1956. The company remains family-owned after three generations, with Brad Hendrickson running the shop floor day-to-day and walking the production lines himself.
+
+The shop runs a full range of metal forming processes under one ISO 9001:2015-certified roof: progressive, compound, and hand-transfer stamping on presses from 6 to 800 tons; hydraulic draw and deep-draw forming up to 0.500-inch thickness; flat-sheet and tube laser cutting; CNC tube bending; press brake forming; in-house tool and die design, build, and maintenance; a dedicated welding cell for mild steel, stainless, and aluminum assemblies; and final packaging and fulfillment. The operation handles prototype through high-volume runs, with bed sizes from 12×12 to 96×72 inches.
+
+Hub serves OEMs in defense and military (ruggedized housings, armor-grade brackets), aerospace and marine, automotive, agriculture (structural stampings for implements), construction and machinery, and Tier 1 and Tier 2 supply chains. Customers include defense contractors and agricultural equipment manufacturers who require traceability, consistency, and domestic sourcing.
+
+The company emphasizes its “Can Do” model — no subcontracting, in-house tooling from napkin sketch to production die, and a one-business-day quote turnaround — to keep lead times short and quality tight. Being 100 percent U.S.-owned and operated is presented as a deliberate choice to avoid offshore delays and finger-pointing between vendors.
+
+## Known for
+- In-house tool & die build and maintenance
+- All metal fabrication processes under one roof (stamping, laser cutting, CNC bending, welding, assembly)
+- Family-owned and operated since 1956
+- ISO 9001:2015 certified quality system
+- Quote turnaround within one business day
+
+## Capabilities
+- Metal stamping
+- Hydraulic draw forming
+- Deep draw stamping
+- Progressive stamping
+- Compound stamping
+- Hand-transfer stamping
+- Sheet laser cutting
+- Tube laser cutting
+- CNC tube bending
+- Press brake forming
+- In-house tool & die build and maintenance
+- Welding (assemblies)
+- Assembly
+- Packaging & fulfillment
+- Custom packaging
+- Short run production
+- Long run production
+- Prototyping
+- First article inspection
+- ISO 9001:2015 quality inspection
+
+## Industries
+- Defense & Military
+- Aerospace & Marine
+- Automotive
+- Agriculture
+- Construction & Machinery
+- Tier 1 suppliers
+- Tier 2 suppliers
+- OEMs
+
+## Equipment
+- Tube laser cutting machine
+- CNC tube bender
+- Press brake
+- Hydraulic forming presses
+- Heavy-tonnage stamping presses (6-800 tons)
+- Progressive die sets
+- Compound die sets
+- Hand-transfer die sets
+- Welding cell
+
+## Certifications
+- ISO 9001:2015
+
+## Company details
+- **Company Type:** Contract manufacturer
+- **Founded:** 1956
+- **Ownership:** Family-owned
+- **Headquarters:** Minneapolis, Minnesota
+
+<details><summary>Sources</summary>
+
+- Founded 1956 -> db
+- Headquarters Minneapolis, Minnesota -> db
+- Family-owned, three generations -> /
+- Brad Hendrickson runs shop floor -> /
+- 30,000+ sq ft facility -> /
+- ISO 9001:2015 certified -> /
+- Press capacity 6-800 tons -> /
+- Thickness up to 0.500 inch -> /
+- In-house tool & die build and maintenance -> /
+- Tube laser, CNC tube bender, press brake, welding cell -> /
+- Industries: Defense, Aerospace, Marine, Automotive, Agriculture, Construction, Machinery -> /
+- Materials: carbon steel, stainless steel, aluminum, brass, copper, nylon -> /
+- Quote within 1 business day -> /
+- All processes under one roof, no subcontracting -> /
+- 100% U.S.-owned and operated -> /
+- Prototype through high-volume -> /
+- Bed sizes 12x12 to 96x72 inches -> /
+</details>
+
+---
+
+# Illini Wire Works, Inc.
+
+**Old description:** If you’re looking for a business that provides satisfying customer services and high-quality custom wire forms, look no further than Illini Wire Works, Inc. At Illini Wire Works, we take great pride in providing wire forms that meet your high expectations. When you need an order of custom wire forms that can handle any job you need, trust that our products can fulfill your expectations.
+
+## About
+Illini Wire Works, Inc. operates from Olney, Illinois, where it was founded in 1998 as a family‑owned and veteran‑owned business. The company began as a wire fabrication shop serving local industrial and agricultural customers.
+
+The shop produces custom wire forms, industrial fan guards, and agriculture wire products. Its capabilities span more than a dozen wire‑shaping processes, including bending, flattening, heading, piercing, extruding, swaging, upsetting, drilling, threading, welding, roll forming, and chamfering, supported by a 3D Aim Machine. The facility handles orders from simple bolts to complex assemblies requiring multiple operations.
+
+Primary markets include industrial equipment manufacturers needing fan guards, agricultural operations requiring durable wire products, and commercial clients seeking custom wire fabrication. The company also serves customers within a 100‑mile radius with curbside pickup and delivery.
+
+Illini Wire Works emphasizes its combined experience and “practically limitless” wire‑creation capabilities, positioning itself as a full‑service partner that manages every step from order placement to delivery. All products are made in the USA.
+
+## Known for
+- Curbside pickup and delivery within 100 miles
+- Family and veteran owned
+- Products made in the USA
+- Over a dozen wire‑shaping techniques
+- Full‑service wire fabrication shop
+
+## Capabilities
+- Bending
+- Flattening
+- Heading
+- Piercing
+- Extruding
+- Swaging
+- Upsetting
+- Drilling
+- Threading
+- Welding
+- Roll forming
+- Chamfering
+- 3D Aim Machine
+
+## Industries
+- Industrial
+- Agriculture
+- Commercial
+
+## Equipment
+- 3D Aim Machine
+
+## Company details
+- **Company Type:** Wire Fabrication Manufacturer
+- **Founded:** 1998
+- **Ownership:** Family and Veteran Owned
+- **Headquarters:** Olney, Illinois
+
+<details><summary>Sources</summary>
+
+- Founded 1998 -> db, /about
+- Headquarters Olney, Illinois -> db, /about
+- Family and veteran owned -> db, /, /about
+- Custom wire forms, industrial fan guards, agriculture wire products -> /
+- Wire shaping processes (bending, flattening, heading, piercing, extruding, swaging, upsetting, drilling, threading, welding, roll forming, chamfering) -> /capabilities
+- 3D Aim Machine -> /capabilities
+- Curbside pickup and delivery within 100 miles -> /
+- Products made in the USA -> /
+- Member of Richland County Chamber of Commerce -> /about
+- Member of Wire Fabricators Association -> /about
+- Serves industrial, agricultural, commercial customers -> /, /about
+</details>
+
+---
+
+# Imagineering, Inc
+
+**Old description:** Since 1986, our focus on delivering the quality hasn’t changed. Our top priority has always been to understand what the customer values, evaluate their needs and deliver the best-in-class service and products. It’s an old-fashioned philosophy in a high-tech environment.
+
+## About
+Imagineering, Inc. was founded in 1986 in Elk Grove Village, Illinois. The company began as a printed circuit board fabrication and assembly provider and has operated continuously from its Illinois headquarters, with additional assembly facilities in Southlake, Texas.
+
+The company specializes in PCB fabrication and assembly, offering services from rapid prototyping to high-volume production. Its capabilities include rigid, flex, and rigid-flex board fabrication up to 50 layers, high-density interconnect (HDI) technology, and a range of surface-mount, through-hole, and advanced package assembly processes. Imagineering operates production facilities at its Illinois headquarters and uses offshore partners in Korea and Taiwan for scalable output. The company reports serving 30,000 customers, shipping 20 million unique part numbers, and producing 150 million individual pieces annually, with over 9,000 prototype designs transitioned to production in the most recent year.
+
+Imagineering serves customers across medical, defense, consumer electronics, and aerospace industries, among others. Its client base ranges from hobbyist builders to international electronics manufacturers, including OEMs with regulated compliance requirements such as ITAR and AS9100D.
+
+The company emphasizes a single-point-of-contact model that integrates fabrication, assembly, component procurement, and testing. It promotes same-day prototype turnaround, a 100% on-time delivery guarantee, and compliance with aerospace and defense standards as key differentiators.
+
+## Known for
+- Same-day prototype turnaround
+- 100% on-time delivery guarantee
+- Integrated fabrication and assembly under one roof
+- ITAR-registered and AS9100D/ISO 9001:2015 certified
+- U.S. and offshore production options
+
+## Capabilities
+- PCB fabrication (rigid, flex, rigid-flex)
+- High-density interconnect (HDI) fabrication
+- PCB assembly (surface mount technology)
+- PCB assembly (through-hole technology)
+- BGA and micro-BGA assembly
+- Flip chip assembly
+- Flex circuit assembly
+- Cable and wire harness assembly
+- Turnkey assembly (component procurement, fabrication, assembly, test)
+- Consignment assembly
+- Design for manufacturability (DFM) analysis
+- Automated optical inspection (AOI)
+- X-ray inspection
+- RF testing
+- Functional testing
+- Rapid prototyping (same-day)
+- High-volume production
+- Impedance control
+- Stacked microvias
+
+## Industries
+- Medical
+- Defense
+- Consumer electronics
+- Aerospace
+
+## Certifications
+- ISO 9001:2015
+- AS9100D
+- ITAR Registered
+- RoHS Compliant
+- IPC Member
+- UL Approved
+- WEEE Certified
+- CCR Registered
+- ORCA Registered
+- SAM Registered
+
+## Company details
+- **Company Type:** PCB fabrication and assembly manufacturer
+- **Founded:** 1986
+- **Headquarters:** Elk Grove Village, Illinois
+
+<details><summary>Sources</summary>
+
+- Founded 1986 in Elk Grove Village, Illinois -> db
+- Headquarters in Elk Grove Village, IL and Southlake, TX -> /
+- 30,000 customers, 20M unique part numbers shipped, 150M individual pieces created -> /
+- Over 9,000 prototype designs taken to production last year -> /
+- Capabilities: rigid, flex, rigid-flex up to 50 layers, HDI, SMT, thru-hole, BGA, micro-BGA, flip chip, flex circuit, cable assembly, wire harness -> /capabilities
+- Offshore facilities in Korea and Taiwan -> /
+- Industries served: medical, defense, consumer electronics, aerospace -> /capabilities
+- Certifications: ISO 9001:2015, AS9100D, ITAR, RoHS, IPC, UL, WEEE, CCR, ORCA, SAM -> /capabilities
+- Materials list: FR-4, Polyimide, Rogers, Getek, etc. -> /capabilities
+- Same-day prototyping, 5-7 day small production, 2-3 week medium-large production -> /services
+- 100% on-time guarantee -> /services
+- Hole tolerances ±0.004 in standard, ±0.002 in press fit; trace/space specs -> /capabilities
+- Single point of contact for fabrication, assembly, procurement, testing -> /services
+</details>
+
+---
+
+# Indigo Metal Fabrication, LLC
+
+**Old description:** Indigo Metal Fabrication was established in 2016 in our hometown of Portland, Oregon. After many years in the manufacturing industry and just as many designing functional pieces for ourselves and friends, we decided to bring it to the community. We specialize in unique, one-off projects that utilize salvaged materials from the Pacific Northwest. We consider every idea, big or small. Our mission is to share our creativity and experience to bring our customers ideas to life.
+
+## About
+Indigo Metal Fabrication began in 2015 in a garage in Portland, Oregon, founded by Willy and Amber. The husband-and-wife team moved the operation to Troutdale, Oregon, where they continue to run the shop with a focus on integrity and community. Willy brings over twelve years of professional welding experience and holds ASME certification in MIG and TIG processes, while Amber oversees aesthetics and procedures.
+
+The shop specializes in one-off custom metal fabrication using salvaged materials sourced from the Pacific Northwest. Core capabilities include CNC plasma cutting, MIG and TIG welding, and design services. They are particularly known for adventure vehicle modifications, building durable, inspired pieces for overlanding and off-road enthusiasts. The operation remains small-scale, having grown from a garage to a dedicated shop space.
+
+Customers range from individual adventurers seeking custom vehicle builds to designers and artists needing unique fabricated pieces. The company's portfolio highlights adventure vehicle mods such as roof racks, bumpers, and interior fittings, alongside decorative and functional art pieces. They consider projects of any size, from small brackets to full vehicle overhauls.
+
+The founders started Indigo to share their creativity and bring clients' ideas to life, emphasizing a collaborative approach. Their differentiator lies in combining reclaimed materials with certified welding expertise, delivering pieces that are both environmentally conscious and structurally sound. The shop's culture centers on personal involvement in every project, from concept through final finish.
+
+## Known for
+- Custom one-off fabrication using salvaged Pacific Northwest materials
+- Adventure vehicle modification specialty
+- CNC plasma cutting and design in-house
+- ASME-certified MIG/TIG welding
+- Founder-led with integrity and community focus
+
+## Capabilities
+- Custom metal fabrication
+- CNC plasma cutting
+- MIG welding
+- TIG welding
+- Design and engineering
+- Adventure vehicle modifications
+- Salvaged material fabrication
+- Prototyping
+- Small-batch production
+
+## Industries
+- Automotive aftermarket (adventure/overlanding)
+- Custom fabrication
+- Art and design
+- Off-road equipment
+
+## Equipment
+- CNC plasma cutter
+
+## Certifications
+- ASME
+
+## Company details
+- **Company Type:** LLC
+- **Founded:** 2015
+- **Ownership:** Founder-owned (Willy & Amber)
+- **Headquarters:** Troutdale, Oregon
+
+<details><summary>Sources</summary>
+
+- Founded 2015 in garage in Portland, Oregon -> /
+- Headquarters in Troutdale, Oregon -> db
+- Founders: Willy & Amber -> /
+- Willy ASME certified, 12+ years welding experience, MIG/TIG -> /
+- Specializes in custom one-off projects using salvaged Pacific Northwest materials -> /
+- Known for adventure vehicle modifications -> /
+- Offers CNC plasma design and creation -> /
+- ASME certification -> db
+- Values: integrity and community -> /
+</details>
+
+---

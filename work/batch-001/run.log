@@ -1,0 +1,279 @@
+fetched p0000-raw.json 10 / 10
+RETRY 1939-sheet-metal-products-llc HTTP Error 503: Service Unavailable
+RETRY 1939-sheet-metal-products-llc HTTP Error 503: Service Unavailable
+ok   1939 Sheet Metal Products, LLC 
+ok   ADCO International Plastics 
+ok   Aero Tech Manufacturing, Inc. 
+ok   1X® Technologies 
+ok   AIM Processing 
+fetched p0001-raw.json 9 / 10
+ok   3D Plastics Inc 
+RETRY alliance-wire-cable HTTP Error 503: Service Unavailable
+ok   Acadiana Textiles & Supply 
+fetched p0002-raw.json 10 / 10
+ok   Accumedix, Inc 
+RETRY atsumi-car-equipment-inc HTTP Error 503: Service Unavailable
+RETRY banner-medical HTTP Error 503: Service Unavailable
+ok   425 Fabrication Division and Mobile Welding 
+RETRY best-manufacturing-inc HTTP Error 503: Service Unavailable
+RETRY bon-foods HTTP Error 503: Service Unavailable
+fetched p0003-raw.json 10 / 10
+ok   Acme Wire Products Co., Inc. 
+PAGE DONE p0000-profiles.json
+RETRY brevan-electronics HTTP Error 503: Service Unavailable
+RETRY brightlife-electric-nv HTTP Error 503: Service Unavailable
+RETRY bunty-llc HTTP Error 503: Service Unavailable
+fetched p0004-raw.json 10 / 10
+RETRY banner-medical HTTP Error 503: Service Unavailable
+RETRY best-manufacturing-inc HTTP Error 503: Service Unavailable
+fetched p0005-raw.json 10 / 10
+ok   Alliance Wire & Cable 
+RETRY classic-sheet-metal HTTP Error 503: Service Unavailable
+fetched p0006-raw.json 10 / 10
+ok   Alaska Packaging 
+ok   All American Woodworks/CST 
+fetched p0007-raw.json 10 / 10
+ok   American Pasteurization Company 
+ok   American Microsemiconductor, Inc. 
+RETRY custom-service-plastics-inc-corporate-headquarters HTTP Error 503: Service Unavailable
+RETRY delaware-manufacturing HTTP Error 503: Service Unavailable
+fetched p0008-raw.json 10 / 10
+RETRY direct-components HTTP Error 503: Service Unavailable
+ok   Arcadia Mfg Group 
+ok   Ayanna Plastics & Engineering, Inc. 
+ok   Badger Wire 
+RETRY drmet-biomedical-and-laser-services HTTP Error 503: Service Unavailable
+ok   Business Furniture + Co. 
+ok   Basic Wire & Cable 
+ok   Cirtronics Corporation 
+fetched p0009-raw.json 10 / 10
+ok   C M Manufacturing 
+RETRY custom-service-plastics-inc-corporate-headquarters HTTP Error 503: Service Unavailable
+ok   CM Fabricating 
+ok   Chicago Plastic Systems 
+fetched p0010-raw.json 10 / 10
+ok   Blue Ridge Industries 
+RETRY elite-biomedical-solutions HTTP Error 503: Service Unavailable
+ok   Brookfield Wire, LLC 
+fetched p0011-raw.json 10 / 10
+ok   C&K PlasticsThermoforming Georgia 
+fetched p0012-raw.json 10 / 10
+ok   Commercial Cabling Company 
+ok   County Auto Salvage LLC 
+ok   BrightLife Electric NV 
+ok   Available Plastics Inc 
+ok   Claremont Foods 
+ok   Component Plastics Inc 
+ok   Arkansas Poly & Printing 
+ok   Control Cable, Inc. 
+RETRY gill-design-inc HTTP Error 503: Service Unavailable
+ok   C & S Plastics LLC 
+fetched p0013-raw.json 10 / 10
+ok   Edscha Automotive Michigan 
+ok   Desco Electronics Inc 
+ok   Akron Steel Fabricators Inc 
+ok   ECI LLC 
+fetched p0014-raw.json 10 / 10
+ok   Atsumi Car Equipment Inc 
+RETRY harvest-food-group HTTP Error 503: Service Unavailable
+ok   Alcam Metal Distributors 
+RETRY heale-manufacturing-co HTTP Error 503: Service Unavailable
+fetched p0015-raw.json 10 / 10
+ok   C C Mouldings Inc. 
+RETRY heale-manufacturing-co HTTP Error 503: Service Unavailable
+fetched p0016-raw.json 10 / 10
+ok   Bergen Cable Technology 
+ok   Banner Medical 
+RETRY heale-manufacturing-co HTTP Error 503: Service Unavailable
+ok   Curtis Industries 
+ok   Classic Packaging Company 
+fetched p0017-raw.json 10 / 10
+ok   Calumet Electronics 
+ok   Custom Coils 
+ok   Delaware Manufacturing 
+ok   Dalsin Industries, Inc. 
+ok   Agapé Plastics, Inc. 
+PAGE DONE p0001-profiles.json
+ok   EMS Solutions 
+fetched p0018-raw.json 10 / 10
+RETRY industrial-electronics-services-llc HTTP Error 503: Service Unavailable
+ok   Cable Depot, Inc 
+RETRY journey-electronics-corp HTTP Error 503: Service Unavailable
+ok   Cable Associates 
+ok   Cork Medical 
+ok   EPD ( Electronic Parts Distributors ) Company 
+fetched p0019-raw.json 10 / 10
+ok   De Perini Metal Fabricators 
+ok   Design Plastics Inc 
+RETRY kt-plastics-inc HTTP Error 503: Service Unavailable
+ok   Classic Sheet Metal 
+ok   F M Corporation 
+ok   EEEA Inc 
+ok   Bunty LLC 
+ok   DCA Manufacturing 
+ok   Grand Traverse Plastics Corp (GTP) 
+ok   Distinctive Plastics 
+ok   Electronic Technologies International, Inc. 
+ok   Craftech Plastics 
+ok   Direct Components 
+ok   DrMet Biomedical and Laser Services 
+RETRY custom-clothing-manufacturer-fashion-atlas-group 'NoneType' object has no attribute 'group'
+ok   Custom Service Plastics, Inc. Corporate Headquarters 
+ok   Electro Soft Inc. 
+ok   ECM - Electri-Cord Manufacturing Co. 
+ok   Conneaut Industries Inc 
+RETRY bon-foods Expecting ',' delimiter: line 81 column 4 (char 4729)
+ok   Equipment Solutions Inc. 
+ok   Guardian Electric Manufacturing Co 
+ok   Gill Design, Inc. 
+ok   Elite Biomedical Solutions 
+ok   Decotex, Inc. 
+ok   Franklin Precision Industry 
+RETRY mp-components-inc HTTP Error 503: Service Unavailable
+ok   Hollywood Woodwork 
+ok   Brevan Electronics 
+PAGE DONE p0003-profiles.json
+ok   Best Manufacturing Inc 
+ok   FreshPoint Connecticut 
+ok   Electronic Design and Manufacturing (EDM) - A Pivot International Company 
+ok   Green Light Manufacturing 
+ok   Disposable Instrument Co 
+PAGE DONE p0006-profiles.json
+ok   Illini Wire Works, Inc. 
+RETRY cwr-hawaii-inc Expecting ',' delimiter: line 77 column 4 (char 4512)
+ok   Grand Rapids Controls Co., LLC 
+ok   Garan Electronics & Manufacturers 
+ok   HLC Industries, Inc. 
+ok   Evertech 
+ok   Electrex Inc 
+PAGE DONE p0007-profiles.json
+ok   Imagineering, Inc 
+ok   Komplete Packaging Service 
+ok   Keystone Electronics Inc. 
+ok   MBS Fabrications 
+ok   Horton, Inc. 
+ok   FabArc Steel Supply, Inc. 
+ok   Indigo Metal Fabrication, LLC 
+ok   Engineered Medical Systems 
+ok   Kaiser Manufacturing Co 
+ok   Journey Electronics Corp. 
+ok   Hub Manufacturing 
+RETRY ohio-steel-industries HTTP Error 503: Service Unavailable
+ok   HiReli LLC 
+ok   House of Apparel 
+ok   Harvest Food Group 
+RETRY commercial-creamery-co Remote end closed connection without response
+RETRY fabweld-co Expecting ',' delimiter: line 64 column 4 (char 3237)
+ok   Keco Inc 
+ok   Kinney Industries Inc 
+ok   M Plastics Inc. 
+RETRY fabweld-co HTTP Error 503: Service Unavailable
+ok   KBC Electronics 
+ok   Industrial Automation and Communications Systems a Division of Triangle Electric, Inc. 
+ok   Flexible Circuit Technologies 
+ok   Metro Medical Equipment & Supply, Inc. 
+ok   Linear Manufactureing 
+ok   Metal Works Corporation 
+ok   Koller-Craft Plastic Products 
+ok   KT Plastics, Inc 
+ok   McCann Fabrication 
+ok   Custom Clothing Manufacturer - Fashion Atlas Group 
+ok   Industrial Electronics Services LLC. 
+ok   M.A.R.'s Engineering Company 
+ok   MOS Plastics Inc 
+ok   Kloeckner Metals Nashville (American Fabricators, Inc.) 
+ok   KSM Metal Fabrication 
+ok   Landmark Manufacturing Corporation 
+ok   Heale Manufacturing Co 
+PAGE DONE p0010-profiles.json
+ok   MECA Electronics, Inc. 
+ok   Masimo Semiconductor 
+ok   Kimball Electronics Inc 
+ok   JH Larson Company 
+RETRY premier-restaurant-equipment-solutions HTTP Error 503: Service Unavailable
+ok   Montana Global Health 
+ok   Melink Solar 
+ok   P & M Apparel 
+ok   Green Sun Energy Services, LLC 
+PAGE DONE p0009-profiles.json
+ok   Matrix Plastic Products 
+ok   Midcon Cables Company 
+ok   MP Components Inc 
+ok   Kapstone Medical, LLC 
+PAGE DONE p0011-profiles.json
+ok   New England Fabricated Metals 
+ok   NuWay Electronics 
+ok   OE Solar 
+ok   Monarch Metal Manufacturing 
+ok   Mega Electronics 
+ok   MANAR | Tennplasco | Plastic Injection Molder & Contract Manufacturer 
+PAGE DONE p0013-profiles.json
+ok   Neaton Auto Products Manufacturing 
+ok   Commercial Creamery Co. 
+PAGE DONE p0005-profiles.json
+ok   Modern Welding Company of Kentucky 
+ok   Lone Star Circuits 
+PAGE DONE p0012-profiles.json
+ok   Mills Industries 
+ok   Pacific Packaging Products, Inc. - South 
+ok   O'Donnell Metal Fabricators, Inc. 
+ok   Micron Corporation 
+ok   Production Science Inc 
+ok   CWR Hawaii Inc 
+PAGE DONE p0004-profiles.json
+ok   Mission Plastics of Ar Inc 
+ok   Msi Mold Builders 
+ok   Motherlode Co-Packing Corporate Offices 
+ok   PB Metal 
+ok   Peace River Packing Company 
+ok   Premier Restaurant Equipment Solutions 
+ok   Precision Textiles 
+ok   PICO Manufacturing Sales Corporation 
+ok   PREMOLD CORP 
+ok   Polymer Packaging, Inc. 
+ok   Orion Plastics 
+ok   Precision Molding & Machining: Reno & Sparks, NV 
+ok   Ohio Steel Industries 
+ok   Protoline Inc 
+ok   Moses Lake Industries 
+ok   Redstar Worldwide 
+ok   QXMedical, LLC 
+ok   Plastics Advanced Research 
+ok   Pegasus Foods Inc 
+ok   Powell Industries 
+ok   Praxis Packaging 
+ok   NEP | Custom Cable Assembly Manufacturer 
+PAGE DONE p0015-profiles.json
+ok   Polyzen LLC 
+ok   Pacific Auto Company 
+ok   Plasticology, LLC 
+ok   Rapport, Inc 
+ok   Quality Snack Foods Inc 
+ok   Phase Electronics 
+ok   Millennium Circuits Limited 
+ok   Prime Molding Technologies, Inc. 
+ok   Proterial Cable America, Inc. 
+ok   Ready Foods 
+ok   Puritan Medical Products 
+ok   Proxy Manufacturing - MA (Electronic Manufacturing Services, PCB Assembly Service) 
+ok   Quantum Plastics 
+ok   Richmond Auto Parts Technology, Inc 
+RETRY bon-foods Remote end closed connection without response
+ok   Reliance Packaging 
+PAGE DONE p0019-profiles.json
+RETRY mid-america-wire-cable Remote end closed connection without response
+ok   Polar Wire Products 
+ok   Precision Cable Assemblies Inc. (PCA) 
+ok   Pennsylvania Transformer Technology, LLC. 
+PAGE DONE p0017-profiles.json
+ok   FabWeld Co. 
+PAGE DONE p0008-profiles.json
+ok   Premiere Packaging, Inc. 
+PAGE DONE p0018-profiles.json
+RETRY obertron-electronic-manufacturing-inc Remote end closed connection without response
+ok   Mid America Wire & Cable 
+PAGE DONE p0014-profiles.json
+ok   Bon Foods 
+PAGE DONE p0002-profiles.json
+RETRY obertron-electronic-manufacturing-inc The read operation timed out
+RETRY obertron-electronic-manufacturing-inc Remote end closed connection without response

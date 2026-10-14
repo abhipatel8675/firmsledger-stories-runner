@@ -1,0 +1,735 @@
+# Atsumi Car Equipment Inc
+
+**Old description:** Based in Wytheville, VA, Atsumi Car Equipment INC. is the North American branch of Atsumi Kogyo Co., Ltd, which is located in Hamamatsu Japan. Since 1950, Atsumi Kogyo Co. has created quality machined automotive parts.
+
+## About
+Atsumi Car Equipment Inc. operates its North American manufacturing facility in Wytheville, Virginia. The company was established in 2001 as the U.S. subsidiary of Atsumi Kogyo Co., Ltd., a Japanese precision machining firm founded in 1950 in Hamamatsu, Japan. The Wytheville plant is led by Representative Director and Chairman Kakuzo Atsumi and Representative Director and President Setsuzo Atsumi, reflecting the family ownership that traces back to the Japanese parent.
+
+The facility specializes in precision machining of automotive components, including hubs, spindles, starter shafts, and engine variable valve timing (VVT) rotors. Production processes encompass precision grinding, sintered metal machining, heat treatment, and forged metal machining, supported by automated NC lathes, drilling machines, and a multiple-articulation transfer robot. Automated machining lines incorporate in-process inspection with autocheckers, auto gauges, and auto alarming systems. The Wytheville site is part of a global network that includes factories in Japan, Indonesia, Thailand, and Mexico.
+
+Atsumi Car Equipment serves the automotive industry, supplying Tier 1 manufacturers such as NSK (for Toyota, Lexus, and Honda hubs and spindles), Aisin (for Nissan and GM VVT rotors), and Denso (for Toyota starter tubes). The company's customer base spans OEMs and major automotive suppliers across North America and globally through its affiliated plants.
+
+The company emphasizes its automated, inspection-integrated machining lines and a quality structure built on QC and TPM activities, which it says enable consistent high-quality output across both small and large production volumes. Its U.S. facility is staffed by American workers dedicated to American customers, leveraging the parent company's decades of automotive machining experience.
+
+## Known for
+- Automated machining lines with in-process inspection (autocheckers, auto gauges, auto alarming)
+- Global manufacturing network with facilities in Japan, Indonesia, Thailand, U.S., and Mexico
+- Specialization in hub, spindle, starter shaft, and VVT rotor precision machining
+- ISO 9001:2015 certified quality management system
+- QC and TPM activities supporting both low- and high-volume production
+
+## Capabilities
+- Precision grinding
+- Sintered metal machining
+- Heat treatment
+- Forged metal machining
+- Hub machining
+- Spindle machining
+- Starter shaft machining
+- Engine variable valve timing (VVT) rotor machining
+- Automated NC lathe machining
+- Drilling
+- Multiple-articulation transfer robot automation
+- Automated machining with in-process inspection (autocheckers, auto gauges, auto alarming)
+- Four-wheel axle production
+- Shaft precision machining
+- Sintering
+
+## Industries
+- Automotive
+
+## Equipment
+- Automated NC lathes
+- Drilling machines
+- Multiple-articulation transfer robot
+- Automated machining lines with in-built autocheckers, auto gauges, auto alarming systems
+
+## Certifications
+- ISO 9001:2015
+
+## Company details
+- **Company Type:** Subsidiary
+- **Founded:** 2001
+- **Ownership:** Subsidiary of Atsumi Kogyo Co., Ltd. (Japan); led by Kakuzo Atsumi (Chairman) and Setsuzo Atsumi (President)
+- **Headquarters:** Wytheville, Virginia
+
+<details><summary>Sources</summary>
+
+- Headquarters in Wytheville, VA -> /
+- Parent company Atsumi Kogyo Co., Ltd. founded 1950 in Hamamatsu, Japan -> /
+- U.S. subsidiary Atsumi Car Equipment Inc. founded 2001 -> /about-us
+- Ownership: led by Kakuzo Atsumi (Chairman) and Setsuzo Atsumi (President) -> /about-us
+- Specializes in hub, spindle, starter shaft, VVT rotor precision machining -> /
+- Processes: precision grinding, sintered metal machining, heat treatment, forged metal machining -> /
+- Automated NC lathes, drilling machines, multiple-articulation transfer robot -> /about-us
+- Automated machining lines with autocheckers, auto gauges, auto alarming -> /
+- Global network factories in Japan, Indonesia, Thailand, U.S., Mexico -> /about-us
+- Customers: NSK (Toyota, Lexus, Honda), Aisin (Nissan, GM), Denso (Toyota) -> /
+- ISO 9001:2015 certification attained 2018 -> /about-us
+- Materials: sintered metal, forged metal -> /
+- QC and TPM activities for quality structure -> /about-us
+- American workers for American customers -> /
+</details>
+
+---
+
+# Available Plastics Inc
+
+**Old description:** Founded in 1978, Available Plastics, Inc. is a leading manufacturer in the PVC Industry. Our customers know they can depend on our woman owned small business to strive to deliver quality PVC pipe products on time every time.
+
+## About
+Available Plastics, Inc. was founded in 1978 in Huntsville, Alabama. The company operates as a woman-owned small business specializing in PVC manufacturing.
+
+The company produces custom plastic pipe, tube, and related products for manufacturers, wholesalers, and distributors across North America. Its core processes include injection molding, custom plastic fabrication and assembly, custom extrusion, and additional cleaning for medical and cleanroom applications. Available Plastics also offers custom coloring services driven by volume requirements, and manufactures proprietary product lines such as the Banner Hanging System and FlowMax Gold central vacuum tubing. The product portfolio includes custom extrusion profiles, furniture-grade PVC pipe and fittings, and industry-standard PVC pipes and tubes.
+
+Available Plastics serves a range of industries including film and textile winding, utilities, water filtration, petroleum, sporting goods, construction, outdoor furniture and home furnishings, and retail display. Its customer base consists of manufacturers, wholesalers, and distributors throughout North America.
+
+The company emphasizes on-time delivery of quality PVC products and utilizes the latest manufacturing technologies with premium-grade PVC materials to produce what it describes as superior PVC products. Its woman-owned status and focus on medical-grade cleaning capabilities further distinguish its offering.
+
+## Known for
+- Woman-owned small business
+- On-time delivery of quality PVC products
+- Latest manufacturing technologies with premium-grade PVC
+- Medical and cleanroom cleaning capabilities
+- Custom coloring driven by volume
+
+## Capabilities
+- Injection Molding
+- Custom Plastic Fabrication & Assembly
+- Custom Extrusion
+- Medical/Cleanroom Cleaning
+- Custom Coloring (Volume Driven)
+- Banner Hanging System Manufacturing
+- FlowMax Gold Central Vacuum Tubing Manufacturing
+
+## Industries
+- Film and Textile Winding
+- Utilities
+- Water Filtration
+- Petroleum
+- Sporting Goods
+- Construction
+- Outdoor Furniture and Home Furnishings
+- Retail Display
+
+## Certifications
+- WOMAN OWNED
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1978
+- **Ownership:** Woman Owned Small Business
+- **Headquarters:** Huntsville, Alabama
+
+<details><summary>Sources</summary>
+
+- Founded in 1978 -> db, /
+- Headquarters in Huntsville, Alabama -> db
+- Woman-owned small business -> db, /
+- Manufactures custom plastic pipe, tube, and products -> /
+- Processes: injection molding, custom plastic fabrication & assembly, custom extrusion, medical/cleanroom cleaning, custom colors -> /
+- Industries served: film and textile winding, utilities, water filtration, petroleum, sporting goods, construction, outdoor furniture and home furnishings, retail display -> /
+- Customer types: manufacturers, wholesalers, distributors throughout North America -> /
+- Uses premium-grade PVC materials -> /
+- Offers Banner Hanging System and FlowMax Gold central vacuum tubing -> /
+- Certification: Woman Owned -> db
+</details>
+
+---
+
+# Ayanna Plastics & Engineering, Inc.
+
+**Old description:** Ayanna Plastics & Engineering, Inc. is an ISO 9001 and ISO 13485 certified plastic injection molding company. Since 2001, Ayanna has focused on it’s core manufacturing strengths of mold design, mold building and part production. Ayanna serves a diverse and growing listing of industries including medical, industrial, consumer, aerospace, marine and defense.
+
+## About
+Ayanna Plastics & Engineering, Inc. was founded in 2001 in Clearwater, Florida. The privately held company began as a plastic injection molding specialist focused on mold design, mold building, and part production.
+
+The company operates a turnkey manufacturing platform that covers part design, material selection, mold design, mold building, mold transfer management, and injection molding production. Its team employs scientific molding disciplines to maintain process control and consistency across runs. Annual output reaches approximately 10 million molded parts, supported by a workforce with an average tenure of eight years.
+
+Ayanna serves customers in the medical, industrial, consumer, aerospace, marine, and defense sectors. The firm works with engineered resins and manages projects from initial concept through finished components, including mold builds that typically require four to twelve weeks depending on complexity.
+
+Leadership emphasizes a solutions-driven approach, positioning the company as a partner that guides clients from idea to production. Quality management is based on ISO 9001 and ISO 13485 standards, and the facility is UL registered. The company has been recognized as a "World's Greatest" plastic injection molding company and a two-time Plastics News Best Places to Work honoree.
+
+## Known for
+- Scientific molding for complete process control
+- Turnkey manufacturing platform from design to finished product
+- ISO 9001 and ISO 13485 certified with UL registration
+- Mold building in 4-12 weeks
+- 8-year average employee tenure
+
+## Capabilities
+- Scientific Molding
+- Mold Design
+- Mold Building
+- Mold Transfer Management
+- Project Management
+- Part Design
+- Material Selection
+- Injection Molding
+- Process Controls
+- Capability Studies
+
+## Industries
+- Medical
+- Industrial
+- Consumer
+- Aerospace
+- Marine
+- Defense
+
+## Certifications
+- ISO 9001
+- ISO 13485
+- UL Registered
+
+## Company details
+- **Company Type:** Plastic injection molding company
+- **Founded:** 2001
+- **Headquarters:** Clearwater, Florida
+
+<details><summary>Sources</summary>
+
+- Founded in 2001 -> page /
+- Headquarters in Clearwater, Florida -> page /
+- ISO 9001 and ISO 13485 certified, UL registered -> page /, db
+- 10 million parts molded yearly -> page /
+- 280 clients -> page /
+- 8 years average employee tenure -> page /
+- Industries served: medical, industrial, consumer, aerospace, marine, defense -> db description
+- Capabilities: scientific molding, mold design, mold building, mold transfer management, project management, part design, material selection -> page /
+- Mold building lead time 4-12 weeks -> page /
+- Turnkey manufacturing platform from design through finished products -> page /
+- World's Greatest plastic injection molding company award -> page /
+- Two-time Plastics News Best Places to Work -> page /
+</details>
+
+---
+
+# Badger Wire
+
+**Old description:** Since 1989, Badger Wire, Inc. has been building a reputation for extrusion capabilities, quality and service. In 1999, Badger Wire became ISO 9001:2015 registered and maintains the most current ISO registration to date.
+
+## About
+Badger Wire, Inc. was founded in 1989 in Waukesha, Wisconsin, to extrude large gauge wire. The company has built a reputation for extrusion capabilities, quality, and service since its inception.
+
+The company manufactures a range of extruded products including primary wire, battery cable, booster cable, trailer cable, auto duplex, PVC tubes, tubing, and multi-conductor wire. Using Davis-Standard extrusion equipment, Badger Wire maintains close tolerances and consistent quality while achieving high extrusion speeds. The facility can produce substantial footage of heavy gauge wire within one to three weeks and offers smaller minimum quantity runs than many larger competitors.
+
+Badger Wire serves industries such as Power, Truck Trailers, Lawn & Garden, and Marine. Its products are used in applications requiring insulated wire, cable, and tubing, including UL and CSA rated wire.
+
+The company emphasizes responsiveness due to its size relative to larger manufacturers, offering smaller minimum runs and keeping finished product in stock for immediate shipment or raw material on hand for quick production. This service focus, combined with technical capabilities, aims to provide high-quality battery cable at competitive prices with service that customers find difficult to match among U.S. insulated wire manufacturers.
+
+## Known for
+- Smaller minimum quantity runs than larger manufacturers
+- Heavy gauge wire production within 1-3 weeks
+- Finished product stocked for immediate shipment
+- Raw material available for quick turnaround
+- Davis-Standard extrusion equipment for speed and close tolerances
+
+## Capabilities
+- Wire extrusion
+- Cable manufacturing
+- Tubing extrusion
+- Multi-conductor wire production
+- UL/CSA rated wire production
+- Custom extrusion
+
+## Industries
+- Power
+- Truck Trailers
+- Lawn & Garden
+- Marine
+
+## Equipment
+- Davis-Standard extrusion equipment
+
+## Certifications
+- ISO 9001:2015
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1989
+- **Headquarters:** Waukesha, Wisconsin
+
+<details><summary>Sources</summary>
+
+- Founded in 1989 in Waukesha, Wisconsin -> /about
+- ISO 9001:2015 certified since 1999 -> /about
+- Manufactures primary wire, battery cable, booster cable, trailer cable, auto duplex, PVC tubes, tubing, multi-conductor wire -> /
+- Uses Davis-Standard extrusion equipment -> /about
+- Offers smaller minimum quantity runs than larger manufacturers -> /about
+- Heavy gauge wire production within 1-3 weeks -> /about
+- Stocks finished product for immediate shipment -> /about
+- Serves Power, Truck Trailers, Lawn & Garden, Marine industries -> /
+- Produces UL and CSA rated wire -> /
+- Quality objectives: improve on-time delivery, reduce cost of quality, reduce scrap -> /quality
+</details>
+
+---
+
+# Banner Medical
+
+**Old description:** Banner Medical is a strategic business unit of Banner Industries. Since 1961, Banner Industries has served the precision machining industry by providing the highest quality materials and value-added services that offer superior processing capability, reduced supply chain complexity, and risk mitigation. As an ISO 13485 certified supplier to the medical device industry, Banner Medical has implemented stringent quality standards and employs talented personnel who have thoroughly validated our equipment through the IQ, OQ, and PQ processes required by FDA protocol. Though few processors of medical grade material perform validation testing to this degree, we can confirm that our machining processes do not change the physical properties of the material, and assure you that our materials will meet your specifications every time. Our mission is to provide defect-free materials and components that allow our customers to manufacture the best products for the medical device industry.
+
+## About
+Banner Medical operates from Warsaw, Indiana, as a strategic business unit of Banner Industries, a division of A.M. Castle & Co. that has served the precision machining industry since 1961. The medical unit was established to supply raw materials and processing services to the medical device sector.
+
+The company maintains an extensive inventory of medical-grade alloys including stainless steel, titanium, cobalt chrome, and 316LVM. Its in-house processing capabilities cover straightening, turning, grinding, and polishing of bar stock, as well as complete machining to near-net or finished component form. Additional services include packaging and special labeling, vendor-managed inventory programs, full material traceability to melt source, engineering and design support, and FDA 510(k) audit consultation.
+
+Banner Medical serves medical device manufacturers and their supply chains, providing materials and components that meet stringent regulatory requirements. Customers include firms producing implants, instruments, and other regulated devices that require documented material integrity and process validation.
+
+The company differentiates itself through IQ, OQ, and PQ validation of its equipment per FDA protocol, asserting that its machining processes do not alter the physical properties of the material. It emphasizes rapid turnaround, vendor-managed inventory, and a defect-free quality target.
+
+## Known for
+- IQ/OQ/PQ equipment validation per FDA protocol
+- Machining processes verified not to change material physical properties
+- Vendor-managed inventory programs
+- Full material traceability to melt source
+- FDA 510(k) audit and approval process consultation
+
+## Capabilities
+- Straightening
+- Turning
+- Grinding
+- Polishing
+- Complete machining to near-net or finished components
+- Packaging and special labeling
+- Vendor-managed inventory
+- Material traceability to melt source
+- Engineering and design support
+- FDA 510(k) audit consultation
+- Raw material sourcing
+
+## Industries
+- Medical Devices
+- Precision Machining
+
+## Certifications
+- ISO 13485
+
+## Company details
+- **Company Type:** Strategic Business Unit
+- **Founded:** 1961
+- **Ownership:** Division of A.M. Castle & Co.
+- **Headquarters:** Warsaw, Indiana
+
+<details><summary>Sources</summary>
+
+- Founded 1961 -> db, /about-us
+- Headquarters Warsaw, Indiana -> db
+- Strategic business unit of Banner Industries, division of A.M. Castle & Co. -> /about-us
+- ISO 13485 certified -> db, /, /about-us
+- Processes: straightening, turning, grinding, polishing, complete machining -> /about-us
+- Materials: stainless steel, titanium, cobalt chrome, 316LVM, exotic medical grade alloys -> /about-us
+- Services: packaging, labeling, vendor-managed inventory, material traceability, engineering support, FDA 510(k) consultation -> /about-us
+- Industries served: medical device, precision machining -> /about-us
+- IQ/OQ/PQ validation per FDA protocol -> /, /about-us
+- Machining does not change material physical properties -> /, /about-us
+- Rapid turnaround claimed -> /
+- Address: 494 East Lies Rd., Carol Stream, IL 60188 -> /about-us
+</details>
+
+---
+
+# Basic Wire & Cable
+
+**Old description:** Since 1954, Basic Wire and Cable has provided an opportunity for companies to select from inventoried material readily available for same day shipment anywhere in the country, or a custom product manufactured to meet your specific needs.
+
+## About
+Basic Wire & Cable was founded in 1954 and operates from a 500,000-square-foot manufacturing and distribution facility in Chicago, Illinois. The company has spent over six decades supplying electrical wire and cable products to customers nationwide.
+
+The firm both manufactures and distributes a broad range of electrical wire and cable, including building wire, instrumentation and control cables, power cables up to 35 kV, flexible portable and mining cords, and MV-105 cables. Its facility supports standard and custom cable configurations as well as value-added services, and it maintains a large inventory for same-day shipment across the country.
+
+Basic Wire & Cable serves customers in power transmission, industrial control, mining, construction, and instrumentation sectors, supplying products that meet NEMA and ICEA standards. Its customer base includes companies requiring both off-the-shelf and custom-engineered cable solutions.
+
+The company emphasizes its ISO 9001:2015 quality system, UL certifications, low order minimums, and competitive pricing as key differentiators, aiming for 100% customer satisfaction.
+
+## Known for
+- Same-day shipping on stocked items nationwide
+- Custom cable manufacturing to customer specifications
+- 500,000 sq ft integrated manufacturing and distribution facility
+- ISO 9001:2015 certified quality system
+- Low order minimums and competitive pricing
+
+## Capabilities
+- Electrical wire and cable manufacturing
+- Custom cable configuration
+- Value-added cable services
+- Inventory management and distribution
+- Same-day shipping
+- Compliance with NEMA standards
+- Compliance with ICEA standards
+- UL certified products
+
+## Industries
+- Power transmission
+- Industrial control
+- Mining
+- Construction
+- Instrumentation
+
+## Certifications
+- ISO 9001:2015
+- UL certifications
+
+## Company details
+- **Company Type:** Manufacturer and distributor
+- **Founded:** 1954
+- **Headquarters:** Chicago, Illinois
+
+<details><summary>Sources</summary>
+
+- Founded 1954 -> /about-us
+- Headquarters Chicago, Illinois -> /about-us
+- 500,000 sq ft facility -> /about-us
+- Manufacturer and distributor of electrical wire and cable -> /about-us
+- Same-day shipment on inventoried material -> /about-us
+- Custom cable configurations and value-added products -> /about-us
+- ISO 9001:2015 quality system -> /about-us
+- UL certifications -> /about-us
+- Compliance with NEMA and ICEA standards -> /about-us
+- Product categories: building wire, instrumentation, control, power, mining, portable cords, MV-105 -> /about-us, /
+- DUNS #02-502-3557, CAGE code 6TU28, NAICS 423610 & 335929 -> /about-us
+</details>
+
+---
+
+# Bergen Cable Technology
+
+**Old description:** As the world’s longest running wire rope and cable assembly manufacturer, Bergen Cable delivers unparalleled expertise and premium-quality products tailored for unique applications across industries like aerospace, marine, electronics, and transportation. For over 75 years, our investment in cutting-edge technologies has driven excellence in our extensive product line, including safety cables, control cables, lanyards, push-pull controls, and custom cable assemblies, consistently exceeding customer expectations. Contact us today via our
+
+## About
+Bergen Cable Technology was founded in 1942 in Lodi, New Jersey, and today operates from Fairfield, New Jersey. The company began as an innovator in wire rope and cable assembly, and claims to be the longest continuously operating manufacturer in that field.
+
+The company produces a range of cable-based products including safety cables, control cables, lanyards, push-pull controls, custom cable assemblies, LockClad cables (per MIL-DTL-87218), miniature cables, and termination bands qualified to M85049/128-3 and -4. Manufacturing processes include rotary swaging for tight tolerances, cutting and stripping with Ewald flash cutters, crimping using hydraulic and pneumatic presses up to 175 tons, pull testing up to 22,500 lbf with full-length validation to 106 feet, finishing via electromechanical etching, hot stamping, metal stamping, heat-shrink markers, and laser marking, and packaging that can meet military specifications.
+
+Bergen serves aerospace, military and defense, spacecraft, robotics, medical, emerging technology, transportation, marine, electronics, power generation, and commercial aviation. It is an approved supplier for numerous industry-leading aerospace and medical companies and has received multiple Boeing Performance Excellence Awards, including Gold in 2010 and Silver in several other years.
+
+The company emphasizes its 80-plus-year legacy, unmatched technical expertise, and customer service as differentiators. It holds multiple U.S. Government QPL certifications, AS9100D and ISO 9001:2015 registrations, and ITAR certification, and states that its mission is to continue innovating while protecting the entrepreneurial spirit that started the business.
+
+## Known for
+- Longest continuously operating wire rope and cable assembly manufacturer (since 1942)
+- Holder of multiple U.S. Government QPL certifications
+- AS9100D and ISO 9001:2015 registered, ITAR certified
+- Pull testing capacity up to 22,500 lbf with 106 ft full-length validation
+- Boeing Performance Excellence Awards recipient (multiple years)
+
+## Capabilities
+- Rotary swaging
+- Cutting and stripping (Ewald flash cutters)
+- Crimping (hydraulic and pneumatic presses up to 175-ton)
+- Pull testing (proof and destructive up to 22,500 lbf, full-length validation up to 106 ft)
+- Finishing (electromechanical etching, hot stamping, metal stamping, heat shrink markers, laser marking)
+- Packaging (including military-specification packaging)
+- Custom cable assembly design and manufacturing
+- Safety cable manufacturing
+- LockClad cable assemblies (MIL-DTL-87218)
+- Control cables (push-pull and pull-pull configurations)
+- Lanyard assembly
+- Miniature cable assembly
+- Termination bands (qualified to M85049/128-3 and M85049/128-4)
+- Precision machining
+
+## Industries
+- Aerospace
+- Military and defense
+- Spacecraft
+- Robotics
+- Medical
+- Emerging technology
+- Transportation
+- Marine
+- Electronics
+- Power generation
+- Commercial aviation
+
+## Equipment
+- Ewald flash cutters
+- Hydraulic presses (up to 175-ton)
+- Pneumatic presses
+- United testers
+- Customized digital proof loaders
+- Purpose-built pull test facility (22,500 lbf, 106 ft)
+- Rotary swaging machines
+- Laser marking equipment
+- Hot stamping equipment
+- Electromechanical etching equipment
+
+## Certifications
+- AS9100D
+- ISO 9001:2015
+- ITAR
+- M85049/128-3
+- M85049/128-4
+- U.S. Government QPL certifications
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1942
+- **Headquarters:** Fairfield, New Jersey
+
+<details><summary>Sources</summary>
+
+- Founded 1942 in Lodi, NJ -> /about
+- Headquarters Fairfield, NJ -> db
+- Longest running wire rope and cable assembly company -> /about, /
+- Products: safety cables, control cables, lanyards, push-pull controls, custom cable assemblies, LockClad, miniature cables, termination bands -> /, /about
+- Processes: rotary swaging, cutting/stripping (Ewald flash cutters), crimping (hydraulic/pneumatic presses up to 175-ton), pull testing (22,500 lbf, 106 ft), finishing (etching, stamping, laser marking), packaging (mil-spec) -> /
+- Industries: aerospace, military/defense, spacecraft, robotics, medical, emerging technology, transportation, marine, electronics, power generation, commercial aviation -> /, /about
+- Approved supplier for industry-leading aerospace and medical companies -> /, /about
+- Boeing Performance Excellence Awards (2008 Silver, 2010 Gold, 2011 Silver, 2012 Silver, 2013 Silver, 2015 Silver) -> /about
+- Certifications: AS9100D, ISO 9001:2015, ITAR, multiple U.S. Government QPL, M85049/128-3, M85049/128-4 -> /, /about
+- Equipment: Ewald flash cutters, hydraulic/pneumatic presses, United testers, digital proof loaders, pull test facility, rotary swaging machines, laser marking, hot stamping, electromechanical etching -> /
+- Materials: wire rope, cable, aircraft cable (MIL-DTL-87218), steel bands, coated cable -> /
+</details>
+
+---
+
+# Best Manufacturing Inc
+
+**Old description:** Since 1990 Best Manufacturing has been providing a variety of customers with superior quality component parts. From initial design, through prototyping, to a completely welded assembly, we utilize the very latest in fabrication technology and engineering. Our fully-stocked warehouse of carbon steel, galvanized, aluminum and stainless steel complete with inventory management allows for quick turnaround in a very demanding market.
+
+## About
+Best Manufacturing Inc. operates from Jonesboro, Arkansas, where it was founded in 1990. The company is a subsidiary of Reliance, Inc., and has served as a provider of component parts since its establishment.
+
+The company specializes in sheet metal fabrication, offering high-speed production laser cutting, CNC machining, welding, CNC punching, plate rolling, robotic CNC forming, and powder coat painting. A fully-stocked warehouse carries carbon steel, galvanized steel, aluminum, and stainless steel, supported by inventory management to enable quick turnaround. Capabilities extend from initial design and prototyping through to completely welded assemblies.
+
+Best Manufacturing serves a broad range of industries, including agriculture, construction, data centers, electrical enclosures, energy equipment, environmental, industrial, lawn and garden, marine, material handling, POS display and kiosks, power grid, railcar, solar, transportation, and truck and trailer manufacturing.
+
+The company emphasizes its integrated approach, combining cutting-edge fabrication technology with engineering expertise, and highlights its warehouse inventory and automated equipment as key to meeting dynamic market demands with swift turnarounds. It also stresses reliable partnerships with clients and suppliers.
+
+## Known for
+- Fully-stocked warehouse with carbon steel, galvanized, aluminum, and stainless steel for quick turnaround
+- High-speed production laser cutting
+- Robotic CNC forming
+- Comprehensive in-house capabilities including welding, CNC punching, machining, plate rolling, and powder coat painting
+- ISO 9001 certified quality management
+
+## Capabilities
+- Laser cutting (high-speed production)
+- CNC machining
+- Welding
+- CNC punching
+- Plate rolling
+- Robotic CNC forming
+- Powder coat painting
+- Sheet metal fabrication
+- Prototyping
+- Design assistance
+- Inventory management
+
+## Industries
+- Agriculture
+- Construction
+- Data Center
+- Electrical Enclosures
+- Energy Equipment
+- Environmental
+- Industrial
+- Lawn & Garden
+- Marine
+- Material Handling
+- POS Display/Kiosks
+- Power Grid
+- Railcar
+- Solar
+- Transportation
+- Truck/Trailer
+
+## Certifications
+- ISO 9001
+
+## Company details
+- **Company Type:** Sheet metal fabricator
+- **Founded:** 1990
+- **Ownership:** Subsidiary of Reliance, Inc.
+- **Headquarters:** Jonesboro, Arkansas
+
+<details><summary>Sources</summary>
+
+- Founded in 1990 -> db
+- Headquarters Jonesboro, Arkansas -> db
+- Subsidiary of Reliance, Inc. -> /about-us
+- Services: laser cutting, welding, CNC punching, machining, plate rolling, robotic CNC forming, powder coat painting -> /
+- Materials: carbon steel, galvanized steel, aluminum, stainless steel -> description, /about-us
+- Industries served list -> /
+- Certification ISO 9001 -> db
+- Fully-stocked warehouse with inventory management for quick turnaround -> description, /about-us
+- High-speed production laser cutting -> /
+- Robotic CNC forming -> /
+- One-stop sheet metal fabrication -> /
+- Design and prototyping -> description
+</details>
+
+---
+
+# Blue Ridge Industries
+
+**Old description:** Founded in 1985, Blue Ridge Industries is a trusted contract manufacturer that specializes in injection molding and is driven by a unique, ingenuity-driven approach. At Blue Ridge, our collaborative approach merges advanced technology, lean manufacturing, and just-in-time delivery to meet your exact requirements. Whether you’re looking to improve an existing product or bring a new concept to life, we leverage decades of expertise to ensure every part meets rigorous quality and performance standards. Our mission statement -
+
+## About
+Blue Ridge Industries was founded in 1985 in Winchester, Virginia, as a small custom injection molder. The company has grown from its origins into a full-service contract manufacturer operating around the clock from its Virginia facility.
+
+Today Blue Ridge runs 25 injection molding presses ranging from 50 to 1,000 tons, supporting over 100 active molds and 24/7 production. The roughly 95-person team provides engineering support, 3D printing and rapid prototyping, automated assembly, plastics decorating (hot stamping and pad printing), ultrasonic welding, and fulfillment and warehousing services. The facility leverages 6-axis robotics, ERP-integrated statistical process control, and inspection equipment including CMM, optical gaging, and image measurement machines.
+
+The company serves automotive, medical, and consumer goods markets, among others, and counts Trex Company, Schonstedt Instrument Company, Spire LLC, and Palram Americas among its customers. Its quality system is ISO 9001:2015 certified and IATF16949 MAQMSR compliant, with reported in-process acceptance rates at or above 98 percent and on-time delivery at or above 98 percent.
+
+Blue Ridge emphasizes an ingenuity-driven mindset that combines data-informed design, lean manufacturing, and a family-like culture. Its mission centers on creating quality solutions through dedicated partnerships, integrity, efficiency, and teamwork, with leadership highlighting continuous improvement and proactive problem-solving as core differentiators.
+
+## Known for
+- 24/7 operations with 25 presses (50–1,000 tons) and 100+ active molds
+- ISO 9001:2015 certification and IATF16949 MAQMSR compliance
+- In-house engineering, 3D printing, assembly, decorating, and fulfillment under one roof
+- ERP-integrated Statistical Process Control (SPC) with real-time production monitoring
+- Strategic I-81 location enabling under-24-hour shipping via UPS, FedEx, or LTL
+
+## Capabilities
+- Custom Injection Molding (50–1,000 ton presses)
+- Engineering Support (Design for Manufacturability, Mold Flow Analysis, Material Selection)
+- 3D Printing and Rapid Prototyping
+- Automated Manufacturing (6-axis Robotics)
+- Contract Manufacturing and Assembly
+- Ultrasonic Welding
+- Insert Installation
+- Component Assembly
+- Functional Testing
+- Retail-ready Packaging
+- Plastics Decorating (Hot Stamping, Pad Printing)
+- Fulfillment and Warehousing (Min/Max Inventory Management, Pick-and-Pack)
+- Just-in-Time Delivery
+- Statistical Process Control (SPC) with Real-time Data Monitoring
+- Coordinate Measuring Machine (CMM) Inspection
+- Optical Gaging Inspection
+- Image Measurement Machine (IMM) Inspection
+- Low-volume to High-volume Production
+
+## Industries
+- Automotive
+- Medical
+- Consumer Goods
+
+## Equipment
+- 25 Injection Molding Presses (50–1,000 tons)
+- 6-axis Robotic Automation
+- Optical Gaging System
+- Image Measurement Machine (IMM)
+- Coordinate Measuring Machine (CMM)
+- 3D Printers (for prototyping)
+- ERP-integrated SPC Software
+
+## Certifications
+- ISO 9001:2015
+- IATF16949 MAQMSR
+
+## Company details
+- **Company Type:** Contract Manufacturer
+- **Founded:** 1985
+- **Employees:** approximately 95
+- **Headquarters:** Winchester, Virginia
+
+<details><summary>Sources</summary>
+
+- Founded in 1985 -> db
+- Headquarters: Winchester, Virginia -> db
+- 25 presses ranging from 50 to 1,000 tons -> /
+- 100+ active molds -> /
+- 24/7 operations -> /
+- Approximately 95 employees -> /about
+- 60+ active customers -> /about
+- ISO 9001:2015 certified -> /
+- IATF16949 MAQMSR compliant -> /
+- 98% acceptance rate -> /
+- 98% on-time delivery -> /
+- Engineering support with DFM, mold flow analysis -> /capabilities
+- 3D printing and rapid prototyping -> /capabilities
+- 6-axis robotic automation -> /capabilities
+- Contract manufacturing and assembly including ultrasonic welding, insert installation, component assembly, functional testing, packaging -> /capabilities
+- Plastics decorating: hot stamping and pad printing -> /capabilities
+- Fulfillment and warehousing with min/max inventory, pick-and-pack, under 24-hour shipping -> /capabilities
+- Strategic location on I-81 -> /capabilities
+- ERP-integrated SPC -> /about
+- Inspection equipment: Optical Gaging System, Image Measurement Machine (IMM), Coordinate Measuring Machine (CMM) -> /about
+- Industries served: automotive, medical, consumer goods -> /
+- Customer testimonials: Trex Company Inc., Schonstedt Instrument Company, Spire LLC, Palram Americas -> /
+- Mission statement: create quality solutions through dedicated partnerships, integrity, efficiency, and teamwork -> /
+- Leadership: Jim Possehl (President), Adam Noble (VP), Bill Harrison (Engineering Manager), John Felty (Sales Engineer), Kim Baldwin (Procurement Manager), Beth Palazzo (Quality Manager) -> /about
+</details>
+
+---
+
+# Bon Foods
+
+**Old description:** Bon Foods co-packer and co-manufacturer of a wide range of liquid and dry products in the food and supplement industries, ranging from a gram size package to multiple container loads of product, including beverages, sweeteners, sauces, dips, dressing,
+
+## About
+Bon Foods traces its roots to 1947 when Paul Le Vasseur Bonneau founded the company in Portland, Oregon, as a manufacturer and contract packager of food‑grade gravy, soup and sauce bases. The business expanded into vapor‑distilled water and logistics in 1975, added a food‑business incubator and additional facilities in 2014, and became a subsidiary of Icon Foods, Inc. in 2018. Today it operates two manufacturing plants and two distribution centers in the Portland area, encompassing more than 80,000 square feet of processing and warehouse space.
+
+The company provides turnkey co‑packing and co‑manufacturing for liquid and dry products, ranging from gram‑size packages to full rail‑car loads. Core capabilities include hot‑fill and cold‑fill co‑packing, custom dry and liquid blending, particle milling and grinding (down to 0.1 micron), contract beverage manufacturing, toll processing, and analytical quality services. An on‑site R&D team supports formula development, gluten‑free and all‑natural projects, and clean‑label innovation, while an incubation program helps emerging brands scale without large capital outlays.
+
+Bon Foods serves the food and supplement industries, with a customer base that includes chain restaurants, supermarkets, and brands lacking in‑house hot‑fill or cold‑fill equipment. Recent projects have covered sauces, condiments, dips, dressings, soup bases, gravy bases, marinades, specialty sugars, vinegars and syrups.
+
+The company emphasizes its 70‑year track record, third‑party‑audited GMP facilities, HACCP plans on every line, kosher certification through the Oregon Kosher Rabbinical Council, and a full suite of packaging options — lug and continuous‑thread caps, mylar and induction sealing, tamper‑evident banding, glass and plastic containers — to deliver consistency and food safety from concept to commercial viability.
+
+## Known for
+- 70 years of quality food experience (since 1947)
+- Hot-fill and cold-fill co-packing at every facility
+- On-site R&D teams for formula development (gluten-free, all-natural, clean label)
+- Kosher-certified and third-party audited GMP facilities with HACCP on every line
+- Incubation program to launch brands without major capital investment
+
+## Capabilities
+- Hot fill co-packing
+- Cold fill co-packing
+- Custom dry blending
+- Custom liquid blending
+- Custom milling and grinding
+- Contract beverage manufacturing
+- Contract manufacturing and packaging
+- Toll processing for food
+- Quality reprocessing services
+- Analytical and quality services
+- Bulk handling
+- Dry processing
+- Liquid processing
+- Research and development
+- Gluten-free formula development
+- All-natural formula development
+- Kosher co-packing
+- Incubation services
+
+## Industries
+- Food and supplement industries
+- Chain restaurants
+- Supermarkets
+
+## Equipment
+- Media particle grinding and milling equipment (0.1 micron capability)
+
+## Certifications
+- ISO 9001:2008
+- GMP
+- HACCP
+- Kosher Certification (Oregon Kosher Rabbinical Council)
+
+## Company details
+- **Company Type:** Co-packer and co-manufacturer
+- **Founded:** 1947
+- **Ownership:** Subsidiary of Icon Foods, Inc. (since 2018)
+- **Headquarters:** Portland, Oregon
+
+<details><summary>Sources</summary>
+
+- Founded in 1947 by Paul Le Vasseur Bonneau -> /about
+- Acquired by Icon Foods, Inc. in 2018 -> /about
+- Operates two manufacturing facilities and two distribution centers in Portland, Oregon area with over 80,000 sq ft -> /about
+- Co-packer and co-manufacturer of liquid and dry products for food and supplement industries, from gram-size to rail car loads -> /about
+- Offers hot fill and cold fill co-packing services -> /services
+- Custom dry & liquid blending, custom milling and grinding, contract beverage manufacturing -> /services
+- ISO 9001:2008 certified facility with media particle grinding and milling equipment capable of 0.1 micron -> /services
+- GMP, HACCP, food safety and food defense trained staff, Kosher Certification with Oregon Kosher Rabbinical Council -> /services
+- R&D support for formula development, gluten-free, all-natural, clean label -> /
+- Incubation program for food businesses -> /
+- Packaging options: lug and continuous thread caps, mylar or induction sealing, tamper evident banding, glass and plastic containers -> /
+- Serves chain restaurants, supermarkets, clients without hot fill/cold fill equipment -> /
+</details>
+
+---
