@@ -3,59 +3,49 @@
 **Old description:** Family owned and operated since 1998, OakTree Supply started out with a single brick and mortar store serving the local Fort Wayne, Indiana woodworking community. Fast forward to 2014 and that’s where we come in. Under new ownership and a fresh perspective, we brought in all of the best woodworking tools and supplies on the market, expanded into the online retail space and began a journey to become the serious woodworker's go-to resource for tools, supplies and knowledge.
 
 ## About
-OakTree Supply has served the Fort Wayne, Indiana woodworking community since 1998. Founded as a family-owned brick-and-mortar store, the business transitioned to new ownership in 2014 while retaining its family-operated character. The company expanded into online retail to become a national resource for woodworking tools, supplies, and knowledge.
+OakTree Supply has operated in Fort Wayne, Indiana since 1998, when it opened as a family-owned brick-and-mortar store serving the local woodworking community. In 2014 new ownership took over, expanding the business into online retail and broadening the product assortment to become a dedicated resource for serious woodworkers.
 
-The company distributes a broad catalog of woodworking machinery, power tools, hand tools, and accessories. Its offerings include CNC routers and accessories from Laguna, Lamello, and Next Wave; cabinet and furniture hardware; jig and fixture hardware; sanding and finishing supplies such as epoxies, stains, and abrasives; and a range of professional machinery including table saws, band saws, jointers, planers, and edgebanders. OakTree also provides machinery consultation through its Industrial Machinery Specialist, Logan, and assists customers with business financing options.
+The company stocks a wide range of woodworking machinery, power tools, hand tools, CNC accessories, dust collection systems, and finishing supplies from brands such as Festool, SawStop, Laguna, Lamello, SCM, and BOW Products. An industrial machinery specialist, Logan, provides consultation for businesses adding or upgrading equipment, and the company offers financing options for machinery purchases.
 
-Customers range from hobbyists to professional woodworkers, cabinet shops, furniture makers, and CNC operators. The company supplies timber framing tools, dovetail and joinery equipment, and dust collection systems. Its marketing emphasizes serving both the “serious woodworker” and businesses looking to add or upgrade production machinery.
+Customers include hobbyist woodworkers, professional cabinet and furniture shops, and businesses seeking to increase productivity with new machinery. The retailer serves both individual craftsmen and commercial operations across the woodworking sector.
 
-OakTree differentiates itself by maintaining a family-owned, small-business approach: every brand is researched and tested before being stocked, phone calls are answered by a live person without automated attendants, and free demo events cover topics such as turning, epoxy pouring, and finishing. Free shipping on orders over $45 and available financing further support its customer base.
+OakTree Supply emphasizes its identity as a family-owned small business that personally tests every product it carries, promising that staff will not sell items they would not use in their own shops. It also highlights live-person customer service without automated attendants and regular in-store demo events covering turning, epoxy pouring, and finishing techniques.
 
 ## Known for
-- Family-owned small business that tests every brand before stocking
-- Live phone support with no automated attendant
-- Dedicated Industrial Machinery Specialist (Logan) for equipment consulting
-- Easy business financing available for machinery purchases
-- Free demo events for skills like turning, epoxy, and finishing
+- Family-owned small business that tests every product before sale
+- Live-person customer service with no automated phone system
+- Dedicated industrial machinery specialist for equipment consultation
+- Business financing available for machinery purchases
+- Free shipping on orders over $45 and regular hands-on demo events
 
 ## Capabilities
-- Woodworking machinery sales (CNC routers, table saws, band saws, jointers, planers, edgebanders)
-- Power tool and hand tool distribution
-- CNC router accessory and tooling sales
-- Cabinet and furniture hardware supply
-- Jig and fixture hardware supply
-- Sanding and finishing product distribution (abrasives, epoxies, stains, paints)
-- Dust collection equipment sales
-- Timber framing tool distribution
-- Machinery selection consulting
-- Business financing facilitation
-- Product demonstration and training events
+- Retail sales of woodworking machinery and tools
+- Product selection consulting
+- Machinery financing facilitation
+- In-store product demonstrations
+- Online and brick-and-mortar sales
 
 ## Industries
 - Woodworking
 - Cabinet making
-- Furniture making
-- CNC machining
-- Timber framing
+- Furniture manufacturing
+- Professional woodworking shops
 
 ## Company details
-- **Company Type:** Distributor / reseller
+- **Company Type:** Retailer
 - **Founded:** 1998
 - **Ownership:** Family-owned
 - **Headquarters:** Fort Wayne, Indiana
 
 <details><summary>Sources</summary>
 
-- Founded in 1998 as a family-owned brick-and-mortar store in Fort Wayne, Indiana -> db
-- Transitioned to new ownership in 2014 while remaining family-operated -> db
-- Expanded into online retail to serve woodworkers nationally -> db
-- Distributes woodworking machinery, power tools, hand tools, accessories, hardware, and finishing supplies -> /
-- Carries brands including Laguna, Lamello, Next Wave, Festool, SawStop, BOW Products -> /
-- Offers machinery consultation through Industrial Machinery Specialist Logan -> /
-- Provides business financing for machinery purchases -> /
-- Serves hobbyists, professional woodworkers, cabinet shops, furniture makers, and CNC operators -> /
-- Differentiators: family-owned, tests every brand, live phone support, free demo events, free shipping over $45 -> /
-- Headquarters: Fort Wayne, Indiana -> db
+- Founded 1998, family-owned, Fort Wayne, Indiana -> db
+- New ownership in 2014 expanded to online retail -> db
+- Sells woodworking machinery, tools, supplies from brands like Festool, SawStop, Laguna, Lamello, SCM, BOW Products -> /
+- Industrial machinery specialist Logan provides consultation -> /
+- Offers financing for machinery purchases -> /
+- Serves hobbyists, professional cabinet/furniture shops, businesses -> /
+- Emphasizes product testing, live-person service, demo events -> /
 </details>
 
 ---
@@ -65,20 +55,20 @@ OakTree differentiates itself by maintaining a family-owned, small-business appr
 **Old description:** The best pressure filter company depends on the specific filtration requirements, industrial application, and performance needs. Oberlin Filter is a leading provider of high-quality filtration solutions that effectively remove up to 99.99% of suspended solids from liquids.
 
 ## About
-Oberlin Filter Company is based in Pewaukee, Wisconsin. The company states it has over 60 years of proven experience in pressure filtration, though a specific founding year is not publicly disclosed. Ownership details and founder names are not provided in the available information.
+Oberlin Filter Company is based in Pewaukee, Wisconsin. The company has over 60 years of proven experience in filtration technology, though a specific founding year and founder names are not publicly disclosed.
 
-The company designs and manufactures pressure filtration systems that remove up to 99.99% of suspended solids from liquids down to 1 micron. Its product line includes the OLIMIN8R™ for single CNC machine coolant filtration, the Oberlin Hot Oil Filter for food‑processing frying and roasting operations, and a range of automatic pressure filters that operate at up to 40 PSI differential pressure. The filtration process forces contaminated fluid through filter media, traps particles, and automatically discharges a dry filter cake, eliminating wet sludge handling. The company reports serving more than 380 manufacturers, from Fortune 500 global operations to local machine shops.
+The company manufactures pressure filtration systems that remove up to 99.99% of suspended solids from liquids down to 1 micron. Its core process uses 40 PSI of pressure to force contaminated fluid through filter media, automatically discharging captured contaminants as a dry cake rather than wet sludge. Product lines include the OLIMIN8R™ for single CNC machine coolant filtration and the Hot Oil Filter for large-scale food processing, along with systems for metal finishing, sulfur recovery, maritime scrubbers, breweries, chemical processing, semiconductor wastewater, crystallizer zero-liquid-discharge, and industrial wastewater. The company reports serving more than 380 manufacturers, from Fortune 500 firms to local machine shops.
 
-Oberlin filters are used across a broad set of industries: industrial coolant systems (oil, water‑soluble emulsions, synthetics), metal finishing (phosphate bath recycling), food processing (frying and roasting oil), sulfur recovery, CNC machining, maritime scrubber systems, breweries and sludge dewatering, chemical processing, semiconductor and solar wastewater (silicon fines, gallium arsenide, heavy metals), crystallizer zero‑liquid‑discharge (ZLD) applications, and general industrial process wastewater treatment.
+Oberlin’s filters are used across industrial coolants, metal finishing, food processing oil, sulfur recovery, maritime scrubbers, breweries and sluice dewatering, chemical processing, semiconductor and solar wastewater, crystallizer ZLD applications, and industrial process wastewater. Customers range from global Fortune 500 manufacturers to small job shops.
 
-The company emphasizes that its differentiation lies in the dry‑cake discharge — turning waste into a handleable solid — which automates compliance, maximizes fluid recovery, and removes manual labor. It also highlights 40 PSI pressure force (four times gravity filtration), a typical 6‑ to 12‑month payback, and up to 80% reduction in filter media costs compared with alternative systems.
+The company emphasizes that its differentiation lies in the automatic dry-cake discharge, which eliminates wet sludge disposal issues, reduces filter media costs by up to 80%, and delivers a typical return on investment within 6 to 12 months. The 40 PSI pressure system is described as four times more powerful than gravity-based filtration.
 
 ## Known for
-- Removes up to 99.99% of solids down to 1 micron
-- 40 PSI pressure filtration (4X gravity filters)
-- Automatic dry cake discharge eliminates wet sludge
-- 6–12 month typical ROI
-- Up to 80% reduction in filter media costs
+- Removes up to 99.99% of solids from liquids as small as 1 micron
+- 40 PSI pressure force – 4X more powerful than gravity filters
+- Automatic dry filter cake discharge eliminates wet sludge
+- 6-12 month average payback on investment
+- Up to 80% savings on filter media costs
 
 ## Capabilities
 - Pressure filtration
@@ -86,30 +76,31 @@ The company emphasizes that its differentiation lies in the dry‑cake discharge
 - Hot oil filtration
 - Sulfur recovery filtration
 - Maritime scrubber filtration
-- Wastewater treatment
-- Zero liquid discharge (ZLD) filtration
-- Industrial process wastewater filtration
+- Brewery and sluice dewatering
+- Chemical processing filtration
+- Semiconductor and solar wastewater treatment
+- Crystallizer zero-liquid-discharge (ZLD) filtration
+- Industrial process wastewater treatment
 - Automatic dry cake discharge
 - Filter media supply
 
 ## Industries
-- Industrial coolant systems
+- Industrial coolants
 - Metal finishing
-- Food processing (frying/roasting)
+- Food processing
 - Sulfur recovery
 - CNC machining
 - Maritime
-- Breweries
+- Brewing
 - Chemical processing
 - Semiconductor manufacturing
 - Solar manufacturing
-- Zero liquid discharge (ZLD)
+- Crystallizer ZLD
 - Industrial wastewater treatment
 
 ## Equipment
 - OLIMIN8R™
-- Oberlin Hot Oil Filter
-- Oberlin Pressure Filter
+- Hot Oil Filter
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -117,18 +108,18 @@ The company emphasizes that its differentiation lies in the dry‑cake discharge
 
 <details><summary>Sources</summary>
 
-- Headquarters: Pewaukee, Wisconsin -> db
-- 60+ years proven experience -> /
-- Removes 99.99% solids down to 1 micron -> /
-- 40 PSI pressure filtration -> /
-- Automatic dry cake discharge -> /
-- OLIMIN8R™ for single CNC machine -> /
-- Oberlin Hot Oil Filter for food processing -> /
-- Industries: industrial coolants, metal finishing, food processing, sulfur recovery, CNC machining, maritime, breweries, chemical processing, semiconductor/solar, ZLD, industrial wastewater -> /
-- 380+ manufacturers served, Fortune 500 to local machine shops -> /
+- Headquarters in Pewaukee, Wisconsin -> db
+- Over 60 years proven experience -> /
+- Removes up to 99.99% of solids from liquids as small as 1 micron -> /
+- 40 PSI pressure force, 4X more powerful than gravity filters -> /
+- Automatic dry filter cake discharge -> /
 - 6-12 month average payback -> /
-- 80% reduction in filter media costs -> /
-- Equipment lasts 3-5x longer -> /
+- Save up to 80% on filter media costs -> /
+- Serves 380+ manufacturers -> /
+- Customers include Fortune 500 global manufacturers and local machine shops -> /
+- Industries served: industrial coolants, metal finishing, food processing oil, sulfur recovery, single CNC machine, maritime scrubber, breweries & sluice, chemical processing, semiconductor & solar wastewater, crystallizer ZLD applications, industrial process wastewater -> /
+- Products: OLIMIN8R™ for single CNC machine, Hot Oil Filter for food processing -> /
+- Process: 4-stage: contaminated liquid in, 40 PSI pressure, particles trapped, automatic waste removal -> /
 </details>
 
 ---
@@ -138,55 +129,60 @@ The company emphasizes that its differentiation lies in the dry‑cake discharge
 **Old description:** Welcome to Occam Design. Meeting your specs, exceeding your expectations.
 
 ## About
-Occam Design, based in Louisville, Kentucky, was founded in 2006 as a division of CreoSalus, Inc. The company operates from two facilities in Louisville, including a main office on East Oak Street and a manufacturing facility on East Chestnut Street.
+Occam Design operates from Louisville, Kentucky, as a division of CreoSalus, Inc., founded in 2006. The company applies Occam's Razor — "entities should not be multiplied unnecessarily" — to provide dynamic, turnkey medical device development and manufacturing.
 
-The firm provides end-to-end medical device development and cGMP manufacturing, covering project management, design for manufacturing, test development, production prototyping, regulatory compliance, and wellness/wearables device development. Its Louisville facilities house five Class 7 cleanrooms, a machine shop, and injection molding equipment, all within an FDA-registered, ISO 13485:2016-certified environment.
+The firm offers end-to-end services including project management, design for manufacturing, test development, production prototyping, regulatory compliance, and go-to-market strategy. Its two Louisville facilities — a main FDA-registered office and a manufacturing site 15 minutes from UPS Worldport — house five Class 7 cleanrooms, a machine shop, and injection molding equipment, supporting Class I–III medical devices, health-tech, wearables, and equine products.
 
-Occam serves clients across the U.S. and Europe, including medical device companies developing Class I, II, and III products, health-tech and wearables startups, equine device developers, and government-funded projects (NIH, DOD). Past clients include DeltaChase LLC, Trio Medical, Cerovations, MagnaWave, and a Fortune 1000 company, as well as universities such as Yale, Harvard, Duke, and the University of Louisville.
+Clients range from university researchers (Yale, Harvard, Duke, University of Louisville) and early-stage startups (DeltaChase, NOVi, Claustrum Design) to established medtech companies (Cerovations, MagnaWave, a Fortune 1000 firm, a catheter manufacturer) and government-funded programs (NIH, DOD). The team handles electro-mechanical devices such as pulse oximetry, spinal TENS, EEG, EKG, and blood pressure monitors.
 
-The company’s approach is guided by Occam’s Razor—“entities should not be multiplied unnecessarily”—emphasizing lean operations and a dedicated project manager who coordinates engineering, regulatory, and manufacturing resources. Occam highlights its ability to start or stop work dynamically, identify development and regulatory gaps, and maintain compliance with IEC 60601 and CISPR-11 standards for electro-medical equipment.
+Occam differentiates itself with a dedicated project manager who pulls internal engineering, quality, and manufacturing resources to keep projects lean, and with deep familiarity with IEC 60601 and CISPR-11 standards for electro-medical equipment.
 
 ## Known for
-- ISO 13485:2016 certified, FDA-registered facility with five Class 7 cleanrooms
-- In-house machine shop and injection molding capability
-- Dedicated project manager for lean, cost-controlled execution
-- Experience with Class I–III medical devices and IEC 60601/CISPR-11 compliance
-- Government-funded project experience (NIH, DOD)
+- ISO 13485:2016 certified, GMP compliant, FDA registered with five Class 7 cleanrooms
+- Turnkey in-house engineering, quality, and manufacturing under one roof
+- Dedicated project manager who dynamically allocates internal resources across disciplines
+- Expertise in Class I–III medical devices and IEC 60601 / CISPR-11 electro-medical standards
+- Louisville location 15 minutes from UPS Worldport for rapid logistics
 
 ## Capabilities
-- Project management
-- 3D animations
-- Design for manufacturing (DFM)
-- Test development and test strategy
-- Production prototyping
-- Wellness and wearables device development
-- Regulatory compliance (FDA, ISO 13485)
-- cGMP manufacturing
-- Cleanroom manufacturing (Class 7)
-- Injection molding
-- Machine shop fabrication
-- Market analysis
-- Product development
-- Quality and regulatory consulting
-- Go-to-market strategy
-- Distribution support
+- Project Management
+- 3D Animation
+- Design for Manufacturing (DFM)
+- Test Development and Test Strategy
+- Production Prototyping
+- Wellness and Wearables Device Development
+- Regulatory Compliance
+- Market Analysis
+- Product Development
+- Quality and Regulatory
+- Manufacturing
+- Go-to-Market Strategies
+- Distribution
+- Machine Shop
+- Injection Molding
+- Cleanroom Manufacturing (Class 7)
+- Electro-mechanical Design
+- FDA Regulatory Strategy
+- NIH/DOD Grant Support
 
 ## Industries
-- Medical devices (Class I, II, III)
-- Health technology
+- Medical Devices (Class I, II, III)
+- Health Technology
 - Wearables
-- Equine devices
-- Government/defense (NIH, DOD funded)
-- Academic/research institutions
-- Direct-to-consumer health/lifestyle products
+- Equine Devices
+- Government Funded Projects (NIH, DOD)
+- Academic Research
+- Direct-to-Consumer Health Products
 
 ## Equipment
-- Injection molding machines
-- Machine shop equipment
-- Class 7 cleanrooms
+- Machine Shop
+- Injection Molding Machines
+- Class 7 Cleanrooms (5 rooms)
 
 ## Certifications
 - ISO 13485:2016
+- FDA Registered Facility
+- GMP Compliant
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -197,23 +193,23 @@ The company’s approach is guided by Occam’s Razor—“entities should not b
 <details><summary>Sources</summary>
 
 - Founded 2006 -> db
-- Headquarters Louisville, KY -> db, /, /about
+- Headquarters Louisville, Kentucky -> db, /, /about
 - Division of CreoSalus, Inc. -> /, /about
 - ISO 13485:2016 certified -> db, /, /about
-- FDA registered -> /, /about
+- FDA registered facility -> /, /about
+- GMP compliant -> /about
 - 5 Class 7 cleanrooms -> /, /about
-- 2 facilities -> /
-- Capabilities list (project management, 3D animations, DFM, test development, production prototyping, wellness/wearables, regulatory compliance) -> /
-- cGMP manufacturing -> /about
+- Two facilities (main office and manufacturing) -> /, /about
 - Machine shop and injection molding machines -> /about
-- Industries: medical devices Class I-III, health-tech, wearables, equine devices, government funded (NIH, DOD), academic -> /about
-- Clients: DeltaChase LLC, Trio Medical, Cerovations, MagnaWave, Fortune 1000, Leading Catheter Company -> /
-- Universities: Yale, Harvard, Duke, University of Louisville, etc. -> /
-- Occam's Razor principle -> /about
-- Lean operations, dedicated project manager -> /about
-- IEC 60601 and CISPR-11 compliance -> /about
-- Dynamic start/stop work -> /about
-- Identify development and regulatory gaps -> /about
+- 15 minutes from UPS Worldport -> /about
+- Services: project management, 3D animation, DFM, test development, production prototyping, wellness/wearables development, regulatory compliance, market analysis, product development, quality/regulatory, manufacturing, go-to-market, distribution -> /, /about
+- Electro-mechanical design experience (pulse oximetry, spinal TENS, EEG, EKG, ultrasound flow, blood pressure) -> /about
+- Class I-III medical device experience -> /, /about
+- IEC 60601 and CISPR-11 standards familiarity -> /about
+- Clients: universities (Yale, Harvard, Duke, UofL, etc.), startups (DeltaChase, NOVi, Claustrum Design), established companies (Cerovations, MagnaWave, Fortune 1000, leading catheter company), government (NIH, DOD) -> /, /about
+- Occam's Razor principle as company philosophy -> /about
+- Dedicated project manager pulling internal resources -> /about
+- LinkedIn URL -> db
 </details>
 
 ---
@@ -223,48 +219,45 @@ The company’s approach is guided by Occam’s Razor—“entities should not b
 **Old description:** We understand medical device manufacturing and recognize the importance of design. Our unique workflow and unparalled quality control systems have been developed to ensure all specifications are met and expectations are surpassed, every time. We are redefining the concept of close tolerances.
 
 ## About
-Odyssey Medical Technologies, LLC operates from a facility on Brother Boulevard in Bartlett, Tennessee, a suburb of Memphis. The company was established to provide contract manufacturing services for the medical device sector, focusing on orthopaedic implants and instruments.
+Odyssey Medical Technologies, LLC operates from Bartlett, Tennessee, a suburb of Memphis. The company does not publicly disclose its founding year or ownership structure, nor does it name its founders. It gained recognition in 2020 when MedTech Outlook named it one of the “Top 10 Contract Manufacturers.”
 
-Its manufacturing capabilities center on Chiron 5-axis mill/turn machining with a secondary collet pick-off system for continuous production, complemented by precision Swiss turn machining. Quality assurance relies on a suite of inspection equipment including Keyence optical measurement systems, Brown & Sharpe coordinate measuring machines, and video and 3D comparators. The company maintains ISO 13485:2016 certification and FDA registration for the manufacture of orthopaedic implants and instruments, and it develops project-specific quality plans covering risk management, process validation, inspection methods, and statistical controls.
+The firm specializes in contract manufacturing of orthopaedic implants and instruments. Its production capabilities include Chiron 5-axis mill/turn machining with a secondary collet pick-off system for continuous manufacturing, precision Swiss turning, and a quality system that encompasses risk management, process validation, inspection methods, and statistical controls. Inspection equipment includes a Keyence optical measurement system, a Brown & Sharpe coordinate measuring machine, and video and 3D comparators. The facility is ISO 13485:2016 certified and FDA registered for orthopaedic device manufacturing.
 
-Odyssey serves customers in the orthopaedics, spine, and trauma markets, supplying components to medical device manufacturers. The firm was recognized in 2020 as one of MedTech Outlook's Top 10 Contract Manufacturers.
+Odyssey serves the medical device industry, focusing on orthopaedics, spine, and trauma markets. Its customers are typically original equipment manufacturers requiring precision-machined implants and surgical instruments.
 
-The company's stated differentiator is its 'Odyssey EDGE' (Every Day Great Execution) mantra, which drives continuous improvement in quality, efficiency, and cost reduction. Management says the goal is to redefine close tolerances and surpass customer expectations on every project.
+The company emphasizes its “Odyssey EDGE: Every Day Great Execution” philosophy, which drives continuous improvement in quality, efficiency, and cost reduction. It states that its unique workflow and quality control systems are designed to meet all specifications and exceed expectations, redefining the concept of close tolerances for medical implants.
 
 ## Known for
-- ISO 13485:2016 certification and FDA registration for orthopaedic implants and instruments
-- Chiron 5-axis mill/turn machining with secondary collet pick-off system
-- Precision Swiss turn manufacturing
-- Project-specific quality plans with risk management, process validation, and statistical controls
-- Inspection via Keyence optical measurement, Brown & Sharpe CMM, and video/3D comparators
+- Odyssey EDGE mantra for continuous quality, efficiency, and cost improvement
+- ISO 13485:2016 certified and FDA registered for orthopaedic implants and instruments
+- Comprehensive quality control systems specific to medical implant manufacturing
+- Chiron 5-axis mill/turn with secondary collet pick-off for continuous manufacturing
+- Precision Swiss turn manufacturing for accurate turning and milling
 
 ## Capabilities
-- 5-axis mill/turn machining (Chiron)
-- Swiss turn manufacturing
-- Risk management
-- Production methods development
-- Process validation
-- Inspection methods
-- Statistical process control
-- Optical measurement (Keyence)
-- Coordinate measuring (Brown & Sharpe CMM)
-- Video and 3D comparison
+- 5-Axis Mill/Turn Machining
+- Precision Swiss Turn Manufacturing
+- Quality Systems (Risk Management, Process Validation, Inspection Methods, Statistical Controls)
+- Optical Measurement (Keyence)
+- Coordinate Measuring Machine (Brown & Sharpe CMM)
+- Video & 3D Comparators
+- Contract Manufacturing of Orthopaedic Implants and Instruments
 
 ## Industries
+- Medical Device
 - Orthopaedics
 - Spine
 - Trauma
-- Medical device manufacturing
 
 ## Equipment
-- Chiron 5-axis mill/turn
+- Chiron 5-Axis Mill/Turn
 - Keyence Optical Measurement System
 - Brown & Sharpe CMM
 - Video & 3D Comparators
 
 ## Certifications
 - ISO 13485:2016
-- FDA registered
+- FDA Registered
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -272,19 +265,19 @@ The company's stated differentiator is its 'Odyssey EDGE' (Every Day Great Execu
 
 <details><summary>Sources</summary>
 
-- Location: Bartlett, Tennessee -> /
-- ISO 13485:2016 certified and FDA registered for orthopaedic implants and instruments -> /services
-- Chiron 5-axis mill/turn machining with secondary collet pick-off system -> /services
-- Precision Swiss turn manufacturing -> /services
-- Keyence Optical Measurement System -> /services
-- Brown & Sharpe CMM -> /services
-- Video & 3D Comparators -> /services
-- Quality plans include risk management, process validation, inspection methods, statistical controls -> /services
-- Serves orthopaedics, spine, trauma markets -> /
-- Named MedTech Outlook Top 10 Contract Manufacturers 2020 -> /
-- Odyssey EDGE mantra -> /services
-- Headquarters address: 2975 Brother Blvd, Bartlett, TN 38133 -> /
-- Company type: contract manufacturer -> /
+- Headquarters in Bartlett, Tennessee -> home page (address) and db (hq_city, hq_state_label)
+- ISO 13485:2016 certified -> services page and db certifications
+- FDA registered for orthopaedic implants and instruments -> services page
+- Named MedTech Outlook Top 10 Contract Manufacturers 2020 -> home page
+- Odyssey EDGE continuous improvement philosophy -> services page
+- Chiron 5-axis mill/turn with secondary collet pick-off -> services page
+- Precision Swiss turn manufacturing -> services page
+- Quality systems including risk management, process validation, inspection methods, statistical controls -> services page
+- Keyence Optical Measurement System -> services page
+- Brown & Sharpe CMM -> services page
+- Video & 3D Comparators -> services page
+- Serves orthopaedics, spine, trauma markets -> home page and services page
+- Contract manufacturer of orthopaedic implants and instruments -> services page
 </details>
 
 ---
@@ -294,44 +287,53 @@ The company's stated differentiator is its 'Odyssey EDGE' (Every Day Great Execu
 **Old description:** Off Grid Enterprises offers their services to help  customers design their more energy efficient homes.  From LEDs and energy efficient appliances to radiant floor heating, Off Grid works with each customers to design the home of their dreams.
 
 ## About
-Based in Norman, Oklahoma, Off Grid Enterprises, LLC provides turnkey renewable-energy installations. The company's project manager, Pieter Huebner, is a NABCEP-certified installer with 30 years in the field, including 1984–2013 as lead installer and trainer at Bergey Wind Power where he designed off-grid power systems worldwide.
+Based in Norman, Oklahoma, Off Grid Enterprises, LLC provides design and installation services for renewable energy systems. The company's project manager, Pieter Huebner, is a NABCEP-certified installer with thirty years of experience in the field, including a long tenure as lead installer and trainer at Bergey Wind Power from 1984 to 2013. Sheila Huebner is also noted as a key contact for the business.
 
-The company designs, builds, and installs off-grid and grid-tied solar and wind systems for residential, commercial, agricultural, and remote sites. Installations include ground-mounted, roof-mounted, pergola, and carport arrays, as well as battery backup and generator-integrated systems. Off Grid Enterprises handles the full project lifecycle—free site surveys, permitting, installation by certified personnel, and ongoing maintenance with warranty coverage. References span from Belize to Alaska, including a 10 kW Bergey wind turbine at a remote Alaskan site.
+Off Grid designs, builds, and installs both off-grid and grid-tied solar and wind power systems for residential, commercial, and agricultural customers. Installations range from ground-mounted and roof-mounted arrays to pergola and carport configurations. The firm also assists with energy-efficient home upgrades such as LED lighting, efficient appliances, and radiant floor heating. All equipment used is sourced from U.S. manufacturers, and the company provides ongoing maintenance and warranty coverage for its installations.
 
-Customers include homeowners, businesses, farms, and remote facilities seeking energy independence or grid-tied savings. Projects cited range from a residential ranch installation to a 10 kW Bergey wind system at a remote Alaskan site, as well as installations in Belize, Canada, Maine, and across the continental U.S.
+The company serves customers across a wide geography, with completed projects documented from Belize and Canada to Maine and Alaska. Typical clients include homeowners seeking to eliminate electric bills, remote-site operators needing reliable power, and agricultural operations. Off Grid holds a Texas Electrical Contractor license (No. 31460) and offers free site surveys to assess project feasibility.
 
-Off Grid Enterprises stresses that every installation is overseen by a NABCEP-certified professional, ensuring code compliance and system reliability. The firm highlights its use of U.S.-manufactured equipment, comprehensive warranties, and free site surveys to help customers capture federal tax credits and long-term utility savings.
+The business emphasizes the importance of certified installation, noting that its NABCEP-qualified lead installer ensures compliance with electrical codes and industry standards. By using U.S.-made components and providing maintenance and warranty support, Off Grid positions itself as a full-service partner rather than a simple equipment reseller.
 
 ## Known for
-- NABCEP-certified lead installer with 30 years experience
-- Former lead installer at Bergey Wind Power (1984–2013)
-- Installs U.S.-made equipment with warranty
-- Free site surveys and tax-credit guidance
-- Installations from Belize to Alaska
+- NABCEP-certified lead installer with 30 years of experience
+- U.S.-manufactured equipment used in all installations
+- Maintenance and warranty coverage included
+- Free site survey for prospective customers
+- Texas Electrical Contractor license (No. 31460)
 
 ## Capabilities
 - Solar system design
-- Off-grid system installation
-- Grid-tied system installation
-- Wind power system installation
-- Generator integration
-- Battery backup system installation
+- Solar system installation
+- Off-grid power system design
+- Grid-tied solar installation
 - Ground-mounted solar installation
 - Roof-mounted solar installation
 - Pergola solar installation
 - Carport solar installation
-- Free site survey
-- System maintenance
-- Warranty service
-- Federal tax credit consultation
-- Permitting and code compliance
+- Wind power system integration
+- Generator integration with renewable systems
+- Energy-efficient home design consulting
+- LED lighting installation
+- Energy-efficient appliance installation
+- Radiant floor heating installation
+- Site survey and assessment
+- Maintenance and repair services
+- Warranty administration
+- Electrical contracting (Texas licensed)
 
 ## Industries
-- Residential
-- Commercial
+- Renewable energy systems
+- Solar energy
+- Wind energy
+- Residential construction
+- Commercial construction
 - Agricultural
-- Remote Areas
-- Renewable Energy Systems
+- Remote power systems
+- Energy efficiency
+
+## Equipment
+- Bergey 10kW wind turbine
 
 ## Certifications
 - NABCEP Certified Installer
@@ -343,16 +345,18 @@ Off Grid Enterprises stresses that every installation is overseen by a NABCEP-ce
 
 <details><summary>Sources</summary>
 
-- Company located in Norman, Oklahoma -> /
-- Lead installer Pieter Huebner NABCEP certified with 30 years experience -> /
-- Pieter Huebner worked at Bergey Wind Power 1984-2013 as lead installer and trainer -> /
-- Company designs, builds, installs off-grid and grid-tied renewable energy systems -> /
-- Installations include ground-mounted, roof-mounted, pergola, carport solar systems -> /
-- Provides free site surveys, maintenance, warranty -> /
-- Projects in Belize, Canada, Maine, Alaska, remote Alaskan site with Bergey 10kW -> /
-- Texas Electrical Contractor License Number 31460 -> /
-- Installs products made in the USA -> /
-- Offers federal tax credit information -> /
+- Company name, city, state, industries_served -> db
+- Designs, builds, installs off-grid and grid-tied renewable energy systems -> /
+- NABCEP lead installer Pieter Huebner with 30 years experience, Bergey Wind Power 1984-2013 -> /
+- Sheila Huebner mentioned as contact -> /
+- Installations from Belize to Canada, Maine to Alaska -> /
+- Ground mounted, roof mounted, pergola, carport solar systems -> /
+- Energy efficient home design: LEDs, appliances, radiant floor heating -> /
+- Products made in USA, maintenance and warranty -> /
+- Free site survey -> /
+- Texas Electrical Contractor License 31460 -> /
+- Federal tax credit mention -> /
+- Testimonials referencing Pieter and Sheila -> /
 </details>
 
 ---
@@ -362,42 +366,39 @@ Off Grid Enterprises stresses that every installation is overseen by a NABCEP-ce
 **Old description:** Easily add a complete off-grid solar power system to your cabin with our cabin kits. Install your own power system with advanced features such as inverter load balancing and pre-wired PV protection and disconnects. Enjoy a reliable, easy-to-use system without a long component selection and compatibility verification process.
 
 ## About
-Off-Grid Power Systems operates from Delaware, Ohio, where founders Ed and Vinh run a shop specializing in custom off-grid power solutions. The company designs, supplies, and installs solar-plus-storage systems for recreational vehicles, commercial sites, and remote properties.
+Off-Grid Power Systems is based in Delaware, Ohio. The company designs and installs custom off-grid solar power systems for a range of applications. While its founding year and ownership structure are not publicly disclosed, the business is operated by a team that includes Ed and Vinh, who are frequently cited by clients for their technical expertise and hands-on involvement in projects.
 
-The business builds DIY cabin kits that arrive pre-wired with PV protection, disconnects, and inverter load balancing, and it stocks components such as Victron inverters, charge controllers, monitoring gear, and Pytes lithium batteries. Services span system design, installation, commissioning, troubleshooting, and ongoing support, all performed from their local facility.
+The company’s core offering is the design, supply, and installation of complete off-grid power systems. It provides pre-wired cabin kits that feature inverter load balancing and pre-wired PV protection and disconnects, eliminating the need for customers to perform component selection and compatibility verification. Off-Grid Power Systems also sells individual components such as inverters, batteries, solar charge controllers, and monitoring solutions, and integrates products from brands like Victron and Pytes. The firm handles projects from initial consultation through commissioning, including custom system design, equipment sourcing, and on-site installation.
 
-Customers include RV and conversion-van owners, food-truck and work-truck operators, horse-trailer and marine users, as well as owners of cabins, cottages, and off-grid commercial installations. The team has also equipped boats and specialty vehicles with complete electrical systems.
+Off-Grid Power Systems serves three primary markets: commercial installations, recreational vehicles, and off-grid properties. Commercial clients include businesses seeking green energy solutions for operations. Recreational customers encompass RV owners, conversion van builders, horse trailer operators, food truck owners, and specialty vehicle operators. The properties segment covers cabins, cottages, outbuildings, and other remote dwellings. The company has also completed projects for marine applications, such as a boat installation referenced in client feedback.
 
-Ed and Vinh emphasize a “do it right or not at all” approach, starting each project with a goals-and-needs consultation before presenting design options. Clients highlight their deep Victron expertise, willingness to source every small part, and hands-on guidance during commissioning and after-sales support.
+The company differentiates itself through a consultative design process that begins with a discussion of the client’s goals and needs, followed by multiple design options. It emphasizes expertise with Victron equipment and offers free consultations. Client testimonials highlight the team’s attention to detail, safety-focused installations, and ongoing support after commissioning.
 
 ## Known for
-- Custom design process starting with a goals-and-needs consultation
-- DIY cabin kits with pre-wired PV protection and inverter load balancing
-- Free initial consultation for all projects
-- Deep expertise with Victron equipment and RV/marine system architectures
-- Full-service support from component sourcing through commissioning and training
+- Pre-wired cabin kits with inverter load balancing and PV protection
+- Custom design process starting with client goals and needs
+- Free consultation for all projects
+- Specialized expertise with Victron energy products
+- Post-installation support and system education
 
 ## Capabilities
 - Custom off-grid power system design
-- Solar-plus-storage system installation
-- DIY cabin kit assembly and supply
-- Electrical system troubleshooting and repair
-- Component sourcing (inverters, batteries, charge controllers, monitoring)
-- System commissioning and owner training
-- Free project consultation
+- Off-grid system installation
+- Pre-wired cabin kit assembly
+- Component selection and compatibility verification
+- System commissioning and startup
+- Sales of inverters, batteries, solar charge controllers, monitoring solutions
+- Victron product integration
+- Pytes battery integration
+- Free consultation
+- Post-installation support and training
 
 ## Industries
-- Recreational vehicles (RVs, conversion vans, horse trailers, food trucks)
-- Commercial off-grid installations
-- Residential off-grid properties (cabins, cottages, outbuildings)
-- Marine (boats)
-- Mobile commercial (work vans, trucks)
-
-## Equipment
-- Pytes V5° 48V 100Ah battery
-- Victron inverters
-- Victron charge controllers
-- Victron monitoring solutions
+- Commercial
+- Recreational vehicles (RVs, conversion vans, horse trailers, food trucks, specialty vehicles)
+- Off-grid residential (cabins, cottages, outbuildings)
+- Marine
+- Renewable energy
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -405,16 +406,16 @@ Ed and Vinh emphasize a “do it right or not at all” approach, starting each 
 
 <details><summary>Sources</summary>
 
-- Location: Delaware, Ohio -> db
-- Founders: Ed and Vinh mentioned in testimonials -> /
-- Services: custom design, installation, DIY cabin kits, component sales -> /
-- Industries: RV, commercial, off-grid properties, marine, mobile commercial -> /
-- Partners: Pytes, Victron -> /
-- Shop presence: 'stop by the shop' -> /
-- Free consultation offered -> /
-- DIY cabin kit features: pre-wired PV protection, inverter load balancing -> /
-- Components: inverters, batteries, charge controllers, monitoring -> /
-- Testimonials referencing Ed, Vinh, installation quality, system design -> /
+- Headquarters: Delaware, Ohio -> db
+- Designs and installs custom off-grid solar power systems -> page /
+- Offers pre-wired cabin kits with inverter load balancing and pre-wired PV protection -> page /
+- Sells inverters, batteries, solar charge controllers, monitoring solutions -> page /
+- Serves commercial, recreational (RVs, vans, trailers, food trucks), properties (cabins, cottages), marine -> page /
+- Key personnel: Ed and Vinh -> page /
+- Provides free consultation -> page /
+- Custom design process discussing goals and needs -> page /
+- Expertise with Victron products -> page /
+- Offers Pytes V5° 48V 100Ah battery -> page /
 </details>
 
 ---
@@ -424,58 +425,53 @@ Ed and Vinh emphasize a “do it right or not at all” approach, starting each 
 **Old description:** We are a sawmill with special expertise in custom cutting beams and timbers for your timber frame or other home improvement project including decorative beams and mantels. We can cut lengths up to 52 feet long in a variety of species native to Northeast Ohio.
 
 ## About
-Ogonek Custom Hardwoods operates from Barberton, Ohio, in the heart of Northeast Ohio. The business grew from a family’s connection to the region, with founder Dan Ogonek a sawmill that specializes in custom-cut beams and timbers. While the exact founding year isn’t public, the company describes its origins as rooted in a family’s love for a place that represents more than an investment.
+Ogonek Custom Hardwoods operates a sawmill in Barberton, Ohio, serving the Northeast Ohio region. The business grew from a family’s connection to the area, with Dan Ogonek the operation. While the exact founding year is not publicly stated, the company describes its origin as growing out of a family’s love for a place that represents more than an investment.
 
-The sawmill cuts beams and timbers up to 52 feet long in species native to the area, including white pine, red oak, aspen, white oak, cherry, and black walnut. Beyond rough-sawn and planed timbers, the shop produces tongue-and-groove decking, specialty blocking and dunnage, live-edge slabs, and hand-hewn beams. The crew also handles installation of decorative beams and provides timber-framing consultation on projects ranging from cabin rebuilds to pavilion construction.
+The sawmill specializes in custom cutting beams and timbers for timber-frame construction and home-improvement projects, including decorative beams and mantels. It can produce lengths up to 52 feet in species native to Northeast Ohio such as white pine, red oak, aspen, white oak, cherry, and black walnut. Offerings include rough-cut, non-kiln-dried material, tongue-and-groove milling, specialty blocking and dunnage, planing and ripping dimensional lumber, live-edge milling, hand-hewn beams, and installation of decorative beams.
 
-Customers include timber-frame builders, homeowners renovating historic farmhouses, and contractors erecting cabins and pavilions across the Midwest. Testimonials cite projects in Illinois, Wisconsin, and Ohio, with clients praising the crew’s ability to deliver large kiln-dried timbers and match existing structural aesthetics.
+Customers range from timber-frame builders and owner-builders to contractors renovating historic homes. Testimonials cite a cabin rebuild in Illinois and Wisconsin using 6×10 pine timbers 20 feet long, a hand-built timber-frame pavilion with planed white pine and tongue-and-groove decking, and decorative beam installation in an 1800s farmhouse. The company also supplies rough-sawn, planed, and live-edge material for various custom woodworking projects.
 
-The company emphasizes sustainably sourced local lumber and a hands-on approach from the yard to the job site. Dan Ogonek and his team are noted for offering design suggestions and maintaining a pride-driven culture that aims to exceed expectations on every custom order.
+Ogonek emphasizes sustainably sourced local lumber and hands-on expertise; Dan Ogonek is noted for providing timber-framing suggestions drawn from experience. The crew’s focus on pride in workmanship, from wood selection to joinery, is highlighted in customer feedback as a distinguishing trait.
 
 ## Known for
-- Custom cutting up to 52-foot lengths in native Northeast Ohio species
-- Sustainably sourced local lumber
-- Family-owned with founder Dan Ogonek directly involved
-- Installation and timber-framing consultation services
-- Knowledgeable crew providing project-specific design suggestions
+- Custom cutting up to 52-foot lengths
+- Native Northeast Ohio species
+- Sustainably sourced locally
+- Rough-cut, non-kiln-dried material
+- Timber framing expertise and on-site installation
 
 ## Capabilities
-- Custom sawmilling
-- Beam and timber cutting (up to 52 ft)
+- Custom beam and timber cutting
 - Tongue and groove milling
 - Specialty blocking and dunnage
-- Custom wood cutting
 - Planing and ripping dimensional lumber
 - Live edge milling
-- Hand hewing
+- Hand hewing beams
 - Decorative beam installation
-- Timber framing consultation
-- Delivery
 
 ## Industries
 - Timber framing
-- Residential construction
 - Home improvement
 - Custom woodworking
-- Renovation and restoration
+- Residential construction
+- Historic renovation
 
 ## Company details
 - **Company Type:** Manufacturer
-- **Ownership:** Family-owned
 - **Headquarters:** Barberton, Ohio
 
 <details><summary>Sources</summary>
 
-- Location: Barberton, Ohio -> db
-- Business type: sawmill custom cutting beams and timbers -> /
-- Max length: 52 feet -> /
+- Located in Barberton, Ohio -> /
+- Sawmill specializing in custom cutting beams and timbers -> /
+- Maximum cut length 52 feet -> /
 - Species: White Pine, Red Oak, Aspen, White Oak, Cherry, Black Walnut -> /
-- Services: beams & timbers, tongue & groove, specialty blocking/dunnage, custom cut wood -> /
-- Founder: Dan Ogonek mentioned in testimonials -> /
-- Family-owned origin: 'growing out of a family’s love' -> /
 - Sustainably sourced in Northeast Ohio -> /
-- Installation of decorative beams -> /
-- Timber framing consultation -> /
+- Rough-cut, non-kiln-dried material -> /
+- Offers tongue and groove, specialty blocking/dunnage, planing, ripping, live edge, hand hewn beams -> /
+- Provides installation of decorative beams -> /
+- Founder Dan Ogonek mentioned in testimonials -> /
+- Family origin described in blog -> /
 - Customer examples: cabin rebuild, timber frame pavilion, farmhouse decorative beams -> /
 </details>
 
@@ -486,38 +482,34 @@ The company emphasizes sustainably sourced local lumber and a hands-on approach 
 **Old description:** Ohio Automotive Supply has been a family owned business since 1945. We are now in the second generation and have concentrated on several markets. We specialize in automotive parts, heavy duty truck, industrial hydraulic conveyance, paint and body shop supplies, and equipment. We have a very experienced staff that specializes in their field of expertise.
 
 ## About
-Founded in 1945 in Findlay, Ohio, Ohio Automotive Supply remains a family-owned business now in its second generation. The company began as a local automotive parts supplier and has expanded its focus across several related markets.
+Ohio Automotive Supply has operated from Findlay, Ohio since 1945. The company remains a family-owned business now in its second generation, having been founded as a local parts supplier and expanded into multiple product lines over the decades.
 
-The company distributes a broad range of products including automotive parts, heavy-duty truck components, industrial hydraulic conveyance systems, paint and body shop supplies, and shop equipment. It operates an online catalog that provides 24/7/365 access to its full inventory, allowing customers to search by part number or vehicle make and model, place orders at any time, view specials, check account balances, and retrieve past invoices. The product lineup features brands such as 3M, Aeroquip, Dorman, Akebono, and many others.
+The distributor stocks automotive parts, heavy-duty truck components, industrial hydraulic conveyance products, paint and body shop supplies, and shop equipment. Its inventory spans hundreds of manufacturers including Aeroquip, Dorman, Akebono, AkzoNobel (NAPA), and numerous specialty brands. The firm provides an online catalog with 24/7/365 access, real-time ordering, account balance tracking, and invoice retrieval for registered customers. No facility size or headcount figures are disclosed.
 
-Ohio Automotive Supply serves automotive repair shops, heavy-duty truck fleets, industrial maintenance operations, and collision repair centers. Its customer base includes professionals who need reliable access to replacement parts, hydraulic fittings, paint supplies, and equipment for daily operations.
+Customers include automotive repair shops, commercial truck fleets, industrial maintenance departments, and collision centers across the region. The company's product mix targets both light-vehicle and heavy-duty applications, with particular depth in hydraulic fittings, air conditioning components, brake systems, and refinishing materials.
 
-The company emphasizes its experienced staff, each specializing in their respective product areas, as a key differentiator. The business was built on providing timely, accurate information and convenient ordering tools to help customers work more efficiently.
+The business emphasizes its experienced staff, each specializing in a product category, and its digital ordering platform as key differentiators. The second-generation ownership structure is cited as a foundation for long-term customer relationships and product knowledge continuity.
 
 ## Known for
-- Family-owned since 1945, now in second generation
-- Experienced staff with specialized product knowledge
-- 24/7/365 online catalog with make/model search
-- Online ordering, account management, and invoice retrieval
-- Broad brand portfolio including 3M, Aeroquip, Dorman, Akebono
+- 24/7/365 online catalog and ordering
+- Experienced staff with product-line specialization
+- Second-generation family ownership since 1945
+- Multi-brand inventory including NAPA and heavy-duty OEM lines
+- Online account management with invoice history
 
 ## Capabilities
-- Automotive parts distribution
-- Heavy duty truck parts distribution
-- Industrial hydraulic conveyance products
-- Paint and body shop supplies
-- Equipment sales
 - Online parts catalog with make/model search
 - 24/7 online ordering
 - Account balance and invoice portal
-- Specials and promotions display
+- Parts cross-referencing across manufacturers
+- Multi-brand inventory distribution
 
 ## Industries
 - Automotive aftermarket
-- Heavy duty trucking
-- Industrial hydraulics
-- Collision repair
-- Industrial equipment
+- Heavy-duty trucking
+- Industrial hydraulic systems
+- Paint and body shop
+- Industrial equipment supply
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -527,12 +519,12 @@ The company emphasizes its experienced staff, each specializing in their respect
 
 <details><summary>Sources</summary>
 
-- Founded 1945, family-owned, second generation -> db
-- Headquarters Findlay, Ohio -> db, page '/'
-- Specializes in automotive parts, heavy duty truck, industrial hydraulic conveyance, paint and body shop supplies, equipment -> db
-- Offers online catalog, 24/7 online ordering, account balances, invoice copies -> page '/'
-- Carries products from manufacturers including 3M, Aeroquip, Dorman, Akebono, etc. -> page '/'
-- Experienced staff specializing in their field -> db
+- Founded 1945, family-owned, second generation -> description and home page 'Since 1945'
+- Headquarters Findlay, Ohio -> hq_city, hq_state_label and home page 'Main Location Findlay, OH'
+- Specializes in automotive parts, heavy duty truck, industrial hydraulic conveyance, paint and body shop supplies, equipment -> description
+- Carries brands: Aeroquip, Dorman, Akebono, AkzoNobel (NAPA), etc. -> home page manufacturer list
+- Online services: 24/7 catalog, ordering, account balances, invoice copies -> home page 'Please Explore Our Site...'
+- Experienced staff with field specialization -> description
 </details>
 
 ---
@@ -542,20 +534,20 @@ The company emphasizes its experienced staff, each specializing in their respect
 **Old description:** and fabricating company with over forty years of industry experience.  We are a company that goes the extra mile to maintain our excellent reputation. A reputation earned by providing quality parts with the always important
 
 ## About
-Ohio Metal Fabricating Inc. operates from Dayton, Ohio, where it has built over forty years of experience in metal spinning and fabrication. The company remains privately held, though ownership details are not publicly disclosed.
+Ohio Metal Fabricating Inc. operates from Dayton, Ohio, where it has built over forty years of industry experience. The company remains privately held, though the input does not specify its ownership structure or founding family.
 
-The shop specializes in hand metal spinning and CNC metal spinning, complemented by flat and three‑dimensional laser cutting. It can spin parts up to 104 inches in diameter with material thicknesses from 0.010 to 0.187 inches, holding tolerances as tight as 0.002 inches. In‑house capabilities extend to welding, penetrant inspection, punching, beading, anodizing, plating, painting, polishing, and custom assembly. Ninety‑nine percent of spinning tools and dies are produced internally, and CNC cells handle secondary operations such as trimming and drilling. Equipment includes six‑axis laser systems and an M & M CNC lathe with flanging and cutting functions.
+The shop specializes in metal spinning—both hand spinning and CNC metal spinning—as well as flat and three‑dimensional laser cutting. It can spin parts up to 104 inches in diameter with material thicknesses from 0.010 to 0.187 inches, holding tolerances as tight as 0.002 inches. In‑house capabilities extend to welding, penetrant inspection, punching, beading, anodizing, plating, painting, polishing, and custom assembly. Ninety‑nine percent of spinning tools and dies are produced internally, and secondary operations such as trimming, drilling, and flanging are performed in CNC cells equipped with a six‑axis laser and an M & M CNC lathe with full flanging and cutting functions.
 
-The company serves customers across multiple industries, collaborating directly with their engineering and quality teams to reduce costs and shorten lead times. Its one‑stop‑shop model targets complex spun or laser‑cut metal components for clients who need integrated finishing and inspection services.
+The company serves a broad range of industries, though the source material does not name specific sectors. It works with engineers and quality teams from customer and supplier partners to reduce cost and shorten lead times on projects that range from prototypes to complex production components.
 
-Ohio Metal Fabricating emphasizes an on‑time delivery rate above 99 percent, competitive pricing, and short lead times. The business was built on the premise that combining quality, speed, and precision benefits the customer’s bottom line, and it continues to position itself as a cost‑advantaged alternative to other fabrication methods.
+Ohio Metal Fabricating emphasizes a combination of quality, speed, and precision, citing an on‑time delivery record above 99 percent, competitive pricing, and short lead times. The firm also highlights its consulting on materials and finishing as a value‑added service that helps customers achieve a cost advantage over alternative fabrication methods.
 
 ## Known for
-- Over 99% on-time delivery record
+- 99% of spinning tools and dies made in‑house
+- On‑time delivery rate above 99%
 - Short lead times and competitive pricing
-- 99% of spinning tools and dies made in-house
-- In-house finishing services (anodizing, plating, painting, polishing)
-- Custom tooling per customer specifications
+- Spinning capacity up to 104″ diameter, 0.010″–0.187″ thickness, ±0.002″ tolerance
+- In‑house secondary operations (trimming, drilling, flanging) and finishing services
 
 ## Capabilities
 - Hand metal spinning
@@ -571,18 +563,14 @@ Ohio Metal Fabricating emphasizes an on‑time delivery rate above 99 percent, c
 - Painting
 - Polishing
 - Custom assembly
-- Tooling design and fabrication
-- Prototyping
-- Forming
-- Stamping
-- Six-axis laser cutting
-- CNC lathe with flanging and cutting
-- Secondary operations (trimming, drilling)
+- Tool and die making (in‑house)
+- Secondary machining (trimming, drilling, flanging)
+- Flanging
+- Cutting
 
 ## Equipment
-- M & M CNC lathe
-- Six-axis laser cutting equipment
-- CNC cells
+- M & M CNC lathe with flanging and cutting capabilities
+- Six‑axis laser cutting equipment
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -590,18 +578,18 @@ Ohio Metal Fabricating emphasizes an on‑time delivery rate above 99 percent, c
 
 <details><summary>Sources</summary>
 
-- Dayton, Ohio headquarters -> db
+- Location: Dayton, Ohio -> db
 - Over forty years of industry experience -> /
-- Specializes in hand metal spinning, CNC metal spinning, flat and 3D laser cutting -> /about
-- Spin capacity up to 104″ diameter, thickness .010″ to .187″, tolerances .002″ -> /about
-- In-house services: welding, penetrant inspection, punching, beading, anodizing, plating, painting, polishing, custom assembly -> /about
-- 99% of spinning tools and dies made in-house -> /
-- Equipment includes six-axis laser cutting and M & M CNC lathe with flanging and cutting -> /
-- CNC cells perform secondary operations: beading, trimming, drilling -> /
-- Offers forming and stamping -> /
-- Over 99% on-time delivery record -> /about
-- Competitive pricing and short lead times -> /
-- Partners with customer engineers and quality staff -> /
+- Privately held, ownership not specified -> /
+- Services: hand spinning, CNC metal spinning, flat and 3D laser cutting -> /about
+- Spinning capacity: up to 104″ diameter, 0.010″–0.187″ thickness, ±0.002″ tolerance -> /about
+- In‑house tooling: 99% of spinning tools and dies made in house -> /
+- Secondary operations: beading, trimming, drilling, flanging -> /
+- Finishing services: welding, penetrant inspection, punching, anodizing, plating, painting, polishing, custom assembly -> /about
+- Equipment: six‑axis laser, M & M CNC lathe with flanging and cutting -> /
+- On‑time delivery >99%, competitive pricing, short lead times -> /about
+- Consulting on materials and finishing -> /about
+- Company type: manufacturer of physical metal parts -> /about
 </details>
 
 ---
@@ -611,39 +599,41 @@ Ohio Metal Fabricating emphasizes an on‑time delivery rate above 99 percent, c
 **Old description:** At Oklahoma Shirt Company, we are an experienced team going to great lengths to create a spectacular product that will help elevate your business, cause, or event. From custom screen printing and embroidery to promotional products and signage, our passion is offering a tailored experience for each individual we serve. Reach out today! We would love to be a part of your story.
 
 ## About
-Oklahoma Shirt Company operates as a screen printing and apparel shop in Oklahoma City, Oklahoma. Founded by a team passionate about design, craftsmanship, and Oklahoma culture, the company has grown into a partner for businesses, schools, organizations, and events across the state.
+Oklahoma Shirt Company operates from Oklahoma City, Oklahoma, where it was founded by a team passionate about design, craftsmanship, and Oklahoma culture. The shop began as a screen printing and apparel business focused on creating custom products that celebrate the people, businesses, and communities of the state.
 
-The shop provides custom screen printing, embroidery, promotional products, signage, stickers, graphic design, direct-to-film printing, and online gear store services. Its capabilities include SIM process separations for screen printing and a subscription-based Shirt of the Month program. Minimum orders start at 24 garments per design for screen printing, with direct-to-film and embroidery available at five-piece minimums.
+The company provides custom screen printing, embroidery, direct-to-film (DTF) printing, signage, stickers, graphic design, promotional products, and online gear stores. Screen printing requires a minimum of 24 garments per design, while DTF and embroidery start at five items. Standard production turnaround is one to two weeks after artwork approval and payment, with rush service available for a 50 percent upcharge.
 
-Customers range from local businesses and schools to statewide organizations and events. A notable client is the Oklahoma City Thunder, for which the company serves as the official printing partner.
+Clients include businesses, schools, organizations, and event planners across Oklahoma, as well as retail customers purchasing Oklahoma-, OSU-, and OU-branded merchandise. The company serves as the official printing partner of the Oklahoma City Thunder.
 
-The company states that its purpose extends beyond brand promotion, aiming to build connection, celebrate community, and tell stories through apparel. It emphasizes thoughtful design, quality materials, and modern production to deliver products that stand out.
+Oklahoma Shirt Company emphasizes thoughtful design, quality materials, and modern production to deliver products that build connection and tell a story. An in-house design team handles everything from quick shirt layouts to full SIM process separations and branding packages.
 
 ## Known for
 - Official printing partner of the Oklahoma City Thunder
-- Direct-to-film printing with five-piece minimum for small runs
+- Direct-to-film printing with a five-item minimum for small runs
 - In-house design team offering SIM process separations and branding packages
-- Rush production available with 50% upcharge
-- Shirt of the Month subscription programs for Oklahoma, OSU, and OU designs
+- Shirt-of-the-month subscription programs for Oklahoma, OSU, and OU
+- Standard turnaround of one to two weeks with rush options
 
 ## Capabilities
 - Screen printing
 - Embroidery
-- Promotional products
+- Direct-to-film (DTF) printing
 - Signage
 - Stickers
 - Graphic design
-- Direct to Film (DTF) printing
+- Promotional products
 - Online gear stores
+- Shirt-of-the-month subscriptions
 - SIM process separations
-- Shirt of the Month subscription program
+- Branding packages
 
 ## Industries
 - Businesses
 - Schools
 - Organizations
 - Events
-- Sports teams
+- Sports teams (NBA, collegiate)
+- Retail merchandise
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -652,16 +642,15 @@ The company states that its purpose extends beyond brand promotion, aiming to bu
 <details><summary>Sources</summary>
 
 - Location: Oklahoma City, Oklahoma -> /about
-- Founded by a team passionate about design, craftsmanship, and Oklahoma culture -> /about
-- Services: screen printing, embroidery, promotional products, signage, stickers, graphic design, direct-to-film, online gear stores -> /, /about
-- SIM process separations for screen printing -> /about
-- Shirt of the Month subscription program -> /
-- Minimum orders: screen printing 24 garments, DTF 5 items, embroidery 5 items -> /, /about
+- Founded by a team passionate about design, craftsmanship, Oklahoma culture -> /about
+- Services: screen printing, embroidery, DTF, signage, stickers, graphic design, promotional products, online gear stores -> /, /about
+- Minimum order quantities: screen printing 24 garments, DTF 5 items, embroidery 5 items -> /, /about
 - Standard turnaround 1-2 weeks, rush with 50% upcharge -> /, /about
-- Official printing partner of Oklahoma City Thunder -> /
-- Serves businesses, schools, organizations, events -> /about
-- In-house design team -> /, /about
-- Headquarters address 26 NE 10th St, Oklahoma City, OK 73104 -> /, /about
+- Official printing partner of Oklahoma City Thunder -> /, /about
+- In-house design team, SIM process separations, branding packages -> /, /about
+- Shirt-of-the-month subscriptions for Oklahoma, OSU, OU -> /
+- Clients: businesses, schools, organizations, events, retail -> /about
+- Headquarters address: 26 NE 10th St, Oklahoma City, OK 73104 -> /, /about
 - LinkedIn URL -> db
 </details>
 

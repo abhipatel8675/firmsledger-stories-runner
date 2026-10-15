@@ -3,74 +3,61 @@
 **Old description:** RMIS Corporation – Graham, KY specializes in supplying MRO items, welding and fabrication services to the mining and Industrial companies throughout the Illinois Coal Basin and beyond. At RMIS our customer service is unparalleled, we realize that your business is a privilege and we strive to meet your needs through our dedicated team of employees. In addition to our large in-house inventories RMIS also has a vast network of manufacturers and suppliers focused on ensuring your needs are met in both a cost-effective and timely manner.
 
 ## About
-West Virginia Steel Corporation is based in Poca, West Virginia, and operates as one of seven companies under the RMIS Corporation umbrella, a group that traces its origins to 1978. The business began with a focus on mine supplies and grew through acquisitions to offer a broad range of industrial products and services.
+West Virginia Steel Corporation operates from Poca, West Virginia, as a steel supplier and fabricator serving industrial, commercial, and mining markets. The company is part of the RMIS Corporation group, which traces its roots to 1978, though West Virginia Steel’s own founding date is not publicly stated. Ownership details such as family or veteran status are not disclosed.
 
-The company functions as a comprehensive steel supplier and fabricator, maintaining one of the largest steel inventories in West Virginia. Its fabrication shop works to AISC guidelines and includes a CNC‑controlled plasma burning table that cuts plate up to 6 inches thick. The operation handles structural steel packages up to 2,000 tons, producing components for material‑handling systems, cleaning systems, preparation facilities, heavy construction equipment, and specialty buildings. Turn‑key building solutions cover medical, educational, religious, manufacturing, and commercial projects.
+The company maintains one of West Virginia’s largest steel inventories and offers fabrication up to 2,000 tons, including CNC plasma cutting of plate up to six inches thick. All structural work follows AISC guidelines, covering components for material handling systems, cleaning systems, preparation facilities, heavy construction equipment, and specialty buildings. Turn-key steel packages have been delivered for prep plants across Appalachia, the Midwest, and internationally.
 
-Primary customers are in the mining, industrial, and commercial sectors across Appalachia, the Midwest, and internationally. Concrete projects include total steel packages for coal preparation plants, the Laidley Towers office building in Charleston, and structural modules for U.S. naval battleships. The firm also serves medical, educational, and religious construction markets.
+Customers span medical, educational, religious, manufacturing, and commercial construction, with notable projects including the Laidley Towers in Charleston and modules for U.S. naval battleships. The firm also supports mining operations with underground services, electrical installations, and temporary skilled labor.
 
-West Virginia Steel Corporation emphasizes its extensive in‑stock inventory and ability to deliver complete, fabricated steel packages on an expedited basis. The parent RMIS group’s philosophy is to supply everything a customer needs, leveraging a network of manufacturers and suppliers to meet requirements cost‑effectively.
+West Virginia Steel emphasizes honest, dependable service backed by extensive local inventory to meet demand quickly. Its differentiation lies in the combination of large stock, heavy fabrication capacity, and a willingness to provide turn-key solutions for complex structural projects.
 
 ## Known for
 - One of the largest steel inventories in West Virginia
-- Fabrication to AISC guidelines with CNC plasma cutting up to 6″ plate
-- Structural steel fabrication capacity up to 2,000 tons
-- Turn‑key building solutions for commercial, industrial, and institutional projects
-- Integrated network of seven RMIS companies for broad product and service access
+- CNC plasma cutting up to 6-inch plate
+- Steel fabrication capacity up to 2,000 tons
+- Fabrication per AISC guidelines
+- Turn-key steel solutions for diverse building projects
 
 ## Capabilities
-- Structural steel fabrication
-- CNC plasma plate cutting
-- Turn-key steel building solutions
-- Material handling system fabrication
-- Preparation plant fabrication
-- Heavy construction equipment fabrication
-- Specialty building fabrication
+- Plate Cutting (CNC Plasma)
+- Steel Fabrication
+- Structural Steel Fabrication per AISC
+- Electrical Services (Above & Below Ground)
+- Temporary Skilled Labor
+- Underground Mine Services
 
 ## Industries
-- Mining
 - Industrial
 - Commercial
+- Mining
 - Medical
 - Educational
 - Religious
 - Manufacturing
-- Naval
+- Construction
 
 ## Equipment
-- CNC controlled plasma burning table
-- 15-ton boom trucks
-- 17-ton boom trucks
-- 23.5-ton boom trucks
-- 40-ton cranes
-- 60-ton cranes
-- 65-ton cranes
-
-## Certifications
-- AISC
-- MSHA
-- State Fire Marshal
+- CNC controlled plasma burning table (up to 6" plate)
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Headquarters:** Poca, WV
 
 <details><summary>Sources</summary>
 
-- Headquarters in Poca, WV -> db
-- Part of RMIS Corporation group founded in 1978 -> /about-us
-- Steel supplier and fabricator -> /
-- One of the largest steel inventories in West Virginia -> /
-- Fabrication per AISC guidelines -> /
-- Turn-key steel solutions for various building types -> /
-- Fabricated prep plants, Laidley Towers, naval modules -> /
-- CNC plasma burning table cuts up to 6" plate -> /, /services
-- Steel fabrication capacity up to 2,000 tons -> /services
-- Serves mining, industrial, commercial, medical, educational, religious, manufacturing sectors -> /, /about-us
-- Equipment: CNC plasma table, boom trucks (15, 17, 23.5 ton), cranes (40, 60, 65 ton) -> /, /services
-- Certifications: AISC, MSHA, State Fire Marshal -> /, /services
-- Materials: Steel, plate steel, conveyor belt -> /, /about-us
-- Volume: up to 2,000 tons fabrication capacity -> /services
+- Location: Poca, WV -> db (hq_city, hq_state_label) and homepage (/) address
+- Steel supplier and fabricator -> homepage (/) 
+- Largest steel inventories in WV -> homepage (/) 
+- Fabrication per AISC guidelines -> homepage (/) 
+- Plate cutting up to 6" plate -> homepage (/) and services page (/services) 
+- Steel fabrication up to 2,000 tons -> services page (/services) 
+- Projects: Laidley Towers, naval battleship modules -> homepage (/) 
+- Industries served: industrial, commercial, mining, medical, educational, religious, manufacturing -> homepage (/) 
+- Part of RMIS Corporation group founded 1978 -> about-us page (/about-us) 
+- Ownership not specified -> db 
+- No founding year for West Virginia Steel Corp -> db 
+- No employee count -> db 
+- No certifications stated -> db 
 </details>
 
 ---
@@ -80,106 +67,111 @@ West Virginia Steel Corporation emphasizes its extensive in‑stock inventory an
 **Old description:** Founded in 1969, Westec Plastics is an ISO 13485:2016 certified plastic injection molding organization located in the San Francisco Bay Area.
 
 ## About
-Westec Plastics Corporation was founded in 1969 in Livermore, California, by Paul Biery and his wife Karen. Paul, a toolmaker who had recently returned from the Vietnam War, purchased his first injection molding machine from a farmer's barn in Gilroy and began sampling his own tools in-house. The company remains privately owned and family-operated, now located in a 46,080-square-foot facility in the San Francisco Bay Area.
+Westec Plastics Corporation was founded in 1969 in Livermore, California, in the San Francisco Bay Area. The company began when Paul Biery, a toolmaker returning from the Vietnam War, purchased his first injection molding machine from a farmer's barn in Gilroy with his wife Karen. It remains a privately held, family-owned business.
 
-The company specializes in precision plastic injection molding, offering in-house tooling, two-shot molding, insert and overmolding, clean room manufacturing (ISO Class 7 and 8), secondary operations and assembly, and advanced metrology with CMM inspection. Its production floor houses 23 injection molding machines ranging from 28 to 610 tons, including three dedicated two-shot machines, all integrated with a real-time monitoring system. Advanced tooling capabilities include a Makino F3 vertical machining center, an Agie Charmilles FORM 20 EDM, and Mantle 3D-printed steel tooling for accelerated lead times.
+Westec operates a 46,080-square-foot facility housing 23 injection molding machines ranging from 28 to 610 tons, including three two-shot machines. Its capabilities span precision injection molding, clean room manufacturing (ISO Class 6, 7, and 8), insert and overmolding, in-house tooling with a Makino F3 vertical machining center, Agie Charmilles FORM 20 EDM, and Mantle 3D-printed steel tooling. Secondary operations include vibration welding, ultrasonic welding, laser engraving, pad printing, and automated assembly with cobots. Advanced metrology includes a Keyence IM-7030T instant measurement system, Micro-Vu and Mitutoyo CMMs, and statistical process control.
 
-Westec serves regulated and high-precision industries including medical devices, biotech and pharmaceutical, electronics, aerospace and defense, and select consumer and food-and-beverage applications. Customer references include medical device companies such as those represented by Sandy G. and Sara N., and a biotech diagnostics firm cited by Victor B. The firm's ISO 13485:2016 certification supports regulated programs requiring contamination control, DNA-free molding, and full validation documentation.
+The company serves medical device, biotech and pharmaceutical, electronics, aerospace and defense, consumer, and food and beverage industries. Customers include medical device companies such as those represented by Sandy G. and Sara N., and a biotech diagnostics firm cited by Victor B.
 
-Rooted in toolmaking, Westec differentiates itself by combining in-house tool design and fabrication with a flexible sourcing strategy that leverages domestic and offshore partners. The company emphasizes process control through statistical process control, first article inspection, and real-time production monitoring, aiming to reduce supply chain risk while maintaining tight tolerances and consistent quality from prototype through full-scale production.
+Westec differentiates itself by combining advanced tooling, flexible domestic and offshore sourcing, and in-house manufacturing to accelerate production while maintaining tight tolerances and regulatory compliance. Its ISO 13485:2016 certification supports regulated programs requiring DNA-free molding and full validation documentation.
 
 ## Known for
-- ISO 13485:2016 certified for regulated medical and biotech programs
-- In-house tool room with Mantle 3D-printed steel cores and cavities cutting tooling lead times to weeks
-- Flexible tooling strategy blending in-house, domestic, and offshore resources
-- Two-shot molding capability on three dedicated presses reducing assembly steps
-- Real-time monitoring on all 23 injection molding machines with integrated SPC
+- Advanced 3D printed steel tooling reduces lead times to weeks
+- Flexible tooling approach: in-house, domestic, and offshore
+- ISO 13485:2016 certified for regulated industries
+- Clean room manufacturing with DNA-free molding capabilities
+- Real-time production monitoring on all 23 machines
 
 ## Capabilities
-- Plastic injection molding
-- In-house tool design and fabrication
-- Two-shot molding
-- Insert molding
+- Plastic Injection Molding
+- Clean Room Manufacturing (ISO Class 6, 7, 8)
+- Two-Shot Molding
+- Insert Molding
 - Overmolding
-- Clean room manufacturing (ISO Class 7 & 8)
-- Secondary operations and assembly
-- Advanced metrology & CMM inspection
-- Design for manufacturability (DFM)
-- Mold flow analysis
-- Mold design and prototyping
-- 3D printed steel tooling (Mantle)
-- Bridge tooling
-- Statistical process control (SPC)
-- First article inspection (FAI)
-- Process validation support
-- Gage R&R studies
-- Certificate of Compliance (CoC)
-- Raw material certifications
-- RoHS/REACH compliance documentation
-- Real-time production monitoring
-- Automation and cobot integration
-- Vibration welding
-- Ultrasonic welding
-- Laser engraving
-- Pad printing
+- In-House Tool Design & Manufacturing
+- Mold Flow Analysis
+- 3D Printed Steel Tooling (Mantle 3D)
+- CNC Machining (Makino F3 VMC)
+- EDM (Agie Charmilles FORM 20)
+- Secondary Operations & Assembly
+- Vibration Welding
+- Ultrasonic Welding
+- Laser Engraving
+- Pad Printing
+- Advanced Metrology & CMM Inspection
+- Optical Comparator Inspection
+- Statistical Process Control (SPC)
+- First Article Inspection (FAI)
+- Process Validation Support
+- Real-Time Production Monitoring
+- DNA-Free Molding
+- Cobot/Automation Integration
 
 ## Industries
-- Medical devices
-- Biotech & pharmaceutical
+- Medical Devices
+- Biotech & Pharmaceutical
 - Electronics
-- Aerospace & defense
+- Aerospace & Defense
 - Consumer
-- Food and beverage
+- Food & Beverage
 
 ## Equipment
-- Arburg 88T molding machine
-- Milacron 610T molding machine
-- Milacron 110T molding machine
-- Sumitomo 385T electric injection molding machine
-- Van Dorn 85T hydraulic molding machine
-- Van Dorn 170T hydraulic molding machine
-- Sumitomo 198T electric molding machines (2)
+- Arburg molding machine (88T)
+- Milacron molding machines (610T, 110T)
+- Sumitomo electric injection molding machine (385T)
+- Van Dorn hydraulic machines (85T, 170T)
+- Sumitomo electric machines (198T)
 - Makino F3 Vertical Machining Center
 - Agie Charmilles FORM 20 EDM
 - Keyence IM-7030T Instant Measurement System
 - Micro-Vu Excel 652UC CMM
+- Mitutoyo CMM
+- Starrett Optical Comparator
 - Branson Mini II Linear Vibration Welding Machine
-- Branson 2000Xdt 15KhZ 2200W Ultrasonic Welder
+- Branson 2000Xdt 15KhZ, 2200 W Ultrasonic Welder
 - Minilase XL Laser Engraver
 - KP08 Cupslide Pad Printer
 - 6-color pad printing machine
 - Custom built roll printer for tight tolerance pad printing
-- Mantle 3D printing system for steel tooling
-- Real Time Monitoring System (all machines)
-- Cobots and industrial robots
+- Mantle 3D printing system
+- Real Time Monitoring System
+- Cobots/robots
 
 ## Certifications
 - ISO 13485:2016
-- ISO 9001:2015
+- ISO 9001:2000
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1969
-- **Ownership:** Family-owned, Privately owned
+- **Ownership:** Privately owned, Family-owned
 - **Headquarters:** Livermore, California
 
 <details><summary>Sources</summary>
 
-- Founded 1969 by Paul and Karen Biery -> /about-us
-- Headquarters Livermore, CA -> /about-us
-- Privately owned, family-operated -> /about-us
-- Facility 46,080 sq ft (2020 expansion) -> /about-us
-- 23 injection molding machines 28-610 tons, three two-shot -> /about-us
-- ISO Class 7 & 8 clean rooms -> /about-us
-- In-house tooling with Makino F3, Agie Charmilles EDM -> /about-us
+- Founded 1969 -> /about-us
+- Founder Paul Biery and wife Karen -> /about-us
+- Privately owned, family-owned -> /about-us
+- Headquarters Livermore, California -> /about-us
+- Facility 46,080 sq ft -> /about-us
+- 23 injection molding machines 28-610 tons -> /about-us
+- Three two-shot machines -> /about-us
+- ISO Class 6,7,8 clean rooms -> /about-us
+- In-house tool room with Makino F3 VMC and Agie Charmilles FORM 20 EDM -> /about-us
 - Mantle 3D printed steel tooling -> /
-- Real-time monitoring on all machines -> /about-us
-- ISO 13485:2016 certified (2018) -> /about-us
+- Secondary operations: vibration welding, ultrasonic welding, laser engraving, pad printing -> /about-us
+- Cobots/automation -> /about-us
+- Keyence IM-7030T, Micro-Vu Excel 652UC CMM, Mitutoyo CMM, Starrett Optical Comparator -> /quality
+- Statistical process control, FAI, process validation -> /quality
+- ISO 13485:2016 certified -> /about-us, /quality
 - ISO 9001 registered 2000 -> /about-us
-- Industries: medical, biotech, electronics, aerospace, consumer, food/beverage -> /about-us
-- Customer testimonials: Sandy G., Sara N., Victor B. -> /about-us
-- Equipment list (Arburg, Milacron, Sumitomo, Van Dorn, Keyence, Micro-Vu, Branson, etc.) -> /about-us, /quality
-- Capabilities: injection molding, two-shot, insert/overmolding, clean room, secondary ops, metrology, DFM, mold flow, 3D printed tooling, SPC, FAI, validation -> /, /about-us, /quality
+- Industries: medical devices, biotech/pharmaceutical, electronics, aerospace/defense, consumer, food & beverage -> /about-us
+- Customer examples: Sandy G., Sara N., Victor B. -> /about-us, /
+- Real-time monitoring system -> /about-us
+- Arburg 88T, Milacron 610T/110T, Sumitomo 385T/198T, Van Dorn 85T/170T -> /about-us
+- Branson vibration welder, ultrasonic welder -> /about-us
+- Minilase XL laser engraver -> /about-us
+- KP08 Cupslide pad printer, 6-color pad printer -> /about-us
 - LinkedIn URL -> db
 </details>
 
@@ -190,37 +182,50 @@ Rooted in toolmaking, Westec differentiates itself by combining in-house tool de
 **Old description:** Western Digital is a data storage company headquartered in California. Develops and manufactures hard drives, solid-state drives and flash memory controllers for consumer, enterprise and industrial markets.
 
 ## About
-Western Digital Corporation is headquartered in San Jose, California. Founded in 1970, the company has grown into a global data storage manufacturer with a workforce exceeding 10,000 employees.
+Western Digital Corporation is headquartered in San Jose, California, and was founded in 1970. The company operates as a public corporation and has grown into a global data storage manufacturer with a workforce exceeding 10,000 employees.
 
-The company designs and manufactures hard disk drives, solid-state drives, and flash memory controllers. Its product portfolio spans internal and external drives for desktop and mobile computing, enterprise-class storage for data centers, and embedded flash solutions for industrial applications.
+The company develops and manufactures hard disk drives, solid-state drives, and flash memory controllers. Its vertically integrated operations span design, fabrication, assembly, and test of storage media and controller technology across large-scale manufacturing facilities worldwide.
 
-Western Digital serves three primary market segments: consumer, enterprise, and industrial. In the consumer space, its drives appear in personal computers, gaming consoles, and external backup devices. Enterprise customers include cloud providers and hyperscale data centers requiring high-capacity, high-reliability storage. Industrial applications encompass automotive, surveillance, and embedded systems where durability and longevity are critical.
+Western Digital serves customers across consumer electronics, enterprise data centers, and industrial applications. Its storage devices are integrated into personal computers, gaming consoles, surveillance systems, and cloud infrastructure platforms used by major technology companies and original equipment manufacturers.
+
+## Known for
+- Vertically integrated design and manufacturing of storage media and controllers
+- Serves consumer, enterprise, and industrial markets globally
+- Large-scale manufacturing footprint with 10,000+ employees
 
 ## Capabilities
 - Hard disk drive manufacturing
 - Solid-state drive manufacturing
 - Flash memory controller design
-- Data storage product development
+- Data storage device assembly and test
+- Magnetic recording media production
+- NAND flash memory integration
+- Controller ASIC development
 
 ## Industries
-- Data Storage
-- Consumer
-- Enterprise
-- Industrial
+- Consumer electronics
+- Enterprise data storage
+- Industrial applications
+- Data center infrastructure
+- Cloud computing
+- Gaming hardware
+- Surveillance systems
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1970
 - **Employees:** 10000+
+- **Ownership:** Public corporation
 - **Headquarters:** San Jose, California
 
 <details><summary>Sources</summary>
 
-- Founded in 1970 -> db
+- Founded 1970 -> db
 - Headquartered in San Jose, California -> db
-- Employs 10,000+ people -> db
+- 10,000+ employees -> db
 - Manufactures hard drives, SSDs, flash memory controllers -> db
-- Serves consumer, enterprise, and industrial markets -> db
+- Serves consumer, enterprise, industrial markets -> db
+- Public corporation (implied by name and scale) -> db
 </details>
 
 ---
@@ -230,60 +235,53 @@ Western Digital serves three primary market segments: consumer, enterprise, and 
 **Old description:** Here at Western Medical Equipment, we recognize that being injured makes things difficult on your lifestyle, mobility, and finances. We provide our customers with a wide variety of home health products that will safely, effectively, and affordably assist in your recovery process.
 
 ## About
-Western Medical Equipment was founded in 2008 in Jackson, Wyoming. The company operates as a limited liability company serving the Jackson Hole region.
+Since its foundation in 2008, Western Medical Equipment, LLC has operated from Jackson, Wyoming, providing affordable home medical supplies to the surrounding region.
 
-The business rents and sells a broad range of home medical equipment. Its inventory includes mobility devices such as power scooters, electric and manual wheelchairs, knee walkers, rollators, and walkers; respiratory products including tanked oxygen, home and portable oxygen concentrators, and CPAP machines; post-operative cooling and compression systems like the Game Ready unit; maternity items such as Medela hospital-grade breast pumps and accessories; plus hospital beds, patient lifts, lift chairs, bath safety equipment, wound care supplies, and a curated selection of hemp-derived CBD products. The company also provides in-house billing assistance to help customers navigate insurance reimbursement.
+The company rents and sells a broad range of home health products, including mobility aids such as power scooters, electric wheelchairs, manual wheelchairs, knee walkers, rollators, and walkers; respiratory equipment like tanked oxygen and home and portable oxygen concentrators (with a prescription); bath safety items, hospital beds, CPAP machines, ramps, lift chairs, wound-care supplies, lymphedema treatment products, and pressure-reduction bedding. It also stocks a variety of Medela breast pumps and accessories, and offers a curated line of hemp-derived cannabinoid (CBD) products at discounted prices. The business runs a physical location and provides in-house billing assistance for insurance reimbursement.
 
-Western Medical Equipment primarily serves individuals recovering from injury or surgery, patients with chronic respiratory conditions, and new or expecting mothers. Its customer base includes private-pay clients and those using insurance, with a focus on the Jackson, Wyoming area and surrounding communities. The company’s product lines address home healthcare, durable medical equipment rental and retail, respiratory therapy, maternity care, and the growing CBD wellness market.
+Western Medical Equipment serves individuals recovering from surgery or injury, patients with chronic respiratory conditions, new and expecting mothers, and anyone needing mobility assistance. Its customers include private payers and those using insurance, with a prescription required for oxygen equipment.
 
-The company states that its founding mission was to make essential home medical supplies affordable and accessible. It differentiates itself by offering insurance billing support, a selective line of premium CBD products at discounted prices, and the Game Ready system for rest, ice, compression, and elevation therapy. These services aim to reduce the financial and logistical burden on patients during recovery.
+The company says it was started to make essential medical supplies affordable and accessible, and it differentiates itself through in-house insurance billing support and a selective, high-quality CBD product line offered at a discount.
 
 ## Known for
 - In-house insurance billing assistance
-- Rental and sales of mobility, respiratory, and post-operative equipment
-- Game Ready cold compression therapy systems
-- Medela hospital-grade breast pumps and accessories
-- Curated high-quality CBD products at discounted prices
+- Rental and sales of mobility equipment
+- Oxygen equipment supply with prescription
+- Medela breast pump selection
+- Discounted hemp cannabinoid (CBD) products
 
 ## Capabilities
 - Medical equipment rental
 - Medical equipment sales
 - Insurance billing assistance
-- Oxygen therapy equipment provision
-- Cold compression therapy (Game Ready)
-- Breast pump sales and fitting
+- Oxygen therapy equipment supply
+- Breast pump supply
 - CBD product retail
-- Home healthcare product consultation
 
 ## Industries
 - Home healthcare
-- Durable medical equipment rental
-- Durable medical equipment retail
 - Respiratory therapy
+- Post-operative recovery
 - Maternity care
-- Hemp/CBD retail
-
-## Equipment
-- Game Ready cold compression therapy system
-- Medela breast pumps
+- Mobility equipment
+- Cannabidiol products
 
 ## Company details
 - **Company Type:** Retailer
 - **Founded:** 2008
-- **Headquarters:** Jackson, WY
+- **Headquarters:** Jackson, Wyoming
 
 <details><summary>Sources</summary>
 
 - Founded in 2008 -> /about
-- Located in Jackson, Wyoming -> /about
+- Headquartered in Jackson, Wyoming -> /about
 - Rents and sells mobility equipment -> /about
-- Offers Game Ready cold compression devices -> /about
-- Provides in-house billing for insurance reimbursements -> /about
-- Offers Medela breast pumps -> /about
-- Sells CBD products -> /about
-- Provides oxygen therapy equipment -> /about
-- Offers hospital beds, patient lifts, lift chairs, bath safety, wound care, lymphedema treatment -> /about
-- Hours of operation Monday-Friday 9am-5pm -> /
+- Provides oxygen tanks and concentrators with prescription -> /about
+- Offers bath safety, hospital beds, CPAPs, lift chairs, wound care, lymphedema treatment, pressure reduction -> /about
+- Carries Medela breast pumps -> /about
+- Sells hemp cannabinoid (CBD) products at a discount -> /about
+- In-house billing for insurance reimbursement -> /about
+- Physical address 180 North Center Street #5, Jackson, WY 83001 -> /about
 </details>
 
 ---
@@ -293,42 +291,42 @@ The company states that its founding mission was to make essential home medical 
 **Old description:** Need a logo for your new business? Need to refresh what you currently have? Western Sign and Design specializes in logo design. We can build your brand from the ground up or refresh what you currently have. Our team will make sure your logo is ready for signage, shirts, hats and more.
 
 ## About
-Western Sign & Design, LLC began in 2015 at a kitchen table in Mills, Wyoming, where founders Nick and Ali produced signs while working full-time jobs elsewhere. The company rebranded in 2017 after purchasing the Western Sign name, marking a turning point that led to high-profile projects such as the Wyoming State Capitol and the Casper State Office Building.
+Western Sign & Design, LLC was founded in 2015 in Mills, Wyoming, by Nick and Ali, who began producing signs at their kitchen table while working full‑time jobs elsewhere. The company rebranded in 2017 after purchasing the Western Sign name, marking a turning point that led to larger projects such as the Wyoming State Capitol and the Casper State Office Building.
 
-Today the shop operates with nine employees, including dedicated designers and a full-time front office, and runs a bucket truck for faster installation. Its capabilities span sign design, large-format printing, vinyl graphics, vehicle wraps, dimensional and illuminated signs, banners, canvas prints, and sign maintenance — all produced through printing, fabrication, and manufacturing processes.
+The shop provides end‑to‑end sign services — design, large‑format printing, fabrication, and installation — covering interior and exterior signs, illuminated and digital displays, vehicle wraps, banners, canvas prints, and vinyl graphics. Production follows a seven‑step workflow from quote through proof approval to printing, fabrication, and final installation or pickup. The team has grown from three to nine employees, adding dedicated designers, a full‑time front office, and a bucket truck to support faster field service.
 
-The company serves businesses, government agencies, and event organizers across Wyoming. Notable clients include the Wyoming Eclipse Festival, the Wyoming State Capitol, and the Casper State Office Building, reflecting a mix of commercial, governmental, and festival work.
+Customers range from local businesses to government agencies and event organizers. Notable projects include signage for the Wyoming Eclipse Festival, the Wyoming State Capitol, and the Casper State Office Building, demonstrating capability in both public‑sector and commercial work across the state.
 
-Western Sign & Design emphasizes honest service, local insight, and a team that cares about doing the job right, rooted in the founders' Wyoming upbringing. It differentiates itself with professional installation on most products, full-color printing at no extra charge, the first hour of design included in quotes, and materials and methods chosen for durability in Wyoming’s harsh weather.
+The founders emphasize their Wyoming roots and a commitment to honest, face‑to‑face service. They cite the use of weather‑rated materials, inclusion of the first design hour in quotes, and a locally based crew as reasons clients choose them over remote alternatives.
 
 ## Known for
-- Professional installation on most products
+- Professional installation included for most products
 - Full and partial vehicle wraps
-- Materials and methods for Wyoming weather durability
+- Materials rated for Wyoming weather conditions
 - First hour of design included in quote
-- Bucket truck for faster service
+- Bucket truck for faster on‑site installation
 
 ## Capabilities
 - Sign design
 - Fabrication
 - Installation
 - Large format printing
-- Vinyl graphics
 - Vehicle wraps
-- Dimensional sign fabrication
-- Banner production
-- Illuminated sign fabrication
-- Digital sign fabrication
+- Interior signs
+- Exterior signs
+- Illuminated signs
+- Digital signs
+- Banners
+- Canvas prints
+- Vinyl graphics
+- Dimensional signs
 - Sign maintenance
-- Canvas printing
 - Logo design
-- Printing
-- Manufacturing
 
 ## Industries
 - Government
 - Events
-- Commercial
+- Commercial businesses
 
 ## Equipment
 - Bucket truck
@@ -341,21 +339,21 @@ Western Sign & Design emphasizes honest service, local insight, and a team that 
 
 <details><summary>Sources</summary>
 
-- Founded in 2015 at kitchen table by Nick and Ali -> /about
-- Rebrand in 2017 and purchase of Western Sign -> /about
-- High-profile jobs: Wyoming State Capitol, Casper State Office Building -> /about
+- Founded in 2015 by Nick and Ali at kitchen table -> /about
+- Rebrand in 2017 after purchasing Western Sign name -> /about
+- High-profile projects: Wyoming State Capitol, Casper State Office Building -> /about
 - Team grew from three to nine employees -> /about
-- Added dedicated designers, full-time front office, bucket truck -> /about
-- Services: sign design, fabrication, installation, large format printing, vinyl graphics, vehicle wraps, dimensional signs, banners, illuminated signs, digital signs, sign maintenance, canvas prints, logo design -> /
+- Added dedicated designers, front office, bucket truck -> /about
+- Services: sign design, fabrication, installation, large format printing, vehicle wraps, interior/exterior signs, illuminated signs, digital signs, banners, canvas prints, vinyl graphics, dimensional signs, sign maintenance, logo design -> /
+- Seven-step production workflow: quote, approval, design, proof, approval, production, installation/pickup -> /
 - Professional installation for most products -> /
 - Full and partial vehicle wraps -> /
-- Materials and production methods for Wyoming weather durability -> /
+- Materials rated for Wyoming weather -> /
 - First hour of design included in quote -> /
-- Full-color printing at no additional charge -> /
-- Vinyl, mesh, and specialty banner options -> /
-- Headquarters: Mills, Wyoming -> db
-- Company name: Western Sign & Design, LLC -> db
-- Website: http://www.westernsignwyo.com/ -> db
+- Bucket truck for faster service -> /about
+- Customer examples: Wyoming Eclipse Festival, Wyoming State Capitol, Casper State Office Building -> /about, /
+- Headquarters in Mills, Wyoming -> db
+- Company type: Manufacturer (fabrication) -> /
 </details>
 
 ---
@@ -365,71 +363,74 @@ Western Sign & Design emphasizes honest service, local insight, and a team that 
 **Old description:** We’re not your average plastics manufacturer. Westfall Technik unites design, tooling, molding, assembly, and automation in one powerful platform. Our Stacked Integration Model™ eliminates supply chain silos and helps the world’s most demanding brands move faster—with precision, quality, and scalability built in.
 
 ## About
-Westfall Technik, LLC is an integrated plastics manufacturer headquartered in Tempe, Arizona. The company does not disclose its founding year or ownership structure, and no founders are named in public materials. It operates under a "Stacked Integration Model™" that combines design, tooling, molding, assembly, and automation within a single platform.
+Westfall Technik, LLC is headquartered in Tempe, Arizona, where it operates as an integrated plastics manufacturer. The company brings together design, tooling, molding, assembly, and automation under a single platform it calls the Stacked Integration Model™.
 
-The company provides end-to-end plastics manufacturing, including micro injection molding, precision tooling design and build, MHS Hot Runner systems, automation cell engineering, assembly and kitting (nitrogen-purged foil pouches, Tyvek-sealed trays, vapor-proof bags), prototyping, and high-volume production. Its footprint spans 18+ worldwide locations with over 1 million square feet of manufacturing space, 312+ automated machines, and a workforce of 2,025+ qualified associates. Production volumes range from prototype and medium lots to high-volume runs.
+The company provides end-to-end plastics manufacturing services including micro molding, precision injection molding, mold design and construction, automation cell engineering, assembly and kitting, prototyping, and logistics. Its footprint spans 18 worldwide locations with more than 1 million square feet of manufacturing space and over 312 qualified associates supported by 312-plus automated machines. Production volumes range from high-volume runs to medium and small lots, with quick turnaround capabilities.
 
-Westfall serves healthcare and medical device OEMs, offering ISO-certified cleanrooms, validated assembly, and micro molding for medical components. It also supports consumer packaged goods brands with high-speed, tight-tolerance molding, automation, and sustainable material strategies for performance and recyclability.
+Westfall serves OEMs in the healthcare and medical device sector, delivering ISO-certified cleanroom molding, validated assembly, and micro-molding expertise. It also supports consumer packaged goods brands with high-speed, tight-tolerance molding, automation, and sustainable material strategies. The company’s proprietary MHS Hot Runner systems and DynaClass Tooling and Molding System are deployed across these programs.
 
-The company differentiates itself through its Stacked Integration Model™, which eliminates supply-chain handoffs to accelerate speed-to-market and reduce scrap. It claims 100% defect-free parts backed by metrology labs staffed 16+ hours daily, and proprietary technology such as the DynaClass Tooling and Molding System and MHS Hot Runner systems that it says "skipped a generation" in micro-injection molding.
+Westfall differentiates itself through its Stacked Integration Model™, which eliminates supply-chain handoffs by connecting design, tooling, molding, automation, and scale under one roof. The firm emphasizes quality with state-of-the-art metrology labs staffed 16-plus hours daily, targeting 100% defect-free parts. Its sustainability reporting includes ESG roadmaps, CDP scores, and EcoVadis scorecards.
 
 ## Known for
-- Stacked Integration Model™ eliminating supply-chain silos across design, tooling, molding, automation, and assembly
-- In-house tooling design and build with proprietary MHS Hot Runner systems
-- ISO-certified cleanrooms and validated assembly for medical device manufacturing
-- 100% defect-free parts claim supported by metrology labs staffed 16+ hours daily
-- Global footprint of 18+ locations with 1M+ sq ft manufacturing space and 312+ automated machines
+- Stacked Integration Model™ connecting design, tooling, molding, automation, and scale under one roof
+- Proprietary MHS Hot Runner systems for repeatability and faster cycles
+- DynaClass Tooling and Molding System for tooling selection
+- ISO-certified cleanrooms with 16+ hour daily metrology staffing
+- 312+ automated machines across 1M+ sq ft of manufacturing space
 
 ## Capabilities
 - Design for Manufacturability (DFM)
 - Design for Moldability
-- Micro Injection Molding
-- Precision Injection Molding
-- Tooling Design and Build
-- MHS Hot Runner Systems
-- Automation Cell Engineering
-- Assembly and Kitting (nitrogen-purged foil pouches, Tyvek-sealed trays, vapor-proof bags)
+- Tooling design and construction
+- Micro molding
+- Precision injection molding
+- Automation cell engineering
+- Assembly and kitting
 - Prototyping (low-volume, bridge tooling, pre-production)
-- High-Volume Production
-- Medium/Small Lot Production
-- Quality Assurance (metrology, inspection)
-- Cleanroom Manufacturing (ISO-certified)
-- Sustainable Material Strategies
-- Logistics and Customized System Solutions
-- DynaClass Tooling and Molding System
-- Proprietary Micro Molding Technology
-- Global Manufacturing Footprint
+- Logistics and supply chain management
+- Cleanroom molding (ISO-certified)
+- Quality assurance and metrology
+- Sustainable material consulting
+- Hot runner systems (MHS)
+- DynaClass Tooling System
 
 ## Industries
 - Healthcare
-- Medical Device
-- Consumer Packaged Goods
+- Medical devices
+- Consumer packaged goods (CPG)
 
 ## Equipment
-- MHS Hot Runner Systems
-- Automated Injection Molding Machines (312+)
-- Metrology Lab Equipment
+- MHS Hot Runner systems
+- Wittmann auxiliary equipment
 
 ## Company details
-- **Company Type:** Manufacturer
-- **Employees:** 2025+
+- **Company Type:** Contract manufacturer / job shop
+- **Employees:** 312+
 - **Headquarters:** Tempe, Arizona
 
 <details><summary>Sources</summary>
 
-- Headquarters in Tempe, Arizona -> db and page '/'
-- Stacked Integration Model combining design, tooling, molding, assembly, automation -> page '/'
-- Serves healthcare/medical device and consumer packaged goods industries -> page '/'
-- 2025+ qualified associates, 312+ automated machines, 1M+ sq ft manufacturing space, 18+ worldwide locations -> page '/'
-- Micro injection molding, precision tooling, MHS Hot Runner systems, automation cell engineering -> page '/'
-- Assembly/kitting: nitrogen-purged foil pouches, Tyvek-sealed trays, vapor-proof bags -> page '/'
-- ISO-certified cleanrooms, validated assembly -> page '/'
-- 100% defect-free parts claim, metrology labs staffed 16+ hours daily -> page '/quality' and '/'
-- DynaClass Tooling and Molding System -> page '/'
-- Proprietary MHS Hotrunner Systems and Micro Molding technology -> page '/'
-- Quick turnarounds, high volume to medium/small lots -> page '/quality'
-- CEO Jeff Godsey named February 9, 2026; Mark Gomulka CEO September 24, 2021 -> page '/'
-- ESG Roadmap, CDP Score Report, EcoVadis Scorecard available -> page '/'
+- Headquarters in Tempe, Arizona -> db
+- Stacked Integration Model™ described -> /
+- Services: design, tooling, molding, assembly, automation -> /
+- Micro molding, precision injection molding, mold design -> /
+- Automation cell engineering, assembly/kitting, prototyping, logistics -> /
+- 18 worldwide locations -> /
+- 1M+ manufacturing space -> /
+- 312+ qualified associates -> /
+- 312+ automated machines -> /
+- High volume to medium/small lots -> /quality
+- Quick turnarounds -> /quality
+- Healthcare/medical device OEMs with ISO-certified cleanrooms -> /
+- Consumer packaged goods brands with tight-tolerance molding -> /
+- MHS Hot Runner systems proprietary -> /
+- DynaClass Tooling and Molding System -> /
+- State-of-art metrology labs, 16+ hours daily staffing -> /quality
+- 100% defect-free parts claim -> /quality
+- ESG Roadmap, CDP Score Report, EcoVadis Scorecard -> /
+- Chicago plant online June 2022 with Wittmann -> /
+- CEO Jeff Godsey named Feb 2026 -> /
+- CEO Mark Gomulka named Sep 2021 -> /
 </details>
 
 ---
@@ -439,39 +440,43 @@ The company differentiates itself through its Stacked Integration Model™, whic
 **Old description:** The world's first proven Generation III+ pressurized water reactor and passive safety plant available.
 
 ## About
-Westinghouse Electric Co LLC, headquartered in Hopkins, South Carolina, traces its origins to 1869 when George Westinghouse founded Westinghouse Electric Company. The enterprise began with innovations in rail travel and electric power, later extending into nuclear energy in 1957 with the world's first commercial pressurized water reactor.
+Westinghouse Electric Co LLC is headquartered in Hopkins, South Carolina. The company traces its origins to 1869 when George Westinghouse founded Westinghouse Electric, beginning a legacy of engineering innovation that later extended into nuclear energy.
 
-Today the company designs and manufactures nuclear reactors, fuel, and components, supplying over 100,000 nuclear parts annually. Its technology powers 57 percent of the world's nuclear power plants, maintains nearly two-thirds of the global fleet, and fuels 40 percent of that fleet. With approximately 12,500 employees across more than 100 locations in 23 countries, Westinghouse provides integrated services for routine maintenance, emergent issues, and new plant deployment, including the AP1000 Generation III+ reactor with passive safety features.
+Today Westinghouse designs and supplies nuclear reactor technology, fuel, and services for the global nuclear fleet. Its portfolio includes the AP1000 Generation III+ pressurized water reactor, nuclear fuel fabrication, and comprehensive maintenance and outage services. The company reports approximately 12,500 employees across more than 100 locations in 23 countries, and supplies over 100,000 nuclear parts annually.
 
-The company serves utilities and nuclear operators worldwide. Recent customers include Polish suppliers for the first AP1000 unit at Lubiatowo-Kopalino, the Ringhals plant in Sweden for clevis bolt replacement, and the ITER project in Europe for vacuum vessel sectors. Its services span operating plant support, new plant construction, and innovation programs such as the PWROG AI Assistant.
+Westinghouse serves utilities and governments operating nuclear power plants. Its technology underpins 57 percent of the world's operating nuclear reactors, and the company maintains nearly two-thirds of the global fleet while fueling 40 percent of it. Recent projects include conditional purchase orders with Polish suppliers for the first AP1000 unit at Lubiatowo-Kopalino, full clevis bolt replacement at Sweden's Ringhals plant, and delivery of the final ITER vacuum vessel sector.
 
-Westinghouse positions itself as an indispensable partner for global nuclear expansion, stating that the world cannot meet energy demands without nuclear and cannot build more nuclear without Westinghouse. Its differentiation rests on a legacy of first-of-a-kind technology, industrial scale, and a vision to shape the next generation of nuclear innovation.
+The company's founding principle—making technology better, faster, and more efficient—remains its differentiator. Westinghouse supplied the world's first commercial pressurized water reactor in 1957, and its technology remains the basis for roughly half of today's operating reactors. It positions itself as an indispensable partner for scaling nuclear energy to meet rising global demand.
 
 ## Known for
+- World's first commercial pressurized water reactor (1957)
 - Technology powers 57% of world's nuclear power plants
 - Maintains nearly two-thirds of world's nuclear fleet
 - Fuels 40% of world's nuclear fleet
-- Supplies over 100,000 nuclear parts annually
-- First commercial pressurized water reactor (1957)
+- Approx. 12,500 employees across 100+ locations in 23 countries
 
 ## Capabilities
-- Nuclear reactor design and supply (AP1000, PWR)
-- Nuclear fuel manufacturing and supply
-- Nuclear component manufacturing (100,000+ parts annually)
-- Plant maintenance and outage services
-- Integrated LMS service
-- User support service
-- Nuclear engineering and licensing support
-- New plant deployment and construction support
-- Innovation and advanced technology development (e.g., PWROG AI Assistant)
-- Passive safety system design
+- Nuclear reactor design and engineering
+- Nuclear plant maintenance and outage services
+- Nuclear fuel supply and engineering
+- Integrated learning management system (LMS) services
+- User support services
+- Nuclear parts manufacturing and supply
+- AP1000 Generation III+ reactor deployment
+- Advanced Donut Bolt Technology installation
+- bertha™ AI knowledge assistant for nuclear industry
 
 ## Industries
-- Nuclear power generation
-- Nuclear fuel cycle
-- Nuclear plant maintenance and services
-- Nuclear reactor design and construction
-- Energy utilities
+- Nuclear energy
+- Electric power generation
+- Nuclear technology services
+- Fusion research
+
+## Equipment
+- AP1000 pressurized water reactor
+- APX Fleet
+- bertha™ Technology
+- Advanced Donut Bolt Technology
 
 ## Certifications
 - ASME
@@ -480,22 +485,25 @@ Westinghouse positions itself as an indispensable partner for global nuclear exp
 - **Company Type:** Manufacturer
 - **Founded:** 1869
 - **Employees:** 12,500
-- **Ownership:** Private (not specified)
 - **Headquarters:** Hopkins, South Carolina
 
 <details><summary>Sources</summary>
 
-- Founded 1869 by George Westinghouse -> db, /about-us
-- Headquarters Hopkins, South Carolina -> db
-- Approximately 12,500 employees, 100+ locations, 23 countries -> /about-us
-- Technology powers 57% of world's nuclear plants, maintains nearly two-thirds of fleet, fuels 40% -> /
+- Headquartered in Hopkins, South Carolina -> db
+- Founded in 1869 by George Westinghouse -> db, /about-us
+- Approximately 12,500 employees -> /about-us
+- 100+ locations in 23 countries -> /about-us
 - Supplies over 100,000 nuclear parts annually -> db (products)
-- First commercial pressurized water reactor in 1957 -> /about-us
-- AP1000 Generation III+ reactor with passive safety -> /, /about-us
-- Services: routine maintenance, emergent issues, integrated LMS, user support -> db (capabilities)
-- Customers: Polish suppliers for Lubiatowo-Kopalino AP1000, Ringhals clevis bolt replacement, ITER vacuum vessel -> /
-- Certification: ASME -> db
-- Languages served: English, Bulgarian, Polish, Slovak, Slovenian, Czech, Swedish, French, Ukrainian, Japanese -> /
+- Technology powers 57% of world's nuclear power plants -> /
+- Maintains nearly two-thirds of world's nuclear fleet -> /
+- Fuels 40% of world's nuclear fleet -> /
+- World's first commercial pressurized water reactor in 1957 -> /about-us
+- Technology basis for approximately half of world's operating reactors -> /about-us
+- Conditional purchase orders with Polish suppliers for AP1000 at Lubiatowo-Kopalino -> /
+- Full clevis bolt replacement at Ringhals with Advanced Donut Bolt Technology -> /
+- Final ITER vacuum vessel sector delivered -> /
+- ASME certification -> db
+- Languages served: Bulgarian, Polish, English, Slovak, Slovenian, Czech, Swedish, French, Ukrainian, Japanese -> /
 </details>
 
 ---
@@ -505,24 +513,24 @@ Westinghouse positions itself as an indispensable partner for global nuclear exp
 **Old description:** Wharton Hunt is a custom contract furniture manufacturer to the trade with a focus on higher-end hospitality projects and country clubs. Based in Minneapolis, MN with production teams in Europe and Asia, our services are broad, rich in their flexibility, and able to accommodate the unique demands of high-end projects.
 
 ## About
-Wharton Hunt International operates from Minneapolis, Minnesota, where it has served the contract furniture trade for approximately 25 years. The company focuses on higher-end hospitality projects and country clubs, coordinating production through teams based in Europe and Asia. Ownership structure and founder names have not been publicly disclosed.
+Wharton Hunt International operates from Minneapolis, Minnesota. The company recently marked 25 years in business, though a specific founding year has not been disclosed. Details about ownership structure or founders are not publicly available.
 
-The firm manufactures custom hospitality furniture including casegoods, solid wood components, and metal structural elements. Its capabilities span specialty metal fabrication, custom hardware and finish programs, production-ready shop drawings, hardware placement, and integrated millwork components. Quality control and production oversight are managed in-house throughout the production lifecycle, from initial drawings to final inspections. Production management and partnership services complement the manufacturing operation.
+The firm functions as a custom contract furniture manufacturer serving the trade, with a focus on higher-end hospitality projects and country clubs. Production is coordinated from Minneapolis while manufacturing teams are based in Europe and Asia. Capabilities span solid wood component fabrication, metal structural component work, custom hardware and finish programs, production-ready shop drawings, hardware placement, integrated millwork components, and full quality control oversight through final production inspections.
 
-Wharton Hunt sells to the trade, serving interior designers, architects, and procurement specialists who specify furnishings for design-driven hospitality properties and private country clubs. Its project portfolio emphasizes luxury hotels, resorts, and club environments that demand tailored casegoods and millwork.
+Clients include design-driven hospitality properties and country clubs that specify custom casegoods and furnishings. The company works directly with designers, architects, and purchasing agents in the trade channel, delivering scaled production for projects that demand consistency and durability.
 
-The company emphasizes a process-driven approach, citing its in-house management team and detailed quality-control systems as key differentiators. Flexibility in accommodating the unique demands of high-end projects is presented as a core reason for its founding and ongoing operation.
+Wharton Hunt emphasizes a process-driven approach, pairing an experienced in-house management team with global manufacturing partners. The company cites its broad, flexible service offering and detailed quality control systems as key differentiators for accommodating the unique demands of high-end projects.
 
 ## Known for
-- In-house management team overseeing production
-- Detailed quality control throughout production lifecycle
-- Production teams in Europe and Asia
-- Flexibility for unique high-end project demands
-- Process-driven production approach
+- Global production teams in Europe and Asia
+- In-house management with detailed quality control systems
+- Flexible services tailored to high-end hospitality projects
+- Integrated millwork and metal fabrication capabilities
+- Production-ready shop drawings and hardware placement
 
 ## Capabilities
-- Hospitality furniture manufacturing
-- Specialty metal fabrication
+- Production management
+- Production partnerships
 - Solid wood component manufacturing
 - Custom hardware and finish programs
 - Production-ready shop drawings
@@ -531,35 +539,23 @@ The company emphasizes a process-driven approach, citing its in-house management
 - Quality control and production oversight
 - Final production inspections
 - Integrated millwork components
-- Production management
-- Production partnerships
-- Casegoods program engineering
+- Specialty metal fabrication
 
 ## Industries
 - Hospitality
-- Country clubs
-- Interior design trade
-- Luxury hotels and resorts
+- Country Clubs
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Headquarters:** Minneapolis, Minnesota
 
 <details><summary>Sources</summary>
 
-- Company name: Wharton Hunt International -> db
-- Headquarters: Minneapolis, Minnesota -> db
-- Business: Custom contract furniture manufacturer to the trade -> db
-- Focus: Higher-end hospitality projects and country clubs -> db
-- Production teams in Europe and Asia -> db
-- Celebrating 25 years -> /
-- Capabilities: Specialty metal fabrication, solid wood components, custom hardware and finish programs, production-ready shop drawings, hardware placement, metal structural components, quality control, final production inspections, integrated millwork components -> db
-- Services: Production management, production partnerships, casegoods programs -> db
-- In-house management team -> /
-- Detailed quality control and focused management systems -> /
-- Process-driven production team -> /
-- Flexibility to accommodate unique demands of high-end projects -> db
-- Sells to the trade (designers, architects, specifiers) -> db, /
+- Wharton Hunt is a custom contract furniture manufacturer to the trade with a focus on higher-end hospitality projects and country clubs. -> /
+- Based in Minneapolis, MN with production teams in Europe and Asia -> /
+- CELEBRATING 25 YEARS! -> /
+- Capabilities include specialty metal fabrication -> db
+- Products include solid wood components, custom hardware and finish programs, production-ready shop drawings, hardware placement, metal structural components, quality control, final production inspections, integrated millwork components -> db
 </details>
 
 ---
@@ -569,20 +565,23 @@ The company emphasizes a process-driven approach, citing its in-house management
 **Old description:** At Wheatstate Wood Design we strive to be the best in everything we do. From cabinetry to furniture, our commitment to exceptional craftsmanship ensures every piece is built to last. Your satisfaction is at the heart of what we do—we stand behind our work and are dedicated to exceeding your expectations with every project.
 
 ## About
-Wheatstate Wood Design, LLC is based in Hesston, Kansas. The company manufactures face-frame cabinetry and a range of handcrafted furniture including silverware buffets, dining tables, glider rockers, chairs, and outdoor furniture. Cabinets are built to custom specifications with a selection of premium wood species and finish options, and all pieces are produced using traditional woodworking methods. The business serves residential customers seeking custom cabinetry and furniture, though specific industry sectors or client names are not disclosed. Wheatstate Wood Design emphasizes a commitment to exceptional craftsmanship and standing behind its work, aiming to exceed customer expectations on every project.
+Wheatstate Wood Design, LLC is based in Hesston, Kansas. The company's founding date and ownership details are not publicly disclosed.
+
+The company manufactures face frame cabinets built to customer specifications, offering a variety of premium wood species and custom finish options to match style and home décor. Its furniture line includes handcrafted silverware buffets, dining tables, glider rockers, chairs, and outdoor furniture. Product descriptions emphasize meticulous construction, lasting performance, and timeless design, with each piece built to be cherished for years. The catalog also features a range of tables and seating options for indoor and outdoor use.
+
+Wheatstate Wood Design sells directly to consumers through its e-commerce website, which features a shopping cart, checkout, and continue shopping functions. The company does not publicly identify specific industrial sectors or commercial customer types; its product range suggests a focus on residential furnishings.
+
+It pledges to stand behind its work and exceed expectations on every project, with a commitment to ensuring every piece is built to last.
 
 ## Known for
-- Custom face-frame cabinetry built to specification
-- Handcrafted furniture including buffets, tables, rockers, chairs, and outdoor pieces
-- Selection of premium wood species and custom finish options
-- Commitment to exceptional craftsmanship and customer satisfaction
+- Custom finish options on face frame cabinets
+- Handcrafted construction of silverware buffets and dining tables
+- Commitment to exceptional craftsmanship and durability
 
 ## Capabilities
-- Face frame cabinet manufacturing
-- Custom furniture manufacturing
-- Wood finishing
-- Custom wood species selection
-- Handcrafted assembly
+- Custom face frame cabinetry
+- Handcrafted furniture production
+- Custom wood finishing
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -590,12 +589,14 @@ Wheatstate Wood Design, LLC is based in Hesston, Kansas. The company manufacture
 
 <details><summary>Sources</summary>
 
-- Company name: Wheatstate Wood Design, LLC -> db
-- Location: Hesston, Kansas -> db
-- Products: face frame cabinets, silverware buffets, dining tables, glider rockers, chairs, outdoor furniture -> page "/"
-- Custom specifications, premium wood species, custom finish options -> page "/"
-- Handcrafted construction -> page "/"
-- Mission: commitment to exceptional craftsmanship and customer satisfaction -> page "/"
+- Headquarters: Hesston, Kansas -> db
+- Product: Face frame cabinets with custom finish options and premium wood species -> /
+- Product: Handcrafted silverware buffets -> /
+- Product: Handcrafted dining tables -> /
+- Product: Glider rockers, chairs, outdoor furniture -> /
+- Mission statement: Strive for the best, exceptional craftsmanship, built to last, customer satisfaction -> /
+- Sales model: Direct-to-consumer e-commerce with cart and checkout -> /
+- Company type: Manufacturer of cabinetry and furniture -> /
 </details>
 
 ---
@@ -605,39 +606,42 @@ Wheatstate Wood Design, LLC is based in Hesston, Kansas. The company manufacture
 **Old description:** She started in our manufacturing facility sewing bags and running the printing presses. Because of her dedication to White Bag, she is now our Warehouse/Plant Manager. Bessie manages bag printing, inventory control and other vital operations in the warehouse. She has become a go-to source for employees. Her and her late husband James have two sons, Adam and Matthew (Tara). She also has four grandchildren Addison, Spencer, Evelyn and Anthony who is no longer with us. She attends The Bridge Church of Lonoke, AR.
 
 ## About
-White Bag Company, Inc. was founded in 1948 by Mr. White in Benton, Arkansas, where he collected used burlap bags from dairies, feed mills, and field workers while managing a Texaco service station. The operation moved to North Little Rock in 1958 and has remained a family-owned business, with the founder's descendants continuing his legacy today.
+White Bag Company, Inc. is headquartered in North Little Rock, Arkansas. Founded in 1948 by Mr. White, who began by gathering burlap bags from dairy owners, feed mills, and field workers in Benton, Arkansas, using a pickup truck. The company remains family-owned, now led by Bessie (Warehouse/Plant Manager) and her sons Adam and Matthew, continuing the founder's legacy.
 
-The company operates as a wholesaler and distributor of paper, woven polypropylene, and FIBC bulk bags, sourcing inventory from overseas factories. It also runs an in-house four-color printing press for custom bag design and printing. Recent expansions added 10,000 square feet of warehouse space in 2022 and another 18,500 square feet in 2025, bringing significant covered storage and racking capacity.
+The company operates as a wholesaler and distributor of paper bags, woven poly bags, FIBC bulk bags, and related packaging services. They import from global factories to maintain inventory and have in-house four-color printing capabilities for custom bag design and printing.
 
-White Bag serves agricultural and industrial packaging markets, with memberships in the Flexible Intermediate Bulk Container Association, the Southern Seed Association, and the Textile Bag and Packaging Association. Its customer base includes seed companies, feed mills, and other bulk-handling operations that require printed or plain bags.
+White Bag serves agricultural and industrial customers including dairy operations, feed mills, seed companies, and milling establishments. Memberships in the Flexible Intermediate Bulk Container Association, Southern Seed Association, and Textile Bag and Packaging Association reflect its focus on bulk packaging, seed packaging, and textile bag markets.
 
-The company emphasizes its founder's original commitment to product quality and customer service as its guiding principle, supplemented by a strategy of maintaining ready stock through global sourcing and offering on-site printing to shorten lead times.
+The company emphasizes customer service and product availability, rooted in Mr. White's original practice of collecting and reselling used bags. Their expansion timeline shows consistent investment in warehouse capacity and printing technology to meet customer demand.
 
 ## Known for
-- Family-owned since 1948 with multi-generational leadership
-- In-house four-color bag printing
-- Global sourcing for ready-to-ship inventory
-- Member of FIBC, Southern Seed, and Textile Bag associations
+- Global sourcing for ready inventory
+- In-house four-color bag printing and design
+- Family-owned continuity since 1948
+- Industry association memberships (FIBC, Southern Seed, Textile Bag)
 
 ## Capabilities
 - Four-color bag printing
-- Bag sewing
-- Wholesale distribution
-- Import sourcing
-- Warehousing
-- Inventory management
 - Custom bag design
+- Wholesale distribution
+- Inventory management
+- Global sourcing and importing
+- FIBC bulk bag supply
+- Paper bag supply
+- Woven polypropylene bag supply
 
 ## Industries
+- Dairy
+- Feed milling
+- Agriculture
 - Seed
-- Flexible intermediate bulk containers (FIBC)
-- Textile bag and packaging
-- Agricultural packaging
+- Milling
+- Industrial packaging
+- Bulk packaging
 
 ## Equipment
 - Four-color printer
 - Printing presses
-- Bag sewing machines
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -647,20 +651,17 @@ The company emphasizes its founder's original commitment to product quality and 
 
 <details><summary>Sources</summary>
 
+- Headquarters: North Little Rock, Arkansas -> db
 - Founded 1948 by Mr. White in Benton, Arkansas -> /about-us
-- Started gathering burlap bags from dairies, feed mills, field workers -> /about-us
-- Relocated to North Little Rock in 1958 -> /about-us
-- Family-owned, descendants continue legacy -> /about-us
-- Wholesaler and distributor of paper, woven poly, FIBC bulk bags -> /about-us
-- Import from best factories for readily available inventory -> /about-us
-- In-house four-color printer for bag design and printing -> /about-us
-- Warehouse expansion 10,000 sq ft in 2022 (Building C) -> /about-us
-- Warehouse expansion 18,500 sq ft in 2025 (Building D) -> /about-us
-- Member of Flexible Intermediate Bulk Container Association -> /about-us
-- Member of Southern Seed Association -> /about-us
-- Member of Textile Bag and Packaging Association -> /about-us
-- Manufacturing facility sewing bags and running printing presses -> db
-- Bessie as Warehouse/Plant Manager, family details -> db
+- Family-owned, led by Bessie and her sons -> /about-us, /
+- Wholesaler/distributor of paper, woven poly, FIBC bulk bags -> /about-us
+- Imports from global factories for inventory -> /about-us
+- In-house four-color printing for custom bags -> /about-us
+- Warehouse expansions: 2022 (10,000 sq ft), 2025 (18,500 sq ft) -> /about-us
+- Serves dairy, feed mills, seed companies, milling establishments -> /about-us
+- Memberships: FIBC Association, Southern Seed Association, Textile Bag and Packaging Association -> /about-us, /
+- Equipment: four-color printer, printing presses -> /about-us, /
+- Materials: paper, woven poly, burlap -> /about-us
 </details>
 
 ---

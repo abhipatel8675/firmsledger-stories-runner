@@ -7,51 +7,53 @@ _skipped: not enough facts_
 **Old description:** Our mission: “To exceed our customer’s communication needs in a professional and courteous manner.” We are dedicated to provide efficient, cost effective infrastructures with superior performance and reliability.
 
 ## About
-Cablecom, Inc. was incorporated in May 1986 in Wichita, Kansas, and has remained locally owned and operated. The company established itself in the heart of the city’s Old Town district, moving to its current location at 800 East 3rd Street in 2007, a building listed on the National Register of Historic Places. Founders are not identified in public records, but long-time principals Brad Schremmer and Joel Kelley joined the firm in 1990, followed by audio-visual specialist Gavin Shank in 2012.
+Cablecom, Inc. was incorporated in May 1986 in Wichita, Kansas, where it remains headquartered in the historic Keep Klean building in the North Old Town district. The company is locally owned and operated, beginning as a cabling services provider and expanding over the decades to include a broader range of communications infrastructure.
 
-The firm designs and installs voice, data, fiber, audio-visual, and surveillance infrastructures. Its core services include structured cabling certified to BICSI standards with manufacturers’ warranties, fiber optic installation (added in 1991), network video surveillance systems, audio-visual system design, installation, and equipment rentals, and access control solutions. Cablecom operates from a restored historic facility in North Old Town, though facility size and headcount are not disclosed.
+Today Cablecom designs and installs voice, data, fiber optic, audio-visual, and surveillance systems for commercial clients. Its services encompass structured cabling installed to BICSI standards with manufacturer warranties, scalable network video surveillance solutions, audio-visual system design, installation, and rental, and access control systems using badge credentials. The firm operates from a single Wichita facility and employs a team of technicians who receive ongoing training through BICSI membership.
 
-Cablecom serves commercial and institutional clients in the Wichita area requiring communications and security infrastructure. The company does not publish a specific industry list or named customer references in its public materials.
+The company serves businesses and organizations that need conference room upgrades, meeting space audio-visual systems, building surveillance, and access control. Typical projects include flat-panel TV installations, video conferencing suites, and networked camera systems. Cablecom's client base is concentrated in the Wichita metropolitan area, though the company does not publish a specific industry list.
 
-The company’s stated mission is to exceed customers’ communication needs in a professional and courteous manner. It differentiates itself through BICSI membership and a commitment to ongoing technician education, as well as by offering manufacturers’ warranties on cabling work and maintaining a local, owner-operated presence since its founding.
+Cablecom emphasizes adherence to BICSI standards and continuing education for its technicians as a differentiator. The company also highlights its roots in the community, noting its location in a building listed on the National Register of Historic Places. Its stated mission is to exceed customer communication needs in a professional and courteous manner while delivering efficient, cost-effective infrastructures with superior performance and reliability.
 
 ## Known for
-- BICSI-member technicians with ongoing training
-- Manufacturers' warranties on structured cabling
-- Fiber optic installation since 1991
-- Audio-visual rentals, sales, and design
-- Locally owned and operated since 1986
+- BICSI-standard structured cabling with manufacturer warranties
+- Scalable network video surveillance solutions
+- Audio-visual system design, installation, and rentals
+- Access control badge systems
+- Ongoing technician training through BICSI membership
 
 ## Capabilities
 - Structured cabling (BICSI standards)
 - Fiber optic installation
-- Network video surveillance
+- Surveillance system installation
 - Audio-visual system design and installation
-- Audio-visual equipment rentals
-- Access control systems
+- Audio-visual equipment rental
+- Access control system installation
+- Network video solutions
 
 ## Company details
 - **Company Type:** Installer / service company
 - **Founded:** 1986
 - **Ownership:** Locally owned and operated
-- **Headquarters:** Wichita, KS
+- **Headquarters:** Wichita, Kansas
 
 <details><summary>Sources</summary>
 
 - Incorporated May 1986 -> /about
-- Headquarters Wichita, KS (800 E 3rd St) -> /about
+- Headquartered in Wichita, KS -> /about
 - Locally owned and operated -> /about
-- Brad Schremmer joined 1990 -> /about
-- Joel Kelley joined 1990 -> /about
-- Gavin Shank hired 2012 -> /about
-- Structured cabling to BICSI standards with manufacturers warranties -> /services
-- Fiber optic installation started 1991 -> /about
-- Network video surveillance systems -> /services
-- Audio-visual system design, installation, rentals -> /services
-- Access control systems -> /services
-- BICSI member with ongoing technician education -> /about
-- Mission statement: exceed customer communication needs -> /
-- Historic building (Keep Klean) on National Register -> /about
+- Designs and installs voice, data, fiber, audio visual, surveillance infrastructures -> /about
+- Structured cabling to BICSI standards with manufacturer warranties -> /services
+- Surveillance systems: network video solutions scalable, innovative, affordable -> /services
+- Audio video systems: rentals, sales, design, installation -> /services
+- Access control: wide range of access badges -> /services
+- BICSI member, continuing education for technicians -> /about
+- Located in historic Keep Klean building on National Register of Historic Places -> /about
+- Mission: exceed customer communication needs professionally and courteously -> /
+- Conference room upgrades, flat panel TV installation, video conferencing suite -> /
+- Moved to present location 800 E 3rd in North Old Town 2007 -> /about
+- Brad Schremmer joined 1990, Joel Kelley joined 1990, Gavin Shank hired 2012 -> /about
+- Started installing fiberoptic after certification 1991 -> /about
 </details>
 
 ---
@@ -61,52 +63,56 @@ The company’s stated mission is to exceed customers’ communication needs in 
 **Old description:** Structured Cabling, Low Voltage & Network Infrastructure in NYC
 
 ## About
-Cables & Chips operates from New York City, where it was founded in 1982. The company began by hand‑soldering custom computer cables for local and national retailers, then expanded into structured cabling, voice and data networks, fiber optic systems, and broader low‑voltage infrastructure as technology evolved. Ownership details are not publicly disclosed.
+Cables & Chips is a low-voltage contracting firm headquartered in New York City. The company was founded in 1982, initially hand‑soldering custom computer cables for local and national retailers. Over the decades it expanded into structured cabling, fiber optics, wireless, security, and audio‑visual infrastructure for commercial environments.
 
-Today the firm designs, installs, organizes, tests, and supports the physical infrastructure behind business networks, WiFi, security, A/V, conference rooms, and server‑room environments. Its services cover structured CAT6 and CAT6a cabling, cable testing and certification, fiber optic installation and termination, VoIP infrastructure, cable cleanup and MDF/IDF organization, server rack installation, WiFi design and access‑point cabling, cellular signal boosters, conference‑room AV, CCTV and access‑control cabling, and PA/audio‑visual systems. The company does not publish facility size, headcount, or project volume figures.
+Today the firm designs, installs, organizes, tests, and supports the physical layer behind business networks. Its services cover structured CAT6 and CAT6A cabling, fiber optic installation, termination, and certification, network rack and patch‑panel build‑outs, MDF/IDF cleanup, WiFi access‑point cabling, cellular booster deployment, conference‑room AV wiring, CCTV and access‑control cabling, and VoIP infrastructure. Work is performed across New York City for offices, secure facilities, server rooms, and building upgrades.
 
-Clients include commercial offices, secure facilities, server rooms, and building‑upgrade projects across New York City. Concrete examples from the company’s project list include a corporate headquarters full network infrastructure, a data‑center retrofit and rack cleanup, a financial‑services WiFi and security upgrade, and a conference‑room AV boardroom upgrade. The firm also provides field support for IT consultants, managed service providers, contractors, and internal technology teams.
+Clients include corporate headquarters, financial‑services firms, data‑center operators, and multi‑tenant commercial landlords. The company also provides field‑execution support for IT consultants, managed‑service providers, and technology contractors who need licensed low‑voltage labor on site.
 
-Cables & Chips emphasizes clean, documented work, licensed and insured operations, and on‑time, on‑budget delivery. It positions its work as infrastructure that is easy to service, expand, and troubleshoot, with organized racks, proper labeling, and tested connections that support future technology upgrades.
+Cables & Chips emphasizes clean, documented installations — labeled cables, certified test reports, organized racks — so that infrastructure remains serviceable and scalable. It promotes a no‑obligation site survey, licensed and insured crews, and a track record of completing projects on time and on budget.
 
 ## Known for
-- Clean, documented work
-- Licensed and insured
-- On time and on budget
-- Commercial environment expertise
-- Professional support
+- Free, no‑obligation site surveys with fast NYC response
+- Licensed and insured low‑voltage contractor
+- Clean, labeled, and certified cabling with documentation
+- 40+ years of continuous NYC experience
+- Field support for IT consultants and MSPs
 
 ## Capabilities
 - Structured CAT6 cabling
-- Structured CAT6a cabling
+- Structured CAT6A cabling
 - Cable testing and certification
 - Fiber optic installation
 - Fiber optic termination
 - Fiber optic testing
-- VoIP infrastructure installation
-- Cable cleanup and organization
+- Network rack installation
+- Patch panel organization
 - MDF/IDF cleanup
-- Server rack installation
-- WiFi design and access point cabling
+- Cable cleanup and abatement
+- Abandoned cable removal
+- WiFi access point cabling
+- WiFi design
 - Cellular signal booster installation
+- VoIP infrastructure cabling
 - Conference room AV installation
-- CCTV and access control cabling
-- A/V installation
+- CCTV cabling
+- Access control cabling
 - PA audio visual installation
 - IT partner field support
+- Server room organization
+- Cable labeling
+- Cable routing
+- Network certification reporting
 
 ## Industries
 - Commercial offices
 - Secure facilities
-- Server rooms
+- Server rooms / data centers
 - Building upgrades
 - Financial services
-- Data centers
 - Corporate headquarters
-- IT consulting
-- Managed service providers
-- Contractors
-- Technology teams
+- IT consulting / managed services
+- Technology contractors
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -115,12 +121,21 @@ Cables & Chips emphasizes clean, documented work, licensed and insured operation
 
 <details><summary>Sources</summary>
 
-- Founded 1982 -> db, /about-us
-- Headquarters New York, NY -> db
-- Services: structured cabling, fiber, WiFi, security, A/V -> /, /services
-- Industries: commercial offices, secure facilities, server rooms, building upgrades, financial services, data centers, corporate headquarters -> /, /about-us
-- Differentiators: clean documented work, licensed and insured, on time and on budget -> /
-- Company began hand-soldering computer cables -> /about-us
+- Founded 1982 -> /about-us
+- Headquartered in New York, NY -> db
+- Licensed and insured -> /
+- 40+ years experience -> /
+- Services: structured CAT6/CAT6A cabling, fiber optic installation, testing, etc. -> /services
+- Industries served: commercial offices, secure facilities, server rooms, building upgrades -> /
+- IT partner support for MSPs, consultants -> /services
+- Clean, documented work -> /about-us
+- Free consultation, no obligation, fast NYC response -> /
+- Hand-soldering computer cables origin -> /about-us
+- Projects: financial services WiFi and security upgrade, corporate headquarters, data center retrofit -> /
+- Cable certification reports -> /services
+- WiFi design and cellular booster installation -> /services
+- Conference room AV and PA installation -> /services
+- CCTV and access control cabling -> /services
 </details>
 
 ---
@@ -130,19 +145,19 @@ Cables & Chips emphasizes clean, documented work, licensed and insured operation
 **Old description:** Cadillac Products is an internationally-recognized leader in the plastics converting industry.
 
 ## About
-Cadillac Products Automotive Company, headquartered in Troy, Michigan, traces its roots to 1942 when M.P. Williams, a partner in the Cadillac Bookbinding Company, founded Cadillac Bag Company to fulfill a defense packaging program for Chrysler during World War II. The business remains fourth-generation family-owned and managed, with the Williams family still directing operations across multiple Michigan facilities and a plant in Schertz, Texas.
+Cadillac Products Automotive Company (CPAC) is headquartered in Troy, Michigan, with additional plants in Rogers City and Roseville, Michigan, and Schertz, Texas. The business traces its roots to 1942, when M.P. Williams founded Cadillac Bag Company to fulfill a World War II defense packaging program for Chrysler. Now in its fourth generation of family ownership and management, the company has evolved from a packaging supplier into a plastics-converting specialist for the automotive sector.
 
-The company converts plastics into protective, acoustical, and water-shield components for vehicle interiors, exteriors, and underbody applications. Its integrated manufacturing includes cast and blown film extrusion, robotic adhesive dispensing, in-house prototyping, custom injection molding, automated assembly, thermoforming and cold forming, die and water-jet cutting, and a certified test laboratory. Proprietary product lines such as SOUNDLOC™ acoustic barriers and FIBERSORB™ fiber mats are produced across facilities that together employ roughly 225 people and generate annual sales exceeding $50 million.
+CPAC designs, develops, and manufactures protective plastic parts, exterior and interior acoustical components, and door water shields. Its integrated operations cover cast and blown film extrusion, robotic adhesive application, custom injection molding, thermoforming and cold forming, die and water-jet cutting, assembly of pads and fibers, and in-house testing. The company employs approximately 225 people across its facilities and reports annual sales exceeding $50 million.
 
-Primary customers are automotive OEMs and tier-one suppliers, including General Motors, Ford, Stellantis (formerly Chrysler), Nissan, and Magna. Programs have covered door watershields, dash mats, transmission shields, wheel liners, and energy-absorption bumper systems. During the COVID-19 pandemic the company also applied its converting expertise to medical gown production.
+The primary customer base is the automotive industry, including General Motors, Ford, Stellantis (formerly FCA), Nissan, and tier-one suppliers such as Magna. CPAC has also applied its converting expertise to medical gown manufacturing through its ProTEC-USA division.
 
-Founded to meet urgent wartime needs, Cadillac Products emphasizes full vertical integration under one roof, 100% U.S.-based production, and rapid prototyping that can verify concepts in days. The family ownership model is cited as a driver of long-term customer dedication and operational continuity.
+The company emphasizes a “one-stop-shop” model, keeping all processes under one roof and producing 100% American-made products from start to finish. Its in-house prototyping capability can verify proof-of-concept in days, and its quality systems are certified to IATF 16949 and ISO 14001 across multiple sites.
 
 ## Known for
-- 100% American-made production from raw material to finished part
-- All manufacturing processes integrated under one roof
-- In-house prototyping delivering proof-of-concept in days
-- Automation robotics across extrusion, adhesive application, and assembly
+- 100% American-made from start to finish
+- All manufacturing processes operated under one roof
+- In-house prototyping delivers proof-of-concept verification in days
+- Facilities certified to IATF 16949:2016 and ISO 14001:2015
 - Annual sales exceeding $50 million
 
 ## Capabilities
@@ -151,36 +166,35 @@ Founded to meet urgent wartime needs, Cadillac Products emphasizes full vertical
 - Robotic adhesive application
 - In-house prototyping and design
 - Custom injection molding
-- Automated assembly (pads, fibers, foams to substrates)
+- Assembly of pads, fibers, and foams
 - Thermoforming
 - Cold forming
 - Steel rule die cutting
-- Water jet cutting (robotic)
-- In-house testing laboratory
-- FIBERSORB™ AC (thermoset resin impregnated fiber mat)
-- FIBERSORB™ WL (synthetic shoddy fiber mat for wheel liners)
+- Water jet cutting
+- In-house testing (third-party certified lab)
+- FIBERSORB AC (thermoset resin impregnated fiber mat)
+- FIBERSORB WL (synthetic shoddy fiber mat for wheel liners)
 - Molded fiber (PET or shoddy fibers)
-- FIBERSORB™ ACB (<130°C synthetic shoddy fiber mat)
-- SOUNDLOC™ (filled EVA acoustic resin)
+- FIBERSORB ACB (synthetic shoddy fiber mat <130°C)
+- SOUNDLOC (filled EVA acoustic resin)
 - Die cutting (flat PET, PP, cotton shoddy fiber)
-- FIBERSORB™ GL (thermoset impregnated mat with glass fiber)
-- SOUNDLOC-Seal™ (EVA barrier with fiber decoupler, patented seal technology)
+- FIBERSORB GL (thermoset impregnated fiber mat with glass fiber)
+- SOUNDLOC-Seal (EVA barrier with fiber decoupler, patented seal technology)
 - Thin wall hybrid molding (variable thickness injection molding)
-- FIBERSORB™ NF (impregnated mat with natural fibers)
-- CONTROL FLOW-SL (dissipative multi-layer hard shell acoustical product)
-- Polyethylene barrier (air, dust, moisture barrier)
+- FIBERSORB NF (impregnated mat with natural fibers)
+- CONTROL FLOW-SL (dissipative multi-layer acoustical product)
+- Polyethylene extrusion (air, dust, moisture barrier)
 
 ## Industries
 - Automotive
 - Medical
 
 ## Equipment
-- Polyethylene cast film extruder
+- Polyethylene cast film extruder (Fabricon)
 - Injection molding machines
-- Robotic adhesive dispensing systems
+- Robotic adhesive dispensing tools
 - Water jet cutting robots
 - Automation robotics
-- In-house testing laboratory equipment
 
 ## Certifications
 - IATF 16949:2016
@@ -191,23 +205,23 @@ Founded to meet urgent wartime needs, Cadillac Products emphasizes full vertical
 - **Company Type:** Manufacturer
 - **Founded:** 1942
 - **Employees:** approximately 225
-- **Ownership:** Family-owned
+- **Ownership:** Family-owned (fourth-generation)
 - **Headquarters:** Troy, Michigan
 
 <details><summary>Sources</summary>
 
-- Headquarters in Troy, Michigan -> db
-- Founded 1942 by M.P. Williams -> /about-us
-- Fourth-generation family-owned and managed -> /about-us, /
-- Approximately 225 employees -> /about-us
+- Founded 1942 as Cadillac Bag Company by M.P. Williams -> /about-us
+- Fourth-generation family-owned and managed -> /about-us
+- Headquarters in Troy, Michigan -> /
+- Approximately 225 employees across locations -> /about-us
 - Annual sales exceed $50 million -> /capabilities
-- Certifications: IATF 16949:2016, ISO 14001:2015, ISO 45001:2018 -> /about-us
-- Processes: extrusion, adhesive application, prototyping, injection molding, assembly, forming, die cutting, water jet cutting, testing -> /capabilities
-- Products: SOUNDLOC™, FIBERSORB™, door watershields, acoustical parts -> /about-us, /capabilities
-- Customers: General Motors, Ford, Stellantis, Nissan, Magna -> /about-us
-- Medical gown manufacturing during COVID-19 -> /, /capabilities
-- Polyethylene cast film extruder purchased from Fabricon -> /about-us
-- LinkedIn URL -> db
+- Certifications: IATF 16949:2016, ISO 14001:2015, ISO 45001:2018 at multiple sites -> /about-us
+- Processes: extrusion, adhesive application, injection molding, thermoforming, cold forming, die cutting, water jet cutting, assembly, testing -> /capabilities
+- Products: protective plastic parts, acoustical components, door water shields, SOUNDLOC, FIBERSORB -> /capabilities
+- Industries served: automotive (GM, Ford, Stellantis, Nissan, Magna), medical gown manufacturing -> /about-us, /capabilities
+- Locations: Troy, Rogers City, Roseville, Schertz -> /, /about-us
+- In-house prototyping with proof-of-concept in days -> /capabilities
+- 100% American-made, all processes under one roof -> /capabilities
 </details>
 
 ---
@@ -217,26 +231,22 @@ Founded to meet urgent wartime needs, Cadillac Products emphasizes full vertical
 **Old description:** Thanks for stopping by our Website! CaiE Foods was founded in 2010 by CaiE George. CaiE has a great love for cooking Chinese Food and her secret dim sum recipe helped inspire the made-from-scratch, mouthwatering dim sum products available in the industry today.
 
 ## About
-CaiE Foods is based in Sparks, Nevada, and was founded in 2010 by CaiE George. The company began from George's passion for cooking Chinese food, particularly a secret dim sum recipe that became the foundation of its product line. George's love for Chinese cuisine drove the creation of a business centered on authentic, handcrafted dim sum.
+CaiE Foods was founded in 2010 by CaiE George in Sparks, Nevada. George's passion for cooking Chinese food and a secret dim sum recipe led to the creation of the company's made-from-scratch dim sum products.
 
-The company specializes in made-from-scratch dim sum products, producing a range of handcrafted Chinese food items inspired by George's original recipe. The product line includes traditional dim sum varieties made using fresh ingredients and traditional techniques. Details on facility size, headcount, or production volumes are not publicly disclosed.
+The company manufactures dim sum items from scratch. The available information does not specify the facility size, employee count, production volumes, or specific manufacturing processes beyond the made-from-scratch approach.
 
-CaiE Foods serves the food manufacturing and food service sectors, supplying dim sum products to distributors, retailers, and restaurant operators. The company's offerings target the broader market for Chinese cuisine and dim sum. Specific customer names or industry verticals beyond Chinese cuisine are not provided.
+CaiE Foods operates in the food manufacturing sector, producing dim sum for the market. The input does not list specific industries served or customer types.
 
-The business was built on George's secret dim sum recipe and a commitment to made-from-scratch preparation, which the company says distinguishes its products in the market. The focus on authentic, mouthwatering dim sum reflects the founder's original vision.
+The business was started to share George's secret dim sum recipe with the industry, driven by her passion for Chinese cooking.
 
 ## Known for
-- Secret dim sum recipe
-- Made-from-scratch production
-- Authentic Chinese dim sum focus
+- Made-from-scratch dim sum products
+- Secret dim sum recipe as product foundation
 
 ## Capabilities
 - Dim sum manufacturing
-- Made-from-scratch food production
-
-## Industries
-- Food manufacturing
-- Food service
+- Food production
+- Recipe development
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -245,10 +255,11 @@ The business was built on George's secret dim sum recipe and a commitment to mad
 
 <details><summary>Sources</summary>
 
-- Founded in 2010 by CaiE George -> db
-- Headquartered in Sparks, Nevada -> db
-- Produces made-from-scratch dim sum products -> db
-- Secret dim sum recipe inspiration -> db
+- Founded in 2010 -> db
+- Founder CaiE George -> db
+- Headquarters Sparks, Nevada -> db
+- Produces made-from-scratch dim sum -> db
+- Website caiefoods.com -> db
 </details>
 
 ---
@@ -258,33 +269,31 @@ The business was built on George's secret dim sum recipe and a commitment to mad
 **Old description:** Authentic Cajun Food from the Heart of Southern Louisiana’s Cajun Country
 
 ## About
-Cajun Original Foods, Inc. was founded in 1988 in New Iberia, Louisiana, the heart of Cajun Country. The company operates a USDA- and FDA-inspected plant where it produces a line of traditional Cajun foods.
+Cajun Original Foods, Inc. was founded in 1988 in New Iberia, Louisiana, the heart of the state's Cajun Country. The company began as a venture built on recipes handed down through generations, aiming to bring authentic Cajun flavors to a wider audience.
 
-The product lineup includes boudin balls, boudin sausage, boudin party links, pistolettes, Cajun pies, and a range of sauces. The company also offers private-label manufacturing for other brands. All items are made using family recipes passed down through generations, with meat products carrying USDA certification and sauces and seafood items under FDA oversight. The facility has been in operation for over 38 years.
+The company operates a USDA- and FDA-inspected production facility in New Iberia where it manufactures a range of traditional items including boudin balls, boudin sausage, boudin party links, pistolettes, Cajun pies, and a line of sauces. The plant has over 38 years of continuous operation, and the business also offers private-label manufacturing for other brands.
 
-The company serves the foodservice, retail, and private-label sectors, supplying authentic Cajun products to customers seeking regional flavors. While specific client names are not disclosed, the business model centers on co-packing and branded distribution.
+Cajun Original Foods supplies its products through retail and online channels such as Cajun Grocer, LA Crawfish, and Creole Food, reaching consumers across Louisiana and beyond. Its private-label service allows other food companies to market authentic Cajun items under their own labels, serving both retail and food-service customers.
 
-Cajun Original Foods emphasizes its heritage recipes and the balance of flavor—“not bland, but not too hot”—as its defining difference. The company was built on preserving authentic Cajun taste rather than chasing mass-market heat levels.
+The company distinguishes itself by adhering strictly to original Cajun family recipes, emphasizing that its products are "not bland, but not too hot." This commitment to authenticity, combined with federal inspection certifications, forms the core of its value proposition.
 
 ## Known for
-- Authentic Cajun family recipes passed down over time
-- USDA-inspected meat products and FDA-inspected sauces and seafood
-- Over 38 years of continuous production in New Iberia, LA
-- Private-label co-packing capabilities
-- Products described as “not bland, but not too hot”
+- Authentic Cajun family recipes passed down over generations
+- USDA-inspected meat production
+- FDA-inspected sauce and seafood production
+- Over 38 years of continuous operation in New Iberia
+- Private-label manufacturing capabilities
 
 ## Capabilities
-- Boudin Balls
-- Boudin Sausage
-- Boudin Party Links
-- Pistolettes
-- Cajun Pies
-- Sauces
-- Private Label
-
-## Certifications
-- USDA inspected
-- FDA inspected
+- Boudin ball production
+- Boudin sausage production
+- Boudin party link production
+- Pistolettes production
+- Cajun pie production
+- Sauce production
+- Private label manufacturing
+- USDA-inspected meat processing
+- FDA-inspected sauce and seafood processing
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -293,15 +302,16 @@ Cajun Original Foods emphasizes its heritage recipes and the balance of flavor�
 
 <details><summary>Sources</summary>
 
-- Founded in 1988 -> db
-- Headquarters in New Iberia, Louisiana -> db
-- Produces boudin balls, boudin sausage, boudin party links, pistolettes, Cajun pies, sauces -> db
-- Offers private label manufacturing -> db
-- USDA-inspected meat products -> db
-- FDA-inspected sauces and seafood -> db
-- Over 38 years of experience -> db
-- Family recipes passed down -> db
-- Products described as not bland but not too hot -> db
+- Founded 1988 -> db
+- Headquarters New Iberia, Louisiana -> db
+- Product categories: boudin balls, boudin sausage, boudin party links, pistolettes, Cajun pies, sauces, private label -> db
+- USDA-certified and inspected meat products -> /
+- FDA certified and inspected sauces and seafood items -> /
+- Over 38 years of experience making products in New Iberia plant -> /
+- Private label manufacturing -> db
+- Sales channels: Cajun Grocer, LA Crawfish, Creole Food -> /
+- Products made using true Cajun family recipes passed down over time -> /
+- Authenticity claim: 'not bland, but not too hot' -> /
 </details>
 
 ---
@@ -311,42 +321,42 @@ Cajun Original Foods emphasizes its heritage recipes and the balance of flavor�
 **Old description:** Resistance Welding Technologies, Cables, Shunts & Accessories - Division of CAL Manufacturing, Inc
 
 ## About
-Cal Manufacturing, Inc. operates from Vicksburg, Michigan. The woman-owned company has over 50 years of experience in resistance welding technologies, though a specific founding year is not publicly stated. Cheryl Benson serves on the board of trustees overseeing daily operations, sales, and marketing, while Russ Hayward manages the plant with a background in welding and millwright work.
+Cal Manufacturing operates from Vicksburg, Michigan, where it has served the resistance welding industry for over half a century. The company is woman-owned and functions as a division of CAL Manufacturing, Inc., though the founding year and original founders are not publicly disclosed.
 
-The company manufactures a range of resistance welding products including air-cooled and water-cooled jumpers, dual-conductor "Kickless" cables, the patented Swivel King kickless cable, induction furnace cables, and copper laminated shunts. It also produces cable adapters, busbars, and water-cooled cable adapters using CNC machining for higher tolerances. Additional services include cable repair and rebuilding, recycling, and custom cable design for robotic welding applications.
+The company manufactures a range of resistance welding products including air-cooled and water-cooled jumpers, dual-conductor "Kickless" cables, the patented Swivel King kickless cable, induction furnace cables, and copper laminated shunts. It also provides cable repair and rebuilding services, recycling, and custom cable design supported by CNC machining for adapters, busbars, and water-cooled cable adapters. Facility size, headcount, and annual volumes are not published.
 
-Cal Manufacturing serves the automotive industry, supplying OEMs, distributors, and Tier I, II, and III companies, with a growing presence in Mexico for export. Its products are also used in the broader resistance welding and robotics welding markets, where the company emphasizes industrial cable management to reduce failure rates.
+Primary customers include automotive OEMs, Tier I, II, and III suppliers, and distributors, with a noted presence in Mexico for export to the automotive sector. The company also serves the robotics welding market, supplying industrial cable management for robotic spot welders and resistance welders.
 
-The company differentiates itself through expedited shipping programs offering same-day or next-day delivery on stocked items, a patented Swivel King cable that allows 180-degree rotation with minimal force, and a commitment to inspecting and testing every product before shipment. Founded on the principle of being a complete cable supplier, Cal Manufacturing aims to turn customer emergencies into its own priority.
+Cal Manufacturing differentiates itself with expedited shipping programs offering same-day or next-day delivery on most stocked items, a cable repair and rebuilding service, the ability to cross-reference competitor part numbers, and a patented Swivel King cable that allows weld heads to twist 180 degrees with minimal force. The company emphasizes quality inspection on every product and adherence to automotive quality standards.
 
 ## Known for
-- Same-day or next-day shipping on stocked parts
-- Expedited delivery programs for same-day or two-day turnaround
-- Patented Swivel King cable for robotic welding (180° twist with 15 lbs pressure)
+- Same-day or next-day shipping on most stocked products
+- Expedited delivery programs for same-day or two-day shipping
 - Cable repair and rebuilding service with recycling
-- Woman-owned with over 50 years in resistance welding
+- Patented Swivel King cable for robotic welding applications
+- Cross-referencing of competitor part numbers
 
 ## Capabilities
+- Resistance welding cable manufacturing
 - Cable repair and rebuilding
 - Recycling services
 - CNC machining
 - Custom cable design
+- Copper laminated shunt manufacturing
+- Electrode design and production
 - Industrial cable management
 - Robotic cable management
-- Electrode design and production
-- Copper laminated shunt fabrication
-- Shank and gun arm fabrication
-- Cable adapter manufacturing
-- Busbar manufacturing
-- Water-cooled cable adapter manufacturing
-- Expedited shipping programs
-- Quality inspection and testing
+- Swivel King cable production
+- Expedited shipping
+- Cross-referencing competitor parts
+- Reconditioned parts supply
 
 ## Industries
-- Automotive
 - Resistance welding
+- Automotive (OEM, Tier I, II, III)
 - Robotics welding
 - Industrial manufacturing
+- Distribution
 
 ## Certifications
 - Woman-owned
@@ -358,18 +368,18 @@ The company differentiates itself through expedited shipping programs offering s
 
 <details><summary>Sources</summary>
 
-- Location: Vicksburg, Michigan -> /
+- Location: Vicksburg, MI -> db
 - Woman-owned certification -> db
-- Over 50 years experience in resistance welding technologies -> /
-- Products: air-cooled jumpers, water-cooled jumpers, dual-conductor kickless cables, Swivel King kickless cables, induction furnace cables, copper laminated shunts -> /
-- CNC machining for higher tolerances -> /
-- Cable repair and rebuilding service, recycling services -> /
-- Expedited shipping: same day or next day delivery -> /
-- Patented Swivel King cable for robotic welding -> /
-- Serves automotive OEMs, distributors, Tier I, II, III; presence in Mexico -> /
-- Cheryl Benson - Board of Trustees, daily operations, sales, marketing -> /
-- Russ Hayward - Plant Manager -> /
-- All products inspected and tested prior to shipping -> /
+- Over 50 years experience in resistance welding -> /
+- Products: air-cooled jumpers, water-cooled jumpers, dual-conductor kickless cables, Swivel King, induction furnace cables, copper laminated shunts -> /
+- Services: cable repair and rebuilding, recycling, custom cable design, CNC machining -> /
+- Industries: automotive OEMs, Tier I/II/III, distributors, robotics welding -> /
+- Expedited shipping: same-day/next-day, two-day programs -> /
+- Patented Swivel King cable -> /
+- Cross-referencing competitor part numbers -> /
+- Quality inspection and automotive standards -> /
+- Presence in Mexico for export -> /
+- Key personnel: Russ Hayward (Plant Manager), Cheryl Benson (Board of Trustees) -> /
 </details>
 
 ---
@@ -379,29 +389,32 @@ The company differentiates itself through expedited shipping programs offering s
 **Old description:** None
 
 ## About
-Calgreg Electronics operates from Warwick, Rhode Island, where founder Robert Mazzeo established the business to address a gap he saw in the electronics supply chain. Mazzeo recognized that manufacturers needed more than just component delivery—they required rapid engineering support, inventory management, and a suite of value-added services from a single distribution partner.
+Calgreg Electronics operates from Warwick, Rhode Island, where it was founded by Robert Mazzeo. The company began with a focus on providing the electronics industry with rapid electrical and mechanical engineering support through a distribution partner that could manage inventory and deliver a broad range of value-added services.
 
-The company distributes a broad line of electronic and electromechanical components—interconnects, thermal management products, wedge-loks, rugged card guides, enclosures, and enclosure hardware—while also providing in-house design, testing, and assembly services. Its value-added portfolio includes vendor-managed inventory programs, electrical and mechanical design, electrical testing, thermal management design and validation, and supply-chain management leveraging a network of Asian suppliers.
+The firm distributes electronic and electromechanical components, electronic packaging products, and related hardware such as interconnects, thermal management solutions, wedge-loks, rugged card guides, enclosures, and enclosure hardware. Beyond distribution, Calgreg offers vendor-managed inventory, electrical and mechanical design, electrical testing, thermal management design and testing, supply chain management leveraging an Asian supplier network, and assembly services.
 
-Calgreg serves the electronics industry, supporting original equipment manufacturers and contract manufacturers that need both standard catalog parts and customized engineering solutions. The firm’s vendor-managed inventory and design capabilities are aimed at customers looking to reduce procurement overhead and accelerate product development cycles.
+Its customer base consists of electronics manufacturers and other companies requiring quick-turn engineering support and supply-chain management for electromechanical components. The company positions itself as a partner for businesses that need both product availability and technical expertise in areas such as thermal management and electrical design.
 
-The company’s differentiation rests on combining distribution with technical services that are typically sourced separately. By integrating design, test, and thermal analysis under one roof, Calgreg aims to give customers “tactically quick” engineering support while managing inventory risk through its Asian supply network. and global divisions.
+Mazzeo started the business after recognizing that the electronics industry lacked distributors capable of combining inventory infrastructure with in-house engineering talent. and global operations as a marker of its quality management approach.
 
 ## Known for
+- Stocking distributor with immediate inventory availability
+- Value-added services including design, testing, and assembly
 - Vendor Managed Inventory (VMI) programs
-- Electrical and mechanical design services
-- Thermal management design and testing
-- Supply management with Asian supplier network
+- Supply chain management with an extensive Asian supplier network
 
 ## Capabilities
-- Electromechanical component distribution
-- Electronic packaging product distribution
-- Value-added assembly
-- Design services (electrical and mechanical)
-- Electrical testing
-- Thermal management design and testing
+- Electromechanical distribution
 - Vendor Managed Inventory (VMI)
-- Supply chain management with Asian suppliers
+- Electrical design
+- Mechanical design
+- Electrical testing
+- Thermal management design
+- Thermal management testing
+- Supply chain management
+- Assembly
+- Design services
+- BGA heatsink design
 
 ## Industries
 - Electronics
@@ -415,15 +428,18 @@ The company’s differentiation rests on combining distribution with technical s
 
 <details><summary>Sources</summary>
 
-- Distributor of electronic and electromechanical components -> /
-- Value-added services including design, testing, and assembly -> /
-- ISO 9001:2015 certified (USA and Global) -> /
-- Founder Robert Mazzeo -> /about
-- Vendor Managed Inventory (VMI) -> /about
-- Electrical and mechanical design services -> /about
-- Thermal management design and testing -> /about
+- Headquarters in Warwick, Rhode Island -> db
+- Founded by Robert Mazzeo -> /about
+- Distributor of electronic and electromechanical components and electronic packaging products -> /
+- Value-added services: design, testing, assembly -> /
+- ISO 9001:2015 certified (USA and Global) -> /, /about
+- Offers Vendor Managed Inventory (VMI) -> /about
+- Provides electrical and mechanical design, electrical testing, thermal management design and testing -> /about
 - Supply management with Asian supplier network -> /about
-- Headquarters Warwick, Rhode Island -> db
+- Product categories: Interconnects, Thermal Management & Power Products, Wedge-loks, Rugged Card Guides & Accessories, Enclosures, Enclosure Hardware -> /
+- Stocking Distributor -> /
+- BGA Heatsinks as a value-added service -> /
+- Company type: Distributor -> /
 </details>
 
 ---
@@ -433,42 +449,43 @@ The company’s differentiation rests on combining distribution with technical s
 **Old description:** We craft custom gates, steel doors, and railings — crafted for lasting strength, clean welds, and a perfect fit.
 
 ## About
-Cali-Fabworks was founded in 2001 in Anaheim, California, and operates from a facility on East Miraloma Avenue. The company is led by CEO Bryan Rios and focuses on architectural metal fabrication for both residential and commercial clients.
+Cali-Fabworks was founded in 2001 in Anaheim, California, and operates from a facility on East Miraloma Avenue. The company is led by CEO Bryan Rios and specializes in architectural metal fabrication for residential and commercial clients across Orange County.
 
-The shop produces custom gates, steel and glass doors, railings, bar cabinets, shelving, fireplace doors, and other bespoke metalwork. Its in-house process covers design, fabrication, powder coating with baked zinc primer, metallization, and installation. The company serves Orange County and surrounding cities including Newport, Laguna, Orange, Tustin, and Irvine.
+The shop produces custom gates, steel and glass doors, railings, and specialty metalwork such as bar cabinets, shelving, and fireplace doors. Its in-house process covers design, fabrication, powder coating with baked zinc primer and optional metallization, and installation. The team works with steel, aluminum, wrought iron, and tempered or double-pane glass, delivering finished pieces that range from modern pivot doors to ornamental fences.
 
-Customers range from homeowners seeking custom entry gates and interior railings to businesses needing storefront doors, office partitions, and commercial stair railings. Recent projects include exterior entry doors, sliding and French doors, pivot doors, and aluminum gates for rust protection.
+Projects serve homeowners, businesses, and storefronts in communities including Newport Beach, Laguna, Orange, Tustin, and Irvine. The company handles both residential staircases and commercial spaces, providing end-to-end service without subcontractors.
 
-Cali-Fabworks emphasizes a quality control system backed by a 100% satisfaction guarantee, precision craftsmanship by certified professionals, on-time delivery, and the use of premium materials for weather-resistant results. The company highlights direct local service without middlemen as a core differentiator.
+Cali-Fabworks emphasizes a direct client relationship, a 100% satisfaction guarantee, and certified craftsmanship. The firm highlights its use of premium materials, on-time delivery, and a quality control system as key differentiators.
 
 ## Known for
-- Quality control system with 100% satisfaction guarantee
-- Precision craftsmanship by certified professionals
-- On-time delivery with efficient project management
-- Premium materials for long-lasting, weather-resistant results
-- Direct local service with no middlemen
+- Full in-house design, fabrication, and installation with no middlemen
+- Baked zinc primer and powder coat finishes, plus metallization option
+- 100% satisfaction guarantee backed by a quality control system
+- Local service across Orange County and surrounding cities
+- Custom steel, aluminum, and glass doors, gates, and railings
 
 ## Capabilities
 - Custom metal fabrication
 - Architectural metalwork
+- Custom gate fabrication (steel, aluminum, wrought iron)
+- Steel door fabrication (exterior entry, interior glass, sliding, French, pivot)
+- Steel and glass door fabrication
+- Custom railing fabrication (steel)
+- Custom metal work (bar cabinets, shelving, fireplace doors)
 - Design and engineering
-- Fabrication
-- Powder coating (baked zinc primer)
+- Welding and metal forming
+- Powder coating (baked zinc primer, custom colors)
 - Metallization
 - Installation
-- Custom gates
-- Steel and glass doors
-- Railings
-- Bar cabinets
-- Shelving
-- Fireplace doors
+- Project management
 
 ## Industries
-- Residential
-- Commercial
-- Architectural
-- Retail storefronts
-- Office spaces
+- Architectural metalwork
+- Residential construction
+- Commercial construction
+- Storefronts
+- Office interiors
+- Outdoor living
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -477,18 +494,18 @@ Cali-Fabworks emphasizes a quality control system backed by a 100% satisfaction 
 
 <details><summary>Sources</summary>
 
-- Founded 2001 -> db
-- Headquarters Anaheim, CA -> db
+- Founded in 2001 -> db
+- Headquarters at 2788 East Miraloma Avenue, Anaheim, CA -> /
 - CEO Bryan Rios -> /about-us
-- Services: custom gates, steel doors, railings -> /
-- Processes: design, fabrication, powder coat, installation -> /
-- Materials: steel, glass, aluminum -> /services
-- Industries: residential, commercial -> /services
+- Custom gates, steel doors, railings, and custom metal work -> /
+- Steel & glass doors, aluminum gates, wrought iron gates -> /
+- Process: design, fabrication, powder coat (baked zinc primer, powder coat, metallization), installation -> /
+- Materials: steel, aluminum, glass (double-pane, tempered), wrought iron -> /, /services
+- Service areas: Newport, Laguna, Orange, Tustin, Irvine -> /services
 - License #1113402 -> /
-- Address 2788 E Miraloma Ave -> /
-- Quality control system, 100% satisfaction guarantee -> /about-us
+- 100% satisfaction guarantee, quality control system -> /about-us
+- No middlemen, direct design-to-installation -> /services
 - On-time delivery, premium materials, custom solutions -> /
-- Local service no middlemen -> /services
 </details>
 
 ---
@@ -498,35 +515,44 @@ Cali-Fabworks emphasizes a quality control system backed by a 100% satisfaction 
 **Old description:** Today that means themed environments, decorative arts, and specialty millwork — for restaurants, attractions, studios, and brands. East Los Angeles since 2017.
 
 ## About
-Calico Design Manufacturing, LLC was founded in 2017 in East Los Angeles, California. The studio operates from Los Angeles, serving the local community and a broader client base.
+Calico Design Manufacturing, LLC was founded in 2017 in Los Angeles, California. The studio operates from East Los Angeles, serving the local community and broader client base with themed fabrication and scenic arts.
 
-The company specializes in themed environments, decorative arts, and specialty millwork. Its capabilities span scenic arts — including gold leaf gilding, hand-lettered signage, scenic finishes, and patinas — and specialty fabrication such as panel-goods processing, multi-axis CNC routing and carving, solid-wood machining, and full finishing. The studio also produces bespoke, one-of-a-kind objects for brands and showrooms. All work is managed in-house from design and engineering through final delivery.
+The company produces themed environments, decorative arts, and specialty millwork — the hero pieces a space is remembered for. Its two core disciplines run under one roof: scenic arts, covering gold leaf and gilded glass, hand-lettered signage and murals, scenic finishes and patinas, plus art direction and graphic design; and specialty fabrication, delivering themed elements, sculptural pieces, and specialty millwork with in-house design and engineering, multi-axis CNC carving, and full finishing. The shop also handles panel-goods processing, CNC routing, solid-wood carving, and solid-wood machining for bespoke, one-of-a-kind commissions.
 
-Calico serves clients in hospitality, entertainment, and retail, with project experience for restaurants, hotels, theaters, attractions, studios, and brands. The firm applies craft traditions from film and television set construction to permanent installations.
+Calico serves restaurants, hotels, theaters, attractions, studios, and brands across hospitality, retail, and entertainment sectors. Clients include hospitality venues needing both scenic painting and millwork, entertainment studios requiring sculptural pieces, and retail brands seeking custom installations.
 
-The company distinguishes itself by combining scenic artistry and precision millwork under a single team, project management process, and design sensibility, eliminating the need for clients to coordinate separate vendors. It also commits to responding to project inquiries with a realistic timeline within 48 hours.
+The studio differentiates itself by combining scenic artistry and precision fabrication in a single team with one project management process and design sensibility, eliminating the need for clients to coordinate separate vendors. The company emphasizes hand-applied craft traditions from film and television sets applied to permanent installations.
 
 ## Known for
-- Scenic arts and specialty millwork integrated under one team and project management
-- In-house design, engineering, and multi-axis CNC carving
-- Hand-applied craft traditions from film and television set construction
-- Quote response with realistic timeline typically within 48 hours
+- Two disciplines under one roof: scenic arts and specialty millwork
+- Single team, project management, and design sensibility
+- In-house design and engineering with multi-axis CNC carving
+- Hand-applied craft traditions (gilding, hand lettering, scenic finishes) combined with precision fabrication
+- Quote response typically within 48 hours
 
 ## Capabilities
-- Gold leaf gilding
-- Gilded glass fabrication
+- Scenic finishing
+- Gilding
 - Hand lettering
-- Scenic finishes and patinas
+- Gold leaf application
+- Gilded glass
+- Hand-lettered signage
+- Murals
+- Scenic finishes
+- Patinas
 - Art direction
 - Graphic design
 - Panel goods processing
 - CNC routing
 - Multi-axis CNC carving
-- Solid-wood machining
 - Solid-wood carving
+- Solid-wood machining
+- Specialty millwork
+- Themed element fabrication
+- Sculptural piece fabrication
+- In-house design and engineering
 - Full finishing
-- Bespoke object design and fabrication
-- Integrated project management
+- Bespoke object fabrication
 
 ## Industries
 - Restaurants
@@ -544,20 +570,20 @@ The company distinguishes itself by combining scenic artistry and precision mill
 - CNC router
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Founded:** 2017
 - **Headquarters:** Los Angeles, California
 
 <details><summary>Sources</summary>
 
 - Founded 2017 -> db
-- Headquarters Los Angeles, California -> db
-- Services: scenic arts, specialty fabrication, bespoke objects -> /
-- Processes: panel goods processing, CNC routing, solid-wood carving, scenic finishing, gilding, hand lettering, multi-axis CNC carving -> /
-- Industries: restaurants, hotels, theaters, attractions, studios, brands, hospitality, retail, entertainment -> /
-- Differentiator: two disciplines one team, shared project management and design sensibility -> /
-- Quote response within 48 hours -> /
-- Instagram @calico.dmfg -> /
+- Headquarters Los Angeles, CA -> page /
+- Services: scenic arts, specialty fabrication, bespoke objects -> page /
+- Industries served: restaurants, hotels, theaters, attractions, studios, brands, hospitality, retail, entertainment -> page /
+- Processes: scenic finishing, gilding, hand lettering, gold leaf, gilded glass, murals, patinas, art direction, graphic design, panel goods processing, CNC routing, multi-axis CNC carving, solid-wood carving, solid-wood machining, specialty millwork, themed element fabrication, sculptural piece fabrication, in-house design and engineering, full finishing -> page /
+- Two disciplines one team -> page /
+- Quote response within 48 hours -> page /
+- Instagram handle @calico.dmfg -> page /
 </details>
 
 ---

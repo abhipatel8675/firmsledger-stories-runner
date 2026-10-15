@@ -1,0 +1,636 @@
+# MFG Supply
+
+**Old description:** For the best experience on our site, be sure to turn on Javascript in your browser.
+
+## About
+MFG Supply is based in Medford, Wisconsin, and traces its roots to 1963 when Manufacturer's Supply began as a family-owned mail-order catalog selling small engine parts at fair prices. The business remains in the hands of the founding family, now in its third generation.
+
+The company operates as a distributor of replacement parts for powersports and outdoor power equipment. Its inventory exceeds 21,000 part numbers, covering snowmobiles, ATVs, go-karts, motorcycles, personal watercraft, lawnmowers, chainsaws, snowblowers, and trimmers. Tens of thousands of items are stocked in a warehouse that enables worldwide shipping, with the e-commerce site launching in 1996.
+
+Customers include individual equipment owners, repair shops, and dealers seeking components for brands across the snowmobile, ATV, motorcycle, and small-engine markets. The catalog spans categories such as clutches, electrical components, suspension parts, drive sprockets, and carburetor kits.
+
+The business was started to provide affordable small-engine parts through a mail-order model, and it continues to emphasize a broad selection at competitive prices with rapid order fulfillment from its own stock.
+
+## Known for
+- Family-owned and operated for over 60 years
+- 21,000+ part numbers in stock
+- Worldwide shipping from owned warehouse
+- Third-generation family ownership
+- E-commerce platform since 1996
+
+## Capabilities
+- Mail-order catalog sales
+- E-commerce parts distribution
+- Warehousing and order fulfillment
+- Worldwide shipping
+
+## Industries
+- Snowmobile
+- ATV
+- Go-Kart
+- Mini Bike
+- Motorcycle
+- Personal Watercraft
+- Lawnmower
+- Small Engine
+- Chainsaw
+- Snowblower
+- Trimmer
+- Trailer
+- Outdoor Power Equipment
+- Powersports
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Founded:** 1963
+- **Ownership:** Family-owned
+- **Headquarters:** Medford, Wisconsin
+
+<details><summary>Sources</summary>
+
+- Founded in 1963 -> /about-us
+- Family-owned and operated -> /about-us, /
+- Third-generation family ownership -> /about-us
+- 21,000+ parts in stock -> /
+- Tens of thousands of parts stocked in warehouse -> /about-us
+- Ships worldwide -> /about-us
+- Launched website in 1996 -> /about-us
+- Headquarters in Medford, Wisconsin -> db
+- Product categories (Snowmobile, ATV, Go-Kart, etc.) -> /, db
+</details>
+
+---
+
+# MGI Apparel Solution. B2B Apparel Manufacture - Seamless - Cut and Sew - Socks - Contract Embroidery.
+
+**Old description:** Since 1999, MGI has been dedicated to producing high-quality apparel. Each project is meticulously designed and manufactured in Largo, FL, USA. We are committed to delivering the best results for our clients.
+
+## About
+MGI Apparel Solutions was founded in 1999 in Largo, Florida, and has operated from the same location since its inception. The company designs and manufactures all projects in its Largo facility, serving clients across the United States with a focus on domestic production.
+
+The company provides a range of apparel manufacturing services, including cut-and-sew private label production, seamless knitting using in-house Santoni technology (added in 2001), and sock manufacturing covering compression and athletic styles from no-show to crew lengths. It also offers contract embroidery on hats, uniforms, towels, and shirts, high-volume repair and rework for inventory issues such as incorrect straps or labels, and high-volume label change services using dedicated sewing equipment. Seamless products span undergarments, swimwear cover-ups, activewear, and sportswear in sizes S through 4X for men, women, and children.
+
+MGI serves apparel brands and private-label customers across activewear, sportswear, swimwear, undergarment, and sock categories. Its embroidery and rework services have supported Tampa Bay-area businesses for over three decades, while its relationships with apparel industry manufacturers give it access to current materials and trends. The company also handles soft goods correction at scale for brands needing inventory remediation.
+
+MGI emphasizes Made-in-USA manufacturing and continuous research into new manufacturing technologies and market trends to deliver contemporary products. It cites quick turnaround on rework orders and in-house control of seamless knitting, sock production, and embroidery as factors that differentiate its service offering.
+
+## Known for
+- In-house Santoni seamless knitting technology since 2001
+- In-house development and production of private-label compression and athletic socks
+- Contract embroidery services with over 30 years of experience in the Tampa Bay area
+- High-volume repair and rework with quick turnaround for inventory issues
+- High-volume label change capabilities using latest sewing equipment
+
+## Capabilities
+- Cut-and-sew manufacturing
+- Seamless knitting (Santoni technology)
+- Sock manufacturing (compression, athletic)
+- Contract embroidery
+- High-volume repair and rework
+- High-volume label changes
+- Private label apparel production
+- Soft goods correction
+
+## Industries
+- Apparel
+- Activewear
+- Sportswear
+- Swimwear
+- Undergarments
+- Socks
+- Uniforms
+- Towels
+- Hats
+
+## Equipment
+- Santoni seamless knitting machines
+- Sewing equipment for label application
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1999
+- **Headquarters:** Largo, Florida
+
+<details><summary>Sources</summary>
+
+- Founded 1999 in Largo, FL -> db
+- Uses Santoni seamless knitting technology introduced 2001 -> /
+- In-house sock manufacturing for compression and athletic socks -> /
+- Contract embroidery services for over 30 years in Tampa Bay -> /
+- High-volume repair and rework for more than three decades -> /
+- High-volume label changes with latest sewing technology -> /
+- Made in USA manufacturing -> /
+- Produces sizes S to 4X for men's, women's, children's apparel -> /
+- Strong relationships with apparel industry manufacturers -> /
+- Researches products based on current trends and new manufacturing technologies -> /
+</details>
+
+---
+
+# MJ Motorsports
+
+**Old description:** Wow great place. Has all the latest aftermarket products. I came in with a stock Tacoma, he treated us with aloha and despite a line out the door, we never felt rushed. We purchased some blacked out badges for $75. We will be back for wheels and a rack! Thanks for the great customer service!!
+
+## About
+MJ Motorsports operates from Waipahu, Hawaii, as a retail destination for aftermarket automotive accessories. The shop specializes in parts and upgrades for Toyota trucks and SUVs, including the Tacoma, 4Runner, and Tundra. The business presents itself as a one-stop shop for owners looking to modify their vehicles for off-road use, camping, or daily driving.
+
+The company stocks a range of categories: lighting, wheels, off-road armor, interior and exterior accessories, camping and outdoor gear, suspension and performance components, detailing products, and branded merchandise under the MJ Merch label. Inventory is organized by vehicle generation, covering the third- and fourth-generation Tacoma (2016–2022 and 2024), fifth-generation 4Runner (2010–2022), and second- and third-generation Tundra (2022). The site also offers gift cards for purchasers.
+
+Customers include off-road enthusiasts, overland travelers, and daily drivers looking to customize their Toyotas. The shop’s product selection targets owners seeking lighting upgrades, wheel and tire packages, armor protection, and suspension lifts, as well as detailing supplies for vehicle maintenance. One review notes purchasing blacked-out badges and planning to return for wheels and a roof rack, indicating a repeat-customer base.
+
+## Capabilities
+- Aftermarket automotive accessory retail
+- Vehicle-specific product fitment (Toyota Tacoma, 4Runner, Tundra)
+- Detailing product supply
+- Branded merchandise sales
+
+## Industries
+- Automotive aftermarket
+- Off-road accessories
+- Camping and outdoor accessories
+- Automotive detailing
+
+## Company details
+- **Company Type:** Retailer
+- **Headquarters:** Waipahu, Hawaii
+
+<details><summary>Sources</summary>
+
+- Location: Waipahu, Hawaii -> db
+- Product categories: Lighting, Wheels, Off-Road Armor, Interior Accessories, Exterior Accessories, Camping/Outdoor Accessories, Suspension and Performance, Gift Cards, MJ Merch, Detailing Products -> page /
+- Shop by vehicle: 3rd Gen Tacoma (2016-2022), 4th Gen Tacoma 2024, 5th Gen 4Runner (2010-2022), 2nd & 3rd Gen Tundra 2022 -> page /
+- Customer review: purchased blacked out badges for $75, plans for wheels and rack -> page /
+- Customer review: great customer service, fast service, owner cares about products -> page /
+- Customer review: honest hard working humble, treat you like family -> page /
+- Detailing product instructions: dilute one part product up to four parts water, do not use as clay lubricant -> page /
+</details>
+
+---
+
+# MKR Fabricators
+
+**Old description:** Since 1987, MKR Fabricators has been a full-service fabrication and machining shop. We routinely work with
+
+## About
+MKR Fabricators was founded in 1987 in Saginaw, Michigan, and has operated as a full-service fabrication and machining shop since its inception.
+
+The company occupies a 65,000-square-foot facility equipped for heavy fabrication, including a 650-ton press brake, high-definition plasma cutting (11 ft × 33 ft), horizontal and vertical bandsaws, and plate rolling capacity up to 2.25 inches thick by 120 inches wide. Welding processes include certified AWS code welding, submerged arc welding via an 18 ft × 14 ft Lincoln manipulator, flux-core, and hard-wire welding. The shop also provides on-site painting and delivery.
+
+MKR serves clients in automotive, chemical processing, containers, dredging, energy, environmental, food systems, mining, and sugar processing. Named customers include Baltimore Dredges LLC, CEOC Environmental, Excel Foundry & Machine Inc., FLSmidth Minerals, LFG Specialties–CB&I, the Michigan Department of Transportation, Terex Corporation, Wabash Power Equipment Company, and Williams Patent Crusher.
+
+The company emphasizes precise solutions delivered on time, highlighting its strong reputation for rolling abilities and the capacity to handle fabrications from 10 to 100,000 pounds with plate thicknesses up to eight inches.
+
+## Known for
+- 65,000 sq ft fabrication facility
+- Up to 50 tons (50,000 lbs) lifting capacity
+- Plate rolling up to 2.25″ thick × 120″ wide
+- AWS certified welding with submerged arc capability
+- Prototype to medium-scale production volumes
+
+## Capabilities
+- Heavy fabrication
+- CNC machining
+- CNC boring
+- CNC milling
+- Horizontal boring
+- Radial drilling
+- Plate rolling
+- Press brake forming
+- Plate bending
+- High-definition plasma cutting
+- Bandsaw cutting
+- Submerged arc welding
+- Flux-core welding
+- Hard-wire welding
+- AWS certified welding
+- Pre-bow warping correction
+- On-site painting
+- Delivery
+
+## Industries
+- Automotive
+- Chemical processing
+- Containers
+- Dredging
+- Energy
+- Environmental
+- Food systems
+- Mining
+- Sugar processing
+
+## Equipment
+- Hypertherm True Hole Technology high-definition plasma cutter (11 ft × 33 ft)
+- 650-ton press brake
+- HELLER 4-roll plate roll (2.25″ × 120″)
+- SAWYER plate roll (1/2″ × 60″)
+- DAVI 4-roll plate roll (1/2″ × 96″)
+- BERTSCH plate roll (1/2″ × 192″)
+- MAF R51508 horizontal boring machine (X=330″ Y=84″)
+- G60-TX horizontal boring machine (X=120″ Y=60″)
+- Horizontal boring machines
+- Radial drills
+- 78″ rotary table
+- Shuttle table
+- Lincoln 18 ft × 14 ft submerged arc welding manipulator
+- Horizontal bandsaws
+- Vertical bandsaws
+
+## Certifications
+- AWS Certified Welding
+- American Welding Society (AWS)
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 1987
+- **Headquarters:** Saginaw, Michigan
+
+<details><summary>Sources</summary>
+
+- Founded 1987 -> db
+- Headquarters Saginaw, Michigan -> db
+- 65,000 sq ft facility -> /
+- Industries served (automotive, chemical processing, containers, dredging, energy, environmental, food systems, mining, sugar processing) -> /
+- Client list (Baltimore Dredges LLC, CEOC Environmental, Excel Foundry & Machine Inc., FLSmidth Minerals, LFG Specialties–CB&I, Michigan Department of Transportation, Terex Corporation, Wabash Power Equipment Company, Williams Patent Crusher) -> /
+- Equipment list (plasma cutter, press brake, plate rolls, boring machines, radial drills, rotary table, shuttle table, welding manipulator, bandsaws) -> /capabilities
+- Welding certifications (AWS certified, submerged arc) -> /capabilities
+- Lead time (4-5 weeks, rush available) -> /capabilities
+- Volume range (prototype to medium scale, 10-100,000 lbs) -> /capabilities
+- Materials stocked (A-36, stainless, AR 400, thickness ranges) -> /capabilities
+</details>
+
+---
+
+# MN Haven Furniture
+
+**Old description:** We're glad you're here. We specialize in building modern & farmhouse style furniture to do one thing - give you precious time with your most prized possession - your family.  Handcrafted in Alexandria, MN.
+
+## About
+MN Haven Furniture operates from Alexandria, Minnesota, where it handcrafts modern and farmhouse-style furniture. The company was established to give families more time together through pieces built to last generations.
+
+The shop produces dining tables, round tables, chairs, and benches, with every piece made to order. Customers can specify dimensions, choose from three standard hardwood species, and select from a range of stains, paints, and finishes. The workshop 4W SW handles all fabrication and finishing in-house.
+
+The furniture serves residential customers looking for custom dining and living-room pieces. Homeowners with non-standard spaces or specific aesthetic preferences make up the core clientele; each order begins as a custom inquiry.
+
+The company emphasizes timeless design—its classic farmhouse styles are intended to remain relevant for decades—and highlights the use of real premium hardwoods and a fully customizable process as its primary differentiators.
+
+## Known for
+- Handcrafted in Alexandria, Minnesota
+- 100% custom sizing, wood species, and finish options
+- Real premium hardwoods with three standard species
+- Stain, paint, and finish customization
+- Custom inquiries welcome for unique designs
+
+## Capabilities
+- Custom furniture manufacturing
+- Woodworking
+- Finishing (stain, paint, clear coat)
+- Custom sizing and dimensioning
+- Wood species selection
+- Custom finish matching
+
+## Industries
+- Residential furniture
+- Home furnishings
+- Custom furniture
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Alexandria, Minnesota
+
+<details><summary>Sources</summary>
+
+- Location: Alexandria, Minnesota -> db (hq_city, hq_state_label)
+- Handcrafted modern & farmhouse furniture -> / (homepage description)
+- Custom sizing, wood species, finishes -> / (homepage steps)
+- Shop address: 7737 County Road 4W SW Alexandria, MN 56308 -> / (homepage)
+- Three standard wood species -> / (homepage)
+- Stain, paint, finish options -> / (homepage)
+- Custom inquiries welcome -> / (homepage)
+- Timeless design claim -> / (homepage)
+</details>
+
+---
+
+# MOONEYES HAWAII (Hot Rod Parts, Accessories and Apparel) OPEN WEEKENDS & Order ONLINE.
+
+**Old description:** Discover our selection of MOONEYES goods, featuring exclusive Hawaii items available online.
+
+## About
+MOONEYES Hawaii operates from Honolulu, Hawaii, where it has served as an authorized dealer for the MOONEYES brand since 2007. The business began under the name Pacific Rod and Street, initially as an online store supplying authentic MOONEYES apparel, accessories, and automotive products to hot rod enthusiasts in Hawaii and beyond.
+
+The company retails a full line of MOONEYES merchandise, including exclusive Hawaii-designed apparel, decals, diecast models, aluminum fuel tanks, MOON disc wheel covers, and various speed parts. After years of online-only sales, it opened a weekend-only brick-and-mortar shop in Liliha in 2017, later relocating to a larger showroom in Kaimuki Town that more than doubled the retail space. The Kaimuki location features checkered floors and a hot rod garage atmosphere, while the online store operates 24/7.
+
+Customers include hot rod and custom car builders, collectors, and automotive culture fans both locally and worldwide. The shop has become a gathering point for Hawaii's hot rod community, and its exclusive Honolulu-themed designs have proven popular among visitors and enthusiasts alike.
+
+The venture was launched to bring the legendary MOONEYES brand directly to Hawaii's hot rod community, filling a gap for authentic merchandise and creating a hub for island-style automotive culture.
+
+## Known for
+- Authorized MOONEYES dealer since 2007
+- Exclusive Hawaii-designed apparel and merchandise
+- Showroom in Kaimuki with classic hot rod garage atmosphere
+- Online store available 24/7
+- Serves hot rod enthusiasts worldwide from Honolulu
+
+## Capabilities
+- Authorized MOONEYES distribution
+- Retail sales of hot rod parts and apparel
+- E-commerce fulfillment
+- Exclusive merchandise design
+- Showroom operation
+
+## Industries
+- Hot rod and custom car
+- Automotive aftermarket
+- Collectibles
+- Automotive culture
+
+## Company details
+- **Company Type:** Retailer
+- **Founded:** 2007
+- **Headquarters:** Honolulu, Hawaii
+
+<details><summary>Sources</summary>
+
+- Founded 2007 as authorized MOONEYES dealer -> db, /about-us
+- Headquarters Honolulu, Hawaii -> db, /about-us
+- Original business name Pacific Rod and Street -> /about-us
+- Started as online store offering complete line of authentic MOONEYES apparel, accessories, automotive products -> /about-us
+- Expanded to retail sales through Ron's Performance Center -> /about-us
+- Opened weekend-only brick-and-mortar shop in Liliha in 2017 -> /about-us
+- Relocated to Kaimuki Town, more than doubling showroom space -> /about-us
+- Showroom features checkered floors and hot rod garage atmosphere -> /about-us
+- Sells exclusive Hawaii-designed apparel, decals, diecast, aluminum fuel tanks, MOON disc wheel covers, speed parts -> /about-us, /
+- Online store operates 24/7 -> /about-us
+- Serves hot rod and custom car enthusiasts, collectors, worldwide -> /about-us
+- Exclusive Honolulu t-shirts with MOON Eyes logo -> /about-us
+- Store hours: Sat/Sun 9am-3pm -> /about-us
+- Store address: 1132-D Koko Head Avenue, Honolulu, HI 96816 -> /about-us
+</details>
+
+---
+
+# MPC Design Technologies, Inc.
+
+**Old description:** MPC Design Technologies, Inc. in Albuquerque, New Mexico offers
+
+## About
+MPC Design Technologies, Inc. operates from Albuquerque, New Mexico. The company was founded by a seasoned designer who, after being passed over for a promotion in 1990, decided to start his own business. Since inception, the firm has expanded its team across all departments to deliver the quality products and customer service required in the electronics industry.
+
+The company provides end-to-end custom circuit board production solutions, including schematic capture, PCB design and layout, quick-turn prototyping, fabrication management through stateside partners, full turn-key assembly (both manual and automated), cable and harness assembly, electro-mechanical enclosure integration, and comprehensive supply chain management with full or partial turn-key procurement. MPC imposes no minimum or maximum quantity on fabricated boards, supporting both rapid prototyping and high-volume production runs.
+
+MPC serves customers in commercial automatic test equipment (ATE), industrial electronics, and military high-reliability Class 3 applications. Its design team has experience across ATE, industrial, and military high-reliability Class 3 boards, and the firm’s ITAR registration and vetted American supply chain make it a partner for defense-related programs.
+
+MPC differentiates itself as the only circuit board design-to-production firm in the greater Southwest, offering a firm fixed price for all services and emphasizing time and cost efficiency. The founder’s original motivation—to control his own destiny after a denied promotion—still underpins a culture of flexibility and capability to meet unique project needs.
+
+## Known for
+- Only circuit board design-to-production firm in the greater Southwest
+- No minimum or maximum PWB fabrication quantity
+- ITAR-registered with fully vetted American suppliers
+- ISO 9001 certified and IPC-A-610/J-STD-001 compliant assembly
+- Firm fixed pricing on all services
+
+## Capabilities
+- Schematic capture
+- PCB design and layout
+- Quick-turn prototyping
+- PWB fabrication management
+- Electro-mechanical assembly
+- Full turn-key PCB assembly
+- Manual and automated assembly
+- Cable, wire and harness assembly
+- Electro-mechanical enclosure integration
+- Supply chain management
+- Full turn-key parts procurement
+- Consignment inventory management
+- Materials management
+- BOM audit
+- Counterfeit component detection
+- Kit verification
+
+## Industries
+- Commercial ATE
+- Industrial
+- Military High Reliability
+
+## Certifications
+- ITAR
+- ISO 9001
+- IPC-A-610 Class I/II/III
+- J-STD-001 Class I/II/III
+- Pro-STD-001
+- NIST 800-171
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Headquarters:** Albuquerque, New Mexico
+
+<details><summary>Sources</summary>
+
+- Headquarters in Albuquerque, New Mexico -> /
+- Founder started company after being passed over for promotion in 1990 -> /about-us
+- Offers custom circuit board production solutions including design, PCB layout, fabrication management, assembly, procurement -> /
+- No minimum or maximum PWB fabrication quantity -> /services
+- ITAR registered, ISO-9001 certified, IPC member -> /about-us
+- Complies with IPC-A-610 Class I, II, III and J-STD-001 Class I, II, III -> /about-us
+- Serves commercial ATE, industrial, military high reliability Class 3 -> /
+- Only circuit board design to production firm in greater Southwest -> /services
+- Firm fixed price for all services -> /services
+- Full turn-key procurement with BOM audit and counterfeit detection -> /
+- Assembly team IPC-certified biannually -> /quality
+- LinkedIn URL -> db
+</details>
+
+---
+
+# MPI Exhaust Technologies
+
+**Old description:** The MPI Patented Pulse Chamber is designed to eliminate unwanted in-cab drone while maintaining excellent exhaust flow for maximum performance. By ...
+
+## About
+MPI Exhaust Technologies was founded in 2018 in Molt, Montana, a small community in the state’s south-central region. The company presents itself as “Proudly Built in Montana” and references “40 Years Exhaust Innovation,” suggesting the founders brought decades of prior experience to the venture, though individual founders are not named on the site. Ownership structure is not disclosed.
+
+The company designs and manufactures performance exhaust systems for late-model trucks and SUVs. Its product line includes cat-back dual exhaust kits, side-exit and turndown systems, and stainless steel exhaust tips. The core technology is a patented pulse chamber intended to eliminate in-cab drone while preserving exhaust flow for horsepower gains. All components carry a limited three-year warranty, with stainless steel products covered by a limited lifetime warranty. No facility size, headcount, or annual volume figures are published.
+
+MPI’s applications target the Ford F‑150 (2021‑2026) and the Jeep Gladiator (2020‑2026 3.6L), offering both side-exit and stock-exit configurations. The Gladiator Bullnose series is engineered to maintain maximum ground clearance. Customers are primarily automotive enthusiasts and aftermarket retailers seeking bolt-on performance upgrades.
+
+The company emphasizes its Montana-based production and factory-direct support as differentiators. The patented pulse chamber is promoted as a unique solution that removes drone without relying on restrictive baffles, a claim rooted in the team’s stated four decades of exhaust development experience.
+
+## Known for
+- Patented pulse chamber eliminates in-cab drone without restrictive baffles
+- Limited lifetime warranty on stainless steel components
+- Designed for maximum ground clearance on Jeep Gladiator applications
+- Factory-direct support from Montana facility
+- Proudly manufactured in Montana, USA
+
+## Capabilities
+- Exhaust system design and manufacturing
+- Patented pulse chamber engineering
+- Stainless steel fabrication
+- Vehicle-specific fitment development
+- Cat-back exhaust configurations
+- Side-exit exhaust configurations
+- Turndown exhaust configurations
+- Exhaust tip production
+
+## Industries
+- Automotive aftermarket
+- Light truck performance parts
+- SUV performance parts
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 2018
+- **Headquarters:** Molt, Montana
+
+<details><summary>Sources</summary>
+
+- Founded 2018 in Molt, Montana -> db
+- Proudly Built in Montana -> /
+- 40 Years Exhaust Innovation -> /
+- Patented pulse chamber eliminates in-cab drone -> description (db) and /
+- Limited 3-Year Warranty on all Components -> /
+- Stainless Products are Limited lifetime Warranty -> /
+- Applications for Ford F-150 2021-2026 and Jeep Gladiator 2020-2026 -> /
+- Designed to maintain maximum ground clearance for Gladiator Bullnose -> /
+- Factory Support -> /
+</details>
+
+---
+
+# MSP Manufacturing
+
+**Old description:** Since 1943, MSP Manufacturing has been solving high-stakes challenges for the defense, armory, aviation, and medical industries.
+
+## About
+MSP Manufacturing operates from Bloomington, Indiana, where it was founded in 1943 by machinists focused on avionics and defense work. The company has remained multi-generational, passing from father to son, and in 2020 Johnny Goode — an Army National Guard veteran with a background in SWAT and law enforcement — became president, steering the shop toward modern automation while retaining its legacy craftsmanship.
+
+The shop provides precision machining, 5-axis milling, 6-axis turning with live tooling, fabrication, welding, mil-spec coating, assembly, and inspection under one roof. Its equipment includes 3- and 5-axis CNC mills with pallet changers, a 6-axis lathe, CMMs, and an AI-assisted CAM system that cuts programming time by up to 80%. Work ranges from single prototypes to production runs in aluminum, steel, brass, titanium, plastics, and Inconel, all tracked through ProShop ERP for full traceability.
+
+MSP serves defense, armory, aviation, medical, and contract-manufacturing customers. Its parts have flown on programs for Boeing, Curtiss-Wright, Bell Helicopter, Gulfstream, and Honeywell, and it supports defense startups and OEMs such as Simtek, Freedom Aero Service, and Ripcord Industries.
+
+The company emphasizes “tight tolerances, zero drama, and people who care,” positioning itself as a partner for high-stakes, high-spec work rather than the largest shop. Veteran-led leadership, in-house finishing and assembly, and a culture of accountability are cited as differentiators.
+
+## Known for
+- Veteran-led, multi-generational ownership
+- In-house full process: machining, fabrication, coating, assembly, inspection
+- AI-assisted CAM programming reducing programming time by up to 80%
+- 5-axis machining with pallet changers for complex parts
+- Mil-spec and industrial-grade coatings applied in-house
+- Serialized part tracking and full traceability via ProShop ERP
+- First Article Inspection Reports (FAIR) and Certificate of Conformance with every delivery
+
+## Capabilities
+- 3-axis CNC milling
+- 5-axis CNC milling
+- 6-axis lathe with live tooling
+- Prototype and production runs
+- Multi-material machining (aluminum, steel, brass, titanium, plastics, Inconel)
+- Structural welding (aluminum and steel)
+- Fabrication of brackets, enclosures, mounts
+- Surface preparation and masking to paint spec
+- Mil-spec and industrial-grade coating application
+- Mechanical subassembly
+- Hardware installation (torque to spec)
+- Product labeling and packaging
+- Custom kitting and internal part grouping
+- Light electromechanical builds
+- In-process inspection
+- Final inspection with CMM and manual checks
+- First Article Inspection Reports (FAIR)
+- Serialized part tracking
+- ProShop ERP traceability
+- Certificate of Conformance (COC)
+- CAM Assist AI toolpathing
+
+## Industries
+- Defense
+- Armory
+- Aviation
+- Medical
+- Contract manufacturing
+
+## Equipment
+- 3-axis CNC milling machines
+- 5-axis CNC milling machines with pallet changers
+- 6-axis lathe with live tooling
+- Coordinate measuring machines (CMMs)
+- ProShop ERP system
+- CAM Assist AI tool
+- Inkjet part-marking systems
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 1943
+- **Ownership:** Veteran-led, family-owned
+- **Headquarters:** Bloomington, Indiana
+
+<details><summary>Sources</summary>
+
+- Founded 1943 in Bloomington, Indiana -> db, /about
+- Veteran-led, multi-generational (father to son) -> /about
+- Johnny Goode became president in 2020, Army National Guard veteran -> /about
+- Services: precision machining, 5-axis, fabrication, painting, assembly, inspection -> /, /services
+- Equipment: 3/5-axis CNC mills, 6-axis lathe, pallet changers, CMMs, ProShop ERP, CAM Assist AI -> /services
+- Materials: aluminum, steel, brass, titanium, plastics, Inconel -> /services
+- Industries: defense, armory, aviation, medical, contract -> /, /about
+- Customers: Boeing, Curtiss-Wright, Bell Helicopter, Gulfstream, Honeywell, Simtek, Freedom Aero Service, Ripcord Industries -> /about, /, industries_served
+- Award: Conexus Indiana Manufacturing Innovation Award at TechPoint Mira Awards (May 5, 2026) -> /
+- In-house heat treatment, coating, assembly workflows -> capabilities, products
+- FAIR, COC, serialized tracking -> /services
+- Ownership tags: veteran-owned, family-owned -> /about
+</details>
+
+---
+
+# MTC Kitchen
+
+**Old description:** Buy 3+ Get 20% off New Recyclable PET Clear Blue Takeout Trays
+
+## About
+MTC Kitchen operates from New York, New York, tracing its origins to 1926. The company has served as a long-standing source for Japanese culinary tools and ingredients for nearly a century, though the founding family or individuals are not identified in public records.
+
+The business distributes a curated selection of Japanese-made products for professional kitchens. Its catalog spans handcrafted knives and sharpening stones, Hasegawa cutting boards and scrapers, stainless-steel mise en place pans, konro grills made from diatomaceous earth, and consumables such as binchotan and ogatan charcoal, premium rice, artisanal soy sauce, and dashi packs. It also stocks recyclable PET takeout containers in case quantities. MTC Kitchen functions as a specialized distributor rather than a manufacturer, sourcing from established Japanese brands including Takesan, Hasegawa, and Tada Philosophy.
+
+Primary customers are food-service operations — ramen shops, yakitori joints, sushi bars, and broader restaurant groups — that seek authentic Japanese equipment and ingredients. The company promotes bulk pricing for food-service accounts and offers free ground shipping on knife and sharpening orders over $100, as well as free shipping on full-case takeout tray orders.
+
+The company positions itself as the official MTC Kitchen store, emphasizing quick customer response and easy product discovery. No explicit founding mission or differentiation statement beyond service speed and product authenticity is provided in the available materials.
+
+## Known for
+- Free ground shipping on knives and sharpening stones over $100
+- Free shipping on case quantities of takeout trays
+- Bulk discounts for food-service customers
+- Quick customer response times
+
+## Capabilities
+- Distribution of Japanese chef knives and sharpening stones
+- Distribution of restaurant supplies and dinnerware
+- Distribution of Japanese food ingredients (charcoal, rice, soy sauce, dashi)
+- Distribution of takeout containers and packaging
+- Food-service bulk sales and pricing
+
+## Industries
+- Food service
+- Restaurant industry
+- Hospitality
+- Culinary arts
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Founded:** 1926
+- **Headquarters:** New York, NY
+
+<details><summary>Sources</summary>
+
+- Founded 1926 -> db
+- Headquarters New York, NY -> db
+- Official MTC Kitchen store -> /
+- Sells Japanese knives, restaurant supplies, dinnerware -> /
+- Offers free shipping on knives/sharpening stones over $100 -> /
+- Offers free shipping on case takeout trays -> /
+- Bulk discounts for food service customers -> /
+- Carries Hasegawa cutting boards, Takesan soy sauce, Tada Philosophy dashi -> /
+- Serves food service customers, restaurants, yakitori joints -> /
+- Quick customer response claimed -> /
+</details>
+
+---

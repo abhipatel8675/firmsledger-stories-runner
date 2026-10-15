@@ -3,35 +3,30 @@
 **Old description:** At Dominion Steel, welding is more than a trade — it’s a craft. Every spark reflects our commitment to excellence, safety, and integrity. From custom fabrication to complex structural steel erection, our welders are the backbone of the quality and reliability that define our company.
 
 ## About
-Founded in 1994 in Fredericksburg, Virginia, Dominion Steel began as a small fabrication shop and has grown into a full-service steel center serving Virginia, Maryland, and the District of Columbia. The company has operated continuously for nearly three decades, establishing itself as a regional leader in structural steel fabrication and erection.
+Dominion Steel LLC operates from a 35,000-square-foot fabrication facility in Fredericksburg, Virginia. The company traces its roots to 1994, when it began as a small fabrication shop and has since grown into a full-service steel center serving Virginia, Maryland, and the District of Columbia.
 
-Dominion Steel operates a 35,000-square-foot fabrication facility equipped with modern tooling and an on-site quality assurance team. The company provides turnkey structural steel services — estimating, detailing, fabrication, and erection — along with miscellaneous metal fabrication in stainless steel and aluminum, welding, structural coating, and railing and gate systems. This integrated approach allows the firm to control quality, scheduling, and cost across projects ranging from single components to multi-story structural systems.
+The firm provides turnkey structural steel solutions, handling estimating, detailing, fabrication, and erection in-house. Its capabilities span commercial structural steel, miscellaneous metal fabrication (including stainless steel and aluminum), welding, structural coating, and custom railings and gates. An on-site quality assurance team monitors production from raw material to finished assembly.
 
-The company serves general contractors, architects, engineers, and developers across education, healthcare, entertainment, government, and commercial sectors. Its portfolio includes schools, healthcare facilities, entertainment venues, and government buildings throughout the Mid-Atlantic region.
+Dominion Steel serves general contractors, architects, engineers, and developers across education, healthcare, entertainment, government, and commercial sectors. Projects range from school buildings and hospitals to entertainment venues and government facilities, with the company noting a willingness to take on complex jobs that other shops decline.
 
-Dominion Steel emphasizes a culture of integrity, safety, and accountability, with a mission to build lasting partnerships through exceptional client experiences. Leadership highlights the firm's willingness to tackle complex, difficult projects that other shops decline, backed by a dedicated team of fabrication professionals.
+The company emphasizes its integrated approach as a differentiator: by consolidating estimating, detailing, fabrication, and erection under one roof, it maintains tight control over quality, scheduling, and cost. Leadership describes a culture of integrity and safety, with a focus on building long-term partnerships through communication and accountability.
 
 ## Known for
 - Turnkey in-house estimating, detailing, fabrication, and erection
 - 35,000 sq ft fabrication facility with modern equipment
 - On-site full-time quality assurance team
-- Expertise in complex, difficult projects other shops decline
+- Willingness to execute complex projects other shops avoid
 - Regional service across Virginia, Maryland, and D.C.
 
 ## Capabilities
 - Structural steel fabrication
-- Structural steel erection
+- Steel erection
 - Miscellaneous metal fabrication
-- Stainless steel fabrication
-- Aluminum fabrication
 - Welding services
-- Commercial fabrication
 - Structural coating
-- Railing and gate fabrication
-- Estimating
-- Detailing
-- Engineering and fabrication
-- Quality assurance
+- Railings and gates fabrication
+- Estimating and detailing
+- Engineering and detailing
 
 ## Industries
 - Education
@@ -41,23 +36,23 @@ Dominion Steel emphasizes a culture of integrity, safety, and accountability, wi
 - Commercial
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1994
 - **Headquarters:** Fredericksburg, Virginia
 
 <details><summary>Sources</summary>
 
-- Founded in 1994 in Fredericksburg, VA -> /about
-- 35,000 sq ft fabrication facility -> /about
-- Turnkey services: estimating, detailing, fabrication, erection -> /
-- Industries served: education, healthcare, entertainment, government, commercial -> /about
-- Materials: structural steel, stainless steel, aluminum -> /about
+- Founded 1994 -> /about
+- 35,000 sq ft facility -> /about
+- Turnkey estimating, detailing, fabrication, erection -> /
+- Services: structural steel, miscellaneous metals (stainless, aluminum), welding, structural coating, railings & gates -> /, /about
+- Industries: education, healthcare, entertainment, government, commercial -> /about
+- Customer types: general contractors, architects, engineers, developers -> /
 - On-site full-time quality assurance team -> /about
-- Tackles tough, complex projects -> /about
-- Mission: build legacy of partnership through exceptional client experiences -> /about
-- Culture values: integrity, excellence, safety, honesty, respect, gratitude, empowerment -> /about
-- Serves Virginia, Maryland, D.C. -> /
-- Provides welding, miscellaneous fabrication, structural coating, commercial fabrication, railings & gates -> /
+- Tackles tough jobs other shops avoid -> /about
+- Headquarters Fredericksburg, Virginia -> db
+- Company name Dominion Steel LLC -> db
+- Website http://www.dominionsteel.net/ -> db
 </details>
 
 ---
@@ -67,53 +62,48 @@ Dominion Steel emphasizes a culture of integrity, safety, and accountability, wi
 **Old description:** In addition to standard offerings, Double H manufactures custom solutions and can work with you to create packaging tailored to your brand's specific needs.
 
 ## About
-Double H Packaging, Inc. operates from its headquarters in Warminster, Pennsylvania, with additional manufacturing facilities in Marion, Indiana, and Morristown, Tennessee. The company was founded in 1974 by Harry Harp as a family-owned profile extrusion business producing plastic cores for the paper converting industry. It remains family-owned today.
+Double H Packaging, Inc., headquartered in Warminster, Pennsylvania, has been a family-owned business since its founding in 1974 by Harry Harp. The company began as a profile extrusion manufacturer producing plastic cores for the paper converting industry.
 
-The company produces a range of packaging products including cups and composite lids, thin-wall plastic containers, plastic cores, tubing, rails, and paper-based packaging. Its capabilities span profile extrusion, injection molding (thin-wall, insert, and cup forming), in-mold labeling, flexographic and offset printing, and in-house prototyping using stereolithography and powder printing. Tooling and mold making are performed internally, supported by a tool room and machine center across its three plants.
+Today, Double H operates three manufacturing facilities — in Warminster, PA (cup forming), Marion, IN, and Morristown, TN (extrusion) — and offers a broad range of packaging processes. These include profile extrusion, rigid cup forming, thin-wall injection molding, in-mold labeling (IML), flexographic and offset printing, insert injection molding, and in-house prototyping via stereolithography (SLA) and powder-printed models. The company also provides tooling and mold making, pre-press services, and package design. Its product line spans cups and composite lids, thin-wall plastic containers, plastic cores, tubes, rails, paper/film/foil materials, labels, filtration components, and a plastic-free all-paper pint introduced in 2025.
 
-Double H serves primarily the food packaging sector, supplying snacks and convenience foods, ice cream and frozen desserts, and other food packaging applications. It also serves the paper converting industry with plastic cores and provides filtration packaging components. Customers include brands seeking custom packaging solutions tailored to specific branding and performance requirements.
+Double H serves the food packaging sector, with explicit focus on snacks and convenience foods, ice cream and frozen desserts, and additional food packaging applications. Customers range from brands seeking off-the-shelf packaging to those requiring custom solutions tailored to specific brand needs.
 
-The company emphasizes its ability to deliver custom solutions through in-house design, prototyping, and tooling, enabling fast, precise development. Its history includes pioneering a patented lid molding process in 1985 and, more recently, introducing a plastic-free All Paper Pint in 2025. Double H holds SQF certification for food safety.
+The company emphasizes its family-owned heritage and commitment to quality products and workplace environment. Its differentiators include in-house prototyping, tooling, and mold-making for fast, precise development; a patented lid molding process dating to 1985; the 2012 acquisition of Old York Road Printing adding offset capabilities; and SQF certification for food safety management.
 
 ## Known for
-- Family-owned since 1974 with three U.S. manufacturing sites
-- In-house prototyping (SLA and powder printing), tooling, and mold making
-- Patented composite lid molding process (1985)
-- SQF food safety certification
-- Custom packaging design and development from concept to production
+- Family-owned and operated since 1974
+- In-house prototyping, tooling, and mold-making for fast development
+- Custom packaging solutions tailored to specific brand needs
+- Three manufacturing facilities in Pennsylvania, Indiana, and Tennessee
+- SQF certified food safety management
 
 ## Capabilities
 - Profile extrusion
-- In-mold labeling (IML)
-- Paperboard printing
 - Rigid cup forming
+- Thin-wall injection molding
+- In-mold labeling (IML)
 - Flexographic printing
 - Offset printing
 - Insert injection molding
-- Thin wall injection molding
-- Prototyping (stereolithography, powder printing)
-- Tooling & mold making
-- Pre-press
+- Stereolithography (SLA) prototyping
+- Powder-printed model prototyping
+- Tooling and mold making
+- Pre-press services
 - Package design services
+- Package and mold design
 - Custom packaging solutions
-- Plastic core extrusion
-- Tube/tubing extrusion
-- Rail extrusion
+- Paperboard printing
 - Composite lid molding
-- All Paper Pint manufacturing (plastic-free)
-- Filtration packaging components
-- Label printing
 
 ## Industries
-- Snacks & Convenience Foods
-- Ice Cream & Frozen Desserts
-- Food Packaging
-- Paper Converting
-- Filtration
+- Snacks and convenience foods
+- Ice cream and frozen desserts
+- Food packaging
+- Paper converting
 
 ## Equipment
 - Stereolithography (SLA®) systems
-- Powder printing systems
+- Powder-printed model systems
 
 ## Certifications
 - SQF
@@ -126,21 +116,19 @@ The company emphasizes its ability to deliver custom solutions through in-house 
 
 <details><summary>Sources</summary>
 
-- Founded in 1974 by Harry Harp -> /about
+- Founded 1974 by Harry Harp -> /about
 - Family-owned since 1974 -> /about
-- Headquarters in Warminster, PA -> /about, db
-- Additional facilities in Marion, IN and Morristown, TN -> /about
-- Profile extrusion of plastic cores for paper converting -> /about
-- Capabilities: extrusion, in-mold labeling, paperboard printing, rigid cup forming, flexographic printing, offset printing, insert injection molding, thin wall injection molding -> /about
-- Prototyping: stereolithography (SLA®) systems, powder printed models -> /about
-- Tooling & mold making, pre-press, package design services -> /about
-- Products: cups & composite lids, thin wall plastic packaging, plastic cores, tube/tubing, rails, paper/film/foil, labels, packaging components, filtration -> /
-- Industries: snacks & convenience foods, ice cream & frozen desserts, additional food packaging -> /
-- Custom packaging solutions tailored to brand needs -> /, /about
-- Patented lid molding process (1985) -> /about
-- SQF certification -> db
-- All Paper Pint introduced 2025 -> /about
+- Headquarters Warminster, PA -> /about
+- Facilities in Marion, IN and Morristown, TN -> /about
+- Capabilities: extrusion, cup forming, thin wall injection molding, IML, flexographic printing, offset printing, prototyping, tooling & mold making, pre-press, package design -> /about
+- Products: cups & composite lids, thin wall plastic packaging, plastic cores, tube/tubing, rails, paper/film/foil, labels, filtration, all paper pint -> /
+- Industries: snacks & convenience foods, ice cream & frozen desserts, food packaging -> /
+- Certification: SQF -> db
+- Patented lid molding process 1985 -> /about
+- Acquired Old York Road Printing 2012 -> /about
+- Introduced plastic-free All Paper Pint 2025 -> /about
 - Operating as Double H Packaging since 2025 -> /about
+- Team members listed -> /about
 - LinkedIn URL -> db
 </details>
 
@@ -148,36 +136,67 @@ The company emphasizes its ability to deliver custom solutions through in-house 
 
 # DoubleButter
 
-_skipped: not enough facts_
+**Old description:** As we’ve said from the very beginning, DoubleButter is better. Sure, that phrase and our sorta silly name originated with an offhand comment Dexter made about how he likes his English muffins (with both regular butter and peanut butter). But to us it’s taken on a broader meaning. It means that working here and designing and building furniture we love is better than any career alternative; it means that collaboration, from initial sketch to production, is better than working solo in a silo; it means that the happy mix of complementary materials can make good design great.
+
+## About
+DoubleButter is based in Denver, Colorado. The company’s name and philosophy originated from a casual remark by Dexter about preferring English muffins with both butter and peanut butter, a metaphor for the blend of complementary elements that defines its approach. While the exact founding year and ownership structure are not publicly disclosed, the business centers on collaborative furniture design and production.
+
+The company designs and builds furniture, managing projects from initial sketch through to finished production. Its process emphasizes teamwork across design and manufacturing stages, aiming to integrate diverse materials into cohesive pieces. Details about facility size, headcount, or annual output are not provided.
+
+DoubleButter serves clients seeking custom furniture solutions, though specific industries or named customers are not listed. Its work spans the creation of individual pieces and potentially larger collections, with an emphasis on the interplay of materials.
+
+The venture was started on the belief that collaboration and material harmony produce better results than isolated efforts. The founders frame this as a core differentiator: a happy mix of complementary materials can make good design great.
+
+## Known for
+- Collaborative design-to-production workflow
+- Integration of complementary materials
+- Focus on custom furniture design and manufacturing
+
+## Capabilities
+- Furniture design
+- Furniture manufacturing
+- Custom fabrication
+- Material selection and combination
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Denver, Colorado
+
+<details><summary>Sources</summary>
+
+- Headquarters: Denver, Colorado -> db
+- Designs and builds furniture -> db
+- Founder Dexter mentioned -> db
+- Website: http://doublebutter.com/ -> db
+</details>
+
+---
 
 # Dover Electric Supply Co. Inc.
 
 **Old description:** Serving the Dover area since 1948, Dover Electric Supply is a Family Owned and Operated business that can meet all your commercial, industrial or residential needs! Store Hours Monday-Friday 7:00 to 4:30, Saturday 8:00 to 12:00
 
 ## About
-Dover Electric Supply Co. Inc. has operated from Seaford, Delaware since 1948. The family-owned and operated business began serving the Dover area more than seven decades ago, establishing a local presence for electrical materials and building a reputation for consistent availability.
+Dover Electric Supply Co. Inc. has operated from Seaford, Delaware since 1948. The family‑owned and operated business was established to serve the Dover area and surrounding communities, though the founders are not named in available records.
 
-The company stocks and sells electrical products for commercial, industrial, and residential customers. Its Seaford location operates a counter-service storefront with hours Monday through Friday 7:00 a.m. to 4:30 p.m. and Saturday 8:00 a.m. to noon, catering to contractors and walk-in buyers alike. The inventory is organized around builders products, covering items needed for new construction, renovation, and maintenance projects.
+The company functions as an electrical supply distributor, stocking products categorized as builders' products for commercial, industrial, and residential customers. It maintains a physical storefront with hours Monday through Friday 7:00 AM to 4:30 PM and Saturday 8:00 AM to 12:00 PM. Facility size, headcount, and inventory depth are not disclosed.
 
-Customers include commercial contractors, industrial maintenance teams, residential builders, and homeowners seeking electrical materials. The product range spans wire, conduit, lighting, controls, and related accessories typical of electrical supply houses. The company positions itself as a single source for projects ranging from small residential repairs to large commercial installations.
+Its customer base spans contractors, maintenance departments, and homeowners across the Dover region. The supplier addresses needs ranging from new construction and plant maintenance to residential repair, though specific industry verticals or named clients are not provided.
 
-Family ownership has provided continuity in a market where many independent supply houses have consolidated. The business emphasizes meeting the full spectrum of electrical needs across the three customer segments it serves, leveraging long-term supplier relationships to maintain stock depth.
+The business emphasizes its long‑standing local presence and family ownership as distinguishing factors, but does not publish a formal mission statement or unique value proposition beyond broad service claims.
 
 ## Known for
-- Family-owned and operated since 1948
-- Serves commercial, industrial, and residential electrical needs
-- Walk-in counter service with Saturday hours
-- Single-source inventory for builders products
-- Local supplier relationships for stock depth
+- Family owned and operated since 1948
+- Serves commercial, industrial, and residential customers
+- Local storefront with six-day weekly hours
+- Focus on the Dover, Delaware area
 
 ## Capabilities
 - Electrical product distribution
 - Commercial electrical supply
 - Industrial electrical supply
 - Residential electrical supply
-- Builders product supply
-- Counter sales
-- Contractor support
+- Counter sales and will-call
 
 ## Industries
 - Commercial construction
@@ -193,14 +212,12 @@ Family ownership has provided continuity in a market where many independent supp
 
 <details><summary>Sources</summary>
 
-- Company name -> db
-- Founded 1948 -> description
-- Family owned and operated -> description
-- Headquarters Seaford, Delaware -> db
-- Serves commercial, industrial, residential -> description
-- Store hours Monday-Friday 7:00-4:30, Saturday 8:00-12:00 -> description
-- Products: BUILDERS PRODUCTS -> db
-- Website -> db
+- Founded/serving since 1948 -> db
+- Family owned and operated -> db
+- Headquarters in Seaford, Delaware -> db
+- Serves commercial, industrial, residential customers -> db
+- Store hours Monday-Friday 7:00-4:30, Saturday 8:00-12:00 -> db
+- Product category: BUILDERS PRODUCTS -> db
 </details>
 
 ---
@@ -210,56 +227,58 @@ Family ownership has provided continuity in a market where many independent supp
 **Old description:** under one roof, drawing from our renowned fabrication shop's expertise since 1989.
 
 ## About
-Down East Sheet Metal & Certified Welding operates from Holden, Maine, a community just outside Bangor. The company was founded in 1989 and has served the Greater Bangor area for over three decades. Ownership details and founder names are not publicly disclosed.
+Down East Sheet Metal & Certified Welding was founded in 1989 in Holden, Maine, a community just outside Bangor. The company began as a fabrication shop and has operated continuously from its location on Copeland Hill Road, serving the Greater Bangor area with custom sheet metal work.
 
-The shop provides sheet metal fabrication, welding, and design services under one roof. Its capabilities span commercial kitchen hoods, exhaust systems, stainless steel countertops, and full commercial and residential kitchen builds. The facility handles custom projects from design through installation, though specific floor space, headcount, and annual volume figures are not published.
+The shop provides a full range of sheet metal fabrication and welding services, including design, fabrication, and installation under one roof. Its capabilities cover commercial stainless steel exhaust systems, hoods, countertops, and complete kitchen builds for both commercial and residential clients. A team of fabricators and welders handles custom projects from concept through finished product, working with stainless steel and other sheet metals to meet specific functional requirements.
 
-Customers include restaurants, fast-food outlets, schools, hospitals, medical centers, and other educational or healthcare facilities. The company also serves residential clients seeking stainless steel kitchens and countertops. Projects are tailored to each client's specifications, with the firm emphasizing a guarantee that each product is built for its intended purpose.
+The company serves restaurants, schools, hospitals, medical centers, educational facilities, and fast‑food establishments, as well as homeowners seeking residential stainless kitchens and countertops. Projects range from custom exhaust systems for commercial kitchens to fabricated components for institutional facilities.
 
-The business promotes its "reputation is stainless" tagline and the convenience of design, fabrication, and installation all under one roof. It positions itself as a single-source partner that eliminates guesswork and wasted time, delivering guaranteed products built to endure commercial use.
+The firm emphasizes that it tailors each job to the customer’s exact needs, promoting a “guaranteed product built specifically for its need” and the ability to fabricate virtually any sheet metal item. Its reputation rests on delivering durable, commercial‑grade stainless steel solutions without wasted time or guesswork.
 
 ## Known for
-- Design, fabrication, and installation all under one roof
-- Expert fabricators and welders delivering custom solutions
-- Specialized in stainless steel commercial exhaust systems, hoods, and countertops
-- Serving Greater Bangor area since 1989
-- Broad project flexibility: "If it's sheet metal, we can fabricate it"
+- Design, fabrication, and installation under one roof
+- Custom stainless steel exhaust systems, hoods, and countertops
+- Expert fabricators and welders delivering tailored solutions
+- Commercial and residential kitchen fabrication
+- “If it’s sheet metal, we can fabricate it” – broad material and project flexibility
 
 ## Capabilities
 - Sheet metal fabrication
 - Welding
-- Design and fabrication
-- Commercial kitchen hood fabrication
-- Commercial exhaust system fabrication
-- Stainless steel countertop fabrication
+- Design & fabrication
+- Custom fabrication & installation
+- Commercial exhaust systems
+- Commercial hoods
+- Stainless steel countertops
 - Commercial kitchen fabrication
 - Residential kitchen fabrication
-- Custom fabrication and installation
+- Stainless steel fabrication
 
 ## Industries
 - Restaurants
-- Fast-food establishments
 - Schools
 - Hospitals
 - Medical centers
 - Educational facilities
+- Fast-food establishments
 - Residential
-- Commercial
+- Commercial kitchens
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Founded:** 1989
 - **Headquarters:** Holden, Maine
 
 <details><summary>Sources</summary>
 
-- Founded 1989 -> db
-- Headquarters Holden, Maine -> db
-- Services: sheet metal fabrication, welding, design, commercial kitchens, hoods, exhaust systems, countertops -> /
-- Industries served: restaurants, schools, hospitals, medical centers, educational facilities, fast-food, residential -> /
-- Under one roof design/fabrication/installation -> /
-- Stainless steel expertise emphasized -> /
-- Custom solutions, guaranteed product built for purpose -> /
+- Founded in 1989 -> db
+- Headquarters: Holden, Maine -> db and homepage
+- Services: sheet metal fabrication, welding, design & fabrication, custom fabrication & installation -> homepage
+- Products: commercial stainless steel exhaust systems, hoods, countertops, commercial and residential kitchens -> homepage
+- Industries served: restaurants, schools, hospitals, medical centers, educational facilities, fast-food establishments, residential -> homepage
+- Differentiators: design/fabrication/installation under one roof, expert fabricators/welders, guaranteed custom products -> homepage
+- Materials: stainless steel, sheet metal -> homepage
+- Company type: manufacturer (fabricates physical products) -> homepage
 </details>
 
 ---
@@ -269,40 +288,42 @@ The business promotes its "reputation is stainless" tagline and the convenience 
 **Old description:** At Down South, we help create the Southern Lifestyle you've always wanted. Whether you’re in to Southwest, Rustic, Shabby Chic, or Farmhouse...your style is all about you, and we’re here to help you create it!
 
 ## About
-Down South operates from a showroom on Arkansas Highway 5 in El Paso, Arkansas. The company’s founding year and ownership structure are not publicly disclosed, and no founders are named in available materials.
+Down South operates from a showroom at 3091 Highway 5 in El Paso, Arkansas. The business, also branded as Down South Decor, presents itself as a destination for Southern-inspired furnishings and home decor.
 
-The business functions as a furniture retailer and custom workshop, offering living-room, dining-room, and bedroom collections alongside consoles, accent pieces, rugs, and accessories. A handcrafted-furniture line and custom-build service are highlighted, with the company noting that out-of-stock custom orders may require 12 to 18 weeks for completion. Delivery service runs Tuesday through Friday with fees based on distance. The showroom also carries bedding, pillows, gifts, and seasonal decor.
+The store carries a range of furniture categories including living room sectionals, dining tables and chairs, bedroom suites, consoles, accent pieces, rugs, lamps, bedding, and decorative accessories. The company highlights handcrafted and custom furniture options, and notes that out-of-stock items may require 12 to 18 weeks for production. Delivery service is available Tuesday through Friday with fees based on mileage.
 
-Down South targets homeowners and interior decorators looking for Southern-inspired aesthetics such as Southwest, rustic, shabby-chic, and farmhouse styles. The showroom serves walk-in customers from the surrounding region, and delivery is available Tuesday through Friday within a mileage-based radius. The company’s website notes extended production delays due to the COVID-19 pandemic.
+Down South serves residential customers seeking Southern lifestyle aesthetics such as Southwest, Rustic, Shabby Chic, and Farmhouse styles. Customer testimonials reference purchases of sectionals, tables, and seasonal decor.
 
-The company positions itself as a one-stop shop for Southern lifestyle furnishings, emphasizing well-crafted, unique pieces that allow customers to avoid sourcing from multiple vendors. Customer testimonials on the site praise the staff’s knowledge and the quality of the furniture. The brand focuses on styles that include Southwest, rustic, shabby chic, and farmhouse.
+The company positions itself as a one-stop shop for Southern-style home furnishings, emphasizing handcrafted, unique pieces and a curated selection that spans furniture, accents, and decor.
 
 ## Known for
-- One-stop shop for Southern-style furnishings
 - Handcrafted and custom furniture options
+- One-stop shop for Southern-style furnishings and decor
 - Delivery service Tuesday–Friday with mileage-based fees
-- Extended lead times of 12–18 weeks for custom orders not in stock
+- Curated selection across Southwest, Rustic, Shabby Chic, and Farmhouse styles
 
 ## Capabilities
-- Custom furniture fabrication
+- Delivery services (Tuesday–Friday, mileage-based fee)
+- Custom furniture design/build
 - Handcrafted furniture production
-- Delivery services
+- Retail showroom sales
 
 ## Company details
 - **Company Type:** Retailer
-- **Headquarters:** El Paso, Arkansas
+- **Headquarters:** El Paso, AR
 
 <details><summary>Sources</summary>
 
-- Company name and location: El Paso, Arkansas -> db
-- Website: https://www.downsouthar.com/ -> db
-- Product categories: living room, dining room, bedroom, consoles, accent pieces, accessories & decor -> /
+- Location: El Paso, Arkansas (3091 Hwy 5) -> /
+- Product categories: living room, dining, bedroom, consoles, accent pieces, accessories & decor -> /
 - Handcrafted and custom furniture offered -> /
-- Production delays of 12-18 weeks for out-of-stock custom orders -> /
-- Delivery services Tuesday-Friday, mileage-based fee -> db, /
-- Customer testimonials -> /
-- Showroom address: 3091 Hwy 5, El Paso, AR 72045 -> /
-- Contact email and phone -> /
+- Delivery services Tuesday-Friday, mileage-based fee -> /
+- Production delays 12-18 weeks for out-of-stock items -> /
+- Customer testimonials from Kelly Mitchell, Vanessa Bellinger, Ashley Cook -> /
+- Website: https://www.downsouthar.com/ -> db
+- Phone: (501) 263-0333 -> /
+- Email: downsouthfurniture@gmail.com -> /
+- Copyright notice: © 2020-2026 Atwill Media - Down South Decor -> /
 </details>
 
 ---
@@ -312,31 +333,30 @@ The company positions itself as a one-stop shop for Southern lifestyle furnishin
 **Old description:** Since 1981 our focus has been to provide bakers the highest-quality ingredients needed to produce their goods.
 
 ## About
-Downeast Food Distributors Inc. has operated from Auburn, Maine since 1981. The company was founded with a focus on supplying bakers with high-quality ingredients for their production needs.
+Downeast Food Distributors Inc. has operated from Auburn, Maine since 1981. The company was founded to supply bakers with high-quality ingredients, though the founders' names and ownership structure are not publicly disclosed.
 
-The distributor carries a broad range of bulk ingredients spanning frozen, dry, and mixed categories. Its product lines include frozen egg products, specialty flours, chocolates, icings, vanillas, extracts, and packaging solutions. The facility also stocks items such as nuts, honey, maple syrup, peanut butter, spices, dried fruit, milk powder, oats, beans, olive oil, rice, and frozen fruit, alongside paper goods like toilet paper and paper towels.
+The distributor carries a broad range of bulk food ingredients spanning frozen and dry categories. Its product lines include frozen egg products, specialty flours, yeast, sugar, nuts, honey, maple syrup, peanut butter, spices, dried fruits, milk powder, oats, beans, olive oil, rice, seeds, and baking mixes, as well as icings, vanillas, and extracts. The firm also stocks non-food items such as toilet paper and paper towels. Facility size, headcount, and annual volume figures are not published.
 
-Primary customers are commercial bakers and food-service operations, though the location is open to the public for scheduled pickups on weekdays. The company adjusts delivery schedules around holidays and promotes a deals page for discounts and promotions.
+Primary customers are commercial bakers and food-service operations, though the company also opens its doors to the public for scheduled pickups on weekdays. The catalog emphasizes specialty flours, chocolates, and packaging solutions aimed at professional baking needs.
 
-Downeast emphasizes a commitment to excellence across its product lines, stating that its passion for quality is represented in the specialty flours, chocolates, and packaging solutions it carries.
+The company states its founding purpose was to provide bakers with the highest-quality ingredients for their goods, and it describes its product selection as reflecting a commitment to excellence across specialty flours, chocolates, and innovative packaging solutions.
 
 ## Known for
-- Open to the public with scheduled weekday pickup hours
-- Carries full line of icings, vanillas, and extracts alongside bulk ingredients
-- Offers deals page with discounts, sales, and promotions
-- Adjusts delivery schedules for holidays
-- Specializes in ingredients for bakers since 1981
+- Since 1981 focus on providing bakers highest-quality ingredients
+- Open to the public with scheduled pickup hours
+- Broad product range from frozen to dry bulk ingredients including mixes
+- Full line of icings, vanillas, and extracts
+- Deals page offering discounts and promotions
 
 ## Capabilities
-- Wholesale food distribution
-- Bulk ingredient supply (frozen, dry, mixes)
+- Food ingredient distribution
+- Bulk frozen and dry ingredient supply
+- Baking mix supply
 - Icing, vanilla, and extract supply
-- Packaging solutions distribution
 - Public pickup service
-- Delivery scheduling
 
 ## Industries
-- Baking
+- Bakery
 - Food service
 - Retail
 
@@ -349,15 +369,11 @@ Downeast emphasizes a commitment to excellence across its product lines, stating
 
 - Founded 1981 -> db
 - Headquarters Auburn, Maine -> db
-- Focus on providing bakers highest-quality ingredients -> /
-- Bulk ingredients range frozen, dry, mixes -> /
-- Full line of icings, vanillas, extracts -> /
-- Specialty flours, chocolates, packaging solutions -> /
+- Distributes food ingredients to bakers -> /
+- Carries frozen and dry bulk ingredients, mixes, icings, vanillas, extracts -> /
 - Open to public with pickup hours Monday, Wednesday, Friday 9-11:30am & 1-3pm, Tuesday, Thursday 1-3pm -> /
-- Delivery schedule changes mentioned -> /
-- Deals page for discounts, sales, promotions -> /
-- Address 94 Merrow Rd, Auburn, ME 04210 -> /
-- Phone numbers (207) 786-0356, (800) 639-5802 -> /
+- Products include frozen egg products, flour, yeast, sugar, nuts, honey, maple syrup, peanut butter, spices, raisins, dried fruit, milk powder, oats, beans, olive oil, rice, sunflower seeds, pumpkin seeds, frozen fruit, toilet paper, paper towels -> /
+- Deals page for discounts and promotions -> /
 - Facebook page mentioned -> /
 </details>
 
@@ -368,38 +384,37 @@ Downeast emphasizes a commitment to excellence across its product lines, stating
 **Old description:** Contact our customer support team for all of your needs at  or simply fill out a form below and one of our support specialists will contact you as soon as possible!
 
 ## About
-Draco Solar has been headquartered in Platteville, Colorado since its founding in 2010. The company operates as a vertically integrated solar installation and service provider under the name Draco Solar Colorado, a No Problem Electric Company.
+Draco Solar is headquartered in Platteville, Colorado, and has been operating since 2010. The company presents itself as a fully vertically integrated solar installation, sales, and service provider, though it does not disclose its founders or ownership structure publicly.
 
-The firm delivers a full suite of renewable energy and electrical services, including rooftop and ground‑mounted solar installation, battery storage and backup systems, system maintenance and repairs, commercial solar installation, solar system add‑ons, electrical upgrades, roofing repairs and replacements, and home energy audits. Work is performed by an in‑house team of master electricians, solar technicians, roofing experts, and project managers, allowing the company to manage projects from design through commissioning without subcontracting.
+The firm delivers a range of renewable energy and electrical services, including rooftop and ground‑mounted solar photovoltaic installation, battery storage and backup systems, system maintenance and repair, commercial solar installation, solar system add‑ons, electrical panel upgrades, roofing repairs and replacements, and home energy audits. Work is performed by in‑house master electricians, solar technicians, roofing specialists, and project managers, allowing the company to manage projects from design through commissioning without subcontracting.
 
-Draco Solar serves residential and commercial customers across Colorado. Homeowners engage the company for solar arrays, battery backup, roofing, and electrical panel upgrades, while businesses contract for commercial‑scale solar installations. The company also partners with local organizations and reinvests a portion of revenue into community development projects.
+Draco Solar serves both residential and commercial customers across Colorado. Homeowners engage the company for new solar arrays, battery backup, electrical upgrades, and roofing work, while businesses contract for commercial‑scale solar installations. The company also partners with local organizations and reinvests a portion of revenue into community development projects, reflecting a stated mission to preserve Colorado’s environment.
 
-The company says its vertically integrated model and direct access to internal teams set it apart, providing a single point of contact throughout a project. Its stated mission is to preserve Colorado’s environment by accelerating clean energy adoption and supporting community initiatives.
+The company says its vertically integrated model and direct, one‑on‑one customer service differentiate it from competitors. It emphasizes integrity, transparency, and care, and notes that customers have direct access to internal teams throughout the project lifecycle. The brand identity, inspired by the dragon, is meant to convey power, resilience, and a commitment to a sustainable future.
 
 ## Known for
-- Fully vertically integrated: design, installation, and service handled in‑house
-- Team includes master electricians, solar technicians, roofing experts, and project managers
+- Fully vertically integrated solar installation and service
+- Master electricians and in‑house technicians handle all project phases
 - One‑on‑one customer service with direct access to internal teams
-- Portion of every dollar reinvested in Colorado community development projects
+- Portion of every dollar reinvested in community development projects
 
 ## Capabilities
 - Rooftop solar installation
-- Ground‑mounted solar installation
+- Ground mounted solar installation
 - Commercial solar installation
 - Battery storage and backup systems
-- Solar system maintenance and repairs
-- Solar system add‑ons for existing systems
-- Electrical upgrades and panel upgrades
+- System maintenance and repairs
+- Solar system add‑ons
+- Electrical upgrades
 - Roofing repairs and replacements
-- Home energy audits
+- Home energy audit
 
 ## Industries
 - Residential solar
 - Commercial solar
-- Battery energy storage
+- Energy storage
+- Electrical services
 - Roofing
-- Electrical contracting
-- Home energy auditing
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -410,12 +425,13 @@ The company says its vertically integrated model and direct access to internal t
 
 - Founded 2010 -> db
 - Headquarters Platteville, Colorado -> db
-- Vertically integrated solar installation and service company -> /about-us
-- Services: rooftop solar, ground mount, commercial solar, battery storage, maintenance, add-ons, electrical upgrades, roofing, home energy audit -> /services and /
-- Team: master electricians, solar technicians, roofing experts, project managers -> /about-us
-- Mission: preserve Colorado, reinvest in community -> /about-us
-- One-on-one customer service -> /about-us
-- Powered by Master Electricians -> /services
+- Vertically integrated solar installation, sales, and service company -> /about-us
+- Services: rooftop solar, ground mount, commercial solar, battery storage, maintenance, add-ons, electrical upgrades, roofing, home energy audit -> /services
+- In-house master electricians, solar technicians, roofing experts, project managers -> /about-us
+- Serves residential and commercial customers in Colorado -> /services, /about-us
+- Community reinvestment portion of revenue -> /about-us
+- One-on-one customer service with direct access to internal teams -> /about-us
+- Mission to preserve Colorado environment -> /about-us
 </details>
 
 ---
@@ -425,34 +441,34 @@ The company says its vertically integrated model and direct access to internal t
 **Old description:** DreamPak, founded in 2000 by Dr. Aly Gamay, provides the marketplace with convenient, tasty and sustainable solutions for center-of-the-store. From humble beginnings as a liquid packager to a technology-driven manufacturer, DreamPak offers full-service solutions from concept development to distribution.
 
 ## About
-DreamPak LLC was founded in 2000 by Dr. Aly Gamay in McLean, Virginia. The company began as a liquid packager and has since evolved into a technology-driven manufacturer serving the center-of-the-store market.
+DreamPak LLC is headquartered in McLean, Virginia. The company was founded in 2000 by Dr. Aly Gamay and began as a liquid packager before evolving into a technology-driven manufacturer.
 
-Today DreamPak provides full-service solutions that span concept development through distribution, focusing on convenient, tasty, and sustainable products. Its capabilities include liquid packaging and technology-driven manufacturing processes, though specific facility size, headcount, and production volumes are not publicly disclosed.
+The firm provides full-service solutions that span concept development, liquid packaging, and distribution. It produces energy water enhancers, drink mix sticks, and flavor and hydration products aimed at the center-of-the-store retail segment. No facility size, headcount, or volume figures are disclosed in the available data.
 
-The company serves the beverage industry with particular emphasis on energy water enhancers, drink mix sticks for energy, and everyday flavor, energy, and hydration products. Its customers include brands seeking turnkey development and packaging for center-of-the-store retail placement.
+DreamPak serves the food and beverage sector, with a focus on brands in the energy water enhancer, drink mix stick, and everyday flavor, energy, and hydration categories. Its customers are companies seeking convenient, tasty, and sustainable packaging solutions for those product lines.
 
-DreamPak states that its founding mission was to deliver convenient, tasty, and sustainable solutions for the center of the store, positioning itself as a partner that can take a product from idea to shelf.
+The company highlights its technology-driven manufacturing platform and end-to-end service model — from concept through distribution — as core differentiators. It was started to deliver sustainable, center-of-the-store solutions that combine convenience with taste.
 
 ## Known for
+- Technology-driven manufacturing platform
 - Full-service solutions from concept development to distribution
-- Technology-driven manufacturing
-- Focus on convenient, tasty, and sustainable products
-- Expertise in liquid packaging
+- Focus on convenient, tasty, and sustainable center-of-the-store products
+- Evolution from liquid packager to integrated manufacturer
 
 ## Capabilities
 - Liquid packaging
 - Concept development
 - Distribution
 - Technology-driven manufacturing
-- Suite of Services
+- Full-service contract manufacturing
 
 ## Industries
 - Energy Water Enhancers
-- Drink Mix Sticks | Energy
-- Everyday flavor, Energy, Hydration
+- Drink Mix Sticks
+- Everyday Flavor, Energy, Hydration
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 2000
 - **Headquarters:** McLean, Virginia
 
@@ -460,12 +476,10 @@ DreamPak states that its founding mission was to deliver convenient, tasty, and 
 
 - Founded in 2000 by Dr. Aly Gamay -> db
 - Headquartered in McLean, Virginia -> db
-- Began as a liquid packager -> db
-- Evolved into technology-driven manufacturer -> db
-- Provides full-service solutions from concept development to distribution -> db
-- Focus on convenient, tasty, sustainable solutions for center-of-the-store -> db
-- Serves energy water enhancers, drink mix sticks, everyday flavor/energy/hydration -> db
-- Capabilities include Suite of Services -> db
+- Began as a liquid packager, now technology-driven manufacturer -> db
+- Offers full-service solutions from concept development to distribution -> db
+- Provides convenient, tasty, sustainable solutions for center-of-the-store -> db
+- Serves energy water enhancers, drink mix sticks, flavor and hydration categories -> db
 </details>
 
 ---
@@ -475,26 +489,33 @@ DreamPak states that its founding mission was to deliver convenient, tasty, and 
 **Old description:** SUMMER HOLIDAY NOTICE: We will be closed Aug 10-14th. Please submit orders by Aug 3rd.
 
 ## About
-Dreamers Gourmet was founded in 1986 in Schiller Park, Illinois. The specialty food manufacturer operates from its facility in the Chicago suburb, producing a range of edible containers and gluten-free items for foodservice and retail customers.
+Dreamers Gourmet operates from Schiller Park, Illinois, where it was founded in 1986. The company emerged from four decades of culinary industry experience, though the founders are not named in public materials.
 
-The product portfolio spans taco shells, mini edible spoons, savory cones, cannoli shells, and a line of cones, taco shells, and cups. Multiple items are formulated gluten-free, and the production facility discloses the presence of milk, nuts, seafood, and other allergens.
+The manufacturer produces a line of specialty edible serving vessels, including gluten-free taco shells, mini edible spoons, savory cones, cannoli shells, and cones, taco shells, and cups. Production takes place in a facility that handles milk, nuts, seafood, and other allergens. Specific facility size, headcount, and annual volumes are not disclosed.
 
-The company targets fine-dining establishments, caterers, and event planners who want to elevate presentations with edible serving pieces. Its marketing emphasizes turning any gathering into a memorable experience through restaurant-quality components.
+Dreamers Gourmet serves the culinary industry, targeting fine-dining establishments, caterers, and event planners who want to elevate presentations with ready-to-use edible components. The product range is positioned to turn any event into a “fine dining” experience, though specific customer names are not provided.
 
-Founded on the principle of bringing fine dining directly to the table, Dreamers Gourmet draws on over 40 years of culinary industry experience to focus on product quality and distinctive form factors.
+The company states its goal is to bring fine dining directly to the table by producing the finest quality products, allowing customers to create events “worth dreaming about.” This mission, rooted in its long culinary background, is the stated reason for its founding.
 
 ## Known for
-- 40+ years of culinary industry experience
-- Gluten-free product lines
-- Edible containers including cones, cups, spoons, and shells
-- Facility with allergen disclosures for milk, nuts, seafood
+- Four decades of culinary industry experience
+- Fine-dining quality positioned for events
+- Gluten-free product line
+- Edible serving vessels (taco shells, cones, spoons, cups)
+- Allergen-aware facility (milk, nuts, seafood)
 
 ## Capabilities
 - Specialty food manufacturing
-- Gluten-free product manufacturing
-- Edible container production (cones, cups, spoons, shells)
-- Taco shell production
-- Cannoli shell production
+- Gluten-free production
+- Edible serving vessel production
+- Allergen-aware facility management
+
+## Industries
+- Culinary industry
+- Fine dining
+- Food service
+- Catering
+- Events
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -503,13 +524,12 @@ Founded on the principle of bringing fine dining directly to the table, Dreamers
 
 <details><summary>Sources</summary>
 
-- Founded in 1986 -> db
-- Headquartered in Schiller Park, Illinois -> db
-- Produces taco shells, mini edible spoons, gluten-free items, savory cones, cannoli shells, premier cones, premier taco shells, premier cups -> /
-- Facility associated with milk, nuts, seafood, and other allergens -> /
-- 40+ years of experience in the culinary industry -> /
-- Goal to bring fine dining directly to the table -> /
-- Summer holiday closure August 10-14 -> /
+- Founded 1986 -> db
+- Headquarters Schiller Park, Illinois -> db
+- Products include taco shells, cannoli shells, edible spoons, cones, cups -> page /
+- Facility handles allergens milk, nuts, seafood -> page /
+- 40+ years culinary experience -> page /
+- Goal to bring fine dining to table -> page /
 </details>
 
 ---

@@ -7,61 +7,58 @@ _skipped: not enough facts_
 **Old description:** We’re more than just custom apparel, we’re a local partner invested in helping our community stand out and succeed. When customers shop with us, they receive high-quality custom products, personal service, and the confidence of working with a team that truly cares about their vision and our community.
 
 ## About
-Big Frog Custom T-Shirts & More operates a retail garment decorating boutique at 3505 West 41st Street in Sioux Falls, South Dakota. The Big Frog brand was established in 2008 by co-founders Leeward Bean, Tina Bacon-DeFrece, and Ron DeFrece in Clearwater, Florida, and has since grown to nearly 100 locations nationwide. The Sioux Falls franchise was opened by Ryan and Ethan Corbin, who were driven by a passion to support the local community through entrepreneurship.
+Big Frog Custom T-Shirts & More operates a retail garment decorating boutique at 3505 West 41st Street in Sioux Falls, South Dakota. The Big Frog brand was established in 2008 by co-founders Leeward Bean, Tina Bacon-DeFrece, and Ron DeFrece in Clearwater, Florida, and has since grown to nearly 100 locations nationwide. The Sioux Falls franchise was opened by Ryan and Ethan Corbin, who position the shop as a local partner invested in the community.
 
-The shop specializes in direct-to-garment (DTG) printing with white ink, screen printing, embroidery, ultra print, direct-to-film, and vinyl decoration. It sources blank apparel from major brands such as Alternative, Bella+Canvas, Gildan, Nike, Puma, Adidas, and Travis Matthews. The facility offers free 15-minute design assistance and can produce orders ranging from a single piece to 500-plus units with no setup fees. Typical turnaround is 24 hours for in-stock garments, with same-day service possible for urgent requests.
+The facility specializes in direct-to-garment (DTG) printing with white ink, screen printing, embroidery, ultra print, direct-to-film, and vinyl decoration. It offers on-demand production with no minimum order quantities and no setup fees, and advertises a 24-hour turnaround on in-stock garments. The shop carries blank apparel from brands such as Alternative, Bella+Canvas, Gildan, Nike, Puma, Adidas, and Travis Matthews, and provides free in-person design assistance.
 
-The company serves local schools, clubs, associations, businesses, and charitable organizations, as well as individuals marking personal milestones such as birthdays, fun runs, team-building events, and sports spirit walks. Customers have included Secure Point Technologies, BH Haak, and numerous families and community groups.
+The company serves local schools, clubs, associations, businesses, and charitable organizations, as well as individuals marking events such as birthdays, fun runs, team-building activities, and sports spirit walks. Customers include Secure Point Technologies and other area businesses that order custom spirit wear, promotional products, and personalized gifts.
 
-Big Frog differentiates itself through a brand promise of free design help, 24-hour turnaround on in-stock items, no minimum orders or setup fees, friendly customer service, and a clean, green, hassle-free customization experience. The owners emphasize a community-first approach, positioning the shop as a local partner invested in helping customers stand out and succeed.
+Big Frog emphasizes a community-first approach, free design help, and hassle-free customization as its differentiating promises. The owners state they were driven by a passion to support the local community through entrepreneurship, and the brand promises “clean & green” practices alongside friendly customer service.
 
 ## Known for
-- Free 15-minute design assistance
+- No minimum order quantities or setup fees
 - 24-hour turnaround on in-stock garments
-- No minimum order quantities
-- No setup fees
-- Multiple decoration techniques (DTG, screen print, embroidery, ultra print, direct-to-film, vinyl)
+- Free in-person design assistance
+- Direct-to-garment printing specialization
+- Community-focused local partner
 
 ## Capabilities
 - Direct-to-Garment (DTG) Printing
-- Direct-to-Garment with White Ink (DTG-W)
+- DTG with White Ink
 - Screen Printing
 - Embroidery
 - Ultra Print
 - Direct-to-Film Printing
 - Vinyl Printing
 - Free Design Assistance
-- 24-Hour Turnaround on In-Stock Garments
-- No Minimum Orders
-- No Setup Fees
+- On-Demand Production
 
 ## Industries
-- Education (schools)
-- Non-profit / charitable organizations
-- Corporate / business
-- Sports teams
+- Schools
+- Clubs & Associations
+- Businesses
+- Charitable Organizations
+- Sports & Recreation
 - Events
-- Promotional products
+- Promotional Products
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Founded:** 2008
-- **Ownership:** Franchise location owned by Ryan & Ethan Corbin
-- **Headquarters:** Sioux Falls, South Dakota
+- **Ownership:** Franchise location owned by Ryan and Ethan Corbin
+- **Headquarters:** Sioux Falls, SD
 
 <details><summary>Sources</summary>
 
-- Location: 3505 W 41st St, Sioux Falls, SD 57106 -> /
-- Founded 2008 by Leeward Bean, Tina Bacon-DeFrece, Ron DeFrece -> /about
-- Sioux Falls franchise opened by Ryan & Ethan Corbin -> /
-- Processes: DTG, DTG-W, screen printing, embroidery, ultra print, direct-to-film, vinyl -> /, /about
-- Brands: Alternative, Bella+Canvas, Gildan, Nike, Puma, Adidas, Travis Matthews -> /about
-- Free 15-minute design assistance -> /
-- 24-hour turnaround on in-stock garments -> /, /about
-- No minimums, no setup fees -> /, /about
-- Industries served: schools, clubs, associations, businesses, charitable organizations, events -> /
-- Customer examples: Secure Point Technologies, BH Haak, etc. -> /
-- Brand promise: free design help, 24-hour turnaround, no minimums/setup fees, friendly service, clean & green, hassle-free -> /about
+- Location: Sioux Falls, SD -> /
+- Owners: Ryan & Ethan Corbin -> /
+- Brand founded 2008 by Leeward Bean, Tina Bacon-DeFrece, Ron DeFrece -> /about
+- Processes: DTG, Screen Printing, Embroidery, Ultra Print, Vinyl -> /
+- No minimums, 24-hour turnaround -> /
+- Industries served: schools, clubs, businesses, charitable organizations -> /
+- Brands carried: Alternative, Bella+Canvas, Gildan, Nike, Puma, Adidas, Travis Matthews -> /about
+- Free design assistance -> /
+- Company type: high-tech light manufacturing retail garment decorating boutique -> /about
 - LinkedIn URL -> db
 </details>
 
@@ -72,40 +69,38 @@ Big Frog differentiates itself through a brand promise of free design help, 24-h
 **Old description:** For over 50 years, Bio-Med Devices has been designing and manufacturing advanced respiratory care solutions trusted by clinicians worldwide. Proudly made in the USA, our products are built on precision, safety, and innovation—helping medical teams deliver the highest standard of care in even the most critical environments.
 
 ## About
-Bio-Med Devices, Inc. is headquartered in Guilford, Connecticut. The company’s current ownership traces to 1984, when respiratory equipment sales representative Dean Bennett Jr. took out a second mortgage on his home to purchase the then-small business, which offered a single neonatal transport ventilator. The company remains family-owned, with Dean Bennett III now serving as CEO.
+Based in Guilford, Connecticut, Bio-Med Devices has been designing and manufacturing respiratory care equipment for over 50 years. The company became a family-owned business in 1984 when respiratory equipment sales representative Dean Bennett Jr. purchased it with a second mortgage on his home. His son, Dean Bennett III, now serves as CEO.
 
-The company designs and manufactures a range of respiratory care products, including precision air/oxygen blenders, oxygen monitors, and full ventilator systems. Its catalog also encompasses circuits, hoses, stands, test lungs, and transport batteries, with numerous part numbers for neonatal, pediatric, and adult configurations. Bio-Med Devices emphasizes retrofittable designs that allow clinicians to upgrade existing blenders without replacing entire fleets, and it offers portable transport systems for critical care mobility.
+The company produces a range of respiratory devices including precision air/oxygen blenders, oxygen monitors such as the OxyMinder Pro, and full ventilator systems like the TV-100. It also manufactures a wide variety of circuits and accessories—neonatal, pediatric, and adult configurations—each identified by specific part numbers. Bio-Med Devices emphasizes seamless retrofitting of its monitors onto existing blender fleets, portable transport systems, and complete circuit configurations.
 
-Bio-Med Devices serves hospitals and clinical teams across neonatal, pediatric, and adult critical care settings. Its devices are used in environments ranging from ambulances and neonatal intensive care units (NICU) to pediatric ICUs and general adult ICUs. The company’s OxyMinder® Pro monitor provides real-time oxygen and pressure monitoring with adjustable alarms and a color touchscreen designed for low-light conditions.
+Bio-Med Devices serves clinical respiratory needs across neonatal, pediatric, and adult care environments. Its customers include hospitals, NICUs, PICUs, ICUs, and emergency medical services, with devices used from ambulances to intensive care units. The company’s catalog supports caregivers in critical moments across these settings.
 
-The business was founded on the belief that clinicians deserve reliable, durable respiratory equipment backed by responsive support and real relationships. Leadership highlights more than five decades of engineering experience and a commitment to U.S. manufacturing, positioning the company as a partner that helps reduce capital costs while maintaining precision and safety in critical moments.
+The business was founded on the belief that clinicians deserve reliable, durable respiratory equipment backed by responsive support and real relationships. The company highlights its U.S. manufacturing, decades of engineering experience, and the ability to retrofit existing equipment to reduce capital costs as key differentiators.
 
 ## Known for
+- Retrofit capability for existing blenders reduces fleet replacement costs
 - Made in the USA
-- Retrofittable designs reduce capital costs
-- Real-time oxygen and pressure monitoring with adjustable alarms
-- Color touchscreen for low-light NICU/PICU environments
-- Family-owned with decades of engineering experience
+- Over 50 years of engineering respiratory medical devices
+- Responsive support and real relationships with clinicians
+- Portable transport ventilator systems for critical care transport
 
 ## Capabilities
-- Design and manufacturing of respiratory care devices
-- Air/oxygen blending
-- Oxygen monitoring
-- Ventilator system manufacturing
-- Retrofitting of existing blenders
-- Portable transport systems
-- Circuit configuration and assembly
-- Real-time oxygen and pressure monitoring
-- Alarm system integration
-- Touchscreen interface design
+- Design and manufacture of respiratory ventilators
+- Air/oxygen blender production
+- Oxygen monitoring systems
+- Circuit and accessory manufacturing
+- Retrofit integration for existing blender equipment
+- Portable transport ventilator systems
+- Neonatal, pediatric, and adult circuit configurations
+- Medical device manufacturing
 
 ## Industries
-- Healthcare
 - Respiratory care
-- Neonatal care
-- Pediatric care
+- Neonatal intensive care
+- Pediatric intensive care
 - Adult critical care
 - Emergency medical services
+- Hospital intensive care units
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -114,17 +109,16 @@ The business was founded on the belief that clinicians deserve reliable, durable
 
 <details><summary>Sources</summary>
 
-- Headquarters: Guilford, CT -> db
-- Family-owned -> /
-- Dean Bennett Jr. purchased company in 1984 -> /
+- Headquarters in Guilford, CT -> /
+- Family-owned since 1984 purchase by Dean Bennett Jr. -> /
 - Dean Bennett III is CEO -> /
-- Designs and manufactures respiratory care devices -> /
-- Products include air/oxygen blenders, oxygen monitors, ventilator systems -> /
-- Serves neonatal, pediatric, adult care environments -> /
-- Offers retrofitting for existing blenders -> /
+- Designs and manufactures ventilators, blenders, monitors -> /
+- Products include TV-100, OxyMinder Pro, Blender, RO2VER Stand -> /
+- Serves neonatal, pediatric, adult care, ambulances, ICU -> /
+- Retrofit capability for existing blenders reduces capital costs -> /
 - Made in the USA -> /
-- OxyMinder Pro provides real-time monitoring with alarms and touchscreen -> /
-- Commitment to reliable, durable equipment and responsive support -> /
+- Over 50 years experience -> /
+- Company name, website, location from database -> db
 </details>
 
 ---
@@ -134,84 +128,102 @@ The business was founded on the belief that clinicians deserve reliable, durable
 **Old description:** Bixby Electric offers quality expertise in airfield lighting and NAVAID installation and maintenance, as well as roadway construction, including lighting, signalization, and Intelligent Transportation System infrastructure. Bixby specializes in both large and small transportation construction projects and provides emergency repairs to keep road and air traffic moving.
 
 ## About
-Bixby Electric Inc is headquartered in Albuquerque, New Mexico, with operations spanning New Mexico, Colorado, Texas, Arizona, California, and Wyoming. The company has been active in the Southwest for over four decades, though a specific founding year is not publicly disclosed. Ownership structure and founder names are not detailed in available sources.
+Bixby Electric Inc. operates from its headquarters and yard in Albuquerque, New Mexico, serving a six-state region that includes Colorado, Texas, Arizona, California, and Wyoming. The company has been in business for over 40 years and describes its culture as family-oriented, though no founding year or individual founders are disclosed publicly.
 
-The firm provides electrical construction, testing, and maintenance services across commercial, industrial, and infrastructure sectors. Core capabilities include airfield lighting and NAVAID installation, roadway and traffic signal systems, intelligent transportation systems, and transmission and distribution work up to 115 kV in both underground and overhead configurations. Bixby also operates directional boring and vertical drilling crews, vacuum excavation for utility potholing, and a dedicated electrical testing division that performs infrared thermography, arc flash studies, and power quality analysis. The company maintains two service departments—one for electrical and one for transportation—and offers vac and sweeper truck rentals operated by its own personnel.
+The firm provides electrical construction, testing, and service across commercial, industrial, and infrastructure projects. Core capabilities include airfield lighting and NAVAID installation and maintenance, traffic signalization, roadway and high-mast lighting, intelligent transportation systems, weigh-in-motion systems, directional boring and vertical drilling, vacuum excavation, and transmission and distribution work up to 115 kV. Bixby also offers infrared thermography, ultrasonic testing, arc-flash studies, power-quality analysis, commissioning, and rental of a 2002 Sterling LT9500 vac truck and a 2011 International 4300 Elgin sweeper truck, both operated by Bixby crews.
 
-Customers include state and local transportation agencies, airports, utilities, healthcare facilities, water and wastewater plants, mining operations, and solar developers. Project examples cited by the company include the Bear Canyon Pedestrian Bridge lighting and the Montano Railrunner Station. Bixby emphasizes a "what we install, we maintain" approach, providing emergency repair services for both road and air traffic systems.
+Customers range from private developers to state and local agencies. The company has worked on water and wastewater treatment plants, healthcare facilities, manufacturing sites, solar installations, and mining operations where its technicians hold MSHA certifications. Public-sector references include the Bear Canyon Pedestrian Bridge lighting and the Montaño Rail Runner station projects in New Mexico.
 
-The company highlights its family-oriented culture, participation in the Northern New Mexico Independent Electrical Contractors Association apprenticeship program, and MSHA-certified technicians for mine and pit work as differentiators. Its two dedicated service departments and owned rental fleet are positioned to reduce response times on maintenance and excavation needs.
+Bixby emphasizes a "what we install, we maintain" philosophy backed by two dedicated service departments—one for electrical and one for transportation systems. The firm runs a four-year apprenticeship program through the Northern New Mexico Independent Electrical Contractors Association and maintains memberships in NMUCA, ABC New Mexico, and ACNM.
 
 ## Known for
-- Two dedicated service departments (electrical and transportation)
-- "What we install, we maintain" philosophy with emergency repair coverage
-- MSHA-certified technicians for mining and pit environments
-- Four-year electrical apprenticeship program through NNMIEC
-- Owner-operated vac and sweeper truck rental fleet
+- Two dedicated service departments (electrical and DOT-transportation)
+- "What we install, we maintain" integrated installation and maintenance model
+- Four-year electrical apprenticeship program via NNMIEC
+- MSHA-certified crews for mine and pit work
+- Self-perform directional drilling with two crews and vacuum excavation capabilities
 
 ## Capabilities
 - Electrical construction
-- Electrical testing and commissioning
+- Electrical testing (infrared thermography, ultrasonic, power quality, arc flash studies)
+- Electrical service and maintenance
 - Airfield lighting and NAVAID installation and maintenance
-- Roadway lighting, traffic signals, and intelligent transportation systems
-- Transmission and distribution up to 115 kV (underground and overhead)
-- Directional boring and horizontal directional drilling
+- Traffic signalization and roadway lighting
+- Intelligent Transportation Systems (ITS)
+- Weigh In Motion (WIM) systems
+- Horizontal directional drilling
 - Vertical drilling (pressure digger up to 54" diameter, 20' deep)
-- Vacuum excavation and potholing
-- Infrared thermography and ultrasonic testing
-- Arc flash studies and power quality analysis
+- Vacuum excavation / potholing
+- Transmission and distribution up to 115 kV (underground and overhead)
+- Medium voltage installations
 - Lighting retrofits
 - Solar energy installations
-- Medium voltage installations
-- Weigh-in-motion (WIM) systems
-- High mast lighting
-- Emergency repair services
+- Water and wastewater electrical installations
+- Healthcare facility electrical construction
+- Commercial and industrial electrical construction
+- Residential electrical service
 - Vac truck rental (hydro-excavation)
 - Sweeper truck rental
+- Commissioning services
+- Emergency repair services
 
 ## Industries
+- Commercial construction
+- Industrial construction
+- Infrastructure
 - Transportation (airfield, roadway)
-- Industrial
-- Commercial
-- Residential
-- Government
-- Utilities
+- Government / public sector
 - Healthcare
-- Water and wastewater
+- Water and wastewater treatment
 - Mining
 - Solar energy
+- Utilities
+- Sports lighting
 
 ## Equipment
-- Sterling LT9500 Vac Truck
-- International 4300 Elgin Sweeper Truck
-- Directional boring equipment
-- Pressure digger (54" diameter, 20' depth)
+- Sterling LT9500 Vac Truck (2002)
+- International 4300 Elgin Sweeper Truck (2011)
+- Pressure digger (up to 54" diameter, 20' deep)
+- Directional boring equipment (two crews)
+- Vacuum excavation equipment
+- Infrared thermography equipment
+- Ultrasonic measurement tools
+- Voltage, current, and power quality diagnostics equipment
 
 ## Certifications
-- MSHA certifications
+- MSHA certification (for mine and pit work)
 
 ## Company details
 - **Company Type:** Installer / service company
+- **Ownership:** Family-oriented culture
 - **Headquarters:** Albuquerque, New Mexico
 
 <details><summary>Sources</summary>
 
-- Headquartered in Albuquerque, NM -> /about
-- Operates across NM, CO, TX, AZ, CA, WY -> /about
-- In business for over 40 years -> /about
-- Provides electrical construction, testing, and service -> /services
-- Airfield lighting and NAVAID installation and maintenance -> /
-- Roadway construction, lighting, signalization, ITS -> /
-- Transmission and distribution up to 115kV -> /services
+- Headquarters in Albuquerque, NM -> /about
+- Service area: NM, CO, TX, AZ, CA, WY -> /about
+- In business over 40 years -> /about
+- Family-oriented culture -> /about
+- Electrical construction, testing, service -> /services
+- Airfield lighting and NAVAID installation/maintenance -> /services
+- Traffic signalization, roadway lighting, ITS, WIM -> /services
 - Directional boring and vertical drilling -> /services
-- Vacuum excavation and potholing -> /services
-- Electrical testing: infrared, arc flash, power quality -> /services
-- Two service departments (electrical and DOT-transportation) -> /services
-- Vac and sweeper truck rentals (Sterling LT9500, International 4300 Elgin) -> /services
-- MSHA certifications for mine and pit work -> /about
-- Family-oriented culture, NNMIEC apprenticeship program -> /about
-- Projects: Bear Canyon Pedestrian Bridge, Montano Railrunner Station -> /services
-- Member of NNMIEC, NMUCA, ABCNM, ACNM -> /about
+- Vacuum excavation/potholing -> /services
+- Transmission & distribution up to 115kV -> /services
+- Infrared thermography, ultrasonic, arc flash, power quality -> /services
+- Commissioning services -> /about
+- Sterling LT9500 Vac Truck (2002) -> /services
+- International 4300 Elgin Sweeper Truck (2011) -> /services
+- Pressure digger up to 54" diameter, 20' deep -> /services
+- Two directional boring crews -> /services
+- MSHA certifications for mine/pit work -> /about
+- Four-year apprenticeship via NNMIEC -> /about
+- Memberships: NNMIEC, NMUCA, ABCNM, ACNM -> /about
+- Two service departments (electrical and DOT) -> /services
+- "What we install, we maintain" philosophy -> /services
+- Projects: Bear Canyon Pedestrian Bridge, Montaño Rail Runner -> /services
+- Water/wastewater, healthcare, manufacturing, solar, mining -> /services
+- Commercial/industrial/residential service -> /services
 </details>
 
 ---
@@ -221,37 +233,38 @@ The company highlights its family-oriented culture, participation in the Norther
 **Old description:** Black Timber Furniture specializes in handcrafting solid wood furniture for clients in Montana and through out the USA. We source local, chemical-free materials as often as we can to ensure the most natural and long lasting finishes. Our custom furniture is designed to be both functional and artistic.
 
 ## About
-Black Timber Furniture Company operates from a showroom in Four Corners, just outside Bozeman, Montana. Founded by veteran Todd Fullerton, the business has been handcrafting furniture for 13 years, building a reputation on traditional American values and a commitment to local, chemical-free materials.
+Based in Four Corners near Bozeman, Montana, Black Timber Furniture Company has been crafting solid-wood pieces for over a decade. The business is veteran-owned by Todd Fullerton, who founded the company on traditional American values and a commitment to heirloom-quality craftsmanship.
 
-The shop produces custom solid-wood pieces ranging from live-edge tables and farmhouse beds to Murphy beds and commercial-grade furniture. Each item is built using traditional woodworking techniques, with clients involved in selecting wood species — such as alder, red and white oak, black walnut, maple, cherry, and reclaimed barn wood — as well as finishes, hardware, and upholstery options.
+The workshop produces custom solid-wood furniture, live-edge tables, Murphy beds, and commercial-grade pieces using traditional joinery and hand-applied finishes. Each project moves through a collaborative design process where clients select wood species — such as alder, oak, walnut, maple, cherry, or reclaimed barn wood — along with hardware, leather, or fabric upholstery. The company operates a showroom and production facility in the Gallatin Valley, serving clients across Montana and nationwide.
 
-The company serves both residential and commercial clients. Its portfolio includes furnishings for private homes, hotels, resorts, lodges, banks, corporate offices, and universities across Montana and the wider United States.
+Black Timber Furniture serves residential homeowners as well as hospitality, commercial, and institutional clients. Its portfolio includes furnishings for private homes, hotels, resorts, lodges, banks, corporate offices, and universities throughout the United States.
 
-Fullerton’s veteran ownership informs a service model centered on integrity and heirloom quality. By sourcing regionally and avoiding synthetic finishes, Black Timber aims to deliver furniture that lasts for generations while supporting local supply chains.
+The company emphasizes locally sourced, chemical-free materials and a veteran-owned service ethos as its primary differentiators. Fullerton states that every detail — from wood selection to final delivery — is managed to ensure the furniture lasts for generations while supporting local communities.
 
 ## Known for
-- Local, chemical-free material sourcing
-- Full custom design collaboration (wood, finish, hardware, upholstery)
-- Handcrafted using traditional woodworking techniques
-- Veteran-owned, service rooted in traditional American values
-- Heirloom-quality furniture built for generations
+- Sources local, chemical-free hardwoods
+- Handcrafted using traditional joinery and finishing techniques
+- Veteran-owned with customer service rooted in traditional American values
+- Full customization from wood species to hardware and upholstery
+- Showroom and workshop in Four Corners, Montana
 
 ## Capabilities
 - Custom solid wood furniture
 - Live edge furniture
-- Murphy beds
-- Commercial furniture
-- Custom furniture design
-- Wood species selection (Alder, Oak, Walnut, Maple, Cherry, Reclaimed barn wood)
-- Custom finishing
-- Upholstery (leather, fabric)
+- Murphy bed fabrication
+- Commercial furniture manufacturing
+- Furniture design and engineering
+- Wood species selection and sourcing
+- Hand-applied finishes
+- Upholstery integration (leather/fabric)
+- Hardware selection and installation
 
 ## Industries
 - Residential
-- Hospitality (hotels, resorts, lodges)
+- Hospitality
 - Commercial office
-- Education (universities)
-- Financial (banks)
+- Banking/financial
+- Education
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -260,16 +273,15 @@ Fullerton’s veteran ownership informs a service model centered on integrity an
 
 <details><summary>Sources</summary>
 
-- Location: Bozeman, Montana -> db
-- Owned by Veteran Todd Fullerton -> /
+- Location: Four Corners near Bozeman, Montana -> /
+- Veteran-owned by Todd Fullerton -> /
 - 13 years in business -> /
 - Materials: Alder, Red Oak, White Oak, Black Walnut, Maple, Cherry, Reclaimed Barn Wood -> /
 - Industries served: homes, hotels, banks, resorts, lodges, commercial offices, universities -> /
 - Capabilities: Custom Solid Wood Furniture, Live Edge Furniture, Murphy Beds, Commercial Furniture -> db
-- Showroom in Four Corners near Bozeman -> /
-- Custom design collaboration (wood, finish, hardware, upholstery) -> /
-- Traditional woodworking techniques -> /
-- Chemical-free, local material sourcing -> /
+- Showroom in Four Corners -> /
+- Chemical-free materials -> /
+- Traditional handcrafting techniques -> /
 </details>
 
 ---
@@ -279,20 +291,20 @@ Fullerton’s veteran ownership informs a service model centered on integrity an
 **Old description:** Blazon Apparel + Print, based in Columbia, SC, is your go-to shop for custom merchandise. We specialize in screen printing, embroidery, and promotional products, offering top-notch design and print quality. With super-fast turnarounds, low minimums, competitive pricing, and unparalleled attention to detail, we cater to a diverse range of clients.
 
 ## About
-Blazon Apparel + Print operates from Gaston, South Carolina, in the Columbia metropolitan area. The business was established in 1999 and rebranded to its current name in 2019. It remains a family-owned and operated company, though the founders are not named in public materials.
+Blazon Apparel + Print operates from Gaston, South Carolina, in the Columbia metropolitan area. The business was established in 1999 and rebranded to its current name in 2019. It remains a family-owned and operated company, founded on the idea of bringing people together through customized apparel and promotional items.
 
-The shop produces custom apparel and promotional items entirely in-house, running screen-printing presses, embroidery machines, and direct-to-garment (DTG) printers under one roof. Additional capabilities include direct-to-film printing, leather patches, embroidered patches, 3D patches, PVC patches, puff embroidery, promotional products such as tumblers, bags and pens, signs and banners, and online merchandise stores for group ordering. Graphic design support and end-to-end fulfillment are also offered.
+The shop runs all decoration in-house, with screen-printing presses, embroidery machines, and direct-to-garment (DTG) printers under one roof. Capabilities also include direct-to-film printing, a range of patch styles (leather, embroidered, 3D, PVC), puff embroidery, and promotional products such as tumblers, bags, and pens. Turnaround is typically two weeks standard or one week for rush orders, with low minimum quantities.
 
-The company serves teams and leagues, schools and booster clubs, businesses and work crews, and churches and nonprofits, both locally and nationwide. Typical projects range from church retreat shirts and team uniforms to fundraiser merchandise, event signage and corporate branded gear.
+Blazon serves sports teams and leagues, schools and booster clubs, businesses and work crews, churches and nonprofits, shipping both locally and nationwide. Clients include organizations needing team uniforms, event merchandise, corporate branded gear, and fundraising apparel.
 
-Blazon emphasizes its community-focused mission, stating it is dedicated to bringing people together around companies, communities and causes through customized apparel. Practical differentiators include low minimum orders, a two-week standard turnaround with a one-week rush option, free delivery in the Greater Columbia area, and BBB A+ accreditation.
+The company emphasizes its family-owned roots and in-house production as differentiators, stating that controlling every step allows them to guarantee quality and meet tight deadlines. They also offer free delivery in the Greater Columbia area and no-obligation consultations on-site or virtually.
 
 ## Known for
-- In-house production: screen printing, embroidery and DTG under one roof
+- In-house screen printing, embroidery, and DTG under one roof
 - Low minimum order quantities
-- 2-week standard turnaround, 1-week rush available
+- 2-week standard turnaround, 1-week rush option
+- Family-owned and operated since 1999
 - Free delivery in Greater Columbia, SC area
-- Family-owned and operated with BBB A+ accreditation
 
 ## Capabilities
 - Screen printing
@@ -306,18 +318,15 @@ Blazon emphasizes its community-focused mission, stating it is dedicated to brin
 - Puff embroidery
 - Promotional products sourcing
 - Signs and banners
-- Online merchandise stores
+- Online merch store setup
 - Graphic design services
-- End-to-end fulfillment
 
 ## Industries
-- Teams and leagues
-- Schools and boosters
-- Businesses and crews
-- Churches and nonprofits
-
-## Certifications
-- BBB A+ Accredited
+- Sports teams and leagues
+- Schools and booster clubs
+- Businesses and corporate crews
+- Churches and religious organizations
+- Nonprofits
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -327,26 +336,20 @@ Blazon emphasizes its community-focused mission, stating it is dedicated to brin
 
 <details><summary>Sources</summary>
 
-- Company name: Blazon Apparel + Print -> db
-- Location: Gaston, South Carolina -> db, /about-us
 - Established in 1999, rebranded to Blazon in 2019 -> /about-us
 - Family-owned and operated -> /about-us
-- In-house production: screen printing, embroidery, DTG under one roof -> /
-- Capabilities: screen printing, embroidery, DTG, direct-to-film, leather patches, embroidered patches, 3D patches, PVC patches, puff embroidery -> /about-us
-- Promotional products: tumblers, bags, pens -> /
+- Headquartered in Gaston, South Carolina -> /about-us and db
+- In-house screen printing, embroidery, DTG -> /
+- Direct-to-film, leather patches, embroidered patches, 3D patches, PVC patches, puff embroidery -> /about-us
+- Promotional products (tumblers, bags, pens) -> / and /about-us
 - Signs and banners -> /
-- Online merchandise stores for groups -> /
-- Graphic design services -> /about-us
-- End-to-end fulfillment -> /
-- Industries served: teams and leagues, schools and boosters, businesses and crews, churches and nonprofits -> /
-- Turnaround: 2 weeks standard, 1 week rush -> /
+- Online merch stores for teams and schools -> /
+- Serves teams & leagues, schools & boosters, business & crews, churches & nonprofits -> /
+- 2 weeks standard turnaround, 1 week rush -> /
 - Low minimums -> /
-- Free delivery in Greater Columbia, SC area -> /about-us
-- BBB A+ Accredited -> /
-- Brands printed on: Bella + Canvas, Richardson, Next Level, Gildan, Nike, Under Armour, Champion -> /about-us
-- Showroom in Gaston, SC -> /about-us
-- Virtual consultations available -> /about-us
-- Serving local and nationwide customers -> /
+- Free delivery in Greater Columbia area -> /about-us
+- No-obligation consultations on-site or virtual -> /about-us
+- Brands printed on: Bella+Canvas, Richardson, Next Level, Gildan, Nike, Under Armour, Champion -> / and /about-us
 </details>
 
 ---
@@ -356,36 +359,37 @@ Blazon emphasizes its community-focused mission, stating it is dedicated to brin
 **Old description:** For five generations, our family has been a trusted and valued producer for many of the leading food companies and finer dining establishments across America. Along the way, we started cooking products that people
 
 ## About
-Blount Fine Foods is headquartered in Warren, Rhode Island, and traces its roots to 1880 when Eddie B. Blount started an oyster company on the coast of West Barrington. The business remains family-owned and operated through five generations, with F. Nelson Blount transforming it into a clam enterprise in Warren during the 1940s and Ted Blount diversifying into value-added seafood items like clam chowder in the 1980s.
+Blount Fine Foods operates from Warren, Rhode Island, where the company has been rooted since 1880. Eddie B. Blount founded an oyster business on the coast of West Barrington, and the enterprise passed through five generations of the Blount family. In the 1940s, F. Nelson Blount shifted the focus to a clam operation in Warren, and Ted Blount later diversified into value‑added seafood items such as clam chowder during the 1980s. Today the business remains family‑owned and operated, led by the sixth generation.
 
-Today the company manufactures premium fresh prepared foods — soups, chowders, sides, entrees, mac & cheese, and comfort meals — using kettle-cooking methods at a large plant built in Fall River, Massachusetts, in the 2000s. Its products are distributed to grocery stores, club stores, and restaurants across all 50 states, serving both retail and food-service channels.
+The company manufactures premium fresh prepared foods — soups, chowders, mac & cheese, sides and entrees — using kettle‑cooking methods and modern facilities. A large production plant in Fall River, Massachusetts supports volume manufacturing, and the product line is distributed to grocery stores, club stores and restaurants across all 50 states. Blount also runs a food‑service and hot‑to‑go division that produces private‑label items for national brands.
 
-Blount supplies food companies, finer dining establishments, and national retail chains, with its food-service and hot-to-go lines producing soups for recognizable brands. The company also operates its own Clam Shack line, drawing on New England seafood heritage.
+Customers include retail grocery chains, warehouse clubs, food‑service operators and restaurant groups. The company’s clam shack soups and other homestyle recipes are sold under its own labels and through co‑packing agreements, serving both branded and private‑label channels.
 
-Blount emphasizes simple, pronounceable ingredient lists and a blend of tradition and innovation. It holds several food safety certifications, supports community nonprofits through food donations, and maintains a family-oriented culture with employee benefits such as free meals and incentive programs.
+Blount emphasizes simple, pronounceable ingredient lists and holds several food‑safety certifications to assure product safety. The firm also donates servings to local nonprofits as part of a corporate giving program, reflecting a mission to provide high‑quality, time‑saving meals for families.
 
 ## Known for
 - Family-owned and operated for five generations
-- Simple, pronounceable ingredient lists
-- Kettle-cooked soups and chowders
-- Food safety certifications earned
-- Community giving through food donations
+- Kettle-cooked soups and chowders made with simple ingredients
+- Food safety certified production facilities
+- Nationwide distribution to all 50 states
+- Corporate giving program donating meals to local nonprofits
 
 ## Capabilities
+- Kettle cooking
 - Prepared foods manufacturing
 - Product development
-- Kettle cooking
-- Food service supply
-- Retail distribution
-- Marketing and brand development
+- Co-packing / private label
+- Food safety certified production
+- Seafood processing
+- Sourcing and ingredient selection
 
 ## Industries
-- Food manufacturing
 - Food service
 - Retail grocery
 - Club stores
 - Restaurants
-- Fine dining
+- Prepared foods manufacturing
+- Seafood processing
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -395,17 +399,16 @@ Blount emphasizes simple, pronounceable ingredient lists and a blend of traditio
 
 <details><summary>Sources</summary>
 
-- Founded in 1880 by Eddie B. Blount in Barrington, RI -> /about-us
-- Family-owned and operated -> /about-us
+- Founded 1880 by Eddie B. Blount in Barrington, RI -> /about-us
+- Family-owned and operated for five generations -> /about-us
+- Manufactures premium fresh prepared foods (soups, chowders, mac & cheese, sides, entrees) -> /about-us
+- Kettle cooking method used for soups and chowders -> /about-us
+- Large production plant in Fall River, MA -> /about-us
+- Products sold in grocery stores, club stores, restaurants in all 50 states -> /about-us
+- Food service and hot-to-go line producing private-label items for brands -> /about-us
+- Several food safety certifications earned -> /about-us
+- Corporate giving program donating servings to local nonprofits -> /about-us
 - Headquarters in Warren, Rhode Island -> db
-- Manufactures prepared soups, chowders, sides, entrees, mac & cheese, meals -> /about-us, /
-- Sells to grocery stores, club stores, restaurants in all 50 states -> /about-us
-- Operates a large plant in Fall River, MA -> /about-us
-- Uses kettle cooking process -> /about-us
-- Emphasizes simple, pronounceable ingredient lists -> /about-us
-- Holds food safety certifications -> /about-us
-- Donates food to local nonprofits -> /about-us
-- Five generations of family leadership -> /about-us
 </details>
 
 ---
@@ -415,30 +418,29 @@ Blount emphasizes simple, pronounceable ingredient lists and a blend of traditio
 **Old description:** Since 1987, Paul Sr. has been accomodating the special needs and orders of valued customers. However, over the past decade, Paul Sr. and little Paul have been working together full- time to create products that bring light to excellent, American-built furniture. We also do piecework to fit your manufacturing needs. So, if you need quality furniture, cabinets or anything out of wood -
 
 ## About
-Blue Mountain Woodworks operates from Timbo, Arkansas, where it was founded in 1987 by Paul Gillam Sr. The business began as a one-man operation accommodating special customer orders, and over the past decade Paul Sr. has been joined full-time by his son, Paul Gillam Jr., forming a father-son partnership.
+Blue Mountain Woodworks operates from Timbo, Arkansas, where it was founded in 1987 by Paul Gillam Sr. The business began as a one-man operation accommodating special orders, and over the past decade Paul Sr. has been joined full-time by his son, Paul Gillam, forming a father-son partnership.
 
-The shop produces custom-made furniture, cabinets, and other wood products using native Arkansan hardwoods sourced from the Ozarks. Available species include walnut, cherry, red oak, white oak, hickory, ash, maple, and aromatic red cedar. In addition to finished pieces, the company offers piecework services to support other manufacturers' production needs.
+The shop produces custom-made furniture, cabinets, and other wood products, working exclusively with native Arkansan hardwoods sourced from the Ozarks — including walnut, cherry, red oak, white oak, hickory, ash, maple, and aromatic red cedar. In addition to finished pieces, the company offers piecework services to meet the manufacturing needs of other businesses.
 
-Customers range from individuals seeking long-lasting, American-made heirloom furniture to manufacturers requiring outsourced wood component work. The company does not specify particular industry sectors beyond general furniture and cabinetry markets.
+Customers range from individuals seeking long-lasting, American-made heirloom furniture to manufacturers requiring outsourced wood component production. The company serves the furniture and cabinetry markets directly and also supports broader manufacturing supply chains through its piecework capabilities.
 
-The Gillams emphasize their use of local Ozark hardwoods and their commitment to American-built quality as what distinguishes their work. The business was started to bring light to excellent, American-built furniture and to meet the special needs of valued customers.
+The founders emphasize American-built quality and the use of local hardwoods as the foundation of their reputation, positioning each piece as a durable heirloom rather than a disposable product.
 
 ## Known for
-- Father-son partnership with hands-on involvement
-- Native Ozark hardwoods (walnut, cherry, oak, hickory, ash, maple, cedar)
-- Piecework services for other manufacturers
-- Custom furniture and cabinetry made to order
+- Custom furniture and cabinets built from native Ozark hardwoods
+- Piecework services for manufacturing partners
+- American-made heirloom quality
 
 ## Capabilities
-- Custom furniture making
-- Cabinet making
-- Piecework / contract manufacturing
-- Hardwood milling and joinery
+- Custom furniture manufacturing
+- Cabinet manufacturing
+- Wood piecework
+- Hardwood milling and selection
 
 ## Industries
 - Furniture
 - Cabinetry
-- Wood products manufacturing
+- Manufacturing
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -449,13 +451,12 @@ The Gillams emphasize their use of local Ozark hardwoods and their commitment to
 <details><summary>Sources</summary>
 
 - Founded 1987 -> db
-- Headquarters Timbo, Arkansas -> db
-- Father-son partnership (Paul Sr. and Paul Jr.) -> /
-- Custom furniture, cabinets, wood products -> /
-- Native Arkansan hardwoods from Ozarks -> /
-- Wood species: Walnut, Cherry, Red Oak, White Oak, Hickory, Ash, Maple, Aromatic Red Cedar -> /
+- Father-son partnership (Paul Sr. and Paul Gillam) -> /
+- Headquarters Timbo, Arkansas -> /
+- Custom furniture, cabinets, and wood products -> /
+- Native Arkansan hardwoods: Walnut, Cherry, Red Oak, White Oak, Hickory, Ash, Maple, Aromatic Red Cedar -> /
 - Piecework for manufacturing needs -> /
-- Contact: Paul Gillam -> /
+- American-made heirloom positioning -> /
 </details>
 
 ---
@@ -465,49 +466,47 @@ The Gillams emphasize their use of local Ozark hardwoods and their commitment to
 **Old description:** BRG is your full-service shop for all things branded. Our most popular services are featured below. Don’t see what you’re looking for? Send us a message by clicking below – we’re always happy to help.
 
 ## About
-Blue Ridge Graphics is a family-owned and operated business in Charlottesville, Virginia. Founded in 1979 by John and Ruth Kulick, the company began with a passion for t-shirt printing, starting with a print for Organic Gardening Magazine. In 2010 and 2011, the next generation, Will and Jackson, joined full-time, continuing the legacy.
+Blue Ridge Graphics operates from Charlottesville, Virginia, where it was founded in 1979 by John and Ruth Kulick as a family-owned venture born from a passion for T-shirt printing. The company's first job was a print for Organic Gardening Magazine, and the business has remained in the family, with the founders' sons Will and Jackson joining full-time in 2010 and 2011 to lead a second generation.
 
-The company specializes in screen printing, embroidery, promotional products, and web stores. Screen printing services include standard inks (plastisol, water-based), special effects (algae ink, foil, metallic, glow-in-the-dark), simulated process, and transfers. Embroidery was added in 2021. They also offer corporate awards, trade show booths, and signage. The shop operates with low minimums of 24 pieces and a standard two-week turnaround after proof approval.
+The shop specializes in screen printing using plastisol, water-based, algae-based, foil, metallic, glow-in-the-dark, simulated-process, and transfer inks, and added embroidery in 2021 to become a full-service decorator. It also supplies promotional products, corporate awards, trade-show booths, signage, and online company stores, serving customers across the Mid-Atlantic region from its Charlottesville facility.
 
-Blue Ridge Graphics serves a diverse clientele across the Mid-Atlantic region, including university athletics, student groups, retailers, local businesses, national events, and international musicians. They have serviced the Charlottesville area and beyond for over 40 years.
+Clients range from university athletic departments and student groups to retailers, local businesses, national event organizers, and international touring musicians. The company has also produced custom apparel for youth organizations such as 4-H and corporate uniform programs for area employers.
 
-The company differentiates itself through its Sustainable Green Printing Partnership (SGP) certification, earned in 2023, reflecting a commitment to environmentally friendly practices such as water-based and algae-based inks. They emphasize personal service, with a team of experts and artists working directly with customers.
+The founders' original focus on craftsmanship evolved into a commitment to sustainable practices, earning the firm Sustainable Green Printing Partnership (SGP) certification in 2023—the only commercial apparel screen printer in the United States to hold it. Blue Ridge Graphics emphasizes low minimums of 24 pieces, a standard two-week turnaround after proof approval, and a stock of over 500 ink colors with PMS matching.
 
 ## Known for
-- Only commercial apparel screen printer in the U.S. with SGP certification
-- Family-owned and operated since 1979
-- Low minimums: 24 pieces
+- Only commercial apparel screen printer in the U.S. with Sustainable Green Printing Partnership certification
+- Minimum order of 24 pieces with same decoration
 - Standard two-week turnaround after proof approval
-- Uses water-based and algae-based inks
+- Over 500 stock ink colors with PMS matching capability
+- Family-owned since 1979, now second-generation run
 
 ## Capabilities
-- Screen printing (plastisol, water-based inks)
-- Special effects screen printing (algae ink, foil, metallic, glow-in-the-dark)
-- Simulated process printing
-- Heat transfer printing
+- Screen printing (plastisol, water-based, algae ink, foil, metallic, glow-in-the-dark, simulated process, transfers)
 - Embroidery
-- Promotional products sourcing
-- Web store management
-- Corporate awards production
-- Trade show booth production
-- Signage production
-- Graphic design and art assistance
+- Promotional products
+- Corporate awards
+- Trade show booths
+- Signage
+- Web stores
+- Custom logo products
+- Art and design assistance
 - PMS color matching
+- Rush order service
 
 ## Industries
 - University athletics
 - Student groups
-- Retail
+- Retailers
 - Local businesses
 - National events
 - International musicians
-- Corporate
 
 ## Certifications
 - Sustainable Green Printing Partnership (SGP)
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1979
 - **Ownership:** Family-owned
 - **Headquarters:** Charlottesville, Virginia
@@ -516,23 +515,18 @@ The company differentiates itself through its Sustainable Green Printing Partner
 
 - Founded in 1979 by John and Ruth Kulick -> /about
 - Family-owned and operated -> /about
-- Located in Charlottesville, Virginia -> /about, db
-- Screen printing, embroidery, promotional products, web stores -> /about, /services, /
-- SGP certification in 2023 -> /about
-- Minimum order 24 pieces -> /services, /
-- Standard turnaround 2 weeks after proof approval -> /services
-- Uses water-based and algae inks -> /about, /services
-- Clientele: university athletics, student groups, retailers, local businesses, national events, international musicians -> /about
+- Headquarters in Charlottesville, Virginia -> /about, db
+- Screen printing services since 1979 -> /services
 - Embroidery added in 2021 -> /about
-- Will and Jackson joined in 2010-2011 -> /about
-- Special effects: algae ink, foil, metallic, glow-in-the-dark -> /services
-- Simulated process and transfers -> /services
-- Corporate awards, trade show booths, signage -> /about
-- PMS color matching -> /services
-- Upfront payment accepted cash, checks, credit cards -> /services
-- Vector files preferred (.ai, .pdf, .eps) -> /services
-- Over 500 ink colors in stock -> /services
-- Servicing Charlottesville area for over 40 years -> /
+- Promotional products, corporate awards, trade show booths, signage, web stores -> /about
+- Sustainable Green Printing Partnership (SGP) certification in 2023 -> /about, /
+- Minimum order 24 pieces -> /services, /
+- Standard turnaround 2 weeks after proof approval -> /services, /
+- Over 500 ink colors in stock, PMS color matching -> /services
+- Clientele: university athletics, student groups, retailers, local businesses, national events, international musicians -> /about
+- Second generation (Will and Jackson) joined in 2010-2011 -> /about
+- Use of water-based and algae inks -> /about
+- Only commercial apparel screen printer in US with SGP certification -> /
 </details>
 
 ---
@@ -542,60 +536,57 @@ The company differentiates itself through its Sustainable Green Printing Partner
 **Old description:** Blue Sky Smart Solutions offers everything you need to monitor, manage and protect your home and family. Our team of smart home experts will work with you to select and install the system that best meets your unique needs and budget – all backed by the highest level of personalized service.
 
 ## About
-Blue Sky Smart Solutions, headquartered in Wichita, Kansas, traces its roots to 1996 when it began as Blue Sky Satellite Services in Kansas City. The family-owned company started with satellite installations and has since grown into a regional provider of smart home technology and installation services across the Midwest.
+Blue Sky Smart Solutions is headquartered in Wichita, Kansas, and traces its roots to 1996 when it began as Blue Sky Satellite Services in Kansas City. The company remains family-owned and has expanded from a satellite installation business into a multi-state provider of smart home and connectivity solutions.
 
-Today the company employs over 300 people and serves more than 150,000 customers nationwide from offices in Kansas, Nebraska, Iowa, Missouri, and Wisconsin. Its technicians install and integrate smart home systems, including security monitoring, automation, satellite TV (Dish TV), and Starlink internet, while also managing fiber optic projects for residential and commercial clients.
+Today the firm employs over 300 technicians and support staff across offices in Kansas, Nebraska, Iowa, Missouri, and Wisconsin. It installs and integrates satellite television (as a Dish TV partner), Starlink broadband, whole-home automation, and fiber-optic infrastructure for residential customers, serving more than 150,000 households across the Midwest.
 
-The primary customer base is residential homeowners seeking connected-home solutions, though the company also supports builders and property managers through its whole-home installation and service packages. Partnerships with Dish TV and Starlink allow Blue Sky to offer bundled entertainment and connectivity options.
+The customer base consists primarily of homeowners and families seeking connected-home technology, with the company positioning itself as a local expert that manages everything from equipment selection to ongoing support. Partnerships with national brands such as Dish and Starlink allow it to offer carrier-grade services under a single point of contact.
 
-Blue Sky emphasizes personalized service, describing its technicians as award-winning and its culture as family-oriented. Leadership highlights continuous investment in employee training and development as a key differentiator, aiming to retain talent that delivers consistent, high-quality installations.
+Leadership emphasizes a culture of personalized service and employee development, citing award-winning technicians and a 'work-hard-play-hard' environment as differentiators. The company says its family-owned structure enables decisions that prioritize long-term customer relationships over short-term volume.
 
 ## Known for
-- Family-owned since 1996
-- Over 300 employees across five Midwestern states
-- Services 150,000+ customers nationwide
-- Award-winning technician team with dedicated training program
-- Authorized installer for Dish TV and Starlink
+- Family-owned with over 300 employees
+- Personalized service backed by award-winning technicians
+- Authorized partner for Dish TV and Starlink installations
+- Three decades of telecommunications and smart-home experience
+- Multi-state footprint across the Midwest
 
 ## Capabilities
-- Smart home system installation and integration
 - Satellite TV installation (Dish TV)
-- Starlink satellite internet installation
-- Fiber optic installation and project management
-- Home security and monitoring setup
-- Smart home automation configuration
-- Technician training and development
+- Starlink broadband installation
+- Smart home system integration
+- Fiber optic project management
+- Whole-home automation installation
+- Residential technology consulting
+- Technician training and certification
+- Personalized customer support
 
 ## Industries
-- Residential smart home
 - Telecommunications
-- Satellite communications
-- Home security
-- Internet service provision
+- Smart Home Technology
+- Residential Installation Services
 
 ## Company details
 - **Company Type:** Installer / service company
 - **Founded:** 1996
-- **Employees:** 300+
+- **Employees:** over 300
 - **Ownership:** Family-owned
 - **Headquarters:** Wichita, Kansas
 
 <details><summary>Sources</summary>
 
-- Headquarters in Wichita, Kansas -> db
 - Founded in 1996 -> /about-us
-- Family-owned -> /about-us
-- Started as Blue Sky Satellite Services in Kansas City -> /about-us
+- Family-owned business -> /about-us
 - Over 300 employees -> /about-us
-- Services over 150,000 customers nationwide -> /about-us
+- Service over 150,000 customers -> /about-us
+- Headquarters in Wichita, Kansas -> db
 - Offices in Kansas, Nebraska, Iowa, Missouri, Wisconsin -> /
-- Provides smart home installation, monitoring, management -> /
-- Partners with Dish TV and Starlink -> /
-- Award-winning technicians -> /about-us
-- Personalized service, treat customers like family -> /about-us
-- Investment in employee training and development -> /about-us
-- Fiber project management -> /about-us
-- Technician training program -> /about-us
+- Started as Blue Sky Satellite Services in Kansas City -> /about-us
+- Leadership team includes Greg Bennett, Brad Johnson, Heidi McNary, Mike Crews -> /about-us
+- Services: satellite installation, Starlink internet, smart home, fiber projects -> / and /about-us
+- Industries: telecommunications, smart home -> /about-us
+- Personalized service, experienced technicians -> /
+- Partnerships with Dish TV and Starlink -> /
 </details>
 
 ---

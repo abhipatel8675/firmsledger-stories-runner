@@ -1,539 +1,522 @@
 fetched p0240-raw.json 10 / 10
-RETRY servall-uniform-linen-supply HTTP Error 503: Service Unavailable
-RETRY service-electric-cable-tv-communications-bethlehem-hq HTTP Error 503: Service Unavailable
 fetched p0241-raw.json 10 / 10
-RETRY servall-uniform-linen-supply HTTP Error 503: Service Unavailable
-RETRY servall-uniform-linen-supply HTTP Error 503: Service Unavailable
+RETRY silver-state-wire-cable-inc HTTP Error 503: Service Unavailable
 fetched p0242-raw.json 10 / 10
-ok   Selhorst Woodworks | Las Vegas/San Diego | Accent Walls and Ceilings, Barn Doors, Shelving, Beams 
+RETRY skippy-foods HTTP Error 503: Service Unavailable
+RETRY solar-heat-electric HTTP Error 503: Service Unavailable
 fetched p0243-raw.json 10 / 10
+RETRY solar-home-oklahoma-electric HTTP Error 503: Service Unavailable
+RETRY solar-on-earth HTTP Error 503: Service Unavailable
 RETRY solar-panel-store HTTP Error 503: Service Unavailable
 fetched p0244-raw.json 10 / 10
-ok   Severance Foods / Pan De Oro 
-fetched p0245-raw.json 10 / 10
-ok   Sheet Metal Enterprises 
-ok   Silver State Wire & Cable Inc 
-RETRY southern-maple-co HTTP Error 503: Service Unavailable
-ok   Six B Apparel 
-fetched p0246-raw.json 10 / 10
-RETRY spectra-wood-showroom HTTP Error 429: Too Many Requests
-RETRY solar-power-vermont HTTP Error 500: Internal Server Error
-RETRY solora-solar HTTP Error 500: Internal Server Error
-RETRY southern-medical-corporation HTTP Error 500: Internal Server Error
-RETRY service-electric-cable-tv-communications-bethlehem-hq HTTP Error 500: Internal Server Error
-RETRY southeastern-solar-inc HTTP Error 500: Internal Server Error
-RETRY space-tables-inc HTTP Error 500: Internal Server Error
-RETRY solar-alliance HTTP Error 500: Internal Server Error
-RETRY sierra-biomed-autoclave-and-medical-equipment-service-and-repairs HTTP Error 500: Internal Server Error
-ok   Sherven's Grain & Livestock 
-fetched p0247-raw.json 10 / 10
-ok   Sigler 
-ok   Solar Home Oklahoma Electric 
-RETRY standard-wire-cable-co HTTP Error 503: Service Unavailable
-ok   Snap Gourmet Foods, Inc. 
-ok   Simplex Fabrication Welding and CNC Plasma Cutting 
-fetched p0248-raw.json 10 / 10
-fetched p0249-raw.json 10 / 10
-ok   Source Engineering & Manufacturing 
-fetched p0250-raw.json 9 / 10
-ok   Solar Scapes 
-ok   Sigla Furniture | Best Custom Furniture Manufacturer in Los Angeles 
-ok   SinnovaTek 
-ok   Southern Motion 
-ok   Sentinel Solar 
-fetched p0251-raw.json 10 / 10
-ok   Siri Wire Co 
-ok   Seven Trees Woodworking 
-ok   Shaker Furniture of Maine 
-ok   Smarter Furnishings 
-ok   Sovereign Plastics 
-ok   Speed & Engine Warehouse 
-fetched p0252-raw.json 10 / 10
-ok   Skippy Foods 
-ok   SparkFun Electronics 
-ok   Sierra Metals 
-fetched p0253-raw.json 10 / 10
-ok   Servall Uniform & Linen Supply 
-ok   Specialty Plastics Inc. 
-ok   Standex Electronics Inc 
-RETRY service-metal-fabricators Expecting ',' delimiter: line 78 column 4 (char 3845)
-ok   South Park Metalworks 
-ok   Solar Panel Company 
-fetched p0254-raw.json 10 / 10
-RETRY spartan-auto-heavy-truck-parts HTTP Error 500: Internal Server Error
-ok   Solar Alternatives, Inc. 
-RETRY sun-state-plastics-inc HTTP Error 503: Service Unavailable
-ok   Solar On Earth 
-ok   Solar Heat & Electric 
-RETRY sicamore-semi 'NoneType' object has no attribute 'group'
-ok   Southern Packaging, LP 
-ok   Solar Pro 
-ok   Sportex Apparel 
-RETRY sun-tech-industries-inc HTTP Error 503: Service Unavailable
-ok   Southeastern Cable Contractors, Inc. 
-ok   Standard Supply Electronics 
-ok   State Fabricators Inc 
-ok   Spotted Owl Timber Inc. 
-ok   Somic America 
-ok   St Louis Spring Co. 
-RETRY sungold-foods HTTP Error 503: Service Unavailable
-fetched p0255-raw.json 10 / 10
-ok   Southpaw Furniture Co 
-ok   Spider Electronics 
-fetched p0256-raw.json 10 / 10
-ok   Southern Maple Co 
-ok   Steel of West Virginia Melt Shop 
-RETRY sustainable-island-products HTTP Error 503: Service Unavailable
-ok   Sonrise Apparel Services LLC 
-fetched p0257-raw.json 10 / 10
-ok   State Wire & Terminal, Inc. 
-ok   Solar Panel Store 
-ok   State Medical Equipment 
-fetched p0258-raw.json 10 / 10
-RETRY sun-state-plastics-inc HTTP Error 503: Service Unavailable
-RETRY sicamore-semi HTTP Error 503: Service Unavailable
-ok   Studio Wise 
-RETRY syscom-tech HTTP Error 503: Service Unavailable
-ok   Southern Metal Fabricators 
-ok   Spurlock Custom Woodworks 
-RETRY s-lido-llc HTTP Error 503: Service Unavailable
-ok   Steel Nutz Metal Fabrication 
-ok   Southern Medical Corporation 
-fetched p0259-raw.json 10 / 10
-ok   Stone Enterprises Inc. 
-ok   Stone Sisters Organics 
-ok   Spacestor New York Design Centre 
-ok   Suncovia 
-RETRY tdo-home-entertainment HTTP Error 503: Service Unavailable
-ok   Solar Alliance 
-PAGE DONE p0242-profiles.json
-ok   SouthEastern Solar, Inc 
-ok   SurePoint Electronics LLC 
-ok   Steel Tectonics Inc 
-ok   Stegall Metal Worx 
-ok   Summit Plastic Molding 
-ok   Solar Power Vermont 
-ok   Standard Wire & Cable Co 
-PAGE DONE p0246-profiles.json
-ok   Specialized Switchgear Solutions LLC 
-ok   Sundance Custom Steel 
-ok   Stuke Iowa 
-RETRY tampa-metal-works-inc HTTP Error 503: Service Unavailable
-ok   Stuart's Sheet Metal 
-ok   South Bay Circuits, Inc. 
-ok   Space Tables Inc 
-PAGE DONE p0244-profiles.json
-ok   Sylvester Electronics 
 ok   Service Electric Cable TV & Communications - Bethlehem HQ 
-ok   Spectra Wood Showroom 
-RETRY tekin HTTP Error 503: Service Unavailable
-ok   Stitch Kentucky Inc. 
-ok   Sunny Side Solutions 
-ok   Stevens Equipment Supply 
-ok   Sustar Woodworks 
-ok   Surplus Electronics Sales 
-ok   Sunpol Solar 
-RETRY texas-kings-textile HTTP Error 503: Service Unavailable
-ok   Spartan Auto & Heavy Truck Parts 
-PAGE DONE p0245-profiles.json
-ok   Solora Solar 
-PAGE DONE p0243-profiles.json
-ok   Sunland wood products 
-ok   Sunnyside Solar 
-ok   T & M Enterprises Inc 
-ok   Sustainergy Cooperative 
-ok   Swirl Woodcraft 
-ok   Sterling Plastics Inc 
-ok   SunPower Corporation 
+RETRY solora-solar HTTP Error 503: Service Unavailable
+fetched p0245-raw.json 10 / 10
+RETRY solar-scapes HTTP Error 503: Service Unavailable
+ok   Selhorst Woodworks | Las Vegas/San Diego | Accent Walls and Ceilings, Barn Doors, Shelving, Beams 
+fetched p0246-raw.json 10 / 10
+RETRY south-bay-circuits-inc HTTP Error 503: Service Unavailable
+RETRY source-engineering-manufacturing HTTP Error 503: Service Unavailable
+ok   Shaker Furniture of Maine 
+RETRY southern-maple-co HTTP Error 503: Service Unavailable
+ok   SiCamore Semi 
+fetched p0247-raw.json 10 / 10
+ok   Severance Foods / Pan De Oro 
+ok   Six B Apparel 
+fetched p0248-raw.json 10 / 10
+RETRY spotted-owl-timber-inc HTTP Error 503: Service Unavailable
+ok   Sentinel Solar 
+ok   Sheet Metal Enterprises 
+ok   Seven Trees Woodworking 
+ok   Smarter Furnishings 
+fetched p0249-raw.json 10 / 10
+ok   Simplex Fabrication Welding and CNC Plasma Cutting 
+fetched p0250-raw.json 9 / 10
+ok   SinnovaTek 
 ok   Sierra Biomed - Autoclave and Medical Equipment Service and Repairs 
-RETRY sumitomo-chemical-advanced-technologies-dba-sumika-electronic-materials 'NoneType' object has no attribute 'group'
-ok   Surface Mount Depot 
-ok   SunSpark Technology 
-ok   Taiyo America Inc 
-ok   Sun State Plastics Inc 
-RETRY tom-simmons-custom-woodworking HTTP Error 503: Service Unavailable
-ok   Take Two Unlimited 
-RETRY tomfoolery-wood-co HTTP Error 503: Service Unavailable
-ok   Sólido LLC 
-ok   Techstar Molding 
-ok   Sun Tech Industries Inc 
-ok   Sungold Foods 
-PAGE DONE p0248-profiles.json
-ok   Tee Shirt Printing 
-ok   Switchgear Solutions, An IPS Company 
-ok   TDO Home Entertainment 
-skip The Solar Fields 
-RETRY town-country-furniture HTTP Error 503: Service Unavailable
-ok   The Wood Factory 
-ok   Tekin 
-ok   T&R Electric Supply Co., Inc. 
-ok   Sustainable Island Products 
-ok   Sunrise Electronics, Inc. 
-ok   Switchgear Resources, inc. 
-RETRY treasure-valley-steel-inc HTTP Error 503: Service Unavailable
-ok   The Franco Company 
-ok   TRC Electronics, Inc. 
-ok   TCS Electronics, Inc 
-ok   T.O. Plastics, Inc. 
-ok   TechNH, Inc. 
-ok   Texas Live Wire 
-ok   Teddy's Tees Inc 
-RETRY triad-semiconductor-inc HTTP Error 503: Service Unavailable
-ok   Telink Semiconductor 
-ok   TASC, Technical & Assembly Services Corporation 
-RETRY topsy-products HTTP Error 500: Internal Server Error
-RETRY technotronix HTTP Error 500: Internal Server Error
-RETRY toray-plastics-america-inc HTTP Error 500: Internal Server Error
-RETRY the-metal-knight HTTP Error 500: Internal Server Error
-RETRY superior-machine-welding-inc Expecting ',' delimiter: line 97 column 4 (char 4898)
-ok   Teets Cattle Company 
-RETRY triton-solar HTTP Error 503: Service Unavailable
-ok   Syscom Tech 
-ok   Terrain Biomedical, Inc. 
-ok   The Metal Guy LLC 
-ok   Tin Man Duct Fabrication 
-ok   TW Garner Food Company 
-ok   Tampa Metal Works Inc 
-ok   Tillet Custom Fabrication 
-ok   Throttle Down Kustoms Inc. 
-ok   Tachi-S Automotive Seating USA 
+ok   Solar Panel Company 
+ok   Servall Uniform & Linen Supply 
+ok   Sherven's Grain & Livestock 
+fetched p0251-raw.json 10 / 10
+ok   Sigla Furniture | Best Custom Furniture Manufacturer in Los Angeles 
+ok   Solar Alliance 
+ok   Southeastern Cable Contractors, Inc. 
+ok   Solar Power Vermont 
+fetched p0252-raw.json 10 / 10
 ok   Service Metal Fabricators 
 PAGE DONE p0240-profiles.json
-RETRY sicamore-semi 'NoneType' object has no attribute 'group'
-ok   Tesla BioHealing Center 
-ok   Teton Valley Brands 
-ok   The Wooden Nickel - Custom Live Edge Furniture 
-ok   Texas Kings Textile 
-ok   Tailored Industry: Factory 
-ok   Tova Industries LLC 
-RETRY toray-plastics-america-inc HTTP Error 503: Service Unavailable
-ok   The Tri-M Group, LLC 
-ok   Systems Wire & Cable Ltd 
-PAGE DONE p0250-profiles.json
-ok   Tasly Pharmaceuticals, Inc 
-ok   Tucs Equipment Inc 
-ok   TSM Corporation 
-PAGE DONE p0251-profiles.json
-ok   Tomahawk Manufacturing Inc 
-RETRY united-packaging-inc HTTP Error 503: Service Unavailable
-ok   Town & Country Furniture 
-RETRY united-states-electric-co HTTP Error 503: Service Unavailable
-ok   Tower Metal Works Inc 
-ok   Tegra Medical LLC 
-ok   Texas Food Pack 
-ok   TriMark Hockenbergs Equipment & Supply 
-ok   Tech Energy America LLC 
-ok   Tom Simmons Custom Woodworking 
-ok   Topsy Products 
-ok   Thunderbird Molding Elkhart 
-ok   The Sheet Metal Shop 
-ok   Twisted Iron Fabrication LLC 
-ok   Tomfoolery Wood Co. 
-ok   Tribe Solar and Electric 
-ok   The Factory 10 
-ok   TratFab 
-ok   The Metal Knight 
-RETRY sumitomo-chemical-advanced-technologies-dba-sumika-electronic-materials 'NoneType' object has no attribute 'group'
-ok   Trademark Plastics, Inc. 
-ok   True Position Plastics, LLC 
-ok   USA Wire & Cable, Inc. 
-ok   Ullmer's Dairy Equipment & Fabrication 
-ok   Texas Instruments 
-PAGE DONE p0253-profiles.json
-ok   Tubular Automotive 
-ok   Triton Solar 
-ok   Tri Star Molding 
-ok   Thos. Moser Freeport Showroom 
-ok   Troy Brook Visions Fine Art Furniture Gallery and Studio 
-ok   United Cable Company 
-ok   The Plastics Group of America 
-PAGE DONE p0254-profiles.json
-ok   Twisted Apparel Co. 
-ok   True Weld Metal Fabrication 
-ok   Triad Semiconductor, Inc. 
-ok   Two Wire Electric Supply Co 
-ok   United States Electric Co. 
-ok   Universal Solar Direct of Indiana 
-ok   U.S. Packaging & Wrapping LLC. 
-ok   Underground Printing 
-ok   Trinity Plastics Incorporated 
-PAGE DONE p0257-profiles.json
-ok   Treasure Valley Steel Inc. 
-ok   Unbound Solar 
-ok   Tonka Electronics 
-ok   Torque King 4x4 
-ok   Tri-Angle Metal Fab 
-ok   United industries Virginia 
-ok   Technotronix 
-PAGE DONE p0252-profiles.json
-ok   USA Injection Molding 
-ok   Twinbrook Woodworks 
-ok   United Wire Company 
-RETRY toyota-boshoku-kentucky-harrodsburg Expecting ',' delimiter: line 45 column 4 (char 2701)
-ok   Toray Plastics (America), Inc. 
-PAGE DONE p0255-profiles.json
-RETRY superior-machine-welding-inc 'NoneType' object has no attribute 'group'
-ok   SiCamore Semi 
+ok   Solar Pro 
+ok   Solar Alternatives, Inc. 
+ok   Snap Gourmet Foods, Inc. 
+RETRY stone-sisters-organics HTTP Error 503: Service Unavailable
+ok   Somic America 
+ok   Skippy Foods 
+ok   Speed & Engine Warehouse 
+ok   Spacestor New York Design Centre 
+ok   Spider Electronics 
+ok   Space Tables Inc 
+RETRY stuke-iowa HTTP Error 503: Service Unavailable
+ok   Standex Electronics Inc 
+ok   Solar On Earth 
+fetched p0253-raw.json 10 / 10
+ok   Sigler 
+ok   Specialized Switchgear Solutions LLC 
+ok   Sierra Metals 
+fetched p0254-raw.json 10 / 10
+RETRY suncovia HTTP Error 503: Service Unavailable
+ok   Southern Motion 
+ok   Siri Wire Co 
+RETRY sungold-foods HTTP Error 503: Service Unavailable
+ok   Spurlock Custom Woodworks 
+ok   South Park Metalworks 
+ok   State Medical Equipment 
+ok   Southpaw Furniture Co 
+ok   Spectra Wood Showroom 
+ok   Silver State Wire & Cable Inc 
 PAGE DONE p0241-profiles.json
-ok   Unified Medical Equipment Solutions 
-ok   United Communications 
-ok   Turntech 
-PAGE DONE p0258-profiles.json
-ok   United Packaging Inc 
-RETRY sumitomo-chemical-advanced-technologies-dba-sumika-electronic-materials 'NoneType' object has no attribute 'group'
-ok   Universal Enterprises Inc 
-PAGE DONE p0259-profiles.json
-ok   Toyota Boshoku Kentucky - Harrodsburg 
-PAGE DONE p0256-profiles.json
+ok   Solar Heat & Electric 
+ok   Spartan Auto & Heavy Truck Parts 
+ok   Solar Home Oklahoma Electric 
+ok   Sovereign Plastics 
+ok   Steel Tectonics Inc 
+fetched p0255-raw.json 10 / 10
+ok   Southern Metal Fabricators 
+ok   St Louis Spring Co. 
+ok   Specialty Plastics Inc. 
+RETRY sylvester-electronics HTTP Error 503: Service Unavailable
+fetched p0256-raw.json 10 / 10
+ok   Standard Supply Electronics 
+ok   Stuart's Sheet Metal 
+fetched p0257-raw.json 10 / 10
+RETRY t-r-electric-supply-co-inc HTTP Error 503: Service Unavailable
+ok   SouthEastern Solar, Inc 
+ok   Steel of West Virginia Melt Shop 
+ok   SparkFun Electronics 
+ok   Sportex Apparel 
+ok   Stevens Equipment Supply 
+ok   Sustainergy Cooperative 
+RETRY tsm-corporation HTTP Error 503: Service Unavailable
+ok   Solar Scapes 
+RETRY tw-garner-food-company HTTP Error 503: Service Unavailable
+fetched p0258-raw.json 10 / 10
+RETRY tachi-s-automotive-seating-usa HTTP Error 503: Service Unavailable
+ok   South Bay Circuits, Inc. 
+ok   Spotted Owl Timber Inc. 
+PAGE DONE p0245-profiles.json
+ok   Southern Medical Corporation 
+ok   Stitch Kentucky Inc. 
+fetched p0259-raw.json 10 / 10
+ok   SunPower Corporation 
+ok   Southern Packaging, LP 
+RETRY tsm-corporation HTTP Error 503: Service Unavailable
+ok   Southern Maple Co 
+PAGE DONE p0244-profiles.json
+ok   Sun Tech Industries Inc 
+RETRY technh-inc HTTP Error 503: Service Unavailable
+ok   Sunny Side Solutions 
+ok   Sunland wood products 
+ok   Stone Enterprises Inc. 
+ok   Sólido LLC 
+ok   Sun State Plastics Inc 
+ok   Solar Panel Store 
+PAGE DONE p0242-profiles.json
+ok   SunSpark Technology 
+ok   Sustar Woodworks 
+ok   Steel Nutz Metal Fabrication 
+ok   Source Engineering & Manufacturing 
+ok   State Wire & Terminal, Inc. 
+ok   Sonrise Apparel Services LLC 
+ok   Sunnyside Solar 
+ok   Syscom Tech 
+ok   Sustainable Island Products 
+ok   Sundance Custom Steel 
+ok   Studio Wise 
+ok   State Fabricators Inc 
+ok   Stegall Metal Worx 
+ok   Sterling Plastics Inc 
+ok   Sungold Foods 
+ok   Sunrise Electronics, Inc. 
+ok   Solora Solar 
+PAGE DONE p0243-profiles.json
+ok   Surface Mount Depot 
+ok   Sunpol Solar 
+ok   Swirl Woodcraft 
+ok   Stone Sisters Organics 
+ok   Switchgear Solutions, An IPS Company 
+RETRY thunderbird-molding-elkhart HTTP Error 503: Service Unavailable
+RETRY tin-man-duct-fabrication HTTP Error 503: Service Unavailable
+ok   Suncovia 
+RETRY tomfoolery-wood-co HTTP Error 503: Service Unavailable
+RETRY thunderbird-molding-elkhart HTTP Error 503: Service Unavailable
+ok   Telink Semiconductor 
+ok   Switchgear Resources, inc. 
+ok   Sylvester Electronics 
+RETRY topsy-products HTTP Error 503: Service Unavailable
+ok   Stuke Iowa 
+RETRY thunderbird-molding-elkhart HTTP Error 503: Service Unavailable
 ok   Superior Machine & Welding, Inc. 
-PAGE DONE p0249-profiles.json
+RETRY tova-industries-llc HTTP Error 503: Service Unavailable
+ok   TCS Electronics, Inc 
+ok   Texas Food Pack 
+RETRY town-country-furniture HTTP Error 503: Service Unavailable
+RETRY tova-industries-llc HTTP Error 503: Service Unavailable
+ok   Teton Valley Brands 
+ok   The Franco Company 
+ok   TW Garner Food Company 
+skip The Solar Fields 
+ok   TASC, Technical & Assembly Services Corporation 
+ok   Tailored Industry: Factory 
+RETRY tri-star-molding HTTP Error 503: Service Unavailable
+ok   TDO Home Entertainment 
+ok   Tee Shirt Printing 
+ok   Taiyo America Inc 
+ok   Surplus Electronics Sales 
+ok   Texas Live Wire 
+RETRY triton-solar HTTP Error 503: Service Unavailable
+ok   Techstar Molding 
+ok   Take Two Unlimited 
+RETRY triton-solar HTTP Error 503: Service Unavailable
+ok   The Metal Knight 
+ok   The Factory 10 
 ok   Sumitomo Chemical Advanced Technologies DBA Sumika Electronic Materials 
 PAGE DONE p0247-profiles.json
+ok   Teets Cattle Company 
+RETRY turntech HTTP Error 503: Service Unavailable
+ok   The Tri-M Group, LLC 
+ok   Summit Plastic Molding 
+PAGE DONE p0248-profiles.json
+ok   The Wood Factory 
+RETRY standard-wire-cable-co The read operation timed out
+ok   Tekin 
+ok   Tachi-S Automotive Seating USA 
+skip TriMark Hockenbergs Equipment & Supply 
+ok   Toyota Boshoku Kentucky - Harrodsburg 
+ok   The Metal Guy LLC 
+ok   Texas Instruments 
+ok   Tom Simmons Custom Woodworking 
+ok   T & M Enterprises Inc 
+ok   Tova Industries LLC 
+ok   Tomahawk Manufacturing Inc 
+ok   Tomfoolery Wood Co. 
+ok   Tegra Medical LLC 
+ok   T&R Electric Supply Co., Inc. 
+ok   Tasly Pharmaceuticals, Inc 
+RETRY the-plastics-group-of-america 'NoneType' object has no attribute 'group'
+ok   Tower Metal Works Inc 
+ok   Tampa Metal Works Inc 
+ok   Thos. Moser Freeport Showroom 
+ok   Technotronix 
+ok   Texas Kings Textile 
+ok   TRC Electronics, Inc. 
+ok   The Sheet Metal Shop 
+ok   Tech Energy America LLC 
+ok   Topsy Products 
+ok   SurePoint Electronics LLC 
+PAGE DONE p0249-profiles.json
+ok   Treasure Valley Steel Inc. 
+ok   Throttle Down Kustoms Inc. 
+ok   T.O. Plastics, Inc. 
+ok   Tri-Angle Metal Fab 
+ok   Town & Country Furniture 
+ok   Thunderbird Molding Elkhart 
+ok   TSM Corporation 
+PAGE DONE p0251-profiles.json
+ok   Tubular Automotive 
+ok   Twinbrook Woodworks 
+ok   Tesla BioHealing Center 
+ok   Tonka Electronics 
+ok   Two Wire Electric Supply Co 
+ok   Toray Plastics (America), Inc. 
+ok   Trademark Plastics, Inc. 
+ok   Teddy's Tees Inc 
+ok   Troy Brook Visions Fine Art Furniture Gallery and Studio 
+ok   Unbound Solar 
+ok   Twisted Iron Fabrication LLC 
+ok   Tin Man Duct Fabrication 
+ok   Standard Wire & Cable Co 
+PAGE DONE p0246-profiles.json
+ok   True Position Plastics, LLC 
+ok   Turntech 
+ok   Terrain Biomedical, Inc. 
+PAGE DONE p0253-profiles.json
+RETRY systems-wire-cable-ltd The read operation timed out
+ok   Torque King 4x4 
+ok   Tribe Solar and Electric 
+ok   United States Electric Co. 
+ok   The Wooden Nickel - Custom Live Edge Furniture 
+ok   Tucs Equipment Inc 
+ok   Triton Solar 
+ok   Triad Semiconductor, Inc. 
+ok   Tillet Custom Fabrication 
+PAGE DONE p0255-profiles.json
+ok   TratFab 
+ok   Underground Printing 
+ok   TechNH, Inc. 
+PAGE DONE p0252-profiles.json
+ok   U.S. Packaging & Wrapping LLC. 
+ok   United Cable Company 
+ok   Universal Solar Direct of Indiana 
+ok   USA Injection Molding 
+RETRY true-weld-metal-fabrication Expecting ',' delimiter: line 51 column 4 (char 2940)
+ok   United Packaging Inc 
+ok   Twisted Apparel Co. 
+ok   USA Wire & Cable, Inc. 
+ok   Trinity Plastics Incorporated 
+ok   United Wire Company 
+ok   United industries Virginia 
+ok   Unified Medical Equipment Solutions 
+ok   Ullmer's Dairy Equipment & Fabrication 
+PAGE DONE p0258-profiles.json
+ok   The Plastics Group of America 
+PAGE DONE p0254-profiles.json
+ok   Tri Star Molding 
+PAGE DONE p0256-profiles.json
+ok   Universal Enterprises Inc 
+RETRY united-communications 'NoneType' object has no attribute 'group'
+ok   True Weld Metal Fabrication 
+PAGE DONE p0257-profiles.json
+ok   Systems Wire & Cable Ltd 
+PAGE DONE p0250-profiles.json
+ok   United Communications 
+PAGE DONE p0259-profiles.json
 ALL-DONE errors 0 of 200
-collected 199
-service-metal-fabricators | nums ['3:25']
+collected 196
 severance-foods-pan-de-oro | wording/address
 sicamore-semi | wording/address
-smarter-furnishings | wording/address
+sierra-metals | wording/address
+sigla-furniture-best-custom-furniture-manufacturer-in-los-angeles | wording/address
+silver-state-wire-cable-inc | certs ['Conflict Minerals Compliance']
 solar-heat-electric | wording/address
-solar-panel-store | wording/address
-sonrise-apparel-services-llc | certs ['CAGE Code 8RA44']
-south-bay-circuits-inc | certs ['AS9102 First Article Inspection']
+solar-pro | wording/address
 southeastern-cable-contractors-inc | wording/address
-southern-metal-fabricators | certs ['Canadian Welding Bureau (CWB) W47.1', 'Canadian Welding Bureau (CWB) W59 CSA']
-southern-packaging-lp | wording/address
-spartan-auto-heavy-truck-parts | nums ['30,000']
 specialty-plastics-inc | nums ['21']
 spider-electronics | wording/address
 st-louis-spring-co | nums ['50']
-standard-supply-electronics | wording/address
-state-fabricators-inc | nums ['1,000', '5,000']
-steel-of-west-virginia-melt-shop | wording/address
+state-fabricators-inc | nums ['5,000', '1,000']
 sterling-plastics-inc | wording/address
-sumitomo-chemical-advanced-technologies-dba-sumika-electronic-materials | certs ['OHSAS 18001 (historical)']
+stevens-equipment-supply | wording/address
 summit-plastic-molding | nums ['125,000']
-sunpower-corporation | wording/address
-sunnyside-solar | wording/address
 sunrise-electronics-inc | wording/address
 superior-machine-welding-inc | nums ['0.0001'] ; certs ['WOSB (Women-Owned Small Business)']
-systems-wire-cable-ltd | wording/address
+sustainable-island-products | wording/address
+switchgear-solutions-an-ips-company | wording/address
+systems-wire-cable-ltd | certs ['ISO 9001:2015 (pending)']
+tdo-home-entertainment | wording/address
 tsm-corporation | nums ['200,000']
-tachi-s-automotive-seating-usa | wording/address
 taiyo-america-inc | wording/address
-technh-inc | nums ['0.5', '10']
+teddy-s-tees-inc | wording/address
+teets-cattle-company | wording/address
 texas-kings-textile | wording/address
+the-plastics-group-of-america | nums ['1,000,000']
+the-tri-m-group-llc | nums ['2022']
 thos-moser-freeport-showroom | wording/address
+town-country-furniture | wording/address
 triad-semiconductor-inc | wording/address
 trinity-plastics-incorporated | nums ['9001:2008']
 true-position-plastics-llc | wording/address
-turntech | nums ['17.5']
-two-wire-electric-supply-co | wording/address
+u-s-packaging-wrapping-llc | wording/address
+ullmer-s-dairy-equipment-fabrication | nums ['2013']
 underground-printing | wording/address
-united-communications | nums ['8,000']
-collected 199
+collected 196
 done selhorst-woodworks-las-vegas-san-diego-accent-walls-and-ceilings-barn-doors-shelving-beams 0 
 done sentinel-solar 1 
-done servall-uniform-linen-supply 0 
-done service-electric-cable-tv-communications-bethlehem-hq 0 
-done service-metal-fabricators 0 
-done seven-trees-woodworking 1 
-done severance-foods-pan-de-oro 2 
-done shaker-furniture-of-maine 0 
-done sheet-metal-enterprises 4 
-done sherven-s-grain-livestock 0 
-done sicamore-semi 0 
-done sierra-biomed-autoclave-and-medical-equipment-service-and-repairs 0 
-done sierra-metals 1 
-done sigla-furniture-best-custom-furniture-manufacturer-in-los-angeles 2 
-done sigler 0 
-done silver-state-wire-cable-inc 2 
+done servall-uniform-linen-supply 1 
+done service-electric-cable-tv-communications-bethlehem-hq 1 
+done service-metal-fabricators 1 
+done seven-trees-woodworking 0 
+done severance-foods-pan-de-oro 0 
+done shaker-furniture-of-maine 2 
+done sheet-metal-enterprises 3 
+done sherven-s-grain-livestock 7 
+done sicamore-semi 1 
+done sierra-biomed-autoclave-and-medical-equipment-service-and-repairs 2 
+done sierra-metals 2 
+done sigla-furniture-best-custom-furniture-manufacturer-in-los-angeles 0 
+done sigler 1 
+done silver-state-wire-cable-inc 3 
 done simplex-fabrication-welding-and-cnc-plasma-cutting 0 
-done sinnovatek 0 
-done siri-wire-co 1 
-done six-b-apparel 3 
+done sinnovatek 1 
+done siri-wire-co 0 
+done six-b-apparel 0 
 done skippy-foods 0 
 done smarter-furnishings 0 
 done snap-gourmet-foods-inc 0 
 done solar-alliance 0 
-done solar-alternatives-inc 2 
-done solar-heat-electric 0 
+done solar-alternatives-inc 0 
+done solar-heat-electric 2 
 done solar-home-oklahoma-electric 1 
-done solar-on-earth 0 
-done solar-panel-company 0 
-done solar-panel-store 0 
-done solar-power-vermont 8 
+done solar-on-earth 3 
+done solar-panel-company 1 
+done solar-panel-store 2 
+done solar-power-vermont 2 
 done solar-pro 0 
 done solar-scapes 0 
 done solora-solar 0 
-done somic-america 0 
-done sonrise-apparel-services-llc 2 
+done somic-america 1 
+done sonrise-apparel-services-llc 0 
 done source-engineering-manufacturing 0 
-done south-bay-circuits-inc 1 
+done south-bay-circuits-inc 2 
 done south-park-metalworks 0 
 done southeastern-solar-inc 0 
 done southeastern-cable-contractors-inc 0 
 done southern-maple-co 2 
 done southern-medical-corporation 2 
-done southern-metal-fabricators 0 
-done southern-motion 1 
-done southern-packaging-lp 0 
-done southpaw-furniture-co 0 
-done sovereign-plastics 0 
-done space-tables-inc 0 
-done spacestor-new-york-design-centre 1 
+done southern-metal-fabricators 3 
+done southern-motion 3 
+done southern-packaging-lp 1 
+done southpaw-furniture-co 2 
+done sovereign-plastics 1 
+done space-tables-inc 2 
+done spacestor-new-york-design-centre 3 
 done sparkfun-electronics 0 
-done spartan-auto-heavy-truck-parts 5 
-done specialized-switchgear-solutions-llc 3 
-done specialty-plastics-inc 2 
+done spartan-auto-heavy-truck-parts 3 
+done specialized-switchgear-solutions-llc 2 
+done specialty-plastics-inc 0 
 done spectra-wood-showroom 1 
-done speed-engine-warehouse 4 
-done spider-electronics 1 
+done speed-engine-warehouse 5 
+done spider-electronics 0 
 done sportex-apparel 0 
-done spotted-owl-timber-inc 2 
-done spurlock-custom-woodworks 0 
-done st-louis-spring-co 0 
-done standard-supply-electronics 0 
+done spotted-owl-timber-inc 0 
+done spurlock-custom-woodworks 3 
+done st-louis-spring-co 2 
+done standard-supply-electronics 2 
 done standard-wire-cable-co 0 
-done standex-electronics-inc 2 
+done standex-electronics-inc 0 
 done state-fabricators-inc 0 
 done state-medical-equipment 0 
 done state-wire-terminal-inc 1 
-done steel-nutz-metal-fabrication 0 
-done steel-tectonics-inc 3 
-done steel-of-west-virginia-melt-shop 1 
-done stegall-metal-worx 1 
-done sterling-plastics-inc 1 
-done stevens-equipment-supply 1 
-done stitch-kentucky-inc 2 
-done stone-enterprises-inc 2 
+done steel-nutz-metal-fabrication 1 
+done steel-tectonics-inc 2 
+done steel-of-west-virginia-melt-shop 5 
+done stegall-metal-worx 2 
+done sterling-plastics-inc 0 
+done stevens-equipment-supply 0 
+done stitch-kentucky-inc 0 
+done stone-enterprises-inc 1 
 done stone-sisters-organics 1 
 done stuart-s-sheet-metal 0 
-done studio-wise 1 
-done stuke-iowa 0 
-done sumitomo-chemical-advanced-technologies-dba-sumika-electronic-materials 0 
-done summit-plastic-molding 1 
-done sun-state-plastics-inc 1 
-done sun-tech-industries-inc 0 
-done sunpower-corporation 0 
+done studio-wise 4 
+done stuke-iowa 2 
+done summit-plastic-molding 3 
+done sun-state-plastics-inc 2 
+done sun-tech-industries-inc 1 
+done sunpower-corporation 1 
 done sunspark-technology 2 
 done suncovia 1 
-done sundance-custom-steel 1 
-done sungold-foods 1 
-done sunland-wood-products 2 
+done sundance-custom-steel 0 
+done sungold-foods 0 
+done sunland-wood-products 3 
 done sunny-side-solutions 0 
-done sunnyside-solar 2 
-done sunpol-solar 0 
+done sunnyside-solar 0 
+done sunpol-solar 1 
 done sunrise-electronics-inc 0 
-done superior-machine-welding-inc 2 
+done superior-machine-welding-inc 3 
 done surepoint-electronics-llc 0 
-done surface-mount-depot 0 
-done surplus-electronics-sales 0 
-done sustainable-island-products 2 
-done sustainergy-cooperative 0 
+done surface-mount-depot 1 
+done surplus-electronics-sales 2 
+done sustainable-island-products 0 
+done sustainergy-cooperative 1 
 done sustar-woodworks 1 
 done swirl-woodcraft 0 
-done switchgear-resources-inc 1 
+done switchgear-resources-inc 2 
 done switchgear-solutions-an-ips-company 1 
 done sylvester-electronics 2 
 done syscom-tech 0 
-done systems-wire-cable-ltd 3 
-done s-lido-llc 1 
-done t-m-enterprises-inc 0 
-done t-r-electric-supply-co-inc 1 
-done t-o-plastics-inc 2 
+done systems-wire-cable-ltd 2 
+done s-lido-llc 5 
+done t-m-enterprises-inc 1 
+done t-r-electric-supply-co-inc 0 
+done t-o-plastics-inc 0 
 done tasc-technical-assembly-services-corporation 0 
-done tcs-electronics-inc 1 
-done tdo-home-entertainment 0 
-done trc-electronics-inc 3 
-done tsm-corporation 1 
+done tcs-electronics-inc 2 
+done tdo-home-entertainment 3 
+done trc-electronics-inc 1 
+done tsm-corporation 0 
 done tw-garner-food-company 3 
 done tachi-s-automotive-seating-usa 0 
 done tailored-industry-factory 0 
-done taiyo-america-inc 0 
-done take-two-unlimited 2 
-done tampa-metal-works-inc 1 
-done tasly-pharmaceuticals-inc 0 
+done taiyo-america-inc 1 
+done take-two-unlimited 1 
+done tampa-metal-works-inc 0 
+done tasly-pharmaceuticals-inc 1 
 done tech-energy-america-llc 0 
 done technh-inc 0 
-done technotronix 0 
+done technotronix 1 
 done techstar-molding 1 
-done teddy-s-tees-inc 1 
-done tee-shirt-printing 0 
-done teets-cattle-company 5 
+done teddy-s-tees-inc 0 
+done tee-shirt-printing 1 
+done teets-cattle-company 0 
 done tegra-medical-llc 0 
 done tekin 1 
-done telink-semiconductor 2 
-done terrain-biomedical-inc 1 
-done tesla-biohealing-center 3 
-done teton-valley-brands 0 
-done texas-food-pack 2 
+done telink-semiconductor 1 
+done terrain-biomedical-inc 2 
+done teton-valley-brands 1 
+done texas-food-pack 0 
 done texas-instruments 1 
-done texas-kings-textile 2 
-done texas-live-wire 0 
-done the-factory-10 2 
+done texas-kings-textile 1 
+done texas-live-wire 2 
+done the-factory-10 0 
 done the-franco-company 0 
-done the-metal-guy-llc 0 
-done the-metal-knight 0 
-done the-plastics-group-of-america 0 
-done the-sheet-metal-shop 2 
+done the-metal-guy-llc 1 
+done the-metal-knight 1 
+done the-plastics-group-of-america 1 
+done the-sheet-metal-shop 0 
 done the-tri-m-group-llc 1 
-done the-wood-factory 2 
+done the-wood-factory 3 
 done the-wooden-nickel-custom-live-edge-furniture 0 
-done thos-moser-freeport-showroom 1 
+done thos-moser-freeport-showroom 2 
 done throttle-down-kustoms-inc 0 
 done thunderbird-molding-elkhart 0 
-done tillet-custom-fabrication 2 
-done tin-man-duct-fabrication 0 
-done tom-simmons-custom-woodworking 4 
-done tomahawk-manufacturing-inc 0 
-done tomfoolery-wood-co 1 
+done tillet-custom-fabrication 0 
+done tin-man-duct-fabrication 2 
+done tom-simmons-custom-woodworking 6 
+done tomahawk-manufacturing-inc 1 
+done tomfoolery-wood-co 2 
 done tonka-electronics 0 
 done topsy-products 1 
 done toray-plastics-america-inc 2 
-done torque-king-4x4 1 
-done tova-industries-llc 4 
-done tower-metal-works-inc 0 
+done torque-king-4x4 0 
+done tova-industries-llc 1 
+done tower-metal-works-inc 3 
 done town-country-furniture 0 
-done toyota-boshoku-kentucky-harrodsburg 1 
-done trademark-plastics-inc 0 
-done tratfab 3 
+done toyota-boshoku-kentucky-harrodsburg 3 
+done trademark-plastics-inc 1 
+done tratfab 1 
 done treasure-valley-steel-inc 1 
-done tri-star-molding 0 
+done tri-star-molding 1 
 done tri-angle-metal-fab 0 
-done trimark-hockenbergs-equipment-supply 2 
-done triad-semiconductor-inc 3 
-done tribe-solar-and-electric 1 
+done triad-semiconductor-inc 1 
+done tribe-solar-and-electric 0 
 done trinity-plastics-incorporated 0 
 done triton-solar 0 
-done troy-brook-visions-fine-art-furniture-gallery-and-studio 0 
+done troy-brook-visions-fine-art-furniture-gallery-and-studio 2 
 done true-position-plastics-llc 1 
-done true-weld-metal-fabrication 0 
-done tubular-automotive 1 
-done tucs-equipment-inc 5 
-done turntech 2 
-done twinbrook-woodworks 1 
-done twisted-apparel-co 1 
+done true-weld-metal-fabrication 1 
+done tubular-automotive 3 
+done tucs-equipment-inc 3 
+done turntech 0 
+done twinbrook-woodworks 3 
+done twisted-apparel-co 0 
+RETRY twisted-iron-fabrication-llc expected string or bytes-like object, got 'NoneType'
 done twisted-iron-fabrication-llc 2 
 done two-wire-electric-supply-co 2 
-done u-s-packaging-wrapping-llc 0 
+done u-s-packaging-wrapping-llc 1 
 done usa-injection-molding 0 
-done usa-wire-cable-inc 3 
-done ullmer-s-dairy-equipment-fabrication 1 
-done unbound-solar 0 
-done underground-printing 0 
-done unified-medical-equipment-solutions 1 
-done united-cable-company 4 
-done united-communications 1 
-done united-packaging-inc 2 
-done united-states-electric-co 5 
-done united-wire-company 0 
+done usa-wire-cable-inc 0 
+done ullmer-s-dairy-equipment-fabrication 0 
+done unbound-solar 1 
+done underground-printing 1 
+done unified-medical-equipment-solutions 0 
+done united-cable-company 2 
+done united-communications 2 
+done united-packaging-inc 0 
+done united-states-electric-co 3 
+done united-wire-company 4 
 done united-industries-virginia 0 
-done universal-enterprises-inc 2 
-done universal-solar-direct-of-indiana 0 
+done universal-enterprises-inc 0 
+done universal-solar-direct-of-indiana 1 
 ALL-DONE errors 0
-clean 195 | sentences removed 181 | needs review 4 | check errors 0
-REVIEW solar-power-vermont too short after fact-check (46 words)
-REVIEW tee-shirt-printing too short after fact-check (38 words)
-REVIEW tucs-equipment-inc too short after fact-check (70 words)
-REVIEW united-states-electric-co too short after fact-check (56 words)
-sql parts 3 stories 195
+clean 194 | sentences removed 204 | needs review 2 | check errors 0
+REVIEW sherven-s-grain-livestock too short after fact-check (45 words)
+REVIEW s-lido-llc too short after fact-check (72 words)
+sql parts 3 stories 194

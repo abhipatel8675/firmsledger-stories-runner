@@ -3,33 +3,32 @@
 **Old description:** Our Norman store is on Buchanan Avenue in historic Campus Corner, just a quick stroll from the University of Oklahoma. We're steps from unique boutiques like Blush, Threads Menswear, and plenty of great cafes—perfect for swinging by between classes or during a day out downtown.
 
 ## About
-Underground Printing operates a storefront Suite B, in Norman, Oklahoma’s historic Campus Corner district near the University of Oklahoma. The company’s founding year and ownership structure are not publicly disclosed in the available materials.
+Underground Printing operates a retail and production location Suite B, in Norman, Oklahoma’s historic Campus Corner district, steps from the University of Oklahoma. The store is part of the broader Underground Printing network, though the founding date and ownership structure for this specific location are not publicly disclosed.
 
-The shop provides custom apparel decoration services including screen printing and embroidery on t‑shirts, sweatshirts, hats, and other promotional products. It accepts orders of any size with no minimum quantity and offers free shipping on every order. An online group‑order platform and a browser‑based Design Studio allow customers to organize team orders and create artwork without specialized software.
+The shop specializes in screen printing and embroidery on apparel including t-shirts, sweatshirts, and hats, as well as a range of promotional products. It offers no minimum order quantities and free shipping on every order. Customers can use an online Design Studio to upload artwork or choose from a graphics library, and a group-order platform handles design coordination, size collection, and payment for teams and organizations. The facility’s square footage, employee count, and annual production volumes are not published.
 
-Customers range from university student groups and local businesses to event organizers and sports teams. Reviews highlight work with clients on tight budgets, repeat reorders for organizations, and quick turnaround on new designs.
+The company serves student groups at the nearby university, local businesses needing branded merchandise, event organizers, sports teams, and other organizations. Its walk-in store and appointment system cater to both small personal orders and larger group projects.
 
-The company emphasizes personal service — staff members such as Jessica Beets work directly with clients on pricing and adjustments — along with convenience features like walk‑in appointments, metered street parking, and a streamlined reorder process.
+Underground Printing emphasizes convenience with no order minimums, free shipping, and digital tools that streamline the design and ordering process. Customer reviews highlight quick turnaround times and personalized service from staff such as associate Jessica Beets.
 
 ## Known for
+- No minimum order quantities
 - Free shipping on every order
-- No minimum order quantity
-- Online group‑order platform for team coordination
-- Browser‑based Design Studio with artwork library
-- Quick turnaround on custom orders
+- Online group-order platform for design, organization, and payment collection
+- Design Studio with artwork upload and graphics library
 
 ## Capabilities
 - Screen printing
 - Embroidery
 - Custom apparel printing
-- Promotional products
-- Group order management
+- Promotional product customization
 - Online design studio
+- Group order management
 
 ## Industries
 - Student groups
 - Local businesses
-- Event planning
+- Event organizers
 - Sports teams
 - Organizations
 
@@ -39,14 +38,16 @@ The company emphasizes personal service — staff members such as Jessica Beets 
 
 <details><summary>Sources</summary>
 
-- Location: 566 Buchanan Avenue, Suite B, Norman, OK -> /
-- Services: screen printing, embroidery, custom t-shirts, sweatshirts, hats -> /
+- Location: 566 Buchanan Avenue, Suite B, Norman, OK 73069 -> /
+- Services: screen printing, embroidery, custom t-shirts, sweatshirts, hats, promotional products -> /
 - No order minimums -> /
 - Free shipping on every order -> /
-- Group order platform and Design Studio -> /
-- Customer examples: student groups, local businesses, events -> /
-- Staff: Jessica Beets -> /
-- Quick turnaround mentioned in reviews -> /
+- Online Design Studio for artwork upload and graphics library -> /
+- Group order platform for design, organization, and payment collection -> /
+- Customer types: student groups, local businesses, events, teams, organizations -> /
+- Store hours: Monday-Friday 9:00AM-5:00PM, closed weekends -> /
+- Contact: phone 405.701.6735, email ugpnor@undergroundshirts.com -> /
+- Associate Jessica Beets mentioned in reviews -> /
 </details>
 
 ---
@@ -56,54 +57,45 @@ The company emphasizes personal service — staff members such as Jessica Beets 
 **Old description:** At UMES, we are dedicated to providing high-quality care and innovative solutions to support you on your healing journey. Our highly trained clinical team specializes in a wide range of services, including orthotics, prosthetics, durable medical equipment, and respiratory care. Whether you need customized support for mobility, rehabilitation, or daily comfort, we are here to help with expertise and compassion. Every solution we offer is designed to improve your quality of life and restore independence.
 
 ## About
-Unified Medical Equipment Solutions operates from Jacksonville, Arkansas, with additional clinics in Bentonville, Jonesboro, and Newport. The company’s founding year and ownership structure are not publicly disclosed. It began as a provider of orthotic, prosthetic, durable medical equipment, and respiratory services across northern Arkansas.
+Unified Medical Equipment Solutions (UMES) operates from its headquarters in Jacksonville, Arkansas, with additional clinics in Bentonville, Jonesboro, and Newport. The company provides orthotic, prosthetic, durable medical equipment, and respiratory care services across northern Arkansas. No founding year or ownership details are publicly disclosed.
 
-The company delivers clinical services and custom-fabricated devices. Its clinical team provides orthotic services such as functional foot orthotics, ankle-foot orthoses, spinal orthoses, and cranial remolding helmets. Prosthetic services include post-operative care, transtibial and transfemoral prostheses, and partial foot devices. The durable medical equipment lineup spans walkers, hospital beds, CPAP/BiPAP units, wheelchairs, oxygen concentrators, and negative-pressure wound therapy systems. Custom design and fabrication is offered for orthotic and prosthetic devices.
+UMES delivers clinical services through a trained team that designs, fabricates, and fits custom orthotic and prosthetic devices, including cranial remolding helmets, spinal orthoses, and transtibial and transfemoral prostheses. The organization also supplies durable medical equipment such as walkers, hospital beds, CPAP and BiPAP units, oxygen concentrators, and negative pressure wound therapy systems. Custom design and fabrication are performed in-house for patient-specific devices.
 
-UMES serves patients, caregivers, and healthcare providers throughout northern Arkansas. Its customer base includes amputees, individuals with mobility impairments, and those requiring respiratory support. The company collaborates with physicians, therapists, and insurance providers to deliver prescribed equipment and ongoing support.
+The company serves individual patients, caregivers, and healthcare providers throughout northern Arkansas. Its client base includes amputees requiring post-operative and long-term prosthetic care, individuals with diabetic foot conditions, stroke survivors needing orthotic support, and patients requiring respiratory therapy equipment at home. UMES collaborates with physicians and therapists to ensure each solution aligns with clinical prescriptions.
 
-The company emphasizes innovation, compassion, and patient-centered care, stating it does not simply supply equipment but provides ongoing education and guidance. It highlights a commitment to area amputees and a focus on restoring independence and quality of life.
+UMES emphasizes a patient-centered approach that combines innovative technology with compassionate care, offering ongoing support, education, and follow-up visits beyond initial device delivery. The firm states that its mission is to restore mobility and independence through personalized treatment plans rather than simply supplying equipment.
 
 ## Known for
 - Custom design and fabrication of orthotic and prosthetic devices
-- Multiple clinic locations across northern Arkansas
-- Clinical team specializing in orthotics, prosthetics, DME, and respiratory care
-- Cranial remolding services
-- Ongoing patient support, education, and guidance
+- Multi-location clinical presence across northern Arkansas
+- Integrated durable medical equipment and respiratory product offerings
+- Clinical team collaboration with prescribing healthcare providers
+- Ongoing patient education and follow-up support
 
 ## Capabilities
-- Functional foot orthotics
-- Ankle-foot orthosis
-- Deformity prevention orthotics
-- Diabetic shoes and inserts
-- Knee orthoses
-- Post-stroke orthotics
-- Spinal orthoses
+- Orthotic design and fabrication
+- Prosthetic design and fabrication
 - Cranial remolding
-- Custom orthotic/prosthetic design and fabrication
+- Diabetic shoe and insert fitting
+- Spinal orthosis fabrication
+- Transtibial prosthetic fitting
+- Transfemoral prosthetic fitting
+- Partial foot prosthetic fitting
 - Post-operative prosthetic care
-- Transtibial prosthetics
-- Transfemoral prosthetics
-- Partial foot prosthetics
-- Prosthetic patient education
-- Prosthetic patient evaluation
-- Walkers and rollators
-- Semi-electric hospital beds
-- CPAP/BiPAP therapy
-- Manual wheelchairs
-- Canes and crutches
-- Bedside commodes
-- Oxygen concentrators
-- Portable oxygen tanks with conservers
-- Nebulizer machines and supplies
-- Negative pressure wound therapy
+- Patient evaluation and measurement
+- Patient education and training
+- Durable medical equipment provision (walkers, hospital beds, wheelchairs)
+- Respiratory equipment provision (CPAP/BiPAP, oxygen concentrators, nebulizers)
+- Negative pressure wound therapy setup
+- Custom orthotic and prosthetic fabrication
 
 ## Industries
-- Healthcare
 - Orthotics
 - Prosthetics
-- Durable Medical Equipment
-- Respiratory Care
+- Durable medical equipment
+- Respiratory care
+- Home healthcare
+- Post-operative rehabilitation
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -112,15 +104,14 @@ The company emphasizes innovation, compassion, and patient-centered care, statin
 <details><summary>Sources</summary>
 
 - Headquarters in Jacksonville, Arkansas -> db
-- Locations in Bentonville, Jacksonville, Jonesboro, Newport -> /
-- Services: orthotics, prosthetics, DME, respiratory care -> /
-- Custom design and fabrication capability -> db (capabilities)
-- Cranial remolding service -> db (capabilities)
-- Clinical team specialization -> /
-- Commitment to area amputees -> /
-- Innovation, compassion, patient-centered care -> /
-- Equipment types: walkers, hospital beds, CPAP, wheelchairs, oxygen concentrators, negative pressure wound therapy -> /services
-- Industries: healthcare, orthotics, prosthetics, DME, respiratory -> db (industries_served)
+- Clinics in Bentonville, Jonesboro, Newport, Arkansas -> /
+- Services: orthotics, prosthetics, durable medical equipment, respiratory care -> /
+- Custom design and fabrication of orthotic/prosthetic devices -> /services
+- Cranial remolding offered -> /services
+- Durable medical equipment includes walkers, hospital beds, CPAP/BiPAP, oxygen concentrators, negative pressure wound therapy -> /services
+- Serves patients across northern Arkansas -> /
+- Collaborates with healthcare providers -> /services
+- Patient education and follow-up visits emphasized -> /services
 </details>
 
 ---
@@ -130,36 +121,40 @@ The company emphasizes innovation, compassion, and patient-centered care, statin
 **Old description:** Reliable connectivity takes more than procurement. It takes experience, industry relationships, and a partner who understands how to navigate complex infrastructure projects. UCC helps businesses source, coordinate, and deploy connectivity solutions with precision and accountability.
 
 ## About
-Based in Summit, New Jersey, United Cable Company (UCC) has been operating for over two decades, recently celebrating 25 years in business. The company was founded with roots in lower Manhattan's financial district and has built relationships across every major global operator. Ownership details and founder names are not publicly disclosed.
+United Cable Company (UCC) operates from Summit, New Jersey. The firm traces its roots to lower Manhattan's financial district, where its team built relationships across every major global operator. While the company marks milestones such as 25 years in business, an exact founding year is not publicly disclosed. Ownership structure and founder names have not been shared.
 
-UCC operates as a carrier-neutral connectivity broker and managed services provider. Its core offerings include brokerage and managed services across 85-plus carrier networks and 10,000-plus points of presence, global network design and optimization, and construction contract services for end-to-end fiber deployment from site selection through ready-for-service delivery. The team brings a combined 75-plus years of industry experience.
+UCC delivers carrier-neutral connectivity solutions through three primary service lines: brokerage and managed services, network design and optimization, and construction contract services. The brokerage arm provides access to more than 85 carrier networks and over 10,000 points of presence worldwide, supporting dark fiber, Ethernet, wavelength, and IP transit solutions. The design practice creates global network architectures for performance, resiliency, and scale. Construction services cover end-to-end fiber deployment from site selection through ready-for-service delivery. The team brings a combined 75-plus years of industry experience.
 
-The company serves enterprises, data centers, and organizations requiring scalable network infrastructure. Typical engagements involve sourcing dark fiber, Ethernet services, wavelength connectivity, and IP transit, as well as designing networks for AI infrastructure growth and diversifying existing network routes. Clients include businesses in financial services, telecommunications, and technology sectors.
+The company serves enterprises, data center operators, and AI infrastructure builders that need to diversify networks, source capacity on new routes, or design for high-growth compute demands. Its client base spans financial services, telecommunications, and technology sectors requiring turnkey network designs with negotiated commercial terms.
 
-UCC differentiates itself by maintaining strict carrier neutrality, stating it is 'never in the middle' and 'always on top of your network.' The firm emphasizes turnkey network designs with negotiated commercial terms and on-time delivery, leveraging its extensive operator relationships to transform connectivity objectives into deployed solutions.
+UCC differentiates itself by remaining strictly carrier neutral — never acting as an intermediary but as an advocate for the client. It emphasizes on-time delivery, leveraging tens of thousands of on-net global telecom points of presence to translate connectivity objectives into operational networks.
 
 ## Known for
-- Carrier-neutral brokerage across 85+ carrier networks
-- Access to 10,000+ global points of presence
-- Global network design and optimization services
-- End-to-end fiber construction contract management
-- 75+ years of combined team experience
+- Carrier-neutral connectivity brokerage and management
+- Access to 85+ carrier networks and 10,000+ PoPs globally
+- Turnkey network design with negotiated commercial terms
+- End-to-end fiber construction from site selection to ready-for-service
+- 75+ years of combined team experience across global operators
 
 ## Capabilities
-- Brokerage & Managed Services
-- Network Design & Optimization
-- Construction Contract Services
-- Dark fiber sourcing
+- Brokerage & managed services
+- Network design & optimization
+- Construction contract services
+- Dark fiber procurement
 - Ethernet services
 - Wavelength connectivity
-- IP transit
-- Global network design
+- IP transit solutions
+- Global network architecture
 - Fiber network deployment
+- Site selection and permitting
+- Ready-for-service delivery
 
 ## Industries
 - Telecommunications
-- Financial services
 - AI infrastructure
+- Financial services
+- Data center connectivity
+- Enterprise networking
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -168,13 +163,14 @@ UCC differentiates itself by maintaining strict carrier neutrality, stating it i
 <details><summary>Sources</summary>
 
 - Headquarters: Summit, New Jersey -> db
-- Celebrating 25 years -> homepage
-- Carrier-neutral brokerage across 85+ carrier networks -> homepage
-- 10,000+ points of presence -> homepage
+- Roots in lower Manhattan's financial district -> homepage
 - 75+ years combined team experience -> homepage
+- 85+ carrier networks and 10K+ PoPs -> homepage
 - Services: Brokerage & Managed Services, Network Design & Optimization, Construction Contract Services -> homepage
-- Dark fiber, Ethernet, wavelength, IP transit -> homepage
-- AI infrastructure use case -> homepage
+- Carrier-neutral positioning -> homepage
+- Turnkey network designs with negotiated commercial terms -> homepage
+- End-to-end fiber deployment from site selection to ready-for-service -> homepage
+- Serves AI infrastructure, financial services, telecommunications -> homepage
 - LinkedIn URL -> db
 </details>
 
@@ -185,57 +181,60 @@ UCC differentiates itself by maintaining strict carrier neutrality, stating it i
 **Old description:** ). NDLD now provides long-distance service to another six local telecommunications providers in North Dakota. Along with establishing NDLD, Dakota Central, Polar Communications, and United Communications formed ND Telecom, which specializes in special circuit engineering.
 
 ## About
-United & Turtle Mountain Communications, headquartered in Langdon, North Dakota, traces its roots to February 1952 when the United Telephone Cooperative was organized by local residents to bring telephone service to rural northeastern North Dakota. West. Today the company operates from offices in Langdon, Bottineau, and Rolla.
+United & Turtle Mountain Communications is headquartered in Langdon, North Dakota, with additional offices in Bottineau and Rolla. The company traces its roots to February 1952, when it was established as the United Telephone Cooperative to bring telephone service to rural communities in northeastern North Dakota. It remains a cooperative owned by its members, governed by a local board, and staffed by residents of the areas it serves.
 
-The company provides high‑speed broadband internet, digital TV, digital telephone, and security services to residential and business customers across its service area. It owns and operates more than 330 miles of fiber‑optic cable and has deployed fiber‑to‑the‑home in Langdon, Bottineau, Walhalla, Rolette, and Rolla. Through its partnerships, it also provides long‑distance service to six other North Dakota carriers via North Dakota Long Distance (NDLD) and special‑circuit engineering through ND Telecom. The network includes Motorola MITS mobile systems, Stromberg Carlson DCO switches, and a CopperCom soft switch for CALEA compliance.
+The company provides high-speed broadband internet, digital TV, digital telephone, and security services to residential and business customers. Its network includes more than 330 miles of fiber-optic cable deployed across Langdon, Bottineau, Walhalla, Rolla, Rolette, and surrounding exchanges, enabling fiber-to-the-home connections and IPTV. Beyond retail services, United has formed several wholesale and infrastructure partnerships: North Dakota Long Distance (NDLD) with three other carriers for long-distance transport; ND Telecom for special circuit engineering; IdeaOne as a competitive local exchange carrier in the Fargo area; and Dakota Carrier Network (DCN), a statewide virtual private network serving school districts and government agencies. A wholly owned subsidiary, Turtle Mountain Communications, acquired exchanges and access lines from U.S. West in the 1990s, and the company has built cellular towers leased to Verizon Wireless in Rolla and Bottineau.
 
-Customers include rural households, small and large businesses, school districts, and government agencies served via the Dakota Carrier Network. The company has constructed towers for Verizon Wireless in Rolla and Bottineau, and previously supported the U.S. Department of Defense’s Safeguard Complex at Nekoma. Its United Telephone Educational Foundation has awarded nearly $450,000 in scholarships since inception.
+Customers range from individual households and small businesses to K‑12 school districts, governmental bodies, and other telecommunications providers that purchase wholesale transport and special circuits. The company also supports rural health care, agriculture, and emergency services through its network and emergency alert systems.
 
-The cooperative’s stated mission is to keep rural North Dakota communities connected so they can work and thrive. As a designated Smart Rural Community provider, it emphasizes local ownership, community reinvestment, and the deployment of advanced fiber infrastructure to bridge the digital divide.
+United describes its mission as keeping rural North Dakota communities strong by delivering essential communication services that allow people to connect, work, and thrive. As a designated Smart Rural Community provider, it emphasizes local decision‑making, community reinvestment through its educational foundation, and a workforce drawn from the towns it serves.
 
 ## Known for
-- Smart Rural Community provider designation
-- Over 330 miles of fiber‑optic network
-- Local offices in three North Dakota communities
-- Wholly‑owned subsidiary Turtle Mountain Communications
-- Partnerships with Verizon Wireless for cellular tower leases
+- Fiber-to-the-home network exceeding 330 miles across rural North Dakota
+- Smart Rural Community provider with local, member‑owned governance
+- Wholesale partnerships NDLD and ND Telecom for long‑distance and special circuits
+- Statewide virtual private network (DCN) serving schools and government
+- Cellular tower construction and leasing to national wireless carriers
 
 ## Capabilities
-- High-speed broadband internet
-- Digital TV services
+- Fiber-to-the-home installation
+- IPTV deployment
+- High-speed broadband internet (up to 1 Gbps and beyond)
+- Digital television services
 - Digital telephone services
 - Managed wireless (SmartWiFi)
-- SmartTalk business collaboration platform
-- Security camera surveillance (self-monitored)
-- ExperienceIQ parental controls
-- ProtectIQ network protection
-- SmartTV streaming app
-- Fiber-to-the-home installation
-- Long-distance carrier services (NDLD)
-- Special circuit engineering (ND Telecom)
-- Wireless DSL (via MMDS)
+- Business collaboration platform (SmartTalk)
+- Security camera systems (self‑monitored)
 - Emergency alert notification systems
-- Tower construction and leasing
-- CALEA-compliant voice switching
-- Voice mail, conference calling, Find Me features
-- Fiber network rerouting (89-mile project)
-- United Telephone Educational Foundation scholarships
+- CALEA‑compliant voice switching
+- Special circuit engineering (ND Telecom)
+- Long‑distance wholesale transport (NDLD)
+- Statewide virtual private network (DCN)
+- Cellular tower construction and leasing
+- Wireless DSL via MMDS
+- Multichannel Multipoint Distribution Service (MMDS) TV
+- Motorola Improved Mobile Telephone System (MITS) operation
+- Stromberg Carlson DCO switch operation
+- CopperCom soft switch deployment
+- Innovative Solution system for voicemail and conferencing
 
 ## Industries
 - Residential telecommunications
 - Business telecommunications
-- Education
+- Education (K‑12 school districts)
 - Government
-- Telecommunications carriers
-- Defense
+- Rural broadband infrastructure
+- Wireless infrastructure
+- Wholesale telecommunications
 
 ## Equipment
 - Motorola Improved Mobile Telephone System (MITS)
 - Stromberg Carlson DCO switches
 - CopperCom soft switch
 - Innovative Solution system
-- Multichannel Multipoint Distribution Service (MMDS) TV sites
+- Multichannel Multipoint Distribution Service (MMDS) equipment
 - Olga radio tower site
+- Fiber‑optic cable plant
 
 ## Certifications
 - CALEA compliant
@@ -248,29 +247,30 @@ The cooperative’s stated mission is to keep rural North Dakota communities con
 
 <details><summary>Sources</summary>
 
-- Founded 1952 as United Telephone Cooperative -> /about
-- Headquarters in Langdon, North Dakota -> db
+- Founded February 1952 as United Telephone Cooperative -> /about
+- Headquarters in Langdon, North Dakota -> /about
 - Offices in Langdon, Bottineau, Rolla -> /about
-- Formed Turtle Mountain Communications subsidiary in 1996 -> /about
-- Purchased 8,000 access lines from U.S. West -> /about
-- Operates over 330 miles of fiber-optic cable -> /about
-- Fiber-to-the-home deployed in Langdon, Bottineau, Walhalla, Rolette, Rolla -> /about
-- Provides long-distance service via NDLD to six carriers -> /about
-- Special circuit engineering via ND Telecom -> /about
-- Constructed towers for Verizon Wireless in Rolla and Bottineau -> /about
-- Supported U.S. Department of Defense Safeguard Complex -> /about
-- United Telephone Educational Foundation awarded $450,000 -> /about
+- Provides internet, TV, phone, security services -> /
+- Installed over 330 miles of fiber optics -> /about
+- Deployed IPTV in multiple exchanges -> /about
+- Formed NDLD with Dakota Central, Polar Communications, North Dakota Telephone -> /about
+- Formed ND Telecom for special circuit engineering -> /about
+- Formed IdeaOne with Cass County Electric Cooperative -> /about
+- Formed Dakota Carrier Network (DCN) with 14 other companies -> /about
+- Established Turtle Mountain Communications subsidiary, purchased exchanges from U.S. West -> /about
+- Constructed tower in Rolla for Verizon Wireless -> /about
+- Constructed tower in Bottineau for Verizon Wireless -> /about
+- Installed fiber to home in Langdon, Bottineau, Walhalla, Rolette, Rolla -> /about
+- CALEA compliance via CopperCom soft switch -> /about
 - Smart Rural Community provider designation -> /
-- Services: broadband internet, digital TV, digital phone, security -> /
-- Managed wireless, SmartWiFi, SmartTalk, SmartTV -> /
-- ExperienceIQ and ProtectIQ features -> /
-- Motorola MITS, Stromberg Carlson DCO switches, CopperCom soft switch -> /about
-- MMDS TV sites, Olga radio tower site -> /about
-- CALEA compliance via CopperCom -> /about
-- Wireless DSL via MMDS -> /about
-- Emergency alert notification systems -> /about
-- Fiber network rerouting 89-mile project -> /about
-- Serves school districts and government via Dakota Carrier Network -> /about
+- United Telephone Educational Foundation awards scholarships -> /about
+- Motorola MITS and paging system installed in 1970s -> /about
+- MMDS TV sites at Egeland and Milton -> /about
+- Stromberg Carlson DCO switches and all‑digital fiber network -> /about
+- Wireless DSL via MMDS at Milton and Egeland -> /about
+- Emergency alert equipment on MMDS and cable TV -> /about
+- Purchased Olga radio tower site -> /about
+- Innovative Solution system for voicemail, conference calling, Find Me -> /about
 </details>
 
 ---
@@ -280,35 +280,34 @@ The cooperative’s stated mission is to keep rural North Dakota communities con
 **Old description:** UPI specializes in large-scale production of packaging materials. Our advanced machinery and efficient processes ensure cost-effective, consistent, and rapid delivery. We guarantee high-quality standards and minimal waste for all your bulk packaging needs.
 
 ## About
-United Packaging Inc. operates from Windom, Minnesota, where it functions as a national producer of pallets, crates, skids, and corrugated packaging solutions. The company’s founding year and ownership structure are not publicly disclosed.
+United Packaging Inc. operates from Windom, Minnesota. The company does not disclose its founding year or ownership structure, and no founders are named in public materials. It began as a national producer of pallets, crates, and corrugated packaging solutions, serving both global corporations and small businesses with equal intensity.
 
-The manufacturer offers a full range of services including package design, testing, vendor-managed inventory, and recycle programs. Its capabilities extend to engineering and design, repair and refurbishment, and indexed cost structures, supported by CAD drawing and specification services. The company replicates real-world shipping conditions to test package structural integrity and manages logistics to ensure timely delivery. Production volumes, facility size, and headcount are not specified.
+The company manufactures pallets, crates, skids, and boxes, and provides a full range of services including package design, testing, vendor-managed inventory, and recycle programs. Its capabilities extend to engineering and design, repair and refurbishment, and indexed cost structures, supported by CAD drawing and specification services. The firm emphasizes advanced machinery and efficient processes to ensure cost-effective, consistent, and rapid delivery.
 
-United Packaging serves both global corporations and small businesses across industries such as engine manufacturing and beverage production, tailoring designs to each product’s unique characteristics.
+United Packaging serves industries such as engine manufacturing and beverage production, citing examples of shipping engines and beverages. Its customer base ranges from established global corporations to new small businesses, with tailored designs based on each product’s unique characteristics.
 
-The company emphasizes efficiency, innovation, and accountability in its supply chain approach, describing its team as passionate, methodical, and decisive in meeting problems with solutions.
+The company states it is driven by a commitment to efficiency, innovation, and accountability throughout the supply chain. It describes its approach as passionate, methodical, and decisive, aiming to meet problems with solutions and obstacles with innovation.
 
 ## Known for
-- National producer of pallets, crates, and corrugated packaging
-- Package design, testing, vendor-managed inventory, and recycle programs
-- Engineering & design, repair & refurbishment, and indexed cost structures
-- CAD drawing and specification services
+- Full-service packaging from design to delivery including testing and vendor-managed inventory
 - Real-world shipping condition testing for structural integrity
+- Repair and refurbishment programs with indexed cost structures
+- Engineering and design services with CAD drawing capabilities
+- Reliable logistics ensuring safe and timely delivery
 
 ## Capabilities
-- CAD Drawing & Specifications
-- Package Design
-- Package Testing (real-world shipping condition simulation)
-- Vendor Managed Inventory
-- Recycle Programs
-- Engineering & Design
-- Repair & Refurbishment
-- Indexed Cost Structures
-- Logistics & Delivery Management
+- Package design
+- Package testing
+- Vendor managed inventory
+- Recycle programs
+- Engineering & design
+- Repair & refurbishment
+- CAD drawing & specifications
+- Indexed cost structures
 
 ## Industries
 - Engine manufacturing
-- Beverage production
+- Beverage manufacturing
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -316,16 +315,13 @@ The company emphasizes efficiency, innovation, and accountability in its supply 
 
 <details><summary>Sources</summary>
 
-- National producer of pallets, crates, and corrugated packaging solutions -> /
-- Located in Windom, Minnesota -> db
-- Offers package design, testing, vendor managed inventory, recycle programs -> /
-- Provides engineering & design, repair & refurbishment, indexed cost structures -> /
+- National producer of pallets, crates, corrugated packaging solutions -> /
+- Services: package design, testing, vendor managed inventory, recycle programs -> /
+- Capabilities: engineering & design, repair & refurbishment, indexed cost structures -> /about
+- Products: pallets, crates, skids, boxes -> /about
+- Industries served: engines, beverages -> /about
 - CAD Drawing & Specifications Services -> db
-- Replicates real-world shipping conditions to test package structural integrity -> /
-- Serves global corporations and small businesses -> /
-- Examples: shipping engines or beverages -> /about
-- Emphasizes efficiency, innovation, accountability -> /
-- Describes team as passionate, methodical, decisive -> /
+- Headquarters: Windom, Minnesota -> db
 </details>
 
 ---
@@ -335,25 +331,25 @@ The company emphasizes efficiency, innovation, and accountability in its supply 
 **Old description:** For over 100 years United States Electric Company has provided quality electrical products to Central Illinois. We are proud to be a family owned and operated company committed to finding solutions to your electrical needs.
 
 ## About
-United States Electric Company has operated from Springfield, Illinois since 1923. The business remains family-owned and managed, serving Central Illinois for over a century with electrical supplies and related services.
+United States Electric Company has operated from Springfield, Illinois since 1923. The family-owned and operated business was established to supply electrical products to customers throughout Central Illinois, and it has remained under family stewardship for more than a century.
 
-The company stocks and supplies electrical distribution equipment, LED light fixtures, and a range of electrical products for commercial and industrial applications. Its team reviews project specifications and material requirements to recommend suitable products. A fleet provides in-town deliveries twice daily, supporting local job sites and maintenance crews.
+The company distributes a range of electrical supplies, including distribution equipment and LED lighting fixtures. Its team provides project consultation, helping customers specify materials and identify solutions for commercial, industrial, and residential applications. A fleet supports twice-daily in-town delivery to job sites across the Springfield area.
 
-Customers include contractors, facility managers, and industrial plants across Central Illinois who rely on the distributor for power distribution gear, lighting upgrades, and MRO electrical items. The staff works directly with vendors to source equipment for new construction, renovation, and maintenance projects.
+Customers include electrical contractors, facility maintenance departments, and construction firms in Central Illinois. The company emphasizes long-term relationships with both buyers and vendors, positioning itself as a local partner rather than a transactional supplier.
 
-The firm emphasizes long-term relationships over transaction volume, describing its approach as building strong partnerships with both customers and suppliers. Management cites consistent, individual attention and rapid response as the foundation of its century-long presence in the region.
+Leadership cites its commitment to responsive service, personalized attention, and consistent management as the foundation of its longevity. The business was built on the principle that understanding a project’s requirements leads to better outcomes for the installer and the end user.
 
 ## Known for
-- Family-owned and operated since 1923
-- In-town deliveries twice daily
-- Project consultation and material recommendation
+- Twice-daily in-town delivery to job sites
+- Family-owned continuity since 1923
+- Personalized project and material consultation
 - Long-term vendor and customer partnerships
 
 ## Capabilities
-- Electrical product distribution
-- Lighting system specification
+- Electrical distribution equipment supply
+- LED lighting fixture supply
 - Project material consultation
-- In-town delivery (twice daily)
+- In-town delivery
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -364,13 +360,13 @@ The firm emphasizes long-term relationships over transaction volume, describing 
 <details><summary>Sources</summary>
 
 - Founded 1923 -> /about-us
-- Family-owned and operated -> db description, /about-us
-- Headquarters Springfield, Illinois -> db hq_city, hq_state_label
+- Family-owned and operated -> /about-us
+- Headquarters Springfield, Illinois -> db
 - In-town deliveries twice daily -> /
 - Electrical distribution equipment and LED light fixtures -> /about-us
-- Serves Central Illinois -> db description, /about-us
-- Project consultation and material recommendation -> /about-us
-- Partnerships with customers and vendors -> /about-us
+- Project consultation and material specification assistance -> /about-us
+- Strong partnerships with customers and vendors -> /about-us
+- Commitment to effective management, outstanding customer service, versatile support -> /about-us
 </details>
 
 ---
@@ -380,33 +376,30 @@ The firm emphasizes long-term relationships over transaction volume, describing 
 **Old description:** Our extensive material knowledge, paired with the latest in wire shaping equipment & technology allows us to provide the highest quality precision made shaped wire. Not sure exactly what you need? No problem! Our experts can work side by side with your team to develop the perfect shaped wire solution for your application requirements.
 
 ## About
-United Wire Company operates from North Haven, Connecticut, as a family-owned manufacturer specializing in precision shaped wire. The company focuses exclusively on producing flat, square, and custom profile wire for a range of industrial applications.
+United Wire Company operates from North Haven, Connecticut, as a family-owned manufacturer specializing in precision shaped wire. The company does not disclose its founding year or founders publicly, but emphasizes its heritage as a family-run business offering personalized service alongside large-mill capabilities.
 
-The company custom manufactures wire to customer specifications, offering in-house tooling design and cutting at no charge. Its capabilities include strand and batch annealing with inert gas, heat treating, and packaging options such as spools up to 1,000 pounds and oscillated coils up to 1,000 pounds. United Wire works with a variety of alloys including stainless steel, carbon alloys, copper alloys, cobalt alloys, nickel alloys, and aluminum. It can supply continuous annealed lengths of 1,000 pounds without welds.
+The company produces flat wire, square wire, and custom profile shaped wire for a range of applications. Its in-house capabilities include custom tooling design and manufacturing at no charge, strand and batch annealing with inert gas options, heat treating, and packaging from spools under one pound up to 1,000-pound oscillated coils. United Wire can deliver continuous annealed lengths of 1,000 pounds without welds, and works with stainless steel, carbon, copper, cobalt, nickel alloys, and aluminum.
 
-United Wire serves industries such as medical, spring making, telecommunications, metal stamping, aerospace, and oil and gas. Its customers include manufacturers requiring custom wire profiles for applications ranging from medical devices to well screens.
+United Wire serves the medical, spring-making, telecommunications, metal-stamping, aerospace, cable-assembly, and oil-and-gas industries. The company cites experience with well-screen applications in oil and gas, as well as medical and aerospace components requiring tight tolerances and material traceability.
 
-The company differentiates itself with a "Big Mill Capability, with a Personalized Approach," positioning itself as a one-stop shop for custom tooling, heat treating, and packaging. It emphasizes that precision shaped wire is its only business, and it holds ISO 9001:2015 certification while utilizing NADCAP-approved labs for testing.
+United Wire positions itself as a single-source provider, combining big-mill equipment with the responsiveness of a family-owned operation. It highlights free custom tooling, in-house annealing, and a quality system certified to ISO 9001:2015 with NADCAP-approved lab testing as key differentiators.
 
 ## Known for
 - Big Mill Capability, with a Personalized Approach
-- Custom tooling designed and cut in-house at no charge
-- Strand and batch annealing with inert gas capability
+- Custom tooling designed and cut in-house free of charge
 - 1,000 lb continuous annealed lengths with no welds
-- ISO 9001:2015 certified with NADCAP approved labs
+- Single-source for tooling, heat treating, and packaging
+- Family-owned business relationships
 
 ## Capabilities
-- Custom profile wire manufacturing
-- Custom tooling design and fabrication
-- Strand annealing
-- Batch annealing
-- Inert gas annealing
+- Custom wire shaping (flat, square, profile)
+- Custom tooling design and manufacturing (in-house)
+- Annealing (strand, batch, inert gas)
 - Heat treating
-- Spool packaging (up to 1,000 lbs)
-- Oscillated coil packaging (up to 1,000 lbs)
-- Wire shaping (flat, square, profile)
-- Material selection consulting
-- Quality inspection (ISO 9001:2015, NADCAP labs)
+- Packaging (spools/reels <1 lb to 1,000 lbs, oscillated coils 50-1,000 lbs)
+- Continuous annealing up to 1,000 lb lengths without welds
+- Material selection across multiple alloy families
+- Quality management (ISO 9001:2015, NADCAP approved labs)
 
 ## Industries
 - Medical
@@ -414,7 +407,8 @@ The company differentiates itself with a "Big Mill Capability, with a Personaliz
 - Telecommunications
 - Metal stamping
 - Aerospace
-- Oil and gas
+- Cable assemblies
+- Oil & gas
 
 ## Certifications
 - ISO 9001:2015
@@ -427,21 +421,20 @@ The company differentiates itself with a "Big Mill Capability, with a Personaliz
 
 <details><summary>Sources</summary>
 
-- Company name: United Wire Company -> db
-- Headquarters: North Haven, Connecticut -> db
+- Headquarters in North Haven, Connecticut -> db
 - Family-owned business -> /
-- Custom manufactures flat, square, and profile shaped wire -> /capabilities
-- Custom tooling designed and cut in-house at no charge -> /capabilities
-- Strand and batch annealing with inert gas -> /capabilities
-- 1,000 lb continuous annealed lengths with no welds -> /capabilities
-- Alloys: Stainless Steel, Carbon Alloys, Copper Alloys, Cobalt Alloys, Nickel Alloys, Aluminum -> /capabilities
-- Packaging: Spools up to 1,000 lbs, Oscillated coils up to 1,000 lbs -> /capabilities
-- Industries served: Medical, Spring making, Telecommunications, Metal stamping, Aerospace -> /
-- Oil and gas industry mentioned in news -> /
-- ISO 9001:2015 certified -> /quality
-- NADCAP approved labs used -> /quality
-- Big Mill Capability, with a Personalized Approach -> /
-- LinkedIn URL -> db
+- Manufactures flat, square, and profile shaped wire -> /
+- Custom tooling designed and cut in-house free of charge -> /capabilities
+- Annealing capabilities: strand, batch, inert gas, 1,000 lb continuous annealed lengths with no welds -> /capabilities
+- Heat treating -> /
+- Packaging: spools/reels <1 lb to 1,000 lbs, oscillated coils 50-1,000 lbs -> /capabilities
+- Materials: Stainless Steel, Carbon Alloys, Copper Alloys, Cobalt Alloys, Nickel Alloys, Aluminum -> /capabilities
+- Industries served: Medical, Spring making, Telecommunications, Metal stamping, Aerospace, Cable assemblies, Oil & gas -> / and / (news article)
+- Certified to ISO 9001:2015 -> /quality
+- Utilizes NADCAP approved labs for testing -> /quality
+- Big Mill Capability, with a Personalized Approach -> / and /capabilities
+- Single-source for shaped wire needs (tooling, heat treating, packaging) -> /
+- LinkedIn profile -> db
 </details>
 
 ---
@@ -451,32 +444,31 @@ The company differentiates itself with a "Big Mill Capability, with a Personaliz
 **Old description:** Welcome to United Industries, your premier electrical equipment supplier across the United States. We specialize in providing high-quality new, used, and surplus electrical equipment, catering to a wide range of commercial and industrial needs. Whether you’re searching for specific electrical component suppliers or require diverse electric equipment supplies online, we offer reliable solutions to power your projects. Our commitment to expertise, extensive inventory, and nationwide service ensures a seamless experience for every client.
 
 ## About
-United Industries operates from Petersburg, Virginia, where it has bought and sold surplus electrical equipment for more than 25 years. The company was founded by Virginia native Chris Marks and remains family-owned; his sons Andrew and Derrick Marks now serve as lead purchasing agents, continuing the second-generation leadership.
+United Industries is a family-owned surplus electrical equipment supplier based in Petersburg, Virginia. Established over 25 years ago, the company was founded by Virginia native Chris Marks and is now operated with his sons Andrew and Derrick serving as lead purchasing agents. The business began as a local buyer and seller of surplus equipment and has grown into a nationwide operation.
 
-The firm sources, inspects, and resells new, used, and obsolete electrical gear — including panelboards, motor control centers, UPS units, generators, switchgear, transformers, wire and cable, busway, conduit, and cable tray. Its services extend beyond sales to on-site estimates, equipment removal and rigging, decommissioning, and container drop-off and pickup. Strategic warehouse locations support nationwide logistics across all 50 states.
+The company specializes in acquiring and reselling new, used, and obsolete electrical equipment, including circuit breakers, switchgear, transformers, motor control centers, UPS systems, generators, wire and cable, and related components. United Industries provides a range of services such as free shipping, on-site estimates, equipment removal and rigging, decommissioning, and container drop-off and pick-up. It operates strategic warehouse locations to support fast delivery across all 50 states.
 
-Customers span electrical contractors, factories, general contractors, wholesale suppliers, retail stores, and small businesses. The company handles transactions ranging from single transformers to full facility liquidations, serving commercial and industrial clients that need to recover space or convert idle inventory into cash.
+United Industries serves electrical contractors, factories, general contractors, wholesale suppliers, retail stores, and small businesses across commercial and industrial sectors. Customers range from single-unit buyers to facilities undergoing full liquidations.
 
-United Industries states its mission is to minimize downtime by completing every step — quoting, pickup, and payment — under one roof. It emphasizes 25-plus years of market experience, fair offers with guaranteed payment within five business days, and fully licensed and insured operations as the factors that set it apart.
+The company emphasizes its 25-plus years of market experience, nationwide logistics coverage, fair market offers with payment within five business days, and fully licensed and insured operations as key differentiators. Its stated mission is to minimize customer downtime by completing all purchasing steps under one roof, ensuring predictable costs and seamless service.
 
 ## Known for
-- 25+ years of surplus electrical equipment market experience
-- Nationwide coverage across all 50 states with strategic warehouse locations
-- Fair offers with guaranteed payment within 5 business days
+- 25+ years in electric surplus equipment
+- Nationwide coverage across all 50 states
+- Fair market offers with payment within 5 business days
 - Fully licensed and insured operations
-- No minimum purchase requirements; free shipping and on-site estimates
+- Free shipping on purchases
 
 ## Capabilities
-- Surplus equipment buying
-- Surplus equipment selling
+- Surplus equipment purchasing
+- Surplus equipment sales
 - Equipment removal and rigging
 - Decommissioning services
 - On-site estimates
+- Free shipping
+- Container drop-off and pick-up
 - Liquidation services
-- Equipment inspection, cleaning, and part replacement
-- Nationwide logistics and transportation
-- Dumpster/container drop-off and pick-up
-- Free shipping on purchases
+- Inventory management
 
 ## Industries
 - Electrical contractors
@@ -493,18 +485,16 @@ United Industries states its mission is to minimize downtime by completing every
 
 <details><summary>Sources</summary>
 
-- Headquarters in Petersburg, VA -> /about
-- Family-owned, founded by Chris Marks, sons Andrew and Derrick as lead purchasing agents -> /about, /
-- Over 25 years in business buying/selling surplus electrical equipment -> /about, /, /services
-- Products: panelboards, MCC, UPS, generators, PDUs, wire/cable, busway, circuit breakers, switchgear, transformers, tooling, conduit, cable tray -> /, /services
-- Services: on-site estimates, equipment removal/rigging, decommissioning, container drop-off/pickup, free shipping -> /, /services
-- Industries served: electrical contractors, factories, general contractors, wholesale suppliers, retail stores, small businesses -> /, /services
-- Nationwide coverage across 50 states -> /, /services
-- Quote within 24 hours, payment within 5 business days -> /services
+- Family-owned business in Petersburg, VA -> /about
+- Owner Chris Marks with sons Andrew and Derrick as lead purchasing agents -> /about
+- 25+ years buying and selling surplus equipment -> /
+- Nationwide buyer and seller of new and used surplus equipment -> /
+- Industries served: electrical contractors, factories, general contractors, wholesale suppliers, retail stores, small businesses -> /services
+- Products: circuit breakers, switchgear, transformers, MCC, UPS, generators, wire and cable, etc. -> /
+- Services: free shipping, on-site estimates, equipment removal, rigging, decommissioning, dumpster drop-off -> /
+- Quote within 24 hours, payment within 5 business days of removal -> /services
 - No minimum purchase requirements -> /services
 - Fully licensed and insured -> /services
-- Mission: minimize downtime, complete all steps under one roof -> /about
-- Values: reliability, customer-centricity, expertise -> /about
 </details>
 
 ---
@@ -514,53 +504,45 @@ United Industries states its mission is to minimize downtime by completing every
 **Old description:** Since 1992, Universal Enterprises has been a cornerstone in the fabrication and welding industry, proudly serving North American and international clients. Our commitment to quality and excellence is evident in every project we undertake. With state-of-the-art facilities and a skilled team, we deliver superior solutions tailored to your specific needs. For more information,
 
 ## About
-Universal Enterprises Inc. was founded in 1992 in Shinnston, West Virginia. The company operates as a Small Business Enterprise and has served as a cornerstone in the fabrication and welding industry for over three decades. No founder names are disclosed in public materials.
+Universal Enterprises Inc. was founded in 1992 in Shinnston, West Virginia, and operates as a small business enterprise. The company has served North American and international clients from its single-site facility for over three decades.
 
-The 62,000-square-foot facility sits on 12 acres and houses 50,000 square feet of shop space, 10,000 square feet of storage, and a 9,000-square-foot painting bay. Production capacity reaches 500 tons per month or 8,500 man-hours per month. Core processes include CNC plasma cutting (up to 3-inch thickness), CNC drilling, CNC angle clipping, plate rolling, plate shearing, press brake forming to 300 tons, structural sawing, shot blasting, and painting. The shop also rebuilds frac tanks and fabricates storage, mud, and skid tanks.
+The 62,000-square-foot plant houses 50,000 square feet of shop space, 10,000 square feet of storage, a 9,000-square-foot painting bay, and 12 acres of outdoor working area. Production capacity reaches 500 tons per month or 8,500 man-hours per month. Equipment includes CNC plasma cutting (11'6" x 50'), a CNC drill line (40" x 50'), a CNC angle clipper, a 300-ton press brake, plate rolling and shearing, structural sawing, and multiple overhead cranes up to 20 tons. The shop works with carbon steels (A36, A572, A709), stainless grades (304, 316, 316L), Inconel alloys, and high-nickel steel.
 
-Universal Enterprises serves customers across the continental United States and internationally, with a regional focus on north-central West Virginia counties including Harrison, Marion, Monongalia, Taylor, Doddridge, Upshur, and Randolph. Its product lineup — frac tanks, storage tanks, mud tanks, skid tanks, structural steel, and plate work — points to oilfield, industrial storage, and structural construction markets.
+Universal Enterprises fabricates frac tanks, storage tanks, mud tanks, and skid tanks for the oil and gas sector, along with structural steel and plate work for construction and industrial customers. The company ships throughout the continental United States and internationally, with a regional service footprint covering numerous West Virginia counties.
 
-The company highlights its AISC certification and AWS D1.1/D1.5 welding qualifications, a full range of carbon steel, stainless steel, Inconel, and high-nickel alloys, and rail access via an off-site Baltimore & Ohio siding as factors that differentiate its offering.
+The firm highlights its AISC certification and AWS D1.1/D1.5 welding qualifications, a shot-blast building with recovery system, and a climate-controlled paint facility as differentiators that support its quality commitments.
 
 ## Known for
-- 62,000 sq ft facility all under one roof with 12-acre outdoor yard
 - 500 tons/month production capacity
-- AISC certified and AWS D1.1/D1.5 welding qualified
-- CNC plasma cutting up to 3-inch thickness on 11'6" x 50' table
-- Railroad siding available (Baltimore & Ohio off-site)
+- 62,000 sq ft facility under one roof
+- AISC and AWS D1.1/D1.5 certified
+- Shot blast building with recovery system
+- 90' x 180' paint bay with infrared heating
 
 ## Capabilities
-- CNC plasma cutting
-- CNC drilling
-- CNC angle clipping
-- Plate rolling
-- Plate shearing
-- Press brake forming
-- Structural sawing
+- Metal fabrication
+- Welding
 - Shot blasting
-- Painting and coatings
-- Frac tank rebuild
-- Storage tank fabrication
-- Mud tank fabrication
-- Skid tank fabrication
+- Painting & coatings
+- CNC plasma cutting
+- CNC drill line
+- CNC angle clip production
 - Structural steel fabrication
 - Plate work
 - Angle rolling
-- Custom metal fabrication
+- Press brake forming
+- Plate rolling
+- Plate shearing
+- Frac tank rebuilding
+- Storage tank fabrication
+- Mud tank fabrication
+- Skid tank fabrication
+- Custom metal work
 - Metal design
-- Welding (AWS D1.1, D1.5)
-- Carbon steel fabrication
-- Stainless steel fabrication
-- Inconel fabrication
-- High nickel alloy fabrication
-- Railroad siding access
-
-## Industries
-- Fabrication and welding
-- Metal fabrication
-- Oilfield equipment
-- Storage tank manufacturing
-- Structural steel fabrication
+- Plate bending
+- Structural sawing
+- Ironworking
+- Tank head flanging
 
 ## Equipment
 - CNC HD Plasma 11'6" x 50'
@@ -575,16 +557,13 @@ The company highlights its AISC certification and AWS D1.1/D1.5 welding qualific
 - 3/8 x 12' Tank Head Flange
 - 5" x 5" x 5/8 Angle Roll
 - 1/2" x 13'6" Plate Shear
-- 2 GRACO "Bulldog" Airless Paint Pumps
-- 1 Positector F-6000 DFT Gage
-- 12 Infrared Heaters
-- Steel Shot Blast Building: Recovery System & Dust Collector (24' x 17' x 55')
+- Steel Shot Blast Building: Recovery System & Dust Collector (capacity 24' x 17' x 55')
 - P & G Grit Blasting Pot
-- (2) Bridge Cranes with 10-ton hoists
-- (3) Bridge Cranes with 5-ton hoists
-- (10) 2-ton Jib Cranes
-- (1) 15-ton Bridge Crane with two 7.5-ton hoists
-- 15-ton Mobile Crane
+- 2 GRACO "Bulldog" Airless Paint Pumps with Gun
+- 1 Positector F-6000 DFT Gage and Related Instruments
+- Paint Bay 90' x 180' x 28'
+- 12 Infrared Heaters
+- Bridge cranes: (2) 10-ton, (3) 5-ton, (10) 2-ton Jib Cranes, (1) 15-ton Bridge Crane with two 7.5-ton hoists, 15-ton Mobile Crane
 
 ## Certifications
 - AISC
@@ -600,19 +579,18 @@ The company highlights its AISC certification and AWS D1.1/D1.5 welding qualific
 <details><summary>Sources</summary>
 
 - Founded 1992 -> /about
-- Headquarters Shinnston, WV -> /
-- Facility 62,000 sq ft plant, 50,000 sq ft shop, 10,000 sq ft storage, 12 acres outdoor, 9,000 sq ft painting -> /
+- Headquarters Shinnston, WV -> /about
+- Facility size 62,000 sq ft plant, 50,000 sq ft shop, 10,000 sq ft storage, 9,000 sq ft painting, 12 acres outdoor -> /
 - Production capacity 500 tons/month or 8,500 man-hours/month -> /
-- Crane capabilities: 20-ton max, various bridge and jib cranes -> /
+- Crane capabilities: 20 tons max, multiple bridge and jib cranes -> /
 - Maximum fabrication dimensions: 40 ft width, 20 ft height, 100 ft length -> /
-- Materials: carbon steel grades, stainless steels, Inconel, high nickel alloy -> /about
+- Materials: carbon steel grades, stainless grades, Inconel, high nickel alloy -> /about
 - Certifications: AISC, AWS D1.1, AWS D1.5 -> /about
-- Equipment list includes CNC HD Plasma, CNC Ocean Avenger Drill Line, CNC Ocean Angle Clipper, HYD-Mech S25 Structural Saw, Pacific Press Brake, etc. -> /about
-- Services: frac tank rebuild, OEM 500 Bbl frac tanks, storage tanks, mud tanks, skid tanks, metal fabrication, shot blasting, painting & coatings -> /services
-- Service areas: continental US and international, specific WV counties -> /
-- SBE/MBE: Small Business Enterprise, not minority-owned, is a manufacturer -> /about
-- Railroad siding: Baltimore & Ohio off-site -> /about
-- Shipping: largest door 24' x 24', major truck lines -> /about
+- Equipment list: CNC plasma, CNC drill line, CNC angle clipper, press brake, plate shear, plate roll, structural saw, iron worker, etc. -> /about
+- Shot blast building and painting facility details -> /about
+- Products: frac tanks, storage tanks, mud tanks, skid tanks, structural steel, plate work -> /services
+- Service areas: Continental US and international, specific WV counties -> /about
+- Small Business Enterprise status -> /about
 </details>
 
 ---
@@ -622,38 +600,37 @@ The company highlights its AISC certification and AWS D1.1/D1.5 welding qualific
 **Old description:** Universal Solar Direct is a leading Indiana-based solar panel company providing top-notch solar panel installation services to both residential and commercial customers. With a team of experienced professionals, we are dedicated to providing high-quality solar panel systems that are both efficient and affordable.
 
 ## About
-Universal Solar Direct of Indiana operates from Indianapolis, Indiana, as a solar installation company serving residential and commercial customers across the state. The firm does not disclose its founding year or ownership structure in its public materials.
+Universal Solar Direct of Indiana operates from Indianapolis, Indiana, providing solar panel installation services across the state. The company does not disclose its founding year or ownership structure in public materials.
 
-The company installs photovoltaic (PV) solar arrays, battery storage systems, and electric-vehicle chargers, handling permitting and paperwork for each project. Its installers are described as trained and certified, and the company reports having completed over 10,000 installations to date. A free 3D model and no-obligation in-person assessment are offered to prospective clients as part of a streamlined process.
+The firm specializes in turnkey solar photovoltaic (PV) system installation for residential and commercial properties. Its crews handle site assessment, design, permitting, and interconnection paperwork, and the company reports having completed over 10,000 installations to date. In addition to PV arrays, Universal Solar Direct offers battery storage systems and electric-vehicle charger installation as complementary energy products.
 
-Customers include homeowners and businesses in Indiana seeking to reduce electricity costs and increase property value. The company partners with a network it calls "Our Solar Indiana Partners" for equipment supply.
+Customers include homeowners and businesses throughout Indiana seeking to reduce electricity costs and increase property value. The company markets its services directly to property owners and emphasizes a hassle-free process that includes a free 3D system model and in-person assessment.
 
-Universal Solar Direct emphasizes a hassle-free experience, offering an 18-month, no-interest, no-payment financing option and promoting the idea that if a customer can afford their electric bill, they can afford solar. The firm positions itself as a partner that takes the hassle out of installing solar panels in Indiana.
+Universal Solar Direct differentiates itself by employing trained and certified installers, managing all permitting and utility paperwork, and offering an 18-month, no-interest, no-payment financing option for qualified buyers.
 
 ## Known for
-- Over 10,000 installations completed
-- Trained and certified installers
-- Full paperwork and permitting handled
+- Over 10,000 solar installations completed
+- Trained and certified installation crews
+- Full permitting and paperwork handling
 - 18-month no-interest, no-payment financing
-- Free 3D model and in-person assessment
+- Free 3D system modeling and on-site assessment
 
 ## Capabilities
-- Residential solar PV installation
-- Commercial solar PV installation
-- Battery storage system installation
-- EV charger installation
-- Energy-efficient product installation
-- Permitting and paperwork management
+- Solar photovoltaic system installation
+- Residential solar installation
+- Commercial solar installation
+- Battery energy storage system installation
+- Electric vehicle charger installation
+- Permitting and interconnection paperwork management
+- Site assessment and system design
 - Free 3D system modeling
-- In-person site assessment
-- Financing facilitation (18-month no-interest)
 
 ## Industries
-- Residential solar
-- Commercial solar
+- Residential construction
+- Commercial construction
+- Solar energy
 - Renewable energy
 - Energy efficiency
-- Electric vehicle infrastructure
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -661,15 +638,14 @@ Universal Solar Direct emphasizes a hassle-free experience, offering an 18-month
 
 <details><summary>Sources</summary>
 
-- Headquarters: Indianapolis, Indiana -> db
+- Headquarters in Indianapolis, Indiana -> db
 - Solar panel installation services for residential and commercial customers -> /
 - Over 10,000 installations completed -> /
-- Installers trained and certified -> /
-- Handles all paperwork and permitting -> /
-- Offers batteries, EV car chargers, and energy efficient products -> /
-- 18 months no interest no payments financing -> /
+- Installers are trained and certified -> /
+- Handles all permitting and paperwork -> /
+- Offers battery storage and EV charger installation -> /
+- 18-month no-interest no-payment financing -> /
 - Free 3D model and in-person assessment -> /
-- Partners with 'Our Solar Indiana Partners' -> /
 </details>
 
 ---

@@ -3,20 +3,20 @@
 **Old description:** Brock and Graham grew up doing every custom fabrication job they could get ahold of. Later, they worked in all types of fabrication positions; including structural engineered red iron buildings, traveling the country as combination pipe welders, and seamless work for news stations across all of North America.
 
 ## About
-A1 Metal Fabrication operates from Rogers, Arkansas, founded by Brock and Graham. The pair grew up taking on custom fabrication jobs and later worked as combination pipe welders on structural engineered red iron buildings and seamless projects for news stations across North America.
+A1 Metal Fabrication operates from Rogers, Arkansas, founded by Brock and Graham, who grew up taking on custom fabrication jobs before working across North America as combination pipe welders and on structural red‑iron buildings and broadcast‑station projects. The pair launched the shop to apply their perfection‑based mindset to every project.
 
-The shop provides MIG, TIG, and stick welding across stainless steel, mild steel, aluminum, cast iron, and cast aluminum. Capabilities span structural, decorative, seamless, and industrial fabrication, producing items such as handrails, stair-sets, gates, fences, signs, racks, shelving, custom curtain rods, and decking. Work is performed both on-site and in their shop.
+The shop provides MIG, TIG, and stick welding on stainless steel, mild steel, aluminum, cast iron, and cast aluminum. Capabilities span structural, decorative, seamless, and industrial fabrication, producing handrails, stair‑sets, gates, fences, signs, racks, shelving, custom curtain rods, and decking. Work is performed both in‑shop and on‑site.
 
-Customers include metal building firms like Quality Metal Building Systems, property management companies such as Constellation Properties, and broadcast outlets that previously relied on the founders for seamless fabrication. Projects have ranged from commercial stair installations to custom AC unit covers and on-site modifications like widening a car lift.
+Clients include metal‑building contractors such as Quality Metal Building Systems (engineered deck builds), property‑management firms like Constellation Properties (AC unit covers), and broadcast‑media organizations requiring seamless fabrication. The Diamond Brothers project exemplifies code‑compliant stair and handrail work delivered under tight deadlines.
 
-The founders emphasize a perfection-based mindset, citing skilled craftsmanship, efficient turnaround, fast response times, and a willingness to deliver exactly what the client needs on schedule as their distinguishing factors.
+The founders emphasize a perfection‑based mindset, fast response times, and a willingness to deliver exactly what the customer needs on schedule. Their process centers on collaborative planning, open communication, and flexible scheduling to keep projects on track.
 
 ## Known for
-- Perfection-based mindset from combined field experience
-- Skilled craftsmanship with efficient turnaround
-- Fast response times and flexible scheduling
 - On-site and in-shop fabrication capability
-- Willingness to deliver exactly what the client needs on time
+- Fast response times and customer‑service focus
+- Perfection‑based mindset from combined field experience
+- Flexible scheduling to meet customer deadlines
+- Multi‑process welding (MIG, TIG, stick) across diverse metals
 
 ## Capabilities
 - MIG welding
@@ -24,26 +24,21 @@ The founders emphasize a perfection-based mindset, citing skilled craftsmanship,
 - Stick welding
 - Structural steel fabrication
 - Decorative metal fabrication
-- Seamless fabrication
+- Seamless welding
 - Industrial fabrication
-- Handrail fabrication
-- Stair fabrication
-- Gate fabrication
-- Fence fabrication
+- Handrail and stair fabrication
+- Gate and fence fabrication
 - Sign fabrication
-- Rack fabrication
-- Shelving fabrication
+- Rack and shelving fabrication
 - Custom curtain rod fabrication
 - Decking fabrication
-- On-site welding
+- On-site installation
 - In-shop fabrication
 
 ## Industries
-- Metal building systems
-- Broadcast/media
-- Commercial construction
-- Residential construction
-- Property management
+- Metal building construction
+- Commercial property management
+- Broadcast media
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -51,17 +46,17 @@ The founders emphasize a perfection-based mindset, citing skilled craftsmanship,
 
 <details><summary>Sources</summary>
 
-- Founders Brock and Graham -> /about
-- Location Rogers, Arkansas -> db
-- Services: MIG, TIG, Stick welding -> /services
-- Materials: Stainless, Mild steel, Aluminum, cast iron, cast aluminum -> /services
+- Founders Brock and Graham grew up doing custom fabrication jobs and worked as combination pipe welders and on structural red‑iron buildings and news stations across North America -> /about
+- Company located in Rogers, Arkansas -> db
+- Services: MIG, TIG, stick welding on stainless, mild steel, aluminum, cast iron, cast aluminum -> /services
 - Products: handrails, stair-sets, gates, fences, signs, racks, shelving, custom curtain rods, decking -> /services
-- On-site and in-shop fabrication -> /services
-- Customer Quality Metal Building Systems -> /services
-- Customer Constellation Properties -> /services
-- Project Diamond brothers stair-set -> /services
-- Perfection-based mindset, fast response, customer service -> /about
-- Earlier work: structural engineered red iron buildings, seamless work for news stations -> /about
+- On-site and in-shop work -> /services
+- Client Quality Metal Building Systems (engineered deck build) -> /services
+- Client Constellation Properties (AC unit covers) -> /services
+- Diamond Brothers project (code-compliant stair-set and handrails) -> /services
+- Perfection-based mindset, fast response times, willingness to deliver exactly what customer needs -> /about
+- Process: plan, collaborate, set deadline, finish -> /services
+- Driven by quality and reliability, skilled craftsmanship with efficient turnaround -> /
 </details>
 
 ---
@@ -71,19 +66,20 @@ The founders emphasize a perfection-based mindset, citing skilled craftsmanship,
 **Old description:** has been in business since 1986 manufacturing Plastic Spools and Reels.
 
 ## About
-ABC Plastics Inc has operated from Lodi, Ohio since 1986, producing plastic spools and reels for packaging applications. The company was established to serve the wire, cable, chain, rope, and hose industries with standard and custom reel solutions.
+ABC Plastics Inc was founded in 1986 in Lodi, Ohio. The company began as a manufacturer of plastic spools and reels for packaging applications.
 
-The facility runs custom injection molding operations supported by a full-time mold and die making staff that handles design, machining, and maintenance of tooling. Beyond spools and reels, the shop provides contract manufacturing services including assembly and warehousing of plastic components, with management citing over 100 combined years of injection molding experience.
+Today ABC Plastics produces plastic spools and reels for wire, cable, chain, rope, and hose packaging, and offers custom injection molding, mold design, tooling, assembly, and warehousing. A full-time mold and die making staff handles mold development, machining, and maintenance in house, allowing the company to run custom molds for customers of any size. The firm also maintains a stocked inventory of standard spools for same-day shipping.
 
-Customers range from Fortune 500 corporations to single-person operations across sectors such as welding wire, building wire, 3D printer filament, medical tubing, pneumatic hoses, and specialty coated products. The company maintains a stocked inventory of standard spools to enable same-day shipping on many items.
+Its customers span the welding wire, building wire, 3D-printer filament, bare wire, solder wire, cable, rope, tubing, tape, and film sectors. The company serves everyone from Fortune 500 corporations to single-person operations, providing contract manufacturing and packaging solutions across those industries.
 
-ABC Plastics states its mission is to bring customer projects to reality at the highest possible quality and lowest possible cost, emphasizing accurate information so clients can make informed decisions.
+ABC Plastics emphasizes its management team’s combined 100-plus years of injection molding experience and a mission to deliver the highest possible quality at the lowest possible cost while giving customers accurate information for decision-making.
 
 ## Known for
-- Stocked inventory for same-day shipping on standard spools
-- Full-time in-house mold and die making staff for tooling design, machining, and maintenance
+- Same-day shipping from stocked inventory
+- In-house mold and die making staff for tooling development and maintenance
 - Over 100 combined years of injection molding experience at management level
-- Serves customers from Fortune 500 companies to one-person operations
+- Contract manufacturing, assembly, and warehousing services
+- Serves customers ranging from Fortune 500 to one-person operations
 
 ## Capabilities
 - Plastic spool and reel manufacturing
@@ -92,21 +88,22 @@ ABC Plastics states its mission is to bring customer projects to reality at the 
 - Mold and die making
 - Assembly
 - Warehousing
-- Consulting
+- Contract manufacturing
 
 ## Industries
-- Wire and cable
+- Wire
+- Cable
 - Chain
 - Rope
 - Hose
 - Welding wire
 - Building wire
 - 3D printer filament
-- Medical tubing
-- Pneumatic hoses
-- Plastic tubing
-- Rubber hose
-- Specialty coated products
+- Bare wire
+- Solder wire
+- Tubing
+- Tape
+- Film
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -115,16 +112,15 @@ ABC Plastics states its mission is to bring customer projects to reality at the 
 
 <details><summary>Sources</summary>
 
-- Founded 1986 in Lodi, Ohio -> db
-- Manufactures plastic spools and reels -> /, /about
-- Custom injection molding, assembly, warehousing -> /about
-- Full-time mold and die making staff -> /about
-- Mold design and tooling -> /about
-- Over 100 combined years injection molding experience at management -> /about, capabilities
-- Stocked inventory for same-day shipping -> /
+- Founded 1986 -> db
+- Headquarters Lodi, Ohio -> db
+- Manufactures plastic spools and reels -> /
+- Custom injection molding services -> /
+- In-house mold and die making staff -> /about
+- Same-day shipping from stocked inventory -> /
 - Serves wire, cable, chain, rope, hose industries -> /about
-- Serves welding wire, building wire, 3D printer filament, medical tubing, pneumatic hoses -> /
-- Serves Fortune 500 to one-person operations -> /about
+- Contract manufacturing, assembly, warehousing -> /about
+- Over 100 combined years injection molding experience at management -> /about
 - Mission: highest quality at lowest cost -> /about
 </details>
 
@@ -135,32 +131,34 @@ ABC Plastics states its mission is to bring customer projects to reality at the 
 **Old description:** ABL Electronics Supply, Inc.: Quality Wire and Cable Solutions
 
 ## About
-ABL Electronics Supply, Inc. operates from Concord, North Carolina, and has been in business since 1975. The company started as a wire and cable supplier and grew into a manufacturer of custom ground straps for critical electrical applications.
+ABL Electronics Supply, Inc. has operated from Concord, North Carolina since its founding in 1975. The company began as a supplier of wire and cable solutions and evolved into a wholesale manufacturer specializing in custom ground straps for critical electrical applications.
 
-The company produces standard, custom, and vehicle-specific ground straps using braided tinned copper wire terminated with metal connectors. Its fabrication capabilities include cutting, stripping, twisting, tinning, and striping, and it can manufacture custom lengths up to 30 feet or more. Commercial off-the-shelf items are also stocked for immediate shipment.
+The company produces engineered ground straps including standard tinned‑copper braid configurations, custom lengths up to 30 feet, and vehicle‑specific straps for automotive negative‑battery grounding. Its fabrication capabilities cover cutting, stripping, twisting, tinning, and striping of conductors, and it offers both commercial off‑the‑shelf items and build‑to‑print custom manufacturing.
 
-ABL serves industrial, automotive, and renewable-energy sectors. Its ground straps are used in automotive wiring to prevent voltage drops and ensure negative battery grounding, and in wind, solar, and biofuel installations to meet grounding standards. Engineers and procurement buyers rely on the company's technical data library for dimensional drawings and material specifications.
+ABL serves industrial, automotive, and renewable‑energy sectors, supplying grounding solutions for wind, solar, and biofuel installations as well as general industrial and automotive wiring needs. Its customers include engineers and procurement buyers who require documented dimensional drawings and material certifications.
 
-The company emphasizes fast turnaround, quoting standard lead times of one to two weeks, and highlights safety-focused designs that protect against electrostatic discharge and short-circuit damage. Its engineering support and ability to source specialty materials such as stainless steel, aluminum, and silver-plated conductors are presented as key differentiators.
+The firm emphasizes fast turnaround, quoting standard lead times of one to two weeks, and highlights safety‑focused designs that protect against electrostatic discharge and short‑circuit damage. It also differentiates itself through engineering support, a technical data library, and the ability to source specialty materials such as stainless steel, aluminum, and silver‑plated conductors.
 
 ## Known for
-- Standard lead times of 1–2 weeks
-- Commercial off-the-shelf (COTS) ground straps in stock
-- Custom ground straps manufactured up to 30+ feet
-- Secondary fabrication services: cutting, stripping, twisting, tinning, striping
-- Engineering support with dimensional drawings and technical data
+- Standard lead times of 1–2 weeks on custom and COTS ground straps
+- Grounding straps designed for ESD protection and short‑circuit safety
+- Nationwide solutions for renewable‑energy grounding (wind, solar, biofuels)
+- In‑house secondary operations: cutting, stripping, twisting, tinning, striping
+- Engineering support with dimensional drawings and material technical data
 
 ## Capabilities
 - Custom ground strap manufacturing
-- Braided tinned copper wire termination
+- Standard ground strap production
+- Vehicle ground strap fabrication
+- Braided tinned copper termination
 - Cutting
 - Stripping
 - Twisting
 - Tinning
 - Striping
-- Commercial off-the-shelf (COTS) ground straps
-- Vehicle ground strap configurations
+- Commercial off-the-shelf (COTS) supply
 - Engineering support and technical data
+- Specialty material sourcing (stainless steel, aluminum, silver-plated)
 
 ## Industries
 - Industrial
@@ -176,15 +174,14 @@ The company emphasizes fast turnaround, quoting standard lead times of one to tw
 
 - Founded 1975 -> db
 - Headquarters Concord, North Carolina -> db
-- Manufactures custom ground straps -> /
-- Standard lead times 1-2 weeks -> /
-- Materials: tinned copper, stainless steel, aluminum, silver-plated -> /
-- Processes: cutting, stripping, twisting, tinning, striping -> /
-- Industries: industrial, automotive, renewable energy (wind, solar, biofuels) -> /
-- Custom lengths up to 30 feet -> /
-- Vehicle ground straps for automotive -> /
-- Engineering support with technical data -> /
-- Commercial off-the-shelf items available -> /
+- Manufactures custom ground straps -> page /
+- Standard lead times 1-2 weeks -> page /
+- Materials: tinned copper, stainless steel, aluminum, silver-plated -> page /
+- Industries: industrial, automotive, renewable energy (wind, solar, biofuels) -> page /
+- Secondary services: cutting, stripping, twisting, tinning, striping -> page /
+- Engineering support with dimensional drawings and technical data -> page /
+- Custom lengths up to 30 feet -> page /
+- Vehicle ground straps for automotive negative battery grounding -> page /
 </details>
 
 ---
@@ -194,41 +191,39 @@ The company emphasizes fast turnaround, quoting standard lead times of one to tw
 **Old description:** AC Metals LLC® is a business striving to lead the steel construction sector, specializing in the fabrication, modification, and design of metal products. We are dedicated to collaborating with commercial clients, general contractors, and facility managers to deliver metal and steel solutions that exceed expectations.
 
 ## About
-AC Metals LLC operates from Hyattsville, Maryland, serving the steel construction sector across the Mid-Atlantic region. The company focuses on fabrication, modification, and design of metal products for commercial clients, general contractors, and facility managers.
+AC Metals LLC operates from Hyattsville, Maryland, serving the steel construction sector with fabrication, modification, and design of metal products. The company's founding year and ownership details are not publicly disclosed.
 
-The shop provides laser cutting, metal forming via press brake, metal shearing, and broader metal fabrication, supported by CNC machining capability. It works with stainless steel, black iron, copper, Corten steel, hot rolled steel, mild steel (20 gauge to 1/2 inch), stainless steel (20 gauge to 1/4 inch), and galvanized steel (20 gauge to 1/8 inch). Design services use 2D and 3D software accepting DWG, SKP, AI, EPS, SVG, and PDF files, and the company manages projects from initial meeting through estimation, shop drawings, delivery, and installation.
+The shop provides laser cutting, press brake forming, metal shearing, and full metal fabrication, working with materials such as stainless steel, black iron, copper, Corten steel, and hot rolled steel. Its equipment handles mild steel up to 1/2 inch thick, stainless up to 1/4 inch, and galvanized up to 1/8 inch. A design team uses 2D and 3D software (accepting DWG, SKP, AI, EPS, SVG, and PDF files) to develop shop drawings before production, and the company also manages delivery and on-site installation.
 
-AC Metals serves commercial facilities, government buildings, hospitals, and restaurants. Project experience includes work at National Harbor (Spirit Park, mast arm sleeve for interactive water feature), Ashburn Recreation & Community Center in Virginia, and sign installation for La Grand Boucherie in Washington, D.C. The firm holds licenses in Maryland and Virginia.
+AC Metals focuses on commercial facilities, government buildings, hospitals, and restaurants, working directly with commercial clients, general contractors, and facility managers. Completed projects include structural and ornamental work at Union Tower, Spirit Park at National Harbor, the Ashburn Recreation & Community Center in Virginia, and the La Grand Boucherie sign installation in Washington, D.C. The firm holds licenses in both Maryland and Virginia.
 
-The company emphasizes a passion for craft, meticulous attention to detail, and a process that treats each project as a statement of excellence and lasting legacy. Its end-to-end workflow — from client consultation and technical drawings to final installation — is presented as a key differentiator.
+The company states that its commitment to quality and meticulous attention to detail ensures each project maintains authenticity and endures over time, framing every job as a statement of excellence rather than a routine contract.
 
 ## Known for
 - Licensed in Maryland and Virginia
-- End-to-end process from design through installation
-- Laser cutting with short turnaround times
-- Press brake forming for a wide range of metals
-- Accepts multiple CAD file formats (DWG, SKP, AI, EPS, SVG, PDF)
+- Accepts 2D/3D CAD files in DWG, SKP, AI, EPS, SVG, PDF
+- Cuts mild steel up to 1/2 inch, stainless up to 1/4 inch, galvanized up to 1/8 inch
+- Provides on-site installation services
+- Uses press brake for precision bending of corner guards, trays, and signs
 
 ## Capabilities
 - Laser Cutting
-- Metal Forming (Press Brake)
+- Press Brake Forming
 - Metal Shearing
 - Metal Fabrication
-- CNC Machining
-- Design (2D/3D CAD)
+- CAD Design (2D/3D)
 - Installation
+- Sheet Metal Spinning Preparation
 
 ## Industries
-- Commercial Facilities
-- Government Buildings
+- Commercial facilities
+- Government buildings
 - Hospitals
 - Restaurants
 
 ## Equipment
 - CNC Machine
 - Press Brake
-- Laser Cutting Machine
-- Shearing Equipment
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -236,18 +231,18 @@ The company emphasizes a passion for craft, meticulous attention to detail, and 
 
 <details><summary>Sources</summary>
 
-- Hyattsville, Maryland headquarters -> db
+- Hyattsville, Maryland location -> db
 - Specializes in fabrication, modification, design of metal products -> /
-- Serves commercial facilities, government buildings, hospitals, restaurants -> /
 - Licensed in Maryland and Virginia -> /
-- Projects at National Harbor, Ashburn Recreation & Community Center, La Grand Boucherie -> /
-- Services: Laser Cutting, Metal Forming, Metal Shearing, Metal Fabrication -> /services
+- Industries: commercial facilities, government buildings, hospitals, restaurants -> /
+- Customer types: commercial clients, general contractors, facility managers -> /
+- Projects: Union Tower, Spirit Park at National Harbor, Ashburn Recreation & Community Center, La Grand Boucherie sign installation -> /
+- Services: Laser Cutting, Metal Forming (press brake), Metal Shearing, Metal Fabrication -> /services
 - Materials: Stainless Steel, Black Iron, Copper, Corten Steel, Hot Rolled Steel -> /services
-- Material thicknesses: Mild Steel 20 gauge to 1/2 inch, Stainless Steel 20 gauge to 1/4 inch, Galvanized 20 gauge to 1/8 inch -> /services
-- CNC Machine capability -> /services
-- Press brake for metal forming -> /services
-- Design with 2D/3D software, accepts DWG, SKP, AI, EPS, SVG, PDF -> /services
-- End-to-end process: meeting, estimation, design, delivery/installation -> /services
+- Material thicknesses: Mild Steel 20ga-1/2in, Stainless 20ga-1/4in, Galvanized 20ga-1/8in -> /services
+- Design process with 2D/3D software, file formats DWG, SKP, AI, EPS, SVG, PDF -> /services
+- Installation services offered -> /services
+- Equipment: CNC Machine, Press Brake -> /services
 </details>
 
 ---
@@ -257,32 +252,31 @@ The company emphasizes a passion for craft, meticulous attention to detail, and 
 **Old description:** From corn oil to cooking spray, MAZOLA has been helping families create delicious meals and cook with care since 1911.
 
 ## About
-ACH Food Companies operates its Argo manufacturing location in Summit, Illinois. The business traces its roots to 1868 when Fleischmann's Yeast was established, though the MAZOLA corn oil brand that anchors the site launched in 1911. Ownership structure and founders are not disclosed in the provided materials.
+ACH Food Companies operates its Argo manufacturing location in Summit, Illinois. The business traces its roots to 1868 with the establishment of Fleischmann's Yeast, while the Mazola corn oil brand launched in 1911.
 
-The facility produces a portfolio of shelf-stable cooking and baking ingredients sold under heritage brands including MAZOLA oils and cooking sprays, ARGO cornstarch, KARO syrups, and FLEISCHMANN'S yeast. The company describes itself as both a manufacturer and a marketer of these core ingredients for the North American market. Specific process details, facility square footage, headcount, and annual volumes are not provided in the source material.
+The facility produces a range of cooking and baking ingredients under heritage brands. Core processes include corn oil extraction and refining for Mazola products, cornstarch manufacturing for Argo, syrup production for Karo, and yeast cultivation for Fleischmann's. The company states it manufactures and markets some of North America's top-selling cooking and baking ingredients, though specific facility size, headcount, and annual volumes are not disclosed.
 
-Products are sold primarily through retail grocery and foodservice channels to home cooks and bakers. The company positions its ingredients as staples for consumers who "cook with care," though the input does not name specific industrial or food-manufacturing customers. Industries served are implied to be consumer packaged goods and food retail.
+Products reach retail consumers and foodservice channels across the United States and Canada. Primary industries served include consumer packaged goods, retail grocery, and baking ingredient supply. Brand examples from the input include Mazola corn oil and cooking sprays, Argo cornstarch, Karo syrups, and Fleischmann's yeast — all positioned as staple items for home bakers and cooks.
 
-ACH states its purpose is to make brands that create quality food and inspire memorable experiences. Its stated values—passion, accountability, results, and creativity—guide a strategy of focusing on heritage brands, executing with excellence, and innovating based on continuous consumer insight.
+The company emphasizes reliable performance across generations, citing a portfolio of brands that span multiple categories. Its stated values — passion, accountability, results, and creativity — frame a focus on executional excellence and consumer-driven innovation rather than any single technical differentiator.
 
 ## Known for
-- Heritage brand portfolio dating to 1868 (Fleischmann's, Argo, Karo, Mazola)
-- Manufacturer and marketer of North America's top-selling cooking and baking ingredients
-- Consumer-insight-driven innovation pipeline
-- Focus on executional excellence across core categories
-- Purpose-led culture: passion, accountability, results, creativity
+- Heritage brands dating to 1868 (Fleischmann's), 1892 (Argo), 1902 (Karo), 1911 (Mazola)
+- Manufactures and markets top-selling cooking and baking ingredients in North America
+- Trusted brands across oils, baking, and specialty categories
+- Reliable performance across years
 
 ## Capabilities
-- Manufacturing of cooking oils
-- Manufacturing of baking ingredients
-- Manufacturing of cornstarch
-- Manufacturing of syrups
-- Manufacturing of yeast
-- Brand marketing and innovation
+- Cooking oil production
+- Cornstarch manufacturing
+- Syrup production
+- Yeast manufacturing
+- Consumer food packaging
 
 ## Industries
 - Consumer packaged goods
-- Food retail
+- Retail grocery
+- Baking ingredient supply
 - Foodservice
 
 ## Company details
@@ -292,14 +286,15 @@ ACH states its purpose is to make brands that create quality food and inspire me
 
 <details><summary>Sources</summary>
 
-- Headquarters in Summit, Illinois -> db
-- Founded year 1911 (MAZOLA launch) -> db
-- Heritage brand timeline: 1868 Fleischmann's, 1892 Argo, 1902 Karo, 1911 Mazola -> /about
+- Company name and Argo manufacturing location -> db
+- Founded 1911 (Mazola launch) -> db
+- Headquarters Summit, Illinois -> db
 - Manufactures and markets cooking/baking ingredients -> /
-- Brands: MAZOLA, ARGO, KARO, FLEISCHMANN'S -> /about
+- Brands: Mazola, Argo, Karo, Fleischmann's -> /, /about
+- Timeline: 1868 Fleischmann's, 1892 Argo, 1902 Karo, 1911 Mazola -> /about
+- Categories: Oils, Baking, Specialty -> /about
 - Values: Passion, Accountability, Results, Creativity -> /about
-- Purpose: make leading brands that create quality food and inspire memorable experiences -> /
-- Vision: ACH brands choice for people when they bake and cook -> /
+- North American market -> /
 </details>
 
 ---
@@ -309,39 +304,40 @@ ACH states its purpose is to make brands that create quality food and inspire me
 **Old description:** Proudly 100% local and 100% solar since 1999—AES Solar is Southern Illinois' original solar expert.
 
 ## About
-AES Solar is based in Carterville, Illinois, and was founded in 1999 by Aur Beck, who serves as Founder and Chief Technician. The company began as Advanced Energy Solutions Group with the goal of bringing renewable energy solutions to residential, commercial, and industrial customers in Southern Illinois.
+AES Solar is based in Carterville, Illinois, and has served the Southern Illinois region since its founding in 1999. The company began when founder Aur Beck attended a demonstration on solar and sustainable energy and decided to bring renewable energy solutions to the area. Originally established as Advanced Energy Solutions Group, the business remains locally owned and operated, with Beck serving as Chief Technician alongside Chief Executive Officer Shariff Shakir and Chief Operating Officer Dustin Erwin.
 
-Today, AES Solar designs and installs photovoltaic systems for homes, businesses, schools, churches, and nonprofits across the region. The firm handles roof-mounted and ground-mounted arrays, battery storage, generator integration, incentive consulting, and post-installation support. All installation work is performed by an in-house crew employed through IBEW Local 702, and the company reports more than 5.3 megawatts of installed capacity across over 200 completed projects.
+The firm provides turnkey solar photovoltaic systems for residential, commercial, and non‑profit customers, including roof‑mounted and ground‑mounted arrays, battery storage integration, and generator hook‑ups. All design and installation work is performed in‑house by an IBEW Local 702 union crew, and the company reports more than 5.3 megawatts of installed capacity across over 200 completed projects.
 
-The customer base spans residential homeowners seeking lower utility bills, commercial property owners converting unused roof or land into productive assets, and nonprofit organizations such as schools and community groups. AES Solar has completed solar installations for seventeen K-12 schools in Missouri and serves clients throughout Southern Illinois and surrounding areas.
+Clients range from individual homeowners seeking lower utility bills to businesses aiming to convert unused roof or land into revenue‑generating assets. AES Solar has also worked with schools, churches, and community organizations; a notable early milestone was winning Missouri school solar bids in 2005 that brought PV systems to seventeen K‑12 schools. The company additionally assists customers with incentive applications and post‑installation support.
 
-The company emphasizes an education-first approach, avoiding pressure sales and generic system designs. Its union-affiliated, directly employed installation team is cited as a differentiator, ensuring that the same people who design a project also build and support it long term.
+AES Solar emphasizes an education‑first approach, promising no‑pressure consultations and custom designs rather than generic packages. The company cites its local roots, union‑trained installers, and a dedicated post‑installation customer success representative as key differentiators that have sustained its reputation for 25 years.
 
 ## Known for
-- Education-first solar design
-- In-house IBEW 702 union installation crew
-- Directly employs installers (no subcontractors)
-- 25+ years of local experience in Southern Illinois
-- Battery storage and generator integration expertise
+- Education-first solar design and consultation
+- In-house IBEW Local 702 union installation crew
+- No-pressure, custom system design (no generic packages)
+- Local presence and ownership since 1999
+- Dedicated post-installation customer success representative
 
 ## Capabilities
-- Solar PV system design
-- Roof-mounted solar installation
-- Ground-mounted solar installation
-- Battery storage system installation
+- Residential solar PV system design and installation
+- Commercial solar PV system design and installation
+- Non-profit solar PV system design and installation
+- Roof-mounted solar array installation
+- Ground-mounted solar array installation
+- Battery storage integration
 - Generator integration
-- Solar incentive consulting
-- Post-installation customer support
-- NABCEP PV entry-level training
+- Solar incentive consulting and application assistance
+- Post-installation support and monitoring
 
 ## Industries
 - Residential
 - Commercial
 - Non-profit
-- Education (K-12 schools)
-- Religious institutions
-- Community organizations
 - Industrial
+- Education (K-12 schools)
+- Religious organizations
+- Community organizations
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -350,26 +346,15 @@ The company emphasizes an education-first approach, avoiding pressure sales and 
 
 <details><summary>Sources</summary>
 
-- Founded 1999 -> db
-- Headquarters Carterville, Illinois -> db
-- Founder Aur Beck -> /about-us
-- CEO Shariff Shakir -> /about-us
-- COO Dustin Erwin -> /about-us
-- IBEW 702 union shop -> /about-us
-- Directly employs installer crew -> /about-us
-- 5.3M+ watts installed -> /about-us
-- 200+ jobs installed -> /about-us
-- Services: residential, commercial, non-profit solar installation -> / and /about-us
-- Battery storage and generator integration -> /about-us
-- Education-first solar design -> /about-us
-- In-house installation crew -> /about-us
-- Missouri school solar bids for 17 K-12 schools -> /about-us
-- NABCEP PV entry-level training partnerships -> /about-us
-- 25 years of solar expertise -> / and /about-us
-- No pressure, no generic systems -> /about-us
-- Serves homeowners, businesses, schools, churches, community organizations -> / and /about-us
-- Company began as Advanced Energy Solutions Group -> /about-us
-- Goal: bring renewable energy solutions to residential, commercial, industrial customers -> /about-us
+- Founded 1999 in Carterville, Illinois -> /about-us
+- Founder Aur Beck, CEO Shariff Shakir, COO Dustin Erwin -> /about-us
+- Originally Advanced Energy Solutions Group -> /about-us
+- 5.3M+ watts installed, 200+ jobs installed -> /about-us
+- IBEW Local 702 union shop, in-house installation crew -> /about-us
+- Services: residential, commercial, non-profit solar, battery storage, generator integration -> /about-us, /
+- 2005 Missouri school solar bids for 17 K-12 schools -> /about-us
+- Education-first approach, no-pressure consultations -> /about-us
+- Post-installation customer success representative -> /about-us
 </details>
 
 ---
@@ -379,28 +364,29 @@ The company emphasizes an education-first approach, avoiding pressure sales and 
 **Old description:** A combining of great minds in the hospitality supply industry, AGH Hospitality Supply was founded with experience more than a decade old. With a dedicated focus on product selection, competitive pricing and concierge level service we prove that
 
 ## About
-AGH Supply, operating as AGH Hospitality Supply, is based in West Columbia, South Carolina. The company was formed by professionals with more than a decade of experience in the hospitality supply industry, though a specific founding year is not disclosed. Ownership details and founder names have not been publicly shared.
+Based in West Columbia, South Carolina, AGH Supply (operating as AGH Hospitality Supply) was founded by hospitality industry veterans with more than a decade of experience in wholesale supply. The company was established to address the procurement needs of hotels, motels, and lodging operators across the United States.
 
-The firm functions as a wholesale distributor of commercial-grade hospitality products, serving hotels, motels, resorts, and lodging businesses nationwide. Its catalog spans bed linens, bath towels, metal bed frames, air conditioners, guest-room amenities, toiletries, cleaning supplies, and hardware. Through a partnership with Holt Furniture, it also offers a furniture collection including study desks and headboards. AGH Supply emphasizes factory-direct pricing and reports serving over 3,000 hoteliers through an online ordering platform supported by a dedicated customer-service team.
+AGH Supply functions as a wholesale distributor of commercial-grade hospitality products. Its catalog spans bed and bath linens — including cotton and cotton-polyester blend towels, sheets, and blankets — as well as bed frames, air conditioners, guest room amenities, toiletries, cleaning supplies, hardware, and furniture sourced through its Holt Furniture partner. The company manages an online ordering platform and coordinates nationwide delivery from its South Carolina base, serving over 3,000 hotelier accounts.
 
-Customers range from boutique properties to multi-location hotel groups across the United States. The company focuses exclusively on the hospitality sector, tailoring its bulk-supply solutions to the operational needs of housekeeping, maintenance, and procurement departments.
+The customer base consists of independent hotels, motels, resorts, and multi-property lodging groups throughout the U.S. AGH Supply tailors its bulk offerings to boutique properties and large chains alike, providing products designed for the durability and consistency required in daily hotel operations.
 
-AGH Supply states that its differentiation lies in competitive bulk pricing, consistent product quality, dependable nationwide delivery, and a consultative approach that aims to simplify procurement and reduce costs for hospitality operators.
+The company emphasizes factory-direct pricing, consistent product quality, and dependable nationwide delivery as its core differentiators. Its approach centers on understanding operational needs, simplifying procurement through a streamlined online system, and maintaining a knowledgeable support team to ensure uninterrupted supply for hospitality operators.
 
 ## Known for
 - Factory-direct wholesale pricing
-- Nationwide delivery across the United States
-- Serves 3,000+ hoteliers and hospitality businesses
-- 15+ years of hospitality industry experience
-- Streamlined online ordering with knowledgeable support
+- Competitive bulk pricing for hotel supplies
+- Consistent product quality standards
+- Dependable nationwide delivery
+- Streamlined online ordering system
 
 ## Capabilities
-- Wholesale distribution
+- Wholesale distribution of hospitality supplies
+- Nationwide delivery
 - Online ordering platform
 - Customer support
-- Nationwide delivery
-- Bulk procurement solutions
+- Bulk pricing programs
 - Product sourcing
+- Procurement simplification
 
 ## Industries
 - Hospitality
@@ -408,6 +394,7 @@ AGH Supply states that its differentiation lies in competitive bulk pricing, con
 - Motels
 - Resorts
 - Lodging
+- Commercial hospitality operations
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -415,16 +402,17 @@ AGH Supply states that its differentiation lies in competitive bulk pricing, con
 
 <details><summary>Sources</summary>
 
-- West Columbia, South Carolina headquarters -> db
-- Wholesale hotel supply company -> /
-- Over a decade of experience / 15+ years -> /
-- Serves 3000+ hoteliers -> /
+- Headquarters in West Columbia, South Carolina -> db
+- Founded with over a decade of hospitality supply experience -> /
+- 15+ years of hospitality industry experience -> /
+- Serves 3000+ hoteliers and hospitality businesses -> /
+- Nationwide delivery across the United States -> /
+- Wholesale distributor of hotel linens, towels, bed frames, air conditioners, amenities, cleaning supplies, hardware, and furniture -> /
+- Online ordering platform and knowledgeable support team -> /
 - Factory-direct wholesale pricing -> /
-- Nationwide delivery -> /
-- Product categories: linens, towels, bed frames, AC units, amenities, cleaning supplies, hardware -> /
-- Partnership with Holt Furniture for furniture collection -> /
-- Online ordering system and knowledgeable support team -> /
-- Focus on hospitality sector: hotels, motels, resorts, lodging -> /
+- Materials: cotton, polyester blends, sugarcane bagasse -> /
+- Industries served: hotels, motels, resorts, lodging businesses -> /
+- Capabilities: customer services, delivery services -> db
 </details>
 
 ---
@@ -434,43 +422,39 @@ AGH Supply states that its differentiation lies in competitive bulk pricing, con
 **Old description:** Efficient Cooling Solutions for Power Generation and Industrial Applications
 
 ## About
-AKG North American Operations, operating as AKG of America, is headquartered in Mitchell, South Dakota. The business is part of the AKG Group, a global thermal management company that cites 100 years of industry experience. Ownership structure and founding year are not publicly disclosed on the company's web pages.
+AKG North American Operations, doing business as AKG of America, is headquartered in Mitchell, South Dakota. The facility serves as the North American arm of the AKG Group, a global thermal management specialist with a century of industry experience. While the exact founding year of the U.S. operation is not publicly disclosed, the group’s history spans 100 years of heat exchanger development.
 
-The company develops and manufactures high-performance heat exchangers and cooling systems. Its product portfolio includes radiators, oil coolers, charge air coolers, pre-engineered coolers, cooling systems, compact coolers, electronics cooling modules, and the AKG Power Systems line. With approximately 3,000 employees worldwide, AKG operates global manufacturing facilities supported by regional engineering centers, offering both standard catalog products and customized thermal management solutions designed for easy installation, low maintenance, and energy efficiency.
+The company designs and manufactures high-performance heat exchangers and integrated cooling systems. Its product portfolio includes radiators, oil coolers, charge air coolers, pre-engineered coolers, compact coolers, electronics cooling, and the AKG Power Systems line. Manufacturing is supported by a global network with local production and regional engineering centers, enabling the integration of components into ready-to-install plug-and-play solutions. The Mitchell site operates within a quality management system certified to ISO 9001 and an environmental system certified to ISO 14001:2015.
 
-AKG serves original equipment manufacturers across seven core sectors: power generation, renewable energy, off-highway and construction equipment, oil and gas, on-highway vehicles, railway, and compressor markets. The company emphasizes global engineering capabilities with local production to meet specific application requirements in each industry.
+AKG serves customers across compressor, off-highway and construction equipment, oil and gas, on-highway, power generation, railway, and renewable energy sectors. The company works with original equipment manufacturers and end users requiring thermal management for demanding applications, from data center infrastructure to heavy machinery.
 
-AKG differentiates itself through precision engineering, an ISO 9001-certified quality management system, and the AKG Green Thermal Solutions initiative aimed at helping customers achieve net-zero emission targets. Its quality policy centers on continuous improvement, customer knowledge, and on-time delivery of the right product.
+AKG differentiates itself through a quality policy built on continuous improvement, deep customer knowledge, and on-time delivery. Its engineering teams provide configurable product software and custom design services, aiming to deliver the right thermal solution for each application.
 
 ## Known for
-- Global engineering and manufacturing capabilities with local production
-- Standard and customized thermal management solutions
 - ISO 9001-certified quality management system
-- AKG Green Thermal Solutions for sustainability and net-zero targets
-- 100 years of industry experience in thermal management
+- ISO 14001:2015 environmental management certification
+- Global engineering and manufacturing with local production
+- Plug-and-play integration of components into complete cooling systems
+- Customer-centered software for configurable and standard products
 
 ## Capabilities
 - Heat exchanger manufacturing
 - Thermal management system design
-- Custom cooling solutions
-- Standard cooling products
-- Electronics cooling
-- Power systems cooling
-- Radiator production
-- Oil cooler production
-- Charge air cooler production
-- Pre-engineered cooler assembly
-- Compact cooler manufacturing
-- Cooling system integration
+- Custom cooling solution engineering
+- Plug-and-play system integration
+- Configurable product software development
+- Quality management (ISO 9001)
+- Environmental management (ISO 14001)
 
 ## Industries
-- Power Generation
-- Renewable Energy
+- Compressor
 - Off-Highway and Construction Equipment
 - Oil & Gas
 - On-Highway
+- Power Generation
 - Railway
-- Compressor
+- Renewable Energy
+- Industrial Applications
 
 ## Certifications
 - ISO 9001
@@ -479,21 +463,20 @@ AKG differentiates itself through precision engineering, an ISO 9001-certified q
 ## Company details
 - **Company Type:** Manufacturer
 - **Employees:** 3000
+- **Ownership:** Subsidiary of AKG Group
 - **Headquarters:** Mitchell, South Dakota
 
 <details><summary>Sources</summary>
 
 - Headquarters in Mitchell, South Dakota -> db
 - 3000 employees -> db
-- ISO 9001 and ISO 14001:2015 certifications -> db, /quality
+- ISO 9001 and ISO 14001:2015 certifications -> /quality
 - Manufactures heat exchangers and cooling systems -> /quality
-- Product lines: radiators, oil coolers, charge air coolers, pre-engineered coolers, cooling systems, compact coolers, electronics cooling, AKG Power Systems -> /
-- Markets served: power generation, renewable energy, off-highway/construction, oil & gas, on-highway, railway, compressor -> /
+- Serves compressor, off-highway, oil & gas, on-highway, power generation, railway, renewable energy -> /
 - Global presence with local production and regional engineering support -> /
-- AKG Green Thermal Solutions for sustainability -> /
-- Quality policy: continuous improvement, customer knowledge, on-time delivery -> /quality
-- 100 years of industry experience claimed -> /
-- LinkedIn URL -> db
+- Integration of components into plug-and-play solutions -> /
+- Customer-centered software for configurable products -> /
+- Quality policy: Always improve, Know your customers, Deliver the right product on time -> /quality
 </details>
 
 ---
@@ -503,30 +486,22 @@ AKG differentiates itself through precision engineering, an ISO 9001-certified q
 **Old description:** You've arrived at the best source for incredibly strong neodymium rare earth magnets. Thanks for taking the time to check out our online store. If you're new to our site, we're glad you found us. We hope we can fulfill all of your neodymium rare earth magnet needs.
 
 ## About
-ALB Materials Inc operates from Henderson, Nevada, where it manufactures and supplies neodymium rare earth magnets through its online store, ALBMAGNETS.COM. The company does not disclose its founding year, ownership structure, or founders in the provided materials.
+ALB Materials Inc operates from Henderson, Nevada, where it runs an online storefront under the ALBMAGNETS brand. The company has not disclosed its founding year, ownership structure, or the names of its founders.
 
-The company produces a range of neodymium magnets in various sizes and strengths, from small cubes measuring 1/16 inch on a side to larger blocks up to 1/2 inch thick. It maintains an e-commerce platform that lists dozens of standard magnet configurations, allowing customers to purchase directly without a quoted order process. Facility size, headcount, and annual production volumes are not published.
+The business focuses on neodymium rare-earth magnets, offering a catalog of standard block, disc, and cylinder sizes through its e-commerce site. The homepage lists more than a dozen dimensional variants ranging from 1/16-inch cubes to 1/2-inch thick blocks. No details on manufacturing processes, facility size, headcount, or annual volumes are publicly available.
 
-ALB Materials serves factories, engineering projects, and general business customers seeking rare-earth magnets for applications such as holding, sensing, and assembly. The site emphasizes a broad selection and expert guidance to help buyers match magnet specifications to their requirements.
+The company markets its magnets to factories, engineering projects, and general business customers, though it does not name specific industries or reference customers.
 
-The company highlights its extensive product catalog and advisory support as key differentiators, positioning itself as a single source for both standard and hard-to-find magnet sizes.
+ALB Materials emphasizes a broad product selection and online tools intended to help buyers identify the right magnet for their application, but it does not publish quantified differentiators such as lead times, tolerances, or certification standards.
 
 ## Known for
-- Wide selection of neodymium magnet sizes and strengths
+- Broad selection of standard neodymium magnet sizes
+- Online product selection tools
 - Expert guidance for magnet selection
-- Online store for direct purchasing
-- Serves factories, engineering projects, and businesses
 
 ## Capabilities
-- Neodymium magnet manufacturing
-- Magnet supply and distribution
-- Online magnet sales
-- Magnet selection guidance
-
-## Industries
-- Manufacturing
-- Engineering
-- Commercial
+- Neodymium magnet supply
+- E-commerce magnet sales
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -534,12 +509,15 @@ The company highlights its extensive product catalog and advisory support as key
 
 <details><summary>Sources</summary>
 
-- Located in Henderson, Nevada -> db
-- Manufactures and supplies neodymium rare earth magnets -> /
-- Operates online store ALBMAGNETS.COM -> /
-- Sells magnets in various sizes (e.g., 1/16 x 1/16 x 1/16 inch) -> /
-- Serves factories, engineering projects, and businesses -> /
-- Offers wide selection and expert guidance -> /
+- Company name: ALB Materials Inc -> db
+- Headquarters: Henderson, Nevada -> db
+- Website: http://albmagnets.com/ -> db
+- Product: Neodymium rare earth magnets -> /
+- Sales channel: Online store -> /
+- Target customers: Factories, engineering projects, businesses -> /
+- Product range: Multiple standard sizes listed (1/16 to 1/2 inch) -> /
+- Claimed differentiators: Wide selection, expert guidance, online tools -> /
+- Self-description: Rare Earth Neodymium Magnets Manufacturer and Magnets Supplier -> /
 </details>
 
 ---
@@ -549,29 +527,29 @@ The company highlights its extensive product catalog and advisory support as key
 **Old description:** None
 
 ## About
-Allied Wholesale Electrical Supply, Inc. (AWESI) is a family-owned electrical wholesale distributor headquartered in Anderson, Indiana. The company was founded in 1985 by Bob McCurdy with a simple premise: keep the products customers need in stock and treat every buyer like family. McCurdy and his son, Rob McCurdy, ran the business side by side for 16 years, adhering to those principles through several warehouse expansions.
+Allied Wholesale Electrical Supply, Inc. (AWESI) is a family-owned electrical supply distributor headquartered in Anderson, Indiana. The company was founded in 1985 by Bob McCurdy with a focus on maintaining deep inventory and treating customers like family. His son Rob McCurdy joined the business and worked alongside his father for 16 years before purchasing the company in 2009.
 
-Today AWESI operates a 54,000-square-foot central warehouse on the west side of Indianapolis, supplemented by branch locations in Indianapolis, Anderson, Bloomington, and Lafayette. The distributor stocks a broad range of electrical supplies including overhead service drop cable, service entrance cable, load centers, meter sockets, wiring devices, pole-line hardware, and fastening products. In 2016 the company acquired a plumbing distributor in Bloomington, adding plumbing supplies to its product mix. The combined inventory supports electrical and plumbing contractors across Indiana.
+AWESI operates a 54,000-square-foot warehouse on the west side of Indianapolis and maintains branches in Indianapolis, Anderson, Bloomington, and Lafayette. The distributor stocks a broad range of electrical products including overhead service drop cable, service entrance cable, load centers, service masts, and a wide variety of wiring devices and hardware. The expanded warehouse space has allowed the company to accommodate growing customer demand and it now ranks among the largest independent distributors in Indiana and within the top 200 nationally.
 
-AWESI serves electrical and plumbing contractors, industrial maintenance departments, and commercial construction firms throughout the state. Its product lines feature brands such as IDEAL Industries and Arlington Industries, covering categories from general-purpose wiring devices to harsh-environment and low-voltage components. The company reports that its customer base has grown exponentially while the staff—many with more than a decade of tenure—retains deep product knowledge.
+The company serves electrical contractors and commercial, industrial, and automotive customers across Indiana. Its product offering includes meter sockets, wiring devices, pole line hardware, and fastening hardware from brands such as IDEAL Industries and Arlington Industries.
 
-The founding vision remains the company’s stated differentiator: maintaining immediate product availability and a family-oriented service culture. Leadership emphasizes that the knowledgeable, long-tenured team and the family atmosphere have persisted despite rapid growth, positioning AWESI among the largest independent distributors in Indiana and within the top 200 nationally.
+AWESI attributes its growth to its founding principles of inventory availability and customer loyalty, supported by a knowledgeable staff, many of whom have been with the company for over a decade.
 
 ## Known for
-- Maintains extensive in-stock inventory to meet immediate customer needs
-- Family-oriented service culture with staff averaging over a decade of tenure
-- Operates a 54,000 sq. ft. central warehouse plus four Indiana branch locations
-- Ranked among the largest independent electrical distributors in Indiana and top 200 nationally
-- Expanded into plumbing distribution through 2016 acquisition of a Bloomington distributor
+- Deep inventory availability
+- Family-owned with customer-first philosophy
+- 54,000 sqft central warehouse
+- Four Indiana branch locations
+- Long-tenured, knowledgeable staff
 
 ## Capabilities
 - Overhead Service Drop
 - Service Entrance Cable
 - Service Drop Cable
 - Load Centers & Service Entrance Equipment
-- Service Masts, House Brackets, Insulators
+- Service Masts & Accessories
 - Meter Sockets & Mounting Assemblies
-- Wiring Devices & Data
+- Wiring Devices
 - General Purpose Wiring Devices
 - Consumer Packaged Wiring Devices
 - Harsh Environment Wiring Devices
@@ -582,8 +560,8 @@ The founding vision remains the company’s stated differentiator: maintaining i
 - Pole Line & Distribution Hardware
 
 ## Industries
-- Electrical wholesale distribution
-- Plumbing wholesale distribution
+- Automotive
+- Commercial Applications
 
 ## Certifications
 - UL Listed
@@ -598,16 +576,14 @@ The founding vision remains the company’s stated differentiator: maintaining i
 
 - Founded in 1985 by Bob McCurdy -> /about-us
 - Family-owned since 1985 -> /about-us
-- Rob McCurdy purchased business in 2009 -> /about-us
-- 54,000 sq ft warehouse in Indianapolis -> /about-us
+- Rob McCurdy purchased in 2009 -> /about-us
+- 54,000 sqft warehouse -> /about-us
 - Branches in Indianapolis, Anderson, Bloomington, Lafayette -> /about-us
-- Acquired plumbing distributor in Bloomington in 2016 -> /about-us
-- One of largest independent distributors in Indiana, top 200 nationally -> /about-us
-- Staff with over a decade tenure, family atmosphere -> /about-us
-- UL Listed certification -> db
-- Product categories: overhead service drop, service entrance cable, load centers, meter sockets, wiring devices, pole line hardware -> db
-- Brands carried: IDEAL Industries, Arlington Industries -> db
-- Headquarters: Anderson, Indiana -> db
+- Largest independent distributor in Indiana -> /about-us
+- Staff with over a decade tenure -> /about-us
+- Product categories: Overhead Service Drop, Service Entrance Cable, etc. -> db
+- Certification: UL Listed -> db
+- Industries: Automotive, Commercial Applications -> db
 </details>
 
 ---

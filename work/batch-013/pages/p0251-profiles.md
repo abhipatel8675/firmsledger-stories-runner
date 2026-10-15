@@ -3,20 +3,20 @@
 **Old description:** A Trusted Partner for CEM, EMS, and Related Services since 1991
 
 ## About
-Technical & Assembly Services Corporation (TASC) was founded in 1991 by Richard Hirst, a U.S. Air Force veteran, in Seattle, Washington. The veteran-owned company began with Hirst’s background spanning consumer electronics—such as electronic chess games and automated apple-labeling machines—to mission-critical systems including the emergency oxygen mask lighting for the Boeing 777.
+Technical & Assembly Services Corporation (TASC) was founded in 1991 by Richard Hirst, a U.S. Air Force veteran, in Seattle, Washington. The veteran-owned company grew from Hirst’s career spanning every phase of electronics manufacturing, from consumer innovations such as electronic chess games and automated apple-labeling machines to mission-critical systems like the emergency oxygen mask lighting for the Boeing 777.
 
-TASC provides electronics manufacturing and assembly services including printed circuit board assembly, cable and wire harness assembly, full box builds, prototypes, design and development, testing, troubleshooting, repair, rework, transformer and coil winding, potting, and conformal coating. The shop runs flexible production lines capable of high-volume, low-volume, and single-unit runs from its Seattle facility, serving clients nationwide.
+TASC provides full-service electronics manufacturing and assembly, including printed circuit board assembly, cable and wire harness assembly, full electronic equipment box builds, prototypes, design and development, testing, troubleshooting, repair, rework, transformer/toroid/coil winding, and potting and conformal coating. The shop runs flexible production lines capable of high-volume, low-volume, and single-unit runs from its Seattle facility, serving clients nationwide.
 
-Customers range from OEMs and Fortune 500 firms to aerospace, medical equipment, U.S. military, government agencies, universities, and independent inventors. Past projects include components for the U.S. Navy, Department of Defense, Homeland Security applications, and a specialized computer-interconnect device used on the M1A1 Abrams tank.
+The company supports OEMs, Fortune 500 firms, aerospace, medical equipment, U.S. military, government agencies and contractors, universities, entrepreneurs, inventors, and designers. Past projects include components for the U.S. Navy, Department of Defense, Homeland Security applications, and a specialized computer-interconnect device used on the M1A1 Abrams tank, as well as work for Bally gaming machines, espresso machines, and body-fat analyzers.
 
-The company emphasizes domestic production—“Proudly Made in the USA”—and a quality philosophy of “built in, not inspected in,” backed by ISO 9001 compliance, IPC Class II/III standards, ITAR registration, and proprietary process controls. An extended specialist network fills gaps for highly specialized processes.
+TASC emphasizes domestic manufacturing, ITAR registration, ISO 9001 compliance, and IPC Class II/III workmanship standards. Its differentiators include expedited assembly services, consignment and turnkey programs, materials management with obsolete-part workarounds, and a quality system built around first-article and in-process inspections.
 
 ## Known for
-- Quality built in, not inspected in
-- Proprietary techniques and quality control methodologies for quick turnarounds
-- Domestic design, development, and manufacturing (Made in USA)
-- Expedited assembly services: consignment, turnkey, quick turn
-- Extended specialist network for highly specialized processes
+- Expedited assembly services with quick-turn, consignment, and turnkey options
+- ITAR registered and compliant with IPC-A-610/620 Class II and III
+- Veteran-owned with deep defense and aerospace manufacturing experience
+- Full-service from design through box build, testing, and repair
+- Domestic production with materials management and obsolete-part workarounds
 
 ## Capabilities
 - Printed Circuit Board (PCB) Assembly
@@ -29,34 +29,29 @@ The company emphasizes domestic production—“Proudly Made in the USA”—and
 - Transformer, Toroid, and Coil Winding
 - Potting and Conformal Coating
 - Materials Management and Parts Sourcing
+- Obsolete Parts Workarounds
 - Reverse Engineering for Legacy Equipment
 - Working with Incomplete Documentation
 
 ## Industries
+- OEMs
+- Fortune 500
 - Aerospace
-- Medical equipment
-- U.S. military
-- Government agencies
-- Government contractors
+- Medical Equipment
+- U.S. Military
+- Government Agencies and Contractors
 - Universities
 - Entrepreneurs
 - Inventors
 - Designers
-- OEMs
-- Fortune 500
-- Homeland Security
-- U.S. Navy
-- Department of Defense
 
 ## Certifications
-- ISO 9001 Compliant
-- IPC-A-610/620 Class II and III builds (latest revision)
-- IPC/WHMA-A-610/620E Rev CL I
-- RoHS compliant
-- ITAR Registered
-- UL certifiable (via client interface)
-- Electrostatic Discharge (ESD) Protection
-- NIST security standards (working toward certification)
+- ISO 9001
+- IPC-A-610/620 Class II
+- IPC-A-610/620 Class III
+- RoHS
+- ITAR
+- UL certifiable
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -67,20 +62,21 @@ The company emphasizes domestic production—“Proudly Made in the USA”—and
 <details><summary>Sources</summary>
 
 - Founded 1991 by Richard Hirst (US Air Force veteran) -> /about
-- Veteran-owned company -> /about
-- Headquarters in Seattle, Washington -> /about
-- Services: PCB Assembly, Cable & Wire Harness Assembly, Box Builds, Prototypes, Design and Development, Testing, Troubleshooting/Repair/Rework, Transformer/Toroid/Coil Winding, Potting and Conformal Coating -> /services
-- Materials management, parts sourcing, workarounds for obsolete parts -> /
-- Reverse-engineering for legacy equipment, working with incomplete documentation -> /
-- Certifications: ISO 9001 Compliant, IPC-A-610/620 Class II and III, RoHS compliant, ITAR Registered, UL certifiable -> /quality
-- Quality standards: ESD protection, IP protection, NIST security standards -> /quality
-- Industries served: OEMs, Fortune 500, aerospace, medical equipment, US military, government agencies, universities, entrepreneurs, inventors, designers -> /
-- Projects: Boeing 777 emergency oxygen mask lighting, Bally gaming machines, espresso machines, body-fat analyzers, Homeland Security, U.S. Navy, Department of Defense, M1A1 Abrams Tank computer-interconnect device -> /about
+- Veteran-owned -> /about
+- Headquarters Seattle, Washington -> /about
+- Services: PCB assembly, cable/harness, box builds, prototypes, design, testing, repair, winding, potting -> /services
+- Certifications: ISO 9001, IPC Class II/III, RoHS, ITAR, UL certifiable -> /quality
+- Industries served: OEMs, Fortune 500, aerospace, medical, military, government, universities, entrepreneurs -> /
+- Projects: Boeing 777 oxygen mask lighting, Bally gaming, espresso machines, body-fat analyzers, Homeland Security, US Navy, DoD, M1A1 Abrams tank interconnect -> /about
+- Expedited assembly, consignment, turnkey, quick turn -> /
+- Materials management, obsolete parts workarounds -> /
 - Domestic manufacturing (Made in USA) -> /
-- Expedited assembly services: consignment, turnkey, quick turn -> /
-- Volume: high-volume, low-volume, 1-up runs -> /
-- Management team: Richard Hirst (President/Founder), Maggi Hirst, Rikki Nelson, Amanda Martinez, Matthew Grzywinski, Geoff Rojas, Mic Mathers, James Anderson -> /about
+- Quality standards: first article inspections, in-process inspections, process controls, ESD protection, IP protection, NIST security -> /quality
+- Management team names -> /about
+- Flexible production lines for any size job -> /
+- Reverse engineering, incomplete documentation -> /
 - Proprietary techniques and quality control methodologies -> /
+- Assembly Process Specification custom document -> /quality
 </details>
 
 ---
@@ -90,32 +86,33 @@ The company emphasizes domestic production—“Proudly Made in the USA”—and
 **Old description:** TCS Electronics, Inc. is a Contract Electronics Manufacturer of PCB Assemblies, Cable & Wire Harnesses, and Full Electro-Mechanical Box Builds.
 
 ## About
-TCS Electronics, Inc. was founded in 2012 in Farmington, New York. The company operates as a privately held contract electronics manufacturer; no founders or ownership structure are disclosed publicly.
+TCS Electronics, Inc. was founded in 2012 in Farmington, New York. The company operates as a contract electronics manufacturer, providing PCB assemblies, cable and wire harnesses, and full electro-mechanical box builds. No founders are named in public materials, and ownership structure has not been disclosed.
 
-The firm provides printed circuit board assembly (flexible, surface-mount, multilayer, and plated through-hole), custom wire and cable harnesses (30 to 4/0 gauge, including coaxial, solid, stranded, metallic, sheathed, and ribbon types), and full electro-mechanical box builds integrated with enclosures from its sister company TCS Industries, Inc. Services extend to conformal coating, high-speed machining, functional testing (including LabView-controlled test engineering), flying-probe testing (off-site), component engineering for obsolescence management, and fulfillment with packaging and re-packaging. Production spans prototype through full-rate runs.
+The firm’s capabilities span printed circuit board assembly — including surface-mount, through-hole, multilayer, and flexible circuits — custom cable and wire harness assembly using wire gauges from 30 to 4/0, and electromechanical box-build integration performed with its sister company, TCS Industries, Inc. Testing services cover flying-probe inspection (outsourced) and functional test programs built on National Instruments LabView. Additional offerings include conformal coating, high-speed machining, cutting, component engineering for obsolescence management, and fulfillment services. The company describes its range as “prototyping to full production.”
 
-Customers serve military, commercial and industrial, transportation, medical, and telecommunications sectors. The company cites work with tier-one military suppliers and global electronics and technology firms.
+TCS serves military, commercial and industrial, transportation, medical, and telecommunications customers. Its client base includes several major tier-one military suppliers and other electronics and technology companies operating nationally and globally.
 
-TCS Electronics emphasizes end-to-end supply-chain management, AS9100D and ISO 9001:2015 quality systems, ITAR registration, and default IPC 610/620 Class II workmanship with Class III available. The model aims to let clients redirect resources to core competencies while reducing material, labor, and capital costs.
+The company emphasizes its management of a global supply chain, adherence to AS9100D and ISO 9001:2015 quality systems, and IPC-610/620 Class II workmanship (with Class III available) as factors that allow customers to outsource non-core manufacturing and focus on product development.
 
 ## Known for
 - AS9100D and ISO 9001:2015 certified quality system
-- ITAR registered
-- IPC 610/620 Class II default, Class III on request
-- Global supply chain management from prototype to full production
-- Electromechanical integration via sister company TCS Industries
+- ITAR registered for defense-related work
+- IPC-610/620 Class II standard, Class III on request
+- Global supply chain management from prototype to production
+- In-house testing including flying probe and LabView functional test
 
 ## Capabilities
-- PCB Assembly (flexible, surface mount, multilayer, plated through-hole)
-- Wire & Cable Assembly (30 to 4/0 gauge, coaxial, solid, stranded, metallic, sheathed, ribbon)
-- Electromechanical Box Build Assembly
-- Testing Services (flying probe, functional testing with LabView)
-- Conformal Coating
-- High-speed Machining
-- Component Engineering (obsolescence management)
-- Strategic Planning & Project Management
-- Fulfillment Services
-- Product Packaging & Re-packaging
+- PCB assembly (surface mount, through-hole, multilayer, flexible)
+- Cable and wire harness assembly (30–4/0 AWG, coaxial, solid, stranded, metallic, sheathed, ribbon)
+- Electromechanical box build assembly
+- Flying probe testing (off-site)
+- Functional testing (LabView-based)
+- Conformal coating
+- High-speed machining
+- Cutting
+- Component engineering (obsolescence management)
+- Fulfillment services
+- Strategic planning and project management
 
 ## Industries
 - Military
@@ -123,6 +120,10 @@ TCS Electronics emphasizes end-to-end supply-chain management, AS9100D and ISO 9
 - Transportation
 - Medical
 - Telecommunications
+
+## Equipment
+- Flying probe tester (off-site)
+- LabView-based functional test systems
 
 ## Certifications
 - SAE AS9100D
@@ -133,6 +134,7 @@ TCS Electronics emphasizes end-to-end supply-chain management, AS9100D and ISO 9
 - IPC-610
 - IPC-620
 - IPC-J-STD
+- Certified Tyco/AMP subcontractor
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -141,17 +143,15 @@ TCS Electronics emphasizes end-to-end supply-chain management, AS9100D and ISO 9
 
 <details><summary>Sources</summary>
 
-- Founded 2012 in Farmington, NY -> db
-- Contract electronics manufacturer of PCB assemblies, cable/wire harnesses, box builds -> db description
-- AS9100D, ISO 9001:2015, ITAR, UL, CSA, IPC certifications -> /quality page
-- PCB assembly capabilities: flexible, SMT, multilayer, through-hole -> /capabilities page
-- Wire/cable assembly: 30 to 4/0 gauge, various wire types -> /capabilities page
-- Electromechanical assembly with sister company TCS Industries -> /capabilities page
-- Testing: flying probe (off-site), LabView functional testing -> /capabilities page and products list
-- Industries: Military, Commercial & Industrial, Transportation, Medical, Telecommunications -> homepage and industries_served
-- Prototype to full production volumes -> /about-us page
-- IPC 610/620 Class II default, Class III on request -> /about-us page
-- Global supply chain management, end-to-end solutions -> /about-us page
+- Founded 2012 -> db
+- Headquarters Farmington, New York -> db
+- Contract electronics manufacturer of PCB assemblies, cable & wire harnesses, electro-mechanical box builds -> /
+- Capabilities: PCB assembly (surface mount, through-hole, multilayer, flexible), cable/wire harness assembly (30-4/0 AWG), box build, testing (flying probe, LabView), conformal coating, machining, cutting, component engineering, fulfillment -> /capabilities
+- Industries served: Military, Commercial & Industrial, Transportation, Medical, Telecommunications -> /, /capabilities
+- Certifications: SAE AS9100D, ISO 9001:2015, ITAR, UL E157252, CSA LR109165-1, IPC-610, IPC-620, IPC-J-STD, Certified Tyco/AMP subcontractor -> /quality
+- Quality standards: IPC-610/620 Class II default, Class III on request -> /, /about-us
+- Global supply chain management, prototype to full production -> /about-us
+- Sister company TCS Industries for custom enclosures -> /capabilities
 </details>
 
 ---
@@ -161,19 +161,19 @@ TCS Electronics emphasizes end-to-end supply-chain management, AS9100D and ISO 9
 **Old description:** and top-notch sales staff that have been hand-selected and trained to provide our clients with a professional and friendly experience. In addition to being drug tested and performing background checks, they all maintain ongoing training and certifications to provide exceptional service and deliver the expected solution as a team.
 
 ## About
-TDO Home Entertainment operates from Lexington, Kentucky, where it began as The Dish Outlet on Palumbo Drive in the mid-1990s. The business was founded to sell and install large satellite dishes, then evolved through the rise of direct-broadcast satellite and the internet era. Today it is a privately owned local company led by owner Brock Bailey, with a team of audio/video experts and sales staff who undergo drug testing, background checks, and ongoing certification training.
+TDO Home Entertainment traces its roots to the mid-1990s when it opened as The Dish Outlet on Palumbo Drive in Lexington, Kentucky, selling and installing large satellite dishes. The business was privately owned and later rebranded to reflect a broader scope of services. The owner, Brock Bailey, leads the company from its current location in Lexington.
 
-The firm provides a full suite of installation and integration services, including home theater and outdoor audio/video installation, structured wiring for builders, security camera systems, home automation, lighting control, wireless networking, cell signal boosting, satellite TV, and conference room AV. Services are delivered from a location on Big Run Road, with technicians handling retrofits, remodels, and custom cabinetry alongside standard installations.
+The company provides a range of residential and light commercial installation services, including home theater design and installation, audio/video distribution, structured wiring for builders, security camera systems, home automation, satellite TV, cellular signal boosting, and wireless networking. Its technicians handle retrofits, remodels, custom cabinetry, lighting control, and video wall installations. The team consists of trained installers who undergo drug testing, background checks, and ongoing certification programs.
 
-TDO serves residential homeowners, custom builders, and commercial clients needing conference room or video wall setups. Testimonials reference projects ranging from whole-home audio and universal remote programming to security camera installations viewed on smartphones, illustrating a client base that spans single-family homes and small-business environments.
+TDO primarily serves homeowners in the Lexington area, as well as builders and remodelers who need pre-wiring and infrastructure for new construction. Customer testimonials reference projects such as whole-home audio, outdoor entertainment setups, and conference room installations for small businesses.
 
-The company rebranded from The Dish Outlet to TDO Home Entertainment because the original name no longer reflected the breadth of its offerings, which had expanded far beyond satellite TV. The ownership says the change was driven by a need to better represent its capabilities and to position itself as a solution provider rather than a single-product dealer.
+The firm emphasizes its evolution from a satellite-only dealer to a full-service entertainment and security provider, positioning itself as a local, privately owned alternative to national retailers. It offers free estimates and stresses that its staff aims to be part of the solution rather than the problem.
 
 ## Known for
-- Staff are drug tested, background checked, and maintain ongoing certifications
-- Privately owned local company with experienced, trained installers
-- Free quotes and estimates offered
-- Evolved from satellite dish sales to full entertainment and security integration
+- Drug-tested, background-checked installation staff with ongoing certifications
+- Privately owned, local operation with free on-site estimates
+- Experienced technicians covering home theater, security, automation, and structured wiring
+- Evolved from satellite dish dealer to full entertainment and security integrator
 
 ## Capabilities
 - Audio/video installation
@@ -198,21 +198,19 @@ The company rebranded from The Dish Outlet to TDO Home Entertainment because the
 
 ## Company details
 - **Company Type:** Installer / service company
-- **Founded:** mid-1990s
 - **Ownership:** Privately owned
 - **Headquarters:** Lexington, Kentucky
 
 <details><summary>Sources</summary>
 
-- Lexington, Kentucky headquarters -> db
-- Founded as The Dish Outlet in mid-1990s -> /about
-- Owner Brock Bailey -> /
-- Privately owned local company -> /
-- Staff drug tested, background checks, ongoing training -> /
-- Services list -> /services
-- Rebranding reason -> /about
-- Address 242 Big Run Road -> /about
-- In business almost 20 years -> /about
+- Founded as The Dish Outlet in mid-1990s on Palumbo Drive, Lexington, KY -> /about
+- Rebranded to TDO Home Entertainment with new location at 242 Big Run Road, Lexington, KY 40503 -> /about
+- Owner Brock Bailey mentioned in testimonials -> /
+- Privately owned local company noted in testimonial -> /
+- Services list: audio/video installation, builder services, cell service boost, conference room installation, custom cabinetry, cutting the cord, head-end, home automation, home theater installation, internet service, lighting control, outdoor audio/video installation, retro-fits & remodels, satellite TV installation, security cameras installation, universal remote control, whole-home audio, wireless networking, video wall installation -> /services
+- Staff drug tested, background checked, ongoing training -> /
+- Free quote or estimate offered -> /about
+- Experienced trained installers highlighted -> /about
 </details>
 
 ---
@@ -222,70 +220,73 @@ The company rebranded from The Dish Outlet to TDO Home Entertainment because the
 **Old description:** New from MEAN WELL: The XDR-E Series DIN rail power supplies, available from 75W to 960W, deliver reliable industrial power in an ultra-slim design with global safety certifications and rugged performance for demanding automation and control applications.
 
 ## About
-TRC Electronics, Inc. was founded on April 16, 1982, in Lodi, New Jersey, as a provider of troubleshooting, repair, and calibration services for power supplies. The privately held company relocated its main distribution center to Doylestown, Pennsylvania, near Philadelphia, where it operates today.
+TRC Electronics, Inc. was founded on April 16, 1982, in Lodi, New Jersey, as a privately-held company providing troubleshooting, repair, and calibration services for power supplies to OEMs. The company later moved its main distribution center to Doylestown, Pennsylvania, near Philadelphia.
 
-As a franchised distributor specializing exclusively in power supply products, TRC stocks AC/DC power supplies, DC/DC converters, batteries, LED drivers, enclosures, and related components from brands such as MEAN WELL, Enedo, Delta, TRACO Power, Power Sonic, and Hammond Manufacturing. The company maintains one of the largest power supply inventories in the United States at its Doylestown warehouse, where orders placed before 3:30 PM EST ship the same day. Value-added services include engineering support from manufacturer-trained staff, application testing and troubleshooting, an authorized MEAN WELL repair center, UL/TUV-authorized modular power supply configuration for MEAN WELL and Enedo lines, and custom packaging and labeling.
+Today, TRC operates as a franchised distributor specializing exclusively in power supply products and components. It maintains one of the largest power supply inventories in the United States at its Doylestown warehouse, where in-stock orders placed before 3:30 PM EST ship the same day. The company offers value-added services including testing and troubleshooting of customer systems, a MEAN WELL USA authorized repair center, modular power supply configuration for MEAN WELL and Enedo lines (with one-business-day turnaround), and custom packaging and labeling. Its engineering team, trained directly by manufacturers, supports design and compliance across medical, LED, and industrial applications.
 
-TRC serves original equipment manufacturers and design engineers across medical, LED lighting, industrial automation, uninterruptible power supply, security, emergency lighting, renewable energy, electric vehicle, automated guided vehicle, data center, and critical infrastructure markets. Its engineering advantage program provides free samples to qualified engineers validating new designs.
+TRC serves original equipment manufacturers and engineering teams in medical, industrial, LED lighting, automation, renewable energy, security, and electric vehicle sectors. Customers include engineers validating new designs through the company's engineering sample program, as well as buyers and planners who rely on its forecasting and lead-time management. The distributor carries brands such as MEAN WELL, TRACO Power, Delta Electronics, BUD Industries, Power Sonic, and Hammond Manufacturing.
 
-The company's stated mission is "to supply businesses the power to succeed." It traces its differentiation to an early decision to focus solely on power supply solutions, becoming one of the first electronic distributors to do so, and to its manufacturer-authorized repair and configuration capabilities that reduce lead times for customers.
+The company was established to provide specialized power supply expertise—troubleshooting, repair, and calibration—that generalist distributors could not offer. Its mission to "supply businesses the power to succeed" reflects a focus on technical depth, inventory availability, and authorized service capabilities that differentiate it from broader-line distributors.
 
 ## Known for
+- Same-day shipping on in-stock orders placed before 3:30 PM EST
 - Only MEAN WELL USA Authorized Repair Service Center in North America
 - UL/TUV authorized configuration center for MEAN WELL modular power supplies
 - Factory authorized modular configuration center for Enedo
-- Same-day shipping on in-stock orders placed by 3:30 PM EST
-- Engineering team trained directly by power supply manufacturers
+- One of the largest power supply inventories in the USA
 
 ## Capabilities
 - Power supply distribution
-- Engineering support and design assistance
-- Application testing and troubleshooting
+- Engineering support for power supply applications
+- Testing and troubleshooting of customer systems
 - MEAN WELL authorized repair service
 - Modular power supply configuration (MEAN WELL and Enedo)
 - Custom packaging and labeling
-- Same-day shipping from stock
+- Same-day shipping for in-stock orders
+- Volume discount programs
 - Inventory management and forecasting
 - Engineering sample program for qualified projects
 
 ## Industries
 - Medical
-- LED lighting
-- Industrial automation
-- Uninterruptible power supplies (UPS)
-- Security systems
-- Emergency lighting
-- Renewable energy
-- Electric vehicles
-- Automated guided vehicles (AGVs)
-- Data centers
-- Critical infrastructure
+- LED Lighting
+- Industrial
+- Automation
+- Renewable Energy
+- Security
+- Emergency Lighting
+- Electric Vehicles
 
 ## Company details
 - **Company Type:** Distributor / reseller
 - **Founded:** 1982
-- **Ownership:** Privately held
+- **Ownership:** Privately-held
 - **Headquarters:** Doylestown, Pennsylvania
 
 <details><summary>Sources</summary>
 
-- Founded April 16, 1982 in Lodi, New Jersey -> /about-us
-- Privately held company -> /about-us
-- Main distribution center in Doylestown, Pennsylvania -> /about-us
-- Premier franchised distributor specializing exclusively in power supply products -> /about-us
-- Mission: To supply businesses the power to succeed -> /about-us
-- One of the largest power supply inventories in the USA -> /about-us
+- Founded 1982 in Lodi, NJ -> /about-us
+- Privately-held company -> /about-us
+- Headquarters in Doylestown, PA -> /about-us
+- Franchised distributor specializing in power supply products -> /about-us
 - Same-day shipping for orders placed before 3:30 PM EST -> /about-us
-- Does not outsource warehousing -> /about-us
-- Engineering team trained directly by manufacturers -> /about-us
-- Only MEAN WELL USA Authorized Repair Service Center -> /about-us
+- MEAN WELL USA Authorized Repair Service Center -> /about-us
 - UL/TUV authorized configuration center for MEAN WELL modular power supplies -> /about-us
 - Factory authorized modular configuration center for Enedo -> /about-us
-- Custom packaging and labeling services -> /about-us
-- Serves medical, LED, industrial, UPS, security, emergency lighting, renewable energy, EV, AGV, data center, critical infrastructure markets -> /about-us, /
-- Engineering Advantage Program provides engineering samples to qualified engineers -> /
-- Core values: Trustworthy, Resilient, Committed, Intentional, Transparent, Accountable, Disciplined -> /about-us
-- Brands carried: MEAN WELL, Enedo, Delta, TRACO Power, Power Sonic, Hammond Manufacturing, BUD Industries -> /, /about-us
+- Custom packaging and labeling -> /about-us
+- Testing and troubleshooting of customer systems -> /about-us
+- Engineering support for Medical, LED, and Industrial sectors -> /about-us
+- One of the largest power supply inventories in the USA -> /about-us
+- Product managers with over 20 years experience -> /about-us
+- Website recognized as most popular power supply-focused website in USA -> /about-us
+- History: established in Lodi, New Jersey in 1982 -> /about-us
+- Evolved into specialized power supply distributor in 1985 -> /about-us
+- Warehouse in Doylestown, PA, no outsourcing -> /about-us
+- Value-added services: testing, repair, configuration, custom packaging -> /about-us
+- Brands carried: MEAN WELL, TRACO Power, Delta, BUD Industries, Power Sonic, Hammond Manufacturing -> /
+- Product categories: AC/DC Power Supplies, Batteries, LED Drivers, Power Entry Modules, Enclosures, DC/DC Converters, Modular Power Supplies, DC/AC Inverters, Medical AC/DC Power Supplies, Battery Chargers -> /
+- Engineering sample program for qualified engineers -> /
+- Flat rate shipping -> /
 </details>
 
 ---
@@ -295,46 +296,47 @@ The company's stated mission is "to supply businesses the power to succeed." It 
 **Old description:** TSM is a full-service manufacturer of custom components for automotive powertrain, driveline, and chassis applications.
 
 ## About
-TSM Corporation is based in Auburn Hills, Michigan. Founded in 1978, the company began with 10 employees, a single rotary dial machine, and three drill presses.
+TSM Corporation operates from Auburn Hills, Michigan, where it was founded in 1978.
 
-The company operates as a full-service manufacturer of custom components for automotive powertrain, driveline, and chassis applications. Its capabilities span the entire manufacturing process from design through start of production, supported by 40-plus dedicated machining centers, 200-plus production machines, and 24/7 operations. TSM manages in-house tooling and re-tooling, and has delivered design optimizations such as a 25 percent mass reduction and part consolidation on a structural support program.
+The company provides full-service manufacturing of custom components for automotive powertrain, driveline, and chassis applications. Its capabilities span the entire process from design through start of production, supported by over 40 dedicated machining centers, 200-plus production machines, and 24/7 operations. TSM manages every step of development, including in-house re-tooling, design optimization, and program launch.
 
-TSM serves the automotive industry, working with multiple global OEMs and Tier 1 suppliers across more than 40 vehicle platforms. Notable engagements include taking over a failing intake manifold program for a global OEM and re-tooling it within five weeks, and developing a structural support that reduced mass and combined two part numbers for another major automotive manufacturer.
+TSM serves global automotive OEMs and Tier 1 suppliers across more than 40 vehicle platforms. Notable engagements include taking over a failing intake manifold program for a global OEM and delivering it within five weeks, and redesigning a structural support for a major automaker to reduce mass by 25 percent while consolidating two part numbers into one.
 
-The company emphasizes agile production, positioning itself as a partner for launching new products on tight milestones with high quality. Its quality culture engages all employees and business partners, underpinned by IATF 16949 and ISO 14001 certifications. TSM's stated mission is to achieve unsurpassed manufacturing quality through intelligent, cost-effective solutions for complicated engineering designs, leveraging global partnerships and a highly qualified workforce.
+The company emphasizes agile production as a core differentiator, describing its responsiveness as part of its DNA. TSM’s quality culture engages all employees and business partners, underpinned by IATF 16949 and ISO 14001 certifications, and aims to deploy customized manufacturing technologies optimized for each product.
 
 ## Known for
-- Agile production: trusted partner for on-time launches under tight milestones
-- Quality culture engaging all employees and partners, certified to IATF 16949 and ISO 14001
+- Agile production: launches new products on time with exceptional quality under tight milestones
 - Full-service capabilities from design through start of production
-- Global reach serving multiple OEMs and Tier 1 suppliers across 40+ vehicle platforms
+- 24/7 operations with 40+ dedicated machining centers and 200+ machines
+- Global partnerships with OEMs and Tier 1 suppliers across 40+ vehicle platforms
+- Quality culture engaging all employees and business partners (IATF 16949, ISO 14001)
 
 ## Capabilities
-- Custom component manufacturing for automotive powertrain, driveline, and chassis
-- Dedicated machining centers
-- 24/7 production operations
-- Design to delivery (concept through SOP)
+- CNC machining (dedicated machining centers)
+- Design engineering and design for manufacturability
+- Program management and launch support
+- Prototyping and low-volume production
+- High-volume production
 - In-house tooling and re-tooling
-- Design optimization (mass reduction, part consolidation)
-- Quality assurance (IATF 16949)
+- Quality management (IATF 16949)
 - Environmental management (ISO 14001)
-- Global supply chain management
-- Program management for high-volume and high-complexity projects
+- Global sourcing
 
 ## Industries
 - Automotive
-- Automotive OEM
-- Tier 1 Automotive Supplier
+- Automotive powertrain
+- Automotive driveline
+- Automotive chassis
 
 ## Equipment
 - Rotary dial machine
 - Drill presses
 - Dedicated machining centers
-- Production machines
+- Production machines (200+)
 
 ## Certifications
-- IATF 16949
 - ISO 14001
+- IATF 16949
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -344,20 +346,24 @@ The company emphasizes agile production, positioning itself as a partner for lau
 
 <details><summary>Sources</summary>
 
-- Founded in 1978 with 10 employees, a rotary dial machine, and three drill presses -> /about-us
+- Founded in 1978 -> /about-us
+- Started with 10 employees, single rotary dial machine and three drill presses -> /about-us
+- Headquarters in Auburn Hills, Michigan -> db
 - 200,000 sq ft production space -> /about-us
 - 180+ employees -> /about-us
 - 200+ production machines -> /about-us
-- 40+ dedicated machining centers -> /
-- 24/7 operations -> /
-- IATF 16949 certified -> /about-us
-- ISO 14001 certified -> /about-us
-- Serves multiple OEMs and Tier 1 suppliers across 40+ vehicle platforms -> /about-us
-- Agile production for on-time launches under tight milestones -> /about-us
+- 40+ dedicated machining centers -> /about-us
+- 24/7 operations -> /about-us
+- Full-service manufacturer of custom components for automotive powertrain, driveline, chassis -> /
+- Capabilities span design through start of production -> /about-us
+- Serves OEMs and Tier 1 suppliers across 40+ vehicle platforms -> /about-us
+- Intake manifold program takeover delivered in five weeks -> /
+- Structural support redesign reduced mass 25% and consolidated two part numbers -> /
+- Agile production as core differentiator -> /about-us
 - Quality culture engaging all employees and partners -> /about-us
-- Mission: smarter manufacturing, intelligent cost-effective solutions -> /about-us
-- Case study: intake manifold program takeover in five weeks -> /
-- Case study: structural support design reduced mass 25% and combined two part numbers -> /
+- IATF 16949 certification (expires 2028) -> /about-us
+- ISO 14001 certification (expires 2028) -> /about-us
+- Environmental policy and sustainability policy -> /about-us
 </details>
 
 ---
@@ -367,27 +373,24 @@ The company emphasizes agile production, positioning itself as a partner for lau
 **Old description:** From a lot of hard work, some creativity and one great barbecue sauce, a legend was born. The year was 1929, and Winston-Salem was experiencing the onset of the Great Depression. But things started to turn around for the city’s Garner family when one of their own created a sauce that started tongues wagging.
 
 ## About
-TW Garner Food Company traces its roots to 1929 in Winston-Salem, North Carolina, when the Garner family created a barbecue sauce that gained local acclaim during the Great Depression. The family-owned business began with that single sauce and expanded into a broader line of condiments.
+TW Garner Food Company traces its roots to 1929 in Winston-Salem, North Carolina, where the Garner family created a barbecue sauce that gained local popularity during the Great Depression. The business remains family-owned and began as a small sauce operation that grew into a regional brand.
 
-Today the company manufactures a range of hot sauces and salsas under the Texas Pete and Green Mountain Gringo brands. Its portfolio includes the original Texas Pete Hot Sauce, ¡Sabor! by Texas Pete Mexican-Style Hot Sauce, CHA! by Texas Pete Sriracha Sauce, and Green Mountain Gringo Salsa. Production covers sauce formulation, bottling, and packaging for both retail and foodservice channels.
+Today the company manufactures a line of hot sauces and salsas under the Texas Pete and Green Mountain Gringo labels. Its portfolio includes the original Texas Pete Hot Sauce, two international variants — ¡Sabor! Mexican-Style Hot Sauce and CHA! Sriracha Sauce — and a Non-GMO Verified salsa. Production covers sauce blending, bottling, and packaging for both retail and foodservice channels.
 
-The company serves the foodservice industry through its Texas Pete Foodservice line and the retail grocery market via Texas Pete Retail and Green Mountain Gringo. Customers include restaurants, institutional kitchens, and supermarket chains across the United States.
+The company serves two primary markets: foodservice operators through its Texas Pete Foodservice division and retail grocery channels through Texas Pete Retail. Green Mountain Gringo products are also distributed through retail outlets. Customers range from independent restaurants to national grocery chains.
 
-Garner Foods emphasizes product integrity: Green Mountain Gringo Salsa carries Non-GMO Verified status, and all Garner Foods products are certified Gluten-Free. The company credits its longevity to the original family recipe and a commitment to flavor consistency.
+Garner Foods differentiates itself with clean-label credentials: all products carry Gluten-Free certification, and the Green Mountain Gringo salsa is Non-GMO Verified. The brand also introduced flip-top lids on redesigned bottles for easier dispensing.
 
 ## Known for
-- Freshest jarred salsa on the market (Green Mountain Gringo)
-- Non-GMO Verified Green Mountain Gringo salsa
 - All products certified Gluten-Free
-- Family recipe heritage since 1929
+- Green Mountain Gringo salsa Non-GMO Verified
+- Flip-top lid packaging on redesigned bottles
+- International flavor extensions: Mexican-style and Sriracha hot sauces
 
 ## Capabilities
-- Sauce production
-- Hot sauce production
+- Sauce manufacturing
 - Salsa production
 - Bottling and packaging
-- Retail packaging
-- Foodservice packaging
 
 ## Industries
 - Foodservice
@@ -395,7 +398,7 @@ Garner Foods emphasizes product integrity: Green Mountain Gringo Salsa carries N
 
 ## Certifications
 - Non-GMO Verified
-- Gluten-Free Certified
+- Gluten-Free
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -405,13 +408,12 @@ Garner Foods emphasizes product integrity: Green Mountain Gringo Salsa carries N
 
 <details><summary>Sources</summary>
 
-- Founded in 1929 in Winston-Salem, North Carolina -> /
-- Family-owned business started by Garner family -> /
-- Produces Texas Pete hot sauces and Green Mountain Gringo salsa -> /
-- Offers retail and foodservice product lines -> /
-- Green Mountain Gringo Salsa is Non-GMO Verified -> /
-- All products certified Gluten-Free -> /
-- Headquarters in Winston-Salem, North Carolina -> db
+- Founded 1929 in Winston-Salem, NC -> db
+- Family-owned by Garner family -> db
+- Produces Texas Pete hot sauce and Green Mountain Gringo salsa -> /
+- Non-GMO Verified and Gluten-Free certifications -> /
+- Serves foodservice and retail channels -> /
+- Offers flip-top lids and international flavor variants -> /
 </details>
 
 ---
@@ -421,34 +423,38 @@ Garner Foods emphasizes product integrity: Green Mountain Gringo Salsa carries N
 **Old description:** The seat is the first contact people have with a car, truck or SUV. It’s how we “feel the road” and ultimately influences how we feel about the vehicle. That’s why comfortable automotive seating means a
 
 ## About
-Based in Mt. Juliet, Tennessee, Tachi-S Engineering U.S.A., Inc. operates as the North American arm of a global automotive seat manufacturer with over 64 years of seating experience. The company focuses on creating high-quality automotive seats that are functional, safe, stylish, and comfortable to support automotive manufacturers' global vehicle launches.
+Tachi-S Engineering U.S.A., Inc. operates from Mt. Juliet, Tennessee, as the U.S. arm of a global automotive seat manufacturer with over 64 years of industry experience. The company focuses on designing, developing, and manufacturing high-quality automotive seats and seat components for original equipment manufacturers.
 
-Tachi-S provides end-to-end seating solutions, from design and development through prototyping and manufacturing. Its capabilities include trim, foam, and metal prototyping; complete just-in-time and frame assembly; prototype fixture and frame modification; and a full range of seat testing services, including a Servo Sled for collision simulation. The company reports annual deliveries of over 3 million complete seats and 4 million seat components to the global automotive market.
+Its capabilities span the full product lifecycle: design and development, prototyping of trim, foam, and metal parts, and manufacturing including just-in-time frame and complete seat assembly. The company also operates a full range of seat testing services, notably a Servo Sled for collision simulation. Annual output exceeds three million complete seats and four million seat components.
 
-The company serves automotive original equipment manufacturers (OEMs) producing cars, trucks, and SUVs worldwide. Its programs span concept to mass production, with an emphasis on pre-production prototype events and production support.
+Tachi-S serves automotive OEMs launching cars, trucks, and SUVs worldwide, supporting programs from concept through mass production. Customers rely on the firm for pre-production prototype events, production pad changes during tool modifications, and prototype fixture and frame assembly.
 
-Tachi-S states that its success is built on being responsive, flexible, and easy to work with, ensuring every seating program is completed on time, on budget, and with high quality. Its quality policy commits to products that inspire confidence and excitement, while its corporate philosophy aims to deliver inspirational experiences through technology as a brand.
+The company states its differentiation lies in being responsive, flexible, and easy to work with, ensuring programs are completed on time, on budget, and to high quality standards. Its quality policy emphasizes inspiring confidence and excitement with a commitment to quality first, while its corporate philosophy aims to deliver inspirational experiences through technology.
 
 ## Known for
-- Over 3 million complete seats and 4 million components delivered annually
+- Over 64 years of automotive seat manufacturing experience
+- Annual delivery of over 3 million complete seats and 4 million seat components
 - Responsive, flexible, and easy to work with
 - On-time, on-budget program delivery
-- Servo Sled collision simulation testing
-- Complete JIT and frame assembly from plant to customer
+- Full-range seat testing including Servo Sled collision simulation
 
 ## Capabilities
-- Automotive seating design & development
-- Prototyping (trim, foam, metal)
-- Manufacturing (complete JIT and frame assembly)
-- Seat testing (Servo Sled collision simulation)
-- Prototype fixture and frame modification
-- Trim and complete seat assembly for pre-production
+- Automotive seating design and development
+- Automotive seat prototyping (trim, foam, metal)
+- Sheet metal fabrication
+- Wire bending
+- Machining
+- Trim and complete seat assembly
+- Prototype fixture fabrication
+- Frame modification and assembly
+- Just-in-time (JIT) frame and complete seat assembly
 - Production pad changes during tool modification
-- Sheet metal fabrication, wire bending, and machining
+- Automotive seat testing (including Servo Sled collision simulation)
 
 ## Industries
+- Automotive
 - Automotive OEMs
-- Automotive manufacturing
+- Vehicle manufacturers (cars, trucks, SUVs)
 
 ## Equipment
 - Servo Sled
@@ -459,15 +465,20 @@ Tachi-S states that its success is built on being responsive, flexible, and easy
 
 <details><summary>Sources</summary>
 
-- Headquarters in Mt. Juliet, Tennessee -> db
+- Headquarters: Mt. Juliet, Tennessee -> db
 - Over 64 years of automotive seat manufacturing experience -> /about-us
-- Delivers over 3 million complete automotive seats and over 4 million seat components annually -> /about-us
-- Design, development, prototyping, manufacturing, and testing of automotive seats -> /capabilities
-- Servo Sled collision simulation testing -> industries_served array
-- Complete JIT and frame assembly from plant to customer -> /products array
-- Responsive, flexible, easy to work with; on-time, on-budget delivery -> /about-us
-- Global Seat System Creator -> /about-us
-- Automotive OEM customers -> /about-us
+- Delivers over 3 million complete seats and 4 million seat components annually -> /about-us
+- Design & development, prototyping, manufacturing, testing services -> /capabilities
+- Sheet metal fabrication, wire bending & machining -> db
+- Trim & complete seat assembly for pre-production prototype events -> db
+- Prototype fixtures, frame modification & frame assembly -> db
+- Complete JIT and frame assembly -> db
+- Servo Sled collision simulation testing -> db
+- Serves automotive OEMs for cars, trucks, SUVs -> /about-us
+- Responsive, flexible, easy to work with; on-time, on-budget, high quality -> /about-us
+- Quality policy: inspire confidence and excitement, commitment to quality first -> /about-us
+- Corporate philosophy: deliver inspirational experience through technology -> /about-us
+- LinkedIn URL -> db
 </details>
 
 ---
@@ -477,48 +488,44 @@ Tachi-S states that its success is built on being responsive, flexible, and easy
 **Old description:** We founded Tailored Industry after experiencing the challenges of small-scale manufacturing firsthand. Frustrated by high minimums, long timelines, and hidden costs, we built a smarter way. That mission drives us today: giving brands of every size the tools, transparency, and support they need to succeed.
 
 ## About
-Tailored Industry operates from Industry City in Brooklyn, New York. The company was founded by Alex Tschopp, who serves as co‑founder and CEO, after he experienced the difficulties of small‑scale manufacturing while running a collegiate wholesale business. Frustrated by high minimums and the scarcity of domestic knitting mills, he began producing sweaters in‑house and later pivoted to an on‑demand model when brands of all sizes asked for low‑quantity, quick‑turnaround knitwear.
+Tailored Industry operates from Industry City in Brooklyn, New York. The company was founded by Alex Tschopp, who serves as CEO, and a co-founder named Kady after Tschopp experienced the difficulties of small-scale manufacturing while running a collegiate wholesale business. Frustrated by high minimum orders and the scarcity of domestic knitting mills, Tschopp began producing sweaters in-house, eventually pivoting to offer low-minimum, quick-turnaround knitwear production to other brands.
 
-The factory specializes in on‑demand knitwear using 3D knitting technology and automated equipment, complemented by skilled finishing and quality‑control teams. Starting with four machines in a 500‑square‑foot space at the Brooklyn Army Terminal, the operation has expanded its machine count and now offers a library of over 300 market‑ready styles. Production is zero‑waste — no cutting or sewing — and orders can launch in as few as nine business days. The facility also provides yarn‑stock service and embroidery.
+The factory specializes in on-demand knitwear manufacturing using 3D whole-garment knitting machines that produce zero-waste garments without cutting or sewing. Starting with four machines in a 500-square-foot space at the Brooklyn Army Terminal, the operation has expanded into a larger facility at Industry City. The company maintains a library of over 300 market-ready styles and offers three service tiers: Boutique for ready-to-sell items with drop shipping in three to nine business days, Studio for customized silhouettes and details, and Flagship for full custom development. A proprietary platform integrates with Shopify to provide real-time production tracking and fulfillment.
 
-Tailored Industry serves fashion brands, apparel companies, and e‑commerce merchants seeking custom knitwear and merchandise. Customers include Porsche Brooklyn for branded merchandise, Oliver Charles for bootstrapped fashion lines, Tigerbob for artistic knits, and Ministry of Supply for built‑to‑order production. The platform integrates directly with Shopify for real‑time order tracking and drop shipping.
+Tailored Industry serves fashion brands, apparel companies, and merchandise programs of all sizes. Clients have included Porsche Brooklyn for branded merchandise, Oliver Charles for fashion knitwear, Tigerbob for custom colorful knits, and Ministry of Supply for built-to-order production. The company targets both emerging labels and established brands seeking domestic production without inventory risk.
 
-The company was created to give brands what they want, when they want it: no minimums, full transparency, and domestic production that blends heritage craftsmanship with advanced software. Its founders aimed to eliminate the inventory risk and hidden costs that plague traditional manufacturing, offering a sustainable, flexible alternative for brands of any size.
+The business was built to eliminate the traditional barriers of high minimums, long lead times, and opaque supply chains. Its stated differentiators include a nine-business-day order-to-launch window, zero-waste manufacturing, domestic automated production, and a team with over 100 years of combined knitwear experience.
 
 ## Known for
 - Zero minimum order quantities
-- Order-to-launch in 9 business days
+- Order to launch in 9 business days
 - 300+ ready-to-sell styles in STK library
-- Seamless Shopify integration for real-time production tracking
-- Zero-waste 3D knitting (no cutting, no sewing)
+- Seamless Shopify integration with real-time tracking
+- Zero-waste, no-cut, no-sew 3D knitting
 
 ## Capabilities
 - On-demand knitwear manufacturing
-- 3D knitting
-- Automated knitting equipment operation
+- 3D whole-garment knitting
+- Automated knitting production
 - Finishing and quality control
 - Custom knitwear development
-- Ready-to-sell style library (STK)
-- Shopify integration for production tracking
-- Drop shipping
-- Zero-waste production (no cutting, no sewing)
-- Small batch production
 - Silhouette and fit customization
-- Custom development (Flagship tier)
-- Yarn-stock service
 - Embroidery
-- Real-time production visibility
+- Yarn-stock service
+- Shopify integration for production tracking
+- Drop shipping fulfillment
+- Zero-waste manufacturing (no cutting, no sewing)
 
 ## Industries
 - Fashion brands
 - Apparel companies
+- Merchandise programs
+- Knitwear
 - Custom merchandise
-- Knitwear manufacturing
-- E-commerce brands
+- Small batch production
 
 ## Equipment
-- 3D knitting machines
-- Automated knitting equipment
+- 3D whole-garment knitting machines
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -526,20 +533,22 @@ The company was created to give brands what they want, when they want it: no min
 
 <details><summary>Sources</summary>
 
-- Founded by Alex Tschopp after challenges in small-scale manufacturing -> /about
-- Located in Industry City, Brooklyn, New York -> /about
+- Headquarters in Brooklyn, New York -> db
+- Founders Alex Tschopp (CEO) and Kady -> /about
+- Founded after challenges in small-scale manufacturing -> /about
+- On-demand knitwear manufacturing using 3D whole-garment machines -> /about, /
+- Zero-waste, no cutting, no sewing -> /about
 - Started with 4 machines in 500 sq ft at Brooklyn Army Terminal -> /about
-- Uses 3D knitting technology and automated equipment -> /about
-- Zero-waste production (no cutting, no sewing) -> /about
-- Offers 300+ market-ready styles in STK library -> /
-- Order to launch in 9 business days -> /
-- No minimum order quantities -> /
-- Shopify integration for real-time tracking -> /
-- Serves brands like Porsche Brooklyn, Oliver Charles, Tigerbob, Ministry of Supply -> /
+- Expanded to Industry City facility -> /about
+- 300+ market-ready styles in STK library -> /
+- Three service tiers: Boutique, Studio, Flagship -> /
+- Shopify integration for real-time tracking -> /, /about
+- 9 business day order-to-launch -> /
+- Drop shipping in 3-9 business days -> /
+- Clients: Porsche Brooklyn, Oliver Charles, Tigerbob, Ministry of Supply -> /
+- Team with 100+ years combined knitwear experience -> /about
 - Materials: Eco-Viscose, Cotton, Merino, Cashmere, Sorona -> /
-- Collective team experience of 100+ years in knitwear -> /about
-- Yarn-stock service and embroidery available -> /
-- Three membership tiers: Boutique, Studio, Flagship -> /
+- LinkedIn URL -> db
 </details>
 
 ---
@@ -549,32 +558,43 @@ The company was created to give brands what they want, when they want it: no min
 **Old description:** Available in 9 Colors (Red, Yellow, Green, Blue, Black, White, Clear, Orange & Purple)
 
 ## About
-Taiyo America Inc. operates from Carson City, Nevada, where it was established in 1990 as a manufacturing subsidiary of Japan's Taiyo Holdings Co., Ltd. (founded 1953). The company began by supplying solder mask products, legend inks, thermal management inks, and direct imaging materials to the printed circuit board industry.
+Taiyo America Inc. operates from Carson City, Nevada, where it was established in 1990 as the manufacturing subsidiary of Japan's Taiyo Holdings Co., Ltd. (founded 1953). The company began as a supplier of solder mask products and has since expanded its portfolio to serve the printed circuit board industry across North America and Europe.
 
-Today Taiyo America produces a broad line of liquid and dry-film solder masks—including the PSR-4000 family—legend inks, hole-plugging and gap-filling compounds, dielectric and conductive inks, and inkjet-printable solder masks. Its materials are applied via screen printing, spray, curtain coating, and inkjet processes. The firm also designs and manufactures PCB coating and drying equipment under the Taiyo Circuit Automation brand. Regional sales, engineering, and service teams support customers across North America and Europe.
+The company produces a range of electronic materials including the PSR-4000 family of liquid photoimageable solder masks, legend inks, thermal management inks, direct imaging products, hole-plugging and gap-filling compounds, and dielectric and conductive inks for printed electronics. It also designs and manufactures PCB coating and drying equipment under the Taiyo Circuit Automation brand. Processes supported include screen printing, spray coating, curtain coating, inkjet deposition, and UV LED curing (360–420 nm). The facility's output spans prototype to high-volume production, though specific headcount and floor space are not disclosed.
 
-The company serves aerospace and defense, medical, automotive, and consumer electronics markets. Its materials have been used on the F-35 fighter jet, the Mars MER-1 rover, the X-59 Quesst X-plane, and satellites; in hearing aids, blood-pressure monitors, and imaging equipment; in electric vehicles, brake systems, and LED lighting; and in smartphones, smart watches, laptops, and tablets.
+Taiyo America serves aerospace and defense, medical, automotive, and consumer electronics sectors. Its materials have been qualified for programs such as the F-35 fighter jet, the Mars MER-1 rover, the X-59 Quesst X-plane, and satellite platforms. In medical devices, they are used in hearing aids, blood pressure monitors, imaging equipment, and robotic systems. Automotive applications include electric vehicles, brake systems, vacuum pumps, and LED lighting. Consumer electronics encompass smartphones, smartwatches, laptops, tablets, and desktop computers.
 
-Taiyo America emphasizes heavy R&D investment to deliver innovations such as high-resolution FLEXFINER dry film and advanced inkjet solder masks. It cites a proven track record, service from experienced regional teams, and a customer-retention philosophy that treats clients “like family” as key differentiators.
+The company emphasizes three differentiators: a proven track record as the global market leader in specialty inks and solder masks; service delivered by regional sales, engineering, and support teams across North America and Europe; and innovations driven by heavy R&D investment, exemplified by the high-resolution FLEXFINER dry film, inkjet solder masks, and next-generation thermal management products. Taiyo also notes that in-stock items typically ship by the end of the next business day.
 
 ## Known for
-- Global market leader in specialty inks and solder masks for PCBs
+- Global market leader in specialty inks and solder masks with a proven track record
+- Regional sales, engineering, and customer service teams across North America and Europe
 - Heavy R&D investment yielding innovations like FLEXFINER dry film and inkjet solder masks
-- Regional sales, engineering, and service teams across North America and Europe
-- PSR-4000 solder mask family approved for mission-critical aerospace applications
-- In-house design and manufacture of PCB coating and drying equipment (Taiyo Circuit Automation)
+- Next-business-day shipping for in-stock products
+- Full color and finish range in PSR-4000 solder mask family
 
 ## Capabilities
-- Solder mask formulation and manufacturing (liquid and dry film)
-- Legend ink formulation (inkjet, screen, spray)
-- Thermal management ink development
-- Direct imaging materials
-- Hole plugging and gap filling compounds
-- Dielectric and conductive ink formulation for printed electronics
-- Inkjet-printable solder mask technology
-- Screen printing, spray coating, curtain coating application support
-- PCB coating and drying equipment design and manufacturing (Taiyo Circuit Automation)
-- Technical support and process engineering for PCB fabrication
+- Screen printing
+- Spray coating
+- Curtain coating
+- Inkjet printing
+- UV LED curing (360–420 nm)
+- Dry film lamination
+- Hole plugging
+- Gap filling
+- Legend ink application (inkjet, screen, spray)
+- PCB coating equipment manufacturing
+- PCB drying equipment manufacturing
+- Thermal management ink formulation
+- Dielectric ink formulation
+- Conductive ink formulation
+- Direct imaging
+- Photoimageable solder mask processing (two-component)
+- Conductive silver hole fill (single-component)
+- UV curable hole fill (single-component)
+- Thermal curable solder mask (two-component)
+- UV curable solder mask (single-component)
+- UV curable touch-up ink
 
 ## Industries
 - Aerospace and Defense
@@ -586,6 +606,8 @@ Taiyo America emphasizes heavy R&D investment to deliver innovations such as hig
 
 ## Equipment
 - Taiyo Circuit Automation PCB coating and drying equipment
+- UV LED curing system (360–420 nm)
+- FLEXFINER dry film solder mask line
 
 ## Certifications
 - UL LISTED
@@ -599,19 +621,18 @@ Taiyo America emphasizes heavy R&D investment to deliver innovations such as hig
 
 <details><summary>Sources</summary>
 
-- Founded 1990 -> db, /about-us
-- Headquarters Carson City, Nevada -> db
-- Subsidiary of Taiyo Holdings Co., Ltd. (Japan, founded 1953) -> /about-us
-- Products: solder masks, legend inks, thermal management inks, direct imaging, dry film, inkjet solder masks, hole plugging/gap filling, dielectric/conductive inks -> /about-us, /
-- Industries: Aerospace and Defense, Medical, Automotive, Consumer Electronics, Printed Electronics, Lighting and Display -> /about-us, /
-- Specific applications: F-35, Mars MER-1 rover, X-59 Quesst, satellites, hearing aids, blood pressure monitors, imaging equipment, electric vehicles, brake systems, LED lighting, smartphones, smart watches, laptops, tablets -> /about-us
-- Processes: screen printing, spray coating, curtain coating, inkjet -> /about-us
+- Founded 1990 in Carson City, Nevada -> db
+- Subsidiary of Taiyo Holdings Co., Ltd. (Japan) -> /about-us
+- Products: PSR-4000 solder masks, legend inks, thermal management inks, direct imaging, hole plugging, gap filling, dielectric/conductive inks -> /about-us
+- Processes: screen printing, spray coating, curtain coating, inkjet, UV LED curing -> /about-us
 - Equipment: Taiyo Circuit Automation PCB coating and drying equipment -> /
+- Industries: Aerospace and Defense, Medical, Automotive, Consumer Electronics, Printed Electronics, Lighting and Display -> /about-us, /
+- Specific applications: F-35, Mars MER-1 rover, X-59 Quesst, satellites, hearing aids, blood pressure monitors, imaging equipment, robotic equipment, electric vehicles, brake systems, vacuum pumps, LED lighting, smartphones, smartwatches, laptops, tablets, desktops -> /about-us
 - Certifications: UL LISTED, ROHS -> db
-- Lead time: ships by end of next business day for stocked products -> /
-- Regional teams in North America and Europe -> /, /about-us
+- Lead time: next business day for in-stock products -> / (products)
+- Colors: 9 colors available -> db
 - R&D innovations: FLEXFINER dry film, inkjet solder masks, thermal management products -> /
-- Testimonial from Pat O'Keefe, Holiday Circuits -> /about-us
+- Service: regional teams in North America and Europe -> /
 </details>
 
 ---
@@ -621,43 +642,27 @@ Taiyo America emphasizes heavy R&D investment to deliver innovations such as hig
 **Old description:** At Take Two Unlimited, we provide top-tier kitchen equipment and installation services to elevate your culinary experience. Our expert team ensures seamless integration and maintenance, helping your kitchen thrive with efficiency and precision.
 
 ## About
-Take Two Unlimited operates from Odenton, Maryland. The company was founded by Elizabeth Harris, though the founding year is not publicly disclosed. Ownership details such as family, veteran, or woman-owned status have not been specified.
+Take Two Unlimited is based in Odenton, Maryland. Founded by Elizabeth Harris, the company has established itself as a supplier of commercial kitchen equipment and a provider of installation and maintenance services for food service operations.
 
-The firm supplies commercial kitchen equipment from brands including Blodgett, Lincoln, Alto-Shaam, Hoshizaki, and MVS, and provides associated installation and maintenance services. Technicians handle hood installations, walk-in refrigeration setups, and equipment delivery. No facility size, headcount, or annual volume figures are published.
+The company's product catalog features equipment from brands such as Blodgett, Lincoln, Alto Shaam, and Hoshizaki, including convection ovens like the Blodgett HV-100E, conveyor ovens such as the Lincoln Impinger 1133, vacuum sealers, and refrigeration units. An online storefront offers both new arrivals and discounted equipment, with products such as the Blodgett Zephaire and Alto Shaam units listed at reduced prices. Beyond sales, Take Two Unlimited's technicians perform hood installations, walk-in refrigeration setups, and ongoing equipment maintenance.
 
-Customers include food-service operators needing heated meal delivery carts, conveyor ovens, vacuum sealers, and refrigeration units. Testimonials cite installations for restaurants and institutional kitchens requiring ventilation hoods and walk-in coolers.
+The business serves restaurants, catering companies, and institutional kitchens. Customer testimonials on the company's website cite clients including Mike Sendler, Melissa Miner, and Andrew Woods, who reference equipment purchases, installation work, and maintenance contracts.
 
-Take Two Unlimited emphasizes a quality guarantee on all products, free shipping on every order, and a 90-day warranty. The company states its expert team ensures seamless integration and ongoing maintenance to prolong equipment lifespan.
+Take Two Unlimited promotes free shipping on all orders, a 90-day warranty on purchases, and a quality guarantee. The company also emphasizes its comprehensive installation and maintenance capabilities as a core part of its offering.
 
 ## Known for
 - Free shipping on all orders
 - 90-day warranty on all purchases
-- Quality guarantee on all products
-- Expert installation and maintenance services including hood and walk-in refrigeration setup
+- Quality guarantee on products
+- Expert installation and maintenance services
+- Comprehensive hood and walk-in refrigeration installation
 
 ## Capabilities
-- Commercial kitchen equipment distribution
+- Commercial kitchen equipment sales
 - Equipment installation
-- Equipment maintenance
 - Hood installation
-- Walk-in refrigeration setup
-- Equipment delivery
-
-## Industries
-- Food service
-
-## Equipment
-- Blodgett HV-100E
-- Blodgett Zephaire
-- Blodgett DFG-100
-- Blodgett SHO-100G
-- Blodgett SB-6G
-- Blodgett BLCT-201
-- Blodgett 60DS-KLS
-- Lincoln Impinger 1133
-- Alto Shaam
-- Hoshizaki UR27A-LP
-- MVS31X Vacuum Sealer
+- Walk-in refrigeration installation
+- Equipment maintenance
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -665,15 +670,14 @@ Take Two Unlimited emphasizes a quality guarantee on all products, free shipping
 
 <details><summary>Sources</summary>
 
-- Location: Odenton, Maryland -> db
+- Headquarters: Odenton, Maryland -> db
 - Founder: Elizabeth Harris -> /about
-- Provides kitchen equipment and installation services -> /
-- Sells Blodgett, Lincoln, Alto-Shaam, Hoshizaki, MVS equipment -> /
-- Offers hood installation and walk-in refrigeration setup -> /
-- Free shipping on all orders -> /
-- 90-day warranty on all purchases -> /
-- Quality guarantee on all products -> /
-- Customer testimonials referencing heated meal delivery carts, hood installation, walk-in installation -> /
+- Business description: provides kitchen equipment and installation services -> /
+- Brands carried: Blodgett, Lincoln, Alto Shaam, Hoshizaki -> /
+- Specific equipment models: Blodgett HV-100E, Lincoln Impinger 1133, MVS31X Vacuum Sealer, etc. -> /
+- Services: hood installation, walk-in refrigeration setup, maintenance -> /
+- Customer testimonials: Mike Sendler, Melissa Miner, Andrew Woods, etc. -> /
+- Differentiators: free shipping, 90-day warranty, quality guarantee -> /
 </details>
 
 ---

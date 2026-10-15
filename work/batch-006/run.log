@@ -16,51 +16,51 @@ refetched site text for p0117-raw.json
 refetched site text for p0118-raw.json
 refetched site text for p0119-raw.json
 fetched p0100-raw.json 10 / 10
-ok   Rogers Electrical Contractingok   Ron's Home Style Foods  
-ok   Rooftop Power 
-ok   Rooftop Solar 
-
+ok   Rogers Electrical Contractingok   Rooftop Power ok   Ron's Home Style Foods 
 ok   Rooted Furniture 
-ok   Rosebud Wood Products 
+ok   Rooftop Solar 
+ok   Rosebud Wood Products  
+
+
+ok   S E International Inc 
 ok   Rubix Foods 
 ok   Ryco Manufacturing, LLC dba Ryone Manufacturing Company 
-ok   S E International Inc 
 fetched p0102-raw.json 10 / 10
-ok   Safer Textiles 
-ok   Safety Components an Elevate Textiles Company 
-ok   Sanhua Automotive USA, INC 
 ok   Safe-T-Cap Manufacturing 
-ok   Sanel Auto Parts Co 
-ok   Sapona Plastics LLC 
-ok   Schmersal Inc.ok   Safety Fresh Foods 
- ok   Sare Plastics Inc 
+ok   Safety Components an Elevate Textiles Company 
+ok   Sanel Auto Parts Co ok   Safer Textiles ok   Sanhua Automotive USA, INC
 
-RETRY svtronics-inc HTTP Error 503: Service Unavailable
-fetched p0110-raw.json 10 / 10
-ok   Steel Queen ok   Steel and Wire Products Co. ok   Steel Fabricators LLC
+ok   Sapona Plastics LLC  ok   Safety Fresh Foods
 
  
-ok   Steel Specialties 
-ok   Stitt Solarok   Stickley Furniture 
- ok   Steven Engineering 
+ok   Sare Plastics Inc 
+ok   Schmersal Inc. 
+fetched p0110-raw.json 10 / 10
+ok   Steel Queen ok   Steel Fabricators LLC 
 
-ok   Stone Creek Furnitureok   Stone Plastics & Manufacturing  
+ok   Stone Creek Furniture ok   Steel Specialties ok   Steel and Wire Products Co. 
 
-ok   Route 66 Controls LLC 
-PAGE DONE p0100-profiles.json
+
+ok   Stitt Solar ok   Stone Plastics & Manufacturing 
+ok   Stickley Furniture 
+
+ok   Steven Engineering 
+RETRY route-66-controls-llc 'NoneType' object has no attribute 'group'
 RETRY steel-plate-fabricators 'NoneType' object has no attribute 'group'
 ok   SVTronics, Inc 
 PAGE DONE p0102-profiles.json
-RETRY steel-plate-fabricators Expecting ',' delimiter: line 116 column 4 (char 5107)
-RETRY steel-plate-fabricators 'NoneType' object has no attribute 'group'
+RETRY route-66-controls-llc 'NoneType' object has no attribute 'group'
 ok   Steel Plate Fabricators 
 PAGE DONE p0110-profiles.json
-ALL-DONE errors 0 of 30
-collected 200
+RETRY route-66-controls-llc Expecting ',' delimiter: line 70 column 4 (char 3880)
+RETRY route-66-controls-llc Expecting ',' delimiter: line 67 column 4 (char 4040)
+skip Route 66 Controls LLC Expecting ',' delimiter: line 67 column 4 (char 4040)
+PAGE DONE p0100-profiles.json
+ALL-DONE errors 1 of 30
+collected 199
 rooftop-power | nums ['19,000'] ; certs ['Rhode Island General Contractor License 42278']
 route-66-controls-llc | certs ['SIL 3 / ASIL-D (design capability)']
 rubix-foods | wording/address
-s-e-international-inc | nums ['2000']
 safer-textiles | wording/address
 sanel-auto-parts-co | wording/address
 sapona-plastics-llc | nums ['145,000']
@@ -70,69 +70,71 @@ steven-engineering | nums ['2.1']
 stickley-furniture | wording/address
 stitt-solar | wording/address
 tennessee-sheet-metal-inc | nums ['100']
-thornton-plastic-co | nums ['1955']
-collected 200
+collected 199
 done rogers-electrical-contracting 0 
 done ron-s-home-style-foods 0 
+RETRY seattle-tacoma-box-co HTTP Error 429: Too Many Requests
+RETRY secure-semiconductor-manufacturing-llc-office HTTP Error 429: Too Many Requests
 done rooftop-power 0 
 done rooftop-solar 0 
 done rooted-furniture 2 
 done rosebud-wood-products 0 
-done route-66-controls-llc 0 
-done rubix-foods 2 
-done ryco-manufacturing-llc-dba-ryone-manufacturing-company 0 
-done s-e-international-inc 3 
+done rubix-foods 3 
+done ryco-manufacturing-llc-dba-ryone-manufacturing-company 1 
+done s-e-international-inc 0 
 done s-l-h-metals-inc 0 
-done s-s-welding-fabrication-llc 1 
-done s-b-international 0 
+done s-s-welding-fabrication-llc 0 
+done s-b-international 1 
 done saertex-usa-llc 1 
 done satmed-health-llc 0 
 done savkat 0 
 done sea-wire-and-cable-inc 1 
 done sintx-technologies 0 
 done sml-packaging-solutions-llc 0 
-done src-automotive-inc 0 
-done svtronics-inc 1 
+done src-automotive-inc 1 
+done svtronics-inc 2 
 done safe-t-cap-manufacturing 2 
 done safer-textiles 0 
-done safety-components-an-elevate-textiles-company 0 
+done safety-components-an-elevate-textiles-company 1 
 done safety-fresh-foods 1 
 done sanel-auto-parts-co 0 
-done sanhua-automotive-usa-inc 7 
-done sapona-plastics-llc 1 
-done sare-plastics-inc 0 wrong
+RETRY sanhua-automotive-usa-inc expected string or bytes-like object, got 'NoneType'
+RETRY southeastern-textile-machinery HTTP Error 429: Too Many Requests
+done sanhua-automotive-usa-inc 8 
+done sapona-plastics-llc 0 
+done sare-plastics-inc 2 wrong
 done schmersal-inc 2 
 done schneider-electric 0 
-done schroeder-furniture-flooring 0 
-done schwan-s-pizza-plant 1 
+done schroeder-furniture-flooring 2 
+done schwan-s-pizza-plant 3 
 done sea-bright-solar 0 
-done seaca-packaging 1 
+done seaca-packaging 3 
 done seattle-tacoma-box-co 6 
 done secure-semiconductor-manufacturing-llc-office 0 
 done selco-products-company 1 
 done selvaggio-steel-inc 0 
-done semigen-inc 1 
+done semigen-inc 0 
 done sensor-electronics-corporation 1 
 done servco-parts-center-business-accounts-only 0 
-done service-metal-fabricating-inc 2 
-done service-steel-inc 0 
+done service-metal-fabricating-inc 3 
+done service-steel-inc 1 
 done service-wire-co 0 
-done sewer-cable-equipment-co 2 
-done shaker-style-handcrafted-furniture 4 
+done sewer-cable-equipment-co 1 
+done shaker-style-handcrafted-furniture 1 
 done shamrock-foodservice-warehouse 0 
 done shamrock-plastics-inc 0 
 RETRY shawmut-infinite expected string or bytes-like object, got 'NoneType'
 RETRY southeastern-textile-machinery expected string or bytes-like object, got 'NoneType'
 done shawmut-infinite 0 
 done shearer-s-snack-foods 1 
-done shore-metal-fabricators-llc 1 
+done shore-metal-fabricators-llc 0 
 done shoreline-manufacturing 1 
-done siemens-corporation 4 
+done siemens-corporation 3 
 done siemon 0 
 done sierra-bags 1 
-done sierra-communications-llc 0 
+done sierra-communications-llc 1 
 done sigmatex 0 
-done signum-llc 4 
+done signum-llc 2 
 done silver-state-inc 2 
 done six-robblees-inc 1 
 done skyline-furniture-mfg-inc 0 
@@ -142,22 +144,22 @@ done solar-energy-services-llc 0
 done solar-guardians-usa 0 
 done solar-me 0 
 done solar-power-light-llc 0 
-done solar-rising 2 
+done solar-rising 1 
 done solar-technology-alabama 0 
 done solar-topps 0 
 done solarreviews 0 
 done solid-stone-fabrics 0 
-done sons-of-sawdust-supply 2 
+done sons-of-sawdust-supply 4 
 done sourceeazy 0 
 done south-coast-solar 0 
 done south-electronics 0 
 done southbridge-sheet-metal-works 0 
 done southeast-solarpros 1 
-done southeastern-architectural-woodworks-inc 2 
+done southeastern-architectural-woodworks-inc 4 
 done southeastern-textile-machinery 1 
 done southern-fabrication-works 0 
 done southern-industrial-fabrics 0 
-done southern-interconnect 0 
+done southern-interconnect 1 
 done southland-steel-fabricators-inc 1 
 done southwest-wire-rope-inc 2 
 done spartronics 0 
@@ -168,10 +170,10 @@ done spike-electric-controls 0
 done spinnaker-contract-manufacturing-inc 0 
 done spring-solar 0 
 done st-johns-packaging 0 
-done stammy-s-steel 0 
+done stammy-s-steel 1 
 done standard-energy-solutions 0 
-done standard-iron-works-inc 0 
-done standard-spring-parts 3 
+done standard-iron-works-inc 1 
+done standard-spring-parts 2 
 done star-plastic-design 0 
 done stark-electronics-inc 0 
 done steel-fabricators-llc 1 
@@ -180,104 +182,105 @@ done steel-queen 0
 done steel-specialties 1 
 done steel-and-wire-products-co 0 
 done steven-engineering 0 
-done stickley-furniture 0 
+done stickley-furniture 1 
 done stitt-solar 0 
 done stone-creek-furniture 0 
 done stone-plastics-manufacturing 1 
-done straightup-solar 1 
+done straightup-solar 0 
 done strategy-plastics 0 
 done sumiden-wire-products-corporation 0 
-done sumitomo-electric-wiring-systems 1 
+done sumitomo-electric-wiring-systems 2 
 done sumner-woodworker-store 0 
 done sun-comm-technologies 1 
-done sun-medical-equipment-company-inc 0 
+RETRY the-food-movement-natural-products-company HTTP Error 429: Too Many Requests
+RETRY the-food-processing-center HTTP Error 429: Too Many Requests
+done sun-medical-equipment-company-inc 1 
 done sun-solar-illinois 2 
 done suncommon 0 
-done sunbelt-packaging-llc-proudly-part-of-bradyplus 0 
+done sunbelt-packaging-llc-proudly-part-of-bradyplus 1 
 done sunbelt-plastics-inc 0 
-done sund-manufacturing-co 2 
+done sund-manufacturing-co 1 
 done sundance-power-systems-inc 1 
 done sunergy-renewable-systems 0 
-done sunergy-systems 4 
-done sunforce-solar 0 
-done sunlight-electric 1 
+done sunergy-systems 0 
+done sunforce-solar 1 
+done sunlight-electric 2 
 done suntria-oklahoma-solar-panel-installers 1 
-done superior-metal-fab-llc 1 
+done superior-metal-fab-llc 3 
 done superior-metalcraft 1 
-done superior-plastics 2 
+done superior-plastics 3 
 done superior-sheet-metal 0 
 done supplyone-plastics-inc 0 
 done susa-usa 0 
-done swanson-sheet-metal-inc 0 
+done swanson-sheet-metal-inc 1 
 done sweet-spirit-foods 0 
 done switchgear-solutions-ltd-ssl 0 
 done synergy-renewable-systems-llc 0 
 done tci-packaging 0 
-done thaco-industries-usa-llc 3 
+done thaco-industries-usa-llc 2 
 done tnt-springs-inc 1 
-done tvs-manufacturing-specialist-inc 2 
+done tvs-manufacturing-specialist-inc 3 
 done ty-fine-furniture 1 
 done tabb-textile-systems-inc 0 
 done taylor-packaging-corporation 0 
-done team-solar-inc 0 
+done team-solar-inc 1 
 done tekmos 1 
 done telan-corporation 0 
-done tennessee-chair-company 3 
+done tennessee-chair-company 2 
 done tennessee-sheet-metal-inc 3 
 done teton-metal-fabrication 0 
 done texas-injection-molding-llc 0 
 done texas-mesquite-co 1 
 done textiles-coated-international 0 
-done that-solar-company-llc 0 
-done the-advertising-specialists-of-maine 1 
+done that-solar-company-llc 4 
+done the-advertising-specialists-of-maine 2 
 done the-airtex-group 2 
 done the-cable-guy 1 
 done the-cotton-mafia 0 
 done the-flying-cow-shirt-company 2 
-done the-food-movement-natural-products-company 3 
-done the-food-processing-center 5 
-done the-furniture-ranch 2 
+RETRY united-foods-international-usa-inc HTTP Error 429: Too Many Requests
+done the-food-movement-natural-products-company 4 
+done the-food-processing-center 3 
+done the-furniture-ranch 1 
 done the-modern-table-company 1 
-done the-sweet-life-kettle-corn-company 1 
-done the-urban-wood-company 1 
+done the-sweet-life-kettle-corn-company 0 
+done the-urban-wood-company 2 
 done the-wire-guy-electric 0 
-done thornton-plastic-co 7 
+done thornton-plastic-co 2 
 done thyssenkrupp-automotive-systems-of-america 1 
 done tick-tock-energy-inc 0 
 done tillett-textiles 0 
-done titan-circuits 1 
+done titan-circuits 0 
 done topper-town-abq 1 
-done tops-packaging-solutions 1 
+done tops-packaging-solutions 0 
 done toshiba-international-corporation 4 
-done traco-packaging-a-division-of-traco-manufacturing-inc 1 
-done traditional-woodworks 2 
+done traco-packaging-a-division-of-traco-manufacturing-inc 0 
+done traditional-woodworks 1 
 done traverse-bay-manufacturing-inc 1 
 done tri-fab-steel-inc 0 
-done tri-steel-manufacturing-co 0 
+done tri-steel-manufacturing-co 1 
 done triad-plastic-technologies 0 
 done trickett-woodworks-co 0 
 done trim-illusion-inc 0 
+RETRY trivium-packaging expected string or bytes-like object, got 'NoneType'
 done trivium-packaging 0 
-done trunorth-solar 2 
+done trunorth-solar 0 
 done truck-transportation-equipment-company 0 
 done true-south-solar 0 
 done truechoicepack 0 
-done tulsa-plastics-co 0 
+done tulsa-plastics-co 1 
 done tulsa-sheet-metal 1 
 done turner-welding-and-fabrication-llc 0 
 done twin-city-fan-companies-ltd 0 
 done u-s-apparel 0 
 done ufp-packaging 0 
-done us-advanced-medical-research-inc 1 
+done us-advanced-medical-research-inc 0 
 done us-wire-cable-corporation 0 
 done uniforce-plastics 0 
-done united-foods-international-usa-inc 2 
-done united-premium-foods 0 
+done united-foods-international-usa-inc 0 
+done united-premium-foods 1 
 done unlimited-metal-fabricators 0 
 ALL-DONE errors 0
-clean 196 | sentences removed 138 | needs review 4 | check errors 0
-REVIEW sare-plastics-inc Source name is Sare Plastics Inc but the content describes CPI Precision Plastics LLC.
-REVIEW sunergy-systems too short after fact-check (62 words)
-REVIEW the-food-processing-center too short after fact-check (67 words)
-REVIEW thornton-plastic-co too short after fact-check (43 words)
-sql parts 3 stories 196
+clean 198 | sentences removed 144 | needs review 1 | check errors 0
+REVIEW sare-plastics-inc Source name is Sare Plastics Inc but content describes CPI Precision Plastics LLC.
+sql parts 3 stories 198

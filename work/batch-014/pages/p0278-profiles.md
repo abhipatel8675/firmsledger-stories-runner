@@ -3,32 +3,39 @@
 **Old description:** Serving Moundsville and surrounding areas since 1982, Accessories Ltd has an over 40-year history of service to the WV, OH, PA tri-state area. If you live in Steubenville, Sistersville, or Wheeling, visit our one-stop shop in Moundsville, WV. We invite you to stop in and tell your friends and family about our great products and services. We look forward to seeing you soon.
 
 ## About
-Accessories Ltd. has operated from Moundsville, West Virginia since 1982, building a presence across the West Virginia–Ohio–Pennsylvania tri-state region. The company began as a local shop serving drivers in Marshall County and gradually expanded its reach to communities such as Wheeling, Steubenville, and Morgantown.
+Accessories Ltd. has operated in Moundsville, West Virginia since 1982, giving it over four decades of service to the West Virginia–Ohio–Pennsylvania tri‑state region. The business was founded in 1982 and has remained a local, independent shop; no founder names or ownership structure are disclosed in public materials.
 
-The business functions as a one-stop retail and service center for car and truck owners. Its showroom stocks brand-name tires from Cooper, Toyo, Mickey Thompson, BF Goodrich, Mastercraft, and Kenda, along with wheels, towing accessories, grills, tailgating equipment, spices, candles, and designer sunglasses from Oakley, Maui Jim, and Costa Delmar. In the service bays, technicians perform auto repair, install keyless-entry systems, remote starters, and window tinting.
+The company runs a retail and installation shop that stocks and fits a wide range of car and truck accessories. Its product lines include brand‑name tires and wheels from Cooper, Toyo, Mickey Thompson, BF Goodrich, Mastercraft and Kenda, as well as designer sunglasses from Oakley, Maui Jim and Costa Delmar. Services cover auto repair, keyless‑entry and remote‑starter installation, window tinting, and the sale of grills, tailgating equipment, towing accessories, spices and candles. No facility size, headcount or annual volume figures are published.
 
-Customers are primarily individual vehicle owners and outdoor enthusiasts from the surrounding counties in West Virginia, Ohio, and Pennsylvania. The shop draws traffic from cities including Moundsville, Benwood, Glendale, New Martinsville, Sistersville, Wellsburg, Weirton, Wheeling, St. Clairsville, Steubenville, Washington, and Waynesburg.
+Accessories Ltd. serves individual vehicle owners across the tri‑state area, listing communities such as Steubenville and Wintersville in Ohio, Wheeling and Sistersville in West Virginia, and Washington and Waynesburg in Pennsylvania. Its customer base is consumer‑focused rather than industrial, with walk‑in and phone‑in business from residents seeking aftermarket upgrades and repairs.
 
-Accessories Ltd. attributes its longevity to customer service, describing it as the reason it has remained a provider for over four decades. The combination of a broad product assortment and on-site installation allows customers to purchase and fit accessories in a single visit.
+The company emphasizes “excellent customer service” as the reason it has remained a provider since 1982, positioning itself as a one‑stop shop for accessories, installation and repair in the region.
 
 ## Known for
-- Over 40 years serving the WV-OH-PA tri-state area
-- One-stop shop for accessories, tires, auto repair, and outdoor gear
-- Carries major tire brands including Cooper, Toyo, Mickey Thompson, BF Goodrich
-- Provides keyless entry, remote starter, and window tinting installation
-- Offers designer sunglasses from Oakley, Maui Jim, Costa Delmar
+- Over 40 years serving the WV‑OH‑PA tri‑state area (since 1982)
+- One‑stop shop for tires, wheels, auto repair, keyless entry, remote starters, window tinting, grills, tailgating gear, towing accessories, spices, candles and designer sunglasses
+- Carries brand‑name tires and wheels from Cooper, Toyo, Mickey Thompson, BF Goodrich, Mastercraft, Kenda
+- Offers installation of keyless entry, remote starters and window tinting
+- Excellent customer service cited as key to longevity
 
 ## Capabilities
 - Auto repair
+- Tire sales and installation
+- Wheel sales and installation
 - Keyless entry installation
 - Remote starter installation
 - Window tinting
-- Tire sales and installation
-- Wheel sales
+- Grill sales
+- Tailgating equipment sales
 - Towing accessory sales
-- Grill and tailgating equipment sales
 - Spice and candle sales
-- Designer sunglasses sales
+- Designer sunglasses sales (Oakley, Maui Jim, Costa Delmar)
+
+## Industries
+- Automotive aftermarket
+- Auto repair
+- Retail
+- Consumer accessories
 
 ## Company details
 - **Company Type:** Retailer
@@ -37,14 +44,14 @@ Accessories Ltd. attributes its longevity to customer service, describing it as 
 
 <details><summary>Sources</summary>
 
-- Founded in 1982 -> /
-- Located in Moundsville, WV -> /
-- Offers auto repair, keyless entry, remote starter, window tinting -> /
-- Carries brand-name tires (Cooper, Toyo, Mickey Thompson, BF Goodrich, Mastercraft, Kenda) -> /
-- Sells grills, tailgating equipment, spices, candles -> /
-- Sells designer sunglasses (Oakley, Maui Jim, Costa Delmar) -> /
-- Serves WV-OH-PA tri-state area -> /
-- Service areas listed for Marshall, Wetzel, Monongalia, Tyler, Brooke, Hancock, Ohio counties in WV; Belmont, Jefferson counties in OH; Washington, Greene counties in PA -> /
+- Founded 1982, located in Moundsville, WV -> /
+- Offers auto repair, keyless entry, remote starter, window tinting installation -> /
+- Carries tires/wheels from Cooper, Toyo, Mickey Thompson, BF Goodrich, Mastercraft, Kenda -> /
+- Carries designer sunglasses Oakley, Maui Jim, Costa Delmar -> /
+- Sells grills, tailgating equipment, towing accessories, spices, candles -> /
+- Serves tri-state area including Steubenville, Sistersville, Wheeling, etc. -> /
+- Excellent customer service cited as reason for longevity -> /services
+- One-stop shop positioning -> /
 </details>
 
 ---
@@ -54,25 +61,25 @@ Accessories Ltd. attributes its longevity to customer service, describing it as 
 **Old description:** Accu-Mold Plastics is a trusted, full-service provider of precision injection-molded plastic components, proudly serving clients since 1972. With over five decades of industry expertise, we specialize in delivering high-quality, custom solutions. Our end-to-end services include comprehensive mold design and engineering support, taking projects from initial concept to full-scale production. Whether starting from scratch or utilizing an existing mold, we ensure each part meets rigorous quality standards.
 
 ## About
-Accu-Mold Plastics is headquartered in Halifax, Pennsylvania. The company was founded in 1972 by Jack L. Strohecker and his wife Mary Lou, who began the business as a tool and die operation in the basement of their home. Initially focused on precision mold building for the electronics industry, the company quickly earned a reputation for craftsmanship that attracted early clients such as American Catheter Company and Hamilton Watch.
+Accu-Mold Plastics was founded in 1972 by Jack L. Strohecker and his wife Mary Lou in the basement of their Halifax, Pennsylvania home. Originally named Accu-Mold & Tool Company, the business began as a precision mold and die operation serving the electronics industry. Early clients such as American Catheter Company and Hamilton Watch helped the shop expand beyond tooling into injection molding, and by 1973 the company had installed its first automatic molding machine.
 
-Today Accu-Mold operates a 9,000‑square‑foot facility that was rebuilt after an F‑1 tornado destroyed the original plant in 2006. The shop houses automated injection molding machines ranging from 22 to 125 tons of clamping force, with shot capacities from 1.2 to just under 9 ounces. In‑house capabilities include mold design using SOLIDWORKS, Mastercam and AutoCAD, CNC machining, sinker EDM, surface grinding, manual machining and heat treating. A geothermal‑controlled clean room supports medical‑grade production, and the company offers overmolding, insert molding, assembly, packaging and just‑in‑time delivery.
+Today the company operates a 9,000-square-foot facility equipped with automated injection molding presses ranging from 22 to 125 tons of clamping force and shot capacities of 1.2 to nearly 9 ounces. Its in-house tool room provides CNC machining, sinker EDM, surface grinding, manual machining, and heat treating, supporting complete mold design, construction, and repair. A geothermal-controlled clean room enables contamination-free molding for medical and electronic components, while overmolding and insert molding capabilities allow multi-material assemblies. The shop handles everything from single-cavity prototypes to full-scale production runs, with value-added services including assembly, packaging, and just-in-time delivery.
 
-The company serves the electronics and medical device sectors, with a historical focus on medical disposables. Its customer base includes both established manufacturers and start‑ups that rely on Accu‑Mold’s ability to move from single‑cavity prototypes to full‑scale production runs.
+Accu-Mold serves the electronics and medical device sectors, with a historic focus on medical disposables and start-up companies needing high-quality molds to compete against larger rivals. Current customers include firms in electronics and medical disposables, though specific names are not disclosed.
 
-Accu‑Mold emphasizes efficiency, competitive pricing and responsive customer support as its core differentiators. By integrating the latest molding technologies with streamlined processes, the company aims to deliver high‑quality, precision components that help customers stay competitive, whether they need low‑volume prototypes or large production quantities.
+The company emphasizes efficiency, competitive pricing, and customer support, leveraging modern molding technologies and streamlined processes to keep clients competitive. Its founding vision was to deliver high-quality precision molds and components to the electronics industry, a mission that has expanded to include comprehensive in-house design, tooling, and molding under one roof.
 
 ## Known for
-- Complete in‑house mold design, tooling and injection molding under one roof
-- Geothermal‑controlled clean room for medical‑grade production
+- Complete in-house mold design, tooling, and injection molding
+- Geothermal-controlled clean room for contamination-free production
 - Overmolding and insert molding capabilities
-- Rapid recovery capability – operations resumed within eight days after a tornado
-- Decades‑long employee retention (e.g., 40‑year anniversary noted)
+- Prototype to high-volume production flexibility
+- In-house CNC machining, EDM, and heat treating for tooling
 
 ## Capabilities
 - Precision injection molding
 - Mold design and engineering
-- In‑house mold building
+- In-house mold building and tooling
 - CNC machining
 - Sinker EDM
 - Surface grinding
@@ -80,13 +87,15 @@ Accu‑Mold emphasizes efficiency, competitive pricing and responsive customer s
 - Heat treating
 - Overmolding
 - Insert molding
+- Clean room molding
+- Prototyping (single cavity)
+- Full-scale production
 - Part assembly
 - Packaging
-- Just‑in‑time delivery
-- Clean room molding
-- Prototyping
-- Full‑scale production
-- Service and repairs
+- Just-in-time delivery
+- Quality inspection and control
+- Mold maintenance and repair
+- Tooling design and development
 
 ## Industries
 - Electronics
@@ -94,13 +103,12 @@ Accu‑Mold emphasizes efficiency, competitive pricing and responsive customer s
 - Medical disposables
 
 ## Equipment
-- Injection molding machines (22–125 tons)
-- CNC machines
-- Sinker EDM
+- Injection molding machines (22-125 ton)
+- CNC machining centers
+- Sinker EDM machines
 - Surface grinders
-- Manual machining equipment
 - Heat treating furnaces
-- Geothermal‑controlled clean room
+- Geothermal-controlled clean room
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -110,18 +118,20 @@ Accu‑Mold emphasizes efficiency, competitive pricing and responsive customer s
 
 <details><summary>Sources</summary>
 
-- Headquarters: Halifax, PA -> db
-- Founded 1972 by Jack L. Strohecker and Mary Lou -> /about
-- Started as tool and die in basement -> /about
+- Founded 1972 by Jack L. Strohecker and Mary Lou Strohecker in Halifax, PA -> /about
+- Started as Accu-Mold & Tool Company in basement -> /about
 - Early clients: American Catheter Company, Hamilton Watch -> /about
-- 9,000 sq ft facility built 1985, rebuilt after 2006 tornado -> /about
-- Injection molding machines 22–125 tons, shot sizes 1.2–9 oz -> /services
-- In‑house mold design with SOLIDWORKS, Mastercam, AutoCAD -> /services
+- First automatic injection molding machine acquired 1973 -> /about
+- 9,000 sq ft facility built 1985 with CNC and EDM -> /about
+- Tornado 2006 destroyed facility, rebuilt in 8 days with clean room -> /about
+- Injection molding machines 22-125 tons, shot sizes 1.2 oz to <9 oz -> /services
+- Geothermal-controlled clean room -> /services
+- Overmolding and insert molding capabilities -> /services
 - CNC machining, sinker EDM, surface grinding, manual machining, heat treating -> /services
-- Clean room, overmolding, insert molding, assembly, packaging, JIT delivery -> /services
-- Industries: electronics, medical disposables -> /about, /services
-- ISO‑Certified Medical Molding claim -> /
-- Employee Lee Bechtel 40‑year anniversary -> /
+- Value-added services: assembly, packaging, just-in-time delivery -> /services
+- Industries served: electronics, medical disposables -> /about, /services
+- ISO-Certified Medical Molding mentioned -> /
+- Leadership: Darlene Phillips CEO, Eric Phillips COO -> /
 </details>
 
 ---
@@ -131,33 +141,32 @@ Accu‑Mold emphasizes efficiency, competitive pricing and responsive customer s
 **Old description:** Luvata in Waterbury, Connecticut specializes in manufacturing copper stabilized NbTi and Nb
 
 ## About
-Luvata Waterbury operates in Waterbury, Connecticut, tracing its roots to the 1971 founding of Intermagnetics General Corporation (IGC). The business was acquired by Outokumpu Copper Products Oy in 2001 and rebranded under the Luvata name in 2006. Since 2017 it has been a subsidiary of Mitsubishi Materials Corporation.
+Luvata Waterbury operates from a facility on Thomaston Avenue in Waterbury, Connecticut. The business traces its roots to 1971 with the founding of Intermagnetics General Corporation (IGC). Outokumpu Copper Products Oy acquired IGC Advanced Superconductors in 2001 and rebranded the operation as Luvata in 2006. Mitsubishi Materials Corporation purchased Luvata in May 2017, making the Waterbury site a subsidiary of the Japanese materials group.
 
-The facility manufactures copper-stabilized niobium-titanium (NbTi) and niobium-tin (Nb3Sn) conductors, producing low-temperature superconducting wire and cable for applications where delivery and performance are critical. A team of over 100 professionals supports production for medical diagnostic systems such as MRI, as well as high-energy physics projects.
+The plant specializes in manufacturing copper-stabilized niobium-titanium (NbTi) and niobium-tin (Nb3Sn) conductors for low-temperature superconducting applications. Its product line covers superconducting wire and cable used in magnetic resonance imaging systems, particle accelerators, and fusion energy research. The site employs a team of over 100 professionals focused on innovation and production excellence.
 
-The company’s superconductors have been selected for major international projects including the Large Hadron Collider at CERN, the KSTAR fusion research device in Korea, and the ITER experimental reactor. It has also fulfilled a $26 million nuclear fusion contract for the U.S. Department of Energy and a $6.5 million supply agreement for CEA Saclay.
+Customers span medical diagnostic imaging, high-energy physics, and nuclear fusion sectors. Luvata Waterbury superconductors have been specified for the Large Hadron Collider at CERN, the KSTAR fusion research project in Korea, the International Thermonuclear Experimental Reactor (ITER), and a $6.5 million supply contract for CEA Saclay in France. A $26 million U.S. Department of Energy fusion contract was awarded in 2009.
 
-Luvata Waterbury emphasizes its role as a manufacturer of special copper and low-temperature superconducting wire, with ISO 9001 and ISO 14001:2015 certification underscoring its quality and environmental management systems.
+The company positions itself as a recognized leader in superconductive wire supply where delivery and performance are critical. Its selection for flagship international science projects and long-standing ISO 9001 and ISO 14001:2015 certifications underscore a focus on quality and environmental management.
 
 ## Known for
-- Superconductor selected for CERN’s Large Hadron Collider, KSTAR, and ITER
-- Over 100 specialized professionals at Waterbury site
+- Selected for LHC at CERN, KSTAR, and ITER projects
+- Over 100 professionals dedicated to superconducting wire innovation
 - ISO 9001 and ISO 14001:2015 certified
-- Awarded $26M U.S. DOE nuclear fusion contract
-- Part of Mitsubishi Materials Corporation group
+- Copper-stabilized NbTi and Nb3Sn conductor expertise
 
 ## Capabilities
 - Superconducting wire manufacturing
+- Superconducting cable manufacturing
 - Copper-stabilized NbTi conductor production
 - Copper-stabilized Nb3Sn conductor production
-- Low-temperature superconducting (LTS) cable fabrication
-- MRI superconducting wire manufacturing
+- Low-temperature superconducting (LTS) wire production
 
 ## Industries
 - Medical diagnostic systems (MRI)
-- High-energy physics research
+- High energy physics
 - Nuclear fusion research
-- Scientific research institutions
+- Particle accelerator components
 
 ## Certifications
 - ISO 9001
@@ -166,26 +175,24 @@ Luvata Waterbury emphasizes its role as a manufacturer of special copper and low
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1971
-- **Employees:** over 100
-- **Ownership:** Subsidiary of Mitsubishi Materials Corporation
+- **Employees:** 100+
+- **Ownership:** Subsidiary of Mitsubishi Materials Corporation (since 2017)
 - **Headquarters:** Waterbury, Connecticut
 
 <details><summary>Sources</summary>
 
-- Founded 1971 as Intermagnetics General Corporation -> /
-- Acquired by Outokumpu Copper Products Oy in 2001 -> /
-- Rebranded Luvata in 2006 -> /
-- Awarded $26M nuclear fusion contract from US DOE in 2009 -> /
-- Acquired by Mitsubishi Materials Corporation in 2017 -> /
-- Attained ISO 14001:2015 certification in 2019 -> /
-- Located in Waterbury, Connecticut -> /
-- Employs over 100 professionals -> /
-- Manufactures copper stabilized NbTi and Nb3Sn conductors -> /
-- Supplies superconducting wire for medical diagnostic systems and high energy physics -> /
-- Selected for LHC at CERN, KSTAR, ITER -> /
-- ISO 9001 and ISO 14001 certified -> /, db
-- Part of Mitsubishi Materials Corporation group -> /about-us
-- Global Luvata founded 1910 in Finland -> /about-us
+- Location: Waterbury, CT -> /
+- Founded 1971 as IGC -> /
+- Outokumpu acquisition 2001 -> /
+- Rebranded Luvata 2006 -> /
+- Mitsubishi Materials acquisition 2017 -> /about-us
+- Over 100 employees -> /
+- ISO 9001 and ISO 14001:2015 -> /
+- Products: NbTi and Nb3Sn superconducting wire/cable -> /
+- Industries: MRI, high energy physics, fusion -> /
+- Projects: LHC, KSTAR, ITER, CEA Saclay -> /
+- DOE $26M contract 2009 -> /
+- Address: 2121 Thomaston Avenue, Waterbury, CT 06704 -> /
 </details>
 
 ---
@@ -195,44 +202,46 @@ Luvata Waterbury emphasizes its role as a manufacturer of special copper and low
 **Old description:** Looking for a local, service-focused electrician to handle your residential, commercial, or industrial electrical needs?
 
 ## About
-Acme Electric Company has been headquartered in Cedar Rapids, Iowa since 1950, when Donald L. Barrigar purchased Standard Electric and rebranded it as Acme Electric. The family-owned electrical contractor was founded by Barrigar and Howard Smith, and remains under the leadership of the Barrigar family, now in its third generation with Jackson Barrigar serving as president.
+Acme Electric Company has been based in Cedar Rapids, Iowa, since 1950, when Donald L. Barrigar purchased Standard Electric and rebranded it as Acme Electric. The business remains family-owned, now in its third generation of Barrigar leadership, with Jackson Barrigar serving as president since 2021.
 
-The company provides full-service electrical contracting across four divisions: Construction, Engineering, Service, and Energy Solutions. Its teams handle residential wiring, rewiring, panel upgrades, and lighting; commercial alarm systems, power distribution, and building controls; industrial projects for agricultural, fabrication, and telecommunications facilities; and energy solutions including solar design and installation, KOHLER generator installation, EV charging, and battery storage. Pre-construction services such as Building Information Modeling and pre-fabrication support project planning. With more than 125 licensed electricians — each completing a five-year NJATC apprenticeship — and a peak workforce that has exceeded 300, Acme operates throughout the Cedar Rapids–Iowa City corridor.
+The firm operates as a full-service electrical contractor with four divisions—Construction, Engineering, Service, and Energy Solutions—employing more than 125 licensed electricians and support staff. Its scope covers residential, commercial, and industrial electrical work, including new construction, remodels, emergency repairs, and pre-construction services such as Building Information Modeling and pre-fabrication. The Energy Solutions division designs and installs solar arrays, KOHLER backup generators, electric-vehicle charging stations, and battery storage systems.
 
-Acme serves homeowners, businesses, and industrial plants across Eastern Iowa. Residential customers request troubleshooting, remodels, and code updates. Commercial clients include offices and retail spaces needing lighting controls and network systems. Industrial work spans agricultural operations, fabricators, process equipment, and telecommunications infrastructure. The energy division works with both residential and commercial customers to reduce grid reliance through solar, backup power, and EV charging.
+Acme serves homeowners, businesses, factories, warehouses, agricultural operations, fabricators, and telecommunications providers across the Cedar Rapids–Iowa City corridor. Long-term clients include industrial facilities requiring process-equipment wiring and commercial buildings needing power distribution, lighting controls, and network infrastructure.
 
-Acme emphasizes safety, reporting zero recordable injuries in three of the last five years, and adherence to OSHA and NECA standards. Its mission centers on quality, service, and performance, with core values of ownership, integrity, and reputation. The company aims to be a long-term partner, offering 24/7 emergency response and a design-build-maintain approach that keeps clients from project start through ongoing maintenance.
+The company emphasizes its legacy of training and safety: every electrician completes a five-year NJATC apprenticeship, and jobsites follow OSHA and NECA standards, with three of the last five years recording zero recordable injuries. Acme also highlights its commitment to customer service, citing measured response times and a policy of clear communication throughout each project.
 
 ## Known for
-- Family-owned since 1950, now third generation
-- 125+ licensed electricians with five-year NJATC apprenticeship
-- 24/7 emergency electrical service
-- Full-service divisions: Construction, Engineering, Service, Energy Solutions
+- Family-owned since 1950 with three generations of leadership
+- 125+ licensed electricians, each completing a five-year NJATC apprenticeship
 - Zero recordable injuries in three of the last five years
+- Full-service contractor with Construction, Engineering, Service, and Energy Solutions divisions
+- 24/7 emergency electrical service
 
 ## Capabilities
-- Residential wiring, rewiring, and code updates
-- Electrical panel upgrades
-- Lighting repair and installation
-- Ceiling fan installation
-- Outlet and switch repair and installation
-- Electrical remodeling
-- Commercial alarm systems
-- Lighting and lighting controls
-- Power distribution
-- Network and building systems
-- Industrial agricultural electrical systems
-- Fabricator facility electrical work
-- Process equipment electrical installation
-- Telecommunications infrastructure
-- Solar design and installation
-- Backup generator installation (KOHLER)
-- Electric vehicle charging installation
-- Battery storage solutions
+- Residential electrical services
+- Commercial electrical services
+- Industrial electrical services
+- Emergency electrical services
+- Pre-construction services
 - Building Information Modeling (BIM)
 - Pre-fabrication
-- 24/7 emergency electrical service
-- Design-build-maintain project lifecycle
+- Wiring and rewiring
+- Code updates
+- Electrical panel upgrades
+- Lighting installation and repair
+- Ceiling fan installation
+- Outlet and switch repair
+- Electrical remodeling
+- Alarm systems
+- Lighting controls
+- Power distribution
+- Network and building systems
+- Agricultural electrical services
+- Fabricator electrical services
+- Process equipment electrical
+- Telecommunications electrical
+- Solar design and installation
+- Generator installation
 
 ## Industries
 - Residential
@@ -242,7 +251,7 @@ Acme emphasizes safety, reporting zero recordable injuries in three of the last 
 - Fabricators
 - Process equipment
 - Telecommunications
-- Energy (Solar, Generator, EV Charging, Battery Storage)
+- Energy solutions
 
 ## Equipment
 - KOHLER generators
@@ -250,8 +259,9 @@ Acme emphasizes safety, reporting zero recordable injuries in three of the last 
 ## Certifications
 - OSHA
 - NECA
-- NJATC apprenticeship
+- NJATC
 - Iowa state electrical license
+- Cedar Rapids city electrical license
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -262,19 +272,16 @@ Acme emphasizes safety, reporting zero recordable injuries in three of the last 
 
 <details><summary>Sources</summary>
 
-- Founded 1950 -> /about
-- Family-owned -> /about
-- Headquarters Cedar Rapids, Iowa -> /
-- 125+ employees -> /about
-- Services: residential, commercial, industrial, energy solutions -> /
-- Founders Donald L. Barrigar and Howard Smith -> /about
-- Third generation Jackson Barrigar -> /about
+- Founded 1950, family-owned, Donald L. Barrigar and Howard Smith founders -> /about
+- Third generation leadership, Jackson Barrigar president since 2021 -> /about
+- Headquarters Cedar Rapids, Iowa -> db, /about
+- 125+ employees, four divisions (Construction, Engineering, Service, Energy Solutions) -> /about
+- Services: residential, commercial, industrial, emergency, pre-construction (BIM, pre-fab) -> /, /about
+- Energy Solutions: solar, KOHLER generators, EV charging, battery storage -> /, /about
+- Industries served: residential, commercial, industrial, agricultural, fabricators, process equipment, telecommunications -> /, /about
+- NJATC five-year apprenticeship, licensed by city and state of Iowa -> /about
+- OSHA and NECA standards, zero recordable injuries three of last five years -> /about
 - 24/7 emergency service -> /
-- BIM and pre-fabrication -> /
-- Solar, generator, EV charging, battery storage -> /
-- OSHA and NECA standards -> /about
-- NJATC apprenticeship -> /about
-- KOHLER generators -> /
 </details>
 
 ---
@@ -284,27 +291,31 @@ Acme emphasizes safety, reporting zero recordable injuries in three of the last 
 **Old description:** ACME Sheet Metals is your Wyoming and South Dakota’s local metal manufacturer and supplier. At ACME Sheet Metals, every order is made to order with you in mind. We’re no strangers to custom fabrications from flat panels to rustic-styled flat batten or the clean look of custom reveal flat panels. Whether you want a modern look or a classic rustic appeal, our professional staff is here to help with all your fabrication needs with precision.
 
 ## About
-Acme Sheet Metals Inc operates from Evansville, Wyoming, serving customers across Wyoming and South Dakota, including the Rapid City and Casper areas. The company's founding year and ownership structure are not publicly disclosed, nor are its founders named in available sources.
+Acme Sheet Metals Inc operates from Evansville, Wyoming, serving as a local metal manufacturer and supplier for Wyoming and South Dakota. The company provides custom fabrication of steel roofing, siding, trim, and accessories to customers in the Rapid City and Casper areas.
 
-The company manufactures custom metal roofing and siding products, including a range of steel panels such as standing seam, exposed fastener, wall, roofing, and soffit profiles. Specific panel lines include the PBR Panel, Nail Strip, Pro Panel, Snap Lock, Lo Pro, 7/8″ Corrugated, 7.2 Panel, Mechanical Lock, and Flush Soffit Panel. Production occurs both in the company's shop and on-site, supported by a quote and takeoff service. Acme reports over 530 projects completed and more than 210 customers served.
+The company produces a range of steel panel profiles including standing seam, exposed fastener, wall, roofing, and soffit panels. Panels are manufactured in the company's shop or on-site, with specific product lines such as the PBR panel, nail strip standing seam, snap lock, mechanical lock, and corrugated profiles. Acme Sheet Metals reports over 530 projects completed and more than 210 customers served, offering delivery scheduling and site-run options to minimize damage and maximize efficiency.
 
-Acme's products target agricultural, structural, commercial, residential, architectural, industrial, and interior applications. Its customer base includes contractors, builders, and property owners seeking custom-fabricated steel panels and trim for roofing and siding projects.
+The panel lines target agricultural, structural, commercial, residential, architectural, industrial, and interior applications. The company works with builders, contractors, and property owners across the region, providing quote and takeoff services to develop material lists and designs.
 
-The company emphasizes made-to-order fabrication, precision, and a four-step process covering planning, ordering, production, and delivery. It differentiates itself with on-site production capability, scheduled delivery, and site-run options to minimize damage and maximize efficiency.
+Acme Sheet Metals emphasizes made-to-order production for each project, focusing on custom fabrications from flat panels to rustic-styled flat batten and reveal flat panels. The company states that its professional staff assists with fabrication needs with precision, aiming to deliver quality manufacturing and customer service.
 
 ## Known for
-- Made-to-order custom fabrication for every project
-- Production available in-shop or on-site
-- Delivery scheduling and site-run options
+- Made-to-order production for every project
+- In-shop or on-site panel manufacturing
+- Scheduled delivery and site-run installation options
 - Comprehensive quote and takeoff service
-- Over 530 projects completed
+- Custom fabrication of flat panels, batten, and reveal profiles
 
 ## Capabilities
-- Custom metal fabrication
-- Steel panel production (in-shop and on-site)
-- Quote and takeoff service
+- Custom metal roofing and siding fabrication
+- Steel panel manufacturing
+- Trim fabrication
+- Accessory fabrication
+- Snow retention fabrication
+- On-site production
 - Delivery scheduling
-- Site-run project execution
+- Site-run services
+- Quote and takeoff services
 
 ## Industries
 - Agricultural
@@ -321,16 +332,19 @@ The company emphasizes made-to-order fabrication, precision, and a four-step pro
 
 <details><summary>Sources</summary>
 
-- Company name: Acme Sheet Metals Inc -> db
-- Headquarters: Evansville, Wyoming -> db
-- Service area: Wyoming and South Dakota (Rapid City, Casper) -> /
-- Business description: Metal manufacturer and supplier, custom metal roofing and siding -> /
-- Products: Steel panels (PBR, Nail Strip, Pro Panel, Snap Lock, Lo Pro, 7/8″ Corrugated, 7.2 Panel, Mechanical Lock, Flush Soffit) -> /
-- Services: Quote and takeoff, delivery scheduling, on-site production, site-run options -> /
-- Process: Four-step (Planning, Place Order, Production, Delivery) -> /
-- Statistics: 530+ projects produced, 210+ happy customers -> /
-- Target industries: Agricultural, Structural, Commercial, Residential, Architectural, Industrial, Interior -> /
-- Differentiators: Made-to-order, precision, on-site production, delivery/site-run -> /
+- Headquarters in Evansville, Wyoming -> db
+- Serves Wyoming and South Dakota -> /
+- Manufactures custom metal roofing, siding, trim, accessories -> /
+- Produces steel panels in shop or on location -> /
+- Offers delivery scheduling and site-run options -> /
+- Provides quote and takeoff services -> /
+- Panel lines include standing seam, exposed fastener, wall, roofing, soffit -> /
+- Specific panel products: PBR, nail strip, snap lock, mechanical lock, corrugated, etc. -> /
+- Applications: agricultural, structural, commercial, residential, architectural, industrial, interior -> /
+- Over 530 projects produced -> /
+- Over 210 customers served -> /
+- Emphasizes made-to-order production -> /
+- Works with builders, contractors, property owners in Rapid City and Casper areas -> /
 </details>
 
 ---
@@ -340,27 +354,24 @@ The company emphasizes made-to-order fabrication, precision, and a four-step pro
 **Old description:** AND BEYOND WITH THE HIGHEST QUALITY COMMERCIAL AND RESIDENTIAL SHEET METAL PRODUCTS SINCE 1972.
 
 ## About
-Acosta Sheet Metal Manufacturing has operated from San Jose, California since 1972. The company was established over five decades ago to serve the Bay Area with sheet metal fabrication, though the founders’ names and original circumstances are not publicly documented.
+Acosta Sheet Metal Manufacturing has been based in San Jose, California since its founding in 1972. The company was established over fifty years ago and continues to operate from the same location, serving the Bay Area and a broader regional market.
 
-The shop produces HVAC products, custom residential and commercial metals, roofing metals, and a variety of custom pieces. Its capabilities center on sheet metal fabrication for both commercial and residential projects, including ductwork, flashing, and architectural metalwork. The company also offers custom fabrication for unique project requirements, with no disclosed facility size, headcount, or annual volume.
+The manufacturer produces HVAC components, custom-fabricated sheet metal for residential and commercial construction, roofing metals such as flashings and trim, and a variety of custom pieces made to order. Its operations cover standard and bespoke sheet metal fabrication, though specific equipment, facility dimensions, and employee count are not publicly disclosed.
 
-Customers include commercial and residential contractors in the HVAC and roofing sectors throughout the Bay Area and surrounding regions. The company does not name specific clients in its public materials.
+The customer base includes commercial contractors, residential builders, HVAC installers, and roofing professionals throughout Northern California. Acosta emphasizes its regional reach, noting service across the Bay Area and beyond, with no specific industry certifications or export programs mentioned in its public materials.
 
-Acosta emphasizes “Quality Since 1972” and positions its output as the highest quality commercial and residential sheet metal products available, a claim rooted in its long tenure in the region.
+The company points to its five-decade track record and consistent output as its primary differentiators, promoting the tagline "Quality Since 1972" to signal reliability in the sheet metal trade.
 
 ## Known for
-- Trusted Quality Since 1972
-- Serving the Bay Area and beyond
-- Highest quality commercial and residential sheet metal products
-- Custom made residential and commercial metals
-- Roofing metals and custom piece fabrication
+- Serves the Bay Area and surrounding regions
+- Produces HVAC, roofing, and custom architectural sheet metal
+- Offers custom fabrication for one-off pieces
 
 ## Capabilities
 - Sheet metal fabrication
-- HVAC product fabrication
-- Custom residential metal fabrication
-- Custom commercial metal fabrication
-- Roofing metal fabrication
+- HVAC component manufacturing
+- Custom architectural metal fabrication (residential/commercial)
+- Roofing metal fabrication (flashings, trim)
 - Custom piece fabrication
 
 ## Industries
@@ -376,14 +387,12 @@ Acosta emphasizes “Quality Since 1972” and positions its output as the highe
 
 <details><summary>Sources</summary>
 
-- Company name: Acosta Sheet Metal Manufacturing -> db
-- Location: San Jose, California -> db, page /
-- Founded: 1972 -> db, page /
-- Tagline: Trusted Quality Since 1972 -> page /
-- Serves Bay Area and beyond -> page /
-- Products: HVAC products, custom residential and commercial metals, roofing metals, custom pieces -> page /
+- Founded 1972 -> db
+- Headquarters San Jose, California -> db
+- Produces HVAC products, custom residential/commercial metals, roofing metals, custom pieces -> page "/"
+- Serves Bay Area and beyond -> page "/"
+- Company name Acosta Sheet Metal Manufacturing -> db
 - LinkedIn URL -> db
-- Website -> db
 </details>
 
 ---
@@ -393,26 +402,26 @@ Acosta emphasizes “Quality Since 1972” and positions its output as the highe
 **Old description:** We are a small, family owned injection molding company with over 40 years of experience.
 
 ## About
-Acue-Tex Inc is a family-owned injection molding company based in Hubbard, Oregon, a short drive south of Portland on I-5. The business was started in 1987 by Michael and Glorianna Terrell, who initially operated from a small shop near their home before building the current 6,000-square-foot facility in the early 1990s. Michael Terrell continues to run the in-house tool and die shop, drawing on more than 40 years in the plastics industry.
+Acue-Tex Inc operates from a 6,000-square-foot facility in Hubbard, Oregon, just south of Portland along I-5. The company was founded in 1987 by Michael and Glorianna Terrell, who began in a small shop near their home before building the current plant in the early 1990s. It remains a family-owned small business, with Michael Terrell still running the tool and die shop after more than 40 years in the plastics industry.
 
-The company operates 13 injection molding machines with clamp forces ranging from 20 to 300 tons, focusing on small to medium-sized plastic parts. Six of those machines are vertical presses dedicated to insert molding, producing over two million insert-molded components each year—items such as hubs on cannulae, obturators, plastic tubing, and steel pins. Acue-Tex also maintains an in-house tool and die shop that builds the majority of the tooling running on its floor, allowing for on-site repairs and maintenance with short lead times. The team of 14 employees handles plastic fabrication, tool building, and molding operations.
+The shop runs 13 injection molding machines ranging from 20 to 300 tons of clamp force, six of which are vertical presses dedicated to insert molding. Annual insert-molded output exceeds two million components, including hubs on cannulae, obturators, plastic tubing, and steel pins. An in-house tool and die shop builds and maintains the majority of the tooling on the floor, enabling on-site repairs with short lead times. The company also recycles heavily, reusing over 6,000 pounds of ABS scrap each year and processing more than 84,000 pounds of recycled polystyrene and polyethylene in 2018 alone.
 
-The bulk of the customer base serves the medical, dental, and veterinary markets, which requires stringent quality control systems and full process control and traceability throughout manufacturing. The company works with materials including ABS, polystyrene, and polyethylene, and reuses over 6,000 pounds of its own scrap ABS annually; in 2018 it processed more than 84,000 pounds of recycled polystyrene and polyethylene, making recycled content nearly 40 percent of material input.
+The customer base is concentrated in the medical, dental, and veterinary markets, sectors that demand stringent quality control, full process control, and traceability throughout manufacturing. Acue-Tex's staff of 14 — from machine operators to office personnel — supports projects from new tool builds to refurbishment of existing programs.
 
-Acue-Tex distinguishes itself through honesty, transparency, and a personal commitment to getting things right, whether starting a project from scratch, building tools, or refurbishing existing programs. The ownership emphasizes reliability and knowledge at every step, aiming to exceed expectations on both cost and quality.
+The Terrells attribute the company's longevity to honesty, transparency, and a personal commitment to getting things right. In-house tooling capability and a focus on recycled materials further distinguish the operation.
 
 ## Known for
-- In-house tool and die shop builds and repairs most tooling
-- Six dedicated vertical molding machines for insert molding
-- Processes over 2 million insert molded components annually
-- Recycles over 6,000 lbs of scrap ABS per year
-- Full process control and traceability for medical, dental, veterinary markets
+- In-house tool and die shop with on-site repair and short lead times
+- Over 2 million insert molded components produced annually
+- Recycles over 6,000 lbs of ABS scrap yearly; 40% recycled material input in 2018
+- Family-owned with 40+ years of plastics industry experience
+- Full process control and traceability for medical, dental, and veterinary markets
 
 ## Capabilities
 - Injection Molding
 - Insert Molding
-- Tool and Die Manufacturing
-- Plastic Fabrication
+- Tool & Die Manufacturing
+- Recycling & Reusing
 
 ## Industries
 - Medical
@@ -420,8 +429,9 @@ Acue-Tex distinguishes itself through honesty, transparency, and a personal comm
 - Veterinary
 
 ## Equipment
-- 13 injection molding machines (20-300 ton clamp)
+- 13 injection molding machines (20–300 ton clamp)
 - 6 vertical molding machines for insert molding
+- In-house tool and die shop
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -432,20 +442,20 @@ Acue-Tex distinguishes itself through honesty, transparency, and a personal comm
 
 <details><summary>Sources</summary>
 
-- Founded in 1987 by Michael and Glorianna Terrell -> /
+- Founded 1987 by Michael and Glorianna Terrell -> /
 - Family-owned small business -> /
-- Headquarters in Hubbard, Oregon -> /
-- 6,000 sq ft facility built in early 1990s -> /
-- 13 injection molding machines (20-300 ton clamp) -> /
-- 6 vertical molding machines for insert molding -> /
+- 14 employees -> db, /
+- Hubbard, Oregon location -> db, /
+- 6,000 sq ft facility built early 1990s -> /
+- 13 injection molding machines (20-300 tons) -> /
+- 6 vertical machines for insert molding -> /
 - Over 2 million insert molded components annually -> /
-- In-house tool and die shop builds majority of tooling -> /
-- Team of 14 employees -> /
+- In-house tool and die shop -> /
+- Recycles over 6,000 lbs ABS scrap annually, 84,000 lbs recycled PS/PE in 2018 -> /
 - Serves medical, dental, veterinary markets -> /
-- Stringent quality control, full process control and traceability -> /
-- Reuses over 6,000 lbs scrap ABS annually -> /
-- Processed 84,000 lbs recycled polystyrene and polyethylene in 2018 -> /
-- Differentiators: honesty, transparency, personal commitment -> /
+- Full process control and traceability -> /
+- Michael Terrell runs tool and die shop, 40+ years experience -> /
+- Honesty, transparency, personal commitment -> /
 </details>
 
 ---
@@ -455,61 +465,74 @@ Acue-Tex distinguishes itself through honesty, transparency, and a personal comm
 **Old description:** Acuity Medical is an award-winning manufacturer, specialty distributor, and contract sales agency based in Annapolis, Maryland. The company is comprised of an experienced team of high sales achievers serving customers throughout the healthcare continuum. The company was founded in 1987 and has been recognized with numerous business development and product performance awards over the years. They are considered one of the leading medical sales and marketing groups in the country. Learn more about our Team
 
 ## About
-Acuity Medical Inc was founded in 1987 in Annapolis, Maryland. The company operates as a medical device manufacturer, specialty distributor, and contract sales agency. In 2003, Mark Tomchik, a former vice president of sales at Vapotherm and senior executive at Optiva (Sonicare) and Thermoscan, purchased the business and has served as president since.
+Acuity Medical Inc was founded in 1987 in Annapolis, Maryland. The company operates as a medical device manufacturer, specialty distributor, and contract sales agency. Mark Tomchik, formerly vice president of sales and marketing at Vapotherm, purchased the business and has served as president since at least 2003, bringing experience from senior roles at Optiva Corporation (maker of Sonicare) and Thermoscan (now part of Braun).
 
-The company maintains a warehouse, customer service department, and logistics infrastructure to distribute and wholesale medical products. Its service offerings include equipment installation, clinical in-services, IDN pricing contracts with staging and assembly, consulting and sales support, and white-glove delivery. Acuity also runs marketing programs that combine face-to-face presentations, e-marketing, telemarketing, and trade-show representation for its manufacturer partners.
+Acuity Medical combines manufacturing with a national sales and distribution platform. The company maintains a warehouse and customer-service infrastructure in Annapolis to support wholesale distribution, staging, assembly, installation, and white-glove delivery. The firm also runs the Partner Focus Program (PFP), a custom business-planning framework for its contract-manufacturer partners, and executes integrated marketing campaigns that blend face-to-face presentations, e-marketing, telemarketing, and trade-show presence.
 
-Acuity serves the healthcare continuum, targeting hospitals, alternate-care facilities, home medical equipment (HME/DME) providers, and medical/surgical distributors. Its sales team covers the United States with regional representatives, and the company works with medical device manufacturers as a contract sales agency to grow revenue through its Partner Focus Program.
+The company serves the healthcare continuum, with a focus on medical/surgical markets. Its customer base includes integrated delivery networks (IDNs), hospitals, alternate-care facilities, and home medical equipment (HME) and durable medical equipment (DME) providers. Sales representatives are assigned to specific territories such as hospital markets in New England, alternate-care in Florida, and HME/DME in the Mid-Atlantic.
 
-Acuity emphasizes a structured Partner Focus Program that defines business development strategies, benchmarks, and milestones for each territory, backed by an integrated marketing communications approach. The company states its mission is to deliver quality products, personalized customer service, detailed clinical support, and a strong value proposition.
+Acuity Medical emphasizes its award-winning track record and a results-driven approach built on high call frequency, leadership, and a structured Partner Focus Program. The company states its mission is to deliver quality products, personalized customer service, detailed clinical support, and a strong value proposition to its customers.
 
 ## Known for
-- Partner Focus Program (PFP) custom business plans with defined benchmarks and milestones
-- Integrated marketing communications: face-to-face, e-marketing, telemarketing, trade shows
-- Warehouse, customer service, and logistics infrastructure for wholesale distribution
-- Comprehensive clinical in-services and in-service support
-- White-glove delivery and installation services
+- Partner Focus Program (PFP) providing custom business plans with defined strategies, benchmarks, and milestones
+- Integrated marketing communications including face-to-face presentations, e-marketing, outbound telemarketing, and trade shows
+- National sales coverage with high call frequency across hospital, alternate-care, and HME/DME channels
+- Warehouse and distribution infrastructure supporting wholesale, staging, assembly, installation, and white-glove delivery
+- Award-winning manufacturer, specialty distributor, and contract sales agency recognized for business development and product performance
 
 ## Capabilities
-- Service & Installations
-- Clinical In-services
-- IDN Pricing Contracts (Staging, Assembly, Installation, Services, Planning)
-- Consulting & Sales Services
-- In-service Support
-- White Glove Delivery
-- Product Promotions & Launches
-- Preferred Partner Program
-- Warehouse & Delivery
-- Contract Sales Agency
-- Specialty Distribution
-- Marketing Programs
+- Specialty distribution
+- Contract sales agency
+- Medical device manufacturing
+- Warehouse and wholesale distribution
+- Clinical in-services
+- IDN pricing contracts
+- Staging, assembly, and installation
+- Consulting and sales services
+- In-service support
+- White glove delivery
+- Product promotions and launches
+- Partner Focus Program (PFP)
+- Integrated marketing communications
+- Face-to-face presentations
+- E-marketing
+- Outbound telemarketing
+- Trade show management
+- Service and installations
+- Operations management
+- Warehouse and delivery
 
 ## Industries
-- Medical/Surgical
+- Medical/surgical
 - Healthcare
-- Medical Device
-- Home Medical Equipment (HME/DME)
-- Hospital
-- Alternate Care
+- Hospitals
+- Alternate care facilities
+- Home medical equipment (HME)
+- Durable medical equipment (DME)
 - Integrated Delivery Networks (IDN)
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1987
+- **Ownership:** Privately held (purchased by Mark Tomchik)
 - **Headquarters:** Annapolis, Maryland
 
 <details><summary>Sources</summary>
 
-- Founded 1987 in Annapolis, MD -> /about-us
-- Mark Tomchik purchased company in 2003, serves as president -> /about-us
-- Medical device manufacturer, specialty distributor, contract sales agency -> /about-us
-- Warehouse, customer service, infrastructure for distribution and wholesale -> /
-- Services: installation, clinical in-services, IDN contracts, consulting, white-glove delivery -> /, /about-us
-- Marketing programs: face-to-face, e-marketing, telemarketing, trade shows -> /
+- Founded in 1987 -> db
+- Headquarters in Annapolis, Maryland -> db
+- Mark Tomchik is president and purchased the company -> /about-us
+- Company is a medical device manufacturer, specialty distributor, and contract sales agency -> /about-us
 - Partner Focus Program (PFP) custom business plans -> /
-- Serves healthcare continuum: hospitals, alternate care, HME/DME, medical/surgical -> /about-us, /
-- National sales team with regional representatives -> /about-us
-- Mission: quality products, personalized service, clinical support, value proposition -> /
+- Integrated marketing communications program -> /
+- Warehouse and distribution infrastructure -> /
+- National sales coverage with high call frequency -> /about-us
+- Serves hospitals, alternate care, HME/DME -> /about-us
+- Mission: delivering quality products, personalized customer service, detailed clinical support, strong value proposition -> /
+- Corporate team includes operations, warehouse, marketing, service & installations -> /about-us
+- Sales representatives across multiple states -> /about-us
+- Since 2003 consistent sales results for partners -> /
+- Mark Tomchik background at Vapotherm, Optiva, Thermoscan -> /about-us
 </details>
 
 ---
@@ -519,39 +542,43 @@ Acuity emphasizes a structured Partner Focus Program that defines business devel
 **Old description:** "When you break Adkev's story down to it's core, it's really a story about people and our commitment to provide them something better."
 
 ## About
-Adkev, Inc. was founded in 1987 with the creation of its proprietary AMT Technology. The company's corporate headquarters are in Goodland, Indiana, and it operates four manufacturing campuses: a 152,000-square-foot facility in Goodland (71 presses), a 183,000-square-foot plant in Monticello, Indiana (64 presses), a 200,000-square-foot site in Danville, Kentucky (15 presses), and a 28,000-square-foot tooling division, Regal Mold & Die, in Elkhart, Indiana (35 presses). Ownership structure is not publicly disclosed.
+Adkev, Inc. is headquartered in Danville, Kentucky, with its corporate office in Goodland, Indiana. The company traces its origins to 1987 with the creation of "AMT Technology" and the opening of its Goodland facility in 1993.
 
-Adkev produces precision plastic components and assemblies through injection molding, two-shot molding, insert molding, and value-added assembly. Its press fleet spans 55 to 1,000 tons, including 26 large-tonnage machines (500–1,000 ton) and 84 small-tonnage machines (85–385 ton), plus four 280-ton Sumitomo two-shot rotary platen presses. The company supports programs from concept rendering and 3D CAD design through design-for-manufacturing, simulation, prototype production, and full-scale runs. Total headcount is approximately 100, and Adkev ranked 93rd among the top 100 U.S. molders in 2016.
+It specializes in precision plastic components and assemblies, offering large-tonnage molding (500–1,000 tons, 26 machines), small-tonnage molding (85–385 tons, 84 machines), two-shot molding on four 280-ton Sumitomo rotary platen presses, insert molding with vertical and horizontal clamp approaches, and value-added assembly of molded and purchased components. The workforce numbers around 100 employees.
 
-The company holds IATF 16949 certification, indicating a focus on the automotive sector, and ISO 14001 for environmental management. Its marketing materials reference vehicle, business, and home applications, suggesting a customer base across automotive, industrial, and consumer markets.
+Adkev serves automotive, industrial, and consumer markets, as reflected in its messaging around "Your Vehicle, Your Business, Your Home." Customers rely on the company for engineered solutions from concept through production, including design for manufacturing, simulation, and prototype part production.
 
-Adkev emphasizes a people-first culture and a commitment to "adding value to every part so you can focus on something bigger." It positions itself as an engineered-solutions partner that manages supply chain complexity, reduces total cost through assembly of molded and purchased components, and delivers reliable, on-time delivery.
+Founded on a commitment to people, Adkev emphasizes trusted, reliable supply and aims to reduce customers' total cost through integrated assembly services. The company highlights its stability, wellness, and community responsibility as core values.
 
 ## Known for
-- Two-shot molding capability with four dedicated 280-ton Sumitomo rotary platen presses
-- Insert molding with both vertical and horizontal clamp automation
-- Value-added assembly integrating molded and purchased components to lower total cost
-- End-to-end development from concept and DFM through simulation and prototype
+- Two-shot molding on four 280-ton Sumitomo rotary platen presses
+- Insert molding with automated and manual vertical/horizontal clamp approaches
+- Value-added assembly of molded and purchased components to reduce total cost
+- Large-tonnage molding capacity (500–1,000 tons) with 26 presses
+- Small-tonnage molding (85–385 tons) with 84 presses for high-cavitation, quick-cycle parts
 
 ## Capabilities
-- Injection molding (55–1,000 ton)
-- Large-tonnage injection molding (500–1,000 ton)
-- Small-tonnage injection molding (85–385 ton)
-- Two-shot molding (rotary platen)
-- Insert molding (vertical and horizontal clamp)
+- Large tonnage injection molding (500-1000 ton)
+- Small tonnage injection molding (85-385 ton)
+- Two-shot molding
+- Insert molding
 - Value-added assembly
 - Design for manufacturing (DFM)
-- Simulation (mold flow)
+- Simulation
 - Prototype part production
-- Supply chain management
+- Industrial part design
+- Precision molding
+- High cavitation molding
+- Quick cycle molding
 
 ## Industries
 - Automotive
+- Industrial
+- Consumer goods
 
 ## Equipment
 - Sumitomo 280-ton two-shot rotary platen presses (4)
-- Injection molding presses 55–1,000 ton
-- Vertical injection molding presses 35–220 ton
+- Injection molding presses 55-1000 ton (185 total)
 
 ## Certifications
 - ISO 14001
@@ -561,24 +588,26 @@ Adkev emphasizes a people-first culture and a commitment to "adding value to eve
 - **Company Type:** Manufacturer
 - **Founded:** 1987
 - **Employees:** 100
-- **Headquarters:** Goodland, IN
+- **Headquarters:** Danville, KY
 
 <details><summary>Sources</summary>
 
-- Founded 1987 -> /
-- Corporate headquarters Goodland, IN -> /
-- Four manufacturing locations (Goodland, Monticello, Danville, Elkhart) -> /
-- Total facility space 563,000 sq ft -> /
-- Total 185 injection molding presses -> /
+- Headquarters Danville, KY -> db
+- Corporate office Goodland, IN -> /
+- Founded 1987 (AMT Technology) -> /
+- Goodland facility opened 1993 -> /
+- Four facilities: Goodland (152k sq ft, 71 presses), Monticello (183k sq ft, 64 presses), Danville (200k sq ft, 15 presses), Elkhart (28k sq ft, 35 presses) -> /
+- Total ~563k sq ft, 185 presses -> /
 - Employee count 100 -> db
-- IATF 16949 and ISO 14001 certifications -> db
 - Large tonnage molding 500-1000 ton, 26 machines -> /capabilities
 - Small tonnage molding 85-385 ton, 84 machines -> /capabilities
-- Two-shot molding with four 280-ton Sumitomo rotary platen presses -> /capabilities
-- Insert molding vertical and horizontal clamp -> /capabilities
+- Two-shot molding: four 280-ton Sumitomo rotary platen presses -> /capabilities
+- Insert molding: automated/manual, vertical/horizontal clamp -> /capabilities
 - Value-added assembly of molded and purchased components -> /capabilities
 - DFM, simulation, prototype part production -> /capabilities
-- Ranked 93rd top 100 US molders 2016 -> /
+- Industries implied by 'Your Vehicle, Your Business, Your Home' -> /
+- Certifications ISO14001, IATF16949 -> db
+- Company type: precision plastic components and assemblies manufacturer -> /
 </details>
 
 ---
@@ -588,42 +617,40 @@ Adkev emphasizes a people-first culture and a commitment to "adding value to eve
 **Old description:** Admiral Cable has been a leading provider of extension cords, work lights, and cable assemblies for over 30 years. Based in the USA and Mexico, we pride ourselves on offering products designed for both commercial and DIY use. We offer innovative solutions with a focus on quality, durability, and competitive pricing. Our products are perfect for homeowners, contractors, and businesses alike.
 
 ## About
-Admiral Cable, Inc. is headquartered in Santa Teresa, New Mexico, and operates manufacturing facilities in both the United States and Mexico. The company produces extension cords, cable assemblies, work lights, and related electrical products for commercial and do‑it‑yourself markets.
+Admiral Cable, Inc. operates from Santa Teresa, New Mexico, with additional manufacturing facilities in the United States and Mexico. The company has been producing electrical products for over 30 years, though a specific founding year is not publicly disclosed. Ownership details such as family, veteran, or woman-owned status have not been stated.
 
-Its U.S. operations include a PVC compounds plant and a bulk wire plant, while a molding and assembly plant in Mexico handles final assembly. The product line spans booster cables, light strings, GFCI cords, EV charging cables, range and dryer cords, power supply cords, bulk wire, and stranded copper wire. All manufacturing is vertically integrated, with raw cable production feeding the assembly lines.
+The company manufactures extension cords, cable assemblies, work lights, and a range of specialized cords including GFCI, EV charging, range and dryer, and power supply cords. Production spans three plants: a PVC compounds plant and a bulk wire plant in the United States, and a molding and assembly plant in Mexico. This vertical integration allows control over raw bulk cable, which the company cites as key to managing cost and quality. No headcount, facility square footage, or annual volume figures are provided.
 
-Customers range from homeowners and contractors to industrial and commercial buyers. The company emphasizes domestic production to shorten supply chains, reduce exposure to port disruptions, and support ESG and CSR goals. Quick market response and local technical support are cited as operational advantages.
+Admiral Cable serves commercial and DIY markets, targeting homeowners, contractors, and businesses across the electrical industry. Its product line is designed for both professional job sites and retail consumers, with an emphasis on quick market response and strong local support.
 
-Admiral Cable was founded on the principle that local manufacturing delivers better cost control and reliability for electrical accessories. The firm highlights competitive pricing, durability, and a focus on quality as core differentiators.
+The company emphasizes domestic and near-shore production as a differentiator, stating that local manufacturing reduces logistics and supply-chain risks and mitigates external disruptions such as port strikes, pandemics, and political uncertainties. It also aligns operations with ESG and CSR commitments.
 
 ## Known for
-- Local production reduces logistics and supply chain risks
-- Domestic production mitigates external risks such as port strikes and pandemics
-- Alignment with ESG and CSR commitments
+- Local production reduces logistics and supply-chain risks
+- Domestic production mitigates external disruptions (port strikes, pandemics, political uncertainties)
+- Vertical integration with PVC compounding and bulk wire plants controls cost and quality
 - Quick market response and strong local support
-- Competitive pricing and product durability
+- Alignment with ESG and CSR commitments
 
 ## Capabilities
-- Molding and assembly
 - PVC compounding
-- Bulk wire production
+- Bulk wire manufacturing
+- Molding and assembly
 - Cable assembly
-- Work light assembly
 - Extension cord manufacturing
-- GFCI cord manufacturing
-- EV charging cable assembly
-- Range and dryer cord manufacturing
-- Power supply cord manufacturing
-- Booster cable manufacturing
-- Light string assembly
-- Stranded copper wire production
+- Work light manufacturing
+- GFCI cord production
+- EV charging cable production
+- Range and dryer cord production
+- Power supply cord production
+- Light string manufacturing
+- Booster cable production
 
 ## Industries
-- Commercial
-- DIY
 - Electrical
-- Contractor
-- Residential
+- Commercial construction
+- DIY/Retail
+- Contractor services
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -631,18 +658,18 @@ Admiral Cable was founded on the principle that local manufacturing delivers bet
 
 <details><summary>Sources</summary>
 
-- Headquarters in Santa Teresa, NM -> db
-- Manufactures extension cords, cable assemblies, work lights -> page /
-- Operates PVC Compounds Plant and Bulk Wire Plant in USA, Molding and Assembly Plant in Mexico -> page /
-- Products include booster cables, light strings, GFCI cords, EV charging cables, range & dryer cords, power supply cords, bulk wire, stranded copper wire -> page /
-- Serves commercial and DIY markets, homeowners, contractors, businesses -> description db and page /
-- Local production reduces logistics and supply chain risks -> page /
-- Domestic production mitigates external risks like port strikes, pandemics, political uncertainties -> page /
-- Aligning with ESG and CSR commitments -> page /
-- Quick market response and strong local support -> page /
-- Competitive pricing and reliable products -> page /
-- Materials: stranded copper wire, PVC compounds, bulk cable -> page /
-- Capabilities: molding and assembly, PVC compounding, bulk wire production -> page / and capabilities db
+- Company name: Admiral Cable, Inc. -> db
+- Headquarters: Santa Teresa, New Mexico -> db
+- Over 30 years in business -> db, page '/'
+- Manufactures extension cords, cable assemblies, work lights -> page '/'
+- Specific products: Extension Cord, Booster Cable, Light Strings, GFCI Cords, EV Charging Cable, Range & Dryer Cords, Power Supply Cords, Bulk Wire, Stranded Copper Wire -> page '/'
+- Plants: PVC Compounds Plant (USA), Bulk Wire Plant (USA), Molding and Assembly Plant (Mexico) -> page '/'
+- Serves commercial and DIY markets, homeowners, contractors, businesses -> page '/', db
+- Local production reduces logistics and supply chain risks -> page '/'
+- Domestic production mitigates external risks -> page '/'
+- Aligns with ESG and CSR commitments -> page '/'
+- Quick market response and strong local support -> page '/'
+- Controls cost and quality via raw bulk cable -> page '/'
 </details>
 
 ---

@@ -3,38 +3,37 @@
 **Old description:** Founded by Mike Durina with decades of plasticating experience,
 
 ## About
-Md Plastics Inc. was founded in 1999 by Mike Durina in Columbiana, Ohio, drawing on his decades of plasticating experience. The company began as a specialist in plasticating components and has since expanded into patented systems for injection molding, extrusion, and additive manufacturing.
+Md Plastics Inc. was founded in 1999 by Mike Durina in Columbiana, Ohio, drawing on his decades of experience in plasticating technology. The company began as a specialist in designing and manufacturing high-performance plasticating components for injection molding and extrusion processes.
 
-The company designs and manufactures a range of plasticating hardware, including Posi-Melt extrusion screws, MDP performance non-return valves, Mini-Shut automatic shut-off nozzles, and high-performance plasticating barrels. It also develops proprietary monitoring and control systems such as the Melt-IQ and Melt-Profiler II, which provide real-time melt temperature analysis and predictive quality control. All components are engineered using proprietary design software that calculates heat transfer, shear rates, and pressure profiles. The firm holds nine awarded patents covering plasticating screws, injection units, 3D printers, and melt monitoring technologies.
+Today the firm produces a full range of precision plasticating components—injection molding screws, extrusion feed screws, non-return valves, plasticating barrels, and nozzle tips—along with patented systems such as the INJECT-EX™ plasticating and injection units, the Melt-IQ™ and Melt-Profiler™ II real-time melt monitoring systems, and large-scale pellet-fed 3D printers. All components are engineered using proprietary design software that calculates heat transfer, shear rates, and pressure profiles for each application. The company also offers vented barrel conversions, injection unit upsizing and downsizing, and purging compounds.
 
-Md Plastics serves automotive, medical device, consumer electronics, additive manufacturing, and general plastic processing sectors. Its customers include OEMs and custom molders, with industry leaders such as Absolute Haitian, Engel, Milacron, and Windsor cited as references. The company's solutions target any application requiring precise melt quality and part consistency.
+Md Plastics serves automotive, medical device, consumer electronics, additive manufacturing, and general plastic processing sectors. Its customer base includes major equipment builders such as Absolute Haitian, Engel, Milacron, and Windsor, who integrate the company’s components and monitoring systems into their machines.
 
-The company's stated mission is to help injection, extrusion, blow molding, and 3D printing operations become more profitable through better plasticating components and entirely new technologies. Its differentiation rests on patented innovations, proprietary analytical software, and a focus on custom engineering for specific resin and process requirements.
+The company was established to help injection, extrusion, blow molding, and 3D printing operations become more profitable through better plasticating components and entirely new technologies. Its differentiation rests on nine granted patents, proprietary analytical software, and closed-loop melt monitoring that converts real-time temperature data into thermodynamic work analysis for unprecedented part consistency.
 
 ## Known for
-- Nine awarded patents covering plasticating components, injection units, 3D printers, and melt monitoring systems
+- Nine granted patents covering plasticating components, injection units, 3D printers, and melt monitoring systems
 - Proprietary design software that calculates exact heat transfer, shear rates, and pressure profiles
-- Real-time melt monitoring and predictive analytics via Melt-IQ and Melt-Profiler II systems
+- Real-time melt monitoring and predictive analytics via Melt-IQ™ and Melt-Profiler™ II systems
 - Custom engineering tailored to specific resin and process requirements
 - Trusted by industry leaders including Absolute Haitian, Engel, Milacron, and Windsor
 
 ## Capabilities
-- Plasticating screw design and manufacturing (Posi-Melt extrusion, multipurpose, barrier, mixing, 3D printing screws)
-- Injection unit upsizing/downsizing and vented barrel conversions
-- Non-return valve design and manufacturing (MDP Performance, Posi-Shut)
-- Nozzle tip design and manufacturing (Mini-Shut automatic shut-off)
-- Melt monitoring systems (Melt-IQ, Melt-Profiler II, Temp-Sense)
-- Real-time process control and predictive analytics
-- Proprietary design software for heat transfer, shear rate, pressure profile calculation
-- Custom plasticating component engineering
-- 3D printing plasticating systems (Inject-EX for 3D printing)
-- Large-scale pellet-fed 3D printer manufacturing
-- Installation and training services
-- Retrofit integration with existing molding equipment
-- Purging compound distribution (Barrel Blitz, Poly Clear Prime)
+- Injection molding screw design and manufacturing
+- Extrusion feed screw design and manufacturing
+- Non-return valve manufacturing
 - Plasticating barrel manufacturing
-- Injection molding machine systems (Inject-EX Machine)
-- Measurement and quality prediction capabilities
+- Nozzle tip manufacturing
+- Plasticating system design (INJECT-EX)
+- Melt monitoring systems (Melt-IQ, Melt-Profiler II)
+- Vented barrel design
+- Injection unit upsizing and downsizing
+- Large scale pellet-fed 3D printer manufacturing
+- Purging compound formulation
+- Process control and predictive analytics
+- Custom plasticating component engineering
+- Retrofit integration with existing equipment
+- Installation support and operator training
 
 ## Industries
 - Automotive
@@ -43,22 +42,23 @@ The company's stated mission is to help injection, extrusion, blow molding, and 
 - Additive Manufacturing
 - Plastic Processing
 - OEM
-- Custom Molding
 
 ## Equipment
-- INJECT-EX Machine
-- INJECT-EX for 3D Printing
-- INJECT-EX for LSR
-- INJECT-EX for Thermoplastics
-- Melt-IQ System
-- Melt-Profiler II System
-- Temp-Sense Melt Sensor
-- Large-scale pellet-fed 3D printers
-- Posi-Melt screw series
-- MDP Performance Non-Return Valve
-- Mini-Shut Automatic Shut-Off Nozzle
-- Posi-Shut Automatic Shut-Off Valve
-- High Performance Plasticating Barrels
+- INJECT-EX™ Machine
+- INJECT-EX™ for 3D Printing
+- INJECT-EX™ for LSR
+- INJECT-EX™ for Thermoplastics
+- Melt-IQ™ System
+- Melt-Profiler™ II System
+- Mini-Shut™ Automatic Shut-Off Nozzle
+- Posi-Melt™ 3D Printing Screws
+- Posi-Melt™ Extrusion Screws
+- Posi-Melt™ MB Barrier Screws
+- Posi-Melt™ Multipurpose Screws
+- Posi-Melt™ XLA Mixing Screws
+- Posi-Shut™ Automatic Shut-Off Valve
+- MDP™ Performance Non-Return Valve
+- Temp-Sense™ Melt Sensor
 
 ## Certifications
 - ISO 9001
@@ -73,16 +73,21 @@ The company's stated mission is to help injection, extrusion, blow molding, and 
 - Founded in 1999 by Mike Durina -> db
 - Headquarters in Columbiana, Ohio -> db
 - ISO9001 certification -> db
-- Nine awarded patents including plasticating components, injection units, 3D printers, melt monitoring systems -> /about
-- Proprietary design software calculates heat transfer, shear rates, pressure profiles -> /about
-- Products: Posi-Melt screws, MDP non-return valves, Mini-Shut nozzles, plasticating barrels, Inject-EX systems, Melt-IQ, Melt-Profiler II, Temp-Sense -> /, /about
-- Industries served: automotive, medical devices, consumer electronics, additive manufacturing, plastic processing, OEM, custom molding -> /, /about
-- Customer references: Absolute Haitian, Engel, Milacron, Windsor -> /
-- Mission: help injection, extrusion, blow molding, 3D printing companies be more profitable -> /about
-- Materials: PE, PP, PVC, ABS, PC, PET, engineering plastics, hygroscopic ionomers -> /
-- Installation and training services offered -> /
-- Retrofit integration with existing equipment -> /
-- Purging compounds distributed: Barrel Blitz, Poly Clear Prime -> /
+- Nine granted patents -> /about
+- Proprietary design software for heat transfer and pressure profiles -> /about
+- Melt-IQ and Melt-Profiler II real-time melt monitoring systems -> /about
+- INJECT-EX plasticating and injection molding systems -> /about
+- Posi-Melt screws, MDP non-return valves, Mini-Shut nozzle tips -> /about
+- Industries served: automotive, medical devices, consumer electronics, additive manufacturing, plastic processing -> /about
+- Customers: Absolute Haitian, Engel, Milacron, Windsor -> /about
+- Products work with PE, PP, PVC, ABS, PC, PET, engineering plastics -> /
+- 45+ years of specialized expertise -> /about
+- Custom engineering for resin and process requirements -> /about
+- Vented barrel conversions and injection unit upsizing/downsizing -> /about
+- Large scale pellet-fed 3D printers -> /about
+- Purging compounds: Barrel Blitz, Poly Clear Prime -> /
+- Installation support and operator training offered -> /
+- Retrofit integration with minimal downtime -> /
 </details>
 
 ---
@@ -92,39 +97,40 @@ The company's stated mission is to help injection, extrusion, blow molding, and 
 **Old description:** Complete Product Portfolio and Unique Value Proposition for all market segments - AcuteCare, Long Term Care, Physician Offices , Blood Banks, Home Health, Animal Health in the US and international markets.
 
 ## About
-MediVena is headquartered in Atlanta, Georgia, with additional offices in Poland. The company develops and markets medical devices for blood collection, diagnostics, injection systems, and personal protective equipment under the ONE-CARE® brand. While its founding year is not publicly disclosed, MediVena has established a presence across the Americas and Europe, serving healthcare providers through distribution partners.
+MediVena is headquartered in Atlanta, Georgia, with additional offices in Poland. The company develops and brings to market innovative medical devices for blood collection, rapid diagnostics, fluid injection, and personal protection, aiming to make them effective, affordable, safe, and comfortable for healthcare professionals and patients worldwide.
 
-The company’s product portfolio includes safety lancets, blood collection needles and winged sets, tube holders, safety pen needles, insulin syringes, glucose monitors, and alcohol prep pads. MediVena manages an end-to-end process from product design ideation and voice-of-customer research through fast prototyping, design verification, clinical trials, and regulatory approvals to commercialization. It operates a warehouse in Atlanta that ships orders within 48 hours with free ground shipping, and leverages a manufacturing base spanning the United States, Europe, Latin America, and Asia.
+Its product portfolio spans blood collection devices (safety lancets, blood collection needles, winged sets, tube holders), injection systems (safety pen needles, insulin syringes, pen needles), diagnostics (glucose monitors, test strips, multimeters, non-contact infrared thermometers), and personal protective equipment (alcohol prep pads, nitrile exam gloves). MediVena manages the full product lifecycle from voice-of-customer research and ideation through fast prototyping, design verification, clinical trials, and regulatory approvals to commercialization. The company operates a manufacturing and supply chain network across the United States, Europe, Latin America, and Asia, and fulfills orders from its Atlanta warehouse.
 
-MediVena serves acute care hospitals, long-term care facilities, physician offices, blood banks, home health agencies, and the animal health market. Its customers include primary care practices, reference laboratories, and home care providers in both U.S. and international markets.
+MediVena serves acute care, long-term care, physician offices, blood banks, home health, and animal health markets in the U.S. and internationally. Its customers include hospitals, primary care clinics, long-term-care facilities, blood banks, reference laboratories, and home-care providers, reached through distribution partners.
 
-The company states its mission is to deliver innovative medical devices that are effective, affordable, entirely safe, and comfortable for patients and healthcare professionals. A recent grant-funded project (2021–2023) focused on developing a universal safety needle with minimized dead space and a fully automated manufacturing line, underscoring its focus on safety and process innovation.
+The company differentiates itself by shipping orders within 48 hours from its Atlanta warehouse with free ground shipping, and by investing in proprietary manufacturing technology such as a universal safety needle with minimized dead space to reduce drug loss and needlestick risk. Its mission centers on delivering innovative, safe, and comfortable medical devices globally.
 
 ## Known for
-- Ships orders within 48 hours from Atlanta warehouse
-- Free ground shipping to distribution partners
-- End-to-end product development from ideation to commercialization
-- Manufacturing footprint across US, Europe, Latin America, and Asia
-- Regulatory compliance and registration support
+- Ships orders within 48 hours from Atlanta warehouse with free ground shipping
+- Manufacturing and supply chain footprint across the U.S., Europe, Latin America, and Asia
+- End-to-end product development from ideation and fast prototyping through clinical validation and regulatory approval
+- Proprietary universal safety needle technology designed to minimize dead space and prevent needlestick injuries
 
 ## Capabilities
-- Product design ideation
-- Voice of customer and market research
-- Modeling and fast prototyping
-- Design verification and validation
-- Clinical trials
-- Implementation to production and regulatory approvals
-- Commercialization
 - Corporate go-to-market strategy
+- Product design ideation
 - Identification of potential business partners
 - Contract negotiations
-- Support in operations and registrations/regulatory activities
+- Regulatory operations and registration support
 - Tactical sales and marketing
 - Supply chain and inventory management
-- Manufacturing and supplies
+- Voice of customer and market research
+- Ideation and first concept development
+- Modeling and fast prototyping
+- Design verification and validation
+- Clinical trial management
+- Implementation to production and regulatory approvals
+- Commercialization
+- Manufacturing and supply chain management
+- Toll-free customer service
 
 ## Industries
-- AcuteCare
+- Acute Care
 - Long Term Care
 - Physician Offices
 - Blood Banks
@@ -137,14 +143,16 @@ The company states its mission is to deliver innovative medical devices that are
 
 <details><summary>Sources</summary>
 
-- Headquarters in Atlanta, Georgia and Poland -> /about
-- Product categories: blood collection, diagnostics, injection systems, PPE -> /about
-- Markets served: AcuteCare, Long Term Care, Physician Offices, Blood Banks, Home Health, Animal Health -> /about
-- Warehouse in Atlanta ships within 48 hours with free ground shipping -> /about
-- Manufacturing base in US, Europe, Latin America, Asia -> /
-- End-to-end capabilities: product design ideation, prototyping, clinical trials, regulatory approvals, commercialization -> /about
-- Mission: develop innovative, affordable, safe medical devices -> /
-- Grant-funded project 2021-2023 for universal safety needle with automated manufacturing line -> /
+- Headquarters in Atlanta, Georgia -> db (hq_city, hq_state_label) and page '/about'
+- Offices in USA and Poland -> page '/'
+- Mission to develop innovative medical devices for blood testing and drug delivery -> page '/'
+- Product categories: blood collection, diagnostics, injection systems, PPE -> page '/' and '/about'
+- Markets: AcuteCare, Long Term Care, Physician Offices, Blood Banks, Home Health, Animal Health -> page '/about'
+- Ships orders within 48 hours from Atlanta warehouse with free ground shipping -> page '/about'
+- Manufacturing base in US, Europe, Latin America, Asia -> page '/'
+- Product development process: voice of customer, ideation, modeling, fast prototyping, design verification, clinical trials, implementation to production, commercialization -> page '/about'
+- Project: universal safe needle with minimized dead space, funded by Intelligent Development Operational Programme 2014-2020 -> page '/'
+- LinkedIn URL -> db
 </details>
 
 ---
@@ -154,56 +162,61 @@ The company states its mission is to deliver innovative medical devices that are
 **Old description:** *Valid For Online Purchase Only. Not valid on existing discounts. *
 
 ## About
-Medical Device Depot, Inc. operates from Fairview, Pennsylvania, where it was founded in 2007 as a minority-owned, woman-owned small business. The company began with a simple idea: to change the way healthcare professionals purchase medical equipment by addressing the knowledge gaps and slow service common among suppliers.
+Medical Device Depot, Inc. was founded in 2007 in Fairview, Pennsylvania, as a woman- and minority-owned small business. The company began with the goal of simplifying how healthcare professionals worldwide purchase medical equipment, addressing a market where suppliers often lacked the training to properly support buyers.
 
-The firm distributes a broad catalog of medical devices from more than 150 brands, serving over 100,000 customers. Its product range spans diagnostics, cardiology, physical therapy, patient monitoring, and clinical furniture, including items such as Welch Allyn vital-sign monitors, Infinium Medical anesthesia systems, Arjo patient lifts, and Hausmann Industries rehabilitation equipment. The company does not manufacture; it functions as a distributor and reseller.
+The firm operates as a distributor and reseller, offering products from more than 150 brands to over 100,000 customers. Its catalog spans diagnostic devices such as ECG machines and audiometers, physical therapy equipment including whirlpools and parallel bars, cardiology monitors, vision screeners, and pharmacy-grade refrigeration. The company does not manufacture; it sources and ships equipment directly to clinics, hospitals, and private practices.
 
-Customers include physicians, hospitals, clinics, and other healthcare providers across multiple specialties. The depot supplies equipment for family practice, physical therapy, cardiovascular testing, and surgical settings, with concrete examples including ECG machines, spirometers, therapy tables, and vaccine refrigerators.
+Medical Device Depot serves healthcare providers across specialties—family practice, cardiology, physical therapy, audiology, and occupational health. Customers range from independent physicians to larger health systems, with the company citing brands like Welch Allyn, Infinium Medical, Clinton Industries, and Arjo as examples of the lines it carries.
 
-The company emphasizes knowledgeable, personalized service—calls are returned within 24 hours—and backs purchases with a price-match guarantee, fast delivery, and a 100% money-back policy. Its stated differentiators are honesty, transparency, and a customer-centric approach that aims to make equipment procurement worry-free.
+The company emphasizes personalized service, promising that knowledgeable representatives answer calls directly and return messages within 24 hours. It highlights a price-match guarantee, fast delivery, and a customer-centric approach as differentiators, and notes recognition as the top medical equipment supplier in northwestern Pennsylvania by BusinessRate in 2026.
 
 ## Known for
-- Knowledgeable sales and service representatives trained on the full product catalog
+- Personalized service from knowledgeable representatives (no automated phone trees)
 - Calls returned within 24 hours
-- Price match guarantee
-- Fast delivery and no-contact shipping options
-- 100% money-back guarantee
+- Price-match guarantee on quoted products
+- Fast delivery and expert customer support
+- Honesty and transparency in every interaction
 
 ## Capabilities
 - Medical equipment distribution
-- Product sourcing from 150+ brands
-- Sales consultation and product support
+- Product sourcing and procurement
+- Sales consultation and product training
 - Price matching
-- Fast shipping
-- Customer support (phone/email)
+- Order fulfillment and shipping
+- Customer support and technical assistance
 
 ## Industries
 - Healthcare
 - Medical practices
 - Hospitals
-- Clinics
 - Physical therapy
 - Cardiology
 - Diagnostics
-
-## Certifications
-- MINORITY OWNED
+- Audiology
+- Occupational health
 
 ## Company details
 - **Company Type:** Distributor / reseller
 - **Founded:** 2007
-- **Ownership:** Minority-owned, Woman-owned, Small business
-- **Headquarters:** Fairview, Pennsylvania
+- **Ownership:** Women/Minority Owned, Small business
+- **Headquarters:** Fairview, PA
 
 <details><summary>Sources</summary>
 
-- Founded 2007 -> db
-- Headquarters Fairview, PA -> /about-us
-- Minority-owned, Woman-owned, Small business -> / and certifications
-- Distributor of 150+ brands -> /
-- Product range includes diagnostics, cardiology, physical therapy -> /
-- Customer service differentiators (24-hour callback, price match, fast delivery) -> /about-us
-- Certification MINORITY OWNED -> certifications
+- Founded in 2007 -> db
+- Headquarters in Fairview, PA -> db
+- Women/Minority Owned -> /
+- Small business -> /
+- Trusted Distributor over 150+ brands -> /
+- 100,000+ Happy Customers -> /
+- Price Match Guarantee -> /
+- Personalized service from courteous, knowledgeable representatives -> /about-us
+- Calls returned within 24 hours -> /about-us
+- Honesty and transparency in every interaction -> /about-us
+- Customer Centric Approach -> /about-us
+- #1 Medical Equipment Supplier in Northwestern Pennsylvania -> /about-us
+- BusinessRate Best of 2026 Award -> /about-us
+- Product examples: Welch Allyn, Infinium Medical, Clinton Industries, Arjo -> /
 </details>
 
 ---
@@ -213,60 +226,63 @@ The company emphasizes knowledgeable, personalized service—calls are returned 
 **Old description:** is a Post-Acute Healthcare Provider that specializes in Sleep Disorder and Chronic-Respiratory Disease Management. This is done through partnering with Health Systems, Payers and Sleep Disorder Clinics. Our experience in these partnerships throughout the Midwest and Northeast has led to thousands of healthier patients with millions of dollars saved in the Healthcare System.
 
 ## About
-Medical Service Company (MSC) was founded in 1950 by Merle and Jean Marx in a small Cleveland, Ohio office as a pharmacy and medical equipment supplier. Now based in Lewis Center, Ohio, the business remains a third-generation family-owned and operated enterprise with hundreds of employees serving patients across the Midwest and Northeast.
+Medical Service Company (MSC) was founded in 1950 by Merle and Jean Marx in a small office in Cleveland, Ohio. Now headquartered in Lewis Center, Ohio, the company remains a third-generation family-owned and operated business.
 
-The company focuses on post-acute healthcare, specifically chronic-respiratory disease management and sleep disorder management. Its service portfolio includes comprehensive sleep management programs, rapid equipment delivery for hospital discharges, bedside patient education to improve therapy adherence, high-risk patient follow-up to reduce readmissions, and cloud-based tablet technology for care coordination. MSC provides oxygen therapy options tailored to patient lifestyles.
+MSC operates as a post-acute healthcare provider specializing in sleep disorder and chronic-respiratory disease management. Its services include comprehensive sleep management, oxygen therapy, home medical equipment supply, bedside patient education, high-risk patient follow-up, and technology-enabled care coordination using cloud-based tablets. The company employs hundreds of team members serving thousands of patients across the Midwest and Northeast.
 
-MSC partners with health systems, insurance payers, and sleep disorder clinics. Examples include a preferred partnership with Kettering Health Network and statewide health insurance providers. The company's work spans home medical equipment provision and clinical pathway implementation for patients transitioning from hospital to home.
+MSC partners with health systems, payers, and sleep disorder clinics. It holds preferred partnerships with statewide health insurance providers and health systems such as Kettering Health Network. Its customer base includes patients requiring respiratory and sleep therapy, as well as healthcare organizations seeking to reduce readmissions and manage costs.
 
-MSC emphasizes its focus on respiratory and sleep disease management as a core competency that reduces readmissions and healthcare costs. The company cites its family-owned heritage and commitment to compassionate, integrity-driven care as differentiators, evidenced by recognition as a Top Workplace in Northeast Ohio.
+The company states that its focus on respiratory and sleep disease management, along with programs in training, clinical pathways, and patient engagement, is instrumental in reducing readmissions and managing healthcare costs. It emphasizes compassion, integrity, and a pledge to excellence recognized by accolades such as Top Workplace in Northeast Ohio.
 
 ## Known for
-- Focus on Respiratory & Sleep Disease Management as core competency
-- Comprehensive Sleep Management programs
-- Superior Delivery Velocity for hospital discharge support
-- Bedside Homecare Patient Education for therapy adherence
-- Cloud-based tablet technology for care coordination
+- Preferred partnerships with statewide health insurance providers
+- Preferred partnerships with health systems
+- Recognized as a Top Workplace in Northeast Ohio
+- Cloud-based tablets for accuracy and effective care management
+- Superior delivery velocity to assist with hospital discharge
 
 ## Capabilities
-- Comprehensive Sleep Management
-- Superior Delivery Velocity
-- Bedside Homecare Patient Education
-- Follow-up with High-Risk Patients
-- Cloud-based Tablet Care Management
-- Oxygen Therapy Provision
-- Chronic-Respiratory Disease Management
-- Sleep Disorder Management
+- Respiratory and Sleep Therapy
+- Oxygen therapy
+- Home medical equipment supply
+- Comprehensive sleep management
+- Bedside homecare patient education
+- High-risk patient follow-up
+- Cloud-based tablet care management
+- Training and education
+- Clinical pathways development
+- Patient engagement programs
+- Care coordination and transition support
 
 ## Industries
-- Post-Acute Healthcare
+- Healthcare
+- Home Medical Equipment
 - Sleep Disorder Management
-- Chronic-Respiratory Disease Management
 - Health Systems
 - Insurance Payers
-- Sleep Disorder Clinics
-- Home Medical Equipment
+
+## Equipment
+- Cloud-based tablets
 
 ## Company details
 - **Company Type:** Installer / service company
 - **Founded:** 1950
 - **Employees:** hundreds
-- **Ownership:** Family-owned
+- **Ownership:** Family-owned (third-generation)
 - **Headquarters:** Lewis Center, Ohio
 
 <details><summary>Sources</summary>
 
 - Founded 1950 by Merle and Jean Marx in Cleveland, OH -> /about-us
 - Third-generation family owned and operated -> /about-us
-- Hundreds of dedicated team members -> /about-us
 - Headquarters in Lewis Center, Ohio -> db
+- Hundreds of dedicated team members -> /about-us
 - Specializes in Sleep Disorder and Chronic-Respiratory Disease Management -> /
-- Services: Comprehensive Sleep Management, Superior Delivery Velocity, Bedside Homecare Patient Education, Follow-up with High-Risk Patients, Cloud-based tablets -> /
 - Partners with Health Systems, Payers, Sleep Disorder Clinics -> /
-- Preferred Partnerships with Statewide Health Insurance Providers and Health Systems -> /about-us
+- Offers oxygen therapy and home medical equipment -> /
+- Uses cloud-based tablets for care management -> /
+- Preferred partnerships with statewide health insurance providers and health systems -> /about-us
 - Recognized as Top Workplace in Northeast Ohio -> /about-us
-- Oxygen therapy options -> /
-- Kettering Health Network partnership mention -> /
 </details>
 
 ---
@@ -276,34 +292,34 @@ MSC emphasizes its focus on respiratory and sleep disease management as a core c
 **Old description:** Experience the ultimate in sleep therapy with our top-quality CPAP supplies. At Medical Technologies, we understand the importance of a good night's rest. That's why we offer a wide range of CPAP solutions tailored to your individual needs. With our easy reordering system and dedicated customer support, managing your sleep health has never been simpler or more convenient.
 
 ## About
-Medical Technologies, Inc is based in Lake Charles, Louisiana. The company operates as a supplier of durable medical equipment and related supplies, serving patients across multiple states. Its founding year and ownership structure have not been publicly disclosed.
+Medical Technologies, Inc operates from Lake Charles, Louisiana, supplying medical equipment and consumables directly to patients. The company does not disclose its founding year, ownership structure, or founders' names in its public materials.
 
-The company distributes a range of respiratory and monitoring devices, including CPAP and BiPAP machines, continuous glucose monitoring (CGM) systems, ventilators, and oxygen equipment. It provides a reordering platform and dedicated support lines for new patient inquiries and existing patient resupplies, operating Monday through Friday during central business hours.
+The firm distributes a range of respiratory and diabetes-management devices, including CPAP and BiPAP machines, continuous glucose monitoring (CGM) systems, ventilators, and oxygen concentrators with related supplies. It runs an online reordering portal and maintains dedicated toll-free support lines for new patients and existing resupply orders, though facility size, headcount, and shipment volumes are not published. The company describes its catalog as an extensive selection of top-quality medical supplies and equipment for diverse healthcare needs.
 
-Medical Technologies serves individuals requiring home-based sleep therapy, respiratory care, and diabetes management. Customers cited in testimonials reside in Louisiana, Missouri, and Illinois, indicating a multi-state reach. The company also works with healthcare providers seeking reliable equipment for patient care.
+Customers are primarily individual patients managing sleep apnea, respiratory failure, or diabetes at home, with testimonials citing service to users in Missouri, Louisiana, and Illinois. The company positions itself as a durable medical equipment (DME) supplier serving the home-healthcare, respiratory-therapy, and diabetes-care markets.
 
-The company emphasizes a streamlined reordering process and responsive customer service as key differentiators. Its website highlights easy reordering, expert support, and fast delivery as reasons patients choose them for ongoing supply needs.
+Medical Technologies emphasizes a streamlined reordering process and responsive customer support as its primary differentiators, aiming to eliminate gaps in supply for chronic-condition management.
 
 ## Known for
-- Streamlined online and phone reordering system for recurring supplies
-- Dedicated toll-free support lines for new patients and resupply orders
-- Multi-state shipping with fast delivery
-- Expert assistance for CPAP, CGM, ventilator, and oxygen equipment
+- Easy reordering system for recurring supplies
+- Dedicated toll-free support lines for new and existing patients
+- Nationwide delivery of respiratory and diabetes devices to patients' homes
+- Streamlined resupply process for CPAP and CGM products
 
 ## Capabilities
-- CPAP/BiPAP equipment distribution
-- Continuous glucose monitoring (CGM) system distribution
-- Ventilator distribution
-- Oxygen and oxygen supplies distribution
-- Patient reordering and resupply management
+- Medical equipment distribution
+- CPAP/BiPAP supply
+- CGM system supply
+- Ventilator supply
+- Oxygen equipment supply
+- Patient reordering portal
 - Customer support
 
 ## Industries
+- Healthcare
 - Home healthcare
-- Durable medical equipment (DME)
 - Respiratory therapy
-- Sleep therapy
-- Diabetes care
+- Diabetes management
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -311,11 +327,13 @@ The company emphasizes a streamlined reordering process and responsive customer 
 
 <details><summary>Sources</summary>
 
-- Location: Lake Charles, Louisiana -> db
-- Product lines: CPAP/BiPAP, CGM, ventilator, oxygen supplies -> /
-- Services: reordering system, dedicated support lines, business hours -> /
-- Customer testimonials from Louisiana, Missouri, Illinois -> /
-- Company description as medical supplies distributor -> /
+- Headquarters in Lake Charles, Louisiana -> db
+- Distributes CPAP/BiPAP, CGM, ventilators, oxygen supplies -> /
+- Offers easy reordering system and dedicated customer support -> /
+- Serves patients in Missouri, Louisiana, Illinois -> /
+- Emphasizes streamlined reordering and responsive support -> /
+- Company type: distributor/reseller -> /
+- No founding year, ownership, employee count, certifications disclosed -> /
 </details>
 
 ---
@@ -325,31 +343,28 @@ The company emphasizes a streamlined reordering process and responsive customer 
 **Old description:** Please visit our lovely showroom in Southwest Denver, where we have many fine examples of our work and accessory items. We are located between intersections of Evans and Dartmouth on the west side of South Santa Fe Dr. (US 85).
 
 ## About
-Medicine Wolf Log Furniture operates a showroom and workshop in southwest Denver, Colorado, situated on South Santa Fe Drive between Evans and Dartmouth avenues. The company’s founding year and ownership structure are not publicly disclosed.
+Medicine Wolf Log Furniture operates a showroom and workshop in southwest Denver, Colorado, situated between Evans and Dartmouth avenues on South Santa Fe Drive. The company focuses on custom log furniture built to order, with a product line centered on aspen logs and beetle-kill pine. Customer testimonials frequently reference John as the builder behind custom pieces such as bathroom cabinets, deck furniture, and an aspen corner cabinet for a log home in Conifer.
 
-The business produces custom log furniture, specializing in aspen log and beetle-kill pine. Its product line spans more than a dozen categories, including tables, seating, bedroom sets, bathroom vanities, office furniture, dining room pieces, credenzas, bookcases, and outdoor furniture, all built to order in its Denver facility. The company also offers delivery and installation, as noted in customer testimonials.
+The company produces a range of log furniture categories including tables, seating, outdoor pieces, office furniture, media stands, living room sets, kitchen items, dining room collections, credenzas, bookcases, bedroom suites, bathroom vanities, and specialized lines in aspen log and beetle-kill pine furniture. All pieces are custom fabricated; the firm does not list standard production volumes, facility size, or headcount.
 
-Customers include owners of log homes and cabins throughout the Rocky Mountain region, with testimonials referencing projects in Conifer and other mountain communities. The company serves residential clients seeking custom cabinetry, dining room sets, and media stands crafted from locally sourced timber.
+Customers are primarily residential buyers furnishing log homes and cabins, as illustrated by testimonials from a homeowner in Conifer who commissioned an aspen corner cabinet and others who purchased deck furniture and bathroom cabinets. The company also serves clients seeking custom woodworking for mountain-style interiors.
 
-Medicine Wolf positions itself as a specialist in aspen and beetle-kill pine furniture, emphasizing craftsmanship and attention to detail in custom orders. The showroom displays a range of finished pieces and accessory items for clients to review before commissioning work.
+Medicine Wolf positions itself as a specialist in aspen log and beetle-kill pine furniture, emphasizing custom design and on-site delivery as noted in customer feedback. The company's blog covers topics such as aspen harvesting seasons and the ecological impact of pine beetles, reflecting its material focus.
 
 ## Known for
 - Custom furniture built to order
-- Showroom in Southwest Denver
-- Specializes in aspen log and beetle-kill pine
-- Delivery and installation service
+- Showroom in southwest Denver
+- Specializes in aspen log and beetle-kill pine furniture
+- Custom design and delivery service
 
 ## Capabilities
 - Custom furniture manufacturing
-- Log furniture craftsmanship
-- Custom cabinetry
-- Delivery and installation
+- Log furniture fabrication
+- Custom design
 
 ## Industries
 - Residential furniture
 - Log home furnishings
-- Cabin furnishings
-- Custom cabinetry
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -357,13 +372,13 @@ Medicine Wolf positions itself as a specialist in aspen and beetle-kill pine fur
 
 <details><summary>Sources</summary>
 
-- Location: Denver, Colorado (Southwest Denver, South Santa Fe Dr.) -> /
-- Specializes in aspen log and beetle-kill pine furniture -> /
+- Location: Denver, Colorado -> db
+- Showroom location: Southwest Denver between Evans and Dartmouth on South Santa Fe Dr. -> /
 - Custom furniture built to order -> /
-- Showroom with finished pieces and accessories -> /
-- Product categories: tables, seating, bedroom, bathroom vanities, office, dining, credenzas, bookcases, outdoor -> /
-- Delivery and installation mentioned in testimonials -> /
-- Customer projects in Conifer and mountain communities -> /
+- Specializes in aspen log and beetle kill pine furniture -> /
+- Product categories: tables, seating, outside, office, media stands, living room, kitchens, dining room, credenzas, bookcases, bedroom, bathroom vanities, aspen log furniture, beetle kill pine furniture -> /
+- Customer testimonials mention John as builder -> /
+- Blog posts on aspen harvesting and pine beetle -> /about-us
 </details>
 
 ---
@@ -373,38 +388,44 @@ Medicine Wolf positions itself as a specialist in aspen and beetle-kill pine fur
 **Old description:** We carry a large selection of new, used, NOS, NORS, and reproduction parts for your Mopar muscle car. We specialize in 1962-74 Mopars and have over 25,000 square feet of warehouse space packed full of parts, so feel free to contact us if you are looking for a particular part and you don't see it in our online store.
 
 ## About
-Mega Parts operates from Coon Valley, Wisconsin, where it maintains a 25,000-square-foot warehouse dedicated to parts for 1962–74 Mopar muscle cars.
+The facility houses both original and reproduction components, allowing the company to serve as a single-source supplier for restoration projects.
 
-Its catalog spans body panels, moldings, weatherstripping, fuel-system hardware, electrical harnesses, and interior trim, all organized through an online storefront. The 25,000-square-foot facility allows the company to keep thousands of part numbers on hand for immediate shipment.
+The company supplies new, used, new-old-stock (NOS), new-old-reproduction-stock (NORS), and reproduction components for Chrysler, Dodge, and Plymouth vehicles of the era. Its inventory spans body panels, moldings, fuel-system hardware, electrical harnesses, weatherstripping, and a wide range of trim and hardware items. The online store organizes parts into categories such as body, electrical, fuel, and interior, with thousands of individual listings that include reproduction door hinges, floor pans, quarter panels, and molding clip sets for virtually every body style. The company also offers service manuals on CD and air cleaner service instructions.
 
-Mega Parts primarily serves owners, restorers, and collectors of classic Mopar muscle cars, as well as restoration shops that need authentic or reproduction components for 1962–74 A-body, B-body, and E-body platforms. Customers range from individual enthusiasts rebuilding a single vehicle to professional shops sourcing hard-to-find items such as crossram components, convertible top hardware, or model-specific wiring harnesses.
+Customers include restoration shops, collectors, and enthusiasts working on A-body, B-body, and E-body Mopars. The catalog also covers accessories such as die-cast models, apparel, coffee mugs, and period literature, catering to both the functional and enthusiast sides of the hobby.
 
-The business distinguishes itself by focusing exclusively on the 1962–74 Mopar niche, offering both original NOS parts and reproduction items that are often unavailable elsewhere. The depth of inventory, combined with a single-location warehouse, enables the company to fulfill orders for rare trim pieces, molding clips, and model-specific hardware without relying on drop-shipping.
+The business focuses exclusively on the 1962–74 Mopar segment, aiming to provide a single source for hard-to-find parts.
 
 ## Known for
-- Over 25,000 square feet of warehouse space
-- Specializes in 1962–74 Mopar muscle cars
+- Over 25,000 sq ft of warehouse space dedicated to Mopar parts
+- Specializes exclusively in 1962–74 Chrysler, Dodge, and Plymouth vehicles
 - Carries new, used, NOS, NORS, and reproduction parts
-- Extensive online catalog with thousands of part numbers
+- Online store with thousands of part numbers across body, electrical, fuel, and trim categories
 
 ## Capabilities
-- Molding Clip Sets
-- Moldings Body Side
-- Moldings Convertible Belt
-- Moldings Deck Lid
-- Moldings Door Top
-- Moldings Drip Rail
-- Moldings Quarter
-- Moldings Rear Window
-- Moldings Rocker Panel
-- Moldings Tail Panel
-- Moldings Valance
-- Moldings Vinyl Top
-- Moldings Wheel Opening
-- Moldings Windshield
-- A-Pillar Moldings
-- Service Manuals CD
-- Air Cleaner Service Instructions
+- Molding clip sets
+- Body side moldings
+- Convertible belt moldings
+- Deck lid moldings
+- Door top moldings
+- Drip rail moldings
+- Quarter moldings
+- Rear window moldings
+- Rocker panel moldings
+- Tail panel moldings
+- Valance moldings
+- Vinyl top moldings
+- Wheel opening moldings
+- Windshield moldings
+- A-pillar moldings
+- Service manuals CD
+- Air cleaner service instructions
+
+## Industries
+- Mopar muscle car restoration
+- Classic automotive parts
+- Automotive aftermarket
+- Collectibles and memorabilia
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -416,10 +437,14 @@ The business distinguishes itself by focusing exclusively on the 1962–74 Mopar
 - Warehouse size: 25,000 sq ft -> db
 - Specialization: 1962-74 Mopar muscle cars -> db
 - Product types: new, used, NOS, NORS, reproduction -> db
-- Online store presence -> page:/
-- Capability list (molding clips, moldings, manuals) -> db
-- Product categories (body, electrical, fuel, trim) -> page:/
-- Customer focus: Mopar owners, restorers, shops -> page:/
+- Inventory categories: body panels, moldings, fuel-system hardware, electrical harnesses, weatherstripping, trim -> db, /
+- Online store with thousands of part numbers -> /
+- Reproduction door hinges, floor pans, quarter panels, molding clip sets -> /
+- Service manuals on CD, air cleaner service instructions -> db
+- Accessories: die-cast models, apparel, coffee mugs, literature -> /
+- Focus on 1962-74 Mopar segment -> db
+- Capabilities list: molding clip sets, various moldings, service manuals CD, air cleaner service instructions -> db
+- Industries: Mopar muscle car restoration, classic automotive parts, automotive aftermarket, collectibles -> db, /
 </details>
 
 ---
@@ -429,31 +454,33 @@ The business distinguishes itself by focusing exclusively on the 1962–74 Mopar
 **Old description:** Meidensha Corporation has been providing employees with hands-on safety education designed to stimulate danger sensitivity since 2008. In December 2016, Meidensha Corporation also began selling on-site education for clients seeking it at plants, construction sites and other locations outside the Company. Hands-on safety education is more effective than other methods, and is helping eradicate workplace accidents. Lessons that simulate the experience of workplace accidents are provided in all-weather hands-on safety education vehicles that eliminate the need for student movement.
 
 ## About
-Meiden America Switchgear, Inc. (MAS) was founded in 2020 and is headquartered in Gray Court, South Carolina, near Greenville. The company operates as a subsidiary of Meidensha Corporation, a Japanese manufacturer founded in 1897 in Tokyo. MAS was established to serve the North American power grid with high-voltage vacuum circuit breakers (VCBs) and vacuum interrupters (VIs), drawing on its parent company’s 125-year history in the industry. President Yukihiro Takeshita leads the operation, which celebrated its grand opening and first shipment on February 9, 2021.
+Meiden America Switchgear, Inc. is headquartered in Gray Court, South Carolina, near Greenville. The company was founded in 2020 as a subsidiary of Meidensha Corporation, a Tokyo-based manufacturer established in 1897. President Yukihiro Takeshita leads the operation, which celebrated its grand opening and first shipment on February 9, 2021.
 
-MAS designs, manufactures, tests, and sells 72.5 kV and 145 kV dry-air insulated dead-tank vacuum circuit breakers, as well as vacuum interrupter bottles. Meidensha pioneered vacuum interrupter technology in the mid-1960s and produced the world’s first 72.5 kV dry-air VCB in 2002, delivering more than 2,500 units globally, including over 1,000 to North American customers. The 145 kV dry-air VCB, introduced in late 2021, was another world first. The Gray Court facility handles full production from design through testing.
+The facility designs, manufactures, tests, and sells high-voltage vacuum circuit breakers (VCBs) at 72.5 kV and 145 kV ratings, along with vacuum interrupters (VIs). Its dead-tank VCBs use dry air as the insulating medium, eliminating the need for SF6 greenhouse gas. The parent company has produced vacuum interrupter bottles since 1967 and introduced the world's first 72.5 kV dry-air insulated VCB in 2002; more than 2,500 of those units have been delivered worldwide, including over 1,000 to North American customers. A 145 kV dry-air VCB followed in late 2021.
 
-The company serves electric power utilities across North America that are seeking to replace sulfur hexafluoride (SF6) gas with environmentally friendly dry-air insulation. It also supplies vacuum interrupters to North American original equipment manufacturers (OEMs) for integration into their own switchgear. The database lists power and energy and automotive testing systems as served industries.
+Primary customers are North American electric power utilities and original equipment manufacturers that integrate VIs into their own switchgear. The company serves the power and energy sector and also lists automotive testing systems among its industries.
 
-MAS positions its dry-air VCBs as a green alternative that eliminates SF6, a potent greenhouse gas, while offering zero emissions and low maintenance. The company’s mission is to lead the industry by providing high-value products that integrate cutting-edge technology and help customers meet environmental challenges.
+Meiden America states its mission is to lead the industry by providing high-value products that integrate cutting-edge technology drawn from 125 years of experience. The focus is on helping utilities and OEMs transition away from SF6 dependence toward environmentally conscious solutions.
 
 ## Known for
-- World's first 72.5 kV dry-air insulated dead-tank VCB (2002)
-- World's first 145 kV dry-air insulated dead-tank VCB (2021)
-- Over 2,500 72.5 kV dry-air VCBs delivered worldwide
+- World's first 72.5 kV dry-air insulated dead tank VCB (2002)
+- World's first 145 kV dry-air insulated dead tank VCB (2021)
+- Pioneer in vacuum interrupter technology since the mid-1960s
 - Dry-air insulation eliminates SF6 greenhouse gas
-- Vacuum interrupter technology pioneer since the 1960s
+- Over 2,500 units of 72.5 kV dry-air VCB delivered globally since 2004
 
 ## Capabilities
-- Vacuum circuit breaker design and manufacturing
-- Vacuum interrupter design and manufacturing
-- High-voltage testing
+- High-voltage vacuum circuit breaker manufacturing (72.5 kV, 145 kV)
+- Vacuum interrupter manufacturing
+- Design, testing, and sales of VCBs and VIs
 - Field service engineering
-- Dry-air insulated dead-tank VCB production
+- Dry-air insulation technology (SF6-free)
 
 ## Industries
 - Power and energy
 - Automotive testing systems
+- Electric power utilities
+- Original equipment manufacturers (OEMs)
 
 ## Certifications
 - ROHS
@@ -461,23 +488,28 @@ MAS positions its dry-air VCBs as a green alternative that eliminates SF6, a pot
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 2020
-- **Ownership:** Subsidiary of Meidensha Corporation (Japan)
+- **Ownership:** Subsidiary of Meidensha Corporation
 - **Headquarters:** Gray Court, South Carolina
 
 <details><summary>Sources</summary>
 
 - Headquartered in Gray Court, South Carolina -> /about
 - Founded in 2020 -> /about
-- Subsidiary of Meidensha Corporation -> /about
-- Design, manufacture, test and sell high-voltage vacuum circuit breakers and vacuum interrupters -> /about
-- 72.5 kV and 145 kV Dry Air VCBs -> /about
-- More than 2,500 72.5kV Dry Air VCBs delivered worldwide -> /about
-- World's first 145 kV Dry Air VCB in late 2021 -> /about
+- Subsidiary of Meidensha Corporation (founded 1897) -> /about
 - President Yukihiro Takeshita -> /about
-- Grand Opening February 9, 2021 -> /about
+- Grand opening February 9, 2021 -> /about
+- Designs, manufactures, tests, sells high-voltage VCBs and VIs -> /about
+- 72.5 kV and 145 kV dry-air insulated VCBs -> /about
+- Vacuum interrupter bottles since 1967 -> /about
+- World's first 72.5 kV dry-air VCB in 2002 -> /about
+- 2,500+ 72.5kV VCBs delivered worldwide, 1,000+ to North America -> /about
+- World's first 145 kV dry-air VCB late 2021 -> /about
+- Serves North American electric power utilities and OEMs -> /about
 - Industries: Power and energy, Automotive testing systems -> db
 - Certification: ROHS -> db
-- Website: https://www.meidenamericaswitchgear.com/ -> db
+- Pioneer in VI technology since mid-1960s -> /
+- World's first high voltage VI -> /
+- Dry air insulating medium eliminates SF6 -> /
 </details>
 
 ---
@@ -487,50 +519,50 @@ MAS positions its dry-air VCBs as a green alternative that eliminates SF6, a pot
 **Old description:** , way back in 1994, Melanzana has been dedicated to making apparel LOCALLY. We’ve always preferred to do it all right here, rather than “out-source” like most other US apparel companies, who simply send their concepts overseas to have everything cut and sewn elsewhere.
 
 ## About
-Melanzana Outdoor Clothing was founded in 1994 in Leadville, Colorado, as a local manufacturer of outdoor apparel. The company remains rooted in Leadville, where it began with a commitment to keep production domestic rather than outsourcing overseas. Ownership has transitioned to an employee-owned model, with more than 20 workers holding stock and a long-term goal of full employee ownership.
+Founded in 1994 in Leadville, Colorado, Melanzana Outdoor Clothing began as a local apparel manufacturer committed to domestic production. The founders chose Leadville for its affordable cost of living and outdoor lifestyle, building a workforce from the small mountain community.
 
-The company designs, cuts, and sews a range of outdoor garments—including hoodies, base layers, and accessories—at its Leadville factory and a newer facility in Alamosa. Together the two sites employ over 80 people in Leadville and 40 in Alamosa. Melanzana has developed more than 50 original product designs and emphasizes U.S.-made fabrics, though it sources Merino wool from Thailand when domestic equivalents are unavailable.
+The company designs, cuts, and sews its own line of outdoor apparel—including hoodies, base layers, and accessories—from factories in Leadville and Alamosa.
 
-Melanzana sells directly to consumers through its Leadville retail store and online shop, serving outdoor enthusiasts and mountain communities. The brand has become a fixture in the outdoor industry, with its hoodie design language widely imitated. The company also supports local nonprofits through programs such as PB & Melly, which offers paid employee time for community work, and 1% For The Outdoors, a voluntary donation program funding conservation and recreation groups in the region.
+Melanzana sells directly to consumers through its Leadville store and online shop, serving outdoor enthusiasts, hikers, and mountain-town residents. The brand has become a staple in the Colorado outdoor community, with products used by local nonprofits and trail organizations that the company supports through giving programs.
 
-Founded on the principle of local manufacturing, Melanzana differentiates itself through employee ownership, a focus on high-quality domestic textiles, and deep community investment. The company states that its evolution—from a single Leadville shop to a two-town operation—reflects a desire to maintain quality while reducing customer wait times.
+The company distinguishes itself by keeping production in Colorado, using predominantly U.S.-made fabrics, and operating as an employee-owned business. Its founding principle was to avoid outsourcing and provide good local jobs, a mission that continues to drive its expansion to Alamosa and its community giving programs such as PB & Melly and 1% For The Outdoors.
 
 ## Known for
-- Local manufacturing in Leadville and Alamosa, Colorado
-- Employee-owned structure with profit-sharing
-- Commitment to U.S.-made fabrics with high environmental and labor standards
+- All apparel cut and sewn in Colorado factories
+- Employee-owned with profit-sharing and stock ownership
 - Over 50 original product designs developed in-house
-- Community programs including PB & Melly and 1% For The Outdoors
+- Community giving programs including PB & Melly and 1% For The Outdoors
+- Factory tours offered at Leadville location
 
 ## Capabilities
-- Cut and sew manufacturing
-- Apparel design
-- Fabric sourcing
-- Retail operations
+- Cut and sew apparel manufacturing
+- Apparel design and development
+- Fabric sourcing and testing (primarily U.S.-made)
+- Direct-to-consumer retail and e-commerce
+- Factory tours
 
 ## Industries
-- Outdoor apparel
+- Outdoor recreation
 - Apparel manufacturing
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1994
-- **Employees:** Over 80 in Leadville, 40 in Alamosa
-- **Ownership:** Employee-owned
+- **Employees:** 120+
+- **Ownership:** Employee-owned (partial, with goal of full employee ownership)
 - **Headquarters:** Leadville, Colorado
 
 <details><summary>Sources</summary>
 
-- Founded 1994 in Leadville, CO -> /about
-- Employee-owned with over 20 employee-owners -> /about
+- Founded in 1994 in Leadville, Colorado -> /about
+- Dedicated to local manufacturing, not outsourcing -> /about
 - Over 80 employees in Leadville, 40 in Alamosa -> /about
-- Manufactures outdoor apparel (hoodies, base layers) -> /about
-- Uses US-made fabrics, Merino wool from Thailand -> /about
-- Over 50 original product designs -> /about
-- Sells via Leadville retail store and online -> /about
-- Community programs: PB & Melly, 1% For The Outdoors -> /about
-- Headquarters: Leadville, Colorado -> db
-- Website: melanzana.com -> db
+- Employee-owned with over 20 employees holding stock -> /about
+- Designed and sold over 50 original products -> /about
+- Uses primarily U.S.-made fabrics, with Merino wool from Thailand -> /about
+- Community programs: PB & Melly, 1% For The Outdoors, annual donations over $60,000 -> /about
+- Operates retail store in Leadville and online store -> /
+- Factory tours available -> /about
 </details>
 
 ---
@@ -540,34 +572,35 @@ Founded on the principle of local manufacturing, Melanzana differentiates itself
 **Old description:** We have been in the spring-manufacturing business for 70 years and have a wealth of experience behind us.  Our friendly and knowledgeable staff will work closely with you to produce the best product at a competitive price while ensuring the quality of your spring's design.
 
 ## About
-Mercer Spring & Wire LLC operates from Townville, Pennsylvania. The company has been in the spring-manufacturing business for 70 years, building a depth of experience in cold-formed springs and wire forms. No founding year or founder names are publicly disclosed, and ownership structure has not been specified.
+Mercer Spring & Wire Co operates from Townville, Pennsylvania, where it has been producing springs for over 70 years. The company does not disclose its exact founding year or ownership structure, but its longevity reflects deep experience in cold-formed spring manufacturing.
 
-The shop specializes in cold-wound compression, torsion, and extension springs, as well as custom wire forms. It works with wire diameters from 0.008 inch to 0.500 inch in grades that include music wire, hard-drawn spring wire, oil-tempered spring wire, 302 and 316 stainless steel, beryllium copper, and both round and rectangular profiles. The facility is ISO 9001:2015 certified, and all products are made in the United States.
+The shop specializes in cold-wound compression, torsion, and extension springs, as well as wire forms, working with wire diameters from 0.008 to 0.500 inches. Materials include music wire, hard-drawn and oil-tempered spring wire, 302 and 316 stainless steel, beryllium copper, and various round and rectangular profiles. The facility is ISO 9001:2015 certified, and all products are made in the United States.
 
-Customers come from automotive, electrical switch gear, safety equipment, air/gas/refrigeration, and medical equipment sectors. The company also lists miscellaneous industrial applications among its served markets.
+Mercer Spring serves the automotive, electrical switchgear, safety equipment, air/gas/refrigeration, and medical equipment sectors, along with a miscellaneous industrial customer base. The company emphasizes custom spring orders and works closely with clients on design and quality.
 
-Mercer Spring emphasizes a collaborative approach, stating that its staff works closely with clients to optimize spring design for quality and cost. Its ISO certification, held since 1998, is presented as evidence of consistent manufacturing standards and on-time delivery.
+The company highlights its ISO certification, held since 1998, as a foundation for consistent quality, on-time delivery, and customer-focused service. Its staff promotes competitive pricing and collaborative design support as key differentiators.
 
 ## Known for
-- Custom spring orders are a core specialty
 - ISO 9001:2015 certified since 1998
-- All products manufactured in the USA
 - Wire diameter range 0.008"–0.500"
-- Broad wire-grade selection including 302/316 SS and beryllium copper
+- Broad material selection including music wire, stainless steel, beryllium copper
+- All products manufactured in the USA
+- Custom spring orders a core specialty
 
 ## Capabilities
 - Cold-wound compression springs
-- Torsion springs
-- Extension springs
+- Cold-wound torsion springs
+- Cold-wound extension springs
 - Wire forms
 - Custom spring design and manufacturing
 
 ## Industries
 - Automotive
-- Electrical switch gear
+- Electrical switchgear
 - Safety equipment
 - Air, gas, and refrigeration
 - Medical equipment
+- Miscellaneous industrial
 
 ## Certifications
 - ISO 9001:2015
@@ -578,16 +611,18 @@ Mercer Spring emphasizes a collaborative approach, stating that its staff works 
 
 <details><summary>Sources</summary>
 
-- Headquarters: Townville, Pennsylvania -> db
-- 70 years in spring-manufacturing business -> /
-- Manufacturer of cold-wound compression, torsion, extension springs, and wire forms -> /
-- Wire diameters 0.008" to 0.500" -> /
+- Location: Townville, Pennsylvania -> db
+- 70 years in spring manufacturing -> db and /
+- Manufacturer of cold-wound compression, torsion, extension springs, wire forms -> /
+- Wire diameter range 0.008" to 0.500" -> /
 - Materials: music wire, hard drawn spring wire, oil tempered spring wire, 302 and 316 SS, beryllium copper, round and rectangular wires -> /
-- ISO 9001:2015 Certified -> /
-- ISO 9001 Certified since 1998 -> /about
-- Industries served: Automotive, Electrical Switch Gear, Safety Equipment, Air, Gas and Refrigeration, Medical equipment -> / and db
+- ISO 9001:2015 certified -> / and /about
+- ISO certified since 1998 -> /about
 - All products made in USA -> /
+- Industries served: Automotive, Electrical Switch Gear, Safety Equipment, Miscellaneous, Air, Gas and Refrigeration -> /
+- Industries served: Automotive Supplier, Medical equipment -> db
 - Custom spring orders are our specialty -> /
+- Friendly knowledgeable staff, competitive price, quality design -> db
 </details>
 
 ---

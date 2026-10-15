@@ -3,33 +3,36 @@
 **Old description:** Birch Stream Farms is a local food manufacturing and packaging company located in Bangor, Maine, that specializes in providing frozen entrées for senior “Meals on Wheels” programs. We take pride in the fact that our meals are not only delicious and nutritious, but they are also handmade in Maine.
 
 ## About
-Birch Stream Farms operates from Bangor, Maine, as a local food manufacturing and packaging company. The business specializes in producing frozen entrées for senior Meals on Wheels programs.
+Birch Stream Farms operates from Bangor, Maine, where it produces frozen entrées for senior Meals on Wheels programs. The company describes itself as a local food manufacturing and packaging business, though its founding year and ownership structure are not publicly disclosed.
 
-The company prepares a range of frozen meals that are handmade by a team of chefs and staff. Each meal undergoes continual testing for consistency and quality before distribution. The product line includes comfort-food, diabetic-friendly, gluten-free, heart-friendly, low-sodium, puréed, renal-friendly, and vegetarian options. Meals are packaged and shipped frozen to local Agencies on Aging, where volunteers deliver them to homebound seniors.
+The facility prepares meals by hand using a team of chefs and staff, with each batch tested for consistency and quality. The product line spans eight dietary categories, including comfort food, diabetic-friendly, gluten-free, heart-friendly, low-sodium, puréed, renal-friendly, and vegetarian options. After packaging, frozen meals are distributed to local Agencies on Aging for delivery to homebound seniors.
 
-Birch Stream Farms primarily serves senior nutrition programs, including Meals on Wheels initiatives and Area Agencies on Aging across Maine. Its customers are organizations that provide meal delivery to elderly and homebound individuals.
+The primary customers are Agencies on Aging that administer Meals on Wheels programs across Maine. The company focuses on the senior nutrition sector, providing meals that meet specific dietary requirements for older adults.
 
-The company emphasizes that its meals are made in Maine, highlighting local production as a point of differentiation. It also stresses accurate and thorough nutrition information to ensure meals meet specific dietary requirements.
+Birch Stream Farms emphasizes that its meals are handmade in Maine and backed by thorough nutrition information. The company states it makes product and service commitments it can guarantee, aiming to deliver safe, high-quality food at a fair value.
 
 ## Known for
 - Handmade in Maine
-- Frozen entrées tailored for Meals on Wheels programs
-- Meals prepared by dedicated chefs and continually quality-tested
-- Comprehensive nutrition labeling for specialized diets
-- Variety of diet-specific options including diabetic-friendly, gluten-free, and renal-friendly
+- Meals continually tested for consistency and quality
+- Accurate and thorough nutrition information provided
+- Eight specialized dietary meal categories
+- Serves Meals on Wheels programs through Agencies on Aging
 
 ## Capabilities
 - Food manufacturing
 - Food packaging
 - Frozen entrée production
-- Meal preparation
-- Quality testing
-- Nutrition analysis
+- Handmade meal preparation
+- Quality testing and consistency control
+- Nutrition analysis and labeling
+- Specialized dietary meal formulation
+- Distribution to Agencies on Aging
 
 ## Industries
 - Senior nutrition programs
 - Meals on Wheels
-- Area Agencies on Aging
+- Aging services
+- Healthcare food service
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -37,13 +40,14 @@ The company emphasizes that its meals are made in Maine, highlighting local prod
 
 <details><summary>Sources</summary>
 
-- Location: Bangor, Maine -> /
-- Business type: food manufacturing and packaging company -> /
-- Specialization: frozen entrées for senior Meals on Wheels programs -> /
-- Meals handmade by chefs and staff, continually tested for consistency and quality -> /
-- Meal categories: Comfort-Food, Diabetic-Friendly, Gluten-Free, Heart-Friendly, Low-Sodium, Puréed, Renal-Friendly, Vegetarian -> /
-- Distribution: to local Agencies on Aging, volunteers deliver to homebound seniors -> /
-- Emphasis on accurate nutrition information -> /
+- Location: Bangor, Maine -> db
+- Business type: food manufacturing and packaging -> db
+- Specialization: frozen entrées for senior Meals on Wheels programs -> db
+- Meals handmade in Maine -> /
+- Team of chefs and staff, meals tested for consistency and quality -> /
+- Eight dietary meal categories listed -> /
+- Distribution through Agencies on Aging to homebound seniors -> /
+- Commitment to safe, high-quality food at fair value -> /
 </details>
 
 ---
@@ -53,28 +57,28 @@ The company emphasizes that its meals are made in Maine, highlighting local prod
 **Old description:** Bisel Manufacturing LLC is a locally owned and operated custom electrical control panel manufacturer with more than 50-years of experience. Bisel Manufacturing has been building customized panels in Sandy, Utah since 2002 and we have produced panels for major universities, school districts, water facilities, and industrial applications.
 
 ## About
-Bisel Manufacturing LLC is a locally owned and operated custom electrical control panel manufacturer based in Sandy, Utah. The company has been building customized panels at its Sandy facility since 2002, drawing on more than 50 years of combined experience in the control panel industry.
+Bisel Manufacturing LLC operates from Sandy, Utah, where it has built custom electrical control panels since 2002. The company describes itself as locally owned and operated, drawing on more than 50 years of combined industry experience among its team.
 
-The company specializes in the design and fabrication of custom electrical control panels for a range of applications. Its manufacturing process covers panel assembly, wiring, and testing to meet specific project requirements. While facility size and headcount are not publicly disclosed, the operation serves both small-scale and larger industrial orders.
+The shop specializes in the design and fabrication of custom electrical control panels for a range of applications. While specific processes, facility size, and headcount are not publicly disclosed, the business focuses on tailored panel assemblies rather than mass-produced stock items, serving projects that require precise integration with existing systems.
 
-Bisel Manufacturing’s customer base includes major universities, school districts, water treatment facilities, and various industrial clients. These sectors rely on the company’s panels for automation, power distribution, and control systems in educational, municipal, and industrial settings.
+Its customer base includes major universities, school districts, water treatment facilities, and various industrial operations. These sectors rely on the company for panels that meet specific operational and regulatory requirements, often involving complex control sequences and harsh environmental conditions.
 
-The firm emphasizes its local ownership and deep industry experience as key differentiators, positioning itself as a dedicated partner for custom control panel solutions in the Intermountain West.
+Bisel Manufacturing emphasizes its deep experience and local ownership as key differentiators, positioning itself as a partner that understands the unique demands of institutional and infrastructure projects. The company’s longevity in the region underscores a commitment to responsive service and technical continuity.
 
 ## Known for
 - Locally owned and operated
-- Over 50 years of experience in control panel manufacturing
-- Custom panels for universities, school districts, water facilities, and industrial applications
+- Over 50 years of industry experience
+- Custom electrical control panels since 2002
 
 ## Capabilities
 - Custom electrical control panel manufacturing
-- Control panel assembly and wiring
-- Panel testing and inspection
+- Control panel fabrication and assembly
 
 ## Industries
-- Education (universities and school districts)
-- Water and wastewater treatment
-- Industrial manufacturing
+- Universities
+- School districts
+- Water facilities
+- Industrial applications
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -84,9 +88,11 @@ The firm emphasizes its local ownership and deep industry experience as key diff
 
 <details><summary>Sources</summary>
 
-- Locally owned and operated custom electrical control panel manufacturer -> db
-- Building customized panels in Sandy, Utah since 2002 -> db
+- Company name: Bisel Manufacturing LLC -> db
+- Locally owned and operated -> db
+- Custom electrical control panel manufacturer -> db
 - More than 50 years of experience -> db
+- Building customized panels in Sandy, Utah since 2002 -> db
 - Produced panels for major universities, school districts, water facilities, and industrial applications -> db
 </details>
 
@@ -97,38 +103,36 @@ The firm emphasizes its local ownership and deep industry experience as key diff
 **Old description:** By the Bishop Lifting Team • Riggers, Fabricators & Inspectors Since 1984 • 40+ Branch Locations •…
 
 ## About
-Bishop Lifting, operating as Silver State Wire Rope & Rigging, was founded in 1984 and is headquartered in Las Vegas, Nevada. The company has grown to more than 40 branch locations across the United States.
+Bishop Lifting, operating as Silver State Wire Rope & Rigging, was founded in 1984 in Las Vegas, Nevada. The company began as a rigging and inspection service and has grown to over 40 branch locations across the United States.
 
-The company supplies a broad range of lifting and rigging equipment, including wire rope, chain, synthetic slings, hardware, fall protection, hoists, cranes, and arborist gear. It also operates a fabrication shop that builds custom slings and assemblies to order, and provides equipment rentals, inspection and certification services, training, asset management, and cable spooling. Its inventory spans products from brands such as Crosby, Gunnebo, Peerless, Caldwell, and Tractel.
+The company supplies a broad range of lifting and rigging equipment, including wire rope, chain, synthetic slings, hardware, hoists, cranes, and fall protection gear from manufacturers such as Crosby, Gunnebo, Peerless, and Thern. In addition to distribution, Bishop Lifting fabricates custom slings to order, provides equipment rentals for offshore and industrial applications, and offers inspection, certification, and training services. Its service portfolio also includes asset management and cable spooling.
 
-Bishop Lifting serves customers in construction, offshore oil and gas, industrial manufacturing, arboriculture, logging, and transportation sectors. Its product categories include dedicated sections for arborist and tree gear, logging supplies, offshore and industrial rental catalogs, and load securement hardware.
+Bishop Lifting serves customers in offshore oil and gas, industrial maintenance, arboriculture, and logging sectors, as reflected in its dedicated offshore and industrial rental catalogs and specialized arborist and logging product lines.
 
-The company emphasizes its deep expertise as riggers, fabricators, and inspectors, and highlights the availability of both above‑the‑hook and below‑the‑hook inventory when customers need it. Free shipping on most orders over $199 and a network of 40-plus branches support rapid fulfillment.
+The company emphasizes its deep expertise built over four decades, with a network of 40-plus branches that allows it to deliver inventory and support quickly for both routine and complex lifting challenges.
 
 ## Known for
 - 40+ branch locations nationwide
 - Custom sling fabrication to order
-- Equipment rentals with offshore and industrial catalogs
-- Inspection, certification, and training services
-- Free shipping on most orders over $199
+- Offshore and industrial equipment rentals
+- OSHA-compliant sling inspection and certification
+- Safety training and education programs
 
 ## Capabilities
 - Custom sling fabrication
-- Sling building
-- Equipment rentals
-- Inspection and certification
-- Training and education
+- Equipment rental
+- Sling inspection and certification
+- Safety training
 - Asset management
 - Cable spooling
-- Custom fabrication labor
+- Straight-line tension testing
+- Tie-down and towing service
 
 ## Industries
-- Construction
 - Offshore oil and gas
-- Industrial manufacturing
+- Industrial maintenance
 - Arboriculture
 - Logging
-- Transportation (load securement)
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -139,19 +143,14 @@ The company emphasizes its deep expertise as riggers, fabricators, and inspector
 
 - Founded 1984 -> db
 - Headquarters Las Vegas, Nevada -> db
-- 40+ branch locations -> homepage
-- Riggers, Fabricators & Inspectors Since 1984 -> homepage
-- Services: Fabrication, Sling Building, Rentals, Inspection & Certification, Training, Asset Management, Cable Spooling -> /services page
-- Custom sling fabrication to order -> homepage
-- Product categories: wire rope, chain, synthetic slings, hardware, fall protection, hoists, cranes, arborist gear -> homepage
-- Brands carried: Crosby, Gunnebo, Peerless, Caldwell, Tractel, etc. -> homepage
-- Industries served: arborist, logging, offshore, industrial, load securement -> homepage
-- Free shipping on most orders over $199 -> homepage
-- Offshore rentals catalog -> homepage
-- Industrial rentals catalog -> homepage
-- Arborist + Tree Gear category -> homepage
-- Logging Supplies category -> homepage
-- Load Securement category -> homepage
+- 40+ branch locations -> home page
+- Custom sling fabrication to order -> home page
+- Offshore and industrial rentals -> home page
+- Inspection & certification services -> services page
+- Training services -> services page
+- Asset management and cable spooling -> services page
+- Serves offshore, industrial, arborist, logging -> home page product categories
+- Straight-line tension, tie-down and towing service -> capabilities array
 </details>
 
 ---
@@ -161,49 +160,50 @@ The company emphasizes its deep expertise as riggers, fabricators, and inspector
 **Old description:** Come join us, Friday May 15th at 1PM for the Official Alpine Volks Fair Mk6 Meet! Bring your Mk6 (or whatever you drive, all cars are welcome, but MK6s get...
 
 ## About
-Black Forest Industries is based in Cary, North Carolina, and was founded in 2001. The company operates as a retailer and service provider specializing in European automotive parts and performance products.
+Black Forest Industries operates from Cary, North Carolina, and was founded in 2001. The company is privately held; ownership details and founder names are not publicly disclosed.
 
-The company offers a range of aftermarket components including shift knobs, shift boots, shift paddles, engine mounts, wheels, wheel spacers, wheel parts, catch cans, car care products, oils, additives, and branded merchandise. It also provides local installation and service through its facility, supported by knowledgeable service advisors. The business sells both its own branded items, such as the GS4 shift knob for Porsche and BFI apparel, and parts from other manufacturers.
+The business focuses on European automotive parts and performance products, offering shift knobs, shift boots, engine mounts, wheels, wheel spacers, catch cans, and car care supplies through an online store with free shipping on orders over $150. It also runs a local service shop for installation and maintenance, and supports a dealer network through a locator and inquiry system for wholesale distribution. Merchandise such as branded hoodies and tees are sold alongside parts.
 
-Black Forest Industries serves European car enthusiasts and owners, with a focus on brands like BMW and Porsche. Its customer base includes individual consumers purchasing through the online shop and wholesale buyers via a dealer network. Concrete examples from the company's blog include a BMW X5 project for Bimmer Invasion 2026 and the release of a GS4 shift knob for Porsche fitments.
+Customers include European car enthusiasts, independent repair shops, and dealers servicing brands such as BMW, Porsche, and Volkswagen. The company’s blog documents project builds like a BMW X5 for Bimmer Invasion and a Porsche-specific shift knob release.
 
-The company emphasizes competitive parts and labor rates, free shipping on orders over $150, and a dealer locator for broader distribution. No explicit founding mission or unique differentiator beyond these service offerings is stated in the available sources.
+Black Forest Industries emphasizes knowledgeable service advisors, competitive parts and labor rates, and free shipping on orders over $150 as key differentiators.
 
 ## Known for
-- Free shipping on orders over $150
-- Highly competitive parts and labor rates
 - Knowledgeable service advisors
-- Local installation service
-- Dealer network with locator
+- Competitive parts and labor rates
+- Free shipping on orders over $150
+- Dealer network with locator and inquiry system
+- Local installation and service shop
 
 ## Capabilities
 - Automotive parts retail
-- Performance parts sales
-- Installation services
-- Service advising
-- Wholesale distribution
-- Branded product design (shift knobs, apparel)
+- Performance parts installation
+- Dealer distribution
+- Merchandise sales
+- Automotive service advising
 
 ## Industries
-- European automotive parts and performance
+- Automotive aftermarket
+- European vehicle performance parts
+- Automotive retail
 
 ## Company details
-- **Company Type:** Retailer
+- **Company Type:** Distributor / reseller
 - **Founded:** 2001
 - **Headquarters:** Cary, North Carolina
 
 <details><summary>Sources</summary>
 
-- Founded in 2001 -> db
-- Headquarters in Cary, North Carolina -> db
-- Business described as European Automotive Parts and Performance -> homepage (/) 
-- Product categories: shift knobs, shift boots, shift paddles, engine mounts, wheels, wheel spacers, wheel parts, catch cans, car care, oil & additives, merch -> homepage (/) 
-- Offers local installation service -> homepage (/) 
-- Knowledgeable service advisors -> db (capabilities)
-- Branded products: BFI PaRtY hoodie, GS4 shift knob for Porsche -> homepage (/) 
-- Free shipping on orders over $150 -> homepage (/) 
-- Dealer locator and dealer inquiry -> homepage (/) 
-- Blog mentions BMW X5 project and Porsche fitments -> homepage (/) 
+- Founded 2001 -> db
+- Headquarters Cary, North Carolina -> db
+- European automotive parts and performance retailer -> homepage
+- Local service/installation offered -> homepage
+- Dealer network with locator and inquiry -> homepage
+- Free shipping on orders $150+ -> homepage
+- Knowledgeable service advisors -> db capabilities
+- Sells shift knobs, engine mounts, wheels, catch cans, car care -> homepage
+- Merchandise includes branded hoodies and tees -> homepage
+- Blog features BMW, Porsche, Volkswagen projects -> homepage
 </details>
 
 ---
@@ -213,49 +213,42 @@ The company emphasizes competitive parts and labor rates, free shipping on order
 **Old description:** We have been supporting construction companies in South Carolina since 1982. Today, we remain dedicated to providing excellent service and helping you grow your fleet.
 
 ## About
-Blanchard Machinery’s Columbia headquarters has operated from West Columbia, South Carolina since 1982. The company began as a construction equipment dealer serving contractors across the state.
+Blanchard Machinery's Columbia headquarters has operated from West Columbia, South Carolina since 1982. The location serves as the company's main office and supports a network of branches across the state. Ownership details and founder names are not publicly disclosed.
 
-As South Carolina’s exclusive Caterpillar dealer, Blanchard Machinery sells new and used Cat equipment — including backhoe loaders, compact track loaders, dozers, excavators, motor graders, skid steer loaders, and wheel loaders — as well as machinery from other supported brands. The location stocks over one million genuine Cat parts and runs a full-service machine shop capable of machining, hydraulics repair, engine and component rebuilds, and diesel particulate filter cleaning. Additional services cover power generation: generator maintenance, fuel polishing, advanced electrical work, and extended service coverage agreements.
+The facility functions as South Carolina's exclusive Caterpillar dealer, selling new and used Cat equipment — including backhoe loaders, compact track loaders, dozers, excavators, motor graders, skid steer loaders, and wheel loaders — alongside machinery from other supported brands. It also stocks a large inventory of genuine Cat parts and provides in-house machining, hydraulics service, engine and component rebuilds, diesel particulate filter cleaning, and power generation services such as generator maintenance, fuel polishing, and advanced electrical work.
 
-The dealer serves construction companies in 20 South Carolina counties, among them Aiken, Allendale, Bamberg, Barnwell, Calhoun, Chesterfield, Edgefield, Fairfield, Greenwood, Kershaw, Lexington, McCormick, Newberry, Orangeburg, Richland, Saluda, and Sumter. It also supports the energy sector with power generation services for commercial and industrial clients.
+Primary customers are construction contractors across Aiken, Allendale, Bamberg, Barnwell, Calhoun, Chesterfield, Edgefield, Fairfield, Greenwood, Kershaw, Lexington, McCormick, Newberry, Orangeburg, Richland, Saluda, and Sumter counties. The energy sector is also served through Blanchard Energy Services, which handles power system service and repair for commercial and industrial clients.
 
-What sets the operation apart is its factory-trained technician team, the breadth of its on-site parts inventory, and the ability to handle machining, hydraulics, and engine rebuilds under one roof. The company’s stated focus is on keeping customers’ fleets running and minimizing downtime.
+The company emphasizes its long-standing regional presence and exclusive Cat dealership status as key differentiators, aiming to help customers grow their fleets through equipment sales, parts availability, and comprehensive service support.
 
 ## Known for
-- Exclusive Caterpillar dealer for South Carolina
-- Over one million genuine Cat parts in stock
-- On-site machine shop for machining, hydraulics, and engine rebuilds
-- Power generation services including fuel polishing and DPF cleaning
-- Factory-trained technicians and extended service coverage options
+- South Carolina's exclusive Caterpillar dealer
+- In-house machining, hydraulics, and component rebuild capabilities
+- Large stock of genuine Cat parts
+- Power generation services including generator maintenance and fuel polishing
+- Coverage across 18 South Carolina counties
 
 ## Capabilities
-- New Cat Equipment Sales
-- Used Cat & Non-Cat Equipment Sales
-- Cat Parts & Service
-- Power Generation Parts & Service
-- Machining and Hydraulics Service
-- Advanced Electrical Services
-- Extended Service Coverage
-- Generator Service
-- Service Information Systems
-- Fuel Polishing Service
-- Diesel Particulate Filter (DPF) Cleaning
-- Engine & Component Rebuilds
-- Component and Equipment Rebuild
+- New Cat equipment sales
+- Used equipment sales
+- Cat parts supply
+- Machining service
+- Hydraulics service
+- Engine rebuild
+- Component rebuild
+- Diesel particulate filter cleaning
+- Generator service
+- Fuel polishing
+- Advanced electrical services
+- Extended service coverage
+- Power systems service and repair
+- Service information systems
+- Blanchard Energy Services
 
 ## Industries
 - Construction
 - Energy
 - Power Generation
-
-## Equipment
-- Backhoe loaders
-- Compact track loaders
-- Dozers
-- Excavators
-- Motor graders
-- Skid steer loaders
-- Wheel loaders
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -266,13 +259,14 @@ What sets the operation apart is its factory-trained technician team, the breadt
 
 - Founded 1982 -> db
 - Headquarters West Columbia, SC -> db
-- Exclusive Cat dealer in South Carolina -> /
-- New and used Cat equipment sales (backhoe loaders, compact track loaders, dozers, excavators, motor graders, skid steer loaders, wheel loaders) -> /
-- Over one million genuine Cat parts -> /
-- Machining and hydraulics service, engine and component rebuilds, DPF cleaning -> /
-- Power generation services: generator service, fuel polishing, advanced electrical, extended service coverage -> /
-- Serves construction companies in 20 SC counties (list) -> /
-- Serves energy sector with power generation -> /
+- Exclusive Cat dealer -> page "/"
+- New and used Cat equipment sales -> page "/"
+- Machining and hydraulics service -> page "/"
+- Engine and component rebuilds -> page "/"
+- DPF cleaning -> page "/"
+- Power generation services -> page "/"
+- Service area counties -> page "/"
+- Languages English and Spanish -> page "/"
 </details>
 
 ---
@@ -282,29 +276,30 @@ What sets the operation apart is its factory-trained technician team, the breadt
 **Old description:** Handcrafted, Custom-Made Woodworking of Live-Edge & Farmhouse Style Tables in the Mountains of North Carolina
 
 ## About
-Blowing Rock Woodworks was founded in 2016 in Deep Gap, North Carolina, a small community in the Blue Ridge Mountains. The company specializes in handcrafted, custom-made live-edge and farmhouse-style tables, operating as an independent woodworking shop. No founder names or ownership structure are publicly disclosed.
+Blowing Rock Woodworks operates from Deep Gap, North Carolina, in the Blue Ridge Mountains. The company was founded in 2016 and specializes in handcrafted, custom-made live-edge and farmhouse-style tables.
 
-The shop produces dining tables, conference tables, coffee tables, headboards, and desks using reclaimed barn wood and a variety of other wood species. Customers can specify dimensions, choose from solid steel bases or custom wooden bases, and select their preferred wood species. The operation focuses on made-to-order pieces rather than volume production; no facility size, headcount, or annual output figures are published.
+The shop produces dining tables, conference tables, coffee tables, headboards, and desks using live-edge slabs and reclaimed barn wood. Customers can select their preferred wood species, specify dimensions, and choose between solid steel bases or custom wooden bases. Each piece is built to order, allowing for a high degree of personalization.
 
-The furniture serves both residential and commercial clients, with conference tables and desks suited for office environments and dining tables, coffee tables, and headboards for homes. The company does not disclose specific industry sectors or named accounts, but its product range suggests a focus on interior design, hospitality, and corporate office furnishings.
+The product line addresses both residential and commercial needs: dining and coffee tables for homes, conference tables for offices, and headboards for bedrooms. The custom approach also appeals to interior designers looking for unique statement pieces, as suggested by the company's invitation to chat with a designer.
 
-Blowing Rock Woodworks emphasizes its over ten years of woodworking experience and a design process that lets clients tailor every aspect of their table, from wood species to base style. The business was built on the premise of offering personalized, live-edge furniture that reflects the character of reclaimed materials, positioning customization as its core differentiator.
+Blowing Rock Woodworks emphasizes its over ten years of woodworking experience and a design process that lets customers choose wood species, dimensions, and base style to create a one-of-a-kind piece.
 
 ## Known for
 - Over 10 years of woodworking experience
 - Custom wood species selection
 - Custom sizing for any space
 - Choice of solid steel or custom wooden bases
-- Live-edge and farmhouse styles using reclaimed barn wood
 
 ## Capabilities
-- Live Edge
-- Reclaimed Barn Wood
-- Dining Tables
-- Conference Tables
-- Coffee Tables
-- Headboards
-- Desks
+- Live-edge woodworking
+- Reclaimed barn wood fabrication
+- Custom dining table manufacturing
+- Custom conference table manufacturing
+- Custom coffee table manufacturing
+- Headboard manufacturing
+- Desk manufacturing
+- Steel base fabrication
+- Custom wooden base fabrication
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -314,13 +309,13 @@ Blowing Rock Woodworks emphasizes its over ten years of woodworking experience a
 <details><summary>Sources</summary>
 
 - Founded in 2016 -> db
-- Headquarters in Deep Gap, North Carolina -> db
-- Handcrafted custom live-edge and farmhouse style tables -> db
-- Over 10 years of experience -> page "/"
-- Customizable wood species, size, and base options -> page "/"
-- Products: dining tables, conference tables, coffee tables, headboards, desks -> db
-- Uses reclaimed barn wood -> db and page "/"
-- Solid steel bases or custom wooden bases offered -> page "/"
+- Headquarters in Deep Gap, NC -> db
+- Capabilities: Live Edge, Reclaimed Barn Wood, Dining Tables, Conference Tables, Coffee Tables, Headboards, Desks -> db
+- Over 10 years of experience -> /
+- Custom wood species selection -> /
+- Custom sizing -> /
+- Solid steel bases and custom wooden bases -> /
+- Invitation to chat with a designer -> /
 </details>
 
 ---
@@ -330,33 +325,34 @@ Blowing Rock Woodworks emphasizes its over ten years of woodworking experience a
 **Old description:** All of our systems are designed by a NABCEP certified professional to ensure your system is optimally designed.
 
 ## About
-Founded in 2012 in Dubuque, Iowa, Blue Sky Solar Co operates as a solar integrator led by President Barney Grobstick, who brought three decades of electrical contracting experience to the venture. The company emerged from the Midwest’s growing renewable energy sector with a focus on turnkey solar solutions.
+Blue Sky Solar Co was founded in 2012 in Dubuque, Iowa. The company is led by President Barney Grobstick, who brings over three decades of electrical industry experience, including nine years in solar. Grobstick grew a prior electrical contracting business from nine journeymen to one of the Midwest’s largest electrical contractors before steering Blue Sky Solar Co.
 
-The firm designs, procures, constructs, and maintains photovoltaic systems across commercial, residential, municipal, agricultural, academic, and utility-scale segments. Its crews have completed more than 500 projects totaling over 50 megawatts of installed capacity, and the company also arranges power purchase agreements and lease financing for customers who prefer not to own the assets outright. Service technicians perform maintenance and warranty repairs on any array, regardless of original installer.
+The firm provides end-to-end solar solutions: system design by a NABCEP‑certified professional, procurement of vetted components, construction and installation, project financing through power purchase agreements or leases, and ongoing service, maintenance, and monitoring. Since inception, crews have completed more than 500 installations totaling over 50 megawatts across commercial, residential, municipal, agricultural, academic, and utility‑scale projects. The team also installs battery storage and EV charging systems and integrates SCADA solutions.
 
-Customers range from private businesses and homeowners to school districts, farms, and utility operators throughout the Tri-State area. The company cites work on battery energy storage systems and electric vehicle charging infrastructure as growing practice areas, and it emphasizes partnerships with multiple equipment manufacturers to source panels, inverters, and storage hardware.
+Customers span the commercial, residential, municipal, agricultural, academic, and utility sectors. The company has developed projects for farms leveraging USDA grants, schools using direct-pay tax credits, and large-scale utility installations. It also structures PPAs and lease options for clients without upfront capital.
 
-Blue Sky Solar Co says its differentiation rests on NABCEP-certified system design, a decade of regional policy expertise, and a community-first ethos that aims to leave each locality better than it was found. Leadership highlights ongoing education on incentives and technology as a core driver for the business.
+Blue Sky Solar Co emphasizes community impact and industry advancement. Its mission stresses innovation, education on new technology and incentives, and leaving each community better than it was found. The leadership team includes a licensed master electrician with NABCEP certification, a construction manager with 15 years of experience, and a policy expert with a banking background.
 
 ## Known for
-- All systems designed by a NABCEP certified professional
-- Over 50 megawatts of solar installation experience
-- 500+ completed projects across commercial, residential, and utility sectors
-- Turnkey PPA and lease financing options
-- Service and repair on any array, regardless of original installer
+- Systems designed by a NABCEP‑certified professional
+- Over 50 MW of solar installation experience
+- 500+ completed projects across multiple market segments
+- Certified to install and service multiple manufacturers’ energy storage systems
+- Turn‑key PPA and lease financing options
 
 ## Capabilities
-- Solar system design
-- Procurement of solar components
-- Construction/installation
-- Project financing (PPA/lease)
-- Service & maintenance
-- Battery energy storage installation
-- EV charging installation
+- Solar PV system design
+- Solar component procurement
+- Solar installation (commercial, residential, municipal, agricultural, academic, utility-scale)
+- Battery energy storage system installation
+- EV charging station installation
+- Power purchase agreement (PPA) and lease financing
+- Solar service and maintenance
+- Solar system monitoring
+- Warranty repair
 - SCADA integration
 - Financial modeling
-- Engineering
-- Operations & maintenance (O&M)
+- Project development
 
 ## Industries
 - Commercial
@@ -364,35 +360,30 @@ Blue Sky Solar Co says its differentiation rests on NABCEP-certified system desi
 - Municipal
 - Agricultural
 - Academic
-- Utility Scale
-- Battery Energy Storage
-- EV Charging
-- Solar Energy
-- Renewable Energy
+- Utility-scale
+- Renewable energy
 
 ## Certifications
-- NABCEP Certified Professional
+- NABCEP
 
 ## Company details
 - **Company Type:** Installer / service company
 - **Founded:** 2012
-- **Ownership:** Privately held
 - **Headquarters:** Dubuque, Iowa
 
 <details><summary>Sources</summary>
 
-- Founded 2012 -> db, home page
-- Headquarters Dubuque, Iowa -> db
-- 500+ projects completed, 50+ MW installed -> home page
-- NABCEP certified professional designs all systems -> home page, description
-- Services: design, procurement, construction, financing, service & maintenance -> home page
-- Service and repair regardless of original installer -> home page
-- Battery storage installation certified for multiple manufacturers -> services page
-- EV charging installation -> services page
-- Team includes NABCEP certified VP of Engineering Tyler Kennedy -> about-us page
-- President Barney Grobstick with 30+ years electrical experience -> about-us page
-- Community-focused mission -> about-us page
-- Industries served: commercial, residential, municipal, agricultural, academic, utility scale -> home page, services page
+- Founded in 2012 -> db
+- Headquartered in Dubuque, Iowa -> db
+- President Barney Grobstick leads the company -> /about-us
+- 500+ projects completed -> /
+- 50+ megawatts installed -> /
+- Systems designed by NABCEP certified professional -> /
+- Services include design, procurement, construction, financing, service & maintenance -> /
+- Offers commercial, residential, municipal, agricultural, academic, utility-scale, battery, EV charging, PPA financing -> /services
+- Team includes licensed Master Electrician and NABCEP certified Tyler Kennedy -> /about-us
+- Certified to install and service multiple manufacturers' energy storage systems -> /services
+- Mission: advance solar in Midwest, innovate, educate, community focus -> /about-us
 </details>
 
 ---
@@ -402,25 +393,29 @@ Blue Sky Solar Co says its differentiation rests on NABCEP-certified system desi
 **Old description:** Full service, steel processing service center, which specializes in slitting, blanking
 
 ## About
-Blue Springs Metals operates from Blue Springs, Mississippi, where groundbreaking for its facility took place in 2011. The company is certified as a minority-owned business by the National Minority Supplier Development Council (NMSDC). It was established with the goal of building an organization where doing business is a pleasure for both employees and customers.
+Blue Springs Metals operates from Blue Springs, Mississippi, where groundbreaking for its facility took place in 2011. The company is certified by the National Minority Supplier Development Council as a minority-owned business.
 
-The service center specializes in slitting, blanking, and warehousing of flat‑rolled steel, including hot‑rolled, cold‑rolled, and coated products. As a full‑service steel processor, it handles material preparation for downstream manufacturing.
+The steel processing service center specializes in slitting, blanking, and warehousing of flat-rolled steel. It handles hot-rolled, cold-rolled, and exposed or coated steel products, offering comprehensive processing solutions under one roof.
 
-Primary markets are the automotive and oil‑and‑gas sectors. The company’s website references relationships with Toyota Tsusho America, Georgetown Metal Processing, and Madison Metal Processing, indicating a customer base that includes major automotive suppliers and metal processors.
+Primary customers serve the automotive and oil-and-gas sectors. The company lists Toyota Tsusho America, Georgetown Metal Processing, and Madison Metal Processing among its industry connections, indicating a focus on Tier 1 and Tier 2 automotive supply chains as well as energy-sector demand.
 
-Blue Springs Metals emphasizes a culture built on safety, quality, cost, delivery, and continuous improvement. These values are presented as the foundation for its daily operations and long‑term customer relationships.
+Founders established the business to create an operation where excellent products and a pleasant experience for both employees and customers were the norm. Daily work is guided by five stated values: Safety, Quality, Cost, Delivery, and Continuous Improvement.
 
 ## Known for
 - Minority-owned (NMSDC certified)
 - ISO 14001 and IATF 16949 certified
-- Extended receiving hours (Sunday 11 p.m. to Friday 11 p.m.)
-- Core values: safety, quality, cost, delivery, continuous improvement
+- Slitting, blanking, and warehousing under one roof
+- Serves automotive and oil & gas supply chains
+- Extended receiving hours Sunday through Friday
 
 ## Capabilities
 - Slitting
 - Blanking
 - Warehousing
-- Flat rolled steel processing
+- Flat-rolled steel processing
+- Hot-rolled steel processing
+- Cold-rolled steel processing
+- Coated steel processing
 
 ## Industries
 - Automotive
@@ -435,123 +430,79 @@ Blue Springs Metals emphasizes a culture built on safety, quality, cost, deliver
 - **Company Type:** Contract manufacturer / job shop
 - **Founded:** 2011
 - **Ownership:** Minority-owned
-- **Headquarters:** Blue Springs, MS
+- **Headquarters:** Blue Springs, Mississippi
 
 <details><summary>Sources</summary>
 
-- Location: Blue Springs, MS -> db
-- Founding year: 2011 (groundbreaking) -> /
-- Ownership: Minority-owned (NMSDC certified) -> /
-- Services: Slitting, blanking, warehousing -> /
-- Industries: Automotive, oil and gas -> /
-- Certifications: ISO 14001, IATF 16949 -> /
-- Materials: Hot rolled steel, cold rolled steel, coated products -> /
-- Values: Safety, quality, cost, delivery, continuous improvement -> /
-- Receiving hours: Sun 11pm–Fri 11pm -> /
+- Groundbreaking 2011 -> home page
+- Location Blue Springs, MS -> home page
+- Minority-owned NMSDC certified -> home page
+- Services: slitting, blanking, warehousing -> home page
+- Industries: automotive, oil and gas -> home page
+- Certifications: ISO 14001, IATF 16949 -> home page
+- Materials: hot rolled, cold rolled, exposed/coated steel -> home page
+- Values: Safety, Quality, Cost, Delivery, Continuous Improvement -> home page
+- Customers: Toyota Tsusho America, Georgetown Metal Processing, Madison Metal Processing -> home page
 </details>
 
 ---
 
 # Blue Train Apparel
 
-**Old description:** Looking for a specific item or just browsing for ideas? Blue Train Apparel is your one-stop shop for promotional products and business gifts. Our extensive range of promo products will ensure you find something to suit your requirements.
-
-## About
-Blue Train Apparel operates from Sherwood, Arkansas, as a distributor of promotional products and business gifts. The company does not publicly disclose its founding year, ownership structure, or the names of its founders, nor does it describe how the business began.
-
-The firm curates a catalog of several thousand items, including headwear from brands such as Richardson, Carhartt, Nike, OTTO CAP, and 47 BRAND, along with novelty products like the Pit Master BBQ Pinewood Grill Cleaner. It does not manufacture goods; rather, it provides product sourcing, custom branding, and a virtual sampling tool that lets clients preview logos on merchandise. The company says it will 'do the shopping for you,' offering customized recommendations based on its product knowledge. No facility dimensions, employee count, or annual volume figures are published.
-
-The customer base spans small businesses and larger organizations seeking corporate gifts, employee apparel, or marketing giveaways. The company states it can accommodate any budget and offers personalized recommendations drawn from its product knowledge, with an emphasis on high-quality items and fast delivery times.
-
-Blue Train Apparel emphasizes its broad selection, quick turnaround, and consultative approach as differentiators, positioning itself as a one-stop shop that handles the shopping process for clients.
-
-## Known for
-- Thousands of promotional product options
-- Fast delivery times
-- Budget-friendly pricing
-- Customized product recommendations
-- Virtual sampling available
-
-## Capabilities
-- Promotional product distribution
-- Custom branding
-- Virtual sampling
-- Product sourcing and recommendation
-
-## Industries
-- Promotional products
-- Corporate gifting
-- Business gifts
-
-## Company details
-- **Company Type:** Distributor / reseller
-- **Headquarters:** Sherwood, AR
-
-<details><summary>Sources</summary>
-
-- Company name: Blue Train Apparel -> db
-- Headquarters: Sherwood, Arkansas -> db
-- Description: one-stop shop for promotional products and business gifts -> db
-- Offers thousands of promotional product selections -> /
-- Carries brands including Richardson, Carhartt, Nike, OTTO CAP, 47 BRAND -> /
-- Provides custom branding and virtual sampling -> /
-- Emphasizes fast delivery times and budget-friendly pricing -> /
-- Offers personalized recommendations and shopping assistance -> /
-- Spotlight product: Pit Master BBQ Pinewood Grill Cleaner -> /
-</details>
-
----
+_skipped: not enough facts_
 
 # Blue-Top Steering Gears Inc.
 
 **Old description:** In 2011, Ryan (Myron's son), purchased the business.  During that time Ryan re-established the business in Stanton, North Dakota. He reorganized and started pushing the business area across the United States.  Ryan's experience re-manufacturing steering gears with another large company in Seattle, Washington helped him with the understanding of many different types of steering components and the re-manufacturing process.  With the new location, better facilities, and a lot of years ahead, he pushed harder expanding sales from coast to coast. By this time Ryan had updated most of the equipment and had purchased more machining equipment to be able to keep all work in-house.  In 2017 Blue-Top Steering expanded into re-manufacturing steering valves and steering cylinders to add to the service abilities.  Since 2017 the business has grown every month as more people look to have a quality product installed on their vehicle to keep them steering straight down the road.
 
 ## About
-Blue-Top Steering Gears Inc. operates from Stanton, North Dakota. In 2011, Ryan, son of the previous owner Myron, purchased the business and re-established it in Stanton. Ryan brought experience from remanufacturing steering gears with a large company in Seattle, Washington, giving him deep knowledge of steering components and processes.
+Blue-Top Steering Gears operates from Stanton, North Dakota. In 2011, Ryan, son of the previous owner Myron, purchased the business and re-established it in Stanton. Ryan brought experience from re-manufacturing steering gears with a large company in Seattle, Washington.
 
-The company remanufactures steering gears, steering valves, and steering cylinders for a wide range of light- and heavy-duty trucks. All machining and assembly work is kept in-house using updated equipment.
+The company remanufactures steering gears, steering valves, and steering cylinders for a range of heavy-duty and light-duty trucks. All machining and assembly work is kept in-house, with the facility equipped for complete remanufacturing. The company also offers a rebuild-and-return service for customers' own OEM cores.
 
-Blue-Top serves the automotive aftermarket, supplying repair shops, fleet operators, and individual vehicle owners across the United States. Its rebuild-and-return program accepts OEM cores for remanufacturing, and the company ships stocked units nationwide.
+Blue-Top serves the automotive aftermarket, primarily repair shops, fleet operators, and individual vehicle owners seeking replacement steering components. Its catalog includes dozens of part numbers tailored to specific model years and configurations, such as 32-spline and 36-spline output shafts for Ford trucks and various master-spline arrangements for GM and Dodge axles.
 
-Ryan’s background in large-scale steering gear remanufacturing drove the focus on quality and in-house control. Since adding steering valves and cylinders in 2017, the business has grown steadily as customers seek reliable, OEM-quality steering components.
+The business emphasizes a quality product at a competitive price, a stance reflected in its core-exchange policy that grants full credit only for OEM cores. Ryan's background in large-scale remanufacturing informed the decision to bring all processes under one roof, allowing tighter control over turnaround and consistency.
 
 ## Known for
-- All machining and remanufacturing performed in-house
-- Rebuild-and-return service for OEM cores
+- All remanufacturing and machining performed in-house
 - Added steering valve and cylinder remanufacturing in 2017
-- Nationwide shipping from Stanton, North Dakota
+- Core exchange policy: full credit for OEM cores only
+- Rebuild-and-return service for customer-supplied OEM parts
+- Quality product with competitive price
 
 ## Capabilities
 - Steering gear remanufacturing
 - Steering valve remanufacturing
 - Steering cylinder remanufacturing
-- CNC machining
 - Rebuild and return service
+- In-house machining
+- Core exchange program
 
 ## Industries
 - Automotive aftermarket
-- Heavy-duty truck
-- Light truck
-- Off-road vehicle
+- Heavy-duty truck parts
+- Steering components
+- Off-road vehicle parts
 
 ## Company details
 - **Company Type:** Manufacturer
-- **Ownership:** Family-owned
 - **Headquarters:** Stanton, North Dakota
 
 <details><summary>Sources</summary>
 
 - Located in Stanton, North Dakota -> db
-- Purchased by Ryan (Myron's son) in 2011 -> db
-- Re-established in Stanton, North Dakota -> db
-- Ryan's experience remanufacturing steering gears in Seattle -> db
-- Updated equipment and purchased machining equipment to keep work in-house -> db
-- Expanded into remanufacturing steering valves and cylinders in 2017 -> db
+- Ryan purchased the business in 2011 -> db
+- Ryan is Myron's son -> db
+- Ryan had experience re-manufacturing steering gears in Seattle -> db
+- Business re-established in Stanton with updated equipment and in-house machining -> db
+- Expanded into steering valve and cylinder remanufacturing in 2017 -> db
 - Business has grown monthly since 2017 -> db
-- Offers rebuild and return service for OEM cores -> db, pages "/"
-- Sells remanufactured steering gears for Dodge Ram, Chevrolet, Ford, Jeep -> pages "/"
-- Hours: 8am-4pm CST Mon-Fri -> pages "/"
-- Quality product with competitive price -> pages "/"
+- Offers rebuild and return service for OEM parts -> /
+- Core policy: full core charge only for OEM parts -> /
+- Sells remanufactured steering gears for Ford, Chevrolet, Dodge, Jeep trucks -> /
+- Keeps all work in-house -> db
+- Quality product with competitive price -> /
 </details>
 
 ---

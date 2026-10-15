@@ -3,35 +3,35 @@
 **Old description:** Are you in the Fairbanks area and searching for industrial products? Denali Industrial Supply offers competitive pricing on thousands of name-brand industrial tools, fasteners, strut, power tools, firestop products, dust control items, and much more. As an industrial tool supply company, we prioritize customer satisfaction and offer in-store training seminars on selected products.
 
 ## About
-Denali Industrial Supply, Inc. operates a retail and wholesale location in Fairbanks, Alaska The company's founding year and ownership structure are not publicly disclosed. It serves as a supplier of name-brand industrial tools and consumables to businesses across the state.
+Denali Industrial Supply, Inc. operates from Fairbanks, Alaska, with a second stocked location in Anchorage. The company has served Alaska's industrial sectors for decades, though a specific founding year and founder names are not publicly disclosed. Ownership details such as family, veteran, or woman-owned status are not stated in available sources.
 
-The Fairbanks branch stocks fasteners, safety equipment, abrasives, power tools, strut systems, material handling gear, firestop and chemical products, and electrical storage items. Services include same-day statewide shipping, product sourcing and special orders, in-store training on topics such as silica dust control and firestop installation, expert consultations, and inventory management support. Inventory is also maintained in Anchorage, enabling immediate shipment throughout Alaska.
+The business functions as an industrial tool supplier and distributor, offering competitive pricing on thousands of name-brand items including fasteners, strut, power tools, firestop products, dust control equipment, abrasives, safety gear, material handling and lifting devices, and chemical/paint/firestop supplies. Services include same-day statewide shipping from stocked inventories, product sourcing and special orders, in-store product training on topics such as silica dust control and firestop, expert consultations, and inventory management support. Facility size, headcount, and annual volume figures are not provided.
 
-The company targets Alaska's heavy industrial sectors, including mining, oil and gas extraction, construction and property maintenance, HVAC, and automotive repair. Its customer base comprises enterprises operating in the state's rugged environments.
+Denali Industrial Supply serves Alaska's mining, oil and gas extraction, HVAC, construction, property maintenance, and auto repair industries. Customers range from mining operations and oilfield service companies to construction contractors and automotive repair shops across the state.
 
-Denali Industrial Supply emphasizes competitive pricing on thousands of name-brand products and positions itself as a partner that helps customers solve problems through product availability and technical support. The firm does not ship orders outside Alaska.
+The company emphasizes its stocked inventories in both Fairbanks and Anchorage, immediate shipping throughout Alaska, and in-store training seminars as key differentiators. It positions itself as a partner for Alaskan enterprises needing reliable access to industrial tools and supplies.
 
 ## Known for
-- Same-day statewide shipping
-- Product sourcing and special orders
-- In-store product training on silica dust control and firestop
+- Same-day statewide shipping from stocked inventories in Fairbanks and Anchorage
+- In-store product training on silica dust control, firestop, and other topics
+- Product sourcing and special orders for hard-to-find items
 - Expert consultations and inventory management support
-- Stocked inventories in Anchorage and Fairbanks enabling immediate shipping throughout Alaska
 
 ## Capabilities
-- Product sourcing and special orders
-- Same-day statewide shipping
-- In-store product training (silica dust control, firestop)
+- Product sourcing
+- Special orders
+- In-store product training
 - Expert consultations
 - Inventory management support
-- Industrial tool and fastener distribution
+- Same-day statewide shipping
 
 ## Industries
 - Mining
-- Oil & Gas Extraction
-- Construction & Property Maintenance
+- Oil & gas extraction
 - HVAC
-- Auto Repair
+- Construction
+- Property maintenance
+- Auto repair
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -39,19 +39,14 @@ Denali Industrial Supply emphasizes competitive pricing on thousands of name-bra
 
 <details><summary>Sources</summary>
 
-- Location: Fairbanks, Alaska -> /
-- Address: 1499 Van Horn Rd, Fairbanks, AK 99701 -> /
-- Services: same-day statewide shipping, product sourcing, in-store training, expert consultations, inventory management -> /
-- Products: fasteners, safety, abrasives, tools, strut, material handling, chemical/paint/firestop, electrical storage -> /
-- Industries served: mining, oil & gas, construction, HVAC, auto repair -> /
-- Inventory in Anchorage and Fairbanks, immediate shipping statewide -> /
-- Does not ship outside Alaska -> /
-- Decades of experience -> /
-- Competitive pricing on name-brand tools -> /
-- In-store training on silica dust control and firestop -> /
-- Contact: 1-800-478-2658, websales@denali-industrial.com -> /
-- Website: https://www.denali-industrial.com/fairbanks-alaska -> db
-- Company name: Denali Industrial Supply, Inc. -> db
+- Company name, location, business description -> db
+- Address: 1499 Van Horn Rd, Fairbanks, AK 99701 -> pages:/
+- Services: same-day statewide shipping, product sourcing, special orders, in-store training, expert consultations, inventory management -> pages:/
+- Product categories: fasteners, safety, abrasives, tools & accessories, struts, material handling, chemical/paint/firestop, electrical storage -> pages:/
+- Industries served: mining, HVAC, oil & gas extraction, construction, property maintenance, auto repair -> pages:/
+- Stocked inventories in Anchorage and Fairbanks, immediate shipping throughout Alaska -> pages:/
+- Decades of experience serving Alaska's toughest industries -> pages:/
+- Does not ship orders outside the State of Alaska -> pages:/
 </details>
 
 ---
@@ -61,35 +56,37 @@ Denali Industrial Supply emphasizes competitive pricing on thousands of name-bra
 **Old description:** Since 1985, Denney Electric Supply-Lighting & Design has served Delmarva with fast, friendly service to builders, electricians, and home owners.
 
 ## About
-Denney Electric Supply-Lighting & Design was founded in 1985 in Millsboro, Delaware, as a family-owned business serving the Delmarva Peninsula. The company began by supplying electrical products to local builders and electricians, later expanding into a lighting showroom for homeowners.
+Denney Electric Supply-Lighting & Design has operated from Millsboro, Delaware since 1985. The locally family-owned business serves the Delmarva Peninsula — covering parts of Delaware, Maryland, and Virginia — from a 2,200-square-foot lighting showroom and an electrical counter at 28635 DuPont Boulevard.
 
-The company operates a 2,200-square-foot lighting showroom and stocks a wide assortment of electrical supplies, lighting fixtures, paddle fans, and home décor from over 200 brands. It offers free delivery Monday through Friday across Delmarva with no minimum charge, outdoor lockers for after-hours pickup, and an in-house project team that provides lighting design consultation, on-site walk-throughs for new construction and remodels, and commercial and residential lighting information.
+The company stocks electrical products for contractors and DIY homeowners alongside a retail selection of lighting fixtures, paddle fans, LED mirrors, lamps, artwork, and home décor. It carries inventory from more than 200 brands and offers free delivery Monday through Friday across the Delmarva region, with emergency and after-hours pickup via outdoor lockers. An in-house project team provides design and installation support for commercial and residential lighting.
 
-Denney Electric serves builders, electrical contractors, and DIY homeowners throughout the Delmarva region. Its customer base includes both commercial and residential projects, with the showroom catering to homeowners seeking lighting and fan selections while the electrical counter supports contractors with same-day supply needs.
+Primary customers include builders, electricians, and homeowners throughout the Delmarva area. The showroom serves both trade professionals and retail shoppers, with trained lighting specialists available for walk-in or appointment-based design consultations, including on-site walk-throughs for new construction and remodel projects.
 
-The company emphasizes building long-lasting relationships through integrity and knowledgeable service, positioning itself as a local partner for both trade professionals and retail customers.
+Founded on a commitment to long-lasting relationships with customers, community, teammates, and vendors, the business emphasizes integrity and knowledgeable service. Free delivery with no minimum order reflects that service-first approach.
 
 ## Known for
 - Free delivery Monday–Friday across Delmarva with no minimum order
-- 2,200 sq ft lighting showroom with 200+ brands on display
-- After-hours pickup via outdoor lockers
-- In-house lighting design consultation and on-site project walk-throughs
-- Trained lighting specialists available for walk-in or appointment
+- Emergency and short-notice delivery services
+- Outdoor lockers for after-hours pickup
+- 2,200-square-foot showroom with hundreds of fixtures on display
+- Access to 200+ lighting and décor brands
 
 ## Capabilities
-- Electrical product distribution
-- Lighting design consultation
-- Commercial and residential lighting specification
-- On-site project walk-throughs
-- After-hours order pickup
-- Free regional delivery
+- Lighting design consultation (walk-in and by appointment)
+- New home/remodel on-site walk-throughs
+- Commercial lighting design and installation support
+- Residential lighting design and installation support
+- Free delivery across Delmarva Peninsula
+- Emergency/short-notice delivery
+- After-hours pickup via outdoor lockers
+- Electrical product distribution for contractors and DIY
 
 ## Industries
-- Construction
-- Electrical contracting
-- Residential building
-- Commercial building
-- Home improvement
+- Builders
+- Electrical contractors
+- Homeowners
+- Commercial construction
+- Residential construction
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -99,14 +96,18 @@ The company emphasizes building long-lasting relationships through integrity and
 
 <details><summary>Sources</summary>
 
-- Founded 1985, family-owned in Millsboro, DE -> /
-- Serves builders, electricians, homeowners across Delmarva -> /
-- Free delivery Mon-Fri, no minimum charge -> /
-- 2,200 sq ft showroom, 200+ brands -> /services
-- After-hours outdoor lockers -> /services
-- In-house project team for design consultation and on-site walk-throughs -> /services
-- Trained lighting specialists -> /services
-- Commitment to integrity and knowledgeable service -> /
+- Founded 1985 -> db
+- Headquarters Millsboro, Delaware -> db
+- Family-owned and operated -> /
+- Serves Delmarva Peninsula -> /
+- Free delivery Monday-Friday, no minimum charge -> /
+- 2,200-square-foot lighting showroom -> /services
+- Access to 200+ brands -> /services
+- Trained lighting specialists, design consultation -> /services
+- In-house project team for design and install -> /services
+- Electrical counter and showroom hours -> /
+- Outdoor lockers for after-hours pickup -> /services
+- Emergency/short-notice delivery -> /services
 </details>
 
 ---
@@ -116,38 +117,38 @@ The company emphasizes building long-lasting relationships through integrity and
 **Old description:** Colvard & Company Sausages: Where Craftsmanship Meets Flavor. Since 2016, their innovative blends and premium ingredients redefined the art ...
 
 ## About
-Dennis Food Service operates from Hampden, Maine, and has been serving the region since 1916. The company is structured as a 100% employee-owned business, giving every team member a stake in its performance.
+Dennis Food Service, headquartered in Hampden, Maine, has operated since 1916. The company is 100% employee-owned, a structure highlighted as central to its culture and service model.
 
-As a broadline foodservice distributor, the company stocks thousands of items ranging from fresh produce and proteins to dry goods, beverages, and disposables. Its service division maintains warewash systems, manages chemical programs, and repairs kitchen equipment for customers across Maine and New Hampshire. The operation also provides digital menu-board tools, a recipe database, and nutrition consulting tailored to K-12 accounts.
+As a broadline foodservice distributor, Dennis Food Service supplies thousands of wholesale products—from fresh produce and proteins to pantry staples and non-food items—to restaurants and foodservice operations across Maine and New Hampshire. The company also provides support services including warewash system maintenance, chemical management, equipment repair, a digital menu board platform, and an online recipe center. It is a member of UniPro, the largest independent foodservice distributor network in the U.S.
 
-The customer base includes independent and chain restaurants, K-12 school districts, caterers, cafeterias, and convention centers throughout northern New England. School nutrition programs rely on the company's expertise in USDA compliance and menu planning, while business-and-industry accounts use its distribution network for daily deliveries.
+The distributor serves independent restaurants, K-12 school nutrition programs, and business-and-industry accounts such as caterers, cafeterias, and convention centers. School foodservice is a noted specialty, with the company emphasizing its experience and in-depth knowledge of K-12 nutrition requirements.
 
-Employee ownership and membership in UniPro, the largest independent distributor network, underpin the company's model. Leadership emphasizes local sourcing, personal service, and profitability support for operators as the reasons the business was built and continues to grow.
+Dennis Food Service positions its employee-ownership model as a differentiator, arguing that it aligns employee incentives with customer outcomes. The company also promotes its local sourcing efforts, featuring Maine-made products such as pies, potatoes, and blueberry kimchi, and its seasonal produce selections curated for flavor and trend appeal.
 
 ## Known for
 - 100% employee-owned structure
 - Member of UniPro independent distributor network
 - Dedicated service team for warewash, chemical management, and equipment repair
-- Local Maine and New Hampshire focus with daily delivery
-- K-12 nutrition expertise and USDA compliance support
+- Specialized K-12 school nutrition expertise
+- Digital menu board DIY solution and recipe center
 
 ## Capabilities
 - Broadline foodservice distribution
-- Equipment repair and maintenance
-- Warewash system management
-- Chemical program management
-- Digital menu board solutions
-- Recipe development and menu consulting
-- K-12 nutrition consulting
-- Local product sourcing
+- Wholesale food product supply
+- K-12 school foodservice program support
+- Warewash system service and maintenance
+- Chemical management services
+- Commercial equipment repair
+- Digital menu board implementation
+- Recipe development and menu planning
+- Local and specialty product sourcing
+- Seasonal produce curation
+- Beverage program management
 
 ## Industries
-- K-12 schools
-- Restaurants
-- Caterers
-- Cafeterias
-- Convention centers
-- Business and industry foodservice
+- Restaurant and foodservice
+- K-12 school nutrition
+- Business & Industry (catering, cafeterias, conventions)
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -157,16 +158,18 @@ Employee ownership and membership in UniPro, the largest independent distributor
 
 <details><summary>Sources</summary>
 
-- Headquarters: Hampden, Maine -> db
-- Founded: 1916 -> db
-- Employee-owned structure -> / (homepage)
-- Broadline foodservice distributor for Maine and New Hampshire -> / (homepage)
-- Member of UniPro distributor network -> / (homepage)
-- Service team for warewash, chemical management, equipment repair -> / (homepage)
-- K-12 school foodservice expertise -> / (homepage)
-- Industries served: restaurants, caterers, cafeterias, conventions -> / (homepage)
-- Digital menu boards and recipe center -> / (homepage)
-- Thousands of stocked products with item numbers -> / (homepage)
+- Headquartered in Hampden, Maine -> db
+- Founded in 1916 -> db
+- 100% employee-owned -> homepage
+- Broadline foodservice distributor serving Maine and New Hampshire -> homepage
+- Member of UniPro -> homepage
+- Offers warewash, chemical management, equipment repair services -> homepage
+- Provides digital menu board DIY solution -> homepage
+- Operates recipe center -> homepage
+- Serves K-12 school foodservice programs -> homepage
+- Serves Business & Industry (caterer, cafeteria, conventions) -> industries_served
+- Features Maine-made products (pies, potatoes, blueberry kimchi) -> homepage
+- Seasonal produce curation -> homepage
 </details>
 
 ---
@@ -176,83 +179,76 @@ Employee ownership and membership in UniPro, the largest independent distributor
 **Old description:** North Jersey’s Premier Custom Sheet Metal & Ductwork Fabrication Shop
 
 ## About
-Dericks Sheet Metal Works was founded in 1936 by Herman and Richard Dericks in Paterson, New Jersey. The father‑son duo built the shop from the ground up, and the business relocated to its current 20,000‑square‑foot facility in Totowa, NJ. Now in its fifth generation, the company remains under the management of the Dericks family.
+Dericks Sheet Metal Works operates from a 20,000-square-foot facility in Totowa, New Jersey. The company traces its roots to 1936, when Herman and Richard Dericks founded the business in nearby Paterson. Now in its fifth generation, the shop remains under the management of the Dericks family.
 
-The shop specializes in custom sheet metal and ductwork fabrication, offering TIG, MIG, and laser welding, fiber laser cutting, water jet cutting, and a range of forming processes including hydraulic press brakes, plate rollers, punches, and shears. Post‑processing, finishing, and painting are also performed in‑house. With 24 experienced employees, the facility serves customers across the Tri‑State area.
+The shop provides custom sheet metal fabrication, ductwork manufacturing, and installation services across the Tri-State area. Its capabilities include TIG, MIG, and laser welding on stainless steel, aluminum, and carbon steel; fiber laser and water jet cutting; hydraulic press braking, plate rolling, punching, and shearing; as well as finishing and painting. A team of 24 experienced employees handles projects ranging from HVAC duct fittings and ventilation systems to custom metal assemblies, supported by on-site measuring using advanced tools.
 
-The customer base consists primarily of food, pharmaceutical, and commercial product manufacturers, along with small businesses and residential clients. Projects have included coffee bean hoppers, liquid storage tanks, custom business signs, a Super Bowl LVIII lighting scaffold, outdoor steel staircases, and a menorah. The HVAC division provides custom duct fittings, transitions, and complete ventilation systems for commercial, industrial, and residential projects.
+The customer base spans food and pharmaceutical manufacturing, commercial product manufacturing, and HVAC contractors, along with small businesses and residential clients. Past projects illustrate the range: a coffee bean hopper, liquid storage tank, custom business sign, lighting scaffold for Super Bowl LVIII, outdoor steel staircase, and a menorah.
 
-The company emphasizes attention to product design functionality, production time, cleanliness, and safety standards. On‑site measuring with advanced tools supports accurate field measurements for fabrication and installation.
+The company emphasizes attention to product design functionality, production time, cleanliness, and safety standards as the foundation of its service approach.
 
 ## Known for
-- 20,000 sq ft facility in Totowa, NJ
-- 24 experienced employees
-- Fifth‑generation family ownership
-- Fiber laser and water jet cutting capabilities
-- On‑site measuring with advanced tools
+- Fifth-generation family ownership
+- 20,000 sq ft facility with 24 experienced employees
+- In-house fiber laser and water jet cutting
+- On-site measuring with advanced tools
+- Focus on design functionality, production time, cleanliness, and safety
 
 ## Capabilities
+- Custom sheet metal fabrication
+- Ductwork fabrication
+- Ductwork installation
 - TIG welding
 - MIG welding
 - Laser welding
 - Fiber laser cutting
 - Water jet cutting
-- Hydraulic press brake forming
+- Hydraulic press braking
 - Plate rolling
 - Punching
 - Shearing
-- Post-processing
 - Finishing
 - Painting
-- Custom ductwork fabrication
-- Ductwork installation
+- Assembly
 - On-site measuring
-- Custom metal fabrication
 
 ## Industries
-- Food
-- Pharmaceutical
+- Food manufacturing
+- Pharmaceutical manufacturing
 - Commercial product manufacturing
+- HVAC
 - Commercial
 - Industrial
 - Residential
-- HVAC
 
 ## Equipment
 - Fiber Laser Cutting Table
-- Water Jet Cutting Table
+- Water Jet Cutting Table (Flow)
 - Hydraulic press brakes
 - Plate rollers
 - Punches
 - Shears
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Founded:** 1936
 - **Employees:** 24
 - **Ownership:** Family-owned
-- **Headquarters:** Totowa, NJ
+- **Headquarters:** Totowa, New Jersey
 
 <details><summary>Sources</summary>
 
 - Founded 1936 by Herman and Richard Dericks -> /about
-- First located in Paterson, NJ -> /about
-- Relocated to Totowa, NJ -> /about
-- Fifth-generation family management -> /about
-- 20,000 sq ft facility in Totowa, NJ -> /
-- 24 experienced employees -> /
-- Services Tri-State area -> /
-- TIG, MIG, and Laser welding services -> /
-- Fiber laser cutting capability -> /
-- Water jet cutting capability (Flow water jet) -> /
-- Forming equipment: hydraulic press brakes, plate rollers, punches, shears -> /
-- Post-processing, finishing, painting -> /
-- Custom ductwork fabrication and installation -> /
-- On-site measuring with advanced tools -> /
-- Primary customers: food, pharmaceutical, commercial product manufacturing -> /about
-- Also serves small businesses and residential clients -> /about
-- Projects: Coffee Bean Hopper, Liquid Storage Tank, Custom Business Sign, Superbowl LVIII Lighting Scaffold, Outdoor Steel Staircase, Menorah -> /
-- Emphasis on product design functionality, production time, cleanliness, safety standards -> /about
+- Located in Totowa, NJ -> /
+- 20,000 sq ft facility -> /
+- 24 employees -> /
+- Family-owned fifth generation -> /about
+- Services: custom sheet metal fabrication, ductwork, welding, installation, on-site measuring -> /
+- Equipment: fiber laser cutting table, water jet cutting table, hydraulic press brakes, plate rollers, punches, shears -> /
+- Industries served: food manufacturing, pharmaceutical manufacturing, commercial product manufacturing, HVAC, commercial, industrial, residential -> /about and /
+- Materials: stainless steel, aluminum, carbon steel, stone, wood, plastic, glass -> /
+- Differentiators: attention to design functionality, production time, cleanliness, safety -> /about
+- Projects: coffee bean hopper, liquid storage tank, custom business sign, Super Bowl LVIII lighting scaffold, outdoor steel staircase, menorah -> /
 </details>
 
 ---
@@ -262,51 +258,53 @@ The company emphasizes attention to product design functionality, production tim
 **Old description:** Experience unparalleled craftsmanship with our curated collection of upholstery, bedding, drapery, and apparel fabrics. Explore a diverse range of over 5,000 in-stock fabric options, from linens and wovens to silks, denims, and microfibers—all at unmatched prices.
 
 ## About
-Design Company Fabrics operates a 22,000-square-foot retail store in the Sugarhouse neighborhood of Salt Lake City, Utah, positioned near the I-15 and I-80 interchange. The company's founding year and ownership structure are not publicly disclosed.
+Design Company Fabrics operates a 22,000-square-foot fabric showroom in the Sugarhouse neighborhood of Salt Lake City, Utah. The company’s founding year and ownership structure are not publicly disclosed.
 
-The business curates an inventory of more than 5,000 in-stock fabrics spanning upholstery, bedding, drapery, and apparel categories, including linens, wovens, silks, Japanese selvedge denim, bridal satin, microfibers, and quilting cottons. Beyond fabric sales, the company runs a custom workroom producing roman shades, draperies, duvet covers, pillows, and valances, and has recently added a custom fabric printing service for patterns, logos, and images.
+The business curates over 5,000 in-stock fabric options ranging from linens, wovens, silks, denims, and microfibers to specialty categories such as Japanese selvedge denim, bridal satin, upholstery fabrics, quilting cotton, and oil cloth. Beyond retail, the company runs an in-house workroom that produces custom roman shades, draperies, duvet covers, pillows, and valances, and it recently added a custom fabric printing service for patterns, logos, and images.
 
-The fabric assortment serves interior designers, upholsterers, bedding and drapery fabricators, apparel makers, quilters, and bridal specialists. The custom sewing and printing services target both trade professionals and individual customers seeking made-to-order soft goods.
+Customers include interior designers, upholstery shops, apparel manufacturers, quilters, and bridal boutiques seeking both ready-to-ship yardage and made-to-order soft goods. The product assortment reflects these segments with dedicated sections for drapery, bedding, apparel, and quilting fabrics.
 
-The company emphasizes the breadth of its local inventory and the convenience of its Sugarhouse location. The addition of custom printing aims to give designers a single source for both material and finished output.
+The company positions its scale and breadth of inventory as a differentiator, describing its showroom as Utah’s most extensive fabric assortment, and highlights its ability to deliver both stocked materials and bespoke fabrication under one roof. The location near I-15 and I-80 provides convenient access for regional buyers.
 
 ## Known for
-- 22,000 sq ft retail space with over 5,000 in-stock fabric SKUs
-- Custom workroom for roman shades, draperies, duvet covers, pillows, and valances
-- Custom fabric printing for patterns, logos, and images
-- Located in Sugarhouse with easy access to I-15 and I-80
+- 22,000 sq ft showroom with over 5,000 in-stock fabric SKUs
+- In-house workroom for custom roman shades, draperies, duvet covers, pillows, and valances
+- Custom fabric printing service for patterns, logos, and images
+- Strategic Sugarhouse location with immediate access to I-15 and I-80
+- Curated selection spanning Japanese selvedge denim, bridal satin, upholstery, quilting, and oil cloth
 
 ## Capabilities
-- Fabric retail and distribution
-- Custom sewing and fabrication (roman shades, draperies, duvet covers, pillows, valances)
 - Custom fabric printing
+- Custom fabrication of window treatments (roman shades, draperies, valances)
+- Custom fabrication of bedding (duvet covers, pillows)
+- Fabric retail (over 5,000 SKUs in stock)
 - Fabric sourcing and curation
 
 ## Industries
-- Interior design
+- Apparel
 - Upholstery
 - Bedding
 - Drapery
-- Apparel
 - Quilting
 - Bridal
 - Home decor
+- Interior design
 
 ## Company details
-- **Company Type:** Retailer
+- **Company Type:** Manufacturer
 - **Headquarters:** Salt Lake City, Utah
 
 <details><summary>Sources</summary>
 
-- Location: Salt Lake City, Utah (Sugarhouse) -> db
-- Store size: 22,000 sq ft -> /
-- Inventory: over 5,000 in-stock fabric options -> /
-- Fabric categories: upholstery, bedding, drapery, apparel -> /
-- Materials: linens, wovens, silks, denims, microfibers, Japanese selvedge denim, bridal satin, crewel, toile, knit, french terry, quilting cotton, flannel, oil cloth -> /
-- Custom services: roman shades, draperies, duvet covers, pillows, valances -> /
+- Company name: Design Company Fabrics -> db
+- Headquarters: Salt Lake City, Utah -> db
+- Facility size: 22,000 sq ft -> /
+- In-stock fabric count: over 5,000 options -> /
+- Fabric categories: linens, wovens, silks, denims, microfibers, Japanese selvedge denim, bridal satin, upholstery, quilting cotton, flannel, oil cloth -> /
+- Custom fabrication: roman shades, draperies, duvet covers, pillows, valances -> /
 - Custom fabric printing service -> /
-- Social media presence: Facebook, Instagram, Pinterest, RSS, TikTok, YouTube -> /
-- E-commerce platform: Shopify -> /
+- Location: Sugarhouse neighborhood, near I-15 and I-80 -> /
+- Website powered by Shopify, copyright 2026 -> /
 </details>
 
 ---
@@ -316,31 +314,31 @@ The company emphasizes the breadth of its local inventory and the convenience of
 **Old description:** Crafting original interiors since 1998, fueled by a passion for design and a love for exceeding the needs of our clients.
 
 ## About
-Design Distillery operates from a 9,000-square-foot showroom near Baltimore's Inner Harbor in Maryland. The company was founded in 1998 by designer Karen Graveline, who began hunting for vintage modern furniture to furnish her Baltimore rowhome. That search evolved into a storefront on Charles Street called Home on the Harbor, which later expanded and rebranded as Design Distillery.
+Design Distillery operates a modern furniture showroom and design studio in Baltimore, Maryland. The company was founded in 1998 by Karen Graveline, who began with a search for vintage modern furniture to furnish her Baltimore rowhome. That pursuit evolved from a small storefront on Charles Street into a 9,000-square-foot showroom near the Inner Harbor.
 
-The firm curates and retails modern furniture from a roster of international brands including Eilersen, Ethnicraft, Thayer Coggin, American Leather, Calligaris and Trica Furniture. Its showroom presents collections for living, dining, bedroom, lighting and rugs, and the company also provides interior design services, collaborating with clients on space planning, custom pieces and furniture selection.
+The firm curates collections from international brands such as Eilersen, Ethnicraft, Trica Furniture, Calligaris, Thayer Coggin, and American Leather. Beyond retail, Design Distillery provides interior design services, including space planning, furniture specification, and custom piece development. The showroom serves as a collaborative environment where clients and fellow designers can test furniture and explore materials.
 
-Design Distillery serves residential clients and interior designers seeking modern furnishings and design expertise. The team, which includes Erin Friedel with over 25 years of design experience, works with homeowners and design professionals to create tailored interiors, drawing on a background in commercial interior design, antiques and custom furniture construction.
+The client base spans residential homeowners and commercial projects, with the team drawing on Graveline’s background in commercial interior design and marketing. Designers Erin Friedel and Graveline work directly with clients and trade professionals to create tailored interiors.
 
-Graveline credits her architect father for instilling an appreciation for design's impact on daily life, and the company states its mission is to offer quality in everything it does, from supplier relationships to design collaboration, aiming to create spaces clients love.
+Graveline credits her architect father for instilling an appreciation for design’s impact on daily life. The company’s stated mission is to offer quality in everything it does, from supplier selection to design execution, driven by a passion for crafting original interiors.
 
 ## Known for
-- 9,000 sq ft showroom for hands-on furniture testing and design collaboration
-- Curated portfolio of international modern furniture brands
-- Full-service interior design with commercial and residential experience
-- Founder-led team with backgrounds in architecture, antiques and custom fabrication
+- 9,000-square-foot showroom with furniture testing and design collaboration
+- Curated collections from world-class international suppliers
+- Full-service interior design and custom piece development
+- Founded on a designer’s personal search for vintage modern furniture
 
 ## Capabilities
 - Interior design services
-- Furniture curation and retail
-- Showroom consultation
-- Space planning
-- Custom furniture specification
+- Commercial interior design
+- Furniture curation and specification
+- Showroom consultation and furniture testing
+- Custom furniture development
 
 ## Industries
-- Residential furniture retail
-- Interior design
-- Home furnishings
+- Residential interior design
+- Commercial interior design
+- Furniture retail
 
 ## Company details
 - **Company Type:** Retailer
@@ -349,12 +347,14 @@ Graveline credits her architect father for instilling an appreciation for design
 
 <details><summary>Sources</summary>
 
-- Founded 1998 by Karen Graveline -> /about
-- Located in Baltimore, Maryland with 9000 sq ft showroom -> /about, /
-- Carries brands Eilersen, Ethnicraft, Thayer Coggin, American Leather, Calligaris, Trica Furniture -> /
-- Offers interior design services -> /about, /
-- Team includes Erin Friedel with 25+ years design experience -> /about
-- Founder Karen Graveline has degree in interior design, commercial interior design background -> /about
+- Founded in 1998 by Karen Graveline -> /about
+- Located in Baltimore, Maryland -> db
+- 9,000-square-foot showroom near Inner Harbor -> /about and /
+- Carries brands: Eilersen, Ethnicraft, Trica Furniture, Calligaris, Thayer Coggin, American Leather -> /
+- Offers interior design services and custom piece development -> /about
+- Founder Karen Graveline has degree in interior design, background in commercial interior design -> /about
+- Team includes Erin Friedel with 25 years design experience -> /about
+- Mission: offer quality in everything from suppliers to design services -> / and /about
 </details>
 
 ---
@@ -364,42 +364,40 @@ Graveline credits her architect father for instilling an appreciation for design
 **Old description:** Design Molded Plastics is a leading provider of mold design and manufacturing solutions, serving a wide range of industries.
 
 ## About
-Design Molded Plastics operates from Macedonia, Ohio, where it has provided custom plastic injection molding services for over three decades. The company was founded more than 30 years ago, though an exact year is not publicly disclosed, and no founder names or ownership designations such as family- or veteran-owned are stated in its public materials.
+Design Molded Plastics operates from Macedonia, Ohio. The company has been in business for over three decades, specializing in custom plastic injection molding. No founding year or founders are disclosed, and ownership details are not publicly stated.
 
-The shop offers a full range of mold design, engineering, and manufacturing services, including custom injection molding, two‑shot molding on rotary presses up to 500 tons, in‑mold labeling, scientific molding, high‑heat molding (up to 390 °F), vertical molding on a 220‑ton rotary‑table machine, and decorating via hot stamping and plating. Its press lineup spans 88 to 950 tons, supporting everything from small precision components to large structural parts. Additional capabilities include assembly, warehousing and logistics, design and development, and metal‑to‑plastic conversion programs.
+The company provides mold design, plastic injection molding (including two-shot, in-mold labeling, scientific, high-heat, and vertical molding), decorating via hot stamping, assembly, warehousing and logistics, engineering, and design and development. Its press capabilities range from 88 to 950 tons, with rotary two-shot machines up to 500 tons and a 220-ton vertical molding machine with a rotary table. RJG-certified master molders lead the process engineering team. Facility size and headcount are not disclosed.
 
-Design Molded Plastics serves the automotive, healthcare, sports and recreation, appliance, and safety industries, supplying components that range from medical device housings to automotive interior parts and recreational equipment. The company also works with customers pursuing metal‑to‑plastic conversions across various industrial sectors.
+Design Molded Plastics serves the automotive, healthcare, sports and recreation, appliances, and safety industries. It also supports metal-to-plastic conversion projects across various sectors.
 
-The company emphasizes its scientific molding philosophy, led by RJG‑certified master molders, and maintains an ISO 9001:2015 registered quality system with APQP and PPAP processes. Its quality department operates Zeiss CMMs, optical measurement systems, and a full suite of tensile, moisture, and color‑analysis equipment, which the firm says enables tight process control and consistent part quality.
+The company differentiates itself through scientific molding practices, high-heat molding up to 390°F for advanced resins such as PEEK and carbon-filled PEEK, two-shot and overmolding expertise, and a quality system registered to ISO 9001:2015 with APQP/PPAP processes. Advanced inspection equipment includes Zeiss CMMs, optical measurement systems, and SPC workstations.
 
 ## Known for
-- RJG‑certified master molders on staff
-- Two‑shot molding on rotary presses up to 500 tons
-- High‑heat molding capability up to 390 °F
-- In‑mold labeling and hot‑stamping decoration
-- Press range from 88 to 950 tons
+- RJG-certified master molders on staff
+- Scientific molding process for tight process control
+- Two-shot molding up to 500 tons with rotary machines
+- High-heat molding up to 390°F for advanced resins (PEEK, PPA, etc.)
 - ISO 9001:2015 registered quality system with APQP/PPAP
 
 ## Capabilities
-- Mold Design
-- Custom Injection Molding
-- Two-Shot Molding
-- In-Mold Labeling
-- Scientific Molding
-- High-Heat Molding
-- Vertical Molding
+- Mold design
+- Plastic injection molding
+- Two-shot injection molding
+- In-mold labeling (IML)
+- Scientific molding
+- High-heat molding
+- Vertical molding
 - Overmolding
-- Hot Stamping
-- Chrome/Metal/Copper/Nickel Plating
+- Hot stamping
 - Assembly
-- Warehousing & Logistics
-- Engineering Services
-- Design & Development
+- Warehousing & logistics
+- Engineering services
+- Design & development
 - Advanced Product Quality Planning (APQP)
 - Production Part Approval Process (PPAP)
-- Quality Inspection (CMM, Optical, SPC, Tensile, Moisture, Color, Balance)
-- Metal-to-Plastic Conversion
-- Prototyping
+- Quality inspection (CMM, optical, SPC)
+- Metal-to-plastic conversion
+- Plating (chrome, nickel, copper)
 
 ## Industries
 - Automotive
@@ -409,9 +407,9 @@ The company emphasizes its scientific molding philosophy, led by RJG‑certified
 - Safety
 
 ## Equipment
-- Rotary two-shot machines up to 500 tons
+- 88-950 ton injection molding presses
+- 500-ton rotary two-shot molding machines
 - 220-ton vertical molding machine with rotary table
-- Presses 88–950 tons
 - Zeiss Eclipse CMM
 - Zeiss Vista CMM
 - RAM Optical Measurement System
@@ -421,7 +419,7 @@ The company emphasizes its scientific molding philosophy, led by RJG‑certified
 - Tinius Olsen Tensile Testing Machine
 - Chattilon Force Gage
 - Electronic Torque Analyzer
-- SPC Data Collection Workstations
+- SPC Data Collection workstations
 
 ## Certifications
 - ISO 9001:2015
@@ -433,30 +431,27 @@ The company emphasizes its scientific molding philosophy, led by RJG‑certified
 <details><summary>Sources</summary>
 
 - Headquarters: Macedonia, Ohio -> db
-- Over 30 years of experience -> /about-us
+- Over 30 years in business -> /about-us
 - Press capabilities 88-950 tons -> /about-us
 - Two-shot molding up to 500 tons -> /about-us
 - Vertical molding 220-ton rotary table -> /about-us
 - High-heat molding up to 390°F -> /about-us
 - Materials: PPS, PPA, PARA, PEEK, carbon-filled PEEK -> /about-us
-- Industries served: Automotive, Healthcare, Sports & Recreation, Appliances, Safety -> /
-- ISO 9001:2015 certification -> /quality
-- RJG Master Molders on staff -> /
-- APQP and PPAP processes -> /quality
-- Quality equipment: Zeiss CMMs, optical measurement, moisture analyzers, spectrophotometers, balancing machines, tensile testers -> /quality
-- In-mold labeling capabilities -> /about-us, /capabilities
-- Hot stamping decorating -> /capabilities
-- Assembly services -> /capabilities, /services
+- Industries: Automotive, Healthcare, Sports & Recreation, Appliances, Safety -> /
+- ISO 9001:2015 certified -> /quality
+- RJG Master Molders on staff -> / and /about-us
+- Scientific molding -> /about-us
+- In-mold labeling -> /about-us
+- Hot stamping -> /capabilities
+- Assembly services -> /capabilities
 - Warehousing & logistics -> /services
 - Engineering services -> /services
 - Design & development -> /services
-- Metal-to-plastic conversion -> /about-us
-- Chrome, Metal, Copper, Nickel plating -> /capabilities
-- Scientific molding philosophy -> /about-us
-- Overmolding -> /about-us
-- Mold design -> /services
-- Company type: Manufacturer -> db/website
-- Makes products: yes -> from description
+- APQP/PPAP -> /quality
+- Inspection equipment: Zeiss Eclipse CMM, Zeiss Vista CMM, RAM Optical Measurement System, etc. -> /quality
+- Metal-to-plastic conversions -> /about-us
+- Plating services -> /capabilities
+- Company type: Manufacturer -> description and multiple pages
 </details>
 
 ---
@@ -466,28 +461,28 @@ The company emphasizes its scientific molding philosophy, led by RJG‑certified
 **Old description:** Furnish your living room in one easy step with coordinated living room sets from Detroit Furniture in Dearborn, MI. Our sets include matching sofas, loveseats, and accent pieces designed to work together, so your room looks pulled together from day one without the hassle of mixing and matching individual pieces. Buying a living room set is also one of the most cost-effective ways to furnish a room — you get a complete, coordinated look for less than purchasing each piece separately. Our sets come in a range of styles from casual and contemporary to traditional and transitional, with fabric, leather, and performance material options. Whether you're moving into a new home, updating your current space, or furnishing a rental property, a living room set makes the process simple. Visit our furniture showroom in Dearborn to see complete living room sets displayed in room-style settings. Shop in store or online with delivery and financing available.
 
 ## About
-Detroit Furniture Inc operates a furniture showroom in Dearborn, Michigan. The business was founded by an industry veteran with more than 25 years of experience, though the exact founding year and founder’s name are not disclosed. Ownership details such as family, veteran, or woman-owned status are not specified in public sources.
+Detroit Furniture Inc operates a furniture showroom and online store from its location on Miller Road in Dearborn, Michigan.
 
-The company retails residential furniture, carrying brands such as Ashley Furniture. Its product range includes living room sets (sofas, loveseats, accent pieces), bedroom sets, dining room furniture, entertainment units, and youth bedroom sets. The showroom displays coordinated room settings, and the company offers white‑glove delivery with setup, assembly‑free options, and financing plans. Inventory is kept in stock for immediate purchase or delivery.
+The company stocks a range of residential furniture including coordinated living room sets, sofas, loveseats, recliners, bedroom sets, mattresses, dining room pieces, entertainment units, and youth bedroom collections. Inventory features brands such as Ashley Furniture, with items displayed in room-style settings at the showroom. Services include white-glove delivery with in-home setup, assembly, and financing options for qualified buyers.
 
-Detroit Furniture serves primarily residential customers — homeowners, renters, and property managers furnishing homes or rental units. The retailer also accommodates online shoppers with shipping and in‑store pickup options. No industrial or contract‑manufacturing clients are indicated.
+Customers are primarily homeowners, renters, and property managers furnishing primary residences, vacation homes, or rental units. The retailer serves the metropolitan Detroit area through its physical showroom and ships nationally via its e-commerce platform.
 
-The business emphasizes a hassle‑free buying experience: coordinated sets that eliminate mixing‑and‑matching, free delivery and setup, and knowledgeable, non‑pushy sales staff. These service elements are presented as the core differentiators rather than any proprietary manufacturing capability.
+The founder's stated goal was to simplify the furnishing process by offering curated, coordinated sets that eliminate the need to mix and match individual pieces, delivering a complete look at a lower combined cost.
 
 ## Known for
-- Free delivery and white‑glove setup on all purchases
-- Financing options available for any budget
-- Coordinated living room sets sold as complete packages
-- In‑stock inventory ready for immediate take‑home or delivery
-- Knowledgeable, non‑commissioned sales staff
+- Coordinated living room sets eliminate mixing and matching
+- White-glove delivery with in-home setup included
+- Financing options available for qualified buyers
+- In-stock inventory ready for immediate delivery
+- Room-style showroom displays for in-person viewing
 
 ## Capabilities
-- Furniture retail
-- White glove delivery and setup
-- Assembly service
-- Financing options
-- In-stock inventory management
-- Online and in-store sales
+- Furniture retail sales
+- White-glove delivery
+- In-home assembly and setup
+- Consumer financing
+- In-store and online purchasing
+- Room-style product merchandising
 
 ## Industries
 - Residential furniture retail
@@ -495,109 +490,65 @@ The business emphasizes a hassle‑free buying experience: coordinated sets that
 
 ## Company details
 - **Company Type:** Retailer
+- **Founded:** 2006
 - **Headquarters:** Dearborn, Michigan
 
 <details><summary>Sources</summary>
 
 - Company name: Detroit Furniture Inc -> db
 - Headquarters: Dearborn, Michigan -> db
-- Address: 6060 Miller Road, Dearborn, MI 48126 -> /
-- Phone: 313-582-9601 -> /
-- Website: https://detfurniture.com/ -> db
-- Retails Ashley Furniture brand products -> /
-- Offers white glove delivery and setup -> /
-- Offers financing options -> /
-- Founded by industry veteran with 25+ years experience -> /
-- Showroom displays coordinated room settings -> /
-- Sells living room sets, bedroom sets, dining room, entertainment, youth bedroom -> /
-- Free delivery and setup advertised -> /
-- Customer reviews mention knowledgeable staff -> /
+- Founded: 2006 -> page /
+- Founder: industry veteran with 25+ years experience -> page /
+- Showroom address: 6060 Miller Road, Dearborn, MI 48126 -> page /
+- Carries Ashley Furniture brand -> page /
+- Offers white glove delivery and setup -> page /
+- Offers financing -> page /
+- Sells coordinated living room sets, sofas, loveseats, bedroom sets, dining, entertainment, youth bedroom -> page /
+- Room-style showroom settings -> page /
+- Customer reviews mention staff like Ahmad -> page /
+- Instagram presence -> page /
 </details>
 
 ---
 
 # Dewitt Equipment Co
 
-**Old description:** In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.
-
-## About
-DeWitt Equipment Company operates from Mesa, Arizona, providing equipment repair and maintenance services to residential customers. The business focuses on on-site service visits, allowing clients to schedule appointments by sending a message with their location and a description of the problem.
-
-The company’s core offering is broad equipment repair, with the stated ability to fix almost any household equipment. Technicians travel to the customer’s address, and the process is designed to be straightforward: the client provides details, a visit is scheduled, and the repair is completed on site.
-
-DeWitt primarily serves homeowners in the Mesa area who need repairs for appliances and other household equipment. The company positions itself as a convenient alternative to transporting broken items to a shop, emphasizing a simple, stress-free experience.
-
-The company highlights its commitment to guaranteed, trusted, and affordable service, aiming to remove the hassle from equipment maintenance. Its mission centers on improving daily routines by delivering reliable repairs without requiring customers to do the heavy lifting.
-
-## Known for
-- Guaranteed, trusted, and affordable service
-- Simple, stress-free service process
-- Broad repair capability for almost any equipment
-
-## Capabilities
-- Equipment repair
-- On-site service visits
-- Service scheduling via message
-
-## Industries
-- Residential equipment repair
-
-## Company details
-- **Company Type:** Installer / service company
-- **Headquarters:** Mesa, Arizona
-
-<details><summary>Sources</summary>
-
-- Location: Mesa, AZ -> /
-- Service offering: equipment repair and on-site visits -> /
-- Contact email and phone -> /
-- Mission: simple, stress-free equipment service -> /
-- Capability: schedule a service visit -> db
-</details>
-
----
+_skipped: not enough facts_
 
 # DiLanna Foodservice and Paper Products
 
 **Old description:** Family owned since 1939, DiLanna Foodservice and Paper Products has spent more than eight decades helping local establishments with all their foodservice and supply needs.
 
 ## About
-DiLanna Foodservice and Paper Products was founded in 1939 in Johnston, Rhode Island, and has remained family-owned across four generations. The company began as a local supplier to neighborhood eateries and has grown into a regional distributor serving all of Rhode Island and southeastern Massachusetts.
+DiLanna Foodservice and Paper Products operates from Johnston, Rhode Island, where it was founded in 1939 as a family-owned business. Now in its fourth generation, the company continues under the leadership of David DiLanna, who has maintained a practice of hiring local residents and preserving the family-oriented approach that defined its early years.
 
-From its Johnston facility, the company distributes a broad catalog of foodservice and paper products, including canned and dry goods, meat and poultry, dairy and frozen items, fresh produce, paper products, packaging, and operational supplies. The product line expands continuously, and the company offers direct delivery to customer locations throughout its service area.
+The company distributes a broad range of foodservice and paper products, including canned and dry goods, meat and poultry, dairy and frozen items, paper products and packaging, convenience foods, grocery staples, and specialty seasonal items. Its catalog expands daily, and orders are fulfilled through direct delivery across Rhode Island and into southeastern Massachusetts, supported by a mobile app that provides access to personalized order guides.
 
-Its customer base spans restaurants, pizzerias, convenience stores, grocery stores, nursing homes, and institutional accounts such as healthcare facilities. The company emphasizes personal service, with a sales team led by industry veterans who have worked in kitchen and front-of-house roles.
+DiLanna serves restaurants and full-service dining establishments, pizzerias, convenience stores, grocery stores, nursing homes and healthcare facilities, and other institutional accounts. The customer base spans neighborhood eateries in Providence to large institutional operations on the South Shore.
 
-DiLanna differentiates itself through a family-business approach—"big enough to serve you, small enough to care"—combining reliable delivery, responsive account management, and a mobile ordering app. Leadership, including Director of Sales Anthony Melillo, brings decades of hands-on foodservice experience to understand operational needs firsthand.
+The business emphasizes personal service and reliability, with a team led by industry veterans such as Director of Sales Anthony Melillo, who brings more than 30 years of hands-on experience from dishwasher to chef and food-and-beverage manager. The company positions its differentiator as answering the phone personally, delivering dependably, and treating customers like family.
 
 ## Known for
-- Family-owned since 1939, now in its fourth generation
+- Family-owned since 1939, now in fourth generation
 - Direct delivery throughout Rhode Island and southeastern Massachusetts
-- Sales team led by foodservice veterans with kitchen and management experience
-- Mobile app for catalog access and ordering
-- Personal service with live phone support and reliable delivery
+- Leadership with 30+ years of kitchen and management experience
+- Mobile app for catalog access and personalized ordering
+- Personal phone support and family-style customer service
 
 ## Capabilities
 - Foodservice distribution
-- Wholesale food supply
-- Paper and packaging supply
-- Delivery logistics
-- Online/mobile ordering platform
-- Canned and dry goods distribution
-- Meat and poultry distribution
-- Dairy and frozen foods distribution
-- Produce distribution
-- Convenience foods distribution
-- Grocery staples distribution
-- Specialty and seasonal items distribution
+- Paper products distribution
+- Direct delivery
+- Catalog management
+- Mobile ordering platform
+- Account management
 
 ## Industries
-- Restaurants
+- Restaurants & full-service dining
 - Pizzerias
 - Convenience stores
 - Grocery stores
-- Nursing homes
-- Healthcare facilities
+- Nursing homes & healthcare facilities
 - Institutional accounts
 
 ## Company details
@@ -608,19 +559,15 @@ DiLanna differentiates itself through a family-business approach—"big enough t
 
 <details><summary>Sources</summary>
 
-- Founded 1939 -> db
-- Family-owned since 1939 -> db, /about-us
-- Headquarters Johnston, RI -> db, /about-us
-- Serves Rhode Island and southeastern Massachusetts -> /about-us
-- Product categories (canned/dry, meat/poultry, dairy/frozen, produce, paper, packaging, operational supplies) -> /services
-- Industries served (restaurants, pizzerias, convenience stores, grocery stores, nursing homes, institutional accounts) -> /services, /
-- Anthony Melillo Director of Sales with 30+ years foodservice experience -> /about-us
-- Fourth generation family business -> /
-- 85+ years in business -> /
-- David DiLanna hires local residents -> /about-us
-- Mobile app for ordering -> /
-- Personal service, reliable delivery, live phone support -> /about-us
-- Big enough to serve you, small enough to care -> /
+- Founded 1939, family-owned, fourth generation -> /about-us
+- Headquartered in Johnston, Rhode Island -> /about-us, /
+- David DiLanna continues hiring local residents -> /about-us
+- Distributes canned/dry goods, meat/poultry, dairy/frozen, paper products, packaging, convenience foods, grocery staples, specialty/seasonal -> /services, /
+- Direct delivery throughout Rhode Island and southeastern Massachusetts -> /about-us, /
+- Mobile app for catalog access and personalized ordering -> /, /about-us
+- Serves restaurants, pizzerias, convenience stores, grocery stores, nursing homes, institutional accounts -> /, /about-us, /services
+- Anthony Melillo, Director of Sales, 30+ years experience from dishwasher to chef/F&B manager -> /about-us
+- Personal service, live phone support, family-style approach -> /about-us
 </details>
 
 ---

@@ -3,34 +3,38 @@
 **Old description:** EPE helps OEMs, EMS providers, and global supply chains recover value from excess, obsolete, and slow-moving electronic components through transparent resale and inventory recovery programs.
 
 ## About
-Based in Salem, Massachusetts, Electronic Parts Exchange (EPE) operates as a specialist in excess electronic component recovery. The company serves original equipment manufacturers (OEMs), electronics manufacturing services (EMS) providers, and global supply chains.
+EPE Components operates from Salem, Massachusetts, where it serves as a specialized intermediary for excess and obsolete electronic inventory. The company focuses on helping original equipment manufacturers, electronics manufacturing services providers, and global supply chains convert idle component stock into working capital through structured resale and recovery programs.
 
-EPE converts idle inventory into working capital through consignment or buyout programs, secure authorized remarketing, ESG circular reporting, and lifecycle obsolescence management. A proprietary ClearView platform tracks quotes, sales activity, balances, and recovery performance. The company also provides quality testing services including documentation inspection, external visual inspection, X-ray inspection (X6600/X6600B), solderability testing (MUST System 3), decapsulation (JetEtch), and Keyence microscopy up to 6000× magnification.
+The firm runs a proprietary ClearView platform that tracks quotes, sales activity, balances, and recovery performance in real time. Its service lines include excess inventory recovery via consignment or buyout, secure authorized remarketing to protect brand integrity, ESG circular reporting with data-backed sustainability metrics, and lifecycle obsolescence management to maintain supply continuity. Quality assurance is anchored by an AS9120B:2016 and ISO 9001:2015 certified management system, supplemented by ISO 14001 and ISO 45001 certifications. Inspection and testing capabilities cover documentation review, packaging verification, external visual inspection, remarking and resurfacing tests (scrape and solvent), X-ray inspection using an X6600/X6600B microfocus system, solderability testing on a MUST System 3 platform, decapsulation via a JetEtch chemical system, and high-magnification microscopy on a Keyence instrument (20–6000×). The company also maintains AS6081 compliance for counterfeit detection.
 
-Customers span automotive, aviation/military, and medical sectors. In automotive, EPE works with commodity managers addressing lead-time and obsolescence issues for manufacturers such as NVIDIA, Intel, NXP, Infineon, Texas Instruments, Renesas, Bosch, On Semiconductor, and STMicroelectronics. The aviation and military segment is supported by AS9120B:2016 certification and DOD-certified test facilities. Medical clients receive semiconductors and LCDs sourced through strict vendor screening and quality control.
+EPE's customer base spans automotive, aviation/military, and medical sectors. In automotive, commodity managers monitor lead-time and obsolescence issues for components from suppliers such as NVIDIA, Intel, NXP, Infineon, Texas Instruments, Renesas, Bosch, Onsemi, and STMicroelectronics. Aviation and military clients rely on the firm's AS9120 certification and use of DOD-certified test facilities when required. Medical customers receive semiconductors and LCDs sourced through a strict vendor screening process.
 
-The company emphasizes a transparent recovery process, certified compliance (ISO 9001:2015, ISO 14001, ISO 45001, AS9120B:2016), global resale reach, and consignment strategies that often outperform liquidation. Its quality system is AS6081 compliant for counterfeit detection, with rigorous external visual inspection on all incoming and outgoing shipments.
+The company emphasizes transparent recovery processes, global buyer access to maximize pricing, and consignment strategies that it says often outperform traditional liquidation. Its quality program is built around rigorous incoming and outgoing inspection, detailed test reporting, and traceability documentation.
 
 ## Known for
-- Transparent recovery process with real-time ClearView platform tracking
-- Certified compliance: ISO 9001:2015, ISO 14001, ISO 45001, AS9120B:2016
-- Global resale reach to qualified buyers worldwide
-- Consignment strategies that often outperform liquidation
-- AS6081 compliant counterfeit detection program
+- Proprietary ClearView platform for real-time inventory tracking and recovery analytics
+- Consignment and buyout programs for excess electronic components
+- AS9120B:2016 and ISO 9001:2015 certified quality management system
+- AS6081 compliant counterfeit detection with multi-method testing
+- Global resale network for maximizing returns on obsolete inventory
 
 ## Capabilities
 - Excess inventory recovery (consignment and buyout)
 - Secure authorized remarketing
 - ESG circular reporting
 - Lifecycle obsolescence management
-- ClearView platform for inventory tracking
-- Documentation inspection
-- External visual inspection
-- Remarking and resurfacing testing (scrape test, solvent test)
-- X-ray inspection (X6600/X6600B)
+- Documentation inspection (part number, date code, CoC, country of origin, lot identification)
+- Packaging inspection (condition, manufacturer packing, ESD/MSL compliance, bar codes)
+- External visual inspection (body, markings, terminals, mechanical dimensions vs. datasheet)
+- Remarking/resurfacing testing (scrape test, solvent test)
+- X-ray inspection (X6600/X6600B microfocus system)
 - Solderability testing (MUST System 3)
-- Decapsulation (JetEtch system)
-- Keyence microscopy (20–6000×)
+- Decapsulation (JetEtch chemical system)
+- High-magnification microscopy (Keyence, 20–6000×)
+- Counterfeit detection (AS6081 compliant)
+- Inventory assessment and valuation
+- Global resale and distribution
+- Supply chain risk management
 
 ## Industries
 - Automotive
@@ -38,10 +42,10 @@ The company emphasizes a transparent recovery process, certified compliance (ISO
 - Medical
 
 ## Equipment
-- X6600/X6600B X-ray inspection system
+- XRAY Machine X6600/X6600B
 - MUST System 3 solderability tester
 - JetEtch decapsulation system
-- Keyence microscope
+- Keyence microscope (20–6000×)
 
 ## Certifications
 - ISO 9001:2015
@@ -56,17 +60,19 @@ The company emphasizes a transparent recovery process, certified compliance (ISO
 
 <details><summary>Sources</summary>
 
-- Location: Salem, Massachusetts -> db
-- Business description: excess electronic component recovery for OEMs/EMS -> /
-- Proprietary ClearView platform for tracking -> /
-- Services: consignment, buyout, authorized remarketing, ESG reporting, obsolescence management -> /
-- Certifications: ISO 9001, 14001, 45001, AS9120 -> /quality
-- AS6081 compliant for counterfeit detection -> /quality
-- Quality testing processes: documentation inspection, external visual inspection, X-ray, solderability, decapsulation, microscopy -> /quality
-- Equipment: X6600/X6600B X-ray, MUST System 3, JetEtch, Keyence microscope -> /quality
-- Industries served: automotive (named manufacturers), aviation/military, medical -> /quality
-- DOD-certified test facilities for aviation/military -> /quality
-- Strict vendor screening for medical -> /quality
+- Headquarters in Salem, Massachusetts -> db
+- Business model: excess/obsolete electronic component resale and recovery for OEMs, EMS, global supply chains -> /
+- Proprietary ClearView platform for tracking quotes, sales, balances, recovery performance -> /
+- Service lines: excess inventory recovery (consignment/buyout), secure authorized remarketing, ESG circular reporting, lifecycle obsolescence management -> /
+- Certifications: ISO 9001, ISO 14001, ISO 45001, AS9120 -> /
+- Quality management: AS9120B:2016, ISO 9001:2015 -> /quality
+- AS6081 compliant (soon to be certified) for counterfeit detection -> /quality
+- Inspection processes: documentation, packaging, external visual, remarking/resurfacing testing -> /quality
+- Testing equipment: XRAY Machine X6600/X6600B, MUST System 3 solderability tester, JetEtch decapsulation system, Keyence microscope -> /quality
+- Industries served: Automotive (with named component suppliers), Aviation/Military, Medical -> /quality
+- Automotive component suppliers: NVIDIA, Intel, NXP, Infineon, TI, Renesas, Bosch, On Semi, ST Microelectronics -> /quality
+- Aviation/military: DOD-certified test facilities used when required -> /quality
+- Medical: strict vendor screening for semiconductors and LCDs -> /quality
 </details>
 
 ---
@@ -76,36 +82,38 @@ The company emphasizes a transparent recovery process, certified compliance (ISO
 **Old description:** The 30% Solar Incentive is here — and now it’s easier than ever.
 
 ## About
-ES Solar is based in Layton, Utah, and was founded in 2010. The company operates as a solar panel and battery backup installer, managing projects from design through installation and ongoing service with a single in-house team.
+ES Solar is headquartered in Layton, Utah, and was founded in 2010. The company operates as a privately held installer of solar panel and battery backup systems.
 
-The company provides residential and commercial solar installations, battery storage systems, and ongoing service and support. Since its founding, ES Solar has completed more than 15,000 installations across Utah, Nevada, California, Idaho, and Texas. Its service offering includes an 8-point system check, performance monitoring, and a Protection Plus plan that provides 100% service coverage. The firm also handles permitting and offers financing options such as cash purchase, prepaid lease, power purchase agreements, and loans.
+The company provides end-to-end solar solutions, handling design, permitting, installation, and ongoing service in-house. It has completed more than 15,000 installations across Utah, Nevada, California, Idaho, and Texas, serving both residential and commercial customers. Its service division performs an 8-point system check and monitoring for systems installed by ES Solar or other providers.
 
-ES Solar serves homeowners seeking energy independence and lower utility bills, as well as business owners aiming to reduce operating costs through commercial solar arrays. The company's residential customers are located in the five western states where it operates, while its commercial clients include businesses looking for clean, renewable power solutions.
+ES Solar works primarily with homeowners and business owners seeking to reduce energy costs and gain independence from the grid. Residential projects include rooftop solar and battery backup, while commercial installations help businesses lower operating expenses. The company also offers flexible financing structures such as cash purchase, prepaid leases, power purchase agreements, and loans.
 
-ES Solar emphasizes its end-to-end in-house approach, which it says ensures accountability from design to activation. The company backs its installations with OEM warranties on parts and highlights its 100% customer satisfaction goal, supported by thousands of positive customer reviews.
+ES Solar emphasizes a single-team approach from consultation through activation, backed by an OEM parts warranty and an optional Protection Plus plan for 100% service coverage. Certified contractors manage each project, and the company cites over 4,000 Google reviews as a measure of customer satisfaction.
 
 ## Known for
-- End-to-end in-house design, installation, and service
-- 15,000+ installations across five western states
-- 8-point system check and continuous monitoring
-- OEM warranty on parts with optional Protection Plus coverage
-- Flexible financing including PPA, lease, and loan options
+- Everything in-house from design to installation and service
+- 15,000+ installations across five states
+- OEM warranty for parts
+- 100% service coverage available with Protection Plus
+- Flexible financing options (cash, lease, PPA, loan)
 
 ## Capabilities
-- Solar panel installation
+- Solar system design
+- Permitting and approvals
+- Residential solar installation
+- Commercial solar installation
 - Battery backup installation
-- System design
-- Permitting
-- Installation
-- Service and support
 - System monitoring
-- 8-point system check
-- Financing options
+- 8-point system inspection
+- Service and maintenance for third-party systems
+- Financing consultation (cash, lease, PPA, loan)
+- OEM parts warranty
+- Protection Plus service coverage
 
 ## Industries
-- Residential solar
-- Commercial solar
-- Battery storage
+- Residential
+- Commercial
+- Solar energy
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -114,15 +122,18 @@ ES Solar emphasizes its end-to-end in-house approach, which it says ensures acco
 
 <details><summary>Sources</summary>
 
-- Founded 2010 (db)
-- Headquarters Layton, Utah (db)
-- 15,000+ installations across Utah, Nevada, California, Idaho, Texas (homepage)
-- In-house design, installation, service (homepage)
-- Residential, commercial, battery storage services (homepage)
-- 8-point system check and monitoring (homepage)
-- OEM warranty for parts (homepage)
-- Protection Plus 100% service coverage (homepage)
-- Financing options: cash, prepaid lease, PPA, loan (homepage)
+- Founded 2010 -> db
+- Headquarters Layton, Utah -> db
+- 15,000+ installations across five states -> /
+- In-house design, installation, service -> /
+- Residential and commercial solar -> /
+- Battery backup installation -> /
+- 8-point system check and monitoring -> /
+- Financing options (cash, lease, PPA, loan) -> /
+- OEM warranty for parts -> /
+- Protection Plus 100% service coverage -> /
+- Certified contractors -> /
+- 4,000+ Google reviews -> /
 </details>
 
 ---
@@ -132,58 +143,58 @@ ES Solar emphasizes its end-to-end in-house approach, which it says ensures acco
 **Old description:** To reset your password using your email address or your ACDelco Connection username
 
 ## About
-Eagle Automotive Distributors operates as part of the Lowe Automotive Group, headquartered in St. Louis, Missouri. The business traces its roots to 1968 when Norman Lowe established the company; after his passing in 1996, his son Jeff Lowe assumed the presidency of Lowe Automotive Whse. and MAP Automotive Whse. The group has grown through a series of expansions and acquisitions across Missouri, Illinois, and Wisconsin.
+Eagle Automotive Distributors operates as the distribution arm of the Lowe Automotive Group, headquartered in St. Louis, Missouri. The business traces its roots to 1968 when Norman Lowe established the company; after his passing in 1996, his son Jeff Lowe assumed the presidency of both Lowe Automotive Whse. and MAP Automotive Whse., keeping the operation family-owned.
 
-The company functions as a full-line warehouse distributor (Parts Plus WD) for automotive aftermarket parts. It stocks and supplies a broad range of components including S.U.R.&R. vehicle fluid line repair solutions for A/C, brake, and fuel lines. Operations span more than a dozen locations — among them Jefferson County Auto Parts in Arnold, Pevely Plaza Auto Parts, St Peters Auto Parts, South County and South Town Auto Parts in St. Louis, Eagle West in Ballwin, Lowe/Eagle Springfield, SEMO Automotive in Cape Girardeau, and MAP/Eagle sites in Milwaukee, Bloomington, Chicago, and Peoria. The group also acquired the parts division of Mid-Nite Automotive's jobber store in St. Peters in August 2023.
+The group functions as a full-line Parts Plus warehouse distributor, supplying automotive replacement parts through a network of locations across Missouri, Illinois, and Wisconsin. In Missouri the group runs stores under the Lowe, Eagle, and MAP banners — including Jefferson County Auto Parts in Arnold, Pevely Plaza Auto Parts, St Peters Auto Parts, South County Auto Parts, South Town Auto Parts, SEMO Automotive in Cape Girardeau, and a St. Louis facility on Camera Avenue. Illinois locations include Bloomington, Chicago (Alsip), and Peoria; Wisconsin is served from Butler (Milwaukee area). A 2023 acquisition added the parts division of Mid-Nite Automotive's jobber store in St. Peters. The distributor supports professional installers with electronic ordering via Connection, EPN (formerly AconneX), and Parts Tech, and stocks S.U.R.&R. fluid line repair solutions for A/C, brake, and fuel lines.
 
-Customers include professional installers, independent repair shops, and Ford dealerships across the Midwest. The distributor supports Ford dealers through a dedicated Ford WebShop portal, while other buyers access inventory via the Connection, EPN (formerly AconneX), and Parts Tech electronic ordering platforms. St. Charles County installers and Wisconsin-based jobbers are specifically noted as key customer groups.
+Customers include independent repair shops, installer technicians, fleet maintenance operations, and Ford dealerships — the latter accessing a dedicated Ford WebShop portal. The company's Midwest footprint targets professional automotive service providers in the St. Louis metro, central Illinois, and southeastern Wisconsin.
 
-Leadership emphasizes that continued expansion remains "customer service driven." The company differentiates itself with a multi-channel ordering suite — WebDocs for document lookup, E-Statements, and three electronic ordering systems — alongside a wide brick-and-mortar footprint that puts inventory close to the shops it serves.
+Leadership emphasizes that continued expansion is "customer service driven," a principle cited when opening the Wisconsin branch in 1997 and when enhancing inventory at the St. Peters store to serve St. Charles County installers.
 
 ## Known for
-- "Customer service driven" expansion philosophy
-- Full-line Parts Plus warehouse distributor model
-- Three electronic ordering platforms (Connection, EPN, Parts Tech)
-- WebDocs document lookup and E-Statements
-- S.U.R.&R. fluid line repair solutions product line
+- Full-line Parts Plus warehouse distributor program
+- Multi-brand network (Lowe, MAP, Eagle) across three states
+- Three electronic ordering platforms: Connection, EPN, Parts Tech
+- Dedicated Ford dealer portal (Ford WebShop)
+- S.U.R.&R. fluid line repair solutions inventory
 
 ## Capabilities
 - Automotive parts warehouse distribution
-- Electronic ordering via Connection
-- Electronic ordering via EPN (formerly AconneX)
-- Electronic ordering via Parts Tech
-- WebDocs document management
-- E-Statements
-- S.U.R.&R. fluid line repair solutions supply
-- Ford dealer portal support (Ford WebShop)
-- Multi-location inventory fulfillment
-- Jobber store supply
+- Electronic ordering (Connection, EPN, Parts Tech)
+- Inventory management and replenishment
+- Fluid line repair solutions (S.U.R.&R.)
+- Ford dealership parts supply
+- Multi-location distribution network
 
 ## Industries
 - Automotive aftermarket
-- Automotive repair and installation
-- Ford dealerships
-- Jobber/wholesale distribution
+- Automotive repair and maintenance
+- Fleet maintenance
+- Heavy duty automotive
+- Ford dealership parts
 
 ## Company details
 - **Company Type:** Distributor / reseller
 - **Founded:** 1968
+- **Ownership:** Family-owned
 - **Headquarters:** St. Louis, Missouri
 
 <details><summary>Sources</summary>
 
+- Company name Eagle Automotive Distributors -> db
+- Website loweauto.com -> db
 - Founded 1968 -> db
 - Headquarters St. Louis, Missouri -> db
-- Norman Lowe founded, passed 1996, Jeff Lowe became President -> industries_served
-- MAP Automotive opened Butler WI location 1997 -> industries_served
-- Acquired Mid-Nite Automotive parts division August 2023 -> industries_served
-- Full-Line Parts Plus WD -> industries_served
-- Multiple locations across MO, IL, WI -> pages
-- S.U.R.&R. Vehicle Fluid Line Repair Solutions -> pages
-- Electronic ordering: Connection, EPN, Parts Tech -> pages
-- WebDocs, E-Statements -> pages
-- Ford Dealer portal (Ford WebShop) -> pages
-- Customer service driven expansion -> industries_served
+- Norman Lowe founded, Jeff Lowe became president 1996 -> page '/'
+- Full-line Parts Plus warehouse distributor -> page '/'
+- Locations across Missouri, Illinois, Wisconsin -> page '/'
+- Store names: Jefferson County Auto Parts, Pevely Plaza Auto Parts, St Peters Auto Parts, South County Auto Parts, South Town Auto Parts, SEMO Automotive -> page '/'
+- MAP Automotive opened Butler WI location 1997 -> page '/'
+- Acquired Mid-Nite Automotive parts division St. Peters MO August 2023 -> page '/'
+- Electronic ordering: Connection, EPN, Parts Tech -> page '/'
+- Ford dealer separate portal Ford WebShop -> page '/'
+- S.U.R.&R. fluid line repair solutions -> page '/'
+- Customer service driven expansion stated -> page '/'
 </details>
 
 ---
@@ -193,37 +204,38 @@ Leadership emphasizes that continued expansion remains "customer service driven.
 **Old description:** Since 1996, Eagle Electric has been the area's top choice for electrical work. If you need help with your industrial building, give us a call. As the top industrial electricians AR businesses can count on, we will respond to your call by the next business day and can provide a FREE estimate within one to two business days.  We're available 24/7 for your electrical needs.
 
 ## About
-Eagle Electric has operated from Benton, Arkansas since 1996. The company began as a local electrical contractor focused on industrial facilities and has since expanded to serve municipal clients across the region. Ownership details and founder names are not publicly disclosed.
+Eagle Electric, also operating as Arkansas Instrument Services, has served the Benton, Arkansas area since 1996. The company was established to provide industrial electrical services to local businesses and has built a reputation over more than three decades in the region.
 
-The firm provides a range of field services including switchgear and substation maintenance, bucket-truck operations, industrial wiring, and production-line retrofits. It also operates under the name Arkansas Instrument Services to sell, service, and install electrical equipment. No facility size or headcount figures are published.
+The firm delivers a range of electrical services including industrial wiring, production-line retrofits, switchgear and substation maintenance, and bucket-truck operations. It also supplies electrical products and offers sales, service, and installation support. Technicians are available around the clock for emergency calls, and the company promises to return inquiries by the next business day.
 
-Customers include industrial plants and municipal utilities that require routine maintenance, emergency repairs, or upgrades to electrical infrastructure. Typical projects involve wiring for production lines, substation servicing, and bucket-truck access for overhead work. The company describes itself as a source for both electrical products and services.
+Eagle Electric works primarily with industrial and municipal customers across Arkansas. Typical clients include manufacturing plants, municipal facilities, and commercial buildings requiring electrical infrastructure upgrades, preventive maintenance, or emergency repairs.
 
-Eagle Electric emphasizes rapid response, promising to return calls by the next business day and to deliver free estimates within one to two business days. The company maintains 24/7 availability for emergency electrical needs, positioning itself as a dependable partner for industrial electrical safety.
+The company emphasizes rapid response and accessibility, providing free estimates within one to two business days and maintaining 24/7 availability. Its over 30 years of field experience and focus on switchgear and substation expertise are cited as key differentiators in the local market.
 
 ## Known for
-- 24/7 emergency electrical service
-- Next business day callback guarantee
+- 24/7 emergency service availability
 - Free estimates within 1-2 business days
-- Switchgear and substation expertise
-- Bucket-truck service for overhead work
+- Next business day response for service calls
+- Over 30 years of industrial electrical experience
+- Switchgear and substation specialization
 
 ## Capabilities
-- Industrial electrical field services
-- Municipal electrical field services
-- Switchgear maintenance and repair
-- Substation maintenance and repair
+- Industrial electrical installation and maintenance
+- Production-line retrofit wiring
+- Switchgear and substation services
 - Bucket-truck operations
-- Industrial wiring installation
-- Production-line electrical retrofits
-- Electrical equipment sales
-- Electrical equipment service and installation
+- Electrical product sales and supply
 - 24/7 emergency response
-- Free project estimates
+- Free on-site estimates
+- Municipal field services
 
 ## Industries
-- Industrial
-- Municipal
+- Industrial manufacturing
+- Municipal government
+- Commercial facilities
+
+## Equipment
+- Bucket trucks
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -232,15 +244,16 @@ Eagle Electric emphasizes rapid response, promising to return calls by the next 
 
 <details><summary>Sources</summary>
 
-- Founded 1996 -> db (description) and home page
-- Headquarters Benton, Arkansas -> db
-- Industrial and municipal field services -> capabilities (db)
-- Switchgear and substation services -> capabilities (db) and home page
-- Bucket-truck service -> capabilities (db)
-- Also known as Arkansas Instrument Services providing sales, service, installation -> home page
-- 24/7 availability -> description and home page
-- Next business day response, free estimates within 1-2 business days -> description
-- Industrial wiring, production-line retrofit -> products (db)
+- Founded 1996 -> db, /
+- Headquarters Benton, Arkansas -> db, /
+- Also known as Arkansas Instrument Services -> /
+- Provides sales, service, and installation -> /
+- Services: industrial wiring, production-line retrofit, switchgear/substation, bucket-truck -> /, db
+- 24/7 availability -> /, db
+- Free estimates within 1-2 business days -> /
+- Next business day call response -> /
+- Serves industrial and municipal customers -> /, db
+- Over 30 years experience -> /
 </details>
 
 ---
@@ -250,27 +263,26 @@ Eagle Electric emphasizes rapid response, promising to return calls by the next 
 **Old description:** Eagle Foodservice Equipment & Supplies is a family owned business. Since 2002, we have been meeting the needs of restaurant owners and their staff with the tools and equipment needed to run an efficient business. Currently, we are servicing businesses locally in Massachusetts along with the rest of the New England region.
 
 ## About
-Eagle Foodservice Equipment & Supplies is a family-owned business based in Boston, Massachusetts. Founded in 2002, the company began by supplying restaurant owners and their staff with the tools and equipment needed for efficient operations.
+Eagle Foodservice Equipment & Supplies operates from Boston, Massachusetts, where it was established in 2002 as a family-owned business. The company began with a focus on supplying restaurant owners and their staff with the tools and equipment necessary for efficient operations.
 
-The company distributes a range of foodservice equipment and supplies, from cooking and refrigeration units to smallwares, serving restaurants and foodservice operations throughout Massachusetts and the broader New England region. In addition to equipment distribution, Eagle Foodservice offers extinguisher services, including inspection, maintenance, and compliance support for commercial kitchen fire suppression systems.
+The firm distributes a range of foodservice equipment and supplies, and also provides extinguisher services. Details on facility size, headcount, or annual volume are not disclosed.
 
-Eagle Foodservice primarily serves independent and chain restaurants, catering operations, and institutional foodservice providers across New England. Its customer base includes establishments requiring both front-of-house and back-of-house equipment, as well as fire suppression compliance for commercial cooking environments.
+Its customer base consists primarily of restaurants and foodservice operations throughout Massachusetts and the broader New England region.
 
-As a family-owned operation, the company emphasizes local service and long-term relationships with foodservice operators in its home region.
+The company was founded to meet the specific needs of local restaurant operators for reliable equipment and support.
 
 ## Known for
-- Family-owned and operated since 2002
-- Regional focus on Massachusetts and New England
-- Combined foodservice equipment distribution and extinguisher services
+- Family-owned operation
+- Serving Massachusetts and New England since 2002
+- Extinguisher services offered
 
 ## Capabilities
 - Foodservice equipment and supplies distribution
-- Extinguisher inspection and maintenance
+- Extinguisher services
 
 ## Industries
-- Restaurants
+- Restaurant
 - Foodservice
-- Commercial kitchens
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -280,10 +292,9 @@ As a family-owned operation, the company emphasizes local service and long-term 
 
 <details><summary>Sources</summary>
 
-- Family-owned business since 2002 -> db
-- Headquartered in Boston, Massachusetts -> db
-- Serves Massachusetts and New England region -> db
-- Provides foodservice equipment and supplies -> db
+- Family-owned business -> db
+- Founded 2002 -> db
+- Serves restaurant owners in Massachusetts and New England -> db
 - Offers extinguisher services -> db
 </details>
 
@@ -294,28 +305,27 @@ As a family-owned operation, the company emphasizes local service and long-term 
 **Old description:** Eagle Packaging Products has been locally owned and operated since 1989, providing Southwest Florida and beyond with a vast selection of top quality Shipping & Packaging Supplies, Retail Packaging Supplies and Promotional Products.
 
 ## About
-Eagle Packaging Products has been locally owned and operated in Naples, Florida since 1989. The company began as a supplier of shipping and packaging supplies to businesses throughout Southwest Florida and has since expanded its reach beyond the region.
+Eagle Packaging Products has been locally owned and operated in Naples, Florida since 1989. The company was founded to provide businesses across Southwest Florida with a reliable source for shipping, retail packaging, and promotional products. Today it remains a close‑knit, locally managed operation led by Chief Operating Officer Andrew, Office Manager Nicole, Warehouse Manager Saif, and Marketing Manager Olivia.
 
-The firm operates a 6,500-square-foot warehouse and showroom where it stocks a wide range of corrugated boxes, bubble wrap, stretch film, tape, and mailers, alongside retail packaging items such as custom-printed paper and plastic bags, ribbon, gift boxes, and tissue paper. It also sources promotional products including drinkware, pens, calendars, and outdoor items. Services include kitting and fulfillment, storage solutions, and custom printing on nearly every product. A close-knit team of five — including a chief operating officer, office manager, warehouse manager, and marketing manager — handles day-to-day operations.
+The company supplies a broad range of packaging materials including corrugated boxes, bubble wrap, stretch wrap, tape, and mailers, as well as custom printed paper and plastic bags, ribbon, gift boxes, and tissue paper. Its promotional product line covers drinkware, pens, calendars, notepads, and outdoor items. Beyond product supply, Eagle Packaging offers kitting and fulfillment services, storage solutions, and customization on nearly every item. Operations run from a 6,500‑square‑foot warehouse and showroom where many stocked items are available for immediate pickup.
 
-Eagle Packaging serves businesses across Southwest Florida and regional accounts nationwide. Its customer base includes retailers needing branded packaging, e-commerce operations requiring shipping supplies, and organizations ordering promotional merchandise for events and corporate gifts.
+Eagle Packaging serves businesses throughout Southwest Florida and beyond, building long‑standing partnerships with regional companies. Its customer base includes retailers, corporate offices, and organizations needing branded packaging or promotional merchandise. The team emphasizes personal support, in‑person project planning, and clear communication from order placement through delivery.
 
-The company emphasizes a “White Glove Service” model built on personal support, clear timelines, and wholesale access to national manufacturers. It differentiates itself through immediate pickup of stocked items, in-person project planning at its showroom, and detail-focused coordination from order placement through delivery.
+The company differentiates itself through its "White Glove Service" approach, wholesale access to national manufacturers, and a focus on brand presentation and protection. By combining local inventory with national sourcing, Eagle Packaging aims to deliver consistent quality and dependable timelines for every order.
 
 ## Known for
-- White Glove Service with personal support and clear communication
-- Kitting & Fulfillment and storage solutions
-- 6,500 sq.ft. warehouse and showroom with immediate pickup
-- Wholesale access to national manufacturers
-- Custom printing available on nearly every product
+- Locally owned and operated since 1989
+- 6,500 sq. ft. warehouse and showroom with stocked items for immediate pickup
+- Kitting & fulfillment and storage solutions
+- Customization available on nearly every product
+- Wholesale access to trusted national manufacturers
 
 ## Capabilities
-- Kitting & Fulfillment
-- Storage Solutions
-- Custom printed packaging
-- Promotional product imprinting
-- Wholesale packaging distribution
-- Retail packaging consultation
+- Kitting & fulfillment
+- Storage solutions
+- Custom printing and customization
+- Wholesale distribution of packaging and promotional products
+- Immediate pickup from local warehouse
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -326,13 +336,18 @@ The company emphasizes a “White Glove Service” model built on personal suppo
 <details><summary>Sources</summary>
 
 - Founded 1989 -> /about-us
+- Locally owned and operated -> /about-us
 - Headquarters Naples, Florida -> db
-- 6500 sq.ft. warehouse and showroom -> /about-us
-- Team members Andrew, Nicole, Saif, Olivia -> /about-us
-- Kitting & Fulfillment service -> /about-us
-- Custom printed packaging offered -> /about-us
-- White Glove Service differentiator -> /about-us
-- Wholesale access to national manufacturers -> /about-us
+- 6,500 sq. ft. warehouse and showroom -> /about-us
+- Kitting & Fulfillment services -> /about-us
+- Storage Solutions -> /about-us
+- Customization available on nearly every product -> /about-us
+- Wholesale access to trusted national manufacturers -> /about-us
+- Team members: Andrew (COO), Nicole (Office Manager), Saif (Warehouse Manager/Delivery Driver), Olivia (Marketing Manager) -> /about-us
+- Product categories: shipping & packaging supplies, retail packaging supplies, promotional products -> /about-us
+- Serves businesses across Southwest Florida and beyond -> /about-us
+- Long-standing partnerships with regional businesses -> /about-us
+- White Glove Service mentioned -> db
 </details>
 
 ---
@@ -342,40 +357,42 @@ The company emphasizes a “White Glove Service” model built on personal suppo
 **Old description:** None
 
 ## About
-Founded in 1961 in Narragansett, Rhode Island, Eartec Co Inc (originally operating as the Eartec/Porta Phone Company) began supplying headset communication systems to industries worldwide. The company remains based in Narragansett.
+Eartec Co Inc has been based in Narragansett, Rhode Island since its founding in 1961. Originally operating as the Eartec/Porta Phone Company, the business began by supplying state-of-the-art headset communications to a multitude of industries around the globe.
 
-Eartec designs and manufactures a range of wireless and wired communication products. Its portfolio includes the UltraLITE and UltraLITE PRO16 series of full-duplex wireless intercoms using DECT and frequency-hopping technology, the Blackmagic Interface adapter for wired intercom integration, the SCRAMBLER Plus two-way radio system with encrypted signals, the TCS Wired industrial-grade wired intercom line, and the E-Pak digital wireless platform. The company also operates as the sole authorized repair center for its own brands in the United States.
+The company designs and manufactures a range of wireless headset communication systems, including the UltraLITE and UltraLITE PRO16 full-duplex intercom series, the Blackmagic Interface for wired intercom integration, the SCRAMBLER Plus two-way radio line, and the E-Pak digital wireless platform. It also offers the Global Connect IP-based communication link and the TCS Wired industrial-grade intercom. Eartec serves as the sole source repair center for its own brands in the United States and sells both direct and through authorized dealers.
 
-The systems serve a diverse set of sectors: broadcast and stage production, commercial drone (UAS) operations, equestrian instruction, marine captain-to-crew communication, radio-controlled racing, restaurant and food-service operations, sailing, non-commercial cafeteria environments, and light industrial sites where wireless equipment is restricted. Customers purchase directly from the factory or through authorized dealers, with international distribution handled via a global partner network.
+Eartec’s systems are used in broadcast and stage production, commercial drone operations, equestrian instruction, marine captain-to-crew communication, radio-controlled racing, restaurant and food-service environments, sailing, non-commercial cafeteria settings, and industrial jobsites where wireless equipment is restricted or interference is a concern. Customers include production crews, drone pilots, riding instructors, vessel captains, RC racers, restaurant staff, sailors, and industrial teams.
 
-Eartec emphasizes customer service as a core differentiator, offering expert pre-sale advice, post-warranty support, and typical order shipping within one to three business days. The company positions itself as a long-term partner, highlighting transparency and accessibility throughout the product lifecycle.
+The company emphasizes customer service as its top priority, highlighting real-person support, fast shipping (typically 1–3 business days), and a repair infrastructure that covers post-warranty assistance. Its wireless products employ frequency-hopping technology to evade interference, encrypted signals for privacy, and sufficient power to penetrate concrete and steel, all packaged in affordable midweight headsets.
 
 ## Known for
-- Sole source repair center for Eartec brands in the USA
-- Orders typically ship within 1-3 business days
-- Direct factory support and expert advice
-- Global distributor network for international customers
+- Customer service prioritized with real-person support
+- Sole source repair center for own brands in the USA
+- Orders typically ship within 1–3 business days
+- Frequency-hopping technology to evade interference
+- Encrypted signals and concrete/steel penetration
 
 ## Capabilities
-- Wireless headset communication systems design and manufacturing
-- Full-duplex wireless intercom systems (DECT, frequency hopping)
-- Wired intercom interface adapters (e.g., Blackmagic, standard wired systems)
-- Two-way radio systems (SCRAMBLER Plus)
+- Wireless headset communication system design and manufacturing
+- Full-duplex wireless intercom systems (DECT, frequency-hopping)
+- Wired intercom interface integration (Blackmagic, TCS Wired)
+- Two-way radio systems (simplex, push-to-talk, 500mW output)
 - Digital wireless systems (E-Pak)
+- Global IP-based communication (Global Connect)
 - Repair and service for own brands
-- Custom system configuration (mix and match)
+- Direct sales and authorized dealer distribution
 
 ## Industries
-- Broadcast and stage production
-- Commercial unmanned aerial systems (UAS) / drone operations
+- Broadcast & stage communications
+- Commercial UAS (drone)
 - Equestrian instruction
-- Marine communications
-- Radio-controlled racing
-- Restaurant and food service
+- Marine (captain to crew)
+- Radio controlled racing
+- Restaurant & food service
 - Sailing
-- Non-commercial food service / cafeteria
-- Light industrial
-- Industrial environments with wireless restrictions
+- Non-commercial food service (cafeteria)
+- Industrial (light industrial)
+- Jobsites with wireless restrictions
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -384,14 +401,18 @@ Eartec emphasizes customer service as a core differentiator, offering expert pre
 
 <details><summary>Sources</summary>
 
-- Founded in 1961 -> db, homepage
-- Headquartered in Narragansett, Rhode Island -> db, about page
-- Manufactures wireless headset communication systems -> homepage
-- Product lines: UltraLITE, UltraLITE PRO16, Blackmagic Interface, SCRAMBLER Plus, TCS Wired, E-Pak -> homepage
-- Sole source repair center for own brands in USA -> about page
-- Orders ship within 1-3 business days -> about page
-- Serves broadcast, drone, equestrian, marine, racing, restaurant, sailing, food service, industrial markets -> homepage
-- International orders welcomed via global partners -> homepage, about page
+- Founded in 1961 -> db
+- Headquarters Narragansett, RI -> db, /about
+- Products: UltraLITE, UltraLITE PRO16, Blackmagic Interface, SCRAMBLER Plus, TCS Wired, E-Pak, Global Connect -> /
+- Industries served: broadcast, drone, equestrian, marine, RC racing, restaurant, sailing, cafeteria, industrial -> /
+- Sole source repair center for own brands in USA -> /about
+- Orders ship within 1-3 business days -> /about
+- Frequency hopping technology evades interference -> /
+- Encrypted signals remain private -> /
+- Penetrates concrete & steel -> /
+- Customer service priority -> /
+- International orders welcomed -> /about
+- Affordable midweight full duplex wireless headsets -> /
 </details>
 
 ---
@@ -401,44 +422,34 @@ Eartec emphasizes customer service as a core differentiator, offering expert pre
 **Old description:** East Coast Metal Systems, Inc. (ECMS) is a premier provider of full-service fabrication for engineered architectural metal and exterior envelope systems. We guide our clients through every phase of their projects, from design and development to completion. Our 60,000 square foot facility offers extensive customization options, supported by decades of experience serving markets nationwide.
 
 ## About
-Based in Triadelphia, West Virginia, East Coast Metal Systems, Inc. (ECMS) has spent decades providing full-service fabrication for engineered architectural metal and exterior envelope systems. The company operates a 60,000-square-foot facility that supports extensive customization for projects nationwide.
+East Coast Metal Systems, Inc. (ECMS) operates from Triadelphia, West Virginia, where it runs a 60,000-square-foot fabrication facility. The company does not disclose its founding year or ownership structure, but describes itself as having decades of experience in architectural metal and exterior envelope systems.
 
-ECMS produces a range of proprietary metal panel systems, including the EC-100 and EC-150 wet-joint MCM systems, the EC-200 and EC-250 dry-joint MCM systems, the EC-300 formed-plate rainscreen system, and the EC Edge 1000 gravel-stop system. It also fabricates the OVERLY Panel Systems® line and the Citadel Envelope 2000® MCM reveal system. In-house capabilities cover pre-construction services, 3D laser scanning, metal panel fabrication, field supervision and installation, corporate identity programs, and historic restoration.
+ECMS provides full-service fabrication for engineered architectural metal and exterior envelope systems, guiding projects from pre-construction through installation. Its capabilities include pre-construction services, 3D laser scanning, metal panel fabrication, custom fabrication, field supervision and installation, corporate identity programs, and historic restoration. The facility produces a range of proprietary systems: the EC-100 and EC-150 wet joint MCM systems, EC-200 and EC-250 dry joint MCM systems, EC-300 formed plate rainscreen system, EC Edge 1000 gravel stop system, and the OVERLY Panel Systems line of architectural metal wall and roof systems. Materials processed include metal composite material (MCM) with PE/FR cores, aluminum, copper, steel, stainless steel, and galvanized steel in various thicknesses.
 
-The company serves architects, contractors, and building owners across healthcare, education, commercial, government, transportation, hospitality, retail, industrial, and cultural sectors. Completed projects include the Westchester Medical Center in Valhalla, New York; the University of South Carolina Upstate Library in Spartanburg; McDonald’s Corporate Headquarters in Chicago; the Oklahoma City Police Headquarters; and the Julia M. Carson Transit Center in Indianapolis.
+The company serves contractors, architects, and building owners across healthcare, education, commercial, government, and industrial sectors. Completed projects include the University of South Carolina Upstate Library, Westchester Medical Center in Valhalla, New York, Parkline Chicago Apartments, McDonald’s Corporate Headquarters, Oklahoma City Police Headquarters, and numerous university, hospital, and civic buildings throughout the Midwest, Mid-Atlantic, and Southeast.
 
-ECMS emphasizes a single-source approach from design through installation, backed by factory certification with all major metal manufacturers. Its Secure-Scan 3D laser scanning service aims to reduce field errors, and the firm highlights its ability to preserve historic architectural significance through custom fabrication.
+ECMS emphasizes its factory certification with major metal manufacturers, extensive customization capacity, and the ability to preserve historic architectural significance. Its Secure-Scan 3D laser scanning service is promoted as a way to reduce project time and cost, while its proprietary panel systems are designed for simplified installation and tested performance.
 
 ## Known for
-- Full-service fabrication from design through installation
 - Factory certified with all major metal manufacturers
 - 60,000 sq ft facility with extensive customization capabilities
+- Full-service from pre-construction through installation
+- Proprietary panel systems (EC-100, EC-150, EC-200, EC-250, EC-300, EC Edge 1000, OVERLY Panel Systems)
 - Secure-Scan 3D laser scanning for pre-construction accuracy
-- Proprietary architectural metal systems (EC-100, EC-150, EC-200, EC-250, EC-300, EC Edge 1000, Citadel Envelope 2000)
 
 ## Capabilities
 - Pre-construction services
 - 3D laser scanning
 - Metal panel fabrication
-- Custom fabrication
+- Custom fabrication services
 - Field supervision and installation
 - Corporate identity programs
 - Historic restoration
 - Wet joint MCM panel systems
 - Dry joint MCM panel systems
-- Rainscreen systems
+- Formed plate rainscreen systems
 - Gravel stop systems
-
-## Industries
-- Healthcare
-- Education
-- Commercial
-- Government
-- Transportation
-- Hospitality
-- Retail
-- Industrial
-- Cultural
+- Architectural metal wall and roof systems
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -446,14 +457,15 @@ ECMS emphasizes a single-source approach from design through installation, backe
 
 <details><summary>Sources</summary>
 
+- Company location: Triadelphia, West Virginia -> db
 - 60,000 sq ft facility -> /
-- Triadelphia, West Virginia headquarters -> db
 - Full-service fabrication for engineered architectural metal and exterior envelope systems -> /
-- Proprietary systems: EC-100, EC-150, EC-200, EC-250, EC-300, EC Edge 1000, OVERLY Panel Systems, Citadel Envelope 2000 -> /
-- Capabilities: Pre-Construction Services, Secure-Scan 3D Laser Scanning, Metal Panel Fabrication, Fabrication Services, Field Supervision & Installation, Corporate Identity Programs, Historic Restoration -> /services
+- Pre-construction services, 3D laser scanning, metal panel fabrication, fabrication services, field supervision & installation, corporate identity programs, historic restoration -> /services
+- Proprietary systems: EC-100, EC-150, EC-200, EC-250, EC-300, EC Edge 1000, OVERLY Panel Systems -> /
 - Factory certified with all major metal manufacturers -> /
-- Projects: Westchester Medical Center, University of South Carolina Upstate Library, McDonald's Corporate Headquarters, Oklahoma City Police Headquarters, Julia M. Carson Transit Center -> /services
-- Materials: Aluminum, Copper, Steel, Stainless Steel, Galvanized Steel, MCM with PE/FR core -> /
+- Materials: MCM, aluminum, copper, steel, stainless steel, galvanized steel, PE/FR core -> /
+- Projects across healthcare, education, commercial, government sectors (e.g., University of South Carolina Upstate Library, Westchester Medical Center, Parkline Chicago Apartments) -> /services
+- No founding year, employee count, ownership tags, certifications, cage code, min order, export compliance, languages, social links found -> db, /, /services
 </details>
 
 ---
@@ -463,78 +475,64 @@ ECMS emphasizes a single-source approach from design through installation, backe
 **Old description:** We have manufactured plastic injection pieces for schools, tool companies, food/beverage companies, and more.
 
 ## About
-East Coast Plastics, Inc. operates from West Berlin, New Jersey, where it has provided custom plastic injection molding for over two decades. The company describes itself as offering the personal service of a "mom and pop" operation, though no founding year or founder names are disclosed in its public materials.
+East Coast Plastics, Inc. operates from West Berlin, New Jersey. The company describes itself as a mom-and-pop operation, emphasizing personal service and domestic manufacturing. While the exact founding year is not disclosed, the business states it has been custom injection molding for over 20 years.
 
-The shop specializes in plastic injection molding, including rotary injection molding, and distinguishes itself by designing and building all molds in-house. Its West Berlin facility houses injection molding machines, rotary injection molding machines, a CNC machining center, CNC wire EDM, EDM sinker, and three EDM machines for steel cutting. An optical comparator supports critical inspection. The company states it runs resins that meet FDA regulation and are certified to RoHS, REACH, and NSF standards when required, and emphasizes that no production run is too large or too small.
+The shop specializes in plastic injection molding, including rotary injection molding for complex geometries, and runs three EDM machines for steel cutting and tool fabrication. It also operates a CNC machining center and builds molds in-house, allowing it to produce both large and very small plastic components for domestic and international customers.
 
-East Coast Plastics serves schools, tool companies, food and beverage producers, medical manufacturers, and suppliers of children's products, office and home hardware, and computer hardware. It notes a track record as a vendor for large national tool companies and services both domestic and international customers from its New Jersey location.
+Its customer base spans the medical, manufacturing, education, tooling, food and beverage, consumer products, and electronics sectors. The company has supplied schools, national tool brands, and food and beverage firms, and it lists children's products, office hardware, and computer hardware among the markets it serves.
 
-The company positions its differentiators around in-house tooling — avoiding overseas mold sourcing — machinery that competitors often lack, U.S.-based manufacturing, certified material compliance, and one-on-one customer engagement throughout each project.
+East Coast Plastics highlights its U.S.-based production, in-house tooling capability, and rotary molding equipment as differentiators. It positions itself as a cost-effective alternative to offshore sourcing, offering to work with existing tooling or design new tools, and promotes a proprietary product, the E-C Pick, for agricultural use.
 
 ## Known for
-- Molds designed and manufactured in-house
-- Rotary injection molding machines described as rare in the industry
-- Resins certified to FDA, RoHS, REACH, and NSF standards
 - All manufacturing performed in the United States
-- Direct, one-on-one customer service model
+- Rotary injection molding for complex parts
+- In-house tool design and fabrication
+- Three EDM machines for precision steel cutting
+- Family-owned, personal service model
 
 ## Capabilities
-- Plastic injection molding
-- Rotary injection molding
-- Custom mold design and fabrication (in-house)
-- Tooling design and fabrication
-- CNC machining
-- EDM sinker machining
-- CNC wire EDM
-- Steel cutting and fabrication
-- Design and problem solving
-- Quality inspection via optical comparator
+- Plastic Injection Molding
+- Rotary Injection Molding
+- EDM Machining
+- CNC Machining
+- Tool Design and Fabrication
+- Custom Molding
 
 ## Industries
-- Education (schools)
-- Tool manufacturing
-- Food and beverage
 - Medical
 - Manufacturing
-- Children and baby products
-- Office and home hardware
-- Computer hardware
+- Education
+- Tooling
+- Food and Beverage
+- Consumer Products
+- Electronics
 
 ## Equipment
-- Injection molding machines
-- Rotary injection molding machines
-- CNC machining center
-- CNC wire EDM
-- EDM sinker
-- EDM machines (3 units)
-- Optical comparator
+- Injection Molding Machines
+- Rotary Injection Molding Machines
+- EDM Machines (3)
+- CNC Machining Center
 
 ## Certifications
-- RoHS
-- FDA (resin compliance)
-- REACH (resin compliance)
-- NSF (resin compliance)
+- ROHS
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
-- **Headquarters:** West Berlin, New Jersey
+- **Company Type:** Manufacturer
+- **Ownership:** Family-owned
+- **Headquarters:** West Berlin, NJ
 
 <details><summary>Sources</summary>
 
-- Location: West Berlin, NJ -> db, /, /capabilities
-- Plastic injection molding and rotary injection molding -> /, /capabilities
-- In-house mold/tooling manufacturing -> /, /capabilities
-- 3 EDM machines for steel cutting -> /, /capabilities
-- Equipment list (optical comparator, EDM sinker, CNC wire EDM, CNC machining center, injection molding machines, rotary injection molding machines) -> /capabilities
-- Resins certified to FDA, RoHS, REACH, NSF -> /capabilities
-- Industries served: schools, tool companies, food/beverage, medical, manufacturing, children/baby products, office/home hardware, computer hardware -> /, /capabilities, db
-- Trusted vendor for large national tool companies -> /
-- Domestic and international customers -> /
-- Over 20 years experience -> /
-- All manufacturing in USA -> /
-- Personal service of a mom and pop -> /capabilities
-- No production run too big or too small -> /capabilities
-- Certifications: RoHS -> db
+- Location: West Berlin, NJ -> db
+- Mom-and-pop personal service claim -> / (homepage)
+- Over 20 years custom injection molding -> / (homepage)
+- Plastic injection molding, rotary injection molding, EDM machining, CNC machining, in-house tooling -> / (homepage) and db capabilities
+- Three EDM machines -> / (homepage)
+- Serves medical, manufacturing, schools, tool companies, food/beverage -> / (homepage) and db industries_served
+- Children/Baby Products, Office and Home Hardware, Computer Hardware -> db products
+- ROHS certification -> db certifications
+- E-C Pick proprietary product -> / (homepage)
+- Buy American, US manufacturing -> / (homepage)
 </details>
 
 ---
@@ -544,52 +542,38 @@ The company positions its differentiators around in-house tooling — avoiding o
 **Old description:** East Coast Tees is a custom apparel and promotional products supplier based in Nitro, West Virginia. They provide screen printing, embroidery, and branded merchandise for businesses, teams, and organizations across the region, offering quick turnaround quotes on shirts, uniforms, and promotional items.
 
 ## About
-East Coast Tees operates from Nitro, West Virginia, at 614 1st Avenue South. The company's founding year and ownership structure are not publicly disclosed; a contact named Dave is listed for inquiries.
+East Coast Tees operates from Nitro, West Virginia, where it functions as a custom apparel and promotional products supplier for customers throughout the region. The company's founding date and ownership details are not publicly documented.
 
-The shop provides custom apparel decoration and promotional products, offering screen printing, embroidery, sublimation, heat transfer, and rhinestone application. Customers can browse design catalogs organized by theme—such as business, patriotic, school, and humor—and upload artwork for quotes. Facility size, headcount, and production volumes are not published.
+Its core services revolve around apparel decoration: screen printing for multi-color designs on t-shirts, uniforms, and other garments, and embroidery for stitched logos on polos, hats, and outerwear. Beyond decoration, the company sources and brands a variety of promotional merchandise such as drinkware, writing instruments, bags, and other giveaway items. The company also maintains an online promotional products catalog, inviting customers to browse ideas before requesting real-time quotes. No information is provided about the facility's square footage, headcount, or typical production volumes.
 
-The company serves businesses, sports teams, schools, and organizations throughout the region, supplying decorated shirts, uniforms, and branded merchandise. No specific client names or industry verticals beyond general promotional use are cited.
+The customer base spans businesses seeking branded uniforms, sports teams needing custom jerseys, schools and clubs ordering spirit wear, and organizations requiring promotional products for events. The company describes its reach as regional, though specific industries or notable clients are not named.
 
-East Coast Tees emphasizes quick turnaround quotes and a broad catalog of imprintable products, positioning itself as a one-stop resource for custom-decorated apparel and promotional items.
+East Coast Tees promotes quick turnaround quotes as a distinguishing feature, emphasizing fast pricing responses for custom orders. The company's website directs visitors to a 'Shop Promo Products' tab for inspiration, then encourages direct contact for up-to-the-minute pricing. Exact lead times, minimum order requirements, or precision tolerances are not specified in the available information.
 
 ## Known for
-- Quick turnaround quotes on custom orders
-- Broad catalog of imprintable promotional products
-- Online design catalogs organized by theme
-- Artwork upload and quote request workflow
+- Quick turnaround quotes on custom apparel and promotional items
+- Screen printing and embroidery decoration services
+- Branded merchandise and promotional products sourcing
+- Online catalog for promotional product ideas
 
 ## Capabilities
 - Screen printing
 - Embroidery
-- Sublimation
-- Heat transfer
-- Rhinestone application
-- Custom apparel decoration
+- Branded merchandise
 - Promotional products sourcing
-- Artwork upload and proofing
-
-## Industries
-- Promotional products
-- Corporate branding
-- Team uniforms
-- School spirit wear
-- Event merchandise
+- Online promotional product catalog
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Headquarters:** Nitro, West Virginia
 
 <details><summary>Sources</summary>
 
-- Location: Nitro, West Virginia -> db (hq_city, hq_state_label)
-- Address: 614 1st Avenue S., Nitro, WV 25143 -> page '/'
-- Phone: 304-720-8677 -> page '/'
-- Contact email: dave@eastcoasttees.com -> page '/'
-- Services: screen printing, embroidery, sublimation, transfer, rhinestone -> page '/'
-- Serves businesses, teams, organizations -> db (description)
-- Design catalogs by theme (business, patriotic, school, humor) -> page '/'
-- Artwork upload and quote request workflow -> page '/'
-- Quick turnaround quotes emphasized -> db (description), page '/'
+- Location: Nitro, West Virginia -> db
+- Services: screen printing, embroidery, branded merchandise -> db
+- Customer types: businesses, teams, organizations -> db
+- Quick turnaround quotes -> db
+- Online promotional products catalog -> db
 </details>
 
 ---

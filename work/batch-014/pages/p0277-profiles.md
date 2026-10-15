@@ -3,39 +3,39 @@
 **Old description:** ARE Solar specializes in designing and installing high-performance commercial solar systems across Denver, Boulder, and surrounding cities.
 
 ## About
-ARE Solar was founded in 2009 in Denver, Colorado, originally as Affordable Alternative Energy before adopting the ARE Solar name—now standing for Advancing Renewable Energy. The locally owned company operates from offices in Denver, Erie, and Larkspur, serving the Front Range region with a focus on commercial and residential solar photovoltaic systems.
+ARE Solar, a locally owned Colorado company, was founded in 2009 in Denver as Affordable Alternative Energy. The firm rebranded to AAE Solar and later to ARE Solar, with the name now standing for Advancing Renewable Energy. From its start, the company aimed to make alternative energy more accessible to Colorado homes and businesses.
 
-The firm provides end-to-end solar services: custom system design, permitting, installation, monitoring, maintenance, repair, and panel removal or reinstallation. Its in-house team includes NABCEP‑certified installers, master electricians, and structural engineers who coordinate every project from initial assessment through long‑term performance support. The company has completed installations for clients ranging from single‑family homes to large‑scale commercial sites such as Denver International Airport.
+The company designs and installs photovoltaic systems for commercial and residential properties, managing the entire process in-house—from custom system design and permitting through installation, monitoring, and long-term maintenance. Its staff includes NABCEP‑certified installers, master electricians, and structural engineers who coordinate projects across multiple sites, such as the installation at Denver International Airport. ARE Solar operates from offices in Denver, Erie, and Larkspur.
 
-ARE Solar works with commercial property owners, businesses managing operating costs, and homeowners seeking energy independence across Denver, Boulder, and surrounding Front Range communities. Its portfolio spans retail, warehouse, office, and multi‑site commercial projects, as well as residential rooftops, with the same engineering rigor applied regardless of scale.
+The firm serves commercial property owners, businesses, and homeowners throughout the Denver metro area and the Front Range. Its commercial work spans offices, warehouses, and complex multi‑site rollouts, while residential projects address individual homes. The company also assists clients with incentive and financing navigation.
 
-The company emphasizes local accountability paired with technical depth, citing its lifetime workmanship warranty, manufacturer‑backed equipment warranties, and membership in the Colorado Solar & Storage Association as differentiators. Its founding principle—making renewable energy practical and accessible—continues to guide a process that stays involved from design through activation and ongoing service.
+ARE Solar differentiates itself through local accountability and technical depth: its team accounts for Colorado‑specific conditions like snow, wind, hail, and roof loads, and backs installations with a lifetime workmanship warranty. The company coordinates permitting, utility interconnection, and inspections, and remains involved after activation with monitoring and repair support.
 
 ## Known for
 - Lifetime workmanship warranty on all installations
 - NABCEP‑certified installers, master electricians, and structural engineers on staff
-- In‑house management from design and permitting through long‑term monitoring and repair
-- Local Colorado ownership with knowledge of regional codes, utilities, and climate
-- Member of the Colorado Solar & Storage Association
+- Full in‑house process from design and permitting to installation and ongoing support
+- Colorado‑specific engineering for snow, wind, hail, and roof loads
+- Single‑point coordination of permitting, utility interconnection, and inspections
 
 ## Capabilities
 - Solar PV system design
-- Solar panel installation
-- Solar panel removal and reinstallation
-- Solar system repair and restoration
-- Solar system maintenance and monitoring
 - Permitting and utility coordination
-- Incentive and financing navigation
-- Commercial solar installation
+- Solar panel installation
+- System monitoring and maintenance
+- Solar panel repair and restoration
+- Solar panel removal and reinstallation
+- Commercial solar project management
 - Residential solar installation
+- Incentive and financing navigation
+- Structural engineering for solar arrays
+- Electrical engineering and master electrician services
+- NABCEP-certified installation
 
 ## Industries
-- Commercial
-- Residential
-- Government / public infrastructure
-
-## Certifications
-- NABCEP
+- Commercial property
+- Residential property
+- Renewable energy
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -45,16 +45,20 @@ The company emphasizes local accountability paired with technical depth, citing 
 
 <details><summary>Sources</summary>
 
-- Founded in 2009 as Affordable Alternative Energy -> /about
-- Locally owned Colorado company with offices in Denver, Erie, Larkspur -> /about
-- NABCEP-certified installers, master electricians, structural engineers on staff -> /about
-- Lifetime workmanship warranty on installations -> /about
-- Completed commercial solar installation at Denver International Airport -> /
-- Member of Colorado Solar & Storage Association -> /about
-- Services include design, installation, removal/reinstallation, repair, maintenance/monitoring -> /services
-- In-house management from design through long-term support -> /about
-- Serves commercial and residential customers in Denver, Boulder, Front Range -> /
-- Advancing Renewable Energy since 2009 mission -> /about
+- Founded 2009 as Affordable Alternative Energy -> /about
+- Rebranded to ARE Solar (Advancing Renewable Energy) -> /about
+- Locally owned Colorado company -> /about
+- Full-service solar panel installation company -> /
+- In-house design, permitting, installation, monitoring, maintenance -> /
+- Staff includes NABCEP-certified installers, master electricians, structural engineers -> /, /about
+- Work at Denver International Airport -> /
+- Offices in Denver, Erie, Larkspur -> /about
+- Services: design/install, removal/reinstall, service/repair, maintenance/monitoring -> /services
+- Lifetime workmanship warranty -> /, /about
+- Colorado-specific engineering for snow, wind, hail, roof loads -> /about
+- Permitting, utility coordination, inspection management -> /, /about
+- Serves commercial and residential customers -> /, /about
+- Incentive and financing navigation -> /
 </details>
 
 ---
@@ -64,55 +68,56 @@ The company emphasizes local accountability paired with technical depth, citing 
 **Old description:** Since 1933, ASC Auto Electric (formerly Armature Service Co) has been a distributor and re-manufacturer of starters and alternators for all types of vehicles--from ATVs to cars to boats to trucks--really anything with a motor and starter.
 
 ## About
-ASC Auto Electric traces its roots to 1933 in Little Rock, Arkansas, where it began as Armature Service Co. The company has remained in the same city for nine decades, evolving from a local armature repair shop into a national distributor and re-manufacturer of starters and alternators.
+ASC Auto Electric, originally founded as Armature Service Co. in 1933, operates from Little Rock, Arkansas. The company has remained in the same city for over nine decades, building a national and international customer base from its Arkansas headquarters.
 
-Today the business operates as both a distributor and a re-manufacturer, supplying starters, alternators, batteries, custom cables, lighting, turbochargers, fuel injectors and diesel particulate filter cleaning services. Its workshop rebuilds units for everything from ATVs and passenger cars to boats and heavy-duty trucks, while its distribution arm stocks product lines for auto parts retailers across the country and overseas.
+The business functions as both a distributor and a re-manufacturer of starters and alternators for virtually any motorized application—from ATVs and passenger cars to boats and heavy trucks. In addition to rotating electrical components, the company stocks batteries, custom cables, lighting, turbochargers, fuel injectors, and provides diesel particulate filter (DPF) cleaning services. It carries product lines from major brands such as Denso, Leece Neville, Delco Remy, and BorgWarner, and serves auto parts stores as well as direct end users.
 
-Customers include auto parts stores, agricultural equipment dealers, marine service centers and heavy-duty fleet operators. Brands carried range from Briggs & Stratton, Cummins and Kubota engines to Leece-Neville, Denso and Delco Remy electrical components, reflecting a client base that spans agriculture, marine, construction and over-the-road transportation.
+Customers span auto parts retailers, agricultural operations, marine fleets, construction equipment owners, and power generation users, reflecting the breadth of brands the company represents—including Kubota, Yanmar, Generac, and Hyundai Heavy Duty. The company notes that it ships across the United States and globally, leveraging its long-standing reputation in the auto electric aftermarket.
 
-The company emphasizes its 85-plus years of experience and a team of technicians who have stayed with the firm for decades. It highlights same-day turnaround on rebuilds — one customer noted a four-hour alternator rebuild at half the cost of a new unit — and a willingness to source hard-to-find OEM parts for individual buyers.
+ASC Auto Electric emphasizes its 85-plus years of experience and a team of specialists who have been with the company for decades as its primary differentiators. The firm’s stated philosophy is captured in its tagline: “If it has a motor or a starter, we can help,” underscoring a focus on comprehensive application coverage and rapid turnaround, with one customer noting a four-hour rebuild service.
 
 ## Known for
 - 85+ years of experience in auto electric parts
-- Technicians with decades of tenure
-- Alternator rebuilds completed in as little as four hours
-- Distributor for leading OEM product lines
-- Nationwide and global shipping
+- Team of specialists with decades of tenure
+- Nationwide and global shipping reach
+- Carries all leading product lines for starters and alternators
+- Offers DPF cleaning and custom cable fabrication
 
 ## Capabilities
-- Starter and alternator remanufacturing
-- Diesel particulate filter (DPF) cleaning
-- Custom cable fabrication
-- Battery testing and sales
-- Lighting system supply
-- Turbocharger supply
-- Fuel injector supply
-- Distribution of auto electrical components
-- OEM parts sourcing
+- Starter remanufacturing
+- Alternator remanufacturing
+- DPF cleaning
+- Custom cable assembly
+- A/C system service
+- Turbocharger service
+- Battery distribution
+- Lighting distribution
+- Fuel injector distribution
 
 ## Industries
 - Auto parts retail
 - Agriculture
 - Marine
-- Heavy duty equipment
-- Industrial engines
+- Construction
+- Power generation
+- Heavy duty trucking
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Founded:** 1933
 - **Headquarters:** Little Rock, Arkansas
 
 <details><summary>Sources</summary>
 
-- Founded 1933 -> /
-- Headquarters Little Rock, Arkansas -> db
-- Business type: distributor and re-manufacturer of starters and alternators -> /
-- Services: starter/alternator rebuilding, DPF cleaning, custom cables, batteries, lighting, turbos, fuel injectors -> /
-- Industries served: auto parts stores, agriculture, marine, heavy duty -> /
-- Brands carried: Denso, Leece Neville, Delco Remy, Briggs, Cummins, Kubota, etc. -> /
-- Testimonial: alternator rebuild in four hours at half cost -> /
-- Team with decades of tenure -> /
-- Nationwide and global distribution -> /
+- Founded 1933 as Armature Service Co. -> db description
+- Headquartered in Little Rock, Arkansas -> db hq_city, hq_state_label
+- Distributor and re-manufacturer of starters and alternators -> db description
+- Carries leading product lines (Denso, Leece Neville, Delco Remy, BorgWarner) -> pages /
+- Offers batteries, custom cables, lighting, turbos, fuel injectors, DPF cleaning -> db description
+- Serves auto parts stores and customers across the country and globally -> db description
+- Team of experts with decades of tenure -> pages /
+- 85+ years experience -> pages /
+- Brands indicate agriculture (Kubota, Yanmar), marine, power generation (Generac, Onan), heavy duty (Hyundai Heavy Duty) -> pages /
 </details>
 
 ---
@@ -122,36 +127,38 @@ The company emphasizes its 85-plus years of experience and a team of technicians
 **Old description:** Screaming Circuits specializes in building your short-run, one-off and prototype PCB assemblies, with rapid turn times and instant online quoting and ordering. Whether you prefer "Kitted" assembly or "Turnkey", Screaming does both - and with multiple awards for customer satisfaction and quality to prove it.
 
 ## About
-ASC Sunstone Circuits, LLC is headquartered in Mulino, Oregon. The company was formed through a strategic alliance between American Standard Circuits (ASC) and Sunstone Circuits, combining over 50 years of combined industry experience.
+ASC Sunstone Circuits, LLC, headquartered in Mulino, Oregon, was formed through a strategic alliance between American Standard Circuits (ASC) and Sunstone Circuits, combining over 50 years of collective printed circuit board manufacturing experience. The partnership unites ASC's specialization in advanced PCB technologies with Sunstone's quick-turn fabrication and customer support model.
 
-The company manufactures a range of printed circuit boards, including Ultra HDI, rigid, metal-backed/core, RF/microwave, flex, and rigid-flex PCBs. It also provides PCB assembly services for short-run, one-off, and prototype orders, offering both kitted and turnkey assembly models. Additional capabilities include PCB design services, self-service DFM checking via the online DFMplus tool, nano coating on select stencils, and instant online quoting and ordering.
+The company manufactures a range of printed circuit boards, including Ultra HDI, rigid, metal-backed/core, RF/microwave, flex, and rigid-flex designs. It also provides PCB assembly services for short-run, one-off, and prototype orders, offering both kitted and turnkey assembly options. Additional capabilities include printed circuit board design services, self-service DFM checking via an online DFMplus tool, and nano coating on select stencils. The combined operation supports engineers from design through prototype to large-scale production.
 
-The company serves engineers and diverse industries requiring PCB fabrication and assembly, from prototype to large-scale production.
+ASC Sunstone Circuits serves engineers and original equipment manufacturers across diverse industries requiring advanced PCB solutions. While specific industry verticals are not detailed in public materials, the company's product portfolio addresses applications in sectors that demand high-reliability rigid, flex, and RF/microwave circuitry.
 
-The merger aims to combine ASC's certifications and expertise with Sunstone's quick-turn manufacturing and customer support, setting a new standard in PCB manufacturing. The assembly division, known as Screaming Circuits, has earned multiple awards for customer satisfaction and quality.
+The alliance was structured to merge ASC's certifications and technical expertise with Sunstone's commitment to rapid turnaround and customer satisfaction, aiming to set a new standard in PCB manufacturing. The company highlights multiple awards for customer satisfaction and quality, along with instant online quoting and ordering, as key differentiators.
 
 ## Known for
-- Over 50 years of combined industry experience from ASC and Sunstone Circuits
-- Quick-turn PCB manufacturing with instant online quoting and ordering
-- Self-service DFM checking via DFMplus online tool
-- Nano coating available on select stencils
-- Kitted and turnkey assembly options for prototype and short-run orders
+- Instant online quoting and ordering for PCBs and assembly
+- Rapid turnaround times for prototype and short-run production
+- Both kitted and turnkey assembly options
+- Self-service DFM checking via online DFMplus tool
+- Over 50 years of combined PCB manufacturing experience
 
 ## Capabilities
-- Ultra HDI PCB fabrication
-- Rigid PCB fabrication
-- Metal-backed/core PCB fabrication
-- RF/microwave PCB fabrication
-- Flex PCB fabrication
-- Rigid-flex PCB fabrication
-- PCB assembly (short-run, one-off, prototype)
-- Kitted assembly
-- Turnkey assembly
+- PCB manufacturing
+- PCB assembly
 - PCB design services
 - DFM checking (DFMplus)
 - Nano coating on stencils
-- Drill capabilities
-- Online quoting and ordering
+- Quick-turn PCB fabrication
+- Rigid PCB fabrication
+- Flex PCB fabrication
+- Rigid-flex PCB fabrication
+- Metal-backed/core PCB fabrication
+- RF/microwave PCB fabrication
+- Ultra HDI PCB fabrication
+- Kitted assembly
+- Turnkey assembly
+- Short-run assembly
+- Prototype assembly
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -159,18 +166,20 @@ The merger aims to combine ASC's certifications and expertise with Sunstone's qu
 
 <details><summary>Sources</summary>
 
-- Headquarters in Mulino, Oregon -> db
-- Merger of American Standard Circuits (ASC) and Sunstone Circuits -> /
-- Over 50 years of combined industry experience -> /
-- Produces Ultra HDI, rigid, metal-backed/core, RF/microwave, flex, and rigid-flex PCBs -> /
-- Quick-turn, high-quality PCBs with exceptional customer support -> /
+- Company name ASC Sunstone Circuits, LLC -> db
+- Headquarters Mulino, Oregon -> db
+- Website sunstone.com -> db
+- Alliance of American Standard Circuits and Sunstone Circuits -> /
+- Over 50 years combined industry experience -> /
+- ASC produces Ultra HDI, rigid, metal-backed/core, RF/microwave, flex, rigid-flex PCBs -> /
+- Sunstone known for quick-turn, high-quality PCBs -> /
 - Provides full scale solutions from design to prototype to large-scale production -> /
-- Screaming Circuits specializes in short-run, one-off, prototype PCB assemblies -> db
-- Offers kitted and turnkey assembly -> db
-- Instant online quoting and ordering -> db
-- Self-service DFM checking with DFMplus -> db
-- Nano coating on select stencils -> db
-- Multiple awards for customer satisfaction and quality -> db
+- Offers instant online quoting and ordering -> db (description)
+- Specializes in short-run, one-off, prototype PCB assemblies -> db (description)
+- Offers kitted and turnkey assembly -> db (description)
+- Multiple awards for customer satisfaction and quality -> db (description)
+- Self-service DFM checking with online DFMplus service -> / (capabilities)
+- Nano coating on select stencils and sizes -> / (capabilities)
 </details>
 
 ---
@@ -180,28 +189,26 @@ The merger aims to combine ASC's certifications and expertise with Sunstone's qu
 **Old description:** This is the very first thing people ask even before our capabilities.
 
 ## About
-ASH Industries was founded in 1991 in Lafayette, Louisiana, by Hartie and Kim Spence. What began as a two-person operation with a single injection molding machine has grown into a family-owned, U.S.-owned manufacturer employing over 100 people. The company remains headquartered in Lafayette, where all production takes place in a facility that has expanded to include more than 25 molding machines, a full tool shop, and a Class 7 cleanroom.
+ASH Industries is headquartered in Lafayette, Louisiana, where it was founded in 1991 by Hartie and Kim Spence. What began as a two-person operation with a single machine has grown into a US-owned, family-led business that has employed American workers for over 35 years.
 
-The company specializes in plastic, metal, and silicone injection molding, offering in-house tooling design, build, and maintenance alongside secondary operations such as CNC machining, ultrasonic welding, hot stamping, pad printing, assembly, and packaging. Capabilities also include 3D printing, rotational molding, and liquid silicone rubber molding. Materials range from commodity resins like ABS and polypropylene to high-performance polymers such as PEEK and Ultem, as well as stainless steels (17-4, 316, S7) and low-alloy steels (8620, 4140). Production volumes span from 1,000-piece runs to millions of assemblies.
+The company provides thermoplastic injection molding, metal injection molding (MIM), and liquid silicone rubber (LSR) injection molding, all supported by in-house tooling design, build, and maintenance. Additional capabilities include 3D printing, CNC machining, and secondary operations such as ultrasonic welding, hot stamping, pad printing, assembly, and packaging. The facility houses more than 25 molding machines, a fully equipped tool shop, and expanded warehouse capacity, with a workforce of over 100 employees.
 
-ASH serves medical and surgical device manufacturers, producing components that require ISO 13485 certification and cleanroom conditions. The company also supplies structural parts for laser light show systems. Its engineering-driven approach emphasizes early design-for-manufacturing involvement, just-in-time delivery, and theory-of-constraints methodologies to reduce inventory and optimize production schedules.
+ASH serves medical device and surgical instrument manufacturers, as well as producers of structural components for laser light shows. Its ISO Class 7 cleanroom and ITAR registration also position it for defense and regulated medical work, with concrete project examples including medical-grade plastic and metal parts and laser light show components.
 
-The SuperMold program differentiates ASH by delivering steel tooling and first articles in as little as 10 days for $4,900, replacing traditional short-life prototype tooling. Combined with ISO 9001:2015 and ISO 13485:2016 certification, ITAR registration, and a fully integrated in-house workflow, the company positions itself for complex, tight-tolerance projects that demand speed and regulatory compliance.
+The company was built to advance manufacturing through innovations like the SuperMold program, which replaces short-life tooling with competitively priced steel molds to move seamlessly from prototype to production. An engineering-driven approach, early DFM involvement, and the use of Just-In-Time and Theory of Constraints methodologies aim to reduce inventory, optimize production, and solve complex challenges involving tight tolerances and new materials.
 
 ## Known for
-- SuperMold program: steel tooling and first articles in as little as 10 days for $4,900
-- In-house tooling design, build, and maintenance
-- Engineering-driven DFM involvement from concept
-- ISO 9001:2015 and ISO 13485:2016 certified with Class 7 cleanroom
-- ITAR registered, all manufacturing in Lafayette, LA
+- SuperMold program delivers tooling and first articles in as little as 10 days for $4,900
+- In-house tooling design, build, and maintenance under one roof
+- ISO Class 7 cleanroom for medical-grade manufacturing
+- ITAR registered for defense-related work
+- Engineering-driven DFM and JIT/TOC production optimization
 
 ## Capabilities
-- Plastic Injection Molding
+- Thermoplastic Injection Molding
 - Metal Injection Molding (MIM)
-- Silicone Injection Molding (LIM)
-- Liquid Silicone Rubber Injection Molding
-- Rotational Molding
-- In-House Tooling (Mold Design, Build, Maintenance)
+- Liquid Silicone Rubber (LSR) Injection Molding
+- In-House Tooling (Design, Build, Maintenance)
 - 3D Printing
 - CNC Machining
 - Ultrasonic Welding
@@ -209,44 +216,55 @@ The SuperMold program differentiates ASH by delivering steel tooling and first a
 - Pad Printing
 - Assembly
 - Packaging
+- Rotational Molding
 - Design for Manufacturing (DFM)
 - Prototyping
-- Overmolding
-- Thermoset Molding
+- Just-In-Time (JIT) Inventory Management
+- Theory of Constraints (TOC) Production Optimization
 
 ## Industries
 - Medical Devices
 - Surgical Devices
-- Laser Light Show Systems
+- Laser Light Show Components
 
 ## Certifications
 - ISO 9001:2015
 - ISO 13485:2016
-- Class 7 Cleanroom
+- ISO Class 7 Cleanroom
 - ITAR Registered
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1991
-- **Employees:** 100+
-- **Ownership:** Family-owned, US-owned
+- **Employees:** over 100
+- **Ownership:** US-owned, family-led (founded by Hartie and Kim Spence)
 - **Headquarters:** Lafayette, Louisiana
 
 <details><summary>Sources</summary>
 
-- Founded 1991 by Hartie and Kim Spence -> /about-us
-- Family-owned, second generation leadership -> /about-us
-- Headquarters Lafayette, Louisiana -> /, /about-us
-- Over 100 employees, 25+ molding machines, full tool shop -> /about-us
-- ISO 9001:2015, ISO 13485:2016, Class 7 Cleanroom, ITAR Registered -> /, /about-us
-- Plastic, metal, silicone injection molding; in-house tooling; secondary operations -> /
-- Materials: ABS, PP, PE, GF Nylon, PEEK, Ultem; stainless steels 17-4, 316, S7; low alloy steels 8620, 4140 -> /
-- SuperMold program: tooling and first articles in 10 days for $4,900 -> /
-- Serves medical/surgical devices and laser light show components -> /about-us
-- JIT and Theory of Constraints methodologies -> /about-us
-- Volume: thousands to millions of parts -> /about-us
-- Min order: 1,000 parts or less -> /
-- All manufacturing in-house, US-owned -> /
+- Founded in 1991 -> /about-us
+- Founders Hartie and Kim Spence -> /about-us
+- Headquarters Lafayette, Louisiana -> / (home page) and /about-us
+- Over 100 employees -> /about-us
+- More than 25 molding machines -> /about-us
+- Fully equipped tool shop -> /about-us
+- Thermoplastic injection molding with ABS, PP, PE, GF Nylon, PEEK, Ultem -> / (home page)
+- Metal injection molding with stainless steels (17-4, 316, S7) and low alloy steels (8620, 4140) -> / (home page)
+- Silicone injection molding -> / (home page)
+- In-house tooling design, build, maintenance -> / (home page)
+- 3D printing and CNC machining -> / (home page)
+- Secondary operations: ultrasonic welding, hot stamping, pad printing, assembly, packaging -> / (home page)
+- SuperMold program: tooling and first articles in as little as 10 days for $4,900 -> / (home page)
+- ISO 9001:2015 certified -> / (home page) and /about-us
+- ISO 13485:2016 certified -> / (home page) and /about-us
+- Class 7 cleanroom -> / (home page) and /about-us
+- ITAR Registered -> / (home page) and /about-us
+- Medical and surgical devices industry -> /about-us
+- Structural components for laser light shows -> /about-us
+- JIT and TOC methodologies -> /about-us
+- Engineering-driven approach with early DFM -> / (home page)
+- All manufacturing in-house at Lafayette facility -> / (home page)
+- US-owned, employing American workers for over 35 years -> / (home page)
 </details>
 
 ---
@@ -256,24 +274,30 @@ The SuperMold program differentiates ASH by delivering steel tooling and first a
 **Old description:** Mini Circuit Breakers 15A, 20A, 25A, Bolt-on 120/240V - Single and D...
 
 ## About
-ATI Electrical Supply operates from Henderson, Nevada, serving customers through an online store and multiple physical locations across the region. The company's founding year and ownership structure are not publicly disclosed.
+ATI Electrical Supply operates from Henderson, Nevada, serving customers across the continental United States with a broad catalog of electrical products and custom assembly services. The company maintains multiple store locations and a dedicated production facility for built-to-order power assemblies.
 
-The business distributes a broad range of electrical supplies organized into categories such as wire connectors, cable assemblies, wire and cable, power distribution equipment, portable power packages, cable management, distribution and controls, enclosures, hardware, tools and accessories, and safety gear. It also offers custom-built power assemblies produced to order at its production facility, with all components carrying UL/CSA listing and RoHS approval.
+Its product lineup spans wire connectors, cable assemblies, wire and cable, power distribution equipment, portable power packages, cable management systems, distribution and control components, enclosures, hardware, tools, accessories, and safety gear. The production facility fabricates custom cable and power assemblies; assemblies exceeding 25 feet are bound with double protection, and all components used are UL/CSA listed and RoHS approved.
 
-The company targets buyers who require portable power solutions, referencing "Clients That Trust Our Portable Power Products Expertise" without naming specific industries or customers. Its product lineup suggests applications in construction, industrial maintenance, event production, and temporary power installations.
+While the company does not publish a formal list of served industries, its inventory and custom assembly capabilities align with the needs of electrical contractors, industrial maintenance operations, construction projects, and any organization requiring temporary or permanent power distribution solutions.
 
-ATI Electrical Supply emphasizes free shipping across the continental United States, quick turnaround on quotes and orders, and a built-to-order capability for power assemblies as key differentiators. The company states that all components used are UL/CSA listed and RoHS approved.
+The business highlights free shipping within the continental U.S., quick turnaround times, free quotes, and a network of physical locations as key service differentiators.
 
 ## Known for
-- Free shipping in the continental US
-- Quick turnaround time on quotes and orders
-- Power assemblies built to order
-- All components UL/CSA listed
-- RoHS approved components
+- Free shipping in the continental U.S.
+- Quick turnaround times on orders
+- Free quotes for custom assemblies
+- Multiple physical store locations
+- Custom cable and power assemblies built to order in-house
 
 ## Capabilities
-- Electrical supply distribution
-- Custom power assembly
+- Custom cable assembly fabrication
+- Custom power assembly fabrication
+- Electrical product distribution
+- Wire connector supply
+- Cable management solutions
+- Power distribution equipment supply
+- Portable power package supply
+- Enclosure and hardware supply
 
 ## Certifications
 - RoHS
@@ -284,18 +308,21 @@ ATI Electrical Supply emphasizes free shipping across the continental United Sta
 
 <details><summary>Sources</summary>
 
-- Company name: ATI Electrical Supply -> db
-- Headquarters: Henderson, Nevada -> db
-- Website: atielectrical.com -> db
+- Headquarters in Henderson, Nevada -> db
+- Website atielectrical.com -> db
 - Product categories: wire connectors, cable assemblies, wire & cable, power distribution, portable power packages, cable management, distribution & controls, enclosures, hardware, tools & accessories, safety -> page /
 - Free shipping in continental US -> page /
-- Phone: 800-597-9311, hours Mon-Fri 9am-5pm CST -> page /
-- Multiple locations: 'Find a store near you' -> page /
-- Power Assemblies products are built to order -> page /
-- All Components are UL/CSA Listed -> page /
-- RoHS Approved components -> page /
-- RoHS certification -> db
-- LinkedIn: https://www.linkedin.com/company/autonomy-technology-inc/ -> db
+- Phone 800-597-9311, hours Mon-Fri 9am-5pm CST -> page /
+- Multiple store locations -> page /
+- Power assemblies built to order -> page / (products list)
+- Production facility mentioned -> page / (products list)
+- Cable assemblies exceeding 25' bound with double protection -> page / (products list)
+- All components UL/CSA listed -> page / (products list)
+- RoHS approved components -> page / (products list) and db certifications
+- Quick turnaround time advertised -> page /
+- Free quote offered -> page /
+- Specific products: generator cables, CAM lock panels, mini circuit breakers, wire mesh cable tray -> page /
+- LinkedIn URL for Autonomy Technology Inc -> db
 </details>
 
 ---
@@ -309,20 +336,20 @@ _skipped: not enough facts_
 **Old description:** Able Medical Devices creates partnerships based on anticipating customer requirements and delivering precision-machined surgical implants and instruments.
 
 ## About
-Able Medical Devices is headquartered in Marquette, Michigan. The company was established in 2017, building on a leadership team that accumulated decades of experience at medical device firms such as RTI Surgical and Pioneer Surgical. No individual founders are named in public materials, and the ownership structure has not been disclosed.
+Able Medical Devices is headquartered in Marquette, Michigan. The company was founded in 2006 and established its current operations in 2017. Ownership details are not publicly disclosed, and no founders are named in available sources. The business began with a focus on precision-machined surgical implants and instruments, leveraging decades of experience from leadership previously at RTI Surgical and Pioneer Surgical.
 
-The company specializes in precision-machined surgical implants and instruments, offering services from prototype development through full-scale production. Its 30,000-square-foot facility houses multi-axis CNC Swiss turning centers, 3+2-axis CNC milling, gun drilling, wire EDM, laser welding, surface grinding, and buffing and blasting equipment. The team supports complex instrument assemblies, design control, risk management, and regulatory compliance under ISO 13485:2016 and FDA registration.
+The company manufactures surgical implants, instruments, and complex assemblies for the medical device industry. Its 30,000-square-foot facility houses CNC Swiss turning (multi-axis), CNC milling (3+2 axis), gun drilling, wire EDM, laser welding, surface grinding, and buffing and blasting capabilities. Services span prototyping through full-scale production, including design control, risk management, project engineering, lean manufacturing, quality systems, and regulatory support. The team reports an average of over 20 years' experience across more than $1 billion in product affiliations.
 
-Able serves the orthopedic and medical device industries, including cardiothoracic product lines. Its customers are typically companies seeking outsourced design, development, and finished-goods manufacturing for Class I, II, and III devices. The firm emphasizes a scalable lean manufacturing approach refined over 20 years to accelerate speed to market.
+Able Medical Devices serves orthopedic, cardiothoracic, and broader medical device markets, working with companies seeking outsourced design, development, and finished-goods manufacturing. Its customer base includes firms pursuing Class I, II, and III product registrations, with experience in QSR, ISO 13485, MDD, and MDR preparation.
 
-The company positions itself as a strategic partner, citing its team’s average 20-plus years of experience and more than $1 billion in product affiliations. It highlights its lean manufacturing heritage, regulatory expertise (QSR, ISO 13485, MDD, MDR preparation), and a quality policy focused on delivering the right product on time.
+The company emphasizes a partnership model built on anticipating customer requirements, scalable lean processes, and speed to market. It cites its dedicated engineering and quality teams, two decades of lean manufacturing practice, and a track record of successful product launches as key differentiators.
 
 ## Known for
-- Team with average 20+ years of medical device experience
-- Over $1 billion in product affiliations
-- 20 years of lean manufacturing practice
-- ISO 13485:2016 certified and FDA registered facility
-- Scalable lean processes for faster delivery
+- 30,000 sq ft facility with multi-axis CNC Swiss turning and 3+2 axis milling
+- ISO 13485:2016 certified and FDA registered
+- Team averaging 20+ years experience with $1B+ in product affiliations
+- Lean manufacturing practices implemented for 20 years
+- Prototyping to full-scale production under one roof
 
 ## Capabilities
 - CNC Swiss turning (multi-axis)
@@ -332,23 +359,19 @@ The company positions itself as a strategic partner, citing its team’s average
 - Laser welding
 - Surface grinding
 - Buffing and blasting
-- Prototyping and custom instruments
-- Complex instrument assemblies
+- Prototyping
+- Custom instrument manufacturing
+- Complex instrument assembly
 - Implant manufacturing
-- Instrument manufacturing
-- Prototype & product development
 - Design control and risk management
+- Project management and engineering
+- Lean manufacturing
 - Quality systems services
 - Regulatory services
-- Project management & engineering
-- Lean manufacturing methodologies
-- Prototyping to full-scale production
-- FDA registered facility
-- ISO 13485:2016 certified
+- Product development and design compliance
+- Class I, II, III product history
+- MDR preparation
 - QSR, ISO 13485, MDD experience
-- MDR preparation background
-- Class I, II, and III product history
-- Systems development
 
 ## Industries
 - Orthopedic
@@ -356,54 +379,41 @@ The company positions itself as a strategic partner, citing its team’s average
 - Cardiothoracic
 
 ## Equipment
-- CNC Milling (3+2 axis)
-- Swiss Turning Centers
-- CNC swiss turning (multi-axis)
-- CNC milling
-- Gun drilling
-- Wire EDM
-- Laser welding
-- Surface grinding
-- Buffing and blasting
+- CNC Swiss turning centers (multi-axis)
+- CNC milling machines (3+2 axis)
+- Gun drilling machines
+- Wire EDM machines
+- Laser welding systems
+- Surface grinders
+- Buffing and blasting equipment
 
 ## Certifications
 - ISO 13485:2016
-- FDA registered (#3014680795)
 
 ## Company details
-- **Company Type:** Manufacturer
-- **Founded:** 2017
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 2006
 - **Headquarters:** Marquette, Michigan
 
 <details><summary>Sources</summary>
 
-- Headquartered in Marquette, Michigan -> /about-us
+- Headquartered in Marquette, Michigan -> /about-us, /about
+- Founded in 2006 (database) -> db
 - Established in 2017 -> /about-us
-- 30,000 sq ft facility -> /about-us
-- ISO 13485:2016 certified -> /about-us
-- FDA registered #3014680795 -> /about-us
-- CNC Milling (3+2 axis) and Swiss Turning Centers -> /about-us
-- Advanced machining technologies (metal and plastic) -> /about-us
-- Complex instrument assemblies -> /about-us
+- 30,000 sq ft facility -> /about-us, /about
+- ISO 13485:2016 certified -> /about, /quality
+- FDA registered facility #3014680795 -> /about-us
+- CNC Swiss turning (multi-axis) -> /about, /about-us
+- CNC milling (3+2 axis) -> /about, /about-us
+- Gun drilling, Wire EDM, Laser welding, Surface grinding, Buffing and blasting -> /about
+- Prototyping to full-scale production -> /about, /capabilities
+- Complex instrument assemblies -> /about-us, /capabilities
+- Design control and risk management expertise -> /about
 - Lean manufacturing for 20 years -> /capabilities
-- Team average 20+ years experience -> /about-us
-- Over $1 billion in product affiliations -> /about-us
-- Prototype & Product Development -> /capabilities
-- Manufacturing capabilities: Implants, Instruments, Complex Instruments and Assemblies -> /capabilities
-- CNC swiss turning (multi-axis), CNC milling, Gun drilling, Wire EDM, Laser welding, Surface grinding, Buffing and blasting -> /about
-- ISO 13485:2016 certified -> /about
-- FDA registered facility -> /about
-- 30,000 ft2 capacity -> /about
-- Design Control and Risk Management Expertise -> /about
-- QSR, ISO 13485, and MDD Experience -> /about
-- MDR Preparation Background -> /about
-- Class I, II, and III Product History -> /about
-- Project Management & Engineering -> /about
-- Lean Manufacturing Methodologies -> /about
-- Prototyping to full-scale production -> /about
-- Systems Development -> /about
-- Leadership team: Eric Baldwin, Adam Paltzer, Wade Depas, Katie Kuhlman -> /
-- Founded year 2006 from database -> db
+- Team average 20+ years experience, $1B+ product affiliations -> /about-us
+- Serves orthopedic, cardiothoracic, medical device industries -> /about-us, /about, products list
+- Class I, II, III product history -> /about
+- QSR, ISO 13485, MDD, MDR experience -> /about
 </details>
 
 ---
@@ -413,18 +423,20 @@ The company positions itself as a strategic partner, citing its team’s average
 **Old description:** Just had AbleCare set up a hospital bed and oxygen for in home care for Mom. Absolutely pleased with everyone we communicated with, all very pleasant and helpful. Michael delivered the equipment and patiently demonstrated and explained them. Look forward to working with this company.
 
 ## About
-AbleCare, a locally owned and operated home medical equipment company, has served central Kentucky from its Lexington base since 1992. The business opened on Goldrush Road with a focus on pediatric and respiratory equipment, aiming to make in-home medical care safer and easier for patients.
+AbleCare, a locally owned and operated home medical equipment company, has been serving central Kentucky from its Lexington base since 1992. The business operates from a facility on Goldrush Road and describes itself as the provider of home medical equipment in the state.
 
-The company provides a range of clinical services — respiratory care, wound care, diabetes care, ambulatory care, and sleep care — alongside a rental fleet that includes wheelchairs, transport chairs, hospital beds, patient lifts, trapeze bars, and respiratory therapy equipment. Staff deliver and set up equipment at patients’ homes and provide hands-on demonstration and education.
+The company provides a range of in-home clinical services including respiratory care, wound care, diabetes care, ambulatory care, and sleep care. It also rents a broad inventory of medical equipment such as wheelchairs, transport chairs, hospital beds, patient lifts, trapeze bars, and respiratory therapy devices. The business focuses on pediatric and respiratory equipment while supporting a variety of home healthcare needs.
 
-AbleCare works directly with patients and their physicians to coordinate equipment delivery and ongoing support. Its customer base includes families managing home care for elderly relatives and individuals with chronic conditions; testimonials highlight quick response times and collaboration with prescribing doctors.
+AbleCare works directly with patients and their physicians to deliver equipment and coordinate care at home. Staff members such as Michael deliver equipment and provide patient demonstrations and explanations. Testimonials note fast response times and collaboration with doctors to arrange wheelchair and hospital bed deliveries. The company serves individuals requiring home-based medical support, including pediatric patients and those needing respiratory therapy.
 
-The company’s stated mission is to help customers maintain life, health, and independence at home by meeting changing needs in a prompt, accurate, instructive, and forthright manner. It positions itself as a provider of home medical equipment in Kentucky.
+Its stated mission is to help customers maintain life, health, and independence at home by providing products and services that meet changing needs in a prompt, accurate, instructive, and forthright manner.
 
 ## Known for
 - Locally owned and operated since 1992
 - Specializes in pediatric and respiratory equipment
-- Prompt, accurate, instructive, and forthright service delivery
+- Mission-driven focus on patient independence at home
+- Prompt, accurate, and instructive service delivery
+- Fast response and physician coordination for equipment delivery
 
 ## Capabilities
 - Respiratory care
@@ -433,95 +445,158 @@ The company’s stated mission is to help customers maintain life, health, and i
 - Ambulatory care
 - Sleep care
 - Medical equipment rental
-- Hospital bed delivery and setup
-- Oxygen equipment delivery and setup
-- Patient equipment training and demonstration
-- Physician coordination for equipment orders
+- Wheelchair rental
+- Transport chair rental
+- Hospital bed rental
+- Patient lift rental
+- Trapeze bar rental
+- Respiratory therapy equipment rental
 
 ## Industries
-- Home health care
-- Medical equipment rental and leasing
-- Pediatric medical equipment
-- Respiratory therapy services
-
-## Equipment
-- Hospital beds
-- Wheelchairs
-- Transport chairs
-- Patient lifts
-- Trapeze bars
-- Oxygen equipment
-- Respiratory therapy equipment
+- Home healthcare
+- Medical equipment rental
+- Pediatric care
+- Respiratory therapy
+- Wound care
+- Diabetes care
+- Ambulatory care
+- Sleep care
 
 ## Company details
-- **Company Type:** Distributor / reseller
+- **Company Type:** Installer / service company
 - **Founded:** 1992
 - **Ownership:** Locally owned and operated
 - **Headquarters:** Lexington, Kentucky
 
 <details><summary>Sources</summary>
 
-- Founded in 1992 -> /about
+- Company name AbleCare -> db
+- Website http://www.ablecareky.com/ -> db
+- Headquarters Lexington, Kentucky -> db
+- Founded 1992 -> /about
 - Locally owned and operated -> /about
-- Headquarters at 299 Goldrush Road, Lexington, KY 40503 -> /about
-- Services: respiratory care, wound care, diabetes care, ambulatory care, sleep care -> /services, /
-- Equipment rental: wheelchairs, transport chairs, hospital beds, patient lifts, trapeze bars, respiratory therapy -> /
-- Mission statement: help customers maintain life, health and independence at home with prompt, accurate, instructive, forthright service -> /about
-- Testimonial: fast response, physician coordination, equipment delivery and demonstration -> /
+- Leading provider of home medical equipment in Kentucky -> /about
+- Specializes in pediatric and respiratory equipment -> /about
+- Mission statement -> /about
+- Services: respiratory care, wound care, diabetes care, ambulatory care, sleep care -> / and /services
+- Rentals: wheelchairs, transport chairs, hospital beds, patient lifts, trapeze bars, respiratory therapy -> /
+- Testimonial: Jennifer S - hospital bed and oxygen setup, Michael delivered and demonstrated -> /
+- Testimonial: Elizabeth L - fast response, worked with physician for wheelchair and hospital bed -> /
+- Location 299 Goldrush Road, Lexington, KY 40503 -> /about
+- Hours Monday-Friday 9am-5pm -> /about
+- Phone 859-997-0797 -> /about
 </details>
 
 ---
 
 # Acadian Architectural Woodwork
 
-_skipped: not enough facts_
+**Old description:** Acadian Architectural's craftsmen have over 40 years of experience providing high-quality building materials to South Louisiana. They are dedicated to preserving the region's unique architectural heritage while seamlessly integrating it with modern living.
+
+## About
+Acadian Architectural Woodwork operates from Ponchatoula, Louisiana, where its craftsmen have spent more than four decades supplying building materials across South Louisiana. The company focuses on preserving the region’s distinctive architectural heritage while blending it with contemporary living.
+
+The shop produces both custom-designed and stock millwork, including staircases, crown molding, and base molding tailored for coastal and southern urban homes. Collections such as Coastal Retreat Designs and Southern Urban Designs are offered alongside made-to-order pieces, and the company ships nationwide from its Louisiana facility.
+
+Its customers include builders, DIY enthusiasts, and design professionals working on residential projects throughout the Gulf Coast and beyond. The product line addresses both new construction and renovation, with an emphasis on architectural details that reflect local building traditions.
+
+Acadian Architectural Woodwork states that its founding purpose is to maintain the area’s unique architectural character while integrating modern functionality, a mission that guides its custom and catalog offerings.
+
+## Known for
+- Over 40 years of experience supplying building materials in South Louisiana
+- Focus on preserving regional architectural heritage with modern integration
+- Nationwide shipping on stock and custom millwork
+- Support available US Central Time, 9 am–4 pm
+- Custom and stock millwork collections for coastal and urban residential styles
+
+## Capabilities
+- Custom millwork
+- Stock millwork
+- Staircase manufacturing
+- Crown molding
+- Base molding
+- Coastal home design
+- Architectural woodwork
+- Design collections (Coastal Retreat, Southern Urban)
+
+## Industries
+- Building materials
+- Architectural millwork
+- Residential construction
+- Coastal home construction
+- Urban residential construction
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Ponchatoula, Louisiana
+
+<details><summary>Sources</summary>
+
+- Company name: Acadian Architectural Woodwork -> db
+- Headquarters: Ponchatoula, Louisiana -> db
+- Craftsmen have over 40 years experience providing building materials to South Louisiana -> /
+- Offers custom designed and stock millwork products -> /
+- Design collections: Coastal Retreat Designs, Southern Urban Designs -> /
+- Nationwide shipping -> /
+- Support services available US Central Time 9am-4pm -> /
+- Contact phone (985) 892-4000 and email sales@2a2w.com -> /
+- Dedicated to preserving region's architectural heritage while integrating modern living -> /
+- Products include staircase, crown and base molding -> /
+- Online products ready to ship, custom orders need manufacturing time -> /
+- Builders and DIYers mentioned as customers -> /
+</details>
+
+---
 
 # Acana Northeast
 
 **Old description:** We also carry the full product line from Wadden Systems Inc. a renowned company with a wide a range of flavoring systems for the frozen treat industry. Founded in 1993 by Rita Wadden, one of the company’s most notable contributions to the industry was the development of the 24 Flavor System which allows soft serve ice cream to be transformed into a whopping 24 or more flavors of soft serve on a cone-to-cone basis.
 
 ## About
-Electro Freeze of New England, operating as Acana Northeast, is based in Pembroke, New Hampshire. The company serves the six New England states—Maine, Vermont, New Hampshire, Connecticut, Rhode Island, and Massachusetts—as an authorized distributor of Electro Freeze soft-serve equipment and Wadden Systems flavoring systems. No founding year or ownership details are publicly disclosed.
+Based in Pembroke, New Hampshire, Acana Northeast operates as Electro Freeze of New England, a distributor covering Maine, Vermont, New Hampshire, Connecticut, Rhode Island, and Massachusetts. The company provides commercial soft-serve and frozen-treat equipment to operators across the region.
 
-The business supplies a range of commercial frozen-treat machinery, including soft-serve freezers, frozen-yogurt machines, milkshake and slush units, gelato batch freezers, multi-flavor and combo systems, and the Wadden 24-Flavor and 9-Flavor (Fuzionate) systems. It maintains inventory for immediate delivery and operates a test kitchen and showroom in Concord, NH, where prospective buyers can compare Electro Freeze machines side-by-side with competing brands.
+The company sells and services a range of Electro Freeze machines, including soft-serve, frozen yogurt, milkshake, slush, gelato, multi-flavor, combo, and batch freezers. It also supplies Wadden Systems flavoring systems, notably the 24 Flavor System that produces 24 or more soft-serve flavors cone-to-cone and the 9 Flavor Fuzionate system. Beyond equipment sales, Acana Northeast offers training and education through free ice-cream seminars at its Concord, New Hampshire test kitchen, along with consulting, maintenance service, and a stock-and-deliver program.
 
-Customers include independent ice-cream shops, frozen-yogurt chains, gelaterias, and foodservice operators looking to add or upgrade frozen-dessert programs. The company's territory covers the entire New England region, and its seminars attract both new entrants and established operators seeking hands-on training.
+Customers include independent ice-cream shops, frozen-yogurt chains, gelaterias, slush and smoothie bars, and food-service operators adding boozy shakes or hand-dipped novelties. The test kitchen lets buyers compare Electro Freeze units side-by-side with other brands before purchasing.
 
-Electro Freeze of New England differentiates itself by combining equipment sales with a full suite of support services—operator training, preventive maintenance, repair, and business consulting. Free ice-cream seminars at the Concord facility let attendees see machines in production and learn formulation basics, reinforcing a consultative approach rather than a pure transactional sale.
+Acana Northeast differentiates itself with a hands-on showroom where operators can taste the difference in product texture, a local inventory for quick delivery, and the exclusive Wadden 24 Flavor System that expands menu variety without additional machines. The company emphasizes that Electro Freeze equipment is manufactured in the United States.
 
 ## Known for
-- Stocked equipment available for immediate delivery across New England
 - Test kitchen and showroom for side-by-side brand comparison
-- Free ice-cream seminars with hands-on machine demonstration
-- Full-service support: training, maintenance, repair, and consulting
-- Authorized distributor for Electro Freeze and Wadden Systems product lines
+- Stock and deliver
+- Free ice cream seminars at Concord, NH test kitchen
+- Wadden Systems 24 Flavor System for 24+ flavors cone-to-cone
+- Electro Freeze equipment manufactured in the USA
 
 ## Capabilities
-- Commercial frozen-treat equipment distribution
-- Flavoring system distribution
-- Equipment installation and startup
-- Preventive maintenance and repair
-- Operator training and certification
-- Business consulting for frozen-dessert operations
-- Free educational seminars
+- Equipment sales
+- Training and education
+- Service and maintenance
+- Consulting
+- Ice cream seminars
 - Test kitchen demonstrations
+- Stock and delivery
 
 ## Industries
-- Ice cream and frozen dessert
+- Frozen treat
+- Ice cream
 - Frozen yogurt
 - Gelato
-- Slush and frozen beverages
-- Milkshake and smoothie
-- Foodservice equipment
+- Slush
+- Milkshake
+- Smoothie
+- Food service
+- Beverage
 
 ## Equipment
-- Electro Freeze soft serve freezers
+- Electro Freeze soft serve machines
 - Electro Freeze frozen yogurt machines
-- Electro Freeze milkshake machines
+- Electro Freeze milk shake machines
 - Electro Freeze slush machines
-- Electro Freeze gelato batch freezers
-- Electro Freeze multi-flavor systems
+- Electro Freeze gelato machines
+- Electro Freeze multi flavor machines
 - Electro Freeze combo machines
+- Electro Freeze batch freezers
 - Wadden Systems 24 Flavor System
 - Wadden Systems 9 Flavor System (Fuzionate)
 
@@ -531,14 +606,16 @@ Electro Freeze of New England differentiates itself by combining equipment sales
 
 <details><summary>Sources</summary>
 
-- Company name Acana Northeast, website electrofreezeofnewengland.com, HQ Pembroke NH -> db
-- Operates as Electro Freeze of New England, covers six New England states -> homepage
-- Distributes Electro Freeze soft serve, frozen yogurt, milkshake, slush, gelato, multi-flavor, combo machines, batch freezers -> homepage
-- Carries Wadden Systems 24 Flavor System and 9 Flavor System (Fuzionate) -> homepage
-- Offers sales, training & education, service, consulting -> homepage
-- Has test kitchen and showroom in Concord NH for brand comparison -> homepage
-- Provides free ice cream seminars at Concord test kitchen -> homepage
-- Stock and deliver inventory -> homepage
+- Company name Acana Northeast -> db
+- Headquarters Pembroke, New Hampshire -> db
+- Operates as Electro Freeze of New England -> /
+- Covers Maine, Vermont, New Hampshire, Connecticut, Rhode Island, Massachusetts -> /
+- Distributes Electro Freeze equipment (soft serve, frozen yogurt, milk shake, slush, gelato, multi flavor, combo machines, batch freezers) -> /
+- Carries Wadden Systems flavoring systems (24 Flavor System, 9 Flavor System) -> /
+- Offers sales, training & education, service, consulting -> /
+- Provides ice cream seminars at Concord, NH test kitchen -> /
+- Stock and deliver -> /
+- Electro Freeze equipment manufactured in USA -> /
 </details>
 
 ---

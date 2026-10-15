@@ -3,86 +3,84 @@
 **Old description:** Here at SRS Fabrication we specialize in Precision Welding & Fabrication, Carpentry, & Scenic / Artistic services. Serving a broad range of industries, we take pride in working closely with our customers in order to provide the highest level of service and dependable, reliable solutions to their project needs. We combine our vast knowledge and expertise in the Custom Fabrication Industry with state of the art equipment and software to produce products that exceed expectations.
 
 ## About
-SRS Fabrication Inc. was established in 2005 in North Las Vegas, Nevada. The company began as a modest 5,000-square-foot facility and has since grown into a multi-building operation spanning over 56,000 square feet of production space.
+Founded in 2005 in North Las Vegas, Nevada, SRS Fabrication Inc. began as a modest 5,000-square-foot shop and has grown into a multi-building operation spanning over 56,000 square feet across three facilities on North Coleman Street and West Brooks Avenue. The company was established as a full-service custom fabrication shop, though the founders are not named in public materials.
 
-The shop provides a full range of custom fabrication services, including precision welding and fabrication, sheet metal work, CNC machining, tube and plate bending, waterjet cutting, and manual milling. Its carpentry department operates CNC routers for wood, composites, and solid-surface materials, while the artistic division runs a 4-axis CNC foam carving router, a hard-coat finishing system, and a thermoforming station for plastics. In-house drafting and design supports 3D modeling, photorealistic rendering, finite-element analysis, and CNC programming. The staff includes certified welders, project managers, draftsmen, carpenters, and scenic sculptors and painters.
+The shop combines precision welding and fabrication, carpentry, and scenic/artistic services under one roof. Its process lineup includes waterjet cutting, tube laser, CNC press braking, sheet metal fabrication, tube and plate bending and rolling, precision milling and turning, 4-axis CNC foam carving, robotic-arm CNC machining, large-format 3D printing, plastic thermoforming, hard-coat finishing, and professional paint-booth work. The facility houses equipment such as a KUKA robotic arm, a Massivit 1800 3D printer, a Flow Mach 500 waterjet, RMT press brakes and band saws, Anderson STRATOS CNC routers, a Frog Mill 4-axis foam router, and a Belovac thermoformer. Staff includes certified welders, carpenters, scenic sculptors, painters, draftsmen, and project managers.
 
-SRS Fabrication serves a broad range of industries, with noted experience in industrial and architectural design, themed entertainment, sculptural and artistic projects, and environmental displays and fixtures. Customers include clients seeking creative structural displays, architectural pieces, and custom scenic elements.
+SRS Fabrication serves a broad range of industries, with explicit focus on industrial and architectural design, themed entertainment, scenic fabrication, environmental structural displays and fixtures, and custom set construction. Typical customers include architectural firms, exhibit designers, entertainment production companies, and industrial clients needing one-off prototypes or low-volume assemblies.
 
-The company emphasizes its one-stop-shop model, combining design, engineering, and multi-process fabrication under one roof. Continuous reinvestment in advanced equipment — such as a KUKA robotic arm, Massivit 1800 3D printer, Flow waterjet, and Anderson CNC routers — is cited as a key differentiator, enabling capabilities that the firm says are impossible with traditional processes.
+The company emphasizes its one-stop-shop model, taking projects from 3D modeling and photorealistic rendering through prototyping, fabrication, and finishing. Reinvestment in the latest equipment and an in-house team of specialists are cited as the basis for delivering complex, large-scale projects that exceed expectations.
 
 ## Known for
-- One-stop shop for design, fabrication, and scenic services
-- 56,000 sq. ft. across three facilities with latest CNC, waterjet, and robotic equipment
-- In-house drafting and design with 3D modeling, rendering, and FEA analysis
-- Certified welders and scenic artisans on staff
+- One-stop shop from 3D design through finishing
+- 56,000 sq ft production space across three buildings
+- Advanced equipment: KUKA robotic arm, Massivit 1800 3D printer, Frog3D 4-axis foam router, Flow waterjet, RMT press brake
+- In-house certified welders, carpenters, scenic sculptors, and painters
+- Large-scale environmental structural displays and fixtures
 
 ## Capabilities
-- Custom Welding & Fabrication
-- Sculpture Fabrication & Scenic Painting
-- Sheet Metal Fabrication
-- 4-axis CNC Foam Carving
-- Hard Coating Finish (FROGSkin)
-- Drafting & Design (3D Modeling, Blueprints, Conceptual Design, Prototyping)
-- Mechanical Assemblies & Motion Simulation
-- Photorealistic Rendering
-- FEA Analysis
-- Waterjet Cutting
-- Tube Laser Cutting
-- CNC Press Brake
-- Tube & Plate Bending & Rolling
-- Precision Milling & Turning
-- CNC Routing (wood, composites, solid surface)
-- Plastic Thermoforming
-- Artistic Sculpting
-- Scenic Painting
-- Professional Paint Booth
-- Manual Milling Services
-- CNC Programming
-- Assembly & Component Drawings
-- Sheet Metal Design
-- Set Construction
+- Custom welding & fabrication
+- Sculpture fabrication & scenic painting
+- Sheet metal fabrication
+- 4-axis CNC foam carving
+- Hard coating finish (FROGSkin)
+- Drafting & design (2D/3D CAD, photorealistic rendering, FEA)
+- Manual milling & turning
+- Waterjet cutting
+- Tube laser cutting
+- CNC press brake forming
+- Tube & plate bending & rolling
+- CNC routing (wood, composites, plastics, aluminum)
+- Plastic heat forming / thermoforming
+- Artistic sculpting
+- Professional paint booth
+- 3D modeling & blueprints
+- Conceptual design & prototyping
+- Mechanical assemblies & motion simulation
+- CNC programming
+- Set construction
+- Custom LED signs
+- LED screen rentals
 
 ## Industries
-- Industrial
-- Architectural
-- Themed Entertainment
-- Sculptural/Artistic
-- Environmental Displays & Fixtures
+- Industrial design
+- Architectural design
+- Themed entertainment
+- Scenic fabrication
+- Environmental structural displays
+- Set construction
+- Custom signage
 
 ## Equipment
-- Flow Mach 500 WaterJet
-- RMT CNC Press Brake
-- RMT S-FAB BandSaw
-- New Dimension Plate Roller
-- Anderson STRATOS Pro CNC Router
-- Frog Mill 4-AXIS CNC
-- FROGSkin Hard Coat System
-- Belovac Thermo-Forming
-- KuKa Robotic Arm CNC
-- Massivit 1800
+- KUKA Robotic Arm CNC
+- Massivit 1800 3D printer
 - Frog3D Mill
 - Frog3D HardCoat Machine
-- Anderson CNC Routers
+- Anderson CNC Routers (STRATOS Pro)
+- FLOW Water-Jet (Mach 500)
+- RMT CNC Press-Brake
 - Digital Tube Bender & Roller
-- Plastic Thermo-Form
+- Plastic Thermo-Form (Belovac)
+- RMT S-FAB BandSaw
+- New Dimension Plate Roller
+- Frog Mill 4-AXIS CNC
+- FROGSkin Hard Coat System
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 2005
 - **Headquarters:** North Las Vegas, Nevada
 
 <details><summary>Sources</summary>
 
-- Founded 2005 in North Las Vegas, Nevada -> /about
-- Expanded from 5,000 sq.ft to 56,000 sq.ft across three buildings -> /about
-- Services: precision welding, fabrication, carpentry, scenic/artistic -> /
-- Processes: waterjet, tube laser, CNC press brake, sheet metal, tube/plate bending, milling, turning, CNC routing, plastic heat forming, artistic sculpting, scenic painting, hard coating, thermoforming -> /
-- In-house drafting & design: 3D modeling, photorealistic rendering, FEA, CNC programming -> /about
-- Staff: certified welders, project managers, draftsmen, carpenters, scenic sculptors & painters -> /about
-- Industries: industrial & architectural design, themed entertainment, sculptural/artistic, environmental displays -> /about
-- Equipment list: Flow Mach 500, RMT press brake, RMT bandsaw, New Dimension plate roller, Anderson STRATOS, Frog Mill 4-axis, FROGSkin, Belovac, KUKA robotic arm, Massivit 1800, Frog3D Mill, Frog3D HardCoat, Anderson CNC routers, digital tube bender, plastic thermo-form -> /about
-- Materials: aluminum alloys, carbon steel, stainless steel, chromoly steel, brass, birch plywood, MDF, Corian, plexiglass, lexan, acrylic, PVC, luan, foam, polystyrene foam -> /
+- Founded 2005, North Las Vegas, NV -> /about
+- Grew from 5,000 sq ft to 56,000 sq ft across three buildings -> /about
+- Equipment list: KUKA robotic arm, Massivit 1800, Frog3D Mill, Frog3D HardCoat, Anderson CNC routers, Flow waterjet, RMT press brake, digital tube bender/roller, plastic thermo-form -> /about
+- Staff: certified welders, carpenters, scenic sculptors, painters, draftsmen, project managers -> /about
+- Capabilities: welding, fabrication, carpentry, scenic/artistic, waterjet, tube laser, press brake, sheet metal, tube/plate bending, milling/turning, CNC routing, plastic heat forming, sculpting, painting, hard coating, thermoforming, 3D modeling, rendering, FEA, prototyping -> /
+- Materials: aluminum alloys, carbon steel, stainless steel, chromoly steel, brass, birch plywood, MDF, Corian, Plexiglass, Lexan, acrylic, PVC, luan, polystyrene foam -> /
+- Industries served: industrial & architectural design, creative environmental structural displays & fixtures, scenic fabrication, set construction, custom LED signs -> /about
+- Contact: Sam Salde, (702) 353-2656 -> /about
 </details>
 
 ---
@@ -92,35 +90,30 @@ The company emphasizes its one-stop-shop model, combining design, engineering, a
 **Old description:** "Satnam was very professional. He made the process of getting resized very pleasant. He listens to your concerns and makes sure that you are happy with the product. Will definitely go to him again in the future and I highly recommend this company." Samaa
 
 ## About
-SSS Medical operates from Middlesex, New Jersey, as a family-owned, minority-owned small business led by founder Satnam Singh Saggu, known in the industry as The Lead Guy®. The company was established to protect healthcare providers from radiation through specialized protective equipment and services.
+SSS Medical operates from Middlesex, New Jersey, as a family-owned, minority-owned small business. The company was founded by Satnam Singh Saggu, who operates under the trademarked persona "The Lead Guy®." While the founding year is not publicly disclosed, the business has established itself as a specialist in radiation protection for healthcare settings.
 
-The product line spans lead aprons, lead glasses, lead barriers, lead racks, lead gloves, table pads, x-ray apron cleaner, lead drapes, and a recovery, recycle, and disposal service for used lead garments. In addition to product supply, the company provides on-site fitting, resizing, and customization services to ensure proper protection for each wearer.
+The company supplies a range of radiation shielding products including lead aprons, lead glasses, lead barriers, lead racks, lead gloves, lead drapes, table pads, and X-ray apron cleaner. It also offers a recovery, recycle, and disposal service for used lead garments. The operation appears to be a direct-to-customer supplier and service provider, with Saggu personally involved in fittings and customer consultations.
 
-Customers include hospitals, medical centers, and individual clinicians such as Dr. Amy Young at JCMC, facility managers like Sandra, and practitioners including Girard. The company serves the healthcare, medical, and radiation safety sectors, with a focus on hospitals, clinics, and individual healthcare providers requiring radiation protection.
+SSS Medical serves healthcare providers and institutions that require radiation protection, such as hospitals, clinics, and medical staff who work with X-ray and fluoroscopy equipment. Testimonials reference customers at JCMC (Jersey City Medical Center) and other medical professionals including doctors and staff who need custom-fitted lead aprons and related safety gear.
 
-SSS Medical positions itself as experts in Radiation PROTECTION®, emphasizing personal service, timely delivery, and in-depth product knowledge to ensure optimal fit and protection. The founder’s direct involvement in fitting and customer support is cited as a key differentiator.
+The company emphasizes personal service, with Saggu directly handling fittings and consultations. Customers highlight responsiveness, attention to detail, and the convenience of on-site fitting services. The recycle and disposal program addresses environmental and regulatory concerns around lead waste.
 
 ## Known for
-- Trusted experts in Radiation PROTECTION® with proprietary product branding
-- Family-owned, minority-owned small business with direct owner involvement
-- On-site fitting, resizing, and customization services for radiation protection garments
-- Lead recovery, recycling, and disposal program for used aprons and accessories
-- Personal customer service from founder Satnam Singh Saggu
+- Family-owned and minority-owned small business
+- Founder Satnam Singh Saggu personally conducts fittings as 'The Lead Guy®'
+- Lead garment recovery, recycling, and disposal service
+- On-site fitting services for healthcare facilities
 
 ## Capabilities
 - Radiation protection product supply
-- Lead apron fitting and resizing
-- Lead garment recovery and recycling
-- Lead disposal services
+- Custom lead apron fitting
+- Lead garment recycling and disposal
 - X-ray apron cleaning
-- Custom radiation protection solutions
 
 ## Industries
 - Healthcare
 - Medical
 - Radiation protection
-- Hospital
-- Medical facilities
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -129,13 +122,12 @@ SSS Medical positions itself as experts in Radiation PROTECTION®, emphasizing p
 
 <details><summary>Sources</summary>
 
-- Location: Middlesex, New Jersey -> /
-- Ownership: Family-owned, Minority-owned, Small business -> /
-- Founder: Satnam Singh Saggu (The Lead Guy®) -> /
-- Products: Lead aprons, glasses, barriers, racks, gloves, table pads, x-ray apron cleaner, lead drapes, recovery recycle disposal -> /
-- Industries: Healthcare providers, hospitals, medical centers -> /
-- Customer examples: Dr. Amy Young (JCMC), Sandra, Girard -> /
-- Differentiator: Trusted experts in Radiation PROTECTION® -> /
+- Location: Middlesex, New Jersey -> db
+- Ownership: Family Owned, Minority Owned, Small Business -> /
+- Founder: Satnam Singh Saggu, The Lead Guy® -> /
+- Products: Lead aprons, glasses, barriers, racks, gloves, drapes, table pads, X-ray apron cleaner, recovery recycle disposal -> /
+- Industries: Healthcare providers, hospitals (JCMC), medical staff -> /
+- Services: Custom fitting, on-site service, recycling/disposal -> /
 - Certification: MINORITY OWNED -> db
 </details>
 
@@ -146,32 +138,36 @@ SSS Medical positions itself as experts in Radiation PROTECTION®, emphasizing p
 **Old description:** Custom power, control, and instrumentation transformers/coils (founded 1946 by Charles Edison)
 
 ## About
-Sag Harbor Industries, Inc. was founded in 1946 by Charles Edison, son of inventor Thomas Edison, in the village of Sag Harbor, New York. The company began with a single goal: to manufacture electrical coils and inductors of superior quality. Today it operates from two U.S. manufacturing locations — its original headquarters in Sag Harbor, NY, and a second facility in Farmville, North Carolina.
+Sag Harbor Industries, Inc. was founded in 1946 by Charles Edison, son of inventor Thomas Edison, in Sag Harbor, New York. The company began with a single goal: to manufacture electrical coils and inductors of superior quality. Today it operates from two U.S. locations — its original headquarters in Sag Harbor, NY, and a second facility in Farmville, North Carolina.
 
-The company produces custom power, control, and instrumentation transformers and coils, along with cable assemblies, printed circuit board assemblies, and full box-build integration. Its coil portfolio spans electric, encapsulated, field, molded, self-supported, solenoid, varnished, and toroidal types, manufactured through winding, injection molding, transfer molding, and vacuum impregnation processes. The facilities are equipped with automated and semi-automated equipment geared for high-volume, medium-volume, and short-run production.
+The company produces custom power, control, and instrumentation transformers and coils, along with cable assemblies, printed circuit board assemblies, and full box-build services. Its product line includes toroidal, solenoid, electric, field, encapsulated, molded, self-supported, and varnished coils, supported by UL-recognized insulation systems. Multiple domestic plants run automated and semi-automated equipment, allowing the firm to handle high-volume, medium-volume, and short-run orders.
 
-Sag Harbor serves electronics, aerospace, medical device, renewable energy, industrial automation, and automotive sectors. Aerospace customers receive UL-compliant components built to AS9100 standards; medical device makers rely on ISO 13485-certified, burr-free coils for implants and diagnostic equipment; renewable energy projects use toroidal coils and transformers for solar and wind systems; and automation firms source durable solenoid coils and cable assemblies for robotics and machinery.
+Sag Harbor serves the electronics, aerospace, medical device, renewable energy, industrial automation, and automotive sectors. Aerospace customers receive UL-compliant components built to AS9100 standards; medical clients get burr-free, high-precision coils for implants and diagnostic equipment under ISO 13485; renewable energy projects use toroidal coils and transformers for solar and wind installations; and automation firms source durable solenoid coils and cable assemblies for robotics and machinery.
 
-The founder's original mandate — superior quality — remains the stated differentiator. The company emphasizes 100% U.S. manufacturing, engineering and design competence, flexible supply chain management, and on-time delivery. It holds ISO 9001:2015, AS9100, and ISO 13485 certifications, and its products meet UL insulation system standards.
+The founder's original quality mandate remains the company's differentiator. Management cites 100% U.S. manufacturing, ISO 9001:2015, AS9100, and ISO 13485 certifications, engineering and design competence, flexible supply-chain management, and on-time delivery as the pillars of its "Sag Harbor Advantage."
 
 ## Known for
-- 100% Made in USA manufacturing across two domestic facilities
-- ISO 9001:2015, AS9100, and ISO 13485 certified quality system
-- UL-compliant components and insulation systems
-- Engineering and design support from concept to production
-- Flexible production scaling from short runs to high volume
+- 100% Made in USA manufacturing
+- ISO 9001:2015, AS9100, and ISO 13485 certified
+- Multiple U.S. locations with automated and semi-automated equipment
+- High volume, medium volume, and short run production capabilities
+- Engineering & design competence with flexible supply chain management
 
 ## Capabilities
-- Custom coil winding (electric, encapsulated, field, molded, self-supported, solenoid, varnished, toroidal)
-- Power, control, and instrumentation transformer manufacturing
+- Coil winding
+- Transformer manufacturing
 - Cable assembly
-- Printed circuit board assembly
+- PCB assembly
 - Box build assembly
-- Injection molding
-- Transfer molding
-- Vacuum impregnation
-- UL insulation system compliance
-- Design consultation and engineering support
+- Encapsulation
+- Injection and transfer molding
+- Varnishing (dipped, brushed, sprayed, vacuum impregnated)
+- UL insulation systems
+- Custom design and engineering
+- Prototyping
+- High volume production
+- Medium volume production
+- Short run production
 
 ## Industries
 - Electronics
@@ -189,20 +185,19 @@ The founder's original mandate — superior quality — remains the stated diffe
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1946
-- **Ownership:** Private, founded by Charles Edison (son of Thomas Edison)
 - **Headquarters:** Sag Harbor, NY
 
 <details><summary>Sources</summary>
 
-- Founded 1946 by Charles Edison (son of Thomas Edison) -> db, /
-- Headquarters Sag Harbor, NY; second facility Farmville, NC -> /
-- Products: custom power/control/instrumentation transformers, coils, cable assemblies, PCB & box build -> /
-- Coil types: electric, encapsulated, field, molded, self-supported, solenoid, varnished, toroidal -> /
-- Processes: winding, injection molding, transfer molding, vacuum impregnation -> /
-- Volume: high, medium, short run production -> /
-- Industries served: electronics, aerospace, medical, renewable energy, industrial automation, automotive -> /
-- Certifications: ISO 9001:2015, AS9100, ISO 13485, UL standards -> /, db
-- 100% Made in USA manufacturer -> /
+- Founded 1946 by Charles Edison -> db
+- Headquarters Sag Harbor, NY and Farmville, NC -> /
+- Products: custom transformers, coils, cable assemblies, PCB & box build -> /
+- Coil types: toroidal, solenoid, electric, field, encapsulated, molded, self-supported, varnished -> /
+- UL insulation systems -> /
+- Automated/semi-automated equipment, high/medium/short run production -> /
+- Industries: electronics, aerospace, medical, renewable energy, industrial automation, automotive -> /
+- Certifications: ISO 9001:2015, AS9100, ISO 13485 -> /
+- 100% Made in USA -> /
 - Engineering & design competence, flexible supply chain, on-time delivery -> /
 - LinkedIn URL -> db
 </details>
@@ -214,30 +209,31 @@ The founder's original mandate — superior quality — remains the stated diffe
 **Old description:** Sage Plastics, Inc. is a proven partner in the industry. We pride ourselves as the best service blow molder in the industry. We provide the best speed to market capabilities, a logistics department that can service any shipping need and an impeccable quality department to assure standards are maintained throughout the manufacturing process. We offer special testing methods to ensure your product will perform in the market and we use Statistical Quality Control (SPC) methods to ensure our customers’ needs are met and we are certified in food safety.
 
 ## About
-Sage Plastics, Inc. operates from its headquarters in Fort Worth, Texas, with manufacturing facilities in Long Beach and Colton, California. The company traces its roots to a blow molding plant established in Long Beach over 18 years ago, which remains the longest-tenured site in its network. In 2022, the company opened a greenfield facility in Fort Worth to serve the Midwest and Southeast, and in 2023 it acquired Microdyne's Colton operation, adding injection molding to its blow molding capabilities.
+Sage Plastics, Inc. operates from its headquarters in Fort Worth, Texas, with a manufacturing network that includes a long-standing plant in Long Beach, California, and a newer facility in Colton, California. The Long Beach location has served the region for nearly 18 years as of 2023, while the Colton site joined the company in 2023 through the acquisition of Microdyne. A greenfield plant in Fort Worth was opened in 2022 to expand geographic reach into the Midwest and Southeast. The company's ownership structure and founding individuals are not publicly disclosed.
 
-The company specializes in blow molding and injection molding of high-density polyethylene (HDPE) bottles and containers for dairy, beverage, foodservice, industrial, chemical, and household markets. Its Long Beach plant focuses on core product lines for industrial/chemical and foodservice segments, while the Colton facility offers both injection and blow molding with extensive customization. The Fort Worth site was built as a versatile manufacturing hub.
+The company specializes in blow molding and injection molding of high-density polyethylene (HDPE) bottles and plastic containers. Its Long Beach plant focuses on core product lines for industrial, chemical, and foodservice markets, and holds IMS certification for dairy and beverage applications. The Colton facility adds injection molding capability alongside blow molding, with extensive customization options. Across all sites, Sage Plastics employs Statistical Quality Control (SPC) methods, special product testing, and a dedicated logistics department to manage shipping. The company emphasizes speed to market and food safety compliance.
 
-Sage Plastics serves customers in the dairy, beverage, foodservice, industrial, chemical, and household sectors, providing both standard and custom containers. The company emphasizes food safety certification and uses statistical quality control (SPC) methods across its operations.
+Sage Plastics serves the dairy, beverage, foodservice, industrial, chemical, and household sectors. Its containers are used for food and beverage packaging, industrial chemicals, and reusable consumer bottles. The company positions itself as a preferred supplier for businesses seeking high-volume output without excessive lead times or administrative burden.
 
-The company differentiates itself through speed-to-market capabilities, a logistics department designed to handle any shipping requirement, and a quality system that includes special testing methods and SPC. It aims to be the preferred supplier of plastic containers by combining service, quality, and execution.
+Founded on a commitment to quality, service, and execution, Sage Plastics aims to be the preferred supplier of plastic containers. The company highlights its quality department, logistics flexibility, and food safety certification as key differentiators, stating that its success is tied directly to customer success.
 
 ## Known for
-- Speed-to-market capabilities
-- Logistics department capable of handling any shipping need
-- Statistical Quality Control (SPC) methods
-- Food safety certification
-- IMS and ISO certified facilities
-- Combined injection and blow molding at Colton facility
+- Speed-to-market capabilities with dedicated logistics department
+- Statistical Quality Control (SPC) methods and special product testing
+- Food safety certification and IMS/ISO certified facilities
+- Combined blow molding and injection molding under one roof at Colton facility
+- Nearly two decades of operation at Long Beach plant
 
 ## Capabilities
 - Blow molding
 - Injection molding
 - Custom molding
 - Statistical Quality Control (SPC)
-- Special testing methods
-- Logistics and shipping
+- Special product testing
+- Logistics and shipping management
+- Quality assurance
 - Food safety compliance
+- Reusable plastic bottle manufacturing
 
 ## Industries
 - Dairy
@@ -248,9 +244,9 @@ The company differentiates itself through speed-to-market capabilities, a logist
 - Household
 
 ## Certifications
-- IMS
-- ISO
-- Food safety certification
+- IMS certified
+- ISO certified
+- Food safety certified
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -258,15 +254,19 @@ The company differentiates itself through speed-to-market capabilities, a logist
 
 <details><summary>Sources</summary>
 
+- Company name and description -> db
 - Headquarters in Fort Worth, Texas -> /
-- Long Beach plant established over 18 years ago -> /
-- Colton facility added in 2023 with injection and blow molding -> /
-- Fort Worth greenfield facility opened in 2022 -> /
-- Manufactures HDPE bottles via blow molding and injection molding -> /
-- Serves dairy, beverage, foodservice, industrial, chemical, household markets -> /
-- IMS and ISO certified facilities -> /
-- Food safety certification and SPC methods -> /
-- Speed-to-market and logistics capabilities -> /
+- Long Beach facility operating nearly 18 years as of 2023 -> /
+- Colton, CA facility added in 2023 via Microdyne acquisition -> /
+- Fort Worth, TX greenfield facility opened in 2022 -> /
+- Blow molding and injection molding capabilities -> /
+- IMS and ISO certification at Colton facility -> /
+- Food safety certification -> /
+- Industries served: Dairy/Beverage, Foodservice, Industrial, Chemical, Household -> /
+- Statistical Quality Control (SPC) methods -> /
+- Logistics department for shipping -> /
+- Reusable plastic bottles made from durable materials -> /services
+- Core product line: HDPE bottles -> /
 </details>
 
 ---
@@ -276,36 +276,32 @@ The company differentiates itself through speed-to-market capabilities, a logist
 **Old description:** Sailor Plastic Bottles is the premier bottle supplier for high quality PET & LDPE containers. We are proud to offer bottles in many styles and unique appearances for your juices, honey, sauces, and more! All bottles are Made in the USA at our facility in Adrian, Minnesota.
 
 ## About
-Sailor Plastics operates a manufacturing facility in Adrian, Minnesota, producing PET and LDPE plastic bottles and containers for a range of packaging applications. The company emphasizes domestic production, with all bottles made in the USA at its Adrian site.
+Sailor Plastics operates its manufacturing facility in Adrian, Minnesota, producing plastic bottles and containers made in the USA. The company does not disclose a founding year, ownership structure, or founder names in its public materials.
 
-The product line includes Honey Bear, square, round, and oval bottles, along with caps and closures, serving end uses such as juices, honey, sauces, liquor and spirits, and spices. Sailor Plastics employs cutting-edge methods and materials, regularly adding new machinery and automation systems, and maintains an enlarged stock of tooling to offer custom-made equipment and shorter lead times. The facility also runs recycling programs for excess resin as part of its sustainability efforts.
+The company manufactures PET and LDPE containers in a range of styles — honey bear, square, round, oval, and specialty shapes — along with caps and closures. It runs custom-made equipment and automation systems that are regularly updated, and it maintains an expanded tool inventory to shorten wait times. No facility size, headcount, or annual volume figures are published.
 
-Customers span food and beverage packaging sectors, including honey, sauce, juice, spirits, and spice producers who need creative and practical packaging solutions. The company positions itself as a partner for comprehensive packaging solutions developed to meet specific business and industry demands.
+Sailor Plastics serves food and beverage packagers, supplying bottles for honey, juices, sauces, liquor and spirits, and spices. Its customers include brands seeking both stock and custom packaging solutions.
 
-Sailor Plastics highlights its people-centered culture, ongoing process improvements, and strategic facility placement to minimize transportation carbon footprint. Differentiators cited include same-day shipping on stocked items, custom-made equipment tailored to client needs, and a commitment to eco-friendly methods such as resin recycling.
+The company emphasizes eco-friendly practices, including recycling programs for excess resin and strategically placed facilities to reduce transportation emissions. It also promotes a people-centered culture, same-day shipping on stocked items, and tailored equipment as differentiators.
 
 ## Known for
 - Same-day shipping on stocked items
-- All products manufactured in USA at Adrian, MN facility
 - Recycling programs for excess resin
-- Custom-made equipment and tooling tailored to client needs
-- Continuous investment in new machinery and automation
+- Custom-made equipment tailored to customer needs
+- Regularly updated automation systems
+- Strategic facility placement to minimize carbon footprint
 
 ## Capabilities
-- PET bottle manufacturing
-- LDPE bottle manufacturing
-- Custom packaging design
-- Caps and closures production
+- PET container manufacturing
+- LDPE container manufacturing
+- Custom packaging solutions
+- Cap and closure production
 - Recycling of excess resin
-- Automation and machinery integration
-- Custom equipment and tooling
-- Same-day shipping
-- Sample provision
 
 ## Industries
 - Food and beverage packaging
-- Juice packaging
 - Honey packaging
+- Juice packaging
 - Sauce packaging
 - Liquor and spirits packaging
 - Spice packaging
@@ -316,19 +312,15 @@ Sailor Plastics highlights its people-centered culture, ongoing process improvem
 
 <details><summary>Sources</summary>
 
-- Company name Sailor Plastics -> db
-- Headquarters Adrian, Minnesota -> db
-- Products PET & LDPE containers -> /
-- All bottles Made in USA at Adrian facility -> /
-- Product categories Honey Bear, Square, Round, Oval, Caps & Closures, Juice, Honey, Sauce, Liquor & Spirits, Spices -> /
-- Same Day Shipping offered -> /
-- Cutting-edge methods and materials, ongoing improvements, people-centered culture -> /about-us
-- Regular addition of new machinery and automation systems -> /about-us
-- Custom-made equipment and enlarged tool stock -> /about-us
+- Location: Adrian, Minnesota -> db (hq_city, hq_state_label) and /about-us
+- Products: PET & LDPE containers, bottles, caps -> / and /about-us
+- Made in USA at own facility -> / and /about-us
+- Same-day shipping offered -> / (homepage)
 - Recycling programs for excess resin -> /about-us
-- Strategic facility placement minimizes carbon footprint -> /about-us
-- Comprehensive packaging solutions for business and industry -> /about-us
-- Company type Manufacturer -> /
+- Custom-made equipment and automation systems -> /about-us
+- Industries served: honey, juice, sauce, liquor/spirits, spices -> / (product categories)
+- Eco-friendly methods and strategic facility placement -> /about-us
+- People-centered culture -> /about-us
 </details>
 
 ---
@@ -338,43 +330,44 @@ Sailor Plastics highlights its people-centered culture, ongoing process improvem
 **Old description:** For four decades, Cap World Truck Accessories has been your trusted partner for upfitting trucks, vans, and SUVs. With 12 locations across New Hampshire, Massachusetts, Maryland, and Florida, we’re proud to offer top-quality products and unmatched service.
 
 ## About
-Cap World Truck Accessories opened its doors in October 1985 in Salem, New Hampshire. The company operates 12 retail locations across New Hampshire, Massachusetts, Maryland, and Florida. Ownership structure and founder names are not disclosed in the available information.
+Cap World Truck Accessories was founded in October 1985 in Salem, New Hampshire. The business began as a single store selling and installing truck caps and accessories, and has since expanded to 12 retail locations across New Hampshire, Massachusetts, Maryland, and Florida.
 
-The business sells and installs a broad range of truck, van, and SUV accessories, including truck caps from brands such as A.R.E., Leer, and RSI SmartCap, tonneau covers, bed liners (spray‑on and drop‑in), tool boxes, racks, running boards, towing equipment, snow plows, and trailers. Every store provides sales, customer service, and expert installation, with all employees receiving continuous product and installation training. The company serves both commercial and recreational customers.
+The company operates as a full-service retailer and installer, offering sales, expert installation, and fleet upfitting at each location. Its product range includes truck caps from brands such as A.R.E., RSI SmartCap, and Leer, along with tonneau covers, bed liners, tool boxes, racks, trailers, snow plows, and automotive lighting. The stores carry hundreds of accessories for nearly every truck, van, and SUV make and model, and provide commercial upfitting services for fleets.
 
-Customers include contractors, fleet managers, and recreational users. The company explicitly lists automotive lighting among its served industries and focuses on the truck accessory market, offering dedicated fleet upfitting and commercial upfitting services.
+Customers include contractors, fleet managers, and recreational users who need vehicles customized for commercial or recreational use. The company serves both commercial fleet upfitting and recreational vehicle accessory markets.
 
-Cap World states its mission is to lead the truck accessory industry with state‑of‑the‑art products and a deep commitment to employees, customers, and communities. It emphasizes quality name‑brand products at discount prices, stringent quality guidelines, competitive pricing, and outstanding service as key differentiators.
+Cap World states its mission is to lead the truck accessory industry with state-of-the-art products and a deep commitment to employees, customers, and the communities in which it does business. It emphasizes stringent quality guidelines, competitive pricing, and continuous product and installation training for all store employees.
 
 ## Known for
-- 12 retail locations across four states
-- Full‑service model: sales, service, and expert installation at every store
+- Full-service model: sales, customer service, and expert installation at every location
+- 12 retail stores across four states (NH, MA, MD, FL)
 - Continuous product and installation training for all employees
-- Quality name‑brand products at discount prices
-- Fleet and commercial upfitting services
+- Name-brand products at discount prices with stringent quality guidelines
+- Commercial fleet upfitting and recreational vehicle customization
 
 ## Capabilities
+- Installation
+- Upfitting
 - Fleet upfitting
 - Commercial upfitting
-- Van upfitting
-- Truck cap installation
-- Tonneau cover installation
-- Bed liner installation (spray‑on and drop‑in)
-- Rack installation (headache, truck, van, roof)
-- Tool box installation
-- Running board and step installation
-- Snow plow installation
-- Trailer sales
-- Towing equipment installation
-- Automotive lighting installation
-- Financing options
 - Retail sales of truck accessories
+- Trailer sales
+- Snow plow installation
+- Financing options
+- Truck cap sales
+- Tonneau cover sales
+- Bed liner installation
+- Tool box sales
+- Rack systems sales and installation
+- Automotive lighting sales
+- Running board and step installation
 
 ## Industries
 - Automotive Lighting
 - Commercial fleet upfitting
 - Recreational vehicle accessories
-- Truck accessories
+- Construction contractor vehicles
+- Fleet management
 
 ## Company details
 - **Company Type:** Retailer
@@ -384,17 +377,13 @@ Cap World states its mission is to lead the truck accessory industry with state�
 <details><summary>Sources</summary>
 
 - Founded October 1985 -> /about-us
-- Headquarters in Salem, New Hampshire -> db
-- 12 retail locations across New Hampshire, Massachusetts, Maryland, Florida -> /about-us
-- Full-service: sales, customer service, expert installation at all stores -> /about-us
-- Continuous product and installation training for employees -> /about-us
-- Mission: lead truck accessory industry with state-of-the-art products, commitment to employees, customers, communities -> /about-us
-- Quality name-brand products at discount prices -> /about-us
-- Serves contractors, fleet managers, weekend warriors -> /
-- Offers fleet upfitting and commercial upfitting services -> /
-- Carries brands: A.R.E., Leer, RSI SmartCap -> /
-- Product categories: truck caps, tonneau covers, bed liners, tool boxes, racks, running boards, towing, snow plows, trailers -> /
-- Industries served: Automotive Lighting -> db
+- 12 retail locations across NH, MA, MD, FL -> /about-us
+- Full-service: sales, installation, fleet upfitting -> /about-us
+- Carries A.R.E., RSI SmartCap, Leer truck caps -> /
+- Offers tonneau covers, bed liners, tool boxes, racks, trailers, snow plows -> /
+- Serves contractors, fleet managers, recreational users -> /
+- Mission: lead truck accessory industry with state-of-the-art products -> /about-us
+- Headquarters Salem, NH -> db
 </details>
 
 ---
@@ -404,37 +393,31 @@ Cap World states its mission is to lead the truck accessory industry with state�
 **Old description:** Salted Metals has over 35 years experience in the architectural sheet metal custom fabrication manufacturing industry. Salted Metals specializes in metal roofing and wall panel systems and have the capabilities to do several roof / wall panel profiles in a wide variety of materials that are stocked inventory . Salted Metals custom fabrication department specializes in custom bent flashing and trims [ wall cap / copings , roof flashings , wall panel system flashings , rain gutter , collector boxes , custom downspouts ] for your projects with short lead times .
 
 ## About
-Salted Metals operates from Sandy, Utah, where it has served the architectural sheet metal market for over 35 years. The business is known locally by its principals, David “Homie” and Manny, who have built a reputation for custom fabrication and roll-formed roofing and wall panel systems. No explicit founding year or ownership structure is disclosed.
+Salted Metals operates from Sandy, Utah, where it runs a full-service architectural sheet metal fabrication shop. The company states it has over 35 years of experience in the custom fabrication manufacturing industry, though a specific founding year is not published. Ownership structure and founder names are not disclosed in the company's own materials.
 
-The shop produces metal roofing and wall panel systems in multiple profiles, along with custom bent flashing and trim such as wall caps, copings, roof flashings, wall panel flashings, rain gutters, collector boxes, and downspouts. It also fabricates chimney hoods, bay window roofs, cupolas, finials, and interior and exterior range hoods. Processes include roll forming, bending, folding, shearing, cutting, welding, CNC fiber laser cutting, and CNC routing. A wide inventory of materials — painted steel, copper, zinc, bonderized, self-rusting steel, aluminum, galvanized, and A606 Corten — is kept in stock.
+The shop produces metal roofing and wall panel systems in several profiles, all roll-formed in-house from stocked inventory. Its custom fabrication department turns out bent flashing and trim pieces — wall caps and copings, roof flashings, wall panel flashings, rain gutters, collector boxes, and custom downspouts — along with architectural accessories such as chimney hoods, bay window roofs, cupolas, finials, and interior and exterior range hoods. Processes include roll forming, bending and folding, shearing and cutting, welding, CNC fiber laser cutting, and CNC routering. Materials carried include painted steel, copper, zinc, bonderized, self-rusting steel, aluminum, galvanized, and A606 Corten.
 
-Customers range from residential homeowners to commercial contractors across the architectural and construction sectors. The company has supplied projects in multiple states, including a noted metal roof in Apollo Beach, Florida, working alongside partners such as All Pro Roofing, Sheffield Metals, and Sharkskin underlayment. Referrals for qualified installation subcontractors are offered, though Salted Metals itself does not perform installation.
+Customers span residential and commercial construction, including architects, contractors, and building owners seeking architectural metalwork. The company provides installation referrals to qualified sub-contractors but emphasizes it is not an installation company and is not tied to or owned by a competing roofing firm. Reviews reference projects in Utah and as far as Apollo Beach, Florida, and note long-term relationships with roofing contractors.
 
-The firm emphasizes manufacturer-direct pricing, short lead times on fabrication, and independence from competing roofing companies. Its design and consulting service helps clients select appropriate roofing and wall panel systems and architectural metal accessories.
+Salted Metals positions itself on manufacturer-direct pricing, short lead times on fabrication, and a broad material inventory available off the shelf. It also offers design and consulting services for roofing and wall panel systems and architectural metal accessories.
 
 ## Known for
 - Manufacturer-direct pricing on roofing and wall panel systems
 - Short lead times on custom fabrication
-- Stocked inventory of eight metal types including copper, zinc, and A606 Corten
-- Independent operation not tied to any roofing installer
-- Design and consulting support for architectural metal projects
+- Wide range of metal inventory stocked on site
+- Independent operation — not owned by or tied to a competing roofing company
+- Design and consulting service for architectural metal systems
 
 ## Capabilities
 - Roll forming
-- Custom fabrication (bending, folding, shearing, cutting, welding)
+- Custom fabrication
+- Bending / folding
+- Shearing / cutting
+- Welding
 - CNC fiber laser cutting
-- CNC routing
+- CNC routering
 - Design and consulting
 - Installation referrals
-- Metal roofing panel manufacturing
-- Wall panel system manufacturing
-- Custom flashing and trim fabrication
-- Chimney hood, cap, and pan fabrication
-- Bay window roof fabrication
-- Cupola and finial fabrication
-- Range hood fabrication (interior and exterior)
-- Fireplace hood fabrication
-- Collector box fabrication
 
 ## Industries
 - Architectural sheet metal
@@ -453,18 +436,17 @@ The firm emphasizes manufacturer-direct pricing, short lead times on fabrication
 
 <details><summary>Sources</summary>
 
-- Location: Sandy, Utah -> db (hq_city, hq_state_label) and pages '/about-us' address
-- Over 35 years experience -> db description and pages '/' and '/about-us'
-- Specializes in metal roofing and wall panel systems -> db description
-- Custom fabrication of flashing and trims (wall caps, copings, roof flashings, gutters, collector boxes, downspouts) -> db description
-- Materials stocked: Painted Steel, Copper, Zinc, Bonderized, Self Rusting Steel, Aluminum, Galvanized, A606 Corten -> pages '/'
-- Processes: roll forming, bending/folding, shearing/cutting, welding, CNC fiber laser, CNC routering -> pages '/services'
-- Owner names: David 'Homie', Manny -> pages '/' reviews
-- Not an installation company, independent from competing roofing companies -> pages '/services'
-- Manufacturer direct pricing, short lead times -> pages '/'
-- Design and consulting service -> pages '/services'
-- Installation referrals -> pages '/services'
-- Project example: Apollo Beach, Florida with All Pro Roofing, Sheffield Metals, Sharkskin underlayment -> pages '/' review
+- Location: Sandy, Utah -> /about-us
+- 35+ years experience in architectural sheet metal custom fabrication manufacturing -> /
+- Specializes in metal roofing and wall panel systems with several profiles -> /
+- Custom fabrication of flashing and trims (wall cap/copings, roof flashings, gutters, downspouts, collector boxes) -> /
+- Architectural accessories: chimney hoods, bay window roofs, cupolas, finials, range hoods -> /
+- Processes: roll forming, bending/folding, shearing/cutting, welding, CNC fiber laser, CNC routering -> /services
+- Materials: Painted Steel, Copper, Zinc, Bonderized, Self Rusting Steel, Aluminum, Galvanized, A606 Corten -> /
+- Manufacturer direct pricing, short lead times, wide inventory -> /
+- Not an installation company, not tied to competing roofing company -> /services
+- Design and consulting service offered -> /services
+- Installation referrals provided -> /services
 </details>
 
 ---
@@ -474,23 +456,22 @@ The firm emphasizes manufacturer-direct pricing, short lead times on fabrication
 **Old description:** Home page of Salteydogg Metal Fab, Albuquerque finest metal fabrication shop offering a wide range of solutions including: sheet metal work, water jet cutting, custom metal gates, custom metal furniture, machining, rolling, CNC punching, heat treating, and more!
 
 ## About
-Salteydogg Metal Fab operates from Albuquerque, New Mexico. Brooks started the business to pursue his passion for metalworking and serve the local community.
+Salteydogg Metal Fab operates from Albuquerque, New Mexico. Founder Wayne Brooks launched the shop after three decades managing a large local fabrication business, turning a lifelong passion into his own venture. Chris Parker has been his right-hand man for nearly 20 years, and office manager Karin Arellano rounds out the core leadership.
 
-The shop provides a broad range of metal fabrication services, including precision waterjet cutting (capable of processing steel, aluminum, copper, titanium, brass, composites, stone, glass, plastics, and more), CNC punching, CNC press brake forming, rolling, machining, welding, heat treating, powder coating, and painting. It also produces custom metal gates, furniture, signage, and automotive test equipment. The facility houses a versatile waterjet system and CNC equipment, though specific machine models and floor space are not disclosed. The team includes over a dozen employees from diverse backgrounds.
+The shop provides a broad range of metal fabrication services, including precision waterjet cutting of metals, composites, stone, glass, and plastics; CNC punching and press braking; sheet metal forming; rolling; machining; welding; heat treating; and finishing such as powder coating and painting. It also builds custom gates, furniture, signage, and automotive test equipment, and supports research and development projects. A team of over a dozen works out of the Commercial Street facility.
 
-Salteydogg serves customers in the automotive test equipment sector, as well as clients needing custom fabrication, research and development support, and custom metal products for residential and commercial projects. Its work spans custom gates, furniture, signage, and prototype parts for local businesses and individuals.
+Salteydogg serves the Albuquerque area and surrounding region, with a noted focus on automotive test equipment fabrication. Its custom gates, furniture, and signage also reach residential and commercial clients, while its waterjet and machining capabilities support research and development projects.
 
-The company emphasizes a team‑oriented culture, noting that its staff—including veterans, aircraft mechanics, designers, and artists—collaborate closely on every project. Brooks highlights long‑standing relationships with local vendors and a commitment to a happy workplace, with the team’s shared motivation summed up as “Because we built it as a team.”
+Brooks started Salteydogg to realize a personal dream and to foster a workplace where employees are genuinely happy, emphasizing team collaboration and long-standing local vendor relationships.
 
 ## Known for
-- Waterjet cutting for metals, composites, stone, glass, plastics, and more
-- Custom metal gates, furniture, and signage fabricated in-house
-- Team-based approach with diverse, long-tenured staff
-- Free estimates on custom projects
-- Local vendor relationships and community focus
+- Free estimates on all projects
+- Waterjet cutting for heat-sensitive materials without thermal distortion
+- Team-oriented culture with long-tenured staff
+- Custom fabrication from prototype to finished product
 
 ## Capabilities
-- Precision Waterjet Cutting (abrasive and pure)
+- Precision Waterjet Cutting
 - Custom Signage
 - Metal Gate Fabrication and Installation
 - Custom Furniture and Home Furnishings
@@ -502,32 +483,31 @@ The company emphasizes a team‑oriented culture, noting that its staff—includ
 - Heat Treating
 - Powder Coating
 - Painting
-- Sheet Metal Fabrication
+- Sheet Metal Forming
 - CNC Punching
-- CNC Press Brake Forming
+- CNC Press Brake
 - Rolling
 - Custom Design
-- Free Estimates
 
 ## Industries
 - Automotive Test Equipment
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Headquarters:** Albuquerque, New Mexico
 
 <details><summary>Sources</summary>
 
-- Location: Albuquerque, New Mexico -> db
+- Location: Albuquerque, NM -> /
 - Founder: Wayne Brooks -> /about
-- Founder experience: 35 years in metal fabrication, 30 in Albuquerque -> /about
-- Services: waterjet cutting, CNC punching, press brake, rolling, machining, welding, heat treating, powder coating, painting, sheet metal, custom gates, furniture, signage -> /, /services
-- Materials cut by waterjet: steel, aluminum, copper, titanium, brass, acrylics, ABS, wood, glass, stone, concrete, ceramics, rubber, carbon fiber, composites -> /, /services
-- Industries served: Automotive Test Equipment -> db
+- Founder experience: 35 years in industry, 30 in Albuquerque -> /about
+- Key staff: Chris Parker (20 years), Karin Arellano (office manager) -> /about
 - Team size: over a dozen employees -> /about
-- Company culture: diverse team, veteran employees, team-oriented -> /about
-- Free estimates offered -> /, /services
-- Custom design services -> /, /services
+- Services: waterjet cutting, CNC punching, press brake, sheet metal, rolling, machining, welding, heat treating, powder coating, painting, custom gates, furniture, signage, automotive test equipment, R&D -> /, /services
+- Materials cut by waterjet: steel, aluminum, copper, titanium, brass, acrylics, ABS, wood, glass, stone, concrete, ceramics, rubber, carbon fiber, composites -> /
+- Address: 2101 Commercial St NE, Albuquerque, NM 87102 -> /, /about, /services
+- Phone: (505) 244-3644 -> /, /about, /services
+- Facebook mention (no URL) -> /about
 </details>
 
 ---
@@ -537,24 +517,19 @@ The company emphasizes a team‑oriented culture, noting that its staff—includ
 **Old description:** Samsung Austin Semiconductor is a major memory chip fabrication facility located in Texas. Manufactures DRAM and flash memory products for Samsung global electronics business and also offers foundry services.
 
 ## About
-Samsung Austin Semiconductor operates a large-scale memory chip fabrication facility in Austin, Texas. Established in 1997, the site serves as Samsung Electronics' primary U.S. semiconductor manufacturing base. The facility is a wholly owned subsidiary of the South Korean conglomerate Samsung Electronics Co., Ltd.
+Samsung Austin Semiconductor operates a large-scale memory chip fabrication facility in Austin, Texas. Established in 1997, the site functions as a key manufacturing arm of Samsung Electronics' global semiconductor business. Ownership details beyond its corporate parent are not publicly specified in available sources.
 
-The fab produces DRAM and flash memory products that feed Samsung's global electronics business, including smartphones, solid-state drives, and data-storage systems. In addition to captive production, the site offers semiconductor foundry services to external customers. The campus employs between 1,000 and 4,999 people, though the company does not disclose cleanroom square footage or annual wafer volumes.
+The facility produces DRAM and flash memory products that feed Samsung's worldwide electronics operations, including smartphones, solid-state drives, and data-storage systems. It also runs a foundry operation offering contract manufacturing services to external customers. The site employs between 1,000 and 4,999 people; specific cleanroom square footage, wafer throughput, or part-number counts are not disclosed.
 
-Primary end markets include memory, data storage, and smartphone industries. The facility supplies memory components for Samsung's own Galaxy smartphone line and SSD products, while its foundry services address custom logic and memory needs for fabless semiconductor companies and other electronics OEMs.
+Primary end markets served include the memory, data-storage, and smartphone industries. The fab supplies components for Samsung's own Galaxy handsets and SSD product lines, while its foundry services address a broader customer base requiring advanced process nodes.
 
-Samsung has positioned the Austin site as a strategic U.S. manufacturing anchor, enabling tighter supply-chain control for its memory and storage product lines and providing domestic foundry capacity for North American customers.
-
-## Known for
-- Major memory chip fabrication facility in Texas
-- Manufactures DRAM and flash memory for Samsung global electronics
-- Offers semiconductor foundry services to external customers
+The company has not published a distinct differentiation statement or origin narrative beyond its role as a strategic U.S. manufacturing base for Samsung's memory and foundry roadmap.
 
 ## Capabilities
-- DRAM manufacturing
-- Flash memory manufacturing
+- DRAM fabrication
+- Flash memory fabrication
 - Semiconductor foundry services
-- Memory chip fabrication
+- SSD manufacturing
 
 ## Industries
 - Memory
@@ -585,34 +560,42 @@ Samsung has positioned the Austin site as a strategic U.S. manufacturing anchor,
 **Old description:** specializes in custom-designed mechanical cable assemblies. Utilizing our extensive inventory of wire rope fittings in addition to our CNC machining capabilities, we have the ability to fabricate your custom cable solution quickly.
 
 ## About
-Sandin Manufacturing operates from Michigan City, Indiana, where it has supplied wire rope and cable solutions for more than 60 years. The company's history emphasizes reliability and experience, though a specific founding year and ownership details are not publicly disclosed.
+Sandin Manufacturing operates from Michigan City, Indiana, where it has served the wire rope and cable industry for more than 60 years. The company’s history emphasizes reliability and customer service, though a specific founding year and ownership details are not publicly disclosed.
 
-The shop specializes in custom-designed mechanical cable assemblies, drawing on a large inventory of wire rope fittings and in-house CNC machining to fabricate fittings and complete assemblies. It also extrudes a range of thermo-plastic coatings onto bare galvanized and stainless steel wire rope, maintaining one of the most diverse cable inventories in the U.S. and Canada.
+The firm specializes in custom-designed mechanical cable assemblies, drawing on a large inventory of bare galvanized and stainless steel wire rope, wire rope fittings, and in-house CNC machining. It also extrudes a variety of thermo-plastic coatings for coated cable products. Capabilities span bare cable, coated cable, cable assemblies, fittings and hardware, as well as specialized items such as boat lift cables, conveyor rope, coiled assemblies, cable railings, exercise cable, and marine rigging.
 
-Customers span automotive, marine, fitness equipment, material handling, and architectural markets. Concrete examples include boat lift cables, marine rigging, exercise machine cables, cable railing systems, and conveyor rope for canning lines.
+Sandin’s customer base includes automotive, marine, exercise equipment, conveyor systems, and cable railing applications. The company highlights its diverse inventory and quick fabrication turnaround for both large and small orders.
 
-Sandin says its differentiation rests on six decades of experience, a broad stock of galvanized and stainless steel rope, the ability to coat cable in-house, and a commitment to on-time delivery and customer service regardless of order size.
+The company cites its extensive wire rope inventory, CNC machining for custom fittings, coating extrusion, and a commitment to quality, on-time delivery, and responsive service as key differentiators. It operates under an ISO 9001 quality management system.
 
 ## Known for
-- Over 60 years of cable assembly experience
-- Extensive inventory of galvanized and stainless steel wire rope
-- In-house thermo-plastic coating extrusion
-- CNC machining for custom fittings and assemblies
-- No minimum order size – “no job too big or too small”
+- Diverse inventory of bare galvanized and stainless steel wire rope
+- In-house CNC machining for custom fittings
+- Extrusion of numerous thermo-plastic coatings
+- Quick fabrication of custom cable solutions
+- ISO 9001 certified quality system
 
 ## Capabilities
-- Custom mechanical cable assembly
+- Custom mechanical cable assembly fabrication
 - CNC machining
-- Wire rope fitting fabrication
 - Thermo-plastic coating extrusion
-- Bare and coated wire rope supply
+- Wire rope fitting fabrication
+- Bare and coated cable supply
+- Cable assembly design
+- Boat lift cable assembly
+- Conveyor rope assembly
+- Coiled cable assembly
+- Cable railing assembly
+- Exercise cable assembly
+- Marine rigging assembly
 
 ## Industries
 - Automotive
 - Marine
-- Fitness equipment
-- Material handling (conveyor systems)
-- Architectural (cable railings)
+- Exercise Equipment
+- Conveyor Systems
+- Cable Railings
+- Industrial Wire Rope
 
 ## Certifications
 - ISO 9001
@@ -623,18 +606,17 @@ Sandin says its differentiation rests on six decades of experience, a broad stoc
 
 <details><summary>Sources</summary>
 
-- Location: Michigan City, Indiana -> db
-- Over 60 years of experience -> page /
-- Custom mechanical cable assemblies -> page /
-- CNC machining capabilities -> page /
-- Extensive inventory of wire rope fittings -> page /
-- Thermo-plastic coating extrusion -> page /
-- Industries: automotive, marine, fitness, conveyor, architectural -> page /
-- ISO 9001 certification -> db
-- Materials: galvanized wire rope, stainless steel type 304, thermo-plastic coatings -> page /
-- Immediate shipment for stocked 5/16" 7x19 stainless steel cable -> page /
-- No job too big or too small -> page /
-- Quality, on-time delivery, superior customer service -> page /
+- Headquarters: Michigan City, Indiana -> db
+- Over 60 years of experience in wire rope and cable industry -> page "/"
+- Specializes in custom-designed mechanical cable assemblies -> page "/"
+- Extensive inventory of bare galvanized and stainless steel wire rope -> page "/"
+- In-house CNC machining capabilities for custom fittings -> page "/"
+- Extrusion of numerous thermo-plastic coatings -> page "/"
+- Products include bare cable, coated cable, cable assemblies, fittings & hardware, boat lift cables, conveyor rope, coiled cable assemblies, cable railings, exercise cable, marine rigging -> page "/"
+- Serves automotive, marine, exercise equipment, conveyor, cable railing industries -> page "/"
+- ISO 9001 certified -> db
+- Materials: galvanized steel, stainless steel type 304, thermo-plastic coatings -> page "/"
+- Company type: Manufacturer (custom fabrication) -> description
 </details>
 
 ---

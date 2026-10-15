@@ -3,55 +3,57 @@
 **Old description:** Contract manufacturer of cable/wire harness assemblies (EV/automotive, medical, power)
 
 ## About
-DDH Ent., Inc. is a family-owned contract manufacturer based in Vista, California. The company was incorporated in 1988 by the DU family, initially serving local clients with cable and wire harness production from a small facility in Vista.
+DDH Ent., Inc. is a contract manufacturer based in Vista, California, founded in 1988. It is a privately held corporation owned and operated by the Du family. The company began in a small facility in Vista, serving local clients with cable and wire harness manufacturing.
 
-Today DDH provides turnkey contract manufacturing of cable assemblies, wire harnesses, and electromechanical box builds. Its capabilities include high‑voltage EV cable assemblies, medical device cables, power cables using copper and aluminum conductors, flat‑ribbon IDC and flat‑flex cables, custom injection overmolding, and value‑added engineering for component substitution. The firm operates a manufacturing facility in Vista and, through DDH Vietnam and DDH China, offers offshore high‑volume production and global supply‑chain management.
+The company provides full turnkey and consignment manufacturing solutions, specializing in custom cable assemblies, high-voltage electric vehicle cables, medical device cables and harnesses, power cables, flat ribbon IDC and flat flex cables, box build/electromechanical assemblies, and specialty harness assemblies. It also offers custom injection overmolding, value-added engineering, quick-turn production, Kan-Ban/JIT stocking programs, order fulfillment, engineering services, 100% inspection and test, and global supply chain management. Manufacturing facilities are located in Vista, California, and in Asia (Vietnam and China) for scalable volume production.
 
-The company serves OEMs in medical devices, telecommunications, military/aerospace, transportation, industrial equipment, power generation, and commercial electric‑vehicle markets. Customers rely on DDH for both prototype and production quantities, with programs such as Kan‑Ban/JIT stocking, blanket orders, and vendor‑managed inventory.
+DDH serves industries including medical devices, telecommunications, military/aerospace, transportation, industrial, power, and commercial electric vehicles. Customers include OEMs requiring custom cable and harness assemblies for applications such as EV/automotive, medical equipment, and power systems.
 
-DDH’s stated mission is to deliver the highest‑quality manufactured products and value‑added services on time at a fair market price. The company emphasizes continual improvement, teamwork, and compliance with AS9100, ISO 9001, ISO 13485, and IATF 16949 standards as its primary differentiators.
+The company emphasizes delivering high-quality products and value-added services on time at fair market value, with a focus on continual improvement, teamwork, and client satisfaction. Its global footprint in Asia provides supply chain scalability and cost-effective volume production, while value-added engineering helps clients reduce costs and lead times through alternative component sourcing.
 
 ## Known for
-- Value-added engineering for cost-saving component alternatives
-- Global supply-chain management with bonded inventory and vendor‑managed inventory programs
-- Quick-turn production and JIT delivery in Southern California
-- 100% inspection and test on all assemblies
-- Manufacturing footprint in both Southern California and Asia (Vietnam, China)
+- Value-added engineering for alternative component sourcing to reduce cost and lead time
+- Quick-turn production capabilities
+- Kan-Ban/JIT stocking and delivery programs in Southern California
+- Global manufacturing footprint with facilities in Vietnam and China for scalable volume
+- 100% inspection and test on all products
 
 ## Capabilities
-- Custom cable assembly
+- Cable assembly
 - Wire harness assembly
-- High-voltage EV cable assembly
-- Medical device cable assembly
-- Power cable assembly (copper and aluminum)
-- Flat ribbon IDC cable assembly
-- Flat flex cable assembly
+- Mechanical assembly
 - Box build / electromechanical assembly
 - Custom injection overmolding
-- Value-added engineering (component substitution)
-- Global supply chain management
+- High voltage EV cable assembly
+- Medical device cable assembly
+- Power cable assembly
+- Flat ribbon IDC cable assembly
+- Flat flex cable assembly
+- Specialty harness assembly
+- Fan assembly
+- Custom power cords
+- Value-added engineering (component research, alternative sourcing)
 - Quick-turn production
 - Kan-Ban / JIT stocking programs
 - Order fulfillment services
 - Engineering services
-- 100% inspection and test
-- 100% visual inspection
+- 100% inspection & test
 - JIT delivery (San Diego and Orange Counties)
-- Fan assembly
-- Custom power cords
+- Global supply chain management
 - Supplier partnerships
-- Bonded inventory management
-- Blanket order management
-- Vendor managed inventory programs
+- Bonded inventory
+- Blanket orders
 
 ## Industries
-- Medical devices
+- Medical Device Cables And Harnesses
 - Telecommunications
-- Military / Aerospace
+- Military/Aerospace
 - Transportation
-- Industrial equipment
-- Power generation
-- Commercial electric vehicles
+- Medical
+- Industrial
+- Power
+- Commercial EV
+- EV/automotive
 
 ## Certifications
 - ISO 9001
@@ -62,25 +64,23 @@ DDH’s stated mission is to deliver the highest‑quality manufactured products
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1988
-- **Ownership:** Family-owned (DU family)
+- **Ownership:** Family-owned
 - **Headquarters:** Vista, California
 
 <details><summary>Sources</summary>
 
-- Founded 1988 -> db
-- Headquarters Vista, California -> db
-- Family-owned (DU family) -> /about-us
-- Contract manufacturer of cable/wire harness assemblies -> /
-- Certifications ISO 9001, AS9100, ISO 13485, IATF 16949 -> db, /quality
-- Industries served: Medical, Telecommunications, Military/Aerospace, Transportation, Industrial, Power, Commercial EV -> /, /about-us
-- Facilities in Vista, CA and Asia (Vietnam, China) -> /about-us
-- Services: custom cable assemblies, high voltage EV cables, medical cables, power cables, box build, injection overmolding, value-added engineering, global supply chain, quick-turn, JIT, 100% inspection -> /services
-- Mission: highest quality products and value-added services on time at fair market value -> /about-us
-- Value-added engineering for component alternatives -> /services
-- Global supply chain management with bonded inventory, vendor managed inventory -> /services
-- Quick-turn production and JIT delivery in San Diego/Orange Counties -> /services
-- 100% inspection and test -> /services
-- Materials: copper and aluminum wires -> / (power cables section)
+- founding year 1988 -> db
+- headquarters Vista, California -> db
+- ownership Du family -> /about-us
+- certifications ISO 9001, AS9100, ISO 13485, IATF 16949 -> db, /quality
+- industries served -> db, /about-us
+- capabilities and services -> /, /services
+- materials copper and aluminum -> /
+- company type contract manufacturer -> description, /
+- makes products yes -> /
+- type evidence -> /
+- ownership tags family-owned -> /about-us
+- founded year 1988 -> /about-us
 </details>
 
 ---
@@ -90,37 +90,39 @@ DDH’s stated mission is to deliver the highest‑quality manufactured products
 **Old description:** Business-to-Business: On-time Delivery, Top Quality, Short-Runs or High Volume.
 
 ## About
-Delaney Manufacturing Services operates from Bradenton, Florida, where it has been based since its founding in 1976. The company has accumulated over 50 years of experience in plastic manufacturing and serves clients worldwide from its single facility.
+Delaney Manufacturing Services LLC has operated from Bradenton, Florida since 1976. The company provides plastic injection molding and full-service product development, offering capabilities that span CAD design, prototyping, tooling, production, assembly, and packaging under one roof.
 
-The shop specializes in plastic injection molding and provides a full suite of in-house services that span CAD design, mold tooling, production, assembly, retail packaging, and 3D-printed prototyping. It runs jobs from single-piece prototypes to runs of millions of parts with no minimum or maximum order requirements, and it also manages metal-to-plastic conversion projects for customers looking to reduce cost and weight.
+The shop runs plastic injection molding for volumes ranging from a single piece to millions of parts, with no minimum or maximum order requirements. Services include 3D printing for rapid prototypes, renderings and animations for design validation, and metal-to-plastic conversion programs that replace machined components with engineered resins. All work is performed in-house at the Bradenton facility.
 
-Delaney works with businesses developing new products and with established manufacturers needing production support. Its portfolio covers consumer goods, medical devices, military components, and general industrial parts, and the company says it ships finished goods directly to distributors or retail outlets on behalf of clients.
+Customers come from consumer goods, medical, military, and industrial sectors, as well as other manufacturers needing component production. The company also works directly with inventors and entrepreneurs to develop new products from concept through retail-ready packaging and drop shipping.
 
-The company positions its all-in-one model as a way to save customers time and money by eliminating handoffs between design, tooling, molding, and fulfillment. It states that working with inventors and new-product developers helps build its manufacturing base, and it offers a signed unilateral NDA for download to protect intellectual property.
+Delaney Manufacturing differentiates itself by consolidating every step — CAD, mold making, molding, assembly, packaging, and logistics — in a single location. It promises same-business-day quote responses, provides a downloadable NDA, and imposes no order minimums, aiming to reduce lead times and simplify supply chains for both established manufacturers and first-time product developers.
 
 ## Known for
-- All services in-house: CAD design, mold tooling, molding, assembly, packaging
+- All services in-house: CAD design, mold making, molding, assembly, packaging, and shipping
 - No minimum or maximum order quantities
 - Same-business-day quote response
 - Metal-to-plastic conversion expertise
-- Signed unilateral NDA available for download
+- 3D printing for rapid prototyping
 
 ## Capabilities
-- Plastic injection molding
-- CAD design
-- 3D printing / rapid prototyping
-- Product assembly
-- Retail packaging
-- Mold management (customer-owned molds)
-- Metal-to-plastic conversion
-- Design for manufacturability consulting
+- Plastic Injection Molding
+- CAD Design
+- 3D Printing (Rapid Prototyping)
+- Production Molding
+- Assembly
+- Packaging
+- Metal-to-Plastic Conversion
+- Product Development
+- Renderings and Animations
+- Drop Shipping
 
 ## Industries
-- Consumer goods
-- Medical devices
-- Military / defense
-- Industrial equipment
-- General manufacturing
+- Consumer Goods
+- Medical
+- Military
+- Industrial
+- Original Equipment Manufacturers
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -129,18 +131,21 @@ The company positions its all-in-one model as a way to save customers time and m
 
 <details><summary>Sources</summary>
 
-- Location: Bradenton, FL -> db, /, /about-us
 - Founded 1976 -> db
-- 50+ years experience -> /, /about-us
-- Plastic injection molding focus -> /, /about-us
-- In-house CAD design, molding, assembly, packaging -> /about-us
-- No minimums or maximums -> /, /about-us
-- Global clients -> /, /about-us
-- Industries: consumer, medical, military, industrial -> /about-us
-- Metal-to-plastic conversion -> /
-- 3D printing for prototyping -> /about-us
-- NDA available -> /
-- Same-day quote response -> /
+- Headquarters Bradenton, Florida -> db, /, /about-us
+- Plastic injection molding and full-service product development -> /, /about-us
+- No minimum or maximum order quantities -> /, /about-us
+- Volumes from one part to millions -> /, /about-us
+- In-house CAD design, mold making, molding, assembly, packaging -> /about-us
+- 3D printing for rapid prototyping -> /, /about-us
+- Metal-to-plastic conversion -> /, /about-us
+- Industries: consumer goods, medical, military, industrial, other manufacturers -> /about-us
+- Works with inventors and entrepreneurs for new product development -> /
+- Same-business-day quote response -> /
+- Downloadable NDA available -> /
+- Global client base -> /, /about-us
+- Renderings and animations for design validation -> /about-us
+- Drop shipping to distributors/retail outlets -> /about-us
 </details>
 
 ---
@@ -150,35 +155,37 @@ The company positions its all-in-one model as a way to save customers time and m
 **Old description:** Mainly engaged in the replacement and modification of imported parts, original factory parts, various automotive parts, as well as maintenance and vulnerable  parts.
 
 ## About
-Dingxin Auto Parts is based in New Castle, Delaware, and was established in 2015. The company began with a focus on the research, development, and production of automotive stamping parts and exterior accessories, and has since expanded into importing and exporting a broad range of auto components.
+DINGXIN AUTO PARTS is based in New Castle, Delaware. The company was founded in 2015 and has since focused on the research, development, and production of automotive stamping parts and exterior accessories. It operates its own factory and warehouse, and also functions as a trader offering one-stop procurement for a wide range of vehicle components.
 
-The company operates its own factory and warehouse, employing approximately 35 people, with a purchasing department of up to 20 staff. It maintains a network of more than 50 overseas agents and serves over 500 companies worldwide. Beyond manufacturing stamping parts and exterior accessories, Dingxin provides one-stop procurement for virtually all vehicle parts, handling import/export logistics and after-sales service.
+The business supplies replacement and modification parts, original factory components, and maintenance items for numerous vehicle brands including Mercedes‑Benz, BMW, Audi, Porsche, Lexus, Honda, Subaru, Nissan, Toyota, Acura, Cadillac, Chevrolet, Buick, GMC, and Hyundai. With a team of 35 people — 20 in purchasing — and a network of more than 50 overseas agents serving over 500 companies, DINGXIN handles both stock and made‑to‑order parts. Stock items ship within seven working days; production orders typically require 25–30 working days, while full mass‑production cycles run around 60 days. There is no minimum order for stocked products, and non‑stock items start at 100 pieces.
 
-Dingxin supplies both domestic and foreign original equipment manufacturers, with a product portfolio covering brands such as Mercedes-Benz, BMW, Audi, Porsche, Lexus, Honda, Subaru, Nissan, Toyota, Acura, Cadillac, Chevrolet, Buick, GMC, and Hyundai. Its customer base includes OEMs and aftermarket distributors seeking replacement, modification, and maintenance parts.
+Primary customers are domestic and foreign automotive original equipment manufacturers, as well as aftermarket distributors and repair networks worldwide. The company’s catalog covers driver‑position and roof‑position airbag components, knee‑position parts, and various exterior accessories for the models listed above.
 
-The company emphasizes its in-house production capacity and warehousing as key advantages, enabling sufficient stock and flexible minimum orders — no MOQ for stocked items and a 100-piece minimum for made-to-order parts. It offers a one-year or 30,000-kilometer warranty, delivers stock parts within seven working days, and provides free samples for most products.
+DINGXIN emphasizes competitive pricing, responsive service, and reliable logistics backed by its own warehousing. It offers free samples for most products and a one‑year or 30,000‑kilometer warranty that provides free replacement for quality issues.
 
 ## Known for
-- Own factory and warehouse for sufficient supply
-- No minimum order quantity for stock products
-- One-year or 30,000 km warranty on parts
-- 7-day delivery for stock parts
-- 50+ overseas agents serving 500+ companies
+- Own factory and warehouse enabling sufficient supply and low minimum orders
+- Network of 50+ overseas agents serving 500+ companies globally
+- One-stop procurement for all vehicle parts with no minimum order on stock items
+- Free samples available for most products
+- One-year/30,000 km warranty with free replacement for defects
 
 ## Capabilities
 - Automotive stamping parts production
-- Exterior accessories production
-- Import/export of auto parts
+- Exterior accessories manufacturing
+- Auto parts import and export
 - One-stop procurement
-- After-sales service
-- Warehousing and logistics
-- OEM customization
+- After-sales service and warranty
+- Logistics and delivery
 - Free sample provision
+- Large volume supply
 
 ## Industries
-- Automotive
-- Automotive OEM
+- Automotive parts manufacturing
+- Automotive OEM supply
 - Automotive aftermarket
+- Automotive stamping parts
+- Automotive exterior accessories
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -188,15 +195,20 @@ The company emphasizes its in-house production capacity and warehousing as key a
 
 <details><summary>Sources</summary>
 
-- Founded 2015, own factory, R&D and production of automotive stamping parts and exterior accessories -> /pages/about-us
-- 35 employees, 20 in purchasing -> /pages/about-us
-- 50+ overseas agents, 500+ companies served -> /pages/about-us
-- One-stop procurement for all vehicle parts -> /pages/about-us
-- Brands served: Mercedes-Benz, BMW, Audi, Porsche, Lexus, Honda, Subaru, Nissan, Toyota, Acura, Cadillac, Chevrolet, Buick, GMC, Hyundai -> /pages/about-us
-- Stock delivery 7 working days, production 25-30 working days -> /pages/about-us
-- No MOQ for stock, 100 for non-stock -> /pages/about-us
-- One-year/30,000 km warranty -> /pages/about-us
-- Free samples for most products -> /pages/about-us
+- Founded in 2015 -> db
+- Headquarters in New Castle, Delaware -> db
+- Own factory and warehouse -> page '/'
+- 35 employees -> db (products)
+- 50+ overseas agents, 500+ companies served -> db (capabilities)
+- No minimum order for stock products, 100 for non-stock -> db (products)
+- Stock delivery 7 working days, production 25-30 days -> page '/'
+- After-sales warranty: free replacement within 1 year or 30,000 km -> db (products)
+- Engaged in R&D and production of automotive stamping parts and exterior accessories -> page '/'
+- Supplies parts to domestic and foreign automotive OEMs -> page '/'
+- Brands served: Mercedes-Benz, BMW, Audi, Porsche, Lexus, Honda, Subaru, Nissan, Toyota, Acura, Cadillac, Chevrolet, Buick, GMC, Hyundai -> page '/'
+- One-stop procurement for all vehicle parts -> db (products)
+- Free samples for most products -> db (products)
+- Mass production time ~60 days -> db (products)
 </details>
 
 ---
@@ -206,30 +218,30 @@ The company emphasizes its in-house production capacity and warehousing as key a
 **Old description:** From structural steel to custom fabrications, we deliver exceptional quality and craftsmanship that stands the test of time.
 
 ## About
-DK Fabrication and Welding operates from Tollesboro, Kentucky, where it has been running as a business for five years. The company is certified as a Service-Disabled Veteran-Owned Small Business (SDVOSB) and is also family-owned, reflecting a blend of military discipline and family values in its operations.
+DK Fabrication and Welding operates from Tollesboro, Kentucky, where it has been in business for five years. The company is certified as a Service-Disabled Veteran-Owned Small Business (SDVOSB) and is also family-owned.
 
-The shop provides custom, structural, ornamental, and industrial metal fabrication, working with steel, stainless steel, aluminum, and specialty alloys across a range of material thicknesses. Core processes include CNC plasma cutting, press brake forming, MIG and TIG welding, and aluminum and structural steel fabrication, enabling both large-scale and intricate projects.
+The shop specializes in custom, structural, ornamental, and industrial metal fabrication, working with steel, stainless steel, aluminum, and specialty alloys across various thicknesses. Core processes include CNC plasma cutting, press brake forming, MIG welding, and TIG welding. The facility handles both large-scale and intricate projects, though specific headcount, floor space, and annual volume are not disclosed.
 
-While construction is a primary market, the company also serves automotive, oil and gas, residential, commercial, and industrial sectors, and its SAM.gov registration allows it to pursue government contracts alongside private work.
+While construction is a primary market, the company serves automotive, oil and gas, residential, commercial, and industrial sectors. It is registered in SAM.gov, enabling work on government contracts as well as private projects.
 
-The firm emphasizes its veteran-owned, family-operated identity as a differentiator, citing 18 years of hands-on fabrication experience, state-of-the-art CNC plasma and press brake equipment, and a commitment to being fully licensed, insured, and certified for every job.
+The firm emphasizes its 18 years of hands-on fabrication experience, military-background integrity, and family values as differentiators. It states it is fully licensed, insured, and certified, with a service radius of two hours from Tollesboro.
 
 ## Known for
-- Service-Disabled Veteran-Owned Small Business (SDVOSB) Certified
-- Family-owned and locally rooted
+- Service-Disabled Veteran-Owned Small Business (SDVOSB) certified
+- Family-owned and locally rooted in Tollesboro, KY
 - 18 years of hands-on metal fabrication experience
-- State-of-the-art CNC Plasma Cutting and Press Brake equipment
-- Registered in SAM.gov for government contracts
+- Registered in SAM.gov for government contracting
+- CNC plasma cutting and press brake equipment for precision
 
 ## Capabilities
 - CNC Plasma Cutting
 - Press Brake Forming
 - MIG Welding
 - TIG Welding
+- Custom Metal Fabrication
+- Structural Steel Fabrication
 - Aluminum Fabrication
 - Stainless Steel Fabrication
-- Structural Steel Fabrication
-- Custom Metal Fabrication
 - Ornamental Metal Fabrication
 - Industrial Metal Fabrication
 
@@ -240,7 +252,6 @@ The firm emphasizes its veteran-owned, family-operated identity as a differentia
 - Residential
 - Commercial
 - Industrial
-- Government
 
 ## Equipment
 - CNC Plasma Cutting
@@ -248,24 +259,28 @@ The firm emphasizes its veteran-owned, family-operated identity as a differentia
 
 ## Certifications
 - Service-Disabled Veteran-Owned Small Business (SDVOSB) Certified
+- SAM.gov Registered
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
-- **Ownership:** Service-Disabled Veteran-Owned Small Business (SDVOSB) Certified, family-owned
+- **Ownership:** Service-Disabled Veteran-Owned Small Business (SDVOSB), Family-owned
 - **Headquarters:** Tollesboro, Kentucky
 
 <details><summary>Sources</summary>
 
-- Location: Tollesboro, KY -> home page
-- SDVOSB certified, family-owned -> home page
-- 5 years operating as a business -> home page
-- 18 years hands-on fabrication experience -> home page
-- CNC plasma cutting and press brake equipment -> home page
-- Materials: steel, stainless steel, aluminum, specialty alloys -> home page
-- Industries: construction, automotive, oil and gas, residential, commercial, industrial -> home page
-- SAM.gov registered -> home page
-- Services: aluminum fabrication, MIG welding, structural steel fabrication -> home page
-- Veteran-owned certification -> db
+- Location: Tollesboro, KY -> /
+- SDVOSB certified -> /
+- Family-owned -> /
+- 5 years operating as a business -> /
+- 18 years hands-on fabrication experience -> /
+- CNC plasma cutting and press brake equipment -> /
+- Materials: steel, stainless steel, aluminum, specialty alloys -> /
+- Processes: MIG welding, TIG welding, custom fabrication, structural, ornamental, industrial -> /
+- Industries: construction, automotive, oil and gas, residential, commercial, industrial -> /
+- SAM.gov registered -> /
+- Licensed, insured, certified -> /
+- Service area: 2-hour drive from Tollesboro -> /
+- Veteran-owned (db) -> db
 </details>
 
 ---
@@ -275,53 +290,56 @@ The firm emphasizes its veteran-owned, family-operated identity as a differentia
 **Old description:** We are a national wholesale manufacturer of hospitality drapery, multi-housing and commercial draperies and bedding.
 
 ## About
-Drapery Manufacturing Inc., doing business as DMI Wholesale Textile, was founded in 1975 in Oklahoma City, Oklahoma. The company operates a 32,000-square-foot manufacturing facility centrally located in the United States, allowing it to service customers nationwide. Ownership details and founder names are not publicly disclosed.
+Drapery Manufacturing Inc., doing business as DMI Wholesale Textile, has operated from Oklahoma City, Oklahoma since its founding in 1975. The company began as a wholesale manufacturer of custom draperies for the hospitality and multi-housing sectors.
 
-The company custom manufactures draperies, curtains, bedding, and window-treatment hardware for hospitality, multi-housing, commercial, and healthcare markets. Its turnkey service includes professional field measuring, manufacturing, and installation. Capabilities cover hospitality drapes, multi-housing window coverings, commercial and office draperies, hospital cubicle and privacy curtains, food-service curtains, grommet draperies, valances, cornices, Roman and flat-fold shades, solar shades, wood blinds, and a range of hardware such as Graber tracks, wrought-iron rods, and cubicle track systems. DMI also offers COM (customer’s own material) labor and sources fabrics from major suppliers.
+The company operates a 32,000-square-foot manufacturing facility centrally located in the U.S., producing custom draperies, curtains, bedding, and hardware for hospitality, multi-housing, commercial, and healthcare markets. Its turnkey service includes professional field measuring, manufacturing, and installation, and it offers COM (customer’s own material) labor for both commercial and residential projects. All custom draperies are tabled for size, and top treatment boards are covered with lining.
 
-Primary customers include interior designers, decorators, hotel and motel operators, university and apartment housing managers, healthcare facility administrators, nursing homes, clinics, and food-service establishments. The firm has supplied window coverings for hotel renovations, university dormitories, hospital privacy curtains, and restaurant kitchen partitions.
+DMI serves the hospitality industry with hotel and motel drapes, multi-housing clients such as apartment complexes and university housing, commercial offices, and healthcare facilities including hospitals, nursing homes, medical clinics, and dental clinics. It also supplies food-service curtains for restaurants and kitchens. Designers and interior decorators are noted as primary customers for custom projects.
 
-DMI emphasizes its 1975 founding, a solid Dun & Bradstreet credit history, and a commitment to never delaying a grand opening. It sells wholesale to the trade only, offers competitive pricing, and ensures all custom draperies are tabled for size with lined top-treatment boards. Flame-retardant hospital curtains meet NFPA 701 standards, and the company can supply any fabric or work with customer-provided material.
+The company emphasizes its decades of experience since 1975, a solid Dun & Bradstreet credit history, and a commitment to on-time, on-budget delivery. It highlights wholesale-to-trade pricing, immediate customer service, and the ability to supply fabrics or work with customer-supplied materials.
 
 ## Known for
 - Turnkey service: field measuring, manufacturing, and installation
-- 32,000 sq ft manufacturing facility centrally located in Oklahoma City
+- 32,000 sq ft centrally located manufacturing facility
 - Wholesale to trade only with competitive pricing
+- COM labor for customer-supplied fabrics
 - NFPA 701 compliant flame-retardant hospital curtains
-- COM (customer's own material) labor available
 
 ## Capabilities
 - Custom drapery manufacturing
+- Turnkey service (field measuring, manufacturing, installation)
+- COM labor
+- Wholesale drapery supply
+- Hospital cubicle curtains manufacturing
+- Food-service curtains manufacturing
+- Flame retardant curtains (NFPA 701)
+- Drapery hardware supply
+- Installation services
 - Field measuring
-- Installation
-- COM (customer's own material) labor
-- Turnkey project management
-- Wholesale manufacturing
 - Fabric sourcing
-- Hardware supply (tracks, rods, blinds, shades)
-- Hospital cubicle curtain manufacturing
-- Privacy curtain manufacturing
-- Flame-retardant treatment (NFPA 701)
-- Antibacterial curtain manufacturing
-- Disposable fabric curtain manufacturing
-- Food-service curtain manufacturing
-- Valance and cornice fabrication
-- Roman and flat-fold shade fabrication
-- Grommet drapery fabrication
-- Cut yardage service
-- Bedding manufacturing
-- Solar shade fabrication
-- Wood blind fabrication
-- Wrought iron rod fabrication
-- Cubicle track system installation
-- Graber hardware installation
+- Valances and COM draperies
+- Roman & flat fold shades
+- Cornice boards swags
+- Grommet draperies
+- Cut yardage
+- Cubicle track systems
+- Graber hardware
+- Wrought iron rods
+- Solar shades
+- Wood blinds
 
 ## Industries
 - Hospitality
-- Multi-housing (apartments, university housing)
-- Commercial (offices, facilities)
-- Healthcare (hospitals, nursing homes, clinics, dental)
-- Food-service (restaurants, kitchens)
+- Multi-housing
+- Commercial offices
+- Healthcare
+- Food-service
+- University housing
+- Nursing homes
+- Medical clinics
+- Dental clinics
+- Restaurants
+- Kitchens
 
 ## Certifications
 - NFPA 701
@@ -333,30 +351,18 @@ DMI emphasizes its 1975 founding, a solid Dun & Bradstreet credit history, and a
 
 <details><summary>Sources</summary>
 
-- Founded 1975 -> db
-- Headquarters Oklahoma City, Oklahoma -> db
+- Founded 1975 -> db, /, /about
+- Headquarters Oklahoma City, Oklahoma -> /, /about
 - 32,000 sq ft manufacturing facility -> /about
-- Turnkey service including field measuring, manufacturing, installation -> /
+- Turnkey service (field measure, manufacture, install) -> /, /about
 - Wholesale to trade only -> /about
-- Competitive pricing -> /about
-- Custom draperies tabled for size -> /about
-- Top treatment boards covered with lining -> /about
-- Never delay a grand opening -> /about
 - COM labor offered -> /, /about
-- Fabrics sourced from major suppliers -> /
-- Hospitality drapery manufacturing -> /
-- Multi-housing window coverings for apartments and university housing -> /
-- Commercial draperies for offices and healthcare facilities -> /
-- Hospital cubicle and privacy curtains -> /
-- Food-service curtains for restaurants and kitchens -> /
-- NFPA 701 flame-retardant compliance -> /
-- Antibacterial curtains -> /
-- Disposable fabric curtains -> /
-- Hardware supply (Graber, wrought iron, solar shades, wood blinds) -> /
-- Valances, cornices, Roman shades, flat-fold shades, grommet draperies, cut yardage -> /
-- Bedding manufacturing -> /
-- Centrally located for nationwide service -> /
-- Dun & Bradstreet credit history -> /
+- Industries: hospitality, multi-housing, commercial, healthcare, food-service -> /, /about
+- Products: draperies, curtains, bedding, hardware, hospital cubicle curtains, valances, shades, etc. -> /
+- NFPA 701 flame retardant compliance -> /
+- Dun & Bradstreet credit history mentioned -> /
+- Customer service emphasis -> /about
+- All custom draperies tabled for size, top treatment boards lined -> /about
 </details>
 
 ---
@@ -366,57 +372,65 @@ DMI emphasizes its 1975 founding, a solid Dun & Bradstreet credit history, and a
 **Old description:** Manufacturing Engineered Thermoplastic Compounds, Sheets and Gels
 
 ## About
-DN Plastics was founded in 1998 in Morrison, Tennessee, as a family-owned business. The company is certified as a Women-Owned Minority Business Enterprise.
+DN Plastics was founded in 1998 in Morrison, Tennessee, as a family-owned business with a mission to put customers first. The company is certified as a Women-Owned Minority Business Enterprise, reflecting its diverse ownership structure.
 
-The company manufactures engineered thermoplastic compounds, sheets, and gels, operating six compounding lines — four Coperion 70 mm twin-screw and two single-screw extruders — with a combined capacity exceeding 100 million pounds per year. Its 120,000-square-foot facility includes a sheet extrusion line capable of producing up to 90-inch-wide sheet with co-extrusion and lamination capabilities, and is served by rail for bulk logistics. DN Plastics also offers toll compounding, new product development, and analytical testing services from a laboratory equipped with FTIR, DSC, TGA, and DMA instruments.
+The company produces custom thermoplastic compounds, sheets, and gels. It operates six compounding lines—four Coperion 70 mm twin-screw and two single-screw—with a combined capacity exceeding 100 million pounds annually. A sheet extrusion line handles widths up to 90 inches with co-extrusion and lamination capabilities. The 120,000-square-foot facility is rail-served and includes an advanced laboratory for material testing. Services also encompass tolling, new product development, and analytical testing.
 
-Its customer base spans automotive and non-automotive sectors. Automotive applications include interior trim components, door panels, cowl-vent grilles, blow-molded air ducts, engine covers, dash insulators, door insulators, flooring insulators, non-carpeted flooring, and cargo van liners. Non-automotive markets served include sporting goods, toys, wire and cable, healthcare products, household appliances, furniture, and general household items.
+DN Plastics serves automotive OEMs and tier suppliers, supplying materials for interior trim components, door panels, cowl-vent grilles, blow-molded air ducts, engine covers, and insulation parts. Non-automotive customers include manufacturers of handles, grips, sporting goods, toys, wire and cable, healthcare products, household appliances, and furniture.
 
-DN Plastics emphasizes its state-of-the-art equipment, scalable capacity, strategic rail access, advanced laboratory capabilities, ISO 9001 registration, and a sustainability focus that integrates post-consumer and post-industrial recycled materials into closed-loop recycling programs.
+The company differentiates itself through state-of-the-art equipment, scalable production capacity, strategic rail access, an advanced laboratory, ISO 9001 registration, and a commitment to sustainability via post-consumer recycled content and closed-loop recycling programs.
 
 ## Known for
 - State-of-the-art equipment for superior product quality
 - Scalable production capacity to meet growing demand
 - Strategic rail access for streamlined logistics
 - Advanced laboratory capabilities for material testing and development
-- Commitment to quality, evident in ISO 9001 registration
+- Commitment to quality, evident in our ISO 9001 registration
 - Dedication to sustainability through PCR use and closed-loop recycling
 
 ## Capabilities
-- Custom compounding
-- Sheet extrusion
+- Compounding (twin-screw and single-screw)
+- Sheet extrusion (up to 90" wide)
 - Co-extrusion
 - Lamination
-- Toll compounding
-- New product development
-- Analytical testing (mechanical, thermal, analytical)
-- Reverse engineering
-- PCR integration
-- Closed-loop recycling
-- Material characterization (FTIR, DSC, TGA, DMA)
 - Custom manufacturing
+- Tolling
+- New product development
+- Analytical testing
+- Physical property characterization
+- Thermal characterization
+- FTIR spectroscopy
+- DSC
+- TGA
+- DMA
+- Reverse engineering
+- Closed-loop recycling
+- PCR integration
+- Logistics (rail, bulk truck, van trailer)
+- Quality control laboratory
 
 ## Industries
 - Automotive
-- Sporting goods
+- Sporting Goods
 - Toys
-- Wire and cable
+- Wire and Cable
 - Healthcare
-- Household appliances
+- Household Items
+- Appliances
 - Furniture
-- Household items
 
 ## Equipment
-- 4 Coperion 70 mm twin-screw extruders
-- 2 single-screw extruders
-- Up to 90-inch wide sheet extrusion and lamination line with co-extrusion capability
+- Coperion 70 mm twin-screw extruders
+- Single-screw extruders
+- 90-inch wide sheet extrusion line with co-extrusion
+- Lamination line
 - Loss-in-weight feeders
 - Automated material handling system
 - Computerized control system
 - FTIR spectrometer
-- DSC (Differential Scanning Calorimetry)
-- TGA (Thermogravimetric Analysis)
-- DMA (Dynamic Mechanical Analysis)
+- DSC
+- TGA
+- DMA
 
 ## Certifications
 - ISO 9001
@@ -424,25 +438,26 @@ DN Plastics emphasizes its state-of-the-art equipment, scalable capacity, strate
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1998
-- **Ownership:** Family-owned, Women-owned, Minority-owned
+- **Ownership:** Family-owned, Women-Owned Minority Business Enterprise
 - **Headquarters:** Morrison, Tennessee
 
 <details><summary>Sources</summary>
 
-- Founded in 1998 -> /about-us
+- Founded 1998 -> /about-us
 - Family-owned business -> /about-us
-- Certified Women-Owned Minority Business Enterprise -> /about-us
-- Headquarters in Morrison, Tennessee -> db
+- Women-Owned Minority Business Enterprise -> /about-us
+- 120,000 sq ft facility -> /about-us
+- Six compounding lines (four Coperion 70 mm twin-screw, two single-screw) -> /about-us
+- Over 100 million pounds/year capacity -> /about-us
+- Sheet extrusion up to 90 inches wide with co-extrusion and lamination -> /about-us
 - ISO 9001 registered -> /about-us
-- 120,000 sq ft production facility served by rail -> /about-us
-- 6 compounding lines (4 Coperion 70 mm twin screw, 2 single screw) with over 100 million lbs/year capacity -> /about-us
-- Up to 90-inch wide sheet production with co-extrusion and lamination -> /about-us
-- Automotive parts: interior trim, door panels, cowl-vent grilles, blow-molded air ducts, engine covers, dash insulator, door insulator, flooring insulator, non-carpeted flooring, cargo van liners -> /
-- Non-automotive: sporting goods, toys, wire and cable, healthcare, household appliances, furniture, household items -> /
-- Materials: TPE/TPV/TPO, filled EVA/POE, polyolefins, SEBS, SBS, EPDM, POE, PCR, PIR -> /
-- Services: custom manufacturing, tolling, new product development, analytical testing (FTIR, DSC, TGA, DMA), reverse engineering -> /services
-- Sustainability: PCR integration, closed-loop recycling -> /about-us
-- Differentiators: state-of-the-art equipment, scalable capacity, rail access, advanced lab, ISO 9001, sustainability -> /about-us
+- Automotive interior trim, door panels, cowl-vent grilles, air ducts, engine covers, insulation -> / (homepage) and /about-us
+- Non-automotive: handles, grips, sporting goods, toys, wire and cable, healthcare, household items, appliances, furniture -> / (homepage) and /about-us
+- Materials: TPO, TPE, TPV, EVA, POE, polyolefins, SEBS, SBS, EPDM -> / (homepage) and /services
+- PCR and PIR integration -> / (homepage)
+- Tolling, custom manufacturing, NPD, analytical testing -> /services
+- Lab equipment: FTIR, DSC, TGA, DMA -> /services
+- Rail-served logistics -> /about-us
 </details>
 
 ---
@@ -452,35 +467,37 @@ DN Plastics emphasizes its state-of-the-art equipment, scalable capacity, strate
 **Old description:** 자신의 고객이 누구이며 그들의 요구가 무엇인지 알고, 고객의 입장에 서서 고객을 위해 노력하는 사람이어야합니다.
 
 ## About
-Daechang Indiana, Inc is headquartered in Indianapolis, Indiana. The company operates as the U.S. presence of Daechang Seat Co., Ltd., a South Korean manufacturer with a 40-year history in automotive seating components. The Korean parent company, Daechang Seat Co., Ltd., is based in Hwaseong, Gyeonggi-do, and presents itself as a specialist in seat frame and mechanism production.
+Daechang Indiana, Inc is headquartered in Indianapolis, Indiana. The company’s website, operated under the Daechang Seat Co., Ltd. name, highlights a 40-year history in automotive seating, though a specific founding year for the Indiana entity is not disclosed. Ownership details and founder names are not publicly provided.
 
-The company produces seat frames, power lumbar supports, suspension assemblies, and rear cushion frames for passenger vehicles. Its manufacturing processes include welding, riveting, CNC machining, stamping, airbag module assembly, and insert molding. The product portfolio covers front and rear seat frame assemblies, 2-way and 4-way lumbar supports, front back suspension assemblies, rear back frame assemblies, rear cushion frame wire assemblies, and third-row cushion leg assemblies.
+The company produces seat frame assemblies for front and rear seats, lumbar support mechanisms (2-way, 4-way power and compact versions), and suspension assemblies for automotive applications. Manufacturing processes include welding, bending, stamping, press work, airbag module integration, and insert molding. Facility size, headcount, and production volumes for the Indiana operation are not specified.
 
-Daechang Indiana serves the automotive OEM and Tier 1 supply chain, with documented supply relationships for Hyundai and Kia vehicle programs. Parts are fitted to models such as the Avante (AD), Sonata (LF), i30 (PD), Tucson (TL), i40 (VF), and Genesis (VI). The company also integrates seating technology from German specialist Brose for select applications.
+Its primary industry is automotive seating, supplying components for vehicles such as the Hyundai Avante (AD), Sonata (LF), i30 (PD), Tucson (TL), i40 (VF), and Equus (VI), as well as incorporating Brose seating technology. The customer base appears to be original equipment manufacturers (OEMs) in the automotive sector.
 
-Daechang Seat Co., Ltd. states that its competitive edge rests on proprietary patented technology, continuous improvement through VA/VE methodologies, industry-academia research collaboration, and a strategic focus on automation leadership in production.
+The company emphasizes proprietary technology development, patent acquisition, and continuous improvement (VA/VE) to enhance customer satisfaction. Its R&D center focuses on automation, technology gathering, collaboration, and innovation.
 
 ## Known for
-- Proprietary patented technology for seat components
-- Continuous improvement through VA/VE methodologies
-- Industry-academia research collaboration
-- Automation-focused production systems
+- Proprietary technology patent applications
+- Continuous improvement and VA/VE programs
+- R&D center dedicated to automation and collaboration
+- Integration of Brose seating technology
+- Insert molding process for seat frame production
 
 ## Capabilities
 - Welding
-- Riveting
-- CNC machining
-- Stamping/pressing
-- Airbag module assembly
+- Bending
+- Stamping/Pressing
+- Airbag integration
 - Insert molding
-- Frame assembly
-- Suspension assembly
+- Seat frame assembly
 - Lumbar support mechanism assembly
+- Folding seat mechanism assembly
+- Suspension assembly
+- Prototype development
+- VA/VE (Value Analysis/Value Engineering)
 
 ## Industries
 - Automotive
 - Automotive seating
-- Tier 1 automotive suppliers
 
 ## Certifications
 - ISO 14001
@@ -491,16 +508,16 @@ Daechang Seat Co., Ltd. states that its competitive edge rests on proprietary pa
 
 <details><summary>Sources</summary>
 
-- Headquarters in Indianapolis, Indiana -> db
-- Website http://www.godsc.co.kr/ -> db
-- Certification ISO14001 -> db
-- Parent company Daechang Seat Co., Ltd. with 40-year history -> homepage
-- Products: seat frames, lumbar supports, suspension assemblies -> homepage
-- Processes: welding, riveting, machining, pressing, airbag assembly, insert molding -> homepage
-- Customers: Hyundai, Kia (Avante, Sonata, i30, Tucson, i40, Genesis) -> homepage
-- Technology partnership with Brose -> homepage
-- Differentiators: proprietary patents, VA/VE, industry-academia collaboration, automation leadership -> homepage
-- Languages: Korean, English, Chinese -> homepage
+- Headquarters: Indianapolis, Indiana -> db
+- Certification: ISO14001 -> db
+- Website: http://www.godsc.co.kr/ -> db
+- 40-year tradition in automotive seating -> homepage /
+- Products: seat frame assemblies, lumbar supports, suspension assemblies -> homepage /
+- Processes: welding, bending, pressing, airbag integration, insert molding -> homepage /
+- Customer vehicle models: Hyundai Avante (AD), Sonata (LF), i30 (PD), Tucson (TL), i40 (VF), Equus (VI) -> homepage /
+- Brose technology integration -> homepage /
+- R&D center focus on automation, collaboration, innovation -> homepage /
+- Languages: KOR/ENG/CHN -> homepage /
 </details>
 
 ---
@@ -510,18 +527,26 @@ Daechang Seat Co., Ltd. states that its competitive edge rests on proprietary pa
 **Old description:** The Store, 119 Deadwood St, PO Box 398, Fort Pierre, SD 57532
 
 ## About
-Dakota Emporium Trading Post has operated from Fort Pierre, South Dakota since 1926. The business occupies a storefront and is run by proprietor Mike, who also travels to regional powwows with inventory. The company's origins trace back nearly a century, though the founding circumstances are not publicly documented.
+Founded in 1926, the Dakota Emporium Trading Post has operated from Fort Pierre, South Dakota, for nearly a century. The business maintains a storefront and a post office box (PO Box 398), serving customers both in person and through its website at dakotaemporium.com. The store is operated by Mike, who is identified in customer reviews as the primary contact.
 
-The trading post stocks a wide range of Native American craft supplies, including seed beads, regalia components, jewelry findings, drum-making materials, tanned hides, quillwork, and botanicals. It also carries finished Native-made jewelry and artwork. Operations are centered on a single retail location, with additional sales conducted at events across the region.
+The trading post functions as a retail outlet specializing in Native American craft supplies. The store offers an extensive selection of beads and regalia supplies, as well as drum-making supplies. Its inventory also includes jewelry, hides, botanicals, and Native-made artwork such as quillwork and beadwork. The store carries a wide range of products for traditional and contemporary craftwork, catering to both individual makers and larger regalia projects.
 
-The store serves Native American artisans, powwow dancers, cultural practitioners, and hobbyists seeking authentic materials for traditional and contemporary craftwork. Customers include individuals preparing regalia for ceremonies, as well as collectors of Native-made artwork.
+The customer base includes Native American artisans, powwow participants, and hobbyists seeking authentic materials. Reviews reference customers who attend events such as the Flandreau powwow, indicating a regional reach across South Dakota and neighboring areas. The business has garnered positive feedback on social media for its knowledgeable staff, particularly Mike, who is frequently mentioned for his helpfulness and competitive pricing.
 
-The company emphasizes personal service and competitive pricing, with the proprietor known for traveling to meet customers at powwows and other gatherings. Longtime patrons cite the breadth of inventory and the owner's knowledge of craft traditions as reasons for repeat business.
+## Known for
+- Extensive selection of beads and regalia supplies
+- Knowledgeable staff with personal customer service
+
+## Capabilities
+- Retail sales of Native American craft supplies
+- Online product catalog
 
 ## Industries
-- Native American arts and crafts
-- Cultural and regalia supplies
-- Powwow and ceremonial materials
+- Native American craft supplies
+- Regalia supplies
+- Jewelry
+- Drum making supplies
+- Hides and botanicals
 
 ## Company details
 - **Company Type:** Retailer
@@ -530,13 +555,12 @@ The company emphasizes personal service and competitive pricing, with the propri
 
 <details><summary>Sources</summary>
 
-- Founded 1926 -> db
-- Headquarters Fort Pierre, South Dakota -> db
-- Address 119 Deadwood St, PO Box 398, Fort Pierre, SD 57532 -> homepage
-- Proprietor Mike mentioned in reviews -> homepage
-- Offers beads, regalia supplies, jewelry, drum making supplies, hides -> homepage
-- Carries Native-made jewelry, quill and bead work, botanicals -> homepage
-- Sells at powwows (per reviews) -> homepage
+- Founded in 1926 -> db
+- Headquarters in Fort Pierre, South Dakota -> db
+- Store address: 119 Deadwood St, PO Box 398, Fort Pierre, SD 57532 -> /
+- Offers beads, regalia supplies, jewelry, drum making supplies, hides, Native made jewelry and artwork, quill and bead work, botanicals -> /
+- Customer reviews mention Mike as helpful with competitive pricing -> /
+- Customers attend Flandreau powwow -> /
 </details>
 
 ---
@@ -546,44 +570,46 @@ The company emphasizes personal service and competitive pricing, with the propri
 **Old description:** Dakota Fabrication offers a wide variety of welding and fabrication services including certified pipe welding, pre-fabricated module fabrication as well as miscellaneous structural steel fabrication.
 
 ## About
-Dakota Fabrication Inc. was incorporated in February 2006 in Harrisburg, South Dakota, initially specializing in stainless steel pipe fabrication for the ethanol industry. The company has since expanded its capabilities to include carbon steel, aluminum, and alloy piping and structural steel fabrication.
+Dakota Fabrication Inc. was incorporated in February 2006 in Harrisburg, South Dakota, initially specializing in stainless steel pipe fabrication for the ethanol industry. Over the years, the company has expanded to work with carbon steel and aluminum pipe as well as structural steel fabrication.
 
-Operating from a 10,000-square-foot shop on two acres near I-29 and I-90, Dakota Fabrication provides ASME Section IV certified pipe welding, orbital welding for high-purity applications, pre-fabricated piping spools, mechanical skid packages, structural and ornamental steel fabrication, and both shop-based and mobile plant maintenance welding. The facility includes lay-down area for project materials and finished items awaiting shipment.
+The shop provides certified pipe welding (ASME Section IV), pre-fabricated piping spools, mechanical skid packages, structural steel fabrication, and mobile welding services. Its 10,000-square-foot facility on two acres includes lay-down space and is located just a quarter mile off I-29, south of Sioux Falls, with easy access to I-90 for shipping across the United States. The company maintains an ISO-like quality program after previously holding ISO 9001:2008 registration.
 
-The company serves ethanol plants, power generation facilities, mining operations, and food-grade sectors including dairy, beverage, brewing, distillery, medical, and vaccine production. Past clients include Midwestern Mechanical, Mechanical Solutions LLC, and 9 Clouds, with testimonials citing on-schedule delivery, work quality, and QA/QC performance.
+Dakota Fabrication serves industrial clients in ethanol production, power generation, mining, and food-grade sectors such as dairy, beverage, brewing, and distillery operations, as well as medical and vaccine projects. Customers include Midwestern Mechanical and Mechanical Solutions, LLC, which have cited the firm's on-time delivery and quality assurance.
 
-Founded to address the ethanol industry's need for specialized stainless pipe fabrication, Dakota Fabrication maintains an ISO-like quality program following its 2011 ISO 9001:2008 ANAB registration, emphasizing precision, experience, and responsive on-site service.
+The business emphasizes its ASME-certified welders, orbital welding system for high-purity applications, and the ability to deploy personnel for on-site maintenance at short notice as key differentiators.
 
 ## Known for
 - ASME Section IV certified welders
-- ISO 9001:2008 ANAB registration (ISO-like quality program maintained)
-- 10,000+ sq ft facility with two-acre lay-down yard near major interstates
-- Mobile welding and on-site plant maintenance services
-- Orbital welding system for high-purity sanitary applications
+- Orbital welding system for high-purity applications
+- Mobile welding and on-site maintenance services
+- 10,000+ sq ft facility with two-acre lay-down yard
+- ISO-like quality program (formerly ISO 9001:2008)
 
 ## Capabilities
 - ASME Section IV certified pipe welding
-- Orbital welding (high purity)
-- Pre-fabricated piping spools
-- Mechanical skid fabrication
-- Plant maintenance welding
-- Mobile welding services
+- Pre-fabricated piping spool fabrication
+- Mechanical skid and module fabrication
 - Structural steel fabrication
-- Custom metal fabrication
+- Ornamental and custom metal fabrication
 - Commercial fabrication
-- Ornamental fabrication
+- Orbital welding (high purity)
+- Mobile welding services
+- Plant maintenance welding
+- Stainless steel welding
+- Carbon steel welding
+- Alloy piping welding
+- Aluminum fabrication
 
 ## Industries
-- Ethanol
+- Ethanol production
 - Power generation
 - Mining
 - Dairy
-- Food grade
-- Beverage
-- Medical
-- Vaccine
+- Food and beverage
 - Brewing
 - Distillery
+- Medical
+- Vaccine manufacturing
 
 ## Equipment
 - Orbital welding system
@@ -599,15 +625,18 @@ Founded to address the ethanol industry's need for specialized stainless pipe fa
 
 <details><summary>Sources</summary>
 
-- Founded February 2006 -> /about-us
+- Incorporated February 2006 -> /about-us
 - Facility over 10,000 sq ft, two acres -> /about-us
 - ASME Section IV certified welders -> /services
-- ISO 9001:2008 ANAB Registered -> /about-us
+- Orbital welding system for high purity -> /services
+- ISO 9001:2008 ANAB Registered, now ISO-like quality program -> /about-us
 - Industries: ethanol, power plants, mining, dairy, food grade, beverage, medical, vaccine, brewing, distillery -> /services
-- Capabilities: pre-fab piping, orbital welding, mechanical skid fabrication, plant maintenance, mobile welding, misc steel fabrication -> /services
-- Materials: stainless steel, carbon steel, alloy, aluminum -> /about-us, /services
+- Materials: stainless steel, carbon steel, aluminum, alloy piping -> /services
+- Mobile welding services -> /services
+- Plant maintenance services -> /services
+- Mechanical skid fabrication -> /services
+- Structural steel fabrication -> /services
 - Headquarters Harrisburg, SD -> /about-us
-- Testimonials from Midwestern Mechanical, Mechanical Solutions LLC, 9 Clouds -> /
 </details>
 
 ---
@@ -617,57 +646,65 @@ Founded to address the ethanol industry's need for specialized stainless pipe fa
 **Old description:** As a leading manufacturer of private-brand and branded foods, we craft nut butters, granola, dried fruits, nuts and trail mix products to the highest standards of quality and taste. Serving the retail, food service and ingredient sectors, we’re known for delivering quality food products and dependable service. Our partners count on us for innovation that keeps their brands growing.
 
 ## About
-Dakota Growers Pasta Co Inc., operating as 8th Avenue Food & Provisions, is headquartered in Carrington, North Dakota. The company was founded in 2018 through the strategic combination of Post Holdings' private-brand businesses and became a subsidiary of Post Holdings after its acquisition was completed in 2025, merging into the Post Consumer Brands segment.
+Dakota Growers Pasta Co Inc., headquartered in Carrington, North Dakota, operates as 8th Avenue Food & Provisions. The business was founded in 2018 through the strategic combination of Post Holdings’ private-brand businesses. In 2025, Post Holdings completed its acquisition of 8th Avenue and merged it into the Post Consumer Brands segment. The company is owned by Post Holdings, a publicly traded consumer packaged goods company.
 
-The company manufactures private-label and branded food products including nut butters, granola, dried fruits, nuts, and trail mixes. It operates seven production facilities across the United States and Canada: nut butter plants in Fitzgerald, GA; Troy, AL; Blaine, WA; Markham, ON; and Brampton, ON; a granola facility in Eugene, OR; and a fruit and nut operation in Hazelwood, MO. Its capabilities include in-house roasting and seasoning, granola and cereal production, and custom product formulation.
+The company manufactures private-label and branded food products, specializing in nut butters, granola, dried fruits, nuts, and trail mixes. It operates multiple facilities across North America, including nut butter plants in Fitzgerald, GA; Troy, AL; Blaine, WA; Markham, ON; and Brampton, ON; a granola facility in Eugene, OR; and a fruit and nut operation in Hazelwood, MO. Processes include in-house roasting and seasoning, granola and cereal production, and nut butter manufacturing with organic and non-GMO capabilities. The company emphasizes food safety through a rigorous supplier approval program and supply chain efficiency.
 
-8th Avenue serves the retail, food service, and ingredient sectors, supplying private-label partners and branded customers. It is described as one of the largest private-label nut butter manufacturers in North America, with decades of experience producing organic and conventional peanut butters and tree nut butters.
+Its customers span retail, food service, and ingredient sectors. The company serves private-label brands and branded food companies, providing products such as peanut butter, tree nut butters, granolas, cereals, muesli, snack nuts, trail mixes, and dried fruit. Partners include brands seeking on-trend, high-quality foods.
 
-The company emphasizes a rigorous supplier approval program, food safety and quality systems, responsive customer service, and supply chain efficiency as key differentiators. Its pasta business was transferred to Richardson Food & Ingredients effective December 1, 2025.
+The company was created to consolidate Post Holdings’ private-brand portfolio into a dedicated platform for innovation and scale in the private-label market. It differentiates itself through its combination of manufacturing breadth, product customization, and a focus on food safety and responsive service.
 
 ## Known for
 - One of the largest private-label nut butter manufacturers in North America
-- Decades of experience in organic and conventional peanut and tree nut butters
+- Decades of experience producing organic and conventional peanut and tree nut butters
 - In-house roasting and seasoning for snack nuts and trail mixes
-- On-trend granola innovation and customization
-- Rigorous supplier approval program and food safety systems
+- On-trend product innovation and customization for granola and cereals
+- Rigorous supplier approval program and exceptional supply chain efficiency
 
 ## Capabilities
 - Private-label food manufacturing
-- Nut butter production (peanut, tree nut, organic, conventional)
-- Granola, cereal, muesli and granola snack production
-- Fruit and nut roasting and seasoning
-- Trail mix and snack nut blending
+- Branded food manufacturing
+- Nut butter production
+- Granola production
+- Fruit and nut processing
+- Roasting and seasoning
 - Product innovation and customization
-- Supplier approval and food safety programs
+- Food safety and quality assurance
+- Supplier approval program
 - Supply chain management
+- Organic and non-GMO production
 
 ## Industries
 - Retail
 - Food service
 - Ingredient manufacturing
-- Private-label brands
+- Private label food
+- Branded food
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 2018
-- **Ownership:** Post Holdings (acquired)
+- **Ownership:** Post Holdings (Post Consumer Brands)
 - **Headquarters:** Carrington, North Dakota
 
 <details><summary>Sources</summary>
 
-- Company name and HQ city/state -> db
-- Description of products and sectors -> db
-- Founded 2018 via combination of Post Holdings private brands -> /
-- Post Holdings acquisition completed 2025, merged into Post Consumer Brands -> /
-- Seven production facilities with locations and product focus -> /
+- Company name Dakota Growers Pasta Co Inc. -> db
+- Headquarters Carrington, North Dakota -> db
+- Description of products and markets -> db
+- Website URL -> db
+- Founded in 2018 through combination of Post Holdings private brands -> /
+- Pasta business sold to Richardson Food & Ingredients effective Dec 1 2025 -> /
+- Manufactures nut butters, granola, dried fruits, nuts, trail mixes -> /
 - In-house roasting and seasoning processes -> /
-- Granola innovation and customization -> /
-- Largest private-label nut butter manufacturer claim -> /
-- Decades of experience in peanut and tree nut butters -> /
-- Rigorous supplier approval program, food safety, responsive service, supply chain efficiency -> /
-- Pasta business sold to Richardson Food & Ingredients Dec 1 2025 -> /
-- Post Consumer Brands history starting 1895 -> /about-us
+- Granola facility in Eugene OR, fruit & nuts in Hazelwood MO -> /
+- Nut butter facilities in Fitzgerald GA, Troy AL, Blaine WA, Markham ON, Brampton ON -> /
+- One of largest private-label nut butter manufacturers in North America -> /
+- Organic and non-GMO options -> /
+- Rigorous supplier approval program -> /
+- Responsive customer service and supply chain efficiency -> /
+- Post Holdings acquisition and merger with Post Consumer Brands in 2025 -> /
+- Serves retail, food service, ingredient sectors -> /
 </details>
 
 ---

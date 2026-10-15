@@ -3,37 +3,35 @@
 **Old description:** At Torque King, we help keep your truck ready for the demands of work, hauling, towing, and everyday use. Whether you drive on highways, job sites, gravel roads, or remote ranchland, our 4x4 truck parts are built to deliver reliability where it matters most. From axle and hub replacements to OEM-quality repair components, our products help you maintain the performance and longevity of the truck you rely on.
 
 ## About
-Torque King 4x4 operates from Billings, Montana, where it supplies 4x4 truck parts and tools to individual owners and commercial fleets. The business began as QUAD 4x4 before adopting its current name, though a founding year is not publicly disclosed. Dan Guarino serves as vice president and appears in the company's technical videos and media appearances.
+Torque King 4x4 operates from Billings, Montana. The company, formerly known as QUAD 4x4, does not disclose its founding year or original founders. It is led by Vice President Dan Guarino, who has represented the firm in national media discussions about domestic manufacturing.
 
-The company functions as a manufacturer, a stocking distributor of original-equipment parts, and an exporter. Its catalog spans 4x4 special tools, genuine OEM components, aftermarket parts, and service kits for vehicles dating from 1941 to current models. Coverage includes Dana-Spicer axles (models 25 through 80), Ford Sterling axles, AAM axles, New Process/New Venture transfer cases, NV4500 and NV5600 transmissions, Getrag G360 transmissions, and related driveshaft components. Torque King also produces color-illustrated shop manuals and technical service bulletins, and maintains a library of video guides such as the Mahindra Roxor front hub service.
+The business functions as a manufacturer, a stocking distributor of OEM components, and an exporter. Its product range covers 4x4 special tools, genuine original-equipment parts, aftermarket parts, and service kits for vehicles dating from 1941 to current models. The catalog includes power-train components under the Torque King brand, as well as parts for Dana-Spicer axles, Ford Sterling axles, AAM axles, New Process/New Venture transfer cases, NV4500 and NV5600 transmissions, Getrag G360 transmissions, BorgWarner T19 transmissions, and related driveshafts. The company also produces color-illustrated shop manuals and technical service bulletins.
 
-Customers range from private truck owners to fleet managers in industries including construction, agriculture, and general commercial transport. The company emphasizes support for work trucks used on highways, job sites, gravel roads, and ranchland. Brands carried include Timken bearings, Dana axle components, Morse chains, and National seals, alongside Torque King's own power-train line.
+Customers include individual truck owners and fleet managers across work, hauling, towing, and recreational use. The supported brands span Dodge, Ram, GMC, Chevrolet, Ford, Jeep, International, and Mahindra Roxor. The company emphasizes expert guidance to help clients select correct parts for axle, hub, transmission, and transfer-case repairs.
 
-Torque King positions itself around domestic manufacturing and supply-chain resiliency. In a televised segment on Viewpoint with Dennis Quaid, Guarino discussed reshoring and the balance between domestic and foreign sourcing in the truck-parts sector. The firm highlights its ability to stock hard-to-find small parts essential for quality repairs and its technical content from "Dan the Gear Man."
+Torque King positions itself around U.S.-based manufacturing and supply-chain reshoring. In a televised segment on Viewpoint with Dennis Quaid, Guarino highlighted the importance of domestic production for economic resilience. The firm promotes its Montana base, deep technical library, and video-based repair guides as differentiators that keep trucks on the road.
 
 ## Known for
-- Manufacturer, OEM parts distributor, and exporter under one roof
-- Publishes illustrated shop manuals and technical service bulletins for 4x4 vehicles
-- Stocks extensive hard-to-find small parts for Dana, Ford Sterling, AAM, and New Venture drivelines
-- Produces video maintenance guides and technical articles by in-house expert Dan the Gear Man
-- Advocates for U.S. manufacturing reshoring in the truck-parts supply chain
+- Montana-based manufacturer and OEM parts distributor with export capabilities
+- Publishes proprietary shop manuals and technical service bulletins for 4x4 vehicles
+- Covers vehicle platforms from 1941 to present, including hard-to-find small parts
+- Provides expert technical guidance and video repair tutorials (Torque King TV)
+- Advocates for U.S. manufacturing reshoring, featured on Viewpoint with Dennis Quaid
 
 ## Capabilities
-- Manufacturing of 4x4 power train components
+- 4x4 power train component manufacturing
 - OEM parts distribution
-- Export of 4x4 parts and tools
-- Technical publication (shop manuals, service bulletins)
-- Video-based maintenance guides
-- Technical support and parts selection assistance
-- Curated selection of aftermarket and OEM components
-- Fleet and individual customer parts fulfillment
+- Exporting
+- Technical manual and service bulletin publishing
+- Video-based technical guides
+- Expert parts consultation
+- Mahindra Roxor front hub service guidance
 
 ## Industries
 - Automotive aftermarket
 - Commercial fleet maintenance
-- Off-road/4x4 vehicle service
-- Construction equipment support
-- Agricultural/ranch vehicle support
+- Off-road vehicle parts
+- Heavy-duty truck parts
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -43,15 +41,14 @@ Torque King positions itself around domestic manufacturing and supply-chain resi
 
 - Location: Billings, Montana -> db
 - Formerly QUAD 4x4 -> /about-us
-- Manufacturer, OEM parts distributor, exporter -> /about-us
-- Publishes shop manuals and technical service bulletins -> /about-us
-- Dan Guarino is Vice President -> /
-- Covers 4x4 vehicles from 1941 to present -> /about-us
-- Carries brands: Timken, Dana, Morse, National Seals -> /about-us
-- Offers video guides for maintenance -> /
-- Appeared on Viewpoint with Dennis Quaid -> /
-- Serves personal truck owners and fleets -> /
-- Focus on USA-backed parts and reshoring -> /
+- Business description: manufacturer, stocking OEM parts distributor, exporter -> /about-us
+- Product range: 4x4 special tools, genuine OEM parts, aftermarket parts, service kits, shop manuals, technical service bulletins -> /about-us
+- Vehicle coverage: 1941 to present, brands Dodge, Ram, GMC, Chevrolet, Ford, Jeep, International, Mahindra Roxor -> / and /about-us
+- Specific components: Dana-Spicer axles, Ford Sterling axles, AAM axles, New Process/New Venture transfer cases, NV4500/NV5600 transmissions, Getrag G360, BorgWarner T19, driveshafts -> /about-us
+- Vice President: Dan Guarino -> /
+- Video content: Torque King TV, Viewpoint with Dennis Quaid appearance -> /
+- Emphasis on U.S. manufacturing and reshoring -> /
+- Expert guidance and curated selection -> /
 </details>
 
 ---
@@ -61,39 +58,33 @@ Torque King positions itself around domestic manufacturing and supply-chain resi
 **Old description:** Tova Industries, LLC was established in 1985 as a manufacturer, packer and distributor of dry food products. With a philosophy of high quality, low cost manufacturing techniques, and based on proprietary formulas and processes, Tova has established a reputation for responsiveness and a "can do" attitude with its customers. As a result, Tova was recognized both locally and nationally as one of the fastest growing private companies in the country soon after its founding. Specifically, BUSINESS FIRST magazine ranked Tova as the fastest growing private company in the Louisville Metro Area and INC. magazine, in their annual INC. 500, ranked Tova as one of the fastest growing private companies in the country for three consecutive years.
 
 ## About
-Tova Industries LLC was founded in 1985 in Jeffersontown, Kentucky, as a manufacturer, packer, and distributor of dry food products. The privately held company began with a focus on proprietary formulas and low-cost manufacturing techniques, though the founders are not publicly named.
+Tova Industries LLC was founded in 1985 in Jeffersontown, Kentucky, as a manufacturer, packer, and distributor of dry food products. The company began with a focus on proprietary formulas and low-cost, high-quality manufacturing techniques.
 
-The company produces a range of dry food items, including clean-label products, whole-wheat offerings, and nutrient-enhanced lines high in protein and fiber. Its portfolio includes the Tova Farms brand and the Carbquik Bake Mix, sold through carbquik.com. Operations cover custom formulation, proprietary process development, high-protein mix and drink production, plant-based complete meals, and natural flavor and color conversion. Facility size, headcount, and annual volumes are not disclosed.
+Today the company operates as a dry food manufacturer offering custom formulation, packing, and distribution services. Its capabilities include clean-label production, high-protein and high-fiber formulations, plant-based protein development, and natural flavor and color conversion. The firm also produces its own branded lines such as Tova Farms and Carbquik Bake Mix.
 
-Tova serves the food manufacturing sector, supplying retail, private-label, and food-service customers seeking better-for-you dry mixes and baked goods. Concrete customer examples are not provided in the available sources.
+Tova serves the food and beverage industry, supplying retailers, food-service operators, and other brands seeking better-for-you products. Its customer base includes companies looking for private-label and co-manufactured items such as whole-wheat mixes, nutrient-enhanced blends, and complete plant-based meals.
 
-The company emphasizes a “can do” attitude and responsiveness, crediting its growth to high-quality, low-cost methods and proprietary formulas. It was recognized by Business First as the fastest-growing private company in the Louisville metro area and appeared on the Inc. 500 list for three consecutive years.
+The company attributes its growth to a philosophy of responsiveness and a "can do" attitude, backed by proprietary processes that enable high quality at low cost. Early recognition from Business First and Inc. magazine highlighted its rapid expansion in the years following its launch.
 
 ## Known for
 - Proprietary formulas and processes
-- Custom formulation services
-- High-protein and plant-based product lines
-- Clean label product focus
-- Carbquik Bake Mix brand
+- High-quality, low-cost manufacturing
+- Custom formulation capabilities
+- Clean-label and plant-based product lines
+- Rapid responsiveness and "can do" attitude
 
 ## Capabilities
 - Dry food manufacturing
 - Packing
 - Distribution
 - Custom formulation
-- Proprietary formula development
-- High-protein mix production
-- Plant-based protein meal production
+- Clean label production
+- High-protein and high-fiber formulation
+- Plant-based protein formulation
 - Natural flavor and color conversion
-- Clean label product manufacturing
-- Baking mix production
 
 ## Industries
-- Food manufacturing
-- Dry food products
-- Nutritional products
-- Baking mixes
-- Private label food production
+- Food and beverage
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -102,17 +93,19 @@ The company emphasizes a “can do” attitude and responsiveness, crediting its
 
 <details><summary>Sources</summary>
 
-- Founded 1985 -> db
-- Headquarters Jeffersontown, Kentucky -> db
-- Manufacturer, packer, distributor of dry food products -> /
-- Proprietary formulas and processes -> /
-- Clean label products, whole-wheat products, nutrient-enhanced high protein/fiber products -> /
-- Tova Farms brand -> /
-- Carbquik Bake Mix -> /
-- Custom formulations -> /
-- High-protein mixes, drinks, plant-based protein complete meals, natural flavor and color conversion -> /
-- Business First fastest growing private company Louisville metro area -> /
-- Inc. 500 three consecutive years -> /
+- Founded in 1985 -> db
+- Headquarters in Jeffersontown, Kentucky -> db
+- Manufacturer, packer, distributor of dry food products -> page /
+- Proprietary formulas and processes -> page /
+- Clean label products -> page /
+- Tova Farms brand -> page /
+- Carbquik Bake Mix brand -> page /
+- High-protein, high-fiber, plant-based protein products -> page /
+- Natural flavor and color conversion -> page /
+- Custom formulations -> page /
+- Recognized as fastest growing by Business First and Inc. magazine -> page /
+- Philosophy of high quality, low cost manufacturing -> page /
+- Responsiveness and 'can do' attitude -> page /
 </details>
 
 ---
@@ -122,42 +115,50 @@ The company emphasizes a “can do” attitude and responsiveness, crediting its
 **Old description:** Tower Metal Works has the equipment, ability, and expertise to produce parts that are top-of-the-line in today's market and surpass our clients' expectations. We take great pride in a job well done, and it shows in the products we produce.
 
 ## About
-Tower Metal Works Inc. was founded in 1976 by Howard Willsey in a garage in Maple Hill, Kansas. The family-owned business grew from that modest start into a 50,000-square-foot facility, expanding its building and services over decades while retaining its original family values.
+Tower Metal Works Inc. was founded in 1976 in Maple Hill, Kansas, by Howard Willsey, who began operations out of his garage. The company remains family-owned and has grown from that modest start into a full-service sheet metal fabrication shop.
 
-Today the company operates as a full-service sheet metal fabrication shop, offering laser cutting, punching, press brake forming, CNC machining, welding (MIG, TIG, and spot), 3D scanning, plating, prototyping, and engineering support. Its equipment roster includes two Amada laser cutters (one a 9,000 kW ENSIS fiber laser with automated material loading), a 4,500 kW laser/punch combination, five Amada HG2204 press brakes capable of 172-inch bends, and a HURCO VMX 6030i machining center holding ±0.001-inch tolerance. The shop serves customers nationwide from its single Kansas location.
+Today the company operates a 50,000-square-foot facility and provides sheet metal fabrication services nationwide. Its capabilities include laser cutting (with two Amada machines, one a 9,000-watt fiber laser), punching (58-station turret and a laser/punch combination), press brake forming (five brakes up to 220 tons), CNC machining (HURCO VMX 6030i, ±0.001 inch tolerance), and welding (MIG, TIG, spot). Additional services include plating, 3D scanning, prototyping, 3D modeling, and engineering support.
 
-Tower Metal Works serves a broad base of industrial clients requiring precision metal parts, from prototype runs to higher-volume production. The company emphasizes minimizing outsourcing to keep turnaround times short, and it provides free quotes that are typically returned the next business day.
+Tower Metal Works serves customers across the United States, providing fabrication services for a variety of industrial and commercial applications, though specific industry sectors are not detailed in its public materials.
 
-The firm cites its family-oriented culture, investment in Amada’s latest fiber-laser technology, and a team of highly qualified welders as key differentiators. By keeping capabilities in-house—from cutting and forming to machining and finishing—it aims to deliver consistent quality and faster delivery than competitors who rely on subcontractors.
+The company emphasizes its family values, commitment to quality, and quick turnaround, aiming to minimize outsourcing by keeping a wide range of capabilities in-house. It offers free quotes typically returned the next business day.
 
 ## Known for
 - Family-owned since 1976 with retained family values
-- 50,000 sq ft facility enabling in-house capabilities to reduce outsourcing
+- 50,000 sq ft facility minimizing outsourcing and maximizing turnaround
 - Amada ENSIS 9,000 kW fiber laser with automated material loader
-- Free quotes typically returned next business day
-- Five Amada press brakes for forming up to 172 inches
+- Free quotes returned next business day
+- Nationwide service from a single location
 
 ## Capabilities
 - Laser cutting
 - Punching
 - Press brake forming
-- CNC machining (drilling, milling, chamfering, tapping, countersinking)
-- Welding (MIG, TIG, spot welding)
-- 3D scanning
+- CNC machining
+- Drilling
+- Milling
+- Chamfering
+- Tapping
+- Countersinking
+- MIG welding
+- TIG welding
+- Spot welding
 - Plating
+- 3D scanning
 - Prototyping
 - 3D modeling
 - Engineering support
-- Pem setting
 - Shearing
 - Sawing
 - Etching
+- Pem setting
 
 ## Equipment
 - Amada ENSIS 9,000 kW Fiber Optics Laser
-- Amada laser cutting machines (2)
+- Amada laser cutting machines (two)
 - 4,500 kW Laser/Punch Combo
-- Amada HG2204 Press Brake (5)
+- Automated punching machine (58 turret stations)
+- Amada HG2204 Press Brake (five press brakes)
 - HURCO VMX 6030i machining center
 
 ## Company details
@@ -168,19 +169,19 @@ The firm cites its family-oriented culture, investment in Amada’s latest fiber
 
 <details><summary>Sources</summary>
 
-- Founded in 1976 by Howard Willsey in a garage -> /about
-- Facility covers 50,000 sq ft -> /about
-- Family values retained -> /about
-- Services nationwide -> /about
+- Founded 1976 by Howard Willsey in garage -> /about
+- Family-owned, retained family values -> /about
+- Facility 50,000 sq ft, nationwide service -> /about
 - Full-service sheet metal fabrication shop -> /about
-- Laser cutting with two Amada machines, including ENSIS 9,000 kW fiber laser -> /services
-- Punching up to 10 gauge steel, 58 turret station -> /services
-- Five Amada HG2204 press brakes, max 172 in, 220 tons -> /services
-- HURCO VMX 6030i machining center, tolerance ±0.001 -> /services
+- Laser cutting: two Amada machines, nitrogen/oxygen, material limits -> /services
+- Amada ENSIS 9,000 kW fiber laser with automated loader -> /services
+- Punching: 58 turret station, max 10 GA, 30 tons, laser/punch combo -> /services
+- Press brake: five brakes, Amada HG2204, max 220 tons, 172 in. length -> /services
+- Machining: HURCO VMX 6030i, ±0.001 tolerance, 3-axis, drilling/milling/chamfering/tapping/countersink -> /services
 - Welding: MIG, TIG, spot welding -> /services
-- Materials: carbon steel, stainless steel, aluminum -> /services
-- Free quotes returned next business day -> /services
-- Proud Amada America shop -> /services
+- Additional services: plating, 3D scanning, prototyping, 3D modeling, engineering -> /
+- Free quotes next business day -> /services
+- Headquarters Maple Hill, Kansas -> db
 </details>
 
 ---
@@ -190,27 +191,27 @@ The firm cites its family-oriented culture, investment in Amada’s latest fiber
 **Old description:** Town and Country Furniture is a family owned and operated furniture store and has served the Shenandoah Valley of Virginia for over 35 years. Our goal is to offer heirloom quality, solid wood, Amish Made and American Made furniture at affordable prices. We are a bit different than other furniture stores because we do not offer “Sale” pricing. We do not mark our prices up so that we can mark them back down; we give you the best price possible every day and delivery and set up by our friendly delivery men is very reasonably priced!
 
 ## About
-Town & Country Furniture is a family-owned and operated furniture store based in Dayton, Virginia. For more than 35 years, the business has served the Shenandoah Valley region.
+Town & Country Furniture operates as a family-owned furniture retailer in Dayton, Virginia, where it has served the Shenandoah Valley for more than 35 years. The business was founded on a commitment to offering heirloom-quality solid wood pieces, primarily sourced from Amish and American makers, at straightforward everyday pricing.
 
-The store carries a range of heirloom-quality solid wood furniture, much of it Amish-made or American-made, from brands such as Windy Valley Outdoor, La-Z-Boy, Zimmerman Chair, and Mount Eden Woodworks. In addition to sales, the company provides delivery and setup services performed by its own staff.
+The store carries collections from several established manufacturers, including Windy Valley Outdoor, La-Z-Boy, Zimmerman Chair, and Mount Eden Woodworks. Its showroom spans living room, dining room, bedroom, home office, children's room, and outdoor categories. In addition to sales, the company provides delivery and setup service performed by its own staff.
 
-The business serves residential customers throughout the Shenandoah Valley, furnishing living rooms, dining rooms, bedrooms, home offices, children's rooms, and outdoor spaces.
+The customer base consists of residential buyers throughout the Shenandoah Valley region seeking solid wood and Amish-crafted furniture.
 
-The company distinguishes itself by avoiding promotional sale pricing; instead, it maintains a consistent everyday low-price model. The founders established the store to offer affordable heirloom-quality furniture without the markup-and-markdown cycle common in the industry.
+The company emphasizes its no-sale pricing philosophy and family-operated service as key differentiators, aiming to simplify the purchasing experience for homeowners furnishing their primary residences.
 
 ## Known for
-- Everyday low pricing without sales or markups
-- Delivery and setup by company staff
-- Focus on Amish-made and American-made solid wood furniture
+- Delivery and setup included, performed by company staff
+- Focus on heirloom-quality solid wood, Amish-made and American-made furniture
+- Family-owned and operated in the Shenandoah Valley for over 35 years
 
 ## Capabilities
 - Furniture retail
-- Delivery and setup service
-- Product curation from multiple manufacturers
+- Delivery and installation
+- Multi-brand product curation
 
 ## Industries
 - Residential furniture
-- Home furnishings retail
+- Home furnishings
 
 ## Company details
 - **Company Type:** Retailer
@@ -219,13 +220,14 @@ The company distinguishes itself by avoiding promotional sale pricing; instead, 
 
 <details><summary>Sources</summary>
 
-- Family-owned and operated furniture store -> /
-- Served Shenandoah Valley of Virginia for over 35 years -> /
-- Located in Dayton, Virginia -> db
-- Offers heirloom quality, solid wood, Amish Made and American Made furniture -> /
-- No sale pricing policy, everyday low price -> /
-- Delivery and set up by company staff -> /
+- Family owned and operated furniture store -> db
+- Served Shenandoah Valley of Virginia for over 35 years -> db
+- Headquarters in Dayton, Virginia -> db
 - Carries brands: Windy Valley Outdoor, La-Z-Boy, Zimmerman Chair, Mount Eden Woodworks -> /
+- Offers heirloom quality solid wood Amish Made and American Made furniture -> /
+- No sale pricing policy -> /
+- Delivery and setup by company staff -> /
+- Product categories: Living Room, Dining Room, Children's Room, Home Office, Bedroom, Outdoors -> /
 </details>
 
 ---
@@ -235,44 +237,39 @@ The company distinguishes itself by avoiding promotional sale pricing; instead, 
 **Old description:** Our development process is founded in human factors and ergonomics, enabling seats with form and structure designed to support a comfortable driving posture, adapt to the variations in users' bodies, and prevent tiredness and discomfort, even on long drives.
 
 ## About
-Toyota Boshoku Kentucky operates a facility in Harrodsburg, Kentucky. The site is part of Toyota Boshoku Corporation, a global automotive supplier headquartered in Japan. The founding date and ownership structure for the Harrodsburg location are not publicly disclosed in the available sources.
+Toyota Boshoku Kentucky operates a manufacturing facility in Harrodsburg, Kentucky. The site functions as a North American production base for Toyota Boshoku Corporation, a global Tier 1 automotive supplier headquartered in Kariya, Japan. The facility focuses on seat systems and interior components for vehicle manufacturers.
 
-The facility produces automotive seating systems and interior components. Its product range includes complete automobile seats, aircraft seats, door trims, headliners, floor carpets, luggage compartment parts, and exterior components. Manufacturing processes highlighted by the company include simultaneous back-injection molding, fine hold stamping, and foam-in-place methods. The operation also supports product engineering, production engineering, and testing and evaluation using a driving simulator and proving ground.
+The plant employs proprietary processes including Simultaneous Back-Injection Molding Technology and Fine Hold Stamping Method to produce automobile seats, aircraft seats, door trims, headliners, floor carpets, luggage compartments, and exterior components. It also manufactures plastic parts for internal combustion engines and electric vehicles, as well as textile components. The operation integrates product engineering, production engineering, and testing capabilities such as driving simulators and proving grounds.
 
-The company serves the automotive and aerospace industries. Its customer base includes automakers requiring seats and interior systems for internal combustion, electric, and hydrogen-powered vehicles, as well as aircraft manufacturers. The product portfolio also covers non-vehicle seating applications.
+Primary customers are automotive OEMs and aerospace manufacturers requiring seat systems and interior modules. The facility supplies components for both traditional internal combustion engine platforms and electric vehicle programs. Aircraft seat production indicates a secondary aerospace market.
 
-Toyota Boshoku states that its development process is founded in human factors and ergonomics, aiming to create seats that support a comfortable driving posture, adapt to body variations, and reduce fatigue on long drives. The company emphasizes lightweight materials such as expanded kenaf base material and technologies like one-motor power seats to differentiate its offerings.
+Toyota Boshoku states its development process is founded in human factors and ergonomics, aiming to deliver seats that support comfortable driving posture, adapt to body variations, and reduce fatigue on long drives. The company highlights technologies such as Foam In Place Method and lightweight molded foam door trims with high impact resistance as part of its differentiation.
 
 ## Known for
-- Development process based on human factors and ergonomics
-- Simultaneous back-injection molding technology
-- Fine hold stamping method
+- Human factors and ergonomics-based seat development
+- Simultaneous Back-Injection Molding Technology
+- Fine Hold Stamping Method
+- Foam In Place Method
 - Lightweight molded foam door trim with high impact resistance
-- Expanded kenaf base material for sustainable components
 
 ## Capabilities
-- Simultaneous back-injection molding
-- Fine hold stamping
-- Foam in place method
+- Simultaneous Back-Injection Molding
+- Fine Hold Stamping
+- Foam In Place Method
+- Seat design and engineering
+- Interior component manufacturing
+- Exterior component manufacturing
+- Plastic injection molding
+- Stamping
+- Textile component manufacturing
 - Product engineering
 - Production engineering
-- Testing and evaluation engineering
-- Driving simulator operation
-- Proving ground testing
-- Lightweight molded foam door trim production
-- Expanded kenaf base material processing
-- One-motor power seat assembly
-- Hydrogen power system integration
+- Testing and evaluation (driving simulator, proving ground)
 
 ## Industries
 - Automotive
 - Aerospace
-- Commercial seating
-
-## Equipment
-- Driving simulator
-- Proving ground
-- Development equipment and facilities
+- Electric vehicles
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -280,19 +277,12 @@ Toyota Boshoku states that its development process is founded in human factors a
 
 <details><summary>Sources</summary>
 
-- Harrodsburg, Kentucky location -> db
-- Development process founded in human factors and ergonomics -> db
-- Simultaneous Back-Injection Molding Technology -> db
-- Fine Hold Stamping Method -> db
-- Product categories: Seats, Interior & Exterior, Unit Components, Filter Products, Plastic Parts for ICE, Products for Electric Vehicles, Textile Components -> pages
-- Aircraft seats mentioned -> pages
-- Foam In Place Method -> pages
-- Lightweight Molded Foam Door Trim with High Impact Resistance -> pages
-- Expanded Kenaf Base Material -> pages
-- One-Motor Power Seats -> pages
-- Hydrogen power system -> pages
-- Driving Simulator -> pages
-- Proving Ground -> pages
+- Location: Harrodsburg, Kentucky -> db
+- Capabilities: Simultaneous Back-Injection Molding Technology, Fine Hold Stamping Method -> db
+- Products: Automobile Seats, Aircraft seats, Door Trims, Floor Carpets, Luggage Compartment, Exterior Components, Plastic Parts for ICE, Products for Electric Vehicles, Textile Components -> db
+- Description: Human factors and ergonomics-based seat development -> db
+- Global corporate website: toyota-boshoku.com -> /
+- Additional technologies: Foam In Place Method, Lightweight Molded Foam Door Trim, Driving Simulator, Proving Ground -> /
 </details>
 
 ---
@@ -302,64 +292,65 @@ Toyota Boshoku states that its development process is founded in human factors a
 **Old description:** Founded in 1989, Trademark Plastics, Inc. (TPI) is a U.S. based contract manufacturer specializing in
 
 ## About
-Founded in 1989 in Riverside, California, Trademark Plastics, Inc. (TPI) operates as a U.S.-based contract manufacturer specializing in custom plastic injection molding for the medical device, life science, and diagnostic industries.
+Trademark Plastics, Inc. (TPI) was founded in 1989 in Riverside, California, as a U.S.-based contract manufacturer focused on custom plastic injection molding for the medical device, life science, and diagnostic sectors. The privately held company began with a vision to achieve the highest manufacturing standards attainable and has grown to serve a global customer base.
 
-The company runs a 100,000-square-foot facility housing 51 injection molding machines ranging from 6 to 610 tons, supported by two ISO Class 8 cleanrooms and two controlled-environment white rooms. Its vertically integrated services span scientific molding (RJG-certified), mold design and validation, tool fabrication and lifecycle maintenance, assembly, kitting, packaging, and full IQ/OQ/PQ process validations. A staff of over 100 employees serves a global customer base that includes eight of the world's top 30 medical device OEMs, with prototyping available in as few as five days using aluminum or steel tooling.
+Today TPI operates a 100,000-square-foot facility housing 51 injection molding machines ranging from 6 to 610 tons, two ISO Class 8 cleanrooms, and two controlled-environment white rooms. The vertically integrated operation provides scientific molding (RJG-certified), mold design and validation using DFM, DOE, and Moldflow analysis, in-house tool fabrication, repair, and lifecycle maintenance, as well as assembly, kitting, packaging, and full IQ/OQ/PQ process validation. A staff of over 100 employees supports 24/7 high-volume production alongside rapid prototyping capabilities that deliver molded parts in as few as five days.
 
-TPI focuses on the healthcare sector, serving medical device, pharmaceutical, diagnostics, electronics, and consumer product markets. Its product portfolio includes custom medical components, in-vitro diagnostic (IVD) supplies, lab supplies, and consumer goods. The company emphasizes regulatory compliance, holding ISO 13485 certification, MedAccred accreditation, and adherence to FDA 21 CFR Part 820.
+The company serves the medical device, pharmaceutical, diagnostics, electronics, and consumer products industries. Its client list includes eight of the world's top 30 medical device OEMs, for whom it produces custom medical components, IVD supplies, and lab supplies under strict regulatory requirements.
 
-Since its inception, TPI has pursued a vision of achieving the highest attainable manufacturing standards. The firm differentiates itself through vertical integration from design-for-manufacturing through distribution, in-house metrology including a ZEISS Metrotom 800 CT scanner, and dedicated program management for each project.
+TPI differentiates itself through end-to-end program management, with dedicated program managers overseeing projects from concept through commercialization. Its quality system combines ISO 13485 certification, MedAccred accreditation, and FDA 21 CFR Part 820 compliance, backed by in-house metrology including a ZEISS Metrotom 800 CT scanner and OGP SmartScope systems. In-house tooling services promise custom molds in 60 days, and the company maintains a global footprint with facilities in the U.S. and China.
 
 ## Known for
-- Vertically integrated from DFM through packaging and distribution
-- RJG-certified scientific molding with 51 machines (6–610 tons)
+- Vertically integrated contract manufacturer with end-to-end solutions
+- Scientific molding expertise with RJG-certified Master Molders
 - Two ISO Class 8 cleanrooms and two controlled white rooms
-- In-house tooling with EDM, CNC vertical machining centers, and preventive maintenance
-- ZEISS Metrotom 800 CT scanner for x-ray level inspection
+- 51 injection molding machines (6–610 tons) with 24/7 production capability
+- In-house tooling delivering custom molds in 60 days
+- IQ/OQ/PQ validation and ZEISS Metrotom 800 CT inspection
+- Dedicated program managers for each project
 
 ## Capabilities
 - Custom plastic injection molding
 - Scientific molding (RJG-certified)
 - Mold design & validation (DFM, DOE, Moldflow)
 - Tool fabrication, repair, and lifecycle maintenance
-- Assembly, kitting, and packaging
-- IQ/OQ/PQ process validations
-- Rapid prototyping (aluminum and steel tooling, as fast as 5 days)
-- Cleanroom molding (ISO Class 8)
-- Metrology & inspection (CT scanning, optical CMM, dimensional gaging)
+- Assembly, kitting, packaging
+- IQ/OQ/PQ process validation
 - Full traceability and batch documentation
-- ERP-integrated production management (IQMS)
-- Automation integration and custom fixtures
-- PFMEA, control plans, and risk mitigation
-- Design-for-manufacturing consulting
-- Moldflow analysis
-- Preventive maintenance programs
+- Rapid prototyping (aluminum and steel tooling)
+- Project engineering and manufacturing optimization
+- Tool design engineering (DFM, part design, mold design)
+- In-house toolroom with EDM, CNC vertical machining centers, grinding, lathe, milling
+- Quality assurance with in-process monitoring and precision inspection
+- Metrology: ZEISS Metrotom 800 CT, OGP SmartScope Flash, digital height gage, bore gages, micrometers, moisture analyzer, force dial gages, durometers
+- SPC-enabled data collection
+- Cleanroom molding (ISO Class 8)
+- ERP-integrated production (IQMS)
 
 ## Industries
-- Medical Devices
+- Medical devices
 - Pharmaceutical
 - Diagnostics
 - Electronics
-- Consumer Products
-- Life Science
-- In-Vitro Diagnostics (IVD)
-- Lab Supplies
+- Consumer products
+- Life science
 
 ## Equipment
 - 51 injection molding machines (6–610 tons)
-- ZEISS Metrotom 800 CT scanner
-- 2× OGP SmartScope Flash with touch probe
-- Digital height gages, bore gages, micrometers
-- Moisture analyzer, force dial gages, durometers
 - EDM (Electric Discharge Machines)
 - CNC Vertical Machining Centers
 - Grinding, lathe, and milling machines
+- ZEISS Metrotom 800 CT scanner
+- 2x OGP SmartScope Flash with touch probe
+- Digital height gage, bore gages, micrometers
+- Moisture analyzer, force dial gages, durometers
+- IQMS ERP system
 
 ## Certifications
 - ISO 9001
 - ISO 13485
-- MedAccred accredited
-- FDA 21 CFR Part 820 compliant
+- MedAccred
+- FDA 21 CFR Part 820
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -369,27 +360,29 @@ Since its inception, TPI has pursued a vision of achieving the highest attainabl
 
 <details><summary>Sources</summary>
 
-- Founded 1989 -> /about
-- Headquarters Riverside, California -> /about
-- Contract manufacturer specializing in medical device, life science, diagnostic injection molding -> /about
-- 100,000 sq ft facility -> /about
-- 51 injection molding machines 6-610 tons -> /about
-- Two ISO Class 8 cleanrooms and two controlled white rooms -> /about
+- Founded in 1989 -> /about
+- Headquarters: Riverside, California -> /about
 - 100+ employees -> /about
-- Serves 8 of top 30 medical device companies -> /about
+- 51 injection molding machines 6-610 tons -> /about
+- 100,000 sq. ft. facility -> /about
+- Two ISO Class 8 cleanrooms and two controlled white rooms -> /about
 - ISO 13485 certified, MedAccred accredited, FDA 21 CFR Part 820 compliant -> /about
-- RJG-certified scientific molding -> /about
-- In-house tooling with EDM, CNC vertical machining centers -> /services
-- ZEISS Metrotom 800 CT scanner -> /about
-- Prototyping in as fast as 5 days -> /about
-- Custom molds in 60 days -> / (homepage)
-- Industries: medical devices, pharmaceutical, diagnostics, electronics, consumer products -> / (homepage)
-- Products: custom medical components, IVD supplies, lab supplies, consumer products -> / (homepage)
-- Vertical integration from DFM through distribution -> /about
-- Dedicated program managers -> /about
-- ISO 9001 certified -> / (homepage)
-- IQ/OQ/PQ validations -> /about
+- Scientific molding (RJG-certified) -> /about
+- Mold design & validation (DFM, DOE, Moldflow) -> /about
+- Tool fabrication, repair, lifecycle maintenance -> /about
+- Assembly, kitting, packaging -> /about
+- IQ/OQ/PQ process validation -> /about
 - Full traceability and batch documentation -> /about
+- Rapid prototyping in as fast as 5 days -> /
+- In-house tooling custom molds in 60 days -> /
+- Serves medical device, pharmaceutical, diagnostics, electronics, consumer products -> /
+- 8 of top 30 medical device companies -> /about
+- ZEISS Metrotom 800 CT scanner -> /about
+- OGP SmartScope Flash -> /about
+- Dedicated program managers -> /about
+- Global presence USA & China facilities -> /
+- ISO 9001 certification -> db
+- LinkedIn URL -> db
 </details>
 
 ---
@@ -399,36 +392,35 @@ Since its inception, TPI has pursued a vision of achieving the highest attainabl
 **Old description:** TratFab specializes in the custom fabrication of metal parts, tailored precisely to your project requirements. Utilizing our advanced CNC bending technology and servo-driven press brake, we guarantee exceptional precision and consistent quality in every piece. This cutting-edge equipment ensures unparalleled accuracy and repeatable results, enabling us to meet even the most complex specifications with ease. Trust TratFab to bring your designs to life with our expert metal forming services.
 
 ## About
-TratFab operates from Star, Idaho, as a family-owned metal fabrication shop founded by Tony. The company serves Southern Idaho and Eastern Oregon with custom architectural steel fabrication.
+TratFab operates from Star, Idaho, as a family-owned metal fabrication shop founded by Tony. The company serves Southern Idaho and Eastern Oregon, focusing on precision architectural metalwork for residential and commercial projects.
 
-The shop provides CNC laser cutting up to 3/4-inch thickness, CNC bending for simple and complex geometries, welding, and cutoff saw cutting. Equipment includes a Kratos Beam Crane for material handling, an Adira press brake, and a CNC laser system. TratFab produces custom steel accents, stairs, railings, doors, tables, and fences for both residential and commercial projects, handling limited runs and one-off pieces.
+The shop runs CNC laser cutting capable of processing steel up to 3/4 inch thick, CNC bending for simple and complex geometries, and welding, supported by a Kratos Beam Crane, an Adira press brake, a cutoff saw, and a CNC laser system. These capabilities allow TratFab to produce custom steel accents, stairs, railings, doors, tables, and fences.
 
-Customers range from construction firms to individual homeowners. Examples include custom metal office doors for a private residence, a complete stair system for a client, and steel components for Turner Wood Co. The company also supplies architectural accents for building projects across its service region.
+Customers range from construction firms and architects to individual homeowners and woodworking businesses such as Turner Wood Co. Projects have included custom metal office doors for a residence, structural steel components for a commercial build, and architectural accents for various installations across the region.
 
-TratFab emphasizes precision, on-budget and on-time delivery, and a collaborative approach that improves client designs through functional and aesthetic insight. The family-owned structure underpins a hands-on craftsmanship culture noted in customer testimonials.
+TratFab emphasizes delivering exceptional quality on budget and on schedule, leveraging advanced CNC technology to execute intricate designs with precision. The family-owned structure informs a hands-on approach where the founder works directly with clients to refine concepts through functional and aesthetic improvements.
 
 ## Known for
-- Precision architectural metal fabrication
-- CNC laser cutting up to 3/4" metal
-- CNC bending for simple and complex parts
-- Family-owned and operated
-- Serving Southern Idaho and Eastern Oregon
+- Delivers exceptional quality on budget and on time
+- CNC laser cutting up to 3/4" steel
+- CNC bending for simple and complex geometries
+- Family-owned with direct founder involvement
+- Serves Southern Idaho and Eastern Oregon
 
 ## Capabilities
-- CNC laser cutting
-- CNC metal bending
-- Steel fabrication
+- CNC Laser Cutting
+- CNC Metal Bending
 - Welding
-- Architectural metal fabrication
-- Custom metal part fabrication
-- Cutoff saw cutting
-- Material handling with overhead crane
+- Architectural Fabrication
+- Steel Fabrication
+- Custom Metal Fabrication
+- Architectural Accents
 
 ## Industries
 - Construction
+- Architectural
 - Residential
 - Commercial
-- Architectural
 
 ## Equipment
 - Kratos Beam Crane
@@ -443,15 +435,17 @@ TratFab emphasizes precision, on-budget and on-time delivery, and a collaborativ
 
 <details><summary>Sources</summary>
 
-- Location: Star, Idaho -> db
-- Family-owned -> / (TratFab, a Family Business)
-- Founder: Tony -> / (testimonials)
+- Located in Star, Idaho -> db
+- Family-owned business -> /
+- Founder Tony -> /
 - Services: CNC laser cutting, CNC bending, welding, architectural fabrication -> /
 - Equipment: Kratos Beam Crane, adira Bender, Cutoff Saw, CNC Laser -> /
-- Materials: steel up to 3/4" -> /
-- Industries: construction, residential, commercial -> /
-- Customer examples: Turner Wood Co, custom metal office doors, stair system -> /
-- Differentiators: precision, on budget/on time, custom solutions -> /
+- Serves Southern Idaho and Eastern Oregon -> /
+- Custom steel accents, stairs, railings, doors -> /
+- Customer examples: Turner Wood Co, custom metal office doors -> /
+- Precision architectural metal fabrication -> /
+- Advanced CNC Laser cutting and steel bending technologies -> /
+- Delivering exceptional quality on budget and on time -> /
 </details>
 
 ---
@@ -461,37 +455,37 @@ TratFab emphasizes precision, on-budget and on-time delivery, and a collaborativ
 **Old description:** Treasure Valley Steel, Inc was founded in Ontario, OR in 1982. We expanded our manufacturing capabilities by opening another facility in Boise, ID in 2003. As a leading manufacturer of quality roofing and siding products we provide superior service and competitive pricing, while remaining family owned and operated.
 
 ## About
-Treasure Valley Steel, Inc. was founded in 1982 in Ontario, Oregon, and expanded its manufacturing footprint with a second facility in Boise, Idaho, in 2003. The company remains family owned and operated.
+Treasure Valley Steel, Inc. was founded in 1982 in Ontario, Oregon, and expanded its manufacturing footprint with a second facility in Boise, Idaho, in 2003. The company remains family-owned and operated, with ownership passing through the founding family; reviews reference an owner named BJ. From its start as a regional steel fabricator, it has grown to serve customers across the Treasure Valley and eastern Oregon from two locations.
 
-The company produces metal roofing and siding panels in gauges ranging from 22 to 28, with finishes that include baked-on paint, Galvalume, and Corten self‑rusting steel. It maintains coil inventory on site and uses in‑house roll‑forming equipment to custom‑cut panels to length and fabricate matching trim. For standing‑seam projects requiring panels longer than 40 feet, Treasure Valley Steel offers on‑site roll forming at the job site. The firm operates showrooms at both its Oregon and Idaho locations.
+The company produces metal roofing and siding panels in 22-, 26-, and 28-gauge steel, with baked-on paint finishes, Galvalume coatings, and a 24-gauge self-rusting Corten option. It stocks coil inventory and runs in-house machinery to custom-cut panels to exact lengths and fabricate matching trim pieces. For standing-seam projects requiring panels longer than 40 feet, Treasure Valley Steel offers on-site roll forming at the job site. Both locations maintain showrooms and provide delivery to surrounding service areas.
 
-Its products serve the construction market, including residential builders, commercial contractors, and agricultural building projects. Customer reviews mention luxury tiny‑home builders, homeowners undertaking repair projects, and fastener distributors.
+Customers include residential and commercial builders, roofing contractors, and individual homeowners. The company has supplied materials for luxury tiny homes, chimney repairs, and custom home projects, and its cold-formed steel building systems serve agricultural and light-commercial structures. Its two locations in Boise and Ontario position it to serve southern Idaho and eastern Oregon markets.
 
-The company emphasizes competitive pricing, quick turnaround on custom orders, and a family‑owned service approach as its distinguishing factors.
+Treasure Valley Steel emphasizes its family-owned structure, competitive pricing, and quick turnaround on custom orders as differentiators. The ability to roll-form long standing-seam panels on-site reduces shipping constraints, while stocked coil and in-house cutting allow rapid fulfillment for both small and large projects.
 
 ## Known for
-- Family-owned and operated
-- Coil stocked for immediate custom cutting
-- On-site roll forming for long standing-seam panels
-- Delivery available to service areas
-- Showrooms at both locations
+- Family-owned and operated since 1982
+- Two manufacturing locations in Boise, ID and Ontario, OR
+- In-house custom cutting and trim fabrication
+- On-site roll forming for standing seam panels over 40 feet
+- Stocked coil in multiple gauges and finishes (baked-on paint, Galvalume, Corten)
 
 ## Capabilities
-- Roll forming
-- Custom cutting to length
+- Metal roofing panel manufacturing
+- Metal siding panel manufacturing
+- Custom panel cutting to length
 - Trim fabrication
-- On-site roll forming
-- Coil processing
-- Baked-on paint finishing
-- Galvalume coating
-- Concealed fastener panel production
-- Exposed fastener panel production
-- Corten steel panel production
-- Delivery
-- Showroom
+- On-site roll forming (standing seam)
+- Coil stocking and processing
+- Delivery service
+- Showroom sales
 
 ## Industries
-- Construction
+- Residential construction
+- Commercial construction
+- Roofing
+- Siding
+- Cold-formed steel buildings
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -501,17 +495,18 @@ The company emphasizes competitive pricing, quick turnaround on custom orders, a
 
 <details><summary>Sources</summary>
 
-- Founded in Ontario, OR in 1982 -> db
-- Expanded manufacturing capabilities with a facility in Boise, ID in 2003 -> db
-- Family owned and operated -> db
+- Founded in Ontario, OR in 1982 -> /about-us
+- Expanded to Boise, ID facility in 2003 -> /about-us
+- Family-owned and operated -> /about-us
 - Manufactures metal roofing and siding products -> /
-- Offers 22, 26, 28 gauge options, baked-on paint finishes, Galvalume coatings, concealed and exposed fastener panel profiles, 24 gauge Corten steel -> /about-us
-- Coil in stock, custom cut panels to length, fabricate trim pieces -> /about-us
-- Two locations: Boise, Idaho and Ontario, Oregon -> /
-- Offers delivery to many service areas -> /services
-- Provides on-site roll forming for standing seam panels longer than 40 feet -> /services
+- Offers 22, 26, 28 gauge steel with baked-on paint, Galvalume, Corten finishes -> /about-us
+- Custom cuts panels to length and fabricates trim -> /
+- On-site roll forming for standing seam panels over 40 feet -> /services
+- Delivery service to job sites -> /services
+- Two locations: Boise, ID and Ontario, OR -> /
+- Coil stock in multiple gauges and finishes -> /
 - Showrooms at both locations -> /services
-- Customer examples: luxury tiny home builders, homeowners, fastener distributors -> /
+- Cold-formed steel building systems -> /
 </details>
 
 ---
@@ -521,31 +516,32 @@ The company emphasizes competitive pricing, quick turnaround on custom orders, a
 **Old description:** At Tri-Star Molding, established in 2001, we pride ourselves on our continuous commitment to our customers in providing the best quality products at affordable prices.  We have an extensive customer base, spanning multiple industries with customers all over the world.
 
 ## About
-Tri-Star Molding Inc. was established in 2001 in Lewiston, Maine. Founded with a commitment to quality and affordability, the company has built a global customer base over more than two decades, operating as a plastic injection molding specialist from its facility on Lincoln Street.
+Founded in 2001, Tri-Star Molding operates from Lewiston, Maine, providing plastic injection molding services to a worldwide client base. The privately held company has built an extensive customer network spanning multiple continents.
 
-The company runs injection molding machines ranging from 80 to 400 tons, processing plastic and composite materials. Its product line includes commercial lobster fishing components such as vents and buoy sticks, shoe repair items like heels and heel plates, women's high heels, men's boot bases, trailer hitch-cap covers, and hand sewing tools. The firm notes it has the capacity to scale production to meet growing demand.
+The facility houses molding machines ranging from 80 to 400 tons, capable of processing a wide variety of plastic and composite materials. The company emphasizes its ability to scale production to meet growing demand while maintaining short lead times.
 
-Tri-Star Molding serves the commercial lobster fishing industry, footwear manufacturers and repair shops, trailer accessory makers, and hand tool producers. Its customers are located across the United States, Canada, China, Italy, the Dominican Republic, and other countries.
+Its product portfolio includes components for the commercial lobster fishing industry such as vents and buoy sticks, footwear parts like high heels, boot bases, and shoe repair items, as well as trailer hitch-cap covers and hand sewing aids. Customers are distributed across the United States, Canada, China, Italy, and the Dominican Republic.
 
-The company states its focus is on delivering quality parts at affordable prices with low turnaround times, backed by a globally trained team and decades of experience in plastic and composite molding.
+Tri-Star attributes its longevity to a commitment to quality at affordable prices, supported by a globally trained team and a focus on rapid turnaround.
 
 ## Known for
 - Injection molding machines from 80 to 400 tons
-- Capacity to scale production for growing needs
-- Low turnaround times
-- Global customer base including USA, Canada, China, Italy, Dominican Republic
-- Decades of experience in plastic and composite materials
+- Low turnaround times on production runs
+- Global customer base across North America, Europe, and Asia
+- Decades of experience with plastic and composite materials
+- Quality parts at affordable prices
 
 ## Capabilities
-- Plastic injection molding
-- Composite material molding
-- Custom molded components
+- Plastic injection molding (80-400 ton)
+- Composite material processing
+- Custom molded parts
+- Prototype to production runs
 
 ## Industries
 - Commercial lobster fishing
-- Footwear manufacturing and repair
-- Trailer accessories
-- Hand tools and sewing aids
+- Footwear
+- Trailer hitch accessories
+- Hand sewing tools
 
 ## Equipment
 - Injection molding machines (80-400 ton)
@@ -559,13 +555,13 @@ The company states its focus is on delivering quality parts at affordable prices
 
 - Founded in 2001 -> db
 - Headquarters in Lewiston, Maine -> db
-- Injection molding machines 80-400 ton -> /
-- Processes plastic and composite materials -> /
-- Products: lobster fishing components (vents, buoy sticks), shoe repair items, high heels, boot bases, trailer hitch-cap covers, hand sewing tools -> /
-- Industries served: commercial lobster fishing, footwear, trailer accessories, hand tools -> /
-- Global customers: USA, Canada, China, Italy, Dominican Republic -> /
-- Focus on quality parts at affordable prices with low turnaround times -> /
-- Globally trained team and decades of experience -> /
+- Injection molding machines 80-400 ton -> page /
+- Plastic and composite materials expertise -> page /
+- Industries: commercial lobster fishing, footwear, trailer hitch accessories, hand sewing tools -> page /
+- Global customers in USA, Canada, China, Italy, Dominican Republic -> page /
+- Commitment to quality products at affordable prices -> page /
+- Low turnaround times -> page /
+- Globally trained team -> page /
 </details>
 
 ---
@@ -575,36 +571,30 @@ The company states its focus is on delivering quality parts at affordable prices
 **Old description:** Since 1972, Tri-Angle Metal Fab has delivered precision sheet metal fabrication, CNC machined components, and NADCAP-certified welding — built to spec, built to last.
 
 ## About
-Tri-Angle Metal Fab has operated from Milton, Vermont since its founding in 1972. The family-owned business began as a small workshop in the early 1970s and has grown into a modern, full-capacity manufacturing facility serving customers regionally and nationally.
+Tri-Angle Metal Fab was founded in 1972 in Milton, Vermont, as a family-owned precision manufacturing company. What began as a small workshop has grown into a modern, full-capacity facility serving aerospace, defense, ordnance, electronics, and commercial markets.
 
-The company specializes in custom sheet metal fabrication, CNC machined components, and NADCAP-certified fusion welding. Its capabilities span CNC programming (3- and 4-axis), turning, milling, drilling, powder coating, sand blasting, part assembly, and brazed assemblies. Tri-Angle handles everything from R&D prototypes and low-volume runs to full-scale production of high-tolerance, mission-critical components.
+The company specializes in custom sheet metal fabrication, CNC machined components, and NADCAP-certified fusion welding. Its capabilities span machining, drilling, milling, CNC turning (3- and 4-axis), sand blasting, powder coating, brazing, and part assembly. The shop handles everything from R&D prototypes and low-volume runs to full-scale production, delivering high-tolerance, mission-critical components.
 
-Tri-Angle serves the aerospace, defense, ordnance, electronics, and commercial sectors. Customers rely on the shop for aerospace-grade welds, multi-axis machined parts, and complex fabrications that meet stringent performance and compliance requirements.
+Tri-Angle serves aerospace, defense, ordnance, electronics, and commercial industries. Customers rely on the company for aerospace-grade welds, multi-axis machined parts, and complex fabrications that meet strict compliance and performance requirements.
 
-The company emphasizes quality assurance through AS/ISO-certified systems, in-process inspections, and NADCAP welding standards. Its operating philosophy — “One Team, One Goal” — centers on collaborative partnerships, continual improvement via lean manufacturing and advanced process control, and a commitment to delivering parts on spec, on budget, and on schedule.
+The company emphasizes quality assurance through AS/ISO-certified systems, in-process inspections, and NADCAP welding standards. It differentiates itself through collaborative partnerships, continual improvement via lean manufacturing and advanced process control, and a commitment to delivering parts right the first time — on spec, on budget, and on schedule.
 
 ## Known for
 - NADCAP-certified fusion welding
-- AS/ISO-certified quality management systems
-- Lean manufacturing and advanced process control
-- Family-owned with over 50 years of experience
-- Delivers parts on spec, on budget, and on schedule
+- AS/ISO-certified quality systems with in-process inspections
+- Collaborative partnerships that enhance product value
+- Continual improvement through lean manufacturing and advanced process control
+- On-time delivery: parts right the first time, on spec, on budget, on schedule
 
 ## Capabilities
 - Custom sheet metal fabrication
-- CNC machining (milling, drilling, turning)
-- CNC programming (3- and 4-axis)
+- CNC machining (3- and 4-axis milling/turning)
 - NADCAP-certified fusion welding
 - Powder coating / finishing
 - Sand blasting (small parts)
-- Part assembly
 - Brazed assemblies
-- R&D prototyping
-- Low-volume production
-- Full-scale production
-- Multi-axis machined parts
-- High-tolerance component manufacturing
-- In-process inspection
+- Part assembly
+- CNC programming
 
 ## Industries
 - Aerospace
@@ -629,18 +619,17 @@ The company emphasizes quality assurance through AS/ISO-certified systems, in-pr
 
 <details><summary>Sources</summary>
 
-- Founded 1972 -> db
+- Founded 1972 in Milton, Vermont -> /about-us
 - Family-owned -> /about-us
-- Headquarters Milton, Vermont -> /about-us
-- Services: custom sheet metal fabrication, CNC machined components, NADCAP-certified fusion welding -> /about-us
-- Industries: aerospace, defense, ordnance, electronics, commercial -> /about-us
-- Certifications: NADCAP, ITAR -> db
-- Facility: modern, full-capacity manufacturing facility -> /about-us
+- Specializes in custom sheet metal fabrication, CNC machined components, NADCAP-certified fusion welding -> /about-us
+- Capabilities: machining, drilling, milling, CNC turning, sand blasting, powder coating, brazing, assembly -> db, /about-us
+- Serves aerospace, defense, ordnance, electronics, commercial -> /, /about-us
 - Quality systems: AS/ISO-certified, in-process inspections, NADCAP welding standards -> /about-us
-- Volume range: R&D prototypes to full-scale production -> /about-us
-- Equipment: Lathes/CNC Turning Centers, Sand Blasting -> db
-- Philosophy: One Team, One Goal; collaborative partnerships; continual improvement; customer satisfaction -> /about-us
-- Export compliance: ITAR -> /about-us
+- Differentiators: collaborative partnerships, continual improvement, lean manufacturing, on-time delivery -> /about-us
+- Certifications: NADCAP, ITAR -> db
+- Equipment: Lathes/CNC Turning Centers, Sand Blasting (Small Parts) -> db
+- Volume: R&D prototypes, low-volume runs, full-scale production -> /about-us
+- Social: Facebook, Instagram mentioned -> /about-us
 </details>
 
 ---

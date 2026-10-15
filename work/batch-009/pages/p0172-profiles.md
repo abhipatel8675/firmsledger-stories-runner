@@ -3,43 +3,41 @@
 **Old description:** Excel Connection specializes in heavy gauge cable and can cut, strip and crimp up to 777 MCM, meeting UL pull test requirements up to 1,000 lbs.
 
 ## About
-Based in Milwaukee, Wisconsin, Excel Connection Inc. was founded in 1987. The company operates a 30,000-square-foot manufacturing facility with the potential to expand an additional 30,000 square feet as demand grows.
+Founded in 1987 in Milwaukee, Wisconsin, Excel Connection Inc. operates a 30,000-square-foot manufacturing facility on South 9th Street with room to expand by an additional 30,000 square feet. The company has served customers nationwide for nearly four decades, building a reputation for custom wire and cable solutions.
 
-Excel Connection manufactures lead wires, wire harnesses, cable assemblies, ribbon cables, coaxial cables, fiber optics, power cables, heavy gauge cables up to 777 MCM, and electro-mechanical panels. Its capabilities include automated wire cutting, stripping, crimping, soldering (RoHS and lead-based per IPC/WHMA-A-620), wire marking, braiding, MIL-spec protective coatings, potting, ultrasonic splicing, panel box and DIN rail assembly, coil cord fabrication, and vendor-managed stocking programs. The facility houses automated wire processing machinery, induction soldering, HIPOT testing, and hydraulic equipment for heavy gauge cable processing.
+The company produces lead wires, wire harnesses, cable assemblies, ribbon cables, coaxial cables, fiber-optic cables, power cables, heavy-gauge cables up to 777 MCM, and electro-mechanical panel assemblies. Its automated equipment handles wire cutting, stripping, crimping, soldering, marking, braiding, loom installation, MIL-spec protective coatings, ultrasonic splicing, epoxy potting, and high-voltage (HIPOT) and pull-force testing up to 1,000 pounds. Value-added services include material kitting, vendor-managed inventory programs, prototyping, and same-day service on select orders.
 
-The company serves customers nationwide and internationally, with explicit experience in alternative energy and medical manufacturing sectors. It handles projects ranging from high-volume simple lead wires to low-quantity complex harnesses.
+Excel Connection serves diverse industries, with explicit experience in alternative energy and medical manufacturing. Its customer base ranges from OEMs requiring high-volume simple lead wires to clients needing low-quantity, complex harness assemblies for industrial and commercial applications.
 
-Excel Connection emphasizes fast, on-time delivery, same-day service for stocked parts, and quality certifications including ISO 9001:2015 and IPC-620 certified personnel. Its vendor-managed stocking programs target 99% on-time delivery and reduced customer inventory costs.
+The company emphasizes fast, on-time delivery, quick turnaround times, and engineering support as key differentiators. Its quality system is certified to ISO 9001:2015, and personnel are trained to IPC/WHMA-A-620 standards for both RoHS-compliant and lead-based soldering. Bilingual support in English and Spanish further extends its national and international reach.
 
 ## Known for
-- Same-day service for stocked parts
-- Vendor-managed stocking programs with 99% on-time delivery guarantee
-- Automated wire processing up to 777 MCM with UL pull-test certification up to 1,000 lbs
-- IPC/WHMA-A-620 certified soldering (RoHS and lead-based)
-- Custom hydraulic equipment for heavy gauge cable cutting, crimping, and pull testing
+- Same-day service on select orders
+- Vendor-managed inventory programs with automated scheduling
+- Automated wire processing up to 777 MCM with UL pull-test certification to 1,000 lbs
+- ISO 9001:2015 and IPC/WHMA-A-620 certified quality system
+- Bilingual (English/Spanish) customer support
 
 ## Capabilities
 - Cable assembly
 - Wire harness assembly
 - Lead wire assembly
 - Electro-mechanical assembly
-- Wire cutting (24 gauge to 777 MCM)
-- Wire stripping
-- Crimping (automated crimp monitoring presses, hydraulic crimpers)
-- Soldering (RoHS and lead-based per IPC/WHMA-A-620)
+- Heavy gauge cable processing (up to 777 MCM)
+- Wire cutting and stripping (24 gauge to 777 MCM)
 - Wire marking (inkjet printing, Brady labels, heat shrink ID)
-- Braiding / loom protective coverings
+- Braiding and loom protective coverings
 - MIL-spec protective coatings
-- Potting / feed-through epoxy
-- Ultrasonic splicing with dual wall adhesive heat shrink
-- Panel box / DIN rail assembly (switches, relays, transformers, terminal blocks per UL)
-- Coil cord and plug assemblies (custom cord sets, coil cords, power cords)
+- Feed-through epoxy/potting
+- Ultrasonic splicing and sonic welding
+- Panel box and DIN rail assembly
+- Coil cord and plug assembly
+- Pull force testing and certification (up to 1,000 lbs)
+- HIPOT (high voltage) testing
+- Circuit testing on assembly boards
+- Soldering (RoHS and lead-based per IPC/WHMA-A-620)
 - Material and parts kitting
 - Vendor-managed stocking programs
-- Pull force testing and certification (up to 1000 lbs, HIPOT testing)
-- Circuit testing on assembly boards
-- Induction soldering
-- Automated wire processing machinery (strips, terminates, solders)
 - Prototyping services
 
 ## Industries
@@ -51,15 +49,17 @@ Excel Connection emphasizes fast, on-time delivery, same-day service for stocked
 - Induction soldering equipment
 - HIPOT testing equipment
 - Braiding equipment
+- Circuit testing on assembly boards
 - Cable cutting and crimping tools (up to 777 MCM)
-- 15,000 lb and 6,000 lb forklifts
+- 15,000 lb. and 6,000 lb. forklifts
 - Automated crimp monitoring presses
-- Hydraulic crimpers
-- Custom hydraulic equipment for heavy gauge cable
+- Hydraulic crimpers with pre-pull and post-pull testing
+- Custom hydraulic equipment for cutting, crimping, pull testing up to 777 MCM
+- State-of-the-art automated wire and cable cutting equipment
 
 ## Certifications
 - ISO 9001:2015
-- RoHS
+- IPC/WHMA-A-620
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -68,19 +68,26 @@ Excel Connection emphasizes fast, on-time delivery, same-day service for stocked
 
 <details><summary>Sources</summary>
 
-- Founded 1987 -> db, /about-us
-- Headquarters Milwaukee, WI -> db, /about-us
-- Facility size 30,000 sq ft -> /about-us
-- Certifications ISO 9001:2015, IPC-620, RoHS -> /, /about-us
-- Capabilities list -> /capabilities
-- Industries served Alternative Energy, Medical Manufacturer -> db
-- Languages English, Spanish -> /about-us
-- Same-day service -> /
-- Vendor-managed stocking with 99% on-time delivery -> /capabilities
-- Equipment: automated wire processing, induction soldering, HIPOT, braiding, hydraulic cutters/crimpers up to 777 MCM, forklifts -> /capabilities
-- Heavy gauge cable up to 777 MCM, UL pull test up to 1,000 lbs -> description, /capabilities
-- Products: lead wires, wire harnesses, cable assemblies, ribbon cables, coaxial cables, fiber optics, power cables, electro-mechanical panels -> /about-us
-- Volume range high-volume to low-volume -> /about-us
+- Founded 1987 -> db founded_year and /about-us 'Year Established 1987'
+- Headquarters Milwaukee, WI -> db hq_city/hq_state_label and /about-us address
+- Facility size 30,000 sq ft with expansion potential -> /about-us
+- Product range (lead wires, harnesses, cable assemblies, etc.) -> /about-us
+- Heavy gauge cable up to 777 MCM -> /capabilities and db description
+- UL pull test up to 1,000 lbs -> db description and /capabilities
+- Automated wire processing capabilities -> /capabilities
+- Wire marking (inkjet, Brady labels, heat shrink) -> /capabilities
+- Braiding/loom, MIL-spec coatings, ultrasonic splicing, epoxy potting -> /capabilities
+- Panel box/DIN rail assembly, coil cords, plugs -> /capabilities
+- Pull force testing, HIPOT testing, circuit testing -> /capabilities
+- Soldering per IPC/WHMA-A-620 (RoHS and lead-based) -> /capabilities
+- Material kitting, vendor-managed stocking, prototyping -> /capabilities and db capabilities
+- Same-day service -> / (home page) 'Offering same-day service'
+- ISO 9001:2015 certified -> / and /about-us
+- IPC-620 certified personnel -> / and /about-us
+- Languages English and Spanish -> /about-us
+- Industries: Alternative Energy, Medical Manufacturer -> db industries_served
+- Equipment list -> /capabilities
+- LinkedIn URL -> db linkedin_url
 </details>
 
 ---
@@ -90,37 +97,36 @@ Excel Connection emphasizes fast, on-time delivery, same-day service for stocked
 **Old description:** is a custom injection molding company specializing in the development and manufacturing of plastic component parts and products.  Our objective is to provide our customers with a competitive advantage in their industries. We accomplish this by assisting with great product design and development and by delivering exceptional quality, service, and on-time delivery at a fair price.  We have assisted our customers in bringing innovative products from concept to market for a wide variety of industries including electrical, water filtration, appliance, lawn & garden, medical, lighting, consumer products, building & construction, and recreational products.
 
 ## About
-Excel Injection Molding was founded in 1995 by John Robinson, CEO, and Randy White, Plant Manager, in Hattiesburg, Mississippi. The company began with 12 employees, six presses, and a 6,000-square-foot building.
+Excel Injection Molding was founded in 1995 by John Robinson, CEO, and Randy White, Plant Manager, in Hattiesburg, Mississippi. The company began with 12 employees, six presses, and a 6,000‑square‑foot building.
 
-Today the firm operates a 45,000-square-foot, Class A facility in the Hattiesburg Mississippi Industrial Park, running 21 presses with a staff of over 60. It provides custom injection molding of plastic components and products, guided by scientific molding principles. Services span product design, design-for-manufacturability analysis, CAD support, material selection, tooling design and construction (both in-house and through strategic partners), prototyping, and secondary operations such as assembly, decorating, and machining, often performed at the press to reduce handling.
+Today the firm operates a 45,000‑square‑foot, Class A facility in the Hattiesburg Mississippi Industrial Park, running 21 presses with a staff of over 60. It provides end‑to‑end product development — design, manufacturability analysis, CAD support, material selection, tooling design and construction, prototyping, and production — along with scientific injection molding, in‑house tooling, and secondary operations such as assembly, decorating, machining, and custom automation fixtures.
 
-The company serves a diversified customer base across electrical, water filtration, appliance, lawn and garden, medical, lighting, consumer products, building and construction, and recreational products industries. Clients range from startups bringing concepts to market to established manufacturers seeking long-term production partnerships.
+The company serves a diversified customer base across electrical, water filtration, appliance, lawn and garden, medical, lighting, consumer products, building and construction, and recreational industries. Many of its original clients remain active partners, reflecting a focus on long‑term relationships.
 
-The leadership emphasizes a vested interest in each customer's success and profitability, a philosophy that has retained most of its original customers for decades.
+Excel was established to give customers a competitive advantage through exceptional quality, reliable on‑time delivery, and fair pricing — a founding objective that still guides daily operations.
 
 ## Known for
 - Scientific molding principles for quality and repeatability
-- In-house tooling operation backed by strategic mold-building partners
-- Secondary operations (assembly, decorating, machining) often performed at the molding machine
-- Custom equipment and fixtures built for automation and efficiency
-- Long-term customer partnerships; most original customers remain active
+- In‑house tooling design and build capability
+- Secondary operations integrated at the press to reduce handling
+- Custom automation fixtures and equipment built internally
 
 ## Capabilities
-- Custom injection molding
-- Scientific molding
-- Product design and development
+- Product design
 - Design for manufacturability analysis
 - CAD support
 - Material selection
-- Tooling design and building
-- In-house tooling operation
+- Tooling design
+- Tool building
 - Prototyping
+- Injection molding
+- Scientific molding
+- Automation
 - Assembly
 - Decorating
 - Machining
-- Post-molding operations
+- Post‑molding operations
 - Custom equipment and fixture building
-- Automation integration
 
 ## Industries
 - Electrical
@@ -136,22 +142,21 @@ The leadership emphasizes a vested interest in each customer's success and profi
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1995
-- **Employees:** 60+
-- **Ownership:** Private
+- **Employees:** over 60
 - **Headquarters:** Hattiesburg, Mississippi
 
 <details><summary>Sources</summary>
 
-- Founded in 1995 by John Robinson and Randy White in Hattiesburg, Mississippi -> /about
+- Founded in 1995 by John Robinson and Randy White -> /about
 - Started with 12 employees, 6 presses, 6,000 sq ft building -> /about
-- Now employs over 60, operates 21 presses in 45,000 sq ft Class A facility -> /about
-- Custom injection molding of plastic components and products -> /
-- Services: product design, DFM analysis, CAD support, material selection, tooling design/build, prototyping, secondary operations (assembly, decorating, machining) -> /services
-- In-house tooling operation with strategic mold building partners -> /services
-- Scientific molding principles, automation, continuous improvement -> /services
+- Current facility 45,000 sq ft, Class A, 21 presses, over 60 employees -> /about
 - Industries served: electrical, water filtration, appliance, lawn & garden, medical, lighting, consumer products, building & construction, recreational products -> /
-- Founding objective: best value through exceptional quality, on-time delivery, competitive price -> /about
-- Long-term partnerships; most original customers remain -> /about
+- Services: product development, injection molding, tooling/molds, secondary operations -> /services
+- Scientific molding, automation, best manufacturing practices, continuous improvement -> /services
+- In-house tooling operation and strategic mold building partners -> /services
+- Secondary operations: assembly, decorating, machining, custom equipment/fixtures -> /services
+- Founding objective: best value through exceptional quality, service, on-time delivery, competitive price -> /about
+- Long-term partnerships, most original customers remain -> /about
 </details>
 
 ---
@@ -161,46 +166,43 @@ The leadership emphasizes a vested interest in each customer's success and profi
 **Old description:** Excel Manufacturing Inc. provides precision machining to a variety of industries including Energy, Aviation, Defense, Deep Sea, and Military. We take your requirements and provide the highest quality results.
 
 ## About
-Excel Manufacturing Inc. was established in 1992 in Albuquerque, New Mexico. The company provides precision machining, fabrication, and full inspection services to customers nationwide.
+Excel Manufacturing Inc. was established in 1992 in Albuquerque, New Mexico. The company has operated from its headquarters in the city for over three decades, building a reputation for precision machining, fabrication, and full inspection services.
 
-The shop specializes in CNC machining with capabilities that include multi-tasking machining, 5-axis milling, Swiss turning, CNC turning, and electrical discharge machining (EDM). It handles both prototype and production runs, supported by programming and process development. Value-added services such as fabrication, sheet metal work, welding, plating, heat treating, surface and cylindrical grinding, and waterjet cutting are coordinated through a network of qualified subcontractors. Inspection is performed on a Zeiss Contura Select coordinate measuring machine (27.56" x 39.3" x 23.64"), Trimos digital height gages, optical comparators, and a profilometer, with calibration traceable to NIST standards.
+The shop delivers versatile, state-of-the-art machining services including programming and process development, multi-tasking machining, 5-axis milling, Swiss turning, CNC turning, and electrical discharge machining. It handles both prototype and production runs, and supplements its in-house capabilities with a network of quality-conscious partners for fabrication, sheet metal, welding, plating, heat treating, grinding, and waterjet cutting. The facility operates a Zeiss Contura Select coordinate measuring machine (27.56″ × 39.3″ × 23.64″), Trimos digital height gages, optical comparators, and a profilometer for surface roughness analysis, all calibrated to NIST-traceable standards.
 
-Excel serves the energy, aviation, defense, deep sea, military, electronics, and commercial research-and-development sectors. Its customer base includes organizations requiring ITAR-compliant manufacturing for sensitive projects.
+Excel serves customers nationwide across energy, aviation, defense, deep sea, military, electronics, and other commercial industries with research and development, prototype, and production programs. Its client base includes companies and organizations requiring ITAR-compliant handling of sensitive projects.
 
-The company emphasizes its ITAR registration, which it says exceeds requirements, and a quality management system built on continuous improvement. All products are manufactured 100% in the United States, and the firm aims to build long-term relationships through on-time delivery and tight-tolerance work.
+The company emphasizes its ITAR registration, NIST-traceable calibration, and a quality management system that encompasses first article, in-process, and final inspection. Founded on a commitment to on-time delivery and long-term relationships, Excel Manufacturing positions itself as a domestic source for high-precision components with tight tolerances.
 
 ## Known for
-- ITAR registered and exceeds regulatory requirements
-- NIST-traceable calibration with unbroken chain of measurement
-- 100% domestic manufacturing in the United States
-- Multi-tasking machining including 5-axis milling and Swiss turning
-- Partner network for fabrication, welding, plating, heat treating, grinding, and waterjet cutting
+- ITAR registered for defense and sensitive projects
+- NIST-traceable calibration and inspection
+- 100% U.S. manufacturing
+- 30+ years of precision machining experience
+- Partner network for fabrication, welding, plating, heat treating, grinding, waterjet cutting
 
 ## Capabilities
-- CNC milling (5-axis)
-- CNC turning (Swiss)
-- Multi-tasking machining
-- Electrical discharge machining (EDM)
-- Prototype machining
-- Production machining
-- Programming & process development
-- Fabrication
-- Sheet metal fabrication
-- Welding
-- Plating
-- Heat treating
-- Surface grinding
-- Cylindrical grinding
-- Waterjet cutting
-- Coordinate measuring machine (CMM) inspection
-- Height gage inspection
-- Optical comparator inspection
-- Surface roughness analysis
-- First article inspection
-- In-process inspection
-- Final inspection
-- Calibration services
-- Quality management system
+- Programming & Process Development
+- Multi-Tasking Machining
+- 5-Axis Milling
+- Swiss Turning
+- CNC Turning
+- Electrical Discharge Machining (EDM)
+- Prototyping
+- Production Machining
+- Fabrication (via partners)
+- Sheet Metal (via partners)
+- Welding (via partners)
+- Plating (via partners)
+- Heat Treating (via partners)
+- Grinding (surface and cylindrical) (via partners)
+- Waterjet Cutting (via partners)
+- First Article Inspection
+- In-Process Inspection
+- Final Inspection
+- NIST-Traceable Calibration
+- Quality Management System
+- ITAR Compliance
 
 ## Industries
 - Energy
@@ -210,13 +212,13 @@ The company emphasizes its ITAR registration, which it says exceeds requirements
 - Military
 - Electronics
 - Commercial R&D
-- Prototype
-- Production
+- Prototype Programs
+- Production Programs
 
 ## Equipment
-- Zeiss Contura Select Coordinate Measuring Machine (27.56" x 39.3" x 23.64")
-- Trimos Digital Precision Height Gage
-- Optical Comparator
+- Zeiss Contura Select Coordinate Measuring Machine (27.56″ x 39.3″ x 23.64″)
+- Trimos Digital Precision Height Gage(s)
+- Optical Comparator(s)
 - Profilometer (Surface Roughness Analyzer)
 
 ## Certifications
@@ -229,18 +231,16 @@ The company emphasizes its ITAR registration, which it says exceeds requirements
 
 <details><summary>Sources</summary>
 
-- Founded 1992 in Albuquerque, NM -> /
-- ITAR registered -> /, /about-us, /quality
-- NIST-traceable calibration -> /, /quality
-- Capabilities: CNC machining, multi-tasking, 5-axis milling, Swiss turning, CNC turning, EDM, prototype, production, programming & process development -> /
-- Value-added services: fabrication, sheet metal, welding, plating, heat treating, grinding, waterjet cutting -> /
-- Industries: Energy, Aviation, Defense, Deep Sea, Military, Electronics, Commercial R&D, Prototype, Production -> /
+- Established in 1992 in Albuquerque, New Mexico -> /
+- ITAR registered -> /
+- NIST-traceable calibration -> /quality
+- Precision machining services: CNC milling, turning, EDM, multi-tasking, 5-axis, Swiss -> /
+- Industries served: Energy, Aviation, Defense, Deep Sea, Military, Electronics -> /
 - Equipment: Zeiss Contura Select CMM, Trimos Height Gage, Optical Comparator, Profilometer -> /quality
-- 100% made in USA -> /, /about-us
-- Headquarters Albuquerque, NM -> /, /about-us
-- Quality management system -> /quality
-- Inspection procedures: first article, in-process, final -> /quality
-- Calibration procedures -> /quality
+- Value-added services via partners: fabrication, sheet metal, welding, plating, heat treating, grinding, waterjet cutting -> /
+- Quality management system with first article, in-process, final inspection -> /quality
+- Made 100% in USA -> /
+- Over 30 years of industry experience -> /
 </details>
 
 ---
@@ -250,64 +250,68 @@ The company emphasizes its ITAR registration, which it says exceeds requirements
 **Old description:** Experienced Solar is a licensed electrical contractor, specializing in bringing residential, commercial and industrial customers the many benefits of tailored solar systems. Our mission is to engineer, design and install the longest-lasting grid-tied and remote solar systems, ensuring our customers get maximum return on their investment in clean, renewable energy. Set up a customized, on-site evaluation with us today to start unlocking the benefits of our solar systems in Albuquerque, NM!
 
 ## About
-Experienced Solar is based in Albuquerque, New Mexico. The company was founded in 2015 by Kevin Goodreau, who brought 16 years of experience from his earlier venture, Direct Power & Water Corporation (DPW), started in 1993. In 2022, Goodreau’s son-in-law Mike Rogers acquired the business, continuing the legacy of the same core team that had made DPW a success.
+Experienced Solar is based in Albuquerque, New Mexico. The company was founded in 2015 by Kevin Goodreau, who brought 16 years of experience from his previous venture, Direct Power & Water Corporation (DPW), started in 1993. Goodreau served as CEO until 2022, when his son-in-law Mike Rogers acquired the business. A core team of professionals from DPW continues to operate under the Experienced Solar name.
 
-The firm operates as a licensed electrical contractor (EE98 #390475) and a NABCEP-certified PV installer, providing turnkey design, engineering, and installation of grid-tied and remote solar systems for residential, commercial, and industrial clients. Services include site evaluation, custom engineering of autonomous solar arrays, solar carport construction, and integration of Generac generators and PWRcell energy storage. The company reports having completed hundreds of grid-tied installations over a decade with a sub-1% issue rate.
+As a licensed electrical contractor (EE98 #390475) and a NABCEP-certified PV installer, Experienced Solar engineers, designs, and installs grid-tied and remote solar electric systems for residential, commercial, and industrial clients. The firm also supplies and installs Generac generators and PWRcell energy storage systems. Every project is handled turnkey, from initial site survey and electrical load analysis through custom system engineering, permitting, installation, and commissioning. The company emphasizes precise array tilt and azimuth calculations to maximize energy production, and reports having completed hundreds of grid-tied installations with a sub‑1% issue rate over a decade.
 
-Experienced Solar serves customers across Albuquerque and surrounding communities in Bernalillo, Sandoval, Cibola, Valencia, Torrance, Santa Fe, and other New Mexico counties. Commercial clients include businesses seeking payback periods of three to five years through federal tax credits, MACRS depreciation, and gross receipts tax exemptions. The company also designs remote autonomous systems for off-grid applications.
+The customer base spans Albuquerque and a wide surrounding region including Santa Fe, Rio Rancho, Los Lunas, and numerous pueblos and counties across central New Mexico. Commercial clients range from small businesses to large-scale real estate developments, with the company highlighting solar carport structures that provide both shade and power generation. Residential and remote off‑grid installations round out the portfolio.
 
-The company differentiates itself through its emphasis on detailed site surveys—checking feeder cables, transformer sizing, panel bus ampacity, and roof conditions—before any proposal. Its founders cite competence in design and installation as critical to long-term performance, backed by direct customer access before, during, and after projects.
+Experienced Solar differentiates itself through a rigorous site‑survey process that evaluates feeder cables, transformer capacity, panel bus‑bar ampacity, and roof or ground conditions before any proposal. The firm promotes direct, ongoing customer access before, during, and after installation, and targets commercial payback periods of three to five years by leveraging federal tax credits, MACRS depreciation, and state gross‑receipts‑tax exemptions.
 
 ## Known for
-- Licensed electrical contractor (EE98 #390475)
-- NABCEP Certified PV Installer
-- Turnkey design and installation from conception to fruition
-- Custom-engineered remote autonomous solar systems for maximum ROI
-- Free consultation including electric bill analysis and peak demand charge identification
+- Turnkey project management from site survey through commissioning
+- NABCEP‑certified PV installation and licensed electrical contracting
+- Custom array tilt and azimuth engineering for maximum production
+- Direct customer access throughout the project lifecycle
+- Commercial payback periods of 3–5 years via tax incentives and depreciation
 
 ## Capabilities
-- Solar system design
-- Solar system engineering
-- Solar installation
-- Grid-tied solar systems
-- Remote/off-grid solar systems
-- Solar carport installation
-- Commercial solar services
-- Site evaluation and survey
-- Electric bill analysis
+- Solar system engineering and design
+- Grid-tied solar installation
+- Remote/off-grid solar installation
+- Electrical contracting (EE98 #390475)
+- NABCEP-certified PV installation
+- Site survey and electrical load analysis
+- Custom array tilt and azimuth calculation
+- Solar carport design and installation
 - Generac generator installation
-- PWRcell clean energy systems
+- PWRcell energy storage installation
 - Turnkey project management
+- Permitting and commissioning
+- Commercial solar financial analysis (tax credits, MACRS)
 
 ## Industries
-- Residential solar
-- Commercial solar
-- Industrial solar
-- Renewable energy
-- Electrical contracting
+- Residential
+- Commercial
+- Industrial
+- Commercial real estate
 
 ## Certifications
-- Licensed electrical contractor (EE98 #390475)
-- NABCEP Certified PV Installer
+- North American Board of Certified Energy Practitioners (NABCEP) Certified PV Installer
+- Licensed Electrical Contractor (EE98 #390475)
 
 ## Company details
 - **Company Type:** Installer / service company
 - **Founded:** 2015
+- **Ownership:** Founded by Kevin Goodreau; acquired by son-in-law Mike Rogers in 2022
 - **Headquarters:** Albuquerque, New Mexico
 
 <details><summary>Sources</summary>
 
 - Founded in 2015 by Kevin Goodreau -> /about
-- Mike Rogers bought the business in 2022 -> /about
-- Licensed electrical contractor (EE98 #390475) -> /
+- Sold to Mike Rogers in 2022 -> /about
+- Licensed electrical contractor EE98 #390475 -> /
 - NABCEP Certified PV installer -> /
-- Turnkey design, engineering, installation of grid-tied and remote solar systems -> /
-- Services include site evaluation, custom engineering, solar carports, Generac generators, PWRcell -> /, /services
-- Hundreds of grid-tied installations over a decade with sub-1% issue rate -> /
-- Serves Albuquerque and surrounding counties -> /
-- Commercial payback periods 3-5 years, tax credits, MACRS -> /services
-- Emphasis on detailed site surveys (feeder cables, transformer, bus ampacity, roof conditions) -> /
-- Direct customer access before, during, after projects -> /
+- Serves residential, commercial, industrial customers -> /
+- Offers Generac generators and PWRcell clean energy -> /
+- Turnkey solar system design and installation -> /
+- Commercial solar carports -> /services
+- Payback periods 3-5 years for commercial -> /services
+- Free consultation includes electric bill analysis -> /services
+- Headquartered in Albuquerque, NM -> db
+- More than 20 years of expertise (Goodreau) -> /
+- Hundreds of grid-tied systems with <1% problems -> /
+- Core team from DPW -> /about
 </details>
 
 ---
@@ -317,45 +321,46 @@ The company differentiates itself through its emphasis on detailed site surveys�
 **Old description:** Exponent Assembly is based in Carrollton, Texas. Our contract manufacturing was founded in 1996, and since then, Exponent Assembly has maintained its reputation for customer and quality service.
 
 ## About
-Exponent Assembly is based in Carrollton, Texas. The contract manufacturing company was founded in 1996 and has since built a reputation for customer service and quality. The business does not disclose its founders or ownership structure, but notes that its team brings a combined 50-plus years of experience in electronics contract manufacturing.
+Exponent Assembly operates from Carrollton, Texas, where it was founded in 1996 as a contract manufacturing business. The company has built a reputation for customer service and quality over nearly three decades.
 
-The company provides a full range of electronics manufacturing services, including printed circuit board assembly (surface-mount, through-hole, and mixed technology), electromechanical assembly, wire harness and cable assembly, and box-build integration. Its capabilities extend to design and engineering, new product introduction, rapid prototyping, test development, inventory management, and component procurement. Equipment includes pick-and-place machines rated at 30,000 parts per hour, selective and wave soldering systems, 2D/3D automated optical inspection, and 3D solder paste inspection. Production volumes span from prototype runs to medium-to-large quantities, described as hundreds to thousands of boards per order.
+The shop specializes in printed circuit board assembly, offering surface-mount, through-hole, and mixed-technology processes with pick-and-place equipment rated at 30,000 parts per hour. It handles prototyping through medium-to-large volume runs (hundreds to thousands of boards), and provides electromechanical assembly including wire harnesses, cable assemblies, and box builds. Additional capabilities include selective and wave soldering, automated optical inspection (2D/3D), 3D solder paste inspection, test development, rework, and repair. The facility also supports consignment, turnkey, and semi-turnkey procurement models.
 
-Exponent Assembly serves customers in automotive, audio-visual, surveillance and optics, defense, computer and electronics, and industrial equipment sectors. Clients range from companies needing quick-turn prototyping to those requiring complete turnkey solutions with traceable sourcing and scheduled deliveries.
+Exponent serves customers in automotive, audio-visual, surveillance and optics, defense, computer and electronics, and industrial equipment sectors. Clients range from companies needing quick-turn prototypes to those requiring full turnkey production with inventory management and traceability.
 
-The company emphasizes a quality management system certified to ISO 9001:2015, with adherence to IPC-A-610 and J-STD-001 workmanship standards and ESD S20.20 handling procedures. Its stated goal is 100-percent on-time delivery backed by an experienced, flexible staff that aims to deliver cost-effective, high-quality products.
+The company states its primary goal is maintaining high quality control with 100% on-time delivery, backed by an ISO 9001:2015 quality system, IPC-A-610 and J-STD-001 certified staff, and ESD S20.20 compliant handling. A team with a combined 50-plus years of experience drives its ability to adapt to high-tech industry demands.
 
 ## Known for
 - ISO 9001:2015 certified quality management system
-- IPC-A-610 and J-STD-001 workmanship standards compliance
-- Pick-and-place machines placing 30,000 parts per hour
+- IPC-A-610 and J-STD-001 certified inspection and soldering standards
+- Pick-and-place capacity of 30,000 parts per hour (0201 to micro-BGA)
 - 2D/3D automated optical inspection and 3D solder paste inspection
-- Complete turnkey solutions with safe sourcing and inventory traceability
+- Turnkey, consignment, and semi-turnkey PCBA service models
 
 ## Capabilities
-- PCB Assembly (Surface Mount Technology)
-- PCB Assembly (Through-Hole Technology)
-- PCB Assembly (Mixed Technology)
-- Electromechanical Assembly
-- Wire Harness and Cable Assembly
-- Box Build Integration
-- 2D/3D Automated Optical Inspection
-- 3D Solder Paste Inspection
-- Selective Soldering
-- Wave Soldering
-- Hand Soldering
-- Rework and Repair Services
-- Test Development Services
-- Design and Engineering
-- New Product Introduction
-- Rapid Prototyping
-- Medium-Large Volume Production
+- Surface Mount Technology (SMT) assembly
+- Through-Hole Technology (THT) assembly
+- Mixed-Technology PCB assembly
+- Quick-turn prototyping
+- Medium-to-large volume PCB production
+- Electromechanical assembly (box builds)
+- Wire harness and cable assembly
+- Selective soldering
+- Wave soldering
+- Hand soldering
+- Automated flux spraying
+- Preheating zone processing
+- 2D Automated Optical Inspection (AOI)
+- 3D Automated Optical Inspection (AOI)
+- 3D Solder Paste Inspection (SPI)
+- Test development services
+- Rework and repair services
 - Consignment PCBA
 - Complete Turnkey PCBA
 - Semi Turnkey PCBA
-- Inventory Management
-- Component Procurement
-- IPC-A-610 Certified Inspection Staff
+- New Product Introduction (NPI) support
+- Inventory management
+- Design and engineering support
+- Component placement (0201, micro-BGA, QFP, QFN, CSP, LCC, BGA, LED, MELF, electrolytic capacitors, shields, odd-forms, connectors)
 
 ## Industries
 - Automotive
@@ -366,19 +371,19 @@ The company emphasizes a quality management system certified to ISO 9001:2015, w
 - Industrial Equipment
 
 ## Equipment
-- Pick-and-place machines (30,000 parts per hour)
+- Pick and place machines (30,000 parts per hour)
 - Selective soldering machine
 - Wave soldering machine
-- 2D/3D Automated Optical Inspection system
-- 3D Solder Paste Inspection system
 - Automated flux sprayers
-- Preheating zones
+- Two preheating zones
+- 2D/3D Automated Optical Inspection (AOI) system
+- 3D Solder Paste Inspection (SPI) system
 
 ## Certifications
 - ISO 9001:2015
+- ESD S20.20
 - IPC-A-610
 - J-STD-001
-- ESD S20.20
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -388,27 +393,20 @@ The company emphasizes a quality management system certified to ISO 9001:2015, w
 <details><summary>Sources</summary>
 
 - Founded 1996 -> db, /about-us
-- Headquarters Carrollton, Texas -> db, /about-us
+- Headquarters Carrollton, Texas -> db, /about-us, /
 - ISO 9001:2015 certified -> /about-us
 - IPC-A-610 and J-STD-001 standards adherence -> /about-us
-- ESD S20.20 compliance -> /about-us
-- Pick-and-place machines 30,000 parts/hour -> /capabilities
+- ESD S20.20 safe handling -> /about-us
+- Pick and place 30,000 parts per hour -> /capabilities
 - Selective soldering machine -> /capabilities
 - Wave soldering machine -> /capabilities
 - 2D/3D Automated Optical Inspection -> /capabilities
 - 3D Solder Paste Inspection -> /capabilities
-- Industries served: Automotive, Audio Visual, Surveillance & Optics, Defense, Computer & Electronics, Industrial Equipment -> / (home page)
+- Industries: Automotive, Audio Visual, Surveillance & Optics, Defense, Computer & Electronics, Industrial Equipment -> /
 - Services: Consignment PCBA, Complete Turnkey PCBA, Semi Turnkey PCBA, Electromechanical Assembly, Wire Harness and Cable Assembly, Rework and Revision Services -> /services
-- Volume range: hundreds to thousands of boards -> / (home page)
-- Quick-turn prototyping -> / (home page)
-- Complete turnkey solutions with traceable sourcing -> / (home page)
+- Prototyping and volume production -> /capabilities, /
+- Combined 50+ years experience -> /about-us
 - 100% on-time delivery goal -> /about-us
-- Combined 50+ years team experience -> /about-us
-- RoHS compliant solder use -> /capabilities
-- Lead-free and leaded solder -> /capabilities
-- Various cables and connector types -> /services
-- Box builds -> /services
-- Design and Engineering, New Product Introduction, Inventory Management, Test Development Services -> / (home page)
 </details>
 
 ---
@@ -418,37 +416,35 @@ The company emphasizes a quality management system certified to ISO 9001:2015, w
 **Old description:** Extreme Metal Fabrication specializes in custom made aluminum duck boats, hunting boats, bateaus, skiffs, pontoons and pirogues. We build everything we put our name on locally, in Pierre Part, LA! We take pride in building high quality, durable aluminum boats and quality boat accessories and guarantee our work for years! We have been fishing, hunting and riding the waters of Louisiana for our entire lives and have taken that experience and pride and put it into our custom boat building, you'll get everything you need to enjoy your boat!
 
 ## About
-Extreme Metal Fabrication operates from Pierre Part, Louisiana, where Robert and Lynn run a custom aluminum boat shop on Highway 70 South. The business grew from a lifetime spent fishing, hunting, and navigating Louisiana waterways, translating that hands-on experience into building boats suited to local conditions.
+Extreme Metal Fabrication operates from Pierre Part, Louisiana, where founders Robert and Lynn build custom aluminum boats. The pair drew on a lifetime of fishing, hunting, and navigating Louisiana waterways to start the shop, though the exact founding year is not publicly disclosed.
 
-The shop produces custom aluminum duck boats, skiffs, modified V-hulls, V-bottom boats, pontoons, and working barges. Construction uses 1/8-inch and 3/16-inch aluminum, with welded double floors, pipe-top sides, patterned decking, integrated storage compartments, and center consoles. Each pontoon compartment and fuel tank is pressure tested. The team handles layout design, welding, fabrication, and final rigging, and can coordinate outboard or surface-drive motor installation through local dealers. Trailers are sourced from nearby distributors.
+The company produces custom aluminum boats including duck boats, skiffs, pontoons, barges, modified V‑hulls, and V‑bottoms. Core processes are aluminum welding (1/8‑inch and 3/16‑inch material), pressure testing of every compartment and fuel tank, and custom fabrication of hulls, decks, storage hatches, and consoles. All work is done to order in their shop at 4345 Highway 70 South; headcount and annual volume are not disclosed.
 
-Customers include duck hunters, recreational anglers, camp owners needing platform pontoons, and commercial operators requiring working barges. The shop serves both private individuals and professional guides across the Gulf Coast region.
+Customers range from duck hunters and recreational anglers to commercial operators needing camp platforms or working barges. Buyers work directly with Robert and Lynn from initial layout through final delivery.
 
-The founders emphasize direct involvement: clients work with Robert and Lynn from initial sketches through the build, and are welcome to visit the shop to inspect progress. The pressure-testing protocol and the ability to tailor every dimension, finish, and accessory to the intended use are cited as key differentiators.
+The shop emphasizes local construction, pressure‑testing every compartment and fuel tank, and keeping the builders involved throughout the build. The company guarantees its work for years.
 
 ## Known for
-- Pressure testing of every pontoon compartment and fuel tank
-- Direct collaboration with builders Robert and Lynn throughout the project
-- Shop visits encouraged during construction
-- Custom aluminum hulls built to order in 1/8-inch and 3/16-inch thicknesses
-- Motor installation arranged through partner dealers
+- Pressure tests every pontoon compartment and fuel tank
+- Builders Robert and Lynn work directly with customers from design to delivery
+- All boats built to order in their Pierre Part, LA shop
+- Customers welcome to visit during construction
+- Custom layouts for duck hunting, fishing, and commercial use
 
 ## Capabilities
 - Custom aluminum boat building
-- Aluminum welding and fabrication
+- Aluminum welding (1/8-inch and 3/16-inch)
 - Pressure testing of compartments and fuel tanks
-- Custom layout and design consultation
-- Decking, storage, and console installation
-- Rigging and accessory integration
-- Motor installation coordination
-- Trailer sourcing from local distributors
+- Custom hull, deck, storage, and console fabrication
+- Rigging and motor installation coordination
+- Trailer sourcing coordination
+- On-site customer visits during build
 
 ## Industries
-- Marine
-- Hunting
-- Fishing
-- Commercial marine
-- Recreational boating
+- Duck hunting
+- Recreational fishing
+- Commercial marine (barges, camp platforms)
+- General recreational boating
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -457,14 +453,15 @@ The founders emphasize direct involvement: clients work with Robert and Lynn fro
 <details><summary>Sources</summary>
 
 - Location: Pierre Part, LA -> db
-- Builders: Robert and Lynn -> /
-- Products: custom aluminum duck boats, skiffs, pontoons, barges, V-bottom boats -> /
-- Processes: welding, pressure testing compartments and fuel tanks -> /
-- Services: custom layout design, motor installation arrangement, trailer sourcing -> /
-- Customer visit during build -> /
+- Founders: Robert and Lynn -> /
+- Boat types: duck boats, skiffs, pontoons, barges, modified V, V-bottom -> /
+- Pressure testing compartments and fuel tanks -> /
+- Custom fabrication of hulls, decks, storage, consoles -> /
+- Shop address: 4345 Highway 70 South, Pierre Part, LA 70339 -> /
 - Materials: 1/8-inch and 3/16-inch aluminum -> /
-- Industries: hunting, fishing, commercial marine -> /
-- Why: built from lifetime experience on Louisiana waters -> db
+- Industries: duck hunting, fishing, recreational boating, commercial marine -> /
+- Direct builder involvement throughout build -> /
+- Work guarantee for years -> /
 </details>
 
 ---
@@ -474,24 +471,25 @@ The founders emphasize direct involvement: clients work with Robert and Lynn fro
 **Old description:** Our roots started with our parent company F-Tech (in Saitama Prefecture, Japan) which was established in 1947 as a manufacturer of metal toys.  In 1959, our relationship and initial business with Honda Motor Co., Ltd began as we started manufacturing motorcycle parts, eventually entering into automotive manufacturing as a tier-one supplier for Honda.   To be a global partner with Honda, F-Tech expanded into North America in 1986, building its first plant in Canada.  As the demand for automotive parts increased, it was realized that a plant in Ohio was needed.
 
 ## About
-F & P America Manufacturing Inc. operates from Troy, Ohio, where it was established in 1993 as a distribution and assembly facility. The company traces its roots to its Japanese parent, F-Tech, founded in 1947 in Saitama Prefecture as a metal toy maker. F-Tech began supplying motorcycle parts to Honda in 1959 and later became a tier-one automotive supplier. To support Honda’s North American operations, F-Tech opened a Canadian plant in 1986 and added the Ohio location as demand grew.
+F&P America Manufacturing Inc. operates in Troy, Ohio, where it was founded in 1993 as a distribution and assembly facility for its Japanese parent company, F-Tech. F-Tech traces its roots to 1947 in Saitama Prefecture, Japan, where it began as a metal toy manufacturer. In 1959 the company started supplying motorcycle parts to Honda Motor Co., Ltd., later becoming a tier-one automotive supplier. To support Honda’s North American production, F-Tech opened a Canadian plant in 1986 and established the Ohio operation as demand grew.
 
-The Troy plant produces and assembles automotive components including pedal assemblies, front and rear subframes, and suspension parts. Core processes encompass progressive and traditional stamping of rolled steel, welding, hydroforming of steel tube, painting, and final assembly. The facility has doubled its building capacity twice, in 1996 and 2001, and today employs roughly 900 associates across 19 global locations under the F-Tech umbrella.
+The company produces pedal assemblies, suspension components, front and rear subframes, and clutch pedals with integrated sensor assemblies. Manufacturing processes include progressive and traditional stamping of rolled steel, traditional and innovative welding, hydroforming of steel tube, painting, and final assembly of sub-assemblies. The Troy facility employs roughly 900 associates and has doubled its building footprint twice, in 1996 and 2001. F&P America is part of a global network of 19 locations under the F-Tech family.
 
-As a tier-one automotive systems supplier, F & P America serves major OEMs such as Honda, Toyota, and General Motors. Its parts are designed for direct installation on vehicle assembly lines, and the company also provides research and development support through F.tech R&D North America.
+F&P America serves the automotive industry as a tier-one supplier. Its customer base includes Honda, Toyota, and General Motors, providing bolt-in parts ready for direct installation on assembly lines.
 
-The company emphasizes a culture of quality and associate engagement, citing numerous awards for quality, delivery, safety, and community involvement. It holds IATF-16949 and ISO 14001 certifications and states that its workforce is central to delivering “unsurpassed quality.”
+The company emphasizes a commitment to excellence through continuous improvement of technology, processes, facilities, and capabilities. It attributes its quality standards to a quality-minded workforce operating in a safe, clean, state-of-the-art environment.
 
 ## Known for
-- Tier-one supplier to Honda, Toyota, and General Motors
+- 19 global locations under the F-Tech family
 - IATF-16949 and ISO 14001 certified
-- Approximately 900 associates across 19 global locations
-- In-house R&D via F.tech R&D North America
-- Integrated stamping, welding, hydroforming, painting, and assembly
+- In-house R&D through F.tech R&D North America
+- Hydroforming of steel tube for complex automotive parts
+- Painted and assembled sub-assemblies ready for installation
 
 ## Capabilities
 - Research & Development
-- Stamping
+- Progressive stamping
+- Traditional stamping
 - Welding
 - Hydroforming
 - Painting
@@ -513,21 +511,21 @@ The company emphasizes a culture of quality and associate engagement, citing num
 
 <details><summary>Sources</summary>
 
-- Established 1993 in Troy, Ohio -> /about
-- Parent company F-Tech founded 1947 in Japan -> /about
-- Honda relationship since 1959 -> /about
-- North America expansion 1986 Canada plant -> /about
-- Approximately 900 associates -> /about
-- Clients: Honda, Toyota, General Motors -> /about
-- Certifications: IATF-16949, ISO 14001 -> /about
+- Founded 1993 in Troy, Ohio -> /about
+- Parent company F-Tech established 1947 in Saitama Prefecture, Japan -> /about
+- Relationship with Honda began 1959 -> /about
+- F-Tech expanded to North America 1986 with Canadian plant -> /about
+- Initially distribution and assembly facility -> /about
+- Mass production for Honda started 1994, added Welding and Painting -> /about
+- Doubled building capacity 1996 and 2001, added Stamping and Hydroforming -> /about
+- Approximately 900 employees -> /about
+- Customers: Honda, Toyota, General Motors -> /about
+- Certifications: IATF-16949 and ISO 14001 -> /about
 - Capabilities: R&D, Stamping, Welding, Hydroforming, Painting, Assembly -> /capabilities
-- Products: pedal assemblies, subframes, suspension parts -> /
+- Products: pedal assemblies, subframes, suspension parts, clutch pedals with sensors -> /
 - 19 global locations -> /
-- Doubled building capacity 1996 and 2001 -> /about
-- Initial distribution and assembly facility -> /about
-- Mass production for Honda 1994 -> /about
-- Added stamping and hydroforming 1996 and 2001 -> /about
-- Quality awards for delivery, safety, community -> /about
+- Headquarters: Troy, Ohio -> db
+- Company type: Manufacturer -> db
 </details>
 
 ---
@@ -537,27 +535,27 @@ The company emphasizes a culture of quality and associate engagement, citing num
 **Old description:** F.A.T.S. prides itself in providing an extensive selection of auto services for just about any make and model of vehicle you'll find in the Anchorage, AK, area and beyond! Whether you're looking for top-of-the-line parts right off the shelf, or need a full service, we've got what you need. In most cases, we have the parts and tools you need right here on the shelf in Anchorage, AK, but if we don't, you needn't worry, we have years of experience getting you the parts and work you need on time and affordably. So whatever parts or services you need for your vehicle, come see us in our shop for the best service, the best prices, and the highest level of reliability!
 
 ## About
-F.A.T.S. Parts operates from Anchorage, Alaska, where it supplies automotive parts and provides repair services through two locations on International Airport Road. The business, also known as Foreign Auto & Truck Supply, runs a parts counter at 202 E International Airport Road and a service shop at 209 E International Airport Road. No founding year, ownership structure, or founder names are publicly disclosed.
+F.A.T.S. Parts, operating under the name Foreign Auto & Truck Supply, has served the Anchorage, Alaska area from its two locations on East International Airport Road. The business supplies automotive parts and operates a full-service repair shop, though the founding year and ownership structure are not publicly disclosed.
 
-The company stocks a broad range of replacement parts for virtually any make and model and backs them with a 12-month or 12,000-mile parts-and-labor warranty. Its service shop performs tune-ups, fuel-injection service, I/M certified emissions testing and repair, front-end alignments, tire services, pre-purchase inspections, electrical work, brake service, and scheduled maintenance. Facility size, headcount, and annual volume figures are not published.
+The company stocks a wide range of replacement parts for virtually any make and model, backed by a 12-month or 12,000-mile warranty on both parts and labor. Its service department performs tune‑ups, fuel‑injection service, front‑end alignments, tire work, pre‑purchase inspections, electrical diagnosis, brake repair, and scheduled maintenance. The shop also holds I/M certification for emissions testing and repair.
 
-F.A.T.S. serves individual vehicle owners and fleets in the Anchorage area and beyond, covering domestic and foreign passenger cars, light trucks, and performance vehicles. Its customer base includes drivers needing routine maintenance, emissions compliance, or emergency repairs.
+Customers include individual vehicle owners and fleets needing maintenance for foreign and domestic cars and light trucks. The staff assists with part selection using VIN, year, make, model, and engine data, and the company emphasizes factory‑tested components that are inspected before sale.
 
-The company emphasizes factory-tested parts that are inspected before sale, same-day availability for most common components, and a guarantee that covers both parts and labor for a full year or 12,000 miles. It also highlights I/M certification for emissions work and a staff that advises on part selection for everything from family sedans to high-performance cars.
+F.A.T.S. Parts was built on the premise that quality parts and reliable service should be available locally without long waits or inflated prices. The team highlights its years of experience sourcing hard‑to‑find items quickly and its commitment to safety on every trip.
 
 ## Known for
-- 12-month/12,000-mile parts and labor warranty
+- 12‑month/12,000‑mile parts and labor warranty
 - I/M certified emissions testing and repair
-- Factory-tested parts with pre-sale inspection
-- Same-day parts availability for most makes and models
-- Separate parts counter and service shop in Anchorage
+- Extensive selection covering nearly any make and model
+- Years of experience sourcing parts quickly and affordably
+- Factory‑tested parts inspected before sale
 
 ## Capabilities
-- Auto repair and service tune-up
-- I/M certified testing and repair
-- Front end alignments
+- Auto repair and tune‑up
+- I/M certified emissions testing and repair
+- Front‑end alignment
 - Tire services
-- Pre-buyer inspections
+- Pre‑buyer inspection
 - Electrical system diagnosis and repair
 - Brake service
 - Scheduled maintenance
@@ -565,26 +563,27 @@ The company emphasizes factory-tested parts that are inspected before sale, same
 - Automotive parts distribution
 
 ## Industries
-- Automotive aftermarket
-- Auto repair and maintenance
-- Vehicle inspection and emissions testing
-- Automotive parts distribution
+- Automotive
+- Light truck
+
+## Certifications
+- I/M Certified Testing & Repair
 
 ## Company details
 - **Company Type:** Distributor / reseller
-- **Headquarters:** Anchorage, Alaska
+- **Headquarters:** Anchorage, AK
 
 <details><summary>Sources</summary>
 
-- Location: 202 E International Airport Rd, Anchorage, AK 99518 -> /
-- Service location: 209 E International Airport Rd, Anchorage, AK 99518 -> /
-- Phone numbers and emails for parts and service -> /
-- Parts & labor guaranteed for 12 months or 12,000 miles -> /
-- Services: tune-up, fuel injection, I/M certified testing, alignments, tire services, pre-buyer inspections, electrical, brakes, scheduled maintenance -> /
-- Factory-tested parts, pre-sale inspection -> /
-- Same-day parts availability for most makes/models -> /
-- Company name: Foreign Auto & Truck Supply (copyright) -> /
-- Website: fatsparts.com -> /
+- Location: Anchorage, AK -> /
+- Two addresses: 202 E International Airport Rd (parts) and 209 E International Airport Rd (service) -> /
+- Services: auto repair, tune-up, fuel injection, alignments, tire services, pre-buyer inspections, electrical, brakes, scheduled maintenance -> /
+- Parts warranty: 12 months or 12,000 miles -> /
+- I/M Certified Testing & Repair -> /
+- Parts lookup by VIN, year, make, model, engine -> /
+- Factory-tested parts guaranteed -> /
+- Years of experience sourcing parts -> /
+- Company name: Foreign Auto & Truck Supply -> /
 </details>
 
 ---
@@ -594,61 +593,53 @@ The company emphasizes factory-tested parts that are inspected before sale, same
 **Old description:** To support the growth of the food processing sector, the WMFPA in conjunction with the Community Foundation for Muskegon County (CFMC) and Muskegon Community College put in motion plans to develop the FARM (Food, Agriculture, Research, Manufacturing Center) accelerator and business development center targeted at stage one or two entrepreneurial companies or existing mature ones that are looking for an offsite location for test manufacturing of new products. A State of Michigan infrastructure grant for over $2million that was awarded in 2019 made it possible to take the vision from a plan to reality.
 
 ## About
-The FARM Food Processing Accelerator is located in Muskegon, Michigan. It was developed by the West Michigan Food Processing Association (WMFPA) in conjunction with the Community Foundation for Muskegon County and Muskegon Community College. A State of Michigan infrastructure grant of over $2 million awarded in 2019 enabled the project to move from plan to reality. Construction began in June 2020 and the facility was completed in early 2021.
+The FARM (Food, Agriculture, Research, Manufacturing Center) accelerator sits on the Muskegon Community College campus in Muskegon, Michigan. Launched by the West Michigan Food Processing Association (WMFPA) with the Community Foundation for Muskegon County and Muskegon Community College—and affiliated with Michigan State University’s food-processing programs—the project secured a $2 million state infrastructure grant in 2019. Construction started in June 2020 and finished in early 2021. The center was built to help stage-one and stage-two food entrepreneurs, plus established companies needing offsite test-manufacturing space.
 
-The accelerator provides 8,000 square feet of flexible, food-grade manufacturing space designed for commercial fruit and vegetable processing. The facility meets USDA and FDA requirements and features loading docks, refrigeration and freezer storage, energy-efficient systems, and waste and water handling. Tenants supply their own processing equipment and occupy individual suites with flexible lease terms. The site also hosts the Michigan State University Mobile Processing Lab, which supports research, education, and workforce training.
+The facility offers 8,000 square feet of flexible, food-grade suites for commercial fruit and vegetable processing. It meets USDA and FDA standards and includes loading docks, refrigeration and freezer storage, energy-efficient systems, and waste and water handling. Tenants bring their own processing equipment and lease space on flexible terms, graduating to their own plants as they grow. The site also houses the MSU Mobile Processing Lab, a trailer-scale unit used for teaching and career outreach.
 
-FARM serves early-stage and growing food processing companies seeking a bridge from kitchen incubators to full commercialization. Target clients include entrepreneurial ventures at stage one or two, as well as established firms needing offsite test manufacturing. The center draws on partnerships with Michigan State University and Muskegon Community College to link students and researchers with industry projects.
-
-The initiative was created to strengthen West Michigan's food processing sector by providing a dedicated scale-up facility, attracting venture capital, and integrating academic resources with commercial production. WMFPA technical experts also noted the facility's potential as essential infrastructure for emergency response, such as repackaging sanitizer during the COVID-19 pandemic.
+FARM serves early-stage food-processing ventures and mature firms seeking pilot-scale production, connecting them with venture capital, student talent from MSU and MCC, and regional kitchen incubators like Kitchen 242 and the Starting Block. Target industries include food processing and agriculture, with a focus on companies planning North American or export expansion. The center also supports workforce development through MSU’s certificate and degree programs. WMFPA designed FARM as a one-stop shop to move innovations from concept to commercialization, strengthen job training, and bolster West Michigan’s food-processing cluster. During the pandemic, the association demonstrated the facility’s potential as essential infrastructure by organizing large-volume sanitizer repackaging at a partner plant—a function FARM could perform once operational.
 
 ## Known for
-- Food-grade industrial space with individual suites and flexible lease options
-- 8,000 sq ft flexible manufacturing space for commercial fruit and vegetable processing
-- Facility complies with USDA and FDA requirements
-- Located on Muskegon Community College campus with Michigan State University affiliation
-- On-site MSU Mobile Processing Lab for research and training
+- Food-grade industrial suites with flexible lease terms
+- 8,000 sq ft USDA/FDA-compliant manufacturing space
+- On-site MSU Mobile Processing Lab for training and demonstration
+- Located on Muskegon Community College campus with MSU affiliation
+- Access to venture capital and regional incubator network
 
 ## Capabilities
-- Food-grade industrial space leasing
-- Flexible manufacturing for fruit and vegetable processing
-- USDA/FDA compliant facility
-- Loading dock access
-- Refrigeration and freezer storage
-- Waste and water handling
-- MSU Mobile Processing Lab access
-- Product development incubation
-- Business development support
-- Education and workforce training partnerships
+- Food-grade facility leasing
+- Incubation and acceleration services
+- Product development support
+- Access to MSU Mobile Processing Lab
+- Workforce training collaboration
+- Venture capital connection
 
 ## Industries
 - Food processing
-- Fruit and vegetable processing
-- Renewable energy
+- Agriculture
+- Food manufacturing
+- Education and workforce development
 
 ## Equipment
-- Loading docks
-- Refrigeration/freezers
-- Waste and water handling systems
 - MSU Mobile Processing Lab
 
 ## Company details
 - **Company Type:** Other
-- **Ownership:** Partnership between West Michigan Food Processing Association, Community Foundation for Muskegon County, and Muskegon Community College
+- **Ownership:** Collaborative (WMFPA, Community Foundation for Muskegon County, Muskegon Community College, Michigan State University)
 - **Headquarters:** Muskegon, Michigan
 
 <details><summary>Sources</summary>
 
-- Location: Muskegon, Michigan -> pages:/
-- Developed by WMFPA, Community Foundation for Muskegon County, Muskegon Community College -> pages:/
-- State of Michigan infrastructure grant >$2M awarded in 2019 -> pages:/
-- Construction began June 2020, completed early 2021 -> pages:/
-- 8,000 sq ft flexible manufacturing space for fruit/vegetable processing -> pages:/
-- USDA/FDA compliant facility with loading docks, refrigeration, waste/water handling -> pages:/
-- Tenants furnish own equipment, flexible lease terms -> pages:/
-- Located on Muskegon Community College campus with MSU affiliation -> pages:/
-- MSU Mobile Processing Lab on site -> pages:/
-- Seeking tenants, contact Clarence Rudat -> pages:/
+- Location: Muskegon, Michigan on Muskegon Community College campus -> /
+- Facility: 8,000 sq ft food-grade manufacturing space for fruit/vegetable processing -> /
+- Compliance: USDA and FDA requirements -> /
+- Features: loading docks, refrigeration/freezers, waste/water handling -> /
+- Affiliation: Muskegon Community College and Michigan State University -> /
+- Construction: began June 2020, completed early 2021 -> /
+- Purpose: accelerator for food processing startups/companies -> /
+- Management: Clarence Rudat as MSU/FARM Manager -> /
+- Funding: $2M+ state infrastructure grant awarded 2019 -> /
+- Tenants furnish own equipment -> /
 - LinkedIn URL -> db
 </details>
 
@@ -659,44 +650,51 @@ The initiative was created to strengthen West Michigan's food processing sector 
 **Old description:** Industrial and commercial facilities require dependable power systems that can handle increasing demand loads without interruption. FCPS specializes in the design, installation, and maintenance of complete power generation and distribution systems unique to your facility's specific needs.
 
 ## About
-FCPS Electric is headquartered in Bryant, Arkansas, and was founded in 1977 by Lorin Fleming. What began as a one‑man electrical contracting operation has grown into an independently owned, multi‑state service company with a full team of factory‑trained technicians. The business remains based in Bryant and serves commercial and industrial facilities across Arkansas, Tennessee, Texas, Alabama, Iowa, Louisiana, and Mississippi.
+FCPS Electric is based in Bryant, Arkansas, and was founded in 1977 by Lorin Fleming. The company remains independently owned and operated from its original location, having grown from a one‑man operation into a full team of factory‑trained, certified technicians serving the entire state and holding licenses in Tennessee, Texas, Alabama, Iowa, Louisiana, and Mississippi.
 
-The company provides full‑service electrical contracting, including design‑build, installation, and maintenance of power generation and distribution systems. Core capabilities cover medium‑ and high‑voltage switchgear, standby and prime‑power generators, custom power distribution panels, cable and wire installation, industrial automation and controls, network cabling and security integration, aerial lift services, and petroleum‑fuel‑system electrical work. A 24/7 emergency response team handles troubleshooting, equipment failure, and scheduled inspections.
+The firm provides full‑service electrical contracting for industrial and commercial facilities. Its scope covers electrical design‑build, medium‑ and high‑voltage switchgear installation and service, standby and prime‑power generator installation and maintenance, custom power‑distribution panel design and fabrication, power and control cable wiring, petroleum‑industry electrical work for convenience stores, scheduled equipment inspections, emergency troubleshooting, and 24/7 emergency response. Additional capabilities include aerial lift services using bucket trucks, network cabling and security integration (as an authorized integrator for Turing, Axis, and Brivo), automation and controls, and testing and consulting.
 
-Clients span healthcare, manufacturing, water treatment, and petroleum retail. Long‑term accounts include the University of Arkansas for Medical Sciences (controls and electrical projects), Ryerson (machine controls), and Conway County Regional Water (a 7 MGD treatment plant and 23 remote sites). The firm also serves convenience‑store fuel systems and general commercial and industrial facilities throughout its licensed territory.
+FCPS serves a range of sectors including healthcare (University of Arkansas for Medical Sciences), metal processing (Ryerson), water treatment (Conway County Regional Water), and petroleum retail. Its customer base spans industrial plants, commercial buildings, and critical‑infrastructure operators throughout Arkansas and neighboring states.
 
-Fleming started FCPS on the principle that electrical work should be done right the first time, with relationships valued over transactions. The company emphasizes that its independent ownership allows it to answer emergency calls at any hour, invest heavily in factory certifications, and maintain multi‑decade client partnerships without pressure from outside investors.
+The company emphasizes factory‑certified expertise, a live‑answer 24/7 phone policy, and long‑term client relationships — some spanning 20‑plus years. Independent ownership allows it to set its own service standards, and a safety‑first culture is cited as non‑negotiable. Being Arkansas‑based, not a national chain, is presented as a deliberate choice to keep accountability local.
 
 ## Known for
-- 24/7 live emergency response — technicians answer the phone at 2 AM
-- Factory‑trained and certified technicians on every project
-- Independently owned, local decision‑making with multi‑state licensing
-- Decades‑long client relationships (20+ years with some accounts)
-- Comprehensive design‑build through maintenance under one contract
+- Factory‑certified technicians on every project
+- Live 24/7 phone answer — no voicemail for emergencies
+- Client relationships exceeding 20 years
+- Independent ownership enabling direct service decisions
+- Safety‑first protocols with no shortcuts
 
 ## Capabilities
-- Electrical design & build
+- Electrical design‑build
 - Switchgear installation & service (medium/high voltage)
-- Generator installation & maintenance
-- Power distribution panel design, fabrication & installation
-- Cable & wire installation
-- Electrical troubleshooting & repair
-- Preventive maintenance & inspections
-- Industrial automation & controls
-- Network cabling & security integration
-- Aerial lift / bucket truck services
-- Petroleum/fuel system electrical
+- Generator installation & maintenance (standby/prime power)
+- Custom power‑distribution panel design, fabrication & installation
+- Cable & wire installation (power and control)
+- Petroleum industry electrical (fuel systems, convenience stores)
+- Scheduled equipment inspections
+- Equipment failure troubleshooting
 - 24/7 emergency electrical service
+- Aerial lift services (bucket trucks, aerial platforms)
+- Network cabling
+- Network security integration (Turing, Axis, Brivo)
+- Automation & controls
+- Testing & consulting
 - Component sourcing & procurement
 - Panel wiring & assembly
+- Maintenance contracts with priority scheduling
 
 ## Industries
-- Healthcare / hospitals
-- Manufacturing
-- Water / wastewater treatment
+- Healthcare
+- Metal processing
+- Water treatment
 - Petroleum / convenience stores
-- Commercial facilities
 - Industrial facilities
+- Commercial facilities
+
+## Equipment
+- Bucket trucks
+- Aerial platforms
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -706,13 +704,13 @@ Fleming started FCPS on the principle that electrical work should be done right 
 
 <details><summary>Sources</summary>
 
-- Headquarters: 212 McClanahan Drive, Bryant, AR 72022 -> /
+- Headquarters: Bryant, AR -> db
 - Founded 1977 by Lorin Fleming -> /about-us
-- Independently owned, still based in Bryant -> /about-us
-- Licensed in AR, TN, TX, AL, IA, LA, MS -> /
-- Services: design-build, switchgear, generators, panels, automation, network/security, aerial lift, petroleum electrical, 24/7 emergency -> /, /about-us
+- Independently owned -> /about-us
+- Licensed in TN, TX, AL, IA, LA, MS, AR -> /
+- Services: design-build, switchgear, generators, panels, wiring, petroleum, inspections, troubleshooting, 24/7 emergency, aerial lifts, network cabling/security, automation, testing -> /, /about-us
 - Clients: UAMS, Ryerson, Conway County Regional Water -> /
-- Factory-trained certified technicians -> /about-us
+- Factory‑certified technicians, 24/7 live answer, 20+ year relationships -> /about-us
 - Authorized integrator for Turing, Axis, Brivo -> /
 - LinkedIn URL -> db
 </details>

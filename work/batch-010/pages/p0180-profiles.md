@@ -3,34 +3,31 @@
 **Old description:** Green Gables Furniture is where rugged American craftsmanship meets undeniable style. Built in the USA from real solid wood, every piece is designed to feel substantial, authentic, and impossible to ignore. From bold reclaimed barnwood to rich live-edge hardwoods and refined contemporary designs, Green Gables creates furniture with character, presence, and the kind of quality that only gets better with time.
 
 ## About
-Green Gables Furniture traces its roots to Bradford, Illinois, where a family-owned operation began building furniture out of a three-car garage in the 1980s. The company remains family owned today, carrying forward the same work ethic and commitment to craftsmanship that defined its early days.
+Green Gables Furniture operates from Bradford, Illinois. The company traces its roots to the 1980s when a family-owned operation began building furniture out of a three-car garage. It remains proudly family owned today, with no outside ownership changes mentioned.
 
-Today the company produces solid wood furniture entirely in the United States, working with reclaimed barnwood, live-edge hardwoods such as walnut, cherry, hickory, and white oak, and incorporating steel elements. Each piece is handcrafted, emphasizing natural grain, knots, saw marks, and the character of the materials. Collections range from rustic Western styles to clean contemporary designs, all built to highlight the authenticity of the wood.
+The firm manufactures solid wood furniture in the United States, working with reclaimed barnwood, live-edge hardwoods, and species such as Walnut, Cherry, Hickory, and White Oak. Production combines traditional woodworking techniques with contemporary design, incorporating steel accents and preserving natural character marks like knots, saw marks, and grain variation. The company notes that these features are not imperfections but what make each piece one of a kind. Specific facility size, headcount, and annual volume are not disclosed.
 
-Green Gables serves the residential furniture market, supplying both retail dealers and end consumers who furnish homes with its collections. Its dealer network has been a key channel for growth, while direct-to-consumer sales allow homeowners to purchase pieces for living rooms, dining areas, and bedrooms.
+Green Gables serves the residential furniture market, selling through a network of independent dealers who have supported the family business for decades. End customers purchase pieces for home use, ranging from rustic Western styles to clean, modern collections such as the Silverton and Steelbound lines.
 
-The company says its differentiation lies in blending traditional woodworking techniques with fresh design ideas, using reclaimed timbers and live edges to create furniture that gains character over time. The goal, unchanged since the garage days, is to build honest, durable pieces meant to be passed down through generations.
+The company emphasizes distinctive design, authentic materials, and craftsmanship that can be seen and felt. Its stated goal is to build beautiful, honest furniture with real character — pieces that don’t simply fill a room but become part of it — and to build them well enough to be enjoyed for generations.
 
 ## Known for
 - Family-owned since the 1980s
 - Solid wood furniture made in the USA
-- Use of reclaimed barnwood and live-edge hardwoods
-- Combination of traditional woodworking with steel accents
-- Designed to last for generations
+- Reclaimed barnwood and live-edge hardwoods
+- Combines time-honored woodworking with fresh ideas
+- Sold through a long-standing dealer network
 
 ## Capabilities
 - Solid wood furniture manufacturing
-- Reclaimed wood processing
-- Live-edge woodworking
-- Metal-wood fabrication
-- Handcrafted finishing
-- Custom furniture design
+- Reclaimed barnwood milling
+- Live-edge slab processing
+- Steel and wood fabrication
+- Hand finishing and detailing
 
 ## Industries
 - Residential furniture
 - Home furnishings
-- Interior design
-- Furniture retail
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -39,11 +36,15 @@ The company says its differentiation lies in blending traditional woodworking te
 
 <details><summary>Sources</summary>
 
-- Family-owned operation started in 1980s in a three-car garage -> /about-us
-- Located in Bradford, Illinois -> db
-- Produces solid wood furniture using reclaimed barnwood, live-edge hardwoods (walnut, cherry, hickory, white oak) and steel -> /about-us
-- Sells through dealer network and direct to consumers -> /about-us
-- Focus on handcrafted, durable furniture designed to last generations -> /about-us
+- Headquarters: Bradford, Illinois -> db
+- Founded in 1980s, family-owned, started in three-car garage -> /about-us
+- Remains proudly family owned -> /about-us
+- Manufactures solid wood furniture in USA -> /about-us
+- Materials: reclaimed barnwood, Walnut, Cherry, Hickory, White Oak, live-edge hardwoods, steel -> /about-us
+- Combines traditional woodworking with contemporary design, steel accents -> /about-us
+- Sells through dealer network -> /about-us
+- Goal: build beautiful, honest furniture with character for generations -> /about-us
+- Collections: Silverton, Steelbound, etc. -> /
 </details>
 
 ---
@@ -53,45 +54,49 @@ The company says its differentiation lies in blending traditional woodworking te
 **Old description:** Green Leaf Solar specializes in finding all incentives, rebates and loans available. In doing so, this will give the costumer the shortest payback time possible and in some cases with zero money down!
 
 ## About
-Green Leaf Solar operates from Columbia, Missouri. The company is owned by Ryan Roe, who brings a mathematics background to system design. The founding year is not publicly disclosed.
+Green Leaf Solar operates from Columbia, Missouri. The company is owned by Ryan Roe, who has a passion for renewable energy and a mathematics background for designing optimal systems. The founding year is not publicly disclosed.
 
-The firm provides turnkey solar photovoltaic installations for homes and businesses. Its services include identifying all available incentives, rebates, and financing options to minimize payback periods, sometimes with zero money down. The installation team, led by chief troubleshooter Martin Podolak and solar technicians Alex and Carlos, backs each project with a 10‑ to 30‑year parts warranty, a 10‑year "Done Right" installation guarantee, and a five‑year labor warranty on part failure. Sales manager Jay Hasheider, a former utility renewable‑energy specialist with over three decades of experience, supports customer acquisition and education.
+Green Leaf Solar designs and installs photovoltaic systems for homes and businesses, and assists customers in securing incentives, rebates, and financing to minimize upfront cost. The company offers a 10-year "Done Right" guarantee on installations, a 5-year labor warranty on part failure, and notes that solar components carry 10- to 30-year manufacturer warranties. The installation team includes a chief troubleshooter and two solar technicians alongside the owner and sales manager.
 
-Green Leaf Solar serves residential and commercial customers in the Columbia area. Its client base includes homeowners seeking to reduce electricity bills and businesses aiming to hedge against rising energy costs. The company emphasizes a low‑risk approach, handling incentive paperwork and system design so that customers can adopt solar without upfront capital.
+The company serves residential and commercial customers in the Columbia, Missouri area, helping homeowners and businesses reduce electricity costs and hedge against rising energy rates.
 
-The company states that its differentiation lies in eliminating risk for the property owner, securing the shortest possible payback through exhaustive incentive research, and standing behind installations with long‑term warranties and a dedicated service team. Its approach is built on reliability, dependable pricing, and exceptional service, as outlined by the ownership team.
+Green Leaf Solar emphasizes risk reduction for customers by handling incentive paperwork and offering long-term warranties. Owner Ryan Roe applies a mathematics background to system design for cost effectiveness, while Sales Manager Jay Hasheider brings over three decades of utility experience from Columbia Water and Light, including state recognition for resource stewardship.
 
 ## Known for
-- Finds all incentives, rebates, and loans for shortest payback time
-- Zero money down options available
-- 10‑ to 30‑year parts warranty
-- 10‑year "Done Right" installation guarantee
-- 5‑year labor warranty on part failure
+- Finds all available incentives, rebates, and loans to minimize payback time
+- 10-year 'Done Right' installation guarantee
+- 5-year labor warranty on part failure
+- Owner's mathematics background for optimal system design
+- Sales manager with 30+ years utility experience
 
 ## Capabilities
-- Solar PV system installation
+- Solar PV system design
+- Solar installation
 - Incentive, rebate, and loan identification
-- System design and optimization
-- Maintenance and troubleshooting
+- System financing assistance
+- Post-installation warranty service
 
 ## Industries
-- Residential
-- Commercial
+- Residential solar
+- Commercial solar
+- Renewable energy installation
 
 ## Company details
 - **Company Type:** Installer / service company
+- **Ownership:** Owner-operated (Ryan Roe)
 - **Headquarters:** Columbia, Missouri
 
 <details><summary>Sources</summary>
 
 - Location: Columbia, Missouri -> db
 - Owner: Ryan Roe -> /about
-- Team members: Jay Hasheider, Martin Podolak, Alex, Carlos -> /about
-- Services: incentive/rebate/loan identification, solar PV installation -> /
-- Warranties: 10-30 year parts, 10-year installation guarantee, 5-year labor -> /
-- Customer types: homes and businesses -> /
-- Differentiators: risk elimination, zero money down, shortest payback -> /
-- Company focus: reliability, dependability, fair prices, exceptional service -> /about
+- Sales Manager: Jay Hasheider with 30+ years at Columbia Water and Light -> /about
+- Team members: Martin Podolak, Alex, Carlos -> /about
+- Specializes in incentives, rebates, loans -> /
+- 10-year 'Done Right' guarantee, 5-year labor warranty, 10-30 year parts warranty -> /
+- Serves homes and businesses in Columbia area -> /
+- Ryan Roe mathematics background for system design -> /about
+- Jay Hasheider Resource Steward Award, utility experience -> /about
 </details>
 
 ---
@@ -101,66 +106,63 @@ The company states that its differentiation lies in eliminating risk for the pro
 **Old description:** GMS specializes in Custom Analog, Digital & Mixed Signal design.
 
 ## About
-Green Mountain Semiconductor, Inc. was founded in 2015 by three colleagues in Burlington, Vermont. The company began as a collaborative project among friends and evolved into a professional design organization focused on semiconductor solutions.
+Green Mountain Semiconductor, Inc. was founded in 2015 in Burlington, Vermont, by three friends and colleagues who began collaborating on semiconductor design projects. The company remains headquartered in Burlington, where its engineering team performs all design work in-house.
 
-The firm provides custom analog, digital, and mixed-signal design services, with deep expertise in memory design including DRAM, SRAM, and emerging non-volatile memories. It offers a full flow from early technology development through test chips and test programs, specializing in compute-in-memory architectures, neuromorphic processors, and high-speed PHY interfaces such as LPDDR4/4X/5 and SPI/QPI. All design work is performed by its own employees at its Burlington office, and the team has experience in advanced nodes including 7 nm TSMC.
+The firm provides custom analog, digital, and mixed-signal ASIC design services, with deep expertise in memory design (DRAM, SRAM, emerging non-volatile memory) and compute-in-memory architectures. Its service offerings include AI circuit design, emerging memory development, special-purpose applications, and high-speed interface solutions such as LPDDR4/4X/5 and SPI/QPI PHYs. The team has experience in advanced process nodes, including 7 nm TSMC, and holds seven patents in commodity memory architecture, error correction, and in-memory high-parallel data processing.
 
-Green Mountain serves aerospace and defense, medical devices, and high-performance computing markets. In aerospace, it develops radiation-hardened chips that process sensor data in situ at low power. For medical devices, it creates low-power integrated circuits for patient monitoring and diagnosis, including neuromorphic edge-computing IP. The company has executed development contracts with the National Science Foundation and NASA, the latter for a family of rad-hard neuromorphic processors.
+Green Mountain Semiconductor serves aerospace and defense, high-performance computing, and medical device markets. In aerospace and defense, it develops radiation-hardened neuromorphic processors for NASA and works on SWaP-optimized sensor-processing chips. For medical devices, it creates low-power integrated circuits for patient monitoring and diagnosis, including neuromorphic edge-computing IP. The company also supports high-performance computing platforms with custom memory and interface IP.
 
-The company differentiates itself through its patented technology in commodity memory architecture, error correction, and in-memory high-parallel data processing, holding seven patents in compute-in-memory. It emphasizes a one-stop-shop approach for implementing complex algorithms into proven silicon, and maintains CMMC 2.0 certification.
+The company emphasizes its 100% U.S.-based design team, with all work performed by employees at its Burlington offices. Its differentiation rests on a combination of memory-design heritage, patented in-memory computing techniques, and a focus on size, weight, and power (SWaP) optimization for demanding applications.
 
 ## Known for
-- 100% US-based design team in Burlington, VT
-- Seven patents in compute-in-memory and memory architecture
-- Deep expertise in DRAM, SRAM, and emerging NVM design
-- Experience with advanced process nodes including 7 nm TSMC
-- CMMC 2.0 certified
+- 100% U.S.-based design team (all designs by employees in Burlington, VT)
+- Deep memory-design heritage (DRAM, SRAM, emerging NVM) and compute-in-memory expertise
+- Seven patents in commodity memory architecture, error correction, and in-memory parallel processing
+- Experience with advanced process nodes (7 nm TSMC)
+- Radiation-hardened neuromorphic processor development for NASA
 
 ## Capabilities
-- Custom ASIC design
-- Analog & mixed-signal design
-- Digital design
-- Memory design (DRAM, SRAM, emerging NVM)
-- Compute-in-memory architecture
-- Neuromorphic processor design
-- Radiation-hardened design
-- High-speed PHY design (LPDDR4/4X/5, SPI/QPI)
-- Low-power design
+- Custom ASIC design (analog, digital, mixed-signal)
 - AI circuit design / in-memory computing
-- Full custom development (from technology development to test chips)
-- Special purpose application development
-- Interface solutions
-- Emerging memory development
-- Patent development
+- Analog & mixed-signal design (charge pumps, level shifters, H-bridge drivers, low-noise amplifiers)
+- Emerging memory development (DRAM, SRAM, NVM)
+- Special-purpose application IC development
+- High-speed PHY interface design (LPDDR4/4X/5, SPI/QPI)
+- Full custom ASIC development (from technology development to test chips)
+- Circuit development and product focus
+- Neuromorphic processor design (rad-hard)
+- Low-power / SWaP-optimized design
+- IP development and integration
+- Test chip development and yield assessment
+- Digital tool flows
+- Radiation-tolerant design techniques
 
 ## Industries
 - Aerospace and Defense
-- Medical Devices
 - High-Performance Computing
+- Medical Devices
 
 ## Certifications
 - CMMC 2.0
 
 ## Company details
-- **Company Type:** Installer / service company
+- **Company Type:** Other
 - **Founded:** 2015
 - **Headquarters:** Burlington, Vermont
 
 <details><summary>Sources</summary>
 
-- Founded in 2015 -> db
-- Headquartered in Burlington, Vermont -> db and homepage (/) mentions 'offices in Burlington, VT'
-- Started as project of three friends and colleagues -> homepage (/) 'Our story started as the project of three friends and colleagues'
-- Specializes in custom analog, digital & mixed-signal design -> homepage (/) 'GMS specializes in Custom Analog, Digital & Mixed Signal design'
-- Deep roots in memory design (DRAM, SRAM, emerging NVM) -> homepage (/) 'deep roots in Memory Design (DRAM, SRAM, Emerging NVM)'
-- 7 patents on compute-in-memory architectures -> homepage (/) 'filed 7 patents so far on this topic'
-- Developing rad-hard neuromorphic processors for NASA -> homepage (/) 'currently sponsored by this agency for designing a family of rad-hard neuromorphic processors'
-- CMMC 2.0 certification achieved March 2026 -> homepage (/) 'CMMC 2.0 certification achieved'
-- Member of National Semiconductor Technology Center (NSTC) -> homepage (/) 'becomes a member of the National Semiconductor Technology Center (NSTC)'
-- 100% US based, designs performed by employees in Burlington, VT -> homepage (/) 'Green Mountain Semiconductor is 100% US based. All of our designs are performed by our own employees at our offices in Burlington, VT'
-- Experience with 7nm TSMC process -> homepage (/) 'track record in advanced technology nodes such as 7nm TSMC'
-- High speed PHY interfaces: LPDDR4/4X/5, SPI/QPI -> homepage (/) 'developed a family of secondary LPDDR4/4X/5 PHY as well as SPI/QPI'
-- Serves aerospace and defense, medical devices, high-performance computing -> homepage (/) 'Markets: Aerospace and Defense, High-Performance Computing, Medical Devices'
+- Founded 2015 -> db
+- Headquarters Burlington, Vermont -> db
+- CMMC 2.0 certification achieved -> page '/'
+- Founded by three friends and colleagues -> page '/'
+- Services: Custom ASIC Design, AI Circuit Design, Analog & Mixed Signal Design, Emerging Memory Development, Special Purpose Applications, Interface Solutions -> page '/'
+- Industries served: Aerospace and Defense, High-Performance Computing, Medical Devices -> page '/'
+- 100% US-based, all designs performed by own employees at offices in Burlington, VT -> page '/'
+- Seven patents on compute-in-memory architectures -> page '/'
+- Development contracts with NSF and NASA for rad-hard neuromorphic processors -> page '/'
+- Experience with 7nm TSMC process node -> page '/'
+- Focus on SWaP-optimized solutions -> page '/'
 </details>
 
 ---
@@ -170,38 +172,36 @@ The company differentiates itself through its patented technology in commodity m
 **Old description:** From free site assessments to seamless installation, we make going solar simple. Our team is based right here in Vermont and will guide you every step of the way – no pushy salespeople, just real support.
 
 ## About
-Green Mountain Solar was founded in 2017 in South Burlington, Vermont. The company operates from its headquarters in South Burlington and maintains a second office in East Dorset to serve customers across the state. No specific ownership structure or founders are disclosed in public materials.
+Green Mountain Solar was founded in 2017 in South Burlington, Vermont, with a commitment to customers and a more sustainable future. The company operates from its headquarters in South Burlington and a second office in East Dorset, serving the entire state.
 
-The firm provides full-service solar design, project management, and installation for residential and commercial clients. Its offerings include photovoltaic panel arrays, battery backup systems, heat pump installations, and electric vehicle charger setups. An in-house service team handles post-installation maintenance and support. The company does not manufacture equipment but installs products from various suppliers.
+The firm provides full-service solar design, project management, and installation for residential and commercial customers. Its offerings include rooftop and ground-mounted solar arrays, battery backup systems, heat pump installations, and electric vehicle charger setups. An in-house service team handles post-installation maintenance and support.
 
-Green Mountain Solar serves homeowners and businesses throughout Vermont. Its customer base includes individuals seeking to reduce electricity costs and carbon footprint, as well as commercial property owners adding renewable energy infrastructure. The company also works with utility programs such as Green Mountain Power’s leased battery offerings.
+Green Mountain Solar works primarily with Vermont homeowners and businesses seeking renewable energy solutions. Projects referenced in customer testimonials range from a 13.7 kWh ground-mounted array in Woodstock to association rooftop installations and Tesla storage system retrofits. The company also partners with financing providers to offer loan options.
 
-The company emphasizes a no-pressure, educational sales approach and free site assessments. It highlights award-winning service, warranties, and a commitment to remaining available for long-term warranty support. The mission is described as creating a brighter future for customers through renewable energy.
+The company emphasizes a no-pressure, educational approach and backs its installations with warranties. It highlights award-winning service and a deep local commitment, reinforced by sister companies Granite State Solar in New Hampshire and Vermont Generator Systems, which has provided backup power since 2004.
 
 ## Known for
-- Free site assessments
+- Award-winning service with 200+ 5-star Google reviews
+- Industry-leading warranties on installations
 - No-pressure, educational sales approach
-- In-house maintenance and support team
-- Services entire state of Vermont from two offices
-- Award-winning service with 200+ 5-star reviews
+- In-house service team for ongoing maintenance
+- Two Vermont offices covering the entire state
 
 ## Capabilities
 - Solar photovoltaic system design
-- Solar panel installation
+- Solar panel installation (rooftop and ground-mount)
 - Battery backup system installation
 - Heat pump installation
 - Electric vehicle charger installation
 - Project management
 - Post-installation maintenance and support
-- Financing consultation
 
 ## Industries
-- Residential renewable energy
-- Commercial renewable energy
-- Solar installation
-- Battery energy storage
-- Electric vehicle charging infrastructure
-- Heat pump installation
+- Residential solar
+- Commercial solar
+- Renewable energy
+- Energy storage
+- EV charging infrastructure
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -211,17 +211,14 @@ The company emphasizes a no-pressure, educational sales approach and free site a
 <details><summary>Sources</summary>
 
 - Founded in 2017 -> /about
-- Headquartered in South Burlington, Vermont -> /about
-- Second office in East Dorset -> /about
-- Services entire state of Vermont -> /about
-- Offers solar design, installation, battery backup, heat pump, EV charger installation -> /about
-- In-house service team for maintenance -> /about
-- No-pressure, educational sales approach -> /about
-- Free site assessments -> /
+- Headquartered in South Burlington, VT -> /about
+- Southern Vermont office in East Dorset -> /about
+- Services: solar design, installation, battery, heat pump, EV charger -> /about
+- Serves full state of Vermont -> /about
+- Award-winning service, industry-leading warranties -> /
 - 200+ 5-star Google reviews -> /
-- Award-winning service -> /
 - Sister companies: Granite State Solar, Vermont Generator Systems -> /about
-- Financing options available -> /
+- LinkedIn URL -> db
 </details>
 
 ---
@@ -231,51 +228,41 @@ The company emphasizes a no-pressure, educational sales approach and free site a
 **Old description:** Our online estimator walks you through every detail of your custom piece — wood, dimensions, epoxy, edge, and base. Tell us exactly what you want and get an accurate quote without a phone call or showroom visit.
 
 ## About
-Green Mountain Tableworx operates from Concord, New Hampshire, with a second showroom in Smithfield, Rhode Island. The company handcrafts custom live edge, river, and ocean tables in New England, though its founding year and ownership structure are not publicly disclosed.
-
-The workshop produces a range of custom furniture including dining tables, conference tables, coffee tables, benches, console tables, countertops, bar tops, floating shelves, and wall art. Artisans work with over 34 wood species — such as Black Walnut, Cherry, Maple, White Oak, Hickory, and English Walnut — and incorporate epoxy resin for river and ocean designs. Each piece is built to order using a process that moves from an online estimate through design consultation, hand fabrication, and in-home delivery across New England. No facility size, headcount, or annual volume figures are published.
-
-Clients include homeowners seeking one-of-a-kind pieces for living and dining rooms, as well as commercial buyers needing conference tables. Recent projects cited on the site include a custom cocktail tray and end table for a living room, a table and bench set, and an ocean-themed dining table representing water and beaches.
-
-The company emphasizes its instant online estimator, which lets customers specify wood, dimensions, epoxy, edge, and base to receive a quote without a phone call or showroom visit. In-home delivery throughout New England and a library of over 34 wood species are also highlighted as distinguishing features.
+Green Mountain Tableworx operates showrooms in Concord, New Hampshire, and Smithfield, Rhode Island, producing custom live-edge, river, and ocean tables from its New England workshop. The company fabricates dining tables, conference tables, coffee tables, benches, console tables, countertops, bar tops, floating shelves, and wall art. Each piece is built to order using an online estimator that captures wood species, dimensions, epoxy color, edge profile, and base style. Artisans handcraft the furniture from over 34 wood species — including black walnut, cherry, maple, white oak, hickory, and English walnut — and pair slabs with steel hairpin legs, solid-wood trestles, or proprietary pedestal bases such as the Haru and Summa models. Finished pieces are delivered and installed in homes throughout New England. Customers range from homeowners seeking one-of-a-kind dining or coffee tables to commercial clients ordering conference tables and bar tops. Testimonials on the site reference custom cocktail trays, end tables, and ocean-themed dining tables, indicating a residential focus with capacity for larger contract work. Green Mountain Tableworx emphasizes a streamlined buying experience: the instant online estimator provides a price range in minutes, eliminating the need for an initial showroom visit, and the company handles delivery and in-home placement across the region.
 
 ## Known for
-- Instant online estimator for custom pieces
-- In-home delivery throughout New England
-- Over 34 wood species available
-- Handcrafted by artisans in New England
-- Custom epoxy river and ocean table designs
+- Instant online estimator that configures wood, dimensions, epoxy, edge, and base
+- In-home delivery and installation anywhere in New England
+- Over 34 domestic and exotic wood species in stock
+- Handcrafted by New England artisans from slab selection to final finish
+- Proprietary table base designs including Haru Pedestal, Wine Glass, Lithe Pedestal, and Summa
 
 ## Capabilities
 - Custom live edge table fabrication
-- River table fabrication (epoxy)
-- Ocean table fabrication (resin)
-- Custom woodworking
-- Wood slab selection and sourcing
-- Epoxy resin pouring and finishing
-- Custom table base fabrication (steel and wood)
-- Design consultation
-- Online custom estimation
-- In-home delivery (New England)
-- Custom furniture for dining, conference, coffee, benches, consoles, countertops, bar tops, shelves, wall art
+- River table epoxy pouring
+- Ocean table resin casting
+- Custom furniture design and consultation
+- Online configuration and instant quoting
+- In-home delivery and installation
+- Wood slab selection, milling, and finishing
+- Custom base fabrication (steel and solid wood)
+- Engraving and personalization
 
 ## Company details
 - **Company Type:** Manufacturer
-- **Headquarters:** Concord, NH
+- **Headquarters:** Concord, New Hampshire
 
 <details><summary>Sources</summary>
 
-- Headquarters in Concord, NH and Smithfield, RI -> /
-- Handcrafted custom live edge, river, and ocean tables in New England -> /
-- Offers dining, conference, coffee tables, benches, consoles, countertops, bar tops, shelves, wall art -> /
-- Works with over 34 wood species including Black Walnut, Cherry, Maple, White Oak, Hickory, English Walnut -> /
-- Uses epoxy resin for river and ocean designs -> /
-- Process: online estimate, design consultation, hand fabrication, in-home delivery -> /
+- Headquarters in Concord, NH and showroom in Smithfield, RI -> db
+- Produces custom live edge, river, and ocean tables -> /
+- Offers dining, conference, coffee, bench, console, countertop, bar top, shelf, and wall art -> /
+- Online estimator for wood, dimensions, epoxy, edge, base -> /
+- Over 34 wood species including Black Walnut, Cherry, Maple, White Oak, Hickory, English Walnut, Douglas Fir -> /
+- Bases: steel hairpins, solid wood trestles, Haru Pedestal, Wine Glass, Lithe Pedestal, Summa -> /
 - In-home delivery anywhere in New England -> /
-- Instant online estimator for custom pieces -> /
-- Customer examples: custom cocktail tray, table and bench, ocean dining table -> /
-- Company type: Manufacturer (handbuilt by artisans) -> /
-- No founding year, ownership, employee count, certifications, equipment, volume, lead time, tolerances stated -> db
+- Handcrafted by artisans in New England -> /
+- Customer testimonials referencing custom cocktail tray, end table, ocean dining table -> /
 </details>
 
 ---
@@ -285,40 +272,40 @@ The company emphasizes its instant online estimator, which lets customers specif
 **Old description:** Green Muscle was founded on the simple belief to treat our customers right and always have their best interests at heart. We are among the most experienced and knowledgeable solar professionals in the industry who provide the
 
 ## About
-Green Muscle Solar operates from Sun City, Arizona, where it was established by co-founders Jim, Brent, Paula, and Jamell. Each founder brought more than 11 years of hands-on solar experience, much of it gained at the nation’s largest solar installer, before launching a company built on a customer-first philosophy.
+Green Muscle Solar operates from Sun City, Arizona. The company was founded by co-owners Jim, Brent, Paula, and Jamell on the principle of treating customers right and putting their interests first. Leadership team members each bring over 11 years of hands-on solar experience, honed while working with the nation’s largest solar installer.
 
-The company provides residential solar installation, consulting, and post-installation service. Installation projects are managed by dedicated project managers rather than commissioned sales representatives, and every install is supervised by a master electrician. Crews handle roof penetration sealing, conduit routing, wiring, and main-panel tie-ins. The service division specializes in troubleshooting and preventative maintenance for systems that are out of warranty, while the consulting arm reviews existing solar contracts and production performance for homeowners who signed with other providers.
+The firm provides solar installation, consulting, and service & maintenance for residential systems. Installation projects are overseen by a dedicated Project Manager rather than a commissioned sales representative, and Master Electricians supervise every install to ensure code compliance. Crews handle roof penetration sealing, conduit runs, wiring, and main-panel tie-ins. The service division troubleshoots production issues, performs preventative maintenance, and services out-of-warranty systems.
 
-Green Muscle serves homeowners across Arizona, focusing on residential rooftop systems. Its maintenance work targets older installations that have fallen out of warranty coverage, and its consulting services address customers seeking independent analysis of their current solar agreements. Referrals from satisfied clients form the core of new business.
+Green Muscle serves homeowners who have existing solar contracts, offering detailed production analysis, contract review, and system inspections. Its maintenance work targets previously installed systems that are out of warranty, correcting installation defects that affect output. Referrals from satisfied residential customers drive much of the business.
 
-The firm differentiates itself through rigorous installer training, master-electrician oversight on every job, and a project-management model that eliminates sales pressure. Leadership emphasizes integrity and education, aiming to show customers the real value of solar rather than simply closing deals.
+The company differentiates itself through an integrity-and-education approach, emphasizing real value over sales pressure. Rigorous installer training, direct project management, and a referral-based model reflect its founding belief that customer care builds lasting trust.
 
 ## Known for
-- Master electrician supervision on every installation
-- Project managers oversee projects from design to utility interconnection
+- Project Manager oversees each project from design to utility interconnection
+- Master Electricians supervise every installation
 - Service and maintenance for out-of-warranty solar systems
-- Independent consulting on existing solar contracts and production
-- Installer training program focused on workmanship details
+- Detailed production analysis and contract review for existing systems
+- Rigorous installer training and roof-penetration sealing with advanced technology
 
 ## Capabilities
-- Solar photovoltaic installation
-- Solar system design and permitting
-- Project management
-- Master electrician supervision
-- Roof penetration sealing
-- Conduit and wiring installation
-- Electrical panel integration
-- Solar system troubleshooting
+- Solar installation
+- Solar consulting
+- Service & maintenance
+- System inspection
+- Warranty analysis
 - Preventative maintenance
-- Solar contract analysis
-- Solar production analysis
-- Consulting for existing solar agreements
+- Troubleshooting
+- Roof penetration sealing
+- Electrical panel tie-in
+- Project management
+- System design
+- Permitting and utility coordination
 
 ## Industries
-- Residential solar
-- Solar maintenance
-- Solar consulting
+- Solar energy
 - Renewable energy
+- Residential solar installation
+- Solar maintenance services
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -326,18 +313,17 @@ The firm differentiates itself through rigorous installer training, master-elect
 
 <details><summary>Sources</summary>
 
-- Headquarters in Sun City, Arizona -> db
-- Co-founders Jim, Brent, Paula, Jamell -> homepage
-- Leadership team has over 11 years solar experience -> about-us
-- Experience gained at nation's largest solar installer -> about-us
-- Master electricians supervise every installation -> about-us
-- Project managers oversee projects from start to finish, not commissioned sales reps -> homepage
-- Service and maintenance for out-of-warranty systems -> homepage
-- Consulting for homeowners with existing solar contracts -> homepage
-- Rigorous installer training -> about-us
-- Referrals drive business -> about-us
-- Company provides solar installation, consulting, service & maintenance -> homepage, about-us
-- Physical address 18700 N 107th Ave Ste 16, Sun City, AZ -> homepage
+- Headquarters in Sun City, Arizona -> /
+- Founded by co-owners Jim, Brent, Paula, Jamell -> /
+- Leadership team has over 11 years experience each -> /about-us
+- Services: installation, consulting, service & maintenance -> /
+- Project Manager not commissioned sales rep -> /
+- Master Electricians supervise installs -> /about-us
+- Service for out-of-warranty systems -> /
+- Detailed production analysis and contract review -> /
+- Referral-based business -> /about-us
+- Team includes installers, service technicians, project managers -> /
+- LinkedIn URL -> db
 </details>
 
 ---
@@ -347,38 +333,41 @@ The firm differentiates itself through rigorous installer training, master-elect
 **Old description:** Welcome to Greenetextile, your trusted partner among USA fabric manufacturers. We specialize in sourcing high-quality yarns, knitting, and dyeing custom fabrics here in Los Angeles, CA, for clothing brands. With years of experience, we take pride in delivering top-notch knits that meet the diverse needs of our clients. Additionally, our in-stock fabrics are ideal for small businesses seeking low minimum order quantities, allowing for garment dyeing or piece dyeing to achieve unique, tailored looks. Let us help you bring your creative vision to life with our quality fabrics!
 
 ## About
-Greene Textile Inc. operates from Montebello, California, in the heart of Southern California's textile corridor. The company was founded in 2001 by two brothers who had relocated from New York to California in the 1980s and spent two decades mastering yarn sourcing, knitting mechanics, and dye house operations before launching their own venture. They began in a modest office above a knitting mill and later expanded to a facility on Telegraph Road that now houses a showroom, warehouse, and operations.
+Greene Textile Inc operates from Montebello, California, in the heart of Southern California's textile corridor. The company was founded in 2001 by two brothers who had relocated from New York to California in the 1980s, joining a family network already established in the local textile trade. After two decades of working with yarn suppliers, knitting mills, and dye houses, the brothers launched their own venture from a small office above a knitting mill before expanding to their current Telegraph Road facility, which now houses a showroom, warehouse, and operations.
 
-The firm specializes in knit-to-order fabric production, offering a library of more than 4,000 styles developed primarily in cotton. Its capabilities span yarn sourcing, knitting, and both piece and garment dyeing, allowing customers to specify custom constructions, colors, and finishes. The Montebello facility consolidates design, warehousing, and logistics under one roof, though the company does not disclose square footage or headcount.
+The firm specializes in knit-to-order production, maintaining a library of more than 4,000 fabric styles primarily in cotton. Its capabilities span yarn sourcing, custom knitting, and both piece and garment dyeing, allowing clients to develop unique colorways and finishes. The Montebello facility supports full vertical integration from yarn selection through finished fabric, and the company also carries an inventory of in-stock fabrics for immediate shipment.
 
-Greene Textile serves clothing brands and small apparel businesses that need flexible minimums. Its in-stock fabric program caters to emerging labels and sample runs, while its custom knitting service supports larger production orders. The company cites clients ranging from independent designers to established brands seeking domestic knit fabric manufacturing.
+Greene Textile serves clothing brands and small businesses across the apparel sector, providing custom-developed knits for fashion labels as well as low-minimum-order stock fabrics for emerging designers and garment-dye houses. Its customer base includes brands seeking domestic production with flexible volume requirements.
 
-The founders emphasize a family-oriented culture rooted in treating employees and partners like family, a philosophy they trace to their early years in the local textile community. They position the business as a domestic alternative to offshore sourcing, highlighting control over quality and lead times through vertical integration of knitting and dyeing.
+The company emphasizes a family-oriented approach to manufacturing, citing the principle that treating every partner like family underpins its operational philosophy. This culture, rooted in the founders' early experience within the Southern California textile community, is presented as the foundation of its reliability and responsiveness.
 
 ## Known for
 - Low minimum order quantities on in-stock fabrics
-- Garment and piece dyeing services for custom colors
+- Garment and piece dyeing for custom colorways
 - Library of over 4,000 knit styles in cotton
-- Domestic knitting and dyeing under one roof in Montebello, CA
+- Domestic manufacturing in Southern California
+- Family-oriented service culture
 
 ## Capabilities
+- Knit to order production
+- Custom fabric knitting
+- Fabric dyeing (piece and garment)
 - Yarn sourcing
-- Knit fabric manufacturing
-- Piece dyeing
+- In-stock fabric supply
+- Custom fabric development
 - Garment dyeing
-- Custom knit development
-- In-stock fabric program
+- Piece dyeing
+- Additional custom services
 
 ## Industries
-- Apparel
 - Clothing brands
-- Small business apparel
+- Small businesses
+- Apparel manufacturing
 - Fashion
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 2001
-- **Ownership:** Family-owned
 - **Headquarters:** Montebello, California
 
 <details><summary>Sources</summary>
@@ -386,63 +375,105 @@ The founders emphasize a family-oriented culture rooted in treating employees an
 - Founded in 2001 -> /about
 - Two brothers relocated from New York in 1980s -> /about
 - Started in small office above knitting mill -> /about
-- Expanded to Telegraph Road Montebello facility with showroom, warehouse, operations -> /about
-- Knit to order production -> db
-- Library of over 4,000 styles using cotton -> db
-- In-stock fabrics with low MOQs -> db
-- Garment dyeing and piece dyeing -> db
-- Serves clothing brands and small businesses -> db
-- Family-oriented culture -> /about
-- Domestic manufacturing in Southern California -> /about
+- Current facility on Telegraph Road in Montebello -> /about
+- Manufactures premium knit fabrics -> /about
+- Library of over 4,000 styles using cotton -> products
+- Specializes in yarn sourcing, knitting, dyeing custom fabrics -> description
+- In-stock fabrics for low minimum order quantities -> description
+- Garment dyeing and piece dyeing offered -> description
+- Serves clothing brands and small businesses -> description
+- Family-oriented manufacturing philosophy -> /about
+- Headquarters Montebello, California -> db
 </details>
 
 ---
 
 # Grubbersputz's Premium Snacks
 
-_skipped: not enough facts_
+**Old description:** Delight your senses with our Butterscotch Popcorn, a symphony of sweetness and crunch. Each kernel is meticulously coated with a rich butterscotch glaze that perfectly balances the sweet and buttery notes. With a satisfyingly crisp texture and an irresistible golden hue, this popcorn is a delectable treat for any occasion. Whether you're satisfying a sweet tooth or seeking a unique snack experience, our Butterscotch Popcorn is a flavorful journey that takes popcorn to a whole new level.
+
+## About
+Grubbersputz's Premium Snacks operates from Mandan, North Dakota. The founding year, ownership structure, and founders' names are not disclosed in the available sources.
+
+The company produces a line of flavored popcorn, pretzels, and crackers. Its product roster includes butterscotch, caramel, cinnamon whiskey caramel, dill pickle, white cheddar, white cheddar chili, and kettle corn popcorn varieties, along with dill pickle, homestyle ranch, and honey mustard pretzels, plus zesty dill and zesty ranch crackers. Prices range from $6 to $10 per unit. No facility size, headcount, or production volume figures are provided.
+
+The business appears to sell directly to consumers through its website. No industrial, commercial, or wholesale customer segments are identified in the source material.
+
+The company describes its butterscotch popcorn as having each kernel "meticulously coated with a rich butterscotch glaze" for a "satisfyingly crisp texture." No broader mission statement or founding rationale is stated.
+
+## Known for
+- Direct-to-consumer online sales
+- Flavor variety across popcorn, pretzels, and crackers
+
+## Capabilities
+- Flavored popcorn production
+- Flavored pretzel production
+- Flavored cracker production
+- Small-batch snack packaging
+
+## Industries
+- Food and beverage
+- Consumer packaged goods
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Mandan, North Dakota
+
+<details><summary>Sources</summary>
+
+- Location: Mandan, North Dakota -> db
+- Product list with 13 SKUs and prices -> /
+- Butterscotch popcorn coating description -> /
+- Website URL -> db
+</details>
+
+---
 
 # Gulfside Fabricators
 
 **Old description:** At Gulf Side Fabricators, our certifications and capabilities reflect our commitment to excellence across every facet of custom fabrication:
 
 ## About
-Gulf Side Fabricators, LLC operates from Broussard, Louisiana, on the Gulf Coast. The company was founded in October 2010 by industry veterans with over two decades of hands-on experience who were dissatisfied with prevailing quality standards. It remains privately held.
+Gulf Side Fabricators, LLC, was founded in October 2010 in Broussard, Louisiana, by industry veterans with over two decades of hands-on experience. The founders, having seen the market settle for "good enough," set out to raise the bar for custom metal fabrication on the Gulf Coast.
 
-The shop specializes in custom metal fabrication, including ASME-certified pressure vessels (U and R stamps), process piping to B31.3, and offshore/onshore piping systems. It runs a 24,000-square-foot campus that includes a dedicated carbon-steel facility and a separate exotic-alloy facility for stainless steel, super duplex, copper-nickel, and aluminum. Welding capabilities cover FCAW, GMAW, SMAW, and GTAW, supported by nesting software that the company says cuts material waste by up to 30 percent. In-house hydrostatic testing and full documentation packages are standard.
+The company operates a 24,000-square-foot campus that includes separate facilities for carbon steel and exotic alloys such as stainless steel, super duplex, copper nickel, and aluminum. Its core processes cover FCAW, GMAW, SMAW, and GTAW welding, ASME-coded pressure vessel fabrication (U and R stamps), B31.3 process piping, and DNV 2.7-1/2.7-3 offshore container manufacturing. In-house hydrostatic testing and advanced nesting software that reduces material waste by up to 30% support the workflow.
 
-Primary customers operate in the offshore oil and gas, marine, petrochemical, and broader industrial sectors. The firm’s DNV 2.7-1 and 2.7-3 certifications qualify it for offshore container and lifting-appliance work, while its B31.3 expertise serves process-piping projects both onshore and in the Gulf of Mexico.
+Gulf Side serves offshore oil and gas, marine, chemical processing, and general industrial clients. Typical projects include offshore and onshore piping systems, pressure vessels for refineries, and DNV-certified containers for marine service. The shop's certifications allow it to meet the stringent documentation and testing requirements of these regulated sectors.
 
-Gulf Side says it differentiates itself through a “Louisiana Pride” culture that invests in advanced technology, separate material streams to avoid cross-contamination, and a quality system built to the industry’s most demanding safety standards rather than minimum compliance.
+The firm emphasizes "Innovation Over Imitation" and "Excellence Without Exception," investing in technology and training rather than shortcuts. Its Louisiana roots are framed as a strategic advantage, providing deep regional industry connections and a workforce committed to the area's industrial future.
 
 ## Known for
-- Nesting software that reduces material waste by up to 30%
-- Separate exotic-alloy facility prevents cross-contamination
-- ASME U and R stamp pressure-vessel certifications
-- DNV 2.7-1 and 2.7-3 offshore certifications
-- Strategic Gulf Coast location with deep industry connections
+- Nesting software that cuts material waste by up to 30%
+- Separate carbon steel and exotic alloy fabrication facilities
+- ASME U and R stamp pressure vessel certifications
+- DNV 2.7-1 and 2.7-3 certification for offshore containers
+- In-house hydrostatic testing and full documentation
 
 ## Capabilities
-- Custom metal fabrication
-- ASME pressure vessel fabrication (U Stamp, R Stamp)
-- Process piping fabrication (ASME B31.3)
-- Offshore and onshore piping fabrication
-- Exotic alloy fabrication (stainless steel, super duplex, copper nickel, aluminum)
-- Welding: FCAW, GMAW, SMAW, GTAW
+- FCAW welding
+- GMAW welding
+- SMAW welding
+- GTAW welding
+- ASME pressure vessel fabrication (U Stamp)
+- ASME pressure vessel repair (R Stamp)
+- B31.3 process piping fabrication
+- DNV 2.7-1/2.7-3 offshore container manufacturing
 - Hydrostatic testing
-- Non-destructive examination
 - Nesting software for material optimization
-- Complete testing and documentation
+- Carbon steel fabrication
+- Stainless steel fabrication
+- Super duplex fabrication
+- Copper nickel fabrication
+- Aluminum fabrication
 
 ## Industries
 - Offshore oil and gas
 - Marine
-- Petrochemical
+- Chemical processing
 - Process piping
 - Industrial fabrication
 
 ## Equipment
-- Fabrication machinery
 - Nesting software
 
 ## Certifications
@@ -460,18 +491,20 @@ Gulf Side says it differentiates itself through a “Louisiana Pride” culture 
 
 <details><summary>Sources</summary>
 
-- Founded October 2010 -> /about-us
-- Headquarters Broussard, Louisiana -> db
-- 24,000 sq ft facility (2022) -> /about-us
-- ASME U and R stamp certifications -> /about-us
+- Founded October 2010 in Broussard, Louisiana -> /about-us
+- Founders had over two decades of experience -> /about-us
+- 24,000 sq ft facility as of 2022 -> /about-us
+- Separate carbon steel and exotic metal facilities -> /
+- Processes: FCAW, GMAW, SMAW, GTAW welding -> /
+- ASME U Stamp and R Stamp certifications -> /about-us
 - DNV 2.7-1 and 2.7-3 certifications -> /about-us
-- ISO 9001 certification (2012) -> /about-us
-- B31.3 process piping expertise -> /about-us
-- Exotic alloy facility for stainless steel, super duplex, copper nickel, aluminum -> /about-us
-- Welding processes FCAW, GMAW, SMAW, GTAW -> /
+- ASME B31.3 process piping -> /about-us
+- In-house hydrostatic testing -> /about-us
 - Nesting software reduces waste up to 30% -> /
-- Strategic Gulf Coast location -> /
-- Offshore and onshore piping fabrication -> /about-us
+- Materials: carbon steel, stainless steel, super duplex, copper nickel, aluminum -> /about-us
+- Industries: offshore, marine, process piping -> /about-us
+- ISO 9001 certification achieved 2012 -> /about-us
+- Company philosophy: Innovation Over Imitation, Excellence Without Exception, Louisiana Pride -> /about-us
 </details>
 
 ---
@@ -481,53 +514,54 @@ Gulf Side says it differentiates itself through a “Louisiana Pride” culture 
 **Old description:** Gusti Restaurant Equipment is a family-owned and operated business that has been proudly serving Richmond, VA over 25 years. We offer everything from the front-of-house to back-of-house for restaurants, small businesses, hotels, churches, and even your home kitchen! We are open to the public and restaurateurs alike for all your cooking needs. With a focus on personal, upfront customer service, we strive to achieve your best vision and budget.
 
 ## About
-Gusti Restaurant Equipment operates from a 30,000-square-foot showroom and warehouse on Dabney Road in Richmond, Virginia. The family-owned business has served the Richmond area for more than 25 years, founded by the Gusti family and known locally through owner Joe Gusti and his son, who assist customers on the floor.
+Gusti Restaurant Equipment operates from a 30,000-square-foot showroom and warehouse on Dabney Road in Richmond, Virginia. The family-owned business has served the Richmond area for more than 25 years, with owner Joe Gusti and his family running day-to-day operations. The company began as a local supplier focused on personal, upfront service for both professional restaurateurs and the general public.
 
-The company stocks and sells new restaurant equipment, furniture, smallwares, and outdoor cooking gear from multiple manufacturers. Its inventory spans front-of-house and back-of-house needs, including multi-compartment sinks, cooking lines, refrigeration, and tabletop items. The large facility allows walk-in shopping for both trade buyers and the general public.
+The firm stocks a broad range of front-of-house and back-of-house products, including three-compartment and two-compartment sinks, new restaurant equipment, restaurant furniture, smallwares, and outdoor cooking gear. In addition to sales, Gusti offers financing options and operates a used-equipment purchase program, allowing customers to sell surplus items. The large showroom enables hands-on evaluation, and staff provide guidance on kitchen layout and equipment selection.
 
-Customers range from independent restaurants and small businesses to hotels, churches, and home cooks outfitting residential kitchens. Testimonials cite chefs opening new concepts, existing operators expanding, and retail shoppers purchasing professional-grade supplies for home use.
+Customers span independent restaurants, small businesses, hotels, churches, and home cooks. The store is open to the public, and testimonials highlight its role in helping new ventures launch and existing operations expand. Clients range from first-time buyers outfitting a home kitchen to multi-unit operators seeking detailed specifications and printed product data.
 
-The business emphasizes personal, upfront service and works to match each buyer's vision and budget. Financing options are offered, and the company also purchases used restaurant equipment, providing a liquidation path for operators closing or upgrading.
+The company emphasizes personal service and budget-conscious solutions, aiming to match each customer's vision without pressure. Its differentiators include the combination of a vast physical inventory, knowledgeable staff who assist with kitchen design, and a willingness to work on pricing and payment terms.
 
 ## Known for
-- Family-owned with over 25 years serving Richmond, VA
-- 30,000+ sq ft showroom and warehouse open to public and trade
-- Carries multiple manufacturers' lines for front- and back-of-house
+- Family-owned and operated with hands-on ownership
+- Over 30,000 sq ft showroom and warehouse under one roof
+- Open to both public and trade customers
 - Financing available for equipment purchases
-- Buys used restaurant equipment from operators
+- Buys used restaurant equipment from customers
 
 ## Capabilities
-- Equipment distribution
+- Restaurant equipment distribution
 - Showroom sales
+- Warehouse distribution
 - Financing options
 - Used equipment purchasing
-- Commercial kitchen layout assistance
+- Commercial kitchen layout consultation
 
 ## Industries
 - Restaurants
 - Small businesses
 - Hotels
 - Churches
-- Residential/Home kitchens
+- Residential kitchens
 
 ## Company details
 - **Company Type:** Distributor / reseller
 - **Ownership:** Family-owned
-- **Headquarters:** Richmond, Virginia
+- **Headquarters:** Richmond, VA
 
 <details><summary>Sources</summary>
 
-- Family-owned and operated, serving Richmond VA over 25 years -> db
-- Showroom and warehouse over 30,000 square feet at 1901 Dabney Rd, Richmond, VA 23230 -> /
-- Offers new restaurant equipment, restaurant furniture, smallwares, outdoor cooking equipment -> /
-- Carries products from multiple restaurant equipment manufacturers -> /
-- Serves restaurants, small businesses, hotels, churches, home kitchens -> /
-- Open to public and restaurateurs alike -> /
-- Focus on personal, upfront customer service -> /
-- Financing available -> /
-- Buys used restaurant equipment (Sell My Restaurant Equipment) -> /
-- Owner Joe Gusti and his son assist customers -> / (testimonials)
-- Phone 804-355-6600 -> /
+- Location: Richmond, VA (1901 Dabney Rd) -> db, page '/'
+- Family-owned and operated -> page '/'
+- Over 25 years serving Richmond -> page '/'
+- Showroom and warehouse over 30,000 sq ft -> page '/'
+- Owner Joe Gusti (Mr. Gusti) mentioned in testimonials -> page '/'
+- Products: sinks, new equipment, furniture, smallwares, outdoor cooking -> page '/'
+- Industries: restaurants, small businesses, hotels, churches, home kitchens -> page '/'
+- Financing offered -> page '/'
+- Used equipment purchase program ('Sell My Restaurant Equipment') -> page '/'
+- Open to public and restaurateurs -> page '/'
+- Personal, upfront customer service focus -> page '/'
 </details>
 
 ---

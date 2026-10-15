@@ -3,34 +3,35 @@
 **Old description:** Mercury Plastics, Inc. offers unparalleled expertise in thermoforming, plastic fabrication, and printing services for clients from various industries. Our mission is to simplify the lives of our customers – thus having a large range of capabilities under one roof, including engineering & design, mill operations, in-house sheet extrusion, custom printing, and more.
 
 ## About
-Mercury Plastics, Inc. was founded in 1955 in Chicago, Illinois. The company operates four manufacturing sites and two warehouses encompassing more than 500,000 square feet of production space.
+Mercury Plastics, Inc. was founded in 1955 in Chicago, Illinois. The company has operated continuously since then as a manufacturer of thermoformed packaging, plastic fabricated parts, and printed products.
 
-The company specializes in thermoforming, plastic fabrication, and printing, with a full suite of in-house capabilities including engineering and design, mill operations, sheet extrusion, and custom printing. This integrated approach allows Mercury to handle projects from concept through finished parts without relying on external vendors.
+The company provides a range of capabilities under one roof, including engineering and design, mill operations, in-house sheet extrusion, custom printing, thermoforming, and plastic fabrication. It operates four manufacturing sites and two warehouses totaling more than 500,000 square feet of production space. No headcount or annual volume figures are disclosed.
 
-Its customer base spans food packaging, retail and point-of-sale displays, consumer packaging, automotive components, and healthcare and medical devices. The firm works with both large OEMs and smaller brands that require custom thermoformed solutions.
+Mercury Plastics serves customers in food packaging, retail and point-of-sale displays, consumer packaging, automotive, and healthcare and medical devices. The firm emphasizes its ability to handle projects of any size, stating that no job is too large.
 
-Mercury states that its founding mission was to simplify customers' lives by consolidating multiple processes under one roof. It emphasizes a zero-defects goal backed by stringent quality control and highlights its leadership in guiding clients toward environmentally responsible materials such as recycled and reprocessed plastics. Long-term partnerships built on integrity and responsiveness remain central to its business model.
+The company's stated mission is to simplify customers' lives by consolidating multiple processes in a single facility. It pursues a zero-defects goal through stringent quality control and continuous improvement. Mercury also positions itself as an environmental leader, offering recycled, reprocessed, and blended plastic materials to help clients meet sustainability targets.
 
 ## Known for
-- All core capabilities — engineering, mill operations, sheet extrusion, printing — housed in a single facility network
-- Zero-defects quality target with continuous improvement focus
-- Environmental material expertise including recycled, reprocessed, and blended plastics
-- Four manufacturing sites and two warehouses totaling 500,000+ square feet
+- Comprehensive capabilities under one roof (engineering, mill operations, in-house sheet extrusion, custom printing)
+- Zero defects goal with stringent quality control
+- Environmental leadership with recycled, reprocessed, blended plastic materials
+- Four manufacturing sites and two warehouses totaling 500k+ sq ft
+- No job too large
 
 ## Capabilities
 - Thermoforming
 - Plastic fabrication
-- Printing services
+- Printing
 - Engineering and design
 - Mill operations
 - In-house sheet extrusion
 - Custom printing
-- Recycled/reprocessed material processing
+- Recycled material processing
 
 ## Industries
-- Food Packaging
+- Food packaging
 - Retail and point of sale
-- Consumer Packaging
+- Consumer packaging
 - Automotive
 - Healthcare and medical devices
 
@@ -44,10 +45,11 @@ Mercury states that its founding mission was to simplify customers' lives by con
 - Founded 1955 -> /about
 - Headquarters Chicago, Illinois -> db
 - Four manufacturing sites, two warehouses, 500k+ sq ft -> /
-- Capabilities: thermoforming, plastic fabrication, printing, engineering & design, mill operations, in-house sheet extrusion, custom printing -> /
-- Industries served: Food Packaging, retail and point of sale, Consumer Packaging, Automotive, Healthcare and medical devices -> /
+- Industries: food packaging, retail and point of sale, consumer packaging, automotive, healthcare and medical devices -> /
+- Capabilities: thermoforming, plastic fabrication, printing, engineering & design, mill operations, in-house sheet extrusion, custom printing -> /, /about
 - Environmental responsibility: recycled, reprocessed, blended plastic materials -> /
-- Mission: simplify customers' lives, zero defects goal, value relationships -> /about
+- Zero defects goal -> /about
+- Mission to simplify customers' lives -> /, /about
 </details>
 
 ---
@@ -57,37 +59,49 @@ Mercury states that its founding mission was to simplify customers' lives by con
 **Old description:** Leaders in Thermoform Innovation since 1984, ISO 9001 Certified
 
 ## About
-Mercury Plastics MD operates from Baltimore, Maryland, as an East Coast division of Mercury Plastics Inc., a Midwest-based thermoforming manufacturer with roots dating to 1984. The Maryland facility, formerly known as Maryland Thermoform Corporation (MTC), joined the Mercury family in February 2018 under General Manager Carl Livesay, expanding the parent company’s 65-year legacy of plastics expertise to the Mid‑Atlantic region.
+Mercury Plastics MD operates from Baltimore, Maryland, as the East Coast division of Mercury Plastics Inc., a Midwest-based custom thermoformer with 65 years of history. The Maryland division traces its roots to 1984 and was formerly known as Maryland Thermoform Corporation (MTC) before joining the Mercury family in February 2018 under General Manager Carl Livesay. The company is privately held and emphasizes wholly American-made products and materials.
 
-The company provides vertically integrated thermoforming, plastic fabrication, printing, and overmolding services, running projects from custom prototypes through high‑volume packaging runs. Its in‑house capabilities include vacuum and heavy‑gauge thermoforming, CNC programming, tool and die making, and a proprietary extrusion line for recycled, reprocessed, blended, and biodegradable materials. The plant operates a 5S lean program, uses MX4 software for preventive maintenance, and recycles all plastic, metal, and corrugated scrap.
+The facility provides vertically integrated thermoforming, plastic fabrication, printing, overmolding, and in-house extrusion services. It handles projects from custom prototypes to high-volume packaging runs, supported by CNC machining, tool-and-die capabilities, and a 5S lean manufacturing program. The plant uses MX4 maintenance software and recycles all plastic scrap, metals, and corrugated waste.
 
-Mercury Plastics MD serves a range of industries, with a noted focus on high‑volume packaging — exemplified by its Candle Packaging USA line, one of the nation’s largest candle‑packaging producers — and has supported emergency response efforts such as the donation of 30,000 face shields during the COVID‑19 pandemic. Customers span sectors requiring custom thermoformed parts, fabricated assemblies, and printed plastic components.
+Customers span candle packaging — notably Candle Packaging USA, one of the nation’s largest producers — and medical/first-responder sectors, for which the company produced 30,000 face shields during the COVID-19 pandemic. The firm also serves general industrial and packaging markets with heavy-gauge thermoformed parts.
 
-The firm emphasizes American‑made materials, lead times up to five times faster than competitors, and a culture of “thought partnership” that guides clients from concept to production. Its DEI commitments, sustainability research, and cross‑functional team — including veterans in fabrication, quality, and production control — are presented as core differentiators.
+Mercury Plastics MD differentiates itself through vertical integration that keeps projects in-house, lead times claimed to be up to five times faster than competitors, and a sustainability focus that includes recycled and biodegradable materials plus proprietary extrusion development. A culture of collaboration and thought partnership is cited as key to solving complex challenges.
 
 ## Known for
-- Vertically integrated, wholly American‑made materials and production
-- Lead and production times up to 5× faster than competitors
-- In‑house extrusion and proprietary material development (recycled, biodegradable)
-- 5S lean manufacturing with MX4‑driven equipment maintenance
-- Full scrap recycling (plastic, metal, corrugated) and DEI‑focused workplace
+- Vertically integrated, wholly American-made production
+- Lead times up to 5x faster than competitors
+- In-house extrusion and proprietary material development
+- 5S lean manufacturing with MX4 maintenance software
+- Full recycling of plastic scrap, metals, and corrugated materials
 
 ## Capabilities
-- Thermoforming
 - Vacuum thermoforming
-- Heavy gauge thermoforming
+- Heavy-gauge thermoforming
 - Plastic fabrication
 - Printing services
 - Overmolding
 - In-house extrusion
-- CNC programming
+- CNC machining
 - Tool and die making
-- Material research and development
+- Prototyping
+- High-volume packaging
 - 5S lean manufacturing
 - MX4 preventive maintenance
-- Scrap recycling (plastic, metal, corrugated)
-- Prototyping
-- High-volume packaging production
+- Scrap recycling (plastics, metals, corrugated)
+- Material sourcing and inventory management
+- Design for manufacturability assistance
+- Quality inspection and testing
+
+## Industries
+- Candle packaging
+- Medical/first responder
+- Industrial packaging
+- General industrial
+
+## Equipment
+- MX4 maintenance software
+- CNC machining equipment
+- Tool and die equipment
 
 ## Certifications
 - ISO 9001
@@ -95,7 +109,7 @@ The firm emphasizes American‑made materials, lead times up to five times faste
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1984
-- **Ownership:** Division of Mercury Plastics Inc. (Midwest)
+- **Ownership:** Division of Mercury Plastics Inc.
 - **Headquarters:** Baltimore, Maryland
 
 <details><summary>Sources</summary>
@@ -103,20 +117,17 @@ The firm emphasizes American‑made materials, lead times up to five times faste
 - Founded 1984 -> db
 - Headquarters Baltimore, Maryland -> db
 - ISO 9001 certified -> db
-- Division of Mercury Plastics Inc. (Midwest) -> /about
+- Division of Mercury Plastics Inc. -> /about
 - Formerly Maryland Thermoform Corporation (MTC) since February 2018 -> /about
-- General Manager Carl Livesay joined 2018 -> /about
-- Vertically integrated, wholly American-made -> /about
-- Thermoforming, plastic fabrication, printing services -> /about
-- Overmolding capability -> /
-- Vacuum and heavy-gauge thermoforming -> /
-- In-house extrusion for recycled, reprocessed, blended, biodegradable materials -> /about
+- Vertical integration and wholly American-made -> /about
+- Capabilities: thermoforming, fabrication, printing, overmolding, extrusion -> /about
+- Lead times up to 5x faster -> /about
 - 5S lean manufacturing program -> /about
-- MX4 software for equipment maintenance -> /about
+- MX4 maintenance software -> /about
 - Recycling all plastic scrap, metals, corrugated -> /about
-- Candle Packaging USA high-volume packaging -> /about
-- Donated 30,000 face shields during COVID-19 -> /about
-- Lead times up to 5x faster than competitors -> /
+- In-house extrusion of proprietary materials -> /about
+- Candle Packaging USA client -> /about
+- 30,000 face shields for first responders -> /about
 - Team members: Carl Livesay, James Hall, Scott Kneebone, Lakyn Pieper, Matthew Livesay, Dan Scroggins -> /about
 </details>
 
@@ -127,52 +138,50 @@ The firm emphasizes American‑made materials, lead times up to five times faste
 **Old description:** Trusted custom wire and cable manufacturer since 1967, based in Spencer, Massachusetts, serving customers nationwide and globally.
 
 ## About
-Mercury Wire Products Inc. has operated from Spencer, Massachusetts since its founding in 1967. The company began as a custom wire and cable manufacturer and has remained independently owned, serving customers across the United States and internationally from its single Massachusetts facility.
+Founded in 1967 in Spencer, Massachusetts, Mercury Wire Products Inc has operated as a custom wire and cable manufacturer for over five decades. The company serves customers nationwide and globally from its Massachusetts base.
 
-The company designs and manufactures engineered wire, cable, and complete cable assemblies under one roof. Its capabilities span custom cable construction — selecting conductors, shielding, jacketing, and geometry for specific applications — through full assembly services that include crimping, connector termination, and testing. Production follows a value-stream model where a dedicated team owns each project from design through delivery, supported by lean manufacturing practices, in-house rapid prototyping, and Kanban-based inventory management.
+Mercury Wire designs and manufactures engineered wire, cable, and assembly solutions tailored to specific applications. Its services span custom cable manufacturing, full cable assembly, custom engineering, and rapid in-house prototyping. Production follows lean principles with dedicated value stream teams that own projects from design through delivery, supported by Kanban inventory management and pull-based systems. The company scales from prototype runs to full production programs without stating facility size or headcount.
 
-Mercury Wire serves original equipment manufacturers in medical devices, aerospace, industrial equipment, and harsh-environment applications. Documented projects include waterproof push-rod inspection cables for sewer and pipeline inspection systems, plasma-cutting leads for cutting-technology OEMs, and cable assemblies for analytical instrumentation manufacturers. The company also supports power, signal, and specialty cable needs across industrial and medical systems.
+The company serves medical, aerospace, industrial, and specialty markets. Concrete examples include a global inspection company using waterproof push-rod cables for sewer and pipeline environments, a leader in plasma cutting technology improving plasma cutter leads, and a manufacturer of analytical instrumentation reducing field failures. Customers also include OEMs in power, signal, and specialty applications.
 
-Leadership emphasizes a people-first, continuous-improvement culture built around what it calls its True North principles. The stated differentiator is the value-stream ownership structure, which eliminates handoffs between engineering, production, and logistics to accelerate decisions and reduce lead times. The DIVE process — Discover, Design & Prototype, Build & Scale, Deliver & Support — formalizes this end-to-end accountability.
+Mercury Wire differentiates itself through a people-first, continuous-improvement culture. Its DIVE process (Design optimization, Inventory management, Value stream integration, Execution excellence) aims to accelerate value velocity. The company emphasizes direct customer access to the build team, rapid prototyping with agile decisions, and a partnership model described as 'large enough to meet demand and small enough to stay personal.'
 
 ## Known for
-- Dedicated value-stream team owns each project from design through delivery
-- Lean manufacturing with Kanban pull-based inventory management
-- In-house rapid prototyping and custom engineering support
-- ITAR registered with REACH/RoHS compliance and UL/CSA approvals
-- Turnkey assembly including crimping, connector termination, and testing
+- Dedicated value stream teams own projects end-to-end, eliminating handoffs
+- Lean manufacturing and continuous-improvement culture prioritizing value velocity
+- Rapid in-house prototyping with agile decisions by the build team
+- Kanban and pull-based inventory management for steady supply chain
+- Direct access to the team that built the product for ongoing support
 
 ## Capabilities
 - Custom cable design and manufacturing
 - Cable assembly and integration
 - Custom engineering and prototyping
-- Value-stream project ownership
-- Lean manufacturing
+- Design optimization for manufacturability
+- Rapid in-house prototyping
+- Lean manufacturing and value stream management
 - Kanban inventory management
-- Rapid prototyping
-- Design for manufacturability
-- Crimping and termination
-- Connector integration
-- Cable testing and validation
-- Waterproof cable construction
-- High-flex cable design
-- Shielded cable construction
-- Multi-conductor cable manufacturing
+- Rigorous testing and quality assurance
+- Scalable production from prototype to full volume
+- Material selection, shielding, and jacketing
+- Turnkey assembly solutions
+- Precision crimping and termination
+- DIVE process (Design, Inventory, Value stream, Execution)
 
 ## Industries
-- Medical devices
+- Medical
 - Aerospace
-- Industrial equipment
-- Plasma cutting technology
-- Pipeline and sewer inspection
+- Industrial
+- Sewer and pipeline inspection
 - Analytical instrumentation
-- Power and signal distribution
+- Power and signal applications
+- Specialty applications
 
 ## Certifications
-- ITAR Registered
-- REACH/RoHS Compliant
-- UL Approvals (Application-Specific)
-- CSA Approvals (Application-Specific)
+- ITAR
+- REACH/RoHS
+- UL (Application-Specific)
+- CSA (Application-Specific)
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -181,16 +190,15 @@ Leadership emphasizes a people-first, continuous-improvement culture built aroun
 
 <details><summary>Sources</summary>
 
-- Founded 1967 in Spencer, Massachusetts -> db, /
-- Custom wire and cable manufacturer -> /
-- Value-stream team model, lean manufacturing, Kanban inventory -> /
-- Services: Custom Cable, Assembly, Custom Engineering and Prototyping -> /, /services
-- Certifications: ITAR Registered, REACH/RoHS Compliant, UL & CSA Approvals -> /
-- Industries: Medical, Aerospace, Plasma cutting, Sewer/pipeline inspection, Analytical instrumentation -> /
-- DIVE Process (Discover, Design & Prototype, Build & Scale, Deliver & Support) -> /
-- People-first, continuous-improvement culture, True North principles -> /about-us
-- Turnkey assembly with crimping, connector termination, testing -> /services
-- Waterproof push-rod inspection cable case study -> /
+- Founded 1967, Spencer, MA -> db, /
+- Custom cable manufacturer since 1967 -> /
+- Certifications: ITAR, ROHS -> db; REACH/RoHS, UL, CSA, ITAR Registered -> /
+- Capabilities: custom cable manufacturing, assembly, engineering, prototyping -> /, /services
+- Industries: medical, aerospace, plasma cutting, sewer/pipeline inspection, analytical instrumentation -> /
+- Value stream teams, lean, Kanban, DIVE process -> /, /about-us
+- Scalable production prototype to production -> /, /about-us
+- Personalized service, direct access to build team -> /
+- No founders, ownership, employee count, facility size, equipment, tolerances, min order, languages, social links stated -> /, /about-us, /services
 </details>
 
 ---
@@ -200,49 +208,45 @@ Leadership emphasizes a people-first, continuous-improvement culture built aroun
 **Old description:** ISO 9001:2015 Certification A quality product is mandatory today. To ensure our cable assemblies, coil cords, and molded components are produced to your exact specifications, our Tanggu, China facility is ISO 9001:2015 certified. We have proudly maintained ISO certifications since 2000. UL Certifications Our Tanggu, China facility is a UL-approved wire and cable extruder as…
 
 ## About
-Meridian Cable, LLC, headquartered in St. Augustine, Florida, opened its first facility in 1994. The company operates a 7,000-square-foot plant in northeast Florida and owns a 30,000-square-foot production facility in Tanggu, China. President Bud Kinzalow leads the privately held business, which has specialized in custom cable assemblies, wire harnesses, and coil cords for over three decades.
+Meridian Cable, LLC, headquartered in St. Augustine, Florida, opened its first facility in 1994. The company operates two production sites: a 7,000-square-foot plant in St. Augustine and a 30,000-square-foot facility in Tanggu, China, which it owns outright. President Bud Kinzalow leads the organization.
 
-The company designs and manufactures custom cable assemblies, including RF, SMA, shielded, overmolded, and coil cord configurations. Its capabilities span cable design and engineering, custom extrusion (34 AWG to 12 AWG conductors), low-pressure insert molding using an LPMS Beta 300 machine, prototyping, 100% pre-production testing (continuity, integrity, polarity, functionality), qualification sampling, and volume manufacturing. An advanced life-testing lab validates designs under harsh conditions. Meridian maintains over 5,000 molds and tools, and designs more than 70 percent of the products it builds.
+The company designs and manufactures custom cable assemblies, wire harnesses, coil cords, overmolded assemblies, RF cable assemblies, and shielded cable assemblies. Its capabilities span custom cable design and engineering, custom extrusion (from 34 AWG to 12 AWG), overmolding and insert molding using low-pressure molding machines such as the LPMS Beta 300, prototyping, pre-production testing, qualification sampling, and volume manufacturing. Meridian designs more than 70 percent of the products it builds and maintains a tooling inventory of over 5,000 molds for connectors, junctions, overmolds, and housings.
 
-Meridian serves OEMs in military and defense, telecommunications, medical, industrial control, broadcasting, retail security, automotive, aerospace, and film industries. Customers rely on the firm for engineered solutions that cannot be sourced off the shelf, from concept through qualification to full-rate production.
+Meridian serves OEMs across military and defense, telecommunications, medical, industrial control, broadcasting, retail security, automotive, aerospace, and film industries. Its customers require custom solutions that cannot be sourced off the shelf, and the company supports them from concept through production with services that include KanBan and stocking programs.
 
-Meridian differentiates itself by owning its Chinese facility, ensuring direct quality control and unchanged specifications from design to delivery. The company extrudes its own cable from raw copper, allowing specification adjustments, and provides U.S. warehousing with KanBan stocking programs. Every assembly undergoes 100% testing before shipment, and the team supports UL, MIL-SPEC, and CSA certification processes.
+The company differentiates itself by owning its Chinese facility to maintain direct quality control, extruding cable from the individual copper strand, and performing 100 percent testing for continuity, integrity, polarity, and functionality in its Advanced Life Testing Lab. Its low-pressure molding capability and extensive tooling library reduce the need for new tooling investment.
 
 ## Known for
-- Designs over 70% of products in-house
-- Owns and directly controls China manufacturing facility
-- Extrudes custom cable from raw copper (34 AWG to 12 AWG)
-- Maintains 5,000+ molds and tools for connectors, overmolds, housings
-- 100% testing with advanced life-testing lab
+- Designs >70% of all assemblies produced in-house
+- Owns Chinese facility for direct quality and process control
+- Over 5,000 existing tools for connectors, junctions, overmolds, and housings
+- 100% testing for continuity, integrity, polarity, and functionality
+- Custom cable extrusion from individual copper strand
 
 ## Capabilities
-- Cable design & engineering
-- Custom cable assembly manufacturing
-- Wire harness assembly
-- Coil cord manufacturing
-- Overmolding / insert molding
-- Custom cable extrusion
+- Custom cable design & engineering
+- Custom cable extrusion (34 AWG to 12 AWG)
+- Wire harness and cable assembly
+- Overmolding and insert molding
+- Low pressure molding (LPMS Beta 300)
 - Prototyping
 - Pre-production testing (continuity, integrity, polarity, functionality)
 - Qualification sampling
 - Volume manufacturing
-- Life/aging testing
-- 3D CAD design & modeling
-- Low pressure molding (LPMS Beta 300)
-- KanBan / stocking programs
-- Distribution
-- UL certification support
-- MIL-SPEC compliance
-- CSA certification support
-- Shielded cable assembly
+- Custom coil cord manufacturing
 - RF cable assembly
-- SMA connector assembly
-- Medical cable assembly
+- Shielded cable assembly
+- SMA connector cable assembly
+- Custom tooling (5,000+ molds)
+- 3D CAD design and modeling
+- Advanced life testing
+- KanBan and stocking programs
+- Distribution
 
 ## Industries
-- Military & defense
+- Military and defense
 - Telecommunications
-- Medical / healthcare
+- Medical
 - Industrial control
 - Broadcasting
 - Retail security
@@ -252,18 +256,12 @@ Meridian differentiates itself by owning its Chinese facility, ensuring direct q
 
 ## Equipment
 - LPMS Beta 300 low pressure molding machine
-- 3D CAD design & modeling software
-- Advanced life testing lab
-- Automated testing systems
-- Wire & cable extrusion equipment
+- Advanced Life Testing Lab
 
 ## Certifications
 - ISO 9001:2015
 - IATF 16949
-- UL-approved wire & cable extruder
-- UL certification for individual products
-- MIL-SPEC
-- CSA
+- UL
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -272,26 +270,21 @@ Meridian differentiates itself by owning its Chinese facility, ensuring direct q
 
 <details><summary>Sources</summary>
 
-- Headquarters St. Augustine, Florida -> /about-us
 - Founded 1994 -> /about-us
+- Headquarters St. Augustine, Florida -> /about-us
+- Facilities: 7,000 sq ft St. Augustine, 30,000 sq ft Tanggu, China -> /about-us
 - President Bud Kinzalow -> /about-us
-- 7,000 sq ft Florida facility -> /about-us
-- 30,000 sq ft Tanggu, China facility -> /about-us
-- Owns Chinese facility -> /about-us
-- Designs >70% of products -> /about-us, /capabilities
-- Over 5,000 molds/tools -> /about-us, /capabilities
+- Design >70% of products -> /capabilities
+- Over 5,000 molds/tooling -> /capabilities
 - Custom extrusion 34 AWG to 12 AWG -> /capabilities
-- LPMS Beta 300 low pressure molding -> /capabilities
-- 100% testing (continuity, integrity, polarity, functionality) -> /about-us, /capabilities
-- Advanced life testing lab -> /about-us, /capabilities
-- ISO 9001:2015 & IATF 16949 at China facility -> /about-us, /
-- UL-approved wire & cable extruder -> /, /about-us
-- Industries: military, telecom, medical, industrial, broadcasting, retail security, automotive, aerospace, film -> /, /about-us, /capabilities
-- KanBan/stocking programs -> /about-us
-- Prototyping & qualification sampling -> /about-us, /capabilities
-- Volume manufacturing -> /about-us, /capabilities
-- Extrudes own cable from raw copper -> /about-us
-- Supports UL, MIL-SPEC, CSA certification -> /about-us, /
+- Low pressure molding LPMS Beta 300 -> /capabilities
+- 100% testing -> /about-us
+- Advanced Life Testing Lab -> /about-us
+- ISO 9001:2015 and IATF 16949 certifications -> /about-us
+- UL-approved -> /about-us
+- Industries served: military, telecommunications, medical, industrial control, broadcasting, retail security, automotive, aerospace, film -> /about-us and /capabilities
+- Own Chinese facility -> /about-us
+- KanBan and stocking programs -> /about-us
 </details>
 
 ---
@@ -301,57 +294,55 @@ Meridian differentiates itself by owning its Chinese facility, ensuring direct q
 **Old description:** Messenger specializes in high-tech, tight tolerance, precision mold design. As a full-service molder, we take pride in building relationships with our customers so your product is designed and built exactly to your specifications. Our team works with you one-on-one to be sure you are satisfied.
 
 ## About
-Messenger Molding & Manufacturing was founded in 1976 by Ron Messenger in California. The company relocated to Reno, Nevada in 1994 and has operated from its current facility there since 1996. Now in its second generation of family ownership, the business has spent nearly five decades building precision molds and running plastic injection molding programs for customers worldwide.
+Founded by Ron Messenger in 1976 in California, the company moved to Reno, Nevada in 1994 and has operated from its current location since 1996. Now in its second generation of family ownership, Messenger Molding has spent nearly four decades building precision tooling and plastic injection molding for clients worldwide.
 
-The shop provides full-service tooling and molding, including mold design, construction, and maintenance, as well as clean-room injection molding. Secondary operations cover sonic welding, pad printing, assembly, drilling, tapping, and automation integration. The tooling department can modify existing molds and return them to production in as little as one day. The company holds ISO certification and emphasizes tight-tolerance work for high-tech applications.
+Messenger Molding operates as a full-service molder, offering in-house mold design and construction, plastic injection molding (including clean room capability), and secondary operations such as sonic welding, pad printing, assembly, drilling, tapping, and automation integration. The tooling department can modify molds and return them to production in as little as one day. The company emphasizes design-for-manufacturability feedback, drawing on over a century of combined engineering experience.
 
-Messenger serves corporate clients across the United States and internationally, delivering parts that meet exact specifications through a quality assurance process that inspects at every stage. While the company does not publicize specific industry verticals, its capabilities in clean-room molding and precision tooling suggest alignment with medical, electronics, and industrial sectors.
+The company serves corporate clients across domestic and international markets, though specific industry sectors are not publicly detailed. Customers range from OEMs requiring high-precision components to firms needing clean room molded parts.
 
-The founder’s original focus on precision tooling that “works” remains a stated differentiator: the engineering team aims to catch design flaws early, and the company promises quotes within three days. A commitment to on-time delivery and just-in-time shipping arrangements for select customers rounds out the service model.
+Messenger Molding differentiates itself through rapid response: quotes delivered in three days or less, mold modifications turned around in a day, and just-in-time delivery programs. The firm's founding principle—“we don’t just design the finest tools; we design the finest tools that work”—underscores a focus on functional reliability over mere specification compliance.
 
 ## Known for
-- Tooling modifications returned to production in as little as one day
+- Mold modifications returned to production in as little as one day
 - Quotes provided in three days or less
-- ISO certified quality management
-- Full-service from mold design through secondary operations and packaging
-- Just-in-time delivery available for qualified customers
+- Clean room molding capability
+- Just-in-time delivery programs
+- Over a century of combined engineering experience
 
 ## Capabilities
 - Plastic injection molding
+- Precision mold design and tooling
 - Clean room molding
-- Mold design and construction
-- Mold modification and maintenance
 - Sonic welding
 - Pad printing
 - Assembly
 - Drilling and tapping
 - Automation integration
 - Just-in-time (JIT) delivery
-- Design for manufacturability assistance
+- Rapid mold modification (as fast as one day)
+- Design for manufacturability feedback
 - Quality assurance inspection
-
-## Certifications
-- ISO Certified
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1976
+- **Ownership:** Family-owned
 - **Headquarters:** Reno, Nevada
 
 <details><summary>Sources</summary>
 
-- Founded 1976 by Ron Messenger -> /about-us
-- Relocated to Reno, Nevada in 1994 -> /about-us
-- Current facility since 1996 -> /about-us
-- Nearly 40 years / two generations experience -> /
-- ISO Certified Plastic Injection Molding Company -> /
-- Services: Tooling, Injection Molding, Secondary Operations (sonic welding, printing, assembly, drilling, tapping, automation) -> /
-- Clean room molding -> db
+- Founded by Ron Messenger in 1976 -> /about-us
+- Moved to Reno, Nevada in 1994; at current address since 1996 -> /about-us
+- Two generations of family ownership -> /about-us
+- Nearly 40 years providing precision tooling and plastic injection molding -> /
+- Full-service molder with in-house tooling, injection molding, secondary operations -> /
+- Clean room molding capability -> db
 - JIT delivery services -> db
-- Tooling modifications in as little as one day -> /
+- Mold modifications back in production as soon as one day -> /
 - Quote in three days or less -> /about-us
-- QA team checks progress every step -> /about-us
-- Headquarters Reno, Nevada -> db
+- Over a century of combined engineering experience -> /
+- Serves domestic and international corporate clients -> /
+- ISO Certified -> db
 </details>
 
 ---
@@ -361,43 +352,47 @@ The founder’s original focus on precision tooling that “works” remains a s
 **Old description:** Metal Creations offer in house design services. We collaborate with our clientele to provide one of a kind projects. Get Function & Design questions answered in one place. You will be able to rest easy knowing the design, material, & finishing were based solely on your custom project. Let us help you take your project to the next level!
 
 ## About
-Metal Creations Design & Fabrication operates from a shop at 418 Interstate Court in Sarasota, Florida. The company was founded from a passion for metalwork and design, with a philosophy centered on blending function and aesthetics rather than simply completing a product. Ownership details and a specific founding year are not publicly disclosed.
+Metal Creations Design & Fabrication operates from a shop at 418 Interstate Court in Sarasota, Florida. The company was founded on a passion for metalwork and design, focusing on architectural metalwork for luxury residential and commercial spaces.
 
-The firm provides architectural metalwork for luxury residential and commercial projects, offering a full suite of services from conceptual design through installation. In-house designers produce SOLIDWORKS 3D and 2D drawings that feed directly into the fabrication shop, where capabilities include metal forming, rolling, shearing, water jetting, tube bending, milling, punching, notching, and multiple welding processes (TIG, MIG, stick, flux/arc). Finishing services cover polishing, patina, painting, and powder coating. The company emphasizes custom, non-mass-production work with precision across a range of metals including hot-rolled and cold-rolled steel, stainless steel, copper, brass, zinc, aluminum, galvanized steel, and bronze.
+The firm provides in-house conceptual design and SOLIDWORKS 3D and 2D CAD drawings, then fabricates custom metal components using processes that include metal forming, rolling, TIG and MIG welding, water jet cutting, tube bending, milling, punching, and notching. Finishing services cover polishing, patina, painting, and powder coating, and the company also handles on-site installation. The staff is organized into design, estimating, project management, engineering, fabrication, finishing, and installation teams.
 
-Primary customers are builders, designers, and architects serving the luxury residential and commercial construction sectors. The company cites trust from professionals in those fields and focuses on projects where architecture meets craftsmanship.
+Metal Creations serves builders, designers, and architects on luxury residential and commercial projects. Its portfolio includes custom architectural metalwork for high-end homes and commercial interiors, with the company noting it is by professionals in those fields.
 
-Metal Creations differentiates itself through a single project manager assigned from start to finish, fast turnaround times for both small and large jobs, and a business built largely on word-of-mouth referrals. The team integrates design, estimating, project management, engineering, fabrication, finishing, and installation under one roof.
+The company emphasizes a single project manager from start to finish, fast turnaround times for both small and large jobs, and a referral-driven growth model. It states that its personal approach to customer experience and in-house design capability set it apart from competitors.
 
 ## Known for
-- In-house design and engineering with SOLIDWORKS 3D/2D drawings
-- Single project manager from concept through installation
-- Fast turnaround on custom projects of any size
-- Full-service capability: design, fabrication, finishing, installation
-- Growth driven by word-of-mouth referrals
+- In-house design and engineering with SOLIDWORKS 3D/2D CAD
+- Single project manager assigned from concept through installation
+- Fast turnaround on both small and large projects
+- Full-service capability: design, fabrication, finishing, and installation under one roof
+- Referral-based growth reflecting customer satisfaction
 
 ## Capabilities
 - Conceptual design
-- CAD drawing (SOLIDWORKS 3D & 2D)
+- SOLIDWORKS 3D CAD modeling
+- SOLIDWORKS 2D CAD drafting
 - Metal forming
 - Rolling
+- TIG welding
 - Shearing
-- Water jetting
+- MIG welding
+- Water jet cutting
+- Stick welding
 - Tube bending
+- Flux/arc welding
 - Milling
 - Punching
 - Notching
-- TIG welding
-- MIG welding
-- Stick welding
-- Flux/arc welding
-- Finishing (polishing, patina, painting, powder coat)
+- Polishing
+- Patina finishing
+- Painting
+- Powder coating
 - Installation
 
 ## Industries
+- Architectural metalwork
 - Luxury residential construction
 - Commercial construction
-- Architectural metalwork
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -405,16 +400,14 @@ Metal Creations differentiates itself through a single project manager assigned 
 
 <details><summary>Sources</summary>
 
-- Location: Sarasota, Florida (418 Interstate Court) -> /
-- Founded from passion for metalwork and design -> /
-- Services: conceptual design, CAD drawings (SOLIDWORKS), fabrication, finishing, installation -> /
-- Fabrication processes: metal forming, rolling, shearing, water jetting, tube bending, milling, punching, notching, TIG/MIG/stick/flux-arc welding -> /
-- Finishing: polishing, patina, painting, powder coat -> /
-- Materials: hot rolled steel, cold rolled steel, stainless steel, copper, brass, zinc, aluminum, galvanized steel, bronze -> /
-- Industries: luxury residential, commercial, architectural metalwork -> /
-- Customers: builders, designers, architects -> /
-- Differentiators: single project manager, fast turnaround, word-of-mouth growth -> /
-- Company type: custom fabrication job shop -> /
+- Headquarters: Sarasota, Florida -> db
+- Services: design, fabrication, finishing, installation -> /
+- Materials: Hot Rolled Steel, Cold Rolled Steel, Stainless Steel, Copper, Brass, Zinc, Aluminum, Galvanized, Bronze -> /
+- Processes: metal forming, rolling, TIG welding, MIG welding, water jet cutting, tube bending, milling, punching, notching, polishing, patina, painting, powder coating -> /
+- Customer types: builders, designers, architects -> /
+- Differentiators: single project manager, fast turnaround, in-house design -> /
+- No founding year stated -> /
+- No certifications stated -> /
 </details>
 
 ---
@@ -424,31 +417,27 @@ Metal Creations differentiates itself through a single project manager assigned 
 **Old description:** Metal Rite Manufacturing LLC has been serving northern New Mexico and southern Colorado since 1996. Over the past 24 years Metal Rite has expanded its production line to now include; Master Rib, Tuff Rib, PBR, Corrugated, Standing Seam & Seamless Gutter.
 
 ## About
-Metal-Rite Manufacturing operates from El Prado, New Mexico, where it was founded in 1996 as a family-owned business. The company began in response to demand for faster local service in the metal roofing market, growing quickly after identifying a gap in regional lead times.
+Metal Rite Manufacturing LLC has operated from El Prado, New Mexico since 1996. The family-owned company was founded in response to demand for faster local service in the metal roofing market, where the prevailing turnaround was one to three weeks. The founders recognized that regional contractors needed a quicker source for roofing panels and gutter systems.
 
-The firm produces a range of metal roofing and gutter profiles, including Master Rib, Tuff Rib, PBR, corrugated panels, standing seam, and seamless gutter systems. Production centers on roll-forming equipment that shapes steel and aluminum coil into finished profiles, and the product line has expanded steadily over more than two decades.
+The shop roll-forms a range of metal roofing and gutter profiles, including Master Rib, Tuff Rib, PBR, Corrugated, Standing Seam, and Seamless Gutter. Production is geared toward regional delivery across northern New Mexico and southern Colorado, with a focus on short lead times.
 
-Metal-Rite serves contractors and builders across northern New Mexico and southern Colorado. Its customer base includes residential and commercial roofing projects that require quick turnaround on standard panel orders, with the company emphasizing local delivery over long-distance shipping.
+Its customer base consists primarily of contractors and builders in the surrounding region who require quick turnaround on roofing materials. The company serves both residential and commercial projects throughout its service area.
 
-The company was started because the industry standard in 1996 was a one- to three-week wait for delivery; Metal-Rite differentiated itself by committing to a 24-hour turnaround on Master Rib orders, a service standard it has maintained since its first day.
+The company differentiates itself by maintaining a 24-hour lead time on Master Rib orders, a service standard it has kept since its first day of business. This commitment to speed was the original impetus for starting the business and remains its core value proposition.
 
 ## Known for
 - 24-hour turnaround on Master Rib orders
 - Family-owned and operated since 1996
 - Local service focus for northern New Mexico and southern Colorado
-- Roll-forming production for metal roofing and gutter profiles
+- Consistent service standard since founding
 
 ## Capabilities
 - Roll forming
-- Metal roofing panel fabrication
+- Metal roofing panel production
 - Seamless gutter fabrication
-- Corrugated panel fabrication
-- Standing seam panel fabrication
 
 ## Industries
-- Construction
-- Roofing
-- Building Materials
+- Metal roofing
 
 ## Equipment
 - Roll former
@@ -461,15 +450,15 @@ The company was started because the industry standard in 1996 was a one- to thre
 
 <details><summary>Sources</summary>
 
-- Founded in 1996 -> db
+- Founded 1996 -> db
+- Headquarters El Prado, NM -> db
 - Family-owned and operated -> /about-us
-- Headquarters in El Prado, New Mexico -> /about-us
-- Products: Master Rib, Tuff Rib, PBR, Corrugated, Standing Seam, Seamless Gutter -> /
 - 24-hour turnaround on Master Rib orders -> /
+- Product line: Master Rib, Tuff Rib, PBR, Corrugated, Standing Seam, Seamless Gutter -> /
 - Roll former equipment -> /
-- Service area: northern New Mexico and southern Colorado -> /about-us
-- Industry standard 1-3 week turnaround in 1996 -> /about-us
-- Company started due to demand for faster local service -> /about-us
+- Service area: northern New Mexico and southern Colorado -> /
+- Founded due to demand for faster local service -> /
+- Service standard unchanged since first day -> /
 </details>
 
 ---
@@ -479,26 +468,26 @@ The company was started because the industry standard in 1996 was a one- to thre
 **Old description:** Metal-Tech, Inc. was founded in 1969 and we consistently exceed our customer's requirements and expectations due to our commitment to quality, competitive pricing and on time delivery. These are the ideals on which Metal-Tech, Inc. was founded and are the cornerstone of our philosophy.
 
 ## About
-Metal-Tech, Inc. was founded in 1969 in New Castle, Delaware. The company began with the intention of offering more than a typical job shop, aiming to function as a "small factory" capable of producing complete products—including finishing, assembly, packaging, and delivery—rather than single components.
+Metal-Tech Inc. was founded in 1969 in New Castle, Delaware. The company began as a job shop with the intention of offering more than single-part machining, describing itself as a "small factory" capable of producing complete products from fabrication through assembly and delivery.
 
-Operating from a facility of over 50,000 square feet, the shop provides CNC milling and turning (including three vertical mills with pallet changers), sheet metal fabrication with turret punching, TIG welding for thin-gauge aluminum and stainless steel, silver and soft soldering, wet and powder-coat painting with a 400 °F cure oven, and both mechanical and electrical assembly including wire harness work. Equipment includes Mori-Seiki and Kitamura machining centers, Proto Trak mills and a lathe.
+Operating from a facility of over 50,000 square feet, Metal-Tech provides sheet metal fabrication, CNC milling and turning, prototype machining, tube and wire bending, welding (including TIG, silver solder, and soft solder), wet and powder coating painting, and both mechanical and electrical assembly. Equipment includes Mori-Seiki and Kitamura machining centers with pallet changers, Proto Trak CNC mills and a lathe, and a turret punch for sheet metal.
 
-The company serves customers requiring prototype through production runs across various industries, though specific sectors are not listed in available sources. It offers flexible shipping: single delivery per order, scheduled releases up to 12 months out, or on-demand fulfillment.
+The company serves customers requiring prototype and production metal fabrication, machining, and assembly services, though specific industry sectors are not detailed in available sources.
 
-Metal-Tech emphasizes that it was founded on the ideals of quality, competitive pricing, and on-time delivery, and that its differentiator is the ability to deliver a finished, assembled product rather than just a machined part.
+Metal-Tech emphasizes a commitment to quality, competitive pricing, and on-time delivery. It differentiates itself by offering flexible shipping options—single delivery per order, delayed shipments scheduled up to 12 months, or on-demand shipping—and by handling complete product build-outs rather than individual components.
 
 ## Known for
-- Complete product manufacturing: finish, assemble, pack, and deliver to warehouse
-- Flexible shipping: single delivery, scheduled releases up to 12 months, or on-demand
-- Over 50,000 sq ft facility with multiple pallet-changer machining centers
-- 40+ years experience machining aluminum and stainless steel castings
-- In-house wet and powder coating with 400 °F bake oven
+- Flexible shipping: single delivery, delayed up to 12 months, or on-demand
+- Over 50,000 sq ft manufacturing space
+- Prototype capabilities including small tubing and wire bending
+- TIG welding expertise on thin-gauge aluminum and stainless steel
+- Batch-system wet and powder coating with 400°F oven
 
 ## Capabilities
+- Sheet Metal Fabrication
 - CNC Milling
 - CNC Turning
-- Sheet Metal Fabrication
-- Turret Punching
+- Prototype Machining
 - Tube Bending
 - Wire Bending
 - TIG Welding
@@ -509,8 +498,7 @@ Metal-Tech emphasizes that it was founded on the ideals of quality, competitive 
 - Mechanical Assembly
 - Electrical Assembly
 - Wire Harness Assembly
-- Final Assembly
-- Prototype Machining
+- Precision Machining of Castings
 
 ## Equipment
 - Mori-Seiki MV 40 machining center with pallet changer
@@ -520,28 +508,24 @@ Metal-Tech emphasizes that it was founded on the ideals of quality, competitive 
 - Proto Trak CNC Vertical Mill with X, Y and Z control
 - Proto Trak CNC Vertical Mills with X and Y control
 - Proto Trak CNC Lathe
-- Turret punch
-- 400 °F cure oven
+- Turret Punch
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1969
-- **Headquarters:** New Castle, Delaware
+- **Headquarters:** New Castle, DE
 
 <details><summary>Sources</summary>
 
 - Founded 1969 -> db
-- Headquarters New Castle, Delaware -> db
+- Headquarters New Castle, DE -> db
 - Facility over 50,000 sq ft -> /
-- Job shop offering complete product manufacturing -> /
-- Flexible shipping options (single, scheduled up to 12 months, on-demand) -> /
-- CNC milling and turning with 3 vertical mills with pallet changers -> /
-- Sheet metal fabrication with turret punch -> /
-- TIG welding, silver solder, soft solder -> /
-- Wet and powder coat painting with 400°F oven -> /
-- Mechanical and electrical assembly including wire harness -> /
-- Equipment: Mori-Seiki MV 40, Kitamura Mycenter 3Xi/3X/4X, Proto Trak mills and lathe -> /
-- Materials: aluminum, stainless steel, all metals, plastics -> /
+- Capabilities: sheet metal, CNC milling/turning, welding, painting, assembly -> /
+- Equipment: Mori-Seiki MV 40, Kitamura Mycenter series, Proto Trak mills/lathe, turret punch -> /
+- Materials: aluminum, stainless steel, plastics -> /
+- Shipping options: single delivery, delayed up to 12 months, on-demand -> /
+- Differentiator: not just a job shop, small factory concept -> /
+- Quality, competitive pricing, on-time delivery commitment -> /
 </details>
 
 ---
@@ -551,99 +535,85 @@ Metal-Tech emphasizes that it was founded on the ideals of quality, competitive 
 **Old description:** Methode Electronics was founded by William J. McGinley in 1946 and established on the south side of Chicago, Illinois. Mr. McGinley believed that through innovation and the use of the cutting-edge technology, he could engineer and manufacture solutions that would help his customers grow their own businesses. The company was named from an anagram of good manufacturing method, electrode and cathode of a vacuum tube, forming Methode.
 
 ## About
-Methode Electronics was founded in 1946 by William J. McGinley on the south side of Chicago, Illinois. The company's name derived from an anagram of "good manufacturing method, electrode and cathode of a vacuum tube." McGinley, a World War II veteran, started the business with a focus on innovation and cutting-edge technology to engineer solutions for customers.
+Methode Electronics was founded in 1946 by William J. McGinley on the south side of Chicago, Illinois. The company’s name originated from an anagram combining “good manufacturing method” with “electrode and cathode of a vacuum tube.” McGinley, a World War II veteran, established the business on the principle that innovation and cutting‑edge technology could engineer solutions to help customers grow. The corporate headquarters later relocated to Southfield, Michigan, where the company operates as a global supplier of custom‑engineered mechatronic products.
 
-Today headquartered in Southfield, Michigan, Methode Electronics (NYSE: MEI) operates as a global manufacturer of custom-engineered mechatronic products. The company employs approximately 6,500 people across sales, engineering, and manufacturing locations in North America, Europe, the Middle East, and Asia. Its vertically integrated manufacturing capabilities span assembly, decorating, electronics, metalworking, plastics, and testing, including processes such as injection molding, stamping, PCB assembly, in-mold decorating, and automated optical inspection. The business is organized into three segments—Automotive, Industrial, and Interface—each delivering highly integrated solutions for user interface, LED lighting, power distribution, and sensor applications.
+Methode designs, engineers, and manufactures user‑interface systems, LED lighting, power‑distribution assemblies, and sensor solutions for original‑equipment manufacturers. Its vertically integrated production spans assembly, decorating, electronics, metalworking, plastic molding, and testing across global design, engineering, and manufacturing centers in North America, Europe, the Middle East, and Asia. The company employs approximately 6,500 people and operates dedicated production lines, clean‑room facilities, and prototype prove‑out cells to support programs from prototype through high‑volume serial production.
 
-Methode serves original equipment manufacturers across transportation, industrial, and consumer markets. Its automotive segment supplies user-interface, lighting, sensor, and chassis/powertrain solutions to automotive, commercial vehicle, bus, rail, and off-road OEMs. The Industrial segment, through brands such as Grakon, Nordic Lights, Power Solutions Group, and Hetronic, addresses markets including mining, material handling, agriculture, construction, military/aerospace, data centers, energy storage, robotics, and renewable energy. The Interface segment, via TouchSensor and Methode Sensor Technologies, provides touch, display, and sensor solutions for appliances, vending machines, medical equipment, fitness equipment, and e-mobility applications.
+The company serves transportation markets including automotive, commercial vehicle, e‑bike, aerospace, bus, and rail; cloud‑computing infrastructure; construction equipment; consumer appliances; military and aerospace; renewable energy; data‑center and storage; industrial equipment; energy storage; robotics; and power conversion. Its branded divisions—Methode Electronics Automotive Group, Grakon, Nordic Lights, Power Solutions Group, Hetronic, TouchSensor, and Methode Sensor Technologies—address specialized segments such as mining, material handling, agriculture, forestry, marine, locomotive, drone, medical‑device, vending, and fitness‑equipment OEMs.
 
-The company states its differentiation lies in proprietary and differentiated technology, expertise across multiple applications, highly vertically integrated manufacturing, quality and reliability, and responsiveness to global OEM customer needs. Founder William McGinley's original vision was to engineer and manufacture solutions that help customers grow their own businesses through innovation.
+Methode emphasizes proprietary and differentiated technology, deep cross‑application expertise, highly vertically integrated manufacturing, quality and reliability, and responsiveness to global OEM needs as its core differentiators. A disciplined product‑development system with validation testing underpins its ability to deliver custom‑engineered solutions at scale.
 
 ## Known for
-- Proprietary and differentiated technology
-- Expertise across multiple applications
+- Proprietary and differentiated technology across multiple applications
 - Highly vertically integrated manufacturing
-- Quality and reliability
-- Responsiveness to global OEM customer needs
+- Quality and reliability focus
+- Responsiveness to global OEM needs
+- Disciplined product development system with validation testing
 
 ## Capabilities
-- Assembly (lean cells, fully/semi-automated, mistake proofing, variable controlled fastening)
-- Clean room assembly (Class 10,000, Class 1,000)
-- Laser marking
-- UV coating (manual & automated)
-- Robotic part placement
-- Adhesive dispensing
-- Automated paint lines
-- In-mold decorating (IMD)
-- In-mold labeling (IML)
-- Digital printing
-- Pad printing
-- Precision laser etching
-- Hot stamping
-- Sputtering (metalization)
-- Powder coating
-- PCB assembly / processing
-- Surface mount technology (SMT) lines
-- Wave & selective soldering
-- Touch screen optical bonding
-- Conformal coating
-- Automated optical inspection (AOI)
-- Stamping
-- In-house plating
-- CNC machining
-- Water-jet cutting
-- Injection molding
-- Insert molding
-- Over-molding
-- Two-shot molding
-- Liquid silicone rubber molding
-- Laser welding
-- Ultrasonic welding
-- End-of-line functional testing (ELOT)
-- Environmental testing (thermal shock, vibration, salt spray)
-- EMC/EMI testing
-- Pressure leak testing
+- Lean manufacturing cells (fully automated, semi-automated)
+- Mistake proofing and variable controlled fastening
+- Class 10,000 and Class 1,000 clean room assembly
+- Laser marking and UV coating (manual & automated)
+- Robotic part placement and adhesive dispensing
+- Automated paint lines, in-mold decorating (IMD), in-mold label (IML)
+- Digital printing, pad printing, precision laser etching, hot stamping
+- Sputtering (metalization), powder coating, micro milling (graphics)
+- PCB assembly/processing, surface mount lines (SMT)
+- Wave & selective soldering, manual soldering, odd-form placement
+- Potting/sealing, touch screen optical bonding, software embedding
+- Automated optical inspection, electrostatic discharge protection
+- Conformal coating, wire automated cut/strip/terminate, thermal paste dispensing
+- Stamping, in-house plating, metal plate lamination, CNC machining
+- Punching (metal plate), water-jet, break/bend pressing, automated deburring
+- Extrusion finishing, cutting, dielectric laminating, press fit, micro welding, EDM
+- Injection molding, insert molding, over-molding, mold in color, 2-shot molding
+- Rapid heat/cool molding, liquid silicone rubber molding, blister tray manufacturing
+- Plasma cleaning, laser welding, ultrasonic welding
+- End-of-line functional testing (ELOT), automated optical inspection (AOI)
+- Environment chambers, thermal shock chambers, vibration testing (with environment)
+- Functional durability test rigs, salt spray, water spray/intrusion testing
+- Illumination & dark room, color evaluation & measurement, aiming (light projection)
+- Abrasion, gloss measurement, sand/dust, electrostatic discharge, EMC (EMI/RFI chamber)
+- Load (compression/tension), torque loading, sound via isolated sound chamber, pressure leak testing
 
 ## Industries
 - Automotive
 - Commercial Vehicle
-- Bus/Coach
-- Rail
-- Sport/Recreation
-- Motorcycles
-- Off-Road
+- E-Bike
+- Aerospace
+- Bus and Rail
+- Cloud Computing Infrastructure
+- Construction Equipment
+- Consumer Appliances
+- Military/Aerospace
+- Renewable Energy
+- Data Center/Storage
 - Industrial Equipment
+- Energy Storage
+- Robotics
+- Power Conversion
 - Mining
 - Material Handling
 - Agriculture
 - Forestry
-- Construction
-- Electric Vehicles
-- Military/Aerospace
-- Data Center/Storage
-- Energy Storage
-- Robotics
-- Renewable Energy
-- Power Conversion
-- Industrial Mobile Equipment
-- Cranes
-- Drones
-- Locomotive/Railway
 - Marine
-- Appliance
-- Vending Machines
-- Commercial Appliance
-- Fitness Equipment
+- Locomotive/Railway
+- Drones
 - Medical Equipment
-- E-Mobility
+- Vending Machines
+- Fitness Equipment
+- Sport/Recreation
+- Motorcycles
+- Off-Road
 
 ## Equipment
 - Surface Mount lines (SMT)
-- Wave & selective soldering equipment
-- Automated Optical Inspection (AOI) systems
+- Wave & selective soldering systems
+- Automated Optical Inspection (AOI)
 - Environment Chambers
 - Thermal Shock Chambers
-- Vibration test systems
+- Vibration test systems (with environment)
 - EMI/RFI chamber
 - Isolated Sound chamber
 
@@ -655,14 +625,16 @@ The company states its differentiation lies in proprietary and differentiated te
 
 <details><summary>Sources</summary>
 
-- Founded in 1946 by William J. McGinley in Chicago, Illinois -> db (description)
-- Headquartered in Southfield, Michigan -> db (hq_city, hq_state_label)
-- Employee count 6,500 -> db (employee_count)
-- NYSE listed (MEI) -> page /
-- Three business segments: Automotive, Industrial, Interface -> page /
-- Vertically integrated manufacturing capabilities across assembly, decorating, electronics, metal, plastic, testing -> page /capabilities
-- Markets served: automotive, commercial vehicle, bus/coach, rail, off-road, mining, material handling, agriculture, construction, military/aerospace, data center, energy storage, robotics, renewable energy, industrial mobile equipment, cranes, drones, locomotive/railway, marine, appliance, vending machines, medical equipment, e-mobility -> page /
-- Differentiators: proprietary technology, multi-application expertise, vertically integrated manufacturing, quality and reliability, responsiveness to global OEM needs -> page /
+- Founded 1946 by William J. McGinley in Chicago, Illinois -> db
+- Headquarters in Southfield, Michigan -> db
+- Employee count 6,500 -> db
+- Business segments: Automotive, Industrial, Interface -> /
+- Brands: Methode Electronics Automotive Group, Grakon, Nordic Lights, Power Solutions Group, Hetronic, TouchSensor, Methode Sensor Technologies -> /
+- Markets served: automotive, commercial vehicle, aerospace, bus/rail, cloud computing, construction equipment, consumer appliances, military/aerospace, renewable energy, data center/storage, industrial equipment, energy storage, robotics, power conversion, mining, material handling, agriculture, forestry, marine, locomotive/railway, drones, medical equipment, vending machines, fitness equipment -> /
+- Vertically integrated manufacturing capabilities: assembly, decorating, electronics, metal, plastic, testing -> /capabilities
+- Specific processes: SMT, wave soldering, CNC machining, injection molding, etc. -> /capabilities
+- Equipment: Surface Mount lines, Environment Chambers, Thermal Shock Chambers, EMI/RFI chamber, Isolated Sound chamber -> /capabilities
+- Differentiators: proprietary technology, vertically integrated manufacturing, quality and reliability, responsiveness to OEM needs -> /
 </details>
 
 ---
@@ -672,35 +644,35 @@ The company states its differentiation lies in proprietary and differentiated te
 **Old description:** As a plastic injection molder, we recognize what’s important to you…consistency in receiving quality parts on time with no surprises.
 
 ## About
-Founded in 1975 in Noblesville, Indiana, Metro Plastics Technologies LLC is a privately held plastic injection molding company. The business began as a small molder and has grown into a custom-built, automated facility in the Midwest.
+Metro Plastics Technologies LLC, founded in 1975, operates from Noblesville, Indiana. The company began as a plastic injection molding business and has grown into a custom molder with a newly constructed, custom-built facility in the Midwest.
 
-The company operates 30 injection molding machines ranging from 15 to 720 tons, offering two-shot molding, insert molding, in-mold labeling, and prototyping. An in-house tool room and maintenance department support 650 unique active molds, some with up to 12 cavities cycling every 22 seconds. An on-site metrology lab provides real-time dimensional inspection and PPAP/FAI capabilities. Annual output runs between 35 and 50 million parts.
+The company runs 30 injection molding machines with clamping forces from 15 to 720 tons, supporting two-shot molding, insert molding, and prototyping. An in-house tool room and maintenance department handle mold upkeep, while an on-site metrology lab provides real-time dimensional inspection. Metro manages 650 unique active molds, some with up to 12 cavities cycling every 22 seconds, producing between 35 and 50 million parts annually. Value-added services include in-mold labeling, custom automation, custom packaging, and engineering support for material selection, mold analysis, and manufacturability.
 
-Metro Plastics serves a diverse customer base that includes Moonlight Concepts LLC, O2 Blast, and AM Leonard. The company emphasizes long-term partnerships and provides domestic and offshore tooling options through its network in the MAPP Association.
+Metro serves customers across a range of industries requiring custom injection molded parts. Testimonials reference clients such as Moonlight Concepts LLC, O2 Blast, and AM Leonard, indicating work in consumer, industrial, and specialty markets. The company also offers domestic and offshore tooling sourcing and participates in the MAPP Association plastics community.
 
-The company differentiates itself through a relationship-focused approach, an on-time delivery guarantee that refunds 10 percent of the order if a shipping date is missed, and a commitment to environmental responsibility. Its quality system is certified to ISO 9001:2015, and the firm promotes accountability through its Metro Tooling Standard.
+Metro emphasizes relationship-driven service, backing its commitment with an on-time delivery guarantee that offers a 10% discount if a shipping date is missed. The company highlights its environmentally aware practices, proprietary tooling standards, and a culture that treats molder-customer relationships as critical as the molding process itself.
 
 ## Known for
-- On-time delivery guarantee – 10% off if shipping date missed
+- On-time delivery guarantee with 10% off if missed
 - In-house tool room and maintenance department
 - On-site metrology lab for real-time dimensional feedback
-- 650 unique active molds managed at one facility
-- Domestic and offshore tooling options via MAPP Association
+- 650 unique active molds managed at a single facility
+- Two-shot and insert molding capabilities
 
 ## Capabilities
-- Plastic injection molding
+- Injection molding (15-720 ton)
 - Two-shot molding
 - Insert molding
+- Prototyping
+- In-house tool room & maintenance
+- Metrology lab / quality inspection
 - In-mold labeling
 - Custom automation
 - Custom packaging
-- Prototyping
-- In-house tooling and maintenance
-- Metrology and inspection (PPAP/FAI)
-- Domestic and offshore tooling sourcing
 - Material selection consulting
 - Mold analysis
-- Manufacturability advice
+- Manufacturability analysis
+- Domestic & offshore tooling sourcing
 
 ## Equipment
 - 30 injection molding machines (15-720 ton capacity)
@@ -722,20 +694,19 @@ The company differentiates itself through a relationship-focused approach, an on
 - 30 injection molding machines 15-720 tons -> /
 - Two-shot molding -> /
 - Insert molding -> /
-- In-house tool room -> /
+- In-house tool room & maintenance -> /
 - On-site metrology lab -> /quality
 - 650 unique active molds -> /
 - 35-50 million parts annually -> /
 - On-time delivery guarantee 10% off -> /
-- Domestic and offshore tooling -> /
+- Domestic & offshore tooling -> /
 - MAPP Association membership -> /
 - Environmentally aware -> /
-- In-mold labeling -> /
-- Custom automation -> /
-- Custom packaging -> /
+- Engineering team 100+ years combined experience -> /
+- Services: material selection, mold analysis, manufacturability -> /
+- In-mold labeling, custom automation, custom packaging -> /
 - Prototyping -> /
-- PPAP/FAI -> /quality
-- Material selection, mold analysis, manufacturability advice -> /
+- Testimonials from Moonlight Concepts LLC, O2 Blast, AM Leonard -> /
 </details>
 
 ---

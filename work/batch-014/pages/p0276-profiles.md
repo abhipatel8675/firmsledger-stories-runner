@@ -3,27 +3,31 @@
 **Old description:** Each piece is hand selected and hand crafted. We pride ourselves on never using computerized machinery to mass produce a product. Your purchase supports a small, family owned business doing traditional woodworking the old fashioned way.
 
 ## About
-AM Woodwork & Design operates from Ellensburg, Washington, as a small family-owned business dedicated to traditional woodworking. The company does not disclose its founding year or founders' names, but emphasizes its roots in handcrafted, old-fashioned methods.
+Based in Ellensburg, Washington, AM Woodwork & Design LLC is a small, family-owned business specializing in traditional hand-crafted woodworking. The company operates without computerized machinery, emphasizing hand-selected and hand-crafted production methods for every piece it creates. Owner Aaron manages the operation and can be contacted directly via email. The business was founded on a commitment to old-fashioned craftsmanship as an alternative to mass-produced wood products.
 
-The shop hand-selects and hand-crafts each piece, explicitly avoiding computerized machinery for mass production. Its offerings include hardwood lumber and slab sales, with new inventory arriving weekly, as well as cabinet hardware sourced from brands such as Blum, Accuride, and Rev-A-Shelf. No facility size, headcount, or production volumes are published.
+The shop offers hardwood lumber and slab sales, with new inventory arriving weekly, and supplies cabinet hardware from brands such as Blum, Accuride, and Rev-A-Shelf. All pieces are produced using traditional woodworking techniques rather than automated mass production. The company maintains an ever-growing collection of slabs, often exceeding what is shown online, and encourages customers to reach out for specific material needs.
 
-While the company does not list specific industries, its products serve woodworkers, cabinet makers, furniture builders, and DIY enthusiasts seeking custom cabinetry, furniture components, and raw hardwood materials.
+Customers include woodworkers, cabinet makers, and DIY enthusiasts seeking raw hardwood materials, live-edge slabs, and quality cabinet hardware. The business serves both individual buyers and trade customers through direct orders and an online gallery. Each purchase supports a small, family-owned business doing traditional woodworking the old-fashioned way.
 
-The business was founded on a commitment to traditional woodworking the old-fashioned way, positioning itself as an alternative to automated production by keeping every step manual and personal.
+The company distinguishes itself through a commitment to old-fashioned craftsmanship, positioning itself as an alternative to mass-produced wood products by maintaining hands-on creation for every item. By avoiding computerized machinery, the shop ensures each piece reflects individual attention and traditional joinery methods.
 
 ## Known for
-- Hand-selected and hand-crafted pieces
-- No computerized machinery used
-- Family-owned traditional woodworking
-- Blum, Accuride, Rev-A-Shelf hardware integration
-- Hardwood lumber and slab sales
+- Hand-selected and hand-crafted production
+- No computerized machinery used for mass production
+- Traditional woodworking methods
+- Family-owned small business
+- Supplies Blum, Accuride, and Rev-A-Shelf cabinet hardware
 
 ## Capabilities
-- Traditional hand woodworking
+- Hand-crafted woodworking
 - Hardwood lumber sales
-- Wood slab sales
-- Cabinet hardware supply (Blum, Accuride, Rev-A-Shelf)
-- Custom wood product fabrication
+- Live-edge slab sales
+- Cabinet hardware distribution (Blum, Accuride, Rev-A-Shelf)
+
+## Industries
+- Cabinetry
+- Woodworking
+- Hardwood lumber supply
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -32,13 +36,16 @@ The business was founded on a commitment to traditional woodworking the old-fash
 
 <details><summary>Sources</summary>
 
-- Location: Ellensburg, Washington -> db
-- Family-owned business -> /
-- Hand-selected and hand-crafted pieces -> /
-- No computerized machinery used -> /
+- Company name AM Woodwork & Design LLC -> /
+- Location Ellensburg, Washington -> db
+- Family-owned small business -> /
+- Hand-crafted, no computerized machinery -> /
 - Hardwood lumber and slab sales -> /
 - Cabinet hardware using Blum, Accuride, Rev-A-Shelf -> /
-- Traditional woodworking the old-fashioned way -> /
+- Contact email Aaron@amwoodworkdesign.com -> /
+- Phone 509-929-2883 -> /
+- Weekly inventory arrivals -> /
+- Ever-growing slab collection beyond online listings -> /
 </details>
 
 ---
@@ -48,34 +55,36 @@ The business was founded on a commitment to traditional woodworking the old-fash
 **Old description:** AMETEK Engineered Interconnect and Packaging (EIP) is the world leading producer of end-to-end electronic packaging solutions for harsh environments and reliability sensitive applications.  AMETEK EIP delivers superior value engineered products that enable our customers’ success.
 
 ## About
-Based in Montvale, New Jersey, AMETEK Engineered Interconnect and Packaging (EIP) provides end-to-end electronic packaging solutions for harsh environments and reliability-sensitive applications. The business operates under the AMETEK brand, though a specific founding year for the EIP division is not publicly disclosed.
+AMETEK Electronic Components and Packaging (ECP), also known as AMETEK Engineered Interconnect and Packaging (EIP), is headquartered in Montvale, New Jersey. The division operates as part of the larger AMETEK corporation, though the INPUT does not specify its founding year, ownership structure, or founders.
 
-The company offers integrated engineering and manufacturing services covering high-performance electronic and optical packaging, protection, and interconnectivity. Its material expertise spans metals, glass, ceramics, and plastics, allowing custom design, manufacture, and scaling of tailored solutions using any combination of materials an application requires. Operations include worldwide volume manufacturing, though facility size and headcount are not disclosed.
+The company provides integrated engineering and manufacturing solutions for high-performance electronic and optical packaging, protection, and interconnectivity. Its material expertise spans metals, glass, ceramics, and plastics, allowing custom design and manufacture of tailored solutions for harsh environments. Capabilities include hermetic sealing and connector engineering, highlighted by work on mission-critical connectors for NASA’s Artemis II program. The division emphasizes worldwide volume manufacturing capacity.
 
-AMETEK EIP serves industries where survival in difficult environments is critical, including defense and space. Concrete examples include hermetic-seal connectors engineered for NASA’s Artemis II mission, participation in the AUSA defense exhibition, and a perfect score on a DoD cybersecurity audit for its SCP business. The company also exhibits at Space Tech Expo Europe, underscoring its space-sector focus.
+AMETEK ECP serves a broad range of industries requiring reliability in difficult conditions, with explicit references to aerospace applications such as NASA’s Artemis II mission. The company’s solutions target harsh-environment and reliability-sensitive sectors, though specific industry verticals beyond aerospace are not detailed in the available information.
 
-It positions itself as the solution provider of choice when survival is important in difficult environments.
+The division positions itself as a solution provider when survival in difficult environments is critical.
 
 ## Known for
 - End-to-end electronic packaging solutions for harsh environments
-- Integrated engineering and manufacturing for electronic and optical packaging
-- Expertise in metals, glass, ceramics, and plastics
-- Worldwide volume manufacturing capability
-- Field-proven performance in defense and space applications
+- Integrated engineering and manufacturing under one roof
+- Expertise in metals, glass, ceramics, and plastics for custom material combinations
+- Worldwide volume manufacturing capacity
+- Hermetic seal engineering for NASA Artemis II mission
 
 ## Capabilities
 - Electronic packaging
 - Optical packaging
 - Protection solutions
 - Interconnectivity solutions
-- Custom design and manufacturing
 - Hermetic sealing
-- Material selection and combination (metals, glass, ceramics, plastics)
-- Scaling tailored solutions
+- Connector engineering
+- Custom manufacturing
+- Design engineering
+- Volume manufacturing
 
 ## Industries
-- Defense
-- Space
+- Aerospace
+- Electronics
+- Harsh environment applications
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -83,15 +92,14 @@ It positions itself as the solution provider of choice when survival is importan
 
 <details><summary>Sources</summary>
 
-- HQ: Montvale, New Jersey -> db
-- Division name: AMETEK Engineered Interconnect and Packaging (EIP) -> /
-- Offers integrated engineering and manufacturing solutions for electronic and optical packaging -> /
-- Material technologies: metals, glass, ceramics, plastics -> /
-- Worldwide volume manufacturing -> /
-- Hermetic seals for NASA Artemis II mission -> /
-- DoD cybersecurity audit for SCP business -> /
-- AUSA defense exhibition participation -> /
-- Space Tech Expo Europe participation -> /
+- Headquarters in Montvale, New Jersey -> db
+- Company name AMETEK Electronic Components and Packaging (ECP) -> db
+- Also referred to as AMETEK Engineered Interconnect and Packaging (EIP) -> page "/"
+- Provides integrated engineering and manufacturing solutions for electronic and optical packaging, protection, and interconnectivity -> page "/"
+- Works with material technologies including metals, glass, ceramics, and plastics -> page "/"
+- Offers hermetic sealing and connector engineering for NASA Artemis II mission -> page "/"
+- Emphasizes worldwide volume manufacturing -> page "/"
+- Serves harsh-environment and reliability-sensitive applications across a wide range of industries -> page "/"
 </details>
 
 ---
@@ -101,53 +109,43 @@ It positions itself as the solution provider of choice when survival is importan
 **Old description:** Mixer/Blender is a leading provider of versatile blender equipment tailored for the food industry.
 
 ## About
-Founded in 1975 in Caldwell, Idaho, American Food Equipment Company (AMFEC) began as a supplier of high-quality food processing equipment engineered to meet specific customer needs. The company has since built a reputation in the American food industry for delivering machinery tailored to individual applications rather than generic off-the-shelf solutions.
+American Food Equipment Company (AMFEC) has operated from Caldwell, Idaho since its founding in 1975. The company was established to supply high-quality food processing equipment engineered to specific customer requirements, though the original founders are not named in public records.
 
-AMFEC designs and manufactures a range of food processing equipment including screw loaders, trolley tumblers, vacuum stuffers, vacuum massagers, screw conveyors, mixers, blenders, dry ingredient mixers, hoppers, and cart positioners. The company offers custom equipment design, turnkey system integration from initial design through installation, and ongoing maintenance and upgrade services. Its engineering team focuses on incorporating new technology to enhance performance, while the shop includes welding and fabrication capabilities overseen by a dedicated weld department supervisor.
+AMFEC designs and manufactures a range of food processing machinery including screw loaders, trolley tumblers, vacuum stuffers, dry ingredient mixers, screw conveyors, vacuum massagers, and various hopper and positioning systems. The company also delivers turnkey system integration, handling everything from initial design through installation and commissioning. Facility size and total headcount are not disclosed, but the firm employs project managers, weld supervisors, and support staff across engineering, fabrication, and administrative functions.
 
-The company serves food processors in meat, poultry, and pet food production, as well as broader protein-based product handling. Customers range from operations needing a single piece of equipment to those requiring fully integrated turnkey systems. AMFEC's project management and support staff work directly with clients to specify machinery for each application.
+The equipment serves the food processing sector with particular focus on meat, poultry, and pet food production lines. Customers range from single-machine buyers to operators seeking fully integrated production systems.
 
-AMFEC states that its differentiation lies in providing customized equipment solutions rather than standard catalog items, delivering complete turnkey systems, applying innovative engineering, and maintaining long-term support through maintenance and upgrades. Its mission is to enhance efficiency and productivity for food industry clients through tailored, high-value equipment.
+AMFEC emphasizes customized equipment tailored to each application rather than off-the-shelf products, backed by innovative engineering, ongoing maintenance support, and upgrades to reduce downtime. Its stated mission is to enhance efficiency and productivity through technology and customer service.
 
 ## Known for
-- Customized equipment solutions tailored to specific operational needs
-- Turnkey system implementation from design to installation
-- Innovative engineering incorporating cutting-edge technology
-- Ongoing support and maintenance including equipment upgrades
-- Flexible engineering expertise ensuring the exact machine for each application
+- Customized equipment tailored to specific applications
+- Turnkey system design and installation
+- Innovative engineering with cutting-edge technology
+- Post-sale maintenance and upgrades
 
 ## Capabilities
-- Custom food processing equipment design
-- Turnkey system integration and installation
-- Equipment manufacturing (mixers, blenders, conveyors, stuffers, tumblers, hoppers)
-- Sanitary equipment design for product transfer
-- Mixing, blending, and massaging equipment
-- Vacuum stuffing and massaging
-- Screw conveying
-- Dry ingredient mixing
-- Cart positioning and hopper systems
-- Welding and fabrication
-- Project management
-- Equipment maintenance and upgrades
+- Custom equipment design
+- Turnkey system integration
+- Engineering and innovation
+- Maintenance and support
+- Food processing equipment manufacturing
 
 ## Industries
 - Food processing
 - Meat processing
 - Poultry processing
 - Pet food processing
-- Protein-based product handling
 
 ## Equipment
 - Screw Loader
 - Trolley Tumbler
 - Vacuum Stuffer
-- Vacuum Massager
-- Screw Conveyor
-- Mixer/Blender
 - Table Hopper
 - Cart Positioner
 - Dry Ingredient Mixer
 - Hopper
+- Screw Conveyor
+- Vacuum Massager
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -156,18 +154,16 @@ AMFEC states that its differentiation lies in providing customized equipment sol
 
 <details><summary>Sources</summary>
 
-- Founded in 1975 -> db, /, /about
-- Headquarters in Caldwell, Idaho -> db, /
-- Company name American Food Equipment Company (AMFEC) -> /, /about
-- Supplies high-quality food processing equipment -> /, /about
-- Customized equipment solutions -> /about
+- Founded 1975 -> /about
+- Headquarters Caldwell, Idaho -> db
+- Custom equipment design -> /about
 - Turnkey system implementation -> /about
 - Innovative engineering and technology -> /about
 - Ongoing support and maintenance -> /about
-- Industries: meat, poultry, pet food processing -> industries_served, /about
-- Products: Screw Loader, Trolley Tumbler, Vacuum Stuffer, Vacuum Massager, Screw Conveyor, Mixer/Blender, Table Hopper, Cart Positioner, Dry Ingredient Mixer, Hopper -> products, industries_served, /
-- Employees: Mark Cowman (Senior Project Manager), Alyne Branson (HR), Staci Harris (Finance), Antonio Hernandez (Weld Department Supervisor) -> /
-- Mission and vision statements -> /about
+- Industries: food processing, meat, poultry, pet food -> /about and /
+- Products: Screw Loader, Trolley Tumbler, Vacuum Stuffer, Table Hopper, Cart Positioner, Dry Ingredient Mixer, Hopper, Screw Conveyor, Vacuum Massager -> /
+- Mission: enhance efficiency and productivity through technology and customer service -> /about
+- Employee roles: Senior Project Manager, HR, Finance, Weld Department Supervisor -> /
 </details>
 
 ---
@@ -177,20 +173,20 @@ AMFEC states that its differentiation lies in providing customized equipment sol
 **Old description:** LASER CUTTING -  METAL FABRICATION  -  LASER,TIG, MIG WELDING  -  ARTWORK -  3D-CAD
 
 ## About
-AMS Fabrications Inc. was founded in 1984 in Fort Lauderdale, Florida. The company operates as a sheet metal fabrication shop serving a wide range of custom metalwork needs. No founder names or ownership structure are publicly disclosed.
+AMS Fabrications Inc. has operated from Fort Lauderdale, Florida since its founding in 1984. The company marks over 40 years in business, building a portfolio that spans precision sheet metal work, artistic metal creations, and fully bespoke aluminum automobiles produced under the Alloy Cars brand.
 
-The shop provides laser cutting, metal fabrication, robotic welding, MIG/TIG and laser welding, bending and forming, prototyping, 3D scanning, and CAD design using SolidWorks. It also produces hand railings, louver panels, designer gates, and handles structural and architectural metalwork. Its portfolio spans precision sheet metal parts, artistic creations, architectural structures, and fully bespoke aluminum automobiles produced under the Alloy Cars brand.
+The shop provides laser cutting, robotic welding, MIG/TIG and laser welding, bending and forming, 3D scanning, and CAD design using SolidWorks. It works primarily in stainless steel and aluminum, producing items such as architectural structures, kitchen interiors, artwork, sculptures, custom cladding, railings, marine accessories, louver panels, and designer gates. A noted project includes hundreds of solar-powered recycling bins installed across South Florida.
 
-Clients come from architectural, interior design, artwork, sculpture, marine, solar energy, municipal, and automotive sectors. Concrete projects include hundreds of solar-powered recycling bins installed across South Florida, custom cladding and railings for buildings, marine accessories, kitchen interior pieces, artwork and decor, and the Alloy Cars line of aluminum vehicles.
+Customers come from architectural, marine, automotive, solar energy, recycling, municipal, and art sectors. The company has fabricated custom aluminum automobiles for its Alloy Cars line and delivered city projects and interior installations for commercial and residential clients.
 
-The company emphasizes a blend of German engineering principles with American craftsmanship, tailoring each project to the customer's vision. With over 40 years of experience, it positions its longevity and diverse project history as a mark of reliability, describing itself as the highest-rated sheet metal fabrication shop in its market.
+AMS Fabrications states that it combines German engineering ingenuity with American craftsmanship to tailor each project to the client's vision, emphasizing precision and dedication across all scales of work.
 
 ## Known for
-- Combines German engineering principles with American craftsmanship
-- Over 40 years of experience in custom metal fabrication
-- Produces bespoke aluminum automobiles under the Alloy Cars brand
-- Offers in-house 3D scanning and SolidWorks CAD design
-- Handles projects from architectural structures to marine accessories
+- Combines German engineering with American craftsmanship
+- Over 40 years of fabrication experience
+- In-house 3D scanning and SolidWorks design
+- Robotic and laser welding capabilities
+- Portfolio includes architectural, artistic, and custom automotive projects
 
 ## Capabilities
 - Laser cutting
@@ -201,27 +197,31 @@ The company emphasizes a blend of German engineering principles with American cr
 - MIG welding
 - TIG welding
 - Laser welding
-- Prototyping
-- 3D scanning
-- CAD drawing
-- SolidWorks modeling
-- Artwork fabrication
-- Sculpture fabrication
-- Structural fabrication
-- Architectural metalwork
 - Hand railing fabrication
 - Louver panel fabrication
 - Designer gate fabrication
+- Prototyping
+- Artwork and sculpture fabrication
+- Structural and architectural metalwork
+- 3D scanning
+- CAD drawing
+- SolidWorks design
 
 ## Industries
 - Architectural
-- Interior design
-- Artwork
-- Sculpture
 - Marine
-- Solar energy
-- Municipal
 - Automotive
+- Solar energy
+- Recycling
+- Municipal
+- Art and sculpture
+- Interior design
+
+## Equipment
+- Robotic welding systems
+- Laser cutting machines
+- Laser welding equipment
+- 3D scanning equipment
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -230,18 +230,14 @@ The company emphasizes a blend of German engineering principles with American cr
 
 <details><summary>Sources</summary>
 
-- Founded in 1984 -> db
-- Headquarters in Fort Lauderdale, Florida -> db and page /
-- Services: laser cutting, metal fabrication, robotic welding, MIG/TIG welding, laser welding, bending, forming, prototyping, 3D scanning, CAD, SolidWorks -> page /
-- Products: hand railings, louver panels, designer gates, architectural metalwork, artwork, sculptures, aluminum automobiles (Alloy Cars) -> page /
-- Industries served: architectural, interior design, artwork, sculpture, marine, solar energy, municipal, automotive -> page /
+- Founded 1984 -> db
+- Headquarters Fort Lauderdale, Florida -> db
+- Services: laser cutting, metal fabrication, robotic welding, MIG/TIG/laser welding, bending/forming, 3D scanning, CAD/SolidWorks -> page /
 - Materials: stainless steel, aluminum -> page /
-- Claim: combines German engineering with American craftsmanship -> page /
-- Claim: over 40 years of experience -> page /
-- Claim: highest rated sheet metal fabrication shop -> page /
-- Project example: hundreds of solar-powered recycling bins in South Florida -> page /
-- Project example: bespoke aluminum automobiles (Alloy Cars) -> page /
-- Address: 2816 NW 30th Ave, Fort Lauderdale, FL 33311 -> page /
+- Projects: solar-powered recycling bins in South Florida, custom aluminum automobiles (Alloy Cars), architectural structures, artwork, sculptures, railings, marine accessories, louver panels, designer gates -> page /
+- Industries served: architectural, marine, automotive, solar, recycling, municipal, art, interior design -> page /
+- Differentiator: combines German engineering with American craftsmanship -> page /
+- Celebrating 40 years / over 40 years of excellence -> page /
 </details>
 
 ---
@@ -251,31 +247,34 @@ The company emphasizes a blend of German engineering principles with American cr
 **Old description:** At ANZER, we offer a full spectrum of electronic services designed to meet your unique needs with unmatched efficiency and reliability.
 
 ## About
-ANZER operates from Akron, Ohio, where it was founded in 1993. The privately held company has spent over three decades building a legacy in PCB assembly and contract electronics manufacturing, growing from a mission to create top-quality electronics into a flexible partner for businesses across the region.
+ANZER operates from Akron, Ohio, where it was founded in 1993. The company describes its origin as a mission to create top-quality electronics that evolved into a passion for empowering businesses with innovative solutions. Over three decades, it has built a legacy in PCB assembly, contract electronics manufacturing, and related electronic services.
 
-The company provides a full spectrum of electronics assembly services, including surface-mount (SMT), through-hole (THT), and mixed-technology PCB assembly, as well as prototype builds, full production runs, and box-build integration. Its advanced SMT lines handle a range of component types and sizes, supporting scalable production from early-stage prototypes to high-volume orders. Across more than 4,000 completed projects, ANZER serves over 200 customers.
+The company provides a full range of electronics assembly services, including surface mount technology (SMT), through-hole technology (THT), mixed-technology assembly, and box-build integration. It supports projects from prototype circuit board assembly through scalable full production runs. ANZER cites 4,000-plus completed projects and 200-plus customers, backed by 33-plus years of experience and a facility described as using state-of-the-art equipment and modern processes.
 
-ANZER's customer base spans aerospace, automotive, agriculture, medical devices, industrial automation, lighting controls, sports technology, consumer electronics, and telecommunications. The company works with organizations developing mission-critical assemblies for flight and space, electronic systems for modern vehicles, durable solutions for farming equipment, precision components for medical innovations, and automated systems for industrial efficiency.
+ANZER serves a diverse industrial base: aerospace, automotive, agriculture, medical and medical devices, industrial automation, lighting controls, sports technology, consumer electronics, and telecommunications. Customers range from prototype developers to high-volume production programs, with the company positioning itself as a flexible partner for both specialized and custom requirements.
 
-ANZER emphasizes on-time delivery, competitive pricing, and customized solutions tailored to each project. Every product undergoes rigorous testing, and the team holds IPC-A-610 certification to verify workmanship at each stage. The company positions its responsiveness and modern equipment as key differentiators for clients who need reliable, cost-effective manufacturing without sacrificing quality.
+ANZER emphasizes on-time delivery, competitive pricing, customized solutions, and rigorous testing on every product. It highlights its IPC-A-610 certified staff as a quality differentiator and states its dedication to exceeding customer expectations through cutting-edge technology and innovation. The company also notes its "Made in USA at Ohio" manufacturing footprint.
 
 ## Known for
-- On-time delivery commitment
-- Advanced SMT lines and modern processes
-- Competitive pricing with high quality standards
-- Tailored solutions for unique project requirements
-- IPC-A-610 certified workmanship verification
+- On-time delivery commitment: "delivering your products and services on schedule, every time"
+- State-of-the-art equipment and modern processes
+- Competitive pricing while maintaining highest industry standards
+- Tailored PCB assembly and electronic manufacturing solutions
+- Rigorous testing on every product for reliability and performance
+- IPC-A-610 certified inspection staff
+- 33+ years of experience in PCB assembly and contract manufacturing
+- Made in USA at Ohio facility
 
 ## Capabilities
 - Surface Mount Technology (SMT) Assembly
 - Through-Hole Technology (THT) Assembly
-- Mixed Technology Assembly
-- Prototype PCB Assembly
-- High-Volume Production Assembly
+- Mixed Technology Assembly (SMT + THT)
+- Prototype Circuit Board Assembly
+- Full Production Runs / High-Volume Production
 - Box-Build Assembly
 - Electronic Design Services
-- Contract Electronics Manufacturing
-- In-Process Quality Verification (IPC-A-610)
+- Rigorous Product Testing
+- IPC-A-610 Certified Inspection
 
 ## Industries
 - Aerospace
@@ -288,38 +287,25 @@ ANZER emphasizes on-time delivery, competitive pricing, and customized solutions
 - Consumer Electronics
 - Telecommunications
 
-## Equipment
-- Advanced SMT lines
-
 ## Certifications
 - IPC-A-610
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1993
-- **Ownership:** Private
 - **Headquarters:** Akron, Ohio
 
 <details><summary>Sources</summary>
 
-- Founded 1993 -> db
-- Headquarters Akron, Ohio -> db
-- 33+ years experience -> homepage
-- 4000+ projects completed -> homepage
-- 200+ customers -> homepage
-- 10+ industries served -> homepage
-- SMT, THT, mixed technology assembly -> homepage/products
-- Prototype to full production runs -> products
-- Box-build assembly services -> capabilities
-- Industries: aerospace, automotive, agriculture, medical, industrial automation, lighting controls, sports -> homepage
-- Consumer electronics, telecommunications -> industries_served
-- IPC-A-610 certification mentioned -> blog post
-- Advanced SMT lines -> products
-- On-time delivery claim -> homepage
-- Competitive pricing claim -> homepage
-- Customized solutions claim -> homepage
-- Thorough testing claim -> homepage
-- Customer support claim -> homepage
+- Founded 1993 in Akron, Ohio -> db
+- 33+ years experience, 4000+ projects, 200+ customers -> /
+- Services: SMT, THT, mixed technology, box-build, prototype to production -> /, capabilities, products
+- Industries: aerospace, automotive, agriculture, medical, industrial automation, lighting, sports, consumer electronics, telecommunications -> /, industries_served
+- IPC-A-610 certification mentioned -> / (blog post)
+- 10+ certifications claimed -> /
+- On-time delivery, state-of-the-art tech, affordable, customized, thorough testing, customer support -> /
+- Made in USA at Ohio -> /
+- OSU RALPH project case study -> /
 </details>
 
 ---
@@ -329,71 +315,68 @@ ANZER emphasizes on-time delivery, competitive pricing, and customized solutions
 **Old description:** Founded in 1999, AP Fabrications has been a leading provider of high-quality metal materials for over 20 years. Our commitment to excellence and customer satisfaction has allowed us to grow and expand our business, serving clients across the country.
 
 ## About
-AP Fabrications, LLC was founded in 1999 in Stuttgart, Arkansas. The company began as a provider of high-quality metal materials and has grown to serve clients nationwide.
+AP Fabrications, LLC was founded in 1999 in Stuttgart, Arkansas. The company began as a provider of high-quality metal materials and has since expanded into a full-service operation offering custom fabrication, field services, and construction support.
 
-The company specializes in custom steel fabrication, on-site field services, and construction projects. Its shop is equipped with CNC HD plasma cutting, CNC beam line processing, CNC press brakes, certified welding, guillotine shearing, rolling and forming, and 3D laser scanning. With over 100 skilled employees, AP Fabrications handles projects of varying size, producing structural steel, tanks, hoppers, conveyors, plate work, sheet metal components, and skids.
+Today the shop employs over 100 skilled workers and operates equipment such as CNC HD plasma tables, a CNC beam line, CNC press brakes, a guillotine shear, roller forming machines, and a 3D laser scanner. Certified welding, precision forming, and cutting capabilities support custom structural steel, tanks and hoppers, conveyors, plate work, sheet metal, and skid packages. In-house drafting and engineering complement the fabrication floor. Beyond the shop, the company fields experienced crews for on-site installation, repair, and construction field services, and offers refurbishing to return worn parts and equipment to service.
 
-AP Fabrications serves construction and industrial clients across the United States, providing fabrication and field services for structural steel projects, tank and hopper systems, conveyor installations, and custom metal assemblies.
+Clients span industrial manufacturing, commercial construction, and infrastructure sectors, with the company citing an ability to handle projects of any size from single custom fabrications to large-scale field erection.
 
-The company emphasizes core values of dedication, dependability, loyalty, excellence, accountability, and discipline, and highlights an excellent safety record as a differentiator.
+AP Fabrications attributes its growth to a set of core values — dedication, dependability, loyalty, excellence, accountability, and discipline — combined with an excellent safety record and round-the-clock customer support.
 
 ## Known for
 - Over 100 skilled employees
 - Excellent safety record
 - 24/7 customer support
-- On-site installation and repair field services
+- On-site installation and repair crews
 - Refurbishing services for parts and equipment
 
 ## Capabilities
-- Custom Fabrication
-- Structural Steel Fabrication
-- Tank & Hopper Fabrication
-- Conveyor Fabrication
-- Plate Work
-- Sheet Metal Fabrication
-- Skid Fabrication
-- Drafting
-- Engineering
-- CNC HD Plasma Cutting
-- CNC Beam Line Processing
-- CNC Press Brake Forming
-- Certified Welding
-- Guillotine Shearing
-- Rolling & Forming
-- 3D Laser Scanning
-- Construction Field Services
-- Refurbishing Services
-
-## Industries
-- Construction
-- Industrial
+- Custom metal fabrication
+- Structural steel fabrication
+- Tank and hopper fabrication
+- Conveyor fabrication
+- Plate work
+- Sheet metal fabrication
+- Skid fabrication
+- Drafting and engineering
+- CNC HD plasma cutting
+- CNC beam line processing
+- CNC press brake forming
+- Certified welding
+- Guillotine shearing
+- Roller forming
+- 3D laser scanning
+- Construction field services
+- On-site installation and repair
+- Refurbishing services
 
 ## Equipment
 - CNC HD Plasma
 - CNC Beam Line
 - CNC Press Brake
 - Guillotine Shear
-- Roller / Forming
+- Roller Forming
 - 3D Laser Scanner
-- CNC Plasma Tables
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Founded:** 1999
 - **Employees:** 100+
 - **Headquarters:** Stuttgart, Arkansas
 
 <details><summary>Sources</summary>
 
-- Founded in 1999 -> /about-us
-- Headquarters: Stuttgart, Arkansas -> /
+- Founded in 1999 -> /
+- Headquarters Stuttgart, Arkansas -> / (address) and db
 - Over 100 skilled employees -> /about-us
-- Services: custom metal fabrication, field services, construction -> /about-us
-- Processes: CNC HD Plasma, CNC Beam Line, CNC Press Brake, Certified Welding, Guillotine Shear, Roller/Forming, 3D Laser Scanner -> /
-- Products: structural steel, tanks & hoppers, conveyors, plate work, sheet metal, skids -> /
-- 24/7 customer support -> / (capabilities list)
-- Refurbishing services -> / (capabilities list)
-- Core values and safety record -> /about-us
+- Core fabrication capabilities (structural steel, tanks, hoppers, conveyors, plate work, sheet metal, skids) -> / and /about-us
+- Equipment list (CNC HD Plasma, CNC Beam Line, CNC Press Brake, Guillotine Shear, Roller Forming, 3D Laser Scanner) -> / and /about-us
+- Field services (on-site installation, repair, construction field services) -> / and /about-us
+- Refurbishing services -> /
+- 24/7 customer support -> /
+- Excellent safety record -> /about-us
+- Core values (dedication, dependability, loyalty, excellence, accountability, discipline) -> /about-us
+- Company type statement -> /about-us
 </details>
 
 ---
@@ -403,49 +386,48 @@ The company emphasizes core values of dedication, dependability, loyalty, excell
 **Old description:** We are the original manufacturer of Traffic Control Trailers!  If you are...
 
 ## About
-APE Built operates from Cookeville, Tennessee, where it was founded by veterans and remains veteran-owned and operated. The company began as the original manufacturer of traffic control trailers, a product line it continues to produce alongside its off-road vehicle and drivetrain offerings.
+APE Built operates from Cookeville, Tennessee, where it was founded by veterans and remains veteran-owned and operated. The company traces its roots to the original traffic control trailer, a product it introduced to municipal and contractor fleets and continues to build on the same shop floor as its off-road vehicles and drivetrain components.
 
-The shop houses CAD, CNC machining, certified welding, and assembly under one roof, producing turn-key off-road vehicles (the MV4 platform at 390–700+ hp), bare chassis kits (APE-X), fully custom one-off builds, axle assemblies (APE Pro and Bangerz series), and a range of fabrication parts such as tabs, mounts, and brackets. The facility focuses on prototyping and low-rate production for both commercial and government customers.
+The shop runs CAD, CNC cutting, machining, certified welding, and final assembly under one roof. Its product line spans three vehicle platforms — the MV4 turn-key rig (390–700 hp, 48–52 week build), the APE-X bare chassis kit (6–10 week lead), and full custom one-off engineering — plus the APE Pro and APE Bangerz axle assemblies, fabrication parts such as tabs, mounts, and tube ends, and a line of traffic control trailers sold to municipalities, DOT contractors, and utility fleets.
 
-Customers span municipal and DOT fleets, utility and construction contractors, and defense agencies, with named accounts including Albemarle County Police Department, American Civil Constructors, APAC, and the Miami Dolphins. The company also serves recreational off-road builders through its component index and chassis kits.
+Customers include government and defense agencies, municipal police departments, state DOTs, and heavy-construction contractors; named accounts feature Albemarle County Police Department, American Civil Constructors, APAC, Banks Construction, and Vulcan Materials. The company also serves recreational off-road builders through chassis kits and axle assemblies.
 
-The founders emphasize that the discipline from military service carries into every weld and that all designs are machined and welded in Cookeville—not sourced overseas. In-house engineering delivers fixed quotes within three business days, and progress photos document each build milestone.
+APE Built emphasizes that the discipline developed in military service carries into every weld and fixture. It positions itself as an American-made alternative to overseas-sourced components, offering fixed quotes typically within three business days, progress photos at each milestone, and a direct line to the fabricator who built the assembly.
 
 ## Known for
 - Original manufacturer of traffic control trailers
-- Veteran-owned and operated
-- In-house CAD, CNC machining, certified welding, and assembly
-- Government and municipal supplier with fleet pricing tiers
-- Quotes typically within three business days
+- In-house CAD, CNC, machining, welding, and assembly under one roof
+- Veteran owned and operated
+- Fixed quotes typically within three business days
+- Progress photographs at every milestone with direct fabricator support
 
 ## Capabilities
-- CNC machining
-- Certified welding
+- CNC cutting
+- Fixture welding
 - CAD design
-- Fabrication (tabs, mounts, tube ends, brackets)
-- Axle assembly manufacturing
-- Vehicle chassis fabrication
-- Traffic control trailer manufacturing
+- Machining
+- Assembly
 - Prototyping
 - Low-rate production
+- Certified welding
+- Traffic control trailer manufacturing
+- Off-road vehicle manufacturing
+- Axle assembly manufacturing
+- Chassis fabrication
 - Turn-key vehicle assembly
-- Custom one-off engineering
+- Custom fabrication services
+- Precision fabrication
 
 ## Industries
 - Government & defense
-- Municipal fleets
-- Construction
+- Municipal
+- Department of Transportation (DOT)
 - Utility
-- Off-road recreation
-- Automotive aftermarket
+- Contractor fleets
+- Off-road recreational
 
 ## Equipment
-- CNC machines
-- Certified welding equipment
-- CAD software
-
-## Certifications
-- Veteran-owned
+- CNC
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -454,20 +436,28 @@ The founders emphasize that the discipline from military service carries into ev
 
 <details><summary>Sources</summary>
 
-- Veteran-owned and operated -> /
-- Original manufacturer of traffic control trailers -> /
+- Veteran owned & operated -> /
+- Founded and run by veterans -> /
+- Original manufacturer of traffic control trailer -> /
+- Located in Cookeville, Tennessee -> /
 - In-house CAD, CNC, machining, welding, assembly -> /
-- Location: Cookeville, TN -> /
-- MV4 platform 390-700+ hp, 48-52 week build -> /
-- APE-X chassis kit 6-10 week lead -> /
-- Custom projects quoted in 5 days -> /
-- Government & defense supplier -> /
-- Named municipal customers (Albemarle County Police, etc.) -> /
-- Facility address 329 Newman Drive, Cookeville, TN 38501 -> /
-- Quotes within three business days -> /
-- Certified welding mentioned -> /
+- MV4 turn-key platform 390-700+ hp, 48-52 wks build -> /
+- APE-X bare chassis kit 6-10 wks lead -> /
+- Full custom one-off engineering -> /
+- APE Pro and APE Bangerz axle assemblies -> /
+- Fabrication parts: tabs, mounts, tube ends, brackets -> /
+- Traffic control trailers for municipal, DOT, utility, contractor fleets -> /
+- Named customers: Albemarle County Police Department, American Civil Constructors, APAC, Banks Construction, Vulcan Materials -> /
+- Government & defense manufacturing: MV4 platform, fleet traffic control equipment -> /
 - Prototyping and low-rate production -> /
-- Fleet & volume pricing tiers -> /
+- Certified welding -> /
+- Quotes typically within three business days -> /
+- Progress photographs at every milestone -> /
+- Direct line to fabricator -> /
+- American made, not sourced overseas -> /
+- Contact: 329 Newman Drive, Cookeville, TN 38501 -> /
+- Certifications: VETERAN OWNED -> db
+- HQ city: Cookeville, state: Tennessee -> db
 </details>
 
 ---
@@ -477,20 +467,20 @@ The founders emphasize that the discipline from military service carries into ev
 **Old description:** Produces high-quality custom metal fabrications and finished painted/non-painted assemblies
 
 ## About
-APX York Sheet Metal operates from a 65,000-square-foot facility in York, Pennsylvania. The company traces its roots to 1946 and has spent more than seven decades building a reputation for dependable custom sheet metal fabrication. It is one of five integrated manufacturing operations under APX Incorporated, which also includes APX Enclosures, APX Industrial Coatings, APX Mitchell Machine Shop, and APX Precision Routing.
+APX York Sheet Metal operates from a 65,000-square-foot facility on Church Road in York, Pennsylvania. The company traces its roots to 1946 and has spent more than seven decades building a reputation for dependable custom sheet metal fabrication. It is one of five integrated manufacturing operations under APX Incorporated, which also includes APX Enclosures, APX Industrial Coatings, APX Mitchell Machine Shop, and APX Precision Routing.
 
-The shop provides a full range of sheet metal services under one roof: laser cutting, bending, PEM/insert installation, welding, grinding, and powder coating. By consolidating these processes, the company aims to give customers a single-source solution that reduces lead times and coordination costs. Materials handled include carbon steel and various galvanized and galvannealed coatings (G40, G60, A40, A60), with additional coating types available on request. All parts are fabricated in the United States.
+The shop provides a full range of sheet metal services under one roof: laser cutting, bending, PEM insert installation, welding, grinding, and powder coating. By maintaining longstanding relationships with steel mills, the company sources carbon steel and galvanized grades such as G40, G60, A40, and A60, ensuring material quality for each fabrication. All parts are produced in the United States.
 
-The customer base spans manufacturing and machinery OEMs, construction equipment builders, material handling and logistics providers, energy and environmental firms, web handling and printing equipment makers, and producers of industrial enclosures and cabinets. While the primary geographic focus is central Pennsylvania and northern Maryland, the company says it works with clients across the Mid-Atlantic region.
+Its customer base spans manufacturing and machinery OEMs, construction equipment builders, material handling and logistics firms, energy and environmental solution providers, web handling and printing equipment makers, and producers of industrial enclosures and cabinets. The company also serves custom performance fabrication projects across the Mid-Atlantic region.
 
-APX York Sheet Metal emphasizes its longstanding relationships with steel mills to secure high-quality raw material, its use of cutting-edge technology, and its commitment to efficient processes that help customers meet cost and schedule pressures. The company’s stated differentiator is the ability to deliver tailor-made fabrications—from prototype to production runs—with adjustments easily incorporated into subsequent pieces.
+APX York Sheet Metal positions itself as a one-stop shop, emphasizing streamlined processes, cutting-edge technology, and efficient workflows to help clients meet cost and lead-time pressures. The firm highlights its domestic manufacturing commitment and its ability to accommodate unique needs beyond the listed industries.
 
 ## Known for
-- Single-source sheet metal fabrication: laser cutting, bending, inserts/PEM, welding, grinding, powder coating
-- 65,000-square-foot facility in York, PA
-- Longstanding mill relationships for high-quality carbon steel and coated sheet
-- All products made in the USA
-- Over 70 years of experience serving diverse industries
+- One-stop shop for laser cutting, bending, welding, and powder coating
+- 65,000 sq ft facility with in-house finishing
+- Direct mill relationships for carbon and galvanized steel (G40, G60, A40, A60)
+- Domestic manufacturing (Made in USA)
+- 70+ years serving OEMs in central PA and northern MD
 
 ## Capabilities
 - Laser cutting
@@ -499,40 +489,33 @@ APX York Sheet Metal emphasizes its longstanding relationships with steel mills 
 - Welding
 - Grinding
 - Powder coating
-- Custom sheet metal fabrication
-- Sheet metal fabrication
-- Custom performance fabrications
-- Industrial coatings
-- Precision routing
-- Machine shop services
-- Enclosure manufacturing
 
 ## Industries
 - Manufacturing/machinery OEMs
 - Construction equipment manufacturers
 - Material handling/logistics solutions providers
 - Energy/environmental solutions providers
+- Alternative Energy
 - Web handling and printing equipment OEMs
 - Industrial enclosures and cabinets
 - Custom performance fabrications
-- Alternative energy
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1946
-- **Ownership:** Part of APX Incorporated (five integrated manufacturing operations)
 - **Headquarters:** York, Pennsylvania
 
 <details><summary>Sources</summary>
 
 - Founded 1946 -> db
-- Headquarters York, PA -> db
-- 65,000-square-foot facility -> /
-- Services: laser cutting, bending, inserts/PEM, welding, grinding, powder coating -> /
-- Industries served: manufacturing/machinery OEMs, construction equipment, material handling/logistics, energy/environmental, web handling/printing OEMs, industrial enclosures/cabinets, custom performance fabrications -> /
+- Location: York, PA -> /
+- Facility size: 65,000 sq ft -> /
+- Processes: laser cutting, bending, inserts/PEM, welding, grinding, powder coating -> /
+- Materials: carbon steel, galvanized steel (G40, G60, A40, A60) -> /
+- Industries served: manufacturing/machinery OEMs, construction equipment, material handling/logistics, energy/environmental, web handling/printing, industrial enclosures, custom performance fabrications -> /
 - Part of APX Incorporated with five integrated operations -> /
-- All products made in USA -> /
-- Materials: carbon steel, G40/G60/A40/A60 coatings -> /
+- Made in USA -> /
+- One-stop shop emphasis -> /
 - Over 70 years experience -> /
 </details>
 
@@ -543,34 +526,34 @@ APX York Sheet Metal emphasizes its longstanding relationships with steel mills 
 **Old description:** Custom electrical wire harnesses, battery cables, control panels, electromechanical enclosures
 
 ## About
-AQ Wiring Systems NY operates from Plattsburgh, New York. The business traces its origins to 1991 and became part of the Swedish multinational AQ Group in 2018 following the acquisition of the former B3CG Interconnect. It is now a subsidiary of AQ Group, which employs over 8,000 people across 42 manufacturing sites worldwide.
+AQ Wiring Systems NY operates from Plattsburgh, New York. The business traces its roots to 1991 and became part of the Swedish multinational AQ Group in 2018 through the acquisition of B3CG Interconnect, a longtime connectivity specialist. The Plattsburgh location serves as one of nine wiring-systems factories across eight countries within the AQ Group network.
 
-The Plattsburgh site produces custom wire harnesses, electromechanical enclosures, and high-voltage cables. The company supports both high-mix low-volume and low-mix high-volume production. All production is fully tested with traceability.
+The company produces custom electrical wire harnesses, battery cables, control panels, high‑voltage cables, and electromechanical enclosures. Its engineering team offers VAVE analysis, design assistance, lean‑manufacturing optimization, and prototyping with PPAP and FAI processes. All output undergoes 100 % testing and traceability certification.
 
-The company serves customers in transportation, industrial, medical, and recreational sectors, providing electrical connectivity solutions for demanding applications.
+Customers span transportation, industrial, medical, and recreational sectors. The firm positions itself as an electrical‑connectivity expert for demanding OEMs and tier‑one suppliers who require turnkey project management and global procurement leverage.
 
-AQ Wiring Systems NY differentiates itself through integrated engineering support — including value analysis/value engineering (VAVE), design optimization, and lean manufacturing — combined with the global procurement leverage of the AQ Group. It offers prototyping with PPAP and FAI processes, and 100% tested production with full traceability.
+This structure allows competitive pricing while maintaining quality through standardized processes across its multi‑country footprint.
 
 ## Known for
-- Engineering design assistance and VAVE optimization
+- International purchasing leverage through AQ Group’s global procurement network
+- 100 % of production fully tested and certified for traceability
 - Prototyping with PPAP and FAI processes
-- 100% production testing with full traceability
-- Global procurement leverage via AQ Group
-- Low-cost manufacturing partners in Canada and Mexico
+- VAVE, design assistance, lean manufacturing, and cost‑reduction engineering
+- High‑mix/low‑volume and low‑mix/high‑volume manufacturing flexibility
 
 ## Capabilities
-- Custom wire harness assembly
-- Electromechanical enclosure assembly
-- High voltage cable assembly
-- Engineering design assistance
-- Value analysis/value engineering (VAVE)
-- Design optimization
-- Lean manufacturing
+- Custom electrical wire harness assembly
+- Electromechanical enclosure fabrication
+- High‑voltage cable manufacturing
+- Battery cable production
+- Control panel assembly
+- Engineering design assistance and VAVE
+- Lean manufacturing process optimization
 - Prototyping (PPAP, FAI)
-- 100% production testing and traceability
 - Turnkey project management
-- High-mix low-volume production
-- Low-mix high-volume production
+- 100 % functional testing and traceability
+- Global procurement and supply‑chain management
+- Low‑cost manufacturing in Mexico and Canada
 
 ## Industries
 - Transportation
@@ -582,25 +565,24 @@ AQ Wiring Systems NY differentiates itself through integrated engineering suppor
 - **Company Type:** Manufacturer
 - **Founded:** 1991
 - **Employees:** 8000
-- **Ownership:** Subsidiary of AQ Group (Swedish multinational)
+- **Ownership:** Part of AQ Group (Swedish multinational) since 2018; formerly B3CG Interconnect
 - **Headquarters:** Plattsburgh, New York
 
 <details><summary>Sources</summary>
 
-- Founded in 1991 -> /
+- Founded in 1991 -> db
+- Headquarters in Plattsburgh, New York -> db
 - Part of AQ Group since 2018 -> /
-- Headquartered in Plattsburgh, New York -> db
-- Manufactures custom electrical wire harnesses and electromechanical assemblies -> /
-- Operates manufacturing facilities in St-Eustache, Canada and Tultitlan, Mexico -> /
-- Mexico facility: 350 skilled craftsmen, 45,000 sq ft -> /
-- Serves transportation, industrial, medical, recreational industries -> /about
-- Engineering support includes VAVE, design assistance, PPAP, FAI -> /
-- 100% production tested with traceability -> /
-- Global procurement leverage via AQ Group -> /
-- Formerly B3CG Interconnect, acquired 2018 -> /about
-- AQ Group founded 1994, 8000+ employees, 42 sites -> /
-- Company type: Manufacturer -> /
-- Employee count 8000 (group) -> db
+- Acquired from B3CG Interconnect -> /about
+- Products: custom electrical wire harnesses, battery cables, control panels, electromechanical enclosures, high voltage cables -> /
+- Engineering services: VAVE, design assistance, lean manufacturing, prototyping (PPAP, FAI) -> /
+- 100% production tested and certified for traceability -> /
+- Manufacturing plants in St-Eustache, Canada and Tultitlan, Mexico (45,000 sq ft, 350 craftsmen) -> /
+- AQ Group: Swedish multinational, founded 1994, 8000+ employees, 42 sites, 9 wiring systems factories -> /
+- Industries served: transportation, industrial, medical, recreational -> /about
+- Turnkey projects, high mix low volume and low mix high volume -> /
+- International purchasing leverage within AQ global group -> /
+- Team members listed -> /about
 </details>
 
 ---
@@ -610,39 +592,36 @@ AQ Wiring Systems NY differentiates itself through integrated engineering suppor
 **Old description:** All of our plantain and cassava chips have a hechsher from the Union of Orthodox Jewish Congregations of America, making them
 
 ## About
-ARA Food Corporation operates from Miami, Florida, where it was founded in 1975 by Cuban immigrant Alberto R. Abrante and his family. The family-owned business has grown into one of Florida's largest snack food manufacturers over nearly five decades.
+ARA Food Corporation was founded in 1975 in Miami, Florida, by Cuban immigrant Alberto R. Abrante and his family. The family-owned business began with a focus on producing tropical snack foods using imported plantains.
 
-The company specializes in plantain and cassava (yuca) chips, billing itself as the largest producer of both in the United States. Using imported plantains and simple, health-conscious ingredients, ARA runs a continuous frying and seasoning operation that supplies distributors and retailers across the U.S. and Puerto Rico.
+The company manufactures plantain and cassava chips, marketing them under multiple brands. It emphasizes the use of fresh imported plantains and simple, health-conscious ingredients. ARA Food Corp describes itself as the largest plantain and cassava chip manufacturer in the United States and one of Florida's largest snack food producers, supplying distributors and retailers across the U.S. and Puerto Rico, with products stocked in major chains such as Publix, Winn-Dixie, Walmart, and Aldi.
 
-Its customer base includes major supermarket chains such as Publix, Winn-Dixie, Walmart, and Aldi, as well as regional distributors. Products carry a hechsher from the Union of Orthodox Jewish Congregations of America, making them kosher, and are produced under SQF and AIB International food-safety certifications.
+Its customer base includes wholesale distributors, retail grocery chains, and supermarkets throughout the United States and Puerto Rico. The company's chips carry a hechsher from the Union of Orthodox Jewish Congregations of America, making them kosher-friendly, and the facility holds SQF certification recognized by the Global Food Safety Initiative, as well as AIB International certification.
 
-Abrante's original mission — to provide high-quality tropical snacks as a satisfying alternative — remains the stated differentiator, reinforced by the family's hands-on leadership and a focus on responsive customer service.
+The business was started to provide a satisfying alternative snack experience rooted in Cuban culinary traditions. Today, the second generation, led by Vice President Alberto Abrante Jr., continues the mission of delivering high-quality tropical snacks with a focus on quality and selection.
 
 ## Known for
 - Largest U.S. manufacturer of plantain and cassava chips
-- Kosher certified (OU hechsher)
-- SQF and AIB International certified
+- Kosher-certified (OU) on all plantain and cassava chips
+- SQF-certified facility recognized by GFSI
 - Family-owned since 1975
-- Simple, health-conscious ingredient list
+- Simple, health-conscious ingredients with imported plantains
 
 ## Capabilities
 - Plantain chip manufacturing
-- Cassava chip manufacturing
-- Snack food production
-- Kosher certification compliance
-- SQF food safety management
-- AIB International compliance
+- Cassava (yuca) chip manufacturing
+- Kosher-certified production
+- SQF-certified production
 
 ## Industries
-- Snack food manufacturing
-- Food and beverage
-- Retail grocery
-- Wholesale distribution
+- Food Manufacturing
+- Retail Grocery
+- Wholesale Distribution
 
 ## Certifications
 - SQF
+- Kosher (OU)
 - AIB International
-- Kosher (Union of Orthodox Jewish Congregations of America)
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -653,15 +632,13 @@ Abrante's original mission — to provide high-quality tropical snacks as a sati
 <details><summary>Sources</summary>
 
 - Founded 1975 by Alberto R. Abrante and family -> /
-- Headquarters in Miami, Florida -> /
-- Largest plantain and cassava chip manufacturer in US -> /
-- Products: plantain chips, cassava chips -> /
-- Kosher certified (OU hechsher) -> /
-- SQF Certified -> /
-- AIB International certified -> /
-- Serves distributors and retailers in US and Puerto Rico -> /
-- Sold in Publix, Winn-Dixie, Walmart, Aldi -> /
-- Family-owned, current VP Alberto Abrante Jr. -> /
+- Headquarters Miami, Florida -> db
+- Largest plantain and cassava chip manufacturer in U.S. -> /
+- Products sold to distributors, retailers, supermarkets (Publix, Winn-Dixie, Walmart, Aldi) -> /
+- Kosher certification (OU) -> /
+- SQF certification -> /
+- AIB International certification -> /
+- Family-owned, second generation VP Alberto Abrante Jr. -> /
 - LinkedIn URL -> db
 </details>
 

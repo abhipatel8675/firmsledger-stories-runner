@@ -1,495 +1,423 @@
 fetched p0160-raw.json 10 / 10
 fetched p0161-raw.json 10 / 10
-RETRY custom-wire-technologies-inc HTTP Error 503: Service Unavailable
-RETRY custom-works-inc HTTP Error 503: Service Unavailable
 fetched p0162-raw.json 10 / 10
-RETRY cut-dry-lumber-company HTTP Error 503: Service Unavailable
 fetched p0163-raw.json 10 / 10
-RETRY daddy-s-workshop-of-the-carolinas HTTP Error 503: Service Unavailable
-RETRY dakotaland-woodwork-cabinets-llc HTTP Error 503: Service Unavailable
 fetched p0164-raw.json 10 / 10
-RETRY daybreak-foods-inc HTTP Error 429: Too Many Requests
-RETRY datacom-cable-supply HTTP Error 503: Service Unavailable
-fetched p0165-raw.json 10 / 10
-RETRY delta-furniture HTTP Error 503: Service Unavailable
-RETRY delaware-dry-goods-co HTTP Error 503: Service Unavailable
-RETRY custom-wire-technologies-inc HTTP Error 503: Service Unavailable
-ok   Crown Metal Manufacturing Co. 
-RETRY dittbrenner-woodworking-llc HTTP Error 503: Service Unavailable
-ok   Crown Automotive LLC 
-ok   DAD Manufacturing, Inc. 
-ok   Cross Country Cable 
-ok   Dana Poly Corp. 
-fetched p0166-raw.json 10 / 10
-ok   D & D Medical Equipment 
-ok   D&L Fashions Inc 
-RETRY cut-dry-lumber-company HTTP Error 503: Service Unavailable
-ok   Custom Metal Fabrication, INC. 
-ok   Crittco Cable & Fiber 
-ok   Darlington Snacks 
-RETRY ducote-s-restaurant-bar-equipment HTTP Error 503: Service Unavailable
-RETRY dynasty-woodworks HTTP Error 503: Service Unavailable
-ok   Custom Wood Artistry 
-ok   Dakota Auto Parts 
-ok   Decker Packaging, Corp. 
-ok   Custom Cut and Fab 
-ok   Down South Woodworks 
-ok   Dakota Automotive Products, Inc 
-ok   Crego Metal Systems 
-RETRY edge-energy HTTP Error 503: Service Unavailable
-RETRY edl-packaging-a-massman-company HTTP Error 503: Service Unavailable
-ok   DeKALB Molded Plastics | Structural Foam Molding 
-RETRY ems-inc-electronic-manufacturing-solutions HTTP Error 503: Service Unavailable
-ok   DigitTron Technologies Inc 
-ok   DS Electronics, Inc. 
-ok   DMA Industries LLC 
-RETRY epir-technologies HTTP Error 503: Service Unavailable
-ok   Custom Works Inc. 
-RETRY datacom-cable-supply HTTP Error 503: Service Unavailable
-ok   DSI Manufacturing 
-ok   Danfe Foods 
-ok   Des Moines Steel 
-RETRY dittbrenner-woodworking-llc HTTP Error 503: Service Unavailable
-ok   Diabetic Equipment And Supplies 
-ok   Custom Woodworking - Colorado Springs Sawmill at Penrose CO 
-ok   Discount Moulding 
-ok   Design Warehouse 
-ok   DEM Medical dba Virtec Enterprises 
-RETRY dynasty-woodworks HTTP Error 503: Service Unavailable
-ok   Custom Cable Corp. 
-ok   DPS Molding, Inc. 
-ok   Dickson Industries Inc 
-RETRY edl-packaging-a-massman-company HTTP Error 503: Service Unavailable
-RETRY ems-inc-electronic-manufacturing-solutions HTTP Error 503: Service Unavailable
-ok   Delmarva Welding Company LLC. 
-RETRY edl-packaging-a-massman-company HTTP Error 503: Service Unavailable
-ok   Detroit Woodworking 
-ok   Danco Medical Systems 
-ok   Delaware Dry Goods Co 
-ok   Dawson Fabrication 
 ok   DM Extrusion 
-RETRY drake-plastics-ltd-co 'NoneType' object has no attribute 'group'
-ok   Daybreak Foods Inc 
-ok   EHOB, Inc. 
-ok   Durable Medical Equipment Re-Use Program, State of Maryland 
-ok   Dixon Power Systems 
-RETRY drake-plastics-ltd-co HTTP Error 503: Service Unavailable
-fetched p0167-raw.json 9 / 10
-ok   E I Electrical, Inc. 
-RETRY eckart-supply HTTP Error 503: Service Unavailable
-fetched p0168-raw.json 10 / 10
-ok   Daddy's Workshop of the Carolinas 
-ok   EDGE Energy 
-ok   Ducote's Restaurant & Bar Equipment 
-RETRY ehmke-manufacturing-co-inc HTTP Error 503: Service Unavailable
-RETRY electramatic HTTP Error 503: Service Unavailable
-ok   Cut & Dry Lumber Company 
-PAGE DONE p0161-profiles.json
-ok   ELECTRO CIRCUITS 
-ok   Dakotaland Woodwork & Cabinets LLC. 
-PAGE DONE p0162-profiles.json
-RETRY electronic-polymer-technologies HTTP Error 503: Service Unavailable
-ok   EVCO Plastics - Calhoun 
-ok   Del-Tec Packaging Inc 
-ok   EPIR Technologies 
-fetched p0169-raw.json 10 / 10
-RETRY eckart-supply HTTP Error 503: Service Unavailable
-ok   E2 Solar, LLC 
-fetched p0170-raw.json 10 / 10
-ok   ECI Cables Inc. 
-ok   Delta Furniture 
-RETRY dynamic-packaging-llc Expecting ',' delimiter: line 52 column 4 (char 3107)
-RETRY elite-printing-and-packaging-inc HTTP Error 503: Service Unavailable
-fetched p0171-raw.json 10 / 10
-ok   Dynamic Sheetmetal Fabrication, LLC 
-ok   Dittbrenner Woodworking LLC 
-RETRY electronic-polymer-technologies HTTP Error 503: Service Unavailable
-ok   Datacom Cable Supply 
-PAGE DONE p0163-profiles.json
-fetched p0172-raw.json 10 / 10
-RETRY encore-renewable-energy HTTP Error 503: Service Unavailable
-ok   E-TekNet Inc. 
-fetched p0173-raw.json 10 / 10
-ok   Electro Core Inc 
-RETRY engineered-textile-products HTTP Error 503: Service Unavailable
-ok   EMS, Inc (Electronic Manufacturing Solutions) 
-ok   East Jordan Plastics 
-RETRY equipment-sales-co-inc HTTP Error 503: Service Unavailable
-RETRY esco-manufacturing-inc HTTP Error 503: Service Unavailable
-ok   Electric Wire Products Corporation 
-RETRY ethos-furniture-colorado-springs HTTP Error 503: Service Unavailable
-RETRY everbrite-electronics-inc HTTP Error 503: Service Unavailable
-ok   Ebanista School of Fine Woodworking 
-ok   ENGENT 
-RETRY evotronics-inc HTTP Error 503: Service Unavailable
-RETRY excel-connection HTTP Error 503: Service Unavailable
-ok   EPEC Solutions, Inc. 
-ok   Electronic Displays, Inc. 
-RETRY excel-injection-molding HTTP Error 503: Service Unavailable
-ok   Elcam Medical Inc 
+ok   Cross Country Cable 
+fetched p0165-raw.json 10 / 10
+RETRY des-moines-steel HTTP Error 429: Too Many Requests
+ok   Crown Automotive LLC 
+ok   Crown Metal Manufacturing Co. 
+fetched p0166-raw.json 10 / 10
+ok   Custom Cut and Fab 
 ok   Custom Wire technologies, Inc. 
+fetched p0167-raw.json 10 / 10
+ok   D&L Fashions Inc 
+ok   Custom Cable Corp. 
+ok   D & D Medical Equipment 
+fetched p0168-raw.json 10 / 10
+ok   Custom Wood Artistry 
+ok   Datacom Cable Supply 
+ok   Dakotaland Woodwork & Cabinets LLC. 
+ok   Darlington Snacks 
+ok   DSI Manufacturing 
+ok   Crittco Cable & Fiber 
+ok   Delaware Dry Goods Co 
+ok   Custom Works Inc. 
+ok   Daddy's Workshop of the Carolinas 
+ok   Dakota Auto Parts 
+ok   Cut & Dry Lumber Company 
+ok   DAD Manufacturing, Inc. 
+ok   Design Warehouse 
+ok   Diabetic Equipment And Supplies 
+ok   Crego Metal Systems 
+ok   Discount Moulding 
+ok   Dana Poly Corp. 
+fetched p0169-raw.json 10 / 10
+ok   DMA Industries LLC 
+ok   DeKALB Molded Plastics | Structural Foam Molding 
+ok   DPS Molding, Inc. 
+ok   Daybreak Foods Inc 
+fetched p0170-raw.json 10 / 10
+ok   Decker Packaging, Corp. 
+ok   Custom Metal Fabrication, INC. 
 PAGE DONE p0160-profiles.json
-RETRY experienced-solar HTTP Error 503: Service Unavailable
-ok   Dynasty Woodworks 
-ok   Eben Blaney Fine Contemporary Furniture 
+ok   Dakota Automotive Products, Inc 
+ok   DEM Medical dba Virtec Enterprises 
+ok   Durable Medical Equipment Re-Use Program, State of Maryland 
+fetched p0171-raw.json 10 / 10
 ok   Drake Plastics Ltd. Co. 
-PAGE DONE p0164-profiles.json
-RETRY f-p-america-manufacturing-inc HTTP Error 503: Service Unavailable
-ok   Elevation Foods 
-RETRY everbrite-electronics-inc HTTP Error 503: Service Unavailable
+ok   Danfe Foods 
+ok   Dittbrenner Woodworking LLC 
+RETRY danco-medical-systems Expecting ',' delimiter: line 42 column 4 (char 2432)
+ok   DS Electronics, Inc. 
+ok   Dawson Fabrication 
+fetched p0172-raw.json 10 / 10
+ok   Down South Woodworks 
+ok   Dynamic Sheetmetal Fabrication, LLC 
+ok   Custom Woodworking - Colorado Springs Sawmill at Penrose CO 
+PAGE DONE p0161-profiles.json
+fetched p0173-raw.json 10 / 10
+ok   Dixon Power Systems 
+ok   E-TekNet Inc. 
+ok   E I Electrical, Inc. 
+ok   Ebanista School of Fine Woodworking 
+ok   ECI Cables Inc. 
+RETRY e-s-components 'NoneType' object has no attribute 'group'
+ok   Delmarva Welding Company LLC. 
+RETRY detroit-woodworking 'NoneType' object has no attribute 'group'
+ok   Ducote's Restaurant & Bar Equipment 
+RETRY elite-medical-care HTTP Error 429: Too Many Requests
+ok   Del-Tec Packaging Inc 
+ok   Dynamic Packaging, LLC 
+ok   EHOB, Inc. 
+ok   E2 Solar, LLC 
 ok   EightTwenty 
-ok   Electro Parts Inc 
-ok   Ernest Packaging Solutions 
 ok   Ed & Matt Equipment Services 
-ok   Electrical Equipment LLC 
+ok   DigitTron Technologies Inc 
+ok   EPIR Technologies 
+RETRY dickson-industries-inc Expecting ',' delimiter: line 57 column 4 (char 3118)
+ok   EVCO Plastics - Calhoun 
+ok   Eckart Supply 
+ok   ENGENT 
+ok   Electro Core Inc 
+ok   East Jordan Plastics 
+ok   EPEC Solutions, Inc. 
+ok   Eben Blaney Fine Contemporary Furniture 
+ok   Electric Wire Products Corporation 
+ok   ELECTRO CIRCUITS 
+ok   EMS, Inc (Electronic Manufacturing Solutions) 
+ok   Dynasty Woodworks 
+skip ElringKlinger Manufacturing Indiana Inc. 
+ok   Electro Parts Inc 
+ok   Electramatic 
+ok   Edge Core Tech 
+ok   Electronic Displays, Inc. 
+ok   Ehmke Manufacturing Co Inc 
+ok   Encore Equipment LLC 
+ok   Emergent Solar Energy 
+ok   Elevate Packaging 
+ok   Electronic Solutions Inc 
+ok   Ellerbuilt Woodworks 
+ok   Empowered Solar 
+ok   EDGE Energy 
+ok   Engineered Textile Products 
+ok   Energy Technologies, Inc., Manufacturing Building 
+ok   Elcam Medical Inc 
+PAGE DONE p0167-profiles.json
+ok   Des Moines Steel 
+ok   Electronic Service Inc 
+ok   Elite Spice Inc 
+RETRY electronic-design-research-inc 'NoneType' object has no attribute 'group'
+fetched p0174-raw.json 10 / 10
+RETRY electrical-equipment-llc Expecting ',' delimiter: line 66 column 4 (char 4422)
+ok   Emmaus Foods LLC 
+RETRY electronic-source-company 'NoneType' object has no attribute 'group'
+fetched p0175-raw.json 10 / 10
+ok   Elevation Foods 
+ok   Elite Printing and Packaging, Inc 
 ok   EDL Packaging, A Massman Company 
 PAGE DONE p0166-profiles.json
-ok   ElringKlinger Manufacturing Indiana Inc. 
-ok   Element Materials Technology Wilmington (Formerly SL Pharma Labs Inc. ) 
-ok   Electrical Materials Co 
-RETRY experienced-solar HTTP Error 503: Service Unavailable
-RETRY e-s-components The read operation timed out
-ok   Electronic Design & Research Inc. 
-ok   Edge Core Tech 
-RETRY feast-detroit HTTP Error 503: Service Unavailable
-fetched p0174-raw.json 10 / 10
-ok   Emergent Solar Energy 
-RETRY electronic-source-company 'NoneType' object has no attribute 'group'
-ok   Elite Medical Care 
-ok   Excel Manufacturing Inc. 
-ok   Epic Steel 
-RETRY fiorenza-custom-woodworking HTTP Error 503: Service Unavailable
-fetched p0175-raw.json 10 / 10
-ok   Ellerbuilt Woodworks 
-ok   Era Wire Inc 
-ok   Ehmke Manufacturing Co Inc 
-fetched p0176-raw.json 10 / 10
-ok   Erhardt Woodworks 
-ok   Electronic Solutions Inc 
-RETRY florida-man-woodworking HTTP Error 503: Service Unavailable
-ok   Eckart Supply 
-ok   Evolution Furniture 
-RETRY experienced-solar HTTP Error 503: Service Unavailable
-ok   Emmaus Foods LLC 
-ok   Extreme Metal Fabrication 
-ok   Electronic Service Inc 
-ok   Endries Solar And Electric 
-ok   FCPS Electric 
-fetched p0177-raw.json 10 / 10
-RETRY fiorenza-custom-woodworking HTTP Error 503: Service Unavailable
-RETRY full-pen-fabrication-llc HTTP Error 503: Service Unavailable
-ok   Ethos Furniture Colorado Springs 
-ok   Elite Spice Inc 
-ok   Electronic Specialties of Ct 
-fetched p0178-raw.json 10 / 10
-RETRY g5-textiles HTTP Error 503: Service Unavailable
-RETRY florida-man-woodworking HTTP Error 503: Service Unavailable
-ok   Fabric Hawaii 
-ok   Fabricated Steel Products Inc 
-ok   Empowered Solar 
-RETRY dynamic-packaging-llc HTTP Error 500: Internal Server Error
-RETRY flamtech-appliances-inc HTTP Error 500: Internal Server Error
-ok   Encore Equipment LLC 
-RETRY gama-electronics-plant-2 HTTP Error 503: Service Unavailable
-RETRY gem-equipment-of-oregon-inc HTTP Error 503: Service Unavailable
-ok   Energy Technologies, Inc., Manufacturing Building 
-ok   FARM Food Processing Accelerator 
-ok   Electramatic 
-PAGE DONE p0167-profiles.json
-ok   Esco Manufacturing Inc 
-fetched p0179-raw.json 10 / 10
-ok   F.A.T.S. Parts 
-ok   Five Rivers Fabrication 
-ok   Engineered Textile Products 
-RETRY full-pen-fabrication-llc HTTP Error 503: Service Unavailable
-ok   Encore Renewable Energy 
-ok   Elevate Packaging 
-ok   Fabric Factory 
-ok   Falcon Textiles Cut & Sew 
-ok   Exponent Assembly 
-ok   Elite Printing and Packaging, Inc 
-ok   Evolution St. Louis 
-RETRY generac-power-systems HTTP Error 503: Service Unavailable
-ok   Fabrik Molded Plastics 
-ok   Ferric, Inc. 
-RETRY gama-electronics-plant-2 HTTP Error 503: Service Unavailable
-ok   Fun City Foods, Inc. 
-ok   Fab-Rite Sheet Metal 
-RETRY geometric-innovations-llc HTTP Error 503: Service Unavailable
-ok   Excel Connection 
-RETRY george-t-hall-company HTTP Error 503: Service Unavailable
-ok   Fabricators Supply 
-RETRY emco-industrial-plastics Expecting ',' delimiter: line 88 column 4 (char 3431)
-ok   Excel Injection Molding 
-RETRY gem-equipment-of-oregon-inc HTTP Error 503: Service Unavailable
-RETRY ellis-fabrics Expecting ',' delimiter: line 53 column 4 (char 3362)
-RETRY gill-cc-woodworks-inc HTTP Error 503: Service Unavailable
-ok   Electronic Polymer Technologies 
-ok   Evotronics Inc 
-skip General Manufacturing, LLC 
-ok   Four-In-One Inc. 
-ok   Floating Axe Woodworks 
-ok   Francis Metals Inc 
-ok   Foliot Furniture 
-RETRY full-pen-fabrication-llc HTTP Error 503: Service Unavailable
-ok   Florida Metal Services Inc. 
-RETRY gold-path-solar HTTP Error 503: Service Unavailable
-ok   GM Cable Contractors Inc 
-RETRY golden-barrel-products-honey-brook HTTP Error 503: Service Unavailable
-ok   False Bottom Fabrication 
-ok   Equipment Sales Co Inc. 
-ok   Everbrite Electronics Inc 
-PAGE DONE p0171-profiles.json
-ok   Florida Natural Flavors 
-RETRY grado-creations HTTP Error 503: Service Unavailable
-RETRY grand-central-wiring HTTP Error 503: Service Unavailable
-ok   Furniture Joint 
-ok   Florida Custom Mold 
-ok   Format Furniture inc. 
-ok   Florida Cable Network Inc 
-ok   Gilman Electrical Supply 
-ok   Experienced Solar 
-ok   Geisler Electric 
-ok   Food Processing Equipment Co 
-ok   G5 Textiles 
-RETRY greatwestern-products-co-llc HTTP Error 503: Service Unavailable
-ok   Feast Detroit 
-PAGE DONE p0173-profiles.json
-RETRY gold-path-solar HTTP Error 503: Service Unavailable
-ok   G&G Industries 
-RETRY golden-barrel-products-honey-brook HTTP Error 503: Service Unavailable
-ok   Flamtech Appliances Inc. 
-ok   Florida Gulf Packaging Inc. 
-RETRY e-s-components 'NoneType' object has no attribute 'group'
-ok   Goodtime Medical 
-ok   Gilbert Creek Woodworks 
-ok   GAO RFID 
-ok   GRK Manufacturing Co 
-ok   Global Electronics 
-ok   Fiorenza Custom Woodworking 
-RETRY electronic-source-company Expecting ',' delimiter: line 82 column 4 (char 4495)
-ok   Gary Platt Seating 
-ok   Geometric Innovations LLC 
-ok   F & P America Manufacturing Inc 
-PAGE DONE p0172-profiles.json
-ok   Gear For Sports Inc 
-ok   GAMA Electronics Plant 2 
-ok   Global Textile Alliance, Inc. 
-ok   Galaxy Electronics Inc 
-ok   GEM EQUIPMENT OF OREGON INC 
-ok   Graybar 
-ok   Gold Path Solar 
-ok   Geffdog Design and Apparel 
-PAGE DONE p0176-profiles.json
-ok   Global Steering Systems 
-ok   Forever Fabrication & Welding Services 
-ok   General Woodcraft Inc 
-ok   Good Cable 
-ok   George T. Hall Company 
-ok   GlobalFoundries 
-ok   Grado Creations 
-ok   General Transformer Corporation 
-RETRY dynamic-packaging-llc Expecting ',' delimiter: line 49 column 4 (char 3157)
-ok   Grace Technologies 
-ok   Full Pen Fabrication LLC 
-PAGE DONE p0175-profiles.json
-ok   Gill CC Woodworks INC 
-ok   Generations Millwork 
-ok   Grand Rapids Chair Company 
-ok   Great American Packaging 
-ok   Gellco Work Outfitters 
-ok   Global Bridge Pharmaceutical 
-ok   Ellis Fabrics 
-PAGE DONE p0169-profiles.json
-ok   Generac Power Systems 
-PAGE DONE p0177-profiles.json
-ok   Greatwestern Products Co., LLC 
-ok   Florida Man Woodworking 
-PAGE DONE p0174-profiles.json
-ok   Grand Solar, Inc. 
-RETRY emco-industrial-plastics 'NoneType' object has no attribute 'group'
-ok   Great Northern Metal Co. 
-RETRY grand-central-wiring Expecting ',' delimiter: line 79 column 4 (char 3300)
-ok   Golden Barrel Products Honey Brook 
-PAGE DONE p0178-profiles.json
-ok   Dynamic Packaging, LLC 
-RETRY e-s-components Expecting ',' delimiter: line 78 column 4 (char 4547)
-RETRY electronic-source-company 'NoneType' object has no attribute 'group'
-ok   Grand Central Wiring 
-PAGE DONE p0179-profiles.json
 ok   Emco Industrial Plastics 
+ok   Epic Steel 
+fetched p0176-raw.json 10 / 10
+ok   Ellis Fabrics 
+fetched p0177-raw.json 10 / 10
+ok   Electrical Materials Co 
+ok   Electronic Polymer Technologies 
+ok   Ethos Furniture Colorado Springs 
+ok   Electronic Specialties of Ct 
+RETRY ferric-inc HTTP Error 429: Too Many Requests
+ok   Element Materials Technology Wilmington (Formerly SL Pharma Labs Inc. ) 
+fetched p0178-raw.json 10 / 10
+RETRY dickson-industries-inc HTTP Error 429: Too Many Requests
+ok   Evolution St. Louis 
+ok   Encore Renewable Energy 
+ok   Evolution Furniture 
+ok   Evotronics Inc 
+ok   Extreme Metal Fabrication 
+ok   Excel Manufacturing Inc. 
+ok   Esco Manufacturing Inc 
+ok   Excel Injection Molding 
+ok   FCPS Electric 
+fetched p0179-raw.json 10 / 10
+ok   Danco Medical Systems 
+PAGE DONE p0162-profiles.json
+ok   Everbrite Electronics Inc 
+skip False Bottom Fabrication 
+ok   Detroit Woodworking 
+ok   Erhardt Woodworks 
+ok   Endries Solar And Electric 
 PAGE DONE p0170-profiles.json
-RETRY e-s-components Expecting ',' delimiter: line 84 column 4 (char 4514)
-skip E S Components Expecting ',' delimiter: line 84 column 4 (char 4514)
-PAGE DONE p0165-profiles.json
+ok   Fabricators Supply 
+ok   Experienced Solar 
+ok   Ernest Packaging Solutions 
+ok   Fabricated Steel Products Inc 
+ok   F & P America Manufacturing Inc 
+RETRY e-s-components 'NoneType' object has no attribute 'group'
+RETRY delta-furniture The read operation timed out
+ok   Fab-Rite Sheet Metal 
+ok   Elite Medical Care 
+PAGE DONE p0169-profiles.json
+ok   Flamtech Appliances Inc. 
+ok   Falcon Textiles Cut & Sew 
+ok   Fabric Hawaii 
+ok   Fabrik Molded Plastics 
+ok   Equipment Sales Co Inc. 
+ok   Fabric Factory 
+ok   Fun City Foods, Inc. 
+ok   Exponent Assembly 
+ok   Florida Custom Mold 
+ok   Excel Connection 
+ok   FARM Food Processing Accelerator 
+ok   Format Furniture inc. 
+ok   Floating Axe Woodworks 
+ok   Florida Metal Services Inc. 
+ok   Feast Detroit 
+ok   Five Rivers Fabrication 
+ok   Francis Metals Inc 
+ok   Era Wire Inc 
+PAGE DONE p0171-profiles.json
+ok   Foliot Furniture 
+ok   Florida Gulf Packaging Inc. 
+ok   Furniture Joint 
+ok   F.A.T.S. Parts 
+PAGE DONE p0172-profiles.json
+ok   Florida Man Woodworking 
+ok   Florida Cable Network Inc 
+ok   Fiorenza Custom Woodworking 
+RETRY forever-fabrication-welding-services Expecting ',' delimiter: line 55 column 4 (char 3599)
+ok   Florida Natural Flavors 
+PAGE DONE p0174-profiles.json
+ok   Full Pen Fabrication LLC 
+ok   Four-In-One Inc. 
+ok   Food Processing Equipment Co 
+skip General Manufacturing, LLC 
+ok   G&G Industries 
+ok   GM Cable Contractors Inc 
+ok   GEM EQUIPMENT OF OREGON INC 
+ok   Gear For Sports Inc 
+ok   G5 Textiles 
+ok   Gary Platt Seating 
+ok   Electronic Design & Research Inc. 
+ok   Geisler Electric 
+ok   Geffdog Design and Apparel 
+ok   Generations Millwork 
+ok   Gellco Work Outfitters 
+ok   GAO RFID 
+ok   Galaxy Electronics Inc 
+ok   Geometric Innovations LLC 
+ok   Global Electronics 
+ok   GAMA Electronics Plant 2 
+ok   General Woodcraft Inc 
+ok   George T. Hall Company 
+ok   General Transformer Corporation 
+ok   Gold Path Solar 
+ok   Generac Power Systems 
+skip Graybar 
+ok   GRK Manufacturing Co 
+PAGE DONE p0176-profiles.json
+ok   Gilbert Creek Woodworks 
+PAGE DONE p0177-profiles.json
+ok   Goodtime Medical 
 ok   Electronic Source Company 
+ok   Grand Rapids Chair Company 
+ok   Gilman Electrical Supply 
+ok   Grado Creations 
+ok   Good Cable 
+ok   Global Textile Alliance, Inc. 
+ok   Grand Central Wiring 
+ok   Electrical Equipment LLC 
 PAGE DONE p0168-profiles.json
+ok   Grace Technologies 
+ok   Delta Furniture 
+PAGE DONE p0163-profiles.json
+ok   Global Bridge Pharmaceutical 
+ok   Golden Barrel Products Honey Brook 
+ok   Ferric, Inc. 
+PAGE DONE p0173-profiles.json
+ok   Greatwestern Products Co., LLC 
+ok   Great Northern Metal Co. 
+RETRY e-s-components 'NoneType' object has no attribute 'group'
+ok   Gill CC Woodworks INC 
+ok   Global Steering Systems 
+ok   Grand Solar, Inc. 
+ok   Great American Packaging 
+PAGE DONE p0179-profiles.json
+ok   Forever Fabrication & Welding Services 
+PAGE DONE p0175-profiles.json
+ok   GlobalFoundries 
+PAGE DONE p0178-profiles.json
+ok   Dickson Industries Inc 
+PAGE DONE p0164-profiles.json
+RETRY e-s-components Expecting ',' delimiter: line 83 column 4 (char 4351)
+skip E S Components Expecting ',' delimiter: line 83 column 4 (char 4351)
+PAGE DONE p0165-profiles.json
 ALL-DONE errors 1 of 200
-collected 198
-crego-metal-systems | certs ['ANSI/SPRI/ES-1 (metal flashing wind uplift testing)']
-custom-metal-fabrication-inc | wording/address
-custom-woodworking-colorado-springs-sawmill-at-penrose-co | wording/address
-dma-industries-llc | wording/address
+collected 194
+crego-metal-systems | certs ['ANSI/SPRI/ES-1 (flashing testing)']
+crown-metal-manufacturing-co | nums ['10']
+cut-dry-lumber-company | nums ['1.5']
+dad-manufacturing-inc | nums ['2.6', '217,000']
+ds-electronics-inc | wording/address
 dakota-auto-parts | wording/address
+dana-poly-corp | nums ['0.010']
 danfe-foods | wording/address
+datacom-cable-supply | wording/address
 delmarva-welding-company-llc | nums ['12']
-design-warehouse | wording/address
-digittron-technologies-inc | wording/address
-dynamic-sheetmetal-fabrication-llc | wording/address
+e-teknet-inc | certs ['RoHS compliance']
 e2-solar-llc | wording/address
-eci-cables-inc | wording/address
-edge-energy | certs ['ENERGY STAR Contractor of the Year (six-time recipient)']
-engent | wording/address
-evco-plastics-calhoun | nums ['9001:2015'] ; certs ['ISO 9001:2015 (with design)']
+ehob-inc | wording/address
 eben-blaney-fine-contemporary-furniture | wording/address
-elcam-medical-inc | wording/address
-electramatic | nums ['9001:2015', '80']
+electramatic | nums ['9001:2015']
 electrical-materials-co | nums ['1960']
-electro-parts-inc | wording/address
 electronic-service-inc | nums ['1980']
-electronic-specialties-of-ct | certs ['SAM registration']
-elevation-foods | certs ['USDA daily inspection', 'HACCP compliance', 'FDA governance']
+elevation-foods | certs ['USDA daily inspection', 'Third-party audited']
 elite-medical-care | certs ['ACHC accreditation']
+emco-industrial-plastics | nums ['1.5']
 emergent-solar-energy | wording/address
 empowered-solar | wording/address
-engineered-textile-products | nums ['150']
 era-wire-inc | wording/address
-erhardt-woodworks | wording/address
 esco-manufacturing-inc | wording/address
 everbrite-electronics-inc | wording/address
 evolution-st-louis | wording/address
-evotronics-inc | nums ['25'] ; certs ['ESD Safe Environment (Third-Party Audited)']
-excel-connection | certs ['IPC-620 Certified Personnel']
+excel-connection | certs ['RoHS compliant']
 excel-injection-molding | wording/address
+farm-food-processing-accelerator | certs ['USDA compliance', 'FDA compliance']
 fabricators-supply | nums ['21.5']
+feast-detroit | certs ['FDA registration (acidified foods)']
 ferric-inc | certs ['RoHS']
 florida-metal-services-inc | nums ['30']
-florida-natural-flavors | certs ['Hazard Analysis Critical Control Point (HACCP) Food Safety Program']
-foliot-furniture | nums ['350,000']
+fun-city-foods-inc | wording/address
+gm-cable-contractors-inc | nums ['12']
+grk-manufacturing-co | nums ['1960']
+galaxy-electronics-inc | wording/address
+general-woodcraft-inc | wording/address
 gilman-electrical-supply-2 | wording/address
 global-bridge-pharmaceutical | certs ['HUBZone certified']
+grace-technologies | wording/address
 grand-rapids-chair-company | nums ['1990']
 grand-solar-inc | wording/address
-graybar | nums ['50']
-collected 198
-done crego-metal-systems 1 
+collected 194
+done crego-metal-systems 0 
 done crittco-cable-fiber 0 
-done cross-country-cable 5 
-done crown-automotive-llc 1 
+done cross-country-cable 1 
+done crown-automotive-llc 0 
 done crown-metal-manufacturing-co 0 
 done custom-cable-corp 1 
 done custom-cut-and-fab 0 
-done custom-metal-fabrication-inc 1 
+done custom-metal-fabrication-inc 2 
 done custom-wire-technologies-inc 0 
 done custom-wood-artistry 0 
-done custom-woodworking-colorado-springs-sawmill-at-penrose-co 7 
-done custom-works-inc 1 
-done cut-dry-lumber-company 3 
-done d-d-medical-equipment 2 
-done d-l-fashions-inc 0 
-done dad-manufacturing-inc 0 
+done custom-woodworking-colorado-springs-sawmill-at-penrose-co 1 
+done custom-works-inc 0 
+done cut-dry-lumber-company 0 
+done d-d-medical-equipment 0 
+done d-l-fashions-inc 1 
+done dad-manufacturing-inc 1 
 done dem-medical-dba-virtec-enterprises 0 
 done dm-extrusion 0 
 done dma-industries-llc 0 
-done dps-molding-inc 1 
+done dps-molding-inc 0 
 done ds-electronics-inc 0 
 done dsi-manufacturing 0 
-done daddy-s-workshop-of-the-carolinas 3 
-done dakota-auto-parts 0 
-done dakota-automotive-products-inc 0 
-done dakotaland-woodwork-cabinets-llc 0 
-done dana-poly-corp 0 
-done danco-medical-systems 2 
-done danfe-foods 3 
+done daddy-s-workshop-of-the-carolinas 0 
+RETRY ems-inc-electronic-manufacturing-solutions HTTP Error 429: Too Many Requests
+done dakota-auto-parts 2 
+done dakota-automotive-products-inc 2 
+done dakotaland-woodwork-cabinets-llc 1 
+done dana-poly-corp 1 
+done danco-medical-systems 0 
+done danfe-foods 1 
 done darlington-snacks 0 
-done datacom-cable-supply 2 
-done dawson-fabrication 2 
+done datacom-cable-supply 1 
+done dawson-fabrication 0 
 done daybreak-foods-inc 1 
-done dekalb-molded-plastics-structural-foam-molding 1 
+done dekalb-molded-plastics-structural-foam-molding 2 
 done decker-packaging-corp 0 
-done del-tec-packaging-inc 1 
-done delaware-dry-goods-co 1 
-done delmarva-welding-company-llc 3 
+done del-tec-packaging-inc 0 
+done delaware-dry-goods-co 0 
+done delmarva-welding-company-llc 2 
 done delta-furniture 2 
 done des-moines-steel 0 
-done design-warehouse 2 
+done design-warehouse 1 
 done detroit-woodworking 0 
-done diabetic-equipment-and-supplies 0 
-done dickson-industries-inc 0 
-done digittron-technologies-inc 0 
-done discount-moulding 1 
-done dittbrenner-woodworking-llc 0 
-done dixon-power-systems 4 
+done diabetic-equipment-and-supplies 1 
+done dickson-industries-inc 2 
+done digittron-technologies-inc 1 
+done discount-moulding 0 
+done dittbrenner-woodworking-llc 1 
+done dixon-power-systems 1 
 done down-south-woodworks 1 
 done drake-plastics-ltd-co 0 
-done ducote-s-restaurant-bar-equipment 0 
-done durable-medical-equipment-re-use-program-state-of-maryland 0 
-done dynamic-packaging-llc 0 
-done dynamic-sheetmetal-fabrication-llc 0 
-done dynasty-woodworks 3 
-done e-i-electrical-inc 0 
+done ducote-s-restaurant-bar-equipment 1 
+done durable-medical-equipment-re-use-program-state-of-maryland 3 
+done dynamic-packaging-llc 1 
+done dynamic-sheetmetal-fabrication-llc 1 
+done dynasty-woodworks 1 
+done e-i-electrical-inc 1 
 done e-teknet-inc 2 
 done e2-solar-llc 1 
-done eci-cables-inc 1 
-done edge-energy 2 
-done edl-packaging-a-massman-company 0 
-done ehob-inc 3 
-done electro-circuits 2 
-done ems-inc-electronic-manufacturing-solutions 1 
-done engent 0 
-RETRY everbrite-electronics-inc HTTP Error 502: Bad Gateway
-done epec-solutions-inc 2 
-done epir-technologies 0 
-done evco-plastics-calhoun 1 
-done east-jordan-plastics 1 
-done ebanista-school-of-fine-woodworking 1 
-done eben-blaney-fine-contemporary-furniture 2 
-done eckart-supply 2 
+done eci-cables-inc 0 
+done edge-energy 0 
+done edl-packaging-a-massman-company 1 
+done ehob-inc 0 
+done electro-circuits 1 
+done ems-inc-electronic-manufacturing-solutions 0 
+done engent 1 
+done epec-solutions-inc 0 
+done epir-technologies 1 
+done evco-plastics-calhoun 2 
+done east-jordan-plastics 2 
+done ebanista-school-of-fine-woodworking 4 
+done eben-blaney-fine-contemporary-furniture 0 
+done eckart-supply 3 
 done ed-matt-equipment-services 0 
-done edge-core-tech 2 
-done ehmke-manufacturing-co-inc 0 
-done eighttwenty 2 
+done edge-core-tech 5 
+done ehmke-manufacturing-co-inc 1 
+done eighttwenty 0 
+RETRY f-a-t-s-parts HTTP Error 429: Too Many Requests
+RETRY farm-food-processing-accelerator HTTP Error 429: Too Many Requests
+RETRY elcam-medical-inc expected string or bytes-like object, got 'NoneType'
 done elcam-medical-inc 0 
-done electramatic 1 
-done electric-wire-products-corporation 0 
-done electrical-equipment-llc 0 
-done electrical-materials-co 3 
-done electro-core-inc 5 
-done electro-parts-inc 1 
-done electronic-design-research-inc 1 
-done electronic-displays-inc 1 
-done electronic-polymer-technologies 0 
+done electramatic 2 
+done electric-wire-products-corporation 2 
+done electrical-equipment-llc 1 
+done electrical-materials-co 1 
+done electro-core-inc 3 
+done electro-parts-inc 0 
+done electronic-design-research-inc 3 
+done electronic-displays-inc 0 
+done electronic-polymer-technologies 1 
 done electronic-service-inc 0 
-done electronic-solutions-inc 1 
-done electronic-source-company 0 
-done electronic-specialties-of-ct 1 
+done electronic-solutions-inc 0 
+done electronic-specialties-of-ct 2 
 done element-materials-technology-wilmington-formerly-sl-pharma-labs-inc 0 
-done elevate-packaging 1 
-done elevation-foods 1 
-done elite-medical-care 2 
-done elite-printing-and-packaging-inc 2 
-done elite-spice-inc 1 
+done elevate-packaging 0 
+done elevation-foods 0 
+done elite-medical-care 1 
+done elite-printing-and-packaging-inc 0 
+done elite-spice-inc 2 
 done ellerbuilt-woodworks 1 
 done ellis-fabrics 1 
-done elringklinger-manufacturing-indiana-inc 1 
-done emco-industrial-plastics 1 
-done emergent-solar-energy 2 
+done emco-industrial-plastics 0 
+done emergent-solar-energy 0 
 done emmaus-foods-llc 0 
-done empowered-solar 4 
+done empowered-solar 0 
 done encore-equipment-llc 1 
 done encore-renewable-energy 0 
-done endries-solar-and-electric 1 
+done endries-solar-and-electric 2 
 done energy-technologies-inc-manufacturing-building 0 
-done engineered-textile-products 4 
-done epic-steel 1 
-done equipment-sales-co-inc 1 
-done era-wire-inc 1 
-RETRY erhardt-woodworks expected string or bytes-like object, got 'NoneType'
+done engineered-textile-products 0 
+done epic-steel 2 
+done equipment-sales-co-inc 2 
+done era-wire-inc 2 
 done erhardt-woodworks 0 
-done ernest-packaging-solutions 1 
-done esco-manufacturing-inc 1 
-done ethos-furniture-colorado-springs 1 
-done everbrite-electronics-inc 1 
+done ernest-packaging-solutions 0 
+done esco-manufacturing-inc 0 
+done ethos-furniture-colorado-springs 0 
+done everbrite-electronics-inc 0 
 done evolution-furniture 0 
 done evolution-st-louis 0 
 done evotronics-inc 0 
@@ -497,83 +425,80 @@ done excel-connection 0
 done excel-injection-molding 0 
 done excel-manufacturing-inc 0 
 done experienced-solar 0 
-done exponent-assembly 1 
+done exponent-assembly 0 
 done extreme-metal-fabrication 1 
 done f-p-america-manufacturing-inc 0 
 done f-a-t-s-parts 1 
-done farm-food-processing-accelerator 0 
+done farm-food-processing-accelerator 1 
 done fcps-electric 0 
-done fab-rite-sheet-metal 3 
-done fabric-factory 2 
-done fabric-hawaii 3 
+done fab-rite-sheet-metal 4 
+done fabric-factory 7 
+done fabric-hawaii 1 
 done fabricated-steel-products-inc 0 
 done fabricators-supply 0 
-done fabrik-molded-plastics 1 
+done fabrik-molded-plastics 0 
 done falcon-textiles-cut-sew 0 
-done false-bottom-fabrication 0 
 done feast-detroit 0 
-done ferric-inc 1 
-done fiorenza-custom-woodworking 1 
-done five-rivers-fabrication 0 
-done flamtech-appliances-inc 3 
+done ferric-inc 0 
+done fiorenza-custom-woodworking 6 
+done five-rivers-fabrication 1 
+done flamtech-appliances-inc 2 
 done floating-axe-woodworks 1 
-done florida-cable-network-inc 3 
-done florida-custom-mold 2 
-done florida-gulf-packaging-inc 0 
-done florida-man-woodworking 2 
+done florida-cable-network-inc 4 
+done florida-custom-mold 1 
+done florida-gulf-packaging-inc 1 
+done florida-man-woodworking 1 
 done florida-metal-services-inc 0 
 done florida-natural-flavors 1 
-done foliot-furniture 0 
-done food-processing-equipment-co 2 
+done foliot-furniture 2 
+done food-processing-equipment-co 0 
 done forever-fabrication-welding-services 0 
-done format-furniture-inc 1 
+done format-furniture-inc 0 
 done four-in-one-inc 0 
-done francis-metals-inc 1 
+done francis-metals-inc 1 wrong
 done full-pen-fabrication-llc 0 
-done fun-city-foods-inc 2 
-done furniture-joint 2 
-done g-g-industries 0 
-done g5-textiles 1 
+done fun-city-foods-inc 1 
+done furniture-joint 0 
+done g-g-industries 1 
+done g5-textiles 0 
 done gama-electronics-plant-2 2 
-done gao-rfid 0 
+done gao-rfid 1 
 done gem-equipment-of-oregon-inc 0 
-done gm-cable-contractors-inc 1 
-done grk-manufacturing-co 0 
-done galaxy-electronics-inc 1 
-done gary-platt-seating 2 
-done gear-for-sports-inc 0 
-done geffdog-design-and-apparel 1 
+done gm-cable-contractors-inc 4 
+done grk-manufacturing-co 3 
+done galaxy-electronics-inc 0 
+done gary-platt-seating 1 
+done gear-for-sports-inc 1 
+done geffdog-design-and-apparel 0 
 done geisler-electric 0 
-done gellco-work-outfitters 2 
-done generac-power-systems 4 
+done gellco-work-outfitters 1 
+done generac-power-systems 0 
 done general-transformer-corporation 0 
-done general-woodcraft-inc 2 
-done generations-millwork 1 
-done geometric-innovations-llc 0 
+done general-woodcraft-inc 0 
+done generations-millwork 0 
+done geometric-innovations-llc 1 
 done george-t-hall-company 0 
-done gilbert-creek-woodworks 2 
+done gilbert-creek-woodworks 3 
 done gill-cc-woodworks-inc 1 
-done gilman-electrical-supply-2 0 
+done gilman-electrical-supply-2 2 
 done global-bridge-pharmaceutical 1 
 done global-electronics 1 
-done global-steering-systems 2 
+done global-steering-systems 0 
 done global-textile-alliance-inc 1 
-done globalfoundries 1 
+done globalfoundries 2 
 done gold-path-solar 0 
-done golden-barrel-products-honey-brook 2 
+done golden-barrel-products-honey-brook 1 
 done good-cable 0 
-done goodtime-medical 1 
-done grace-technologies 1 
+done goodtime-medical 2 
+done grace-technologies 0 
 done grado-creations 0 
-done grand-central-wiring 1 
+done grand-central-wiring 0 
 done grand-rapids-chair-company 0 
-done grand-solar-inc 0 
-done graybar 5 
+done grand-solar-inc 2 
 done great-american-packaging 1 
 done great-northern-metal-co 0 
-done greatwestern-products-co-llc 0 
+done greatwestern-products-co-llc 1 
 ALL-DONE errors 0
-clean 196 | sentences removed 178 | needs review 2 | check errors 0
-REVIEW cross-country-cable too short after fact-check (58 words)
-REVIEW electro-core-inc too short after fact-check (57 words)
-sql parts 3 stories 196
+clean 193 | sentences removed 133 | needs review 1 | check errors 0
+REVIEW francis-metals-inc Source name is Francis Metals Inc but content describes Francis Cable Systems.
+sql parts 3 stories 193

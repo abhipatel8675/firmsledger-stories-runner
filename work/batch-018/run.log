@@ -1,492 +1,498 @@
 fetched p0340-raw.json 10 / 10
 fetched p0341-raw.json 10 / 10
+RETRY four-fields-furniture HTTP Error 503: Service Unavailable
+RETRY franklin-sheet-metal HTTP Error 503: Service Unavailable
 fetched p0342-raw.json 8 / 10
 fetched p0343-raw.json 10 / 10
 fetched p0344-raw.json 9 / 10
-RETRY gk-foods-inc HTTP Error 429: Too Many Requests
-skip GE Healthcare 
-fetched p0345-raw.json 10 / 10
-ok   Formel Industries Packaging 
-skip Fusion Metal Werx of Las Vegas 
-ok   Forj Medical 
-ok   Forest Park Sheet Metal 
 ok   Four Engines Apparel 
+fetched p0345-raw.json 10 / 10
 ok   Four Seasons Fabric 
-ok   FormTight, Inc. 
-ok   Friesen's Inc 
-ok   Franklin Sheet Metal 
-ok   Forum Plastics LLC 
-ok   Frugll 
-ok   Franklin Mountain Packaging, LLC 
+skip GE Healthcare 
 fetched p0346-raw.json 10 / 10
-ok   G. B. Woodworking 
-ok   Frothingham Electronics Corporation. 
-ok   Furniture Classics 
-ok   Fortier, Inc. 
-ok   Freudenberg Medical 
-ok   Front Range Renewable Energy 
-ok   Foodberry 
-ok   Fremont Automotive 
-ok   Frontier Kitchen 
-ok   Furniture Industries 
-ok   G & G Electric Supply 
-ok   Franklin food equipment 
-PAGE DONE p0341-profiles.json
-ok   GT Sales Inc. 
+ok   Forest Park Sheet Metal 
+skip Fusion Metal Werx of Las Vegas 
+RETRY gateway-plastics-inc HTTP Error 503: Service Unavailable
+ok   FormTight, Inc. 
+RETRY george-c-moore HTTP Error 503: Service Unavailable
 ok   Furniture Source 
-ok   Geaux Green Solar 
-ok   Galaxy Wire and Cable 
-ok   Foodservice Equipment Agents 
-ok   Full Spectrum Solar 
-ok   GLW 
-ok   Gary Moore Custom Furniture 
-ok   Fusion EMS 
-ok   Gateway Plastics Inc 
-ok   Game Theory Tables 
+ok   Friesen's Inc 
+ok   Frontier Kitchen 
+ok   Foodberry 
+ok   G & R Industries Inc 
+ok   Frugll 
+ok   Front Range Renewable Energy 
 ok   GCP Laboratories 
-ok   Gartland Distributors 
-ok   GMS Industries (El Paso ops) 
-ok   Galesburg Electric/Industrial Supply, Inc.. 
+ok   Garrison Industrial Steel 
 ok   GAI Energy (Green Alternatives Inc.) 
 ok   Four Fields Furniture 
-PAGE DONE p0340-profiles.json
-ok   Garrison Industrial Steel 
-ok   General Mills 
-ok   Gehl Foods, LLC Main St. 
-ok   Gary Weeks and Company Furnituremakers 
-ok   Gator Chef Restaurant Equipment & Kitchen Supplies 
-ok   GM Sheet Metal LLC 
-ok   Getinge 
+ok   Franklin Mountain Packaging, LLC 
+ok   Frothingham Electronics Corporation. 
+ok   Foodservice Equipment Agents 
+ok   G & G Electric Supply 
+ok   Fortier, Inc. 
+ok   Fremont Automotive 
 ok   General Woodworking Inc 
-ok   Global CNC Machine Services 
-ok   Geaux Welding & Fabrication LLC 
-PAGE DONE p0344-profiles.json
-ok   Globe Equipment Company 
-ok   GOEX Apparel 
-ok   Go-Devil Manufacturing-Louisiana 
-ok   Global Manufacturing Services, Inc. 
-ok   General Mechanical, Inc. 
-ok   Global Foods 
-ok   George C. Moore 
-fetched p0347-raw.json 9 / 10
-ok   Glenn A. Hissim Woodworking 
 ok   GK Foods Inc. 
-PAGE DONE p0343-profiles.json
-ok   Global Plastics 
-ok   General Cable 
-fetched p0348-raw.json 10 / 10
-ok   G & R Industries Inc 
-PAGE DONE p0342-profiles.json
-ok   George's Apparel 
-ok   Gil Sewing Corp. 
-ok   General Spring of Kansas City, Inc 
-fetched p0349-raw.json 10 / 10
-skip Gordon Graham Custom Furniture 
-fetched p0350-raw.json 10 / 10
 ok   Gentuity, LLC 
+ok   Geaux Green Solar 
+ok   GOEX Apparel 
+ok   Franklin Sheet Metal 
+ok   Formel Industries Packaging 
+ok   Gary Weeks and Company Furnituremakers 
+ok   GM Sheet Metal LLC 
+ok   GMS Industries (El Paso ops) 
+ok   Galesburg Electric/Industrial Supply, Inc.. 
+ok   Forum Plastics LLC 
+ok   GLW 
+ok   Full Spectrum Solar 
+ok   G. B. Woodworking 
+fetched p0347-raw.json 9 / 10
+ok   Fusion EMS 
+ok   General Cable 
+ok   Gary Moore Custom Furniture 
+ok   Getinge 
+ok   Gator Chef Restaurant Equipment & Kitchen Supplies 
+RETRY forj-medical Expecting ',' delimiter: line 68 column 4 (char 3749)
+ok   Freudenberg Medical 
+RETRY gondwana-divine-clothing-co HTTP Error 503: Service Unavailable
+ok   GT Sales Inc. 
+ok   Furniture Industries 
+ok   Geaux Welding & Fabrication LLC 
 ok   Gentry Plastics, Inc 
-PAGE DONE p0345-profiles.json
-skip H M Woodworking Inc 
-RETRY hamel-fabricating-co HTTP Error 429: Too Many Requests
-RETRY hacer-santa-fe HTTP Error 429: Too Many Requests
+ok   Galaxy Wire and Cable 
+PAGE DONE p0343-profiles.json
+ok   Franklin food equipment 
+PAGE DONE p0341-profiles.json
+ok   General Mechanical, Inc. 
+fetched p0348-raw.json 10 / 10
+RETRY grain-designs HTTP Error 503: Service Unavailable
+fetched p0349-raw.json 10 / 10
+ok   Global Plastics 
+ok   Furniture Classics 
+PAGE DONE p0342-profiles.json
+fetched p0350-raw.json 10 / 10
+skip Gordon Graham Custom Furniture 
+ok   Global Foods 
+ok   General Mills 
+ok   Global CNC Machine Services 
+ok   George C. Moore 
+ok   Go-Devil Manufacturing-Louisiana 
+ok   General Spring of Kansas City, Inc 
+ok   Glenn A. Hissim Woodworking 
+ok   Global Manufacturing Services, Inc. 
+ok   Gartland Distributors 
 ok   Gohmann Supply, LLC 
-ok   Gold Medal Products Co. - Indianapolis 
-ok   Green Mountain Furniture 
 ok   Glaser Steel 
-PAGE DONE p0346-profiles.json
-ok   Grain Designs 
-ok   Gondwana & Divine Clothing Co. 
-ok   Golden Solar 
-ok   Golden Eagle Woodwork LLC 
-ok   Great Divide Fabrication LLC 
+ok   Gateway Plastics Inc 
 ok   Great Blue Heron Furniture 
-ok   Greg Moser & Engineering Inc 
 ok   Grand Forks Welding-Machine Co 
-ok   Green Brook Electronics 
-ok   H P Electronics 
-fetched p0351-raw.json 10 / 10
 ok   Green Bay Plastics 
-ok   Haley's Metal Shop, Inc. 
-ok   Grillo & Co 
-ok   Guerrilla Graphix 
-ok   Goose Woodworking, LLC 
-fetched p0352-raw.json 10 / 10
-ok   Harbor Plastics, Inc. 
-ok   H S Automotive Alabama Inc 
-ok   Great Plains Energy Corridor 
-ok   HC Group Auto Parts Supply LLC - Columbia 
-ok   Hanks Pet Food 
-fetched p0353-raw.json 10 / 10
-ok   HVAC Metals, LLC 
-ok   HTS Fabrication, Inc. 
-ok   Hardware Hawaii 
-ok   Hahn Packaging Inc 
-fetched p0354-raw.json 10 / 10
-ok   Good Wood Nashville 
-PAGE DONE p0347-profiles.json
+fetched p0351-raw.json 10 / 10
 ok   Groves Bros. 
-ok   H&H Metal Fabrication 
+ok   Gil Sewing Corp. 
+ok   Golden Solar 
+ok   Green Mountain Furniture 
+fetched p0352-raw.json 10 / 10
+ok   Good Wood Nashville 
+ok   Grillo & Co 
 ok   Granite State Plastics 
-PAGE DONE p0348-profiles.json
-fetched p0355-raw.json 10 / 10
-ok   HME Specialists 
+ok   Great Plains Energy Corridor 
+ok   Golden Eagle Woodwork LLC 
 ok   HB Specialty Foods 
 ok   HPP Food Services - Wilmington 
-PAGE DONE p0349-profiles.json
-ok   Harmony Metal Fabrication 
-fetched p0356-raw.json 10 / 10
-ok   Harvest Solar Energy LLC 
-ok   Heartland Solar Solutions 
-ok   Hawaii Pacific X-Ray Corporation 
-fetched p0357-raw.json 10 / 10
-RETRY hybrid-electronics HTTP Error 429: Too Many Requests
-RETRY huston-company HTTP Error 429: Too Many Requests
-ok   Hawaii Energy Connection 
-ok   Herold Precision Metals 
-ok   Her Woodcraft 
-ok   Hawaii Technology Development Corporation (HTDC) 
+fetched p0353-raw.json 10 / 10
+ok   Hahn Packaging Inc 
+ok   H&H Metal Fabrication 
+fetched p0354-raw.json 10 / 10
 ok   Hamel Fabricating Co. 
-ok   Hogan Woodwork Inc. 
-ok   Hazelwood Millworks Custom Carpentry & Woodworking 
-fetched p0358-raw.json 8 / 10
-ok   Huerta Furniture 
-ok   Hinzman Millworks Inc 
-ok   HomePlex Furniture | Custom Luxury Furniture 
-ok   Hemphill Foods, LLC 
-fetched p0359-raw.json 10 / 10
-ok   Homewood Metalworks 
-ok   Holm Made Toffee Co. Commercial Kitchen 
-ok   Hawaii Commercial Foods Inc 
-ok   Holiday Custom Wire 
-ok   Hawaii Steel LLC 
-ok   Hilex Poly, A Novolex Brand 
+ok   HME Specialists 
+ok   Harmony Metal Fabrication 
+ok   Grain Designs 
+ok   Harbor Plastics, Inc. 
+ok   Hardware Hawaii 
+fetched p0355-raw.json 10 / 10
+ok   Hawaii Technology Development Corporation (HTDC) 
+skip H M Woodworking Inc 
+ok   Gehl Foods, LLC Main St. 
+ok   H P Electronics 
+ok   HTS Fabrication, Inc. 
+fetched p0356-raw.json 10 / 10
 ok   Hacer Santa Fe 
-PAGE DONE p0350-profiles.json
-ok   Hypnos Medical Equipment 
-ok   Huston Solar Lafayette 
+ok   Haley's Metal Shop, Inc. 
+ok   Gold Medal Products Co. - Indianapolis 
+ok   Gondwana & Divine Clothing Co. 
+ok   HVAC Metals, LLC 
+RETRY idaho-sewing-for-sports-llc HTTP Error 429: Too Many Requests
+fetched p0357-raw.json 10 / 10
+ok   Hanks Pet Food 
+ok   Green Brook Electronics 
+ok   Forj Medical 
+PAGE DONE p0340-profiles.json
+ok   Heartland Solar Solutions 
 ok   Highland Harmony Farm 
-ok   Howard Industries 
+ok   Hawaii Steel LLC 
+ok   Harvest Solar Energy LLC 
+PAGE DONE p0350-profiles.json
+RETRY game-theory-tables The read operation timed out
+ok   Goose Woodworking, LLC 
+PAGE DONE p0347-profiles.json
+ok   Hazelwood Millworks Custom Carpentry & Woodworking 
+ok   HC Group Auto Parts Supply LLC - Columbia 
+ok   Huston Solar Lafayette 
+ok   Hawaii Energy Connection 
+ok   Her Woodcraft 
+ok   Huerta Furniture 
+ok   Holm Made Toffee Co. Commercial Kitchen 
+ok   Hubco Inc 
+ok   HomePlex Furniture | Custom Luxury Furniture 
+ok   Husky Injection Molding System 
+ok   Holiday Custom Wire 
+ok   Hilex Poly, A Novolex Brand 
+RETRY george-s-apparel The read operation timed out
+ok   Hi-Tech Fabricators 
 ok   Hobbs Medical 
 ok   Heram Custom Woodworking LLC 
-ok   IMS Woodworking INC 
+ok   Herold Precision Metals 
+RETRY guerrilla-graphix Expecting ',' delimiter: line 42 column 4 (char 2305)
+ok   Hemphill Foods, LLC 
 ok   HomeComing Woodworks 
-ok   Hawaii Solar Connection 
-ok   Icon Metals Machining & Fabrication 
-ok   Hi-Tech Fabricators 
-PAGE DONE p0352-profiles.json
-ok   Idaho Shirtsmith Custom Apparel & Embroidery 
-ok   Hygienic Fabrics & Filters Inc 
-ok   Impact Energy & Roofing Denver 
-ok   Idaho Livin 
-ok   Idaho Supreme Potatoes Inc. 
-ok   House of Ari Jogiel 
-ok   Hubco Inc 
-ok   IWG High Performance Conductors 
-ok   Idahound 
-ok   IMPACT IMPORTS 
-ok   Imperial Wire & Cable Co 
+ok   Hawaii Commercial Foods Inc 
+ok   Hinzman Millworks Inc 
+ok   Hawaii Pacific X-Ray Corporation 
+ok   Hypnos Medical Equipment 
+RETRY globe-equipment-company The read operation timed out
+ok   Homewood Metalworks 
 ok   Horizon Nut Company 
-ok   Idaho Sewing For Sports, LLC 
+ok   House of Ari Jogiel 
+fetched p0358-raw.json 8 / 10
+ok   Hygienic Fabrics & Filters Inc 
+fetched p0359-raw.json 10 / 10
+ok   Heights Woodworking 
+ok   Hogan Woodwork Inc. 
+PAGE DONE p0352-profiles.json
+ok   IMS Woodworking INC 
+ok   Howard Industries 
+ok   Icon Metals Machining & Fabrication 
+ok   Icon Solar 
+ok   Idaho Shirtsmith Custom Apparel & Embroidery 
+RETRY inter-coastal-electronics-inc HTTP Error 503: Service Unavailable
+ok   IMPACT IMPORTS 
+RETRY ictc-usa 'NoneType' object has no attribute 'group'
+ok   Huston & Company 
+ok   Impact Energy & Roofing Denver 
+ok   ITW Food Equipment 
+ok   Idahound 
+RETRY interstate-narrow-fabrics-inc HTTP Error 503: Service Unavailable
 ok   Idaho Custom Woodwork 
+ok   Ideal Electric 
+ok   Impact Custom Apparel LLC 
+ok   Hawaii Solar Connection 
+PAGE DONE p0351-profiles.json
 ok   Houston Transformer Company 
 PAGE DONE p0353-profiles.json
-ok   Impact Plastics 
-ok   In The Mountains Custom Furniture 
-ok   Icon Solar 
-ok   Husky Injection Molding System 
-ok   Image Pointe 
-ok   Ideal Electric 
-ok   Heights Woodworking 
-PAGE DONE p0351-profiles.json
-ok   ICTC USA 
-ok   Imondi Foods 
-ok   Imperial Electronic Assembly 
-ok   ITW Food Equipment 
-ok   IHI Connectors - Manufacturing Facility 
-ok   Icon Modern 
-PAGE DONE p0355-profiles.json
-ok   Impact Custom Apparel LLC 
-PAGE DONE p0356-profiles.json
+skip Intermountain Furniture Manufacturing Co 
+ok   Idaho Supreme Potatoes Inc. 
 ok   Ind. Co. Cable TV 
+ok   Imperial Electronic Assembly 
+ok   Idaho Livin 
 ok   Industrial Applied Electric 
-ok   Independent Beverage Company - Main Office 
-ok   Iowa Rotocast Plastics Inc. 
-ok   Interstate Narrow Fabrics Inc 
-ok   Interior Woodworks 
+ok   IWG High Performance Conductors 
+ok   Icon Modern 
+ok   Hybrid Electronics 
+RETRY great-divide-fabrication-llc The read operation timed out
+RETRY ihi-connectors-manufacturing-facility Expecting ',' delimiter: line 60 column 4 (char 3835)
+ok   Imperial Wire & Cable Co 
+ok   Image Pointe 
+ok   Imondi Foods 
+ok   Idaho Sewing For Sports, LLC 
+PAGE DONE p0355-profiles.json
 ok   Industrial Fabrics, Inc. 
+ok   Independent Beverage Company - Main Office 
+RETRY greg-moser-engineering-inc The read operation timed out
+ok   In The Mountains Custom Furniture 
+ok   Game Theory Tables 
+PAGE DONE p0344-profiles.json
 ok   Industrial Textiles Company 
+ok   Interior Woodworks 
+RETRY h-s-automotive-alabama-inc The read operation timed out
+ok   Intelligent Manufacturing Solutions (IMS) 
+ok   Industrial Electronics By Ross 
+ok   Guerrilla Graphix 
+ok   Industrial Metal Enterprises, LLC 
+ok   International Sheet Metal Inc 
+ok   Innovative Circuits Arizona 
 ok   Integra Life Sciences 
-ok   Indiana Rubber & Plastic, LLC 
+ok   George's Apparel 
+PAGE DONE p0345-profiles.json
+ok   Globe Equipment Company 
+PAGE DONE p0346-profiles.json
+ok   International Wire 
+ok   Impact Plastics 
+PAGE DONE p0356-profiles.json
+ok   Industrial Semiconductor, Inc. 
+ok   Interpak (International Packaging Corp.) 
+RETRY indiana-rubber-plastic-llc Expecting ',' delimiter: line 76 column 4 (char 3737)
+ok   Intercoastal Electronics EMS 
 ok   Integrated Technology Solutions | ITS Hawaii 
+ok   Interstate Narrow Fabrics Inc 
+ok   Iron Ram Fabrications 
+RETRY indusco-wire-rope-fittings 'NoneType' object has no attribute 'group'
 ok   Intermountain Wood Products 
 ok   Iron Work Studio 
-ok   Intercoastal Electronics EMS 
-RETRY incap-electronics-us-inc 'NoneType' object has no attribute 'group'
-ok   Industrial Semiconductor, Inc. 
-ok   Hybrid Electronics 
-ok   International Sheet Metal Inc 
-ok   Industrial Finishes 
-ok   Industrial Electronics By Ross 
-ok   Intelligent Manufacturing Solutions (IMS) 
-ok   Indusco Wire Rope & Fittings 
-RETRY innovative-circuits-arizona 'NoneType' object has no attribute 'group'
-ok   Iron Ram Fabrications 
-ok   Inter-Coastal Electronics Inc 
-ok   Interpak (International Packaging Corp.) 
-ok   Iowa Steel & Wire Co 
-ok   International Wire 
-skip Intermountain Furniture Manufacturing Co 
-ok   Industrial Metal Enterprises, LLC 
+ok   Greg Moser & Engineering Inc 
 ok   Ironwood Mills 
-PAGE DONE p0359-profiles.json
-ok   Huston & Company 
-PAGE DONE p0354-profiles.json
-ok   Innovative Circuits Arizona 
+ok   Iowa Rotocast Plastics Inc. 
+ok   Inter-Coastal Electronics Inc 
 PAGE DONE p0358-profiles.json
-RETRY incap-electronics-us-inc Expecting ',' delimiter: line 70 column 4 (char 3835)
+ok   Great Divide Fabrication LLC 
+PAGE DONE p0348-profiles.json
+ok   Iowa Steel & Wire Co 
+PAGE DONE p0359-profiles.json
 ok   Incap Electronics US, Inc. 
+ok   ICTC USA 
+ok   Industrial Finishes 
+ok   H S Automotive Alabama Inc 
+PAGE DONE p0349-profiles.json
+ok   IHI Connectors - Manufacturing Facility 
+PAGE DONE p0354-profiles.json
+ok   Indiana Rubber & Plastic, LLC 
+ok   Indusco Wire Rope & Fittings 
 PAGE DONE p0357-profiles.json
 ALL-DONE errors 0 of 200
-collected 195
+collected 194
 foodservice-equipment-agents | wording/address
-forj-medical | certs ['CE Marking']
+forj-medical | certs ['FDA Establishment Registration (5 sites)']
 formel-industries-packaging | wording/address
+forum-plastics-llc | certs ['ITAR registered']
 four-seasons-fabric | wording/address
 franklin-sheet-metal | nums ['60']
-fremont-automotive | wording/address
-freudenberg-medical | nums ['1849']
-frothingham-electronics-corporation | wording/address
-g-g-electric-supply | nums ['100']
-gai-energy-green-alternatives-inc | wording/address
+friesen-s-inc | wording/address
+furniture-industries | nums ['30']
+gms-industries-el-paso-ops | wording/address
 gt-sales-inc | nums ['55']
+gartland-distributors | wording/address
 gary-moore-custom-furniture | wording/address
-gator-chef-restaurant-equipment-kitchen-supplies | wording/address
-geaux-welding-fabrication-llc | nums ['24']
-global-foods | wording/address
-global-manufacturing-services-inc | wording/address
+geaux-green-solar | nums ['50']
+general-spring-of-kansas-city-inc | nums ['1990']
 gohmann-supply-llc | wording/address
+grillo-co | wording/address
 groves-bros | wording/address
+h-s-automotive-alabama-inc | wording/address
 h-h-metal-fabrication | certs ["WBENC (Women's Business Enterprise National Council)"]
+hc-group-auto-parts-supply-llc-columbia | wording/address
 hanks-pet-food | wording/address
 harvest-solar-energy-llc | wording/address
-heights-woodworking | certs ['NYC Home Improvement Contractor License #1006778', 'EPA Lead-Safe Certification #R-I-87262-11-02439']
 howard-industries | wording/address
+hygienic-fabrics-filters-inc | nums ['1900'] ; certs ['ISO Class 6 clean room compliance']
 icon-metals-machining-fabrication | wording/address
 icon-modern | nums ['10,000']
-icon-solar | nums ['50']
 idaho-custom-woodwork | wording/address
 idaho-supreme-potatoes-inc | wording/address
-impact-custom-apparel-llc | wording/address
+idahound | nums ['100']
 imperial-electronic-assembly | wording/address
-industrial-applied-electric | wording/address
-industrial-finishes | wording/address
 intelligent-manufacturing-solutions-ims | wording/address
-interstate-narrow-fabrics-inc | nums ['25']
-collected 195
+iron-ram-fabrications | wording/address
+collected 194
 done foodberry 0 
-done foodservice-equipment-agents 2 
-done forest-park-sheet-metal 0 
-done forj-medical 0 
+done foodservice-equipment-agents 0 
+done forest-park-sheet-metal 1 
+done forj-medical 1 
 done formtight-inc 0 
-done formel-industries-packaging 0 
-done fortier-inc 2 
+done formel-industries-packaging 1 
+done fortier-inc 0 
 done forum-plastics-llc 0 
 done four-engines-apparel 0 
-done four-fields-furniture 1 
+done four-fields-furniture 2 
 done four-seasons-fabric 0 
 done franklin-mountain-packaging-llc 0 
-done franklin-sheet-metal 0 
-done franklin-food-equipment 0 
-done fremont-automotive 2 
-done freudenberg-medical 2 
-done friesen-s-inc 2 
-done front-range-renewable-energy 1 
-done frontier-kitchen 1 
-done frothingham-electronics-corporation 1 
-done frugll 3 
-done full-spectrum-solar 0 
+done franklin-sheet-metal 1 
+done franklin-food-equipment 1 
+done fremont-automotive 3 
+done freudenberg-medical 3 
+done friesen-s-inc 1 
+done front-range-renewable-energy 0 
+done frontier-kitchen 0 
+done frothingham-electronics-corporation 0 
+done frugll 0 
 done furniture-classics 2 
-done furniture-industries 1 
+done furniture-industries 0 
 done furniture-source 3 
-done fusion-ems 0 
-done g-g-electric-supply 3 
+done fusion-ems 0 wrong
+done g-g-electric-supply 2 
 done g-r-industries-inc 0 
-done g-b-woodworking 3 
-done gai-energy-green-alternatives-inc 0 
+done g-b-woodworking 1 
+done gai-energy-green-alternatives-inc 1 
 done gcp-laboratories 0 
-done gk-foods-inc 1 
+done gk-foods-inc 0 
 done glw 0 
-done gm-sheet-metal-llc 4 
-done gms-industries-el-paso-ops 0 
+done gm-sheet-metal-llc 3 
+done gms-industries-el-paso-ops 1 
 done goex-apparel 0 
-done gt-sales-inc 2 
+done gt-sales-inc 1 
 done galaxy-wire-and-cable 0 
-done galesburg-electric-industrial-supply-inc 2 
-done game-theory-tables 1 
-done garrison-industrial-steel 1 
-done gartland-distributors 0 
-done gary-moore-custom-furniture 2 
-done gary-weeks-and-company-furnituremakers 0 
-done gateway-plastics-inc 0 
-done gator-chef-restaurant-equipment-kitchen-supplies 2 
-done geaux-green-solar 1 
-done geaux-welding-fabrication-llc 7 
-done gehl-foods-llc-main-st 0 
+done galesburg-electric-industrial-supply-inc 3 
+done game-theory-tables 3 
+done garrison-industrial-steel 2 
+done gartland-distributors 1 
+done gary-moore-custom-furniture 1 
+done gary-weeks-and-company-furnituremakers 3 
+done gateway-plastics-inc 0 wrong
+done gator-chef-restaurant-equipment-kitchen-supplies 1 
+done geaux-green-solar 3 
+done geaux-welding-fabrication-llc 2 
+done gehl-foods-llc-main-st 3 
 done general-cable 1 wrong
-done general-mechanical-inc 2 
+done general-mechanical-inc 0 
 done general-mills 1 
-RETRY general-spring-of-kansas-city-inc expected string or bytes-like object, got 'NoneType'
-RETRY international-wire HTTP Error 429: Too Many Requests
-RETRY general-spring-of-kansas-city-inc expected string or bytes-like object, got 'NoneType'
-RETRY icon-solar expected string or bytes-like object, got 'NoneType'
-RETRY general-spring-of-kansas-city-inc expected string or bytes-like object, got 'NoneType'
 done general-spring-of-kansas-city-inc 1 
-done general-woodworking-inc 3 
+done general-woodworking-inc 2 
 done gentry-plastics-inc 1 
-done gentuity-llc 3 
+done gentuity-llc 2 
 done george-c-moore 0 
 done george-s-apparel 0 
-done getinge 3 
-done gil-sewing-corp 0 
+done getinge 5 
+done gil-sewing-corp 1 
 done glaser-steel 0 
 done glenn-a-hissim-woodworking 0 
-done global-cnc-machine-services 2 
+done global-cnc-machine-services 1 
 done global-foods 1 
 done global-manufacturing-services-inc 0 
 done global-plastics 0 
-done globe-equipment-company 1 
-done go-devil-manufacturing-louisiana 0 
-done gohmann-supply-llc 1 
+done globe-equipment-company 0 
+done go-devil-manufacturing-louisiana 2 
+done gohmann-supply-llc 0 
 done gold-medal-products-co-indianapolis 2 
-done golden-eagle-woodwork-llc 0 
+done golden-eagle-woodwork-llc 2 
 done golden-solar 0 
-done gondwana-divine-clothing-co 0 
+done gondwana-divine-clothing-co 1 
 done good-wood-nashville 0 
-done goose-woodworking-llc 1 
-done grain-designs 0 
-done grand-forks-welding-machine-co 0 
-done granite-state-plastics 1 
-done great-blue-heron-furniture 6 
-done great-divide-fabrication-llc 3 
-done great-plains-energy-corridor 3 
-done green-bay-plastics 1 
-done green-brook-electronics 1 
-done green-mountain-furniture 3 
+done goose-woodworking-llc 2 
+done grain-designs 1 
+done grand-forks-welding-machine-co 1 
+done granite-state-plastics 0 
+done great-blue-heron-furniture 2 
+done great-divide-fabrication-llc 2 
+done great-plains-energy-corridor 1 
+done green-bay-plastics 4 
+done green-brook-electronics 0 
+done green-mountain-furniture 2 
 done greg-moser-engineering-inc 1 
-done grillo-co 1 
-done groves-bros 2 
-done guerrilla-graphix 0 
+done grillo-co 0 
+done groves-bros 4 
+done guerrilla-graphix 2 
 done h-p-electronics 0 
 done h-s-automotive-alabama-inc 2 
-done h-h-metal-fabrication 1 
-done hb-specialty-foods 0 
-done hc-group-auto-parts-supply-llc-columbia 3 
-done hme-specialists 0 
+done h-h-metal-fabrication 0 
+done hb-specialty-foods 1 
+done hc-group-auto-parts-supply-llc-columbia 1 
+done hme-specialists 1 
 done hpp-food-services-wilmington 0 
 done hts-fabrication-inc 0 
 done hvac-metals-llc 0 
-done hacer-santa-fe 2 
+done hacer-santa-fe 0 
 done hahn-packaging-inc 1 
-done haley-s-metal-shop-inc 0 
-done hamel-fabricating-co 4 
-done hanks-pet-food 3 
+done haley-s-metal-shop-inc 1 
+done hamel-fabricating-co 7 
+done hanks-pet-food 2 
+RETRY harbor-plastics-inc expected string or bytes-like object, got 'NoneType'
 done harbor-plastics-inc 0 
 done hardware-hawaii 2 
-done harmony-metal-fabrication 2 
-done harvest-solar-energy-llc 1 
-done hawaii-commercial-foods-inc 4 
+done harmony-metal-fabrication 1 
+done harvest-solar-energy-llc 0 
+done hawaii-commercial-foods-inc 5 
 done hawaii-energy-connection 0 
-done hawaii-pacific-x-ray-corporation 1 
+done hawaii-pacific-x-ray-corporation 2 
 done hawaii-solar-connection 0 
 done hawaii-steel-llc 0 
 done hawaii-technology-development-corporation-htdc 0 
 done hazelwood-millworks-custom-carpentry-woodworking 0 
-done heartland-solar-solutions 1 
-done heights-woodworking 1 
+done heartland-solar-solutions 2 
+done heights-woodworking 0 
 done hemphill-foods-llc 3 
-done her-woodcraft 2 
+done her-woodcraft 4 
 done heram-custom-woodworking-llc 2 
 done herold-precision-metals 1 
-done hi-tech-fabricators 0 
-done highland-harmony-farm 2 
+done hi-tech-fabricators 1 
+done highland-harmony-farm 0 
 done hilex-poly-a-novolex-brand 0 
 done hinzman-millworks-inc 0 
-done hobbs-medical 1 
-done hogan-woodwork-inc 0 
+done hobbs-medical 0 
+done hogan-woodwork-inc 1 
 done holiday-custom-wire 0 
 done holm-made-toffee-co-commercial-kitchen 0 
 done homecoming-woodworks 2 
-done homeplex-furniture-custom-luxury-furniture 2 
-done homewood-metalworks 0 
+done homeplex-furniture-custom-luxury-furniture 0 
+done homewood-metalworks 2 
 done horizon-nut-company 0 
-done house-of-ari-jogiel 1 
-done houston-transformer-company 0 
+done house-of-ari-jogiel 2 
+done houston-transformer-company 1 
 done howard-industries 0 
-done hubco-inc 1 
+done hubco-inc 0 
 done huerta-furniture 0 
 done husky-injection-molding-system 0 
-done huston-company 0 
-done huston-solar-lafayette 2 
+done huston-company 1 
+done huston-solar-lafayette 1 
 done hybrid-electronics 0 
-done hygienic-fabrics-filters-inc 0 
+done hygienic-fabrics-filters-inc 1 
 done hypnos-medical-equipment 1 
-done ictc-usa 0 
-done ihi-connectors-manufacturing-facility 2 
-done impact-imports 1 
+done ictc-usa 1 
+done ihi-connectors-manufacturing-facility 0 
+done impact-imports 3 
 done ims-woodworking-inc 2 
-done itw-food-equipment 0 
-done iwg-high-performance-conductors 0 wrong
-done icon-metals-machining-fabrication 0 
-done icon-modern 1 
+done itw-food-equipment 1 
+done iwg-high-performance-conductors 0 
+done icon-metals-machining-fabrication 2 
+done icon-modern 2 
 done icon-solar 0 
-done idaho-custom-woodwork 0 
-done idaho-livin 1 
-done idaho-sewing-for-sports-llc 0 
-done idaho-shirtsmith-custom-apparel-embroidery 2 
+done idaho-custom-woodwork 2 
+done idaho-livin 3 
+done idaho-sewing-for-sports-llc 1 
+done idaho-shirtsmith-custom-apparel-embroidery 4 
 done idaho-supreme-potatoes-inc 1 
-done idahound 1 
-done ideal-electric 0 
+done idahound 0 
+done ideal-electric 1 
 done image-pointe 0 
-done imondi-foods 2 
-done impact-custom-apparel-llc 1 
-done impact-energy-roofing-denver 0 
-done impact-plastics 1 
-done imperial-electronic-assembly 1 
+done imondi-foods 0 
+done impact-custom-apparel-llc 3 
+done impact-energy-roofing-denver 1 
+done impact-plastics 0 
+done imperial-electronic-assembly 0 
 done imperial-wire-cable-co 0 
-done in-the-mountains-custom-furniture 3 
+done in-the-mountains-custom-furniture 0 
 done incap-electronics-us-inc 0 
-done ind-co-cable-tv 5 
-done independent-beverage-company-main-office 0 
+done ind-co-cable-tv 1 
+done independent-beverage-company-main-office 3 
 done indiana-rubber-plastic-llc 0 
-done indusco-wire-rope-fittings 0 
+done indusco-wire-rope-fittings 2 
 done industrial-applied-electric 1 
 done industrial-electronics-by-ross 2 
-done industrial-fabrics-inc 0 
-done industrial-finishes 2 
-done industrial-metal-enterprises-llc 2 
-done industrial-semiconductor-inc 2 
-done industrial-textiles-company 0 
-done innovative-circuits-arizona 1 
+done industrial-fabrics-inc 1 
+done industrial-finishes 1 
+done industrial-metal-enterprises-llc 0 
+done industrial-semiconductor-inc 0 
+done industrial-textiles-company 1 
+done innovative-circuits-arizona 0 
 done integra-life-sciences 0 
-done integrated-technology-solutions-its-hawaii 2 
-done intelligent-manufacturing-solutions-ims 0 
-done inter-coastal-electronics-inc 4 
+done integrated-technology-solutions-its-hawaii 3 
+done intelligent-manufacturing-solutions-ims 1 
+done inter-coastal-electronics-inc 1 
 done intercoastal-electronics-ems 0 
-done interior-woodworks 1 
-done intermountain-wood-products 1 
+done interior-woodworks 2 
+done intermountain-wood-products 2 
 done international-sheet-metal-inc 0 
 done international-wire 0 
 done interpak-international-packaging-corp 0 
-done interstate-narrow-fabrics-inc 3 
-done iowa-rotocast-plastics-inc 1 
-done iowa-steel-wire-co 0 
-done iron-ram-fabrications 1 
-done iron-work-studio 1 
+done interstate-narrow-fabrics-inc 0 
+done iowa-rotocast-plastics-inc 2 
+done iowa-steel-wire-co 1 
+done iron-ram-fabrications 2 
+done iron-work-studio 2 
 done ironwood-mills 0 
 ALL-DONE errors 0
-clean 191 | sentences removed 182 | needs review 4 | check errors 0
-REVIEW geaux-welding-fabrication-llc too short after fact-check (70 words)
-REVIEW general-cable Source describes Prysmian (website prysmian.com, references to Prysmian CFO, Xtera acquisition, etc.), not General Cable.
-REVIEW hawaii-commercial-foods-inc too short after fact-check (72 words)
-REVIEW iwg-high-performance-conductors Source name (IWG High Performance Conductors) does not match the described business (International Wire).
-sql parts 3 stories 191
+clean 190 | sentences removed 183 | needs review 4 | check errors 0
+REVIEW fusion-ems SOURCE appears to describe Qualitel (website qualitel.com, pages content about Qualitel) rather than Fusion EMS.
+REVIEW gateway-plastics-inc SOURCE describes Silgan Specialty Packaging, not Gateway Plastics Inc.
+REVIEW geaux-green-solar too short after fact-check (73 words)
+REVIEW general-cable SOURCE content describes Prysmian (website, acquisitions, employee count, etc.) while the company name is General Cable, indicating a mismatch.
+sql parts 3 stories 190

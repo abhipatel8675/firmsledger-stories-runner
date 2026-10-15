@@ -3,47 +3,51 @@
 **Old description:** Wolf Steel Construction Inc, established in 1999, by founder Wade Wolf, has been a cornerstone in the steel construction industry across North Dakota, South Dakota, and Minnesota. With over 25 years of experience, our locally owned business specializes in structural steel, steel decking, steel bar joists, steel and metal stairs, and steel railings. We pride ourselves on delivering exceptional quality and service, offering same-day free estimates and, depending on the job, same-day delivery.
 
 ## About
-Wolf Steel Construction Inc was founded in 1999 by Wade Wolf in Fargo, North Dakota. The locally owned company has served the steel construction industry across North Dakota, South Dakota, and Minnesota for over 25 years.
+Wolf Steel Construction Inc was founded in 1999 by Wade Wolf in Fargo, North Dakota. The locally owned company began as a steel construction specialist serving the upper Midwest, and over the past two decades it has expanded its footprint across North Dakota, South Dakota, and Minnesota.
 
-The company specializes in structural steel fabrication, steel decking, bar joist installation, metal stairs and railings, custom cut steel, and steel erection. It also offers equipment rental including cranes, welding machines, forklifts, stud welders, and generators. The shop uses advanced cutting technology and state-of-the-art fabrication equipment to produce custom steel components from design through final production.
+The firm provides a range of steel fabrication and erection services, including structural steel, steel decking, bar joists, custom-cut steel, metal stairs, and railings. It also rents equipment such as cranes and welding machines to support project needs. Fabrication is performed using advanced cutting technology, and the company handles projects from initial design through final production, though specific facility size, headcount, and annual volume are not disclosed.
 
-Wolf Steel serves commercial, industrial, and residential construction projects in the Upper Midwest. Its customers include architects, general contractors, and building owners needing structural steel, decking, joists, stairs, railings, and custom fabrication for projects ranging from commercial buildings to industrial facilities.
+Wolf Steel serves commercial, industrial, and residential construction customers, working with architects, contractors, and building owners on projects that require structural steel components, decking, joists, stair systems, and guardrails. Its service area covers the three-state region of North Dakota, South Dakota, and Minnesota.
 
-The company emphasizes same-day free estimates and same-day delivery for many jobs, warrantied fabrication work, and a commitment to precision and reliability. It was started to provide expert steel construction services in the heart of the Midwest.
+The company emphasizes its local presence and over 25 years of experience as key differentiators, offering same-day free estimates and, depending on the job, same-day delivery. It also warrants its fabrication work and promotes a commitment to precision and reliability from start to finish.
 
 ## Known for
 - Same-day free estimates
-- Same-day delivery available for many jobs
+- Same-day delivery available depending on job
+- Locally owned and operated with over 25 years of experience
 - Warrantied steel fabrication work
-- Locally owned and operated
 - Equipment rental including cranes and welding machines
 
 ## Capabilities
-- Structural steel fabrication
-- Steel decking installation
-- Bar joist installation
-- Metal stair fabrication and installation
-- Metal railing fabrication and installation
-- Custom steel cutting
+- Steel fabrication
 - Steel erection
-- Equipment rental (cranes, welding machines, forklifts, stud welders, generators)
+- Bar joist installation
+- Metal decking installation
+- Custom cut steel
+- Metal stair fabrication
+- Metal railing fabrication
+- Structural steel fabrication
+- Steel decking fabrication
+- Steel bar joist fabrication
 - Custom fabrication
-- Stud welding
-- Forklift rental
-- Generator rental
+- Roof ladder fabrication
+- Industrial guard rail fabrication
+- Custom steel stairway and handrail fabrication
+- Equipment rental (cranes)
+- Equipment rental (welding machines)
+- Industrial fabrication
+- Commercial fabrication
+- Miscellaneous fabrication
 
 ## Industries
 - Commercial construction
 - Industrial construction
 - Residential construction
+- Steel construction
 
 ## Equipment
 - Cranes
 - Welding machines
-- Forklifts
-- Stud welders
-- Generators
-- Advanced cutting equipment
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -54,20 +58,14 @@ The company emphasizes same-day free estimates and same-day delivery for many jo
 <details><summary>Sources</summary>
 
 - Founded in 1999 by Wade Wolf -> db
-- Headquarters in Fargo, North Dakota -> db
-- Locally owned and operated -> /
-- Specializes in structural steel, steel decking, steel bar joists, steel and metal stairs, steel railings -> /
-- Offers steel fabrication, steel erection, custom cut steel, equipment rental -> /about
-- Equipment rental includes cranes, welding machines, forklifts, stud welders, generators -> /
-- Same-day free estimates and same-day delivery available -> /
-- Warrantied steel fabrication work -> /
-- Serves North Dakota, South Dakota, Minnesota -> /
+- Locally owned business -> /
+- Services: steel fabrication, steel erection, bar joists & metal decking, equipment rental, custom cut steel -> /about
+- Specialties: structural steel, steel decking, steel bar joists, steel and metal stairs, steel railings -> /about
+- Serving North Dakota, South Dakota, Minnesota -> /
+- Same-day free estimates and same-day delivery -> /
+- Equipment rental includes cranes and welding machines -> /
 - Languages: English -> /about
-- Payment options: American Express, Cash, Check, Discover, MasterCard, Visa -> /about
-- Accessibility: wheelchair accessible restroom and entrance -> /about
-- Business hours: Mon-Thu 7am-4:30pm, Fri 7am-12pm -> /
-- Custom fabrication available -> /
-- State-of-the-art technology and skilled craftsmanship -> /
+- Business hours: Mon-Thu 7am-4:30pm, Fri 7am-12pm -> /about
 </details>
 
 ---
@@ -77,28 +75,31 @@ The company emphasizes same-day free estimates and same-day delivery for many jo
 **Old description:** Golden Bowl has been your go-to brand for Asian-themed products for many years. We manufacture a wide variety of products for your Chinese-inspired culinary needs including fortune cookies, noodles, wrappers, crispy noodles, bean and soy sprouts and egg roll filling. Golden is a color symbolic with having prosperity, good health and happiness while chopsticks and a bowl represent Chinese and Asian cultures. The combination of both words truly embodies the abundance of delicious options offered by Wonton Food Inc.
 
 ## About
-Wonton Food Inc., based in La Vergne, Tennessee, operates under the Golden Bowl brand to produce a range of Asian-themed food products. The company's founding year and ownership structure are not publicly disclosed in the available sources.
+Wonton Food Inc. is headquartered in La Vergne, Tennessee. The company operates under the Golden Bowl brand, which has supplied Asian-themed food products for many years. Ownership details and founding year are not publicly disclosed.
 
-The company manufactures fortune cookies, noodles, wrappers, crispy noodles, bean and soy sprouts, and egg roll filling. No details on facility size, headcount, or production volumes are provided in the input.
+The company manufactures a range of Chinese-inspired culinary items, including fortune cookies, noodles, wrappers, crispy noodles, bean and soy sprouts, and egg roll filling. Production follows a HACCP-certified food safety program and meets USDA Organic, OU Kosher, and OK Kosher standards. Facility size, headcount, and annual volumes are not specified.
 
-Wonton Food serves customers seeking Chinese-inspired culinary products, though specific industry segments or named clients are not listed. The company emphasizes a quality-driven approach with a Hazard Analysis and Critical Control Point (HACCP) program in full compliance with industry standards.
+Wonton Food serves customers seeking Asian-inspired food products for retail, foodservice, and industrial use. The Golden Bowl brand targets markets that value prosperity, good health, and happiness symbolized by its name. Specific customer names or industries are not listed in available sources.
 
-The company highlights its certifications—HACCP, USDA Organic, OU Kosher, and OK Kosher—as evidence of its commitment to food safety and quality. These credentials, along with its product breadth, form the basis of its market positioning.
+Management emphasizes a commitment to quality-driven operations, providing safe and superior Asian food products to meet customer requirements. The HACCP program and multiple kosher and organic certifications reflect this focus. The company was founded to offer abundant delicious options, as embodied by the Golden Bowl name.
 
 ## Known for
-- HACCP program in full compliance with industry standards
-- USDA Organic certification
-- OU Kosher and OK Kosher certifications
-- Manufactures a wide variety of Asian-themed products under the Golden Bowl brand
+- HACCP-certified food safety program in full compliance with industry standards
+- USDA Organic certified production
+- OU Kosher and OK Kosher certified
+- Manufactures a wide variety of Asian food products under the Golden Bowl brand
 
 ## Capabilities
-- Fortune cookie manufacturing
-- Noodle production
-- Wrapper manufacturing
+- Food manufacturing
+- Fortune cookie production
+- Noodle manufacturing
+- Wrapper production
 - Crispy noodle production
 - Bean and soy sprout processing
 - Egg roll filling preparation
-- Food safety management (HACCP)
+- HACCP plan implementation
+- Kosher production
+- Organic production
 
 ## Certifications
 - HACCP
@@ -112,13 +113,14 @@ The company highlights its certifications—HACCP, USDA Organic, OU Kosher, and 
 
 <details><summary>Sources</summary>
 
-- Company name: Wonton Food Inc. -> db
-- Brand: Golden Bowl -> page /
-- Location: La Vergne, Tennessee -> db
-- Products: fortune cookies, noodles, wrappers, crispy noodles, bean and soy sprouts, egg roll filling -> page /
-- Certifications: HACCP, USDA Organic, OU Kosher, OK Kosher -> page /
-- HACCP program compliance statement -> page /
-- Manufacturing claim: 'We manufacture a wide variety of products' -> page /
+- Headquarters in La Vergne, Tennessee -> db
+- Golden Bowl brand for Asian-themed products -> page /
+- Manufactures fortune cookies, noodles, wrappers, crispy noodles, bean and soy sprouts, egg roll filling -> page /
+- HACCP certified food safety program -> page /
+- USDA Organic certified -> page /
+- OU Kosher certified -> page /
+- OK Kosher certified -> page /
+- Commitment to quality-driven organization -> page /
 </details>
 
 ---
@@ -128,30 +130,32 @@ The company highlights its certifications—HACCP, USDA Organic, OU Kosher, and 
 **Old description:** was established in 1979 with the purpose of reviving solid, creative, quality built furniture. All of our products are available in Cherry, Maple, Mahogany, Black Walnut, Quarter Sawn White Oak and Red Oak. We offer a variety of finishes that accent the natural beauty of the wood and we use time proven techniques in our wood working that are efficient and strong. We are dedicated to what we do and believe that the true cost of our product is proven over time.
 
 ## About
-Wood Revival Desk Company was founded in 1979 in Salt Lake City, Utah, as a family-owned and operated business. The company began with the purpose of reviving solid, creative, quality-built furniture, focusing on traditional woodworking methods.
+Wood Revival Desk Company was founded in 1979 in Salt Lake City, Utah, as a family-owned and operated business with the stated purpose of reviving solid, creative, quality-built furniture. The company remains under family ownership today.
 
-The shop produces a range of solid hardwood furniture for both home and office settings, including flattop desks, rolltop desks, file cabinets, bookcases, credenzas, accessories, and custom pieces. All products are crafted from a selection of domestic hardwoods — cherry, maple, mahogany, black walnut, quarter-sawn white oak, and red oak — and finished with a variety of stains that highlight the wood’s natural grain. The company emphasizes time-proven joinery techniques designed for durability and strength.
+The shop produces solid hardwood furniture for both home and office settings. Its product line includes flattop desks, rolltop desks, file cabinets, bookcases, credenzas, accessories, and custom work. All pieces are offered in six hardwood species — Cherry, Maple, Mahogany, Black Walnut, Quarter Sawn White Oak, and Red Oak — with a variety of finishes designed to accent the natural beauty of the wood. Manufacturing relies on time-proven woodworking techniques described as efficient and strong, though the company does not disclose facility size, headcount, or production volumes.
 
-Wood Revival serves residential customers and commercial offices seeking heirloom-quality furnishings. Its catalog addresses both individual buyers and trade clients looking for custom configurations, though the company does not disclose specific client names or industry verticals beyond home and office use.
+The primary markets are residential and commercial office furniture, serving customers who furnish home offices and professional workspaces. No specific industry verticals or named clients are mentioned in the available information.
 
-The founders’ stated mission centers on creating furniture whose value is measured over decades rather than seasons, a philosophy reflected in the choice of solid hardwoods and construction methods intended to last generations.
+The company emphasizes that the true cost of its product is proven over time, positioning durability and long-term value as its core differentiator. This philosophy reflects a dedication to craftsmanship rather than short-term cost savings.
 
 ## Known for
-- Family-owned and operated
-- Time-proven woodworking techniques
-- Variety of finishes highlighting natural wood beauty
-- Solid hardwood construction
-- Custom furniture capabilities
+- Family-owned and operated since 1979
+- Time-proven woodworking techniques that are efficient and strong
+- Variety of finishes accentuating natural wood beauty
+- Solid hardwood construction in six wood species
+- Custom work capabilities
 
 ## Capabilities
-- Hardwood furniture manufacturing
+- Solid hardwood furniture manufacturing
 - Custom woodworking
 - Wood finishing
-- Desk manufacturing (flattop, rolltop)
-- File cabinet manufacturing
-- Bookcase manufacturing
-- Credenza manufacturing
-- Accessory manufacturing
+- Traditional joinery
+- Flattop desk production
+- Rolltop desk production
+- File cabinet production
+- Bookcase production
+- Credenza production
+- Accessory production
 
 ## Industries
 - Residential furniture
@@ -165,16 +169,16 @@ The founders’ stated mission centers on creating furniture whose value is meas
 
 <details><summary>Sources</summary>
 
-- Founded 1979 -> db
-- Founded 1979 -> /
-- Family-owned and operated -> /
-- Headquarters Salt Lake City, Utah -> db
-- Materials: Cherry, Maple, Mahogany, Black Walnut, Quarter Sawn White Oak, Red Oak -> /
-- Products: Flattop Desks, Rolltop Desks, File Cabinets, Custom Work, Accessories, Bookcases, Credenzas -> /
-- Time-proven woodworking techniques -> /
-- Variety of finishes accenting natural wood beauty -> /
-- Purpose: reviving solid, creative, quality built furniture -> /
-- Belief: true cost of product proven over time -> /
+- founded 1979 -> db
+- headquarters Salt Lake City, Utah -> db
+- family owned and operated -> /
+- purpose: reviving solid, creative, quality built furniture -> /
+- solid hardwood furniture for home and office use -> /
+- wood species: Cherry, Maple, Mahogany, Black Walnut, Quarter Sawn White Oak, Red Oak -> /
+- variety of finishes accent natural beauty -> /
+- time-proven woodworking techniques efficient and strong -> /
+- product categories: flattop desks, rolltop desks, file cabinets, bookcases, credenzas, accessories, custom work -> /
+- true cost proven over time -> /
 </details>
 
 ---
@@ -184,32 +188,31 @@ The founders’ stated mission centers on creating furniture whose value is meas
 **Old description:** is a family owned and operated business that was founded in 1977 by Bob Pierce and his son Bobby. Woodco Furniture is made in the USA, right in Van Buren and Fort Smith, AR. This is the best way to control excellence, quality and cost. 100% of our lumber is slow-grown hardwood harvested in the Northern Appalachian Mountains, where natural sustainable forestry is practiced, and all our wood is kiln dried for accurate aging and moisture content. Woodco products are available in red oak, maple, cherry and quarter sawn white oak, and can be customized to meet your furniture needs. Our desire is to produce American Made furniture that will not only bring beauty and enjoyment to your home, but will surely become a family heirloom.
 
 ## About
-Woodco Furniture operates from Van Buren and Fort Smith, Arkansas, where it has been a family-owned business since 1977. Founder Bob Pierce, after years running a wood-turning operation in Florida and Arkansas, launched the company with his eleven-year-old son Bobby already involved. The Pierce family has retained ownership, with Bobby assuming leadership in 1999.
+Woodco Furniture, a family-owned and operated business, was founded in 1977 by Bob Pierce and his son Bobby in Van Buren and Fort Smith, Arkansas. Pierce, who had honed his craft at a wood-turning company in Florida before relocating to Arkansas, launched the venture when Bobby was just eleven years old, embedding the next generation in the operation from the start.
 
-The company produces solid-wood furniture using 100 percent slow-grown hardwoods — red oak, maple, cherry, and quarter-sawn white oak — sourced from the Northern Appalachian Mountains and kiln-dried for consistent moisture content. What began as a supplier of turnings and parts for other manufacturers evolved into a full production facility after offshore competition eroded that market. Woodco now manufactures its own furniture lines and also stocks complementary American-made pieces, offering customization on dimensions, wood species, and finish.
+The company began as a supplier of turnings and parts for other manufacturers across the country. As domestic production moved overseas, Woodco shifted to a full-scale production facility, developing its own line of furniture while also stocking other American-made pieces. All lumber is slow-grown hardwood sourced from the Northern Appalachian Mountains, kiln-dried for consistent moisture content, and offered in red oak, maple, cherry, and quarter-sawn white oak. The Van Buren facility opened to the public in 1995, and Bobby Pierce assumed ownership in 1999.
 
-Woodco serves residential customers directly through its Van Buren showroom and ships nationwide, while also maintaining a wholesale channel for trade buyers. Its early history as a parts supplier to furniture factories across the country gives it experience in both component and finished-goods production.
+Woodco serves the residential furniture market, providing customizable pieces for homeowners and retailers seeking domestically produced hardwood furniture. Its customer base includes both direct consumers through its showroom and trade partners looking for made-to-order components.
 
-The business was built on controlling quality from lumber selection through final assembly, a response to the decline of domestic manufacturing. The Pierces emphasize sustainable forestry practices, domestic sourcing, and a made-to-order approach that they say yields heirloom-quality pieces backed by personal customer service.
+The company emphasizes complete control over quality by keeping production in-house, from lumber selection to finished goods, positioning its output as heirloom-quality American-made furniture backed by custom capabilities and personal service.
 
 ## Known for
-- 100% slow-grown Appalachian hardwoods, kiln-dried for stability
-- Customizable furniture dimensions, species, and finish
-- Complete in-house control from lumber to finished piece
-- American-made production in Arkansas facilities
+- 100% slow-grown hardwood from Northern Appalachian Mountains
+- All lumber kiln-dried for accurate aging and moisture content
+- Full in-house production from lumber to finished furniture
+- Customizable furniture in red oak, maple, cherry, quarter-sawn white oak
 - Family-owned since 1977 with second-generation leadership
 
 ## Capabilities
 - Wood turning
 - Furniture manufacturing
-- Custom woodworking
+- Custom furniture production
 - Kiln drying
-- Sustainable hardwood sourcing
 
 ## Industries
 - Residential furniture
-- Furniture components
-- Wholesale furniture
+- Custom furniture
+- American-made furniture
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -219,20 +222,18 @@ The business was built on controlling quality from lumber selection through fina
 
 <details><summary>Sources</summary>
 
-- Founded in 1977 -> db
-- Family-owned and operated -> db
-- Headquarters in Van Buren and Fort Smith, AR -> db
-- 100% slow-grown hardwood from Northern Appalachian Mountains -> /
-- Kiln-dried lumber -> /
-- Available in red oak, maple, cherry, quarter-sawn white oak -> /
-- Customizable furniture -> /
-- Bob Pierce founded after wood turning experience in Florida -> /about
-- Initially produced turnings and parts for other manufacturers -> /about
+- Founded 1977 by Bob Pierce and son Bobby -> db
+- Family owned and operated -> db
+- Headquarters Van Buren and Fort Smith, AR -> db
+- 100% lumber slow-grown hardwood from Northern Appalachian Mountains -> /
+- Kiln dried for accurate aging and moisture content -> /
+- Products available in red oak, maple, cherry, quarter sawn white oak -> /
+- Customizable to meet furniture needs -> /
+- Started as wood turning company making parts for other manufacturers -> /about
 - Expanded to full production facility and own furniture line -> /about
 - Opened Van Buren facility to public in 1995 -> /about
 - Bobby Pierce took over in 1999 -> /about
-- Carries other American-made furniture brands -> /about
-- Emphasis on quality control, sustainable forestry, customer service -> /about
+- Niche: Quality made, custom products with excellent customer service -> /about
 </details>
 
 ---
@@ -242,34 +243,33 @@ The business was built on controlling quality from lumber selection through fina
 **Old description:** Woodworking Dynamics has been serving Montgomery, Alabama and the surrounding areas for over three decades. Founded on the principles of quality craftsmanship, integrity, and customer satisfaction, we have built a reputation as the premier provider of custom architectural millwork in Central Alabama.
 
 ## About
-Woodworking Dynamics operates from Montgomery, Alabama, where it was founded in 1990 on principles of quality craftsmanship, integrity, and customer satisfaction. The company has served Central Alabama for over three decades as a provider of custom architectural millwork.
+Woodworking Dynamics was founded in 1990 in Montgomery, Alabama, and has served the central Alabama region for over three decades. The company began with a focus on quality craftsmanship, integrity, and customer satisfaction, establishing itself as a provider of custom architectural millwork.
 
-The shop produces custom architectural elements including columns, mantels, crown molding, and trim work, as well as custom-milled windows and doors. It is an authorized dealer for Weather Shield products, offering lines from builder’s grade to full architectural series. The facility also builds handcrafted furniture and provides professional installation services, with capabilities in authentic reproductions for historic preservation and restoration projects.
+The shop produces custom architectural elements such as columns, mantels, and crown molding, as well as custom-milled windows and doors in any style. It also builds handcrafted furniture pieces and serves as an authorized dealer for Weather Shield windows and doors, offering products from builder's grade to full architectural lines. Professional installation services are available for all products.
 
-Woodworking Dynamics serves residential and commercial construction clients across Central Alabama, including homeowners, builders, and architects seeking custom millwork for new builds, renovations, and historic restorations.
+Woodworking Dynamics works with residential and commercial clients across Montgomery and the surrounding central Alabama area. Its portfolio includes historic preservation and restoration projects, where it creates authentic reproductions of original woodwork.
 
-The company emphasizes competitive pricing with reasonable lead times, premium materials, and exceptional craftsmanship backed by over 30 years of experience. Its authorized Weather Shield dealership extends its product range to energy-efficient windows and doors with Low-E coating options.
+The company emphasizes premium materials, exceptional craftsmanship, competitive pricing, and reasonable lead times. Its status as an authorized Weather Shield dealer and its three-decade track record are cited as key differentiators.
 
 ## Known for
 - Authorized Weather Shield dealer
-- Over 30 years of custom millwork experience
-- Competitive pricing with reasonable lead times
+- Over 30 years of experience in custom millwork
 - Premium materials and exceptional craftsmanship
-- Custom design solutions for residential and commercial projects
+- Competitive pricing with reasonable lead times
+- Serving Montgomery and Central Alabama
 
 ## Capabilities
-- Custom architectural millwork (columns, mantels, crown molding, trim)
-- Custom window and door manufacturing
-- Weather Shield product supply and installation
-- Handcrafted furniture making
-- Historic preservation millwork reproduction
+- Custom architectural millwork (columns, mantels, crown molding)
+- Custom milled windows and doors
+- Weather Shield window and door installation
+- Handcrafted furniture fabrication
 - Professional installation services
+- Historic preservation and restoration reproductions
 
 ## Industries
 - Residential construction
 - Commercial construction
-- Historic preservation and restoration
-- Architectural millwork
+- Historic preservation
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -280,16 +280,16 @@ The company emphasizes competitive pricing with reasonable lead times, premium m
 
 - Founded in 1990 -> db
 - Headquartered in Montgomery, Alabama -> db
-- Over 30 years of experience in custom millwork -> homepage
-- Custom architectural millwork: columns, mantels, crown molding, trim -> homepage
-- Custom milled windows and doors -> homepage
-- Authorized Weather Shield dealer -> homepage
-- Handcrafted furniture -> homepage
-- Professional installation services -> homepage
-- Authentic reproductions for historic preservation and restoration -> homepage
-- Serves residential and commercial projects in Central Alabama -> homepage
-- Competitive pricing with reasonable lead times -> homepage
-- Premium materials and exceptional craftsmanship -> homepage
+- Provides custom architectural millwork including columns, mantels, crown molding -> /
+- Offers custom milled windows and doors in any style -> /
+- Produces handcrafted furniture -> /
+- Authorized Weather Shield dealer -> /
+- Serves Montgomery and Central Alabama -> /
+- Over 30 years of experience -> /
+- Competitive pricing with reasonable lead times -> /
+- Premium materials and exceptional craftsmanship -> /
+- Authentic reproductions for historic preservation and restoration projects -> /
+- Professional installation services available -> /
 </details>
 
 ---
@@ -299,35 +299,37 @@ The company emphasizes competitive pricing with reasonable lead times, premium m
 **Old description:** Assembly Technologies is your partner in turning prototypes into full-scale production success. With deep expertise in production, we focus on making your product launch seamless and efficient. We know that scalability, cost, and risk management are key to your success,…
 
 ## About
-Assembly Technologies Inc. (ATI) operates from Charlotte, North Carolina, as a minority-owned contract manufacturer specializing in advanced electronic manufacturing services. The company's management team brings over 60 years of combined experience to its role as an extension of OEM engineering and production teams.
+Assembly Technologies Inc. (ATI) operates from Charlotte, North Carolina. The company is certified as a Minority Business Enterprise (MBE) and functions as a contract manufacturer delivering advanced electronic manufacturing services (EMS) to original equipment manufacturers. While its founding year is not publicly disclosed, ATI’s management team brings over 60 years of combined experience in high-reliability electronics manufacturing.
 
-ATI delivers end-to-end electronics manufacturing, including turn-key printed circuit board assembly, system and box-build integration, electro-mechanical assembly, conformal coating and potting, and new product introduction support. Its capabilities extend to design and engineering services, from initial layout through prototyping and testing, as well as supply chain management leveraging collaborative supplier relationships for reliable sourcing and delivery. The company focuses on high-mix, high-reliability production for mission-critical applications.
+ATI provides end-to-end electronics manufacturing, specializing in high-mix, high-reliability production. Core capabilities include turnkey printed circuit board (PCB) assembly, system and box build assembly, electro-mechanical assembly, conformal coating, and potting. The company also offers new product introduction (NPI) support, design and engineering services, and supply chain management with global sourcing and risk mitigation strategies. Operations adhere to ISO 9001:2015 and IPC standards such as IPC-A-610 and J-STD-001.
 
-The company serves original equipment manufacturers in aerospace and defense, railway, industrial, and enterprise technology sectors. Its customer base consists of OEMs requiring scalable, cost-managed production with rigorous quality adherence.
+The company serves customers in aerospace and defense, railway, industrial, and enterprise technology sectors. Its client base consists of OEMs requiring mission-critical electronic assemblies that meet stringent quality and regulatory requirements, including ITAR compliance.
 
-The firm maintains industry-certified facilities and professionals to ensure excellence across all engagements.
+The company highlights its industry-certified facilities, flexible and transparent supply chain management, and tailored risk mitigation as key differentiators.
 
 ## Known for
 - Dedicated, customer-focused teams for personalized support
 - Global sourcing with tailored risk mitigation strategies
 - Industry-certified facilities and professionals ensuring excellence
 - Flexible and transparent supply chain management
-- Commitment to a culture of continuous process improvement
 
 ## Capabilities
-- Turn-key PCB assembly
-- System/box build assembly
-- Electro-mechanical assembly
-- Conformal coating and potting
-- New product introduction (NPI)
-- Design and engineering
-- Supply chain management
+- Turnkey PCB Assembly
+- Box Build Assembly
+- Electro-Mechanical Assembly
+- Conformal Coating
+- Potting
+- New Product Introduction (NPI)
+- Design & Engineering
+- Supply Chain Management
+- High-Mix Electronic Manufacturing
+- High-Reliability Electronic Manufacturing
 
 ## Industries
 - Aerospace & Defense
 - Railway
 - Industrials
-- Enterprise technologies
+- Enterprise Technologies
 
 ## Certifications
 - ISO 9001:2015
@@ -342,15 +344,17 @@ The firm maintains industry-certified facilities and professionals to ensure exc
 <details><summary>Sources</summary>
 
 - Headquarters: Charlotte, North Carolina -> db
-- Minority-owned (MBE) -> /about
-- Contract manufacturer providing EMS to OEMs -> /about-us
-- Management with 60+ years combined experience -> /about
-- Services: turn-key PCB assembly, system/box build, electro-mechanical assembly, conformal coating, potting, NPI, design & engineering, supply chain management -> /services, /about-us, db
-- High-mix, high-reliability focus -> /about-us
-- Industries: Aerospace & Defense, Railway, Industrials, Enterprise technologies -> /about-us, db
-- Certifications: ISO 9001:2015, ITAR, MBE -> /about
-- Quality standards: IPC-610, IPC-J-STD-001, AS6081, IPC-A-610, IPC-A-620, J-STD-001, ESD controls -> /quality
-- Customer-centric value creation: continuous improvement, best cost of ownership, dedicated teams, global sourcing with risk mitigation, certified facilities, transparent supply chain -> /about-us
+- Minority Business Enterprise (MBE) certification -> /about
+- Contract manufacturer providing advanced EMS to OEMs -> /about-us
+- Over 60 years of combined management experience -> /about
+- High-mix, high-reliability focus: Railway, Aerospace and Defense, Industrials, Enterprise technologies -> /about-us
+- Turnkey PCB Assembly, System/Box Build Assembly, Electro-Mechanical Assembly -> db (products array)
+- Conformal Coating and Potting -> db (capabilities array)
+- New Product Introduction, Design & Engineering, Supply Chain Management -> /services
+- ISO 9001:2015 certification -> /about, /quality
+- ITAR certification -> db (certifications array), /about
+- IPC-A-610, IPC-J-STD-001, AS6081, IPC-A-620 standards adherence -> /quality
+- Customer-centric value creation: continuous improvement, best cost of ownership, dedicated teams, global sourcing with risk mitigation, certified facilities, flexible supply chain -> /about-us
 </details>
 
 ---
@@ -360,47 +364,49 @@ The firm maintains industry-certified facilities and professionals to ensure exc
 **Old description:** Workspace Elements was founded on the principles of honesty, integrity, and quality of services we provide. We are committed to establishing and maintaining long-term relationships with our customers, employees, and suppliers. We are here to help from start to finish with your workplace design. We've worked with Utah companies from the Silicone Slopes to downtown Salt Lake workspaces.
 
 ## About
-Workspace Elements operates from Salt Lake City, Utah, tracing its roots to Richins Office, which was established in 1972 and has been in continuous operation since. The current iteration, Workspace Elements, emerged several years ago when Richins Office updated its business model to meet changing client needs. The company is led by Principal Jason Woodbury and Vice President Candis Bowen, supported by a team of account and project managers.
+Workspace Elements operates from Salt Lake City, Utah, tracing its roots to Richins Office, which was established in 1972 and has been in continuous operation since. The current brand emerged several years ago when Richins Office updated its business model to meet changing client needs, retaining the same leadership and team.
 
-The firm provides end-to-end commercial interior design and office furniture solutions, including workspace planning, furniture selection and specification, procurement, professional installation, project management, budgeting, financing, future growth planning, and furniture reconfiguration. As authorized dealers for Allsteel, Hon, and Gunlocke, they manage projects from initial discovery through final walkthrough for businesses across Utah, including Salt Lake City, Lehi, Provo, and Park City.
+The company provides commercial interior design, workspace planning, and office furniture solutions as an authorized dealer for Allsteel, Hon, and Gunlocke. Services span programming, floor plans, design consultation, product and finish specifications, furniture procurement, project management, installation, future growth planning, furniture reconfiguration, and financing. They also supply acoustic products and architectural walls.
 
-Workspace Elements serves corporate offices, healthcare facilities, educational institutions, government organizations, nonprofit spaces, hospitality venues, and work-from-home setups. Their client base ranges from start-ups and mid-sized companies to large enterprises and hospitals, with noted work spanning the "Silicone Slopes" tech corridor to downtown Salt Lake City workspaces.
+Workspace Elements serves businesses of all sizes across Utah, including start-ups, mid-sized and large corporations, healthcare facilities, educational institutions, government agencies, nonprofit organizations, and hospitality venues. Clients range from Silicon Slopes tech firms to downtown Salt Lake City offices.
 
-The company emphasizes honesty, integrity, and quality of service, aiming to build long-term relationships with customers, employees, and suppliers. Leadership cites a deep understanding of evolving client needs, a superior financial record, and a track record of success in the office furniture industry as the foundation for setting a new standard in the Utah market.
+The firm emphasizes honesty, integrity, and long-term relationships with customers, employees, and suppliers. It positions itself as a full-service partner guiding clients from initial concept through installation and beyond, leveraging a long history in the office furniture industry to set a standard for quality and service in the Utah market.
 
 ## Known for
-- Authorized dealer for Allsteel, Hon, and Gunlocke furniture lines in Utah
-- Full-service process from programming through installation and future growth planning
+- Authorized dealer for Allsteel, Hon, and Gunlocke furniture in Utah
+- Full-service offering from workspace planning through installation and reconfiguration
 - Financing options available for furniture purchases
-- Rooted in a 1972 legacy with continuous operation as Richins Office
-- Team with experience across all facets of the office furniture industry
+- Rooted in Richins Office, established 1972 with continuous operation
 
 ## Capabilities
 - Commercial interior design
 - Workspace planning
-- Office furniture selection and specification
-- Furniture procurement
-- Professional installation
-- Project management
-- Budgeting and financing
-- Future growth planning
-- Furniture reconfiguration
 - Space planning
 - Layout design
+- Furniture selection and specification
 - Product and finish specifications
-- Office relocation coordination
+- Furniture procurement
+- Project management
+- Professional installation
+- Furniture reconfiguration
+- Future growth planning
+- Acoustic product integration
+- Architectural walls
+- Office move coordination
+- Financing for furniture purchases
+- Budgeting and cost management
 
 ## Industries
 - Corporate offices
 - Healthcare facilities
 - Educational institutions
 - Government organizations
-- Nonprofit organizations
-- Hospitality
-- Work-from-home solutions
+- Nonprofit spaces
 - Start-ups
 - Mid-sized businesses
 - Large enterprises
+- Work-from-home solutions
+- Hospitality
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -409,17 +415,14 @@ The company emphasizes honesty, integrity, and quality of service, aiming to bui
 
 <details><summary>Sources</summary>
 
-- Headquarters: Salt Lake City, Utah -> / (contact section)
-- Founded 1972 as Richins Office -> / (history section), /about (history section), db (founded_year)
-- Workspace Elements formed from Richins Office update -> / (history section), /about (history section)
-- Leadership: Jason Woodbury (Principal), Candis Bowen (VP) -> /about (team section)
-- Authorized dealers for Allsteel, Hon, Gunlocke -> / (home), /about, /services
-- Services: design, planning, procurement, installation, project management, financing, reconfiguration -> /services (process steps), / (services list)
-- Industries served: corporate, healthcare, education, government, nonprofit, hospitality, work-from-home -> /about (industries), /services (industries)
-- Client types: start-ups, mid-sized, large businesses, hospitals, governments -> / (client list), /about (business sizes)
-- Geographic reach: Utah including Salt Lake City, Lehi, Provo, Park City -> / (home), /about
-- Company values: honesty, integrity, quality, long-term relationships -> / (vision), /about (vision)
-- Differentiators: understanding changing needs, track record, setting standard -> / (history), /about (history)
+- Founded 1972 as Richins Office -> db, /, /about
+- Headquarters Salt Lake City, Utah -> db, /, /about
+- Authorized dealer for Allsteel, Hon, Gunlocke -> /, /about, /services
+- Services: planning, design, budgeting, project management, installation, product specs, procurement, reconfiguration, financing -> /, /services
+- Industries served: corporate, healthcare, education, government, nonprofit, startups, mid/large business, work from home, hospitality -> /, /about, /services
+- Team members listed (Jason Woodbury, Candis Bowen, etc.) -> /about
+- Company values: honesty, integrity, quality, long-term relationships -> /, /about
+- Full-service from concept to installation -> /, /services
 </details>
 
 ---
@@ -429,39 +432,37 @@ The company emphasizes honesty, integrity, and quality of service, aiming to bui
 **Old description:** World Class Plastics injection molds product in injection molding machines ranging from 50 – 720 metric tons. Most processes are highly automated by using Yushin multi-axis servos and Shinwa Aeroboy degating robots.
 
 ## About
-World Class Plastics Inc operates from Russells Point, Ohio. The company's founding year and ownership structure are not publicly disclosed. It specializes in plastic injection molding and related services.
+World Class Plastics Inc operates from Russells Point, Ohio. The company's founding year and ownership structure are not publicly disclosed. It began as an injection molding specialist and has grown into a full-service plastics manufacturer.
 
-The company runs injection molding machines with clamping forces from 50 to 720 metric tons, supported by Yushin multi-axis servo robots and Shinwa Aeroboy degating robots for automation. Its in-house tooling department handles mold maintenance, repair, design changes, and production support. Engineering services are led by RJG Master Molder II certified engineers using SolidWorks. Value-added operations include assembly, pad printing, ultrasonic welding, insert molding, and decorating, while chrome plating and painting are outsourced to qualified suppliers. Automation cells feature Yushin traverse robots, automated degating stations, and custom assembly stations with feeder bowls and pick-and-place robots.
+The company runs injection molding machines from 50 to 720 metric tons, heavily automated with Yushin multi-axis servos and Shinwa Aeroboy degating robots. An in-house tooling department handles maintenance, repair, design changes, and production support. Engineering and design are led by RJG Master Molder II certified engineers using SolidWorks. Value-added services include assembly, pad printing, ultrasonic welding, insert molding, and decorating, with chrome plating and painting sourced through external partners. Automation extends to Yushin traverse robots, automated degating stations, and custom assembly stations. Quality is monitored in real time via a Synergy 2000 SPC system and RJG e-Dart pressure transducers, with inspection on an OGP Z600 video measuring system and a Mitutoyo CMM.
 
 World Class Plastics serves appliance, automotive, aviation and aerospace, clips and fasteners, dental, electrical, multi-industry gears, industrial, and medical markets. It is a Worthington Industries certified supplier.
 
-The company emphasizes tight-tolerance molding, professional color matching, and real-time process monitoring via the Synergy 2000 SPC system and RJG e-Dart pressure transducers. Quality is managed under ISO 9001:2015 with inspection equipment including an OGP Z600 video measuring system, a Mitutoyo Crysta Apex CMM, and a BYK-Gardner spectrophotometer.
+The company says it differentiates itself through a commitment to exceeding customer expectations, continual improvement, and exceptional training and process control. Its quality system is ISO 9001:2015 certified, and it emphasizes tight-tolerance molding, professional color matching, and certified engineering expertise.
 
 ## Known for
-- Injection molding machines ranging from 50–720 metric tons
+- Injection molding machines from 50 to 720 metric tons
 - Highly automated with Yushin multi-axis servos and Shinwa Aeroboy degating robots
-- RJG Master Molder II certified engineers using SolidWorks
 - In-house tooling department for maintenance, repair, and design changes
-- ISO 9001:2015 certified with real-time SPC monitoring
+- RJG Master Molder II certified engineers
+- ISO 9001:2015 certified quality system with real-time SPC monitoring
 
 ## Capabilities
-- Injection molding (50–720 metric tons)
-- Engineering & design (SolidWorks, RJG Master Molder II)
-- Tool & mold building (maintenance, repair, design changes, production support)
+- Precision injection molding (50–720 metric tons)
+- Engineering and design (SolidWorks, RJG Master Molder II certified)
+- Tool and mold building (maintenance, repair, design changes)
+- Assembly
 - Pad printing
 - Ultrasonic welding
 - Insert molding
-- Assembly services
 - Decorating
-- Chrome plating (external)
-- Painting (external)
+- Chrome plating and painting (via external suppliers)
 - Automation: Yushin traverse robots
 - Automated degating stations
-- Custom assembly stations with feeder bowls and pick-and-place robots
-- Color matching
-- Material selection guidance
+- Custom assembly stations
 - Real-time quality monitoring (Synergy 2000 SPC, RJG e-Dart)
-- Advanced inspection (CMM, video measuring, spectrophotometer)
+- Advanced inspection (OGP Z600 video measuring, Mitutoyo CMM, BYK-Gardner spectrophotometer)
+- Color matching
 
 ## Industries
 - Appliance
@@ -475,19 +476,18 @@ The company emphasizes tight-tolerance molding, professional color matching, and
 - Medical
 
 ## Equipment
-- Injection molding machines (50–720 metric tons)
-- Yushin multi-axis servo robots
+- Yushin multi-axis servos
 - Shinwa Aeroboy degating robots
-- OGP Z600 fully automated video measuring system (24" x 18" stage)
-- Mitutoyo Crysta Apex Series C700 CMM (28" x 28" x 24" measuring area)
-- BYK-Gardner handheld spectrophotometer
+- Yushin Traverse Robots
+- Automated Degating Stations
+- Custom Designed Assembly Stations
+- OGP Z600 fully automated video measuring system
+- Mitutoyo Crysta Apex Series C700 Model C776 CMM
+- BYK-Gardner hand-held spectrophotometer
 - MacBeth Light Booth – Spectralight III
 - Synergy 2000 SPC System
-- RJG e-Dart data acquisition with pressure transducers
+- RJG e-Dart data acquisition
 - Sumitomo injection molding machines
-- Yushin traverse robots
-- Automated degating stations
-- Custom assembly stations with feeder bowls and pick-and-place robots
 
 ## Certifications
 - ISO 9001:2015
@@ -499,21 +499,17 @@ The company emphasizes tight-tolerance molding, professional color matching, and
 <details><summary>Sources</summary>
 
 - Location: Russells Point, Ohio -> db
-- Injection molding machine range 50–720 metric tons -> /
+- Injection molding machines 50-720 metric tons -> /
 - Automation: Yushin multi-axis servos, Shinwa Aeroboy degating robots -> /
-- In-house tooling department for maintenance, repair, design changes, production support -> /
-- Engineering: RJG Master Molder II certified engineers, SolidWorks -> /capabilities
-- Value-added services: assembly, pad printing, ultrasonic welding, insert molding, decorating -> /capabilities
-- Chrome plating and painting outsourced -> /capabilities
-- Automation cells: Yushin traverse robots, automated degating stations, custom assembly stations -> /capabilities
-- Industries served: Appliance, Automotive, Aviation & Aerospace, Clips & Fasteners, Dental, Electrical, Multi-Industry Gears, Industrial, Medical -> /
-- Worthington Industries certified supplier -> /
-- ISO 9001:2015 certification -> /quality
-- Quality monitoring: Synergy 2000 SPC, RJG e-Dart -> /quality
-- Inspection equipment: OGP Z600, Mitutoyo CMM, BYK-Gardner spectrophotometer, MacBeth Light Booth -> /quality
+- In-house tooling department -> /
+- Value-added services: assembly, pad printing, ultrasonic welding, insert molding, decorating -> /, /capabilities
+- Engineering/design with RJG Master Molder II certified engineers, SolidWorks -> /capabilities
+- Automation: Yushin traverse robots, automated degating stations, custom assembly stations -> /capabilities
+- Quality monitoring: Synergy 2000 SPC, RJG e-Dart, OGP Z600, Mitutoyo CMM -> /quality
+- ISO 9001:2015 certified -> /quality
 - Materials: Acrylic, ABS, Acetal, Nylon, Polycarbonate, Polypropylene -> /capabilities
-- Color matching services -> /capabilities
-- Tight tolerance molding mentioned -> /capabilities
+- Industries: Appliance, Automotive, Aviation & Aerospace, Clips & Fasteners, Dental, Electrical, Multi-Industry Gears, Industrial, Medical -> /
+- Worthington Industries certified supplier -> /
 </details>
 
 ---
@@ -523,37 +519,46 @@ The company emphasizes tight-tolerance molding, professional color matching, and
 **Old description:** Our family owned and operated company was founded in 1996, the same year we became an AWRF member. Worldwide Enterprises has helped people buy wire rope, hardware, and fittings for decades. We pride ourselves on having a loyal, long standing, dedicated following in different industries including marine construction, zip lines, adventure parks, cranes, and bridges.
 
 ## About
-Worldwide Enterprises, Inc. was founded in 1996 in East Providence, Rhode Island, as a family-owned and operated distributor of wire rope, cable, and hardware. The company became a member of the Associated Wire Rope Fabricators (AWRF) in its first year and has remained under family ownership since.
+Worldwide Enterprises was founded in 1996 in East Providence, Rhode Island, as a family-owned and operated distributor of wire rope, cable, and hardware. The company began as a supplier to marine and industrial markets and became a member of the Associated Wire Rope Fabricators (AWRF) in its first year.
 
-The company stocks and distributes a broad range of galvanized and stainless steel aircraft cable, wire rope, proof coil chain, and marine and industrial hardware fittings. From its warehouse in East Providence, it ships most orders the same day. Worldwide Enterprises also offers proprietary product lines, including SECURE-MOOR® mooring chain, pyramid and mushroom anchors, and ZIPWIRE® zipline cable designed for faster, quieter operation and extended service life.
+From its warehouse on Commercial Way in East Providence, the company stocks and distributes galvanized and stainless steel aircraft cable, wire rope, proof coil chain, and a range of marine and industrial hardware fittings. It also fabricates wire rope slings and provides rigging services for commercial fishing trawlers and sailboats. Proprietary product lines include SECURE-MOOR® mooring chain and anchors, and ZIPWIRE® zip line cable and hardware, the latter featuring a SuperSwaged option for longer life. Most orders ship the same day.
 
-Its customer base spans commercial fishing, industrial rigging, marine construction, crane and bridge projects, and the experiential sector—including zip lines, adventure parks, and architectural railing. Mooring contractors and marinas rely on the SECURE-MOOR® system for chain and anchor fittings, while rigging companies source materials for fabricating wire rope slings, trawler rigging, and sailboat rigging.
+The customer base spans commercial fishing, industrial, and rigging companies, as well as experiential sectors such as zip lines, canopy tours, and adventure parks. Marine construction firms, marinas, and mooring contractors rely on the SECURE-MOOR® line for mooring systems, while architectural railing and design projects source cable and hardware for structural applications.
 
-The company emphasizes attention to detail and quality service, crediting its experienced sales, warehouse, and office staff for building a loyal, long-standing following. As a family-owned business, Worldwide Enterprises states that its goal is complete customer satisfaction and that it stands behind every product it sells.
+The company emphasizes attention to detail and quality service from an experienced sales, warehouse, and office team. Its stated goal is complete customer satisfaction, backed by a policy of standing behind everything sold. Long-term relationships across multiple industries reflect a focus on reliability and product knowledge.
 
 ## Known for
-- Family-owned and operated since 1996
 - Same-day shipping on most orders from East Providence warehouse
-- Proprietary SECURE-MOOR® mooring chain and anchor systems
-- Proprietary ZIPWIRE® zipline cable for faster, quieter, longer-lasting performance
-- AWRF member since founding
+- Family-owned with experienced staff across sales, warehouse, and office
+- AWRF member since 1996
+- Proprietary SECURE-MOOR® mooring products and ZIPWIRE® zip line cable
+- Wire rope sling fabrication and rigging services for commercial fishing and sailboats
 
 ## Capabilities
-- Wire rope and cable distribution
-- Marine hardware supply
-- Industrial hardware supply
+- Wire rope distribution
+- Marine hardware distribution
+- Industrial hardware distribution
 - Chain distribution
-- Anchor supply
+- Anchor distribution
+- Wire rope sling fabrication
+- Commercial fishing trawler rigging
+- Sailboat rigging
 - Same-day shipping
+- Zip line cable and hardware supply (ZIPWIRE®)
+- Mooring chain and anchor supply (SECURE-MOOR®)
 
 ## Industries
-- Marine construction
-- Zip lines and adventure parks
-- Crane and bridge construction
 - Commercial fishing
-- Industrial rigging
-- Mooring and marina contractors
+- Industrial
+- Experiential (zip lines, adventure parks)
+- Rigging
+- Marine construction
+- Marinas
+- Mooring contractors
 - Architectural railing and design
+
+## Certifications
+- AWRF member
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -563,15 +568,17 @@ The company emphasizes attention to detail and quality service, crediting its ex
 
 <details><summary>Sources</summary>
 
-- Founded 1996, family-owned, AWRF member -> db
-- Headquarters East Providence, Rhode Island -> db
-- Distributes wire rope, cable, marine hardware, industrial hardware, chain, anchors -> /
-- Same-day shipping from East Providence warehouse -> /
-- Proprietary SECURE-MOOR® mooring chain, pyramid & mushroom anchors, fittings -> /
-- Proprietary ZIPWIRE® zipline cable -> /
-- Industries served: commercial fishing, industrial, experiential, rigging, marine construction, zip lines, adventure parks, cranes, bridges, mooring contractors, marinas -> /
-- Experienced sales, warehouse, office staff -> /
-- Goal of complete customer satisfaction, stands behind products -> /
+- Founded 1996 -> db
+- Family-owned and operated -> /
+- Headquarters East Providence, Rhode Island -> db, /
+- Distributor of wire rope, cable, marine hardware, industrial hardware, chains, anchors -> /
+- Same-day shipping from warehouse -> /
+- AWRF member since 1996 -> db, /
+- Brands SECURE-MOOR® and ZIPWIRE® -> /
+- Fabricating wire rope slings, rigging commercial fishing trawlers and sailboat rigging -> /
+- Industries: commercial fishing, industrial, experiential, rigging, marine construction, marinas, mooring contractors, architectural railing -> /, db
+- Materials: galvanized aircraft cable, stainless steel aircraft cable, galvanized wire rope, proof coil chain, stainless steel hardware fittings -> /
+- Warehouse at 70 Commercial Way, E. Providence, RI 02914 -> /
 </details>
 
 ---
@@ -581,46 +588,46 @@ The company emphasizes attention to detail and quality service, crediting its ex
 **Old description:** Wrabacon Incorporated was founded in 1986 to solve a wide variety of automation problems with creativity, ingenuity, and craftsmanship. Since then, we’ve had the opportunity to engineer creative automation solutions for some of the largest brands in America.
 
 ## About
-Founded in 1986 in Oakland, Maine, Wrabacon Inc. began as a provider of custom automation solutions for a wide range of industrial challenges. The company was established to solve automation problems with creativity, ingenuity, and craftsmanship, and has since engineered systems for some of the largest brands in America.
+Wrabacon Inc. was founded in 1986 in Oakland, Maine, a region known for its craftsmanship. The company began with a focus on solving automation challenges through creative engineering.
 
-Wrabacon designs and manufactures custom automated conveyor systems and complete integrated automation solutions. Its capabilities span conveying, accumulating, merging, diverting, pick-and-place, transferring, orienting, stacking, denesting, and lidding operations. The company employs a team of mechanical and electrical engineers who use AutoCAD and SolidWorks 3D modeling, and maintains an in-house panel shop for control system fabrication. Equipment is built from stainless steel, extruded aluminum, and painted steel, with every unit fully assembled and tested before shipment.
+The company designs and manufactures custom automated conveyor systems and equipment, including pick-and-place systems, accumulators, case packers, mergers and diverters, tray handling and stacking systems, and machine vision integration. Its engineering team uses AutoCAD and SolidWorks for 3D modeling, and it operates a panel shop for control systems. Fabrication capabilities cover stainless steel, extruded aluminum, and painted steel, with every system fully assembled and tested before shipment.
 
-The company serves the food, medical, pharmaceutical, automotive, sporting goods, and consumer products industries. Its customer base includes manufacturers seeking to improve throughput or overcome production hurdles, with applications ranging from simple tray stackers to comprehensive sorting, packing, and accumulating systems.
+Wrabacon serves the food, medical, pharmaceutical, automotive, sporting goods, and consumer products industries, providing automation solutions for some of the largest brands in the United States.
 
-Wrabacon differentiates itself through creative custom automation, complete system integration, and a guarantee that every system will perform as specified. The firm emphasizes quality equipment at reasonable cost, leveraging its Northern New England heritage of craftsmanship and innovation.
+The company was started to address a wide variety of automation problems with creativity, ingenuity, and craftsmanship, and it emphasizes guaranteed performance to specification.
 
 ## Known for
-- In-house mechanical and electrical engineering with AutoCAD and SolidWorks 3D modeling
-- Complete panel shop for control system fabrication
-- Fabrication in stainless steel, extruded aluminum, and painted steel
-- Full assembly and testing of every unit before shipment
-- Guaranteed performance to customer specifications
+- Creative custom automation solutions tailored to specific production challenges
+- Complete system integration from design through assembly and test
+- In-house mechanical and electrical/control engineering with 3D CAD (AutoCAD, SolidWorks)
+- Fabrication in stainless steel, aluminum, and painted steel for food and pharmaceutical standards
+- Every system fully assembled and performance-tested before shipment
 
 ## Capabilities
-- Custom automated conveyor systems
-- Automated system integration
-- Conveying systems
-- Machine vision systems
-- Pick and place systems
-- Tray handling systems
-- Tray stacking
-- Bi-flow accumulation
-- Case packing
-- Incline conveying
-- Lidding
-- Merging and diverting
-- Pail denesting
+- Custom automated conveyor system design
+- Pick and place system integration
+- Accumulator systems (bi-flow, vertical)
+- Case packing equipment
+- Incline conveyor manufacturing
+- Lidding systems
+- Merger and diverter systems
+- Pail denesting equipment
 - Rotary table systems
 - Stainless steel conveyor fabrication
-- Table top chain conveyors
-- Tray denesting
-- Vertical accumulation
-- Mechanical and electrical engineering
-- AutoCAD and SolidWorks 3D modeling
-- Control panel fabrication
-- Stainless steel, aluminum, and painted steel fabrication
-- Full assembly and testing
-- Performance guarantee
+- Table top chain conveyor manufacturing
+- Tray denesting systems
+- Tray stacking systems
+- Machine vision integration
+- Tray handling systems
+- Complete system integration
+- Mechanical engineering
+- Electrical and control engineering
+- 3D CAD modeling (AutoCAD, SolidWorks)
+- Panel shop fabrication
+- Stainless steel fabrication
+- Aluminum extrusion fabrication
+- Painted steel fabrication
+- Equipment assembly and testing
 
 ## Industries
 - Food
@@ -629,13 +636,12 @@ Wrabacon differentiates itself through creative custom automation, complete syst
 - Automotive
 - Sporting goods
 - Consumer products
-- Manufacturing
 
 ## Equipment
 - Bi-Flow Accumulators
 - Case Packers
 - Incline Conveyors
-- Lidding systems
+- Lidding
 - Mergers and Diverters
 - Pail Denesters
 - Rotary Tables
@@ -646,8 +652,7 @@ Wrabacon differentiates itself through creative custom automation, complete syst
 - Tray Stackers
 - Pick and Place Systems
 - Machine Vision Systems
-- Conveying Systems
-- Automated Systems
+- Tray Handling Systems
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -656,17 +661,16 @@ Wrabacon differentiates itself through creative custom automation, complete syst
 
 <details><summary>Sources</summary>
 
-- Founded 1986 in Oakland, Maine -> db
-- Designs and manufactures custom automated conveyor systems and integrated automation -> /about-us
-- Engineering team uses AutoCAD and SolidWorks 3D modeling -> /about-us
-- In-house panel shop for control systems -> /about-us
-- Fabricates in stainless steel, extruded aluminum, painted steel -> /about-us
-- Equipment fully assembled and tested before shipment -> /about-us
+- Founded in 1986 -> db
+- Headquarters in Oakland, Maine -> db
+- Designs and manufactures custom automation equipment -> /about-us
 - Serves food, medical, pharmaceutical, automotive, sporting goods, consumer products -> /about-us
-- Provides complete system integration -> /about-us
-- Guarantees system performance as specified -> /about-us
-- Headquarters at 150 Old Waterville Road, Oakland, Maine 04963 -> /
-- LinkedIn URL -> db
+- Uses AutoCAD and SolidWorks for 3D modeling -> /about-us
+- Operates panel shop for control systems -> /about-us
+- Fabricates in stainless steel, extruded aluminum, painted steel -> /about-us
+- Guarantees system performance to specification -> /about-us
+- Equipment lines include Bi-Flow Accumulators, Case Packers, etc. -> /
+- LinkedIn profile -> db
 </details>
 
 ---

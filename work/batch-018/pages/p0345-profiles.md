@@ -3,46 +3,46 @@
 **Old description:** Today, Gehl Food & Beverage produces for top consumer brands and make products that can be found in nearly every retailer, convenience store, concession stand, and health food store across the country.
 
 ## About
-Gehl Food & Beverage operates from Germantown, Wisconsin. The company traces its roots back 130 years, though a specific founding year and founder names are not disclosed in public materials. Ownership structure is not specified.
+Gehl Food & Beverage operates from Germantown, Wisconsin. The company marks more than 130 years in the industry, though a specific founding year is not publicly disclosed. Ownership structure and founder names are not provided in available sources.
 
-The company specializes in low-acid aseptic manufacturing, positioning itself as the most diverse such manufacturer in North America. Its capabilities span aseptic processing, a broad packaging portfolio (including #10 cans, flexible pouches, and bag-in-box dispenser packs), research and development, and a quality assurance system described as nearly pharmaceutical in rigor. The facility employs more than 700 people.
+The company specializes in low-acid aseptic manufacturing, producing shelf-stable food and beverage products such as nutritional drinks, dairy alternatives, cheese sauces, and puddings. Its capabilities include aseptic processing, a wide range of packaging formats (#10 cans, flexible pouches, bag-in-box dispenser packs), research and development, and a quality assurance program described as nearly pharmaceutical in rigor. Gehl employs more than 700 people and claims to be the most diverse low-acid aseptic manufacturer in North America.
 
-Gehl serves global and national consumer brands, foodservice operators launching programs such as nacho cheese dispensers, and retailers developing private-label lines. Product examples include nutritional drinks, dairy alternatives, cheese sauces, and puddings, all rendered shelf-stable for 12 to 18 months without refrigeration.
+Gehl serves global consumer brands, national brands, foodservice operators (such as nacho programs), and retailers launching private-label lines. Its customer base spans the food and beverage sector, with emphasis on dairy and plant-based products.
 
-The company emphasizes its advanced aseptic process that locks in freshness without preservatives or refrigeration, a pharmaceutical-level quality assurance regime with comprehensive processing records, and an R&D function that acts as an extension of client teams using market research to identify growth opportunities.
+The company differentiates itself through its extensive packaging portfolio, high-efficiency distribution system, and a quality system that includes seven-day incubation holds, 100% bottle leak testing, and multiple certifications including BRC, SQF, Halal, Kosher, and Non-GMO Project Verified.
 
 ## Known for
 - Most diverse low-acid aseptic manufacturer in North America
-- Pharmaceutical-level Quality Assurance with comprehensive processing records
-- Advanced aseptic process delivering 12-18 month shelf life without refrigeration
-- Extensive packaging assortment including #10 cans, flexible pouches, bag-in-box dispenser packs
-- R&D acting as extension of client company with market research and evidence-based growth identification
+- Nearly pharmaceutical level of Quality Assurance
+- High-efficiency distribution system for on-time, on-budget launches
+- Extensive packaging formats including #10 cans, flexible pouches, and bag-in-box
+- Seven-day incubation product hold for evaluation
 
 ## Capabilities
 - Aseptic manufacturing
-- Aseptic packaging (cans, pouches, bag-in-box)
+- Aseptic processing
+- Packaging (multiple formats)
 - Research and development
-- Quality assurance and food safety testing
+- Quality assurance
+- Allergen control
 - Microbial analysis
 - pH analysis
 - Seven-day incubation product hold
 - Organoleptic evaluation
 - Total solids-brix monitoring
 - Package integrity evaluation
-- Allergen control programs
 - Product regulatory compliance
-- Distribution system
 
 ## Industries
-- Food and beverage manufacturing
-- Global consumer brands
-- Foodservice (nacho programs)
-- Retail private label
-- Dairy processing
+- Food and beverage
+- Dairy
 - Nutritional drinks
 - Dairy alternatives
 - Cheese sauces
 - Puddings
+- Consumer brands
+- Foodservice
+- Retail private label
 
 ## Certifications
 - British Retail Consortium (BRC) Global Standard
@@ -51,6 +51,8 @@ The company emphasizes its advanced aseptic process that locks in freshness with
 - Kosher
 - Gluten Free
 - Sustainable Seafood
+- Product Regulatory Compliance
+- Food & Drug Administration
 - Non-GMO Project Verified
 - United States Department of Agriculture (USDA)
 - United States Department of Agriculture Organic
@@ -66,22 +68,17 @@ The company emphasizes its advanced aseptic process that locks in freshness with
 
 <details><summary>Sources</summary>
 
-- Germantown, Wisconsin headquarters -> db
-- 700+ employees -> /
-- 130-year history -> /
-- Low-acid aseptic manufacturer claim -> /capabilities
-- Packaging formats (#10 cans, pouches, bag-in-box) -> /capabilities
-- Certifications (BRC, SQF, Halal, Kosher, etc.) -> /quality
-- Industries served (global brands, foodservice, retail) -> /
-- Product examples (nutritional drinks, dairy alternatives, cheese sauces, puddings) -> /capabilities
-- Pharmaceutical-level QA -> /quality
-- Advanced aseptic process 12-18 month shelf life -> /
-- R&D as extension of client company -> /capabilities
-- Allergen control programs -> /quality
-- Seven-day incubation hold -> /quality
-- Microbial analysis, pH analysis, organoleptic evaluation, total solids-brix monitoring, package integrity evaluation -> /quality
-- Distribution system -> /
-- USDA, USDA Organic, state agriculture depts compliance -> /quality
+- Headquarters in Germantown, Wisconsin -> db
+- Employs more than 700 people -> /
+- Celebrates 130 years in the industry -> /
+- Low-acid aseptic manufacturer -> /capabilities
+- Aseptic manufacturing of nutritional drinks, dairy alternatives, cheese sauces, puddings -> /capabilities
+- Packaging formats: #10 cans, flexible pouches, bag-in-box -> /capabilities
+- Research and development expertise -> /capabilities
+- Quality assurance with seven-day incubation hold, 100% bottle leak testing -> /quality
+- Certifications: BRC, SQF, Halal, Kosher, Gluten Free, Sustainable Seafood, Non-GMO Project Verified, USDA, USDA Organic, state agencies -> /quality
+- Serves global brands, national brands, foodservice operators, retailers -> /
+- High-efficiency distribution system -> /capabilities
 </details>
 
 ---
@@ -91,52 +88,62 @@ The company emphasizes its advanced aseptic process that locks in freshness with
 **Old description:** Anna Tanganelli appointed Prysmian’s next Chief Financial Officer
 
 ## About
-General Cable is based in Marion, Indiana, and traces its origins to 1876. The company manufactures cable solutions for transmission, digital solutions, electrification, and power grid applications, including submarine telecom systems and low-carbon aluminum cables for AI infrastructure. It operates globally with a presence in over 50 countries, employing approximately 34,000 people and generating around 20 billion euros in annual sales as of 2025. Its products serve industries such as energy transmission, telecommunications, renewable energy (including wind power), electrification, power grid infrastructure, submarine telecom, and AI data center infrastructure. The company emphasizes low-carbon cable technology and global reach as key differentiators, though it does not publicly state a specific founding mission.
+General Cable, founded in 1876, is headquartered in Marion, Indiana. The company’s web presence directs to the Prysmian Group (prysmian.com), indicating its operation within that global cable manufacturing organization. No founders or ownership structure beyond this affiliation are disclosed in the available sources.
+
+The company supplies a broad portfolio of cable systems and services spanning transmission, digital solutions, electrification, and power grid markets. Prysmian Group, the parent entity, reports 34,000 employees, operations in over 50 countries, and €20 billion in annual sales as of December 2025. Capabilities include submarine telecom cables, low‑carbon aluminum cables for AI infrastructure, and installation services.
+
+Customers come from energy transmission, digital infrastructure, electrification, power grid, and submarine telecommunications sectors. The firm highlights projects such as the Spain‑Ireland interconnection, UK wind power connections serving 1.2 million homes, and hollow‑core fiber for AI‑ready data centres.
+
+Prysmian Group emphasizes an accelerating growth strategy, environmental responsibility, and integrity‑first governance. The acquisition of Xtera and Atkore underscores a focus on expanding submarine telecom and North American market reach. No specific founding mission for General Cable itself is stated.
 
 ## Known for
-- Low-carbon aluminum cables designed to reduce the carbon footprint of AI infrastructure
-- Submarine telecom capabilities expanded through the Xtera acquisition
-- Operations in over 50 countries worldwide
-- Broad portfolio spanning transmission, digital solutions, electrification, and power grid
+- 150 years of industry experience (since 1876)
+- Global footprint in 50+ countries with 34,000 employees
+- €20 billion annual sales (2025)
+- Low‑carbon aluminum cables reducing carbon footprint for AI infrastructure
+- Submarine telecom expansion via Xtera acquisition
 
 ## Capabilities
-- Cable manufacturing
-- Installation services
-- Submarine telecom systems
-- Low-carbon aluminum cable production
-- Transmission solutions
-- Digital solutions
-- Electrification solutions
+- Cable manufacturing for power transmission
+- Digital solutions (including hollow‑core fiber)
+- Electrification products
 - Power grid solutions
+- Submarine telecom cable systems
+- Installation services
+- Low‑carbon aluminum cable production
 
 ## Industries
 - Energy transmission
-- Telecommunications
-- Renewable energy
+- Digital infrastructure
 - Electrification
 - Power grid
-- Submarine telecom
-- AI infrastructure
-- Wind power
+- Submarine telecommunications
+- Energy transition
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1876
 - **Employees:** 34,000
+- **Ownership:** Part of Prysmian Group
 - **Headquarters:** Marion, Indiana
 
 <details><summary>Sources</summary>
 
-- Headquarters in Marion, Indiana -> db
-- Founded in 1876 -> db
-- Operates in over 50 countries -> page "/"
-- 34,000 employees -> page "/"
-- 20 billion euros annual sales (2025) -> page "/"
-- Cable solutions for transmission, digital solutions, electrification, power grid -> page "/"
-- Submarine telecom expansion via Xtera acquisition -> page "/"
-- Low-carbon aluminum cables for AI infrastructure -> page "/"
-- Installation capabilities -> db capabilities
-- Industries: energy transition, submarine telecom -> db industries_served
+- Founded 1876 -> db
+- Headquarters Marion, Indiana -> db
+- Website prysmian.com -> db
+- Prysmian operates in 50+ countries -> page:/
+- 150 years experience -> page:/
+- 34,000 employees -> page:/
+- €20 billion sales 2025 -> page:/
+- Markets: Transmission, Digital Solutions, Electrification, Power Grid -> page:/
+- Submarine telecom via Xtera acquisition -> page:/
+- Low-carbon aluminum cables for AI infrastructure -> page:/
+- Installation capabilities -> db
+- Spain-Ireland interconnection project -> page:/
+- UK wind power for 1.2 million homes -> page:/
+- Hollow-core fiber for AI data centres -> page:/
+- Atkore acquisition -> page:/
 </details>
 
 ---
@@ -146,61 +153,60 @@ General Cable is based in Marion, Indiana, and traces its origins to 1876. The c
 **Old description:** We have provided sheet metal fabrication services since 1992. General Mechanical, Inc. offers installation and fabrication solutions by using advanced technology with decades of cumulative experience to produce quality products, on-time and to specification.
 
 ## About
-General Mechanical, Inc. was founded in 1992 in Anchorage, Alaska. The company began as a sheet metal fabrication shop and has since expanded into HVAC, ductwork, and construction services. Ownership details and founders are not publicly disclosed.
+General Mechanical, Inc. was founded in 1992 in Anchorage, Alaska. The company provides sheet metal fabrication, HVAC, and construction services. Ownership details and founders are not disclosed in the available information.
 
-The firm provides custom metal fabrication using processes that include CNC plasma cutting, welding (SMAW, GTAW, GMAW, FCAW), punching, forming, rolling, shearing up to 1/4-inch plate, and press brake forming on 90-ton and 175-ton machines. It maintains a large inventory of specialty metals such as stainless steel, aluminum, copper, bronze, prefinished architectural metals, and structural shapes. The shop handles projects from design through installation, serving both small repairs and large-scale building projects.
+The shop offers a range of metal forming and welding capabilities, including CNC plasma cutting, shearing up to 1/4-inch plate, 90- and 175-ton press brakes, ironworker punching, vertical band sawing, cold-cut sawing, plate rolling, and various forming equipment. Welding processes cover shielded metal arc, gas tungsten arc, gas metal arc, and flux-cored arc welding, all certified to AWS D1.1. The company maintains a large inventory of specialty metals such as stainless steel, aluminum, copper, bronze, prefinished architectural metals, and structural shapes. Headcount and facility size are not published.
 
-General Mechanical serves the construction industry, HVAC contractors, and ventilation system projects across Alaska. Its customer base includes commercial builders, mechanical contractors, and facility owners requiring ductwork, ventilation, and custom metal components.
+General Mechanical serves the construction industry, focusing on HVAC, ductwork, and ventilation systems for projects ranging from small repairs to large-scale commercial buildings. Customers include contractors and project owners seeking fabrication and installation from design through completion.
 
-The company states its vision is to become a "city on a hill" by following biblical principles and sound business practices, aiming to exceed customer expectations, empower employees, and excel in the industry. It emphasizes quality, value, reliability, and AWS D1.1 certified welding as differentiators.
+The company states its vision is to become a "city on a hill" within the construction industry by following biblical principles and sound business practice, aiming to exceed customer expectations, empower employees through training and safety, and excel in the industry.
 
 ## Known for
-- Advanced technology combined with decades of experience
-- On-time delivery to specification
-- Large inventory of specialty metals
-- Design-to-installation project capability
+- Sheet metal fabrication services since 1992
 - AWS D1.1 certified welding
+- Large inventory of specialty metals in stock
+- Full-service from design to installation
+- Advanced technology with decades of cumulative experience
 
 ## Capabilities
+- Sheet metal fabrication
+- HVAC fabrication and installation
+- Construction services
 - CNC plasma cutting
-- Plasma cutting
-- Welding (SMAW, GTAW, GMAW, FCAW)
-- Punching
-- Forming
-- Rolling
-- Finishing
 - Shearing (up to 1/4" plate)
 - Press brake forming (90 ton, 175 ton)
-- Ironworker
-- Vertical band saw
-- Cold-cut saw
+- Ironworker punching
+- Vertical band sawing
+- Cold-cut sawing
 - Plate rolling
-- HVAC ductwork fabrication
-- Ventilation system fabrication
-- Construction services
+- Metal forming
+- Welding (SMAW, GTAW, GMAW, FCAW)
+- Finishing
+- Design assistance
 - Installation
 
 ## Industries
 - Construction
 - HVAC
-- Ventilation Systems
-- Commercial Construction
+- Ductwork
+- Ventilation systems
 
 ## Equipment
-- CNC plasma cutter
+- CNC plasma cutting machine
 - 90-ton press brake
 - 175-ton press brake
 - Ironworker
-- Punch press
+- Punch
 - Vertical band saw
 - Cold-cut saw
-- Plate roller
+- Plate rolling machine
+- Forming equipment
 
 ## Certifications
 - AWS D1.1
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1992
 - **Headquarters:** Anchorage, Alaska
 
@@ -208,15 +214,15 @@ The company states its vision is to become a "city on a hill" by following bibli
 
 - Founded 1992 -> /
 - Headquarters Anchorage, Alaska -> db
-- Sheet metal fabrication services since 1992 -> /
+- Sheet metal fabrication services -> /
 - Processes: plasma cutting, welding, punching, forming, rolling, finishing -> /
 - Materials: stainless steel, aluminum, steel, brass, copper, galvanized -> /
-- AWS D1.1 welding certification -> /
-- Equipment: CNC plasma cutting, 90 ton and 175 ton press brakes, ironworker, punch, vertical band saw, cold-cut saw, plate rolling -> /
-- Industries: construction, HVAC, ventilation -> /
-- Team members: Matthew Rudisill (President), David Stanfield (VP) -> /about
-- Vision: biblical principles, city on a hill -> /about
+- AWS D1.1 certification -> /
+- Team members: Matthew Rudisill, David Stanfield, etc. -> /about
+- Vision: city on a hill -> /about
 - Large inventory of specialty metals -> /
+- Equipment: CNC plasma cutting, 90 ton and 175 ton press brakes, ironworker, punch, vertical band saw, cold-cut saw, plate rolling -> /
+- Industries: construction, HVAC, ductwork, ventilation -> /
 </details>
 
 ---
@@ -226,52 +232,63 @@ The company states its vision is to become a "city on a hill" by following bibli
 **Old description:** From your first finger food, to helping lower cholesterol, Cheerios has touched the lives, and breakfasts, of millions by spreading heart-healthy cheer since 1941.
 
 ## About
-General Mills traces its roots to 1866 when it began as a flour milling operation in Minneapolis, Minnesota. The company is publicly traded on the New York Stock Exchange under the ticker GIS and has grown into a global food manufacturer headquartered in Minneapolis.
+General Mills traces its roots to 1866 when it began as a flour mill in Minneapolis, Minnesota. The company has since grown into a publicly traded global food manufacturer listed on the New York Stock Exchange under the ticker GIS, with its headquarters remaining in Minneapolis.
 
-Today the company produces a wide range of food categories including breakfast cereal, snacks, meals, refrigerated and frozen dough, baking mixes, premium ice cream, and pet food. Its portfolio encompasses more than 100 brands — among them Cheerios, Blue Buffalo, Betty Crocker, Pillsbury, Old El Paso, Nature Valley, Annie’s, and Progresso — sold in over 100 countries. Approximately 30,000 employees worldwide, supported by a network of farmers and suppliers, operate the manufacturing and distribution system that places products in roughly 90 percent of U.S. households.
+Today the company produces a wide portfolio that includes breakfast cereal, snacks, meals, refrigerated and frozen dough, baking mixes, premium ice cream, and pet food. Its more than 100 brands — among them Cheerios, Annie’s, Old El Paso, Progresso, Blue Buffalo, Pillsbury, Nature Valley, and Betty Crocker — are sold in over 100 countries and found in roughly 90 percent of U.S. households. Operations are supported by a workforce of more than 30,000 employees worldwide alongside a network of farmers and suppliers.
 
-The company serves retail consumers, foodservice operators, and pet owners across the globe. Its products reach everyday households through grocery channels, while brands like Blue Buffalo target the premium pet food segment and Pillsbury supplies refrigerated dough to both retail and foodservice customers. General Mills also partners with school nutrition programs through its foodservice division.
+General Mills serves retail consumers, foodservice operators (including K‑12 school nutrition programs), and pet owners through grocery, mass‑market, and e‑commerce channels. Its products span the cereal, snack, meal, baking, frozen dough, ice cream, and pet‑food categories.
 
-General Mills states its purpose is to make food the world loves in a way that is good for people, pets, communities, and the planet. The company emphasizes attention to each step from ingredient sourcing to final product, aiming to deliver great taste, quality, and value across diverse dietary needs and preferences.
+The company states its purpose is to make food the world loves in a way that is good for people, pets, communities, and the planet. It emphasizes great taste, quality, value, and sustainable sourcing practices such as responsible palm oil procurement.
 
 ## Known for
-- Operates in over 100 countries with products in 90% of U.S. households
-- Portfolio of 100+ brands including Cheerios, Blue Buffalo, Betty Crocker
-- 30,000 employees supported by global farmer and supplier network
-- Publicly traded on NYSE under ticker GIS
+- 100+ brands sold in 100+ countries
+- Products in approximately 90% of U.S. households
+- More than 30,000 employees globally
+- Publicly traded on NYSE (GIS)
+- Sustainable palm oil sourcing
 
 ## Capabilities
-- Breakfast cereal manufacturing
-- Snack production
+- Breakfast cereal production
+- Snack manufacturing
 - Meal preparation
-- Refrigerated and frozen dough processing
+- Refrigerated dough production
+- Frozen dough production
 - Baking mix production
 - Premium ice cream manufacturing
-- Pet food production
+- Pet food manufacturing
+- Foodservice solutions (K-12)
+- Sustainable ingredient sourcing
 
 ## Industries
-- Food manufacturing
-- Consumer packaged goods
+- Breakfast cereal
+- Snacks
+- Meals
+- Refrigerated and frozen dough
+- Baking mixes
+- Premium ice cream
 - Pet food
+- Foodservice (K-12)
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1866
-- **Employees:** 30000
+- **Employees:** More than 30,000
 - **Ownership:** Publicly traded
 - **Headquarters:** Minneapolis, Minnesota
 
 <details><summary>Sources</summary>
 
-- Founded 1866 as flour mill in Minneapolis -> /about-us
-- 30,000 employees globally -> /about-us
+- Founded 1866 as a flour mill in Minneapolis, Minnesota -> /about-us
 - Headquartered in Minneapolis, Minnesota -> /about-us
-- 100+ brands sold in 100+ countries -> /about-us
-- Products in 90% of U.S. households -> /about-us
-- Product categories: breakfast cereal, snacks, meals, refrigerated/frozen dough, baking mixes, premium ice cream, pet food -> /about-us
-- Purpose: make food the world loves -> /about-us
-- Publicly traded on NYSE under GIS -> /about-us
-- LinkedIn URL -> db
+- Publicly traded on NYSE under ticker GIS -> /about-us
+- More than 100 brands sold in over 100 countries -> /about-us
+- Products in approximately 90% of U.S. households -> /about-us
+- More than 30,000 employees globally -> /about-us
+- Makes breakfast cereal, snacks, meals, refrigerated and frozen dough, baking mixes, premium ice cream, pet food -> /about-us
+- Brands include Cheerios, Annie's, Old El Paso, Progresso, Blue Buffalo, Pillsbury, Nature Valley, Betty Crocker -> /about-us
+- Foodservice K-12 solutions -> db
+- Sustainable palm oil sourcing -> /about-us
+- Purpose: make food the world loves, good for people, pets, communities, planet -> /about-us
 </details>
 
 ---
@@ -281,65 +298,59 @@ General Mills states its purpose is to make food the world loves in a way that i
 **Old description:** General Spring has been America's leading automotive leaf spring and suspension authority since 1965
 
 ## About
-General Spring of Kansas City, Inc. operates from New Century, Kansas, in the Kansas City metropolitan area. The company was founded in 1965 by Paul Flood, who envisioned a full-service repair shop specializing in automotive leaf springs. After Flood’s brother Jim took over in 1985 and moved operations to Olathe, the business passed to Jim’s son, Jim Jr., and later to Joe Wallace in 2004. The company remains family-owned and has grown into a national supplier with an 18,000-square-foot facility added in 2014.
+General Spring of Kansas City, Inc. operates from New Century, Kansas, and traces its roots to 1965 when Paul Flood founded the business as a full-service leaf spring repair shop in the Kansas City area.
 
-The company manufactures and supplies leaf springs, coil springs, shackles, U-bolts, shocks, and add-a-leaf kits for a wide range of vehicles. It maintains in-house manufacturing and modification capabilities, allowing customization of stock leaf springs to customer specifications, such as replacing stock clips with metal riveted clips for added strength. General Spring also warehouses products at its Kansas City location and ships from multiple distribution points nationwide, visually inspecting each part before dispatch.
+Today the firm stocks and sells a broad line of suspension components—front and rear leaf springs, coil springs, U-bolts, shackles, shocks, and add-a-leaf kits—for everything from late-model pickups to classic hot rods. It maintains an 18,000-square-foot warehouse in the Kansas City metro and ships from multiple distribution points nationwide. In addition to distributing products from suppliers such as Dayton Parts (Stanley Spring), Universal Group, and APM Auto, General Spring runs an in-house shop that can modify or custom-fabricate leaf springs, including swapping stock clips for riveted metal clips to increase strength.
 
-General Spring serves both DIY enthusiasts and professional suspension repair shops across the automotive aftermarket. Its product line covers light trucks, heavy-duty trucks, SUVs, and off-road vehicles, with specific applications for brands including Chevrolet, Ford, Jeep, Toyota, and Nissan. The company also supports fleet and commercial customers needing heavy-duty suspension upgrades.
+The customer base spans DIY enthusiasts, independent suspension repair shops, and fleet operators. Catalog coverage includes Ford, Chevrolet, Dodge, Jeep, Toyota, and Nissan applications, with specific listings for trucks, SUVs, and older performance vehicles.
 
-General Spring differentiates itself by working exclusively with manufacturers that are full members of the Spring Research Institute, ensuring high quality-control standards. It offers a one-year warranty on all replacement leaf springs, guarantees products meet or exceed OEM specifications, and provides fast shipping—most stocked items ship within 24 hours. The company emphasizes knowledgeable customer support and the ability to customize springs for unique requirements.
+General Spring differentiates itself by working only with manufacturers that belong to the Spring Research Institute, visually inspecting every part before shipment, and backing all replacement leaf springs with a one-year warranty. The company emphasizes that its products meet or exceed OEM specifications and that most stock orders ship within 24 hours, a speed it contrasts with big-box retailers and overseas drop-shippers.
 
 ## Known for
-- Works exclusively with Spring Research Institute (SRI) member manufacturers
-- Visually inspects every part before shipping
-- One-year warranty on all replacement leaf springs
+- Exclusive one-year warranty on all replacement leaf springs
 - Products meet or exceed OEM specifications
-- In-house manufacturing and modification for custom spring configurations
-- Most stocked items ship within 24 hours
+- In-house manufacturing and modification capabilities for custom leaf springs
+- Same-day shipping on stocked items (24 hours)
+- Work exclusively with Spring Research Institute (SRI) member manufacturers
+- Visual inspection of all parts before shipping
 
 ## Capabilities
-- Leaf spring manufacturing
-- Coil spring manufacturing
-- Shackle manufacturing
-- U-bolt manufacturing
-- Shock and strut supply
-- Add-a-leaf kit assembly
-- Suspension part customization
-- Quality inspection
+- Leaf spring manufacturing and modification
+- Custom leaf spring fabrication
+- Leaf spring inspection and quality control
 - Warehousing and distribution
-- Custom leaf spring modification
+- Expedited shipping (24-hour)
+- Suspension repair services
+- Add-a-leaf kit installation
+- U-bolt and shackle replacement
 
 ## Industries
 - Automotive aftermarket
-- Light truck
-- Heavy-duty truck
-- SUV
-- Off-road
-- Suspension repair
+- Truck and SUV suspension
+- Classic car and hot rod restoration
+- Suspension repair professionals
+- DIY automotive enthusiasts
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Distributor / reseller
 - **Founded:** 1965
-- **Ownership:** Family-owned
+- **Ownership:** Private
 - **Headquarters:** New Century, Kansas
 
 <details><summary>Sources</summary>
 
-- Founded in 1965 by Paul Flood -> /about-us
-- Family ownership succession (Jim Flood, Jim Jr., Joe Wallace) -> /about-us
+- Founded 1965 by Paul Flood -> /about-us
 - Headquarters in New Century, Kansas -> db
-- 18,000-square-foot facility added in 2014 -> /about-us
+- 18,000-square-foot facility since 2014 -> /about-us
 - In-house manufacturing and modification capabilities -> /
-- Customization of stock leaf springs (e.g., riveted clips) -> /
-- Warehousing at Kansas City location and shipping from multiple distribution points -> /about-us
-- Visual inspection of all parts before shipping -> /
+- Work with SRI member manufacturers -> /
 - One-year warranty on replacement leaf springs -> /
-- Products meet or exceed OEM specifications -> /
-- Work exclusively with Spring Research Institute (SRI) member manufacturers -> /
-- Fast shipping: most items within 24 hours -> /
-- Serves DIY enthusiasts and suspension repair professionals -> /
-- Brands served: Chevrolet, Ford, Jeep, Toyota, Nissan -> /about-us
-- Product range: leaf springs, coil springs, shackles, U-bolts, shocks, add-a-leaf kits -> /, /about-us
+- 24-hour shipping on most items -> /
+- Serve DIY enthusiasts and suspension repair professionals -> /
+- Products for Ford, Chevrolet, Dodge, imports, SUVs, hot rods -> /
+- Brands: Chevrolet, Ford, Jeep, Toyota, Nissan -> /about-us
+- Suppliers: Dayton Parts, Universal Group, APM Auto -> /about-us
+- Family ownership history: Paul Flood, Jim Flood, Jim Jr., Joe Wallace -> /about-us
 </details>
 
 ---
@@ -349,42 +360,39 @@ General Spring differentiates itself by working exclusively with manufacturers t
 **Old description:** Since 1978 General Woodworking has been providing the highest quality woodworking to General Contractors and end users throughout New England.
 
 ## About
-General Woodworking Inc was founded in 1978 in Lowell, Massachusetts, as a family-owned business. The company is owned by John Thompson, Sara Axon, and Dan Thompson, and has served general contractors and end users across New England for over four decades.
+General Woodworking Inc. is a family-owned architectural millwork manufacturer based in Lowell, Massachusetts. Founded in 1978, the company has served general contractors and end users across New England for over four decades. Current ownership is held by John Thompson, Sara Axon, and Dan Thompson, who oversee a management team that includes project engineers, sales, and inside sales staff.
 
-The firm operates a 46,300-square-foot, solar-powered manufacturing facility in historic Lowell, where it produces architectural millwork and decorative laid-up panels. Its capabilities span complete project execution—from design and engineering to AWI QCP-certified fabrication—and it holds FSC® Chain-of-Custody certification (FSC® C106456) for responsibly sourced lumber and veneer. The staff includes numerous employees with 20 to 30 years of tenure, preserving deep institutional knowledge.
+The firm operates a 46,300-square-foot, solar-powered manufacturing facility where it produces custom architectural millwork and decorative laid-up panels for industry partners. Capabilities span project management from design through installation, with drafting performed to AWI Quality Certification Program (QCP) standards. The shop holds AWI QCP certification, FSC® Chain-of-Custody certification (FSC® C106456) for responsibly sourced lumber and veneer, and is equipped to meet LEED v4 requirements. A notable portion of the workforce has remained with the company for 20 to 30 years, preserving institutional knowledge.
 
-General Woodworking primarily serves general contractors, commercial construction firms, and design professionals throughout New England. It also supplies decorative panels to industry partners and supports projects pursuing LEED v4 certification. Typical engagements include custom casework, architectural millwork packages, and interior woodwork for institutional and commercial spaces.
+Primary customers include general contractors, commercial construction firms, and end users throughout New England. The company also supplies laid-up panels to other woodworking industry partners. Projects range from institutional and commercial interiors to custom residential work, all managed from initial engineering to final delivery.
 
-The company emphasizes fair pricing, reasonable lead times, and environmental stewardship through its solar array and FSC-certified materials. Its differentiation rests on a stable, experienced workforce and adherence to AWI quality standards, which the ownership says ensures consistent, high-quality output.
+General Woodworking emphasizes fair pricing, exceptional quality, and reasonable lead times as core differentiators. Its investment in solar power and FSC certification reflects a commitment to reducing environmental impact, while the long-tenured staff ensures consistency and deep expertise on complex millwork projects.
 
 ## Known for
-- Family-owned with fair pricing and reasonable lead times
-- 46,300 sq ft solar-powered manufacturing facility
-- AWI QCP certified for exacting architectural woodwork standards
-- FSC® Chain-of-Custody certified (FSC® C106456) for responsible material sourcing
-- Long-tenured staff (20–30 years) retaining institutional knowledge
+- Family-owned with a focus on fair pricing, exceptional quality, and reasonable lead times
+- 46,300 sq. ft. solar-powered manufacturing facility in Lowell, MA
+- AWI QCP certified for architectural millwork standards
+- FSC® COC certified (FSC® C106456) for responsibly harvested lumber and veneer
+- Workforce retention with many employees at 20+ years and some at 30+ years
 
 ## Capabilities
-- Architectural millwork
+- Architectural millwork (custom)
 - Decorative laid-up panels
-- Custom casework
-- Project design and engineering to AWI QCP standards
+- Project management (design through installation)
+- Drafting to AWI QCP standards
 - LEED v4 compliance support
-- FSC-certified material sourcing
-- Complete project fabrication and installation coordination
 
 ## Industries
-- General contractors
-- Commercial construction
 - Architectural millwork
-- Interior design and fit-out
-- LEED-certified projects
-- Institutional and commercial interiors
+- Commercial construction
+- General contractors
+- End users (residential and commercial)
+- Woodworking industry partners
 
 ## Certifications
 - AWI QCP
-- FSC COC (FSC® C106456)
-- LEED
+- FSC® COC (FSC® C106456)
+- LEED v4
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -395,18 +403,16 @@ The company emphasizes fair pricing, reasonable lead times, and environmental st
 <details><summary>Sources</summary>
 
 - Founded 1978 -> db
-- Family-owned business -> /about
-- 46,300 sq ft solar-powered facility in Lowell, MA -> /about
-- Capabilities: decorative laid-up panels, architectural millwork projects -> /about
-- AWI QCP certified -> /about
-- FSC COC certified (FSC C106456) -> /about
-- LEED V4 requirements support -> /about
-- Ownership: John Thompson, Sara Axon, Dan Thompson -> /about
-- Management team names listed -> /about
-- Employees retained 20-30 years -> /about
-- Serves General Contractors and end users throughout New England -> /
 - Headquarters Lowell, Massachusetts -> db
-- Certifications: LEED -> db
+- Family-owned business -> /about
+- 46,300 sq. ft. solar-powered manufacturing facility -> /about
+- Capabilities: decorative laid-up panels, architectural millwork projects start to finish -> /about
+- AWI QCP certified -> /about
+- FSC® COC certified (FSC® C106456) -> /about
+- LEED v4 requirements -> /about
+- Ownership: John Thompson, Sara Axon, Dan Thompson -> /about
+- Employees with 20-30 year tenure -> /about
+- Serves general contractors and end users throughout New England -> /
 - LinkedIn URL -> db
 </details>
 
@@ -417,29 +423,29 @@ The company emphasizes fair pricing, reasonable lead times, and environmental st
 **Old description:** Gentry Plastics' 40,000 square foot facility in Gastonia, NC is equipped with leading edge equipment for plastics manufacturing.
 
 ## About
-Gentry Plastics operates a 40,000-square-foot facility in Gastonia, North Carolina, where it runs a full tool-building shop and 15 injection molding machines with 55 to 1,000 tons of clamping force. The plant runs three shifts and holds ISO 9001:2015 certification. A recent expansion has increased capacity, and a delivery truck supports local customers. The facility is equipped with leading-edge equipment for plastics manufacturing.
+Gentry Plastics, Inc. operates a 40,000-square-foot plastics manufacturing facility in Gastonia, North Carolina. The company runs a full tool-building shop and 15 injection molding machines ranging from 55 to 1,000 tons of clamping force, operating across three shifts to serve regional and national customers.
 
-The company provides injection molding, overmolding, plastic machining, sonic welding, assembly, and pack-out services. A dedicated customer service department manages projects from concept through production, positioning the firm as a one-stop plastic parts manufacturer. The in-house tool shop enables mold design and fabrication, while the range of press sizes accommodates both small and large components. Sonic welding and overmolding capabilities allow for complex multi-material assemblies.
+Its core capabilities include injection molding, overmolding, sonic welding, plastic machining, assembly, and pack-out services. A dedicated customer service department manages projects from initial design through production, and a company-owned delivery truck supports local clients. The plant recently underwent an expansion to increase capacity.
 
-Customers span aerospace, agricultural, appliance, automotive, electronics, marine, military, packaging, and plumbing sectors, as well as metal-replacement and custom applications. The company serves both original equipment manufacturers and tier suppliers across these industries, offering a single source for plastic component production.
+The manufacturer serves a diverse industrial base spanning aerospace, agricultural equipment, appliances, automotive, electronics, marine, military, packaging, plumbing, and metal-replacement applications. Customers also include custom projects outside these categories.
+
+Gentry Plastics positions itself as a one-stop plastic parts manufacturer, emphasizing end-to-end project management from concept to finished goods. ISO 9001:2015 certification underpins its quality system.
 
 ## Known for
 - Full in-house tool building shop
-- 15 injection molding machines up to 1,000 tons
-- Three-shift operation
-- Local delivery truck
-- Dedicated customer service department
-- ISO 9001:2015 certified
+- 15 injection molding machines up to 1,000-ton capacity
+- Three-shift production schedule
+- Local delivery via company truck
+- ISO 9001:2015 certified quality system
 
 ## Capabilities
-- Injection molding
+- Injection molding (55–1,000 ton)
+- Tool building
 - Overmolding
-- Plastic machining
 - Sonic welding
+- Plastic machining
 - Assembly
 - Pack-out
-- Tool building
-- 3-shift production
 
 ## Industries
 - Aerospace
@@ -448,15 +454,14 @@ Customers span aerospace, agricultural, appliance, automotive, electronics, mari
 - Automotive
 - Electronics
 - Marine
-- Metal Replacement
+- Metal replacement
 - Military
 - Packaging
 - Plumbing
+- Custom
 
 ## Equipment
-- 15 injection molding machines (55-1000 ton)
-- Full tool building shop
-- Delivery truck
+- 15 injection molding machines (55–1,000 ton)
 
 ## Certifications
 - ISO 9001:2015
@@ -467,20 +472,18 @@ Customers span aerospace, agricultural, appliance, automotive, electronics, mari
 
 <details><summary>Sources</summary>
 
-- 40,000 sq ft facility in Gastonia, NC -> pages['/']
-- Full tool building shop -> pages['/']
-- 15 injection molding machines, 55-1000 ton -> pages['/']
-- Three shifts -> pages['/']
-- ISO 9001:2015 certification -> pages['/']
-- Recent expansion -> pages['/']
-- Delivery truck for local customers -> pages['/']
-- Dedicated customer service department -> pages['/']
-- Injection molding, overmolding, plastic machining, sonic welding, assembly, pack-out -> pages['/']
-- Manages projects from concept to production -> pages['/']
-- Industries: aerospace, agricultural, appliances, automotive, electronics, marine, military, packaging, plumbing, metal replacement -> pages['/']
-- Headquarters city/state -> db
-- Certifications ISO9001 -> db
-- Capabilities list -> db
+- 40,000 sq ft facility in Gastonia, NC -> /
+- 15 injection molding machines, 55-1000 ton capability -> /
+- Full tool building shop -> /
+- Processes: injection molding, overmolding, sonic welding, plastic machining, assembly, pack-out -> /
+- 3 shifts operation -> /
+- Delivery truck for local customers -> /
+- Recent expansion -> /
+- Dedicated customer service department -> /
+- ISO 9001:2015 certification -> /
+- Industries served: Aerospace, Agricultural, Appliances, Automotive, Electronics, Marine, Metal Replacement, Military, Packaging, Plumbing, Custom -> /
+- Headquarters: Gastonia, North Carolina -> db
+- Certification: ISO9001 -> db
 </details>
 
 ---
@@ -490,34 +493,33 @@ Customers span aerospace, agricultural, appliance, automotive, electronics, mari
 **Old description:** Gentuity was founded by members of the original LightLab team who helped pioneer the first-generation OCT systems used in cath labs worldwide. With decades of experience advancing intravascular imaging, they set out to develop the next generation of OCT technology to address the limitations of traditional systems.
 
 ## About
-Gentuity, LLC is based in Sudbury, Massachusetts. The company was founded by veterans of the original LightLab team that pioneered the first-generation optical coherence tomography (OCT) systems used in catheterization laboratories worldwide. Drawing on decades of experience advancing intravascular imaging, the founders set out to develop a next-generation OCT platform that would overcome the limitations of traditional systems.
+Gentuity, LLC is based in Sudbury, Massachusetts. The company was founded by alumni of the original LightLab team, the group that pioneered the first-generation optical coherence tomography (OCT) systems deployed in catheterization laboratories worldwide. Drawing on decades of experience in intravascular imaging, the founders set out to overcome the limitations of traditional OCT technology.
 
-Gentuity develops and manufactures the HF-OCT Imaging System paired with the Vis-Rx PRIME Micro-Imaging Catheter, a 1.8 French ultra-low-profile device designed to access small, tortuous, and complex coronary vessels. The high-frequency OCT technology captures a full-length coronary image in a single one-second pullback, delivering a comprehensive view of the artery. The system is designed for plug-and-play integration into existing cath lab workflows without the need for sterile bags. No facility size, headcount, or volume figures are disclosed.
+The company develops and manufactures the HF-OCT Imaging System paired with the 1.8F Vis-Rx PRIME Micro-Imaging Catheter. The high-frequency OCT platform captures rapid, full-length coronary imaging in a single one-second pullback, delivering high-resolution views of vessel anatomy. The system is designed for plug-and-play integration into existing cath lab workflows without requiring sterile bags.
 
-The technology targets interventional cardiologists performing percutaneous coronary intervention (PCI) for coronary artery disease. Clinical case studies highlight use at institutions such as Tampa General Hospital and The Christ Hospital. In 2026, Gentuity announced that its advanced intravascular imaging solutions would become available in the United States through a distribution partnership with GE HealthCare. Industries served include interventional cardiology, cardiovascular medical devices, and cath lab equipment.
+Gentuity serves interventional cardiologists and hospital catheterization labs focused on complex percutaneous coronary intervention (PCI) procedures. Clinical case studies feature physicians from Tampa General Hospital and The Christ Hospital. In the United States, the company's advanced intravascular imaging solutions are distributed through a partnership with GE HealthCare.
 
-The company states its mission is to "cross new frontiers in cardiovascular care so patients can focus on living," emphasizing that clearer visualization leads to more informed treatment decisions. Gentuity differentiates itself with the Vis-Rx catheter's ultra-low profile, rapid one-second imaging, and workflow simplicity, aiming to provide confidence at every step of complex PCI procedures.
+The venture was launched to address the shortcomings of conventional OCT systems, aiming to provide complete vessel visualization and real-time insights that enable confident treatment planning. By combining expertise in optics, software, and interventional cardiology, Gentuity seeks to simplify complex procedures and advance cardiovascular innovation in line with international guidelines.
 
 ## Known for
-- 1.8F ultra-low-profile catheter for small, tortuous vessels
-- Full-length coronary imaging in a single one-second pullback
-- Plug-and-play system integration without sterile bags
-- High-frequency OCT (HF-OCT) technology
+- High-frequency OCT (HF-OCT) imaging technology
+- Ultra-low-profile 1.8F Vis-Rx PRIME micro-imaging catheter
+- Single-pullback, full-length coronary imaging in one second
+- Plug-and-play cath lab integration without sterile bags
 - U.S. distribution partnership with GE HealthCare
 
 ## Capabilities
-- High-frequency OCT (HF-OCT) imaging system development
-- Ultra-low-profile catheter design and manufacturing
-- Intravascular imaging technology R&D
-- Clinical case study research and publication
+- HF-OCT imaging system manufacturing
+- Micro-imaging catheter manufacturing (1.8F Vis-Rx PRIME)
+- Intravascular imaging technology development
+- Clinical case study support
 - Physician education and training resources
 
 ## Industries
-- Interventional cardiology
-- Coronary artery disease treatment
-- Percutaneous coronary intervention (PCI)
-- Catheterization laboratory equipment
 - Cardiovascular medical devices
+- Interventional cardiology
+- Medical imaging
+- Percutaneous coronary intervention (PCI)
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -525,19 +527,16 @@ The company states its mission is to "cross new frontiers in cardiovascular care
 
 <details><summary>Sources</summary>
 
-- Company name Gentuity, LLC -> db
-- Headquarters Sudbury, Massachusetts -> db
+- Headquarters in Sudbury, Massachusetts -> db
 - Founded by original LightLab team members -> /about-us
-- Pioneered first-generation OCT systems -> /about-us
-- Decades of experience advancing intravascular imaging -> /about-us
-- Developed next-generation HF-OCT technology -> /about-us
-- Product: HF-OCT Imaging System with Vis-Rx PRIME Micro-Imaging Catheter (1.8F) -> /
-- Features: ultra-low-profile access, full-length imaging in one second, plug-and-play integration -> /
-- Partnership with GE HealthCare for US distribution -> /
-- Clinical case studies with Dr. Hiram Bezerra and Dr. Timothy Henry -> /
+- Develops HF-OCT Imaging System and 1.8F Vis-Rx PRIME Micro-Imaging Catheter -> /
+- Single-pullback full-length imaging in one second -> /
+- Plug-and-play integration without sterile bags -> /
+- Partnership with GE HealthCare for U.S. distribution -> /
+- Clinical case studies from Tampa General Hospital and The Christ Hospital -> /
+- Mission to address limitations of traditional OCT systems -> /about-us
 - Trademarks: HF-OCT, One Second Imaging, Vis-Rx -> /
-- Mission: cross new frontiers in cardiovascular care -> /about-us
-- Leadership team expertise in interventional cardiology, intravascular imaging, medical device innovation -> /about-us
+- Copyright 2026 Gentuity, LLC -> /
 </details>
 
 ---
@@ -547,35 +546,36 @@ The company states its mission is to "cross new frontiers in cardiovascular care
 **Old description:** is a privately held family-owned business. The parent company of two wholly owned divisions that excel in the manufacture of performance fabrics. First established in 1909 with the founding of the George C. Moore Company, manufacturer of stretch and rigid narrow fabric (woven and knit), and
 
 ## About
-George C. Moore, a family-owned manufacturer of narrow elastic fabrics and rigid webbing, traces its roots to 1909 when George C. Moore founded the company in Westerly, Rhode Island. The business remains privately held and operates as the parent of two wholly owned divisions: the original George C. Moore Company, focused on stretch and rigid narrow fabrics (woven and knit), and Darlington Fabrics, which produces stretch and rigid wide warp‑knit fabrics.
+George C. Moore operates from Westerly, Rhode Island, where the company was founded in 1909 as the George C. Moore Company. The business remains a privately held, family-owned enterprise and serves as the parent of two wholly owned divisions: George C. Moore Company, which produces stretch and rigid narrow fabrics in woven and knit constructions, and Darlington Fabrics, which manufactures stretch and rigid wide warp knit fabrics.
 
-Today the company runs a U.S. headquarters in Westerly that houses sales, engineering, design, R&D, and technical support, while a 2006 investment created a vertical weaving and knitting facility in American Park Free Zone, El Salvador. That plant produces elastics and webbings from ¼ inch to 12 inches wide and includes in‑house dyeing and finishing, rotary printing, cutting and sewing, performance finishes, and custom packaging. Two dedicated research and development divisions support new product development and custom design for brands.
+The company manufactures narrow elastic fabrics and rigid webbings for a range of end uses. Its U.S. headquarters in Westerly houses sales, engineering, design, research and development, and technical support, while a vertical weaving and knitting facility established in 2006 in American Park Free Zone, El Salvador, handles production from ¼-inch to 12-inch widths. That site also provides in-house dyeing and finishing, rotary printing, cutting and sewing, performance finishes, and customized packaging.
 
-The company serves a broad range of end markets, including swim, dance, and yoga apparel; underwear waistbands and trims; ballistic protection for military uniforms and law‑enforcement body armor; work apparel and flame‑resistant uniforms; safety and industrial protective equipment; team‑sports gear such as goggles, pads, and helmets; performance compression and activewear; and orthopedic, medical, and stretch‑loop products requiring latex‑free, hook‑receptive surfaces.
+Customers span swim, dance, and yoga apparel; underwear waistbands and trims; ballistic protection for military and law enforcement; flame-resistant work uniforms; safety and industrial webbing; team sports gear such as goggles and pads; performance compression and activewear; and orthopedic and medical products including latex-free, hook-receptive, and plush-surface elastics.
 
-George C. Moore emphasizes continual innovation and customer support as its founding premise, citing competitive pricing, consistent quality, and on‑time delivery as reasons it has remained a preferred supplier for over 110 years. Sustainability initiatives have cut heating and cooling energy use by 35%, lighting energy by 40%, and water‑usage ratio by 44%, while recycling programs reuse wooden pallets, cardboard, and plastic bags.
+The founding premise of “providing continual innovation and support to our valued customers” has guided the company for over 110 years. It emphasizes competitive pricing, consistent quality, and on-time delivery, backed by two R&D divisions and sustainability programs that have cut heating and cooling energy by 35%, lighting energy by 40%, water usage by 44%, and achieved recycling rates of 33% for wooden pallets, 15% for corrugated boxes, and 100% for plastic process bags.
 
 ## Known for
-- Two dedicated R&D divisions for narrow elastic innovation
-- Vertical manufacturing in El Salvador with in-house dyeing, finishing, rotary printing, and sewing
-- Over 110 years as a family-owned narrow fabric manufacturer
-- Energy consumption reduced 35% in heating/cooling and 40% in lighting since recent upgrades
-- Water usage ratio reduced 44% through process optimization
+- Preferred market leader for over 110 years
+- Vertical weaving and knitting operation in El Salvador (¼"–12" width)
+- In-house dyeing, finishing, rotary printing, cutting, sewing, and packaging
+- Two dedicated R&D divisions for new elastic and webbing development
+- Documented energy, water, and waste reductions (35–44% cuts, high recycling rates)
 
 ## Capabilities
-- Narrow elastic weaving
-- Narrow elastic knitting
-- Wide warp knit fabric manufacturing
+- Narrow elastic fabric manufacturing (woven and knit)
+- Rigid narrow fabric manufacturing (woven and knit)
+- Wide warp knit fabric manufacturing (Darlington Fabrics)
+- Rigid webbing manufacturing
 - Dyeing and finishing
 - Rotary printing
 - Cutting and sewing
-- Performance finishes application
-- Custom packaging
-- Design and engineering support
+- Performance finishes (flame resistant, technical)
+- Customized packaging
 - Research and development
+- Design and engineering support
 - Technical consultation
-- Jacquard elastic production
-- Printed elastic production
+- Manufacturing consultation
+- Quality assurance
 
 ## Industries
 - Swimwear
@@ -588,38 +588,41 @@ George C. Moore emphasizes continual innovation and customer support as its foun
 - Work apparel
 - Uniforms
 - Safety equipment
-- Industrial protective equipment
-- Team sports equipment
+- Industrial webbing
+- Team sports
 - Performance compression
 - Active apparel
-- Orthopedic medical
-- Stretch loop medical
+- Orthopedic
+- Medical
+- Stretch loop
 
 ## Equipment
-- Vertical weaving lines
-- Vertical knitting lines
-- Rotary printing equipment
+- Vertical weaving machines
+- Knitting machines
 - Dyeing and finishing equipment
+- Rotary printing equipment
 - Cutting and sewing equipment
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1909
-- **Ownership:** Family-owned, privately held
+- **Ownership:** Family-owned
 - **Headquarters:** Westerly, Rhode Island
 
 <details><summary>Sources</summary>
 
-- Founded 1909 in Westerly, Rhode Island -> /about-us
-- Family-owned, privately held parent of two divisions (George C. Moore Company and Darlington Fabrics) -> /about-us
-- US headquarters in Westerly with sales, engineering, design, R&D, technical support -> /about-us
-- El Salvador facility established 2006 in American Park Free Zone, vertical weaving/knitting, 1/4" to 12" width -> /about-us
-- In-house dyeing & finishing, rotary printing, cutting & sewing, performance finishes, custom packaging -> /about-us
-- Two R&D divisions for innovation and custom design -> /about-us
-- Industries served: swim/dance/yoga, underwear, ballistic protection, work apparel, safety/industrial, team sports, performance compression, orthopedic/medical/stretch loop -> /
-- Sustainability: 35% energy reduction heating/cooling, 40% lighting, 33% equipment, 22% fuel oil; 44% water usage reduction; recycling of pallets, cardboard, plastic bags -> /about-us
-- Company describes itself as 'leading manufacturer of narrow elastic fabric and rigid webbing in the Western Hemisphere' -> /
-- Headquarters city/state from database -> db
+- Founded 1909 -> /about-us
+- Headquartered Westerly, Rhode Island -> /about-us
+- Privately held family-owned business -> /about-us
+- Two divisions: George C. Moore Company and Darlington Fabrics -> /about-us
+- El Salvador facility since 2006, American Park Free Zone -> /about-us
+- Vertical weaving/knitting, 1/4" to 12" width -> /about-us
+- In-house dyeing & finishing, rotary printing, cutting & sewing, performance finishes, packaging -> /about-us
+- Industries: swim/dance/yoga, underwear, ballistic protection, work apparel, safety/industrial, team sports, performance compression/active, orthopedic/medical/stretch loop -> /
+- Sustainability metrics: 35% heating/cooling, 40% lighting, 33% equipment energy reduction; 44% water reduction; recycling rates -> /about-us
+- R&D divisions mentioned -> /
+- Latex-free, hook receptive, plush surfaces -> /
+- Flame resistant finishes -> /
 </details>
 
 ---
@@ -629,46 +632,47 @@ George C. Moore emphasizes continual innovation and customer support as its foun
 **Old description:** George’s apparel in Manchester, NH is your source for tailored clothing. For over 30 years we have been outfitting men for work, weddings, proms, and special events. You can be sure to find what you are looking for here.
 
 ## About
-George's Apparel has operated in Manchester, New Hampshire, for over three decades. The business occupies a corner location on Elm Street and Central Avenue, serving customers from across New England. No founding year, ownership structure, or founder names are disclosed in the company's public materials.
+Founded more than 30 years ago, George's Apparel has operated continuously from its Manchester, New Hampshire location, serving clients throughout New England. The retailer occupies a storefront at the corner of Elm Street and Central Avenue, though specific ownership structure and founder names are not disclosed.
 
-The shop functions as a traditional haberdashery, retailing men's formal wear including suits, jackets, dress shirts, and footwear. It carries brands such as Ralph Lauren, Calvin Klein, S. Cohen, Mantoni, Michael Kors, and Hart Schaffner & Marx, along with footwear from Florsheim, Clarks, Johnston & Murphy, and Bostonian. A fully staffed tailor shop provides alterations on garments purchased in-store as well as on items brought in from elsewhere. A dedicated wedding shop assists entire wedding parties with suit and tuxedo selection.
+The store carries an extensive selection of suits, jackets, dress shirts, and footwear sourced from manufacturers such as Ralph Lauren, Calvin Klein, S. Cohen, Mantoni, Michael Kors, and Hart Schaffner Marx, along with footwear lines from Florsheim, Clarks, Johnston & Murphy, and Bostonian. A fully staffed tailor shop handles alterations for items purchased on-site as well as garments brought in from other retailers, supported by a sales team whose combined experience spans over 200 years.
 
-The primary clientele consists of individual consumers seeking attire for work, weddings, proms, and other special events. The wedding shop specifically serves engaged couples and their parties. The company notes a long-standing customer base, with many patrons returning over a lifetime.
+The clientele ranges from professionals needing workwear to wedding parties and students attending proms, with the company noting a focus on special-occasion attire across the New England area.
 
-George's Apparel differentiates itself through an emphasis on personal service in a traditional haberdashery setting. The company highlights over 300 years of combined experience among its sales staff and positions its in-person approach as a contrast to online shopping.
+George's Apparel positions itself as a traditional haberdashery, emphasizing personalized service, on-site tailoring, and a curated designer inventory as alternatives to online shopping.
 
 ## Known for
-- Over 30 years serving New England clients
-- Over 300 years of combined staff experience
-- Fully staffed on-site tailor shop
-- Dedicated wedding shop for party outfitting
-- Wide selection of recognized brand-name suits and footwear
+- On-site tailor shop for alterations on purchased and external garments
+- Extensive designer inventory from brands such as Ralph Lauren, Calvin Klein, and Hart Schaffner Marx
+- Sales staff with over 200 years of combined experience
+- Wedding-specific service through dedicated Wedding Shoppe
+- Central Manchester location with ample parking
 
 ## Capabilities
-- Men's formal wear retail
-- Tailoring and alterations
-- Wedding party attire consultation
-- Footwear sales
+- Tailoring
+- Alterations
+- Formal wear retail
+- Wedding attire consulting
+- Footwear retail
 
 ## Industries
-- Men's apparel retail
-- Wedding attire services
-- Formal wear retail
+- Men's formal wear
+- Wedding attire
+- Apparel retail
 
 ## Company details
 - **Company Type:** Retailer
-- **Headquarters:** Manchester, New Hampshire
+- **Headquarters:** Manchester, NH
 
 <details><summary>Sources</summary>
 
 - Location: Manchester, NH -> db
-- Over 30 years in business -> /, /about-us
-- Over 300 years combined staff experience -> /about-us
-- Brands carried (Ralph Lauren, Calvin Klein, etc.) -> /about-us
-- Fully staffed tailor shop offering alterations -> /
-- Wedding shop for wedding party attire -> /about-us
-- Footwear brands (Florsheim, Clarks, etc.) -> /about-us
-- Serves customers across New England -> /about-us
+- Over 30 years in business -> /
+- Tailoring and alterations service -> /
+- Carries brands: Ralph Lauren, Calvin Klein, S. Cohen, Mantoni, Michael Kors, Hart Schaffner Marx, Florsheim, Clarks, Johnston & Murphy, Bostonian -> /about-us
+- Staff combined experience over 200 years -> /
+- Serves New England clients -> /about-us
+- Wedding Shoppe service -> /about-us
+- Single location at 675 Elm Street -> /
 </details>
 
 ---

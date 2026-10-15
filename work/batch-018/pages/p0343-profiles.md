@@ -3,39 +3,39 @@
 **Old description:** Since 2008, Our Goals Have Been Simple. Provide Quality Renewable Energy Systems That Our Customers Can Rely On.
 
 ## About
-GAI Energy, based in Flora, Indiana, was founded in 2008 by electrical engineers Chris Rohaly and Neal Rhodes in nearby Kokomo. The company, now led by CEO Cindy Rohaly, CTO Chris Rohaly, and COO Lamar Sledge, began with a mission to deliver high-quality renewable energy systems to the Hoosier state.
+GAI Energy, based in Flora, Indiana, was founded in 2008 when two electrical engineers, Chris Rohaly and Neal Rhodes, combined their 60 years of electrical design and troubleshooting experience to launch a renewable energy venture in Kokomo. The company now operates from Flora, serving north central Indiana.
 
-The firm operates as an EPC (engineering, procurement, and construction) contractor specializing in turnkey solar photovoltaic and battery storage installations, as well as microgrid systems. Its in-house team handles design, permitting, procurement, construction, and ongoing operations and maintenance. To date, the company has installed more than 14.5 megawatts of capacity across projects ranging from kilowatt-scale to megawatt-scale systems.
+As an EPC solar contractor, GAI Energy delivers turnkey commercial and industrial solar plus battery storage systems. The firm handles every stage in-house — from engineering and permitting to installation and ongoing maintenance — covering projects from kilowatt-scale arrays to multi-megawatt installations. To date, the team has installed more than 14.5 MW of capacity across the region.
 
-GAI Energy serves commercial, industrial, and agricultural customers throughout north-central Indiana, including farmers, business owners, and utility partners. The company references installations in communities such as Lafayette, Plymouth, Valparaiso, and Carmel, and works closely with local permitting jurisdictions and utility companies.
+The company works with farmers, business owners, and industrial clients in communities such as Lafayette, Plymouth, Valparaiso, and Carmel. Its agricultural and commercial customers rely on GAI for microgrid solutions that provide energy security and reduce utility costs.
 
-The founders aimed to exceed the state's minimum electrical code requirements; every project is built to the 2020 National Electrical Code and UL safety standards, with a preference for North American-made components. By managing the full project lifecycle without subcontracting, GAI Energy says it eliminates markups and delivers optimized, client-specific designs rather than cookie-cutter solutions.
+GAI Energy distinguishes itself by designing every system to the 2020 National Electrical Code and UL safety standards, using North American-made components wherever possible. By eliminating subcontractor markups and optimizing each design for the client’s specific load profile, the company aims to deliver the lowest lifetime energy cost.
 
 ## Known for
-- UL-listed components and North American-made products where possible
-- In-house EPC model eliminates subcontractor markups
-- Designs optimized per client, not cookie-cutter
-- Ongoing operations and maintenance offered post-installation
+- Turnkey EPC solar and battery storage systems
+- Designs meet 2020 NEC and UL standards
+- Full spectrum from kilowatt to megawatt installations
+- In-house engineering and installation eliminates subcontractor markups
+- Ongoing operations and maintenance offered
 
 ## Capabilities
-- Solar PV system design
-- Solar PV installation
-- Battery energy storage system installation
+- EPC solar installation
+- Commercial solar design
+- Industrial solar installation
+- Battery storage systems
 - Microgrid design and installation
-- Electrical engineering
+- Solar system engineering
 - Permitting and utility interconnection
 - Operations and maintenance
-- EPC (Engineering, Procurement, Construction) services
+- Energy economics analysis
 
 ## Industries
 - Commercial
 - Industrial
 - Agricultural
-- Utility
-
-## Certifications
-- UL safety standards
-- National Electrical Code 2020
+- Farmers
+- Business owners
+- Northern Indiana communities
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -44,20 +44,19 @@ The founders aimed to exceed the state's minimum electrical code requirements; e
 
 <details><summary>Sources</summary>
 
-- Founded 2008 -> db, /about
-- Founders Chris Rohaly and Neal Rhodes -> /about
-- Headquarters Flora, Indiana -> db, /about
-- 18+ years in business -> /
-- 52 years combined solar experience -> /
-- 14.5 MW installed capacity -> /
-- Services: EPC solar, battery storage, microgrid -> /, /about
-- Industries: commercial, industrial, agricultural -> /about
-- Leadership team: Chris Rohaly (CTO), Cindy Rohaly (CEO), Lamar Sledge (COO) -> /about
-- Quality standards: NEC 2020, UL -> /about
-- In-house EPC, no subcontracting -> /about
-- Ongoing O&M -> /about
-- North American made products -> /about
-- Service area: north-central Indiana -> /about
+- Founded 2008 by Chris Rohaly and Neal Rhodes -> /about
+- Headquarters Flora, Indiana -> / (home page) and /about
+- EPC solar contractor, commercial/industrial solar + battery storage -> / (home page)
+- Turnkey systems, in-house engineering, permitting, installation, maintenance -> /about
+- 14.5 MW installed to date -> / (home page)
+- 18+ years doing business, 52 years combined solar experience -> / (home page)
+- Serve farmers, business owners, commercial, agricultural customers in Lafayette, Plymouth, Valparaiso, Carmel -> /about
+- Designs meet 2020 NEC and UL standards, North American-made components -> /about
+- Leadership: Chris Rohaly CTO, Cindy Rohaly CEO, Lamar Sledge COO -> /about
+- Microgrid design and installation -> / (home page) and /about
+- Full spectrum kilowatt to megawatt -> /about
+- Eliminate subcontractor markups, optimize designs for lowest energy cost -> /about
+- LinkedIn URL -> db
 </details>
 
 ---
@@ -67,37 +66,39 @@ The founders aimed to exceed the state's minimum electrical code requirements; e
 **Old description:** Located in Gulfport, Mississippi, GCP Laboratories is the world's leading manufacturer of liquid antacids.
 
 ## About
-GCP Laboratories is a U.S.-based OTC contract manufacturer headquartered in Gulfport, Mississippi. Founded in Gulfport, the company grew from a local operation into a national supplier of private-label over-the-counter healthcare products.
+GCP Laboratories operates from Gulfport, Mississippi, where it was founded as a local operation before expanding into a national contract manufacturer of over-the-counter healthcare products. The company does not disclose a founding year or ownership structure.
 
-The company specializes in liquid digestive formulations — including antacids comparable to Milk of Magnesia®, Mylanta®, Maalox®, Gaviscon®, and Dulcolax® — as well as infant gas relief drops, antifungal foot powders, and stool softener tablets. Its FDA-registered facility provides scalable, high-volume contract manufacturing and private label production, with in-house packaging design capabilities. Quality assurance follows GMP standards, and the company notes its products have never been recalled for quality concerns.
+The FDA-registered facility specializes in contract manufacturing and private label production for liquid digestives, infant gas relief drops, antifungal foot powders, and stool softener tablets. Its equipment is built for large-scale liquid OTC production, and the company emphasizes scalable, high-volume output with rigorous quality control and regulatory compliance. An in-house art department handles custom packaging design.
 
-GCP serves private-label brands and healthcare companies across the United States, supplying over-the-counter digestive and wellness products. Customers include brands seeking a domestic contract manufacturer for liquid OTC products and digestive formulations.
+Customers include private label brands and health-and-wellness companies seeking U.S.-based manufacturing. Formulations are developed to match national brands such as Milk of Magnesia, Mylanta, Maalox, Gaviscon, Dulcolax, Mylicon, Lotrimin AF, and Colace.
 
-The company states its mission is to provide high-quality OTC products through reliable contract manufacturing and private label production. It differentiates itself with a modern facility built for large-scale liquid production, an experienced team focused on regulatory compliance, and a service model that guides projects from formulation through production.
+GCP Laboratories states its mission is to provide high-quality OTC products through reliable contract manufacturing, differentiating itself through its FDA registration, a history of no quality-related recalls, decades of pharmaceutical manufacturing experience, and a team focused on regulatory compliance.
 
 ## Known for
-- FDA-registered manufacturing facility
-- High-volume contract manufacturing for private label OTC products
+- FDA-registered OTC manufacturing facility
+- High-volume contract manufacturing capacity
 - In-house art department for custom packaging design
-- Products never recalled for quality concerns
-- Formulations comparable to leading national brands
+- No product recalls for quality concerns
+- Decades of OTC pharmaceutical manufacturing experience
 
 ## Capabilities
 - Contract manufacturing
 - Private label production
-- Liquid formulation
+- Liquid digestive formulation
 - Tablet formulation
-- Powder formulation
-- Quality assurance
+- Antifungal powder formulation
+- Infant gas relief formulation
+- Quality control
 - Regulatory compliance
 - Packaging design
+- High-volume production
 - Scalable production
 
 ## Industries
-- OTC pharmaceuticals
-- Healthcare
-- Consumer health
+- Over-the-counter healthcare
 - Pharmaceutical manufacturing
+- Health and wellness
+- Private label brands
 
 ## Certifications
 - FDA-registered
@@ -108,20 +109,16 @@ The company states its mission is to provide high-quality OTC products through r
 
 <details><summary>Sources</summary>
 
-- Headquartered in Gulfport, Mississippi -> db
-- Founded in Gulfport, Mississippi -> /
-- FDA-registered facility -> db, /
-- Contract manufacturer and private label producer -> /
-- Specializes in liquid digestive formulations -> /
-- Products comparable to Milk of Magnesia, Mylanta, Maalox, Gaviscon, Dulcolax -> /
-- Infant gas relief drops comparable to Mylicon -> /
-- Antifungal foot powder comparable to Lotrimin AF -> /
-- Stool softener tablets comparable to Colace -> /
-- In-house art department for custom packaging -> products array
-- Products never recalled for quality concerns -> products array
-- GMP standards compliance -> products array
-- High-volume scalable production -> /
-- Serves private label brands and healthcare companies nationwide -> /
+- Located in Gulfport, Mississippi -> db
+- FDA-registered OTC manufacturing facility -> db, /
+- Specializes in liquid digestives, infant gas drops, antifungal foot powders, tablet formulations -> /
+- Formulations comparable to Milk of Magnesia, Mylanta, Maalox, Gaviscon, Dulcolax, Mylicon, Lotrimin AF, Colace -> /
+- In-house art department for custom packaging design -> db
+- Products never recalled for quality concerns -> db
+- Decades of experience in OTC pharmaceutical manufacturing -> /
+- High-volume contract manufacturing capacity -> /
+- Mission to provide high-quality OTC products through reliable contract manufacturing -> /
+- State-of-the-art technology, modern equipment for large-scale OTC liquid production -> /
 </details>
 
 ---
@@ -135,31 +132,30 @@ _skipped: not enough facts_
 **Old description:** With over 30 years of expertise, we have been honing our craft of contract manufacturing and blending dry foods
 
 ## About
-Founded in 1996, GK Foods Inc. is based in San Marcos, California, and operates as a contract manufacturer and co-packer focused on dry food products. The company does not publicly disclose its ownership structure or founding individuals.
+Founded in 1996, GK Foods Inc. has built over 30 years of expertise in contract manufacturing and co-packing of dry food products from its San Marcos, California location. The company operates as a co-manufacturing partner for brands seeking flexible packaging solutions.
 
-The facility specializes in dry blending and form-fill-seal packaging, producing stand-up pouches and sachets for products such as baking mixes, drink mixes, and supplement powders. Its capabilities include blending of dry ingredients and automated form-fill-seal services, though specific equipment, facility size, and employee count are not provided.
+The company specializes in form-fill-seal packaging for stand-up pouches and sachets, with a primary focus on baking mixes, drink mixes, and supplement powders. Its capabilities cover dry blending and precision filling, though details on facility square footage, employee count, or production volumes are not publicly provided.
 
-GK Foods serves brands in the food, beverage, and dietary supplement industries that need co-manufacturing and co-packing for dry powder formulations. Its customer base includes companies looking for a Southern California partner capable of handling pilot runs through to full-scale production of baking mixes, beverage mixes, and nutritional supplement powders.
+GK Foods works with food, beverage, and nutraceutical brands seeking a co-manufacturing partner for powdered products in flexible packaging. The company notes that discounts are available on pilot runs, allowing customers to test packaging formats before scaling.
 
-The company highlights its more than 30 years of experience in contract manufacturing and blending as a key differentiator, describing itself as an expert in stand-up pouch and sachet filling. It also promotes discounted pricing on pilot runs to help clients test products before committing to larger volumes.
+The firm highlights its long-standing experience and specialization in stand-up pouch and sachet filling as factors that set it apart in the Southern California co-manufacturing market.
 
 ## Known for
-- Over 30 years of contract manufacturing and blending experience
-- Specializes in stand-up pouch and sachet filling
-- Discounts available on pilot runs
+- Over 30 years of contract manufacturing experience
+- Specializes in stand-up pouch and sachet form-fill-seal
+- Discounts offered on pilot runs
 
 ## Capabilities
+- Form fill seal
 - Blending
-- Form fill & seal
-- Stand-up pouch filling
-- Sachet filling
 - Co-manufacturing
 - Co-packing
+- Stand-up pouch filling
+- Sachet filling
 
 ## Industries
-- Food manufacturing
-- Beverage manufacturing
-- Dietary supplement manufacturing
+- Food and beverage
+- Dietary supplements
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -169,11 +165,10 @@ The company highlights its more than 30 years of experience in contract manufact
 <details><summary>Sources</summary>
 
 - Founded in 1996 -> db
-- Headquarters in San Marcos, California -> db
-- Specializes in contract manufacturing and blending dry foods -> /
-- Produces and fills stand-up pouches and sachets -> /
-- Focus on baking mixes, drink mixes, supplement powders -> /
-- Offers blending and form fill & seal services -> /
+- Headquartered in San Marcos, California -> db
+- Specializes in form-fill-seal for stand-up pouches and sachets -> /
+- Focuses on baking mixes, drink mixes, and supplement powders -> /
+- Offers blending services -> /
 - Discounts available on pilot runs -> /
 - Over 30 years of expertise claimed -> /
 </details>
@@ -185,36 +180,34 @@ The company highlights its more than 30 years of experience in contract manufact
 **Old description:** Four decades of craftsmanship means that anything you can imagine made out of wood–we can create it. GLW specializes in manufacturing high-end custom wood products for commercial projects requiring consistent quality and engineering support.
 
 ## About
-GLW, formerly Great Lakes Woodworking, was founded in 1984 in Detroit, Michigan, when carpenters Mike Mancinelli and Paul LaCroix left their separate jobs to start a business together in a garage. Eventual owner Tony Gatliff later joined to help expand the operation. The partners built the company on enduring relationships and a commitment to craftsmanship, keeping production in Detroit as they grew.
+GLW, formerly Great Lakes Woodworking, was founded in 1984 in Detroit, Michigan, when carpenters Mike Mancinelli and Paul LaCroix left their separate jobs to start a business together in a garage. Eventual owner Tony Gatliff later joined the partnership, helping the company expand beyond its humble beginnings.
 
-The company design-engineers, manufactures, and installs custom fixtures and commercial environments. Its capabilities span woodworking (solid wood and veneer), glass integration with in-house UV welding, metal finishing and plating, acrylic and plexiglass fabrication, stone (marble, quartz, granite) incorporation, plastic laminate pressing, and upholstery and leatherwork. GLW serves retailers, hospitality venues, corporate offices, athletic facilities, and museums nationwide, delivering projects from storefronts and modular display systems to museum display cases.
+The firm design‑engineers, manufactures, and installs custom commercial fixtures and environments. Its capabilities span custom woodworking in solid wood and veneer, UV welding for glass integration, metal finishing and plating (brushed, etched, paint, powder coating), in‑house plastic laminate pressing, acrylic and plexiglass fabrication, stone integration (marble, quartz, granite), and upholstery and leatherwork. Production remains in Detroit at a facility on Mound Road, though the company does not disclose square footage or headcount.
 
-GLW’s customer base includes prestigious retailers across the country, with projects ranging from retail fixture rollouts and custom entryways to corporate office interiors and locker rooms. The firm emphasizes value engineering and design flexibility, often developing custom tooling and processes for each job to meet precise standards.
+GLW serves retailers, hospitality operators, corporate offices, athletic facilities, and museums across the United States. Project examples include retail fixture rollouts, storefronts and entryways, interior store fixtures, hospitality interiors, corporate office interiors, locker rooms, and custom museum display cases. The company emphasizes long‑term relationships with national retail brands.
 
-The founders’ original vision centered on engineering as a differentiator—Paul LaCroix noted that engineering “was going to set us apart,” while Tony Gatliff cites product quality and owners who deeply care about their work as hallmarks. GLW positions itself as a partner that streamlines manufacturing and installation, offering fixtures engineered for easy setup and creative solutions to complex spatial problems.
+The founders built the business on enduring relationships and a commitment to treating people well. Engineering was positioned as a core differentiator early on, with the team creating custom tools and processes for each job. Today GLW highlights value engineering, design flexibility, and fixtures engineered for easy installation as key advantages, aiming to deliver a hassle‑free experience from napkin sketch to final install.
 
 ## Known for
-- Design-engineered, delivered, and installed fixtures without hassle
-- Creative solutions to complex problems through old-world craftsmanship and design engineering
-- Value engineering and design flexibility with cost-saving alternatives
-- Ability to engineer and deliver from a napkin sketch
-- Fixtures engineered for easy installation and streamlined setup
+- Value engineering and design flexibility to lower costs
+- Fixtures engineered for easy installation and shipping
+- Creative solutions to complex problems from napkin sketches
+- Custom tools and processes developed per project
+- Hassle‑free delivery: design‑engineer, build, and install
 
 ## Capabilities
-- Custom woodworking (solid wood, live edge)
-- Wood veneer fabrication
-- Glass UV welding (in-house)
+- Design engineering
+- Custom woodworking (solid wood, veneer)
+- UV welding for glass integration
 - Metal finishing and plating (brushed, etched, paint, powder coating)
+- In‑house plastic laminate pressing
 - Acrylic and plexiglass fabrication
 - Stone integration (marble, quartz, granite)
-- Plastic laminate pressing (in-house)
 - Upholstery and leatherwork
-- Design engineering
+- Custom fixture manufacturing
 - Installation services
-- Retail fixture rollouts
-- Custom entryway and door fabrication
-- Museum display case fabrication
-- Custom millwork and cabinetry
+- Value engineering
+- Project management
 
 ## Industries
 - Retail
@@ -225,8 +218,8 @@ The founders’ original vision centered on engineering as a differentiator—Pa
 - Commercial Construction
 
 ## Equipment
+- UV welding system
 - Plastic laminate presses
-- UV welding equipment
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -235,19 +228,19 @@ The founders’ original vision centered on engineering as a differentiator—Pa
 
 <details><summary>Sources</summary>
 
-- Founded in 1984 by Mike Mancinelli and Paul LaCroix -> /about-us
-- Eventual owner Tony Gatliff helped expand -> /about-us
-- Started in a garage in Detroit, Michigan -> /about-us
-- Over 40 years in business -> /
-- Design-engineers, manufactures, and installs custom fixtures and commercial environments -> /about-us
-- Capabilities: woodworking, veneer, glass UV welding, metal finishing, acrylic/plexiglass, stone, plastic laminate pressing, upholstery/leatherwork -> /capabilities
-- In-house plastic laminate presses -> /capabilities
-- In-house UV welding for glass -> /capabilities
-- Industries served: retail, hospitality, corporate office, athletic facilities, museums -> /
-- Services: retail fixture rollouts, custom entryways, museum displays, custom wood products -> /
-- Differentiators: fixtures without headaches, creative solutions, value engineering, vision from napkin sketch, engineered for easy install -> /
-- Headquarters: Detroit, MI -> db
-- Company name GLW, formerly Great Lakes Woodworking -> /about-us
+- Founded in 1984 -> /about-us
+- Founders Mike Mancinelli and Paul LaCroix -> /about-us
+- Eventual owner Tony Gatliff -> /about-us
+- Started in a garage in Detroit -> /about-us
+- Headquarters at 11345 Mound Road, Detroit, MI 48212 -> / (contact info) and /about-us
+- Over 40 years in business -> / and /about-us
+- Design-engineers, manufactures, and installs custom fixtures -> /about-us
+- Capabilities: wood, veneer, glass (UV welding), metal finishing, plastic laminate pressing, acrylics, stone, upholstery, leather -> /capabilities
+- Industries served: retail, hospitality, corporate office, athletic facilities, museums -> / (What We Do section)
+- Project examples: retail fixture rollouts, storefronts, interior fixtures, hospitality interiors, corporate offices, locker rooms, museum displays -> / (Project Gallery)
+- Differentiators: value engineering, design flexibility, engineered for easy install, creative solutions, hassle-free process -> / (Why Partner With GLW)
+- Commitment to relationships and engineering as core advantage -> /about-us
+- No certifications, employee count, volume, lead time, or tolerances stated -> db and pages
 </details>
 
 ---
@@ -257,26 +250,25 @@ The founders’ original vision centered on engineering as a differentiator—Pa
 **Old description:** GM Sheet Metal, is owned and operated by Gordon Mason. Gordon has been practicing his craft in Jackson Hole for over 25 years.  He specializes in custom sheet metal services ranging from custom art work to HVAC duct systems.
 
 ## About
-GM Sheet Metal LLC operates from Jackson, Wyoming, in the Jackson Hole region. The business is owned and operated by Gordon Mason, who has been practicing sheet metal fabrication in the area for over 25 years. Mason established the company to deliver custom sheet metal services that span artistic commissions, architectural components, and mechanical ductwork.
+GM Sheet Metal LLC operates in Jackson, Wyoming, in the Jackson Hole region. The company is owned and operated by Gordon Mason, who has been practicing his craft in the area for over 25 years. No specific founding year is disclosed.
 
-The shop’s capabilities include CNC plasma cutting, metal shearing and bending, and the fabrication of HVAC duct systems. It also manufactures copper and stainless steel countertops, chimney and vent caps, and copper roofing and flashing. Each project is handled as a custom job, with the shop equipped to move from design through finished part.
+The shop provides custom sheet metal fabrication services including CNC plasma cutting, metal shearing and bending, HVAC duct manufacturing, copper and stainless steel countertops, chimney and vent caps, and copper roofing and flashing. The work spans both functional and artistic projects, all produced from the company's Jackson facility.
 
-Customers include homeowners, contractors, and designers seeking custom metalwork for residential and light commercial projects in the Jackson Hole area. Typical work ranges from one-off art pieces to full HVAC duct installations and architectural metal roofing.
+The business serves residential, commercial, and HVAC contractors needing custom ductwork, architectural metalwork, and decorative metal pieces. Customers range from homeowners seeking custom countertops to builders requiring roofing flashing and vent caps.
 
-The company emphasizes Mason’s decades of hands-on experience and the flexibility to produce both decorative and functional sheet metal items under one roof.
+The company emphasizes its deep local experience and owner-operated structure, with Gordon Mason directly overseeing projects.
 
 ## Known for
-- Over 25 years of local sheet metal experience
-- Custom fabrication from artwork to HVAC ductwork
-- In-house CNC plasma cutting, shearing, and bending
-- Copper and stainless steel architectural components
+- Over 25 years of sheet metal experience in Jackson Hole
+- Owner-operated by founder Gordon Mason
+- Capabilities span custom art, HVAC ductwork, and architectural metalwork
+- CNC plasma cutting, shearing, and bending performed in-house
 
 ## Capabilities
-- Custom sheet metal work
+- Custom sheet metal fabrication
 - CNC plasma cutting
 - HVAC duct manufacturing
-- Copper countertop fabrication
-- Stainless steel countertop fabrication
+- Copper and stainless steel countertop fabrication
 - Chimney and vent cap fabrication
 - Copper roofing and flashing
 - Metal shearing
@@ -284,16 +276,17 @@ The company emphasizes Mason’s decades of hands-on experience and the flexibil
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
-- **Ownership:** Owned and operated by Gordon Mason
+- **Ownership:** Owner-operated by Gordon Mason
 - **Headquarters:** Jackson, Wyoming
 
 <details><summary>Sources</summary>
 
-- Location and owner from home page (/) 
-- Services list from home page (/) 
-- Experience claim from home page (/) 
-- Address and contact from home page (/) 
-- Company name, city, state from database (db)
+- Company name: GM Sheet Metal LLC -> db
+- Owner: Gordon Mason -> page '/'
+- Location: Jackson, Wyoming -> page '/'
+- Years of experience: over 25 years -> page '/'
+- Services: custom sheet metal work, CNC plasma cutting, HVAC duct manufacturing, copper and stainless countertops, chimney and vent caps, copper roofing and flashing, metal shearing and bending -> page '/'
+- Address and contact details (not used in output) -> page '/'
 </details>
 
 ---
@@ -303,30 +296,35 @@ The company emphasizes Mason’s decades of hands-on experience and the flexibil
 **Old description:** GMS Industries is a family-owned packaging manufacturer that began in 1989 and is run by brothers Kris and Cory Glidden as CEO and COO. With production in the United States and Mexico, it makes pressure sensitive labels, printed instruction sheets, folding cartons, corrugated and laminate shipping boxes, rigid setup boxes and printed paper bags. Label work includes freezer- and cold-chain-rated adhesives, roll and sheet formats, and variable data printing. The company supplies food and beverage, consumer packaged goods, pharmaceutical and nutraceutical, cosmetics, home and hardware, and retail brands, and holds a GSA federal schedule.
 
 ## About
-GMS Industries was founded in 1989 in El Paso, Texas, as a family-owned packaging manufacturer. The business remains under the ownership of the Glidden family, now led by second-generation brothers Kris Glidden (CEO) and Cory Glidden (COO), who took over from their parents and continue to run day-to-day operations.
+Founded in 1989 in El Paso, Texas, GMS Industries is a family-owned packaging manufacturer now led by second-generation brothers Kris Glidden (CEO) and Cory Glidden (COO). The company began as a producer of instruction sheets and labels and has since expanded into a full-range packaging supplier with production facilities in both the United States and Mexico.
 
-The company produces pressure-sensitive labels (including freezer- and cold-chain-rated adhesives in roll and sheet formats with variable data printing), printed instruction sheets, folding cartons, corrugated and laminate shipping boxes, rigid setup boxes, and printed paper bags. Manufacturing takes place across facilities in the United States and Mexico, with in-house graphic design and prepress based in El Paso. The operation also warehouses and distributes standard corrugated boxes alongside custom runs.
+GMS produces pressure-sensitive labels (including freezer- and cold-chain-rated adhesives in roll and sheet formats with variable data printing), printed instruction sheets, folding cartons, corrugated and laminate shipping boxes, rigid setup boxes, and printed paper bags.
 
-GMS serves food and beverage, consumer packaged goods, pharmaceutical and nutraceutical, cosmetics and beauty, home and hardware, and e-commerce and retail brands. A noted long-term client is Kwikset, cited in a CEO Magazine profile as a decades-long supply-chain partner. The firm also holds a GSA Schedule contract (47QSMS26D004X), making it eligible for federal and enterprise set-aside procurement.
+The company serves food and beverage, consumer packaged goods, pharmaceutical and nutraceutical, cosmetics, home and hardware, and e-commerce and retail brands. Its customer base includes long-term accounts such as Kwikset (an Assa Abloy brand), which has been noted as a decades-long partner, and federal buyers through an active GSA Schedule contract (47QSMS26D004X). The longest client relationship spans 37 years, dating back to the company's founding.
 
-The founders' original premise — that a packaging vendor should feel like part of the customer's team rather than a transactional supplier — still guides the company. The Glidden brothers emphasize direct owner involvement, quote-driven pricing instead of catalog rates, and relationships measured in decades; their longest client has been with the company since its 1989 start.
+GMS positions itself as a partner rather than a vendor, emphasizing that the owning family still answers phones and walks the plant floors. Differentiators cited include quote-based pricing with no fixed catalog minimums, dual U.S.–Mexico manufacturing, in-house design, and a GSA schedule that opens federal set-aside opportunities.
 
 ## Known for
-- Family-owned — led by Kris Glidden (CEO) and Cory Glidden (COO), co-owners
-- GSA-Certified — eligible for federal and enterprise set-asides
-- Manufacturing in the U.S. and Mexico across multiple plants
-- Quote-driven, never catalog-priced — every job specced to the product
-- In-house graphic design and prepress out of El Paso, TX
+- Second-generation family ownership with owners directly accessible
+- Active GSA Schedule contract (47QSMS26D004X) for federal buyers
+- Dual U.S. and Mexico manufacturing footprint
+- In-house graphic design and prepress in El Paso
+- Quote-based pricing with no fixed catalog MOQs
 
 ## Capabilities
-- Pressure sensitive label printing (freezer/cold-chain adhesives, roll/sheet, variable data)
-- Printed instruction sheets (inserts, manuals, booklets, pamphlets)
-- Folding carton printing and finishing (litho, digital, foils, finishes)
-- Corrugated and laminate shipping box manufacturing
-- Rigid setup box manufacturing
-- Printed paper bag manufacturing
-- Custom packaging design and production
-- In-house graphic design and prepress
+- Pressure sensitive labels
+- Printed instruction sheets
+- Folding cartons
+- Corrugated boxes
+- Rigid setup boxes
+- Printed paper bags
+- Variable data printing
+- Freezer/cold-chain adhesives
+- Litho printing
+- Digital printing
+- Finishes and foils
+- Graphic design
+- Packaging design and production
 - Warehouse distribution of standard corrugated boxes
 
 ## Industries
@@ -336,7 +334,7 @@ The founders' original premise — that a packaging vendor should feel like part
 - Cosmetics & Beauty
 - Home & Hardware
 - E-commerce & Retail
-- Federal Government (GSA Schedule)
+- Federal Government
 
 ## Certifications
 - GSA Schedule 47QSMS26D004X
@@ -344,22 +342,23 @@ The founders' original premise — that a packaging vendor should feel like part
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1989
-- **Ownership:** Family-owned
+- **Ownership:** Family-owned (second generation)
 - **Headquarters:** El Paso, Texas
 
 <details><summary>Sources</summary>
 
-- Founded 1989 -> db
-- Family-owned, second-generation led by Kris and Cory Glidden -> /about
-- Manufacturing in U.S. and Mexico -> /
-- Product lines: pressure sensitive labels, instruction sheets, folding cartons, corrugated boxes, rigid boxes, printed bags -> /
-- Industries served: Food & Beverage, CPG, Pharmaceuticals & Nutraceuticals, Cosmetics & Beauty, Home & Hardware, E-commerce & Retail -> /
-- GSA Schedule 47QSMS26D004X -> /
-- Kwikset cited as decades-long client -> /
-- In-house graphic design in El Paso -> /services
-- Warehouse distributor for standard corrugated boxes -> /services
-- Quote-driven, no catalog MOQ -> /services
-- Longest client relationship 37 years -> /
+- Founded 1989 -> db, homepage
+- Family-owned, second-generation -> homepage, about page
+- Brothers Kris Glidden (CEO) and Cory Glidden (COO) -> description, about page
+- Manufacturing in U.S. and Mexico -> homepage, about page
+- Products: pressure sensitive labels, printed instruction sheets, folding cartons, corrugated boxes, rigid boxes, printed bags -> homepage, description
+- Label capabilities: freezer/cold-chain adhesives, roll/sheet, variable data printing -> description
+- Industries served: Food & Beverage, Consumer Packaged Goods, Pharmaceuticals & Nutraceuticals, Cosmetics & Beauty, Home & Hardware, E-commerce & Retail -> homepage, description
+- GSA Schedule #47QSMS26D004X -> homepage, about page
+- Longest client 37 years (Kwikset) -> homepage, about page
+- In-house graphic design in El Paso -> services page
+- Quote-driven, no fixed catalog MOQ -> homepage, services page
+- Warehouse distributor for standard corrugated boxes -> services page
 </details>
 
 ---
@@ -369,73 +368,66 @@ The founders' original premise — that a packaging vendor should feel like part
 **Old description:** This site has limited support for your browser. We recommend switching to Edge, Chrome, Safari, or Firefox.
 
 ## About
-GOEX Apparel operates from Kansas City, Missouri, where it prints and ships finished garments. The company's supply chain spans 2,700 miles: fabrics are produced in South Carolina from U.S. materials, then cut and sewn at its owned factory in Haiti before final decoration in Kansas City. No founding year or founders are disclosed in public materials.
+GOEX Apparel operates from Kansas City, Missouri, where it manages printing, warehousing, and distribution for a supply chain that spans the Western Hemisphere. The company is structured as a certified B-Corp and verified member of the Fair Trade Federation, Social Enterprise Alliance, and Fair Labor Association, though its founding year and original founders are not publicly disclosed.
 
-GOEX manufactures custom-printed apparel and wholesale basics, including eco-triblend tees for retail and promotional markets. Its Haiti facility handles cut-and-sew assembly, while the Kansas City warehouse manages printing and fulfillment. The company emphasizes a transparent, Western Hemisphere supply chain and evaluates fabrics annually for sustainability, using OEKO-TEX ECO PASSPORT certified textiles and Fair Trade certified labels.
+The company produces custom-printed apparel and wholesale blank basics, including eco-triblend tees. Fabrics are knitted in South Carolina from U.S.-sourced materials, then cut and sewn at GOEX's owned factory in Haiti. Finished garments are printed and shipped from the Kansas City facility, creating a 2,700-mile supply chain—far shorter than the industry average of six global circumnavigations.
 
-The company serves organizations seeking branded merchandise—teams, events, musical tours, and retail partners. Named clients include the Minnesota Historical Society, Black Hills Basecamp, Biomes Marine Biology Center, and Koraa. GOEX also opens wholesale accounts for retailers stocking ethically made blanks.
+GOEX serves organizations needing branded merchandise, retail-ready wholesale basics, and tour merchandise for musicians. Its customer base includes the Minnesota Historical Society, Black Hills Basecamp, Biomes Marine Biology Center, and Koraa, all cited as verified buyers.
 
-GOEX positions itself as a "People and Planet First" wholesale apparel company, created to counter supply chains that prioritize low cost over people. It pays Haitian workers 65 percent above the sector minimum, holds Fair Trade Federation verification, B Corp certification, and memberships in the Fair Labor Association, Social Enterprise Alliance, and Social Enterprise World Forum. The mission is to create fair-wage jobs that strengthen families and communities.
+The business was built to create fair-wage jobs in Haiti, paying 65 percent above the local apparel-sector minimum so that each employee can support an average of six family members. It also prioritizes OEKO-TEX ECO PASSPORT certified fabrics and Fair Trade certified labels, positioning every order as a driver of family stability and reduced environmental impact.
 
 ## Known for
-- 2,700-mile supply chain (fabrics from South Carolina, cut/sew in Haiti, print/ship from Kansas City)
-- Fair Trade Federation verified and B Corp certified
-- Pays workers 65% above Haiti's apparel sector minimum
+- Pays 65% above Haiti's apparel sector minimum wage
+- 2,700-mile supply chain from U.S. fabric to Haitian cut-and-sew to Kansas City printing
+- B-Corp certified and Fair Trade Federation verified
 - OEKO-TEX ECO PASSPORT certified fabrics
-- USA fabrics cut and sewn in the Western Hemisphere
+- U.S.-grown fabrics cut and sewn in the Western Hemisphere
 
 ## Capabilities
 - Custom printed apparel
-- Wholesale apparel basics
+- Wholesale blank apparel
 - Cut and sew manufacturing
 - Screen printing
 - Sustainable fabric sourcing
-- Fair trade certified manufacturing
-- Retail-quality garment decoration
-- Wholesale account management
+- Fair trade manufacturing
+- Fabric knitting
+- Warehousing and distribution
 
 ## Industries
-- Apparel manufacturing
-- Wholesale trade
-- Custom merchandise
-- Promotional products
-- Event merchandise
+- Wholesale apparel
+- Custom printed apparel
 - Music merchandise
-- Retail apparel
+- Branded organizational apparel
+- Retail basics
 
 ## Certifications
-- FAIR TRADE
-- OEKO-TEX
-- Fair Trade Federation Verification
-- B Corp Certified
+- Fair Trade Federation Verified
+- B-Corp Certified
+- Social Enterprise Alliance Verified
 - Fair Labor Association
-- Social Enterprise Alliance
 - Social Enterprise World Forum
 - OEKO-TEX ECO PASSPORT
+- FAIR TRADE
+- OEKO-TEX
 
 ## Company details
 - **Company Type:** Manufacturer
+- **Ownership:** Social enterprise, B-Corp certified
 - **Headquarters:** Kansas City, Missouri
 
 <details><summary>Sources</summary>
 
-- Headquarters in Kansas City, Missouri -> db
-- Factory in Haiti for cut and sew -> /
-- Fabrics made in South Carolina from US materials -> /
-- 2,700-mile supply chain -> /
-- Custom printed apparel and wholesale basics -> /
-- Eco-Triblend tees offered -> /
-- Fair Trade Federation verified -> /about
-- B Corp certified -> /about
-- Pays workers 65% above Haiti's apparel sector minimum -> /about
-- OEKO-TEX ECO PASSPORT certified fabrics -> /about
-- USA fabrics cut and sewn in Western Hemisphere -> /about
-- Clients: Minnesota Historical Society, Black Hills Basecamp, Biomes Marine Biology Center, Koraa -> /about
-- Fair Labor Association membership -> /about
-- Social Enterprise Alliance membership -> /about
-- Social Enterprise World Forum membership -> /about
-- Mission: People and Planet First wholesale apparel company -> /about
-- Certifications: FAIR TRADE, OEKO-TEX -> db
+- HQ city/state -> db
+- Factory in Haiti, fabrics from South Carolina, printing in Kansas City -> homepage
+- Certifications (Fair Trade Federation, B-Corp, Social Enterprise Alliance, Fair Labor Association, Social Enterprise World Forum) -> about page
+- Certifications (FAIR TRADE, OEKO-TEX) -> db
+- Fair wage: 65% above Haiti minimum -> about page
+- 2700 mile supply chain -> homepage
+- Customers (Minnesota Historical Society, Black Hills Basecamp, Biomes Marine Biology Center, Koraa) -> about page
+- Custom printed apparel and wholesale basics -> homepage and about page
+- Sustainable materials, OEKO-TEX certified -> about page and homepage
+- B-Corp certified -> about page
+- Social enterprise -> about page
 </details>
 
 ---
@@ -445,28 +437,27 @@ GOEX positions itself as a "People and Planet First" wholesale apparel company, 
 **Old description:** GT Sales was founded in 1965. GT Sales represents manufacturers in the electrical supply located in West Valley City/Salt Lake City on Parkway Boulevard. Learn more
 
 ## About
-GT Sales is headquartered in Salt Lake City, Utah, with its physical location on Parkway Boulevard in West Valley City. The company was founded in 1965 by Gordon Tyler as a manufacturer's representative for both electrical supply and lighting lines. The lighting side of the agency was spun off in the mid-1980s, leaving the firm focused solely on electrical products. In May 1997, Tyler sold the business to Daryl Cook, who had been in electrical distribution since 1975. Cook moved the operation to its current site in early 1999 and purchased the building in 2003, quadrupling the available space from 5,000 to 20,000 square feet.
+GT Sales is headquartered in Salt Lake City, Utah, with its current facility on Parkway Boulevard in West Valley City. The company was founded in 1965 by Gordon Tyler as a manufacturer's representative for both electrical supply and lighting lines. The lighting side was spun off in the mid-1980s, and in 1997 Tyler sold the business to Daryl Cook, who had been in electrical distribution since 1975. Cook purchased the current building in 2003, expanding the operation from 5,000 to 20,000 square feet of warehouse space. Today the firm is led by Cook and his family, with his children Shae and Trent serving as owners and outside sales representatives.
 
-The firm acts as a manufacturer's representative and stocking distributor for more than a dozen electrical brands, including Arlington Industries, Elite Components, MGM Transformer, RectorSeal, and Voltec. Its services encompass sales and marketing, product training, technical support, and inventory management. The 20,000-square-foot warehouse is complemented by a fenced 15,000-square-foot yard and a 2,500-square-foot office with a conference room. A team of 11 handles inside and outside sales, logistics, and warehouse operations across the region.
+GT Sales acts as a manufacturer's representative for electrical wholesale across the Intermountain West, representing brands such as Arlington Industries, Elite Components, MGM Transformer, and RectorSeal. The company provides sales and marketing support, product training, and technical assistance to distributors. Its 20,000-square-foot warehouse, 15,000-square-foot fenced yard, and 2,500-square-foot office enable it to stock selected product lines for immediate shipment. A team of 11 handles inside and outside sales, logistics, and warehouse operations.
 
-GT Sales serves electrical wholesalers and distributors in the commercial, residential, education, HVAC, utility, and industrial sectors. Its territory covers the Intermountain West: Utah, southern Idaho, eastern Nevada, western Wyoming, and Montana. The company positions itself as the liaison between manufacturers and distributors, helping wholesalers access new products and stay current on technology.
+The firm serves electrical wholesalers and distributors in commercial, residential, education, HVAC, utility, industrial, and OEM markets. Its territory covers Utah, southern Idaho, eastern Nevada, western Wyoming, and Montana. Customers range from small contractors to large corporations seeking access to product lines that include lighting fixtures, electrical components, power tools, and safety equipment.
 
-The company's stated mission is to empower progress by connecting customers with the highest-quality electrical solutions, built on lasting partnerships, trust, and innovation. Core values emphasized by leadership include integrity, innovation, partnership, excellence, and commitment. The vision is to be the most and innovative electrical manufacturer representative in the industry.
+GT Sales says its differentiation lies in its long-standing relationships and commitment to being a link between manufacturers and distributors. Its stated vision is to be the most and innovative electrical manufacturer representative, in service, technology, and partnerships. The mission emphasizes empowering progress through high-quality electrical solutions, built on core values of integrity, innovation, partnership, excellence, and commitment.
 
 ## Known for
-- 20,000 sq ft warehouse with 15,000 sq ft fenced yard
-- Stocking distributor for 14+ leading electrical manufacturers
-- Product training and technical support for wholesale partners
-- Five-state coverage across the Intermountain West
+- 20,000 sq ft warehouse and 15,000 sq ft yard for stocked inventory
+- Coverage across five states: Utah, Idaho, Nevada, Wyoming, Montana
+- Product training and technical support for distributor partners
+- Family-owned leadership with second-generation involvement
 
 ## Capabilities
 - Manufacturer representation
 - Sales and marketing support
 - Product training
 - Technical support
-- Warehousing and distribution
-- Inventory management
-- Liaison between manufacturers and distributors
+- Warehousing and inventory management
+- Logistics and delivery
 
 ## Industries
 - Commercial
@@ -475,26 +466,28 @@ The company's stated mission is to empower progress by connecting customers with
 - HVAC
 - Utility
 - Industrial
-- Electrical wholesale
+- OEM
 
 ## Company details
 - **Company Type:** Distributor / reseller
 - **Founded:** 1965
 - **Employees:** 11
-- **Ownership:** Private
+- **Ownership:** Privately held (family-owned)
 - **Headquarters:** Salt Lake City, Utah
 
 <details><summary>Sources</summary>
 
-- Founded 1965 by Gordon Tyler -> /about
+- Founded in 1965 by Gordon Tyler -> /about
 - Sold to Daryl Cook in 1997 -> /about
-- Moved to Parkway Boulevard in 1999, building purchased 2003 -> /about
+- Headquartered in Salt Lake City/West Valley City, Utah -> /
 - 20,000 sq ft warehouse, 15,000 sq ft yard, 2,500 sq ft office -> /
 - 11 team members -> /
-- Represents 14+ manufacturers including Arlington Industries, Elite Components, MGM Transformer -> /
-- Serves commercial, residential, education, HVAC, utility, industrial markets -> /
+- Serves commercial, residential, education, HVAC, utility, industrial, OEM markets -> /
 - Territory: Utah, southern Idaho, eastern Nevada, western Wyoming, Montana -> /
-- Mission, vision, core values stated -> /about
+- Represents Arlington Industries, Elite Components, MGM Transformer, RectorSeal, etc. -> /
+- Provides product training and technical support -> /
+- Vision, mission, and core values stated -> /about
+- Family ownership: Daryl Cook, Shae Cook, Trent Cook -> /about
 </details>
 
 ---
@@ -504,30 +497,31 @@ The company's stated mission is to empower progress by connecting customers with
 **Old description:** Galaxy Wire & Cable is a leading manufacturer of many different types of cable/wire assemblies, harnesses and related products.
 
 ## About
-Galaxy Wire & Cable, Inc. is based in Horsham, Pennsylvania. Founded in 1995 by industry veteran Kathy Stussy, the company began as a woman-owned business after Stussy identified a market need for custom wire and cable products with quick deliveries and low minimum quantities. The firm is certified as a women's business enterprise (WBENC) and operates as a Disadvantaged Business Enterprise (DBE) in Pennsylvania, California, Texas, and Illinois.
+Galaxy Wire & Cable, Inc. is based in Horsham, Pennsylvania. The company was founded in 1995 by Kathy Stussy, an industry veteran who recognized a need for custom wire and cable products with quick deliveries and low minimum quantities. The business is certified as a woman-owned enterprise through WBENC.
 
-The company designs and manufactures custom wire, cable, and cable assemblies from prototype through large production runs. Its capabilities span custom cable construction—including conductor selection, shielding, insulation, and jacketing materials—as well as wire harness and cable assembly manufacturing. Galaxy added an assembly division in 2003 and provides engineering design services alongside production and testing.
+Galaxy manufactures custom wire and cable, as well as cable and wire assemblies and harnesses. The company handles projects from design and prototyping through large production runs, offering engineering design services and custom cable constructions ranging from simple to highly complex configurations. Its capabilities include conductor selection, shielding, insulation, and jacketing options.
 
-Galaxy serves defense customers as an ITAR-registered supplier and supports transportation projects through its DBE certifications for Department of Transportation-funded work. The company also supplies a variety of industrial sectors requiring custom wire and cable solutions.
+The company serves a variety of industries, with notable registrations in defense (ITAR) and transportation (DBE certified in Pennsylvania, California, Texas, and Illinois). Its customer base includes defense contractors and transportation agencies that require compliant, custom wire and cable solutions.
 
-Galaxy differentiates itself with a "one-stop shop" model that combines wire, cable, and assembly production under one roof, backed by ISO 9001 quality certification since 2014. The company emphasizes low minimum orders, rapid turnaround, and engineering support to meet exact specifications.
+Galaxy was started to fill a gap for hard-to-find wire and cable items delivered quickly with low minimums. The company emphasizes a one-stop-shop model that combines wire, cable, and assembly manufacturing under one roof, backed by ISO 9001 quality management and a focus on rapid production turnaround.
 
 ## Known for
-- One-stop shop for wire, cable, and assemblies
 - Low minimum order requirements
 - Engineering design services from prototype to production
+- One-stop shop for wire, cable, and assemblies
+- ISO 9001 certified quality management
 - ITAR registered for defense work
-- Woman-owned (WBENC) and DBE certified in four states
 
 ## Capabilities
-- Custom wire and cable design and construction
-- Cable and wire assembly manufacturing
-- Wire harness manufacturing
-- Prototype and low-volume production
-- Large production runs
+- Custom wire manufacturing
+- Custom cable manufacturing
+- Cable assembly
+- Wire harness assembly
 - Engineering design services
-- Quality control and assurance
-- ISO 9001 quality management
+- Prototyping
+- Production runs
+- Quality assurance (ISO 9001)
+- Custom cable construction (conductors, shielding, insulation, jacketing)
 
 ## Industries
 - Defense
@@ -537,10 +531,7 @@ Galaxy differentiates itself with a "one-stop shop" model that combines wire, ca
 - ISO 9001
 - ITAR
 - WBENC
-- DBE (Pennsylvania)
-- DBE (California)
-- DBE (Texas)
-- DBE (Illinois)
+- DBE
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -551,19 +542,16 @@ Galaxy differentiates itself with a "one-stop shop" model that combines wire, ca
 <details><summary>Sources</summary>
 
 - Founded in 1995 by Kathy Stussy -> /about
-- Woman-owned, WBENC certified -> /about
+- Woman-owned (WBENC certified) -> /about
 - ISO 9001 certification achieved in 2014 -> /about
 - ITAR registered with DDTC -> /about
 - DBE certified in Pennsylvania, California, Texas, Illinois -> /about
-- Assembly Division started in 2003 -> /about
+- Assembly division started in 2003 -> /about
+- Low minimum order requirements -> /
+- Engineering design services offered -> /about
+- Custom wire, cable, assemblies, harnesses manufactured -> /
 - Headquarters in Horsham, Pennsylvania -> db
-- Custom wire and cable design and construction -> /about
-- Cable/wire assemblies and harnesses manufacturing -> /about
-- Low minimum order requirements -> /about
-- Engineering design services -> /about
-- One-stop shop for wire, cable, and assemblies -> /about
-- Over 50 years of collective experience -> /about
-- Quality control and assurance -> /about
+- Company described as manufacturer of cable/wire assemblies -> db
 </details>
 
 ---

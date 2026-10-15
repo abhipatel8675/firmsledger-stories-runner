@@ -3,19 +3,19 @@
 **Old description:** At Stegall Metal Worx, we specialize in fabricating wrought iron railings, gates, staircases, metal signage and balconies that bring elegance and security to your property. Whether you seek intricate railings, or wrought iron gates our metalwork transforms your vision into reality.
 
 ## About
-Stegall Metal Worx operates from Graham, North Carolina, where owner Keith Stegall has taken the reins of the long-established Alamance Metal Works. Alamance Metal Works served the region for over 25 years before Stegall, a local metalworker with a deep-rooted connection to the community, acquired the business and merged its legacy with his own fabrication expertise. The transition preserves a quarter-century of local trust while introducing updated techniques.
+Based in Graham, North Carolina, Stegall Metal Worx emerged when Keith Stegall acquired the long-standing Alamance Metal Works, a shop that had served Alamance County for over 25 years. Stegall, a local metalworker with deep community roots, took ownership to continue the legacy under a new name while introducing updated fabrication methods.
 
-The shop specializes in custom metal fabrication, welding, and repair across steel, stainless steel, and aluminum. Its core output includes wrought iron railings, staircases, gates, balconies, metal signage, and decorative art pieces. Each project is built to order, with the team handling design, fabrication, and installation for both structural and ornamental work.
+The company fabricates custom wrought iron railings, gates, staircases, balconies, metal signage, and decorative art pieces. Its shop performs welding in carbon steel, stainless steel, and aluminum, and handles repair work alongside new builds. Projects move from design through installation, serving both one-off residential jobs and larger commercial contracts.
 
-Customers range from homeowners seeking custom railings and gates to businesses needing branded signage and architectural metalwork. The company's service area covers Alamance County and surrounding communities such as Elon, Mebane, Burlington, and Greensboro, where it has installed entrance railings, deck systems, and commercial entry gates.
+Customers include homeowners and businesses across the Alamance County region — Elon, Graham, Mebane, Whitsett, Burlington, Glen Raven, Gibsonville, Glenco, Ossipee, Attamahaw, Bellemont, Haw River, and Greensboro. Commercial clients order branded metal signage, while residential clients commission ornamental railings, gates, and staircase systems.
 
-Stegall Metal Worx positions itself on the combination of traditional craftsmanship from the Alamance Metal Works heritage and modern fabrication methods brought by the new ownership. The firm emphasizes responsive communication and on-site installation as part of its service model.
+Stegall Metal Worx positions itself on the combination of traditional craftsmanship from the Alamance Metal Works heritage with modern fabrication techniques. The firm emphasizes local ownership, direct communication, and a single-shop workflow from concept to installation.
 
 ## Known for
-- Over 25 years of legacy through Alamance Metal Works
-- Custom fabrication in steel, stainless steel, and aluminum
-- Residential and commercial design and installation services
-- Local ownership with community roots
+- Combines 25-year Alamance Metal Works legacy with modern fabrication techniques
+- Single-shop design, fabrication, and installation for residential and commercial projects
+- Works in steel, stainless steel, aluminum, and wrought iron
+- Local ownership with community roots in Alamance County
 
 ## Capabilities
 - Custom metal fabrication
@@ -25,27 +25,31 @@ Stegall Metal Worx positions itself on the combination of traditional craftsmans
 - Gate fabrication
 - Metal signage fabrication
 - Metal art and decor fabrication
-- Metal repair
+- Metal repair and welding
 
 ## Industries
-- Residential
-- Commercial
-- Signage
+- Residential construction
+- Commercial construction
 - Architectural metalwork
+- Signage and branding
 
 ## Company details
 - **Company Type:** Manufacturer
+- **Ownership:** Private (Keith Stegall)
 - **Headquarters:** Graham, North Carolina
 
 <details><summary>Sources</summary>
 
-- Headquartered in Graham, North Carolina -> db
-- Owner Keith Stegall took over Alamance Metal Works -> /about
-- Alamance Metal Works had over 25 years of experience -> /about
-- Offers custom metal fabrication, welding, and repair in steel, stainless steel, and aluminum -> /
-- Produces railings, staircases, gates, signage, and metal art -> /
-- Serves residential and commercial customers in Alamance County area -> /about
-- Provides design and installation services -> /about
+- Headquarters in Graham, North Carolina -> db
+- Keith Stegall is owner of Stegall Metal Worx -> /about
+- Alamance Metal Works served Alamance County for over 25 years -> /about
+- Fabricates wrought iron railings, gates, staircases, balconies, signage, art -> /
+- Welding in carbon steel, stainless steel, aluminum -> /
+- Offers repair services -> /
+- Serves residential and commercial customers in listed Alamance County cities -> /about
+- Combines traditional craftsmanship with modern techniques -> /about
+- Materials: steel, stainless steel, aluminum, wrought iron -> /
+- Capabilities: custom fabrication, welding, handrail, staircase, gate, signage, art, repair -> / and /about
 </details>
 
 ---
@@ -55,27 +59,31 @@ Stegall Metal Worx positions itself on the combination of traditional craftsmans
 **Old description:** None
 
 ## About
-Sterling Plastics operates from Circle Pines, Minnesota, where it was founded in 1991. The company was established on the premise that unparalleled customer service, combined with engineering expertise and industrial plastics from manufacturers, would help customers excel. While the founders are not named publicly, the business has accumulated over 90 years of collective plastics experience among its team.
+Sterling Plastics Inc. is based in Circle Pines, Minnesota, and has been operating since 1991. The company was founded on the premise that unparalleled customer service, superb engineering, and industrial plastics from manufacturers would help customers excel.
 
-The firm supplies and converts engineered and industrial plastics, offering rod, sheet, tube, and film cut to any quantity. Its services cover the entire acquisition process, including cutting every material to customer specifications, machining enhancements, and providing material data sheets, chemical resistance data, UL ratings, and RoHS/REACH compliance documentation. The company maintains a large local inventory and lists 73 distinct product lines, ranging from ABS and acetal to high-performance materials such as Celazole PBI and DuPont Kapton HN.
+The firm supplies and converts engineered and industrial plastics, offering rod, sheet, tube, and film cut to size in any quantity. Its services cover the entire acquisition process, including cutting every material it carries to customer specifications, providing material data sheets, chemical resistance data, UL ratings, and RoHS/REACH compliance documentation. The company maintains a large local inventory and emphasizes quick quotes and knowledgeable sales support.
 
-Sterling serves a broad range of sectors, including aerospace, automotive, construction, electronics, energy, food and beverage, furniture, marine, medical, military, missile and space, and packaging. Its customer base spans industry leaders who require precision-cut plastics for applications that demand material traceability and regulatory compliance.
+Sterling serves a broad range of industries, including aerospace, automotive, construction, electronics, energy, food and beverage, furniture, marine, medical, military, missile and space, and packaging. Customers in these sectors rely on the company for cut-to-size plastic components and technical guidance.
 
-The company emphasizes that its differentiation lies in a personal, professional experience backed by workflow efficiencies, machining enhancements, added communication channels, and automation. These investments aim to speed workflows, increase efficiency across departments, improve order-to-delivery times, and ultimately reduce product costs for customers.
+The company says its differentiation lies in its personal and professional experience, backed by over 90 years of combined plastics expertise. It highlights workflow efficiencies, machining enhancements, added communication channels, and automation that speed order-to-delivery times and reduce costs.
 
 ## Known for
 - Cut-to-size plastics in any quantity
-- Large local inventory with 73+ product lines
-- Quick quotes and knowledgeable sales staff
-- Material certifications including RoHS and REACH compliance
-- Automation and machining enhancements that reduce lead times and cost
+- Large local inventory with quick quotes
+- Material certifications and RoHS/REACH compliance documentation
+- Workflow efficiencies and machining enhancements that reduce lead times
+- Personal, knowledgeable sales support
 
 ## Capabilities
 - Cut-to-size plastic fabrication
-- CNC machining
-- Material certification and compliance (RoHS, REACH)
-- Technical data sheet provision (material properties, chemical resistance, UL ratings)
-- Engineering and material selection support
+- Material data sheet provision
+- Chemical resistance data sheet provision
+- UL rating data sheet provision
+- Material certification
+- RoHS/REACH compliance support
+- Quick quoting
+- Inventory management
+- Technical sales support
 
 ## Industries
 - Aerospace
@@ -92,25 +100,25 @@ The company emphasizes that its differentiation lies in a personal, professional
 - Packaging
 
 ## Certifications
-- RoHS
+- ROHS
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Distributor / reseller
 - **Founded:** 1991
 - **Headquarters:** Circle Pines, Minnesota
 
 <details><summary>Sources</summary>
 
-- Founded 1991 -> db
-- Headquarters Circle Pines, Minnesota -> db
-- Certification RoHS -> db
-- Company premise and 90 years collective experience -> /about-us
-- Services: cut to size, machining enhancements, material data sheets, chemical resistance, UL ratings, RoHS/REACH -> /
-- Large local inventory, 73 product lines -> /about
-- Industries served list -> / and /about-us
-- Materials listed (ABS, Acetal, Acrylic, Phenolics, Celazole, CPVC, Delrin, Kapton) -> /about
-- Differentiators: personal experience, workflow efficiencies, machining enhancements, automation, communication channels -> /about-us
-- Type evidence quote -> /
+- Founded in 1991 -> db
+- Headquarters in Circle Pines, Minnesota -> db
+- Supplies and converts engineered and industrial plastics -> home page
+- Offers cut-to-size plastics in any quantity -> home page
+- Provides material data sheets, chemical resistance data sheets, UL rating data sheets, material certifications, RoHS & REACH information -> home page
+- Serves aerospace, automotive, construction, electronics, energy, food and beverage, furniture, marine, medical, military, missile and space, packaging -> home page
+- Over 90 years of combined plastics expertise -> about-us page
+- Workflow efficiencies, machining enhancements, added communication channels, automation -> about-us page
+- Materials: ABS, Acetal, Acrylic, Phenolic, Celazole PBI, CPVC, Delrin 150, Delrin AF Blend, DuPont Kapton HN -> products page
+- Certification: ROHS -> db
 </details>
 
 ---
@@ -120,38 +128,39 @@ The company emphasizes that its differentiation lies in a personal, professional
 **Old description:** ​Founded by Don Stevens in 1960, we are a wholesale distributor of equipment, parts, and supplies to diverse industries including Residential and Light Commercial Heating & Air Conditioning, and Hospitality based in Eagan, Minnesota. We pride ourselves on “Delivering hassle-free, customer-first solutions” in the form of best-in-class equipment from top manufacturers including Daikin, Goodman/Amana, and many more. ­We currently operate 15 branches in the states of Arizona, Colorado, Minnesota, Nevada, New Mexico, North Dakota, South Dakota, Utah, and Wisconsin. Our extensive distribution service network allows us to more accurately inventory the right product to meet the needs of local contractors who service the trades.
 
 ## About
-Stevens Equipment Supply is a wholesale distributor headquartered in Eagan, Minnesota. The company traces its roots to 1960 when Don Stevens founded the business as a manufacturer's representative for the dairy industry. Incorporated as Donald Stevens, Inc. in 1970, the firm transitioned to distribution in 1977, adding food service equipment to its lineup. In 1981 it began supplying packaged terminal air conditioners to the lodging sector, and in 2001 entered the HVAC market through a partnership with Goodman. The company was renamed Stevens Equipment Supply and relocated its headquarters in 2018.
+Stevens Equipment Supply is a wholesale distributor headquartered in Eagan, Minnesota. Founded in 1960 by Don Stevens as a dairy industry manufacturer's representative, the company incorporated as Donald Stevens, Inc. in 1970. In 2018 it was renamed Stevens Equipment Supply and relocated its headquarters to the Twin Cities metro area.
 
-Today the company distributes heating, ventilation, and air-conditioning equipment, parts, and supplies from brands such as Daikin, Goodman, and Amana. It operates 15 branches across Arizona, Colorado, Minnesota, Nevada, New Mexico, North Dakota, South Dakota, Utah, and Wisconsin. The distribution network supports online ordering, after-hours emergency service, warranty processing, commercial quoting, and bill payment. The staff provides technical training and issues service bulletins to keep contractors informed.
+The company distributes HVAC equipment, parts, and supplies for residential and light commercial heating and air conditioning, as well as packaged terminal air conditioners for the hospitality sector. It carries product lines from Daikin, Goodman/Amana, and Amana. With 15 branches across Arizona, Colorado, Minnesota, Nevada, New Mexico, North Dakota, South Dakota, Utah, and Wisconsin, the distributor maintains a regional inventory network to serve local contractors. Services include online ordering, after-hours support, warranty processing, and commercial quoting.
 
-Primary customers are HVAC contractors serving the residential and light commercial markets, as well as the hospitality industry that relies on packaged terminal air conditioners. The company also supplies food service equipment to that sector. Its regional branches stock inventory tailored to local contractor needs.
+Primary customers are HVAC contractors working in residential and light commercial markets, along with lodging and food-service operators who need packaged terminal air conditioners. The company's history shows a shift from dairy-industry representation to food-service equipment distribution in 1977, then to HVAC distribution with Goodman in 2001, and a Daikin partnership in 2014.
 
-Stevens Equipment Supply emphasizes a hassle-free, customer-first approach built on principles of honesty and integrity. It promises quick, equitable resolutions when issues arise and invests in hiring knowledgeable personnel who share industry expertise before and after the sale.
+The company emphasizes a reputation for integrity built on honesty and equitable problem resolution, and it highlights knowledgeable staff dedicated to knowledge sharing and service before and after the sale.
 
 ## Known for
-- 15 branches across nine states enabling localized inventory
-- Hassle-free, customer-first solutions with quick equitable resolutions
-- After-hours emergency support and online ordering
-- Technical training and service bulletins for contractors
-- Partnerships with major brands including Daikin, Goodman, and Amana
+- 15 branches across 9 states for regional inventory availability
+- Quick and equitable problem resolution promised
+- Knowledgeable staff focused on knowledge sharing and service
+- Extensive distribution network tailored to local contractor needs
 
 ## Capabilities
 - Wholesale distribution
+- HVAC equipment distribution
+- Food service equipment distribution
+- Packaged Terminal Air Conditioner distribution
 - Customer service
-- Online ordering
 - After-hours support
+- Online ordering
 - Warranty processing
 - Commercial quoting
-- Bill payment
-- Technical training
-- Service bulletins
 - Marketing support
+- Service bulletins
 
 ## Industries
-- Residential Heating & Air Conditioning
-- Light Commercial Heating & Air Conditioning
-- Hospitality (Lodging)
-- Food Service Equipment
+- Residential HVAC
+- Light Commercial HVAC
+- Hospitality
+- Lodging
+- Food Service
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -160,22 +169,15 @@ Stevens Equipment Supply emphasizes a hassle-free, customer-first approach built
 
 <details><summary>Sources</summary>
 
-- Founded by Don Stevens in 1960 as dairy industry manufacturer representative -> /about
-- Incorporated as Donald Stevens, Inc. in 1970 -> /about
-- Transition to distribution & food service equipment in 1977 -> /about
-- Began distributing PTAC to lodging industry in 1981 -> /about
-- Began HVAC distribution with Goodman in 2001 -> /about
-- Added Amana premium HVAC product line in 2003 -> /about
-- Partnered with Daikin in 2014 -> /about
-- Renamed to Stevens Equipment Supply and relocated headquarters in 2018 -> /about
-- Headquartered in Eagan, Minnesota -> / (corporate headquarters address)
+- Founded in 1960 by Don Stevens -> /about
+- Headquarters in Eagan, Minnesota -> /about
 - Operates 15 branches across 9 states -> /about
-- Distributes Daikin, Goodman/Amana brands -> /about
-- Offers online ordering, after-hours support, warranty, commercial quote, bill pay -> /
-- Provides training and service bulletins -> /
-- Serves HVAC contractors in residential and light commercial industries -> /about
-- Serves hospitality industry with PTAC -> /about
-- Emphasizes hassle-free, customer-first solutions, honesty, integrity -> /about
+- Distributes Daikin, Goodman/Amana, Amana HVAC equipment -> /about
+- Serves residential and light commercial HVAC and hospitality industries -> /about
+- History timeline: 1960 dairy industry manufacturer representative, 1977 transition to distribution, 2001 HVAC distribution with Goodman, 2014 Daikin partnership, 2018 renamed and relocated headquarters -> /about
+- Corporate headquarters address 945 Aldrin Drive, Eagan, MN 55121 -> /
+- After-hours support phone number -> /
+- LinkedIn URL -> db
 </details>
 
 ---
@@ -185,59 +187,58 @@ Stevens Equipment Supply emphasizes a hassle-free, customer-first approach built
 **Old description:** At Stitch Kentucky, our mission is to provide a comprehensive resource for sewing enthusiasts of all skill levels. Whether you're a beginner or a seasoned pro, we aim to help you take your sewing skills to the next level.
 
 ## About
-Based in Liberty, Kentucky, Stitch Kentucky operates a U.S.-based, ISO 9001-certified sewing and light assembly facility. The company serves as a domestic supplier for brands ranging from global corporations to startups, offering flexible production runs and speed-to-market advantages from its central Kentucky location.
+Stitch Kentucky operates from Liberty, Kentucky, as a U.S.-based sewing and light assembly facility. The company does not publicly disclose its founding year, ownership structure, or founders.
 
-The facility specializes in soft goods production, including automotive components, product assembly, packaging support, technical sewing, and product development. Its capabilities cover sewing, hand stitching, custom work, and light assembly, delivering consistent quality from first sample to final shipment. The team brings decades of combined industry experience, handling projects that span high-volume manufacturing and smaller creative ventures.
+The facility specializes in soft goods production, including machine and hand sewing, cutting, light assembly, and packaging support. Its capabilities span automotive interior components, knitwear, children’s apparel, military uniforms, hooded sweatshirts, blankets, pet accessories, dance costumes, and backpacks. The company serves both high-volume manufacturing and smaller prototype runs, though it does not publish facility size, headcount, or annual volume figures.
 
-Stitch Kentucky serves the automotive, apparel, military, pet accessory, dancewear, backpack, and blanket markets. Concrete product examples include automotive interiors, knitwear, children's apparel, military uniforms, hooded sweatshirts, pet accessories, hand-stitched dance costumes, and backpacks. Customers include global brands seeking scalable domestic supply and innovative startups launching first prototypes.
+Customers come from the automotive, apparel, military, pet product, dancewear, and bag industries, ranging from global brands to startups launching first prototypes. The Kentucky location is positioned for speed-to-market and flexible production runs.
 
-The company emphasizes precision, partnership, and product excellence, citing its ISO 9001 certification, flexible production runs, and a dedicated team invested in customer success as key differentiators. Its Kentucky location provides speed-to-market logistics, while the operation covers technical sewing through full product development with integrity and craftsmanship.
+Stitch Kentucky emphasizes precision, partnership, and product excellence, citing its ISO 9001 certification and decades of combined industry experience as foundations for consistent quality from sample to shipment. The company also notes its commitment to communication and craftsmanship at every step, from technical sewing to product development.
 
 ## Known for
-- ISO 9001 certified
-- Flexible production runs for high-volume and small-batch orders
-- Speed-to-market from Kentucky location
-- Technical sewing to full product development
-- Dedicated team focused on customer success
+- ISO 9001-certified sewing and light assembly facility
+- U.S.-based domestic supplier with Kentucky location for speed-to-market
+- Flexible production runs from prototype to high volume
+- Decades of combined industry experience across sewn products
 
 ## Capabilities
-- Sewing
+- Machine sewing
 - Hand stitching
-- Custom sewing
-- Soft goods manufacturing
-- Automotive component sewing
-- Product assembly
+- Cutting
+- Light assembly
 - Packaging support
+- Automotive interior sewing
 - Technical sewing
 - Product development
-- Light assembly
-- Cutting
 
 ## Industries
 - Automotive
 - Apparel
 - Military
-- Pet accessories
+- Pet products
 - Dancewear
-- Backpacks
-- Blankets
+- Bags and backpacks
+- Home textiles
 
 ## Certifications
 - ISO 9001
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
-- **Headquarters:** Liberty, KY
+- **Headquarters:** Liberty, Kentucky
 
 <details><summary>Sources</summary>
 
-- Location: Liberty, KY -> /
-- ISO 9001 certification -> /
-- Services: sewing, light assembly, soft goods, automotive components, product assembly, packaging support, technical sewing, product development -> /
-- Industries: automotive, apparel, military, pet accessories, dancewear, backpacks, blankets -> /
+- Location: Liberty, Kentucky -> /
+- ISO 9001 certification -> db, /
+- Services: sewing, light assembly, cutting, packaging -> /
+- Products: automotive interiors, knitwear, children's apparel, military uniforms, hooded sweatshirts, blankets, pet accessories, dance costumes, backpacks -> /
+- Industries: automotive, apparel, military, pet, dancewear, bags -> /
 - Customer types: global brands, startups -> /
-- Differentiators: precision, partnership, product excellence, flexible runs, speed-to-market, dedicated team -> /
-- Hiring sewing machine operators and cutting department employees -> /
+- Differentiators: speed-to-market, flexible runs, decades experience -> /
+- Headquarters: Liberty, Kentucky -> /
+- Company type: contract manufacturer -> /
+- Makes products: yes -> /
 </details>
 
 ---
@@ -247,34 +248,31 @@ The company emphasizes precision, partnership, and product excellence, citing it
 **Old description:** Located in Omaha NE, Stone Enterprises is a precision manufacturer of equipment and quality replacement parts for the food processing industry. Clients often have a significant costs savings when using our parts over buying OEM. Be assured that all equipment and quality replacement parts are individually inspected and tested in their designated application.
 
 ## About
-Stone Enterprises Inc., based in Omaha, Nebraska, traces its roots to February 2000 when it acquired a small machine shop in Hastings, Nebraska, to produce two components for a food-processing distributor. The company later expanded, purchasing a distributor of replacement parts in 2002 and adding a CNC machine shop to begin custom fabrication. In 2007 it hired its first full-time design engineer, and in 2010 it acquired American Meat Equipment, solidifying its focus on food-processing equipment and parts.
+Stone Enterprises Inc. is based in Omaha, Nebraska. The company traces its roots to February 2000, when it acquired a small machine shop in Hastings, Nebraska, to produce two components for a food‑processing distributor. Recognizing broader demand, the owners expanded by purchasing a parts distributor in 2002 and adding a CNC machine shop to begin custom fabrication. A full‑time design engineer joined in 2007, and the 2010 acquisition of American Meat Equipment solidified the firm’s focus on food‑processing equipment and replacement parts.
 
-Today the company operates as a precision manufacturer of both custom food-processing equipment and aftermarket replacement parts. Its 35-person team includes three design engineers, nine fabricators, ten master machinists, and twelve support staff. Core capabilities span CNC machining, welding and fabrication, mechanical assembly, and in-house design, with every part individually inspected and tested before shipment. The product line ranges from peelers, vacuum tables, and conveyor systems to custom sinks and stairways, alongside a broad catalog of replacement components for major OEM brands.
+Today Stone Enterprises manufactures both custom machinery and a wide range of replacement parts. Its equipment line includes the Stone Chine Saw, Hot Dog Peeler, Vacuum Table, Dip Tank Conveyor, Custom Sinks, Crossover Stairs, and Rotary Screen Filter. The replacement‑parts portfolio covers brands such as Handtmann, Ross, Townsend, Kartridg Pak, KP CHUB, Marel, Multivac, and others. Operations are carried out by a team of 35 — three design engineers, nine fabricators, ten master machinists, and twelve support staff — working from a facility that houses CNC machining, fabrication, and assembly capabilities.
 
-Stone Enterprises serves the food-processing sector, supplying both original equipment manufacturers and end-user plants. Its replacement-parts portfolio covers machines from brands such as Handtmann stuffers, Townsend peelers, Jarvis equipment, KP and CHUB packaging systems, Marel, Multivac, and others. Customers include meat and poultry processors, packaging operations, and food-production facilities seeking cost-saving alternatives to OEM parts.
+The company serves the food‑processing industry exclusively. Its customers include meat and poultry plants, prepared‑foods facilities, and packaging operations that rely on equipment from the OEMs listed above. Stone Enterprises positions itself as a cost‑saving alternative to original‑equipment manufacturers, offering parts that meet or exceed OEM specifications.
 
-The company emphasizes a culture of "under promise and over deliver," a principle dating back to its founding. It positions its replacement parts as meeting or exceeding OEM specifications while offering substantial cost savings, backed by a 100% satisfaction guarantee.
+Stone Enterprises emphasizes an “under promise and over deliver” philosophy and backs every replacement part with a 100% satisfaction guarantee. The firm states that clients realize significant cost savings compared with OEM parts, and that all components are individually inspected and tested in their intended application.
 
 ## Known for
-- 100% satisfaction guarantee on all replacement parts
-- Replacement parts meet or exceed OEM specifications
-- Significant cost savings compared to OEM parts
-- Every part individually inspected and tested in its intended application
-- In-house design engineering and custom fabrication capabilities
+- 100% Satisfaction Guarantee on all replacement parts
+- Parts meet or exceed OEM specifications
+- Significant cost savings over OEM parts
+- Under promise and over deliver philosophy
+- In-house design engineering team
 
 ## Capabilities
 - CNC machining
-- Welding and fabrication
-- Mechanical assembly
-- Design engineering
-- Inspection and testing
-- Custom equipment manufacturing
-- Replacement parts manufacturing
+- fabrication
+- design engineering
+- custom machine manufacturing
+- replacement parts manufacturing
+- inspection and testing
 
 ## Industries
 - Food processing
-- Meat processing
-- Food packaging
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -284,19 +282,16 @@ The company emphasizes a culture of "under promise and over deliver," a principl
 
 <details><summary>Sources</summary>
 
-- Headquarters in Omaha, NE -> db
-- Founded February 2000 via purchase of machine shop in Hastings, NE -> /about
-- Purchased distributor in 2002, acquired CNC machine shop -> /about
-- Hired full-time design engineer in 2007 -> /about
-- Acquired American Meat Equipment in 2010 -> /about
-- 35 employees (3 design engineers, 9 fabricators, 10 master machinists, 12 support staff) -> /about
-- Manufactures custom food-processing equipment and replacement parts -> /about, /
-- Capabilities: CNC machining, welding/fabrication, assembly, design, inspection -> /about, /quality
-- Products: peelers, vacuum tables, conveyors, custom sinks, stairways, rotary screen filters -> /
-- Replacement parts for Handtmann, Townsend, Jarvis, KP, CHUB, Marel, Multivac, etc. -> /quality
-- Serves food-processing industry, meat/poultry processors, packaging operations -> /about, /quality
-- Company culture: 'under promise and over deliver' -> /about
-- Parts meet/exceed OEM specs, significant cost savings, 100% satisfaction guarantee -> /, /quality
+- Founded February 2000 by purchasing a machine shop in Hastings, NE -> /about
+- 35 employees including 3 design engineers, 9 fabricators, 10 master machinists, 12 support staff -> /about
+- Manufactures custom food processing equipment (Stone Chine Saw, Hot Dog Peeler, Vacuum Table, Dip Tank Conveyor, Custom Sinks, Crossover Stairs, Rotary Screen Filter) -> /
+- Produces replacement parts for brands like Handtmann, Ross, Townsend, Kartridg Pak, KP CHUB, Marel, Multivac -> /quality
+- 100% Satisfaction Guarantee on all replacement parts -> /quality
+- Parts meet or exceed OEM specifications -> /quality
+- Under promise and over deliver philosophy -> /about
+- In-house design engineering team (3 engineers) -> /about
+- Purchased American Meat Equipment in 2010 -> /about
+- Located in Omaha, NE -> /
 </details>
 
 ---
@@ -306,32 +301,33 @@ The company emphasizes a culture of "under promise and over deliver," a principl
 **Old description:** Discover the wholesome taste of Happie from the comfort of your home. Our products are just a click away. Shop online now and have our nutritious, delicious offerings delivered right to your doorstep. Experience the difference of truly organic, seed oil-free foods that nourish both body and soul.
 
 ## About
-Stone Sisters Organics operates from Oklahoma City, Oklahoma, where it produces a line of organic sprouted spelt pizza crusts and cheese pizzas under the Happie brand. The company sells directly to consumers through its website and also offers wholesale partnerships for stores, restaurants, and delis.
+Stone Sisters Organics operates from Oklahoma City, Oklahoma, where it produces a line of organic, seed-oil-free pizza crusts and cheese pizzas under the Happie brand. The company does not publicly disclose its founding year or ownership structure, though the name suggests a family-led venture. Local customers can collect orders directly from the Oklahoma City facility.
 
-The product line centers on crusts made from organic sprouted spelt flour, which the company says undergoes a sprouting process that increases vitamin, mineral, and protein content. The cheese pizzas are built on those crusts with non-GMO hand-shredded mozzarella and a non-GMO house-made sauce. All items are marketed as seed-oil free and low-glycemic.
+The company manufactures Happie Organic Sprouted Spelt Crusts and Happie Cheese Pizzas, which are built on those crusts with non-GMO hand-shredded mozzarella and a non-GMO house-made sauce. A proprietary sprouting process for the spelt flour is cited as enhancing vitamin, mineral, and protein content. Products are sold in multi-count packs—12-count crust cases and 6-count pizza cases—and shipped via flat-rate delivery starting at $30 per order.
 
-Customers include home buyers ordering online for delivery or local pickup, as well as wholesale accounts such as grocery stores, restaurants, and delis looking to add a nutritious pizza option. The company promotes a wholesale inquiry program for bulk purchases.
+Stone Sisters Organics serves both retail consumers and wholesale buyers. The wholesale program targets grocery stores, restaurants, and delis looking to stock organic, low-glycemic pizza options. Direct-to-consumer sales are fulfilled through the company's e-commerce site.
 
-Stone Sisters Organics emphasizes that its products are made with carefully sourced organic ingredients and contain no seed oils, positioning them as a healthier alternative in the frozen pizza aisle. The sprouted spelt base is highlighted as a nutritional differentiator.
+The brand positions its products as “nutritious, delicious offerings that nourish both body and soul,” emphasizing the absence of seed oils and the nutritional benefits of sprouted grains. The company highlights its carefully sourced ingredients and a sprouting process that unlocks additional nutrients as core differentiators.
 
 ## Known for
-- Seed-oil free and low-glycemic formulations
-- Organic sprouted spelt flour with enhanced nutrient profile
+- Seed oil-free and low-glycemic formulations
+- Organic sprouted spelt flour crusts with enhanced nutrient profile
 - Non-GMO mozzarella and house-made pizza sauce
-- Wholesale partnership program for retailers and foodservice
-- Direct-to-consumer shipping with flat-rate options
+- Wholesale program for stores, restaurants, and delis
+- Local pickup available in Oklahoma City
 
 ## Capabilities
 - Organic sprouted spelt crust production
 - Cheese pizza assembly and baking
-- Wholesale order fulfillment
-- Direct-to-consumer e-commerce shipping
+- Wholesale distribution
+- Direct-to-consumer e-commerce fulfillment
+- Local order pickup
 
 ## Industries
-- Food manufacturing
-- Wholesale food distribution
-- Restaurant and foodservice supply
-- Retail grocery
+- Grocery stores
+- Restaurants
+- Delis
+- Direct-to-consumer food retail
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -339,13 +335,16 @@ Stone Sisters Organics emphasizes that its products are made with carefully sour
 
 <details><summary>Sources</summary>
 
-- Location: Oklahoma City, Oklahoma -> db
-- Products: Happie Organic Sprouted Spelt Crusts and Happie Cheese Pizzas -> /
-- Ingredients: organic sprouted spelt flour, non-GMO mozzarella, non-GMO house-made pizza sauce -> /
-- Seed oil-free, low-glycemic claims -> /
-- Wholesale program for stores, restaurants, delis -> /
-- Direct-to-consumer online sales and local pickup -> /
-- Sprouting process unlocks extra vitamins and minerals -> /
+- Headquarters in Oklahoma City, Oklahoma -> db
+- Produces Happie Organic Sprouted Spelt Crusts and Happie Cheese Pizzas -> page '/'
+- Crusts made with organic sprouted spelt flour; pizzas use non-GMO mozzarella and house-made sauce -> page '/'
+- Special sprouting process claimed to unlock extra vitamins, minerals, and protein -> page '/'
+- Products sold in 12-count crust packs and 6-count pizza cases -> page '/'
+- Flat-rate shipping starting at $30 per order -> page '/'
+- Local pickup available at Oklahoma City location -> page '/'
+- Wholesale program for stores, restaurants, and delis -> page '/'
+- Direct-to-consumer sales via e-commerce website -> page '/'
+- Brand emphasizes seed oil-free, low-glycemic, nutritious positioning -> page '/'
 </details>
 
 ---
@@ -355,42 +354,48 @@ Stone Sisters Organics emphasizes that its products are made with carefully sour
 **Old description:** At Stuart’s Sheet Metal in Austin Tx, we specialize in delivering high-quality custom sheet metal products tailored to meet your specific needs. Whether you’re a homeowner, builder, roofer, or construction company, our team handles everything from bespoke metal roof panels to architectural flashing, including large-volume orders for contractors and commercial projects. With precision fabrication, on-site roll forming, and a commitment to durability, we bring unmatched expertise to every project — making us the go-to shop for residential and commercial metalwork across Austin.
 
 ## About
-Stuart's Sheet Metal operates in Austin, Texas, and has served Central Texas for over 30 years. The business is family-owned and operated, though the exact founding year and founders' names are not disclosed. It began as a sheet metal fabrication shop focused on custom metalwork for residential and commercial projects.
+Stuart's Sheet Metal operates in Austin, Texas, where it has served Central Texas for over 30 years as a family-owned and operated shop. The business traces its roots to a founding focus on custom sheet metal fabrication, though a specific founding year is not published.
 
-The shop provides custom sheet metal fabrication, including on-site and in-house roll forming for standing seam roof systems (1-inch and 1.5-inch profiles), flashing (drip edge, valley, hip), chimney caps and chase covers, drain pans for water heaters and HVAC equipment, and window and door pans. It stocks flat sheets and coils in galvanized, Galvalume, painted (Berridge and McElroy colors), bonderized, stainless steel, and 16-ounce copper, and fulfills bulk orders with a 500-linear-foot minimum.
+The company fabricates custom sheet metal products including standing seam roof panels (one-inch and 1.5-inch systems), architectural flashing, chimney caps and chase covers, drain pans for HVAC and water heaters, and window and door pans. Processes encompass precision fabrication, both on-site and in-house roll forming, soldering of drain outlets, and custom bending to exact dimensions. The shop stocks 10-foot lengths of pitch-base, turnback, counter flashing, ledgestone flashing, and Z flashing, along with hundreds of pre-formed corners, kickouts, ridge caps, and pitch transitions, and fulfills bulk orders with a 500-linear-foot minimum.
 
-Customers include homeowners, roofers, builders, general contractors, custom home builders, waterproofing contractors, and architects across Central Texas. Reviews cite work for roof flashings, chimney covers, custom valley collector heads, and AC drip pans.
+Customers span residential and commercial construction, primarily roofing contractors, custom builders, waterproofing companies, and individual homeowners. The team works from client drawings or designs, providing takeoffs and estimates for metal roof and flashing packages, and supplies materials such as Berridge and McElroy 24-gauge painted metal, galvanized, Galvalume, bonderized, stainless steel, and 16-ounce copper.
 
-The company emphasizes fast turnaround, precision fabrication (with one review noting 1/16-inch accuracy), and a no-middleman approach, positioning its family ownership and three-decade local experience as key differentiators.
+The company emphasizes its family-owned structure, three decades of local experience, fast turnaround on custom and stock items, and a no-middleman approach that keeps fabrication in-house.
 
 ## Known for
+- Family owned and operated
 - 30+ years serving Central Texas
 - Fast turnaround on custom and stock orders
-- Family owned and operated
 - Custom fabrication with no middlemen
-- On-site roll forming capability
+- On-site and in-house roll forming capability
+- Bulk pricing and delivery (500' minimum)
 
 ## Capabilities
 - Custom sheet metal fabrication
 - On-site roll forming
 - In-house roll forming
-- Standing seam roof panel fabrication (1-inch, 1.5-inch)
-- Snap-lock and double-lock roof systems
-- Flashing fabrication (drip edge, valley, hip, custom roof/wall flashing)
-- Chimney cap and chase cover fabrication
-- Sheet metal drain pan fabrication
-- Window and door pan fabrication
+- Precision fabrication
+- Soldering
 - Metal roof supply takeoffs and estimates
-- Bulk material supply and delivery
-- Material stocking (flat sheets and coils)
+- Flashing takeoffs
+- Custom roof flashing
+- Custom wall flashing
+- Chimney caps and chase covers
+- Sheet metal drain pans
+- Window and door pans
+- Standing seam metal roof systems (1-inch, 1.5-inch)
+- Snap-lock and double-lock systems
+- Metal roof trim packages
 
 ## Industries
 - Residential construction
 - Commercial construction
 - Roofing
-- Architecture
 - Waterproofing
-- HVAC
+- Custom building
+
+## Equipment
+- Roll forming equipment (on-site and in-house)
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -400,19 +405,15 @@ The company emphasizes fast turnaround, precision fabrication (with one review n
 <details><summary>Sources</summary>
 
 - Location: Austin, Texas -> db
-- Family-owned and operated -> /services
-- Over 30 years experience -> /about-us, /services
-- Custom sheet metal fabrication, on-site roll forming -> /services
-- Standing seam roof systems (1-inch, 1.5-inch) -> /services
-- Flashing fabrication (drip edge, valley, hip, custom) -> /services
-- Chimney caps and chase covers -> /services
-- Drain pans for water heaters and HVAC -> /services
-- Window and door pans -> /services
-- Materials stocked: galvanized, Galvalume, painted (Berridge, McElroy), bonderized, stainless steel, copper -> /services
-- Bulk orders minimum 500 linear feet -> /services
-- Customers: homeowners, roofers, builders, contractors, architects, waterproofing companies -> /, /services
-- Fast turnaround claimed -> /services
-- Precision fabrication noted in review (1/16 inch) -> /
+- Family owned and operated -> /services
+- Over 30 years experience -> /about-us
+- Custom sheet metal fabrication, roll forming, flashing, chimney caps, drain pans, window/door pans -> /services
+- Stocks 10' lengths of pitch-base, turnback, counter flashing, ledgestone flashing, Z flashing; hundreds of corners, kickouts, ridgecaps, pitch transitions -> /services
+- Bulk orders minimum 500' of material -> /services
+- Materials: galvanized, galvalume, painted (Berridge, McElroy), bonderized, stainless steel, copper -> /services
+- Industries: residential, commercial, roofing, waterproofing, custom builders, homeowners -> /services, /
+- Precision down to 1/16 inch -> / (review)
+- Fast turnaround, no middlemen -> /services
 </details>
 
 ---
@@ -422,27 +423,26 @@ The company emphasizes fast turnaround, precision fabrication (with one review n
 **Old description:** Design-obsessed with uncompromising standards, we develop and manufacture beautiful, purposeful furniture in Grand Rapids, Michigan that helps tell a better story in any space. With tons of styles, surfaces, and finishes, you get the custom feel you want at the scale you need.
 
 ## About
-Studio Wise operates from Grand Rapids, Michigan, where it develops and manufactures furniture in collaboration with MatchLine Design Group. The company does not disclose its founding year or ownership structure.
+Studio Wise is a furniture manufacturer based in Grand Rapids, Michigan. The company develops and produces purposeful furniture collections designed to help clients tell a story in any space.
 
-The firm produces a range of tables and surfaces for dining, conference, team, and mobile settings. Its collections include Vesuvius, Stylos, Pinnacle, Pose, Zeplin, City, Strut, Apex, Geo, Blox, Parson, Staple, Elements, and Stein. Surface options feature Fuse Butcherblock, Studio Quartz, and Slatted Exterior finishes, marketed as premium materials for appearance and stability. The company emphasizes a platform for flexible, adaptive designs that deliver a custom feel at scalable volumes.
+Its product lineup spans dining, conference, team, and mobile categories, with collections such as Vesuvius, Stylos, Pinnacle, Pose, Zeplin, City, Strut, Apex, Geo, Blox, Parson, Staple, Elements, and Stein. The firm also offers a range of proprietary surfaces—including Fuse Butcherblock, Studio Quartz, and Slatted Exterior—crafted from premium materials for durability and appearance. Studio Wise emphasizes a flexible design platform that allows customization at scale, delivering a tailored aesthetic without sacrificing production efficiency.
 
-Studio Wise serves customers seeking furniture for collaborative and dining environments, including corporate offices, hospitality venues, and educational spaces. Its product categories span dining, mobile, team, and conference configurations.
+The company serves commercial interiors where dining, collaborative, and conference settings require adaptable furniture solutions. Its collections are specified for environments that range from corporate offices to hospitality venues, providing both fixed and mobile configurations.
 
-The company positions itself as design-obsessed with uncompromising standards, aiming to create beautiful, purposeful pieces that help tell a better story in any space. It highlights the use of premium materials for superior appearance and stability, ensuring a unique and timeless finish.
+Studio Wise was founded on a design-obsessed philosophy, aiming to combine uncompromising standards with a custom feel at the volume each project demands. The brand positions its furniture as a narrative tool, enabling clients to express identity through flexible, adaptive designs and timeless finishes.
 
 ## Known for
-- Design-obsessed with uncompromising standards
-- Custom feel at the scale you need
-- Premium materials for superior appearance and stability
+- Customizable furniture at scale
 - Flexible and adaptive design platform
-- Unique and timeless finish
+- Premium materials for superior appearance and stability
+- Design collaboration with MatchLine Design Group
 
 ## Capabilities
 - Furniture design
 - Furniture manufacturing
-- Custom furniture production
-- Surface finishing (butcherblock, quartz, slatted exterior)
-- Flexible/adaptive design platform
+- Custom finish application
+- Surface fabrication (butcherblock, quartz, slatted exterior)
+- Design collaboration
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -450,14 +450,13 @@ The company positions itself as design-obsessed with uncompromising standards, a
 
 <details><summary>Sources</summary>
 
-- Location: Grand Rapids, Michigan -> /
+- Headquarters: Grand Rapids, Michigan -> db
 - Develops and manufactures furniture -> /
-- Designer: MatchLine Design Group -> /
-- Collections: Vesuvius, Stylos, Pinnacle, Pose, Zeplin, City, Strut, Apex, Geo, Blox, Parson, Staple, Elements, Stein -> /
+- Product collections: Vesuvius, Stylos, Pinnacle, Pose, Zeplin, City, Strut, Apex, Geo, Blox, Parson, Staple, Elements, Stein -> /
 - Categories: Dining, Mobile, Team, Conference -> /
 - Surfaces: Fuse Butcherblock, Studio Quartz, Slatted Exterior -> /
-- Custom feel at scale -> /
-- Design-obsessed with uncompromising standards -> /
+- Designer: MatchLine Design Group -> /
+- Custom feel at scale, flexible adaptive designs -> /
 - Premium materials for superior appearance and stability -> /
 </details>
 
@@ -468,58 +467,42 @@ The company positions itself as design-obsessed with uncompromising standards, a
 **Old description:** We are a family owned business founded in 1992. Our original company is a German company founded in 1967.
 
 ## About
-Stuke Iowa operates from Houghton, Iowa, where it was established in 1992 as a family-owned business. The company traces its roots to a German plastics engineering firm founded in 1967, and today operates as Ferdinand Stuekerjuergen Inc. doing business as Stuke Iowa.
+Stuke Iowa operates from Houghton, Iowa, where it was established in 1992 as the U.S. subsidiary of the German Stuekerjuergen Group, a plastics engineering company founded in 1967. The business remains family-owned and is led by General Manager Frank Stuekerjuergen.
 
-The 30,000-square-foot facility produces custom plastic parts and profiles through extrusion, injection molding, and 3D printing (additive manufacturing for ABS, PC, and PEI/Ultem). Additional capabilities include assembly, in-house painting, and surface finishing, supported by milling, drilling, sanding, and polishing equipment.
+The roughly 30,000-square-foot facility provides custom plastic parts and profiles through extrusion, injection molding, and 3D printing (additive manufacturing for ABS, PC, and PEI/Ultem). Secondary operations include assembly, packaging, and in-house painting, supported by milling, drilling, sanding, and polishing equipment. The company works with a range of thermoplastics including ABS, HDPE, HIPS, PA, PC, PE, PEI, PES, PP, PVC, TPE, and TPV.
 
-Stuke Iowa serves the agriculture, construction, food, technical, and aerospace industries. The company emphasizes close customer communication and draws on engineering support from its German subsidiaries for material research and process integration.
+Stuke Iowa serves customers in agriculture, construction, food processing, technical equipment, and aerospace. References are limited by non-disclosure agreements, but the company notes long-standing relationships spanning more than 25 years in these sectors.
 
-The company states that quality and reliability are its main focus, backed by ISO 9001 and AS 9100 certifications. Partnerships with external laboratories provide specialized testing such as smoke, toxicity, heat release, environmental (DO160), fungus resistance, and shaker testing.
+The firm emphasizes quality and reliability, backed by ISO 9001 and AS 9100 certifications and a first-article inspection process per AS9102. Engineering support from the German parent enables material research and process integration, while a free 3D-printed prototype is offered for initial project validation.
 
 ## Known for
-- Family-owned with 50+ years of German plastics engineering heritage
+- Family-owned with German engineering heritage since 1967
 - ISO 9001 and AS 9100 certified quality management
-- In-house painting, assembly, and surface finishing under one roof
-- Engineering collaboration with German subsidiaries for material research and process integration
-- External laboratory partnerships for aerospace-grade testing (smoke, toxicity, environmental, fungus, shaker)
+- In-house painting, assembly, and packaging under one roof
+- Free 3D-printed prototype for new projects
+- Approximately 30,000 sq ft facility in Houghton, Iowa
 
 ## Capabilities
-- Extrusion
-- Injection Molding
-- 3D Printing (Additive Manufacturing)
-- Assembly
-- In-house Painting
-- Surface Finishing
-- Packaging
-- Dimensional Inspection
-- First Article Inspection (AS9102)
-- Production Monitoring
-- Material Research (with German subsidiaries)
-- Process Integration (with German subsidiaries)
-- Burn Testing (CS/FAR 25.853)
-- Color Measurement
-- Roughness Measurement
-- Moisture Testing
-- Paint Adhesion Testing
-- 3D Measuring
-- Smoke/Toxicity/Heat Release Testing
-- Environmental Testing (DO160)
-- Fungus Resistance Testing
-- Shaker Testing
+- Plastic extrusion
+- Injection molding
+- 3D printing (additive manufacturing)
+- Assembly and packaging
+- In-house painting and surface finishing
+- Quality inspection and first article inspection (AS9102)
+- Material research and development
+- Process integration support
+- Testing coordination with external laboratories (smoke, toxicity, heat release, environmental, fungus resistance, vibration)
 
 ## Industries
 - Agriculture
 - Construction
-- Food
-- Technical
+- Food processing
+- Technical equipment
 - Aerospace
 
 ## Equipment
-- Milling machines
-- Drilling machines
-- Sanding machines
-- Polishing machines
-- 3D printers (ABS, PC, PEI/Ultem)
+- Milling, drilling, sanding, and polishing machines
+- 3D printers for ABS, PC, PEI (Ultem)
 
 ## Certifications
 - ISO 9001
@@ -533,123 +516,24 @@ The company states that quality and reliability are its main focus, backed by IS
 
 <details><summary>Sources</summary>
 
-- Founded 1992 as family-owned business -> /about
-- German parent company founded 1967 -> /about
-- Facility approx. 30,000 sq ft -> /about
-- Processes: extrusion, injection molding, 3D printing, assembly, in-house painting -> /about
-- Materials: ABS, HDPO, HIPS, PA, PC, PE, PEI (Ultem), PES, PP, PVC, TPE, TPV -> /
-- Industries: agriculture, construction, food, technical, aerospace -> /about
-- Certifications: ISO 9001, AS 9100 -> /quality
-- Quality tests: burn test (CS/FAR 25.853), color measurement, roughness, moisture, paint adhesion, 3D measuring, smoke/toxicity/heat release, environmental (DO160), fungus resistance, shaker -> /quality
-- General Manager: Frank Stuekerjuergen -> /about
-- Company legal name: Ferdinand Stuekerjuergen Inc. dba. STUKE IOWA -> /about
-- Headquarters: Houghton, Iowa 52631, 1498 Highway 16 -> /about
-- Engineering support from German subsidiaries -> /about
-- External laboratory partnerships -> /quality
+- Family-owned business founded in 1992 -> /about
+- German parent company founded in 1967 -> /about
+- Facility approximately 30,000 square feet -> /about
+- Processes: extrusion, injection molding, 3D printing, assembly, in-house painting -> /about, /
+- Materials: ABS, HDPE, HIPS, PA, PC, PE, PEI (Ultem), PES, PP, PVC, TPE, TPV -> /
+- Industries served: agriculture, construction, food, technical, aerospace -> /about
+- Certifications: ISO 9001, AS 9100 -> /quality, /services
+- Free 3D printed prototype for new projects -> /
+- General Manager Frank Stuekerjuergen -> /about
+- Partnership with German subsidiaries for engineering support -> /about
+- Assembly includes milling, drilling, sanding, polishing -> /services
+- Quality analysis: burn test per CS/FAR 25.853, environmental test DO160, etc. -> /quality
+- First article inspection per AS9102 -> /quality
+- Location: Houghton, Iowa 52631 -> /, /about
 </details>
 
 ---
 
 # Sumitomo Chemical Advanced Technologies DBA Sumika Electronic Materials
 
-**Old description:** “We must not merely seek business profits but must contribute broadly to society through our business activities.” -Sumitomo Chemical, founded with the dual goals of eliminating pollution and helping increase crop yields, has upheld this founding principle as it has evolved in keeping with the changing times.
-
-## About
-Sumitomo Chemical Advanced Technologies, a wholly owned subsidiary of Japan’s Sumitomo Chemical Co., Ltd., operates from a 50,000-square-foot facility in Phoenix, Arizona. The U.S. entity was formed in 2003 when Sumitomo Chemical acquired the assets of ATMI’s GaAs epitaxial wafer business, building on epitaxial research that dates back to 1971.
-
-The company develops and manufactures compound-semiconductor epitaxial wafers using metalorganic chemical vapor deposition (MOCVD) on 2‑ to 6‑inch substrates, running eleven Aixtron reactors (2600 G3, 2400/2600 G3, and 2800 G4 models) with a stated capacity exceeding 100,000 wafers per year. It also produces super engineering plastics such as LCP, PES, and PPSU under the Sumikasuper and Sumikaexcel brands, compounds Penacolite resins for tire and rubber applications, grinds PES for advanced composites, and formulates photoresists, wet chemicals, polarizing films, and lithium‑battery separators.
-
-Customers span the semiconductor, wireless, automotive, consumer-electronics, solar-energy, medical-device, tire-and-rubber, and composite-materials sectors. The epitaxial foundry supplies HBT, pHEMT, LED, diode, and VCSEL wafers for wireless and optical communications, while engineering plastics and resins serve automotive connectors, industrial components, and medical applications. Photoresist and optical-film products target semiconductor lithography and display manufacturers.
-
-The business was created to strengthen Sumitomo Chemical’s position in the global semiconductor and IT-related materials market, leveraging the parent’s century-old commitment to solving environmental problems through chemistry. The company emphasizes a “Culture of Customer Focus” with goals of zero returns, 100% on-time delivery, and 100% customer satisfaction, backed by ISO 9001, ISO 14001, IATF 16949, and ISO 45001 certifications.
-
-## Known for
-- 24/7 engineering support in a completely tooled facility
-- Capacity exceeding 100,000 wafers per year
-- Full in-house characterization and large-area device fabrication
-- Facility expandable to 19 MOCVD reactors
-- ISO 9001, ISO 14001, IATF 16949, and ISO 45001 certified
-
-## Capabilities
-- MOCVD epitaxial wafer manufacturing
-- Super engineering plastics manufacturing (LCP, PES, PPSU)
-- Penacolite compounding resins production
-- PES grinding for advanced composites
-- High purity alumina production
-- Photoresist and wet chemicals development
-- Polarizing film development and supply
-- Lithium battery separator development
-- Resorcinol resins production
-- Rubber chemicals production
-- Polymer additives production
-- Semiconductor process materials development
-- Optical films development
-- Epitaxial wafer foundry services (HBT, pHEMT, LED, diode, VCSEL)
-- Engineering plastics specification and sales
-- Resin grinding
-- Super engineering plastics sales (Sumiploy, IGETABOND)
-- Photoresist resins and chemicals sales
-- Epitaxial wafer sales
-- Polarizing film sales
-
-## Industries
-- Semiconductor
-- Wireless communications
-- Automotive
-- Consumer electronics
-- Solar energy
-- Medical devices
-- Tire and rubber goods
-- Composite materials
-- Display manufacturing
-- Lithium battery
-- Industrial applications
-- Agriculture
-- Pharmaceutical
-- Personal care
-- Wood adhesive
-- Dyes
-- UVA
-
-## Equipment
-- 6 Aixtron 2600 G3 systems (5x150mm or 8x100mm)
-- 1 Aixtron 2400/2600 G3 system (5x100mm)
-- 4 Aixtron 2800 G4 systems (8x150mm)
-- Veeco E450 reactor
-- Full characterization facilities including large area device fab
-
-## Certifications
-- ISO 9001:2015
-- ISO 14001:2015
-- IATF 16949:2016
-- ISO 45001:2018
-- RoHS compliant
-- REACH compliant
-- Dodd-Frank Conflict Minerals Regulation compliant
-
-## Company details
-- **Company Type:** Manufacturer
-- **Founded:** 2003
-- **Ownership:** Wholly owned subsidiary of Sumitomo Chemical Co., Ltd.
-- **Headquarters:** Phoenix, Arizona
-
-<details><summary>Sources</summary>
-
-- Headquarters: Phoenix, Arizona -> /about-us
-- Founded as US subsidiary in 2003 via ATMI asset acquisition -> /about-us
-- Wholly owned subsidiary of Sumitomo Chemical Co., Ltd. -> /about-us
-- 50,000 sq. ft. total facility, 30,000 sq. ft. manufacturing, 6,000 sq. ft. clean room -> /about-us
-- Eleven Aixtron reactors (models listed) with capacity >100,000 wafers/year -> /about-us
-- Manufactures epitaxial wafers (HBT, pHEMT, LED, diode, VCSEL) via MOCVD -> /
-- Produces super engineering plastics (LCP, PES, PPSU) under Sumikasuper/Sumikaexcel brands -> /
-- Compounds Penacolite resins for tire/rubber industries -> /
-- PES grinding for advanced composites -> /
-- Develops photoresists, wet chemicals, polarizing films, lithium battery separators -> /
-- Certifications: ISO 9001:2015, ISO 14001:2015, IATF 16949:2016, ISO 45001:2018, RoHS, REACH, Conflict Minerals -> /about-us
-- Serves semiconductor, wireless, automotive, consumer electronics, solar, medical, tire/rubber, composites -> /about-us, /
-- 24/7 engineering support, full characterization, device fab -> /about-us
-- Facility expandable to 19 reactors -> /about-us
-- Parent company Sumitomo Chemical founded 1913 -> /
-</details>
-
----
+_skipped: not enough facts_

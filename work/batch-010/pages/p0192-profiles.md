@@ -3,30 +3,29 @@
 **Old description:** JFD-PK Medical LLC is a Critical Care research and development company providing innovative solutions for today's critical care needs. The company is founded by Dr. Jameel Durrani, a board-certified pulmonologist and critical care physician with over 20 years of clinical experience. Dr. Durrani is passionate about improving the quality of care for critically ill patients, and he believes that innovation is key to achieving this goal.
 
 ## About
-JFD-PK Medical LLC is based in Center Valley, Pennsylvania. The company was founded by Dr. Jameel Durrani, a board-certified pulmonologist and critical care physician with more than 20 years of clinical experience. Dr. Durrani established the company to pursue innovations in bedside critical care medicine, driven by a passion for improving the quality of care for critically ill patients.
+JFD-PK Medical LLC is based in Center Valley, Pennsylvania. The company was founded by Dr. Jameel Durrani, a board‑certified pulmonologist and critical care physician with more than 20 years of clinical experience. Dr. Durrani established the business to translate his frontline expertise into innovative solutions for critically ill patients.
 
-The company operates as a supplier and manufacturer of catheters and chest tubes, focusing on research and development of critical care solutions. Its product pipeline includes a chest drainage system designed for greater patient comfort and effectiveness, a vascular guidewire technique aimed at providing clinicians with precision and shorter procedure times, and a long-term pleural drainage catheter built for comfort and convenience across various care environments. Specific facility size, headcount, and production volumes have not been disclosed.
+The company develops and manufactures a range of critical‑care devices, including chest drainage systems, vascular guidewire technologies, and long‑term pleural drainage catheters. It operates as both a research‑and‑development organization and a manufacturer of its own catheter and chest‑tube product lines.
 
-JFD-PK Medical serves the critical care medicine sector, targeting clinicians and healthcare providers who manage critically ill patients. Its products are intended for use in hospital and clinical settings where pleural drainage, chest tube placement, and vascular access procedures are performed.
+Its products are intended for clinicians and hospitals practicing critical care medicine, with a focus on bedside procedures such as thoracic drainage and vascular access. The company collaborates directly with physicians to refine device design for real‑world clinical use.
 
-The company states that its founding principle is innovation as the key to better patient outcomes. It emphasizes collaboration with clinicians during development to ensure products meet real-world needs and aims to make its solutions widely accessible to the clinical community.
+Dr. Durrani’s stated motivation is to improve the quality of care for critically ill patients through innovation. The company emphasizes clinician collaboration during development and aims to make its devices widely accessible to healthcare providers.
 
 ## Known for
-- Chest drainage system engineered for patient comfort and effectiveness
-- Vascular guidewire technique designed for precision and reduced procedure time
-- Long-term pleural drainage catheter offering comfort and convenience in multiple settings
-- Clinician-informed product development process
-- Goal of broad clinical accessibility for critical care innovations
+- Clinician‑driven design for critical‑care devices
+- Patient‑comfort focus in drainage and catheter systems
+- Procedural efficiency via novel guidewire technique
+- Broad accessibility for healthcare providers
 
 ## Capabilities
-- Medical device R&D
-- Catheter manufacturing
-- Chest tube manufacturing
-- Clinical collaboration for product design
+- Critical care medical device research and development
+- Chest drainage system manufacturing
+- Vascular guidewire system development
+- Long-term pleural drainage catheter manufacturing
 
 ## Industries
 - Critical care medicine
-- Medical devices
+- Medical device manufacturing
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -34,13 +33,13 @@ The company states that its founding principle is innovation as the key to bette
 
 <details><summary>Sources</summary>
 
-- Founded by Dr. Jameel Durrani, board-certified pulmonologist and critical care physician with over 20 years clinical experience -> /about-us
-- Headquartered in Center Valley, Pennsylvania -> db
-- Described as Supplier & Manufacturer of Catheters & Chest Tubes -> /about-us
-- Products include chest drainage system, vascular guidewire technique, long-term pleural drainage catheter -> /about-us
-- Company focuses on innovations in bedside critical care medicine -> /about-us
-- Company goals: develop innovative products, collaborate with clinicians, make products widely available -> /about-us
-- Company described as new and committed to innovation and excellence -> /about-us
+- Company name and location: Center Valley, Pennsylvania -> db
+- Founder: Dr. Jameel Durrani, board-certified pulmonologist and critical care physician with over 20 years clinical experience -> /about-us
+- Company description: Critical Care research and development company providing innovative solutions -> /about-us
+- Products: chest drainage system, vascular guidewire technique, long-term pleural drainage catheter -> /about-us
+- Company identified as Supplier & Manufacturer of Catheters & Chest Tubes -> /about-us
+- Goals: develop innovative products, collaborate with clinicians, make products widely available -> /about-us
+- Commitment to innovation and excellence in critical care medicine -> /about-us
 </details>
 
 ---
@@ -50,34 +49,34 @@ The company states that its founding principle is innovation as the key to bette
 **Old description:** Since 1986 we have been committed to producing precise, high tolerance sheet metal and machine parts for all industries. We create partnerships with our customers to help them succeed by meeting and exceeding expectations on quality and on time delivery in addition to maintaining competitive pricing.
 
 ## About
-Founded in 1986, JIT Manufacturing operates from a 32,031-square-foot facility in Woodinville, Washington, just northeast of Seattle along the I-405 corridor. The company began with a focus on precision sheet metal and machined parts for a variety of industries.
+JIT Manufacturing was founded in 1986 in Woodinville, Washington, a suburb northeast of Seattle along the I-405 corridor. The company operates a 32,031-square-foot facility in the Park 144 industrial complex, dedicated to precision sheet metal fabrication and CNC machining.
 
-The shop provides precision sheet metal fabrication and CNC machining, including laser cutting, forming, punching, welding (AWS D17.2 spot-weld and AWS D1.3 plug-weld certified), and hardware installation such as studs, standoffs, and nuts. Through partner networks it also offers finishing services like plating, anodizing, painting, powder coating, and silk-screening. First-article inspection to AS9102 standards is available on request.
+The shop provides in-house laser cutting, forming, CNC machining, welding (including AWS D17.2 spot-weld and AWS D1.3 plug-weld certified processes), punching, and hardware installation such as studs, standoffs, and nuts. It also offers assembly services and coordinates with regional finishing partners for plating, anodizing, painting, powder coating, and silk-screening. Quality control relies on calibrated measuring equipment including a Fabrivision part inspection scanner, Tesa Hite gauge, digital calipers up to 80 inches, and SolidWorks first-article software with AS9102 reporting.
 
-JIT serves the aerospace, medical, and electronics sectors, among others, producing components ranging from simple panels to complex assemblies. Its quality system targets a 98 percent internal and customer acceptance rate and a 98 percent on-time delivery rate, with measuring equipment calibrated to national standards.
+JIT serves the aerospace, medical, and electronics industries, targeting customers that require high-tolerance metal parts and assemblies. The company emphasizes partnerships with clients to meet quality and on-time delivery expectations while maintaining competitive pricing.
 
-The company's stated mission is to be an outstanding precision manufacturer for aerospace, medical, and electronics customers, emphasizing reliability, continuous improvement, and on-time delivery. It highlights quick turnaround, strict quality control, and partnerships with regional finishing houses as key differentiators.
+The business highlights its ISO 9001:2015 certification, welding certifications, and a quality management system that aims for 98 percent internal and customer acceptance rates and 98 percent on-time delivery. First-article inspection reports to AS9102 standards are available upon request.
 
 ## Known for
 - ISO 9001:2015 certified through TUV North America
-- AWS D17.2 spot-weld certified (Class C, 2,000 lbs) and AWS D1.3 plug-weld certified
-- First Article Inspection to AS9102 standards available
-- 32,031 sq ft facility with laser cutting, CNC machining, welding, and hardware installation
-- 98% on-time delivery target and 98% acceptance rate quality objectives
+- AWS D17.2 spot-weld and AWS D1.3 plug-weld certifications
+- First Article Inspection reports to AS9102 standards
+- 32,031 sq ft facility with in-house laser cutting, forming, CNC machining, welding, and hardware installation
+- Finishing partnerships for plating, anodizing, painting, powder coating, and silk-screening
 
 ## Capabilities
 - Precision sheet metal fabrication
 - CNC machining
 - Laser cutting
 - Forming
+- Welding (spot and plug)
 - Punching
-- Spot welding (AWS D17.2 certified)
-- Plug welding (AWS D1.3 certified)
 - Hardware installation (studs, standoffs, nuts)
-- Finishing coordination (plating, anodizing, painting, powder coating, silk-screening)
-- First article inspection (AS9102)
+- Assembly
+- Shipping (domestic and international)
+- First Article Inspection (AS9102)
 - Material, hardware, and finish certification
-- Quality control with calibrated measuring equipment
+- Quality management system (ISO 9001:2015)
 
 ## Industries
 - Aerospace
@@ -85,20 +84,22 @@ The company's stated mission is to be an outstanding precision manufacturer for 
 - Electronics
 
 ## Equipment
+- 48" wide shear
+- Laser cutting system
+- CNC machining centers
 - Fabrivision Part Inspection Scanner
 - Tesa Hite Gauge 700
-- 24-inch Digital Dimension Inspection Table
-- 80-inch Digital Calipers
-- 24-inch Digital Calipers
-- 24-inch Vernier Calipers
-- 12-inch & 24-inch Height Gauges
+- 24" Digital Dimension Inspection Table
+- 80" Digital Calipers
+- 24" Digital Calipers
+- 24" Vernier Calipers
+- 12" & 24" Height Gauges
 - Pocket Surf Portable Roughness Gauge
 - Fowler Bower Holematic .250-.750 Diameter Gauge
 - Digital Force Gauge for Hardware Inspection
 - Calibrated Pin Gauges
 - Calibrated Surface Plate
 - SolidWorks First Article Software with AS9102 Reporting
-- 48-inch wide shear
 
 ## Certifications
 - ISO 9001:2015
@@ -114,18 +115,18 @@ The company's stated mission is to be an outstanding precision manufacturer for 
 <details><summary>Sources</summary>
 
 - Founded in 1986 -> /about-us
-- Located in Woodinville, WA -> /about-us
+- Headquarters in Woodinville, Washington -> /about-us
 - 32,031 sq ft facility -> /about-us
 - ISO 9001:2015 certified through TUV North America -> /
-- AWS D17.2 spot-weld certified Class C 2000 lbs -> /
-- AWS D1.3 plug-welding certified -> /
-- First Article Inspection to AS9102 standards -> /quality
-- Processes: laser cutting, forming, CNC machining, welding, punching, hardware installation -> /about-us
-- Finishing partnerships: plating, anodizing, painting, powder coating, silk-screening -> /about-us
-- Quality objectives: 98% acceptance rate, 98% on-time delivery -> /quality
-- Measuring equipment list -> /quality
-- Industries: aerospace, medical, electronics -> /
-- Mission statement: outstanding precision manufacturer for aerospace, medical, electronics -> /
+- AWS D17.2 spot-weld certified, Class C at 2,000 lbs -> /
+- AWS D1.3 plug-weld certified -> /
+- First Article Reports to AS9102 standards available -> /quality
+- Industries served: Aerospace, Medical, Electronics -> /
+- Processes: laser cutting, forming, CNC machining, welding, punching, hardware installation, assembly -> /about-us
+- Finishing partnerships for plating, anodizing, painting, powder coating, silk-screening -> /about-us
+- Quality measuring equipment: Fabrivision Part Inspection Scanner, Tesa Hite Gauge 700, 24" Digital Dimension Inspection Table, 80" Digital Calipers, 24" Digital Calipers, 24" Vernier Calipers, 12" & 24" Height Gauges, Pocket Surf Portable Roughness Gauge, Fowler Bower Holematic .250-.750 Diameter Gauge, Digital Force Gauge for Hardware Inspection, Calibrated Pin Gauges, Calibrated Surface Plate, SolidWorks First Article Software with AS9102 Reporting -> /quality
+- 48" wide shear and laser cutting capabilities -> /
+- Commitment to 98% internal/customer acceptance rate and 98% on-time delivery -> /quality
 </details>
 
 ---
@@ -135,52 +136,51 @@ The company's stated mission is to be an outstanding precision manufacturer for 
 **Old description:** JJISCO, Inc.® is a premier organization dedicated to supporting customer requirements since 1998 with innovative components and solutions to enhance your products and, ultimately, your bottom line.
 
 ## About
-JJISCO, Inc. is headquartered in Oconomowoc, Wisconsin. The company traces its roots to 1998, when it was established as a wholly-owned subsidiary of a 40-year-old industrial organization. Its name derives from the founder’s initials combined with “Innovative Solutions Company,” and it was formally formed in 2000 to provide quality material component solutions for OEMs.
+JJISCO, Inc. has been supporting customer requirements from its headquarters in Oconomowoc, Wisconsin since 1998. The company was formally organized in 2000 as a wholly owned subsidiary of a 40-year-old parent organization, taking its name from the founder's initials combined with "Innovative Solutions Company."
 
-The company manufactures custom and standard engineered components from hard materials including silicon carbide, tungsten carbide, and engineered ceramics such as alumina and zirconia. Its product range covers seals, bushings, shafts, nozzles, wear rings, thrust plates, seats, frac plug buttons, burst discs, bearings, mag drive components, rotary steerable system components, and semiconductor parts. JJISCO operates a mid-size facility in southeast Wisconsin capable of both high- and low-volume production, supported by sub-contract assembly, material selection services, and a just-in-time/Kanban inventory system.
+The company manufactures custom engineered components from hard materials including silicon carbide, tungsten carbide, alumina, and zirconia ceramics. Its product range covers seals, bushings, shafts, nozzles, wear rings, thrust plates, valve components, frac plug buttons, large-diameter seal faces, semiconductor parts, burst discs, bearings, magnetic-drive components, and rotary steerable system components. JJISCO also provides material selection, design-for-manufacturability assistance, sub-contract assembly, supply-chain optimization, and inventory programs such as just-in-time and Kanban-supported warehousing. Its Wisconsin facility handles both high- and low-volume production.
 
-Primary markets include oil and gas (frac plug buttons, rotary steerable system components), semiconductor manufacturing, industrial valve and bearing production, and mag drive applications. The company serves OEMs seeking collaborative partnerships for component design, material selection, and supply chain optimization.
+JJISCO serves original equipment manufacturers in oil and gas (frac plug buttons, rotary steerable systems), semiconductor manufacturing, valve production, magnetic-drive systems, and general industrial markets. Customers rely on the company for both standard and custom components, often involving collaborative development from concept through packaging.
 
-JJISCO differentiates itself through three pillars: Quality Components, backed by ISO 9001:2015 certification and full traceability; Tailored Solutions, involving engineers and technical sales staff in co-developing designs; and Personalized Service, enabled by a nimble footprint that promises fast response times and flexible, customer-specific support.
+The company's differentiation rests on three pillars: quality components backed by ISO 9001:2015 certification and full material traceability; tailored solutions that include engineering collaboration and flexible supply-chain programs; and personalized service enabled by a mid-size structure that promises fast response times and local technical support across the country.
 
 ## Known for
-- ISO 9001:2015 certification with full material-to-packaging traceability
+- ISO 9001:2015 certification with full order traceability from raw material to packaging
 - Mid-size operation enabling personalized service and fast response times
-- Just-in-time/Kanban-supported inventory programs
-- In-house engineers and nationwide technical sales professionals
+- Just-in-time and Kanban-supported inventory programs
+- In-house engineers and technical sales professionals located nationwide
 - Custom material selection and design-for-manufacturability assistance
 
 ## Capabilities
-- Custom engineered component manufacturing
-- CNC machining of hard materials (silicon carbide, tungsten carbide, ceramics)
-- Seal component manufacturing
-- Bushing component manufacturing
-- Shaft component manufacturing
-- Nozzle component manufacturing
-- Bearing component manufacturing
-- Valve component manufacturing
-- Frac plug button manufacturing
-- Rotary steerable system component manufacturing
-- Mag drive component manufacturing
-- Semiconductor component manufacturing
-- Burst disc and dome manufacturing
-- Wear ring and thrust washer manufacturing
-- Large diameter seal face manufacturing
-- Assembly services (sub-contract assembly)
-- Material selection services
-- Design for manufacturability assistance
-- Quality assurance (ISO 9001:2015)
-- Supply chain optimization
-- Inventory management (JIT/Kanban)
-- Custom labeling and hold-for-release blanket inventory warehousing
+- Custom Engineered Component Manufacturing
+- Hard Material Machining (Silicon Carbide, Tungsten Carbide, Alumina, Zirconia)
+- Material Selection Services
+- Design for Manufacturability
+- Sub-contract Assembly
+- Supply Chain Optimization
+- Inventory Management (JIT/Kanban, Blanket Warehousing, Custom Labeling)
+- Quality Assurance (ISO 9001:2015)
+- Seal Component Manufacturing
+- Bushing Component Manufacturing
+- Shaft Component Manufacturing
+- Nozzle Component Manufacturing
+- Bearing Component Manufacturing
+- Valve Component Manufacturing
+- Semiconductor Component Manufacturing
+- Rotary Steerable System Component Manufacturing
+- Magnetic Drive Component Manufacturing
+- Large Diameter Seal Face Manufacturing
+- Frac Plug Button Manufacturing
+- Burst Disc & Dome Manufacturing
+- Wear Ring / Thrust Washer Manufacturing
 
 ## Industries
 - Oil & Gas
 - Semiconductor
-- Industrial Valves
-- Bearings
-- Mag Drive Systems
+- Valve Manufacturing
+- Magnetic Drive Systems
 - Rotary Steerable Systems
+- General Industrial OEMs
 
 ## Certifications
 - ISO 9001:2015
@@ -188,22 +188,20 @@ JJISCO differentiates itself through three pillars: Quality Components, backed b
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1998
-- **Ownership:** Wholly-owned by a 40-year old organization
+- **Ownership:** Wholly owned by a 40-year-old organization
 - **Headquarters:** Oconomowoc, Wisconsin
 
 <details><summary>Sources</summary>
 
-- Headquarters in Oconomowoc, Wisconsin -> db, /about-us
-- Founded in 1998 (db) and formed in 2000 -> db, /about-us
-- Wholly-owned by a 40-year-old organization -> /about-us
-- Name from founder's initials + 'Innovative Solutions Company' -> /about-us
-- Materials: silicon carbide, tungsten carbide, engineered ceramics (alumina, zirconia) -> /, /about-us
-- Product list: seals, bushings, shafts, nozzles, wear rings, thrust plates, seats, frac plug buttons, burst discs, bearings, mag drive components, rotary steerable system components, semiconductor components -> /, /about-us
+- Founded 1998 -> db
+- Formed in 2000 as wholly owned subsidiary -> /about-us
+- Headquarters Oconomowoc, Wisconsin -> db
 - ISO 9001:2015 certified -> /, /about-us, /services
-- Mid-size facility in southeast Wisconsin, capable of high/low volume -> /about-us
-- Just-in-time/Kanban inventory system -> /about-us, /services
-- In-house engineers and technical sales professionals nationwide -> /about-us
-- Assembly services, material selection, design for manufacturability, supply chain optimization, inventory services -> /services
+- Materials: silicon carbide, tungsten carbide, engineered ceramics (alumina, zirconia) -> /
+- Products: seals, bushings, shafts, nozzles, wear rings, thrust plates, valve components, frac plug buttons, large diameter seal faces, semiconductor components, burst discs & domes, bearings, mag drive components, rotary steerable system components -> /
+- Services: material selection, design for manufacturability, assembly, supply chain optimization, inventory services (JIT/Kanban) -> /services
+- Industries: oil & gas (frac plug, rotary steerable), semiconductor, valve, mag drive -> /, /services
+- Mid-size operation, personalized service, fast response, local technical sales -> /about-us
 - Three pillars: Quality Components, Tailored Solutions, Personalized Service -> /, /about-us
 - LinkedIn URL -> db
 </details>
@@ -215,42 +213,40 @@ JJISCO differentiates itself through three pillars: Quality Components, backed b
 **Old description:** We founded JLwoodworks out of a pure passion for people and being hands on. Our goals, ambitions and inspirations have come together to form a truly amazing company that we are proud of. With a little brains and brawn your ideas are brought to life. Get in touch to learn more about JLwoodworks, and how we’ve been loyally serving our customers since 2016.
 
 ## About
-JL Woodworks, LLC is a locally owned and operated woodworking shop based in Prairieville, Louisiana, serving the greater Baton Rouge area. Founded in 2016, the company began from a passion for hands‑on work and bringing clients' ideas to life.
+JL Woodworks, LLC was founded in 2016 in Prairieville, Louisiana. The company is locally owned and operated, established out of a passion for hands-on work and serving customers in the greater Baton Rouge area. Since its inception, the team has focused on bringing client ideas to life through a blend of design expertise and craftsmanship.
 
-The shop produces custom cabinetry, built‑ins, kitchen and bathroom remodels, custom closets, dining tables, vanities, mud rooms, desks, and shelving for both new construction and renovation projects. It also offers 3D rendering services to help clients visualize designs, and fabricates smaller items such as cutting boards and wooden gifts.
+The shop specializes in custom cabinetry and woodworking, producing built-ins, mudroom systems, closets, kitchen and bathroom remodels, custom dining tables, desks, shelving, and smaller items such as cutting boards and wooden gifts. It also provides 3D rendering services to help clients visualize design and remodeling projects before fabrication begins.
 
-JL Woodworks serves homeowners, contractors, and builders throughout the Baton Rouge region, providing tailored woodwork for residential kitchens, bathrooms, closets, and whole‑home new‑construction packages, as well as custom pieces for individual rooms.
+JL Woodworks serves residential homeowners, builders, and contractors throughout the Baton Rouge region, taking on projects ranging from new construction cabinetry to whole-room renovations. The company works directly with clients to translate building plans or ideas into finished wood products, offering a range of services from initial design through final installation.
 
-The founders emphasize a people‑first approach, stating that their primary goal in every business decision is to achieve a high level of customer satisfaction, a commitment they have maintained since opening in 2016.
+The founders cite a pure passion for people and hands-on creation as the reason for starting the business, and state that their primary goal in every decision is to achieve a high level of customer satisfaction. This customer-first approach guides their project management and product quality.
 
 ## Known for
 - 3D rendering for design and remodeling
-- Custom cabinetry, built‑ins, and millwork for new construction and remodels
-- Custom cutting boards and small wooden gifts
-- Locally owned and operated, serving greater Baton Rouge
-- Customer satisfaction as primary business goal
+- Custom cabinetry, built-ins, and specialty wood products
+- Locally owned and operated
+- Customer satisfaction as primary goal
+- Service area: greater Baton Rouge region
 
 ## Capabilities
 - Custom cabinetry
-- Built-in cabinetry
 - Kitchen remodeling
 - Custom closet design
-- Custom dining table fabrication
+- Custom dining tables
 - Bathroom vanity fabrication
-- Mud room design and fabrication
-- Custom desk and shelving fabrication
+- Mud room design
+- Custom desks and shelving
 - New construction cabinetry
-- 3D rendering for design
-- Custom cutting board fabrication
-- Small wooden gift fabrication
+- Built-in furniture
+- 3D design rendering
+- Custom cutting boards
+- Small wooden gifts
 
 ## Industries
 - Residential construction
 - Home remodeling
-- Kitchen and bath
-- Custom woodworking
 - Interior design
-- New home construction
+- Cabinetry
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -262,13 +258,12 @@ The founders emphasize a people‑first approach, stating that their primary goa
 
 - Founded in 2016 -> db
 - Headquarters in Prairieville, Louisiana -> db
-- Locally owned and operated -> page /
-- Serves greater Baton Rouge area -> page /
-- Custom cabinetry, built-ins, kitchen/bath remodels, closets, dining tables, vanities, mud rooms, desks, shelving -> page /
-- 3D rendering for design and remodeling -> page /
-- Custom cutting boards and small wooden gifts -> page /
-- Primary goal high customer satisfaction -> page /
-- Founded from passion for people and hands-on work -> page /
+- Locally owned and operated -> /
+- Custom cabinetry, built-ins, closets, remodels, new construction, cutting boards, small wooden gifts -> /
+- 3D rendering for design and remodeling -> /
+- Services greater Baton Rouge area -> /
+- Primary goal is high level of customer satisfaction -> /
+- Founded out of passion for people and hands-on work -> /
 </details>
 
 ---
@@ -278,26 +273,23 @@ The founders emphasize a people‑first approach, stating that their primary goa
 **Old description:** We have everything to cover your packaging needs.  Our team can help you with various options for seafood, produce, and other essential packaging products. Custom printing and sizing are available on most products.
 
 ## About
-JMI Packaging Solutions, L.L.C. is headquartered in Ponchatoula, Louisiana. The company presents itself as a local packaging professional serving the Gulf South region.
+JMI Packaging Solutions, L.L.C. operates from Ponchatoula, Louisiana, supplying packaging products and custom solutions to businesses across the Gulf South. The company's history and ownership details are not publicly disclosed, but it presents itself as a local packaging professional with a focus on seafood, produce, and essential packaging needs.
 
-The company’s product portfolio spans several categories: corrugated and plastic boxes; bags and sacks including poly, mesh, and specialty sacks; rigid and insulated containers; plastic corrugated sheets; and miscellaneous packaging supplies such as tapes, films, and protective materials. It also offers cold chain packaging solutions featuring the Cajun Ice® brand gel ice packs, as well as custom tarps and covers fabricated for equipment and cargo protection. A key service is custom printing and sizing, which the company says is available on most of its stock items. Support includes a customer service manager and a network of sales representatives to help clients select appropriate packaging.
+The product line includes corrugated boxes, bags and sacks, plastic corrugated sheets, containers, and miscellaneous packaging supplies. The company also fabricates custom tarps and covers and offers Cajun Ice® gel ice packs for cold-chain applications. Custom printing and sizing are available on most stock items, allowing customers to brand packaging or fit specific dimensions. The firm emphasizes a full product list that spans from basic boxes to specialized cold-chain solutions.
 
-The firm’s core markets are the seafood and produce industries, where packaging must preserve freshness and withstand cold, wet conditions. It also fields inquiries from other industrial sectors needing packaging materials.
+Primary markets served are seafood and produce processors, along with other industries requiring cold-chain and protective packaging. The firm works with commercial growers, shippers, and distributors who need temperature-controlled and moisture-resistant packaging for perishable goods. The website invites inquiries for all industry needs, suggesting a broad customer base beyond the highlighted sectors.
 
 ## Known for
-- Custom printing and sizing on most stock items
-- Proprietary Cajun Ice® gel ice for cold chain
-- Local sales representative network
-- Customer service manager support
+- Custom printing and sizing on most products
+- Custom tarps and covers offered
+- Cajun Ice® gel ice for cold-chain shipping
 
 ## Capabilities
 - Custom printing
 - Custom sizing
-- Packaging supply and distribution
+- Custom tarps and covers
 - Cold chain packaging solutions
-- Custom tarp and cover fabrication
-- Sales representative support
-- Customer service management
+- Packaging supply distribution
 
 ## Industries
 - Seafood
@@ -309,15 +301,12 @@ The firm’s core markets are the seafood and produce industries, where packagin
 
 <details><summary>Sources</summary>
 
-- Company name and legal form -> db
-- Headquarters: Ponchatoula, Louisiana -> db
-- Description of packaging offerings for seafood and produce -> db
-- Custom printing and sizing available on most products -> db
-- Product categories: Boxes, Bags & Sacks, Cajun Ice® Gel Ice, Cold Chain Packaging Solutions, Containers, Plastic Corrugation, Miscellaneous Packaging Supplies, Custom Tarps & Covers -> /
-- Reference to J&M Industries, Inc. -> db
-- Customer Service Manager capability -> db
-- Sales representative network mentioned -> /
-- Local packaging professionals positioning -> /
+- Location: Ponchatoula, Louisiana -> db
+- Product categories: boxes, bags & sacks, Cajun Ice® gel ice, cold chain packaging, containers, plastic corrugation, miscellaneous supplies -> /
+- Custom printing and sizing available on most products -> /
+- Industries served: seafood, produce -> /
+- Custom tarps & covers offered -> /
+- Company name: JMI Packaging Solutions, L.L.C. -> db
 </details>
 
 ---
@@ -327,27 +316,28 @@ The firm’s core markets are the seafood and produce industries, where packagin
 **Old description:** JTB Furniture is a proud manufacturer of casegoods for the Hilton brand of hotels. With over 90 years of experience in the furniture industry, we pride ourselves in our quality and customer relations. Below are some of the recently completed projects tailored to Hilton's standards.
 
 ## About
-JTB Furniture, LLC operates from Columbus, Mississippi. The company describes itself as having over 90 years of experience in the furniture industry, though a specific founding year is not published. Ownership details and founder names are not disclosed publicly.
+JTB Furniture, LLC operates from Columbus, Mississippi, where it has manufactured casegoods for the hospitality industry for over 90 years. The company describes itself as a proud manufacturer of casegoods for the Hilton brand of hotels, though a specific founding year and ownership structure are not disclosed.
 
-The company specializes in manufacturing casegoods for major hotel brands, including Hilton, Marriott, and IHG. Its product range includes brand-standard furniture and custom-designed casegoods developed in collaboration with project managers and designers. The Park Heights Collection is a modular hospitality furniture line designed and manufactured in the United States. Materials used include birch veneer, frosted glass, and silver-finished metal hardware. Specific facility size, headcount, and production volumes are not disclosed.
+The firm produces hospitality furniture including custom-designed casegoods and its own Park Heights Collection, a modular line designed and manufactured in the United States. Materials used include birch veneer, frosted glass, and silver-finished metal hardware. Facility size, headcount, and production volumes are not publicly specified.
 
-JTB Furniture serves the hospitality sector, supplying furniture to major hotel brands such as Hilton, Marriott, and InterContinental Hotels Group (IHG). Completed projects include the Meskwaki Casino in Tama, Iowa; AC by Marriott in Frisco, Colorado; and Homewood Suites locations. The company also works with project managers and designers on custom projects for hotel and casino clients.
+JTB Furniture serves major hotel brands such as Hilton, Marriott, and IHG, as well as casino projects like the Meskwaki Casino in Tama, Iowa, and the AC by Marriott in Frisco, Colorado. The company works directly with project managers and designers on custom projects.
 
-The company emphasizes quality and customer relations as core values. It positions its custom casegoods as high-quality yet affordable, and its Park Heights line as a versatile, modular solution for guest spaces. No explicit founding mission statement is provided.
+The company emphasizes quality, customer relations, and affordability, highlighting its American manufacturing and modular design versatility as key differentiators.
 
 ## Known for
+- Casegoods manufacturer for Hilton brand hotels
 - Over 90 years of furniture industry experience
-- Manufacturer of brand-standard casegoods for Hilton, Marriott, and IHG
-- Custom casegoods developed with project managers and designers
-- Park Heights modular hospitality furniture line made in the USA
-- Emphasis on quality and customer relations
+- Custom-designed casegoods for hospitality projects
+- Park Heights modular furniture line made in USA
+- Direct collaboration with project managers and designers
 
 ## Capabilities
 - Casegoods manufacturing
-- Custom casegoods design and manufacturing
-- Hospitality furniture design and manufacturing
-- Modular furniture design
-- Brand-standard furniture production
+- Custom furniture design
+- Modular furniture production
+- Hospitality furniture fabrication
+- Project management collaboration
+- Design consultation
 
 ## Industries
 - Hospitality
@@ -360,16 +350,16 @@ The company emphasizes quality and customer relations as core values. It positio
 
 <details><summary>Sources</summary>
 
-- Company name: JTB Furniture, LLC -> db
-- Headquarters: Columbus, Mississippi -> db
-- Description: manufacturer of casegoods for Hilton brand, over 90 years experience -> db
-- Materials: Birch Veneer, Frosted Glass, Silver-finished metal and hardware -> db
-- Projects: Meskwaki Casino (Tama, Iowa), AC by Marriott (Frisco, Colorado), Homewood Suites -> /
-- Brands served: Hilton, Marriott, IHG -> /
-- Park Heights Collection: modular hospitality furniture line designed and manufactured in America -> /
-- Custom casegoods manufacturing with project managers and designers -> /
-- Contact: esales@jtbfurniture.com, 1-800-654-3876, 200 JTB Drive, Columbus, MS 39701 -> /
-- Website managed by Newton Collective -> /
+- Headquarters in Columbus, Mississippi -> db
+- Manufacturer of casegoods for Hilton brand -> description
+- Over 90 years of experience -> description
+- Custom-designed casegoods -> page /
+- Park Heights Collection modular furniture line made in USA -> page /
+- Materials: Birch Veneer, Frosted Glass, Silver-finished metal, hardware -> products
+- Brands served: Hilton, Marriott, IHG -> page /
+- Projects: Meskwaki Casino (Tama, IA), AC by Marriott (Frisco, CO), Homewood Suites -> page /
+- Contact email esales@jtbfurniture.com and phone 1-800-654-3876 -> page /
+- Website managed by Newton Collective -> page /
 </details>
 
 ---
@@ -379,48 +369,46 @@ The company emphasizes quality and customer relations as core values. It positio
 **Old description:** JUNE Medical USA Inc. is the Delaware-based US company of JUNE Medical, a privately owned medical device business with offices in the UK, the USA and Sweden. The group handles early-stage product concepts, research and development, manufacturing and commercialization, with its sister company Mosaic Surgical acting as the manufacturing arm. Products include the Galaxy II self-retaining surgical retractor, the HandMe retractor for hand surgery, the LUX Connect surgical light, Oxiplex adhesion barriers for intrauterine or peritoneal surgery, and the Thermablate EAS balloon system for heavy menstrual bleeding. Through local partners, JUNE Medical sells in more than 40 countries.
 
 ## About
-JUNE Medical USA Inc. is the Delaware-based U.S. entity of JUNE Medical, a privately owned medical device group with offices in the United Kingdom, the United States, and Sweden. The company was founded under the code name "JUNE," chosen to represent spring, growth, and the future, and is led by CEO Angela Spang.
+JUNE Medical USA Inc is based in New Castle, Delaware, serving as the U.S. entity of JUNE Medical, a privately owned medical device group with offices in the United Kingdom, the United States, and Sweden. The company manages early-stage innovation, research and development, manufacturing, and global commercialization through its sister company Mosaic Surgical, which acts as the manufacturing arm. The name "JUNE" began as a secret code name before launch, chosen to represent spring, growth, and the future; no founding year or individual founders are disclosed in public materials.
 
-The group manages early-stage innovation, research and development, manufacturing, and global commercialization of surgical devices. Its product portfolio includes the Galaxy II self-retaining surgical retractor, the HandMe retractor for hand surgery, the LUX Connect flexible surgical light, Oxiplex adhesion barriers for intrauterine or peritoneal procedures, and the Thermablate EAS balloon system for heavy menstrual bleeding. Manufacturing is carried out through its sister company, Mosaic Surgical, which also provides UK Authorised Representative services.
+The product portfolio centers on surgical devices designed to simplify procedures and reduce reliance on manual assistance. Flagship products include the Galaxy II self-retaining surgical retractor, the HandMe retractor for hand surgery, the LUX Connect flexible surgical light, Oxiplex adhesion barriers for intrauterine or peritoneal surgery, and the Thermablate EAS portable balloon system for heavy menstrual bleeding. The group sells in more than 40 countries through local distribution partners; facility size, headcount, and production volumes are not publicly specified.
 
-JUNE Medical serves surgeons, hospitals, and healthcare systems across more than 40 countries through local partners. In the UK, it supplies the National Health Service (NHS) and private providers such as Circle Health Group, Nuffield Health, and Ramsay Healthcare. Its Swedish subsidiary, JUNE Medical Sverige AB, handles direct sales in Sweden and acts as the EU Authorised Representative for the group's devices.
+Primary customers are healthcare providers, including the U.K. National Health Service (NHS) and private hospital groups such as Circle Health Group, Nuffield Health, and Ramsay Healthcare. The Swedish subsidiary, JUNE Medical Sverige AB, handles direct sales to Swedish healthcare and serves as the EU Authorized Representative for the group. Mosaic Surgical additionally offers U.K. Responsible Person services for other manufacturers seeking to place medical devices on the U.K. market.
 
-The company states its purpose is to simplify surgical complexity, improve access to medical devices, build partnerships for safer surgery, and reduce the environmental impact of surgery. Its quality policy emphasizes customer focus, continual improvement, and evidence-based decision-making.
+The company states its purpose as improving access to medical devices, building partnerships for safer surgery, and reducing the environmental impact of surgery. Differentiators highlighted include the HandMe retractor eliminating the need for an extra pair of hands during operations, the Galaxy II retractor lowering cost and environmental footprint while replacing an assistant, and the LUX Connect light offering unlimited positioning flexibility. The quality policy, authorized by CEO Angela Spang, emphasizes customer focus, continual improvement, and evidence-based decision making.
 
 ## Known for
-- Self-retaining retractors designed to replace surgical assistants
-- Flexible surgical lights with unlimited positioning
-- Adhesion barriers backed by decades of safety data
-- Automated, portable balloon system for heavy menstrual bleeding
-- UK and EU Authorised Representative services via sister companies
+- Self-retaining retractor replaces surgical assistant
+- Lightweight, portable balloon system for heavy menstrual bleeding
+- Surgical light with flexible, endless positioning
+- Adhesion barriers with decades of safety and efficacy evidence
+- UK Responsible Person services for medical device manufacturers
 
 ## Capabilities
-- Self-retaining surgical retractor design and development
-- Adhesion barrier development and production
-- Colposcopy device manufacturing
-- Bulking agent production
-- UK Responsible Person services
-- Medical education and training
-- Early-stage medical device R&D
-- Medical device manufacturing (via Mosaic Surgical)
-- Global commercialization and distribution
-- EU Authorised Representative services (via JUNE Medical Sverige AB)
+- Self-Retaining Surgical Retractor
+- Adhesion Barriers
+- Colposcopy
+- Bulking Agent
+- UK Responsible Person Services
+- Medical Education
+- Early-stage innovation
+- Research and development
+- Manufacturing management
+- Global commercialization
+- EU Authorized Representative services
+- UK Authorized Representative services
 
 ## Industries
-- Medical devices
-- Surgical instruments
-- Gynecology and obstetrics
-- Colorectal surgery
-- Oral and maxillofacial surgery
-- Dental surgery
-- Healthcare services
-
-## Equipment
-- Galaxy II self-retaining surgical retractor
-- HandMe retractor
-- LUX Connect surgical light
-- Oxiplex adhesion barriers
-- Thermablate EAS balloon system
+- Healthcare
+- Medical Devices
+- Surgical Instruments
+- National Health Service (NHS)
+- Private Healthcare Providers
+- Women's Health
+- Gynecology
+- Obstetrics
+- Colorectal Surgery
+- Hand Surgery
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -429,19 +417,19 @@ The company states its purpose is to simplify surgical complexity, improve acces
 
 <details><summary>Sources</summary>
 
-- Delaware-based US company of JUNE Medical -> db
-- Privately owned medical device business with offices in UK, USA, Sweden -> db
-- Handles early-stage product concepts, R&D, manufacturing, commercialization -> db
+- HQ in New Castle, Delaware -> db
+- Privately owned medical device group with offices in UK, USA, Sweden -> db
 - Sister company Mosaic Surgical acts as manufacturing arm -> db
-- Products: Galaxy II, HandMe, LUX Connect, Oxiplex, Thermablate EAS -> /
-- Sells in more than 40 countries through local partners -> db
-- Headquartered in New Castle, Delaware -> db
-- CEO Angela Spang -> /quality
-- JUNE was originally a secret code name representing spring, growth, future -> /about
-- UK office serves NHS and private providers (Circle Health Group, Nuffield Health, Ramsay Healthcare) -> /about
-- Swedish subsidiary serves Europe and provides EU REP responsibility -> /about
+- Product portfolio includes Galaxy II, HandMe, LUX Connect, Oxiplex, Thermablate -> db
+- Sells in over 40 countries through local partners -> db
+- Name JUNE originated as secret code name -> /about
+- Serves NHS and private healthcare providers (Circle Health Group, Nuffield Health, Ramsay Healthcare) -> /about
+- Swedish entity serves Europe and acts as EU REP -> /about
 - Mosaic Surgical provides UK Authorised Rep services -> /about
-- Quality policy authorized by Angela Spang, CEO, dated 09/10/2026 -> /quality
+- Quality policy authorized by CEO Angela Spang -> /quality
+- Capabilities include Self-Retaining Surgical Retractor, Adhesion Barriers, Colposcopy, Bulking Agent, UK Responsible Person Services, Medical Education -> db
+- Industries served include Healthcare, NHS, Private Healthcare -> /about
+- Company type: Manufacturer -> derived from product portfolio and description
 </details>
 
 ---
@@ -451,38 +439,38 @@ The company states its purpose is to simplify surgical complexity, improve acces
 **Old description:** is your first choice for custom metal fabrication projects. Specializing in Railings, Light Structural, Metal Forming, Welding, and Plasma Cutting Services, we can meet most customers’ needs. With a large stock of metal on hand, we can offer faster lead times and better pricing on materials purchased through Jack’s Metal Works for your next custom project.
 
 ## About
-Jack's Metal Works has operated in Garden City, Idaho since 1979. The shop was founded by Jack and has served the Boise area's metal fabrication needs for over four decades.
+Jack's Metal Works has operated in Garden City, Idaho since 1979. The shop was established over 45 years ago and has served the Boise area's metal fabrication needs continuously since then. Ownership details and founder names are not publicly disclosed.
 
-The company provides custom metal fabrication with in-house CNC plasma cutting, welding, and forming equipment including brakes, shears, and rolling machines. It also offers tube and pipe rolling, custom railing design and fabrication, and light structural work. A large on-hand inventory of steel, aluminum, AR plate, and stainless steel supports faster turnaround and material pricing.
+The company provides custom metal fabrication services including railing systems, light structural work, metal forming, welding, and CNC plasma cutting. Its facility houses CNC plasma equipment, brakes, shears, rolling machines, and tube and pipe rolling capabilities, allowing it to handle projects from single prototypes to production runs. A large inventory of steel, aluminum, AR plate, and stainless steel is kept on hand to shorten lead times.
 
-Customers range from homeowners needing custom railings, stove screens, and property signs to businesses requiring light structural fabrication that falls between the capacity of large structural shops and smaller job shops. The shop handles one-off prototypes and production runs alike.
+Customers range from homeowners needing custom railings or stove screens to contractors requiring mid-range structural fabrication that falls between the capacity of large industrial shops and smaller job shops. The shop's "light structural" niche targets projects too sizable for small fabricators but not large enough for major structural firms.
 
-The company emphasizes personalized customer service and positions its capabilities as a middle ground for mid-range structural projects. It states that its quality control processes follow industry guidelines from AWS, OSHA, and ASME, and that it stands behind its work with a long history of doing things the right way.
+The business emphasizes personalized service and a family-like approach to customer relationships, stating it treats clients "like family" and focuses on helping them achieve their project visions. This service orientation is presented as the core differentiator since its founding.
 
 ## Known for
-- Large on-hand metal inventory for faster lead times and better material pricing
-- Capabilities suited for mid-range structural projects between large and small shops
+- Large on-hand metal inventory for faster turnaround
 - In-house CNC plasma cutting to any dimension
-- Custom railing design assistance from experienced fabricators
+- Mid-range structural capacity between large and small shops
 - Tube and pipe rolling services
+- Customer-service-first approach emphasized since 1979
 
 ## Capabilities
-- Custom metal fabrication
 - CNC plasma cutting
-- Welding (prototype to production)
+- Custom metal fabrication
+- Railing fabrication
+- Light structural fabrication
 - Metal forming (brakes, shears, rolling)
 - Tube and pipe rolling
-- Custom railing fabrication and design
-- Light structural fabrication
+- Welding (prototype to production)
 - Metal sales (steel, aluminum, AR plate, stainless steel)
 
 ## Equipment
-- CNC plasma cutting equipment
+- CNC plasma
 - Brakes
 - Shears
 - Rolling machines
 - Tube and pipe rolling equipment
-- Welding equipment
+- Larger machines for structural work
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -493,14 +481,12 @@ The company emphasizes personalized customer service and positions its capabilit
 
 - Founded 1979 in Garden City, Idaho -> /about-us
 - Services: railings, light structural, metal forming, welding, plasma cutting -> /
-- Materials: steel, aluminum, AR plate, stainless steel -> /
 - CNC plasma cutting in-house -> /
-- Tube and pipe rolling -> /
-- Large stock of metal on hand -> /
-- Customer service emphasis -> /
-- Capabilities fit between large and small shops -> /
-- Quality control references AWS, OSHA, ASME -> /quality
-- Customer testimonials -> /about-us and /
+- Equipment: brakes, shears, rolling machines, tube/pipe rolling -> /
+- Materials: steel, aluminum, AR plate, stainless steel -> /
+- Large metal stock on hand for faster lead times -> /
+- Light structural niche between large and small shops -> /
+- Customer service emphasis, treat customers like family -> /about-us, /
 </details>
 
 ---
@@ -510,20 +496,20 @@ The company emphasizes personalized customer service and positions its capabilit
 **Old description:** Brian Moore, long-time JH local and motor fanatic, is the founder of JH Motor Werks. He brings specialty knowledge in foreign models and has employed a team of skilled, thoughtful mechanics to handle your vehicle.
 
 ## About
-Jackson Hole Motor Werks operates in Jackson, Wyoming, founded by Brian Moore, a long-time local and motor enthusiast. Moore established the shop to provide expert automotive repair and guidance rooted in the community, drawing on his specialty knowledge of foreign models. The business remains independently owned, though no specific founding year or ownership structure is publicly disclosed.
+Jackson Hole Motor Werks was founded by Brian Moore, a long-time Jackson, Wyoming resident and automotive enthusiast. The shop operates in Jackson, serving the local community and visitors with a focus on foreign and import vehicles.
 
-The shop delivers a full range of automotive maintenance and repair services, including lube/oil/filter changes, computer diagnostics, radiator flush and fill, transmission service, A/C recharge and diagnostics, timing belt replacement, tire rotation and balance, battery replacement, anti-lock brake system diagnosis, axle bearing and seal work, shock and strut replacement, starter/alternator/heater core repair, suspension service, wheel alignments, and fleet maintenance. It also services imports and Japanese vehicles and performs antique and classic car repair and restoration. Facility size, headcount, and annual volume are not disclosed.
+The shop provides a full range of automotive repair and maintenance services, including lube/oil/filter changes, computer diagnostics, radiator flush and fill, transmission service, A/C recharge and diagnostics, timing belt replacement, tire rotation and balance, battery replacement, anti-lock brake system diagnosis, axle work, shock and strut replacement, starter/alternator/heater core repair, suspension service, alignments, and fleet maintenance. They also specialize in imports and Japanese vehicles, as well as antique and classic car repair and restoration. The facility is staffed by a team of skilled mechanics, though headcount and facility size are not disclosed.
 
-Customers include individual vehicle owners, fleet operators, and classic car enthusiasts throughout the Jackson Hole area. The shop’s fleet service supports commercial and organizational vehicles, while its import expertise attracts owners of European and Asian models. A Google review highlights a vacationing family whose check-engine light was diagnosed immediately, illustrating the shop’s responsiveness to transient motorists.
+Customers include individual vehicle owners, fleet operators, and travelers passing through the area. The shop's expertise with foreign models and classic cars attracts owners of brands ranging from Prius to Porsche and Sprinter vans. A Google review highlights quick response and flexible scheduling for a vacationing family.
 
-The company emphasizes its local roots and specialized knowledge as differentiators: "Expert work and guidance from Jackson Hole locals" and Moore’s background in foreign models. The team is described as skilled, thoughtful mechanics, and the shop offers flexible scheduling and quick response times, which the review notes as valuable for travelers.
+Moore's specialty knowledge in foreign models and the team's thoughtful approach set the shop apart. The company emphasizes local expertise and personalized service, aiming to handle any vehicle from daily drivers to vintage restorations.
 
 ## Known for
-- Expert work and guidance from Jackson Hole locals
-- Founder’s specialty knowledge in foreign/import models
-- Team of skilled, thoughtful mechanics
-- Fleet service and maintenance capabilities
+- Specialty knowledge in foreign and import models
 - Antique and classic car repair and restoration
+- Fleet service and maintenance programs
+- Local team of skilled mechanics
+- Quick response and flexible scheduling
 
 ## Capabilities
 - Lube/oil/filter change
@@ -541,7 +527,7 @@ The company emphasizes its local roots and specialized knowledge as differentiat
 - Suspension system service
 - Alignments
 - Fleet service/maintenance
-- Imports & Japanese vehicles service
+- Imports & Japanese vehicles
 - Antique/classic car repair and restoration
 
 ## Industries
@@ -556,13 +542,13 @@ The company emphasizes its local roots and specialized knowledge as differentiat
 
 <details><summary>Sources</summary>
 
-- Founder Brian Moore, long-time Jackson Hole local -> db
+- Founder Brian Moore, long-time Jackson local -> db
 - Location: Jackson, Wyoming -> db
-- Services list from homepage -> /
-- Fleet service/maintenance mentioned -> /
-- Antique/classic car repair and restoration mentioned -> /
-- Review mentioning quick diagnostic for vacationing family -> /
-- Company description emphasizing local expertise -> /
+- Services: lube/oil/filter, diagnostics, radiator, transmission, A/C, timing belt, tire rotation, battery, ABS, axle, shocks/struts, starters/alternators/heater cores, suspension, alignments, fleet, imports/Japanese, antique/classic -> /
+- Specialty in foreign models -> db, /
+- Team of skilled mechanics -> db, /
+- Customer review: quick response, flexible schedule -> /
+- Capabilities list from database -> db
 </details>
 
 ---
@@ -572,27 +558,27 @@ The company emphasizes its local roots and specialized knowledge as differentiat
 **Old description:** Jer-Den Plastics, backed by more than 30 years of plastics processing experience, provides high quality rotational molded products for the construction, commercial, industrial, material handling, marine, toy and recreational vehicle industries.
 
 ## About
-Jer-Den Plastics operates from St. Louis, Michigan, drawing on more than 30 years of plastics processing experience. The company specializes in rotational molding and has built a reputation for delivering finished components through a suite of in-house secondary operations.
+Jer-Den Plastics operates from St. Louis, Michigan, where it has built more than three decades of plastics processing experience. The company does not disclose its founding year, ownership structure, or founders in its public materials.
 
-The core offering is rotational molding of plastic parts, supplemented by engineering support and secondary services that include routing, flame treating, foam injection, spin welding, and hardware installation. This integrated approach allows the shop to provide complete, ready-to-assemble components without outsourcing.
+The shop specializes in rotational molding and backs the process with a suite of in-house secondary operations: routing, flame treating, foam filling, spin welding, hardware installation, and engineering support. Facility size, headcount, annual volume, and part-number count are not published.
 
-Jer-Den serves a broad range of sectors: agriculture, commercial, construction, industrial, marine, material handling, recreational vehicles, and toys. Customers in these markets rely on the company for lightweight, durable molded parts such as agricultural equipment components, industrial containers, and marine products.
+Customers come from agriculture, commercial, construction, industrial, marine, material handling, recreational vehicle, and toy sectors. The company cites corn headers and assemblies as examples of agricultural parts it produces.
 
-The company emphasizes its central Midwest location as a logistics advantage, enabling fast, low-cost delivery across the United States. By keeping all secondary processes under one roof, Jer-Den positions itself as a single-source manufacturer for rotational molded parts.
+Jer-Den positions itself as a “one-stop” manufacturer, arguing that bundling secondary services under one roof shortens lead times and reduces cost. Its central Midwest location is promoted as enabling the fastest, most efficient distribution at the lowest freight costs across the United States.
 
 ## Known for
-- Central Midwest location for fast, low-cost delivery nationwide
-- In-house secondary services (routing, flame treating, foam injection, spin welding, hardware installation) for one-stop manufacturing
-- More than 30 years of plastics processing experience
+- In-house secondary services (routing, flame treating, foam filling, spin welding, hardware installation) for one-stop manufacturing
+- Central Midwest location for fast, low-cost distribution nationwide
+- Over 30 years of plastics processing experience
 
 ## Capabilities
 - Rotational molding
-- Engineering
-- Foam injection
-- Spin welding
-- Flame treating
-- Hardware installation
 - Routing
+- Flame treating
+- Foam filling
+- Spin welding
+- Hardware installation
+- Engineering
 
 ## Industries
 - Agriculture
@@ -600,8 +586,8 @@ The company emphasizes its central Midwest location as a logistics advantage, en
 - Construction
 - Industrial
 - Marine
-- Material Handling
-- Recreational Vehicles
+- Material handling
+- Recreational vehicles
 - Toys
 
 ## Company details
@@ -611,11 +597,13 @@ The company emphasizes its central Midwest location as a logistics advantage, en
 <details><summary>Sources</summary>
 
 - Location: St. Louis, Michigan -> db
-- More than 30 years of plastics processing experience -> /
-- Rotational molding and secondary services (routing, flame treating, foam filling, spin welding, hardware installation) -> /
+- 30+ years plastics processing experience -> db, /
+- Rotational molding primary process -> db, /
+- Secondary services: routing, flame treating, foam filling, spin welding, hardware installation, engineering -> /
 - Industries served: agriculture, commercial, construction, industrial, marine, material handling, recreational vehicles, toys -> /
-- Central Midwest location for fast, low-cost delivery nationwide -> /
-- One-stop manufacturing -> /
+- One-stop manufacturing claim -> /
+- Central Midwest location for low freight costs -> /
+- Corn headers and assemblies example -> products array
 </details>
 
 ---

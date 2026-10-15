@@ -3,27 +3,27 @@
 **Old description:** For over 40 years, Industrial Fairway Supply has set the standard as the Midwest’s leading distributor of industrial packaging supplies and equipment. We exceed expectations when it comes to same-day shipping, product quality, product knowledge, and problem-solving with our innovative packaging ideas. These core attributes have earned us longstanding partnerships throughout the US, Canada, and beyond.
 
 ## About
-Industrial Fairway Supply has operated from Fargo, North Dakota for over 40 years, establishing itself as a distributor of industrial packaging supplies and equipment across the Midwest. The company traces its roots to a focus on providing packaging materials and problem-solving expertise to regional businesses.
+Industrial Fairway Supply, operating as IFS Packaging, is based in Fargo, North Dakota. The company has served the Midwest for over 40 years as a distributor of industrial packaging supplies and equipment. It operates under The True North Companies, a group that embraces a servant-leadership philosophy and strives to maintain a small family-business atmosphere while fostering long-term cultural stability.
 
-The firm stocks a broad line of packaging products including seals, pallets, rolled corrugate, steel and poly strapping, stretch wrap, foam bundles, corner protectors, lumber wrap, tape, and related tools. Beyond distribution, it offers custom packaging solutions and one-on-one consultations to assess customer needs, recommend materials, and improve packing efficiency. The company emphasizes same-day shipping on stocked items to minimize downtime for its clients.
+The company distributes a broad line of packaging materials and equipment, including seals, pallets, rolled corrugate, strapping carts, steel and poly strapping, stretch wrap, foam bundles, corner and edge protectors, lumber wrap, industrial markers, composite staples, tools, and tape. Beyond product supply, IFS Packaging offers customized packaging solutions, providing personalized consultations to identify operational pain points and develop tailored strategies that improve efficiency, reduce waste, and optimize packaging budgets.
 
-Industrial Fairway Supply serves businesses throughout the United States and Canada that require industrial packaging materials and equipment. Its customer base spans manufacturers, warehouses, and shippers seeking reliable supply of consumables such as strapping, stretch film, and protective packaging.
+Industrial Fairway Supply serves customers throughout the United States, Canada, and internationally, building longstanding partnerships with businesses that require reliable packaging supplies and expertise.
 
-The company differentiates itself through a service philosophy rooted in the True North Companies operating model, which emphasizes servant leadership and maintaining a small family-business culture. This approach drives personalized support, innovative packaging ideas, and a commitment to preserving customer legacies.
+The company emphasizes same-day shipping on stocked items, deep product knowledge, and problem-solving through innovative packaging ideas. Its consultative approach leverages the latest packaging technologies, including eco-friendly options, to help clients streamline processes and reduce costs. The True North Companies’ operating philosophy of servant leadership and empowering team members underpins a culture focused on preserving customer legacies and maintaining long-term relationships.
 
 ## Known for
-- Same-day shipping on stocked items
-- Custom packaging solutions tailored to specific operational challenges
+- Same-day shipping on stocked packaging supplies
 - Personalized one-on-one packaging consultations
-- Servant-leadership culture with a small family-business feel
-- Eco-friendly packaging options available
+- Custom packaging solutions tailored to specific operational challenges
+- Access to latest packaging technologies and eco-friendly options
+- Servant-leadership culture focused on long-term customer partnerships
 
 ## Capabilities
-- Industrial packaging distribution
-- Same-day shipping
-- Custom packaging design
-- Packaging consultation
-- Packaging equipment supply
+- Industrial packaging supply distribution
+- Custom packaging solution design
+- Packaging consultation and assessment
+- Same-day order fulfillment
+- Packaging equipment sales
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -31,14 +31,14 @@ The company differentiates itself through a service philosophy rooted in the Tru
 
 <details><summary>Sources</summary>
 
-- Location: Fargo, North Dakota -> db
-- Over 40 years in business -> /
-- Distributor of industrial packaging supplies and equipment -> /
-- Same-day shipping emphasis -> /
-- Product range: seals, pallets, rolled corrugate, strapping, stretch wrap, foam, corner protectors, lumber wrap, tape, tools -> /
-- Custom packaging solutions and one-on-one consultations -> /about
-- True North Companies Operating Philosophy, servant leadership, small family-business feeling -> /about
-- Partnerships throughout US, Canada, and beyond -> /
+- Headquarters in Fargo, North Dakota -> db
+- Over 40 years in business as a distributor of industrial packaging supplies and equipment -> db
+- Same-day shipping, product quality, product knowledge, problem-solving, innovative packaging ideas -> db
+- Partnerships throughout US, Canada, and beyond -> db
+- Product list: Seals, Pallets, Rolled Corrugate, Strapping Cart, Steel and Poly Strapping, Colored Stretch Wrap, Stretch Wrap, Foam Bundles, Corner and Edge Protectors, Lumber Wrap and Sewn Covers, Industrial Markers, Composite Staples, Tools, Tape -> /
+- Custom packaging solutions, personalized one-on-one consultations -> /about
+- Leveraging latest packaging technologies, eco-friendly options -> /about
+- True North Companies operating philosophy: servant leadership, small family business feeling, long-term cultural stability, empowering team members, preserving legacies -> /about
 </details>
 
 ---
@@ -48,36 +48,38 @@ The company differentiates itself through a service philosophy rooted in the Tru
 **Old description:** Industrial Food Ingredients Co. based in Hunt Valley, Maryland, is an ingredient supplier providing sales of all types of ingredients for finished products. Family-owned and operated, we have been in business since 1989. We are a strong service-oriented company that believes communication is the key ingredient to success. We are proud of our reputation, and have more than 60 years of combined experience in the food industry.
 
 ## About
-Industrial Food Ingredients Co. (IFI) was founded in 1989 as a family-owned business in Hunt Valley, Maryland. The company operates from a post office box in nearby Westminster and serves the Mid-Atlantic region, including Delaware, Maryland, New Jersey, New York, Pennsylvania, Virginia, Washington, D.C., and West Virginia.
+Industrial Food Ingredients Co. is headquartered in Hunt Valley, Maryland, and has been family-owned since its founding in 1989. The company operates from a Hunt Valley office with a mailing address in Westminster, and serves customers across the Mid-Atlantic region including Delaware, Maryland, New Jersey, New York, Pennsylvania, Virginia, Washington, D.C., and West Virginia.
 
-IFI functions as an ingredient supplier, providing a broad portfolio of food ingredients to manufacturers and product developers. Its offerings encompass nuts, fruits, vegetables, chocolate coatings, fillings, coatings and grinds, and other specialty items. The company manages the procurement process from start to finish, handling contract administration, market-price monitoring, crop updates, and document fulfillment, while also supplying product samples for new-product development.
+The firm acts as an ingredient supplier, providing a broad range of food ingredients for finished products. Its portfolio includes nuts, fruits, vegetables, and specialty items such as chocolate coatings, fillings, coatings, and grinds. The company emphasizes end-to-end service, offering product sampling for new product development, contract management with regular updates, market price monitoring, and document fulfillment.
 
-The supplier’s customer base spans confectionery, ice cream, natural-products, and broader food-manufacturing sectors. Membership in the American Association of Candy Technologists, the North East Ice Cream Association, the Pennsylvania Manufacturing Confectioners Association, the Natural Products Food Expo, and the Institute of Food Technologists reflects a focus on candy, frozen desserts, clean-label foods, and technical food applications. Research Chefs Association membership also points to culinary and food-service clients.
+Its customer base spans confectionery, ice cream, natural foods, and broader food manufacturing sectors. The company maintains memberships with the American Association of Candy Technologists, the North East Ice Cream Association, the Pennsylvania Manufacturing Confectioners Association, the Institute of Food Technologists, and the Research Chefs Association, reflecting its focus on these industries.
 
-IFI’s stated differentiator is a service-first philosophy summed up by the motto that communication is the key ingredient to success. The company promises end-to-end order service, prompt call returns, regular contract updates, competitive pricing intelligence, new-ingredient alerts, money-saving proposals, and dedicated document fulfillment.
+Founded on a philosophy that communication is the key ingredient to success, Industrial Food Ingredients Co. differentiates itself through personalized service, prompt responsiveness, and proactive market intelligence. The leadership team, including President Scott Hetherington and Vice President of Sales Sharon Black, underscores a commitment to money-saving proposals, crop updates, and new ingredient information for clients.
 
 ## Known for
-- End-to-end order service from placement to delivery
+- End-to-end order service
 - Contract management with regular updates
-- Real-time market price monitoring and competitive pricing
-- Product sampling for new product development
-- Crop updates and cost-saving proposals
+- Market condition monitoring and competitive pricing
+- Product sample requests for development
+- Document fulfillment support
 
 ## Capabilities
 - Ingredient sourcing and supply
+- Product sampling for development
 - Contract management
 - Market price monitoring
-- Product knowledge and new ingredient information
-- Cost-saving proposals
+- Technical product knowledge support
+- New ingredient information
 - Crop updates
-- Product sample provision
+- Money-saving proposals
 - Document fulfillment
 
 ## Industries
 - Confectionery
-- Ice cream
-- Natural products
-- Food technology
+- Ice Cream
+- Natural Foods
+- Food Manufacturing
+- Research & Development
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -87,16 +89,13 @@ IFI’s stated differentiator is a service-first philosophy summed up by the mot
 
 <details><summary>Sources</summary>
 
-- Founded 1989 -> db, page /
-- Family-owned and operated -> description, page /
-- Headquartered in Hunt Valley, MD -> db, page /
-- Ingredient supplier providing sales of all types of ingredients -> description, page /
-- Services: order management, contract management, market monitoring, product knowledge, cost-saving proposals, crop updates, product sampling, document fulfillment -> page /
-- Associations: American Association of Candy Technologists, F.I.N.D. Group, Institute of Food Technologists, Natural Products Food Expo, North East Ice Cream Association, Pennsylvania Manufacturing Confectioners Association, Research Chefs Association -> page /
-- Key personnel: Scott Hetherington (President), Sharon Black (VP Sales), Penny Kirdy (Office Manager), Theresa Mauldin (Customer Service Representative) -> page /
-- Product categories: nuts, fruits, vegetables, chocolate coatings, fillings, coatings & grinds, specialty items -> page /
-- Service area: Delaware, Maryland, New Jersey, New York, Pennsylvania, Virginia, Washington DC, West Virginia -> page /
-- P.O. Box 49, Westminster, MD 21158 -> page /
+- Founded 1989, family-owned, Hunt Valley MD -> db and /
+- Ingredient supplier for finished products -> /
+- Ingredients: nuts, fruits, vegetables, chocolate coatings, fillings, coatings, grinds -> /
+- Service area: DE, MD, NJ, NY, PA, VA, DC, WV -> /
+- Key personnel: Scott Hetherington (President), Sharon Black (VP Sales), Penny Kirdy (Office Manager), Theresa Mauldin (Customer Service) -> /
+- Associations: American Association of Candy Technologists, F.I.N.D. Group, Institute of Food Technologists, Natural Products Food Expo, North East Ice Cream Association, Pennsylvania Manufacturing Confectioners Association, Research Chefs Association -> /
+- Mission statement services: end-to-end order service, contract management, market monitoring, product knowledge, samples, document fulfillment, crop updates, money-saving proposals -> /
 </details>
 
 ---
@@ -106,54 +105,55 @@ IFI’s stated differentiator is a service-first philosophy summed up by the mot
 **Old description:** All packaging manufactured by Industrial Packaging Corporation is recyclable. Many of our packaging products are made with paper produced by mills that use recycled fibers. More than half of the paper purchased by Industrial Packaging Corporation for manufacture of our products is made from 100% recycled content.
 
 ## About
-Industrial Packaging Corporation began in 1988 in Tomahawk, Wisconsin, and today operates from its headquarters in Wilton, Iowa, with additional production facilities in Arcadia, Wisconsin, and Fort Payne, Alabama. The company has remained a U.S.-based manufacturer since its inception.
+Industrial Packaging Corporation was founded in 1988 in Tomahawk, Wisconsin. The company now operates from its headquarters in Wilton, Iowa, with additional facilities in Arcadia, Wisconsin; Fort Payne, Alabama; and Tomahawk, Wisconsin.
 
-The company produces a range of recyclable packaging solutions, including corrugated angle pads with non-scuff coatings, honeycomb pads and structural honeycomb components, shaft packs, and wine bottle packaging. Its honeycomb products serve as internal supports for metal bathroom partitions and as blocking and bracing risers for transit protection. All products are made from paper sourced from mills that use recycled fibers, with more than half of the purchased paper containing 100 percent recycled content.
+The company manufactures a range of recyclable packaging products including corrugated angle pads, honeycomb pads and packaging, shaft packs, and wine bottle packs. Its capabilities include corrugated pad manufacturing, honeycomb fabrication, and non-scuff coating, supported by a custom design service called Vision Design. Production occurs across four U.S. facilities.
 
-Industrial Packaging serves the wine and beverage industry with custom bottle packaging, the construction sector with structural honeycomb for bathroom partitions, and industrial shipping customers with shaft packs and blocking-and-bracing solutions. The company also offers a Vision Design service to tailor packaging to specific product specifications.
+Industrial Packaging Corporation serves the packaging industry and supplies components for metal bathroom partitions, wine bottling, and industrial shipping. Its structural honeycomb is used inside metal bathroom partitions, while honeycomb pads and risers are employed to block and brace products in transit. The company also provides specialized packs for wine bottles and shafts.
 
-The business emphasizes its domestic manufacturing heritage and sustainability profile, noting that every product it manufactures is recyclable and that its paper supply chain prioritizes recycled content. This focus on recycled materials and U.S. production has been a consistent theme since the company's founding.
+The company emphasizes that all its packaging is recyclable, with more than half of the paper purchased made from 100 percent recycled content. All products have been manufactured in the United States since the company's inception in 1988.
 
 ## Known for
-- All packaging manufactured is recyclable
-- Over 50% of paper purchased is 100% recycled content
+- All packaging is recyclable
+- Over half of paper sourced from 100% recycled content
 - Made in the USA since 1988
 - Custom packaging design through Vision Design service
-- Honeycomb structural components for blocking and bracing
+- Four U.S. manufacturing locations
 
 ## Capabilities
 - Corrugated angle pad manufacturing
+- Honeycomb pad and packaging fabrication
 - Non-scuff coating application
-- Honeycomb pad and packaging manufacturing
-- Structural honeycomb fabrication
-- Shaft pack manufacturing
-- Wine bottle packaging
 - Custom packaging design (Vision Design)
-- Blocking and bracing solutions
+- Shaft pack manufacturing
+- Wine bottle pack manufacturing
+- Structural honeycomb fabrication for bathroom partitions
+- Block and brace packaging solutions
 
 ## Industries
+- Packaging
+- Bathroom partitions
 - Wine and beverage
-- Construction and building materials
 - Industrial shipping and logistics
-- General manufacturing and packaging
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1988
-- **Headquarters:** Wilton, IA
+- **Headquarters:** Wilton, Iowa
 
 <details><summary>Sources</summary>
 
-- Founded 1988 in Tomahawk, Wisconsin -> page '/'
-- Headquarters in Wilton, IA -> db and page '/'
-- Locations in Tomahawk, WI; Arcadia, WI; Fort Payne, AL -> page '/'
-- Products: corrugated angle pads, honeycomb pads, shaft pack, wine bottle pack -> page '/'
-- Recyclable packaging, recycled content paper -> page '/'
-- Made in USA since 1988 -> page '/'
-- Structural honeycomb for bathroom partitions -> page '/'
-- Honeycomb pads for blocking and bracing -> page '/'
-- Vision Design service -> page '/'
-- Sales managers listed -> page '/'
+- Founded in 1988 in Tomahawk, Wisconsin -> page:/
+- Headquarters in Wilton, Iowa -> db, page:/
+- Facilities in Tomahawk WI, Arcadia WI, Fort Payne AL, Wilton IA -> page:/
+- Products: Corrugated Angle Pads, Honeycomb Pads & Packaging, Shaft Pack, Wine Bottle Pack -> page:/
+- Capability: Angle Frame Non-Scuff Coating Corrugated Pads -> db
+- All packaging recyclable, made with recycled fibers, >50% paper from 100% recycled content -> db, page:/
+- Made in USA since 1988 -> page:/
+- Vision Design custom design service -> page:/
+- Structural honeycomb used in metal bathroom partitions -> page:/
+- Honeycomb pads/risers for blocking and bracing in transit -> page:/
+- Sales managers: Ron Donais, Dan Horton, Bill Bryan -> page:/
 </details>
 
 ---
@@ -163,29 +163,31 @@ The business emphasizes its domestic manufacturing heritage and sustainability p
 **Old description:** Infant Ear Molding of New Hampshire, LLC offers professional ear molding service which can help correct the shape of your child’s ears. This noninvasive, nonmedical service involves using a malleable splint to hold the ear cartilage in the corrected shape until the cartilage hardens around 3 months of age.  This can help to avoid years of teasing, psychosocial stress and the need for surgery in the future. Ear molding is a comfortable and straightforward process which usually takes 6 weeks.
 
 ## About
-Infant Ear Molding of New Hampshire, LLC operates from Fremont, New Hampshire. The clinic was founded by Dr. Emily Hurst, who holds a Doctor of Science degree from Massachusetts College of Pharmacy and Health Sciences and has a background in pediatric plastic surgery. Recognizing that many families lacked access to noninvasive ear correction, she established the practice as the first clinic in the state dedicated solely to infant ear molding.
+Infant Ear Molding of New Hampshire, LLC operates from Fremont, New Hampshire. The clinic was founded by Dr. Emily Hurst, who holds a Doctor of Science degree from Massachusetts College of Pharmacy and Health Sciences and a background in pediatric plastic surgery. Recognizing limited access to noninvasive ear correction for infants, she established the first clinic in the state dedicated solely to professional ear molding services.
 
-The company provides a noninvasive, nonmedical ear molding service that uses a malleable splint to gently reshape an infant's ear cartilage while it is still pliable, typically before the cartilage hardens around three months of age. The treatment process usually spans six weeks and is designed to correct prominent or misshapen ears without surgery or anesthesia.
+The company provides a noninvasive, nonmedical ear molding service that uses malleable splints to reshape infant ear cartilage while it remains pliable, typically before three months of age. The process is described as comfortable and straightforward, usually lasting about six weeks. No facility size, headcount, or production volumes are disclosed.
 
-The service is aimed at parents of newborns and infants with congenital auricular deformities. Families in southern New Hampshire seek the clinic as an alternative to later surgical otoplasty, and the practice also works with pediatricians and plastic surgeons who refer patients for early intervention.
+The service targets families with infants who have prominent or misshapen ears, aiming to prevent psychosocial stress, teasing, and future surgical otoplasty. Customers are primarily parents seeking early intervention for congenital auricular deformities, with the clinic referencing pediatric plastic surgery and infant care as relevant fields.
 
-Dr. Hurst's specialization in pediatric plastic surgery and the clinic's singular focus on ear molding differentiate it from general medical practices. The approach leverages a window of cartilage malleability to achieve lasting results, potentially sparing children from future psychosocial distress and surgical procedures.
+The clinic emphasizes its status as New Hampshire's first dedicated infant ear molding provider and cites published studies supporting the safety, efficacy, and high parent satisfaction of ear molding therapy. The approach is positioned as an evidence-based alternative that avoids the complications of surgical correction.
 
 ## Known for
-- First dedicated infant ear molding clinic in New Hampshire
-- Noninvasive, nonmedical ear correction using malleable splints
-- Typical treatment completed in six weeks
-- Founded by a pediatric plastic surgery specialist
+- First clinic in New Hampshire solely dedicated to infant ear molding
+- Noninvasive, nonmedical service using malleable splints
+- Leverages cartilage malleability window before three months of age
+- Avoids need for surgical otoplasty and associated complications
+- Supported by peer-reviewed evidence of safety and high parent satisfaction
 
 ## Capabilities
 - Infant ear molding
+- Ear splint application
 - Noninvasive ear correction
-- Ear splinting
+- Congenital auricular deformity treatment
 
 ## Industries
-- Pediatric healthcare
-- Ear molding services
-- Noninvasive cosmetic correction
+- Pediatric plastic surgery
+- Infant care
+- Healthcare services
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -193,10 +195,14 @@ Dr. Hurst's specialization in pediatric plastic surgery and the clinic's singula
 
 <details><summary>Sources</summary>
 
-- Company name, location, founder, service description -> /
-- First dedicated clinic in New Hampshire -> /
-- Treatment duration 6 weeks -> /
-- Dr. Emily Hurst background -> /
+- Company name and service description -> /
+- Location: Fremont, New Hampshire 03044 -> /
+- Founder: Dr. Emily Hurst with education background -> /
+- Clinic is first dedicated infant ear molding clinic in New Hampshire -> /
+- Process: malleable splint, cartilage hardens around 3 months, takes 6 weeks -> /
+- Target customers: families/parents seeking to avoid surgery -> /
+- Reference to study (Vu et al. 2020) on safety and satisfaction -> /
+- Contact info: phone and email -> /
 </details>
 
 ---
@@ -206,40 +212,32 @@ Dr. Hurst's specialization in pediatric plastic surgery and the clinic's singula
 **Old description:** Infineon is a semiconductor manufacturer with a U.S. design center in Texas. Specializes in power and security semiconductors, including power management ICs and microcontrollers for automotive and industrial applications.
 
 ## About
-Infineon Technologies Americas operates from Austin, Texas, as the U.S. arm of the global Infineon group founded in 1999. The company runs a design center in Texas and serves as a key node in Infineon’s worldwide network of 71 R&D sites and 15 manufacturing locations.
+Infineon Technologies Americas operates a U.S. design center in Austin, Texas, established in 1999 as part of the global Infineon Technologies group. The subsidiary focuses on power and security semiconductors for automotive and industrial markets.
 
-The company designs, develops, manufactures, and markets a broad portfolio of semiconductors, including power management ICs, microcontrollers, security ICs, silicon carbide MOSFET modules, IGBT modules, automotive MOSFETs, current sensors, stepper and servo motor drivers, 3D magnetic sensors, protection and monitoring ICs, and quasi-resonant switches. Beyond silicon, Infineon provides cloud services, engineering consulting, design-in support, and a developer center with software and tools for evaluation. Globally, the group employs over 58,000 people and generates approximately €15 billion in annual revenue.
+The company designs, develops, manufactures, and markets a broad portfolio including power management ICs, microcontrollers, security ICs, Silicon Carbide MOSFET modules, IGBT modules, automotive MOSFETs, current sensors, stepper and servo motor drivers, 3D magnetic sensors, and protection ICs. Globally, Infineon reports 58,000 employees across 71 R&D sites and 15 manufacturing locations, with annual revenue of approximately €15 billion; the Americas division employs between 3,000 and 9,999 people.
 
-Infineon’s customers span automotive, industrial, IoT, AI and communication, security, and consumer electronics sectors. Automotive OEMs use its MOSFETs and motor drivers for electric vehicles; industrial firms adopt current sensors and SiC modules for power infrastructure; consumer electronics makers integrate 3D sensors and security ICs. The company also supports a community of 160,000 engineers with 125,000 solutions and 1,700 code repositories.
+Its products serve automotive, industrial, IoT, AI and communication, security, and consumer electronics sectors. Concrete applications include electric vehicle powertrains, renewable energy infrastructure, industrial motor control, and secure IoT devices. Customers range from automotive OEMs and tier-1 suppliers to industrial equipment manufacturers and IoT solution providers.
 
-Infineon states its purpose is to enable game-changing solutions for green and efficient energy, clean and safe mobility, and smart, secure IoT, summarizing its mission as making life easier, safer, and greener.
+Infineon positions itself as a world leader in semiconductor solutions, emphasizing a developer ecosystem with 125,000+ solutions, 160,000+ engineers, and 1,700+ code repositories, alongside cloud and engineering support services that accelerate time-to-market. The company states its mission is to make life easier, safer, and greener through energy-efficient, secure mobility and smart IoT.
 
 ## Known for
-- World leader in semiconductor solutions with 58K+ employees, 71 R&D sites, and 15 manufacturing locations globally
-- Secure, scalable cloud offerings for rapid application development and deployment
-- Engineering and consulting services backed by software solutions for innovative development
-- Design-in support and developer center with software and tools for evaluation
+- Global footprint: 58,000+ employees, 71 R&D sites, 15 manufacturing locations
+- Developer community: 125,000+ solutions, 160,000+ engineers, 1,700+ code repositories
+- Cloud and engineering support services for integrated development ecosystem
+- Design-in support for application-specific requirements
+- Broad semiconductor portfolio spanning power, security, sensing, and microcontrollers
 
 ## Capabilities
-- Semiconductor design
-- Semiconductor development
-- Semiconductor manufacturing
-- Cloud services
-- Engineering consulting
+- Semiconductor design and development
+- Semiconductor manufacturing (front-end and back-end)
+- Cloud-based development platforms
+- Engineering and consulting services
 - Design-in support
-- Software development tools
-- Developer community support
-- Power management IC design
-- Microcontroller design
-- Security IC design
-- Silicon carbide (SiC) MOSFET module production
-- IGBT module production
-- Automotive MOSFET production
-- Current sensor production
-- Stepper and servo motor driver production
-- 3D magnetic sensor production
-- Protection and monitoring IC production
-- Quasi-resonant switch production
+- Software and tool provision for evaluation
+- Developer community and technical support
+- Power semiconductor fabrication (SiC, IGBT, MOSFET)
+- Microcontroller and security IC development
+- Sensor development (current, 3D magnetic)
 
 ## Industries
 - Automotive
@@ -247,7 +245,7 @@ Infineon states its purpose is to enable game-changing solutions for green and e
 - IoT
 - AI & Communication
 - Security
-- Consumer
+- Consumer Electronics
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -260,16 +258,14 @@ Infineon states its purpose is to enable game-changing solutions for green and e
 - Headquarters in Austin, Texas -> db
 - Founded 1999 -> db
 - Employee count 3000-9999 -> db
-- Products: Power Semiconductors, Microcontrollers, Security ICs -> db
-- Industries served: Automotive, Industrial, IoT -> db
-- Global employees 58K+, 71 R&D sites, 15 manufacturing locations, ~€15Bn revenue -> /
 - Designs, develops, manufactures, markets semiconductors -> /
-- Specific product families: SiC MOSFET modules, IGBT modules, Automotive MOSFETs, Current sensors, Stepper/servo motor drivers, 3D sensors, Protection ICs, CoolSET switches -> /
-- Industries: Automotive, Industrial, AI & Communication, Security, Consumer -> /
+- 58K+ employees worldwide, 71 R&D sites, 15 manufacturing locations, ~€15Bn revenue -> /
+- Products: Power Semiconductors, Microcontrollers, Security ICs, SiC MOSFET modules, IGBT modules, Automotive MOSFETs, Current sensors, Stepper/servo drivers, 3D sensors, Protection ICs, CoolSET -> /
+- Industries: Automotive, Industrial, IoT, AI & Communication, Security, Consumer -> /, db
 - Developer community: 125K+ solutions, 160K+ engineers, 1700+ code repositories -> /
-- Cloud services, engineering consulting, design-in support, developer center -> /services
-- Purpose: green energy, clean mobility, smart secure IoT -> /about
-- Website languages: English, Chinese, Japanese, German -> /
+- Cloud and engineering support services -> /services
+- Design-in support -> /services
+- Mission: make life easier, safer, greener -> /
 </details>
 
 ---
@@ -279,46 +275,48 @@ Infineon states its purpose is to enable game-changing solutions for green and e
 **Old description:** We have been in business since 1982 and are ISO 13485, IATF 16949 and ISO 14001 certified.
 
 ## About
-Infinity Molding & Assembly, Inc. was founded in 1982 in Mt. Vernon, Indiana, and operates two manufacturing facilities on a single campus in southwestern Indiana. The company is led by President & CEO Scott Titzer and Executive Vice President / CFO Sondra Ash.
+Infinity Molding & Assembly, Inc. has operated from Mt. Vernon, Indiana since 1982. The privately held company runs two connected facilities on a single campus in southwestern Indiana, serving both automotive and medical markets.
 
-The company specializes in custom plastic injection molding for difficult geometries and engineering-grade thermoplastics, including high-heat resins that require hot-oil mold temperature control. Its machine lineup spans 55 to 500 tons, supported by a separate 11,000-square-foot ISO Class 8 cleanroom for medical molding and white-room assembly. Automation cells employ Yushin, Staubli, Star Automation, Rethink Robotics, and Universal Robots equipment, and electronic vision systems handle in-process inspection. Secondary assembly operations round out the offering.
+The company specializes in custom plastic injection molding for difficult geometries and engineering-grade thermoplastics, including high-heat resins that require hot-oil mold temperature control. Its equipment roster spans 55- to 500-ton presses, supported by robotics from Yushin, Staubli, Star Automation, Rethink Robotics and Universal Robots. A separate 11,000-square-foot ISO Class 8 cleanroom provides dedicated medical molding and white-room assembly, while electronic vision systems handle in-line inspection.
 
-Infinity serves the medical device, automotive, consumer goods, and industrial sectors. Medical device companies of all sizes rely on its ISO 13485-certified cleanroom, while automotive customers are supported through IATF 16949 compliance. The firm also produces components for consumer and industrial applications.
+Customers include medical-device manufacturers of all sizes, automotive Tier 1 and Tier 2 suppliers, and industrial and consumer-goods companies. The medical cleanroom is noted as the only one of its kind within a 300-mile radius, and the automotive line carries IATF 16949 certification.
 
-Management emphasizes that the cleanroom is the only one of its kind within a 300-mile radius, and that a workforce capable of both individual and team performance drives quality. The company highlights its "Made in America" positioning as a differentiator for delivery and quality, backed by ISO 9001, ISO 13485, ISO 14001, and IATF 16949 certifications.
+Leadership emphasizes domestic production — President and CEO Scott Titzer and Executive Vice President and CFO Sondra Ash highlight the cleanroom’s regional uniqueness and the workforce’s ability to deliver high-precision parts quickly.
 
 ## Known for
-- Only ISO Class 8 cleanroom within a 300-mile radius
-- Machine range of 55 to 500 tons for diverse part sizes
-- Advanced robotics from Yushin, Staubli, Star Automation, Rethink Robotics, and Universal Robots
+- Only ISO Class 8 medical cleanroom within 300 miles
+- Robotics integration with Yushin, Staubli, Star Automation, Rethink Robotics, Universal Robots
 - Electronic vision inspection for quality assurance
-- ISO 9001, ISO 13485, ISO 14001, and IATF 16949 certifications
+- Injection molding capacity from 55 to 500 tons
+- Certified to ISO 9001, ISO 13485, ISO 14001, IATF 16949
 
 ## Capabilities
 - Custom plastic injection molding
-- High tolerance injection molding
-- Cleanroom medical molding (ISO Class 8)
-- Automotive parts manufacturing
-- Secondary assembly operations
-- Hot oil mold temperature control
-- Engineering grade thermoplastics processing
-- High heat resins processing
-- Electronic vision inspection
-- Robotics automation
+- Cleanroom molding (ISO Class 8)
 - White room assembly
+- Automotive parts molding
+- Medical device molding
+- Engineering-grade thermoplastic processing
+- High-heat resin processing
+- Hot-oil mold temperature control
+- Robotics automation
+- Electronic vision inspection
+- Secondary assembly operations
 
 ## Industries
-- Medical device
+- Medical devices
 - Automotive
 - Consumer goods
 - Industrial
 
 ## Equipment
+- Injection molding machines (55-500 tons)
 - Yushin robots
 - Staubli robots
 - Star Automation equipment
-- Rethink Robotics equipment
-- Universal Robots equipment
+- Rethink Robotics
+- Universal Robots
+- Electronic vision inspection systems
 
 ## Certifications
 - ISO 9001
@@ -333,19 +331,18 @@ Management emphasizes that the cleanroom is the only one of its kind within a 30
 
 <details><summary>Sources</summary>
 
-- Founded 1982 -> db, /
-- Headquarters Mt Vernon, Indiana -> db, /
-- Certifications ISO 9001, ISO 13485, ISO 14001, IATF 16949 -> db, /
-- Custom plastic injection molding, difficult geometries, engineering grade thermoplastics, high heat resins, hot oil systems -> /
+- Founded 1982 -> db
+- Headquarters Mt Vernon, Indiana -> db
+- Certifications ISO 13485, IATF 16949, ISO 14001, ISO 9001 -> db
+- Custom plastic injection molder, difficult geometries, engineering grade thermoplastics, high heat resins, hot oil systems -> /
+- Two facilities: Automotive/Industrial and Medical/Healthcare on same property -> /
 - Machine sizes 55 to 500 tons -> /
-- Two facilities: Automotive/Industrial and Medical/Healthcare -> /
-- 11,000 sq ft ISO Class 8 cleanroom -> /
-- Automation: Yushin, Staubli, Star Automation, Rethink Robotics, Universal Robots -> /
+- Separate 11,000 sq ft ISO Class 8 cleanroom manufacturing and white room assembly -> /
+- Robotics: Yushin, Staubli, Star Automation, Rethink Robotics, Universal Robots -> /
 - Electronic vision and inspection systems -> /
 - Industries: medical device, automotive, consumer goods, industrial -> /
-- President & CEO Scott Titzer, Executive Vice President / CFO Sondra Ash -> /
-- Cleanroom only one of its kind within 300-mile radius -> /
-- Made in America emphasis -> /
+- President & CEO Scott Titzer, EVP/CFO Sondra Ash -> /
+- Cleanroom only one of its kind within 300 mile radius -> /
 - LinkedIn URL -> db
 </details>
 
@@ -356,34 +353,34 @@ Management emphasizes that the cleanroom is the only one of its kind within a 30
 **Old description:** Take your MODbox organization off the floor and onto the wall. The Klein MODbox Wall System creates a customizable storage setup for tools, parts, and accessories—keeping your workspace organized and essential gear within easy reach.
 
 ## About
-Based in Nashville, Tennessee, Inline Electric Supply Co. operates as a regional electrical distributor with a network spanning four southeastern states. The company, formerly known as Williams Electric Supply Co., maintains its headquarters in Nashville and serves customers through more than 25 branch locations across Alabama, Florida, Georgia, and Tennessee.
+Inline Electric Supply Co. operates from its headquarters in Nashville, Tennessee, and serves the Southeast through more than 25 branches across Alabama, Florida, Georgia, and Tennessee. The business traces its roots to Williams Electric Supply Co., though the founding year and original ownership details are not publicly disclosed.
 
-The company distributes a broad range of electrical products and equipment for construction, repair, and maintenance projects. Its inventory includes panelboards up to 1,200 amps and switchboards up to 4,000 amps, sourced through partnerships with Eaton and Siemens. Inline also operates lighting showrooms and provides lighting design consultations performed by certified professionals, alongside energy consultation services for commercial and industrial facilities.
+As an electrical distributor, Inline stocks a broad range of products for construction, repair, and maintenance, including residential lighting fixtures, commercial and industrial electrical equipment, and a dedicated panel program. The company partners with Eaton and Siemens to maintain inventory of 1,200-amp panelboards and 4,000-amp switchboards for emergency replacement, and it operates lighting showrooms at multiple locations.
 
-Inline serves a mix of public and private institutions, government contractors, commercial and industrial businesses, and residential customers. Its customer base includes contractors working on public infrastructure, private developers, and homeowners seeking lighting and electrical supplies.
+Inline’s customer base spans commercial and industrial contractors, residential builders and homeowners, government agencies, and public and private institutions. The company emphasizes its ability to serve both large-scale projects and individual homeowners through its branch network and specialized staff.
 
-The company emphasizes its knowledgeable staff—drawn from industrial backgrounds and including lighting-certified professionals and engineers—as a key differentiator. Inline also highlights an emergency panel program designed to quickly supply critical distribution equipment, reducing downtime for customers facing unexpected failures.
+Inline differentiates itself through a staff that includes professionals with industrial backgrounds, certified lighting designers, and engineers who provide lighting consultations aimed at improving energy efficiency and occupant comfort. The panel program is positioned as a rapid-response solution for critical power distribution needs.
 
 ## Known for
-- Over 25 locations across Alabama, Florida, Georgia, and Tennessee
-- Partnerships with Eaton and Siemens for panel and switchboard inventory
+- Over 25 branch locations across Alabama, Florida, Georgia, and Tennessee
+- Emergency panel program with Eaton and Siemens switchboards up to 4,000 amps
 - Lighting design consultations by certified professionals
-- Staff with industrial backgrounds and engineering expertise
-- Emergency panel program stocking 1,200-amp panelboards and 4,000-amp switchboards
+- Staff with industrial, engineering, and lighting certification backgrounds
 
 ## Capabilities
 - Electrical product distribution
 - Lighting design consultation
 - Panel and switchboard supply
-- Emergency equipment stocking
-- Energy consultation
+- Residential lighting showroom
+- Commercial and industrial electrical supply
 
 ## Industries
 - Commercial
 - Industrial
 - Residential
 - Government
-- Institutional
+- Public institutions
+- Private institutions
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -391,16 +388,15 @@ The company emphasizes its knowledgeable staff—drawn from industrial backgroun
 
 <details><summary>Sources</summary>
 
-- Company name and former name -> db
-- Headquarters: Nashville, Tennessee -> db
-- Website: https://www.inlineelectric.com/ -> db
-- Over 25 locations across Alabama, Florida, Georgia, Tennessee -> /
-- Partnerships with Eaton and Siemens for panel program -> /
-- Stocks 1200 amp panelboards and 4000 amp switchboards -> /
-- Lighting consultations by certified professionals -> /
-- Knowledgeable staff with industrial background and engineering expertise -> /
-- Serves public and private institutions, government contractors, homeowners -> /
-- Emergency panel program for quick equipment supply -> /
+- Headquarters in Nashville, Tennessee -> db
+- Over 25 locations across Alabama, Florida, Georgia, and Tennessee -> page '/'
+- Electrical distributor -> page '/'
+- Partners with Eaton and Siemens for panel program -> page '/'
+- Stocks 1200 amp panelboards and 4000 amp switchboards -> page '/'
+- Offers lighting consultations -> page '/'
+- Serves commercial, industrial, residential, government contractors -> page '/'
+- Knowledgeable staff with industrial background and certified professionals -> page '/'
+- Formerly Williams Electric Supply Co. -> db
 </details>
 
 ---
@@ -410,27 +406,27 @@ The company emphasizes its knowledgeable staff—drawn from industrial backgroun
 **Old description:** Inman Mills has been committed to producing quality textile products for more than a century. Research and development coupled with evolved technology have enabled us to remain ever-ready, versatile, and flexible in meeting market demands and creating new and innovative products.
 
 ## About
-Inman Mills operates from Inman, South Carolina, where it has produced textile products for over a century. The company does not disclose its exact founding year, ownership structure, or founders' names in the provided materials.
+Inman Mills operates from Inman, South Carolina, where it has produced textiles for over a century. The company does not disclose a precise founding year or its founders, and no ownership designation such as family- or veteran-owned is stated publicly. Its history emphasizes a long-standing commitment to quality textile manufacturing.
 
-The mill manufactures a range of textile products including yarns, woven fabrics, flame-resistant barriers, TEXIM® advanced composites, and fabrics for personal protective equipment (PPE). Its capabilities span product development, a wide variety of fabric constructions, and technical design services. No facility size, headcount, or production volumes are published.
+The mill’s product lines include yarns, woven fabrics, flame-resistant barriers, TEXIM® advanced composites, and personal protective equipment (PPE) fabrics. Technical and design capabilities support custom development, though the company does not publish facility size, headcount, or annual volume figures.
 
-The company serves markets that require high-performance textiles, such as protective apparel, industrial safety, and advanced composite applications. Specific industry sectors or named customers are not identified in the source material.
+Inman Mills serves markets that require high-performance textiles, notably the personal protective equipment sector and applications needing flame-resistant barriers and advanced composites. Customers include manufacturers of safety gear and technical textile integrators, though specific client names are not provided.
 
-Inman Mills emphasizes research and development combined with evolved technology to stay versatile and responsive to market demands. It also highlights a family-oriented workplace culture, noting that many employees have stayed for decades, fostering a sense of ownership and pride.
+The company cites its research and development investment and evolved technology as keys to remaining versatile and responsive to market demands. It also highlights a workplace culture where many employees have stayed for decades, fostering a family environment that encourages ownership and pride in work.
 
 ## Known for
-- Over a century of textile manufacturing experience
-- Research and development paired with evolved technology for versatility
-- Family-oriented culture with long-tenured employees
-- Technical and design capability for custom fabric solutions
+- Research and development paired with evolved technology
+- Versatile, flexible response to market demands
+- Focus on new and innovative product creation
+- Decades-long employee retention and family-oriented culture
 
 ## Capabilities
-- Yarn spinning
-- Woven fabric production
-- Flame-resistant barrier manufacturing
-- TEXIM® advanced composites fabrication
+- Yarn production
+- Woven fabric manufacturing
+- Flame-resistant barrier fabrication
+- TEXIM® advanced composites
 - PPE fabric production
-- Technical design services
+- Technical and design services
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -438,13 +434,12 @@ Inman Mills emphasizes research and development combined with evolved technology
 
 <details><summary>Sources</summary>
 
-- Company name: Inman Mills -> db
-- Headquarters: Inman, South Carolina -> db
-- Produces textile products for over a century -> page "/"
-- Product lines: Yarns, Wovens, Flame-Resistant Barriers, TEXIM® Advanced Composites, PPE Fabrics -> page "/"
-- Capabilities: Product Capabilities, Wide Variety of Fabric Capabilities, Technical and Design Capability -> db
-- Employee culture: many employees decades, family environment -> page "/"
-- R&D and evolved technology for versatility -> page "/"
+- Location: Inman, South Carolina -> db
+- Over a century of textile production -> db
+- Product lines: yarns, wovens, flame-resistant barriers, TEXIM® advanced composites, PPE fabrics -> page /
+- Technical and design capability -> page /
+- Employee tenure of decades and family environment -> page /
+- R&D and evolved technology for versatility -> db
 </details>
 
 ---
@@ -454,84 +449,76 @@ Inman Mills emphasizes research and development combined with evolved technology
 **Old description:** i2-tech has been serving this market since 1960 when we made fishing lures for the Lazy Ike company. Today we specialize in large part molding and offer our customers highly cosmetic, molded in color sub-assemblies including, ATV bumpers, personal watercraft hoods, and UTV fenders.
 
 ## About
-Innovative Injection Tech (i2-tech) was founded in 1960 in West Des Moines, Iowa, initially producing fishing lures for the Lazy Ike company.
+Innovative Injection Tech (i2-tech) was founded in 1960 in West Des Moines, Iowa, initially producing fishing lures for the Lazy Ike company. The business remains headquartered in West Des Moines and has grown into a large-part injection molding specialist.
 
-Today the company specializes in large-part injection molding, operating 11 presses over 1,000 tons of clamping force, including a 4,400-ton Engel press installed in 2021 capable of molding parts up to 45 pounds. The facility runs 24/7 with a workforce of over 200 employees and focuses on low- to medium-volume production of highly engineered plastic components and sub-assemblies. Mold tooling is built in Shenzhen, China, to U.S. standards using German steel, with final qualification performed in Iowa.
+The company operates a 24/7 facility with more than 200 employees and 11 presses exceeding 1,000 tons of clamp force, the largest being a 4,400-ton Engel machine with a 654-ounce barrel. It produces highly cosmetic, molded-in-color sub-assemblies weighing up to 45 pounds, such as ATV bumpers, personal watercraft hoods, and UTV fenders. Molds are built and sampled at a dedicated tooling facility in Shenzhen, China, using German steel, with final part approval completed in Iowa. The shop also offers scientific injection molding, mold transfer programs, rapid prototyping via a Stratasys 3D printer, and in-house engineering support.
 
-The company serves original equipment manufacturers in agriculture, industrial equipment, automotive (including Tier 1 suppliers), construction, medical devices, and recreational vehicles. Typical parts include ATV bumpers, personal watercraft hoods, UTV fenders, and other large cosmetic assemblies.
+i2-tech serves agricultural, industrial, automotive (including tier‑1 suppliers), construction, medical, and recreational‑vehicle markets. Customers range from OEMs needing large, tight‑tolerance components to brands requiring turnkey contract manufacturing and sub‑assembly.
 
-i2-tech emphasizes a culture built on trust, respect, and camaraderie across customers, employees, suppliers, shareholders, and the community. It cites its technical expertise, financial stability, and round-the-clock operations as key differentiators, along with in-house engineering, scientific molding processes, and advanced measurement technology such as a portable Romer CMM with integrated scanner.
+The firm cites its combination of technical expertise, a strong balance sheet, and a round‑the‑clock workforce as its competitive advantage, emphasizing a culture built on trust, respect, and community involvement.
 
 ## Known for
-- 24/7 operation with over 200 employees
-- 11 large-tonnage presses up to 4,400 tons
-- Mold tooling built in China to U.S. standards with final approval in Iowa
-- Scientific molding and advanced CMM inspection for repeatable quality
-- Proven mold transfer capability (200+ molds transferred in 2020)
+- Largest press: 4,400-ton Engel with 654 oz barrel
+- 11 presses over 1,000 tons, capable of 45-lb parts
+- Mold building in Shenzhen with US program management, final approval in Iowa
+- 24/7 operation with 200+ employees
+- Scientific molding and Romer Portable CMM for rapid qualification
 
 ## Capabilities
-- Large press injection molding (55–4,400 tons)
-- Contract molding
+- Large press injection molding (up to 4,400 tons)
+- Scientific injection molding
 - Mold trials and qualification
 - Mold transfer programs
-- Low-cost mold building and tooling (offshore with U.S. oversight)
-- Scientific injection molding
+- Low-cost mold building and tooling (offshore)
+- Contract manufacturing and sub-assembly
 - Degating fixture design and build
 - Rapid prototyping (Stratasys 3D printing)
-- Color analysis
-- Moisture analysis
-- Melt flow analysis
-- Design of experiments (DOE) studies
-- Assembly and sub-assembly
-- Contract manufacturing (turnkey)
+- Robotic degating, trimming, and finishing
+- Dimensional inspection with Romer Portable CMM
+- Color analysis, moisture analysis, melt flow testing, DOE studies
+- In-house engineering and design support
+- High-cavitation molding with tight tolerances
+- Molded-in-color parts
+- Energy-efficient electric and servo-hydraulic presses (55–4,400 tons)
 
 ## Industries
-- Agriculture
-- Industrial equipment
-- Automotive (Tier 1)
+- Agricultural
+- Industrial
+- Automotive
 - Construction
-- Medical devices
-- Recreational vehicles
+- Medical
+- Recreational Vehicle
 
 ## Equipment
-- Engel 4,400-ton injection molding machine (654 oz barrel)
+- Engel 4,400-ton press with 654 oz barrel
+- 11 presses over 1,000 tons (largest 4,400 tons)
+- Energy-efficient precision electric & servo-hydraulic injection molding presses (55–4,400 tons)
 - Stratasys 3D printer
 - Romer Portable CMM with Integrated Scanner
-- Electric and servo-hydraulic injection molding presses (55–4,400 tons)
-- Robotic automation on all presses
+- State-of-the-art robots on each press
 
 ## Certifications
 - ISO 2001:2015
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1960
 - **Employees:** over 200
 - **Headquarters:** West Des Moines, Iowa
 
 <details><summary>Sources</summary>
 
-- Founded in 1960 making fishing lures for Lazy Ike -> db
-- Headquarters in West Des Moines, Iowa -> db
+- Founded 1960 in West Des Moines, Iowa -> db
+- Headquarters West Des Moines, Iowa -> db
 - Over 200 employees, 24/7 operation -> /about
-- 11 presses over 1000 tons, largest 4400-ton Engel press installed 2021 -> /capabilities
-- Mold tooling built in Shenzhen, China, final approval in Iowa -> /capabilities
-- Serves agriculture, industrial, automotive, construction, medical, recreational vehicle markets -> /about
-- Parts include ATV bumpers, personal watercraft hoods, UTV fenders -> db
+- 11 presses over 1,000 tons, largest 4,400-ton Engel with 654 oz barrel -> /capabilities
+- Parts up to 45 lbs, molded-in-color sub-assemblies (ATV bumpers, watercraft hoods, UTV fenders) -> db, /capabilities
+- Mold building in Shenzhen, China with German steel, final approval in Iowa -> /capabilities
+- Industries: Agricultural, Industrial, Automotive, Construction, Medical, Recreational Vehicle -> /about
+- Scientific injection molding, Romer Portable CMM, Stratasys 3D printer -> /capabilities
 - ISO 2001:2015 certification -> /
-- Scientific injection molding and Romer Portable CMM with Integrated Scanner -> /capabilities
-- Mold transfer program transferred 200+ molds in 2020 -> /capabilities
-- Stratasys 3D printer for rapid prototyping -> /capabilities
-- Company culture pillars: customers, employees, suppliers, community -> /
-- Competitive advantage: technical expertise, strong balance sheet, 200+ employees -> /about
-- Low to medium lot sizes -> /capabilities
-- Electric and servo-hydraulic presses 55-4400 tons -> /capabilities
-- Robotic automation on each press -> /capabilities
-- Degating fixture design and build -> /capabilities
-- Color analysis, moisture analysis, melt flow analysis, DOE studies -> /capabilities
-- Assembly and sub-assembly services -> /capabilities
-- German steel for molds -> /capabilities
-- US program management for offshore tooling -> /capabilities
+- Low to medium lot size specialization -> /
+- Contract manufacturing and mold transfer programs -> /capabilities
 </details>
 
 ---
@@ -541,55 +528,49 @@ i2-tech emphasizes a culture built on trust, respect, and camaraderie across cus
 **Old description:** Founded in 2012, Innovative Plastek Solutions in the beautiful Shoals area of North Alabama was originally established as a urethane molder creating decorative furniture parts. We found a niche in the southern USA with no service for plastic décor for southern furniture manufacturers. Now we offer quality decorative plastic to the furniture industry at a lower cost than the big northern plastic manufacturing companies. Turning urethane parts into injection molded parts has allowed us to provide even lower costs to the furniture industry, consumer products, automotive, and other industries.
 
 ## About
-Innovative Plastek Solutions was founded in 2012 in the Shoals region of northern Alabama, initially as a urethane molder producing decorative furniture components. The company identified an underserved niche among southern furniture manufacturers for plastic décor and has since relocated its headquarters to Loretto, Tennessee, where it operates
+Innovative Plastek Solutions was founded in 2012 in Loretto, Tennessee, near the Shoals region of northern Alabama. The company began as a urethane molder producing decorative furniture parts for southern manufacturers that lacked local plastic décor suppliers.
 
-The shop specializes in thermoplastic injection molding with presses up to 270 tons, 21.2‑ounce shot capacity, and 32‑inch maximum part length, complemented by urethane casting for low‑to‑medium volumes. In‑house capabilities include overmolding, insert molding, secondary machining, a range of coatings and vacuum metalizing, value‑added assembly and kitting, 3D‑printed prototyping, and a conversion service that moves parts from urethane to injection‑molded production. A finished‑goods warehouse supports just‑in‑time delivery, and the company maintains a fleet of box trucks and vans for freight.
+The operation has since expanded into thermoplastic injection molding, with machines capable of 270-ton clamping force, 21.2-ounce shot size, and 32-inch maximum part length. Services include overmolding, secondary finishing, vacuum metalizing, insert molding, 3D-printed samples, short-run production, and conversion of urethane parts to injection-molded components. The facility also provides value-added assembly, kitting, JIT warehousing, tooling storage, and a dedicated freight fleet of box trucks and vans.
 
-Primary markets include the furniture industry (promotional hardware, decorative trim), automotive (child‑seat components, interior parts), consumer products, and military/defense (precision molded parts). The company also serves aerospace and healthcare sectors, and ships throughout North America.
+The company serves the furniture, automotive, consumer-products, aerospace, healthcare, and military sectors. Examples cited include promotional furniture hardware, auto parts, child seats, precision military components, and medical device parts. It ships throughout North America and Canada.
 
-The founders aimed to undercut larger northern molders by converting urethane designs to injection‑molded parts, lowering per‑unit cost while maintaining quick turnaround. Leadership cites over 60 years of combined molding experience, a full‑service model from design through logistics, and a focus on quality, price, and service as key differentiators.
+The founders identified a regional gap—southern furniture makers had no nearby source for plastic decorative parts—and built the business to offer lower costs than large northern molders by transitioning urethane castings to injection molding.
 
 ## Known for
-- Converts urethane prototypes to injection‑molded production for lower unit cost
-- In‑house freight fleet (box trucks and vans) for direct delivery
-- JIT warehousing and customer tooling storage
-- 3D‑printed samples for short‑run validation
-- Over 60 years of combined molding experience
+- Lower cost than large northern molders by converting urethane to injection molding
+- Quality, price, service, and quick turnaround emphasized as competitive edge
+- Full North America and Canada service coverage
+- In-house freight fleet (box trucks and vans) for direct delivery
+- JIT warehousing and customer tooling storage on site
 
 ## Capabilities
-- Thermoplastic injection molding (up to 270 ton, 21.2 oz shot, 32 in)
+- Custom injection molding
 - Urethane casting
 - Overmolding
+- Secondary operations/finishing
+- Coatings
+- Vacuum metalizing
 - Insert molding
-- Secondary machining and finishing
-- Coatings and vacuum metalizing
-- Value-added assembly and kitting
-- 3D printed prototyping
+- Value-added assembly
+- Kitting
+- 3D printing (samples)
 - Short-run production
 - Urethane-to-injection-mold conversion
-- Freight and logistics (fleet of box trucks and vans)
 - JIT warehousing
-- Customer tooling storage
-- Mold maintenance
-- Design and engineering support
-- Turnkey solutions
-- Quality assurance
+- Tooling storage
+- Freight logistics (box trucks, vans)
+- Scheduled mold maintenance
 
 ## Industries
 - Furniture
 - Automotive
-- Consumer Products
-- Military/Defense
+- Consumer products
 - Aerospace
 - Healthcare
-- Industrial
+- Military/Defense
 
 ## Equipment
-- Injection molding machines (up to 270 ton, 21.2 oz shot, 32 in clamp)
-- 3D printers for sampling
-- Box trucks and vans for freight
-- Vacuum metalizing system
-- Coating and finishing equipment
+- Injection molding machines (up to 270 tons, 21.2 oz shot, 32-inch max length)
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -599,19 +580,15 @@ The founders aimed to undercut larger northern molders by converting urethane de
 <details><summary>Sources</summary>
 
 - Founded in 2012 -> /about-us
-- Headquartered in Loretto, Tennessee -> db and /
-- Originally urethane molder for decorative furniture parts -> /about-us
-- Thermoplastic injection molding up to 270 ton, 21.2 oz shot, 32 in length -> / and /services
-- Urethane casting for low to medium volumes -> /about-us
-- Overmolding, secondary operations, coatings, vacuum metalizing, inserts -> / and /services
-- Value-added assembly, kitting, JIT warehousing, tooling storage -> / and /services
-- Freight services with fleet of box trucks and vans -> / and /services
-- 3D printed samples for short runs -> / and /services
-- Industries: furniture, automotive, consumer products, military, aerospace, healthcare -> /about-us, /services, /
-- Mark J Clark, COO -> /about-us
-- Service all of North America and Canada -> /about-us
-- Over 60 years of combined experience -> /about-us
-- Quality, price, service, quick turnaround -> /about-us and /
+- Headquarters in Loretto, Tennessee -> /
+- Started as urethane molder for decorative furniture parts -> /about-us
+- Offers thermoplastic injection molding up to 270 tons, 21.2 oz shot, 32-inch length -> /services
+- Serves furniture, automotive, consumer products, aerospace, healthcare, military -> /about-us, /services
+- Provides overmolding, vacuum metalizing, insert molding -> /services
+- Operates freight fleet of box trucks and vans -> /services
+- Offers JIT warehousing and tooling storage -> /services
+- Converts urethane parts to injection molding -> /services
+- Services all of North America and Canada -> /about-us
 </details>
 
 ---

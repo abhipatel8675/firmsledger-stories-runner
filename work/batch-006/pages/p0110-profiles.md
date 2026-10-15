@@ -65,27 +65,27 @@ The company distinguishes itself through its integrated in-house fabrication and
 **Old description:** Our capabilities include custom fabrication, structural steel, CNC cutting, machining, and assembly. Whether producing one-off components or large-scale production runs, we are committed to delivering on time and within budget.
 
 ## About
-Steel Plate Fabricators, headquartered in Knoxville, Tennessee, traces its roots to 1921 when A.J. Russell and his son founded A.J. Russell & Son in a home outbuilding in the Lonsdale community. The business incorporated as Knoxville Sheet Metal Works in the 1940s under Calvin and Helen Russell, then shifted to heavier plate fabrication in 1964 under David and Merle Russell, adopting the Steel Plate Fabricators name. In 2007, fourth-generation owners Mike and Anna Russell purchased the company, continuing the family-owned operation.
+Steel Plate Fabricators operates from a 140,000-square-foot facility in Knoxville, Tennessee, at the intersection of Interstates 40 and 75. The company traces its roots to 1921, when A.J. Russell and his wife Lucinda started A.J. Russell & Son in an outbuilding of their Lonsdale home. Their son Calvin and his wife Helen incorporated the business as Knoxville Sheet Metal Works in the 1940s. In 1964, their son David and his wife Merle shifted the focus to heavier fabrication and adopted the Steel Plate Fabricators name. The fourth generation, Mike and Anna Russell, acquired the company in 2007, continuing it as a family-owned operation.
 
-The company operates a 140,000-square-foot facility on 10 acres equipped with twelve overhead cranes (up to 30-ton capacity) and a range of CNC cutting, forming, machining, and welding equipment. Its 55 full-time employees provide custom fabrication, structural steel, CNC laser, plasma, and waterjet cutting, press braking, rolling, sawing, robotic and manual welding, blasting, painting, powder coating, and assembly. The shop handles one-off prototypes through large-scale production runs, including nuclear waste containers, beam weldments, tank fabrication, and turnkey assemblies.
+The shop provides custom metal fabrication, structural steel work, CNC cutting, machining, and assembly for both one-off components and large-scale production runs. Core processes include laser and waterjet cutting, bevel plasma and oxyfuel cutting, braking, forming, shearing, rolling, sawing, welding (in-house and on-site), blasting, painting, powder coating, and reverse engineering. Machining capabilities cover lathes, vertical and horizontal mills, grinders, and press repairs. The facility houses twelve overhead cranes up to 30 tons, 32 weld cells, two robotic welding cells, and equipment such as a Trumpf 12 kW fiber laser, Cincinnati 600-ton and 350-ton press brakes, a Flex CNC gantry mill, Mazak and Haas machining centers, and a G&L horizontal boring mill. A stock program and on-site services extend support nationwide.
 
-Steel Plate Fabricators serves energy and utility companies, biomedical device manufacturers, agricultural equipment builders, transportation (automotive, rail, marine), heavy industry (mining, oil and gas), food and beverage producers, commercial and residential construction, and government agencies. The firm also supports technology and general manufacturing sectors with reverse engineering and on-site repair services.
+Customers span energy and utilities, biomedical and high-tech, agriculture, transportation (automotive, rail, marine), food and beverage, heavy industry (mining, oil and gas), construction, and government agencies. The company produces structural assemblies, machine components, turnkey assemblies, beam weldments, prototypes, nuclear waste containers, tanks, HVAC ductwork, staircases, railings, and ornamental steel products.
 
-The company emphasizes its century of continuous manufacturing experience, a central location at the I-40/I-75 junction enabling 1–2 day shipping to most of the contiguous U.S., and a commitment to minimizing customer downtime through precise, reliable fabrication and turnkey project coordination.
+Steel Plate Fabricators emphasizes quality and dependability, citing 95 percent on-time shipment rates and a central location that enables one- to two-day ground transport to most of the contiguous United States. In-house CAD and 3D imaging support 90 percent of projects, and the firm highlights its 300-plus years of combined workforce experience as a differentiator.
 
 ## Known for
 - 100+ years of continuous manufacturing experience
-- 140,000 sq ft facility with cranes up to 40-ton capacity
-- Strategic location at I-40/I-75 for 1-2 day transport to most U.S. locations
-- In-house CAD, 3D imaging, and reverse engineering capabilities
-- Certified welding and heavy plate fabrication expertise
+- 140,000-square-foot facility with twelve overhead cranes up to 30 tons
+- Central location at I-40/I-75 junction for 1-2 day transport to most US locations
+- In-house CAD and 3D imaging with 300+ years combined workforce experience
+- Stock program for customer parts and on-site services nationwide
 
 ## Capabilities
 - Laser cutting
 - Waterjet cutting
 - Bevel plasma cutting
 - Oxyfuel cutting
-- Press braking
+- Braking
 - Forming
 - Shearing
 - Rolling
@@ -95,7 +95,6 @@ The company emphasizes its century of continuous manufacturing experience, a cen
 - Punching
 - In-house welding
 - On-site welding
-- Robotic welding
 - Abrasive blasting
 - Shot blasting
 - Painting
@@ -103,29 +102,36 @@ The company emphasizes its century of continuous manufacturing experience, a cen
 - Reverse engineering
 - Quality control
 - Oversized load delivery
-- Material storage
+- Crane capacity up to 40 tons
+- Customer material storage
 - Stock program for customer parts
 - CNC lathe machining
-- CNC vertical milling
-- CNC horizontal milling
-- Horizontal boring
-- Tapping
-- 3D printing
-- Heat treating
+- Vertical milling
+- Horizontal milling
+- Grinding
+- Press repair
 - Assembly
 - Disassembly
-- Press repairs
+- 3D printing
+- Heat treating
 
 ## Industries
 - Energy/Utilities
-- Biomedical/High-tech
+- Biomedical
+- High-tech
 - Agriculture
-- Transportation (Auto, Rail & Boating)
-- Heavy Industry (Mining, Oil & Gas)
-- Food/Beverage
-- Construction (Residential & Commercial)
+- Transportation
+- Automotive
+- Rail
+- Marine
+- Food and beverage
+- Heavy industry
+- Mining
+- Oil and gas
+- Construction
+- Residential construction
+- Commercial construction
 - Science/Technology
-- Manufacturing
 - Government agencies
 
 ## Equipment
@@ -136,17 +142,16 @@ The company emphasizes its century of continuous manufacturing experience, a cen
 - Messer Oxyfuel & Bevel Plasmas up to 40' Long
 - Hydmech Vertical 30° Mitering Automatic Saw
 - Hydmech Horizontal Automatic Saw
-- Abrasive and Shot Blasting Capabilities
 - Timesaver with Twin Belts & Rotary Brushes
 - 32 Weld Cells with Multiple Processing Types
 - 2 PerformArc 750s Robotic Welding Cells
 - Multiple Plate & Structural Rolls
 - Flex CNC G-20-06 Gantry Mill: XYZ 240"/72"/24"
 - Mazak QuickTurn 250MSY Lathe: 36.50" Length / 13.78" Diameter
-- Haas VF6 Vertical Milling Center: XYZ 64"/30"/30"
-- Haas VF2SS Vertical Milling Center: XYZ 30"/16"/20"
+- Haas VF6 Vertical Milling Center XYZ: 64"/30"/30"
+- Haas VF2SS Vertical Milling Center XYZ: 30"/16"/20"
 - G&L Manual Horizontal Boring Mill: 144" Length x 72" Vertical
-- Haas TM1 Tool Room Mill: XYZ 30"/12"/16"
+- Haas TM1 Tool Room Mill XYZ: 30"/12"/16"
 - GHM-30 Hydraulic Tapping Flex Arm
 - A32 Pneumatic Tapping Flex Arm
 - Bridgeport CNC Lathe
@@ -158,37 +163,43 @@ The company emphasizes its century of continuous manufacturing experience, a cen
 ## Certifications
 - DUNS: 003380938
 - CAGE: OAPD5
+- EIN: 620633207
 - SAM Registered
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1921
-- **Employees:** 55
-- **Ownership:** Family-owned
+- **Employees:** 55+
+- **Ownership:** Family-owned (third generation)
 - **Headquarters:** Knoxville, Tennessee
 
 <details><summary>Sources</summary>
 
 - Founded 1921 as A.J. Russell & Son -> /about
-- Incorporated as Knoxville Sheet Metal Works in 1940s -> /about
-- Renamed Steel Plate Fabricators in 1964 -> /about
-- Fourth-generation owners Mike and Anna Russell purchased in 2007 -> /about
-- Headquartered in Knoxville, TN -> /about, /
-- 140,000 sq ft facility on 10 acres -> /about, /capabilities
-- Twelve overhead cranes up to 30 tons (40 tons on capabilities page) -> /about, /capabilities
-- 55+ full-time employees -> /about, db
+- Third generation family business, fourth generation Mike and Anna Russell acquired in 2007 -> /about
+- Headquartered in Knoxville, TN at intersection of I-40 and I-75 -> /about
+- 140,000-square-foot facility on 10 acres -> /about
+- Twelve overhead cranes up to 30 tons -> /about
+- 55+ full-time employees -> /about
 - 600+ years combined experience -> /about
 - 250k completed projects -> /about
-- Capabilities: laser, plasma, waterjet, oxyfuel cutting, braking, forming, shearing, rolling, sawing, welding, blasting, painting, powder coating, reverse engineering, quality control -> /capabilities
-- Equipment list including Trumpf lasers, Cincinnati press brakes, Mazak lathe, Haas mills, etc. -> /capabilities
-- Materials: hot rolled, galvanized, aluminum, stainless, Domex, AR, Corten, Tri-Braze, A516 GR70, T1, various shapes -> /capabilities
-- Industries served: energy/utilities, biomedical, agriculture, transportation, heavy industry, food/beverage, construction, science/tech, manufacturing, government -> /, /about, /capabilities
-- DUNS 003380938, CAGE OAPD5, SAM Registered -> /capabilities
-- NAICS and FSC codes listed -> /capabilities
-- Strategic location at I-40/I-75 for 1-2 day transport -> /about
-- On-site services nationwide -> /capabilities
-- Stock program for customer parts -> /capabilities
-- Certified welding and heavy plate fabrication -> /about
+- 95% projects shipped on time -> /about
+- 75% projects required finishing -> /about
+- 90% projects required in-house CAD work -> /about
+- 30% projects shipped outside Tennessee -> /about
+- Core services: fabrication and machining -> /capabilities
+- Laser & waterjet cutting, bevel plasma & oxyfuel cutting -> /capabilities
+- Braking, forming, shearing, rolling, sawing, beveling, coping, punching -> /capabilities
+- In-house & on-site welding, cleaning, blasting, finishing, painting, powder coating -> /capabilities
+- Reverse engineering, quality control, delivery up to oversized loads -> /capabilities
+- Multiple cranes up to 40 tons, inside/outside material storage, stock program -> /capabilities
+- Machining: lathes, vertical mills, horizontal mills, grinders, press repairs, assembly, disassembly -> /capabilities
+- Equipment list including Trumpf lasers, Cincinnati press brakes, Mazak lathe, Haas mills, G&L boring mill, Bridgeport CNC lathe, 3D printers, heat treat oven -> /capabilities
+- Materials: hot rolled steel, galvanized steel, aluminum, stainless steel, Domex, AR steel, Corten A588, Tri-Braze, A516 GR70, T1, and various forms -> /capabilities
+- Industries served: energy/utilities, biomedical, agriculture, transportation, food/beverage, heavy industry, construction, science/tech -> / and /about
+- DUNS 003380938, CAGE OAPD5, EIN 620633207, SAM Registered -> /capabilities
+- NAICS codes listed -> /capabilities
+- LinkedIn URL -> db
 </details>
 
 ---

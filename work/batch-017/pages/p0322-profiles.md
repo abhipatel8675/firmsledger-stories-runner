@@ -3,44 +3,45 @@
 **Old description:** Dakota Outerwear Co. operates as a GSA contractor (Contract #47QSWA18D009J) and specializes in supplying clothing and equipment to police and military personnel. Our product offerings are crafted from advanced fabrics and fibers that are meticulously designed to provide optimal comfort and safety in various weather conditions. We offer an extensive range of items, including hats, boots, gloves, coveralls, uniforms, underwear, and individual equipment, catering to the needs of both official duty and recreational use.
 
 ## About
-Dakota Outerwear Co. is based in Minot, North Dakota, and traces its roots to 1988. The business is 100% veteran-owned and managed, supplying the U.S. military, National Guard, law enforcement, and federal, state, and local government agencies.
+Dakota Outerwear Co. operates from Minot, North Dakota, located two miles north of the city on Highway 83 and five miles south of Minot Air Force Base. The company traces its roots to 1988, when it began producing American-made military outerwear. It is 100% veteran-owned and managed; the team is led by Jesh, a 12-year Army veteran who deployed in support of Operations Iraqi Freedom and Enduring Freedom, and includes Gary, a 30-year oilfield veteran, along with Tammy and Brendon handling inside sales and logistics.
 
-The company fabricates its own branded line of military outerwear — including jackets, parkas, bibs, and coveralls — at its North Dakota facility, leveraging American labor and advanced flame-resistant fabrics. It also represents a full line of FR workwear for the oilfield, electrical, mining, and welding sectors, and offers embroidery services for uniform programs. Dakota Outerwear serves over 100 military bases nationwide through its GSA contract (GS-47QSWA18D009J).
+The company fabricates its own branded line of military outerwear — jackets, parkas, bibs, and coveralls — using domestic labor and North Dakota resources. It also represents a full line of flame-resistant workwear for the oilfield, electricians, mine workers, and welders, meeting standards such as NFPA 70E, NFPA 2112, and ASTM F1506. Beyond manufacturing, Dakota Outerwear provides embroidery services for custom uniforms and runs a retail storefront. The business supplies more than 100 military bases across the United States through its GSA contract (GS-47QSWA18D009J) and serves customers via GSA Advantage and GSA eBuy.
 
-Primary customers include the U.S. Department of Defense, National Guard units, police departments, and government agencies at all levels. In the commercial sector, the company supplies flame-resistant gear to oil and gas operators, electric utilities, petrochemical plants, construction firms, and welding shops.
+Primary customers include the U.S. military, National Guard, law enforcement agencies, and federal, state, and local government organizations. The company also serves oilfield companies, electrical contractors, mining operations, and welding shops that require FR protective gear. Individual buyers, including first responders and recreational users, can purchase hats, boots, gloves, coveralls, uniforms, underwear, and individual equipment directly.
 
-Dakota Outerwear emphasizes its ability to source hard-to-find items for military and first-responder needs and integrates new fabric technologies into its product lines.
+Founded by veterans, Dakota Outerwear emphasizes delivering reliable, durable protective gear at competitive prices. The company highlights its ability to source hard-to-find clothing items for specialized military and police applications and its commitment to integrating new fabric technologies to enhance performance in extreme conditions.
 
 ## Known for
 - American-made military outerwear manufactured in North Dakota
-- 100% veteran-owned and managed
-- GSA contract holder (GS-47QSWA18D009J) supplying 100+ bases
-- Fabricates branded outerwear line domestically
-- Sources hard-to-find items for military and first responders
+- GSA contractor (Contract #47QSWA18D009J) with listings on GSA Advantage and GSA eBuy
+- 100% U.S. military veteran-owned and managed
+- Supplies over 100 military bases across the United States
+- Sources hard-to-find clothing for specialized military and police needs
 
 ## Capabilities
-- Fabrication of military outerwear (jackets, parkas, bibs, coveralls)
-- Embroidery and uniform customization
-- Flame-resistant workwear representation and distribution
-- GSA contract fulfillment and management
-- Specialized product sourcing for defense and public safety
+- Military outerwear manufacturing (jackets, parkas, bibs, coveralls)
+- Flame-resistant workwear fabrication
+- Custom embroidery and uniform decoration
+- GSA contract fulfillment and government sales
+- Sourcing of specialized clothing and equipment
+- Retail storefront and direct sales
 
 ## Industries
 - U.S. Military
 - National Guard
-- Law enforcement
-- Federal government
-- State government
-- Local government
-- Oil and gas
-- Electrical utilities
+- Law Enforcement
+- Federal, State, and Local Government
+- Oil and Gas
+- Electrical Contractors
 - Mining
 - Welding
-- Petrochemical
-- Construction
-- Electrical contractors
-- Refineries
-- First responders
+- First Responders
+
+## Certifications
+- GSA Contractor (Contract #47QSWA18D009J)
+- NFPA 70E compliant
+- NFPA 2112 certified
+- ASTM F1506 compliant
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -50,19 +51,17 @@ Dakota Outerwear emphasizes its ability to source hard-to-find items for militar
 
 <details><summary>Sources</summary>
 
-- Headquarters: Minot, North Dakota -> db
-- Founded 1988 -> / (homepage: 'Since 1988!')
-- Veteran-owned and managed -> / (homepage: 'Veteran Owned') and /about ('100% US military veteran-owned and managed')
-- GSA contractor with contract #47QSWA18D009J -> / (homepage) and db description
-- Fabricates branded military outerwear line -> /about ('Our team fabricates our branded line of outerwear products for the US military')
-- Supplies over 100 military bases -> /about ('We supply to over 100 bases across the US')
-- Represents FR workwear for oilfield, electricians, mine workers, welders -> / (homepage) and /about
-- Team members: Jesh (Army veteran), Gary (oilfield veteran), Tammy, Brendon -> /about
-- Embroidery services for uniforms -> /about ('oilfield company looking to have uniforms embroidered')
-- Vision: best military and oilfield protective gear at best prices -> / (homepage: 'Our vision at Dakota Outerwear is to provide the best Military and Oilfield protective gear available at the best prices')
-- Sources hard-to-find items for military/first responders -> / (homepage: 'ability to source hard-to-find clothing products that cater to the specific needs of the police and military sectors')
-- Product certifications: NFPA 70E, NFPA 2112, ASTM F1506, HRC 2, ATPV 8 cal/cm2 -> / (homepage keyword list)
-- Materials: advanced fabrics, FR treated cotton, inherently flame resistant fabrics -> / (homepage keyword list)
+- Headquarters: Minot, North Dakota (2 miles north on Hwy 83, 5 miles south of Minot AFB) -> db and page "/"
+- Founded: 1988 (Since 1988!) -> page "/"
+- Veteran-owned and managed -> page "/" and "/about"
+- GSA Contractor Contract #47QSWA18D009J -> page "/" and "/about"
+- Manufactures branded military outerwear (jackets, parkas, bibs, coveralls) -> page "/about"
+- Represents FR workwear for oilfield, electricians, mine workers, welders -> page "/"
+- Supplies over 100 bases across US -> page "/about"
+- Team members: Jesh (Army veteran), Gary (oilfield veteran), Tammy, Brendon -> page "/about"
+- Product certifications: NFPA 70E, NFPA 2112, ASTM F1506 -> page "/"
+- Embroidery services for custom uniforms -> page "/about"
+- Retail storefront at 203 72nd Avenue Northeast, Minot, ND 58703 -> page "/"
 </details>
 
 ---
@@ -72,47 +71,41 @@ Dakota Outerwear emphasizes its ability to source hard-to-find items for militar
 **Old description:** Are you a business owner looking for creative ways to market your business? Do you have an important cause that needs public attention? Count on Dakota Printing and Embroidery LLC to bring your vision to life. We provide printing and embroidery service in Bismarck, ND. We'll embroider or print your desired design on a T-Shirt, hoodie or hat or create stunning business cards, flyers and other marketing for person or professional use.
 
 ## About
-Dakota Printing and Embroidery LLC operates from Bismarck, North Dakota. The company is organized as a limited liability company, though its founding year and ownership details are not publicly disclosed.
+Dakota Printing and Embroidery LLC operates from Bismarck, North Dakota, providing custom printing and embroidery services to businesses and individuals. The company has not publicly disclosed its founding year or ownership structure.
 
-The shop specializes in garment decoration and promotional product customization. Its core processes include screen printing with up to eight colors on a wide range of apparel, embroidery for adding personalized touches to clothing and accessories, and digital printing using current garment-decoration technology. The company also sources and brands thousands of promotional items such as pens, aprons, bags, and drinkware.
+The shop offers screen printing with up to eight colors on virtually any apparel, including T-shirts, hoodies, hats, jackets, pens, and aprons. Embroidery services add personalized touches to clothing and accessories. Digital printing employs the latest technology in garment decoration. The company also provides access to thousands of promotional products that can be branded, along with business cards, flyers, and other marketing collateral.
 
-Its customer base spans local businesses, non-profit organizations, and community groups. Examples from client feedback include Beacon Counseling, which ordered embroidered merchandise ranging from T-shirts to windbreakers, and a dance studio that purchased custom sweatshirts, sweatpants, and other dancewear for competition. The company also serves individual customers seeking custom apparel for personal or professional use.
+Customers include business owners seeking marketing materials, organizations promoting causes, and individuals needing custom apparel for personal or professional use. Testimonials reference a dance studio that ordered sweatshirts, sweatpants, and dance wear for competitions, a counseling center that embroidered merchandise, and other local entities. Customer feedback highlights fast and accurate communication and a willingness to handle short-notice requests.
 
-Dakota Printing and Embroidery positions itself as a creative partner for marketing and brand visibility, emphasizing the ability to bring a client’s vision to life through decorated apparel and branded merchandise.
+The company states its purpose is to bring clients' visions to life through custom decoration, offering creative ways to market businesses or draw attention to important causes.
 
 ## Known for
 - Up to 8-color screen printing on virtually any apparel
-- Digital garment printing with current decoration technology
-- Thousands of promotional items available for branding
+- Digital printing with current garment-decoration technology
+- Thousands of promotional products available for branding
+- Embroidery for personalized clothing and accessories
 
 ## Capabilities
 - Screen printing (up to 8 colors)
 - Embroidery
 - Digital printing (garment decoration)
-- Promotional product sourcing and decoration
-
-## Industries
-- Promotional products
-- Apparel decoration
-- Business marketing
-- Event merchandise
-- Corporate branding
+- Promotional product decoration
+- Business card and flyer printing
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
-- **Ownership:** LLC
-- **Headquarters:** Bismarck, ND
+- **Headquarters:** Bismarck, North Dakota
 
 <details><summary>Sources</summary>
 
-- Location: Bismarck, ND -> /
-- Services: screen printing, embroidery, digital printing, promotional products -> /
-- Screen printing up to 8 colors -> /
-- Digital printing described as latest technology -> /
-- Thousands of promotional items offered -> /
-- Client example: Beacon Counseling -> /
-- Client example: dance studio (Bailey J) -> /
-- Company type: LLC -> /
+- Location: Bismarck, North Dakota -> /
+- Services: screen printing (up to 8 colors), embroidery, digital printing, promotional items -> /
+- Customer types: business owners, organizations, individuals -> /
+- Testimonial examples: dance studio, counseling center -> /
+- Company purpose: bring clients' visions to life -> /
+- Screen printing up to 8 colors on any apparel -> /
+- Digital printing uses latest technology -> /
+- Thousands of promotional items available -> /
 </details>
 
 ---
@@ -122,32 +115,32 @@ Dakota Printing and Embroidery positions itself as a creative partner for market
 **Old description:** Proudly building in Eureka, South Dakota since 1988—quality woodworking you can trust, made in the USA.
 
 ## About
-Dakota Woodworking Inc. was founded in 1988 in Eureka, South Dakota, as a family-owned business. The company began with a focus on custom woodworking and has served the region for nearly four decades.
+Dakota Woodworking Inc. has operated in Eureka, South Dakota since 1988. The family-owned shop began as a local woodworking business and has grown to serve both residential and commercial clients across the region.
 
-The shop designs, builds, and installs custom cabinetry and furniture for both residential and commercial clients. Services include kitchen and bathroom cabinets, built-in shelving, entertainment centers, mudroom storage, reception desks, conference tables, office cabinetry, and custom millwork for retail, restaurant, and hospitality spaces. The company also offers deck building, wood restoration, floor installation, and finish carpentry. All work is performed in-house using American wood species, finishes, and hardware.
+The company designs, builds, and installs custom cabinetry and furniture. Its services span residential kitchens, bathrooms, built-ins, and entertainment centers, as well as commercial millwork for offices, retail stores, restaurants, and hospitality venues. Additional offerings include deck building, wood restoration, floor installation, and finish carpentry, all handled from design through installation.
 
-Dakota Woodworking serves homeowners throughout the area and businesses such as offices, retail stores, restaurants, hotels, and public institutions. Projects range from single-room remodels to large-scale commercial fit-outs.
+Customers range from homeowners remodeling a kitchen to businesses outfitting reception areas, conference rooms, and public spaces. The firm has supplied custom reception desks, conference tables, and cabinetry for high-traffic environments in retail and hospitality settings.
 
-The company emphasizes personalized service from concept through installation, highlighting its commitment to American craftsmanship, premium materials, and attention to detail. It promotes reliable timelines and dedicated customer support as key differentiators.
+Dakota Woodworking emphasizes American craftsmanship, using domestic wood species, finishes, and hardware. It promotes personalized service from concept to installation, reliable timelines, and dedicated customer support as the foundation of its reputation.
 
 ## Known for
-- Family-owned business with nearly 40 years of experience
+- Family-owned and operated since 1988
+- Full in-house design, build, and installation
+- American-made products using domestic wood species
 - Personalized service from concept to installation
-- Exceptional craftsmanship and attention to detail
-- Reliable timelines and dedicated customer support
-- Proudly made in the USA (Eureka, South Dakota)
+- Serves both residential and commercial markets
 
 ## Capabilities
 - Custom cabinetry
 - Custom furniture
-- Residential cabinetry (kitchens, bathrooms, built-ins)
-- Commercial furniture and cabinetry
-- Custom millwork
+- Residential cabinetry
+- Commercial cabinetry
 - Deck building
 - Wood restoration
 - Floor installation
 - Finish carpentry
-- Design, build, and installation services
+- Millwork
+- Design-build-installation
 
 ## Industries
 - Residential
@@ -155,8 +148,8 @@ The company emphasizes personalized service from concept through installation, h
 - Retail
 - Restaurants
 - Hospitality
+- Office
 - Public spaces
-- Offices
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -166,13 +159,12 @@ The company emphasizes personalized service from concept through installation, h
 
 <details><summary>Sources</summary>
 
-- Founded in 1988 in Eureka, South Dakota -> db
-- Family-owned business -> page '/'
-- Designs, builds, and installs custom cabinetry and furniture -> page '/'
-- Services: residential cabinetry, commercial furniture & cabinetry, decking, wood restoration, floor installation, finish carpentry -> page '/services'
-- Industries served: residential, commercial, retail, restaurants, hospitality, public spaces, offices -> page '/services'
-- Materials: American wood species, finishes, hardware -> page '/'
-- Differentiators: personalized service, craftsmanship, reliable timelines, made in USA -> page '/'
+- Founded 1988 in Eureka, South Dakota -> db, /
+- Family-owned business -> /
+- Services: custom cabinetry, furniture, decking, wood restoration, floor installation, finish carpentry -> /services
+- Industries served: residential, commercial, retail, restaurants, hospitality -> /services
+- Materials: American wood species, finishes, hardware -> /
+- Differentiators: personalized service from concept to installation, American-made, reliable timelines -> /
 </details>
 
 ---
@@ -182,32 +174,27 @@ The company emphasizes personalized service from concept through installation, h
 **Old description:** Denny and cabinetmakers Ted Kern and Larry Teager have been working together since 1990 to provide a level of craftsmanship and attention to detail not found in mass produced cabinetry.
 
 ## About
-Dakota Woodworks was established in 1990 in North Sioux City, South Dakota, by Denny Fanning. Cabinetmakers Ted Kern and Larry Teager have collaborated with Fanning since the company's inception, building a shop focused on custom woodworking for the Sioux City metropolitan area and the surrounding tri-state region of Iowa, South Dakota, and Nebraska.
+Dakota Woodworks was founded in 1990 by Denny Fanning in North Sioux City, South Dakota. From the start, Fanning collaborated with cabinetmakers Ted Kern and Larry Teager, and the three have worked together continuously since the company’s inception.
 
-The company designs, constructs, and installs custom cabinetry, offering design and drafting services alongside fabrication. Projects range from bathroom vanities and fireplace display shelves to home offices and entertainment centers, all produced in their North Sioux City facility. The shop handles both the woodworking and on-site installation for residential clients.
+The shop designs, builds, and installs custom cabinetry for residential projects across the Sioux City metro area, covering Iowa, South Dakota, and Nebraska. In addition to fabrication, the company offers design and drafting services to help clients visualize their projects. Its portfolio includes bathroom vanities, fireplace and display shelves, home office built-ins, and entertainment centers with bookcases.
 
-Dakota Woodworks serves homeowners and residential contractors across the Sioux City metro area, with a portfolio that includes bathroom vanities, built-in fireplace surrounds, home office cabinetry, and entertainment centers. The business operates as a local supplier, delivering finished pieces directly to clients in Iowa, South Dakota, and Nebraska.
+Dakota Woodworks serves homeowners and contractors in the tri-state region who want made-to-order woodwork rather than mass-produced alternatives. The company’s geographic focus is the Sioux City metro area, including parts of Iowa, South Dakota, and Nebraska.
 
-The founders emphasize a level of craftsmanship and attention to detail that distinguishes their work from mass-produced cabinetry, positioning the shop as a source for tailored woodwork rather than volume production.
+The founders emphasize a level of craftsmanship and attention to detail that they say distinguishes their work from factory-made cabinetry. That commitment to custom, hands-on construction remains the core of the business.
 
 ## Known for
-- Custom cabinetry designed, built, and installed in-house
-- Design and drafting services available
-- Serves Iowa, South Dakota, and Nebraska tri-state area
-- Craftsmanship focused on detail over mass production
-- Founded in 1990 with original cabinetmakers still active
+- Craftsmanship and attention to detail not found in mass-produced cabinetry
+- Design and drafting services offered
+- Local operation serving Iowa, South Dakota, and Nebraska
+- Custom cabinetry design, construction, and installation under one roof
+- Team of cabinetmakers working together since 1990
 
 ## Capabilities
-- Design and drafting
 - Custom cabinetry design
-- Cabinet construction
-- Cabinet installation
-- Woodworking
-- Residential custom cabinetry
-
-## Industries
-- Residential custom cabinetry
-- Home improvement
+- Custom cabinetry construction
+- Custom cabinetry installation
+- Design and drafting services
+- Custom woodworking
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -216,14 +203,15 @@ The founders emphasize a level of craftsmanship and attention to detail that dis
 
 <details><summary>Sources</summary>
 
-- Founded 1990 -> db
-- Headquarters North Sioux City, South Dakota -> db
-- Founder Denny Fanning -> page /
-- Cabinetmakers Ted Kern and Larry Teager working since 1990 -> page /
-- Design, construct, install custom cabinetry -> page /
-- Design and drafting services available -> page /
-- Serves Iowa, South Dakota, Nebraska -> page /
-- Examples: bathroom vanity, fireplace shelves, home office, entertainment centers -> page /
+- Founded in 1990 -> db
+- Founder Denny Fanning -> pages:/
+- Cabinetmakers Ted Kern and Larry Teager working together since 1990 -> pages:/
+- Location: North Sioux City, South Dakota -> db
+- Services: design, construct, install custom cabinetry -> pages:/
+- Design and drafting services available -> pages:/
+- Service area: Iowa, South Dakota, Nebraska -> pages:/
+- Products: bathroom vanities, fireplace shelves, home office, entertainment centers -> pages:/
+- Company type: custom woodworking and cabinetry -> pages:/
 </details>
 
 ---
@@ -233,67 +221,68 @@ The founders emphasize a level of craftsmanship and attention to detail that dis
 **Old description:** Founded in 1968 and proudly based in the USA, we’ve grown into a global leader by delivering innovative, customizable solutions backed by expert service and support.
 
 ## About
-Daktronics was founded in 1968 and is headquartered in Brookings, South Dakota. The company began as a U.S.-based manufacturer of electronic displays and has grown into a global provider of LED video displays and audiovisual systems.
+Founded in 1968 and headquartered in New York, New York, Daktronics began as a U.S.-based manufacturer of electronic display systems. The company established its primary production campus in Brookings, South Dakota, where Building 1 provides 14,000 square feet of manufacturing space.
 
-The company designs and manufactures a range of products including LED video displays, scoreboards, message centers, sound systems, control solutions, digital billboards, ITS dynamic message signs, and digital street furniture. Production takes place at its Brookings campus, which includes 14,000 square feet of manufacturing space, and the company has doubled its production capabilities to meet increased demand.
+Daktronics designs and manufactures LED video displays, audiovisual systems, scoreboards, message centers, sound systems, and control solutions for a range of environments. The company operates an in-house testing facility that evaluates image quality, brightness, and component durability beyond standard compliance. Production capacity has been doubled to meet increased demand, and the firm offers creative services, lab services, and out-of-home advertising support alongside its hardware manufacturing.
 
-Daktronics serves the sports, business and community, out-of-home advertising, and transportation sectors. Its installations can be found at venues such as the University of Illinois, Haughton High School, Plum Senior High School, Dairy Queen and Burger King locations, as well as transportation projects for the South Dakota Department of Transportation, El Paso International Airport, and the Texas Department of Transportation.
+The company serves sports venues, business and community spaces, out-of-home advertising networks, and transportation agencies. Notable installations include video displays at the University of Illinois, Haughton High School’s Prescott Field, Plum Senior High School, and digital billboards for advertisers such as Dairy Queen, Burger King, and Orange Barrel Media. Transportation clients include the South Dakota Department of Transportation, El Paso International Airport, and the Texas Department of Transportation.
 
-The company emphasizes its in-house testing facility, which evaluates image quality, brightness, and component durability beyond standard compliance. It also offers worldwide service with a standard response time under four hours, and its billboards feature front and rear service access as standard, enabling installation in hours rather than days.
+Daktronics emphasizes long-term reliability and service accessibility. Its billboards feature both front and rear service access to reduce on-site repair time, and the company claims installations can be completed in hours rather than days. A worldwide network of trained technicians provides support with a standard response time of less than four hours, and parts are supported for up to 12 years.
 
 ## Known for
-- In-house testing facility for quality assurance
-- Worldwide service with standard response time under four hours
-- Front and rear service access standard on billboards
-- Installation in hours, not days
-- Light directed toward audience to reduce power consumption and light pollution
+- In-house testing facility for image quality, brightness, and component durability
+- Worldwide service network with standard response time under four hours
+- Front and rear service access on all billboards
+- Installation completed in hours, not days
+- Parts support guaranteed for 12 years
 
 ## Capabilities
 - LED video display manufacturing
-- Audiovisual system design
+- Audiovisual system design and manufacturing
 - Scoreboard manufacturing
 - Message center manufacturing
 - Sound system manufacturing
-- Control system development
-- Digital billboard manufacturing
-- ITS dynamic message sign manufacturing
-- Digital street furniture manufacturing
-- Digit and price display manufacturing
-- Video wall assembly
+- Control system manufacturing
 - Software and controller development
-- Indoor LCD display manufacturing
-- Freeform LED element fabrication
 - In-house testing and quality assurance
+- Worldwide field service and support
 - Creative services
+- Lab services
+- Out-of-home advertising services
 - Installation services
-- Worldwide technical support
-- Training services
+- Parts support and logistics
 
 ## Industries
 - Sports
 - Business & Community
-- OOH Advertising
+- Out-of-Home Advertising
 - Transportation
+- Education
+- Retail
+- Government
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1968
-- **Headquarters:** Brookings, South Dakota
+- **Headquarters:** New York, New York
 
 <details><summary>Sources</summary>
 
 - Founded in 1968 -> db
-- Headquarters in Brookings, South Dakota -> db (products array)
-- 14,000 sq ft production space at Brookings campus -> db (products array)
-- Design and manufacture LED video displays and audiovisual systems -> /
-- Products include scoreboards, message centers, sound systems, control solutions, digital billboards, ITS dynamic message signs, digital street furniture -> /
+- Headquarters New York, New York -> db
+- Campus in Brookings with 14,000 sq ft production space -> /
+- Design and manufacture LED video displays, audiovisual systems, scoreboards, message centers, sound systems, control solutions -> /
+- In-house testing facility for image quality, brightness, component durability -> /
+- Doubled production capabilities -> /
 - Industries served: sports, business & community, OOH advertising, transportation -> /
-- Customer examples: University of Illinois, Haughton High School, Plum Senior High School, Dairy Queen, Burger King, South Dakota DOT, El Paso International Airport, Texas DOT -> /
-- In-house testing facility for quality assurance -> /
-- Worldwide service with standard response time under 4 hours -> /services
-- Front and rear service access standard on billboards -> /quality
-- Installation in hours, not days -> /quality
-- Light directed toward audience reducing power consumption and light pollution -> /quality
+- Customer examples: University of Illinois, Haughton High School, Plum Senior High School, Dairy Queen, Burger King, Orange Barrel Media, South Dakota DOT, El Paso International Airport, Texas DOT -> /
+- Worldwide service with trained technicians -> /
+- Standard response time less than 4 hours -> /services
+- Front and rear service access on billboards -> /quality
+- Installation in hours not days -> /quality
+- Brighter lights with lower power consumption and light pollution -> /quality
+- Parts support for 12 years -> /
+- Creative services, lab services, OOH services -> /
 </details>
 
 ---
@@ -303,32 +292,31 @@ The company emphasizes its in-house testing facility, which evaluates image qual
 **Old description:** With 35 years experience, Dallas Plastics provides quality converter-grade films crafted from premium materials, offering flexible solutions based on individual needs.
 
 ## About
-Dallas Plastics, headquartered in Longview, Texas, was founded in 1989. The company began as a flexible film manufacturer and has grown to operate five production plants across the United States and Canada. No founders are named in the source material, and ownership structure is not disclosed.
+Dallas Plastics was founded in 1989 in Longview, Texas. The company operates five manufacturing plants located in Mesquite, Texas; Montreal, Québec; New Century, Kansas; Orange, Massachusetts; and Longview, Texas.
 
-The company specializes in blown film extrusion, running 34 state‑of‑the‑art lines (also referenced as 27 lines) that produce converter‑grade films, multi‑layer coextrusion, custom resin blends, and specialty additives. Its capabilities include custom color and clarity, custom wind configurations, in‑line post embossing, lamination and printing treatments, and both virgin and recycled film production. The product range covers bags on rolls, box liners, drum liners, mailer film, polyethylene sheeting, shrink films, narrow tubing, and trash liners.
+The company specializes in blown film extrusion and multi-layer coextrusion, producing converter-grade films for flexible packaging. Its capabilities include custom color and clarity options, custom resin blends, custom wind configurations, in-line post embossing, lamination and printing treatments, and special property additives. Dallas Plastics runs 34 state-of-the-art blown film extrusion lines across its facilities, offering both virgin and recycled film options.
 
-Dallas Plastics serves the medical, food and beverage, industrial, and general packaging sectors. Its films are used by converters and end‑users who require materials that meet stringent industry standards for purity, durability, and regulatory compliance.
+Dallas Plastics serves the medical, food and beverage, industrial, and packaging industries. Its films are used for products such as bags on rolls, box liners, drum liners, mailer film, polyethylene sheeting, shrink films, narrow tubing, and trash liners. The company emphasizes industry-specific solutions tailored to stringent standards in each sector.
 
-The company emphasizes its 35‑plus years of experience, advanced extrusion technology, and a consultative approach that tailors film properties to each application. Its stated mission is to be a reliable partner that delivers consistent quality through prime materials and rigorous quality control.
+The company states its differentiation lies in a customer-centric approach, uncompromised quality using prime certified materials, and sustainable growth through innovation. Its mission is to be a reliable partner that understands unique customer needs and delivers products that exceed expectations.
 
 ## Known for
-- 34 state‑of‑the‑art blown film extrusion lines
-- 35+ years of flexible packaging experience
-- Custom resin blends and wind configurations tailored to each order
-- Industry‑specific solutions for medical, food, and industrial markets
-- Virgin and recycled film options for sustainability
+- 34 state-of-the-art blown film extrusion lines
+- 35+ years of industry experience
+- Customizable film solutions (color, clarity, resin blends, wind configurations)
+- Industry-specific solutions for medical, food & beverage, and industrial markets
 
 ## Capabilities
-- Blown Film Operations
-- Custom Color and Clarity Options
-- Custom Resin Blends
-- Custom Wind Configurations
-- Customized Packaging
-- Film and Multi-Layer Coextrusion
-- In-Line Post Embossing
-- Lamination and Printing Treatments
-- Special Property Additives
-- Virgin and Recycled Film
+- Blown film extrusion
+- Multi-layer coextrusion
+- Custom color and clarity options
+- Custom resin blends
+- Custom wind configurations
+- Customized packaging
+- In-line post embossing
+- Lamination and printing treatments
+- Special property additives
+- Virgin and recycled film production
 
 ## Industries
 - Medical
@@ -337,7 +325,7 @@ The company emphasizes its 35‑plus years of experience, advanced extrusion tec
 - Packaging
 
 ## Equipment
-- 34 blown film extrusion lines
+- 34 state-of-the-art blown film extrusion lines
 - 27 blown film extrusion lines
 
 ## Company details
@@ -347,17 +335,16 @@ The company emphasizes its 35‑plus years of experience, advanced extrusion tec
 
 <details><summary>Sources</summary>
 
-- Founded 1989 -> db, /about-us
-- Headquarters Longview, Texas -> db
-- Five manufacturing plants (Mesquite TX, Montreal QC, New Century KS, Orange MA, Longview TX) -> /about-us
+- Founded in 1989 -> db
+- Headquarters in Longview, Texas -> db
+- Five manufacturing plants in Mesquite TX, Montreal QC, New Century KS, Orange MA, Longview TX -> /about-us
 - 34 state-of-the-art blown film extrusion lines -> /capabilities
 - 27 blown film extrusion lines -> /capabilities
+- Capabilities: blown film extrusion, multi-layer coextrusion, custom color/clarity, custom resin blends, custom wind configurations, customized packaging, in-line post embossing, lamination and printing treatments, special property additives, virgin and recycled film -> /capabilities
 - Industries served: Medical, Food and Beverage, Industrial, Packaging -> /, /about-us
-- Capabilities list (blown film, custom color, custom resin blends, custom wind, customized packaging, multi-layer coextrusion, in-line post embossing, lamination/printing, special additives, virgin/recycled film) -> /capabilities
-- Products: Bags On Rolls, Box Liners & Covers, Drum Liners, Mailer Film, Polyethylene Sheeting, Shrink Films, Narrow Tubing, Trash Liners -> /
-- Mission and values (customer-centric, uncompromised quality, sustainable growth) -> /about-us
-- Custom resin blends, custom wind configurations, virgin and recycled film -> /capabilities
-- Polyethylene sheeting mentioned as product -> /
+- Products: bags on rolls, box liners, drum liners, mailer film, polyethylene sheeting, shrink films, narrow tubing, trash liners -> /
+- Company values: customer-centric approach, uncompromised quality, sustainable growth -> /about-us
+- Mission: to be a reliable partner delivering high-quality products using prime certified materials -> /about-us
 </details>
 
 ---
@@ -367,25 +354,30 @@ The company emphasizes its 35‑plus years of experience, advanced extrusion tec
 **Old description:** Adam and Alex Mistler, pride themselves on quality customer care and superior products. Since 1982, when Jeff Mistler started Dam Steel, the family have been bringing you quality products, at unbeatable rates.
 
 ## About
-Dam Steel & Supply operates from Osage Beach, Missouri, on the Lake of the Ozarks. The business was founded in 1982 by Jeff Mistler and remains family-owned, with his sons Adam and Alex Mistler now daily operations and emphasizing personal customer service.
+Dam Steel & Supply operates from Osage Beach, Missouri, on the Lake of the Ozarks. The company was founded in 1982 by Jeff Mistler and remains family-owned, now led by his sons Adam and Alex Mistler. They began as a local steel welding and supply outfit serving the surrounding region.
 
-The shop offers a range of steel services including welding, custom fabrication, installation, and material supply. The company advertises more than 30 years of experience meeting the steel welding and fabrication needs of the Lake of the Ozarks area, though it does not disclose facility square footage, employee count, or annual production volumes.
+The shop provides welding, fabrication, installation, and steel supply services. It handles custom steel projects from structural components to ornamental work, and also stocks steel products for immediate sale. The facility serves both commercial and residential clients, though specific capacity figures such as floor space or annual tonnage are not disclosed.
 
-Dam Steel primarily serves the Lake of the Ozarks region, providing steel solutions for construction, marine, and general fabrication needs. The company also references a sister operation, CWD Supply, which focuses on dock and marine accessories, indicating a connection to the area's waterfront infrastructure market.
+Dam Steel primarily serves the Lake of the Ozarks area, with a project portfolio that includes commercial builds such as the Central Bank branch and marine-related work through its sister company CWD Supply, which focuses on dock systems. Customers range from general contractors and property developers to individual property owners needing dock or structural steel.
 
-According to the Mistlers, the company differentiates itself through quality customer care, superior products, and competitive pricing, a value proposition they have maintained since the founding.
+The Mistler family emphasizes personal customer care and competitive pricing as their founding principles, aiming to deliver quality steelwork at unbeatable rates without sacrificing service.
 
 ## Known for
-- Family-owned and operated since 1982
+- Family-owned since 1982
 - Quality customer care and superior products
 - Unbeatable rates on steel products and services
 - Over 30 years serving the Lake of the Ozarks region
 
 ## Capabilities
 - Welding
-- Fabrication
-- Installation
+- Steel fabrication
+- Steel installation
 - Steel supply
+- Free estimates
+
+## Industries
+- Commercial construction
+- Marine/Dock
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -395,95 +387,59 @@ According to the Mistlers, the company differentiates itself through quality cus
 
 <details><summary>Sources</summary>
 
-- Founded in 1982 by Jeff Mistler -> pages./
-- Family-owned, now run by Adam and Alex Mistler -> pages./
-- Located in Osage Beach, Missouri -> db, pages./
-- Services: welding, fabrication, installation, steel supply -> pages./
-- Over 30 years serving Lake of the Ozarks area -> pages./
-- Quality customer care, superior products, unbeatable rates -> pages./
-- Sister company CWD Supply for dock supplies -> pages./
+- Founded 1982 by Jeff Mistler -> /
+- Family-owned, run by Adam and Alex Mistler -> /
+- Location: Osage Beach, Missouri -> /
+- Services: welding, fabrication, installation, steel supply -> /
+- Project example: Central Bank Project Gallery -> /
+- Sister company CWD Supply for dock supply -> /
+- Emphasis on quality customer care and unbeatable rates -> /
 </details>
 
 ---
 
 # Damian Velasquez | Modern Metal Fabrication
 
-**Old description:** Damian Velasquez produced multiple award winning Furniture lines during his career. From silversmithing jewelry with his father to exhibiting his modern, Italian inspired steel and wood furniture at national trade shows, Damian achieved a respectable career as a designer, craftsman, and artist.
-
-## About
-Damian Velasquez operates under the name Modern Metal Fabrication from Albuquerque, New Mexico. The business began with Velasquez learning silversmithing alongside his father before he launched his own line of modern, Italian-inspired steel and wood furniture. He exhibited those pieces at national trade shows and earned multiple design awards. The company is organized as Damian Velasquez LLC.
-
-The studio specialized in handcrafted furniture that blended metal fabrication with fine woodworking. Velasquez designed and built each piece himself, producing limited runs of tables, chairs, and case goods that combined structural steel frames with curated hardwoods. The operation has since been retired; the website now serves as an archive of his past portfolio.
-
-Velasquez’s work appealed to collectors, interior designers, and specifiers seeking one-of-a-kind furnishings for residential and commercial projects. His pieces were shown at national design expositions, though specific client industries are not publicly listed.
-
-Velasquez has described his practice as rooted in a craftsman’s attention to detail and an artist’s eye for proportion, aiming to create timeless objects that bridge industrial materials and traditional joinery.
-
-## Known for
-- Award-winning furniture designs
-- Italian-inspired steel and wood construction
-- Silversmithing heritage informing metalwork
-- National trade show exhibition history
-
-## Capabilities
-- Furniture design and fabrication
-- Steel fabrication
-- Woodworking
-- Silversmithing
-
-## Company details
-- **Company Type:** Manufacturer
-- **Ownership:** Damian Velasquez LLC
-- **Headquarters:** Albuquerque, New Mexico
-
-<details><summary>Sources</summary>
-
-- Headquarters: Albuquerque, New Mexico -> db
-- Founder: Damian Velasquez -> db/description
-- Background: silversmithing, award-winning furniture, Italian-inspired steel and wood -> description
-- Retired status: site commemorates retired portfolio -> /
-- Company entity: Damian Velasquez LLC -> /
-</details>
-
----
+_skipped: not enough facts_
 
 # Dana Lafayette Indiana, USA Fairfield Custom Gears and Drives Plant
 
 **Old description:** To take advantage of all the features of this site you need to
 
 ## About
-Fairfield Manufacturing operates its primary North American production hub in Lafayette, Indiana. The company traces its origins to 1919, establishing a century-long focus on custom gears and drive systems.
+Fairfield Manufacturing operates from Lafayette, Indiana, where it was founded in 1919. The company runs a 60,000-square-meter facility housing more than 600 machine tools and 60 furnaces, with a dedicated 7,000-square-meter heat-treatment area. A satellite plant in Belgaum, India, extends its reach to global customers.
 
-The Lafayette campus spans 60,000 square meters and houses more than 600 machine tools and 60 furnaces, with 7,000 square meters dedicated to heat treatment. In-house capabilities cover the full product lifecycle: engineering and design (including reverse engineering and clean-sheet development), gear cutting (external, internal, high-speed, planetary, hypoid, and Zerol configurations), shaft machining, heat treating (carburizing, annealing, nitriding, induction), precision machining (drilling, milling, tapping, sawing), metallurgical testing, failure analysis, product performance validation in lab and field, and large-scale assembly and inspection. Gear quality is certified to AGMA Class 14.
+The plant produces custom gears and complete drive systems, handling every step from engineering and design through machining, heat treatment, assembly, and inspection. Capabilities include gear cutting for external, internal, high-speed, planetary, hypoid, and Zerol gears, as well as shafts; heat-treating processes such as carburizing, annealing, nitriding, and induction hardening; and precision machining including drilling, milling, tapping, and sawing. Advanced CNC inspection equipment certifies gears to AGMA Class 14, while metallurgical testing, failure analysis, and field performance validation round out the quality program.
 
-Global original equipment manufacturers in marine, mining, oil and gas, railway, environment, energy, recycling, and construction equipment (including compact track loaders) rely on Fairfield for integrated gear production. The plant produces Spicer Torque-Hub track drives and other large components such as bull gears, pinions, and starter gears for on- and offshore applications.
+Primary customers are global original equipment manufacturers in marine, mining, oil and gas, railway, construction (including compact track loaders), and energy and recycling sectors. The company supplies components such as Spicer Torque-Hub track drives and large carrier assemblies forged to unique material specifications.
 
-Fairfield differentiates itself through fully integrated, in-house control of design, manufacturing, testing, and certification, backed by approvals from the American Bureau of Shipping, Lloyd’s Register, the Association of American Railroads, DNV, and the Performance Review Institute. Its engineering team specializes in resolving gear noise, heat, vibration, and early-failure issues, offering both build-to-print and complete solution services.
+Fairfield emphasizes its in-house integration of design, manufacturing, testing, and certification as a differentiator, citing gear quality to AGMA Class 14, a global parts and service network, and recent investments in automated assembly driven by a manufacturing execution system that nearly tripled output of certain track drives within the existing footprint.
 
 ## Known for
-- Fully integrated in-house design, manufacturing, testing, and assembly
+- In-house engineering, manufacturing, testing, certification, and supply
 - Gear quality certified to AGMA Class 14
-- Over 60 furnaces and 600 machine tools on 60,000 sq m
-- Certifications from ABS, Lloyd’s Register, AAR, DNV, and PRI
+- 60,000 sq m facility with 600+ machine tools and 60+ furnaces
+- Global parts and service network with industry-leading delivery
+- Automated assembly with manufacturing execution system
 
 ## Capabilities
-- Engineering and design services
+- Custom gear design
 - Reverse engineering
 - Make-to-print manufacturing
-- Complete design, manufacturing, and testing services
 - Gear cutting (external, internal, high-speed, planetary, hypoid, Zerol)
 - Shaft manufacturing
-- Heat treating (carburizing, annealing, nitriding, induction)
+- Heat treatment (carburizing, annealing, nitriding, induction)
 - Precision machining (drilling, milling, tapping, sawing)
+- CNC inspection
+- Gear quality certification (AGMA Class 14)
 - Metallurgical testing
-- Advanced metallurgy processes
-- Failure analysis of gears and assemblies
+- Failure analysis
 - Product performance testing (lab and field)
 - Large-scale assembly
-- Inspection and quality certification (AGMA Class 14)
-- Non-destructive testing
-- Automated assembly with manufacturing execution system
-- Lean manufacturing
+- Inspection
+- Engineering and design services
+- Sales and applications training
+- Global parts and service network
 
 ## Industries
 - Marine
@@ -491,26 +447,28 @@ Fairfield differentiates itself through fully integrated, in-house control of de
 - Oil and gas
 - Railway
 - Environment
-- Energy
-- Recycling
-- Construction equipment
-- Offshore
-- Industrial
-- Mobile equipment
+- Energy and recycling
+- Construction
+- Industrial applications
+- Mobile applications
 
 ## Equipment
-- 60 furnaces
-- 600 machine tools
-- Multi-tasking machining centers with meter-plus size capabilities
+- Over 60 furnaces
+- Over 600 machine tools
+- Axis multi-tasking machining centers with meter-plus size capabilities
 - CNC inspection technology
-- Automated assembly lines with manufacturing execution system
+- Automated assembly processes with manufacturing execution system
 
 ## Certifications
 - ISO 9001:2015
+- IATF 1649:2016
+- American Bureau of Shipping
 - Lloyds Register
-- Performance Review Institute Transportation and Power Generation Program
+- Association of American Railroads
+- Performance Review Institute’s Transportation and Power Generation Program
 - DNV
-- AGMA Class 14 gear quality certification
+- AGMA Class 14
+- Quality assurance and type approvals for marine jacking systems
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -521,16 +479,18 @@ Fairfield differentiates itself through fully integrated, in-house control of de
 
 - Founded in 1919 -> /about-us
 - Headquarters in Lafayette, Indiana -> /about-us
-- 60,000 sq meters facility, 600 machine tools, 60 furnaces -> /capabilities
-- 7,000 sq meters heat treatment -> /capabilities
-- ISO 9001:2015 and IATF 16949:2016 certifications -> /about-us
-- ABS, Lloyds Register, AAR, DNV certifications -> /about-us
-- AGMA Class 14 gear quality certification -> /capabilities
-- Industries served: marine, mining, oil and gas, railway, environment, energy, recycling, construction equipment -> /services
-- Spicer Torque-Hub track drives production -> /about-us
-- Design services for gear noise, heat, vibration, early failure -> /capabilities
-- Failure analysis and product performance testing -> /capabilities
-- Automated assembly with manufacturing execution system -> /about-us
+- Facility size 60,000 sq m, 600 machine tools, 60 furnaces, 7,000 sq m heat treatment -> /about-us
+- Satellite facility in Belgaum, India -> /about-us
+- Certifications: ABS, Lloyds Register, AAR, PRI, DNV, ISO 9001:2015, IATF 1649:2016, AGMA Class 14 -> /about-us
+- Industries: marine, mining, oil and gas, railway, environment, energy and recycling, construction -> /services
+- Capabilities: gear cutting, heat treatment, machining, assembly, inspection, testing -> /capabilities
+- Engineering services: reverse engineering, make-to-print, design for noise/vibration/failure -> /capabilities
+- Heat treatment processes: carburizing, annealing, nitriding, induction -> /capabilities
+- Machining: drilling, milling, tapping, sawing -> /capabilities
+- Quality: CNC inspection, AGMA Class 14, metallurgical testing, failure analysis, field testing -> /capabilities
+- Automated assembly with MES, nearly tripled Spicer Torque-Hub production -> /about-us
+- Global parts and service network, industry leading delivery, scheduling flexibility -> /services
+- Company type: manufacturer of custom gears and drives -> /about-us
 </details>
 
 ---
@@ -540,59 +500,60 @@ Fairfield differentiates itself through fully integrated, in-house control of de
 **Old description:** Danbury Winair Co. delivers exceptional sheet metal work across the United States. With over three decades of industry experience, we've honed our craft to perfection, offering a comprehensive range of services including custom fabrication, 3D CAD modeling, and specialized MEP drawing services. Our team of skilled professionals is dedicated to bringing your vision to life, whether you're working on a small-scale project or a large industrial endeavor.
 
 ## About
-Danbury Winair Co. was established in 2009 in Brookfield, Connecticut. The locally owned company operates a fabrication shop and draws on more than 30 years of industry experience among its team members.
+Danbury Winair was established in 2009 in Brookfield, Connecticut, as a locally owned sheet metal fabrication shop. The team brings more than 30 years of combined industry experience to custom ductwork and design support, with the owner directly involved in every project.
 
-The shop produces custom sheet metal ductwork and fittings, including spiral, flat oval, lined, rectangular, and round configurations, as well as HETO taps. In addition to fabrication, the team provides 3D CAD design and scanning, BIM modeling, and MEP drawing services to support project coordination from design through installation.
+The company's Brookfield shop produces spiral, flat oval, lined, rectangular, and round ductwork, along with HETO taps and custom fittings. In-house capabilities include 3D CAD modeling and scanning, BIM modeling, and MEP drawing services for mechanical, electrical, and plumbing coordination. Finished products can be shipped nationwide, and the shop operates Monday through Friday, 7 a.m. to 4 p.m.
 
-Danbury Winair serves customers across the United States with delivery options available nationwide. Its work supports mechanical, electrical, and plumbing contractors and other project teams requiring coordinated ductwork solutions, though the company does not publicly list specific industry verticals.
+Danbury Winair works with contractors and project teams across the United States on custom ductwork fabrication and coordinated MEP drawing packages. The company's bilingual staff communicates in English and Spanish to support project planning, fabrication standards, and delivery logistics.
 
-The company emphasizes direct owner involvement on every project, same-day free estimates, and bilingual communication in English and Spanish. These practices reflect a focus on personal service and practical project support.
+The business emphasizes direct owner involvement, same-day free estimates, and personalized service as its primary differentiators. By integrating fabrication with 3D design and MEP coordination, the team aims to reduce rework and keep projects on schedule from the first drawing to the final fitting.
 
 ## Known for
-- Direct owner involvement on every project
 - Same-day free estimates
-- Nationwide delivery options
-- 30+ years of industry experience
-- Bilingual service in English and Spanish
+- Direct owner involvement on every project
+- Nationwide delivery and shipping options
+- Bilingual support in English and Spanish
+- Integrated 3D CAD, BIM, and MEP coordination with fabrication
 
 ## Capabilities
-- Sheet metal fabrication
 - Spiral ductwork fabrication
 - Flat oval ductwork fabrication
-- Lined ductwork fabrication
+- Lined duct fabrication
+- HETO taps fabrication
 - Rectangular ductwork fabrication
 - Round ductwork fabrication
-- HETO taps fabrication
 - Custom fittings fabrication
-- 3D CAD design
+- 3D CAD modeling
 - 3D scanning
 - BIM modeling
 - MEP drawing services
-- Delivery services
+- Design support
+- Project coordination
+- Nationwide delivery
+- Same-day estimates
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 2009
 - **Ownership:** Locally owned
-- **Headquarters:** Brookfield, Connecticut
+- **Headquarters:** Brookfield, CT
 
 <details><summary>Sources</summary>
 
 - Founded 2009 -> /about
-- Located in Brookfield, CT -> /about
-- Locally owned -> /about
+- Locally owned, based in Brookfield, CT -> /about
 - 30+ years industry experience -> /about
-- Shop at 558 Federal Road, Brookfield, CT 06804 -> /about
-- Custom sheet metal fabrication (spiral, flat oval, lined, rectangular, round, HETO taps, custom fittings) -> /, /about
-- 3D CAD design and scanning -> /, /about
-- BIM modeling -> /about
-- MEP drawing services -> /, /about
-- Nationwide delivery -> /, /about
-- Direct owner involvement -> /
+- Sheet metal fabrication: spiral, flat oval, lined duct, HETO taps, rectangular, round -> /
+- 3D CAD modeling and scanning -> /
+- MEP drawing services -> /
+- Nationwide delivery options -> /
 - Same-day free estimates -> /
-- Bilingual English and Spanish -> /about
-- Shop hours Monday-Friday 7am-4pm -> /about
-- Email sheetmetal@mywinair.com -> /about
+- Owner involvement in every project -> /
+- Bilingual: English and Spanish -> /about
+- Shop hours Mon-Fri 7am-4pm -> /about
+- Address: 558 Federal Road, Brookfield, CT 06804 -> /about
+- BIM modeling -> /about
+- Fabrication standards and HETO data sheet -> /about
 </details>
 
 ---

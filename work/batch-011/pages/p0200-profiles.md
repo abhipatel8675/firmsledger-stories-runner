@@ -3,27 +3,26 @@
 **Old description:** At Live Edge Slabs of Las Vegas, we specialize in creating exquisite custom live edge tables that celebrate the unique beauty of natural wood. Each piece is meticulously handcrafted in our Las Vegas work shop. Our exotic wood slabs are imported and feature beautiful live edges and dramatic grain.
 
 ## About
-Live Edge Slabs of Las Vegas operates from a workshop and showroom in Las Vegas, Nevada, under the legal entity Live Edge Slabs, LLC. The company focuses on custom live edge tables, though its founding year and ownership structure are not publicly disclosed.
+Live Edge Slabs of Las Vegas operates from a workshop and showroom in Las Vegas, Nevada. The business, registered as Live Edge Slabs, LLC, focuses on custom live edge tables. No founding year or ownership details are disclosed publicly.
 
-The shop produces made-to-order live edge tables using imported exotic wood slabs selected for distinctive grain and natural edges. Each piece is handcrafted on-site, and the facility includes a showroom where clients can view works in progress and choose slabs with guidance from staff members such as Bill and Gloria.
+The company produces custom live edge tables using imported exotic wood slabs that retain their natural edges and grain patterns. Each table is handcrafted on-site in the Las Vegas facility, with a hand-rubbed finish applied. The workshop also serves as a showroom where customers can view slabs in person and select material for their projects.
 
-The business serves residential customers seeking one-of-a-kind dining tables, conference tables, benches, and other furniture. Testimonials describe walk-in visits without appointments, personalized tours, and ongoing support after delivery, indicating a direct-to-consumer model rather than wholesale or contract manufacturing.
+The primary customers are residential buyers seeking one-of-a-kind dining tables, conference tables, and benches. Testimonials reference homeowners and individual clients who visit the showroom to choose slabs with assistance from staff members such as Bill and Gloria.
 
-The company emphasizes a hand-rubbed finish and a high-touch buying experience. Founders or leadership are not named, but the operation highlights personal attention, flexibility, and a showroom environment that lets buyers engage directly with the material.
+The company states that it was created to celebrate the unique beauty of natural wood through meticulous handcrafting. Customer feedback emphasizes personalized service, flexibility, and the ability to see works in progress during the selection process.
 
 ## Known for
 - Handcrafted in Las Vegas workshop
 - Imported exotic wood slabs with natural live edges
-- Showroom with works in progress for slab selection
-- Personal tours and design consultation
+- Showroom for in-person slab selection
 - Hand-rubbed finishing
+- Personalized customer guidance
 
 ## Capabilities
-- Custom live edge table fabrication
-- Handcrafted woodworking
+- Custom live edge table manufacturing
 - Hand-rubbed finishing
-- Wood slab selection and consultation
-- Showroom tours and client walkthroughs
+- Wood slab selection and sourcing
+- Custom furniture design
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -31,15 +30,15 @@ The company emphasizes a hand-rubbed finish and a high-touch buying experience. 
 
 <details><summary>Sources</summary>
 
-- Location: Las Vegas, Nevada -> db
-- Company name: Live Edge Slabs, LLC -> /
-- Product: custom live edge tables -> /
-- Process: handcrafted in workshop -> /
-- Materials: imported exotic wood slabs -> /
-- Showroom with works in progress -> /
-- Staff: Bill and Gloria mentioned -> /
-- Hand-rubbed finishing mentioned -> /
-- Customer testimonials describe direct sales and personal service -> /
+- Located in Las Vegas, Nevada -> db
+- Business entity Live Edge Slabs, LLC -> db and page /
+- Specializes in custom live edge tables -> page /
+- Handcrafted in Las Vegas workshop -> page /
+- Imports exotic wood slabs with live edges and dramatic grain -> page /
+- Hand-rubbed finishing -> page /
+- Showroom for customer visits and slab selection -> page /
+- Staff members Bill and Gloria assist customers -> page /
+- Company states purpose to celebrate unique beauty of natural wood -> page /
 </details>
 
 ---
@@ -49,20 +48,20 @@ The company emphasizes a hand-rubbed finish and a high-touch buying experience. 
 **Old description:** Since 1945, we’ve been working with OEMs and tiered suppliers to drive part design innovation that moves businesses forward. In fact, LMC engineering is behind many modern conveniences such as the press-down valve on whipped topping cans!
 
 ## About
-LMC Industries operates from Arnold, Missouri, where it was founded in 1945 by toolmaker Fred Suellentrop Sr. The company remains family-owned and traces its start to Suellentrop's goal of building high-quality equipment that improves the manufacturability of essential products.
+LMC Industries was founded in 1945 in Arnold, Missouri, by toolmaker Fred Suellentrop, Sr., who set out to build high-quality equipment that would improve the manufacturability of essential products. The company remains family-owned today, operating from a 240,000-square-foot facility in the St. Louis metro area.
 
-The company provides precision metal stamping — including progressive die stamping, in-die tapping, and in-die assembly — alongside plastic injection molding, insert molding, and overmolding. It also runs a 14,000-square-foot tool room equipped with CNC milling, wire and conventional EDM, water jet machining, and TIG welding for in-house die and mold fabrication, repair, and maintenance. Assembly and finishing services include welding, riveting, chemical passivation, and logistics support. All operations share a 240,000-square-foot facility housing more than 80 stamping and injection molding presses.
+The company operates as a contract manufacturer specializing in precision metal stamping — including progressive die stamping, in-die tapping, and in-die assembly — and plastic injection molding, insert molding, and overmolding. It also maintains a 14,000-square-foot tool room equipped with CNC milling, wire and conventional EDM, water jet machining, and TIG welding for in-house die and mold fabrication, repair, and maintenance. Additional in-house capabilities include welding, riveting, chemical passivation, and assembly, supported by partner networks for heat treating and metal finishing.
 
-LMC serves OEMs and tiered suppliers in automotive, agricultural, consumer products, medical device, and hand-tool markets. Automotive customers include every major global automaker; agricultural programs cover harvesting equipment and livestock feeding systems; consumer products range from screwdriver and toothbrush handles to medical device grips and automotive interior touchpoints.
+LMC serves OEMs and tiered suppliers across automotive, agricultural, consumer products, medical device, and hand-tool markets. Its components appear in every major automotive program worldwide, in harvesting equipment and livestock feeding systems, in medical device grips, and in everyday items such as screwdriver handles, toothbrush handles, and the press-down valve on whipped topping cans.
 
-The company emphasizes a single-source model for metal and plastic components, which it says simplifies purchasing, compresses lead times, and creates a single point of quality accountability. Its differentiators include Design for Manufacturability applied to every program, a transfer-tooling process for taking over existing programs, PPAP and APQP quality systems with first-article inspection, and a dedicated team focused on proactive communication.
+The company differentiates itself by housing both metal and plastic production under one roof, enabling single-source accountability, compressed lead times, and integrated design-for-manufacturability (DFM) reviews across materials. Its quality system follows APQP and PPAP protocols with first-article inspections, and its transfer-tooling process allows it to take over existing programs with minimal disruption.
 
 ## Known for
-- Single-source production of both metal stampings and plastic molded parts in one facility
-- In-house 14,000 sq ft tool room with CNC milling, wire EDM, conventional EDM, water jet machining, and TIG welding
-- Design for Manufacturability (DFM) applied to every program across metal and plastic processes
-- Transfer tooling process to onboard existing programs from other suppliers with minimal disruption
-- PPAP and APQP quality systems with first-article inspections and ongoing tooling maintenance
+- Single-source metal stamping and plastic molding under one roof
+- In-house tool room with CNC, EDM, water jet, and TIG welding for die and mold maintenance
+- Design for Manufacturability (DFM) applied to every program across metal and plastic
+- APQP/PPAP quality processes with first-article inspections
+- Family-owned since 1945 with over 75 years of metal forming expertise
 
 ## Capabilities
 - Precision metal stamping
@@ -78,17 +77,23 @@ The company emphasizes a single-source model for metal and plastic components, w
 - Welding
 - Riveting
 - Chemical passivation
+- Heat treating (via partners)
+- Metal finishing (via partners)
 - Logistics and kitting
-- Design for Manufacturability (DFM)
-- Advanced Product Quality Planning (APQP)
-- Production Part Approval Process (PPAP)
-- First article inspection
+- EDI technology
+- Supply replenishment programs
+- Advanced shipping notice (ASN)
+- Design for Manufacturability (DFM) support
+- Production Part Approval Process (PPAP) support
+- Advanced Product Quality Planning (APQP) review
+- Tooling audit
+- Transfer tooling management
 
 ## Industries
 - Automotive
 - Agricultural
 - Consumer products
-- Medical devices
+- Medical device
 - Hand tools
 
 ## Equipment
@@ -97,12 +102,12 @@ The company emphasizes a single-source model for metal and plastic components, w
 - Conventional EDM
 - Water jet machining
 - TIG welding
-- Metal stamping presses
-- Plastic injection molding presses
+- Stamping presses (20)
+- Plastic injection molding presses (80+ total presses)
 
 ## Certifications
-- ISO 9001
-- IATF 16949
+- ISO9001
+- IATF16949
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -115,20 +120,18 @@ The company emphasizes a single-source model for metal and plastic components, w
 - Founded 1945 by Fred Suellentrop Sr. -> /about-us
 - Family-owned -> /about-us
 - Headquarters Arnold, Missouri -> db
-- 240,000+ sq ft facility -> /, /capabilities
-- 80+ stamping and injection molding presses -> /
-- 20 stamping presses in 86,000 sq ft -> /
-- 14,000 sq ft tool room with CNC milling, wire EDM, conventional EDM, water jet machining, TIG welding -> /, /capabilities
-- In-house die and mold fabrication, repair, maintenance -> /capabilities
-- Capabilities: precision metal stamping, progressive die stamping, in-die tapping, in-die assembly, plastic injection molding, insert molding, overmolding, tool & die, assembly & finishing, logistics -> /capabilities
-- Assembly services: welding, riveting, chemical passivation -> /
-- Quality: PPAP, APQP, first article inspections -> /, /quality
-- Industries: automotive (every major worldwide), agricultural (harvesting equipment, livestock feeding), consumer products (screwdriver handles, toothbrush handles, medical device grips, automotive interior touchpoints), hand tools -> /, db
-- Single-source metal and plastic under one roof -> /capabilities
-- DFM applied to every program -> /capabilities
-- Transfer tooling process -> /capabilities
+- 240,000+ sq ft manufacturing space -> /
+- 14,000 sq ft tool room -> /capabilities
+- 20 stamping presses, 80+ total presses -> /
+- Capabilities: precision metal stamping, progressive die stamping, in-die tapping, in-die assembly, plastic injection molding, insert molding, overmolding -> /capabilities
+- Tool room equipment: CNC milling, wire EDM, conventional EDM, water jet machining, TIG welding -> /capabilities
 - Certifications: ISO9001, IATF16949 -> db
-- Materials: metals, engineered plastics -> /capabilities
+- Industries: automotive, agricultural, consumer products, medical device, hand tools -> /, /about-us, /capabilities
+- Quality processes: APQP, PPAP, first article inspections -> /quality, /
+- Transfer tooling process -> /capabilities
+- DFM applied to every program -> /capabilities
+- Single-source metal and plastic under one roof -> /capabilities
+- Press-down valve on whipped topping cans example -> /
 </details>
 
 ---
@@ -138,32 +141,46 @@ The company emphasizes a single-source model for metal and plastic components, w
 **Old description:** I have been building fine quality furniture and wood products since 1982. I have had an unusual journey, having been a part of the Amish and related Mennonite groups for most of my life. Their legendary ascetical worldviews had a profound influence on my work and manner of construction.
 
 ## About
-Locust Grove Woodworks operates from Thorndike, Maine, where it was founded in 1982 by a craftsman who spent much of his life in Amish and Mennonite communities. The founder's background in those ascetical traditions shaped a philosophy of simplicity, durability, and sustainable production that still guides the shop today.
+Locust Grove Woodworks operates from Thorndike, Maine, where the founder has been building fine furniture and wood products since 1982. The owner’s background in Amish and Mennonite communities shaped a philosophy of simplicity, durability, and sustainable craftsmanship that still guides the shop today.
 
-The one-person workshop produces heirloom-grade solid-wood furniture piece by piece, using a mix of hand tools and power equipment driven partly by draft horses. Construction relies on traditional joinery such as sliding dovetails and floating tenons to accommodate wood movement, and finishes are hand-applied linseed oil and wax. The catalog spans beds, chairs, tables, desks, clocks, cradles, coffins, and custom casework.
+The shop produces handcrafted solid‑wood furniture one piece at a time, using a mix of hand tools, power tools, and draft‑horse‑driven lineshafts. Construction relies on traditional joinery such as sliding dovetails and floating tenons to accommodate wood movement, and finishes are limited to linseed oil and wax. The product range includes beds, chairs, clocks, coffins, cradles, desks, tables, casework, and custom pieces in Shaker, Colonial, and Mission styles.
 
-The shop serves residential customers seeking long-lasting, made-to-order pieces, as well as niche markets such as funeral homes for coffins and families for cradles. Each item is built to order, with no inventory of mass-produced stock.
+Customers are primarily residential buyers seeking heirloom‑quality furniture that can be passed down through generations. The maker also serves clients looking for custom casework and specialty items such as coffins and cradles, all built to order without plywood or particle board.
 
-The business was started to create furniture that could be passed down for generations, inspired by the Shaker maxim to build as if you were to live a thousand years but die tomorrow. The founder's commitment to low-impact, horse-powered manufacturing remains a defining characteristic.
+The business was started to create beautiful, enduring furniture in the most sustainable manner possible — originally using only literal horsepower and hand tools. The founder cites the Shaker principle of building as though to live a thousand years but die tomorrow as a guiding ethos, and continues to transition toward horse‑powered generators for electricity.
 
 ## Known for
-- Each piece built one at a time by a single craftsman
-- Workshop powered partly by draft horses and lineshafts
-- Solid-wood construction with traditional joinery (sliding dovetails, floating tenons)
-- Hand-applied linseed oil and wax finishes
-- Heirloom quality designed for generational use
+- Handcrafted solid‑wood construction with traditional joinery
+- Partially powered by draft horses and lineshafts
+- Shaker, Colonial, and Mission design influences
+- No plywood or particle board used
+- Linseed oil and wax finishes only
 
 ## Capabilities
 - Handcrafted solid wood furniture
-- Custom furniture design and build
+- Custom furniture
 - Casework
-- Traditional joinery (sliding dovetails, floating tenons)
-- Hand-applied linseed oil and wax finishing
-- Horse-powered machining operations
+- Hand tool joinery
+- Power tool machining
+- Draft horse-powered lineshafts
+- Sliding dovetail joinery
+- Floating tenon joinery
+- Linseed oil and wax finishing
 
 ## Industries
 - Residential furniture
 - Custom woodworking
+- Heirloom furniture
+- Shaker-style furniture
+- Colonial-style furniture
+- Mission-style furniture
+
+## Equipment
+- Hand tools
+- Power tools
+- Draft horses
+- Lineshafts
+- Horse treadmill (planned)
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -175,15 +192,20 @@ The business was started to create furniture that could be passed down for gener
 <details><summary>Sources</summary>
 
 - Founded 1982 -> db
-- Headquarters Thorndike, Maine -> db
-- Founder's Amish/Mennonite background -> /
-- Shaker design influence -> /
-- Horse-powered workshop -> /
-- Handcrafted solid wood furniture with traditional joinery -> /
-- Sole proprietor working alone -> /
-- Product categories: beds, chairs, clocks, coffins, cradles, desks, tables -> /
+- Location Thorndike, Maine -> db
+- Owner background Amish/Mennonite -> /
+- Shaker influence -> /
+- Handcrafted solid wood furniture -> /
+- Custom furniture and casework -> /
+- One piece at a time, mostly alone -> /
+- Draft horses and lineshafts for power -> /
+- Horse treadmill planned -> /
+- Sliding dovetails, floating tenons -> /
 - Linseed oil and wax finishes -> /
-- Address 256 Ward Hill Road, Thorndike, Maine 04986 -> /
+- No plywood or particle board -> /
+- Product categories: beds, chairs, clocks, coffins, cradles, desks, tables, casework -> /
+- Shaker, Colonial, Mission styles -> /
+- Sustainable philosophy -> /
 </details>
 
 ---
@@ -193,28 +215,35 @@ The business was started to create furniture that could be passed down for gener
 **Old description:** Founded in 1994 to exclusively sell factory seconds (cookware that doesn't quite meet our rigorous standards), our Factory Store has since expanded to include the full line of Lodge products. Find everything from our classic
 
 ## About
-The Lodge Factory Store opened in 1994 in South Pittsburg, Tennessee, as an outlet for factory-second cast iron pieces that fell short of the company's quality standards. The store sits beside Lodge's operating foundries on the edge of the Cumberland Plateau, about 30 minutes west of Chattanooga.
+The Lodge Factory Store opened in 1994 in South Pittsburg, Tennessee, as an outlet for factory seconds—cast iron pieces that fell short of the company's exacting standards. Situated next to Lodge's own foundries on the edge of the Cumberland Plateau, the store began as a way to offer discounted cookware directly to visitors and has since grown into a flagship retail location carrying the brand's full product line.
 
-Over time the location grew from a seconds shop into a full-line retailer carrying the entire Lodge catalog: classic skillets, Dutch ovens, griddles, grill pans, the Fluted Cake Pan and Wedge Pan, enameled cast iron Dutch ovens, professional-grade carbon steel cookware, stoneware baking dishes, and a wide range of accessories. The flagship store operates seven days a week and also offers custom-engraved skillets through its Custom Shop.
+The store stocks the complete range of Lodge cast iron, including classic skillets, Dutch ovens, griddles, and specialty items such as the Fluted Cake Pan and Wedge Pan. Shoppers also find enameled cast iron Dutch ovens, professional-grade carbon steel cookware, stoneware baking dishes, and a wide selection of accessories. The Blacklock collection of lightweight cast iron is featured prominently. Staff provide hands-on guidance on seasoning, cleaning, and recipe ideas, and the store offers custom skillet personalization. Online orders over $75 ship free.
 
-The store serves home cooks, campers, and outdoor enthusiasts who visit the showroom or shop online. Staff assist with product selection, demonstrate seasoning and cleaning techniques, and share recipe ideas suited to cast iron and carbon steel. The Blacklock collection of lightweight cast iron pieces is featured prominently for customers seeking reduced-weight options.
+The store serves home cooks, campers, and gift buyers seeking durable American-made cookware. Its customer base includes both walk-in traffic from the Chattanooga area and online shoppers nationwide. The adjacent foundry location allows the store to showcase the manufacturing heritage behind each piece.
 
-The company emphasizes its direct connection to the foundry as a differentiator, allowing shoppers to purchase factory seconds at a discount and to see new designs such as the annual Holiday Mini Skillet shortly after they are cast. The location also functions as a gateway to the adjacent Lodge Museum, reinforcing the brand's heritage narrative.
+The original purpose—to sell factory seconds—remains a draw, but the store now distinguishes itself through direct access to the full Lodge lineup, expert staff, and a setting that connects buyers to the source of the cookware.
 
 ## Known for
-- Sells factory seconds directly from the foundry
-- Offers full Lodge product line including enameled cast iron and carbon steel
-- Provides in-store guidance on seasoning, cleaning, and recipes
-- Located next to Lodge's casting facilities in South Pittsburg, TN
-- Offers custom-engraved skillets
+- Factory seconds sold at discounted prices
+- Full line of Lodge cast iron, enameled, carbon steel, and stoneware
+- Expert staff assistance with seasoning, care, and recipes
+- Located adjacent to Lodge's manufacturing foundries
+- Free standard shipping on orders over $75
 
 ## Capabilities
 - Retail sales of cast iron cookware
-- Sale of factory seconds
-- Product selection assistance
-- Seasoning and care instruction
-- Recipe recommendation
-- Custom skillet engraving
+- Factory seconds sales
+- Product selection and consultation
+- Seasoning and care guidance
+- Custom skillet personalization
+- Online order fulfillment
+- Free shipping on qualifying orders
+
+## Industries
+- Cookware retail
+- Kitchenware
+- Outdoor recreation
+- Giftware
 
 ## Company details
 - **Company Type:** Retailer
@@ -223,15 +252,17 @@ The company emphasizes its direct connection to the foundry as a differentiator,
 
 <details><summary>Sources</summary>
 
-- Founded in 1994 -> db
-- Headquarters South Pittsburg, Tennessee -> db
-- Factory store sells factory seconds and full product line -> /
-- Store located next to cast iron foundries -> /
-- Staff provide cleaning, seasoning, recipe advice -> /
-- Custom skillet engraving offered -> /
-- Blacklock lightweight collection featured -> /
-- Holiday Mini Skillet annual release -> /
-- Adjacent to Lodge Museum -> /
+- Founded in 1994 to sell factory seconds -> /
+- Located at 220 East 3rd St, South Pittsburg, TN 37380 -> /
+- Hours: 7 days a week, 8:00 AM - 6:00 PM CT -> /
+- Sells classic cast iron skillets, Dutch ovens, specialty items (Fluted Cake Pan, Wedge Pan), enameled cast iron, carbon steel, stoneware, accessories -> /
+- Staff provides guidance on seasoning, cleaning, recipes -> /
+- Offers custom skillet personalization -> /
+- Free shipping on orders over $75 -> /
+- Blacklock lightweight cast iron collection featured -> /
+- Located next to cast iron foundries, 30 minutes from Chattanooga -> /
+- Founded year 1994 from database -> db
+- Headquarters South Pittsburg, Tennessee from database -> db
 </details>
 
 ---
@@ -241,45 +272,52 @@ The company emphasizes its direct connection to the foundry as a differentiator,
 **Old description:** With four central Ohio electrical supply stores, we proudly serve the local contractor market. Nationally, we partner with the world’s most recognized brands to build, improve, and maintain their stores.
 
 ## About
-Loeb Electric is headquartered in Columbus, Ohio, with four retail stores in central Ohio (including Hilliard). Founded in 1912 in Columbus by Oscar Avery and Arthur Loeb Sr. as The Avery & Loeb Electric Company, the business paused briefly during the Great Depression before Arthur Loeb restarted it. Ownership has passed through three generations of the Loeb family and remains family‑owned today, led by President Charles Loeb.
+Loeb Electric was founded in 1912 in Columbus, Ohio by Oscar Avery and Arthur Loeb Sr. as the Avery & Loeb Electric Company, initially selling radio and electrical products. After a brief pause during the Great Depression, Arthur Loeb restarted the business under the Loeb Electric name. The company remains family-owned, now led by President Charles Loeb, the third generation of the Loeb family.
 
-The company operates as an independent electrical distributor with four distribution centers, 400,000+ sq. ft. of warehouse space, 35+ delivery trucks, and 350+ team members. It stocks electrical distribution & controls, lighting fixtures & bulbs, wire & conduit, and tools. Value‑added services include vendor‑managed inventory (VMI) with consigned stock options, project material management, wire cutting/harnessing/parallel/coiling and pulling‑head installation, supply kitting, 24/7 locker pickup (Loeb Lockers), same‑day delivery, and after‑hours emergency service. The facility processes over 500 orders — comprising 8,000+ line items — daily.
+Today Loeb Electric operates as one of the largest independent electrical distributors in the United States. From its Columbus headquarters, the company runs four retail stores in central Ohio, four distribution centers totaling over 400,000 square feet of warehouse space, and a fleet of more than 35 delivery trucks. With 350-plus team members, the operation picks over 500 orders comprising 8,000 line items daily. Beyond stocking electrical supplies—lighting, wire, conduit, tools, and EV charging equipment—Loeb provides value-added services including vendor-managed inventory (VMI), project material management, wire cutting and harnessing, supply kitting, and 24/7 locker pickup.
 
-Loeb serves two primary customer groups: local electrical contractors in central Ohio and national multi‑site brands (retail, commercial) across the United States. Its national accounts division provides preventative and reactive maintenance services for brands with multiple locations, while contractor‑focused solutions such as VMI, kitting, and wire services aim to increase jobsite productivity.
+The distributor serves two primary customer groups: local electrical contractors in central Ohio and national brands with multi-site footprints. Its National Accounts division supports retailers and facility operators across the country with preventative and reactive maintenance, energy-saving lighting retrofits, solar and microgrid solutions, and EV charging infrastructure. The company also works with industrial and commercial facilities on energy audits and sustainability programs.
 
-The company emphasizes trust, personal service, and commitment to customer success, as stated by President Charles Loeb. It differentiates through its "Loeb Difference" — combining local presence with national reach, continuous improvement, and innovative programs in sustainable lighting, jobsite productivity, and wire services.
+The company emphasizes trust and personal service as its foundation, a philosophy articulated by President Charles Loeb: “This business is about trust. And we’ve earned the trust of our clients, because we provide them with personal service and demonstrate a commitment to their success.” Loeb Electric traces its longevity to continuous investment in experienced associates, technology, and training, aiming to be the partner customers can rely on for on-time delivery and jobsite productivity.
 
 ## Known for
-- Family‑owned since 1912, now third generation
-- 400,000+ sq. ft. warehouse with 8,000+ line items picked daily
-- Vendor‑managed inventory (VMI) with consigned stock options
-- 24/7 material pick‑up via Loeb Lockers and same‑day delivery
-- National accounts division serving multi‑site brands with preventative/reactive maintenance
+- Family-owned since 1912 with third-generation leadership
+- 400,000+ sq ft warehouse across four distribution centers
+- Same-day delivery and 24/7 smart-locker pickup in central Ohio
+- Vendor-managed inventory (VMI) with consigned stock options
+- Wire cutting, harnessing, and pulling-head installation services
+- Supply kitting customized to project specifications
+- National Accounts division for multi-site retail and facility brands
 
 ## Capabilities
-- Electrical distribution & controls supply
-- Lighting fixtures & bulbs supply
-- Wire & conduit supply
-- Tool supply
-- Will‑call order & pick‑up counter
-- 24/7 material pick‑up (Loeb Lockers)
-- Same‑day delivery
-- After‑hours emergency service
-- Vendor‑managed inventory (VMI)
+- Electrical distribution
+- Vendor-managed inventory (VMI)
 - Project material management
-- Wire cutting, harnessing, parallel, coiling
+- Wire cutting and harnessing
+- Wire paralleling and coiling
 - Pulling head installation
 - Supply kitting
 - Advanced shipping notifications
-- Smart locker pickup
-- Timely delivery services
+- Smart locker pickup (24/7)
+- Timely jobsite delivery
 - Convenient pickup locations
+- After-hours emergency service
+- Energy-saving lighting solutions
+- Solar energy storage solutions
+- Microgrid energy systems
+- EV charging products
+- Energy & facility audits
+- Preventative and reactive maintenance services
 
 ## Industries
-- Electrical Contractors
-- National Multi‑site Brands
-- Commercial Facilities Maintenance
-- Commercial Construction
+- Electrical contractors
+- National retail brands
+- Commercial facilities
+- Industrial facilities
+- Energy and sustainability
+- Solar energy
+- Microgrid and distributed energy
+- EV charging infrastructure
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -290,100 +328,60 @@ The company emphasizes trust, personal service, and commitment to customer succe
 
 <details><summary>Sources</summary>
 
-- Founded 1912 in Columbus by Oscar Avery and Arthur Loeb Sr. -> /about-us
-- Family‑owned, third generation led by Charles Loeb -> /about-us
-- Headquarters Columbus, Ohio -> /about-us
+- Founded 1912 in Columbus, Ohio by Oscar Avery and Arthur Loeb Sr. -> /about-us
+- Family-owned and operated, third-generation leadership -> /about-us
+- Headquarters in Columbus, Ohio -> /about-us
 - 350+ team members -> /about-us
-- 4 retail stores central Ohio -> /about-us
-- 4 distribution centers -> /about-us
-- 400,000+ sq. ft. warehouse -> /about-us
+- 4 retail stores in central Ohio -> /about-us
+- 4 distribution centers, 400,000+ sq ft warehouse -> /about-us
 - 35+ delivery trucks -> /about-us
-- 500+ orders daily, 8,000+ lines daily -> /about-us
-- Ranked Top 50 by Electrical Wholesaling -> /about-us
-- Electrical distribution & controls, lighting, wire & conduit, tools -> /
-- 24/7 Loeb Lockers, same‑day delivery, after‑hours emergency -> /
-- VMI services, project material management, wire services, supply kitting -> /services
-- Serves electrical contractor community and national account customers -> /about-us
-- Preventative and reactive maintenance for national brands -> /about-us
+- Picks over 500 orders (8,000 lines) daily -> /about-us
+- Ranked Top 50 by Electrical Wholesaling magazine -> /about-us
+- Offers VMI services, project material management, wire services, supply kitting, delivery solutions -> /services
+- After-hours emergency service available -> /
+- Serves electrical contractors and national multi-site brands -> /about-us, /services
+- Provides energy-saving lighting, solar, microgrid, EV charging solutions -> /services, /
+- Leadership team includes Charles Loeb (President) -> /about-us
 </details>
 
 ---
 
 # Logo Apparel
 
-**Old description:** Screenprint has become the leading method of garment decoration in the fashion industry. It's versatility and constant innovations have allowed for some of the most significant and ingenious fashion trends throughout history. With every innovation and development, Logo Apparel strives to keep themselves on the cutting edge of each new technique and technological breakthrough. From basic Plastisol to High Density, Waterbase, Discharge and countless others, Logo Apparel can print whatever it takes to maximize your products appeal, and turn your vision into reality.
-
-## About
-Logo Apparel is based in Las Vegas, Nevada. The company does not publish its founding date or ownership details, and no founders are named in available sources.
-
-The business specializes in screenprinting for garment decoration, offering a range of ink technologies including Plastisol, high-density, water-based, and discharge formulations. The company describes its focus as staying current with evolving print techniques to meet diverse design requirements. No facility size, headcount, or production volumes are disclosed.
-
-Logo Apparel primarily serves the fashion industry and other sectors requiring decorated apparel. The company’s marketing materials reference the fashion industry as a key market, but specific customer types or named clients are not provided.
-
-The company positions its technical breadth as a differentiator, stating that it works to remain on the cutting edge of new screenprinting methods and technological breakthroughs. It emphasizes the ability to match print techniques to maximize a product’s visual appeal and to translate customer concepts into finished decorated goods.
-
-## Known for
-- Continuous adoption of emerging screenprinting techniques
-- Broad ink technology portfolio (Plastisol, high-density, water-based, discharge)
-- Focus on matching print method to design intent
-
-## Capabilities
-- Screenprinting
-- Garment decoration
-- Plastisol printing
-- High-density printing
-- Water-based printing
-- Discharge printing
-
-## Industries
-- Fashion
-- Apparel
-
-## Company details
-- **Company Type:** Contract manufacturer / job shop
-- **Headquarters:** Las Vegas, Nevada
-
-<details><summary>Sources</summary>
-
-- Company name: Logo Apparel (db)
-- Headquarters: Las Vegas, Nevada (db)
-- Website: http://logoapparelinc.com/ (db)
-- Screenprinting services with Plastisol, high-density, water-based, and discharge inks (description)
-- Serves the fashion industry (description)
-- Company emphasizes staying current with new screenprinting techniques (description)
-</details>
-
----
+_skipped: not enough facts_
 
 # Lotel
 
 **Old description:** Lotel was founded in Baton Rouge, Louisiana by John L. Lowery in 1964.  Shortly after he founded the company, Mr. Lowery invented and patented the line of Mesh-Up® products.  Today we manufacture Mesh-Ups® and Rebar-Ups® from our facilities in Baton Rouge.  We also offer custom molding services.
 
 ## About
-Lotel was founded in Baton Rouge, Louisiana, in 1964 by John L. Lowery. Shortly after establishing the company, Lowery invented and patented the Mesh-Up® line of plastic chairs used to support welded wire mesh in concrete slabs. The business has remained in Baton Rouge, where it continues to produce its patented products and offer custom molding services.
+Lotel was founded in 1964 in Baton Rouge, Louisiana, by John L. Lowery. Shortly after establishing the company, Lowery invented and patented the Mesh-Up line of concrete reinforcement chairs, which became the foundation of the business. The Mesh-Up chair was the first practical flexible chair for welded wire mesh in concrete slabs and gained immediate market recognition.
 
-The company manufactures Mesh-Ups® and Rebar-Ups®, which are globally patented supports for concrete reinforcement. Production takes place on five injection molding machines at its Baton Rouge facility. In addition to its proprietary product line, Lotel provides custom injection molding services for outside customers.
+Today the company operates from its Baton Rouge facility, where it produces Mesh-Up and Rebar-Up chairs for welded wire mesh and rebar support in concrete slabs. The plant runs five injection molding machines and also provides custom molding services for outside clients. Assembly, packaging, and palletized loading are handled in-house.
 
-Lotel’s primary customers are construction contractors and concrete professionals who use the chairs in slab-on-grade, elevated deck, and paving applications. The products are specified in projects ranging from residential foundations to commercial and infrastructure work.
+Lotel’s primary customers are contractors placing concrete slabs, who rely on the chairs for proper reinforcement positioning. The patented chairs have been sold globally, with patent protection in more than 50 countries, including U.S. Patents 6,962,029; 7,458,192; and D491,443.
 
-Lowery’s original invention was recognized as the first practical flexible chair for welded wire mesh, earning patents in over 50 countries. The current product line holds multiple U.S. patents (including Nos. 6,962,029; 7,458,192; and D491,443) and registered trademarks worldwide. The company emphasizes engineering superiority, increased stability, ease of use, and competitive pricing for contractors.
+The company says its chairs were designed for increased stability and ease of use, and that its founding goal was to supply contractors with high-quality products at competitive prices.
 
 ## Known for
-- Globally patented Mesh-Ups® and Rebar-Ups® (patented in over 50 countries)
-- Five injection molding machines for in-house production and custom molding
-- Multiple U.S. patents and worldwide registered trademarks
-- Invented the first practical flexible chair for welded wire mesh
-- Competitive pricing for contractors
+- Worldwide patent protection in over 50 countries
+- Five injection molding machines on site
+- Custom injection molding services
+- Patented chair design for increased stability and ease of use
+- Focus on competitive pricing for contractors
 
 ## Capabilities
-- Injection molding
 - Custom injection molding
-- Manufacturing of Mesh-Ups® and Rebar-Ups®
+- Mesh-Up chair manufacturing
+- Rebar-Up chair manufacturing
+- Load capability demonstration
+- Assembly and packaging
+- Palletized loading
 
 ## Industries
 - Construction
-- Concrete contracting
-- Infrastructure
+- Concrete reinforcement
+- Contractors
 
 ## Equipment
 - Five injection molding machines
@@ -395,16 +393,18 @@ Lowery’s original invention was recognized as the first practical flexible cha
 
 <details><summary>Sources</summary>
 
-- Founded in Baton Rouge, Louisiana by John L. Lowery in 1964 -> /about-us
-- Invented and patented Mesh-Up® products -> /about-us
-- Manufactures Mesh-Ups® and Rebar-Ups® from facilities in Baton Rouge -> /about-us
+- Founded 1964 in Baton Rouge by John L. Lowery -> /about-us
+- Manufactures Mesh-Ups and Rebar-Ups -> /about-us
 - Offers custom molding services -> /about-us
-- Five injection molding machines -> /
+- Five injection molding machines -> db
+- Load capability demonstration -> db
+- Assembly and packaging -> db
+- Palletized loading -> db
 - Globally patented in over 50 countries -> /services
-- U.S. Patent 6,962,029, 7,458,192, D491,443 -> /services
-- Worldwide registered trademarks -> /services
-- Provides contractors finest products at competitive prices -> /services
-- Headquarters at 9348 South Choctaw Drive, Baton Rouge, LA 70815 -> /
+- U.S. Patents 6,962,029; 7,458,192; D491,443 -> /services
+- Serves contractors -> /services
+- Chairs designed for increased stability and ease of use -> /services
+- Goal to provide contractors finest products at competitive prices -> /services
 </details>
 
 ---
@@ -414,47 +414,45 @@ Lowery’s original invention was recognized as the first practical flexible cha
 **Old description:** Lotel Industries, Inc. (LII) is the newest industrial clothing store located in Baton Rouge, Louisiana that specializes in Fire Retardant Clothing (FRC) and uniforms as well as custom tailoring and embroidery.
 
 ## About
-Lotel Industries, Inc. operates an industrial clothing store in Baton Rouge, Louisiana. The business describes itself as locally owned and operated, though it does not disclose a founding year or the names of its founders.
+Lotel Industries, Inc. (LII) operates an industrial clothing store in Baton Rouge, Louisiana. The locally owned and operated business opened recently as a dedicated supplier of fire retardant clothing and uniforms, though a specific founding year and founder names are not publicly disclosed.
 
-The store specializes in fire retardant clothing (FRC) and uniforms, carrying a complete line of brand-name safety apparel from recognized manufacturers. Beyond retail, it offers custom tailoring and embroidery services, including corporate logo digitization, alterations, repairs, patches, and special orders for both individual and corporate customers.
+The company stocks a complete line of brand-name fire retardant clothing (FRC) and uniforms, and provides in-house custom tailoring and embroidery services. Its offerings include safety supplies, digitizing of corporate logos for embroidery, and alterations such as repairs, patches, and special orders. No facility size, headcount, or annual volume figures are published.
 
-Its clientele spans individual workers and corporate accounts in industrial sectors that require flame-resistant garments, such as oil and gas, petrochemical, construction, and general manufacturing. The shop welcomes both walk-in and contract sales during regular business hours six days a week, Monday through Saturday.
+Lotel Industries serves both individual buyers and corporate customers across industrial sectors that require flame-resistant workwear. The store welcomes walk-in and business-to-business sales, but the company does not list specific industry verticals or named clients.
 
-The company positions itself on local ownership, immediate access to a broad inventory of branded FR gear, and in-house customization capabilities that enable quick turnaround on embroidered logos and tailored fits, supported by a staff familiar with industrial safety requirements.
+The business emphasizes its local ownership and the convenience of a full product line combined with on-site tailoring and embroidery as its primary distinction in the market.
 
 ## Known for
 - Locally owned and operated
-- In-house embroidery and tailoring
-- Full line of brand-name FR clothing
+- Full line of brand-name fire retardant clothing
+- In-house custom tailoring and embroidery
 - Serves both individual and corporate customers
 
 ## Capabilities
+- Fire retardant clothing sales
+- Uniform sales
 - Custom tailoring
-- Embroidery
-- Logo digitization
-- Alterations
-- Repairs
-- Patches
-- Special orders
-- Safety supplies distribution
+- Embroidery (digitize corporate logos)
+- Alterations (repairs, patches, special orders)
+- Safety supplies
 
 ## Company details
-- **Company Type:** Retailer
+- **Company Type:** Distributor / reseller
 - **Ownership:** Locally owned and operated
 - **Headquarters:** Baton Rouge, Louisiana
 
 <details><summary>Sources</summary>
 
-- Location: Baton Rouge, Louisiana -> /
+- Location: Baton Rouge, Louisiana -> db
+- Business type: industrial clothing store specializing in FRC and uniforms -> /
 - Locally owned and operated -> /
-- Specializes in fire retardant clothing (FRC) and uniforms -> /
-- Offers custom tailoring and embroidery -> /
-- Services: Safety Supplies, Custom Tailoring, Embroidery, Digitize Corporate Logos, Alterations, Repairs, Patches, Special orders -> /services
-- Individual and Corporate Sales Welcome -> /
+- Services: safety supplies, custom tailoring, embroidery, alterations -> /services
+- Individual and corporate sales welcome -> /
 - Complete line of brand names -> /
-- Hours: Monday-Friday 8:00 A.M. - 6:00 P.M., Saturday 10:00 A.M. - 4:00 P.M. -> /
 - Address: 9362 S. Choctaw Dr., Baton Rouge, LA -> /
 - Phone: 225.926.2550 -> /
+- Hours: Mon-Fri 8am-6pm, Sat 10am-4pm -> /
+- Website: https://liibr.com/ -> db
 </details>
 
 ---
@@ -464,22 +462,24 @@ The company positions itself on local ownership, immediate access to a broad inv
 **Old description:** Louis Shiffman Electric has been an industry name for 100 years. The company offers supplies and distribution within the electrical industry, serving: Utilities Electrical Contractors Elevator, Federal Authorities, Municipal Rail, State, Transportation and Utilities.
 
 ## About
-Louis Shiffman Electric is headquartered in New York, New York, and has been an industry name for 100 years. The company's founding year and ownership structure are not specified in available sources.
+Louis Shiffman Electric is headquartered in New York, New York, where it has been a recognized name in the electrical supply industry for roughly 100 years. An exact founding year is not provided in available records, and information about the company’s ownership structure or original founders has not been disclosed.
 
-The company operates as a supplier and distributor within the electrical industry. Its capabilities include utility-service cable, and its product catalog features builders products and fixture parts, with 55 fixture part variations noted. The company's website, loushiff.com, presents its product categories and contact information.
+The company operates as a distributor, offering supplies and distribution services within the electrical industry. Its catalog includes utility-service cable, builders’ products, and fixture parts. The business does not manufacture these items but sources them for resale to a broad range of buyers.
 
-The firm serves a diverse set of sectors: utilities, electrical contractors, elevator manufacturers, federal authorities, municipal rail systems, state agencies, and transportation organizations. These customers rely on the company for electrical components and related supplies.
+Customers come from sectors such as utilities, electrical contractors, elevator manufacturers, federal authorities, municipal rail systems, state agencies, and transportation departments. These organizations procure electrical components for infrastructure, commercial, and government projects through the distributor.
 
-No specific founding mission or stated competitive advantage is provided beyond the company's century-long presence in electrical supply distribution.
+The firm points to its century-long tenure as an indicator of stability and market knowledge, though it does not articulate specific competitive advantages such as proprietary logistics, exclusive product lines, or guaranteed lead times in the provided materials.
 
 ## Known for
-- 100 years as an electrical industry name
-- Utility-Service Cable
-- Fixture Parts (55 variations)
+- Over 100 years in the electrical supply industry
+- Distributes utility-service cable, builders' products, and fixture parts
+- Serves utilities, federal authorities, and municipal rail agencies
 
 ## Capabilities
-- Utility-Service Cable
-- Electrical supplies distribution
+- Electrical product distribution
+- Utility-service cable supply
+- Builders' product distribution
+- Fixture parts distribution
 
 ## Industries
 - Utilities
@@ -487,22 +487,22 @@ No specific founding mission or stated competitive advantage is provided beyond 
 - Elevator
 - Federal Authorities
 - Municipal Rail
-- State
+- State Government
 - Transportation
 
 ## Company details
 - **Company Type:** Distributor / reseller
-- **Headquarters:** New York, New York
+- **Headquarters:** New York, NY
 
 <details><summary>Sources</summary>
 
 - Company name: Louis Shiffman Electric -> db
 - Headquarters: New York, New York -> db
-- Description: 100 years in electrical industry, supplies and distribution -> db
+- Industry tenure: 100 years -> description
+- Business model: supplies and distribution within electrical industry -> description
+- Customer sectors: utilities, electrical contractors, elevator, federal authorities, municipal rail, state, transportation -> description
+- Product categories: utility-service cable, builders products, fixture parts -> capabilities, products
 - Website: http://www.loushiff.com/ -> db
-- Capabilities: Utility-Service Cable -> db
-- Products: Builders Products, Fixture Parts (55) -> db
-- Industries served: Utilities, Electrical Contractors, Elevator, Federal Authorities, Municipal Rail, State, Transportation -> db
 </details>
 
 ---
@@ -512,37 +512,32 @@ No specific founding mission or stated competitive advantage is provided beyond 
 **Old description:** Our mission is to be recognized as the leading provider of high-quality, frozen, filled pasta. To achieve this mission, Louisa Foods stays true to the core values that launched our success from the start.
 
 ## About
-Louisa Food Products, Inc. operates from St. Louis, Missouri. The company traces its roots back over 50 years when St. Louis restaurateur Ferdinando Baldetti began producing scratch-made ravioli and pasta for local restaurants. Today, the business remains family-owned, now spanning four generations of the Baldetti family.
+Louisa Food Products, Inc. operates from St. Louis, Missouri, where it was founded over 50 years ago by Ferdinando Baldetti, a local restaurateur who began producing scratch-made ravioli and pasta for area restaurants. The business remains family-owned, now spanning four generations of the Baldetti family, and continues to be guided by the founding principle that freshness matters.
 
-The company specializes in frozen, filled pasta products including toasted ravioli, ravioli, and tortellini. Production follows a daily scratch-kitchen approach: doughs are mixed from carefully milled wheat, vegetables are hand-chopped and roasted, meats are braised and stocks reduced in-house, cheeses are freshly grated, and pasta is made with semolina flour and eggs. The facility houses a culinary center for ongoing recipe development.
+The company manufactures frozen filled pasta, including ravioli, tortellini, and toasted ravioli, using a scratch-kitchen approach. Each day, vegetables are hand-chopped and roasted, meats are braised and stocks reduced, cheeses are freshly grated, and pasta dough is mixed from semolina flour and eggs. All ingredients are USDA-graded, and production takes place in a facility that includes a culinary center for product development.
 
-Louisa Foods serves both foodservice and retail channels. Its pasta reaches restaurants, institutional kitchens, and grocery stores across the region. The company emphasizes relationships with customers ranging from independent restaurants to larger food distributors.
+Louisa Foods serves both foodservice operators and retail consumers. Its pasta products are supplied to restaurants—often without the diner’s awareness—and are also sold through grocery stores for home preparation. The company markets directly to chefs and home cooks through recipes and pairing suggestions.
 
-The Baldetti family's founding belief that "freshness matters" continues to drive operations. The company states its mission is to be recognized as the provider of high-quality frozen filled pasta, built on honesty, integrity, and responsiveness to customer needs.
+The brand differentiates itself by adhering to authentic, labor-intensive methods: no shortcuts, daily from-scratch preparation, and a commitment to fresh ingredients.
 
 ## Known for
-- Daily scratch production from whole ingredients
-- Four-generation family recipes
-- USDA-graded meats and produce
-- In-house culinary center for product development
-- No shortcuts in preparation methods
+- Pasta made from scratch daily using fresh ingredients
+- Vegetables hand-chopped, meats braised and stocks reduced in-house
+- Four-generation family pasta-making tradition
+- Only USDA-graded meats, seafood, produce and herbs used
+- Culinary center continuously developing new pasta products
 
 ## Capabilities
-- Fresh pasta manufacturing
-- Scratch cooking
-- Meat grinding and dicing
-- Vegetable chopping and roasting
-- Stock reduction
-- Cheese grating
-- Frozen filled pasta production
-- Recipe development
-- Foodservice supply
-- Retail distribution
+- Fresh pasta production
+- Filled pasta manufacturing
+- Scratch cooking (vegetable prep, meat braising, stock reduction)
+- Cheese grating and shredding
+- Sauce production
+- Culinary research and development
 
 ## Industries
 - Foodservice
 - Retail
-- Restaurant
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -551,15 +546,15 @@ The Baldetti family's founding belief that "freshness matters" continues to driv
 
 <details><summary>Sources</summary>
 
-- Headquarters: St. Louis, Missouri -> db
-- Founder: Ferdinando Baldetti -> /about
+- Location: St. Louis, MO -> db
 - Family-owned, four generations -> /about
-- Products: toasted ravioli, ravioli, tortellini -> /
-- Scratch kitchen methods: hand-chop vegetables, braise meats, grate cheese, make pasta with semolina and eggs -> /about
-- Serves foodservice and retail -> /about
-- Mission: leading provider of high-quality frozen filled pasta -> /about
-- Culinary center for development -> /
-- Address: 1918 Switzer Avenue, St. Louis, MO 63136 -> /about
+- Founder Ferdinando Baldetti -> /about
+- Products: frozen filled pasta (ravioli, tortellini, toasted ravioli) -> /, /about
+- Scratch kitchen methods -> /about
+- USDA-graded ingredients -> /about
+- Industries: Foodservice, Retail -> /
+- Mission: leading provider of high-quality frozen filled pasta -> db, /about
+- Culinary center developing new products -> /, /about
 - LinkedIn URL -> db
 </details>
 

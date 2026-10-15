@@ -3,20 +3,20 @@
 **Old description:** At Buckman Wire & Cable, we help customers source, manage, and receive the wire and cable they need to keep projects moving. From everyday electrical products to specialized and hard-to-find materials, our team provides dependable solutions backed by responsive service, competitive pricing, and industry expertise.
 
 ## About
-Buckman Wire & Cable Co. is a family-owned wire and cable distributor based in O'Fallon, Missouri. The company was founded in 1974 and draws on over 100 years of combined industry experience among its team.
+Buckman Wire & Cable Co is a family-owned business based in O'Fallon, Missouri, founded in 1974. The company reports over 100 years of combined wire and cable experience among its team.
 
-The firm supplies a broad range of electrical products including building wire, copper and aluminum conductors, control and instrumentation cable, medium-voltage cable, portable cord, communication cable, and specialty items for unique applications. Beyond material supply, Buckman offers services such as custom cut lengths, cable paralleling, jobsite staging, scheduled deliveries, inventory planning, material forecasting, vendor-managed inventory programs, and ongoing wire and cable management support.
+The company supplies a broad range of wire and cable products including building wire, copper and aluminum conductors, control and instrumentation cable, medium-voltage cable, portable cord, communication cable, and specialty items. It also provides value-added services such as custom cut lengths, cable paralleling, jobsite staging, scheduled deliveries, inventory planning, material forecasting, vendor-managed inventory programs, and ongoing wire and cable management support.
 
-Customers span manufacturing, residential, commercial, communication, utility, industrial, entertainment, marine, automotive, welding, agriculture, and solar sectors. The company works with electrical contractors, industrial facilities, manufacturers, utilities, data centers, and commercial construction projects.
+Buckman Wire & Cable serves customers across manufacturing, residential, commercial, communication, utility, industrial, entertainment, marine, automotive, welding, agriculture, and solar sectors. Its client base includes electrical contractors, industrial facilities, manufacturers, utilities, data centers, and commercial construction projects.
 
-As a family-run business, Buckman emphasizes personal service, same-day shipments on stocked items, and a rigorous quality control process. Its stated goal is to help customers control costs, reduce supply-chain challenges, meet demanding deadlines, and avoid costly project delays.
+As a family-run operation, the company emphasizes accuracy, reliability, communication, and attention to detail, aiming to help customers control costs, reduce supply-chain challenges, meet deadlines, and avoid project delays. It guarantees personal service, same-day shipments, and a superior quality control process.
 
 ## Known for
 - Same-day shipments on stocked items
-- Custom cut lengths and cable paralleling
-- Vendor-managed inventory programs
-- Personal service from a family-owned team
+- Personal service guarantee
 - Superior quality control process
+- Family-owned with over 100 years combined experience
+- Vendor-managed inventory programs
 
 ## Capabilities
 - Custom cut lengths
@@ -27,7 +27,6 @@ As a family-run business, Buckman emphasizes personal service, same-day shipment
 - Material forecasting
 - Vendor-managed inventory programs
 - Wire and cable management support
-- Same-day shipping
 
 ## Industries
 - Manufacturing
@@ -42,6 +41,9 @@ As a family-run business, Buckman emphasizes personal service, same-day shipment
 - Welding
 - Agriculture
 - Solar
+- Data Centers
+- Commercial Construction
+- Electrical Contractors
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -51,13 +53,14 @@ As a family-run business, Buckman emphasizes personal service, same-day shipment
 
 <details><summary>Sources</summary>
 
-- Founded in 1974, family-owned -> /about-us
-- Headquartered in O'Fallon, Missouri -> /about-us
-- Supplies building wire, copper and aluminum conductors, control and instrumentation cable, medium-voltage cable, portable cord, communication cable, specialty products -> /
-- Offers custom cut lengths, cable paralleling, jobsite staging, scheduled deliveries, inventory planning, material forecasting, vendor-managed inventory programs, wire and cable management support -> /
+- Founded in 1974 -> /
+- Family-owned business -> /
+- Headquarters in O'Fallon, Missouri -> /
+- Supplies wire and cable products including building wire, copper and aluminum conductors -> /
+- Offers custom cut lengths, cable paralleling, jobsite staging, scheduled deliveries, inventory planning, material forecasting, vendor-managed inventory programs -> /
 - Serves manufacturing, residential, commercial, communication, utility, industrial, entertainment, marine, automotive, welding, agriculture, solar -> /
-- Same-day shipments, personal service, superior quality control -> /about-us
-- Company type: Wire & Cable Distributor -> /
+- Guarantees personal service, same-day shipments, superior quality control process -> /
+- UL approved products (UL 1007, UL 1569, UL 1015-MTW) -> /
 </details>
 
 ---
@@ -67,33 +70,34 @@ As a family-run business, Buckman emphasizes personal service, same-day shipment
 **Old description:** Every ingredient tells a story and if you listen closely, you can practically hear them whisper of their Tuscan heritage. Take our pasta, for instance. What at first glance appears as a simple focus on details – the water, the wheat, the way the imported 00 flour is milled – when brought together, becomes a modern Italian masterpiece.
 
 ## About
-Buitoni Food Company is headquartered in Danville, Virginia, but its roots trace back to 1827 in Sansepolcro, Tuscany, where Giulia Buitoni founded the business after trading her necklace for a pasta machine. The company began as a small artisan pasta maker, sourcing wheat from Puglia and building a reputation for quality that eventually attracted royal attention.
+Buitoni Food Company, headquartered in Danville, Virginia, traces its origins to 1827 in Sansepolcro, Tuscany, where founder Giulia Buitoni traded a family necklace for a pasta machine and sourced wheat from Puglia after a 40-day journey. The company’s early growth included building a factory that earned recognition from the King of Italy after a 1905 fire, and by 1901 it had received the Italian Labour Merit Medal. Giovanni Buitoni brought the brand to New York City in 1939, establishing a U.S. presence that continues today.
 
-Today, Buitoni produces fresh pasta, sauces, and cheeses using artisan techniques. Its processes include pasta making with imported 00 flour from Italy, slow-roasting chicken for fillings, and a selective process for aged DOP Parmigiano Reggiano. The company also uses farm-fresh eggs. Specific facility size, headcount, and production volumes are not disclosed.
+The company manufactures fresh pasta, sauces, and cheeses at its Danville facility, emphasizing artisan techniques such as slow-roasting chicken, importing Italian 00 flour, and using aged DOP Parmigiano Reggiano and farm-fresh eggs. Production follows time-honored methods, though specific facility size, headcount, and output volumes are not disclosed.
 
-The company serves retail consumers through select grocery retailers across the United States. Its products are positioned in the fresh pasta and sauce aisles, targeting home cooks seeking Italian-inspired meal solutions. Industries served include food manufacturing and retail grocery distribution.
+Buitoni serves the retail grocery and foodservice sectors, distributing products through select retailers nationwide. Its customer base includes supermarket chains and consumers seeking authentic Italian meal solutions, with recipes and product locators provided on its website.
 
-Buitoni emphasizes its Tuscan heritage and generations of craftsmanship as differentiators. The brand was built on Giulia Buitoni's pursuit of the highest-quality ingredients, a philosophy the company says continues to guide its ingredient sourcing and product development.
+The brand differentiates itself through a commitment to Tuscan craftsmanship and ingredient integrity, rooted in Giulia Buitoni’s original pursuit of the finest wheat. The company states that “details matter” in every step, from flour milling to cheese selection, aiming to deliver a modern Italian masterpiece in each product.
 
 ## Known for
-- Uses imported 00 flour from Italy
-- Slow-roasts chicken for fillings
-- Selects aged DOP Parmigiano Reggiano
+- Imported Italian 00 flour
+- Aged DOP Parmigiano Reggiano
+- Farm-fresh eggs
+- Slow-roasted chicken
 - Artisan pasta-making techniques
 
 ## Capabilities
 - Fresh pasta production
 - Sauce manufacturing
 - Cheese processing
+- Artisan pasta techniques
 - Slow-roasting
-- Ingredient sourcing
+- Ingredient sourcing (imported flour, DOP cheese)
 
 ## Industries
 - Food manufacturing
 - Retail grocery
-
-## Equipment
-- Pasta machine
+- Foodservice
+- Consumer packaged goods
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -102,18 +106,14 @@ Buitoni emphasizes its Tuscan heritage and generations of craftsmanship as diffe
 
 <details><summary>Sources</summary>
 
-- Founded 1827 in Sansepolcro, Tuscany -> /
-- Founder Giulia Buitoni traded necklace for pasta machine -> /about
+- Founded 1827 in Sansepolcro, Tuscany by Giulia Buitoni -> /about
 - Headquarters in Danville, Virginia -> db
-- Produces fresh pasta, sauces, and cheese -> /
-- Uses imported 00 flour from Italy -> /
-- Slow-roasts chicken -> /
-- Selects aged DOP Parmigiano Reggiano -> /
-- Sells through select retailers -> /
-- Artisan pasta-making techniques -> /about
-- Factory burned down in 1905, rebuilt with king's donation -> /about
-- Awarded Italian Labour Merit Medal in 1901 -> /about
-- Giovanni Buitoni opened first store in New York in 1939 -> /about
+- Manufactures fresh pasta, sauces, and cheeses -> /
+- Uses imported Italian 00 flour, aged DOP Parmigiano Reggiano, farm-fresh eggs -> /
+- Factory burned in 1905, King of Italy donated 1,500 lire -> /about
+- Received Italian Labour Merit Medal in 1901 -> /about
+- Giovanni Buitoni opened first U.S. store in New York City in 1939 -> /about
+- Products sold at select retailers nationwide -> /
 </details>
 
 ---
@@ -123,34 +123,41 @@ Buitoni emphasizes its Tuscan heritage and generations of craftsmanship as diffe
 **Old description:** Crucial components in electric power systems, switchgears help in conducting or interrupting power to downstream equipment. Critical for maintenance and related work when equipment need to be de-energized or isolated, the overall efficiency of power equipment hinge on its circuit breakers.  Equipment have increasingly turned power hungry, drawing high voltage from distribution sources, necessitating the need for improved safety with reliable de-energizing components. Rapid advances in materials and technology have rendered circuit breakers more advanced and failsafe. The advent of
 
 ## About
-Bullock Breakers operates from Annandale, Minnesota, where the family-owned company opened its doors in May 2015. The business was founded on a goal of building professional working relationships with customers through expert consulting and prompt response times.
+Bullock Breakers is a family-owned business based in Annandale, Minnesota, that opened in May 2015. The company was founded to supply used air and vacuum circuit breakers, switchgear, and related components to customers seeking reliable alternatives to new equipment.
 
-The company specializes in used air and vacuum circuit breakers, switchgear, parts breakers, ground and test units, and PT/VT drawers from all major brands. Its inventory holds thousands of units ready to ship. In addition to sales, the shop provides reconditioning — complete teardown, rebuild, lubrication, and full testing — retrofit services that replace older trip units and programmers with modern equivalents such as AC-PRO II, MicroVersa Trip Plus/PM, Entelliguard, or Digitrip, and repair services that include visual inspection, testing, troubleshooting, and requoting of repairs and replacement parts.
+The company maintains an inventory of thousands of used air and vacuum circuit breakers from major brands, along with switchgear, parts breakers, ground and test units, and PT/VT drawers. In addition to sales, Bullock Breakers operates a service shop offering reconditioning—complete teardown, rebuild, lubrication, and full testing—retrofit of trip units (including AC-PRO II, MicroVersa Trip Plus/PM, Entelliguard, and Digitrip models), and repair services that include visual inspection, testing, and troubleshooting.
 
-Customers come from electric power systems and maintenance operations that need reliable de-energizing and isolation components. The equipment serves applications where current rating, interrupting rating, voltage class, insulating medium, construction type, and other switchgear selection factors are critical.
+Bullock Breakers serves the electric power systems sector, providing components critical for conducting or interrupting power in switchgear applications. Its customers include maintenance and operations teams that need to de-energize or isolate equipment, as well as organizations looking to reduce costs and lead times compared to purchasing new gear.
 
-The company positions its used equipment as a cost-saving alternative to new, delivering at a fraction of the lead time while maintaining quality and operating efficiency for highly critical components.
+The company emphasizes 24/7 customer service, expert consulting, and quick turnaround with fast shipping from stock. It positions its used equipment as delivering significant cost savings over new units while meeting the same performance requirements.
 
 ## Known for
 - Family-owned since 2015
 - 24/7 customer service
-- Thousands of used breakers in stock
-- Quick turnaround and fast shipping
-- Reconditioning, retrofit, and repair services
+- Quick turnaround and fast shipping from inventory
+- Reconditioning, retrofit, and repair services for circuit breakers
+- Cost savings over new equipment with shorter lead times
 
 ## Capabilities
-- Used air circuit breaker sales
-- Used vacuum circuit breaker sales
+- Reconditioning (complete teardown, rebuild, lubrication, full testing)
+- Retrofit (trip unit replacement with AC-PRO II, MicroVersa Trip Plus/PM, Entelliguard, Digitrip)
+- Repair (visual inspection, testing, troubleshooting)
+- 24/7 customer support
+- Fast shipping from inventory
+- Used air and vacuum circuit breaker sales
 - Switchgear sales
-- Circuit breaker reconditioning
-- Circuit breaker retrofitting
-- Circuit breaker repair
-- PT/VT drawer sales
-- Ground and test unit sales
-- Parts breaker sales
+- PT/VT drawer supply
+- Ground and test unit supply
 
 ## Industries
 - Electric power systems
+- Industrial maintenance
+
+## Equipment
+- AC-PRO II
+- MicroVersa Trip Plus/PM
+- Entelliguard
+- Digitrip
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -161,14 +168,14 @@ The company positions its used equipment as a cost-saving alternative to new, de
 <details><summary>Sources</summary>
 
 - Family-owned company opened May 2015 -> /about-us
-- Headquarters Annandale, Minnesota -> /about-us, /services, /
-- Specializes in used air and vacuum circuit breakers, switchgear -> /about-us, /
-- Thousands of used breakers in inventory -> /about-us
-- Services: reconditioning, retrofit, repair -> /services
+- Headquarters at 475 Annandale Blvd, Annandale, MN 55302 -> /
+- Specializes in used air and vacuum circuit breakers and switchgear from major brands -> /about-us
+- Inventory of thousands of used air and vacuum circuit breakers -> /about-us
+- Offers reconditioning, retrofit, and repair services for circuit breakers -> /services
+- Retrofit trip units include AC-PRO II, MicroVersa Trip Plus/PM, Entelliguard, Digitrip -> /services
 - 24/7 customer service -> /
 - Quick turnaround and fast shipping -> /
-- Brands: AC-PRO II, MicroVersa Trip Plus/PM, Entelliguard, Digitrip -> /services
-- Products: air & vacuum breakers, parts breakers, ground & test units, PT/VT drawers -> /
+- Equipment saves money over new and delivers at fraction of lead time -> /about-us
 </details>
 
 ---
@@ -178,28 +185,25 @@ The company positions its used equipment as a cost-saving alternative to new, de
 **Old description:** At Bushton Manufacturing, we are dedicated to quality craftsmanship. Our durable tools, particularly the Hawk woodworking machines, cater to both amateur and professional woodworkers. The Hawk machines ensure precision and durability, offering reliable performance for all woodworking projects.
 
 ## About
-Bushton Manufacturing, LLC operates from Bushton, Kansas, where it has produced the Hawk line of woodworking equipment for nearly a century. The company's roots trace back to the early 20th century, though a specific founding year is not publicly documented. Ownership details such as family or veteran status have not been disclosed.
+Bushton Manufacturing, LLC operates from Bushton, Kansas, where it has built a reputation around the Hawk line of woodworking equipment. The company’s website notes that the Hawk brand marks 97 years of continuous production, though a specific founding year is not published.
 
-The firm manufactures a range of woodworking machines including scroll saws, a multifunction planer, the PanelMaster IV system, and precision‑machined aluminum fences and tables. It also offers custom molding knives made to order and produces the Atompop popcorn popper for the consumer market. Production scale, facility size, and headcount are not published.
+The product range centers on woodworking machinery, including scroll saws, a multifunction planer, and the PanelMaster IV panel saw. In addition, the company manufactures the Atom Popper popcorn popper for the consumer market. Bushton also produces custom molding knives on request and precision-machines aluminum fences and tables as accessories for its machines.
 
-Customers include amateur and professional woodworkers seeking durable, precision tools, as well as hobbyists purchasing the Atompop popper. The Hawk machines are marketed for both home workshops and commercial shops, with the company emphasizing reliability for all project types.
+Customers span amateur and professional woodworkers who rely on the Hawk machines for precision and durability. The Atom Popper extends the reach to home users seeking a compact appliance for fresh popcorn. Orders for custom molding knives are taken through a dedicated request form, indicating a willingness to serve specialized tooling needs.
 
-Bushton Manufacturing highlights its long‑standing product lineage and self‑aligning designs that promise years of trouble‑free service. The ability to supply custom molding knives on request and the use of precision‑machined aluminum components are cited as key differentiators.
+The company states that its tools are designed for self-aligning, trouble-free service and dependable performance over years of use. This emphasis on lasting craftsmanship, rather than volume production, is presented as the core reason the Hawk line has remained in the market for nearly a century.
 
 ## Known for
-- Self-aligning designs for years of trouble-free service
-- Custom molding knives available on request
+- 97-year legacy of Hawk woodworking products
+- Self-aligning design for trouble-free service
+- Custom molding knives made to order
 - Precision-machined aluminum fences and tables
-- Nearly a century of Hawk product heritage
 
 ## Capabilities
 - Woodworking machine manufacturing
 - Custom molding knife production
-- Precision aluminum machining
-- Scroll saw production
-- Multifunction planer manufacturing
-- PanelMaster IV production
-- Popcorn popper manufacturing
+- Precision machining of aluminum components
+- Parts and accessories distribution
 
 ## Industries
 - Woodworking
@@ -211,15 +215,21 @@ Bushton Manufacturing highlights its long‑standing product lineage and self‑
 
 <details><summary>Sources</summary>
 
-- Location: Bushton, Kansas -> db
-- Produces Hawk line of woodworking products -> page '/'
-- Offers scroll saws, multifunction planer, PanelMaster IV, Atompop popcorn popper -> page '/'
-- Provides custom molding knives upon request -> db (capabilities)
-- Precision machined aluminum fences and tables -> db (products)
-- Claims 97 years of quality woodworking products -> page '/'
-- Targets amateur and professional woodworkers -> page '/'
-- Self-aligning design for trouble-free service -> db (capabilities)
-- Company type: Manufacturer -> db (products)
+- Headquarters in Bushton, Kansas -> db
+- Produces Hawk line of woodworking products -> /
+- Hawk brand claims 97 years of operation -> /
+- Product list includes scroll saws, multifunction planer, PanelMaster IV, Atom Popper -> /
+- Offers custom molding knives upon request -> /
+- Produces precision machined aluminum fences and tables -> /
+- Serves amateur and professional woodworkers -> /
+- Emphasizes quality craftsmanship, precision, durability -> /
+- Company type identified as Manufacturer -> /
+- No explicit founding year stated -> /
+- No employee count stated -> /
+- No certifications mentioned -> /
+- Materials include aluminum -> /
+- No manufacturing equipment listed -> /
+- No volume, lead time, or tolerance data provided -> /
 </details>
 
 ---
@@ -229,30 +239,32 @@ Bushton Manufacturing highlights its long‑standing product lineage and self‑
 **Old description:** Byrne Woodworking was founded by Frank Byrne in Mountrath, Ireland, in 1974 and reborn in Fairfield, Connecticut, in 1990. Schooled as a traditional woodworker, skills, and techniques being handed down from his grandfather and father, Frank’s goal is to perpetuate an ancient quality of craftsmanship, with an eye to new lines and subtleties of design.
 
 ## About
-Byrne Woodworking traces its roots to 1974 when Frank Byrne founded the business in Mountrath, Ireland, drawing on woodworking skills passed down from his grandfather and father. The operation was reestablished in Fairfield, Connecticut, in 1990 and now operates from Bridgeport, Connecticut. The company remains under the ownership of Frank Byrne, who continues to emphasize traditional craftsmanship alongside modern design.
+Byrne Woodworking Inc traces its roots to 1974 when Frank Byrne founded the business in Mountrath, Ireland, drawing on woodworking skills passed down from his grandfather and father. The operation was reestablished in Fairfield, Connecticut, in 1990 and is now headquartered in nearby Bridgeport. The company remains under the direction of its founder, who aims to perpetuate an ancient quality of craftsmanship while incorporating new lines and subtleties of design.
 
-The shop produces high-end custom cabinetry and millwork for kitchens, baths, libraries, pantries, wine rooms, and a range of other residential and commercial spaces. Craftsmen work with solid woods, exotic veneers, metals, glass, and stone, blending time-honored techniques with current technology. The facility handles projects from single-room installations to whole-house millwork, though specific headcount and annual volume are not disclosed.
+The shop produces high-end custom cabinetry and millwork for kitchens, baths, libraries, pantries, wine rooms, and a range of other residential and commercial spaces. Craftsmen combine time-honored techniques with modern technology to work in solid woods, exotic veneers, metals, glass, and stone, delivering built-in cabinetry, coffered ceilings, and custom paneling. The company describes itself as a nationwide luxury custom cabinetry and millwork operation, though facility size and headcount are not disclosed.
 
-Byrne Woodworking serves individual homeowners, interior designers, architects, and builders across the United States. The company collaborates closely with design professionals to integrate cabinetry into the overall harmony of a space, and it also offers in-house design services for clients who need them.
+Byrne Woodworking serves interior designers, architects, builders, and individual clients across the United States. Projects span both residential and commercial sectors, with the firm collaborating closely with design professionals to integrate cabinetry into the overall harmony of each space.
 
-Frank Byrne’s stated goal is to perpetuate an ancient quality of craftsmanship while introducing new lines and subtleties of design. The firm highlights its reputation for superior quality, design, and customer service, and it backs its work with a 100 percent satisfaction guarantee.
+Frank Byrne's original goal — to blend traditional craftsmanship with contemporary technology — remains the stated differentiator. The company emphasizes a 100 percent satisfaction guarantee and a commitment to combining the beauty of natural materials with exceptional fluency and functionality.
 
 ## Known for
-- Ancient craftsmanship combined with latest technologies
-- Works with solid woods, exotic veneers, metals, glass, and stone
+- Combines time-honored woodworking techniques with modern technology
+- Works in solid woods, exotic veneers, metals, glass, and stone
 - Nationwide luxury custom cabinetry and millwork
 - 100 percent satisfaction guarantee
-- Collaborative design process with architects and interior designers
+- Collaborates with interior designers, architects, and builders
 
 ## Capabilities
 - Custom cabinetry
 - Millwork
-- Kitchen and bath cabinetry
-- Library and office cabinetry
+- Kitchen cabinetry
+- Bath cabinetry
+- Library cabinetry
+- Pantry cabinetry
+- Wine room cabinetry
+- Built-in cabinetry for bedrooms, baths, art rooms, work-out rooms, laundry rooms, mud rooms, garages
 - Custom coffered ceilings
 - Custom paneling
-- Woodworking with solid woods and exotic veneers
-- Metal, glass, and stone integration
 - Design collaboration with architects and interior designers
 
 ## Industries
@@ -260,6 +272,7 @@ Frank Byrne’s stated goal is to perpetuate an ancient quality of craftsmanship
 - Commercial construction
 - Interior design
 - Architecture
+- Luxury home building
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -268,17 +281,16 @@ Frank Byrne’s stated goal is to perpetuate an ancient quality of craftsmanship
 
 <details><summary>Sources</summary>
 
-- Founded by Frank Byrne in Mountrath, Ireland in 1974 -> /about-us
-- Reborn in Fairfield, Connecticut in 1990 -> /about-us
-- Headquarters in Bridgeport, Connecticut -> db
-- Custom cabinet works company -> /
+- Founded by Frank Byrne in Mountrath, Ireland, in 1974 -> /about-us
+- Reborn in Fairfield, Connecticut, in 1990 -> /about-us
+- Headquartered in Bridgeport, Connecticut -> db
 - Specializes in high-end custom cabinetry and millwork for kitchens, baths, libraries -> /about-us
-- Works with solid woods, exotic veneers, metals, glass, and stone -> /about-us
-- Uses newest technology and time-honored techniques -> /about-us
-- Collaborates with interior designers, architects, individual clients -> /about-us
+- Works with solid woods, exotic veneers, metals, glass, stone -> /about-us
+- Serves interior designers, architects, builders, individual clients -> /about-us
 - Nationwide luxury custom cabinetry and millwork company -> /about-us
-- 100 percent satisfaction guarantee -> /about-us
-- Goal to perpetuate ancient quality of craftsmanship with eye to new lines and subtleties of design -> /about-us
+- Goal to perpetuate ancient craftsmanship with new design lines -> /about-us
+- Combines newest technology and time-honored techniques -> /about-us
+- Guarantees 100 percent satisfaction -> /about-us
 </details>
 
 ---
@@ -288,36 +300,36 @@ Frank Byrne’s stated goal is to perpetuate an ancient quality of craftsmanship
 **Old description:** C & M Hydraulics has been rebuilding Mercedes Benz power steering gearboxes, power steering pumps, air pumps, hydraulic suspension pumps and ABC pumps since 1994.  With over 100,000 units rebuilt, C & M has the know how to make your Mercedes work like new.
 
 ## About
-C & M Hydraulics, Inc. was founded in 1994 in North Las Vegas, Nevada. The company began as a specialist in rebuilding Mercedes-Benz hydraulic components, focusing on power steering gearboxes, power steering pumps, air pumps, hydraulic suspension pumps, and ABC pumps.
+C & M Hydraulics, Inc. has operated from North Las Vegas, Nevada since its founding in 1994. The company began as a specialist in rebuilding hydraulic components for Mercedes-Benz vehicles, focusing on power steering gearboxes, pumps, and suspension systems, and now covers a range of hydraulic units including ABC pumps.
 
-The company remanufactures these units by completely disassembling each core, replacing all seals, and installing new hard components where necessary. Every rebuilt unit is tested to meet original equipment specifications. Since its founding, C & M has rebuilt over 100,000 units.
+The shop rebuilds power steering gearboxes, power steering pumps, air pumps, hydraulic suspension pumps, and ABC pumps. Each unit is completely disassembled and reassembled with all new seals; hard components are replaced when necessary to meet original equipment specifications. Since 1994, the company has rebuilt over 100,000 units.
 
-The business serves Mercedes-Benz owners, independent repair shops, and dealerships seeking cost-effective alternatives to new OE parts. Its cross-reference system matches Mercedes-Benz part numbers to C & M’s own inventory. The company also offers core purchase and return programs, along with installation guidance and a technical support line.
+The business serves Mercedes-Benz owners and repair shops seeking remanufactured hydraulic components. It provides cross-referencing between Mercedes-Benz part numbers and its own, along with installation guidance, a core-return program, a core-purchase program, and a technical support line.
 
-C & M emphasizes attention to detail comparable to OE remanufacturers, delivering reliable units at a reasonable price. The process ensures each unit falls within manufacturer specifications through full disassembly, seal replacement, and selective hard-part renewal.
+The company states that its attention to detail matches that of original-equipment remanufacturers, allowing it to deliver reliable units at a reasonable price.
 
 ## Known for
-- Attention to detail equal to OE remanufacturers
-- Reliable units at a reasonable price
-- Units completely disassembled and reassembled with all new seals
-- Hard components replaced when necessary
-- Every unit falls within manufacturer specifications
 - Over 100,000 units rebuilt since 1994
+- Units completely disassembled and reassembled with all new seals
+- Hard components replaced to meet manufacturer specifications
+- Attention to detail equal to OE remanufacturers
+- Core purchase and return programs available
 
 ## Capabilities
+- Hydraulic component rebuilding
 - Power steering gearbox rebuilding
 - Power steering pump rebuilding
 - Air pump rebuilding
 - Hydraulic suspension pump rebuilding
 - ABC pump rebuilding
-- Complete disassembly and reassembly
-- Seal replacement
-- Hard component replacement
-- Testing to OE specifications
-- Core purchase program
-- Core return program
+- Core return service
 - Technical support line
-- Cross-referencing Mercedes-Benz part numbers
+- Cross referencing (Mercedes Benz part# to C & M part#)
+- Core purchase program
+
+## Industries
+- Automotive (Mercedes-Benz)
+- Hydraulic component remanufacturing
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -328,16 +340,15 @@ C & M emphasizes attention to detail comparable to OE remanufacturers, deliverin
 
 - Founded 1994 -> db
 - Headquarters North Las Vegas, Nevada -> db
-- Rebuilds Mercedes Benz power steering gearboxes, power steering pumps, air pumps, hydraulic suspension pumps and ABC pumps -> /
+- Rebuilds Mercedes Benz power steering gearboxes, power steering pumps, air pumps, hydraulic suspension pumps, ABC pumps -> /
 - Over 100,000 units rebuilt -> /
 - Units completely disassembled and reassembled with all new seals -> /
-- Hard components replaced when necessary -> /
-- Units tested to meet manufacturer specifications -> /
+- Hard components replaced when necessary to meet manufacturer specifications -> /
 - Attention to detail equal to OE remanufacturers -> /
-- Produces reliable units at a reasonable price -> /
-- Offers core purchase and return programs -> /
-- Provides installation tips and technical support line -> /
-- Cross-references Mercedes-Benz part numbers to C & M part numbers -> /
+- Produces reliable units at reasonable price -> /
+- Cross references Mercedes Benz part# to C & M part# -> /
+- Installation tips, core return & tech line -> /
+- Core purchase program -> /
 </details>
 
 ---
@@ -347,37 +358,30 @@ C & M emphasizes attention to detail comparable to OE remanufacturers, deliverin
 **Old description:** We are unlike any other Commercial Food Equipment Service company because we genuinely care about your business. C&S Commercial Food Equipment Service, LLC is dedicated to keeping your commercial kitchen running smoothly. We understand that your business relies on fully operational equipment and that downtime is not an option. Our team is committed to providing reliable, high-quality service to ensure your equipment performs at its best.
 
 ## About
-Based in Concord, New Hampshire, C&S Commercial Food Equipment Service, LLC operates as a dedicated service provider for commercial kitchen equipment. The company focuses on keeping food-service operations running without interruption.
+C&S Commercial Food Equipment Service, LLC operates from a facility in Concord, New Hampshire. The company’s founding year and ownership structure are not publicly disclosed.
 
-The business provides installation, repair, and replacement services for a wide range of commercial cooking and holding equipment. Its technicians are factory-trained and certified in gas, steam, electric, and microwave systems, and the company performs factory-authorized warranty work for numerous equipment brands. An inventory of major parts is kept on hand to support quick turnaround, and service calls cover most of eastern and central Massachusetts as well as southern and central New Hampshire.
+The business focuses on installation, repair, and replacement of commercial food equipment. Its technicians are factory-trained and certified in gas, steam, electric, and microwave systems, and the company holds factory-authorized warranty status for a long list of brands including TurboChef, Rational, Hobart, and Vulcan-Hart. Service coverage extends across most of eastern and central Massachusetts and southern and central New Hampshire, with emergency request handling available.
 
-Customers include restaurants, institutional kitchens, and other food-service facilities that rely on brands such as TurboChef, Rational, Hobart, Blodgett, and Alto-Shaam, among dozens of others listed by the company.
+Customers are primarily commercial kitchens — restaurants, institutional cafeterias, and other food-service operations — throughout the two-state region. The company maintains an inventory of major parts to support quick turnaround on repairs.
 
-C&S emphasizes minimizing downtime and states that its team is committed to reliable, high-quality service because it understands that equipment failure is not an option for its clients.
+The firm states that it differentiates itself by genuinely caring about each client’s business and treating equipment downtime as unacceptable, a philosophy that drives its emphasis on reliable, high-quality service.
 
 ## Known for
 - Factory-authorized warranty service for multiple equipment manufacturers
 - Technicians factory-trained and certified in gas, steam, electric, and microwave
-- Primary service area covering most of eastern/central Massachusetts and southern/central New Hampshire
-- Inventory of major parts maintained for rapid repairs
-- Emergency service requests available
+- Primary service area covering eastern/central Massachusetts and southern/central New Hampshire
+- Emergency service requests accepted
+- Inventory of major parts maintained for quick repairs
 
 ## Capabilities
-- Equipment installation
-- Equipment repair
-- Equipment replacement
+- Commercial food equipment installation
+- Commercial food equipment repair
+- Commercial food equipment replacement
 - Factory-authorized warranty service
-- Gas system service
-- Steam system service
-- Electric system service
-- Microwave system service
 - Emergency service response
-- Parts inventory management
 
 ## Industries
 - Commercial food service
-- Restaurant equipment service
-- Institutional kitchen maintenance
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -386,13 +390,16 @@ C&S emphasizes minimizing downtime and states that its team is committed to reli
 <details><summary>Sources</summary>
 
 - Headquarters: Concord, NH -> db
-- Services: installation, repair, replacement, factory-authorized warranty -> /
-- Technician certifications: gas, steam, electric, microwave -> /
 - Service area: eastern/central MA, southern/central NH -> /
-- Brands serviced: TurboChef, Rational, Hobart, etc. -> /
-- Parts inventory maintained -> /
-- Emergency service offered -> /
-- Company description: dedicated to keeping commercial kitchens running -> /
+- Services: installation, repair, replacement -> /
+- Factory-authorized warranty service for listed brands -> /
+- Technicians factory-trained in gas, steam, electric, microwave -> /
+- Emergency service request available -> /
+- Inventory of major parts maintained -> /products
+- Brands serviced: TurboChef, Rational, Hobart, Vulcan-Hart, etc. -> /
+- Company philosophy: genuinely care about client business, downtime unacceptable -> /
+- Hours: Mon-Fri 8:30am-5:00pm -> /
+- Contact info: phone, email -> /
 </details>
 
 ---
@@ -402,28 +409,28 @@ C&S emphasizes minimizing downtime and states that its team is committed to reli
 **Old description:** C&Z Parts was founded on a belief that quality and affordability should work together—not against each other. Over time, we watched well-known brands become increasingly capital-controlled, shifting their focus toward higher margins and shareholder expectations. Quality slipped, service weakened, and customers were left paying more while receiving less.
 
 ## About
-C&Z Parts operates from Natick, Massachusetts, where it was founded on the principle that quality and affordability should complement rather than compete with each other. The company emerged in response to a market shift where established brands, increasingly driven by capital controls and shareholder expectations, began raising prices while letting quality and service decline.
+C&Z Parts operates from Natick, Massachusetts. The company was founded on the principle that quality and affordability should work together, not against each other, after observing that well-known brands had become increasingly capital-controlled, to slipped quality, weakened service, and higher prices for customers.
 
-The firm sources starters and alternators from a vetted network of OEM manufacturers, offering private-label programs, custom application-specific sourcing, and cost-reduction strategies. Every unit undergoes testing and inspection before shipment, and the company emphasizes stable supply chains and consistent performance across its product range. No facility size, headcount, or annual volume figures are disclosed.
+The company distributes starters and alternators for a range of applications, partnering with a select network of established OEM manufacturers known for engineering precision and disciplined quality control. C&Z Parts offers private-label programs, custom sourcing, application support, volume planning, and supply continuity management, aiming to provide OEM-level performance without inflated brand pricing.
 
-C&Z Parts serves B2B customers across utility vehicles, agriculture, heavy-duty trucking and fleets, generator systems, marine equipment, and construction machinery. Its programs are built around businesses that need dependable starting and charging components without the premium pricing of traditional OEM channels.
+Its products serve utility vehicles, agriculture, heavy-duty trucks and fleets, generator systems, marine equipment, and construction machinery. Customers include distributors and resellers, fleet and service operations, rebuilders and specialists, and industrial OEM partners across transportation, equipment, power generation, and specialized applications.
 
-The company positions itself on honest partnership and long-term value, arguing that customers have been left paying more for less as legacy brands prioritize margins. Its stated mission is to provide starter and alternator units as reliable as OEM originals, backed by flexible programs designed to strengthen customer brands and simplify sourcing.
+C&Z Parts emphasizes four differentiators: OEM-grade product quality through carefully selected manufacturing partners and tested products; stable, scalable supply with practical inventory support; competitive total cost by avoiding brand premiums; and responsive partnership with direct communication and flexible solutions from a team that understands B2B requirements.
 
 ## Known for
-- OEM-level quality without inflated OEM pricing
-- Private-label starters and alternators tailored to customer markets
-- Custom application-specific sourcing and specifications
-- Every unit tested and inspected before shipment
-- Flexible B2B programs to strengthen customer brands and simplify sourcing
+- OEM-grade product quality via tested products from selected manufacturing partners
+- Stable, scalable supply with practical inventory support
+- Competitive total cost by avoiding inflated brand premiums
+- Responsive partnership with direct communication and flexible B2B solutions
 
 ## Capabilities
-- Private labeling
-- Custom application-specific sourcing
-- Product testing and inspection
-- Supply chain management
-- Cost reduction programs
-- B2B program development
+- Starter and alternator distribution
+- Private label program management
+- Custom product sourcing
+- Technical application support
+- Volume and inventory planning
+- Quality assurance and testing coordination
+- Supply continuity management
 
 ## Industries
 - Utility Vehicles
@@ -432,6 +439,8 @@ The company positions itself on honest partnership and long-term value, arguing 
 - Generator
 - Marine
 - Construction
+- Transportation
+- Power Generation
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -439,14 +448,14 @@ The company positions itself on honest partnership and long-term value, arguing 
 
 <details><summary>Sources</summary>
 
-- Headquartered in Natick, Massachusetts -> db
-- Founded on belief that quality and affordability should work together -> /
-- Partners with trusted OEM manufacturers to deliver starters and alternators -> /
-- Offers private labeling, custom solutions, cost reduction, quality & supply services -> /
-- Serves utility vehicles, agriculture, heavy duty, generator, marine, construction industries -> /
-- Mission: providing starter and alternators reliable as OEM's -> /
-- Every unit thoroughly tested and inspected -> /
-- Flexible B2B programs to strengthen brand, simplify sourcing, reduce total cost -> /
+- Headquarters in Natick, Massachusetts -> db
+- Founded on belief that quality and affordability should work together -> db
+- Distributes starters and alternators -> /about-us
+- Partners with select network of established OEM manufacturers -> /about-us
+- Offers private-label programs, custom sourcing, application support, volume planning, quality consistency, supply continuity -> /about-us
+- Serves utility vehicles, agriculture, heavy duty, generator, marine, construction -> /
+- Customer types: distributors & resellers, fleets & service operations, rebuilders & specialists, industrial & OEM partners -> /about-us
+- Differentiators: OEM-grade quality, stable scalable supply, competitive total cost, responsive partnership -> /about-us
 </details>
 
 ---
@@ -456,19 +465,20 @@ The company positions itself on honest partnership and long-term value, arguing 
 **Old description:** “We are a family owned and operated business servicing the Northern Illinois area for more than a decade. C A Custom Woodworking Inc. specializes in fine cabinetry, furniture and custom carpentry. We are a custom cabinet shop located in Oswego, IL excelling to provide our customers with dynamic designs and uncompromising quality to produce products that are uniquely yours. Our commitment is true quality with every project. Each project is made with one-of-a-kind craftsmanship by craftsmen who are dedicated and appreciate the fine art of woodworking.
 
 ## About
-CA Custom Woodworking Inc. operates from Oswego, Illinois, where it has served the Northern Illinois region for over a decade. The company is family-owned and operated, founded by Chris Ammenhauser, who traces his woodworking roots to childhood hours in a family barn equipped with a table saw and hand tools. At age 23, Ammenhauser placed a newspaper advertisement for custom bookcases and furniture, launching the venture that would grow into a full-time cabinet shop housed in that same renovated barn.
+CA Custom Woodworking Inc. operates from a converted barn in Oswego, Illinois, serving the Northern Illinois region. The company traces its roots to founder Chris Ammenhauser, who at age 23 placed a newspaper advertisement for custom bookcases and furniture and quickly filled orders. What began as a solo venture in a family barn has grown into a family-owned and operated shop that has been active for more than a decade.
 
-The shop specializes in fine cabinetry, furniture, and custom carpentry, offering services that range from cabinet design and kitchen and bath cabinetry to built-ins, mantels, and residential framing. Its capabilities extend to kitchen and bathroom remodeling, basement finishing, wainscoting, and outdoor structures such as decks and pergolas. All work is produced in the company's barn-based workshop, where a small team of craftsmen handles each project from design through installation.
+The shop specializes in fine cabinetry, furniture, and custom carpentry. Its capabilities span cabinet design, kitchen and bath cabinetry, closets, media wall cabinets, home and office libraries, mantles, lockers, and built-ins. On the carpentry side, the team handles residential framing, kitchen and bathroom remodeling, basement finishing, recessed wall panels and wainscoting, decks, and pergolas. All work is produced in the renovated barn facility, though the company does not disclose headcount or square footage.
 
-The business primarily serves residential customers throughout Northern Illinois, including homeowners undertaking renovations, new-home construction, and custom woodworking projects. Its portfolio spans complete kitchen renovations, custom library installations, and finish carpentry for new builds.
+The primary customers are residential homeowners and builders in Northern Illinois seeking custom woodwork for new construction, renovations, and heirloom-quality pieces. Projects range from complete kitchen renovations to custom-coffered ceilings and built-in library systems.
 
-Ammenhauser emphasizes a genuine passion for the craft and a commitment to true quality on every project, whether built in the shop or installed on-site. The company stands behind its work with a focus on one-of-a-kind craftsmanship intended to outlast a lifetime.
+The company emphasizes a genuine passion for woodworking that it describes as increasingly rare, pledging to stand behind every project whether built in the shop or installed on site. The founding principle was to deliver true quality and one-of-a-kind craftsmanship tailored to each client’s vision.
 
 ## Known for
-- Family-owned and operated with over a decade of service in Northern Illinois
-- Custom cabinetry, furniture, and carpentry produced in a renovated barn workshop
-- Integrated design, build, and installation for residential projects
-- Commitment to true quality and one-of-a-kind craftsmanship on every project
+- Family-owned and operated for over a decade in Northern Illinois
+- Custom cabinetry and carpentry services under one roof
+- Work produced in a renovated historic barn shop
+- Commitment to true quality and one-of-a-kind craftsmanship
+- Stands behind every project, shop-built or field-installed
 
 ## Capabilities
 - Cabinet Design
@@ -476,29 +486,23 @@ Ammenhauser emphasizes a genuine passion for the craft and a commitment to true 
 - Closets
 - Media Wall Cabinets
 - Home/Office Libraries
-- Mantels
+- Mantles
 - Lockers
 - Built-ins
 - Residential Framing
 - Kitchen/Bathroom Remodeling
 - Basement Finishing
 - Recessed Wall Panels/Wainscoting
-- Decks and Pergolas
+- Decks
+- Pergolas
 - Custom Furniture
-- Finish Carpentry
-- Trim Carpentry
+- Custom Carpentry
 
 ## Industries
 - Residential construction
 - Home remodeling
 - Custom cabinetry
-- New home construction
-
-## Equipment
-- Table saw
-- Clamps
-- Hand saws
-- Diesel furnace
+- Finish carpentry
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -507,13 +511,13 @@ Ammenhauser emphasizes a genuine passion for the craft and a commitment to true 
 
 <details><summary>Sources</summary>
 
-- Location: Oswego, Illinois -> /
-- Family-owned and operated -> /
-- Founder Chris Ammenhauser started business at age 23 with newspaper ad -> /about-us
-- Shop housed in renovated family barn -> /about-us
-- Services: cabinet design, kitchen/bath cabinetry, closets, media walls, libraries, mantels, lockers, built-ins, residential framing, remodeling, basement finishing, wainscoting, decks/pergolas -> /services
-- Serves Northern Illinois residential customers -> /
+- Family-owned and operated business servicing Northern Illinois for more than a decade -> /
+- Founder Chris Ammenhauser started business at age 23 via newspaper ad for custom bookcases and furniture -> /about-us
+- Shop located in a renovated old red barn -> /about-us
+- Services: cabinet design, kitchen/bath cabinetry, closets, media wall cabinets, home/office libraries, mantles, lockers, built-ins, residential framing, kitchen/bathroom remodeling, basement finishing, recessed wall panels/wainscoting, decks, pergolas -> /services
+- Headquarters in Oswego, IL -> /
 - Commitment to true quality and one-of-a-kind craftsmanship -> /
+- Genuine passion for work, stand behind every project -> /about-us
 </details>
 
 ---
@@ -523,43 +527,36 @@ Ammenhauser emphasizes a genuine passion for the craft and a commitment to true 
 **Old description:** Since 1970, we have been fixing what fails in the auto industry. Our success is fueled by our commitment to build better parts supported by better service.
 
 ## About
-CARDONE Industries was founded in 1970 by Michael Cardone Sr. and Michael Cardone Jr. in a North Philadelphia storefront. The company began as a remanufacturer of windshield wiper motors, a venture the automotive industry initially dismissed as impossible.
+CARDONE Industries was founded in 1970 by Michael Cardone Sr. and Michael Cardone Jr. in a North Philadelphia storefront. The company began as a remanufacturer of windshield wiper motors, a venture the automotive industry initially dismissed as impossible. Today, the business operates from its headquarters in Philadelphia, Pennsylvania, and remains under family ownership.
 
-Today, CARDONE produces both new and remanufactured automotive components, including power steering systems, brake boosters, rack-and-pinion assemblies, ABS components, brake calipers, drive and prop shafts, control modules, and throttle bodies. Its remanufacturing process involves thorough cleaning, inspection, rebuilding with strengthened wear areas, design improvements to prevent future failures, and rigorous testing. The company operates under the CARDONE New and CARDONE Reman product lines.
+The company specializes in remanufacturing and supplying aftermarket automotive components. Its product lines include power steering components, brake boosters, rack and pinion assemblies, ABS components, brake calipers, drive and prop shafts, control modules, and throttle bodies. The remanufacturing process involves thorough cleaning and inspection of every component, rebuilding with strengthened wear areas and improved designs to prevent future failures, and rigorous functional testing. The catalog spans hundreds of part numbers across both remanufactured and new product categories.
 
-The company serves the automotive aftermarket, supplying auto repair shops, parts retailers, and distributors. Its customer base includes independent repair shops that send in underperforming parts for remanufacturing, as well as wholesale and retail channels that stock CARDONE replacement parts.
+CARDONE serves the automotive aftermarket, supplying auto repair shops, parts distributors, and retailers. Its customers send in underperforming parts for remanufacturing, and the company also provides new replacement components. The business focuses on automotive electronics and mechanical systems, with technical content and training resources aimed at service professionals.
 
-CARDONE emphasizes sustainability, operating on the principles of reduce, reuse, and recycle since its inception. It holds ISO 9001, ISO 14001, and IATF 16949 certifications, and its stated mission is to build better parts supported by better service.
+The company’s founding mission was to fix what fails in the auto industry by building better parts backed by better service. Since its inception, CARDONE has operated on sustainability principles—reduce, reuse, recycle—treating remanufacturing as an environmental responsibility. This approach, combined with design improvements that address common failure points, is cited as a key differentiator. In 2023, the company received a Content Excellence Award at the Knowledge Exchange Conference.
 
 ## Known for
-- Remanufacturing process that strengthens common wear areas and improves original designs
-- Sustainability focus: Reduce, Reuse, Recycle practiced since 1970
-- ISO 9001, ISO 14001, and IATF 16949 certified quality and environmental management
-- Self-service portal for bill of lading generation, returns, and account management
-- Over 50 years of experience in automotive aftermarket parts engineering
+- Remanufacturing process that strengthens wear areas and improves original designs
+- Rigorous functional testing of every remanufactured component
+- Sustainability commitment: Reduce, Reuse, Recycle since 1970
+- Over 50 years of experience in automotive aftermarket parts
+- 2023 Knowledge Exchange Conference Content Excellence Award
 
 ## Capabilities
-- Remanufacturing
-- Cleaning and inspection
-- Component rebuilding and design improvement
-- Product testing
-- New parts manufacturing
-- Power steering component production
-- Brake booster production
-- Rack and pinion assembly
-- ABS component production
-- Brake caliper production
-- Drive and prop shaft production
-- Control module production
-- Throttle body production
+- Automotive component remanufacturing
+- Component cleaning and inspection
+- Design improvement and wear-area strengthening
+- Rigorous functional testing
 - Warranty claims processing
-- Self-service ordering and returns portal
-- Flash programming
+- Online account self-service (Bill of Lading Generator, Returns Portal)
+- Product catalog and pricing management
+- Technical training and content publishing
 
 ## Industries
 - Automotive aftermarket
-- Automotive repair
 - Automotive electronics
+- Auto repair
+- Parts distribution
 
 ## Certifications
 - ISO9001
@@ -569,20 +566,20 @@ CARDONE emphasizes sustainability, operating on the principles of reduce, reuse,
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1970
+- **Ownership:** Family-owned
 - **Headquarters:** Philadelphia, Pennsylvania
 
 <details><summary>Sources</summary>
 
 - Founded 1970 by Michael Cardone Sr. and Jr. in North Philadelphia -> /
-- Started as remanufacturer of windshield wiper motors -> /
-- Produces new and remanufactured auto parts: power steering, brake boosters, rack & pinion, ABS, calipers, drive shafts, control modules, throttle bodies -> /
-- Remanufacturing process: clean, inspect, rebuild with strengthened wear areas, improve design, test -> /
+- Remanufacturing process: clean, inspect, rebuild, strengthen wear areas, improve design, test -> /
+- Product lines: power steering components, brake boosters, rack and pinion, ABS components, brake calipers, drive/prop shafts, control modules, throttle bodies -> /
 - Certifications: ISO9001, ISO14001, IATF16949 -> db
 - Headquarters: Philadelphia, Pennsylvania -> db
-- Sustainability focus: Reduce, Reuse, Recycle -> /
-- Self-service systems: Bill of Lading Generator, Returns Portal -> /
-- Serves automotive aftermarket, auto repair shops, parts retailers -> /
-- Over 50 years experience as industry leader -> /
+- Sustainability: Reduce, Reuse, Recycle since day one -> /
+- Award: 2023 Knowledge Exchange Conference Content Excellence Award -> /
+- Customers: auto shops send parts for remanufacturing -> /
+- Company type: manufacturer of aftermarket auto parts -> /
 </details>
 
 ---

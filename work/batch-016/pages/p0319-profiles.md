@@ -3,34 +3,33 @@
 **Old description:** Cush Suspensions specializes in OEM and aftermarket suspensions for trucks and trailers to help drivers achieve optimized ride quality. We know that every driver is different, so we offer engineered-to-order suspensions along with our standard suspensions.
 
 ## About
-Cush Suspensions operates from Nixa, Missouri, where it designs and manufactures heavy-duty suspension systems for trucks and trailers. The company was established to address a stagnant market by offering engineered-to-order solutions rather than off-the-shelf products, though its founding year and ownership structure are not publicly disclosed.
+Cush Suspensions operates from Nixa, Missouri, where it was founded to challenge a heavy-duty suspension market that had seen little change in decades. The company does not disclose its founding year or ownership structure, but its origin story centers on a decision to engineer suspensions that fit specific applications rather than forcing customers into standard offerings.
 
-The company provides both standard and custom-engineered suspensions, handling design, engineering, and manufacturing in-house at its 1001 Falconcrest Court facility. Its capabilities cover a range of configurations for specific truck, trailer, and operating conditions, with a focus on rapid turnaround from concept to production.
+The company designs and manufactures both engineered-to-order and standard suspension systems for trucks and trailers. Its process begins with listening to the customer's application requirements, then developing a tailored solution through a streamlined engineering and manufacturing workflow. Details on facility size, headcount, annual volumes, or part-number counts are not publicly provided.
 
-Cush serves OEM trailer manufacturers, regional trailer builders, and aftermarket customers across the heavy-duty truck and trailer industry. Notable partners include Globe Trailer, and the company works with clients ranging from regional builders to large-scale OEMs, supplying suspensions for vocational and highway applications.
+Cush serves OEM manufacturers and trailer builders across the heavy-duty transportation sector. Its customer base ranges from regional trailer builders to large-scale OEMs, with cited partnerships including Globe Trailer and Diamond C Trailers. The company also supports aftermarket needs for existing fleets.
 
-Cush differentiates itself by listening to application requirements first and engineering second, emphasizing speed to market, continuous technology integration, and flexibility for unique applications. The company states that its streamlined process delivers the right suspension faster than competitors, and describes its approach as more collaborative and responsive than traditional suspension suppliers.
+Cush differentiates itself by rejecting cookie-cutter approaches in favor of custom-engineered suspensions, emphasizing speed to market, incorporation of the latest technology, and flexibility for unique applications. The company states it was started because the suspension market had stagnated, and it aims to deliver a 'Cush Ride' that is faster, more flexible, and more collaborative than traditional suppliers.
 
 ## Known for
-- Engineered to order, not off the shelf
-- Fastest to market with streamlined engineering and manufacturing
-- Latest and greatest technology integrated into suspensions
-- Custom solutions for unique applications
-- Listen first, engineer second approach
+- Engineered-to-order suspensions tailored to each application
+- Streamlined process for fastest time to market
+- Continuous integration of latest suspension technology
+- Custom configurations for unique truck and trailer applications
+- Partnerships with OEMs and trailer builders like Globe Trailer and Diamond C Trailers
 
 ## Capabilities
 - Engineered-to-order suspension design
-- Standard suspension manufacturing
-- Custom suspension configuration
+- Custom suspension manufacturing
+- Standard suspension production
 - Service and repair
-- OEM suspension supply
-- Aftermarket suspension supply
+- Suspension engineering and manufacturing
 
 ## Industries
-- Heavy-duty trucking
+- Heavy-duty truck manufacturing
 - Trailer manufacturing
 - OEM manufacturing
-- Aftermarket parts
+- Aftermarket suspension
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -38,14 +37,12 @@ Cush differentiates itself by listening to application requirements first and en
 
 <details><summary>Sources</summary>
 
-- Headquarters in Nixa, Missouri -> db
-- Engineered-to-order suspensions -> /
-- Standard and custom suspensions for trucks and trailers -> /
-- Serves OEM manufacturers and trailer builders -> /
-- Client example: Globe Trailer -> /
-- Address: 1001 Falconcrest Court, Nixa, MO 65714 -> /
+- Location: Nixa, MO -> /
+- Business: engineered-to-order and standard suspensions for trucks/trailers -> /
+- Partners: Globe Trailer, Diamond C Trailers -> /
 - Differentiators: engineered to order, fastest to market, latest tech, custom solutions -> /
-- Service and repair offered -> /
+- Industries: OEM manufacturers, trailer builders, aftermarket -> /
+- Address: 1001 Falconcrest Court, Nixa, MO 65714 -> /
 </details>
 
 ---
@@ -55,55 +52,50 @@ Cush differentiates itself by listening to application requirements first and en
 **Old description:** Twenty-five years isn’t just a milestone—it’s proof of consistency, performance, and endurance. At Custom Apparel Source, we
 
 ## About
-Custom Apparel Source was founded in 2001 in Lake Wylie, South Carolina. The company has operated for over 25 years, building a reputation for consistency and endurance in the apparel industry.
+Custom Apparel Source was founded in 2001 in Lake Wylie, South Carolina. The company has operated for over 25 years, building a reputation for consistency in the apparel industry.
 
-The company provides a full apparel production journey under one roof. Services span creative design — logo design, apparel graphics, packaging, and sales collateral — through technical development including consulting, fabric and trim sourcing, pattern making, grading, and tech pack creation. Manufacturing capabilities cover cut-and-sew production both domestically and overseas, plus a range of decoration methods: silk screen and digital fusion printing using environmentally safe processes, high-end industrial embroidery, patch manufacturing (3D, silicone, die-cut, printed, leather), and unique decorations such as hem tags, neck labels, and 3D puff print. Custom sublimation is a stated specialty, with a catalog of sublimated apparel and accessories including t-shirts, footwear, and bags.
+The company provides a full apparel production journey, specializing in custom sublimation printing alongside silk screen/digital fusion, embroidery, and patch decoration. Services extend to pattern development, tech pack creation, fabric and trim sourcing, and cut-and-sew manufacturing both domestically and overseas. Creative offerings include logo design, apparel graphics, packaging design, and sales collateral. The operation functions as a one-stop shop for private label programs and custom sports, corporate, and sublimated apparel lines.
 
-Clients range from brand start-ups and elite sports programs to print shops, advertising agencies, major retail brands, and factories. The company also serves corporate and staff apparel needs with polos, jackets, and event shirts.
+Clients range from brand start-ups and elite sports programs to print shops, advertising agencies, major retail brands, and manufacturing partners. The company cites work with grassroots projects and global brands alike, supporting scaling, product development, and brand launch needs across the apparel sector.
 
-Custom Apparel Source says its differentiation comes from innovation, quality, and smart, sustainable thinking. The firm also highlights client education through resources like flowcharts, industry terminology guides, and a free Pantone color chart.
+Custom Apparel Source emphasizes innovation, quality, and sustainable thinking as differentiators. It positions itself as an educator, providing clients with resources such as flowcharts, industry terminology guides, and a Pantone color chart to streamline the concept-to-finished-product process while managing costs.
 
 ## Known for
-- Custom sublimation specialty
-- Full-service apparel production from design to manufacturing
-- Domestic and overseas cut-and-sew capabilities
-- Environmentally-safe silk screen/digital fusion process
-- High-end industrial embroidery and patch production
+- Custom sublimation printing specialty
+- Full apparel production journey under one roof
+- Domestic and overseas manufacturing options
+- Expert fabric sourcing and trend awareness
+- Client education resources (flowcharts, terminology, Pantone chart)
 
 ## Capabilities
-- Logo design
-- Apparel graphics
-- Packaging design
-- Sales & marketing design
-- Consulting
-- Fabric sourcing
-- Trim sourcing
-- Pattern development
-- Pattern making
-- Grading
-- Tech pack design
-- Cut and sew manufacturing
-- Domestic production
-- Overseas production
-- Silk screen printing
-- Digital fusion printing
+- Custom sublimation printing
+- Silk screen / digital fusion printing
 - Embroidery
-- Patch manufacturing
+- High-quality patches (3D, silicone, die-cut, full color printed, print + embroidery, leather)
 - Unique decoration (hem tags, neck labels, hang tags, care labels, 3D puff print)
-- Sublimation printing
+- Pattern development (pattern making, grading, tech pack design)
+- Cut and sew manufacturing (domestic and overseas)
+- Fabric sourcing (fabric, elastic, trims, thread)
 - Private label solutions
+- Logo design
+- Apparel graphics design
+- Packaging design (custom mailers, stickers, labels, thank you cards)
+- Sales & marketing design (catalogs, social media posts, sell sheets)
+- Consulting
+- Custom sports apparel
+- Corporate/staff apparel
+- Sublimation apparel catalog
 
 ## Industries
-- Brand start-ups
-- Elite sports programs
-- Print shops
-- Ad agencies
-- Major retail brands
-- Factories
-- Corporate staff apparel
+- Apparel
+- Sports
+- Retail
+- Printing
+- Advertising
+- Manufacturing
 
 ## Equipment
-- High-end industrial embroidery machines
+- Industrial embroidery machines
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -114,13 +106,16 @@ Custom Apparel Source says its differentiation comes from innovation, quality, a
 
 - Founded in 2001 -> db
 - Headquarters in Lake Wylie, South Carolina -> db
+- 25 years of experience -> /
 - Custom sublimation specialty -> /
-- Full apparel production journey including design, pattern development, tech packs, fabric sourcing, sublimation printing, private label, full-scale manufacturing -> /
-- Services: logo design, apparel graphics, packaging design, sales & marketing design, consulting, fabric sourcing, trim sourcing, pattern development, pattern making, grading, tech pack design, cut and sew manufacturing, domestic production, overseas production, silk screen printing, digital fusion printing, embroidery, patch manufacturing, unique decoration, sublimation printing, private label solutions -> /services
-- Industries served: brand start-ups, elite sports programs, print shops, ad agencies, major retail brands, factories -> /
-- Equipment: high-end industrial embroidery machines -> /services
-- Materials: fabric, elastic, trims, thread -> /services
-- Differentiators: innovation, top-tier quality, sustainable thinking, client education resources -> /
+- Full apparel production journey including pattern development, tech packs, fabric sourcing, sublimation printing, private label, full-scale manufacturing -> /
+- Services: logo design, apparel graphics, packaging design, sales & marketing design -> /services
+- Pattern development, cut and sew manufacturing domestic and overseas -> /services
+- Printing: silk screen/digital fusion, embroidery, patches, unique decoration -> /services
+- Client types: brand start-ups, elite sports programs, print shops, ad agencies, major retail brands, factories -> /
+- One-stop shop for apparel, creative and manufacturing needs -> /services
+- Industrial embroidery machines -> /services
+- Fabric, elastic, trims, thread sourcing -> /services
 </details>
 
 ---
@@ -130,66 +125,57 @@ Custom Apparel Source says its differentiation comes from innovation, quality, a
 **Old description:** We custom-build the highest quality cables right here in the USA.
 
 ## About
-Custom Battery Cables LLC operates from Mesa, Arizona, where founder Vince launched the business in 2003 from a spare room in his home. The venture traces back to the late 1970s when Vince, then a student in a diesel and heavy equipment program at Maricopa Technical Community College, could not find quality battery cables for his 1948 Willy’s CJ-2A and began building his own. He later made cables for heavy construction equipment while working as a mechanic for firms such as Mountain Bell and Sunstate Equipment, then spent 29 years at Intel in electronics engineering roles before turning the side project into a full-time operation.
+Custom Battery Cables LLC operates from Mesa, Arizona. The business was launched in 2003 by founder Vince, who began building cables for his own 1948 Willy’s CJ‑2A while studying diesel and heavy‑equipment technology at Maricopa Technical Community College. After a career as a mechanic for firms such as Mountain Bell and Sunstate Equipment, and a 29‑year tenure at Intel in electronics engineering, Vince started the company from a spare room in his home.
 
-The company hand-builds made-to-order battery cables for cars, trucks, boats, RVs, golf carts, solar installations, and heavy equipment. Using SAE SGT, SGX, or marine-grade cable, each assembly is cut to the customer’s exact length and terminated with heavy-duty lugs and heat-shrink protection. A small team of seven — including a manufacturing manager, shipping lead, marketing lead, and several technicians — produces custom kits for specific vehicle models as well as alternator cables, all assembled in-house without outsourcing.
+The shop hand‑builds made‑to‑order battery cables for cars, trucks, boats, RVs, golf carts, solar installations and heavy equipment. Cables are assembled to the customer’s exact length using SAE SGT, SGX or marine‑grade wire, and the company also produces alternator wires with fuse links. A team of seven — including a manufacturing manager, shipping lead, marketing lead and several technicians — handles production, assembly and customer support.
 
-Customers span automotive, marine, solar, and heavy-equipment sectors, from classic-car restorers and high-output engine builders to snowplow operators and RV owners. The shop also serves bulk buyers through a dedicated bulk-order channel, supplying cables for fleet maintenance, construction equipment, and industrial applications.
+The primary markets are automotive, marine, solar, recreational vehicle, golf‑cart and heavy‑equipment sectors. Customers range from individual owners restoring classic vehicles or upgrading high‑output engines to commercial buyers placing bulk orders for fleet or industrial use. The company explicitly invites bulk inquiries alongside its direct‑to‑consumer sales.
 
-Vince started the business because store-bought cables consistently fell short on durability; his original cables lasted 20 years without corrosion or overheating. The company emphasizes that it uses higher-grade wire than typical OEM or auto-parts-store offerings, avoids cost-cutting on materials, and builds each cable to withstand extreme temperatures and demanding starting conditions.
+Vince’s guiding principle, drawn from a mentor’s advice, is to “solve the customer’s problem” — whether that means fixing a hard‑starting snowplow or supplying show‑quality cables. The company differentiates itself by using heavier, higher‑grade wire than typical OEM or auto‑store cables, refusing to cut corners on materials, and building each cable to withstand extreme temperatures and demanding electrical loads.
 
 ## Known for
-- Hand-built in the USA using SAE SGT, SGX, or marine-grade cable
-- Custom-made to exact length for each order
-- Higher-grade wire than standard OEM or auto-parts-store cables
-- No cost-cutting on materials or construction
-- Designed for extreme temperatures and heavy-duty starting conditions
+- Custom‑made to exact length
+- No cutting corners on materials
+- Built for demanding conditions (extreme temperatures, older batteries/starters)
+- Higher‑grade wire than OEM or auto‑store cables
+- Handcrafted in the USA
 
 ## Capabilities
 - Custom battery cable manufacturing
-- Hand assembly and crimping
-- Cable cutting to custom length
-- Terminal and lug attachment
-- Heat-shrink application
-- Custom cable kit assembly for specific vehicle models
-- Alternator cable manufacturing
+- Hand‑built cable assembly
+- Cable customization to exact length
+- Use of SAE SGT, SGX, and marine‑grade cable
+- Alternator cable assembly with fuse links
 - Bulk order fulfillment
 
 ## Industries
 - Automotive
 - Marine
 - Solar
+- Recreational vehicles (RV)
+- Golf cart
 - Heavy equipment
-- Construction equipment
-- Recreational vehicles (RVs)
-- Golf carts
 - Classic car restoration
-- High-performance automotive
-- Snowplow equipment
+- High‑performance engines
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 2003
 - **Employees:** 7
-- **Ownership:** Founder-owned
+- **Ownership:** Founder‑owned
 - **Headquarters:** Mesa, Arizona
 
 <details><summary>Sources</summary>
 
-- Headquarters in Mesa, Arizona -> db
-- Founded in 2003 -> /about-us
-- Founder Vince started building cables in late 1970s for his 1948 Willy's CJ-2A -> /about-us
-- Vince worked as mechanic 1979-1985 for Mountain Bell, Naumann-Clark, Sunstate Equipment -> /about-us
-- Vince worked at Intel for 29 years in electronics engineering -> /about-us
-- Launched Custom Battery Cables in 2003 from spare room -> /about-us
-- Hand-builds made-to-order battery cables for cars, trucks, boats, RVs, golf carts, solar systems -> /about-us and /
-- Uses SAE SGT, SGX, or marine-grade cable -> /about-us and /
-- Custom-made to exact length -> /
-- Team of seven: Vince, Brennon, Denise, Lex, Deanna, Bryce, Cheyanne -> /about-us
-- Serves automotive, marine, solar, heavy equipment, construction, RV, golf cart, classic car, high-performance, snowplow -> / and /about-us
-- Offers bulk order channel -> /
-- Differentiators: higher-grade wire than OEM/auto store, no cutting corners, built for extreme conditions -> /
-- Founder's original cables lasted 20 years without corrosion -> /about-us
+- Location: Mesa, Arizona -> db
+- Founded 2003 by Vince -> /about-us
+- Founder background: mechanic, Intel engineer -> /about-us
+- Hand‑built custom battery cables -> /
+- Materials: SAE SGT, SGX, marine‑grade cable -> /
+- Team of seven named employees -> /about-us
+- Industries served: automotive, marine, solar, RV, golf cart, heavy equipment -> /
+- Differentiators: custom length, no cutting corners, demanding conditions, higher‑grade wire -> /
+- Philosophy: solve the customer's problem -> /about-us
 </details>
 
 ---
@@ -199,43 +185,42 @@ Vince started the business because store-bought cables consistently fell short o
 **Old description:** Custom Cables, Inc was founded in 1990 to provide cable assembly solutions to a select group of local manufacturing
 
 ## About
-Custom Cables, Inc. was founded in 1990 in Laurel, Maryland, by Marian Spahr, who remains president. The woman-owned business began as a cable assembly provider for local manufacturers and has since grown into a full-service contract manufacturer for the electronic manufacturing services (EMS) market.
+Custom Cables, Inc. was founded in 1990 in Laurel, Maryland, by Marian Spahr, who remains president. The woman-owned business began as a cable assembly provider for local manufacturers and has since grown into a full-service contract manufacturer.
 
-The company produces custom cable assemblies, wiring harnesses, and mechanical assemblies from a 9,000-square-foot fully automated facility equipped for AMP, Molex, 3M, and JST connectors. Services include engineering assistance for schematics and routing, reverse engineering, component cross-referencing, and component sourcing. Production runs range from small quantities to high volumes.
+The company produces custom cable assemblies, wiring harnesses, and mechanical assemblies, supported by engineering services such as schematic creation, routing instructions, reverse engineering, component cross-referencing, and sourcing. Operations run from a fully automated 9,000-square-foot facility equipped for AMP, Molex, 3M, and JST tooling, handling low-, medium-, and high-volume production runs.
 
-Custom Cables serves the EMS sector and broader electronics industry, supporting original equipment manufacturers and other contract manufacturers with outsourced assembly solutions.
+Custom Cables serves the electronic manufacturing services (EMS) market, supplying original equipment manufacturers and other contract manufacturers that require outsourced cable and harness production.
 
-The firm emphasizes a "Quality Conscience" culture, continuous improvement, and quick turnaround on requests for quote and production timelines. Certifications include RoHS compliance, WHMA/IPC-A-620 for cable and wire harness assemblies, and IPC-A-610D for electronic assembly acceptability.
+The firm emphasizes a “quality conscience” built around WHMA/IPC‑A‑620 and IPC‑A‑610D standards, maintains RoHS compliance, and promotes quick turnaround on requests for quote and adherence to production schedules.
 
 ## Known for
 - Woman-owned contract manufacturer
-- 9,000 sq ft fully automated assembly facility
+- Fully automated 9,000 sq ft assembly facility for AMP, Molex, 3M, JST
 - Quick turn on RFQs and production timelines
-- WHMA/IPC-A-620 and IPC-A-610D certified
-- Engineering assistance and reverse engineering services
+- Quality program per WHMA/IPC-A-620 and IPC-A-610D
+- Engineering support including reverse engineering and component sourcing
 
 ## Capabilities
 - Cable assembly
 - Wiring harness assembly
 - Mechanical assembly
-- Engineering services (schematics, routing)
+- Engineering design assistance (schematics, routing)
 - Reverse engineering
-- Component cross referencing
+- Component cross-referencing
 - Component sourcing
-- Low volume production
-- Medium volume production
-- High volume production
-- Automated assembly for AMP, Molex, 3M, JST connectors
-- Quality inspection per WHMA/IPC-A-620
-- Quality inspection per IPC-A-610D
-- RoHS compliance
+- Low-volume production
+- Medium-volume production
+- High-volume production
+- Automated assembly (AMP, Molex, 3M, JST)
 
 ## Industries
 - Electronic Manufacturing Services (EMS)
-- Electronics
 
 ## Equipment
-- Automated assembly lines for AMP, Molex, 3M, JST connectors
+- AMP automated assembly equipment
+- Molex automated assembly equipment
+- 3M automated assembly equipment
+- JST automated assembly equipment
 
 ## Certifications
 - RoHS
@@ -250,18 +235,18 @@ The firm emphasizes a "Quality Conscience" culture, continuous improvement, and 
 
 <details><summary>Sources</summary>
 
-- Founded 1990 -> db
-- Headquarters Laurel, Maryland -> db
-- Woman-owned -> /
-- Founder Marian Spahr -> /
-- 9,000 sq ft automated facility -> /
-- Services: cable assemblies, wiring harnesses, mechanical assembly -> /
-- Engineering assistance, reverse engineering, component sourcing -> /
-- Low/medium/high volume production -> /
-- Certifications: RoHS, WHMA/IPC-A-620, IPC-A-610D -> /
-- Quick turn on RFQs -> /
-- Serves EMS market -> /
-- Quality Conscience culture -> /
+- Founded 1990 -> db (founded_year) and homepage 'Since 1990'
+- Headquarters Laurel, Maryland -> db (hq_city, hq_state_label)
+- Woman-owned -> homepage 'Woman-Owned Contract Manufacturer'
+- Founder Marian Spahr -> homepage 'Marian Spahr Founder and President'
+- Services: cable assemblies, wiring harnesses, mechanical assemblies -> homepage and products list
+- Engineering services: schematics, routing, reverse engineering, component cross-referencing, sourcing -> products list
+- Facility: fully automated 9000 sq ft for AMP, Molex, 3M, JST -> products list
+- Volumes: low, medium, high -> products list
+- Industries: EMS market -> homepage 'EMS market'
+- Certifications: RoHS, WHMA/IPC-A-620, IPC-A-610D -> certifications db and products list
+- Quality program: WHMA/IPC-A-620, IPC-A-610D -> products list
+- Quick turn on RFQs -> homepage 'quick turn on RFQ's'
 </details>
 
 ---
@@ -271,28 +256,28 @@ The firm emphasizes a "Quality Conscience" culture, continuous improvement, and 
 **Old description:** With more than 25 years  of specialized experience in the hospitality industry, Custom  Design AZ.  has the knowledge and resources to fit your particular needs, we offer custom furniture design services.
 
 ## About
-Custom Design AZ LLC operates from Phoenix, Arizona. The company has accumulated more than 25 years of specialized experience in the hospitality industry, though a specific founding year is not publicly disclosed. Ownership details and founder names have not been shared.
+Custom Design AZ LLC, doing business as Restaurant Booths Phoenix AZ, operates from a Phoenix, Arizona location on West Thomas Road. The company states it has accumulated more than 25 years of specialized experience in the hospitality industry, though an exact founding year is not disclosed. Information about ownership structure, founders, or the circumstances of its start is not provided in the available sources.
 
-The shop provides custom furniture design and fabrication services, focusing on restaurant seating and interior elements. Its capabilities include internal and external upholstery, handmade furniture construction, complete refurbishment of existing pieces, custom restaurant booth production, and finish carpentry combined with upholstery work. No facility size, headcount, or annual volume figures are published.
+The business centers on custom furniture design and fabrication for restaurant interiors. Its capabilities include all internal and external upholstery work, handmade furniture construction, complete refurbishment of existing fixtures, and custom restaurant booth manufacturing. The shop also offers finish carpentry paired with upholstery, suggesting a combined woodworking and soft-goods operation. No details on facility square footage, employee count, production volumes, or part-number catalogs are given.
 
-The primary customer base consists of hospitality businesses, particularly restaurants seeking tailored booth seating and interior furnishings. The company also serves clients needing refurbishment of existing furniture assets.
+The company serves the hospitality industry, with a clear focus on restaurant operators needing booth seating and related millwork. The website does not reference other sectors or provide concrete examples of past customers or projects.
 
-Custom Design AZ emphasizes the use of high-quality materials, a satisfaction guarantee, and affordable pricing as its distinguishing commitments. The firm positions its long industry tenure as a foundation for understanding the specific demands of hospitality environments.
+In describing its approach, the company highlights high-quality materials, a satisfaction guarantee, and affordable prices as its core commitments. It does not elaborate on a specific founding mission or a differentiated technical advantage beyond its stated experience and service breadth.
 
 ## Known for
-- 25+ years hospitality industry experience
-- Custom restaurant booth fabrication
-- Complete furniture refurbishment services
-- Handmade furniture production
-- High-quality materials with satisfaction guarantee
+- More than 25 years of specialized hospitality industry experience
+- Custom furniture design services
+- All internal and external upholstery
+- Handmade furniture fabrication
+- Complete refurbishment and custom carpentry & upholstery
 
 ## Capabilities
-- Internal and external upholstery
-- Handmade furniture
-- Complete refurbishment
-- Custom restaurant booths
-- Custom carpentry and upholstery
 - Custom furniture design
+- Internal and external upholstery
+- Handmade furniture fabrication
+- Complete refurbishment
+- Custom restaurant booth manufacturing
+- Custom carpentry and upholstery
 
 ## Industries
 - Hospitality
@@ -304,94 +289,57 @@ Custom Design AZ emphasizes the use of high-quality materials, a satisfaction gu
 
 <details><summary>Sources</summary>
 
-- Location: Phoenix, Arizona -> db
-- More than 25 years experience in hospitality industry -> /
-- Services: internal/external upholstery, handmade furniture, complete refurbishment, custom restaurant booths, custom carpentry & upholstery -> /
-- High quality materials, satisfaction guaranteed, affordable prices -> /
-- Custom furniture design services -> /
+- Location: Phoenix, Arizona (3126 West Thomas Road, Suite 103) -> /
+- More than 25 years of specialized experience in hospitality industry -> /
+- Services: custom furniture design, internal/external upholstery, handmade furniture, complete refurbishment, custom restaurant booths, custom carpentry & upholstery -> /
+- Industries served: hospitality, restaurant -> /
+- Company emphasizes high-quality materials, satisfaction guarantee, affordable prices -> /
+- No founding year, ownership, founders, employee count, certifications, equipment, materials, volume, lead time, tolerances, cage code, min order, export compliance, languages, social links found -> /
 </details>
 
 ---
 
 # Custom Fabrication Inc
 
-**Old description:** At Custom Fabrication Inc, we specialize in the fabrication of aluminum, stainless, and other metals. Our services include welding, laser cutting, forming, and shearing to create custom parts and components for your project. With our state-of-the-art equipment, we can create high-quality metal products that meet your exact specifications.
-
-## About
-Custom Fabrication Inc operates from a facility on Sharon Street in Kenner, Louisiana. The company provides custom metal fabrication services, though its founding year and ownership structure are not publicly disclosed.
-
-The shop specializes in fabricating aluminum, stainless steel, and other metals for a variety of applications. Its core processes include welding, laser cutting, forming, and shearing, allowing it to produce custom parts and components to customer specifications. The company describes its equipment as state-of-the-art but does not publish facility size, headcount, or annual volume figures. Operating hours are Monday through Thursday, 5:30 a.m. to 4:00 p.m., with the shop closed Friday through Sunday.
-
-Custom Fabrication Inc serves customers requiring custom metal parts and components, though specific industries or named clients are not listed. The business emphasizes open communication and tailoring services to each project’s needs.
-
-The company states its mission is to provide high-quality services through honest and efficient work, aiming to exceed client expectations on every project.
-
-## Known for
-- Honest and efficient work
-- Open communication and exceptional service
-- State-of-the-art equipment
-
-## Capabilities
-- Welding
-- Laser cutting
-- Forming
-- Shearing
-
-## Company details
-- **Company Type:** Contract manufacturer / job shop
-- **Headquarters:** Kenner, LA
-
-<details><summary>Sources</summary>
-
-- Location: Kenner, LA -> /
-- Processes: welding, laser cutting, forming, shearing -> /
-- Materials: aluminum, stainless steel, other metals -> /
-- Mission: honest & efficient work, open communication -> /
-- Hours: Mon-Thu 5:30am-4pm -> /
-- Website: http://www.custom-fab.com/ -> db
-</details>
-
----
+_skipped: not enough facts_
 
 # Custom Fabricators,Inc.- Metal Fabrication
 
 **Old description:** We can manufacture metal parts from a Blueprint, a DXF File, or a Virtual Concept.  We provide high precision sheet metal fabrication. We are one of the most respected custom metal fabricators in the area.
 
 ## About
-Custom Fabricators, Inc. is based in Linden, New Jersey, where it runs a precision custom metal fabrication and finishing operation. The company does not publish its founding date, ownership structure, or founder names in its public materials.
+Custom Fabricators, Inc. operates from a facility on Commerce Road in Linden, New Jersey. The company does not publish a founding year, ownership structure, or founder names.
 
-Its core business is high-precision sheet metal fabrication, turning customer blueprints, DXF files, or virtual concepts into finished metal parts. The shop offers fabrication and finishing services, though details such as equipment list, facility square footage, headcount, or typical production volumes are not disclosed.
+The shop provides precision custom metal fabrication and finishing, producing parts from customer-supplied blueprints, DXF files, or virtual concepts. Its capabilities center on high-precision sheet metal fabrication, though the company does not disclose facility size, headcount, or annual volumes. The website notes that estimates are customized to each project's goals and budget.
 
-The company targets customers needing custom metal components across unspecified sectors; no particular industries or reference clients are identified in its available information.
+No specific industries or customer types are listed in the company's public materials. The business presents itself as a general custom fabricator for any client needing metal parts made to print, with no mention of sectors such as aerospace, medical, or automotive.
 
-Custom Fabricators highlights domestic manufacturing, labeling its output 'Made in the USA,' and positions itself as one of the most respected custom metal fabricators in the region. It also notes that it provides customized estimates tailored to each project's goals and budget.
+The company emphasizes that its work is "Made in the USA" and describes itself as one of the most respected custom metal fabricators in the area, though it does not elaborate on its founding history or specific differentiators beyond input flexibility. Hours of operation are listed as 7:00 a.m. to 4:30 p.m.
 
 ## Known for
-- Accepts blueprints, DXF files, or virtual concepts for part production
+- Accepts blueprints, DXF files, and virtual concepts for part production
 - High-precision sheet metal fabrication
-- Made in the USA manufacturing
-- Customized estimates aligned with project goals and budget
+- Made in the USA
 
 ## Capabilities
-- Precision metal fabrication
-- Sheet metal fabrication
+- Precision custom metal fabrication
 - Metal finishing
-- CAD/DXF file-based manufacturing
+- Sheet metal fabrication
 
 ## Company details
-- **Company Type:** Manufacturer
-- **Headquarters:** Linden, NJ
+- **Company Type:** Contract manufacturer / job shop
+- **Headquarters:** Linden, New Jersey
 
 <details><summary>Sources</summary>
 
-- Company name: Custom Fabricators, Inc. -> /
-- Location: Linden, New Jersey -> db, /
-- Business: precision custom metal fabrication & finishing -> /
-- Capability: manufacture metal parts from blueprint, DXF file, or virtual concept -> /
-- Capability: high precision sheet metal fabrication -> /
-- Claim: Made in the USA -> /
-- Claim: one of the most respected custom metal fabricators in the area -> /
-- Service: customized estimates fitting goals and budget -> /
+- Location: Linden, New Jersey -> db
+- Address: 400 Commerce Road, Linden, NJ 07036 -> /
+- Capabilities: Precision custom metal fabrication & finishing -> /
+- Input methods: Blueprint, DXF file, virtual concept -> /
+- Claim: High precision sheet metal fabrication -> /
+- Claim: One of the most respected custom metal fabricators in the area -> /
+- Made in the USA -> /
+- Hours: 7:00 am – 4:30 pm -> /
 </details>
 
 ---
@@ -401,44 +349,46 @@ Custom Fabricators highlights domestic manufacturing, labeling its output 'Made 
 **Old description:** For nearly three decades, Custom Foods Inc. ™ has been a trusted leader in frozen dough solutions, providing high-quality food to pizza chains, grocery stores, restaurants, schools, hospitals, convenience stores, foodservice distributors, and retail partners nationwide and beyond. Headquartered in De Soto, Kansas, just outside Kansas City, Custom Foods Inc. ™ specializes in high-volume frozen dough manufacturing, including pizza dough, breads, dinner rolls, tortillas, pita, naan, cookies, cookie cakes, and custom co-pack food production.
 
 ## About
-Custom Foods, Inc. is headquartered in De Soto, Kansas, just outside Kansas City. The company was founded in 1997 by entrepreneur Joe Bisogno, who also founded the Goodcents restaurant brand. What began as a focused bread dough operation has grown into a diversified frozen dough manufacturer serving customers across North America and abroad.
+Custom Foods, Inc. was founded in 1997 by entrepreneur Joe Bisogno in De Soto, Kansas, just outside Kansas City. The company began as a focused bread dough operation and has remained founder-owned throughout its nearly three decades of operation.
 
-The company operates a 71,000-square-foot automated production campus that includes a 50,000-square-foot main production facility and a 21,000-square-foot adjacent ingredient warehouse. Its capabilities cover high-volume frozen dough manufacturing — pizza dough, breads, dinner rolls, tortillas, pita, naan, cookies, and cookie cakes — along with custom formulation, co-packing, and private label production. The facility features blast freezing capacity of 22,500 pounds per hour, dough dividing from 1.25 to 40 ounces, dual 1,400-pound horizontal roller-bar mixers for pizza dough, and a bread dough dual-line fed by two 1,600-pound mixers producing 1,100 dinner rolls per minute. An in-house R&D lab and test kitchen support product development.
+The company operates a 71,000-square-foot automated frozen dough manufacturing facility with an adjacent 21,000-square-foot ingredient warehouse. Production capabilities include blast freezing at 22,500 pounds per hour, dough dividing from 1.25 to 40 ounces, dual 1,400-pound horizontal roller-bar mixers for pizza dough, and a bread dough line producing 1,100 dinner rolls per minute. The product portfolio spans pizza dough, breads, dinner rolls, tortillas, pita, naan, cookies, cookie cakes, and custom co-pack formulations, supported by an in-house R&D lab and test kitchen.
 
-Custom Foods serves pizza chains, grocery stores, restaurants, schools, hospitals, convenience stores, foodservice distributors, and retail partners. Its customer base ranges from regional operators to national brands, including foodservice operators, restaurant chains, retailers, and institutional customers. The Founder’s Pride™ line provides ready-to-order frozen dough products for distribution and foodservice operations nationwide.
+Custom Foods serves pizza chains, grocery stores, restaurants, schools, hospitals, convenience stores, foodservice distributors, and retail partners across North America. Customers range from regional operators to national brands seeking private-label manufacturing, custom formulations, co-packing services, or ready-to-order products under the Founder’s Pride line.
 
-The company emphasizes its founder-owned structure as a source of flexibility and personal service. It holds SQF Level A certification, an AIB Superior rating, and Kosher certification, and operates a HACCP-based food safety system with critical control point monitoring. Its central U.S. location is cited for competitive shipping rates, and the business model is built around long-term production partnerships rather than transactional orders.
+The company emphasizes partnership over transactional manufacturing, working alongside customers to align products with their recipes, operational needs, and brand standards. Its SQF Level A and AIB Superior rated facility, central U.S. location for competitive shipping, and founder-owned flexibility are cited as key differentiators.
 
 ## Known for
-- SQF Level A and AIB Superior certified facility
-- Kosher certified
-- 71,000 sq ft automated production facility with dedicated ingredient warehouse
-- In-house R&D lab and test kitchen for custom formulations
-- Central U.S. location for competitive shipping rates
+- SQF Level A and AIB Superior rated facility
+- Blast freezing capacity of 22,500 lbs of dough per hour
+- Central U.S. location enabling competitive shipping rates
+- Founder-owned structure providing personal service and flexibility
+- In-house R&D lab and test kitchen for custom formulation development
 
 ## Capabilities
-- Frozen dough manufacturing
-- Custom formulation
+- Custom formulation development
 - Co-packing services
-- Private label manufacturing
-- Ready-to-order products (Founder's Pride brand)
-- Blast freezing (22,500 lbs/hour)
-- Dough dividing (1.25 oz to 40 oz)
-- Pizza dough line with dual 1400 lb horizontal roller-bar mixers
-- Automated dough delivery system
-- Dual in-line high-speed process with check weighing and metal detection
-- Bread dough dual-line with two 1600 lb horizontal roller-bar mixers (1,100 dinner rolls/minute)
-- Cookie dough production (multiple formats)
+- Ready-to-order frozen dough products (Founder's Pride)
+- Frozen pizza dough manufacturing
+- Frozen bread and roll dough manufacturing
+- Frozen cookie dough manufacturing
+- Tortilla production
+- Pita production
+- Naan production
+- Blast freezing
+- Automated high-speed dough processing
+- Dough dividing (1.25–40 oz)
 - Custom packaging solutions
 - Custom case labeling
-- Automated bulk flour receiving, storage, and delivery (200,000 lb capacity)
+- Critical control point monitoring (HACCP-based)
+- Batch traceability and quality verification
+- Preventive quality assurance systems
+- Third-party audits
+- Automated bulk flour receiving, storage, and delivery
 - Cold storage (10,000 sq ft)
 - Temperature-controlled dry storage (21,000 sq ft)
-- HACCP-based food safety system
-- Critical control point monitoring
-- Preventive quality assurance
-- Third-party audits
-- Ingredient management and inventory systems
+- Scalable production scheduling
+- In-house product development and formulation support
+- Dedicated R&D lab and test kitchen
 
 ## Industries
 - Pizza chains
@@ -453,48 +403,48 @@ The company emphasizes its founder-owned structure as a source of flexibility an
 - Restaurant chains
 - Retailers
 - Institutional customers
-- Regional operators
-- National brands
 
 ## Equipment
-- Dual 1400 lb horizontal roller-bar mixers
+- Dual 1,400 lb horizontal roller-bar mixers
 - Automated dough delivery system
+- State-of-the-art pizza dough line
 - Dual in-line high-speed process with check weighing and metal detection
-- Two 1600 lb horizontal roller-bar mixers
-- Blast freezing system (22,500 lbs/hour)
-- Automated bulk flour receiving, storage, and delivery system
-- State-of-the-art cookie dough line (coming soon)
+- Bread dough dual-line fed by two 1,600 lb horizontal roller-bar mixers
+- Automated high-speed processing equipment
+- Blast freezing system (22,500 lbs/hour capacity)
+- 200,000 lb capacity automated indoor bulk flour receiving, storage, and delivery system
+- Dedicated R&D lab and test kitchen
+- New state-of-the-art cookie dough line (coming soon)
 
 ## Certifications
-- SQF Level A Certified
-- AIB Superior Rated
+- SQF Certified
 - Kosher Certified
+- SQF Level A Certified Facility
+- AIB Superior Rated
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1997
-- **Ownership:** Founder-owned (Joe Bisogno)
+- **Ownership:** Founder-owned
 - **Headquarters:** De Soto, Kansas
 
 <details><summary>Sources</summary>
 
-- Founded 1997 by Joe Bisogno -> /about-us
-- Headquartered in De Soto, Kansas -> / (home page)
-- 71,000 sq ft automated production facility -> / (home page)
-- 50,000 sq ft main facility + 21,000 sq ft ingredient warehouse -> /capabilities
+- Founded 1997 -> /about-us
+- Founder Joe Bisogno -> /about-us
+- Headquartered De Soto, Kansas -> /about-us
+- SQF Certified and Kosher Certified -> /
+- 71,000-square-foot automated production facility -> /
 - Blast freezing capacity 22,500 lbs/hour -> /capabilities
-- Dough dividing range 1.25 oz to 40 oz -> /capabilities
-- Pizza dough line with dual 1400 lb horizontal roller-bar mixers -> /capabilities
-- Bread dough dual-line with two 1600 lb mixers, 1,100 dinner rolls/minute -> /capabilities
-- SQF Level A Certified, AIB Superior Rated, Kosher Certified -> / (home page) and /capabilities
-- Industries served: pizza chains, grocery stores, restaurants, schools, hospitals, convenience stores, foodservice distributors, retail partners -> / (home page) and /about-us
-- Founder's Pride ready-to-order product line -> / (home page)
+- Dough dividing range 1.25–40 oz -> /capabilities
+- Dual 1,400 lb horizontal roller-bar mixers -> /capabilities
+- Bread dough line 1,100 dinner rolls per minute -> /capabilities
+- SQF Level A and AIB Superior rated -> /capabilities
+- Central US location competitive shipping -> /capabilities
+- Founder-owned company -> /
 - In-house R&D lab and test kitchen -> /capabilities
-- Central US location for competitive shipping -> /capabilities
-- Automated bulk flour receiving 200,000 lb capacity -> /capabilities
-- Cold storage 10,000 sq ft, dry storage 21,000 sq ft -> /capabilities
-- HACCP-based food safety system, critical control point monitoring -> /capabilities
-- Custom formulation and co-packing services -> / (home page) and /capabilities
+- Customer types: pizza chains, grocery stores, restaurants, schools, hospitals, convenience stores, foodservice distributors, retail partners -> /
+- Private label, custom formulation, co-packing, ready-to-order -> /
 </details>
 
 ---
@@ -504,45 +454,36 @@ The company emphasizes its founder-owned structure as a source of flexibility an
 **Old description:** Custom Metals is a family-owned company, in business since 1980 based in Madison Wi.
 
 ## About
-Custom Metals Inc., a family-owned metal fabrication and restoration shop, has operated from Madison, Wisconsin since 1980. The company began as a small operation focused on ornamental metalwork and has grown to serve both residential and commercial clients across the region.
+Custom Metals Inc. is a family-owned metal fabrication shop founded in 1980 and based in Madison, Wisconsin. The company began as a small operation focused on custom ornamental metalwork and has remained under family ownership for over four decades.
 
-The shop provides in-house design, fabrication, restoration, and installation of custom metalwork. Its portfolio spans cable rail systems, wrought iron gates, aluminum stairways, pewter and zinc surfaces, steel fireplaces, copper stove hoods, glass railings, and architectural signage. The team works with a range of metals including stainless steel, copper, and aluminum, producing one-off pieces and moderate production runs for architects, designers, and contractors.
+The shop provides design, fabrication, restoration, and installation services for residential and commercial projects. Its work spans ornamental railings, stairways, fireplace surrounds, stove hoods, bar tops, signage, and decorative metal pieces in materials such as steel, stainless steel, aluminum, copper, pewter, zinc, wrought iron, and glass. The facility handles projects from concept through installation, though specific facility size, headcount, and annual volume are not disclosed.
 
-Custom Metals serves residential homeowners, commercial businesses, and historical restoration projects. Residential work includes handrails, dining tables, fireplace surrounds, and kitchen hoods. Commercial clients such as restaurants and retail spaces commission bar tops, safety railings, and exterior signage. The company has collaborated with design firms like H. Krueger & Associates and completed projects for customers in Middleton and Madison, Wisconsin.
+Customers include homeowners, interior designers, architects, and commercial businesses. Notable clients referenced include H. Krueger & Associates, an interior design firm, and individual residential customers in Middleton and Madison, Wisconsin. The company also serves restoration projects for historic and legacy metalwork in the community.
 
-The company emphasizes that every project receives a unique solution, drawing on over four decades of experience to meet high standards of craftsmanship. Its founders positioned the business to fill a niche for durable, custom metalwork that blends function with aesthetics, a philosophy that continues to guide its approach to both new fabrication and the restoration of legacy pieces.
+The company emphasizes that every project has its own solution, drawing on more than 40 years of experience, high standards, and dedicated expertise to create custom metalwork that meets each project's unique requirements.
 
 ## Known for
-- In-house design, fabrication, restoration, and installation
-- Over 40 years of experience in ornamental metalwork
-- Family-owned and operated since 1980
-- Custom solutions for residential, commercial, and restoration projects
+- Every project has its own solution
+- Over 40 years of experience in custom metalwork
+- Integrated design, fabrication, restoration, and installation under one roof
+- Restoration expertise for historic and legacy metalwork
 
 ## Capabilities
-- Custom metal design
-- Metal fabrication
-- Metal restoration
+- Design
+- Fabrication
+- Restoration
 - Installation
-- Cable rail systems
-- Wrought iron forging
-- Aluminum fabrication
-- Pewter and zinc work
-- Steel fabrication
-- Copper fabrication
-- Glass rail installation
-- Gate fabrication
-- Signage fabrication
-- Bar top fabrication
-- Handrail fabrication
-- Custom furniture fabrication
-- Mirror restoration
+- Ornamental metalwork
+- Custom railing fabrication
+- Commercial metal fabrication
+- Residential metal fabrication
 
 ## Industries
 - Residential
 - Commercial
 - Restoration
-- Architectural metalwork
 - Interior design
+- Architectural metalwork
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -552,14 +493,14 @@ The company emphasizes that every project receives a unique solution, drawing on
 
 <details><summary>Sources</summary>
 
-- Family-owned company founded in 1980 -> db
-- Headquartered in Madison, Wisconsin -> db
-- Offers design, fabrication, restoration, installation -> /
-- Produces cable rails, wrought iron, aluminum stairways, pewter, zinc, steel fireplaces, copper hoods, glass rails, gates -> /
-- Serves residential, commercial, and restoration markets -> /
+- Family-owned, founded 1980, Madison WI -> db
+- Design, Fabrication, Restoration, Installation services -> /
+- Residential ornamental metalwork (railings, stairways, fireplaces, stove hoods) -> /
+- Commercial metalwork (stainless steel railings, bar tops, signage) -> /
+- Restoration of historic metalwork -> /
 - Customer testimonials from H. Krueger & Associates, Andrew Lewis, Mindy T. -> /
-- Over 40 years of experience claimed -> /
-- Materials: aluminum, steel, stainless steel, wrought iron, copper, pewter, zinc, glass -> /
+- Materials: steel, stainless steel, aluminum, copper, pewter, zinc, wrought iron, glass -> /
+- Over 40 years experience claim -> /
 </details>
 
 ---
@@ -569,35 +510,32 @@ The company emphasizes that every project receives a unique solution, drawing on
 **Old description:** Custom Sheet Metal is a well equipped workshop in North Austin. Our highly skilled workforce has over 100 years combined experience in metal work and fabrication. We pride ourselves in ensuring that high quality products are produced with the fastest turnaround times available.
 
 ## About
-Custom Sheet Metal operates from Pflugerville, Texas, just north of Austin. The business traces its roots to 1958 when G.H. Lockhart founded G.H. Lockhart Sheet Metal to serve the HVAC industry across the Austin area. Lockhart’s crews handled major projects including the Federal Building, the downtown Austin Post Office, and Fort Hood. In 1993, longtime employee Ron Schwierking purchased the company and renamed it Custom Sheet Metal Inc., shifting its focus from union HVAC work to custom fabrication for a broader customer base. The company moved to its current Pflugerville facility in 2010, expanding its floor space and equipment capacity.
+Custom Sheet Metal operates from a facility in Pflugerville, Texas, just north of Austin. The business traces its roots to 1958 when G.H. Lockhart founded G.H. Lockhart Sheet Metal to serve the HVAC industry across the Austin area. Lockhart and his crews handled major projects including the Federal Building, the downtown Austin Post Office, and Fort Hood. In 1993, longtime employee Ron Schwierking purchased the company and renamed it Custom Sheet Metal Inc., shifting its focus from union HVAC work to custom fabrication for a broader customer base.
 
-The shop specializes in sheet metal fabrication, offering shearing, forming, rolling, and welding across a range of metals: stainless steel, mild steel (cold‑rolled and hot‑rolled), aluminum, copper, brass, and galvanized sheet. The workforce carries over 100 years of combined experience in metalwork. Facility size, headcount, and annual volume are not disclosed.
+The shop specializes in sheet metal fabrication across a range of metals: stainless steel, mild steel (both cold-rolled and hot-rolled), aluminum, copper, brass, and galvanized sheet. Core processes include shearing, forming, rolling, and welding. A 2010 move to a larger Pflugerville plant allowed the addition of bigger equipment and expanded capacity, though the company does not disclose headcount or facility square footage.
 
-While the company began in HVAC and industrial construction — supplying ductwork and components for large complexes — it now serves a wide variety of customers needing custom metal parts. Past projects include government and military installations such as Fort Hood, as well as commercial buildings.
+Customers span HVAC, industrial, and government sectors, with historical references to large industrial complexes and federal installations. The company positions itself as a job shop able to serve "all types of customers with all types of solutions," from prototype runs to production orders.
 
-Schwierking’s stated goal was to maintain the integrity of the business through top‑notch craftsmanship and diligence. The company emphasizes fast turnaround times and high‑quality output as its primary differentiators.
+Schwierking's stated aim was to maintain the integrity of the business through top‑notch craftsmanship and diligence. The firm also emphasizes its workforce's combined experience of over 100 years and a commitment to the fastest turnaround times available.
 
 ## Known for
-- Over 100 years of combined workforce experience in metal fabrication
-- Fast turnaround times on custom sheet metal parts
-- In‑house shearing, forming, rolling, and welding capabilities
-- Experience with government and military projects (Fort Hood, Federal Building)
-- Expanded facility and equipment since 2010 relocation
+- Fastest turnaround times available
+- Over 100 years of combined workforce experience
+- Custom fabrication across stainless, mild steel, aluminum, copper, brass, and galvanized sheet
+- Shifted from union HVAC work to broad custom fabrication in 1993
 
 ## Capabilities
-- Sheet metal fabrication
 - Shearing
 - Forming
 - Rolling
 - Welding
-- Custom fabrication
+- Custom sheet metal fabrication
 - Specialty fabrication
 
 ## Industries
 - HVAC
-- Industrial construction
+- Industrial
 - Government
-- Military
 - Commercial construction
 
 ## Company details
@@ -608,15 +546,17 @@ Schwierking’s stated goal was to maintain the integrity of the business throug
 <details><summary>Sources</summary>
 
 - Founded 1958 as G.H. Lockhart Sheet Metal -> /about
-- Ron Schwierking purchased company in 1993 -> /about
-- Moved to Pflugerville facility in 2010 -> /about
-- Specializes in stainless steel, mild steel, aluminum, copper, brass, galvanized sheet -> /
+- Founder G.H. Lockhart -> /about
+- Serviced HVAC industry, Federal Building, Post Office, Fort Hood -> /about
+- 1993 Ron Schwierking purchased, renamed Custom Sheet Metal Inc. -> /about
+- 2010 moved to Pflugerville facility -> /about
+- Expanded capabilities with larger equipment -> /about
+- Located in North Austin (HQ Pflugerville) -> /, db
+- Specializes in Stainless Steel, Mild Steel (Cold rolled and Hot rolled), Aluminum, Copper, Brass, Galvanized -> /
 - Processes: shear, form, roll, weld -> /
-- Over 100 years combined workforce experience -> /
-- Fastest turnaround times available -> /
-- Past projects: Federal Building, Austin Post Office, Fort Hood -> /about
-- Headquarters in Pflugerville, Texas -> db
-- Company type: contract manufacturer/job shop -> /
+- Over 100 years combined experience -> /
+- Fastest turnaround times -> /
+- Headquarters Pflugerville, Texas -> db
 </details>
 
 ---

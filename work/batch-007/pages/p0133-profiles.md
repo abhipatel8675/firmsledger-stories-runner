@@ -3,37 +3,35 @@
 **Old description:** Advanced Cable Bus, Inc. was founded in 2007 by an experienced, technically savvy and team-oriented group of engineering professionals with more than 50 years combined experience in the power distribution industry.
 
 ## About
-Advanced Cable Bus, Inc. was founded in 2007 in Greenville, South Carolina, by a team of engineering professionals with more than 50 years of combined experience in power distribution. The privately held company operates from a facility on Old Buncombe Road and a mailing address on P.O. Box 14128, with department heads Velko Lukovic, Joshua R. Cable, and Andre Lukovic engineering, procurement, and design.
+Advanced Cable Bus, Inc. was founded in 2007 in Greenville, South Carolina, by a group of engineering professionals with more than 50 years of combined experience in power distribution. The founding team aimed to produce safe, reliable, and maintenance-free power systems that are easy to install and backed by personalized service.
 
-The company designs and manufactures custom Cable Bus systems — insulated power cables housed in ventilated metal enclosures — for service entrances, main feeders, and distribution applications in power generation and industrial plants. Each system is engineered to job-specific requirements, with ampacity ratings from 800 to 6,000 amperes and voltage classes ranging from 480 volts to 69 kilovolts. Production includes custom-fabricated cable support blocks, short-circuit braces welded into enclosure sections, and covers with 50 percent ventilation to achieve free-air conductor ratings.
+The company designs and manufactures custom cable bus systems for low- and medium-voltage power distribution. Each system is engineered to specific job requirements, with ampacity ratings from 800A to 6000A and voltage ratings from 480V up to 69kV. The product line includes ventilated enclosure covers, cable support blocks, and short-circuit braces capable of withstanding fault currents up to 100kA RMS symmetrical. Capabilities cover service feeders ranging from 1200A to 5000A at voltages including 600V, 5kV, 8kV, 15kV, and higher.
 
-Advanced Cable Bus serves power generation facilities, industrial manufacturers, telecommunications data centers, and renewable energy projects. Named clients include Air Products and Chemicals, Inc. and Irving Consumer Products. The company sells through a nationwide network of manufacturer's representatives, with direct sales coverage in South Carolina and surrounding states.
+Advanced Cable Bus serves industries such as telecommunication data centers, renewable energy, power generation, and heavy industrial facilities. Notable clients include Air Products and Chemicals, Inc. and Irving Consumer Products. Typical applications involve connections between transformers and switchgear, motor control centers and large motors, and generator step-up transformers.
 
-The founders set out to deliver safe, reliable, maintenance-free power systems that are easy to install, backed by personalized service at every project stage. Their design uses uniform conductor spacing and short-circuit bracing rated to withstand 100 kA RMS symmetrical fault currents, reducing cable count compared to tray or conduit installations and lowering overall project cost.
+The company emphasizes personalized customer service throughout every project stage, from engineering and procurement to design and installation. Its ventilated enclosure design allows cables to operate at free-air ratings, reducing the number of cables needed compared to tray or conduit installations, which lowers overall project costs.
 
 ## Known for
 - Custom-designed and manufactured for each project
-- Withstands short-circuit forces up to 100 kA RMS symmetrical
-- 50% ventilated enclosure covers enable free-air conductor ratings
-- Requires fewer cables than cable tray or conduit systems
-- Personalized customer service throughout every project stage
+- Withstands short-circuit forces up to 100kA RMS symmetrical
+- 50% ventilated enclosure covers enable free-air rating
+- Fewer cables required versus cable tray or conduit
+- Personalized service through engineering, procurement, and design
 
 ## Capabilities
-- Custom Cable Bus system design
-- Manufacturing of ventilated metal enclosures
-- Cable support block fabrication
-- Short circuit brace welding
-- Service feeder production (600V–15kV, 1200A–5000A)
-- Power distribution system engineering
-- Custom enclosure cover fabrication
+- Custom cable bus system design
+- Cable bus manufacturing
+- Engineering services
+- Procurement
+- Design
+- V Service Feeders 3000A–5000A
+- Medium voltage service feeders 1200A–4000A (5kV, 8kV, 15kV, 600V)
 
 ## Industries
-- Power generation
-- Industrial manufacturing
 - Telecommunications
-- Renewable energy
-- Chemical processing
-- Consumer goods manufacturing
+- Renewable Energy
+- Power Generation
+- Industrial Manufacturing
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -42,16 +40,17 @@ The founders set out to deliver safe, reliable, maintenance-free power systems t
 
 <details><summary>Sources</summary>
 
-- Founded 2007 in Greenville, SC by engineering professionals -> db
-- Headquarters addresses: P.O. Box 14128 Greenville SC 29610 and 3514 Old Buncombe Rd Greenville SC 29617 -> /
+- Founded 2007 by engineering professionals with 50+ years combined experience -> db
+- Headquarters in Greenville, South Carolina -> db
+- Manufactures custom cable bus systems for low/medium voltage power distribution -> /
+- Ampacity range 800A-6000A, voltage ratings up to 69kV -> /
+- Withstands short-circuit forces up to 100kA RMS symmetrical -> /
+- 50% ventilated enclosure covers for free-air rating -> /
+- Capabilities: V Service Feeders 3000A-5000A, and 5kV/8kV/15kV/600V Service Feeders 1200A-4000A -> db
+- Serves telecommunication data centers, renewable energy, power generation, industrial plants -> /
+- Clients include Air Products and Chemicals, Inc. and Irving Consumer Products -> /
 - Department heads: Velko Lukovic, Joshua R. Cable, Andre Lukovic -> /
-- Manufactures custom Cable Bus systems with ventilated metal enclosures -> /
-- Ampacity range 800A–6000A, voltage ratings up to 69kV -> /
-- Systems withstand 100 kA RMS symmetrical short-circuit forces -> /
-- 50% ventilated covers for free-air rating -> /
-- Clients: Air Products and Chemicals, Inc., Irving Consumer Products -> /
-- Industries: power generation, industrial plants, telecommunication data centers, renewable energy -> /
-- Nationwide sales representative network -> /
+- Mission: safe, reliable, maintenance-free power systems; easy to install; personalized service -> /
 </details>
 
 ---
@@ -61,36 +60,51 @@ The founders set out to deliver safe, reliable, maintenance-free power systems t
 **Old description:** Advanced Custom Metals provides High Quality Welding and Metal Fabrication to a wide range of industries. We pride ourselves on quick turnaround time and excellent customer service. At ACM we focus on Laser Cutting and Welding using 3-axis machinery with high accuracy. Metal fabrication can be completed with a range of raw materials. Please contact us today with your unique requirements.
 
 ## About
-Advanced Custom Metals Inc. (ACM) operates from Des Plaines, Illinois. The company does not publicly disclose its founding year, ownership structure, or founder names.
+Advanced Custom Metals Inc (ACM) operates from Des Plaines, Illinois, providing precision metal fabrication and welding services to industrial and commercial clients. The company focuses on laser cutting and welding using 3-axis machinery, though its founding year and ownership structure are not publicly disclosed.
 
-ACM specializes in precision metal fabrication and welding, with a focus on laser cutting and welding using 3-axis machinery. The shop handles custom fabrication and assembly projects, producing volumes up to 10,000 parts. Facility size and employee count are not disclosed, and the company notes it works with a range of raw materials.
+ACM specializes in high-accuracy laser cutting, laser welding, and custom metal fabrication, handling production volumes up to 10,000 parts. Its capabilities include assembly, safety guard fabrication, irradiator shell assembly, and production of components such as flanges, face plates, and conveyor system parts. The shop works with a range of raw materials and emphasizes quick turnaround times.
 
-The company serves industries including architectural, printing, lighting fixtures, refuse collection, conveyor systems, commercial ductwork, and industrial cleaning. Past projects include custom welding and assembly of an irradiator shell for a UV printer, a face plate for a garbage truck can-lift mechanism, a laser-cut flange for the industrial cleaning industry, and a safety guard for CNC equipment.
+The company serves industries including architectural, printing, lighting fixtures, refuse collection, conveyor systems, commercial duct work, and industrial cleaning. Past projects illustrate this breadth: custom welding and assembly of an irradiator shell for a UV printer, a face plate for a garbage truck can-lift mechanism, a laser-cut flange for the industrial cleaning industry, and a safety guard for CNC equipment.
 
-ACM emphasizes quick turnaround time and customer service, and highlights its high-accuracy 3-axis laser cutting and welding capabilities as key differentiators.
+ACM states that its differentiation lies in quick turnaround time, excellent customer service, and high-accuracy laser cutting and welding enabled by 3-axis machinery.
 
 ## Known for
 - Quick turnaround time
 - Excellent customer service
-- 3-axis laser cutting and welding with high accuracy
-- Works with a range of raw materials
+- High-accuracy laser cutting and welding using 3-axis machinery
+- Wide range of raw materials
 
 ## Capabilities
-- Laser cutting (3-axis)
-- Welding (3-axis)
-- Metal fabrication
+- Precision metal fabrication
+- Welding
+- Laser cutting
+- Laser welding
 - Custom fabrication
 - Assembly
-- Precision metal fabrication
+- 3-axis machining
+- Safety guard fabrication
+- Irradiator shell assembly
+- Conveyor system parts fabrication
+- Flange laser cutting
+- Face plate fabrication
+- CNC equipment safety guard fabrication
+- UV printer irradiator shell assembly
+- Garbage truck can-lift mechanism face plate
+- Industrial cleaning industry flange fabrication
+- Commercial duct work fabrication
+- Architectural metal fabrication
+- Printing industry component fabrication
+- Lighting fixture fabrication
+- Refuse collection equipment fabrication
 
 ## Industries
 - Architectural
 - Printing
-- Lighting fixtures
-- Refuse collection
-- Conveyor systems
-- Commercial ductwork
-- Industrial cleaning
+- Lighting Fixtures
+- Refuse Collection
+- Conveyor Systems
+- Commercial Duct Work
+- Industrial Cleaning
 
 ## Equipment
 - 3-axis laser cutting and welding machinery
@@ -101,14 +115,13 @@ ACM emphasizes quick turnaround time and customer service, and highlights its hi
 
 <details><summary>Sources</summary>
 
-- Company name and location -> db
-- Services: welding, metal fabrication, laser cutting, 3-axis machinery -> /
-- Industries served: architectural, printing, lighting fixtures, refuse collection, conveyor systems, commercial ductwork, industrial cleaning -> /
-- Example projects: irradiator shell for UV printer, face plate for garbage truck can-lift, laser-cut flange for industrial cleaning, safety guard for CNC equipment -> /
-- Production volume up to 10,000 parts -> /
-- Quick turnaround and customer service emphasis -> /
-- High accuracy 3-axis laser cutting/welding -> /
-- Works with range of raw materials -> /
+- Company name and location (Des Plaines, Illinois) -> db
+- Services: precision metal fabrication, welding, laser cutting, 3-axis machinery -> /
+- Production volume up to 10,000 parts -> db (products)
+- Industries served: architectural, printing, lighting fixtures, refuse collection, conveyor systems, commercial duct work, industrial cleaning -> /
+- Project examples: irradiator shell for UV printer, face plate for garbage truck can-lift, laser-cut flange for industrial cleaning, safety guard for CNC equipment -> /
+- Quick turnaround time and excellent customer service claimed -> /
+- No founding year, ownership, certifications, detailed equipment, materials, employee count, cage code, min order, export compliance, languages, or social links found -> /
 </details>
 
 ---
@@ -118,37 +131,35 @@ ACM emphasizes quick turnaround time and customer service, and highlights its hi
 **Old description:** Blending is associated with the combining of solids (dry) with solids and solids with small amounts of liquids (wet).
 
 ## About
-Advanced Food Services, founded in 1999, operates a dry blending and packaging facility in Lenexa, Kansas. The company, also known as Advanced Food Service Inc., began as a modern facility focused on food ingredient blending and contract packaging.
+Advanced Food Services, operating as Advanced Food Service Inc., is a dry blending and packaging facility based in Lenexa, Kansas. The company was founded in 1999 and has operated as a contract manufacturer for food products.
 
-The company specializes in dry blending of solids and wet blending of solids with small amounts of liquids, along with custom retail packaging that incorporates client branding, and bulk packaging solutions including freight containers for hazardous materials. It offers contract food manufacturing services covering the full supply chain from labeling compliance to secure shipping. Facility size, headcount, and annual volumes are not disclosed.
+The facility specializes in dry blending of solids with solids and solids with small amounts of liquids, as well as custom retail packaging that incorporates client logos, brand colors, and messaging. It also provides bulk packaging solutions, including freight containers for hazardous materials, and offers full contract food manufacturing services covering labeling, shipping compliance, and wholesale tracking requirements.
 
-Advanced Food Services serves food manufacturers, retailers, wholesalers, and logistics providers. Its customers include brands requiring retail-ready packaging, wholesale distributors needing bulk containers, and shippers demanding secure transit packaging. The company emphasizes compliance with inspector requirements for sourcing and labeling.
+The company serves food manufacturers, retailers, wholesalers, and shippers who need compliant packaging and blending services. Its customers include brands requiring retail-ready packaging, bulk ingredient handlers, and businesses navigating inspector and supply-chain documentation requirements.
 
-The firm highlights its HACCP, GMP, and SQF certifications as evidence of its quality focus, and states it is "focused on creating finest quality for our customers." Its differentiation rests on certified food safety systems and the ability to handle both retail and bulk packaging under one roof.
+Advanced Food Services emphasizes its food safety certifications — HACCP, GMP, and SQF — as the foundation of its quality assurance. The company states its focus is on creating the finest quality for customers through certified processes and customer-focused packaging solutions.
 
 ## Known for
 - HACCP, GMP, and SQF certified food safety systems
-- Custom retail packaging with client logo and brand colors
+- Dry and wet blending capabilities for solids and liquids
+- Custom retail packaging with brand-specific design
 - Bulk packaging including freight containers for hazardous materials
-- Dry and wet blending capabilities
-- Contract manufacturing covering labeling, shipping, and wholesale requirements
+- Contract manufacturing with supply-chain compliance support
 
 ## Capabilities
 - Dry blending
-- Wet blending
-- Retail packaging
+- Wet blending (solids with small amounts of liquids)
+- Custom retail packaging
 - Bulk packaging
 - Contract food manufacturing
-- Custom packaging design
-- Labeling compliance
-- Secure shipping packaging
+- Labeling and compliance documentation
+- Wholesale tracking solutions
 
 ## Industries
 - Food manufacturing
-- Food packaging
-- Retail
-- Wholesale
-- Shipping and logistics
+- Retail food packaging
+- Wholesale food distribution
+- Contract food manufacturing
 
 ## Certifications
 - HACCP
@@ -162,15 +173,16 @@ The firm highlights its HACCP, GMP, and SQF certifications as evidence of its qu
 
 <details><summary>Sources</summary>
 
-- Founded 1999 -> db
-- Headquarters Lenexa, Kansas -> db
-- Certifications HACCP, GMP, SQF -> db
-- Dry blending and wet blending -> page "/"
-- Retail packaging with custom branding -> page "/"
-- Bulk packaging for hazardous materials -> page "/"
-- Contract food manufacturing services -> page "/"
-- Serves retailers, wholesalers, shippers, inspectors -> page "/"
-- Quality focus statement -> page "/"
+- Company name Advanced Food Services / Advanced Food Service Inc. -> db name, pages '/'
+- Headquarters Lenexa, Kansas -> db hq_city, hq_state_label
+- Founded 1999 -> db founded_year
+- Certifications HACCP, GMP, SQF -> db certifications
+- Capabilities: dry blending, packaging, contract food manufacturing -> db capabilities, pages '/'
+- Blending processes: solids with solids, solids with liquids -> pages '/'
+- Custom retail packaging with logo and brand colors -> pages '/'
+- Bulk packaging including freight containers for hazardous materials -> pages '/'
+- Industries served: retailers, wholesalers, shippers, inspectors -> pages '/'
+- Quality focus and certifications as differentiators -> pages '/'
 </details>
 
 ---
@@ -180,39 +192,45 @@ The firm highlights its HACCP, GMP, and SQF certifications as evidence of its qu
 **Old description:** Advanced Metal Fabricators, Inc. specializes in custom fabrication of sheet metal for a variety of applications.  Our products are fabricated from many different materials including, but not limited to, copper, aluminum, stainless steel, mild steel, galvanized and pre-finished Firestone metal products.
 
 ## About
-Advanced Metal Fabricators, Inc. operates from Springfield, Missouri. The company specializes in custom sheet metal fabrication but does not disclose its founding year, ownership structure, or founder names in its public materials.
+Advanced Metal Fabricators, Inc. operates from Springfield, Missouri.
 
-The shop fabricates a wide range of products from copper, aluminum, stainless steel, mild steel, galvanized steel, and pre-finished Firestone metal products. It stocks 28 colors of 24-gauge Firestone UNA-CLAD flat sheet, carries stainless in 24-gauge through 3/16-inch thicknesses with 2B and #3-4 finishes, and aluminum from .032 to 1/4 inch including .063 and .125 tread plate. Capabilities include metal roofing, flashings, trim, ACM panels, countertops, truck bodies, hand railing, tool boxes, ramps, water tanks, battery trays, structural frames, guard rail, stairs, landings, support brackets, and ornamental copper items such as cupolas, finials, roof vents, chimney caps, and standing seam roofing. The company also acts as a Citadel ACM fabricator and a dealer for PAC-CLAD, MBCI, McElroy, and Berridge product lines.
+The shop specializes in custom fabrication of sheet metal across a range of materials, including copper, aluminum, stainless steel (2B and #3‑4 finishes), mild steel, galvanized steel, and pre‑finished Firestone UNA‑CLAD products in 28 stocked colors. It also acts as a fabricator for Citadel ACM panels and a dealer for PAC‑CLAD, MBCI, McElroy, and Berridge lines. In‑house stock covers stainless gauges from 24 ga to 3/16 in., aluminum thicknesses from .032 in. to 1/4 in. (including .063 and .125 tread plate), and a full selection of mild‑steel and galvanized flat sheet, plate, tubing, angle, and pipe. Typical output spans architectural flashings, trim, standing‑seam roofing, countertops, truck bodies, hand railing, tool boxes, ramps, water tanks, battery trays, structural frames, guard rail, stairs, landings, support brackets, cupolas, finials, roof vents, chimney caps, and range hoods.
 
-Advanced Metal Fabricators serves both residential and commercial customers, supplying custom fabricated components for building envelopes, architectural features, transportation equipment, and industrial applications.
+Advanced Metal Fabricators serves both residential and commercial customers, supplying roofing contractors, building owners, and fabricators of truck bodies and industrial equipment. Its product mix reflects demand from the construction and architectural metalwork sectors, with recurring orders for custom copper cupolas, stainless‑steel countertops, and aluminum hand‑rail systems.
 
-The company emphasizes one-on-one, job-by-job attention to detail and cites its unmatched dedication to customer service as its primary differentiator, noting that this approach has driven continued growth year after year.
+The company emphasizes that its differentiation lies in product quality and a dedication to customer service, citing one‑on‑one, job‑by‑job attention to detail as the driver of its continued growth.
 
 ## Known for
 - One-on-one, job-by-job attention to detail
-- Unmatched dedication to customer service
-- Stocks 28 colors of 24-gauge Firestone UNA-CLAD flat sheet
-- Citadel ACM fabricator and authorized dealer for PAC-CLAD, MBCI, McElroy, Berridge
-- Skilled craftsmen producing hand-crafted copper products
+- Stocks 28 colors of 24 ga Firestone UNA‑CLAD flat sheet
+- Authorized Citadel ACM fabricator
+- Dealer for PAC‑CLAD, MBCI, McElroy, and Berridge metal systems
+- Skilled craftsmen focused on quality and workmanship
 
 ## Capabilities
 - Custom sheet metal fabrication
-- Flashing and trim fabrication
-- Metal roofing fabrication
-- ACM (aluminum composite material) fabrication
+- Metal roofing and flashing fabrication
+- ACM panel fabrication
 - Stainless steel fabrication
 - Aluminum fabrication
 - Mild steel fabrication
 - Galvanized steel fabrication
 - Copper fabrication
-- Hand-crafted copper products
-- Metal stocking and supply
-- Citadel ACM fabrication
-- PAC-CLAD, MBCI, McElroy, Berridge product distribution
+- Architectural metal fabrication
+- Structural metal fabrication
+- Countertop fabrication
+- Truck body fabrication
+- Hand railing fabrication
+- Tool box fabrication
+- Stair and landing fabrication
+- Cupola and finial fabrication
+- Chimney cap and vent fabrication
 
 ## Industries
-- Residential
-- Commercial
+- Residential construction
+- Commercial construction
+- Architectural metalwork
+- Roofing
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -220,19 +238,20 @@ The company emphasizes one-on-one, job-by-job attention to detail and cites its 
 
 <details><summary>Sources</summary>
 
-- Company name and location: Advanced Metal Fabricators, Inc., Springfield, Missouri -> db
-- Specializes in custom fabrication of sheet metal -> /about-us
-- Materials: copper, aluminum, stainless steel, mild steel, galvanized, pre-finished Firestone metal products -> /about-us
+- Company name and description -> db
+- Headquarters: Springfield, Missouri -> db
+- Specializes in custom sheet metal fabrication -> /about-us
+- Materials: copper, aluminum, stainless steel, mild steel, galvanized, Firestone UNA-CLAD -> /about-us
 - Stocks 28 colors of 24ga Firestone UNA-CLAD flat sheets -> /
 - Citadel ACM fabricator -> /
 - Dealer for PAC-CLAD, MBCI, McElroy, Berridge -> /
-- Stainless steel stock gauges 24ga to 3/16" in 2b and #3-4 finish -> /
-- Aluminum stock thicknesses .032 to 1/4", .063 and .125 tread plate -> /
+- Stainless steel stock gauges 24ga to 3/16" in 2B and #3-4 finish -> /
+- Aluminum stock thicknesses .032 to 1/4" including .063 and .125 tread plate -> /
 - Mild steel & galvanized stock: flat sheets, plate, tubing, angle, pipe -> /
-- Products: counter tops, truck bodies, hand railing, cupolas, finials, roof vents, gable vents, w-valley, drip edge, range hoods, chimney caps, chimney pots, standing seam roofing -> /
+- Product examples: flashing, trim, countertops, truck bodies, hand railing, tool boxes, ramps, water tanks, battery trays, frames, guard rail, stairs, landings, support brackets, cupolas, finials, roof vents, gable vents, w-valley, drip edge, range hoods, chimney caps, chimney pots, standing seam roofing -> /
 - Serves residential and commercial customers -> /
-- One-on-one, job-by-job attention to detail and unmatched dedication to customer service sets them apart -> /
-- Quality and customer service are main focus -> /about-us
+- Differentiation: quality, customer service, one-on-one job-by-job attention -> /
+- Skilled craftsmen dedicated to quality products and workmanship -> /
 </details>
 
 ---
@@ -242,44 +261,46 @@ The company emphasizes one-on-one, job-by-job attention to detail and cites its 
 **Old description:** For over 20 years we've been serving the needs of Industrial and Defence clients around the world. Search AMP's range of ruggedised embedded boards and solutions and accelerate your product development today.
 
 ## About
-Advanced Micro Peripherals Inc serves as the North American sales office for Advanced Micro Peripherals Ltd., a UK-based design and manufacturing company founded in 1993 near Cambridge, England. The U.S. operation is headquartered in New York, New York, and supports industrial and defense customers across the Americas.
+Advanced Micro Peripherals Inc operates a sales office in New York, New York, supporting the North and South American markets for a company established in 1993 near Cambridge, United Kingdom. The business was founded by a group of specialists in advanced computer design and broadcast systems, and has since accumulated deep expertise in embedded video technology.
 
-The company designs and manufactures rugged embedded boards and system solutions, including video appliances, DVR and streaming modules, H.264/H.265 codecs, frame grabbers, format converters, and single-board computers. Products span form factors such as VPX, PC/104, miniPCIe, CompactPCI Serial, PMC/XMC, and custom designs, all developed in-house by an engineering team with expertise in video compression, display, and ruggedization.
+The firm designs and manufactures rugged, high-performance embedded boards and system solutions. Its product line spans rugged video appliances, DVR and video streaming modules, H.264/H.265/MPEG codecs, video capture frame grabbers, annotation and overlay engines, and display format converters. It also offers communications and peripheral boards, single-board computers, and legacy form factors such as VPX, PC/104, miniPCIe, CompactPCI Serial, PMC/XMC, and CompactPCI. Custom derivative design and software support are available for specialized requirements.
 
-Primary markets include defense, industrial automation, traffic management, security, transportation, and autonomous vehicle programs. Customers range from defense contractors building mission-critical equipment to integrators developing traffic control and industrial monitoring systems.
+Customers come from defense, industrial, traffic management, security and safety, transportation, and commercial sectors. The company cites a worldwide base involved in defense equipment, industrial controls, traffic management, and autonomous vehicle control projects.
 
-Advanced Micro Peripherals emphasizes reducing customer risk and accelerating time-to-market through consortium participation (PC/104 Executive member, PICMG Associate member), ISO 9001 registration, and full lifecycle support from design through managed product migration.
+The company emphasizes reducing customer risk and accelerating time to market through its engineering team's system-development experience. It holds executive membership in the PC/104 Consortium and associate membership in the PICMG Consortium, reflecting active participation in embedded computing standards.
 
 ## Known for
-- ISO 9001 registered design and manufacturing
-- Executive member of PC/104 Consortium and Associate member of PICMG Consortium
-- All products designed in-house by qualified engineering team
-- Rugged embedded video solutions for defense and industrial applications
-- Long-term customer relationships with pre- and post-sales technical support
+- ISO-9001 registered design and manufacturing
+- Executive member of PC/104 Consortium
+- Associate member of PICMG Consortium
+- Ruggedized embedded boards for defense and industrial applications
+- Custom design with full engineering support
 
 ## Capabilities
 - Rugged embedded board design and manufacturing
-- Video compression (H.264, H.265, MPEG-2, MPEG-4, M-JPEG)
+- Video compression (H.264, H.265, MPEG-2, MPEG-4)
+- Video display and format conversion
 - Video capture and frame grabbing
 - Video annotation and overlay
-- Video display format conversion
 - DVR and video streaming
-- Single board computer design
-- Custom embedded system design
-- PC/104, VPX, CompactPCI, CompactPCI Serial, PMC/XMC, miniPCIe form factors
-- AI video appliances (NVIDIA Jetson)
-- Communications peripherals (networking, serial, USB, CAN, audio)
-- Ruggedization for defense and industrial environments
-- Technical support and product lifecycle management
+- Ruggedized CPU card design
+- Communication peripheral design
+- Custom derivative design
+- Software support and integration
+- Technical support and managed product migration
+- PC/104, PC/104-Plus, PCIe/104, PCI-104 form factors
+- VPX/OpenVPX, CompactPCI, CompactPCI Serial, PMC, XMC, miniPCIe form factors
+- AI video processing with NVIDIA Jetson Xavier NX
+- Ultra-low latency video streaming
+- KLV/STANAG 4609 metadata handling
 
 ## Industries
 - Defense
 - Industrial
 - Traffic management
-- Security & Safety
-- Commercial
+- Security and safety
 - Transportation
-- Autonomous vehicles
+- Commercial
 
 ## Certifications
 - ISO 9001
@@ -287,20 +308,20 @@ Advanced Micro Peripherals emphasizes reducing customer risk and accelerating ti
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1993
-- **Headquarters:** New York, NY
+- **Headquarters:** New York, New York
 
 <details><summary>Sources</summary>
 
 - Founded 1993 near Cambridge, UK -> /about
-- US sales office in New York -> /about
-- ISO 9001 registered design and manufacturing -> /about
-- Products: rugged embedded boards, video appliances, codecs, frame grabbers, format converters, SBCs -> /about, /
-- Form factors: VPX, PC/104, miniPCIe, CompactPCI Serial, PMC/XMC -> /about, /
-- Industries: defense, industrial, traffic, security, transportation, autonomous -> /about, /
-- PC/104 Executive member, PICMG Associate member -> /about
-- In-house engineering team designs all products -> /about
-- Mission: reduce customer risk, increase speed to market -> /about
-- LinkedIn URL -> db
+- ISO-9001 registered -> /about
+- Sales office in New York, NY -> /about
+- Products: rugged embedded boards, video appliances, codecs, frame grabbers, format converters -> /
+- Form factors: VPX, PC/104, miniPCIe, CompactPCI Serial, PMC/XMC -> /
+- Industries: defense, industrial, traffic, security, transportation, commercial -> /about, /
+- PC/104 Consortium executive member -> /about
+- PICMG Consortium associate member -> /about
+- Engineering team with system development experience -> /about
+- Mission: high value solutions, reduce risk, speed to market -> /about
 </details>
 
 ---
@@ -310,48 +331,45 @@ Advanced Micro Peripherals emphasizes reducing customer risk and accelerating ti
 **Old description:** We offer a wide range of production and processing services for various plastics since 1988:
 
 ## About
-Advanced Plastiform, Inc. was founded in 1988 in Zebulon, North Carolina. The company operates from a 160,000-square-foot campus comprising multiple facilities that house production, tooling storage, assembly, and shipping operations.
+Advanced Plastiform, Inc. was founded in 1988 and operates from a 160,000‑square‑foot campus in Zebulon, North Carolina. The company has served manufacturers across the Southeast and Mid‑Atlantic for more than 35 years, though the INPUT does not name individual founders or specify an ownership structure such as family‑, veteran‑, or woman‑owned.
 
-The manufacturer specializes in heavy-gauge thermoforming — including vacuum forming, pressure forming, and twin-sheet forming — as well as injection molding for higher-volume, tight-tolerance work. Secondary services encompass CNC robotic trimming, value-added assembly, prototyping via 3D printing, CAD modeling, and tooling design. The facility supports projects from concept through production without relying on outside vendors for critical steps.
+The business provides custom plastic components through thermoforming (vacuum forming, pressure forming, and twin‑sheet forming), injection molding, CNC and robotic trimming, value‑added assembly, prototyping, 3D printing, and tooling design. All processes are housed under one roof, allowing the team to move projects from concept to production in as little as six weeks for some jobs. The facility includes dedicated tooling storage, assembly space, and large‑scale shipping logistics.
 
-Advanced Plastiform serves manufacturers across automotive, construction equipment, filtration and water systems, medical devices, telecommunications, transportation, furniture, agricultural equipment, material handling, recreational vehicles, refrigeration, and packaging sectors. Customers typically require custom plastic components that meet real-world performance demands rather than just design specifications.
+Advanced Plastiform serves a broad range of industries, including automotive, construction and infrastructure, agricultural and farm equipment, furniture and fixtures, material handling and storage, medical devices and healthcare equipment, recreational vehicles (RV and powersports), refrigeration and cold storage, shipping trays, pallets and packaging, telecommunications equipment, transportation and logistics, and water and filtration systems. Customers are typically manufacturers that need engineered plastic parts for finished deliverables.
 
-The company emphasizes a customer-driven approach, holding daily production meetings aligned to client shipping schedules. Its quality system is registered to ISO 9001:2015 and includes PPAP validation. All engineering, project management, and ownership personnel are on-site, which the firm says streamlines problem-solving and keeps communication direct. Manufacturing is performed entirely in the United States.
+The company emphasizes a customer‑driven approach: daily production meetings align schedules with client shipping dates, an ISO 9001:2015‑registered quality system and PPAP validation program ensure consistency, and all expertise — from design engineers to ownership — is on‑site to streamline problem‑solving. They position themselves as a U.S.‑based manufacturer that delivers real‑world performance, not just design‑spec compliance.
 
 ## Known for
-- ISO 9001:2015 registered quality management system with PPAP validation
-- 160,000-square-foot facility integrating production, tooling storage, assembly, and logistics
-- In-house prototyping, 3D printing, CAD modeling, and tooling design
-- Daily cross-functional production meetings tied to customer shipping dates
-- Over 35 years of experience in thermoforming and injection molding
+- ISO 9001:2015‑registered quality management system
+- PPAP & Quality Validation program
+- 160,000‑square‑foot North Carolina facility with all processes under one roof
+- Daily customer‑driven production meetings to align schedules with shipping requirements
+- Concept‑to‑production in as little as six weeks for some projects
 
 ## Capabilities
-- Vacuum forming
-- Pressure forming
-- Twin-sheet forming
+- Thermoforming (vacuum forming, pressure forming, twin‑sheet forming)
 - Injection molding
-- CNC robotic trimming
-- Value-added assembly
+- CNC & robotic trimming
+- Value‑added assembly
 - Prototyping
 - 3D printing
-- CAD modeling and 3D design
-- Tooling design and fabrication
-- Quality assurance (PPAP)
-- Material selection consulting
+- Tooling design
+- 3D modeling and CAD drawings
+- PPAP & quality validation
 
 ## Industries
 - Automotive
-- Construction equipment
-- Filtration and water systems
-- Medical devices
-- Telecommunications
-- Transportation
-- Furniture
+- Construction and infrastructure
 - Agricultural and farm equipment
+- Furniture and fixtures
 - Material handling and storage
+- Medical devices and healthcare equipment
 - Recreational vehicles (RV and powersports)
 - Refrigeration and cold storage
-- Shipping trays, pallets, and packaging
+- Shipping trays, pallets and packaging
+- Telecommunications equipment
+- Transportation and logistics
+- Water and filtration systems
 
 ## Equipment
 - CNC robotic trimming systems
@@ -366,17 +384,18 @@ The company emphasizes a customer-driven approach, holding daily production meet
 
 <details><summary>Sources</summary>
 
-- Founded 1988 -> db, /, /about
+- Founded 1988 -> db, /about
 - Headquarters Zebulon, NC -> db, /about
 - Facility size 160,000 sq ft -> /about
-- Processes: thermoforming (vacuum, pressure, twin-sheet), injection molding, CNC robotic trimming, value-added assembly, prototyping, 3D printing, tooling design -> /, /about
+- Processes: thermoforming (vacuum, pressure, twin‑sheet), injection molding, CNC robotic trimming, value‑added assembly, prototyping, 3D printing, tooling design -> /, /about
+- Industries served (list) -> /, /about
 - Materials: ABS, HMWPE, TPO, PP, Acrylic, HIPS, PC, PVC -> /
-- Industries served: automotive, construction equipment, filtration/water, medical, telecommunications, transportation, furniture, agricultural, material handling, recreational vehicles, refrigeration, packaging -> /, /about
-- Certification ISO 9001:2015 -> /about
+- ISO 9001:2015 certification -> db, /about
+- PPAP & Quality Validation program -> /about
 - Lead time 'as little as six weeks' -> /
-- Customer-driven daily meetings -> /, /about
-- Manufactured in USA -> /about
+- Daily customer‑driven production meetings -> /
 - All expertise under one roof -> /about
+- Manufactured in USA -> /about
 </details>
 
 ---
@@ -386,34 +405,30 @@ The company emphasizes a customer-driven approach, holding daily production meet
 **Old description:** API’s solar powered water and well pumps are the affordable and reliable way to pump water.
 
 ## About
-Advanced Power Inc. operates from Weatherford, Oklahoma, where it was founded in 1988. The company has spent more than three decades developing solar-powered water pumping solutions for a range of applications.
+Advanced Power Inc. was founded in 1988 in Weatherford, Oklahoma. For more than 35 years, the company has specialized in solar-powered water pumping solutions, serving thousands of customers across multiple sectors.
 
-The firm designs and builds solar-powered submersible well pumps, including helical and centrifugal models, and assembles complete pump systems. Its pump heads are constructed from Microcast AISI 304 stainless steel with wear-resistant rubber components and are designed to be field-serviceable by the customer or OEM. Advanced Power also provides in-house technical support for installation and maintenance.
+The company distributes solar-powered water pumps and systems for water wells, with submersible pump technology at the core of its product line. Its capabilities include in-house technical service and field-serviceable pump heads that can be replaced by the customer or OEM. Pump heads are constructed with Microcast AISI 304 stainless steel and wear-resistant rubber to extend service life.
 
-The pumps serve agricultural irrigation, oil-field operations, residential water supply, and general industrial and domestic water needs. The company cites agriculture, oil fields, and personal home use as primary markets, with systems deployed in agricultural, irrigation, domestic, and industrial settings.
+Advanced Power serves agriculture, oil and gas, residential, industrial, and irrigation markets. The company cites thousands of loyal customers across these sectors, providing economical and dependable solar water pump systems for applications ranging from livestock watering to oil field operations.
 
-Advanced Power emphasizes affordability, reliability, and user-friendly operation as its defining attributes. The combination of field-serviceable pump heads, in-house technical service, and durable materials is presented as the basis for its reputation in the solar pumping industry.
+The company emphasizes affordability, reliability, and user-friendly design as its core differentiators. Its pump heads are designed for field serviceability, reducing downtime and maintenance costs for end users, and the firm backs its products with in-house technical support.
 
 ## Known for
-- Pump heads are field serviceable and replaceable by the customer or OEM
-- In-house technical service for installation and maintenance
-- Pump heads constructed with Microcast AISI 304 stainless steel and wear-resistant rubber
-- Economical, dependable, and user-friendly solar water pump systems
-- Nearly 35 years of experience in solar-powered submersible water pumps
+- Field-serviceable pump heads replaceable by customer or OEM
+- In-house technical service and support
+- Pump heads made with Microcast AISI 304 stainless steel and wear-resistant rubber
+- Economical, dependable, user-friendly solar water pump systems
+- Over 35 years of experience in solar water pumping
 
 ## Capabilities
-- Field serviceable pump heads
 - In-house technical service
-- Solar-powered submersible pump manufacturing
-- Helical pump production
-- Centrifugal pump production
-- Solar water pump system assembly
-- Microcast AISI 304 stainless steel fabrication
-- Wear-resistant rubber component integration
+- Field serviceable pump heads
+- Solar water pump system distribution
+- Pump head design and construction using Microcast AISI 304 stainless steel and wear-resistant rubber
 
 ## Industries
 - Agriculture
-- Oil and gas
+- Oil and Gas
 - Residential
 - Industrial
 - Irrigation
@@ -423,19 +438,21 @@ Advanced Power emphasizes affordability, reliability, and user-friendly operatio
 - ISO 14001
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Distributor / reseller
 - **Founded:** 1988
 - **Headquarters:** Weatherford, Oklahoma
 
 <details><summary>Sources</summary>
 
 - Founded in 1988 -> db
-- Headquarters in Weatherford, Oklahoma -> db
-- Certifications: ISO9001, ISO14001 -> db
-- Products: solar-powered submersible well pumps, helical and centrifugal models -> page '/'
-- Capabilities: field serviceable pump heads, in-house tech service, Microcast AISI 304 stainless steel construction, wear-resistant rubber -> page '/'
-- Industries served: agriculture, oil fields, residential, industrial, irrigation -> page '/'
-- Company describes itself as manufacturer of API brand pumps -> page '/'
+- Headquartered in Weatherford, Oklahoma -> db
+- Distributor of solar powered water pumps and systems -> /
+- ISO 9001 and ISO 14001 certified -> db
+- In-house technical service -> /
+- Field serviceable pump heads replaceable by customer or OEM -> /
+- Pump heads constructed with Microcast AISI 304 stainless steel and wear-resistant rubber -> /
+- Serves agriculture, oil fields, personal home use, domestic, industrial, irrigation -> /
+- 35 years of trusted solar water pumping -> /
 </details>
 
 ---
@@ -445,41 +462,39 @@ Advanced Power emphasizes affordability, reliability, and user-friendly operatio
 **Old description:** Advanced Solar was founded by Glen Miller as an alternative energy engineering, sales, and services company. Our goal is to bring renewable, non-polluting power to homes and businesses in Northern Indiana and the surrounding areas.
 
 ## About
-Advanced Solar, based in Warsaw, Indiana, was founded by Glen Miller as an alternative energy engineering, sales, and services company aimed at bringing renewable, non-polluting power to homes and businesses across Northern Indiana.
+Advanced Solar, based in Warsaw, Indiana, was founded by Glen Miller as an alternative energy engineering, sales, and services company. The firm, operating as Advanced Solar Distributing LLC, set out to bring renewable, non-polluting power to homes and businesses across Northern Indiana.
 
-The company designs and installs grid-tied, grid-tied with battery backup, and off-grid solar energy systems for residential, commercial, and agricultural customers, and also supplies solar equipment to resellers, contractors, integrators, and installers. Its process covers consultation, system design, permitting and documentation, installation, and ongoing monitoring and maintenance. Advanced Solar serves a twelve-county area in North Central Indiana, including Kosciusko, Elkhart, St. Joseph, and surrounding counties.
+The company designs and installs solar energy systems — including grid-tied, grid-tied with battery backup, and off-grid configurations — along with energy monitoring systems and generators. Its process covers consultation, custom system design, permit and grant documentation, installation, and ongoing maintenance and monitoring. Advanced Solar also supplies solar equipment to resellers, contractors, integrators, and installers throughout the region.
 
-Customers range from homeowners seeking to reduce electric bills to businesses and farms pursuing energy independence; the company also acts as a supply partner for other solar installers. Concrete examples include residential installations across its service territory and commercial projects for agricultural operations.
+The business serves residential, commercial, and agricultural customers in a twelve-county area of North Central Indiana: Kosciusko, Elkhart, St. Joseph, LaGrange, Noble, Whitley, Huntington, Wabash, Miami, Cass, Fulton, and Marshall. It also works with trade partners who need reliable components for their own renewable-energy projects.
 
-Advanced Solar emphasizes a seamless, hassle-free experience backed by a professional team that provides customer service before, during, and after the sale. Its stated mission is to build a brighter future and give God glory, while its vision stresses staying current with evolving solar technology to deliver dependable quality for the life of each investment.
+Advanced Solar emphasizes customer service before, during, and after the sale, and its mission centers on building a brighter future while giving God glory. The leadership stresses staying current with evolving solar technology to deliver quality that lasts for the life of the investment, and the team points to long-term support and stewardship as key differentiators.
 
 ## Known for
 - Customer service before, during, and after the sale
-- Seamless process from consultation to ongoing support
-- Supplies reliable solar products to resellers, contractors, and installers
-- Stays current with evolving solar technology for long-term quality
+- Supplies solar equipment to resellers, contractors, integrators, and installers
+- Services twelve counties across North Central Indiana
+- Custom system design with full permit and grant management
+- Ongoing maintenance and monitoring support
 
 ## Capabilities
-- Consultation
-- System design
-- Permitting and documentation
-- Installation
-- Monitoring and maintenance
-- Grid-tied solar systems
-- Grid-tied with battery backup
-- Off-grid solar systems
-- Energy monitoring systems
+- Solar energy system installation (grid-tied, battery backup, off-grid)
+- Energy monitoring system installation
 - Generator installation
-- Solar financing options
-- Incentive assistance
+- Consultation and site assessment
+- Custom system design and engineering
+- Permit, application, and grant documentation
+- Ongoing maintenance and monitoring
+- Solar equipment distribution to trade partners
+- Customer service before, during, and after sale
 
 ## Industries
-- Solar Power
-- Renewable Energy
-- Energy Monitoring Systems
-- Residential Solar
-- Commercial Solar
-- Agricultural Solar
+- Solar power & renewable energy
+- Residential
+- Commercial
+- Agricultural
+- Energy monitoring
+- Renewable energy equipment distribution
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -488,15 +503,17 @@ Advanced Solar emphasizes a seamless, hassle-free experience backed by a profess
 <details><summary>Sources</summary>
 
 - Founded by Glen Miller as alternative energy engineering, sales, and services company -> /about-us
-- Headquartered in Warsaw, Indiana -> db
+- Headquarters in Warsaw, Indiana -> db
+- Operates as Advanced Solar Distributing LLC -> / (copyright)
 - Installs grid-tied, grid-tied with battery backup, off-grid solar systems -> /
-- Supplies solar equipment to resellers, contractors, integrators, installers -> /about-us
-- Service area includes 12 North Central Indiana counties -> /
+- Provides energy monitoring systems and generators -> /
 - Process: consultation, design, documentation, installation, support -> /
+- Supplies equipment to resellers, contractors, integrators, installers -> /about-us
+- Service area: 12 North Central Indiana counties -> /
 - Mission: build brighter future, give God glory -> /about-us
-- Vision: stay educated with latest evolving technology -> /about-us
-- Customer service before, during, after sale -> /
-- LinkedIn URL -> db
+- Vision: stay educated with latest technology, quality for life of investment -> /about-us
+- Customer service before, during, after sale emphasized -> /
+- LinkedIn URL present -> db
 </details>
 
 ---
@@ -506,64 +523,66 @@ Advanced Solar emphasizes a seamless, hassle-free experience backed by a profess
 **Old description:** None
 
 ## About
-Advanced Wire and Cable was founded in 1993 near Wright Patterson Air Force Base in Dayton, Ohio. The company was established as a woman-owned distributor to serve the specialized needs of aerospace and defense contractors, and it remains WBENC-certified today.
+Founded in 1993 near Wright-Patterson Air Force Base in Dayton, Ohio, Advanced Wire and Cable is a woman-owned distributor specializing in military, aerospace, and commercial wire, cable, tubing, and electronic products. The company is WBENC-certified and operates as a small business supporting supplier diversity initiatives.
 
-The firm distributes a comprehensive range of military, aerospace, and commercial wire, cable, tubing, and electronic components. It maintains an extensive inventory supported by a cross-reference database that matches active and obsolete part numbers, and offers same-day shipping on most in-stock orders placed before 2 PM EST. Additional services include hazardous material shipping with DOT/IATA compliance, special orders, and custom sourcing solutions.
+The company maintains an extensive inventory of mil-spec, high-temperature, and specialty wire and cable, along with protective tubing, sleeving, and electronic components for defense and aerospace applications. Services include same-day shipping on most in-stock orders placed before 2 PM EST, part-number cross-referencing for active and obsolete items, hazardous-material shipping compliant with DOT and IATA regulations, and custom sourcing for hard-to-find parts. Technical consultation and live phone support are provided without automated menus.
 
-Primary customers are aerospace and defense contractors, along with commercial and industrial buyers. The company has served military and aerospace programs for over three decades, supplying products that meet strict military specifications and aerospace standards.
+Advanced Wire and Cable serves military, aerospace, defense, and commercial customers nationwide, including prime defense contractors and aerospace manufacturers. Its customer base spans organizations that require compliance with stringent military and aerospace specifications.
 
-Advanced Wire and Cable emphasizes its AS9120 and ISO 9001 certifications as evidence of its quality management commitment. Its woman-owned status provides procurement teams with supplier diversity credit and tax incentive opportunities. The company also highlights live person phone support and credit card acceptance without processing fees as service differentiators.
+The business was established to meet the specialized needs of aerospace and defense contractors for reliable, precision components. Its leadership emphasizes that certifications such as AS9120 and ISO 9001 reflect a commitment to quality and safety, while woman-owned status offers procurement teams tax-incentive opportunities and supports diversity goals.
 
 ## Known for
-- Same-day shipping on in-stock orders placed before 2 PM EST
-- WBENC-certified woman-owned business supporting supplier diversity initiatives
-- AS9120 and ISO 9001 certified quality management system
-- Extensive part number cross-reference database for obsolete and active components
-- Hazardous material shipping with full DOT/IATA compliance
+- Same-day shipping on most in-stock orders placed before 2 PM EST
+- Extensive cross-reference database for active and obsolete part numbers
+- Hazardous-material shipping with DOT/IATA compliance
+- Live person phone support with no automated menus
+- WBENC-certified woman-owned business supporting supplier diversity
 
 ## Capabilities
-- Wire distribution
-- Cable distribution
-- Tubing and sleeving distribution
-- Electronic component distribution
+- Distribution of military, aerospace, and commercial wire, cable, tubing, and electronic components
+- Same-day shipping
 - Part number cross-referencing
-- Obsolete and hard-to-find part sourcing
-- Hazardous material shipping
-- Same-day order fulfillment
-- Custom and special order sourcing
+- Hazardous material shipping (DOT/IATA)
+- Special orders and custom sourcing
 - Technical consultation
+- Live phone support
+- Credit card processing with no fees
 
 ## Industries
+- Military
 - Aerospace
 - Defense
-- Military
 - Commercial
 - Industrial
 
 ## Certifications
 - AS9120
+- ISO 9001
 - WBENC
 
 ## Company details
 - **Company Type:** Distributor / reseller
 - **Founded:** 1993
-- **Ownership:** Woman-owned
+- **Ownership:** Woman-owned, WBENC-certified
 - **Headquarters:** Dayton, Ohio
 
 <details><summary>Sources</summary>
 
-- Founded in 1993 near Wright Patterson Air Force Base in Dayton, Ohio -> /
+- Founded in 1993 near Wright-Patterson Air Force Base in Dayton, Ohio -> /about
 - Woman-owned distributor -> /
-- WBENC-certified woman-owned business -> /about
-- AS9120 and ISO 9001 certified -> /, /about
-- Specializes in military, aerospace, and commercial wire, cable, tubing, and electronic products -> /, /about
-- Extensive cross-reference database for active and obsolete part numbers -> /, /services
+- WBENC-certified -> /about
+- AS9120 and ISO 9001 certified -> /about
 - Same-day shipping on most in-stock orders before 2 PM EST -> /services
+- Part number cross-referencing for active and obsolete parts -> /services
 - Hazardous material shipping with DOT/IATA compliance -> /services
 - Live person phone support -> /services
-- Credit cards accepted with no processing fees -> /services
-- Serves aerospace and defense contractors for over 30 years -> /, /about
-- Provides supplier diversity credit and tax incentive opportunities -> /about
+- Serves military, aerospace, defense, and commercial customers nationwide -> /about
+- Specializes in sourcing hard-to-find and obsolete parts -> /
+- No credit card processing fees -> /services
+- Headquarters in Dayton, Ohio -> db
+- Founded year 1993 -> db
+- Certifications: ISO9001 -> db
+- Industries served: military, aerospace, commercial -> db
 </details>
 
 ---
@@ -573,45 +592,44 @@ Advanced Wire and Cable emphasizes its AS9120 and ISO 9001 certifications as evi
 **Old description:** Founded in 1954 in Tokyo, we’ve built a legacy of breakthroughs in test and measurement. Today, our worldwide team continues to push boundaries, delivering solutions that power the future of electronics.
 
 ## About
-Advantest America Inc is headquartered in New York, New York. The company traces its origins to 1954 when Advantest Corporation was founded in Tokyo, Japan. The American subsidiary operates as part of the global Advantest Group, which develops and manufactures semiconductor test and measurement equipment.
+Advantest America Inc. is headquartered in New York, New York, and operates as the United States subsidiary of Advantest Corporation, which was founded in 1954 in Tokyo. The Japanese parent company began as a pioneer in electronic measurement and has grown into a global supplier of semiconductor test equipment. The U.S. entity supports sales, service, and engineering for the North American market.
 
-The company designs and produces automated test equipment (ATE) for semiconductor manufacturers. Its product portfolio includes system-on-chip (SoC) test systems such as the V93000 EXA Scale, memory test systems like the T5801 for ultra-high-speed DRAM devices, component test systems, metrology and scanning electron microscopy (SEM) tools, and software solutions including the ACS Gemini digital twin platform and the SiConic design verification ecosystem.
+The company designs and manufactures automated test equipment (ATE) for semiconductor production. Its product portfolio includes system-on-chip (SoC) test platforms such as the V93000 EXA Scale, memory test systems like the T5801 for ultra-high-speed DRAM, component test systems, metrology and scanning electron microscopy tools, and software solutions including the ACS Gemini digital twin platform and the SiConic unified test development ecosystem. Advantest also provides customer support services worldwide.
 
-Advantest serves the semiconductor industry worldwide, supporting customers engaged in semiconductor design evaluation, volume production ramps, and high-volume manufacturing of memory, logic, and power devices. Its equipment is used by integrated device manufacturers, foundries, and outsourced semiconductor assembly and test (OSAT) providers for applications ranging from AI accelerators to automotive electronics.
+Advantest serves the semiconductor industry and broader electronics sector. Its customers include integrated device manufacturers, fabless design houses, foundries, and assembly and test subcontractors. Recent collaborations highlight work in silicon photonics with OpenLight, power semiconductor test with the MTe platform, and high-performance AI memory devices with the M5241 handler. The company participates in major industry events such as SEMICON West, SEMICON India, SEMICON Taiwan, and the International Test Conference.
 
-Advantest states its mission is to contribute to society through the development of the most advanced technology, emphasizing a corporate philosophy called The Advantest Way that guides its global workforce. The company highlights its focus on solving customer issues and creating value for stakeholders through innovation in test and measurement.
+Advantest states that its mission is to contribute to society through the development of the most advanced technology, focusing on solving customer issues and creating value for stakeholders. The corporate philosophy, known as The Advantest Way, guides its global operations.
 
 ## Known for
-- Leading-edge SoC test platform (V93000 EXA Scale) addressing next-generation test challenges
-- Ultra-high-speed DRAM testing up to GDDR7/LPDDR6/DDR6 (T5801)
-- Unified, automated design verification and test ecosystem (SiConic)
-- Digital twin software for accelerating test application development (ACS Gemini)
+- We aim to focus on solving customer issues and further creating value for our stakeholders.
+- We will contribute to society through development of the most advanced technology.
+- Industry-leading precision and cost efficiency.
+- Unified, automated, and scalable ecosystem that empowers design verification, silicon validation and test engineering teams.
 
 ## Capabilities
+- Automated test equipment (ATE) design and manufacture
 - SoC test systems
 - Memory test systems
 - Component test systems
-- Metrology/SEM
+- Metrology and SEM
 - Test software solutions
-- Digital twin simulation
-- Design verification
-- Silicon validation
-- Customer support services
+- Cloud-based digital twin software (ACS Gemini)
+- SiConic test development ecosystem
+- Customer support and services
 
 ## Industries
 - Semiconductor
-- Electronics manufacturing
-- Memory
+- Electronics
+- Silicon photonics
 - Power semiconductor
-- AI hardware
 
 ## Equipment
 - V93000 EXA Scale
 - T5801
 - M5241 Memory Handler
+- T2000 AiR2X
 - MTe
 - Pin Scale 5000B
-- T2000 AiR2X
 - ACS Gemini Digital Twin Software Solution
 - SiConic
 
@@ -624,11 +642,17 @@ Advantest states its mission is to contribute to society through the development
 
 - Founded in 1954 in Tokyo -> db
 - Headquartered in New York, New York -> db
-- Product categories: Automated Test Equipment, Component Test Systems, Metrology/SEM, Software Solutions, SoC Test Systems, Memory Test Systems -> page "/"
-- Specific products: V93000 EXA Scale, T5801, M5241 Memory Handler, MTe, Pin Scale 5000B, T2000 AiR2X, ACS Gemini, SiConic -> page "/"
-- Industries: semiconductor design evaluation, volume production ramps -> page "/"
-- Corporate philosophy: The Advantest Way -> page "/about"
-- ISO Certification mentioned -> page "/about"
+- Manufactures automated test equipment including V93000 EXA Scale, T5801, M5241 Memory Handler -> /
+- Offers SoC test systems, memory test systems, component test systems, metrology/SEM, software solutions, cloud solutions -> /
+- Serves semiconductor and electronics industries -> db, /
+- Partners with OpenLight for silicon photonics test solutions -> /
+- Extends SiConic ecosystem to DFT engineering -> /
+- Opens Chitose Office in 2026 -> /
+- ISO Certification mentioned -> /about
+- Group CEO Douglas Lefever -> /about
+- Corporate philosophy: The Advantest Way -> /about
+- Mission to contribute to society through advanced technology -> /
+- Focus on solving customer issues and creating stakeholder value -> /
 </details>
 
 ---

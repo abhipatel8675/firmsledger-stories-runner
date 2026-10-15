@@ -3,53 +3,53 @@
 **Old description:** The Ebanista School of Fine Woodworking was founded to bring a school capable of offering the highest level of instruction in the design and making of inspired furniture to the Pacific Northwest. Those skills, once attained, will afford any student the foundation to expand into limitless other areas of interest, such as cabinetmaking, instrument making, boatbuilding, fine carpentry, and even the ability to carry design skills and precision into vastly different disciplines.
 
 ## About
-Ebanista School of Fine Woodworking operates in the Georgetown neighborhood of Seattle, Washington. The school launched its first classes in the fall of 2018, established in response to long-standing demand for a high-caliber woodworking institution in the Pacific Northwest. Ownership details and founder names are not publicly disclosed.
+Ebanista School of Fine Woodworking operates in the Georgetown neighborhood of Seattle, Washington. The school launched its first classes in the fall of 2018, founded by Jonathan Cohen in response to longstanding demand for a high-caliber woodworking institution in the Pacific Northwest. Cohen, a veteran woodworker who has spoken publicly on the craft, established the school to deliver the highest level of instruction in furniture design and construction.
 
-The school provides instruction in furniture design and construction, led by instructors who each bring at least 45 years of professional woodworking experience. The facility houses both classrooms and a professional furniture studio, and class sizes are deliberately kept small to maximize individual attention. Curriculum covers foundational skills that enable graduates to pursue cabinetmaking, instrument making, boatbuilding, fine carpentry, and other precision woodworking disciplines.
+The facility combines a teaching environment with a professional furniture studio. All instructors are specialists with a minimum of 45 years of professional woodworking experience. Class sizes are intentionally limited to ensure maximum individual attention. The curriculum covers the design and making of inspired furniture, providing a foundation that students can apply to cabinetmaking, instrument making, boatbuilding, fine carpentry, and other precision disciplines.
 
-Programs serve students of all ages seeking to become designers and makers, with the training applicable across cabinetmaking, instrument making, boatbuilding, and fine carpentry sectors. The school positions itself as a gateway for those entering professional woodworking trades or related design fields.
+The school serves students of all ages seeking to develop professional-level woodworking skills. Its graduates move into fields such as custom furniture making, cabinetry, musical instrument construction, boatbuilding, and architectural woodworking. The program also attracts hobbyists and career-changers looking for rigorous, hands-on training.
 
-Ebanista was created to fill a gap in the region for advanced woodworking education, answering repeated requests for a school of this caliber. The name, Spanish for "fine woodworker," reflects a philosophy that wood's variability makes it a uniquely expressive material, a perspective shared by director Jonathan Cohen in a 2016 Google talk.
+Ebanista was created to fill a gap identified through years of requests for a school of this caliber. The name, Spanish for "fine woodworker," reflects a philosophy that wood's variability makes it a uniquely expressive material. The school's approach emphasizes deep material understanding and precision, positioning woodworking as a gateway to broader design and engineering thinking.
 
 ## Known for
 - Instructors with minimum 45 years professional woodworking experience
-- Intentionally limited class sizes for maximum student attention
-- Combined school and professional furniture studio facility
-- Curriculum designed as foundation for diverse woodworking disciplines
-- Founded in response to sustained demand for high-level woodworking education in the Pacific Northwest
+- Intentionally limited class sizes for maximum individual attention
+- Combined school and professional furniture studio in one facility
+- Curriculum focused on furniture design and making as a foundation for multiple woodworking disciplines
 
 ## Capabilities
 - Furniture design instruction
 - Fine woodworking instruction
-- Cabinetmaking training
-- Instrument making training
-- Boatbuilding training
-- Fine carpentry training
+- Cabinetmaking instruction
+- Instrument making instruction
+- Boatbuilding instruction
+- Fine carpentry instruction
+- Professional furniture making
 
 ## Industries
 - Education
-- Woodworking
-- Furniture Design
+- Furniture making
 - Cabinetmaking
-- Instrument Making
+- Instrument making
 - Boatbuilding
-- Fine Carpentry
+- Fine carpentry
 
 ## Company details
 - **Company Type:** Other
+- **Founded:** 2018
+- **Ownership:** Founder-owned
 - **Headquarters:** Seattle, Washington
 
 <details><summary>Sources</summary>
 
 - Located in Georgetown area of Seattle -> /
-- Classes began in fall 2018 -> /
-- Instructors have minimum 45 years experience as professional woodworkers -> /
-- Facility houses both a school and a professional furniture studio -> /
+- Classes began fall 2018 -> /
+- Founded by Jonathan Cohen (implied from Google talk quote) -> /
+- Instructors have minimum 45 years professional experience -> /
+- School houses both a school and professional furniture studio -> /
 - Class sizes intentionally limited -> /
-- Training applicable to cabinetmaking, instrument making, boatbuilding, fine carpentry -> /
-- Founded in response to requests for a school of this caliber -> /
+- Curriculum covers furniture design, cabinetmaking, instrument making, boatbuilding, fine carpentry -> /
 - Ebanista means 'fine woodworker' in Spanish -> /
-- Director Jonathan Cohen quoted from 2016 Google talk -> /
 </details>
 
 ---
@@ -59,35 +59,35 @@ Ebanista was created to fill a gap in the region for advanced woodworking educat
 **Old description:** Distinctive, handmade contemporary furniture and decor, designed and finely crafted in Maine by Eben Blaney. From one of a kind and made to order custom creations, to a variety of limited production furniture, every piece is designed to the highest artistic and functional standards, and impeccably handmade using the most beautiful and carefully selected hardwoods.
 
 ## About
-Eben Blaney Fine Contemporary Furniture operates from a studio and showroom in Edgecomb, Maine. The business was established by Eben Blaney, who has been designing and building contemporary furniture for over 20 years. Blaney works as the sole designer and maker, producing each piece himself or in small batches.
+Eben Blaney Fine Contemporary Furniture operates from a studio and showroom in Edgecomb, Maine. Founder Eben Blaney has been designing and building contemporary furniture for well over 20 years, establishing a practice centered on handmade, one-of-a-kind and limited-production pieces.
 
-The company creates contemporary furniture and decor including tables, seating, case pieces, beds, mirrors, and decorative objects. Every item is handmade using carefully selected hardwoods, with an emphasis on precise joinery and imaginative engineering. Blaney constructs pieces one at a time or in limited production runs, and each finished work is signed, dated, and numbered if part of a series.
+The workshop produces custom furniture commissions and a rotating line of limited-production items including tables, seating, case pieces, beds, mirrors, and decor. Each piece is built individually or in small batches using precise joinery and imaginative engineering, then signed, dated, and numbered before delivery. The work relies on carefully selected hardwoods chosen for their beauty and character.
 
-Clients include individual homeowners, interior designers, architects, and collectors across the Northeast, nationally, and internationally. The studio serves both retail customers and trade professionals, and a selection of pieces is also available through the online platform Incollect. Custom commissions are accepted through a defined process that begins with a consultation.
+Clients include individual collectors, design professionals, and trade buyers across the Northeast, nationally, and internationally. Pieces are sold directly through the Edgecomb showroom, via the online platform Incollect, and by commission. The company serves the residential furniture, interior design, and custom furnishings markets.
 
-Blaney's work is distinguished by bold, clean-lined forms that are deceptively complex, requiring exacting craftsmanship to achieve animated, dynamic stances and smooth functionality. The business was founded on a commitment to the highest artistic and functional standards, with every piece impeccably handmade from the most beautiful hardwoods.
+Blaney's designs are described as bold, clean-lined, and deceptively complex, requiring exacting joinery to achieve animated, dynamic stances and smooth functionality. The firm emphasizes artistic and functional standards, with every piece impeccably handmade from premium hardwoods.
 
 ## Known for
-- Handmade one at a time or in small batches
+- Handmade in Maine studio
+- Custom and limited-production runs
 - Each piece signed, dated, and numbered
-- Custom commission process for one-of-a-kind designs
-- Limited production runs of original designs
-- Showroom and studio in Edgecomb, Maine
+- Precision joinery and imaginative engineering
+- Carefully selected premium hardwoods
 
 ## Capabilities
-- Contemporary Furniture
-- Limited Production Furniture
-- Case Pieces
-- Mirrors and Decor
-- Custom Furniture Commission
-- Handcrafted Joinery
+- Custom furniture design
+- Limited production furniture
+- Case piece construction
+- Mirror and decor fabrication
+- Precision joinery
+- Imaginative engineering
+- Furniture commissioning
 
 ## Industries
-- Residential Furniture
-- Interior Design
-- Luxury Home Furnishings
-- Art Collectors
-- Trade Professionals
+- Residential furniture
+- Interior design
+- Custom furniture
+- Luxury home furnishings
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -95,17 +95,17 @@ Blaney's work is distinguished by bold, clean-lined forms that are deceptively c
 
 <details><summary>Sources</summary>
 
-- Company name and description -> db
-- Location: Edgecomb, Maine -> db
+- Location: Edgecomb, Maine -> /
 - Founder: Eben Blaney -> /
-- Over 20 years experience -> /
-- Products: contemporary furniture and decor (tables, seating, case pieces, beds, mirrors, decor) -> /
-- Process: handmade, precise joinery, small batches, signed/dated/numbered -> /
-- Customers: individual clients, design professionals, trade members, national/international -> /
-- Showroom at 96 Eddy Road, Edgecomb, Maine -> /
-- Available on Incollect platform -> /
+- Experience: over 20 years designing and building furniture -> /
+- Products: handmade contemporary furniture and decor, custom and limited production -> /
+- Processes: precise joinery, imaginative engineering, handmade one at a time or small batches -> /
+- Scale: each piece signed, dated, numbered -> /
 - Materials: carefully selected hardwoods -> /
-- Custom commission process -> /
+- Customers: individual clients, design professionals, trade buyers, northeast/nationally/internationally -> /
+- Showroom: 96 Eddy Road, Edgecomb, Maine -> /
+- Sales platform: Incollect -> /
+- Differentiation: bold, clean-lined designs, deceptively complex, high artistic and functional standards -> /
 </details>
 
 ---
@@ -115,49 +115,49 @@ Blaney's work is distinguished by bold, clean-lined forms that are deceptively c
 **Old description:** Blue Diamond Industries is a premier manufacturer of high density polyethylene (HDPE) pipe for Communication, FTTA, Power, ITS, CATV, and Industrial applications. Chapman Electric Supply, Inc. is an authorized distributor of Blue Diamond products.
 
 ## About
-Eckart Supply operates a retail and distribution location in Noblesville, Indiana. The business originated as Chapman Electric Supply and now operates under the Eckart Supply name, with an online presence through its parent company EckartSupply.com. No founding year or ownership details are disclosed.
+Eckart Supply, formerly known as Chapman Electric Supply, operates a retail and distribution location in Noblesville, Indiana. The business traces its roots to Chapman Electric Supply, which was rebranded under the Eckart Supply name; the founding year and original founders are not publicly disclosed. The company functions as a subsidiary of EckartSupply.com, which serves as its parent e-commerce platform.
 
-The company stocks equipment, tools, and supplies for electrical and underground construction projects, including pipe, vaults, conduit, and hand tools. It maintains a physical storefront with a service counter staffed by trained technicians who perform tool repairs and provide technical support. The facility also serves as a pickup point for online orders from the parent company's catalog.
+The Noblesville facility stocks a broad range of electrical and underground utility products, including conduit, pipe, vaults, hand tools, power tools, and safety equipment. In addition to product sales, the location maintains an on-site service department staffed by trained technicians who perform repairs and maintenance on tools and equipment. Inventory spans brands such as Milwaukee Tools, Klein Tools, Greenlee, Blue Diamond Industries, Copperhead Industries, and numerous other manufacturers serving the electrical and underground construction markets.
 
-Customers include electrical contractors, utility contractors, and telecommunications installers working on communication, power, and intelligent transportation systems. The store carries underground utility brands such as Blue Diamond Industries HDPE pipe, Copperhead Industries tracer wire, Dura-Line conduit, and Condux tooling, alongside electrical brands from Eaton, Milwaukee, Klein Tools, and others.
+Primary customers include electrical contractors, underground utility installers, telecommunications crews, and industrial maintenance teams. The product assortment targets applications in power distribution, communications (including FTTA and CATV), intelligent transportation systems, and general industrial projects. By carrying lines from Blue Diamond Industries for HDPE pipe and Copperhead Industries for tracer wire, the store supports infrastructure builds across those sectors.
 
-Eckart Supply emphasizes that its commitment extends beyond the sale, offering on-site service and parts support for the tools and equipment it distributes. The combination of a local store, technical service capability, and access to a broader online catalog is presented as its primary value proposition.
+The company emphasizes that its commitment extends beyond the point of sale, highlighting the availability of factory-trained technicians for ongoing service needs. It also leverages its parent company’s online catalog to provide access to a wider selection than what is stocked in the physical store.
 
 ## Known for
-- On-site tool service and repair by trained technicians
-- Local store with immediate access to electrical and underground construction supplies
-- Online ordering through parent company EckartSupply.com with in-store pickup
-- Authorized distributor for major utility brands including Blue Diamond Industries and Copperhead Industries
+- On-site factory-trained technicians for tool and equipment repair
+- Parent company EckartSupply.com expands online product availability
+- Broad in-store inventory covering electrical and underground utility brands
+- Authorized distributor for Blue Diamond Industries HDPE pipe and Copperhead Industries tracer wire
 
 ## Capabilities
 - Electrical and underground product distribution
-- Tool service and repair
-- Technical support
-- In-store pickup for online orders
+- Tool repair and maintenance service
+- On-site technical support
 
 ## Industries
 - Electrical construction
-- Underground utility construction
-- Telecommunications infrastructure
+- Underground utility
+- Telecommunications
+- Power distribution
+- Industrial maintenance
 
 ## Certifications
-- UL Listed
+- ULLISTED
 
 ## Company details
 - **Company Type:** Distributor / reseller
-- **Headquarters:** Noblesville, Indiana
+- **Headquarters:** Noblesville, IN
 
 <details><summary>Sources</summary>
 
-- Location in Noblesville, IN -> /
+- Location: Noblesville, IN -> /
 - Formerly Chapman Electric Supply -> /
-- Parent company EckartSupply.com -> /
-- Carries equipment, tools, supplies for electrical and underground projects -> /
-- Trained technicians on site for service and parts -> /
-- Brands carried: Blue Diamond Industries, Copperhead Industries, Dura-Line, Condux, Eaton, Milwaukee, Klein Tools -> /
-- Store hours and address -> /
-- ULLISTED certification -> db
-- Mainline-to-Service Connector capability -> db
+- Parent company: EckartSupply.com -> /
+- On-site trained technicians for service and repair -> /
+- Carries brands: Milwaukee Tools, Klein Tools, Greenlee, Blue Diamond Industries, Copperhead Industries, etc. -> /
+- Certification: ULLISTED -> db
+- Capability: Mainline-to-Service Connector -> db
+- Industries served via brands: electrical construction, underground utility, telecommunications, power, industrial -> / and db
 </details>
 
 ---
@@ -167,22 +167,23 @@ Eckart Supply emphasizes that its commitment extends beyond the sale, offering o
 **Old description:** Originally founded by Ed and Matt, the business was built on hard work, honest service, and a commitment to treating customers the right way. Today, although Ed and Matt are retired, the next generation continues to carry on those same values while serving homeowners, landscapers, contractors, and municipalities throughout the area.
 
 ## About
-Ed & Matt Equipment Services operates from Greenville, Rhode Island. Founded by Ed and Matt, the business has transitioned to the next generation while maintaining its original commitment to honest service.
+Ed & Matt Equipment Services operates from Greenville, Rhode Island. The business was founded by Ed and Matt, who have since retired, and the next generation now carries on the operation.
 
-The company functions as a full-service outdoor power equipment dealer, offering sales, parts, rentals, and repair for a range of landscape, agricultural, and construction machinery. As a STIHL ELITE dealer with two Gold-level MasterWrench Service® certified technicians, the shop provides factory-authorized service on STIHL handheld products and services most makes and models of skid steers, excavators, tractors, backhoes, and articulating loaders. Additional capabilities include preventative maintenance, diagnostics, air conditioning and hydraulic system repair, hydraulic hose fabrication, engine and transmission service, clutch work, tire and track installation, and blade sharpening for chainsaws, mowers, hedge trimmers, and brush cutters.
+The company functions as a full-line outdoor power equipment dealer, offering sales, service, parts, and rentals. Its service department handles complete equipment repair, preventative maintenance, diagnostics, air conditioning service, hydraulic cylinder service, hydraulic hose fabrication and installation, engine and transmission repair, clutch work, and tire, ballast, and track installation. The shop also provides sharpening for chainsaw chains, mower blades, hedge trimmer blades, and brush cutter blades. As a STIHL MasterWrench Service® certified dealer with two Gold-level technicians, the facility meets STIHL's highest workshop standards.
 
-Customers include homeowners, professional landscapers, contractors, and municipal fleets throughout the region. The inventory spans STIHL chainsaws, trimmers, blowers, mowers, hedge trimmers, pole pruners, cut-off machines, concrete cutters, sprayers, vacuums, pressure washers, and the KombiSystem and YARD BOSS® multi-tool platforms.
+Customers include homeowners, landscaping contractors, agricultural operators, construction firms, and municipal fleets. The equipment lineup covers chainsaws, trimmers, blowers, mowers, hedge trimmers, pole pruners, cut-off machines, concrete cutters, sprayers, vacuums, pressure washers, and the STIHL KombiSystem and YARD BOSS® multi-tool platforms. The service side works on skid-steer and track loaders, excavators, compact tractors, backhoes, articulating loaders, three-point-hitch implements, and skid-steer attachments from most major brands.
 
-The company emphasizes a service-first philosophy, stating that "service is what we are all about" and highlighting its STIHL MasterWrench Service® certification as a mark of workshop quality and technician expertise.
+The company emphasizes that customer service is its highest priority, a value instilled by the founders. STIHL ELITE dealer status and MasterWrench certification are presented as proof that repairs are done right the first time, backed by specialized STIHL tools and a three-level training program for technicians.
 
 ## Known for
 - STIHL MasterWrench Service® Certified with two Gold-level technicians
-- Service for most makes and models of landscape, agricultural, and construction equipment
+- STIHL ELITE dealer status
+- Full-service repair for most makes and models of landscape, agricultural, and construction equipment
+- In-house hydraulic hose fabrication and installation
 - Sharpening services for chainsaw chains, mower blades, hedge trimmer blades, and brush cutter blades
-- Sales, service, parts, and rentals in one location
-- Customer service as highest priority
 
 ## Capabilities
+- Sales, service, parts, and rentals
 - Equipment repair
 - Preventative maintenance
 - Diagnostics
@@ -193,48 +194,50 @@ The company emphasizes a service-first philosophy, stating that "service is what
 - Transmission service
 - Clutch service
 - Tire, tire ballast, and track installation
-- Blade sharpening (chainsaw chains, mower blades, hedge trimmer blades, brush cutter blades)
-- Outdoor power equipment sales
-- Parts supply
-- Equipment rentals
-- STIHL MasterWrench Service® certified repair
+- Chainsaw chain sharpening
+- Mower blade sharpening
+- Hedge trimmer blade sharpening
+- Brush cutter blade sharpening
+- STIHL MasterWrench Service® certified repairs
 
 ## Industries
 - Landscaping
 - Agriculture
 - Construction
-- Municipal government
+- Municipal
 - Residential
 
 ## Equipment
-- STIHL outdoor power equipment (chainsaws, trimmers, blowers, mowers, hedge trimmers, pole pruners, cut-off machines, concrete cutters, sprayers, vacuums, pressure washers, KombiSystem, YARD BOSS®)
-- Skid steer loaders
-- Track loaders
+- Skid steer and track loaders
 - Excavators
-- Agricultural tractors
-- Compact tractors
+- Agricultural and compact tractors
 - Backhoes
 - Articulating loaders
+- 3-point hitch implements
+- Skid steer attachments
+- STIHL AS System battery tools
+- STIHL KombiSystem multi-tools
+- STIHL YARD BOSS® multi-tools
 
 ## Certifications
-- STIHL MasterWrench Service® Certified (Gold level)
+- STIHL MasterWrench Service® Certified
 - STIHL ELITE Dealer
+- STIHL Gold Level Technician
 
 ## Company details
-- **Company Type:** Distributor / reseller
+- **Company Type:** Retailer
 - **Headquarters:** Greenville, Rhode Island
 
 <details><summary>Sources</summary>
 
-- Founded by Ed and Matt, now next generation -> /
-- Located in Greenville, Rhode Island -> db
-- STIHL ELITE dealer with two Gold-level MasterWrench Service® certified technicians -> /services
-- Services most makes and models of skid steers, excavators, tractors, backhoes, articulating loaders -> /services
-- Offers preventative maintenance, diagnostics, air conditioning service, hydraulic cylinder service, hydraulic hose fabrication, engine and transmission service, clutch service, tire and track installation -> /services
-- Offers sharpening services for chainsaw chains, mower blades, hedge trimmer blades, brush cutter blades -> /services
-- Serves homeowners, landscapers, contractors, municipalities -> /
-- Carries STIHL chainsaws, trimmers, blowers, mowers, hedge trimmers, pole pruners, cut-off machines, concrete cutters, sprayers, vacuums, pressure washers, KombiSystem, YARD BOSS® -> /
-- Customer service is our highest priority -> /
+- Location: Greenville, Rhode Island -> db
+- Founded by Ed and Matt, now run by next generation -> /
+- Sales, Service, Parts & Rentals -> /
+- Service capabilities: repair, maintenance, diagnostics, AC, hydraulic, engine, transmission, clutch, tire/track, sharpening -> /services
+- STIHL MasterWrench Service® Certified, ELITE dealer, two Gold-level techs -> /services
+- Customer base: homeowners, landscapers, contractors, municipalities -> /
+- Equipment serviced: skid steer, excavators, tractors, backhoes, articulating loaders, implements -> /services
+- Product lines: STIHL AS System, KombiSystem, YARD BOSS -> /
 </details>
 
 ---
@@ -244,24 +247,24 @@ The company emphasizes a service-first philosophy, stating that "service is what
 **Old description:** At ECT our sheet metal fabrication capabilities include laser cutting, numerically controlled full sheet punching, automated bending and forming, robotic, and manual welding, AWS certified welding, spot-welding, assembly, and finishing.
 
 ## About
-Edge Core Tech (ECT) operates from Reno, Nevada. The company describes itself as a two-generation family operation built on pride, excellence, and customer commitment, though a specific founding year is not published.
+Edge Core Tech operates from Reno, Nevada, where it has built a sheet metal fabrication business around two generations of family involvement. The company does not publish a founding year, but its messaging emphasizes a legacy of pride, excellence, and customer commitment passed down through the family.
 
-ECT provides sheet metal fabrication services including laser cutting, numerically controlled full-sheet punching, automated bending and forming, robotic and manual welding (AWS certified), spot welding, assembly, and finishing. The shop also runs CNC milling on a HAAS VF-4SS and hardware insertion with a HAEGER press, supported by engineering and programming staff that can take a project from concept through finished part. The company notes it offers thousands of combinations of sheet metal materials, finishes, tolerances, markings, and certifications per order.
+The shop provides a full range of sheet metal services: laser cutting, numerically controlled full-sheet punching, automated bending and forming, robotic and manual welding (including AWS‑certified and spot welding), assembly, and finishing. Engineering and programming support is available from design through production, and the facility runs a HAAS VF‑4SS CNC mill and a Haeger hardware press alongside Mastercam milling software.
 
-The company serves customers who need custom metal parts, from prototype through production, but does not list specific industry verticals or named clients in its public materials.
+Edge Core Tech serves customers who need custom metal parts, though the company does not list specific industry verticals or named clients on its site. Its pitch centers on industry‑specific expertise, cost‑effective solutions, and a global manufacturing network that can handle projects from prototype to production.
 
-ECT emphasizes a hands-on approach: qualified engineers work from blueprints, sketches, samples, or digital files to turn concepts into physical reality, while OSHA-certified employees and a certified welding department underscore a focus on safety and weld quality. The firm also promotes cost-effective solutions and a global manufacturing network to give clients peace of mind.
+The company highlights its AWS‑certified welding department, OSHA‑certified workforce, and the ability to start from a sketch, sample, or digital file as key differentiators. Two generations of family ownership are cited as the foundation for its focus on quality and long‑term customer relationships.
 
 ## Known for
 - Two generations of family ownership and customer commitment
-- AWS certified welding department
-- OSHA certified employees
-- Engineering and programming from concept to finished part
-- Thousands of material, finish, tolerance, and certification combinations
+- AWS‑certified welding department
+- OSHA‑certified employees
+- Global manufacturing network for cost‑effective solutions
+- Engineering support from concept through finished part
 
 ## Capabilities
 - Laser cutting
-- NC full sheet punching
+- Numerically controlled full sheet punching
 - Automated bending and forming
 - Robotic welding
 - Manual welding
@@ -269,37 +272,38 @@ ECT emphasizes a hands-on approach: qualified engineers work from blueprints, sk
 - Spot welding
 - Assembly
 - Finishing
-- CNC milling
-- Hardware pressing
 - Engineering and programming
-- Design assistance
+- Design support
+- CNC milling (HAAS VF-4SS)
+- Hardware pressing (Haeger)
+- Mastercam programming
 
 ## Equipment
-- HAAS VF-4SS CNC mill
-- HAEGER hardware press
+- HAAS VF-4SS CNC MILLING
+- HAEGER HARDWARE PRESS
+- Mastercam Mill
 
 ## Certifications
-- AWS welding certification
-- OSHA employee certification
+- AWS Certified Welding
+- OSHA Certified
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
-- **Ownership:** Second-generation family-owned
 - **Headquarters:** Reno, Nevada
 
 <details><summary>Sources</summary>
 
-- Company name Edge Core Tech (ECT) -> db
-- Headquarters Reno, Nevada -> db
-- Sheet metal fabrication capabilities: laser cutting, NC punching, automated bending/forming, robotic/manual welding, AWS certified welding, spot welding, assembly, finishing -> /
-- Engineering and programming from design to finished part -> /
-- CNC milling with HAAS VF-4SS -> /
-- Hardware pressing with HAEGER press -> /
-- Two generations of pride, excellence, customer commitment -> /
-- OSHA certified employees -> /
-- Thousands of combinations of materials, finishes, tolerances, markings, certifications -> /
-- Qualified engineers work from blueprints, sketches, samples, digital files -> /
-- Cost-effective solutions, global manufacturing network -> /
+- Company operates in Reno, Nevada -> db
+- Two generations of pride, excellence, and customer commitment -> /
+- Sheet metal fabrication capabilities: laser cutting, NC full sheet punching, automated bending/forming, robotic/manual welding, AWS certified welding, spot welding, assembly, finishing -> /
+- Engineering and programming support from design to finished product -> /
+- HAAS VF-4SS CNC mill and Haeger hardware press in facility -> /
+- Mastercam milling software used -> /
+- AWS certified welding department -> /
+- Employees are OSHA certified -> /
+- Global manufacturing network and cost-effective solutions -> /
+- No founding year explicitly stated -> db
+- No specific industries or clients named -> /
 </details>
 
 ---
@@ -309,87 +313,97 @@ ECT emphasizes a hands-on approach: qualified engineers work from blueprints, sk
 **Old description:** Look To Ehmke Manufacturing When You Need A Custom Manufacturer Of Soft Side And Hard Cases, Padded Bags And Cases, Tarpaulins, Promotional Cases, Athletic and Fitness Bags.
 
 ## About
-Ehmke Manufacturing Company, Inc. was founded in May 1929 by Howard Ehmke in Philadelphia, Pennsylvania. The company operates a 50,000-square-foot single-floor facility and holds HUBZone certification.
+Ehmke Manufacturing Co. Inc. has operated from Philadelphia, Pennsylvania, since its founding in May 1929 by Howard Ehmke. The company began as a technical fabric manufacturer serving military and industrial markets, and remains a privately held business today.
 
-The firm engineers and fabricates technical fabric products including soft-sided cases, bags, tarpaulins, promotional cases, athletic and fitness bags, thermal and acoustic blankets for aircraft such as the Boeing CH-47 Chinook and V-22 Osprey, ground support covers, vehicular covers, field kitchen fabric components, MOLLE packs, medical cases, tactical gear, straps, and web assemblies. It has produced over 8,000 distinct products for the defense industry. Capabilities encompass engineering support, prototyping, LEAN manufacturing, computer-aided cutting, single- and double-needle sewing, box and bar tacking, fabric welding, grommet installation, and an operator cross-training program. The quality system is certified to ISO 9001:2015 and AS9100:2016, with additional MIL-I-45208 and statistical process control qualifications.
+The 50,000-square-foot, single-floor facility houses a range of equipment including single- and double-needle sewing machines, box and bar tackers, computer-aided cutting tables, fabric welding machines, and grommet presses. These assets support LEAN production lines that produce thermal-acoustic blankets, soft-sided cases, bags, tarpaulins, covers, safety harnesses, straps, and web assemblies. The company reports having manufactured over 8,000 distinct products for the defense sector.
 
-Customers include the U.S. Armed Forces, allied militaries, defense contractors, commercial OEMs (notably Boeing Integrated Defense Systems), and various industrial sectors. Specific programs served include thermal/acoustic blankets for rotorcraft and fabric components for the Mobile Kitchen Trailer.
+Customers include the U.S. Armed Forces, allied militaries, defense contractors, and commercial OEMs. Notable programs include thermal-acoustic blankets for Boeing CH-47 Chinook and V-22 Osprey rotorcraft, and fabric components for the Mobile Kitchen Trailer. The firm is registered in SAM for government contracting and holds HUBZone certification.
 
-Ehmke emphasizes a mission to be a custom, flexible, and reliable production resource. It differentiates itself as one of few textile manufacturers with dual ISO 9001 and AS9100 registration, and has recently developed a 22-item AI-driven improvement roadmap targeting scheduling, inventory visibility, proposal development, and operational decision-making.
+Ehmke differentiates itself through its quality system—ISO 9001:2015 and AS 9100:2016 registration, rare in the textile industry—and a staff that collectively holds all three IFAI professional certifications. In 2026 the company launched a 22-project AI roadmap targeting proposal generation, inventory visibility, and shop-floor scheduling to reduce lead times and increase capacity.
 
 ## Known for
-- One of few textile manufacturers with ISO 9001:2015 and AS9100:2016 registration
-- Produced over 8,000 distinct products for the defense industry
-- 50,000 sq ft facility with computer-aided cutting tables and LEAN flexible production lines
-- AI-enhanced operations with a 22-use-case roadmap for scheduling, inventory, and proposals
-- HUBZone-certified and registered in SAM for government contracting
+- ISO 9001:2015 and AS 9100:2016 registered (one of few in textile industry)
+- Staff hold all three IFAI professional certifications (Master Fabrics Craftsman, Industrial Fabrics Manager, Certified Project Planner)
+- 50,000 sq ft LEAN manufacturing facility with computer-aided cutting and fabric welding
+- 22 AI-driven operational improvements for scheduling, inventory, and proposal development
+- HUBZone certified and SAM-registered for government contracting
 
 ## Capabilities
-- Engineering support services
-- Prototyping
-- LEAN manufacturing
-- Computer-aided cutting
+- Engineering support services & prototyping
+- Technical fabric manufacturing
 - Single-needle sewing
 - Double-needle sewing
 - Box tacking
 - Bar tacking
+- Computer-aided cutting
 - Fabric welding
 - Grommet installation
+- Press operations
+- Punch operations
+- LEAN manufacturing
 - Operator cross-training program
-- Statistical process control
+- Thermal-acoustic blanket fabrication
+- Soft-sided case fabrication
+- Bag fabrication
+- Tarpaulin fabrication
+- Cover fabrication
+- Safety harness fabrication
+- Strap and web assembly fabrication
 - Reverse engineering
-- Cost-effective design modification
+- AI-assisted proposal generation
 - AI-assisted inventory management
-- AI-assisted proposal development
-- Shop floor scheduling optimization
+- AI-assisted shop floor scheduling
 
 ## Industries
-- Defense
-- Aerospace
-- Industrial
-- Commercial OEM
-- Government
+- U.S. Armed Forces
+- Defense industry
+- Commercial OEMs
+- Industrial applications
+- Aerospace (rotorcraft)
+- Government contracting
+- Tactical gear
+- Field kitchen equipment
 
 ## Equipment
-- Computer-aided cutting tables
-- Commercial sewing machines
-- Industrial sewing machines
-- Paraloft sewing machines
-- Military sewing machines
+- Commercial, industrial, paraloft and military sewing machines (single- and double-needled)
 - Box and bar tackers
-- Presses and punch machines
+- Computer-aided cutting tables
+- Various presses and punch machines
 - Fabric welding machines
 - Grommet machines
 
 ## Certifications
-- ISO 9001:2015
-- AS9100:2016
-- MIL-I-45208
-- Statistical Process Control (US Government Certified)
+- ISO 9001:2015 (Certificate #13828)
+- AS 9100:2016 (Certificate #13828)
+- Mil-I-45208
+- Statistical Process Control – US Government Certified (1993)
 - IFAI Master Fabrics Craftsman Certification
 - IFAI Industrial Fabrics Manager Certification
 - IFAI Certified Project Planner Certification
+- HUBZone
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1929
-- **Ownership:** HUBZone-certified small business
 - **Headquarters:** Philadelphia, Pennsylvania
 
 <details><summary>Sources</summary>
 
-- Founded 1929 -> /about-us
-- Headquarters Philadelphia, PA -> /about-us
-- 50,000 sq ft facility -> /about-us
-- HUBZone certification -> /about-us
-- ISO 9001:2015 and AS9100:2016 certifications -> /about-us
-- Produced over 8,000 products for defense -> /capabilities
-- Thermal acoustic blankets for Boeing CH-47 and V-22 -> /about-us
+- Founded May 1929 -> /about-us
+- Headquarters Philadelphia, Pennsylvania -> db
+- 50,000 sq ft single-floor facility -> /about-us
+- ISO 9001:2015 and AS 9100:2016 certified -> /about-us
+- Over 8,000 products for defense industry -> /capabilities
+- Staff hold three IFAI certifications -> /capabilities
+- AI roadmap with 22 projects -> /capabilities
+- Government contracting registered in SAM -> /
+- HUBZone certified -> /about-us
+- Boeing CH-47 and V-22 thermal-acoustic blankets -> /about-us
 - Mobile Kitchen Trailer fabric components -> /about-us
-- Engineering support, prototyping, LEAN manufacturing -> /capabilities
-- Computer-aided cutting tables, sewing machines, welding machines, grommet machines -> /capabilities
-- AI-enhanced capabilities with 22 use cases -> /capabilities
-- Registered in SAM for government contracting -> /
+- Engineering support services and prototyping -> /capabilities
+- LEAN manufacturing -> /capabilities
+- Computer-aided cutting tables, sewing machines, fabric welding machines -> /capabilities
+- Founder Howard Ehmke -> /about-us
 </details>
 
 ---
@@ -399,57 +413,55 @@ Ehmke emphasizes a mission to be a custom, flexible, and reliable production res
 **Old description:** In 2020, Tony founded EightTwenty to help solve the energy challenge we have as a country. The company is built upon the principles of respect, focus and quality and measures success by how they treat their employees, communities, natural capital, and run a profitable business.
 
 ## About
-EightTwenty was founded in 2020 by Tony Capucille in Oklahoma City, Oklahoma. The company began as a vertically integrated solar developer aimed at serving Middle America, starting operations in Oklahoma in 2021 due to the state's high sunshine ranking but low solar adoption. Co-founder Kent Cissell joined as president, and the business is owned by employees and local investors in each market they serve.
+EightTwenty is based in Oklahoma City, Oklahoma. The company was founded in 2020 by Tony Capucille, who previously served as president of Heartland Payment Systems, and Kent Cissell, a former senior vice president at Global Payments, joined as co‑founder and president. The business is employee‑owned with local investors in each market it serves, a structure intended to align the company’s interests with the communities where it operates. Capucille established EightTwenty after two decades in the payments industry, driven by a desire to address the country’s energy challenges through solar power.
 
-The company designs and installs solar photovoltaic systems for residential, commercial, and tax-exempt customers, integrating battery storage and EV charging where needed. EightTwenty employs in-house craftsmen for installation and handles engineering, permitting, and project development across Oklahoma, Texas, Arkansas, Indiana, and Kentucky. The firm describes itself as a vertically integrated developer managing the full project lifecycle from utility bill analysis to system commissioning.
+The firm designs and installs solar photovoltaic systems for residential, commercial, and tax‑exempt customers, integrating battery storage and EV charging where needed. Its in‑house craftsmen handle installation and commissioning, and the company operates across Oklahoma, Texas, Arkansas, Indiana, and Kentucky. No facility size or headcount figures are disclosed.
 
-EightTwenty serves homeowners looking to hedge against rising electricity costs, commercial property owners and landlords leveraging tax incentives, tax-exempt institutions such as non-profits eligible for direct-pay credits, and builder partners seeking to incorporate solar, storage, and EV charging into new projects. Recent projects include installations for a brewery, a residential development, and individual homeowners across its service territory.
+EightTwenty serves homeowners, businesses, non‑profits, and builder partners. Concrete examples from its testimonials include a brewery owner who values producing electricity alongside beer and a developer of the Kindred Spirits community. The company also runs a “Give Solar” program that directs a portion of each sale to fund solar installations for neighbors who cannot afford them.
 
-The company says its differentiation lies in a culture built on respect, focus, and quality, with a goal of turning every customer into a "raving fan." Leadership emphasizes that employee ownership and local investors align the business with community outcomes, and the Give Solar program directs a portion of each sale to help neighbors access clean energy.
+Capucille founded EightTwenty to bring clean, renewable energy to Middle America, a region he saw as under‑served despite strong solar potential. The company emphasizes a culture built on respect, focus, and quality, aiming to turn every customer into a “raving fan” and to elevate the solar industry’s standards in the region.
 
 ## Known for
-- Vertically integrated solar developer serving Middle America
-- In-house installation craftsmen
 - Employee-owned with local investors in each market
-- Customer experience focus turning clients into raving fans
-- Expanded service across Oklahoma, Texas, Arkansas, Indiana, Kentucky
+- In-house installation craftsmen
+- Give Solar program funds solar for neighbors
+- Vertically integrated solar developer focused on Middle America
 
 ## Capabilities
-- Solar PV system design
+- Solar system design
 - Solar installation
-- Energy storage integration
+- Solar storage integration
 - EV charging integration
-- Project development and permitting
-- Engineering and design
-- Give Solar community program
+- Commercial solar development
+- Residential solar installation
+- Non-profit solar development
+- Builder partnership programs
 
 ## Industries
-- Residential solar
-- Commercial solar
-- Non-profit/tax-exempt solar
-- Builder/partner solar integration
-- Solar energy development
+- Residential
+- Commercial
+- Non-profit
+- Builder/Developer
 
 ## Company details
 - **Company Type:** Installer / service company
 - **Founded:** 2020
-- **Ownership:** Employee-owned
+- **Ownership:** Employee-owned with local investors
 - **Headquarters:** Oklahoma City, Oklahoma
 
 <details><summary>Sources</summary>
 
-- Founded in 2020 by Tony Capucille -> db description
-- Started in Oklahoma in 2021 -> /about-us page
-- Co-founded by Kent Cissell -> /about-us page
-- Employee-owned with local investors -> /about-us page
-- Vertically integrated solar developer -> /about-us page
-- In-house craftsmen install -> / homepage
-- Services residential, commercial, tax-exempt, builder partners -> / homepage
-- Expanded to Texas, Arkansas, Indiana, Kentucky -> /about-us page
-- Give Solar program -> / homepage
-- Culture of respect, focus, quality -> /about-us page
-- Headquarters Oklahoma City, Oklahoma -> db hq_city/hq_state_label
-- LinkedIn URL -> db linkedin_url
+- Founded in 2020 by Tony Capucille -> db
+- Headquarters Oklahoma City, Oklahoma -> db
+- Employee-owned with local investors -> /about-us
+- In-house installation craftsmen -> /
+- Give Solar program -> /
+- Serves Oklahoma, Texas, Arkansas, Indiana, Kentucky -> /about-us
+- Founders: Tony Capucille, Kent Cissell -> /about-us
+- Company type: installer/service -> /
+- Vertically integrated solar developer -> /about-us
+- Culture of respect, focus, quality -> /about-us
+- Testimonials from brewery owner and developer -> /
 </details>
 
 ---
@@ -459,49 +471,77 @@ The company says its differentiation lies in a culture built on respect, focus, 
 **Old description:** Elcam Medical is a leading force in medical device manufacturing. We specialize in OEM medical solutions, crafting disposable medical devices and accessories for the industry's top companies. Our focus is on innovative flow control solutions that contribute to safer and more effective fluid management in critical areas like Intensive Care, Anesthesia, Dialysis, Interventional Cardiology & Radiology, and Oncology. This expertise comes from our deep understanding of the medical and clinical environment, fostered by strong partnerships with our valued OEM customers.
 
 ## About
-Elcam Medical Inc is based in Hackensack, New Jersey. The company's founding year and ownership details are not publicly disclosed. It operates as a medical device manufacturer focused on OEM solutions for the healthcare industry.
+Elcam Medical Inc is headquartered in Hackensack, New Jersey. The company operates as an OEM medical device manufacturer specializing in disposable devices and accessories. No founding year, ownership structure, or founders are disclosed in the source material.
 
-The company specializes in disposable medical devices and accessories, with a core emphasis on flow control solutions for fluid management. Its capabilities span product development and manufacturing for critical care applications, though specific facility size, headcount, and production volumes are not provided.
+The company designs and manufactures flow control solutions for critical care settings, including stopcocks, manifolds, and specialized devices such as the Marvelous™, A-Tap™, and Safe2 Rotator™ product lines. Its capabilities span the full product lifecycle: design and development, manufacturing engineering, production, quality and regulatory affairs, and post-market support. Elcam maintains a global footprint with operations in Italy (Elcam Medical Italy) and additional sites referenced as ACAL (Baram and Dalton), supported by supply chain and customer service units.
 
-Elcam serves original equipment manufacturers in the medical device sector, supplying components used in intensive care, anesthesia, dialysis, interventional cardiology and radiology, and oncology settings. Its customer base includes medical device companies seeking specialized fluid management components.
+Elcam serves original equipment manufacturers in the medical device sector, with its components used in intensive care, anesthesia, dialysis, interventional cardiology and radiology, oncology, bioprocessing, orthopedics, IV therapy, and bloodline accessories. Customers are described as the industry's top companies, though specific names are not provided.
 
-According to the company, its differentiation lies in a deep understanding of the clinical environment and strong partnerships with OEM customers, supported by a global supply chain and dedicated customer support units.
+The company emphasizes its deep clinical understanding and long-term OEM partnerships as differentiators, alongside a stated commitment to environmental, social, and governance (ESG) principles that guide its operations and supplier relationships.
 
 ## Known for
-- Innovative flow control solutions for fluid management in critical care
-- Deep clinical environment understanding through OEM partnerships
-- Global supply chain with dedicated customer support units
-- Specialization in disposable medical devices and accessories
-- OEM-focused manufacturing for top medical device companies
+- Full product lifecycle support from concept through manufacturing to post-market
+- Global manufacturing footprint with sites in the U.S. and Italy
+- ESG principles integrated into operations and supply chain
+- Specialized flow control solutions for critical care applications
+- MedAccred-accredited manufacturing processes
 
 ## Capabilities
-- OEM medical device manufacturing
-- Disposable medical device production
-- Flow control solution design
-- Fluid management component manufacturing
-- Supply chain management
-- Customer support services
+- Design & Development
+- Manufacturing Engineering
+- Manufacturing (disposable medical devices)
+- QA & Regulatory Affairs
+- Post-Market Support
+- Marketing & Sales Support
+- Flow Control Device Manufacturing
+- Stopcock & Manifold Production
+- Supply Chain Management
+- Global Customer Support
+- OEM Medical Solutions
+- Bioprocess Component Manufacturing
 
 ## Industries
-- Medical devices
-- Intensive care
+- Medical Devices
+- Intensive Care
 - Anesthesia
 - Dialysis
-- Interventional cardiology
-- Interventional radiology
+- Interventional Cardiology
+- Interventional Radiology
 - Oncology
+- Bioprocessing
+- Orthopedics
+- IV Therapy
+- Patient Monitoring
+- Medication Delivery
+
+## Certifications
+- ISO 13485:2016
+- ISO 45001:2018
+- ISO 14001:2015
+- EN ISO 13485:2016
+- UNI ISO 45001:2023
+- UNI EN ISO 14001:2015
+- UNI CEI EN ISO 50001:2018
+- ISO 22301:2019
+- MedAccred Accreditation (Baram)
+- MedAccred Accreditation (Dalton)
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Headquarters:** Hackensack, New Jersey
 
 <details><summary>Sources</summary>
 
 - Headquarters in Hackensack, New Jersey -> db
-- Specializes in OEM medical solutions and disposable medical devices -> db
-- Focus on flow control solutions for fluid management in intensive care, anesthesia, dialysis, interventional cardiology, radiology, and oncology -> db
-- Global presence with strong customer support units and supply chain -> db
-- Serves top-tier medical device companies as OEM partner -> db
+- OEM medical device manufacturer of disposable devices and accessories -> db
+- Focus on flow control solutions for intensive care, anesthesia, dialysis, interventional cardiology & radiology, oncology -> db
+- Product lines: Marvelous™, A-Tap™, Safe2 Rotator™, stopcocks, manifolds -> /
+- Full lifecycle capabilities: design & development, manufacturing engineering, manufacturing, QA & regulatory, post-market support -> /
+- Global presence: Elcam Medical Italy, ACAL Baram, ACAL Dalton -> /, /quality
+- Certifications: ISO 13485:2016, ISO 45001:2018, ISO 14001:2015, EN ISO 13485:2016, UNI ISO 45001:2023, UNI EN ISO 14001:2015, UNI CEI EN ISO 50001:2018, ISO 22301:2019, MedAccred (Baram, Dalton) -> /quality
+- ESG/sustainability commitment with Ecovadis rating, Code of Conduct, Environmental Policy -> /quality
+- Serves OEM customers in medical device industry -> db, /
+- Clinical areas: intensive care, anesthesia, dialysis, interventional C&R, oncology, bioprocess, orthopedics, IV therapy, bloodline accessories -> /
 </details>
 
 ---
@@ -511,25 +551,25 @@ According to the company, its differentiation lies in a deep understanding of th
 **Old description:** Electramatic is a contract manufacturer of electrical wire harness and electro-mechanical assembly that includes: Cutting, terminating, injection molding, twisting, braiding, soldering, marking and tubing services.
 
 ## About
-Electramatic was founded in 1963 in Minneapolis, Minnesota, and operates a 40,000-square-foot facility in the city’s Northeast neighborhood. The company has grown steadily since its inception, expanding its footprint to support improved production flow and manufacturing processes.
+Electramatic was founded in 1963 in Northeast Minneapolis, Minnesota, where it operates a 40,000-square-foot facility. The company began as a supplier of electrical cable assemblies and has expanded its footprint and capabilities over six decades.
 
-As a contract manufacturer, Electramatic specializes in electrical wire harnesses and electro‑mechanical assemblies. Its capabilities include cutting, stripping, terminating, soldering, twisting, braiding, marking, tubing, injection molding, ultrasonic welding, and wire dyeing and striping. The shop handles wire from 30 AWG to 4/0 and offers engineering support for custom designs.
+It functions as a contract manufacturer specializing in electrical wire harnesses and electro‑mechanical assemblies. Core processes include cutting, stripping, terminating, marking, soldering, twisting, braiding, tubing, injection molding, and ultrasonic welding. The facility handles wire gauges from 30 AWG to 4/0 and offers wire dyeing and striping with up to three stripes per wire in a full color spectrum, including insulation dying on PVC wire.
 
-Its client base spans the Midwest and beyond, reflecting a focus on responsive supply of cable assemblies.
+Electramatic serves a broad range of industries, citing over eighty customers in sectors such as commercial refrigeration and industrial generator‑set harnesses. Its customer base spans the Midwest and beyond.
 
-Electramatic emphasizes quality and responsiveness. The firm’s stated vision is to be the most responsive supplier of electrical cable assemblies in the Midwest, positioning itself as a proactive problem‑solver for complex assembly challenges.
+The company emphasizes responsiveness and proactive problem‑solving, aiming to be the most responsive supplier of electrical cable assemblies in the Midwest.
 
 ## Known for
-- Responsive supplier of electrical cable assemblies in the Midwest
-- Pro‑active problem solving for complex assembly issues
-- Real‑time DPPM and on‑time‑delivery metrics displayed on the production floor
-- 40,000 sq ft facility in Northeast Minneapolis
+- IPC/WHMA‑A‑620 standard compliance for wire harness assemblies
+- 40,000 sq ft facility with fully automated wire processing (30 AWG to 4/0)
+- Wire dyeing and striping capabilities with full color spectrum
+- DPPM and on‑time delivery metrics posted in real time on the production floor
 
 ## Capabilities
 - Wire cutting
 - Wire stripping
-- Wire marking
 - Wire terminating
+- Wire marking
 - Seal application
 - Wire twisting
 - Wire braiding
@@ -539,11 +579,14 @@ Electramatic emphasizes quality and responsiveness. The firm’s stated vision i
 - Ultrasonic welding
 - General assembly
 - Harness assembly
+- Electro‑mechanical assembly
 - Harness braiding
 - Engineering support
-- Wire dyeing and striping
-- Multi‑conductor wire processing
+- Wire dyeing
+- Wire striping
+- Insulation dying on PVC wire
 - Large cable processing (8 AWG to 4/0)
+- Multi‑conductor wire processing
 - Automated wire processing (30 AWG to 10 AWG)
 
 ## Industries
@@ -552,7 +595,7 @@ Electramatic emphasizes quality and responsiveness. The firm’s stated vision i
 
 ## Certifications
 - ISO 9001:2015
-- IPC/WHMA-A-620
+- IPC/WHMA‑A‑620
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -562,15 +605,17 @@ Electramatic emphasizes quality and responsiveness. The firm’s stated vision i
 <details><summary>Sources</summary>
 
 - Founded in 1963 -> /about
+- Headquartered in Minneapolis, Minnesota -> / and /about
 - 40,000 sq ft facility in Northeast Minneapolis -> /about
-- Contract manufacturer of electrical wire harness and electro-mechanical assembly -> db
-- Processes: cutting, terminating, injection molding, twisting, braiding, soldering, marking, tubing -> db
-- ISO 9001:2015 registered -> /about
-- IPC/WHMA-A-620 standard compliance -> /about
-- DPPM and on-time delivery metrics posted on production floor -> /about
-- Over 80 customers across industries including commercial refrigeration and industrial genset harnesses -> /
-- Wire processing capabilities: 30 AWG to 10 AWG, 8 AWG to 4/0, wire dyeing and striping -> /capabilities
-- Ultrasonic welding, general assembly, harness assembly, injection molding, harness braiding, engineering support -> /capabilities
+- Contract manufacturer of electrical wire harness and electro-mechanical assembly -> /about and db
+- Processes: cutting, terminating, injection molding, twisting, braiding, soldering, marking, tubing -> /about
+- Wire processing capabilities: automated wire processing 30 AWG to 10 AWG, large cable 8 AWG to 4/0 -> /capabilities
+- Wire dyeing and striping up to three stripes per wire, insulation dying on PVC wire -> /capabilities
+- ISO 9001:2015 registered -> /about and /quality
+- IPC/WHMA-A-620 standard compliance -> /about and /quality
+- Serves over 80 customers in industries including commercial refrigeration and industrial genset harnesses -> /
+- Vision: most responsive supplier of electrical cable assemblies in the Midwest -> / and /about
+- DPPM and on-time delivery metrics tracked on production floor -> /about and /quality
 </details>
 
 ---
@@ -580,35 +625,36 @@ Electramatic emphasizes quality and responsiveness. The firm’s stated vision i
 **Old description:** Providing Top-Quality Electric Wire and Cable Products since 1957
 
 ## About
-Electric Wire Products Corporation was established in 1957 in the Minneapolis–Saint Paul metropolitan area, with its primary manufacturing facility located in St. Louis Park, Minnesota. The company operates a 75,000-square-foot production plant there and also maintains a manufacturing facility in China. No founders are named in the available sources.
+Electric Wire Products Corporation (EWP) was established in 1957 in the Minneapolis–Saint Paul metropolitan area of Minnesota. The company operates a 75,000‑square‑foot production facility in St. Louis Park, Minnesota, and maintains an additional manufacturing site in China. No founders are named in the source material, and ownership structure is not disclosed.
 
-The company produces custom wire harnesses, custom cable assemblies, and electromechanical assemblies such as control panels and power distribution units, along with kitting and packaging services. Engineering support is offered in-house. The St. Louis Park facility houses an extensive, highly trained workforce, though no headcount figure is disclosed. Production volumes and part-number counts are not specified.
+EWP manufactures custom wire harnesses, electromechanical assemblies (including control panels and power distribution units), custom cable assemblies, and provides kitting and packaging services. The St. Louis Park plant houses an extensive, highly trained workforce and uses what the company describes as state‑of‑the‑art equipment. Headcount, annual volume, and part‑number counts are not published.
 
-EWP serves customers nationwide across industries including turf management, utility vehicles, industrial equipment, power sports vehicles, construction equipment, automotive, factory maintenance equipment, and agricultural sectors. Its client base spans a wide range of product lines, from large to small projects.
+The company serves customers nationwide across industries such as turf management, utility vehicles, industrial equipment, power sports vehicles, construction equipment, automotive, factory maintenance equipment, and agricultural sectors. Its assemblies are used in applications ranging from control panels to power distribution units.
 
-The company emphasizes a commitment to zero-defect, on-time delivery, backed by ISO 9001:2015 registration, UL and CSA production capability, and longstanding vendor relationships that provide buying power for cost control. It cites flexibility, responsiveness, state-of-the-art equipment, and a focus on customer service as key differentiators.
+EWP emphasizes a commitment to zero‑defect delivery, on‑time performance, and cost control through longstanding vendor relationships. It highlights flexibility, responsiveness, and ISO 9001:2015 registration with UL and CSA production capability as the foundation of its customer‑service philosophy.
 
 ## Known for
-- ISO 9001:2015 certified with UL and CSA production capability
 - 75,000 sq ft manufacturing facility in St. Louis Park, MN
-- In-house engineering and manufacturing for zero-defect, on-time delivery
+- ISO 9001:2015 registered with UL and CSA production capability
+- State-of-the-art equipment and highly trained workforce
+- Zero-defect, on-time delivery commitment
 - Longstanding vendor relationships for cost control
 
 ## Capabilities
-- Custom wire harness manufacturing
-- Custom cable assembly
-- Electromechanical assembly (control panels, power distribution units)
+- Custom wire harnesses
+- Electromechanical assemblies
+- Custom cable assemblies
 - Kitting and packaging
 - Engineering services
 
 ## Industries
-- Turf Management
-- Utility Vehicles
-- Industrial Equipment
-- Power Sports Vehicles
-- Construction Equipment
+- Turf management
+- Utility vehicles
+- Industrial equipment
+- Power sports vehicles
+- Construction equipment
 - Automotive
-- Factory Maintenance Equipment
+- Factory maintenance equipment
 - Agricultural
 
 ## Certifications
@@ -625,16 +671,20 @@ The company emphasizes a commitment to zero-defect, on-time delivery, backed by 
 
 <details><summary>Sources</summary>
 
-- Founded 1957 -> /about
+- Founded 1957 -> db
 - Headquarters St. Louis Park, Minnesota -> /about
 - 75,000 sq ft facility -> /about
-- Facility in China -> /
-- Custom wire harnesses, cable assemblies, electromechanical assemblies, kitting -> /
-- Industries served list -> /about
-- ISO 9001:2015, RoHS, UL, CSA, USFRC -> /about
-- Zero-defect, on-time delivery claim -> /about
-- Engineering services -> /
-- Vendor relationships for cost control -> /about
+- Additional facility in China -> /
+- Custom wire harnesses, electromechanical assemblies, custom cable assemblies, kitting -> /
+- Industries: turf management, utility vehicles, industrial equipment, power sports vehicles, construction equipment, automotive, factory maintenance equipment, agricultural -> /about
+- ISO 9001:2015 certification -> /about
+- RoHS compliance -> /
+- UL Certified -> /
+- CSA production capability -> /about
+- USFRC Verified Vendor -> /
+- Zero defects on time and every time -> /about
+- State-of-the-art equipment -> /about
+- Longstanding vendor relationships -> /about
 </details>
 
 ---

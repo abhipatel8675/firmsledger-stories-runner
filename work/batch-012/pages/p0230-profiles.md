@@ -3,77 +3,75 @@
 **Old description:** Tens of thousands of SCDUSA and SCD detectors and infrared imaging solutions are manufactured for deployment in demanding applications for defense customers, especially in the Air, Land, Sea, Missile, Security and Surveillance domains, where environmental qualification is required.
 
 ## About
-Quantum Imaging operates as SCD USA Infrared LLC, a U.S. subsidiary of Israel-based Semiconductor Devices (SCD), from its headquarters in Colorado Springs, Colorado. The company leverages more than four decades of infrared detector development and manufacturing experience accumulated by its parent organization.
+Quantum Imaging operates as SCD USA Infrared LLC from Colorado Springs, Colorado, with a second site in Melbourne, Florida. The business was established as a fully owned U.S. subsidiary of Israel-based Semiconductor Devices (SCD), a company with more than 40 years of experience in infrared detector development. No founding year for the U.S. entity is publicly disclosed.
 
-The company designs and manufactures infrared detectors and camera cores across the short-wave (SWIR), mid-wave (MWIR), and long-wave (LWIR) spectral bands. Its product lines include the Blackbird, Cardinal, Bird, and Pelican families, offered as integrated detector dewar cooler assemblies (IDDCAs) and complete camera engines. Manufacturing encompasses III-V semiconductor material growth, VLSI read-out integrated circuit design, and environmental qualification testing for harsh defense environments. Tens of thousands of detectors have been produced for deployment.
+The company manufactures infrared detectors and integrated imaging solutions spanning the short-wave (SWIR), mid-wave (MWIR), and long-wave (LWIR) bands. Its product line includes camera cores, engines, and Integrated Detector Dewar Cooler Assemblies (IDDCA) built on semiconductor materials such as InSb, XBn, InGaAs, Type II Superlattice (T2SL), and Vanadium Oxide (VOx). The firm emphasizes its Very Large-Scale Integrated Circuit (VLSI) design capability for readout circuits and says it has delivered tens of thousands of detectors for fielded systems.
 
-Primary customers operate in defense, aerospace, security and surveillance, and commercial sectors. Defense programs include airborne, land, naval, and missile applications such as intelligence, surveillance, and reconnaissance (ISR), missile warning, and situational awareness. A noted example is a 2020 agreement to supply Raytheon with SWIR cameras and optical sensor packages. Commercial applications span aviation safety, gas sensing, non-destructive testing, semiconductor inspection, and process monitoring. Space imaging is also served.
+Primary customers operate in defense and homeland security — air, land, sea, missile, and surveillance domains — with named programs at Raytheon. The portfolio also serves security and surveillance markets (border, airborne, critical infrastructure, coastal, perimeter), commercial sectors (aviation, gas sensing, non-destructive testing, semiconductor inspection, process monitoring), and space applications. Applications range from missile warning systems and driver vision enhancement to furnace temperature mapping and hyperspectral imaging.
 
-The company states its mission is to deliver innovative, field-ready, intelligent imaging and detection systems that enable real-time visualization of mission-critical intelligence in all theaters and environments. It differentiates itself through a broad product portfolio, scalable engine and camera architectures, and the integration of artificial intelligence and machine learning with infrared sensor technology.
+The company states its mission is to deliver innovative, field-ready, intelligent imaging and detection systems for real-time visualization of mission-critical intelligence in all theaters and environments. It differentiates itself through what it calls the industry's broadest product offering, scalable engine and camera architectures, and material expertise covering the full infrared spectrum from NIR through LWIR.
 
 ## Known for
 - Broadest product offering in the infrared detector industry
-- Scalable engine and camera architecture for diverse mission requirements
-- World-class III-V semiconductor material and VLSI design expertise
-- Environmental qualification for demanding defense and space applications
-- Integration of AI and machine learning with infrared sensing
+- Scalable engine and camera architecture across SWIR, MWIR, LWIR bands
+- Cooled and uncooled detector technologies covering NIR, SWIR, MWIR, LWIR
+- Worldwide recognition for space imaging solutions
 
 ## Capabilities
-- Infrared detector manufacturing
-- SWIR camera core manufacturing
-- MWIR camera core manufacturing
-- LWIR camera core manufacturing
-- Integrated Detector Dewar Cooler Assembly (IDDCA) manufacturing
-- VLSI design
-- Infrared semiconductor material development
+- Infrared detector manufacturing (InSb, XBn, InGaAs, T2SL, VOx)
+- Camera core assembly (MWIR, SWIR, LWIR)
+- Integrated Detector Dewar Cooler Assembly (IDDCA) production
+- VLSI readout integrated circuit (ROIC) design
 - Environmental qualification testing
-- AI/ML integration for infrared imaging
-- Cooling capability
+- Maintenance and repair services
+- Infrared imaging solution engineering
 
 ## Industries
 - Defense
-- Aerospace
-- Security & Surveillance
-- Commercial
-- Space
 - Homeland Security
-- Industrial
-
-## Equipment
-- BLACKBIRD 640
-- SPARROW
-- MINI BLACKBIRD 1280
-- BLACKBIRD 1280
-- CARDINAL 640
-- CARDINAL 640 Low Noise (LOON)
-- CARDINAL 1280
-- BIRD 640
-- BIRD XGA
-- PELICAN D LW ENGINE
-- QI-SWIR-HD10
+- Security & Surveillance
+- Border Security
+- Airborne Surveillance
+- Critical Infrastructure Protection
+- Coastal Security
+- Perimeter Security
+- Commercial Aviation
+- Gas Sensing
+- Non-Destructive Testing
+- Semiconductor Inspection
+- Process Monitoring
+- Aerospace
+- Space
+- Law Enforcement
+- Industrial Inspections
+- Medical
+- Hyperspectral Imaging
+- Fire Detection
+- Public Safety & Transportation
 
 ## Certifications
-- ISO 14001:2004
-- OHSAS 18001
 - ISO 9001
+- ISO 14001
+- OHSAS-18001
 
 ## Company details
 - **Company Type:** Manufacturer
-- **Ownership:** US-based fully owned subsidiary of SCD (Semiconductor Devices)
+- **Ownership:** Subsidiary of Semiconductor Devices (Israel)
 - **Headquarters:** Colorado Springs, Colorado
 
 <details><summary>Sources</summary>
 
-- Headquarters in Colorado Springs, CO -> /about-us
-- US subsidiary of Israel-based SCD (Semiconductor Devices) -> /
-- Manufactures tens of thousands of infrared detectors and imaging solutions -> /
-- Product lines: Blackbird, Cardinal, Bird, Pelican, QI-SWIR-HD10 -> /
-- Spectral bands: SWIR, MWIR, LWIR -> /
-- Materials: InSb, XBn, InGaAs, T2SL, VOx -> /
-- Certifications: ISO 14001:2004, OHSAS 18001, ISO 9001, AS9100D -> /quality
-- Raytheon deal for SWIR cameras in 2020 -> /
-- Mission statement and core technologies -> /about-us
-- Commercial applications: aviation safety, gas sensing, NDT, semiconductor inspection -> /
+- Location: Colorado Springs, CO and Melbourne, FL -> /about-us
+- Ownership: US-based fully owned subsidiary of SCD (Israel) -> /about-us
+- Parent company experience: 40+ years -> /about-us
+- Products: MWIR, SWIR, LWIR detectors, cameras, engines, IDDCA -> / (home)
+- Materials: InSb, XBn, InGaAs, T2SL, VOx -> /about-us
+- Volume: Tens of thousands manufactured -> / (home)
+- Industries: Defense, Security, Commercial, Aerospace -> / (home), /capabilities
+- Customer: Raytheon deal for SWIR cameras -> / (home) news
+- Certifications: ISO 9001, AS9100D, ISO 14001, OHSAS-18001 -> /quality
+- Mission statement and differentiators -> /about-us
+- LinkedIn URL -> db
 </details>
 
 ---
@@ -83,42 +81,44 @@ The company states its mission is to deliver innovative, field-ready, intelligen
 **Old description:** Injection molding is the process of mass-producing plastic parts. Our process begins once the plan for a mold is drafted. We then create a mold to meet your production demand. Molten plastic is injected via machine into the cavity of the mold. After the plastic cools, it is then ejected from the mold and the process repeats. Injection molding is capable of creating high volumes of a specific part.
 
 ## About
-Quintex Molding, LLC operates from Nampa, Idaho, where it has been producing plastic parts for over 30 years. In 2014, Clyde Colbert acquired the company and continues to lead it as president, preserving the foundation on which the business was built.
+Quintex Molding, LLC is based in Nampa, Idaho, where it has produced injection-molded plastic parts for over 30 years. In 2014, Clyde Colbert acquired the company and remains its president, preserving a foundation built on efficiency, precision, and service.
 
-The shop provides injection molding services that cover mold design, tool construction, engineering support, and full-scale production of plastic components. Modern equipment enables the company to serve both small businesses and larger corporations across the western United States.
+The facility offers a full range of molding services, including mold design, tool construction, engineering support, and high-volume injection molding using what it describes as state-of-the-art equipment. The company handles projects from initial concept through on-time delivery.
 
-Quintex works with a broad customer base throughout the western U.S., accommodating small companies and larger corporations alike without limiting itself to specific industry sectors.
+Quintex works with both small businesses and large corporations throughout the western United States. While it does not publish a detailed industry list, its capabilities serve any sector requiring custom plastic components.
 
-The company emphasizes end-to-end customer service from concept through on-time delivery, citing efficiency, precision, and service as its core values. Its stated niche is delivering quality molded parts at competitive rates while paying close attention to detail in every mold.
+The company distinguishes itself through a commitment to unmatched customer service across the entire product lifecycle, emphasizing efficiency, precision, and responsive communication as its core values.
 
 ## Known for
-- Unmatched customer service from concept through on-time delivery
-- Competitive pricing on quality molded parts
-- Attention to detail in every mold
-- End-to-end capabilities: design, engineering, tool construction, molding
+- Unmatched customer service from concept through delivery
+- Core values of efficiency, precision, and service
+- Serves customers across the western United States
+- State-of-the-art equipment for high-volume injection molding
+- Full-service mold design, tool construction, and engineering support
 
 ## Capabilities
 - Injection molding
 - Mold design
 - Tool construction
 - Engineering support
-- Design assistance
+- On-time delivery
 
 ## Company details
 - **Company Type:** Manufacturer
-- **Ownership:** Acquired by Clyde Colbert in 2014
+- **Ownership:** Privately held (acquired by Clyde Colbert in 2014)
 - **Headquarters:** Nampa, Idaho
 
 <details><summary>Sources</summary>
 
-- Location: Nampa, Idaho -> db
-- Over 30 years in business -> /about-us
-- Clyde Colbert acquired company in 2014 and serves as president -> /about-us
-- Provides injection molding, mold design, tool construction, engineering, design -> /about-us, /
-- Serves customers throughout western United States -> /about-us
+- Headquarters in Nampa, Idaho -> db
+- Over 30 years of operation -> /about-us
+- Acquired by Clyde Colbert in 2014, current president -> /about-us
 - Core values: efficiency, precision, service -> /about-us
-- Niche: delivering excellent products at competitive rate -> /
-- Uses state-of-the-art machines -> /
+- Injection molding, mold design, tool construction, engineering support -> / and /about-us
+- State-of-the-art machines for high-volume production -> /
+- Serves small companies and large corporations across western United States -> /about-us
+- Unmatched customer service from concept to delivery -> /about-us
+- On-time delivery -> /about-us
 </details>
 
 ---
@@ -128,38 +128,42 @@ The company emphasizes end-to-end customer service from concept through on-time 
 **Old description:** is company of employee-owners. Since 2007, we have been 100% employee owned through the establishment of an Employee Stock Ownership Plan (ESOP).
 
 ## About
-Quirk Wire Co Inc is based in West Brookfield, Massachusetts. The company became 100% employee-owned in 2007 through an Employee Stock Ownership Plan (ESOP).
+Quirk Wire Co. Inc. is based in West Brookfield, Massachusetts. The company became 100% employee‑owned in 2007 through an Employee Stock Ownership Plan (ESOP).
 
-The company manufactures high-temperature wire and cable using insulations such as PTFE, FEP, ETFE, PFA, and KAPTON, as well as ultra-high-temperature mica/glass braid, low-noise cables, thermocouple wire, and high-voltage and resistance wire. It operates as a job shop for custom constructions, offering services including bonding, etching, printing, striping, special outside diameters, matched multiples, and specialty jacketing (nylon braid, PVC, polyurethane). Lot samples are tested for heat resistance, cold bend, soldering, flammability, dielectric constant, power factor, surface resistance, tensile strength, and elongation.
+The company manufactures high‑temperature wire and cable using insulations such as PTFE, FEP, ETFE, PFA, KAPTON®, and mica/glass braid. Its product lines also include low‑noise cables, thermocouple wire, high‑voltage wire, and insulated resistance wire. In addition to standard offerings, Quirk Wire operates as a job shop, providing custom designs for special constructions, matched multiples, special outside diameters, and unique jacketing (nylon braid, PVC, polyurethane). Value‑added services encompass bonding, etching, printing to UL, CSA, and military specs, and striping from 30 AWG to 10 AWG. Lot samples are tested for heat resistance, cold bend, soldering, flammability, dielectric constant, power factor, surface resistance, tensile strength, and elongation.
 
-Quirk Wire serves manufacturers of transducers, medical devices, and vibration test equipment, as well as military, instrumentation, temperature sensing, wire harness assembly, process heating, and control system applications.
+Quirk Wire serves manufacturers of transducers, medical devices, and vibration test equipment, as well as military, instrumentation, temperature‑sensing, wire‑harness assembly, process‑heating, and control applications.
 
-The company emphasizes its employee-ownership model and a wide range of specifications tailored to each customer's needs, positioning itself as a global supplier of high-performance cable for demanding industrial requirements.
+The employee‑ownership model is cited as a cultural differentiator, and the company emphasizes its broad specification range tailored to each customer’s needs, backed by in‑house testing and custom design capability.
 
 ## Known for
-- 100% employee-owned through ESOP since 2007
-- Custom high-temperature wire and cable designs per customer specifications
-- In-house lot testing for thermal, electrical, and mechanical properties
-- Specialty wire services: bonding, etching, printing, striping, matched multiples
-- Broad insulation portfolio including PTFE, FEP, ETFE, PFA, KAPTON, and mica/glass braid
+- 100% employee-owned via ESOP since 2007
+- Broad range of high-temperature insulations (PTFE, FEP, ETFE, PFA, KAPTON, mica/glass)
+- Custom job‑shop design for special constructions, matched multiples, and unique jacketing
+- In‑house lot testing for heat resistance, cold bend, flammability, dielectric properties, and mechanical strength
+- Value‑added services: bonding, etching, printing to UL/CSA/military specs, striping, special ODs
 
 ## Capabilities
 - High-temperature wire and cable manufacturing
-- Custom cable design
+- Low-noise cable manufacturing
+- Thermocouple wire manufacturing
+- High-voltage wire manufacturing
+- Insulated resistance wire manufacturing
 - Bonding (silica/PTFE)
 - Etching (sodium naphthalene)
 - Printing (UL, CSA, military specs, custom legends)
-- Striping (30 AWG through 10 AWG)
-- Special outside diameter manufacturing
+- Striping (30 AWG – 10 AWG)
+- Special outside diameter extrusion/wrapping/jacketing
 - Matched multiples shipping
-- Special constructions (job shop)
+- Special constructions (custom design)
 - Special jacketing (nylon braid, PVC, polyurethane)
-- Lot sample testing (heat resistance, cold bend, soldering, flammability, dielectric constant, power factor, surface resistance, tensile, elongation)
+- Lot testing (heat resistance, cold bend, soldering, flammability, dielectric constant, power factor, surface resistance, tensile, elongation)
+- Cable design
 
 ## Industries
 - Transducer manufacturing
-- Medical equipment
-- Vibration test equipment
+- Medical device manufacturing
+- Vibration test equipment manufacturing
 - Military
 - Instrumentation
 - Temperature sensing
@@ -168,8 +172,8 @@ The company emphasizes its employee-ownership model and a wide range of specific
 - Control systems
 
 ## Certifications
-- ISO 9001
-- RoHS
+- ISO9001
+- ROHS
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -179,15 +183,16 @@ The company emphasizes its employee-ownership model and a wide range of specific
 
 <details><summary>Sources</summary>
 
-- Founded 2007, employee-owned via ESOP -> db, /
-- Headquarters West Brookfield, Massachusetts -> db
-- Manufactures high-temperature wire and cable with PTFE, FEP, ETFE, PFA, KAPTON insulations -> /
-- Offers ultra high-temperature mica/glass braid, low noise cables, thermocouple wire, high voltage and resistance wire -> /
-- Services: bonding, etching, printing, striping, special OD's, matched multiples, special constructions, special jacketing -> /services
-- Industries: transducers, medical, vibration test equipment, military, instrumentation, temperature sensing, wire harness assembly, process heating, control -> /, db
-- Certifications: ISO9001, RoHS -> db
-- Lot sample testing for heat resistance, cold bend, soldering, flammability, dielectric constant, power factor, surface resistance, tensile and elongation -> /
-- Employee-owned since 2007 via ESOP -> /
+- Headquarters: West Brookfield, Massachusetts -> db
+- Founded 2007 / employee-owned since 2007 via ESOP -> db and homepage
+- Manufactures high-temperature wire and cable with PTFE, FEP, ETFE, PFA, KAPTON, mica/glass insulations -> homepage
+- Product lines: low-noise cables, thermocouple wire, high-voltage wire, insulated resistance wire -> homepage
+- Services: bonding, etching, printing, striping, special ODs, matched multiples, special constructions, special jacketing -> /services
+- Testing: lot samples tested for heat resistance, cold bend, soldering, flammability, dielectric constant, power factor, surface resistance, tensile, elongation -> homepage
+- Industries: transducers, medical, vibration test equipment, military, instrumentation, temperature sensing, wire harness assembly, process heating, control -> industries_served and products
+- Certifications: ISO9001, ROHS -> db
+- Materials: PTFE, FEP, ETFE, PFA, KAPTON, mica/glass, nylon braid, PVC, polyurethane, silica, sodium naphthalene -> homepage and /services
+- Employee-owned culture -> homepage
 </details>
 
 ---
@@ -197,26 +202,25 @@ The company emphasizes its employee-ownership model and a wide range of specific
 **Old description:** Since 1976 we have been providing the DMV area with snow removal equipment, expertise and service across a variety of different brands. We are an authorized Western, Pro-Tech, Orec, Berlon and Buyers Products distributor and are happy to help you with any of your snow removal equipment questions or needs. Take a look at the brands and a few of our installs below and give us a call today.
 
 ## About
-R & B Steel Fabrications has operated from Rockville, Maryland since 1976, serving the DMV (District of Columbia, Maryland, Virginia) region with snow removal equipment and related services. The company was established as a distributor and service provider for snow removal equipment brands.
+R & B Steel Fabrications has operated from Rockville, Maryland since 1976, serving the District of Columbia, Maryland, and Virginia (DMV) region with snow removal equipment and related services. The company began as a supplier of snow removal products and has expanded into custom fabrication and truck upfitting.
 
-The business functions as an authorized distributor for Western Products, Pro-Tech, Orec, Berlon, and Buyers Products, supplying snow removal equipment such as plows, spreaders, and accessories. In addition to equipment sales, the company provides custom truck upfitting, custom fabrication, and liftgate installation and service.
+As an authorized distributor for Western, Pro-Tech, Orec, Berlon, and Buyers Products, the company sells a range of snow plows, spreaders, and accessories. In addition to equipment sales, it provides custom fabrication, liftgate installation and service, and custom truck upfitting for municipal and commercial fleets.
 
-Customers across the DMV area — including municipal fleets, commercial contractors, and property management firms — rely on the company for multi-brand expertise, equipment selection, and installation support. The service offering extends to ongoing maintenance and repair for the brands it represents.
+Customers include government agencies, contractors, and property management firms throughout the DMV area that require reliable snow removal equipment and upfitting solutions. The company’s service offerings are tailored to keep fleets operational during winter months.
 
-The company emphasizes its authorized distributor status across multiple major brands, allowing it to offer a broad product selection and factory-backed support. Its combination of distribution, fabrication, and upfitting capabilities enables a single-source solution for snow removal equipment needs.
+The business distinguishes itself through its long-standing authorized distributor relationships with multiple major brands, allowing it to offer a broad selection of equipment backed by factory support. Its combination of product distribution and in-house fabrication enables turnkey upfitting for specialized applications.
 
 ## Known for
 - Authorized distributor for Western, Pro-Tech, Orec, Berlon, and Buyers Products
-- Multi-brand expertise across snow removal equipment lines
-- Custom truck upfitting and fabrication services
+- Custom fabrication and truck upfitting capabilities
 - Liftgate installation and service
 - Serving the DMV region since 1976
 
 ## Capabilities
-- Snow removal equipment sales
-- Custom truck upfitting
 - Custom fabrication
 - Liftgate installation and service
+- Custom truck upfitting
+- Snow removal equipment distribution
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -228,7 +232,9 @@ The company emphasizes its authorized distributor status across multiple major b
 - Founded 1976 -> db
 - Headquarters Rockville, Maryland -> db
 - Authorized distributor for Western, Pro-Tech, Orec, Berlon, Buyers Products -> db
-- Services: snow removal equipment, custom truck upfitting, custom fabrication, liftgate services -> /
+- Custom fabrication services -> page /
+- Liftgate services -> page /
+- Custom truck upfitting -> page /
 - Serves DMV area -> db
 </details>
 
@@ -236,45 +242,126 @@ The company emphasizes its authorized distributor status across multiple major b
 
 # R & D Electronics Inc
 
-_skipped: Extra data: line 2 column 1 (char 92)_
+**Old description:** We achieve the highest level of customer satisfaction by not only delivering quality products on time, but by building long-lasting relationships with our customers.
+
+## About
+R&D Electronics, Inc. was founded in 1968 in Brownsboro, Alabama, as a supplier of electronic assemblies to the Department of Defense and its prime contractors for military applications.
+
+The company operates a 38,500-square-foot facility where it manufactures a range of semi-complex to complex electronic and electro-mechanical assemblies, cable and wiring harnesses, and provides build-to-print production and contract manufacturing services. Capabilities include automatic wire cutting and stripping, laser stripping, multi-conductor and coaxial cable fabrication, open wire harness fabrication, EMI shielding, soldering to J-STD standards, custom over-molding, polyurethane molding, encapsulating and potting, conformal coating to Mil-I-46058C, and automated testing such as DC hipot up to 1,500 VDC and programmable point-to-point testers with up to 2,500 points.
+
+R&D Electronics serves the defense and aerospace sectors, with a customer base that includes the Department of Defense, prime contractors such as Lockheed Martin Missiles & Fire Control and Lockheed Martin Aeronautics, and major weapons programs including the Army’s Multiple Launch Rocket System (MLRS) and the High Mobility Artillery Rocket System (HIMARS).
+
+The company emphasizes Lean Six Sigma principles across its operations, maintaining certifications to AS9100 and ISO 9001, and has earned recognition including five Small Business of the Year awards (2000, 2004, 2007, 2009, 2013), a 2007 Nunn-Perry Award from Lockheed Martin Missiles & Fire Control, and the Secretary of Defense Performance-Based Logistics Award in 2006 and 2009.
+
+## Known for
+- Lean Six Sigma methodology applied across all manufacturing and office areas
+- 38,500 sq. ft. facility certified to AS9100 and ISO 9001
+- Supports major defense programs including MLRS and HIMARS
+- Five-time Small Business of the Year award winner
+- Automated testing up to 2,500 points with DC hipot to 1,500 VDC
+
+## Capabilities
+- Automatic Wire Cut & Strip
+- Laser Stripping
+- Multi-conductor Cable Fabrication
+- Open Wire Harness Fabrication
+- Coaxial Cable Fabrication
+- Large Gauge Power Cables
+- EMI Shielding (Metal & Fabric over-braiding)
+- Soldering (J-STD)
+- Sleeving Installation
+- Custom Over-molding
+- Electro-mechanical Assembly
+- Laser Wire Marking
+- Silk Screening
+- RFID/UID Marking
+- Helical & Contra-Helical Cable Layup
+- Automatic Mix & Dispense & Low-Pressure Molding
+- Polyurethane Molding, Encapsulating, & Potting
+- Protective Jacketing & Taping
+- Conformal Coating conforming to Mil-I-46058C
+- Automated Testing (DC HIPOT/Dielectric Withstand up to 1500VDC, Continuity, DC Resistance, Programmable Automated Point-to-Point Testers up to 2500 points)
+- Build to Print Production & Contract MFG
+- MIS-38630 Cable Fabrication
+
+## Industries
+- Defense
+- Aerospace
+- Military
+
+## Equipment
+- Programmable Automated Point-to-Point Testers
+- Automatic Wire Cut & Strip machines
+- Laser Stripping equipment
+- Laser Wire Marking systems
+- Automatic Mix & Dispense & Low-Pressure Molding equipment
+- DC HIPOT/Dielectric Withstand testers (up to 1500VDC)
+
+## Certifications
+- ISO 9001
+- AS9100
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 1968
+- **Headquarters:** Brownsboro, Alabama
+
+<details><summary>Sources</summary>
+
+- Founded in 1968 -> /about
+- Headquarters in Brownsboro, Alabama -> db
+- 38,500 sq. ft. facility -> /capabilities
+- Capabilities include cable and wire harness fabrication, electro-mechanical assembly, over-molding, potting, conformal coating, automated testing -> /capabilities
+- Certified to AS9100 and ISO 9001 -> /quality and /capabilities
+- Serves Department of Defense and prime contractors like Lockheed Martin -> /about
+- Supports MLRS and HIMARS programs -> /about
+- Five-time Small Business of the Year winner (2000, 2004, 2007, 2009, 2013) -> /about
+- 2007 Nunn-Perry Award recipient -> /about
+- Secretary of Defense PBL Award 2006 and 2009 -> /about
+- Lean Six Sigma principles used -> /quality and /about
+</details>
+
+---
 
 # R & E Tooling & Plastics Inc
 
 **Old description:** With our 56 years in business and our 125 years of combined experience, R&E Tooling & Plastics can service all your precision molding and manufacturing needs, as well as accommodate all packaging and logistical requirements.
 
 ## About
-R&E Tooling & Plastics, Inc. has operated from Haltom City, Texas, since 1970. The company was founded over five decades ago and today draws on a combined 125 years of staff experience in plastic injection molding. No founder names or ownership designations are disclosed in public materials.
+R & E Tooling & Plastics Inc operates from Haltom City, Texas, in the Fort Worth metro area. The company was founded in 1970 and has accumulated 56 years in business, with a team that collectively holds 125 years of experience in plastic injection molding. Ownership details and founder names are not publicly disclosed.
 
-Services span tooling (new builds, engineering modifications, and repairs), mold design, 3D printing, prototype and short R&D runs, high-volume production, assembly, hot stamping, post-processing, and custom packaging. The facility operates around the clock, 24 hours a day, and uses current CAD/CAM technology for tool and part design.
+Services span mold design, tooling (including overseas sourcing), 3D printing, prototype and first-part runs, short R&D runs, and high-volume production. Secondary operations include assembly, hot stamping, post-processing, cooling, and custom packaging. The facility operates around the clock, 24 hours a day, and uses CAD/CAM technology for tool design, repair, and engineering modifications.
 
-Customers come from aerospace, medical, consumer, robotics, and automotive sectors. The company emphasizes its ability to handle complex designs and offers overseas tooling options as well as first-part-run capabilities.
+R&E molds parts for aerospace, medical, consumer, robotics, and automotive industries. The company emphasizes that no job is too large or too complex, serving customers who require precision molding, finishing, and machining from a variety of plastic materials.
 
-R&E Tooling & Plastics positions itself on quality control, timely delivery, and local logistics support, including delivery and packaging assistance. The firm states it is committed to anticipating customers’ future needs.
+R&E Tooling positions itself on decades of combined experience, quality control that meets customer specifications, and a commitment to timely delivery that maximizes client profits. The firm also offers local delivery and logistical support, aiming to handle projects from initial design through finished goods.
 
 ## Known for
-- Endless combinations of materials, finishes, tolerances, markings, and certifications
-- Complex designs for aerospace, medical, consumer, robotics, and automotive
-- Overseas tooling capabilities
-- First-part-run and prototype capabilities
-- 24-hour production and local delivery with custom packaging
+- Decades of combined experience in custom plastic molding
+- 24/7 around-the-clock production capability
+- Overseas tooling sourcing available
+- Full-service from mold design to assembly and packaging
 
 ## Capabilities
 - Plastic injection molding
-- Tooling (new production tools, engineering modifications, tool repair)
+- Precision molding
 - Mold design
+- Tooling (including overseas tooling)
 - 3D printing
 - Prototype runs
-- Short R&D runs
-- High-volume production
+- First part run capabilities
+- High volume production
 - Assembly line capabilities
 - Hot stamping
-- Post-processing
+- Short R&D runs
+- Post processing
 - Custom packaging
-- Finishing and machining services
-- CAD/CAM technology
-- Overseas tooling
-- First part run capabilities
-- 24-hour production
+- Finishing and machining
+- CAD/CAM tool design
+- Tool repair
+- Engineering modifications to existing tools
+- New production tool construction
+- Total tool and part design
 
 ## Industries
 - Aerospace
@@ -284,7 +371,7 @@ R&E Tooling & Plastics positions itself on quality control, timely delivery, and
 - Automotive
 
 ## Equipment
-- Plastic injection molding machines (1.5 oz to 65 oz)
+- Injection molding machines (1.5–65 oz shot capacity)
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -295,17 +382,33 @@ R&E Tooling & Plastics positions itself on quality control, timely delivery, and
 
 - Founded 1970 -> db
 - Headquarters Haltom City, Texas -> /
-- 56 years in business, 125 years combined experience -> /
-- Plastic injection molding, tooling, mold design, 3D printing, prototype runs, high volume production, assembly, hot stamping, post processing, custom packaging -> /
+- 56 years in business -> /
+- 125 years combined experience -> /
+- Plastic injection molding specialty -> /
 - Industries: aerospace, medical, consumer, robotics, automotive -> /
 - Injection machines 1.5 oz to 65 oz -> /
-- 24 hr around the clock production -> /
-- CAD/CAM technology -> /services
+- 24/7 production capabilities -> /
 - Overseas tooling capabilities -> /
 - First part run capabilities -> /
-- Local delivery and packaging help -> /
-- Quality control emphasis -> /
-- Address: 3939 Broadway Ave, Haltom City TX 76117 -> /
+- 3D printing -> /
+- Mold design -> /
+- Prototype runs -> /
+- Tooling capabilities -> /
+- Custom packaging -> /
+- Assembly line capabilities -> /
+- Hot stamping -> /
+- Short R&D runs -> /
+- Post processing -> /
+- High volume production solutions -> /
+- Finishing and machining services -> /
+- CAD/CAM technology -> /services
+- Tool repair -> /services
+- Engineering modifications to existing tools -> /services
+- New complete production tools -> /services
+- Total tool and part design -> /services
+- Quality control meeting customer specifications -> /
+- Local delivery and logistical support -> /
+- Commitment to customer needs and future requirements -> /
 </details>
 
 ---
@@ -315,20 +418,20 @@ R&E Tooling & Plastics positions itself on quality control, timely delivery, and
 **Old description:** RACE Metalsmiths is a family-owned and operated machine shop that specializes in custom metal fabrication, powder coating, and manufacturing services. We have been providing high-quality metalworking services to our customers since 1997. Our experienced team of professionals takes pride in delivering the best possible service to our customers. At RACE Metalsmiths, we are committed to providing our customers with the highest quality service and materials.
 
 ## About
-RACE Metalsmiths operates from White River Junction, Vermont. Founded in 1997, the company is family-owned and operated, serving the Upper Connecticut River Valley of Vermont and New Hampshire.
+RACE Metalsmiths is a family-owned machine shop founded in 1997 in White River Junction, Vermont. The business serves the Upper Connecticut River Valley of Vermont and New Hampshire from its facility on Round House Road.
 
-The shop runs a full-service machine shop offering milling, drilling, turning, threading, thread repair, flywheel grinding, small engine boring and honing, cylinder head and manifold resurfacing, driveshaft building, rebuilding and repair, custom metal fabrication, welding (MIG, TIG, and gas), powder coating, media blasting (sandblasting and glass bead), CNC machining, metal prototyping, and metal design and engineering. A small, knowledgeable staff handles jobs ranging from single prototypes to production runs for larger companies.
+The shop operates as a full-service machine shop offering milling, drilling, turning, threading, thread repair, flywheel grinding, small engine boring and honing, cylinder head and manifold resurfacing, and driveshaft building, rebuilding, and repair. It also provides powder coating with a wide range of colors and finishes, media blasting including sandblasting and glass bead, welding (MIG, TIG, and gas) on aluminum, stainless steel, cast iron, and mild steel, custom metal fabrication, CNC machining, metal prototyping, and design and engineering services.
 
-Customers span automotive, motorcycle, heavy equipment, antique and classic vehicle restoration, powersports (including snowmobiles, bicycles, and hot rods), architectural metalwork such as railings and brackets, artistic pieces like statues, and outdoor furniture. The client base includes individual inventors developing prototypes as well as established firms placing production orders.
+Customers range from individual inventors seeking prototypes to large companies needing production runs. The shop specializes in custom automotive and motorcycle machining, producing replica parts for rare, antique, and classic vehicles as well as components for modern cars, motorcycles, bicycles, snowmobiles, and hot rods. Its powder coating work covers everything from motorcycle frames and bicycle parts to railings, brackets, statues, and lawn furniture, with many finished projects winning awards at national car and bike shows.
 
-The company emphasizes its reputation for handling difficult-to-powder-coat materials and demanding tolerances, positioning itself as the custom powder coat shop in the Northeast. Projects finished at RACE Metalsmiths have won awards at car and bike shows across the United States, reflecting a focus on quality craftsmanship at competitive costs.
+The company emphasizes its ability to handle difficult-to-powder-coat materials and demanding tolerances while guaranteeing quality at competitive costs. It describes itself as the custom powder coat shop in the Northeast, a reputation built on delivering challenging projects that other shops may decline.
 
 ## Known for
 - Family-owned and operated since 1997
 - Specializes in difficult-to-powder-coat materials and demanding tolerances
 - Leading custom powder coat shop in the Northeast
-- Serves prototype through production runs
-- Offers design, engineering, and fabrication of precision tools and fixtures
+- Builds, rebuilds, and repairs driveshafts including hard-to-find replacements
+- Offers metal prototyping, design, and engineering services
 
 ## Capabilities
 - Milling
@@ -338,7 +441,7 @@ The company emphasizes its reputation for handling difficult-to-powder-coat mate
 - Thread repair
 - Flywheel grinding
 - Small engine boring
-- Honing
+- Small engine honing
 - Cylinder head resurfacing
 - Manifold resurfacing
 - Driveshaft building
@@ -346,41 +449,42 @@ The company emphasizes its reputation for handling difficult-to-powder-coat mate
 - Driveshaft repair
 - Powder coating
 - Media blasting (sandblasting, glass bead)
-- Custom metal fabrication
 - Welding (MIG, TIG, gas)
+- Custom metal fabrication
 - CNC machining
 - Metal prototyping
 - Metal design and engineering
-- Broken bolt removal
+- Manufacturing services
 
 ## Industries
 - Automotive
 - Motorcycle
-- Heavy equipment
-- Antique and classic vehicle restoration
 - Powersports
-- Architectural metalwork
-- Art and sculpture
-- Outdoor furniture
+- Restoration (antique, classic vehicles)
+- General metal fabrication
+- Prototyping
+- Manufacturing
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1997
 - **Ownership:** Family-owned
-- **Headquarters:** White River Junction, VT
+- **Headquarters:** White River Junction, Vermont
 
 <details><summary>Sources</summary>
 
-- Founded in 1997 -> db
 - Founded in 1997 -> /about-us
 - Family-owned and operated -> /about-us
-- Headquarters: White River Junction, VT -> / (address)
-- Services: milling, drilling, turning, threading, flywheel grinding, small engine boring, honing, cylinder head resurfacing, manifold resurfacing, driveshaft building/repair, powder coating, media blasting, custom metal fabrication, welding (MIG/TIG/gas), CNC machining, metal prototyping, design/engineering -> /services
-- Industries: automotive, motorcycle, heavy equipment, antique/classic vehicle restoration, powersports, architectural metalwork, art/sculpture, outdoor furniture -> /about-us
-- Materials: aluminum, stainless steel, cast iron, mild steel -> /services (welding services)
-- Volume: prototype to production runs -> /about-us
-- Differentiators: difficult-to-powder-coat materials, demanding tolerances, leading custom powder coat shop in Northeast, award-winning projects -> /about-us
-- Company type: contract manufacturer/job shop -> /about-us
+- Location: White River Junction, VT -> / (home page)
+- Services: milling, drilling, turning, threading, flywheel grinding, small engine boring/honing, cylinder head/manifold resurfacing, driveshaft build/rebuild/repair -> /services
+- Powder coating with variety of colors/finishes -> /services
+- Media blasting: sandblasting, glass bead -> /services
+- Welding: MIG, TIG, gas on aluminum, stainless steel, cast iron, mild steel -> /services
+- Custom metal fabrication, CNC machining, metal prototyping, design/engineering -> /services
+- Industries: automotive, motorcycle, powersports, restoration, general fabrication -> /about-us, /services
+- Reputation for difficult-to-powder-coat materials and demanding tolerances -> /about-us
+- Leading custom powder coat shop in Northeast -> /about-us
+- Projects win awards at car/bike shows -> /about-us
 </details>
 
 ---
@@ -390,20 +494,20 @@ The company emphasizes its reputation for handling difficult-to-powder-coat mate
 **Old description:** RAM Fabrication manufactures HVAC Products & Fittings for Wholesale Distribution and Architectural Roofing Products for Contractors. We provide a standard product line as well as custom fabrication. You’ll find the products and services you need to get the job done right.
 
 ## About
-RAM Fabrication is headquartered in Sterling, Virginia, with a corporate office in Ashburn and additional facilities across North Carolina, Georgia, Florida, and South Carolina. The company emerged from the merger of three established sheet metal businesses: Royce Company, founded in 1982 by the Johnson family in the Carolinas, and Advanced Sheet Metal and HVAC Supply, founded in 2006 by the Padiotis family in the Washington metro area, along with MTI Manufacturing. Today, the combined entity is led by second-generation owners Peter Padiotis (President), Ted Padiotis (Vice President), and Len Johnson (Vice President), each with deep roots in HVAC and roofing fabrication.
+RAM Fabrication is headquartered in Sterling, Virginia, with additional facilities in Raleigh, Alexandria, Augusta, Orlando, Fredericksburg, and a corporate office in Ashburn. The company emerged from the fusion of three legacy businesses: Royce Company, founded in 1982 by the Johnson family in the Carolinas, and Advanced Sheet Metal and HVAC Supply, founded in 2006 by the Padiotis family in the Washington metro area. Today the operation is led by second‑generation owners Peter Padiotis (President), Ted Padiotis (Vice President), and Len Johnson (Vice President), who collectively bring over 100 years of management experience in HVAC and sheet metal fabrication.
 
-RAM Fabrication produces HVAC products and fittings for wholesale distributors and architectural roofing products for contractors. The company offers both a standard product line and custom sheet metal fabrication, leveraging state-of-the-art machinery across its multi-site operations. Its capabilities span ductwork, fittings, curbs, and related metal components for commercial and residential construction.
+The company manufactures HVAC products and fittings for wholesale distribution and architectural roofing products for contractors. It maintains a standard product line while also offering custom sheet metal fabrication, supported by what it describes as state‑of‑the‑art fabricating machinery across its regional footprint. The combined facilities serve the mid‑Atlantic and eastern seaboard, enabling quick turnaround on both stocked and made‑to‑order items.
 
-The company serves wholesale distributors and mechanical contractors throughout the mid-Atlantic and southeastern United States. Its customer base includes HVAC contractors specifying duct systems and roofing contractors requiring architectural metal products such as curbs and flashings. With locations in Raleigh, Sterling, Alexandria, Augusta, Orlando, and Fredericksburg, RAM Fabrication positions itself for rapid delivery across the region.
+Primary customers include wholesale distributors of HVAC components and contractors specializing in architectural metal roofing. The company’s geographic reach spans the Carolinas, Virginia, Georgia, and Florida, allowing it to supply projects throughout the Southeast and Mid‑Atlantic regions.
 
-RAM Fabrication emphasizes its second-generation leadership, citing over 100 years of combined management experience as a differentiator. The company highlights quick turnaround times, a highly knowledgeable staff, and a commitment to cutting-edge technology and innovative product development. Its stated mission centers on customer-first service, employee growth, and maintaining quality standards in the HVAC and architectural metal roofing markets.
+RAM Fabrication emphasizes a customer‑first philosophy, citing its knowledgeable staff, responsive service, and investment in cutting‑edge technology as key differentiators. The leadership frames its mission around helping customers succeed while fostering employee growth, positioning the merger as a way to integrate expertise and deliver consistent, high‑quality fabrication.
 
 ## Known for
-- Second-generation ownership with over 100 years of combined management experience
-- State-of-the-art sheet metal fabrication machinery
-- Quick turnaround on high-quality products
-- Highly knowledgeable staff
-- Strategic multi-location presence across the mid-Atlantic and Southeast
+- Quick turnaround on high‑quality sheet metal products
+- State‑of‑the‑art sheet metal fabricating machinery
+- Highly knowledgeable staff with 100+ years combined management experience
+- Customer‑first priority with responsive service
+- Standard product line plus custom fabrication capability
 
 ## Capabilities
 - Sheet metal fabrication
@@ -413,31 +517,29 @@ RAM Fabrication emphasizes its second-generation leadership, citing over 100 yea
 - Standard product line manufacturing
 
 ## Industries
-- Wholesale distribution
 - HVAC
 - Architectural roofing
+- Wholesale distribution
+- Construction
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Ownership:** Family-owned
-- **Headquarters:** Sterling, VA
+- **Headquarters:** Sterling, Virginia
 
 <details><summary>Sources</summary>
 
-- Royce Company founded in 1982 by Johnson family -> /about-us
-- Advanced Sheet Metal and HVAC Supply founded in 2006 by Padiotis Family -> /about-us
-- RAM Fabrication formed from merger of Royce Company, Advanced Sheet Metal, and MTI Manufacturing -> /about-us
-- Headquarters in Sterling, VA -> /about-us and db
-- Manufactures HVAC products & fittings and architectural roofing products -> /
-- Operates locations in Raleigh, Sterling, Alexandria, Augusta, Orlando, Fredericksburg -> /
-- Second-generation ownership with over 100 years combined management experience -> /about-us
-- State-of-the-art sheet metal fabrication machinery -> /about-us
-- Quick turnaround on high-quality products -> /about-us
-- Highly knowledgeable staff -> /about-us
-- Family-owned heritage (Johnson and Padiotis families) -> /about-us
-- Serves wholesale distributors and contractors in mid-Atlantic and Southeast -> /about-us
-- Standard product line and custom fabrication offered -> /
-- Leadership: Peter Padiotis (President), Ted Padiotis (Vice President), Len Johnson (Vice President) -> /about-us
+- Headquarters in Sterling, VA -> db
+- Multiple locations listed (Raleigh, Alexandria, Augusta, Orlando, Fredericksburg, Ashburn) -> /
+- Fusion of Royce Company (1982, Johnson family) and Advanced Sheet Metal (2006, Padiotis family) -> /about-us
+- Current leadership: Peter Padiotis, Ted Padiotis, Len Johnson -> /about-us
+- Second-generation owners, 100+ years combined management experience -> /about-us
+- Manufactures HVAC products & fittings for wholesale distribution and architectural roofing products for contractors -> /, /about-us
+- Standard product line and custom fabrication -> /, /about-us
+- State-of-the-art sheet metal fabricating machinery -> /about-us
+- Serves mid-Atlantic and eastern seaboard -> /about-us
+- Customer-first priority, quick turnaround, knowledgeable staff -> /about-us
+- LinkedIn URL -> db
 </details>
 
 ---
@@ -447,31 +549,30 @@ RAM Fabrication emphasizes its second-generation leadership, citing over 100 yea
 **Old description:** A team of skilled craftsmen dedicated to bringing your ideas to life. Our standards are second to none which is reflected in our service and quality products. We will work with you to capture your idea to create a brand, custom merchandise, online store and fulfillment. The 425 team has you covered!
 
 ## About
-RB Apparel, operating as Make It Yours (MIY) Custom Apparel, is based in Delaware, Ohio. The company does not disclose its founding year or ownership structure, but describes itself as a team of skilled craftsmen dedicated to bringing customer ideas to life through custom apparel and merchandise.
+RB Apparel, operating as Make It Yours (MIY) Apparel, is based in Delaware, Ohio. The company refers to its staff as the "425 team" and provides custom apparel decoration services including screen printing, embroidery, and digital printing.
 
-The shop provides a range of decoration services including screen printing (minimum 12 pieces, up to four colors), embroidery (minimum one piece, up to 15 thread colors), and full-color digital printing (minimum one piece). Beyond decoration, MIY offers custom merchandise development, an online design tool with over 200 fonts, an account portal for quote approval and reorders, and fulfillment services. The product catalog spans t-shirts, sweatshirts, polos, jackets, headwear, workwear, youth apparel, and bags from multiple brands.
+The shop offers screen printing with a 12-piece minimum and up to four colors, embroidery starting at one piece with up to 15 thread colors, and full-color digital printing with a one-piece minimum. It also provides an online design tool that accepts PNG, SVG, EPS, and PDF files and offers over 200 fonts, along with an account portal for quote approval, reorders, and store management.
 
-MIY serves businesses and organizations seeking branded apparel, workwear, and promotional items. Customers can upload designs in PNG, SVG, EPS, or PDF formats, and the company emphasizes quick turnaround with rush production options and expedited shipping for an additional fee.
+MIY Apparel serves organizations and businesses seeking branded merchandise, workwear, team uniforms, and promotional products. Customers can select from a large product mix covering t-shirts, sweatshirts, polos, jackets, headwear, bags, and youth apparel, and the company handles fulfillment and online store setup.
 
-The company highlights its large product mix, user-friendly design tool, fast turnaround, quality control checks on every order, responsive customer service via phone, email, chat, and a self-service account portal as key differentiators.
+The company emphasizes a large product selection, an easy-to-use design tool, fast turnaround with rush production options, a quality-control process that double-checks every order, and responsive customer service available by phone, email, live chat, and contact form.
 
 ## Known for
-- Large product mix with value-focused pricing and quality
-- Online design tool supporting PNG, SVG, EPS, PDF uploads and 200+ fonts
-- Fast turnaround with rush production and expedited shipping options
-- Quality control double-check on every order before shipment
-- Multi-channel customer service (phone, email, live chat) and self-service account portal
+- Large product mix with value-focused pricing
+- Online design tool supporting PNG, SVG, EPS, PDF and 200+ fonts
+- Fast turnaround with rush production and expedited shipping
+- Quality control double-checks every order
+- Customer service via phone, email, live chat, and contact form
+- Account portal for quote approval, reorders, and store management
 
 ## Capabilities
 - Screen printing
 - Embroidery
-- Digital printing (full color)
-- Custom merchandise design
-- Online store setup and management
+- Digital printing
+- Design services
+- Online store management
 - Order fulfillment
-- Quality control inspection
-- Customer service and sales support
-- Account portal for quotes and reorders
+- Customer support
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -481,15 +582,17 @@ The company highlights its large product mix, user-friendly design tool, fast tu
 
 - Location: Delaware, Ohio -> db
 - Services: screen printing, embroidery, digital printing -> /services
-- Minimums and max colors for each service -> /services
-- Design tool with file upload and fonts -> /
+- Screen printing minimum 12 pieces, max 4 colors -> / and /services
+- Embroidery minimum 1 piece, max 15 colors -> /services
+- Digital printing minimum 1 piece, full color -> / and /services
+- Design tool accepts PNG, SVG, EPS, PDF, 200+ fonts -> /
 - Fast turnaround, rush production, expedited shipping -> /
-- Quality control double-check -> /
-- Customer service channels -> /
-- Account portal for quotes and reorders -> /
-- Product categories (t-shirts, sweatshirts, etc.) -> /
-- Company description as team of skilled craftsmen -> /
-- One-stop custom decoration shop -> /services
+- Quality control double-checks every order -> /
+- Customer service via phone, email, live chat, contact form -> /
+- Account portal for quotes, reorders, store management -> /
+- Large product mix including t-shirts, sweatshirts, polos, jackets, headwear, bags, youth, workwear -> /
+- Company refers to '425 team' -> db description
+- Offers online store and fulfillment -> db description and /
 </details>
 
 ---
@@ -499,30 +602,31 @@ The company highlights its large product mix, user-friendly design tool, fast tu
 **Old description:** None
 
 ## About
-RCE Manufacturing was established in 2015 in Hauppauge, New York, by a group of industry veterans who set out to provide reliable and cost-effective advanced printed circuit board assembly. The company operates from a facility South and has built its reputation on a foundation of combined decades of manufacturing experience.
+RCE Manufacturing was established in 2015 by industry veterans in Hauppauge, New York. The company began with a focus on providing reliable and cost-effective advanced printed circuit board assembly services.
 
-As an ISO 9001:2015 certified contract manufacturer, RCE delivers electronic manufacturing services spanning printed circuit board assembly, upper-level chassis assembly, testing, and comprehensive materials management. The shop handles projects from prototype runs through high-volume production, leveraging a global vendor network and procurement expertise to manage complex supply chains. All assemblies are produced under ESD protection and inspected to IPC-A-610 standards.
+The firm operates as an ISO 9001:2015 certified contract manufacturer offering electronic manufacturing services (EMS) including printed circuit board assembly, chassis assembly, testing, build-to-print manufacturing, and materials management. It handles projects ranging from prototypes to high-volume production, leveraging a global supply chain network and advanced procurement methods.
 
-The company serves a diverse customer base that includes the renewable energy sector, among other industries. Its services are tailored to original equipment manufacturers and other businesses requiring outsourced electronics assembly, with an emphasis on collaborative, responsive partnerships that can adapt to changing project requirements.
+RCE serves a diverse customer base with a noted track record in the renewable energy sector, among other industries. Its services are tailored to meet specific project requirements, including product compliance and quality assurance per IPC-A-610 standards.
 
-RCE was founded on the principle of being a trusted, agile partner that functions as an extension of its customers' teams.
+The company emphasizes its combined 60-plus years of quality team experience, ITAR registration, RoHS compliance, and ESD protection processes as foundations of its reliability. Its founding principle centers on being a responsive, collaborative partner that can pivot with evolving customer needs.
 
 ## Known for
-- Prototypes to high-volume production
 - ISO 9001:2015 certified quality management system
 - ITAR registered for defense-related work
-- Global supply chain management and procurement expertise
-- Combined 60+ years of quality team experience
+- RoHS compliant and ESD protected manufacturing processes
+- Prototypes to high-volume production capability
+- 60+ years combined quality team experience
 
 ## Capabilities
-- Printed Circuit Board Assembly (PCBA)
-- Upper Level / Chassis Assembly
+- Printed circuit board assembly
+- Chassis assembly
 - Testing
-- Materials Management
-- Supply Chain Management
-- Procurement
-- ESD Protection Process
-- IPC-A-610 Inspection
+- Build to print
+- Materials management
+- Supply chain management
+- Product compliance
+- ESD protection process
+- IPC-A-610 inspection
 
 ## Industries
 - Renewable Energy
@@ -532,25 +636,31 @@ RCE was founded on the principle of being a trusted, agile partner that function
 - RoHS
 - ITAR Registered
 - GIDEP
+- ESD
+- IPC-A-610
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
 - **Founded:** 2015
-- **Ownership:** Private (industry veterans)
 - **Headquarters:** Hauppauge, New York
 
 <details><summary>Sources</summary>
 
-- Founded 2015 in Hauppauge, NY -> db, homepage
-- ISO 9001:2015 certified -> homepage, quality page
-- ITAR Registered -> about-us page
-- Services: PCBA, chassis assembly, testing, materials management -> homepage services section
-- Prototypes to high-volume production -> homepage
-- Combined 60+ years quality team experience -> homepage, about-us, quality
-- Renewable energy industry served -> db
-- Global supply chain management -> homepage
-- ESD protection, IPC-A-610 inspection -> quality page
-- Headquarters: 100 Parkway Drive South, Hauppauge, NY 11788 -> homepage contact
+- Founded 2015 by industry veterans -> /
+- Headquarters Hauppauge, NY -> /
+- ISO 9001:2015 certified -> /, /about-us, /quality
+- ITAR Registered -> /about-us
+- RoHS compliant -> /about-us, /quality
+- GIDEP -> /about-us
+- ESD protection process -> /quality
+- IPC-A-610 inspection -> /quality
+- Printed circuit board assembly services -> /
+- Chassis assembly and testing -> /
+- Materials management and supply chain -> /
+- Prototypes to high-volume production -> /
+- Serves renewable energy industry -> db
+- 60+ years combined quality team experience -> /, /about-us
+- LinkedIn URL -> db
 </details>
 
 ---

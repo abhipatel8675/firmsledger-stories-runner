@@ -1,501 +1,489 @@
 fetched p0320-raw.json 9 / 10
 fetched p0321-raw.json 10 / 10
 fetched p0322-raw.json 10 / 10
-ok   Custom Steel Service, Inc. 
-ok   Cynthia East Fabrics Inc. 
 ok   Custom Woodworks 
 ok   D&V Electronics 
-ok   DINGXIN AUTO PARTS 
-ok   DELANEY MANUFACTURING SERVICES LLC 
-ok   Cutlist CO 
-ok   D3 Performance 
-ok   Daktronics 
-ok   D.W. Woodcraft Inc. 
-ok   DK Fabrication and Welding 
-ok   Dakota Printing and Embroidery 
-ok   Dakota Emporium Trading Post 
-ok   Dakota Woodworking Inc. 
-ok   Dallas Plastics 
-ok   Custom Wire Industries 
-ok   DDH Ent., Inc. 
-ok   Dakota Woodworks 
-ok   Dakota Fabrication Inc 
-ok   Danbury Winair Co. 
-ok   DMI Wholesale Textile 
-ok   DN Plastics 
-ok   Dakota Outerwear Co 
-ok   Dam Steel & Supply 
-ok   Dana Lafayette Indiana, USA Fairfield Custom Gears and Drives Plant 
-fetched p0323-raw.json 9 / 10
+ok   D M Jeffers Company Inc 
+ok   Custom Steel Service, Inc. 
 ok   D VOLT CO 
+skip Damian Velasquez | Modern Metal Fabrication 
+ok   Cynthia East Fabrics Inc. 
+ok   D.W. Woodcraft Inc. 
+ok   DMI Wholesale Textile 
+ok   Dakota Fabrication Inc 
+ok   DELANEY MANUFACTURING SERVICES LLC 
+ok   DINGXIN AUTO PARTS 
+ok   Dallas Plastics 
+ok   Dakota Woodworking Inc. 
+ok   DK Fabrication and Welding 
+ok   Daktronics 
+ok   Danbury Winair Co. 
+ok   Custom Wire Industries 
+RETRY dn-plastics Expecting ',' delimiter: line 71 column 4 (char 3857)
+ok   Dakota Outerwear Co 
+ok   Dakota Emporium Trading Post 
+fetched p0323-raw.json 9 / 10
+ok   Daechang Indiana, Inc 
+ok   Dakota Printing and Embroidery 
+ok   D3 Performance 
+ok   Cutlist CO 
+PAGE DONE p0320-profiles.json
 ok   Dakota Growers Pasta Co Inc. 
 fetched p0324-raw.json 10 / 10
-RETRY damian-velasquez-modern-metal-fabrication Expecting ',' delimiter: line 35 column 4 (char 2010)
-ok   D M Jeffers Company Inc 
-PAGE DONE p0320-profiles.json
+ok   DDH Ent., Inc. 
+skip Demopolis CATV Co 
+ok   Dam Steel & Supply 
+skip Dewitt Equipment Co 
 fetched p0325-raw.json 10 / 10
-fetched p0326-raw.json 7 / 10
-ok   Daechang Indiana, Inc 
-PAGE DONE p0321-profiles.json
-skip Dempsey International Packaging 
-RETRY doublebutter HTTP Error 429: Too Many Requests
-RETRY dover-electric-supply-co-inc HTTP Error 429: Too Many Requests
-ok   Delux Manufacturing & Automation 
-ok   Dewitt Equipment Co 
+ok   Dana Lafayette Indiana, USA Fairfield Custom Gears and Drives Plant 
 ok   Denali Industrial Supply, Inc. 
-ok   Diagnostic Medical Equipment Inc. 
-ok   De Leon Furniture, Inc. 
+fetched p0326-raw.json 7 / 10
+ok   Delux Manufacturing & Automation 
 ok   Defiant Food Group 
-ok   Design Distillery 
-ok   Dapwood Furniture Co. 
-ok   Denney Electric Supply-Lighting & Design 
 ok   Delta Systems Inc 
-RETRY daniels-manufacturing-corporation 'NoneType' object has no attribute 'group'
 ok   DiLanna Foodservice and Paper Products 
-ok   Digitron Semiconductors 
-ok   Dennis Food Service 
-ok   Danser, Inc. 
-ok   Dirt Road Steel 
-fetched p0327-raw.json 10 / 10
-ok   DreamPak LLC 
-ok   Diamond Electric Mfg. Corp 
 ok   Detroit Furniture Inc 
-ok   Diamed 
-ok   Direct Wire (Direct Wire & Cable) 
-ok   Dericks Sheet Metal Works 
-ok   Downeast Food Distributors Inc. 
-ok   Diversified Metal Fabricators 
-ok   Damian Velasquez | Modern Metal Fabrication 
-PAGE DONE p0322-profiles.json
-ok   Down East Sheet Metal & Certified Welding 
+ok   Daniel's Food Equipment Inc - 
 ok   Diamond Medical Equipment & Supply 
+skip Dempsey International Packaging 
+ok   Dennis Food Service 
+ok   Denney Electric Supply-Lighting & Design 
+ok   Dover Electric Supply Co. Inc. 
+ok   DN Plastics 
+PAGE DONE p0321-profiles.json
+ok   Dirt Road Steel 
+ok   De Leon Furniture, Inc. 
+ok   Design Molded Plastics 
+ok   Dapwood Furniture Co. 
+ok   Diagnostic Medical Equipment Inc. 
+ok   Daniels Manufacturing Corporation 
+ok   Design Distillery 
+fetched p0327-raw.json 10 / 10
+ok   Danser, Inc. 
+PAGE DONE p0323-profiles.json
+ok   Diversified Metal Fabricators 
+ok   DreamPak LLC 
+fetched p0328-raw.json 10 / 10
+ok   Design Company Fabrics 
+ok   Downeast Food Distributors Inc. 
 ok   Diversified Plastics, Inc. 
 ok   Dreamers Gourmet - Specialty Food Manufacturer 
-fetched p0328-raw.json 10 / 10
-ok   Dominion Steel LLC 
-ok   Design Molded Plastics 
-fetched p0329-raw.json 9 / 10
-RETRY diaz-sheet-metal-llc Expecting ',' delimiter: line 66 column 4 (char 3249)
-ok   Demopolis CATV Co 
-fetched p0330-raw.json 10 / 10
-RETRY daniel-s-food-equipment-inc 'NoneType' object has no attribute 'group'
-skip DoubleButter 
-ok   Draco Solar 
-fetched p0331-raw.json 10 / 10
-ok   Design Company Fabrics 
-PAGE DONE p0324-profiles.json
-RETRY east-coast-plastics-inc HTTP Error 429: Too Many Requests
-fetched p0332-raw.json 10 / 10
-RETRY eastman-screen-printing HTTP Error 429: Too Many Requests
+ok   Down East Sheet Metal & Certified Welding 
 ok   Down South 
-ok   Drift Clothing Co 
-fetched p0333-raw.json 10 / 10
-ok   Dubois Sheet Metal Works Inc 
-ok   Durant Plastics & Manufacturing Inc 
-ok   Duc Woodworks 
-fetched p0334-raw.json 10 / 10
+ok   DoubleButter 
+ok   Diaz Sheet Metal, LLC 
+ok   Diamed 
+RETRY dakota-woodworks The read operation timed out
+fetched p0329-raw.json 8 / 10
+ok   Direct Wire (Direct Wire & Cable) 
+ok   Digitron Semiconductors 
+ok   Diamond Electric Mfg. Corp 
+PAGE DONE p0325-profiles.json
+fetched p0330-raw.json 10 / 10
+ok   Dominion Steel LLC 
+fetched p0331-raw.json 10 / 10
 ok   Dulles Sheet Metal 
-ok   Drummond Industries Inc. 
-ok   ECG Solar 
-ok   Dover Electric Supply Co. Inc. 
-ok   Drews Solar 
-ok   Duerr Packaging Co Inc 
-ok   Duncan Electric Supply Co 
-ok   Dusenbery's Inc. 
-PAGE DONE p0327-profiles.json
-ok   EcoGen America 
-ok   EMSCO 
-ok   EKL Fashion Inc 
-ok   Dutra Sheet Metal Co 
-fetched p0335-raw.json 10 / 10
-ok   EBI, LLC 
-fetched p0336-raw.json 10 / 10
-ok   Dyna Tool & Mold 
-ok   E-J Industries Inc. 
-ok   Eagle Automotive Distributors 
-ok   East Coast Metal Systems 
-ok   EPD Electronics Inc. 
-ok   Edens Hawaii – Hawaiian Clothing Manufacturer 
-ok   Edesia Nutrition 
-fetched p0337-raw.json 10 / 10
-ok   EME Company, Inc. 
-ok   El Capitan Foods 
-ok   Eco Woodworks 
-ok   Electrical Wholesale Supply Co 
-ok   Daniels Manufacturing Corporation 
-ok   EME Restaurant Equipment New and Used 
-PAGE DONE p0328-profiles.json
-fetched p0338-raw.json 10 / 10
+RETRY eco-woodworks HTTP Error 503: Service Unavailable
+fetched p0332-raw.json 10 / 10
+ok   Draco Solar 
 ok   Double H Packaging, Inc 
 PAGE DONE p0326-profiles.json
-ok   Eartec Co Inc 
-ok   Eckhart Woodworking 
-ok   Edge Plastics, Inc. 
-ok   EPECOMPONENTS / ELECTRONIC PARTS EXCHANGE 
-ok   Elaine S. Baker & Associates 
-fetched p0339-raw.json 10 / 10
-ok   East Coast Tees 
-ok   Eaton Sales & Service LLC 
-ok   ES Solar 
-ok   Ecotex – Healthcare Laundry Services, New Mexico 
-ok   Electric Barn Inc. 
-ok   Eldor Automotive Powertrain USA 
-ok   Eagle Packaging Products 
-ok   EisenBaumSTL Woodshop 
-ok   Electrical Systems Of Maine 
-ok   Eagle Electric 
+fetched p0333-raw.json 10 / 10
+ok   Dusenbery's Inc. 
+ok   Drummond Industries Inc. 
+ok   Dubois Sheet Metal Works Inc 
+fetched p0334-raw.json 10 / 10
+ok   E-J Industries Inc. 
 ok   Eagle Foodservice Equipment & Supplies 
-ok   Eddy's Welding Inc 
-ok   Electro Craft Ohio Inc. 
-ok   Electronic Engineering Co. 
-ok   Eastern Michigan Industries 
-RETRY electrical-design-technology-general-switchgear Expecting ',' delimiter: line 54 column 4 (char 3434)
-ok   Electronic Design & Packaging Co. 
-RETRY falcon-plastics HTTP Error 429: Too Many Requests
-ok   Elite Metal Fabricators, Inc. 
-ok   Emcee Electronics Inc 
-ok   Engineered Equipment Co-Alaska 
-ok   Daniel's Food Equipment Inc - 
-PAGE DONE p0323-profiles.json
-ok   Energy Select 
-ok   Electronic Applications, Inc 
-ok   Farmhouse Style Furniture - Custom Furniture & Kitchen Cabinets | White Bear Lake 
-ok   Elite Woodworking 
-ok   Erwin Custom Fabrication 
-ok   Expert Wire inc. 
-ok   Elevaris Medical Devices Inc. 
-ok   Express Medical Supply, Inc. 
-ok   Elk Grove Custom Sheet Metal 
-ok   Elite Fabrication and Welding LLC 
-ok   Electronics Expo 
-ok   Epsilon Apparel 
-ok   Ennis Fine Furniture- Boise 
-ok   Electronic Systems 
-ok   Encompass Manufacturing 
-ok   Elemental Energy 
-ok   Everlast Energy & Roofing 
-ok   Electronic Integration Inc 
-ok   Facet Furniture 
-ok   Extreme Power House 
-ok   Epic Welding and Manufacturing 
-ok   Elite Apparel & Promo 
-PAGE DONE p0332-profiles.json
-ok   EleMETAL Fabrication & Machine 
-ok   Evans Food Company 
-ok   FBK Medical Tubing 
-ok   FM Welding Fabrication LLC 
+ok   EMSCO 
+ok   Drews Solar 
+fetched p0335-raw.json 10 / 10
+ok   Eagle Automotive Distributors 
+RETRY elemental-energy HTTP Error 429: Too Many Requests
+ok   Duncan Electric Supply Co 
+ok   EME Company, Inc. 
+fetched p0336-raw.json 10 / 10
+ok   EME Restaurant Equipment New and Used 
 ok   East Coast Plastics, Inc. 
-PAGE DONE p0329-profiles.json
-RETRY diaz-sheet-metal-llc 'NoneType' object has no attribute 'group'
-ok   Fellers Food Service Equipment & Design 
-ok   Fairmont Foods 
-ok   Factory Direct Equipment Co 
-ok   Exodus Dynamics 
-ok   Factory Motor Parts 
-ok   FAT ENZO T-SHIrTS 
-ok   Farmville Wholesale Electric Supply Co., Inc. 
-ok   FTIC 
-ok   EnaChip Inc. 
-ok   Evergreen Plastic Container Inc. 
-ok   Extreme Metal Works 
-ok   Fairway Medical 
+ok   EBI, LLC 
+ok   Eartec Co Inc 
+ok   ECG Solar 
+ok   El Capitan Foods 
+ok   EisenBaumSTL Woodshop 
+ok   EcoGen America 
+ok   Eaton Sales & Service LLC 
+ok   East Coast Tees 
+ok   EKL Fashion Inc 
+ok   Elaine S. Baker & Associates 
+ok   Dakota Woodworks 
+PAGE DONE p0322-profiles.json
+ok   Electronics Expo 
+ok   Eastern Michigan Industries 
+ok   Eckhart Woodworking 
+ok   Eddy's Welding Inc 
+ok   EPD Electronics Inc. 
+ok   Edge Plastics, Inc. 
+ok   Elite Apparel & Promo 
+ok   East Coast Metal Systems 
+ok   Electrical Wholesale Supply Co 
+ok   Eldor Automotive Powertrain USA 
+ok   EPECOMPONENTS / ELECTRONIC PARTS EXCHANGE 
+ok   Drift Clothing Co 
+RETRY dericks-sheet-metal-works The read operation timed out
+ok   Eagle Electric 
+ok   Electric Barn Inc. 
+ok   Elk Grove Custom Sheet Metal 
+ok   Durant Plastics & Manufacturing Inc 
+ok   Electro Craft Ohio Inc. 
 ok   Eastman Screen Printing 
-PAGE DONE p0330-profiles.json
-ok   EverGreen Treated Wood (DBA Iowa Wood Preservers) 
-ok   Fab Metals LLC 
-ok   Felbro Food Products, Inc. 
-ok   Fashions Unlimited Inc. 
-RETRY engineered-plastic-components 'NoneType' object has no attribute 'group'
-ok   Fabrilaser Manufacturing, LLC. 
+ok   Electronic Systems 
+ok   Electrical Systems Of Maine 
+ok   Edesia Nutrition 
+ok   Electronic Integration Inc 
+ok   ES Solar 
+ok   Duc Woodworks 
+ok   EleMETAL Fabrication & Machine 
+ok   Dutra Sheet Metal Co 
 ok   Emerald Steel Fabricators Inc 
-ok   Exterior Sheet Metal Inc 
-PAGE DONE p0335-profiles.json
-ok   Falls Millwork 
-ok   First State DME 
-ok   Ferraro Foods of North Carolina 
-ok   Fernwood Designs Woodworking 
+ok   Energy Select 
+ok   Eco Woodworks 
+ok   Eagle Packaging Products 
+PAGE DONE p0329-profiles.json
+fetched p0337-raw.json 10 / 10
+fetched p0338-raw.json 10 / 10
+ok   Electronic Engineering Co. 
+ok   Elite Metal Fabricators, Inc. 
+fetched p0339-raw.json 10 / 10
+ok   Exodus Dynamics 
+RETRY fernwood-designs-woodworking HTTP Error 429: Too Many Requests
+ok   EverGreen Treated Wood (DBA Iowa Wood Preservers) 
+ok   Ecotex – Healthcare Laundry Services, New Mexico 
+ok   Evans Food Company 
+ok   Evergreen Plastic Container Inc. 
+ok   Electronic Applications, Inc 
+ok   Electrical Design Technology / General Switchgear 
+PAGE DONE p0331-profiles.json
+ok   Engineered Equipment Co-Alaska 
+ok   Expert Wire inc. 
+ok   Elite Woodworking 
+ok   Emcee Electronics Inc 
+ok   Electronic Design & Packaging Co. 
+RETRY elevaris-medical-devices-inc Expecting ',' delimiter: line 87 column 4 (char 4363)
 ok   Factory Furniture Company 
+ok   Epsilon Apparel 
+ok   Everlast Energy & Roofing 
+ok   Enercon Engineering LLC, A Generac Company 
+ok   Elite Fabrication and Welding LLC 
+RETRY enachip-inc Expecting ',' delimiter: line 52 column 4 (char 3599)
+ok   Encompass Manufacturing 
+ok   Fabrilaser Manufacturing, LLC. 
+ok   Fellers Food Service Equipment & Design 
+ok   Fab Metals LLC 
+ok   Farmhouse Style Furniture - Custom Furniture & Kitchen Cabinets | White Bear Lake 
+ok   Farmville Wholesale Electric Supply Co., Inc. 
+ok   Extreme Power House 
+ok   Erwin Custom Fabrication 
+ok   FM Welding Fabrication LLC 
+ok   Fairway Medical 
+ok   Facet Furniture 
+ok   Factory Direct Equipment Co 
+ok   Falls Millwork 
+ok   Elemental Energy 
+ok   First Medical 
+ok   Ennis Fine Furniture- Boise 
+ok   Express Medical Supply, Inc. 
+ok   FBK Medical Tubing 
+RETRY duerr-packaging-co-inc The read operation timed out
+RETRY engineered-plastic-components Expecting ',' delimiter: line 80 column 4 (char 4144)
+ok   FAT ENZO T-SHIrTS 
+ok   Fairmont Foods 
+RETRY dyna-tool-mold The read operation timed out
+ok   Fehrer Automotive 
+ok   Epic Welding and Manufacturing 
 ok   Findlay Food Coatings 
+ok   Falcon Plastics 
+ok   Felbro Food Products, Inc. 
+ok   Factory Motor Parts 
+PAGE DONE p0336-profiles.json
+ok   Fashions Unlimited Inc. 
+ok   Dericks Sheet Metal Works 
+PAGE DONE p0324-profiles.json
+ok   Fisher Auto Parts 
+ok   Exterior Sheet Metal Inc 
 ok   Fetting's Frozen Foods, LLC 
 ok   First Electronics Inc 
-ok   Finnu Designs 
-ok   First Solar Louisiana 
-ok   Enercon Engineering LLC, A Generac Company 
-PAGE DONE p0333-profiles.json
-ok   First State Manufacturing 
 ok   Food Bank of Delaware 
-ok   Fisher Auto Parts 
-ok   First Medical 
-ok   Flat-To-Form Metal Specialties, Inc. 
-ok   Falcon Plastics 
-PAGE DONE p0336-profiles.json
+ok   First State Manufacturing 
+ok   First Solar Louisiana 
+ok   Ferraro Foods of North Carolina 
+RETRY edens-hawaii-hawaiian-clothing-manufacturer The read operation timed out
+ok   Finnu Designs 
 ok   Flint Creek Woodworks 
-ok   Fehrer Automotive 
-PAGE DONE p0337-profiles.json
 ok   Florida Metal Works Gulf Breeze 
-ok   Food Process Systems Inc 
 ok   First State Fabrication 
 ok   Florida Woodworks Inc. 
 ok   Food Processors Water Co-Op 
+ok   EnaChip Inc. 
+PAGE DONE p0333-profiles.json
+ok   Extreme Metal Works 
 ok   Florida Circuit LLC 
-ok   Flair USA 
-PAGE DONE p0338-profiles.json
-ok   Food Physics 
-ok   Electrical Design Technology / General Switchgear 
-PAGE DONE p0331-profiles.json
+ok   Fernwood Designs Woodworking 
+PAGE DONE p0337-profiles.json
 ok   Food Service Specialties 
+ok   Duerr Packaging Co Inc 
+PAGE DONE p0327-profiles.json
+ok   Edens Hawaii – Hawaiian Clothing Manufacturer 
+PAGE DONE p0330-profiles.json
+ok   Flair USA 
+ok   Food Process Systems Inc 
+ok   First State DME 
+ok   Food Physics 
 ok   Food Solutions, Inc. 
 PAGE DONE p0339-profiles.json
 ok   Engineered Plastic Components 
 PAGE DONE p0334-profiles.json
-RETRY diaz-sheet-metal-llc 'NoneType' object has no attribute 'group'
-RETRY diaz-sheet-metal-llc 'NoneType' object has no attribute 'group'
-skip Diaz Sheet Metal, LLC 'NoneType' object has no attribute 'group'
-PAGE DONE p0325-profiles.json
-ALL-DONE errors 1 of 200
-collected 197
+ok   Dyna Tool & Mold 
+PAGE DONE p0328-profiles.json
+ok   Flat-To-Form Metal Specialties, Inc. 
+PAGE DONE p0338-profiles.json
+RETRY ftic The read operation timed out
+RETRY elevaris-medical-devices-inc The read operation timed out
+ok   FTIC 
+PAGE DONE p0335-profiles.json
+ok   Elevaris Medical Devices Inc. 
+PAGE DONE p0332-profiles.json
+ALL-DONE errors 0 of 200
+collected 196
+d-m-jeffers-company-inc | nums ['50']
 d-w-woodcraft-inc | nums ['1980']
 d3-performance | nums ['3.4']
 dakota-emporium-trading-post | wording/address
-dakota-outerwear-co | wording/address
-dam-steel-supply | wording/address
-dana-lafayette-indiana-usa-fairfield-custom-gears-and-drives-plant | certs ['IATF 16949:2016', 'American Bureau of Shipping (ABS)', 'Association of American Railroads (AAR)']
-danbury-winair-co | wording/address
+dakota-growers-pasta-co-inc | wording/address
 daniel-s-food-equipment-inc | wording/address
 de-leon-furniture-inc | nums ['45']
 denali-industrial-supply-inc | wording/address
-detroit-furniture-inc | wording/address
+detroit-furniture-inc | nums ['2006']
 diversified-plastics-inc | nums ['250,000']
 dreamers-gourmet-specialty-food-manufacturer | wording/address
 drews-solar | wording/address
-dubois-sheet-metal-works-inc | wording/address
 duerr-packaging-co-inc | nums ['50']
-dusenbery-s-inc | wording/address
+dusenbery-s-inc | nums ['80']
 dyna-tool-mold | nums ['11,750']
-ecg-solar | certs ['NABCEP certified personnel (referenced in job titles)']
-eagle-packaging-products | wording/address
-eartec-co-inc | nums ['60']
-east-coast-plastics-inc | wording/address
-eastern-michigan-industries | certs ['ASNT Level II Liquid Penetrant', 'ASNT Level II Magnetic Particle']
-elemetal-fabrication-machine | nums ['2000', '1980']
+electro-craft-ohio-inc | wording/address
 elemental-energy | certs ['NABCEP Certified Installer & Technical Sales Professional']
-elevaris-medical-devices-inc | certs ['ISO 13485:2016 (US, UK, Korea sites)', 'FDA Registered (Establishment #1224960)']
-elite-woodworking | wording/address
-energy-select | wording/address
+elevaris-medical-devices-inc | wording/address
+elite-apparel-promo | certs ['ASI membership']
 engineered-equipment-co-alaska | wording/address
-erwin-custom-fabrication | nums ['30']
-exodus-dynamics | wording/address
-fairway-medical | wording/address
+erwin-custom-fabrication | wording/address
+evergreen-treated-wood-dba-iowa-wood-preservers | nums ['15']
+expert-wire-inc | nums ['25']
+extreme-power-house | nums ['718', '911', '38']
+farmhouse-style-furniture-custom-furniture-kitchen-cabinets-white-bear-lake | wording/address
 fehrer-automotive | nums ['1980']
-fellers-food-service-equipment-design | wording/address
-first-solar-louisiana | wording/address
-flair-usa | nums ['2023']
+fetting-s-frozen-foods-llc | wording/address
+first-state-dme | wording/address
+food-processors-water-co-op | nums ['3.3'] ; certs ['Virginia Department of Health standards compliance']
 food-service-specialties | nums ['79,000']
-collected 197
-done custom-steel-service-inc 0 
+collected 196
+done custom-steel-service-inc 4 
 done custom-wire-industries 0 
-done custom-woodworks 1 
+done custom-woodworks 3 
 done cutlist-co 0 
-done cynthia-east-fabrics-inc 0 
-done d-m-jeffers-company-inc 2 
+done cynthia-east-fabrics-inc 5 
+done d-m-jeffers-company-inc 1 
 done d-volt-co 0 
 done d-v-electronics 0 
-done d-w-woodcraft-inc 0 
-done d3-performance 2 
+done d-w-woodcraft-inc 2 
+done d3-performance 0 
 done ddh-ent-inc 1 
-done delaney-manufacturing-services-llc 1 
-done dingxin-auto-parts 0 
-done dk-fabrication-and-welding 0 
-done dmi-wholesale-textile 1 
+done delaney-manufacturing-services-llc 0 
+done dingxin-auto-parts 1 
+done dk-fabrication-and-welding 1 
+done dmi-wholesale-textile 0 
 done dn-plastics 0 
-RETRY daechang-indiana-inc expected string or bytes-like object, got 'NoneType'
-done daechang-indiana-inc 4 
-done dakota-emporium-trading-post 2 
+done daechang-indiana-inc 3 
+done dakota-emporium-trading-post 3 
 done dakota-fabrication-inc 0 
 done dakota-growers-pasta-co-inc 1 wrong
-done dakota-outerwear-co 0 
-done dakota-printing-and-embroidery 3 
-done dakota-woodworking-inc 0 
-done dakota-woodworks 2 
-done daktronics 1 
+done dakota-outerwear-co 1 
+done dakota-printing-and-embroidery 1 
+done dakota-woodworking-inc 1 
+done dakota-woodworks 1 
+done daktronics 0 
 done dallas-plastics 0 
-done dam-steel-supply 0 
-done damian-velasquez-modern-metal-fabrication 4 
+done dam-steel-supply 3 
 done dana-lafayette-indiana-usa-fairfield-custom-gears-and-drives-plant 0 
 done danbury-winair-co 0 
-done daniel-s-food-equipment-inc 2 
+done daniel-s-food-equipment-inc 0 
 done daniels-manufacturing-corporation 1 
-done danser-inc 1 
-done dapwood-furniture-co 2 
-done de-leon-furniture-inc 2 
+done danser-inc 0 
+done dapwood-furniture-co 0 
+done de-leon-furniture-inc 0 
 done defiant-food-group 0 
-done delta-systems-inc 3 
-done delux-manufacturing-automation 0 
-done demopolis-catv-co 1 
-done denali-industrial-supply-inc 1 
+done delta-systems-inc 2 
+done delux-manufacturing-automation 2 
+done denali-industrial-supply-inc 0 
 done denney-electric-supply-lighting-design 1 
-done dennis-food-service 2 
-done dericks-sheet-metal-works 0 
-done design-company-fabrics 4 
-done design-distillery 3 
-done design-molded-plastics 1 
-done detroit-furniture-inc 1 
-done dewitt-equipment-co 1 
+done dennis-food-service 1 
+done dericks-sheet-metal-works 1 
+done design-company-fabrics 1 
+done design-distillery 0 
+done design-molded-plastics 0 
+done detroit-furniture-inc 3 
 done dilanna-foodservice-and-paper-products 0 
 done diagnostic-medical-equipment-inc 0 
-done diamed 2 
-done diamond-electric-mfg-corp 1 
-done diamond-medical-equipment-supply 1 
+done diamed 0 
+done diamond-electric-mfg-corp 2 
+done diamond-medical-equipment-supply 0 
+done diaz-sheet-metal-llc 0 
 done digitron-semiconductors 0 
 done direct-wire-direct-wire-cable 0 
-done dirt-road-steel 2 
-done diversified-metal-fabricators 1 
+done dirt-road-steel 0 
+done diversified-metal-fabricators 2 
 done diversified-plastics-inc 0 
-done dominion-steel-llc 1 
+done dominion-steel-llc 0 
 done double-h-packaging-inc 0 
-done dover-electric-supply-co-inc 4 
-done down-east-sheet-metal-certified-welding 2 
-done down-south 2 
-done downeast-food-distributors-inc 0 
-done draco-solar 0 
-done dreampak-llc 2 
-done dreamers-gourmet-specialty-food-manufacturer 1 
-RETRY drews-solar expected string or bytes-like object, got 'NoneType'
-RETRY drews-solar expected string or bytes-like object, got 'NoneType'
-RETRY drews-solar expected string or bytes-like object, got 'NoneType'
+done doublebutter 3 
+done dover-electric-supply-co-inc 0 
+done down-east-sheet-metal-certified-welding 0 
+done down-south 0 
+done downeast-food-distributors-inc 3 
+done draco-solar 1 
+done dreampak-llc 0 
+done dreamers-gourmet-specialty-food-manufacturer 2 
 done drews-solar 0 
-done drift-clothing-co 1 
+done drift-clothing-co 2 
 done drummond-industries-inc 1 
-done dubois-sheet-metal-works-inc 0 
-done duc-woodworks 1 
+done dubois-sheet-metal-works-inc 1 
+done duc-woodworks 0 
 done duerr-packaging-co-inc 0 
 done dulles-sheet-metal 0 
-done duncan-electric-supply-co 0 
-done durant-plastics-manufacturing-inc 1 
-done dusenbery-s-inc 2 
-done dutra-sheet-metal-co 0 
-done dyna-tool-mold 4 
-done e-j-industries-inc 3 
-done ebi-llc 0 
-done ecg-solar 0 
-done ekl-fashion-inc 0 
+done duncan-electric-supply-co 2 
+done durant-plastics-manufacturing-inc 2 
+done dusenbery-s-inc 5 
+done dutra-sheet-metal-co 1 
+done dyna-tool-mold 0 
+done e-j-industries-inc 1 
+done ebi-llc 1 
+done ecg-solar 3 
+done ekl-fashion-inc 2 
 done eme-company-inc 0 
 done eme-restaurant-equipment-new-and-used 0 
-done emsco 1 
-done epd-electronics-inc 0 
-done epecomponents-electronic-parts-exchange 1 
-done es-solar 0 
-done eagle-automotive-distributors 0 
-done eagle-electric 3 
-done eagle-foodservice-equipment-supplies 5 
+done emsco 0 
+done epd-electronics-inc 1 
+done epecomponents-electronic-parts-exchange 2 
+done es-solar 1 
+done eagle-automotive-distributors 4 
+done eagle-electric 2 
+done eagle-foodservice-equipment-supplies 0 
 done eagle-packaging-products 2 
 done eartec-co-inc 0 
-done east-coast-metal-systems 3 
-done east-coast-plastics-inc 0 
-done east-coast-tees 0 
+done east-coast-metal-systems 1 
+done east-coast-plastics-inc 1 
+done east-coast-tees 3 
 done eastern-michigan-industries 0 
 done eastman-screen-printing 0 
 done eaton-sales-service-llc 0 
-done eckhart-woodworking 1 
+done eckhart-woodworking 0 
 done eco-woodworks 1 
-done ecogen-america 1 
+done ecogen-america 0 
 done ecotex-healthcare-laundry-services-new-mexico 0 
 done eddy-s-welding-inc 2 
-done edens-hawaii-hawaiian-clothing-manufacturer 1 
-done edesia-nutrition 3 
-done edge-plastics-inc 0 
+done edens-hawaii-hawaiian-clothing-manufacturer 0 
+done edesia-nutrition 0 
+done edge-plastics-inc 1 
 done eisenbaumstl-woodshop 2 
-done el-capitan-foods 1 
-done elaine-s-baker-associates 1 
-done eldor-automotive-powertrain-usa 2 
+done el-capitan-foods 0 
+done elaine-s-baker-associates 2 
+done eldor-automotive-powertrain-usa 1 
 done elemetal-fabrication-machine 0 
 done electric-barn-inc 2 
-done electrical-design-technology-general-switchgear 2 
-done electrical-systems-of-maine 0 
-done electrical-wholesale-supply-co 1 
-done electro-craft-ohio-inc 0 
-done electronic-applications-inc 1 
-done electronic-design-and-packaging-co 0 
-done electronic-engineering-co 1 
+done electrical-design-technology-general-switchgear 0 
+done electrical-systems-of-maine 1 
+done electrical-wholesale-supply-co 0 
+done electro-craft-ohio-inc 2 
+done electronic-applications-inc 0 
+done electronic-design-and-packaging-co 1 
+done electronic-engineering-co 5 
 done electronic-integration-inc 0 
-done electronic-systems 0 
+done electronic-systems 2 
 done electronics-expo 1 
 done elemental-energy 0 
 done elevaris-medical-devices-inc 0 
-done elite-apparel-promo 0 
-done elite-fabrication-and-welding-llc 0 
-done elite-metal-fabricators-inc 0 
-done elite-woodworking 2 
-done elk-grove-custom-sheet-metal 0 
+done elite-apparel-promo 1 
+done elite-fabrication-and-welding-llc 4 
+done elite-metal-fabricators-inc 3 
+done elite-woodworking 0 
+done elk-grove-custom-sheet-metal 2 
 done emcee-electronics-inc 2 
-done emerald-steel-fabricators-inc 0 
-done enachip-inc 0 
+done emerald-steel-fabricators-inc 1 
+done enachip-inc 2 
 done encompass-manufacturing 0 
-done enercon-engineering-llc-a-generac-company 0 
-done energy-select 2 
+done enercon-engineering-llc-a-generac-company 1 
+done energy-select 0 
 done engineered-equipment-co-alaska 0 
 done engineered-plastic-components 0 
-done ennis-fine-furniture-boise 0 
-done epic-welding-and-manufacturing 2 
+done ennis-fine-furniture-boise 1 
+done epic-welding-and-manufacturing 1 
 done epsilon-apparel 0 
 done erwin-custom-fabrication 0 
-done evans-food-company 1 
-done evergreen-treated-wood-dba-iowa-wood-preservers 0 
+done evans-food-company 0 
+done evergreen-treated-wood-dba-iowa-wood-preservers 1 
 done evergreen-plastic-container-inc 0 
-done everlast-energy-roofing 0 
+done everlast-energy-roofing 1 
 done exodus-dynamics 0 
-done expert-wire-inc 0 
-done express-medical-supply-inc 1 
-done exterior-sheet-metal-inc 1 
+done expert-wire-inc 3 
+done express-medical-supply-inc 2 
+done exterior-sheet-metal-inc 0 
 done extreme-metal-works 0 
 done extreme-power-house 1 
-done fat-enzo-t-shirts 0 
-done fbk-medical-tubing 0 
-done fm-welding-fabrication-llc 1 
+done fat-enzo-t-shirts 2 
+done fbk-medical-tubing 1 
+done fm-welding-fabrication-llc 0 
 done ftic 2 
 done fab-metals-llc 0 
-done fabrilaser-manufacturing-llc 2 
+done fabrilaser-manufacturing-llc 1 
 done facet-furniture 2 
-done factory-direct-equipment-co 2 
-done factory-furniture-company 0 
-done factory-motor-parts 2 
-done fairmont-foods 0 
-done fairway-medical 2 
+done factory-direct-equipment-co 3 
+done factory-furniture-company 1 
+done factory-motor-parts 0 
+done fairmont-foods 3 
+done fairway-medical 0 
 done falcon-plastics 0 
 done falls-millwork 1 
-done farmhouse-style-furniture-custom-furniture-kitchen-cabinets-white-bear-lake 0 
+done farmhouse-style-furniture-custom-furniture-kitchen-cabinets-white-bear-lake 1 
 done farmville-wholesale-electric-supply-co-inc 3 
-done fashions-unlimited-inc 0 
-done fehrer-automotive 1 
+done fashions-unlimited-inc 1 
+done fehrer-automotive 2 
 done felbro-food-products-inc 1 
-done fellers-food-service-equipment-design 3 
+done fellers-food-service-equipment-design 5 
 done fernwood-designs-woodworking 1 
-done ferraro-foods-of-north-carolina 1 
-done fetting-s-frozen-foods-llc 0 
+done ferraro-foods-of-north-carolina 0 
+done fetting-s-frozen-foods-llc 1 
 done findlay-food-coatings 0 
-done finnu-designs 2 
-done first-electronics-inc 0 
+done finnu-designs 0 
+done first-electronics-inc 3 
 done first-medical 1 
-done first-solar-louisiana 2 
+done first-solar-louisiana 4 
 done first-state-dme 2 
-done first-state-fabrication 1 
+done first-state-fabrication 0 
 done first-state-manufacturing 2 
-done fisher-auto-parts 0 
+done fisher-auto-parts 1 
 done flair-usa 0 
 done flat-to-form-metal-specialties-inc 1 
 done flint-creek-woodworks 1 
 done florida-circuit-llc 0 
-done florida-metal-works-gulf-breeze 0 
-done florida-woodworks-inc 1 
+done florida-metal-works-gulf-breeze 1 
+done florida-woodworks-inc 0 
 done food-bank-of-delaware 2 
 done food-physics 0 
-done food-process-systems-inc 2 
+done food-process-systems-inc 1 
 done food-processors-water-co-op 0 
-done food-service-specialties 2 
-done food-solutions-inc 0 
+done food-service-specialties 0 
+done food-solutions-inc 2 
 ALL-DONE errors 0
-clean 194 | sentences removed 148 | needs review 3 | check errors 0
+clean 193 | sentences removed 171 | needs review 3 | check errors 0
+REVIEW cynthia-east-fabrics-inc too short after fact-check (77 words)
 REVIEW dakota-growers-pasta-co-inc SOURCE describes 8th Avenue Food & Provisions, not Dakota Growers Pasta Co Inc.
-REVIEW eagle-foodservice-equipment-supplies too short after fact-check (35 words)
-REVIEW farmhouse-style-furniture-custom-furniture-kitchen-cabinets-white-bear-lake too short after fact-check (66 words)
-sql parts 3 stories 194
+REVIEW detroit-furniture-inc too short after fact-check (79 words)
+sql parts 3 stories 193

@@ -3,36 +3,44 @@
 **Old description:** Arkansas Steel Associates, LLC (ASA) was founded in 1989 as a joint venture between
 
 ## About
-Arkansas Steel Associates, LLC (ASA) was founded in 1989 as a joint venture between Yamato Kogyo and Sumitomo Corporation. The plant sits on 300 acres in Newport, Arkansas, in the northeastern part of the state.
+Arkansas Steel Associates, LLC (ASA) was founded in 1989 as a joint venture between Yamato Kogyo and Sumitomo Corporation. The plant is located in northeast Arkansas in the town of Newport on 300 acres.
 
-ASA manufactures merchant bar quality (MBQ) billets, hot-rolled flat bars, and double-shoulder railroad tie plates. The facility produces tie plates to A.R.E.M.A. and customer specifications, with standard offerings covering rail sizes from 115RE to 140RE. Flat bars are produced in a variety of cross sections and lengths, all meeting Buy America requirements.
+ASA manufactures merchant bar quality (MBQ) billets, hot-rolled double-shoulder railroad tie plates, and hot-rolled flat bars in various cross sections and lengths. The company operates on a 300-acre site in Newport and is described as the producer of railroad tie plates in North America. Its tie plates accommodate rail sizes from 115RE to 140RE and meet AREMA and customer specifications; all products meet Buy America requirements.
 
-The company serves the railroad industry, supplying tie plates to customers that range from small contractors to Class 1 railroads across North America. Its products are also used in construction projects requiring domestically sourced steel.
+The company serves customers ranging from small contractors to Class 1 railroads, supplying tie plates and flat bars for railroad infrastructure projects. Its products are used in North American rail networks and meet Buy America provisions for federally funded projects.
 
-ASA maintains ISO 9001:2015 and ISO 14001:2015 certifications, reflecting a focus on quality management and environmental performance. The company has also published a decarbonization plan targeting zero Scope 2 emissions for its electric furnaces.
+ASA emphasizes quality and environmental management, holding ISO 9001:2015 and ISO 14001:2015 certifications, as well as AAR M-1003 and GSCC-SBET certifications. The company has published a decarbonization plan targeting zero Scope 2 emissions from its electric furnaces.
 
 ## Known for
-- Joint venture between Yamato Kogyo and Sumitomo Corporation
+- Leading producer of railroad tie plates in North America
+- All products meet Buy America requirements
 - ISO 9001:2015 and ISO 14001:2015 certified
-- Products meet Buy America requirements
-- Tie plates cover rail sizes 115RE to 140RE
+- AAR M-1003 certified
+- Decarbonization plan targeting zero Scope 2 emissions from electric furnaces
 
 ## Capabilities
 - MBQ billet production
-- Hot-rolled flat bar production
-- Hot-rolled double-shoulder railroad tie-plate manufacturing
-- Product testing to A.R.E.M.A. specifications
-- Quality and environmental management systems (ISO 9001, ISO 14001)
+- Hot-rolled tie plate manufacturing
+- Hot-rolled flat bar manufacturing
+- AREMA specification compliance
+- Customer specification compliance
+- Buy America compliance
+- Quality management (ISO 9001:2015)
+- Environmental management (ISO 14001:2015)
 
 ## Industries
 - Railroad
 - Construction
+- Steel manufacturing
+
+## Equipment
+- Electric furnaces
 
 ## Certifications
 - ISO 9001:2015
 - ISO 14001:2015
-- GSCC-SBET
 - AAR M-1003
+- GSCC-SBET
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -44,18 +52,19 @@ ASA maintains ISO 9001:2015 and ISO 14001:2015 certifications, reflecting a focu
 
 - Founded in 1989 as joint venture between Yamato Kogyo and Sumitomo Corporation -> /
 - Plant located in Newport, Arkansas on 300 acres -> /
-- Produces MBQ billets, hot-rolled flat bars, and double-shoulder railroad tie plates -> /
-- Tie plates meet A.R.E.M.A. and customer specifications, rail sizes 115RE to 140RE -> /
-- Flat bars meet Buy America requirements -> /
-- Supplies customers from small contractors to Class 1 railroads -> /
+- Leading producer of railroad tie plates in North America -> /
+- Produces MBQ billets, hot-rolled tie plates, hot-rolled flat bars -> /
+- Tie plates accommodate rail sizes 115RE to 140RE, meet AREMA and customer specs -> /
+- All products meet Buy America requirements -> /
+- Customer base ranges from small contractors to Class 1 railroads -> /
 - ISO 9001:2015 certified -> /
 - ISO 14001:2015 certified -> /
-- GSCC-SBET certification -> /
-- AAR M-1003 certification -> /
-- Decarbonization plan targeting zero Scope 2 emissions -> /
-- Headquarters: Newport, Arkansas -> db
-- Founded year: 1989 -> db
-- Certifications: ISO9001, ISO14001 -> db
+- AAR M-1003 certified -> /
+- GSCC-SBET certified -> /
+- Decarbonization plan targeting zero Scope 2 emissions from electric furnaces -> /
+- Founded year 1989 -> db
+- Certifications ISO9001, ISO14001 -> db
+- Headquarters Newport, Arkansas -> db
 </details>
 
 ---
@@ -65,31 +74,32 @@ ASA maintains ISO 9001:2015 and ISO 14001:2015 certifications, reflecting a focu
 **Old description:** The trucking industry has changed dramatically in recent years. Equipment is far more sophisticated and expensive than we would have imagined just a few years ago. We have over 30 acres of late model inventory. We warehouse over 13,000 square feet of new, used and remanufactured parts for local pickup or worldwide shipping.
 
 ## About
-Arkansas Truck Center operates from Alma, Arkansas, as a family-owned business specializing in heavy-duty truck parts and recovery services. The company maintains over 30 acres of late-model truck inventory and a 13,000-square-foot warehouse stocked with new, used, and remanufactured components for Peterbilt and Freightliner models.
+Arkansas Truck Center operates from Alma, Arkansas, where it has built a family-owned business around heavy-duty truck parts and recovery services. The company does not disclose its founding year or the names of its founders, but it describes itself as a pacesetter in the region with a commitment to modern equipment and trained personnel.
 
-The center functions as a parts distributor and wrecker service provider, offering worldwide shipping for local pickup or delivery. Its inventory spans new, used, and remanufactured parts, and the company also purchases trucks coast to coast for resale, export, scrap, or parts dismantling. The wrecker recovery service supports heavy-duty equipment retrieval.
+The facility spans more than 30 acres of late-model truck inventory and includes a 13,000-square-foot warehouse stocked with new, used, and remanufactured parts for brands such as Peterbilt and Freightliner. In addition to parts distribution, the company provides wrecker recovery services and purchases trucks coast to coast for resale, export, scrap, or parts reclamation.
 
-Customers include trucking fleets, owner-operators, and repair shops needing Peterbilt and Freightliner components, as well as those requiring heavy-duty recovery. The business serves both domestic and international buyers through its shipping program.
+Customers range from local fleets picking up parts at the warehouse to international buyers served by worldwide shipping. The business serves the commercial trucking industry, heavy-duty recovery operators, and export markets, offering both component supply and complete vehicle acquisition.
 
-The company emphasizes its family-owned heritage and commitment to modern equipment and trained personnel as differentiators in a market where equipment has grown more sophisticated.
+Arkansas Truck Center says its differentiation lies in the combination of a large on-hand inventory, a family-owned structure that emphasizes personal service, and the ability to handle everything from single-part orders to whole-fleet purchases.
 
 ## Known for
 - Over 30 acres of late-model truck inventory
 - 13,000 sq ft warehouse of new, used, and remanufactured parts
-- Worldwide shipping on parts orders
-- Family-owned operation with modern equipment and trained staff
-- Coast-to-coast truck purchasing for resale, export, scrap, and parts
+- Worldwide shipping from a single location
+- Family-owned operation with in-house wrecker recovery
+- Coast-to-coast truck buying for resale, export, scrap, and parts
 
 ## Capabilities
-- Wrecker recovery service
-- Heavy-duty truck parts distribution
-- Truck purchasing for resale/export/scrap/parts
+- Wrecker recovery
+- Heavy-duty truck parts distribution (new, used, remanufactured)
+- Truck purchasing and remarketing
 - Worldwide parts shipping
 
 ## Industries
-- Trucking
-- Heavy-duty recovery
-- Commercial vehicle parts
+- Commercial trucking
+- Heavy-duty vehicle recovery
+- Transportation and logistics
+- Export markets
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -98,14 +108,14 @@ The company emphasizes its family-owned heritage and commitment to modern equipm
 
 <details><summary>Sources</summary>
 
-- Headquarters in Alma, Arkansas -> db
+- Location: Alma, Arkansas -> db
 - Family-owned business -> page /
 - Over 30 acres of late-model inventory -> page /
 - 13,000 sq ft warehouse of new, used, remanufactured parts -> page /
+- Wrecker recovery service -> page /
+- Buying trucks for resale, export, scrap, parts coast to coast -> page /
 - Worldwide shipping -> page /
-- Wrecker Recovery Service -> db, page /
-- Buys trucks coast to coast for resale, export, scrap, parts -> page /
-- Peterbilt & Freightliner parts focus -> page /
+- Parts for Peterbilt & Freightliner -> page /
 </details>
 
 ---
@@ -115,34 +125,29 @@ The company emphasizes its family-owned heritage and commitment to modern equipm
 **Old description:** Transform your living spaces with one of a kind, handcrafted furniture.  We specialize in bringing your vision to life through our craftsmanship, service, and attention to detail. From custom furniture that embodies elegance and functionality to captivating home decor pieces and everything in between, we have the expertise to build timeless treasures for your home, office and outdoor spaces.
 
 ## About
-Arkansaw Woodworking operates from Fayetteville, Arkansas, serving the Northwest Arkansas region. The shop specializes in handcrafted wood products for residential and commercial clients, focusing on custom furniture, home decor, and architectural woodwork.
+Arkansaw Woodworking is based in Fayetteville, Arkansas, and serves the Northwest Arkansas area.
 
-The company produces custom furniture and home decor pieces for homes, offices, and outdoor spaces. Its services include lumber milling, with a sawmill capable of processing logs up to 36 inches wide and 16 feet long, as well as furniture restoration for heirloom pieces. The workshop handles projects from raw log processing through final assembly and finishing.
+The shop specializes in custom furniture and home decor for residential, office, and outdoor spaces. Its services include custom furniture manufacturing, home decor fabrication, lumber milling with a sawmill capable of processing logs up to 36 inches wide and 16 feet long, and furniture restoration for heirloom pieces. The company blends traditional woodworking techniques with modern innovation to produce handcrafted pieces.
 
-Clients range from homeowners seeking one-of-a-kind dining tables, shelving, and decorative accents to businesses needing tailored office furnishings and outdoor installations. The shop works directly with customers to translate design ideas into finished pieces, covering projects from statement furniture to decorative accents.
+Arkansaw Woodworking works with homeowners, businesses, and designers seeking tailored wood products for homes, offices, and outdoor environments. Projects range from statement dining tables and shelving to decorative accents and live-edge slabs.
 
-Arkansaw Woodworking emphasizes handcrafted quality, blending traditional woodworking techniques with modern innovation. The team collaborates closely with each client to ensure every detail matches their vision, aiming to create pieces built to last generations. This client-centered approach drives the company's reputation for tailored craftsmanship.
+The company emphasizes focused craftsmanship, tailoring each piece to the client’s vision, and offering endless possibilities through creativity and experience. It highlights its ability to bring imagination to life through close collaboration and a passion for perfection.
 
 ## Known for
-- Handcrafted custom furniture and home decor
-- Sawmill capacity for logs up to 36 inches wide and 16 feet long
-- Furniture restoration and heirloom repair
-- Direct collaboration with clients to tailor each piece
-- Blends traditional techniques with modern innovation
+- Handcrafted furniture built to last generations
+- Custom lumber milling up to 36-inch wide, 16-foot long logs
+- Furniture restoration for heirloom pieces
+- Close collaboration to tailor each piece to client vision
 
 ## Capabilities
 - Custom furniture manufacturing
 - Home decor fabrication
-- Lumber milling (logs up to 36 in wide, 16 ft long)
+- Lumber milling (logs up to 36in wide, 16ft long)
 - Furniture restoration
-
-## Industries
-- Residential furniture
-- Office furniture
-- Outdoor furniture
+- Custom woodworking
 
 ## Equipment
-- Sawmill (up to 36 in wide, 16 ft long)
+- Sawmill (36in wide, 16ft long capacity)
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -150,13 +155,12 @@ Arkansaw Woodworking emphasizes handcrafted quality, blending traditional woodwo
 
 <details><summary>Sources</summary>
 
-- Location: Fayetteville, AR -> db
-- Services: custom furniture, home decor, lumber milling, furniture restoration -> /
-- Sawmill capacity: logs up to 36in wide, 16ft long -> /
+- Location: Fayetteville, Arkansas -> db
 - Service area: Northwest Arkansas -> /
-- Handcrafted focus and traditional/modern blend -> /
-- Client collaboration and tailored pieces -> /
-- Restoration of heirloom furniture -> /
+- Services: Custom furniture, home decor, lumber milling, furniture restoration -> /
+- Sawmill capacity: logs up to 36in wide, 16ft long -> /
+- Blends traditional techniques with modern innovation -> /
+- Works closely with clients to tailor pieces -> /
 </details>
 
 ---
@@ -166,31 +170,48 @@ Arkansaw Woodworking emphasizes handcrafted quality, blending traditional woodwo
 **Old description:** We are a family owned and operated business. We have been at our current location since 1964. Our business was founded by my father Fred Philippus. I have been involved with the company since 1965. My wife and I have owned the company since 1985.
 
 ## About
-Arrow Sheet Metal Works, Inc. operates from Tampa, Florida, where it has been located since 1964. The business was founded in 1952 by Fred Philippus and remains family-owned; his son Bob Philippus and his wife have held ownership since 1985. Bob, who has been involved since 1965, serves as vice president.
+Arrow Sheet Metal Works, Inc. operates from Tampa, Florida, where it has been located since 1964. The company was founded in 1952 by Fred Philippus and remains family-owned; his son Bob Philippus has been involved since 1965 and, together with his wife, has owned the business since 1985.
 
-The company provides custom sheet metal fabrication, working with stainless steel, aluminum, steel, galvanized steel, brass, and copper. Its shop performs welding, grinding, polishing, shearing, and bending of materials up to 1/2 inch thick, as well as pipe bending up to 2 inches in diameter. Typical output includes countertops, handrails, brackets, platforms, frames, stands, kitchen hood shells, shelving, racks, panels, cabinets, truck boxes, light brackets, and transition fittings. Field installation and portable welding services are also offered, and local delivery is handled with company-owned pickup trucks and a flatbed.
+The shop specializes in custom sheet metal fabrication, working with stainless steel, aluminum, steel, galvanized steel, brass, and copper. Capabilities include welding, grinding, polishing, pipe bending up to 2-inch diameter, and shearing and bending materials up to 1/2-inch thick. They produce a range of custom items such as countertops, handrails, brackets, platforms, frames, stands, kitchen hood shells, shelving, racks, panels, cabinets, truck boxes, light brackets, and transition fittings. Field installation and portable welding services are also offered, and local delivery is handled with company-owned pickup trucks and a flatbed.
 
-Arrow serves both commercial and residential customers throughout the Tampa Bay area. Named accounts include Tampa Electric Company, Busch Gardens/SeaWorld, Southern Wine and Spirits, Tampa International Airport, Outback Steakhouse, McDonald's, Hanna Bartoletta Homes, Hillsborough County, and the City of Tampa, alongside numerous residential clients.
+The customer base spans commercial and residential clients throughout the Tampa Bay area. Notable accounts include Tampa Electric Company, Busch Gardens/SeaWorld, Southern Wine and Spirits, Tampa International Airport, Outback Steakhouse, McDonald’s, Hanna Bartoletta Homes, Hillsborough County, and the City of Tampa.
 
-The firm emphasizes that no job is too big or too small, building custom pieces that cannot be purchased off the shelf. Its founding premise was to provide specialized fabrication for projects that standard hardware stores cannot supply.
+The company emphasizes that no job is too big or too small, building a reputation for going above and beyond on projects that require specialized fabrication not available off the shelf.
 
 ## Known for
-- Family-owned and operated since 1952
-- Custom fabrication for non-stock, made-to-order parts
+- No job too big or too small
 - Field installation and portable welding available
-- Local delivery with company-owned trucks and flatbed
-- Works with stainless steel, aluminum, steel, galvanized, brass, and copper
+- Local delivery with company-owned pickup trucks and flatbed
+- Every order custom-made to customer specifications
 
 ## Capabilities
 - Custom sheet metal fabrication
 - Welding
-- Grinding
-- Polishing
-- Shearing
-- Bending (up to 1/2" thick)
+- Grinding and polishing
 - Pipe bending (up to 2" diameter)
+- Shearing (up to 1/2" capacity)
+- Bending (up to 1/2" capacity)
 - Field installation
 - Portable welding
+- Local delivery
+
+## Industries
+- Commercial construction
+- Residential construction
+- Electrical utilities
+- Entertainment and theme parks
+- Food and beverage distribution
+- Aviation
+- Restaurant chains
+- Home building
+- Municipal government
+
+## Equipment
+- Pipe bender (up to 2" diameter)
+- Shearing equipment (up to 1/2" capacity)
+- Bending equipment (up to 1/2" capacity)
+- Pickup trucks
+- Flatbed truck
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -200,19 +221,20 @@ The firm emphasizes that no job is too big or too small, building custom pieces 
 
 <details><summary>Sources</summary>
 
-- Founded 1952 -> db
+- Founded in 1952 by Fred Philippus -> /about
 - Family-owned and operated -> /about
-- Founder Fred Philippus -> /about
-- Current owners Bob Philippus and wife since 1985 -> /about
-- At current location since 1964 -> /about
-- Materials: stainless steel, aluminum, steel, copper, brass -> /
-- Processes: welding, grinding, polishing, shearing, bending up to 1/2" thick, pipe bending up to 2" diameter -> /about
-- Products: counter tops, handrails, brackets, platforms, frames, stands, kitchen hood shells, shelving, racks, panels, cabinets, truck boxes, light brackets, transition fittings -> /about
-- Field installation and portable welding -> /about
-- Local delivery with pickup trucks and flatbed -> /about
-- Customers: Tampa Electric Company, Busch Gardens/Sea World, Southern Wine and Spirits, Tampa Airport, Outback Steakhouse, McDonald's, Hanna Bartoletta Homes, Hillsborough County, City of Tampa -> /about
-- No online ordering, custom only -> /about
+- Located at 2710 North 36th Street, Tampa, FL since 1964 -> /about
+- Bob Philippus, Vice President, involved since 1965, ownership since 1985 -> /about
+- Custom sheet metal fabricator working with stainless steel, aluminum, steel, copper, brass, galvanized -> /
+- Capabilities: welding, grinding, polishing, pipe bending up to 2", shearing and bending up to 1/2" -> /about
+- Products: countertops, handrails, brackets, platforms, frames, stands, kitchen hood shells, shelving, racks, panels, cabinets, truck boxes, light brackets, transition fittings -> /about
+- Field installation and portable welding available -> /about
+- Local delivery via pickup trucks and flatbed -> /about
+- Customers: Tampa Electric Company, Busch Gardens/SeaWorld, Southern Wine and Spirits, Tampa Airport, Outback Steakhouse, McDonald's, Hanna Bartoletta Homes, Hillsborough County, City of Tampa -> /about
+- No online ordering; every order custom -> /about
 - Deposit required 1/3 to 1/2 of total cost -> /about
+- Accepts cash, check, Visa, MasterCard, American Express -> /about
+- Fax/email drawings for quotes -> /about
 </details>
 
 ---
@@ -222,41 +244,43 @@ The firm emphasizes that no job is too big or too small, building custom pieces 
 **Old description:** Our design and build team have been producing custom pieces for homes and commercial properties since 1920. After being in business for this long, our team at Art Woodworking & Manufacturing Co. has developed a refined knowledge of craftsmanship. To put it simply, we know what it takes to create gorgeous industrial woodwork. We're also accredited by the Better Business Bureau® for our excellent customer service, so you can work with us with confidence and expect incredible results.
 
 ## About
-Art Woodworking & Manufacturing Co. has operated from Cincinnati, Ohio since 1920. The company is a small, family-owned and operated business that began with a focus on architectural woodworking and paneling for homes and offices.
+Art Woodworking & Manufacturing Co. was founded in 1920 in Cincinnati, Ohio, as a family-owned and operated woodworking shop. The company has remained a small, family-run business dedicated to the craft of woodworking for over a century.
 
-The shop produces custom woodwork including cabinetry, doors, trim molding, tongue-and-groove flooring, countertops, desks, and other furniture for residential and commercial clients. It also replicates and repairs historical woodwork. The company describes its team as having a refined knowledge of craftsmanship developed over more than a century.
+The firm specializes in custom architectural woodworking and paneling for residential and commercial projects. Its design-and-build team produces cabinetry, doors, trim molding, tongue-and-groove flooring, countertops, elevations, columns, desks, and custom furniture. The shop also replicates and repairs historical woodwork to preserve original architectural details.
 
-The company serves northern Kentucky, the greater Cincinnati area, and Indiana. Its customers include homeowners, businesses, and commercial property owners seeking custom architectural woodwork. Projects range from kitchen cabinetry and office desks to historical restoration of unique property elements.
+Art Woodworking serves homeowners, businesses, and contractors across northern Kentucky, the greater Cincinnati area, and Indiana, with a focus on Hamilton County. Its portfolio spans home remodels, office fit-outs, and historical restoration projects, delivering custom millwork tailored to each client’s style and functional needs.
 
-Art Woodworking emphasizes its long-standing craftsmanship, family ownership, and Better Business Bureau accreditation as markers of reliability. The firm was founded to deliver custom woodwork built to last and designed specifically for each customer.
+It emphasizes custom design for every project, a wide range of finish and color options, and a commitment to craftsmanship refined over decades of operation.
 
 ## Known for
-- Family-owned and operated
-- Better Business Bureau accredited
-- Serves Ohio, Kentucky, and Indiana tri-state region
-- Historical woodwork replication and repair capability
+- Family-owned and operated since 1920
+- Better Business Bureau accredited for customer service
+- Custom design and build for residential and commercial woodwork
+- Historical woodwork replication and repair
+- Service area covering northern Kentucky, greater Cincinnati, and Indiana
 
 ## Capabilities
-- Custom architectural woodworking
+- Architectural woodworking
 - Paneling
 - Custom cabinetry
-- Door manufacturing
+- Door fabrication
 - Trim molding
-- Tongue-and-groove flooring
-- Custom furniture (desks, countertops, etc.)
+- Tongue and groove flooring
+- Countertop fabrication
+- Elevation millwork
+- Column fabrication
+- Desk fabrication
+- Custom furniture
 - Historical woodwork replication
 - Historical woodwork repair
-- Design and build services
+- Custom finishes
+- Color matching
 
 ## Industries
 - Residential construction
 - Commercial construction
-- Architectural woodworking
-- Interior design
 - Historical restoration
-
-## Certifications
-- Better Business Bureau accredited
+- Architectural millwork
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -266,15 +290,15 @@ Art Woodworking emphasizes its long-standing craftsmanship, family ownership, an
 
 <details><summary>Sources</summary>
 
-- Founded 1920 -> db, /
-- Headquarters Cincinnati, Ohio -> db, /
+- Founded in 1920 -> db
 - Family-owned and operated -> /
-- Small business -> /
-- Services: architectural woodworking, paneling, cabinetry, doors, trim molding, T&G flooring, custom furniture, historical replication/repair -> /, /services
+- Headquarters in Cincinnati, Ohio -> db
+- Custom architectural woodworking and paneling -> /
+- Produces cabinetry, doors, trim molding, T&G flooring, countertops, elevations, columns, desks, furniture -> /, /services
+- Historical woodwork replication and repair -> /
 - Service area: northern Kentucky, greater Cincinnati, Indiana -> /
-- BBB accredited -> /
-- Materials: wood, laminate -> /
-- Company type: manufacturer of custom woodwork -> /, /services
+- Better Business Bureau accredited -> /
+- Small business -> /
 </details>
 
 ---
@@ -284,49 +308,43 @@ Art Woodworking emphasizes its long-standing craftsmanship, family ownership, an
 **Old description:** Arthrex is a global medical device company and leader in new product development and medical education in orthopedics. With a corporate mission of Helping Surgeons Treat Their Patients Better®, Arthrex has pioneered the field of arthroscopy and develops more than 1,000 innovative products and procedures each year.
 
 ## About
-Arthrex Portland operates in Portland, Oregon, as part of the global Arthrex medical device company. The business is privately held and describes its culture as that of a family business; the founding year and founders are not disclosed in the available information.
+Arthrex Portland operates as the exclusive agency for Arthrex, a global medical device company that pioneered arthroscopy and develops more than 1,000 innovative products and procedures each year. Based in Portland, Oregon, the agency serves the Northern Oregon and Southern Washington region.
 
-The company develops and manufactures surgical instruments and implantable devices for orthopedics, biologics, cardiology, and other medical specialties. Arthrex states it has pioneered the field of arthroscopy and introduces more than 1,000 new products and procedures each year, with a total portfolio exceeding 24,000 products and surgical procedures. Specific manufacturing processes, facility size, headcount, and production volumes are not provided.
+The agency specializes in distributing Arthrex's orthobiological and surgical product lines, providing expert clinical support and continuing medical education to surgeons and healthcare facilities. It acts as a local partner for product delivery, case support, and training programs, ensuring surgeons have the tools and support they need.
 
-Arthrex Portland serves healthcare providers, surgeons, and patients across orthopedics, biologics, and cardiology. Its product range addresses areas including shoulder, knee, arthroplasty, imaging, and resection procedures. The company emphasizes comprehensive solutions for diverse clinical demands.
+Its customer base includes orthopedic surgeons and sports medicine specialists across Northern Oregon and Southern Washington. The agency collaborates with tissue providers such as the Joint Restoration Foundation, the nation's largest supplier of fresh osteochondral allografts, and LifeNet Health, a biomedical alloengineering organization and organ and tissue donation agency.
 
-Arthrex’s stated mission is "Helping Surgeons Treat Their Patients Better." The company highlights its innovative spirit, rapid product development cycle, and commitment to medical education as key differentiators. It remains privately held to maintain a family business culture focused on uncompromising quality.
+Arthrex Portland emphasizes an integrity-driven approach, prioritizing collaboration and continuous learning to help surgeons stay at the forefront of surgical innovation.
 
 ## Known for
-- Pioneered the field of arthroscopy
-- Develops more than 1,000 new products and procedures annually
-- Portfolio of over 24,000 products and surgical procedures
-- Privately held with a family business culture
-- Focus on medical education and surgeon training
+- Exclusive Arthrex agency for Northern Oregon and Southern Washington
+- Partnerships with Joint Restoration Foundation and LifeNet Health
+- Provides expert clinical support and continuing medical education
+- Integrity-driven culture emphasizing collaboration and continuous learning
 
 ## Capabilities
-- New product development
-- Medical education and training
-- Surgical instrument manufacturing
-- Implantable device manufacturing
-- Orthopedic product design
+- Orthobiological product distribution
+- Surgical product distribution
+- Clinical case support
+- Continuing medical education
+- Surgeon training programs
 
 ## Industries
 - Orthopedics
-- Biologics
-- Cardiology
-- Medical devices
+- Sports medicine
 
 ## Company details
-- **Company Type:** Manufacturer
-- **Ownership:** Privately held, family business culture
+- **Company Type:** Distributor / reseller
 - **Headquarters:** Portland, Oregon
 
 <details><summary>Sources</summary>
 
-- Headquarters: Portland, Oregon -> db
-- Privately held with family business culture -> page:/
-- Global medical device company, leader in new product development and medical education in orthopedics -> page:/
-- Pioneered arthroscopy, develops 1,000+ innovative products/procedures yearly -> page:/
-- Portfolio exceeds 24,000 products and surgical procedures -> page:/
-- Provides surgical instruments and implantable devices for orthopedics, biologics, cardiology -> page:/
-- Mission: Helping Surgeons Treat Their Patients Better -> page:/
-- LinkedIn URL -> db
+- Headquarters in Portland, Oregon -> db
+- Exclusive Arthrex agency for Northern Oregon and Southern Washington -> /about
+- Specializes in orthobiological and surgical product solutions, expert support, and education -> /about
+- Partners with Joint Restoration Foundation and LifeNet Health -> /about
+- Parent company Arthrex develops 1,000+ products annually -> db
+- Integrity-driven culture emphasizing collaboration and continuous learning -> /about
 </details>
 
 ---
@@ -336,23 +354,23 @@ Arthrex’s stated mission is "Helping Surgeons Treat Their Patients Better." Th
 **Old description:** Ascentek is your partner for cutting-edge solutions that streamline operations, tackle the toughest challenges and push forward into the future. We aren't waiting for the path to be paved, we're here to make tomorrow a little bit better than today.
 
 ## About
-Ascentek is headquartered in Shreveport, Louisiana, with additional operations in Golden Valley, Minnesota. The company is led by President and CEO Chad Baker, who was named an EY Entrepreneur Of The Year finalist. While a founding year is not publicly disclosed, the business has grown to serve global original equipment manufacturers across multiple sectors.
+Ascentek is headquartered in Shreveport, Louisiana, with an additional site in Golden Valley, Minnesota. A founding year and ownership structure are not publicly disclosed.
 
-The company provides private-label fluid manufacturing, regional bulk fluid distribution, vehicle wash equipment and service, hard parts assembly, onsite plant maintenance and chemical management programs, environmental services, drop-shipping, and software solutions. Its Maintenance 360® reliability services focus on keeping fluids and equipment running optimally. Ascentek also offers product design, development, and testing capabilities. A $50 million expansion in Shreveport and a new Minnesota-based battery management center and next-gen battery research facility indicate significant recent investment in capacity and advanced technology.
+The company operates as a private-label fluid manufacturer and provides a suite of industrial services including bulk fluid distribution, vehicle wash equipment and service, hard parts assembly, onsite plant maintenance, chemical management programs, environmental services, drop-shipping, and software solutions. Its Maintenance 360® reliability services focus on keeping fluids and equipment running optimally in manufacturing environments. The company has earned a Great Place to Work Certification for four consecutive years.
 
-Ascentek serves global OEMs in powersports, heavy-duty, marine, industrial, outdoor power equipment, automotive, vehicle wash, and specialty markets. Its customer base includes manufacturing and technology leaders who rely on customized fluids, parts, and services to maximize equipment performance and life expectancy.
+Ascentek serves global OEMs and manufacturers across powersports, heavy-duty, marine, industrial, outdoor power equipment, automotive, vehicle wash, and specialty markets. Customers include manufacturers seeking customized fluid formulations, chemical management, and equipment maintenance programs.
 
-The company states its purpose is to make tomorrow a little better than today, emphasizing a culture of innovation, community giving, and employee engagement. It has earned a fourth consecutive Great Place to Work certification and highlights giving back as woven into its fabric.
+The company states that its purpose is to "make tomorrow a little bit better than today" and emphasizes community involvement through volunteer efforts and contributions. Its private-label solutions leverage in-house product design, development, and testing capabilities to maximize equipment performance and life expectancy.
 
 ## Known for
-- Private-label fluid manufacturing with design, development, and testing
-- Maintenance 360® reliability services for fluid and equipment optimization
-- Regional bulk fluid distribution and drop-shipping
-- Onsite plant maintenance and chemical management programs
-- Battery management center and next-gen battery research in Minnesota
+- Private-label fluid manufacturing with in-house design and testing
+- Maintenance 360® reliability services for manufacturing environments
+- $50M Shreveport expansion supporting global growth
+- Minnesota Battery Management Center for next-gen battery research
+- Four-time Great Place to Work Certification
 
 ## Capabilities
-- Private-label fluid manufacturing
+- Private label fluid manufacturing
 - Bulk fluid distribution
 - Vehicle wash equipment and service
 - Hard parts assembly
@@ -361,13 +379,10 @@ The company states its purpose is to make tomorrow a little better than today, e
 - Environmental services
 - Drop-shipping
 - Software solutions
-- Product design
-- Product development
-- Product testing
 - Maintenance 360 reliability services
+- Product design and development
+- Product testing
 - Fluid analysis
-- Battery management
-- Immersion cooling consulting
 
 ## Industries
 - Global OEMs
@@ -384,21 +399,31 @@ The company states its purpose is to make tomorrow a little better than today, e
 - Great Place to Work Certification
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Headquarters:** Shreveport, Louisiana
 
 <details><summary>Sources</summary>
 
-- HQ Shreveport, Louisiana -> db
-- CEO Chad Baker, EY Entrepreneur Of The Year finalist -> /
-- Private-label fluid manufacturing, bulk distribution, vehicle wash, hard parts assembly, onsite maintenance, chemical management, environmental services, drop-shipping, software solutions -> /
+- Headquarters in Shreveport, Louisiana -> db
+- Additional site in Golden Valley, Minnesota -> /
+- President and CEO Chad Baker -> /
+- EY Entrepreneur Of The Year finalist 2026 -> /
+- Private-label fluid manufacturing -> /
+- Bulk fluid distribution -> /
+- Vehicle wash equipment and service -> /
+- Hard parts assembly -> /
+- Onsite plant maintenance -> /
+- Chemical management programs -> /
+- Environmental services -> /
+- Drop-shipping -> /
+- Software solutions -> /
 - Maintenance 360 reliability services -> /
-- Product design, development, testing capabilities -> /
 - $50M expansion in Shreveport -> /
-- MN battery management center and next-gen battery research -> /
-- Markets: Global OEMs, Powersports, Heavy-Duty, Marine, Industrial, Outdoor Power Equipment, Automotive, Vehicle Wash, Specialty -> /
+- Minnesota Battery Management Center -> /
 - Great Place to Work Certification (4th consecutive) -> /
-- Locations: Shreveport and Golden Valley (MN) -> /
+- Industries served: Global OEMs, Powersports, Heavy-Duty, Marine, Industrial, Outdoor Power Equipment, Automotive, Vehicle Wash, Specialty -> /
+- Product design, development, and testing capabilities -> /
+- Community giving focus -> /
 </details>
 
 ---
@@ -408,37 +433,39 @@ The company states its purpose is to make tomorrow a little better than today, e
 **Old description:** Photovoltaic solar systems absorb and convert the sunlight into electricity. That electricity can be used to offset all or a portion of your home or small business' electric bill (through a "net-meter" system), or it can be sold entirely to your electric company (known as a "sell-all" system). PV technology is increasingly becoming more affordable and accessible. We offer grid-tied, off-grid and hybrid systems. Asheville Solar Company specializes in Solar PV / Photovoltaic solar installations. Give us a call today to learn how Asheville Solar Company can help your home or business make solar a reality for you this year.
 
 ## About
-Asheville Solar Company LLC operates from Fletcher, North Carolina, serving the Asheville area and wider Western North Carolina. The company is a small, family‑run business owned by Nate, who founded it with a focus on honesty and putting customer benefit ahead of profit.
+Asheville Solar Company operates from Fletcher, North Carolina, serving Asheville and the broader Western North Carolina region. The company is a small, family-run business owned by Nate, who emphasizes honesty and customer benefit over profit. While the exact founding year is not publicly stated, the firm has established itself as a local specialist in renewable energy installations.
 
-The firm specializes in designing, permitting, and installing solar photovoltaic (PV) and solar thermal systems for homes and small businesses. It offers grid‑tied, off‑grid, and hybrid configurations, and provides a 7‑ or 12‑year parts‑and‑labor warranty on installations. The team handles every step from a free site assessment through final commissioning and ongoing remote monitoring.
+The company designs, permits, and installs both solar photovoltaic (PV) and solar thermal systems for residential and small-business customers. Services cover the full project lifecycle: free site assessment, system design, permitting, installation, and ongoing remote performance monitoring. A 7- to 12-year parts-and-labor warranty is available on installed systems. No facility size or headcount figures are disclosed.
 
-Customers include residential homeowners and small commercial clients across Western North Carolina. Testimonials reference a 29‑panel PV system covering two‑thirds of a household’s electricity and a 5.78 kW rooftop array generating roughly half of a home’s power. The company holds North Carolina and South Carolina general contractor licenses, BPI Energy Auditor and Air Sealing certifications, and OSHA compliance.
+Customers include homeowners and small businesses seeking grid-tied, off-grid, or hybrid solar solutions. Testimonials reference a 29-panel residential array supplying two-thirds of household electricity plus an electric vehicle, and a 5.78 kW rooftop system generating nearly half the owner's usage. The company also works with clients pursuing Energy Star compliance and BPI energy auditing.
 
-Asheville Solar Company says its differentiator is a holistic approach to renewable energy production, combining transparent pricing, owner‑led project management, and a commitment to delivering systems that exceed original production estimates.
+The stated mission is to be Asheville's affordable and accessible answer to sustainable energy through a holistic approach to renewable energy production. The founder's philosophy places transparency and customer education first, with the owner personally walking clients through paperwork and system operation.
 
 ## Known for
-- Family‑run with owner‑led project management
-- Holistic approach to renewable energy production
-- 7‑ or 12‑year parts‑and‑labor warranty
-- Free site assessment and permitting included
-- Remote monitoring of system performance
+- Family-run with honesty before profit
+- Free site visit assessment
+- 7- to 12-year parts and labor warranty
+- Full project lifecycle from design through permitting to installation
+- Remote system performance monitoring
 
 ## Capabilities
-- Solar PV system design
 - Solar PV installation
 - Solar thermal installation
-- Grid‑tied system integration
-- Off‑grid system design
-- Hybrid system design
-- Site assessment
+- System design
 - Permitting
-- Project management
-- Remote performance monitoring
+- Installation
+- Post-installation monitoring
+- Site assessment
+- Grid-tied system installation
+- Off-grid system installation
+- Hybrid system installation
 
 ## Industries
 - Residential solar
+- Small business solar
 - Commercial solar
 - Renewable energy installation
+- Energy efficiency compliance
 
 ## Certifications
 - NC General Contractor #76074
@@ -457,16 +484,15 @@ Asheville Solar Company says its differentiator is a holistic approach to renewa
 - Location: Fletcher, NC -> db
 - Family-run business -> /
 - Owner Nate -> /
+- Solar PV and Solar Thermal installations -> /
 - Certifications: NC General Contractor #76074, SC General Contractor #12144, BPI Energy Auditor, BPI Air Sealing, OSHA -> /
-- Specializes in Solar PV and Solar Thermal installations -> /
-- Offers grid-tied, off-grid, hybrid systems -> db
-- 7/12 year parts and labor warranty -> db
-- Serves residential and small business -> db
-- Operates in Asheville and Western North Carolina -> /
-- Mission: affordable and accessible sustainable energy -> /
-- Holistic approach to renewable energy production -> /
-- Honesty and customer benefit before profit -> /
+- 7/12 year parts and labor warranty -> /
 - Free site visit -> /
+- Testimonials: Donald Hewitt (29-panel system), Jeff Byrum (5.78 kW system) -> /
+- Mission: affordable and accessible sustainable energy -> /
+- Serves Asheville and Western North Carolina -> /
+- Grid-tied, off-grid, hybrid systems -> db
+- Holistic approach to renewable energy production -> /
 </details>
 
 ---
@@ -476,30 +502,30 @@ Asheville Solar Company says its differentiator is a holistic approach to renewa
 **Old description:** Ashley Outlet of Batesville, AR is an extension of the largest furniture store brand in North America and one of the world’s best-selling furniture store brands with more than 1,000 locations worldwide.
 
 ## About
-Ashley Outlet operates in Batesville, Arkansas The store is an extension of Ashley Furniture, the largest furniture store brand in North America with more than 1,000 locations worldwide.
+Ashley Outlet operates in Batesville, Arkansas, as a local extension of Ashley Furniture, the largest furniture store brand in North America with more than 1,000 locations worldwide. The store is situated near downtown Batesville, minutes from the White River.
 
-The outlet sells living room, bedroom, and patio furniture, along with mattresses from brands such as Beautyrest, Tempur-Pedic, Serta, Nectar, and Ashley Sleep. The showroom features weekly new arrivals and Ashley Exclusives lines. Staff act as consultants, using diagnostic tools to help customers select mattresses. The store also runs the Green Sheep program, where qualifying mattress purchases help provide beds to children in need.
+The outlet sells living room, bedroom, and patio furniture, along with mattresses from brands such as Beautyrest, Tempur-Pedic, Serta, Nectar, and Ashley Sleep. The showroom features weekly new arrivals and Ashley Exclusives. Staff act as consultants to help customers find pieces that fit their space and budget. The store also runs the Green Sheep program, where qualifying mattress purchases help provide a bed to a child in need.
 
-The store serves consumers in Batesville and surrounding areas, including those near the White River. It offers military discounts for active duty, veterans, and their families. Financing is available through the Ashley Advantage Synchrony credit card with 0% interest for 60 months on qualifying purchases.
+The store serves residential customers in Batesville and surrounding areas, including active-duty military personnel, veterans, and their families who receive special discounts. It also offers financing options such as 0% interest for 60 months on in-store purchases with the Ashley Advantage credit card.
 
-The company emphasizes a consultative approach rather than pure sales, and community involvement through the Green Sheep initiative.
+The company emphasizes a consultant-driven approach rather than traditional sales, and supports the local community through the Green Sheep initiative.
 
 ## Known for
-- Consultative sales approach (consultants, not salespeople)
-- Green Sheep charitable mattress donation program
 - Military discounts for active duty, veterans, and families
-- 0% interest financing for 60 months on qualifying purchases
-- Weekly new arrivals and Ashley Exclusives product lines
+- Green Sheep program donates a bed to a child in need per qualifying mattress purchase
+- Consultant-style service, not just salespeople
+- Weekly new arrivals and Ashley Exclusives
+- Financing: 0% interest for 60 months on Ashley Advantage card
 
 ## Capabilities
-- Retail furniture sales
-- Mattress sales and fitting consultation
-- Financing programs
+- Retail sales of furniture and home decor
+- Mattress selection and fitting consultation
+- Financing through Ashley Advantage credit card
 - Military discount program
-- Charitable mattress donation program (Green Sheep)
+- Green Sheep charitable program
 
 ## Industries
-- Residential furniture retail
+- Furniture retail
 - Mattress retail
 - Home decor retail
 
@@ -509,14 +535,15 @@ The company emphasizes a consultative approach rather than pure sales, and commu
 
 <details><summary>Sources</summary>
 
-- Location: Batesville, AR at 67 Eagle Mountain Blvd -> /
+- Location: Batesville, AR -> /
 - Part of Ashley Furniture brand with 1,000+ locations worldwide -> /
-- Sells furniture (living room, bedroom, patio) and mattresses from Beautyrest, Tempur-Pedic, Serta, Nectar, Ashley Sleep -> /
-- Offers weekly new arrivals and Ashley Exclusives -> /
-- Staff act as consultants using diagnostic tools for mattress selection -> /
-- Green Sheep program donates beds to children in need -> /
-- Military discounts for active duty, veterans, and families -> /
-- Financing: 0% interest for 60 months via Ashley Advantage Synchrony card -> /
+- Sells furniture (living room, bedroom, patio) and mattresses (Beautyrest, Tempur-Pedic, Serta, Nectar, Ashley Sleep) -> /
+- Weekly new arrivals and Ashley Exclusives -> /
+- Staff act as consultants -> /
+- Green Sheep program donates bed per qualifying mattress purchase -> /
+- Military discounts for active duty, veterans, families -> /
+- Financing: 0% interest for 60 months on Ashley Advantage card -> /
+- Store hours and address -> /
 </details>
 
 ---
@@ -526,29 +553,31 @@ The company emphasizes a consultative approach rather than pure sales, and commu
 **Old description:** Suppliers Of A Complete line Of Fasteners, Special Cold Headed Products & Precision Parts Manufactured To Print In Long Or Short Runs, Standard Products Distributed From Stock. Direct Mill Shippments Available From Overseas. Full Trace ability With Material & Plating Certification Available. Contract Polybagging Available, All Metals. All Diameters & Lengths. Many Standard & Specialty Finishes.
 
 ## About
-Assembly Products, Inc. operates from Westfield, Wisconsin, where it supplies a complete line of fasteners, special cold-headed products, and precision parts manufactured to print. The company also distributes standard fastener products from stock and arranges direct mill shipments from overseas sources.
+Assembly Products Inc. operates from Westfield, Wisconsin, where it serves as a manufacturer and distributor of fasteners and precision components. The company is structured as a corporation, though its founding year and ownership details are not publicly disclosed.
 
-Its capabilities include cold heading, precision machining, metal stamping, and wire forming for custom parts in both long and short production runs. The facility offers contract polybagging services, vendor-managed inventory programs, and full traceability with material and plating certifications. All metals, diameters, and lengths are available, along with a range of standard and specialty finishes including RoHS-compliant options.
+The company produces a complete line of fasteners, special cold-headed products, and precision parts manufactured to print in both long and short runs. It also distributes standard products from stock and arranges direct mill shipments from overseas. Capabilities include cold heading, screw machining, metal stamping, wire forming, and contract polybagging. The firm offers vendor-managed inventory programs and provides full traceability with material and plating certifications.
 
-The company serves customers requiring fasteners and precision components across industrial sectors, though specific industries are not detailed in its public materials. Its offerings cater to original equipment manufacturers, maintenance operations, and distributors needing both custom-made and off-the-shelf hardware.
+Assembly Products serves customers across industrial sectors that require threaded fasteners, custom cold-headed components, and precision screw-machine parts. Its product range encompasses cap screws, hex and socket head bolts, U-bolts, J-bolts, rivets, studs, set screws, wireforms, nuts, plastic fasteners, and cable ties. The company also supports a race team, indicating a presence in motorsports applications.
 
-The business was built on providing traceable, certified parts with flexible run quantities and a broad finish selection.
+The business emphasizes full traceability with material and plating certifications, direct mill shipments from overseas, and vendor-managed inventory programs.
 
 ## Known for
+- Full traceability with material and plating certification
 - Direct mill shipments from overseas
-- Contract polybagging for all metals and sizes
 - Vendor-managed inventory programs
-- Full material and plating traceability
+- Contract polybagging available
 
 ## Capabilities
 - Cold heading
-- Precision machining
+- Screw machining
 - Metal stamping
 - Wire forming
 - Contract polybagging
 - Vendor managed inventory
-- Importing and distribution
+- International procurement
+- Direct mill shipments
 - Manufacturing to print
+- Distribution from stock
 
 ## Certifications
 - ISO 9001:2008
@@ -560,10 +589,14 @@ The business was built on providing traceable, certified parts with flexible run
 
 <details><summary>Sources</summary>
 
-- Location and capabilities from homepage (/)
-- Certifications from homepage (/)
-- Product and service description from homepage (/)
-- Company description from database (db)
+- Location: Westfield, Wisconsin -> page "/"
+- Certifications: ISO 9001:2008, RoHS -> page "/"
+- Business: Manufacturing, Distribution, and Importing -> page "/"
+- Products: Fasteners, cold headed products, precision parts -> page "/"
+- Services: Contract polybagging, vendor managed inventory, direct mill shipments -> page "/"
+- Certificate #A2637US -> page "/"
+- Race team involvement -> page "/"
+- International procurement specialists -> page "/"
 </details>
 
 ---

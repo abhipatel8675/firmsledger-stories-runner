@@ -3,30 +3,29 @@
 **Old description:** None
 
 ## About
-Exodus Dynamics operates from Colorado Springs, Colorado. The company's founding year and ownership structure have not been publicly disclosed.
+Exodus Dynamics operates from Colorado Springs, Colorado, where it designs and manufactures microwave and RF components.
 
-The company designs and manufactures a range of microwave and RF components, including dielectric resonator oscillators, frequency amplifiers, frequency converters, frequency multipliers, phase-locked dielectric resonator oscillators (PLDROs), and phase-locked oscillators. It also provides customized assemblies tailored to customer specifications. No facility size, headcount, or production volumes are published.
+The company produces dielectric resonator oscillators (DROs), phase-locked dielectric resonator oscillators (PLDROs), frequency amplifiers, frequency converters, frequency multipliers, and phase-locked oscillators. It also provides customized assemblies and sub-assemblies tailored to customer specifications. No facility size or headcount figures are disclosed.
 
-Exodus Dynamics serves aerospace, industrial, defense, government, and telecommunications sectors. Its PLDROs are engineered for space applications and built to endure extreme conditions. Phase-locked oscillators are supplied for industrial applications, while defense customers receive products built to military standards with rigorous testing and R&D. Government contracts are supported with cost-efficient, ISO 9001-certified sub-assemblies. In telecommunications, the company offers PLDROs for cable TV links and point-to-point radios.
+Exodus Dynamics serves aerospace, defense, government, industrial, and telecommunications sectors. Its PLDROs are engineered for space applications and built to endure extreme conditions. Phase-locked oscillators are supplied for industrial test and measurement. Defense programs receive components built to military standards with rigorous testing and R&D. Government contracts are fulfilled with cost-efficient, ISO 9001-certified sub-assemblies. In telecommunications, the company offers PLDROs for cable TV links and point-to-point radios.
 
-The company emphasizes its ISO 9001 certification as a quality assurance benchmark and highlights rigorous testing and R&D as core differentiators. Products are described as tested and approved by industries, built to military standards, and cost-efficient for government solutions.
+The company emphasizes ISO 9001-certified quality assurance, design for extreme environments, and adherence to military standards as key differentiators. Its focus on rigorous testing and R&D underpins product reliability across demanding applications.
 
 ## Known for
 - ISO 9001 certified quality management
 - PLDROs engineered for space and extreme environments
-- Products built to military standards with rigorous testing and R&D
-- Cost-efficient, certified sub-assemblies for government
-- Wide range of PLDROs for cable TV and point-to-point radio links
+- Products built to military standards
+- Rigorous testing and R&D processes
+- Customized assemblies available
 
 ## Capabilities
-- Dielectric Resonator Oscillator manufacturing
-- Frequency Amplifier manufacturing
-- Frequency Converter manufacturing
-- Frequency Multiplier manufacturing
+- Dielectric Resonator Oscillator (DRO) manufacturing
 - Phase Locked Dielectric Resonator Oscillator (PLDRO) manufacturing
-- Phase Locked Oscillator manufacturing
-- Customized assembly
-- R&D and testing
+- Frequency amplifier manufacturing
+- Frequency converter manufacturing
+- Frequency multiplier manufacturing
+- Phase Locked Oscillator (PLO) manufacturing
+- Custom assembly and sub-assembly production
 
 ## Industries
 - Aerospace
@@ -45,14 +44,13 @@ The company emphasizes its ISO 9001 certification as a quality assurance benchma
 <details><summary>Sources</summary>
 
 - Headquarters: Colorado Springs, Colorado -> db
-- Certification: ISO 9001 -> db
-- Industries served: Aerospace, Industrial, Defense, Government, Telecommunications -> db
 - Products: Dielectric Resonator Oscillators, Frequency Amplifiers, Frequency Converters, Frequency Multipliers, PLDRO, Phase Locked Oscillators, customized assemblies -> /
+- Industries served: Aerospace, Industrial, Defense, Government, Telecommunications -> /
+- Certification: ISO 9001 -> / and db
 - PLDRO engineered for space; built to endure extreme condition -> /
-- Phase Locked Oscillators for every application; customized assemblies available -> /
 - Built to military standards; rigorous testing and R&D -> /
-- Cost efficient, quality controlled, certified ISO 9001 sub assemblies & PLDRO for government -> /
-- Wide range of PLDRO for cable TV links & point to point radios -> /
+- Cost efficient, quality controlled, ISO 9001 certified sub assemblies -> /
+- PLDRO for cable TV links & point to point radios -> /
 </details>
 
 ---
@@ -62,60 +60,66 @@ The company emphasizes its ISO 9001 certification as a quality assurance benchma
 **Old description:** Expert Wire Inc. was founded to protect families from electrical hazards by providing high-quality services and customer education. We understand how important it is for your electrical system to function safely and efficiently. That is why our electricians are trained to deliver top-notch workmanship and offer exceptional customer service that ensures your satisfaction.
 
 ## About
-Expert Wire Inc. is based in Dagsboro, Delaware, and has served coastal Delaware and Maryland's Eastern Shore since 2003. The company was co-founded by David and Andrea Naples after David experienced an electrical fire that destroyed his family home as a child, inspiring a lifelong commitment to electrical safety.
+Expert Wire Inc. is based in Dagsboro, Delaware, and has served coastal Delaware and Maryland's Eastern Shore since its founding in 2003. The company was started by David and Andrea Naples after a childhood electrical fire destroyed David's family home, an experience that drove a lifelong commitment to electrical safety. Today the husband-and-wife team leads a crew of licensed electricians whose combined field experience exceeds 200 years.
 
-The firm provides a full range of residential and light commercial electrical services, including electrical panel upgrades, EV charging station installation, lighting installation (indoor, outdoor, parking lot and commercial), hot tub and swimming pool wiring, boat lift and marina wiring, new circuit installation, TV mounting, ceiling fan and ventilation fan installation, switch and outlet replacement, and whole-home surge protection. A team of licensed electricians with a combined 200-plus years of experience performs the work.
+The firm provides a full range of residential electrical services, including panel upgrades, EV charging station installation, lighting design and installation, whole-home rewiring, new circuit runs, ceiling fan and attic/bath fan mounting, TV wall-mount wiring, hot tub and pool wiring, and boat lift and marina power. It also handles parking lot and commercial lighting projects for small businesses in the region. Work is performed from a mobile fleet that covers towns from Ocean View, DE to Ocean City, MD and inland to Dover and Salisbury.
 
-Customers are primarily homeowners in communities such as Ocean View, Lewes, Rehoboth Beach, Ocean City, and Salisbury, as well as commercial property owners needing parking lot lighting. Project spotlights document work in Ocean View, Seaford, and Dagsboro.
+Primary customers are homeowners in Sussex County, DE and Worcester County, MD, along with property owners who manage multiple residences and small commercial properties. Repeat clients include families who have used the company since 2014 for everything from GFCI replacement to whole-home surge protection.
 
-The company differentiates itself with upfront pricing, a one-year risk-free guarantee, a property protection guarantee, and a focus on customer education—principles rooted in the founders' original mission to prevent electrical hazards.
+The company distinguishes itself with a set of written guarantees: upfront pricing, a one-year risk-free warranty on labor, and a property protection pledge. Its stated mission is to educate customers on electrical safety while delivering transparent, code-compliant installations.
 
 ## Known for
-- Upfront pricing on all jobs
-- One-year risk-free guarantee
-- Property protection guarantee
-- Licensed and insured electricians
-- Over 200 years combined field experience
+- Upfront pricing with no hidden fees
+- One-year risk-free labor guarantee
+- Property protection guarantee during work
+- Licensed and insured electricians on every job
+- Customer education on electrical safety
 
 ## Capabilities
-- Electrical panel upgrade
+- Electrical panel upgrades
 - EV charging station installation
 - Lighting installation (residential and commercial)
-- Parking lot and commercial lighting
-- Hot tub and swimming pool wiring
-- Boat lift and marina wiring
+- Whole-home rewiring
 - New circuit installation
-- TV installation and mounting
 - Ceiling fan installation
 - Attic and bath fan installation
-- Switch and outlet replacement
-- Whole-home surge protection
-- Electrical troubleshooting
+- TV mounting and wiring
+- Hot tub and swimming pool wiring
+- Boat lift and marina wiring
+- Switches and outlets replacement
 - GFCI outlet replacement
-- Dual-function breaker installation
+- Whole-home surge protection installation
+- Electrical troubleshooting and diagnostics
+- Parking lot and commercial lighting installation
 
 ## Industries
-- Residential
-- Commercial
-- Marine
-- EV charging infrastructure
+- Residential electrical services
+- Commercial lighting
+- Marine electrical
+- EV infrastructure
+
+## Certifications
+- Licensed electrical contractor
+- Insured
 
 ## Company details
 - **Company Type:** Installer / service company
 - **Founded:** 2003
-- **Ownership:** Co-founded by David and Andrea Naples
+- **Ownership:** Family-owned
 - **Headquarters:** Dagsboro, Delaware
 
 <details><summary>Sources</summary>
 
-- Founded in 2003 -> /about-us
+- Founded 2003 -> /about-us
 - Co-founders David and Andrea Naples -> /about-us
-- Headquarters Dagsboro, Delaware -> db
-- Services list (panel upgrades, EV charging, lighting, wiring, etc.) -> /services
-- Combined 200+ years experience -> /about-us
-- Guarantees: upfront pricing, one-year risk-free, property protection -> /about-us
-- Service areas (Ocean View, Lewes, Rehoboth Beach, Ocean City, Salisbury, etc.) -> /
-- Project spotlights in Ocean View, Seaford, Dagsboro -> /
+- Origin story: childhood electrical fire -> /about-us
+- 200+ years collective experience -> /about-us
+- Service area towns list -> /
+- Services list (panel upgrades, EV charging, lighting, wiring, etc.) -> /, /services, /about-us
+- Commercial parking lot lighting -> /services
+- Guarantees: upfront pricing, 1-year risk-free, property protection -> /about-us
+- Licensed & insured -> /, /about-us
+- Project spotlights in Ocean View, Seaford, Dagsboro, Lewes -> /
 </details>
 
 ---
@@ -125,44 +129,34 @@ The company differentiates itself with upfront pricing, a one-year risk-free gua
 **Old description:** Express Medical Supply is a family-run online store that has been a trusted provider of high-quality home medical supplies since 1994. Based in St. Louis, Missouri, we specialize in serving individuals, clinics, and medical institutions with a comprehensive selection of medical products, including ostomy care, urological supplies, incontinence solutions, and wound care items. Our team is committed to offering reliable, patient-first service, ensuring you receive the essential healthcare products you need at competitive prices. Over the past two decades, we've built strong relationships with our customers by providing personalized care and tailored solutions to meet a wide range of medical needs.
 
 ## About
-Express Medical Supply, Inc. was founded in 1994 as a family-run online store in Fenton, Missouri, a suburb of St. Louis. The company began with a focus on providing home medical supplies directly to individuals, clinics, and medical institutions.
+Express Medical Supply, Inc. was founded in 1994 in Fenton, Missouri, a suburb of St. Louis. The company operates as a family-run business, though the founders are not named in public materials. It began as an online store focused on delivering home medical supplies directly to consumers and healthcare providers.
 
-The company operates as a distributor and retailer of medical supplies, offering a broad catalog that includes ostomy care, urological supplies, incontinence products, wound care, diabetic supplies, mobility aids, respiratory care, infection control, and compression therapy. Its warehouse and office in St. Louis enable fulfillment across the United States, with a triple-check verification system to reduce shipping errors. Orders over $149 ship free, and a discreet shipping option is available. The company also offers an auto-ship subscription service for recurring needs.
+The company distributes a broad range of medical products, including ostomy care, urological supplies, incontinence solutions, wound care items, diabetic supplies, mobility aids, respiratory care products, infection control supplies, and compression socks and stockings. Its catalog features brands such as Bard Medical, Coloplast, ConvaTec, Hollister, and Medline Industries. Operations are centered at a warehouse and office in Saint Louis, Missouri, from which orders are shipped nationwide using a triple-check verification system. Shipping is free on orders over $149, and compression stockings always ship free. The company does not accept insurance, including Medicare or Medicaid, and accepts payment via major credit cards or PayPal.
 
-Express Medical Supply serves individual consumers, clinics, and medical institutions across the United States. It carries products from manufacturers such as Coloplast, Convatec, Hollister, Bard Medical, and others. The company does not bill insurance, Medicare, or Medicaid, accepting payment via credit card or PayPal.
+Express Medical Supply serves individuals managing care at home, as well as clinics and medical institutions. Its customer base spans the contiguous United States, with shipping available to Alaska, Hawaii, and U.S. territories for a fee. The company emphasizes personalized service, with a customer service team available by phone on weekdays and ongoing product training for staff.
 
-The company emphasizes its centralized location for faster delivery, personalized customer service with ongoing product training, and a commitment to quality and value since its founding. A scholarship program for college students is also offered.
+The business highlights its commitment to service, quality, and value, positioning itself as a patient-first provider. It also runs an annual scholarship contest awarding $500 to a college student, reflecting a stated goal of contributing to higher education.
 
 ## Known for
-- Family-owned and operated since 1994
-- Centralized St. Louis warehouse for faster U.S. shipping
+- Family-run since 1994
+- Centralized St. Louis warehouse for fast nationwide shipping
 - Triple-check order verification system
-- Free shipping on orders over $149
-- Discreet shipping option at no extra cost
+- Free shipping on orders over $149 (compression stockings always free)
+- Customer service with ongoing product knowledge training
 
 ## Capabilities
-- Online retail of medical supplies
-- Warehouse fulfillment and distribution
+- Online medical supply retail
+- Warehouse distribution
 - Order verification (triple-check system)
-- Discreet packaging and shipping
-- Auto-ship subscription management
-- Phone-based customer support with product training
-- Product sourcing from multiple manufacturers
+- Discreet shipping option
+- Auto-ship subscription program
+- Phone-based customer service
+- Product knowledge training for staff
 
 ## Industries
 - Home healthcare
-- Medical clinics
-- Hospitals and institutions
-- Consumer medical supplies
-- Ostomy care
-- Urological supplies
-- Incontinence care
-- Wound care
-- Diabetic supplies
-- Mobility aids
-- Respiratory care
-- Infection control
-- Compression therapy
+- Clinical care
+- Medical institutions
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -174,17 +168,15 @@ The company emphasizes its centralized location for faster delivery, personalize
 
 - Founded 1994 -> /about-us
 - Family-run -> /about-us
-- Headquarters Fenton, Missouri -> db
-- Warehouse in St. Louis, MO -> /about-us
-- Triple-check shipping system -> /about-us
-- Free shipping over $149 -> /about-us
-- Discreet shipping option -> /about-us
-- No insurance billing -> /about-us
-- Customer service hours -> /about-us
-- Carries brands Coloplast, Convatec, Hollister, Bard -> /about-us
-- Auto-ship service -> /
-- Scholarship program -> /about-us
-- Product categories: ostomy, urological, incontinence, wound care, etc. -> /
+- Headquarters Fenton, Missouri -> /about-us
+- Warehouse in Saint Louis, MO -> /about-us
+- Product categories (ostomy, urological, incontinence, wound care, diabetic, mobility, respiratory, infection control, compression) -> /
+- Brands carried (Bard, Coloplast, ConvaTec, Hollister, Medline) -> /about-us
+- Shipping policies (free over $149, triple-check system) -> /about-us
+- No insurance acceptance (Medicare/Medicaid) -> /about-us
+- Customer service hours (Mon-Thu 8:30-5, Fri 8:30-4 Central) -> /about-us
+- Scholarship program ($500 annually) -> /about-us
+- Company type distributor (resells other manufacturers' products) -> /about-us
 </details>
 
 ---
@@ -194,56 +186,65 @@ The company emphasizes its centralized location for faster delivery, personalize
 **Old description:** Iowa’s Premier Local Architectural Sheet Metal Provider Since 1985
 
 ## About
-Exterior Sheet Metal Inc. was founded in 1985 in Grimes, Iowa, a suburb of Des Moines. The company began as an architectural sheet metal contractor serving the Midwest, focusing on custom fabrication and installation of sheet metal roofing, soffit, wall panels, gutters, downspouts, and trim.
+Exterior Sheet Metal, Inc. was founded in 1985 in Grimes, Iowa, a suburb of Des Moines. The company began as an architectural sheet metal contractor serving the Midwest, focusing on custom fabrication and installation of sheet metal roofing, soffit, wall panels, gutters, downspouts, trim, and accessories.
 
-The firm operates a warehouse that holds one of the largest metal inventories in the region and houses fabrication equipment capable of producing pieces up to ten feet long. Its shop and field crews handle standing seam roofs, metal wall panels, custom copper work such as cupolas and bay window roofs, and all associated soffit, fascia, gutter, and downspout systems. The company accepts orders of any size and offers quick turnaround for walk-in, furnish-only requests.
+The shop custom fabricates architectural sheet metal components using prefinished sheet metal, copper, stainless steel, and aluminum. Its warehouse holds one of the largest metal inventories in the Midwest and houses equipment capable of forming pieces up to 10 feet long. Core processes include standing seam roofing, metal wall panels, custom copper fabrication (such as cupolas and bay window roofs), and the fabrication and installation of soffit, fascia, gutters, and downspouts. The company handles commercial, industrial, residential, and new‑construction projects, with no minimum order size and quick turnaround for walk‑in, furnish‑only orders.
 
-Exterior Sheet Metal serves commercial, industrial, residential, and new-construction markets. Projects range from large-scale installations like the Prairie Meadows facility in Altoona, Iowa, to small residential repairs and custom architectural pieces for individual customers.
+Customers range from large commercial projects like Prairie Meadows in Altoona, Iowa, to individual homeowners needing a simple kick plate. The firm serves the commercial, industrial, residential, and new‑construction sectors, as well as custom architectural work. Its field crews handle expert installation alongside the shop’s fabrication team.
 
-The company emphasizes its highly trained workforce and modern equipment as the basis for its reputation, aiming to deliver leak-free performance and high aesthetic quality on every job. It positions itself as a single source for both fabrication and installation, with a focus on responsive service for both contract and walk-in customers.
+Exterior Sheet Metal emphasizes its highly trained workforce, cutting‑edge equipment, and extensive material inventory as differentiators. The company states that its combination of skilled shop and field crews allows it to deliver leak‑free performance and aesthetic quality on projects of any scale.
 
 ## Known for
 - One of the largest metal inventories in the Midwest
-- Fabrication capacity for pieces up to 10 feet long
-- Quick turnaround for walk-in and furnish-only orders
-- Custom copper fabrication including cupolas and bay window roofs
-- Combined fabrication and installation by trained crews
+- Fabrication equipment for architectural sheet metal up to 10 feet long
+- No order too big or too small; quick turnaround for walk‑in, furnish‑only orders
+- Highly trained shop and field crews for both fabrication and installation
+- Specialized expertise in standing seam roofs, metal wall panels, and custom copper work
 
 ## Capabilities
 - Architectural sheet metal fabrication
-- Standing seam roofing installation
-- Metal wall panel fabrication and installation
-- Custom copper fabrication (cupolas, bay window roofs)
-- Soffit, fascia, gutter and downspout fabrication and installation
-- Custom metal forming up to 10-foot lengths
-- Prefinished sheet metal, copper, stainless steel, and aluminum fabrication
-- Commercial and industrial sheet metal work
-- Residential and new construction sheet metal work
-- Walk-in furnish-only order fulfillment
+- Custom metal forming
+- Copper fabrication
+- Standing seam roofing
+- Metal wall panel fabrication
+- Soffit fabrication
+- Fascia fabrication
+- Gutter and downspout fabrication
+- Installation services
+- Commercial sheet metal services
+- Residential sheet metal services
+- New construction sheet metal work
+- Custom architectural sheet metal
+- Light fabrication
+- Decorative metalwork
 
 ## Industries
 - Commercial
 - Industrial
 - Residential
 - New construction
+- Custom architecture
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1985
 - **Headquarters:** Grimes, Iowa
 
 <details><summary>Sources</summary>
 
-- Founded in 1985 -> db
-- Headquarters in Grimes, Iowa -> db
-- Architectural sheet metal contractor custom fabricates and installs roofing, soffit, wall panels, gutters, downspouts, trim -> /
-- Warehouse contains one of the largest metal inventories in Midwest, equipment for fabricating up to 10' long -> /about-us
-- Specializes in standing seam roofs, metal wall panels, custom copper fabrication (cupolas, bay window roofs) -> /about-us
-- Serves commercial, industrial, residential, new construction markets -> /
-- Project example: Prairie Meadows in Altoona, Iowa -> /
-- Offers quick turnaround for walk-in, furnish-only orders -> /about-us
+- Founded 1985 -> db
+- Headquarters Grimes, Iowa -> db
+- Architectural sheet metal contractor -> /
+- Custom fabrication and installation -> /
 - Materials: prefinished sheet metal, copper, stainless steel, aluminum -> /
-- Highly trained workforce and modern equipment cited as differentiators -> /about-us
+- Warehouse with large metal inventory -> /about-us
+- Equipment for up to 10' long -> /about-us
+- Services: standing seam roofs, metal wall panels, copper fabrication, soffit, fascia, gutter, downspouts -> /about-us
+- Industries: commercial, industrial, residential, new construction, custom architecture -> /
+- Project example: Prairie Meadows in Altoona, Iowa -> /
+- Quick turnaround for walk-in orders -> /about-us
+- No order too big or too small -> /about-us
+- Highly trained workforce -> /about-us
 </details>
 
 ---
@@ -253,41 +254,39 @@ The company emphasizes its highly trained workforce and modern equipment as the 
 **Old description:** Extreme Metal Works takes pride in being your go-to metal fabrication experts. Our company specializes in a wide array of services, including ductwork fabrication, curb adapter creation, welded grease duct installation, and chimney chase covers. Over the years, we have built a reputation for our competence, innovation, and commitment to quality.
 
 ## About
-Extreme Metal Works operates from Livonia, Michigan, serving the Metro Detroit area with custom sheet metal fabrication for HVAC systems. The company has built its reputation over years of hands-on experience in ductwork, curb adapters, welded grease ducts, and chimney chase covers.
+Extreme Metal Works operates from Livonia, Michigan, providing sheet metal and HVAC fabrication services to commercial and industrial clients across the Metro Detroit area.
 
-The shop specializes in custom ductwork and fitting fabrication, including acoustically lined and FSK-wrapped ductwork. Pieces are supplied with pre-cut S-cleats and drive cleats, available fully assembled or in knockdown form with a snap-lock seam. The team also produces welded grease ducts for commercial kitchens, custom curb adapters for rooftop units, and durable chimney chase covers. Same-day fabrication and shipping options are offered for urgent needs.
+The shop specializes in custom ductwork and fitting fabrication, including acoustically lined and FSK-wrapped ductwork, with pre-cut S-cleats and drive cleats supplied for either fully assembled or knockdown snap-lock assembly. It also produces welded grease ducts for commercial kitchens, custom curb adapters for rooftop units, and chimney chase covers, all fabricated from premium-grade metals using precision welding techniques that meet fire and mechanical codes. A team of experienced professionals handles each project with hands-on expertise in ductwork, curb adapters, grease duct installations, and chase covers.
 
-Customers include commercial and industrial contractors across Metro Detroit, HVAC contractors, commercial builders, and food-service operators requiring code-compliant grease duct systems. The company's work supports new construction, retrofits, and emergency repairs for buildings ranging from office towers to restaurant kitchens.
+Customers include HVAC contractors, commercial builders, and food-service operators who need code-compliant grease duct systems, as well as industrial facilities requiring efficient airflow solutions. The company serves the Metro Detroit region with same-day fabrication and shipping options to keep projects on schedule.
 
-Extreme Metal Works emphasizes competence, innovation, and a commitment to quality, stating that its fabrication process adheres to all relevant fire and mechanical codes. The firm positions its same-day service and code-compliant welded ducts as key differentiators, aiming to deliver peace of mind through craftsmanship.
+Extreme Metal Works emphasizes same-day turnaround, code-compliant quality, and precision-engineered solutions that optimize airflow and reduce energy costs, positioning its service as a way to avoid the safety risks and inefficiencies of poorly fabricated ductwork.
 
 ## Known for
-- Same-day sheet metal fabrication and shipping
+- Same-day fabrication and shipping available
 - Pre-cut S-cleats and drive cleats included with ductwork
-- Fully assembled or knockdown snap-lock seam options
-- Welded grease ducts meeting fire and mechanical codes
-- Custom curb adapters and chimney chase covers
+- Knockdown snap-lock assembly option for easy installation
+- Fabrication adheres to fire and mechanical codes
+- Premium-grade metals and precision welding for grease ducts
 
 ## Capabilities
 - Custom ductwork fabrication
 - Acoustically lined ductwork
 - FSK-wrapped ductwork
-- Pre-cut S-cleats and drive cleats
-- Snap-lock seam assembly
-- Knockdown ductwork
+- Pre-cut S-cleats and drive cleats supply
+- Knockdown snap-lock assembly
 - Same-day sheet metal fabrication
 - Welded grease duct fabrication
-- Curb adapter fabrication
+- Custom curb adapter fabrication
 - Chimney chase cover fabrication
 - Precision welding
-- Code-compliant fabrication
 
 ## Industries
 - HVAC
-- Commercial construction
-- Industrial
+- Commercial kitchens
 - Food service
-- Commercial kitchen
+- Commercial construction
+- Industrial manufacturing
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -295,19 +294,16 @@ Extreme Metal Works emphasizes competence, innovation, and a commitment to quali
 
 <details><summary>Sources</summary>
 
-- Location: Livonia, Michigan -> db
-- Services: custom ductwork fabrication, curb adapters, welded grease duct, chimney chase covers -> /, /about, /services
-- Same-day fabrication service -> /, /services
-- Serves commercial and industrial clients in Metro Detroit -> /
-- Uses premium-grade metals and precision welding -> /services
-- Adheres to fire and mechanical codes -> /services
-- Pre-cut S-cleats and drive cleats included -> /
-- Fully assembled or knockdown snap-lock seam options -> /
+- Headquarters: Livonia, Michigan -> db
+- Services: custom ductwork, curb adapters, welded grease duct, chimney chase covers -> /, /about, /services
+- Same-day fabrication and shipping -> /, /services
 - Acoustically lined and FSK-wrapped ductwork -> /
-- Custom curb adapters for rooftop HVAC units -> /services
-- Chimney chase covers protect against elements -> /services
-- Company emphasizes competence, innovation, commitment to quality -> /about
-- Team comprises highly experienced professionals -> /about
+- Pre-cut S-cleats and drive cleats, knockdown snap-lock assembly -> /
+- Premium-grade metals, precision welding, fire/mechanical code adherence -> /services
+- Team of experienced professionals -> /about
+- Customers: HVAC contractors, commercial builders, food-service operators, industrial facilities -> /, /services
+- Code-compliant quality, airflow optimization, energy savings -> /, /services
+- Company type: sheet metal and HVAC fabrication -> /
 </details>
 
 ---
@@ -317,52 +313,52 @@ Extreme Metal Works emphasizes competence, innovation, and a commitment to quali
 **Old description:** XPH is your home for BMW, Audi, Ford Mustang, VW, Porsche and Nissan GTR aftermarket parts. We offer the best prices on ECU tunes, air intakes, front mount intercoolers, charge pipes, downpipes, axle back and catback exhausts. Subscribe to our newsletter for exclusive offers and coupon codes.
 
 ## About
-Extreme Power House operates from Las Vegas, Nevada, as an online retailer specializing in aftermarket performance parts for European and American sports cars. The company’s founding year and ownership structure are not publicly disclosed, though customer testimonials reference a team led by an individual named Mike.
+Extreme Power House operates from Las Vegas, Nevada, serving as an online retailer of aftermarket performance parts for European and American sports cars. The company’s founding year and ownership structure are not publicly disclosed.
 
-The business stocks a range of bolt-on upgrades including ECU tunes, cold-air intakes, front-mount intercoolers, charge pipes, downpipes, and cat-back exhaust systems for platforms such as BMW, Audi, Ford Mustang, Volkswagen, Porsche, and the Nissan GT-R. It functions as a reseller, carrying brands like Active Autowerke, and manages order fulfillment, a price-match guarantee, a loyalty-points program, and financing through PayPal Credit.
+The business distributes a range of bolt-on performance components including ECU tunes, cold-air intake systems, front-mount intercoolers, charge pipes, downpipes, and axle-back and cat-back exhaust systems. Its website catalog is organized by vehicle platform, with deep coverage of BMW 1, 2, and 3 Series models (including M variants) and additional sections for Audi, Ford Mustang, Volkswagen, Porsche, and Nissan GT-R applications. Brands carried include Active Autowerke, among others. No facility size, headcount, or annual volume figures are published.
 
-The customer base consists primarily of automotive enthusiasts and DIY installers purchasing directly through the e-commerce site. Reviews highlight transactions from international buyers, including a customer in Singapore, indicating the company ships globally.
-
-Extreme Power House emphasizes competitive pricing, backed by a $25 store credit if a lower advertised price is found, and promotes its customer service as a key differentiator. The site also features a BBB A+ rating and maintains active social-media channels on Facebook, Instagram, YouTube, and a blog.
+The company targets automotive aftermarket customers ranging from individual enthusiasts to professional repair and performance shops.
 
 ## Known for
-- Price-match guarantee with $25 store credit for lower prices
-- Loyalty rewards program (1 point per $1 spent)
-- PayPal Credit financing (6 months, no interest)
-- International shipping demonstrated by customer review from Singapore
-- BBB A+ rating
+- Competitive pricing on ECU tunes, intakes, intercoolers, charge pipes, downpipes, and exhaust systems
+- Outstanding customer service
+- One-stop shop for performance parts across BMW, Audi, Ford Mustang, VW, Porsche, and Nissan GT-R platforms
+- Extensive online catalog organized by vehicle model and engine
 
 ## Capabilities
-- E-commerce retail
-- Order fulfillment
-- Price matching
-- Loyalty rewards program
-- Financing via PayPal Credit
-- Customer service
+- Aftermarket performance parts distribution
+- ECU tuning retail
+- Cold air intake systems retail
+- Front mount intercooler retail
+- Charge pipe retail
+- Downpipe retail
+- Axle-back exhaust retail
+- Cat-back exhaust retail
+- Customer support
 
 ## Industries
 - Automotive aftermarket
-- Performance parts
+- Performance automotive parts
+- BMW performance
+- Audi performance
+- Ford Mustang performance
+- Volkswagen performance
+- Porsche performance
+- Nissan GT-R performance
 
 ## Company details
-- **Company Type:** Retailer
+- **Company Type:** Distributor / reseller
 - **Headquarters:** Las Vegas, Nevada
 
 <details><summary>Sources</summary>
 
-- Company name: Extreme Power House -> db
-- Headquarters: Las Vegas, Nevada -> db
-- Business description: aftermarket parts for BMW, Audi, Ford Mustang, VW, Porsche, Nissan GTR -> /
-- Products carried: ECU tunes, air intakes, front mount intercoolers, charge pipes, downpipes, axle back and catback exhausts -> /
-- Brand carried: Active Autowerke -> /
-- Price match guarantee with $25 store credit -> /
-- Loyalty rewards program (1 point per $1) -> /
-- Buy now pay later with PayPal Credit (6 months no interest) -> /
-- Customer testimonials referencing Mike and team -> /
-- International customer review from Singapore -> /
-- BBB rating A+ -> /
-- Social media presence: Facebook, Instagram, YouTube, Blog -> /
-- Business hours: 8AM-5PM Pacific Time -> /
+- Location: Las Vegas, Nevada -> db
+- Product categories: ECU tunes, air intakes, front mount intercoolers, charge pipes, downpipes, axle-back and cat-back exhausts -> db
+- Brands carried: Active Autowerke (mentioned in products) -> db
+- Target vehicle makes: BMW, Audi, Ford Mustang, VW, Porsche, Nissan GTR -> db
+- Business hours: 8am-5pm Pacific Time -> pages:/
+- Phone: 725-221-5267 -> pages:/
+- Catalog structure: extensive navigation by BMW series and models -> pages:/
 </details>
 
 ---
@@ -372,20 +368,20 @@ Extreme Power House emphasizes competitive pricing, backed by a $25 store credit
 **Old description:** FAT ENZO specializes in a variety of garment decoration methods, but Custom Screen Printing is our true expertise. No one in the Northeast—spanning Connecticut, Vermont, Rhode Island, Massachusetts, New York, and New Jersey—delivers the smooth, detailed, and high-quality Screen Printing that sets us apart from the competition. As our Co-Founder, Matthew Piazza, always said:
 
 ## About
-FAT ENZO, Inc. operates from Monroe, Connecticut, where it was founded in January 2009 as a family-owned and operated garment decoration shop. The company was incorporated by four partners: Robert Vincent Piccirillo (CEO), Matthew Anthony Piazza (CCO, deceased 2019), Joan Karen Iannotti (CFO, deceased 2021), and their canine mascot Enzo Piccirillo, who inspired the brand name and logo.
+FAT ENZO, Inc. operates from Monroe, Connecticut, where it was incorporated in January 2009. The business is family‑owned and operated, founded by Robert Vincent Piccirillo (CEO), Matthew Anthony Piazza (CCO, deceased 2019), and Joan Karen Iannotti (CFO, deceased 2021), with their dog Enzo serving as the brand’s namesake and mascot. The venture began as a creative outlet for the founders’ passion for music and design, quickly evolving into a full‑service garment decoration shop.
 
-The shop specializes in custom screen printing, embroidery, and graphic design, handling all decoration in-house on apparel including t-shirts, caps, totes, polos, hoodies, and uniforms. An internal art department provides illustration, logo creation, color separation, vectorization, and digitization, while additional services span copywriting, brand development, online retailing, fulfillment, and drop-shipping.
+The company provides custom screen printing, embroidery, graphic design, illustration, logo creation, color separation, vectorization, and digitization, all performed in‑house at its Monroe facility. It also offers copywriting, brand development, online retailing and fulfillment, tagging, bagging, and rush delivery. Products decorated include t‑shirts, caps, totes, polos, hoodies, and uniforms. No facility square footage or headcount figures are disclosed.
 
-FAT ENZO serves a broad client base across the Northeast (Connecticut, Vermont, Rhode Island, Massachusetts, New York, New Jersey) and Florida, with a focus on three core segments: touring bands and musicians, streetwear and lifestyle brands requiring contract printing and fulfillment, and businesses needing uniforms or promotional wear. The company also works with political campaigns, sports teams, motorcycle clubs, college organizations, religious groups, and non-profits.
+FAT ENZO serves a broad clientele summarized as the “Three B’s”: bands, brands, and businesses. Concrete customer types listed include for‑profit and non‑profit companies, corporations, mom‑and‑pop shops, religious organizations, social clubs, college fraternities and sororities, sports teams (including bowling, darts, and roller derby), motorcycle clubs, and political candidates or PACs. The shop ships throughout the Northeast (CT, VT, RI, MA, NY, NJ) and Florida, with nationwide fulfillment available.
 
-The company emphasizes domestic production under its motto "MADE IN A SWEATSHOP IN THE U.S.A.," stating that no work is outsourced overseas. It positions itself as a creative brigade offering grammatically correct, obsessively detailed artwork and unorthodox marketing, with rush delivery available for time-sensitive orders.
+The company’s stated differentiation rests on its “MADE IN A SWEATSHOP IN THE U.S.A.” motto, emphasizing domestic production, no overseas outsourcing, and a hands‑on, detail‑obsessed creative process. Founders describe the operation as a “patriotic brigade of free thinkers” driven by bold design and unorthodox marketing, aiming to deliver grammatically correct, obsessively detailed artwork for clients who want to make a statement.
 
 ## Known for
-- All production kept in-house in the U.S. with no overseas outsourcing
-- In-house art department handling design, illustration, color separation, and digitization
-- Contract screen printing with tagging, bagging, and nationwide drop-ship fulfillment
-- Rush delivery offered for urgent orders
-- Family-owned operation emphasizing bold, unorthodox creative work
+- All customization performed in‑house in the USA
+- No outsourcing to overseas factories
+- Rush delivery available
+- Free artwork review with enhancement and recreation
+- Contract screen printing with tagging, bagging, and fulfillment services
 
 ## Capabilities
 - Custom screen printing
@@ -400,27 +396,25 @@ The company emphasizes domestic production under its motto "MADE IN A SWEATSHOP 
 - Brand development
 - Online retailing/fulfillment
 - Rush delivery
-- Contract screen printing
-- Garment tagging and bagging
-- Drop-shipping
-- Custom apparel decoration (t-shirts, caps, totes, polos, hoodies, uniforms)
+- Tagging and bagging
+- Product fulfillment
 
 ## Industries
-- Music bands and touring acts
-- Streetwear and lifestyle brands
-- Businesses (uniforms, promotional)
-- Political organizations and campaigns
-- Sports teams (including bowling, darts, roller derby)
-- Motorcycle clubs
-- College fraternities and sororities
+- Music (bands)
+- Apparel brands
+- Business uniforms
+- Political campaigns
+- Non-profit organizations
+- Corporate clients
+- Mom-and-pop shops
 - Religious organizations
 - Social clubs
-- Non-profit organizations
-- Corporations
-- Mom-and-pop shops
+- Fraternities and sororities
+- Sports teams
+- Motorcycle clubs
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 2009
 - **Ownership:** Family-owned
 - **Headquarters:** Monroe, Connecticut
@@ -428,16 +422,18 @@ The company emphasizes domestic production under its motto "MADE IN A SWEATSHOP 
 <details><summary>Sources</summary>
 
 - Founded January 2009 -> /about
-- Family-owned and operated -> /about, /
-- Headquarters at 600 Main Street, Unit D, Monroe, CT 06468 -> /about, /
-- Founders: Robert Vincent Piccirillo (CEO), Matthew Anthony Piazza (CCO), Joan Karen Iannotti (CFO), Enzo Piccirillo (mascot) -> /about
-- Services: custom screen printing, embroidery, graphic design, illustration, logo creation, color separation, vectorization, digitization, copywriting, brand development, online retailing/fulfillment, rush delivery -> /services, /about
-- Products: t-shirts, caps, totes, polos, hoodies, uniforms -> /about, /
-- Industries served: bands, brands, businesses, political organizations, sports teams, motorcycle clubs, college fraternities/sororities, religious groups, social clubs, non-profits, corporations, mom-and-pop shops -> /about
-- Motto: MADE IN A SWEATSHOP IN THE U.S.A. -> /about, /
+- Family-owned and operated -> /about
+- Headquarters: Monroe, Connecticut -> /about
+- Founders: Robert Vincent Piccirillo, Matthew Anthony Piazza, Joan Karen Iannotti -> /about
+- Services: screen printing, embroidery, graphic design, illustration, logo creation, color separation, vectorization, digitization, copywriting, brand development, online retailing/fulfillment, rush delivery -> /services
+- Products: t-shirts, caps, totes, polos, hoodies, uniforms -> /about
+- Industries served: bands, brands, businesses, political organizations, companies, corporations, mom & pop shops, religious groups, social clubs, fraternities, sports teams, motorcycle clubs -> /about
+- Motto: MADE IN A SWEATSHOP IN THE U.S.A. -> /about
 - No overseas outsourcing -> /services
-- Contract screen printing with tagging, bagging, drop-ship fulfillment -> /services, /about
-- Serves Northeast (CT, VT, RI, MA, NY, NJ) and Florida -> /about, /
+- Free artwork review and enhancement -> /services
+- Contract printing with tagging, bagging, fulfillment -> /services
+- Address: 600 Main Street, Unit D, Monroe, CT 06468 -> /about
+- Website: http://fatenzo.com/ -> db
 </details>
 
 ---
@@ -447,44 +443,43 @@ The company emphasizes domestic production under its motto "MADE IN A SWEATSHOP 
 **Old description:** manufactures and fabricates precision thermoplastic, medical tubing providing a diverse customer base with disposable medical products. We have built our business by delivering innovative solutions and
 
 ## About
-FBK Medical Tubing, Inc. was founded in 1981 in Georgetown, Delaware. The company operates as part of D&B Industrial Group, though the founding individuals are not named in public materials. From its start, the business focused on precision thermoplastic extrusion for medical applications.
+FBK Medical Tubing, Inc. was founded in 1981 in Georgetown, Delaware. The company operates as a contract manufacturer specializing in precision thermoplastic medical tubing.
 
-The company extrudes a range of medical tubing configurations including multi-lumen, single lumen, profile, colored, and co-extruded multi-layer profiles. Beyond extrusion, FBK provides extensive post-extrusion finishing services such as tip and radius forming, cut and flare, thermoforming, punch and skive, printing and imaging, balloon installation, tipping and sealing, and support beading. These capabilities allow the firm to deliver sub-assemblies or finished components from a single source. Materials processed include various thermoplastics and polyurethane.
+The company extrudes a range of tubing configurations including multi-lumen, single-lumen, profile, colored, and co-extruded multi-layer products from various thermoplastics, notably polyurethane. Beyond extrusion, FBK provides post-extrusion finishing services such as tipping and radius forming, cut and flare, thermoforming, punching and skiving, printing and imaging, balloon installation, and support beading, enabling single-source subassembly delivery. The firm also runs a product development team for prototyping and complex multi-lumen profile design.
 
-FBK serves the medical device industry, supplying disposable medical products to a diverse customer base. Its product development team works with clients on prototype evaluation and complex multi-lumen profile design, though specific customer names are not disclosed.
+FBK serves the medical device sector, supplying disposable medical tubing and components to a diverse customer base. Its capabilities are tailored for applications requiring intricate lumen geometries and tight tolerances typical of catheter and delivery-system manufacturing.
 
-The company states its operating rule is to ship high-quality products on time and within budget. It emphasizes its particular adeptness at designing and producing complex multi-lumen profiles and offers a dedicated product development team for prototype evaluation.
+The company states its operating principle is to ship high-quality products on time and within budget, backed by a dedicated professional staff and a focus on innovative solutions for difficult product development challenges.
 
 ## Known for
-- Ship high-quality products on time and within budget
-- Adept at designing and producing complex multi-lumen profiles
-- Extensive post-extrusion finishing services for single-source sub-assemblies
-- Product development team for prototype evaluation
+- Ships high-quality products on time and within budget
+- Offers extensive post-extrusion finishing for single-source subassemblies
+- Specializes in complex multi-lumen profile design and prototyping
+- Provides dedicated customer service from an experienced professional staff
 
 ## Capabilities
-- Multi-lumen extrusion
-- Single lumen extrusion
-- Profile tubing extrusion
-- Colored tubing extrusion
-- Co-extrusion (multi-layer)
-- Tip and radius forming
-- Cut and flare
+- Multi-Lumen Extrusion
+- Single-Lumen Extrusion
+- Profile Tubing Extrusion
+- Colored Tubing Extrusion
+- Co-extrusion (Multi-layer)
+- Tip and Radius Forming
+- Cut and Flare
 - Thermoforming
-- Punch and skive
-- Printing and imaging
-- Balloon installation
+- Punch and Skive
+- Print and Image
+- Balloon Installation
 - Prototyping
-- Tipping and sealing
-- Support beading
+- Tipping and Sealing
+- Support Beading
 
 ## Industries
-- Medical devices
-- Disposable medical products
+- Medical Devices
+- Disposable Medical Products
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1981
-- **Ownership:** D&B Industrial Group
 - **Headquarters:** Georgetown, Delaware
 
 <details><summary>Sources</summary>
@@ -492,12 +487,10 @@ The company states its operating rule is to ship high-quality products on time a
 - Founded in 1981 -> /
 - Headquarters in Georgetown, Delaware -> /
 - Manufactures precision thermoplastic medical tubing -> /
-- Offers multi-lumen, single lumen, profile, colored, co-extrusion processes -> /
-- Provides post-extrusion finishing: tip and radius, cut and flare, thermoform, punch and skive, print/image, balloon installation, tipping and sealing, support beading -> /
-- Materials: thermoplastics, polyurethane -> /
-- Serves medical device industry, disposable medical products -> /
-- Product development team for prototypes and complex multi-lumen profiles -> /
-- Operating rule: ship high-quality products on time and within budget -> /
+- Extrusion processes: Multi-Lumen, Single Lumen, Profile, Colored, Co-extrusion -> /
+- Post-extrusion finishing: Tip and Radius, Cut and Flare, Thermoform, Punch and Skive, Print/Image, Balloon Installation, Prototypes, Tipping & Sealing, Support Beading -> /
+- Serves medical device industry with disposable medical products -> /
+- Operating principle: ship high-quality products on time and within budget -> /
 - Part of D&B Industrial Group (copyright) -> /
 </details>
 
@@ -508,43 +501,46 @@ The company states its operating rule is to ship high-quality products on time a
 **Old description:** Customer satisfaction is the foundation of our business. We take pride in completing projects safely, on schedule, and with exceptional attention to detail. Whether you need custom fabrication, welding repairs, or structural steel work, FM Welding Fabrication LLC is your trusted partner for quality workmanship and lasting results.
 
 ## About
-FM Welding Fabrication LLC operates from Ellicott City, Maryland, offering mobile welding and custom metal fabrication services. The company identifies as a licensed and insured certified welder/fabricator, though its founding year and ownership details are not publicly disclosed.
+FM Welding Fabrication LLC operates from Ellicott City, Maryland. The company does not publicly disclose its founding year or ownership structure.
 
-The shop specializes in mobile welding, custom metal fabrication, structural welding, repairs, equipment modifications, and on-site welding. Its technicians perform TIG, MIG, stick, and flux-core welding on aluminum, stainless steel, mild steel, and galvanized steel. No facility size, headcount, or production volumes are published.
+The shop provides mobile welding and custom metal fabrication services, including structural welding, repairs, equipment modifications, and on-site work. Its welders are qualified in TIG, MIG, stick, and flux-core processes across aluminum, stainless steel, mild steel, and galvanized steel, with a noted focus on aluminum and stainless steel fabrication and repair. No facility size, headcount, or production volumes are published.
 
-Clients span residential, commercial, and industrial sectors, with mobile services dispatched to boats, industrial plants, facilities, government buildings, construction sites, trucks and trailers, and restaurants. A testimonial cites the repair of an iron deck table for a residential customer.
+Customers span residential, commercial, and industrial sectors. The company lists mobile service for boats, industrial plants and government buildings, construction sites, trucks and trailers, and restaurants. Both businesses and individuals are served, with testimonials referencing residential deck furniture repair.
 
-The company states its mission is to deliver exceptional service and high-quality results while keeping prices affordable, and its vision is to bring a fresh, lasting impact to the metal industry with durable, innovative solutions. Customer satisfaction is described as the foundation of the business.
+The firm states its mission is to deliver exceptional service and high-quality results at affordable prices, with a vision to bring durable, innovative solutions to the metal industry. Customer satisfaction is cited as the foundation of the business, and the company aims to exceed expectations on every project.
 
 ## Known for
-- Mobile welding services for on-site repairs and fabrication
-- Licensed and insured certified welder/fabricator
-- Specializes in aluminum and stainless steel welding
-- Offers TIG, MIG, stick, and flux-core welding processes
-- Serves residential, commercial, industrial, and government clients
+- Mobile on-site welding services
+- Licensed and insured operations
+- Certified welder/fabricator personnel
+- Specialization in aluminum and stainless steel welding
+- Free quotes for custom fabrication
 
 ## Capabilities
-- Mobile welding
+- Mobile welding services
 - Custom metal fabrication
 - Structural welding
-- Welding repair
-- Equipment modification
-- On-site welding
+- Welding repairs
+- Equipment modifications
+- On-site welding services
 - TIG welding
 - MIG welding
 - Stick welding
 - Flux-core welding
+- Aluminum welding
+- Stainless steel welding
+- Mild steel welding
+- Galvanized steel welding
 
 ## Industries
 - Residential
 - Commercial
 - Industrial
-- Marine (boats)
-- Industrial plants
-- Facilities
+- Marine
+- Industrial plants and facilities
 - Government buildings
 - Construction
-- Transportation (trucks/trailers)
+- Transportation
 - Restaurants
 
 ## Company details
@@ -554,14 +550,13 @@ The company states its mission is to deliver exceptional service and high-qualit
 <details><summary>Sources</summary>
 
 - Location: Ellicott City, Maryland -> db
-- Services: mobile welding, custom fabrication, structural welding, repairs, equipment modifications, on-site welding -> /
+- Services: mobile welding, custom metal fabrication, structural welding, repairs, equipment modifications, on-site welding -> /
 - Processes: TIG, MIG, stick, flux-core welding -> /
 - Materials: aluminum, stainless steel, mild steel, galvanized steel -> /
-- Industries served: residential, commercial, industrial, boats, plants, facilities, government buildings, construction, trucks/trailers, restaurants -> /
+- Customer sectors: residential, commercial, industrial -> /
+- Mobile service markets: boats, plants/facilities/government buildings, construction, trucks/trailers, restaurants -> /
+- Mission and vision statements -> /
 - Licensed and insured, certified welder/fabricator -> /
-- Mission: deliver exceptional service and high-quality results while keeping prices affordable -> /
-- Vision: bring fresh lasting impact to metal industry with durable innovative solutions -> /
-- Testimonial: repair of iron deck table for residential customer -> /
 </details>
 
 ---
@@ -571,47 +566,49 @@ The company states its mission is to deliver exceptional service and high-qualit
 **Old description:** Robots are used to weld subcomponents together into finished pieces.
 
 ## About
-Fukai Toyotetsu Indiana Corporation (FTIC) operates from Jamestown, Indiana, where it began production in 2016 as a Japanese-owned tier one automotive supplier. The facility was established to support Subaru of Indiana Automotive (SIA) with locally produced structural components.
+Fukai Toyotetsu Indiana Corporation (FTIC) operates from Jamestown, Indiana, where it began production in 2016 as a Japanese-owned tier one automotive supplier. The company was established as a subsidiary of Fukai Toyotetsu to support Subaru of Indiana Automotive (SIA) with metal-stamped and robotically welded frame components.
 
-The company’s core operations center on metal stamping and robotic welding, producing internal frame components for several Subaru vehicle lines. In-house departments handle stamping of blank metal sheets, robotic welding of subassemblies, material conveyance across the plant, and preventative maintenance with prompt repair services to keep equipment running.
+Its manufacturing core comprises metal stamping, robotic welding, material conveyance, and preventive maintenance departments. Stamping presses form blanks into shaped parts, while robots weld subcomponents into finished frame assemblies for Subaru models. The facility also runs internal conveyance systems to move parts between operations and a maintenance team that handles preventative upkeep and repairs.
 
-FTIC serves the automotive industry exclusively as a dedicated supplier to Subaru of Indiana Automotive. Its parts feed directly into the assembly of popular Subaru models, positioning the company as a critical link in the automaker’s North American supply chain.
+FTIC serves the automotive sector exclusively, with Subaru of Indiana Automotive as its named customer. The parts produced become internal structural components for several of Subaru’s high-volume vehicle lines.
 
-The company emphasizes continuous expansion since its 2016 launch, integrating stamping, welding, conveyance, and maintenance under one roof to maintain control over quality and delivery for its sole OEM customer.
+The company emphasizes manufacturing quality as a tier one supplier, maintaining continuous expansion since its 2016 launch to meet Subaru’s production demands.
 
 ## Known for
-- Tier one supplier to Subaru of Indiana Automotive
-- Integrated stamping, welding, conveyance, and maintenance departments
-- Domestic production of internal frame components for Subaru vehicles
+- Tier one automotive supplier to Subaru of Indiana Automotive
+- Integrated metal stamping and robotic welding for frame components
+- On-site conveyance and preventive maintenance departments
+- Japanese-owned subsidiary of Fukai Toyotetsu
 
 ## Capabilities
 - Metal stamping
 - Robotic welding
-- Material handling / conveyance
-- Preventative maintenance
-- Equipment repair
-- Inspection
-- Worn parts replacement
+- Material handling/conveyance
+- Preventive maintenance
 
 ## Industries
 - Automotive
 
+## Equipment
+- Stamping presses
+- Welding robots
+- Conveyance equipment
+
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 2016
-- **Ownership:** Japanese-owned subsidiary
+- **Ownership:** Japanese-owned (subsidiary of Fukai Toyotetsu)
 - **Headquarters:** Jamestown, Indiana
 
 <details><summary>Sources</summary>
 
-- Company name Fukai Toyotetsu Indiana Corporation (FTIC) -> /
-- Headquarters Jamestown, Indiana -> /
-- Founded 2016 -> /
-- Ownership Japanese tier one automotive supplier -> /
-- Customer Subaru of Indiana Automotive (SIA) -> /
-- Processes metal stamping, robotic welding, conveyance, maintenance -> /
-- Products internal frame components for Subaru vehicles -> /
-- Industry automotive -> /
+- Founded 2016 -> db
+- Headquarters Jamestown, Indiana -> db
+- Japanese tier one supplier to Subaru of Indiana Automotive -> /
+- Metal stamping and robotic welding processes -> /
+- Departments: stamping, welding, conveyance, maintenance -> /
+- Produces internal frame components for Subaru vehicles -> /
+- Subsidiary of Fukai Toyotetsu -> /
 </details>
 
 ---

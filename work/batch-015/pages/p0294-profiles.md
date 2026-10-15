@@ -3,19 +3,19 @@
 **Old description:** BD Welding is a locally owned metal fabrication shop, proudly serving the capital region of New Hampshire and surrounding towns. With over 50 years of combined experience we are here to serve you with any of your welding and fabrication needs.
 
 ## About
-B.D. Welding & Fabrication operates from Boscawen, New Hampshire. The shop is locally owned and draws on over 50 years of combined experience in welding and fabrication. No founding year or founders are disclosed in the available information.
+B.D. Welding & Fabrication operates from Boscawen, New Hampshire, as a locally owned metal fabrication shop serving the state's capital region and surrounding communities. The business does not disclose a founding year or founder names, but notes over 50 years of combined experience among its team.
 
-The company provides design, fabrication, and installation services under one roof. Its capabilities include CNC plasma cutting on a 5‑by‑10‑foot table for mild steel, stainless steel, and aluminum sheet and plate up to 1/2 inch thick, alongside a wide array of standard fabrication equipment. Facility size, headcount, and production volumes are not published.
+The shop provides design, fabrication, and installation services under one roof, offering a wide array of equipment beyond standard fabrication tools. Its capabilities include CNC plasma cutting on a 5‑by‑10‑foot table for mild steel, stainless steel, and aluminum sheet and plate up to one‑half inch thick. No facility size, headcount, or production volumes are published.
 
-The shop serves customers throughout the capital region of New Hampshire and surrounding towns, offering a range of welding and fabrication services for local projects. Specific industries or client names are not listed in the available information.
+The company serves customers throughout the capital region of New Hampshire, though specific industries or client types are not listed in its public materials.
 
-The business emphasizes its “Design, Fabrication, and Installation all in one place” model as a key differentiator, aiming to streamline projects from concept to completion. The company states it has the equipment and experience to “get the job done and get it done right.”
+The firm emphasizes its ability to handle design, fabrication, and installation in a single location, backed by a broad equipment base and experience to complete jobs correctly.
 
 ## Known for
-- Design, fabrication, and installation all in one place
-- CNC plasma cutting on 5' x 10' table for mild steel, stainless steel, and aluminum up to 1/2" thick
-- Over 50 years of combined experience
-- Locally owned, serving the capital region of New Hampshire
+- Design, fabrication, and installation in one location
+- CNC plasma cutting on 5' x 10' table
+- Over 50 years of combined team experience
+- Locally owned and operated
 
 ## Capabilities
 - Design
@@ -23,7 +23,6 @@ The business emphasizes its “Design, Fabrication, and Installation all in one 
 - Installation
 - CNC plasma cutting
 - Welding
-- Metal fabrication
 
 ## Equipment
 - CNC plasma cutting table (5' x 10')
@@ -35,14 +34,14 @@ The business emphasizes its “Design, Fabrication, and Installation all in one 
 
 <details><summary>Sources</summary>
 
-- Company name -> db
+- Company name: B.D. Welding & Fabrication -> db
 - Location: Boscawen, New Hampshire -> db
-- Locally owned metal fabrication shop -> /
-- Over 50 years of combined experience -> /
-- Design, Fabrication, and Installation all in one place -> /
-- CNC plasma cutting on 5' x 10' table for mild steel, stainless steel, aluminum up to 1/2" thick -> /
-- Serves capital region of New Hampshire and surrounding towns -> /
-- Website -> db
+- Business type: locally owned metal fabrication shop -> /
+- Experience: over 50 years combined experience -> /
+- Service area: capital region of New Hampshire and surrounding towns -> /
+- Capabilities: Design, Fabrication, and Installation all in one place -> /
+- Equipment: CNC Plasma cutting on 5' x 10' table -> /
+- Materials: mild steel, stainless steel, aluminum up to 1/2" thick -> /
 </details>
 
 ---
@@ -52,33 +51,32 @@ The business emphasizes its “Design, Fabrication, and Installation all in one 
 **Old description:** At BES Concession Supply, we offer high-quality concession equipment and supplies to make every event a success. Explore our products today and let us help you bring the fun to your next event!
 
 ## About
-BES Concession Supply, operating as BES Incorporated, was founded in 2002 in Windfall, Indiana, as a family-owned business serving the concession-stand market. The company has remained a community staple for over two decades, and in 2022 the next generation assumed leadership, continuing the original mission while introducing new ideas.
+BES Concession Supply operates from Windfall, Indiana, where it was established in 2002 as a family-owned business. The company began as a local source for concession stand equipment and supplies, and in 2022 the second generation of the family assumed leadership, continuing the original focus on community-oriented service.
 
-The company does not manufacture equipment but acts as a one-stop distributor and service provider for concession operations. Its product lineup includes hot dog machines, slushy machines, snow cone machines, nacho cheese and meat dispensers, and popcorn machines, available for purchase or rental. In addition to hardware, BES stocks a full range of consumables such as nacho supplies, popcorn essentials, frozen foods, candy, slushy syrups, and snow cone flavorings. The business also offers equipment service and repair to keep stands running.
+The company distributes a range of concession equipment, including hot dog machines, slushy machines, snow cone machines, nacho cheese and meat dispensers, and popcorn machines. Customers can purchase, rent, or have equipment serviced. In addition to hardware, BES supplies consumables such as nacho toppings, popcorn kernels and oil, frozen foods, candy, slushy syrups, and snow cone flavorings.
 
-The company highlights its support for local school sports teams, providing equipment and supplies for Friday night football games and weekend tournaments. Its personalized approach aims to match each event’s unique needs, from small fundraisers to larger festivals.
+Its customer base spans school athletic programs, booster clubs, fair operators, and other event organizers that run concession stands. The company highlights its work with local high school football games and weekend tournaments as examples of the events it helps equip.
 
-BES emphasizes exceptional customer service and a passion for bringing joy to events of all sizes as its core differentiators. The team positions itself as a partner that delivers tailored solutions rather than simply selling products, a philosophy rooted in its family-owned heritage and community focus.
+BES emphasizes personalized service and a commitment to helping each event succeed, positioning itself as a single-source partner for both equipment and ongoing supply needs. The family ownership model is cited as a foundation for its community-first approach.
 
 ## Known for
-- Exceptional customer service
+- Family-owned with second-generation leadership since 2022
+- Purchase, rental, and service options for concession equipment
+- Full line of concession consumables and supplies
+- Community-focused support for school sports and booster clubs
 - Personalized solutions for each event
-- Support for local school sports teams and booster clubs
-- One-stop shop for concession equipment, supplies, rental, and service
-- Family-owned with second-generation leadership
 
 ## Capabilities
 - Concession equipment sales
-- Concession equipment rental
+- Equipment rental
 - Equipment service and repair
 - Concession supplies distribution
 
 ## Industries
-- K-12 schools
-- Sports teams
-- Booster clubs
-- Event organizers
-- Community events
+- Concession stands
+- Event catering
+- School athletics
+- Food service
 
 ## Equipment
 - Hot dog machines
@@ -96,16 +94,14 @@ BES emphasizes exceptional customer service and a passion for bringing joy to ev
 
 <details><summary>Sources</summary>
 
-- Founded in 2002 -> db
+- Founded in 2002 -> /about
 - Family-owned business -> /about
-- Located in Windfall, Indiana -> db
-- Next generation took over in 2022 -> /about
-- Offers hot dog machines, slushy machines, snow cone machines, nacho cheese and meat dispensers, popcorn machines -> /about
-- Offers concession supplies: nacho supplies, popcorn essentials, frozen foods, candy, slushy supplies, snow cone flavorings -> /about
-- Provides equipment rental and service -> /about
-- Serves local school sports teams and booster clubs -> /about
-- Commitment to exceptional customer service -> /about
-- Personalized solutions for each event -> /about
+- Headquarters in Windfall, Indiana -> db
+- Offers equipment purchase, rental, service -> /about
+- Supplies concession consumables (nacho toppings, popcorn, frozen foods, candy, slushy syrups, snow cone flavorings) -> /about
+- Supports local school sports teams and booster clubs -> /about
+- Second generation took over in 2022 -> /about
+- Product lines: hot dog machines, slushy machines, snow cone machines, nacho cheese/meat dispensers, popcorn machines -> /about
 </details>
 
 ---
@@ -115,45 +111,45 @@ BES emphasizes exceptional customer service and a passion for bringing joy to ev
 **Old description:** BG is a top maintenance supplier that is sold exclusively through a worldwide network of distributors since 1971.
 
 ## About
-BG Southern Nevada operates from North Las Vegas, Nevada, as part of a distribution network established in 1971 when seven entrepreneurs—six World War II veterans (John Thompson, Sam Parks, Don Walton, O.J. Connell, Q.T. Williams, Don Broadbent) and land-speed record holder Roy Leslie—founded BG Products, Inc.
+BG Southern Nevada, headquartered in North Las Vegas, Nevada, operates as a distributor for BG Products, Inc., a company founded in 1971 in Wichita, Kansas, by seven World War II veterans—John Thompson, Sam Parks, Don Walton, O.J. Connell, Q.T. Williams, Don Broadbent—and land-speed record holder Roy Leslie. The founders pooled their automotive industry experience to create a supplier of premium maintenance products sold through independent distributors.
 
-The firm supplies professional-use automotive maintenance products—fuel system cleaners, transmission fluids, brake and power-steering treatments, and emissions-service chemicals—to dealerships, independent repair shops, and franchisees. It also provides the equipment, tools, and training programs (BG University, founded 1999; BG Certified Service Advisor Training, launched 2011) that enable those shops to perform a menu of services including gasoline and diesel fuel induction, engine decarbonizing, cooling-system flushes, transmission exchanges, driveline service, brake fluid replacement, climate-control cleaning, battery maintenance, and headlight restoration. More than 40,000 shops and technicians use BG products each business day.
+BG Southern Nevada distributes BG Products' automotive maintenance chemicals, equipment, and tools to dealerships, independent repair shops, and franchisees. The parent company manufactures in El Dorado, Kansas, with a research and development laboratory and proprietary processes. BG Southern Nevada also provides training programs for service advisors and technicians, including BG Certified Service Advisor Training and BG University, founded in 1999. BG Products serves more than 40,000 shops, dealerships, and technicians each business day.
 
-Customers span the automotive aftermarket: new-car dealerships, independent service centers, and franchise operators across the U.S. and internationally through the distributor network. The company's Lifetime BG Protection Plan backs a complete maintenance schedule for consumer vehicles, and its products are manufactured in El Dorado, Kansas, before worldwide distribution.
+The company serves the automotive aftermarket, including new-car dealerships, independent repair shops, franchise service centers, and fleet operators. Its service portfolio covers gasoline and diesel fuel systems, engines, transmissions, brakes, power steering, cooling, battery, driveline, and climate control systems.
 
-The founders' original vision was to build a company on superior-quality automotive products sold through a close-knit, independent distributor network—a model that remains unique in the industry. BG emphasizes education and certification to ensure consistent service quality, positioning itself as a global leader in transportation maintenance services.
+BG Products differentiates itself through its exclusive distributor network, the Lifetime BG Protection Plan for consumers, and a focus on education and certification for service personnel. The company states its mission is to be the recognized global leader in transportation maintenance services.
 
 ## Known for
-- Exclusive independent distributor network since 1971
-- Lifetime BG Protection Plan covering full maintenance schedule
-- BG Certified training for service advisors and technicians
-- Proprietary manufacturing processes with in-house R&D laboratory
-- Over 40,000 shops and dealerships served daily
+- Exclusive worldwide distributor network since 1971
+- Lifetime BG Protection Plan for consumers
+- BG Certified service advisor and technician training programs
+- BG University founded in 1999 for continuing education
+- Products used by over 40,000 shops and dealerships daily
 
 ## Capabilities
-- Gasoline fuel system cleaning
-- Diesel fuel system cleaning
-- Diesel emissions system service
-- Engine decarbonizing
-- Cooling system flush and service
-- Transmission fluid exchange
+- Gasoline fuel system service
+- Engine service
+- Cooling system service
+- Transmission service
 - Drive line service
-- Brake fluid replacement
-- Power steering fluid service
-- Climate control system cleaning
-- Battery testing and maintenance
-- Ethanol fuel system protection
-- Headlight restoration (BG Quick Cure)
-- Fuel induction service (BG 44K)
-- GDI fuel/air induction service
-- Platinum fuel system service
+- Vehicle sanitizing
+- Power steering service
+- Brake service
+- Climate control service
+- Battery service
+- Ethanol fuel system defender
+- Diesel fuel service
+- Diesel emissions service
+- Headlight restoration
+- BG Certified service advisor training
+- BG University training
 
 ## Industries
 - Automotive aftermarket
 - Transportation maintenance
-- New car dealerships
-- Independent repair shops
-- Franchise service centers
+- Dealership service
+- Independent repair
+- Fleet maintenance
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -162,20 +158,14 @@ The founders' original vision was to build a company on superior-quality automot
 
 <details><summary>Sources</summary>
 
-- Company name and website -> db
-- Founded 1971 -> db, /about
+- Founded 1971 by seven veterans and Roy Leslie -> /about
 - Headquarters North Las Vegas, Nevada -> db
-- Description: worldwide distributor network since 1971 -> /
-- Founders: six veterans and Roy Leslie formed BG Products, Inc. in 1971 -> /about
-- First products Engine Tune-Up and RF-7 -> /about
-- Acquired Wichita facility in 1980s, manufacture own products -> /about
-- BG University founded 1999, BG Certified Service Advisor Training 2011 -> /about
-- More than 40,000 shops/dealerships/technicians use products daily -> /about
-- Products manufactured in El Dorado, Kansas, distributed worldwide -> /about
-- Services list: gasoline fuel, diesel fuel, diesel emissions, engine, cooling, transmission, drive line, vehicle sanitizing, power steering, brakes, climate control, battery, ethanol fuel system defender, headlight restoration -> /services
-- Lifetime BG Protection Plan -> /, /about
-- Mission: global leader in transportation maintenance services -> /about
-- Vision: partnership with distributors, highest quality products worldwide -> /about
+- Distributes BG Products automotive maintenance chemicals, equipment, tools -> /about
+- Parent company manufactures in El Dorado, Kansas with R&D lab -> /about
+- Provides BG Certified Service Advisor Training and BG University (founded 1999) -> /about
+- Serves over 40,000 shops, dealerships, technicians daily -> /about
+- Services include gasoline/diesel fuel, engine, transmission, brake, power steering, cooling, battery, driveline, climate control -> /services
+- Exclusive distributor network, Lifetime BG Protection Plan -> /about, /
 </details>
 
 ---
@@ -185,34 +175,44 @@ The founders' original vision was to build a company on superior-quality automot
 **Old description:** improves the function and aesthetics of public spaces since 1980.
 
 ## About
-BGD Companies, Inc. was founded in 1980 in Minneapolis, Minnesota, as a family-owned and operated custom commercial furniture designer and manufacturer. The company began with a focus on improving the function and aesthetics of public spaces, delivering tailored furniture solutions for gathering places.
+BGD Companies, Inc. was founded in 1980 in Minneapolis, Minnesota, as a family-owned and operated custom commercial furniture designer and manufacturer. The company has served clients coast-to-coast for over four decades.
 
-The firm designs, manufactures, delivers, and installs a full range of custom commercial furniture, including booths and banquettes, lounge seating, chairs and barstools, millwork and cabinetry, table tops and bases, mall furnishings, outdoor seating, and senior living chairs. Operating as a total solution provider, BGD manages projects from ideation and construction through to final installation, though facility size and headcount are not disclosed.
+The firm designs and manufactures a range of custom furniture for public spaces, including booths and banquettes, lounge seating, chairs and barstools, millwork and cabinetry, table tops and bases, mall furnishings, outdoor seating, and senior living chairs. It manages projects from initial design and pricing through manufacturing, shipping, and installation, offering a total custom furniture solution.
 
-BGD serves clients across the United States, with installations in malls, restaurants, casinos, country clubs, senior living facilities, and other public venues where people gather for recreation, business, and health. The company’s portfolio spans hospitality, healthcare, retail, and entertainment sectors.
+BGD serves industries such as malls, restaurants, casinos, country clubs, and senior living facilities, providing both commercial and residential products. Its clientele spans the United States, with projects in recreation, business, and health environments.
 
-As a family-owned business with over four decades of experience, BGD emphasizes intimate involvement in every project—from initial design and pricing to manufacturing, shipping, and installation—to guarantee that each piece meets the client’s quality, aesthetic, and timeline expectations. The company positions custom design as its standard, applying high standards of craftsmanship to every order.
+The company emphasizes a hand-crafted aesthetic, superior value, and service rooted in its family-owned tradition, positioning custom design as standard rather than an exception.
 
 ## Known for
 - Family-owned and operated since 1980
-- Full-service from design through installation
-- Custom design as standard on every project
+- Custom design treated as standard on every project
+- End-to-end service from design through installation
+- Hand-crafted aesthetic with commercial durability
 - Coast-to-coast project execution
-- Over 40 years of commercial furniture experience
 
 ## Capabilities
 - Custom furniture design
 - Commercial furniture manufacturing
 - Millwork and cabinetry
-- Delivery and installation
-- Project management
+- Booth and banquette fabrication
+- Lounge seating production
+- Chair and barstool manufacturing
+- Table top and base fabrication
+- Mall furnishing production
+- Outdoor seating manufacturing
+- Senior living furniture production
+- Installation services
+- Project management (design to installation)
 
 ## Industries
 - Malls
 - Restaurants
 - Casinos
-- Country Clubs
-- Senior Living Facilities
+- Country clubs
+- Senior living
+- Public spaces
+- Commercial
+- Residential
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -223,14 +223,14 @@ As a family-owned business with over four decades of experience, BGD emphasizes 
 <details><summary>Sources</summary>
 
 - Founded 1980 -> db
-- Family-owned -> /
-- Headquarters Minneapolis, Minnesota -> /
+- Headquarters Minneapolis, Minnesota -> db
+- Family-owned and operated -> /
 - Custom commercial furniture designer and manufacturer -> /
-- Product categories (booths, banquettes, lounge seating, chairs, barstools, millwork, cabinetry, table tops, bases, mall furnishings, outdoor seating, senior living chairs) -> /
-- Full-service from ideation to installation -> /
-- Serves clients coast-to-coast -> /
-- Industries served: Malls, Restaurants, Casinos, Country Clubs, Senior Living -> /about-us
-- Over 40 years experience -> / and /about-us
+- Products: booths & banquettes, lounge seating, chairs and barstools, millwork & cabinetry, table tops & bases, mall furnishings, outdoor seating, senior living chairs -> /
+- Services: design, pricing, manufacturing, shipping, installation -> /
+- Industries served: malls, restaurants, casinos, country clubs, senior living -> /about-us
+- Over 40 years experience -> /
+- Hand-crafted look, superior value and service -> /about-us
 </details>
 
 ---
@@ -240,32 +240,35 @@ As a family-owned business with over four decades of experience, BGD emphasizes 
 **Old description:** Since 1995, BK Electric has strived to deliver the best service, workmanship, and value in outsourced electronics design engineering and manufacturing.
 
 ## About
-BK Electric is based in Bailey, Colorado, and was founded in 1995. The company provides outsourced electronics design engineering and manufacturing services.
+BK Electric is based in Bailey, Colorado, and was founded in 1995. The company provides outsourced electronics design engineering and manufacturing services. Ownership details and founder names are not publicly disclosed.
 
-The company offers custom electronic circuit engineering, electronic manufacturing and assembly, conformal coating, and turnkey electronics engineering and manufacturing. Specific processes include printed circuit board assembly, final assembly and packaging, EPROM/PROM/FLASH/PLD/MCU bulk programming, epoxy encapsulation and potting, laboratory testing and design verification, and pre-testing for regulatory compliance. They operate an in-house bulk programming capability and a vacuum depressurization chamber for coating and encapsulation. For higher volumes, they partner with local and off-shore board assembly firms.
+The company offers custom electronic circuit engineering, electronic manufacturing and assembly, printed circuit board assembly, final assembly, packaging, device bulk programming (EPROM, PROM, FLASH, PLD, MCU), epoxy encapsulation and potting, and conformal coating. It operates a vacuum depressurization chamber to minimize voids in casting and maintains in-house bulk programming capabilities. For higher production volumes, BK Electric partners with local and offshore board assembly houses. The firm is a UL-recognized component manufacturer.
 
-BK Electric serves customers requiring electronics design and production, from initial concept to finished documentation. The company does not list specific industry sectors in its public materials.
+BK Electric serves customers requiring outsourced electronics design and manufacturing, from initial concept through finished documentation and production. Its clients include companies seeking to avoid the overhead of hiring full-time design engineers, though specific industries or named customers are not disclosed.
 
-BK Electric emphasizes a direct, structured approach to product development, tailoring services to individual customer requirements to minimize cost overhead. The company highlights its UL recognition as a component manufacturer and its use of UL-rated electronic-grade conformal coatings as differentiators.
+The company emphasizes a direct, structured approach to product development, tailoring services to individual requirements to minimize cost overhead. It highlights in-house bulk programming and vacuum depressurization as factors that reduce lead times and improve quality.
 
 ## Known for
-- In-house bulk programming capability reduces lead time and cost
-- Vacuum depressurization chamber minimizes surface bubbling and voids in coatings and encapsulation
+- Direct, structured approach to product development
+- In-house bulk programming reducing lead time and cost
+- Vacuum depressurization chamber minimizing surface bubbling and voids
 - UL-recognized component manufacturer
-- UL-rated electronic-grade conformal coatings
-- Turnkey electronics engineering and manufacturing from concept to production
+- Partnerships with local and offshore assembly houses for volume scaling
 
 ## Capabilities
 - Custom electronic circuit engineering
 - Electronic manufacturing and assembly
 - Printed circuit board assembly
-- Final assembly and packaging
-- EPROM/PROM/FLASH/PLD/MCU bulk programming
+- Final assembly
+- Packaging
+- EPROM/PROM/FLASH/PLD/MCU device bulk programming
 - Epoxy encapsulation and potting
 - Conformal coating
-- Laboratory testing and design verification
-- Pre-testing for regulatory compliance
+- Complete laboratory testing and design verification
+- Pre-testing for compliance to regulatory standards
 - Turnkey electronics engineering and manufacturing
+- In-house bulk programming
+- Vacuum depressurization casting
 
 ## Equipment
 - Vacuum depressurization chamber
@@ -280,18 +283,21 @@ BK Electric emphasizes a direct, structured approach to product development, tai
 
 <details><summary>Sources</summary>
 
-- Founded 1995 -> db
-- Headquarters: Bailey, Colorado -> db
-- Certifications: RoHS -> db
-- Services: Custom electronic circuit engineering, electronic manufacturing and assembly, conformal coating, turnkey electronics engineering and manufacturing -> db
-- Processes: PCB assembly, final assembly, packaging, bulk programming, epoxy encapsulation, conformal coating, laboratory testing, pre-testing for compliance -> page "/"
-- Equipment: Vacuum depressurization chamber -> page "/"
-- UL-recognized component manufacturer -> page "/"
-- UL-rated electronic-grade coatings -> page "/"
-- In-house bulk programming capability -> page "/"
-- Partners with local and off-shore board assembly for higher volumes -> page "/"
-- Direct, structured approach to product development -> page "/"
-- Tailors services to individual customer requirements -> page "/"
+- Founded in 1995 -> db
+- Headquartered in Bailey, Colorado -> db
+- Provides custom electronic circuit engineering services -> /
+- Offers electronic manufacturing and assembly services -> /
+- Provides PCB assembly, final assembly, packaging -> /
+- Offers EPROM/PROM/FLASH/PLD/MCU bulk programming -> /
+- Provides epoxy encapsulation and potting -> /
+- Offers conformal coating -> /
+- Has in-house bulk programming capability -> /
+- Uses vacuum depressurization chamber for casting -> /
+- UL-recognized component manufacturer -> /
+- RoHS certification -> db
+- Works with local and off-shore partners for higher volumes -> /
+- Structured approach to product development -> /
+- Tailors services to customer requirements -> /
 </details>
 
 ---
@@ -301,62 +307,62 @@ BK Electric emphasizes a direct, structured approach to product development, tai
 **Old description:** BMZ USA is located in Virginia Beach, VA. We offer end-to-end engineering and manufacturing of custom battery and energy storage systems. BMZ USA is a division of BMZ Group, a global leader in Lithium-Ion battery innovation since 1994 headquartered in Karlstein, Germany.
 
 ## About
-BMZ USA Inc operates from Virginia Beach, Virginia, as the U.S. division of BMZ Group, a German battery innovator founded in 1994 and headquartered in Karlstein, Germany. The American entity was established to provide end-to-end engineering and manufacturing of custom battery and energy storage systems for North American markets.
+BMZ USA Inc operates from Virginia Beach, Virginia, as the American division of BMZ Group, a German battery innovator founded in 1994 in Karlstein. The U.S. entity provides end-to-end engineering and manufacturing of custom battery and energy storage systems, drawing on the parent company’s three decades of lithium-ion expertise.
 
-The company designs and builds lithium-ion battery systems from concept through series production, covering cell selection, electronics, mechanics, and software.
+The division leverages the group’s full value chain—from cell selection and electronics design through prototyping, testing, and series production.
 
-BMZ USA serves industries including e-mobility, industrial machinery, drive systems, medical devices, charging infrastructure, and power and garden tools. Concrete applications range from electric excavators, wheel loaders, and off-highway equipment to e-bike systems, medical equipment, forklifts, and professional power tools.
+BMZ’s battery systems serve OEMs across e-mobility, industrial machinery, drive systems, medical devices, charging infrastructure, and power and garden tools. Concrete applications include high-voltage packs for electric excavators and wheel loaders, e-bike batteries such as the V10 and RB900, forklift power systems, and the portable POWER2GO PRO unit for construction and outdoor use.
 
-The division leverages BMZ Group’s one-stop-shop model that integrates the entire battery value chain — development, production, and after-sales — under one roof. A worldwide service network with nine international points, a 24-hour ticket hotline, and long-term original-parts availability support customers throughout the product lifecycle.
+The company emphasizes a one-stop-shop model that covers the entire battery lifecycle, backed by a global service network of nine international service points, a 24-hour ticket hotline, and long-term original-parts availability.
 
 ## Known for
-- One-stop-shop covering entire battery value chain from development to after-sales
-- Worldwide service network with nine international service points
-- 24-hour ticket system and hotline for global support
-- Long-term availability of original parts
-- In-house development of all battery components from concept to series production
+- End-to-end engineering and manufacturing of custom battery and energy storage systems
+- One-stop-shop covering the full battery value chain including after-sales
+- Global service network with nine international service points
+- 24-hour ticket hotline and long-term original-parts availability
+- Over 100 new battery projects developed annually
 
 ## Capabilities
-- Custom battery system engineering
-- Lithium-ion battery manufacturing
-- Energy storage system manufacturing
-- Battery prototyping and testing
-- Battery welding and assembly
-- Series production of battery packs
+- Custom battery and energy storage system engineering
+- Custom battery and energy storage system manufacturing
+- Cell selection and battery electronics design
+- Prototyping and testing
+- Series production of lithium-ion battery systems
+- Hardware and software development for battery management
+- Welding and assembly of battery packs
+- Safety validation and certification support
 - Global after-sales service and support
-- 24-hour technical support ticket system
-- Original parts supply management
+- 24-hour technical support hotline
+- Ticket-based support system
+- Long-term original parts supply
+- OEM battery system production
+- Own-brand battery products (e.g., V10, RB900, BIG PACKS, POWER2GO PRO)
 
 ## Industries
-- E-mobility
-- Industrial machinery
-- Drive systems
-- Medical devices
-- Charging infrastructure
-- Power tools
-- Garden tools
-- Off-highway equipment
-- Material handling (forklifts)
-- E-bike systems
+- E-Mobility
+- Industrial
+- Drive Systems
+- Medical
+- Charger
+- Power & Garden Tools
 
 ## Company details
 - **Company Type:** Manufacturer
-- **Ownership:** Division of BMZ Group
+- **Founded:** 1994
+- **Employees:** >1,400 (global group)
+- **Ownership:** Division of BMZ Group (Germany)
 - **Headquarters:** Virginia Beach, Virginia
 
 <details><summary>Sources</summary>
 
-- Virginia Beach, VA location -> db (hq_city, hq_state_label)
-- Division of BMZ Group founded 1994 in Karlstein, Germany -> db (description)
-- End-to-end engineering and manufacturing of custom battery and energy storage systems -> db (description)
-- Group scale: 194,000 m² production area, >1,400 employees, >100 projects/year -> page /
-- Industries: E-mobility, Industrial, Drive Systems, Medical, Charger, Power/Garden Tools -> page /
-- Applications: electric excavators, wheel loaders, off-highway machines, e-bikes, medical devices, forklifts, power tools -> page /
-- One-stop-shop covering entire battery value chain -> page /
-- Worldwide service network with 9 international service points -> page / and capabilities
-- 24-hour ticket system and hotline -> page / and capabilities
-- Long-term availability of original parts -> page / and capabilities
-- In-house development of all battery components from concept to series production -> page /
+- Location: Virginia Beach, VA -> db
+- Parent company: BMZ Group founded 1994 in Karlstein, Germany -> db
+- Business: end-to-end engineering and manufacturing of custom battery and energy storage systems -> db
+- Group scale: >1,400 employees, 194,000 m² production area, >100 projects/year -> pages["/"]
+- Industries served: E-Mobility, Industrial, Drive Systems, Medical, Charger, Power & Garden Tools -> pages["/"]
+- Applications: electric excavators, wheel loaders, off-highway machines, e-bikes (V10, RB900), forklifts, portable power (POWER2GO PRO) -> pages["/"]
+- Differentiators: one-stop-shop full value chain, global service network with 9 service points, 24-hour ticket hotline, long-term original parts availability -> pages["/"]
+- R&D capabilities: concept to series production, hardware/software development, welding, testing -> pages["/"]
 </details>
 
 ---
@@ -366,29 +372,26 @@ The division leverages BMZ Group’s one-stop-shop model that integrates the ent
 **Old description:** Located in Southern Idaho, we have been rebuilding and repairing trucks for over 30 years. Our experience and quality of work differentiates us from our competitors and allows us to take on any repair job your truck may need. We take pride in taking care of our customers and the thousands of trucks that have come through our shop. Whether you are looking for a full-service repair or need to browse our thousands of heavy-duty truck and trailer parts, stop by our shop and we will make sure you are taken care of.
 
 ## About
-BTR Truck & Trailer Parts operates from Paul, a small city in southern Idaho. The business has been rebuilding and repairing trucks for over three decades, building a reputation for handling a wide range of heavy-duty repair jobs. While the exact founding year and ownership structure are not publicly disclosed, the shop has served thousands of trucks through its facility.
+Based in Paul, Idaho, BTR Truck & Trailer Parts has spent more than three decades rebuilding and repairing heavy-duty trucks. The shop opened its doors in the southern part of the state and has since handled thousands of trucks through its service bays.
 
-The company provides full-service repair and rebuilding for trucks and trailers, complemented by a parts store that stocks thousands of heavy-duty truck and trailer components. Its service offering covers mechanical repairs, component rebuilding, and parts supply for commercial vehicles. No details on facility size, headcount, or annual volume are available.
+The company operates as a full-service repair facility, offering complete rebuilds and repairs for trucks and trailers. In addition to labor, it maintains a large inventory of heavy-duty truck and trailer parts, allowing customers to source components on-site. The business combines a working repair shop with a parts counter stocked with thousands of SKUs for heavy-duty applications.
 
-The shop serves owners and operators of heavy-duty trucks and trailers, including fleets and independent drivers who need repair services or replacement parts. The customer base is drawn from the regional transportation and logistics sector, though specific industry segments or named clients are not listed.
+BTR serves commercial trucking fleets, owner-operators, and other operators of heavy-duty vehicles who need both repair services and replacement parts. Its customer base spans the regional transportation and logistics sectors.
 
-BTR emphasizes its depth of experience and quality of work as key differentiators, stating that its background allows it to take on any repair job a truck may need. The company also highlights its large inventory of heavy-duty parts as a convenience for customers seeking one-stop service.
+The company cites its depth of experience and quality of workmanship as its primary differentiators, stating that its tenure enables it to take on any repair job a truck may require.
 
 ## Known for
 - Over 30 years of truck rebuilding and repair experience
 - Full-service repair capability for any truck job
-- Large inventory of heavy-duty truck and trailer parts
+- Large on-site inventory of heavy-duty truck and trailer parts
+- Regional service center in Southern Idaho
 
 ## Capabilities
 - Truck rebuilding
 - Truck repair
 - Trailer repair
-- Heavy-duty parts sales
-
-## Industries
-- Heavy-duty trucking
-- Commercial trailer
-- Transportation
+- Full-service repair
+- Heavy-duty parts supply
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -396,12 +399,11 @@ BTR emphasizes its depth of experience and quality of work as key differentiator
 
 <details><summary>Sources</summary>
 
-- Location: Paul, Idaho -> db
-- Over 30 years in business -> db
-- Services: truck rebuilding, repair, full-service repair -> db
-- Parts inventory: thousands of heavy-duty truck and trailer parts -> db
-- Differentiator: experience and quality of work -> db
-- Differentiator: ability to take on any repair job -> db
+- Located in Southern Idaho -> db
+- Over 30 years rebuilding and repairing trucks -> description
+- Full-service repair offered -> description
+- Thousands of heavy-duty truck and trailer parts in inventory -> description
+- Capabilities: Service & Repair -> db
 </details>
 
 ---
@@ -411,24 +413,24 @@ BTR emphasizes its depth of experience and quality of work as key differentiator
 **Old description:** Come visit us at Backyard Adventures of Iowa Family Recreation Store. We serve the whole state of Iowa and our highest priority is providing the best customer service for you and your family. In our showroom you will find Backyard Adventures Play Sets and Swing Sets, Goalsetter Basketball Hoops, and Outdoor Furniture and Patio Accessories.
 
 ## About
-Backyard Adventures Iowa operates a family recreation showroom in Urbandale, Iowa. The business was founded in 2002 and has emphasized family-oriented customer service since its start.
+Backyard Adventures Iowa opened in 2002 in Urbandale, Iowa, as a family recreation store serving customers across the state. The business was established with a focus on providing a local showroom where families could explore outdoor play equipment in person.
 
-The company does not manufacture its own products; instead it retails and installs outdoor recreation equipment from several brands. Its showroom carries Backyard Adventures play sets and swing sets, Goalsetter basketball hoops, Backyard Discovery pergolas and gazebos, and outdoor furniture now marketed under the Okoboji Outdoor Living name. Installation services are offered for playsets, hoops, and pergolas within the Des Moines metro area.
+The company operates a showroom that carries playsets and swing sets from Backyard Adventures, basketball hoops from Goalsetter, and pergolas and gazebos from Backyard Discovery, along with outdoor furniture and patio accessories. In addition to retail sales, the business offers installation services for playsets and hoops within the Des Moines metro area. The product lineup includes multiple series such as the Outlook, Summit, Treehouse, and Peak playset lines, as well as Goalsetter Signature and Extreme hoop series.
 
-The store serves residential customers across Iowa, providing a local showroom where families can view and purchase equipment for backyard play and outdoor living. Its primary market is homeowners seeking playsets, basketball systems, shade structures, and patio furnishings.
+Its customer base consists primarily of Iowa homeowners and families looking for backyard recreation equipment. The store markets itself to the entire state, emphasizing a hands-on showroom experience where buyers can view and compare products before purchase. The company also directs outdoor furniture shoppers to its affiliated Okoboji Outdoor Living location, which shares the same staff and facility.
 
-The company states that family and customer service have been its top priorities since 2002, and it highlights statewide coverage and professional installation as key reasons customers choose them.
+Since its founding, the company has highlighted family-oriented customer service as its defining priority, a commitment it says has guided its approach from the start. Seasonal promotions, such as fall discounts on playsets and hoops with bundled installation pricing, are used to attract buyers, but the core differentiator remains the emphasis on personal service.
 
 ## Known for
-- Family and customer service prioritized since founding in 2002
-- Statewide service across Iowa
-- Installation available for playsets, basketball hoops, and pergolas in the metro area
-- Authorized dealer for Backyard Adventures, Goalsetter, and Backyard Discovery products
+- Family and customer service focus since 2002
+- Installation services available in the Des Moines metro area
+- Showroom featuring Backyard Adventures, Goalsetter, and Backyard Discovery product lines
+- Seasonal promotions with bundled installation pricing
 
 ## Capabilities
-- Installation of playsets, basketball hoops, and pergolas
-- Retail showroom for outdoor recreation equipment
-- Product consultation and sales
+- Retail sales of outdoor playsets, basketball hoops, pergolas, gazebos, and outdoor furniture
+- Installation services for playsets and basketball hoops
+- Customer service and product consultation
 
 ## Company details
 - **Company Type:** Retailer
@@ -438,11 +440,11 @@ The company states that family and customer service have been its top priorities
 <details><summary>Sources</summary>
 
 - Founded in 2002 -> /
-- Headquarters Urbandale, Iowa -> /
-- Retail showroom selling Backyard Adventures playsets, Goalsetter hoops, Backyard Discovery pergolas, Okoboji Outdoor Living furniture -> /
-- Installation services for playsets, hoops, pergolas in metro area -> /
-- Serves whole state of Iowa -> /
-- Family & Customer Service as top priorities since 2002 -> /
+- Headquarters in Urbandale, Iowa -> db
+- Retail showroom with Backyard Adventures, Goalsetter, Backyard Discovery products -> /
+- Installation services available in metro area -> /
+- Family & Customer Service stated as top priorities -> /
+- Affiliated Okoboji Outdoor Living location mentioned -> /
 </details>
 
 ---
@@ -452,33 +454,42 @@ The company states that family and customer service have been its top priorities
 **Old description:** Making wood gifts and custom furniture is our primary focus. Pairing our unique skill sets with cutting edge 21st century technology we are able to design and develop custom furniture, wood gifts, signs and more in a fraction of the time. Our workshop revolves around a 5ftx10ft Computer Numerically Controlled (CNC) machine. This machine gives us the ability to cut and engrave a plethora of materials at any size with almost complete perfection. In addition to our CNC machine, we have a woodshop, a welding lab, and a 3D printing lab.
 
 ## About
-Bad Idea Factory is based in Grand Rapids, Michigan, where it runs a workshop centered on a 5-foot-by-10-foot computer numerically controlled (CNC) machine. The facility also includes a full woodshop, a welding lab, and a 3D printing lab, allowing the team to blend digital fabrication with traditional woodworking and metalworking.
+Bad Idea Factory operates a custom woodworking and design workshop in Grand Rapids, Michigan. The company focuses on wood gifts, custom furniture, signs, and related products, combining traditional craftsmanship with a 5-foot by 10-foot CNC machine, a woodshop, a welding lab, and a 3D printing lab.
 
-The company’s core output spans custom wood gifts, furniture, signs, and charcuterie boards. The CNC machine cuts and engraves a variety of materials at virtually any size, enabling both mass production of smaller items like plaques and single-piece fabrication of large-format pieces. The woodshop handles joinery, finishing, and assembly for furniture such as kitchen tables, wine racks, and outdoor seating, while the welding lab adds structural metalwork and the 3D printing lab supports rapid prototyping and custom hardware.
+The shop’s capabilities center on CNC cutting and engraving across a range of materials, supplemented by woodworking, welding, and additive manufacturing. It produces custom furniture such as kitchen tables, wine racks, and outdoor seating; charcuterie and cutting boards in standard or custom designs; and engraved signs and plaques, with the capacity to mass-produce smaller items or fabricate pieces larger than the CNC bed through multi-step processing.
 
-Customers range from individual buyers looking for personalized gifts to businesses needing branded signage, custom cutting boards for retail, or made-to-order furniture for hospitality and residential projects. The shop’s ability to produce both one-off designs and repeat runs makes it a flexible partner for short-run and prototype work.
+The company serves customers seeking one-off custom pieces or batch-produced items, including individuals, gift buyers, and businesses needing signage. Examples from its service list include personalized charcuterie boards, custom furniture with specific dimensions and finishes, and engraved plaques for commemorative or branding purposes.
 
-The team describes its approach as driven by a desire for complete perfection and a commitment to matching each client’s personal preferences, providing design schematics and multiple material-and-finish quotes before any work begins.
+Bad Idea Factory emphasizes rapid turnaround through its digital workflow, stating that its technology allows design and development “in a fraction of the time.” It offers design consultation, schematic drawings, and material-and-finish quotes before production, positioning itself as a flexible, imagination-driven shop.
 
 ## Known for
-- 5'x10' CNC machine for large-format cutting and engraving
-- Integrated woodshop, welding lab, and 3D printing lab under one roof
-- Design-to-quote workflow with schematic drawings and material options
-- Capability to mass-produce small items or fabricate oversized pieces
-- Custom furniture, signage, and gift production from a single source
+- 5 ft × 10 ft CNC machine for large-format cutting and engraving
+- In-house woodshop, welding lab, and 3D printing lab
+- Mass-production capability for signs and small parts
+- Custom furniture from tables to outdoor seating
+- Design-to-quote workflow with schematic and material options
 
 ## Capabilities
-- CNC machining (cutting, engraving)
-- Woodworking (joinery, finishing, assembly)
-- Welding and metal fabrication
-- 3D printing (prototyping, custom components)
-- Sign engraving and plaque production
+- CNC machining (5 ft × 10 ft)
+- CNC engraving
+- Woodworking
+- Welding
+- 3D printing
 - Custom furniture manufacturing
-- Charcuterie and cutting board fabrication
-- Design and schematic drafting
+- Sign and plaque production
+- Charcuterie board manufacturing
+- Cutting board manufacturing
+- Custom design and schematic creation
+- Material and finish consultation
+
+## Industries
+- Custom furniture
+- Wood gifts
+- Signage
+- Food service accessories
 
 ## Equipment
-- 5'x10' CNC machine
+- 5 ft × 10 ft CNC machine
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -487,13 +498,13 @@ The team describes its approach as driven by a desire for complete perfection an
 <details><summary>Sources</summary>
 
 - Location: Grand Rapids, Michigan -> db
-- Workshop centered on a 5'x10' CNC machine -> /
-- Facility includes woodshop, welding lab, and 3D printing lab -> /
-- Produces custom wood gifts, furniture, signs, charcuterie boards -> /, /services
-- CNC machine cuts and engraves various materials at any size -> /
-- Offers mass production of signs and plaques -> /services
-- Custom furniture includes kitchen tables, wine racks, outdoor seating -> /services
-- Provides design schematics and material/finish quotes -> /
+- Primary focus: wood gifts and custom furniture -> /
+- Equipment: 5ft x 10ft CNC machine, woodshop, welding lab, 3D printing lab -> /
+- Services: engraving signs, charcuterie/cutting boards, custom furniture -> /services
+- CNC capacity: mass produce smaller items or cut items over 5ft x 10ft -> /services
+- Custom furniture examples: kitchen tables, wine racks, outdoor seating -> /services
+- Design process: schematic drawn, quote for materials and finishes -> /
+- Website: bifww.com -> db
 </details>
 
 ---
@@ -503,27 +514,40 @@ The team describes its approach as driven by a desire for complete perfection an
 **Old description:** Badger Body & Truck Equipment Co. has been a trusted name in Nebraska and Western Iowa since 1917.  Badger Body is conveniently located near I-80 on 63rd and Grover Streets.  We are a family-owned business that prides itself on providing customers the highest quality truck equipment at the lowest prices, minimizing your downtime and maximizing your business potential.
 
 ## About
-Badger Body & Truck Equipment Co. has operated from Omaha, Nebraska since 1917. The family-owned company sits near Interstate 80 at 63rd and Grover Streets, serving customers across Nebraska and western Iowa.
+Badger Body & Truck Equipment Co. has operated from Omaha, Nebraska since 1917. The family-owned business sits near Interstate 80 at 63rd and Grover Streets, serving customers across Nebraska and western Iowa.
 
-The company functions as a full-service truck upfitter, installing service and utility bodies and supplying a wide range of truck equipment and accessories. Its product lineup includes brands such as Adrian Steel ladder racks and shelving, Sortimo modular storage systems, and EBY aluminum dump bodies. The shop also provides parts and service for all makes and models of truck equipment, maintaining a clearance section for discounted items.
+The company functions as a truck upfitter, installing service and utility bodies on commercial chassis, and supplies replacement parts for all makes of truck equipment. Its product range includes ladder racks, storage systems, aluminum dump bodies, and lock assemblies from brands such as Adrian Steel, Sortimo, EBY, and Rawson Koenig. The shop also provides ongoing service and repair work to keep fleets running, supported by a parts inventory that covers numerous truck makes and models.
 
-Customers include commercial fleets, construction contractors, and utility operators who need reliable upfitting and quick access to replacement parts. The business emphasizes minimizing vehicle downtime through dependable service and a broad inventory of stocked components.
+Customers include commercial trucking fleets, utility contractors, and municipal operations that need upfitting or parts for medium- and heavy-duty trucks. The company's clearance section regularly lists surplus items like Adrian Steel drawer units, Sortimo shelving extensions, and EBY dump bodies with toolboxes.
 
-Founded on a commitment to delivering the highest quality truck equipment at the lowest prices, Badger Body positions itself as a partner that maximizes business potential by keeping trucks on the road.
+Badger Body emphasizes minimizing downtime and offering equipment at competitive prices, a value proposition rooted in its long-standing local presence and family ownership.
 
 ## Known for
 - Family-owned and operated since 1917
-- Full-service truck upfitting including service and utility body installation
-- Parts and service for all makes and models of truck equipment
-- Authorized dealer for Adrian Steel, Sortimo, and EBY products
-- Convenient location near I-80 for quick turnaround
+- Convenient location near I-80 in Omaha
+- Parts availability for all makes and models of truck equipment
+- Service focus aimed at minimizing fleet downtime
 
 ## Capabilities
 - Truck upfitting
 - Service body installation
 - Utility body installation
-- Parts distribution for all truck makes and models
-- Truck equipment and accessory sales
+- Truck equipment parts distribution
+- Truck equipment service and repair
+- Ladder rack installation
+- Storage system installation
+- Aluminum dump body installation
+- Lock assembly replacement
+
+## Industries
+- Commercial trucking
+- Utility services
+
+## Equipment
+- Adrian Steel ladder racks and storage systems
+- Sortimo shelf and drawer systems
+- EBY aluminum dump bodies
+- Rawson Koenig lock assemblies
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -533,14 +557,15 @@ Founded on a commitment to delivering the highest quality truck equipment at the
 
 <details><summary>Sources</summary>
 
-- Founded 1917 -> /
-- Family-owned -> /
-- Headquarters Omaha, Nebraska -> /
+- Founded 1917 -> db, /
+- Location Omaha, Nebraska -> db, /
+- Family-owned -> db, /
 - Truck upfitter -> /
-- Service/Utility Bodies capability -> /
+- Service/Utility Bodies -> db, /
 - Parts for all makes and models -> /
-- Brands carried: Adrian Steel, Sortimo, EBY -> /
-- Location near I-80 at 63rd and Grover Streets -> /
+- Brands carried: Adrian Steel, Sortimo, EBY, Rawson Koenig -> /
+- Minimizing downtime, competitive prices -> db
+- Convenient location near I-80 -> db, /
 </details>
 
 ---

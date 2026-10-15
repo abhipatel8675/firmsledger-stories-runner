@@ -3,47 +3,41 @@
 **Old description:** We are a U.S Manufacturer of medical instrument processing solutions that enable healthcare facilities to improve quality of care, and patient outcomes while reducing costs.
 
 ## About
-Case Medical, Inc. was founded in 1992 in Bloomfield, New Jersey, as a supplier of custom graphics trays to medical device manufacturers. The company remains a U.S.-based manufacturer of medical instrument processing solutions.
+Case Medical Inc. is based in Bloomfield, New Jersey, and was founded in 1992. The company began as a supplier of custom graphics trays to medical device manufacturers. Ownership details are not publicly disclosed.
 
-Today the company produces DIN-sized SteriTite® universal sealed containers, modular MediTray® inserts, SuperNova® cleaning chemistries, CaseTrak360® tracking software, IFU Scanner, and SteriTite® case carts. It also offers custom instrument set assembly, validation services, and consulting through its Case Academy. No facility size or headcount is disclosed.
+Today, Case Medical manufactures a range of medical instrument processing solutions. Its core products include DIN-sized SteriTite® universal sealed containers, modular MediTray® inserts, SuperNova® and NovaPlus cleaning chemistries, SteriTite® case carts, and the CaseTrak360® software platform for OEM tracking and inventory management. The company also offers an IFU scanner and consulting services such as cost-benefit analysis. Facility size, headcount, and production volumes are not disclosed.
 
-Customers include hospitals, surgical centers, and medical device manufacturers that operate sterile processing departments and operating rooms. The firm’s container system is FDA-cleared for all current sterilization modalities, and its chemistries are used for instrument decontamination. The company also provides OEM tracking software for medical device makers.
+The company serves healthcare facilities, hospital sterile processing departments, operating rooms, and medical device manufacturers. Its container system is FDA-cleared for all current sterilization modalities and medical devices, and the firm emphasizes universal compatibility to reduce inventory and operating-room delays.
 
-Case Medical differentiates itself through universal compatibility, sustainability recognition as a three-time U.S. EPA Safer Choice Partner of the Year (2022–2024), independent laboratory validation, and a patent-pending Digital Visualization feature that adds AI-driven workflow to its containers. The business began with custom trays and evolved to set what it calls the gold standard in instrument protection and organization.
+Case Medical differentiates itself through several factors: it is the only medical device reprocessing manufacturer recognized by the U.S. EPA as a Safer Choice Partner of the Year (2022, 2023, 2024); its products are validated by independent laboratories and universities; it offers customization of instrument sets to surgeon preferences; and it has filed a patent for Digital Visualization, integrating the SteriTite container with CaseTrak360 software for paperless counts and AI-enhanced workflow.
 
 ## Known for
-- Three-time U.S. EPA Safer Choice Partner of the Year (2022, 2023, 2024)
 - FDA-cleared container system for all sterilization modalities
+- EPA Safer Choice Partner of the Year (2022–2024)
 - Products validated by independent laboratories and universities
 - Customizable instrument sets tailored to surgeon preferences
-- Patent filed for Digital Visualization with AI-enhanced workflow
+- Digital Visualization patent integrating SteriTite containers with CaseTrak360 software
 
 ## Capabilities
 - Medical instrument processing solutions
-- Sterilization container manufacturing
-- Cleaning chemistry formulation
-- Software development (CaseTrak360, IFU Scanner)
-- Custom instrument set assembly
-- Validation testing
-- Consulting and education (Case Academy)
-- Cost benefit analysis
-- OEM tracking software for medical devices
+- Sterilization container manufacturing (SteriTite®)
+- Modular tray system manufacturing (MediTray®)
+- Cleaning chemistry formulation (SuperNova®, NovaPlus)
+- Case cart manufacturing (SteriTite® Case Carts)
+- Software development (CaseTrak360® OEM tracking)
+- IFU scanning
+- Instrument set customization
+- Consulting (cost-benefit analysis)
+- Education and training (Case Academy)
+- Infection prevention consulting
+- Sustainable product design (EPA Safer Choice)
 
 ## Industries
 - Healthcare facilities
-- Medical device manufacturers
-- Sterile processing departments
+- Hospital sterile processing departments
 - Operating rooms
+- Medical device manufacturers (OEM)
 - Medical device reprocessing
-- Infection prevention
-
-## Equipment
-- SteriTite sealed container
-- MediTray modular inserts
-- SuperNova cleaning chemistries
-- CaseTrak360 software
-- IFU Scanner
-- SteriTite case carts
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -52,18 +46,16 @@ Case Medical differentiates itself through universal compatibility, sustainabili
 
 <details><summary>Sources</summary>
 
-- Founded 1992 -> db
-- Headquarters Bloomfield, New Jersey -> db
-- U.S. manufacturer of medical instrument processing solutions -> /
-- Started as supplier of custom graphics trays to medical device manufacturers -> /
-- Products: SteriTite universal sealed container, MediTray inserts, SuperNova chemistries, CaseTrak360 software, IFU Scanner, SteriTite case carts -> /
-- EPA Safer Choice Partner of the Year 2022, 2023, 2024 -> /
-- FDA-cleared container system for all sterilization modalities -> /
-- Validated by independent laboratories and universities -> /
-- Customizable instrument sets based on surgeons' preferences -> /
-- Patent filed for Digital Visualization -> /
-- Holistic 360-degree approach -> /
-- Serves healthcare facilities, medical device manufacturers, sterile processing departments, operating rooms -> /
+- Founded in 1992 as supplier of custom graphics trays to medical device manufacturers -> /
+- Headquartered in Bloomfield, New Jersey -> db
+- Manufactures SteriTite universal sealed containers and MediTray modular inserts -> /
+- Offers cleaning chemistries (SuperNova, NovaPlus) -> /
+- Provides CaseTrak360 OEM tracking software -> /
+- FDA cleared container system for all sterilization modalities -> /
+- EPA Safer Choice Partner of the Year 2022-2024 -> /
+- Products validated by independent laboratories and universities -> /
+- Customizable instrument sets per surgeon preferences -> /
+- Digital Visualization patent filed for SteriTite and CaseTrak360 integration -> /
 </details>
 
 ---
@@ -73,44 +65,48 @@ Case Medical differentiates itself through universal compatibility, sustainabili
 **Old description:** by Clark and Lynnette McInroy, who saw a need for a respiratory community. Clark, who has over 30 years of respiratory experience, saw a gap in services that big companies were unable to fill. Going forward with the motto "Helping you breathe easy", Clark and Lynnette had a vision of home town care and a family atmosphere. In result, we created a business where staff and patients are on a first name basis, and we strive to make sure you are comfortable and knowledgeable about the services you receive. Our staff is on call 24/7 and we strive to find solutions that fit all lifestyles. Our patients come first and we believe in one guiding principle- family.
 
 ## About
-Clark brought more than 30 years of respiratory experience and identified a service gap that larger providers were not addressing, prompting the couple to create a locally focused alternative.
+Clark brought over 30 years of respiratory experience and identified a service gap that larger providers could not fill. The couple founded the company with a vision of hometown care and a family atmosphere, aiming to create a business where staff and patients interact on a first-name basis.
 
-The company delivers respiratory and mobility services with a staff that remains on call 24 hours a day. Operations emphasize a hometown care model where patients and team members interact on a first-name basis, and the founders describe a guiding principle of family that shapes daily interactions and service delivery.
+The company provides respiratory therapy and mobility equipment solutions to patients in the Casper area. Services include 24/7 on-call support, equipment delivery and setup, and patient education. The operation runs with a small team that includes a branch manager, delivery technician, marketing representative, and general manager, though total headcount and facility size are not disclosed.
 
-The business serves individuals requiring respiratory support and mobility assistance in the Casper area. Its customer base consists of patients seeking personalized, community-based care rather than institutional-scale providers.
+The primary customers are individuals requiring respiratory care and mobility assistance, typically served through home healthcare channels. The company focuses on the local community, emphasizing personalized service for patients with chronic obstructive pulmonary disease and other respiratory conditions.
 
-The McInroys started the venture to offer a family atmosphere and responsive service that they felt was missing from the market. They position the company around continuous availability, patient comfort, and a relational approach that contrasts with larger, less personal operators.
+The founders state that their guiding principle is family, and they strive to make patients comfortable and knowledgeable about the services they receive. The motto "Helping you breathe easy" reflects their commitment to finding solutions that fit all lifestyles, with staff available around the clock.
 
 ## Known for
-- Staff on call 24/7
-- Hometown care and family atmosphere
-- Patients and staff on a first-name basis
-- Guiding principle: family
+- 24/7 on-call staff availability
+- First-name basis with patients
+- Family atmosphere and hometown care approach
+- Patients come first as guiding principle
 
 ## Capabilities
-- Respiratory services
-- Mobility solutions
+- Respiratory therapy services
+- Mobility equipment solutions
 - 24/7 on-call support
-- Patient education and comfort
+- Equipment delivery and setup
+- Patient education and support
 
 ## Industries
+- Healthcare
 - Respiratory care
 - Mobility assistance
+- Home healthcare
 
 ## Company details
 - **Company Type:** Installer / service company
 - **Founded:** 2020
-- **Ownership:** Family-owned (implied)
+- **Ownership:** Family-owned
 - **Headquarters:** Casper, Wyoming
 
 <details><summary>Sources</summary>
 
 - Founded 2020 by Clark and Lynnette McInroy -> /
+- Located in Casper, Wyoming -> /
 - Clark has over 30 years respiratory experience -> /
-- Located in Casper, Wyoming -> db
-- Staff on call 24/7 -> /
-- Hometown care, family atmosphere, first-name basis -> /
-- Staff names: Tamara Hopkins, Tiffany Piper, Leah Larson, Jamie Shaw -> /
+- 24/7 on-call staff -> /
+- Staff includes Tamara Hopkins, Tiffany Piper, Leah Larson, Jamie Shaw -> /
+- Motto 'Helping you breathe easy' -> /
+- Family atmosphere and first-name basis with patients -> /
 </details>
 
 ---
@@ -120,79 +116,77 @@ The McInroys started the venture to offer a family atmosphere and responsive ser
 **Old description:** As an Advanced Partner of Siemens Healthineers, we’re your gateway to the world’s leading provider of diagnostic imaging equipment. Our award-winning service team, made up of employees who live and work alongside you in your community, will work diligently to ensure you can maximize the value of your investment.
 
 ## About
-Cassling was founded in 1984 in Omaha, Nebraska, by Bob Cassling. The company transitioned to 100% employee ownership and is now led by Chairman Mike Cassling, who joined the firm in 1985 after working alongside his father, and CEO Kyle Salem, Ph.D., who joined in 2005. Headquartered in Omaha, the business operates with Midwestern values and a focus on community healthcare.
+Cassling was founded in 1984 by Bob Cassling in Omaha, Nebraska. Now 100% employee-owned, the company has grown from a family-started venture into a Midwestern-based partner for healthcare providers. Mike Cassling, the founder's son, joined in 1985 and later became chairman in 2023.
 
-As an Advanced Partner of Siemens Healthineers, Cassling distributes and services diagnostic imaging equipment from Siemens, Hologic, and GE Healthcare surgical C-arms. The company provides equipment maintenance per OEM specifications, flexible service coverage plans, applications training, consulting, continuing education, financing, marketing, project management, and site planning for healthcare facilities. Its service team works locally across the region to keep imaging systems operational.
+As an Advanced Partner of Siemens Healthineers, Cassling distributes diagnostic imaging equipment and provides a suite of services including equipment maintenance per OEM specifications, applications training, consulting, continuing education, financing, marketing, project management, and site planning. The company also offers digital health software and patient experience design for imaging suites. Its service team supports equipment from Siemens Healthineers, Hologic, and GE Healthcare surgical C-arms.
 
-Cassling serves hospitals, health systems, imaging centers, ambulatory surgery centers, rural healthcare providers, Veterans Affairs facilities, and physician groups across specialties including cardiology, neurology, oncology, orthopedics, pain management, pediatrics, radiology, surgery, and women's health. Customers include the Urology Cancer Center & GU Research Network and Methodist Jennie Edmundson Hospital.
+Cassling serves a broad range of healthcare facilities: hospitals, health systems, imaging centers, ambulatory surgery centers, freestanding emergency departments, rural healthcare providers, Veterans Affairs facilities, and physician groups. Clinical specialties supported include cardiology, neurology, oncology, orthopedics, pain management, pediatrics, radiology, surgery, and women's health.
 
-The company was built on a mission to strengthen community healthcare by improving access, outcomes, and efficiency. Its vision aims for a world where patients receive the right level of care regardless of location or socioeconomic status, with a goal to impact 350 million patient lives by 2030.
+The company emphasizes its employee-owned structure and local presence as differentiators, aiming to improve community healthcare access. Cassling has set a goal to impact 350 million patient lives by 2030 through its partnerships and service model.
 
 ## Known for
-- Advanced Partner of Siemens Healthineers
-- 100% employee-owned structure
-- Award-winning local service team living in the communities they serve
-- OEM-spec equipment service for Siemens, Hologic, and GE Healthcare C-arms
-- Free continuing education program for imaging professionals
+- 100% employee-owned ownership structure
+- Advanced Partner of Siemens Healthineers for diagnostic imaging equipment
+- Award-winning local service team providing OEM-spec maintenance
+- Free continuing education program (Investing in You) for imaging professionals
+- Consultative approach covering equipment, financing, site planning, and marketing
 
 ## Capabilities
 - Equipment service and maintenance (OEM specifications)
-- Flexible service coverage plans
 - Applications and training
-- Consulting
-- Continuing education (CE credits)
-- Financing solutions
-- Marketing services
-- Project management
-- Site planning
-- Diagnostic imaging equipment distribution (Siemens Healthineers, Hologic, GE Healthcare)
-- Digital health solutions
+- Healthcare consulting
+- Continuing education (Investing in You program)
+- Equipment financing
+- Healthcare marketing services
+- Project management for equipment installation
+- Site planning and design
+- Digital health software solutions
 - Patient experience design
+- Diagnostic imaging equipment distribution (Siemens Healthineers)
 
 ## Industries
-- Healthcare
-- Hospitals
-- Health systems
-- Imaging centers
-- Ambulatory surgery centers
-- Rural healthcare
-- Veterans Affairs healthcare
-- Physician groups
 - Cardiology
 - Neurology
 - Oncology
 - Orthopedics
-- Pain management
+- Pain Management
 - Pediatrics
 - Radiology
 - Surgery
-- Women's health
+- Women's Health
+- Ambulatory Surgery Centers
+- Imaging Centers
+- Freestanding Emergency Departments
+- Health Systems
+- Rural Healthcare
+- Hospitals
+- Veterans Affairs Healthcare Facilities
+- Physician Groups
 
 ## Equipment
-- Siemens Healthineers diagnostic imaging equipment
-- Hologic equipment
+- Siemens Healthineers diagnostic imaging systems
+- Hologic imaging systems
 - GE Healthcare surgical C-arms
 
 ## Company details
 - **Company Type:** Distributor / reseller
 - **Founded:** 1984
-- **Ownership:** 100% employee-owned
+- **Ownership:** Employee-owned
 - **Headquarters:** Omaha, Nebraska
 
 <details><summary>Sources</summary>
 
-- Founded 1984 in Omaha, Nebraska -> /about-us
-- 100% employee-owned -> /about-us, /
-- Chairman Mike Cassling joined 1985, son of founder Bob Cassling -> /about-us
-- CEO Kyle Salem, Ph.D. joined 2005 -> /about-us
-- Advanced Partner of Siemens Healthineers -> /, /about-us, /services
-- Services: equipment service, applications & training, consulting, continuing education, financing, marketing, project management, site planning -> /services
-- Equipment manufacturers serviced: Siemens Healthineers, Hologic, GE Healthcare surgical C-arms -> /services
-- Industries served: hospitals, health systems, imaging centers, ambulatory surgery centers, rural healthcare, VA facilities, physician groups -> /about-us
-- Specialties: cardiology, neurology, oncology, orthopedics, pain management, pediatrics, radiology, surgery, women's health -> /
-- Customer examples: Urology Cancer Center & GU Research Network, Methodist Jennie Edmundson Hospital -> /
-- Mission: strengthen community healthcare, improve access and outcomes -> /about-us
-- Vision: impact 350 million patient lives by 2030 -> /about-us
+- Founded in 1984 -> /about-us
+- Headquartered in Omaha, Nebraska -> /about-us
+- 100% employee-owned -> /about-us
+- Advanced Partner of Siemens Healthineers -> /
+- Services: Equipment Service, Applications & Training, Consulting, Continuing Education, Financing, Marketing, Project Management, Site Planning -> /services
+- Serves specialties: Cardiology, Neurology, Oncology, Orthopedics, Pain Management, Pediatrics, Radiology, Surgery, Women's Health -> /
+- Serves facility types: Ambulatory Surgery Centers, Imaging Centers, Freestanding EDs, Health Systems, Rural Healthcare, Hospitals, VA Facilities, Physician Groups -> /about-us
+- Founder Bob Cassling -> /about-us
+- Mike Cassling Chairman -> /about-us
+- Goal to impact 350 million patient lives by 2030 -> /about-us
+- Services equipment from Siemens Healthineers, Hologic, GE Healthcare surgical C-arms -> /services
 </details>
 
 ---
@@ -202,41 +196,41 @@ The company was built on a mission to strengthen community healthcare by improvi
 **Old description:** [wps_search search_placeholder_text="Enter Keyword, Item, Model or Part #" available_for_sale="true" items_per_row="3"]
 
 ## About
-Castillo Electric Distribution was founded in 2006 in Signal Hill, California, as an electrician-run wholesale electrical supplier. The company was established on a commitment to quality, expertise, and reliability, aiming to provide electricians and contractors with the right products at the right time.
+Castillo Electric Distribution was founded in 2006 in Signal Hill, California, as an electrician-run wholesale electrical supplier.
 
-The company distributes a full range of electrical products from brands, including switchgear, circuit breakers, panelboards, fuses, wiring, lighting, conduit, tools, and safety gear. As an official Siemens distributor, it offers wholesale pricing and operates a warehouse with fast shipping and local pickup options. Beyond product supply, Castillo Electric Distribution provides consulting services such as project consultation, material sourcing, logistics support, and product guidance. It also runs a recurring supplies program for consistent material delivery and collaborates with Mario Castillo Electric for installation and electrical contracting services, delivering a full-service approach from product selection to project execution.
+The company stocks and distributes a broad line of electrical products including switchgear, circuit breakers, panelboards, fuses, wiring, conduit, lighting, controls, tools, and safety gear. As an official Siemens distributor, it sources from major manufacturers and backs sales with consulting services such as project planning, material sourcing, logistics coordination, and product selection guidance. A recurring-supplies program and the Castillo EDGE loyalty tier offer volume pricing and flexible fulfillment for ongoing accounts.
 
-Castillo Electric Distribution serves electricians, contractors, facility managers, property managers, and business owners across residential, commercial, and industrial projects. Its customer base includes professionals working on new builds, service upgrades, temporary power setups, and retrofit jobs. The company emphasizes trade-driven expertise, with staff who have hands-on field experience to ensure accurate recommendations.
+Customers span residential, commercial, and industrial construction, as well as facility maintenance and property management. The distributor serves contractors, electricians, facility managers, and business owners nationwide, with fast shipping and local pickup available from its Southern California warehouse.
 
-The company differentiates itself through its electrician-run ownership, transparent pricing, and a loyalty program called Castillo EDGE that offers discounts, flexible fulfillment, and volume-order terms. Its core values—customer first, integrity, trade-driven expertise, value-driven pricing, and operational excellence—guide its focus on keeping projects on schedule and budgets intact.
+Castillo Electric Distribution differentiates itself through trade-driven expertise—its staff includes seasoned electricians who provide hands-on recommendations—and a commitment to complete, on-time orders that prevent costly job-site delays. Transparent pricing, a no-upsell approach, and the Castillo EDGE rewards program are cited as core value drivers for repeat buyers.
 
 ## Known for
 - Official Siemens Distributor
-- Electrician-run business with trade-driven expertise
-- Castillo EDGE loyalty program with discounts and flexible terms
+- Electrician-run business with field-experienced staff
+- Castillo EDGE loyalty program with volume discounts and flexible terms
 - Fast shipping and local pickup nationwide
-- Consulting services including project consultation and material sourcing
+- Project consultation, material sourcing, and logistics support
 
 ## Capabilities
 - Wholesale electrical distribution
-- Electrical product consulting
 - Project consultation
 - Material sourcing
 - Logistics support
-- Recurring supply programs
+- Product guidance
+- Recurring supplies program
+- Fast shipping
+- Local pickup
 - Switchgear and component supply
-- Lighting and control systems supply
+- Lighting and controls supply
 - Wiring and conduit supply
 - Tools and safety gear supply
-- Installation support via partner
-- Troubleshooting and maintenance advice
 
 ## Industries
-- Residential electrical
+- Residential construction
 - Commercial construction
 - Industrial construction
+- Facility maintenance
 - Electrical contracting
-- Facility management
 - Property management
 
 ## Company details
@@ -247,20 +241,22 @@ The company differentiates itself through its electrician-run ownership, transpa
 
 <details><summary>Sources</summary>
 
-- Founded in 2006 -> db
-- Headquarters in Signal Hill, California -> db
-- Official Siemens Distributor -> /
-- Wholesale electrical supplier -> /
-- Electrician-run business -> /
-- Offers consulting services -> /, /about-us, /services
-- Collaborates with Mario Castillo Electric for installation and electrical contracting services -> /, /about-us, /services
-- Serves residential, commercial, and industrial projects -> /about-us
-- Offers recurring supplies service -> /services
-- Provides project consultation, material sourcing, logistics support, product guidance -> /services
-- Loyalty program: Castillo EDGE -> /
-- Fast shipping and local pickup -> /services
-- Products: switchgear, circuit breakers, panelboards, fuses, wiring, lighting, conduit, tools, safety gear -> /about-us, /services
-- Core values: Customer First, Integrity & Accountability, Trade-Driven Expertise, Value-Driven, Operational Excellence -> /about-us
+- Founded 2006 -> db
+- Headquarters Signal Hill, California -> db
+- Electrician-run business -> / page: 'An Electrician Run Business', 'Run by an Electrician'
+- Official Siemens Distributor -> / page: 'Official Siemens Distributor'
+- Wholesale electrical distributor -> / page: 'Wholesale Electrical Supply', 'The Professionals in wholesale electrical supplies'
+- Partners with Mario Castillo Electric for installation/contracting -> /, /about-us, /services pages
+- Offers consulting services, project consultation, material sourcing, logistics support, product guidance -> /services page
+- Recurring supplies program -> /services page: 'Recurring Supplies service'
+- Castillo EDGE loyalty program -> / and /about-us pages
+- Serves residential, commercial, industrial projects -> /about-us page
+- Customers: contractors, electricians, facility managers, property owners -> /services page
+- Nationwide fast shipping -> /about-us page: 'Serving Electricians & Contractors Nationwide - fast shipping and on-time deliveries'
+- Transparent pricing, lower cost parts -> / and /about-us pages
+- Core values listed -> /about-us page
+- Over 20 years experience claimed -> / page
+- Product categories: switchgear, circuit breakers, panelboards, fuses, wiring, lighting, tools, safety gear -> /about-us and /services pages
 </details>
 
 ---
@@ -270,36 +266,36 @@ The company differentiates itself through its electrician-run ownership, transpa
 **Old description:** Cave Creek Welding, based in Cave Creek, AZ, has been delivering exceptional custom metalwork across Arizona since 1979. Specializing in both residential and construction-phase welding, we are known for building extraordinary, one-of-a-kind structures that combine form, function, and unmatched craftsmanship. From concept to completion, we manage every stage of your project—ensuring clear communication, on-time delivery, and flawless results. Whether you're looking to enhance your home, elevate your commercial space, or bring a bold architectural vision to life, our team is ready to turn your ideas into reality. If you can dream it, we can build it. We collaborate closely with property owners, architects, and structural engineers to ensure each project meets the highest standards of design and durability. Contact Cave Creek Welding today at  to discuss your next custom metal project.
 
 ## About
-Founded in 1979, Cave Creek Welding has operated from its Cave Creek, Arizona location for over four decades. The family-owned business began as a custom metalwork shop serving the local community.
+Cave Creek Welding operates from Cave Creek, Arizona, where it was established in 1979. The business is described as a family-owned operation, though the founders are not named in available sources. For over four decades it has served Arizona customers with custom metalwork.
 
-The shop provides custom metal fabrication and welding for both residential and construction-phase projects. Its capabilities include structural steel fabrication, fire pits, fireplace screens, gates, hand rails, and fences, with in-house powder coating and installation services. The team manages projects from concept through completion, handling design, fabrication, and on-site installation.
+The shop focuses on custom metal fabrication and welding, producing gates, handrails, fences, structural steel components, fire pits, and fireplace screens. Work includes welding, fabrication, powder coating, and on-site installation. No facility size, headcount, or annual volume figures are published.
 
-The company serves property owners, architects, and structural engineers across Arizona, delivering custom metalwork for residential homes, commercial spaces, and architectural installations. Projects range from decorative gates and handrails to structural steel components.
+Customers include residential property owners, commercial contractors, architects, and structural engineers. Projects cited in reviews include a custom powder-coated gate and custom ironwork for a three-way gas fireplace.
 
-Cave Creek Welding differentiates itself through clear communication, on-time delivery, and close collaboration with design professionals. A client testimonial describes the firm as a real family business offering great workmanship and value, highlighting its reputation for reliability and craftsmanship.
+The company emphasizes managing every project stage from concept to completion, highlighting clear communication, on-time delivery, and flawless results. It also notes close collaboration with architects and engineers to meet design and durability standards.
 
 ## Known for
-- Clear communication, on-time delivery, and flawless results on every project
-- Close collaboration with property owners, architects, and structural engineers
-- Family-owned business valued for workmanship and value
-- Full project management from concept to completion
+- Manages every project stage from concept to completion
+- Emphasizes clear communication, on-time delivery, and flawless results
+- Collaborates closely with property owners, architects, and structural engineers
 
 ## Capabilities
 - Custom metal fabrication
-- Welding (residential and construction-phase)
+- Welding
 - Structural steel fabrication
+- Gate fabrication
+- Handrail fabrication
+- Fence fabrication
 - Fire pit fabrication
 - Fireplace screen fabrication
-- Gate fabrication
-- Hand rail fabrication
-- Fence fabrication
 - Powder coating
-- Installation services
+- Installation
 
 ## Industries
 - Residential construction
 - Commercial construction
-- Architectural metalwork
+- Architecture
+- Structural engineering
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -309,14 +305,15 @@ Cave Creek Welding differentiates itself through clear communication, on-time de
 
 <details><summary>Sources</summary>
 
-- Founded 1979 -> /about-us
-- Family-owned -> /about-us (testimonial)
-- Location Cave Creek, AZ -> /
-- Products: Structural Steel, Fire Pits, Fireplace Screens, Gates, Hand Rails, Fences -> /
-- Services: custom metalwork, welding, fabrication, installation -> description
-- Collaborates with property owners, architects, structural engineers -> description
-- Clear communication, on-time delivery, flawless results -> description
-- Powder coating mentioned -> /about-us (testimonial)
+- Founded 1979 -> page '/'
+- Location Cave Creek, AZ -> page '/'
+- Family-owned -> page '/' (review)
+- Products: gates, handrails, fences, structural steel, fire pits, fireplace screens -> page '/'
+- Services: custom metal fabrication, welding, installation -> description
+- Industries: residential, commercial, architects, structural engineers -> description
+- Differentiators: clear communication, on-time delivery, flawless results, concept-to-completion management -> description
+- Collaboration with architects and engineers -> description
+- Powder coating mentioned -> page '/' (review)
 </details>
 
 ---
@@ -326,26 +323,25 @@ Cave Creek Welding differentiates itself through clear communication, on-time de
 **Old description:** We only use eco-friendly, soft inks to print our products. The difference is that our ink will never crack or peel.....period. Unlike our competitors, our inks breathe with the cloth and won't leave you with sweaty spots in the summertime. It's bliss.
 
 ## About
-Cavecloth operates from Springdale, Arkansas, in the Ozarks region. The company's founding year and ownership structure are not publicly disclosed, nor are its founders named in available sources. The brand positions itself as a local apparel label with the tagline "Made In the Ozarks."
+Cavecloth is based in Springdale, Arkansas, in the Ozarks region. The company operates as an apparel brand selling graphic tees and long-sleeve shirts through its online store, with a focus on designs that reference Arkansas landmarks and culture.
 
-The company designs and sells printed garments, primarily short- and long-sleeve T-shirts featuring Arkansas-centric graphics such as the "WU Pig," "Call It," "Woo Graphic," "Arkansas Home," and "Buffalo National River" designs. Cavecloth states it uses eco-friendly, soft inks for printing, emphasizing that the ink does not crack or peel and breathes with the fabric. No facility size, headcount, or production volumes are provided.
+The company designs and prints graphic apparel, including short-sleeve and long-sleeve shirts, using eco-friendly, soft inks that are said to not crack or peel. Products are organized into collections such as Ozark, Arkansas, and Spring/Summer, with specific designs like the WU Pig Short Sleeve, Wu Pig Arkansas Football Long Sleeve, and Buffalo National River Short Sleeve. The brand emphasizes that its inks breathe with the fabric and are made in the Ozarks.
 
-Cavecloth sells directly to consumers through its e-commerce website, offering free shipping on U.S. orders over $75. The product lineup includes multiple collections—Ozark, Arkansas, and Spring/Summer—with individual shirts priced around $25 to $30. No industrial or wholesale customer base is described in the source material.
+Cavecloth sells directly to consumers through its e-commerce website, offering free shipping on U.S. orders over $75. The brand targets customers seeking locally themed graphic tees, with designs referencing Arkansas landmarks and culture. The site features a shopping cart and product pages with multiple color options.
 
-The company highlights its ink formulation as a key differentiator: eco-friendly, crack- and peel-resistant, and breathable to avoid "sweaty spots in the summertime." The origin story or specific mission behind the brand is not detailed in the available information.
+The company states its differentiation comes from its ink technology: eco-friendly, soft inks that never crack or peel, breathe with the cloth, and prevent sweaty spots in warm weather, which it describes as 'bliss'.
 
 ## Known for
 - Eco-friendly, soft inks that do not crack or peel
-- Inks breathe with the fabric to reduce sweaty spots
-- Apparel printed and marketed as "Made In the Ozarks"
+- Inks breathe with the fabric to prevent sweaty spots
+- Apparel printed and made in the Ozarks
 - Free shipping on U.S. orders over $75
+- Locally themed graphic designs referencing Arkansas landmarks
 
 ## Capabilities
 - Apparel printing with eco-friendly inks
-
-## Industries
-- Apparel retail
-- Consumer goods
+- Graphic apparel design
+- Direct-to-consumer e-commerce
 
 ## Company details
 - **Company Type:** Retailer
@@ -353,14 +349,14 @@ The company highlights its ink formulation as a key differentiator: eco-friendly
 
 <details><summary>Sources</summary>
 
-- Headquartered in Springdale, Arkansas -> db
-- Sells printed apparel with Arkansas/Ozarks themes -> /
-- Uses eco-friendly, soft inks that do not crack or peel -> /
-- Inks breathe with fabric to avoid sweaty spots -> /
-- Markets products as 'Made In the Ozarks' -> /
-- Offers free shipping on U.S. orders over $75 -> /
-- Product prices range $25-$30 -> /
+- Location: Springdale, Arkansas -> db
+- Eco-friendly inks that don't crack or peel -> /
+- Inks breathe with cloth, prevent sweaty spots -> /
 - Collections: Ozark, Arkansas, Spring/Summer -> /
+- Product examples: WU Pig Short Sleeve, Wu Pig Arkansas Football Long Sleeve, Buffalo National River Short Sleeve -> /
+- Free shipping on US orders over $75 -> /
+- Made in the Ozarks -> /
+- Direct-to-consumer e-commerce -> /
 </details>
 
 ---
@@ -370,34 +366,36 @@ The company highlights its ink formulation as a key differentiator: eco-friendly
 **Old description:** Based in Blaine, Minnesota, Cedar Creek Energy is an electrical and general contractor with a specific focus on solar development, EPC services, maximizing system operation, and system maintenance. We design, install, and operate commercial solar PV arrays throughout the Midwest and have over 16 years of demonstrated experience with large, complex solar arrays. This combination of development, EPC services, and O&M under one roof makes us unique in the industry. We understand the drivers and constraints related to all aspects of the solar PV life cycle. We strive to provide the highest quality product for our clients, whether it’s a single opportunity or a larger portfolio of projects. Since 2007, we have successfully completed thousands of solar projects and EPC service contracts of all types and sizes.
 
 ## About
-Cedar Creek Energy operates from Blaine, Minnesota, where it was founded in 2007 as an electrical and general contractor specializing in solar energy. The company began with a focus on solar development, engineering-procurement-construction (EPC) services, and ongoing operations and maintenance, offering all three disciplines under a single organization.
+Cedar Creek Energy is based in Blaine, Minnesota, and has been operating since 2007. The company began as an electrical and general contractor with a dedicated focus on solar development, engineering, procurement, and construction (EPC), as well as operations and maintenance. No founders are named in public records.
 
-The firm designs, installs, and operates commercial photovoltaic arrays across the Midwest, integrating energy storage systems where required. Its scope covers full EPC delivery — from initial engineering and procurement through construction and commissioning — as well as long-term O&M support. To date, the company has completed thousands of solar projects of varying size and complexity.
+The firm designs, installs, and operates commercial solar photovoltaic arrays across the Midwest, delivering full EPC services from initial design through final commissioning. It also integrates energy storage systems with solar arrays. The company reports completing thousands of projects, including large, complex installations, though it does not disclose facility size or headcount.
 
-Primary customers are commercial and industrial property owners seeking to reduce operating expenses and hedge against rising utility rates. Cedar Creek Energy also assists clients with financing structures, incentive applications, and rebate programs, including Minnesota's Property Assessed Clean Energy (PACE) financing. The company has executed the first approved MnPACE-financed solar project in the state.
+Cedar Creek Energy serves commercial and industrial property owners. A notable project includes the first approved MnPACE (Property Assessed Clean Energy) financed project in Minnesota. Its customer base spans commercial real estate, industrial facilities, and other entities seeking to reduce energy costs through solar power.
 
-The integrated development-EPC-O&M model is cited as a key differentiator, allowing the team to manage the full solar asset lifecycle without handoffs between separate vendors. Leadership emphasizes transparent consulting, illustrated by instances where the company advised against installations that would not meet a client's energy-offset goals.
+The company states that its integration of development, EPC, and O&M under one roof distinguishes it in the market. It also highlights over 16 years of experience with complex solar arrays and recognition such as MNSEIA's 2024 Project of the Year and a 2025 Top Solar Contractor ranking by Solar Power World.
 
 ## Known for
 - Integrated development, EPC, and O&M under one roof
-- Thousands of commercial solar projects completed across the Midwest
-- Assistance with financing, incentives, and rebate programs including MnPACE
-- Energy storage integration with solar PV arrays
-- Transparent consulting that may recommend against uneconomical installations
+- Over 16 years of experience with large, complex solar arrays
+- Thousands of commercial solar projects completed
+- Energy storage system integration with solar arrays
+- Recognized as MNSEIA 2024 Project of the Year and 2025 Top Solar Contractor
 
 ## Capabilities
 - Solar PV system design
-- Solar PV installation
-- Engineering, Procurement, and Construction (EPC)
-- Operations and Maintenance (O&M)
+- Engineering, procurement, and construction (EPC)
+- Commercial solar installation
+- Solar operations and maintenance (O&M)
 - Energy storage system integration
-- Commercial solar project development
-- Financing and incentive consulting
-- MnPACE financing facilitation
+- Civil and electrical construction
+- On-call electrical service
+- Project financing and incentive optimization
+- MnPACE financing expertise
 
 ## Industries
-- Commercial real estate
+- Commercial
 - Industrial
+- Renewable energy
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -406,17 +404,22 @@ The integrated development-EPC-O&M model is cited as a key differentiator, allow
 
 <details><summary>Sources</summary>
 
-- Founded 2007 -> db
-- Headquarters Blaine, Minnesota -> db
-- Electrical and general contractor, solar development, EPC, O&M -> db
-- Designs, installs, operates commercial solar PV arrays in Midwest -> db
-- Thousands of projects completed -> db
-- Services: commercial solar panels, EPC, energy storage -> /
-- Assists with financing, rebates, incentives, MnPACE -> /
-- First approved MnPACE-financed project -> /
-- Awards: MNSEIA 2024 Project of the Year, 2025 Top Solar Contractor, Star Tribune Minnesota's Best -> /about-us
-- Integrated development-EPC-O&M model -> db
-- Transparent consulting, may advise against uneconomical installs -> /
+- Based in Blaine, Minnesota -> db
+- Founded in 2007 -> db
+- Electrical and general contractor with focus on solar development, EPC, O&M -> db
+- Designs, installs, operates commercial solar PV arrays throughout Midwest -> db
+- Over 16 years experience with large complex solar arrays -> db
+- Thousands of solar projects completed -> db
+- Integrated development, EPC, O&M under one roof -> db
+- Energy storage integration -> /
+- Commercial and industrial solar -> /
+- First approved MnPACE financed project -> db
+- MNSEIA 2024 Project of the Year -> /about-us
+- 2025 Top Solar Contractor by Solar Power World -> /about-us
+- Voted One of Minnesota's Best by Star Tribune -> /about-us
+- Civil and electrical construction services -> db
+- On-call electricians for service work -> db
+- Project financing and incentive optimization -> /
 </details>
 
 ---
@@ -426,61 +429,52 @@ The integrated development-EPC-O&M model is cited as a key differentiator, allow
 **Old description:** State-of-the-art facility serving the Aerospace, Defense and HealthTech markets.
 
 ## About
-Celestica operates a state-of-the-art facility in Maple Grove, Minnesota, focused on aerospace, defense, and health technology markets. The site joined Celestica's global network as a newer addition and was formerly known as AbelConn, LLC, which remains the legal entity. No founding year is disclosed for the Maple Grove operation.
+Celestica's Maple Grove, Minnesota site operates as a dedicated facility within the company's global network, focusing on highly regulated aerospace, defense, and health technology markets. The location was added to Celestica's footprint to provide a U.S.-based center of excellence for engineering, manufacturing, and after‑market services. The site's legal entity remains AbelConn, LLC, which was rebranded to Celestica Maple Grove.
 
-The Maple Grove site combines an in-house engineering center of excellence with on-site manufacturing, providing build-to-print production, electromechanical assembly, and obsolescence management. Capabilities span RF and systems engineering, design for manufacturing and test, prototype delivery in four to six weeks, and volume production of printed circuit card assemblies, chassis, line-replaceable units, and backplanes under ITAR compliance. The facility also serves as a center of excellence for product licensing, repair, and overhaul services, offering automated soldering, plating, conformal coating, and RFID-enabled smart shelving.
+The facility combines an in‑house engineering center of excellence with on‑site manufacturing, offering services that span design engineering, prototyping, build‑to‑print production, electromechanical assembly, and obsolescence management. Core manufacturing processes include printed circuit board assembly (surface‑mount, through‑hole, hybrid), chassis and line‑replaceable unit (LRU) assembly, backplane fabrication, automated soldering, plating, conformal and parylene coating, potting, underfill, staking, and bonding. The site also provides inspection and test, product certification, and repair and overhaul services for civil aircraft. Prototypes can be delivered in four to six weeks plus material lead times.
 
-Celestica Maple Grove serves commercial aerospace and defense primes, supplying high-reliability systems and sub-systems found on most commercial aircraft in service today, as well as defense programs operating in harsh land, sea, air, and space environments. In health technology, the site partners with early-stage innovators and multinational medical device companies to produce finished medical devices, leveraging regulatory expertise and supply chain resilience.
+Primary customers are commercial aerospace and defense primes requiring high‑reliability systems for aircraft, land, sea, air, and space platforms, as well as medical device companies ranging from startups to multinational brands. The site's ITAR‑compliant volume production and NADCAP‑qualified processes support defense programs, while its ISO 13485 certification enables medical device manufacturing.
 
-The company emphasizes accelerated time-to-market and quality through co-located engineering and manufacturing, predictive supply chain analytics, and a full-lifecycle approach from design through after-market support. Its differentiators include rapid prototyping, ITAR-compliant volume production, and integrated repair and overhaul capabilities.
+Celestica positions the Maple Grove site as a co‑located engineering and manufacturing hub that accelerates time‑to‑market through integrated design‑for‑manufacturing, supply‑chain risk management, and a certified repair‑and‑overhaul center of excellence. The company emphasizes its ability to scale from prototype to volume while maintaining continuity for mission‑critical products.
 
 ## Known for
 - Prototypes delivered in 4–6 weeks (plus material lead times)
-- ITAR-compliant volume production
-- Co-located engineering center of excellence and manufacturing
-- Center of excellence for product licensing, repair, and overhaul
-- Predictive supply chain risk management with analytics
+- ITAR‑compliant volume production with on‑site engineering center
+- Certified repair and overhaul center of excellence for civil aircraft
+- Co‑located design engineering and manufacturing under one roof
+- Full suite of certifications: AS9100, NADCAP, ISO 13485, ITAR, RoHS
 
 ## Capabilities
-- Engineering Services
-- RF Engineering
-- Systems Engineering
+- Design Engineering Services (RF Engineering, Systems Engineering)
 - BOM Analysis (RoHS, REACH, WEEE, Obsolescence)
 - Design for Manufacturing (DFM) and Design for Testability (DFT)
 - Test Development Strategy
 - Product Testing and Certification
 - Component Obsolescence and Production Continuity
-- CCA Manufacturing
-- Chassis and LRU Manufacturing
-- Backplane Manufacturing
+- Printed Circuit Board Assembly (Surface Mount, Through-Hole, Hybrid)
+- Chassis and LRU Assembly
+- Backplane Fabrication
 - ITAR-Compliant Volume Production
 - Electronics Assembly
 - Inspection and Test
 - Automated Soldering
 - Plating
 - Conformal Coating
-- Licensing and Repair & Overhaul (R&O)
-- Smart Shelving
-- RFID Tracking
-- Prototyping
-- Supply Chain Strategy
-- Industrialization
-- Process Qualification (Control Plans, PFMEA, Gage R&R)
-- Design for Supply Chain (DfSC)
+- Parylene Coating
+- Potting, Underfill, Staking & Bonding
+- Licensing and Repair & Overhaul Services
+- Smart Shelving / RFID Tracking
+- Prototyping (4-6 weeks)
+- Supply Chain Strategy (Risk Management, Obsolescence Planning)
+- Industrialization (Process Qualification, Scaling to Volume)
+- Sub-Assembly and Full Systems Assembly
+- Assembly Cleaning
 
 ## Industries
 - Aerospace
 - Defense
-- Commercial Aerospace
 - HealthTech
-- Medical Devices
-
-## Equipment
-- Automated soldering systems
-- Plating lines
-- Conformal coating systems
-- Smart shelving
-- RFID tracking systems
+- Commercial Aerospace
 
 ## Certifications
 - ITAR
@@ -495,18 +489,14 @@ The company emphasizes accelerated time-to-market and quality through co-located
 
 <details><summary>Sources</summary>
 
-- Maple Grove, Minnesota location -> /
-- Formerly AbelConn, LLC -> /
-- Engineering center of excellence co-located with manufacturing -> /
-- Build-to-print manufacturing, electromechanical product support, obsolescence management -> /
-- Center of excellence for product licensing, repair and overhaul services -> /
-- Certifications: ITAR, RoHS, AS9100, NADCAP, ISO13485 -> db
-- Prototypes in 4-6 weeks -> /
-- ITAR-compliant volume production -> /
-- Serves commercial aerospace and defense primes -> /
-- Partners with medical device companies -> /
-- Capabilities: RF engineering, systems engineering, BOM analysis, DFM/DFT, test development, product testing, component obsolescence, CCA/chassis/LRU/backplane manufacturing, electronics assembly, inspection, automated soldering, plating, conformal coating, licensing/R&O, smart shelving, RFID tracking -> /
-- Industries: Aerospace, Defense, Commercial Aerospace, HealthTech, Medical Devices -> db
+- Location: Maple Grove, Minnesota -> /
+- Legal entity: AbelConn, LLC rebranded to Celestica Maple Grove -> /
+- Services: engineering center, manufacturing, repair/overhaul, prototyping 4-6 weeks -> /
+- Processes: PCB assembly, chassis/LRU, backplane, automated soldering, plating, coatings, potting, inspection/test -> /
+- Certifications: ITAR, ROHS, AS9100, NADCAP, ISO13485 -> /
+- Industries: Aerospace, Defense, HealthTech, Commercial Aerospace -> /
+- Customer types: commercial aerospace/defense primes, medical device companies -> /
+- Differentiators: co-located engineering/manufacturing, supply chain risk management, repair/overhaul CoE -> /
 </details>
 
 ---
@@ -516,39 +506,41 @@ The company emphasizes accelerated time-to-market and quality through co-located
 **Old description:** At Centek Molding Co. we specialize in providing custom plastic injection molding solutions to businesses of all sizes. We are based in Buena Park, California, bringing over 35 years of expertise in plastic injection molding to the table. We are dedicated to delivering high-quality plastic components tailored to meet the specific needs of our clients. With a strong foundation and extensive experience in the plastics industry medical and custom, with fast turnarounds, Centek Molding ensures precision and reliability in every project we undertake.
 
 ## About
-Centek Molding Co. LLC operates from Buena Park, California. The company has accumulated over 35 years of experience in plastic injection molding, though a specific founding year is not disclosed. Ownership details and founder names are not publicly stated.
+Centek Molding Co. LLC operates from Buena Park, California, where it has provided custom plastic injection molding services for over 35 years. The company focuses on delivering precision plastic components to businesses of all sizes.
 
-The shop provides custom plastic injection molding services, including process development, mold testing, and qualification (IQ, OQ, PQ, DOE) using Decoupled Molding II techniques. Its press fleet spans 35 to 200 tons of clamping pressure with shot capacities from 0.13 to 13.10 ounces, supporting both low- and high-volume runs without a minimum order requirement. Additional capabilities cover rapid prototyping, insert and over molding, and mold construction or repair for hot-runner, cold-runner, core-pull, unscrew, and valve-gate systems.
+The shop runs injection molding machines ranging from 35 to 200 tons of clamping force with shot capacities of 0.13 to 13.10 ounces. It offers Decoupled Molding II processing, insert and over molding, and full validation support including IQ, OQ, PQ, and DOE. Prototyping, mold building, hot-runner and cold-runner tooling, and mold repair are also available. Production volumes span low to high quantities with no minimum order requirement.
 
-Centek serves customers across medical, industrial, construction, automotive, irrigation, electrical, household, and sports sectors. The company works with commodity, engineering, and specialty-grade plastics in any color.
+Centek serves the medical, industrial, construction, automotive, irrigation, electrical, household, and sports sectors. Customers range from original equipment manufacturers to product developers seeking rapid prototyping and full-scale production.
 
-Centek emphasizes consistent quality through qualified processes and inspection plans, sustainability via eco-friendly materials, and personalized customer support. Quick turnaround times and no minimum orders are highlighted as operational differentiators.
+The company emphasizes process qualification at the press, sustainability through eco-friendly materials, and personalized customer support. Its no-minimum-order policy and quick turnaround aim to reduce barriers for new product launches.
 
 ## Known for
-- No minimum order requirement
-- Quick turnaround times
-- Decoupled Molding II process with full IQ/OQ/PQ/DOE qualification
-- Press range 35–200 tons, shot sizes 0.13–13.10 oz
-- Eco-friendly materials and processes
+- No minimum order quantity
+- Quick turnaround on prototypes and production
+- Decoupled Molding II process for consistent quality
+- In-house IQ/OQ/PQ validation capabilities
+- Mold building, repair, and hot-runner expertise
 
 ## Capabilities
 - Plastic injection molding
-- Decoupled Molding II process
+- Decoupled Molding II
 - Insert molding
 - Over molding
-- Rapid prototyping
-- Mold building and modification
+- Prototyping
+- Mold building
+- Mold repair
+- Hot runner systems
+- Cold runner systems
+- Core pull mechanisms
+- Unscrewing mechanisms (air, hydraulic, electric)
+- Air gate valve shut off
 - Installation Qualification (IQ)
 - Operational Qualification (OQ)
 - Performance Qualification (PQ)
 - Design of Experiments (DOE)
 - Mold debugging
-- Hot runner mold systems
-- Cold runner mold systems
-- Core pull (air, hydraulic, electric)
-- Unscrew molding (air, hydraulic, electric)
-- Valve gate shut-off molding
-- Mold testing and process development
+- Process development
+- Mold testing
 
 ## Industries
 - Medical
@@ -566,16 +558,22 @@ Centek emphasizes consistent quality through qualified processes and inspection 
 
 <details><summary>Sources</summary>
 
-- Company name, location, description -> db
-- Over 35 years expertise, custom plastic injection molding, Buena Park, California -> /
-- Machines 35-200 tons clamping pressure, shot sizes 0.13-13.10 oz, no minimum order, quick turnaround -> /
-- Decoupled Molding II Process, IQ, OQ, PQ, DOE, Mold De-bug -> /
-- Insert and Over Molding, Hot Runner, Cold Runner, Core Pull, Unscrew, Air Gate Valve Shut Off -> /
-- Industries: Medical, Industrial, Construction, Automotive, Irrigation, Electrical, Household, Sports -> /
-- Mold building, modification, hot runner electrical troubleshooting -> /
-- Quality commitment, sustainability, eco-friendly materials -> /
-- Rapid prototyping services -> /
-- Address: 6905 Oslo Circle - Suite D, Buena Park, California 90621 -> /
+- Location: Buena Park, California -> /
+- Over 35 years of expertise -> /
+- Injection molding machines 35-200 tons, shot sizes 0.13-13.10 oz -> /
+- Decoupled Molding II Process -> /
+- Insert and Over Molding -> /
+- IQ/OQ/PQ/DOE validation services -> /
+- Prototyping services -> /
+- Mold building and repair -> /
+- Hot runner, cold runner, core pull, unscrew, air gate valve -> /
+- Industries served: Medical, Industrial, Construction, Automotive, Irrigation, Electrical, Household, Sports -> /
+- No minimum order requirement -> /
+- Quick turnaround time -> /
+- Commitment to quality, sustainability, personalized customer service -> /
+- Materials: commodity to engineering and specialty grades -> /
+- Company type: Manufacturer -> db
+- Headquarters: Buena Park, California -> db
 </details>
 
 ---
@@ -585,67 +583,64 @@ Centek emphasizes consistent quality through qualified processes and inspection 
 **Old description:** Since 2019, we’ve been outfitting work trucks from our Bryant shop. Service beds, racks, hitches, van shelving, and custom fab, all installed in-house by our team.
 
 ## About
-Central Arkansas Truck Outfitters was founded in 2019 in Bryant, Arkansas, by Carl Gann. After more than 35 years in the automotive industry, including a stint as general manager at T&B Auto Sales, Gann recognized a lack of local truck upfitting services in central Arkansas and opened the shop to fill that gap.
+Central Arkansas Truck Outfitters operates from a shop in Bryant, Arkansas, and has been outfitting work trucks since its founding in 2019. The business was started by Carl Gann, who brought more than 35 years of automotive experience—from sweeping floors to managing a commercial work‑truck dealership—after recognizing a lack of local upfitting services in central Arkansas. The company is owner‑operated and serves customers from Bryant, Benton, Little Rock, North Little Rock, Conway, Hot Springs, Maumelle, and Cabot.
 
-The company operates a full-service upfitting facility where it sells, installs, and fabricates work-truck equipment. Services include installation of Royal and Warner service bodies, flatbeds, Weather Guard and Ranger Design van shelving, Bedrock truck beds, Transfer Flow auxiliary fuel tanks, Kargo Master ladder racks, Feniex emergency lighting, and towing hardware from CURT, B&W, and NSA RV. The shop also performs custom welding and fabrication on-site, handles tonneau covers, lift kits, running boards, toolboxes, bed liners, and bumpers, and provides fleet outfitting for contractors and businesses. All work is done in-house at the Bryant location.
+The shop sells and installs a range of truck equipment, including Royal and Warner service bodies, Bedrock truck beds, Transfer Flow auxiliary fuel tanks, Kargo Master ladder racks, Weather Guard and Ranger Design van storage systems, CURT, B&W, and NSA RV towing hardware, and Feniex emergency lighting. All installations are performed in‑house, and the facility also provides custom welding and fabrication, lift‑kit and leveling‑kit installation, tonneau covers, bed liners, bumpers, and running boards. As Arkansas’ exclusive Royal Truck Body dealer, the company carries 22 authorized brands and handles fleet outfitting for contractors and businesses.
 
-Customers come from across central Arkansas — including Bryant, Benton, Little Rock, North Little Rock, Conway, Hot Springs, Maumelle, and Cabot — and represent contractors, service technicians, first responders, field crews, and fleet operators. As Arkansas’ exclusive dealer for Royal Truck Body, the shop supplies service bodies and flatbeds by fleets and contractors statewide. Membership in the Work Truck Association (NTEA) connects the company with commercial vehicle manufacturers and distributors.
+The primary customers are contractors, service technicians, first‑responder fleets, and other commercial‑vehicle operators who need their trucks or vans configured for daily work. The shop’s NTEA membership connects it to the broader work‑truck industry and keeps it current with commercial‑vehicle standards.
 
-Gann started the business after seeing that his former employer had to outsource upfitting work miles away, and he believed other local businesses faced the same challenge. The company emphasizes 100% in-house installation, a roster of 22 authorized dealer brands, and hands-on involvement from the owner to ensure parts fit correctly and jobs are done right.
+Gann founded the business because he saw that dealers in the area had to send repair and upfit work hours away, and he wanted to provide a local, hands‑on alternative. The company emphasizes that every job is done by the same people customers talk to, with 100 % in‑house installation and a focus on making each truck more functional for the working owner.
 
 ## Known for
-- Arkansas’ only Royal Truck Body dealer
+- Arkansas' only Royal Truck Body dealer
 - 100% in-house installation
 - 22 authorized dealer brands
+- NTEA / Work Truck Association member
 - Custom welding and fabrication on-site
-- NTEA (Work Truck Association) member
 
 ## Capabilities
 - Service body installation (Royal, Warner)
-- Flatbed installation
+- Truck bed cover installation (tonneau covers)
+- Hitch and towing equipment installation (CURT, B&W, NSA RV)
 - Van upfitting (Weather Guard, Ranger Design)
-- Hitch installation and towing equipment (CURT, B&W, NSA RV)
-- Tonneau cover installation
 - Lift kit and leveling kit installation
 - Truck accessory installation (running boards, toolboxes, bed liners, bumpers)
 - Custom welding and fabrication
 - Fleet outfitting
-- Emergency lighting installation (Feniex)
 - Auxiliary fuel tank installation (Transfer Flow)
 - Ladder rack installation (Kargo Master)
-- Bedrock truck bed installation
-- Royal High Profile Service Body installation
-- Royal Cutaway Mount installation
-- Royal Crane Body Standard installation
+- Emergency lighting installation (Feniex)
+- Gooseneck ball and fifth-wheel hardware installation
 
 ## Industries
 - Contractors
 - Service technicians
 - First responders
-- Field crews
-- Fleet operators
+- Fleets
+- Commercial vehicle operators
+- Work truck users
 
 ## Company details
 - **Company Type:** Installer / service company
 - **Founded:** 2019
+- **Ownership:** Owner-operated by Carl Gann
 - **Headquarters:** Bryant, Arkansas
 
 <details><summary>Sources</summary>
 
-- Founded 2019 in Bryant, Arkansas -> db
-- Owner Carl Gann with 35 years automotive experience -> /about-us
-- Started after noticing need for local upfitting while GM at T&B Auto Sales -> /about-us
-- Arkansas’ only Royal Truck Body dealer -> /
-- 100% In-House Installation -> /
-- 22 Authorized Dealer Brands -> /
-- Custom welding and fabrication done on-site -> /
-- NTEA (Work Truck Association) member -> /
-- Serves contractors, service techs, first responders, field crews, fleets -> /
-- Installs Bedrock, Transfer Flow, Kargo Master, Weather Guard, Ranger Design, Feniex, NSA RV, CURT, B&W -> /
-- Offers service bodies, flatbeds, van upfitting, hitches, tonneau covers, lift kits, accessories -> /
-- Fleet outfitting for contractors and businesses -> /
-- Address: 25633 I-30, Bryant, AR 72022 -> /
-- Phone: (501) 993-0848 -> /
+- Founded 2019 -> db, homepage
+- Headquarters Bryant, Arkansas -> db, homepage
+- Owner Carl Gann -> about-us page
+- Services: service beds, racks, hitches, van shelving, custom fabrication -> homepage
+- Brands: Royal, Warner, Bedrock, Transfer Flow, Kargo Master, Weather Guard, Ranger Design, CURT, B&W, NSA RV, Feniex -> homepage
+- Arkansas' only Royal Truck Body dealer -> homepage
+- 22 authorized dealer brands -> homepage
+- 100% in-house installation -> homepage
+- NTEA / Work Truck Association member -> homepage
+- Custom welding and fabrication on-site -> homepage
+- Serves contractors, service techs, first responders, fleets -> homepage
+- Customer cities: Bryant, Benton, Little Rock, North Little Rock, Conway, Hot Springs, Maumelle, Cabot -> homepage
+- Founded due to lack of local upfitting services -> about-us page
 </details>
 
 ---

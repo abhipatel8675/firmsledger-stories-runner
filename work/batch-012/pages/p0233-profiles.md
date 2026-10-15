@@ -3,45 +3,49 @@
 **Old description:** Native students receive free training that opens the door to a lifelong solar career, every class installs panels for families who need it most, and each kilowatt of solar installed prevents roughly 1.5 tons of CO₂ every year.
 
 ## About
-Red Cloud Renewable Energy Center operates from Pine Ridge, South Dakota, as a 501(c)(3) nonprofit dedicated to energy sovereignty for Native American communities. The organization’s founding year and individual founders are not publicly disclosed, but its structure is rooted in community-led empowerment rather than private ownership.
+Based in Pine Ridge, South Dakota, Red Cloud Renewable Energy Center operates as a 501(c)(3) nonprofit dedicated to advancing energy sovereignty in Native American communities. The organization’s founding date and original founders are not publicly disclosed, but its mission centers on providing free, hands-on training in solar installation, weatherization, and sustainable building practices.
 
-The center delivers free, hands-on training in solar photovoltaic installation, weatherization, and sustainable building practices. Each training cohort completes live installations on homes of families in need, turning education into immediate community benefit. The organization does not publish facility size, headcount, or annual installation volume.
+The center’s core activity is a workforce development program that combines classroom instruction with field work: each training cohort installs photovoltaic systems on homes of families identified as needing assistance most. This dual approach builds technical skills while delivering immediate energy cost reductions. The curriculum covers photovoltaic system design, safety protocols, and weatherization techniques aimed at improving home resilience in harsh climates. No facility size, headcount, or annual installation volume is published.
 
-Programs serve Native American students seeking careers in renewable energy and households on tribal lands facing high energy costs and harsh weather. The work spans workforce development, residential solar deployment, and home resilience — all framed under the banner of energy sovereignty.
+Red Cloud Renewable serves Native American students seeking careers in the green energy sector, as well as low-income households on reservations who receive the installed systems. Its work aligns with the broader renewable energy and weatherization industries, and the organization explicitly frames its impact under the banner of 'Support Energy Sovereignty.' Testimonials from program graduates highlight career placement and personal empowerment.
 
-Leadership frames the mission as a “new way to honor the old ways,” linking cultural values to modern clean-energy skills. The model aims to foster self-sufficiency, lower utility bills, and cut emissions — roughly 1.5 tons of CO₂ per kilowatt installed — while building a Native-led solar workforce.
+The organization states that its model is a 'new way to honor the old ways,' linking cultural values with modern sustainability. By offering training at no cost and coupling it with direct community installations, it aims to foster self-sufficiency, lower energy bills, and reduce carbon emissions—each kilowatt installed is said to prevent roughly 1.5 tons of CO2 annually.
 
 ## Known for
-- Free solar installation training for Native American students
-- Every training class installs panels on homes of families in need
-- Triple impact: workforce development, household energy relief, emissions reduction
-- Curriculum covers solar PV, weatherization, and sustainable building practices
+- One donation funds three outcomes: free solar training for Native students, a residential installation for a family in need, and measurable carbon reduction.
+- Training cohorts perform real-world installations as part of their curriculum.
+- Program focuses on energy sovereignty for Native American communities.
+- 501(c)(3) nonprofit status ensures mission-driven operation.
 
 ## Capabilities
 - Solar photovoltaic installation training
 - Weatherization training
-- Sustainable building practices training
-- Residential solar panel installation
-- Workforce development for renewable energy
+- Sustainable building practices education
+- Residential solar panel installation (as part of training)
+- Workforce development for renewable energy careers
 
 ## Industries
-- Energy Sovereignty
+- Support Energy Sovereignty
+- Renewable energy
+- Weatherization
+- Solar energy
 
 ## Company details
 - **Company Type:** Installer / service company
-- **Ownership:** 501(c)(3) nonprofit
 - **Headquarters:** Pine Ridge, South Dakota
 
 <details><summary>Sources</summary>
 
-- Location: Pine Ridge, South Dakota -> db
-- Legal status: 501(c)(3) nonprofit -> /
-- Mission: empower Native American communities through solar installation, weatherization, sustainable building education -> /about
-- Free training for Native students in solar installation and weatherization -> /
+- Headquarters: Pine Ridge, South Dakota -> db
+- Organization type: 501(c)(3) nonprofit -> /
+- Mission: empowers Native American communities through education in solar installation, weatherization, sustainable building -> /, /about
+- Free training for Native students in solar installation -> /
 - Each class installs panels for families in need -> /
-- Each kW installed prevents ~1.5 tons CO2/year -> /
-- Focus on energy sovereignty -> db
-- No founding year, founders, headcount, facility size, volume, equipment, certifications, materials, lead times, tolerances, CAGE code, min order, export compliance, languages, or social links stated -> /, /about
+- Environmental impact: each kW solar prevents ~1.5 tons CO2 per year -> /
+- Testimonials from program graduates (Rachael La Friniere, Gail Hubbeling, Keva New Holy) -> /
+- BRIDGE program mentioned -> /
+- Industries served: Support Energy Sovereignty -> db
+- Website: https://www.redcloudrenewable.org/ -> db
 </details>
 
 ---
@@ -51,29 +55,30 @@ Leadership frames the mission as a “new way to honor the old ways,” linking 
 **Old description:** RedLand specializes in customized residential stainless steel kitchens.
 
 ## About
-Redland Sheet Metal operates from Oklahoma City, Oklahoma, where it was founded in 1991. The company is minority-owned, though the founders' names are not publicly disclosed.
+Redland Sheet Metal operates from Oklahoma City, Oklahoma, where it was founded in 1991. The company is certified as minority-owned, though the names of its founders and the circumstances of its start are not publicly documented.
 
-The shop focuses on custom fabrication of residential stainless steel kitchens, producing made-to-order countertops, cabinetry, and related components. Facility size, headcount, and annual volume are not published.
+The shop focuses on custom fabrication of residential stainless steel kitchens, producing countertops, cabinetry, and integrated appliances tailored to individual projects. Its capabilities center on custom fabrication, with no disclosed facility size, headcount, or annual volume. The primary material worked is stainless steel.
 
-Its primary customers are homeowners, builders, and designers seeking tailored stainless-steel kitchen solutions for residential projects. No specific commercial or industrial sectors are cited.
+The primary customers are homeowners, contractors, and designers involved in residential construction and kitchen remodeling. The company serves the residential construction, kitchen remodeling, and interior design sectors, with its work appearing in custom home builds and renovation projects that specify stainless steel surfaces.
 
-The company states that quality and customer service are its priority, a principle it says guides every project from design through installation.
+Redland Sheet Metal states that quality and customer service are its guiding priorities, a principle it lists alongside its fabrication services as a core differentiator. This emphasis on quality and customer service is presented as a key reason clients choose the firm.
 
 ## Known for
-- Specializes in customized residential stainless steel kitchens
-- Minority-owned business
-- Custom fabrication focus
-- Quality and customer service emphasized as priority
+- Custom fabrication of residential stainless steel kitchens
+- Stated priority on quality and customer service
+- Minority-owned certification
 
 ## Capabilities
-- custom fabrication
+- Custom fabrication
+- Stainless steel kitchen fabrication
 
 ## Industries
 - Residential construction
-- Residential kitchens
+- Kitchen remodeling
+- Interior design
 
 ## Certifications
-- MINORITY-OWNED
+- Minority-owned
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -84,11 +89,11 @@ The company states that quality and customer service are its priority, a princip
 <details><summary>Sources</summary>
 
 - Founded in 1991 -> db
-- Headquartered in Oklahoma City, Oklahoma -> db
+- Headquarters in Oklahoma City, Oklahoma -> db
 - Minority-owned certification -> db
 - Specializes in customized residential stainless steel kitchens -> db
-- Offers custom fabrication services -> db
-- States quality and customer service as priority -> db
+- Capabilities include custom fabrication -> db
+- Quality & Customer Service Are Our Priority stated -> db
 </details>
 
 ---
@@ -98,43 +103,43 @@ The company states that quality and customer service are its priority, a princip
 **Old description:** New battery technology is making it possible to back up a home for hours or even days. Redstone Solar offers several different battery configurations. Learn more about batteries and the latest products.
 
 ## About
-Redstone Solar is based in Provo, Utah. The company's founding year and ownership structure have not been publicly disclosed, and no founders are named in available materials.
+Redstone Solar is a solar energy installation company based in Provo, Utah. The firm provides residential and commercial solar panel and battery storage systems across Utah County, including projects in Provo and Orem.
 
-The firm provides turnkey solar and battery installation services for homes and businesses. Its service lineup includes solar panel installation, battery storage integration, system maintenance and repair, pest guard installation, electric-vehicle charger installation, panel cleaning, snow removal, and uninstall/reinstall services for re‑roofing projects. The company also handles design, permitting, and final commissioning, coordinating with local building departments to secure code‑compliant systems. Project examples cited on its site range from a pre‑wired residential installation in Provo to a commercial solar‑plus‑battery system for a woodworking shop in Orem.
+The company's core services span solar panel installation, battery installation (including LG and Generac systems), maintenance and repair, pest guard installation, EV charger installation, solar panel cleaning, snow removal, and uninstall/reinstall for reroofing. Its installation crew handles design, permitting, and commissioning in-house, with municipal permit processing typically taking two to four weeks. The company also offers remote assessments for initial consultations.
 
-Redstone Solar serves residential and commercial customers primarily in Utah. Its residential work includes retrofits and new‑construction pre‑wiring, while commercial projects feature brands such as LG and Generac. The company also markets its services to homeowners seeking backup power during outages and businesses aiming to offset electricity costs.
+Redstone Solar serves homeowners and businesses seeking to reduce electricity costs and environmental impact. Residential customers include homeowners in Provo and Orem, while commercial clients include a woodworking shop in Orem that installed a Generac solar and battery system to offset electricity use. The company works with products from LG Solar Panels, LG Battery, and Generac.
 
-The company emphasizes craftsmanship, stating that its installation crew delivers the cleanest looking installations in the state and uses products designed to last a lifetime. It also offers remote assessments, allowing consultants to develop customized proposals without an initial site visit.
+Redstone Solar emphasizes craftsmanship, describing its installations as the cleanest looking in the state, and selects products designed to last a lifetime. The firm was started to help Utah residents take advantage of the state's solar potential amid rising electricity costs and a grid largely powered by coal.
 
 ## Known for
 - Cleanest looking installations in the state
+- Remote assessments for initial consultations
+- Customized proposals from trained energy consultants
+- In-house design, permitting, and commissioning
 - Products selected for lifetime durability
-- Remote assessment option for initial consultations
-- In‑house engineering for design and permitting
-- Experienced installation crew focused on craftsmanship
 
 ## Capabilities
 - Solar panel installation
-- Battery storage installation
-- System maintenance and repair
+- Battery installation
+- Maintenance & repair
 - Pest guard installation
 - EV charger installation
 - Solar panel cleaning
 - Panel snow removal
-- Uninstall/reinstall and re‑roofing
-- Design and permitting
-- Commissioning and final inspection
+- Uninstall/reinstall & reroofing
+- Design & permitting
+- Commissioning
 
 ## Industries
 - Residential solar
 - Commercial solar
+- Battery storage
 - Renewable energy
-- Construction (roofing)
 
 ## Equipment
 - LG Solar Panels
 - LG Battery
-- Generac solar panel and battery system
+- Generac
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -142,15 +147,14 @@ The company emphasizes craftsmanship, stating that its installation crew deliver
 
 <details><summary>Sources</summary>
 
-- Headquarters: Provo, Utah -> db
-- Services: solar installation, battery installation, maintenance & repair, pest guard installation, EV charger installation, solar panel cleaning, panel snow removal, uninstall/reinstall & reroofing -> /services
+- Location: Provo, Utah -> db
+- Services: solar installation, battery installation, maintenance, pest guard, EV charger, cleaning, snow removal, uninstall/reinstall -> /services
+- Brands: LG Solar Panels, LG Battery, Generac -> /
 - Process: consultation, design & permitting, installation, commissioning -> /about
-- Residential project example: Provo Utah customer prewired during construction -> /
-- Commercial project example: Orem woodworking shop with Generac solar panel and battery system -> /
 - Differentiator: cleanest looking installations in the state -> /about
-- Differentiator: products that will truly last a lifetime -> /about
 - Remote assessments offered -> /
-- Equipment brands: LG Solar Panels, LG Battery, Generac -> / and /services
+- Residential and commercial projects in Provo, Orem -> /
+- Municipal permit processing 2-4 weeks -> /about
 </details>
 
 ---
@@ -160,44 +164,36 @@ The company emphasizes craftsmanship, stating that its installation crew deliver
 **Old description:** REED has designed and manufactured high quality, comfortable, protective workwear since 1919. Are you ready to elevate your look while meeting industry standards?
 
 ## About
-Reed Manufacturing Co. Inc. was founded in 1919 by three brothers—Rex, Bob, and A.K. Reed—in a Tupelo, Mississippi warehouse as a dry-goods business. The company was rebranded Reed Manufacturing Co. in 1959 and transitioned to employee ownership in 2014 after a buyout of the Reed family.
+Reed Manufacturing Co Inc is headquartered in Tupelo, Mississippi, where it was founded in 1919 by three brothers — Rex, Bob, and A.K. Reed — as a dry‑goods operation in an old warehouse. The company remained family‑run for nearly a century before the employees purchased the business in 2014, making it an employee‑owned enterprise.
 
-The company designs and manufactures workwear including flame-resistant shirts, poly-cotton crew shirts, food-service coats, and enhanced-visibility garments. Production moved offshore in 2007, with facilities in the Dominican Republic (Ginatex and Overseas Jeans Co.), while customization, embroidery, RFID tagging, and reflective-tape application are performed at its Tupelo distribution center. Reed also operates a proprietary inventory-management system that supports consignment programs and forecasting for distributors.
+The company designs and manufactures a range of workwear, including flame‑resistant shirts and coveralls, food‑service coats, enhanced‑visibility shirts, and poly‑cotton or 100% cotton crew shirts. Production shifted offshore in 2007 after the acquisition of manufacturing facilities in the Dominican Republic (1992, 1997), while a distribution center in Tupelo handles customization — reflective tape application, hemming, pocket additions, embroidery, and RFID chip insertion — and runs a proprietary inventory‑management and forecasting system used for over 50 years. Custom garments are offered with very low minimum order quantities, either under the Reed brand or as private label.
 
-Reed serves industrial, utility, food-processing, and safety-focused markets through a wholesale distributor network. Long-standing customers have included Mission Linen (consignment partner since 1986) and formerly major retailers such as JCPenney, Sears, and Mervyn’s. The product line spans FR-rated GlenGuard shirts, ANSI-compliant reflective apparel, and private-label uniform programs.
+Reed serves wholesale distributors and direct industrial customers in food processing, general industrial safety, and sectors requiring flame‑resistant or high‑visibility apparel such as oil and gas, utilities, and construction. Its catalog includes dozens of SKUs for FR garments, food‑service coats, and enhanced‑visibility shirts, all sold through a distributor network.
 
-The founders’ original vision—high-quality garments, fair pricing, timely delivery, and unshakable integrity—remains the stated differentiator. Reed emphasizes its dual heritage in fashion and uniform apparel, low-minimum custom garment design, and a 50-year-old inventory system that reduces freight costs and stock obsolescence.
+The company emphasizes its long‑standing commitment to “integrity in every stitch,” citing fair pricing, timely delivery, and product durability as core values. Its inventory‑management program is presented as a unique differentiator that helps customers reduce carrying costs, freight expenses, and order‑processing labor.
 
 ## Known for
-- Proprietary inventory management system with forecasting and consignment capabilities
-- Local customization at Tupelo distribution center (130+ retrofit codes)
-- Custom garment design with extremely low minimums
-- ANSI-rated FR and non-FR reflective tape application
-- Employee-owned since 2014
+- Proprietary inventory management and forecasting system used for over 50 years
+- Local customization of all stock garments at Tupelo distribution center (reflective tape, hemming, pockets, embroidery, RFID)
+- Over 130 active retrofit codes for garment modifications
+- Custom garment design and manufacturing with extremely low minimums
+- Employee‑owned since 2014
 
 ## Capabilities
-- Flame-resistant garment manufacturing
-- Poly-cotton blend garment manufacturing
-- Food service coat manufacturing
-- Enhanced visibility garment manufacturing
-- Garment customization (reflective tape application)
-- Hemming
-- Pocket addition
-- Embroidery and emblem sewing
-- RFID chip integration
-- Custom garment design and sourcing
-- Private label manufacturing
-- Inventory management and forecasting
+- Flame‑resistant garment manufacturing
+- Food‑service coat manufacturing
+- Enhanced‑visibility shirt manufacturing
+- Garment customization (reflective tape application, hemming, pocket addition, embroidery, RFID chip insertion)
+- Custom garment design and manufacturing (private label or Reed branded)
+- Inventory management and forecasting services
 - Consignment program management
-- Distribution and warehousing
 
 ## Industries
-- Industrial workwear
-- Flame-resistant clothing (oil & gas, electrical, utilities)
-- Food processing and service
-- Enhanced visibility safety apparel (construction, roadwork)
-- Uniform rental and laundry
-- Wholesale distribution
+- Food service
+- Industrial safety
+- Flame‑resistant workwear
+- Enhanced‑visibility workwear
+- Wholesale workwear distribution
 
 ## Certifications
 - ANSI
@@ -205,28 +201,23 @@ The founders’ original vision—high-quality garments, fair pricing, timely de
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1919
-- **Ownership:** Employee-owned
+- **Ownership:** Employee‑owned (since 2014), Family‑owned (1919‑2014)
 - **Headquarters:** Tupelo, Mississippi
 
 <details><summary>Sources</summary>
 
 - Founded 1919 by Rex, Bob, and A.K. Reed in Tupelo, Mississippi -> /about
-- Employee-owned since 2014 -> /about
-- Manufactures FR shirts, poly-cotton crew shirts, food service coats, enhanced visibility shirts -> /
-- Customization services: reflective tape, hemming, pockets, embroidery, RFID -> /services
-- Inventory management system with forecasting and consignment -> /services
-- Facilities in Dominican Republic (Ginatex, Overseas Jeans Co.) -> /about
-- ANSI-rated reflective tape -> /services
-- Low minimums for custom garments -> /services
-- Materials: 65/35 poly-cotton, 7.2 oz spun poly, GlenGuard FR fabrics -> /
-- Headquarters Tupelo, Mississippi -> db
-- Certification: ANSI -> db
-- Former retail customers JCPenney, Sears, Mervyn's -> /about
-- Consignment partner Mission Linen since 1986 -> /about
-- Transition offshore completed 2007 -> /about
-- Company renamed Reed Mfg Co. 1959 -> /about
-- Ed Nelson became CEO 1994 -> /about
-- Zeb Atkinson became President & CEO 2020 -> /about
+- Employee‑owned since 2014 -> /about
+- Manufactures FR garments, food‑service coats, enhanced‑visibility shirts -> /
+- Offshore manufacturing facilities in Dominican Republic (1992, 1997) -> /about
+- Distribution center in Tupelo handles customization -> /services
+- Proprietary inventory management system for 50+ years -> /services
+- Over 130 active retrofit codes -> /services
+- Custom garments with extremely low minimums -> /services
+- Materials: poly‑cotton, 100% cotton, GlenGuard FR, 7.2 oz spun poly -> /
+- ANSI certification -> db
+- Industries: food service, industrial safety, FR workwear, enhanced visibility -> /, /about
+- Wholesale distributor network -> /
 </details>
 
 ---
@@ -236,57 +227,62 @@ The founders’ original vision—high-quality garments, fair pricing, timely de
 **Old description:** is a full service welding Wichita shop in Kansas. We offer a variety of custom metal fabrication services, and we have the machining and welding capabilities to fulfill any size custom order or special project. We offer the widest range of metals available – steel, stainless steel, aluminum, copper, brass as well as a large line of specialty metals and accessories. We also offer plasma, laser and waterjet operations. Welding Wichita is our specialty, no order size is too small or large. We are committed to providing you the finest service available. Our goal is to have steel available for you when you need it. For more than 120 years we have worked hard to make sure that we have fair and competitive products and pricing. When you put our years of experience and quality workmanship together with our pricing, you will know that you have come to the best.
 
 ## About
-Reeves Custom Metals Inc operates from Wichita, Kansas, where it was founded in 1897 as Reeves Brothers Blacksmith Shop in the city’s Delano district. The business remains family-owned, now in its fifth generation, and is located at 116 North Osage, one block north of the original site.
+Reeves Custom Metals operates from Wichita, Kansas, where the Reeves family has provided metal services in the Delano district for five generations. The business traces its roots to 1897, when Reeves Brothers Blacksmith Shop opened (now West Douglas). The current facility sits one block north of that original site
 
-The shop provides full-service welding and custom metal fabrication, including high-definition plasma cutting, laser cutting, waterjet cutting, tube laser cutting, shearing, sawing, press brake forming, sheet and plate rolling, flame cutting, and CNC plasma shape cutting. It also offers AutoCAD design, general and machine repair, and weld processes such as arc, gas, MIG, and TIG. The company stocks a wide range of metals—steel, stainless steel, aluminum, copper, brass, and specialty alloys—and sells remnants with no minimum order quantity; out-of-stock items are typically replenished in one to two days.
+The shop delivers full-service custom metal fabrication, including welding (MIG, TIG, arc, and gas), cutting (high-definition plasma, laser, waterjet, tube laser, flame, and shearing), and forming (press brake, sheet rolling, hand brake, English wheel, power hammer, and CNC tube bending). It also offers CNC plasma shape cutting, sawing to length, AutoCAD design, general machine repair, and finishing. The company stocks a broad inventory of carbon steel, stainless steel, aluminum, copper, brass, and specialty alloys, plus remnants, with no minimum order requirement.
 
-Reeves Custom Metals serves customers across various industries in Kansas and beyond, though specific sectors are not detailed in its public materials. Its capabilities support fabrication, cutting, forming, and welding needs for both small and large orders.
+Reeves serves a range of industries that require custom metalwork, from structural fabrication to precision components. Customers include manufacturers, contractors, and repair operations that need everything from single prototypes to larger production runs. The shop’s aluminum welding expertise accounts for roughly 90 percent of its welding work, while its forming equipment handles both light-gauge sheet and heavy plate.
 
-The company emphasizes its long heritage, fair and competitive pricing, and commitment to having material available when needed. Differentiators include five generations of family ownership, no minimum order requirements, quick restocking, and a remnant inventory that provides cost-effective options for smaller projects.
+The company emphasizes immediate availability—non-stock metals typically arrive in one to two days—and a no-minimum-order policy on material sales. Its longevity is attributed to fair pricing, a wide metal selection, and a commitment to service that has persisted since the blacksmith era.
 
 ## Known for
-- Family-owned for five generations since 1897
 - No minimum order quantity on metal purchases
-- Out-of-stock metal items typically available in 1–2 days
-- Remnant inventory sold for cost-effective small projects
-- Wide range of metals including specialty alloys and accessories
+- Non-stock metals typically available in 1–2 days
+- Five generations of family ownership since 1897
+- Aluminum welding represents approximately 90% of welding output
+- In-house laser, waterjet, and tube laser cutting capabilities
 
 ## Capabilities
 - Custom metal fabrication
-- Welding (Arc, Gas, MIG, TIG)
+- MIG welding
+- TIG welding
+- Arc welding
+- Gas welding
 - High-definition plasma cutting
-- CNC plasma shape cutting
 - Laser cutting
 - Waterjet cutting
 - Tube laser cutting
-- Shearing
-- Sawing (band saws, chop saws)
+- Flame cutting
+- Shearing (up to 3/4" mild steel, 3/4" aluminum, 3/8" stainless steel)
+- Sawing (cut to length, band saws, chop saws)
 - Press brake forming
 - Sheet & plate rolling
-- Flame cutting
-- Tube bending (manual and CNC)
-- Sheet metal forming (hand brake, sheet roller, English wheel, power hammer, shrinking/stretching)
+- Sheet metal forming (hand brake, English wheel, power hammer, shrinking/stretching)
+- CNC tube bending
+- Manual tube bending
+- CNC plasma shape cutting
 - AutoCAD design
-- General and machine repair
-- Metal sales (stock and remnants)
+- General machine repair
 - Finishing
 - Material handling
+- Metal stock sales
+- Remnant sales
 
 ## Equipment
-- High-definition plasma cutter
+- CNC plasma cutter
 - Laser cutter
 - Waterjet cutter
 - Tube laser cutter
-- Shear
+- Press brake
+- CNC tube bender
 - Band saws
 - Chop saws
-- Press brake
 - Hand brake
 - Sheet roller
 - English wheel
 - Power hammer
 - Shrinking/stretching machine
-- CNC tube bending equipment
+- Shearing equipment
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -296,21 +292,37 @@ The company emphasizes its long heritage, fair and competitive pricing, and comm
 
 <details><summary>Sources</summary>
 
-- Founded 1897 as Reeves Brothers Blacksmith Shop in Delano, Wichita -> /about-us
+- Founded 1897 as Reeves Brothers Blacksmith Shop -> /about-us
 - Family-owned for five generations -> /about-us
-- Headquarters at 116 N Osage, Wichita, Kansas -> /about-us
+- Located in Wichita, Kansas (Delano area) -> /about-us
+- Current address 116 N Osage -> /about-us
 - Full-service welding and custom metal fabrication -> /
-- High-definition plasma cutting, laser cutting, waterjet cutting, tube laser cutting -> /services
-- Shearing, sawing, press brake forming, sheet & plate rolling, flame cutting, CNC plasma shape cutting -> /
+- Machining and welding capabilities for any size order -> /
+- Metals offered: steel, stainless steel, aluminum, copper, brass, specialty metals -> /
+- Plasma, laser, and waterjet operations -> /
+- No minimum on metal orders -> /
+- Non-stock metals available in 1-2 days -> /
+- Sells remnants -> /
+- Shearing up to 3/4" mild steel, 3/4" aluminum, 3/8" stainless steel -> /
+- Sheet & plate rolling, press brake forming, CNC plasma shape cutting, flame cutting, sawing -> /
 - AutoCAD design, general and machine repair -> /
 - Weld processes: Arc, Gas, MIG, TIG -> /
-- Stock metals: steel, stainless steel, aluminum, copper, brass, specialty metals -> /
-- No minimum order on metal purchases -> /
-- Out-of-stock items typically available in 1-2 days -> /
-- Remnant inventory sold -> /
-- Equipment: high-definition plasma cutter, laser cutter, waterjet cutter, tube laser cutter, shear, band saws, chop saws, press brake, hand brake, sheet roller, English wheel, power hammer, shrinking/stretching machine, CNC tube bending equipment -> /services
-- Materials: cold rolled metals, AR plate, bar grating, structural shapes (angle, channel, tubing, beam, plate, rebar) -> / and /services
-- Company type inferred from custom fabrication services -> /
+- Metal stock list (angle, channel, tubing, flat, rebar, etc.) -> /
+- Other metals sold: aluminum, stainless steel, cold rolled, round tubing, AR plate, bar grating -> /
+- Aluminum welding expertise (90% of work) -> /services
+- MIG welding on various metals -> /services
+- Laser cutting for carbon steel, stainless, aluminum, alloys -> /services
+- Waterjet cutting for variety of materials -> /services
+- Tube laser cutting -> /services
+- Shearing up to 12' wide, 0.375" mild steel, 0.25" aluminum, 0.25" stainless -> /services
+- Sawing with automated/programmable band saws and chop saws -> /services
+- Press brake with layout software -> /services
+- Sheet forming: hand brake, sheet roller, English wheel, power hammer, shrinking/stretching machine -> /services
+- Tube bending: manual and CNC equipment for steel and aluminum -> /services
+- CAD, finishing, material handling -> /services
+- Metal sales and remnant sales -> /services
+- Headquarters city/state from database -> db
+- Company type inferred from custom fabrication services -> db
 </details>
 
 ---
@@ -320,27 +332,25 @@ The company emphasizes its long heritage, fair and competitive pricing, and comm
 **Old description:** vacuum forming, production run tooling, 5-axis CNC part routing, assembly and more
 
 ## About
-Reliable Formed Plastics was founded in 1996 in Birmingham, Alabama. The company operates as a manufacturer of custom vacuum-formed and thermoformed plastic products, building a reputation over more than 30 years in the industry. No founders or ownership details are disclosed.
+Founded in 1996, Reliable Formed Plastics LLC has operated from Birmingham, Alabama for nearly three decades. The privately owned manufacturer specializes in custom vacuum-formed and thermoformed plastic components, offering a full range of services from prototype mold design and fabrication through production-run tooling, 5-axis CNC routing, and final assembly. The company's Birmingham facility supports both low-volume prototyping and high-volume production, shipping finished parts to customers throughout the United States and Canada.
 
-The shop provides end-to-end capabilities including prototype mold fabrication, vacuum forming, production run tooling, 5-axis CNC part routing, and assembly. With over three decades of experience, it serves a client base spanning the United States and Canada, handling projects from prototype to production volumes.
+Its customer base spans medical device manufacturers, consumer product brands, automotive and transportation suppliers, aerospace and defense contractors, food and beverage packagers, retail display producers, marine equipment builders, technology firms, healthcare providers, industrial OEMs, and aviation companies. The firm works with original equipment manufacturers and industrial end-users alike, delivering parts that meet stringent quality requirements.
 
-Its customers come from sectors such as medical devices, consumer products, automotive and transportation, aerospace and defense, food and beverage, retail, marine, technology, healthcare, industrial OEM, and aviation.
-
-The company emphasizes its ISO 9001 and AS9100 Rev. D certifications, a commitment to on-time delivery of defect-free parts, and a mission to exceed expectations in quality, service, and pricing without surprises.
+Reliable Formed Plastics holds ISO 9001 and AS9100 Rev. D certifications, reflecting a quality management system tailored for aerospace and general manufacturing. The company cites its 30-plus years of experience, end-to-end in-house capabilities, and a pledge to deliver on time with no surprises as the key reasons customers choose them.
 
 ## Known for
 - ISO 9001 and AS9100 Rev. D certified
-- Over 30 years of custom vacuum-forming experience
+- Over 30 years of custom vacuum forming experience
 - Serves customers across the U.S. and Canada
-- End-to-end in-house capabilities from mold fabrication to assembly
-- Focus on on-time delivery and defect-free products
+- End-to-end in-house capabilities from prototype mold to assembly
+- Commitment to on-time delivery with no surprises
 
 ## Capabilities
 - Vacuum forming
 - Thermoforming
 - Prototype mold fabrication
 - Production run tooling
-- 5-axis CNC part routing
+- 5-axis CNC routing
 - Assembly
 
 ## Industries
@@ -348,7 +358,7 @@ The company emphasizes its ISO 9001 and AS9100 Rev. D certifications, a commitme
 - Consumer Products
 - Automotive & Transportation
 - Aerospace & Defense
-- Food and Beverage
+- Food & Beverage
 - Retail
 - Marine
 - Technology
@@ -368,39 +378,105 @@ The company emphasizes its ISO 9001 and AS9100 Rev. D certifications, a commitme
 <details><summary>Sources</summary>
 
 - Founded 1996 -> db
-- Headquarters Birmingham, Alabama -> /
-- ISO 9001 and AS9100 Rev. D certified -> /
-- Capabilities: prototype mold fabrication, vacuum forming, production run tooling, 5-axis CNC part routing, assembly -> /
-- Industries served: medical device, consumer products, automotive & transportation, aerospace & defense, food and beverage, retail, marine, technology, healthcare, industrial/OEM, aviation -> /, /about
-- Over 30 years experience -> /
-- Serves U.S. and Canada -> /
-- Mission: exceed expectations in quality, service, on-time delivery -> /
-- AS9100 Rev. D certification -> /about
-- Company type: plastic manufacturing company -> /
+- Headquarters Birmingham, Alabama -> db, /, /about
+- ISO 9001 and AS9100 Rev. D certified -> /, /about
+- Capabilities: vacuum forming, thermoforming, prototype mold fabrication, production run tooling, 5-axis CNC routing, assembly -> /, /about
+- Industries served: medical device, consumer products, automotive & transportation, aerospace & defense, food & beverage, retail, marine, technology, healthcare, industrial/OEM, aviation -> /, /about
+- Serves U.S. and Canada -> /, /about
+- Over 30 years experience -> /, /about
+- Commitment to on-time delivery, no surprises -> /
 </details>
 
 ---
 
 # Renaissance Design Group
 
-_skipped: not enough facts_
+**Old description:** Craftsman, Mike Fanslau, specializes in small buildings (he sheds/she sheds), outhouses, pet shelters & benches. Common builds include: custom coffee tables, memory tables, mantels, bar tops, counter tops, unique office desks, headboards and footboards. Other projects may include: taxidermy plaques,  charcuterie boards, cutting boards, cribbage boards and more… There are No Limits.
+
+## About
+Renaissance Design Group operates from St. Cloud, Minnesota, where craftsman Mike Fanslau launched the operation in 2018 with the purchase of a Timberking portable sawmill. Fanslau, who grew up around woodworking through his father and an uncle who ran a circular sawmill, expanded the shop in 2019 to accommodate larger projects and added kiln capacity for year-round milling.
+
+The company transforms salvaged logs into custom furniture, small structures, and architectural lumber. Services include on-site sawmilling up to 36 inches in diameter, drying in an indoor dehumidification kiln (nine-foot capacity) and a solar kiln (14-foot slabs), and planing up to 25 inches wide and 12 feet long. Fanslau builds he-sheds, she-sheds, outhouses, pet shelters, benches, and a range of epoxy-finished pieces such as coffee tables, mantels, bar tops, and memory tables. The shop also offers epoxy mentorship and a la carte milling services for DIY customers.
+
+Customers include homeowners preserving sentimental trees, residential builders sourcing lumber from lot clearing, and commercial projects seeking Carbon Smart Wood—architectural-grade material from urban salvage. The company picks up downed logs with a hoisted trailer and maintains a rotating inventory of Minnesota hardwoods (oak, ash, maple, walnut, cherry) and softwoods (pine, spruce, fir, tamarack).
+
+Fanslau emphasizes the reuse of meaningful timber, offering coaching on epoxy application and flexible service tiers that let clients participate in the build. The operation partners with larger mills for logs exceeding its capacity, ensuring a single point of contact for the customer.
+
+## Known for
+- On-site sawmill and kiln drying for year-round production
+- Carbon Smart Wood from salvaged urban trees
+- Epoxy application expertise with mentorship option
+- A la carte milling and finishing services for DIYers
+- Log pickup with hoisted trailer
+
+## Capabilities
+- Custom furniture building
+- Small building construction (sheds, outhouses)
+- Epoxy application and coating
+- Portable sawmilling (up to 36" diameter)
+- Kiln drying (dehumidification and solar)
+- Planing (up to 25" wide, 12' long)
+- Log recycling and pickup
+- Wood species inventory management
+- DIY mentorship and coaching
+- Carbon Smart Wood processing
+
+## Industries
+- Residential construction
+- Furniture manufacturing
+- Woodworking
+- DIY/home improvement
+- Urban wood recycling
+- Commercial architectural lumber
+
+## Equipment
+- Timberking Portable Sawmill
+- Indoor dehumidification kiln (9 ft capacity)
+- Solar kiln (14 ft slab capacity)
+- Planer (25" wide, 12' long)
+- Hoisted trailer for log pickup
+
+## Company details
+- **Company Type:** Manufacturer
+- **Ownership:** Owner-operated
+- **Headquarters:** St Cloud, Minnesota
+
+<details><summary>Sources</summary>
+
+- Location: St Cloud, Minnesota -> db
+- Founder: Mike Fanslau -> /about-us
+- Started with Timberking sawmill purchase in 2018 -> /about-us
+- Shop expanded in 2019 -> /about-us
+- On-site sawmill building and multiple kilns -> /about-us
+- Indoor kiln up to 9 ft, solar kiln up to 14 ft -> /
+- Planer capacity 25" wide, 12' long -> /
+- Custom builds: sheds, outhouses, pet shelters, benches, furniture -> /
+- Epoxy services and mentorship -> /
+- Log pickup with hoisted trailer -> /
+- Wood species inventory list -> /
+- Carbon Smart Wood from urban salvage -> /
+- Serves residential, commercial, DIY customers -> /
+- Partners with larger mills for oversized logs -> /about-us
+</details>
+
+---
 
 # Renovation Manufacturing
 
 **Old description:** At Renovation Manufacturing, we are committed to helping apparel brands bring exceptional products to market through expert American manufacturing. Our experienced team combines technical expertise, advanced production capabilities, and uncompromising craftsmanship to produce garments that meet the highest standards of quality and performance.
 
 ## About
-Renovation Manufacturing is a U.S.-based cut-and-sew apparel manufacturer headquartered in Houston, Texas. The company was founded with a mission to support fashion brands at every stage of growth, though the exact founding year is not publicly disclosed. Ownership details and founder names have not been shared publicly.
+Renovation Manufacturing is a U.S.-based apparel manufacturing company headquartered in Houston, Texas. Founded with the mission to support fashion brands at every stage of growth, the company provides full-service cut-and-sew production for emerging startups, growing labels, and established brands.
 
-The company provides full-service cut-and-sew production, covering fashion design consulting, fabric and trim sourcing, pattern making and grading, sample development and prototyping, garment cutting and marking, industrial sewing and assembly, finishing, pressing, and packaging. Its facility is designed for scalable capacity, described as supporting unlimited production volume, allowing brands to move from prototype to large-scale runs without changing partners.
+The operation delivers end-to-end apparel manufacturing services, including fashion design consulting, fabric and trim sourcing, pattern making and grading, sample development and prototyping, cutting and marking, industrial sewing and assembly, finishing, pressing, and packaging. Its facility is equipped with industrial machinery and structured workflows designed for continuous, high-volume production, allowing brands to scale from prototype to large-volume runs without compromising craftsmanship or timelines.
 
-Renovation Manufacturing serves emerging fashion startups launching first collections, growing brands scaling production, and established brands seeking dependable U.S. manufacturing. The company works across apparel categories including knits, wovens, activewear, and sportswear, and has experience with both small-batch and high-volume orders for clothing brands and designers.
+Renovation Manufacturing serves emerging fashion startups launching first collections, growing brands scaling production, and established brands seeking dependable U.S. manufacturing. The company works across apparel categories such as knits, wovens, activewear, and sportswear, partnering with clients who value long-term manufacturing relationships over transactional vendor arrangements.
 
-The company emphasizes U.S.-based manufacturing for greater quality control, faster communication, and a more responsive supply chain. Its stated differentiators include full-service cut-and-sew capabilities, scalable capacity for growing brands, an experienced industrial production team, and a quality-driven, timeline-focused execution model. The mission centers on empowering fashion brands through dependable, high-quality manufacturing and building long-term partnerships that support sustainable growth and job creation in U.S. garment production.
+The company states its differentiators as U.S.-based manufacturing, full-service cut-and-sew production, scalable capacity for growing brands, an experienced industrial production team, and quality-driven, timeline-focused execution. Its mission emphasizes empowering fashion brands through dependable, scalable, high-quality manufacturing while supporting sustainable growth, job creation, and excellence in U.S. garment production.
 
 ## Known for
-- U.S.-based manufacturing for greater quality control and faster communication
-- Full-service cut-and-sew production from design to fulfillment
+- U.S.-based apparel manufacturing
+- Full-service cut-and-sew production
 - Scalable capacity for growing brands
 - Experienced industrial production team
 - Quality-driven, timeline-focused execution
@@ -410,7 +486,7 @@ The company emphasizes U.S.-based manufacturing for greater quality control, fas
 - Fabric and trim sourcing
 - Pattern making and grading
 - Sample development and prototyping
-- Garment cutting and marking
+- Cutting and marking
 - Industrial sewing and assembly
 - Finishing, pressing, and packaging
 - Bulk and large-scale production
@@ -420,23 +496,22 @@ The company emphasizes U.S.-based manufacturing for greater quality control, fas
 - Fashion
 - Activewear
 - Sportswear
-- Knits
-- Wovens
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Headquarters:** Houston, Texas
 
 <details><summary>Sources</summary>
 
-- Headquarters: Houston, Texas -> db
-- Business type: U.S. cut-and-sew manufacturer -> /
-- Services: fashion design consulting, fabric & trim sourcing, pattern making, sample development, cutting & marking, sewing production, finishing & packaging -> /, /about-us
-- Industries served: emerging fashion startups, growing brands, established brands; apparel categories: knits, wovens, activewear, sportswear -> /about-us
-- Scalable capacity: unlimited production capacity -> /about-us
-- Mission: empower fashion brands through dependable, scalable, high-quality apparel manufacturing -> /about-us
-- Differentiators: U.S.-based manufacturing, full-service cut-and-sew, scalable capacity, experienced team, quality-driven timeline-focused execution -> /about-us
-- Materials: knits, woven, activewear, sportswear fabrics -> /about
+- Headquarters in Houston, Texas -> db
+- Founded with mission to support brands at every stage of growth -> /about-us
+- Provides full-service cut-and-sew production -> /about-us
+- Services: fashion design consulting, fabric and trim sourcing, pattern making and grading, sample development and prototyping, cutting and marking, industrial sewing and assembly, finishing, pressing, and packaging, ongoing bulk and large-scale production -> /about-us
+- Facility equipped with industrial machinery and structured workflows for continuous high-volume production -> /about-us
+- Serves emerging fashion startups, growing brands, established brands -> /about-us
+- Works across apparel categories: knits, wovens, activewear, sportswear -> /about
+- Differentiators: U.S.-based manufacturing, full-service cut-and-sew, scalable capacity, experienced industrial production team, quality-driven timeline-focused execution -> /about-us
+- Mission: empower fashion brands through dependable, scalable, high-quality manufacturing, support sustainable growth, job creation, excellence in U.S. garment production -> /about-us
 </details>
 
 ---
@@ -446,40 +521,39 @@ The company emphasizes U.S.-based manufacturing for greater quality control, fas
 **Old description:** Delivering High-Quality, Cost-Effective Solutions with Cutting-Edge Technology and Unmatched Expertise.
 
 ## About
-Resonance Technologies is based in Ronkonkoma, New York. Founded in 1998, the company began as a full-service contract manufacturer serving OEMs with automated and manual PC board assembly, later expanding into turnkey box builds and packaging.
+Resonance Technologies is based in Ronkonkoma, New York. The company was founded in 1998 as a full-service contract manufacturer serving the OEM community. Ownership details and founder names are not publicly disclosed.
 
-The company operates a 10,500-square-foot cleanroom-like facility staffed by 27 employees. It runs two high-speed SMD assembly lines equipped with MPM screen printers and Universal Fusion machines, supplemented by manual assembly, selective soldering, and multiple automated optical inspection (AOI) systems. Capabilities span surface-mount and through-hole assembly, cable harness fabrication, PCB design, and full box-build integration. Production volumes range from engineering samples to 100,000 units, with quick-turn prototype options and standard 3–4 week lead times.
+The company provides electronics manufacturing services including surface mount and through-hole PCB assembly, box build, cable harness fabrication, and design support. Its 10,500-square-foot cleanroom-like facility houses two high-speed SMD lines with MPM screen printers and Universal Fusion placement machines, multiple AOI systems, selective soldering, and X-ray inspection. A team of 27-plus employees handles production volumes ranging from thousands to 100,000 units per run.
 
-Resonance serves medical device makers, industrial automation and control firms, instrumentation companies, smart metering, power management systems, and power supply manufacturers. Its customer base consists primarily of OEMs requiring IPC 610 Class 2 and Class 3 compliance for both commercial and military specifications.
+Resonance serves customers in medical devices, industrial automation and control, instrumentation, smart metering, power management systems, and power supplies. The company works primarily with OEMs requiring both quick-turn prototypes and full-scale production, offering consignment or turnkey material procurement.
 
-The firm emphasizes its 24-plus years of industry experience, a hands-on owner-management team, and an engineering staff with 10–25 years of individual experience.
+The firm emphasizes its 24-plus years of industry experience, an engineering staff with 10 to 25 years of individual expertise, and hands-on owner management.
 
 ## Known for
-- 10,500 sq ft cleanroom-like facility with two high-speed SMD lines (MPM screen printers, Universal Fusion machines)
-- Multiple AOI machines and X-ray BGA alignment inspection
-- Selective soldering and offline programming capabilities
-- IPC 610 Class 2 and 3 compliance for commercial/military work
-- Quick-turn prototype and full turnkey manufacturing options
+- 10,500 sq ft cleanroom-like facility with two high-speed SMD lines
+- Multiple AOI machines and X-ray BGA inspection
+- Engineering team with 10–25 years of experience each
+- Hands-on owner management and 27+ dedicated employees
 
 ## Capabilities
-- Surface Mount Technology (SMT) Assembly
-- Through-hole Assembly
-- Quick-Turn Prototype Assembly
-- Consignment Manufacturing
-- Full Turnkey Manufacturing
-- Cable Harness Manufacturing
-- Volume Production Manufacturing
-- Box-Level Electronics Manufacturing
-- PCB Design Services
-- Electronics Design Support
-- Automated Optical Inspection (AOI)
-- X-ray BGA Inspection
-- Selective Soldering
-- Offline Programming
-- Computer-Integrated Manufacturing
-- IPC 610 Class 2/3 Compliance
-- BGA/Micro BGA/CSP Assembly
-- Module and Cable Assembly
+- Surface Mount Technology (SMT) assembly
+- Through-hole assembly
+- Box build / box-level electronics manufacturing
+- Cable harness manufacturing
+- PCB design services
+- Electronics design support
+- Quick-turn prototype assembly
+- Consignment manufacturing
+- Full turnkey manufacturing
+- Volume production manufacturing
+- IPC 610 Class 2 and 3 manufacturing
+- X-ray BGA alignment inspection
+- Offline programming
+- Computer integrated manufacturing
+- Selective soldering
+- Automated optical inspection (AOI)
+- Manual assembly
+- BGA, micro BGA, and CSP placement
 
 ## Industries
 - Medical
@@ -504,26 +578,31 @@ The firm emphasizes its 24-plus years of industry experience, a hands-on owner-m
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1998
-- **Employees:** 27
+- **Employees:** 27+
 - **Headquarters:** Ronkonkoma, New York
 
 <details><summary>Sources</summary>
 
 - Founded in 1998 -> /about-us
-- Headquarters in Ronkonkoma, New York -> db
-- 27 employees -> db and /
-- 10,500 sq ft facility -> /
+- Headquarters Ronkonkoma, New York -> db
+- Employee count 27+ -> / and db
+- Facility size 10,500 sq ft cleanroom-like -> /
 - Two high-speed SMD lines with MPM screen printers and Universal Fusion machines -> /
-- AOI machines and X-ray BGA inspection -> /
-- Selective soldering capabilities -> /
-- IPC 610 Class 2 and 3 compliance -> /services
-- Industries served: Medical, Industrial Automation and Control, Instrumentation, Smart Metering, Power Management Systems, Power Supplies -> /
-- Quick-turn prototype and 3-4 week standard lead time -> /
-- ISO 9001:2015 compliance -> / and db
-- Offline programming and computer-integrated manufacturing -> /services
-- Max board size 20x14, component range 0201 to 52mm QFP, min lead pitch 12mil -> /services
-- Cable harness manufacturing and box-level assembly -> /services
-- PCB design and electronics design support -> /services
+- Multiple AOI machines -> /
+- Selective soldering systems -> /
+- X-ray BGA inspection -> /services
+- Production volume thousands to 100,000 units -> /
+- Industries served: Medical, Industrial Automation, Instrumentation, Smart Metering, Power Management, Power Supplies -> /
+- ISO 9000-2015 compliance -> /
+- IPC 610 Class 2/3 manufacturing -> /services
+- Quick-turn prototype and 3-4 week standard delivery -> /
+- Max board size 20x14 in -> /services
+- Component size range 0201 to 52mm QFP -> /services
+- Minimum lead pitch 12 mil -> /services
+- Box build, cable harness, design services -> /services
+- Consignment and turnkey manufacturing options -> /services
+- Engineering team with 10-25 years experience -> /
+- Hands-on owner management -> /
 </details>
 
 ---
@@ -533,44 +612,46 @@ The firm emphasizes its 24-plus years of industry experience, a hands-on owner-m
 **Old description:** Resonetics specializes in miniaturized fiber optic and electromechanical sensors that deliver precise, real-time data for critical diagnostic and therapeutic applications. Our custom sensor solutions are designed to integrate seamlessly into complex devices, enhancing performance without compromising size or biocompatibility.
 
 ## About
-Resonetics was founded in 1987 in Nashua, New Hampshire, initially focusing on laser-based manufacturing. Today the company is headquartered in Bethel, Connecticut, and operates a network of 20 facilities worldwide. It has grown into a global provider of advanced engineering, prototyping, product development, and micro‑manufacturing services for the medical technology sector.
+Resonetics was founded in 1987 in Nashua, New Hampshire, and now operates from its headquarters in Bethel, Connecticut. The company has grown into a global network of 20 facilities specializing in advanced engineering, prototyping, product development, and micro manufacturing for the medical device industry.
 
-The company offers a vertically integrated suite of capabilities that span raw material supply, laser processing (cutting, welding, drilling, ablating, perforating), nitinol processing, metal fabrication, microfluidic laminate manufacturing, sensor technology (miniaturized fiber‑optic and electromechanical sensors), and implantable medical batteries (lithium‑ion and Li/CFx chemistries). Its Lightspeed Lab network provides dedicated rapid‑prototyping resources, while the AGILE Product Development program supports cross‑functional design‑for‑manufacturability work from concept through design transfer and commercial production. Resonetics also delivers turnkey device assembly, packaging, and finishing services.
+Resonetics provides contract manufacturing services spanning laser processing (cutting, welding, drilling, ablating, perforating), Nitinol processing, metal fabrication, microfluidic laminate manufacturing, sensor technology, and implantable battery production. The company maintains a vertically integrated, U.S.-based Nitinol supply chain and operates dedicated rapid-prototyping centers called Lightspeed Labs, alongside its AGILE Product Development program for accelerated design transfer. Capabilities also include custom laser system design, turnkey device assembly, packaging, and in-vitro test method development.
 
-Resonetics serves medical device and diagnostics companies across four primary markets: interventional, advanced surgery, diagnostics, and bioelectronics. Its components and sub‑assemblies are used in minimally invasive therapeutic and diagnostic products, including catheters, implants, interventional systems, point‑of‑care diagnostic tools, and lab‑on‑a‑chip devices. Customers range from early‑stage innovators to established MedTech firms seeking scalable manufacturing.
+The company serves the interventional, advanced surgery, diagnostics, and bioelectronics markets, working with medical device and diagnostics companies from early concept through high-volume production. Public case studies reference collaborations with VenstraMedical on a next-generation blood pump and VivaCath on early-stage device development.
 
-The company emphasizes a Shingo Model‑grounded Enterprise Excellence framework and a set of cultural values — champion innovation, deliver quality, be customer‑ and patient‑centric, drive urgency, act with integrity, embrace continuous improvement, and grow together. Its vertically integrated, U.S.‑based nitinol supply chain and custom‑built laser systems are cited as key differentiators that enable speed and precision in medical device development.
+Resonetics emphasizes a Shingo Model–grounded Enterprise Excellence framework and ISO 13485/ISO 9001 certified processes across its facility network. Its stated mission focuses on innovation, market-speed, and high-growth MedTech markets, with values centered on customer and patient centricity, urgency, integrity, and continuous improvement.
 
 ## Known for
-- Vertically integrated, U.S.-based nitinol supply chain from melt to market
-- Lightspeed Lab rapid prototyping with dedicated engineering teams and laser systems
-- AGILE Product Development structured phase‑gate process for design transfer
-- Custom‑built laser processing systems for cutting, welding, drilling, ablating, perforating
-- Shingo Model‑grounded Enterprise Excellence operational framework
+- Vertically integrated, U.S.-based Nitinol supply chain
+- 20 global facilities with ISO 13485 and ISO 9001 certification
+- Lightspeed Labs rapid prototyping with dedicated engineering teams
+- AGILE Product Development for accelerated design-to-manufacturing transfer
+- Custom-built laser processing systems tailored per application
 
 ## Capabilities
-- Laser cutting, welding, drilling, ablating, perforating
-- Nitinol processing (shape setting, grinding, electropolishing)
+- Laser cutting
+- Laser welding
+- Laser drilling
+- Laser ablating
+- Laser perforating
+- Nitinol processing
 - Metal fabrication and machining
 - Microfluidic laminate manufacturing
-- Miniaturized fiber optic sensor fabrication
-- Electromechanical sensor fabrication
+- Miniaturized fiber optic sensor manufacturing
+- Miniaturized electromechanical sensor manufacturing
 - Implantable battery manufacturing (lithium-ion, Li/CFx)
-- Custom laser system design and build
-- Rapid prototyping (Lightspeed Lab)
-- AGILE Product Development (design for manufacturability, design verification/validation)
-- Product design and development (SolidWorks)
-- In-vitro test method development and fixture fabrication
-- Wet lab and vascular model performance testing
-- Hydrophilic coating (R&D)
+- Custom laser system design, manufacturing, and servicing
+- Rapid prototyping (Lightspeed Labs)
+- AGILE Product Development
+- Product design and development (Solidworks)
+- Design verification, validation, and preproduction
 - Turnkey device manufacturing and finished device assembly
 - Packaging solutions
 - Finishing and assembly services
-- Raw material supply (thin-wall tubing, nitinol wire/sheet/tube, precious metal marker bands)
-- Thin wall tubing processing
+- In-vitro test method development and fixture fabrication
+- Wet lab and vascular model performance testing
+- Hydrophilic coating (R&D basis)
+- Raw material supply (thin-wall tubing, Nitinol wire/sheet/tube, precious metal marker bands)
 - Photochemical machining
-- Design transfer and commercial production
-- Clinical and pre-production manufacturing
 
 ## Industries
 - Interventional
@@ -578,15 +659,13 @@ The company emphasizes a Shingo Model‑grounded Enterprise Excellence framework
 - Diagnostics
 - Bioelectronics
 - Medical device
-- MedTech
 - Life sciences
-- Minimally invasive therapeutic devices
-- Minimally invasive diagnostic devices
+- MedTech
 
 ## Equipment
 - Custom-built laser processing systems
-- Lightspeed Lab laser technologies
-- Automated microfluidic laminate processing equipment
+- Automated processing equipment for microfluidic laminates
+- State-of-the-art laser technologies in Lightspeed Labs
 
 ## Certifications
 - ISO 13485
@@ -599,36 +678,26 @@ The company emphasizes a Shingo Model‑grounded Enterprise Excellence framework
 
 <details><summary>Sources</summary>
 
-- Founded 1987 in Nashua, NH -> /about-us
-- Headquarters Bethel, Connecticut -> db (hq_city, hq_state_label)
-- 20 global facilities -> / (homepage) and /about-us
-- ISO 13485 certification -> certifications array and /about-us
-- ISO 9001 certification -> /about-us
-- Vertically integrated U.S.-based nitinol supply chain -> / (homepage)
-- Lightspeed Lab rapid prototyping -> / (homepage) and /services
-- AGILE Product Development -> / (homepage) and /services
-- Laser processing capabilities (cutting, welding, drilling, ablating, perforating) -> /capabilities
-- Nitinol processing -> /capabilities
-- Metal fabrication and machining -> /capabilities
-- Microfluidic laminate manufacturing -> /capabilities
-- Sensor technology (fiber optic and electromechanical) -> /capabilities and description
-- Medical power (Contego batteries, lithium-ion, Li/CFx) -> /capabilities
-- Custom laser systems design and service -> /capabilities
-- Key markets: Interventional, Advanced Surgery, Diagnostics, Bioelectronics -> / (homepage)
-- Shingo Model Enterprise Excellence -> /about-us
-- 40 years of MedTech innovation -> / (homepage)
-- More than 50 design, quality, NPI engineers (video) -> / (homepage)
-- Turnkey device manufacturing, assembly, packaging -> /services
-- Raw materials supply (thin-wall tubing, nitinol wire/sheet/tube, marker bands) -> /capabilities
-- Photochemical machining -> capabilities array
-- Hydrophilic coating R&D -> capabilities array
-- In-vitro test method development and fixture fabrication -> capabilities array
-- Wet lab and vascular model performance testing -> capabilities array
-- Design verification, validation, preproduction -> products array
-- Design transfer and commercial production -> products array
-- Clinical and pre-production -> products array
-- Product design with SolidWorks -> products array
-- Complete assignment of product intellectual property -> products array
+- Founded in 1987 in Nashua, NH -> /about-us
+- Headquarters in Bethel, Connecticut -> db
+- 20 global facilities -> /about-us and homepage
+- ISO 13485 and ISO 9001 certifications across global facility network -> /about-us
+- Vertically integrated U.S.-based Nitinol supply chain -> homepage
+- Laser processing capabilities: cutting, welding, drilling, ablating, perforating -> /capabilities
+- Nitinol processing, metal fabrication, microfluidic laminates, sensor technology, medical power, custom laser systems -> /capabilities
+- Lightspeed Labs rapid prototyping with dedicated engineers and state-of-the-art laser technologies -> /services
+- AGILE Product Development for accelerated timelines -> /services
+- Key markets served: Interventional, Advanced Surgery, Diagnostics, Bioelectronics -> homepage
+- Case studies: VenstraMedical blood pump, VivaCath story -> homepage blog titles
+- Enterprise Excellence framework based on Shingo Model -> /about-us
+- Mission: leader in advanced engineering and manufacturing solutions for MedTech partners through innovation, market leading speed -> /about-us
+- Turnkey device manufacturing, finished device assembly, packaging solutions -> /services
+- In-vitro test method development, fixture fabrication, wet lab and vascular model testing, hydrophilic coating R&D -> db capabilities
+- Raw materials: thin-wall tubing, nitinol wire/sheet/tube, precious metal marker bands -> /capabilities
+- Implantable batteries: lithium-ion and Li/CFx (Contego line) -> /capabilities
+- Custom laser systems design, manufacturing, servicing for over 30 years -> /capabilities
+- Product design and development using Solidworks, design verification, validation, preproduction -> db products
+- 40 years of driving MedTech innovation -> homepage
 </details>
 
 ---

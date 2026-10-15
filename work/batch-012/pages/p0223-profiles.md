@@ -3,45 +3,43 @@
 **Old description:** Paragon is a hybrid spatial consulting and custom fabrication studio, quietly serving Northern Utah's most considered residential addresses. We engineer architectural cabinetry from a single shop floor in Pleasant View, for the architects, designers and homeowners who notice every reveal.
 
 ## About
-The studio was founded in 2015 by Jon Anglesey, who brought 35 years of hands-on experience designing, building, and installing custom cabinetry. Anglesey established the company to elevate custom cabinetry from a standard trade into an architectural discipline, applying field-tested knowledge to every design and layout that leaves the studio.
+Paragon Woodworking operates from a single shop floor in Pleasant View, Utah, serving nine counties across the Wasatch Front. The studio was founded in 2015 by Jon Anglesey, who brought 35 years of hands-on cabinetmaking experience to the venture. Anglesey remains directly involved in every design and layout that passes through the studio.
 
-The shop produces architectural-grade custom cabinetry and bespoke millwork, specializing in high-precision frameless construction with interlocking blind-dado joinery glued and screwed at every joint. Cabinet boxes use CARB-compliant, formaldehyde-free thermally fused laminate platforms; drawers feature 3/4-inch sidewalls, 1/2-inch bottoms, and Italian Salice rack-and-pinion full-extension slides rated 33 to 50 pounds above competing hardware. Finishes are Italian waterborne urethanes with a proprietary cross-linker, delivering zero-VOC, zero-HAPP surface protection. Two product lines serve different project scopes: the Custom Shop Series offers unrestricted design, shadow-line detailing, and integrated LED case lighting, while the ECO Line standardizes flat-slab profiles with pre-engineered subcrowns to cut field installation time by two-thirds and reduce cost by 25 to 35 percent.
+The company produces architectural-grade custom cabinetry and millwork for luxury residential interiors, specializing in frameless kitchen construction, bespoke vanities, integrated library systems, entertainment hubs, laundry rooms, and tailored closets. Two product lines share a common platform: the Custom Shop Series offers unrestricted design with shadow-line detailing and integrated LED lighting, while the ECO Line standardizes flat-slab profiles with pre-engineered subcrowns to cut installation time by two-thirds and reduce cost by 25–35%. Construction relies on interlocking blind-dado joinery, glued and screwed at every joint, with 3/4-inch drawer sidewalls, 1/2-inch bottoms, and Salice rack-and-pinion full-extension slides rated 33–50 lbs above competing hardware. Finishes are Italian waterborne urethanes with a proprietary cross-linker, delivering zero-VOC, zero-HAPS surfaces.
 
-Paragon serves architects, designers, builders, and homeowners across nine Northern Utah counties — Box Elder, Cache, Weber, Davis, Morgan, Salt Lake, Summit, Utah, and Wasatch — covering the entire Wasatch Front corridor. Projects span luxury kitchens, bathroom vanities, integrated library and office systems, entertainment hubs, laundry rooms, and tailored closets. The team manages each commission from initial architectural layout through zero-tolerance final installation.
+Clients include architects, designers, builders, and homeowners across Salt Lake, Davis, Weber, Summit, Cache, Box Elder, Morgan, Utah, and Wasatch counties. Projects range from new custom homes to full remodels, with the studio managing design, engineering, fabrication, and white-glove installation.
 
-The company's stated differentiation rests on four pillars: total transparency in materials, pricing, and methods; technical innovation through advanced design software and disciplined fabrication; environmental stewardship via sustainably sourced, low-emission materials; and architectural respect for the client's space, investment, and the timber resources used. Anglesey's direct involvement in every design ensures that details derived from decades of field installation — reveal alignment, drawer load capacity, joinery that accommodates structural settlement — are baked into the plans before fabrication begins.
+Paragon was started to elevate cabinetry from a trade to an architectural discipline, emphasizing total transparency in materials and pricing, continuous technical refinement, environmental stewardship through low-emission materials, and architectural respect for the client's space and investment.
 
 ## Known for
 - Interlocking blind-dado box construction glued and screwed at every joint
-- Italian Salice rack-and-pinion drawer slides with 33–50 lb higher load rating than major competitors
+- Salice rack-and-pinion full-extension slides with 33–50 lbs higher load rating than major competitors
 - Zero-VOC Italian waterborne urethane finishes with proprietary cross-linker
-- ECO Line reduces on-site installation time by two-thirds and cabinetry cost by 25–35%
-- Founder Jon Anglesey personally oversees every design and layout, drawing on 35 years of field experience
+- ECO Line reduces installation time by two-thirds and cost by 25–35% versus Custom Shop Series
+- Founder Jon Anglesey personally reviews every design and layout
 
 ## Capabilities
-- Frameless cabinet construction
-- Blind-dado joinery
-- Custom kitchen cabinetry
-- Bathroom vanity frameworks
+- Custom frameless cabinetry
+- Architectural millwork
+- Bespoke kitchen cabinetry
+- Custom vanity frameworks
 - Integrated millwork & library systems
-- Architectural entertainment centers
+- Architectural entertainment hubs
 - Laundry room cabinetry
-- Closet systems & built-ins
-- Custom Shop Series (bespoke)
-- ECO Line (standardized sustainable)
-- Zero-VOC waterborne urethane finishing
-- CARB-compliant material sourcing
+- Tailored closets & built-ins
+- Blind-dado joinery
+- Salice hardware installation
+- Zero-VOC finish application
 - Design consultation & engineering submittals
 - White-glove installation
-- Project management from layout to install
+- ECO Line streamlined fabrication
+- Custom Shop Series bespoke fabrication
 
 ## Industries
-- Luxury residential construction
-- Architectural millwork
-- Kitchen & bath design
-- Interior design
-- Custom furniture
-- Home remodeling
+- Luxury residential
+- Architecture & design firms
+- Custom home builders
+- Homeowners (remodel/new construction)
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -55,19 +53,11 @@ The company's stated differentiation rests on four pillars: total transparency i
 - Founded 2015 by Jon Anglesey -> /about
 - 35 years bench experience -> /about
 - Serves 9 Northern Utah counties -> /
-- Frameless construction with blind-dado joinery -> /
-- CARB-compliant, formaldehyde-free TFL platforms -> /
-- 3/4" drawer sidewalls, 1/2" bottoms -> /
-- Italian Salice rack-and-pinion slides, 33-50 lb higher rating -> /
-- Zero-VOC Italian waterborne urethane finishes -> /
-- Custom Shop Series vs ECO Line differences -> /
-- ECO Line cuts install time 2/3, cost 25-35% -> /, /services
-- Custom Shop offers unrestricted design, shadow-line, LED lighting -> /, /services
-- Services: kitchens, bathrooms, libraries, entertainment, laundry, closets -> /, /services
-- Installation across Wasatch Front corridor -> /
-- Four pillars: transparency, innovation, stewardship, respect -> /about
-- Sustainably sourced, low-emission materials -> /about
-- Founder involvement in every design -> /about
+- Two product lines: Custom Shop Series and ECO Line -> /, /services
+- Blind-dado joinery, Salice hardware, zero-VOC finishes -> /
+- Client types: architects, designers, homeowners, builders -> /, /services
+- Service counties listed -> /
+- Company mission: elevate cabinetry to architectural discipline -> /about
 </details>
 
 ---
@@ -77,55 +67,67 @@ The company's stated differentiation rests on four pillars: total transparency i
 **Old description:** Parts Unlimited Interiors is one of those successful entrepreneurial business stories where one thing has led to another, and the small company continues to expand and grow in a controlled, logical fashion. Literally founded physically in a 1964 Corvair's trunk (so to speak), PUI has expanded to the Morrises' basement, to the Jefferson Trade Center in December of 1984, to a 51,400-square foot facility in Louisville, KY, and currently to a 120,000-square foot facility in Oldham County Business Park, La Grange, KY that houses over 100 employees. Approximately 97% to 98% of Parts Unlimited Interiors products are manufactured in the USA, while eight to nine percent of product sales are attributed to being items manufactured overseas. Having most of the parts produced in the United States and most of the sales attributed to U.S. made parts is a success story in and of itself. But Parts Unlimited Interiors isn't resting on its laurels.
 
 ## About
-Parts Unlimited Interiors, Inc. is based in La Grange, Kentucky, operating from a 120,000-square-foot facility in the Oldham County Business Park. The business traces its origins to 1974 when Rollo Fox and his wife Colleen, inspired by Colleen's father H.V. Morris, attended a Corvair convention in Chicago and sold parts from their car trunk. What began as a new-old-stock parts venture soon evolved into manufacturing Corvair interior components, then expanded to other GM models. The company moved from the Morris family basement to the Jefferson Trade Center in December 1984, then to a 51,400-square-foot plant in Louisville, before settling in its current location. Since October 2023, PUI has been a subsidiary of Classic Industries, following an earlier acquisition by Restoration Parts Unlimited in 2013.
+Parts Unlimited Interiors operates from a 120,000-square-foot facility in La Grange, Kentucky, in the Oldham County Business Park. The company traces its origins to 1974, when Rollo Fox and his wife Colleen (née Morris) attended a Corvair collectors' convention in Chicago and sold new-old-stock parts from their car trunk. Colleen's father, H.V. Morris, had recommended the Corvair as economical transportation, and the couple's early success selling surplus parts led them to advertise in enthusiast magazines and eventually reproduce Corvair interior components.
 
-PUI manufactures interior soft-trim and hard-goods for classic American vehicles, including seat upholstery, door panels, headliners, window felts, and insulation products. Production relies on a mix of computer-controlled machinery and hands-on oversight by more than 80 artisans, many with decades of tenure. The facility houses sophisticated equipment for cutting, sewing, and assembling a wide range of materials. Approximately 97–98% of PUI's products are made in the United States, with the remainder sourced overseas. The company maintains a large inventory to support same-day and next-day shipping on stocked items.
+The company manufactures interior soft-trim and hard-goods for classic American vehicles, including seat upholstery, door panels, headliners, window felts, console carpet, and insulation products. Production spans GM (Chevrolet, Pontiac, Buick), Ford, and Mopar models. The La Grange plant houses over 100 employees, with more than 80 automotive interior artisans overseeing computer-controlled machinery. Approximately 97–98% of products are made in the United States, with the remainder sourced overseas.
 
-The company serves the automotive aftermarket and classic-car restoration markets, supplying wholesale dealers and individual restorers. Its product lines cover GM brands (Chevrolet Impala, Pontiac, Buick), Ford, and Mopar vehicles. PUI sells through over 100 dealers across the U.S. and internationally, and offers exclusive wholesale pricing to registered partners.
+Parts Unlimited Interiors sells primarily through a network of over 100 aftermarket dealers across the U.S. and internationally, offering wholesale and dealer pricing. Its customer base includes restoration shops, classic-car enthusiasts, and dealers specializing in muscle-car and vintage-vehicle interiors. The product portfolio covers a wide range of GM, Ford, and Mopar applications, from Impalas and Camaros to Mustangs and Chargers.
 
-The Foxes originally started the business to address the finite supply of NOS Corvair parts, shifting to reproduction to keep the company viable. Today, PUI emphasizes domestic manufacturing, a deep catalog of pattern-specific parts, and reduced lead times—raw-material sourcing now takes two to three weeks, and dealer delivery is under one month—following supply-chain improvements after the Classic Industries acquisition.
+The business pivoted from reselling finite NOS parts to manufacturing reproductions when original supplies dwindled. After being acquired by Restoration Parts Unlimited in August 2013 and later by Classic Industries in October 2023, the company reports that raw-material lead times dropped from several months to two to three weeks, and dealer delivery lead times fell to under one month. The firm emphasizes its U.S.-based manufacturing, deep artisan expertise, and same-day or next-day shipping on stocked items as key differentiators.
 
 ## Known for
 - 97–98% of products manufactured in the USA
-- Same-day and next-day shipping on stocked parts
-- Over 80 artisans with decades of experience
-- Raw material lead time reduced to 2–3 weeks
-- Dealer delivery lead time under one month
+- Same-day and next-day shipping available on stocked parts
+- Wholesale and dealer pricing programs
+- Over 80 automotive interior artisans, many with decades of tenure
+- Dealer delivery lead times reduced to less than one month after Classic Industries acquisition
 
 ## Capabilities
-- Interior soft trim manufacturing
-- Seat upholstery production
+- Seat upholstery manufacturing
 - Door panel manufacturing
-- Headliner production
+- Headliner manufacturing
 - Window felt manufacturing
-- Insulation manufacturing
-- Computer-controlled machining
-- Artisan hand-finishing
+- Console carpet manufacturing
+- Floor insulation manufacturing
+- Cab insulation manufacturing
+- Door insulation manufacturing
+- Kick panel manufacturing
+- Package tray manufacturing
+- Automotive interior soft-trim production
+- Automotive interior hard-goods production
+- Pattern reproduction for vintage vehicles
+- Computer-controlled cutting and sewing
 
 ## Industries
 - Automotive aftermarket
 - Classic car restoration
-- Automotive interior restoration
+- Muscle car restoration
+- GM vehicle restoration
+- Ford vehicle restoration
+- Mopar vehicle restoration
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1974
-- **Employees:** 100
-- **Ownership:** Subsidiary of Classic Industries
+- **Employees:** over 100
+- **Ownership:** Subsidiary of Classic Industries (since October 2023); originally founded by Rollo and Colleen Fox
 - **Headquarters:** La Grange, Kentucky
 
 <details><summary>Sources</summary>
 
-- Founded in 1974 by Rollo and Colleen Fox -> /about-us
-- Headquarters in La Grange, KY, 120,000 sq ft facility -> /about-us
-- Over 100 employees -> db
-- 97-98% US manufactured -> /about-us
-- Acquired by Restoration Parts Unlimited 2013, then Classic Industries 2023 -> /about-us
-- Manufactures seat upholstery, door panels, headliners, window felts, insulation -> /about-us
-- Serves GM, Ford, Mopar classic vehicles -> /
-- Same-day/next-day shipping on stocked parts -> /
-- Wholesale pricing for dealers -> /
-- Lead times reduced to under one month for dealers -> /about-us
+- Founded 1974 by Rollo and Colleen Fox -> /about-us
+- Started selling NOS Corvair parts from trunk at Chicago convention -> /about-us
+- Expanded from trunk to basement to Jefferson Trade Center (Dec 1984) to 51,400 sq ft Louisville facility to 120,000 sq ft La Grange facility -> /about-us
+- 97-98% products manufactured in USA -> /about-us
+- Over 100 employees, 80+ artisans -> /about-us
+- Acquired by Restoration Parts Unlimited Aug 2013 -> /about-us
+- Acquired by Classic Industries Oct 2023 -> /about-us
+- Lead times reduced to 2-3 weeks for materials, <1 month for deliveries -> /about-us
+- Products: seat upholstery, door panels, headliners, window felts, insulation, etc. -> /
+- Serves GM, Ford, Mopar models -> /
+- Wholesale/dealer pricing -> /
+- Same-day/next-day shipping -> /
+- Headquarters La Grange, KY -> db
 </details>
 
 ---
@@ -135,20 +137,20 @@ The Foxes originally started the business to address the finite supply of NOS Co
 **Old description:** We have the experience to manage your commercial steel project, including stair and railing packages, custom balconies, steel canopies and large commercial light fixtures. Our team of qualified professionals can provide complete, turn-key solutions for your project.
 
 ## About
-Pascetti Steel Design, Inc. operates from Albuquerque, New Mexico, as a family-owned custom steel fabricator. The company was founded by Damian Pascetti, who spent his career working with steel beginning in his father’s structural steel business before opening his own shop. The business remains family-owned and managed, with Pascetti overseeing projects directly.
+Pascetti Steel Design, Inc. operates from Albuquerque, New Mexico. The company is a family-owned shop founded by Damian Pascetti, who spent his career in steel starting with his father's structural steel business before opening Pascetti Steel Design. Management oversees every project directly, reflecting the small-shop structure.
 
-The shop delivers complete turnkey solutions for commercial and residential steel projects, handling design, shop drawings, fabrication, delivery, and installation. Core offerings include steel stair and railing systems, custom balconies, canopies, architectural features, large-scale light fixtures, perforated metal panels, shade structures, gates, and signage. The team also takes on historic restoration work and has fabricated custom gym equipment such as the patent-pending Phat Rack™ heavy-bag system. Work is designed in CAD and prefabricated for field installation.
+The firm provides turnkey custom steel fabrication for commercial and residential projects. Its scope runs from design and shop drawings through fabrication, delivery, and installation. Core products include steel stair and railing packages, custom balconies, steel canopies, large-scale architectural light fixtures, perforated metal panels, shade structures, custom gates, signage, and public art. The shop also handles historic restoration metalwork and has developed a patent-pending gym equipment system called the Phat Rack™. Work is designed in CAD and prefabricated for field installation.
 
-Clients range from architects, designers, and homeowners to public institutions and commercial contractors. Notable projects include railing restorations at historic landmarks in Albuquerque, Durango, Colorado, and Dayton, Ohio; a church frame for original Tiffany stained glass; a bell display at the University of New Mexico; and the Penguin Chill exhibit at the ABQ BioPark. The company also serves local gyms and residential customers seeking custom metalwork.
+Clients span architects, designers, general contractors, and homeowners. Projects have been delivered for commercial buildings, hotels and resorts, fitness facilities, municipal landmarks, and cultural institutions. Notable examples include the USS Albuquerque submarine monument restoration, the Penguin Chill exhibit at the ABQ BioPark, and historic railing restorations in Albuquerque, Durango (CO), and Dayton (OH). The company also supplies pre-finished aluminum balcony railing for hospitality projects.
 
-Pascetti Steel emphasizes personalized service, noting that its small, family-owned structure allows management to oversee every project. The firm states it welcomes complex, one-of-a-kind projects that other fabricators may avoid, aiming to deliver durable, high-quality steelwork built to exceed expectations. Its mission centers on fostering strong relationships and being a partner in metal fabrication.
+Pascetti Steel positions itself on personalized service and a willingness to take on complex, one-of-a-kind projects that other fabricators may decline. Its stated mission is to foster strong relationships and deliver quality products as a partner, leveraging cutting-edge technology and a strong work ethic.
 
 ## Known for
-- Turnkey service from design and shop drawings through fabrication, delivery, and installation
-- Willingness to take on complex, one-of-a-kind projects other fabricators avoid
-- Family-owned operation with management oversight on every project
-- Experience with historic restoration projects meeting strict landmark requirements
-- Custom-engineered gym equipment systems (Phat Rack™ patent pending)
+- Turnkey service from design through installation
+- Welcomes complex, one-of-a-kind projects other fabricators avoid
+- Family-owned shop with management oversight on every project
+- Patent-pending Phat Rack™ multi-bag gym system
+- CAD design and prefabrication for efficient field installation
 
 ## Capabilities
 - Custom steel fabrication
@@ -158,11 +160,12 @@ Pascetti Steel emphasizes personalized service, noting that its small, family-ow
 - Large commercial light fixture fabrication
 - Perforated metal panel fabrication
 - Shade structure fabrication
-- Gate fabrication
-- Signage fabrication
-- Historic restoration
+- Custom gate fabrication
+- Custom signage fabrication
+- Historic restoration metalwork
 - Custom gym equipment fabrication
-- Design and shop drawing preparation
+- Public art and sculpture fabrication
+- Design and shop drawing services
 - CAD design
 - Prefabrication
 - Delivery and installation
@@ -170,11 +173,15 @@ Pascetti Steel emphasizes personalized service, noting that its small, family-ow
 ## Industries
 - Commercial construction
 - Residential construction
-- Historic preservation
-- Public art and exhibits
-- Fitness and recreation
-- Municipal and institutional
-- Architectural metalwork
+- Historic restoration
+- Fitness facilities
+- Public art and sculpture
+- Marine and maritime heritage
+- Zoo and aquarium exhibits
+- Hospitality (hotels and resorts)
+
+## Equipment
+- CAD software
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -183,26 +190,19 @@ Pascetti Steel emphasizes personalized service, noting that its small, family-ow
 
 <details><summary>Sources</summary>
 
-- Location: Albuquerque, New Mexico -> /
-- Family-owned -> /about-us
-- Owner: Damian Pascetti -> /about-us
-- Services: custom steel fabrication, stairs, railings, balconies, canopies, light fixtures -> /
-- Turnkey solutions from design to installation -> /
-- Historic restoration projects in Albuquerque, Durango, Dayton -> /
-- Gym equipment fabrication (Phat Rack™) -> /
-- Use of CAD and prefabrication -> /
-- Personalized service, management oversees every project -> /about-us
-- Mission: fostering strong relationships, trusted partner -> /about-us
-- Vision: superior service, cutting-edge technology, strong work ethic -> /about-us
-- Aluminum balcony railing offered -> /
-- Perforated metal panels -> /
-- Shade structures block 97% UV -> /
-- Gate fabrication -> /
-- Signage fabrication -> /
-- Public art projects (Earth Flower, USS Albuquerque submarine monument) -> /
-- Penguin Chill exhibit at ABQ BioPark -> /
-- Church frame for Tiffany stained glass -> /
-- Bell display at University of New Mexico -> /
+- Location: Albuquerque, New Mexico -> db
+- Family-owned shop -> /about-us
+- Owner Damian Pascetti, career in steel from father's business -> /about-us
+- Turnkey from design/shop drawings through fabrication/delivery/installation -> /
+- Products: stairs, railings, balconies, canopies, light fixtures, perforated panels, shade structures, gates, signage, historic restoration, gym equipment, public art -> /
+- CAD design and prefabrication -> /
+- Clients: architects, designers, homeowners, commercial, hotels/resorts, gyms, public institutions -> /
+- Projects: USS Albuquerque submarine monument, ABQ BioPark Penguin Chill, historic restorations in Albuquerque, Durango CO, Dayton OH -> /
+- Pre-finished aluminum balcony railing for hotels/resorts -> /
+- Mission: fostering strong relationships, delivering quality products, trusted partner -> /about-us
+- Vision: superior service, highest quality, cutting-edge technology, strong work ethic -> /about-us
+- Phat Rack™ patent pending -> /
+- Small shop, management oversees every project -> /about-us
 </details>
 
 ---
@@ -212,30 +212,31 @@ Pascetti Steel emphasizes personalized service, noting that its small, family-ow
 **Old description:** "Just a short note to thank you for the excellent service your company offers. I have ordered from you for many years and always with great results. It's nice to work with such a reliable organization. No one matches your supply, your prices, and the speed with which you are able to get product out the door."
 
 ## About
-Pegasus Auto Racing Supplies operates from New Berlin, Wisconsin, where it has served the motorsports community since 1980. The company remains a privately held, independent distributor.
+Pegasus Auto Racing Supplies operates from New Berlin, Wisconsin, where it has served the motorsports community since 1980. The company was established as a dedicated source for racing parts and supplies, though the founding individuals and ownership structure are not publicly disclosed.
 
-The company stocks nearly 1,000 part numbers across categories including cooling systems, brakes, safety equipment, plumbing, data acquisition, and engine components for series such as Formula Ford 1600 and 2000. In addition to distributing brands like Beta Tools, Setrab, SPA, Schroth, and Antigravity, Pegasus offers custom hose assembly for silicone, braided, and charge-air-cooler hose in diameters from 1/2 inch to 6 inches.
+The business functions as a distributor and reseller, maintaining an inventory of nearly 1,000 part numbers across categories such as cooling systems, brake components, fuel delivery, safety equipment, and vintage racing parts. In addition to stocking products from brands like Beta Tools, Turbosmart, Setrab, and Schroth, Pegasus offers custom hose assembly services and technical product support to help customers select the right components.
 
-Customers range from professional race teams and vintage racers to karting competitors and track-day enthusiasts. The catalog covers road racing, oval, drag, and off-road disciplines, with dedicated sections for Ford Racing parts, fire systems, roll-bar padding, and driver-cooling systems.
+Its customer base spans auto racing teams, vintage racers, karting competitors, and Formula Ford participants. The company emphasizes partnerships with teams across all forms of motorsports, supplying everything from data acquisition gauges to fire suppression systems for professional and amateur racers alike.
 
-Pegasus emphasizes reliability and speed, promoting itself as an "in-stock source" with a huge selection ready for immediate shipment. A customer testimonial notes an order placed Saturday morning in the U.S. arriving in Australia by Monday afternoon, illustrating the company's focus on rapid global fulfillment.
+Pegasus differentiates itself through its long-standing commitment to in-stock availability, competitive pricing, and rapid order fulfillment. The company's stated mission is to be the most reliable supplier in the racing marketplace, a position reinforced by decades of continuous operation and a focus on getting product out the door quickly.
 
 ## Known for
 - In-stock source since 1980
 - Nearly 1,000 part numbers in stock
 - Custom hose assembly service
-- Carries major racing brands (Beta Tools, Setrab, SPA, Schroth, Antigravity, AiM)
+- Competitive pricing and fast shipping
+- Technical product support
 
 ## Capabilities
 - Custom hose assembly
-- Technical consultation
 - Product distribution
+- Technical product support
 
 ## Industries
 - Auto racing
 - Motorsports
-- Vintage racing
 - Karting
+- Vintage racing
 - Formula Ford
 
 ## Company details
@@ -245,14 +246,14 @@ Pegasus emphasizes reliability and speed, promoting itself as an "in-stock sourc
 
 <details><summary>Sources</summary>
 
-- Founded 1980 -> home page
+- Founded 1980 -> /
 - Headquarters New Berlin, Wisconsin -> db
-- Founder Chris Heitman acquired Hawke DL-12 Formula Ford in late 1970s -> home page
-- Nearly 1,000 part numbers in stock -> home page
-- Custom hose assembly offered -> home page
-- Brands carried: Beta Tools, Setrab, SPA, Schroth, Antigravity, AiM, etc. -> home page
-- Industries: auto racing, vintage racing, karting, Formula Ford -> home page
-- Testimonial about fast shipping to Australia -> home page
+- Distributor of auto racing supplies -> /
+- Nearly 1,000 part numbers in stock -> /
+- Custom hose assembly service -> /
+- Carries brands Beta Tools, Turbosmart, Setrab, Schroth, etc. -> /
+- Serves auto racing, vintage racing, karting, Formula Ford -> /
+- Emphasizes in-stock availability, competitive pricing, rapid fulfillment -> / and description
 </details>
 
 ---
@@ -262,49 +263,49 @@ Pegasus emphasizes reliability and speed, promoting itself as an "in-stock sourc
 **Old description:** Since 1985 we have been a local, woman-owned, small business that specializes in packaging supplies, custom crating, and shipping.
 
 ## About
-Peli Inc has operated from Albuquerque, New Mexico since 1985 as a woman-owned small business specializing in packaging supplies, custom crating, and shipping. The company operates under the name Peli Pack and Ship for its custom shipping services and describes itself as a local provider with a capable staff ready to assist with packaging solutions.
+Peli Inc was founded in 1985 in Albuquerque, New Mexico, as a woman-owned small business specializing in packaging supplies, custom crating, and shipping. The company operates as a local supplier and service provider for the surrounding region.
 
-The company provides a range of packaging supplies including moving boxes and other packaging materials, custom crating services tailored to specific items, and shipping solutions. It serves the Albuquerque metropolitan area with weekly deliveries to Santa Fe and also ships products to customers outside the local area. The product line includes a variety of moving boxes and packaging supplies, with the company noting it offers quality products on a first-come, first-served basis.
+The company provides a range of packaging materials including moving boxes and supplies, and offers custom crating services tailored to customer specifications. It serves the Albuquerque metropolitan area with weekly deliveries to Santa Fe and ships products to broader markets. The staff assists with packaging solutions, emphasizing fast service and reliable delivery.
 
-Its customer base includes residential and commercial clients requiring packaging materials, custom crates, and shipping services. The company serves both local customers in the Albuquerque metro area and ships to wider destinations, though it does not specify particular industries.
+Peli Inc serves customers needing packaging and shipping support, including residential movers, businesses requiring custom crates, and organizations with recurring supply needs in the Albuquerque and Santa Fe regions. Its product line covers standard packaging items as well as custom-built crates for specialized shipments.
 
-The business emphasizes fast service and great delivery as key differentiators, highlighting its long-standing presence as a woman-owned enterprise since 1985. Its woman-owned certification underscores its commitment to diverse business ownership.
+The business highlights its local, woman-owned status and commitment to quick turnaround as key differentiators, aiming to deliver quality products on a first-come, first-served basis. The company also notes its family-owned heritage and focus on personal service.
 
 ## Known for
-- Fast service and great delivery
 - Woman-owned small business since 1985
-- Local provider with weekly deliveries to Santa Fe
-- Operates as Peli Pack and Ship for custom shipping
+- Fast service and great delivery
+- Custom crating and shipping services
+- Weekly deliveries to Santa Fe
+- Local, family-owned operation
 
 ## Capabilities
-- Packaging supplies distribution
+- Packaging supplies
 - Custom crating
 - Shipping services
-- Moving boxes supply
+- Moving boxes and supplies
+- Packaging solutions
+- Weekly delivery to Santa Fe
 
 ## Certifications
-- WOMAN-OWNED
+- Woman-owned
 
 ## Company details
 - **Company Type:** Distributor / reseller
 - **Founded:** 1985
-- **Ownership:** Woman-owned, Small business
+- **Ownership:** Woman-owned, Small business, Family-owned
 - **Headquarters:** Albuquerque, New Mexico
 
 <details><summary>Sources</summary>
 
 - Founded 1985 -> db
-- Headquarters Albuquerque, New Mexico -> db
-- Woman-owned small business -> db
-- Specializes in packaging supplies, custom crating, and shipping -> db
-- Offers moving boxes and packaging supplies -> page /
-- Serves Albuquerque metro area with weekly deliveries to Santa Fe -> page /
-- Ships products to customers beyond local area -> page /
-- Fast service and great delivery -> db
-- WOMAN-OWNED certification -> db
-- Operates as Peli Pack and Ship -> page /
-- Capable staff assists with packaging solutions -> page /
-- First-come, first-served basis for products -> page /
+- Woman-owned small business -> db (certifications) and page '/'
+- Headquarters Albuquerque, New Mexico -> db (hq_city, hq_state_label)
+- Packaging supplies, custom crating, shipping -> page '/'
+- Fast service and great delivery -> capabilities (db)
+- Weekly deliveries to Santa Fe -> page '/'
+- Moving boxes & supplies -> page '/'
+- Capable staff for packaging solutions -> page '/'
+- Family-owned business -> capabilities (db)
 </details>
 
 ---
@@ -314,33 +315,34 @@ The business emphasizes fast service and great delivery as key differentiators, 
 **Old description:** We are a designer and manufacturer of a complete line of electric power distribution products, specializing in the following:
 
 ## About
-Penn Panel & Box Company has operated from Collingdale, Pennsylvania, since 1955, when it relocated from its original 1938 location in Philadelphia. The business was founded by Charles Edgar Craven and remains under fourth‑generation family leadership; his son George T. Craven expanded the company in the 1950s, grandson George T. (Kip) Craven Jr. introduced modern manufacturing technologies, and great‑grandson Jeffrey C. Craven assumed the presidency in 2013.
+Penn Panel & Box Co. has operated from Collingdale, Pennsylvania, since 1955, after its founding in 1938 by Charles Edgar Craven in Philadelphia. The company remains under fourth‑generation family leadership, with Jeffrey C. Craven assuming the presidency in 2013.
 
-The company designs, manufactures, and repairs a full range of electric power distribution equipment, including low‑voltage (600 V and below) and medium‑voltage (2,400 V to 38 kV) switchgear, control panels, enclosures, substations, high‑voltage switches, and utility service‑entrance and metering units. A dedicated sheet‑metal fabrication shop, a CAD/CAM engineering system, and a state‑of‑the‑art painting facility added during a 1987 plant expansion support custom fabrication and retrofit work. The firm also offers emergency service for installed equipment.
+The firm designs, builds, and repairs custom electrical power distribution equipment, including switchgear, control panels, enclosures, substations, and high‑voltage switches up to 38 kV. It also produces utility service‑entrance and metering units and provides custom sheet‑metal fabrication, retrofit work, and emergency service. A CAD/CAM system and a state‑of‑the‑art painting facility support in‑house engineering and finishing.
 
-Primary customers are electrical contractors, engineering and design firms, and electric utilities such as PECO Energy and FirstEnergy (Met‑Ed, JCP&L). Distributors, consultants, and industrial end users also specify Penn Panel equipment for panelboards, switchgear retrofits, enclosures, and custom power‑distribution assemblies.
+Customers include electrical contractors, engineering and design firms, distributors, consultants, and end users. Utility references name PECO Energy and FirstEnergy subsidiaries Met‑Ed and JCP&L.
 
-The company emphasizes custom design tailored to each application, fast turnaround, and long‑term support after delivery. All equipment is built to meet applicable UL, NEC, NEMA, and utility standards, and the family‑owned structure is cited as a driver of consistent quality and personal service.
+The company emphasizes custom design, fast delivery, and long‑term support after sale. Its equipment meets UL, NEC, NEMA, and utility standards, and it maintains ANSI certification. Continuous investment in metalworking machinery and information systems aims to keep turnaround times short.
 
 ## Known for
-- Custom equipment designed to each customer's specifications
-- Fast delivery on custom and stock items
+- Custom equipment designed to each customer’s specifications
+- Fast delivery and short turnaround times
 - Retrofit and repair services for existing installations
-- Long‑term support after sale
-- Fourth‑generation family ownership guiding quality and service
+- Commitment to support long after the sale
+- Fourth‑generation family ownership with continuous technology investment
 
 ## Capabilities
-- Custom electrical power distribution equipment design
+- Custom electrical power distribution equipment design and manufacturing
 - Switchgear manufacturing
-- Control panel assembly
+- Control panel manufacturing
 - Enclosure fabrication
 - Substation manufacturing
-- High voltage switch manufacturing
+- High voltage switch manufacturing (up to 38 kV)
 - Utility service entrance & metering units
 - Custom sheet metal fabrication
-- Retrofit services
+- Retrofit and repair services
 - Emergency service
 - CAD/CAM engineering
+- Painting and finishing
 
 ## Industries
 - Electrical contractors
@@ -352,7 +354,7 @@ The company emphasizes custom design tailored to each application, fast turnarou
 
 ## Equipment
 - CAD/CAM system
-- Painting facility
+- State-of-the-art painting facility
 
 ## Certifications
 - ANSI
@@ -360,24 +362,29 @@ The company emphasizes custom design tailored to each application, fast turnarou
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1938
-- **Ownership:** Family-owned
-- **Headquarters:** Collingdale, PA
+- **Ownership:** Family-owned (fourth generation)
+- **Headquarters:** Collingdale, Pennsylvania
 
 <details><summary>Sources</summary>
 
-- Founded 1938 by Charles Edgar Craven -> /about
-- Relocated to Collingdale, PA in 1955 -> /about
-- Fourth-generation family leadership: Charles Edgar Craven, George T. Craven, George T. (Kip) Craven Jr., Jeffrey C. Craven -> /about
+- Founded 1938 -> db, /about
+- Headquarters Collingdale, PA -> db, /about
+- Family-owned fourth generation -> /about
+- Founder Charles Edgar Craven -> /about
+- Moved to Collingdale 1955 -> /about
+- Plant expansion and painting facility 1987 -> /about
+- Jeffrey C. Craven took over 2013 -> /about
 - Designs, builds, repairs switchgear, control panels, enclosures, substations, high voltage switches -> /about
-- Low voltage (600V and below) and medium voltage (2400V to 38kV) products -> /
-- Utility service entrance & metering units -> /
-- Custom sheet metal fabrication -> /
-- CAD/CAM system and state-of-the-art painting facility added 1987 -> /about
-- Emergency service offered -> /
-- Serves electrical contractors, engineering/design firms, utilities (PECO Energy, FirstEnergy), distributors, consultants, end users -> /, /about
-- Meets UL, NEC, NEMA, utility standards -> /about
+- Utility service entrance & metering units -> /about, /
+- Custom sheet metal fabrication -> /about, /
+- Retrofit existing equipment -> /about
+- Emergency service -> /about, /
+- Serves electrical contractors, engineering/design firms -> /
+- Serves utilities PECO Energy, FirstEnergy (Met-Ed, JCP&L) -> db (industries_served)
+- CAD/CAM system -> /about
+- Adheres to UL, NEC, NEMA, utility standards -> /about
 - ANSI certification -> db
-- Family-owned -> /about
+- Mission to develop new solutions -> /about
 </details>
 
 ---
@@ -387,55 +394,60 @@ The company emphasizes custom design tailored to each application, fast turnarou
 **Old description:** Facilities across all industries require various custom metal components to finish making it safe for their employees. Our team specializes in creating aluminum and steel gratings for walkways of all strength requirements. We take the time to ensure that every grating we deliver is ready for a lifetime’s worth of use and safety.
 
 ## About
-PennFab, Inc. operates from Morrisville, Pennsylvania, as a steel manufacturing company serving heavy industrial and infrastructure markets. Ownership structure and founder names have not been disclosed.
+PennFab, Inc. is a Pennsylvania-based steel manufacturing company headquartered in Morrisville. The company specializes in structural steel fabrication for infrastructure and transportation projects.
 
-The firm provides custom metal fabrication, bridge fabrication, large-scale structural fabrication, and infrastructure manufacturing, supported by an in-house engineering department. Core processes include welding, cutting, forming, and assembly of steel and aluminum components such as signal bridges, catenary structures, walkways, gratings, handrails, and bridge bearings. Facility size, headcount, and annual volume are not publicly specified.
+Its capabilities span custom metal fabrication, bridge and large-scale fabrications, infrastructure manufacturing, and a full-service engineering department. The shop produces aluminum and steel gratings for walkways, catenary structures, signal bridges, handrails, equipment skids, mezzanines, and stairs, with welding services that include automatic welding machines. All material is melted and manufactured in the United States in compliance with the Buy America Act.
 
-PennFab’s customer base spans railroad and transportation agencies, material handling, highway and bridge construction, heat treating, furnace and part washer manufacturers, pollution control, flight simulator builders, water treatment, heat recovery, and OEM organizations. Specific project types include rail stations, railroad catenary systems, highway sign structures, elevated platforms, substations, canopies, construction support, and bridge components.
+PennFab serves the railroad and transportation industries as a major supplier of track material, cable trays, wire ways, anti-fall equipment, and bridge bearings. Additional markets include material handling, highway and bridge construction, heat treating, furnace manufacturing, part washers, pollution control, flight and training simulators, water treatment, heat recovery, simulation chambers, and various OEM organizations.
 
-The company emphasizes domestic production, stating compliance with the Buy America Act and that most material is melted and manufactured in the United States with no overseas shipping or receiving. Quality is governed by standards including AWS, AISC, ASTM, ASM, NYDOT, AREMA, MIL-STD, NAAMM, AASHTO, and OSHA.
+The company emphasizes domestic production and adherence to industry standards such as AWS, AISC, ASTM, ASM, NYDOT, AREMA, MILL-STD, NAAMM, AASHTO, and OSHA. Testimonials from rail and construction clients highlight its quality, competitiveness, and long-term dedication to customer satisfaction.
 
 ## Known for
-- Buy America Act compliance – domestic melt and manufacture
-- No overseas shipping or receiving
-- In-house engineering department
-- Extensive industry certifications (AWS, AISC, ASTM, etc.)
-- Specialized in railroad catenary and bridge fabrication
+- Domestic production: all material melted and manufactured in the USA per Buy America Act
+- Full-service engineering and fabrication under one roof
+- Major supplier to railroad and transportation industries (catenary structures, signal bridges)
+- Compliance with AWS, AISC, ASTM, AREMA, AASHTO, and other standards
+- Automatic welding machines for complex fabrication
 
 ## Capabilities
-- Fabrication & Processing
-- Bridge Fabrications
-- Infrastructure Manufacturing
-- Large Fabrications
 - Custom Metal Fabrication
-- Engineering
-- Welding services
-- Automatic welding
+- Bridge Fabrication
+- Large Fabrication
+- Structural Steel Fabrication
+- Infrastructure Manufacturing
+- Engineering & Design
+- Welding (including Automatic Welding)
+- Grating Fabrication (Aluminum & Steel)
+- Catenary Structure Fabrication
+- Signal Bridge Fabrication
+- Handrail & Railing Fabrication
+- Equipment Skid Fabrication
+- Mezzanine Fabrication
+- Stair Fabrication
+- Material Handling Equipment Fabrication
+- Pollution Control Equipment Fabrication
+- Heat Treating Furnace Fabrication
+- Part Washer Fabrication
+- Flight Simulator Structure Fabrication
+- Water Treatment Equipment Fabrication
+- Heat Recovery Chamber Fabrication
+- Simulation Chamber Fabrication
+- OEM Fabrication Services
 
 ## Industries
 - Railroad
 - Transportation
-- Material handling
-- Highway and bridge construction
-- Heat treating
-- Furnace manufacturing
-- Part washer manufacturing
-- Pollution control
-- Flight and training simulators
-- Water treatment
-- Heat recovery
-- Simulation chambers
-- Stairs and mezzanines
-- Equipment skids
-- OEM organizations
-- Rail stations
-- Railroad catenary
-- Highway sign structures
-- Elevated platforms
-- Substations
-- Canopies
-- Construction support
-- Bridge components
+- Material Handling
+- Highway & Bridge Construction
+- Heat Treating
+- Furnace Manufacturing
+- Part Washing
+- Pollution Control
+- Flight & Training Simulation
+- Water Treatment
+- Heat Recovery
+- Simulation Chambers
+- OEM
 
 ## Equipment
 - Automatic welding machines
@@ -447,7 +459,7 @@ The company emphasizes domestic production, stating compliance with the Buy Amer
 - ASM
 - NYDOT
 - AREMA
-- MIL-STD
+- MILL-STD
 - NAAMM
 - AASHTO
 - OSHA
@@ -458,16 +470,14 @@ The company emphasizes domestic production, stating compliance with the Buy Amer
 
 <details><summary>Sources</summary>
 
-- Location: Morrisville, PA -> db
-- Company description: Pennsylvania-based steel manufacturing company -> /
-- 20th anniversary celebrated in 2003 -> /
-- Capabilities: Fabrication & Processing, Bridge Fabrications, Infrastructure Manufacturing, Large Fabrications, Custom Metal Fabrication, Engineering, Welding services -> /
-- Industries served: Railroad, Transportation, Material handling, Highway and bridge construction, Heat treating, Furnace manufacturing, Part washer manufacturing, Pollution control, Flight and training simulators, Water treatment, Heat recovery, Simulation chambers, Stairs and mezzanines, Equipment skids, OEM organizations, Rail stations, Railroad catenary, Highway sign structures, Elevated platforms, Substations, Canopies, Construction support, Bridge components -> /
-- Certifications: AWS, AISC, ASTM, ASM, NYDOT, AREMA, MIL-STD, NAAMM, AASHTO, OSHA -> /
-- Materials: Steel, Aluminum -> /
-- Buy America Act compliance, domestic melt and manufacture -> /
-- No overseas shipping or receiving -> /
-- In-house engineering department -> /
+- Company name and location -> db
+- Description of steel manufacturing and fabrication -> /
+- Capabilities: custom metal fabrication, bridge fabrication, large fabrication, infrastructure manufacturing, engineering, welding, gratings -> /
+- Buy America Act compliance, domestic material -> /
+- Industries served: railroad, transportation, material handling, highway/bridge, heat treating, furnaces, part washers, pollution control, flight simulators, water treatment, heat recovery, simulation chambers, OEM -> /
+- Standards: AWS, AISC, ASTM, ASM, NYDOT, AREMA, MILL-STD, NAAMM, AASHTO, OSHA -> /
+- Automatic welding machines mentioned in blog -> /
+- Testimonials referencing 20th anniversary in 2003 -> /
 - LinkedIn URL -> db
 </details>
 
@@ -478,51 +488,53 @@ The company emphasizes domestic production, stating compliance with the Buy Amer
 **Old description:** At Pennsylvania Farm Table Company we create one-of-a-kind farm tables using traditional and authentic woodworking techniques. We specialize in hand-turned legs and build all of our furniture combining quality craftsmanship with locally sourced sustainable Pennsylvania wood. Every handcrafted farmhouse table is a “modern heirloom” intended to be cherished and enjoyed for generations to come.
 
 ## About
-Pennsylvania Farm Table Company operates from Exton, Pennsylvania, in a restored 1750 landmark building that once housed the West Whiteland Inn. The business was founded in 2013 by Bobby Snyder, a third‑generation woodworker who learned the craft from his grandfather, a dulcimer and banjo maker, and his father. After working in several other fields, Snyder returned to woodworking with the goal of building farm tables that would become family heirlooms.
+Pennsylvania Farm Table Company was founded in 2013 by Bobby Snyder in Exton, Pennsylvania. A third-generation woodworker, Snyder learned the craft from his grandfather, Jack, who built dulcimers and banjos, and his father, who taught him the trade. The company began with a vision of creating high-quality farm tables that would become family heirlooms.
 
-The company produces custom farmhouse dining tables using traditional woodworking methods and locally sourced, sustainable Pennsylvania hardwoods. A signature feature is hand‑turned legs, shaped on lathes in their workshop. In response to growing demand, Snyder and his team recently built a larger production facility. The Exton showroom displays pre‑made tables and estate chairs, allowing customers to experience the pieces in a historic colonial setting.
+The company handcrafts custom farmhouse dining tables using traditional woodworking techniques, with a specialty in hand-turned legs. All furniture is built from locally sourced, sustainable Pennsylvania hardwoods. Operations take place in a recently expanded custom workshop, and a showroom is housed in the restored 1750 West Whiteland Inn, a historic landmark in Exton. The shop produces both made-to-order tables in custom dimensions, wood species, and styles, as well as a selection of pre-built tables available for immediate purchase.
 
-The primary clientele are homeowners seeking one‑of‑a‑kind dining tables, though the showroom also attracts interior designers and furniture retailers looking for artisan‑crafted pieces. Testimonials highlight families commissioning tables up to nine feet long for multi‑generational use.
+The primary customers are residential homeowners seeking heirloom-quality dining furniture. Testimonials from clients such as Bonnie K., Tesha Maria P., and Derrick B. describe tables that become the focal point of their homes. The company works closely with each customer through the design process, and its pieces have attracted attention from media outlets and HGTV personality Clint Harp.
 
-Snyder has stated that the company was started to fill a personal calling: creating "modern heirlooms" that combine quality craftsmanship with wood from the region. The work has been featured in national magazines, recognized by HGTV’s Clint Harp, and earned multiple awards for craftsmanship and creativity.
+Snyder started the business after trying several industries, realizing his calling was to use his woodworking skills to create lasting furniture. The firm emphasizes its multi-generational craft heritage, sustainable local materials, and a commitment to building "modern heirlooms" intended to be cherished for generations. Recognition from national media and design awards underscores the quality of their work.
 
 ## Known for
-- Hand‑turned legs on every table
+- Hand-turned legs crafted with traditional woodworking techniques
 - Locally sourced, sustainable Pennsylvania hardwoods
-- Traditional woodworking techniques passed down three generations
-- Custom‑built workshop expanded for increased capacity
-- Showroom housed in a restored 1750 historic inn
+- Custom-built workshop facility expanded for growing demand
+- Featured in national magazines and recognized by HGTV's Clint Harp
+- Third-generation woodworking family heritage
 
 ## Capabilities
 - Custom farmhouse table manufacturing
-- Hand‑turned leg production
-- Traditional joinery and woodworking
-- Custom sizing and design consultation
-- Wood finishing and hand‑rubbed finishes
-- On‑site showroom display and selection
+- Hand-turned leg crafting
+- Traditional woodworking
+- Custom furniture design
+- Showroom retail and display
+- Sustainable wood sourcing
+- Heirloom furniture construction
 
 ## Industries
 - Residential furniture
 - Custom woodworking
-- Home furnishings
-- Interior design
+- Heirloom furniture
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 2013
+- **Ownership:** Family-owned
 - **Headquarters:** Exton, Pennsylvania
 
 <details><summary>Sources</summary>
 
-- Founded 2013 by Bobby Snyder -> /about
-- Third‑generation woodworker family history -> /about
-- Located in Exton, PA, showroom in former West Whiteland Inn (built 1750) -> /
-- Specializes in hand‑turned legs and traditional woodworking -> /
+- Founded in 2013 by Bobby Snyder -> /about
+- Located in Exton, Pennsylvania -> /
+- Specializes in handcrafted farmhouse tables with hand-turned legs -> /
 - Uses locally sourced sustainable Pennsylvania wood -> /
-- Custom‑built larger workshop facility -> /about
+- Showroom housed in historic West Whiteland Inn built in 1750 -> /
+- Recently custom-built larger workshop facility -> /about
 - Featured in magazines, recognized by HGTV's Clint Harp, won awards -> /about
-- Primary customers are homeowners seeking custom dining tables -> /
-- Showroom displays pre‑made tables and estate chairs -> /
+- Third-generation woodworker heritage (grandfather Jack, father taught Bobby) -> /about
+- Custom tables made to order in desired size, wood, style -> /
+- Pre-made tables available in showroom -> /
 </details>
 
 ---
@@ -532,34 +544,32 @@ Snyder has stated that the company was started to fill a personal calling: creat
 **Old description:** High-Quality Hardwood Lumber & Antiques at Fair Prices - thats what we do. By choosing Penny Hardwoods you cut out the middle man and get the products you need right when you need them. Let us know whether you’re looking to purchase products for your home or office and we’ll happily advise you on what will best suit your needs. We're here to serve...
 
 ## About
-Penny Hardwoods operates from West Fork, Arkansas, where it supplies hardwood lumber and reconditioned antiques to customers across the region. The company does not publicly disclose its founding year or ownership structure, and no founders are named in available sources.
+Penny Hardwoods is based in West Fork, a small city in northwest Arkansas. The company has not disclosed its founding date, ownership structure, or the names of its founders in publicly available materials, and no historical narrative about its inception is provided on its website.
 
-The business stocks a range of domestic and exotic hardwoods, including White Oak, Birch plywood, Purple Heart, and Padauk, alongside a selection of reconditioned antiques. It positions itself as a direct supplier, emphasizing that buyers can bypass intermediaries to obtain materials promptly. No facility size, headcount, or volume metrics are published.
+The company functions as a supplier of hardwood lumber and sheet goods, stocking domestic species such as White Oak and Birch plywood alongside imported exotics including Purple Heart and Padauk. The inventory includes both solid lumber and plywood panels, catering to a variety of woodworking needs. In addition to lumber, Penny Hardwoods runs an antique shop that sells reconditioned antique pieces, though the scope of restoration work is not described in detail.
 
-Penny Hardwoods serves both residential and commercial buyers, from homeowners pursuing woodworking projects to offices seeking quality wood products. The company invites inquiries from anyone looking to purchase materials for home or office use and offers guidance on product selection.
+The customer base spans hobbyist woodworkers, professional furniture builders, interior designers, and both residential and commercial buyers who need material for projects such as cabinetry, flooring, and office furnishings. The website invites inquiries from anyone looking to purchase products for a home or office, indicating a dual retail and wholesale orientation.
 
-The firm's stated differentiation rests on cutting out the middleman to deliver fair prices and timely access, coupled with a willingness to advise customers on the most suitable materials for their needs.
+The company positions itself as a direct source, advertising that it eliminates middlemen to offer fair pricing and prompt delivery, and it highlights a consultative approach to help customers choose the right wood for their specific applications. No specific certifications, tolerances, or lead-time guarantees are published. Customers can reach the business by phone, email, or through a contact form on the website.
 
 ## Known for
-- Direct supplier model that bypasses intermediaries
-- Advisory support for material selection
-- Stock of domestic and exotic hardwoods including Purple Heart and Padauk
-- Reconditioned antique inventory
-- Fair pricing emphasis
+- Direct supply eliminating middlemen
+- Fair pricing
+- Consultative product selection
+- Prompt delivery
 
 ## Capabilities
 - Hardwood lumber distribution
 - Exotic wood sourcing
 - Plywood supply
-- Antique reconditioning and sales
-- Customer material consultation
+- Antique reconditioning
+- Antique sales
+- Product selection advisory
 
 ## Industries
 - Woodworking
-- Furniture manufacturing
-- Home improvement
-- Antique restoration
-- Interior design
+- Residential
+- Commercial
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -567,13 +577,15 @@ The firm's stated differentiation rests on cutting out the middleman to deliver 
 
 <details><summary>Sources</summary>
 
-- Located in West Fork, Arkansas -> db
-- Address: 37 W Main St, West Fork, AR 72774 -> /
-- Sells hardwood lumber including White Oak and Birch Plywood -> /
-- Sells exotic hardwoods like Purple Heart and Padauk -> /
-- Sells reconditioned antiques -> /services
-- Offers customer advisory service -> /
-- Contact: pennyhardwoods@gmail.com, (479) 283-1816 -> /
+- Location: West Fork, Arkansas -> db
+- Product offerings: White Oak, Birch plywood, Purple Heart, Padauk -> home page
+- Antique shop with reconditioned antiques -> services page
+- Direct supply claim (cut out middleman) -> home page
+- Fair prices claim -> home page
+- Advisory service for product selection -> home page
+- Prompt delivery claim -> home page
+- Customer types: home or office, woodworking -> home page
+- Contact methods: phone, email, contact form -> home page
 </details>
 
 ---
@@ -583,47 +595,43 @@ The firm's stated differentiation rests on cutting out the middleman to deliver 
 **Old description:** When Frederick Energy Products (FEP) was ready to take its pedestrian
 
 ## About
-Pentar Incorporated was founded in 1998 in Huntsville, Alabama. The company operates as a privately held contract manufacturer, though its ownership structure and founders are not publicly disclosed.
+Pentar Incorporated, based in Huntsville, Alabama, was founded in 1998. The company operates as a contract manufacturer and full turnkey provider of electronic devices.
 
-Pentar provides full turnkey contract manufacturing of electronic devices, handling in-house surface-mount and through-hole assembly, box-build and mechanical assembly, test, packaging, and worldwide drop-shipping. It also manages off-shore production with full project oversight. Design services span industrial design, analog and digital circuit design, firmware and software development, and mechanical design using 3D tools. A service-and-repair depot supports field returns. The firm works from prototype quantities through high-volume runs, though facility size and headcount are not published.
+Pentar provides complete in-house assembly, test, packaging, and shipping services, alongside managed off-shore manufacturing. Its electronic assembly capabilities encompass surface mount technology (SMT) and through-hole processes, as well as full box build and mechanical assembly. The firm also offers design and development services including industrial design, analog and digital circuit design, embedded software development, and mechanical design using 3D modeling tools. A dedicated value engineering team evaluates products and processes to improve quality and reduce cost. Additional services include a service and repair depot with field returns processing and global drop-shipping logistics. Production scales from prototype quantities to high-volume runs.
 
-The company serves telecommunications, consumer, industrial, and medical markets. A noted case study describes its work for Frederick Energy Products (FEP) on the HIT-NOT® pedestrian collision avoidance system. Pentar also produces devices for the Recon Outdoors line of hunting and outdoor-sportsman products.
+The company serves telecommunications, consumer products, industrial, and medical markets. Notable engagements include a turnkey manufacturing partnership with Frederick Energy Products (FEP) for the HIT-NOT® pedestrian collision avoidance system, and production of GPS receivers used in cellular tower infrastructure. Pentar also manufactures products for the Recon Outdoors line of hunting and outdoor sportsman gear, as well as a variety of medical devices.
 
-Pentar states its differentiation lies in proactive value engineering—evaluating products, components, and processes to improve quality, increase productivity, and reduce cost—combined with a turnkey model that spans design through after-sales service. The company emphasizes on-time delivery, competitive pricing, and ISO 9001:2015 certification.
+Pentar emphasizes proactive value engineering and a commitment to delivering quality products on time at competitive pricing. The company's approach centers on taking initiative to evaluate components and processes for continuous improvement.
 
 ## Known for
-- Full turnkey contract manufacturing from design through production and service
-- In-house SMT/through-hole assembly, box build, test, packaging, and global drop-shipping
-- Proactive value engineering to improve quality and reduce cost
-- Service and repair depot with field-return management
-- ISO 9001:2015 certified quality system
+- Complete in-house assembly, test, packaging, and shipping
+- Managed off-shore manufacturing with project oversight
+- Proactive value engineering evaluations
+- Service and repair depot with field returns processing
+- Global drop-shipping logistics
 
 ## Capabilities
-- Contract manufacturing
-- Turnkey manufacturing
 - Surface mount technology (SMT) assembly
 - Through-hole assembly
 - Box build assembly
 - Mechanical assembly
-- In-house testing
-- Packaging and shipping
-- Worldwide drop-shipping
-- Off-shore manufacturing management
-- Project management
+- Functional testing
+- Packaging and kitting
+- Supply chain management (off-shore)
 - Industrial design
 - Analog circuit design
 - Digital circuit design
-- Firmware/software development
-- Mechanical design (3D CAD)
-- Value engineering
-- Service and repair depot
-- Field return management
-- Reliability prediction
-- Prototype to high-volume production
+- Embedded software development
+- Mechanical design (CAD/3D modeling)
+- Value engineering/design for manufacturability
+- Service and repair depot operations
+- Drop-shipping logistics
+- Prototype and low-volume production
+- High-volume production
 
 ## Industries
 - Telecommunications
-- Consumer
+- Consumer products
 - Industrial
 - Medical
 
@@ -639,21 +647,22 @@ Pentar states its differentiation lies in proactive value engineering—evaluati
 
 - Founded 1998 -> db
 - Headquarters Huntsville, Alabama -> db
-- ISO 9001:2015 certified -> page "/"
-- Contract manufacturer and full turnkey provider -> page "/"
-- In-house assembly, test, packaging, shipping -> page "/"
-- Off-shore manufacturing with project management -> page "/"
-- Design services: industrial design, analog/digital circuit design, software development, mechanical design -> page "/"
-- Value engineering -> page "/"
-- Service and repair depot -> page "/"
-- SMT and through-hole assembly -> page "/"
-- Box build and mechanical assemblies -> page "/"
-- Drop-shipping worldwide -> page "/"
-- Prototype to high-volume production -> page "/"
-- Serves telecommunications, consumer, industrial, medical markets -> page "/"
-- Case study: Frederick Energy Products (FEP) for HIT-NOT system -> page "/"
-- Recon Outdoors brand products -> page "/"
-- Strive to exceed expectations with quality, on time, competitive price -> page "/"
+- ISO 9001:2015 certified -> /
+- Contract manufacturer and full turnkey provider -> /
+- In-house assembly, test, packaging, shipping -> /
+- Off-shore manufacturing with project management -> /
+- SMT and through-hole assembly -> /
+- Box build and mechanical assembly -> /
+- Design services: industrial, analog/digital circuit, software, mechanical -> /
+- Value engineering -> /
+- Service and repair depot -> /
+- Drop-shipping worldwide -> /
+- Industries: telecommunications, consumer, industrial, medical -> /
+- Case study: Frederick Energy Products (FEP) HIT-NOT® -> /
+- GPS receivers for cellular towers -> /
+- Recon Outdoors brand products -> /
+- Prototype to high-volume production -> /
+- Materials: injection molded parts, metal stampings, die castings, extrusions, vacuum formed -> /
 </details>
 
 ---

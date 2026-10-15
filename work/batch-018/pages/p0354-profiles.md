@@ -3,49 +3,49 @@
 **Old description:** Founded in 1953, Husky is a global provider of injection molding systems, hot runners, mold controllers, and proactive monitoring services, specializing in solutions for PET preform and bottle production, food packaging applications, consumer goods, and medical device manufacturing.
 
 ## About
-Husky Injection Molding Systems was founded in 1953 and is headquartered in Milton, Vermont. The company began as a pioneer in plastic injection molding technology and has grown into a global supplier of injection molding systems, hot runners, mold controllers, and proactive monitoring services.
+Husky Technologies, headquartered in Milton, Vermont, was founded in 1953. The company began as a provider of injection molding systems and has grown into a global supplier of equipment and services for the plastics industry.
 
-The company designs and manufactures a range of injection molding systems tailored for specific applications, including the HyPET®6e and HyPET® NX6 for PET preform production, the ICHOR system for precision syringe and medical device molding, the HyCAP™4 for high-performance closure molding, the HyPERSYNC™ for food container molding, and the HyLECTRIC® for high-performance packaging. Husky also provides end-to-end services such as installation, training, real-time equipment monitoring through its Husky Advantage+Elite™ platform, machine audits, refurbishments, and upgrades. Its worldwide network supports customers in more than 140 countries.
+The company designs and manufactures complete injection molding systems, including hot runners, mold controllers, and proactive monitoring services. Its product lineup comprises specialized platforms such as the HyPET®6e and HyPET® NX6 for PET preform production, the ICHOR system for precision syringe and medical device molding, the HyCAP™4 for high-performance closure molding, the HyPERSYNC™ for food container molding, and the HyLECTRIC® for high-performance packaging. Husky supports customers in more than 140 countries through a worldwide network that delivers local installation, training, and ongoing technical support.
 
-Husky serves industries including beverage packaging (PET preforms and bottles), food packaging (thin-wall containers), consumer goods, medical and pharmaceutical molding (syringes, medical devices), electronic components, and automotive components. Its customers range from beverage producers and packaging manufacturers to healthcare companies and retail brands.
+Husky serves beverage producers, packaging manufacturers, consumer goods brands, medical and pharmaceutical companies, and electronics manufacturers. Its systems are used for PET preform and bottle production, thin-wall food containers, beverage and specialty closures, medical devices such as syringes, and electronic components.
 
-Husky positions itself as a technology partner rather than merely a machine supplier, emphasizing the transformation of factories into intelligent networks and leveraging sustainability as a competitive advantage. The company highlights its proactive, predictive monitoring services and long-term support model as key differentiators.
+The company distinguishes itself by positioning as a technology partner rather than a machine supplier, offering the Husky Advantage+Elite™ service that provides real-time proactive, predictive, and transparent equipment monitoring. This service includes extended protection plans, machine audits, refurbishments, and upgrades aimed at minimizing unplanned downtime and lowering part costs over the life of the system.
 
 ## Known for
-- Proactive, predictive, and transparent equipment monitoring via Husky Advantage+Elite™
-- Real-time performance alerts to prevent unplanned downtime
-- Global support network in over 140 countries
-- Genuine OEM parts, technical assistance, and troubleshooting throughout system life
+- Real-time proactive, predictive, and transparent equipment monitoring via Husky Advantage+Elite™
+- Global support network in over 140 countries with local installation and training
+- Genuine OEM parts supply, technical assistance, and troubleshooting
 - Extended protection plans, machine audits, refurbishments, and upgrades
+- Specialized injection molding platforms for PET, medical, closure, food container, and packaging applications
 
 ## Capabilities
-- Injection molding system manufacturing
+- Injection molding system design and manufacturing
 - Hot runner systems
 - Mold controllers
-- Proactive monitoring services
-- PET preform molding
-- Medical device molding
-- Closure molding
-- Food container molding
-- Packaging molding
-- Installation and commissioning
-- Operator training
+- Proactive monitoring services (Husky Advantage+Elite™)
+- Equipment installation and training
+- Real-time predictive equipment monitoring
+- OEM parts supply
+- Technical assistance and troubleshooting
+- Maintenance and protection plans
 - Machine audits
 - Equipment refurbishment
 - System upgrades
-- Technical assistance
-- Troubleshooting support
+- PET preform molding systems
+- Medical device molding systems
+- Closure molding systems
+- Food container molding systems
+- Packaging molding systems
 
 ## Industries
 - PET preform and bottle production
 - Food packaging
 - Consumer goods
 - Medical device manufacturing
-- Pharmaceutical molding
-- Electronic components
-- Automotive components
-- Beverage closures
-- Healthcare applications
+- Beverage production
+- Packaging manufacturing
+- Healthcare
+- Electronics manufacturing
 
 ## Equipment
 - HyPET®6e
@@ -64,12 +64,16 @@ Husky positions itself as a technology partner rather than merely a machine supp
 
 - Founded in 1953 -> db
 - Headquartered in Milton, Vermont -> db
-- Global provider of injection molding systems, hot runners, mold controllers, proactive monitoring services -> /
-- Specializes in PET preform and bottle production, food packaging, consumer goods, medical device manufacturing -> /
-- Customers in more than 140 countries -> /
-- Product lines: HyPET®6e, HyPET® NX6, ICHOR, HyCAP™4, HyPERSYNC™, HyLECTRIC® -> /
-- Services: Husky Advantage+Elite™ monitoring, installation, training, OEM parts, audits, refurbishments, upgrades -> /
-- Industries served: beverage packaging, food packaging, consumer goods, medical/pharmaceutical, electronics, automotive -> /
+- Global provider of injection molding systems, hot runners, mold controllers, proactive monitoring services -> db, /
+- Specializes in PET preform and bottle production, food packaging, consumer goods, medical device manufacturing -> db, /
+- Supports customers in more than 140 countries -> /
+- Worldwide network enables local support -> /
+- Product systems: HyPET®6e, HyPET® NX6, ICHOR, HyCAP™4, HyPERSYNC™, HyLECTRIC® -> /
+- Services: Husky Advantage+Elite™ proactive monitoring, OEM parts, technical assistance, maintenance plans, machine audits, refurbishments, upgrades -> /
+- Serves beverage producers, packaging manufacturers, consumer goods brands, medical/pharmaceutical, electronics -> /
+- Applications: PET preform/bottle, thin-wall food containers, closures, medical devices, electronic components -> /
+- Differentiator: technology partner, intelligent networks, sustainability, foresight -> /
+- Contact phone +1 (905) 951-5000 -> /
 </details>
 
 ---
@@ -79,37 +83,36 @@ Husky positions itself as a technology partner rather than merely a machine supp
 **Old description:** Handcrafted to perfection by a master furniture maker in the Maine tradition of fine woodworking.
 
 ## About
-Founded in 1988 in Kennebunkport, Maine, Huston & Company began as a workshop dedicated to the Maine tradition of fine woodworking. The company operates from a combined showroom and workshop in Kennebunkport, where a small team of master craftsmen produces each piece by hand.
+Huston & Company, based in Arundel, Maine, with a showroom and workshop in nearby Kennebunkport, was founded in 1988. The company remains privately held; no founder names are disclosed in public materials. It began with a mission to design and build furniture that integrates function, form, and master-level craftsmanship in an elegant, enduring style.
 
-The firm designs and builds hardwood furniture for residential, corporate, academic, and library settings. Its capabilities include hand-cut dovetails, mortise-and-tenon joinery, hand-rubbed finishes, and custom shop drawings. Most work is built to order, one piece at a time, with the shop having completed hundreds of pieces ranging from bedroom sets to large conference tables and library furnishings.
+The firm produces custom hardwood furniture for residential, corporate, academic, library, and institutional settings. A select group of master craftsmen builds each piece by hand using traditional joinery—hand-cut dovetails and mortise-and-tenon joints—applied to premium hardwoods, followed by hand-rubbed finishes. Every piece is signed and dated. The workshop operates adjacent to the Kennebunkport showroom, and output is built to order, one piece at a time, with shop drawings provided for custom projects.
 
-Huston & Company serves architects, designers, and institutional decision-makers across the academic, library, and corporate sectors. Projects have included furnishings for small law offices and large university libraries, with the company collaborating directly with project teams to meet specific functional and aesthetic requirements.
+Clients range from individual homeowners to architects and designers specifying furnishings for university libraries, law offices, and corporate environments. The company collaborates directly with project teams to determine furnishing needs and create pieces that meet specific functional and aesthetic requirements.
 
-The company’s founding mission emphasizes integrating function, form, and master-level craftsmanship into furniture that is elegant, graceful, and enduring. By focusing on wood selection, traditional joinery, and hand-applied finishes, the firm aims to deliver details not found in mass-produced alternatives.
+Huston & Company distinguishes itself through its commitment to traditional craftsmanship, premium materials, and a design process that emphasizes wood selection, joinery, and finish—details the company says are absent from mass-produced furniture. Its founding mission centers on integrating function, form, and master-level craftsmanship into graceful, enduring pieces.
 
 ## Known for
 - Hand-cut dovetail and mortise-and-tenon joinery on every piece
 - Hand-rubbed finishes applied to premium hardwoods
 - Each piece signed and dated by the maker
-- Built to order, one at a time, with pricing similar to catalog pieces
-- Collaborative design process with architects and designers
+- Built to order, one at a time, with shop drawings for custom work
+- Collaborative design process with architects and institutional clients
 
 ## Capabilities
-- Custom furniture design and fabrication
-- Residential furniture (dining tables, case pieces, beds, occasional tables, home office, seating, accessories)
-- Institutional furnishings (conference tables, library furnishings)
-- Hand-cut dovetails
-- Mortise and tenon joinery
-- Hand-rubbed finishes
-- Shop drawings and design documentation
-- Collaborative project management with architects and designers
-- Custom sizing and specification
+- Custom Furniture
+- Residential Furniture
+- Institutional Furnishings
+- Hand-Cut Dovetails
+- Mortise and Tenon Joinery
+- Hand-Rubbed Finishes
+- Shop Drawings
 
 ## Industries
+- Residential
 - Academic
 - Library
 - Corporate
-- Residential
+- Institutional
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -118,16 +121,18 @@ The company’s founding mission emphasizes integrating function, form, and mast
 
 <details><summary>Sources</summary>
 
-- Founded in 1988 -> db
+- Founded in 1988 -> db, /about
 - Headquarters in Arundel, Maine -> db
 - Showroom and workshop in Kennebunkport, Maine -> /about
-- Designs and builds hardwood furniture for residential, corporate, academic, library -> /about
-- Uses hand-cut dovetails, mortise-and-tenon joinery, hand-rubbed finishes -> /about, db
-- Each piece signed and dated by maker -> /about
-- Built to order, one at a time -> /about
-- Serves architects, designers, institutional decision-makers -> /about
-- Projects include small law offices to large university libraries -> /about
-- Founding mission: integrate function, form, master-level craftsmanship -> /about
+- Produces custom hardwood furniture for residential, corporate, academic, library, and institutional markets -> /about, db
+- Uses hand-cut dovetails and mortise-and-tenon joinery -> /about, db
+- Applies hand-rubbed finishes to premium hardwoods -> /about
+- Each piece signed and dated by the maker -> /about
+- Built to order, one piece at a time -> /about
+- Provides shop drawings for custom projects -> /about, db
+- Collaborates with architects, designers, and institutional decision makers -> /about
+- Serves academic, library, corporate, and residential clients -> db, /about
+- Founding mission: integrate function, form, and master-level craftsmanship -> /about
 </details>
 
 ---
@@ -137,67 +142,64 @@ The company’s founding mission emphasizes integrating function, form, and mast
 **Old description:** – Work with a local electrical contractor that has served Indiana since 1939
 
 ## About
-Huston Solar operates from Lafayette, Indiana, as a division of Huston Electric Inc., a family-owned electrical contractor founded in 1939. Now in its fourth generation of Huston family ownership, the company began with electrical services and expanded into five specialized divisions—including Huston Signs, Huston Tech, Huston Generators, and Huston Solar—to serve central Indiana communities.
+Huston Solar operates from Lafayette, Indiana, as a division of Huston Electric Inc., a family-owned electrical contractor founded in 1939. Now in its fourth generation of family ownership, the company began as a traditional electrical service provider and expanded into renewable energy with the creation of its solar division. Huston Electric has served central Indiana for over 80 years across five specialized divisions including electrical, signage, technology, generators, and solar.
 
-The solar division delivers turnkey commercial and residential solar installations and maintenance, handling every step from design and permitting to utility interconnection agreements. Crews of IBEW Local 668 electricians install photovoltaic arrays and energy-storage systems for homes, businesses, industrial complexes, and institutional campuses, using selected modules, inverters, and mounting hardware. The company also offers $0-down financing guidance and federal tax-credit consultation.
+The solar division functions as a turn-key developer and installer, managing every phase from design and permitting to utility interconnection agreements and final commissioning. Crews comprised of IBEW Local 668 electricians install residential rooftop arrays, commercial and industrial rooftop and ground-mount systems, and energy storage solutions. The company also provides ongoing maintenance services for existing installations and assists customers with financing options such as $0 down programs and federal tax credit navigation.
 
-Customers span residential homeowners, commercial property owners, industrial facilities in Indianapolis and surrounding areas, and institutions such as schools, hospitals, and warehouses across Indiana. Projects range from rooftop arrays on homes to large-scale installations for industrial complexes and educational campuses.
+Huston Solar serves a broad cross-section of central Indiana: homeowners, businesses, industrial complexes, and institutions including schools, hospitals, warehouses, and commercial campuses. Project examples cited include a kilowatt-scale roof-mount system with energy storage in Anderson and installations for various commercial and institutional clients throughout the region.
 
-Huston Solar emphasizes a mission, dating to 1939, of making customers' lives easier through turnkey solutions in electrical, technology, alternative energy, and visual communications. Core values—Safety First, Own It!, Serve Always, Lead By Example, Embrace Relationships—guide the operation. National recognition came in 2025 when the team won the Solar Games Championship at Intersolar North America, underscoring its focus on craftsmanship and innovation.
+The company states its mission is to make customers' lives easier through turnkey solutions in electrical, technology, alternative energy, and visual communications, guided by core values of safety, ownership, service, leadership, and relationship-building. Its 2025 Solar Games Championship win at Intersolar North America is presented as external validation of installation craftsmanship and team expertise.
 
 ## Known for
-- Turnkey solar developer and installer handling permitting and interconnection
+- Turn-key solar developer and installer handling permitting and interconnection
 - 24/7 live-person service for the lifetime of the system
-- Family-owned since 1939, now in fourth generation
-- IBEW Local 668 union electricians on every installation
+- Family-owned since 1939, now fourth generation
+- IBEW Local 668 trained electricians on every installation
 - 2025 Solar Games Championship winner
 
 ## Capabilities
 - Residential solar panel installation
 - Commercial solar panel installation
 - Industrial solar panel installation
-- Institutional solar panel installation
-- Solar system maintenance and service
-- Turnkey solar development
+- Solar energy storage system installation
+- Solar system design and engineering
 - Permitting and utility interconnection management
-- Energy storage system installation
-- Electrical contracting
-- $0-down financing facilitation
-- Federal tax credit consultation
+- Solar system maintenance and service
+- Roof-mount solar installation
+- Ground-mount solar installation
+- Federal tax credit and incentive consulting
 
 ## Industries
 - Residential
 - Commercial
 - Industrial
-- Institutional
-- Educational
-- Healthcare
+- Institutional (education, healthcare)
+- Agricultural
+- Government
 
 ## Company details
 - **Company Type:** Installer / service company
 - **Founded:** 1939
-- **Ownership:** Family-owned
+- **Ownership:** Family-owned, fourth generation
 - **Headquarters:** Lafayette, Indiana
 
 <details><summary>Sources</summary>
 
-- Founded 1939 -> db
-- Headquartered in Lafayette, Indiana -> db
-- Division of Huston Electric Inc. -> /
+- Founded 1939 -> db, /about
+- Headquarters Lafayette, Indiana -> db, /
 - Family-owned, fourth generation -> /about
-- Five specialized divisions under Huston family -> /about
-- Turnkey solar developer and installer -> /
-- Handles permitting and interconnection agreements -> /about
+- Division of Huston Electric Inc. -> /, /about
+- Turn-key solar developer and installer -> /about
 - IBEW Local 668 electricians -> /
 - 24/7 live person service -> /
-- Residential, commercial, industrial, institutional solar installation -> /
-- Energy storage system installation -> /
+- Residential, commercial, industrial, institutional clients -> /, /about
+- 2025 Solar Games Championship -> /
+- Handles permitting and interconnection agreements -> /about
 - $0 down financing options -> /
-- Federal tax credit consultation -> /
-- 2025 Solar Games Championship winner -> /
-- Mission since 1939: turnkey solutions in electrical, technology, alternative energy, visual communications -> /about
-- Core values: Safety First, Own It!, Serve Always, Lead By Example, Embrace Relationships -> /about
-- Serves central Indiana -> /
+- Federal tax credit assistance -> /
+- Core values and mission statement -> /about
+- Five specialized divisions under Huston Electric -> /about
+- Project example: Anderson, IN roof-mount with storage -> /
 </details>
 
 ---
@@ -207,36 +209,38 @@ Huston Solar emphasizes a mission, dating to 1939, of making customers' lives ea
 **Old description:** Hybrid Electronics is a leading electronic components distributor that offers a full range of supply chain solutions for global manufacturers addressing component shortages, cost saving opportunities, and has access to millions of components worldwide.
 
 ## About
-Hybrid Electronics is a family-owned electronic components distributor headquartered in Sanford, Florida. Founded in 2005, the company began as a Florida-based operation focused on helping manufacturers manage excess inventory and source hard-to-find parts. It has remained family-owned throughout its history.
+Hybrid Electronics was founded in 2005 in Sanford, Florida, as a family-owned electronic components distributor. The company began with a focus on helping manufacturers manage excess inventory and source hard-to-find parts.
 
-The company operates as an independent distributor and excess-inventory buyer, offering cash purchases, consignment programs, and ongoing excess-management programs for original equipment manufacturers, electronics manufacturing services providers, and contract manufacturers. Its product range spans semiconductors, passive components, electromechanical devices, connectors, wire and cable, and board-level assemblies, with access to over 50 million part numbers from brands such as Texas Instruments, Analog Devices, and Molex. Hybrid Electronics handles transactions from single reels to full warehouse cleanouts, providing offers within one to two business days.
+Today the firm operates as a global distributor of active, passive, and electromechanical components, specializing in excess and obsolete inventory solutions for original equipment manufacturers, electronics manufacturing services providers, and contract manufacturers. It offers outright purchase, consignment, and recurring excess programs, handling transactions ranging from single reels to full warehouse cleanouts. Hybrid Electronics maintains access to over 50 million parts worldwide and works with major brands such as Texas Instruments, Analog Devices, Molex, and STMicroelectronics.
 
-Customers come from commercial, industrial, medical, automotive, and high-reliability sectors, including aerospace, mil-spec, and industrial control markets. The company serves OEMs, EMS providers, and contract manufacturers that need to liquidate surplus stock or procure allocated, obsolete, or end-of-life components.
+The company serves commercial, industrial, medical, automotive, and high-reliability markets, including aerospace, mil-spec, and industrial control applications. Its customers include OEMs, EMS providers, and contract manufacturers that need to resolve component shortages or recover capital from surplus stock.
 
-Hybrid Electronics emphasizes confidentiality, speed, and simplicity: no proprietary portals, no minimum lot sizes, and a straightforward three-step process from spreadsheet to payment. The firm positions itself as a supply-chain partner that turns idle inventory into working capital while protecting customers' bill-of-materials data.
+Hybrid Electronics differentiates itself through a confidential, streamlined process: sellers submit a spreadsheet and receive a firm offer within one to two business days, with no minimum lot sizes. The company also manages export compliance documentation, including ECCN classification, HTS codes, and AES/ITN filings.
 
 ## Known for
-- Family-owned, Florida-based since 2005
+- Family-owned, Florida-based, 20+ years in business
 - Cash offers or consignment on excess inventory
-- Confidential handling of bill-of-materials data
-- Offers within 1–2 business days
-- No minimum lot size; simple spreadsheet-based process
+- Confidential transactions with NDAs available
+- Firm offers within 1–2 business days
+- No minimum lot sizes; handles single reels to warehouse cleanouts
+- Export compliance support (ECCN, HTS, AES/ITN)
 
 ## Capabilities
-- Excess inventory purchasing (outright and consignment)
-- Electronic component distribution
-- Obsolete and hard-to-find component sourcing
-- Supply chain management support
-- Consignment and ongoing excess programs
+- Excess inventory purchasing
+- Consignment programs
+- Component sourcing
+- Obsolete and hard-to-find parts procurement
+- Supply chain management
+- Export compliance documentation (ECCN, HTS, AES/ITN)
 
 ## Industries
-- Commercial electronics
-- Industrial electronics
-- Medical electronics
-- Automotive electronics
-- High-reliability (Hi-Rel) electronics
+- Commercial
+- Industrial
+- Medical
+- Automotive
+- Hi-Rel
 - Aerospace
-- Military/spec (mil-spec)
+- Mil-spec
 - Industrial control
 
 ## Company details
@@ -247,16 +251,17 @@ Hybrid Electronics emphasizes confidentiality, speed, and simplicity: no proprie
 
 <details><summary>Sources</summary>
 
-- Headquarters: Sanford, Florida -> db
-- Founded: 2005 -> /
-- Ownership: Family-owned -> /
-- Business model: Electronic components distributor and excess inventory buyer -> /
-- Industries served: Commercial, industrial, medical, automotive, Hi-Rel -> /
-- Customer types: OEMs, EMS providers, contract manufacturers -> /
-- Brands carried: Texas Instruments, Analog Devices, Molex, etc. -> /
-- Access to over 50 million parts -> db
-- Services: Cash offers, consignment, no minimum lot, confidential, fast offers -> /
-- Process: Three-step from spreadsheet to payment -> /
+- Founded 2005 -> /
+- Family-owned -> /
+- Headquarters Sanford, Florida -> db
+- Distributor of electronic components -> db
+- Access to over 50 million parts -> /
+- Brands: Texas Instruments, Analog Devices, Molex, STMicroelectronics -> /
+- Industries: commercial, industrial, medical, automotive, hi-rel, aerospace, mil-spec, industrial control -> /
+- Services: excess inventory purchasing, consignment, component sourcing -> /
+- No minimum lot size -> /
+- Offer turnaround 1-2 business days -> /
+- Export compliance: ECCN, HTS, AES/ITN -> /
 </details>
 
 ---
@@ -266,76 +271,64 @@ Hybrid Electronics emphasizes confidentiality, speed, and simplicity: no proprie
 **Old description:** Hygienic Fabrics & Filters’ Sheboygan, Wisconsin, operation specializes in custom steel rule die cutting of plastic films.
 
 ## About
-Hygienic Fabrics & Filters Inc. operates from Sheboygan, Wisconsin, where it was officially founded in 1959 to supply fabricated cloth, filter socks, and tubing to Midwest cheese producers. The business traces its roots to the Sheboygan Bandage Company, which began over a century ago crafting linen cheese wraps for the region's dairy trade.
+Hygienic Fabrics & Filters Inc. The company remains privately held, with its headquarters and primary production facilities located at multiple addresses in Sheboygan.
 
-The company provides custom converting and job-shop services from 83,000 square feet of facility space. Capabilities include steel-rule die cutting of plastic films, CNC routing, high-speed automated sheeting, slitting and rewinding up to 72 inches wide, industrial sewing, heat sealing, fabric welding, stainless steel welding, assembly, subassembly, folding, and packaging. An ISO Class 6-compliant clean room supports contaminant-sensitive work.
+The company provides custom converting and job shop services across 83,000 square feet of manufacturing space. Its capabilities include flat-bed die cutting of plastic films, CNC routing of plastics, woods, and rubbers, high-speed automated sheeting, slitting and rewinding of rolls up to 72 inches wide, industrial sewing, heat sealing, fabric welding, stainless steel welding, and ISO Class 6 clean room production. HFF also offers assembly, subassembly, folding, packaging, and full contract manufacturing, positioning itself as a one-stop shop for converting needs.
 
-HFF serves food, dairy, beverage, pharmaceutical, medical device, electronics, industrial, chemical, plastics, aerospace, and defense markets. Customers include artisan cheesemakers, large consumer-products companies, defense contractors, government agencies, and disaster-relief suppliers. Products range from filtration media and filter bags to cheese bandages, dust-collection bags, transfer sleeves, and replacement filters for OEM equipment.
+HFF serves customers in food and dairy processing, beverage, pharmaceutical, medical device, electronics, industrial filtration, aerospace, chemical, and defense sectors. Its client base includes artisan cheesemakers, OEMs requiring replacement filters, defense contractors, government agencies, and disaster relief organizations. Specific product examples include filtration products for particulate filtration in pharma, oil and coolant strainers for industrial use, cheese bandages, and replacement parts for Acorn and Badger barn cleaners.
 
-The firm emphasizes process development and problem-solving, drawing on over 100 years of combined staff experience in paper, film, and nonwoven converting. It offers customized equipment, quick turnaround, flexible packaging and labeling, and ISO 9001:2015-certified quality management. Core values highlight safety, short lead times, flexibility, tight internal controls, and 100% customer satisfaction.
+The company traces its differentiation to a legacy of problem-solving rather than simple part delivery. Its stated core values emphasize safety, short lead times, flexibility in packaging and shipping, tight internal controls, customer application support for filtration challenges, and a goal of 100 percent customer satisfaction. HFF highlights its combined staff experience of over 100 years in paper, film, and nonwoven converting as a basis for custom process development and turnkey solutions.
 
 ## Known for
-- ISO 9001:2015-certified quality management
-- ISO Class 6-compliant clean room
-- 83,000 sq ft facility with in-house converting, sewing, welding, and assembly
-- Over 100 years of combined staff experience in web-based converting
-- Willingness to customize or purchase equipment for specific projects
-- Short lead times and rapid prototyping turnaround
+- ISO 9001:2015 certified converting and job shop services
+- ISO Class 6 compliant clean room at Sheboygan facility
+- 83,000 square feet of manufacturing space
+- Over 100 years of combined staff manufacturing experience
+- One-stop shop from die cutting to packaging
 
 ## Capabilities
-- Custom steel rule die cutting
+- Flat-bed die cutting
 - CNC routing
+- Industrial slitting and rewinding
 - High-speed automated sheeting
-- Industrial slitting and rewinding (up to 72" wide)
 - Industrial sewing
+- Clean room converting (ISO Class 6)
+- Stainless steel welding
 - Heat sealing
 - Fabric welding
-- Stainless steel welding
 - Assembly and subassembly
-- Folding
 - Packaging
-- ISO Class 6 clean room converting
-- Custom contract industrial converting
-- Contract manufacturing
+- Folding
 - Custom manufacturing
-- Process development and equipment customization
+- Contract manufacturing
+- Custom contract industrial converting
 - Installation of hardware and ancillary items
-- Design and construction of commercial sewing options
 
 ## Industries
-- Food and dairy
+- Food and dairy processing
 - Beverage
 - Pharmaceutical
-- Medical device
+- Medical devices
 - Electronics
-- Industrial
-- Chemical
-- Plastics
+- Industrial filtration
 - Aerospace
+- Chemical
 - Defense
 - Government
 - Disaster relief
-- Woodworking
-- Food manufacturing
-- Pharmaceutical manufacturing
-- HVAC
-- Cheese production
-- Filtration
 
 ## Equipment
-- Roll slitters (up to 72" wide)
 - High-speed automated sheeting machines
-- Industrial sewing machines
-- Flat-bed die cutting equipment
+- High-speed slitting and rewinding machines
+- CNC routers
 - Stainless steel welding equipment
-- CNC routing machines
-- Heat sealing equipment
+- Industrial sewing machines
 - Fabric welding machines
-- ISO Class 6 clean room
+- Flat-bed die cutting presses
+- Roll slitters (up to 72 inches wide)
 
 ## Certifications
 - ISO 9001:2015
-- ISO Class 6
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -344,20 +337,18 @@ The firm emphasizes process development and problem-solving, drawing on over 100
 
 <details><summary>Sources</summary>
 
-- Headquarters: Sheboygan, Wisconsin -> db
-- Founded: 1959 -> /about (History section)
-- Facility size: 83,000 sq ft -> /about (FAQs section)
-- ISO 9001:2015 certification -> /services (top of page)
-- ISO Class 6 clean room -> / (Clean-Room Services section) and /services
-- Core capabilities: die cutting, CNC routing, sheeting, slitting, sewing, welding, assembly, packaging -> / and /services
-- Industries served: food, dairy, beverage, pharmaceutical, medical, electronics, industrial, defense, government -> / and /about (History section) and /services
-- Products: filtration, filter bags, cheese bandages, dust-collection bags, transfer sleeves, OEM replacement filters -> / (Products section)
-- Materials: plastics, woods, rubbers, fabrics, films, nonwovens, adhesives, coated vinyl, polyester -> /services (CNC Routing and Slitting sections)
-- Equipment: roll slitters up to 72", sheeting machines, sewing machines, die cutting, welding equipment, CNC routers -> /services
-- Over 100 years combined staff experience -> /about (FAQs section)
-- Core values: safety, short lead times, flexibility, tight internal controls, quality, 100% customer satisfaction -> /about (Core Values section)
-- Willingness to customize/purchase equipment -> /about (FAQs section)
-- Company type: contract manufacturer/job shop -> / (description) and /services
+- Founded 1959 -> /about
+- Headquarters Sheboygan, Wisconsin -> /about
+- 83,000 sq ft facility -> /about
+- ISO 9001:2015 certified -> /services
+- ISO Class 6 clean room -> /services
+- Capabilities: die cutting, CNC routing, slitting, sheeting, sewing, welding, assembly, packaging -> /services, /
+- Industries: food, dairy, beverage, pharmaceutical, medical, electronics, industrial filtration, aerospace, chemical, defense, government, disaster relief -> /, /services, /about
+- Materials: plastics, woods, rubber, films, nonwovens, netting, silicone, adhesive-backed -> /services
+- Equipment: high-speed sheeting, slitting/rewinding machines, CNC routers, welding equipment, sewing machines -> /services
+- Products: filtration products, cheese bandages, barn cleaner parts, replacement filters -> /
+- Core values: safety, short lead times, flexibility, tight internal controls, customer application support, quality -> /about
+- Over 100 years combined staff experience -> /about
 </details>
 
 ---
@@ -367,27 +358,29 @@ The firm emphasizes process development and problem-solving, drawing on over 100
 **Old description:** Hypnos Medical Equipment specializes in sleep devices that assist each patient to achieve a better night’s sleep. Hypnos Medical Equipment provides you with CPAP, BiPAP or other devices for the treatment of Obstructive Sleep Apnea. Sleep medicine is all we do, this allows us to offer a wide array of treatment options. Hypnos Medical Equipment carries all national brands including Resmed & Respironics devices that can treat all severity levels of Obstructive Sleep Apnea. We offer a wide array of mask types to insure we will find one that is most comfortable for the patient. It does not matter where you purchased your device, we can troubleshoot it and correct any problems you may have.
 
 ## About
-Hypnos Medical Equipment operates from Sioux Falls, South Dakota, at 6709 S Minnesota Ave Ste. 205, where it supplies sleep therapy devices and related services. The company’s founding year and ownership details are not publicly disclosed.
+Hypnos Medical Equipment operates from Sioux Falls, South Dakota. The company's founding year and ownership structure are not publicly disclosed.
 
-The company distributes continuous positive airway pressure (CPAP) and bilevel positive airway pressure (BiPAP) devices, as well as advanced modalities such as ASV and AVAPS, from national brands including ResMed and Respironics. It does not manufacture its own devices but acts as a supplier and service provider for established brands. Services include mask fitting and selection, CPAP patient education, and troubleshooting for devices regardless of where they were purchased. No facility size, headcount, or volume figures are disclosed.
+The company supplies continuous positive airway pressure (CPAP) and bilevel positive airway pressure (BiPAP) devices, along with advanced modalities such as ASV and AVAPS, sourced from national brands including ResMed and Respironics. It maintains a broad inventory of mask types to ensure patient comfort and provides troubleshooting support for devices regardless of purchase origin. Hypnos Medical Equipment also delivers CPAP education programs designed to match masks to specific facial structures and prescribed pressure settings.
 
-Hypnos serves the home medical equipment market, primarily patients with obstructive sleep apnea who require positive airway pressure therapy. The company works directly with patients to identify comfortable mask options and appropriate pressure settings, and it is open Monday through Friday from 8 a.m. to 5 p.m.
+Hypnos Medical Equipment serves the home medical equipment sector, primarily assisting patients with obstructive sleep apnea. Its customer base includes individuals seeking treatment options regardless of where they originally purchased their equipment.
 
-The firm states that its exclusive focus on sleep medicine allows it to offer a wide array of treatment options, and it emphasizes its CPAP education and mask-fitting expertise as key differentiators.
+The company distinguishes itself by focusing exclusively on sleep medicine, which it says enables a wide array of treatment options. It emphasizes its CPAP education program and its ability to match masks to specific facial structures and pressure requirements, positioning itself as a specialist rather than a general medical equipment supplier.
 
 ## Known for
+- Exclusive focus on sleep medicine
 - Carries all national brands including ResMed and Respironics
-- Specializes exclusively in sleep medicine
-- Provides CPAP education and mask fitting for each patient
-- Troubleshoots devices regardless of purchase source
+- Wide array of mask types for patient comfort
+- Troubleshooting for any device regardless of purchase source
+- Outstanding CPAP education and mask fitting expertise
 
 ## Capabilities
-- CPAP device distribution
-- BiPAP device distribution
-- ASV/AVAPS device distribution
+- CPAP device provision
+- BiPAP device provision
+- ASV device provision
+- AVAPS device provision
 - Mask fitting and selection
-- CPAP patient education
-- Device troubleshooting and repair
+- Device troubleshooting
+- CPAP education
 
 ## Industries
 - Home Medical Equipment
@@ -398,15 +391,14 @@ The firm states that its exclusive focus on sleep medicine allows it to offer a 
 
 <details><summary>Sources</summary>
 
-- Location: Sioux Falls, SD -> db
-- Address: 6709 S Minnesota Ave Ste. 205, Sioux Falls, SD 57108 -> /
-- Products: CPAP, BiPAP, ASV, AVAPS devices -> /
-- Brands carried: ResMed, Respironics -> /
-- Services: Mask fitting, CPAP education, device troubleshooting -> /
+- Location: Sioux Falls, South Dakota -> /
+- Provides CPAP, BiPAP, ASV, AVAPS devices -> /
+- Carries ResMed and Respironics brands -> /
+- Offers mask fitting and troubleshooting for any device -> /
+- Provides CPAP education and mask matching -> /
 - Industry: Home Medical Equipment -> db
-- Hours: Mon-Fri 8am-5pm -> /
-- Contact email: adoohen@2bhealthy.org -> /
-- Phone: (605) 271-2700 -> /
+- Operates a sleep center in Sioux Falls -> /
+- Business hours: Monday-Friday 8am-5pm -> /
 </details>
 
 ---
@@ -418,48 +410,48 @@ The firm states that its exclusive focus on sleep medicine allows it to offer a 
 ## About
 Interconnect Cable Technologies Corporation (ICTC) was founded in 1988 in Brooksville, Florida, where it maintains its corporate headquarters. The company began as a specialist in low-volume, high-mix cable and wire-harness assemblies for original equipment manufacturers worldwide.
 
-Today ICTC operates as a full-service contract manufacturer with facilities in Brooksville and Titusville, Florida, as well as Laguna, Philippines, and Dongguan, China. Its capabilities span cable and wire harness assemblies, printed circuit board assemblies (PCBA), electronic box builds, precision machining, and turnkey assembly services. The company supports both domestic and offshore production, offering services such as custom drawing updates, first-article qualification, serialization, and a range of testing including flying probe, microsectioning, and salt fog.
+Today ICTC provides a full suite of electronic manufacturing services: cable and wire harness assemblies, printed circuit board assemblies (surface mount and through-hole), electronic box builds with mechanical integration, precision machining, and turnkey assembly. Operations span four facilities—Brooksville and Titusville in Florida, Laguna in the Philippines, and Dongguan in China—allowing a hybrid model that pairs U.S.-based precision and IP protection with high-volume offshore capacity. The company manages the entire value stream from circuit card assembly and machining through final box-build test and integration.
 
-ICTC serves aerospace, military and defense, industrial machinery, health care, datacom/telecom, and transportation safety sectors. Aerospace customers receive aircraft wiring and harnesses inspected to AS9102 standards; defense programs use Mil-Spec cable assemblies and power-supply system integration; medical devices are built under ISO 13485 requirements; datacom clients get molded networking and power cables; and transportation projects include video security systems for public transit and embedded data collection for roadway infrastructure.
+Customers come from aerospace and defense (aircraft wiring harnesses inspected to AS9102, Mil-Spec cable assemblies for military platforms), medical (PCBAs, cables, and harnesses built under ISO 13485, including handicap mobility products), transportation (video security and fleet management systems for public transit, embedded data collection for roadway infrastructure), industrial machinery (precision metal components, robotics, vision systems), and datacom/telecom (molded networking and power cables, electro-mechanical box builds).
 
-The company emphasizes a hybrid manufacturing model that combines U.S.-based precision and intellectual-property protection with global cost efficiency. Its vertically integrated structure manages circuit card assembly, precision machining, and box build in-house, while global supply chain services provide strategic labor balancing, optimized logistics, Kanban inventory, and tariff navigation. ICTC states its mission is to simplify supply chain and manufacturing challenges and its vision is to be the most trusted, friendly, and flexible contract manufacturer.
+ICTC says its differentiation lies in a vertically integrated, globally distributed model that simplifies supply chain complexity: domestic final assembly for compliance-critical builds, strategic labor balancing across regions, Kanban inventory solutions, tariff navigation, and reshoring support. The company’s stated mission is to simplify supply chain and manufacturing challenges, aiming to be the most trusted, friendly, and flexible contract manufacturer.
 
 ## Known for
-- Hybrid U.S./global manufacturing model for cost efficiency and IP protection
-- Vertically integrated circuit card assembly, precision machining, and box build
-- Domestic final assembly for compliance-critical builds
-- Kanban inventory and domestic testing solutions
-- Tariff navigation and compliance assistance
+- Hybrid domestic/global manufacturing model with U.S. IP protection and offshore cost efficiency
+- Vertically integrated: circuit card assembly, precision machining, and box build under one roof
+- Domestic final assembly for compliance-critical (ITAR, defense) builds
+- Kanban inventory and reduced lead times through global sourcing strategies
+- Reshoring support and tariff navigation assistance
 
 ## Capabilities
-- Cable & Wire Harness Assemblies
-- PCB Assemblies (PCBA)
-- Electronic Box Builds
-- Precision Machining
-- Turnkey Assembly Services
-- Custom Drawing Updates
-- First Article Qualification
-- Serialization (Bar-Coding and Date Stamping)
-- Testing (Flying Probe, Microsectioning, Salt Fog, Dye Pull)
-- Global Supply Chain Management
-- Offshore Assembly for Cost Efficiency
-- Domestic Final Assembly for Compliance-Critical Builds
-- Reshoring Support
-- Kanban Inventory Solutions
-- DFM Support
-- Strategic Labor Balancing Across Regions
-- Optimized Logistics and Transit Time Management
-- Multi-Location Engineering Collaboration
-- Reduced Lead Times Through Global Sourcing
-- Tariff Navigation and Compliance Assistance
+- Cable & wire harness assembly
+- PCB assembly (SMT, through-hole, component placement)
+- Electronic box build integration
+- Precision machining
+- Turnkey assembly services
+- Global supply chain management
+- Design for manufacturability (DFM) support
+- First article qualification (AS9102)
+- Serialization (bar-coding, date stamping)
+- 100% electrical testing (ICT, functional)
+- Dye pull testing
+- Flying probe testing
+- Microsectioning analysis
+- Salt fog testing
+- Custom drawing updates
+- Offshore assembly (Philippines, China)
+- Domestic final assembly
+- Multi-location engineering collaboration
+- Tariff navigation and compliance assistance
+- Kanban inventory solutions
 
 ## Industries
-- Aerospace
+- Aerospace & Defense
 - Military & Defense
-- Industrial Machinery
-- Health Care
-- Datacom/Telecom
-- Transportation Safety
+- Medical / Health Care
+- Transportation / Transportation Safety
+- Industrial / Industrial Machinery
+- Datacom / Telecom
 
 ## Certifications
 - AS9100D
@@ -478,16 +470,14 @@ The company emphasizes a hybrid manufacturing model that combines U.S.-based pre
 <details><summary>Sources</summary>
 
 - Founded 1988 in Brooksville, Florida -> /about-us
-- Headquarters Brooksville, FL; facilities in Titusville, FL; Laguna, Philippines; Dongguan, China -> /about-us
-- Core services: Cable & Wire Harness, PCB Assembly, Box Build, Turnkey Assembly -> /about-us
-- Certifications: AS9100D, ISO 9001:2015, ISO 13485:2016, UL, IPC/WHMA-A-620, ITAR, RoHS -> /, /capabilities
-- Industries served: Aerospace, Military & Defense, Industrial Machinery, Health Care, Datacom/Telecom, Transportation Safety -> /
-- Capabilities: custom drawings, first article qualification, serialization, testing (flying probe, microsectioning, salt fog), precision machining, turnkey assembly -> /capabilities
-- Hybrid manufacturing model: offshore assembly, domestic IP protection, strategic labor balancing, optimized logistics, multi-location engineering, domestic final assembly, reshoring support, Kanban inventory, tariff navigation -> /capabilities
-- Mission: Simplify supply chain and manufacturing challenges; Vision: Most trusted, friendly, flexible contract manufacturer -> /about-us
-- Leadership: Sareet Majumdar (President/CEO), Mary Alice Betts (CSO), Bill Meeler (COO), Rob Ogilbee (CFO), Shaun Majumdar (GM Asia) -> /about-us
-- Volume range: Low to high volume -> /, /capabilities
-- Export compliance: ITAR registered -> /, /capabilities
+- Facilities: Brooksville FL, Titusville FL, Laguna Philippines, Dongguan China -> /about-us
+- Core services: cable & wire harness, PCB assembly, box build, turnkey assembly -> /about-us
+- Certifications: AS9100D, ISO 9001:2015, ISO 13485:2016, UL, IPC/WHMA-A-620, ITAR, RoHS -> /, /about-us, /capabilities
+- Industries served: Aerospace & Defense, Military & Defense, Medical, Transportation, Industrial, Datacom/Telecom -> /, /about-us
+- Hybrid domestic/global model, vertical integration, domestic final assembly, Kanban, reshoring support -> /capabilities
+- Value-added services: DFM, first article, serialization, testing (dye pull, flying probe, microsectioning, salt fog) -> /capabilities
+- Leadership: Sareet Majumdar (CEO), Mary Alice Betts (CSO), Bill Meeler (COO), Rob Ogilbee (CFO), Shaun Majumdar (GM Asia) -> /about-us
+- Mission: simplify supply chain and manufacturing challenges -> /about-us
 </details>
 
 ---
@@ -497,34 +487,32 @@ The company emphasizes a hybrid manufacturing model that combines U.S.-based pre
 **Old description:** High Quality, USA made electrical lugs sold at factory direct prices
 
 ## About
-IHI Connectors, also known as International Hydraulics Inc, operates its main office, assembly, and warehouse at 7700 St. Clair Avenue in Mentor, Ohio. The company is privately held, though specific ownership details are not publicly disclosed.
+IHI Connectors, the trade name of International Hydraulics Inc., operates its main office, assembly, and warehouse at 7700 St. Clair Avenue in Mentor, Ohio. The company produces high-tensile tin-plated aluminum electrical lugs and mechanical screw-type connectors for stranded and solid aluminum and copper wire.
 
-The company manufactures high-tensile tin-plated aluminum electrical wire lugs, mechanical screw-type connectors, and splicing connectors for stranded and solid aluminum and copper wire in AWG, kcmil/MCM, and metric sizes. Its product line includes through-hole and surface-mount PCB terminal lugs rated from 20 to 300 amps, as well as custom OEM designs produced under blanket orders and supply contracts. The facility handles assembly, warehousing, and direct shipping, and provides STEP files for all standard stocked parts.
+Its product line includes single-, double-, triple-, and multi-wire lugs, splicer reducers, through-hole and surface-mount PCB terminal lugs rated from 20 to 300 amps, and custom OEM designs. The facility supports blanket orders with weekly, monthly, or quarterly releases and stocks standard parts in quantities from single pieces to full boxes. Representative PCB lugs include the B6B-PCB (65 A, 6–14 AWG), B4B-PCB-B (95 A, 4–14 AWG, all-copper body), and B2/0-PCB (175 A, 2/0–8 AWG). STEP files are available for all catalog items.
 
-IHI Connectors serves the smart energy and renewable energy sectors, supplying components for EV chargers, inverter battery backup systems, server farm power supplies, solar power installations, industrial furnaces, and motion control servo power supplies. The company also works with OEM customers across industrial and commercial markets.
+The company serves the smart-energy and renewable-energy sectors, supplying components for EV chargers, inverter battery-backup systems, server-farm power supplies, solar installations, industrial furnaces, and motion-control servo power supplies. Customers range from volume buyers ordering direct through the LugsDirect.com channel to OEMs requiring custom connectors quoted to print.
 
-The business emphasizes factory-direct pricing and the ability to hold blanket orders with scheduled releases. A patented Tork Krimp® ferrule system allows the use of ferrules without pre-crimping, reducing tooling, labor, and time costs. The company also offers dual multiple-wire capability for two wires per barrel in sizes from #14 AWG to #2 AWG class B/C, and interlocking lugs that can be stacked on a single bolt.
+IHI Connectors emphasizes U.S. manufacturing and factory-direct pricing. Its patented Tork Krimp® lugs accept ferrules without pre-crimping, eliminating special tools and labor. The firm also offers the broadest range of high-current PCB terminal lugs on the market and holds UL and CSA approvals for fine-stranded wire classes G, H, I, DLO, K, MTW, welding, and battery cable up to 444 kcmil. A CAGE code (7RPR4) enables government contracting.
 
 ## Known for
-- Factory-direct pricing on stocked lugs via LugsDirect.com
-- Blanket orders and supply contracts with weekly, monthly, or quarterly releases
-- Patented Tork Krimp® ferrule technology eliminates pre-crimping
-- Wide range of high-current PCB terminal lugs (20A to 300A)
-- Dual multiple-wire capability for 2X #14 AWG to 2X #2 AWG class B/C
+- USA-made electrical lugs sold at factory-direct prices
+- Patented Tork Krimp® technology allows ferrule use without pre-crimping or special tools
+- World's widest range of high-current PCB terminal lugs (20 A to 300 A)
+- UL and CSA approved for fine-stranded wire classes G, H, I, DLO, K, MTW, welding, and battery cable
+- CAGE code 7RPR4 for government procurement
 
 ## Capabilities
-- Mechanical screw-type connector manufacturing
-- Aluminum wire lug manufacturing
-- Copper wire lug manufacturing
-- PCB terminal lug manufacturing (through-hole and surface mount)
-- Custom OEM connector design and manufacturing
-- Blanket order and supply contract management
-- Multiple wire per barrel capability (dual wire)
-- Interlocking/stacking lug assembly
-- Ferrule-compatible connector design (Tork Krimp®)
-- UL/CSA listed and recognized component production
+- Tin-plated aluminum wire lug manufacturing
+- Mechanical screw-type connector assembly
+- Splicing connector production
+- PCB terminal lug manufacturing (through-hole and surface-mount)
+- Custom OEM connector design and production
+- Blanket order and scheduled release programs
 - STEP file provision for standard parts
-- Warehousing and direct shipping
+- Dual multiple wire barrel capability (2× #14 to 2× #2 AWG class B/C)
+- Interlocking connector stacking
+- Fine-stranded wire lug production (classes G, H, I, DLO, K, MTW, welding, battery cable)
 
 ## Industries
 - Smart energy
@@ -535,13 +523,11 @@ The business emphasizes factory-direct pricing and the ability to hold blanket o
 - Solar power
 - Industrial furnaces
 - Motion control servo power supplies
-- OEM
 
 ## Certifications
 - ISO 9001
 - UL Listed
 - UL Recognized
-- CSA
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -549,22 +535,22 @@ The business emphasizes factory-direct pricing and the ability to hold blanket o
 
 <details><summary>Sources</summary>
 
-- Company name: IHI Connectors (International Hydraulics Inc) -> db
-- Headquarters: Mentor, Ohio -> db
-- Address: 7700 St. Clair Avenue, Mentor, Ohio 44060 -> /
-- Manufactures high tensile tin plated aluminum electrical wire lugs -> /
-- Offers mechanical screw type connectors and splicing connectors -> /
-- Produces PCB terminal lugs (through-hole and surface mount) -> /
-- Provides custom OEM products and blanket orders -> /
-- Serves smart energy, renewable energy, EV chargers, inverter battery backup, server farm power supplies, solar power, industrial furnaces, motion control servo power supplies -> /
-- ISO 9001 certified -> db
-- UL Listed and UL Recognized components -> /
-- CAGE code 7RPR4 -> /
-- Patented Tork Krimp® ferrule technology eliminates pre-crimping -> /
-- Dual multiple wire capability for 2X #14 AWG to 2X #2 AWG class B/C -> /
-- Interlocking/stacking lugs available -> /
-- STEP files available for standard parts -> /
-- Factory direct pricing via LugsDirect.com -> /
+- Location: Mentor, Ohio -> page '/'
+- Company name: International Hydraulics Inc. (AKA IHI Connectors) -> page '/'
+- Products: tin-plated aluminum lugs, mechanical screw-type connectors, PCB terminal lugs -> page '/'
+- PCB lug examples: B6B-PCB, B4B-PCB-B, B2/0-PCB -> page '/'
+- Industries: smart energy, renewable energy, EV chargers, inverter battery backup, server farm power supplies, solar, industrial furnaces, motion control servo power supplies -> page '/'
+- Patented Tork Krimp® ferrule technology -> page '/'
+- UL/CSA approvals for fine-stranded wire classes -> page '/'
+- CAGE code 7RPR4 -> page '/'
+- ISO 9001 certification -> db certifications
+- UL Listed certification -> db certifications
+- Minimum order: 1 piece -> page '/'
+- Blanket orders with weekly/monthly/quarterly releases -> page '/'
+- STEP files for all standard parts -> page '/'
+- Dual multiple wire capability 2X #14 to 2X #2 AWG -> page '/' and db capabilities
+- Interlocking lug stacking -> page '/'
+- Materials: tin-plated aluminum, aluminum, copper, brass -> page '/'
 </details>
 
 ---
@@ -574,52 +560,55 @@ The business emphasizes factory-direct pricing and the ability to hold blanket o
 **Old description:** As a provider of refined materials for your next project, Impact Imports has been sourcing unique artifacts from Indonesia since 2001 to enhance the visual appeal of homes, lodges, eateries, cafes, and offices.
 
 ## About
-Impact Imports was founded in 2001 in Boise, Idaho, as a destination furniture store focused on sourcing unique artifacts from Indonesia. The company operates a warehouse showroom in Boise that is open to walk-in customers three days a week and by appointment otherwise.
+Impact Imports was founded in 2001 in Boise, Idaho, as a source for distinctive artifacts imported from Indonesia. The company began with a focus on supplying refined materials—stone vessel sinks, live‑edge wood slabs, and reclaimed teak—to designers and property owners seeking natural, organic elements for residential and commercial spaces.
 
-The business imports and curates natural materials including live-edge wood slabs, petrified wood, river rock, andesite, onyx, and marble, which it fabricates into stone vessel sinks, pedestal sinks, boulder bathtubs, and natural stone fire pits. It also manufactures a line of rectangular gas fire tables under the IMPACT brand, built in the USA with CorTen steel and powder-coated aluminum frames. The showroom stocks reclaimed teak furniture, finished dining and coffee tables, and offers custom furniture design assistance along with on-site slab sawing, flattening, and kiln-drying services.
+Today the operation runs a warehouse showroom in Boise where customers can view inventory Thursday through Saturday or by appointment. The product range spans petrified‑wood and river‑rock vessel sinks, onyx and marble pedestal sinks, boulder bathtubs, natural‑stone fire pits, and a line of USA‑made rectangular gas fire tables branded IMPACT Fire Tables. The team also assists clients with custom furniture projects, offering sawing and flattening services for jumbo wood slabs and supplying finished dining tables, coffee tables, and accent pieces crafted from sustainably harvested, kiln‑dried lumber.
 
-Impact Imports serves residential clients as well as commercial projects for lodges, eateries, cafes, and offices. Its products are specified by interior designers, architects, and hospitality operators seeking organic, natural aesthetics for both indoor and outdoor spaces.
+The primary customers are residential homeowners, hospitality operators such as lodges, eateries, and cafes, and commercial office developers. Interior designers and architects also source materials for projects that call for unique stone and wood features.
 
-The company positions itself as a provider of refined materials that enhance visual appeal, emphasizing its direct sourcing from Indonesia and its ability to combine imported artifacts with domestic fabrication to create one-of-a-kind pieces.
+Impact Imports differentiates itself through its long‑standing Indonesian supply relationships, its emphasis on sustainably harvested and kiln‑dried wood, hand‑crafted stone fire pits, and the domestic manufacture of its IMPACT Fire Tables using CorTen steel and powder‑coated aluminum components.
 
 ## Known for
-- Direct sourcing of unique artifacts from Indonesia since 2001
-- Warehouse showroom in Boise with walk-in and appointment access
-- Custom furniture design assistance and on-site slab processing (sawing, flattening, kiln drying)
-- IMPACT fire tables manufactured in the USA with CorTen steel and powder-coated aluminum
-- Sustainably harvested, kiln-dried live edge wood slabs
+- Sourcing unique artifacts from Indonesia since 2001
+- Sustainably harvested, kiln‑dried live‑edge wood slabs
+- Hand‑crafted natural stone fire pits with precision detailing
+- USA‑made IMPACT Fire Tables with CorTen steel and powder‑coated aluminum
+- Boise warehouse showroom open for walk‑in business three days a week
 
 ## Capabilities
-- Importing and sourcing from Indonesia
 - Custom furniture design assistance
-- Live edge wood slab processing (sawing, flattening, kiln drying)
-- Stone vessel and pedestal sink fabrication
-- Natural stone fire pit manufacturing
-- Fire table manufacturing
-- Reclaimed teak furniture fabrication
+- Stone vessel and pedestal sink sourcing
+- Natural stone fire pit sourcing
+- Live edge wood slab sourcing and selection
+- Reclaimed teak furniture sourcing
+- Fire table manufacturing (USA)
+- Wood slab sawing and flattening
 
 ## Industries
 - Residential
-- Hospitality
-- Commercial
+- Lodges
+- Eateries
+- Cafes
+- Offices
 
 ## Company details
-- **Company Type:** Retailer
+- **Company Type:** Distributor / reseller
 - **Founded:** 2001
 - **Headquarters:** Boise, Idaho
 
 <details><summary>Sources</summary>
 
 - Founded in 2001 -> /
-- Headquartered in Boise, Idaho -> db
-- Operates warehouse showroom in Boise -> /
-- Sources unique artifacts from Indonesia -> /
-- Offers custom furniture, live edge wood slabs, stone vessel sinks, boulder bathtubs, natural stone fire pits -> /
-- Manufactures IMPACT fire tables in USA -> /
+- Headquartered in Boise, Idaho -> /
+- Sources artifacts from Indonesia -> /
+- Offers stone vessel sinks (petrified wood, river rock, andesite, onyx, marble) -> /
+- Offers natural stone fire pits and boulder bathtubs -> /
+- Supplies live edge wood slabs, sustainably harvested and kiln-dried -> /
 - Sells reclaimed teak furniture -> /
-- Provides slab sawing, flattening, kiln drying -> /
-- Serves homes, lodges, eateries, cafes, offices -> /
-- Positions as provider of refined materials to enhance visual appeal -> /
+- Manufactures IMPACT Fire Tables in the USA (CorTen steel, powder-coated aluminum) -> /
+- Operates a warehouse showroom in Boise with walk-in hours Thu-Sat -> /
+- Assists customers with custom furniture creation and wood slab sawing/flattening -> /
+- Serves residential, hospitality (lodges, eateries, cafes), and commercial office projects -> /
 </details>
 
 ---
@@ -629,49 +618,56 @@ The company positions itself as a provider of refined materials that enhance vis
 **Old description:** Our 10 years of experience allow us to provide carpentry services that guarantee a modern and customized design for every room in your property.
 
 ## About
-IMS Woodworking Inc. operates from Arlington, Massachusetts, where it was founded in 2011. The company provides carpentry and woodworking services to residential and commercial clients throughout the area. Ownership details and founder names are not publicly disclosed.
+IMS Woodworking Inc. operates from Arlington, Massachusetts, where it was founded in 2011. The company provides custom carpentry and millwork services to residential and commercial clients throughout the Arlington area.
 
-The shop focuses on custom interior woodwork, including kitchen finishes, custom cabinets, planned furniture, stairs and handrails, walk-in closets, and addition services such as door, window, and trim installation. The company reports having completed over 100 projects since its inception, with a stated track record of 10 to 15 years in the trade.
+The shop produces a range of finished woodwork including kitchen finishes, custom cabinets, planned furniture, stairs and handrails, walk-in closet systems, and addition services such as door and window installation and trim work. It has completed over 100 projects since inception and serves both homeowners and businesses with residential and commercial carpentry.
 
-Customers range from homeowners seeking custom cabinetry and built-in furniture to commercial clients needing finish carpentry for office or retail spaces. All work is performed on-site or fabricated for installation in the greater Arlington region, with the company describing its service area as centered on Arlington, MA.
+Customers come from the residential construction, commercial construction, and interior remodeling sectors. The company works directly with property owners, contractors, and designers who need custom millwork and cabinetry for new builds, renovations, and additions in the Greater Boston area.
 
-IMS Woodworking emphasizes personalized design solutions, modern aesthetics, and a balance of quality materials with competitive pricing. The company positions its ability to deliver custom pieces quickly as a core part of its service model, highlighting modern design, high-quality materials, and safety as guiding principles.
+IMS Woodworking emphasizes modern design, high-quality materials, competitive pricing, and safety. It promotes personalized solutions tailored to each project and highlights on-time delivery as a core commitment, backed by more than a decade of local experience.
 
 ## Known for
-- Personalized design solutions for each customer
-- Custom furniture and cabinets delivered quickly
-- Competitive pricing without compromising material quality
-- Modern design, high-quality materials, and safety focus
+- Modern, customized design for every room
+- High-quality materials and finishes
+- Competitive pricing without compromising quality
+- Personalized solutions for each project
+- On-time project delivery
+- Over 100 completed projects in the Arlington area
 
 ## Capabilities
-- Custom cabinet making
-- Furniture making
-- Stair and handrail fabrication
-- Finish carpentry
-- Trim installation
-- Door and window installation
 - Kitchen finishing
+- Custom cabinet manufacturing
+- Planned furniture manufacturing
+- Stair and handrail fabrication
 - Walk-in closet systems
+- Door and window installation
+- Trim and finish carpentry
+- Residential carpentry
+- Commercial carpentry
+- Custom millwork
 
 ## Industries
 - Residential construction
 - Commercial construction
 - Interior remodeling
+- Cabinetry
+- Millwork
 
 ## Company details
-- **Company Type:** Installer / service company
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 2011
-- **Headquarters:** Arlington, MA
+- **Headquarters:** Arlington, Massachusetts
 
 <details><summary>Sources</summary>
 
-- Headquarters: Arlington, MA -> db
-- Founded: 2011 -> db
-- Services: kitchen finishes, custom cabinets, planned furniture, stairs & handrails, walk-in closets, addition services (doors, windows, trim) -> /
-- Residential and commercial customers -> /
-- Over 100 completed projects -> /
-- 10-15 years experience claimed -> /
-- Personalized solutions, modern design, quality materials, competitive pricing -> /
+- Founded 2011 -> db
+- Headquarters Arlington, Massachusetts -> db
+- Services: Kitchen Finish, Custom Cabinets, Planned Furniture, Stairs & Handrails, Walk-in Closets, Addition Services -> homepage
+- Over 100 completed projects -> homepage
+- 15 years experience in Arlington area -> homepage
+- Residential and commercial services -> homepage
+- Modern design, high-quality materials, best prices, safety -> homepage
+- Personalized solutions, on-time delivery -> homepage
 </details>
 
 ---

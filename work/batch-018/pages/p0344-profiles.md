@@ -3,38 +3,29 @@
 **Old description:** Globally Recognized Distributor And Family Owned Since 1951 (online since 1997)
 
 ## About
-Galesburg Electric/Industrial Supply, Inc. was founded in 1951 in Galesburg, Illinois, by Hilding and Lucile Johnson. The couple envisioned a business that went beyond simply supplying materials to local residents, contractors, and municipalities; they wanted to stand behind the merchandise and ensure every employee had deep product knowledge and a commitment to customer satisfaction. The company has remained family-run since its inception, with their son Craig joining eight years later and later serving as CEO and chairman, and their daughter Barbara helping launch the firm's online division, tanforless.com.
+Galesburg Electric/Industrial Supply, Inc. was founded in 1951 in Galesburg, Illinois, by Hilding and Lucile Johnson. The couple envisioned a business that went beyond simply supplying materials to local residents, contractors, and municipalities, emphasizing standing behind their merchandise and services. The company has remained family-owned since its inception; their son Craig joined eight years later and now serves as CEO and Chairman, while their daughter Barbara helped launch the company's online division.
 
-The company operates as a distributor of electrical and industrial supplies, offering thousands of products across categories that include electrical conduit and fittings, motors and drives, lighting, fasteners, motor controls, safety equipment, tools, and wiring devices. It stocks brands such as Baldor, Leviton, ABB, Appleton, Bussmann, and Cooper B-Line. Sales are conducted through a physical location in Galesburg and an e-commerce platform that has been active since 1997. The firm also supplies repair parts for equipment from manufacturers like Milwaukee, DeWalt, and Generac.
+The firm operates as a broad-line distributor of electrical, industrial, HVAC, motor control, lighting, safety, tool, and test equipment products. Its catalog includes thousands of SKUs from brands such as ABB, Leviton, Baldor, Bussmann, and Ideal, covering categories from conduit and fittings to motor starters and personal protective equipment. The company has sold online since 1997, serving customers through a digital platform alongside its physical location.
 
-Primary customers are electrical contractors, municipal agencies, industrial facilities, and residential buyers, with a noted focus on energy management applications. The company serves the surrounding communities of western Illinois and ships nationally through its website.
+Primary customers include electrical contractors, industrial maintenance departments, municipal agencies, and residential buyers. The company explicitly lists energy management among its served industries, and its product range supports construction, manufacturing, and facility maintenance sectors.
 
-Galesburg Electric emphasizes its multi-generational employee tenure as a differentiator; Don Gillenwater joined in 1957 and has been president since 1990, while several other staff members have 25-plus years of service. The founding principle of putting customer satisfaction first remains the stated guiding priority.
+The founders established the business on principles of product knowledge, common sense, and complete customer satisfaction—a priority that remains central. Long-tenured employees, some with 25-plus years of service, reflect a culture that values employee input and retention.
 
 ## Known for
 - Family-owned and operated since 1951
-- Online sales since 1997
-- Long-tenured staff (employees with 25+ years)
-- Customer satisfaction as founding principle
-- Employee product expertise emphasized
+- Online sales platform launched in 1997
+- Customer satisfaction stated as first priority
+- Employee tenure averaging 25+ years for key staff
+- Multi-brand catalog spanning electrical, HVAC, motors, safety, and tools
 
 ## Capabilities
-- Electrical supplies distribution
-- Industrial MRO distribution
-- Motor and drive sales
-- Lighting product distribution
-- Fastener and hardware distribution
-- Safety equipment distribution
-- Tool distribution
-- Online ordering and e-commerce
-- Multi-brand product sourcing
+- Electrical product distribution
+- Industrial supply distribution
+- Online ordering and fulfillment
+- Technical product support
 
 ## Industries
 - Energy Management
-- Construction
-- Municipal
-- Residential
-- Industrial
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -45,17 +36,15 @@ Galesburg Electric emphasizes its multi-generational employee tenure as a differ
 <details><summary>Sources</summary>
 
 - Founded 1951 by Hilding and Lucile Johnson -> /about-us
-- Family-owned since 1951 -> db, /about-us
+- Family-owned since 1951 -> db
+- Headquarters Galesburg, IL -> /about-us
 - Online since 1997 -> db
-- Headquarters Galesburg, IL -> db
-- Serves contractors, municipalities, residents -> /about-us
-- Long-tenured employees (Don Gillenwater since 1957, president since 1990) -> /about-us
 - Customer satisfaction first priority -> /about-us
-- Carries brands Baldor, Leviton, ABB, Appleton, Bussmann, Cooper B-Line -> /
-- Product categories: electrical, motors, conduit, lighting, fasteners, safety, tools -> /
-- Industries: Energy Management -> db
-- Division tanforless.com -> /about-us
-- Repair parts for Milwaukee, DeWalt, Generac -> /
+- Long-tenured employees (25+ years) -> /about-us
+- Distributes electrical, industrial, HVAC, safety, tools, lighting -> /
+- Serves contractors, municipalities, residents -> /about-us
+- Industry served: Energy Management -> db
+- Brands carried: ABB, Leviton, Baldor, Bussmann, Ideal -> /
 </details>
 
 ---
@@ -65,36 +54,35 @@ Galesburg Electric emphasizes its multi-generational employee tenure as a differ
 **Old description:** Choose from purpose-built layouts for board games, RPGs, wargames — or hybrid setups that do it all.
 
 ## About
-Game Theory Tables was established in 2020 in Las Vegas, Nevada, by a team of board gamers who set out to create furniture that brings people together around the tabletop. The company was founded on the premise that analog gaming offers a vital counterpoint to an increasingly screen‑centric world, and its mission centers on restoring human connection through purpose‑built gaming surfaces.
+Game Theory Tables was founded in 2020 in Las Vegas, Nevada. The company was established with a mission to bring board gamers together for shared memories, countering digital disconnection. No founder names or ownership structure are disclosed.
 
-The company manufactures a line of premium gaming tables — including the Origins 2.0, the larger Origins 2.0 Max, and the touch‑enabled Arena Digital Game Table — each configurable with choice of wood tone, rail style, and a proprietary water‑resistant Dynamic Gaming Suede playing surface. Tables are built from solid wood with features such as vaulted recesses for component storage, modular add‑ons (DM Command Centers, cup holders, dining tops), and a lifetime warranty. Production includes wood finishing, suede application, and final assembly; facility size and headcount are not disclosed.
+The company designs and manufactures purpose‑built gaming tables for board games, role‑playing games, wargames, and card games, plus a touch‑enabled digital table. Tables are built from solid wood and topped with a proprietary water‑resistant material called Dynamic Gaming Suede. Configurations include modular accessories such as dining tops, DM command centers, cup holders, and play mats. The firm does not publish facility size, headcount, or annual volume.
 
-Products target the tabletop hobby market: board gamers, tabletop RPG groups, miniature wargamers, and card‑game enthusiasts. The company cites “thousands of families” and “the biggest names in board gaming” as customers, though specific clients are not named. Tables are positioned as home furniture that blends into modern interiors while serving dedicated play.
+Products are sold directly to consumers—families, hobbyists, and gaming groups—rather than through industrial channels. The lineup spans the Origins 2.0 and Origins 2.0 Max for board and wargaming, the Arena digital table for immersive play, and a range of surfaces and accessories tailored to TTRPG, miniature, and card‑gaming communities.
 
-The founders frame the business as a response to digital isolation, emphasizing accessibility without compromising quality. Differentiators highlighted by the company include the Omotenashi‑inspired service philosophy, consumer‑driven design iteration, freight‑protected shipping, and a lifetime warranty that underscores the expectation of decades‑long use.
+The brand emphasizes “Omotenashi”‑style customer service, lifetime warranties, and freight protection. Its differentiation rests on gamer‑driven design, accessible pricing without compromising elegance, and a focus on furniture that fits naturally in modern homes.
 
 ## Known for
 - Lifetime warranty on all tables
-- Proprietary water‑resistant Dynamic Gaming Suede playing surface
-- Customizable layouts, finishes, and modular accessories (vault depth, add‑ons)
-- Designed by gamers for gamers with consumer testing driving design
-- Freight‑protected shipping and Omotenashi‑style customer service
+- Proprietary Dynamic Gaming Suede play surface
+- Gamer‑driven design with modular accessory system
+- Omotenashi‑inspired customer service approach
+- Freight protection included with every shipment
 
 ## Capabilities
-- Custom gaming table manufacturing
-- Wood finishing and staining
-- Proprietary suede surface application
-- Table customization (layouts, finishes, accessories)
-- Digital game table production (touch‑enabled)
-- Accessory manufacturing (play mats, leg caps, seating)
-- Freight shipping with protective packaging
+- Custom gaming table design
+- Solid wood table manufacturing
+- Proprietary Dynamic Gaming Suede application
+- Digital touch‑enabled table integration
+- Modular accessory integration (dining tops, DM Command Centers, cup holders)
+- Finish customization (wood tone, rail style)
 
 ## Industries
 - Board gaming
-- Tabletop RPG (TTRPG)
+- Tabletop role‑playing games (TTRPG)
 - Miniature wargaming
 - Card gaming
-- Home furniture / gaming furniture
+- Digital tabletop gaming
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -103,16 +91,18 @@ The founders frame the business as a response to digital isolation, emphasizing 
 
 <details><summary>Sources</summary>
 
-- Founded 2020 in Las Vegas, Nevada -> /about-us
-- Mission: bringing human connections back to families -> /about-us
+- Founded 2020 -> /about-us
+- Headquarters Las Vegas, Nevada -> db
+- Mission: bringing board gamers together -> /about-us
 - Products: Origins 2.0, Origins 2.0 Max, Arena Digital Game Table -> /
-- Proprietary Dynamic Gaming Suede (water‑resistant) -> /
-- Solid wood construction, vaulted recesses, modular add‑ons -> /
-- Lifetime warranty and freight‑protected shipping -> /
-- Omotenashi customer service approach -> /, /about-us
-- Industries: board games, RPGs, wargames, card games -> /, /about-us
-- Designed by gamers for gamers with consumer testing -> /about-us
-- Accessibility and elegant aesthetics as core values -> /about-us
+- Materials: solid wood, Dynamic Gaming Suede -> /
+- Lifetime warranty -> /
+- Designed by gamers for gamers -> /about-us
+- Accessibility and elegant aesthetics -> /about-us
+- Omotenashi customer service values -> /
+- Freight protection -> /
+- Modular accessories: dining tops, DM Command Centers, cup holders -> /
+- Customizable finishes and layouts -> /
 </details>
 
 ---
@@ -122,18 +112,27 @@ The founders frame the business as a response to digital isolation, emphasizing 
 **Old description:** specializes in wastewater treatment equipment and replacement parts, paper mill equipment and parts, tank fabrication, stainless steel crane rail caps, highway barriers, air pollution equipment, electrical substations both aluminum and galvanized steel.
 
 ## About
-Garrison Industrial Steel is based in Pell City, Alabama, where it fabricates steel equipment and components for heavy industrial and infrastructure markets. The company’s product focus includes wastewater treatment systems, paper mill machinery, and highway safety barriers.
+Garrison Industrial Steel operates from Pell City, Alabama. The company’s founding year and ownership structure are not publicly disclosed.
 
-Its manufacturing capabilities center on tank fabrication, supplemented by the production of stainless steel crane rail caps, air pollution control equipment, and electrical substations built from aluminum and galvanized steel. The firm also supplies replacement parts for wastewater and paper mill installations, as well as DOT‑specified highway barrier components.
+The company fabricates a range of industrial steel equipment, including wastewater treatment systems and replacement parts, paper mill machinery, tank vessels, stainless steel crane rail caps, highway barriers and DOT specialty parts, air pollution control equipment, and electrical substations in both aluminum and galvanized steel. Its capabilities center on tank fabrication, and the shop also performs static balancing of aerator components entirely in-house.
 
-The customer base spans municipal and industrial wastewater treatment facilities, pulp and paper mills, state transportation agencies, air quality control projects, and electrical utility substation projects. Each sector relies on the company’s ability to deliver fabricated steel and aluminum structures to exacting specifications.
+Its customers span municipal and industrial wastewater treatment plants, paper and pulp mills, state transportation departments, air quality control projects, and electrical utility providers. The product lineup reflects demand for custom steel fabrications in heavy infrastructure and process industries, with parts supplied as both original equipment and replacements.
+
+The company has not published a specific founding mission or stated differentiator beyond its product scope.
 
 ## Capabilities
 - Tank fabrication
+- Wastewater treatment equipment fabrication
+- Paper mill equipment fabrication
+- Highway barrier fabrication
+- Air pollution equipment fabrication
+- Electrical substation fabrication
+- Stainless steel crane rail cap fabrication
+- Static balancing of aerators
 
 ## Industries
 - Wastewater treatment
-- Pulp and paper
+- Paper and pulp
 - Transportation infrastructure
 - Air pollution control
 - Electrical utilities
@@ -144,18 +143,11 @@ The customer base spans municipal and industrial wastewater treatment facilities
 
 <details><summary>Sources</summary>
 
-- Headquarters: Pell City, Alabama -> db
-- Specializes in wastewater treatment equipment and replacement parts -> db
-- Specializes in paper mill equipment and parts -> db
-- Specializes in tank fabrication -> db
-- Specializes in stainless steel crane rail caps -> db
-- Specializes in highway barriers -> db
-- Specializes in air pollution equipment -> db
-- Specializes in electrical substations (aluminum and galvanized steel) -> db
+- Company name: Garrison Industrial Steel -> db
+- Location: Pell City, Alabama -> db
+- Specializes in wastewater treatment equipment, paper mill equipment, tank fabrication, stainless steel crane rail caps, highway barriers, air pollution equipment, electrical substations (aluminum and galvanized steel) -> db
 - Capability: Tank Fabrication -> db
-- Products: Wastewater Treatment Equipment & Replacement Parts -> db
-- Products: Paper Mill Equipment and Parts -> db
-- Products: Highway Barriers and DOT Specialty Parts -> db
+- Products: Wastewater Treatment Equipment & Replacement Parts, Paper Mill Equipment and Parts, Highway Barriers and DOT Specialty Parts, static balancing of aerator fabricated in-house -> db
 </details>
 
 ---
@@ -165,26 +157,28 @@ The customer base spans municipal and industrial wastewater treatment facilities
 **Old description:** Gartland Distributors was founded in 1999 by Bob Gartland, who built the business from a one-man operation selling beef jerky out of his pickup truck into one of Maine’s most trusted snack distribution companies. With the support of his wife Kate, their family, and long-time partner Ron Soucy, the company became known for its personal service, local relationships, and unwavering commitment to quality.
 
 ## About
-Gartland Distributors operates from Biddeford, Maine, where it was founded in 1999 by Bob Gartland. What began as a one‑man venture selling beef jerky from a pickup truck grew into a recognized snack distribution business serving central and southern Maine. In June 2025, ownership passed to Jim and Christine Faiella, experienced small‑business operators who had run community markets in the region for over 15 years. The company remains a Maine‑owned, privately held enterprise.
+Gartland Distributors began in 1999 when Bob Gartland started selling beef jerky from his pickup truck in Biddeford, Maine. With support from his wife Kate, their family, and longtime partner Ron Soucy, the one-man operation grew into a snack distribution business serving central and southern Maine. In June 2025, ownership passed to Jim and Christine Faiella, experienced small-business owners who have run community markets in the region for over 15 years.
 
-The firm distributes a full line of snack foods — nuts, trail mixes, candy, meat snacks, and a growing selection of better‑for‑you and vending items — with an emphasis on products made in Maine. Its service model includes product rotation, merchandising support, and order management for each account, allowing customers to maintain stocked shelves without handling logistics themselves. No facility size or employee count is publicly disclosed.
+The company distributes a full line of snack foods including nuts, trail mixes, candy, meat snacks, and healthier alternatives, plus vending products. Its service model includes product rotation, merchandising, and inventory ordering for customers, with delivery coverage stretching from central Maine to the southern coast. Operating from a facility in Arundel, the distributor maintains a broad inventory and provides full-service support including vending machine stocking. The product catalog also highlights items made in Maine.
 
-Gartland’s customer base spans hospitals, schools, health centers, independent markets, and local shops throughout its service area. The company cites these segments as its primary markets, reflecting a focus on institutional and retail outlets that require reliable, frequent snack replenishment.
+Gartland’s customer base spans hospitals, schools, health centers, markets, and local shops and businesses throughout its service area.
 
-The company says its differentiation lies in a “best possible service” philosophy that bundles rotation, merchandising, and ordering with competitive pricing and a 100 % guarantee program. The founders’ original commitment to personal relationships and local sourcing continues to shape the operation under the new ownership.
+The company emphasizes personal service and local relationships, a 100% guarantee program, competitive pricing, and a focus on Maine-made products as its key differentiators.
 
 ## Known for
-- Full-service distribution including product rotation, merchandising, and order management
-- Competitive pricing backed by a 100% guarantee program
-- Curated selection of Maine-made and better-for-you snack products
-- Personal service and local relationships across central and southern Maine
+- Personal service and local relationships
+- Product rotation, merchandising, and ordering included
+- 100% guarantee program
+- Focus on Maine-made snacks
+- Family-owned legacy since 1999
 
 ## Capabilities
-- Snack distribution
+- Snack food distribution
 - Product rotation
 - Merchandising
-- Order management
-- Vending product distribution
+- Inventory ordering
+- Vending machine stocking
+- Delivery throughout central and southern Maine
 
 ## Industries
 - Hospitals
@@ -196,19 +190,20 @@ The company says its differentiation lies in a “best possible service” philo
 ## Company details
 - **Company Type:** Distributor / reseller
 - **Founded:** 1999
-- **Ownership:** Privately owned by Jim and Christine Faiella
+- **Ownership:** Family-owned (originally), now owned by Jim and Christine Faiella
 - **Headquarters:** Biddeford, Maine
 
 <details><summary>Sources</summary>
 
 - Founded in 1999 by Bob Gartland -> /about
 - Ownership transitioned to Jim and Christine Faiella in June 2025 -> /about
-- Headquartered in Biddeford, Maine -> db
-- Services central and southern Maine -> /
-- Provides product rotation, merchandising, and order management -> /about
-- Serves hospitals, schools, health centers, markets, local shops -> /
-- Offers Maine-made snacks, healthy alternatives, vending products -> /
-- 100% guarantee program and competitive pricing -> /
+- Headquarters in Biddeford, Maine -> db
+- Located at Unit 1, 15 Birch Drive, Arundel, Maine -> /
+- Distributes nuts, trail mixes, candy, meat snacks, healthy alternatives, vending products -> /
+- Provides product rotation, merchandising, ordering services -> /
+- Serves hospitals, schools, health centers, markets, local shops/businesses -> /
+- Emphasizes personal service, local relationships, 100% guarantee, competitive pricing, Maine-made products -> /
+- Company is a snack distribution company -> /
 </details>
 
 ---
@@ -218,23 +213,28 @@ The company says its differentiation lies in a “best possible service” philo
 **Old description:** Great design is important - as is working in an environmentally responsible way. Our workshop in St. Paul, MN is located in the neighborhood where we live and we are committed to using ethically sourced wood and environmentally friendly finishes.
 
 ## About
-Gary Moore Custom Furniture operates a workshop in St. Paul, Minnesota. The company's founding year and ownership structure are not publicly disclosed, and the founder's name does not appear in available sources. The business describes itself as rooted in the neighborhood where its team lives and works.
+Gary Moore Custom Furniture operates a workshop in St. Paul, Minnesota, where it produces custom furniture with an emphasis on environmental responsibility. The company is located in the neighborhood where its founders live and work. A founding year and ownership structure are not publicly disclosed.
 
-The shop produces custom-made furniture with an emphasis on eco-conscious, design-forward pieces. Its process centers on sourcing ethically harvested wood and applying environmentally friendly finishes. Details about production capacity, facility size, headcount, or annual volume are not provided.
+The shop builds design-forward, made-to-order furniture using ethically sourced wood and environmentally friendly finishes. Operations are centered on custom woodworking and finishing, though specific equipment, facility size, headcount, and production volumes are not published.
 
-The company does not specify target industries or customer segments in its public materials. Its custom furniture output suggests service to residential and commercial clients, though no concrete examples are cited.
+The company serves clients seeking custom furniture pieces, likely including residential, commercial, and interior design customers, though specific industries or named accounts are not listed in available materials.
 
-Gary Moore Custom Furniture states that great design and environmental responsibility are equally important. The workshop's commitment to ethically sourced wood and low-impact finishes is presented as its defining differentiator.
+The business was founded on the principle that great design and environmentally responsible practice go together, committing to ethically sourced materials and low-impact finishes as core differentiators.
 
 ## Known for
-- Ethically sourced wood for all furniture
+- Ethically sourced wood
 - Environmentally friendly finishes
-- Workshop located in the team's residential neighborhood
+- Workshop embedded in the founders' neighborhood
+- Design-forward custom furniture
 
 ## Capabilities
-- Custom furniture fabrication
-- Ethical wood sourcing
+- Custom furniture making
+- Woodworking
 - Environmentally friendly finishing
+
+## Industries
+- Furniture manufacturing
+- Custom woodworking
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -242,15 +242,11 @@ Gary Moore Custom Furniture states that great design and environmental responsib
 
 <details><summary>Sources</summary>
 
-- Company name: Gary Moore Custom Furniture -> db
-- Headquarters city and state: St. Paul, Minnesota -> db
-- Workshop address: 787 Selby Ave, St. Paul, MN 55104 -> page /
-- Product description: Eco-conscious, design-forward, custom made furniture -> page /
-- Material commitment: Ethically sourced wood -> page /
-- Finish commitment: Environmentally friendly finishes -> page /
-- Contact email: info@garymoorefurniture.com -> page /
-- Contact phone: 612-456-4426 -> page /
-- Website: http://garymoorefurniture.com/ -> db
+- Location: St. Paul, MN -> db
+- Business: Custom furniture making -> /
+- Environmental commitment: ethically sourced wood, environmentally friendly finishes -> /
+- Workshop in neighborhood where they live -> /
+- Contact address: 787 Selby Ave, St. Paul, MN 55104 -> /
 </details>
 
 ---
@@ -260,44 +256,37 @@ Gary Moore Custom Furniture states that great design and environmental responsib
 **Old description:** We design and build furniture to the highest standards of craftsmanship, ergonomics, beauty, and longevity. We ship worldwide.
 
 ## About
-Gary Weeks and Company Furnituremakers operates from Wimberley, Texas, where it was founded in 1992. The business bears the name of its founder, Gary Weeks, and describes itself as an American company of artisans running a small custom shop.
+Gary Weeks and Company Furnituremakers was founded in 1992 in Wimberley, Texas, a small Hill Country town. The company operates as a custom woodworking shop, though its ownership structure is not publicly disclosed. From the start, the focus has been on designing and building furniture that meets high standards of craftsmanship, ergonomics, beauty, and longevity.
 
-The shop designs and builds solid-wood furniture, with the Weeks Rocker® as its signature piece. The product line includes rocking chairs in cherry, walnut, maple, and mesquite; dining chairs (Wilson, Williams, Webb models); dining tables (trestle, pedestal, leg-and-apron styles); barstools; and custom furniture such as desks, tables, and cabinets. Production relies on hand-cut mortise-and-tenon joinery, custom-built machines, jigs and fixtures, and a finishing sequence that offers hand-rubbed oil or varnish. The facility comprises a woodshop, showroom, finishing rooms, and a lumber shed.
+The shop produces a range of solid-wood furniture, with the Weeks Rocker® as its signature piece. The product line includes rocking chairs in cherry, walnut, maple, and mesquite; dining chairs (Wilson, Williams, Webb models); dining tables (trestle, pedestal, leg-and-apron styles); barstools; and custom pieces such as desks, cabinets, and tables. Production relies on traditional mortise-and-tenon joinery, hand sculpting and sanding, and hand-rubbed oil or varnish finishes. The facility houses a woodshop, showroom, finishing rooms, and a lumber shed, supported by custom machines, jigs, compressed air, and dust collection. The company describes itself as a small, custom shop that ships worldwide.
 
-The company sells directly to residential customers worldwide, shipping to every U.S. state and to Europe, Australia, Asia, Africa, and South America. Its customer base is reflected in more than 1,500 published patron reviews and testimonials.
+The company sells directly to individual customers across the United States and internationally, including Europe, Australia, Asia, Africa, and South America. Its website references more than 1,500 patron reviews, indicating a consumer-focused clientele rather than industrial or contract buyers. No specific industry verticals are cited beyond residential furniture and custom woodworking.
 
-The firm emphasizes a comfort guarantee on its rocker—full refund with round-trip shipping paid by the shop—and broader guarantees of delivery, satisfaction, and service. It cites its long, steady history, the depth of its website (no cookies, pop-ups, or ads), and personal attention to questions, calls, emails, and visits as reasons patrons trust a small custom shop.
+The company emphasizes several differentiators: a comfort guarantee on its rocker that includes a full refund with round-trip shipping paid by the shop; a commitment to “no cookies, no popups, no ads” on its website; and a depth of online detail covering design criteria, wood selection, and construction methods. The founders’ intent, as reflected in a quoted Barbara Tuchman passage, is that quality requires intensive effort and honesty of purpose.
 
 ## Known for
-- Comfort guarantee on the Weeks Rocker®: full refund with round-trip shipping covered
-- Worldwide shipping from a small custom shop in Wimberley, Texas
-- Over 1,500 published patron reviews and testimonials
-- Hand-cut mortise-and-tenon joinery with hand-rubbed oil or varnish finishes
-- Customization options including engraving, bronze plaques, inlay, contrasting woods, and carving
+- Comfort guarantee on signature rocker with free return shipping
+- Worldwide direct shipping to over 1,500 patrons
+- No cookies, popups, or ads on company website
+- Handcrafted mortise-and-tenon joinery throughout
+- Custom jigs and fixtures for precision production
 
 ## Capabilities
-- Handmade furniture construction
+- Furniture design
+- Solid wood machining
 - Mortise and tenon joinery
-- Custom machine work
-- Jig and fixture fabrication
 - Hand-rubbed oil finishing
 - Varnish finishing
-- Sculpting and sanding
+- Hand sculpting and sanding
+- Custom machine work
+- Jig and fixture fabrication
+- Assembly
+- Crating and worldwide shipping
 - Custom furniture design
 - Engraving
+- Inlay work
+- Wood carving
 - Bronze plaque installation
-- Wood inlay
-- Contrasting wood assembly
-- Carving
-- Furniture repair and maintenance
-
-## Industries
-- Residential furniture
-
-## Equipment
-- Custom machines
-- Compressed air system
-- Dust collection system
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -307,23 +296,17 @@ The firm emphasizes a comfort guarantee on its rocker—full refund with round-t
 <details><summary>Sources</summary>
 
 - Founded 1992 -> db
-- Headquarters Wimberley, Texas -> db
+- Headquarters Wimberley, Texas -> db and /
 - Designs and builds furniture -> /
 - Signature product Weeks Rocker® -> /
+- Product lines: rocking chairs, dining chairs, dining tables, barstools, custom furniture -> /
+- Materials: cherry, walnut, maple, mesquite, solid wood, bronze -> /
+- Processes: mortise and tenon, hand-rubbed oil, varnish, hand sculpting, custom machines, jigs -> /
+- Facility: woodshop, showroom, finishing rooms, lumber shed -> /
 - Ships worldwide -> /
 - Over 1,500 patron reviews -> /
-- Rocking chairs in cherry, walnut, maple, mesquite -> /
-- Dining chairs (Wilson, Williams, Webb) -> /
-- Dining tables (trestle, pedestal, leg-and-apron) -> /
-- Barstools (Berry, Heflin) -> /
-- Custom furniture (desks, tables, cabinets) -> /
-- Mortise and tenon joinery -> /
-- Custom machines, jigs and fixtures -> /
-- Hand-rubbed oil and varnish finishes -> /
-- Facility: woodshop, showroom, finishing rooms, lumber shed -> /
-- Comfort guarantee with round-trip shipping -> /
-- Guarantees of delivery, satisfaction, service -> /
-- No cookies, popups, ads on website -> /
+- Comfort guarantee with free return shipping -> /
+- No cookies, popups, ads policy -> /
 </details>
 
 ---
@@ -333,51 +316,42 @@ The firm emphasizes a comfort guarantee on its rocker—full refund with round-t
 **Old description:** Silgan Specialty Packaging is a dynamic and innovative division of Silgan Holdings Inc., a global leader in rigid packaging solutions. With a commitment to excellence, Silgan Specialty Packaging is at the forefront of creating cutting-edge packaging solutions that cater to a wide range of industries.
 
 ## About
-Gateway Plastics Inc, operating as Silgan Specialty Packaging, is headquartered in Mequon, Wisconsin. The business traces its roots to 1970 as a division of Silgan Holdings Inc., a global leader in rigid packaging solutions.
+Based in Mequon, Wisconsin, Silgan Specialty Packaging operates as a division of Silgan Holdings Inc., a global leader in rigid packaging. The business traces its roots to 1970, when it began developing plastic packaging solutions for a range of industries.
 
-The division manufactures plastic containers, closures, dispensing systems, single-serve coffee pods (X-CUP), and specialty pails (SpaceSaver Pail) using plastic injection molding, multi-layer, co-injection, EVOH barrier technology, and clean-room processes. It provides in-house design, tooling, mold construction, secondary assembly, automated packaging, warehousing, and distribution from its facility.
+The company produces plastic containers, closures, dispensing systems, and custom packaging solutions such as the X-CUP coffee pod and SpaceSaver Pail. Its capabilities span multi-layer and co-injection molding, EVOH barrier technology, clean-room production, in-house tooling and mold construction, and post-production assembly, warehousing, and distribution. All manufacturing is performed in-house using state-of-the-art equipment.
 
-It serves food and beverage, personal care, healthcare, pet care, chemicals, nutraceuticals, automotive components, and consumer goods markets. Customers include brands seeking custom packaging solutions for products such as coffee pods and decorative pails.
+Silgan Specialty Packaging serves food and beverage, personal care, healthcare, pet care, chemicals, and nutraceutical markets. Customers include brands seeking custom dispensing closures, single-serve coffee pods, and pails with billboard-style panels for consumer messaging.
 
-The company emphasizes sustainability as a Better Plants Partner, food safety through ISO 22000:2018 certification and FDA compliance, and cleanliness standards that exceed typical clean rooms. It differentiates through integrated in-house capabilities from design to distribution, independent material performance analysis, and real-time warehouse management with barcoding.
+The division’s stated mission is to be the preferred plastic supplier by delivering cost-effective, high-quality products that give customers a competitive advantage. It differentiates itself through in-house design and tooling, rigorous material analysis, and sustainability initiatives such as its Better Plants partnership and light-weighting and PCR programs.
 
 ## Known for
 - In-house design, tooling, and mold construction
-- ISO 22000:2018 food safety certification and FDA compliance
-- Cleanliness standards exceeding typical clean rooms
-- Automated assembly, packaging, and shipping with real-time warehouse management
-- Sustainability partnership (Better Plants) and PCR material guidance
+- Secondary operations including assembly, warehousing, and distribution
+- ISO 22000:2018 certification and FDA compliance
+- Cleanliness standards exceeding typical clean-room requirements
+- Sustainability focus: Better Plants Partner, light-weighting, PCR usage
 
 ## Capabilities
-- Plastic injection molding
 - Multi-layer molding
 - Co-injection molding
 - EVOH barrier technology
-- Clean room molding
-- In-house product design
+- Clean room production
+- Assembly
+- In-house design and prototyping
 - Tooling and mold construction
-- Secondary assembly
 - Warehousing and distribution
 - Automated packaging and shipping
-- Real-time warehouse management with barcoding
 - Material performance analysis
-- Shelf life and product interaction testing
-- Light weighting consultation
-- PCR (post-consumer recycled) material guidance
-- Recycling guidelines consultation
-- Prototyping
-- Material selection support
+- Rotary Blow Cell technology
 
 ## Industries
 - Food packaging
 - Beverage packaging
-- Personal care packaging
-- Healthcare packaging
-- Pet care packaging
-- Chemicals packaging
-- Nutraceuticals packaging
-- Automotive components
-- Consumer goods
+- Personal care
+- Healthcare
+- Pet care
+- Chemicals
+- Nutraceuticals
 
 ## Equipment
 - Rotary Blow Cell
@@ -395,22 +369,17 @@ The company emphasizes sustainability as a Better Plants Partner, food safety th
 <details><summary>Sources</summary>
 
 - Headquarters: Mequon, Wisconsin -> db
-- Founded 1970 -> /about
-- Division of Silgan Holdings Inc. -> /
-- Plastic injection molding, multi-layer, co-injection, EVOH, clean room -> /
-- In-house design, tooling, mold construction -> /about
-- Secondary operations: assembly, warehousing, distribution -> /about
-- ISO 22000:2018 certification -> /about
-- FDA compliance -> /about
-- Cleanliness standards exceed typical clean rooms -> /about
-- Automated assembly, packaging, shipping -> /capabilities
-- Real-time warehouse management with barcoding -> /capabilities
-- Secure high-bay warehouse -> /capabilities
-- Industries: Food Packaging, Pet Care, Chemicals, Nutraceuticals, Food and Beverage, Personal Care, Healthcare, Automotive Components, Consumer Goods -> /, /about
-- Products: X-CUP coffee pods, SpaceSaver Pail -> /
-- Sustainability: Better Plants Partner -> /
-- Rotary Blow Cell innovation -> /
-- Material performance analysis, PCR guidance -> /about
+- Founded: 1970 (Since 1970) -> /about
+- Ownership: Division of Silgan Holdings Inc. -> / (home)
+- Products: plastic containers, closures, dispensing systems, X-CUP, SpaceSaver Pail -> / (home)
+- Capabilities: Multi-Layer, Assembly, EVOH, Co-Injection, Clean Room -> / (home)
+- Industries: Food Packaging, Pet Care, Chemicals, Nutraceuticals -> / (home)
+- In-house design, tooling, mold construction, secondary operations -> /about
+- Certifications: ISO 22000:2018, FDA compliance -> /about
+- Cleanliness standards exceed clean room standards -> /about
+- Sustainability: Better Plants Partner, light-weighting, PCR -> / (home), /about
+- Mission: preferred plastic supplier -> /about
+- Rotary Blow Cell innovation -> / (home)
 </details>
 
 ---
@@ -420,59 +389,66 @@ The company emphasizes sustainability as a Better Plants Partner, food safety th
 **Old description:** Experts in Commercial Kitchen Design & Supply Store Since 1982
 
 ## About
-Gator Chef Restaurant Equipment & Kitchen Supplies is headquartered in Lisle, Illinois, just outside Chicago. Founded in 1982, the company is a family-owned and women-led business that began as a commercial kitchen design and restaurant supply store.
+Founded in 1982 in Lisle, Illinois, Gator Chef is a family-owned, women-led business that has served the commercial foodservice market for over four decades. The company began as a restaurant supply store just outside Chicago and has grown into a full-service provider of kitchen equipment, design, and support.
 
-The company operates as a distributor and service provider for commercial foodservice equipment. It stocks new and used refrigeration, cooking, prep, and holding equipment from brands such as True Manufacturing, Alto-Shaam, Hobart, and Thunder Group. Beyond product sales, Gator Chef offers kitchen design and build services, equipment leasing and renting, CFPM certification, and specialized K-12 school kitchen planning. The business runs a showroom and warehouse and sells nationally through its e-commerce site.
+Gator Chef operates as a distributor and service partner, stocking thousands of SKUs from manufacturers such as True Manufacturing, Hobart, Alto-Shaam, and Continental Refrigerator. Beyond product sales, the company offers commercial kitchen design and build services, equipment leasing and renting, CFPM certification training, and custom cutting board fabrication. Its showroom and warehouse in Lisle support both walk-in customers and project-based orders.
 
-Gator Chef serves independent restaurants, pizzerias, sandwich shops, cafes, food trucks, bakeries, and institutional kitchens, including K-12 school districts. Its product range covers everything from steam table pans and steamers to combi ovens and blast chillers, catering to both small operators and large-scale foodservice operations.
+The customer base spans independent restaurants, pizzerias, sandwich shops, cafes, food trucks, and institutional kitchens. Gator Chef also maintains a dedicated focus on K-12 school foodservice, working with directors and facility managers to design compliant, efficient cafeteria operations. Hospitality and bakery segments are served through specialized equipment lines such as curved glass display cases and combi ovens.
 
-The company emphasizes hands-on industry experience—its team has worked in every restaurant role from dishwashing to ownership—to give customers practical guidance. It also promotes a price-match guarantee with a 24-hour response and highlights personalized service as a differentiator.
+The company emphasizes hands-on expertise—its team includes veterans of every restaurant role from dishwashing to ownership—as a differentiator. A price-match guarantee with a 24-hour response window and a commitment to personalized consultation are cited as core service pillars.
 
 ## Known for
+- Family-owned, women-led business with over 40 years in foodservice
 - Price-match guarantee with 24-hour response
-- Family-owned and women-led leadership
-- Decades of hands-on restaurant experience across all roles
-- In-house commercial kitchen design and build services
-- Equipment leasing and rental programs
+- Commercial kitchen design, build, and project management
+- Equipment leasing and renting programs
+- CFPM certification and custom cutting board fabrication
 
 ## Capabilities
 - Commercial kitchen design
 - Equipment leasing and renting
-- CFPM certification training
-- K-12 school kitchen planning
+- CFPM certification
 - Custom cutting board fabrication
-- New and used equipment distribution
+- K-12 school kitchen design
 - Price matching
+- Product sourcing and distribution
 
 ## Industries
-- Restaurant
-- Foodservice
-- K-12 Education
+- Restaurants
+- Food Service
+- Education (K-12)
 - Hospitality
 - Bakery
-- Cafe
-- Food Truck
-- Pizzeria
-- Sandwich Shop
+- Catering
+
+## Equipment
+- True Manufacturing
+- Thunder Group
+- Continental Refrigerator
+- Grindmaster
+- Hobart
+- Alto-Shaam
+- Ovention
+- Structural Concepts
+- Federal
 
 ## Company details
 - **Company Type:** Distributor / reseller
 - **Founded:** 1982
-- **Ownership:** Family-owned, women-led
+- **Ownership:** Family-owned, Woman-led
 - **Headquarters:** Lisle, Illinois
 
 <details><summary>Sources</summary>
 
 - Founded 1982 -> db
 - Headquarters Lisle, Illinois -> db
-- Family-owned and women-led -> page /
-- Commercial kitchen design and restaurant supply -> page /
-- Brands carried: True Manufacturing, Alto-Shaam, Hobart, Thunder Group -> page /
-- Services: kitchen design, equipment leasing, CFPM certification, K-12 school kitchen planning -> page /
-- Showroom and warehouse at 1808 Ogden Avenue -> page /
-- Price-match guarantee with 24-hour response -> page /
-- Customer types: restaurants, pizzerias, sandwich shops, cafes, food trucks, bakeries, K-12 schools -> page /
-- Hands-on restaurant experience claimed -> page /
+- Family-owned, women-led -> /
+- Commercial kitchen design and restaurant supply -> /
+- Brands carried: True Manufacturing, Hobart, Alto-Shaam, Continental Refrigerator, etc. -> /
+- Services: design, leasing, CFPM certification, custom cutting boards -> /
+- Industries: restaurants, K-12 schools, hospitality, bakery, food trucks -> /
+- Price match guarantee 24-hour response -> /
+- LinkedIn URL -> db
 </details>
 
 ---
@@ -482,32 +458,25 @@ The company emphasizes hands-on industry experience—its team has worked in eve
 **Old description:** In 2024, going solar has become more accessible than ever, with no out-of-pocket expenses required. Thanks to a variety of innovative payment options and enhanced government incentives, you can install solar panels with zero upfront costs. Solar energy not only reduces your utility bills but also increases your property's value, making it a valuable long-term asset. These advancements mean you can start saving on your utility bills immediately without the burden of an initial investment, making solar power a practical and affordable solution for everyone.
 
 ## About
-Geaux Green Solar is a locally owned and operated solar installation company headquartered in Baton Rouge, Louisiana. The firm focuses primarily on the New Orleans metropolitan area, including Metairie, Kenner, Slidell, Covington, and Mandeville. No founding year or founder names are disclosed in public materials.
+Geaux Green Solar is a locally owned and operated solar installation company based in Baton Rouge, Louisiana. The firm serves the greater New Orleans metropolitan area, including Metairie, Kenner, Slidell, Covington, and Mandeville.
 
-The company designs and installs photovoltaic systems for residential and commercial customers. It tailors each system to the client's historical electricity usage, aiming to offset the full utility bill. Services include site assessment, system engineering, permitting, installation, and interconnection support. No facility size, headcount, or annual installation volume is published.
+The company designs and installs custom solar energy systems for residential and commercial customers, tailoring each array to the client's historical electricity usage. It promotes a no-out-of-pocket-cost model supported by government incentives and tax credits, and advertises that systems can reduce utility bills by up to half or eliminate them entirely.
 
-Geaux Green Solar serves homeowners and businesses across southeastern Louisiana. Its marketing emphasizes residential rooftop installations, though it also mentions commercial conversions. The company highlights access to federal tax credits, net metering, and financing options that require no upfront payment.
+Geaux Green Solar primarily serves homeowners and businesses in southeastern Louisiana seeking to offset grid electricity with rooftop photovoltaic arrays. Its service territory covers the Northshore and Southshore communities around Lake Pontchartrain.
 
-The company positions its local ownership and customized design approach as key differentiators. It promotes the ability to eliminate utility bills, lock in energy costs, and achieve energy independence through solar ownership. No specific certifications, equipment brands, or performance guarantees are cited in the available information.
+The company emphasizes its local presence and personalized support as differentiators, positioning itself as an alternative to national installers by offering direct communication and region-specific expertise.
 
 ## Known for
 - No out-of-pocket expense for solar installation
-- Systems designed to cut utility bills by up to half
+- Custom system design matched to household electricity usage
 - Locally owned and operated in Baton Rouge
-- Exclusive systems tailored to each customer's electricity usage
-- Focus on energy independence from utility monopolies
+- Service across the New Orleans metro area and Northshore
 
 ## Capabilities
-- Solar system design
+- Solar energy system design
 - Solar panel installation
 - Residential solar installation
 - Commercial solar installation
-- Energy usage analysis
-- Permitting and interconnection support
-
-## Industries
-- Residential
-- Commercial
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -516,16 +485,16 @@ The company positions its local ownership and customized design approach as key 
 
 <details><summary>Sources</summary>
 
-- Company name and location -> db
-- Headquarters address: 17485 Opportunity Avenue, Baton Rouge, Louisiana 70817 -> /
-- Locally owned and operated in Baton Rouge -> /
-- Primary service area: New Orleans metropolitan area including Metairie, Kenner, Slidell, Covington, Mandeville -> /
-- Designs exclusive systems tailored to electricity usage -> /
-- Offers solar installation with no out-of-pocket expense -> /
-- Claims to cut utility bills up to half -> /
-- Contact phone and email -> /
-- Business hours: Monday-Friday 8am-5pm -> /
-- Copyright 2024 Going Solar With Geaux Green -> /
+- Headquarters in Baton Rouge, Louisiana -> db
+- Address: 17485 Opportunity Avenue, Baton Rouge, LA 70817 -> /
+- Phone: 225.964.9715 -> /
+- Email: ask@geauxgreensolar.com -> /
+- Hours: Monday-Friday 8am-5pm -> /
+- Locally owned and operated -> /
+- Service area: New Orleans, Metairie, Kenner, Slidell, Covington, Mandeville -> /
+- No out-of-pocket expense for solar installation -> /
+- Utility bill reduction up to 50% -> /
+- Custom system design tailored to electricity usage -> /
 </details>
 
 ---
@@ -535,52 +504,54 @@ The company positions its local ownership and customized design approach as key 
 **Old description:** He is a welder/fitter and the owner of Geaux welding and fabrication. He has been welding and fitting for 6 years and has experience and mastery over almost all types of welding. Geaux welding will help you with install and repairs of iron fencing, hand rails, guard rails and heavy equipment. We also repair trailers for boats, do aluminum welding, and work on steel tugboats, crew boats, etc. We are available at any time, and will come to you whenever needed. We appreciate your trust in us, and guarantee a master class job upon completion.
 
 ## About
-Geaux Welding & Fabrication LLC operates out of Belle Chasse, Louisiana, serving the greater Gretna area. The business was founded by Collin, a welder and fitter with six years of experience across nearly all welding processes. He established the company to bring specialized welding directly to job sites throughout the region.
+Geaux Welding & Fabrication LLC operates from Belle Chasse, Louisiana, where founder Collin, a welder and fitter with six years of experience, established the business. The company provides mobile welding and fabrication services throughout the Gretna area.
 
-The company provides mobile welding and fabrication services, traveling to job sites for installation and repair of iron fencing, handrails, guardrails, and heavy equipment. It also handles boat trailer repairs, aluminum welding, and structural work on steel tugboats and crew boats. Operations are conducted on-site rather than in a fixed facility, with no permanent shop floor disclosed.
+The shop specializes in on-site installation and repair of iron fencing, handrails, guardrails, and heavy equipment. It also handles boat trailer repairs, aluminum welding, and structural work on steel tugboats and crew boats. All work is performed at the customer's location, with no fixed facility.
 
-Customers come from marine construction, offshore support, industrial maintenance, and residential metalwork. Typical projects include repairing barge and crew boat structures, fabricating custom rail systems, and restoring heavy equipment components. The service area covers the Gulf Coast region around Belle Chasse and Gretna.
+Primary customers include marine operators needing tugboat and crew boat maintenance, construction contractors requiring fencing and railing systems, heavy equipment owners, and boat owners with trailer repair needs. The service area covers the greater New Orleans region.
 
-Collin emphasizes round-the-clock availability and a guarantee of master-class workmanship on every job. The mobile model eliminates the need for clients to transport large assemblies, reducing downtime for marine and industrial operators.
+Collin emphasizes mastery of virtually all welding processes and guarantees a master-class finish on every job. The company differentiates itself by offering round-the-clock availability and traveling to the job site, eliminating the need for clients to transport large assemblies.
 
 ## Known for
-- Mobile welding service that travels to the customer's location
-- Expertise across virtually all welding processes
-- Guaranteed master-class workmanship on every project
+- Mobile welding service that travels to the job site
+- Available on call at any time
+- Mastery of virtually all welding processes
+- Guarantees a master-class finish on every job
+- Repairs and fabricates for marine, heavy equipment, and structural applications
 
 ## Capabilities
 - Mobile welding
-- Structural welding
+- Fabrication
+- Installation
+- Repair
 - Aluminum welding
-- Steel fabrication
-- Iron fencing installation and repair
-- Handrail and guardrail fabrication
+- Steel welding
+- Iron welding
+- Fencing installation and repair
+- Handrail and guardrail installation and repair
 - Heavy equipment repair
 - Boat trailer repair
-- Marine vessel repair (tugboats, crew boats)
-- On-site welding
-- Custom metal fabrication
+- Tugboat and crew boat welding and repair
 
 ## Industries
-- Marine construction
-- Offshore support
-- Industrial maintenance
-- Residential metalwork
+- Marine
+- Construction
 - Heavy equipment
-- Boat trailer repair
+- Transportation
 
 ## Company details
-- **Company Type:** Installer / service company
+- **Company Type:** Contract manufacturer / job shop
 - **Headquarters:** Belle Chasse, Louisiana
 
 <details><summary>Sources</summary>
 
-- Company name and owner Collin -> page /
-- Location Belle Chasse, Louisiana -> page / and db
-- Services: mobile welding, installation/repair of iron fencing, handrails, guardrails, heavy equipment, boat trailer repair, aluminum welding, tugboat/crew boat work -> page /
-- Owner has 6 years welding experience -> page /
-- Available at any time, comes to you -> page /
-- Guarantee master class job -> page /
+- Location: Belle Chasse, Louisiana -> db
+- Owner: Collin (welder/fitter) -> pages./
+- Experience: 6 years welding and fitting -> pages./
+- Services: installation and repair of iron fencing, handrails, guardrails, heavy equipment, boat trailers, aluminum welding, steel tugboats, crew boats -> pages./
+- Mobile service: available at any time, comes to customer -> pages./
+- Guarantee: master class job upon completion -> pages./
+- Contact: email and phone listed -> pages./
 </details>
 
 ---

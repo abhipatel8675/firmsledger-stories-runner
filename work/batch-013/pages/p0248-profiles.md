@@ -3,29 +3,29 @@
 **Old description:** Summit Plastic Molding specializes in prototyping and production injection molding for the automotive, medical, and defense sectors.
 
 ## About
-Summit Plastic Molding was founded in 1982 in Shelby Township, Michigan, opening its doors as a tool shop before expanding into a full-service injection molding supplier. The company operates four facilities across Michigan, Texas, and China, with its headquarters remaining in Shelby Township.
+Summit Plastic Molding was founded in 1982 in Shelby Township, Michigan, initially operating as a tool shop. The company later expanded into a full-service injection molding supplier, adding manufacturing capabilities alongside its tooling expertise. No founders are named in public materials, and ownership structure is not disclosed.
 
-The company provides custom injection molding from 85 to 1,000 tons, combining in-house tool building, tool maintenance, and production molding under one roof. A joint venture in Shenzhen, China, established in 2002, adds low-cost tooling capacity.
+The company provides prototype and production injection molding with press capacities ranging from 85 to 1,000 tons. All sites offer in-house tool building, maintenance, and molding under one roof.
 
-Summit serves the automotive, medical, and defense sectors, delivering both prototype and production-volume parts. Its customer base includes manufacturers requiring IATF 16949-certified processes for automotive components and ISO 9001-compliant medical and defense parts.
+Summit serves the automotive, medical, and defense sectors, delivering molded components for applications in each industry. The firm does not publicly list specific customers.
 
-The company emphasizes a one-stop, fully integrated model that spans engineering, tooling, and manufacturing, aiming to reduce lead times and logistics costs through its global footprint. Leadership cites total customer service and quality focus as drivers for its growth from a tool shop to a multi-site molder.
+Summit positions itself as a one-stop, fully integrated supplier, emphasizing its combination of engineering, tooling, and production under single ownership. The China joint venture is cited for low-cost tooling and faster lead times, while its IATF 16949 certification underscores a quality focus for automotive and defense work.
 
 ## Known for
-- One-stop full-service injection molding supplier with in-house engineering, tooling, and manufacturing
-- In-house tool building, maintenance, and production molding across all facilities
-- Global footprint with facilities in Michigan, Texas, and China for logistics savings
-- IATF 16949 and ISO 9001 certified quality systems
-- Injection molding capacity from 85 to 1,000 tons
+- In-house tool building, maintenance, and molding at all locations
+- IATF 16949 certified facilities in Michigan and Texas
+- Global footprint with four facilities in Michigan, Texas, and China
+- Low-cost tooling and competitive timing via China joint venture
+- One-stop full-service injection molding from prototype to production
 
 ## Capabilities
 - Injection molding (85–1,000 ton)
-- Tool building
-- Tool maintenance
-- CNC machining (HAAS, Makino)
 - Prototyping
 - Production molding
-- Mold making
+- Tool design and build
+- Tool maintenance
+- CNC machining
+- Engineering support
 
 ## Industries
 - Automotive
@@ -33,10 +33,10 @@ The company emphasizes a one-stop, fully integrated model that spans engineering
 - Defense
 
 ## Equipment
-- Engel 560-ton injection molding machine
-- HAAS CNC machine
+- Engel injection molding machines (including 560-ton)
+- HAAS CNC machines
+- Makino CNC machines
 - Makino Carbon Cutter CNC
-- Makino CNC
 
 ## Certifications
 - IATF 16949
@@ -49,17 +49,16 @@ The company emphasizes a one-stop, fully integrated model that spans engineering
 
 <details><summary>Sources</summary>
 
-- Founded 1982 in Shelby Township, Michigan -> db
-- Headquarters: Shelby Township, Michigan -> db
-- Certifications: IATF 16949, ISO 9001 -> db
-- Capabilities: Custom injection molding 85-1000 ton, in-house tool building, maintenance, production molding -> db
-- Facilities: Michigan (manufacturing facility and tool shop), Texas (125,000 sq ft since 1990), China joint venture since 2002 -> /
-- Industries served: automotive, medical, defense -> /
-- Equipment: Engel 560-ton injection molding machine, HAAS CNC, Makino Carbon Cutter CNC, Makino CNC -> /
-- Company began as tool shop in 1982, expanded to full-service -> /
-- Tool shop opened 2020 in Michigan -> /
-- One-stop full-service supplier claim -> /
-- IATF 16949 certified at Texas facility -> /
+- Founded 1982 in Shelby Township, Michigan -> db, homepage
+- Started as tool shop, transitioned to full-service injection molding -> homepage
+- Four facilities: Michigan (manufacturing & tool shop), Texas (125,000 sq ft), China (joint venture) -> homepage
+- Press capacity 85–1,000 tons -> homepage
+- Industries served: automotive, medical, defense -> homepage
+- IATF 16949 and ISO 9001 certifications -> db, homepage
+- In-house tool building and maintenance -> homepage
+- China joint venture since 2002 for low-cost tooling -> homepage
+- Equipment: Engel 560-ton injection molding machine, HAAS CNC, Makino CNC, Makino Carbon Cutter -> products list (db)
+- No explicit ownership tags, founders, headcount, volume, lead time, tolerances, materials, cage code, min order, export compliance, languages, social links -> not stated
 </details>
 
 ---
@@ -69,47 +68,48 @@ The company emphasizes a one-stop, fully integrated model that spans engineering
 **Old description:** Sun State Plastics was started in 1972 and has grown into a 54,000 sq ft facility that includes 22 injection molding machines (ranging from 28 to 1100 tons).  Three shipping docks and 2 large ground level doors anchor the large warehouse.  We have 4 silos capable of holding a total of 380,000 lbs of material.
 
 ## About
-Sun State Plastics began in 1972 in North Canton, Ohio. The company has grown from its founding into a 54,000-square-foot facility, though no founder names or ownership details are disclosed publicly.
+Sun State Plastics operates from a 54,000-square-foot facility in North Canton, Ohio. The company was started in 1972 and has expanded to house 22 injection molding machines with clamping forces from 28 to 1,100 tons, supported by four material silos holding up to 380,000 pounds of resin.
 
-The operation runs 22 injection molding machines with clamping forces from 28 to 1,100 tons, supported by four material silos that hold up to 380,000 pounds of resin. The plant includes three shipping docks and two ground-level doors, and offers custom injection molding, thermoplastic injection molding, assembly, packaging, and warehousing services under one roof.
+The shop provides custom thermoplastic injection molding, secondary assembly, packaging, and warehousing for molded components. Its machine range allows production of parts from small precision components to large structural pieces, while the on-site warehouse and three shipping docks support inventory management and distribution.
 
-The company serves customers needing custom molded plastic parts, assembly, and storage, though specific industry sectors are not listed in its public materials.
+The company serves customers requiring custom-molded plastic parts across various industrial sectors, though specific industry verticals are not publicly listed. Its capabilities accommodate both prototype and production volumes, with services tailored to individual part specifications.
 
-Sun State Plastics states its goal is to deliver quality molded plastic parts at competitive prices while accommodating specific customer needs.
+Sun State Plastics states its goal is to deliver quality molded plastic parts at competitive prices while accommodating each customer's specific needs, a mission that has guided its growth from a startup to a multi-machine operation with integrated warehousing.
 
 ## Known for
-- 54,000 sq ft facility with 22 injection molding machines (28–1,100 ton)
-- Four material silos with 380,000 lb total capacity
-- Three shipping docks and two ground-level doors for logistics
-- Custom assembly and packaging capabilities
+- 22 injection molding machines (28–1,100 ton range)
+- 4 material silos with 380,000 lb total capacity
+- 54,000 sq ft facility with three shipping docks and two ground-level doors
+- Integrated custom assembly, packaging, and warehousing services
 - Thermoplastic injection molding expertise
 
 ## Capabilities
-- Custom Injection Molding
-- Thermoplastic Injection Molding
-- Custom Assembly and Packaging
+- Custom injection molding
+- Thermoplastic injection molding
+- Custom assembly and packaging
 - Warehousing
-- Assembly
 
 ## Equipment
-- Injection molding machines (28–1,100 ton)
-- Material silos (4)
+- 22 injection molding machines (28–1,100 ton)
+- 4 material silos (380,000 lb capacity)
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1972
 - **Headquarters:** North Canton, Ohio
 
 <details><summary>Sources</summary>
 
-- Founded 1972 -> db
-- 54,000 sq ft facility -> db
-- 22 injection molding machines (28-1100 tons) -> db
-- 4 silos holding 380,000 lbs material -> db
-- Three shipping docks and 2 ground level doors -> db
-- Services: custom injection molding, assembly, warehousing, custom assembly and packaging, thermoplastic injection molding -> pages['/']
-- Headquarters North Canton, Ohio -> db
-- Goal: deliver quality molded plastic parts at competitive prices -> pages['/']
+- Founded in 1972 -> db, /
+- 54,000 sq ft facility -> db, /
+- 22 injection molding machines (28-1100 tons) -> db, /
+- Three shipping docks and two ground-level doors -> /
+- 4 silos holding 380,000 lbs material -> db, /
+- Services: Custom injection molding, assembly, warehousing -> /
+- Thermoplastic injection molding -> capabilities, /
+- Custom assembly and packaging capabilities -> capabilities, /
+- Headquarters: North Canton, Ohio -> db, /
+- Goal: deliver quality molded plastic parts at competitive prices while accommodating specific needs -> /
 </details>
 
 ---
@@ -119,41 +119,43 @@ Sun State Plastics states its goal is to deliver quality molded plastic parts at
 **Old description:** Sun Tech’s history of serving reputable companies stems from our unwavering devotion placed on quality service and dependable parts.  Customer attention resides forefront with emphasis placed on superior lead times, timeliness in delivery, and focus to customer feedback.  Our foundation of service has been laid with critical focus placed on dependability in products, quality and delivery.
 
 ## About
-Sun Tech Industries Inc was founded in 1998 in Ravenna, Nebraska, as a locally owned and operated custom plastic injection molding company. The business began with a focus on quality service and dependable parts for reputable customers.
+Sun Tech Industries Inc was founded in 1998 in Ravenna, Nebraska, as a locally owned and operated custom plastic injection molding company. From the start, the business built its reputation on meeting and exceeding customer requirements through consistent precision and dedicated attention to fulfilling customer needs.
 
-The company specializes in custom plastic injection molding supplemented by value-added services. Its facility employs advanced automation, including robotic systems and lights-out operation capability, to produce parts with consistent precision. A team of mold processing and maintenance technicians brings over 100 years of combined experience, supported by continually trained machine operators and a preventative maintenance program.
+The company specializes in custom plastic injection molding and offers value-added services designed to reduce customer costs. Its production floor uses advanced automation, including robots, and runs lights-out operations when needed. Quality is maintained by experienced mold processing and maintenance technicians with over 100 years of combined experience, continually trained machine operators, and a preventative maintenance program that maximizes tooling and equipment life.
 
-Sun Tech serves a range of industrial customers requiring plastic molded components, emphasizing superior lead times, on-time delivery, and responsiveness to feedback. The company's quality program aligns with ISO 9001:2015 and includes PPAP-level part approval, full traceability from raw material receipt through shipment, and calibrated inspection equipment traceable to national standards.
+Sun Tech serves a range of reputable companies across industries that require precision molded parts, though the company does not publicly list specific sectors or named clients. Its customer attention emphasizes superior lead times, timeliness in delivery, and flexibility to adjust needs during production.
 
-The founding principle centers on dependability—quick order fulfillment, expedited delivery, and flexibility to adjust during production runs. This commitment to service, competitive pricing, and product quality has underpinned long-term business relationships.
+The company's quality program is based on ISO 9001:2015, with a company-wide commitment to go beyond requirements. Traceability is maintained at each step from raw material receipt through shipment, using date stamps on box labels and date codes on tools. Inspection covers part characteristics during production runs, and all measuring equipment is calibrated to standards traceable to national or international benchmarks.
 
 ## Known for
-- Superior lead times and on-time delivery
-- Advanced automation with robotic cells and lights-out operation
-- ISO 9001:2015 quality management system
-- Over 100 years combined mold technician experience
-- Full production traceability from material receipt to shipment
+- Advanced automation including robots and lights-out operation
+- Quality program based on ISO 9001:2015
+- Over 100 years combined experience among mold technicians
+- Full traceability from raw material to shipment
+- Flexible production adjustments during runs
 
 ## Capabilities
 - Custom plastic injection molding
-- Value-added assembly and finishing
-- Robotic automation
+- Value-added services
+- Automated injection molding with robots
 - Lights-out manufacturing
 - Mold processing and maintenance
-- Production Part Approval Process (PPAP)
-- First article inspection
-- Material lot traceability
-- In-process inspection
-- Raw material certification management
-- Calibrated measurement and inspection
-- Nonconforming material control
 - Preventative maintenance program
+- Part approval (PPAP, master sample sign-off)
+- Traceability management
+- Inspection and certification (raw material certs, data sheets, MSDS)
+- Calibration and measurement verification
+- Nonconforming product control
+
+## Equipment
+- Robots
+- Automation equipment
 
 ## Certifications
 - ISO 9001:2015
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1998
 - **Ownership:** Locally owned and operated
 - **Headquarters:** Ravenna, Nebraska
@@ -164,25 +166,21 @@ The founding principle centers on dependability—quick order fulfillment, exped
 - Located in Ravenna, NE -> /about-us
 - Locally owned and operated -> /about-us
 - Custom plastic injection molding company -> /about-us
-- Value-added services offered -> /
+- Value-added services reduce customer costs -> /
 - Advanced automation including robots -> /
 - Lights-out operation -> /
-- ISO 9001:2015 quality program -> /quality
-- Over 100 years combined technician experience -> /quality
+- Quality program based on ISO 9001:2015 -> /quality
+- Over 100 years combined experience among technicians -> /quality
 - Continually trained machine operators -> /quality
-- Latest equipment technology -> /quality
 - Preventative maintenance program -> /quality
-- PPAP part approval -> /quality
-- Mold Print & Part Approval Form -> /quality
-- Traceability each step of production -> /quality
-- Date stamps on box labels -> /quality
-- Date codes on tool -> /quality
-- Inspection during production runs -> /quality
-- Raw material certifications, data sheets, MSDS maintained -> /quality
-- Calibrated measuring equipment traceable to standards -> /quality
+- Part approval processes (PPAP, master sample) -> /quality
+- Traceability each step from raw material to shipment -> /quality
+- Date stamps on box labels and date codes on tools -> /quality
+- Inspection during production runs, raw material certs maintained -> /quality
+- Measuring equipment calibrated to national/international standards -> /quality
 - Nonconforming product procedure -> /quality
-- Superior lead times, timeliness in delivery, customer feedback focus -> /about-us, /
-- Quick order fulfillment, expedient delivery, flexible needs adjustments -> /about-us
+- Superior lead times, timeliness in delivery, flexible adjustments -> /about-us
+- Focus on dependability in products, quality, delivery -> /about-us
 </details>
 
 ---
@@ -192,29 +190,28 @@ The founding principle centers on dependability—quick order fulfillment, exped
 **Old description:** SunPower is a leading solar energy company headquartered in California. Designs and manufactures high-efficiency monocrystalline solar panels and provides complete solar power systems for residential, commercial and utility applications.
 
 ## About
-SunPower Corporation, headquartered in San Jose, California, was founded in 1985. The company operates as a manufacturer of solar energy products and is led by Chief Executive Officer T.J. Rodgers.
+SunPower Corporation was founded in 1985 and is headquartered in San Jose, California. The company designs and manufactures high-efficiency monocrystalline solar panels and provides complete solar power systems for residential, commercial, and utility applications.
 
-The company designs and manufactures high-efficiency monocrystalline solar panels and delivers complete photovoltaic systems for residential, commercial, and utility-scale applications. Its offerings also include solar battery storage solutions integrated with home and business energy systems. SunPower employs between 500 and 999 people across its operations.
+SunPower produces monocrystalline solar panels and integrates them with battery storage to deliver turnkey photovoltaic systems. The company employs between 500 and 999 people and operates across the United States, serving homeowners, homebuilders, commercial property owners, and utility-scale developers.
 
-SunPower serves three primary markets: residential homeowners seeking rooftop solar and storage, commercial and industrial businesses pursuing energy independence, and utility-scale power generation projects. The company also partners with homebuilders to integrate solar into new construction, citing builder trust in meeting code and schedule requirements.
+Its customer base spans the residential, commercial, and utility sectors. Homeowners can purchase rooftop solar and battery storage packages, while builders rely on SunPower to meet code requirements and stay on schedule. Commercial and utility clients receive customized solar solutions designed for larger-scale energy generation.
 
-SunPower differentiates itself through decades of solar innovation, 25-year manufacturer warranties, and panels tested for durability and performance. The company emphasizes a seamless process from consultation through installation, customizing each solar-plus-storage system to the customer’s specific needs.
+SunPower emphasizes a 25-year manufacturer warranty, decades of solar innovation, and a seamless process from consultation to installation. The company highlights its high-efficiency panels tested for durability and its ability to tailor solar-plus-storage systems to each property’s unique needs.
 
 ## Known for
 - 25-year manufacturer warranty on panels
+- Decades of solar innovation and experience
 - High-efficiency monocrystalline panels tested for durability
 - Custom solar-plus-storage systems tailored to each property
 - Expert support from consultation through installation
-- Decades of solar innovation heritage
 
 ## Capabilities
 - Monocrystalline solar panel manufacturing
-- PV system design and engineering
+- Photovoltaic system design and engineering
 - Solar battery storage integration
 - Residential solar installation
 - Commercial solar installation
-- Utility-scale solar development
-- New home solar integration
+- Utility-scale solar project development
 
 ## Industries
 - Residential
@@ -234,16 +231,15 @@ SunPower differentiates itself through decades of solar innovation, 25-year manu
 - Headquartered in San Jose, California -> db
 - Employee count 500-999 -> db
 - Designs and manufactures high-efficiency monocrystalline solar panels -> db
-- Provides complete solar power systems for residential, commercial, utility -> db
-- Offers solar battery storage -> homepage
-- 25-year manufacturer warranty -> homepage
-- CEO T.J. Rodgers -> homepage
-- Serves residential, commercial, utility markets -> db
-- Partners with homebuilders for new construction -> homepage
-- Emphasizes decades of solar innovation -> homepage
-- Panels tested for durability and performance -> homepage
-- Seamless process from consultation to installation -> homepage
-- Customized solar-plus-storage systems -> homepage
+- Provides complete solar power systems for residential, commercial, utility applications -> db
+- Industries served: Residential, Commercial, Utility -> db
+- CEO T.J. Rodgers -> /
+- 25-year manufacturer warranty -> /
+- Decades of solar innovation -> /
+- High-efficiency solar panels tested for durability -> /
+- Custom solar-plus-storage systems tailored to each property -> /
+- Expert support from consultation to installation -> /
+- Serves homeowners, homebuilders, commercial, utility customers -> /
 </details>
 
 ---
@@ -253,19 +249,24 @@ SunPower differentiates itself through decades of solar innovation, 25-year manu
 **Old description:** SunSpark Technology manufactures thin-film photovoltaic panels using cadmium telluride technology. Solar modules, built with tempered glass and anodized aluminum, serve commercial, government, military and industrial clients.
 
 ## About
-SunSpark Technology, based in Hemet, California, with a facility in Riverside, was founded in 2008 as a manufacturer of solar photovoltaic panels and modules. The company produces thin-film photovoltaic panels using cadmium telluride technology, as well as monocrystalline and polycrystalline PV panels. Solar modules are built with tempered glass and anodized aluminum frames. The operation employs 10 to 49 people; facility size and production volumes are not disclosed. SunSpark serves commercial, industrial, military, and government customers, along with residential clients. Its modules are used in commercial rooftops, industrial facilities, military installations, and government projects. The company emphasizes cutting-edge engineering and design practices to guarantee high-quality results, driven by a passion for creating superior solar modules that deliver optimal sustainability and efficiency.
+SunSpark Technology, based in Hemet, California, was founded in 2008. The company operates as a manufacturer of solar photovoltaic modules.
+
+The company produces thin-film photovoltaic panels using cadmium telluride technology, as well as monocrystalline and polycrystalline PV panels. Solar modules are built with tempered glass and anodized aluminum frames. With a workforce of 10 to 49 employees, SunSpark handles fabrication and assembly of solar modules for various applications, including commercial rooftops, industrial power systems, and military field deployments.
+
+SunSpark serves commercial, industrial, military, government, and residential customers. Its modules are used in commercial rooftop installations, industrial power systems, military field deployments, government facilities, and residential solar arrays. The company’s client base spans both public and private sector projects.
+
+The company emphasizes cutting-edge engineering and design practices to deliver high-quality solar modules optimized for sustainability and efficiency. This focus on advanced manufacturing techniques underpins its product offerings and positions it as a technology-driven solar manufacturer.
 
 ## Known for
-- Thin-film photovoltaic panels using cadmium telluride technology
-- Solar modules built with tempered glass and anodized aluminum
-- Cutting-edge engineering and design practices guarantee highest quality results
-- Passionate about creating superior solar modules for optimal sustainability and efficiency
+- Cadmium telluride thin-film photovoltaic technology
+- Tempered glass and anodized aluminum module construction
+- Cutting-edge engineering and design practices
 
 ## Capabilities
-- Thin-film photovoltaic panel manufacturing (cadmium telluride)
-- Monocrystalline PV panel manufacturing
-- Polycrystalline PV panel manufacturing
-- Solar module assembly with tempered glass and anodized aluminum frames
+- Thin-film photovoltaic manufacturing (CdTe)
+- Monocrystalline PV panel production
+- Polycrystalline PV panel production
+- Solar module assembly with tempered glass and anodized aluminum
 
 ## Industries
 - Commercial
@@ -282,17 +283,15 @@ SunSpark Technology, based in Hemet, California, with a facility in Riverside, w
 
 <details><summary>Sources</summary>
 
-- Founded 2008 -> db
-- Headquarters Hemet, California -> db
+- Founded in 2008 -> db
+- Headquarters in Hemet, California -> db
 - Employee count 10-49 -> db
-- Manufactures thin-film photovoltaic panels using cadmium telluride technology -> db description
-- Solar modules built with tempered glass and anodized aluminum -> db description
-- Serves commercial, government, military, industrial clients -> db description
-- Products: Monocrystalline PV Panels, Polycrystalline PV Panels -> db products
-- Industries served: Commercial, Industrial, Military, Government -> db industries_served
+- Manufactures thin-film photovoltaic panels using cadmium telluride technology -> db
+- Products include monocrystalline and polycrystalline PV panels -> db
+- Serves commercial, industrial, military, government, and residential customers -> db, page /
+- Solar modules built with tempered glass and anodized aluminum -> db
+- Company emphasizes cutting-edge engineering and design practices -> page /
 - Located in Riverside, CA -> page /
-- Cutting-edge engineering and design practices guarantee highest quality results -> page /
-- Passionate about creating superior solar modules for optimal sustainability and efficiency -> page /
 </details>
 
 ---
@@ -302,38 +301,33 @@ SunSpark Technology, based in Hemet, California, with a facility in Riverside, w
 **Old description:** Suncovia helps homeowners take control of rising energy costs with accessible solar solutions, no-money-down options, and fixed monthly payments. With a fully in-house team, fast installation timelines, and transparent communication, Suncovia makes going solar simple and straightforward.
 
 ## About
-Suncovia was founded in 2022 in Bangor, Maine, by a team of solar industry professionals who wanted to create a simpler, more transparent path to solar for homeowners facing rising utility costs. The company remains privately held and operates with a fully in-house model covering sales, installation, and service.
+Founded in 2022 in Bangor, Maine, Suncovia was established by solar industry professionals to create a more transparent and accessible path to solar energy for homeowners facing rising utility costs. The company operates with a fully in-house model, handling sales, installation, and service internally rather than outsourcing to third-party contractors.
 
-The company provides residential and commercial solar installation, battery storage, roofing, and heat pump solutions. Its in-house crews handle site assessment, permitting, electrical integration, and system activation, with most solar installations completed in a single day. An online monitoring app lets customers track energy production and usage in real time.
+Suncovia provides residential and commercial solar installation, roofing services, battery storage, and heat pump solutions. Its in-house teams manage the entire project lifecycle—from site assessment and permitting to installation, inspection, and utility interconnection. The company states that most solar installations are completed in a single day outside of winter conditions, and it offers an online monitoring app for energy production and usage.
 
-Suncovia serves homeowners and businesses across California, Connecticut, Florida, Illinois, Maine, Maryland, Massachusetts, New Hampshire, Pennsylvania, Rhode Island, and Texas. Its residential customers seek predictable monthly payments through no-money-down financing, while commercial clients aim to reduce operating costs and stabilize long-term energy expenses.
+The company serves homeowners across twelve states, including Maine, Pennsylvania, Massachusetts, and Texas, as well as businesses seeking to reduce operating costs through commercial solar arrays. Customers range from individual homeowners replacing unpredictable utility bills with fixed monthly payments to commercial clients aiming for long-term energy cost predictability.
 
-The company differentiates itself by keeping every project phase under one roof, eliminating third-party subcontractors. This approach is designed to deliver faster timelines, clearer communication, and a single point of accountability from consultation through post-installation support.
+Suncovia differentiates itself through a no-money-down financing option with fixed monthly payments, a fully in-house workforce that eliminates subcontractor handoffs, and a focus on proactive communication throughout the permitting and installation process. The firm was built to simplify the solar experience by combining transparent pricing, rapid installation timelines, and a single point of accountability from consultation through activation.
 
 ## Known for
 - Fully in-house team for sales, installation, and service
-- No-money-down solar options with fixed monthly payments
-- Fast installation timelines (typically one day)
-- Transparent communication and proactive updates
-- Online app for monitoring energy production and usage
+- No-money-down solar financing with fixed monthly payments
+- Installation typically completed in one day (outside winter)
+- All permits and inspections handled internally
+- Online monitoring app for energy production and usage
 
 ## Capabilities
 - Residential solar installation
 - Commercial solar installation
-- Battery storage installation
 - Roofing services
+- Battery storage installation
 - Heat pump installation
-- Permitting and utility coordination
-- Site survey and system design
-- Electrical integration
-- System monitoring via online app
+- Energy monitoring app
 
 ## Industries
-- Residential solar
-- Commercial solar
-- Roofing
-- Battery storage
-- Heat pumps
+- Residential
+- Commercial
+- Renewable energy
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -343,14 +337,15 @@ The company differentiates itself by keeping every project phase under one roof,
 <details><summary>Sources</summary>
 
 - Founded in 2022 -> /about
-- Headquartered in Bangor, Maine -> db
-- Fully in-house team for sales, installation, and service -> /about
-- Services: residential solar, commercial solar, roofing, battery storage, heat pumps -> /services
-- No-money-down financing with fixed monthly payments -> /
-- Fast installation typically one day -> /about
-- Online app for monitoring energy production and usage -> /
-- Serves multiple states (CA, CT, FL, IL, ME, MD, MA, NH, PA, RI, TX) -> /
-- 354 reviews, 4.8 rating -> /
+- Headquarters in Bangor, Maine -> db
+- Fully in-house team for sales, installation, service -> /about, /services, /
+- No-money-down financing with fixed monthly payments -> /, /about
+- Services: residential solar, commercial solar, roofing, battery storage, heat pumps -> /services, /
+- Serves homeowners in 12 states (CA, CT, FL, IL, ME, MD, MA, NH, PA, RI, TX) -> /, /about, /services
+- Installation typically completed in one day outside winter -> /, /about
+- Online monitoring app for energy production and usage -> / (products)
+- Handles all permits and inspections internally -> /, /about
+- Award-winning Top Solar Contractor (per blog) -> /about (blog snippet)
 </details>
 
 ---
@@ -360,59 +355,61 @@ The company differentiates itself by keeping every project phase under one roof,
 **Old description:** Welcome to Sundance Custom Steel, where we offer top-tier metal siding solutions to elevate the look and durability of your property. Nestled in the beautiful Sundance, Wyoming, our company specializes in providing high-quality metal siding, roofing, trim, and accessories tailored to withstand the unique challenges of our local climate.
 
 ## About
-Sundance Custom Steel is based in Sundance, Wyoming, with a second location in Piedmont, South Dakota. The company was founded in 2015 by Jay Pixley as a faith‑based, family‑owned operation focused on manufacturing steel roofing, siding, and trim for the Black Hills region.
+Sundance Custom Steel is based in Sundance, Wyoming, with a second location in Piedmont, South Dakota. The company was founded in 2015 by Jay Pixley as a faith‑based, family‑owned operation with a vision to supply superior steel products and unmatched customer service to the Black Hills region.
 
-The firm produces a range of metal building components including corrugated and flat panels (branded TUFFRIB, RUGGED, PBR PANEL, snap‑lock, mechanical‑lock, and board‑and‑batten profiles), along with precision‑crafted trim and accessories. Manufacturing is performed in‑house using modern equipment and quality‑control processes; a 2022 facility expansion increased capacity. The company also offers professional installation services for all its products and promises a 48‑hour turnaround on approved orders.
+The company manufactures steel roofing, siding, trim, and accessories, offering profiles such as TUFFRIB, RUGGED, PBR panel, snap‑lock, mechanical‑lock, and board‑and‑batten systems. After expanding to a larger facility in 2022, Sundance Custom Steel provides custom fabrication, precision manufacturing, and rigorous quality control, and also offers professional installation and project management for residential and commercial projects. A 48‑hour turnaround on approved orders is standard.
 
-Customers include residential homeowners and commercial contractors across Wyoming, South Dakota, Montana, and Nebraska. The product line is marketed for both new construction and renovation projects, with color and finish options tailored to regional architectural styles.
+Customers include contractors and homeowners across Wyoming, South Dakota, Montana, and Nebraska. The product line serves both new construction and renovation in the residential and commercial building sectors.
 
-Pixley started the business to provide durable, locally sourced steel products backed by personal service. The company emphasizes its family‑owned values, quick lead times, and deep knowledge of the area’s climate challenges as key differentiators.
+The firm emphasizes its family‑owned values, local expertise, quick turnaround, and a wide selection of in‑stock colors as key differentiators.
 
 ## Known for
 - 48-hour turnaround on approved orders
 - Faith-based, family-owned values
-- In-house manufacturing with modern equipment
-- Professional installation services
-- Wide selection of in-stock panel profiles and colors
+- Locally owned and operated with regional expertise
+- Wide selection of in-stock color options
+- Professional installation and project management
 
 ## Capabilities
 - Steel roofing manufacturing
 - Steel siding manufacturing
-- Trim and accessories manufacturing
-- Custom panel profiling (corrugated, flat, snap-lock, mechanical-lock, board-and-batten)
-- Professional installation services
-- Custom order fabrication
-- Precision craftsmanship with quality control
-- Color and finish customization
+- Trim manufacturing
+- Accessories manufacturing
+- Custom metal fabrication
+- Precision manufacturing
+- Quality control
+- Customization of profiles, colors, finishes
+- Installation services
+- Project management
+- Custom order processing
 
 ## Industries
 - Residential construction
 - Commercial construction
+- Roofing
+- Siding
+- Building materials
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 2015
-- **Ownership:** Family-owned, Faith-based
+- **Ownership:** Family-owned
 - **Headquarters:** Sundance, WY
 
 <details><summary>Sources</summary>
 
-- Company name and locations -> db
 - Founded in 2015 -> /about-us
 - Faith-based, family-owned -> /about-us
 - Founder Jay Pixley -> /about-us
-- Expansion to larger facility in 2022 -> /about-us
+- Expanded to larger facility in 2022 -> /about-us
 - 48-hour turnaround on approved orders -> /about-us
-- Products: metal roofing, siding, trim, accessories -> / and /about-us
-- Installation services offered -> /
-- Service area: Wyoming, South Dakota, Montana, Nebraska -> /about-us
-- Locally owned and operated -> /
-- Panel profiles: TUFFRIB, RUGGED, PBR PANEL, snap-lock, mechanical-lock, board-and-batten -> /
-- State-of-the-art manufacturing techniques -> /
-- Customization options (profiles, colors, finishes) -> /
-- Quality control measures -> /
-- Second location planned for 2025 -> /about-us
-- Team members listed (Jay Pixley, Reggie Gaylord, etc.) -> /about-us
+- Manufactures steel roofing, siding, trim, accessories -> /about-us
+- Offers installation services -> / (homepage capabilities)
+- Serves residential and commercial customers in WY, SD, MT, NE -> /about-us
+- Product profiles: TUFFRIB, RUGGED, PBR PANEL, snap-lock, mechanical-lock, board-and-batten -> / (homepage)
+- Locally owned and operated in Sundance, WY -> / (homepage)
+- Second location in Piedmont, SD -> / (homepage)
+- Team includes Jay Pixley (Founder & CEO), Reggie Gaylord (Head of Sales), etc. -> /about-us
 </details>
 
 ---
@@ -422,64 +419,65 @@ Pixley started the business to provide durable, locally sourced steel products b
 **Old description:** SunGold Foods Inc., a division of Red River Commodities, creates roasted ingredients and food products to meet your specific formulations and specifications. We also provide custom packaging solutions to fit your needs and desires.
 
 ## About
-SunGold Foods Inc., a division of Red River Commodities, operates from Fargo, North Dakota. The company focuses on creating roasted ingredients and food products tailored to customer formulations and specifications, along with custom packaging solutions.
+SunGold Foods Inc., a division of Red River Commodities, operates from Fargo, North Dakota. The company specializes in producing roasted ingredients and food products tailored to customer formulations and specifications, along with custom packaging solutions.
 
-The facility roasts products using two primary methods: oil frying with NuSun sunflower oil, a trans-fat-free oil that lets natural flavors shine, and dry roasting in several configurations to achieve distinct flavor profiles. SunGold also develops custom flavors and proprietary pre-blends, and operates as a completely peanut- and tree nut-free facility. Its product lineup includes in-shell sunflower seeds, sunflower kernels, and specialty items, with custom roasting and packaging available for other ingredients.
+The facility roasts products using both oil frying and dry roasting methods. For frying, it employs NuSun sunflower oil, a trans-fat-free oil with minimal flavor transfer. Dry roasting is performed in multiple configurations to achieve distinct flavor profiles. The company's roasting lines are designed for continuous flow, reducing variation in finished goods. Master Roasters oversee each batch to meet taste, texture, and visual requirements. SunGold also develops custom flavors and proprietary pre-blends in collaboration with clients, and maintains a completely peanut- and tree nut-free environment.
 
-The company serves food manufacturers and snack producers seeking custom-roasted ingredients, particularly those requiring nut-free processing and identity-preserved supply chains. Customers collaborate on specifications from raw material selection through finished product delivery.
+SunGold serves food manufacturers and brands that require custom-roasted ingredients, particularly those needing nut-free and allergen-controlled products. Its quality system monitors every step from seed selection and planting through harvest, storage, processing, packaging, and delivery. On-site testing includes moisture, color, salt levels, residual oxygen, bag weights, coding, seal integrity, and package appearance. Nitrogen flushing is used to remove oxygen from packages and prevent oxidation.
 
-SunGold emphasizes a science-based approach to roasting, using continuous-flow lines and instrumentation to test moisture, color, and salt levels, which reduces deviation in finished goods. Master roasters oversee each batch to meet taste, texture, and visual requirements. The quality system is certified to AIB, Kosher, Organic, and SQF Food Safety standards, and includes nitrogen-flushed packaging with on-site seal and oxygen testing.
+The company holds AIB, Kosher, Organic, and SQF Food Safety certifications, reflecting its focus on human food standards, high purity, and identity preservation. These certifications, combined with its science-based roasting approach and dedicated Master Roasters, form the basis of its differentiation in the custom roasting and packaging market.
 
 ## Known for
-- Science-based continuous-flow roasting lines for lower finished-goods deviation
-- Master roasters ensure taste, texture, and visual specifications
-- Completely peanut- and tree nut-free facility
-- Custom flavor development and proprietary pre-blends
-- Nitrogen-flushed packaging with on-site residual oxygen and seal testing
-- Certified to AIB, Kosher, Organic, and SQF Food Safety standards
+- Completely nut-free facility
+- Science-based continuous-flow roasting lines
+- Master Roasters ensure sensory specifications
+- NuSun sunflower oil (trans-fat-free) for frying
+- Nitrogen flush packaging to prevent oxidation
+- Certifications: AIB, Kosher, Organic, SQF
 
 ## Capabilities
-- Oil frying (NuSun sunflower oil)
-- Dry roasting
-- Custom flavor development
-- Proprietary pre-blends
-- Custom packaging
-- Nitrogen flushing
-- Quality testing (residual oxygen, bag weight, coding, seal testing)
-- Nut-free processing
-- Identity-preserved supply chain management
-- Roasting to customer specifications
+- Custom roasting (oil frying and dry roasting)
+- Custom packaging solutions
+- Flavor development
+- Proprietary pre-blend formulation
+- Quality assurance and testing (moisture, color, salt)
+- Nitrogen flush packaging
+- Identity preservation and traceability
+- Integrated supply chain monitoring (seed to delivery)
 
 ## Industries
-- Food manufacturing
-- Snack food manufacturing
-- Food ingredient manufacturing
+- Human food manufacturing
+- Allergen-free food
 
 ## Certifications
 - AIB
 - Kosher Certified
 - Organic Certified
-- SQF Food Safety Certified
+- SQF: Food Safety Certified
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
+- **Ownership:** Division of Red River Commodities
 - **Headquarters:** Fargo, North Dakota
 
 <details><summary>Sources</summary>
 
-- SunGold Foods Inc. is a division of Red River Commodities -> /
-- Headquartered in Fargo, North Dakota -> db
-- Creates roasted ingredients and food products to meet specific formulations and specifications -> /
-- Provides custom packaging solutions -> /
-- Roasts via oil frying using NuSun sunflower oil -> /
-- Offers dry roasting in several configurations -> /
-- Develops custom flavors and proprietary pre-blends -> /
-- Operates a completely peanut- and tree nut-free facility -> /
-- Products include in-shell sunflower seeds, sunflower kernels, and specialty items -> /
-- Quality certifications: AIB, Kosher Certified, Organic Certified, SQF Food Safety Certified -> /quality
-- Uses nitrogen flushing to remove oxygen from packaging -> /quality
-- Performs on-site testing of residual oxygen, bag weights, coding, package appearance, and pressurized seals -> /quality
-- Monitors quality from seed selection through delivery -> /quality
+- Location: Fargo, North Dakota -> db
+- Division of Red River Commodities -> main page
+- Creates roasted ingredients and food products to meet specific formulations -> main page
+- Custom packaging solutions -> main page
+- Roasting via oil frying using NuSun sunflower oil -> main page
+- Dry roasting in multiple configurations -> main page
+- Continuous flow roasting lines reduce variation -> main page
+- Master Roasters oversee taste, texture, visual requirements -> main page
+- Custom flavor development -> main page
+- Proprietary pre-blend formulation -> main page
+- Completely peanut- and tree nut-free facility -> main page
+- Quality monitoring from seed selection through delivery -> quality page
+- On-site testing: moisture, color, salt, residual oxygen, bag weights, coding, seal integrity, package appearance -> quality page
+- Nitrogen flushing to prevent oxidation -> quality page
+- Certifications: AIB, Kosher Certified, Organic Certified, SQF Food Safety Certified -> quality page
+- Focus on human food standards, high purity, identity preservation -> quality page
 </details>
 
 ---
@@ -489,34 +487,36 @@ SunGold emphasizes a science-based approach to roasting, using continuous-flow l
 **Old description:** What separates Sunland Woodworks from other Door and Window companies is our custom manufacturing facility. 40 years ago we began as a wood manufacturing facility specializing in custom hardwood moldings, fine carvings, and architectural pieces. We then expanded into custom wood doors and windows.
 
 ## About
-Sunland Woodworks operates from North Hollywood, California. The company traces its origins to 40 years ago when it began as a wood manufacturing facility specializing in custom hardwood moldings, fine carvings, and architectural pieces. No founders are named in public materials, and ownership structure has not been disclosed.
+Sunland Woodworks operates from North Hollywood, California. The company traces its roots back four decades to a wood manufacturing facility that specialized in custom hardwood moldings, fine carvings, and architectural pieces. The founders are not named in public records, and the ownership structure has not been disclosed.
 
-Today the firm runs a custom manufacturing facility producing a range of architectural wood products. Its core offerings include custom wood doors and windows, hand‑crafted columns, intricate sidings, and a full line of moldings and hardware. The shop handles both one‑off pieces and larger project volumes, though specific facility size, headcount, and annual output are not published.
+Today the firm runs a custom manufacturing facility producing wood doors, windows, moldings, columns, sidings, and hardware. Its capabilities span custom woodworking, fine carving, and architectural millwork, with professional installation offered for windows. Facility size, headcount, and annual volume are not publicly reported.
 
-The company serves residential and commercial builders across Southern California, with projects documented from San Diego to San Francisco. Its work has been featured in publications such as Architectural Digest, indicating a focus on higher‑end architectural millwork.
+The company serves residential and commercial projects across California, from San Diego to San Francisco. Its work has appeared in Architectural Digest and other building publications, and the sales staff assists clients with material selection and project completion.
 
-Sunland Woodworks emphasizes its in‑house manufacturing capability as a key differentiator, allowing it to blend custom and standard materials efficiently. An experienced sales team assists clients with material selection and project coordination from start to finish.
+Sunland Woodworks emphasizes its in-house manufacturing as a key differentiator, allowing control over custom door and window production. The business was started to provide a single source for custom and non‑custom wood components, blending value and style for building projects.
 
 ## Known for
-- Custom manufacturing facility enabling blend of custom and standard materials
-- Experienced sales staff guiding material selection and project completion
+- Custom manufacturing facility for doors, windows, and architectural millwork
 - Four decades of wood manufacturing experience
+- Serves residential and commercial projects throughout California
+- Featured in Architectural Digest and other design publications
+- Experienced sales staff provides material selection and project support
 
 ## Capabilities
-- Custom woodworking
-- Custom hardwood moldings
-- Fine wood carvings
-- Architectural woodwork
 - Custom wood doors
 - Custom wood windows
-- Hand‑crafted wood columns
+- Custom hardwood moldings
+- Fine wood carvings
+- Architectural wood pieces
+- Wood columns
 - Wood sidings
-- Hardware supply
+- Wood hardware
+- Professional wood window installation
 
 ## Industries
 - Residential construction
 - Commercial construction
-- Architectural millwork
+- Architectural woodworking
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -524,12 +524,15 @@ Sunland Woodworks emphasizes its in‑house manufacturing capability as a key di
 
 <details><summary>Sources</summary>
 
-- Location: North Hollywood, California -> db
-- Founded 40 years ago as wood manufacturing facility -> /
-- Custom manufacturing facility producing doors, windows, moldings, columns, sidings, hardware -> /
-- Serves residential and commercial projects from San Diego to San Francisco -> /
-- Featured in Architectural Digest -> /
-- Emphasizes in-house manufacturing and experienced sales staff -> /
+- North Hollywood, California headquarters -> db
+- Founded as wood manufacturing facility 40 years ago -> page:/
+- Specializes in custom hardwood moldings, fine carvings, architectural pieces -> page:/
+- Expanded into custom wood doors and windows -> page:/
+- Offers columns, sidings, hardware, and window installation -> page:/
+- Serves residential and commercial projects from San Diego to San Francisco -> page:/
+- Featured in Architectural Digest and other publications -> page:/
+- Experienced sales staff assists with material choices and project completion -> page:/
+- Custom manufacturing facility cited as key differentiator -> page:/
 </details>
 
 ---
@@ -539,38 +542,40 @@ Sunland Woodworks emphasizes its in‑house manufacturing capability as a key di
 **Old description:** services in Minnesota? Sunny Side Solutions Solar specializes in the safe removal, storage, and reinstallation of solar panels for roof replacements, remodeling projects, system upgrades, and insurance claims. Whether you’re coordinating with a roofing contractor or filing a storm damage claim, our team ensures a smooth detach and reset process. We serve homeowners, builders, and insurers across Minneapolis, Saint Paul, and Greater Minnesota. Trust us for code-compliant, professional service that protects your investment. Choose Sunny Side Solutions Solar Minnesota’s top choice for solar removal and replacement done right the first time.
 
 ## About
-Sunny Side Solutions operates from Prior Lake, Minnesota, serving the greater Minneapolis–Saint Paul area. The company does not disclose its founding year or ownership structure in public materials. It presents itself as a full‑service electrical contractor focused exclusively on solar energy systems.
+Sunny Side Solutions is a solar installation and electrical contracting company based in Prior Lake, Minnesota. The firm operates as a full-service electrical contractor specializing in solar energy systems for residential and commercial customers across the state.
 
-The firm handles every phase of a solar project in‑house: system design, permitting, installation, and final inspection. Its service lineup includes residential and commercial photovoltaic installation, pitched‑roof, ground‑mount, and flat‑roof arrays, as well as battery storage, EV‑charging stations, and electrical‑panel upgrades. A dedicated remove‑and‑replace offering covers panel detachment, storage, and reinstallation for roof replacements, remodels, and insurance claims. A master licensed electrician oversees all electrical work.
+The company provides end-to-end solar services, handling system design, permitting, installation, and final inspection in-house. Its offerings include residential and commercial solar array installation on pitched roofs, flat roofs, and ground-mounted configurations, as well as battery energy storage systems, electric vehicle charging stations, and electrical panel upgrades. A dedicated remove-and-replace service supports roof replacements, remodeling projects, system upgrades, and insurance claims, with crews coordinating directly with roofing contractors and insurers.
 
-Customers range from individual homeowners and builders to insurance adjusters processing storm‑damage claims. Commercial clients include farms, retail locations, and industrial facilities throughout Minnesota. The company coordinates directly with roofing contractors and utility programs such as Xcel Energy’s Solar*Rewards.
+Sunny Side Solutions serves homeowners, builders, and insurance companies throughout Minneapolis, Saint Paul, and greater Minnesota. Its commercial client base spans farms, retail locations, and industrial facilities, with scalable systems tailored to each property’s energy usage and roof type.
 
-Sunny Side Solutions emphasizes a “do it right the first time” approach, stressing code‑compliant, safe installations built for long‑term performance. Its differentiators are the single‑source responsibility from design through activation and the integration of solar with storage and EV charging under one contractor.
+The company emphasizes a safety-first, code-compliant approach, with a master licensed electrician overseeing every project. By managing all phases internally—from engineering to utility coordination—Sunny Side Solutions aims to deliver a smooth, reliable experience and long-term system performance.
 
 ## Known for
-- Full in‑house design, permitting, installation, and inspection
+- In-house design, permitting, installation, and inspection
 - Master licensed electrician on staff
-- Code‑compliant, safety‑first installations
-- Remove‑and‑replace service for roof work and insurance claims
-- Integrated solar, battery storage, and EV‑charging solutions
+- Code-compliant, safety-focused installations
+- Specialized solar panel removal and reinstallation for roof replacements and insurance claims
+- Integrated solar, battery storage, and EV charging solutions
 
 ## Capabilities
 - Residential solar installation
 - Commercial solar installation
-- Solar panel removal and reinstallation (remove & replace)
-- EV charging station installation
-- Battery energy storage system installation
-- Electrical panel upgrades
+- Solar panel removal and reinstallation
 - Pitched roof solar array installation
 - Ground mount solar installation
 - Flat roof solar array installation
+- Battery energy storage system installation
+- EV charging station installation
+- Electrical panel upgrades
 - System design and permitting
-- Utility coordination and final inspection
+- Installation and final inspection
 
 ## Industries
 - Residential
 - Commercial
+- Industrial
 - Agricultural
+- Retail
 - Insurance
 
 ## Company details
@@ -579,15 +584,14 @@ Sunny Side Solutions emphasizes a “do it right the first time” approach, str
 
 <details><summary>Sources</summary>
 
-- Headquarters in Prior Lake, Minnesota -> db
+- Headquarters: Prior Lake, Minnesota -> db
 - Full-service electrical contractor specializing in solar installations -> /about
-- In-house design, permitting, installation, and final inspection -> /about
-- Services: residential solar, commercial solar, remove & replace, EV charging, battery storage, electrical panel upgrades, pitched roof arrays, ground mount, flat roof arrays -> /
-- Serves homeowners, builders, insurers across Minneapolis, Saint Paul, Greater Minnesota -> /
+- Services: residential solar installation, commercial solar installation, remove & replace, pitched roof, ground mount, flat roof, battery storage, EV charging, electrical panel upgrades -> /
+- Customer types: homeowners, builders, insurers, farms, retail locations, industrial facilities -> /
+- In-house design, permitting, installation, inspection -> /about
 - Master licensed electrician on staff -> /
-- Code-compliant, safe installations built for long-term performance -> /about
-- Coordinates with Xcel Energy Solar*Rewards program -> /
-- Mentions 30% Federal Solar Tax Credit, Minnesota sales tax exemption, property tax exemption -> /
+- Code-compliant, long-term performance focus -> /about
+- End-to-end service from permitting to activation -> /
 </details>
 
 ---

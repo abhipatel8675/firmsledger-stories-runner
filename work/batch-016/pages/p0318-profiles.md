@@ -3,54 +3,50 @@
 **Old description:** The ultimate in sonic performance, durability and pride of ownership, McIntosh has been making the finest audio components by hand in Binghamton, NY since 1950.
 
 ## About
-Creative Sound was founded in 1967 in Williston, Vermont, where it operates from Blair Park at 500 Lawrence Place. The company is the Burlington area’s longest-running audio/video specialty electronics dealer, though the INPUT does not specify its ownership structure or founders by name.
+Creative Sound operates from Blair Park in Williston, Vermont. The company was started in 1967 and has served the Burlington area as an audio/video specialty electronics dealer for over five decades. Ownership details and founder names are not disclosed in the available sources.
 
-The business does not manufacture its own products; instead it retails and installs a curated selection of high-fidelity electronics, speakers, accessories, video equipment, and car audio systems. Brands carried include McIntosh, Rotel, Dynaudio, and Control4 automation systems. The showroom allows customers to audition components, and the staff—some with more than 35 years of experience—provide system design consultation and expert installation in homes and vehicles.
+The business functions as both a retailer and an installation service provider. Its showroom carries a curated selection of high-fidelity audio components, video products, accessories, and home automation systems, with brands such as McIntosh, Rotel, Dynaudio, and Control4. Services include custom installation for residential and vehicle environments, audio/video system design consultation, and product auditioning. Facility size, headcount, and sales volumes are not publicly specified.
 
-Creative Sound serves residential customers seeking home audio/video systems, home automation, and vehicle entertainment upgrades. Its client base comprises music enthusiasts, home theater buyers, and car audio aficionados in the Burlington region. The company also acts as a Control4 Authorized Gold Dealer, integrating whole-home automation for lighting, HVAC, and media control.
+The primary customer base consists of residential consumers — audiophiles, home theater enthusiasts, and homeowners seeking automation or car audio upgrades. The company also supports custom integration projects for home control, lighting, and HVAC through its Control4 authorization.
 
-The company distinguishes itself by emphasizing education over transaction volume: specialists spend time understanding each customer’s needs to recommend appropriate products rather than simply moving inventory. This approach aims to reduce returns and uncover solutions the buyer may not have considered.
+Creative Sound differentiates itself through an educational sales approach, emphasizing product suitability over inventory turnover. Staff members, some with more than 35 years of experience, guide customers through auditioning and selection to minimize returns. The firm holds Control4 Authorized Gold Dealer status and provides expert installation in homes and vehicles.
 
 ## Known for
 - Control4 Authorized Gold Dealer
-- Staff with over 35 years of experience
-- Focus on product education and auditioning rather than box-moving
-- Expert in-home and in-vehicle installation
-- Curated selection of high-fidelity brands (McIntosh, Rotel, Dynaudio)
+- Staff with over 35 years of industry experience
+- Educational, needs-based sales approach
+- In-home and in-vehicle expert installation
 
 ## Capabilities
-- Custom home audio/video installation
+- Custom installation
+- Home automation integration (Control4)
 - Car audio installation
-- Control4 home automation integration
+- Audio/video system consultation
 - Product auditioning and demonstration
-- System design consultation
-- Retail sales of high-fidelity electronics, speakers, accessories
+- Retail sales of audio/video components
 
 ## Industries
-- Home audio/video retail
+- Residential audio/video
+- Custom electronics installation
 - Home automation
-- Automotive aftermarket audio
-- Custom installation services
-
-## Certifications
-- Control4 Authorized Gold Dealer
+- Car audio
 
 ## Company details
 - **Company Type:** Retailer
 - **Founded:** 1967
-- **Headquarters:** Williston, Vermont
+- **Headquarters:** Williston, VT
 
 <details><summary>Sources</summary>
 
-- Founded in 1967 -> homepage
-- Headquarters in Williston, Vermont -> homepage
-- Control4 Authorized Gold Dealer -> homepage
-- Staff with over 35 years experience -> homepage
-- Address: 500 Lawrence Place, Williston, VT 05495 -> homepage
-- Phone: (802) 878-5368 -> homepage
-- Brands carried: McIntosh, Rotel, Dynaudio, Control4 -> homepage
-- Services: custom installation, car audio, home automation -> homepage
-- Business type: audio/video specialty electronics dealer -> homepage
+- Founded 1967 -> /
+- Headquarters Williston, VT -> /
+- Audio/video specialty electronics dealer -> /
+- Control4 Authorized Gold Dealer -> /
+- Staff with over 35 years experience -> /
+- Custom installation services for home and vehicle -> /
+- Brands carried: McIntosh, Rotel, Dynaudio, Control4 -> /
+- Educational sales approach -> /
+- Product auditioning in showroom -> /
 </details>
 
 ---
@@ -60,61 +56,61 @@ The company distinguishes itself by emphasizing education over transaction volum
 **Old description:** At Creekside Metal Solutions, we are the leading provider of custom ductwork solutions in Charleston, SC. We specialize in designing, manufacturing, and installing duct systems tailored to your needs. Whether you’re upgrading an existing HVAC system, constructing a new building, or addressing airflow issues, our team has the expertise to deliver superior results.
 
 ## About
-Creekside Metal Solutions operates from McClellanville, South Carolina, near Charleston. The company is a team of experienced fabricators, engineers, and ductwork professionals; no founding year or ownership details are disclosed.
+Creekside Metal Solutions operates from McClellanville, South Carolina, where it provides custom metal fabrication services to clients across the Lowcountry and beyond. The privately held company was established to serve residential, commercial, and industrial customers with tailored ductwork, roofing panels, and structural components. No founding year or founder names are publicly disclosed.
 
-The shop provides custom metal fabrication with a focus on three core product lines: precision-made metal panels for roofing and siding, structural parts, and customized ductwork systems for HVAC applications. Processes cover design, engineering, CNC cutting, automated welding, finishing (including powder coating and anodizing), and final assembly. The company describes a turnkey workflow from concept through installation.
+The shop designs, fabricates, and installs custom ductwork systems for HVAC applications, as well as architectural and structural metal panels for roofing and siding. Core processes include CNC cutting, automated welding, sheet metal punching and bending, and finishing via powder coating or anodizing. The company offers a turnkey workflow from design and engineering through final assembly and installation, though facility size, headcount, and annual volume are not published.
 
-Customers span residential, industrial, architectural, and structural sectors, with ductwork services tailored to heating, ventilation, and air conditioning needs. The company says it handles projects of all sizes, from small-scale residential jobs to large industrial undertakings.
+Creekside serves a range of sectors including HVAC contractors, architectural firms, structural engineers, residential builders, and industrial facilities. Projects span small-scale residential duct upgrades to large industrial panel installations, with the company citing experience across diverse industries and applications.
 
-Creekside emphasizes sustainable practices such as efficient material usage, recycling, and energy-saving techniques. It also highlights its use of CNC cutting and automated welding for precision, a full range of finishing options, and a commitment to on-time delivery through streamlined workflows.
+The firm emphasizes sustainable practices such as efficient material usage, recycling, and energy-saving techniques. It differentiates itself through a full-service model that combines advanced equipment with collaborative project management, aiming to deliver components on schedule and to exact specifications.
 
 ## Known for
-- Turnkey fabrication from design through assembly
+- Turnkey fabrication from design through installation
 - CNC cutting and automated welding capabilities
 - Powder coating and anodizing finishing options
-- Sustainable practices with material recycling and energy efficiency
-- On-time delivery commitment
+- Sustainable practices: efficient material usage, recycling, energy-saving techniques
+- Decades of experience across residential, commercial, industrial projects
 
 ## Capabilities
 - Custom metal fabrication
-- Custom metal panel fabrication (roofing/siding)
-- Custom ductwork fabrication
+- Custom ductwork design and fabrication
+- Custom metal roofing and siding panels
+- Sheet metal fabrication (cutting, punching, bending)
+- Welding services (automated welding)
+- Finishing services (powder coating, anodizing)
 - Design and engineering
 - CNC cutting
-- Automated welding
-- Finishing (powder coating, anodizing)
 - Assembly
-- Sheet metal fabrication
-- Welding services
-- Maintenance services
+- Installation
 
 ## Industries
 - HVAC
-- Residential
-- Industrial
 - Architectural
 - Structural
+- Residential construction
+- Industrial
 
 ## Equipment
-- CNC cutting machines
-- Automated welding systems
+- CNC cutting equipment
+- Automated welding equipment
+- Ductwork fabrication equipment
+- Sheet metal fabrication equipment (cutting, punching, bending)
 
 ## Company details
 - **Company Type:** Manufacturer
-- **Headquarters:** McClellanville, SC
+- **Headquarters:** McClellanville, South Carolina
 
 <details><summary>Sources</summary>
 
-- Headquarters in McClellanville, SC -> db
-- Custom metal fabrication, panels, and ductwork -> page /
-- Design, engineering, CNC cutting, automated welding, finishing, assembly -> page /
-- Finishing options: powder coating and anodizing -> page /
-- Turnkey fabrication from concept to installation -> page /
-- Sustainable practices: efficient material usage, recycling, energy-saving -> page /
-- Industries served: HVAC, residential, industrial, architectural, structural -> page /
-- On-time delivery commitment -> page /
-- Team of fabricators, engineers, ductwork professionals -> page /
-- Decades of experience claimed -> page /
+- Location: McClellanville, SC -> db (hq_city, hq_state_label)
+- Services: custom ductwork, metal panels, structural parts, sheet metal fabrication, welding, finishing -> / (homepage)
+- Processes: CNC cutting, automated welding, powder coating, anodizing, design/engineering, assembly, installation -> / (homepage)
+- Industries served: HVAC, architectural, structural, residential, industrial -> / (homepage)
+- Equipment: CNC cutting, automated welding, ductwork fabrication equipment, sheet metal fabrication equipment -> / (homepage)
+- Sustainability claims: efficient material usage, recycling, energy-saving techniques -> / (homepage)
+- Turnkey model: design through installation -> / (homepage)
+- Experience: decades of experience across project sizes -> / (homepage)
+- No founding year, founders, ownership tags, employee count, certifications, materials, volume, lead time, tolerances, cage code, min order, export compliance, languages, social links found in INPUT
 </details>
 
 ---
@@ -124,22 +120,20 @@ Creekside emphasizes sustainable practices such as efficient material usage, rec
 **Old description:** Your team can count on us to be a reliable and experienced partner in all stages of your product lifecycle. We deploy our resources to meet your unique manufacturing and engineering needs.
 
 ## About
-Cretex Medical operates from Elk River, Minnesota, as a privately owned contract manufacturer with over 100 years of ownership history under the Cretex Companies umbrella. President and CEO Jeff Wollerman leads the organization, which emphasizes long-term stability and a simplified decision-making structure.
+Cretex Medical operates from Elk River, Minnesota, as part of the privately held Cretex Companies, which traces its ownership back more than 100 years. The business is led by Jeff Wollerman, president and CEO of Cretex Companies, and focuses exclusively on contract manufacturing and engineering services for the medical device sector.
 
-The company provides end-to-end manufacturing and engineering services for medical devices, covering additive manufacturing, assembly, laser processing, machining, metal fabrication, molding, prototyping, secondary processing, stamping, sterile packaging, and sterilization management. Engineering support includes phased design, precision tooling built in-house, process validation, and project management. Cretex Medical reports producing more than one million device components daily and can deliver production-quality prototypes in as little as two weeks.
+The company provides end-to-end manufacturing capabilities including additive manufacturing, machining, metal fabrication, molding, laser processing, stamping, assembly, sterile packaging, and sterilization management. Engineering services cover phased design support, precision tooling, process validation, and project management. Cretex Medical reports producing over one million device components per day and can deliver production-quality prototypes in as little as two weeks, supported by in-house tool design and maintenance.
 
-Its customer base spans the medical device industry, with focused expertise in minimally invasive procedures and intervention, robotics, orthopaedics and sports medicine, and neuro and cardio stimulation. Clients range from developers needing single components to those requiring complete, sterile finished devices ready for patient use.
+Cretex Medical serves medical device OEMs across therapeutic areas such as minimally invasive procedures and intervention, robotics, orthopaedics and sports medicine, and neuro and cardiac stimulation. Customers range from startups needing rapid prototyping to established firms requiring high-volume, sterile finished-device assembly.
 
-Cretex Medical differentiates itself through private ownership that enables rapid capital investment—reportedly three times the industry average—and a single-source model that eliminates markups and streamlines billing. Robust quality systems, including ISO 13485, ISO 9001, FDA registration, and MedAccred certification, underpin its ability to manage risk and scale quickly from prototype to high-volume production.
+The company emphasizes its private ownership structure, which enables quick decision-making and capital investment at three times the industry average. It promotes a single-source model with billing simplicity, no markups, and faster turnaround, backed by ISO 13485, ISO 9001, MedAccred (QTS) certifications and FDA registration.
 
 ## Known for
 - Over 1 million device components produced daily
-- In-house precision tooling design, build, and maintenance
-- Prototyping to production-quality parts in as little as 2 weeks
-- Private ownership with over 100 years of stability and strong balance sheet
-- Annual investment at 3x the industry average in technology and operational excellence
-- End-to-end contract manufacturing from component to sterile finished device
-- Single-source billing simplicity with no markups
+- Prototyping in as little as 2 weeks
+- In-house precision tooling design and maintenance
+- End-to-end contract manufacturing and engineering under one roof
+- Private ownership enabling quick decisions and 3x industry average annual investment
 
 ## Capabilities
 - Additive Manufacturing
@@ -159,17 +153,17 @@ Cretex Medical differentiates itself through private ownership that enables rapi
 - Project Management
 
 ## Industries
-- Medical Device Industry
-- Minimally Invasive Procedures & Intervention
+- Medical Devices
+- Minimal Invasive Procedures & Intervention
 - Robotics
-- Orthopaedics & Sports Medicine
+- Orthopaedics & Sports Med
 - Neuro & Cardio Stimulation
 
 ## Certifications
-- ISO 9001
-- ISO 13485
+- ISO 9001 Certified
+- ISO 13485 Certified
+- MedAccred Certified (QTS)
 - FDA Registered
-- MedAccred (QTS)
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -178,20 +172,20 @@ Cretex Medical differentiates itself through private ownership that enables rapi
 
 <details><summary>Sources</summary>
 
-- Headquarters: Elk River, Minnesota -> /
+- Headquarters: Elk River, MN -> /
 - Over 1 million device components per day -> /
-- 100 years of private ownership -> /
-- ISO 13485 Certified, FDA Registered, MedAccred Certified (QTS), ISO 9001 Certified -> /
-- In-house tool making -> /
 - Prototyping in as little as 2 weeks -> /
+- Certifications: ISO 13485, FDA Registered, MedAccred (QTS), ISO 9001 -> /
+- Private ownership, over 100 years history -> /
 - Therapeutic areas: Minimal Invasive Procedures & Intervention, Robotics, Orthopaedics & Sports Med, Neuro & Cardio Stimulation -> /
-- Processes: Additive Manufacturing, Assembly, Laser Processing, Machining, Metal Fabrication, Molding, Prototyping, Secondary Processing, Stamping, Sterile Packaging, Sterilization Management, Phased Design Support, Precision Tooling, Process Validations, Project Management -> /
-- Private ownership, simplified organizational structure, quick decisions, invest in latest technologies -> /
-- End-to-end contract manufacturing from component to sterile finished device -> /
-- Annual investment 3x industry average -> /
-- President & CEO Jeff Wollerman -> /about
-- Cretex Medical part of Cretex Companies family of businesses -> /about
-- Headquarters address: 311 Lowell Ave, Elk River, MN 55330 -> /
+- Manufacturing services list -> /
+- Engineering services list -> /
+- In-house tool making -> /
+- Jeff Wollerman, President & CEO, Cretex Companies -> /about
+- End-to-end contract manufacturing and engineering services -> /
+- Billing simplicity, no markups, faster decision-making -> /
+- Invest 3x industry average annually -> /
+- Family of businesses under Cretex Medical -> /about
 </details>
 
 ---
@@ -201,45 +195,46 @@ Cretex Medical differentiates itself through private ownership that enables rapi
 **Old description:** Crider Foods is the manufacturer of choice for private label proteins.
 
 ## About
-Crider Foods operates from Stillmore, Georgia, where it was founded in 1944 as Crider Poultry. The third-generation, family-owned business began by serving local families, butchers, and regional grocery stores before transitioning to contract food packing for mid-market and enterprise partners. Today, the company is led by Bill Crider and remains privately held.
+Crider Foods operates from Stillmore, Georgia, where it was founded in 1944 as Crider Poultry. The third-generation, family-owned business began with processing facilities that served local families, butchers, and markets before expanding into regional grocery stores under second-label brands. A strategic shift toward contract food packing refocused the company on cooking and canning for mid-market and enterprise partners in consumer, government, and nonprofit channels.
 
-The company produces fully cooked chicken, pork, and beef proteins in shelf-stable canned, shelf-stable pouch, and fully cooked frozen formats. Its integrated capabilities span formulation, manufacturing, packaging, labeling, and distribution, supported by a 750-person workforce, an innovation center with a pilot plant, and state-of-the-art cook facilities. Key processes include precision batch weighing, ProGrill searing, char marking, batter-and-bread coating, fryer quick-set coating, steam and dry-heat ovens, IQF freezing, pressure retorting, high-speed packaging, and x-ray inspection.
+Today the company produces fully cooked, packaged proteins — chicken, pork, and beef — in three primary formats: fully cooked frozen, shelf-stable canned, and shelf-stable pouch. Its 750-person team runs high-capacity cook facilities that include an innovation center with a pilot plant mirroring production, precision batch weighing, ProGrill searing, Char Marker grill marking, batter and breading systems, quick-set fryers, steam and dry-heat ovens, IQF freezing, pressure retorts, high-speed canning lines, and flexible pouch filling lines capable of 2- to 24-ounce net weights.
 
-Crider Foods serves consumer packaged goods brands, government nutrition programs, nonprofits, retail, and foodservice channels. Its products appear under national brands and private labels, and the company supplies shelf-stable and frozen proteins for federal feeding initiatives and retail-ready meals.
+Crider Foods serves consumer packaged goods brands, government nutrition programs, nonprofits, retail grocers, and foodservice operators. Its private label program supports national CPGs, regional grocers, and institutions with brand-forward packaging, flexible inventory commitments, and integrated warehousing and distribution.
 
-The company emphasizes its family-ownership values, integrated “plan-to-plate” service model, and continuous investment in automation and product development to deliver quality, safety, and speed to market.
+The company cites its family heritage, six decades of commitment to quality and service, and an innovation center that benchmarks the industry for safety and speed as key differentiators. Leadership emphasizes expanding an international footprint while maintaining a focus on community, team, and customer.
 
 ## Known for
 - Fully integrated solutions from formulation through distribution
-- Innovation Center with pilot plant mirroring production processes
-- Third-generation family ownership with 750 employees
-- State-of-the-art cook facilities in Stillmore, Georgia
-- Serves CPG, government, and nonprofit sectors
+- Innovation center with pilot plant mirroring production processes
+- Scalable manufacturing for both shelf-stable and fully cooked frozen proteins
+- Private label packaging with flexible inventory commitments
+- Scalable warehouse and distribution network
 
 ## Capabilities
-- Research & Development
-- Product Development
-- Pilot Plant Operations
-- Fully Cooked Frozen Manufacturing
-- Shelf-Stable Canned Manufacturing
-- Shelf-Stable Pouch Manufacturing
-- Precision Batch Weighing
-- ProGrill Searing
-- Char Marking
-- Light Breading via Batter & Breader System
-- Fryer Quick-Set Coating
-- Steam & Dry Heat Oven
-- IQF Freezing
-- Auto Depalletizing
-- Pressure Retorting
-- High-Speed Packaging Lines
-- Rapid-Fire Labeling
-- Flexible Palletizing
-- Pouch Fill Weight Verification
-- X-Ray Inspection
-- Overpressure Retorting
-- Private Label Packaging & Labeling
-- Warehouse & Distribution
+- Product formulation & R&D
+- Pilot plant trials
+- Fully cooked frozen protein manufacturing
+- Shelf-stable canned protein manufacturing
+- Shelf-stable pouch protein manufacturing
+- Precision batch weighing
+- Searing & grill marking (ProGrill, Char Marker)
+- Breading & battering
+- Quick-set coating frying
+- Steam & dry heat oven cooking
+- Individual quick freezing (IQF)
+- Retort processing (pressure retorts)
+- Overpressure retort technology
+- High-speed canning lines
+- Rapid-fire labeling
+- Flexible pouch filling (2-24 oz)
+- Foil & poly pouch material options
+- Batch sauce mixing with inclusions
+- Fill weight verification
+- In-line X-ray inspection
+- Automated depalletizing
+- Flexible palletizing
+- Private label packaging & labeling
+- Warehousing & distribution
 
 ## Industries
 - Consumer Packaged Goods
@@ -251,40 +246,42 @@ The company emphasizes its family-ownership values, integrated “plan-to-plate�
 ## Equipment
 - ProGrill
 - Char Marker
-- Batter & Breader System
-- Fryer
-- Steam & Dry Heat Oven
-- Mechanical Dry Freezer (IQF)
-- Auto Depalletizer
-- Pressure Retorts
-- Triple High-Speed Packaging Lines
-- Rapid-Fire Labeling System
-- Gentle Flexible Palletizer
-- Advanced Batch Sauce and Mixing Systems
-- Fill Weight Verification System
-- X-Ray Inspection System
-- Overpressure Retorts
+- Batter & breader system
+- Fryer for quick-set coating
+- Steam & dry heat oven
+- IQF mechanical dry freezer
+- Auto de-palletizer
+- Precision batch weighing
+- Advanced pressure retorts
+- Triple high-speed packaging lines
+- Rapid-fire labeling system
+- Gentle flexible palletizer
+- Advanced batch sauce and mixing systems
+- Fill weight verification
+- In-line X-ray inspection
+- Overpressure retorts
+- Pilot plant
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1944
 - **Employees:** 750
-- **Ownership:** Family-owned, Private
+- **Ownership:** Family-owned, Privately owned, Third-generation
 - **Headquarters:** Stillmore, Georgia
 
 <details><summary>Sources</summary>
 
 - Founded 1944 as Crider Poultry -> /about-us
 - Headquarters in Stillmore, Georgia -> /about-us
-- Third-generation family-owned, privately held -> /about-us
-- Employee count 750 -> db
-- Produces fully cooked chicken, pork, beef in canned, pouch, frozen formats -> /about-us
-- Integrated capabilities: formulation, manufacturing, packaging, labeling, distribution -> /capabilities
-- Innovation Center with pilot plant -> /capabilities
-- Equipment: ProGrill, Char Marker, Batter & Breader, Fryer, Steam & Dry Heat Oven, IQF Freezer, Auto Depalletizer, Pressure Retorts, High-Speed Packaging Lines, Rapid-Fire Labeling, Flexible Palletizer, Batch Sauce Mixing, Fill Weight Verification, X-Ray Inspection, Overpressure Retorts -> /capabilities
-- Serves CPG brands, government nutrition programs, nonprofits, retail, foodservice -> / and /about-us
-- Private label packaging and labeling services -> /capabilities
-- Warehouse and distribution solutions -> /capabilities
+- Third-generation family-owned -> /about-us
+- 750 employees -> db
+- Produces fully cooked frozen, shelf-stable canned, shelf-stable pouch proteins -> /capabilities
+- Innovation center with pilot plant -> /capabilities
+- Equipment: ProGrill, Char Marker, batter & breader, fryer, steam oven, IQF freezer, pressure retorts, high-speed packaging lines, pouch filling -> /capabilities
+- Serves CPG, government, nonprofit, retail, foodservice -> /about-us, /capabilities
+- Private label packaging with flexible inventory -> /capabilities
+- Warehousing and distribution -> /capabilities
+- Family commitment to quality and service -> /about-us
 </details>
 
 ---
@@ -294,56 +291,46 @@ The company emphasizes its family-ownership values, integrated “plan-to-plate�
 **Old description:** CrossFire’s Bridgelet products provide the Chiplet to Chiplet interconnect currently provided by Interposers, but without the cost, complexity or availability limitations.  Depending on system requirements, Bridgelets can be either passive or active.
 
 ## About
-Crossfire Technologies Inc, headquartered in St. Paul, Minnesota, develops advanced chiplet interconnect solutions for the semiconductor industry. The company focuses on eliminating the need for traditional silicon interposers through its Bridgelet product line.
+Crossfire Technologies Inc is headquartered in St. Paul, Minnesota. The company focuses on developing chiplet interconnect solutions for AI infrastructure.
 
-Crossfire’s core offerings include Bridgelets — passive or active interconnect devices that replace interposers for chiplet-to-chiplet communication — and Direct Chiplet Input/Output (DCIO), a streamlined PHY interface compatible with standard link layers such as UCIe and Bunch of Wires. The company also provides OmniDie, a proprietary integration capability that physically combines multiple chiplets into a single “SuperChip” mounted directly on a package substrate, reducing reliance on advanced packaging. These technologies support ultra-short-reach signaling (<500 µm), die-scale interconnect densities (sub-micron), and protocol-agnostic operation.
+Crossfire’s product portfolio centers on three core technologies: Bridgelet, Direct Chiplet Input/Output (DCIO), and OmniDie. Bridgelets serve as an alternative to silicon interposers, providing chiplet-to-chiplet connectivity in passive or active forms compatible with industry-standard die-to-die PHYs such as UCIe, BoW, and Ultra Short Reach SerDes. DCIO streamlines the die-to-die interface by removing unnecessary ESD protection, large pads, and overpowered drivers, delivering a protocol-agnostic PHY that supports standard link layers. OmniDie enables the physical integration of multiple chiplets into a single ‘SuperChip’ that mounts directly onto a package substrate, reducing reliance on advanced packaging.
 
-The company targets AI infrastructure and the broader open chiplet economy, serving semiconductor manufacturers, system architects, and data-center designers who need high-density, low-power interconnects for disaggregated architectures. Its solutions are designed to enable chiplet reuse across product families and to disaggregate system I/O from memory functions.
+The company targets the AI infrastructure and semiconductor markets, serving chiplet designers and system architects building high-density, low-power compute platforms. Its solutions are positioned for applications requiring disaggregated I/O, memory functions, and heterogeneous integration across product families.
 
-Crossfire positions its technology as an interposer alternative that delivers up to 50× smaller form factor, 10× lower energy per bit, and 10× lower upfront cost, with up to 50 percent reduction in chiplet die area. The company states that its DCIO approach can achieve 10× lower power, cost, and higher density compared to competing solutions, while its OmniDie integration minimizes the need for costly advanced packaging.
+Crossfire states that its Bridgelet approach eliminates the cost, complexity, and availability constraints of traditional interposers, claiming up to 50× smaller footprint, 10× lower energy per bit, and 10× lower upfront cost. DCIO is said to achieve 10× lower power, 10× lower cost, and 10× higher density compared to competing solutions.
 
 ## Known for
-- 50× smaller, 10× less energy per bit, 10× lower upfront cost than interposer-based solutions
-- Up to 50% reduction in chiplet die area
-- Wire-abundant interfaces (1K connections per 0.25 mm²)
-- Ultra-short-reach signaling (<500 µm) with die-scale interconnect density
-- Protocol-agnostic PHY supporting UCIe, BoW, and proprietary D2D solutions
+- Bridgelets replace silicon interposers without their cost, complexity, or availability limits
+- 50× smaller footprint, 10× less energy per bit, 10× lower upfront cost vs. interposers
+- DCIO delivers 10× lower power, 10× lower cost, 10× higher density than standard D2D PHYs
+- OmniDie integrates chiplets into a SuperChip mounted directly on substrate, minimizing advanced packaging
+- Compatible with UCIe, BoW, and Ultra Short Reach SerDes standards
 
 ## Capabilities
-- Bridgelet design and development (passive/active)
-- Direct Chiplet Input/Output (DCIO) implementation
-- OmniDie multi-chiplet integration
-- Die-to-die PHY integration (UCIe, Bunch of Wires, Ultra Short Reach SerDes)
-- Protocol-agnostic link-layer development
-- Chiplet reuse architecture consulting
-- Advanced packaging alternative solutions
+- Chiplet-to-chiplet interconnect (Bridgelet)
+- Direct Chiplet Input/Output (DCIO)
+- OmniDie multi-chiplet integration (SuperChip)
+- Die-to-die PHY integration (UCIe, BoW, USR SerDes)
+- Advanced packaging alternative for heterogeneous integration
 
 ## Industries
 - AI infrastructure
 - Semiconductor
 - Chiplet ecosystem
-- Data center
-- High-performance computing
 
 ## Company details
 - **Company Type:** Manufacturer
-- **Headquarters:** St Paul, Minnesota
+- **Headquarters:** St. Paul, Minnesota
 
 <details><summary>Sources</summary>
 
-- Headquarters: St Paul, Minnesota -> db
-- Bridgelet products provide chiplet-to-chiplet interconnect alternative to interposers -> /
-- Bridgelets can be passive or active -> /
-- Compatible with UCIe, BoW, Ultra Short Reach SerDes -> /
-- DCIO compatible with standard link layers, provides 10x lower power/cost/density -> /
-- OmniDie enables SuperChip integration minimizing advanced packaging -> /
-- Targets AI infrastructure and open chiplet economy -> /
-- Claims 50x smaller, 10x less energy/bit, 10x lower upfront cost -> /
-- Up to 50% reduction in chiplet die area -> /
-- Wire abundant interfaces (1K / 0.25 mm²) -> /
-- Ultra short reach (<500µm) -> /
-- Die scale interconnect (sub-micron) -> /
-- Protocol agnostic -> /
+- Headquarters: St. Paul, Minnesota -> db
+- Products: Bridgelet, DCIO, OmniDie -> /
+- Bridgelet features: passive/active, compatible with UCIe, BoW, USR SerDes -> /
+- DCIO features: protocol-agnostic, 10x lower power/cost/density -> /
+- OmniDie: SuperChip integration, mounted on package substrate -> /
+- Differentiators: 50x smaller, 10x less energy/bit, 10x lower upfront cost -> /
+- Target market: AI infrastructure, chiplet designers -> /
 </details>
 
 ---
@@ -353,43 +340,40 @@ Crossfire positions its technology as an interposer alternative that delivers up
 **Old description:** Since 1996, Crown has been a trusted partner in solving complex power distribution and control challenges. We specialize in:
 
 ## About
-Crown Technical Systems was founded in 1996 in Fontana, California, to address complex power distribution and control challenges for the utility industry. The company operates from three North American locations and has grown into a manufacturer of utility infrastructure that powers the digital world.
+Crown Technical Systems was founded in 1996 in Fontana, California. It operates as part of Flex (Flextronics International), a global manufacturing and technology company. The business began as a specialist in power distribution and control solutions for utilities.
 
-The company designs, fabricates, and integrates a range of power distribution products including medium‑voltage metal‑clad switchgear, protective relay control panels, and protective enclosures. It also builds power control assemblies, power distribution centers, and traction power substations. Fabrication services encompass steel construction, polyester outdoor powder coating, two‑part epoxy coatings (Carboline 890 and Maropoxy), dielectric floor coatings, and station‑service transformer and fuse integration. A team of engineers, fabricators, and skilled tradespeople works across the three facilities to deliver custom solutions, third‑party equipment integration, and turnkey systems.
+The company designs, manufactures, and integrates medium-voltage metal-clad switchgear, protective relay control panels, and custom power control enclosures. It provides complete design and fabrication services for control buildings, including polyester outdoor powder coating, dielectric floor coatings, and epoxy coatings (Carboline 890 and Maropoxy, 4–6 mils DFT). Production occurs across three North American locations, with factory assembly environments for power control assemblies (PCA), power distribution centers (PDC), and traction power substations. Switchgear compartments are bolted into extended lineups.
 
-Crown serves utilities, data centers, industrial facilities, transportation agencies, and renewable energy projects. Notable projects include control enclosures for the Vantage CA3 data center, equipment for Clark County Public Utilities, and systems for the San Diego Metropolitan Transit System.
+Crown serves electric utilities, data center operators, industrial facilities, transportation agencies, and renewable energy projects. Named projects include control enclosures for the Vantage CA3 data center, Clark County Public Utilities, and the San Diego Metropolitan Transit System.
 
-The company was built on providing quality products to the electric utility industry and emphasizes end‑to‑end ownership of production, flexible scheduling, and safety‑focused design to meet unique project requirements.
+The company emphasizes end-to-end ownership of production, third-party equipment integration, turnkey systems, flexible scheduling, and safety-focused design. It highlights its team of engineers, fabricators, and skilled tradespeople as a key differentiator.
 
 ## Known for
-- Custom solutions tailored to unique project requirements
-- Third‑party equipment integration into single systems
+- Custom solutions tailored to project requirements
+- Third-party equipment integration into single systems
 - Turnkey systems ready for immediate operation
-- Safety and security technology to protect people and assets
+- End-to-end ownership of production stages
 - Flexible production schedules adapting to project needs
 
 ## Capabilities
 - Design and fabrication of control buildings
-- Polyester outdoor powder coating
-- Two-part epoxy coating (Carboline 890, Maropoxy)
-- Dielectric floor coating
-- Station service transformer and fuse integration
-- Medium voltage metal-clad switchgear manufacturing
+- Medium-voltage metal-clad switchgear manufacturing
 - Protective relay control panel manufacturing
-- Protective enclosure manufacturing and integration
-- Power control assembly (PCA) fabrication
-- Power distribution center (PDC) fabrication
-- Traction power substation fabrication
+- Custom power control enclosure manufacturing
+- Polyester outdoor powder coating
+- Dielectric floor coating application
+- Epoxy coating (Carboline 890, Maropoxy)
+- Switchgear compartment assembly and bolting
 - Third-party equipment integration
-- Turnkey system delivery
-- Custom solution engineering
-- Safety and security system implementation
-- Flexible production scheduling
-- End-to-end production ownership
+- Turnkey system integration
+- Factory assembly of power control assemblies (PCA)
+- Factory assembly of power distribution centers (PDC)
+- Factory assembly of traction power substations
+- End-to-end production management
 
 ## Industries
-- Utilities
-- Data Centers
+- Electric utilities
+- Data centers
 - Industrial
 - Transportation
 - Renewables
@@ -397,19 +381,27 @@ The company was built on providing quality products to the electric utility indu
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1996
+- **Ownership:** Subsidiary of Flex (Flextronics International)
 - **Headquarters:** Fontana, California
 
 <details><summary>Sources</summary>
 
 - Founded 1996 -> db
-- Headquarters Fontana, California -> db
-- Three North American locations -> page /
-- Products: enclosures, relay panels, switchgear, power control assemblies, power distribution centers, traction power substations -> page /
-- Industries: Utilities, Data Centers, Industrial, Transportation, Renewables -> page /
-- Projects: Vantage CA3 data center, Clark County Public Utilities, San Diego Metropolitan Transit System -> page /
-- Custom solutions, third-party integration, turnkey systems, safety and security, flexible production schedules, end-to-end ownership -> page /
-- Fabrication services: design and fabrication, polyester outdoor powder coating, two-part epoxy coatings (Carboline 890, Maropoxy), dielectric floor coatings, station service transformer/fuse -> page /
-- Team: engineers, fabricators, skilled tradespeople -> page /
+- Headquarters Fontana, CA -> db
+- Part of Flex (Flextronics International) -> /
+- Three North American locations -> /
+- Manufactures medium-voltage metal-clad switchgear -> /
+- Manufactures protective relay control panels -> /
+- Manufactures custom power control enclosures -> /
+- Provides design and fabrication for control buildings -> /
+- Polyester outdoor powder coating standard -> /
+- Dielectric floor coatings -> /
+- Epoxy coatings Carboline 890 and Maropoxy -> /
+- Switchgear compartments bolted into extended lineups -> /
+- Serves utilities, data centers, industrial, transportation, renewables -> /
+- Projects: Vantage CA3 data center, Clark County Public Utilities, San Diego Metropolitan Transit System -> /
+- End-to-end ownership, third-party integration, turnkey systems, flexible schedules -> /
+- Team of engineers, fabricators, skilled tradespeople -> /
 - LinkedIn URL -> db
 </details>
 
@@ -420,36 +412,32 @@ The company was built on providing quality products to the electric utility indu
 **Old description:** Crum Electric Supply is an independent electrical wholesaler throughout the Rocky Mountain region.  Founded in 1976 and headquartered in Casper, WY, Crum Electric Supply has 10 locations across Wyoming, Colorado, Utah and South Dakota.  We are looking forward to celebrating our 50th year in 2026!
 
 ## About
-Crum Electric Supply Co. was founded in 1976 in Casper, Wyoming. It operates as an independent electrical wholesaler with ten locations spread across Wyoming, Colorado, Utah, and South Dakota.
+Crum Electric Supply Co. operates as an independent electrical wholesaler headquartered in Casper, Wyoming. Founded in 1976, the company has grown to ten locations spread across Wyoming, Colorado, Utah, and South Dakota, serving the Rocky Mountain region.
 
-The company distributes a broad range of electrical products and related supplies. Its catalog includes automation products, fasteners and hardware, wiring connectors, conduit and fittings, lighting fixtures, wire and cable, industrial controls, and safety equipment. It also offers services such as construction project management, energy rebate assistance, and automation and control solutions. The business operates from ten regional branches, though specific facility sizes and headcount are not disclosed.
+The distributor stocks a broad range of electrical products including wire and cable, conduit and fittings, lighting fixtures, automation and control components, tools, and safety equipment. Its catalog organizes inventory by category and by manufacturer, and the company also offers construction project management support and energy rebate assistance for customers.
 
-Crum Electric Supply serves customers in the data communications and telecommunications sector, as well as contractors and industrial buyers across the Rocky Mountain region. Its product categories suggest a focus on commercial construction, industrial maintenance, and utility infrastructure projects.
+Crum Electric serves contractors, industrial facilities, and commercial projects across the region, with a noted focus on data communications and telecommunications infrastructure. The company's locations provide local inventory access and technical support for projects ranging from new construction to maintenance and upgrades.
 
-The company emphasizes a guiding principle of "People, Products, Service" as the foundation of its approach to customer relationships. It marks its 50th anniversary in 2026, highlighting its long-standing presence in the regional market.
+As an independent wholesaler, the company emphasizes its "Plug Into Quality – People, Products, Service" philosophy, highlighting personnel, product availability, and service as differentiators. Crum Electric plans to mark its 50th anniversary in 2026.
 
 ## Known for
-- Independent electrical wholesaler with 10 locations across four Rocky Mountain states
-- Guiding principle: "People, Products, Service"
-- Offers construction project management and energy rebate assistance
-- Provides automation and control solutions
+- Independent electrical wholesaler since 1976
+- Ten locations across Wyoming, Colorado, Utah, and South Dakota
+- Construction project management and energy rebate services
+- Regional coverage throughout the Rocky Mountain states
 
 ## Capabilities
+- Electrical wholesale distribution
 - Construction project management
+- Automation and control product supply
 - Energy rebate assistance
-- Automation and control solutions
-- Quick order processing
-- Electrical product distribution
-- Industrial control distribution
-- Lighting fixture supply
-- Wire and cable management
-- Conduit and fitting supply
-- Fastener and hardware supply
-- Wiring connector supply
-- Safety and signaling equipment supply
+- Data communications infrastructure supply
 
 ## Industries
-- DataComm/TeleComm
+- Data communications/telecommunications
+- Construction
+- Industrial automation
+- Energy/utility
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -461,13 +449,13 @@ The company emphasizes a guiding principle of "People, Products, Service" as the
 
 - Founded in 1976 -> db
 - Headquartered in Casper, WY -> db
-- 10 locations across Wyoming, Colorado, Utah, South Dakota -> db
+- 10 locations across WY, CO, UT, SD -> db
 - Independent electrical wholesaler -> db
 - 50th anniversary in 2026 -> db
-- Tagline 'Plug Into Quality - People, Products, Service' -> db
-- Industries served: DataComm/TeleComm -> db
-- Services: Construction & Project Management, Energy Rebates, Automations & Control, Quick Order -> /
-- Product categories: automation products, fasteners & hardware, wiring connectors, conduit, lighting, wire & cable, industrial controls -> /
+- Product categories: wire & cable, conduit, lighting, automation, tools, safety -> pages
+- Services: construction project management, energy rebates -> pages
+- Industry focus: DataComm/TeleComm -> pages
+- Slogan: Plug Into Quality – People, Products, Service -> pages
 </details>
 
 ---
@@ -477,30 +465,39 @@ The company emphasizes a guiding principle of "People, Products, Service" as the
 **Old description:** Founded in 1992, Crystal Steel Fabricators, Inc. has grown from a single site in Delmar, DE to global scope. It has been an AISC Certified Fabricator for over 14 years...
 
 ## About
-Crystal Steel Fabricators, Inc. was founded in 1992 in Delmar, Delaware. The company began as a single-site operation and has since expanded to a global footprint with fabrication plants in Delmar, DE and Manila, Philippines.
+Crystal Steel Fabricators, Inc. was founded in 1992 in Delmar, Delaware, beginning as a single-site operation that has since expanded to a global footprint. The company operates fabrication plants in Delmar, DE and Manila, Philippines, with a combined 160,000 square feet of fabrication and design space and a workforce of 275 staff.
 
-The company provides structural steel fabrication, miscellaneous and ornamental metal fabrication, and in-house steel detailing and engineering services. Its combined facilities offer 160,000 square feet of fabrication and design space, supported by a workforce of 275 employees, including 125 detailers, engineers, and project managers. Detailing is integrated with shop fabrication systems via CNC, enabling efficient coordination from design through production.
+The firm provides structural steel fabrication, miscellaneous and ornamental metals fabrication, and engineering and detailing services. Its detailing department employs 125 detailers, engineers, and project managers, with over 120 years of collective management experience. Detailing is integrated directly with shop fabrication systems via CNC, and the company can export multiple data formats to assist third parties with design, coordination, or fabrication.
 
-Crystal Steel serves the commercial and institutional construction sectors, with project experience that includes the Cole Field House and the Eisenhower Memorial. The firm works with general contractors, architects, and owners on projects ranging from sports facilities to government memorials.
+Crystal Steel serves the construction sector, supplying structural steel for commercial, institutional, and government projects. Notable projects referenced include the Cole Field House renovation and the Eisenhower Memorial in Washington, D.C. The company’s Crystal Metalworks division, active for 30 years, focuses on ornamental and miscellaneous metals for architectural applications.
 
-The company emphasizes its AISC certification, held for over 14 years, and its reputation for craftsmanship and attention to detail through its Crystal Metalworks division. It positions its global fabrication capability and integrated detailing as key differentiators.
+The company emphasizes old-world craftsmanship, attention to detail, and product quality through its Crystal Metalworks brand. It has maintained AISC Certified Fabricator status for more than 14 years and operates under an ISO 9001 quality management system, aiming to meet quality objectives across the organization and with interested parties.
 
 ## Known for
 - AISC Certified Fabricator for over 14 years
-- Combined 160,000 sq ft of fabrication and design space across Delmar, DE and Manila
-- In-house detailing team of 125 detailers, engineers, and project managers
-- CNC-integrated detailing and fabrication workflow
-- Global fabrication capability with domestic and international plants
+- One of the largest steel detailing firms with 125 in-house detailers, engineers, and project managers
+- Combined 160,000 sq. ft. of fabrication and design space across Delmar, DE and Manila plants
+- Integrated detailing and CNC fabrication systems with multi-format data export
+- Crystal Metalworks division with 30 years of ornamental and miscellaneous metals craftsmanship
 
 ## Capabilities
-- Structural steel fabrication
-- Miscellaneous metal fabrication
-- Ornamental metal fabrication
-- Steel detailing
-- Engineering services
-- CNC machining
-- Welding
-- Project management
+- Structural Steel Fabrication
+- Miscellaneous Metals Fabrication
+- Ornamental Metals Fabrication
+- Steel Detailing
+- Engineering & Detailing
+- CNC Fabrication
+- Design Coordination
+- Project Management
+
+## Industries
+- Construction
+- Commercial Construction
+- Institutional Construction
+- Government Projects
+
+## Equipment
+- CNC fabrication systems
 
 ## Certifications
 - ISO 9001
@@ -514,15 +511,19 @@ The company emphasizes its AISC certification, held for over 14 years, and its r
 
 <details><summary>Sources</summary>
 
-- Founded in 1992 in Delmar, DE -> db
-- AISC Certified Fabricator for over 14 years -> /
-- Combined 160,000 sq ft fabrication and design space -> /
-- 275 staff across plants -> /
-- 125 detailers, engineers, project managers -> /
-- CNC-integrated detailing and fabrication -> /
-- Projects include Cole Field House and Eisenhower Memorial -> /
-- ISO9001 certification -> db
-- Structural steel and ornamental metals fabrication -> /
+- Founded in 1992 -> db
+- Headquarters Delmar, Delaware -> db
+- AISC Certified Fabricator for over 14 years -> description
+- ISO 9001 certification -> db
+- Combined 160,000 sq. ft. fabrication and design space -> capabilities
+- 275 staff -> capabilities
+- Plants in Delmar, DE and Manila -> capabilities
+- 125 detailers, engineers, project managers with 120 years management experience -> pages:/
+- Detailing integrated with shop fabrication systems via CNC -> capabilities
+- Export multiple formats for design coordination -> capabilities
+- Crystal Metalworks 30 years old-world craftsmanship -> pages:/
+- Projects: Cole Field House, Eisenhower Memorial -> pages:/
+- Structural Steel, Miscellaneous & Ornamental Metals, Engineering & Detailing services -> pages:/
 </details>
 
 ---
@@ -532,39 +533,46 @@ The company emphasizes its AISC certification, held for over 14 years, and its r
 **Old description:** Servicing a wide variety of industries, our world class injection molding operation delivers quality second to none and will add value to your products at competitive pricing.
 
 ## About
-Cumberland Plastic Solutions, a family-owned custom injection molder, was founded in 2006 in Opelika, Alabama. The company began with a focus on plastic injection molding and has since expanded to offer tooling, automated assembly, and full contract manufacturing services.
+Cumberland Plastic Solutions operates from Opelika, Alabama, where it was founded in 2006 as a family-owned business. The company began as a custom injection molder and has grown into a full-service contract manufacturer with in-house tooling and automated assembly capabilities.
 
-The company operates a 215,000-square-foot climate-controlled facility housing 43 injection molding machines ranging from 90 to 1,500 tons, supported by an in-house tool room capable of full tool construction, maintenance, and engineering changes. With approximately 200 employees, Cumberland provides value-added secondary operations such as sonic and vibration welding, heat staking, leak testing, pad printing, and automated sub-assembly, along with complex automated assembly cells featuring real-time quality monitoring.
+The facility spans 215,000 square feet of climate-controlled manufacturing and warehouse space and houses 43 precision injection molding machines ranging from 90 to 1,500 tons. A fully equipped tool room handles mold maintenance, engineering changes, and full tool construction from design to production. Value-added secondary operations include sonic and vibration welding, heat staking, leak testing, pad printing, and automated sub-assembly. The quality lab is equipped with a CMM, 3D scanner, optical comparator, and in-house PPAP capabilities.
 
-Cumberland serves automotive OEMs and tier suppliers, renewable energy equipment manufacturers, powersports vehicle makers, lawn and garden equipment producers, and building and construction product companies. In automotive, the company supports projects from initial design through series production. For renewable energy, it produces parts that must maintain performance under varying temperature and weather conditions. Powersports customers rely on high-impact, UV-resistant, custom-colored parts and assemblies, while lawn and garden and building and construction clients benefit from the company's expertise in resin performance and UV testing.
+The company serves the automotive, renewable energy, powersports, lawn and garden, and building and construction industries. In automotive, it supports programs from initial part and tool design through start of series production. For renewable energy, it produces parts that must perform under changing temperature and weather conditions. Powersports customers rely on high-impact, UV-resistant, custom-color parts and assemblies, while lawn and garden and building and construction applications demand resin performance and UV resistance.
 
-The company emphasizes a customer-focused, quality-driven approach, backed by IATF 16949:2016 certification and continuous improvement programs. Cumberland differentiates itself by offering early involvement in product design and development, full in-house tooling capabilities, and a dedicated program management team that provides transparent project tracking. It also positions itself as a re-sourcing partner capable of quickly transferring existing tools to minimize downtime and cost.
+Cumberland emphasizes end-to-end contract manufacturing, from product design assistance, material selection, and mold flow analysis to packaging design and final delivery. Its re-sourcing program manages tool transfers to minimize downtime, and a dedicated cross-functional program management team provides weekly progress reports. The IATF 16949:2016 certified quality system underpins continuous improvement across the product lifecycle.
 
 ## Known for
-- Family-owned since 2006
-- 43 injection molding machines (90–1,500 tons)
-- 215,000 sq ft climate-controlled facility
-- In-house full-service tool room
+- 215,000 sq ft climate-controlled manufacturing and warehouse space
+- 43 injection molding machines from 90 to 1,500 tons
+- In-house full-service tool room for maintenance, repairs, and new tool builds
 - IATF 16949:2016 certified quality system
+- Automated assembly with real-time quality monitoring work cells
 
 ## Capabilities
 - Plastic injection molding
-- Tooling design, build, maintenance, and repair
-- Automated assembly
+- Two-shot (2K) injection molding
+- High-gloss tooling and molding
+- In-house tool design and construction
+- Mold maintenance and engineering changes
 - Sonic/vibration welding
 - Heat staking
 - Leak testing
 - Pad printing
-- Product design and development
-- Program management
-- Re-sourcing/tool transfer
-- Quality lab with CMM, 3D scanner, optical comparator, PPAP
+- Automated sub-assembly
+- Automated assembly with vision systems
+- Poke-yoke error proofing
+- Product design assistance
+- Tooling design for manufacturability consultation
+- Material selection
 - Mold flow and warp/shrink analysis
 - Packaging design
-- Sub-assembly
-- Vision system part verification
-- Poke yoke part verification
-- Fastener/component presence verification
+- Program management for new product development
+- Re-sourcing and tool transfer management
+- In-house PPAP
+- CMM inspection
+- 3D scanning inspection
+- Optical comparator inspection
+- ERP and EDI logistics integration
 
 ## Industries
 - Automotive
@@ -574,11 +582,11 @@ The company emphasizes a customer-focused, quality-driven approach, backed by IA
 - Building & Construction
 
 ## Equipment
-- Injection molding machines (90–1,500 ton)
-- VMC machining center
+- 43 injection molding machines (90–1,500 tons)
+- VMC Machining Center
 - CMM
 - 3D scanner
-- Optical comparator
+- Optical Comparator
 
 ## Certifications
 - IATF 16949:2016
@@ -592,22 +600,21 @@ The company emphasizes a customer-focused, quality-driven approach, backed by IA
 
 <details><summary>Sources</summary>
 
-- Founded 2006 -> /capabilities
+- Founded 2006 -> db
 - Family-owned -> /
-- Location Opelika, AL -> /capabilities
+- Headquarters Opelika, AL -> /capabilities
 - 215,000 sq ft facility -> /capabilities
-- 43 injection machines 90-1500 tons -> /capabilities
+- 43 injection molding machines 90-1500 tons -> /capabilities
 - In-house tool room -> /capabilities
-- Secondary operations (sonic welding, heat staking, leak testing, pad printing) -> /capabilities
-- Automated assembly with real-time quality monitoring -> /capabilities
+- Secondary operations (sonic welding, heat staking, leak testing, pad printing, automated sub-assembly) -> /capabilities
 - IATF 16949:2016 certified -> /capabilities
-- Industries served: Automotive, Renewable Energy, Powersports, Lawn & Garden, Building & Construction -> /
+- Automated assembly with real-time quality monitoring -> /capabilities
+- Industries: Automotive, Renewable Energy, Powersports, Lawn & Garden, Building & Construction -> /
+- Product design assistance, mold flow analysis, material selection -> /capabilities
+- Re-sourcing/tool transfer expertise -> /capabilities
+- Quality lab: CMM, 3D scanner, Optical Comparator, PPAP -> db
+- VMC Machining Center -> db
 - Employee count 200 -> db
-- Product design & development services -> /capabilities
-- Program management -> /capabilities
-- Re-sourcing expertise -> /capabilities
-- Quality lab equipment (CMM, 3D scanner, optical comparator) -> /capabilities
-- Vision system and poke yoke verification -> /
 </details>
 
 ---
@@ -617,64 +624,63 @@ The company emphasizes a customer-focused, quality-driven approach, backed by IA
 **Old description:** Meet Curtsinger Electric Company Founded in 1998, we’ve grown considerably over the years and are...
 
 ## About
-Curtsinger Electric Company was founded in 1998 in Graham, North Carolina, by Paul Curtsinger, who began his career as an electrical apprentice at age 18. After completing a degree in Electrical Engineering and Design at Jefferson State Community College and Trade School, Curtsinger obtained his Master Electrician license and established the firm. The company remains privately owned under his leadership.
+Curtsinger Electric Company is based in Graham, North Carolina, and was founded in 1998 by Paul Curtsinger. Curtsinger began his career as an electrical apprentice at age 18, later earning a degree in Electrical Engineering and Design from Jefferson State Community College and Trade School. After meeting the age requirement for a Master Electrician license, he established the company, which has grown into a full-service electrical contractor serving central North Carolina.
 
-The company operates as a full-service electrical contractor specializing in industrial and commercial projects. Its scope covers design-build construction, power distribution, security and safety systems, production and control systems, lighting, and large machinery power systems. Curtsinger Electric also handles automation and control panel work, and provides 24/7 emergency repair and commercial generator installation. All work is performed by in-house, full-time employees; the firm does not use subcontractors.
+The firm provides design-build, power distribution, security, safety, production, control systems, and lighting services, with a specialization in large machinery power systems, automation, and control panel work. It also offers 24/7 commercial electrical repair and commercial-grade generator installation. Curtsinger Electric retains all employees in-house on a full-time basis and does not use subcontractors, managing projects from consultation through implementation alongside architects, engineers, and project superintendents.
 
-Curtsinger Electric serves clients across the automotive, industrial, medical, institutional, retail chain, and food-and-beverage sectors. Notable accounts include Ford and Nissan dealerships in North Carolina, where the company has performed electrical work for over a decade. The contractor works alongside architects, engineers, and project superintendents on large-scale projects throughout the central North Carolina region, including Greensboro, Raleigh, Durham, and surrounding communities.
+The company serves automotive, industrial, medical, institutional, retail chain, and food and beverage clients. Its customer base includes large automotive dealerships such as Ford and Nissan stores, where it has performed electrical work for over a decade, as well as industrial facilities requiring machinery power and control systems.
 
-The company emphasizes reliability, professionalism, and ease of doing business as its primary differentiators. Membership in the North Carolina Association of Electrical Contractors underscores its commitment to industry standards. Curtsinger Electric positions itself as a single-source partner for design consultation, project management, and implementation, aiming to reduce coordination burdens for facility owners and general contractors.
+Curtsinger Electric emphasizes proven expertise, reliability, professionalism, and ease of doing business as its differentiators. The founder's hands-on experience and the firm's policy of keeping all staff in-house are cited as reasons clients choose the company for complex industrial electrical projects.
 
 ## Known for
 - 24/7 commercial electrical repair service
-- Commercial-grade generator installation
-- All work performed by in-house, full-time employees; no subcontractors
-- Design-build consulting and project management for large-scale electrical projects
-- Proven expertise with large machinery power systems and control panels
+- All employees retained in-house full-time; no subcontractors
+- Design-build consulting and project management for large electrical projects
+- Specialized in large machinery power systems, automation, and control panels
+- Serves automotive, industrial, medical, institutional, retail chain, and food & beverage sectors
 
 ## Capabilities
-- Design-build electrical construction
-- Power distribution systems
-- Security systems installation
-- Safety systems installation
-- Production electrical systems
-- Control systems integration
-- Lighting systems design and installation
+- Design-build
+- Power distribution
+- Security systems
+- Safety systems
+- Production systems
+- Control systems
+- Lighting
 - Large machinery power systems
-- Automation systems
-- Control panel fabrication and wiring
-- 24/7 emergency electrical repair
-- Commercial generator installation
-- Project management and implementation
+- Automation
+- Control panel work
+- 24/7 commercial electrical repair
+- Commercial grade generator installation
 
 ## Industries
 - Automotive
 - Industrial
 - Medical
 - Institutional
-- Retail chain
 - Food and beverage
+- Retail chain
 
 ## Company details
 - **Company Type:** Installer / service company
 - **Founded:** 1998
-- **Ownership:** Private (Paul Curtsinger)
 - **Headquarters:** Graham, North Carolina
 
 <details><summary>Sources</summary>
 
-- Founded in 1998 by Paul Curtsinger -> /about-us
-- Headquartered in Graham, North Carolina -> /
-- Full-service electrical contractor offering design-build, power distribution, security, safety, production, control systems, lighting -> /
-- Specialized in large machinery power systems, automation, control panel work -> /
-- 24/7 commercial electrical repair services -> /
-- Commercial grade generator installation -> /
-- All employees in-house full-time, no subcontractors -> /about-us
+- Founded in 1998 -> /about-us
+- Headquarters in Graham, North Carolina -> db
+- Founder and owner Paul Curtsinger -> /about-us
+- Paul Curtsinger began as apprentice at 18, graduated from Jefferson State Community College and Trade School -> /about-us
+- Company retains all employees in-house full time, no subcontractors -> /about-us
 - Member of North Carolina Association of Electrical Contractors (NCAEC) -> /about-us
-- Serves automotive, industrial, medical, institutional, retail chain, food and beverage -> /
-- Clients include Ford and Nissan dealerships (12-year relationship) -> /
-- Service area includes Greensboro, Raleigh, Durham, Chapel Hill, Cary, High Point, and surrounding NC cities -> /
-- Paul Curtsinger started as apprentice at 18, earned Electrical Engineering and Design degree from Jefferson State Community College and Trade School -> /about-us
+- Services: design-build, power distribution, security, safety, production, control systems, lighting -> /
+- Specialized in large machinery power systems, automation, control panel work -> /
+- 24/7 commercial electrical repair -> /
+- Commercial grade generator installation -> /
+- Industries served: automotive, industrial, medical, institutional, retail chain, food and beverage -> /
+- Clients include Ford and Nissan dealerships -> / (reviews)
+- Over 30 years experience (since 1998) -> /
 </details>
 
 ---

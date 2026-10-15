@@ -3,34 +3,31 @@
 **Old description:** Bergey's Truck Parts & Industrial Supplies, located in Milton, PA, is a full service parts branch. This location has a complete line of heavy duty truck and trailer parts, including Volvo, Cummins, Caterpillar, and Detroit engine parts, chrome, air brake, suspension, trailer, electrical, and driveline. We stock a full line of hand, power, and air tools, industrial and cleaning supplies, fasteners, and shop equipment. We resurface all types and sizes of flywheels with our Van Norman Fly Wheel Grinding Machine. We are also equipped with a Gates Hose Crimping Machine for building air conditioning lines, hydraulic hoses, and stainless steel air discharge lines.
 
 ## About
-Bergey's Truck Parts & Industrial Supply operates a full-service parts branch in Milton, Pennsylvania. The location serves as a distribution point for heavy-duty truck and trailer components as well as industrial supplies.
+Bergey's Truck Parts & Industrial Supply operates a full-service parts branch in Milton, Pennsylvania. The company serves as a distribution point for heavy-duty truck and trailer components, as well as industrial supplies.
 
-The branch stocks a complete line of engine parts from Volvo, Cummins, Caterpillar, and Detroit, along with chrome, air brake, suspension, trailer, electrical, and driveline components. It also carries hand, power, and air tools, industrial and cleaning supplies, fasteners, and shop equipment. In-house capabilities include flywheel resurfacing using a Van Norman Fly Wheel Grinding Machine and custom hose assembly via a Gates Hose Crimping Machine for air conditioning lines, hydraulic hoses, and stainless steel air discharge lines. The facility reports thousands of part numbers stocked.
+The location stocks engine parts from Volvo, Cummins, Caterpillar, and Detroit, along with chrome, air brake, suspension, trailer, electrical, and driveline components. It also carries hand, power, and air tools, industrial and cleaning supplies, fasteners, and shop equipment from over 300 suppliers. In-house services include flywheel resurfacing using a Van Norman Fly Wheel Grinding Machine and hose assembly with a Gates Hose Crimping Machine for air conditioning, hydraulic, and stainless steel air discharge lines.
 
-The company serves heavy-duty trucking, trailer, and industrial maintenance customers across the United States and Canada. Its industry focus includes automotive specialty tools, automotive belts, and energy suspension products, reflecting the product categories it carries. As a TruckForce Service Center, it provides OEM training for sales, parts, and service personnel.
+The business supports heavy-duty trucking fleets, trailer operators, and industrial maintenance departments across the United States and Canada. Its product categories span automotive specialty tools, automotive belts, and energy suspension components, reflecting a focus on commercial vehicle repair and industrial upkeep.
 
-The branch differentiates itself through its TruckForce network affiliation, OEM-trained staff, and on-site machining equipment that allows same-location flywheel grinding and hose fabrication.
+Bergey's emphasizes its status as a TruckForce Service Center and highlights OEM training for sales, parts, and service personnel as differentiators. The company also points to coast-to-coast access to quality parts and service through its network.
 
 ## Known for
-- TruckForce Service Center affiliation
+- TruckForce Service Center designation
 - OEM training for sales, parts, and service
-- In-house Van Norman flywheel grinding
-- Gates hose crimping for custom hydraulic and AC lines
-- Coast-to-coast service network in US and Canada
+- Van Norman Fly Wheel Grinding Machine for flywheel resurfacing
+- Gates Hose Crimping Machine for custom hose assembly
+- Access to quality parts coast to coast in the U.S. and Canada
 
 ## Capabilities
 - Heavy-duty truck parts distribution
 - Trailer parts distribution
 - Industrial supplies distribution
-- Flywheel resurfacing
-- Hydraulic hose assembly
-- Air conditioning line assembly
-- Stainless steel air discharge line fabrication
-- OEM training (sales, parts, service)
-- TruckForce service center support
-- Tool and equipment sales (hand, power, air tools)
+- Tool distribution (hand, power, air)
 - Fastener supply
 - Shop equipment supply
+- Flywheel resurfacing
+- Hose crimping and assembly
+- OEM training for sales, parts, and service
 
 ## Industries
 - Heavy-duty trucking
@@ -50,18 +47,18 @@ The branch differentiates itself through its TruckForce network affiliation, OEM
 
 <details><summary>Sources</summary>
 
-- Location: Milton, PA -> db
+- Location: Milton, PA -> db (hq_city, hq_state_label)
 - Full-service parts branch -> description
-- Stocks engine parts from Volvo, Cummins, Caterpillar, Detroit -> description
-- Stocks chrome, air brake, suspension, trailer, electrical, driveline parts -> description
-- Stocks hand, power, air tools, industrial and cleaning supplies, fasteners, shop equipment -> description
+- Engine parts brands (Volvo, Cummins, Caterpillar, Detroit) -> description
+- Product categories (chrome, air brake, suspension, trailer, electrical, driveline) -> description
+- Tools and industrial supplies (hand, power, air tools, cleaning supplies, fasteners, shop equipment) -> description
+- Over 300 suppliers -> products array
 - Flywheel resurfacing with Van Norman Fly Wheel Grinding Machine -> description
-- Hose crimping with Gates Hose Crimping Machine for AC lines, hydraulic hoses, stainless steel air discharge lines -> description
-- Thousands of part numbers stocked -> products
-- TruckForce Service Center -> capabilities
-- OEM training for sales, parts, service -> capabilities
-- Coast-to-coast service in US and Canada -> capabilities
-- Industries served: Automotive specialty tools, Automotive belts, Energy suspension -> industries_served
+- Hose crimping with Gates Hose Crimping Machine -> description
+- TruckForce Service Center -> capabilities array
+- OEM training for sales, parts, & service -> capabilities array
+- Coast-to-coast service in US and Canada -> capabilities array
+- Industries served: automotive specialty tools, automotive belts, energy suspension -> industries_served array
 </details>
 
 ---
@@ -71,32 +68,31 @@ The branch differentiates itself through its TruckForce network affiliation, OEM
 **Old description:** Tailored for mornings on the course, afternoons in town, and everything after.
 
 ## About
-Berle Manufacturing Co., based in Charleston, South Carolina, has been producing men's trousers since 1951. The company remains family-owned and operated, now in its third generation, and bills itself as the oldest family-owned trouser maker in the United States still under the same family's control.
+Berle Manufacturing Co. has operated from Charleston, South Carolina since its founding in 1951. The company remains in the hands of the founding family, making it the oldest family-owned trouser manufacturer in the United States still under the same ownership. Over seven decades later, the business continues to design and produce men's trousers, khakis, and shorts from its Charleston base.
 
-The company designs and markets men's dress pants, trousers, khakis, and shorts under the Berle, Vintage 1946, Charleston Khakis, and Self Sizer labels. Garments are crafted in factories using premium fabrics including cotton, linen, wool, polyester, corduroy, and seersucker. Signature construction details feature brass zippers, watch pockets, Italian waistbands, true two-piece French flies, and Corozo buttons. Berle also offers complimentary hemming on every order and a Self Sizer fit-guidance tool.
+The product line spans dress pants, casual khakis, and shorts crafted from premium fabrics including cotton, linen, wool, polyester, corduroy, and seersucker. Signature construction details feature brass zippers, watch pockets, Italian waistbands, true two-piece French flies, and corozo buttons. The company offers multiple fit profiles — slim, classic, relaxed — and rise options (regular, short, long) across brands such as Berle, Vintage 1946, Charleston Khakis, and Self Sizer. Complimentary hemming is provided on every order.
 
-Berle sells directly to consumers through its e-commerce site and likely supplies specialty men's retailers, though specific wholesale accounts are not disclosed. The product range spans slim, classic, and relaxed fits in flat-front and pleated styles, with one of the industry's largest selections of patterned and fancy trousers.
+Berle serves the men's apparel market primarily through direct-to-consumer channels, shipping to customers across the United States. Its assortment targets professionals and enthusiasts seeking tailored trousers for work, social occasions, and leisure, with a noted emphasis on patterned and fancy styles that the company describes as one of the industry's largest selections.
 
-The company emphasizes its multi-generational heritage, Southern hospitality in customer service, and a commitment to variety across fabric weights and patterns as key differentiators in the men's apparel market.
+The company attributes its longevity to a commitment to craftsmanship and southern hospitality, positioning itself as a family-run operation that goes above and beyond in customer service. With more than 75 years of experience, Berle emphasizes heritage-driven design balanced with modern flair, aiming to deliver trousers that combine timeless quality with contemporary style.
 
 ## Known for
-- Oldest family-owned trouser manufacturer in the U.S. still in same family
-- Signature details: brass zippers, watch pockets, Italian waistbands, French flies, Corozo buttons
-- Complimentary pant hemming on all orders
-- Free shipping on orders over $125
-- Wide range of patterned and fancy trousers
+- Oldest family-owned trouser manufacturer in the U.S. still under same family ownership
+- Over 75 years of trouser-making experience
+- Signature details: brass zippers, watch pockets, Italian waistbands, true two-piece French flies, corozo buttons
+- Complimentary hemming on all orders
+- One of the industry's largest selections of patterned and fancy trousers
 
 ## Capabilities
-- Men's trouser manufacturing
-- Garment pattern development
+- Trouser manufacturing
+- Pattern design and grading
 - Fabric sourcing and selection
-- Complimentary hemming service
-- Custom fit guidance (Self Sizer)
+- Custom hemming service
+- Quality inspection
 
 ## Industries
 - Men's apparel
 - Clothing manufacturing
-- Retail apparel
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -107,14 +103,19 @@ The company emphasizes its multi-generational heritage, Southern hospitality in 
 <details><summary>Sources</summary>
 
 - Founded 1951 -> db
-- Headquarters Charleston, SC -> db
-- Family-owned, same family for 75+ years -> homepage
-- Oldest family-owned trouser manufacturer in US -> homepage
-- Brands: Berle, Vintage 1946, Charleston Khakis, Self Sizer -> homepage
-- Fabrics: cotton, linen, wool, polyester, corduroy, seersucker -> homepage
-- Signature details: brass zippers, watch pockets, Italian waistbands, French flies, Corozo buttons -> homepage
-- Complimentary hemming -> homepage
-- Free shipping over $125 -> homepage
+- Family-owned, same family for 75+ years -> /
+- Headquarters Charleston, South Carolina -> db
+- Oldest family-owned trouser manufacturer in U.S. -> /
+- Makes men's trousers, pants, khakis, shorts -> /
+- Uses premium fabrics: cotton, linen, wool, polyester, corduroy, seersucker -> /
+- Signature details: brass zippers, watch pockets, Italian waistbands, true two-piece French flies, corozo buttons -> /
+- Offers multiple fits (slim, classic, relaxed) and rises (regular, short, long) -> /
+- Brands: Berle, Vintage 1946, Charleston Khakis, Self Sizer -> /
+- Complimentary hemming on all orders -> /
+- Free shipping on orders over $125 -> /
+- Over 75 years experience -> /
+- Largest selection of patterned and fancy trousers -> /
+- Family-run with southern hospitality customer service -> /
 </details>
 
 ---
@@ -124,45 +125,38 @@ The company emphasizes its multi-generational heritage, Southern hospitality in 
 **Old description:** Manufacturer of award winning high quality food products for both foodservice and retail trade. Bernard Foods is privately owned and operated by the Bernard Family.
 
 ## About
-Bernard Food Industries was founded in 1947 in Evanston, Illinois, and remains privately owned and operated by the Bernard family. The company began as a manufacturer of specialty food products for the foodservice and retail trades.
+Bernard Food Industries Inc is headquartered in Evanston, Illinois, and has been operating since 1947. The company is privately owned and operated by the Bernard family, with Steven Bernard serving as a point of contact. It began as a manufacturer of specialty food products for foodservice and retail channels.
 
-Today the company produces hundreds of items across categories that include soups and bases, desserts, bakery mixes, seasonings, gravies, sauces, beverages, and a line of more than 400 gluten‑free products. Through its Stevens Packaging division, established in 1976, Bernard also offers contract packaging services specializing in dry‑mix blending, pouch and can filling, and both short‑ and long‑run production.
+The company manufactures hundreds of specialty food items under brands such as Bernard, Calorie Control, Sweet'N Low, San Sucre, and Longhorn Grill. Its portfolio spans soups, desserts, bakery mixes, salad dressings, seasonings, beverages, and a line of over 400 gluten‑free products. Through its Stevens Packaging division, Bernard also provides contract dry‑mix blending and packaging in pouches and cans for both short and long runs.
 
-Customers span institutional and commercial channels: schools, restaurants, hotels, camps, casinos, cruise lines, correctional facilities, hospitals, nursing homes, supermarkets, drug stores, mass merchandisers, and colleges nationwide.
+Customers include schools, restaurants, hotels, camps, casinos, cruise lines, correctional facilities, hospitals, and nursing homes, as well as supermarkets, drug stores, and mass merchandisers across the United States.
 
-Bernard emphasizes customer service, product quality and consistency, innovation and product development, and employee diversity and development. Many of its award‑winning products were co‑developed with customers, reflecting a partnership‑driven approach to formulation.
+Bernard emphasizes customer service, product quality and consistency, innovation, and employee development.
 
 ## Known for
-- Customer service focus
-- Product quality and consistency
-- Innovation and product development
-- Employee diversity and development
-- Co-development with customers
+- Family-owned and operated since 1947
+- Over 400 gluten‑free products in portfolio
+- Contract packaging: dry‑mix blending and packaging in pouches and cans
+- Products co‑developed with customers
+- Serves foodservice and retail channels nationwide
 
 ## Capabilities
-- Food manufacturing
-- Contract packaging
+- Food product manufacturing
 - Dry mix blending
-- Pouch filling
-- Can filling
-- Short-run production
-- Long-run production
+- Contract packaging (pouches and cans)
 - Product development
+- Gluten-free product formulation
+- Low-sodium coating mixes
 
 ## Industries
-- Schools
-- Restaurants
-- Hotels
-- Camps
-- Casinos
-- Cruise ships
-- Correctional institutions
-- Hospitals
-- Nursing facilities
-- Supermarkets
-- Drug stores
-- Mass merchandisers
-- Colleges
+- Foodservice
+- Retail
+- Education (schools, colleges)
+- Healthcare (hospitals, nursing facilities)
+- Correctional
+- Hospitality (restaurants, hotels, casinos, cruise ships)
+- Government
+- Camping
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -172,18 +166,17 @@ Bernard emphasizes customer service, product quality and consistency, innovation
 
 <details><summary>Sources</summary>
 
-- Founded in 1947 -> db
+- Founded 1947 -> db
 - Headquarters Evanston, Illinois -> db
-- Family-owned and operated by Bernard Family -> /
-- Manufacturer of food products for foodservice and retail -> /
-- Produces hundreds of specialty products including soups, desserts, bakery mixes, seasonings, beverages -> /
-- Over 400 gluten-free products -> /
-- Stevens Packaging division since 1976 offers contract packaging -> /
-- Dry mix blending, pouch and can packaging, short and long runs -> /
-- Serves schools, restaurants, hotels, camps, casinos, cruise ships, correctional, hospitals, nursing facilities -> /
-- Also serves supermarkets, drug stores, mass merchandisers, colleges -> /
-- Committed to customer service, product quality, innovation, employee diversity -> /
-- Products co-developed with customers -> /
+- Family-owned and operated by Bernard Family -> db
+- Manufacturer of hundreds of specialty food products -> page /
+- Brands: Bernard, Calorie Control, Sweet'N Low, San Sucre, Longhorn Grill -> page /
+- Over 400 gluten-free products -> page /
+- Contract packaging via Stevens Packaging (dry mix blending, pouches and cans) -> page /
+- Customer classes: schools, restaurants, hotels, camps, casinos, cruise ships, correctional, hospitals, nursing facilities, supermarkets, drug stores, mass merchandisers -> page /
+- Commitments: Customer Service, Product Quality and Consistency, Innovation and Product Development, Employee Diversity and Development -> page /
+- Products developed in partnership with customers -> page /
+- Vision: become world's best food company -> page /
 </details>
 
 ---
@@ -193,35 +186,35 @@ Bernard emphasizes customer service, product quality and consistency, innovation
 **Old description:** Best brand for quality, customer service, and fit. Berne has stayed true to making great clothing for the working man and woman. This farmer only buys Berne.
 
 ## About
-Berne Apparel is headquartered in Ossian, Indiana, and traces its roots to 1915 when it began making bib overalls and work shirts for the farming community in Berne, Indiana. The company remains family-owned after three generations, though the founders are not named in public materials.
+Founded in 1915 in Berne, Indiana, and now headquartered in Ossian, Indiana, Berne Apparel has remained family-owned for three generations. The company began by producing bib overalls and work shirts for the local farm community, establishing a focus on durable, affordable workwear.
 
-The brand designs and sells a range of workwear including insulated bib overalls, coveralls, jackets, pants, tees, vests, hooded sweatshirts, and UPF-rated sun shirts. Each insulated garment carries a proprietary warmth rating—Warm, Warmer, Warmest, or Extreme Warmth—to help buyers match protection to conditions. Sizing runs from small to 6XL in short, regular, and tall lengths, with a dedicated women’s line (S–4XL) built for female proportions and a big-and-tall offering across nine sizes and three lengths. Through its Berne ProGear program, the company also provides custom printing and embroidery for businesses wanting branded apparel.
+Today, Berne manufactures a full line of workwear including insulated jackets, bib overalls, coveralls, vests, pants, and shirts for men and women. The company operates a proprietary warmth rating system—Warm, Warmer, Warmest, and Extreme Warmth—to help customers select insulation levels for specific conditions. Through its Berne ProGear division, the company also provides custom screen printing and embroidery services for corporate branding.
 
-Customers span individual tradespeople—farmers, linemen, roofers, and outdoor workers in regions like the Catskills and Iowa—as well as corporate buyers ordering logoed gear for crews. The company highlights real-world use cases from a lineman in Iowa and a small-farm family in New York.
+Berne’s core customers span agriculture, construction, utilities, and general industrial trades, with gear sized from S to 6XL in short, regular, and tall lengths. The brand also serves businesses seeking customized work uniforms, and its women’s line is patterned specifically for women’s bodies rather than adapted from men’s patterns.
 
-Berne positions itself on delivering “workwear as good as the big guys, at a price hardworking people can actually pay.” Its differentiators include the multi-generation family ownership, the warmth-rating system, women’s-specific patterning, extended sizing, and the ProGear customization service, all backed by free shipping on orders over $100.
+The company emphasizes value—‘workwear as good as the big guys, at a price hardworking people can actually pay’—and backs each insulated garment with a temperature rating. Inclusive sizing, women-specific engineering, and a direct-to-customer model round out its positioning.
 
 ## Known for
-- Family owned since 1915, now in its third generation
-- Proprietary warmth rating system (Warm, Warmer, Warmest, Extreme Warmth) on every insulated piece
-- Extended sizing: S–6XL in short, regular, and tall; women’s S–4XL; big & tall across nine sizes and three lengths
-- Women’s workwear built for female proportions, not adapted from men’s patterns
-- Berne ProGear custom printing and embroidery for corporate logos
-- Free shipping on orders over $100
+- Family-owned since 1915, now in its third generation
+- Proprietary four-level warmth rating on every insulated garment
+- Extended sizing from S to 6XL in short, regular, and tall lengths
+- Women’s workwear patterned specifically for women’s bodies
+- Berne ProGear custom printing and embroidery service
 
 ## Capabilities
-- Workwear design and manufacturing
-- Custom apparel decoration (screen printing, embroidery)
-- Warmth rating classification
-- Extended size grading (including big & tall and women's fits)
+- Workwear manufacturing (bibs, coveralls, jackets, pants, shirts)
+- Custom screen printing and embroidery (Berne ProGear)
+- Thermal insulation rating system (Warm, Warmer, Warmest, Extreme Warmth)
+- Extended sizing (S–6XL, short/regular/tall)
+- Women’s-specific pattern design
 
 ## Industries
-- Agriculture/Farming
+- Agriculture
 - Construction
 - Utilities
-- Outdoor Recreation
-- Corporate Branded Apparel
-- General Workwear
+- Industrial manufacturing
+- Outdoor recreation
+- Corporate branding/uniforms
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -231,20 +224,17 @@ Berne positions itself on delivering “workwear as good as the big guys, at a p
 
 <details><summary>Sources</summary>
 
-- Founded 1915 in Berne, Indiana -> /
-- Family-owned, three generations -> /
-- Headquarters in Ossian, Indiana -> db
-- Produces workwear: bibs, coveralls, jackets, pants, tees, vests, sweatshirts, sun shirts -> /
-- Warmth rating system (Warm, Warmer, Warmest, Extreme Warmth) -> /
-- Extended sizing S-6XL, short/regular/tall, women's S-4XL, big & tall -> /
-- Berne ProGear custom printing/embroidery for corporate logos -> /
-- Free shipping on orders $100+ -> /
-- Materials: duck canvas, washed duck, ripstop, thermal lining, insulation, UPF fabric -> /
-- Serves farm community, linemen, roofers, outdoor workers, corporate clients -> /
-- Company type: Manufacturer -> /
-- Makes products: yes -> /
-- Ownership: Family-owned -> /
-- Social: Instagram @berneapparel -> /
+- Founded in 1915 -> db
+- Headquartered in Ossian, Indiana -> db
+- Family-owned since 1915, three generations -> /
+- Began making bibs and work shirts for farm community in Berne, Indiana -> /
+- Product line includes insulated jackets, bib overalls, coveralls, vests, pants, shirts -> /
+- Proprietary warmth rating system (Warm, Warmer, Warmest, Extreme Warmth) -> /
+- Berne ProGear custom screen printing and embroidery service -> /
+- Sizing S–6XL in short, regular, tall lengths -> /
+- Women's workwear patterned for women's bodies -> /
+- Serves agriculture, construction, utilities, industrial trades -> /
+- Value proposition: workwear as good as big brands at affordable price -> /
 </details>
 
 ---
@@ -254,30 +244,31 @@ Berne positions itself on delivering “workwear as good as the big guys, at a p
 **Old description:** Discover our selection of high-quality, Amish built bedroom furniture.
 
 ## About
-Bernhaus Furniture is a family-owned furniture retailer based in Berne, Indiana, a town with Swiss roots reflected in the company’s name and bear logo. The business opened its doors in 2003 with a simple premise: choosing furniture should feel personal. From its showroom in Berne, the company serves homeowners throughout the region.
+Bernhaus Furniture is a family-owned furniture store located in Berne, Indiana. Founded in 2003, the company opened its doors with a focus on helping homeowners create personal, comfortable living spaces. The name reflects the region’s Swiss heritage—“Bern” means bear—a symbol that appears in the company’s logo and showroom.
 
-The retailer curates American-made, Amish-crafted furniture for dining rooms, bedrooms, living rooms, offices, children’s rooms, and outdoor spaces. Beyond stock pieces, Bernhaus offers a guided customization process where customers can specify dimensions, wood species, stain colors, and hardware, or submit drawings and inspiration photos for fully custom work. The company handles delivery, assembly, and in-home setup, and notes that custom orders typically require about 12 weeks to complete.
+The retailer specializes in American-made, Amish-crafted furniture across categories including bedroom, dining, living room, office, children’s, and outdoor pieces. Customers can personalize dimensions, wood species, stain colors, and hardware, or submit custom drawings for made-to-order items. Bernhaus operates a showroom in Berne where it provides free walk-in design assistance, and it handles delivery, assembly, and in-home setup for every order. Custom pieces typically require approximately 12 weeks for completion.
 
-Bernhaus primarily serves residential customers — homeowners furnishing primary residences, vacation homes, or rental properties. Its showroom provides free walk-in design assistance, and the company emphasizes a low-pressure buying experience with transparent pricing based on materials, size, finish, and options selected.
+The business serves residential customers—homeowners furnishing primary residences, vacation homes, or individual rooms. Its service model is built around guiding buyers from initial idea through final installation, rather than serving commercial or contract markets.
 
-The founder’s original belief — that furniture shopping should be personal and straightforward — remains the company’s stated differentiator. Bernhaus highlights three guiding principles: practical service from concept through installation, fair value without unnecessary complexity, and the ability to tailor each piece to the customer’s space and taste.
+Bernhaus was started on the belief that choosing furniture should feel personal and pressure-free. The family ownership emphasizes fair value, hands-on service, and the ability to tailor each piece to the customer’s space, distinguishing the store from volume-driven furniture outlets.
 
 ## Known for
-- Expert showroom guidance through delivery, assembly, and in-home setup
-- Transparent pricing based on materials, size, finish, and options
-- Customization of size, wood, stain, and hardware
-- Custom pieces typically completed in approximately 12 weeks
-- Free walk-in design help in showroom
+- Free walk-in design assistance at Berne showroom
+- Custom furniture ready in approximately 12 weeks
+- Delivery, assembly, and in-home setup provided
+- Family-owned and operated since 2003
+- Sources American-made, Amish-crafted furniture
 
 ## Capabilities
 - Furniture retail
-- Custom furniture specification
-- Design consultation
+- Custom furniture design
+- Finish and hardware selection
 - Delivery and assembly
 - In-home setup
+- Showroom design consultation
 
 ## Industries
-- Residential furniture
+- Residential
 - Home furnishings
 
 ## Company details
@@ -288,16 +279,16 @@ The founder’s original belief — that furniture shopping should be personal a
 
 <details><summary>Sources</summary>
 
-- Founded in 2003 -> db, /about
-- Family-owned -> /, /about
-- Headquartered in Berne, Indiana -> /, /about
-- Sells Amish-crafted furniture -> /
+- Founded 2003, family-owned -> /about
+- Located in Berne, Indiana -> /
+- Sells American-made, Amish-crafted furniture -> /
 - Offers customization of size, wood, stain, hardware -> /
-- Provides delivery, assembly, and in-home setup -> /
-- Custom pieces typically completed in approximately 12 weeks -> /
+- Provides delivery, assembly, in-home setup -> /
+- Custom pieces take approximately 12 weeks -> /
 - Free walk-in design help in showroom -> /
-- Company name derives from Swiss word 'Bern' meaning bear -> /about
-- Guiding principles: service, fair value, customization -> /about
+- Name derived from Swiss 'Bern' meaning bear -> /about
+- Serves homeowners -> /about
+- Emphasizes personal service, fair value, customization -> /about
 </details>
 
 ---
@@ -307,44 +298,49 @@ The founder’s original belief — that furniture shopping should be personal a
 **Old description:** Omar Jaquez, with a career spanning since 1996, is our Operations Manager and Sales Representative at Best Wire & Cable LLC. Leveraging extensive logistics knowledge, Omar has played a crucial role in developing processes and partnerships. Embracing our mantra of “Customer First” since the inception of Best Wire, Omar continues to drive excellence in operations and sales.
 
 ## About
-Best Wire & Cable was established in 2004 in Richardson, Texas, by industry veteran Joe Stadelman, who serves as president. The company began with a "Customer First" philosophy and has grown into a nationwide distributor of wire and cable products.
+Best Wire & Cable was founded in 2004 by Joe Stadelman in Richardson, Texas. The privately held distributor began with a "Customer First" philosophy and has grown to serve customers nationwide from its Dallas-area warehouse.
 
-The company operates as a wire and cable distributor, supplying products ranging from service entrance and multi-conductor cables to specialty Mil-Spec, aerospace, and shipboard cables. Its Dallas, Texas warehouse supports same-day shipping on stocked items, and the firm reports distributing more than 300 million feet of wire annually across over 100,000 projects.
+The company distributes a broad range of wire and cable products, including Mil-Spec, aerospace, shipboard, and low-voltage cables for fire alarm, security, voice/data, fiber, access control, and lighting control systems. Operating from a Dallas warehouse, the team ships over 300 million feet of wire annually, supports more than 1,000 customers, and completes over 100,000 projects each year, with same-day service available on stocked items.
 
-Best Wire & Cable serves customers in aerospace, shipboard, and defense sectors requiring Mil-Spec cables, as well as commercial low-voltage markets including building automation, fire alarm, security, voice and data, and lighting controls. The company also supports emerging sectors such as battery energy storage systems (BESS) and AI infrastructure fiber deployments. Its client base includes contractors like Automated Controls and government agencies through its approved-vendor status.
+Best Wire & Cable serves government and military agencies, aerospace and marine contractors, energy storage (BESS) developers, AI and data-center infrastructure builders, automation and controls integrators, and commercial construction firms. Notable customers include automation specialist Automated Controls, and the company supplies cable for battery energy storage systems and high-performance fiber networks for AI clusters.
 
-The company differentiates itself through a "Customer First" mantra, a commitment to sourcing only from certified manufacturers, and a dedicated team of industry veterans with decades of experience. Its stated mission is to deliver the right wire and cable when needed, backed by a promise of high-quality, certified products and responsive, knowledgeable service.
+The distributor differentiates itself through a "Customer First" mantra, a commitment to sourcing only from certified manufacturers, and a government-approved vendor status that enables Mil-Spec and aerospace compliance. Its vision is to become the nation's commercial wire and cable distributor while maintaining local roots, backed by a dedicated expert team with decades of industry experience.
 
 ## Known for
-- Same-day service on stocked items
-- Government-approved vendor for Mil-Spec, aerospace, and shipboard cables
-- Sources exclusively from certified manufacturers
-- Distributes over 300 million feet of wire per year
-- Team with over 20 years of industry experience
+- Same-day shipping on stocked items
+- Nationwide delivery with local-touch service
+- Government-approved vendor for Mil-Spec, aerospace, and shipboard cable
+- 300 million+ feet of wire distributed annually
+- Exclusive partnerships with certified manufacturers
 
 ## Capabilities
 - Wire and cable distribution
-- Warehousing and logistics
 - Same-day shipping
-- Customized cable solutions
-- Government procurement support
-- Mil-Spec cable supply
-- Aerospace cable supply
-- Shipboard cable supply
+- Nationwide delivery
+- Government/Mil-Spec cable supply
+- Aerospace and shipboard cable supply
 - Low-voltage cable supply
-- Technical product selection assistance
+- Warehouse and logistics
+- Technical product selection support
+- Custom quoting
+- Service entrance cable
+- Duplex service drop
+- Quadruplex service drop
+- Triplex service drop
 
 ## Industries
+- Government/Military
 - Aerospace
 - Shipboard/Marine
-- Defense/Military (Mil-Spec)
-- Building automation
-- Fire alarm and life safety
-- Security systems
-- Voice and data communications
-- Lighting controls
-- Battery energy storage systems (BESS)
-- AI infrastructure
+- Energy Storage (BESS)
+- AI/Data Center Infrastructure
+- Automation/Controls
+- Commercial Construction
+- Low-Voltage Systems
+- Fire Alarm & Security
+- Voice/Data/Fiber
+- Access Control
+- Lighting Controls
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -353,20 +349,19 @@ The company differentiates itself through a "Customer First" mantra, a commitmen
 
 <details><summary>Sources</summary>
 
-- Founded in 2004 in Richardson, Texas by Joe Stadelman -> /about
-- Distributes over 300 million feet of wire annually -> /about
-- Same-day service on stocked items -> / and /about
-- Government-approved vendor for Mil-Spec, aerospace, and shipboard cables -> /about
-- Sources exclusively from certified manufacturers -> /about
-- Serves aerospace, shipboard, defense, low-voltage, building automation, fire alarm, security, voice/data, lighting controls -> /about and team bios
-- Customer example: Automated Controls -> / (homepage testimonial)
-- Warehouse in Dallas, TX -> /about (Alex Alejandre oversees warehouse in Dallas, TX)
-- Team includes industry veterans with 20+ years experience -> /about
-- Product categories: Service entrance, duplex/quadruplex/triplex service drop, multi-conductor, controls & automation, life safety -> / (homepage) and capabilities
-- Volume: 1000+ satisfied customers, 100,000+ completed projects per year -> /about
-- Mission: help get right wire and cable when needed -> /about
-- Vision: become nation's number one commercial wire and cable distributor -> /about
-- Brand values: Efficient, Reliable, Agile, High-Quality, Dedicated Experts -> /about
+- Founded 2004 -> /about
+- Headquarters Richardson, Texas -> db
+- 300 million+ feet distributed annually -> /about
+- 1000+ customers -> /about
+- 100000+ projects/year -> /about
+- Government-approved vendor -> /about
+- Mil-Spec, aerospace, shipboard cable -> /about
+- Same-day service -> / and /about
+- Nationwide service with local touch -> / and /about
+- Joe Stadelman president founder -> /about
+- Team members listed -> /about
+- Industries BESS and AI infrastructure -> industries_served (db)
+- Automated Controls testimonial -> /
 </details>
 
 ---
@@ -376,44 +371,36 @@ The company differentiates itself through a "Customer First" mantra, a commitmen
 **Old description:** Find a state or province to view Wirerope Works, Inc.'s distributors
 
 ## About
-Bethlehem Wire Rope, Inc. traces its origins to 1886 in Williamsport, Pennsylvania, where it began supplying structural strength wire rope, cable, and strand. Today the company operates a 46-acre manufacturing complex with more than 620,000 square feet under roof, which it describes as the single largest wire rope manufacturing facility in North America.
+Established in 1886 in Williamsport, Pennsylvania, Bethlehem Wire Rope, Inc. has operated continuously as a manufacturer of wire rope and strand products. The company operates under the trade name Bethlehem Wire Rope® and is part of Wirerope Works, Inc.
 
-The vertically integrated plant produces its own wire, closes rope, forms structural strand, and fabricates finished assemblies such as pendants and other fittings on the same premises. The product range covers general-purpose wire rope, surface and underground mining ropes, drilling and service rig cables for offshore oil and gas, elevator hoist cables, boom pendants for lifting and rigging, structural strand for bridges, and specialty ropes for ski lifts, logging, and marine environments.
+The company maintains a 46-acre manufacturing complex with over 620,000 square feet under roof, described as the single largest wire rope manufacturing facility in North America. Vertically integrated, Bethlehem Wire Rope produces its own wire, wire rope, structural strand, and fabricated products such as pendants and assemblies on the same premises.
 
-Customers span construction, logging, marine, mining, oil and gas, and steel industries. Typical applications include crane and elevator hoisting, bridge suspension and anchoring, and offshore platform stabilization.
+Bethlehem Wire Rope serves industries including construction, logging, marine, mining, oil and gas, and steel. Its products are used in crane and elevator hoist ropes, bridge suspension systems, offshore platform anchoring, drilling and service rigs, ski lifts, and marine underwater applications.
 
-The company points to its complete in-house manufacturing—from raw wire to finished assembly—and its long-standing reputation for quality as the factors that distinguish it in the market.
+The company emphasizes its complete facility and experienced personnel as differentiators, noting that Bethlehem brand wire rope and strand products have long been recognized worldwide for superior quality.
 
 ## Known for
-- Single largest wire rope manufacturing facility in North America (46 acres, 620,000+ sq ft)
-- Vertically integrated: manufactures wire, rope, strand, and fabricated assemblies on one site
-- Worldwide reputation for superior quality wire rope and strand products
-- Serves construction, logging, marine, mining, oil & gas, and steel industries
+- Single largest wire rope manufacturing facility in North America (46-acre, 620,000 sq ft)
+- Vertically integrated: manufactures own wire, wire rope, structural strand, and fabricated products on-site
+- Worldwide recognition for superior quality
+- Distribution network with service centers across North America
+- Serves diverse industries: construction, logging, marine, mining, oil & gas, steel
 
 ## Capabilities
 - Wire drawing
-- Wire rope closing
-- Structural strand manufacturing
-- Fabricated assembly production (pendants, fittings)
 - Wire rope manufacturing
-- Strand manufacturing
-- Service center distribution
-- Elevator hoist cable production
-- Mining rope production
-- Oil & gas drilling cable production
-- Boom pendant fabrication
-- Structural strand for bridges
-- Ski lift cable production
-- Logging rope production
-- Marine rope production
+- Structural strand manufacturing
+- Fabrication of pendants and assemblies
+- Distribution network
+- Service center support
 
 ## Industries
-- Construction
-- Logging
-- Marine
-- Mining
-- Oil and gas
-- Steel
+- construction
+- logging
+- marine
+- mining
+- oil and gas
+- steel
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -422,14 +409,13 @@ The company points to its complete in-house manufacturing—from raw wire to fin
 
 <details><summary>Sources</summary>
 
-- Founded in 1886 -> db
-- Headquarters in Williamsport, Pennsylvania -> db
-- 46-acre manufacturing complex with over 620,000 square feet under roof -> page '/'
-- Single largest wire rope manufacturing facility in North America -> page '/'
-- Manufactures own wire, wire rope, structural strand, and fabricated assemblies on same premises -> page '/'
-- Serves industries: construction, logging, marine, mining, oil and gas, steel -> page '/'
-- Applications: crane and elevator hoist ropes, bridge suspension, offshore platform anchoring -> page '/'
-- Product lines: general purpose, mining, oil & gas, elevator, boom pendants, structural strand, ski lifts, logging, marine -> page '/'
+- Founded 1886 -> db
+- Headquarters Williamsport, Pennsylvania -> db
+- 46-acre manufacturing complex, 620,000 sq ft -> /
+- Manufactures own wire, wire rope, structural strand, fabricated products on-site -> /
+- Industries served: construction, logging, marine, mining, oil and gas, steel -> /
+- Applications: crane and elevator hoist ropes, bridge suspension, offshore anchoring, drilling rigs, ski lifts, marine underwater -> /
+- Vertically integrated facility -> /
 - LinkedIn URL -> db
 </details>
 
@@ -440,51 +426,50 @@ The company points to its complete in-house manufacturing—from raw wire to fin
 **Old description:** , we supply a wide variety of bulk food products to meet the needs of restaurants, businesses, and families stocking up at home. From pantry staples to specialty items, we’ve got you covered. For current pricing and availability, please give us a call at
 
 ## About
-Big Horn Food Services operates from Cody, Wyoming, where it has served the Big Horn Basin since the 1970s. The company is locally owned and operated, emphasizing family values and community ties, though the founders are not named publicly. It began as a supplier of restaurant and janitorial essentials and has expanded into a broad-line distributor for foodservice and retail customers.
+Big Horn Food Services operates from Cody, Wyoming, in the Big Horn Basin. The company has served the region since the 1970s as a locally-owned and operated business, emphasizing family values and community ties. No founders are named in the available information.
 
-The business distributes a wide range of bulk food products — including appetizers, beef, bread, breakfast items, canned goods, dairy, frozen foods, and pantry staples — along with janitorial supplies. It also offers consulting services for new or existing foodservice operations. Orders are fulfilled from a local warehouse with deliveries scheduled twice weekly: Monday orders arrive Tuesday, Thursday orders arrive Friday. No facility size or headcount figures are disclosed.
+The firm distributes a comprehensive range of restaurant and janitorial supplies, including bulk food products across categories such as appetizers, beef, bread, dairy, frozen goods, and pantry staples. It also provides consulting services for new restaurant startups and operational revamps. Orders placed on Mondays arrive Tuesday; Thursday orders arrive Friday, with deliveries throughout the week. Facility size, headcount, and volume metrics are not disclosed.
 
-Customers include independent restaurants, cafes, catering companies, and other foodservice operations, with specific mention of Southwestern and Mexican concepts. The company also sells directly to families and businesses stocking up on bulk groceries. Janitorial supplies target commercial spaces such as offices and industrial facilities.
+Customers include restaurants, commercial kitchens, businesses, and households stocking up at home. The company cites “bustling restaurant” operators and managers of commercial cleaning as typical clients.
 
-Big Horn Food Services differentiates itself through quick turnaround on orders, personalized service rooted in small-town values, and competitive pricing backed by decades of industry experience. The consulting offering aims to help clients navigate startup or renovation challenges, reflecting a mission to be more than a transactional supplier.
+Big Horn Food Services says it differentiates itself through competitive pricing without sacrificing quality, personalized service rooted in small-town values, and a willingness to consult on business strategy. Its local ownership and community focus are presented as core reasons for its founding.
 
 ## Known for
-- Orders placed Monday delivered Tuesday; orders placed Thursday delivered Friday
-- Easy ordering using product SKUs
-- Locally owned and operated with small-town values
-- Consulting services for business startup and revamping
-- Competitive pricing without sacrificing quality
+- Orders placed Monday arrive Tuesday; Thursday orders arrive Friday
+- Locally-owned and operated with small-town values
+- Consulting services for restaurant startup and operational revamp
+- Comprehensive restaurant and janitorial supply catalog
+- Personalized, community-focused service
 
 ## Capabilities
-- Bulk food distribution
-- Restaurant supply distribution
-- Janitorial supply distribution
-- Business consulting for foodservice operations
-- Scheduled weekly delivery
+- Food and beverage distribution
+- Janitorial and sanitation supply distribution
+- Business consulting for foodservice startups
+- Scheduled delivery (Mon/Tue, Thu/Fri)
+- Online product catalog with SKU tracking
 
 ## Industries
-- Restaurants
-- Cafes
-- Catering
-- Food service
-- Commercial janitorial
-- Hospitality
+- Restaurant
+- Foodservice
+- Janitorial
+- Commercial cleaning
 
 ## Company details
 - **Company Type:** Distributor / reseller
 - **Founded:** 1970s
-- **Ownership:** Locally owned and operated
+- **Ownership:** Locally-owned and operated
 - **Headquarters:** Cody, Wyoming
 
 <details><summary>Sources</summary>
 
 - Location: Cody, Wyoming -> db
-- Founded: 1970s -> /about
-- Ownership: locally owned and operated -> /about
-- Services: bulk food distribution, restaurant and janitorial supplies, consulting -> /about
-- Delivery schedule: Monday orders arrive Tuesday, Thursday orders arrive Friday -> /
-- Industries served: restaurants, cafes, catering, Southwestern/Mexican foodservice, families, commercial spaces -> /, /about
-- Differentiators: quick turnaround, easy ordering, personalized service, competitive pricing, consulting -> /, /about
+- Founded: since the 1970s -> /about
+- Ownership: locally-owned and operated, family values -> /about
+- Business: restaurant and janitorial supplies distribution -> /about
+- Consulting services for startup/revamp -> /about
+- Delivery schedule: Mon->Tue, Thu->Fri -> /
+- Customer types: restaurants, businesses, families -> /
+- Differentiators: competitive pricing, personalized service, community focus -> /about
 </details>
 
 ---
@@ -494,24 +479,32 @@ Big Horn Food Services differentiates itself through quick turnaround on orders,
 **Old description:** Bila Solar is redefining the industry with high-performance panels proudly manufactured in Indiana and ready to power your projects today.
 
 ## About
-Bila Solar operates from Indianapolis, Indiana, where it manufactures high-performance solar panels. The company is led by industry veterans including President Wei-Tai Kwok, who brings 16 years of renewable energy executive experience, VP Sales Kyle Burak with 25-plus years in critical power infrastructure, Materials Manager Patrick Lennon, and Senior Accounting Manager Ed Reed.
+Bila Solar operates from Indianapolis, Indiana, where it is transforming American solar production by strengthening the domestic supply chain and creating clean energy jobs in the Midwest. The company is led by industry veterans including President Wei-Tai Kwok, who brings 16 years of executive experience in renewable energy, and VP of Sales Kyle Burak with over 25 years in critical power infrastructure and energy storage.
 
-The company produces 550-watt dual-glass photovoltaic modules using U.S.-made solar cells, positioning itself among the first to offer a domestically sourced cell in a high-output dual-glass format. Manufacturing takes place in Indianapolis, though facility size and production volumes are not disclosed.
+The company manufactures 550-watt dual-glass solar modules using U.S.-made solar cells, positioning itself among the first to bring such high-performance dual-glass modules to market. Production takes place in Indianapolis with domestically sourced components, and the modules are designed for maximum efficiency, durability, and long-term reliability.
 
-Bila Solar’s modules are designed to qualify for domestic content incentives, including an additional 10 percent investment tax credit bonus, making them targeted at solar developers and project owners seeking U.S.-manufactured equipment. Specific customer types or industry verticals beyond solar energy are not detailed in available materials.
+Bila Solar’s panels target solar project developers and EPCs seeking to qualify for domestic content incentives, including an additional 10% investment tax credit bonus. The modules serve utility-scale, commercial, and residential solar installations that require domestically manufactured components.
 
-The company emphasizes its role in strengthening the domestic solar supply chain and creating clean energy jobs in the Midwest, framing its first-to-market domestic cell module as a differentiator for reliability and long-term performance.
+The company emphasizes its role in rebuilding the U.S. solar supply chain, offering a product that combines American-made cells with advanced dual-glass construction to deliver higher energy yield in low-light conditions through bifacial Mono PERC technology.
 
 ## Known for
-- Manufactured in Indianapolis using U.S.-made solar cells
-- Qualifies for domestic content incentives with 10% ITC bonus
-- First-to-market 550W dual-glass module with domestic cells
-- High-efficiency, durable dual-glass design for long-term reliability
+- 550W dual-glass modules with U.S.-made solar cells
+- Manufactured in Indianapolis, Indiana
+- Qualifies for domestic content incentives and 10% ITC bonus
+- First-to-market high-performance dual-glass module
+- Led by industry veterans with extensive renewable energy experience
 
 ## Capabilities
 - Solar module manufacturing
-- Dual-glass module assembly
-- Domestic solar cell integration
+- Dual-glass module production
+- U.S.-made solar cell integration
+- Domestic content qualification
+- Bifacial Mono PERC cell technology
+
+## Industries
+- Solar energy
+- Renewable energy
+- Clean energy
 
 ## Certifications
 - ISO 9001
@@ -522,63 +515,18 @@ The company emphasizes its role in strengthening the domestic solar supply chain
 
 <details><summary>Sources</summary>
 
-- Headquarters: Indianapolis, Indiana -> db
-- Manufactures 550W dual-glass solar modules -> /
-- Uses U.S.-made solar cells -> /
-- Qualifies for domestic content incentives and 10% ITC bonus -> /
-- Leadership: Wei-Tai Kwok (President), Kyle Burak (VP Sales), Patrick Lennon (Materials Manager), Ed Reed (Senior Accounting Manager) -> /about
-- ISO 9001 certified -> db
-- Company transforms American solar production from Indianapolis -> /about
+- Headquarters in Indianapolis, Indiana -> /about
+- Manufactures 550W dual-glass solar modules using U.S.-made solar cells -> /
+- Modules qualify for domestic content incentives and 10% ITC bonus -> /
+- Company led by President Wei-Tai Kwok and VP Sales Kyle Burak -> /about
+- ISO 9001 certification -> db
+- Bifacial Mono PERC cell technology -> db
+- Team includes Materials Manager Patrick Lennon and Accounting Manager Ed Reed -> /about
+- Focus on strengthening domestic solar supply chain -> /about
 </details>
 
 ---
 
 # Biomedic Appliances
 
-**Old description:** We are pleased to share that Bio-Medic Appliances, Inc. has joined the Hanger Clinic family. Although the Bio-Medic Appliances name will change to Hanger Clinic, your clinical team will remain the same, with the added benefit of accessing more locations if you so choose. As part of the Hanger Clinic family, you can expect the same clinical excellence on which Bio-Medic Appliances built their reputation, combined with the peace of mind that comes with a company steeped in nearly 160 years of efficient and effective clinical care and outstanding customer service. ​​
-
-## About
-Bio-Medic Appliances, Inc. operated clinics in Rutland and Essex Junction, Vermont, before joining the Hanger Clinic family. The acquisition was announced on the Hanger Clinic website, though the founding year and original founders of Bio-Medic Appliances are not disclosed in the available information. The company now operates under the Hanger Clinic name while retaining its clinical teams at the existing Vermont locations.
-
-The business provides orthotic and prosthetic patient care services rather than manufactured products. Clinical teams at the Rutland and Essex Junction offices deliver custom orthotic and prosthetic solutions, including evaluation, fabrication oversight, fitting, and follow-up care. The scale of operations centers on two outpatient clinic locations in central and northern Vermont.
-
-The clinics serve patients requiring orthotic and prosthetic devices, as well as referring medical professionals such as physicians, physical therapists, and case managers. Hanger Clinic's broader network, which backs the former Bio-Medic locations, cites nearly 160 years of organizational experience in orthotic and prosthetic care.
-
-The company emphasizes clinical excellence and continuity of care, noting that patients benefit from the same local clinical teams now supported by Hanger Clinic's national resources, insurance navigation, and multi-site access.
-
-## Known for
-- Clinical teams retained at existing Vermont locations after acquisition
-- Access to Hanger Clinic's national network of clinics
-- Nearly 160 years of organizational experience in orthotic and prosthetic care
-- Insurance navigation and multi-site access for patients
-
-## Capabilities
-- Orthotic patient evaluation and care
-- Prosthetic patient evaluation and care
-- Custom orthotic device fitting
-- Custom prosthetic device fitting
-- Clinical follow-up and adjustment services
-
-## Industries
-- Healthcare
-- Orthotics and prosthetics
-- Medical professionals
-
-## Company details
-- **Company Type:** Installer / service company
-- **Ownership:** Subsidiary of Hanger Clinic
-- **Headquarters:** Rutland, Vermont
-
-<details><summary>Sources</summary>
-
-- Company name: Bio-Medic Appliances, Inc. -> page '/'
-- Headquarters: Rutland, Vermont -> page '/' and db
-- Additional clinic location: Essex Junction, Vermont -> page '/'
-- Acquired by Hanger Clinic -> page '/'
-- Provides orthotic and prosthetic clinical care -> page '/'
-- Two clinic addresses and phone numbers listed -> page '/'
-- Part of Hanger Clinic with nearly 160 years organizational history -> page '/'
-- Industries served: Medical Professionals -> db industries_served
-</details>
-
----
+_skipped: not enough facts_

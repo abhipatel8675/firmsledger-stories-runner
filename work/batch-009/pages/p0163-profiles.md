@@ -3,33 +3,31 @@
 **Old description:** Datacom Cable Supply is a Structured Cabling and Low Voltage Wire company who provides the supplies you need for Fiber, Bulk Cable, Telecom Rooms, Workstations, and Cable Management.  We are adding to our inventory everyday and working with the best suppliers in the industry.  We stand behind our products and they exceed industry standards.  Call for a quote today, you can't beat our pricing.
 
 ## About
-Based in Colorado Springs, Colorado, Datacom Cable Supply operates as a supplier of structured cabling and low-voltage wire products. The company maintains its headquarters in the 80917 ZIP code and lists Bill Jury as a primary contact. No founding year or ownership structure is disclosed in public materials.
+Datacom Cable Supply operates from Colorado Springs, Colorado in the 80917 ZIP code, where it supplies structured cabling and low‑voltage wire products. The company does not disclose a founding year or ownership structure; the contact email references Bill Jury, though his role is not specified in the available information.
 
-The company stocks and distributes a range of products for fiber optic systems, bulk cable, telecom room infrastructure, workstation connectivity, and cable management solutions. It describes its model as continuously expanding inventory while partnering with established suppliers in the industry to provide the supplies needed for end-to-end structured cabling projects.
+The firm stocks and sells components for fiber optic systems, bulk cable, telecom rooms, workstations, and cable management. It describes its model as continuously expanding inventory while partnering with established suppliers, indicating a distributor rather than a manufacturing operation. No facility size, headcount, or annual volume figures are published.
 
-Datacom Cable Supply serves customers involved in structured cabling and low-voltage installations, including contractors, system integrators, and IT professionals who require reliable connectivity components. The product offering spans from fiber patch cables and bulk copper cable to rack, enclosure, and pathway hardware for telecommunications spaces.
+The company serves customers building or maintaining structured cabling and low‑voltage installations, including telecommunications rooms and workstation environments. Specific industry verticals or named clients are not identified in the public material.
 
-The company states that its products exceed industry standards and emphasizes competitive pricing as a core value proposition, inviting prospective buyers to request quotes directly.
+Datacom Cable Supply states that its products exceed industry standards and emphasizes competitive pricing as a differentiator, inviting quote requests by phone or email.
 
 ## Known for
-- Products claimed to exceed industry standards
-- Competitive pricing emphasis
-- Continuously expanding inventory
-- Partnerships with established industry suppliers
+- Products exceed industry standards
+- Competitive pricing
+- Inventory expanded daily
+- Works with established suppliers
 
 ## Capabilities
 - Structured cabling product distribution
-- Low voltage wire distribution
-- Fiber optic product supply
+- Fiber optic cable supply
 - Bulk cable supply
 - Telecom room equipment supply
 - Workstation cabling supply
-- Cable management product supply
+- Cable management solutions
 
 ## Industries
 - Structured cabling
 - Low voltage wiring
-- Telecommunications
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -37,13 +35,12 @@ The company states that its products exceed industry standards and emphasizes co
 
 <details><summary>Sources</summary>
 
-- Headquarters in Colorado Springs, Colorado -> db
-- Address: 3415 Van Teylingen Dr, Colorado Springs, CO 80917 -> page:/
-- Contact: Bill Jury -> page:/
-- Product categories: Fiber, Bulk Cable, Telecom Rooms, Workstations, Cable Management -> page:/
-- Business model: inventory expansion and supplier partnerships -> page:/
-- Claim: products exceed industry standards -> page:/
-- Claim: competitive pricing -> page:/
+- Location: Colorado Springs, CO, 3415 Van Teylingen Dr, 80917 -> page '/'
+- Business description: Structured Cabling and Low Voltage Wire company providing supplies -> page '/'
+- Product categories: Fiber, Bulk Cable, Telecom Rooms, Workstations, Cable Management -> page '/'
+- Business model: adding to inventory daily, working with best suppliers -> page '/'
+- Contact: Bill Jury (email) -> page '/'
+- Claim: products exceed industry standards, competitive pricing -> page '/'
 </details>
 
 ---
@@ -53,23 +50,23 @@ The company states that its products exceed industry standards and emphasizes co
 **Old description:** Dawson Fabrication is a family owned business located just west of Peoria, Illinois. We have the capability to produce a number of manufactured components: plasma burned, formed and machined shapes, welded assemblies, and assembly ready piece parts.
 
 ## About
-Dawson Fabrication is a family-owned metal fabrication company based in Edwards, Illinois, just west of Peoria. The business has been operating for over 20 years and is now three generations deep, though the exact founding year and founder names are not publicly disclosed.
+Dawson Fabrication operates from Edwards, Illinois, just west of Peoria. The family-owned company has been in business for over two decades and is now three generations deep.
 
-The company produces plasma-burned, formed, and machined shapes, welded assemblies, and assembly-ready piece parts. Its 30,000-square-foot facility houses CNC machine centers and lathes, laser/plasma/oxy-fuel plate cutting, MIG/TIG/stick welding, brake presses, autofeed saws, a Scotchman punch, and robotic welding cells. Additional services include powder coating, inspection, on-site assembly, custom hydraulic line fabrication, and local delivery via company trucks. Dawson handles both one-off custom components and high-volume production runs.
+The shop produces manufactured components including plasma-burned, formed, and machined shapes, welded assemblies, and assembly-ready piece parts. Its 30,000-square-foot facility houses CNC machining centers and lathes (including HAAS machines), laser/plasma/oxy-fuel plate cutting, brake presses, saws, a Scotchman punch, and robotic welding cells. Processes cover MIG, TIG, and stick welding, powder coating, inspection, on-site assembly, and custom hydraulic line fabrication. The company handles both high-volume piece parts and one-of-a-kind custom components.
 
-The company serves a range of industrial customers requiring custom fabrication and volume production, though specific industry sectors are not listed on its website. Its capabilities suggest it supports sectors such as heavy equipment, agricultural machinery, and general industrial manufacturing.
+Dawson Fabrication serves a range of industrial customers needing custom fabrication and production runs, though specific sectors are not publicly listed. The company emphasizes the ability to accept DXF or AutoCAD files directly, reducing geometry recreation.
 
-Dawson emphasizes customer satisfaction, outstanding workmanship, on-time delivery, and competitive pricing as its core differentiators. The company cites its employees as its key strength, noting they understand the manufacturing business and the importance of satisfied customers. The recent move to an expanded facility reflects its growth trajectory.
+The business cites customer satisfaction, outstanding workmanship, on-time delivery, and competitive pricing as its guiding principles. Employees are described as the key strength, and the recent expansion to a larger facility underscores a commitment to capacity growth.
 
 ## Known for
-- Family-owned, three generations deep
-- Over 30,000 sq ft facility
-- Customer satisfaction, workmanship, on-time delivery, competitive pricing
-- Employees cited as key strength with deep manufacturing knowledge
-- Local delivery with company-owned trucks
+- Customer satisfaction, outstanding workmanship, on-time delivery, competitive pricing
+- Employees cited as key strength
+- Design and fabrication of one-of-a-kind custom components
+- Expanded facility over 30,000 sq ft
+- Accepts DXF/AutoCAD files directly to reduce geometry recreation
 
 ## Capabilities
-- CNC machining (milling and turning)
+- CNC machining
 - Laser cutting
 - Plasma cutting
 - Oxy-fuel cutting
@@ -78,22 +75,26 @@ Dawson emphasizes customer satisfaction, outstanding workmanship, on-time delive
 - Stick welding
 - Robotic welding
 - Brake pressing
-- Roll forming
-- Sawing / cold sawing
-- Scotchman punching
+- Rolling
+- Sawing
+- Cold sawing
+- Punching
 - Powder coating
 - Inspection / quality control
 - On-site assembly
 - Custom hydraulic line fabrication
+- DXF/AutoCAD file import
 - Local delivery
+- Shipping
 
 ## Equipment
+- HAAS CNC Machine Centers
 - Autofeed saws
 - Brake presses
-- Laser/plasma/oxy-fuel plate cutting systems
-- CNC machine centers and lathes
-- Scotchman punch
-- Robotic torch and weld cell
+- Laser/Plasma/Oxy-Fuel plate cutting system
+- CNC Machine Centers and Lathes
+- Scotchman Punch
+- Robotic welding torch
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -102,17 +103,18 @@ Dawson emphasizes customer satisfaction, outstanding workmanship, on-time delive
 
 <details><summary>Sources</summary>
 
-- Family-owned business located just west of Peoria, Illinois -> /, /about
-- In business over 20 years -> /about
-- Three generations deep -> /about
-- Facility over 30,000 square feet -> /about
-- Capabilities: plasma burned, formed and machined shapes, welded assemblies, assembly ready piece parts -> /
-- Capabilities list: CNC machining, plate cutting (laser, plasma, oxy-fuel), welding (MIG, TIG, stick), brake/roll, saw/cold saw, powder coating, inspection, on-site assembly, robotic welding, custom hydraulic lines, local delivery -> /capabilities
-- Equipment: autofeed saws, brake presses, laser/plasma/oxy-fuel plate cutting, CNC machine centers and lathes, Scotchman punch, robot torch and weld -> /capabilities
-- Customer satisfaction, outstanding workmanship, on-time delivery, competitive pricing -> /about
+- Family-owned business located just west of Peoria, Illinois -> /
+- In business over 20 years, now 3 generations deep -> /about
+- Expanded facility over 30,000 square feet -> /about
+- Capabilities: plasma burning, forming, machining, welding, assembly -> /
+- Equipment: HAAS CNC Machine Centers, Autofeed saws, Brake presses, Laser/Plasma/Oxy-Fuel plate cutting, CNC Machine Centers and Lathes, Scotchman Punch, Robotic welding torch -> /capabilities
+- Processes: CNC machining, laser cutting, plasma cutting, oxy-fuel cutting, MIG/TIG/stick/robotic welding, brake pressing, rolling, sawing, punching, powder coating, inspection, on-site assembly, custom hydraulic lines, DXF/AutoCAD file reading, local delivery -> /capabilities
+- Prides on customer satisfaction, outstanding workmanship, on-time delivery, competitive pricing -> /about
 - Employees are key strength -> /about
-- Machines metals and plastics -> db
-- Headquarters: Edwards, IL -> /, /about
+- Known for design and fabrication of one-of-a-kind custom components -> /about
+- Works with metals and plastics -> /
+- Local delivery with own trucks -> /capabilities
+- Capable of reading DXF or AutoCAD files -> /products
 </details>
 
 ---
@@ -122,33 +124,33 @@ Dawson emphasizes customer satisfaction, outstanding workmanship, on-time delive
 **Old description:** Home to more than 24 million laying hens, Daybreak Foods supplies eggs to some of the largest food-production companies in the world. We do so with a commitment to a safe environment for our team members and ethical conditions for our hens. We employ more than 1,200 people across the Midwest, with our headquarters in the charming lakeside town of Lake Mills, Wisconsin.
 
 ## About
-Daybreak Foods Inc is headquartered in Lake Mills, Wisconsin, and operates as a family-owned egg producer. The company does not disclose its founding year, but it has grown to become a major supplier of eggs and liquid egg products across the Midwest.
+Daybreak Foods operates from its headquarters in Lake Mills, Wisconsin, a lakeside community in the Midwest. The company is family-owned and employs more than 1,200 people across multiple facilities in the region.
 
-The company maintains more than 24 million laying hens and produces millions of eggs per day, most of which are processed into liquid egg. Daybreak raises hens in a variety of indoor systems, including cage-free environments, and employs more than 1,200 people across its Midwest operations.
+The company maintains a flock of more than 24 million laying hens and produces millions of eggs each day. Most of that output is processed into liquid egg, which is supplied to food-service distributors and retail manufacturers. Operations include a variety of indoor housing systems, among them cage-free environments, and the company emphasizes animal welfare and sustainability as core cultural values.
 
-Daybreak supplies eggs to some of the largest food-production companies in the world, with its liquid egg products serving the food service and retail industries. Its customer base includes major food manufacturers that incorporate egg ingredients into a wide range of consumer and industrial products.
+Daybreak Foods serves some of the largest food-production companies in the world, with its liquid egg products reaching the food-service and retail sectors. Customers include major food manufacturers that incorporate the ingredient into prepared foods and branded retail items.
 
-The company emphasizes a commitment to a safe workplace for its team members and ethical conditions for its hens. Animal welfare and sustainability are described as essential parts of its culture, and Daybreak works closely with regulatory agencies to meet and exceed ethical standards.
+The business was built on a commitment to a safe workplace for its team members and ethical conditions for its hens. Leadership states that it works closely with regulatory agencies to meet and exceed standards for animal care and food safety, differentiating itself through a family-owned culture that prioritizes long-term responsibility over short-term metrics.
 
 ## Known for
-- Family-owned with a focus on employee safety and hen welfare
-- Cage-free and indoor hen housing systems
-- Liquid egg processing at millions of eggs per day
-- Collaboration with regulatory agencies to raise ethical standards
-- Over 1,200 employees across Midwest operations
+- Family-owned ownership structure
+- Flock of more than 24 million laying hens
+- Daily production of millions of eggs processed into liquid egg
+- Cage-free and indoor housing systems for hen welfare
+- Collaboration with regulatory agencies to exceed animal-care standards
 
 ## Capabilities
-- Sustainable egg production
+- Egg production
 - Liquid egg processing
 - Cage-free hen housing
-- Indoor hen housing systems
-- Food safety compliance
 - Animal welfare management
+- Food safety compliance
+- Sustainable agriculture practices
 
 ## Industries
-- Food production
 - Food service
 - Retail
+- Food production
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -159,16 +161,18 @@ The company emphasizes a commitment to a safe workplace for its team members and
 <details><summary>Sources</summary>
 
 - Headquarters in Lake Mills, Wisconsin -> /
-- Family-owned company -> /
-- More than 1,200 employees across the Midwest -> /
+- Family-owned -> /
+- Employs more than 1,200 people across the Midwest -> /
 - More than 24 million laying hens -> /
-- Produces millions of eggs per day, most processed into liquid egg -> /
-- Supplies eggs to largest food-production companies -> /
-- Liquid egg products serve food service and retail industries -> /
-- Raises hens in indoor systems including cage-free environments -> /
-- Commitment to safe environment for team members and ethical conditions for hens -> /
-- Animal welfare and sustainability essential to company culture -> /
+- Produces millions of eggs per day -> /
+- Most eggs processed into liquid egg -> /
+- Supplies food service and retail industries -> /
+- Supplies largest food-production companies -> /
+- Uses cage-free environments -> /
 - Works with regulatory agencies to meet and raise ethical standards -> /
+- Commitment to safe environment for team members and ethical conditions for hens -> /
+- Employee count >1,200 -> db
+- Products: Sustainable Egg Production -> db
 </details>
 
 ---
@@ -178,50 +182,50 @@ The company emphasizes a commitment to a safe workplace for its team members and
 **Old description:** As a leader in structural foam molding, DeKALB recognizes the need to minimize tooling and part costs while protecting the part’s functional needs. We will help you balance productivity, cost, and function every step of the way.
 
 ## About
-DeKALB Molded Plastics operates from Butler, Indiana, where it has specialized in structural foam molding for more than 30 years. The company traces its roots to a founder and team committed to hard work and community involvement, though the founder’s name and exact founding year are not publicly disclosed. Ownership details such as family, veteran, or woman-owned status are not stated in available sources.
+Based in Butler, Indiana, DeKALB Molded Plastics has operated for over three decades as a custom structural foam molder. The company traces its roots to a founder and team dedicated to hard work and community involvement, though the founding year and founder's name are not publicly disclosed.
 
-The company focuses on large, multi-nozzle plastic components using structural foam injection molding and gas assist molding. Its press capacity spans 300 to 750 tons, supporting medium to large parts. In-house value-added operations include post-mold painting, plastic decorating, kitting, structural foam assembly, inventory management, fabrication, and labeling. Engineering support, advanced quality planning, statistical process control, and dimensional inspection round out the service offering.
+DeKALB specializes in large, multi-nozzle plastic products using structural foam molding and gas assist molding, with press capacities ranging from 300 to 750 tons. Its in-house value-added operations include post-mold painting, plastic decorating, kitting, assembly, inventory management, fabrication, and labeling. The company also offers custom injection molding, engineering support, and advanced quality planning with statistical process control.
 
-DeKALB serves the structural plastics industry across diverse end markets. Named customers include Sauder Manufacturing, T.H.E.M. International, Signature Fencing & Flooring, PolyFlex Products Inc., EnerSys, Trinity, Fuji, Invivo, and Follett, which has sourced molded components since 2002. These relationships span furniture, fencing, battery, and industrial equipment sectors.
+The company serves industrial markets and everyday household applications. Long-term customers include Sauder Manufacturing, Follett (a partner since 2002), EnerSys, Trinity, Fuji, Invivo, PolyFlex Products Inc., T.H.E.M. International, and Signature Fencing & Flooring, reflecting a base that spans furniture, material handling, battery, fencing, and medical sectors.
 
-DeKALB distinguishes itself as the first U.S. company to achieve ISO 9002 certification, now holding ISO 9001:2015. Its stated mission emphasizes quality products, responsive technical support, competitive pricing, and on-time delivery, underpinned by a community-forward culture that values long-term relationships and continuous improvement.
+DeKALB distinguishes itself as the first U.S. company to achieve ISO 9002 certification, now holding ISO 9001:2015. It emphasizes responsive customer service, direct engineering support, and innovative process control techniques to deliver medium-to-large components with flexibility. The firm's mission extends beyond on-time delivery to community giving and sustainable outcomes.
 
 ## Known for
 - First U.S. company to achieve ISO 9002 certification (now ISO 9001:2015)
-- Press capacity from 300 to 750 tons for medium to large components
+- Press capacity from 300 to 750 tons
 - In-house post-mold painting and plastic decorating
-- Direct engineering support and innovative process control techniques
-- Structural foam and gas assist molding expertise
+- Direct engineering support and innovative process control
+- Responsive customer service with expedited part capabilities
 
 ## Capabilities
-- Structural foam molding
-- Gas assist molding
-- In-house post-mold painting
-- Plastic decorating
+- Structural Foam Molding
+- Gas Assist Molding
+- Custom Injection Molding
+- In-house Post-Mold Painting
+- Plastic Decorating
 - Kitting
-- Structural foam assembly
-- Inventory management
+- Structural Foam Assembly
+- Inventory Management
 - Fabrication
 - Labeling
+- Engineering Support
 - Advanced Quality Planning (AQP)
-- Statistical process control
-- Gage R&R studies
-- Dimensional layout inspection
-- Gage measurement systems
-- Color measurement system
+- Statistical Process Control
+- Gage R&R Studies
+- Dimensional Layout
+- Color Measurement System
 
 ## Industries
-- Structural plastics
-- Furniture manufacturing
-- Fencing and flooring
-- Battery and energy storage
-- Industrial equipment
+- Industrial
+- Household/Consumer
+- Structural Plastics
 
 ## Equipment
-- Injection molding presses 300-750 tons
+- Presses ranging from 300 to 750 tons
 
 ## Certifications
 - ISO 9001:2015
+- ISO 9002 (first U.S. company)
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -230,14 +234,18 @@ DeKALB distinguishes itself as the first U.S. company to achieve ISO 9002 certif
 <details><summary>Sources</summary>
 
 - Location: Butler, Indiana -> db
-- Specialization: structural foam molding, gas assist molding -> /about
-- Certification: first US ISO 9002, now ISO 9001:2015 -> /about, /quality
-- Press capacity: 300-750 tons -> /about
-- Value-added services: painting, decorating, kitting, assembly, etc. -> /about
-- Testimonials from named customers (Sauder, Follett since 2002, etc.) -> /, /about
-- Mission: quality, responsive support, competitive pricing, on-time delivery -> /about
-- Materials: glass-filled, engineered resin, hot stamp structural foam -> /about
-- Quality methods: SPC, Gage R&R, AQP, dimensional layout, color measurement -> /quality
+- Over 30 years experience -> /about
+- First U.S. company to achieve ISO 9002 certification -> /about
+- ISO 9001:2015 certification -> /about, /quality
+- Presses range from 300 to 750 tons -> /about
+- Value-added services: in-house post-mold painting, plastic decorating, kitting, structural foam assembly, inventory management, fabrication, labeling -> /about
+- Processes: structural foam molding, gas assist molding, custom injection molding -> /, /about
+- Industries served: industrial market, everyday household applications -> /about
+- Customers: Sauder Manufacturing, Follett (since 2002), EnerSys, Trinity, Fuji, Invivo, PolyFlex Products Inc., T.H.E.M. International, Signature Fencing & Flooring -> /, /about
+- Engineering support and innovative process control -> /about
+- Quality methods: statistical process control, Gage R&R studies, Advanced Quality Planning, dimensional layout, color measurement system -> /quality
+- Materials: glass-filled structural foam, engineered resin structural foam, hot stamp structural foam plastics -> /about
+- Mission: more than customer satisfaction, ISO quality design expertise, on-time delivery, community giving -> /about
 </details>
 
 ---
@@ -247,26 +255,26 @@ DeKALB distinguishes itself as the first U.S. company to achieve ISO 9002 certif
 **Old description:** to see how we can help you package your products effectively.
 
 ## About
-Decker Packaging, Corp. was founded in 1956 in Council Bluffs, Iowa. The company describes itself as locally owned and has operated continuously for over six decades, building a reputation as a custom flexible packaging partner.
+Decker Packaging, Corp. has operated from Council Bluffs, Iowa since its founding in 1956. The locally owned company began as a packaging supplier and has remained under local ownership for more than six decades, building a reputation for reliable flexible packaging solutions.
 
-The company manufactures a range of flexible packaging products including custom printed bags, liners, tubing, roll stock, and film. Its services encompass custom printing, bag manufacturing, liner production, tubing, roll stock conversion, and film production, with additional package design services offered to clients.
+The company manufactures custom flexible packaging products including printed bags, liners, tubing, roll stock, and barrier films. Its services span custom printing, bag fabrication, liner production, tubing extrusion, and roll stock conversion for a range of packaging applications. The facility produces both stock and custom-order items for food, medical, and industrial customers.
 
-Decker Packaging serves industries such as agriculture, bakeries, carpet cleaners, medical, protein, and retail. The company highlights specific market segments including protein solutions, agricultural packaging, retail products, medical packaging, and bakery applications, indicating a diverse customer base across food, industrial, and healthcare sectors.
+Decker Packaging serves the protein, retail, agricultural, medical, and bakery sectors, as well as niche markets such as carpet cleaning. Customers include food processors, medical product manufacturers, and agricultural suppliers seeking flexible packaging solutions tailored to product protection and brand presentation.
 
-The company emphasizes its locally owned structure and focus on long-lasting relationships, stating it is available 24/7 to assist with custom packaging solutions. With over 60 years of experience, Decker Packaging positions its deep industry knowledge and commitment to partnership as key differentiators.
+The company emphasizes its local ownership and long-term relationship approach, offering 24/7 support for custom packaging projects and drawing on over 60 years of industry experience. SQF certification underscores its commitment to food safety and quality standards.
 
 ## Known for
-- Available 24/7 for custom packaging solutions
-- Locally owned with focus on long-lasting customer relationships
-- 60+ years of experience in flexible packaging
-- Custom printing solutions for brand differentiation
-- High-quality roll stock designed for versatility and efficiency
+- Locally owned and operated
+- 24/7 support for custom packaging projects
+- Over 60 years of packaging experience
+- SQF certified
+- Custom printing and flexible packaging fabrication
 
 ## Capabilities
 - Custom printing
-- Bag manufacturing
-- Liner manufacturing
-- Tubing production
+- Bag fabrication
+- Liner production
+- Tubing extrusion
 - Roll stock conversion
 - Film production
 - Package design services
@@ -290,15 +298,14 @@ The company emphasizes its locally owned structure and focus on long-lasting rel
 
 <details><summary>Sources</summary>
 
-- Founded 1956 -> db, homepage
-- Headquarters Council Bluffs, Iowa -> db, homepage
-- Certification SQF -> db
-- Services: Custom Printing, Bags, Liners, Tubing, Roll Stock, Film -> homepage
-- Industries served: Agriculture, Bakeries, Carpet Cleaners, Medical, Protein, Retail -> db, homepage
-- Locally owned company -> homepage
+- Founded 1956 -> db
+- Headquarters Council Bluffs, Iowa -> db
+- SQF certification -> db
+- Industries served: Agriculture, Bakeries, Carpet Cleaners, Medical, Protein, Retail -> db
+- Services: custom printing, bags, liners, tubing, roll stock, film -> homepage
+- Locally owned -> homepage
 - 60+ years experience -> homepage
-- Available 24/7 for custom solutions -> homepage
-- Package design services offered -> homepage
+- 24/7 custom project support -> homepage
 - LinkedIn URL -> db
 </details>
 
@@ -309,20 +316,20 @@ The company emphasizes its locally owned structure and focus on long-lasting rel
 **Old description:** This is who we are at Del-Tec Packaging. Our technical, account, production and support teams have decades of multi-industry experience. We provide packaging solutions of uncommon insight and value. We operate with a high level of transparency and commitment to doing the right thing. Let us help your company perform better.
 
 ## About
-Del-Tec Packaging was founded in 1986 by packaging engineers in Greenville, South Carolina. The company established its headquarters in nearby Greer and now operates three integrated production facilities in the Greenville area.
+Del-Tec Packaging was founded in 1986 by packaging engineers in Greenville, South Carolina. The founders recognized that the region's growing manufacturing sector would require more advanced packaging solutions to support automated production and complex supply chains. They built the company on a premise of exceptional engineering and design capabilities paired with a deep understanding of customers' products and end-to-end system needs.
 
-The company designs and fabricates custom foam and plastic packaging solutions, including returnable and expendable packaging, protective cases, inserts, and corrugated products. Its fabrication processes encompass water jet cutting, die cutting, CNC routing, automated pad cutting, heat welding, slitting, skiving, lamination, polyurethane sawing, convoluting, PSA application, sonic welding, and turnkey assembly and kitting.
+Today, Del-Tec operates three integrated production facilities in the Greenville area, serving customers nationwide and internationally. The company designs and fabricates custom foam and plastic packaging, including returnable solutions such as bulk bins, containers, crates, racks, dunnage, totes, partitions, reel packaging, shock pallets, and collapsible sleeve packs, as well as expendable packaging like CNC waterjet and die-cut inserts, end caps, edge protectors, corrugated boxes, and custom protective cases. Fabrication processes encompass water jet cutting, die cutting, CNC routing, automated pad cutting, heat welding, slitting, skiving, lamination, polyurethane sawing, convoluting, PSA application, sonic welding, and turnkey assembly and kitting.
 
-Del-Tec serves the automotive, aerospace, military and government, communications, electronics, medical, packaging distribution, and general manufacturing sectors. Customers range from OEMs to distributors requiring engineered packaging for complex supply chains.
+Del-Tec serves the automotive, aerospace, military/government, communications, electronics, medical, packaging distribution, and general manufacturing industries. The company's engineering team works with a range of materials including polyethylene (PE), cross-linked polyethylene (XLPE), expanded polyethylene (EPE), polyurethane (PU), plastic corrugated (PCORR), HDPE, UHMW, LDPE, and ABS, selecting each for optimal protection.
 
-The firm emphasizes engineering-led design, using advanced 3D modeling to balance protection, functionality, and cost. It highlights purpose-built fabrication methods, investment in advanced machinery and automation, and supplier economies of scale as the basis for its value proposition.
+Del-Tec differentiates itself through purpose-built fabrication methods, advanced machinery and automation, and economies of scale with material suppliers. The company emphasizes integrity, transparency, and a customer-first culture, aiming to deliver a total value proposition that combines technology leadership with cost-effectiveness.
 
 ## Known for
-- Engineering-led design with advanced 3D modeling
+- Exceptional engineering and design capabilities
+- Deep understanding of customer products and end-to-end systems
+- Pioneered the returnable packaging market
 - Purpose-built fabrication methods and production facilities
-- Advanced machinery and pioneering automation
-- Economies of scale with material suppliers
-- Tight-tolerance water jet cutting for intricate foam and plastic components
+- Advanced machinery and automation
 
 ## Capabilities
 - Water Jet Cutting
@@ -331,15 +338,14 @@ The firm emphasizes engineering-led design, using advanced 3D modeling to balanc
 - Automated Pad Cutting
 - Automated Heat Welding
 - Slitting, Skiving & Lamination
-- Polyurethane Saw Equipment
+- Polyurethane Sawing
 - Convoluting
 - PSA Application
 - Custom Case & Tote Assembly
 - Sonic Welding
 - Assembly & Kitting (Turn-Key)
-- Quality Assurance
 - Design & Engineering
-- Prototyping & Samples
+- Prototyping & Sampling
 
 ## Industries
 - Automotive
@@ -352,16 +358,16 @@ The firm emphasizes engineering-led design, using advanced 3D modeling to balanc
 - General Manufacturing
 
 ## Equipment
-- Water jet cutting
-- Die cutting
-- CNC routing
-- Automated pad cutting
-- Automated heat welding
-- Slitting/skiving/lamination
-- Polyurethane saw
-- Convoluting
-- PSA application
-- Sonic welding
+- Water jet cutting systems
+- Die cutting presses
+- CNC routers
+- Automated pad cutting equipment
+- Automated heat welding equipment
+- Slitting/skiving/lamination lines
+- Polyurethane saw equipment
+- Convoluting equipment
+- PSA application equipment
+- Sonic welding equipment
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -370,18 +376,15 @@ The firm emphasizes engineering-led design, using advanced 3D modeling to balanc
 
 <details><summary>Sources</summary>
 
-- Founded in 1986 by packaging engineers in Greenville, SC -> /about-us
-- Headquarters in Greer, SC -> db
-- Operates three integrated production facilities in Greenville area -> /about-us
-- Serves automotive, aerospace, military/government, communications, electronics, medical, packaging distribution, general manufacturing -> /about-us
-- Fabrication processes: water jet cutting, die cutting, CNC routing, automated pad cutting, heat welding, slitting, skiving, lamination, polyurethane sawing, convoluting, PSA application, sonic welding, assembly & kitting -> /capabilities
-- Offers design & engineering with advanced 3D modeling -> /capabilities
-- Provides prototyping & samples -> /services
-- Materials: PE, XLPE, EPE, PU, PCORR, HDPE, UHMW, LDPE, ABS, paper products, specialized foams, coatings -> /
-- Purpose-built fabrication methods and production facilities -> /about-us
-- Investment in advanced machinery and automation -> /about-us
-- Economies of scale with suppliers -> /about-us
-- Tight-tolerance water jet cutting for intricate components -> /capabilities
+- Founded in 1986 in Greenville, South Carolina by packaging engineers -> /about-us
+- Operates three integrated production facilities in the Greenville area -> /about-us
+- Serves automotive, aerospace, military/government, communications, electronics, medical, packaging distribution, general manufacturing -> /
+- Capabilities include water jet cutting, die cutting, CNC routing, automated pad cutting, automated heat welding, slitting, skiving & lamination, polyurethane sawing, convoluting, PSA application, custom case & tote assembly, sonic welding, assembly & kitting -> /capabilities
+- Materials: polyethylene (PE), cross-linked polyethylene (XLPE), expanded polyethylene (EPE), polyurethane (PU), plastic corrugated (PCORR), HDPE, UHMW, LDPE, ABS, special coatings and treatments -> /
+- Offers prototyping & sampling services -> /services
+- Design & engineering using advanced 3D modeling software -> /capabilities
+- Headquarters in Greer, South Carolina -> db
+- Company type: Manufacturer (fabricates custom foam & plastic packaging) -> /capabilities, /
 </details>
 
 ---
@@ -391,26 +394,25 @@ The firm emphasizes engineering-led design, using advanced 3D modeling to balanc
 **Old description:** Since 1954, our forte has been to support full line fabric stores with their sewing, notion and decorative trim needs. We offer promotions on a consistent basis, with prices meant to keep you competitive with the national chains.
 
 ## About
-Delaware Dry Goods Co. operates from Newark, Delaware, where it was founded in 1954. The company began as a supplier focused on supporting full-line fabric stores with sewing notions, decorative trims, and related products. Ownership details and founder names are not disclosed in public materials.
+Delaware Dry Goods Co has operated from Newark, Delaware since 1954. The company was established to serve full-line fabric stores with sewing notions, decorative trims, and related supplies, positioning itself as a wholesale partner for independent retailers.
 
-The firm functions as a wholesale distributor and importer, carrying brand-name sewing notions, quilting supplies, needlecraft products, and workroom supplies. Its catalog spans thread, interfacing, scissors, zippers, elastic, buttons, ribbons, and home-decor items. The company describes itself as America's largest distributor and importer in this category and serves thousands of independent fabric stores nationwide through an online ordering platform backed by a credit-application process.
+The company functions as a distributor and importer of brand-name sewing notions, quilting supplies, needlecraft products, and workroom supplies. Its catalog spans thread, interfacing, scissors, zippers, elastic, buttons, ribbons, and home-decor items. Delaware Dry Goods describes itself as America's largest distributor and importer in this category, supplying thousands of independent fabric stores nationwide through an online ordering system and a credit-application process for new accounts.
 
-Customers are primarily independent fabric retailers, quilting shops, and needlecraft stores seeking to maintain competitive margins against national chains. The business model is built around consistent promotions and pricing structured to help smaller retailers improve product mix and profitability.
+Its customer base consists primarily of independent fabric stores, quilting shops, and needlecraft retailers seeking to maintain competitive pricing against national chains. The company emphasizes consistent promotions and pricing structures designed to improve margins and product mix for these small-business buyers.
 
-The company states its differentiation lies in promotional programs designed to keep independent stores price-competitive with larger chains, a broad assortment of brand-name goods, and a streamlined account-activation workflow that enables first-time ordering once credit is approved.
+Delaware Dry Goods was founded to address the supply needs of independent fabric retailers, offering a consolidated source for notions and trims that allows smaller stores to access brand-name inventory without the purchasing power of large chains.
 
 ## Known for
-- Positions itself as America's largest distributor and importer of brand-name sewing notions and quilting supplies
-- Consistent promotions aimed at helping independent fabric stores compete with national chains
-- Serves thousands of independent fabric retailers nationwide
-- Online wholesale ordering with credit-application activation
+- Consistent promotional pricing to help independent stores compete with national chains
+- Consolidated wholesale source for brand-name sewing notions, quilting and needlecraft supplies
+- Online ordering with credit-account activation for qualified businesses
+- Self-described as America's largest distributor and importer in its category
 
 ## Capabilities
 - Wholesale distribution
 - Importing
-- Inventory management
-- Online B2B ordering
-- Credit terms for qualified businesses
+- Credit account management
+- Online ordering
 
 ## Industries
 - Fabric retail
@@ -428,12 +430,13 @@ The company states its differentiation lies in promotional programs designed to 
 
 - Founded 1954 -> db
 - Headquarters Newark, Delaware -> db
-- Business description as distributor/importer -> /
-- Product categories (thread, interfacing, scissors, zippers, elastic, buttons, quilting supplies, ribbons, needlecraft, home dec) -> /
-- Target customers: independent fabric stores -> /
-- Claim: America's largest distributor and importer -> /
-- Credit application and account activation process -> /
-- Address 1007 South Chapel Street, Newark, DE 19702 -> /
+- Business model: distributor and importer of sewing notions, quilting supplies, needlecraft products, workroom supplies -> /
+- Target customers: independent fabric stores, quilting shops, needlecraft retailers -> /
+- Product categories: thread, interfacing, scissors, zippers, elastic, buttons, ribbons, home decor -> /
+- Credit application required for new accounts -> /
+- Online ordering system available -> /
+- Claim: America's largest distributor and importer in category -> /
+- Address: 1007 South Chapel Street, Newark, DE 19702 -> /
 </details>
 
 ---
@@ -443,47 +446,47 @@ The company states its differentiation lies in promotional programs designed to 
 **Old description:** Delmarva Welding Company is absolutely spot on. Accurate, timely, professional, and reliable. They assisted me with some stuck parts that had to be torches out and the work went better than I could possibly have imagined. I will definitely use again when needed.
 
 ## About
-Delmarva Welding Company LLC was founded in April 2025 by Justin Land in Magnolia, Delaware. Land, the owner and operator, brought twelve years of welding experience to the venture, including three years as a Certified Welding Instructor. The business began with a focus on delivering quality workmanship and meeting customer expectations across a range of welding and fabrication needs.
+Delmarva Welding Company was founded in April 2025 by Justin Land in Magnolia, Delaware. Land brought twelve years of welding experience, including three years as a Certified Welding Instructor, to establish a shop focused on quality workmanship and meeting customer expectations.
 
-The shop provides heavy equipment repair, custom fabrication, structural steel welding, and pipe welding. Land’s background as an instructor informs the operation’s emphasis on precision and adherence to welding standards. While facility size and headcount are not disclosed, the service list covers both repair and new fabrication work for a variety of metal structures and components.
+The company provides welding and fabrication services, including structural steel welding, pipe welding, aluminum welding, custom fabrication, and heavy equipment repair. The shop handles both one-off custom jobs and recurring repair work for regional clients from its Magnolia location; no facility size or headcount figures are disclosed.
 
-Customers include individual boat owners and commercial equipment operators. Testimonials cite aluminum welding on a jon boat and repeated heavy equipment repairs for a fellow business owner, indicating a client base that spans marine, industrial, and agricultural sectors. The company also handles structural steel and piping projects for local contractors and manufacturers.
+Customers come from marine, heavy equipment, construction, and general industrial sectors. Examples include aluminum repairs on a jon boat, structural steel welding for construction projects, and restoring industrial equipment to working order for a fellow business owner. Testimonials highlight timely turnaround and professional communication.
 
-Land states the company was started to “produce quality work and meet customer expectations.” His certification as a welding instructor and the emphasis on timely delivery and attention to detail are presented as the core reasons customers return for both one-off repairs and ongoing fabrication contracts.
+Land states that the business was built on a commitment to high standards and timely delivery, aiming to produce quality work that meets or exceeds customer expectations.
 
 ## Known for
-- Focus on quality workmanship and meeting customer expectations
-- Timely delivery and attention to detail cited by customers
+- Certified Welding Instructor (CWI) on staff
+- Commitment to quality work and meeting customer expectations
+- Focus on high standards and timely delivery
 
 ## Capabilities
-- Heavy equipment repair
-- Custom fabrication
 - Structural steel welding
 - Pipe welding
+- Aluminum welding
+- Custom fabrication
+- Heavy equipment repair
 
 ## Industries
 - Marine
 - Heavy equipment
-- Structural steel
-- Piping
-- Industrial equipment
+- Construction
+- Industrial maintenance
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
 - **Founded:** 2025
-- **Ownership:** Owner/Operator Justin Land
 - **Headquarters:** Magnolia, Delaware
 
 <details><summary>Sources</summary>
 
-- Founded by Justin Land in April 2025 -> /about-us
-- Based in Magnolia, Delaware -> /about-us
-- Owner/Operator Justin Land -> /about-us
-- 12 years experience, 3 years as Certified Welding Instructor -> /about-us
+- Founded April 2025 by Justin Land -> /about-us
+- Based in Magnolia, Delaware -> /about-us, db
+- Specializes in welding and fabrication -> /about-us
 - Services: heavy equipment repair, custom fabrication, structural steel welding, pipe welding -> /about-us
-- Customer testimonial: jon boat aluminum welding -> /
-- Customer testimonial: equipment repair for business -> /
-- Company strives to produce quality work and meet customer expectations -> /about-us
+- 12 years experience, 3 years as Certified Welding Instructor -> /about-us
+- Aluminum welding on jon boat -> /
+- Equipment repair for business owner -> /
+- Strives to produce quality work and meet customer expectations -> /about-us
 </details>
 
 ---
@@ -493,22 +496,22 @@ Land states the company was started to “produce quality work and meet customer
 **Old description:** Born December 2009, Delta Furniture Mfg. started with humble beginnings in just under 75,000 square feet. Today we occupy over 310,000 sq. ft. with plans to continue to acquire more space for production and distribution
 
 ## About
-Founded in December 2009 in Pontotoc, Mississippi, Delta Furniture Mfg. began in a facility of just under 75,000 square feet. The company is led by President of Manufacturing Terry Wages, CFO Jeff Hamilton, Director of Marketing and Sales Chris Bray, and Office Manager Lynn Thacker, who oversees accounts receivable and customer service.
+Delta Furniture Mfg. was founded in December 2009 in Pontotoc, Mississippi. The company began in a facility of just under 75,000 square feet and has since expanded to over 310,000 square feet of production and distribution space. Ownership details and founder names are not publicly disclosed.
 
-Today the company occupies over 310,000 square feet dedicated to production and distribution, with plans to acquire additional space. The operation focuses on manufacturing promotional upholstery, handling both fabrication and logistics under one roof.
+The company manufactures promotional upholstery, serving as a one-stop resource for such products. Its current footprint of more than 310,000 square feet supports both production and distribution operations. Specific manufacturing processes, headcount, and annual volumes are not disclosed.
 
-Delta Furniture serves the promotional products sector, providing upholstered items for corporate and marketing campaigns. Its customers include promotional product distributors and retailers who rely on the company as a single source for upholstery needs.
+Delta Furniture primarily serves the promotional products industry, providing upholstered items for promotional use. Customer types and specific client examples are not listed in available sources.
 
-The company describes itself as a one-stop resource for quality promotional upholstery, highlighting its expanded manufacturing footprint and integrated production-to-distribution model as key advantages.
+The company emphasizes its role as a single source for quality promotional upholstery and highlights its steady facility growth since inception as a marker of its capacity to meet demand.
 
 ## Known for
-- Facility grew from under 75,000 to over 310,000 square feet
-- Specializes in promotional upholstery manufacturing
-- Integrated production and distribution operations
+- One-stop resource for quality promotional upholstery
+- Over 310,000 sq. ft. of production and distribution space
+- Facility expanded from under 75,000 sq. ft. at founding to current size
 
 ## Capabilities
 - Promotional upholstery manufacturing
-- Distribution
+- Warehousing and distribution
 
 ## Industries
 - Promotional products
@@ -520,14 +523,12 @@ The company describes itself as a one-stop resource for quality promotional upho
 
 <details><summary>Sources</summary>
 
-- Founded December 2009 -> db (description)
-- Started with under 75,000 sq ft -> db (description)
-- Now occupies over 310,000 sq ft -> db (description)
-- Plans to acquire more space for production and distribution -> db (description)
-- Headquarters: Pontotoc, Mississippi -> db (hq_city, hq_state_label) and page '/'
-- Leadership: Terry Wages (President of Manufacturing), Jeff Hamilton (CFO), Chris Bray (Director of Marketing and Sales), Lynn Thacker (Office Manager, Accounts Receivable and Customer Service) -> page '/'
-- Product: promotional upholstery -> page '/'
-- Company name: Delta Furniture Mfg. -> db (description) and page '/'
+- Founded December 2009 -> db
+- Started under 75,000 sq ft, now over 310,000 sq ft -> db
+- Headquartered in Pontotoc, Mississippi -> db
+- Manufactures promotional upholstery -> pages["/"]
+- Key personnel listed: Terry Wages, Jeff Hamilton, Chris Bray, Lynn Thacker -> pages["/"]
+- Positions as one-stop resource for quality promotional upholstery -> pages["/"]
 </details>
 
 ---
@@ -537,50 +538,49 @@ The company describes itself as a one-stop resource for quality promotional upho
 **Old description:** - Des Moines Steel founder Elmer Kunkel opened for business in 1991 with a commitment to providing customers with outstanding service and quality products at a reasonable price. His commitment serves as the core value of our business today. Our customers range from large construction companies, hobbyists, and artists to large manufactures providing products to companies throughout the world. Regardless of the purchase size, our customers rely on our team of dedicated and knowledgeable staff to provide their steel products and associated services of welding and custom fabrication.
 
 ## About
-Des Moines Steel opened in 1991 in Des Moines, Iowa, when founder Elmer Kunkel started the business on a commitment to outstanding service, quality products, and reasonable prices. That founding principle continues to guide the company today.
+Des Moines Steel was founded in 1991 by Elmer Kunkel in Des Moines, Iowa. Kunkel opened the business with a commitment to outstanding service, quality products, and reasonable pricing, a philosophy that continues to guide the company today.
 
-The company supplies a range of steel products and provides custom fabrication services including cutting, drilling, welding, and column fabrication. Customers can pick up orders at the facility Monday through Friday or use a local delivery service that covers a 25‑mile radius for a flat fee on qualifying orders. The shop also stocks bevel bars and other shapes for immediate purchase.
+The company supplies a range of steel products and provides in-house processing services including cutting, drilling, welding, and custom fabrication of columns and other structural components. Customers can purchase stock material for pickup or order fabricated parts to specification; the facility serves orders of any size, from single pieces for hobbyists to large volumes for industrial manufacturers.
 
-The customer base spans large construction firms, manufacturers that ship products worldwide, as well as individual hobbyists and artists. Whether the order is for a structural project or a small creative piece, the staff assists with material selection and custom quotes.
+Des Moines Steel serves a diverse customer base that spans construction contractors, manufacturing firms, artists, and individual hobbyists. Large construction companies and global manufacturers source structural steel and fabricated assemblies, while local artists and hobbyists buy smaller quantities for custom projects.
 
-Kunkel’s original emphasis on service, quality, and fair pricing remains the stated reason the business exists. The company highlights a price‑match policy and a loyalty program as extensions of that value proposition.
+The business was built on Kunkel's founding pledge to deliver reliable service and fair pricing. That commitment is reflected in offerings such as a local delivery program, a price-match policy, and a loyalty program for repeat buyers.
 
 ## Known for
-- Founding commitment to service, quality, and reasonable pricing
-- Flat‑rate local delivery within 25 miles on orders over $75
-- Price‑match guarantee on stocked items
+- Founding commitment to outstanding service, quality products, and reasonable pricing
+- Local delivery within 25-mile radius for orders over $75
+- Price-match policy on stocked items
 - Loyalty program for repeat customers
-- Knowledgeable staff assisting with material selection and custom quotes
 
 ## Capabilities
 - Cutting
 - Drilling
+- Welding
 - Custom Fabrication
 - Column Fabrication
-- Welding
-- Custom Quotes
+- Custom Quoting
+- Local Delivery
 
 ## Industries
 - Construction
 - Manufacturing
-- Hobbyist/DIY
-- Artistic Fabrication
+- Arts and Crafts
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Founded:** 1991
 - **Headquarters:** Des Moines, Iowa
 
 <details><summary>Sources</summary>
 
-- Founded 1991 by Elmer Kunkel -> db (description)
-- Headquarters Des Moines, Iowa -> db (hq_city, hq_state_label)
-- Services: cutting, drilling, custom fabrication, columns, welding -> db (capabilities, description)
-- Customers: construction companies, manufacturers, hobbyists, artists -> db (description)
-- Local delivery $65 within 25 miles on orders $75+ -> page (/)
-- Pickup hours Mon-Fri 8am-4:30pm -> db (products)
-- Price match policy -> page (/)
-- Loyalty program -> page (/)
+- Founded 1991 by Elmer Kunkel -> db description
+- Location Des Moines, Iowa -> db hq_city/hq_state
+- Services: cutting, drilling, welding, custom fabrication, columns -> db capabilities
+- Customer types: construction companies, manufacturers, hobbyists, artists -> db description
+- Local delivery $65 within 25 miles for orders $75+ -> homepage
+- Price match policy -> homepage
+- Loyalty program -> homepage
+- Pickup hours Mon-Fri 8am-4:30pm -> db products
 </details>
 
 ---

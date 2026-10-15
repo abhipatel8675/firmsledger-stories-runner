@@ -3,27 +3,34 @@
 **Old description:** designs and manufactures high-reliability discrete semiconductor solutions for demanding applications. From transient voltage suppressors and rectifiers to switching transistors and custom replacements, our products deliver consistent electrical performance and long-term dependability. Backed by decades of industry experience and rigorous quality standards, we support engineers and manufacturers with stable supply, responsive technical support, and components built to perform in real-world conditions.
 
 ## About
-New Jersey Semiconductor Products Inc. was established in 1957 and is headquartered in Springfield, New Jersey. The company operates from a two-story, 50,000-square-foot facility that houses its manufacturing, engineering, and inventory operations.
+New Jersey Semiconductor Products Inc. was established in 1957 and is headquartered in Springfield, New Jersey. The company operates from a two-story, 50,000-square-foot facility in Springfield, where it has built a reputation for producing highly reliable discrete devices over more than six decades.
 
-The firm designs and manufactures high-reliability discrete semiconductor devices, including transient voltage suppressors, rectifiers, switching transistors, Zener diodes, field-effect transistors, unijunction transistors, bridge rectifiers, and European-type equivalents. It also produces custom replacements and supports end-of-life device requirements. The facility maintains an extensive inventory to support same-day and short-lead-time shipments.
+The company designs and manufactures high-reliability discrete semiconductor devices, including Zener diodes, rectifiers, field-effect transistors (FETs), transient voltage suppressors (TVS), unijunctions, bridge rectifiers, and European-type devices. It maintains an extensive inventory of both current-production and end-of-life components, supported by on-site engineering and technical support.
 
-Its customer base spans military, avionics, industrial, and commercial markets worldwide. The company serves engineers and manufacturers who require stable supply, responsive technical support, and components built for demanding real-world conditions.
+Its products serve military, avionics, industrial, and commercial markets worldwide. Customers include engineers and manufacturers who require stable supply and responsive technical support for demanding applications.
 
-New Jersey Semiconductor differentiates itself through a library of both current-production and obsolete devices, a just-in-time delivery program, and on-site engineering support that helps customers select and qualify parts for critical applications.
+The company differentiates itself through a library of current and obsolete devices, a just-in-time delivery program, and same-day or short-lead-time shipping on most stocked items. These capabilities stem from decades of experience and a focus on consistent electrical performance and long-term dependability.
 
 ## Known for
-- Library of current-production and end-of-life devices
+- Same-day and short-lead-time delivery on most stocked items
 - Just-in-time delivery program
-- Same-day shipping on stocked items
+- Library of current-production and end-of-life devices
 - On-site engineering and technical support
-- 50,000 sq ft facility with extensive inventory
+- Over 50 years of discrete semiconductor manufacturing experience
 
 ## Capabilities
+- Discrete semiconductor design
 - Discrete semiconductor manufacturing
-- Custom semiconductor replacements
-- End-of-life device production
-- Just-in-time delivery
+- Zener diode production
+- Rectifier production
+- FET production
+- TVS production
+- Unijunction production
+- Bridge rectifier production
+- European-type semiconductor production
 - Engineering and technical support
+- Just-in-time delivery
+- End-of-life device sourcing
 
 ## Industries
 - Military
@@ -38,16 +45,18 @@ New Jersey Semiconductor differentiates itself through a library of both current
 
 <details><summary>Sources</summary>
 
-- Founded 1957 -> /about
-- Headquartered in Springfield, NJ -> /about
-- 50,000 sq ft two-story facility -> /about
+- Founded in 1957 -> /about
+- Headquartered in Springfield, New Jersey -> /about, db
+- Two-story 50,000-square-foot facility -> /about
+- Serves military, avionics, industrial, and commercial markets -> /about
 - Specializes in Zener diodes, rectifiers, FETs, TVS, unijunctions, bridges, European types -> /about
-- Serves military, avionics, industrial, commercial markets worldwide -> /about
-- Same-day and short lead time delivery on most items from extensive inventory -> /about
-- Just-in-time delivery program -> /about
 - On-site engineering and technical support -> /about
+- Just-in-time delivery program -> /about
+- Same-day and short lead time delivery on most items -> /about
+- Library of current-production and end-of-life devices -> /about
 - Designs and manufactures high-reliability discrete semiconductor solutions -> /
-- Custom replacements and end-of-life device support -> /about
+- Products include transient voltage suppressors, rectifiers, switching transistors, custom replacements -> /
+- Decades of industry experience and rigorous quality standards -> /
 </details>
 
 ---
@@ -57,31 +66,36 @@ New Jersey Semiconductor differentiates itself through a library of both current
 **Old description:** Custom Manufacturer of top-quality washers and components made from Teflon™/PTFE, Nylon, Vulcanized Fibre, Lexan, Phenolic, and MANY other plastics and stamping materials.
 
 ## About
-New Process Fibre Company, Inc. has operated from Greenwood, Delaware since its founding in 1927. The family-owned business began as a specialist in non-metallic stamping and die cutting, producing washers, spacers, gaskets, shims, and custom shapes for a range of customers.
+New Process Fibre Company, Inc. has operated from Greenwood, Delaware since its founding in 1927. The business remains family-owned, describing itself as a family business committed to improving products, maximizing quality, and maintaining cost-effectiveness.
 
-The company manufactures custom washers and components from a wide array of plastics and stamping materials, including Teflon/PTFE, nylon, vulcanized fibre, Lexan, phenolic, acetal (Delrin), G-10 FR4, Mylar, polyethylene, polypropylene, and UHMW. Its in-house capabilities cover non-metallic precision stamping, plastic extrusion, slitting, shearing, and die cutting, supported by a tool room equipped with wire EDM and CAD/CAM systems that allow the firm to build and maintain its own hard tooling.
+The company manufactures non-metallic washers, spacers, gaskets, shims, and custom shapes through stamping and plastic extrusion. All processes run under one roof: the firm extrudes its own thermoplastics, maintains an in-house tool room with wire EDM for custom tooling, and uses CAD/CAM for design. Services include slitting, shearing, and precision die cutting of materials such as PTFE, nylon, vulcanized fibre, Lexan, phenolic, acetal, G-10 FR4, and UHMW.
 
-New Process Fibre serves aerospace and military, appliances, automotive, electronics, HVAC, power tools, medical, and plumbing industries. Customers referenced by the company include Flotec, which uses its parts in oxygen manifold systems for tent hospitals; the University of Calgary; Knife & Gun Finishing Supplies; Tesla; Derby Fabricating Solutions; Mueller Die; and Klinger IGI.
+Customers span aerospace and military, appliances, automotive, electronics, HVAC, power tools, medical, and plumbing sectors. Named references include Flotec, which uses NPF parts for oxygen manifold systems in field hospitals; Tesla; the University of Calgary; Mueller Die; Klinger IGI; Knife & Gun Finishing Supplies; and Derby Fabricating Solutions.
 
-The company emphasizes its vertically integrated “under one roof” model, highlighting that it extrudes its own thermoplastics and maintains tool designs for the life of a program at no extra charge. Management states that the family business remains committed to improving products, maximizing quality, and maintaining cost-effectiveness through hard tooling that enables tighter production tolerances.
+New Process Fibre emphasizes vertical integration as a differentiator. It offers free maintenance of tool designs for the life of a program with a partial tooling charge, and its hard tooling, developed in-house, enables tighter production tolerances. The company also provides material selection guides and technical resources for engineers.
 
 ## Known for
 - In-house tool room with wire EDM for custom tooling
 - Extrusion of own thermoplastics
 - Free tool design maintenance for life of program
-- Hard tooling for tighter tolerances
+- Hard tooling for tighter production tolerances
+- Family-owned since 1927
 
 ## Capabilities
-- Non-metallic stamping
-- Plastic extrusion
+- Non-Metallic Stamping
+- Plastic Extrusion
 - Slitting
 - Shearing
-- Die cutting
-- Wire EDM tooling
+- Wire EDM Tooling
 - CAD/CAM
-- Precision stamping
-- Custom tooling fabrication
-- Tool design maintenance
+- Custom Die Cutting
+- Washer Manufacturing
+- Spacer Manufacturing
+- Gasket Manufacturing
+- Shim Manufacturing
+- Custom Shape Stamping
+- Thermoplastic Extrusion
+- Material Selection Guidance
 
 ## Industries
 - Aerospace & Military
@@ -98,7 +112,7 @@ The company emphasizes its vertically integrated “under one roof” model, hig
 
 ## Certifications
 - ISO 9001:2015
-- RoHS
+- ROHS
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -110,17 +124,17 @@ The company emphasizes its vertically integrated “under one roof” model, hig
 
 - Founded 1927 -> db
 - Headquarters Greenwood, Delaware -> db
-- Family-owned -> page /
-- ISO 9001:2015 certification -> page /
-- RoHS compliance -> db
-- Materials: Teflon/PTFE, Nylon, Vulcanized Fibre, Lexan, Phenolic, Acetal, G-10 FR4, Mylar, Polyethylene, Polypropylene, UHMW -> page /
-- Processes: non-metallic stamping, plastic extrusion, slitting, shearing, die cutting, wire EDM tooling, CAD/CAM -> page /
-- Industries: aerospace & military, appliances, automotive, electronics, HVAC, power tools, medical, plumbing -> page /
-- Customers: Flotec, University of Calgary, Knife & Gun Finishing Supplies, Tesla, Derby Fabricating Solutions, Mueller Die, Klinger IGI -> page /
-- In-house tool room with wire EDM -> page /
-- Extrusion of own thermoplastics -> page /
-- Free tool design maintenance for life of program -> page /
-- Hard tooling for tighter tolerances -> page /
+- Family-owned business -> homepage
+- ISO 9001:2015 certified -> homepage
+- ROHS compliant -> db
+- In-house tool room with wire EDM -> homepage
+- Extrudes own thermoplastics -> homepage
+- CAD/CAM capabilities -> homepage
+- Serves aerospace, military, automotive, electronics, HVAC, medical, plumbing, appliances, power tools -> homepage
+- Customers include Flotec, Tesla, University of Calgary, Mueller Die, Klinger IGI, Knife & Gun Finishing Supplies, Derby Fabricating Solutions -> homepage
+- Free tool design maintenance for life of program -> homepage
+- Hard tooling for tighter tolerances -> homepage
+- Materials: PTFE, Nylon, Vulcanized Fibre, Lexan, Phenolic, Acetal, G-10 FR4, Mylar, Polyethylene, Polypropylene, UHMW -> homepage
 </details>
 
 ---
@@ -130,57 +144,60 @@ The company emphasizes its vertically integrated “under one roof” model, hig
 **Old description:** New York Custom Interior Millwork is family-owned and has been in business for generations. We specialize in sophisticated and distinguished commercial and residential architectural custom woodwork. Our core values are synonymous with the quality and integrity of our craftsmanship and the foundation on which the company was built. New York Custom Interior Millwork is devoted to superior customer satisfaction and artisanal creations that beautify all interiors.
 
 ## About
-New York Custom Interior Millwork Corp. operates from Astoria, New York, tracing its roots to 1972 when Teddy Lagos opened a retail wood workshop on Manhattan's Fifth Avenue. The family-owned business expanded to a showroom and manufacturing plant in Long Island City before consolidating its current focus on high-end custom architectural woodwork. Today, Teddy's daughter Elizabeth Lagos-Molinari leads the company, bringing a master's degree in business and decades of hands-on experience to the operation.
+New York Custom Interior Millwork Corp. was founded in 1972 by Teddy Lagos, who opened a retail woodworking shop on Fifth Avenue in Manhattan. The family-owned business later expanded to a showroom and manufacturing plant in Long Island City before establishing its headquarters in Astoria, Queens. John’s University and working alongside her father. She now runs the company with her father serving as a mentor and consultant.
 
-The firm provides in-house design, fabrication, and installation for commercial and residential projects, running what it describes as a state-of-the-art facility capable of delivering all-in-one millwork solutions. Its scope covers sophisticated custom woodwork for interiors, with the capacity to handle complex finishes and materials beyond standard wood species. The shop serves as a single-source partner from concept through installation.
+The firm produces custom architectural millwork for high-end commercial and residential projects. Its capabilities span in-house design, fabrication, finishing, and installation, all performed in a state-of-the-art facility. The company works with wood as well as a range of non-wood architectural materials, offering complete turnkey solutions from concept through final fit-out.
 
-Clients include architects, interior designers, real estate developers, and construction management firms. Completed projects span stadiums, broadcast studios, luxury hotels, five-star restaurants, and high-end residential properties across the United States and internationally. The company's portfolio reflects a concentration on premium commercial hospitality and entertainment venues alongside bespoke residential commissions.
+Primary clients include architects, interior designers, real estate developers, and construction managers. The portfolio references work in stadiums, broadcast studios, luxury hotels, and five-star restaurants across the United States and internationally.
 
-The business was founded on a simple principle: create quality woodwork and treat people the way the founder would want to be treated. That ethos, described as a "Mom and Pop" approach to relationships, remains central to the company's identity. Leadership emphasizes craftsmanship integrity, personalized service, and the combination of traditional values with modern production capabilities as the foundation for long-term client partnerships.
+The founder’s original goal was to create quality woodwork while treating customers as he would want to be treated. That principle, combined with a commitment to craftsmanship and long-term relationships, remains the company’s stated differentiator.
 
 ## Known for
 - In-house design, fabrication, and installation under one roof
-- Over 50 years of continuous family ownership and operation
-- Established relationships with architects, designers, and developers
-- State-of-the-art facility for complex custom millwork
-- Single-source responsibility from concept to installation
+- Materials portfolio extending beyond wood to diverse architectural finishes
+- State-of-the-art production facility
+- Over 50 years of experience serving architects, developers, and contractors
+- Direct collaboration with facility management and design teams
 
 ## Capabilities
-- Architectural custom woodwork
+- Custom architectural millwork
 - In-house design and engineering
-- Millwork fabrication
-- Finish carpentry and installation
-- Commercial interior millwork
-- Residential interior millwork
-- Custom finish application
-- Project management and coordination
+- Fabrication
+- Finish application
+- Installation
+- Material sourcing and selection
+- Turnkey project management
 
 ## Industries
-- Commercial construction
-- Hospitality and entertainment venues
-- Luxury residential construction
-- Architectural design services
+- Architecture
+- Interior design
 - Real estate development
+- Construction
+- Hospitality
+- Sports venues
+- Entertainment venues
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Founded:** 1972
 - **Ownership:** Family-owned
 - **Headquarters:** Astoria, New York
 
 <details><summary>Sources</summary>
 
-- Founded 1972 by Teddy Lagos -> /about
-- Family-owned, Elizabeth Lagos-Molinari leadership -> /about
-- Headquarters Astoria, New York -> /about, db
-- In-house design, fabrication, installation -> /about
-- State-of-the-art facility -> /about
+- Founded in 1972 by Teddy Lagos -> /about
+- Family-owned -> db
+- Headquarters in Astoria, NY -> db
+- Elizabeth Lagos-Molinari assumed leadership -> /about
+- Specializes in custom architectural woodwork for commercial and residential projects -> db, /about
+- Offers in-house design, fabrication, installation -> /about
+- Works with wood and non-wood architectural materials -> /about
 - Serves architects, designers, developers, construction companies -> /about
-- Projects in stadiums, studios, hotels, five-star restaurants globally -> /about
+- Projects in stadiums, studios, hotels, restaurants globally -> /about
+- State-of-the-art facility -> /about
 - Over 50 years in business -> /about
-- Started as retail workshop on 5th Avenue Manhattan -> /about
-- Expanded to Long Island City manufacturing plant -> /about
-- Focus on high-end commercial and residential custom millwork -> /about
+- Core values: quality, integrity, craftsmanship -> db
+- Founder's goal: quality woodwork and treating people well -> /about
 </details>
 
 ---
@@ -190,66 +207,65 @@ The business was founded on a simple principle: create quality woodwork and trea
 **Old description:** Your trusted local partner for custom metalwork, structural steel fabrication, welding, and more. Serving New York and surrounding boroughs, we bring craftsmanship, precision, and reliability to every project — large or small.
 
 ## About
-New York Metal Fabricator operates from New York City, serving the five boroughs and surrounding areas. The locally owned and operated shop has been providing metal fabrication and welding services for over two decades, though a specific founding year is not published. No founder names are disclosed on the company's website.
+New York Metal Fabricator operates from New York City, serving the five boroughs and surrounding areas. The company describes itself as locally owned and operated, with over 20 years of industry experience. No founding year or founder names are disclosed.
 
-The company provides full-service custom metal fabrication, including structural steel fabrication (beams, columns, frames, trusses), architectural metalwork (facades, canopies, panels, artistic installations), custom railings and staircases (wrought iron, stainless steel, bronze), and NYC DOT-compliant outdoor dining structures for restaurants and bars. Its welding department offers MIG, TIG, and stick welding both in-shop and on-site via mobile units. Work is performed on steel, aluminum, copper, brass, bronze, wrought iron, and stainless steel, with capabilities spanning cutting, bending, welding, finishing, and installation. The shop follows a four-step process: consultation and design (including 3D modeling), fabrication, installation, and quality assurance.
+The shop provides full-service metal fabrication and welding, working with steel, aluminum, copper, brass, bronze, wrought iron, and stainless steel. Capabilities include custom metal fabrication, structural steel fabrication (beams, columns, frames, trusses), architectural metalwork (facades, canopies, panels), custom railings and staircases, and NYC DOT-compliant outdoor dining structures for restaurants and bars. Processes cover cutting, bending, MIG, TIG, and stick welding, both in-shop and mobile, followed by finishing and quality inspection of welds, dimensions, and surface finishes. The company also offers consultation, design with 3D modeling, fabrication, and installation.
 
-Customers range from architects, designers, and property owners to homeowners and hospitality operators. The firm has delivered dozens of outdoor dining structures since the city legalized curbside dining in 2020, and regularly supports residential, commercial, and industrial construction projects throughout New York City.
+Customers span residential, commercial, and industrial sectors. Architects, designers, and property owners commission decorative and structural pieces, while hospitality clients have received dozens of code-compliant outdoor dining structures since the city legalized curbside dining in 2020.
 
-The company emphasizes quality, experience, and personal service as its differentiators, promoting fast turnarounds without compromising quality, competitive pricing, and free estimates. All leads from the website are forwarded to JA VISUALS INC., which operates the referral platform.
+The firm emphasizes quality, experience, and personal service, citing fast turnarounds without compromising quality, competitive pricing, free estimates, and certified welding that meets code requirements.
 
 ## Known for
-- Locally owned and operated in New York City
 - Over 20 years of industry experience
-- Full-service fabrication with both in-shop and mobile welding (MIG, TIG, stick)
+- Full-service metal fabrication and welding under one roof
 - NYC DOT-compliant outdoor dining structures delivered since 2020
-- Free estimates and competitive pricing
+- Certified MIG, TIG, and stick welding with mobile and in-shop options
+- End-to-end process from consultation and 3D design through installation and quality assurance
 
 ## Capabilities
 - Custom metal fabrication
 - Structural steel fabrication
 - Architectural metalwork
-- Railings and staircases fabrication
-- Outdoor dining structures fabrication
+- Metal railings and staircases fabrication
+- Outdoor dining structure fabrication
 - MIG welding
 - TIG welding
 - Stick welding
-- Mobile welding services
-- In-shop welding services
+- Mobile welding
+- In-shop welding
 - Metal cutting
 - Metal bending
 - Metal finishing
-- Installation services
 - Design consultation
 - 3D modeling
+- Installation services
 - Quality inspection
 
 ## Industries
-- Residential construction
-- Commercial construction
-- Industrial construction
-- Architecture and design
-- Restaurant and hospitality
+- Residential
+- Commercial
+- Industrial
+- Architectural
+- Hospitality
 - Property management
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Other
 - **Ownership:** Locally owned and operated
 - **Headquarters:** New York, NY
 
 <details><summary>Sources</summary>
 
-- Headquarters: New York, NY -> db
+- Located in New York City -> db
+- Over 20 years of industry experience -> /
 - Locally owned and operated -> /
-- Over 20 years industry experience -> /
 - Services: custom metal fabrication, structural steel, architectural metalwork, railings/staircases, outdoor dining structures -> /
-- Welding: MIG, TIG, stick; mobile and in-shop -> /
 - Materials: steel, aluminum, copper, brass, bronze, wrought iron, stainless steel -> /
-- NYC DOT compliant outdoor dining structures since 2020 -> /
-- Process: consultation/design, fabrication, installation, quality assurance -> /
-- Customer types: architects, designers, property owners, homeowners, restaurants/bars -> /
-- Free estimates, competitive pricing, fast turnarounds -> /
-- Leads sent to JA VISUALS INC. -> /services
+- Processes: cutting, bending, MIG/TIG/stick welding, mobile and in-shop, finishing, quality inspection -> /
+- Industries: residential, commercial, industrial, architects, designers, property owners, restaurants/bars -> /
+- NYC DOT-compliant outdoor dining structures since 2020 -> /
+- End-to-end process: consultation, 3D design, fabrication, installation, quality assurance -> /
+- Referral website disclaimer: leads sent to JA VISUALS INC. -> /services
 </details>
 
 ---
@@ -259,45 +275,49 @@ The company emphasizes quality, experience, and personal service as its differen
 **Old description:** New York Woodwork is proud of its accomplishments and continues to strive to be the best in custom cabinetry.  By working directly with homeowners, as well as architects and designers, we create a one-of-a-kind custom design that will not only last a lifetime but will be a work of enduring beauty.
 
 ## About
-New York Woodwork operates from a workshop in Brooklyn, New York. The company was founded in 1997 with the goal of designing and handcrafting custom cabinetry for discerning clients. While the website also references a 1995 start date, the founding year is explicitly stated as 1997 on the About page. No founders are named, and ownership structure is not disclosed.
+New York Woodwork operates from a workshop in Brooklyn, New York, where it was founded in 1997 with the goal of designing and handcrafting custom cabinetry for discerning clients. The company remains privately held and works directly with homeowners, architects, and designers to create one-of-a-kind woodwork.
 
-The firm designs, manufactures, and installs custom woodwork including cabinets, countertops, kitchen islands, bathroom vanities, walk-in closets, doors, and built-in furniture. It also offers ready-made cabinetry that can be customized to specific dimensions. Finishes range from paint and stain to thermofoil, Formica, and lacquer. Projects are managed end-to-end, from demolition through installation, with an in-house project manager coordinating trades. The Brooklyn workshop houses a team of craftspeople, though headcount and facility size are not published.
+The firm designs, manufactures, and installs custom cabinets, countertops, kitchen islands, bathroom vanities, walk-in closets, built-in furniture, and media centers. Its Brooklyn facility handles custom wood finishes including paint, thermofoil, Formica, stain, and lacquer. Beyond fabrication, the company provides end-to-end project management that covers demolition, reconstruction, and coordination of trades such as plumbing and electrical. It also supplies ready-made cabinetry that can be customized to specific dimensions for architects and builders ordering in bulk.
 
-Clients include homeowners, architects, and interior designers, as well as developers of multi-unit condominiums and commercial properties. The portfolio spans restaurants, hospitals, hair salons, hotels, offices, and government facilities such as the NYPD. Notable past clients also include major department stores and business executives. The company serves the East Coast and has attracted repeat business from clients who return for second or third projects.
+Clients range from individual homeowners and apartment residents to multi-unit condominiums and commercial developers. Notable projects have included work for the NYPD, major department stores, restaurants, hospitals, hair salons, and hotels across the East Coast. The company frequently collaborates with architects and designers who require detailed millwork for residential and commercial spaces.
 
-New York Woodwork emphasizes unparalleled customer service, the ability to custom-match wood grain to existing interiors, and quick turnaround times. It promotes competitive pricing, honesty, and attention to detail as differentiators. The firm has earned the Best of Houzz Badge for Service in 2015 and 2016 and was named a Top Vendor of 2015 by LandlordStation.com. A free design consultation is offered either in the showroom or by phone.
+New York Woodwork emphasizes a dedicated project manager for every job, custom wood-grain matching, and a free design consultation either in its showroom or by phone. The company states that its proposals include detailed costs for both design and production, and that typical kitchen or bathroom renovations take three to six months, excluding structural changes requiring permits.
 
 ## Known for
+- End-to-end solutions from demolition through installation
+- Dedicated project manager oversees every phase of the project
 - Custom wood-grain matching to existing interiors
-- End-to-end project management from demolition to installation
-- Free design consultation (showroom or phone)
-- Award-winning service (Houzz 2015, 2016; LandlordStation Top Vendor 2015)
-- Quick turnaround on custom fabrication
+- Ready-made cabinetry customized to dimensions for bulk orders
+- Free design consultation in showroom or by phone
 
 ## Capabilities
-- Custom cabinetry
-- Countertop fabrication
-- Kitchen island construction
-- Bathroom cabinetry
-- Walk-in closet systems
-- Custom furniture & built-ins
+- Custom cabinetry design
+- Custom woodworking manufacturing
+- Installation of cabinets and millwork
+- Project management (demolition to installation)
 - Custom wood finishes (paint, thermofoil, Formica, stain, lacquer)
-- Project management
-- Demolition & reconstruction
-- Installation
-- Design consultation
+- Custom furniture and built-ins fabrication
+- Kitchen island fabrication (fixed and mobile)
+- Bathroom cabinetry fabrication
+- Walk-in closet systems
+- Countertop fabrication
+- Shelving and media center fabrication
+- Home office built-ins
 - Ready-made cabinetry customization
+- Architect and builder collaboration
+- Trade coordination (plumbing, electrical, HVAC)
+- Demolition and removal
+- Reconstruction and remodeling
 
 ## Industries
-- Residential (homeowners)
-- Architecture & Design
-- Multi-family residential (condominiums)
-- Commercial construction
+- Residential (homeowners, apartments)
+- Multi-unit condominiums
+- Commercial development
 - Hospitality (restaurants, hotels)
 - Healthcare (hospitals)
-- Retail (department stores)
+- Retail (department stores, hair salons)
 - Government (NYPD)
-- Salons & Spas
+- Architecture and design firms
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -306,23 +326,21 @@ New York Woodwork emphasizes unparalleled customer service, the ability to custo
 
 <details><summary>Sources</summary>
 
-- Company name: New York Woodwork -> db
-- Location: Brooklyn, NY -> db, /
-- Founded 1997 -> /about
-- Founded 1995 mentioned -> /
-- Custom cabinetry, woodworking services -> /about, /services
-- Workshop in Brooklyn -> /about
-- Services list (cabinets, countertops, islands, etc.) -> /about, /services
-- Industries served: homeowners, architects, designers, condominiums, commercial, restaurants, hospitals, salons, hotels, offices, NYPD, department stores -> /about
-- Awards: Best of Houzz Badge 2015, 2016; Top Vendor 2015 -> /, /services
-- Free design consultation -> /about
-- Project management, demolition to installation -> /services
-- Ready-made cabinetry customized -> /about
-- Finishes: paint, thermofoil, Formica, stain, lacquer -> /services
-- Quick turnaround time claim -> /about
-- Competitive pricing, honesty, attention to detail -> /about
-- Repeat clients, referrals -> /about
-- Company type: manufacturer (custom-made cabinets made to dimensions) -> /services
+- Founded in 1997 -> /about
+- Headquartered in Brooklyn, NY -> /, /about
+- Workshop located in Brooklyn, NY -> /about
+- Custom cabinetry design, manufacturing, and installation -> /about, /services
+- End-to-end project management including demolition and trade coordination -> /about, /services
+- Services: cabinets, countertops, kitchen islands, bathroom cabinetry, walk-in closets, custom furniture, built-ins -> /about
+- Custom wood finishes: paint, thermofoil, Formica, stain, lacquer -> /services
+- Ready-made cabinetry customized to dimensions for architects and builders -> /about
+- Clients include homeowners, architects, designers, multi-unit condominiums, commercial developments, NYPD, major department stores, restaurants, hospitals, hair salons, hotels -> /about, /services
+- Project timeline: 3-6 months for kitchen/bath remodel -> /about
+- Dedicated project manager for each project -> /about
+- Free design consultation in showroom or by phone -> /about
+- Best of Houzz Badge for Service 2015, 2016 -> /, /services
+- Top Vendor 2015 by LandlordStation.com -> /, /services
+- Address: 1259 Atlantic Avenue, Brooklyn, NY 11216 -> /
 </details>
 
 ---
@@ -332,37 +350,43 @@ New York Woodwork emphasizes unparalleled customer service, the ability to custo
 **Old description:** Newonics is a Utah based electronics contract manufacturer. Whether you are just starting a new project or looking for a new manufacturing partner we can meet your manufacturing needs with our expertise in:
 
 ## About
-Newonics is an electronics contract manufacturer headquartered in Salt Lake City, Utah. The privately held company does not publicly disclose its founding year or ownership structure, but it operates as a dedicated partner for printed circuit board and finished product assembly.
+Newonics operates from Salt Lake City, Utah, as an electronics contract manufacturer. The company’s founding year and ownership structure are not publicly disclosed.
 
-The company provides a full suite of electronics manufacturing services, including surface-mount (SMT) and through-hole assembly, hand soldering, wave soldering, PCB layout and design, cable and wire harness fabrication, and quick-turn prototyping. It also offers conformal coating, rework, and in-house inspection capabilities such as automated optical inspection (AOI), X-ray, and endoscope inspection for complex components like BGAs and lead-free packages. Newonics works on both a turnkey basis, sourcing all materials, and a consigned basis, using customer-supplied parts.
+The shop provides a range of electronic manufacturing services, including surface-mount (SMT) and through-hole assembly, hand soldering, wave soldering, printed circuit board layout and design, cable and wire harness fabrication, and quick-turn prototyping. It also offers automated optical inspection (AOI), X-ray and endoscope inspection for complex components such as BGAs, as well as conformal coating and rework. Production is available on both a turnkey and a consigned basis for printed circuit board assemblies and finished products. The company organizes its offerings into design, prototype, production, quality, and materials support functions.
 
-Newonics serves customers across the electronics sector, from startups initiating new projects to established firms seeking a reliable manufacturing partner. The company encourages client involvement during first-article runs and testing to fine-tune production processes.
+Newonics serves customers requiring printed circuit board and finished product assembly, though specific industry sectors are not listed in its public materials.
 
-A stated differentiator is the company's multi-layered inspection regimen: every assembly passes through three inspection stages, with AOI supplemented by X-ray and endoscope methods for components that are difficult to inspect optically. This focus on verification aims to identify issues before they reach the customer.
+The company emphasizes its expertise across the listed processes and its inspection capabilities, but does not publish a distinct founding mission or differentiator statement.
 
 ## Known for
-- Quick-turn prototype service
 - Turnkey and consigned manufacturing options
-- In-house AOI, X-ray, and endoscope inspection
-- Conformal coating and rework capabilities
+- Quick-turn prototype service
+- AOI, X-ray, and endoscope inspection capabilities
+- Conformal coating and rework services
+- In-house PCB layout and design
 
 ## Capabilities
 - SMT Assembly
-- Thru Hole Assembly
+- Through-Hole Assembly
 - Hand Soldering
 - Wave Soldering
 - PCB Layout and Design
 - Cable and Wire Harness Assembly
-- AOI Inspection
+- Automated Optical Inspection (AOI)
 - X-Ray Inspection
 - Endoscope Inspection
-- Quick-turn Prototypes
+- Quick-Turn Prototyping
 - Conformal Coating
 - Rework
 
+## Equipment
+- AOI system
+- X-Ray inspection system
+- Endoscope inspection system
+
 ## Certifications
-- ISO9001
-- ROHS
+- ISO 9001
+- RoHS
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -370,12 +394,12 @@ A stated differentiator is the company's multi-layered inspection regimen: every
 
 <details><summary>Sources</summary>
 
-- Headquarters: Salt Lake City, Utah -> db
+- Location: Salt Lake City, Utah -> db
+- Business type: electronics contract manufacturer -> /
 - Services: SMT Assembly, Thru Hole, Hand Soldering, Wave Soldering, PCB Layout and Design, Cable and Wire Harness, AOI & X-Ray Inspection, Quick turn Prototypes, Conformal Coating, Rework -> /
+- Manufacturing basis: turnkey and consigned for PCB and finished product assembly -> /
 - Certifications: ISO9001, ROHS -> db
-- Contract manufacturing on turnkey and consigned basis -> /
-- Company type: electronics contract manufacturer -> /
-- Inspection processes: three inspection stages, AOI, X-ray, endoscope for BGAs and lead-free components -> /
+- Inspection equipment: AOI, X-Ray, Endoscope -> / and db
 </details>
 
 ---
@@ -385,46 +409,45 @@ A stated differentiator is the company's multi-layered inspection regimen: every
 **Old description:** Custom injection molding of plastics & other services including engineering Auto CAD, Master CAM, standard, aluminum & class A tooling, class 7 & 8 cleanroom, product development, secondary operations including sonic welding, silk screening, hot stamping, pad printing, assembly, long & short runs, decorating, medical
 
 ## About
-Newport Plastics LLC operates from Brea, California, where it was founded in 1976. The company has spent over five decades serving Southern California’s manufacturing base.
+Newport Plastics LLC is a family-owned custom injection molding company based in Brea, California. Founded in 1976, the business has operated in the Southern California region for over five decades.
 
-The shop specializes in custom injection molding using vertical and horizontal presses ranging from 30 to 500 tons, with barrel capacities of 1.5 to 10 ounces. It processes standard and engineering-grade resins, including thermoplastic elastomers and reinforced or filled polymers. In-house capabilities span CNC/EDM machining, stereolithography 3D printing, mold design and tooling, and Class 7 and 8 cleanroom production. Secondary operations include ultrasonic welding, pad printing, hot stamping, silk screening, assembly, decorating, packaging, and shipping. The company also provides engineering services such as prototype development, product design assistance, reliability analysis, material selection, and packaging design using AutoCAD and MasterCAM.
+The company provides custom injection molding of plastics using horizontal and vertical presses ranging from 30 to 500 tons, with barrel capacities from 1.5 to 10 ounces. It runs standard and engineering-grade resins, including prime and recycled materials. In-house capabilities encompass mold design and tooling (standard, aluminum, and class A), CNC/EDM machining, 3D printing, and Class 7 and 8 cleanroom production and assembly. Secondary operations include ultrasonic welding, silk screening, hot stamping, pad printing, assembly, decorating, packaging, and shipping. The shop handles prototype through production volumes, both short and long runs.
 
-Newport Plastics serves the medical, telecommunications, aerospace, and consumer-products industries, as well as the promotional-products market. Customers range from OEMs requiring cleanroom-assembled medical components to brands seeking domestic alternatives to overseas promotional-item manufacturing.
+Newport Plastics serves the medical, telecommunications, aerospace, and consumer products industries, as well as customers seeking promotional items. The company positions itself as an alternative to overseas manufacturing for promotional products.
 
-The company emphasizes its one-stop-shop model: all tooling, molding, secondary operations, and logistics occur on site, enabling quick turnaround on quotes and production, close customer involvement during development, and reduced shipping costs compared with offshore sources.
+The company emphasizes its one-stop-shop model, with all tooling, production, and shipping performed on-site to enable quick turnaround, close customer collaboration, and reduced shipping costs. It highlights personalized service, on-time delivery, and adherence to ISO standards.
 
 ## Known for
-- All tooling, molding, secondary operations, and shipping performed in-house
+- All tooling, production, and shipping performed in-house
+- Quick turnaround on tooling and part quotations
 - Class 7 and 8 cleanroom production and assembly
-- Vertical and horizontal injection molding presses from 30 to 500 tons
-- Quick turnaround on tooling and parts quotations
-- Secondary operations including ultrasonic welding, pad printing, hot stamping, and silk screening
+- ISO standards applied
+- Personalized service with on-time delivery
 
 ## Capabilities
 - Custom injection molding
-- Vertical injection molding
 - Horizontal injection molding
+- Vertical injection molding
 - CNC/EDM machining
-- Stereolithography (3D printing)
-- Cleanroom production (Class 7 & 8)
-- Product development
-- Prototype product development
-- Product design assistance
+- 3D printing (stereolithography)
 - Mold design
-- Reliability analysis
-- Material selection assistance
-- Packaging design assistance
-- AutoCAD/CAM design
-- In-house tooling
-- Assembly
-- In-house production
+- Tooling (standard, aluminum, class A)
+- Cleanroom production (Class 7 & 8)
 - Ultrasonic welding
-- Pad printing
-- Hot stamping
 - Silk screening
+- Hot stamping
+- Pad printing
+- Assembly
 - Decorating
 - Packaging
 - Shipping
+- Product development
+- Prototype product development
+- Product design assistance
+- Reliability analysis
+- Material selection assistance
+- Packaging design assistance
+- AutoCAD/CAM
 
 ## Industries
 - Medical
@@ -434,32 +457,38 @@ The company emphasizes its one-stop-shop model: all tooling, molding, secondary 
 - Promotional products
 
 ## Equipment
-- 30-500 ton vertical and horizontal injection molding presses
+- 30-500 ton horizontal and vertical injection molding presses
 - CNC/EDM machines
-- Stereolithography 3D printer
+- 3D printing (stereolithography)
+- AutoCAD/CAM systems
+
+## Certifications
+- ISO standards
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Founded:** 1976
+- **Ownership:** Family-owned
 - **Headquarters:** Brea, California
 
 <details><summary>Sources</summary>
 
-- Founded in 1976 -> db
-- Headquarters in Brea, California -> db
-- Custom injection molding with 30-500 ton presses -> /capabilities
-- Vertical and horizontal molding -> /capabilities
-- Barrel capacities 1.5 to 10 ounces -> /capabilities
-- Standard and engineering grade resins, thermoplastic elastomers, reinforced/filled resins -> /capabilities
+- Founded 1976 -> db
+- Headquarters Brea, California -> db
+- Family-owned -> /about-us
+- Custom injection molding with 30-500 ton presses -> /about-us, /capabilities
+- Horizontal and vertical injection molding -> /capabilities
 - CNC/EDM machining -> /capabilities, /services
-- Stereolithography 3D printing -> /capabilities, /services
-- Class 7 and 8 cleanroom production -> /, /capabilities
-- Secondary operations: ultrasonic welding, pad printing, hot stamping, silk screening, assembly, decorating, packaging, shipping -> /, /capabilities
-- Engineering services: prototype development, product design assistance, mold design, reliability analysis, material selection, packaging design, AutoCAD/CAM -> /, /services
-- Industries served: medical, telecommunications, aerospace, consumer products, promotional products -> /capabilities, /services
-- One-stop-shop model with in-house tooling, production, assembly, shipping -> /capabilities, /services
-- Quick turnaround on tooling/parts quotations -> /capabilities, /services
-- Use of ISO standards (unspecified) -> /
+- 3D printing (stereolithography) -> /capabilities, /services
+- In-house tooling (standard, aluminum, class A) -> /about-us, /capabilities
+- Class 7 & 8 cleanroom production and assembly -> /about-us, /capabilities
+- Secondary operations: ultrasonic welding, silk screening, hot stamping, pad printing, assembly, decorating, packaging, shipping -> /about-us, /capabilities, /services
+- Prototype to production volumes, short and long runs -> /capabilities, /services
+- Industries: medical, telecommunications, aerospace, consumer products, promotional products -> /capabilities, /services
+- ISO standards used -> /about-us, /services
+- Materials: standard/engineering grade resins, prime/recycled plastics, thermoplastic elastomers, reinforced/filled resins -> /about-us, /capabilities
+- One-stop-shop model with quick turnaround -> /services, /capabilities
+- Personalized service, on-time delivery -> /about-us, /services
 </details>
 
 ---
@@ -469,66 +498,52 @@ The company emphasizes its one-stop-shop model: all tooling, molding, secondary 
 **Old description:** Beware of Emails selling expensive Medical Equipment. We only sell Respiratory equipment to end users and patients. Someone is using our name and information illegally. DO NOT respond to any emails ending in @gmail.com Our emails all end in @newtec.me
 
 ## About
-Newtec Medical Equipment LLC operates from Toms River, New Jersey. The company was founded by Marc Gordon, a certified respiratory therapist who began his career in 1985 delivering oxygen and medical equipment to home patients. After completing respiratory school in 1994, Gordon established Newtec ME to address shrinking patient access to new respiratory technology caused by declining insurance reimbursements.
+Newtec Medical Equipment LLC operates from Toms River, New Jersey. The company was founded by Marc Gordon, a certified respiratory therapist (CRT) who began his career in 1985 delivering oxygen and medical equipment to home patients. After completing respiratory school in 1994, Gordon launched Newtec ME to address the gap left by declining insurance reimbursements that limited patient access to newer respiratory technologies.
 
-The firm retails a range of home respiratory devices, including portable oxygen concentrators, CPAP machines such as the AirMini and ResMed AirSense 11, CPAP masks, nebulizers, and related supplies. A licensed respiratory therapist on staff provides equipment demonstrations, training, and follow-up support, with evening and weekend appointments available. The company also runs a trade-in program that lets customers exchange functional portable oxygen concentrators for newer models.
+The business retails a range of home respiratory devices, including portable oxygen concentrators, CPAP masks, nebulizers, and related oxygen supplies. A licensed respiratory therapist conducts in‑store demonstrations of portable concentrators, and the company offers a trade‑in program that allows customers to exchange a functional concentrator for a newer model. Prescription handling is streamlined through an online upload tool, and staff can coordinate directly with physicians to obtain required documentation.
 
-Newtec sells directly to end users and patients, requiring only a physician's prescription—no insurance qualification or red tape. Its customer base consists largely of individuals with limited or no insurance coverage for durable medical equipment. The company coordinates with physicians to obtain prescriptions and accepts prescription uploads via fax or online tool.
+Newtec serves individual patients and caregivers, often working with prescribing physicians to fulfill orders for conditions such as sleep apnea and chronic obstructive pulmonary disease. Customer testimonials cite the Guardian 911 monitoring system and nebulizer products as examples of equipment supplied to home users.
 
-Gordon started the business to bring affordable, current-generation respiratory products to patients who were being locked out by reimbursement cuts and reduced service levels in the traditional DME channel. The model emphasizes straightforward access, competitive pricing, and clinical support from a practicing therapist.
+Gordon has stated that the venture was motivated by the desire to provide affordable, up‑to‑date respiratory equipment without the red tape or qualifying tests that often accompany insurance‑driven channels, requiring only a physician’s prescription.
 
 ## Known for
-- Licensed respiratory therapist provides equipment demos, training, and follow-up
-- Trade-in/trade-up program for portable oxygen concentrators
-- No insurance qualification required; only a prescription needed
-- Evening and weekend appointments available
-- Competitive pricing for patients with limited or no insurance coverage
+- Founded by a licensed respiratory therapist with decades of home‑care delivery experience
+- In‑store equipment demos conducted by a certified respiratory therapist
+- Trade‑in program for portable oxygen concentrators
+- Prescription upload and direct physician coordination
+- Evening and weekend availability for patient consultations
 
 ## Capabilities
-- Respiratory equipment retail sales
-- Portable oxygen concentrator sales
-- CPAP machine sales (AirMini, ResMed AirSense 11)
-- CPAP mask sales
-- Nebulizer sales
-- Oxygen supply sales
-- Equipment demonstration and training by licensed respiratory therapist
-- Prescription processing (upload, fax, physician coordination)
-- Trade-in/trade-up program for portable oxygen concentrators
-- Evening and weekend appointment scheduling
-
-## Industries
-- Home healthcare
-- Durable medical equipment (DME)
-- Respiratory therapy
-- Home respiratory care
+- Retail sales of portable oxygen concentrators
+- Retail sales of CPAP masks
+- Retail sales of nebulizers
+- Retail sales of oxygen supplies
+- Equipment demonstrations by licensed respiratory therapist
+- Trade-in program for portable oxygen concentrators
+- Prescription upload and verification service
+- Physician prescription coordination
 
 ## Equipment
 - AirMini Portable CPAP
 - ResMed AirSense 11 AutoSet CPAP
-- Guardian 911
 
 ## Company details
 - **Company Type:** Retailer
-- **Ownership:** Marc Gordon, Owner
 - **Headquarters:** Toms River, New Jersey
 
 <details><summary>Sources</summary>
 
-- Located in Toms River, New Jersey -> db
-- Owned by Marc Gordon, certified respiratory therapist -> /about
-- Marc Gordon started in industry in 1985 delivering oxygen and medical equipment -> /about
-- Marc Gordon completed respiratory school in 1994, became licensed respiratory therapist -> /about
-- Founded Newtec ME to provide affordable new technology home respiratory equipment -> /about
-- Sells portable oxygen concentrators, CPAP machines, CPAP masks, nebulizers, oxygen supplies -> /
-- Carries AirMini Portable CPAP and ResMed AirSense 11 AutoSet CPAP -> /
-- Licensed respiratory therapist on staff for demos, training, follow-up -> /
-- Offers trade-in/trade-up program for portable oxygen concentrators -> /
-- Sells directly to end users/patients, requires prescription only -> /, /about
-- No insurance qualification needed -> /about
-- Evening and weekend appointments available -> /
-- Prescription upload via fax or online tool -> /
-- Coordinates with physicians for prescriptions -> /
-- Guardian 911 product mentioned in customer review -> /
+- Headquarters in Toms River, New Jersey -> db
+- Founder Marc Gordon, owner, certified respiratory therapist (CRT) -> /about
+- Gordon started delivering oxygen in 1985, completed respiratory school in 1994 -> /about
+- Company created to bring affordable new technology home respiratory equipment to patients due to insurance cuts -> /about
+- Product categories: Portable Oxygen Concentrators, CPAP Masks, Nebulizers, Oxygen Supplies -> db
+- In-store demos by licensed respiratory therapist -> /
+- Trade-in program for portable oxygen concentrators -> /
+- Prescription upload tool and physician coordination -> /
+- Specific product models: AirMini Portable CPAP, ResMed AirSense 11 AutoSet CPAP -> /
+- Customer testimonials referencing Guardian 911 and nebulizer -> /
+- Business sells directly to end users and patients -> description
 </details>
 
 ---
@@ -538,27 +553,26 @@ Gordon started the business to bring affordable, current-generation respiratory 
 **Old description:** It's what drives everything we do. Our unparalleled expertise, zero tolerance for errors, and experience promise the highest possible product quality for your customers. Because we're only satisfied when you are.
 
 ## About
-Nextek, Inc. operates from Madison, Alabama. The company's founding year and ownership structure are not publicly disclosed, but it presents itself as a provider of value-based technology solutions for electronic manufacturing.
+Nextek, Inc. operates from Madison, Alabama, delivering electronics manufacturing services that range from prototype support to full-scale circuit card assembly production, box build, and test.
 
-The firm provides electronics manufacturing services ranging from prototype support to full-scale circuit card assembly production, box build, and test. A dedicated prototype line and team focus on quick-turn prototype services, while the broader operation handles diverse assembly and test requirements. The company describes its business model as flexible and reactive without sacrificing quality.
+The company maintains ISO 9001 for quality management, ISO 13485 for medical device manufacturing, and RoHS compliance for restricted substances, and is ITAR registered for defense-related work. These certifications enable it to serve programs with stringent compliance requirements. A dedicated prototype line and team provide quick-turn prototype services, while a flexible business and customer service model allows reactive manufacturing without sacrificing quality.
 
-Nextek serves customers across industries requiring electronic assemblies, though specific sectors are not detailed in its public materials. Its services target original equipment manufacturers and product developers needing prototype through production volumes.
+Nextek’s customers include organizations requiring printed circuit board assembly, box-level integration, and functional testing, though the company does not publicly disclose specific industry sectors or named accounts.
 
-The company emphasizes a zero-tolerance-for-errors philosophy, positioning its value-based technology solutions as fast, accurate, flexible, and competitive. It holds ISO 9001, ISO 13485, ITAR, and RoHS certifications, underscoring a commitment to quality and regulatory compliance.
+The firm’s stated differentiation centers on a zero-tolerance-for-errors philosophy and a value proposition described as fast, accurate, flexible, and competitive, under the banner of Value Based Technology Solutions®, with the goal of delivering the highest possible product quality for its customers. The company emphasizes that it is only satisfied when its customers are satisfied.
 
 ## Known for
-- Zero tolerance for errors
-- Value-based technology solutions
-- Fast, accurate, flexible, competitive
-- Dedicated quick-turn prototype line and team
+- Zero-tolerance-for-errors philosophy
+- Fast, accurate, flexible, and competitive delivery
+- Dedicated prototype line and team for quick-turn prototypes
 - Flexible, reactive business model without sacrificing quality
 
 ## Capabilities
 - Prototype support
-- Quick-turn prototype services
 - Circuit card assembly production
 - Box build
-- Test services
+- Test
+- Quick-turn prototype services
 
 ## Certifications
 - ISO 9001
@@ -572,13 +586,16 @@ The company emphasizes a zero-tolerance-for-errors philosophy, positioning its v
 
 <details><summary>Sources</summary>
 
-- Company name: Nextek, Inc. -> db
-- Headquarters: Madison, Alabama -> db
-- Certifications: ISO9001, ISO13485, ITAR, ROHS -> db
-- Products: prototype support, circuit card assembly production, box build, test -> db
-- Capabilities: prototype services, quick-turn prototype services, diverse services -> db
-- Tagline: Value based technology solutions, fast | accurate | flexible | competitive -> page:/
-- Zero tolerance for errors philosophy -> page:/
+- Headquarters location -> db
+- Certifications (ISO 9001, ISO 13485, ITAR, RoHS) -> db
+- Services (prototype support, circuit card assembly, box build, test) -> db
+- Dedicated prototype line and quick-turn prototype services -> db
+- Zero-tolerance-for-errors philosophy -> /
+- Fast, accurate, flexible, competitive value proposition -> /
+- Value Based Technology Solutions® branding -> /
+- ITAR registration -> db
+- ISO 9001, ISO 13485, RoHS certifications -> db
+- No founding year, ownership, founders, facility size, headcount, volumes, equipment, industries, materials, lead times, tolerances, cage code, min order, languages, social links found -> not stated
 </details>
 
 ---
@@ -588,37 +605,45 @@ The company emphasizes a zero-tolerance-for-errors philosophy, positioning its v
 **Old description:** Since 1997, we have manufactured high-complexity circuit board assemblies — and built lasting customer partnerships.
 
 ## About
-Niche Electronics was founded in 1997 in Shippensburg, Pennsylvania, by a team of engineers and technicians who envisioned combining high-complexity circuit board assembly with creative problem-solving and an unusual commitment to open, honest customer communication.
+Niche Electronics was established in 1997 in Shippensburg, Pennsylvania, by a team of engineers and technicians who envisioned combining high-complexity circuit board assembly with creativity and an unusual commitment to open, honest customer communication. The company has since expanded to operate three production facilities: a 20,000-square-foot plant in Southcentral Pennsylvania, a 21,000-square-foot facility in Sarasota, Florida, and an 11,000-square-foot site in Bedford, Massachusetts.
 
-Its services span the full product life cycle: design for digital and analog electronics, rapid prototyping, high-speed surface-mount and through-hole PCB assembly, wire-harness and cable assembly, new-product introduction, testing, supply-chain management, and secure, dedicated inventory storage.
+The company provides full-lifecycle electronics manufacturing services, including high-speed surface mount and thru-hole assembly, wire harness and cable assembly, design for manufacturability, prototyping, volume production, testing, and supply chain management. Its three sites offer redundant capabilities and enable personalized service for hundreds of high-tech customers within a three-hour drive. Niche Electronics also performs bill-of-materials scrubbing, secure onsite storage for high-value parts, and dedicated inventory locations for each customer.
 
-Niche serves industrial, communications, military, and power-electronics customers, supporting hundreds of high-tech clients within a three-hour drive of its locations. All work meets IPC-WHMA-A-620 Class II and Class III and UL 508A standards, and the quality system is certified to ISO 9001:2015.
+Niche Electronics serves the industrial, communications, military, and power electronics markets. Its customer base includes high-technology companies that require ITAR-registered, ISO 9001:2015-certified, and RoHS-compliant manufacturing. The firm builds to IPC-WHMA-A-620 Class II and III and UL 508A standards.
 
-The founders started the business to deliver manufacturing solutions with complete transparency — clear answers, honest communication, and responsive service at every project stage. Leadership emphasizes direct dialogue, a solutions-first mindset, and a systems-driven quality approach as the differentiators that turn complex challenges into long-term partnerships.
+The company emphasizes direct communication, rapid response (promising a quote within five days), and a solutions-oriented approach that treats challenges as opportunities. Its quality system is certified to ISO 9001:2015, and it undergoes regular vendor audits and continuous improvement initiatives.
 
 ## Known for
-- Responds to inquiries within 24 hours and provides quotes within 5 days
-- Operates three geographically dispersed facilities with redundant capabilities to minimize service interruptions
-- Maintains ISO 9001:2015 certification and a systems-based quality approach that reduces errors and returns
-- Offers hands-on involvement from every employee, including the CEO, on customer projects
-- Actively seeks out complex manufacturing challenges as opportunities to save customers time and cost
+- 24-hour response time and quotes delivered in 5 days
+- Three geographically dispersed facilities providing redundant manufacturing capabilities
+- Direct, honest communication with customers at every project stage
+- Systems-driven quality approach certified to ISO 9001:2015
+- ITAR-registered for defense and military work
 
 ## Capabilities
-- High-complexity circuit board assembly
-- High-speed surface mount assembly
-- Through-hole assembly
-- Wire harness and cable assembly
-- New product introduction (NPI)
-- Digital and analog electronics design
-- Rapid prototyping
-- Design verification testing
-- Supply chain management
-- Product life-cycle management
-- Bill of materials scrubbing
-- Secure onsite storage for high-value parts
-- Dedicated customer inventory locations
-- IPC-WHMA-A-620 Class II/III assembly
-- UL 508A panel assembly
+- High-Speed Surface Mount Assembly
+- Thru-hole Assembly
+- Semi-automatic component location
+- Wire Harness Assembly
+- Cable Assembly
+- New Product Introduction (NPI)
+- Product Life-Cycle Management
+- Design for Manufacturability
+- Prototyping
+- Volume Manufacturing
+- Testing and Design Verification
+- Supply Chain Management
+- Bill of Materials Scrubbing
+- Secure Onsite Storage for High-Value Parts
+- Dedicated Customer Inventory Locations
+- Process Engineering
+- Vendor Audits
+- Continuous Improvement
+- ISO 9001:2015 Quality Management
+- ITAR Compliance
+- RoHS Compliance
+- IPC-WHMA-A-620 Class II/III Compliance
+- UL 508A Compliance
 
 ## Industries
 - Industrial
@@ -628,10 +653,8 @@ The founders started the business to deliver manufacturing solutions with comple
 
 ## Certifications
 - ISO 9001:2015
-- ITAR registered
-- IPC-WHMA-A-620 Class II
-- IPC-WHMA-A-620 Class III
-- UL 508A
+- ITAR
+- RoHS
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -640,16 +663,17 @@ The founders started the business to deliver manufacturing solutions with comple
 
 <details><summary>Sources</summary>
 
-- Founded 1997 by team of engineers and technicians -> /about
+- Founded 1997 by engineers and technicians -> /about
 - Headquarters Shippensburg, Pennsylvania -> db
 - Three facilities: 20,000 SF PA, 21,000 SF FL, 11,000 SF MA -> /about
-- Services: design, prototyping, PCB assembly (SMT/thru-hole), wire harness, NPI, testing, supply chain, inventory -> /, /about
+- Services: surface mount, thru-hole, wire harness, cable assembly, design, prototyping, manufacturing, testing, supply chain -> /
 - Industries: Industrial, Communications, Military, Power Electronics -> /
-- Standards: IPC-WHMA-A-620 Class II/III, UL 508A -> /about, industries_served
 - Certifications: ISO 9001:2015, ITAR, RoHS -> db, /about
-- Quote lead time: 24-hour response, 5-day quote -> /, /about
-- Mission: transparency, honest communication, responsive service -> /about
-- Differentiators: open communication, seek challenges, quality focus, right people -> /
+- Standards: IPC-WHMA-A-620 Class II/III, UL 508A -> /about
+- Redundant capabilities, three-hour drive service radius -> /about
+- 24-hour response, 5-day quote -> /, /about
+- Bill of materials scrubbing, secure storage, dedicated inventory -> /
+- Quality system, vendor audits, continuous improvement -> /about
 </details>
 
 ---

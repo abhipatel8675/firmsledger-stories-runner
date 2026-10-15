@@ -3,45 +3,36 @@
 **Old description:** All products from California Plastix are inspected for quality and consistency by trained employees.  Nothing leaves our factory without inspection.
 
 ## About
-California Plastix operates from Pomona, California, where it produces custom poly bags and polyethylene film for a national customer base. The company was founded on the principle of delivering reliable, American-made packaging with the flexibility to meet any specification, though a specific founding year is not publicly disclosed. Ownership details and founder names have not been published.
+California Plastix operates from Pomona, California, in the heart of Southern California's manufacturing corridor. The company was founded on the principle of delivering reliable, American-made packaging with the flexibility to meet any customer's needs, though a specific founding year is not publicly disclosed. Ownership details such as family, veteran, or woman-owned status are not stated.
 
-The manufacturer runs fully integrated extrusion, flexographic printing, and converting operations under one roof. Extrusion lines produce LDPE, LLDPE, and MDPE film at widths from 5 to 70 inches and gauges from 0.75 to 8 mil, with a typical tolerance of ±5%. Printing presses handle up to six colors with a registration tolerance of ±1/32 inch. The converting department fabricates side-weld, bottom-seal, gusseted, wicketed, zipper, and tape bags in widths of 3 to 60 inches and lengths up to 72 inches, including wicket counts of 250 to 1,000 bags per wicket. The facility also supplies tubing, sheeting, centerfold film, and roll stock.
+The company produces custom poly bags and polyethylene film using LDPE, LLDPE, and MDPE resins. All manufacturing occurs in-house across three integrated departments: extrusion, flexographic printing, and converting. Extrusion lines produce film at widths from 5 to 70 inches layflat and gauges from 0.75 to 8 mil, with a typical tolerance of ±5%. Flexographic presses handle up to six colors with a registration tolerance of ±1/32 inch and repeat lengths of 4 to 24 inches. Converting equipment fabricates side-weld, bottom-seal, gusseted, wicketed, zipper, and tape bags in widths of 3 to 60 inches and lengths of 4 to 72 inches, with wicket counts of 250 to 1,000 bags per wicket. The facility also produces tubing, sheeting, centerfold film, and roll stock.
 
-California Plastix serves food and beverage processors, bakeries, industrial manufacturers, retail and e-commerce packagers, medical and pharmaceutical suppliers, agricultural operations, and wholesale distributors. Its products flow through supply chains that support major retailers such as Costco, The Home Depot, Trader Joe’s, Target, and Bloomingdale’s, though the company is not affiliated with those brands.
+California Plastix serves food and beverage processors, bakeries, produce packers, industrial manufacturers, retail and e-commerce packagers, medical and pharmaceutical suppliers, agricultural and horticultural operations, and commercial wholesale distributors. Its products are used in supply chains for major retailers such as Costco, The Home Depot, Trader Joe's, Target, and Bloomingdale's, though the company notes it is not affiliated with or endorsed by those brands.
 
-The company emphasizes its Southern California location, in-house production, and direct communication with the production team as key differentiators. It cites decades of hands-on industry experience, competitive pricing from vertical integration, and a commitment to consistent gauge control, strong seals, and fast, predictable lead times as reasons customers choose it.
+The company emphasizes its fully integrated Southern California facility as a differentiator, enabling faster turnaround, direct communication with production staff, and consistent quality control. Quotes are typically provided within 24 hours, and the company ships nationwide from Pomona. Its mission centers on dependable, high-quality poly packaging that helps businesses operate efficiently and keep supply chains moving.
 
 ## Known for
-- Fully in-house extrusion, printing, and converting
-- Quotes provided within 24 hours
-- Direct access to production personnel
+- Fully in-house extrusion, printing, and converting under one roof
+- Quotes within 24 hours
+- Direct communication with production team
+- ±5% gauge tolerance and ±1/32" print registration tolerance
 - Nationwide shipping from Pomona, CA
-- FDA-compliant materials for food contact
 
 ## Capabilities
 - Extrusion of LDPE, LLDPE, and MDPE film
 - Flexographic printing up to 6 colors
 - Converting: side-weld, bottom-seal, gusseted, wicketed, zipper, and tape bags
-- Custom poly bag manufacturing
-- Custom polyethylene film manufacturing
-- Roll stock and film production
-- Tubing, sheeting, and centerfold film
-- Custom blend formulation
-- Additive incorporation (slip, anti-block, anti-static, UV)
-- Precision cutting and sealing
-- Wicketing (250–1,000 bags per wicket)
-- Zipper bag production (standard, heavy-duty, tamper-evident)
-- Tape bag production (resealable or permanent adhesive)
+- Custom film blending with additives (slip, anti-block, anti-static, UV)
+- Tubing, sheeting, centerfold film, and roll stock production
 
 ## Industries
 - Food & beverage
-- Industrial & manufacturing
+- Industrial manufacturing
 - Retail & packaging
 - Medical & pharmaceutical
 - E-commerce & fulfillment
 - Agriculture & horticulture
 - Commercial & wholesale distribution
-- Food processing
 - Bakeries
 - Ice & frozen foods
 - Medical & cleanroom
@@ -49,8 +40,8 @@ The company emphasizes its Southern California location, in-house production, an
 
 ## Equipment
 - Extrusion lines
-- Flexographic presses
-- Converting equipment
+- Flexographic presses (up to 6-color, 4–24" repeat length)
+- Converting equipment (side-weld, bottom-seal, gusseted, wicketed, zipper, tape bags)
 
 ## Certifications
 - FDA-COMPLIANT
@@ -61,20 +52,18 @@ The company emphasizes its Southern California location, in-house production, an
 
 <details><summary>Sources</summary>
 
-- Location: Pomona, California -> /about
-- Products: custom poly bags and polyethylene film -> /
-- Processes: extrusion, flexographic printing, converting -> /capabilities
-- Extrusion specs: LDPE/LLDPE/MDPE, 5-70 in width, 0.75-8 mil gauge -> /capabilities
-- Printing specs: up to 6 colors, ±1/32″ registration -> /capabilities
-- Converting specs: bag widths 3-60 in, lengths 4-72 in, gussets 2-12 in -> /capabilities
-- Industries served: food, industrial, retail, medical, e-commerce, agriculture, distribution -> /
+- Location: Pomona, California -> /about, /, /capabilities
+- Founding principle: reliable American-made packaging -> /about
+- Processes: extrusion, flexographic printing, converting -> /, /about, /capabilities
+- Film specs: LDPE/LLDPE/MDPE, 5-70" width, 0.75-8 mil, ±5% tolerance -> /capabilities
+- Printing specs: up to 6-color, ±1/32" registration, 4-24" repeat -> /capabilities
+- Converting specs: bag types, 3-60" width, 4-72" length, wicketing 250-1000 -> /capabilities
+- Industries served: food, industrial, retail, medical, e-commerce, agriculture, distribution, bakeries, ice/frozen, cleanroom -> /, /about, /capabilities
 - Retail supply chain examples: Costco, Home Depot, Trader Joe's, Target, Bloomingdale's -> /
-- Certification: FDA-COMPLIANT -> db
-- Differentiators: in-house production, 24-hour quotes, direct communication -> /
-- Tolerances: extrusion ±5%, printing ±1/32″ -> /capabilities
-- Materials: LDPE, LLDPE, MDPE -> /capabilities
-- Lead time: quotes within 24 hours -> /
-- Company type: manufacturer -> /about
+- Differentiators: in-house integration, 24-hour quotes, direct communication, nationwide shipping -> /, /about, /capabilities
+- Certification: FDA-COMPLIANT -> db, /, /about
+- Materials: LDPE, LLDPE, MDPE, FDA-approved resins -> /, /about, /capabilities
+- Company type: Manufacturer -> /about
 </details>
 
 ---
@@ -84,41 +73,36 @@ The company emphasizes its Southern California location, in-house production, an
 **Old description:** Each type of system operates a little bit differently, but the best way to confirm your solar is producing is to access the proprietary monitoring platform of the manufacturer of your system i.e. Enphase, SMA, SolarEdge, SunPower.
 
 ## About
-California Solar Electric Cooperative operates from Grass Valley, California, as the state's first worker-owned solar cooperative. The employee-owned business was formed to provide local design, installation, and ongoing service for solar photovoltaic and battery storage systems.
+California Solar Electric Cooperative operates from Grass Valley, California, as the state's first worker-owned solar cooperative. The company is structured as a cooperative owned by its worker-owners, who collectively manage design, installation, and service operations. While a specific founding year is not disclosed, the team cites two decades of experience in solar system design and installation.
 
-The cooperative installs residential and commercial solar arrays, battery backup, standby generators, EV charging stations, and smart electrical panels. Its service division offers monitoring, corrective maintenance, and expedited repairs, with a commitment to respond within two business days and a 15 percent discount on billable labor for service agreement holders.
+The cooperative designs and installs integrated solar photovoltaic systems paired with battery storage, as well as backup generators, electric-vehicle chargers, and smart energy management platforms. It also provides ongoing service and repair, including system monitoring through manufacturer platforms such as Enphase, SMA, SolarEdge, and SunPower. Service agreements guarantee a response and appointment within two business days and a 15 percent discount on billable labor and materials for corrective maintenance.
 
-Customers include homeowners, businesses, non-profit organizations, and government agencies throughout the region. The team handles permitting, inspections, and utility interconnection for each project, delivering turnkey energy resiliency solutions.
+Customers span residential homeowners, commercial businesses, non-profit organizations, and government agencies throughout the region. Projects range from single-family rooftop arrays to larger commercial installations, with the cooperative handling permitting, inspection, and interconnection processes.
 
-The cooperative model was chosen to keep decision-making and accountability local, ensuring that the worker-owners who design and install each system remain directly responsible for its long-term performance.
+The cooperative was formed to keep solar expertise and economic benefits within the local workforce, emphasizing energy resiliency through combined solar and storage solutions. Its worker-owner model is presented as a way to align incentives with long-term system performance and customer education.
 
 ## Known for
-- First worker-owned solar cooperative in California
-- Two decades of design and installation experience
-- Two-business-day service response commitment
-- 15% discount on billable service labor for agreement holders
-- Local worker-owners handle design, installation, and ongoing support
+- Worker-owned cooperative structure
+- Service response within two business days
+- 15% discount on corrective maintenance labor and materials
+- Two decades of solar design and installation experience
+- Integrated solar-plus-storage system design
 
 ## Capabilities
-- Solar photovoltaic installation
-- Battery storage installation
-- Standby generator installation
+- Solar PV system design and installation
+- Battery energy storage system installation
+- Backup generator installation
 - EV charger installation
-- Smart electrical panel installation
-- System design and engineering
-- Permitting and inspection management
-- Utility interconnection
-- Monitoring platform integration (Enphase, SMA, SolarEdge, SunPower)
-- Corrective maintenance and repair
-- Expedited service response
-- Service agreement programs
+- Smart energy management system installation
+- System monitoring and diagnostics
+- Preventive and corrective maintenance
+- Permitting and interconnection management
 
 ## Industries
-- Residential solar
-- Commercial solar
-- Non-profit organizations
-- Government facilities
-- Energy resiliency
+- Residential
+- Commercial
+- Non-profit
+- Government
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -127,15 +111,13 @@ The cooperative model was chosen to keep decision-making and accountability loca
 
 <details><summary>Sources</summary>
 
-- Company name: California Solar Electric Cooperative -> db
-- Headquarters: Grass Valley, California -> db
+- Grass Valley, California headquarters -> db
 - First worker-owned solar cooperative in California -> /
 - Two decades of experience in design and installation -> /
-- Services: solar installation, battery storage, generators, EV chargers, smart panels, service & repair, monitoring -> /
-- Service response within two business days -> /
-- 15% off billable service labor for service agreement holders -> /
-- Customer segments: residential, commercial, non-profit, government -> /
-- Worker-owned cooperative model -> /
+- Services: solar, battery storage, generators, EV chargers, smart energy management, service & repair -> / and db
+- Service response within two business days, 15% discount on corrective maintenance -> / and db
+- Customer types: residential, commercial, non-profit, government -> /
+- Monitoring platforms: Enphase, SMA, SolarEdge, SunPower -> description and /
 </details>
 
 ---
@@ -145,23 +127,23 @@ The cooperative model was chosen to keep decision-making and accountability loca
 **Old description:** Manufacturing Miniature Cable and Wire Products Since 1975 including
 
 ## About
-California Wire and Strand Corporation operates from Fullerton, California, where it was founded in 1975 under the name CableStrand Corporation. The company began by supplying wire products primarily to the jewelry and fishing industries before expanding into broader markets.
+California Wire and Strand Corporation operates from Fullerton, California, where it was founded in 1975 as CableStrand Corporation. The company began by supplying wire products primarily to the jewelry and fishing industries before expanding into broader markets.
 
-Today it functions as a custom manufacturer of stranded cable and wire products. Its capabilities include bare stranded wire, plastic‑coated wire and cable, straightened and cut‑to‑length wire, and wire forms. Production equipment runs 24 hours a day to meet customer demand, though facility size, headcount, and annual volumes are not disclosed.
+The company functions as a custom manufacturer of stranded cable and wire products. Its capabilities include bare stranded wire, plastic-coated wire and cable, straightened and cut-to-length wire, and wire forms. Production equipment runs 24 hours a day to meet customer demand, though facility size and headcount are not disclosed.
 
-The company serves a range of industries including medical, orthodontic, oil and gas, industrial, automotive, jewelry, and fishing. Customers are described as various businesses around the world that require spec‑specific stainless steel wire and miniature cable products.
+The firm serves medical, orthodontic, oil and gas, industrial, automotive, jewelry, and fishing sectors, shipping to businesses worldwide. Customers range from medical device makers to industrial OEMs requiring miniature cable assemblies and specialized wire forms.
 
-Leadership states a vision to be viewed as the primary source for high‑quality miniature wire and cable products, emphasizing reliable delivery of an exceptional product to make customers’ lives easier.
+Leadership states a vision to be the primary source for high-quality miniature wire and cable products, emphasizing spec-specific stainless steel wire and a commitment to making customers' lives easier through consistent, exceptional delivery.
 
 ## Known for
 - Custom manufacturer of stranded cable and wire products
-- 24‑hour production runs for timely delivery
-- Supplies spec‑specific stainless steel wire globally
-- Serves diverse markets from medical to automotive
+- 24-hour production runs for timely delivery
+- Spec-specific stainless steel wire for diverse industries
+- Serves medical, orthodontic, oil and gas, automotive, and more
 
 ## Capabilities
 - Stranded wire manufacturing
-- Plastic coated wire and cable
+- Plastic-coated wire and cable
 - Straightened and cut-to-length wire
 - Wire forms
 - Custom cable manufacturing
@@ -183,15 +165,18 @@ Leadership states a vision to be viewed as the primary source for high‑quality
 
 <details><summary>Sources</summary>
 
-- Founded 1975, formerly CableStrand Corporation -> /about-us
+- Founded 1975 -> /about-us
+- Formerly CableStrand Corporation -> /about-us
 - Started supplying jewelry and fishing industries -> /about-us
 - Expanded to medical, orthodontic, oil and gas, industrial, automotive -> /about-us
 - Custom manufacturer of stranded cable and wire products -> /about-us
-- Products: bare stranded wire, plastic coated wire and cable, straightened and cut-to-length wire, wire forms -> /about-us
+- Products: bare stranded wire, plastic coated wire and cable, straightened and cut to length wire, wire forms -> /about-us
 - Machines run 24 hours a day -> /about-us
 - Vision: primary source for high quality miniature wire and cable products -> /about-us
-- Headquarters: 1151 E Ash Ave, Fullerton, CA 92831 -> /
-- Stainless steel cable, nylon coated cable, wire cable -> /
+- Headquarters Fullerton, California -> / (home page) and db
+- Address 1151 E Ash Ave, Fullerton, CA 92831 -> / (home page)
+- Products listed: Stainless Steel Cable, Stranded Wire, Straight and Cut, Custom Products, Custom Cable, Fishing Leader Wire -> / (home page)
+- Manufacturing Miniature Cable and Wire Products Since 1975 including stainless steel cable, nylon coated cable, and wire cable -> / (home page)
 </details>
 
 ---
@@ -201,20 +186,20 @@ Leadership states a vision to be viewed as the primary source for high‑quality
 **Old description:** An SBA-certified HUBZone manufacturer, providing premium plastic injection molding services in the U.S.A. with ISO 9001-certified quality and unmatched service.
 
 ## About
-Camcar Plastics Inc. has operated from Muskegon, Michigan for nearly three decades as an SBA-certified HUBZone manufacturer. The company provides plastic injection molding services with ISO 9001-certified quality management.
+Camcar Plastics Inc. operates from Muskegon, Michigan, where it has provided plastic injection molding services for nearly three decades. The company is an SBA-certified HUBZone small business with ISO 9001 certification, reflecting a focus on domestic manufacturing and regulated quality processes.
 
-The shop specializes in high- and low-volume plastic injection molding, including automatic molding, insert molding, and over-molding. It manages tooling through partnerships with tooling experts, offers design-for-manufacturing consultations to refine part design, material selection, and tolerance control, and runs rapid prototyping to produce physical parts in production-grade materials before full-scale runs. The facility supports full-scale production and ships to domestic and international markets.
+The shop specializes in plastic injection molding across high and low volumes, including automatic molding, insert molding, and over-molding. It manages tooling from design through production, offers design-for-manufacturing consultation, and runs rapid prototyping in production-grade materials to validate fit and function before full-scale runs. The facility handles projects from prototype to full-scale production, though exact press tonnage, facility size, and employee count are not disclosed.
 
-Camcar serves customers across a range of industries, though specific sectors are not detailed in its public materials. Its services span from concept through production for clients requiring precision plastic components.
+Camcar serves customers requiring precision-molded plastic components, though the company does not publicly list specific industry verticals or named clients. Its marketing emphasizes a seamless experience from concept to completion, suggesting a client base that values collaborative development and reliable delivery.
 
-The company emphasizes a seamless experience built on craftsmanship and commitment, highlighting clear communication, innovative solutions, and reliable results. Its HUBZone certification and ISO 9001 registration underscore a focus on qualified domestic manufacturing and consistent quality.
+Founded on a commitment to craftsmanship and consistent quality, the company emphasizes clear communication and end-to-end project management from concept to completion, positioning its U.S.-based production and certified quality system as core differentiators.
 
 ## Known for
 - SBA-certified HUBZone manufacturer
-- ISO 9001-certified quality management
-- Full-service injection molding from design through production
+- ISO 9001 certified quality management
+- Full-service tooling management from design to production
+- Design for manufacturing consultation
 - Rapid prototyping in production-grade materials
-- Tooling managed via trusted partner network
 
 ## Capabilities
 - Plastic injection molding
@@ -223,12 +208,10 @@ The company emphasizes a seamless experience built on craftsmanship and commitme
 - Automatic molding
 - Insert molding
 - Over-molding
-- Tooling management
+- Tooling design and management
 - Design for manufacturing (DFM) consultation
 - Rapid prototyping
-- Material selection guidance
-- Tolerance control
-- Part design optimization
+- Prototype production
 
 ## Certifications
 - ISO 9001
@@ -241,26 +224,12 @@ The company emphasizes a seamless experience built on craftsmanship and commitme
 
 <details><summary>Sources</summary>
 
-- Location: Muskegon, Michigan -> db
-- SBA-certified HUBZone manufacturer -> db, page /
-- ISO 9001 certified -> db, page /
-- Nearly three decades of operation -> page /
-- Plastic injection molding services (high/low volume, automatic, insert, over-molding) -> page /, capabilities list
-- Tooling services via trusted partners -> page /
-- Design for manufacturing consultations -> page /
-- Rapid prototyping with production materials -> page /
-- Full-scale production, ships USA/World -> page /, products list
-- Emphasis on craftsmanship, commitment, clear communication, innovative solutions, reliable results -> page /
-- No specific industries listed -> page /
-- No equipment named -> page /
-- No materials listed -> page /
-- No founding year -> page /
-- No employee count -> page /
-- No CAGE code -> page /
-- No min order -> page /
-- No export compliance -> page /
-- No languages -> page /
-- No social links -> page /
+- Camcar Plastics Inc. is an SBA-certified HUBZone manufacturer -> db
+- Headquartered in Muskegon, Michigan -> db
+- ISO 9001 certified -> db
+- Provides plastic injection molding, tooling, design for manufacturing, and prototyping services -> page /
+- Offers high and low volume production, insert molding, over-molding, automatic molding -> page /
+- Operates for nearly three decades -> page /
 </details>
 
 ---
@@ -270,68 +239,74 @@ The company emphasizes a seamless experience built on craftsmanship and commitme
 **Old description:** As an experienced transportation equipment manufacturing facility, we offer vast fabrication and welding capabilities. These include rolling, bending, punching, heavy and specialized fabrication, heavy welding, CWI services, and custom sanitary welding. We can use carbon steel, stainless steel, Inconel, Monel, Hastelloy, or nickel in our custom fabrications.
 
 ## About
-Cameron Manufacturing & Design operates from two facilities: a 145,000-square-foot plant in Horseheads, New York, and a 28,000-square-foot operation in Orlando, Florida. The company was founded in 1983 by Frank LaViola Sr. to address a regional need for custom fabrication in upstate New York. In 2007, LaViola transitioned the business to an Employee Stock Ownership Plan (ESOP), making the workforce the company's owners.
+Cameron Manufacturing & Design traces its roots to 1983 when Frank LaViola Sr. founded a fabrication shop in Horseheads, New York, to address a regional need for custom metalwork. The company expanded to a second facility in Orlando, Florida, adding 28,000 square feet to the original 145,000-square-foot New York plant. In 2007, LaViola transitioned ownership to an Employee Stock Ownership Plan (ESOP), making the workforce of hundreds of skilled employees the company’s owners.
 
-The firm provides custom metal manufacturing across the full project lifecycle — engineering design, CNC machining (milling, lathing, waterjet and laser cutting), sheet metal fabrication (rolling, bending, punching), heavy and sanitary welding with CWI oversight, in-house finishing (powder coating, painting, vibratory tumbling), and on-site installation with documentation packages. Materials processed include carbon steel, stainless steel, Inconel, Monel, Hastelloy, and nickel alloys. The combined facilities employ hundreds of skilled workers.
+Today Cameron operates as a full-service metal manufacturer, offering custom sheet metal fabrication, CNC machining (milling, lathing, waterjet and laser cutting), welding (including rolling, bending, punching, heavy fabrication, CWI-certified and sanitary welding), metal finishing (powder coating, painting, vibratory tumbling), engineering design, project management, and on-site installation.
 
-Cameron serves food and dairy processors requiring USDA- and 3A-compliant equipment, rail and transit agencies needing custom metal components and signaling systems, and a mix of Fortune 500 and regional manufacturers seeking turnkey process equipment. Projects range from sanitary vessels and conveyors to rail car components and specialized machinery.
+The company serves food and dairy processors requiring USDA- and 3A-compliant equipment, rail and transit agencies needing custom metal components and signaling systems, and transportation equipment manufacturers. Its customer base spans Fortune 500 corporations and smaller regional firms across the United States.
 
-LaViola started the business as a local "fab shop" focused on quality workmanship, on-time delivery, and customer service. The ESOP structure was adopted to preserve that culture by vesting ownership in the employees who execute the work, a model the company credits for its ability to adapt across decades of industry change.
+Cameron emphasizes turnkey delivery — from CAD design through fabrication, machining, welding, finishing, and installation — backed by ISO 9001 and ISO 14001 certifications at its New York facility. The employee-owned structure is cited as a driver of quality workmanship, on-time delivery, and responsive service.
 
 ## Known for
 - Employee-owned (ESOP) since 2007
-- ISO 9001 & ISO 14001 certified at Horseheads, NY facility
-- USDA and 3A compliant for food, beverage, and dairy equipment
-- Turnkey capability: design, fabrication, machining, welding, finishing, and installation under one roof
+- Turnkey solutions from design through on-site installation
+- ISO 9001 and ISO 14001 certified at Horseheads, NY facility
+- USDA and 3A Industrial Standards compliance for food and dairy equipment
+- Multi-disciplinary capabilities under one roof: fabrication, machining, welding, finishing, engineering
 
 ## Capabilities
+- Custom sheet metal fabrication
 - CNC machining
-- CNC milling
 - CNC lathing
+- CNC milling
 - Waterjet cutting
 - Laser cutting
-- Custom sheet metal fabrication
+- Powder coating
+- Painting
+- Vibratory tumbling
 - Rolling
 - Bending
 - Punching
 - Heavy fabrication
-- Welding (CWI certified)
-- Sanitary welding
-- Powder coating
-- Painting
-- Vibratory tumbling
+- Heavy welding
+- CWI (Certified Welding Inspector) services
+- Custom sanitary welding
 - Engineering design services
+- Equipment installation services
 - Project management
-- Equipment installation
-- Turnkey systems integration
-- 2D/3D CAD design
-- Custom machinery building
-- Metal finishing services
-- Contract engineering services
-- On-site installation and start-up support
+- Metal forming
+- Assembly
+- On-site installation
+- Start-up support
 
 ## Industries
-- Food & Dairy
+- Food & dairy
 - Beverage
-- Rail & Transit
-- Industrial Manufacturing
+- Pet food
+- Rail & transit
+- Transportation equipment
+- General manufacturing
 
 ## Equipment
 - Amada Punch/Laser LC-2012 C1 NT
 - Amada Fiber laser
-- Laser cutting equipment
+- CNC machining centers
+- Lathes
+- Milling machines
 - Waterjet cutting equipment
-- Forming equipment
-- Welders
+- Laser cutting equipment
 - Powder coating equipment
 - Painting equipment
 - Vibratory tumbler
+- Forming equipment
+- Welders
+- Finishing equipment
 
 ## Certifications
 - ISO 9001
 - ISO 14001
-- USDA compliant
-- 3A Industrial Standards compliant
+- USDA compliance
+- 3A Industrial Standards compliance
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -343,16 +318,19 @@ LaViola started the business as a local "fab shop" focused on quality workmanshi
 <details><summary>Sources</summary>
 
 - Founded 1983 by Frank LaViola Sr. -> /about-us
-- Employee-owned (ESOP) since 2007 -> /about-us
-- Two locations: Horseheads, NY (145,000 sq ft) and Orlando, FL (28,000 sq ft) -> /about-us
+- Employee-owned since 2007 (ESOP) -> /about-us
+- Two locations: Horseheads NY (145,000 sq ft) and Orlando FL (28,000 sq ft) -> /about-us
 - Hundreds of skilled employees -> /about-us
-- ISO 9001 and ISO 14001 at Horseheads, NY -> /about-us, /capabilities
-- USDA and 3A Industrial Standards compliance -> /, /capabilities
-- Industries: Food & Dairy, Beverage, Rail & Transit -> /, /capabilities
-- Materials: carbon steel, stainless steel, Inconel, Monel, Hastelloy, Nickel -> /, /capabilities
-- Processes: CNC machining, milling, lathing, waterjet, laser, sheet metal fabrication, rolling, bending, punching, heavy fabrication, welding (CWI, sanitary), powder coating, painting, vibratory tumbling, engineering design, project management, installation -> /capabilities
-- Equipment: Amada Punch/Laser LC-2012 C1 NT, Amada Fiber laser, laser/waterjet cutting, forming, welders, powder coating, painting, vibratory tumbler -> /, /capabilities
-- Turnkey solutions with design, fabrication, machining, welding, finishing, installation -> /, /capabilities
+- ISO 9001 and 14001 at Horseheads NY -> /about-us, /capabilities, /quality
+- USDA and 3A Industrial Standards compliance -> / (home), /capabilities
+- Custom metal manufacturing: fabrication, CNC machining, welding, engineering, installation -> /capabilities
+- Materials: carbon steel, stainless steel, Inconel, Monel, Hastelloy, nickel -> /capabilities, description
+- Industries: food & dairy, rail & transit, transportation equipment -> / (home), /capabilities
+- Equipment: Amada Punch/Laser LC-2012 C1 NT, Amada Fiber -> / (home) blog title
+- Equipment: Laser and Waterjet Equipment, Forming Equipment, Welders, Finishing Equipment, Powder Coating, Painting, Vibratory Tumbler -> / (home)
+- Capabilities: rolling, bending, punching, heavy fabrication, heavy welding, CWI services, custom sanitary welding -> /capabilities, description
+- Turnkey solutions: design to installation -> / (home), /capabilities
+- Employee owners pride -> / (home)
 </details>
 
 ---
@@ -362,36 +340,37 @@ LaViola started the business as a local "fab shop" focused on quality workmanshi
 **Old description:** © 2026 Campo Sheet Metal Works Inc. | Custom Industrial Metal Work Since 1926
 
 ## About
-Campo Sheet Metal Works, Inc. was founded in 1926 by Salvatore Campo in a Houston garage where he fabricated gutters and flashing. Nearly a century later, the company operates from a facility Building 15, in Houston, Texas, and remains family owned and operated with fourth‑generation family members active in the business.
+Campo Sheet Metal Works, Inc. was founded in 1926 by Salvatore Campo in Houston, Texas. What began as a garage operation fabricating gutters and flashing has grown into one of Houston’s custom metal fabrication facilities. The company remains family-owned and operated, with the fourth generation of the Campo family now part of the team.
 
-The shop provides custom metal fabrication services including water jet cutting, press brake forming, plate rolling, structural rolling, shearing, plasma and oxyfuel cutting, metal punching and drilling, sawing, and welding. Equipment includes three CNC water jets, multiple press brakes, turret punches, plate rolls, structural rolls, saws, drill presses, and a robotic welding cell for repeatable welds on production parts. The company describes its operation as a one‑stop shop capable of handling complete turnkey projects or individual piece work.
+The shop provides a full range of metal fabrication services, including water jet cutting, press brake forming, plate rolling, plasma and oxyfuel cutting, shearing, structural rolling, punching, drilling, sawing, and welding. Equipment includes three CNC water jets, multiple press brakes, turret punches, plate and structural rolls, saws, drill presses, and a robotic welding cell for consistent repeat welds. The facility operates as a one-stop shop, handling design assistance through turnkey fabrication.
 
-Customers span oil and gas, aerospace, petrochemical, architectural, food and beverage plants, material handling, and marine industries. Examples cited include cutting 12‑1/2‑inch rod for a marine clevis and a range of custom steel fabrications for industrial and manufacturing markets.
+Campo serves industrial and manufacturing markets such as oil and gas, aerospace, petrochemical, architectural, food and beverage plants, material handling, and marine. Examples include cutting 12½-inch rod for marine clevises and fabricating structural components for petrochemical plants.
 
-The company emphasizes its family values of honesty, integrity, and respect in daily client interactions, and points to over nine decades of satisfied clients as evidence of its track record for delivering quality fabricated products on schedule.
+The company emphasizes family values of honesty, integrity, and respect in daily client interactions. It differentiates itself through in-house capabilities that enable tight-tolerance water jet cutting, robotic welding for repeat parts, and competitive cost and lead times on complete fabricated assemblies.
 
 ## Known for
-- Family owned and operated with fourth‑generation involvement
-- One‑stop shop for complete fabrication projects
-- Robotic welding cell for consistent repeat welds
-- Precision water jet cutting with tight tolerances
-- Competitive cost and lead time on turnkey work
+- Family-owned and operated since 1926, now fourth generation
+- One-stop shop for complete fabrication from design to delivery
+- Robotic welding cell for consistent repeat-part welds
+- Three CNC water jets for tight-tolerance cutting
+- In-house press brakes, turret punches, plate and structural rolls
 
 ## Capabilities
 - Custom metal fabrication
 - Water jet cutting
 - Press brake forming
 - Plate rolling
-- Structural rolling
-- Shearing
 - Plasma cutting
 - Oxyfuel cutting
+- Shearing
+- Structural rolling
 - Metal punching
 - Drilling
 - Sawing
 - Welding
 - Robotic welding
 - Turret punching
+- Design assistance
 - Turnkey fabrication
 
 ## Industries
@@ -404,7 +383,7 @@ The company emphasizes its family values of honesty, integrity, and respect in d
 - Marine
 
 ## Equipment
-- CNC water jets (three)
+- Three CNC water jets
 - Press brakes
 - Turret punches
 - Plate rolls
@@ -422,18 +401,16 @@ The company emphasizes its family values of honesty, integrity, and respect in d
 
 <details><summary>Sources</summary>
 
-- Founded 1926 by Salvatore Campo in Houston garage -> /
-- Family owned and operated, fourth generation -> /
-- Location: 5301 Polk Street, Building 15, Houston, TX 77023 -> /
-- Services: custom metal fabrication, water jet cutting, press brake forming, plate rolling -> /
-- Industries: oil and gas, aerospace, petrochemical, architectural, food and beverage, material handling -> /
-- Marine industry example: cutting 12-1/2" rod for clevis -> db
-- Equipment: three CNC water jets, press brakes, turret punches, plate rolls, structural rolls, saws, drill presses, welding equipment, robotic welding machine -> /capabilities
-- One-stop shop for entire fabrication process -> /capabilities
-- Robotic welding for consistent welds on repeat parts -> /capabilities
+- Founded 1926 by Salvatore Campo in Houston, Texas -> /
+- Family-owned, fourth generation -> /
+- Specializes in custom metal fabrication, water jet cutting, press brake forming, plate rolling -> /
+- Serves oil and gas, aerospace, petrochemical, architectural, food and beverage, material handling, marine -> /, /capabilities, db
+- Operates three CNC water jets, press brakes, turret punches, plate rolls, structural rolls, saws, drill presses, robotic welding machine -> /capabilities, db
+- One-stop shop for complete fabrication process -> /capabilities
+- Robotic welding for consistent repeat parts -> /capabilities
+- Family values of honesty, integrity, respect -> /
 - Competitive cost and lead time -> /capabilities
-- Family values: honesty, integrity, respect -> /
-- Over nine decades of satisfied clients -> /
+- Address: 5301 Polk Street, Building 15, Houston, TX 77023 -> /
 </details>
 
 ---
@@ -443,56 +420,53 @@ The company emphasizes its family values of honesty, integrity, and respect in d
 **Old description:** Somos una compañía multinacional líder en la industria de alimentos que produce, comercializa y distribuye carnes frías, carnes maduradas, lácteos y otros productos en México, Europa, EE. UU. y América Latina.
 
 ## About
-Campofrio Food Group America, headquartered in South Chesterfield, Virginia, operates as the U.S. arm of Sigma Foods, a multinational food company that produces, markets, and distributes cold meats, cured meats, dairy products, and other food items across Mexico, Europe, the United States, and Latin America. The company's origins trace back to its parent organization's establishment as a global food leader, though a specific founding year for the American entity is not publicly disclosed.
+Campofrio Food Group America operates from South Chesterfield, Virginia, as the U.S. arm of Sigma Foods, a multinational food company owned by the Mexican conglomerate ALFA. The business produces, markets, and distributes a wide range of refrigerated and cured meats, dairy items, and other food products across Mexico, Europe, the United States, and Latin America.
 
-Its portfolio spans over 100 brands, 16 of which generate net sales exceeding US$100 million each. Core operations include meat curing, cold-cut processing, dairy manufacturing, and a resilient supply chain that supports large-scale distribution.
+Its portfolio encompasses over 100 brands worldwide, with 16 brands each generating more than US$100 million in net sales. Core operations include meat processing, curing, dairy production, and large-scale distribution supported by a resilient supply chain.
 
-The business serves consumer markets globally through retail and foodservice channels, with a brand portfolio that includes household names in multiple countries. Recent moves such as the 2026 acquisition of Roger Wood have strengthened its U.S. brand lineup, signaling a focus on expanding its American footprint.
+Campofrio Food Group America serves the food manufacturing and consumer packaged goods sectors, supplying retail, foodservice, and industrial channels. Its U.S. presence was strengthened in April 2026 with the acquisition of Roger Wood, a move that expanded its brand portfolio in the American market. Customers range from global retailers to local distributors seeking branded and private-label meat and dairy products.
 
-Sigma Foods differentiates itself through a consumer-centric innovation model anchored by The Studio, a global design and innovation center, and Tastech, an open-innovation program that has evaluated more than 2,850 startups and run 59 pilots across nine countries. The company cites its solid culture, deep consumer insight, and broad geographic reach as key competitive advantages.
+Differentiation centers on consumer-driven innovation. Sigma Foods operates "The Studio," a global excellence center for design and innovation, and runs "Tastech by Sigma," an open-innovation program that has evaluated more than 2,850 startups and executed 59 pilots across nine countries with a network of over 200 global partners. These capabilities enable rapid development of new products aligned with evolving consumer preferences.
 
 ## Known for
-- Consumer-centric innovation via The Studio global design center
-- Open innovation program Tastech with 2,850+ startups evaluated
-- Resilient supply chain across 66 plants in 17 countries
-- Portfolio of 100+ brands, 16 exceeding US$100M in net sales
-- Recent U.S. expansion through acquisition of Roger Wood
+- Global innovation center "The Studio" for consumer-centric product design
+- Open innovation program Tastech with 2,850+ startups analyzed and 59 pilots executed
+- 66 manufacturing plants across 17 countries providing resilient supply chain
+- Portfolio of 100+ brands including 16 with annual net sales exceeding US$100 million
+- Strategic acquisition of Roger Wood (2026) strengthening U.S. market position
 
 ## Capabilities
-- Cold meat production
-- Cured meat production
-- Dairy processing
-- Food marketing and distribution
-- Consumer research and innovation
-- Open innovation program management
+- Meat processing and curing
+- Dairy product manufacturing
+- Food product innovation and R&D
+- Global supply chain and distribution
 - Brand portfolio management
-- Supply chain management
+- Open innovation collaboration
 
 ## Industries
 - Food manufacturing
 - Meat processing
 - Dairy processing
 - Consumer packaged goods
+- Food distribution
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Employees:** 48,000+
+- **Ownership:** Subsidiary of Sigma Foods (ALFA)
 - **Headquarters:** South Chesterfield, Virginia
 
 <details><summary>Sources</summary>
 
-- Headquarters in South Chesterfield, Virginia -> db
-- Multinational food company producing, marketing, distributing cold meats, cured meats, dairy and other products -> db, /
-- Global workforce of 48,000+ employees -> /
-- Annual revenue US$9,273 million -> /
-- Operating cash flow US$1,099 million -> /
-- 66 production plants across 17 countries -> /
-- 1.8 million tons of food sold per year -> /
-- Portfolio of 100+ brands globally, 16 with net sales over US$100M -> /
-- Innovation center The Studio for consumer-centric design -> /
-- Open innovation program Tastech with 2,850+ startups analyzed, 59 pilots in 9 countries, 200+ allies -> /
-- Acquisition of Roger Wood in 2026 to strengthen U.S. portfolio -> /
-- Strengths: solid culture, world-class brands, consumer understanding, resilient supply chain, innovation/R&D, geographic presence -> /
+- South Chesterfield, Virginia headquarters -> db
+- Part of Sigma Foods (ALFA) -> /
+- Produces cold meats, cured meats, dairy -> /
+- 66 plants, 17 countries, 48,000+ employees, $9.273B revenue -> /
+- 1.8 million tons food sold annually -> /
+- Over 100 brands, 16 with >$100M sales -> /
+- Innovation center 'The Studio' -> /
+- Tastech program: 2,850+ startups, 59 pilots, 200+ allies -> /
+- Acquired Roger Wood April 2026 -> /
 </details>
 
 ---
@@ -502,39 +476,40 @@ Sigma Foods differentiates itself through a consumer-centric innovation model an
 **Old description:** Carbone Metal Fabricator brings passion and expertise to the creation of the most visually stunning, custom-fabricated stainless-steel and metal products. Check out our key areas of expertise below.
 
 ## About
-Carbone Metal Fabricator Inc. has operated from Chelsea, Massachusetts since its founding in 1966. The privately held company specializes in custom-fabricated stainless steel and metal products for commercial and high-end residential projects.
+Carbone Metal Fabricator Inc. operates from a 44,000-square-foot facility in Chelsea, Massachusetts. The company was founded in 1966 and has built a reputation over six decades for custom-fabricated stainless-steel and metal products.
 
-The 44,000-square-foot facility houses state-of-the-art equipment for fabrication, engineering, project management, design and prototyping, and support services. The shop produces foodservice equipment, healthcare laboratory apparatus, residential architectural features such as stair railings and kitchen hoods, and decorative metal pieces for commercial and residential spaces. Each project is assigned a dedicated team of tenured engineers and detail-focused project managers to ensure precise installation.
+The shop provides a full suite of in-house services including fabrication, engineering, project management, design and prototyping, and support services with installation coordination. Its equipment roster includes state-of-the-art manufacturing technology for precision work, producing items ranging from foodservice equipment and healthcare laboratory apparatus to residential architectural features such as stair railings and kitchen hoods, as well as decorative metal pieces for commercial and residential spaces.
 
-Carbone serves the foodservice, healthcare, residential construction, and decorative metals sectors. Notable projects include the Corning Museum of Glass, the Dean & DeLuca STAGE and the Alexan Wrentham Apartments. The company works closely with architects, interior designers, contractors, and owners to execute custom details.
+Carbone serves the foodservice, healthcare, residential, and decorative metals sectors. Notable projects include the Corning Museum of Glass, the Dean & DeLuca STAGE and the Alexan Wrentham Apartments. The company works closely with architects, interior designers, contractors, and research institutions to deliver custom metalwork.
 
-The firm emphasizes delivering a dependable, timely, and pristine product on the first pass, a reputation built over six decades. Its quality control procedures aim to exceed national safety standards, and the team prides itself on tackling challenging projects with jewelry-quality craftsmanship.
+The firm emphasizes a “first-pass” quality standard, assigning a dedicated team of tenured engineers and project managers to each job. Its quality-control procedures are designed to meet or exceed national safety standards, and the company describes its output as jewelry-quality craftsmanship built to withstand rigorous commercial use.
 
 ## Known for
-- Dependable, timely, and pristine product on the first pass
-- Dedicated team with tenured engineers and detail-focused project managers
-- 44,000 sq ft facility with state-of-the-art specialized manufacturing equipment
-- Quality control procedures that exceed national safety standards
-- Jewelry-quality craftsmanship on challenging custom projects
+- First-pass quality: dependable, timely, and pristine product delivery
+- 44,000 sq ft facility with state-of-the-art specialized equipment
+- Dedicated project teams including tenured engineers and project managers
+- Products meet or exceed national safety standards
+- Jewelry-quality craftsmanship with strict quality control
 
 ## Capabilities
-- Custom metal fabrication
-- Engineering and design
-- Project management
-- Design and prototyping
-- Support services and installation coordination
-- Foodservice equipment fabrication
-- Healthcare laboratory equipment fabrication
-- Residential architectural metalwork
-- Decorative metal fabrication
+- Fabrication (custom stainless steel and metal)
+- Engineering
+- Project Management
+- Design & Prototyping
+- Support Services
+- Installation Coordination
+- Foodservice Equipment Fabrication
+- Healthcare Laboratory Equipment Fabrication
+- Residential Architectural Metalwork
+- Decorative Metal Fabrication
 
 ## Industries
 - Foodservice
 - Healthcare
-- Residential construction
-- Commercial construction
-- Architectural metalwork
-- Decorative metals
+- Residential
+- Decorative Metals
+- Commercial
+- Institutional
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -543,16 +518,16 @@ The firm emphasizes delivering a dependable, timely, and pristine product on the
 
 <details><summary>Sources</summary>
 
-- Founded 1966 -> db
-- Headquarters Chelsea, Massachusetts -> db
+- Founded in 1966 -> db
+- Headquartered in Chelsea, Massachusetts -> db
 - 44,000 sq ft facility -> /about-us
+- Custom fabrication of stainless steel and metal products -> /
 - Services: Fabrication, Engineering, Project Management, Design & Prototyping, Support Services -> /services
-- Industries: Foodservice, Healthcare, Residential, Decorative Metals -> /
+- Industries served: Foodservice, Healthcare, Residential, Decorative Metals -> /
 - Projects: Corning Museum of Glass, Dean & DeLuca STAGE, 50 Liberty Drive, Alexan Wrentham Apartments -> / and db
-- Reputation built over 60 years -> /about-us
-- Exceed national safety standards -> /about-us
-- Dedicated team with tenured engineers and detail-focused project managers -> /about-us
-- Jewelry-quality pieces with state-of-the-art manufacturing techniques -> /services
+- Dedicated team per project with tenured engineers and project managers -> /about-us
+- Products meet or exceed national safety standards -> /about-us
+- Jewelry-quality craftsmanship with strict quality control -> /services
 </details>
 
 ---
@@ -562,61 +537,56 @@ The firm emphasizes delivering a dependable, timely, and pristine product on the
 **Old description:** Carnegie has been a certified B Corp since 2014 as a result of the company’s ongoing commitment to creating socially and environmentally responsible products and business practices.
 
 ## About
-Carnegie Fabrics, based in New York, New York, was founded in 1950. The company has operated as a B Corp certified manufacturer since 2014, focusing on sustainable textiles and wallcoverings.
+Carnegie Fabrics was founded in 1950 in New York, New York. The company has operated as a manufacturer of interior textiles, wallcoverings, and acoustic solutions for over 70 years.
 
-The company manufactures proprietary Xorel® textiles, including Biobased Xorel®—the first plant-based high-performance textile to achieve Living Product Challenge Certification—as well as PVC-free wallcoverings and customizable acoustic solutions such as Xorel Artform and Kirei. It also provides complimentary design services including curated sample packages, layout renderings, and budget projections.
+Carnegie produces proprietary Xorel® brand textiles, including Biobased Xorel®—the world’s first plant-based, high-performance textile made from 85% rapidly renewable sugarcane. The product portfolio spans PVC-free upholstery, wallcoverings, and fully customizable acoustic solutions such as Xorel Artform and Kirei. The company also provides complimentary design services, including curated sample packages, layout renderings, and budget projections for acoustic installations.
 
-Carnegie serves the commercial interior design and architecture sectors, supplying materials for workplaces, healthcare, hospitality, and other built environments. Its products have been specified in projects requiring Health Product Declarations and PVC-free specifications. Partnerships with Creation Baumann, WOOD-SKIN, and Kirei extend its material offerings.
+The company serves architects, interior designers, and specifiers across commercial, healthcare, hospitality, education, and corporate office projects. Its materials have been specified in projects requiring high-performance, sustainable interiors, and the firm partners with organizations such as Creation Baumann and WOOD-SKIN to expand its material offerings.
 
-Carnegie differentiates itself as the first and only 100% PVC-free interior textile, wallcovering, and acoustics company, maintaining B Corp certification and providing Health Product Declarations for every product. Its design services aim to save specifiers billable hours through same-day sample shipping and overnight delivery.
+Carnegie differentiates itself as the first and only 100% PVC-free interior textile and wallcovering company, a commitment it describes as a “forever promise.” It has maintained B Corp certification since 2014, provides Health Product Declarations for every product, and achieved Living Product Challenge Certification for Biobased Xorel—industry-first credentials that underscore its focus on material transparency and environmental responsibility.
 
 ## Known for
-- First and only 100% PVC-free textiles, wallcovering, and acoustics company
-- B Corp certified since 2014
+- First and only 100% PVC-free interior textile and wallcovering company
 - Biobased Xorel: first textile to achieve Living Product Challenge Certification
+- B Corp certified since 2014
 - Health Product Declarations provided for every product
-- Complimentary design services with same-day samples and overnight shipping
+- Complimentary design services including same-day sample curation and overnight delivery
 
 ## Capabilities
-- Textile manufacturing
+- Textile manufacturing (Xorel, Biobased Xorel)
 - Wallcovering manufacturing
-- Acoustic solutions manufacturing
-- Design services
-- Curated sample service
-- Layout and rendering services
-- Budget projection services
-- Health Product Declaration preparation
-- Biobased material development
-- PVC-free material formulation
+- Acoustic solutions manufacturing (Xorel Artform, Kirei)
+- Design services: curated sample packages, layout renderings, budget projections
+- Xorel Artform design and layout services
+- Acoustic solution design services
 
 ## Industries
-- Interior textiles
-- Wallcoverings
-- Acoustic solutions
-- Commercial interiors
-- Built environment
+- Commercial interior design
+- Architecture
+- Healthcare
+- Hospitality
+- Education
+- Corporate workplace
 
 ## Certifications
 - B Corp
-- Living Product Challenge Certification
+- Living Product Challenge
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1950
-- **Headquarters:** New York, New York
+- **Headquarters:** New York, NY
 
 <details><summary>Sources</summary>
 
-- Founded 1950 -> /about-us
-- Headquarters New York, NY -> db
-- B Corp certified since 2014 -> /about-us
-- First and only PVC-free interior textile and wallcovering company -> /about-us
-- Manufacturer -> /about-us
-- Biobased Xorel first Living Product Challenge Certification -> /about-us
-- Health Product Declarations for every product -> /about-us
-- Complimentary design services (curated samples, layouts, renderings, budget projections) -> /about-us
+- Founded 1950 in New York, NY -> /about-us
+- B Corp certified since 2014 -> /, /about-us
+- First and only PVC-free interior textile and wallcovering company -> /, /about-us
+- Biobased Xorel first textile to achieve Living Product Challenge Certification -> /, /about-us
+- Proprietary Xorel brand textiles -> /about-us
+- Complimentary design services (curated samples, acoustic layout, Xorel Artform design) -> /, /about-us
 - Partnerships with Creation Baumann, WOOD-SKIN, Kirei -> /about-us
-- Outdoor Biobased Xorel made from rapidly renewable sugarcane -> /about-us
+- Health Product Declarations for every product -> /, /about-us
 - Same day solutions, overnight samples -> /about-us
 </details>
 
@@ -627,27 +597,20 @@ Carnegie differentiates itself as the first and only 100% PVC-free interior text
 **Old description:** Carolina Custom Woodworks, LLC is veteran owned and operated. We specialize in custom tile and woodwork. We pride ourselves on providing the highest quality materials and craftsmanship. Let us help you make your home one of a kind and transform your vision into an extraordinary reality. Now serving Fort Mill, SC and surrounding area.
 
 ## About
-Carolina Custom Woodworks, LLC is a veteran-owned business based in Fort Mill, South Carolina. The company serves the Fort Mill, SC area and surrounding communities, specializing in custom tile and woodwork for residential clients.
+Carolina Custom Woodworks, LLC operates from Fort Mill, South Carolina. The company is veteran owned and operated, though no founding year or founder names are disclosed in available sources. It began as a specialist in custom tile and woodwork for residential clients in the Fort Mill area.
 
-The shop focuses on custom woodworking and tile installation, creating built-in cabinetry, laundry rooms, and other functional spaces tailored to each client's vision. The company states it prides itself on providing the highest quality materials and craftsmanship in every project.
+The firm provides custom woodworking and tile installation services, creating built-in cabinetry, laundry room renovations, and other functional woodwork for homeowners. No facility size, headcount, or production volumes are published.
 
-Its primary customers are residential homeowners in the Fort Mill and Rock Hill areas, as reflected in testimonials from clients who have had built-ins, laundry rooms, and other custom woodwork completed. One client noted the transformation of empty spaces into functional areas, while another described a newly built laundry room as a favorite place in the home.
+Its customer base consists of residential property owners in Fort Mill and nearby communities such as Rock Hill, South Carolina. Testimonials reference custom built-ins, laundry room build-outs, and transformation of empty spaces into functional living areas.
 
-The business was founded on the principle of transforming clients' visions into reality, with the owner's veteran background informing a commitment to precision and reliability.
+The company states it prides itself on high-quality materials and craftsmanship, but no specific founding mission or differentiated value proposition beyond that claim is documented.
 
 ## Known for
-- Veteran-owned and operated
-- Specializes in custom tile and woodwork
-- Focus on high-quality materials and craftsmanship
+- Veteran owned and operated
 
 ## Capabilities
 - Custom woodworking
 - Tile installation
-- Built-in cabinetry
-
-## Industries
-- Residential
-- Home renovation
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -656,12 +619,11 @@ The business was founded on the principle of transforming clients' visions into 
 
 <details><summary>Sources</summary>
 
-- Veteran-owned and operated -> db
-- Specializes in custom tile and woodwork -> db
-- Headquartered in Fort Mill, South Carolina -> db
-- Serves Fort Mill, SC and surrounding area -> /
-- Testimonials from homeowners in Fort Mill and Rock Hill -> /
-- Company prides itself on highest quality materials and craftsmanship -> /
+- Veteran owned and operated -> db, /
+- Specializes in custom tile and woodwork -> db, /
+- Located in Fort Mill, South Carolina -> db
+- Serves Fort Mill, SC and surrounding area -> db, /
+- Testimonials from customers in Fort Mill and Rock Hill, SC -> /
 </details>
 
 ---

@@ -3,28 +3,29 @@
 **Old description:** Since 1962, Electrical Equipment LLC has been the name Eastern Idaho trusts for electrical work done right. Led by Brook Jensen, Licensed Master Electrician, we bring over 30 years of hands-on experience and an uncompromising commitment to safety and quality.
 
 ## About
-Electrical Equipment LLC has operated from Idaho Falls, Idaho since 1962. The company was founded by Brook Jensen, a licensed Master Electrician who continues to lead the business as owner and president. Jensen brought over 30 years of hands-on electrical experience across residential, commercial, and industrial sectors when he established the firm.
+Electrical Equipment LLC has operated from Idaho Falls, Idaho since 1962. The company is owned and led by Brook Jensen, a Licensed Master Electrician with over 30 years of hands-on experience. Jensen founded the business and serves as president, overseeing estimating, project management, safety compliance, and customer relationships. The firm has built a reputation across Eastern Idaho for reliable electrical work backed by a master electrician on every job.
 
-The contractor provides full-spectrum electrical services through six primary divisions: residential, commercial, industrial, agricultural, generators & emergency power, and government & institutional. Its 8 licensed electricians handle panel upgrades, EV charger installations, LED lighting retrofits, three-phase power distribution, motor controls and VFDs, motor control centers, switchgear maintenance, conduit systems, irrigation pump wiring, grain bin and elevator systems, barn and outbuilding wiring, generator connections, automatic and manual transfer switches, UPS coordination, and standby power testing. The team commits to a 2-hour emergency response for critical outages and serves a 200-mile radius across Eastern Idaho.
+The company provides full-spectrum electrical services through six divisions: residential (panel upgrades, new circuits, EV charger installations, safety inspections), commercial (preventive maintenance, LED retrofits, lighting controls, tenant improvements, code compliance), industrial (three-phase power distribution, motor controls and VFDs, motor control centers, switchgear maintenance, conduit systems, outage coordination), agricultural (irrigation pump wiring, grain bin systems, barn wiring, livestock facility power, weatherproof installations), generators and emergency power (generator connections, transfer switches, UPS coordination, standby power testing), and government/institutional work (SAM.gov registered, OSHA and NFPA 70E compliant, written lockout/tagout program, full documentation). A crew of eight licensed electricians, including foreman Ken Cathey with 30-plus years of experience, executes projects within a 200-mile radius of Idaho Falls.
 
-Customers include homeowners, business and property managers, manufacturing and processing plants, farms, dairies, and government-adjacent facilities such as the BEA and INL area. The company is SAM.gov registered (UEI: DZU2WXSS6K6) and maintains OSHA and NFPA 70E compliance with a written lockout/tagout safety program.
+Customers include homeowners, commercial property managers, farms, dairies, manufacturing plants, and government-adjacent facilities such as those associated with the Idaho National Laboratory and the Bureau of Eastern Idaho. The company's SAM.gov registration and compliance with federal work-authorization requirements enable it to serve institutional clients directly.
 
-Electrical Equipment LLC emphasizes integrity, safety, and documentation. Every job includes before-and-after photos, test readings, and written completion reports. The firm carries a Master Electrician license, $1 million general liability insurance, workers compensation, and $1 million bonding. Jobs are managed through professional software for real-time scheduling, digital invoicing, and complete job history.
+Electrical Equipment LLC emphasizes integrity, safety, and documentation. Every job follows a mandatory test-before-touch protocol, arc-flash PPE requirements, and a written lockout/tagout program aligned with NFPA 70E. The firm commits to a two-hour emergency response for critical outages, provides before-and-after photos with test readings and written completion reports, and carries $1 million in general liability insurance and $1 million in bonding. All projects are managed through professional software for real-time scheduling, digital invoicing, and complete job history.
 
 ## Known for
-- Master Electrician on every job
-- Safety program with LOTO policy, NFPA 70E compliance, arc flash PPE, and mandatory test-before-touch
-- Documented work including before/after photos, test readings, and written completion reports
 - 2-hour emergency response for critical outages and safety hazards
-- Licensed, insured, and bonded with $1M general liability and $1M bonding
+- SAM.gov registered (UEI: DZU2WXSS6K6) with federal work-authorization compliance
+- OSHA and NFPA 70E compliant with written lockout/tagout program and mandatory test-before-touch protocol
+- Master Electrician on every job; $1M general liability insurance and $1M bonding
+- Documented work with before/after photos, test readings, and written completion reports
 
 ## Capabilities
-- Residential electrical services (panel upgrades, new circuits, GFCI/AFCI protection, EV charger installation, home safety inspections, ceiling fans & lighting)
-- Commercial electrical maintenance (preventive maintenance programs, LED lighting retrofits, lighting controls & sensors, tenant improvement wiring, emergency & exit lighting, code compliance upgrades)
-- Industrial electrical systems (three-phase power distribution, motor controls & VFDs, motor control centers (MCCs), switchgear & panel maintenance, conduit systems, planned outage coordination)
-- Agricultural electrical systems (irrigation pump wiring, grain bin & elevator systems, barn & outbuilding wiring, livestock facility power, weatherproof installations, load management systems)
-- Generator & emergency power (generator connections & hookup, automatic transfer switches, manual transfer switches, UPS system coordination, emergency lighting systems, standby power testing)
-- Government & institutional electrical services (SAM.gov registered, OSHA & NFPA 70E compliant, written LOTO safety program, full documentation & reporting, work authorization compliance)
+- Residential electrical services (panel upgrades, new circuits, GFCI/AFCI protection, EV charger installation, home safety inspections, ceiling fan and lighting installation)
+- Commercial electrical maintenance and installation (preventive maintenance programs, LED lighting retrofits, lighting controls and sensors, tenant improvement wiring, emergency and exit lighting, code compliance upgrades)
+- Industrial electrical systems (three-phase power distribution, motor controls and VFDs, motor control centers (MCCs), switchgear and panel maintenance, conduit systems, planned outage coordination)
+- Agricultural electrical systems (irrigation pump wiring, grain bin and elevator systems, barn and outbuilding wiring, livestock facility power, weatherproof installations, load management systems)
+- Generator and emergency power systems (generator connections and hookup, automatic transfer switches, manual transfer switches, UPS system coordination, emergency lighting systems, standby power testing)
+- Government and institutional electrical services (SAM.gov registered, OSHA and NFPA 70E compliance, written LOTO safety program, full documentation and reporting, work authorization compliance)
+- 2-hour emergency response for critical outages
 
 ## Industries
 - Residential
@@ -43,26 +44,28 @@ Electrical Equipment LLC emphasizes integrity, safety, and documentation. Every 
 - Idaho Electrical Contractor License #056784
 - $1M General Liability Insurance
 - $1M Bonding
-- Workers Compensation Insurance
 
 ## Company details
 - **Company Type:** Installer / service company
 - **Founded:** 1962
 - **Employees:** 8 licensed electricians
+- **Ownership:** Private, owner-led
 - **Headquarters:** Idaho Falls, Idaho
 
 <details><summary>Sources</summary>
 
-- Founded 1962 -> db
-- Headquarters Idaho Falls, Idaho -> db
-- Owner Brook Jensen, Licensed Master Electrician -> /
-- 8 licensed electricians -> /
-- 2-hour emergency response -> /
-- SAM.gov registered UEI DZU2WXSS6K6 -> /
-- OSHA 10/30, NFPA 70E certified -> /
-- $1M GL insurance, $1M bonding -> /
-- Services: residential, commercial, industrial, agricultural, generators, government -> /
-- Serves Eastern Idaho within 200-mile radius -> /
+- Founded 1962 in Idaho Falls, Idaho -> db and homepage
+- Owned and led by Brook Jensen, Licensed Master Electrician -> homepage and team page
+- 8 licensed electricians on staff -> homepage
+- Services: residential, commercial, industrial, agricultural, generators, government -> homepage
+- SAM.gov registered (UEI: DZU2WXSS6K6) -> homepage
+- OSHA & NFPA 70E compliant with written LOTO program -> homepage
+- 2-hour emergency response commitment -> homepage
+- $1M general liability insurance and $1M bonding -> homepage
+- Master Electrician license #052024, ID License #056784 -> homepage
+- Foreman Ken Cathey with 30+ years experience -> homepage
+- Serves Eastern Idaho within 200-mile radius -> homepage
+- Professional job management software for scheduling, invoicing, job history -> homepage
 </details>
 
 ---
@@ -72,53 +75,52 @@ Electrical Equipment LLC emphasizes integrity, safety, and documentation. Every 
 **Old description:** Since 1961 Electrical Materials Company has been a manufacturer, developer, and supplier of products to serve the needs of The Electrical Utility, Telephone and CATV industries. Our multifaceted manufacturing capacity allows us to meet the needs of our diverse customer base. Some of our products include Cable Enclosures, Guy Markers, U-Guards™ (pole risers), Wildlife Protectors, Transformer Accessories, Secondary Service Pedestals, RV Electrical Service Pedestals, Posts, and Cable Markers.
 
 ## About
-Electrical Materials Company has operated from Earlville, Illinois since its founding in 1961. The business also maintains a facility in Genoa City, Wisconsin. No founders are named in public records, and ownership structure is not disclosed.
+Electrical Materials Company has operated from Earlville, Illinois since its founding in 1961. The company also introduced the first secondary service pedestals to the market in its inaugural year.
 
-The company manufactures a range of pole‑line and underground distribution hardware for electric utilities, telephone and CATV providers. Its product line includes cable enclosures, guy markers, U‑Guard™ pole risers (both steel and plastic), wildlife protectors, transformer accessories, secondary service pedestals (steel rounded, rectangular or square), RV and mobile‑home power pedestals (metered and unmetered), mounting posts, brackets, ground‑wire molding, conduit duct plugs and cable markers.
+Today the company produces a broad line of pole‑line and underground distribution components, including cable enclosures, guy markers, wildlife protectors, transformer accessories, secondary service pedestals in steel and plastic, RV and mobile‑home power pedestals (metered and unmetered), cable markers, duct shields, and mounting hardware. Its manufacturing capacity covers both overhead and underground product families, and it designs ergonomic utility tools such as blanket clamp hooks and outrigger pads.
 
-Primary customers are investor‑owned and municipal electric utilities, telephone companies, cable‑TV operators, and RV‑park developers. The company also supplies contractors who install overhead and underground distribution systems. Examples from its catalog include transformer mounting cleats for utility substations, perch guards for avian protection, and ergonomic lineman tools such as blanket clamp hooks and outrigger pads.
+Customers include investor‑owned and municipal electric utilities, telephone and CATV operators, contractors serving underground distribution networks, and RV parks or temporary‑power providers. The product range addresses overhead line construction, underground cable management, transformer mounting, and secondary service connections.
 
-Electrical Materials Company emphasizes its early‑mover advantage in pole‑riser and pedestal design, stating it remains a leader in quality and innovation for electrical pedestals, cabinets and enclosures. UL‑listed products and a focus on lineman safety through ergonomic tool design are cited as ongoing differentiators.
+The company emphasizes its early innovation in U‑Guard design and its continued leadership in electrical pedestals, cabinets, and enclosures, noting that its power pedestals are built as durable, weatherproof units for long service life.
 
 ## Known for
-- First to market with secondary service pedestals (1961)
-- UL‑listed product line
-- Manufactures both overhead and underground distribution hardware
-- Designs ergonomic tools for lineman safety and speed
+- First to market with secondary service pedestals in 1961
+- UL Listed product certification
+- Durable, weatherproof power pedestals designed for long service life
+- Multifaceted manufacturing capacity for overhead and underground hardware
 
 ## Capabilities
-- Pole line hardware manufacturing
-- Underground electric distribution product manufacturing
-- Transformer accessory manufacturing (mounting cleats, markers)
-- Secondary service pedestal manufacturing (steel rounded, rectangular/square)
-- RV/mobile home/temporary electrical service pedestal manufacturing (metered and unmetered)
-- Cable enclosure manufacturing
-- Guy marker manufacturing
-- U-Guard (pole riser) manufacturing (plastic and steel)
-- Wildlife protector manufacturing
-- Ground wire molding
-- Conduit to U-Guard plastic adapter boots
-- Back plates
-- Mounting posts, brackets, hardware
-- Ergonomic lineman tool design (blanket clamp hooks, outrigger pads, lock and block overhead disconnect blade switch)
-- Conduit duct plugs
-- Cable markers
-- Duct shields
-- Cable saddles
-- Perch guards
-- Staples
-- Double coil spring lock washers
-- Conduit mounting brackets (stand off)
-- Pole mounted straps
-- Grounding clamps (stainless)
-- U-Guard adapters (plastic and steel)
+- Manufacturing of pole line hardware (overhead)
+- Manufacturing of underground electric distribution products
+- Manufacturing of transformer accessories
+- Manufacturing of secondary service pedestals (steel and plastic)
+- Manufacturing of RV and mobile home electrical service pedestals
+- Manufacturing of cable enclosures
+- Manufacturing of guy markers (guy guards)
+- Manufacturing of U-Guards (pole risers) in plastic and steel
+- Manufacturing of wildlife protectors
+- Manufacturing of double coil spring lock washers
+- Manufacturing of ground wire molding
+- Manufacturing of conduit to U-Guard plastic adapter boots
+- Manufacturing of back plates
+- Manufacturing of cable markers
+- Manufacturing of duct shields
+- Manufacturing of cable saddles
+- Manufacturing of transformer hold down cleats
+- Manufacturing of mounting posts, brackets, and hardware
+- Design of ergonomic utility tools
+- Manufacturing of U-Guard adapters (plastic and steel)
+- Manufacturing of grounding clamps (stainless)
+- Manufacturing of pole mounted straps
+- Manufacturing of conduit mounting brackets (stand off)
 
 ## Industries
 - Electrical Utility
-- Telephone
-- CATV
-- RV Parks
-- Mobile Home Parks
+- Telecommunications
+- Cable Television (CATV)
+- Underground Electric Distribution
+- Recreational Vehicle (RV) Power
+- Mobile Home Power
 - Temporary Electrical Service
 
 ## Certifications
@@ -131,15 +133,17 @@ Electrical Materials Company emphasizes its early‑mover advantage in pole‑ri
 
 <details><summary>Sources</summary>
 
-- Founded in 1961 -> db description and page '/'
-- Headquarters in Earlville, IL and Genoa City, WI -> db hq_city/hq_state_label and page '/'
-- Manufactures pole line and underground distribution hardware -> page '/'
-- Products include cable enclosures, guy markers, U-Guards, wildlife protectors, transformer accessories, secondary service pedestals, RV pedestals -> description and page '/'
-- Serves Electrical Utility, Telephone, CATV industries -> description and page '/'
-- UL Listed certification -> certifications array and page '/'
-- Pioneered flanged U-Guard in early 1960s -> page '/'
-- First secondary service pedestals to market in 1961 -> page '/'
-- Designs ergonomic lineman tools -> page '/'
+- Founded 1961 -> db
+- Headquarters Earlville, IL -> db
+- Products: cable enclosures, guy markers, U-Guards, wildlife protectors, transformer accessories, secondary service pedestals, RV pedestals, posts, cable markers -> db
+- Industries: electrical utility, telephone, CATV, underground electric distribution -> db
+- Certification: UL Listed -> db
+- Pioneered flanged U-Guard in early 60s -> /
+- First secondary service pedestals to market in 1961 -> /
+- Leader in electrical pedestals, cabinets, enclosures -> /
+- Power pedestals durable weatherproof -> /
+- Manufactures overhead and underground product families -> /
+- Designs ergonomic utility tools -> /
 </details>
 
 ---
@@ -149,21 +153,22 @@ Electrical Materials Company emphasizes its early‑mover advantage in pole‑ri
 **Old description:** Since 1967, Electro-Core, Inc. has been producing quality silicon steel magnetic core products for commercial, medical and defense industries. Our St. Louis, Missouri metropolitan area facility is centrally located within the continental United States with production and customer service together under one roof.
 
 ## About
-Electro-Core, Inc. has operated from Washington, Missouri, in the St. Louis metropolitan area, since its founding in 1967. The privately held company produces silicon steel magnetic core products for commercial, medical, and defense markets, with production and customer service housed together in a single facility.
+Electro-Core, Inc. was founded in 1967 in Washington, Missouri, a community in the St. Louis metropolitan area. The company began as a producer of silicon steel magnetic cores and has remained in the same region for over five decades. No information about the founders or ownership structure is publicly available.
 
-The manufacturer focuses on silicon steel magnetic core products. Its St. Louis-area facility keeps manufacturing and customer support under one roof, allowing direct coordination between production teams and clients. No specific process details, facility square footage, headcount, or annual volumes are disclosed in public materials.
+The company manufactures silicon steel magnetic core products for a range of applications. Its facility houses both production and customer service operations under one roof, allowing for coordinated manufacturing and support. The company does not disclose specific processes, equipment lists, facility size, headcount, or production volumes in its public materials. It focuses on quality silicon steel magnetic cores, though details on specific alloys or grades are not provided.
 
-Electro-Core serves three broad industry groups: commercial, medical, and defense. The company does not name individual customers or programs in its public materials, but the listed sectors indicate a mix of standard commercial applications and regulated medical and defense work.
+Electro-Core serves customers in commercial, medical, and defense sectors. Its customer base spans commercial, medical, and defense industries, reflecting the broad applicability of its magnetic core products. The company does not disclose specific client names or project examples in its public materials.
 
-The company cites its central location within the continental United States and the co-location of production and customer service as operational advantages. It also references its long history, dating to 1967, as a marker of experience in magnetic core manufacturing.
+Electro-Core emphasizes its central U.S. location and the integration of production with customer service as key advantages. The firm states that this arrangement enables responsive support and consistent quality for its magnetic core products.
 
 ## Known for
-- Centrally located in the continental United States
-- Production and customer service under one roof
-- Operating since 1967
+- Central U.S. location in the St. Louis metro area
+- Production and customer service integrated under one roof
+- Specialized in silicon steel magnetic cores since 1967
+- Serves commercial, medical, and defense markets
 
 ## Capabilities
-- Silicon steel magnetic core production
+- Silicon steel magnetic core manufacturing
 
 ## Industries
 - Commercial
@@ -179,10 +184,9 @@ The company cites its central location within the continental United States and 
 
 - Founded in 1967 -> db
 - Headquarters in Washington, Missouri -> db
-- Produces silicon steel magnetic core products -> /
-- Serves commercial, medical, and defense industries -> /
-- Facility centrally located in continental US -> /
-- Production and customer service under one roof -> /
+- Produces silicon steel magnetic core products -> db, /
+- Serves commercial, medical, and defense industries -> db, /
+- Facility centrally located with production and customer service under one roof -> /
 </details>
 
 ---
@@ -192,19 +196,20 @@ The company cites its central location within the continental United States and 
 **Old description:** Electroparts performs a wide variety of services for the military and general industry. We can provide your company with different kinds of manufacturing services such as assembly of electronic components, cable and wire harness manufacturing, mechanical assembly, and part manufacturing per military drawing or your own specification.
 
 ## About
-Electro Parts Inc operates from West Berlin in Berlin Township, New Jersey. The company serves military and general-industry customers from a facility Ownership structure and founding year are not publicly disclosed.
+Electro Parts Inc operates from Berlin Township, New Jersey, where it provides manufacturing services to military and commercial customers. The company's history and founding year are not publicly disclosed, and ownership details such as family or veteran status have not been stated.
 
-The shop provides electronic-component assembly, cable and wire-harness manufacturing, mechanical assembly, and part fabrication to military drawings or customer specifications. In-house fabrication capabilities include CNC milling, CNC turning, molding, forging, welding, plating, heat treating, and riveting. The company also sources or produces all required hardware such as brackets, washers, screws, and pins. Quality checks are performed at each production stage.
+The shop delivers electronic component assembly, cable and wire harness manufacturing, mechanical assembly, and part fabrication to military drawings or customer specifications. Its fabrication capabilities include CNC milling, CNC turning, molding, forging, welding, plating, heat treating, and riveting, supplemented by the procurement of hardware such as brackets, washers, screws, and pins. The product range spans bearings, bushings, fasteners (AN/MS nuts, bolts, screws, washers), heat‑shrink tubing, pipe fittings, gaskets, O‑rings, pins, seals, springs, and caps.
 
-Electro Parts supplies both commercial and military markets. Military-grade items include AN/MS nuts, washers, and other hardware built to specification. Commercial product lines cover bearings, bushings, bolts, screws, heat-shrink tubing, pipe fittings, gaskets, O-rings, pins, seals, springs, and caps. Customers range from defense subcontractors to general-industrial OEMs.
+Electro Parts serves the military sector and general industry, and it operates as a government subcontractor. No specific customer names are provided in the available information.
 
-The firm states its guiding policy is to make the customer's priorities its own and to treat every project with seriousness. It positions its broad capability set—spanning electronics, cable, mechanical assembly, and metal fabrication—as a single-source solution for mixed-technology requirements.
+The company states that its policy is to make the customer's priorities its own and to treat each business with the seriousness it deserves. It emphasizes quality control at every production stage and positions its broad capability set as a single‑source solution for diverse electronics and hardware requirements.
 
 ## Known for
-- Single-source provider for electronics, cable, mechanical assembly, and metal fabrication
-- Manufactures or procures all required components and hardware in-house
-- Quality control performed at every production stage
-- Works to military drawings and customer specifications alike
+- Broad manufacturing capabilities covering both electronics and general hardware
+- Quality control performed at each stage of production
+- In‑house procurement of all required components and hardware
+- Work to military drawings or customer‑provided specifications
+- Government subcontracting experience
 
 ## Capabilities
 - Electronic component assembly
@@ -220,30 +225,40 @@ The firm states its guiding policy is to make the customer's priorities its own 
 - Plating
 - Heat treating
 - Riveting
+- Component and hardware procurement
 - Quality control inspection
-- Hardware procurement and fabrication
+- Government subcontracting
 
 ## Industries
 - Military
 - General industry
+- Government
 
 ## Equipment
 - CNC milling machines
 - CNC lathes
+- Molding equipment
+- Forging equipment
+- Welding equipment
+- Plating equipment
+- Heat treating equipment
+- Riveting equipment
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Headquarters:** Berlin Township, New Jersey
 
 <details><summary>Sources</summary>
 
-- Location: West Berlin, Berlin Township, NJ 08091 -> page '/'
-- Services: electronic assembly, cable/wire harness, mechanical assembly, part manufacturing to military or customer drawings -> page '/'
-- Fabrication processes: CNC milling, CNC lathe, molding, forging, welding, plating, heat treating, riveting -> page '/'
-- Industries served: military and general industry -> page '/'
-- Product lines: bearings, bushings, bolts, screws, nuts, washers, heat shrink tubing, pipe fittings, gaskets, O-rings, rings, pins, seals, springs, caps -> page '/'
-- Company policy: make customer priorities our priorities -> page '/'
-- Quality control at each production stage -> page '/'
+- Location: Berlin Township, New Jersey (West Berlin NJ 08091) -> /
+- Services: electronic assembly, cable/wire harness, mechanical assembly, part manufacturing per military drawing or customer spec -> /
+- Processes: CNC milling, CNC lathe, molding, forging, welding, plating, heat treating, riveting -> /
+- Hardware procurement: brackets, washers, screws, pins -> /
+- Products: bearings, bushings, bolts, screws, nuts (AN/MS), washers (AN/MS), heat shrink tubing, pipe fittings, gaskets, O-rings, rings, pins, seals, springs, caps -> /
+- Industries: military, general industry, government subcontracting -> /
+- Quality policy: make customer priorities our priorities, treat businesses seriously -> /
+- Quality control at each production stage -> /
+- Company name and website -> db
 </details>
 
 ---
@@ -253,46 +268,56 @@ The firm states its guiding policy is to make the customer's priorities its own 
 **Old description:** We manufacture the best and unique devices some for controlling DC and AC power and some for signal processing to enhance SNR. Among large varieties of SPST, SPDT, DPST relays you’ll find many devices to meet your specifications. From D1L-series (a low cost, medium speed SSRs) to D9F-series (super-high power) devices that ready for switching various powers and drive different kind of loads: AC and DC/AC power, video, flashlamp for SS-laser, DC and stepper motors, solenoids, thermocoolers, audio signal multiplexing, quartz, lamps, coils, plasma, etc.
 
 ## About
-Electronic Design & Research Inc. (EDR), based in Louisville, Kentucky, was founded by Vladimir A. Shvartsman, Ph.D. The company operates under the VSHolding LLC umbrella and specializes in solid-state relays and power-switching devices.
+Electronic Design & Research Inc. (EDR) operates from Louisville, Kentucky, under the holding company VSHolding LLC. The business was founded by Vladimir A. Shvartsman, Ph.D., who remains the principal figure behind its engineering focus. While a founding year is not publicly disclosed, the company has developed a portfolio of solid-state power control and signal-conditioning products over several decades.
 
-EDR manufactures a broad line of solid-state relays (SPST, SPDT, DPST) with MOSFET and IGBT outputs, ranging from the low-cost D1L series to the super-high-power D9F series. The product portfolio also includes full-bridge drivers for piezo transducers and DC motors, electronic load simulation systems (UPEL-2500), DC/DC converters, active and powerline notch filters for medical signal acquisition, and the Super-High-Power Switching Apparatus (SHPSA) capable of 1.6 MW pulses. The company offers custom development with no engineering fee and provides repair services.
+EDR designs and manufactures a broad line of solid-state relays (SPST, SPDT, DPST) using MOSFET and IGBT outputs, ranging from the low-cost D1L series to the super-high-power D9F and D9G series capable of switching up to 1,000 A RMS at 650 VDC. The product range extends to full-bridge drivers for piezo transducers and DC motors, DC/DC converters, active and powerline notch filters for medical signal acquisition, ultra-fast I-V bias generators for MRI spectroscopy, and the Super High-Power Switching Apparatus (SHPSA) that delivers up to 1.6 MW pulses from a 19-inch rack cabinet. The company also produces the UPEL-2500 bench-top electronic load system for testing power sources up to 100 kHz, and offers custom development with no engineering fee plus repair services.
 
-The company serves medical OEMs (cardio stimulators, high-resolution electrocardiographs), automotive manufacturers (cars, motorcycles, forklifts), defense contractors, industrial automation (robots, X-Y tables, office equipment), telecommunications equipment makers, and power-supply test labs such as MET Laboratories.
+The company serves OEM medical device makers building cardio stimulators and high-resolution electrocardiographs, automotive suppliers for cars, motorcycles, and forklifts, defense contractors, and industrial automation users such as robot and X-Y table builders. Power-test laboratories like MET Laboratories have procured SHPSA units for high-current testing, while telecommunications and UPS manufacturers use the electronic loads for qualification.
 
-EDR emphasizes flexibility, stating it charges no development fee for new products tailored to a customer's application, and holds a registered trademark on its logo from the USPTO.
+EDR emphasizes zero development fees for custom parts, a wide hysteresis window comparator for precise switching, and DIN-rail-mountable packages that simplify installation. A registered trademark on its logo underscores its proprietary designs.
 
 ## Known for
-- No development fee for custom products
-- SSR series from low-cost D1L to super-high-power D9F
-- SHPSA delivers up to 1.6 MW pulsed power
-- DIN-rail mountable SSRs and drivers
-- Ultra-fast I-V bias generators for MRI applications
+- No development fee for custom product designs
+- Solid-state relay portfolio spanning low-cost to 1,000 A / 650 V super-high-power series
+- SHPSA rack-mounted switching apparatus delivering up to 1.6 MW pulses with virtual battery topology
+- Ultra-fast bipolar pulse generators for MRI PIN-diode bias control
+- Bench-top electronic load simulation from DC to 100 kHz for power-source testing
 
 ## Capabilities
-- Solid-state relay manufacturing
-- Switch manufacturing
-- Driver manufacturing
-- Full-bridge driver design
-- Electronic load simulation
+- Solid-state relay manufacturing (SPST, SPDT, DPST)
+- MOSFET and IGBT output switching
+- Full-bridge driver design (piezo, DC motor, TEC)
 - DC/DC converter design
-- Active notch filter design
+- Active notch filter design (50/60 Hz comb reject)
 - Powerline notch filter design
-- Super-high-power switching apparatus (SHPSA) manufacturing
+- Super-high-resolution electrocardiograph development
+- Super High-Power Switching Apparatus (SHPSA) manufacturing
 - Ultra-fast I-V bias generator manufacturing
-- DIN rail mountable SSR manufacturing
-- Isolated brushed DC motor driver manufacturing
-- Custom product development
+- Bench-top electronic load simulation (DC-100 kHz)
+- Custom product development (no engineering fee)
 - Repair services
+- DIN-rail mountable assembly
+- Aluminum die-cast enclosure assembly
+- Rack-cabinet integration (19" x 4' x 6')
+- Pulse generator integration
+- High-voltage PIN diode bias control
+- Brushed DC motor driver design (H-bridge)
+- Piezo transducer driver design
+- Wide hysteresis window comparator design
+- DPDT relay emulation (solid-state)
+- Isolated power driver design
 
 ## Industries
-- Medical devices
-- Automotive
+- Medical OEM (cardio stimulators, electrocardiographs, recording systems)
+- Automotive (cars, motorcycles, forklifts)
 - Defense
-- Industrial automation
-- Robotics
-- Office automation
-- Telecommunications
-- Power supply testing
+- Industrial automation (robots, X-Y tables, office automation)
+- Power testing laboratories
+- Telecommunications equipment
+- Power supply manufacturing
+- Battery testing
+- Uninterruptible power supply (UPS)
+- Switch-mode rectifier (SMR) testing
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -300,17 +325,15 @@ EDR emphasizes flexibility, stating it charges no development fee for new produc
 
 <details><summary>Sources</summary>
 
-- Company name: Electronic Design & Research Inc. -> db
-- Headquarters: Louisville, Kentucky -> db
-- Founder: Vladimir A. Shvartsman, Ph.D. -> /
-- Manufactures solid-state relays, switches, drivers -> /
-- Offers custom development with no fee -> /
-- Serves medical, automotive, defense, industrial, telecommunications, power testing -> /
-- Delivered SHPSA to MET Laboratories -> /
-- Registered trademark on logo from USPTO -> /
-- Product series: D1L, D3F, D9F, SHPSA, UPEL-2500, H7FvDc, iMDxx -> /
-- DIN rail mountable SSRs -> /
-- Ultra-fast I-V bias generators for MRI -> /
+- Company name, location, website -> db
+- Founder Vladimir A. Shvartsman, Ph.D. -> /
+- Product lines: SSRs, drivers, filters, SHPSA, electronic loads, electrocardiograph -> /
+- Industries: medical, automotive, defense, industrial, power testing, telecom -> /
+- Custom development with no fee -> /
+- Registered trademark on logo -> /
+- Specific product series (D1L, D3F, D9F, D9G, SHPSA, UPEL-2500) -> /
+- Headquarters Louisville, Kentucky -> db
+- Holding company VSHolding LLC -> /
 </details>
 
 ---
@@ -320,37 +343,41 @@ EDR emphasizes flexibility, stating it charges no development fee for new produc
 **Old description:** Our goal is to be the low-priced supplier in each of the markets in which we operate. We have been in the electronic display industry for over 30 years—and, with over one million LED display products in the marketplace, we believe we have sold more units than any similar vendor.
 
 ## About
-Electronic Displays, Inc. is based in Addison, Illinois. The company has operated in the electronic display industry for over 25 years, though a specific founding year is not publicly disclosed. Ownership details and founder names are not provided in available sources.
+Based in Addison, Illinois, Electronic Displays, Inc. has operated in the electronic display industry for over 43 years. The company designs, manufactures, and markets a broad range of LED-based products for industrial and commercial applications.
 
-The company designs, manufactures, and markets a wide variety of LED-based products that display alphanumeric information. Its product line includes electronic message signs, industrial and lean scoreboards, LED counters, timers, ANDON systems, world clocks, and numeric serial displays. The firm reports over one million units placed in the marketplace. Facility size and headcount are not disclosed.
+Its product line encompasses electronic message signs, industrial and lean manufacturing scoreboards, LED counters, timers, ANDON systems, world clocks, and numeric serial displays. The company reports more than one million units installed in the marketplace, serving customers with PLC-controlled marquees and displays supporting Ethernet/IP, PROFINET, Modbus, RS-232, RS-422/485, and BCD communication protocols.
 
-Electronic Displays serves industrial manufacturing and workplace safety sectors, providing production scoreboards, safety day counters, and ANDON systems for lean environments. A noted customer is Costco, referenced on the company's website.
+Electronic Displays serves industrial manufacturing, workplace safety, and lean production environments. Its scoreboards and counters are used for production tracking, takt time monitoring, and safety day counting. A noted customer is Costco, reflecting the company's reach into large-scale retail and distribution operations.
 
-The company states its goal is to be the low-priced supplier in each market it operates in, emphasizing the lowest prices and fastest turn-around. It promotes a plug-and-run operation for immediate productivity improvements and cost savings.
+The company states its founding goal was to be the low-priced supplier in every market it enters, emphasizing the fastest turn-around and plug-and-run operation to deliver immediate productivity improvements and cost savings for end users.
 
 ## Known for
-- Lowest prices in each market served
-- Fastest turn-around times
-- Plug-and-run operation for immediate deployment
-- Over one million LED display units sold
-- Over 25 years in the electronic display industry
+- Low-priced supplier in each market
+- Fastest turn-around
+- Plug-and-run operation
+- Over 43 years of LED display experience
+- Over one million units sold
 
 ## Capabilities
-- LED display design and manufacturing
-- Custom electronic message sign production
-- Industrial and lean scoreboard assembly
-- LED counter and timer fabrication
+- LED display design
+- LED display manufacturing
+- Custom electronic message signs
+- Industrial scoreboard production
+- LED counter and timer assembly
 - ANDON system integration
-- World clock and time zone display manufacturing
-- Numeric serial display production
+- World clock manufacturing
+- Serial input display integration
 - Analog-to-digital display conversion
-- Ethernet/IP and PROFINET communication integration
-- Modbus, RS232, RS422/485, BCD input support
+- PLC-controlled marquee programming
+- Industrial communication protocol support (Ethernet/IP, PROFINET, Modbus, RS-232, RS-422/485, BCD)
+- Overstock inventory management
+- Product support and RMA processing
 
 ## Industries
 - Industrial manufacturing
 - Workplace safety
-- Lean manufacturing
+- Lean production
+- Industrial automation
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -359,13 +386,13 @@ The company states its goal is to be the low-priced supplier in each market it o
 <details><summary>Sources</summary>
 
 - Headquarters: Addison, Illinois -> db
+- Over 43 years in business -> /
 - Designs, manufactures, markets LED display products -> /
-- Over one million LED display products in marketplace -> /
-- Product lines: message signs, scoreboards, counters, timers, ANDON systems, clocks -> /
-- In business over 25 years -> /about-us
-- Goal: low-priced supplier, fastest turn-around -> /about-us
-- Plug-and-run operation -> /about-us
-- Customer: Costco -> /about-us
+- Product line: message signs, scoreboards, counters, timers, ANDON systems, clocks -> /
+- Over one million units in marketplace -> /
+- Communication protocols: Ethernet/IP, PROFINET, Modbus, RS-232, RS-422/485, BCD -> /
+- Customer: Costco -> /
+- Goal: low-priced supplier, fastest turn-around, plug-and-run -> /about-us
 - LinkedIn URL -> db
 </details>
 
@@ -376,46 +403,47 @@ The company states its goal is to be the low-priced supplier in each market it o
 **Old description:** Trust NASA-grade conformal coating services from Electronic Polymer Technologies to safeguard your devices from any environment.
 
 ## About
-Electronic Polymer Technologies operates from Chandler, Arizona, and was founded in 2006. The company provides conformal coating and related electronic protection services to customers worldwide.
+Electronic Polymer Technologies was founded in 2006 in Chandler, Arizona. The company specializes in NASA-grade conformal coating services for electronic components and circuit boards.
 
-The company specializes in applying conformal coatings—including parylene, acrylic, epoxy, polyurethane, and silicone—via spraying, dipping, brushing, and selective coating systems. It also offers circuit board potting, component encapsulation, staking and bonding, BGA rework and re-balling, surface-mount assembly (including fine-pitch and ultra-fine-pitch), through-hole installation, mechanical assembly, and CPC4 repair. Advanced masking techniques ensure consistent coating thickness. The facility serves global clients, though headcount and floor space are not published.
+The company provides conformal coating, potting, encapsulation, component staking and bonding, BGA rework, SMT assembly, and mechanical assembly services. Processes include spraying, dipping, brushing, and selective coating systems with advanced masking techniques. Facility size and headcount are not disclosed.
 
-Electronic Polymer Technologies serves aerospace, military, automotive, medical device, consumer goods, and other industrial sectors. Its coatings protect printed circuit boards against moisture, dust, corrosion, salt, humidity, and tin whisker formation, meeting requirements for high-reliability applications.
+The company serves aerospace, military, automotive, consumer goods, and medical device industries. Customers include OEMs and electronics manufacturers requiring protection for printed circuit boards in harsh environments.
 
-The business emphasizes compliance with AS9100 and ITAR standards, NASA-grade processes, and fast turnaround without sacrificing quality. It positions itself on customized material selection and application processes tailored to each project’s environmental and performance demands.
+Electronic Polymer Technologies emphasizes its AS9100 and ITAR compliance, over 20 years of experience with IPC A-610 standards, fast turnaround times, and customized coating solutions using materials such as parylene, acrylic, epoxy, polyurethane, and silicone.
 
 ## Known for
-- AS9100 and ITAR certified quality system
-- NASA-grade conformal coating processes
-- Advanced selective coating systems with precision masking
-- Broad material portfolio: parylene, acrylic, epoxy, polyurethane, silicone
-- Fast turnaround on custom coating projects
+- NASA-grade conformal coating services
+- AS9100 and ITAR certified
+- Over 20 years of IPC A-610 and conformal coating experience
+- Fast turnaround with advanced selective coating systems
+- Customized coating solutions for extreme temperature and chemical resistance
 
 ## Capabilities
-- Conformal coating (spray, dip, brush, selective)
+- Conformal coating (spray, dip, brush, selective coating)
 - Circuit board potting
 - Component encapsulation
 - Component staking and bonding
-- BGA rework
-- BGA re-balling
-- Surface-mount assembly (QFP, PLCC, chip, LCC, SOP)
-- Fine-pitch and ultra-fine-pitch SMT
-- PBGA, CBGA, micro BGA placement
-- Connector assembly
-- Jumper and wire installation
-- Plated through-hole installation
+- BGA rework and re-balling
+- SMT assembly (fine pitch, ultra fine pitch, PBGA, CBGA, micro BGA)
 - Mechanical assembly
 - CPC4 repair
-- Precision masking for conformal coating
-- Material selection guidance for conformal coatings
+- Connector installation
+- Jumper and wiring installation
+- Plated through-hole installation
+- Advanced masking techniques
+- Custom coating material selection
+- IPC A-610 quality inspection
+- Fast turnaround services
 
 ## Industries
 - Aerospace
 - Military
 - Automotive
-- Medical devices
 - Consumer goods
-- Industrial
+- Medical devices
+
+## Equipment
+- Selective coating systems
 
 ## Certifications
 - AS9100
@@ -428,19 +456,16 @@ The business emphasizes compliance with AS9100 and ITAR standards, NASA-grade pr
 
 <details><summary>Sources</summary>
 
-- Founded 2006 -> db
-- Headquarters Chandler, Arizona -> db
-- Certifications AS9100, ITAR -> db
-- Conformal coating services (spray, dip, brush, selective) -> /
-- Circuit board potting, component encapsulation, staking and bonding -> /services
-- BGA rework, re-balling, SMT assembly, fine-pitch, through-hole, mechanical assembly, CPC4 repair -> /services
-- Industries served: aerospace, military, automotive, medical devices, consumer goods -> /, /about
-- Coating materials: parylene, acrylic, epoxy, polyurethane, silicone -> /
-- 20 years experience in IPC A-610 and conformal coating -> /
-- NASA-grade conformal coating claim -> /
-- AS9100 and ITAR compliance stated -> /
-- Fast turnaround and customized solutions -> /, /services
-- Advanced selective coating systems and masking techniques -> /
+- Founded 2006 in Chandler, Arizona -> db
+- NASA-grade conformal coating services -> /
+- AS9100 and ITAR certifications -> db, /
+- Over 20 years experience in IPC A-610 and conformal coating -> /
+- Services: conformal coating, potting, encapsulation, staking, bonding, BGA rework, SMT, mechanical assembly -> /services
+- Processes: spray, dip, brush, selective coating, advanced masking -> /
+- Industries: aerospace, military, automotive, consumer goods, medical devices -> /, /about
+- Materials: parylene, acrylic, epoxy, polyurethane, silicone -> /
+- Fast turnaround, customized solutions -> /, /services
+- Headquarters Chandler, Arizona -> db, /about
 </details>
 
 ---
@@ -450,13 +475,13 @@ The business emphasizes compliance with AS9100 and ITAR standards, NASA-grade pr
 **Old description:** Electronic Services Inc. is a family owned and operated business serving first responders, Government agencies, School systems, businesses & general public in West Virginia since 1971, Incorporated October of 1988, and in the spring of 1997 built our first full services sales service and installation facility located in Winfield, WV still in this same location and now in 2021 finished our new 5000sq foot state of the art vehicle upfitters installation facility which will help us expand and serve more of our local heroes.
 
 ## About
-Electronic Service Inc. (ESI) is a family-owned communications and installation firm based in Winfield, West Virginia. The company traces its roots to 1971, was incorporated in October 1988, and erected its first full-service sales and installation facility in Winfield in 1997. In 2021 it completed a 5,000-square-foot, state-of-the-art vehicle upfitting shop at the same location to expand capacity for public-safety upfits.
+Electronic Services Inc. is a family-owned and operated communications company based in Winfield, West Virginia. It traces its roots to 1971 when it began serving first responders, government agencies, school systems, businesses, and the general public across the state. The company was incorporated in October 1988. In the spring of 1997, it built its first full-service sales, service, and installation facility in Winfield, where it remains today. In 2021, the company completed a new 5,000-square-foot state-of-the-art vehicle upfitters installation facility to expand its capacity.
 
-Its service portfolio covers radio repair and maintenance, radio rentals, mobile installations, complete vehicle buildouts, system design, programming, deployment, training, and ongoing support, including field and mountaintop service calls across West Virginia. The shop also designs and installs video surveillance, burglar alarm, and mobile and home audio/video systems.
+The company provides a range of communication products and services. Its product lines include emergency lighting, vehicle consoles, dispatch consoles, law enforcement radar, paging systems, vehicle safety products, and car audio. It also installs video surveillance security systems, burglar alarms, and mobile and home audio/video systems. Services cover radio system design, configuration, programming, installation, deployment, training, ongoing support, radio servicing and repair, radio rentals, mobile installations, vehicle buildouts, and field and mountaintop service response throughout West Virginia. The combined staff experience totals 70 years.
 
-The customer base spans first responders, government agencies, school systems, commercial businesses, and the general public throughout West Virginia. Concrete examples include county 911 communication consoles, campus two-way radio networks, and public-safety vehicle upfits for law enforcement and fire departments.
+Electronic Services Inc. serves public safety agencies (law enforcement, fire, EMS), government entities, school systems, commercial businesses, and the general public. Concrete examples include designing and installing 911 communication consoles for counties, equipping vehicles for first responders, and providing two-way radios for recreational use such as hunting trips. The company also works with automotive aftermarket brands such as Westin Automotive for vehicle safety products.
 
-The company emphasizes a “100% correct 100% of the time” standard, backed by a combined 70 years of staff experience, a no-shortcuts installation philosophy, and the latest tools and equipment. The 2021 facility investment reflects a stated goal to serve more local heroes with expanded upfitting capability.
+The company emphasizes quality installations, stating it takes no shortcuts and uses only the highest-quality tools, products, and procedures with a goal of 100 percent correctness. It was founded to serve first responders—referred to as 'local heroes'—and aims to expand that mission with its expanded upfitting facility.
 
 ## Known for
 - Family-owned and operated since 1971
@@ -465,36 +490,34 @@ The company emphasizes a “100% correct 100% of the time” standard, backed by
 - Combined 70 years of industry experience
 
 ## Capabilities
-- Radio servicing
+- Radio system design
+- Radio configuration and programming
+- Radio installation and deployment
+- Radio training and support
+- Radio servicing and repair
 - Radio rentals
-- Mobile radio installation
-- Vehicle upfitting/buildouts
-- Communication system design
-- Radio programming
-- System installation and deployment
-- Technical training
-- Ongoing maintenance and support
-- Field service
-- Mountaintop service response
-- Video surveillance system design and installation
-- Burglar alarm system design and installation
-- Mobile A/V system design and installation
-- Home theater system installation
-- Two-way radio sales (Kenwood)
-- Emergency lighting sales
-- Vehicle console sales
-- Dispatch console sales
-- Law enforcement radar sales
-- Paging system sales
-- Vehicle safety product sales
-- Car audio sales
+- Mobile radio installations
+- Vehicle buildouts and upfitting
+- Field and mountaintop service response
+- Video surveillance system installation
+- Burglar alarm installation
+- Mobile and home A/V system installation
+- Emergency lighting installation
+- Vehicle console installation
+- Dispatch console installation
+- Law enforcement radar installation
+- Paging system installation
+- Vehicle safety product installation
+- Car audio installation
+- Consultations
 
 ## Industries
 - Public safety
 - Government
 - Education
-- Commercial businesses
+- Commercial
 - General public
+- Automotive aftermarket
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -504,21 +527,18 @@ The company emphasizes a “100% correct 100% of the time” standard, backed by
 
 <details><summary>Sources</summary>
 
-- Founded 1971 -> /about
+- Founded 1971 -> db
 - Incorporated October 1988 -> /about
 - First facility built 1997 in Winfield, WV -> /about
-- New 5,000 sq ft vehicle upfitting facility completed 2021 -> /about
-- Family-owned and operated -> /about
-- Location: Winfield, WV -> /about
-- Services: repairs, maintenance, installation, consultations, rentals -> /services, /about
-- Kenwood two-way radio dealer since late 1980s -> /about
-- NXDN/DMR digital radio systems offered -> /about
-- Video surveillance and burglar alarm design/install -> /about
-- Mobile & home A/V systems since 1998 -> /about
-- Industries: first responders, government agencies, school systems, businesses, general public -> /about, /
-- Field and mountaintop service response throughout West Virginia -> /services
-- Combined 70 years of experience -> /about
-- Goal of 100% correct 100% of the time -> /about
+- New 5,000 sq ft upfitting facility completed 2021 -> /about
+- Family-owned and operated -> db
+- Kenwood dealer since late 1980s -> /about
+- Combined 70 years experience -> /about
+- Services: radio system design, installation, repair, rentals, mobile installations, vehicle buildouts, field service -> /services
+- Products: two-way radios, emergency lighting, vehicle consoles, dispatch consoles, law enforcement radar, paging, vehicle safety products, car audio, video surveillance, burglar alarms, mobile/home A/V -> /about, /
+- Industries served: first responders, government agencies, school systems, businesses, general public -> db
+- Headquarters: Winfield, West Virginia -> db
+- Company type: installer/service company -> /services
 </details>
 
 ---
@@ -528,45 +548,44 @@ The company emphasizes a “100% correct 100% of the time” standard, backed by
 **Old description:** ESI specializes in providing dedicated customer specific product teams for supplying the final product assembly “box-build” which includes integration of enclosures, power supplies, cables, PCB assemblies along with system configuration programming, functional test and burn-in services. This allows us to most effectively manage the supply chain for various components that go into the final product assembly.
 
 ## About
-Electronic Solutions Inc (ESI) operates from St. Louis, Missouri, as a division of Indak. The company traces its roots back more than 20 years, founded on a focus on quality, service, and price.
+Electronic Solutions Inc (ESI) operates from St. Louis, Missouri, as a division of Indak. The company traces its roots back more than two decades, though a specific founding year is not disclosed. It began with a focus on quality, service, and price, positioning itself as an automotive electronics solutions provider.
 
-ESI functions as a full-service electronic and electro-mechanical contract manufacturer. Its capabilities span box-build assembly — integrating enclosures, power supplies, cables, and PCB assemblies — along with system configuration programming, functional test, and burn-in. The firm also provides electronic design and prototype development, test apparatus design, project management, and supply chain management, taking products from prototype through mass production.
+ESI functions as a full-service electronic and electro-mechanical contract manufacturer. Its capabilities span complex PCB assembly, electro-mechanical assembly, circuit assembly, wire harness fabrication, and complete box-build systems that integrate enclosures, power supplies, cables, and PCB assemblies with system configuration programming, functional test, and burn-in. The company manages the supply chain for components and supports projects from prototype through mass production, offering design services, test apparatus development, project management, and supply chain management.
 
-The company serves automotive suppliers, appliance manufacturers, commercial equipment makers, medical device firms, and commercial printing businesses. Its customer base includes automotive OEMs and tier-one suppliers requiring cable and harness assemblies, as well as appliance and commercial equipment producers needing electro-mechanical systems.
+The customer base includes automotive suppliers, appliance manufacturers, commercial equipment makers, medical device companies, and commercial printing firms. ESI provides dedicated product teams for each customer to manage component sourcing and final assembly.
 
-ESI emphasizes engineering excellence, project management, and strong technology-partner relationships as its differentiators. It positions itself as a pioneer in PCB contract manufacturing, offering dedicated product teams to manage component supply chains for final assembly.
+The company attributes its success to engineering excellence, project management, and strong technology partner relationships, emphasizing a commitment to quality, service, and price.
 
 ## Known for
-- Dedicated customer-specific product teams for box-build assembly
-- Integrated supply chain management for box-build components
-- Electronic design and prototype development through mass production
-- Test apparatus design and functional test/burn-in services
-- Engineering excellence and project management focus
+- Quality, Service and Price as core focus
+- Engineering excellence, project management, and technology partner relationships
+- Prototype-to-mass-production capability
+- Dedicated customer-specific product teams
+- Supply chain management for box-build assemblies
 
 ## Capabilities
-- Box-build assembly
 - PCB assembly
-- Wire harness assembly
-- Electro-mechanical assembly
-- System configuration programming
-- Functional test
-- Burn-in services
-- Electronic prototype design and development
-- Electronic design services
-- Test criteria and test apparatus design
-- Project management
-- Supply chain management
-- Circuit assembly
-- Controller assembly
-- Heat sink assembly
-- Servo motor assembly
+- electro-mechanical assembly
+- wire harness assembly
+- box build assembly
+- electronic prototyping
+- electronic design
+- functional test
+- burn-in testing
+- system configuration programming
+- supply chain management
+- project management
+- test apparatus design
+- cable assembly
+- circuit assembly
 
 ## Industries
-- Automotive
-- Appliance
-- Commercial equipment
-- Medical
-- Commercial printing
+- automotive
+- appliance
+- commercial equipment
+- medical
+- commercial printing
+- OEM cable manufacturing
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -575,122 +594,19 @@ ESI emphasizes engineering excellence, project management, and strong technology
 
 <details><summary>Sources</summary>
 
-- Headquarters: St. Louis, Missouri -> db
-- Division of Indak -> page "/"
+- Location: St. Louis, Missouri -> db
+- Parent company: Indak -> page "/"
 - Founded more than 20 years ago -> page "/"
-- Full-service electronic and electro-mechanical contract manufacturer -> page "/"
-- Services: box-build, PCB assembly, wire harness, electro-mechanical assembly, system configuration programming, functional test, burn-in, prototype design, design services, test apparatus design, project management, supply chain management -> page "/"
-- Industries served: automotive, appliance, commercial equipment, medical, commercial printing -> page "/"
-- Dedicated customer-specific product teams for box-build -> description
-- Engineering excellence, project management, technology partner relationships -> page "/"
+- Services: contract manufacturing, PCB assembly, wire harness, box build, prototyping, design, test, supply chain management -> page "/"
+- Industries: automotive, appliance, commercial equipment, medical, commercial printing -> page "/"
+- Differentiators: Quality, Service, Price; engineering excellence; project management; technology partners -> page "/"
+- Prototype to mass production -> page "/"
+- Dedicated customer-specific product teams -> db (description)
+- Box-build includes enclosures, power supplies, cables, PCB assemblies, system configuration programming, functional test, burn-in -> db (description)
 </details>
 
 ---
 
 # Electronic Source Company
 
-**Old description:** A full turnkey resource with AS9100D with ISO 9001:2015, ISO 13485:2016 certifications, we produce boards for the most respected Original Equipment Manufacturers in the space, aerospace, telecommunications, military, medical and wireless markets. These companies partner with ESC because of our ability to provide world-class process controls and procedures with on time deliveries. OUR GOAL: through best in class process controls, delivery higher yields which result in lower field failures.
-
-## About
-Avalir Technologies, formerly known as Electronic Source Company, operates a dedicated manufacturing facility in Van Nuys, California, with a headquarters in nearby Chatsworth. The contract electronics manufacturer conducts all production in the United States and maintains a controlled environment with rigorous ESD, temperature, and humidity standards.
-
-The company builds high-reliability circuit card assemblies and box-build assemblies. Its facility houses high-speed SMT lines, high-mix/low-volume work cells, in-line 3D solder-paste and automated optical inspection, nitrogen reflow ovens, 3D X-ray and laminography, selective soldering, conformal coating, and staking and bonding to NASA standards. It supports component placement down to 01005 packages and installs flip-chip, BGA, and CCGA devices. On-site testing includes flying probe, in-circuit, functional, environmental stress screening, high-pot, and vibration testing. Supply chain services cover turnkey, consignment, and mixed procurement models with counterfeit detection, end-of-life analysis, and Kanban/JIT delivery.
-
-Avalir serves the aerospace, defense, space, medical device, telecommunications, military, and wireless markets. Its customers include original equipment manufacturers requiring mission-critical electronics for missile systems, airborne networking equipment, and medical instruments.
-
-The company was founded on the belief that manufacturing excellence is a daily commitment, not a finished goal, and that quality production is the bare minimum. It emphasizes proactive risk management, full traceability, and transparent communication to deliver "no surprises, no shortcuts, no gaps."
-
-## Known for
-- No surprises, no shortcuts, no gaps philosophy
-- 100% U.S.-based production with full traceability
-- In-house tin mitigation and tape-and-reel services
-- Proprietary tin whisker mitigation without thermal shock
-- On-site testing suite: flying probe, ICT, functional, ESS, high-pot, vibration
-
-## Capabilities
-- New Product Introduction (NPI)
-- Circuit Card Assembly (CCA)
-- Box Build
-- Flying Probe Test
-- In-Circuit Test (ICT)
-- Functional Test
-- Environmental Stress Screening
-- High Pot Test
-- Vibration Test
-- Supply Chain and Material Management
-- Manufacturing Engineering Services (DFM, work instructions, continuous improvement)
-- Tape and Reel Services
-- Tin Mitigation
-- Lead Forming
-- Conformal Coating
-- Selective Soldering
-- Staking and Bonding per NASA standards
-- 3D X-ray and Laminography Inspection
-- 3D Solder Paste Inspection
-- 3D Automated Optical Inspection
-- Component Placement down to 01005
-- Flip-Chip, BGA, CCGA Installation
-
-## Industries
-- Aerospace
-- Defense
-- Space
-- Medical Device
-- Telecommunications
-- Military
-- Wireless
-
-## Equipment
-- High speed SMT lines
-- High-mix/low volume work cells
-- In-line 3D solder-paste inspection
-- 3D automated optical inspection
-- Nitrogen equipped re-flow ovens
-- 3D Xray and Lamiography
-- Hand soldering stations
-- Automated Selective Solder
-- Staking and Bonding equipment
-- In-house conformal coating equipment
-- Advanced SMT equipment (575-line items capacity)
-- Component placement down to 01005
-- Flip-chip, BGA, CCGA installation equipment
-- Flying Probe Test
-- In-Circuit Test (ICT)
-- Functional Test
-- Environmental Stress Screening
-- High Pot Test
-- Vibe Test
-
-## Certifications
-- AS9100D
-- ISO 9001:2015
-- ISO 13485:2016
-- ITAR Registered
-- NADCAP
-- AS9102 FAI
-- IPC-A-610
-- IPC-A-600
-- MIL-STD-883
-
-## Company details
-- **Company Type:** Contract manufacturer / job shop
-- **Headquarters:** Van Nuys, California
-
-<details><summary>Sources</summary>
-
-- Company name and former name -> /
-- Headquarters locations (Van Nuys, Chatsworth) -> /about-us
-- 100% U.S.-based production -> /about-us
-- Certifications (AS9100D, ISO 9001:2015, ISO 13485:2016, ITAR) -> /services
-- Additional certifications (NADCAP, AS9102, IPC-A-610, IPC-A-600, MIL-STD-883) -> /quality
-- Core services (NPI, CCA, Box Build, Testing, Supply Chain, Manufacturing Engineering, Tape & Reel, Tin Mitigation, Lead Forming) -> /services
-- Equipment details (SMT lines, 3D inspection, X-ray, selective solder, conformal coating, placement capabilities) -> /services
-- Testing capabilities (flying probe, ICT, functional, ESS, high-pot, vibration) -> /services
-- Supply chain details (turnkey, consignment, counterfeit detection, Kanban/JIT) -> /services
-- Industries served (aerospace, defense, space, medical device, telecom, military, wireless) -> /, /about-us, /services
-- Volume range (prototype to production) -> /services
-- Differentiators (no surprises, no shortcuts, no gaps; in-house tin mitigation; proprietary tin whisker tech) -> /, /services
-- Founding beliefs (manufacturing excellence as daily commitment, quality as bare minimum) -> /about-us
-</details>
-
----
+_skipped: not enough facts_

@@ -3,39 +3,41 @@
 **Old description:** Locally owned and operated, It’s Electric Hawaii is one of the best electricians in Honolulu, offering licensed and certified electrical services for residential and commercial properties. Our team of expert electrical contractors in Honolulu ensures your electrical systems are safe, efficient, and fully up to code.
 
 ## About
-It's Electric Hawaii is a locally owned and operated electrical service company based in Honolulu, Hawaii. The business was founded with a mission to deliver high-quality electrical services that clients can rely on, though a specific founding year is not publicly stated. The company is comprised of certified electricians and operates as a fully licensed and insured entity in the state of Hawaii.
+It's Electric Hawaii operates from Honolulu, Hawaii, as a locally owned and operated electrical service company. The business was founded with a mission to deliver high-quality electrical services that clients can rely on, though a specific founding year is not publicly stated. Ownership details beyond local operation are not disclosed, and founders are not named in available materials.
 
-The company provides a comprehensive range of electrical services for residential, commercial, and industrial customers. Its offerings include electrical upgrades and improvements, safety and security system installations, 24/7 emergency repair services, and energy-efficient solutions such as LED lighting installations and energy audits. The team handles projects from simple repairs to complex installations, using top-grade materials and adhering to industry standards. No facility size, headcount, or annual volume figures are disclosed.
+The company provides a full range of electrical services for residential, commercial, and industrial customers. Core offerings include upgrades and improvements, safety and security installations, 24/7 emergency repairs, and energy-efficient solutions such as LED lighting retrofits and comprehensive energy audits. Home and office wiring is a staple service. No facility size, headcount, or volume metrics are published.
 
-It's Electric Hawaii serves homeowners, businesses, and industrial facilities across Honolulu and Kapolei. Customer reviews highlight work on residential kitchen remodels, restaurant electrical systems, and solar battery installations. The company also works with construction industry professionals and property managers seeking reliable electrical contractors.
+Clients span homeowners, restaurants, construction firms, and solar-energy adopters across Honolulu and Kapolei. Testimonials reference a kitchen remodel for a construction-industry professional, multiple small jobs at a restaurant, and a solar battery installation, illustrating the breadth of commercial and residential work.
 
-The company emphasizes several differentiators: it holds all required Hawaii licenses and insurance, employs experienced electricians who receive ongoing training, offers transparent pricing with detailed upfront estimates, and maintains a safety-first approach on every job. A 24/7 emergency response capability and a customer-centric service model are also cited as core strengths.
+The company emphasizes integrity, quality, safety, and customer satisfaction as guiding values. Its stated mission is to provide the highest standard of electrical services in Honolulu, ensuring safety, functionality, and efficiency in every project. Transparent pricing with no hidden fees and a commitment to ongoing technician training are highlighted as key differentiators.
 
 ## Known for
-- Licensed and insured in Hawaii
+- Licensed and insured per Hawaii state requirements
 - 24/7 emergency electrical service
 - Transparent pricing with no hidden fees
+- Energy-efficient solutions including LED lighting and energy audits
 - Experienced electricians with ongoing training
-- Safety-first protocols on every job
 
 ## Capabilities
-- Residential electrical services
-- Commercial electrical services
-- Industrial electrical services
-- Emergency electrical repair
-- Electrical upgrades and improvements
-- Safety and security system installation
-- Energy-efficient solutions
-- LED lighting installation
-- Energy audits
+- Residential electrical service
+- Commercial electrical service
+- Industrial electrical service
+- Emergency electrical service (24/7)
+- Upgrades and improvements
+- Safety and security installations
+- Energy-efficient solutions (LED lighting, energy audits)
+- Home and office wiring
 
 ## Industries
 - Residential
 - Commercial
 - Industrial
-- Energy efficiency
 - Construction
-- Hospitality
+- Food service
+- Solar energy
+
+## Certifications
+- Licensed and insured per Hawaii state requirements
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -44,12 +46,18 @@ The company emphasizes several differentiators: it holds all required Hawaii lic
 
 <details><summary>Sources</summary>
 
-- Locally owned and operated in Honolulu, Hawaii -> db
-- Licensed and insured electrical services for residential and commercial properties -> /
-- Journey began with a mission to deliver high-quality electrical services -> /about-us
-- Services: residential, commercial, industrial, emergency, upgrades, safety, energy-efficient solutions, LED lighting, energy audits -> /, /about-us
-- Serves Honolulu and Kapolei; customers include homeowners, restaurants, construction professionals -> /
-- Differentiators: licensed/insured, experienced electricians, prompt/reliable, transparent pricing, safety-first, 24/7 emergency -> /, /about-us
+- Locally owned and operated -> /
+- Licensed and insured -> /
+- Services: residential, commercial, industrial -> /
+- 24/7 emergency electrical services -> /
+- Energy-efficient solutions (LED lighting, energy audits) -> /
+- Serves Honolulu and Kapolei -> /
+- Testimonials: kitchen remodel, restaurant work, solar battery -> /
+- Values: integrity, quality, safety, customer satisfaction -> /about-us
+- Mission: highest standard of electrical services -> /about-us
+- Transparent pricing with no hidden fees -> /about-us
+- Experienced electricians with ongoing training -> /about-us
+- Headquarters: Honolulu, Hawaii -> db
 </details>
 
 ---
@@ -59,64 +67,62 @@ The company emphasizes several differentiators: it holds all required Hawaii lic
 **Old description:** Dakota Bodies has been building quality utility and service truck bodies in Watertown, South Dakota since 1997. Over those years Dakota has grown into a 145,000 sq. ft. facility with over 250 employees, making them one of Watertown’s top employers. The history of quality and innovation has led them to be one of the nation’s top choices in the utility and service industries.
 
 ## About
-J & J Fabricating, Inc. is based in Beckley, West Virginia. The company’s founding year and ownership structure are not disclosed in public sources.
+J & J Fabricating, Inc. operates from Beckley, West Virginia. The company’s founding year and ownership structure are not disclosed on its website, and no founders are named publicly.
 
-The shop runs a 5‑axis abrasive waterjet system that cuts simple or complex shapes from virtually any material without thermal distortion, serving applications from signage and tile art to automotive components. In a recently expanded fabrication area, the team custom builds truck beds, liftgates, dump beds and utility service bodies, and acts as an upfitter for Palfinger crane bodies and Duramag service bodies. The company also operates a showroom selling and servicing commercial lawn‑care equipment, snowplows and salt spreaders, backed by certified technicians.
+The shop provides waterjet cutting services using a 5‑axis cutting head that can process simple or complex shapes from almost any material without thermal stress. It also custom‑builds truck beds, liftgates, and service bodies—including DURAMAG and Palfinger crane bodies—in a recently expanded fabrication area. In addition, the company sells and services commercial lawn‑care equipment (such as ExMark Quest mowers), snowplows, and salt spreaders, backed by certified technicians and a parts inventory.
 
-Customers span sign makers, artists, automotive shops, trucking and utility fleets, landscaping contractors and municipal snow‑removal operations. Concrete examples from the company’s own updates include Hardox 450 dump beds, Palfinger crane‑body installations and ExMark mower packages.
+Customers come from sectors that include signage, tile and stone design, art projects, automotive component manufacturing, utility and service truck upfitting, landscaping, and municipal snow removal. The waterjet work supports one‑off prototypes and artistic pieces, while the truck‑body line serves fleets needing dump beds, utility beds, or crane‑equipped service bodies.
 
-J & J Fabricating highlights rapid turnaround on waterjet jobs, smooth finishes with no heat‑affected zone, and the ability to design each truck bed or liftgate to the exact application. The business was built around offering both precision cutting and full‑service truck upfitting under one roof.
+The company highlights rapid turnaround times, smooth surface finishes, and the absence of heat‑affected zones on waterjet‑cut parts as key differentiators. Its expanded shop space and certified service technicians for lawn‑care and snow‑removal equipment are also presented as advantages for local buyers.
 
 ## Known for
-- 5‑axis waterjet cutting with no thermal stress
-- Rapid turnaround on waterjet parts
-- Custom truck bed, liftgate and dump body fabrication in expanded shop
-- Authorized upfitter for Palfinger crane bodies and Duramag service bodies
-- Certified service for commercial lawn‑care equipment, snowplows and spreaders
+- Rapid turnaround on waterjet cutting jobs
+- No thermal stress or heat‑affected zone on cut parts
+- 5‑axis waterjet cutting head for complex 3D shapes
+- Custom truck bed, liftgate, and service body fabrication in expanded shop
+- Certified technicians for commercial lawn‑care and snow‑removal equipment
 
 ## Capabilities
-- 5-axis abrasive waterjet cutting
+- Waterjet cutting (5-axis)
 - Custom truck bed fabrication
-- Liftgate fabrication
-- Dump body fabrication
-- Utility service body fabrication
-- Truck upfitting
-- Palfinger crane body installation
-- Duramag service body installation
-- Commercial lawn care equipment sales and service
-- Snowplow sales and service
-- Salt spreader sales and service
-- Certified technician repair
+- Liftgate fabrication and installation
+- Service body installation (DURAMAG, Palfinger)
+- Upfitter services
+- Commercial lawn care equipment sales
+- Commercial lawn care equipment service
+- Snowplow sales
+- Salt spreader sales
+- Parts and accessories supply
 
 ## Industries
 - Signage
-- Tile and art
+- Tile and stone design
+- Art and design
 - Automotive
-- Trucking and utility fleets
+- Utility truck bodies
 - Landscaping
-- Municipal snow removal
+- Snow removal
+- Municipal services
 
 ## Equipment
-- 5-axis waterjet cutting system
-- Palfinger crane bodies
-- Duramag service bodies
+- 5-axis waterjet cutting head
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Headquarters:** Beckley, West Virginia
 
 <details><summary>Sources</summary>
 
 - Location: Beckley, West Virginia -> db
-- Waterjet cutting with 5-axis head -> /
-- Custom truck bed and liftgate fabrication -> /
-- Recently expanded shop -> /
-- Sales and service of commercial lawn care equipment, snowplows, salt spreaders -> /
-- Palfinger crane body service -> /
-- Duramag service bodies -> /
-- Hardox 450 dump bed -> /
-- Applications: signage, tile, art, automotive -> /
-- Certified technicians for equipment service -> /
+- Waterjet cutting with 5-axis cutting head -> /
+- Custom truck bed, liftgate, and service body fabrication -> /
+- DURAMAG and Palfinger service bodies offered -> /
+- Commercial lawn care equipment sales and service (ExMark Quest) -> /
+- Snowplow and salt spreader sales -> /
+- Rapid turnarounds, smooth finishes, no thermal stress claimed for waterjet -> /
+- Recently expanded shop mentioned -> /
+- Certified technicians for lawn care equipment -> /
+- Applications: signage, tile designs, art projects, automotive parts -> /
 </details>
 
 ---
@@ -126,34 +132,34 @@ J & J Fabricating highlights rapid turnaround on waterjet jobs, smooth finishes 
 **Old description:** At J & L Machine & Welding, we pride ourselves on our adaptability and versatility. Every blueprint we receive is treated as an opportunity to showcase our talent, innovation, and create lasting relationships with our clients and local contractors. We work closely with each and every one of our customers to ensure every detail is properly assessed and planned. Through this process, we are able to provide our customers with accurate estimates and realistic timeframes.
 
 ## About
-J & L Machine & Welding is based in Hayti, South Dakota, and serves the Madison, Watertown, and Brookings areas. The company does not disclose its founding year or ownership structure, and no founders are named in public materials. It began as a welding and fabrication shop focused on responsiveness and quality workmanship.
+J & L Machine & Welding operates from Hayti, South Dakota, serving the Watertown, Madison, and Brookings regions. The company does not disclose its founding year or ownership structure, and no founders are named in available sources.
 
-The shop provides welding fabrication, metal fabrication, hydraulic services and repair, equipment repair, portable welding, welding installation, and fan balancing. Its welders work with steel, aluminum, bronze, stainless steel, brass, iron, and carbon steel using MIG, TIG, flux‑core, and gas metal arc processes. No facility size, headcount, or production volumes are published.
+The shop provides welding fabrication, welding installation, portable welding, equipment repair, hydraulic repair, and fan balancing. Its welders work with steel, aluminum, bronze, stainless steel, brass, iron, and carbon steel using MIG, TIG, flux‑core, gas metal arc, and brazing processes. Facility size, headcount, and annual volume are not published.
 
-The company works with local contractors and industrial clients in the Watertown region, handling projects of varying scale from repair jobs to custom fabrications. Specific industry sectors are not listed.
+The business works with local contractors and commercial clients across the Watertown area. Testimonials reference individual customers such as Brook Wendling, Paul Nelson, and Terry Wendt, but specific industry sectors or OEM accounts are not identified.
 
-J & L emphasizes adaptability, accurate estimates, realistic timeframes, and a safety‑first approach that avoids shortcuts. It cites continuous education in welding technology and a commitment to reliability as the factors that set it apart.
+Management emphasizes adaptability, accurate estimates, and realistic timeframes as differentiators. The company states it prioritizes responsiveness, reliability, and continuous education in welding technology to deliver cost‑effective quality.
 
 ## Known for
-- Adaptability and versatility on every blueprint
+- Adaptability and versatility on every project
 - Accurate estimates and realistic timeframes
-- Safety‑first approach with no shortcuts
+- Responsive, reliable, and innovative work ethic
 - Continuous education in welding technology
-- Responsive, reliable, and innovative service
+- Cost‑effective methods without sacrificing quality
 
 ## Capabilities
-- Welding fabrication
-- Metal fabrication
-- Hydraulic services
-- Hydraulic repair
-- Equipment repair
-- Portable welding
-- Welding installation
-- Fan balancing
-- MIG welding
-- TIG welding
-- Flux core welding
-- Gas metal arc welding
+- Welding Fabrication
+- Welding Installation
+- Portable Welding
+- Equipment Repair
+- Hydraulic Repair
+- Fan Balancing
+- MIG Welding
+- TIG Welding
+- Flux Core Welding
+- Gas Metal Arc Welding
+- Brazing
+- Metal Fabrication
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -162,10 +168,15 @@ J & L emphasizes adaptability, accurate estimates, realistic timeframes, and a s
 <details><summary>Sources</summary>
 
 - Headquarters in Hayti, South Dakota -> db
-- Services: welding fabrication, hydraulic repair, equipment repair, portable welding, installation, fan balancing -> /
-- Metals worked: steel, aluminum, bronze, stainless steel, brass, iron, carbon steel -> /, /about-us
-- Welding processes: MIG, TIG, flux core, gas metal arc -> /about-us
-- Differentiators: adaptability, accurate estimates, safety focus, continuous education -> /, /about-us
+- Service areas: Watertown, Madison, Brookings -> /
+- Services: Welding Fabrication, Welding Installation, Portable Welding, Equipment Repair, Hydraulic Repair, Fan Balancing -> /
+- Metals worked: Steel, Aluminum, Bronze, Stainless, Brass, Iron -> /
+- Additional metals: Stainless steel, Carbon steel, Aluminum, Brazing -> /about-us
+- Welding processes: MIG, TIG, Flux core, Gas metal arc -> /about-us
+- Company emphasizes adaptability, accurate estimates, realistic timeframes -> /
+- Company emphasizes responsiveness, reliability, innovation, quality -> /about-us
+- Company emphasizes continuous education and cost-effective quality -> /about-us
+- Testimonials from Brook Wendling, Paul Nelson, Terry Wendt -> /
 </details>
 
 ---
@@ -175,37 +186,34 @@ J & L emphasizes adaptability, accurate estimates, realistic timeframes, and a s
 **Old description:** JG Plastics Group has been providing Total Plastic Solutions for the Medical, Aerospace, Consumer, Defense, and Electronic/Connector industries since 1975.
 
 ## About
-J G Plastics Group LLC operates from Costa Mesa, California, adjacent to John Wayne Airport in Orange County. The company was founded in 1975 and has since provided total plastic solutions for medical, aerospace, consumer, defense, and electronic/connector industries. Ownership details and founder names are not publicly disclosed.
+J G Plastics Group LLC operates from Costa Mesa, California, where it was founded in 1975. The company has provided plastic injection molding and mold making services for nearly five decades, though the original founders are not named in public materials.
 
-The facility functions as a complete plastic injection molding operation, running both thermoplastic and thermoset processes. It houses horizontal and vertical injection molding machines and a newly installed 2,000-square-foot Class 10,000/ISO 7 cleanroom dedicated to medical device molding, plus a separate cleanroom for medical assembly and packaging. An in-house mold making department uses CAD/CAM software to build complex tooling, while secondary operations include assembly, in-mold decoration, insert molding, overmolding, medical mesh overmolding, painting, shielding, and packaging.
+The facility runs as a complete plastic injection molding operation covering both thermoplastic and thermoset materials. Capabilities include precision molding, close-tolerance work, in-mold decoration, insert molding, overmolding, and medical mesh overmolding. A 2,000-square-foot Class 10,000 (ISO 7) cleanroom supports medical-grade molding and assembly, while an in-house mold making department uses CAD/CAM software to build complex tooling. Secondary services span assembly, decoration, painting, shielding, and packaging.
 
-Customers span medical device manufacturers, aerospace and defense contractors requiring FAA and MIL-SPEC compliance, electronic and connector producers, and consumer product brands. The company molds parts from materials such as TPE/TPU/TPV elastomers, conductive and shielding plastics, high-strength resins, medical-grade polymers, PPS, LCP, and Elvax (EVA) copolymers. Finished components ship throughout the United States, Canada, Mexico, Europe, and Asia.
+The company serves medical, aerospace, defense/military/tactical, electronic/connector, and consumer markets. Customers include manufacturers requiring components that meet FAA and MIL-SPEC regulations, as well as medical device makers needing cleanroom assembly and packaging.
 
-J G Plastics emphasizes scientific molding principles and decades of mold-making experience to achieve close-tolerance results that, in its words, accomplish what others cannot. Registration to ISO 9001:2015, AS9100D, and ISO 13485:2016, along with ITAR registration, underpins a quality system aligned with Good Manufacturing Practices for regulated sectors.
+J G Plastics emphasizes its ability to tackle demanding, close-tolerance parts through scientific molding principles and decades of tooling experience. It highlights ITAR registration, adherence to Good Manufacturing Practices, and a location adjacent to John Wayne Airport that facilitates shipping across the United States, Canada, Mexico, Europe, and Asia.
 
 ## Known for
 - In-house mold making with CAD/CAM tooling design
-- Dedicated Class 10,000/ISO 7 cleanrooms for medical molding and assembly
+- Class 10,000 (ISO 7) cleanroom for medical molding and assembly
 - Scientific molding principles for close-tolerance parts
 - ITAR registered and compliant with FAA/MIL-SPEC requirements
-- Global shipping to US, Canada, Mexico, Europe, Asia
+- Good Manufacturing Practices (GMP) for medical devices
 
 ## Capabilities
-- Plastic injection molding (thermoplastic)
-- Thermoset molding
-- Mold making (in-house, CAD/CAM)
-- Assembly / secondary operations
+- Plastic injection molding (thermoplastic and thermoset)
+- Mold making
+- Assembly and secondary operations
 - Medical device assembly
 - Close tolerance molding
 - In-mold decoration
 - Insert molding
 - Overmolding
 - Medical mesh overmolding
-- Class 10,000 cleanroom molding (ISO 7)
-- Class 10,000 cleanroom assembly (ISO 7)
-- Painting
-- Shielding
-- Packaging
+- Class 10,000 cleanroom molding
+- Class 10,000 cleanroom assembly
+- Thermoset molding
 
 ## Industries
 - Medical
@@ -215,15 +223,14 @@ J G Plastics emphasizes scientific molding principles and decades of mold-making
 - Consumer
 
 ## Equipment
-- Horizontal injection molding machines
-- Vertical injection molding machines
-- Class 10,000/ISO 7 cleanrooms
+- Horizontal and vertical injection molding machines
+- CAD/CAM software
 
 ## Certifications
 - ISO 9001:2015
 - AS9100D
 - ISO 13485:2016
-- ITAR
+- ITAR registered
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -233,19 +240,17 @@ J G Plastics emphasizes scientific molding principles and decades of mold-making
 <details><summary>Sources</summary>
 
 - Founded 1975 -> db
-- Headquarters Costa Mesa, California -> db, /
-- ISO 9001:2015, AS9100D, ISO 13485:2016, ITAR certifications -> /
-- Plastic injection molding (thermoplastic & thermoset) -> /, /about-us, /capabilities
-- Mold making in-house with CAD/CAM -> /, /capabilities
-- Assembly/secondary operations including medical device assembly -> /, /capabilities
-- Specialties: close tolerance molding, in-mold decoration, insert molding, overmolding, medical mesh overmolding -> /, /capabilities
-- Class 10,000/ISO 7 cleanroom molding and assembly (2,000 sq ft) -> /
-- Horizontal and vertical injection molding machines -> /
-- Industries served: Medical, Aerospace, Defense/Military/Tactical, Electronic/Connector, Consumer -> /, /capabilities
-- Materials: TPE/TPU/TPV, Conductive & Shielding, High Strength, Medical Grade, PPS/LCP, Elvax (EVA) -> /, /capabilities
-- Scientific molding principles, GMP, FAA/MIL SPEC compliance -> /
-- Location adjacent to John Wayne Airport, shipping to US, Canada, Mexico, Europe, Asia -> /
-- Painting, shielding, packaging services -> /
+- Headquarters Costa Mesa, California -> db
+- Certifications ISO 9001:2015, AS9100D, ISO 13485:2016, ITAR -> db and /
+- Capabilities: plastic injection molding, mold making, assembly, cleanroom molding, thermoset molding -> /capabilities
+- Industries served: Medical, Aerospace, Defense/Military/Tactical, Electronic/Connector, Consumer -> /
+- Materials: TPE/TPU/TPV, conductive plastics, high strength plastics, medical grade plastics, PPS/LCP, Elvax -> /
+- 2,000 sq ft Class 10,000 cleanroom for medical molding and assembly -> /
+- In-house mold making with CAD/CAM -> /
+- Scientific molding principles for close tolerance parts -> /
+- ITAR registered, meets FAA and MIL SPEC -> /
+- Good Manufacturing Practices (GMP) -> /
+- Location adjacent to John Wayne Airport, serves US, Canada, Mexico, Europe, Asia -> /
 </details>
 
 ---
@@ -255,36 +260,34 @@ J G Plastics emphasizes scientific molding principles and decades of mold-making
 **Old description:** Our shop is set up in an old post office building, and is spacious and well equipped, with 2 tablesaws, a jointer, 2 jointer/planers, 2 bandsaws, drill press, stroke sander, edge sander, joinery tools, 2 lathes, 7 workbenches, and numerous top quality hand and hand power tools.
 
 ## About
-J Miller Handcrafted Furniture operates from a converted post office building in Chicago, Illinois. The business was founded by Jeff Miller, a furniture designer, craftsman, teacher, and author of several woodworking books. Miller, a former classical musician, established the shop as a base for his custom furniture practice and woodworking instruction.
+J Miller Handcrafted Furniture operates from a converted post office building in Chicago, Illinois. The business was founded by Jeff Miller, a furniture designer, craftsman, teacher, and author of several woodworking books. A former classical musician, Miller began his career crafting furniture that has since been exhibited in galleries nationwide.
 
-The workshop is equipped for fine woodworking with two table saws, a jointer, two jointer/planers, two bandsaws, a drill press, stroke and edge sanders, two lathes, seven workbenches, and a full complement of hand and power tools. Miller designs and builds one-of-a-kind furniture pieces, employing traditional joinery and turning techniques. The shop also hosts woodworking workshops for students.
+The shop produces handcrafted furniture using a range of woodworking equipment, including two table saws, two jointer/planers, two bandsaws, a drill press, stroke and edge sanders, two lathes, and seven workbenches. The facility also maintains an extensive collection of hand and power tools for joinery and detail work. No headcount or annual volume figures are disclosed.
 
-Miller's furniture has been exhibited in galleries and shows across the United States and is held in the Decorative Arts Collection of the Chicago History Museum. The company serves collectors, galleries, and museum curators seeking custom furniture, as well as woodworking enthusiasts through classes and instructional books and DVDs.
+Miller’s furniture has been shown in galleries and shows across the country and has won numerous awards. His pieces are held in the Decorative Arts Collection of the Chicago History Museum. The client base includes galleries, museums, and individual collectors seeking custom, high-end wood furniture.
 
-Miller's background in music and his extensive publishing record — including titles such as The Foundations of Better Woodworking and Chairmaking and Design — inform a design approach that emphasizes technique and craftsmanship. The shop's focus on hand skills and small-scale production distinguishes it from larger commercial furniture makers.
+The company distinguishes itself through Miller’s dual role as a practicing craftsman and an educator; his published books and instructional videos on chairmaking, beds, and children’s furniture reflect a commitment to advancing woodworking technique. This expertise informs the design and construction of each piece.
 
 ## Known for
-- Handcrafted furniture produced in a historic post office building
-- Award-winning designs featured in the Chicago History Museum
-- Author of multiple acclaimed woodworking books and DVDs
-- Offers hands-on woodworking workshops
-- Small-shop focus on traditional joinery and hand-tool techniques
+- Award-winning furniture featured in the Chicago History Museum's Decorative Arts Collection
+- Founder Jeff Miller is a published author of multiple woodworking books and instructional videos
+- Shop equipped with professional-grade woodworking machinery including dual table saws, jointer/planers, and lathes
+- Furniture exhibited in galleries and shows nationwide
 
 ## Capabilities
 - Custom furniture design
-- Handcrafted woodworking
-- Joinery
+- Handcrafted furniture production
+- Wood joinery
 - Wood turning
 - Sanding and finishing
-- Woodworking instruction
-- Woodworking book and video publishing
+- Furniture prototyping
 
 ## Industries
 - Furniture manufacturing
-- Art galleries
+- Woodworking
+- Decorative arts
+- Galleries
 - Museums
-- Woodworking education
-- Publishing
 
 ## Equipment
 - 2 tablesaws
@@ -305,15 +308,11 @@ Miller's background in music and his extensive publishing record — including t
 
 <details><summary>Sources</summary>
 
-- Location: Chicago, Illinois -> db
-- Shop in old post office building -> db (description)
-- Equipment list (tablesaws, jointer, planers, bandsaws, drill press, sanders, lathes, workbenches, hand tools) -> db (description)
-- Founder Jeff Miller, furniture designer, craftsman, teacher, author -> /about
-- Jeff Miller former classical musician -> /about
-- Furniture shown in galleries nationwide, won awards, in Chicago History Museum Decorative Arts Collection -> /about
-- Books published: The Foundations of Better Woodworking, Chairmaking and Design, Beds, Children's Furniture Projects, co-author of Storage Projects for All Around the House, Furniture for All Around the House -> /about
-- DVDs: Chairmaking Techniques -> /about
-- Workshops offered -> /about (Workshops link)
+- Located in Chicago, Illinois -> db
+- Founded by Jeff Miller, furniture designer, craftsman, teacher, author -> /about
+- Shop in converted post office building with listed equipment -> db
+- Furniture shown in galleries nationwide, won awards, in Chicago History Museum collection -> /about
+- Jeff Miller authored multiple woodworking books -> /about
 </details>
 
 ---
@@ -323,31 +322,31 @@ Miller's background in music and his extensive publishing record — including t
 **Old description:** Jared Patchin started building furniture in 1991 when his father bought Shutter Crafts. A local company that built wood shutters right here in the Treasure Valley.  He would spend time at the shop playing with scraps of wood and a handsaw, building rickety end tables, chairs, desks, and a countless number of swords.
 
 ## About
-J. Alexander Fine Woodworking operates from Nampa, Idaho, in the Treasure Valley. Jared Patchin began building furniture in 1991 after his father acquired Shutter Crafts, a local wood shutter company. Patchin later studied production management at Boise State University and has led J. Alexander for 17 years.
+J. Alexander Fine Woodworking operates from Nampa, Idaho, in the Treasure Valley. The business traces its roots to 1991 when Jared Patchin’s father purchased Shutter Crafts, a local wood-shutter manufacturer. Patchin spent his youth in the shop turning scrap wood into rickety tables, chairs, desks, and wooden swords. After studying civil engineering and later production management at Boise State University, he applied those disciplines to woodworking and has led J. Alexander for 17 years.
 
-The shop produces custom residential cabinetry and fine furniture. Every project is rendered in a 3D environment to verify specifications, then translated into digital drawings for precise CNC machining and hand-finishing. The team combines computerized cutting with traditional building methods, adapting techniques as they evolve.
+The shop produces residential cabinetry and high-end furniture, blending computerized CNC machining with traditional hand techniques. Every piece is first rendered in a 3D environment to verify specifications, then translated into digital drawings that drive exact cut-outs on the CNC equipment. The team also relies on seasoned hand craftsmanship for joinery and finishing, allowing both precision and custom detail.
 
-The company serves residential customers throughout the Treasure Valley, providing custom cabinetry for kitchens, bathrooms, and built-in furniture.
+Clients are primarily homeowners, designers, and builders seeking custom cabinetry and one-of-a-kind furniture for residential projects. The company does not list commercial or industrial accounts, focusing instead on the regional residential market.
 
-The company distinguishes itself by rendering every product in 3D before production, ensuring dimensional accuracy, and by blending CNC precision with hand craftsmanship. Patchin's original motivation—building furniture from scrap wood—still drives a culture of continuous learning and method refinement.
+Patchin founded the company to combine engineering rigor with the joy of making things by hand. The firm emphasizes continuous learning, adopting new software and building methods while retaining the hands-on approach that began with a handsaw and scrap lumber.
 
 ## Known for
-- 3D rendering of all products for specification accuracy
-- State-of-the-art design software with digital drawings and CNC cut-outs
-- Combination of CNC machining and hand craftsmanship
+- 3D rendering for accurate specifications
+- CNC machining paired with hand craftsmanship
+- Digital design driving exact cut-outs
 - Continuous innovation in building methods
 
 ## Capabilities
 - 3D rendering
-- CAD/digital drawings
 - CNC machining
+- Digital design
 - Hand woodworking
-- Custom cabinetry fabrication
-- Fine furniture making
+- Custom furniture construction
+- Cabinetry construction
 
 ## Industries
 - Residential cabinetry
-- Fine woodworking
+- Fine furniture
 
 ## Equipment
 - CNC machine
@@ -358,15 +357,14 @@ The company distinguishes itself by rendering every product in 3D before product
 
 <details><summary>Sources</summary>
 
-- Company located in Nampa, Idaho -> db
-- Jared Patchin began building furniture in 1991 after father bought Shutter Crafts -> /
-- Patchin studied civil engineering then production management at Boise State University -> /
-- Patchin has run J. Alexander for 17 years -> /
-- Company renders all products in 3D environment for accurate specifications -> /about-us
-- Uses state-of-the-art design software, digital drawings, CNC machine, and hand work -> /about-us
-- Employs seasoned professionals who implement best building methods and continuously innovate -> /about-us
-- Specializes in residential cabinetry -> /
-- Address: 3122 Port Street, Nampa, ID -> /
+- Jared Patchin started building furniture in 1991 when his father bought Shutter Crafts -> /
+- Located in Nampa, Idaho (Treasure Valley) -> db
+- Has been running J. Alexander for 17 years -> /
+- Studied civil engineering then production management at Boise State University -> /
+- Renders all products in a 3D environment ensuring accurate specifications -> /about-us
+- Uses state-of-the-art designing software for precise measurements using digital drawings and exact cut-outs from computerized CNC machine and by hand -> /about-us
+- Seasoned professionals that love what they're doing, implement building methods that work best, always learning and innovating -> /about-us
+- Makes residential cabinetry and fine furniture (end tables, chairs, desks, swords) -> /
 </details>
 
 ---
@@ -376,36 +374,34 @@ The company distinguishes itself by rendering every product in 3D before product
 **Old description:** The Dickinson Family was one of the largest producers in the area and made salt for more than 120 years. The region was the leading producer of salt in the country, with more than 50 businesses founded, and over 100 wells drilled. Siblings, Nancy Bruns and Lewis Payne, revived the family business in 2013.
 
 ## About
-J.Q. Dickinson Salt-Works operates from Charleston, West Virginia, where siblings Nancy Bruns and Lewis Payne revived their family's salt-making legacy in 2013. The Dickinson family had been among the region's largest producers for more than 120 years, during a period when the area led the country in salt output with over 50 businesses and 100 wells. The current incarnation draws on that heritage, positioning itself as an artisan salt company rooted in Appalachian tradition.
+J.Q. Dickinson Salt-Works operates from Charleston, West Virginia. The business traces its roots to a family that produced salt in the region for more than 120 years, when the area was the nation's salt producer with over 50 businesses and 100 wells. In 2013, siblings Nancy Bruns and Lewis Payne revived the family enterprise, reestablishing the J.Q. Dickinson name.
 
-The company harvests brine from an ancient ocean deposit sealed beneath the Appalachian Mountains, then slow-sun-dries it in small batches to produce a mineral-rich finishing salt with a distinctive texture. Its product line includes plain heirloom finishing salt, cooking and popcorn salt, grinding salt, and a range of flavored blends such as mushroom herb, bourbon-barrel smoked, bloody mary, and ghost pepper. Beyond salt, the mercantile curates spice blend gift sets, sampler boxes, and other handcrafted pantry and home goods from regional artisans.
+The company harvests natural sea salt from ancient ocean brine trapped beneath the Appalachian Mountains. Using traditional slow-sun-drying methods, they produce small-batch finishing salts, cooking salts, and flavored varieties such as ramp, applewood smoked, and bourbon-barrel aged. The operation also curates a line of artisanal pantry goods, home fragrances, and gift sets sourced from regional makers.
 
-Customers include home chefs, gift buyers, and wholesale accounts; the company explicitly invites retailers to carry its products and lists a Faire storefront for trade orders. Its subscription boxes and gift sets target the specialty food and gifting markets, while the salt guide and educational content serve culinary enthusiasts seeking authenticity.
+Products are sold directly to consumers through an online mercantile and offered wholesale to retailers and specialty food shops. The company invites wholesale inquiries via phone and email, targeting gourmet food stores, gift shops, and culinary professionals seeking Appalachian-sourced salt and crafted goods.
 
-The founders emphasize family heritage, sustainability, and traditional methods as differentiators, stating that every item reflects a commitment to quality and authenticity. By working with artisans who share their values, they aim to keep the spirit of Appalachia alive in each jar and bag.
+The revival was driven by a desire to preserve Appalachian salt-making heritage and showcase the mineral-rich character of the local brine. The founders emphasize small-batch craftsmanship and partnerships with artisans who share their commitment to authenticity.
 
 ## Known for
-- Hand-harvested from ancient Appalachian brine
+- Salt harvested from ancient Appalachian ocean brine
 - Slow-sun-dried using traditional methods
 - Small-batch production
-- Mineral-rich, additive-free salt
-- Family heritage since 2013 revival
+- Flavored salts include ramp, applewood smoked, bourbon-barrel aged
+- Partnerships with regional artisans for curated goods
 
 ## Capabilities
-- Hand harvesting
-- Solar evaporation (slow sun drying)
-- Small-batch production
-- Salt blending and flavoring
+- Hand-harvesting
+- Slow-sun-drying
+- Small-batch blending
+- Flavoring (ramp, applewood smoked, bourbon-barrel aged)
 - Gift set curation
 - Wholesale distribution
-- Subscription box fulfillment
 
 ## Industries
-- Specialty food
-- Gourmet food
-- Gift and specialty retail
+- Food & Beverage
+- Specialty Food
+- Retail
 - Wholesale
-- E-commerce
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -415,15 +411,16 @@ The founders emphasize family heritage, sustainability, and traditional methods 
 
 <details><summary>Sources</summary>
 
+- Company name: J.Q. Dickinson Salt-Works -> db
 - Location: Charleston, West Virginia -> db
-- Revival year: 2013 by Nancy Bruns and Lewis Payne -> db
-- Historical family production >120 years, region leading producer -> db
-- Hand-harvested from ancient ocean brine under Appalachian Mountains -> /
+- Historical family production over 120 years, region leading producer -> db
+- Revival in 2013 by Nancy Bruns and Lewis Payne -> db
+- Harvest salt from ancient ocean brine under Appalachian Mountains -> /
 - Slow-sun-dried, small-batch methods -> /
-- Product varieties: heirloom finishing, cooking/popcorn, grinding, flavored blends -> /
-- Curated gift sets, sampler boxes, subscription boxes -> /
-- Wholesale invitation and Faire storefront -> /
-- Commitment to family heritage, sustainability, traditional methods -> /
+- Flavored salts: ramp, applewood smoked, bourbon-barrel aged -> /
+- Curate artisanal goods from regional makers -> /
+- Sell direct and wholesale -> /
+- Contact for wholesale: phone and email -> /
 </details>
 
 ---
@@ -433,32 +430,31 @@ The founders emphasize family heritage, sustainability, and traditional methods 
 **Old description:** Custom and specialty fabrication usually involves a combination of various services, especially laser cutting, welding, and powder coating. From the moment a customer brings us their idea, our team gets to work combining all necessary steps in the full fabrication process to create the best possible final product. To see what goes into each individual part of the custom fabrication process, please read about each service.
 
 ## About
-JAMM Fabrication & Design was founded in 2017 in North Little Rock, Arkansas, by co-owners Matt Goodhart and Allen Walker. The business began when Walker, a welder since high school, recognized a need for custom handrails for train cars and taught himself to fabricate them. The initial three-person team produced hundreds of handrails, laying the groundwork for a shop that now serves customers across the United States.
+JAMM Fabrication & Design was founded in 2017 in North Little Rock, Arkansas, by co-owners Matt Goodhart and Allen Walker. Walker, who began welding in high school and later attended Nashville Auto Diesel College, identified a need for custom train car handrails and taught himself to fabricate them. Goodhart, introduced by a mutual friend, saw an opportunity to start a fabrication company and partnered with Walker to launch the business.
 
-The 24-person team ships roughly 50,000 custom parts per month from a facility expanded in spring 2025, with a Texas location planned.
+The team of 24 employees ships roughly 50,000 custom parts per month from their North Little Rock facility, with a second location opened in spring 2025 and a Texas site planned.
 
-JAMM serves three primary segments: architecture and construction (structural components, railings, bridge parts), manufacturing and industrial (conveyor components, high-volume production parts), and custom specialty jobs (sculptures, fixtures, signage for individuals and businesses). Customers have included Heating and Cooling Systems of Arkansas and various commercial contractors.
+JAMM serves architecture and construction firms (structural components, railings), manufacturers and industrial clients (conveyor parts, assembled configurations), and individuals and businesses seeking custom specialty items such as sculptures, fixtures, and signage. Customers include Heating and Cooling Systems of Arkansas, which uses them for commercial projects.
 
-The founders started the company to fill a gap in well-built custom railings and have since aligned their experience, capabilities, and technology to turn customer visions into production-level reality. Their stated mission emphasizes building customers’ dreams while fostering a supportive environment for their team.
+The founders started the company to fill a gap in well-built custom handrails for train cars, and their mission emphasizes aligning experience, capabilities, and technology to build customers' dreams while fostering a supportive environment for their team. They highlight free quotes, in-house certified welding, and a single-source approach from design through finishing.
 
 ## Known for
 - Free quotes on all projects
 - In-house certified welding (MIG, TIG, Stick)
-- Fiber optic laser cutting up to 2″ thick on 60″×120″ bed
-- 220-ton CNC press brake with 10-ft capacity
+- Single-source fabrication: laser, forming, welding, powder coating under one roof
+- 50,000 custom parts shipped monthly
+- 7 CNC lathes and mills for prototype to high-volume production
 
 ## Capabilities
 - Fiber optic laser cutting (flat and tube)
-- CNC press brake forming (220-ton, up to 10 ft)
-- 5-axis CNC pipe bending (up to 3.5" OD)
-- Plate rolling (18 gauge to 3/8")
-- Powder coating (oven 8x8x30, color matching)
+- CNC press brake forming
+- 5-axis CNC pipe bending
+- Plate rolling
+- Powder coating
+- Welding (MIG, TIG, Stick)
 - Sandblasting
-- Certified welding (MIG, TIG, Stick)
-- CNC machining (7 CNC lathes and mills, up to 30"x60" mill, 14" lathe 20' long)
-- Custom & specialty fabrication (sculptures, fixtures, signage)
-- High-volume production
-- Prototyping
+- CNC machining (milling and turning)
+- Custom & specialty fabrication (design, sculpture, signage)
 
 ## Industries
 - Architecture & Construction
@@ -466,15 +462,15 @@ The founders started the company to fill a gap in well-built custom railings and
 - Custom & Specialty Jobs
 
 ## Equipment
-- Fiber optic laser (60.25" x 120.25" cutting area)
-- 220-ton CNC press brake
-- 5-axis CNC pipe bender
-- Plate roller
+- Fiber optic laser (60.25" x 120.25" cutting area, 24 GA to 2" thick)
+- 220 ton CNC press brake (up to 10 ft length)
+- 5-axis CNC pipe bender (up to 3-1/2" OD)
+- Plate roller (18 gauge to 3/8" thickness, including stainless steel)
 - Powder coat booth with 8x8x30 ft oven
-- 7 CNC lathes and mills (largest mill 30"x60", large lathe 14" round bar up to 20' long)
+- 7 CNC lathes and CNC mills (largest mill 30" x 60", large lathe 14" round bar up to 20 ft)
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Founded:** 2017
 - **Employees:** 24
 - **Ownership:** Co-owned by Matt Goodhart and Allen Walker
@@ -482,17 +478,23 @@ The founders started the company to fill a gap in well-built custom railings and
 
 <details><summary>Sources</summary>
 
-- Founded in 2017 -> /about
-- Founders Matt Goodhart and Allen Walker -> /about, /
-- Headquarters North Little Rock, Arkansas -> db, /about
+- Founded 2017 -> /about
+- Founders Matt Goodhart and Allen Walker -> /about
 - 24 employees -> /about
-- Ships ~50,000 custom parts monthly -> /about
-- Services: fiber optic laser cutting, CNC press brake forming, CNC pipe bending, plate rolling, powder coating, sandblasting, welding, CNC machining -> /services
-- Equipment specs: laser bed 60.25x120.25, press brake 220-ton 10ft, pipe bender 5-axis 3.5 OD, plate roller 18ga-3/8, powder oven 8x8x30, 7 CNC lathes/mills -> /services
+- 50,000 custom parts per month -> /about
+- North Little Rock, Arkansas headquarters -> db
+- Fiber optic laser cutting 60.25x120.25" -> /services
+- 220 ton CNC press brake -> /services
+- 5-axis CNC pipe bender -> /services
+- Plate roller 18 gauge to 3/8 inch -> /services
+- Powder coat booth 8x8x30 oven -> /services
+- 7 CNC lathes and mills -> /services
 - Industries: Architecture & Construction, Manufacturing & Industrial, Custom & Specialty Jobs -> /
-- Mission statement -> /about
+- Materials: steel, aluminum, stainless steel -> /services
+- Certified welding (MIG, TIG, Stick) -> /services
 - Free quotes -> /
-- Expanded to new North Little Rock facility spring 2025, Texas planned -> /about
+- Expanded to new facility spring 2025 -> /about
+- Texas location planned -> /about
 </details>
 
 ---
@@ -502,31 +504,31 @@ The founders started the company to fill a gap in well-built custom railings and
 **Old description:** Jatco, Inc., was located in Union City, CA in the San Francisco Bay area, and has been molding quality plastic parts since 1976.  We recently moved to a bigger facility in
 
 ## About
-JATCO Incorporated, a custom plastic injection molding company, was founded in 1976 in Union City, California, in the San Francisco Bay Area. The company later relocated to a larger facility in Modesto, California, where it operates today.
+JATCO Incorporated was founded in 1976 in Union City, California, in the San Francisco Bay Area, and later relocated to a larger facility in Modesto, California. The company has operated as a custom plastic injection molder for over five decades.
 
-The company provides custom plastic injection molding services including overmolding, as well as die casting, metal stamping, product design, engineering, tooling, assembly, painting, packaging, warehousing, and distribution. JATCO also manufactures and sells its own product lines: concrete cylinder molds under the TestCylinderMolds brand and seedling trays under the Plantway brand. The Modesto plant operates 24 hours a day, seven days a week, and the company notes operations on two continents.
+The Modesto plant provides custom plastic injection molding, overmolding, die casting, metal stamping, assembly, painting, packaging, warehousing, and distribution. The company also manufactures concrete cylinder molds under the TestCylinderMolds brand and seedling trays through its Plantway line. Operations run 24 hours a day, seven days a week across two continents, though headcount and annual volume are not disclosed.
 
-JATCO serves a range of industries including healthcare, automotive, electronics, life sciences, building products, construction, and agriculture. The company cites long-term production partnerships with firms such as Sony, Tesla, Life Technologies, and Velux.
+JATCO serves industries including healthcare, automotive, electronics, life sciences, building materials, construction, and agriculture. Long‑term customers cited by the company include Sony, Tesla, Life Technologies, and Velux.
 
 ## Known for
-- One-stop shop: molding, assembly, packaging, warehousing, distribution
-- Global distribution from Modesto near Highway 99 and Port of Oakland
+- Over 50 years of plastic molding experience
+- One‑stop shop: design, engineering, tooling, molding, die casting, metal stamping, assembly, painting, packaging, warehousing, and distribution
+- Global distribution via Highway 99 and Port of Oakland
 - 24/7 operations on two continents
-- Own product lines: concrete cylinder molds and seedling trays
 
 ## Capabilities
-- Plastic injection molding
+- Custom plastic injection molding
 - Overmolding
 - Die casting
 - Metal stamping
-- Product design
-- Engineering
-- Tooling
 - Assembly
 - Painting
 - Packaging
 - Warehousing
 - Distribution
+- Product design
+- Engineering
+- Tooling
 - Concrete cylinder mold manufacturing
 - Seedling tray manufacturing
 
@@ -535,30 +537,33 @@ JATCO serves a range of industries including healthcare, automotive, electronics
 - Automotive
 - Electronics
 - Life sciences
-- Building products
+- Building materials
 - Construction
+- Engineering
 - Agriculture
 
 ## Certifications
 - ISO 9001:2015
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Founded:** 1976
 - **Headquarters:** Modesto, California
 
 <details><summary>Sources</summary>
 
 - Founded in 1976 -> db
-- Headquarters in Modesto, CA -> db
-- Originally located in Union City, CA -> /
-- ISO 9001:2015 registered -> /
-- Services: injection molding, overmolding, die casting, metal stamping, assembly, packaging, warehousing, distribution, product design, engineering, tooling, painting -> /
-- Customers: Sony, Tesla, Life Technologies, Velux -> /
-- Own product lines: TestCylinderMolds (concrete cylinder molds), Plantway (seedling trays) -> /
+- Headquarters in Modesto, California -> db
+- ISO 9001:2015 certification -> db and /
+- Custom plastic injection molding, overmolding, die casting, metal stamping, assembly, painting, packaging, warehousing, distribution -> /
+- Concrete cylinder mold manufacturing (TestCylinderMolds) -> /
+- Seedling tray manufacturing (Plantway) -> /
 - Operations 24/7 on two continents -> /
-- Global distribution near Highway 99 and Port of Oakland -> /
-- ANAB-accredited certification -> /
+- Customers: Sony, Tesla, Life Technologies, Velux -> /
+- Industries: healthcare, automotive, electronics, life sciences, building materials, construction, agriculture -> /
+- Proximity to Highway 99 and Port of Oakland for global distribution -> /
+- ANAB-accredited quality system -> /
+- One-stop shop model -> /
 </details>
 
 ---
@@ -568,42 +573,42 @@ JATCO serves a range of industries including healthcare, automotive, electronics
 **Old description:** We’re far beyond a cable assembly company. We bridge together endless innovative possibilities to see your product come to life
 
 ## About
-JEM Electronics, Inc. was founded in 1981 in Franklin, Massachusetts, by John McDonald, who remains president and CEO. After years in the wire and cable industry, McDonald saw that custom cable and harness assemblies were still being built with traditional methods.
+JEM Electronics, Inc. was founded in 1981 by John McDonald in Franklin, Massachusetts.
 
-Today JEM operates as a contract manufacturer specializing in custom cable assemblies, wire harnesses, and electromechanical box-build assemblies. The company runs ISO 9001:2015–certified facilities in Franklin, MA, and Tijuana, Mexico, providing both domestic and near-shore capacity. Every build follows a documented process: drawings are reviewed for manufacturability before quoting, assemblies meet IPC/WHMA-A-620 and IPC-J-STD-001 standards, and 100% of units undergo in-house testing—including continuity, hipot, VSWR, and pull testing—before shipment. Volume ranges from prototype to high-volume production.
+Today JEM operates from its headquarters in Franklin, MA, and a production facility in Tijuana, Mexico, providing build-to-print manufacturing from prototype through high-volume production. Core capabilities include custom cable assembly, complex wire harness assembly, and integrated box-build electromechanical assembly. Every assembly undergoes 100% in-house testing—continuity, pull, hipot, and VSWR—under documented procedures aligned with IPC/WHMA-A-620 workmanship standards. The company employs cross-trained assemblers and applies Lean Six Sigma methods to maintain process consistency.
 
-JEM serves OEMs in regulated, high-reliability sectors including military and defense (ITAR-registered, CAGE 3DTF7), medical and healthcare, semiconductor equipment, robotics, renewable energy, oil and gas, and networking. The company emphasizes full traceability and on-schedule delivery for applications where cable failure is not an option.
+JEM serves OEMs in regulated, high-reliability sectors including military and defense, medical, semiconductor, robotics, renewable energy, oil and gas, and networking. Its ITAR registration and CAGE code 3DTF7 support defense and government contract work, while ISO 9001:2015 and UL/CSA certifications cover commercial and industrial requirements.
 
-Leadership cites a culture of cross-trained assemblers and Lean Six Sigma continuous improvement that enables flexible staffing and waste reduction. JEM promises transparent quoting grounded in actual component lead times, a manufacturability review that catches terminal or routing issues early, and a commitment to “get builds right the first time, document every step, and stand behind every assembly we ship.”
+The company differentiates itself by reviewing every drawing for manufacturability before quoting, delivering transparent timelines, and standing behind each assembly with full traceability documentation. McDonald’s original vision—to solve customer problems through modern technology and repeatable quality—remains the guiding principle behind JEM’s disciplined, documented process from drawing to delivery.
 
 ## Known for
-- 100% in-house testing (continuity, hipot, VSWR, pull)
-- Manufacturability review before quoting
-- Transparent quoting with actual lead times
-- ITAR registered with CAGE 3DTF7
-- Dual-site production in Franklin, MA and Tijuana, MX
+- 100% in-house testing (continuity, pull, hipot, VSWR) on every assembly
+- ITAR registered with CAGE code 3DTF7 for defense and government work
+- ISO 9001:2015 and IPC/WHMA-A-620 certified facilities in the US and Mexico
+- Cross-trained assemblers and Lean Six Sigma process controls
+- Manufacturability review on every drawing before quote
 
 ## Capabilities
-- Custom cable assembly manufacturing
+- Custom cable assembly
 - Wire harness assembly
-- Electromechanical assembly
-- Box-build assembly
-- Continuity and resistance testing
-- VSWR testing
-- Hipot testing
-- Pull testing
-- Build-to-print services
+- Electromechanical box-build assembly
+- Build-to-print manufacturing
 - Rapid prototyping
 - Scalable production
-- Lean Six Sigma process improvement
-- Statistical process control (SPC)
-- Cross-trained assembler program
-- Manufacturability design review
+- Continuity and resistance testing
+- VSWR testing (S21/S22)
+- Hipot testing
+- Pull testing
+- Design for manufacturability review
 - Supply chain management
+- Lean Six Sigma process improvement
+- Cross-trained assembler program
+- UL/CSA certified manufacturing
+- ITAR-compliant production
 
 ## Industries
 - Military & Defense
-- Medical & Healthcare
+- Medical
 - Semiconductor
 - Robotics
 - Renewable Energy
@@ -614,33 +619,29 @@ Leadership cites a culture of cross-trained assemblers and Lean Six Sigma contin
 - ISO 9001:2015
 - IPC/WHMA-A-620
 - ITAR
+- IPC-A-620
 - IPC-J-STD-001
 - UL/CSA
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1981
+- **Ownership:** Privately held
 - **Headquarters:** Franklin, MA
 
 <details><summary>Sources</summary>
 
 - Founded 1981 by John McDonald -> /about-us
-- Headquarters Franklin, MA -> /about-us
-- Facilities in Franklin, MA and Tijuana, MX -> /about-us
-- ISO 9001:2015 certified -> /quality
-- IPC/WHMA-A-620 certified -> /quality
-- ITAR registered -> /
-- CAGE 3DTF7 -> /
-- Custom cable assembly, wire harness, electromechanical assembly capabilities -> /
+- Headquarters in Franklin, MA; production facility in Tijuana, MX -> /about-us
+- ISO 9001:2015, IPC/WHMA-A-620, ITAR, IPC-A-620, IPC-J-STD-001, UL/CSA certifications -> /quality
+- CAGE code 3DTF7 -> /
+- Capabilities: custom cable assembly, wire harness, electromechanical assembly -> /
 - Industries served: Military & Defense, Medical, Semiconductor, Robotics, Renewable Energy, Oil & Gas, Networking -> /
-- 100% in-house testing -> /
-- Cross-trained assemblers -> /quality
-- Lean Six Sigma -> /quality
-- Build-to-print services -> /
-- Rapid prototyping to high-volume production -> /
-- Manufacturability review before quote -> /
-- Transparent quoting -> /
-- CMMC compliance in progress -> /
+- 100% in-house testing (continuity, pull, hipot, VSWR) -> /quality
+- Cross-trained assemblers, Lean Six Sigma -> /quality
+- Build-to-print from prototype to high-volume production -> /
+- ITAR registered for defense work -> /
+- Founder John McDonald vision to modernize cable manufacturing -> /about-us
 </details>
 
 ---

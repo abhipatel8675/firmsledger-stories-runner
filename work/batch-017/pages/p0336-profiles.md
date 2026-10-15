@@ -3,51 +3,46 @@
 **Old description:** With years of experience in the welding industry, Fab Metals, LLC has built a reputation for excellence. Our skilled team of welders and general contractors work together to bring your vision and dream to life, ensuring every project is completed on time and within your budget.
 
 ## About
-Fab Metals LLC operates from North Branch, Minnesota, a community north of the Twin Cities. The company was founded in 2020 by Ray, who first learned welding as a teenager from his grandfather in Mexico before completing technical training in Minnesota and gaining years of manufacturing experience. Ray serves as owner and lead welder/fabricator, supported by general contractor and fabricator Tom.
+Fab Metals LLC is based in North Branch, Minnesota. The company was founded in 2020 by Ray, who grew up in Mexico and learned welding from his grandfather before attending technical school in Minnesota. Ray serves as owner and lead welder/fabricator. Tom, a general contractor and fabricator, handles installations and shop operations. The business is licensed, insured, and AWS certified.
 
-The shop provides custom metal railings, welding repairs, and general fabrication for both residential and commercial projects. Services include interior and exterior railings for decks, porches, and stairs, as well as mobile welding within a 50-mile radius of North Branch. The team works with steel and aluminum, offering painted or powder-coated finishes, and handles jobs ranging from trailer and tractor repairs to food-truck builds and fireplace-insert fabrication.
+The shop specializes in custom metal railings (interior, deck, porch), welding repairs, and custom fabrication. They work with steel and aluminum, offering welding, grinding, painting, and powder coating. Services include mobile welding within a 50-mile radius of North Branch. The team handles projects ranging from trailer and tractor repairs to fireplace inserts and food truck fabrication. No facility size or headcount is disclosed beyond the two named principals.
 
-Customers span homeowners, contractors, and small businesses across central Minnesota and the Twin Cities metro area, including Minneapolis, Rochester, and Duluth. Typical projects involve new construction, renovation, agricultural equipment maintenance, and food-service equipment fabrication.
+Fab Metals serves residential and commercial clients across central Minnesota and the Twin Cities metro area, including Minneapolis, Rochester, and Duluth. Customers include homeowners needing deck or interior railings, contractors on new construction or renovations, and agricultural or industrial clients requiring equipment repairs. Examples cited include a deck client in 2024 and a custom fabrication client in 2022.
 
-Fab Metals emphasizes its AWS-certified welders, licensed and insured status, quick turnaround times, and same-day communication. The company states it aims to deliver long-lasting, modern designs at affordable prices while keeping safety a priority throughout each project's lifespan.
+The company emphasizes quick turnaround times, same-day responses, and a people-first approach. Ray founded the business to combine skill, creativity, and quality craftsmanship, aiming to create high-quality railings that last a lifetime while prioritizing safety.
 
 ## Known for
-- AWS-certified welding team
+- Mobile welding within 50 miles of North Branch
+- AWS certified welders
 - Licensed and insured
-- Quick turnaround times
+- Free estimates on all projects
 - Same-day response to inquiries
-- Powder-coated finishes for Minnesota winters
 
 ## Capabilities
 - Custom metal railing fabrication
 - Welding repair
-- Mobile welding (on-site within 50 miles)
+- Custom metal fabrication
+- Mobile welding
 - Steel welding
 - Aluminum welding
-- Custom metal fabrication
 - Powder coating
 - Painting
-- Installation of railings and brackets
+- Grinding
+- Installation
 - Trailer repair
 - Tractor welding
-- Food truck fabrication
-- Fireplace insert repair
-- Deck railing fabrication
-- Porch handrail fabrication
-- Interior handrail fabrication
-- Free consultation and estimate
-- Final inspection
 
 ## Industries
-- Residential construction
-- Commercial construction
+- Residential
+- Commercial
+- Construction
 - Renovation
-- Agricultural
+- Agriculture
 - Food service
-- General metal fabrication
+- Industrial
 
 ## Certifications
-- AWS Certified
+- AWS certified
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -58,16 +53,17 @@ Fab Metals emphasizes its AWS-certified welders, licensed and insured status, qu
 
 - Founded in 2020 -> /about
 - Owner Ray founded company -> /about
-- Located in North Branch, Minnesota -> /
-- AWS certified welders -> /about
-- Licensed and insured -> /about
+- Location North Branch, MN -> /
+- AWS certified -> /about
 - Mobile welding within 50 miles -> /
-- Services: custom metal railings, welding repairs, fabrication -> /
-- Industries: residential, commercial, agricultural, food service -> /
-- Materials: steel, aluminum, paint, powder-coating -> /
-- Quick turnaround times -> /about
+- Services: custom railings, welding repairs, fabrication -> /services
+- Industries: residential, commercial, agricultural -> /
+- Materials: steel, aluminum, paint, powder coating -> /
+- Quick turnaround times -> /
+- Free estimates -> /services
+- Licensed and insured -> /about
 - Same-day responses -> /about
-- Affordable prices -> /about
+- Installation services -> /about
 - Social media: Facebook, TikTok, LinkedIn -> /
 </details>
 
@@ -78,43 +74,41 @@ Fab Metals emphasizes its AWS-certified welders, licensed and insured status, qu
 **Old description:** Fabrilaser Manufacturing, LLC is a full-service sheet metal fabricator. We offer customers product design, engineering and manufacturing services using advanced technology. From concept to fabrication, then to distribution of the finished product. Our team of engineers challenge modern methods and seek for better ways to transform the customer’s ideas into the finished product in the most efficient way possible.
 
 ## About
-Fabrilaser Manufacturing, LLC operates from Marshall, Michigan. The company's founding year and ownership structure are not publicly disclosed, nor are the names of its founders. It presents itself as a full‑service sheet metal fabricator.
+Fabrilaser Manufacturing, LLC operates from Marshall, Michigan, as a full-service sheet metal fabricator. The company's founding year and ownership structure are not publicly disclosed.
 
-The shop provides product design, engineering, manufacturing, and distribution services using advanced technology, moving from concept through fabrication to finished‑product delivery. Core processes include laser cutting, forming, welding, machining, and quality control, supported by computer‑aided design, state‑of‑the‑art robotics, and precision laser cutting equipment. The engineering team emphasizes challenging modern methods to transform customer ideas into finished products efficiently. Facility size, headcount, and production volumes are not specified.
+The shop provides product design, engineering, manufacturing, and distribution services, turning digital 3D concepts into product-ready parts and construction-ready materials. Core processes include laser cutting, forming, welding, machining, and quality assurance, supported by computer-aided design, robotic automation, and precision laser cutting equipment. The engineering team focuses on challenging modern methods to transform customer ideas into finished products efficiently. Services span from concept through fabrication to distribution of the finished product. Facility size, headcount, and annual volume figures have not been published.
 
-Fabrilaser serves government agencies, contractors, and manufacturers, delivering custom sheet metal products and helping designers and builders fabricate digital 3D concepts into product‑ready parts and construction‑ready materials.
+Fabrilaser serves government agencies, prime contractors, and manufacturers across the region, delivering custom sheet metal products for applications that range from industrial enclosures to structural components.
 
-The company states its mission is to be the regional leader in cutting‑edge laser cutting and bending, emphasizing high quality, quick turnaround times, and competitive pricing.
+The company positions itself as a regional leader in laser cutting and bending, emphasizing high quality, quick turnaround times, and competitive pricing as its defining differentiators.
 
 ## Known for
 - Regional leader in laser cutting and bending
-- Focus on high quality, quick turnaround, competitive pricing
-- Full-service from concept to distribution
-- Advanced technology: CAD, robotics, precision laser cutting
-- Engineering team challenges modern methods for efficiency
+- High quality, quick turnaround, competitive pricing
+- Full-service from concept to fabrication to distribution
+- Advanced CAD, robotics, and precision laser cutting
+- Engineering team focused on efficient method innovation
 
 ## Capabilities
-- Laser cutting
+- Laser Cutting
 - Forming
 - Welding
 - Machining
 - Engineering
-- Quality control
-- Product design
-- Manufacturing
+- Quality Assurance
+- Product Design
 - Distribution
-- Computer-aided design (CAD)
-- Robotics
+- CAD/CAM
+- Robotic Automation
 
 ## Industries
-- Government agencies
+- Government Agencies
 - Contractors
 - Manufacturers
 
 ## Equipment
-- Robotics
-- CNC machining
-- Laser cutting systems
+- Robotic Systems
+- Laser Cutting Systems
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -122,14 +116,12 @@ The company states its mission is to be the regional leader in cutting‑edge la
 
 <details><summary>Sources</summary>
 
-- Company name: Fabrilaser Manufacturing, LLC -> db
-- Headquarters: Marshall, Michigan -> db
-- Business type: full-service sheet metal fabricator -> /
-- Services: product design, engineering, manufacturing, distribution -> /
+- Marshall, Michigan location -> db
+- Full-service sheet metal fabricator -> /
 - Processes: laser cutting, forming, welding, machining, engineering, quality -> /
-- Technologies: computer-aided design, robotics, precision laser cutting -> /
 - Customers: government agencies, contractors, manufacturers -> /
-- Mission: regional leader in laser cutting and bending, focus on high quality, quick turnaround, competitive pricing -> /
+- Technology: CAD, robotics, precision laser cutting -> /
+- Mission: regional leader in laser cutting and bending, focus on quality, quick turnaround, competitive pricing -> /
 </details>
 
 ---
@@ -139,34 +131,31 @@ The company states its mission is to be the regional leader in cutting‑edge la
 **Old description:** Hand-built, made-to-order furniture. Choose every detail — wood, finish, dimensions. We craft exactly what you envision.
 
 ## About
-Facet Furniture was founded in 2018 in Birmingham, Alabama, by Michael Morrow and the team at MDM Design Studio. The company began as a contemporary artisan furniture workshop focused on hand-built, made-to-order pieces for residential spaces.
+Facet Furniture operates from Birmingham, Alabama, where it was established in 2018 by Michael Morrow and the team at MDM Design Studio. The company began with a focus on hand-built, made-to-order furniture inspired by Italian design principles.
 
-The workshop produces a range of tables, credenzas, hutches, beds, mirrors, and seating, each crafted from solid woods such as white oak, walnut, and reclaimed oak, combined with materials like marble, forged brass, shagreen, and quartzite. Every piece is handcrafted from start to finish, employing traditional joinery such as dovetails and custom finishes across a palette of 19 options. Production is made-to-order, with no showroom inventory; each project begins with a client conversation to define dimensions, wood species, and finish.
+The workshop produces a range of custom pieces including dining tables, credenzas, hutches, beds, mirrors, and occasional tables. Each item is handcrafted from start to finish, allowing customers to specify wood species, finish, dimensions, and hardware. Materials span domestic hardwoods such as white oak, walnut, and reclaimed oak, as well as marble, quartzite, forged brass, bronze, shagreen, glass, iron, concrete, and leather.
 
-Facet serves high-end residential clients and interior designers seeking custom furniture for living rooms, dining rooms, bedrooms, and entryways. The collection includes dining tables, coffee tables, credenzas, beds, vanities, and accent pieces, all tailored to the specific spatial and aesthetic requirements of the client.
+Facet Furniture serves residential clients and interior design professionals seeking furniture tailored to specific spaces. The company does not produce for showroom inventory; instead, it works directly with customers through a consultation process to create pieces for homes and other living environments.
 
-The company distinguishes itself through its Italian-inspired design ethos and a commitment to handcrafting every joint, surface, and finish in its Birmingham atelier. Morrow and his team emphasize that they do not produce for showrooms but for the spaces where life happens, treating each detail as an opportunity for excellence.
+The founder emphasizes that every joint, finish, and surface represents an opportunity for excellence, differentiating the brand through a commitment to artisanal construction and Italian-inspired aesthetics rather than mass production.
 
 ## Known for
-- Hand-built, made-to-order furniture with fully customizable dimensions, wood, and finish
-- Italian-inspired design crafted in Birmingham by Michael Morrow and MDM Design Studio
-- Every piece handcrafted from start to finish using traditional joinery (e.g., dovetail)
-- No showroom inventory; each project begins with a client conversation
-- 19 custom finish options across solid woods, marble, brass, shagreen, and quartzite
+- Hand-built, made-to-order construction
+- Full customization of wood, finish, and dimensions
+- Handcrafted joinery including dovetail details
+- Italian-inspired design aesthetic
+- Built in Birmingham, Alabama
 
 ## Capabilities
-- Custom furniture design
-- Made-to-order manufacturing
-- Handcrafted joinery (dovetail, etc.)
-- Custom wood finishing (19 finishes)
-- Material selection (solid woods, marble, brass, shagreen, quartzite)
-- Client consultation and space planning
-
-## Industries
-- Residential furniture
-- Interior design
-- Luxury home furnishings
-- Custom furniture manufacturing
+- Custom furniture design and manufacturing
+- Handcrafted joinery (dovetail)
+- Wood selection and finishing (multiple finish options)
+- Metal fabrication (forged brass, bronze)
+- Stone and marble fabrication
+- Glass fabrication
+- Upholstery (leather)
+- Concrete casting
+- Brass inlay work
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -175,14 +164,14 @@ The company distinguishes itself through its Italian-inspired design ethos and a
 
 <details><summary>Sources</summary>
 
-- Founded 2018 in Birmingham, AL -> db and page '/'
-- Founder Michael Morrow and MDM Design Studio -> page '/'
-- Hand-built, made-to-order furniture -> page '/'
-- Materials: White Oak, Walnut, Reclaimed Oak, Nero Marble, Forged Brass, Shagreen, Bronze, San Simone Quartzite, Parchment -> page '/'
-- 19 custom finishes -> page '/'
-- Products: tables, credenzas, hutches, beds, mirrors, seating -> page '/'
-- Italian-inspired design, handcrafted from start to finish -> page '/'
-- No showroom inventory; client conversation starts each project -> page '/'
+- Founded 2018 -> db
+- Headquarters Birmingham, AL -> db
+- Founder Michael Morrow and MDM Design Studio -> /
+- Hand-built, made-to-order furniture -> /
+- Materials: White Oak, Walnut, Reclaimed Oak, Nero Marble, Forged Brass, Shagreen, Bronze, San Simone Quartzite, Parchment, Glass, Iron, Concrete, Leather -> /
+- Products: Radiate Table, Prodigieux Credenza, Phylo Hutch, Mariana Curio, Frankie Bed, Leverage Dining Table, Motley Coffee Table, Radiate Bar, Eisberg Entry Table, Juxtapo Side Table, Juxtapo Coffee Table, Lindey Vanity/Lex Desk, Pure Chair, Robin Bedside Table, Scoop Mirror, Dove Mirror -> /
+- Process: handcrafted from start to finish, dovetail joinery, brass inlay -> /
+- Differentiation: inspired by Italian design, built for spaces where life happens -> /
 </details>
 
 ---
@@ -192,31 +181,27 @@ The company distinguishes itself through its Italian-inspired design ethos and a
 **Old description:** At Factory Direct Equipment, Co., we primarily deal in new equipment and a large selection of smallwares and supplies. We are an authorized Hobart Equipment Dealer! We pride ourselves with offering excellent pricing and exceptional service to our customers. Our 24,000 square foot facility is located in Richmond, Virginia and is easily accessible to interstates 64 and 95.
 
 ## About
-Factory Direct Equipment Co. operates a 24,000-square-foot facility in Richmond, Virginia, conveniently located near Interstates 64 and 95. The company serves as an authorized dealer for Hobart equipment and supplies a range of smallwares and related products to customers across the state.
+Factory Direct Equipment Co. operates a 24,000-square-foot facility on Grenoble Road in Richmond, Virginia, with convenient access to Interstates 64 and 95. The company's founding year and ownership structure have not been publicly disclosed.
 
-The business focuses on distribution of new commercial equipment and a broad selection of smallwares and supplies. It maintains a printed and online catalog, though many items are not listed for online purchase due to manufacturer minimum advertised pricing policies; customers are encouraged to call for quotes and product assistance. The facility supports statewide delivery across Virginia.
+The business functions as an authorized dealer for Hobart equipment and carries a broad line of new food‑service equipment, smallwares, and supplies. Its catalog, known as "the One Book," is available in print and online, and the firm states that many items are not listed for web purchase but can be sourced by phone.
 
-Factory Direct Equipment is registered with the Virginia E-Procurement System, enabling it to supply state agencies and public institutions throughout Virginia. Its customer base includes government buyers as well as commercial operators seeking foodservice and institutional equipment.
+Factory Direct Equipment is registered with the Virginia e‑Procurement System and serves customers across the entire state, including state agencies and other public‑sector buyers. The company does not specify additional industry verticals beyond its equipment focus.
 
-The company emphasizes competitive pricing and responsive service as its primary differentiators, positioning itself as a reliable source for equipment and supplies backed by factory-authorized support.
+The firm emphasizes competitive pricing and responsive service as its primary differentiators, though it does not publish a formal mission statement or founding narrative.
 
 ## Known for
 - Authorized Hobart Equipment Dealer
-- Registered with Virginia E-Procurement System
+- 24,000-square-foot Richmond facility
+- Registered with Virginia e‑Procurement System
 - Statewide coverage in Virginia
-- 24,000-square-foot facility
-- Competitive pricing and responsive service
+- Catalog ("the One Book") with phone‑assisted sourcing
 
 ## Capabilities
 - Equipment distribution
 - Smallwares supply
-- Catalog sales
+- Authorized dealer representation
+- Catalog management
 - Phone-based sales support
-- Authorized Hobart dealer support
-
-## Industries
-- Government (Virginia state agencies)
-- Commercial foodservice
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -224,14 +209,17 @@ The company emphasizes competitive pricing and responsive service as its primary
 
 <details><summary>Sources</summary>
 
-- 24,000 sq ft facility in Richmond, VA -> /
+- Company name: Factory Direct Equipment Co -> db
+- Headquarters: Richmond, Virginia -> db
+- Facility size: 24,000 square feet -> /
 - Authorized Hobart Equipment Dealer -> /
 - Registered with Virginia E-Procurement System -> /
 - Covers entire state of Virginia -> /
-- Excellent pricing and exceptional service claim -> /
-- Catalog available online and print -> /
-- Minimum advertised pricing requires phone quotes -> /
-- Headquarters Richmond, Virginia -> db
+- Catalog named "the One Book" -> /
+- Address: 2419 Grenoble Rd, Richmond, VA 23294 -> /
+- Phone numbers: (888) 290-6960, (804) 359-6960 -> /
+- Email: factorydirectva@aol.com -> /
+- Hours: Mon-Fri 8 AM-5 PM -> /
 </details>
 
 ---
@@ -241,27 +229,27 @@ The company emphasizes competitive pricing and responsive service as its primary
 **Old description:** We carry dozens of name-brand manufacturers and pass our savings straight to you. Tell us what you're looking for and we'll find you the perfect piece.
 
 ## About
-Factory Furniture Company has operated from Mauldin, South Carolina since 1964, when the Kern family opened the business to help Upstate residents furnish their homes without the markup of big-box retailers. The company remains family-owned and operated today.
+Factory Furniture Company, based in Mauldin, South Carolina, has been family-owned and operated since 1964. The business was founded by the Kern family and has served the Upstate region for over five decades, offering factory-direct pricing on home furnishings by sourcing directly from manufacturers.
 
-The retailer carries furniture from more than 34 manufacturers, offering over 10,000 items across bedroom, living room, dining, home office, and outdoor categories. Rather than holding inventory, the team places orders directly with the manufacturer and coordinates delivery to the customer's door. Financing is available through a lending partner.
+The company operates as a retailer, carrying products from more than 34 name-brand furniture manufacturers and offering over 10,000 items across categories including living room, bedroom, dining, home office, and outdoor furniture. It maintains a showroom at 729 N. Main St. in Mauldin and coordinates delivery directly from manufacturers to customers' doors. The company also provides financing options through a lending partner.
 
-The showroom serves residential customers throughout the Upstate region. Shoppers can browse brands online or in person, then request a quote for specific SKUs or descriptions. The staff, described as non-commissioned product experts, assist with selection and pricing.
+Factory Furniture Company serves residential customers in the Upstate South Carolina area seeking home furnishings. Its customer base includes homeowners furnishing multiple rooms, as well as those looking for specific pieces such as bedroom sets, dining tables, or office furniture. The company works with brands across the furniture industry but does not manufacture products itself.
 
-The business was founded on the premise that direct manufacturer relationships allow lower prices than traditional retail. The company emphasizes that customers speak with knowledgeable staff rather than commissioned salespeople, and that the ordering process is streamlined into three steps: browse, reach out, and let the company handle the rest.
+The Kern family started the business to help local residents furnish their homes without the markup of traditional big-box retail stores. By ordering directly from manufacturers, the company says it can offer prices that conventional retailers cannot match, and it emphasizes knowledgeable, non-commissioned staff who know the product lines.
 
 ## Known for
-- Family-owned and operated since 1964
-- Direct relationships with 34+ furniture manufacturers
-- Factory-direct pricing by ordering straight from manufacturers
-- Non-commissioned product experts assist customers
-- Financing available through lending partner
+- Direct-from-manufacturer pricing
+- Non-commissioned product specialists
+- Same-day quote response
+- Family-owned since 1964
+- Financing through lending partner
 
 ## Capabilities
-- Furniture retail sales
-- Direct manufacturer ordering
+- Manufacturer-direct sourcing
+- Order placement with manufacturers
 - Delivery coordination
 - Financing facilitation
-- Product sourcing across 34+ brands
+- Product consultation
 
 ## Industries
 - Residential furniture
@@ -279,15 +267,14 @@ The business was founded on the premise that direct manufacturer relationships a
 
 - Founded 1964 -> db
 - Headquarters Mauldin, SC -> db
-- Family-owned (Kern family) -> /
+- Family-owned, Kern family -> /
 - 34+ manufacturers carried -> /
-- 10,000+ items available -> /
-- 50+ years in business -> /
-- Direct manufacturer ordering and delivery coordination -> /
-- Financing through lending partner -> /
+- 10k+ items available -> /
 - Showroom at 729 N. Main St. Mauldin, SC -> /
-- Categories: Bedroom, Living Room, Dining, Home Office, Outdoor/Patio -> /
-- Responds within one business day -> /
+- Direct-from-manufacturer ordering and delivery coordination -> /
+- Financing through lending partner -> /
+- Non-commissioned sales staff -> /
+- Typical response within one business day -> /
 </details>
 
 ---
@@ -297,42 +284,44 @@ The business was founded on the premise that direct manufacturer relationships a
 **Old description:** Founded in Minneapolis in 1945, FMP is now headquartered in Eagan, MN and has grown to over 300 locations throughout our national footprint.
 
 ## About
-Factory Motor Parts (FMP) traces its roots to 1945 when Elliott Auto Supply Co., Inc. opened a single location in Minneapolis. The business was later renamed Factory Motor Parts through its involvement in the Chrysler Mopar distribution network of the 1960s, forging partnerships with Ford, General Motors and other aftermarket suppliers. Today the company is headquartered in Eagan, Minnesota, and operates as a multi‑generational, family‑owned enterprise with more than 300 locations across 35 states.
+Founded in Minneapolis in 1945 as Elliott Auto Supply Co., Inc., Factory Motor Parts (FMP) is a multi-generational, family-owned distributor now headquartered in Eagan, Minnesota. The company adopted the Factory Motor Parts name through its participation in the former Chrysler Mopar distribution network of the 1960s, symbolizing partnerships with Ford, General Motors, and other aftermarket suppliers. From a single location, FMP expanded to over 300 locations across 35 states, with significant growth starting in 1993 when it grew from three to 32 locations in five years, entering markets such as Bismarck, Omaha, Phoenix, and Denver.
 
-FMP functions as a full‑line automotive aftermarket distributor, supplying original‑equipment (OE) and name‑brand parts to professional repair shops. Its catalog is backed by dedicated support teams, an online ordering platform (FMP Delivers), fleet supply‑chain solutions, GPS tracking, training programs and a customer self‑service portal. Specialized offerings include a Professional Brake Program, Battery Programs, a Stocking Program, the FMP Partners Network for independent shops, and a One Stop Parts Source Program.
+FMP distributes premium original equipment (OE) and name-brand automotive parts, positioning itself as a total resource for professional automotive repair. Its service portfolio includes dedicated support teams, the FMP Delivers online ordering platform, fleet supply chain solutions with GPS tracking, technical training, and a customer self-service portal. The company also operates specialized programs such as the Professional Brake Program, Battery Programs, a Stocking Program, the FMP Partners Network for independent shops, and the One Stop Parts Source Program.
 
-The distributor serves independent service centers, car and truck dealerships, commercial fleets, wholesale distributors and automotive retailers. Testimonials on the site cite customers such as Christian Brothers Automotive, Tilden Car Care Center and Colorado Tire & Service as examples of shops that rely on FMP for parts availability and warranty support.
+The distributor serves independent service centers, car and truck dealerships, commercial fleets, wholesale distributors, and retailers. Customer testimonials cite shops such as Christian Brothers Automotive, Tilden Car Care Center, and Colorado Tire & Service as users of FMP's parts and programs. FMP's market coverage spans the Midwest, Mountain States, Southwest, Northeast, North Carolina, and the West Coast including Alaska.
 
-FMP emphasizes that it sells exclusively to service professionals, not to retail consumers, and promotes a nationwide warranty on its parts. The company says its growth has been driven by “unmatched availability combined with exceptional service and knowledgeable staff,” positioning itself as a total solution partner rather than a simple parts supplier.
+FMP emphasizes its multi-generational family ownership, unmatched parts availability, knowledgeable staff, and a nationwide warranty as key differentiators. The company states its mission is to be a dynamic, ever-adapting partner that meets and exceeds the unique needs of each customer in the automotive aftermarket.
 
 ## Known for
-- Over 300 locations across 35 states
-- Multi‑generational family ownership since 1945
 - Nationwide warranty on distributed parts
-- Exclusive focus on professional service customers (no retail sales)
-- Integrated programs: FMP Delivers online ordering, fleet supply‑chain solutions, GPS tracking, training
+- Over 300 locations across 35 states
+- Multi-generational family ownership
+- Dedicated support teams for independent service centers
+- Fleet supply chain solutions with GPS tracking
 
 ## Capabilities
-- Automotive aftermarket parts distribution
+- Automotive parts distribution (OE and aftermarket)
+- Online ordering platform (FMP Delivers)
+- Fleet supply chain management
+- GPS tracking for fleets
+- Technical training for automotive professionals
+- Customer self-service portal
 - Professional Brake Program
 - Battery Programs
 - Stocking Program
-- FMP Partners Network
+- FMP Partners Network (independent shop program)
 - One Stop Parts Source Program
-- Dedicated Support Teams
-- FMP Delivers Online Ordering
-- Fleet Supply Chain Solutions
-- GPS Tracking
-- Training
-- Customer Self-Service Portal
+- Dedicated support teams
+- Inventory management
+- Warranty administration
 
 ## Industries
 - Automotive aftermarket
 - Independent service centers
-- Fleet management
 - Car and truck dealerships
-- Wholesale distribution
-- Automotive retail
+- Commercial fleets
+- Wholesale distributors
+- Retailers
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -342,16 +331,19 @@ FMP emphasizes that it sells exclusively to service professionals, not to retail
 
 <details><summary>Sources</summary>
 
-- Founded 1945 as Elliott Auto Supply Co. in Minneapolis -> /about-us
+- Founded in 1945 as Elliott Auto Supply Co., Inc. in Minneapolis -> /about-us
 - Headquartered in Eagan, MN -> /about-us
 - Over 300 locations in 35 states -> /about-us
 - Multi-generational, family-owned -> /about-us
 - Distributes OE and name brand automotive parts -> /
 - Serves independent service centers, dealerships, fleets, wholesale distributors, retailers -> /
-- Programs: Professional Brake Program, Battery Programs, Stocking Program, FMP Partners Network, One Stop Parts Source Program -> /services
 - Services: Dedicated Support Teams, FMP Delivers Online Ordering, Fleet Supply Chain Solutions, GPS Tracking, Training, Customer Self-Service Portal -> /services
-- Customer examples: Christian Brothers Automotive, Tilden Car Care Center, Colorado Tire & Service -> /services
-- Sells exclusively to service professionals, nationwide warranty -> /services
+- Programs: Professional Brake Program, Battery Programs, Stocking Program, FMP Partners Network, One Stop Parts Source Program -> /services
+- Expansion began in 1993 from 3 to 32 locations in five years -> /about-us
+- Market coverage: Midwest, Mountain States, Southwest, Northeast, North Carolina, West Coast including Alaska -> /about-us
+- Customer testimonials from Christian Brothers Automotive, Tilden Car Care Center, Colorado Tire & Service -> /services
+- Nationwide warranty offered -> /services
+- LinkedIn URL -> db
 </details>
 
 ---
@@ -361,25 +353,25 @@ FMP emphasizes that it sells exclusively to service professionals, not to retail
 **Old description:** Downs Food Group, a family-owned company, has earned the trust of our business partners through integrity, quality and value. These principles date from our founding in 1947, and remain at the forefront of our business philosophy today.
 
 ## About
-Downs Food Group, operating as Fairmont Foods, is a family-owned food manufacturer headquartered in Fairmont, Minnesota. The business traces its roots to 1947 when Tony Downs purchased a produce business in St. James, Minnesota. Over the decades, the company expanded through acquisitions to become a fully-cooked protein processor and co-packer of frozen entrees.
+Downs Food Group, a family-owned food manufacturer, traces its roots to 1947 when Tony Downs purchased a produce business in St. James, Minnesota. The company, now headquartered in Fairmont, Minnesota, has remained under family ownership for over seven decades, building a reputation on integrity, quality, and value.
 
-The company specializes in fully-cooked proteins and frozen prepared foods, offering co-packing services for branded and private-label products. Its capabilities include multi-component ingredient blending and volumetric filling of components. The facility scale, headcount, and production volumes are not disclosed in the source material.
+Today the firm operates as a fully-cooked protein processor and co-packer of frozen entrees, producing both branded and private-label items. Its capabilities include multi-component ingredient assembly and volumetric filling, expanded through several acquisitions that added processing lines for a range of prepared foods. Specific facility size, headcount, and annual volume are not publicly disclosed.
 
-Downs Food Group serves food brands and retailers across the United States, producing private-label and branded frozen entrees for some of America's largest food companies. Specific customer names are not provided.
+The company serves major U.S. food brands and retailers, supplying private-label frozen meals and protein-based products to some of the nation's largest food companies. Its customer base spans the broader food manufacturing sector, including retail, foodservice, and branded consumer goods.
 
-The company emphasizes quality, service, and respect as its guiding philosophy, with a commitment to sustainability through waste reduction, energy conservation, and continuous process improvement. It also highlights community support through partnerships with organizations such as the American Heart Association and Habitat for Humanity.
+Downs Food Group emphasizes a philosophy of quality, service, and respect, citing its ability to precisely match customer specifications and provide responsive support as key differentiators. The firm also highlights sustainability efforts focused on waste reduction, energy conservation, and continuous safety improvement, alongside a long-standing commitment to community organizations.
 
 ## Known for
-- Family-owned since 1947
-- Award-winning co-packer for major food brands
-- Fully-cooked protein processing and frozen entree co-packing
-- Sustainability initiatives including waste reduction and energy conservation
-- Community partnerships with national and local organizations
+- Precise customization to customer specifications
+- Responsive service and support
+- Award-winning track record with major food brands
+- Sustainability focus: waste reduction, energy conservation
+- Family-owned continuity since 1947
 
 ## Capabilities
 - Fully-cooked protein processing
 - Frozen entree co-packing
-- Multi-component ingredient blending
+- Multi-component ingredient assembly
 - Volumetric filling
 - Private label manufacturing
 - Branded product manufacturing
@@ -388,11 +380,12 @@ The company emphasizes quality, service, and respect as its guiding philosophy, 
 - Food processing
 - Protein processing
 - Frozen prepared foods
-- Private label food manufacturing
 - Co-packing
+- Private label manufacturing
+- Food manufacturing
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1947
 - **Ownership:** Family-owned
 - **Headquarters:** Fairmont, Minnesota
@@ -400,15 +393,16 @@ The company emphasizes quality, service, and respect as its guiding philosophy, 
 <details><summary>Sources</summary>
 
 - Founded in 1947 by Tony Downs in St. James, Minnesota -> /about-us
-- Family-owned -> /about-us
+- Family-owned company -> /about-us, /
 - Headquartered in Fairmont, Minnesota -> db
 - Fully-cooked protein processor and co-packer of frozen entrees -> /
-- Multi-component ingredients and volumetric filled components -> /
-- Award-winning co-packer for major food brands -> /
-- Sustainability focus including waste reduction and energy conservation -> /about-us
-- Community support partnerships with American Heart Association, Habitat for Humanity, etc. -> /about-us
-- Produces branded and private label products -> /
-- Quality, Service, Respect philosophy -> /about-us
+- Produces branded and private label products for top U.S. companies -> /
+- Capabilities include multi-component ingredients and volumetric filled components -> db
+- Expanded through several acquisitions adding new capabilities -> /about-us
+- Philosophy of Quality, Service, and Respect -> /about-us
+- Sustainability commitment: waste reduction, energy conservation, continuous safety improvement -> /about-us
+- Community support for numerous local, national, international organizations -> /about-us
+- Awards from largest and most respected companies in the business -> /
 </details>
 
 ---
@@ -418,72 +412,62 @@ The company emphasizes quality, service, and respect as its guiding philosophy, 
 **Old description:** At Fairway Medical, since 2010, we enhance your sleep health through dedicated sleep apnea treatment. We specialize exclusively in providing personalized CPAP therapy solutions to patients across the Phoenix metro area, ensuring you breathe easier and sleep better.
 
 ## About
-Fairway Medical is a locally owned, women-owned small business based in Tempe, Arizona, that has provided sleep apnea therapy since 2010. Founders Lisa and Craig built the practice over the past 15 years into a healthcare partner for the Phoenix metropolitan area, driven by a passion for community and personalized care.
+Fairway Medical has operated from Tempe, Arizona since 2010 as a women-owned small business founded by Lisa and Craig. The pair built the practice around personalized sleep apnea therapy, focusing on the Phoenix metropolitan area.
 
-The company specializes exclusively in personalized CPAP therapy solutions. Its services include rapid CPAP machine setup within 72 hours of referral, mask fitting with more than 50 in-stock options, compliance coaching for Medicare requirements, ongoing equipment education, and continuous supply replacement. Fairway Medical also provides oxygen equipment, nebulizers, and broader respiratory care services. The team, with an average tenure of eight years, operates from a single Tempe location serving patients across the East Valley and greater Phoenix region.
+The company supplies CPAP, APAP, and BiPAP machines along with a stocked selection of more than 50 mask styles for in-office fittings. Its services include device setup within 72 hours of receiving a referral, compliance coaching for Medicare requirements, oxygen and nebulizer equipment, and ongoing supply replacement. A team with an average tenure of eight years handles insurance verification, billing, and patient education from the Suite 210 location on South 48th Street.
 
-Fairway Medical serves individual patients, referring physicians, and Medicare beneficiaries throughout Tempe, Phoenix, Mesa, Chandler, Gilbert, Scottsdale, and surrounding communities. It accepts Medicare and most major commercial insurance plans, including Aetna, BlueCross BlueShield, UnitedHealthcare, Cigna, and others, handling all claims and paperwork directly. The company's focus is on obstructive sleep apnea treatment, CPAP therapy, and respiratory care for home healthcare settings.
+Fairway Medical serves patients across the East Valley and wider Phoenix metro, including Mesa, Chandler, Gilbert, Scottsdale, and surrounding communities. It accepts Medicare and is in-network with major carriers such as Aetna, BlueCross BlueShield, UnitedHealthcare, Cigna, and others. Referrals come from physicians and patients directly seeking CPAP therapy for obstructive sleep apnea.
 
-Fairway Medical differentiates itself through direct, personal support—no phone trees—and insurance verification before any setup to eliminate cost surprises. Its locally owned, women-led structure emphasizes community trust, reflected in a 4.9-star Google rating from over 300 reviews. The practice was started to make sleep apnea therapy accessible and effective with a level of personal care that national chains cannot match.
+The founders positioned the business as a local alternative to national chains, emphasizing direct phone access without automated menus and upfront insurance benefit checks to avoid surprise costs. Their stated mission centers on accessible, effective sleep apnea solutions delivered with personalized care.
 
 ## Known for
 - CPAP machine setup within 72 hours of referral
-- Mask fitting with 50+ in-stock options
-- Compliance coaching for Medicare requirements
-- Direct phone support with no phone trees
-- Insurance verification and benefit check before setup
+- 50+ mask options stocked for in-office fittings
+- Medicare compliance coaching for continued coverage
+- Direct phone support with no automated menus
+- Insurance verification before setup to clarify out-of-pocket costs
 
 ## Capabilities
 - CPAP machine setup
 - CPAP mask fitting
 - CPAP compliance coaching
-- CPAP equipment education and support
-- Ongoing CPAP supply replacement
-- Oxygen equipment provision
-- Nebulizer provision
-- Respiratory care services
 - Insurance verification and billing
-- Medicare-approved services
+- Oxygen equipment supply
+- Nebulizer supply
+- Respiratory care services
+- CPAP supply replacement
+- Patient education and support
+- APAP machine supply
+- BiPAP machine supply
 
 ## Industries
 - Sleep apnea treatment
-- Obstructive sleep apnea therapy
-- CPAP therapy
-- Respiratory care
-- Home medical equipment
-- Medicare services
-
-## Equipment
-- CPAP machines
-- APAP machines
-- BiPAP machines
-- CPAP supplies
-- Oxygen equipment
-- Nebulizers
+- Durable medical equipment supply
+- Home healthcare
+- Respiratory therapy
 
 ## Company details
-- **Company Type:** Installer / service company
+- **Company Type:** Distributor / reseller
 - **Founded:** 2010
 - **Ownership:** Women-owned, Small business
 - **Headquarters:** Tempe, Arizona
 
 <details><summary>Sources</summary>
 
-- Founded 2010 -> home page
-- Located in Tempe, AZ -> home page
-- Women-owned small business -> about-us page
-- Founders Lisa and Craig -> about-us page
-- CPAP setup within 72 hours -> home page
-- Mask fitting 50+ options -> home page
-- Compliance coaching -> home page
-- Serves Phoenix metro area cities -> home page
-- Accepts Medicare and commercial insurance -> about-us page
-- Direct phone support -> home page
-- Insurance verification before setup -> home page
-- 4.9-star rating -> home page
-- Oxygen equipment and nebulizers -> home page
-- Respiratory care services -> home page
-- Staff average tenure 8 years -> about-us page
+- Founded 2010 -> / (home page) and /about-us
+- Headquarters Tempe, Arizona -> / (home page) and /about-us
+- Women-owned small business -> /about-us
+- Founders Lisa and Craig -> /about-us
+- CPAP/APAP/BiPAP machines supplied -> / (home page FAQ)
+- 50+ mask options for fittings -> / (home page)
+- 72-hour setup after referral -> / (home page)
+- Medicare compliance coaching -> / (home page)
+- Insurance verification before setup -> / (home page)
+- Direct phone support, no phone trees -> / (home page)
+- Service area cities listed -> /about-us
+- Accepted insurance carriers listed -> /about-us
+- Average staff tenure 8 years -> /about-us
+- Oxygen equipment and nebulizers -> / (home page) and /about-us
 </details>
 
 ---
@@ -493,20 +477,20 @@ Fairway Medical differentiates itself through direct, personal support—no phon
 **Old description:** Falcon Plastics combines five decades of U.S.-based precision molding expertise with strategic manufacturing in Mexico and Asia to support complex, evolving supply chains. From custom components to value-added assembly and full program support, our multi-facility model gives customers flexibility without sacrificing control, quality, or partnership.
 
 ## About
-Falcon Plastics was founded in 1975 in Brookings, South Dakota, as a family-owned operation molding customer ideas into plastic products. Over nearly five decades, the company has grown from its Midwestern roots into a multi-facility contract molder with plants in South Dakota, Oregon, and Tennessee, supplemented by strategic manufacturing partnerships in Mexico and Asia.
+Falcon Plastics was founded in 1975 in Brookings, South Dakota, as a family-owned custom plastics molder. From its start molding customer ideas into quality plastic products, the company has grown into a multi-facility operation with plants in South Dakota, Oregon, and Tennessee, supplemented by strategic manufacturing partnerships in Mexico and Asia.
 
-The company specializes in mid-to-high volume custom injection molding, blow molding, tool and mold making, sheet foaming (EVA), and foam-in-place gasketing. Its facilities employ smart work cells equipped with process monitoring, automated in-line quality testing, and robotic part acceptance/rejection systems, all governed by lean manufacturing principles. Dedicated white rooms with HEPA filtration support cleanroom molding requirements, while value-added assembly and full program management extend services beyond the press.
+The company specializes in mid-to-high volume custom injection molding, blow molding, tool and mold making, sheet foaming (EVA), and foam-in-place gasketing. Its facilities include temperature-controlled white rooms with HEPA filtration for clean molding, and smart work cells equipped with process monitoring, automated in-line quality testing, and robotic acceptance or rejection systems. Value-added assembly and lean manufacturing principles support cost-effective volume production.
 
-Falcon serves medical device, electronics, consumer product, and automotive OEMs, along with customers in consumer health aids, business machines, construction, and recreation/sports. The firm produces precision components that meet strict regulatory standards for medical applications, durable housings for electronics, and high-performance parts for automotive systems.
+Falcon serves medical device, electronics, consumer product, automotive, business machine, construction, and recreation/sports markets. Customers rely on the molder for precision components that meet strict regulatory standards in medical applications, durable housings for electronics, and high-performance parts for automotive and industrial uses.
 
-The company emphasizes a multi-facility model that provides supply-chain flexibility without sacrificing control or quality. Its stated differentiators include cycle-time reduction, material optimization, competitive pricing, and an ISO 9001:2015 certified quality system driven by continuous improvement and on-time delivery. The family-owned legacy underscores a culture of long-term partnership and customer satisfaction.
+The company emphasizes a multi-facility model that provides supply-chain flexibility without sacrificing control or quality. Its stated differentiators include reducing cycle times, optimizing material usage, and maintaining an ISO 9001:2015 certified quality system across all sites, driven by a culture of continuous improvement and on-time delivery.
 
 ## Known for
-- Multi-facility model with U.S., Mexico, and Asia manufacturing locations
+- Multi-facility model with U.S., Mexico, and Asia production
+- White rooms with HEPA filtration for clean molding
 - Smart work cells with process monitoring and automated in-line quality testing
-- White rooms with HEPA filtration for cleanroom molding
-- ISO 9001:2015 certified quality management system
-- Family-owned with five decades of U.S.-based precision molding expertise
+- Lean manufacturing principles applied to injection molding
+- ISO 9001:2015 certified quality system across all facilities
 
 ## Capabilities
 - Custom injection molding
@@ -515,31 +499,27 @@ The company emphasizes a multi-facility model that provides supply-chain flexibi
 - Sheet foaming (EVA)
 - Foam-in-place gasketing
 - Value-added assembly
-- Full program management
-- Process monitoring
+- Quality assurance
+- Clean room molding (white rooms)
 - Automated in-line quality testing
 - Robotic part acceptance/rejection
+- Process monitoring
 - Lean manufacturing
-- Cleanroom molding (white rooms with HEPA filtration)
-- Quality assurance (ISO 9001:2015)
-- Supply chain management (multi-facility)
 
 ## Industries
 - Medical Devices
 - Electronics
 - Consumer Products
 - Automotive
-- Consumer Health Aids
 - Business Machines
 - Construction
 - Recreation/Sports
 
 ## Equipment
-- Smart work cells with process monitoring systems
-- Automated in-line quality testing systems
-- Robotic acceptance/rejection systems
 - HEPA air filtration systems
-- Precision molds
+- Robotic acceptance/rejection systems
+- Process monitoring systems
+- Automated in-line quality test systems
 
 ## Certifications
 - ISO 9001:2015
@@ -552,21 +532,20 @@ The company emphasizes a multi-facility model that provides supply-chain flexibi
 
 <details><summary>Sources</summary>
 
-- Founded 1975 in Brookings, SD -> /about
-- Family-owned -> / (homepage)
+- Founded in 1975 -> /about
+- Family-owned -> /
+- Headquarters in Brookings, South Dakota -> db
 - Facilities in South Dakota, Oregon, Tennessee -> /quality
-- Strategic manufacturing in Mexico and Asia -> / (homepage)
-- Mid-to-high volume custom plastic molder -> /about
-- Capabilities: injection molding, blow molding, tool and mold making, sheet foaming EVA, foam-in-place gasketing -> / (homepage), /capabilities
-- Smart work cells, process monitoring, automated in-line quality testing, robotic acceptance/rejection -> / (homepage)
-- White rooms with HEPA filtration -> /capabilities
 - ISO 9001:2015 certified -> /quality
-- Industries: Medical Devices, Electronics, Consumer Products, Automotive -> / (homepage)
-- Additional industries: consumer health aids, business machines, construction, recreation/sports -> /capabilities
-- Value-added assembly and full program support -> / (homepage)
-- Lean manufacturing principles -> / (homepage)
-- Commitment to cycle time reduction, material optimization, competitive pricing -> / (homepage)
-- Quality policy: continuous improvement, on-time delivery -> /about, /quality
+- Capabilities: injection molding, blow molding, tool and mold making, sheet foaming EVA, foam-in-place gasketing -> /
+- Industries: medical devices, electronics, consumer products, automotive, business machines, construction, recreation/sports -> /, /capabilities
+- White rooms with HEPA filtration -> /capabilities
+- Smart work cells with process monitoring and automated in-line quality tests -> /
+- Robotic acceptance/rejection systems -> /
+- Lean manufacturing principles -> /
+- Multi-facility model with Mexico and Asia -> /
+- Mid-to-high volume -> /about
+- Quality policy continuous improvement -> /quality
 </details>
 
 ---
@@ -576,67 +555,58 @@ The company emphasizes a multi-facility model that provides supply-chain flexibi
 **Old description:** Falls Millwork has been serving Central Iowa since 1990, we specialize in producing one-of-a-kind interiors, exteriors and heirloom pieces. Regardless of whether you need a full interior re-design or a single furnishing, we will work with you to customize details, space, and style to fit your specific need and aesthetic.
 
 ## About
-Falls Millwork operates from Kelley, Iowa, a small community in the central part of the state. The company has been serving the region since 1990, building a reputation for custom woodworking and architectural millwork. Master craftsman Ben Svec leads the shop, bringing more than 40 years of hands-on experience in design and fabrication to every project.
+Falls Millwork has operated from Kelley, Iowa, since 1990. The business was built around master craftsman Ben Svec, who brought more than 40 years of woodworking experience to the venture. Svec established the shop to serve Central Iowa with custom architectural millwork and heirloom-quality furniture.
 
-The shop produces a wide range of custom wood products, including architectural millwork, heirloom furniture, reproduction moldings, custom entry doors, specialty windows, and liturgical furniture. Capabilities extend to cabinetry, built-ins, staircases, fireplace mantels, and commercial interior and exterior packages. The team also offers vac-forming for curved frame and pergola components, hardware systems, and shop production with trial assembly to ensure fit before installation.
+The company produces a wide range of custom wood products, including cabinetry, reproduction moldings, entry doors, specialty windows, staircases, built-ins, fireplace mantels, and liturgical furniture. Its shop handles vacuum-formed curved components, hardware integration, and trial assembly before installation. Projects span full interior remodels to single furnishing pieces.
 
-Falls Millwork serves residential homeowners, commercial contractors, and religious institutions across Central Iowa. Past projects include custom kitchen and bathroom cabinetry for private homes, complete interior packages for commercial offices, and liturgical furnishings such as altars and pews for churches. The company also reproduces vintage moldings and trim for historic restoration work.
+Customers include homeowners seeking custom interiors for kitchens, bathrooms, and bedrooms; commercial clients needing architectural millwork for public spaces; and religious institutions commissioning liturgical furniture. The firm has reproduced vintage moldings for historic restorations and fabricated curved pergola components for exterior projects.
 
-The firm emphasizes a full-service approach from design through installation, with a focus on value and professionalism. Svec’s background in the broader building process allows the shop to coordinate with other trades, and the crew aims to leave each job site clean at the end of each day. Quality is described as never compromised, with pieces built to last a lifetime.
+Falls Millwork emphasizes value through decades of experience, promising that quality is never compromised and every job is built to last a lifetime. The team highlights its expertise across the entire building process, from design to installation, and a practice of leaving job sites spotless each day.
 
 ## Known for
-- Full-service design-to-installation workflow
-- Master craftsman with 40+ years experience
-- Quality guaranteed with lifetime durability
-- Job-site cleanliness maintained daily
-- Serving Central Iowa since 1990
+- Serving Central Iowa continuously since 1990
+- Master craftsman Ben Svec with 40+ years of woodworking experience
+- Full-service capability from design through installation
+- Quality guarantee: every job built to last a lifetime
+- Daily job-site cleanup as standard practice
 
 ## Capabilities
-- Custom woodworking
-- Architectural millwork
-- Heirloom furniture
-- Reproduction moldings
-- Custom entry doors
-- Specialty windows
-- Liturgical furniture
-- Vintage reproductions
+- Custom Woodworking
 - Cabinetry
-- Built-ins
-- Staircases
-- Fireplace mantels
-- Commercial interiors and exteriors
-- Vac-forming curved components
-- Hardware systems
-- Shop production trial assembly
-- Custom moldings
-- Door and window casing
-- Baseboard
-- Display cabinets
-- Entertainment centers
-- Specialty lighting
-- Exterior trim
-- Specialty projects
+- Architectural Millwork
+- Heirloom Furniture
+- Reproduction Moldings
+- Custom Entry Doors
+- Specialty Windows
+- Liturgical Furniture
+- Vintage Reproductions
+- Staircase Construction
+- Built-in Furniture
+- Fireplace Mantel Construction
+- Vacuum Forming
+- Hardware Integration
+- Trial Assembly
 
 ## Industries
 - Residential
 - Commercial
-- Liturgical
+- Religious
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Founded:** 1990
 - **Headquarters:** Kelley, Iowa
 
 <details><summary>Sources</summary>
 
-- Location: Kelley, Iowa -> db
-- Founded 1990 -> /
-- Master craftsman Ben Svec with 40+ years experience -> /about-us
-- Services: custom woodworking, architectural millwork, heirloom furniture, reproduction moldings, custom entry doors, specialty windows, liturgical furniture, vintage reproductions, cabinetry, built-ins, staircases, fireplaces, commercial spaces -> /services
-- Processes: vac-forming curved components, hardware systems, shop production trial assembly -> /products
-- Industries: residential, commercial, liturgical -> /services
-- Materials: wood, stone, tile -> /
-- Differentiators: full-service design to installation, quality never compromised, job site left spotless -> /services
+- Founded in 1990 -> /
+- Located in Kelley, Iowa -> db
+- Master craftsman Ben Svec with over 40 years experience -> /about-us
+- Services: custom woodworking, cabinetry, architectural millwork, heirloom furniture, reproduction moldings, custom entry doors, specialty windows, liturgical furniture, vintage reproductions -> /, /services
+- Industries served: residential, commercial, liturgical -> /, /services
+- Differentiators: exceptional value, professionalism, extensive services -> /services
+- Capabilities: vac-forming, hardware system, shop production trial assembly -> db (products)
+- Company type: manufacturer of custom wood products -> /about-us
 </details>
 
 ---

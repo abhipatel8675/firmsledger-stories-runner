@@ -3,20 +3,19 @@
 **Old description:** From custom fabrication to complex architectural components, every piece we create is built to perform, built to last, and built with you in mind.
 
 ## About
-Founded in 1956 in Vineland, New Jersey, Dutra Sheet Metal Co. is a family-owned and operated metal fabrication shop that has served contractors, municipalities, and industrial clients across southern and central New Jersey for decades.
+Dutra Sheet Metal Co. has operated from Vineland, New Jersey since 1956. The company is family-owned and operated, though the founders are not named in available sources.
 
-The company provides full-service sheet metal fabrication, including custom ductwork, insulated and welded duct systems, transitions, fittings, flashing, architectural panels, countertops, conveyor tops, roof curbs, downspouts, scupper boxes, and custom electrical housings. In-house capabilities cover MIG, TIG, and spot welding; plasma cutting; bending, folding, and forming; rolling and curving; shearing and notching. It maintains a stock of galvanized coil, flat sheets in aluminum, galvanized, galvanneal, steel and aluminum diamond plate, and copper, supporting both one-off prototypes and high-volume production runs.
+The shop provides full-service sheet metal fabrication for commercial, industrial, and municipal projects. Capabilities include custom ductwork, insulated and welded duct systems, transitions, flashing, architectural panels, countertops, conveyor tops, roof curbs, downspouts, scupper boxes, and electrical housings. In-house processes cover MIG, TIG, and spot welding; plasma cutting; bending, folding, and forming; rolling and curving; shearing and notching. The company stocks galvanized coil in multiple gauges and 4-by-10-foot sheets of aluminum, galvanized, galvanneal, steel diamond plate, aluminum diamond plate, and copper. It handles both one-off prototypes and high-volume production runs.
 
-Dutra Sheet Metal works primarily with commercial contractors, municipal agencies, and industrial firms in the region, delivering precision components for building systems, infrastructure, and equipment.
+Dutra serves contractors, municipalities, and industrial clients across southern and central New Jersey. Its customer base spans commercial construction, industrial manufacturing, and municipal government projects.
 
-The firm emphasizes its American-made, family-owned heritage and a "concept-to-completion" approach, positioning itself as a partner that builds solutions to power businesses, cities, and innovation rather than simply fabricating parts.
+The company emphasizes its American-made, family-owned heritage and a commitment to precision craftsmanship and uncompromising quality on every project.
 
 ## Known for
-- American-made, family-owned since 1956
-- Full in-house metal forming and production services
-- Stocked raw material inventory including galvanized, aluminum, copper, and diamond plate
-- Precision fabrication from one-off to high-volume runs
-- Concept-to-completion project support
+- American-made, family-owned operation since 1956
+- Full-service sheet metal fabrication with in-house forming and production
+- Stocks a full inventory of raw materials including galvanized coil and multiple sheet metals
+- Handles both one-off prototypes and high-volume production runs
 
 ## Capabilities
 - Custom sheet metal fabrication
@@ -24,10 +23,11 @@ The firm emphasizes its American-made, family-owned heritage and a "concept-to-c
 - Insulated and welded duct systems
 - Custom duct transitions and fittings
 - Commercial and industrial flashing
-- Architectural panels
-- Countertops, conveyor tops, work surfaces
-- Roof curbs, downspouts, scupper boxes
+- Architectural panels, pans, and channels
+- Countertops, conveyor tops, and work surfaces
+- Roof curbs, downspouts, and scupper boxes
 - Junction boxes and custom electrical housings
+- In-house metal forming and production services
 - MIG welding
 - TIG welding
 - Spot welding
@@ -35,28 +35,31 @@ The firm emphasizes its American-made, family-owned heritage and a "concept-to-c
 - Bending, folding, and forming
 - Rolling and curving
 - Shearing and notching
-- Precision fabrication (one-off and high-volume)
+- Precision fabrication for one-off and high-volume production
 
 ## Industries
-- Commercial
-- Industrial
-- Municipal
+- Commercial construction
+- Industrial manufacturing
+- Municipal government
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1956
 - **Ownership:** Family-owned
 - **Headquarters:** Vineland, New Jersey
 
 <details><summary>Sources</summary>
 
-- Founded 1956, family-owned, Vineland NJ -> db and /
-- Services list (fabrication, ductwork, welding, cutting, forming) -> /services
-- Materials inventory (galvanized, aluminum, galvanneal, diamond plate, copper) -> /services
-- Industries served: commercial, industrial, municipal -> / and /services
-- Differentiators: American-made, family-owned, full inventory, concept-to-completion -> / and /services
-- Capabilities: MIG/TIG/spot welding, plasma cutting, bending, rolling, shearing -> /services
-- Company type: manufacturer (full-service sheet metal fabrication) -> /services
+- Founded 1956 -> db
+- Family-owned and operated since 1956 -> /
+- Headquarters in Vineland, New Jersey -> db
+- Full-service sheet metal fabrication for commercial, industrial, and municipal projects -> /services
+- Capabilities: custom ductwork, insulated/welded duct systems, transitions, flashing, architectural panels, countertops, conveyor tops, roof curbs, downspouts, scupper boxes, junction boxes, electrical housings -> /services
+- Processes: MIG, TIG, spot welding; plasma cutting; bending, folding, forming; rolling, curving; shearing, notching -> /services
+- Materials inventory: galvanized coil, aluminum, galvanized, galvanneal, steel diamond plate, aluminum diamond plate, copper sheets -> /services
+- Production range: one-off to high-volume -> /services
+- Serves contractors, municipalities, and industries across southern and central New Jersey -> /
+- Differentiators: American-made, family-owned, precision craftsmanship, uncompromising quality -> /
 </details>
 
 ---
@@ -66,60 +69,56 @@ The firm emphasizes its American-made, family-owned heritage and a "concept-to-c
 **Old description:** Committed to providing the service you need, the quality you expect, and the delivery you demand.
 
 ## About
-Dyna Tool & Mold began in 1989 when Randy Damratowski and Darren Yendra each invested $5,000 and borrowed $25,000 to open a shop in Grand Island, Nebraska. Armed with a manual mill, saw, manual lathe, and surface grinder, they started building molds and machining parts. The company relocated to Kearney in 1995, constructing a 7,250-square-foot facility, and added a 4,500-square-foot expansion in 2006. In October 2019, Iowa Mold & Engineering of Belle Plaine, Iowa, acquired the business, citing the skilled workforce and diverse customer base.
+Dyna Tool & Mold, Inc. operates from Kearney, Nebraska. The company traces its roots to 1989 when Randy Damratowski and Darren Yendra each invested $5,000 and borrowed $25,000 to open a shop in Grand Island with a manual mill, saw, lathe, and surface grinder. In 1995 the business relocated to Kearney and built a 7,250‑square‑foot facility, which was expanded by 4,500 square feet in 2006. After Damratowski’s passing, the company was acquired in October 2019 by Iowa Mold & Engineering of Belle Plaine, Iowa, under president Brad Cook.
 
-The company’s core business is designing and building plastic injection molds, including single-cavity, multi-cavity, multi-core-pull, hot-runner, automatic-unscrewing, and large molds for presses up to 1,500 tons. Beyond moldmaking, Dyna Tool & Mold offers custom precision machining, wire EDM, gun drilling, tool and die work, prototyping, and a full mold repair and maintenance service.
+The shop specializes in designing and building plastic injection molds, including single‑cavity, multi‑cavity, multi‑core‑pull, hot‑runner, automatic unscrewing, and large molds suited for presses up to 1,500 tons. Beyond moldmaking, it offers custom precision machining, wire EDM, gun drilling, tool and die work, prototyping, and full mold repair and maintenance.
 
-Dyna Tool & Mold serves manufacturers across the Midwest, with a customer base described as diverse but not broken out by sector in public materials. The acquisition by Iowa Mold & Engineering was intended to broaden the combined companies’ reach and efficiency within the tooling and molding industry.
+Dyna Tool & Mold serves manufacturers throughout the Midwest. The source material does not specify particular industries or name individual customers.
 
-The firm emphasizes quality work at a fair price, on-schedule delivery, and single-source project management from initial development through final production. After the acquisition, leadership highlighted the retention of the existing skilled workforce as a key competitive advantage.
+The founders started with “two men, $5,000, and a dream.” The company says it differentiates itself through quality work at a fair price, strong customer‑service relationships, on‑time delivery, and a staff that manages projects from initial development through final delivery while keeping the client informed.
 
 ## Known for
 - Quality work at a fair price
-- On-schedule delivery
-- Single-source project management from development to completion
-- Skilled workforce retained after acquisition
+- Strong customer service and communication throughout projects
+- On-time delivery commitment
+- Full project management from design to completion
 
 ## Capabilities
 - Plastic injection mold design and build
-- Custom precision machining
-- Custom wire EDM
-- Custom gun drilling
-- Tool and die making
-- Prototyping
-- Mold repair and maintenance
 - Single cavity molds
 - Multi cavity molds
 - Multi core pulls
 - Hot runner molds
 - Automatic unscrewing molds
-- Large molds up to 1500 ton
-
-## Equipment
-- Manual mill
-- Saw
-- Manual lathe
-- Surface grinder
+- Large molds (up to 1500 ton press capacity)
+- Custom precision machining
+- Wire EDM
+- Gun drilling
+- Tool and die
+- Prototyping
+- Mold repair and maintenance
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1989
-- **Ownership:** Acquired by Iowa Mold & Engineering (2019)
+- **Ownership:** Owned by Iowa Mold & Engineering since 2019
 - **Headquarters:** Kearney, Nebraska
 
 <details><summary>Sources</summary>
 
 - Founded in 1989 by Randy Damratowski and Darren Yendra -> /about
-- Initial equipment: manual mill, saw, manual lathe, surface grinder -> /about
+- Started in Grand Island with manual mill, saw, lathe, surface grinder -> /about
 - Relocated to Kearney in 1995, built 7,250 sq ft facility -> /about
-- Expanded with 4,500 sq ft addition in 2006 -> /about
+- Expanded in 2006 with 4,500 sq ft addition -> /about
 - Acquired by Iowa Mold & Engineering in October 2019 -> /about
-- Core product: designing and building plastic injection molds -> /services
-- Capabilities: custom precision machining, wire EDM, gun drilling, tool & die, prototyping, mold repair/maintenance -> /services
+- Main product: designing and building plastic injection molds -> /services
+- Offers custom precision machining, wire EDM, gun drilling, tool & die, prototyping, repair and maintenance -> /services
 - Mold types: single cavity, multi cavity, multi core pulls, hot runner, automatic unscrewing, large molds up to 1500 ton -> /services
-- Facility size ~11,750 sq ft total -> /about
-- Company emphasizes quality work at fair price, on-schedule delivery, single-source project management -> /about
-- Skilled workforce retained after acquisition -> /about
+- Prides on quality work at fair price, good customer service, on-time delivery -> /about
+- Staff qualified to take project from first stage to end result, keeping customer informed -> /about
+- Headquarters: Kearney, Nebraska -> db
+- Founded year 1989 -> /about
+- Ownership: Iowa Mold & Engineering -> /about
 </details>
 
 ---
@@ -129,35 +128,37 @@ The firm emphasizes quality work at a fair price, on-schedule delivery, and sing
 **Old description:** At E-J Industries, we’ve been building custom booths, fixed seating, millwork and more since 1942.
 
 ## About
-E-J Industries has operated from Chicago, Illinois since 1942. The company began as a family enterprise and remains under the stewardship of third-generation owner Keith Weitzman, who learned the trade from his father Leonard on the factory floor. Weitzman's son Jason is now positioned to continue the lineage, making the business a rare three-generation manufacturer in the contract furniture space.
+E-J Industries Inc. was founded in 1942 in Chicago, Illinois, as a family-owned business. Leonard Weitzman started the company building custom booths and fixed seating. His son Keith Weitzman grew up in the factory and later took over, and now Keith's son Jason is positioned to continue the legacy.
 
-The 150,000-square-foot facility houses engineers, carpenters, and upholstery specialists who produce custom banquette seating, architectural millwork, and upholstered pieces from initial sketch through installation. All upholstery is performed in-house, including a reupholstery service that picks up, repairs, and returns items overnight. The shop also tackles one-off showcase projects such as a 30-foot wooden guitar or a bar wall built from whiskey barrels.
+The company operates a 150,000-square-foot facility a few miles from downtown Chicago, housing engineers, carpenters, and office staff. It specializes in banquette seating, millwork, and upholstery, handling projects from design and drafting through fabrication and installation. All work is performed in-house, including reupholstery services.
 
-The firm's client base centers on the restaurant and hospitality sectors, supplying high-end restaurants, hotels, and other commercial interiors with seating and millwork tailored to each venue's layout and brand. Projects range from standard booth runs to fully bespoke architectural elements for luxury environments.
+E-J Industries serves the restaurant and hospitality industries, producing custom seating, millwork, and specialty pieces for high-end environments. Notable projects have included a 30-foot wooden guitar and a bar wall constructed from whiskey barrels, illustrating the shop's capacity for one-of-a-kind commissions.
 
-E-J Industries emphasizes early collaboration, positioning itself as a partner that reviews designs for manufacturability and suggests improvements before production begins. The company cites its hand-drawn, hand-made, hand-delivered approach and the continuity of family leadership as the foundation of its consistency and quality.
+The firm emphasizes collaborative consultation from the first sketch, positioning itself as a one-stop shop that works with clients rather than simply for them. Its differentiators include multi-generational family leadership, in-house upholstery, and a commitment to handcrafted quality across every custom project.
 
 ## Known for
-- In-house upholstery and reupholstery with overnight pickup and return
-- Hand-drawn, hand-made, hand-delivered millwork process
+- Family-owned and operated since 1942
 - 150,000 sq ft one-stop shop facility near downtown Chicago
-- Three-generation family ownership with hands-on leadership
-- Custom banquette seating built to design specs with no catalog
+- In-house upholstery and reupholstery with pickup and return service
+- Custom millwork from drafting through installation
+- Collaborative design consultation from initial concept
 
 ## Capabilities
 - Banquette seating
-- Architectural millwork
+- Millwork
 - Upholstery
 - Reupholstery
+- Specialty fabrication
 - Design consultation
-- Custom fabrication
-- Showcase specialty projects
-- Installation services
+- Drafting and engineering
+- Project management
+- Installation
 
 ## Industries
 - Restaurant
 - Hospitality
 - Hotel
+- High-end commercial interiors
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -167,16 +168,18 @@ E-J Industries emphasizes early collaboration, positioning itself as a partner t
 
 <details><summary>Sources</summary>
 
-- Founded in 1942 -> /
-- Headquarters in Chicago, Illinois -> /
-- Family-owned, three-generation leadership (Keith Weitzman, Leonard, Jason) -> /about
-- 150,000 sq ft facility with engineers, carpenters, office staff -> /about
-- Custom banquette seating, millwork, upholstery, reupholstery -> /capabilities
-- Serves restaurant and hospitality industries -> /
-- In-house upholstery with overnight reupholstery service -> /capabilities
-- Hand-drawn, hand-made, hand-delivered millwork -> /capabilities
-- No catalog, custom to design specs -> /capabilities
-- Showcase specialty projects (e.g., 30-foot wooden guitar) -> /capabilities
+- Founded in 1942 -> db
+- Headquarters in Chicago, Illinois -> db
+- Family-owned business -> /about
+- Owner Keith Weitzman, second generation; son Jason third generation -> /about
+- 150,000 sq ft facility -> /about
+- Team of engineers, carpenters, office staff -> /about
+- Capabilities: banquette seating, millwork, upholstery, showcase -> /capabilities
+- Industries: restaurant and hospitality -> /about, /capabilities
+- Showcase projects: 30-foot wooden guitar, bar wall from whiskey barrels -> /capabilities
+- Collaborative consultation from first sketch -> /capabilities
+- In-house upholstery and reupholstery with pickup service -> /capabilities
+- Custom millwork from drafting to installation -> /capabilities
 </details>
 
 ---
@@ -186,45 +189,48 @@ E-J Industries emphasizes early collaboration, positioning itself as a partner t
 **Old description:** EBI, LLC in Danville VA is a manufacturer of upholstered furniture and mattresses. We have the equipment and technologies to produce specifically to your needs. If you feel that EBI, LLC is right for you please use the “Contact” tab to reach out to us. We look forward to partnering with you!
 
 ## About
-EBI, LLC operates from a facility on Kentuck Road in Danville, Virginia. The company manufactures upholstered furniture and mattresses and is backed by a European manufacturing group, though its founding year and original founders are not publicly disclosed.
+EBI, LLC operates from Danville, Virginia, where it runs a manufacturing facility for upholstered furniture and mattresses. The company is backed by a European manufacturing group, though its founding year and original founders are not publicly disclosed.
 
-Its production capabilities center on mattress manufacturing and upholstered products, supported by product and process development services. The operation runs structured manufacturing processes that include product and production planning, in-process quality controls, and final inspection before shipment. No facility size, headcount, or annual volume figures are published.
+The company specializes in mattress manufacturing and upholstered products, offering production capabilities designed for consistent, repeatable output. Its services extend to product and process support, including collaboration on layouts, manufacturing methods, and process improvement to move concepts toward production. EBI emphasizes flexible production, rigorous quality control, and structured manufacturing processes with in-process quality checks and final inspection.
 
-EBI serves customers requiring custom upholstered furniture and mattress programs, working to client-specific requirements. The company does not list specific industry sectors or named clients in its public materials.
+EBI serves customers seeking contract manufacturing for upholstered furniture and mattress programs, though specific industries or client names are not disclosed. The company positions itself as a partner for businesses needing scalable production from product development through final shipment.
 
-The company emphasizes a quality culture built on accountability, standardized work, and continuous improvement, with safety, trust, respect, honesty, and sustainability as stated values. It positions itself as a partner offering flexible production, rigorous quality control, and the backing of an international manufacturing group for scalable programs.
+EBI differentiates itself through a combination of modern production technology, disciplined quality systems, and an experienced workforce. Its quality philosophy centers on accountability, standardized work, and continuous improvement, with values that include safety, trust, respect, honesty, and sustainability. The company highlights its U.S.-based manufacturing in Danville supported by international experience from its European parent group.
 
 ## Known for
-- Flexible production with rigorous quality control
+- U.S. manufacturing facility in Danville, Virginia
 - Backed by a European manufacturing group
-- Structured in-process quality controls and final inspection
-- Product and process development support from concept to shipment
+- Structured quality controls throughout production
+- Flexible production with in-process quality checks
+- Product and process support from concept to production
 
 ## Capabilities
 - Mattress manufacturing
 - Upholstered products manufacturing
-- Product and process development support
-- Production planning
+- Product and process support
+- Product and production planning
 - Structured manufacturing processes
-- In-process quality control
-- Final inspection and shipping
-
-## Industries
-- Furniture
-- Bedding
+- In-process quality controls
+- Final inspection and shipment
 
 ## Company details
 - **Company Type:** Manufacturer
-- **Ownership:** Backed by a European manufacturing group
 - **Headquarters:** Danville, Virginia
 
 <details><summary>Sources</summary>
 
-- Location: Danville, Virginia -> page /
+- Location: Danville, Virginia -> db
 - Manufacturer of upholstered furniture and mattresses -> db
 - Backed by a European manufacturing group -> page /
-- Capabilities: Mattress Manufacturing, Upholstered Products, Product & Process Support -> page /
+- Mattress manufacturing capability -> page /
+- Upholstered products manufacturing -> page /
+- Product and process support -> page /
+- Structured quality controls -> page /
 - Quality philosophy: accountability, standardized work, continuous improvement -> page /
+- Values: safety, trust, respect, honesty, sustainability -> page /
+- U.S. manufacturing in Danville, Virginia -> page /
+- Flexible production, rigorous quality control -> page /
+- International manufacturing team -> page /
 - Address: 745 Kentuck Road, Danville, VA 24540 -> page /
 - Phone: 434-797-9701 -> page /
 - Email: ebi-hr@ebillc.com -> page /
@@ -237,41 +243,50 @@ The company emphasizes a quality culture built on accountability, standardized w
 **Old description:** We have been installing solar panel systems since 2008 and have earned a reputation as Iowa’s Premier Solar Provider™.
 
 ## About
-ECG Solar is based in Anamosa, Iowa, just outside Cedar Rapids, and has been installing solar panel systems since 2008. The company operates as a solar installation and energy services provider serving customers throughout the state.
+ECG Solar is a solar installation company headquartered in Anamosa, Iowa, founded in 2008. The business operates from a location near Cedar Rapids and serves residential, commercial, and municipal clients across the state. Ownership details and founder names are not publicly disclosed.
 
-The firm delivers turnkey solar and energy storage solutions that include photovoltaic (PV) and AC-coupled PV panel systems, Enphase solar battery storage, Kohler standby generators, and EV chargers. Installations are performed by certified employees using what the company describes as state-of-the-art equipment, with services covering residential, commercial, and municipal projects across Iowa.
+The company provides turnkey renewable energy solutions including photovoltaic (PV) and AC-coupled PV (ACPV) system installation, Enphase battery storage integration, Kohler standby generator installation, and EV charger deployment. It carries Tier 1 solar panels and offers in-house design, permitting, and commissioning services. No facility size, headcount, or annual volume figures are published.
 
-ECG Solar works with homeowners, businesses, and public-sector clients. A noted municipal reference is the City of Maysville Fire Department, which appears among the company's project portfolio. The company also provides tax credit resources and energy efficiency consulting as part of its service offering.
+ECG Solar works with homeowners, businesses, and government entities such as the City of Maysville Fire Department. Its project portfolio spans residential rooftops, commercial facilities, and municipal buildings throughout Iowa. The firm also provides tax credit consulting and energy efficiency education to help customers navigate incentive programs.
 
-The company distinguishes itself as the only authorized and certified Kohler dealer and service provider in Eastern Iowa, and it emphasizes its use of Tier 1 photovoltaic panels and Enphase battery systems. Its positioning centers on cost-effective, turnkey delivery backed by a certified installation team and long-term workmanship warranties.
+The company differentiates itself as the only authorized and certified Kohler dealer and service provider in Eastern Iowa, and emphasizes NABCEP-certified installation staff. It promotes cost-effective, turnkey delivery using state-of-the-art equipment and a focus on customer education to tailor personalized energy solutions.
 
 ## Known for
-- Only authorized and certified Kohler dealer and service provider in Eastern Iowa
-- Installs Enphase solar battery storage systems
-- Turnkey solar and energy storage solutions with certified employees
-- Tier 1 photovoltaic and AC-coupled PV panel installations
+- Only authorized and certified Kohler dealer in Eastern Iowa
+- NABCEP-certified installation technicians
+- Turnkey solar, storage, EV charging, and generator solutions
+- Tier 1 PV panels and Enphase battery systems
+- In-house tax credit and incentive consulting
 
 ## Capabilities
-- Solar panel installation (PV and ACPV)
+- Solar PV system installation
+- ACPV system installation
 - Solar battery storage installation (Enphase)
-- Backup generator installation and service (Kohler)
 - EV charger installation
+- Backup generator installation (Kohler)
+- Energy storage system design
+- Turnkey project management
+- Tax credit and incentive consulting
+- System maintenance and service
+- Electrical contracting
+- Permitting and interconnection coordination
 - Energy efficiency consulting
-- Tax credit resource assistance
 
 ## Industries
 - Residential
 - Commercial
-- Municipal / Government
+- Government/Municipal
 
 ## Equipment
+- Enphase battery storage systems
 - Kohler standby generators
-- Enphase solar battery storage systems
 - Tier 1 photovoltaic panels
 - ACPV systems
+- ECG Solar EV chargers
 
 ## Certifications
-- Authorized Kohler dealer and service provider
+- NABCEP
+- Kohler Authorized Dealer
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -280,17 +295,16 @@ The company distinguishes itself as the only authorized and certified Kohler dea
 
 <details><summary>Sources</summary>
 
-- Founded 2008 -> db
-- Headquarters Anamosa, Iowa -> db
-- Solar installation company based outside Cedar Rapids -> /
-- Only authorized and certified Kohler dealer in Eastern Iowa -> /
-- Installs Enphase solar battery storage systems -> /
-- Offers Tier 1 PV panels and ACPV systems -> /
-- Provides EV chargers -> /
+- Founded in 2008 -> db
+- Headquartered in Anamosa, Iowa -> db
+- Solar installation company -> /
+- Only authorized Kohler dealer in Eastern Iowa -> /
+- Enphase battery storage systems -> /
+- Tier 1 PV panels and ACPV systems -> /
+- NABCEP-certified installers -> /
 - Turnkey solutions with certified employees -> /
-- Projects include City of Maysville Fire Department -> /
-- Services residential, commercial, municipal clients -> /
-- Offers tax credit resources -> /
+- Tax credit resources and energy efficiency education -> /
+- City of Maysville Fire Department project -> db
 </details>
 
 ---
@@ -300,35 +314,33 @@ The company distinguishes itself as the only authorized and certified Kohler dea
 **Old description:** is a family-owned business. All of our products are proudly made in the USA.
 
 ## About
-EKL Fashion Inc operates from Orlando, Florida, where it was founded in 2006 as a family-owned enterprise. The company began with a focus on serving the local community through sewing manufacturing and wholesale distribution, building a reputation for domestic production.
+EKL Fashion Inc operates from Orlando, Florida, where it was founded in 2006 as a family-owned enterprise. The company began with a mission to serve the local community as both a sewing manufacturer and a wholesale distributor, focusing on bringing fashion concepts to life through domestic production.
 
-The business provides end-to-end garment manufacturing, from design consultation to full-scale production, handling projects for clients ranging from individual designers to large organizations. With more than 500 completed projects and over 5,000 satisfied clients, the shop manages a diverse workload that includes uniforms, fashion lines, and custom sewn products.
+The business provides cut-and-sew manufacturing services, handling everything from initial design consultation to finished garment production. Its workshop has completed over 500 projects and serves more than 1,000 clients, producing items that range from custom uniforms to full fashion lines. No facility square footage or employee headcount is disclosed.
 
-Its customer base spans the apparel and uniform sectors, with notable accounts such as Universal Studios, which relies on EKL for staff uniforms, alongside emerging designers and established brands seeking U.S.-based manufacturing. The company emphasizes flexibility, accepting orders of varying sizes and complexity.
+Clients span a wide spectrum: major accounts such as Universal Studios rely on EKL for staff uniforms, while independent designers and established apparel brands use the company for reliable U.S.-based manufacturing. The firm serves the fashion, apparel, uniform, and entertainment industries.
 
-The founders positioned the company around a commitment to American-made goods and personalized service, offering design consultations to help clients translate concepts into finished goods. This mission to support local manufacturing remains central to its identity.
+The company emphasizes its family-owned structure and "proudly made in the USA" positioning as core differentiators, aiming to offer accessible, domestic manufacturing regardless of order size.
 
 ## Known for
-- Proudly made in the USA
 - Family-owned and operated
+- Proudly made in the USA
 - Sewing manufacturing and wholesale distribution
-- Serves businesses of all sizes
 - Design consultation services
+- Serves clients from startups to major brands like Universal Studios
 
 ## Capabilities
 - Sewing manufacturing
-- Garment design
+- Garment design and development
 - Wholesale distribution
-- Design consultation
 - Uniform production
-- Custom sewn products
-- Apparel manufacturing
+- Design consultation
 
 ## Industries
+- Fashion
 - Apparel
 - Uniforms
-- Fashion
-- Wholesale distribution
+- Entertainment
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -338,18 +350,15 @@ The founders positioned the company around a commitment to American-made goods a
 
 <details><summary>Sources</summary>
 
-- Founded 2006 -> db
-- Family-owned -> db, page
-- Headquarters Orlando, Florida -> db, page
-- Sewing manufacturing services -> page
-- Wholesale distributor -> page
-- 500+ projects completed -> page
-- 20+ years in business -> page
-- 5k+ satisfied clients -> page
-- Clients include Universal Studios -> page
-- Serves businesses of all sizes -> page
-- Design consultation offered -> page
-- Proudly made in USA -> page
+- Founded in 2006 -> db
+- Headquartered in Orlando, Florida -> db
+- Family-owned business -> page "/"
+- Sewing manufacturers and wholesale distributors -> page "/"
+- Over 500 projects completed -> page "/"
+- More than 1,000 clients served -> page "/"
+- Clients include Universal Studios -> page "/"
+- Offers design consultation services -> page "/"
+- Proudly made in the USA -> page "/"
 </details>
 
 ---
@@ -359,42 +368,46 @@ The founders positioned the company around a commitment to American-made goods a
 **Old description:** EME Company is a veteran-owned manufacturer of high-quality medical products—including infant care, medical pouches and ice bags—trusted by hospitals and healthcare providers around the world. Our American manufacturing operation ensures fast, cost-effective solutions delivered with integrity.
 
 ## About
-EME Company, Inc. operates from Prairieville, Louisiana, as a veteran-owned manufacturer of medical textiles and disposable products. The company’s ownership is veteran-owned, though the founding year and original founders are not disclosed in public materials. Leadership has been shaped by long-tenured executives such as CEO Cydney Severio, who joined in 1989 and assumed the top role in 2020.
+EME Company, Inc. operates from Prairieville, Louisiana, as a veteran-owned manufacturer of medical textiles and disposable healthcare products. The company's ownership structure is identified as veteran-owned, though a specific founding year and founder names are not disclosed in public materials. Leadership continuity is evident: CEO Cydney Severio joined the organization in November 1989 and assumed the top role in 2020, while Controller Melissa Thibodeaux has been with the company since February 1991.
 
-The company produces a comprehensive line of medical products including telemetry pouches, Holter pouches, fetal belts, infant care items (postpartum briefs, infant caps, secure belts), medical ice bags, and cardiology supplies. Manufacturing is vertically integrated and performed in-house at a state-of-the-art facility, with proprietary automated equipment for fetal belt and telemetry pouch assembly. Quality management follows ISO 9001:2015 standards, and the company emphasizes full control over production, packaging, and quality assurance.
+The company produces a range of single-use medical textiles including telemetry pouches, Holter pouches, fetal monitoring belts, infant care items such as postpartum briefs and caps, and medical ice bags for cold therapy. Manufacturing is carried out in a vertically integrated, state-of-the-art facility where proprietary automated equipment — notably an automated fetal belt machine and an automated telemetry pouch machine — handles key production steps. The operation also offers private labeling, packaging, and full quality management under ISO 9001:2015.
 
-EME serves hospitals, healthcare providers, medical device OEMs, distributors, and hospital networks across the United States and internationally. Customer testimonials reference Palo Pinto General Hospital and ACS Doctors as long-term clients, with relationships dating back to at least 2006.
+EME Company serves hospitals, hospital networks, distributors, and original equipment manufacturers across the United States and internationally. Customer references include Palo Pinto General Hospital and ACS Doctors, and the company notes its products are used in labor and delivery, ambulatory monitoring, EKG, cardiology, and general hospital settings.
 
-The company differentiates itself as the sole U.S. manufacturer of telemetry pouches, leveraging proprietary processes, veteran-owned status, and domestic production to offer private labeling, environmentally preferred purchasing, and a commitment to American manufacturing. Its stated mission centers on delivering high-quality, U.S.-made medical textiles that enhance patient comfort and support healthcare professionals.
+The company emphasizes its position as the sole U.S. manufacturer of telemetry pouches, proprietary automated processes, veteran-owned status, and ISO 9001:2015 certification as key differentiators. An Environmentally Preferred Purchasing program and a private-label program for partners are also highlighted as part of its value proposition.
 
 ## Known for
-- Sole Telemetry Pouch Manufacturer in the U.S.
-- Proprietary manufacturing processes
-- Veteran-owned, U.S.-based manufacturer
-- Full vertical integration and in-house production
-- ISO 9001:2015 certified
+- Sole U.S. manufacturer of telemetry pouches
+- Proprietary automated production equipment
+- ISO 9001:2015 certified quality management
+- Veteran-owned, U.S.-based manufacturing
+- Private labeling and environmentally preferred purchasing programs
 
 ## Capabilities
 - Medical textile manufacturing
 - Telemetry pouch manufacturing
-- Holter pouch manufacturing
 - Fetal belt manufacturing
+- Holter pouch manufacturing
 - Infant care product manufacturing
 - Medical ice bag manufacturing
-- Cardiology supply manufacturing
+- Automated production (automated fetal belt machine, automated telemetry pouch machine)
 - Private labeling
+- Packaging
+- Quality management (ISO 9001:2015)
 - Vertical integration
-- Automated fetal belt machine operation
-- Automated telemetry pouch machine operation
-- ISO 9001:2015 quality management
+- Custom manufacturing
+- OEM manufacturing
 - Environmentally preferred purchasing
 
 ## Industries
+- Healthcare
 - Hospitals
-- Healthcare providers
-- Medical device OEMs
-- Medical distributors
-- Hospital networks
+- Medical devices
+- Original equipment manufacturers (OEMs)
+- Distributors
+- Labor and delivery
+- Ambulatory monitoring
+- Cardiology
 
 ## Equipment
 - Automated fetal belt machine
@@ -410,19 +423,21 @@ The company differentiates itself as the sole U.S. manufacturer of telemetry pou
 
 <details><summary>Sources</summary>
 
-- Veteran-owned manufacturer of medical products -> db, /, /about-us
-- Headquarters in Prairieville, Louisiana -> db
-- CEO Cydney Severio hired 1989, became CEO 2020 -> /, /about-us
-- ISO 9001:2015 certified (acquired 2005, transitioned 2018) -> /, /about-us
-- Sole Telemetry Pouch Manufacturer in the U.S. claim -> /about-us
-- Products: telemetry pouches, Holter pouches, fetal belts, infant care, ice bags, cardiology supplies -> /, /about-us
-- Vertical integration, in-house production, proprietary automation -> /about-us
-- Private labeling program -> /about-us
-- Environmentally Preferred Purchasing -> /about-us
-- Customers: Palo Pinto General Hospital, ACS Doctors -> /
-- Industries: hospitals, healthcare providers, OEMs, distributors, hospital networks -> /about-us
-- Automated fetal belt machine and telemetry pouch machine -> /, /about-us
-- Long-tenured employees: Melissa Thibodeaux (since 1991), Austin Melancon (since 2011), Henry Pham (since 2005), Cody Brown (since high school) -> /, /about-us
+- Veteran-owned manufacturer of medical products -> db (description)
+- Headquarters in Prairieville, Louisiana -> db (hq_city, hq_state_label)
+- CEO Cydney Severio hired November 1989, became CEO 2020 -> / (About Us section)
+- Controller Melissa Thibodeaux with company since February 1991 -> / (About Us section)
+- ISO 9001:2015 certification acquired 2005, transitioned 2018 -> / (About Us section) and /about-us
+- Products: telemetry pouches, Holter pouches, fetal belts, infant care, ice bags -> / (product sections) and /about-us
+- Automated fetal belt machine and automated telemetry pouch machine -> / (Austin Melancon, Henry Pham profiles)
+- Sole Telemetry Pouch Manufacturer in the U.S. claim -> /about-us (What Sets Us Apart)
+- Private labeling program -> /about-us (Private Labeling section)
+- Environmentally Preferred Purchasing -> /about-us (Environmentally Preferred Purchasing section)
+- Vertical integration, state-of-the-art facility -> /about-us (About Us section)
+- Customers: Palo Pinto General Hospital (Judy Lowe), ACS Doctors (Brook Robbins) -> / (testimonials)
+- Industries served: hospitals, OEMs, distributors, hospital networks, labor and delivery, ambulatory monitoring, EKG, cardiology -> /about-us (About Us section)
+- Proprietary manufacturing processes -> /about-us (What Sets Us Apart)
+- Medical-grade materials mentioned for ice bags -> / (Ice Bags section)
 </details>
 
 ---
@@ -432,32 +447,35 @@ The company differentiates itself as the sole U.S. manufacturer of telemetry pou
 **Old description:** In 1933 my grandfather Henry Eidenberg founded General Store Fixtures on West Madison Street in Chicago, IL. In the years following, General Store became
 
 ## About
-EME Restaurant Equipment traces its roots to 1933, when Henry Eidenberg founded General Store Fixtures on West Madison Street in Chicago. The business, now based in Palatine, Illinois, remains family-owned and operated by the third generation, with Ed Eidenberg serving as the primary consultant and face of the company.
+EME Restaurant Equipment traces its roots to 1933, when Henry Eidenberg founded General Store Fixtures on West Madison Street in Chicago. The business relocated to Palatine, Illinois, and remains family‑owned, now in its third generation under the leadership of Ed, Henry’s grandson.
 
-The company supplies new and used restaurant equipment, carrying brands such as John Boos, and provides design services that include AutoCAD-based floor layouts, equipment specifications, plumbing and electrical rough-in drawings, ventilation specifications, and 3D renderings. Ed and his team conduct on-site consultations within 24 hours, assist with delivery and installation, and have equipped more than 1,000 restaurants, bars, and hotels across the Chicago area and nationally.
+The company supplies new and used restaurant equipment and backs sales with a full suite of design and consulting services. Using AutoCAD, the team produces floor layouts, plumbing and electrical rough‑in drawings, ventilation specifications, elevation drawings, and 3D renderings. They offer on‑site consultations within 24 hours, handle delivery, and assist with installation. Brands carried include John Boos, and the inventory spans compartment sinks, convenience‑store fixtures, and other commercial‑kitchen essentials. Since its founding, EME has served more than 1,000 customers and equipped over 1,000 restaurants, bars, and hotels.
 
-Customers range from first-time restaurateurs to established operators expanding or renovating kitchens, as well as architects and foodservice consultants who collaborate on layout and compliance. The firm also serves convenience stores and other commercial foodservice segments.
+Primary customers are independent restaurants, bars, hotels, and broader foodservice operators, including convenience‑store kitchens. First‑time owners and operators expanding or renovating existing spaces make up a large portion of the client base.
 
-The business was built on the founder's vision of personal, budget-friendly service, a principle the company says it maintains through hands-on expertise, 24/7 support, and a commitment to guiding clients through equipment selection without the guesswork of self-service purchasing.
+The firm was built on the premise that equipment buying should not be a self‑service gamble. Ed positions himself as a dedicated expert who guides each project from concept to launch, contrasting the personalized, hands‑on approach with competitors who offer only automated catalogs and limited support.
 
 ## Known for
-- On-site consultations within 24 hours
-- AutoCAD-based kitchen design and layout services
-- Three-generation family ownership since 1933
-- New and pre-owned equipment selection
-- 24/7 personal support
+- Three generations of family ownership since 1933
+- On‑site consultations within 24 hours
+- Custom AutoCAD floor plans and 3D renderings
+- New and used equipment with expert guidance
+- Dedicated point of contact (Ed) for each project
 
 ## Capabilities
-- In-person consultation
+- Personalized service
+- Hands‑on expertise
+- In‑person service
+- Consultation
 - Restaurant and bar design
-- AutoCAD floor layout and equipment specification
-- Plumbing and electrical rough-in drawings
-- Ventilation specification
+- AutoCAD design
+- Plumbing and electrical rough‑in drawings
+- Ventilation specifications
 - Elevation drawings
 - 3D renderings
 - New equipment sales
 - Used equipment sales
-- Equipment delivery
+- Delivery
 - Installation assistance
 - Project management
 
@@ -465,7 +483,7 @@ The business was built on the founder's vision of personal, budget-friendly serv
 - Restaurants
 - Bars
 - Hotels
-- Foodservice operators
+- Foodservice
 - Convenience stores
 
 ## Company details
@@ -476,19 +494,16 @@ The business was built on the founder's vision of personal, budget-friendly serv
 
 <details><summary>Sources</summary>
 
-- Founded 1933 by Henry Eidenberg as General Store Fixtures on West Madison Street, Chicago -> db
-- Headquarters in Palatine, Illinois -> db
+- Founded 1933 by Henry Eidenberg -> db
+- Headquarters Palatine, IL -> db
 - Family-owned, three generations -> page /
-- Ed Eidenberg is current consultant and face of company -> page /
-- Supplies new and used restaurant equipment -> page /
-- Carries John Boos brand -> db (products)
-- Provides AutoCAD design services for floor layouts and equipment specifications -> page /
-- Offers plumbing/electrical rough-in drawings, ventilation specs, elevation drawings, 3D renderings -> page /
-- On-site consultations within 24 hours -> page /
-- Equipped 1,000+ restaurants, bars, hotels -> page /
-- Serves restaurants, bars, hotels, convenience stores -> page /
-- Offers 24/7 personal support -> page /
-- Provides delivery and installation help -> page /
+- Ed is current expert and point of contact -> page /
+- Services: consultation, AutoCAD design, plumbing/electrical drawings, ventilation specs, 3D renderings -> page /
+- In-person consultations within 24 hours -> page /
+- Carries brands like John Boos -> page /
+- 1,000+ customers, equipped 1,000+ restaurants, bars, hotels -> page /
+- Industries: restaurants, bars, hotels, foodservice -> page /
+- Differentiators: personalized service, hands-on expertise, dedicated expert -> page /
 </details>
 
 ---
@@ -498,48 +513,50 @@ The business was built on the founder's vision of personal, budget-friendly serv
 **Old description:** Scalable capacity without the investment or extra personnel. We meet demand by supplying supply—on demand. Electronics manufacturing—it’s what we do.
 
 ## About
-EMSCO operates from Ashland, Virginia, providing on-demand electronics manufacturing for businesses across the mid-Atlantic and nationwide. The company positions itself as a local alternative to offshore production, emphasizing proximity and speed for regional customers.
+EMSCO operates from Ashland, Virginia, providing on-demand electronics manufacturing services. The company focuses on scalable capacity without requiring customers to invest in infrastructure or additional personnel.
 
-The shop produces electrical wire and multi-conductor cable harnesses, printed circuit board assemblies, and electronic and mechanical box builds. Its floor includes in-motion continuity testing equipment, and work follows ISO 9001:2015-based procedures alongside IPC/WHMA-A 620 standards. A reported $500,000 of standing raw inventory supports short material lead times, and a near-zero voluntary attrition rate keeps experienced technicians on the line.
+The company produces electrical wire and multi-conductor cable harnesses, printed circuit board assemblies, and electronic and mechanical box builds. Its processes include in-motion continuity testing and adherence to ISO 9001:2015-based procedures and IPC/WHMA-A 620 standards. EMSCO maintains $500,000 of standing raw inventory to reduce material lead times and offers stocking programs for rapid fulfillment.
 
-EMSCO serves Virginia- and mid-Atlantic-based companies that need fast, lower-cost shipping, while also shipping to the broader United States. The company does not list specific industry verticals in its public materials, but its core outputs—harnesses, PCBAs, and box builds—typically feed industrial, commercial, and defense-adjacent electronics programs.
+EMSCO serves businesses throughout Virginia and the mid-Atlantic region, offering fast shipping and lower costs due to proximity, while also supporting customers across the United States as a domestic alternative to overseas production.
 
-The firm states it was started to give customers scalable capacity without new infrastructure or headcount, claiming 10–50 percent savings on brand-name components through bulk purchasing and reduced lead times via its stocking programs.
+The company differentiates itself by doubling client capacity without added infrastructure costs, saving 10–50% on brand-name parts through bulk purchasing, and maintaining a near-zero voluntary attrition rate that preserves an experienced workforce.
 
 ## Known for
-- $500K standing raw inventory slashing material lead times
-- Near 0% voluntary attrition rate retaining experienced workers
-- In-motion continuity testing technology
+- Scalable capacity without new infrastructure or employees
 - 10–50% savings on brand-name parts through bulk ordering
-- Fast, lower-cost shipping for Virginia and mid-Atlantic customers
+- $500K standing raw inventory reducing lead times
+- Near 0% voluntary attrition rate ensuring experienced workforce
+- In-motion continuity testing with ISO 9001:2015 and IPC/WHMA-A 620 standards
 
 ## Capabilities
-- Wire and cable harness assembly
+- Wire harness assembly
+- Multi-conductor cable harness assembly
 - PCB assembly
-- Box build assembly
+- Box build assembly (electronic and mechanical)
 - In-motion continuity testing
-- IPC/WHMA-A 620 compliant assembly
-- ISO 9001:2015 quality management
+- Stocking programs
+- Bulk procurement
 
 ## Certifications
 - ISO 9001:2015
+- IPC/WHMA-A 620
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Headquarters:** Ashland, Virginia
 
 <details><summary>Sources</summary>
 
-- Location: Ashland, Virginia -> db
+- Location: Ashland, Virginia -> /
 - Services: wire harnesses, PCB assemblies, box builds -> /
-- Certification: ISO 9001:2015 -> /
-- Standard: IPC/WHMA-A 620 -> /
-- Inventory: $500K standing raw inventory -> /
-- Attrition: near 0% voluntary attrition -> /
-- Testing: in-motion continuity testing -> /
-- Shipping advantage: Virginia/mid-Atlantic fast shipping -> /
-- Cost savings: 10-50% on brand name parts through bulk ordering -> /
-- Headquarters address: 10181 Cedar Ridge Drive, Ashland, VA 23005 -> /
+- Certifications: ISO 9001:2015, IPC/WHMA-A 620 -> /
+- Standing inventory: $500K -> /
+- Cost savings: 10-50% on brand-name parts via bulk ordering -> /
+- Lead time reduction via stocking programs -> /
+- Near 0% voluntary attrition rate -> /
+- In-motion continuity testing -> /
+- Serves Virginia, mid-Atlantic, and nationwide -> /
+- Scalable capacity without investment -> /
 </details>
 
 ---
@@ -549,44 +566,48 @@ The firm states it was started to give customers scalable capacity without new i
 **Old description:** EPD Electronics specializes in helping companies bring new products to market in a timely and cost-effective manner.
 
 ## About
-EPD Electronics Inc. operates from Natrona Heights, Pennsylvania, where it has served the Western Pennsylvania region for over 30 years. The company provides printed circuit board (PCB) assembly and design services, though its exact founding year and ownership structure are not publicly disclosed.
+EPD Electronics Inc. operates from Natrona Heights, Pennsylvania, where it has provided printed circuit board assembly and design services to the Western Pennsylvania region for over 30 years. The company was founded to support local manufacturers with comprehensive electronic manufacturing services under one roof.
 
-The firm offers a full suite of electronic manufacturing services under one roof, including PCB design and engineering, prototyping, surface‑mount (SMT) and through‑hole (THT) assembly, automated optical inspection, X‑ray inspection, and functional circuit testing. Beyond board‑level work, EPD handles enclosure assembly, box‑build, final assembly, electro‑mechanical integration, systems integration, and customer order fulfillment. A climate‑controlled warehouse stores excess electronic components, and the shop also runs 3D‑printing prototyping for rapid iteration.
+The facility houses surface mount and through-hole production lines supported by automated optical inspection, x-ray inspection, and circuit testing equipment. Beyond board-level assembly, EPD offers enclosure assembly, box build, final assembly, electro-mechanical integration, systems integration, and customer order fulfillment. The company also runs a climate-controlled warehouse for excess electronic components and provides 3D printing for prototyping.
 
-EPD’s customer base consists of companies in the Western Pennsylvania area that need to bring new electronic products to market quickly and cost‑effectively. The company does not list specific industry verticals or named clients in its public materials.
+EPD serves companies across the Western Pennsylvania region that need to bring new electronic products to market, from initial concept through prototype to full production. Its customer base includes firms requiring design engineering, PCB layout, and turnkey contract manufacturing.
 
-EPD emphasizes its in‑house design and layout team, state‑of‑the‑art SMT line with AOI and X‑ray inspection, and the convenience of taking a project from concept through production and fulfillment in a single facility. The company positions itself as a partner that lets clients focus on sales and product development while EPD manages the manufacturing segment.
+The company emphasizes a single-source model that combines design, engineering, prototyping, assembly, and fulfillment, aiming to reduce lead times and improve yields through advanced inspection technology.
 
 ## Known for
-- In‑house design and layout departments supporting SMT and through‑hole lines
-- State‑of‑the‑art surface mount line with automated optical inspection and X‑ray inspection
-- Climate‑controlled warehouse for excess electronic components
-- Complete electronic manufacturing services from design to fulfillment under one roof
+- Design, engineering, prototype, assembly, and fulfillment all in one location
+- State-of-the-art surface mount line with automated optical inspection and x-ray inspection
+- Climate-controlled warehouse for excess electronic components
 - Over 30 years of PCB assembly and design experience in Western Pennsylvania
+- Comprehensive SMT and through-hole production capabilities
 
 ## Capabilities
 - PCB design and engineering
-- PCB prototyping
+- PCB prototype to production
 - Surface mount technology (SMT) assembly
-- Through-hole (THT) assembly
+- Through-hole assembly
 - Automated optical inspection (AOI)
 - X-ray inspection
-- Functional circuit testing
-- Component assembly
+- Circuit testing
+- Enclosure assembly
+- Box build
+- Final assembly
 - Electro-mechanical assembly
-- Box build / final assembly
 - Systems integration
 - Customer order fulfillment
 - 3D printing prototyping
+- 3D printed parts
+- Testing services
 - Board inspection
-- Contract manufacturing
-- Climate-controlled component warehousing
-- Excess electronic component storage
+- PCB contract manufacturing
+- Component assembly
+- Warehouse management for excess electronic components
 
 ## Equipment
 - Surface mount line
-- Automated optical inspection (AOI) system
+- Automated optical inspection (AOI)
 - X-ray inspection system
+- 3D printer
 
 ## Certifications
 - ISO 9001
@@ -597,17 +618,14 @@ EPD emphasizes its in‑house design and layout team, state‑of‑the‑art SMT
 
 <details><summary>Sources</summary>
 
-- Company name: EPD Electronics Inc. -> db
-- Headquarters: Natrona Heights, Pennsylvania -> db
-- Certification: ISO 9001 -> db
-- Over 30 years providing PCB assembly and design services to Western Pennsylvania region -> /
-- In-house design and layout departments support SMT and through-hole production lines -> /
-- Services: PCB design, engineering, prototype, assembly, fulfillment -> /
-- Contract manufacturing: enclosure assembly, box build, final assembly, electro-mechanical assembly, systems integration, customer order fulfillment -> /
+- Location: Natrona Heights, Pennsylvania -> db
+- Over 30 years providing PCB assembly and design services -> /
+- Services: design & engineering, SMT, through-hole, AOI, x-ray inspection, circuit testing -> /
+- Contract manufacturing: enclosure assembly, box build, final assembly, electro-mechanical assembly, systems integration, order fulfillment -> /
 - Climate-controlled warehouse of excess electronic components -> /
-- Capabilities: component assembly, electro-mechanical assembly, 3D printing prototyping, testing services, board inspection, SMT capabilities -> /
-- State-of-the-art surface mount line, automated optical inspection, x-ray inspection, circuit testing -> /
-- Custom PCB design, engineering, prototype, production all from one source -> /
+- 3D printing prototyping and 3D printed parts -> /
+- ISO9001 certification -> db
+- Single-source model: design, engineering, prototype, production, fulfillment -> /
 </details>
 
 ---

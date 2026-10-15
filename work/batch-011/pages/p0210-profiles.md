@@ -3,25 +3,24 @@
 **Old description:** At Midwest Solar Installers, we haven’t forgotten where we started. Headquartered in Waterloo, Iowa, our company is built on the values of the hard work and community that defined our first 500 installs right here in the
 
 ## About
-Midwest Solar Installers is headquartered in Waterloo, Iowa, where it began as a locally owned and operated business in the Cedar Valley. The company traces its roots to its first 500 solar installations across the Hawkeye State, building a reputation on community-focused service. No founding year or individual founders are disclosed in public materials.
+Midwest Solar Installers is headquartered in Waterloo, Iowa, where it was founded on the values of hard work and community that defined its first 500 installations across the Hawkeye State. The company is locally owned and operated in the Cedar Valley region.
 
-The firm provides turnkey solar energy services for residential, commercial, and agricultural customers. Each project starts with a detailed assessment of the client’s energy usage, followed by a custom system design and professional installation. The company describes its approach as combining local expertise with the backing of national resources, though specific facility size, headcount, or annual installation volumes are not published.
+The firm provides solar installation services for residential, commercial, and agricultural customers throughout Iowa. Its process begins with a detailed assessment of energy usage, followed by a custom system design tailored to each site, and concludes with professional installation. The company describes itself as a local partner backed by the resources of a national leader.
 
-Its customer base includes homeowners, business owners, and farm operators throughout Iowa. The company cites installations for houses, commercial facilities, and farms as typical projects. Partner relationships with local contractors such as Cedar Valley Handyman are noted, but no broader industrial client list is provided.
+Customers include homeowners, business owners, and farm operators seeking to reduce energy costs, gain independence from external power grids, and lower carbon emissions. The installer works with partners such as Cedar Valley Handyman to deliver complete projects.
 
-Midwest Solar Installers states its mission is to make solar energy affordable and accessible to everyone, emphasizing long-term cost savings, energy independence, and environmental benefits. The company highlights its all-Iowan dedication and free consultation offer as key differentiators.
+The company states its mission is to make solar energy affordable and accessible to everyone, driven by a belief in solar power's ability to save money and ensure a sustainable future.
 
 ## Known for
+- Locally owned and operated in the Cedar Valley
+- Custom solar system design based on detailed energy assessment
 - Local partner backed by national resources
-- Detailed energy assessment for each project
-- Custom solar system design
-- Free consultation for every project
-- All-Iowan dedication
+- Serves residential, commercial, and agricultural customers across Iowa
 
 ## Capabilities
-- Solar energy assessment
+- Solar installation
 - Custom solar system design
-- Solar panel installation
+- Energy usage assessment
 - Residential solar installation
 - Commercial solar installation
 - Agricultural solar installation
@@ -38,17 +37,16 @@ Midwest Solar Installers states its mission is to make solar energy affordable a
 
 <details><summary>Sources</summary>
 
-- Headquartered in Waterloo, Iowa -> db
-- First 500 installations in Hawkeye State -> /
+- Headquartered in Waterloo, Iowa -> /
 - Locally owned and operated in Cedar Valley -> /about-us
-- Mission to make solar energy affordable and accessible -> /about-us
-- Custom solar system design based on detailed energy assessment -> /, /about-us
-- Serves homeowners, businesses, and farms in Iowa -> /
-- Free consultation offered -> /
+- First 500 installs in Hawkeye State -> /
+- Process: detailed assessment, custom design, professional installation -> /, /about-us
+- Serves homeowners, business owners, farms -> /
+- Partners with Cedar Valley Handyman -> /
+- Mission: make solar affordable and accessible -> /about-us
 - Address: 2530 Falls Ave, Waterloo, Iowa 50701 -> /
 - Phone: (319) 900-9090 -> /
 - Email: info@midwestsolarinstallers.com -> /
-- Partner: Cedar Valley Handyman -> /
 </details>
 
 ---
@@ -58,44 +56,46 @@ Midwest Solar Installers states its mission is to make solar energy affordable a
 **Old description:** Milco Industries is a family-owned company that has been in business since 1922.
 
 ## About
-Milco Industries, a family-owned textile manufacturer, has operated from Bloomsburg, Pennsylvania since its founding in 1922.
+Milco Industries, a family-owned textile manufacturer, has operated from Bloomsburg, Pennsylvania since its founding in 1922. Now in its second century, the company is led by President and CFO Sabrina Hunsinger, with Travis Carr heading sales and Justin Wark serving as general manager. The business began as a warp knit fabric producer and has remained in the same central Pennsylvania location for over 100 years.
 
-The company operates a vertical manufacturing facility in Bloomsburg where it knits, dyes, and finishes a range of warp knit fabrics, including tricot, raschel, and circular knits. Its processes cover fabric analysis and knitting, color matching and dyeing, brushing, unbroken loop (UBL) finishing, calendering, and final inspection with in-house lab verification. Milco also offers commission dyeing and finishing services and maintains a stock program for standard fabrics.
+The company runs a fully vertical operation at its Bloomsburg facility, handling knitting, dyeing, and finishing under one roof. Its forming capabilities cover tricot, raschel, and circular knitting, complemented by pad dyeing, brushing, unbroken-loop (UBL) finishing, calendering, and a range of specialty finishes such as anti-microbial, UV-resistant, fire-retardant, and moisture-management treatments. The plant also offers color matching, fabric analysis, direct-to-fabric and heat-transfer printing, and in-house quality control with lab testing on every production batch.
 
-Milco serves a wide array of markets with products such as netting, mesh, suede, satin, jersey, specialty fabrics, print substrates, hook-compatible loop fabrics, brushed fabrics, and stretch spandex materials. Its performance finishes address requirements for anti-microbial protection, UV resistance, anti-abrasion, fire retardancy, moisture wicking, ANSI compliance, hydrophilic properties, and durable water repellency.
+Milco serves a broad spectrum of markets with products that include netting, mesh, suede, satin, jersey, stretch spandex, hook-compatible loop fabrics, and print substrates. Customers can source custom-developed fabrics, commission dyeing and finishing services, or draw from a stock program. The company's ANSI-compliant and performance-oriented textiles find use in applications requiring durability, safety, and specific functional properties.
 
-The company emphasizes its ISO 9001:2015 certified quality management system, domestic production, and veteran-friendly workplace. Milco highlights over 100 years of experience, custom engineering to customer specifications, and a shipping process designed to exceed requirements as key differentiators.
+Milco emphasizes its Made-in-USA production, ISO 9001:2015 certified quality system, and a shipping process designed to exceed customer requirements. The firm's longevity and vertical integration allow it to control quality from yarn to finished fabric, a differentiator it highlights alongside its commitment to veteran employment.
 
 ## Known for
+- Vertical integration: knitting, dyeing, and finishing in a single Bloomsburg facility
 - ISO 9001:2015 certified quality management system
-- Vertical manufacturing: knitting, dyeing, and finishing in one facility
-- Made in the USA with veteran-valued workforce
-- Custom fabric engineering to customer specifications
-- Commission dyeing and finishing services available
+- Over 100 years of continuous operation since 1922
+- Made-in-USA manufacturing with a focus on veteran employment
+- Exceptional shipping and packaging process tailored to customer requirements
 
 ## Capabilities
 - Tricot knitting
 - Raschel knitting
 - Circular knitting
-- Pad dyeing / color matching
+- Pad dyeing
+- Color matching
 - Brushing
 - UBL (unbroken loop) finishing
 - Calendering
-- Quality control & lab testing
-- Fabric analysis
-- Commission dyeing & finishing
-- Custom fabric development
-- Stock fabric program
-- Direct-to-fabric printing
-- Heat transfer printing
-- Durable water repellent (DWR) finishing
 - Anti-microbial finishing
 - UV resistant finishing
 - Anti-abrasion finishing
 - Fire retardant finishing
-- Moisture management/wicking finishing
-- ANSI compliant fabrics
+- Wicking finishing
 - Hydrophilic finishing
+- Moisture management finishing
+- Durable water repellent finishing
+- Direct-to-fabric printing
+- Heat transfer printing
+- Fabric analysis
+- Quality control and lab testing
+- Commission dyeing and finishing
+- Custom fabric development
+- Stock fabric program
+- ANSI compliance testing
 
 ## Certifications
 - ISO 9001:2015
@@ -109,21 +109,23 @@ The company emphasizes its ISO 9001:2015 certified quality management system, do
 
 <details><summary>Sources</summary>
 
-- Founded 1922, family-owned -> db, /, /about
-- Headquarters Bloomsburg, PA -> db, /, /about
-- Vertical manufacturer: knit, dye, finish in-house -> /, /about
-- Capabilities: tricot, raschel, circular knitting -> /, /about
-- Pad dye, UBL finish, brushing, calendering -> /, /about
-- Quality control & lab testing -> /, /about
-- Commission dye & finishing, stock program, custom solutions -> /services
-- ISO 9001:2015 certified -> db, /, /about
+- Founded 1922 -> db
+- Family-owned -> db
+- Headquarters Bloomsburg, PA -> db
+- ISO 9001:2015 certified -> /
+- Vertical fabric manufacturer (knit, dye, finish) -> /about
+- Tricot, raschel, circular knitting -> /
+- Pad dyeing -> /
+- Brushing, UBL finishing, calendering -> /
+- Finishing capabilities (anti-microbial, UV resistant, fire retardant, etc.) -> /
+- Quality control and lab testing -> /
+- Products: netting, mesh, suede, satin, jersey, stretch spandex, loop fabrics, print substrates -> /
+- Commission dyeing and finishing, custom fabric solutions, stock program -> /services
+- Management: Sabrina Hunsinger (President/CFO), Travis Carr (sales), Justin Wark (General manager) -> /about
+- Made in USA -> /
+- Exceptional shipping process -> /
+- 100 years experience -> /
 - RoHS compliance -> db
-- Made in USA, veteran-valued -> /, /about
-- Exceptional shipping process -> /, /about
-- 100 years experience -> /, /about
-- Management: Sabrina Hunsinger (President/CFO), Travis Carr (Sales), Justin Wark (General Manager) -> /about
-- Product lines: netting, mesh, suede, satin, jersey, specialty fabrics, print substrate, loop, brushed, stretch spandex -> /, /about
-- Performance features: anti-microbial, UV resistance, anti-abrasion, fire retardant, wicking, ANSI compliant, hydrophilic, moisture management, DWR -> /, /about
 </details>
 
 ---
@@ -133,40 +135,44 @@ The company emphasizes its ISO 9001:2015 certified quality management system, do
 **Old description:** Mile High Metal Fab creates custom metal and woodwork that elevate both interior and exterior spaces. Our work blends craftsmanship with design excellence — delivering strength, style, and timeless appeal.
 
 ## About
-Mile High Metal Fab operates from Arvada, Colorado, serving the Denver Metro area with custom metal and wood fabrication. The company does not state a founding year or identify its founders in the provided materials, nor does it specify an ownership structure such as family-, veteran-, or woman-owned.
+Mile High Metal Fab operates from Arvada, Colorado, serving the Denver metropolitan area with custom metal and wood fabrication. The company focuses on blending structural metalwork with carpentry to create outdoor and interior structures.
 
-The shop focuses on custom metal fabrication and carpentry, producing fences, gates, railings, decks, pergolas, patio covers, fire pits, outdoor kitchens, window well covers, and interior renovations. Projects blend metal and wood, and the company describes its work as built with precision, detail, and enduring quality. No facility size, headcount, or annual volume figures are disclosed.
+The shop provides custom metal fabrication and carpentry services, producing a range of products that include fences, gates, railings, decks, pergolas, patio covers, fire pits, outdoor kitchens, and window well covers. Projects combine metal and wood elements, with the team handling design, fabrication, and installation for both residential and commercial clients. The facility supports custom one-off builds as well as larger-scale projects, though specific capacity figures are not disclosed.
 
-Customers include both homeowners and businesses across the Denver Metro region. The company highlights residential outdoor living spaces — decks, pergolas, fire features — as well as security-focused fences and gates designed to withstand Colorado's climate, plus interior railing and remodel work.
+The company works with homeowners and businesses across the Denver Metro region. Its projects appear in residential backyards, commercial properties, and public spaces, delivering functional and aesthetic structures such as ornamental railings, security fencing, and outdoor living areas. Clients include property owners, contractors, and designers seeking tailored metal and wood solutions.
 
-Mile High Metal Fab says it sets itself apart by blending craftsmanship with design excellence and by combining craftsmanship with customer care, tailoring each build to the client's vision and lifestyle to deliver spaces that inspire, endure, and impress.
+Mile High Metal Fab emphasizes a blend of craftsmanship and design excellence, aiming to deliver strength, style, and timeless appeal. The firm highlights its ability to merge the durability of metal with the warmth of wood, tailoring each build to the client’s vision while ensuring resilience against Colorado’s climate. This approach positions the shop as a partner for custom outdoor and interior fabrication rather than a standard product supplier.
 
 ## Known for
-- Blends craftsmanship with design excellence
-- Combines craftsmanship with customer care
-- Tailors every build to the client's vision and lifestyle
-- Builds with precision, detail, and enduring quality
+- Combines metal and wood in custom fabrication
+- Tailors each project to client vision
+- Builds for Colorado climate durability
+- Serves both residential and commercial clients
+- Offers custom design and fabrication from concept to installation
 
 ## Capabilities
 - Custom metal fabrication
 - Carpentry
-- Fence building
-- Gate building
-- Deck building
-- Railing fabrication and installation
+- Custom design
+- Welding
+- Woodworking
+- Fence fabrication
+- Gate fabrication
+- Railing fabrication
+- Deck construction
 - Pergola construction
 - Patio cover construction
+- Fire pit fabrication
 - Outdoor kitchen construction
-- Fire pit construction
 - Window well cover fabrication
-- Interior renovation
-- Custom design and fabrication
+- Interior railing fabrication
+- Remodeling
 
 ## Industries
 - Residential construction
 - Commercial construction
 - Outdoor living
-- Home improvement
+- Architectural metalwork
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -176,10 +182,11 @@ Mile High Metal Fab says it sets itself apart by blending craftsmanship with des
 
 - Location: Arvada, Colorado -> db
 - Services: custom metal fabrication and carpentry -> /
-- Products: fences, gates, railings, decks, pergolas, patio covers, fire pits, outdoor kitchens, window well covers, interior renovations -> /, /services
-- Customers: homeowners and businesses in Denver Metro -> /
-- Materials: metal and wood -> /
-- Differentiators: craftsmanship with design excellence, customer care, tailored builds -> /
+- Products: fences, gates, railings, decks, pergolas, patio covers, fire pits, outdoor kitchens, window well covers -> /
+- Customer types: homeowners and businesses -> /
+- Differentiators: blend of metal and wood, tailored to vision, built for Colorado climate -> /
+- Capabilities: Custom Design & Fabrication -> db
+- Service details: outdoor living spaces, fences & gates, custom fabrication & specialty builds -> /services
 </details>
 
 ---
@@ -189,35 +196,36 @@ Mile High Metal Fab says it sets itself apart by blending craftsmanship with des
 **Old description:** The 1998 TRAK TRL 1745P Lathe features the L2 Control by Southwestern Industries, ideal for precision machining with Sport Machines, ensuring reliable performance and advanced functionality for variou...
 
 ## About
-Based in Bridgeville, Delaware, Miller Metal Fabrication, Inc. has operated in the Mid-Atlantic region for over 25 years. The company is led by President Martin W. Miller, who received the 2012 Entrepreneurial Success Award for Region III covering Delaware, Maryland, Pennsylvania, Virginia, Washington DC, and West Virginia.
+Miller Metal Fabrication, based in Bridgeville, Delaware, has been providing precision fabrication services across the Mid-Atlantic region for over 25 years. The company, led by President Martin W. Miller, serves customers from Baltimore to Philadelphia and works with international corporations, local businesses, and entrepreneurs alike.
 
-The shop provides a range of sheet metal and fabrication services including CNC laser cutting with two Trumpf TruLaser 5030 fiber lasers and a TruLaser 5040 fiber laser, tube laser cutting, CNC HD plasma cutting, CNC punching, CNC forming, and CNC machining. In-house welding covers robotic, MIG, and TIG processes for carbon steel, stainless steel, aluminum, and galvanized applications. Design support is offered through 3D CAD conversion of sketches or prints into workable models. A Bliss C-250 stamping press adds stamping capability.
+The shop offers a range of in-house capabilities including CNC laser cutting (with two Trumpf TruLaser 5030 fiber lasers and a TruLaser 5040), tube laser cutting, CNC punching, CNC forming, CNC machining, and MIG/TIG and robotic welding. It also provides 3D CAD design and CAD conversion services, allowing it to turn sketches into workable parts. The facility runs a Bliss C-250 stamping press and uses lean manufacturing and just-in-time concepts to handle both small jobs and large production runs.
 
-Miller Metal serves international corporations, small local businesses, and entrepreneurs across the Mid-Atlantic corridor, with daily service to Baltimore, Washington, and Philadelphia. The company emphasizes flexible quantities, handling both small jobs and large production runs.
+Miller Metal works primarily with carbon steel, stainless steel, aluminum, and galvanized materials. Its customer base spans the Mid-Atlantic corridor, including the Baltimore, Washington, and Philadelphia metro areas, and includes international corporations, small local businesses, and entrepreneurs developing new products.
 
-Differentiators cited by the company include LEAN manufacturing and just-in-time concepts that enable lead times of a few days or even one day, a commitment to customer satisfaction and competitive pricing summarized as "You pay for the product, not the name," and a flexible approach to logistics that reduces inventory investment and simplifies production control.
+The company emphasizes lean processes and short lead times, often delivering in a few days or even one day. President Miller's philosophy — “You pay for the product, not the name” — reflects a focus on value and competitive pricing. Miller Metal holds ISO 9001 certification and has earned a BBB A+ rating and a Workplace Health and Safety Incentive Program Award.
 
 ## Known for
-- Lead times of a few days or even one day
-- LEAN manufacturing and just-in-time concepts
-- Flexible quantities for small jobs to large production runs
-- In-house robotic, MIG, and TIG welding
-- 3D CAD design from sketches or prints
+- Lean manufacturing and just-in-time concepts enabling lead times of a few days or one day
+- In-house robotic welding alongside MIG/TIG welding
+- State-of-the-art tube laser with swiveling head for complex weldment miters
+- Trumpf fiber laser cutting systems (5030 and 5040 models)
+- Turnkey fabrication from CAD through machining and welding
 
 ## Capabilities
 - CNC laser cutting
 - Tube laser cutting
-- CNC HD plasma cutting
 - CNC punching
 - CNC forming
 - CNC machining
+- CNC HD plasma cutting
 - MIG welding
 - TIG welding
 - Robotic welding
 - 3D CAD design
 - CAD conversion
 - Stamping
-- Fabrication
+- Sheet metal fabrication
+- Precision fabrication
 
 ## Equipment
 - Trumpf TruLaser 5030 Fiber Laser
@@ -228,24 +236,29 @@ Differentiators cited by the company include LEAN manufacturing and just-in-time
 - ISO 9001
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Headquarters:** Bridgeville, Delaware
 
 <details><summary>Sources</summary>
 
-- Headquarters in Bridgeville, Delaware -> db
-- Headquarters address 16695 Emma Jane Lane Bridgeville, DE 19933 -> /about-us
-- Led by President Martin W. Miller -> /about-us
-- Over 25 years in fabrication industry -> /about-us
-- ISO 9001 certified -> /about-us and db
-- Services: CNC laser cutting, tube laser, plasma cutting, punching, forming, machining, welding, 3D CAD -> / and /services
-- Equipment: Trumpf TruLaser 5030, Trumpf TruLaser 5040, Bliss C-250 Stamping Press -> / and /services
-- Materials: carbon steel, stainless steel, aluminum, galvanized steel -> /about-us
-- Lead time: a few days or even one day -> /about-us
-- Customer types: international corporations, small local businesses, entrepreneurs -> /about-us
-- Region: Mid-Atlantic (Baltimore, Washington, Philadelphia) -> /about-us
-- LEAN manufacturing and just-in-time concepts -> /about-us
-- 2012 Entrepreneurial Success Award for Martin W. Miller -> /about-us
+- Location: Bridgeville, Delaware -> db, /about-us
+- Operating for over 25 years -> /about-us
+- President Martin W. Miller -> /about-us
+- Services Mid-Atlantic region including Baltimore, Washington, Philadelphia -> /about-us
+- Serves international corporations, small local businesses, entrepreneurs -> /about-us
+- Uses lean manufacturing and just-in-time concepts -> /about-us
+- Lead time a few days or even one day -> /about-us
+- Quote 'You pay for the product, not the name' -> /about-us
+- ISO 9001 certification -> /about-us, db
+- BBB A+ rating as of 1/20/2016 -> /about-us
+- Workplace Health and Safety Incentive Program Award -> /about-us
+- 2012 Entrepreneurial Success Award Winner Martin W. Miller -> /about-us
+- Equipment: 2 Trumpf TruLaser 5030 Fiber Lasers, Trumpf TruLaser 5040 Fiber Laser -> /
+- Equipment: Bliss C-250 Stamping Press -> db
+- Capabilities: CNC laser cutting, tube laser cutting, CNC punching, CNC forming, CNC machining, CNC HD plasma cutting, MIG/TIG welding, robotic welding, 3D CAD, CAD conversion -> /, /about-us
+- Materials: carbon steel, stainless, aluminum, galvanized -> /, /about-us
+- Turnkey products -> /about-us
+- Flexible quantities, logistical chain management -> /about-us
 </details>
 
 ---
@@ -255,65 +268,62 @@ Differentiators cited by the company include LEAN manufacturing and just-in-time
 **Old description:** Current Material Constraints in the U.S. Supply Chain Change Daily
 
 ## About
-Milwaukee Electronics was founded in 1954 in Milwaukee, Wisconsin, initially designing and manufacturing electronics for heavy machinery in the mining industry.
+Milwaukee Electronics was founded in 1954 in Milwaukee, Wisconsin, as a design and manufacturing center integrating electronics into heavy machinery for the mining industry. In 1988 it completed its first microprocessor design for the generator industry, and in 1999 established a nearshore facility in Tecate, Mexico, chosen for its proximity to San Diego.
 
-The company provides printed circuit board assembly, electronic design, and full box-build manufacturing from its Milwaukee headquarters and a 23,000-square-foot facility in Tecate, Mexico, supported by a purchasing office in Singapore and a technology center in India. It runs prototype, short-run, and high-mix mid-to-high volume production using lean methods implemented in 2001, and holds ISO 9001, AS9100, and ISO 13485 certifications.
+The company provides printed circuit board assembly, electronic design, and full manufacturing services, operating a 23,000-square-foot facility in Tecate alongside a purchasing office in Singapore and a technology center in India. Its capabilities span prototype through high-mix, mid-to-high-volume production, supported by lean manufacturing practices adopted in 2001 and a patented cut-tape machine assembly process for e-commerce prototyping launched in 2003.
 
-Customers include the mining sector and power-generation manufacturers; the firm designed a microprocessor-based fuel management product for the generator industry in 1988. Its Screaming Circuits unit, launched in 2003, serves engineers with an e-commerce prototype assembly service, while the main operation handles high-mix electronic assemblies for regulated markets.
+Milwaukee Electronics serves the generator, mining, and heavy-machinery sectors, with certifications that also align it to aerospace (AS9100) and medical device (ISO 13485) markets. Customers include original equipment manufacturers requiring supply-chain navigation amid material constraints and tariff shifts.
 
-Milwaukee Electronics differentiates itself through nearshore manufacturing in Tecate—an hour from San Diego—global sourcing capabilities, and a supply-chain team that earned 96 percent customer confidence in navigating material constraints. The company emphasizes "Global Resources, Local Service" and continuous improvement via lean tools.
+The firm differentiates itself through its nearshore Tecate operation—one hour from San Diego—and its early creation of an e-commerce PCB assembly service (Screaming Circuits) for rapid prototyping. A recent poll cited 96% customer confidence in its handling of material constraints.
 
 ## Known for
 - First e-commerce PCB assembly service (Screaming Circuits) launched in 2003
 - Nearshore manufacturing in Tecate, Mexico, one hour from San Diego
-- Lean manufacturing continuous improvement since 2001
-- Global sourcing with Asia purchasing office in Singapore
-- Supply chain expertise with 96% customer confidence in material constraints
+- Lean manufacturing implemented since 2001 to reduce lead times
+- Global supply chain with Asia purchasing office in Singapore
+- 96% customer confidence in navigating material constraints (per recent poll)
 
 ## Capabilities
 - PCB assembly
 - Electronic design
-- Electronic assembly (box build)
-- Prototyping
-- Low-volume production
-- High-mix mid-to-high volume manufacturing
+- Electronic manufacturing
 - Lean manufacturing
+- Prototyping
+- High-mix mid-to-high volume production
 - Supply chain management
-- Nearshore manufacturing (Mexico)
-- Global sourcing (Asia purchasing)
-- Screaming Circuits e-commerce prototype assembly
-- Microprocessor-based product design
+- Nearshore manufacturing
+- E-commerce PCB assembly
+- Microprocessor design
 
 ## Industries
-- Mining
-- Power generation
+- Generator industry
+- Mining industry
+- Heavy machinery
 
 ## Certifications
-- ISO 9001
+- ISO9001
 - AS9100
-- ISO 13485
+- ISO13485
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Founded:** 1954
 - **Headquarters:** Milwaukee, Wisconsin
 
 <details><summary>Sources</summary>
 
-- Founded 1954 in Milwaukee, Wisconsin -> db and /
-- Began integrating electronics into heavy machinery for mining industry -> /
-- 1988: Completed first microprocessor design for fuel management product for generator industry -> /
-- 1999: Established Tecate, Mexico facility near San Diego -> /
-- 2001: Implemented Lean Manufacturing -> /
-- 2003: Created first e-commerce PCB assembly service Screaming Circuits -> /
-- 2011: Opened Asia Purchasing Office in Singapore and India Tech Center -> /
-- 2019: Expanded Tecate facility by 23,000 sq ft -> /
-- Certifications: ISO 9001, AS9100, ISO 13485 -> db
-- High Mix/Mid-to-High Volume Manufacturing -> /
-- Nearshore manufacturing in Tecate, 1 hour from San Diego airport -> /
-- 96% customer confidence in handling material constraints -> /
-- Global Resources, Local Service -> /
-- Screaming Circuits unit dedicated to prototypes and engineers -> /
+- Founded 1954 in Milwaukee, Wisconsin -> db and page '/'
+- Began integrating electronics into heavy machinery for mining industry -> page '/'
+- Completed first microprocessor design for generator industry in 1988 -> page '/'
+- Established Tecate, Mexico facility in 1999 -> page '/'
+- Implemented lean manufacturing in 2001 -> page '/'
+- Launched first e-commerce PCB assembly service (Screaming Circuits) in 2003 -> page '/'
+- Opened Asia purchasing office in Singapore in 2011 -> page '/'
+- Expanded Tecate facility by 23,000 sq ft in 2019 -> page '/'
+- Certifications: ISO9001, AS9100, ISO13485 -> db
+- High mix/mid-to-high volume manufacturing -> page '/'
+- 96% customer confidence in handling material constraints -> page '/'
+- Nearshore manufacturing one hour from San Diego -> page '/'
 </details>
 
 ---
@@ -323,45 +333,45 @@ Milwaukee Electronics differentiates itself through nearshore manufacturing in T
 **Old description:** Minnesofa was founded by Max Bjorklund and Luke Schultz in May 2022. The company began by refurbishing used furniture in a garage, where their passion for business and furniture flourished. This inspired a vision to expand and source a diverse range of new furniture with the aim of opening a retail store. Just one year later, they proudly accomplished this goal. Minnesofa currently has a location in Moorhead MN and just launched their new store in Excelsior MN!
 
 ## About
-Minnesofa Furniture was founded in May 2022 by Max Bjorklund and Luke Schultz in Moorhead, Minnesota. The pair began by refurbishing used furniture in a garage, turning a passion for furniture into a business. Within a year they expanded to sourcing new furniture and opened their first retail location in Moorhead, followed by a second store in Excelsior.
+Minnesofa Furniture was founded in May 2022 by Max Bjorklund and Luke Schultz in Minnesota. The business began in a garage where the pair refurbished used furniture, turning a passion for furniture and entrepreneurship into a vision for a retail operation. Within a year they opened their first store in Moorhead and have since added a second location in Excelsior.
 
-The company operates two Minnesota showrooms — in Moorhead and Excelsior — selling a range of new and like‑new home furnishings including sectionals, sofas, dining sets, accent chairs, bedroom pieces and outdoor furniture. They source much of their inventory through a direct partnership with Ashley Furniture. In addition to retail sales, Minnesofa offers a white‑glove delivery service that covers in‑home setup and trash removal across the Twin Cities metro area.
+The company operates as a furniture retailer, offering sectionals, sofas, chairs, tables, bedroom sets, mattresses, outdoor pieces, and reclining furniture. Inventory comes through a direct partnership with Ashley Furniture and through the refurbishment of used items, which are sold as like-new condition. Minnesofa also provides a white‑glove delivery service that covers in‑home delivery, assembly, and trash removal across the Twin Cities metro area.
 
-Minnesofa serves residential customers throughout the Twin Cities region, providing living‑room, dining‑room and bedroom furniture for homeowners and renters. The company’s focus on sectionals and quick turnaround appeals to buyers who need furniture delivered and assembled on a tight schedule.
+The primary customer base is residential shoppers in the Twin Cities region seeking ready‑to‑deliver home furnishings. The company emphasizes direct interaction with the owners and a streamlined purchasing experience.
 
-The founders emphasize speed and personal service as their differentiators: most items can be delivered within a week, and customers work directly with the owners rather than a sales staff. The white‑glove delivery model, which includes setup and debris removal, is designed to remove the hassle of moving large pieces.
+The founders started Minnesofa to combine their interest in furniture with a hands‑on business model. They highlight speed—most items can be delivered within a week—and the personal attention that comes from a locally owned, owner‑operated shop as key differentiators.
 
 ## Known for
 - Delivery within a week for most products
-- White glove delivery with in-home setup and trash removal
-- Direct owner-to-customer service
-- Locally owned and operated in Excelsior and Moorhead, MN
+- White glove delivery including in-home setup and trash removal
+- Locally owned and operated with direct owner interaction
+- Direct partnership with Ashley Furniture for new inventory
+- Refurbishment of used furniture for like-new offerings
 
 ## Capabilities
-- Retail furniture sales
-- White glove delivery and installation
+- Furniture retail
+- White glove delivery
+- In-home furniture setup
+- Trash removal
 - Furniture refurbishment
-- In-home setup and trash removal
-
-## Industries
-- Residential furniture
-- Home furnishings
+- Furniture sourcing (new and used)
 
 ## Company details
 - **Company Type:** Retailer
 - **Founded:** 2022
-- **Ownership:** Locally owned and operated by founders
+- **Ownership:** Locally owned and operated
 - **Headquarters:** Excelsior, Minnesota
 
 <details><summary>Sources</summary>
 
 - Founded May 2022 by Max Bjorklund and Luke Schultz -> /
 - Started refurbishing used furniture in a garage -> /
-- Opened retail locations in Moorhead and Excelsior, MN -> /
+- Locations in Moorhead and Excelsior, Minnesota -> /
 - Direct partnership with Ashley Furniture -> /
-- White glove delivery service with in-home setup and trash removal -> /
+- White glove delivery with in-home setup and trash removal -> /
 - Delivery within a week for most products -> /
-- Locally owned and operated by founders -> /
+- Locally owned and operated -> /
+- Product categories: sectionals, sofas, chairs, tables, bedroom, mattresses, outdoor, reclining -> /
 </details>
 
 ---
@@ -371,37 +381,37 @@ The founders emphasize speed and personal service as their differentiators: most
 **Old description:** Mr. Conway also actively contributes to research, development and design activities. From 2013 to 2018, Mr. Conway served as President of BCG Technologies and Minnesota Medical. From 1988 to 2013, Mr. Conway was CEO and President at Rochester Medical Corp. for which he was also a Founder. From 1979 to 1988, he was President of Arcon Corp., a company that he co-founded with Philip J Conway. Prior to founding Arcon, Mr. Conway worked for 12 years for International Business Machines Corp. in various research and development capacities.
 
 ## About
-Minnesota Medical Technologies is headquartered in Stewartville, Minnesota, just outside Rochester. The company was founded by Philip J. Conway, Sarah L. Grinde, and Lonnie M. Boe, who brought decades of experience in silicone technology and medical device development from prior ventures including Rochester Medical Corporation and Arcon Corp. The team set out to create a better solution for fecal incontinence after recognizing that existing products failed to adequately prevent leakage or restore patients' confidence.
+Minnesota Medical Technologies is headquartered in Stewartville, Minnesota, just outside Rochester, the state's "Med City." The company was founded by Philip J. Conway, Sarah L. Grinde, and Lonnie M. Boe, veterans of the medical device industry who previously built Arcon Corp. (1979), Rochester Medical Corp. (1988), and BCG Technologies (2013). Their collective experience spans more than three decades of silicone technology and continence care innovation.
 
-The company develops, manufactures, and sells continence care products, most notably the StaySure® device—a discreet, silicone-based system designed to prevent accidental bowel leakage rather than merely contain or absorb it. Minnesota Medical Technologies designs and builds its own highly specialized, high-volume production systems, leveraging over 30 years of silicone expertise to control quality from concept through manufacturing.
+The company develops, manufactures, and sells continence care products, with its flagship device StaySure® designed to prevent accidental bowel leakage rather than merely contain or absorb it. The team designs and builds its own highly specialized, high-volume production systems to support silicone-based manufacturing. StaySure® was developed in collaboration with gastroenterologists and targets a condition more prevalent than asthma.
 
-The company serves the medical device and healthcare industries, focusing on fecal incontinence management. Its products are developed in collaboration with gastroenterologists and are intended for individuals living with fecal incontinence, as well as clinicians seeking advanced treatment options. The team includes veterans of Rochester Medical Corporation, C.R. Bard, and Polaris Industries, bringing regulatory, quality, and commercial experience across Class I, II, and III medical devices.
+Minnesota Medical Technologies serves the global medical device market, focusing on patients, physicians, and healthcare providers managing fecal incontinence. Its products address a patient population that often avoids seeking care due to embarrassment, offering a discreet solution intended to restore confidence and daily freedom. The company sells directly and through clinical channels worldwide.
 
-Minnesota Medical Technologies was started because the founders believed current fecal incontinence products were not good enough—often failing to prevent leakage, control odor, or provide ease of use. Their mission is to deliver products of unmatched performance, comfort, and quality worldwide, restoring dignity and freedom to patients through innovative engineering and clinical insight.
+The founders started the company because they believed existing fecal incontinence products were inadequate—failing to prevent leakage, control odor, or provide ease of use. Their mission is to deliver continence care products of unmatched performance, comfort, and quality, grounded in a genuine understanding of the daily challenges patients face.
 
 ## Known for
-- StaySure® prevents accidental leakage rather than containing or absorbing it
-- Developed in collaboration with leading gastroenterologists
-- Over 30 years of silicone technology and medical device innovation
-- In-house design and construction of high-volume production systems
-- Team with deep FDA regulatory and quality experience across Class I–III devices
+- Prevents accidental leakage rather than containing or absorbing it
+- Developed with leading gastroenterologists
+- Designs and builds proprietary high-volume production systems
+- Over 30 years of silicone technology experience
+- Products have improved millions of lives globally
 
 ## Capabilities
 - Medical device development
-- Silicone molding and technology
-- Product design and engineering
-- High-volume production system design and manufacturing
-- Quality system design and implementation (FDA)
-- Regulatory affairs management
+- Silicone technology manufacturing
+- Product design and development
+- High-volume production system design and building
+- Quality system design and implementation
+- FDA regulatory affairs (Class I, II, III medical devices)
 - Research and development
-- Global product deployment and commercialization
-- Commercial sales strategy execution
+- Global product deployment
+- Continence care product innovation
 
 ## Industries
 - Medical devices
-- Healthcare
 - Continence care
 - Fecal incontinence management
+- Healthcare
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -409,18 +419,16 @@ Minnesota Medical Technologies was started because the founders believed current
 
 <details><summary>Sources</summary>
 
-- Headquartered in Stewartville, MN -> /about-us
+- Headquarters in Stewartville, MN -> db
+- Founders: Philip J. Conway, Sarah L. Grinde, Lonnie M. Boe -> /about-us
+- Previous companies: Arcon Corp (1979), Rochester Medical Corp (1988), BCG Technologies (2013) -> /about-us
+- 30+ years silicone technology experience -> /about-us
 - Mission: develop, make, sell continence care products -> /about-us, /
-- Product: StaySure® device for fecal incontinence -> /
-- Team has 30+ years silicone technology experience -> /about-us
-- Founders: Philip J Conway, Sarah L Grinde, Lonnie M Boe -> /about-us
-- David A Jones CEO and President -> /about-us
-- Design and build own high-volume production systems -> /about-us
-- Developed with world's top gastroenterologists -> /
-- Prevent accidental leakage, not contain or absorb -> /
-- Robert M Anglin VP Quality and Regulatory with FDA experience -> /about-us
-- Team includes veterans of Rochester Medical Corp, C.R. Bard, Polaris Industries -> /about-us
-- Focus on performance, comfort, quality -> /about-us
+- Flagship product StaySure® prevents accidental leakage -> /, /about-us
+- Developed with gastroenterologists -> /
+- Designs/builds own high-volume production systems -> /about-us
+- Serves global market for fecal incontinence -> /, /about-us
+- Team includes CEO David A Jones, VP Quality Robert Anglin (FDA Class I-III experience) -> /about-us
 </details>
 
 ---
@@ -430,51 +438,50 @@ Minnesota Medical Technologies was started because the founders believed current
 **Old description:** Welcome to my Website. Here you will find examples of pieces that have found homes across America. If you are interested in a particular piece chat or message me at . Custom variations are always welcome!
 
 ## About
-Mission Accomplished Fine Woodworking operates from a workshop on Lilac Lane in Hudson, Massachusetts. The business was established by Jeff Voss, a graduate of the North Bennet Street School, and is organized as a limited liability company under the name Mission Accomplished Fine Woodcraft LLC.
+Mission Accomplished Fine Woodworking operates from Hudson, Massachusetts, where founder Jeff Voss established the business in 2015 after training at the North Bennet Street School. The workshop sits in the Boston metro area and functions as a solo maker studio producing heirloom-quality pieces.
 
-The shop produces one-of-a-kind furniture and lighting pieces, ranging from period reproductions to modern designs. Construction relies on traditional joinery techniques—no nails or screws—and each project is developed in collaboration with the client. Since launch, the company has shipped nearly 200 completed pieces to customers throughout the United States.
+The company builds custom furniture and lighting using traditional joinery methods — no nails, no screws — with each piece made by hand. Since launch, the shop has shipped nearly 200 one-of-a-kind items to customers across the United States. Work ranges from period reproductions to modern designs, all developed through direct collaboration with the client.
 
-The primary market is residential clients seeking custom-fit furnishings for specific spaces, though the maker also works with interior designers and specifiers on a project basis. All work is made to order, with no standard catalog inventory.
+Clients are primarily residential buyers seeking pieces for hard-to-fit spaces or distinctive statement furniture. The business also serves interior designers and decorators who source custom casegoods, tables, seating, and lighting fixtures. Every project begins with a design conversation and ships nationwide from the Hudson workshop.
 
-Voss cites his North Bennet Street School training and a commitment to hand-tool joinery as the foundation of the business, aiming to deliver heirloom-quality pieces that avoid modern fasteners. The shop welcomes custom variations on any design shown.
+Voss started the company to apply his North Bennet Street School training to furniture that combines historical construction techniques with contemporary function. The differentiator he emphasizes is the integrity of traditional joinery paired with a willingness to adapt any design to the customer's exact dimensions and aesthetic preferences.
 
 ## Known for
-- Traditional joinery without nails or screws
+- Traditional joinery with no nails or screws
 - North Bennet Street School training
-- Custom design collaboration on every piece
-- Nationwide shipping of 200+ completed pieces
+- Custom variations on every design
+- Handmade one-of-a-kind pieces
+- Nearly 200 pieces shipped nationwide
 
 ## Capabilities
-- Custom furniture manufacturing
-- Lighting fabrication
-- Traditional joinery (hand-tool)
-- Design consultation
+- Custom furniture making
+- Custom lighting fabrication
+- Traditional hand joinery
 - Period furniture reproduction
 - Modern furniture design
+- Design consultation
 
 ## Industries
-- Furniture
-- Lighting
+- Residential furniture
 - Custom woodworking
-- Residential interiors
+- Interior design furnishings
 
 ## Company details
 - **Company Type:** Manufacturer
-- **Ownership:** LLC
+- **Founded:** 2015
+- **Ownership:** Founder-owned (Jeff Voss)
 - **Headquarters:** Hudson, Massachusetts
 
 <details><summary>Sources</summary>
 
-- Location: Hudson, Massachusetts -> db
-- Founder: Jeff Voss -> page /
-- Business entity: Mission Accomplished Fine Woodcraft LLC -> page /
-- Training: North Bennet Street School -> page /about
-- Process: traditional construction (no nails, no screws) -> page /about
-- Products: custom furniture and lighting -> page /, /about
-- Volume: nearly 200 pieces shipped across USA -> page /about
-- Market: residential clients, custom variations -> page /about
-- Address: 1 Lilac Lane, Hudson, MA 01749 -> page /about
-- Copyright year 2015 -> page /about
+- Founded 2015 (© 2015 notice) -> /about
+- Founder Jeff Voss -> / and /about
+- Location: Hudson, MA (1 Lilac Lane) -> /about
+- Trained at North Bennet Street School -> /about
+- Traditional construction, no nails/no screws -> /about
+- Shipped nearly 200 pieces across USA -> /about
+- Custom furniture and lighting -> / and /about
+- Custom variations welcome -> /
 </details>
 
 ---
@@ -484,32 +491,31 @@ Voss cites his North Bennet Street School training and a commitment to hand-tool
 **Old description:** We sell a complete line of fresh and frozen breakfast and lunch sandwiches.
 
 ## About
-Mississippi Food Services Inc operates from Toomsuba, Mississippi, where it has been in business since 1977. The company’s founding year is documented, though the names of its founders and its ownership structure are not publicly disclosed.
+Mississippi Food Service, Inc. has operated from Toomsuba, Mississippi since its founding in 1977. The company remains a privately held business, though details on ownership structure or founders are not publicly disclosed.
 
-The company produces a complete line of fresh and frozen breakfast and lunch sandwiches, though the specific recipes, packaging formats, or production equipment are not detailed publicly. Its operations are certified under HACCP (Hazard Analysis Critical Control Point) and GMP (Good Manufacturing Practices) standards, indicating a structured approach to food safety and quality management in its manufacturing processes. Specific details about facility size, headcount, or production volumes are not provided.
+The company produces a range of fresh and frozen sandwiches for breakfast and lunch, along with box lunches and disaster relief meals. Its operations are certified under HACCP and GMP food safety standards, though specific facility size, employee count, and production volumes are not published.
 
-Mississippi Food Services supplies its sandwich products to convenience stores, vending machine operators, and providers of box lunches and disaster relief meals. These customer segments suggest a focus on ready-to-eat food distribution channels that require shelf-stable or frozen items.
+Primary customers include convenience stores and vending machine operators, as well as organizations requiring box lunches and disaster relief meals. The product line is tailored for grab-and-go food service channels.
 
-The company highlights its long-standing presence since 1977 and its HACCP and GMP certifications as markers of reliability in food production, though it does not publish a formal mission statement or unique founding narrative.
+The company highlights its long-standing presence, noting it has been in business since 1977, as a marker of reliability in the food service supply chain.
 
 ## Known for
 - In business since 1977
-- HACCP-certified food safety program
-- GMP-compliant manufacturing practices
-- Supplies convenience stores and vending machine operators
-- Provides box lunches and disaster relief meals
+- HACCP and GMP certified
+- Fresh and frozen breakfast and lunch sandwich line
+- Box lunch and disaster relief meal capability
 
 ## Capabilities
-- Fresh sandwich manufacturing
-- Frozen sandwich manufacturing
-- HACCP-certified food processing
-- GMP-certified food processing
+- Fresh sandwich production
+- Frozen sandwich production
+- Box lunch assembly
+- Disaster relief meal packaging
 
 ## Industries
 - Convenience stores
 - Vending machine operators
-- Box lunch suppliers
-- Disaster relief meal providers
+- Disaster relief agencies
+- Food service
 
 ## Certifications
 - HACCP
@@ -522,13 +528,14 @@ The company highlights its long-standing presence since 1977 and its HACCP and G
 
 <details><summary>Sources</summary>
 
-- Founded 1977 -> db
-- Headquarters Toomsuba, Mississippi -> db
+- Founded 1977 -> db, page '/'
+- Headquarters in Toomsuba, Mississippi -> db, page '/'
+- Sells fresh and frozen breakfast and lunch sandwiches -> db description
 - HACCP and GMP certifications -> db
-- Sells fresh and frozen breakfast and lunch sandwiches -> db
-- Serves convenience stores, vending machines, box lunches & disaster relief meals -> /
-- In Business Since 1977 -> /
-- P.O. Box 486, Toomsuba, Mississippi 39364 -> /
+- Serves convenience stores, vending machines, box lunches & disaster relief meals -> page '/'
+- Contact: P.O. Box 486, Toomsuba, MS 39364 -> page '/'
+- Phone: 601-632-4482 -> page '/'
+- Email: bodock@bellsouth.net -> page '/'
 </details>
 
 ---
@@ -538,45 +545,45 @@ The company highlights its long-standing presence since 1977 and its HACCP and G
 **Old description:** Numbering approximately 200, our team is the most talented, experienced, dedicated and driven in this industry. United as a single team, behind a single purpose, total customer satisfaction, we build upon each of our strengths to formulate and manufacture our products with consistent quality, on-time—every time. We know the value of hard work, diligence, precision, teamwork, honesty and complete customer service, and are focused on remaining the leading manufacturer of technical films. We also take the time to give back to those in need, whether by supporting our local food pantry or volunteering time, we care and pay it forward everyday.
 
 ## About
-Mississippi Polymers Inc operates from Corinth, Mississippi, with a workforce of approximately 200 employees. The company has built its reputation on the domestic production of technical films since its inception, though a specific founding year is not publicly disclosed. Ownership details and founder names are not provided in available sources.
+Based in Corinth, Mississippi, Mississippi Polymers Inc operates with a team of approximately 200 employees. The company has built its reputation on domestic manufacturing, stating that "Made in the U.S.A. isn't just a goal or a slogan, it's what we've done since our first day."
 
-The company specializes in calendered flexible polyvinylchloride (vinyl) films ranging from ultra-thin gauge up to 20 gauge, as well as polyolefin films. It also produces laminated constructions from single to 4-ply up to 72 inches wide, with topcoating capabilities, and maintains a stock line of expanded vinyl leather-like products, supported vinyl non-woven laminates, and vinyl-coated fabrics. Manufacturing includes in-line color detection and monitoring using X-Rite systems. The facility serves both custom formulation and stock product lines sold via an online web store.
+The company specializes in calendered flexible films ranging from ultra-thin gauge up to 20 gauge, primarily unsupported polyvinylchloride (vinyl) and other plastic films. It also produces laminated constructions up to 72 inches wide, with up to 4-ply configurations and topcoating capabilities. A stock line of supported vinyl fabrics, non-woven laminates, and expanded vinyl leather-like products is maintained for immediate shipment via an online web store. Recent investments include in-line color detection and monitoring using X-Rite technology.
 
-Mississippi Polymers serves industries including pressure-sensitive labels and graphics, wallcoverings, recreational vehicle and residential awnings, spa liners, signage, furniture upholstery, and automotive and recreational seating. Customers range from converters and fabricators to OEMs seeking compliant films for regulated applications.
+Mississippi Polymers serves markets including pressure-sensitive labels and decals, graphics and signage, decorative surfaces, wallcoverings, furniture upholstery, recreational and automotive seating, RV and residential awnings, and spa liners. The technical team works with customers to develop custom formulations, such as a CHCC-compliant flexible film developed after other suppliers declined.
 
-The company emphasizes made-in-USA production, regulatory compliance (Proposition 65, CPSIA, CONEG, REACH, EN-71), and technical problem-solving, citing examples such as developing a CHCC-compliant flexible film where others deemed it impossible. Their stated focus is on consistent quality, color accuracy, and long-term customer partnerships.
+The company emphasizes technical support and problem-solving, positioning its expert team as a resource for application development. It highlights consistent color matching, UV resistance, flame resistance, mold and mildew avoidance, and long-life weatherability as performance attributes built into its laminated constructions.
 
 ## Known for
-- Made in the U.S.A. since inception
-- In-line color detection and monitoring with X-Rite
-- Custom formulation of difficult regulatory-compliant films
-- Lamination up to 4-ply, 72-inch width with topcoating
-- Stock products sold by the roll through online store
+- In-line color detection and monitoring (X-Rite)
+- Custom film formulation for challenging requirements (e.g., CHCC-compliant flexible film)
+- Laminated constructions up to 72 inches wide, up to 4-ply with topcoating
+- Stock line of vinyl fabrics and laminates available via online web store
+- Dedicated technical support team for application development
 
 ## Capabilities
 - Calendered film production (ultra-thin to 20 gauge)
-- Laminated constructions (1-4 ply, up to 72 inches)
+- Laminated constructions (up to 4-ply, up to 72 inches width)
 - Topcoating of laminates
-- Vinyl fabric and non-woven laminate manufacturing
-- Expanded vinyl leather-like product manufacturing
-- Technical consultation and custom film formulation
+- Custom film formulation
 - In-line color detection and monitoring
-- Regulatory compliance testing (Proposition 65, CPSIA, CONEG, REACH, EN-71)
-- Stock line fulfillment (individual rolls)
+- Technical consultation and application development
+- Stock line fulfillment
+- Web store ordering
 
 ## Industries
-- Pressure sensitive labels and graphics
-- Wallcoverings
-- RV and residential awnings
-- Spa liners
-- Signage
-- Furniture upholstery
-- Automotive seating
-- Recreational seating
+- Pressure-sensitive labels and decals
+- Graphics and signage
 - Decorative surfaces
+- Wallcoverings
+- Furniture upholstery
+- Recreational seating
+- Automotive seating
+- RV awnings
+- Residential awnings
+- Spa liners
 
 ## Equipment
-- X-Rite in-line color detection system
+- X-Rite in-line color detection and monitoring system
 
 ## Certifications
 - Proposition 65
@@ -592,18 +599,14 @@ The company emphasizes made-in-USA production, regulatory compliance (Propositio
 
 <details><summary>Sources</summary>
 
-- Headquarters: Corinth, Mississippi -> db
-- Employee count: approximately 200 -> db and homepage
-- Products: calendered flexible vinyl films (ultra-thin to 20 gauge) -> homepage
-- Products: laminated constructions 1-4 ply up to 72 inches with topcoating -> homepage
-- Products: stock line of expanded vinyl leather-like, supported vinyl non-woven laminates, vinyl-coated fabrics -> homepage
-- Process: in-line color detection and monitoring with X-Rite -> homepage
-- Regulatory compliance: Proposition 65, CPSIA, CONEG, REACH, EN-71 -> homepage
-- Industries served: pressure sensitive labels/graphics, wallcoverings, RV/residential awnings, spa liners, signage, furniture upholstery, automotive/recreational seating -> homepage
-- Materials: polyvinylchloride, polyolefin, expanded vinyl, supported vinyl non-woven, vinyl-coated fabrics -> homepage
-- Differentiator: Made in USA since first day -> homepage
-- Differentiator: custom formulation of CHCC-compliant film -> homepage
-- Sales channel: stock products sold by individual roll via online web store -> homepage
+- Location: Corinth, Mississippi -> db
+- Employee count: approximately 200 -> db
+- Products: calendered flexible films (ultra-thin to 20 gauge), laminated constructions, stock line -> /
+- Industries served: pressure-sensitive labels, graphics, wallcoverings, upholstery, seating, awnings, spa liners -> /
+- Capabilities: custom formulation, in-line color detection (X-Rite), topcoating, up to 72-inch width, 4-ply lamination -> /
+- Certifications: Proposition 65, CPSIA, CONEG, REACH, EN-71 -> /
+- Materials: polyvinylchloride (vinyl), polyolefin, supported vinyl non-woven laminates, expanded vinyl leather-like, vinyl-coated fabrics -> /
+- Domestic manufacturing claim: Made in the U.S.A. since first day -> /
 </details>
 
 ---

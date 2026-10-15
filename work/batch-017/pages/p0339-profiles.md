@@ -3,36 +3,39 @@
 **Old description:** It all begins with an idea! Flint Creek Woodworking takes your idea and brings it to life. From design conception to installation, we are with you every step of the way! Custom technology helps us accomplish the dream project.
 
 ## About
-Flint Creek Woodworks was founded in the fall of 2006 in Gentry, Arkansas, initially operating as a cabinet door shop. The company has since expanded into a full-line custom cabinetry manufacturer serving residential projects across the region.
+Founded in the fall of 2006 in Gentry, Arkansas, Flint Creek Woodworks began as a cabinet door shop before expanding into a full-line custom cabinetry manufacturer. The company remains privately held and operates from its Arkansas facility.
 
-The company designs, builds, finishes, and installs custom cabinets for kitchens, bathrooms, home offices, and whole-home projects. Its manufacturing facility employs advanced CNC technology for precision machining, while its proprietary DuraSmooth™ finishing system provides a durable, high-quality surface. Construction features all-wood boxes with fully captured dado joinery, screwed-together assembly, soft-close drawer guides, and flush ends, with premium finishes included as standard.
+The company designs, manufactures, and installs custom cabinets for kitchens, bathrooms, home offices, and whole-home projects. Its manufacturing facility employs advanced CNC technology to produce all-wood cabinetry featuring fully captured dado joinery, screwed-together box construction, 1/2-inch drawer bottoms, and soft-close hardware. A proprietary DuraSmooth™ finishing system is applied in-house, delivering a durable, premium surface that comes standard on every piece.
 
-Flint Creek works with large-scale contractors, remodeling professionals, and individual homeowners, delivering tailored cabinetry for new construction and renovation projects. Its client base spans the residential construction and home remodeling sectors, with a focus on kitchen and bath applications.
+Flint Creek serves a mix of large-scale contractors, remodeling professionals, and individual homeowners across residential construction and renovation markets. The firm handles projects from initial design conception through final installation, using its own installation crews rather than subcontractors.
 
-The business emphasizes a collaborative, direct-to-customer approach, with on-staff professionals handling every phase from design through installation. The company cites its combination of traditional woodworking craftsmanship and modern CNC precision, along with a no-shortcuts construction philosophy, as the foundation of its reputation for durable, refined cabinetry.
+The business emphasizes a no-shortcuts approach: premium finishes and hardware are included as standard, not upgrades, and customers work directly with the company's team throughout the process. This combination of CNC precision, traditional joinery, and direct support is positioned as the core differentiator.
 
 ## Known for
-- All-wood cabinet boxes with fully captured dado joinery and screwed-together construction
-- Proprietary DuraSmooth™ finish system developed for custom cabinetry
-- On-staff professionals manage design, manufacturing, finishing, and installation
+- All-wood construction with fully captured dado joinery and screwed-together boxes
+- Premium finishes and soft-close drawer guides included standard
+- Proprietary DuraSmooth™ finishing system
+- On-staff professional installation crews
 - Advanced CNC technology for precision machining
-- Premium finishes and soft-close hardware included as standard
 
 ## Capabilities
 - Custom cabinet design
 - CNC machining
 - Cabinet manufacturing
-- Finishing (DuraSmooth)
-- Installation
-- Dado joinery
-- Screwed-box assembly
-- Soft-close hardware installation
+- Wood finishing (DuraSmooth™)
+- Professional installation
+- Joinery (dado, screwed construction)
+- All-wood construction
 
 ## Industries
 - Residential construction
-- Home remodeling
+- Kitchen and bath remodeling
 - Custom cabinetry
-- Kitchen and bath
+- Contractor services
+- Home renovation
+
+## Equipment
+- CNC machinery
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -41,14 +44,16 @@ The business emphasizes a collaborative, direct-to-customer approach, with on-st
 
 <details><summary>Sources</summary>
 
-- Founded in fall 2006 as a cabinet door shop -> /about
-- Headquartered in Gentry, Arkansas -> db
-- Offers custom cabinets for kitchens, bathrooms, home offices -> /
-- Uses advanced CNC technology for precision machining -> /about
-- Proprietary DuraSmooth™ finish system -> /
-- On-staff professionals handle installation -> /
-- Serves large-scale contractors, remodeling professionals, and homeowners -> /about
-- All-wood construction with captured dado joinery and screwed-together boxes -> /about
+- Founded fall 2006 as cabinet door shop -> /about
+- Located in Gentry, Arkansas -> db
+- Offers full line of custom cabinets -> /about
+- Manufactures all-wood cabinetry with CNC technology -> /about, /
+- Proprietary DuraSmooth™ finish -> /
+- On-staff installation -> /
+- Serves contractors, remodelers, homeowners -> /about
+- Premium finishes and soft-close hardware standard -> /about
+- Fully captured dado joinery, screwed-together boxes, 1/2" drawer bottoms -> /about
+- Direct customer support -> /about
 </details>
 
 ---
@@ -58,70 +63,76 @@ The business emphasizes a collaborative, direct-to-customer approach, with on-st
 **Old description:** Florida Circuit offers Electronic Component Kitting with complete Bill of Material coverage.
 
 ## About
-Florida Circuit LLC was established in 2000 in Sunrise, Florida. The company began as a full-service electronic component resource provider, focusing on kitting solutions and outsourced procurement services.
+Florida Circuit LLC was established in 2000 in Sunrise, Florida, as a full-service electronic component resource company. The business began by offering kitting solutions and outsourced procurement services to electronic manufacturers seeking to streamline their supply chains.
 
-The company operates warehouse and kitting production facilities that are ESD-safe and certified to ANSI/ESD S20.20, with conductive floors throughout. Its service portfolio includes component kitting with complete bill-of-materials coverage, tape-and-reel services (8–120 mm), baking and dry-pack moisture barrier bagging, component preparation, MPU/flash programming, light assembly, advanced inspection, component testing, counterfeit mitigation, solderability testing, vendor-managed inventory (VMI/3PL), procurement services, vendor base reduction, and supplier qualification. Florida Circuit also offers custom assembly such as box builds, battery integration, cable assemblies, and component alterations, while full turnkey PCB manufacturing is handled through third-party partners.
+The company provides a range of services including electronic component kitting with complete bill-of-material coverage, tape-and-reel packaging for component sizes from 8 to 120 mm, component preparation such as baking and dry-pack moisture barrier bagging, MPU and flash programming, light assembly, and various testing and inspection services including counterfeit mitigation and solderability testing. It also operates a vendor-managed inventory (VMI) program and offers procurement services such as vendor base reduction and supplier qualification. Facilities are ESD-safe and certified to ANSI/ESD S20.20.
 
-The primary customers are electronic manufacturers that need to reduce turnaround time, internal workload, and freight costs by consolidating components into single-kit part numbers. The company emphasizes its ability to meet demanding schedules and identify overall cost savings for these clients.
+Florida Circuit serves electronic manufacturers that need to reduce turnaround time, internal workload, and freight costs. Its kitting operation allows customers to receive a complete kit under a single part number, and the company's procurement team sources components from manufacturers or authorized distributors.
 
-Florida Circuit differentiates itself through its ISO 9001 certification, long-standing membership in ERAI and IDEA, and 22 years of experience in electronics procurement. Its Rapid Kitting service leverages this foundation to deliver complete kitting solutions for build requirements.
+The company emphasizes its ISO 9001 certification, long-standing membership in ERAI and IDEA, and a focus on identifying cost savings for clients. Its Rapid Kitting service leverages over two decades of experience in electronics procurement to deliver complete kitting solutions for build requirements.
 
 ## Known for
+- Single part number delivers a complete bill-of-materials kit
+- Tape-and-reel capability for component sizes 8–120 mm
+- ESD-safe facilities certified to ANSI/ESD S20.20
 - ISO 9001 certified quality management
-- ANSI/ESD S20.20 certified ESD-safe facilities
-- ERAI and IDEA membership for counterfeit mitigation standards
-- Complete BOM kitting under a single part number
-- Outsourced procurement with vendor base reduction and supplier qualification
+- Counterfeit mitigation and solderability testing services
 
 ## Capabilities
-- Component Kitting
-- Tape and Reel Services (8–120 mm)
-- Baking and Dry-Pack Moisture Barrier Bagging
-- Component Preparation
-- MPU/Flash Programming
-- Light Assembly
-- Advanced Inspection
-- Component Testing
-- Counterfeit Mitigation
-- Solderability Testing
-- Vendor Managed Inventory (VMI/3PL)
-- Procurement Services
-- Vendor Base Reduction
-- Supplier Qualification
-- Box Build Final Assembly
-- Battery Integration Assembly
-- Component Alterations / Preassembly Part Prep
-- Custom Cable Assemblies
-- Full Turnkey PCB Manufacturing (via third party)
-- Component Cost Reduction Analysis
-- ESD-Safe Handling and Storage
-- Rapid Kitting Service
+- Electronic component kitting
+- Tape and reel services
+- Baking and dry-pack moisture barrier bagging
+- Component preparation
+- MPU/flash programming
+- Light assembly
+- Advanced inspection
+- Component testing
+- Counterfeit mitigation
+- Solderability testing
+- Vendor managed inventory (VMI)
+- Procurement services
+- Vendor base reduction
+- Supplier qualification
+- Box build final assembly
+- Battery integration assembly
+- Component alterations and preassembly part prep
+- Custom cable assemblies
+- Turnkey PCB manufacturing coordination (through third-party assemblers)
+- Surface mount tape and reel services
+- Rapid kitting
 
 ## Industries
 - Electronics manufacturing
+- Electronic component procurement
 
 ## Certifications
 - ISO 9001
 - ANSI/ESD S20.20
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Installer / service company
 - **Founded:** 2000
 - **Headquarters:** Sunrise, Florida
 
 <details><summary>Sources</summary>
 
-- Founded 2000 -> /about-us
-- Headquarters Sunrise, Florida -> db
+- Founded in 2000 -> db, /about-us
+- Headquarters in Sunrise, Florida -> db
 - ISO 9001 certified -> /about-us
-- ANSI/ESD S20.20 certified facilities -> /about-us
-- ERAI and IDEA membership -> /about-us
-- ESD-safe warehouse with conductive floors -> /
-- Services: kitting, tape and reel, baking, component prep, programming, light assembly, inspection, testing, counterfeit mitigation, solderability testing, VMI, procurement, vendor base reduction, supplier qualification -> /
-- Custom assembly: box build, battery integration, cable assemblies, component alterations -> /
-- Full turnkey PCB manufacturing through third party -> /
-- Primary customers: electronic manufacturers -> /
-- Rapid Kitting service with 22 years experience -> /about-us
+- ANSI/ESD S20.20 certified -> /about-us
+- Member of ERAI and IDEA -> /about-us
+- Services: kitting, tape and reel, component preparation, testing, procurement, VMI -> /, /about-us
+- Serves electronic manufacturers -> /
+- Rapid Kitting value-added service -> /about-us
+- ESD safe facilities -> /about-us
+- One part number for complete kit -> /
+- Taping capability 8-120mm -> /
+- Counterfeit mitigation -> /
+- Solderability testing -> /
+- Box build final assembly -> /
+- Battery integration assembly -> /
+- Custom cable assemblies -> /
+- Turnkey PCB manufacturing through 3rd party -> /
 </details>
 
 ---
@@ -131,50 +142,46 @@ Florida Circuit differentiates itself through its ISO 9001 certification, long-s
 **Old description:** As a leading provider of metal fabrication services, we specialize in large-scale production runs for industrial clients. Our state-of-the-art equipment and cutting-edge technology allow us to produce parts quickly and accurately, giving us an edge over the competition. We understand the significance of meeting strict deadlines and producing high-quality components that meet or exceed industry standards. It's the main reason that we take pride in working closely with our clients to ensure their specific needs are met, and expectations exceeded.
 
 ## About
-Florida Metal Works operates from Gulf Breeze, Florida, where founder Shane Kahl established the veteran-owned shop in 2013 after seven years in the Air Force, including multiple deployments, where he developed his metal fabrication skills.
+Florida Metal Works operates from Gulf Breeze, Florida, where it was founded in 2013 by Shane Kahl. A veteran of the U.S. Air Force with seven years of service and multiple deployments, Kahl applied the metal fabrication skills he developed in the military to launch the shop as a veteran-owned business.
 
-The company provides custom metal fabrication and large-scale production runs for industrial clients, using CAD design, a CNC 6KW laser cutter, a 7-axis 150-ton CNC brake, and MIG, TIG, and robotic welding. It also offers fiber laser engraving for part identification and panel layouts. Products include custom brackets, cabinets, vehicle accessories, and aluminum railings and handrails for residential and commercial projects.
+The company provides custom metal fabrication and large-scale production runs for both consumer and industrial clients. Its capabilities include CNC 6 kW laser cutting, a 7-axis 150-ton CNC brake, MIG, TIG, and robotic welding, as well as fiber laser engraving for part marking and panel layouts. Work is programmed through CAD software and covers plate and sheet metals, with aluminum frequently used for railings, handrails, brackets, cabinets, and vehicle accessories.
 
-Customers span industrial, consumer, residential, commercial, marine, and automotive sectors. Examples include SeaDoo fishfinder mounts, Angler Racks, crawfish paddles, and Ford Super Duty cowl mounting brackets, alongside custom one-off pieces and volume orders.
+Customers span residential, commercial, marine, and automotive sectors. The shop’s own product line includes items such as Sea-Doo fishfinder mounts, Ford Super Duty cowl mounting brackets, tool and battery holders, and aluminum crawfish paddles, while custom projects address specialized brackets, enclosures, and structural components for industrial buyers.
 
-Kahl started the business to turn ideas into tangible parts, and the company emphasizes personalized service and quality for both one-off custom jobs and high-volume production.
+Kahl’s military background drives a focus on precision and deadline adherence, and the company emphasizes close collaboration with clients to translate requirements into finished parts.
 
 ## Known for
-- Veteran-owned and operated since 2013
-- CNC 6KW laser cutting and 7-axis 150-ton CNC brake
-- Robotic welding alongside MIG and TIG capabilities
-- Fiber laser engraving for part numbers and panel layouts
-- Serves both consumer and industrial markets
+- Veteran-owned and operated
+- Founded in 2013 by Air Force veteran Shane Kahl
+- In-house CNC 6 kW laser cutting and 7-axis 150-ton brake
+- Robotic welding and fiber laser engraving capabilities
+- Serves both consumer direct and industrial production runs
 
 ## Capabilities
-- Custom metal fabrication
-- Large-scale production runs
-- CNC laser cutting (6KW)
-- CNC braking (7-axis 150-ton)
-- MIG welding
-- TIG welding
-- Robotic welding
-- Fiber laser engraving
-- CAD design
-- Custom brackets
-- Cabinets
-- Vehicle accessories
-- Aluminum railings
-- Handrails
+- Custom Fabrication
+- Large-Scale Production
+- CNC Laser Cutting
+- CNC Braking
+- MIG Welding
+- TIG Welding
+- Robotic Welding
+- Fiber Laser Engraving
+- CAD Design
+- Consumer Product Manufacturing
 
 ## Industries
-- Industrial
 - Consumer
+- Industrial
 - Residential
 - Commercial
 - Marine
 - Automotive
 
 ## Equipment
-- CNC 6KW laser cutter
-- 7-axis 150-ton CNC brake
-- Robotic welding system
-- Fiber laser engraver
+- CNC 6KW Laser Cutting Machine
+- 7-Axis 150-Ton CNC Brake
+- Robotic Welding System
+- CAD Software
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -184,21 +191,19 @@ Kahl started the business to turn ideas into tangible parts, and the company emp
 
 <details><summary>Sources</summary>
 
-- Founded 2013 -> /about
+- Founded in 2013 -> /about
 - Veteran-owned -> /about
-- Founder Shane Kahl -> /about
-- Location Gulf Breeze, FL -> /
+- Founder Shane Kahl, Air Force veteran -> /about
+- Location Gulf Breeze, FL -> /about and /
 - CNC 6KW laser cutting -> /
 - 7-axis 150-ton CNC brake -> /
 - MIG, TIG, robotic welding -> /
 - Fiber laser engraving -> /
-- Custom brackets, cabinets, vehicle accessories, handrails -> /about
-- Large-scale production for industrial clients -> /
+- CAD software for design -> /
 - Consumer and industrial clients -> /
-- Aluminum railings -> /about
-- CAD software -> /
-- SeaDoo mount, Angler Rack, Ford Super Duty brackets -> /
-- Address 5480 Gulf Breeze Parkway -> /
+- Residential and commercial use -> /about
+- Products: brackets, cabinets, vehicle accessories, handrails -> /about
+- Sea-Doo mount, Ford Super Duty brackets -> /
 </details>
 
 ---
@@ -208,32 +213,32 @@ Kahl started the business to turn ideas into tangible parts, and the company emp
 **Old description:** : Owned and operated by Zach Hendricks since 2007, we build relationships with our clients to understand their vision and bring it to life with precision.
 
 ## About
-Florida Woodworks Inc. was founded in 2007 in Port St. Lucie, Florida, by Zach Hendricks, who remains the owner and operator. The company began as a custom cabinetry shop focused on building relationships with clients to bring their visions to life with precision.
+Florida Woodworks Inc. was founded in 2007 in Port St. Lucie, Florida, by Zach Hendricks, who continues to own and operate the company. Hendricks established the business to provide custom cabinetry and woodworking services tailored to individual client visions.
 
-The shop produces custom cabinetry and furniture from scratch, including kitchen and bathroom cabinets, closet organizers, built-ins, and freestanding pieces such as desks, beds, and tables. All items are made to order with custom sizing and color options, using American-sourced materials. The team handles design, fabrication, and installation for both residential and commercial projects.
+The company designs, builds, and installs custom kitchen and bathroom cabinetry, closet organizers, built-in units, and freestanding furniture such as desks, tables, and beds. All pieces are fabricated from scratch using premium, locally sourced American-made wood, with custom sizing and finish options. The shop serves both residential and commercial projects, handling everything from initial design through final installation.
 
-Florida Woodworks serves homeowners, builders, and business owners across the Treasure Coast and Palm Beach County, with a service area that includes Port St. Lucie, West Palm Beach, Boca Raton, Stuart, Fort Pierce, and ten other Florida communities. Clients range from individuals remodeling kitchens to commercial clients needing built-in office or entertainment cabinetry.
+Florida Woodworks works with homeowners, contractors, and business owners across the Treasure Coast and Palm Beach County, including Port St. Lucie, West Palm Beach, Boca Raton, Stuart, and Fort Pierce. Projects range from kitchen remodels and bathroom vanities to office built-ins and custom furniture for living spaces.
 
-The company emphasizes American-made craftsmanship, attention to detail, and personalized service led by Hendricks himself. Free estimates are provided to ensure transparency before work begins.
+The firm emphasizes meticulous craftsmanship, personalized service, and American-made quality as its core differentiators. Hendricks stresses building client relationships to translate visions into precise, durable products, and the company offers free estimates to ensure transparency from the start.
 
 ## Known for
-- Custom cabinets and furniture built from scratch
-- American-made materials and craftsmanship
-- Custom sizing and color options on every order
+- Meticulous craftsmanship with attention to every detail
+- Fully customized sizing, colors, and designs
+- American-made materials sourced locally
+- Owner-operated personalized service since 2007
 - Free, no-obligation estimates
-- Owner-operated with direct client communication
 
 ## Capabilities
-- Custom cabinetry
+- Custom cabinetry design and fabrication
 - Kitchen cabinet installation
-- Bathroom cabinet construction
+- Bathroom cabinet installation
 - Closet organizer installation
-- Custom built-ins
-- Custom furniture
-- Custom woodworking
-- Design consultation
-- Installation services
-- Finish application
+- Custom built-in fabrication
+- Custom furniture making
+- Custom trim work
+- Cabinet construction
+- Custom sizing and finishing
+- Residential and commercial project management
 
 ## Industries
 - Residential
@@ -247,21 +252,16 @@ The company emphasizes American-made craftsmanship, attention to detail, and per
 
 <details><summary>Sources</summary>
 
-- Founded 2007 -> db
-- Founded 2007 -> /about-us
-- Owned and operated by Zach Hendricks -> /
-- Owned and operated by Zach Hendricks -> /about-us
-- Headquarters Port St. Lucie, Florida -> db
-- Headquarters Port St. Lucie, Florida -> /
-- Custom cabinetry and furniture built from scratch -> /
-- Custom cabinetry and furniture built from scratch -> /about-us
-- American-made materials -> /
-- American-made materials -> /about-us
-- Serves commercial and residential clients -> /about-us
-- Service area includes 15 Florida cities -> /about-us
-- Free estimates -> /
-- Personalized service -> /
-- Personalized Service capability -> db
+- Founded in 2007 -> db
+- Owned and operated by Zach Hendricks -> db
+- Headquarters in Port St. Lucie, Florida -> db
+- Custom cabinetry and furniture since 2007 -> /about-us
+- Services: kitchen cabinetry, bathroom cabinetry, closet organizers, custom built-ins, custom furniture -> /
+- American-made, locally sourced materials -> /about-us
+- Serves residential and commercial clients -> /about-us
+- Areas served: Port St. Lucie, West Palm Beach, Boca Raton, etc. -> /about-us
+- Free estimates offered -> /
+- Emphasis on craftsmanship, personalized service, American-made quality -> /
 </details>
 
 ---
@@ -271,49 +271,64 @@ The company emphasizes American-made craftsmanship, attention to detail, and per
 **Old description:** The Food Bank of Delaware distributes food statewide through a network of partners. Food is easily accessible from local food closets, mobile pantries and schools. At the same time, we help individuals and families gain long-term financial stability by providing job training, nutrition education, financial coaching, SNAP outreach, and legislative advocacy. We do this with kindness, dignity, and respect.
 
 ## About
-The Food Bank of Delaware is headquartered in Newark, Delaware, with a branch in Milford. Founded approximately 45 years ago in a church basement, the organization has grown into a statewide network. It operates as a non-profit with no individual founders named in public materials.
+The Food Bank of Delaware operates from its headquarters in Newark and a branch in Milford, Delaware. Founded approximately 45 years ago in a church basement, the organization has grown into a statewide network of more than 600 partner agencies. President and CEO Cathy Kanefsky leads the nonprofit, which is governed by a board of directors and supported by volunteers, donors, and community partners.
 
-The food bank distributes millions of pounds of food annually—including pantry staples and fresh produce from its own farms—through a network of over 600 partner agencies, mobile pantries, school backpack programs, and senior home deliveries. It also runs free accelerated job training programs in warehousing/logistics and food service, alongside nutrition education, financial coaching, SNAP outreach, and legislative advocacy.
+The food bank distributes millions of pounds of food annually—including pantry staples and fresh produce from its own farms—through partner pantries, mobile pantries, school backpack programs, and direct senior deliveries. Beyond food distribution, it runs free accelerated job-training programs in warehousing/logistics and food service, and provides nutrition education, financial coaching, SNAP outreach, and legislative advocacy. The organization also operates cafes that serve the public while supporting culinary students.
 
-The organization serves food-insecure individuals and families across Delaware, including children, seniors, and low-income neighborhoods. Its partner pantries, schools, and community agencies act as distribution points, while its workforce development programs target adults seeking employment in logistics and culinary fields.
+Services reach food-insecure Delawareans—an estimated one in seven residents—along with adults seeking workforce credentials, seniors, children, and families. Partner agencies include community food closets, schools, and social-service organizations. Businesses, government agencies, and other nonprofits engage as volunteers, donors, and advocacy allies.
 
-The food bank’s stated mission is to inspire hope by addressing both immediate hunger and its root cause, poverty. It emphasizes compassion, respect, collaboration, empowerment, and innovation as core values, aiming to transform lives beyond temporary relief.
+The food bank was established to inspire hope by providing nourishment while collaborating on long-term solutions to hunger and poverty. Its stated values—compassion, respect, collaboration, empowerment, and innovation—drive a model that aims to move beyond temporary relief toward lasting financial stability for the people it serves.
 
 ## Known for
+- Grown from a church basement to a network of 600+ partners statewide over 45 years
+- Distributes millions of pounds annually, including fresh produce from its own farms
 - Free accelerated job training in warehousing/logistics and food service
-- Distributes millions of pounds of food annually from own farms and partners
-- Network of over 600 partner agencies statewide
-- Mobile pantry, school backpack, and senior delivery programs
-- Integrated nutrition education, financial coaching, and SNAP outreach
+- Mobile pantries, school backpack programs, and senior doorstep delivery
+- Integrates workforce training, financial coaching, and benefits outreach to address root causes of poverty
 
 ## Capabilities
 - Food distribution
-- Mobile pantry operation
-- School backpack meal program
-- Senior home delivery
-- Job training (warehousing/logistics)
-- Job training (food service)
+- Warehousing and logistics job training
+- Food service job training
 - Nutrition education
 - Financial coaching
-- SNAP outreach
+- SNAP outreach and enrollment assistance
 - Legislative advocacy
+- Mobile pantry operation
+- School backpack meal program
+- Senior meal delivery
+- Cafe and culinary student support
+- Farm-based fresh produce production
+- Partner agency network management
+- Community food access programs
+
+## Industries
+- Food banking and hunger relief
+- Nonprofit social services
+- Workforce development
+- Nutrition education and counseling
+- Community and economic development
+- Public policy advocacy
 
 ## Company details
 - **Company Type:** Other
-- **Ownership:** Non-profit
+- **Ownership:** Nonprofit
 - **Headquarters:** Newark, DE
 
 <details><summary>Sources</summary>
 
-- Headquartered in Newark, DE with branch in Milford, DE -> /about
-- Founded approximately 45 years ago in a church basement -> /about
-- Distributes millions of pounds of food annually -> /about
-- Network of over 600 partner agencies statewide -> /about
-- Operates mobile pantries, school backpack programs, senior deliveries -> /about
-- Offers free accelerated job training in warehousing/logistics and food service -> /about, /
-- Provides nutrition education, financial coaching, SNAP outreach, legislative advocacy -> /about
-- Mission to inspire hope by addressing hunger and poverty -> /about
-- Core values: compassion, respect, collaboration, empowerment, innovation -> /about
+- Headquarters in Newark, DE and branch in Milford, DE -> /about page
+- Founded ~45 years ago from church basement -> /about page
+- Network of over 600 partners statewide -> /about page
+- Distributes millions of pounds of food annually -> /about page
+- Fresh produce from own farms -> /about page
+- Free accelerated job training in warehousing/logistics and food service -> /about page and db capabilities
+- Nutrition education, financial coaching, SNAP outreach, legislative advocacy -> /about page
+- Mobile pantries, school backpack programs, senior deliveries -> /about page
+- Cafes supporting culinary students -> / homepage
+- 1 in 7 Delawareans food insecure -> / homepage
+- President/CEO Cathy Kanefsky -> / homepage
+- Mission and values (compassion, respect, collaboration, empowerment, innovation) -> /about page
 </details>
 
 ---
@@ -323,42 +338,53 @@ The food bank’s stated mission is to inspire hope by addressing both immediate
 **Old description:** systems bring positive and dramatic changes to food manufacturing
 
 ## About
-Food Physics was founded in 2012 in Boise, Idaho, and operates from facilities in Boise and Chelmsford, Essex, United Kingdom. The company was established to identify and maximize the potential of new technologies in the food and beverage industry.
+Food Physics was established in 2012 in Boise, Idaho, with a second base in Chelmsford, Essex, UK. The company was founded by Kalen McKenzie, who serves as partner and CEO, to identify and maximize the potential of pulsed electric field (PEF) technology in food and beverage processing.
 
-The firm provides Pulsed Electric Field (PEF) systems for food processing as the sole North American, UK, and Irish distributor for Elea, the German manufacturer of the equipment. Food Physics customizes each PEF system to a client’s production line, offers pilot-scale testing at its partner facilities in the United States, Britain, and Germany, and supports installations with a spare-parts dispatch and field-service team. More than 100 PEF systems have been installed globally.
+The company acts as the sole North American, UK, and Irish provider of PEF systems designed and built by its German partner Elea. Food Physics customizes these systems — including the Belt Advantage for solid foods, Pipe Advantage for liquids, and a PEF Pilot unit for R&D — and operates pilot halls in the United States, United Kingdom, and Germany for client-specific testing. More than 100 PEF systems have been installed worldwide, and the firm holds 17 pending PEF-related patents.
 
-Customers span food and beverage processing, agricultural processing, and scientific research. Applications include potato-chip and french-fry production, freeze-drying, vegetable and fruit processing, winemaking, spirulina extraction for food and textile dyes, and dried-produce improvement. The company serves clients of all sizes across North America, the United Kingdom, and Ireland.
+Food Physics serves food manufacturers, beverage producers, and research institutions. Its technology has been applied to potato chip and french fry production, vegetable and fruit processing, freeze drying, winemaking, and the extraction of natural dyes from spirulina (the Bequia Blue project). The company works with businesses of all sizes, from pilot-scale trials to full production lines.
 
-Food Physics emphasizes innovation, with over 17 PEF-related patents pending and collaborative R&D projects that drive new commercial applications. Its mission is to deliver systems that increase yield, improve product stability, and reduce waste, enabling products from freeze-dried foods to paints to reach the market efficiently.
+The firm’s stated mission is to deliver systems that increase yield, improve product stability, and reduce waste. It differentiates itself through direct access to Elea’s R&D team, on-site engineering support, a spare-parts dispatch service, and collaborative R&D projects that drive new commercial applications.
 
 ## Known for
-- More than 100 PEF systems installed globally
 - Sole provider of Elea PEF systems in North America, UK, and Ireland
-- Pilot hall facilities in the United States, Britain, and Germany
-- Over 17 PEF-related patents pending
-- Spare-parts dispatch for rapid service response
+- Over 100 PEF systems installed globally
+- 17 PEF-related patents pending
+- Pilot hall facilities in USA, UK, and Germany for custom testing
+- Spare-parts dispatch for rapid service
 
 ## Capabilities
-- Pulsed Electric Field (PEF) system integration and customization
-- PEF pilot-scale testing and trial batch processing
-- Food processing research and development
-- Spare parts supply and logistics
-- Field service, maintenance, and on-site training
-- Custom PEF system design for production lines
-- Collaborative R&D project management
+- Pulsed Electric Field (PEF) system supply and customization
+- Pilot-scale PEF testing
+- R&D for new PEF applications
+- Spare parts supply and dispatch
+- Field service and maintenance
+- On-site installation and training
+- PEF processing for solid foods (Belt Advantage)
+- PEF processing for liquid foods (Pipe Advantage)
+- Freeze drying enhancement
+- Potato and vegetable processing
+- French fry production optimization
+- Winemaking process improvement
+- Natural dye extraction (spirulina)
 
 ## Industries
-- Food processing
-- Beverage processing
-- Agricultural processing
-- Food technology research and development
-- Scientific research
+- Food manufacturing
+- Beverage manufacturing
+- Food research and development
+- Potato processing
+- Vegetable and fruit processing
+- Freeze drying
+- French fry production
+- Winemaking
+- Natural dye extraction
 
 ## Equipment
-- Elea Pulsed Electric Field systems
-- PEF Pilot trial batch system
-- Belt Advantage system (tubers, roots, vegetables, fruits)
-- Pipe Advantage system (liquid foods, non-foods, wastewater)
+- Elea PEF systems
+- Belt Advantage
+- Pipe Advantage
+- PEF Pilot
+- Pilot hall facilities (USA, UK, Germany)
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -367,20 +393,19 @@ Food Physics emphasizes innovation, with over 17 PEF-related patents pending and
 
 <details><summary>Sources</summary>
 
-- Founded in 2012 -> /about-us
-- Headquarters in Boise, Idaho and Chelmsford, Essex, UK -> /about-us
+- Founded 2012 -> /about-us
+- Headquarters Boise, Idaho and Chelmsford, Essex -> /about-us
+- Partnership with Elea (German manufacturer) -> /
 - Sole provider of Elea PEF systems in North America, UK, Ireland -> /
-- More than 100 PEF systems installed globally -> /
-- Pilot hall facilities in America, Britain, Germany -> /
-- Over 17 PEF-related patents pending -> /
-- Spare-parts dispatch for quick delivery -> /
+- Over 100 PEF systems installed globally -> /
+- 17 PEF-related patents pending -> /
+- Pilot hall facilities in USA, UK, Germany -> /
 - Team members: Kalen McKenzie (Partner/CEO), Riley Gomez (Operations Manager), David Lethcoe (Field Service Manager), Rylan McKenzie (Finance Manager), Rose Saxton (Applications Technician) -> /about-us
-- Applications: potato chips, freeze drying, french fries, veggie processing, winemaking, spirulina extraction (Bequia Blue), PEF-Dried project -> / and /about-us
-- Industries: food, beverage, scientific sectors -> /
-- Equipment: Elea PEF systems, PEF Pilot, Belt Advantage, Pipe Advantage -> /
-- Customization of PEF systems for production lines -> /
-- Collaborative R&D projects -> /about-us
-- Mission: high-quality food with greater yield and stability -> /about-us
+- PEF systems: Belt Advantage, Pipe Advantage, PEF Pilot -> /
+- Applications: potato chips, freeze drying, french fries, veggie processing -> /
+- Projects: winemaking, Bequia Blue (spirulina dye), PEF-Dried -> /about-us
+- Spare-parts dispatch -> /
+- Field service and on-site support -> /about-us
 </details>
 
 ---
@@ -390,36 +415,39 @@ Food Physics emphasizes innovation, with over 17 PEF-related patents pending and
 **Old description:** Since 1989, Food Process Systems has been designing and manufacturing innovative, Made-in-America food processing equipment that helps manufacturers improve productivity, sanitation, and worker safety.
 
 ## About
-Food Process Systems Inc. is based in Lodi, Wisconsin, and has been designing and manufacturing food processing equipment since 1989. The company is veteran-owned and operated; in June 2025 it was acquired by Viper Engineering & Manufacturing LLC, a firm founded by Air Force veteran Brian J. Gilbertson. All customer-facing operations continue under the Food Process Systems name at the existing Lodi facility.
+Food Process Systems was founded in 1989 in Lodi, Wisconsin, and has been designing and manufacturing food processing equipment for over three decades. The company is veteran-owned and operated; in June 2025 it was acquired by Viper Engineering & Manufacturing LLC, a firm founded by Air Force veteran Brian J. Gilbertson. All operations continue at the original Lodi facility under the Food Process Systems name.
 
-The company produces vibratory conveyors, coating equipment, stainless steel decking, vibratory breaders, batter applicators, graders, and custom-engineered processing systems. It also provides preventative maintenance, installation and commissioning, equipment audits, retrofits and upgrades, training, and 24/7 service and repair. Manufacturing takes place at its Lodi plant, where a team of engineers, technicians, and specialists supports equipment sold worldwide.
+The company produces vibratory conveyors, coating equipment, stainless steel decking, custom-engineered processing systems, breaders, batter applicators, and graders. It also supplies original replacement parts, with a minimum parts order of $200, and provides a full range of services including 24/7 repair, preventative maintenance, installation and commissioning, equipment audits, retrofits, upgrades, and operator training.
 
-Food Process Systems serves poultry, seafood, meat, dairy, snack, packaging, cereal, pet food, produce, dry goods, baked goods, candy, and frozen-food processors. Its equipment is used by food manufacturers seeking to improve productivity, sanitation, and worker safety across those segments.
+Food Process Systems serves food processors worldwide across poultry, seafood, meat, dairy, snack, packaging, cereal, pet food, produce, dry goods, baked goods, candy, and frozen applications. Its equipment is designed to improve productivity, sanitation, and worker safety in processing plants.
 
-The company emphasizes engineering excellence, customer collaboration, and reliable performance, stating that its Made-in-America equipment helps processors meet production challenges with confidence. It prioritizes integrity and service, and notes that using original FPS parts preserves equipment warranties and compatibility.
+The company emphasizes its American-made manufacturing, veteran ownership, and the expertise of technicians who helped build the equipment. Its stated mission prioritizes integrity and service, aiming to build lasting customer relationships and deliver long-term value through innovative, sanitary, labor-saving solutions.
 
 ## Known for
-- Veteran-owned and operated, with all equipment made in the USA
+- Veteran-owned and operated with all equipment made in the USA
 - 24/7 emergency service and repair by technicians who built the equipment
-- Preventative maintenance programs claimed to extend service life by 20–40%
-- Original FPS parts guarantee compatibility and preserve warranties
-- Custom-engineered vibratory solutions for breading, battering, and grading
+- Preventative maintenance programs that can extend equipment life by 20–40%
+- Custom-engineered vibratory and non-vibratory conveying solutions
+- Original parts guarantee compatibility and preserve warranty
 
 ## Capabilities
-- Vibratory conveyors
-- Coating equipment
-- Stainless steel decking
+- Vibratory conveyor manufacturing
+- Coating equipment manufacturing
+- Stainless steel decking fabrication
 - Custom-engineered processing systems
-- Vibratory breaders
-- Batter applicators
-- Graders
+- Breader manufacturing
+- Batter applicator manufacturing
+- Grader manufacturing
+- Platform and mezzanine fabrication
+- Non-vibratory equipment manufacturing
+- Original parts supply
+- Equipment service and repair
 - Preventative maintenance
-- Startup/commissioning/installation
+- Startup, commissioning, and installation
 - Equipment audits
 - Retrofits and upgrades
-- Training
-- Service and repairs
-- Parts supply
+- Operator training
+- Emergency repair service
 
 ## Industries
 - Poultry
@@ -429,21 +457,25 @@ The company emphasizes engineering excellence, customer collaboration, and relia
 - Snack
 - Packaging
 - Cereal
-- Pet food
+- Pet Food
 - Produce
-- Dry goods
-- Baked goods
+- Dry Goods
+- Baked Goods
 - Candy
-- Frozen foods
+- Frozen Apps
 
 ## Equipment
 - Vibratory conveyors
 - Coating equipment
 - Stainless steel decking
-- Vibratory breaders
+- Custom-engineered processing systems
+- Breaders
 - Batter applicators
 - Graders
-- Custom-engineered processing systems
+- Platforms and mezzanines
+- Non-vibratory equipment
+- Vibratory breaders
+- Vibratory batter applicators
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -453,22 +485,21 @@ The company emphasizes engineering excellence, customer collaboration, and relia
 
 <details><summary>Sources</summary>
 
-- Founded 1989 -> /
+- Founded 1989 -> /about
 - Headquarters Lodi, Wisconsin -> /
 - Veteran-owned and operated -> /
 - Acquired by Viper Engineering & Manufacturing LLC June 2025 -> /about
-- Viper founded by Air Force veteran Brian J. Gilbertson -> /about
-- Designs and manufactures vibratory conveyors, coating equipment, stainless steel decking, custom-engineered systems -> /
-- Produces vibratory breaders, batter applicators, graders -> /about
-- Services: preventative maintenance, installation, audits, retrofits, training, 24/7 repair -> /services
-- Industries served: poultry, seafood, meat, dairy, snack, packaging, cereal, pet food, produce, dry goods, baked goods, candy, frozen -> /
-- Minimum parts order $200 -> /
-- Team includes engineers, technicians, specialists -> /about
-- Legacy members Jim Bakos (since 2002) and Scott Rose (1993-2025) -> /about
-- Tradeshows: PACK EXPO, IPPE, SEAFOOD EXPO -> /about
-- Commitment to engineering excellence, customer collaboration, reliable performance -> /
-- Prioritize integrity and service -> /about
-- Original parts preserve warranty -> /
+- Brian J. Gilbertson Air Force veteran founder of Viper -> /about
+- Designs and manufactures vibratory conveyors, coating equipment, stainless steel decking, custom-engineered processing systems -> /
+- Produces breaders, batter applicators, graders -> /about
+- Original parts supply with minimum order $200 -> /
+- Services: 24/7 repair, preventative maintenance, installation, audits, retrofits, training -> /services
+- Industries served: poultry, seafood, meat, dairy, snack, packaging, cereal, pet food, produce, dry goods, baked goods, candy, frozen apps -> /
+- Mission emphasizes integrity, service, American-made, veteran ownership -> /about
+- Team includes engineers, technicians, industry specialists -> /about
+- Legacy member Jim Bakos introduced vibratory conveyance 2006 -> /about
+- Scott Rose joined 1993, passed April 2025 -> /about
+- Tradeshows: PACK EXPO, IPPE SHOW, SEAFOOD EXPO -> /about
 </details>
 
 ---
@@ -478,48 +509,49 @@ The company emphasizes engineering excellence, customer collaboration, and relia
 **Old description:** FPWC, Inc. has operated since 1946 and is owned by Pilgrim's Pride Corporation and Cargill Meat Solutions. Since the beginning, the water cooperative has been a reliable source of
 
 ## About
-Food Processors Water Cooperative, Inc. (FPWC) operates as a public water supply in Timberville, Virginia. Founded in 1946, the cooperative is owned by Pilgrim's Pride Corporation and Cargill Meat Solutions. It began with four customers, one employee, 300,000 gallons of storage, 4,428 feet of distribution lines, and a treatment plant capable of 500,000 gallons per day.
+Food Processors Water Cooperative, Inc. (FPWC) operates a public water supply in Timberville, Virginia, drawing from the North Fork of the Shenandoah River. Founded in 1946, the cooperative is owned by two major protein processors, Pilgrim's Pride Corporation and Cargill Meat Solutions. It began with four customers, one employee, 300,000 gallons of storage, 4,428 feet of distribution lines, and a plant rated for 500,000 gallons per day.
 
-The facility draws water from the North Fork of the Shenandoah River and employs the Roberts Filter Manhattan Process of High Rate filtration. Treatment steps include disinfection, coagulation, flocculation, sedimentation, and filtration through four mixed media filters running at 1,360 gallons per minute. Current capacity is 2,000,000 gallons per day with 3,300,000 gallons of storage across three tanks and 13,239 feet of underground distribution lines. Seven employees serve 28 bulk-use customers, delivering nearly 500 million gallons annually.
+Today the facility employs the Roberts Filter Manhattan Process, a high-rate filtration method, across four mixed media filters that produce finished water at 1,360 gallons per minute. Treatment capacity stands at 2,000,000 gallons per day, supported by three storage tanks holding 3,300,000 gallons total. An underground distribution network of 13,239 feet serves 28 bulk-use customers, with annual sales approaching 500 million gallons. The plant runs with seven employees and certified operators who manage disinfection, coagulation, flocculation, sedimentation, and filtration, backed by on-site laboratory testing.
 
-Primary customers include the two owning food manufacturers, Pilgrim's Pride and Cargill, as well as the Towns of Broadway and Timberville and other area businesses and residents. The cooperative provides potable water for food processing operations and municipal supply.
+Primary customers include the two owner companies — both large-scale food manufacturers — as well as the Towns of Broadway and Timberville and other area businesses and residents. The cooperative's output supports food processing operations and municipal supply across the Broadway-Timberville region.
 
-FPWC has earned multiple Excellence in Operations awards from the Virginia Department of Health, Office of Water Programs, recognizing its cross-connection control, financial management, water quality process control, distribution system management, and plant staffing and training. It is noted as the second oldest High Rate water treatment plant in Virginia.
+FPWC is noted as the second oldest high-rate treatment plant in Virginia. It has earned multiple Excellence in Operations awards from the Virginia Department of Health, Office of Water Programs, recognizing cross-connection control, financial management, water quality process control, distribution system management, and plant staffing and training.
 
 ## Known for
-- Roberts Filter Manhattan Process (High Rate filtration)
-- Second oldest High Rate water treatment plant in Virginia
-- Excellence in Operations awards across five categories from Virginia Department of Health
-- 2,000,000 gallons per day treatment capacity
-- 3,300,000 gallons finished water storage
+- Second oldest high-rate water treatment plant in Virginia
+- Roberts Filter Manhattan Process high-rate filtration
+- 2 million gallons per day treatment capacity
+- Virginia Department of Health Excellence in Operations awards across five categories
 
 ## Capabilities
-- High Rate filtration (Roberts Filter Manhattan Process)
+- Water treatment
+- High-rate filtration (Roberts Filter Manhattan Process)
 - Disinfection
 - Coagulation
 - Flocculation
 - Sedimentation
 - Mixed media filtration
 - Water quality laboratory testing
-- Underground water distribution
-- Bulk potable water supply
-- Cross-connection control program
-- Distribution system management
+- Water distribution
+- Cross-connection control
 
 ## Industries
 - Food manufacturing
-- Municipal government
-- Commercial/industrial
+- Municipal water supply
+- Commercial
 - Residential
 
 ## Equipment
 - Roberts Filter Manhattan Process system
 - Four mixed media filters
-- Three finished water storage tanks (3,300,000 gallons total)
-- Underground distribution system (13,239 feet)
+- Three storage tanks (3.3M gal total)
+- Underground distribution system (13,239 ft)
+
+## Certifications
+- Virginia Department of Health Office of Water Programs Excellence in Operations awards
 
 ## Company details
-- **Company Type:** Installer / service company
+- **Company Type:** Manufacturer
 - **Founded:** 1946
 - **Employees:** 7
 - **Ownership:** Owned by Pilgrim's Pride Corporation and Cargill Meat Solutions
@@ -527,21 +559,23 @@ FPWC has earned multiple Excellence in Operations awards from the Virginia Depar
 
 <details><summary>Sources</summary>
 
-- Founded 1946 -> /
+- Founded 1946 -> db
+- Headquarters Timberville, Virginia -> db
 - Owned by Pilgrim's Pride Corporation and Cargill Meat Solutions -> /
-- Location: Timberville, Virginia -> /
-- Roberts Filter Manhattan Process of High Rate filtration -> /
-- Treatment steps: disinfection, coagulation, flocculation, sedimentation, filtration -> /
-- Four mixed media filters at 1,360 gallons per minute -> /
-- Three storage tanks, 3,300,000 gallons total capacity -> /
-- 13,239 feet of distribution lines -> /
-- 28 bulk-use customers -> /
-- 7 employees -> /
+- Roberts Filter Manhattan Process high-rate filtration -> /
+- Four mixed media filters, 1,360 gpm -> /
 - Treatment capacity 2,000,000 gallons per day -> /
-- Annual water sales nearly 500 million gallons -> /
+- Three storage tanks, 3,300,000 gallons total -> /
+- 13,239 feet distribution lines -> /
+- 28 bulk-use customers -> /
+- Annual sales nearly 500 million gallons -> /
+- Seven employees -> /
+- Virginia Department of Health Excellence in Operations awards (five categories) -> /
+- Second oldest high-rate plant in Virginia -> /
+- Water source: North Fork Shenandoah River -> /
+- Treatment steps: disinfection, coagulation, flocculation, sedimentation, filtration -> /
+- Certified operators, on-site laboratory testing -> /
 - Customers include Pilgrim's Pride, Cargill, Towns of Broadway and Timberville -> /
-- Excellence in Operations awards from Virginia Department of Health (five areas) -> /
-- Second oldest High Rate water treatment plant in Virginia -> /
 </details>
 
 ---
@@ -551,32 +585,31 @@ FPWC has earned multiple Excellence in Operations awards from the Virginia Depar
 **Old description:** In 1985, Food Service Specialties was founded in Columbus, Wisconsin by lifelong best friends Don Leick and Steve Lineer. During a visit to a potential customer, they had been asked to match and scale up a custom pizza sauce in an attempt to create uniformity and consistency in their customer’s sauce from batch to batch.
 
 ## About
-Food Service Specialties was founded in 1985 in Columbus, Wisconsin, by lifelong friends Don Leick and Steve Lineer. The pair started the business after a customer asked them to match and scale up a custom pizza sauce to achieve batch-to-batch consistency. The company remains family-owned, with the second generation now active in daily operations.
+Food Service Specialties was founded in 1985 in Columbus, Wisconsin, by lifelong friends Don Leick and Steve Lineer. The pair started the business after a prospective customer asked them to match and scale up a custom pizza sauce to ensure batch-to-batch consistency. The company remains family-owned, with the next generation now active in management.
 
-The firm formulates, manufactures, and customizes tomato- and dairy-based sauces for foodservice and retail channels. After outgrowing its original plant, FSS relocated to Red Wing, Minnesota, in 1998, constructing a 45,000-square-foot facility.
+The company formulates, manufactures, and packages tomato- and dairy-based sauces for foodservice, frozen-food, and retail customers.
 
-Customers include independent and chain restaurants, frozen-food manufacturers, and retail brands across the United States and overseas. The company produces private-label and co-packed sauces tailored to each client’s specifications.
+Its sauces are supplied to restaurants, frozen-food manufacturers, and retail brands across the United States and internationally.
 
-Leick and Lineer launched the business to solve a consistency problem in sauce production, and the company says its mission today is to deliver safe, legal, high-quality food products to the marketplace.
+The business was built on the premise of delivering uniform, high-quality custom sauces, and it continues to emphasize safe, legal, and consistent products for every batch.
 
 ## Known for
-- Custom sauce matching and scaling for batch consistency
+- Custom sauce formulation and batch-to-batch consistency
 - Family-owned with second-generation leadership
-- Serves restaurants, frozen food manufacturers, and retail brands domestically and internationally
-- Focus on safe, legal, high-quality food products
+- Serves restaurant, frozen food, and retail channels domestically and internationally
+- Commitment to safe, legal, high-quality food products
 
 ## Capabilities
 - Custom sauce formulation
-- Sauce manufacturing
+- Sauce matching and replication
 - Tomato-based sauce production
 - Dairy-based sauce production
-- Private label sauce production
-- Contract sauce manufacturing
+- Sauce packaging
 
 ## Industries
-- Restaurants
-- Frozen food manufacturers
-- Retail food brands
+- Restaurant
+- Frozen food manufacturing
+- Retail food
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -586,16 +619,15 @@ Leick and Lineer launched the business to solve a consistency problem in sauce p
 
 <details><summary>Sources</summary>
 
-- Founded in 1985 in Columbus, Wisconsin by Don Leick and Steve Lineer -> /about-us
-- Started by matching and scaling up a custom pizza sauce for a customer -> /about-us
-- Creates, matches, and customizes tomato and dairy-based sauces -> /about-us
-- Serves restaurants, frozen food manufacturers, and retail applications domestically and internationally -> /about-us
-- Moved to Red Wing, Minnesota in 1998 and built a 45,000 sq ft facility -> /about-us
-- Added 34,000 sq ft in 2007 -> /about-us
-- Remains family-owned with next generation active -> /about-us
+- Founded 1985 in Columbus, WI by Don Leick and Steve Lineer -> /about-us
+- Started after customer request to match and scale custom pizza sauce -> /about-us
+- Family-owned with next-generation ownership -> /about-us
+- Moved to Red Wing, MN in 1998; built 45,000 sq ft facility -> /about-us
+- Added 34,000 sq ft expansion in 2007 -> /about-us
+- Produces tomato- and dairy-based sauces for restaurants, frozen food manufacturers, and retail -> /
+- Serves domestic and international markets -> /
 - Mission to provide safe, legal, high-quality food products -> /about-us
-- Headquarters in Red Wing, Minnesota -> db
-- Company type: Manufacturer -> db
+- Headquarters Red Wing, Minnesota -> db
 </details>
 
 ---
@@ -605,59 +637,67 @@ Leick and Lineer launched the business to solve a consistency problem in sauce p
 **Old description:** We’ve proudly owned and operated our 11,000 square-foot, federally-certified food facility and HQ in north-Denver since 2011. Our teams have imagined, prepared and delivered millions of units of private label, grab-and-go, quick serve and other food concepts for our clients and partners nationwide.
 
 ## About
-Food Solutions, Inc. operates an 11,000-square-foot USDA-, FDA-, and SQF-certified food production facility and headquarters in north Denver, Colorado. The company traces its roots to 2006 when sister company Western Deli Provisions launched as a wholesale distributor of premium deli foods. In 2011 the current certified facility opened, and in 2015 Food Solutions was formed as a full-service co-manufacturer and prepared-foods producer under founder and president Steve Lederer.
+Food Solutions, Inc. operates an 11,000-square-foot, USDA-, FDA- and SQF-certified food production facility and headquarters in north Denver, Colorado. The business traces its roots to 2006, when Steve Lederer launched Western Deli Provisions as a wholesale distributor of premium deli-style foods across Colorado’s Front Range. In 2011 the company opened its own fully staffed plant, and in 2015 Lederer formed Food Solutions as a full-service co-manufacturer, prepared-foods producer and distribution partner. Lederer serves as founder and president, with Al Bandin as vice president of culinary development.
 
-The facility houses kettle cooking, smokehouse, and sausage manufacturing equipment, with a 30’x40’ production room, a 60’x40’ cook and raw production room, a 20’x40’ cooler with production space, a 10’x50’ freezer, and two drive-in delivery docks. The company provides end-to-end co-manufacturing services—recipe development, batching and scaling, labeling, production, fulfillment, and delivery—for private-label, grab-and-go, quick-serve, and other prepared food concepts. It reports having produced millions of units for clients nationwide.
+The facility houses kettle cooking, smokehouse and sausage manufacturing equipment, a 30-by-40-foot production room, a 60-by-40-foot cook-and-raw room, a 20-by-40-foot cooler with production space, a 10-by-50-foot freezer and two drive-in docks. The team — plant supervisors, quality-assurance managers, cooks, butchers, assembly crews and administrative staff — produces millions of units annually of private-label, grab-and-go, quick-serve and signature prepared foods. Services span concept development, recipe scaling, labeling design, production scheduling, fulfillment and delivery.
 
-Food Solutions serves executive chefs and culinary directors of hotels, resorts, and multi-unit restaurant operators, as well as food-industry entrepreneurs and early-stage ventures. Its Signature line of grab-and-go products is sold at airports (including Denver International Airport), education and healthcare institutions, and retail venues across the country. Regional and national food distributors also rely on the company for specialty food concepts and custom culinary services.
+Food Solutions works with executive chefs and culinary directors of hotels, resorts and multi-unit restaurant operators, as well as food-service entrepreneurs and early-stage ventures. Regional and national distributors rely on the company for specialty concepts and custom culinary services. Its products are sold at Denver International Airport, education and healthcare institutions, and retail venues nationwide. Past projects include a Colorado-based quick-service sandwich chain and a Denver-based quick-service pizza brand.
 
-The company emphasizes a “work smart, work together, deliver delicious” philosophy and maintains SQF certification consistently above industry compliance levels, with mandatory annual third-party audits and unannounced audits every three years. It positions itself as a turn-key partner that handles everything from concept development through final delivery.
+The company’s stated mission is “Work smart. Work together. Deliver delicious,” guided by the philosophy that it is “only as good as our last batch.” Food Solutions emphasizes its turn-key co-manufacturing model, SQF certification that consistently exceeds industry compliance thresholds, and a collaborative approach that includes client tastings and planning sessions at its on-site conference space.
 
 ## Known for
-- Turn-key co-manufacturing from concept through delivery
-- SQF certification exceeding industry compliance with annual third-party audits
-- In-house kettle cooking, smokehouse, and sausage manufacturing capabilities
-- Signature line of grab-and-go products distributed nationally
-- Facility includes dedicated production, cook, cooler, and freezer rooms with drive-in docks
+- USDA, FDA, and SQF-certified facility with annual third-party and unannounced audits
+- Turn-key co-manufacturing from concept development through fulfillment and delivery
+- 11,000 sq ft north Denver plant with kettle cooking, smokehouse, and sausage equipment
+- Produces millions of units annually for private label, grab-and-go, and quick-serve concepts
+- Serves hotels, resorts, restaurant chains, airports, healthcare, education, and retail
 
 ## Capabilities
 - Co-manufacturing
 - Prepared foods production
-- Private label production
-- Grab-and-go production
-- Quick-serve production
-- Recipe development
-- Batching and scaling
-- Labeling design and production
-- Fulfillment and delivery
+- Private label manufacturing
+- Grab-and-go food production
+- Quick serve food production
 - Kettle cooking
 - Smokehouse processing
 - Sausage manufacturing
-- Food safety compliance (USDA, FDA, SQF)
-- Product tastings and client meetings
+- Product labeling design and production
+- Recipe batching and scaling
+- Production planning and scheduling
+- Fulfillment and delivery
+- Food safety compliance (FDA, USDA, SQF)
+- Concept-to-table culinary development
+- Custom culinary services
+- Distribution partnership
+- Facility tours and client tastings
 
 ## Industries
 - Hotels
 - Resorts
-- Restaurants
+- Restaurant operators (multi-unit)
+- Food service entrepreneurs
+- Early-stage ventures
+- Food distributors (regional and national)
 - Airports
 - Education institutions
 - Healthcare institutions
 - Retail venues
-- Food distribution
-- Food service
-- Food industry entrepreneurs
-- Early-stage ventures
+- Quick service restaurants
 
 ## Equipment
 - Kettle cooking equipment
 - Smokehouse
 - Sausage manufacturing equipment
+- 30' x 40' production room
+- 60' x 40' cook and raw production room
+- 20' x 40' cooler with production space
+- 10' x 50' freezer
+- 2 drive-in delivery and deployment docks
 
 ## Certifications
-- USDA
-- FDA
-- SQF
+- USDA certified
+- FDA certified
+- SQF (Safe Quality Food) certification
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -666,19 +706,22 @@ The company emphasizes a “work smart, work together, deliver delicious” phil
 
 <details><summary>Sources</summary>
 
-- Facility opened 2011 -> /about
-- Food Solutions formed 2015 -> /about
-- Founder Steve Lederer -> /about
-- 11,000 sq ft facility -> /about, db
-- USDA, FDA, SQF certified -> /about
-- Kettle cooking, smokehouse, sausage equipment -> /about
-- Production room dimensions -> /about
-- Millions of units produced -> db, /about
-- Turn-key co-manufacturing for hotels, resorts, restaurants -> /about
-- Signature line sold at airports, education, healthcare, retail -> /about
-- Food distributors as clients -> /about
-- SQF certification above compliance with annual audits -> /about
-- 50% down payment requirement -> db
+- Founded 2006 as Western Deli Provisions -> /about
+- Opened 11,000 sq ft USDA/FDA/SQF-certified facility in north Denver in 2011 -> /about
+- Formed Food Solutions as full-service co-manufacturer in 2015 -> /about
+- Founder & President Steve Lederer -> /about
+- VP Culinary Development Al Bandin -> /about
+- Facility features: kettle cooking, smokehouse, sausage manufacturing equipment -> /about
+- Facility specs: 30'x40' production room, 60'x40' cook/raw room, 20'x40' cooler, 10'x50' freezer, 2 drive-in docks -> /about
+- SQF certification with annual third-party audits and unannounced audits every three years -> /about
+- Produces millions of units of private label, grab-and-go, quick serve concepts -> /about
+- Serves hotels, resorts, restaurant operators, entrepreneurs, distributors, airports, education, healthcare, retail -> /about
+- Produced for Colorado-based quick service sandwich chain and Denver International Airport clients -> capabilities
+- Produced for Denver-based quick-service pizza brand -> capabilities
+- Turn-key production, fulfillment and delivery -> products
+- 50% down payment required to proceed with production -> products
+- Mission: Work smart. Work together. Deliver delicious. -> /about
+- Philosophy: We're only as good as our last batch. -> /about
 </details>
 
 ---

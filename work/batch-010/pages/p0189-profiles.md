@@ -3,31 +3,29 @@
 **Old description:** Here at Innovative Renewables, LLC, we specialize in residential and commercial solar electric power installations.  Or in terms of the industry, photovoltaic (PV) installations.  Whether you are a homeowner or a business of any size, we will work to meet your needs and/or desires to 'go green' at a competitive price and reduce your carbon footprint.  Based out of Bismarck, ND, we hope to bring the latest technology in renewable energy to the heart of the oil country.
 
 ## About
-Innovative Renewables, LLC is based in Bismarck, North Dakota, where it has built a business around residential and commercial photovoltaic (PV) installations. The company entered the market to bring current solar technology to a state more commonly associated with fossil-fuel production.
+Innovative Renewables, LLC operates from Bismarck, North Dakota, providing solar photovoltaic installation services across the region. The company’s founding year and ownership structure are not publicly disclosed.
 
-Its services span system design, permitting, procurement, and full installation of grid-tied and off-grid solar arrays for single-family homes, multi-family buildings, and commercial facilities. The firm does not disclose its crew size, warehouse space, or annual megawatt capacity.
+The firm specializes in residential and commercial solar electric power installations, commonly referred to as photovoltaic (PV) systems. It handles projects for homeowners and businesses of any size, though specific facility details, headcount, or annual installation volumes are not published.
 
-The customer base includes homeowners looking to cut electricity costs and businesses pursuing sustainability certifications or energy independence. Projects have been executed across North Dakota, serving both urban and rural sites.
+Customers include private homeowners seeking to reduce energy costs and commercial entities aiming to lower their carbon footprint. The company positions its services as a way to bring current renewable-energy technology to an area known for oil production.
 
-The company highlights competitive pricing and a focus on carbon-footprint reduction as its primary differentiators. Its messaging frames the work as introducing modern renewable-energy equipment into the center of U.S. oil country.
+Innovative Renewables emphasizes competitive pricing and the environmental benefit of cutting carbon emissions as its primary differentiators, framing its mission as helping clients “go green” in the heart of oil country.
 
 ## Known for
-- Competitive pricing on solar installations
-- Carbon-footprint reduction focus
-- Deployment of latest PV technology in North Dakota
-- Turnkey service from design through installation
+- Competitive pricing for solar installations
+- Focus on bringing renewable energy technology to oil-producing region
+- Serves both residential and commercial customers
 
 ## Capabilities
-- Residential PV system installation
-- Commercial PV system installation
-- Solar system design and engineering
-- Permitting and interconnection
-- Grid-tied and off-grid solar arrays
+- Photovoltaic (PV) system installation
+- Residential solar installation
+- Commercial solar installation
 
 ## Industries
-- Residential solar
-- Commercial solar
+- Residential
+- Commercial
 - Renewable energy
+- Solar energy
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -36,10 +34,10 @@ The company highlights competitive pricing and a focus on carbon-footprint reduc
 <details><summary>Sources</summary>
 
 - Location: Bismarck, ND -> db
-- Service: residential and commercial solar PV installations -> /
-- Mission: bring latest renewable energy technology to heart of oil country -> /
-- Target customers: homeowners and businesses of any size -> /
-- Competitive pricing and carbon footprint reduction -> /
+- Business: residential and commercial solar PV installations -> db
+- Target customers: homeowners and businesses -> db
+- Mission: bring latest renewable energy technology to heart of oil country -> db
+- Competitive pricing and carbon reduction emphasis -> /
 </details>
 
 ---
@@ -49,85 +47,92 @@ The company highlights competitive pricing and a focus on carbon-footprint reduc
 **Old description:** I am very satisfied with iST and have known the company for over 20 years since I founded my company.
 
 ## About
-Innovative Sensor Technology USA Division operates from Las Vegas, Nevada, established in 2001 as the American sales and support office of Innovative Sensor Technology IST AG, a Swiss sensor manufacturer founded in 1991 in Ebnat‑Kappel. IST AG became part of the Endress+Hauser Group, a global leader in process measurement instrumentation headquartered in Reinach, Switzerland.
+Innovative Sensor Technology (IST) USA Division operates from Las Vegas, Nevada, established in 2001 as the American sales and support arm of the Swiss sensor manufacturer IST AG. The parent company was founded in 1991 in Ebnat-Kappel, Switzerland, and has been part of the Endress+Hauser Group since 2019. The U.S. office provides local supply-chain programs and technical support from on-site stock.
 
-The company develops and manufactures temperature sensors, thermal mass flow sensors, humidity sensors, conductivity sensors, biosensors, micro heaters, and infrared emitters. It offers custom sensor adaptations, joint technology development, and consulting from its state‑of‑the‑art facilities in Switzerland and a production site in Rožnov, Czech Republic. The U.S. division maintains on‑site stock for supply‑chain programs and supports flexible order quantities with short development and production cycles.
+IST develops and manufactures a broad portfolio of physical, chemical, and biological sensors, including temperature sensors (thin-film platinum RTDs), thermal mass flow sensors, humidity sensors, conductivity sensors, biosensors, micro heaters, and thermal infrared emitters. Production occurs at the headquarters in Switzerland and a dedicated facility in Rožnov pod Radhoštěm, Czech Republic, with the group employing roughly 500 people worldwide. The company offers standard sensors through an online shop for small lots and handles custom adaptations up to full co-development of new sensor technologies, producing around 200 new sensor variants annually.
 
-Sensors serve medical technology, process control, automation, electric vehicles, aerospace, test and measurement, biotechnology, food and beverage, and emission monitoring. The portfolio includes ESCC‑qualified thin‑film platinum temperature sensors for space applications and nucleic‑acid extraction platforms for life‑science customers.
+IST sensors serve medical technology, process automation, electric vehicles, aerospace (including ESCC-qualified space flight models), test and measurement, biotechnology, food and beverage conductivity monitoring, oil-condition monitoring, and emission-monitoring systems. Customers range from instrument OEMs and research institutes to high-reliability aerospace primes.
 
-IST emphasizes accuracy and consistency across measurement conditions, backed by ISO 9001:2015 and ISO 14001:2015 certification. Its differentiators include the only Hi‑Rel ESCC‑certified thin‑film platinum sensors, end‑to‑end development from concept to after‑sales support, and a commitment to producing varying volumes quickly.
+The company emphasizes Swiss engineering precision, end-to-end development support from concept through after-sales service, flexible order quantities with short lead times, and a partnership model that includes collaboration with universities and research institutes. Its quality and environmental management systems are certified to ISO 9001:2015 and ISO 14001:2015.
 
 ## Known for
-- ESCC‑qualified thin‑film platinum temperature sensors for space applications
 - Flexible quantities with short development and production times
-- Custom sensor development from minor modifications to new product development
+- Tailor-made sensor solutions from minor modifications to full co-development
 - ISO 9001:2015 and ISO 14001:2015 certified quality and environmental management
-- On‑site stock and supply‑chain programs for U.S. customers
+- ESCC-qualified thin-film platinum temperature sensors for space flight models
+- On-site U.S. stock for supply-chain programs and fast delivery
 
 ## Capabilities
-- Development and manufacturing of temperature sensors
-- Development and manufacturing of thermal mass flow sensors
-- Development and manufacturing of humidity sensors
-- Development and manufacturing of conductivity sensors
-- Development and manufacturing of biosensors
-- Development and manufacturing of micro heaters
-- Development and manufacturing of infrared emitters
-- Sensor adaptations and customizations
+- Temperature sensor manufacturing (thin-film platinum RTDs)
+- Thermal mass flow sensor manufacturing
+- Humidity sensor manufacturing
+- Conductivity sensor manufacturing
+- Biosensor manufacturing
+- Micro heater manufacturing
+- Thermal infrared emitter manufacturing
+- Sensor customization and adaptation
 - Joint development of new sensor technologies
 - Sensor technology development and consulting
-- Component overmolding in electronics
-- Quality assurance (ISO 9001:2015, ISO 14001:2015)
-- Full production process: conception, material selection, sampling, serial production, quality control, after‑sales consulting
-- Flexible quantities and fast production
-- Supply chain programs and on‑site stock (USA Division)
-- Technical consulting and support
-- Nucleic acid extraction technologies (spin filter, magnetic beads, polymer mediated enrichment)
-- Force, pressure, strain and displacement sensor development (iST Senstech)
-- Thermal infrared emitters for gas analysis and spectroscopy (Infrasolid)
+- Supply chain programs with on-site stock
+- Small quantity orders via online shop
+- Large volume production
+- Quality assurance per ISO 9001:2015
+- Environmental management per ISO 14001:2015
+- ESCC qualification for space sensors
+- Nucleic acid extraction technology platforms
 
 ## Industries
-- Medical technology (med‑tech)
-- Process control
-- Automation
-- Electric vehicles (EVs)
+- Medical technology
+- Process automation
+- Electric vehicles
 - Aerospace
 - Test and measurement
 - Biotechnology
 - Food and beverage
+- Oil and gas
 - Emission monitoring
-- Oil and gas (moisture in oil monitoring)
-- Life sciences (nucleic acid extraction)
-- Space (Hi‑Rel applications)
-- High reliability (Hi‑Rel) applications
-- Conductivity measurement across industries
+- Space / satellite
+- Life sciences / molecular diagnostics
+- Force, pressure, strain and displacement sensing
+- Gas analysis and spectroscopy
 
 ## Certifications
 - ISO 9001:2015
 - ISO 14001:2015
-- ESCC qualification
+- ESCC qualified
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 2001
-- **Employees:** 500 worldwide (IST AG)
-- **Ownership:** Part of Endress+Hauser Group
+- **Ownership:** Subsidiary of Endress+Hauser Group
 - **Headquarters:** Las Vegas, Nevada
 
 <details><summary>Sources</summary>
 
-- USA Division located in Las Vegas, Nevada -> db
-- Founded 2001 -> db
+- USA Division location Las Vegas, Nevada -> db
+- USA Division founded 2001 -> db
 - Parent company IST AG founded 1991 in Ebnat-Kappel, Switzerland -> /about-us
-- Part of Endress+Hauser Group -> /about-us
-- Manufactures temperature, flow, humidity, conductivity, biosensors, micro heaters, infrared emitters -> /about-us
-- Offers custom sensor adaptations and joint technology development -> /about-us
-- ISO 9001:2015 and ISO 14001:2015 certified -> /about-us
-- ESCC qualified for space sensors -> /about-us
-- Produces flexible quantities with short development and production times -> /
-- Serves med-tech, aerospace, automotive, food & beverage, biotechnology, emission monitoring -> /about-us
-- Employs about 500 people worldwide (IST AG) -> /about-us
+- Parent company part of Endress+Hauser Group -> /about-us
+- USA Division is sales office with on-site stock for supply chain programs -> /about-us
+- Product portfolio: temperature, thermal mass flow, humidity, conductivity, biosensors, micro heaters, infrared emitters -> /
 - Production facilities in Switzerland and Czech Republic (Roznov) -> /about-us
-- USA Division provides on-site stock and supply chain programs -> /about-us
+- Group employs about 500 people worldwide -> /about-us
+- Annual development of around 200 new sensors -> /about-us
+- Industries served: med-tech, process control, automation, EVs, aerospace, test and measurement, biotechnology -> /
+- Food & beverage conductivity monitoring -> db
+- Medical applications -> db
+- ESCC qualified thin-film platinum temperature sensors for space -> /
+- Oil moisture monitoring -> /
+- Emission monitoring / air quality -> /
+- Nucleic acid extraction platforms -> /
+- Force/pressure/strain/displacement sensors via iST Senstech -> /about-us
+- ISO 9001:2015 and ISO 14001:2015 certified -> /
+- Flexible quantities and fast production -> /
+- Tailor-made sensor solutions from minor modifications to complete new product development -> /
+- Development and consultation in state-of-the-art facilities -> /
+- Support from vision through development to after-sales -> /
+- Partnership with universities and research institutes -> /
+- Languages on website: English, German, French, Czech, Chinese -> /
 - LinkedIn URL -> db
 </details>
 
@@ -138,24 +143,24 @@ IST emphasizes accuracy and consistency across measurement conditions, backed by
 **Old description:** Leaders in Wire Harness & Custom Cable Manufacturing Since 1991
 
 ## About
-Inside Track Cabling operates from a 20,000-square-foot facility in Hudson, New Hampshire, near the Massachusetts border. The company traces its roots to 1991 and was formally incorporated in 1994 as a contract manufacturer specializing in wire harnesses and cable assemblies.
+Inside Track Cabling operates from a 20,000-square-foot facility in Hudson, New Hampshire, near the Massachusetts border. The company was incorporated in 1994 and has since focused on contract manufacturing of wire harnesses, custom cable assemblies, and molded cable products.
 
-The shop fabricates custom cable assemblies, wire harnesses, molded cables, and box-build assemblies, and provides mechanical sub-assembly, injection over-molding, injection molding of plastic parts, ultrasonic wire and plastic welding, and large-gauge power cable fabrication. Automatic high-speed termination centers support high-volume production, while engineering services include product design assistance, rapid prototyping, and assembly drawing development.
+Its capabilities span wire harness fabrication, custom cable assembly, injection over-molding, injection molding of plastic parts, ultrasonic wire and plastic welding, large-gauge power cable fabrication, box-build and mechanical sub-assembly, as well as product design, documentation, and rapid prototyping services. The shop runs automatic high-speed termination centers and wire preparation equipment to support high-volume production.
 
-Customers span commercial, industrial, municipal, heavy equipment, communications, robotics, test and measurement, medical and biomedical, transportation, electronics, electrical power, and military sectors. The company has supplied military cable assemblies and harnesses and maintains a counterfeit-parts policy for defense work.
+The company serves a diverse industrial base including commercial, industrial, municipal, heavy equipment, communications, robotics, test and measurement, medical and biomedical, transportation, electronics, and electrical power sectors. Customers range from original equipment manufacturers to organizations requiring military-spec cable assemblies.
 
-Inside Track Cabling emphasizes competitive pricing, unrivaled customer service, and an experienced staff that works with clients from concept through production. Its quality system is certified to ISO 9001, and it holds ITAR registration and RoHS compliance.
+Inside Track Cabling emphasizes meeting or exceeding every contract manufacturing need, offering competitive pricing and customer service described as unrivaled in the industry. Its mission centers on fulfilling customers’ evolving wire and cable requirements through experienced engineering and quality staff.
 
 ## Known for
-- Automatic high-speed termination centers for high-volume, fast-turnaround production
-- ISO 9001 quality system with ITAR registration and RoHS compliance
-- In-house injection over-molding, injection molding, and ultrasonic welding capabilities
-- Engineering support from design conception through documentation and rapid prototyping
-- Counterfeit-parts policy for defense and high-reliability applications
+- Automatic high-speed termination centers for high-volume, fast turnaround
+- Broad in-house capabilities from wire assembly to injection over-molding and ultrasonic welding
+- Commitment to competitive pricing and unrivaled customer service
+- Experienced engineering staff supporting design, documentation, and prototyping
+- ITAR registration for defense-related work
 
 ## Capabilities
-- Custom cable assembly fabrication
 - Wire harness fabrication
+- Custom cable assemblies fabrication
 - Mechanical sub-assembly fabrication
 - Large gauge power cable fabrication
 - Ultrasonic wire welding
@@ -166,14 +171,12 @@ Inside Track Cabling emphasizes competitive pricing, unrivaled customer service,
 - Electronic sub-assembly
 - Mechanical cabinet/box assembly
 - Product design & development services
-- Assembly drawing & work instruction development
+- Product drawing & work instruction development
 - Component rapid prototyping
 - Custom molded plastic parts design & development
-- Product design & development assistance
-- Military cable assemblies & harnesses
+- Assembly drawing & process work instruction development
 - Over-molded wire, cable & connectors
-- Ultrasonic welded parts
-- Ultrasonic welded wire
+- Military cable assemblies & harnesses
 
 ## Industries
 - Commercial
@@ -187,13 +190,10 @@ Inside Track Cabling emphasizes competitive pricing, unrivaled customer service,
 - Transportation
 - Electronics
 - Electrical Power
-- Military
 
 ## Equipment
-- Automatic high-speed wire termination centers
-- Injection over-molding equipment
-- Injection molding machines
-- Ultrasonic welding equipment
+- Automatic high-speed/high-volume wire termination centers
+- Wire/cable preparation equipment
 
 ## Certifications
 - ISO 9001
@@ -202,24 +202,20 @@ Inside Track Cabling emphasizes competitive pricing, unrivaled customer service,
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
-- **Founded:** 1991
+- **Founded:** 1994
 - **Headquarters:** Hudson, New Hampshire
 
 <details><summary>Sources</summary>
 
 - Headquarters in Hudson, NH -> /about
-- Founded in 1991 (since 1991) -> /
 - Incorporated in 1994 -> /about
 - 20,000 sq ft facility -> /about
-- Contract manufacturer specializing in wire harnesses, cable assemblies, molded cables -> /about
-- Capabilities: custom cable assemblies, wire harnesses, mechanical sub-assembly, large gauge power cable, ultrasonic wire welding, box-build, ultrasonic plastic welding, injection over-molding, injection molding, electronic sub-assembly, mechanical cabinet/box assembly -> /capabilities
-- Engineering services: product design & development, assembly drawing & work instruction development, component rapid prototyping, custom molded plastic parts design & development -> /services
-- Industries served: Commercial, Industrial, Municipal, Heavy Equipment, Communications, Robotics, Test/Measurement Equipment, Medical/Bio-Medical, Transportation, Electronics, Electrical Power -> /
-- Military cable assemblies & harnesses -> /capabilities
+- Contract manufacturer of wire harnesses, cable assemblies, molded cables -> /about
+- Capabilities: wire harness fabrication, custom cable assemblies, injection over-molding, injection molding, ultrasonic welding, box-build, mechanical sub-assembly, product design, documentation, rapid prototyping -> /capabilities
+- Industries served: commercial, industrial, municipal, heavy equipment, communications, robotics, test/measurement, medical/biomedical, transportation, electronics, electrical power -> /
+- Equipment: automatic high-speed termination centers, wire/cable preparation equipment -> /
 - Certifications: ISO 9001, ITAR, RoHS -> db
-- Equipment: automatic high-speed wire termination centers, injection over-molding, injection molding, ultrasonic welding -> /
-- Commitment to competitive pricing, unrivaled customer service, experienced staff -> /about
-- Counterfeit parts policy -> /
+- Mission: meet/exceed customer needs, competitive pricing, unrivaled customer service -> /about
 </details>
 
 ---
@@ -229,35 +225,37 @@ Inside Track Cabling emphasizes competitive pricing, unrivaled customer service,
 **Old description:** Transform your roof or property into a powerhouse of sustainability with Insight Energy's flexible solar panel installation services, where cutting-edge technology meets aesthetic finesse for a sleek solar solution. Let our certified solar experts craft an energy haven atop your roof, ensuring every sunrise brings you closer to a greener future and energy independence.
 
 ## About
-Based in Hatfield, Massachusetts, Insight Energy Systems operates under the Insight Solar brand as a full-service renewable energy installer serving Western Massachusetts, Connecticut, and southern Vermont. The company focuses on solar photovoltaic systems, battery storage, electric-vehicle charging, heat-pump HVAC, and backup generators for residential and commercial customers.
+Insight Energy Systems, operating as Insight Solar, is based in Hatfield, Massachusetts. The company provides solar and renewable energy installation services across Western Massachusetts, Connecticut, and Southern Vermont. No founding year or ownership details are publicly disclosed.
 
-Its core services include turnkey solar panel installation, third-party financing arrangements that let customers pay for energy produced, ongoing service and repair, and installation of complementary technologies such as home batteries, ductless mini-split heat pumps, EV chargers, and automatic standby generators. The company emphasizes a 30-year energy production guarantee and holds PEARL certification for quality assurance.
+The firm installs solar photovoltaic systems, home battery storage, EV chargers, ductless mini-split heat pumps, and automatic home generators. It also offers financing options for renewable energy projects and provides ongoing service and repair for solar installations. The company describes its technicians as certified solar experts and emphasizes rapid repair response.
 
-Insight Energy works directly with homeowners and businesses across communities including Greenfield, Northampton, Springfield, and Milford, CT. Featured projects cite a residential installation in Richmond, MA, a commercial installation in Lee, MA, and a residential installation in Springfield, MA.
+Insight Solar serves both residential and commercial customers. Featured projects include a residential installation in Richmond, MA, a commercial installation in Lee, MA, and a residential installation in Springfield, MA. The company states it serves communities such as Greenfield, Northampton, Springfield, and Milford, CT.
 
-The company positions its differentiation on certified solar technicians, rapid repair response, and financing flexibility that includes set monthly payments for energy produced or ownership of the system outright. It also states it is the highest rated solar company in the region.
+Insight Solar highlights a 30-year energy production guarantee, PEARL certification for savings and quality assurance, and a "worry-free quote" process that avoids sales pressure. The company markets itself as the highest-rated solar company in its service region.
 
 ## Known for
 - 30-year energy production guarantee
-- PEARL certification for savings, quality & resale value
-- Certified solar technicians
-- Rapid repair response
-- Third-party financing with set monthly payments
+- PEARL certification for savings, quality, and resale value
+- Highest-rated solar company in Massachusetts and Connecticut
+- Rapid repair response with certified technicians
+- No-pressure, worry-free quote process
 
 ## Capabilities
 - Solar photovoltaic system installation
-- Solar financing (third-party PPA/lease)
-- Solar system service and repair
-- Electric vehicle charger installation
-- Home battery energy storage installation
+- Solar financing and power purchase agreements
+- Solar service and repair
+- EV charger installation
+- Home battery storage installation
 - Ductless mini-split heat pump installation
-- Automatic standby generator installation
+- Automatic home generator installation
 
 ## Industries
-- Solar energy
-- Energy storage
+- Residential solar
+- Commercial solar
+- Renewable energy
 - Electric vehicle charging infrastructure
-- HVAC
+- Home energy storage
+- HVAC (heat pumps)
 - Backup power generation
 
 ## Certifications
@@ -269,16 +267,13 @@ The company positions its differentiation on certified solar technicians, rapid 
 
 <details><summary>Sources</summary>
 
-- Headquarters: Hatfield, MA -> db
-- Services: solar installation, financing, service & repair, EV chargers, home batteries, heat pumps, generators -> /
-- Service area: Western MA, CT, Southern VT -> /
-- Featured projects: Richmond MA residential, Lee MA commercial, Springfield MA residential -> /
-- 30-year energy production guarantee -> /
-- PEARL certification -> /
-- Claimed highest rated solar company -> /
-- Certified solar experts -> /
-- Rapid repair response -> /
-- Third-party financing with set monthly payments -> /
+- Location: Hatfield, Massachusetts -> db
+- Services: solar installation, financing, service & repair, EV chargers, home batteries, mini-split heat pumps, home generators -> /
+- Service area: Western Massachusetts, Connecticut, Southern Vermont -> /
+- Certification: PEARL certification -> /
+- Guarantee: 30-year energy production guarantee -> /
+- Customer examples: Richmond MA residential, Lee MA commercial, Springfield MA residential -> /
+- Claim: highest rated solar company in Massachusetts & Connecticut -> /
 </details>
 
 ---
@@ -288,52 +283,47 @@ The company positions its differentiation on certified solar technicians, rapid 
 **Old description:** A global manufacturer of office furniture wanted a transparent, cushioned fabric that met the ergonomic and cosmetic needs of their newly fashioned seating solution.
 
 ## About
-Insight Textiles, operating as a division of Apex Mills, is headquartered in Stuart, Virginia. The company traces its origins to 1943 when it was founded as a reseller serving the bridal and apparel industries. Over eight decades, it has evolved into a specialty manufacturer of warp-knit technical textiles.
+Based in Stuart, Virginia, Insight Textiles operates as part of Apex Mills, a company founded in 1943 on Long Island, New York. Originally a reseller to the bridal and apparel industries, the business evolved into a manufacturer of warp‑knit technical textiles. The corporate office remains in Inwood, New York, with production facilities in Graham, North Carolina, and Woolwine, Virginia.
 
-The company designs and produces custom warp-knit fabrics including elastomerics, circular knits, mesh nettings, and 3-D spacer fabrics. Manufacturing takes place across two U.S. facilities in Woolwine, Virginia and Graham, North Carolina, totaling 400,000 square feet and operating 24 hours a day, five days a week. The operation integrates R&D, yarn inventory, and production on-site, enabling quick response and small-run capability.
+The company produces engineered warp‑knit fabrics including elastomerics, circular knits, mesh nettings, and 3‑D spacer fabrics. Its two U.S. plants in Graham, North Carolina, and Woolwine, Virginia, total 400,000 square feet and run 24 hours a day, five days a week. Capabilities cover the full development cycle—R&D, yarn sourcing, knitting, finishing, and testing—with diverse inventories of yarn, greige, and finished goods to support quick response.
 
-Customers span aerospace and defense, military and law enforcement, medical, consumer electronics, office furniture, and sports equipment such as golf impact screens. The firm's application-driven approach tailors fabric formations to specific end-use requirements, from composite reinforcement to apparel and medical textiles.
+Customers span apparel, medical, military and law enforcement, aerospace and composite materials, office furniture, and consumer electronics. The company cites case studies in golf impact screens, military fabric solutions, and transparent cushioned fabrics for ergonomic seating.
 
-Apex Mills emphasizes its Application Driven Design methodology, domestic production since 1943, and certifications including ISO 9001:2015 and OEKO-TEX STANDARD 100. The company states that U.S.-based manufacturing allows faster collaboration and reliable supply for mission-critical applications.
+Apex Mills differentiates itself through an Application Driven Design approach that tailors each fabric to the end‑use requirements, supported by on‑site R&D and production, domestic supply chains, and certifications including ISO 9001:2015 and OEKO‑TEX Standard 100 for skin‑contact safety.
 
 ## Known for
-- Application Driven Design methodology
-- Integrated on-site R&D and production
-- 400,000 sq ft U.S. facilities running 24/5
-- ISO 9001:2015 and OEKO-TEX STANDARD 100 certified
-- Domestic manufacturing since 1943
+- Application Driven Design approach
+- On‑site R&D and production in U.S. facilities
+- 400,000 sq ft combined facility operating 24/5
+- ISO 9001:2015 and OEKO‑TEX Standard 100 certified
+- Domestic yarn and finished goods inventory for quick response
 
 ## Capabilities
 - Warp knitting
 - Circular knitting
-- 3D spacer fabric production
 - Mesh and netting production
+- 3D spacer fabric manufacturing
 - Elastomeric fabric production
 - Fabric finishing
-- Custom textile engineering
-- Application driven design
-- Rapid prototyping
-- Small run production
-- Yarn inventory management
-- Quick turnaround
+- R&D and product development
+- On‑site prototyping
+- Yarn and greige goods inventory management
+- OEKO‑TEX Standard 100 testing
+- ISO 9001:2015 quality management
 
 ## Industries
-- Aerospace
-- Defense
-- Military
-- Law Enforcement
-- Medical
-- Consumer Electronics
-- Office Furniture
-- Sports Equipment
-- Industrial
-- Technical Textiles
 - Apparel
+- Medical
+- Military & Defense
+- Aerospace & Composite Materials
+- Office Furniture
+- Consumer Electronics
+- Golf & Recreation
+- Industrial & Technical Textiles
 
 ## Certifications
 - ISO 9001:2015
-- OEKO-TEX STANDARD 100
-- Berry Compliant
+- OEKO‑TEX Standard 100
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -342,22 +332,21 @@ Apex Mills emphasizes its Application Driven Design methodology, domestic produc
 
 <details><summary>Sources</summary>
 
-- Founded 1943 as reseller to bridal and apparel industries -> /about-us
-- Headquarters in Stuart, Virginia -> db
-- Corporate office in Inwood, NY -> /
-- Production facilities in Woolwine, VA and Graham, NC -> /about-us
-- Combined 400,000 sq ft facilities -> /about-us
+- Founded 1943 -> db, /about-us
+- Headquarters Stuart, Virginia -> db, / (Insight Textiles address)
+- Corporate office Inwood, NY -> /
+- Production facilities Graham, NC and Woolwine, VA -> /about-us
+- 400,000 sq ft combined facilities -> /about-us
 - Operating 24 hours a day, five days a week -> /about-us
-- Manufactures warp knit fabrics: elastomerics, circular knits, mesh nettings, 3D spacer fabrics -> /
 - ISO 9001:2015 certified -> /about-us
-- OEKO-TEX STANDARD 100 certified -> /about-us
+- OEKO‑TEX Standard 100 certified -> /about-us
 - Berry Compliant fabrics -> /
+- Warp knit fabrics manufacturer -> /about-us
 - Application Driven Design approach -> /about-us
-- On-site R&D and production -> /about-us
-- Industries served: aerospace, defense, military, law enforcement, medical, consumer electronics, office furniture, sports -> /about-us, /
+- On‑site R&D and production -> /about-us
+- Industries: apparel, medical, military, aerospace, office furniture, consumer electronics, golf -> /, /about-us, /capabilities
 - Materials: Nylon, Polyester, Nylon/Spandex, Polyester/Spandex -> /about-us
-- Made in USA since 1943 -> /
-- Small run capability mentioned in testimonials -> /about-us
+- Custom fabrics: elastomerics, circular knits, mesh nettings, 3D spacer fabrics -> /
 </details>
 
 ---
@@ -367,25 +356,25 @@ Apex Mills emphasizes its Application Driven Design methodology, domestic produc
 **Old description:** Insteel is the nation's largest manufacturer of steel wire reinforcing products for concrete construction applications. We manufacture and market prestressed concrete strand and welded wire reinforcement, including engineered structural mesh, concrete pipe reinforcement and standard welded wire reinforcement.
 
 ## About
-Insteel Wire Products operates a manufacturing facility in Kingman, Arizona, as part of Insteel Industries Inc., a publicly traded company listed on the New York Stock Exchange under the symbol IIIN. The company describes itself as the nation's largest manufacturer of steel wire reinforcing products for concrete construction applications. A founding year and founder names are not disclosed in the available materials.
+Insteel Industries Inc. operates a manufacturing facility in Kingman, Arizona, and is publicly traded on the New York Stock Exchange under the symbol IIIN. The company describes itself as the nation's largest manufacturer of steel wire reinforcing products for concrete construction applications, though a founding year and founder names are not disclosed in the available sources.
 
-The Kingman location produces prestressed concrete strand and welded wire reinforcement, including engineered structural mesh, concrete pipe reinforcement, and standard welded wire reinforcement. Additional product lines encompass drawn wire and formed wire. The company also offers engineering services to support product application. Specific facility size, headcount, and annual volumes are not published.
+The company produces prestressed concrete strand and welded wire reinforcement, including engineered structural mesh, concrete pipe reinforcement, and standard welded wire reinforcement. Additional product lines noted on its site include drawn wire, formed wire, and PC strand, supported by in-house engineering services. No facility square footage, headcount, or annual volume figures are provided.
 
-Insteel serves the concrete construction and infrastructure sectors, supplying reinforcement products used in highways, bridges, buildings, and pipe systems. Its customer base includes contractors, precast concrete producers, and public works agencies, though individual client names are not provided.
+Insteel serves the concrete construction and infrastructure sectors, supplying reinforcement products used in pipes, structural elements, and general concrete applications. Specific customer names or project examples are not mentioned.
 
-The company emphasizes its scale as the largest domestic producer in its category and highlights a commitment to environmental stewardship in manufacturing operations. Engineering support is positioned as a differentiator for project-specific reinforcement design.
+The company states that supporting the nation's infrastructure is the foundation of its work and emphasizes a commitment to environmental stewardship in its manufacturing operations.
 
 ## Known for
-- Nation's largest manufacturer of steel wire reinforcing products
-- Engineering services for reinforcement design
+- Nation's largest manufacturer of steel wire reinforcing products for concrete construction
+- In-house engineering services
+- Publicly traded on NYSE (IIIN)
 - Commitment to environmental stewardship
-- Full product range: PC strand, welded wire reinforcement, drawn wire, formed wire
 
 ## Capabilities
 - Prestressed concrete strand manufacturing
 - Welded wire reinforcement manufacturing
-- Engineered structural mesh fabrication
-- Concrete pipe reinforcement manufacturing
+- Engineered structural mesh production
+- Concrete pipe reinforcement production
 - Standard welded wire reinforcement production
 - Drawn wire production
 - Formed wire production
@@ -402,14 +391,14 @@ The company emphasizes its scale as the largest domestic producer in its categor
 
 <details><summary>Sources</summary>
 
-- Nation's largest manufacturer of steel wire reinforcing products for concrete construction -> /
-- Manufactures prestressed concrete strand and welded wire reinforcement -> /
-- Products include engineered structural mesh, concrete pipe reinforcement, standard welded wire reinforcement -> /
-- Offers engineering services -> /
-- Product lines: Welded Wire Reinforcement, PC Strand, Drawn Wire, Formed Wire -> /
-- Publicly traded on NYSE under symbol IIIN -> /
-- Headquartered in Kingman, Arizona -> db
-- Commitment to environmental stewardship -> /
+- Headquarters in Kingman, AZ -> db
+- Publicly traded on NYSE under IIIN -> page /
+- Nation's largest manufacturer of steel wire reinforcing products -> page /
+- Products: prestressed concrete strand, welded wire reinforcement, engineered structural mesh, concrete pipe reinforcement, standard welded wire reinforcement -> page /
+- Additional lines: drawn wire, formed wire, PC strand -> page /
+- Engineering services offered -> page /
+- Serves concrete construction and infrastructure -> page /
+- Commitment to environmental stewardship -> page /
 </details>
 
 ---
@@ -419,45 +408,51 @@ The company emphasizes its scale as the largest domestic producer in its categor
 **Old description:** Houston-area OEM integrator and manufacturer of disconnect switches, switchboards, and power distribution equipment with over 50 years of combined team experience.
 
 ## About
-Founded in 1976 in Pasadena, Texas, Integrated Circuit Solution (ICS) operates as an OEM integrator and manufacturer of power distribution and motor control equipment. The company is privately held and has built its business around UL Listed manufacturing for industrial and commercial markets.
+Integrated Circuit Solution (ICS) was founded in 1976 and is headquartered in Pasadena, Texas. The company operates as an OEM integrator and manufacturer serving the Houston metropolitan area.
 
-The company manufactures a range of power distribution equipment including RSD/X4D series single-throw disconnect switches (non-fused, fused, and breaker-type), switchboards, panelboards, transfer switches, and motor control centers. It also provides custom engineered-to-order solutions and hazardous-location rated enclosures (Class I/II Div 1 & 2). ICS maintains an inventory of components and assemblies, enabling same-day shipment for many stocked items.
+ICS produces a range of power distribution and motor control equipment, including RSD/X4D series single-throw disconnect switches (non-fused, fused, and breaker-type), switchboards, panelboards, transfer switches, motor control centers, enclosed controls, and VFDs and soft starters. The company offers custom engineered-to-order solutions and fabricates hazardous-location rated enclosures certified for Class I/II Division 1 and 2 environments. It maintains an inventory of components and assemblies, enabling same-day shipment for many stocked items, and also provides a refurbish-to-like-new program for existing equipment.
 
-ICS serves industrial customers such as chemical plants and refineries, oil and gas operations across upstream, midstream, and downstream segments, commercial facilities including restaurants, shopping centers, hospitals, hotels, and multi-family housing, wastewater treatment facilities for municipal utility districts and city services, and data centers requiring high-uptime power distribution.
+The company serves industrial customers such as chemical plants and refineries, oil and gas operations across upstream, midstream, and downstream segments, commercial facilities including restaurants, shopping centers, hospitals, hotels, and multi-family housing, wastewater facilities such as municipal utility districts and city services, and data centers requiring high-uptime power distribution. Its customer base includes distributors, original equipment manufacturers, and end users across national markets.
 
-The company emphasizes a customer-first approach, citing product knowledge, fast response times, and competitive pricing as differentiators. It also offers a refurbish-to-like-new program for existing equipment.
+ICS emphasizes a customer-first approach, citing product knowledge, fast response times, competitive pricing, and a commitment to integrity and excellence as key differentiators. The firm’s quality management system aligns with ISO 9001 standards, and its UL Listed OEM status supports compliance with industry safety requirements.
 
 ## Known for
-- Same-day shipping on stocked components
-- UL Listed OEM manufacturing
+- Same-day shipping on stocked parts
 - Custom engineered-to-order solutions
 - Hazardous-location rated enclosures (Class I/II Div 1 & 2)
 - Refurbish to like-new program
+- UL Listed OEM manufacturing
 
 ## Capabilities
 - UL Listed OEM manufacturing
 - Custom engineered-to-order solutions
-- Hazardous-location rated enclosures (Class I/II Div 1 & 2)
-- Power distribution equipment manufacturing
-- Motor control center manufacturing
-- Switchboard manufacturing
-- Panelboard manufacturing
-- Transfer switch manufacturing
-- Disconnect switch manufacturing
+- Hazardous-location rated enclosure fabrication (Class I/II Div 1 & 2)
+- Switchboard assembly
+- Panelboard assembly
+- Motor control center assembly
+- Disconnect switch manufacturing (non-fused, fused, breaker-type)
+- Transfer switch assembly
+- Enclosed controls assembly
 - VFD and soft starter integration
-- Refurbishment services
-- Component stocking and same-day shipping
+- Medium voltage equipment manufacturing
+- Low voltage equipment manufacturing
+- Refurbishment services (refurbish to like-new)
+- ISO 9001 quality management system
+- Supplier quality management
+- Engineering change control
+- Nonconformance management and corrective actions
+- Internal auditing and document control
 
 ## Industries
-- Chemical plants
-- Refineries
-- Oil and gas
-- Commercial construction
-- Wastewater treatment
+- Industrial (chemical plants, refineries)
+- Oil and gas (upstream, midstream, downstream)
+- Commercial (restaurants, shopping centers, hospitals, hotels, multi-family)
+- Wastewater facilities (municipal utility districts, city services)
 - Data centers
 
 ## Certifications
 - UL Listed (OEM)
+- ISO 9001
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -466,16 +461,19 @@ The company emphasizes a customer-first approach, citing product knowledge, fast
 
 <details><summary>Sources</summary>
 
-- Founded 1976 in Pasadena, Texas -> db
+- Founded 1976 -> db
+- Headquarters Pasadena, Texas -> db
 - UL Listed OEM certification -> db
-- Manufactures disconnect switches, switchboards, panelboards, transfer switches, motor control centers -> db
-- Offers custom engineered-to-order solutions and hazardous-location rated enclosures -> db
-- Serves chemical plants, refineries, oil and gas, commercial, wastewater, data centers -> db
-- Same-day shipping for stocked components -> /
+- Custom engineered-to-order solutions -> db
+- Hazardous-location rated enclosures Class I/II Div 1 & 2 -> db
+- Product lines: RSD/X4D disconnect switches, switchboards, panelboards, transfer switches, motor control centers -> db
+- Industries served: industrial, oil and gas, commercial, wastewater, data centers -> db
+- Same-day shipping for stocked parts -> /
 - Refurbish to like-new program -> /
-- ISO 9001 QMS referenced in quality management -> /quality
-- Headquarters in Pasadena, Texas -> db
-- LinkedIn profile -> db
+- Customer-first approach, product knowledge, fast response, competitive pricing -> /about
+- ISO 9001 quality management system -> /quality
+- Manufacturing of low voltage and medium voltage equipment -> /quality
+- Serves distributors nationally -> /about
 </details>
 
 ---
@@ -485,19 +483,19 @@ The company emphasizes a customer-first approach, citing product knowledge, fast
 **Old description:** SERVICES FOR FABLESS AND START-UP INTEGRATED DEVICE MANUFACTURERS.
 
 ## About
-Integrated Semiconductor Solutions (ISS) operates from Santa Ana, California, and was founded in 2001. The company serves fabless and start-up integrated device manufacturers with a focus on semiconductor reliability qualification testing.
+Integrated Semiconductor Solutions (ISS) is based in Santa Ana, California. The company was founded in 2001 by Troy Gray, who serves as CEO. Since 2010, ISS has operated as a dedicated partner to integrated circuit manufacturers, offering a full suite of semiconductor reliability qualification and testing services.
 
-ISS delivers a single-source suite of stress-based reliability services, including process reliability stress testing, package qualification, qualification and production-level burn-in, ESD (HBM, MM, CDM) and latch-up testing, as well as PCB design, fabrication, and assembly. The engineering team also designs and builds custom burn-in boards, ESD/latch-up test boards, and ATE PCBs. Test capacity includes four Criteria C25 burn-in ovens with six zones and 48 slots each, and a Model Oryx CDM 9000 system for charge-device-model testing without hardware constraints.
+ISS specializes in stress-based reliability testing, including process reliability stress testing, package qualification, and both qualification and production-level burn-in services. The lab also performs ESD testing (HBM, MM, CDM) and latch-up testing to JEDEC and ESDA standards. In addition to testing, the company designs, fabricates, and assembles custom printed circuit boards for burn-in, ESD/latch-up, and automatic test equipment (ATE) applications. Equipment includes a Model Oryx CDM 9000 system for charged-device-model testing and multiple Criteria XXV C25 burn-in ovens, each with six zones and 48 slots, providing capacity for high-volume production runs.
 
-The customer base consists primarily of fabless semiconductor companies, start-up integrated device manufacturers, and established IC manufacturers seeking qualification and production testing to JEDEC and ESDA standards.
+The primary customers are fabless semiconductor companies and start-up integrated device manufacturers (IDMs) that require independent qualification of their IC designs. ISS also works with established IC manufacturers needing package qualification and production burn-in support. The company's AS9100D certification indicates capability for aerospace and defense-related programs, though the core client base remains commercial semiconductor firms.
 
-The firm cites 30 to 40 years of combined engineering experience as a foundation for its technical support.
+ISS emphasizes a single-source model that combines engineering expertise with in-house board fabrication to reduce lead times and control quality.
 
 ## Known for
-- Single-source semiconductor reliability qualification testing suite
-- Fast turnaround and short lead times
-- Custom burn-in, ESD/latch-up, and ATE PCB design and fabrication
-- Model Oryx CDM 9000 for flexible CDM testing
+- 30+ years of combined engineering experience
+- In-house PCB design, fabrication, and assembly for custom test boards
+- Model Oryx CDM 9000 for hardware-free CDM testing
+- Fast turnaround times on qualification and production burn-in
 
 ## Capabilities
 - Process Reliability Stress Testing
@@ -510,19 +508,17 @@ The firm cites 30 to 40 years of combined engineering experience as a foundation
 - Custom ESD and Latch-Up Board Design, Fabrication & Assembly
 - Custom ATE PCB Design, Fabrication & Assembly
 - Burn-in Product, Process, Reliability Qualification
-- Device Package Qualification (Pre and Post Preconditioning Tests)
+- Device Package Qualification (Pre and Post Preconditioning)
 - High Power HTOL PCB Design
-- CDM Testing (Model Oryx CDM 9000)
-- ESD Testing to JEDEC and ESDA Standards
 
 ## Industries
-- Fabless semiconductor manufacturers
-- Start-up integrated device manufacturers
+- Fabless semiconductor companies
+- Start-up integrated device manufacturers (IDMs)
 - IC manufacturers
 
 ## Equipment
 - Model Oryx CDM 9000
-- Criteria C25 burn-in systems (6 zones, 48 slots, 4 ovens)
+- Criteria XXV C25 burn-in systems (6 zones, 48 slots each, 4 ovens)
 
 ## Certifications
 - ISO 9001:2015
@@ -535,14 +531,25 @@ The firm cites 30 to 40 years of combined engineering experience as a foundation
 
 <details><summary>Sources</summary>
 
-- Founded 2001 -> db
-- Headquarters Santa Ana, California -> db
-- ISO 9001:2015 and AS9100D certified -> /
-- Services: reliability stress testing, package qualification, burn-in, ESD, latch-up, PCB design/fabrication/assembly, custom board design -> /
-- Equipment: Model Oryx CDM 9000, Criteria C25 burn-in systems -> products (db)
-- Industries: fabless and start-up integrated device manufacturers, IC manufacturers -> /, /about-us
-- Combined experience 30-40 years -> /, /about-us
-- Fast turnaround, short lead times -> /, /about-us
+- Founded in 2001 -> db
+- Headquarters in Santa Ana, California -> db
+- Founder Troy Gray (CEO/Founder) -> /about
+- ISO 9001:2015 and AS9100D certified -> / (home page)
+- Services: process reliability stress testing, package qualification, burn-in, ESD/latch-up, PCB design/fabrication/assembly -> / (home page)
+- Custom burn-in board design, fabrication and assembly -> / (home page)
+- Custom ESD and latch-up board design, fabrication and assembly -> / (home page)
+- Custom ATE PCB design, fabrication and assembly -> / (home page)
+- Equipment: Model Oryx CDM 9000 -> products (db)
+- Burn-in systems: Criteria XXV C25 6 zones, 48 slots each, 4 ovens -> products (db)
+- Serves fabless and start-up integrated device manufacturers -> / (home page)
+- Serves IC manufacturers -> /about-us
+- 30 years combined experience -> / (home page)
+- 40 years combined experience -> /about-us
+- Fast turnaround times -> / (home page)
+- Short lead times -> /about-us
+- Single-source suite -> / (home page)
+- Competitive pricing -> /about-us
+- Committed to quality and time-to-market goals -> /about-us
 </details>
 
 ---
@@ -552,48 +559,48 @@ The firm cites 30 to 40 years of combined engineering experience as a foundation
 **Old description:** ITS helps to protect the people that serve, by manufacturing in America custom cut & sew products. ITS is the most trusted subcontractor for DOD apparel manufacturer in Virginia. ITS is unique as a Virginia textile cut and sew facility providing contract sewing and customer sewing to service the protection needs for Special Forces, the Navy and the Department of Defense. ITS also provides PPE, uniforms and equipment for Frontline Healthcare Workers and the State of Virginia. Proudly manufacturing tactical gear, technical nylon gear bags, military shelters and body armor for the people that serve the USA. ITS is a specialized sewing manufacturer with expertise in technical sewing specifications, fabric welding, technical cutting and sewing in the USA as well as an apparel maker to make products from industrial fabrics to help protect the people who work hard to protect Americans.
 
 ## About
-Integrated Textile Solutions operates from Salem, Virginia, tracing its roots to 1936 when Glenn Thornhill Sr. and his wife acquired a bankrupt garment business and renamed it Maid Bess. The company has remained family-owned across three generations, and became woman-owned in the 1990s when Joanne Thornhill took a 51 percent stake.
+Integrated Textile Solutions operates from Salem, Virginia, where it was founded in 1936 by Glenn Thornhill Sr. and his wife after they purchased a bankrupt textile company and renamed it Maid Bess. The business has remained family-owned across three generations; in the 1990s, Joanne Thornhill became the 51% owner, making it a woman-owned enterprise. The founder's wartime service during World War II redirected the company toward defense production, a focus that continues today.
 
-The firm specializes in custom cut-and-sew manufacturing using industrial and technical fabrics. Its capabilities include prototype and sample making, material sourcing, fabric welding, technical cutting, and full-scale garment assembly. An expansive, state-of-the-art cutting room supports production of tactical gear, nylon gear bags, military shelters, body armor, PPE, and uniforms for defense and healthcare customers.
+The company specializes in custom cut-and-sew manufacturing using industrial fabrics, technical nylon, and military-grade materials. Its services include prototype development, material sourcing, fabric welding, technical cutting, packaging, and warehousing. A newly acquired industrial cutting machine (2023) supports an expansive cutting room, enabling quick-turn garment production and short lead times for contract sewing orders ranging from tactical gear and gear bags to military shelters, body armor, PPE, and uniforms.
 
-Primary customers include the Department of Defense, Special Forces, the Navy, and the State of Virginia, as well as frontline healthcare workers. The company is a Berry Amendment–compliant subcontractor for DOD apparel programs and also serves the medical protective equipment sector.
+Primary customers include the U.S. Department of Defense (Special Forces, Navy), frontline healthcare workers, and the Commonwealth of Virginia. The firm is a Berry Amendment–compliant subcontractor for defense apparel and also supplies medical protective equipment to state and federal agencies.
 
-Founded to support wartime production during World War II, the business pivoted after NAFTA-driven offshoring by focusing on technical sewing innovation, quick-turn lead times, and domestic manufacturing partnerships. The Thornhill family emphasizes teamwork, responsiveness, and collaborative product development as core differentiators.
+Integrated Textile Solutions emphasizes made-in-America production, family values, and partnership-driven collaboration. Its team highlights technical expertise in complex sewing specifications and fabric welding, along with a willingness to co-develop innovative products and manage repair programs for returned goods.
 
 ## Known for
-- Berry Amendment compliant manufacturing
-- Short cut-and-sew lead times
-- Woman-owned and family-operated across three generations
-- Technical sewing and fabric welding expertise
-- Made-in-USA production for defense and medical markets
+- Berry Amendment–compliant domestic manufacturing
+- Quick-turn garment cut-and-sew with short lead times
+- Technical expertise in fabric welding and industrial fabric sewing
+- Family-owned, woman-owned leadership with three-generation continuity
+- Partnership model supporting co-development and repair services
 
 ## Capabilities
-- Prototype and sample making
+- Prototype/sample making
 - Material sourcing
-- Product cut and sew
+- Contract cut & sew
 - Fabric welding
 - Technical cutting
 - Industrial fabric sewing
 - Packaging (folding, tagging, wrapping, labeling)
-- Warehousing and distribution
+- Warehousing/distribution
 - Apparel manufacturing
+- Product design collaboration
+- Repair/refurbishment of returns
 
 ## Industries
-- Department of Defense
-- Special Forces
-- Navy
-- Medical Protective Equipment
+- Defense
 - Healthcare
-- State Government
+- Government
+- Medical Protective Equipment
 
 ## Equipment
-- Industrial Cutting Machine
+- Industrial cutting machine (2023)
 
 ## Certifications
 - Berry compliant
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1936
 - **Ownership:** Family-owned, Woman-owned
 - **Headquarters:** Salem, Virginia
@@ -602,14 +609,17 @@ Founded to support wartime production during World War II, the business pivoted 
 
 - Founded 1936 by Glenn Thornhill Sr. -> /about-us
 - Family-owned three generations -> /about-us
-- Woman-owned since 1990s (Joanne Thornhill 51%) -> /about-us
-- Headquarters Salem, Virginia -> /about-us, db
+- Woman-owned (Joanne Thornhill 51%) -> /about-us
+- Headquarters Salem, Virginia -> db
 - Berry compliant manufacturer -> /
-- Services: prototype/sample making, material sourcing, cut & sew, fabric welding, packaging, warehousing -> /services
-- Industries: DOD, Special Forces, Navy, healthcare, State of Virginia -> /
-- Equipment: Industrial Cutting Machine purchased Dec 2023 -> /
-- Materials: industrial fabrics, technical nylon, fabric and trim -> /, /services
-- Company type: specialized sewing manufacturer -> /
+- Contract sewing for DOD (Special Forces, Navy) -> /
+- Supplies PPE, uniforms to healthcare workers and State of Virginia -> /
+- Products: tactical gear, nylon gear bags, military shelters, body armor -> /
+- Processes: cut & sew, fabric welding, technical cutting, industrial fabrics -> /, /services
+- Services: prototype/sample making, material sourcing, packaging, warehousing -> /services
+- New industrial cutting machine purchased December 2023 -> /
+- Quick-turn garment cut and sew, short lead times -> /
+- Partnership model, co-development, repair returns -> /
 </details>
 
 ---
@@ -619,27 +629,27 @@ Founded to support wartime production during World War II, the business pivoted 
 **Old description:** . For companies that need to outsource Wire EDM or Tool Room work, we are an experienced resource that offers excellent turn around time along with competitive pricing.
 
 ## About
-Integrity Wire EDM, Inc. was established in 1997 in Sussex, Wisconsin. The company operates as a precision job shop specializing in wire electrical discharge machining (EDM) and tool room services for manufacturers that need to outsource those capabilities.
+Integrity Wire EDM, Inc. was established in 1997 in Sussex, Wisconsin. The company operates as a precision job shop specializing in wire EDM and tool room services.
 
-Its core services include wire EDM, micro wire EDM, and EDM drilling (small hole EDM), along with CNC laser cutting, machining, and etching. The tool room department provides CNC and manual milling, turning, and precision surface grinding. The shop works to micron-level tolerances and processes materials such as carbide, powdered metals, stainless steels, tool steels, plastics, and exotic alloys. Equipment is described as state‑of‑the‑art and methodically maintained.
+The shop provides wire EDM, micro wire EDM, and small-hole EDM (ED bore), along with CNC laser cutting, machining, and etching. Its tool room capabilities include CNC and manual milling, turning, and precision surface grinding. The facility works with materials such as carbide, powdered metals, stainless steel, tool steels, plastics, and exotic alloys, holding micron-level tolerances on every job.
 
-Customers range from large manufacturers whose internal tool rooms are overloaded to smaller companies that cannot justify in‑house EDM and grinding capacity. The company serves manufacturers across various industries in Wisconsin and globally, though no specific sectors are named in its public materials.
+Integrity Wire EDM serves manufacturers across a range of industries, acting as an outsourcing partner for large companies facing capacity constraints and as a full-service tool room for smaller firms that lack in-house capabilities. Customers are located throughout Wisconsin and globally.
 
-Integrity Wire EDM emphasizes continuous reinvestment in software, hardware, and workforce development through Wisconsin’s apprenticeship program. Its stated mission is to meet and exceed customer requirements through effective continuous improvement, and it highlights quick response times and competitive pricing as key differentiators.
+The company emphasizes continuous reinvestment in software, hardware, and workforce development through the Wisconsin Apprenticeship program. It cites its ISO 9001:2015 certification, methodically maintained equipment, and a commitment to exceeding customer requirements through continuous improvement as key differentiators.
 
 ## Known for
-- ISO 9001:2015 certified quality management system
-- Micron-level tolerances on wire EDM and grinding work
-- Quick response to consultation and delivery requests
-- Flexible job shop handling carbide, powdered metals, stainless, tool steels, plastics, and exotic alloys
-- Workforce development via Wisconsin apprenticeship program
+- Micron-level tolerances on all work
+- ISO 9001:2015 certified quality system
+- Excellent turnaround time with competitive pricing
+- Broad material capability including carbide, powdered metals, and exotic alloys
+- State-of-the-art equipment maintained for consistent performance
 
 ## Capabilities
 - Wire EDM
 - Micro Wire EDM
-- EDM Drilling (Small Hole EDM)
+- Small Hole EDM (ED Bore)
 - CNC Laser Cutting
-- CNC Laser Machining
+- Laser Machining
 - Laser Etching
 - CNC Milling
 - Manual Milling
@@ -647,8 +657,7 @@ Integrity Wire EDM emphasizes continuous reinvestment in software, hardware, and
 - Manual Turning
 - Precision Surface Grinding
 - Tool Room Services
-- Inspection Services
-- Stainless Steel Tooling Fabrication
+- Inspection
 
 ## Certifications
 - ISO 9001:2015
@@ -660,20 +669,20 @@ Integrity Wire EDM emphasizes continuous reinvestment in software, hardware, and
 
 <details><summary>Sources</summary>
 
-- Founded in 1997 -> db
-- Headquarters in Sussex, Wisconsin -> db
+- Founded 1997 -> db
+- Headquarters Sussex, Wisconsin -> db
 - ISO 9001:2015 certified -> /
-- Specializes in Wire EDM and Tool Room Services -> /
-- Offers Wire EDM, Micro Wire EDM, ED Bore -> /
-- Provides CNC Laser cutting, machining, etching -> /
-- Tool Room Services include CNC & Manual Milling/Turning and Precision Surface Grinding -> /
-- Works with materials: carbide, powdered metals, stainless, tool steels, plastics, exotic alloys -> /
+- ISO 9001:2015 certified -> /about-us
+- Services: Wire EDM, Micro Wire EDM, ED Bore, CNC Laser cutting, machining, etching, Tool Room Services (CNC & Manual Milling/Turning, Precision Surface Grinding) -> /
+- Services: Wire EDM, Micro Wire EDM, ED Bore, CNC Laser cutting, machining, etching, Tool Room Services (CNC & Manual Milling/Turning, Precision Surface Grinding) -> /services
+- Materials: carbide, powdered metals, stainless, tool steels, plastics, exotic alloys -> /about-us
 - Micron-level tolerances -> /
-- Serves manufacturers in Wisconsin and globally -> /about-us
-- Quick response to customer consultation and delivery requirements -> /about-us
-- Reinvests in software, hardware, equipment, education -> /
-- Uses Wisconsin Apprenticeship program -> /
-- Mission: meet and exceed customer requirements through effective continuous improvement -> /
+- Apprenticeship program -> /about-us
+- Excellent turnaround time and competitive pricing -> /
+- Excellent turnaround time and competitive pricing -> /about-us
+- Continuous reinvestment in software, hardware, equipment, education -> /about-us
+- Serves manufacturers globally and in Wisconsin -> /about-us
+- Acts as outsource partner for large companies and full-service for smaller firms -> /about-us
 </details>
 
 ---

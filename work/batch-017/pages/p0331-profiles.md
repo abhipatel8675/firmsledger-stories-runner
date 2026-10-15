@@ -3,34 +3,37 @@
 **Old description:** years, Edge Plastics has been at the forefront of innovation in injection molding. Founded on family values and driven by a commitment to excellence,
 
 ## About
-Edge Plastics, Inc. operates from Mansfield, Ohio, where it was founded in 1975 by Marilyn and David Eckstein as D&M Plastics. The family-owned business was purchased in 2005 by Shelley Fisher, an Ohio State University MBA graduate, who expanded the operation while maintaining its founding principles.
+Edge Plastics, Inc. is a family-owned injection molding manufacturer based in Mansfield, Ohio. The company was founded in 1975 by Marilyn and David Eckstein as D&M Plastics, and has remained under family control since. In 2005, their daughter Shelley Fisher acquired the business and serves as CEO, bringing an MBA from Ohio State University to the operation.
 
-The company specializes in injection molding of polymer storage products, including totes, bins, and organizers sold under lines such as Classic, Square, Latching, Hi-Top, Tough Totes, Big Tub!, Lock-N-Stor, and Holiday Totes. Its nearly 400,000-square-foot distribution facility, equipped with 26 loading docks, sits near U.S. Route 30, Interstate 71, and U.S. Route 42, enabling rapid shipment across North America.
+The company specializes in injection molding of industrial polymer storage products, including totes, bins, and containers for home, industrial, and office use. Its manufacturing and distribution campus spans nearly 400,000 square feet with 26 loading docks, positioned minutes from U.S. Route 30, Interstate 71, and U.S. Route 42 for rapid shipping across North America. Edge Plastics offers custom colors, private labeling, flexible ordering, and dedicated customer service.
 
-Products are designed for home, industrial, and office use, with custom colors and private labeling available. Edge Plastics serves businesses across North America, offering flexible ordering, committed delivery, and dedicated customer service.
+Customers range from retailers and distributors to industrial end-users seeking American-made storage solutions. The product line includes series such as Classic, Square, Latching, Hi-Top, Tough Totes, Big Tub!, Lock-N-Stor, and Holiday Totes, all produced in Ohio.
 
-Founded on family values and a commitment to ethical manufacturing, the company emphasizes integrity, innovation, partnership, and community impact. Its mission is to provide reliable, innovative, and sustainable injection molding solutions while fostering trust and growth for customers and communities.
+Edge Plastics emphasizes its founding principles of integrity, innovation, and partnership, positioning itself as a relationship-driven supplier that combines decades of molding expertise with a commitment to ethical manufacturing and community impact.
 
 ## Known for
 - Family-owned and operated since 1975
 - Nearly 400,000 sq ft distribution space with 26 docks
-- Flexible ordering, committed delivery, and quick response times
-- Private labeling option for customers
-- Products manufactured in the USA
+- Flexible ordering, private labeling, and quick response times
+- All products manufactured in the USA
+- Strategic location near major highways for fast North American shipping
 
 ## Capabilities
 - Injection molding
-- Private labeling
 - Custom color molding
-- Warehousing and distribution
-- Order fulfillment
-- Customer support
+- Private labeling
+- Flexible ordering
+- Committed delivery
+- Quick response time
+- Dedicated customer service
+- Distribution and logistics
 
 ## Industries
 - Home storage
 - Industrial storage
 - Office organization
-- Consumer goods
+- Retail distribution
+- North American B2B markets
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -41,18 +44,19 @@ Founded on family values and a commitment to ethical manufacturing, the company 
 <details><summary>Sources</summary>
 
 - Founded in 1975 by Marilyn and David Eckstein as D&M Plastics -> /about
-- Shelley Fisher purchased the company in 2005 and expanded the business -> /about
-- Headquartered in Mansfield, Ohio -> db
+- Family-owned since 1975, now led by CEO Shelley Fisher -> /about
+- Headquartered in Mansfield, Ohio -> /, /about
 - Nearly 400,000 sq ft distribution space with 26 docks -> /
-- Products include Classic, Square, Latching, Hi-Top, Tough Totes, Big Tub!, Lock-N-Stor, Holiday Totes -> /
-- Products designed for home, industrial, and office use -> /
-- Custom colors and private labeling available -> /
-- Flexible ordering, committed delivery, quick response time, dedicated customer service -> /
-- Family-owned and operated since 1975 -> /about
-- Mission: provide reliable, innovative, sustainable injection molding solutions -> /about
-- Values: integrity, innovation, partnership, community impact -> /about
-- Drug-free facility -> /
 - Strategic location near US Route 30, I-71, US Route 42 -> /
+- Injection molding of industrial polymer storage products -> /
+- Product lines: Classic, Square, Latching, Hi-Top, Tough Totes, Big Tub!, Lock-N-Stor, Holiday Totes -> /
+- Custom colors and private labeling available -> /
+- Flexible ordering, committed delivery, quick response, dedicated customer service -> /
+- Products for home, industrial, and office use -> /
+- Made in the USA -> /
+- Mission: integrity, innovation, partnership, community impact -> /about
+- Shelley Fisher purchased company in 2005 -> /
+- Drug-free facility -> /
 </details>
 
 ---
@@ -62,32 +66,31 @@ Founded on family values and a commitment to ethical manufacturing, the company 
 **Old description:** Founded in 2017, EisenBaumSTL began as a passion for woodworking, exploring and growing in the craft. Originally, we focused on custom projects, putting our heart into each one.
 
 ## About
-EisenBaumSTL Woodshop was founded in 2017 in St. Louis, Missouri, as a passion project in woodworking. The shop began by taking on custom projects, with the founders dedicating themselves to each piece.
+EisenBaumSTL Woodshop operates from St. Louis, Missouri, where it was founded in 2017. The business began as a passion for woodworking, with the founders focusing on custom projects before expanding into original product design.
 
-In 2021, the company shifted to designing and building its own product line, specializing in mid-century design and construction techniques. Today, EisenBaumSTL produces fine furniture and original designs, offering both a curated collection and custom pieces tailored to individual spaces. The workshop handles design, prototyping, and small-batch production of items such as chairs, tables, and case goods.
+The shop produces fine furniture with an emphasis on mid-century design and build techniques. In 2021, the company launched its own product line, moving beyond client-driven custom work to develop a collection of original pieces. Each item is designed and built in-house, reflecting a commitment to unique, one-of-a-kind furniture.
 
-The business serves residential clients and interior designers seeking distinctive, made-to-order furnishings. Customers can select from the existing product line or commission one-off pieces through the shop's custom project process.
+The company serves residential customers and design professionals seeking custom or original furniture pieces. Past projects include bespoke commissions, while the current product line and Concept Room showcase designs available for direct purchase or further customization.
 
-The founders emphasize original design, stating that each piece in their product line is unique to the brand and cannot be found elsewhere. They aim to create furniture that reflects the home and the people in it, and they invite collaboration through a Concept Room where new ideas are explored.
+EisenBaumSTL distinguishes itself through original design—every piece in its product line is exclusive to the shop. The founders cite a dedication to quality and innovation as the driving force behind the transition from custom work to a proprietary collection.
 
 ## Known for
-- Original designs exclusive to EisenBaumSTL
+- Original design: each piece unique to the shop
 - Mid-century design and build techniques
-- Custom furniture tailored to client specifications
-- Concept Room for collaborative product development
+- In-house product line launched in 2021
+- Concept Room for collaborative new ideas
 
 ## Capabilities
 - Custom woodworking
-- Furniture design
-- Mid-century furniture construction
-- Product line development
-- Concept development
-- Small-batch production
+- Fine furniture manufacturing
+- Mid-century furniture design
+- Original product design
+- Bespoke commission work
 
 ## Industries
-- Residential furniture
-- Interior design
-- Home furnishings
+- Furniture
+- Residential interior design
+- Custom woodworking
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -97,12 +100,12 @@ The founders emphasize original design, stating that each piece in their product
 <details><summary>Sources</summary>
 
 - Founded in 2017 -> db
-- Headquarters St. Louis, Missouri -> db
+- Headquarters: St. Louis, Missouri -> db
 - Began as passion for woodworking, custom projects -> /
-- 2021 started own product line, mid-century design focus -> /
-- Produces fine furniture, original designs -> /
-- Offers custom projects for clients -> /
-- Concept Room for new ideas and collaboration -> /
+- Launched own product line in 2021 focusing on mid-century design -> /
+- Produces fine furniture with original design -> /
+- Each piece unique to the shop -> /
+- Concept Room for new ideas -> /
 </details>
 
 ---
@@ -112,37 +115,37 @@ The founders emphasize original design, stating that each piece in their product
 **Old description:** El Capitan Foods is a family-run tortilla (corn and rice) and snack manufacturer based in Indianapolis, Indiana. Founded by two passionate food enthusiasts, the company provides high-quality, delicious Hispanic food-service products throughout the Midwest and distributes its Decadent Crunch CPG line nationwide.
 
 ## About
-El Capitan Foods operates from Indianapolis, Indiana, where it was founded by two food enthusiasts as a family-owned business. The company began with a focus on authentic Mexican-style corn tortillas and has since expanded into rice-based alternatives and snack products.
+El Capitan Foods operates from Indianapolis, Indiana, as a family-owned tortilla and snack manufacturer. The company was started by two food enthusiasts who set out to produce authentic Hispanic food-service products.
 
-The company manufactures corn and rice tortillas, tortilla chips, and a range of masa flours including white and yellow corn, tamale, and specialty varieties for items such as gorditas and arepas. Production runs in small batches without artificial preservatives, and the facility offers made-to-order hot tortillas on weekends. Private-label manufacturing and copacking services are available for corn tortillas and chips, and frozen corn tortillas can be shipped nationwide.
+The facility produces corn and rice tortillas, tortilla chips, and a range of masa flours—including white and yellow corn, tamale, and specialty varieties for gorditas, arepas, and huaraches. Products are made in small batches without artificial preservatives, using a traditional nixtamalization process for corn items. The company also runs a private-label and copacking program and ships frozen tortillas nationwide to maintain freshness.
 
-El Capitan Foods supplies restaurants, caterers, and other food-service operators throughout the Midwest with bulk fresh tortillas and chips. Its Decadent Crunch consumer-packaged-goods line is distributed nationally, and the company also provides white and yellow corn masa flour to food manufacturers and retail channels.
+El Capitan serves restaurants, caterers, and other food-service operators across the Midwest with its Hispanic product line, while its Decadent Crunch consumer-branded snacks are distributed to retail channels nationwide. The customer base includes independent eateries and larger food-service distributors seeking gluten-free, allergen-free, and vegan options such as the rice tortilla.
 
-The business emphasizes fresh, nixtamalized corn tortillas made from 100% real ingredients, gluten-free and allergen-free rice tortillas, and a commitment to small-batch quality as its primary differentiators in the market.
+The brand emphasizes gluten-free formulations, no seed oils, and 100% real ingredients, all produced in Indianapolis. A commitment to small-batch quality and responsive customer service is cited as the foundation of the business.
 
 ## Known for
+- Gluten-free, no seed oils, 100% real ingredients
 - Small-batch production with no artificial preservatives
-- Freshly nixtamalized corn tortillas
-- Gluten-free, allergen-free, vegan rice tortillas
-- Frozen tortilla shipping nationwide
-- Private label and copacking services for corn tortillas and chips
+- Traditional nixtamalization for corn tortillas and chips
+- Frozen shipping nationwide to preserve freshness
+- Private-label and copacking services available
 
 ## Capabilities
 - Corn tortilla manufacturing
 - Rice tortilla manufacturing
 - Tortilla chip manufacturing
 - Masa flour production (white corn, yellow corn, tamale, specialty)
-- Private label manufacturing
-- Copacking services
-- Frozen product shipping
-- Food service distribution
-- Consumer packaged goods distribution
+- Snack manufacturing (Decadent Crunch line)
+- Private label / copacking
+- Frozen product shipping (nationwide)
+- Food service distribution (Midwest)
+- CPG distribution (nationwide)
 
 ## Industries
-- Food service
-- Restaurant
+- Food service / restaurants
 - Catering
-- Consumer packaged goods
+- Hispanic food service
+- Consumer packaged goods (CPG) / retail
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -151,15 +154,17 @@ The business emphasizes fresh, nixtamalized corn tortillas made from 100% real i
 
 <details><summary>Sources</summary>
 
-- Family-run tortilla and snack manufacturer based in Indianapolis, Indiana -> db
+- Family-run tortilla and snack manufacturer in Indianapolis, Indiana -> db
 - Founded by two passionate food enthusiasts -> db
 - Provides Hispanic food-service products throughout the Midwest -> db
 - Distributes Decadent Crunch CPG line nationwide -> db
-- Offers fresh corn tortillas, chips, rice tortillas, frozen tortilla shipping, masa flours, private label manufacturing, copacking -> /
-- Small-batch production, no artificial preservatives, made-to-order hot tortillas on weekends -> /
+- Products: fresh corn tortillas & chips, rice tortillas, frozen tortilla shipping, masa flours, custom manufacturing -> /
+- Gluten-free, no seed oils, 100% real ingredients, made in Indianapolis -> /
+- Made in small batches, no artificial preservatives -> /
+- Freshly nixtamalized yellow corn tortilla -> /
+- Private label branding and copacking services -> /
 - Serves restaurants, caterers, food service providers -> /
-- Gluten-free, allergen-free, vegan rice tortillas -> /
-- Nixtamalized yellow corn tortilla mentioned in testimonial -> /
+- Offers shipping of frozen corn tortillas anywhere in the United States -> /
 </details>
 
 ---
@@ -169,32 +174,31 @@ The business emphasizes fresh, nixtamalized corn tortillas made from 100% real i
 **Old description:** We provide a complete design service — from initial measurements and detailed drawings for builders to full project supervision.
 
 ## About
-Elaine S. Baker & Associates was founded in 1982 in Anchorage, Alaska, by Elaine S. Baker. The firm began as an interior design practice serving Alaskan clients seeking to transform houses into homes.
+Elaine S. Baker & Associates has operated in Anchorage, Alaska since 1982, when founder Elaine S. Baker established the firm to provide interior design services to local residents. The company remains a privately held business, though its ownership structure is not publicly detailed.
 
-The company provides a complete design service encompassing initial measurements, detailed drawings for builders, and full project supervision. It operates a showroom in Anchorage as the exclusive dealer for brands such as Stickley, Hancock & Moore, Marge Carson, and Woodland, offering access to high-end home furnishings. A team of designers works with clients from concept through installation.
+The firm delivers a complete design service that spans initial site measurements and detailed drawings for builders through full project supervision. In addition to design consulting, the company operates a showroom that serves as an exclusive dealer for brands such as Stickley, Hancock & Moore, Marge Carson, and Woodland, offering clients access to a curated selection of home furnishings.
 
-The firm serves residential clients across Alaska, including homeowners and builders, focusing on luxury interior design and furniture specification. Its customer base includes those with exceptional taste seeking curated furnishings and professional design management.
+The client base centers on residential customers in Alaska, including homeowners seeking to transform houses into homes and builders who require design documentation. The company's marketing emphasizes its long-standing relationships with Alaskans of "exceptional taste," though specific commercial or institutional projects are not cited.
 
-The company distinguishes itself through its long-standing relationships with premium furniture manufacturers and its ability to manage projects from initial space planning to final installation, positioning itself as a single-source destination for high-end residential interiors.
+The business distinguishes itself through its authorized dealership agreements with several premium furniture lines and its integrated approach that combines design expertise with product procurement under one roof.
 
 ## Known for
-- Exclusive dealer for Stickley, Hancock & Moore, Marge Carson, Woodland
+- Exclusive dealer for Stickley, Hancock & Moore, Marge Carson, and Woodland
 - Complete design service from measurements to project supervision
-- Anchorage showroom with curated luxury furnishings
-- In-house design team managing residential projects
+- Anchorage showroom with curated home furnishings
+- Over 40 years serving Alaskan clients
 
 ## Capabilities
-- Full-Service Interior Design
-- Space Planning & Measurements
-- Detailed Drawings for Builders
-- Project Supervision
-- Luxury Furniture Retail
-- Showroom Consultation
+- Interior design
+- Design drawings
+- Project supervision
+- Furniture procurement
+- Initial measurements
 
 ## Industries
-- Residential Interior Design
-- Luxury Furniture Retail
-- Home Furnishings
+- Residential construction
+- Interior design
+- Home furnishings
 
 ## Company details
 - **Company Type:** Retailer
@@ -203,13 +207,13 @@ The company distinguishes itself through its long-standing relationships with pr
 
 <details><summary>Sources</summary>
 
-- founded 1982 -> db
-- headquarters Anchorage, Alaska -> db
-- founder Elaine S. Baker -> /about-us
-- complete design service (measurements, drawings, project supervision) -> description
-- exclusive dealer for Stickley, Hancock & Moore, Marge Carson, Woodland -> /about-us
-- showroom in Anchorage -> /about-us
-- team of designers -> /about-us
+- Founded in 1982 -> db
+- Headquartered in Anchorage, Alaska -> db
+- Provides complete design service including measurements, drawings, project supervision -> db description
+- Exclusive dealer for Stickley, Hancock & Moore, Marge Carson, Woodland -> /about-us
+- Operates a showroom in Anchorage -> /about-us
+- Over 40 years of experience helping Alaskans -> /about-us
+- Team of talented designers -> /about-us
 </details>
 
 ---
@@ -219,37 +223,37 @@ The company distinguishes itself through its long-standing relationships with pr
 **Old description:** Since 1972, ours has been a story of passion. We’ve dedicated ourselves to becoming a leader in the automotive industry and have a growing global presence.
 
 ## About
-Eldor Automotive Powertrain USA operates from Daleville, Virginia, as the American subsidiary of the Eldor Group, which was founded in 1972 in Orsenigo, Italy. The company traces its roots to the production of wound components for radio and television sets before pivoting to automotive ignition systems.
+Eldor Automotive Powertrain USA operates from Daleville, Virginia, as the American production arm of the Eldor Group, an Italian automotive technology company founded in 1972. The group began in Orsenigo, Italy, producing wound components for radio and television sets before pivoting to automotive ignition systems. The U.S. facility is part of a global network that includes production plants in Italy, China, Turkey, Brazil, and South Korea.
 
-The company designs and manufactures a range of powertrain technologies, including plug-top ignition coils, high-energy ignition systems, ignition systems for e-fuel and hydrogen applications, electric motors, electronic control units, magnetic components, charging stations, and fuel cells. It also develops automated production lines for its global manufacturing footprint, which spans production plants in Italy, China, Turkey, Brazil, and the United States, supported by sales and technical offices in Germany, South Korea, and other markets.
+The company manufactures plug-top ignition coils, high-energy ignition systems, and ignition systems for e-fuel and hydrogen applications. Its electrification portfolio includes e-motors, electronic control units, and magnetic components, while its urban e-mobility line covers charging stations and its energy division produces fuel cells. Eldor also designs and develops automated production lines for its own factories, emphasizing a "defect free factory" vision.
 
-Eldor serves the global automotive industry, supplying original equipment manufacturers and tier-one suppliers for internal combustion, hybrid, and electric vehicles. Its product portfolio also addresses emerging sectors such as urban e-mobility and clean energy, with charging infrastructure and fuel-cell systems.
+Primary customers are automotive OEMs and Tier 1 suppliers across the conventional, hybrid, and electric vehicle segments. The company serves the broader electrification, urban mobility, and energy sectors, with its components integrated into vehicles and charging infrastructure worldwide.
 
-The company emphasizes a zero-defect manufacturing philosophy and a commitment to reducing CO2 emissions through faultless products. Its stated mission centers on developing technologies for humankind, guided by values of personal integrity and a “defect-free factory” ambition.
+Eldor states its core mission is to develop faultless products that reduce CO2 emissions for a healthier planet. The group's "Beyond Automotive" strategy extends into AI, robotics, smart materials, and clean energy, aiming to support the transition to sustainable mobility.
 
 ## Known for
-- Faultless products designed to reduce CO2 emissions
-- Defect-free factory ambition
-- Global production footprint across five countries
-- In-house automated production line design
-- R&D centers focused on electrification, urban mobility, and clean energy
+- "Defect free factory" vision guiding production
+- CO2 reduction as a core product development goal
+- In-house design and development of automated production lines
+- Global manufacturing footprint across five countries
+- Electrification systems for e-fuel and hydrogen applications
 
 ## Capabilities
-- Ignition coil manufacturing
-- High-energy ignition system production
-- Ignition systems for e-fuel and hydrogen applications
-- Electric motor manufacturing
-- Electronic control unit production
-- Magnetic component manufacturing
-- Charging station production
-- Fuel cell development
 - Automated production line design and development
-- Research and development for mobility, AI/robotization, smart materials, clean energy
+- Ignition system manufacturing (plug-top coils, high-energy, e-fuel/hydrogen)
+- E-motor manufacturing
+- Electronic control unit manufacturing
+- Magnetic component winding
+- Charging station production
+- Fuel cell manufacturing
+- Wound component manufacturing
 
 ## Industries
 - Automotive
-- Urban e-mobility
+- Electrification
+- Urban E-Mobility
 - Energy
+- Hydrogen Applications
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -259,12 +263,17 @@ The company emphasizes a zero-defect manufacturing philosophy and a commitment t
 <details><summary>Sources</summary>
 
 - Founded 1972 -> db
-- Headquarters Daleville, Virginia -> db
+- HQ Daleville, Virginia -> db
 - Global production plants in Italy, China, Turkey, Brazil, USA -> /
-- Products include ignition coils, e-motors, electronic control units, magnetic components, charging stations, fuel cells -> /
-- Focus on defect-free manufacturing and CO2 reduction -> /
-- Automated production line design -> /
-- R&D centers focusing on automotive trends -> /
+- Products: plug-top ignition coils, high-energy ignition systems, e-fuel/hydrogen ignition systems -> /
+- Electrification: e-motors, electronic control units, magnetic components -> /
+- Urban E-Mobility: charging stations -> /
+- Energy: fuel cells -> /
+- Design and develop automated production lines -> /
+- Defect free factory vision -> /
+- CO2 reduction goal -> /
+- Languages from website selector -> /
+- LinkedIn URL -> db
 </details>
 
 ---
@@ -274,42 +283,43 @@ The company emphasizes a zero-defect manufacturing philosophy and a commitment t
 **Old description:** EleMETAL has more than 50 years of experience providing the highest quality manufacturing, custom fabrication, and machining services for customers throughout the United States.
 
 ## About
-EleMETAL Fabrication & Machine traces its roots to 1964 when Pete Dahlhauser founded Pete's Custom Metal, Inc. in Fremont, Nebraska. In 2019, Andrew Stamp, Brandon Carnes, and partners acquired the company, and a leadership team now guides its direction.
+EleMETAL Fabrication & Machine operates from Fremont, Nebraska, where it was founded in 1964 by Pete Dahlhauser as Pete's Custom Metal, Inc. The business began with a focus on high-quality sheet metal fabrication at fair prices. In 2019, a leadership group including Andrew Stamp, Brandon Carnes, and partners acquired the company, and Stamp became managing partner. The firm also operates a second facility in Omaha, Nebraska, acquired in 2024.
 
-The company provides sheet metal fabrication, welding, and precision machining from a 35,000-square-foot facility in Fremont that was extensively renovated in 2021. That site houses CNC mills with up to 84 inches of travel, CNC lathes with 85-inch travel and 9-inch bore, a Hurco VMX30Di 5-axis mill, a Flow Mach 500 waterjet, and a laser welding system. A second 19,000-square-foot shop in Omaha, acquired in 2024, adds horizontal boring mills, larger-capacity lathes, surface and shaft grinding, broaching, and onsite machining and press repair services.
+The company provides stainless steel fabrication, custom machining, and replacement parts for industrial and food-processing customers. Its capabilities include CNC milling with up to 84 inches of travel, CNC turning up to 85 inches with a 9-inch bore, horizontal boring mills, waterjet cutting (Flow Mach 500), laser welding, 5-axis machining, 3D laser scanning, surface and shaft grinding, and broaching. The Fremont campus spans 35,000 square feet of production space on 17.5 acres, complemented by a 19,000-square-foot Omaha shop that adds onsite machining, press repair, and rebuilding services.
 
-EleMETAL serves industrial and food manufacturing customers across the United States. Its client base includes companies needing custom-fabricated components, aftermarket replacement parts, and specialized equipment such as the company's own sanitary pivot dumpers. The team collaborates on design through final fabrication, leveraging a large raw-material inventory to reduce lead times.
+EleMETAL serves food manufacturers and general industrial clients across the United States, supplying products such as sanitary pivot dumpers, blades, knives, gaskets, and custom-fabricated components. The Omaha team's expertise in aftermarket replacement parts helps customers reduce downtime.
 
-The business was built on a passion for quality and fair pricing, a legacy the current owners say continues to drive their focus on solving customer problems quickly with skilled engineers, fabricators, and machinists.
+Founded on a passion for quality workmanship, the company differentiates itself through significant recent equipment investments, a large raw-material inventory, and a team of engineers, fabricators, and machinists positioned to solve both simple and complex problems quickly.
 
 ## Known for
-- Design-to-fabrication collaboration under one roof
-- Large raw-material inventory and precision equipment for rapid response
-- 60+ years of sheet metal fabrication and machining expertise
-- Recent 35,000 sq ft facility investment with waterjet, 5-axis milling, and laser welding
-- Omaha facility adds horizontal boring, grinding, broaching, and onsite machining services
+- More than 60 years of manufacturing experience
+- 35,000 sq ft state-of-the-art facility with bridge cranes, modern power, LED lighting, and ventilation
+- Major equipment investments including Flow Mach 500 waterjet, laser welding, and 5-axis Hurco mills
+- Expanded capabilities: horizontal boring mill, large-capacity lathes, surface/shaft grinding, broaching
+- Onsite machining, press repair, and rebuilding services via Omaha facility
 
 ## Capabilities
-- Sheet metal fabrication
-- Welding
-- CNC machining
-- 5-axis machining
+- Stainless steel fabrication
+- Custom CNC machining
+- CNC milling (up to 84" travel)
+- CNC turning (up to 85" travel, 9" bore)
+- Horizontal boring mill
 - Waterjet cutting
 - Laser welding
-- Horizontal boring
-- CNC milling
-- CNC turning
+- 5-axis machining
+- 3D laser scanning
 - Surface grinding
 - Shaft grinding
 - Broaching
 - Onsite machining
 - Press repair and rebuilding
-- 3D laser scanning
-- Custom fabrication
 - Replacement parts manufacturing
-- Pivot dumper manufacturing
-- Blades, knives & gaskets manufacturing
+- Pivot dumper fabrication
+- Blades, knives, and gaskets fabrication
 - Material sales
+- Design collaboration
+- Welding
+- Sheet metal fabrication
 
 ## Industries
 - Food manufacturing
@@ -320,32 +330,37 @@ The business was built on a passion for quality and fair pricing, a legacy the c
 - Hurco VMX84i Mill
 - Hurco VMX30Di 5 Axis Mill
 - Hurco TM18L Lathe
+- Laser welding system
+- 3D laser scanner
 - CNC mills (up to 84" travel)
 - CNC lathes (up to 85" travel, 9" bore)
 - CNC Horizontal Boring Mills
-- 3D laser scanner
-- Laser welding system
 - Bridge cranes
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Founded:** 1964
-- **Ownership:** Privately held
+- **Ownership:** Partner-owned (Andrew Stamp, Brandon Carnes, Chad Anderson, Jason Frey, Danielle Buckley)
 - **Headquarters:** Fremont, Nebraska
 
 <details><summary>Sources</summary>
 
-- Founded 1964 as Pete's Custom Metal, Inc. by Pete Dahlhauser -> /about
-- Rebranded to EleMETAL Fabrication + Machine in 2016 -> /about
-- Purchased 35,000 sq ft Fremont facility in 2021 -> /about
-- Purchased former American Machine Works 19,000 sq ft Omaha facility in 2024 -> /about
-- Leadership team: Andrew Stamp (Managing Partner), Brandon Carnes (VP Sales), Chad Anderson (Sales Manager), Jason Frey (VP Operations), Danielle Buckley (VP Finance) -> /about
-- Capabilities: sheet metal fabrication, welding, CNC machining, 5-axis machining, waterjet cutting, laser welding, horizontal boring, grinding, broaching, onsite machining, press repair -> /about
-- Equipment: Flow Mach 500 waterjet, Hurco VMX84i Mill, Hurco VMX30Di 5 Axis Mill, Hurco TM18L Lathe, CNC mills up to 84" travel, CNC lathes up to 85" travel, 3D laser scanner -> /about
-- Industries served: industrial and food manufacturing -> /about
-- Products: pivot dumpers, replacement parts, blades/knives/gaskets, material sales -> /
-- Headquarters: 2263 Business Park Drive, Fremont, NE 68025 -> /
-- LinkedIn: https://www.linkedin.com/company/elemetal-fabrication-machine/ -> db
+- Founded 1964 by Pete Dahlhauser as Pete's Custom Metal, Inc. -> /about
+- Located in Fremont, Nebraska -> /about, /
+- 35,000 sq ft facility at 2263 Business Park Drive, Fremont -> /about
+- Purchased former American Machine Works in Omaha (19,000 sq ft) in 2024 -> /about
+- Leadership team: Andrew Stamp, Brandon Carnes, Chad Anderson, Jason Frey, Danielle Buckley -> /about
+- Capabilities: stainless steel fabrication, custom machining, replacement parts, pivot dumpers, blades/knives/gaskets, material sales -> /, /about
+- Equipment: CNC mills up to 84" travel, CNC lathes up to 85" travel/9" bore, horizontal boring mills, Flow Mach 500 waterjet, laser welding, Hurco VMX84i Mill, Hurco VMX30Di 5 Axis Mill, Hurco TM18L Lathe, 3D laser scanner -> /, /about
+- Industries: food manufacturing (referenced in Brandon Carnes bio), industrial manufacturing -> /about
+- More than 60 years experience -> /about
+- Significant equipment investment and facility upgrades -> /about
+- Onsite machining, press repair, rebuilding services -> /about
+- Large inventory of raw material and precision equipment -> /
+- Founded on passion for quality workmanship -> /about
+- LinkedIn URL -> db
+- Founded year 1964 from db -> db
+- Headquarters Fremont, Nebraska from db -> db
 </details>
 
 ---
@@ -355,28 +370,32 @@ The business was built on a passion for quality and fair pricing, a legacy the c
 **Old description:** The Electric Barn, Inc. was founded in 1990 by a former Electrical Contractor and Master Electrician, who still runs the business today.
 
 ## About
-The Electric Barn, Inc. was founded in 1990 in North Hampton, New Hampshire, by a former electrical contractor and master electrician who continues to run the business. He established the company after recognizing a need for competitively priced, safe, and reliable obsolete electrical equipment to gain an edge over competitors.
+The Electric Barn, Inc. was founded in 1990 in North Hampton, New Hampshire, by a former electrical contractor and master electrician who continues to operate the business. The founder identified a need for competitively priced, safe, and reliable obsolete electrical equipment to gain a competitive edge, and established the company around that model.
 
-The company operates a 60,000-square-foot warehouse and an in-house reconditioning and testing facility. It buys, sells, and trades new, used, and reconditioned electrical equipment — including circuit breakers, switchgear, and motor controls — and provides demolition assistance, salvage, and recycling services. Inventory spans thousands of part numbers across multiple product conditions, from new surplus to reconditioned units with test reports.
+The company buys, sells, and trades new, used, and reconditioned electrical equipment, operating a dedicated reconditioning and testing facility alongside a 60,000-square-foot warehouse stocked with inventory. Its reconditioning process includes cleaning, inspection, insulation resistance testing, primary injection testing, contact resistance testing, and make-and-break testing for circuit breakers, with test reports provided. The Electric Barn also offers demolition assistance, salvage, and recycling services for electrical equipment.
 
-Customers include electrical contractors, industrial maintenance departments, and commercial facilities seeking hard-to-find or obsolete components. The firm serves buyers who need quick turnaround on replacement parts, as well as sellers looking to liquidate surplus or decommissioned electrical assets.
+The business serves electrical contractors, industrial maintenance departments, and other organizations that require obsolete or hard-to-find electrical components, including circuit breakers, switches, and control gear. Customers range from small contractors to large industrial facilities seeking cost-effective replacements.
 
-The founder’s original goal — securing a reliable source of obsolete gear — still drives the operation. The Electric Barn emphasizes PEARL-certified reconditioning processes, a one-year warranty on reconditioned items, 90-day coverage on used equipment, and shipping within one to two business days.
+The Electric Barn emphasizes quick turnaround, shipping most orders within one to two business days, and backs reconditioned equipment with a one-year warranty. The company states its commitment to highest quality, competitive pricing, accuracy, and customer service as the foundation of its operation.
 
 ## Known for
-- PEARL-certified reconditioning and testing facility
-- 60,000 sq. ft. warehouse with extensive inventory of new, used, and reconditioned electrical equipment
-- Ships orders within 1–2 business days
-- Buys all types of electrical equipment, new and used, for resale or recycling
-- Offers demolition assistance, salvage, and recycling services
+- PEARL Certified reconditioning processes
+- 60,000 sq ft warehouse with extensive inventory
+- In-house reconditioning and testing facility with test reports
+- Ships orders within 1-2 business days
+- Buys all electrical equipment, new and used
 
 ## Capabilities
-- Electrical equipment reconditioning
-- Electrical testing (insulation resistance, contact resistance, primary injection)
-- Equipment salvage and recycling
-- Demolition assistance
 - Buying, selling, and trading electrical equipment
+- Reconditioning and testing of electrical apparatus
+- Insulation resistance testing
+- Primary injection testing
+- Contact resistance testing
+- Make and break testing
+- Circuit breaker reconditioning with test reports
+- Demolition assistance, salvage, and recycling
 - Warranty administration (1-year on reconditioned, 90-day on used)
+- Equipment cleaning, inspection, and relabeling
 
 ## Certifications
 - PEARL Certified
@@ -390,13 +409,12 @@ The founder’s original goal — securing a reliable source of obsolete gear �
 
 - Founded in 1990 by a former electrical contractor and master electrician -> db
 - Headquarters in North Hampton, New Hampshire -> db
-- 60,000 sq. ft warehouse and in-house reconditioning/testing facility -> /
-- PEARL certified member -> /
-- Buys, sells, trades new, used, reconditioned electrical equipment -> /
-- Provides demolition assistance, salvage, recycling -> /
-- Ships orders within 1-2 business days -> /
-- Warranty: 1 year on reconditioned, 90 days on used -> /
-- Product conditions defined (NEW, RECONDITIONED, etc.) -> /
+- Operates a 60,000 sq ft warehouse and reconditioning/testing facility -> pages['/']
+- PEARL Certified member -> pages['/']
+- Offers buying, selling, trading, reconditioning, testing, demolition assistance, salvage, recycling -> pages['/']
+- Ships orders within 1-2 business days -> pages['/']
+- Provides 1-year warranty on reconditioned equipment, 90-day on used -> pages['/']
+- Reconditioning processes include insulation resistance test, primary injection test, contact resistance test, make and break test -> pages['/']
 </details>
 
 ---
@@ -406,53 +424,52 @@ The founder’s original goal — securing a reliable source of obsolete gear �
 **Old description:** Power distribution equipment incl. switchgear, MCCs, transformers (partly engineering/integration)
 
 ## About
-Electrical Design Technology, Inc. (EDT) is based in Sacramento, California, and has operated as a certified Small Business Enterprise since 1984. The company was founded to provide a single-source solution for power distribution equipment and engineering services, branding its approach as "The Power of One."
+Electrical Design Technology, Inc. (EDT) was established in 1984 in Sacramento, California, as a certified Small Business Enterprise focused on power distribution equipment and engineering services. The company operates from its headquarters in Sacramento and serves clients across North America and internationally.
 
-EDT supplies low-, medium-, and high-voltage power distribution equipment including transformers, switchgear, motor-control centers, panelboards, equipment buildings, and instrumentation systems. Beyond equipment procurement, the firm delivers engineering design, project management, technical specification writing, value engineering, submittals preparation, component list development, field coordination, and field testing. It coordinates materials in-house to ensure proper application and on-time, on-budget delivery.
+EDT supplies low-, medium-, and high-voltage power distribution equipment including transformers, switchgear, motor-control centers, panelboards, equipment buildings, and instrumentation systems. Beyond equipment procurement, the firm provides engineering design, project management, value engineering, technical specification writing, submittal preparation, component list development, field coordination, testing, and integration services. EDT coordinates materials in-house and leverages strategic partnerships with U.S. and international manufacturers to deliver equipment built to customer specifications.
 
-The company serves data-center operators such as Apple and Yahoo, transit agencies including BART, SFMTA, LA Metro, and the Port Authority of New York and New Jersey, utilities like SDG&E, HECO, and SMUD, airports in the New York area, power-generation projects, municipal water and wastewater systems, industrial and commercial facilities, ports such as Oakland and Long Beach, and government installations including Vandenberg Air Force Base where it supplied the first stainless-steel primary substation in the country.
+The company serves a diverse set of industries with documented project experience. In data centers, EDT has worked with Apple and Yahoo. For traction power, clients include Honolulu HART, SFMTA, BART, Caltrain, LA Metro, and the Port Authority of New York and New Jersey. Utility customers include SDG&E, HECO, and SMUD. Airport projects cover major New York-area airports. Power generation, municipal water and wastewater, industrial and commercial facilities (California State University campuses, state hospitals, manufacturing plants), ports (Oakland, Long Beach, Bremerton), and government installations such as Vandenberg Air Force Base are also represented.
 
-EDT differentiates itself by maintaining independence from manufacturer contracts, allowing unbiased equipment selection, and by providing direct technical consulting and support through dedicated customer teams rather than relying on manufacturers' service departments. This value-added partner model aims to deliver a comprehensive, single-source solution for electrical infrastructure projects.
+EDT differentiates itself through its "Power of One" model: a single source for engineering, project management, and equipment acquisition. The company emphasizes unbiased vendor selection — it is not bound by contractual obligations to specific manufacturers — and provides dedicated customer teams that offer direct technical consulting and support throughout a project's lifetime.
 
 ## Known for
 - Single-source engineering, project management, and equipment acquisition
-- Vendor-neutral equipment selection unbound by manufacturer contracts
-- Direct technical consulting and dedicated customer support teams
-- Equipment built to user specifications with on-time, on-budget delivery
+- Unbiased vendor selection without contractual obligations to manufacturers
+- Dedicated customer teams for direct technical support
 - In-house coordination of materials for proper application
+- Value engineering and technical specification writing
 
 ## Capabilities
 - Engineering design
 - Project management
 - Equipment procurement
-- Technical specification writing
 - Value engineering
-- Submittals preparation
+- Technical specification writing
+- Field coordination and testing
+- Submittal preparation
 - Component list development
-- Field coordination
-- Field testing
-- Technical consulting
-- Customer support
-- Power distribution equipment supply
-- Switchgear supply
-- Transformer supply
-- Motor control center supply
-- Panelboard supply
-- Equipment building supply
-- Instrumentation systems supply
+- Integration of power distribution equipment
+- Turnkey power distribution solutions
+- Low-voltage power distribution equipment supply
+- Medium-voltage power distribution equipment supply
+- High-voltage power distribution equipment supply
+- Transformer specification and procurement
+- Switchgear specification and procurement
+- Motor-control center specification and procurement
+- Panelboard specification and procurement
+- Equipment building specification and procurement
+- Instrumentation system specification and procurement
 
 ## Industries
-- Data Centers
-- Traction Power
+- Data centers
+- Traction power/transit
 - Utilities
 - Airports
-- Power Generation
+- Power generation
 - Municipalities
-- Industrial
-- Commercial
+- Industrial and commercial
 - Ports
-- Government
-- Water and Wastewater
+- Government/military
 - Education
 - Healthcare
 
@@ -460,28 +477,26 @@ EDT differentiates itself by maintaining independence from manufacturer contract
 - Small Business Enterprise (SBE)
 
 ## Company details
-- **Company Type:** Distributor / reseller
+- **Company Type:** Other
 - **Founded:** 1984
-- **Ownership:** Small business
+- **Ownership:** Small Business Enterprise (SBE)
 - **Headquarters:** Sacramento, California
 
 <details><summary>Sources</summary>
 
-- Founded in 1984 -> /about
-- Headquartered in Sacramento, California -> /about
+- Founded 1984 in Sacramento, CA -> /about
 - Certified Small Business Enterprise (SBE) -> /about
-- Supplies low, medium, high voltage power distribution equipment -> /about
-- Provides engineering services, project management, equipment acquisition -> /about
-- Offers technical specification writing, value engineering, submittals, component lists, field coordination, field testing -> /about
-- Serves data centers (Apple, Yahoo) -> /about
-- Serves transit agencies (BART, SFMTA, LA Metro, Port Authority NY/NJ, etc.) -> /about
-- Serves utilities (SDG&E, HECO, SMUD) -> /about
-- Serves airports in New York area -> /about
-- Serves power generation, municipalities, industrial, commercial, ports, government -> /about
-- Provided stainless steel primary substation at Vandenberg AFB -> /about
-- Vendor-neutral equipment selection -> /about
-- Direct technical consulting and dedicated customer teams -> /about
-- Global projects in Saudi Arabia, Canada, South America, Guam -> /about
+- Supplies low/medium/high voltage power distribution equipment (transformers, switchgear, MCCs, panelboards, equipment buildings, instrumentation) -> /about
+- Provides engineering design, project management, value engineering, technical specification writing, submittals, component lists, field coordination, testing, integration -> /about
+- Strategic partnerships with U.S. and international manufacturers; equipment built to user specifications -> /about
+- Data center clients: Apple, Yahoo -> /about
+- Traction power clients: Honolulu HART, SFMTA, BART, Caltrain, LA Metro, Port Authority NY/NJ, NJ Transit, LIRR -> /about
+- Utility clients: SDG&E, HECO, SMUD -> /about
+- Airport projects: major NY-area airports -> /about
+- Municipal water/wastewater, industrial/commercial (CSU campuses, hospitals, manufacturing) -> /about
+- Port clients: Port of Oakland, Port of Long Beach, Bremerton -> /about
+- Government: Vandenberg AFB (stainless steel primary substation) -> /about
+- Differentiators: single-source 'Power of One', unbiased vendor selection, dedicated customer teams, in-house material coordination -> /about
 </details>
 
 ---
@@ -491,41 +506,43 @@ EDT differentiates itself by maintaining independence from manufacturer contract
 **Old description:** Powering your future through electrical installation, service, maintenance, and emergency backup systems.
 
 ## About
-Electrical Systems of Maine has been operating from Auburn, Maine since its founding in 1986. The company is led by Chief Executive Officer David Tassinari, Chief Financial Officer Mathew Tassinari, and Chief Operations Officer Craig Norcross, supported by a team of project managers, licensed electricians, and technicians.
+Electrical Systems of Maine has been operating from Auburn, Maine since 1986. The company was founded with a commitment to quality and customer satisfaction, and over nearly four decades it has grown into a team of project managers, licensed electricians, and technicians. Leadership includes Chief Executive Officer David Tassinari, Chief Financial Officer Mathew Tassinari, and Chief Operations Officer Craig Norcross, supported by division managers across commercial construction, HVAC, and generator sales.
 
-The firm provides comprehensive electrical contracting services across residential, commercial, and industrial sectors. Its scope covers new construction wiring, service upgrades, knob-and-tube remediation, troubleshooting, and 24/7 emergency maintenance. In addition, the company installs, services, and repairs standby generators — both residential and commercial — including fuel polishing for diesel tanks. A dedicated HVAC division handles heat-pump and heating/cooling system installation, repair, and preventive maintenance.
+The firm provides a full range of electrical contracting services, including residential and commercial wiring, knob-and-tube remediation, service-entrance upgrades, and 24/7 emergency troubleshooting. It also installs, maintains, and repairs standby generators — both residential and commercial — and offers fuel‑polishing for diesel tanks. A separate HVAC division handles heat‑pump and heating/cooling system installation, repair, and routine maintenance for homes and businesses.
 
-Customers range from homeowners needing panel upgrades to industrial facilities requiring backup power solutions. The company cites residential, commercial, and industrial clients throughout Maine, with project examples including generator installations for homes and businesses, HVAC retrofits, and electrical service for new commercial builds.
+Customers span residential homeowners, commercial property owners, and industrial facilities throughout Maine. Examples include homeowners seeking backup‑power Generac installations, commercial clients needing generator maintenance contracts, and industrial sites requiring electrical infrastructure upgrades. The company positions itself as a one‑stop provider for electrical, generator, and HVAC needs across all three sectors.
 
-Electrical Systems of Maine positions itself as a one-stop provider, emphasizing quality workmanship, dependability, and responsiveness on projects of any size. The leadership highlights nearly four decades of experience and a full-service model that combines electrical, generator, and HVAC expertise under a single roof.
+The company says its differentiation lies in quality workmanship, dependability, and responsiveness on projects of any size. It emphasizes online scheduling, instant estimates for generators and heat pumps, and round‑the‑clock emergency service as practical advantages for its client base.
 
 ## Known for
-- Maine's one-stop provider for electrical, generator, and HVAC services
-- Quality work, dependability, and responsiveness on projects big and small
-- Nearly 40 years of experience since 1986
+- One-stop provider for electrical, generator, and HVAC services
 - 24/7 emergency maintenance and troubleshooting
-- In-house project management, estimating, and licensed electrician teams
+- Instant online estimates for home generators and heat pumps
+- Fuel polishing service for diesel storage tanks
+- Online service scheduling
 
 ## Capabilities
 - Electrical installation
 - Electrical service and maintenance
 - Emergency backup systems
 - Generator installation
-- Generator maintenance and repair
+- Generator repair and maintenance
 - Fuel polishing for diesel tanks
 - HVAC installation
 - HVAC repair and maintenance
 - Heat pump installation
+- Electrical troubleshooting
 - Knob and tube remediation
 - Fuse box to circuit breaker upgrades
 - Service entrance upgrades
-- Electrical troubleshooting
-- 24/7 emergency maintenance
-- Residential electrical services
-- Commercial electrical services
+- Residential electrical inspection
+- Commercial generator services
 - Industrial electrical services
-- Project management
-- Estimating and preconstruction
+- Commercial construction electrical
+- Onsite power generation services
+- Online service scheduling
+- Instant generator estimates
+- Instant heat pump estimates
 
 ## Industries
 - Residential
@@ -539,17 +556,17 @@ Electrical Systems of Maine positions itself as a one-stop provider, emphasizing
 
 <details><summary>Sources</summary>
 
-- Founded in 1986 -> db, homepage
+- Founded in 1986 -> db
 - Headquarters in Auburn, Maine -> db
-- Leadership: David Tassinari (CEO), Mathew Tassinari (CFO), Craig Norcross (COO) -> /about
-- Services: electrical installation, service, maintenance, emergency backup, generators, HVAC -> homepage, /about
-- Industries served: residential, commercial, industrial -> /about
-- 24/7 emergency maintenance -> homepage capabilities
-- Generator services: installation, maintenance, repair, fuel polishing -> homepage capabilities
-- HVAC services: heat pump installation, repair, maintenance -> homepage
-- Knob and tube remediation, fuse box upgrades, service entrance upgrades -> homepage capabilities
-- One-stop provider, quality, dependability, responsiveness -> /about
-- Nearly 40 years experience -> /about
+- Leadership team names (David Tassinari CEO, Mathew Tassinari CFO, Craig Norcross COO) -> /about
+- Services: electrical installation, service, maintenance, emergency backup -> /
+- Generator installation, repair, maintenance, fuel polishing -> /
+- HVAC and heat pump installation, repair, maintenance -> /
+- Serves residential, commercial, industrial customers -> /about
+- One-stop provider claim -> /about
+- 24/7 emergency service -> /
+- Online scheduling and instant estimates -> /
+- Company history nearly 40 years -> /about
 </details>
 
 ---
@@ -559,20 +576,20 @@ Electrical Systems of Maine positions itself as a one-stop provider, emphasizing
 **Old description:** As an independent distributor, we provide attentive customer care. We get to know you because you’re more than just customers--you’re part of the family.
 
 ## About
-Electrical Wholesale Supply Co., Inc. was founded in 1961 as a family-owned business in Meridian, Idaho. The company began as an independent electrical distributor and has remained under family ownership, serving customers across the Intermountain West.
+Electrical Wholesale Supply Co., Inc. has operated from Meridian, Idaho since its founding in 1961. The family-owned business began as an independent electrical distributor and has remained under family ownership for over six decades.
 
-Today the firm operates 17 branches spanning Southern Idaho, Western Montana, and Western Wyoming, supported by a regional distribution center that makes daily deliveries to each location. Its service lineup includes counter sales, credit accounts, job-site delivery, energy conservation programs, inventory management, online ordering and training, product expertise, project management, real-time inventory information, specification sheets, and will-call pickup. The distributor carries a broad line of electrical supplies and proudly stocks Square D products at every branch.
+The company distributes electrical supplies across 17 branches spanning Southern Idaho, Western Montana, and Western Wyoming. A regional distribution center makes daily deliveries to each location, supporting services that include counter sales, credit, delivery, energy conservation programs, inventory management, online ordering, online training, product expertise, project management, real-time information, spec sheets, and will-call pickup. The product line spans commercial, industrial, residential, utility, lighting, power distribution, control automation, data communications, tools, and wire, with Square D products stocked at every branch.
 
-The company serves commercial, industrial, institutional, residential, and utility markets, with specialized focus on control automation, data communications, lighting, power distribution, tools, and wire. Customers range from electrical contractors and maintenance departments to original equipment manufacturers and public institutions throughout the three-state region.
+Customers range from commercial and industrial contractors to institutional and residential projects, as well as utility and automation markets. The company's energy conservation programs serve clients seeking efficiency upgrades, while its project management and inventory management services support large-scale installations.
 
-The business emphasizes attentive, relationship-driven service, describing its approach as treating customers “more than just customers—you’re part of the family.” A one-stop shopping experience, local branch accessibility, and daily replenishment from the central warehouse are cited as key differentiators.
+The business emphasizes personal relationships, describing customers as "part of the family," and differentiates itself through its branch network, daily distribution logistics, and one-stop shopping model that combines product breadth with localized service.
 
 ## Known for
 - Family-owned independent distributor since 1961
-- 17 branches across Southern Idaho, Western Montana, Western Wyoming
-- Daily deliveries from regional distribution center
-- One-stop shopping with counter sales, credit, delivery, inventory management, online ordering
-- Supplies Square D products at all locations
+- 17 branches across Southern Idaho, Western Montana, and Western Wyoming
+- Regional distribution center with daily deliveries to all locations
+- One-stop shopping with counter sales, credit, delivery, inventory management, and online ordering
+- Square D products stocked at every branch
 
 ## Capabilities
 - Counter sales
@@ -602,6 +619,7 @@ The business emphasizes attentive, relationship-driven service, describing its a
 - Tools
 - Utility
 - Wire
+- Energy conservation programs
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -611,15 +629,14 @@ The business emphasizes attentive, relationship-driven service, describing its a
 
 <details><summary>Sources</summary>
 
-- Founded 1961 -> db and homepage 'Since 1961'
-- Family-owned -> homepage
-- 17 branches across Southern Idaho, Western Montana, Western Wyoming -> homepage and about page
-- Regional distribution center with daily deliveries -> homepage and about page
-- Services: counter sales, credit, delivery, energy conservation programs, inventory management, online ordering, online training, product expertise, project management, real-time information, spec sheets, will call -> about page
-- Industries served: Commercial, Control Automation, Data Comm, Electrical, Industrial, Institutional, Lighting, Power Distribution, Residential, Tools, Utility, Wire -> about page
-- Supplies Square D products at all locations -> about page
-- Headquarters Meridian, Idaho -> db and homepage (Corporate Office listed in Meridian)
-- Company type: independent distributor -> homepage
+- Founded 1961 -> db
+- Family-owned -> /
+- 17 branches across Southern Idaho, Western Montana, Western Wyoming -> /
+- Regional distribution center with daily deliveries -> /
+- Services: counter sales, credit, delivery, energy conservation programs, inventory management, online ordering, online training, product expertise, project management, real-time information, spec sheets, will call -> /about
+- Markets served: Commercial, Control Automation, Data Comm, Electrical, Industrial, Institutional, Lighting, Power Distribution, Residential, Tools, Utility, Wire -> /about
+- Supplies Square D products at all locations -> /about
+- Headquarters Meridian, Idaho -> db
 </details>
 
 ---

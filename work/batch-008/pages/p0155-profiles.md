@@ -3,37 +3,34 @@
 **Old description:** From street rods to race cars, Checkered Racing is your suspension connection. We fabricate and sell a complete line of back half and front ends to fit your needs. Our back halfs are available in any width you need to fit your project. You can order them in any stage of completion with whatever options you would like.
 
 ## About
-Checkered Racing operates from Spencer, Indiana, where it fabricates and sells custom chassis components for street rods and race cars. The company does not publicly disclose its founding year or ownership structure, and no founders are named on its website.
+Checkered Racing operates from Spencer, Indiana, where it fabricates and sells custom chassis and suspension components for street rods and race cars. The company does not publicly disclose its founding year or original founders, but notes more than 30 years of experience in the field.
 
-The shop builds back halves and front ends to any width, offering them in any stage of completion with customer‑specified options. Its catalog also includes rolling chassis, disc‑brake conversion kits, and a range of suspension components. In addition to its own fabricated line, Checkered Racing stocks products from brands such as QA1 Precision Products, RideTech, and Vi‑King Performance. The work involves custom fabrication, welding, and assembly, though the site provides no figures for facility size, headcount, or annual volume.
+The shop builds complete back halves and front ends in any width a project requires, offering them at any stage of completion with customer‑specified options. Its catalog also includes rolling chassis, disc‑brake conversion kits, and a range of chassis components. No facility size, headcount, or annual volume figures are published.
 
-Customers include individual builders and racers working on projects from classic Novas to C10 trucks. Testimonials cite a full chassis for an ’85 C10, a tube front end for a ’72 Nova, and a ground‑up frame‑to‑interior build. The company serves the street‑rod, hot‑rod, and racing segments of the automotive aftermarket.
+Customers include street‑rod builders, drag‑race teams, and restoration enthusiasts.
 
-Checkered Racing emphasizes more than 30 years of experience, competitive pricing, and a reputation for repeat business. It states that all technicians are fully trained and meet local and international safety certifications, and it promotes fast shipping on every order.
+Checkered Racing emphasizes reliable on‑time shipping, technicians who meet local and international safety certifications, competitive pricing, and a strong base of repeat customers as reasons buyers choose them.
 
 ## Known for
-- Back halves available in any width and any stage of completion
-- More than 30 years of experience in custom chassis fabrication
-- Technicians fully trained with local and international safety certifications
-- Fast shipping on all orders
-- Competitive prices and friendly service
+- Custom-width back halves fabricated to order
+- Components available at any stage of completion
+- 30+ years of industry experience
+- Competitive pricing with friendly service
+- High repeat‑customer rate
 
 ## Capabilities
 - Custom chassis fabrication
 - Back half fabrication
 - Front end fabrication
-- Suspension component manufacturing
-- Disc brake conversion kit installation
+- Suspension component fabrication
 - Rolling chassis assembly
-- Welding
-- Custom width chassis
+- Disc brake conversion kit fabrication
 
 ## Industries
 - Street rods
 - Race cars
-- Automotive aftermarket
-- Hot rod building
-- Custom chassis
+- Automotive restoration
+- Custom vehicle fabrication
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -43,14 +40,12 @@ Checkered Racing emphasizes more than 30 years of experience, competitive pricin
 
 - Location: Spencer, Indiana -> db
 - Fabricates and sells back halves and front ends -> /
-- Back halves available in any width and stage of completion -> /
-- Offers rolling chassis, disc brake conversion kits, suspension components -> /services
-- Carries QA1, RideTech, Vi-King Performance brands -> /services
-- Testimonials: Dave Barto, Joseph Riley, Brandon Rowe -> /
-- More than 30 years of experience claimed -> /about
-- Technicians fully trained with local and international safety certifications -> /about
-- Fast shipping emphasized -> /about
-- Competitive prices and friendly service claimed -> /about
+- Custom widths and any stage of completion -> /
+- More than 30 years of experience -> /about
+- Catalog categories: QA1 Precision Products, Front Suspension, RideTech, Disc Brake Conversion Kits, Rolling Chassis, Vi-King Performance, Rear Suspension, Chassis Components -> /services
+- Testimonials: Dave Barto, Joseph Riley (72 Nova), Brandon Rowe (85 C10) -> /
+- Technicians meet local and international safety certifications -> /about
+- Competitive prices, friendly service, excellent feedback, repeat customers -> /about
 </details>
 
 ---
@@ -60,37 +55,31 @@ Checkered Racing emphasizes more than 30 years of experience, competitive pricin
 **Old description:** JOIN US ON PATREON FOR SEWALONGS, BEHIND THE SCENES CONTENT, LIVE EVENTS & MORE!
 
 ## About
-Cherrywood Hand Dyed Fabrics operates from Baxter, Minnesota, where it was founded in 1991 by Dawn Hall.
+Cherrywood Hand Dyed Fabrics operates from Baxter, Minnesota, where it was founded in 1991. The company has remained under woman ownership since its inception.
 
-The company specializes in hand-dyeing fabrics to achieve a luscious, suede appearance, offering yardage, precut bundles, and coordinated collections such as Jungle, Paradise, and Havanna. Its product line includes solid and gradation color cards, quilt patterns, and a monthly subscription program called Monthly Color Infusion featuring unique colors, dye experiments, and overdyes. Operations run from a Minnesota studio that opens to visitors two days a week.
+The company specializes in hand-dyeing fabrics, producing materials with a luscious, suede texture suited for quilts, garments, and home decor. Its Baxter studio serves as both production space and a retail showroom open two days a week. Cherrywood organizes its output into themed collections such as Jungle and Paradise, and offers a Monthly Color Infusion subscription that delivers experimental dye lots and overdyes. The business also designs and sells quilt patterns.
 
-Cherrywood serves quilters, garment makers, and home decor enthusiasts through direct online sales and community events. Its fabrics appear in art quilt challenges such as the annual Jane Goodall Challenge and the Poppy Challenge exhibit shown at the Festival of Quilts in Birmingham, England. The company also partners with organizations for cancer awareness initiatives like Sew Pink.
+Cherrywood’s fabrics reach individual quilters, garment sewers, and home decor enthusiasts, as well as the art quilt community through annual challenges like the Jane Goodall Challenge and the Poppy Challenge, the latter exhibited at the Festival of Quilts in Birmingham, England. The company also supplies fabric retailers and participates in industry events such as The Quilt Show.
 
-The company emphasizes its Made-in-Minnesota heritage and its mastery of a suede-like finish that distinguishes its hand-dyed fabrics. Founder Dawn Hall started the business to create unique colorways for quilters, a mission continued through experimental dye techniques and community-focused events.
+Dawn Hall’s original goal was to master a suede appearance in hand-dyed fabric, a niche the company continues to emphasize. Its differentiators include decades of dye expertise, a woman-led operation, and a community-focused model that blends product sales with creative challenges and subscription-based color exploration.
 
 ## Known for
-- Hand-dyed suede-appearance fabrics
-- Made in Minnesota
-- Monthly Color Infusion subscription with exclusive dye experiments
-- Annual art quilt challenges and community retreats
+- Hand-dyed fabrics with a suede-like appearance
+- Annual art quilt challenges (Jane Goodall Challenge, Poppy Challenge)
+- Monthly Color Infusion subscription for experimental dye lots
+- Studio in Baxter, Minnesota open for visits Thursdays and Fridays
 
 ## Capabilities
 - Hand dyeing
-- Overdyeing
+- Fabric overdyeing
 - Color gradation bundling
-- Fabric yardage cutting
-- Custom color development
 - Quilt pattern design
-- Community workshop hosting
 
 ## Industries
 - Quilting
 - Apparel
 - Home decor
-- Arts and crafts
-
-## Certifications
-- WOMAN-OWNED
+- Art quilts
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -102,19 +91,12 @@ The company emphasizes its Made-in-Minnesota heritage and its mastery of a suede
 
 - Founded 1991 -> db
 - Headquarters Baxter, Minnesota -> db
-- Woman-owned certification -> db
-- Founder Dawn Hall -> page /
-- Woman-owned and operated since late 1980s -> page /
-- Hand-dyed suede-appearance fabrics -> page /
-- Collections: Jungle, Paradise, Havanna -> page /
-- Monthly Color Infusion subscription -> page /
-- Jane Goodall Challenge -> page /
-- Poppy Challenge Exhibit at Festival of Quilts Birmingham -> page /
-- Sew Pink cancer awareness -> page /
-- Studio address 7882 College Road Baxter MN -> page /
-- Studio hours Thursdays & Fridays 10am-4pm -> page /
-- Made in Minnesota claim -> page /
-- Director of Sales & Marketing Nathania -> page /
+- Woman-owned and operated since late 1980s -> page
+- Founder Dawn Hall -> page
+- Hand-dyed fabrics with suede appearance for quilts, garments, home decor -> page
+- Studio at 7882 College Road, Baxter, MN -> page
+- Annual Jane Goodall Challenge and Poppy Challenge -> page
+- Monthly Color Infusion subscription program -> page
 </details>
 
 ---
@@ -124,55 +106,56 @@ The company emphasizes its Made-in-Minnesota heritage and its mastery of a suede
 **Old description:** Chicana Foods™ was founded by first-generation Mexican-American professional photographer Allison Corona with the help of her sisters Claudia and Giovanna along with their mother, Gloria. Our macha salsas are inspired by traditional family recipes used in Mexico for decades. Over 20 years ago, our mothers sisters and brothers started their own salsa company in Mexico. Today, they have 50 employees and produce salsa enjoyed by thousands of Mexican families every week. Their success has been an inspiration and an example to follow as we embrace our employees like family and grow our company together.
 
 ## About
-Chicana Foods is based in Boise, Idaho. The company was founded by first-generation Mexican-American professional photographer Allison Corona with the help of her sisters Claudia and Giovanna and their mother, Gloria. The venture draws on family recipes from Mexico, where the founders' maternal aunts and uncles have operated a salsa business for over two decades.
+Chicana Foods operates from Boise, Idaho, where first-generation Mexican-American photographer Allison Corona founded the company alongside her sisters Claudia and Giovanna and their mother Gloria. The venture draws on traditional family recipes from Mexico, where the founders' maternal aunts and uncles have run a salsa business for over two decades. Corona adapted her aunt's salsa macha recipe in her Boise kitchen, launching a line of nut- and chile-based salsas that blend Veracruz and Oaxaca traditions with African influences.
 
-The company produces salsa macha, a traditional condiment from the Veracruz and Oaxaca regions, using high-quality seeds, nuts, chiles, olive oil, and dried fruit. The recipe was originally developed by an aunt in Mexico and refined in Chicana Foods' Boise kitchen. The operation employs 50 people and runs a production facility in Boise.
+The company produces salsa macha in varieties including peanut and cranberry, using ingredients such as seeds, nuts, chiles, olive oil, and dried fruit. Production takes place in a Boise kitchen facility; the Mexico-based family operation employs 50 people and supplies thousands of Mexican families weekly, though Chicana Foods' own headcount and facility size are not disclosed. The product is packaged for retail and food-service channels.
 
-Products are sold through a network of independent retailers across Idaho and Utah, including coffee shops such as Flying M Coffee House and Common Ground Coffee, specialty grocers like Idaho Made and Hillfort Farm, farmers markets such as The RealEx Stand, gift shops like Teal Magnolia Gifts, and wine tasting rooms including Indian Creek Winery. The company also sells directly to consumers via its website.
+Chicana Foods sells through specialty grocers, coffee shops, farmers markets, delis, wineries, and museum stores across Idaho and Utah. Retail partners include Coffee and Supply Co. in Eagle, Flying M Coffee locations in Boise, Caldwell, and Nampa, the Boise Farmers Market, Idaho Made, the Idaho State Museum Store, Indian Creek Winery in Kuna, and Das Cafe in Spring City, Utah. The brand also appears on menus at cafes such as Just Be Acai and Common Ground Coffee.
 
-The founders emphasize a family-oriented culture, prioritizing a living wage and safe workplace for all employees. A portion of sales is donated to non-profit organizations such as the Stay-In-School Quinceañera Program, which exposes Latine middle school students to Latine art, literature, and culture.
+The founders frame the business as an extension of family, prioritizing a living wage and safe workplace for employees. A portion of sales supports the Stay-In-School Quinceañera Program, which exposes Latine middle-school students to Latine art, literature, and culture. This social mission, coupled with the use of high-quality, small-batch ingredients, is presented as the company's distinguishing approach.
 
 ## Known for
-- Recipe developed by family in Mexico and refined in Boise kitchen
-- Living wage and safe workplace as top priority
-- Portion of sales donated to Stay-In-School Quinceañera Program
-- Made with high-quality seeds, nuts, chiles, olive oil, and dried fruit
+- Family recipes from Mexico refined in Boise kitchen
+- Living wage and safe workplace for employees
+- Portion of sales donated to Latine youth education program
+- Woman-owned, first-generation Mexican-American founded
+- Small-batch production with premium ingredients
 
 ## Capabilities
 - Salsa macha production
-- Recipe development
 - Small-batch food manufacturing
-- Packaging and labeling
+- Recipe development
+- Retail packaging
 - Wholesale distribution
-- Direct-to-consumer sales
 
 ## Industries
-- Specialty food retail
+- Specialty food
 - Food service
-- Gourmet grocery
+- Retail grocery
+- Coffee shops
 - Farmers markets
 - Gift shops
-- Wine tasting rooms
-- E-commerce
+- Museum stores
+- Wineries
+- Co-ops
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Employees:** 50
+- **Ownership:** Family-owned, Woman-owned
 - **Headquarters:** Boise, Idaho
 
 <details><summary>Sources</summary>
 
-- Company founded by Allison Corona with sisters Claudia and Giovanna and mother Gloria -> pages["/"]
-- Inspired by traditional family recipes from Mexico -> pages["/"]
-- Family in Mexico has run salsa company for over 20 years with 50 employees -> pages["/"]
-- Chicana Foods employs 50 people -> db, pages["/"]
-- Headquartered in Boise, Idaho -> db, pages["/"]
-- Produces salsa macha using seeds, nuts, chiles, olive oil, dried fruit -> pages["/"]
-- Recipe developed by aunt in Mexico, refined in Boise kitchen -> pages["/"]
-- Sells through retail locations in Idaho and Utah (list of stores) -> pages["/"]
-- Prioritizes living wage and safe workplace -> pages["/"]
-- Donates portion of sales to Stay-In-School Quinceañera Program -> pages["/"]
-- Family-oriented culture -> pages["/"]
+- Founded by Allison Corona with sisters Claudia and Giovanna and mother Gloria -> db, /
+- First-generation Mexican-American, professional photographer -> /
+- Based in Boise, Idaho -> db, /
+- Salsa macha varieties: peanut, cranberry -> /
+- Recipe developed by aunt in Mexico, refined in Boise kitchen -> /
+- Mexico family company employs 50, produces for thousands weekly -> /
+- Retail locations in Idaho and Utah listed -> /
+- Vision: living wage, safe environment, donations to Stay-In-School Quinceañera Program -> /
+- Employee count 50 from database -> db
 </details>
 
 ---
@@ -182,36 +165,39 @@ The founders emphasize a family-oriented culture, prioritizing a living wage and
 **Old description:** fabrication and high precision machining, and finally electronic manufacturing,
 
 ## About
-Founded in 2004 in West Berlin, New Jersey, Circuit Tech Assembly operates from a facility on Cooper Road. The company is led by President Bill Sherlock Jr. and Business Development lead Bill Sherlock Sr., suggesting a family-owned structure.
+Circuit Tech Assembly, LLC operates from West Berlin in Berlin Township, New Jersey. The company was founded in 2004 by the Sherlock family, with Bill Sherlock Jr. serving as president and Bill Sherlock Sr. handling business development. It began as a contract electronic manufacturing and design firm focused on exceeding customer procurement goals through a process-driven philosophy.
 
-The firm provides contract electronic manufacturing and design services, including PCB fabrication, surface-mount and plated-through-hole assembly, wire and cable harnesses, electro-mechanical assembly, box build, design engineering (using PADS for engineering changes and initial design), test engineering, quality management, and material management. It handles prototype, pilot, and full production runs.
+The shop provides a full range of electronic manufacturing services: PCB fabrication, surface-mount and plated through-hole assembly, wire and cable assembly, electro-mechanical assembly, and box build. Engineering support includes design and test engineering using PADS software, along with quality and material management. The company handles prototypes, pilot runs, and full production volumes.
 
-Its customer base spans the transit industry (rolling stock), telecommunications, and defense/military sectors.
+Primary markets served are the transit industry (rolling stock), telecommunications, and defense/military sectors. Customers in these industries rely on the firm for both printed circuit board fabrication and higher-level electro-mechanical integration.
 
-Circuit Tech Assembly emphasizes a process-model approach with an unwavering philosophy of automation, aiming to build quality into every product and exceed customer expectations through automated processes.
+The company emphasizes an unwavering philosophy of automation and a process model that builds quality into the product. Its stated aim is to deliver priced product that exceeds customer expectations through automated, repeatable processes.
 
 ## Known for
-- Unwavering philosophy of process automation
-- Quality built into the product via Process Model
-- Prototype, pilot, and production volume flexibility
-- Design engineering using PADS for engineering changes
+- Process model with quality built in
+- Automation-focused manufacturing philosophy
+- Prototype through production volume range
+- PADS for engineering design changes and initial design
 
 ## Capabilities
 - PCB Fabrication
-- Surface Mount
-- Plated Through Hole
-- Wire and Cable
-- Electro Mechanical
+- Surface Mount Technology (SMT)
+- Plated Through Hole Assembly
+- Wire and Cable Assembly
+- Electro-Mechanical Assembly
 - Box Build
-- Design Engineering
+- Design Engineering (PADS)
 - Test Engineering
-- Quality
+- Quality Management
 - Material Management
 
 ## Industries
-- Transit Industry (Rolling Stock)
+- Transit / Rolling Stock
 - Telecommunications
 - Defense / Military
+
+## Equipment
+- PADS design software
 
 ## Certifications
 - ISO 9001
@@ -219,20 +205,21 @@ Circuit Tech Assembly emphasizes a process-model approach with an unwavering phi
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
 - **Founded:** 2004
+- **Ownership:** Family-owned
 - **Headquarters:** West Berlin, NJ
 
 <details><summary>Sources</summary>
 
-- Founded in 2004 -> db
-- Headquarters West Berlin, NJ -> /
-- President Bill Sherlock Jr., Business Development Bill Sherlock Sr. -> /
-- Services: PCB Fabrication, Surface Mount, Plated Through Hole, Wire and Cable, Electro Mechanical, Box Build, Design Engineering, Test Engineering, Quality, Material Management -> /
-- Industries: Transit Industry (Rolling Stock), Telecommunications, Defense / Military -> db
-- Certifications: ISO 9001 -> db
-- Volume: Prototypes, Pilots and Productions -> db
-- Design engineering using PADS -> db
-- Process automation philosophy -> db
-- Quality built into product -> db
+- Founded 2004 -> db
+- Location West Berlin, NJ -> page /
+- Family ownership (Bill Sherlock Jr./Sr.) -> page /
+- Contract electronic manufacturing & design -> page /
+- Services list (PCB fab, SMT, PTH, wire/cable, electro-mech, box build, design, test, quality, material mgmt) -> page /
+- Industries: Transit, Telecom, Defense -> industries_served db
+- ISO 9001 certification -> certifications db
+- PADS for design -> capabilities db
+- Prototypes, Pilots and Productions -> products db
+- Automation philosophy and process model -> products db
 </details>
 
 ---
@@ -242,87 +229,69 @@ Circuit Tech Assembly emphasizes a process-model approach with an unwavering phi
 **Old description:** Cirtec specializes in advanced catheter technologies, offering precision extrusion, braiding and coiling, delivery sheath systems, and laser processing for complex medical applications. Our expertise ensures high-performance, minimally invasive catheters for neurovascular, structural heart, and electrophysiology procedures, optimizing flexibility, trackability, and durability to meet the most demanding clinical and regulatory requirements.
 
 ## About
-Cirtec Medical is based in Brooklyn Park, Minnesota. The company does not publicly disclose its founding year, ownership structure, or founder names.
+Cirtec Medical is headquartered in Brooklyn Park, Minnesota. The company operates as a contract development and manufacturing partner for Class II and III medical technologies, though its founding year and ownership structure are not publicly disclosed.
 
-The company develops and manufactures Class II and III medical devices with a focus on advanced catheter technologies. Its capabilities span precision extrusion, braiding, coiling, delivery sheath systems, and laser processing for catheter shafts. In precision metals, it offers micron-level CNC machining, Swiss milling, and laser welding, cutting, and marking for intricate metal components. Its microelectronics division leverages three decades of experience in thin-film technology, custom ASICs, and flexible electronics for implantable and wearable systems. Additional expertise includes silicone and synthetic polyisoprene molding for implantable devices, drug delivery, and medical tubing. Cirtec integrates design, development, and manufacturing under one roof to accelerate time to market.
+The firm provides integrated services spanning precision extrusion, braiding, coiling, and laser processing for catheter systems; micron-level CNC machining and Swiss milling for metal components; thin-film deposition, custom ASIC design, and flexible electronics for implantable and wearable devices; and silicone and synthetic polyisoprene molding for drug-delivery and tubing applications. It also offers balloon forming, electrode integration, and high-speed stamping for high-volume production of intricate metal parts.
 
-Cirtec serves the medical device industry, with specific focus on neurovascular, structural heart, electrophysiology, and cardiovascular applications. Its customers include medical device companies seeking minimally invasive solutions for complex anatomies. The company also supports neurostimulation, drug delivery, and wearable medical system markets.
+Cirtec serves medical device OEMs targeting neurovascular, structural heart, electrophysiology, cardiovascular, and interventional markets. Its customer base includes medical device companies that rely on the firm for concept-through-commercialization support on complex Class II and III programs.
 
-Cirtec differentiates itself through integrated end-to-end capabilities that reduce handoffs and risk, a quality system built for Class III devices, and proprietary platforms such as the ACCEL+ neurostimulation platform and the Navigator catheter handle platform. Its microelectronics heritage enables miniaturization and reliability in implantable systems.
+The company emphasizes three differentiators: accelerated time to market through flexible, integrated design and development; a quality management system validated for Class III devices that can integrate with client systems; and reduced risk by consolidating design, engineering, and manufacturing under one roof to eliminate handoff delays.
 
 ## Known for
-- Integrated design, development, and manufacturing from concept to commercialization
+- Accelerated time to market via integrated design, development, and manufacturing
+- Quality management system validated for Class III devices
+- Reduced risk by eliminating multi-partner handoffs
 - Three decades of microelectronics and thin-film expertise
-- Proprietary ACCEL+ neurostimulation and Navigator catheter handle platforms
-- Micron-level precision for Class II and III medical devices
-- Quick-turn complex extrusions for cardiovascular and neurovascular applications
+- Configurable catheter handle platform (Navigator) and neurostimulation platform (ACCEL+)
 
 ## Capabilities
 - Precision extrusion
 - Braiding
 - Coiling
 - Delivery sheath systems
-- Laser processing (welding, cutting, marking)
+- Laser processing
 - Micron-level CNC machining
 - Swiss milling
 - High-speed stamping
-- Complex medical extrusions
+- High-precision laser welding, cutting, and marking
 - Thin-film technology
-- Custom ASIC development
-- Flexible electronics manufacturing
+- Custom ASIC design
+- Flexible electronics fabrication
 - Balloon forming
 - Electrode integration
 - Silicone molding
 - Synthetic polyisoprene processing
-- Microelectronics assembly
-- PCB assembly
-- Catheter subassembly
-- Design and development
-- Quality management system (Class III)
-- Regulatory support
+- Medical tubing extrusion
+- Drug delivery system manufacturing
+- Printed circuit board assembly
+- Precision metal component fabrication
+- Catheter subassembly manufacturing
 
 ## Industries
-- Medical devices
 - Neurovascular
 - Structural heart
 - Electrophysiology
 - Cardiovascular
-- Implantable devices
-- Drug delivery
-- Wearable medical systems
-- Neurostimulation
-
-## Equipment
-- CNC machining centers (micron-level)
-- Swiss milling machines
-- Laser welding, cutting, and marking systems
-- High-speed stamping presses
-- Extrusion lines for complex medical profiles
-- Braiding machines
-- Coiling equipment
-- Balloon forming equipment
-- Thin-film deposition systems
-- Silicone molding equipment
-- Synthetic polyisoprene processing equipment
+- Implantable medical devices
+- Wearable medical devices
+- Drug delivery systems
+- Interventional devices
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Headquarters:** Brooklyn Park, Minnesota
 
 <details><summary>Sources</summary>
 
 - Headquarters in Brooklyn Park, Minnesota -> db
 - Specializes in advanced catheter technologies: precision extrusion, braiding, coiling, delivery sheath systems, laser processing -> db
-- Offers precision metals: micron-level CNC machining, Swiss milling, laser welding/cutting/marking -> /
-- Provides advanced electronics: thin-film technology, custom ASICs, flexible electronics, three decades of expertise -> /
-- Develops advanced catheter technologies: braiding, balloon forming, electrode integration -> /
-- Works with silicone and synthetic polyisoprene for implantable devices, drug delivery, medical tubing -> /
+- Offers micron-level CNC machining, Swiss milling, laser processing for Class II/III devices -> /
+- Provides thin-film technology, custom ASICs, flexible electronics for implantable/wearable systems -> /
+- Supplies silicone and synthetic polyisoprene for implantable devices, drug delivery, medical tubing -> /
 - Serves neurovascular, structural heart, electrophysiology, cardiovascular markets -> db, /
-- Customers include leading medical device companies -> /
-- Integrated design, development, manufacturing reduces handoffs and risk -> /
-- Quality system for Class III devices -> /
-- Proprietary platforms: ACCEL+ neurostimulation, Navigator catheter handle -> /
-- Quick-turn complex extrusions for cardiovascular and neurovascular applications -> db
+- Differentiators: accelerated time to market, quality management system for Class III, reduced risk via integration -> /
+- Three decades of microelectronics expertise -> /
+- Platforms: ACCEL+ Neurostimulation Platform, Navigator Catheter Handle Platform -> /
 </details>
 
 ---
@@ -332,153 +301,112 @@ Cirtec differentiates itself through integrated end-to-end capabilities that red
 **Old description:** For over 40 years, our team of trusted artisans has hand-crafted benchmade, bespoke furniture in our Bronx factory, using old‑world techniques and Savile Row–level attention to detail. We guarantee our frames for life, prioritizing longevity and sustainability, and meticulously inspect every piece before it leaves our shop. We serve custom residential, trade and commercial clients.
 
 ## About
-Classic Sofa of NY traces its roots to 1982, when the company opened its first factory in Brooklyn and began hand-crafting benchmade furniture for the tri-state area. After the 2008 recession forced a consolidation of its five retail locations, the business refocused on production integrity. In 2012, Blake Anding acquired the brand, assuming the roles of president and head of design, and relocated manufacturing to a dedicated facility at 728 East 136th Street in the Bronx.
+Classic Sofa of NY traces its roots to 1982, when it began as a Brooklyn-based factory crafting benchmade furniture. The company later relocated its production to a facility at 728 East 136th Street in the Bronx, New York, while maintaining showrooms in Manhattan, Palm Beach, and Nantucket. In 2012, Blake Anding assumed ownership as President and Head of Design, steering the brand toward a vertically integrated model that keeps design and manufacturing under one roof.
 
-The company produces custom upholstered furniture, drapery, and large-scale soft furnishings using locally sourced hardwood frames assembled with traditional joinery. Every piece is built in-house by a team of master artisans and apprentices, allowing the firm to control quality from frame construction through final upholstery. The Bronx factory also handles custom wall coverings, window treatments, and full interior outfitting for hospitality, yacht, and private-jet projects.
+The firm produces custom upholstered furniture, drapery, and large-scale furnishings using old-world, hand-crafted techniques. Its Bronx factory turns out benchmade frames from locally sourced hardwoods, and the team offers in-home consultations, progress sit-tests, on-site build, installation, and white-glove delivery. Specialty projects extend to custom wall coverings, window treatments, and full interior outfitting for hospitality venues, yachts, and private jets.
 
-Clients include residential customers, interior designers (trade), and commercial accounts such as hotels and private aviation operators. The firm offers in-home consultations, progress sit-tests, and white-glove delivery with on-site installation, supporting projects from single-piece commissions to full-suite fit-outs.
+Clients span custom residential, trade (interior designers and architects), and commercial sectors. Concrete examples include hospitality installations, yacht interiors, and private-jet cabin furnishings.
 
-Classic Sofa differentiates itself with a lifetime frame guarantee, a commitment to eco-friendly materials, and a vertical operation that keeps design and manufacturing under one roof. The brand cites its Savile Row–inspired attention to detail and the preservation of old-world craft methods as the foundation of its longevity.
+The company differentiates itself with a lifetime frame guarantee, a commitment to sustainability through longevity, and a Savile Row–level attention to detail that stems from Anding’s English heritage. The vertical operation ensures consistency from design through final inspection.
 
 ## Known for
-- Lifetime frame guarantee
-- Benchmade construction with locally sourced hardwoods
-- Vertical in-house design and production at Bronx factory
-- Savile Row–level attention to detail
-- Eco-friendly materials and production methods
+- Lifetime guarantee on frames
+- Benchmade, bespoke furniture handcrafted in NYC since 1982
+- Vertical integration: design and production in-house at Bronx factory
+- In-home consultations, progress sit-tests, on-site build, installation, white-glove delivery
+- Specialty projects for hospitality, yachts, and private jets
 
 ## Capabilities
-- Custom upholstered furniture manufacturing
-- Drapery fabrication
+- Custom upholstered furniture
+- Custom drapery
 - Benchmade furniture construction
-- In-home consultation and measurement
-- Progress sit-testing
+- In-home consultations and measurements
+- Progress sit-tests
 - On-site build and installation
 - White-glove delivery
 - Large-scale upholstered furnishings
 - Custom wall coverings
-- Window treatment fabrication
+- Window treatments
 - Full-service interior outfitting
-- Hospitality furniture production
-- Yacht and private jet interior outfitting
 
 ## Industries
 - Residential
-- Trade (interior design)
+- Trade (interior design/architecture)
 - Commercial
 - Hospitality
-- Yachts
-- Private jets
-- Interior design
+- Marine (yachts)
+- Aviation (private jets)
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1982
-- **Ownership:** Private (Blake Anding, President and Head of Design)
+- **Ownership:** Privately owned (Blake Anding, President and Head of Design, since 2012)
 - **Headquarters:** Bronx, New York
 
 <details><summary>Sources</summary>
 
-- Founded in 1982 in Brooklyn -> /about
-- Bronx factory at 728 E. 136th Street -> /, /about
-- Blake Anding acquired company in 2012 as President and Head of Design -> /about
-- Madeline B. Monaghan leads creative direction -> /about
-- Benchmade, bespoke furniture handcrafted by master artisans -> /, /about
-- Lifetime frame guarantee -> /, /about
-- Vertical operation: design and production in-house at Bronx factory -> /about
-- Old-world techniques, Savile Row-level attention -> /
-- Eco-friendly raw materials and production methods -> /about
-- Serves custom residential, trade, and commercial clients -> /
+- Founded 1982 in Brooklyn -> /about
+- Bronx factory location -> /about and /
+- Blake Anding took ownership in 2012 -> /about
+- Frames guaranteed for life -> /about and /
+- In-home consultations, progress sit-tests, on-site build, installation, white-glove delivery -> /
 - Specialty projects for hospitality, yachts, private jets -> /
-- Exclusive services: in-home consultations, progress sit-tests, on-site build, installation, white-glove delivery -> /
-- Showrooms in Manhattan, Palm Beach, Nantucket -> /
-- Five retail locations prior to 2008 recession -> /about
+- Vertical operation design and production in-house -> /about
+- Showrooms in Manhattan, Palm Beach, Nantucket -> / and /about
+- Locally-sourced hardwood frames -> /about
+- Eco-friendly raw materials -> /about
 </details>
 
 ---
 
 # Clauser Furniture
 
-**Old description:** Browse through our selection of Living Room items. Shop at Clauser Furniture in Berne, IN for Sofas, Sectionals, Tables, Chairs, Loveseats, Chaises, Desks, Entertainment Centers, Chests and Dressers, Cabinets, Bookcases, Settees, Benches, Ottomans, Stools.
-
-## About
-Clauser Furniture operates a retail showroom in Berne, Indiana, offering a broad selection of home furnishings. The company presents itself as a destination for American-made solid wood furniture, with a notable emphasis on pieces crafted by Amish artisans. The company's website includes an "Our Company" section, though detailed history such as founding year and ownership structure are not provided in the available content.
-
-The product assortment spans living room, bedroom, dining room, home office, and entertainment categories. Specific items include sofas, sectionals, tables, chairs, loveseats, chaises, desks, entertainment centers, chests, dressers, cabinets, bookcases, settees, benches, ottomans, and stools. The store also carries mattresses and a range of decor accessories, and its website provides a mattress finder tool and design idea galleries to assist shoppers.
-
-Clauser Furniture primarily serves residential customers looking for domestically produced solid wood furniture. The physical showroom in Berne allows buyers to view and select pieces in person, while the online catalog extends the reach beyond the local area.
-
-The company distinguishes itself by highlighting its commitment to American-made and Amish-built products, positioning its inventory as solid hardwood furnishings crafted using traditional methods. This focus on domestic sourcing and craftsmanship is presented as a core value proposition.
-
-## Known for
-- American-made solid wood furniture
-- Amish-crafted product lines
-- Broad assortment across living room, bedroom, dining, home office, and mattresses
-- Mattress finder tool for personalized selection
-
-## Capabilities
-- Retail furniture sales
-- Amish furniture sourcing
-- Mattress selection assistance
-- Design inspiration resources
-
-## Company details
-- **Company Type:** Retailer
-- **Headquarters:** Berne, IN
-
-<details><summary>Sources</summary>
-
-- Headquarters in Berne, Indiana -> db
-- Retail showroom offering living room, bedroom, dining, home office, entertainment, mattress, and decor categories -> page "/"
-- Emphasis on American-made solid wood furniture -> page "/"
-- Amish-made product lines -> page "/"
-- Mattress Finder tool for personalized selection -> page "/"
-- Design idea galleries -> page "/"
-</details>
-
----
+_skipped: not enough facts_
 
 # Clear-Vu Lighting
 
 **Old description:** Industrial LED lighting fixtures, US manufacturing since 1957
 
 ## About
-Clear-Vu Lighting operates from a 100,000-square-foot facility in Central Islip, New York. The company traces its roots to 1957 when LaMar Lighting was founded in Garden City South. The Clear-Vu brand was launched in 2008 by Autronic Plastics, and the two legacies merged in 2020 when Autronic Plastics acquired LaMar Lighting, consolidating operations under one roof. The business is led by founder and CEO Daniel Lax, who brings 18 years of LED fixture development experience.
+Clear-Vu Lighting operates from a 100,000-square-foot facility in Central Islip, New York. The company traces its roots to 1957 when LaMar Lighting was founded in Garden City South, NY. The Clear-Vu brand was launched in 2008 by Autronic Plastics, which acquired LaMar Lighting in 2020, uniting the two legacies under single ownership. Founder and CEO Daniel Lax leads the business, which emphasizes union-made, American manufacturing.
 
-The company engineers and manufactures American-made LED lighting systems for demanding environments. Its vertically integrated facility houses in-house plastic injection molding, CNC tooling, LED assembly lines, optical testing stations, and an R&D lab. With 78-plus product lines across six specialized markets, Clear-Vu produces fixtures for transit, construction, commercial, healthcare, life sciences, and correctional applications. The facility operates under ISO 9001:2015 certification.
+The firm designs and produces LED lighting systems for six specialized markets: transit, construction, commercial and industrial, healthcare, life sciences, and correctional facilities. Manufacturing is vertically integrated, encompassing in-house plastic injection molding, CNC tooling, LED assembly, optical testing, and a dedicated R&D lab. The facility runs 78-plus product lines and has installed more than 500,000 Occu-Smart motion-sensor units.
 
-Clear-Vu serves agencies, institutions, and Fortune 500 companies nationwide. Concrete examples include the NYC Metropolitan Transportation Authority for 15 subway stations under the Enhanced Station Initiative, healthcare facilities requiring surgical illumination with 95+ CRI, pharmaceutical cleanrooms rated ISO3 through ISO8, and correctional facilities needing ligature-resistant, tamper-proof fixtures. The company also supplies low-voltage temporary site lighting for construction, achieving 90 percent energy savings versus traditional systems.
+Customers include transit agencies such as the MTA — for which Clear-Vu supplied over 20 custom fixtures across 15 New York City subway stations — as well as federal agencies, commercial builders, healthcare institutions, and life-sciences manufacturers. The company also serves correctional facilities with vandal-resistant, ligature-resistant fixtures.
 
-The company emphasizes vertical integration — no outsourcing, no overseas dependencies — as a core differentiator, allowing engineers to walk to the production floor, prototype, test, and begin production without leaving the building. It also highlights BABA/BAA compliance, union-made labor, and direct engineering support from the designers as reasons customers specify its fixtures.
+Clear-Vu differentiates itself through full vertical integration, BABA/BAA compliance, and a no-outsourcing policy that keeps design, prototyping, and production under one roof. The company states its mission is to deliver purpose-built, engineered lighting systems for demanding environments rather than generic fixtures.
 
 ## Known for
-- Vertically integrated manufacturing with in-house injection molding, tooling, and assembly
-- BABA/BAA compliant for federal projects
-- Union-made in the USA
+- Vertically integrated manufacturing with in-house injection molding, tooling, and LED assembly
+- BABA/BAA compliant and union-made using American labor
 - ISO 9001:2015 certified quality management
 - Direct engineering support from the design team
+- 69 years of lighting innovation including first LED-lit subway tunnel
 
 ## Capabilities
 - In-house plastic injection molding
 - In-house CNC tooling and mold making
 - LED assembly and testing
-- Optical testing and validation
-- R&D prototyping and custom fixture design
-- DALI emergency backup system integration
-- Wireless monitoring (clearNET) deployment
-- Low-voltage temporary site lighting systems
-- Motion sensor lighting (Occu-Smart) technology
-- Cleanroom-rated fixture manufacturing (ISO3–ISO8)
-- Vandal-resistant and tamper-proof fixture manufacturing
-- Ligature-resistant fixture manufacturing
+- Optical testing
+- Custom fixture design and prototyping
+- Wireless monitoring (clearNET)
+- DALI emergency backup systems
+- Low-voltage temporary site lighting
+- Motion-sensor lighting (Occu-Smart)
+- Surgical illumination systems
+- Cleanroom-rated LED fixtures (ISO3-ISO8)
+- Vandal-resistant and tamper-proof fixtures
+- Ligature-resistant fixtures
+- Architectural and linear LED lighting
+- Sensor-controlled LED systems
 
 ## Industries
-- Transit / Transportation
+- Transit
 - Construction
 - Commercial & Industrial
 - Healthcare
-- Life Sciences / Pharmaceutical
-- Correctional & Secure Facilities
+- Life Sciences
+- Correctional & Secure
 
 ## Equipment
 - Injection molding presses
@@ -492,8 +420,9 @@ The company emphasizes vertical integration — no outsourcing, no overseas depe
 - UL Listed
 - DLC Listed
 - BABA/BAA Compliant
-- NSF P442
 - LEED
+- NSF P442
+- Union Made
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -502,24 +431,22 @@ The company emphasizes vertical integration — no outsourcing, no overseas depe
 
 <details><summary>Sources</summary>
 
-- Founded 1957 as LaMar Lighting in Garden City South, NY -> /about-us
+- Founded 1957 as LaMar Lighting -> /about-us
 - Clear-Vu brand launched 2008 by Autronic Plastics -> /about-us
-- Autronic Plastics acquired LaMar Lighting 2020, consolidated in Central Islip -> /about-us
-- 100,000 sq ft facility in Central Islip, NY -> /, /about-us
-- Vertically integrated: injection molding, tooling, LED assembly, optical testing, R&D lab -> /, /about-us
-- 78+ product lines, 6 specialized markets -> /, /about-us
-- ISO 9001:2015 certified -> /, /about-us
-- BABA/BAA compliant, Union Made, DLC Listed -> /, /about-us
-- CEO Daniel Lax, 18 years LED experience -> /about-us
-- 130+ years combined team experience -> /about-us
-- NYC MTA Enhanced Station Initiative: 15 stations, 20+ custom fixtures -> /
-- Healthcare: surgical illumination, 95+ CRI -> /
-- Life Sciences: ISO3–ISO8 cleanroom rated -> /
-- Correctional: ligature-resistant, tamper-proof -> /
-- Construction: FLEX SLS low-voltage temp lighting, 90% energy savings -> /
-- Commercial: 78+ product lines, 500,000+ Occu-Smart units installed -> /
-- Awards: Made in NY Manufacturing Excellence 2023, BAA Compliance Leadership 2022, NSF P442 First Certification 2021, LEED Innovation 2018, US Patent PLB-01 2014 -> /
-- Certifications array: ISO9001, ULLISTED, ISO 9001, BAA COMPLIANT, LEED -> db
+- Autronic Plastics acquired LaMar Lighting 2020 -> /about-us
+- Headquarters Central Islip, NY -> /about-us
+- 100,000 sq ft vertically integrated facility -> /about-us
+- In-house plastic injection molding, tooling, LED assembly -> /about-us
+- 78+ product lines -> /about-us
+- 6 specialized markets (transit, construction, commercial/industrial, healthcare, life sciences, correctional) -> /about-us
+- 500,000+ Occu-Smart units installed -> /
+- NYC Subway Enhanced Station Initiative: 20+ custom fixtures across 15 stations -> /
+- BABA/BAA compliant, union made, ISO 9001:2015 -> /
+- DLC Listed options -> /
+- NSF P442 First Certification -> /about-us
+- LEED Innovation in Design award -> /about-us
+- Founder & CEO Daniel Lax -> /about-us
+- 130+ years combined engineering experience -> /about-us
 </details>
 
 ---
@@ -529,52 +456,54 @@ The company emphasizes vertical integration — no outsourcing, no overseas depe
 **Old description:** Clearloop was founded as a carbon solution by three Tennesseans who want to ensure that the environmental, health, and economic benefits of clean energy reach the communities that need them the most, beginning in our own backyard.
 
 ## About
-Clearloop Corporation is based in Nashville, Tennessee. Founded by three Tennesseans—Bob Corney, Laura Zapata, and founding chairman Gov. Phil Bredesen—the company began as a carbon solution aimed at delivering the environmental, health, and economic benefits of clean energy to communities that need them most, starting in their own backyard. Clearloop was later acquired by Silicon Ranch, one of the largest independent power producers in the United States, to scale its mission.
+Clearloop Corporation is based in Nashville, Tennessee. The company was founded as a carbon solution by three Tennesseans — Bob Corney, Laura Zapata, and Gov. Phil Bredesen — who wanted the environmental, health, and economic benefits of clean energy to reach communities that need them most, starting in their own region. Clearloop was later acquired by Silicon Ranch, one of the largest independent power producers in the United States, to deliver on that promise at scale.
 
-Clearloop does not manufacture physical products. Instead, it provides a carbon solutions platform that helps organizations measure, reclaim, and track their carbon footprints by funding the construction of new solar energy facilities. The company’s model directs investment toward solar projects in carbon-intense regions of the U.S. South—including sites in Arcadia, Louisiana; Jackson, Tennessee; Panola County, Mississippi; Paris, Tennessee; and White Pine, Tennessee—where new renewable capacity displaces fossil-fuel generation. The acquisition by Silicon Ranch provides the project development and operational backbone to deliver these projects at scale.
+The company develops carbon solutions that help organizations measure their emissions, reclaim them by building new solar capacity in the most carbon-intense parts of the U.S. electricity grid, and track the resulting clean energy generation. Rather than purchasing power from existing projects, Clearloop finances and facilitates the development of new solar installations in locations such as Arcadia, Louisiana; Jackson, Tennessee; Panola County, Mississippi; Paris, Tennessee; and White Pine, Tennessee. Their model charges partners a fee based on a percentage of the product or corporate carbon footprint, directing those funds into new solar construction.
 
-The company works with organizations of all sizes, from global corporations to small businesses and educational institutions. Partners use Clearloop to address Scope 1, 2, and 3 emissions, applying the service to entire product lines, specific SKUs, manufacturing processes, or corporate travel. The platform is designed to be accessible regardless of a company’s sustainability maturity.
+Clearloop works with companies of all sizes, from global corporations to small businesses and educational institutions, that want to offset their carbon footprint and expand access to clean energy. Partners receive a "100% reclaimed carbon footprint®" certification for products or services tied to the investment. The firm focuses on the U.S. South, where grid carbon intensity is highest, arguing that building solar there displaces more fossil-fuel generation per watt than in cleaner regions.
 
-Clearloop differentiates itself by building new solar projects rather than purchasing renewable energy credits from existing installations. It focuses on communities traditionally left behind in the energy transition, aiming to maximize both carbon reduction and local economic benefit. The company states that its fee structure—a percentage of the product’s carbon footprint—funds project construction directly, and that every investment is tracked to show tangible clean energy generation over a 40-year project life.
+The founders started Clearloop as outsiders to corporate sustainability with a pragmatic, optimistic approach to climate action. They aim to green the U.S. electricity grid by 2050 by turning everyday purchases and corporate commitments into new renewable energy projects that benefit underserved communities. The company emphasizes equal access, low-risk long-term investment, corporate accountability, and scalable commitment as core principles.
 
 ## Known for
-- Builds new solar projects instead of buying from existing ones
-- Targets carbon-intense regions in the U.S. South for maximum emission reduction
-- Offers scalable carbon reclamation for any product, product line, or process
-- Tracks each corporate investment to show real-time clean energy generation
-- Backed by Silicon Ranch, a major independent power producer, for project execution at scale
+- Builds new solar projects rather than buying from existing ones
+- Focuses on carbon-intense grid regions in the U.S. South
+- Offers "100% reclaimed carbon footprint®" certification for partners
+- Scales from product-level to company-wide carbon reclamation
+- Fee based on percentage of product or corporate carbon footprint
 
 ## Capabilities
 - Carbon footprint measurement
-- Carbon offsetting via new solar project development
-- Solar project development in underserved communities
-- Corporate carbon tracking and reporting
-- Scalable carbon reclamation for products and services
+- Solar project development and financing
+- Carbon offset verification and tracking
+- Corporate sustainability consulting
+- Renewable energy project siting in high-impact regions
 
 ## Industries
 - Corporate sustainability
-- Clean energy
-- Carbon markets
-- Solar energy
-- Education institutions
+- Renewable energy development
+- Carbon offset markets
+- Educational institutions
 - Global corporations
 - Small businesses
 
 ## Company details
-- **Company Type:** Other
+- **Company Type:** Installer / service company
 - **Ownership:** Acquired by Silicon Ranch
 - **Headquarters:** Nashville, Tennessee
 
 <details><summary>Sources</summary>
 
-- Headquarters: Nashville, Tennessee -> /about
-- Founders: Bob Corney, Laura Zapata, Gov. Phil Bredesen -> /about
+- Headquarters in Nashville, Tennessee -> db
+- Founded by three Tennesseans: Bob Corney, Laura Zapata, Gov. Phil Bredesen -> /about
 - Acquired by Silicon Ranch -> /about
-- Business model: carbon solutions via new solar projects -> /about, /
-- Project locations: Arcadia LA, Jackson TN, Panola County MS, Paris TN, White Pine TN -> /, /about
-- Team members listed -> /about
-- Customer types: global corporations, small businesses, educational institutions -> /about
-- Differentiators: build new projects, focus on underserved communities, fee based on carbon footprint, tracking over 40 years -> /about
+- Business model: measure emissions, reclaim by building new solar, track progress -> /
+- Projects in Arcadia LA, Jackson TN, Panola County MS, Paris TN, White Pine TN -> /
+- Serves global corporations, small businesses, educational institutions -> /about
+- "100% reclaimed carbon footprint®" trademark -> /about
+- Fee based on percentage of product/corporate carbon footprint -> /about
+- Focus on U.S. South carbon-intense grid regions -> /about
+- Goal to green U.S. grid by 2050 -> /about
+- Team members listed (Jaclyn Mothupi, Emily Fairbank, etc.) -> /about
 - LinkedIn URL -> db
 </details>
 
@@ -585,25 +514,36 @@ Clearloop differentiates itself by building new solar projects rather than purch
 **Old description:** Our engineers are ready to pioneer advanced fastening solutions to solve your design challenges and enable your ideas to take off. Contact our Sales Team to explore customized designs as well as the hundreds of iterative products not shown in our online product database.
 
 ## About
-Click Bond is headquartered in Carson City, Nevada. The company focuses on adhesive-bonded fastening solutions.
+Click Bond, Inc. is headquartered in Carson City, Nevada. The company specializes in adhesive-bonded fasteners and does not disclose its founding year, ownership structure, or founders in the provided materials.
 
-Click Bond designs and manufactures adhesive-bonded fasteners for structural and non-structural applications. Its product portfolio includes ACRES® sleeves, rivetless nutplates, bushings, mounts, studs, standoffs, and adhesives. The company offers custom engineering services to develop tailored fastening solutions for specific design challenges.
+The company designs and manufactures a range of adhesive-bonded fastening products including ACRES® sleeves, rivetless nutplates, bushings, mounts, studs and standoffs, and adhesives. It also offers custom engineering services to develop tailored fastening solutions. The product portfolio includes hundreds of iterative designs not listed in the public catalog.
 
-The company serves a broad range of industries across air, sea, land, and industrial markets. In aviation, its fasteners are used in commercial, military, and general aviation, as well as business jets, advanced air mobility, rotorcraft, unmanned systems, satellites, missiles, and engines. In marine and naval sectors, applications include offshore and naval vessels. Ground transportation markets cover military vehicles, heavy trucks, automotive, rail, and transit. Industrial and green energy sectors also rely on Click Bond products for cable and wiring management, fuel and fluid tanks, interiors, pressurized vessels, decking, equipment attachment, tubing, hoses, repairs, panels, and systems attachment.
+Click Bond serves aerospace, defense, marine, automotive, rail, energy, and industrial sectors. Specific markets include commercial, military, and general aviation; business jets; advanced air mobility; rotorcraft; unmanned systems; satellites; missiles; engines; offshore and naval vessels; military vehicles; heavy trucks; automotive and rail transit; and green energy. Applications span cable and wiring management, fuel and fluid tanks, interiors, pressurized vessels, decking, equipment attachment, tubing, repairs, panels, and systems attachment.
 
-Click Bond emphasizes its engineering-driven approach, stating that its engineers pioneer advanced fastening solutions to solve design challenges and enable customer ideas. The company highlights a deep product database with hundreds of iterative designs not publicly listed, supporting customized solutions beyond standard catalog offerings.
+The company emphasizes its engineering team's ability to pioneer advanced fastening solutions for challenging designs and highlights a global network of local representatives to support customers worldwide.
 
 ## Known for
-- Customized fastening solutions with extensive iterative product database
-- Engineering-driven design for advanced fastening challenges
-- Global sales representative network
+- Hundreds of iterative products not shown in online database
+- Customized designs engineered for specific applications
+- Global network of local representatives
 
 ## Capabilities
 - Adhesive-bonded fastener manufacturing
-- Custom fastener design
-- Engineering support
+- Custom fastener design and engineering
+- ACRES® sleeve production
+- Rivetless nutplate production
+- Bushing and mount fabrication
+- Stud and standoff manufacturing
+- Adhesive formulation and supply
 
 ## Industries
+- Aerospace
+- Defense
+- Marine
+- Automotive
+- Rail
+- Energy
+- Industrial
 - Commercial Aviation
 - Military Aviation
 - General Aviation
@@ -614,15 +554,11 @@ Click Bond emphasizes its engineering-driven approach, stating that its engineer
 - Satellites
 - Missiles
 - Engines
-- Marine
 - Offshore
 - Naval
 - Military Vehicles
 - Heavy Trucks
-- Automotive
-- Rail
-- Transit
-- Industrial
+- Rail Transit
 - Green Energy
 
 ## Company details
@@ -632,12 +568,13 @@ Click Bond emphasizes its engineering-driven approach, stating that its engineer
 <details><summary>Sources</summary>
 
 - Headquarters: Carson City, Nevada -> db
-- Product focus: adhesive-bonded fasteners -> /
-- Markets served: Commercial Aviation, Military Aviation, General Aviation, Business Jets, Advanced Air Mobility, Rotorcraft, Unmanned, Satellites, Missiles, Engines, Marine, Offshore, Naval, Military Vehicles, Heavy Trucks, Automotive, Rail, Transit, Industrial, Green Energy -> /
-- Product lines: ACRES® Sleeves, Rivetless Nutplates, Bushings, Mounts, Studs & Standoffs, Adhesives -> /
-- Applications: Cables & Wiring, Fuel & Fluid Tanks, Interiors, Pressurized Vessels, Decking & Floorboards, Equipment Attachment, Tubing & Hoses, Repairs, Panels, Systems Attachment -> /
-- Custom solutions: engineers pioneer advanced fastening solutions, hundreds of iterative products not shown online -> /
-- Global rep network: reps have locations around the world -> /
+- Product: Adhesive-bonded fasteners -> page /
+- Product lines: ACRES® Sleeves, Rivetless Nutplates, Bushings, Mounts, Studs & Standoffs, Adhesives -> page /
+- Custom solutions offered -> page /
+- Markets: Aerospace, Defense, Marine, Automotive, Rail, Energy, Industrial -> page /
+- Specific industries listed (aviation, space, marine, land, industrial) -> page /
+- Applications: Cables & Wiring, Fuel & Fluid Tanks, Interiors, Pressurized Vessels, etc. -> page /
+- Global rep network mentioned -> page /
 </details>
 
 ---

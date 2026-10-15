@@ -3,34 +3,34 @@
 **Old description:** In 2000, the acquisition of Maquet enabled the Getinge Group to start provisioning operating theatres. Founded in 1838, Maquet has a rich heritage in creating groundbreaking products, including the first motorized operating table and the table used for the world’s first heart transplant. The acquisition of Jostra (heart-lung machines) and Siemens LSS (ventilators) in 2003 made the offer within Acute Care Therapies even more competitive and patient-centric.
 
 ## About
-Getinge operates from Merrimack, New Hampshire, as the U.S. hub of a global medical technology group with roots stretching back to 1838. That year, Maquet was founded in Germany and later pioneered the first motorized operating table and the table used for the world's first heart transplant. The Getinge Group took shape through a series of acquisitions: Maquet in 2000 brought operating‑theatre provisioning, followed by Jostra (heart‑lung machines) and Siemens LSS (ventilators) in 2003, expanding the portfolio into acute care therapies.
+Getinge operates from Merrimack, New Hampshire, as the U.S. headquarters of a global medical technology group with roots tracing to 1838 when Maquet was founded in Germany. The Getinge Group took shape through a series of acquisitions: Maquet in 2000 brought operating-room tables and surgical workflows, followed by Jostra (heart-lung machines) and Siemens LSS (ventilators) in 2003, expanding the portfolio into acute care therapies.
 
-The company designs and manufactures equipment for intensive care, cardiovascular procedures, operating rooms, sterile processing, pharmaceutical production, and research laboratories. Its product lines include Servo ventilators — described as pioneers in personalized ventilation — Maquet Volista surgical lights compatible with fluorescence imaging, the DPTE®‑EXO Alpha Port for biocontainment, SteriTec sterile‑processing systems, and production‑scale bioreactors, control systems, software, analytics, and perfusion systems for vaccine and biologic manufacturing.
+The company designs and manufactures equipment for intensive care, cardiovascular procedures, operating rooms, sterile processing, pharmaceutical production, and research laboratories. Product lines include the Servo family of ventilators, Maquet operating tables and lights, heart-lung systems, bioreactors, control systems, software, analytics, and perfusion systems for bioprocessing. Facilities and headcount are not disclosed in public materials.
 
-Getinge serves surgeons, caregivers, and scientists in hospitals, pharmaceutical companies, and research institutions worldwide. Its technologies are used in pediatric anesthesia, dialysis access, respiratory care, and cardiovascular surgery, with a presence across the Americas, Europe, and Asia‑Pacific.
+Customers span hospitals, surgical centers, pharmaceutical manufacturers, and research institutions worldwide. The company cites surgeons, caregivers, and scientists as primary users, with installations in intensive care units, catheterization labs, operating theaters, sterile processing departments, and vaccine production facilities.
 
-The company traces its differentiation to a heritage of “firsts” — the first motorized OR table, the first heart‑transplant table, and early heart‑lung and ventilator innovations — and states its purpose as standing behind “the moments that matter” for every life saved and breakthrough made.
+Getinge states its purpose as a "passion for life," aiming to stand behind every life saved and breakthrough made. The heritage of firsts — such as the world's first motorized operating table and the table used in the first heart transplant — is presented as the foundation for its focus on patient-centric, personalized ventilation and sterile processing solutions.
 
 ## Known for
-- Heritage of medical firsts: first motorized operating table (1838 Maquet) and table for world's first heart transplant
-- Pioneer in personalized ventilation with Servo ventilator line
-- Agnostic medical device connectivity
-- Biocontainment solutions for vaccine production (DPTE®‑EXO Alpha Port)
-- Integrated acute care portfolio from strategic acquisitions (Maquet, Jostra, Siemens LSS)
+- Heritage of medical firsts including first motorized OR table and first heart transplant table
+- Integrated acute care portfolio spanning ventilation, cardiopulmonary, and OR
+- Personalized ventilation technology via Servo platform
+- Sterile processing and biocontainment for pharmaceutical production
+- Global support network with multi-language service
 
 ## Capabilities
-- Ventilator design and manufacturing
+- Ventilator manufacturing
 - Operating table manufacturing
-- Surgical light manufacturing
-- Sterile processing equipment manufacturing
-- Bioreactor system manufacturing
-- Control system development
-- Medical software development
-- Analytics platform development
-- Perfusion system manufacturing
 - Heart-lung machine manufacturing
-- Biocontainment system manufacturing
-- Fluorescence imaging compatible surgical equipment
+- Sterile processing equipment
+- Pharmaceutical production equipment
+- Bioreactor systems
+- Control systems
+- Software development
+- Analytics
+- Perfusion systems
+- Biocontainment systems
+- Fluorescence imaging compatible surgical lights
 
 ## Industries
 - Healthcare
@@ -41,14 +41,14 @@ The company traces its differentiation to a heritage of “firsts” — the fir
 - Cardiovascular Procedures
 - Operating Room
 - Sterile Processing
-- Digital Health
+- Vaccine Production
+- Bioprocessing
 
 ## Equipment
 - Servo Ventilator
 - Servo-air Lite
 - Maquet Volista
 - DPTE®-EXO Alpha Port
-- SteriTec Products
 - Production Scale Bioreactors
 - Production Scale Control Systems
 - Production Scale Perfusion Systems
@@ -60,15 +60,16 @@ The company traces its differentiation to a heritage of “firsts” — the fir
 
 <details><summary>Sources</summary>
 
-- Founded 1838 as Maquet -> db description
+- Founded 1838 (Maquet) -> db description
 - Acquisition of Maquet in 2000 -> db description
 - Acquisition of Jostra and Siemens LSS in 2003 -> db description
-- HQ Merrimack, New Hampshire -> db hq_city, hq_state_label
-- Product lines: Servo ventilators, Maquet Volista, DPTE-EXO Alpha Port, SteriTec, bioreactors -> homepage products and text
-- Industries: Intensive Care, Cardiovascular, Operating Room, Sterile Processing, Digital Health, Pharmaceutical Production, Research Laboratories -> homepage
-- Languages from region selector -> homepage
-- Heritage claims: first motorized OR table, heart transplant table -> db description
-- Servo ventilator as pioneer in personalized ventilation -> homepage
+- HQ Merrimack, NH -> db hq_city/hq_state_label
+- Products: ventilators, operating tables, heart-lung machines, sterile processing, pharmaceutical production, bioreactors, control systems -> homepage products list and description
+- Industries served: intensive care, cardiovascular, OR, sterile processing, pharma production, research labs -> homepage sections
+- Servo Ventilator, Maquet Volista, DPTE®-EXO Alpha Port, Servo-air Lite -> homepage product mentions
+- Region selector languages -> homepage region list
+- Purpose statement 'passion for life' -> homepage tagline
+- Heritage claims: first motorized OR table, first heart transplant table -> db description
 </details>
 
 ---
@@ -78,75 +79,82 @@ The company traces its differentiation to a heritage of “firsts” — the fir
 **Old description:** A turnkey solution to your design, development, cut & sew, full
 
 ## About
-Gil Sewing Corp. operates from Morton Grove, Illinois, a Chicago suburb. The company traces its roots to 1992 when Michael Kaham started the business with a handful of seamstresses; it was formally established as a Women Minority Owned Business on May 20, 1993. Now a family-owned operation, it has grown to employ several hundred seamstresses in a 56,000-square-foot, fully automated facility.
+Gil Sewing Corp. operates from Morton Grove, Illinois, a Chicago suburb. The company traces its roots to 1992 when Michael Kaham started the business with a handful of seamstresses; it was formally established on May 20, 1993. Today it is a family‑run, women‑ and minority‑owned enterprise that has grown to employ several hundred sewing operators.
 
-The company provides turnkey apparel manufacturing: design, development, cutting, sewing, embroidery, and full-package production. Its domestic plant runs Gerber GtXL cutters capable of 30-ply lays and computerized servo-motor sewing machines. It handles small to large-scale runs for uniforms, tailored garments, outerwear, knits, fire-resistant apparel, and non-apparel items such as dog coats and upholstery. Overseas production is managed through partner factories in nine countries, with patterns and samples developed in Chicago before shipment.
+The firm provides a turnkey apparel service covering design, development, cut‑and‑sew manufacturing, in‑house embroidery, and global sourcing from nine partner countries. Its 56,000‑square‑foot domestic facility is fully automated, featuring Gerber GtXL cutters capable of 30‑ply cuts and computerized sewing machines with servo motors. Production runs from small batches to large‑scale orders, with all domestic work — cutting, sewing, finishing, and shipping — handled under one roof.
 
-Clients include major uniform suppliers, fashion brands, and the U.S. military—specifically the Naval Center for Research and Testing. The company holds DOD certification for final audit testing and maintains a sub-2.5 AQL across domestic and offshore orders. Its customer base spans retail, defense, activewear, and specialty markets.
+Clients span uniform suppliers, fashion brands, retail labels, and government agencies such as the Naval Center for Research and Testing. The product range includes tailored suits, shirts, bottoms, outerwear, knits, flame‑resistant garments, dresses, dress uniforms, activewear, dog apparel, and upholstery. Both domestic and overseas orders are developed in Chicago before being sent to partner factories in Mexico, China, El Salvador, Thailand, Vietnam, Kenya, Ethiopia, and Egypt.
 
-Founder Michael Kaham’s emphasis on perfection and family values drives the company’s quality system, which includes in-process auditing at every operation and dedicated auditors who travel to overseas partners. The firm promotes its domestic-first development model and quick-turn shipping—anywhere in the U.S. within three days—as key differentiators.
+The company emphasizes a “perfection” philosophy built on rigorous quality control: DOD‑certified final audit testing, a consistent sub‑2.5 AQL, in‑process inspections at every operation, and dedicated auditors who travel to overseas plants multiple times per order. Its central location enables three‑day shipping anywhere in the United States.
 
 ## Known for
-- 56,000 sq ft fully automated Chicago-area facility
-- Gerber GtXL cutters (up to 30 ply) and servo-motor sewing machines
-- DOD-certified quality with <2.5 AQL
-- Domestic pattern development and sample approval before overseas production
-- In-house custom embroidery and sourcing from 9 countries
+- DOD‑certified final audit testing with sub‑2.5 AQL across all customers
+- In‑process quality auditing at every production operation
+- 56,000 sq ft fully automated domestic facility with Gerber GtXL 30‑ply cutters
+- Domestic pattern and sample development before any overseas production
+- Three‑day shipping to any U.S. destination from Chicago‑area plant
 
 ## Capabilities
 - Design
 - Development
-- Cutting (Gerber GtXL)
-- Sewing (computerized servo-motor)
-- Embroidery (custom, contract)
-- Full-package production
-- Sourcing (domestic and overseas)
-- Quality auditing (in-process, final, overseas)
+- Cut-and-sew manufacturing
+- Embroidery (custom and contract)
+- Sourcing (global, 9 countries)
+- Automated cutting (Gerber GtXL)
+- Computerized sewing (servo motor)
+- Finishing
+- Quality auditing (in-process and final)
 - Pattern making
-- Sample development
-- Tech pack creation
+- Sample production
+- Tech pack development
 - Overseas production management
+- Fabric inspection
+- Grading and marking
 
 ## Industries
 - Uniforms
 - Fashion apparel
 - Retail apparel
-- Military/Defense
+- Military/Defense (DOD)
+- Tailored clothing
+- Workwear
+- Activewear
+- Outerwear
+- Flame-resistant (FR) apparel
 - Pet apparel
 - Upholstery
-- Activewear
-- Fire-resistant apparel
 
 ## Equipment
-- Gerber GtXL cutters
-- Computerized servo-motor sewing machines
+- Gerber GtXL cutters (30-ply)
+- Computerized sewing machines with servo motors
 
 ## Certifications
 - DOD certified for final audit testing
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
-- **Founded:** 1993
-- **Ownership:** Women Minority Owned, Family-owned
+- **Founded:** 1992
+- **Ownership:** Family-owned, Woman-owned, Minority-owned
 - **Headquarters:** Morton Grove, Illinois
 
 <details><summary>Sources</summary>
 
-- Founded in 1992 by Michael Kaham -> /
-- Formally established as Women Minority Owned Business on May 20, 1993 -> /about-us
-- Family-owned company -> /
-- Headquarters in Morton Grove, Illinois -> db
-- 56,000 sq ft fully automated facility in Chicago -> /about-us
+- Headquarters: Morton Grove, Illinois -> db
+- Founder Michael Kaham started company in 1992 -> /
+- Formally established May 20, 1993 -> /about-us
+- Women Minority Owned Business -> /about-us
+- Family company run with family values -> /
+- 56,000 sq ft fully automated facility -> /about-us
 - Gerber GtXL cutters up to 30 ply -> /about-us
-- Computerized servo-motor sewing machines -> /about-us
-- In-house custom and contract embroidery -> /services
-- Sourcing from 9 countries -> /services
+- Computerized sewing machines with servo motors -> /about-us
+- Domestic and offshore operations in 9 countries -> /about-us
 - DOD certified for final audit testing -> /about-us
-- Less than 2.5 AQL quality standard -> /about-us
-- Domestic development before overseas production -> /about-us
-- Partner factories in Mexico, China, El Salvador, Thailand, Vietnam, Kenya, Ethiopia, Egypt -> /about-us
-- Serves uniform, fashion, military, retail, pet, upholstery, activewear, FR apparel markets -> /, /about-us
-- Quick turn times, ship anywhere in US within three days -> /about-us
+- Less than 2.5 AQL -> /about-us
+- In-process auditing at every operation -> /about-us
+- Three-day shipping anywhere in US -> /about-us
+- Products: tailored apparel, dresses, overcoats, trousers, vests, blouses, shirts, slacks, coats, knits, FR apparel -> /about-us
+- Services: Design, Development, Manufacturing, Embroidery, Sourcing -> /services
+- Small to large scale production -> /
 </details>
 
 ---
@@ -156,52 +164,54 @@ Founder Michael Kaham’s emphasis on perfection and family values drives the co
 **Old description:** For the United States' 250th Anniversary, we will be closed Friday, July 3rd and will reopen Monday, July 6th at our normal hours. ​
 
 ## About
-Glaser Steel has operated in Colorado Springs, Colorado, since 1945 when Eugene Glaser and his brother-in-law Frank Holley opened H & G Welding in a former horse stable downtown. The business became Glaser Welding Works under Eugene’s sole ownership, with his wife Darlene handling bookkeeping, and later transitioned to the Glaser Steel name. It remains a family-owned enterprise, now led by the third generation—Jacque Glaser Jensen and her husband Tony Jensen—after successive stewardship by their son Burton “Buddy” Glaser and his wife Charolette.
+Glaser Steel, a family-owned steel supplier and fabricator, has operated in Colorado Springs, Colorado since 1945. It began as H & G Welding, founded by Eugene Glaser and his brother-in-law Frank Holley in a former horse stable on Cucharras Street. Eugene later became sole owner, renaming it Glaser Welding Works, and his son Burton 'Buddy' Glaser joined the shop after high school. The business relocated to its present address at 619 South 31st Street in 1969 after the city acquired the downtown property.
 
-The company stocks mild steel and aluminum in full lengths or cut-to-size, and maintains a drop pile for remnant pieces. Its shop at 619 South 31st Street, occupied since 1969, provides custom saw cutting, shearing, drilling, punching, welding and fabrication, and CNC plasma cutting of sheet and plate; a 2005 expansion added a plasma table and dedicated sheet storage. The firm also delivers materials and finished fabrications to local job sites.
+The company stocks mild steel and aluminum in full lengths and sells by the inch, also offering a drop pile of remnants. Its shop provides custom saw cutting, shearing, drilling, punching, welding and fabrication, and CNC plasma cutting of sheets and plates. A 2005 expansion added capacity for larger plate inventory and a plasma cutting table. Glaser Steel also delivers materials and finished fabrications to local job sites.
 
-Glaser Steel serves customers across the Colorado Front Range, supplying raw steel and fabricated components for projects ranging from ornamental railings and window covers to structural fabrications. The business does not list specific industry sectors but works with anyone requiring steel supply or custom metalwork.
-
-The company traces its differentiation to its continuous family ownership and its evolution from a blacksmith shop into a full-line steel supplier and fabricator, a shift accelerated in the 1990s when expanded inventory sparked a surge in retail sales.
+Glaser Steel serves customers throughout the Front Range region, including retail buyers, contractors, and fabrication shops that need custom metalwork or raw stock. The business has remained under family control through multiple generations; it is currently operated by Jacque and Tony Jensen, the daughter and son-in-law of Buddy Glaser.
 
 ## Known for
-- Family-owned since 1945
-- Steel sold by the inch from full lengths or drop pile
+- Retail sales by the inch
+- Drop pile of remnants available
 - CNC plasma cutting of custom shapes
 - Delivery of materials and fabricated items
-- Custom saw cutting, shearing, drilling, and punching
+- Family-owned and operated since 1945
 
 ## Capabilities
-- Saw cutting
+- Retail sales of mild steel and aluminum
+- Custom saw cutting
 - Shearing
 - Drilling
-- Hole punching
-- Welding
-- Fabrication
+- Punching
+- Welding and fabrication
 - CNC plasma cutting
 - Delivery
 
 ## Equipment
-- CNC plasma table
+- CNC plasma cutting table
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1945
 - **Ownership:** Family-owned
 - **Headquarters:** Colorado Springs, Colorado
 
 <details><summary>Sources</summary>
 
-- Founded 1945 by Eugene Glaser and Frank Holley -> about-us
-- Family-owned, now led by Jacque and Tony Jensen -> about-us
-- Location 619 S. 31st Street since 1969 -> about-us
-- Expanded in 2005 with plasma table -> about-us
-- Services: retail sales of mild steel and aluminum by the inch, custom saw cutting, shearing, drilling, punching, welding, fabrication, CNC plasma cutting, delivery -> services
-- Serves Colorado Front Range -> about-us
-- Materials: mild steel, aluminum -> services
-- Equipment: CNC plasma table -> about-us
-- Company type: Steel Supplier and Welder -> home page
-- Ownership tag: family business -> about-us
+- Founded 1945 -> /about-us
+- Founders Eugene Glaser and Frank Holley -> /about-us
+- Family-owned business -> /about-us
+- Location Colorado Springs, CO -> db
+- Current address 619 S. 31st Street -> /about-us
+- Services: retail sales, custom saw cutting, shearing, drilling, punching, welding & fabrication, CNC plasma cutting, delivery -> /services
+- Materials: mild steel and aluminum -> /services
+- Plasma table added 2005 -> /about-us
+- Operated by Jacque and Tony Jensen -> /about-us
+- Serves Front Range region -> /about-us
+- Sell by the inch -> /services
+- Drop pile available -> /services
+- Delivery offered -> /services
+- CNC plasma cutting table -> /about-us, /services
 </details>
 
 ---
@@ -211,36 +221,35 @@ The company traces its differentiation to its continuous family ownership and it
 **Old description:** is a family owned and operated custom woodworking manufacturing facility. Hissim, The owner has
 
 ## About
-Glenn A. Hissim Woodworking operates from Kintnersville, Pennsylvania, where it was founded in 1991 by Glenn Hissim. The family-owned shop began with Hissim’s 35-plus years of industry experience, during which he consulted, designed, and built thousands of custom pieces before establishing the facility.
+Glenn A. Hissim Woodworking operates a family-owned custom woodworking manufacturing facility in Kintnersville, Pennsylvania. Founded in 1991 by Glenn Hissim, who brought over 35 years of industry experience, the company began as a consultation, design, and build operation for custom architectural pieces.
 
-The company produces architectural millwork and custom cabinetry for residential and commercial projects. Its portfolio includes kitchen cabinets, bathroom vanities, libraries, built-in furniture, bookcases, fireplace surrounds and mantels, wainscoting, and entrance ways. Production takes place in a climate-controlled plant equipped with radiant heated floors, a feature the company says keeps wood at uniform temperature for precise joinery. An in-house design team creates project drawings that require client approval before any fabrication begins.
+The shop produces architectural millwork, custom kitchen cabinets, bathroom vanities, libraries, built-in furniture, bookcases, fireplace surrounds and mantles, wainscoting, and entrance ways. A climate-controlled plant with radiant heated floors maintains consistent material temperatures, enabling exact tolerances during joinery. An in-house design team develops projects to client specifications before any production begins.
 
-Hissim Woodworking serves homeowners, designers, architects, and commercial contractors. Typical engagements start with a face-to-face consultation involving Glenn Hissim himself, who reviews material selections and installation details. Projects range from single vanities to entire library installations.
+The company serves residential and commercial clients, including homeowners, businesses, architects, and designers. Projects range from single vanities to complete library installations, with each engagement starting with a face-to-face consultation attended by Glenn Hissim himself to review materials and installation approaches.
 
-The firm emphasizes its climate-controlled environment and owner-level oversight as key differentiators. Hissim’s direct involvement in consulting and design approval is presented as a guarantee of quality and adherence to exact tolerances.
+Hissim Woodworking differentiates itself through direct owner involvement in every project, a controlled-environment facility that ensures dimensional stability, and a policy of no fabrication until the client approves the final design.
 
 ## Known for
-- Climate-controlled manufacturing plant with radiant heated floors
-- In-house design team with client approval before production
-- Owner Glenn Hissim personally oversees projects
-- Over 35 years of experience in custom woodworking
-- Family-owned and operated
+- Family-owned with owner Glenn Hissim directly overseeing every project
+- Climate-controlled plant with radiant heated floors for exact joinery tolerances
+- In-house design team; no production before client design approval
+- Face-to-face consultation with Glenn Hissim for material and installation recommendations
+- Over 35 years of industry experience
 
 ## Capabilities
 - Architectural millwork
 - Custom kitchen cabinet manufacturing
 - Custom bathroom vanity manufacturing
-- Library and built-in furniture fabrication
-- Fireplace surround and mantel fabrication
-- Wainscoting and entrance way fabrication
-- In-house design and consulting
-- Climate-controlled wood joining
-
-## Industries
-- Residential construction
-- Commercial construction
-- Architectural millwork
-- Interior design
+- Library and built-in furniture manufacturing
+- Bookcase manufacturing
+- Fireplace surround and mantle manufacturing
+- Wainscoting manufacturing
+- Entrance way manufacturing
+- Custom door manufacturing
+- Cabinet option manufacturing
+- Design services
+- Project consulting
+- Installation recommendation
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -252,13 +261,17 @@ The firm emphasizes its climate-controlled environment and owner-level oversight
 
 - Founded 1991 -> db
 - Family-owned and operated -> /
-- Owner Glenn Hissim with 35+ years experience -> /
-- Location Kintnersville, PA -> /
-- Services: architectural millwork, custom cabinets, vanities, libraries, built-ins, fireplace surrounds, mantels, wainscoting, entrance ways -> /
-- Climate-controlled plant with radiant heated floors -> /
-- In-house design team, client approval before production -> /about-us
+- Glenn Hissim owner with over 35 years experience -> /
+- Custom woodworking manufacturing facility -> /
+- Architectural millwork, custom kitchen cabinets, custom bathroom vanities, libraries, built-in furniture, book cases, fireplace surrounds and mantles, wainscoting and entrance ways -> /
+- Climate-controlled manufacturing plant with radiant heated floors -> /, /about-us
+- Exact tolerances through temperature control -> /, /about-us
+- In-house design team designs to exact specifications -> /about-us
+- No production prior to design approval -> /about-us
 - Face-to-face consultation with Glenn Hissim -> /about-us
-- Serves homeowners, designers, architects, commercial contractors -> /about-us
+- Services: Kitchens, Bathrooms, Libraries, Custom Entrances, Door Styles, Cabinet Options -> /
+- Address: 4770 Route 212, Kintnersville, PA 18930 -> /
+- Business hours Monday-Thursday 8:00 AM - 4:00 PM -> /
 </details>
 
 ---
@@ -268,34 +281,33 @@ The firm emphasizes its climate-controlled environment and owner-level oversight
 **Old description:** Started in 2014 we are leading experts in our field. Contact us to have any of your CNC repairs done professionally. We are certified and qualified field techs.
 
 ## About
-Global CNC Machine Services is based in Moraine, Ohio, and has been providing CNC machine tool service and repair since 2014. The company was founded that year and operates with a team of certified field technicians who travel nationally and internationally to service equipment.
+Global CNC Machine Services was founded in 2014 in Moraine, Ohio. The company began as a field-service operation focused on repairing and maintaining CNC and manual machine tools, sending certified technicians to customer sites across the United States and abroad.
 
-The company specializes in mechanical and electrical troubleshooting, preventative maintenance, machine relocation and installation, turnkey project management, ball bar testing for accuracy certification, equipment inspections and appraisals, spindle and linear guide service, and sourcing used machines and parts. Technicians hold OSHA 30-hour safety cards and work on both CNC and manual machine tools, with noted expertise on Mazak equipment.
+Today the firm provides a full range of machine-tool services: on-site mechanical and electrical troubleshooting, scheduled preventative maintenance, machine relocation and installation, turnkey project management, ball-bar testing for accuracy certification, equipment inspections and appraisals, spindle and linear-guide repair, and sourcing of used machines and parts. Technicians travel nationally and internationally, with documented work as far as Japan.
 
-Global CNC serves manufacturers and machine shops that rely on CNC and manual machine tools, offering on-site service across the United States and abroad, including deployments to Japan. Its customer base includes operations requiring rapid response to minimize downtime, though specific industry sectors are not detailed in public materials.
+The customer base consists of manufacturers and facilities that operate CNC machinery, including those running Mazak equipment. Global CNC acts as a single point of contact for service, accessories, and replacement parts, serving both large-scale production shops and smaller job shops that need rapid response to unplanned downtime.
 
-The company emphasizes honesty, integrity, and safety, with every technician carrying an OSHA 30-hour card. It positions itself as a single source for machine tool service, accessories, and parts, providing documented ball bar results and turnkey coordination from planning through startup.
+The company emphasizes honesty and integrity, noting that every field technician carries a 30-hour OSHA safety card. It positions itself as a single-source provider for machine-tool service, accessories, and parts, offering documented ball-bar results and turnkey coordination from planning through final startup.
 
 ## Known for
 - Certified field technicians with OSHA 30-hour safety cards
 - National and international on-site service (including Japan)
-- Single-source provider for machine tool service, accessories, and parts
-- Ball bar testing with documented accuracy certification
-- Turnkey project management from planning to final startup
+- Single source for machine tool service, accessories, and parts
+- Ball bar testing with documented accuracy results
+- Turnkey project management from planning to startup
 
 ## Capabilities
 - Field service (mechanical/electrical troubleshooting and repair)
 - Preventative maintenance
-- Machine relocation and installation (rigging, moves, installs)
+- Machine relocation and installation
 - Turnkey project management
 - Ball bar testing and certification
 - Equipment inspections, evaluations, and appraisals
 - Spindle, clamp force, ball screw, and linear guide service
 - Used equipment and parts sourcing
-- Mazak CNC machine service and repair
 
-## Certifications
-- OSHA 30-hour Safety Card
+## Equipment
+- Mazak CNC machines
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -304,15 +316,13 @@ The company emphasizes honesty, integrity, and safety, with every technician car
 
 <details><summary>Sources</summary>
 
-- Founded in 2014 -> db
-- Headquartered in Moraine, Ohio -> db
-- Provides field service, maintenance, and repair for CNC and manual machine tools -> /
-- Technicians hold OSHA 30-hour safety cards -> /
-- Services offered: preventative maintenance, relocation/installs, turnkey services, ball bar testing, inspections/evaluations/appraisals, spindle replacement, used equipment and parts sourcing -> /
-- National and international service, including Japan -> /
-- Mazak machine tool expertise -> /
-- Single source for machine tool service, accessories, and parts -> /
-- Company emphasizes honesty and integrity -> /
+- Founded 2014 -> db
+- Headquarters Moraine, Ohio -> db
+- Services: field service, preventative maintenance, relocation, turnkey, ball bar, inspections, spindle replacement, used equipment/parts -> /
+- Technicians hold OSHA 30-hour safety card -> /
+- Service nationally and internationally including Japan -> /
+- Mazak strong field service -> /
+- Single source for machine tools service, accessories, and parts -> /
 </details>
 
 ---
@@ -322,42 +332,39 @@ The company emphasizes honesty, integrity, and safety, with every technician car
 **Old description:** Global Foods was founded in 1996. We are a national food distribution company. We distribute food and related goods to customers throughout the U.S and strategically source products globally. We have long standing strategic partnerships with manufacturers that allows us to bring significant cost savings direct from the manufacturers to our customers.
 
 ## About
-Global Foods, headquartered in Las Vegas, Nevada, was founded in 1996 as a national food distribution company. The company distributes food and related goods across the United States and strategically sources products globally through long-standing manufacturer partnerships. No founders or ownership details are disclosed.
+Global Foods was founded in 1996 in Las Vegas, Nevada. The privately held company began as a national food distribution business, supplying food and related goods to customers across the United States while strategically sourcing products globally.
 
-The firm operates as a specialized distributor, focusing on niche markets such as corrections, education, and extreme-value retail. It supplies private-label items, signature brands, and heavily discounted special buys to customers in 48 states, leveraging its manufacturer relationships to pass on cost savings. No facility size, headcount, or volume metrics are publicly provided.
+The company distributes to 48 states, leveraging long-standing partnerships with manufacturers to deliver cost savings directly to buyers. Its product portfolio includes private-label items, signature brands, and heavily discounted special buys. Global Foods focuses its research and development on a defined set of niche markets rather than the broader foodservice spectrum.
 
-Global Foods serves a range of institutional and retail segments. Its current focus includes college and university dining, food banks, mom-and-pop and discount grocery retailers, and federal, state, county, and private correctional facilities. Historically, the company has also supplied hospitality, healthcare, retirement homes, K‑12 schools, military, and government dining operations.
+Core customers include K-12 school districts, colleges and universities, employee dining operations, federal, state, county, and private correctional facilities, extreme-value retailers, food banks, and independent grocery stores. The firm also serves discount grocers and emerging regional chains.
 
-The company positions itself with the tagline “Not the biggest. just the best,” emphasizing integrity, responsive service, and honest pricing. Its business model concentrates R&D and investment on core niche customers, aiming to deliver the highest industry standard through availability, competitive pricing, and tailored product diversity.
+Global Foods positions itself on integrity, customer service, and competitive pricing rather than scale. Its business model concentrates on specific high-volume segments, allowing dedicated attention to the unique procurement needs of mass-feeding operations.
 
 ## Known for
-- Strategic manufacturer partnerships enabling direct cost savings
-- Focus on niche markets (corrections, education, extreme-value retail)
-- Private label, signature brands, and discounted special buys
-- Responsive service and honest pricing
+- Long-standing manufacturer partnerships for direct cost savings
+- Niche-market focus (K-12, corrections, extreme-value retail) with dedicated R&D
+- Private-label and signature-brand programs
+- Substantially discounted special buys
+- National distribution network covering 48 states
 
 ## Capabilities
 - Food distribution
 - Global sourcing
-- Private label distribution
+- Private label program management
+- Signature brand management
 - Special buys procurement
-- Niche market specialization
-- Manufacturer partnership management
+- Niche market specialization (K-12, corrections, extreme value retail)
 
 ## Industries
-- College and university dining
+- K-12 education
+- Higher education (college/university)
+- Employee dining
+- Correctional institutions
+- Extreme value retail
 - Food banks
-- Retail (discount grocery, independent, regional)
-- Corrections (federal, state, county, private)
-- K-12 schools
-- Post-secondary education
-- Employee dining rooms
-- Extreme value retailers
-- Hospitality
-- Healthcare
-- Retirement homes
-- Military
-- Government
+- Independent grocery retail
+- Discount grocery
+- Regional retail chains
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -366,22 +373,17 @@ The company positions itself with the tagline “Not the biggest. just the best,
 
 <details><summary>Sources</summary>
 
-- Founded in 1996 -> /
-- Headquartered in Las Vegas, Nevada -> db
+- Founded 1996 -> /
+- Headquarters Las Vegas, Nevada -> db
 - National food distribution company -> /
 - Distributes to 48 states -> /about
-- Strategically sources globally -> /
-- Long-standing strategic partnerships with manufacturers -> /
-- Serves college/university dining -> /
-- Serves food banks -> /
-- Serves retail (mom-and-pop, discount grocery, emerging regional) -> /
-- Serves corrections (federal, state, county, private) -> /
-- Serves K-12, post-secondary, employee dining, extreme value retailers -> /about
-- Distributes private label, signature brands, special buys -> /about
-- Focus on niche markets -> /about
-- Tagline 'Not the biggest. just the best' -> /
-- Goal: highest standard, integrity, customer service, cost savings, great products -> /
-- Minimums vary by product -> /
+- Strategic global sourcing -> /
+- Manufacturer partnerships for cost savings -> /
+- Private label, signature brand, special buys -> /about
+- Markets: K-12, post-secondary, employee dining, corrections, extreme value retailers -> /about
+- Also serves food banks, retail (mom-and-pop, discount grocery, regional) -> /
+- Business model: niche market focus, dedicated R&D -> /about
+- Goal: highest standard, integrity, customer service, cost savings -> /
 </details>
 
 ---
@@ -391,49 +393,46 @@ The company positions itself with the tagline “Not the biggest. just the best,
 **Old description:** Since 1987, Global Manufacturing Services, Inc. has operated with one clear mission: to deliver high-quality electronic manufacturing while always putting the customer first.
 
 ## About
-Global Manufacturing Services, Inc. was founded in 1987 in West Jefferson, North Carolina. The company began with a mission to deliver high-quality electronic manufacturing while putting the customer first, and has operated from its facility for over three decades.
+Global Manufacturing Services, Inc. was founded in 1987 in West Jefferson, North Carolina. The company operates as a contract manufacturer specializing in electronic manufacturing services (EMS).
 
-As a contract manufacturer, the firm provides electronic manufacturing services including surface-mount and through-hole PCB assembly, LED board assembly up to 48 inches, and full box-build integration with material sourcing, burn-in testing, software loading, and secure warehousing. Its automated and manual conformal coating lines protect assemblies against moisture, dust, and temperature extremes. The plant places more than one million components per month and handles orders from prototype runs to large-scale production.
+The firm provides printed circuit board assembly, box build, LED PCB assembly up to 48 inches, surface-mount and through-hole assembly, and mechanized conformal coating. It runs a facility capable of placing more than one million components per month and handles projects from prototype runs to large-scale production orders.
 
-The company serves multiple industries, with a noted focus on LED lighting for agricultural fixtures, architectural installations, and industrial applications. It also supports consignment customers who experience sudden demand spikes, moving hot projects onto the production floor within hours and shipping first releases in as little as 24 hours.
+Its customer base spans multiple industries, with a noted focus on LED lighting for agriculture, architectural, and industrial applications. The company also serves broader electronics manufacturers requiring turn-key assembly and fulfillment.
 
-Global Manufacturing Services emphasizes a culture of integrity, respect, quality, innovation, value, and continuous improvement. It holds ISO 9001:2015 certification and builds to IPC Class 2 standards, offering turn-key lead times of two to four weeks compared to the typical industry six to twelve weeks.
+Founded on a mission to deliver high-quality electronic manufacturing while putting the customer first, Global Manufacturing Services emphasizes rapid response—often moving hot projects to the production floor within hours and shipping first releases within 24 hours—and offers turn-key lead times of two to four weeks. The company has been ISO 9001:2015 certified since 2017, adheres to IPC Class 2 standards, and promotes a culture of integrity, respect, quality, innovation, value, excellent customer service, and continuous improvement.
 
 ## Known for
-- Hot projects moved to production floor within hours of kit receipt
+- Places over 1 million components per month
 - First releases shipped within 24 hours
-- Turn-key lead times of 2–4 weeks
-- Over 1 million components placed per month
+- Turn-key services with 2-4 week lead times
 - ISO 9001:2015 certified since 2017
+- LED board assembly up to 48 inches
 
 ## Capabilities
+- Printed Circuit Board Assembly (PCBA)
+- Box Build (electromechanical assembly)
+- LED PCB Assembly (up to 48 inches)
 - Surface Mount Technology (SMT) Assembly
 - Through-Hole Assembly
-- LED PCB Assembly (up to 48")
-- Box Build / Electromechanical Assembly
+- Mechanized Conformal Coating
+- Manual Conformal Coating
 - Material Sourcing and Procurement
+- Complex Final Assembly
 - Burn-in Testing
 - Software Loading and Configuration
 - Aftermarket Troubleshooting and Repair
 - Secure Warehousing
 - Inventory Management
 - Fulfillment Services
-- Automated Conformal Coating
-- Manual Conformal Coating
-- Custom Testing
-- Sub-assembly
-- Full System Build
 
 ## Industries
-- LED Lighting
+- LED lighting
 - Agriculture
 - Architectural
 - Industrial
-- Electronics Manufacturing
 
 ## Certifications
 - ISO 9001:2015
-- IPC Class 2
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -442,20 +441,20 @@ Global Manufacturing Services emphasizes a culture of integrity, respect, qualit
 
 <details><summary>Sources</summary>
 
-- Founded 1987 -> db
-- Headquarters West Jefferson, NC -> db
+- Founded in 1987 -> db, /about-us
+- Headquarters in West Jefferson, North Carolina -> db, /
 - Contract manufacturer offering EMS -> /about-us
-- LED assembly for agriculture, architectural, industrial -> /capabilities
-- Place more than 1 million components per month -> /about-us
-- Hot projects on production floor within hours, ship first releases within 24 hours -> /about-us
-- Turn-key services lead times 2-4 weeks -> /about-us
+- Places over 1 million components per month -> /about-us
+- LED assembly up to 48 inches -> /capabilities
+- SMT & Thru-Hole Assembly -> /capabilities
+- Mechanized Conformal Coating -> /capabilities
+- Box Build with material sourcing, burn-in testing, software loading, warehousing -> /capabilities
 - ISO 9001:2015 certified since 2017 -> /quality
-- Meet or exceed IPC Class 2 standards -> /quality
-- SMT and Thru-Hole assembly -> /capabilities
-- Box build with material sourcing, burn-in testing, software loading, warehousing -> /capabilities
-- Automated and manual conformal coating -> /capabilities
-- Mission: integrity, respect, quality, innovation, value, excellent customer service, continuous improvement -> /about-us
-- Vision: become one of the most sought-after electronics manufacturing partners -> /about-us
+- Meets IPC Class 2 standards -> /quality
+- Turn-key lead times 2-4 weeks -> /about-us
+- First releases within 24 hours -> /about-us
+- Industries: agriculture, architectural, industrial for LED lighting -> /capabilities
+- Mission: deliver high-quality electronic manufacturing while putting customer first -> /about-us, /
 </details>
 
 ---
@@ -465,27 +464,29 @@ Global Manufacturing Services emphasizes a culture of integrity, respect, qualit
 **Old description:** A full-service plastic injection molding partner providing superior solutions that redefine the meaning of successful outcomes.
 
 ## About
-Global Plastics was founded in 1992 in Indianapolis, Indiana, starting with a single 40-ton Nissei injection molding machine. The company has grown from those humble beginnings into a vertically integrated molder with a fleet of more than 70 injection molding machines, an in-house full-service tooling department, product development engineers, and project management staff. A 250,000-square-foot warehousing and distribution facility serves Global Plastics and three affiliate companies—Global Forming, Global Packaging, and Global Air—allowing production from design through delivery under one roof.
+Global Plastics began operations in 1992 in Indianapolis, Indiana, starting with a single 40-ton Nissei injection molding machine. The company has grown from those humble beginnings into a multi-facility operation served by a 250,000-square-foot warehousing and distribution center.
 
-The molder serves customers in medical device, automotive, and food packaging sectors, holding ISO 13485, IATF 16949, and SQF certifications alongside ISO 9001. Its capabilities span rapid prototyping, design-for-manufacturability review, secondary operations, and high-volume production tooling.
+Today the firm runs a fleet of more than 70 injection molding machines supported by an in-house, full-service tooling department, product development engineers, and project management staff. Its vertically integrated model combines design-for-manufacturability support, rapid prototyping, secondary operations, and distribution, and has spawned three affiliate companies—Global Forming, Global Packaging, and Global Air.
 
-Global Plastics emphasizes a vertically integrated model that keeps engineering, tooling, and molding under one roof, which the company says shortens lead times and improves responsiveness. A dedicated customer-service representative is assigned to each account, and a cross-functional continuous-improvement team meets weekly to refine processes and adopt new automation such as robots and collaborative robots.
+The company serves customers in medical devices, automotive, and food packaging, holding ISO 13485 for medical, IATF 16949 for automotive, and SQF for food-sector packaging. Its client base spans multiple industries that require certified quality systems and high-volume production tooling.
+
+Global Plastics differentiates itself through dedicated customer service representatives assigned to individual accounts, a cross-functional continuous improvement team that meets weekly, and a commitment to speed and flexibility without sacrificing quality. The company states that its vertically integrated engineering, tooling, and production under one roof allows it to outpace competitors on lead time and responsiveness.
 
 ## Known for
-- Vertically integrated engineering, tooling, and molding under one roof
-- Dedicated customer-service representative per account
-- Weekly cross-functional continuous-improvement team
-- 250,000 sq ft warehousing and distribution facility
+- Vertically integrated engineering, tooling, and production under one roof
+- Dedicated customer service representative per account
+- Weekly cross-functional continuous improvement team
 - In-house full-service tooling department
+- 250,000 sq ft warehousing and distribution facility
 
 ## Capabilities
 - Plastic injection molding
-- In-house tooling design and fabrication
+- Tool design and fabrication
 - Product development and design support
 - Design for manufacturability (DFM)
 - Project management
-- Rapid prototyping
 - Secondary operations
+- Rapid prototyping
 - Warehousing and distribution
 
 ## Industries
@@ -511,22 +512,23 @@ Global Plastics emphasizes a vertically integrated model that keeps engineering,
 
 <details><summary>Sources</summary>
 
-- Founded 1992 with 40-ton Nissei machine -> /about-us
+- Founded 1992 -> /about-us
+- Headquarters Indianapolis, Indiana -> /about-us
 - 70+ injection molding machines -> /about-us
-- In-house full-service tooling department -> /about-us
-- Product development and project management expertise -> /about-us
-- 250,000 sq ft warehousing and distribution facility -> /about-us
-- Three affiliate companies: Global Forming, Global Packaging, Global Air -> /about-us
-- Vertically integrated engineering, tooling, production under one roof -> /
-- Dedicated customer service representative per account -> /about-us
-- Cross-functional continuous improvement team meets weekly -> /about-us
-- Robots and co-bots used -> /about-us
-- Certifications: ISO 9001, ISO 13485, IATF 16949, SQF -> /
-- Serves medical device, automotive, food packaging industries (implied by certifications) -> /
+- 250,000 sq ft warehousing -> /about-us
+- ISO 9001, ISO 13485, IATF 16949, SQF certifications -> /
+- In-house tooling department -> /about-us
+- Product development and DFM -> /
+- Dedicated customer service reps -> /about-us
+- Vertically integrated engineering, tooling, production -> /about-us
+- Continuous improvement team weekly -> /about-us
+- Affiliate companies Global Forming, Global Packaging, Global Air -> /about-us
+- Strategic location Indianapolis -> /about-us
+- Robots and co-bots -> /about-us
 - Rapid prototyping -> /
-- Design for manufacturability support -> /
 - Secondary operations -> /
-- Strategic location Indianapolis, Indiana -> /about-us
+- Medical devices, automotive, food packaging industries -> /
+- Certifications list from database -> db
 </details>
 
 ---
@@ -536,35 +538,31 @@ Global Plastics emphasizes a vertically integrated model that keeps engineering,
 **Old description:** Everything you need to make, serve, and store food since 1938.
 
 ## About
-Globe Equipment Company operates from Bridgeport, Connecticut, where it was founded in 1938 by the grandfather of current leadership and his brother. The business remains family-owned, now in its third generation under Brian Ringelheim, who joined formally in 2004, working alongside his father, Jay. The company describes its team as "industry born and bred," with several employees staying for decades.
+Globe Equipment Company has operated from Bridgeport, Connecticut since 1938, when the founder’s grandfather launched the business with his brother. Now in its third generation, the company is led by Brian Ringelheim alongside his father, Jay, and describes its workforce as an extended family, with several employees spanning decades of service.
 
-The company supplies a broad range of commercial kitchen equipment, food service supplies, and operational essentials. Its product categories include bar equipment, concession equipment, dinnerware, glassware, flatware, janitorial supplies, and kitchen tools. Beyond distribution, Globe provides drafting and planning services, product selection consultation, fabrication coordination, and installation management. It offers scheduled local delivery in its region and coordinated national shipping for larger orders.
+The firm supplies commercial kitchen equipment, food‑service supplies, and operational essentials to food‑service operators. Beyond product distribution, Globe provides drafting and planning, kitchen and workspace design, product‑selection consultation, and installation management. It also coordinates scheduled local delivery and national shipping for both supplies and large equipment orders.
 
-Globe serves restaurants, bars, concession operations, and senior living communities. Its customer base includes independent restaurants such as La Cucina, multi-site senior living operators like Covenant Living, and entrepreneurs expanding grab‑and‑go concepts. The company works with general contractors and foodservice directors on both new builds and renovation projects.
+Customers range from independent restaurants and bars to senior‑living communities and concession operators. The company cites Covenant Living, a senior‑living system, as a client that improved food‑service output and lowered equipment costs through Globe’s consultative process. Other references include La Cucina, a local restaurant, and various New England food‑service businesses.
 
-Globe emphasizes a consultative approach, aiming to understand each customer’s operational challenges and budget constraints. The leadership frames its differentiation around long‑term relationships, value‑engineering suggestions, and a willingness to "give our people a little extra leeway to deliver on their promises." The goal is to retain customers for decades, supporting the company’s own ambition to remain in business for another 80-plus years.
+Globe emphasizes long‑term relationships over transactional sales, stating that its goal is to make a difference in customers’ businesses so they stay for the long haul. The team highlights value‑engineering suggestions that compare technical performance across manufacturers to meet budget constraints, and a willingness to go beyond standard service to solve operational challenges.
 
 ## Known for
-- Family-owned, third-generation business since 1938
-- Consultative foodservice equipment selection and value engineering
-- Drafting, planning, and installation management services
-- Scheduled local delivery and coordinated national shipping
-- Deep experience with restaurant and senior living sectors
+- Family-owned, third‑generation leadership since 1938
+- Drafting, planning, and kitchen design services
+- Product‑selection consultation and value‑engineering support
+- Installation management and coordinated equipment shipping
+- Scheduled local delivery with national shipping for supplies
 
 ## Capabilities
-- Commercial kitchen equipment distribution
-- Food service supplies distribution
-- Bar equipment and supplies
-- Concession equipment
-- Dinnerware, glassware, flatware supply
-- Janitorial supplies
-- Kitchen tools supply
+- Drafting and planning
 - Kitchen and workspace design
 - Product selection consultation
 - Installation management
-- Fabrication coordination
-- Local delivery
-- National shipping
+- Scheduled local delivery
+- Coordinated equipment shipping
+- National shipping for supplies and large orders
+- Value engineering
+- Online ordering via mobile app
 
 ## Industries
 - Restaurant
@@ -572,6 +570,8 @@ Globe emphasizes a consultative approach, aiming to understand each customer’s
 - Foodservice
 - Hospitality
 - Concession
+- Bar
+- Commercial kitchen
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -581,16 +581,15 @@ Globe emphasizes a consultative approach, aiming to understand each customer’s
 
 <details><summary>Sources</summary>
 
-- Founded 1938 -> db
-- Headquarters Bridgeport, CT -> db
-- Family-owned, third generation -> /about-us
-- Brian Ringelheim and father Jay -> /about-us
-- Product categories: bar, concession, dinnerware, glassware, flatware, janitorial, kitchen -> /
-- Services: drafting, planning, product selection, installation management -> /
-- Delivery: local scheduled, national shipping -> /
-- Industries: restaurant, senior living, concession -> /, /about-us
-- Customer examples: Covenant Living, La Cucina, grab-n-go concept -> /
-- Consultative approach, value engineering -> /
+- Founded 1938 by grandfather and brother -> /about-us
+- Third-generation family ownership, Brian Ringelheim and father Jay -> /about-us
+- Headquarters Bridgeport, CT -> db, /
+- Supplies commercial kitchen equipment, food service supplies, operational essentials -> /
+- Services: drafting and planning, kitchen/workspace design, product selection consultation, installation management -> /, /about-us
+- Delivery: scheduled local delivery, coordinated equipment shipping, national shipping -> /
+- Industries: restaurant, senior living (Covenant Living), concession, bar, dining room, kitchen, janitorial -> /, /about-us
+- Customer examples: Covenant Living, La Cucina, Erik B. -> /
+- Value engineering and long-term relationship focus -> /about-us, /
 - LinkedIn URL -> db
 </details>
 
@@ -601,57 +600,61 @@ Globe emphasizes a consultative approach, aiming to understand each customer’s
 **Old description:** Mud, stumps, rocks, nothing stops a GO-DEVIL Longtail. Its reputation for unparalleled dependability and service has put a GO-DEVIL in every state and province of North America. Since 1977, duck hunters, sport and commercial fishermen have experienced access to areas that no other marine engine can deliver with total confidence . Confidence that comes from over 35 years of research and testing in hostile conditions such as heavy vegetation, mud trenches, cypress swamp and rock-laden rivers. It’s been called “The Four-Wheel Drive” of marine engines.
 
 ## About
-Go-Devil Manufacturing-Louisiana was founded in 1977 in Baton Rouge, Louisiana. The company began by developing longtail marine engines designed to navigate shallow, vegetation-choked waters where conventional outboards fail.
+Go-Devil Manufacturing-Louisiana was founded in 1977 in Baton Rouge, Louisiana. The company began by developing longtail engines capable of navigating shallow, vegetation-choked waters, earning a reputation among duck hunters and commercial fishermen across North America.
 
-Today the firm produces a range of shallow-water propulsion systems and vessels, including longtail engines, surface-drive engines, two hull types of aluminum boats (duck-hunting and surface-drive models), floating duck blinds, weedless propellers, and a line of accessories such as fuel tanks, push poles, and the Duck Picker feather-removal device. Nearly all components are fabricated in-house at a facility spanning more than 40,000 square feet, staffed by over 30 full-time employees across sales, marketing, and production.
+Today the company produces a range of marine propulsion systems and watercraft, including longtail and surface-drive engines, aluminum-hull boats built for duck hunting and surface-drive applications, floating blinds, weedless propellers, and a line of accessories such as fuel tanks, push poles, and camouflage seats. It also assembles a duck picker for game processing. Operations are conducted in a 40,000-square-foot high-tech facility where over 30 full-time staff handle design, in-house fabrication of nearly all components, assembly, and a full parts inventory for aftermarket support.
 
-The primary customers are duck hunters, sport fishermen, and commercial fishermen operating in the swamps, marshes, and rock-laden rivers of North America. The company notes that its engines are in use in every U.S. state and Canadian province.
+The primary customers are outdoor enthusiasts—duck hunters, sport anglers, and commercial fishermen—who operate in extreme shallow-water environments such as cypress swamps, mud trenches, and rock-laden rivers. The equipment is also used by outfitters and wildlife managers needing reliable access to remote wetlands.
 
-Go-Devil emphasizes that its differentiation comes from decades of real-world testing in hostile shallow-water environments, which informs every design decision. It also highlights its in-house parts manufacturing and comprehensive replacement-parts inventory as the foundation for responsive customer support.
+Go-Devil emphasizes that its products are designed and tested in the harshest conditions the company can find, and that its in-house manufacturing and comprehensive parts stock enable customer service that it describes as second to none. The firm traces its differentiation to decades of field testing and the ability to supply replacement parts for every engine it has built.
 
 ## Known for
-- Nearly all parts manufactured in-house
-- Full inventory of replacement parts for all engine models
-- Over 40 years of shallow-water design and field testing
-- Products tested in cypress swamps, mud trenches, and rock-laden rivers
-- Experienced staff providing direct customer support
+- In-house manufacturing of nearly all components
+- Full inventory of replacement parts for all engines
+- Over 40,000 sq ft high-tech production facility
+- Over 30 full-time employees
+- Products designed and tested in extreme shallow-water conditions
 
 ## Capabilities
-- In-house parts manufacturing
-- Engine assembly
-- Boat building
+- Engine manufacturing (longtail and surface drive)
+- Boat manufacturing (duck hunting and surface drive hulls)
 - Propeller manufacturing
 - Floating blind fabrication
-- Accessory production
-- Product testing in shallow water environments
-- Parts inventory management
-- Customer technical support
+- Duck picker assembly
+- Accessory manufacturing
+- In-house parts fabrication
+- Sales and service
 
 ## Industries
-- Waterfowl hunting
-- Sport fishing
-- Commercial fishing
+- Marine
 - Outdoor recreation
-- Marine propulsion
+- Hunting
+- Commercial fishing
+- Sport fishing
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1977
-- **Employees:** over 30 full-time
+- **Employees:** over 30
 - **Headquarters:** Baton Rouge, Louisiana
 
 <details><summary>Sources</summary>
 
-- Founded in 1977 -> /
-- Headquarters in Baton Rouge, Louisiana -> db
-- Employs over 30 full-time staff -> /services
-- Facility over 40,000 square feet -> /services
-- Manufactures longtail engines, surface drive engines, boats, floating blinds, propellers, accessories, duck pickers -> /
-- Makes nearly all parts in-house -> /services
-- Maintains full inventory of replacement parts -> /services
-- Serves duck hunters, sport and commercial fishermen -> /
-- Products tested in harsh shallow water environments -> /
-- Over 40 years of experience designing for remote places -> /
+- Founded in 1977 -> db
+- Headquarters Baton Rouge, Louisiana -> db
+- Employee count over 30 -> /services
+- Facility size over 40,000 sq ft -> /services
+- In-house manufacturing of nearly all parts -> /services
+- Full inventory of replacement parts -> /services
+- Product lines: longtail engines, surface drive engines, boats, floating blinds, propellers, accessories, duck picker -> /
+- Industries served: duck hunters, sport and commercial fishermen -> /
+- Company type manufacturer -> /services
+- No ownership tags stated -> db
+- No certifications stated -> db
+- No equipment named -> db
+- No materials listed -> db
+- No volume, lead time, tolerances stated -> db
+- No cage code, min order, export compliance, languages, social links -> db
 </details>
 
 ---

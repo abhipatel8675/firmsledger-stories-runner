@@ -3,49 +3,51 @@
 **Old description:** For over 30 years, Marty Rae’s has worked to develop long-lasting, bonding relationships with our customers. Being a family business, we know the value of treating our customers well. Which explains why customer referrals are our #1 source of new clients. When it comes to comfort and personal style, there is a Marty Rae difference!
 
 ## About
-Marty Rae's of Lexington operates a furniture and mattress store in Lexington, South Carolina. The family-owned business has been passed through three generations since its founding more than 35 years ago. George Carson, representing the current ownership, describes the company as built on long-lasting customer relationships.
+Marty Rae's of Lexington has operated as a family-owned furniture and mattress retailer in Lexington, South Carolina, for more than 35 years, spanning three generations. The business was established by the Carson family, and current leadership includes George Carson, who signs the company's story as a testament to its multigenerational continuity.
 
-The retailer carries over 75 brands, including Bassett, Stressless, Flexsteel, Mavin, Canadel, Smith Brothers, Beautyrest, Aireloom, and Hooker Furniture. Beyond showroom sales, the company offers custom ordering, interior design services, special financing, and local premium delivery. Its product range spans living room, bedroom, dining, home office, outdoor, and mattress categories.
+The store carries over 75 brands — including Bassett, Stressless, Flexsteel, Mavin, Canadel, Hooker Furniture, and Beautyrest — across living room, bedroom, dining room, home office, outdoor, and mattress categories. Beyond shelf stock, Marty Rae's offers custom ordering, in-house design services, a local premium delivery program, and financing options for approved credit. Shoppers can browse in the showroom or online, and the company provides design quizzes and a mattress guide to assist selection.
 
-Marty Rae's serves residential customers throughout the Lexington area and via its e-commerce site. The business relies heavily on client referrals, which it cites as its primary source of new customers. Interior designers and homeowners seeking personalized style consultations also make up its clientele.
+The customer base is primarily residential, with the company noting that referrals from satisfied buyers remain its source of new business. The retailer serves homeowners, renters, and interior designers seeking furnishings for primary residences, vacation homes, and home offices throughout the Midlands region.
 
-The company emphasizes its family-owned heritage and multi-generational experience as differentiators, promoting guaranteed lowest prices, extensive brand selection, and the ability to customize most furniture pieces to individual comfort and style preferences.
+Marty Rae's emphasizes its family-owned heritage as a differentiator, promoting personalized service, guaranteed lowest prices, and a commitment to dependable brands sourced nationally. The ability to customize most furniture pieces to individual style and comfort preferences is presented as a core reason customers choose the store over larger chains.
 
 ## Known for
-- Family-owned across three generations
-- Custom furniture orders
-- In-house design services
-- Guaranteed lowest prices
-- Local premium delivery
+- Family-owned for three generations
+- Over 75 furniture and mattress brands carried
+- Custom order and in-house design services
+- Local premium delivery program
+- Guaranteed lowest prices with financing options
 
 ## Capabilities
-- Retail furniture sales
+- Retail sales of furniture, mattresses, and home decor
 - Custom furniture ordering
-- Interior design consultation
-- Consumer financing
-- Local delivery
-- E-commerce sales
+- Interior design services
+- Local premium delivery
+- Financing options
+- In-store and online shopping
+- Design quizzes
+- Mattress guide
 
 ## Industries
 - Residential furniture retail
-- Home furnishings
 - Mattress retail
+- Home decor retail
+- Interior design services
 
 ## Company details
 - **Company Type:** Retailer
 - **Ownership:** Family-owned
-- **Headquarters:** Lexington, SC
+- **Headquarters:** Lexington, South Carolina
 
 <details><summary>Sources</summary>
 
-- Located in Lexington, South Carolina -> db
-- Family-owned business, three generations -> /about-us
-- Founded over 35 years ago -> /about-us
-- George Carson signed letter -> /about-us
-- Carries 75+ brands including Bassett, Stressless, Flexsteel, Mavin, Canadel, Smith Brothers, Beautyrest, Aireloom, Hooker Furniture -> / and /about-us
-- Offers custom orders, design services, financing, local premium delivery -> / and /about-us
-- Customer referrals are #1 source of new clients -> / and /about-us
-- Website: martyrae.com -> db
+- Family-owned for over 35 years and three generations -> /about-us
+- Founded by Carson family, George Carson current leader -> /about-us
+- Carries over 75 brands including Bassett, Stressless, Flexsteel, Mavin, Canadel, Hooker Furniture, Beautyrest -> /
+- Offers custom ordering, design services, local premium delivery, financing -> /
+- Customer referrals are #1 source of new clients -> /
+- Provides design quizzes and mattress guide -> /
+- Emphasizes personalized service, guaranteed lowest prices, dependable brands -> /about-us
 </details>
 
 ---
@@ -55,13 +57,13 @@ The company emphasizes its family-owned heritage and multi-generational experien
 **Old description:** Marvell is a semiconductor company based in California that designs and produces a variety of chips, including storage controllers, networking processors and wireless connectivity solutions used in data centers, mobile devices and automotive systems.
 
 ## About
-Founded in 1995, Marvell Technology is headquartered in Santa Clara, California. The semiconductor company designs and produces a range of chips, including storage controllers, networking processors, and wireless connectivity solutions.
+Marvell Technology, Inc. was founded in 1995 and is headquartered in Santa Clara, California. The company does not disclose its founders or ownership structure in the provided materials. It began as a semiconductor design firm focused on storage and networking solutions.
 
-With a workforce of 5,000 to 9,999 employees, Marvell develops silicon for data center interconnects, custom compute, memory expansion, and optical networking. Its portfolio spans copper and optical interconnects, switch and PHY chips, security processors, and CXL-based memory expanders.
+Marvell designs and produces a range of semiconductor products, including storage controllers, networking processors, and wireless connectivity chips. The company operates with a workforce of 5,000 to 9,999 employees. Its product portfolio spans data center interconnects, switch silicon, security processors, memory expanders, and custom silicon for hyperscalers. Recent introductions include the Alaska E 3.2T protocol-aware retimer, second-generation Alaska A 1.6T AEC DSP, and Structera X six-channel CXL 3.2 memory expanders.
 
-Marvell serves data center operators, mobile device makers, and automotive manufacturers. Its technology underpins hyperscale cloud infrastructure, enterprise campus networks, and 5G telecommunications equipment. The company cites partnerships with all five major U.S. hyperscalers and an ecosystem of over 30 connectivity partners.
+The company serves data center, mobile, and automotive industries. Its customers include hyperscale cloud providers, original equipment manufacturers (OEMs) for networking, server, security, and intelligent edge systems, as well as 5G network operators. Marvell states it has partnerships with every major U.S. hyperscaler and its optical modules are deployed by all five.
 
-Marvell positions itself as a connectivity leader at every distance, from transcontinental fiber links to chiplet-level interconnects. It emphasizes its role in scaling AI infrastructure, highlighting its optical DSP market leadership, hundreds of millions of units shipped, and billions of field device-hours accumulated.
+Marvell positions itself as a connectivity leader across distances from chiplets to transcontinental fiber links. The company emphasizes its optical DSP market leadership, ecosystem of over 30 connectivity partners, and billions of field device-hours as differentiators.
 
 ## Known for
 - Optical DSP market leader with hundreds of millions shipped
@@ -72,22 +74,24 @@ Marvell positions itself as a connectivity leader at every distance, from transc
 
 ## Capabilities
 - Semiconductor design
-- Chip production
-- High-speed interconnect design
-- Optical DSP development
+- Storage controller development
+- Networking processor development
+- Wireless connectivity solutions
 - Custom silicon development
-- Storage controller design
-- Networking processor design
-- Wireless connectivity chip design
+- Optical DSP development
 - CXL memory expander development
-- Optical module design
+- Coherent optical module development
+- Data center switch silicon
+- Security processor development
+- Memory and storage solutions
 
 ## Industries
 - Data Centers
-- Mobile Devices
+- Mobile
 - Automotive
-- Telecommunications
-- Enterprise IT
+- 5G Networks
+- Enterprise Campus
+- AI Infrastructure
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -97,17 +101,20 @@ Marvell positions itself as a connectivity leader at every distance, from transc
 
 <details><summary>Sources</summary>
 
-- Founded in 1995 -> db
-- Headquartered in Santa Clara, California -> db
+- Founded 1995, headquartered in Santa Clara, California -> db
 - Employee count 5000-9999 -> db
 - Products: storage controllers, networking processors, Wi-Fi chips -> db
 - Industries served: data centers, mobile, automotive -> db
-- Leading AI silicon provider solving data center connectivity challenges -> /
+- Designs and produces semiconductor chips -> db
 - Optical DSP market leader with hundreds of millions shipped -> /
 - DCI optical module leader deployed by all five U.S. hyperscalers -> /
 - Ecosystem of 30+ connectivity partners -> /
 - Tens of billions of field device-hours accumulated -> /
 - AI infrastructure partnerships with every major hyperscaler -> /
+- Alaska E 3.2T protocol-aware retimer and second-gen Alaska A 1.6T AEC DSP -> /
+- Structera X six-channel CXL 3.2 memory expanders -> /
+- COLORZ 1600 2nm 1.6T ZR/ZR+ Pluggable Optical Platform -> /
+- Serves data center, enterprise campus, 5G network -> /
 </details>
 
 ---
@@ -117,33 +124,32 @@ Marvell positions itself as a connectivity leader at every distance, from transc
 **Old description:** Made with fiber, plant-based protein, and essential nutrients, our crackers deliver the crunch you crave with the nourishment you need since 2004.
 
 ## About
-Mary's Gone Crackers, based in Reno, Nevada, was founded in 2004. The company produces a line of organic, gluten-free crackers sold directly to consumers through its website and through retail partners.
+Mary's Gone Crackers was founded in 2004 in Reno, Nevada. The company began with a focus on creating organic, gluten-free crackers using whole-food ingredients.
 
-The product portfolio includes four main varieties: Original, Super Seed, Real Thin, and Cheezee. All crackers are formulated with fiber and plant-based protein, and are manufactured in a facility that also processes soy and sesame. The company operates an e-commerce platform for direct sales and offers an influencer and brand partnership program.
+The brand produces a line of crackers that includes Original, Super Seed, Real Thin, and Cheezee varieties. Manufacturing centers on organic and gluten-free processes, with products formulated to deliver fiber, plant-based protein, and essential nutrients. The company operates a production facility that handles ingredient mixing, baking, and packaging, though specific facility size and headcount are not disclosed.
 
-The brand serves the natural and organic snack food market, targeting health-conscious consumers and retail buyers in the food and beverage industry. Its products are positioned as nutrient-dense alternatives to conventional crackers, with distribution through the company's own online store and an unspecified network of retail locations.
+Mary's Gone Crackers sells directly to consumers through its e-commerce site and through retail distribution channels. The company also engages in influencer and brand partnerships to expand its reach. Its customer base includes health-conscious snack buyers and specialty food retailers.
 
-The company emphasizes its use of real, nourishing ingredients as a point of differentiation, stating that starting with such ingredients yields more fuel, flavor, and satisfaction. It also highlights its FAIR TRADE certification as a commitment to ethical sourcing.
+The company emphasizes that its products start with real, nourishing ingredients to provide more fuel for adventures and more satisfaction, positioning itself as a brand that is as good for you as it is delicious.
 
 ## Known for
-- Organic and gluten-free cracker formulations
-- FAIR TRADE certified
-- Made with fiber and plant-based protein
-- Direct-to-consumer e-commerce platform
+- Organic and gluten-free certification
+- Made with fiber, plant-based protein, and essential nutrients
+- Real, nourishing ingredients as a core philosophy
+- Direct-to-consumer and retail distribution
 - Influencer and brand partnership program
 
 ## Capabilities
-- Organic food manufacturing
+- Organic cracker manufacturing
 - Gluten-free production
 - Plant-based snack formulation
-- E-commerce fulfillment
-- Brand partnership management
+- Baking and packaging
 
 ## Industries
-- Food and beverage
-- Snack foods
-- Organic foods
-- Natural foods
+- Organic food
+- Gluten-free food
+- Snack food
+- Consumer packaged goods
 
 ## Certifications
 - FAIR TRADE
@@ -157,13 +163,12 @@ The company emphasizes its use of real, nourishing ingredients as a point of dif
 
 - Founded 2004 -> db
 - Headquarters Reno, Nevada -> db
-- FAIR TRADE certified -> db
-- Product lines: Original, Super Seed, Real Thin, Cheezee -> homepage
-- Contains sesame, manufactured on equipment that processes soy -> homepage
-- Influencer/brand partnership program -> homepage
-- Direct-to-consumer e-commerce -> homepage
-- Marketing claim: fiber, plant-based protein, essential nutrients -> description
-- Organic and gluten-free positioning -> homepage
+- FAIR TRADE certification -> db
+- Product lines (Original, Super Seed, Real Thin, Cheezee) -> /
+- Organic & gluten-free positioning -> /
+- Plant-based protein and fiber claims -> /
+- Allergen statement (sesame, soy) -> /
+- LinkedIn URL -> db
 </details>
 
 ---
@@ -173,41 +178,41 @@ The company emphasizes its use of real, nourishing ingredients as a point of dif
 **Old description:** Marydel Ag Supply is a family-owned and operated business and leading provider of advanced production technologies for poultry, hog and dairy farming. We provide the latest equipment and complete farming solutions for poultry, egg, and hog production.
 
 ## About
-Marydel Ag Supply is a family-owned and operated agricultural supply business based in Marydel, Delaware. The company provides advanced production technologies and complete farming solutions for poultry, hog, and dairy operations.
+Marydel Ag Supply is a family-owned and operated business based in Marydel, Delaware. The company has served the agricultural community for an unspecified number of years, focusing on advanced production technologies for poultry, hog, and dairy farming.
 
-The company supplies equipment and replacement parts for egg, poultry, and hog operations, and operates as an authorized VALCO dealer. Its service department provides installation, repair, and round-the-clock emergency service for agricultural facilities. Marydel Ag Supply also runs a local hardware store stocking departments such as power tools (Makita, DeWalt), fasteners, plumbing, electrical, building supplies, and trailer parts.
+The company supplies equipment and complete farming solutions for poultry, egg, and hog production. It offers full-service installation for broiler, hog, and dairy facilities, along with parts supply and repair services. Marydel Ag Supply also operates a retail hardware store stocking departments such as power tools (Makita, Dewalt), fasteners, building supplies, plumbing, and electrical. As an authorized VALCO dealer, it provides specialized poultry equipment.
 
-Marydel Ag Supply serves the poultry (broiler and egg), hog, and dairy farming industries, providing both new facility installations and ongoing maintenance for existing operations. Customers include agricultural producers seeking complete turnkey solutions as well as those needing replacement parts and emergency repairs.
+Primary customers include poultry integrators, hog producers, and dairy farmers throughout the Delmarva region. The company’s service and installation work supports broiler houses, layer operations, and swine facilities, while its hardware store serves local contractors and farmers.
 
-The company emphasizes a combination of product supply and service support, aiming to be a primary source for agricultural supplies at wholesale prices while designing installations with future needs in mind.
+Marydel Ag Supply emphasizes its role as a total solution provider, combining facility design, installation, and ongoing service with a broad parts inventory. The company states that its designs are developed with the customer’s future in mind, leveraging every available innovation, and it aims to be the primary source for agricultural supplies at wholesale prices.
 
 ## Known for
 - Authorized VALCO dealer
-- Round-the-clock emergency service
 - Complete service and installation for poultry, hog, and dairy facilities
-- Wholesale pricing on agricultural supplies
-- Experienced technicians for agricultural equipment repair
+- Extensive inventory of replacement parts for livestock operations
+- Family-owned with experienced sales staff
 
 ## Capabilities
-- Agricultural equipment installation
+- Broiler facility installation and service
+- Hog and dairy facility installation and service
 - Agricultural equipment repair and maintenance
-- 24-hour emergency service
 - Replacement parts supply for poultry, hog, and dairy operations
-- VALCO equipment sales and service
-- Turnkey facility construction for livestock and poultry
-- Hardware and farm supply retail
-- Power tool sales (Makita, DeWalt)
+- VALCO poultry equipment distribution
+- Hardware and tool retail (Makita, Dewalt)
+- Agricultural facility design and construction
+- 24-hour emergency service response
 
 ## Industries
-- Poultry farming (broiler and egg)
+- Poultry farming
 - Hog farming
 - Dairy farming
-- Automotive accessories (retail)
+- Egg production
+- Broiler production
 
 ## Equipment
-- VALCO equipment (authorized dealer)
+- VALCO poultry equipment
 - Makita power tools
-- DeWalt power tools
+- Dewalt power tools
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -216,221 +221,89 @@ The company emphasizes a combination of product supply and service support, aimi
 
 <details><summary>Sources</summary>
 
-- Family-owned and operated business in Marydel, DE -> db
-- Provides equipment and solutions for poultry, hog, dairy farming -> db
+- Location: Marydel, Delaware -> db
+- Ownership: family-owned and operated -> /
+- Industries served: poultry, hog, dairy farming -> /
+- Capabilities: service and installation for broiler, hog, dairy -> /
 - Authorized VALCO dealer -> /
-- Offers service, installation, repair for agricultural equipment -> /
-- Hardware store with departments including power tools (Makita, DeWalt) -> /
-- Online store through ZeisetEquip.com -> /
-- Round-the-clock emergency service -> /
-- Wholesale pricing on agricultural supplies -> /about
-- Experienced technicians -> /
+- Hardware store departments (power tools, fasteners, building supplies, etc.) -> /
+- 24-hour emergency service availability -> /
+- Total solution provider with facility design and installation -> /about
+- Goal to be primary source for premier agricultural supplies at wholesale prices -> /about
 </details>
 
 ---
 
 # Maryland Packaging
 
-**Old description:** Maryland Packaging helps businesses grow their food production.
-
-## About
-Maryland Packaging, a food co-packaging and co-manufacturing company, was established in 2003 in Halethorpe, Maryland. The business operates two facilities in the state, including a location in Elkridge.
-
-The company provides a full range of food production services: co-packaging, co-manufacturing, private labeling, fulfillment and logistics, high pressure processing (HPP), and tolling. Its HPP capacity—powered by two Hiperbaric 525 machines and one Avure 10—is described as the largest in the Mid-Atlantic, able to process over 3,000 kilograms per hour. A commercial kitchen incubator and accelerator supports product development, while packaging lines handle skin packaging, modified atmosphere packaging, bottling, sachets, and wet and dry packing. The firm also offers research and development, compliance documentation, storage, distribution, and pick-and-pack services.
-
-Maryland Packaging serves food and beverage businesses of all sizes, from start-ups to large enterprises. Clients include Sunniva Caffe and Mason Jar Cookie Company, both cited in testimonials. The company private-labels condiments, marinara and dipping sauces, dessert sauces, gazpacho soups, and smoothies, and co-packs products such as juices, smoothies, tea, coffee, ready-to-eat meals, spices, cookies, crackers, cheeses, and dairy items.
-
-The company’s stated philosophy is “Under Promise, Over Deliver,” emphasizing transparency, honesty, and owning mistakes. It differentiates itself through its SQF-certified facility with one of the highest ratings in the United States, the ability to help brands achieve Organic, Kosher, Halal, and Non-GMO certifications, and a single-roof model that combines manufacturing, processing, packaging, R&D, lab testing, compliance, storage, and private labeling.
-
-## Known for
-- Largest HPP capacity in the Mid-Atlantic (two Hiperbaric 525, one Avure 10)
-- SQF-certified facility with one of the highest ratings in the U.S.
-- Full food production services under one roof: co-packing, co-manufacturing, private label, fulfillment, HPP
-- Commercial kitchen incubator and accelerator for product development
-- Assists brands with Organic, Kosher, Halal, and Non-GMO certifications
-
-## Capabilities
-- Co-Packaging
-- Co-Manufacturing
-- Private Labeling
-- Fulfillment and Logistics
-- High Pressure Processing (HPP)
-- Tolling
-- Skin Packaging
-- MAP Packaging (Modified Atmosphere Packaging)
-- Wet Packing
-- Bottling
-- Sachets/Portion Control
-- Dry Packing
-- Heat Pasteurization
-- Commercial Kitchen (Incubator/Accelerator)
-- Research & Development
-- Storage/Warehousing
-- Distribution
-- Pick and Pack
-- Food Consultancy
-- Compliance Documentation (State & Federal)
-- HACCP/GMP/SSOP/SOP Development
-- Process Authority
-- Validation Studies
-- Recipe Formulation
-
-## Industries
-- Food and beverage manufacturing
-
-## Equipment
-- Hiperbaric 525 (two)
-- Avure 10 (one)
-- Commercial kitchen incubator and accelerator
-
-## Certifications
-- FDA REGISTERED
-- HACCP
-- SQF
-- SQF 2
-- Organic
-- Kosher
-- Halal
-- Non-GMO
-- GFSI
-- PCQI COMPLIANT
-- USDA CERTIFIED
-- NON GMO PROJECT VERIFIED
-- PREVENTIVE CONTROL PROGRAM AND COMAR 117 COMPLIANT
-- HAACP
-- SEAFOOD HACCP
-- HOMELAND SECURITY COMPLIANT
-- FOOD DEFENSE PROGRAM COMPLIANT
-
-## Company details
-- **Company Type:** Contract manufacturer / job shop
-- **Founded:** 2003
-- **Headquarters:** Halethorpe, Maryland
-
-<details><summary>Sources</summary>
-
-- Founded 2003 -> db
-- Headquarters Halethorpe, Maryland -> db
-- Two facilities in Maryland (Elkridge) -> /about-us
-- Largest HPP facility in Mid-Atlantic with two Hiperbaric 525 and one Avure 10 -> /
-- HPP capacity over 3,000 kg/hour -> /
-- SQF certified with high rating -> /
-- Certifications: Organic, Kosher, Halal, Non-GMO, GFSI, PCQI, USDA, etc. -> /
-- Services: Co-Packaging, Co-Manufacturing, Private Labeling, Fulfillment, HPP, Tolling -> /
-- Packaging types: Skin, MAP, Wet, Bottling, Sachets, Dry -> /capabilities
-- Commercial kitchen incubator/accelerator -> /capabilities
-- Clients: Sunniva Caffe, Mason Jar Cookie Company -> /about-us
-- Private label products: condiments, sauces, soups, smoothies -> /
-- Co-pack products: juices, smoothies, tea, coffee, RTE meals, spices, cookies, crackers, cheeses, dairy -> /services
-- Philosophy: Under Promise, Over Deliver -> /about
-- Food consultancy, compliance documentation, R&D, storage, distribution -> /about-us, /services
-</details>
-
----
+_skipped: not enough facts_
 
 # Mat The Maker
 
-**Old description:** An artisan with a relentless eye for detail. A designer who understands how to blend, bend, and command materials to his will. A man of discipline with a taste for the cutting edge, Matthew Simmons stands at the intersection of strength and creativity. a craftsman driven by mastery in all he pursues.
-
-## About
-Mat The Maker operates from Tuscaloosa, Alabama, where founder Matthew Simmons runs a solo fabrication studio. The business emerged from Simmons' background in competitive boxing, where discipline and precision translated into a craft practice spanning wood, metal, and mixed media.
-
-The studio produces custom woodwork, metal fabrication, jewelry, and cabinetry. Simmons handles each project from design through fabrication, employing welding, polishing, and joinery techniques to create one-off installations for residential and commercial spaces. No facility size or headcount is disclosed.
-
-Clients include homeowners, interior designers, and commercial developers seeking bespoke installations. Past work ranges from residential cabinetry to large-scale commercial art pieces, though specific client names are not published.
-
-Simmons emphasizes longevity and creative freedom as guiding principles. He has stated, “I want to build something that stands the test of time,” and describes his process as a balance of power and refinement, structure and flow, where the freedom to explore yields impactful, enduring pieces.
-
-## Capabilities
-- Custom woodwork
-- Metal fabrication
-- Jewelry making
-- Cabinetry
-- Welding
-- Polishing
-- Joinery
-
-## Industries
-- Residential
-- Commercial
-- Art installations
-
-## Company details
-- **Company Type:** Manufacturer
-- **Headquarters:** Tuscaloosa, Alabama
-
-<details><summary>Sources</summary>
-
-- Company name: Mat The Maker -> db
-- Founder: Matthew Simmons -> page:/
-- Location: Tuscaloosa, Alabama -> db
-- Services: Custom Woodwork, Metal Fabrication, Jewelry, Cabinetry -> page:/
-- Description of craft and philosophy -> page:/
-- Materials: Steel, wood, mixed materials -> page:/
-- Target markets: residential and commercial spaces -> page:/
-- Quotes on longevity and creative freedom -> page:/
-</details>
-
----
+_skipped: not enough facts_
 
 # McCourt Manufacturing
 
 **Old description:** At McCourt Manufacturing, we proudly design and deliver the most durable, high-quality tables and chairs on the market. We build our products to handle the daily demands of events, classrooms, meeting spaces, and places of worship—all while keeping prices competitive. We manufacture many of our products right here in the USA, ensuring top-tier quality and craftsmanship.
 
 ## About
-Founded in 1979 in Fort Smith, Arkansas, McCourt Manufacturing has spent more than four decades building a reputation as a supplier of commercial-grade event furniture. The company operates as a privately held business and designs, engineers, and manufactures the majority of its product line domestically.
+Founded in 1979 in Fort Smith, Arkansas, McCourt Manufacturing began as a supplier of commercial-grade event furniture. Over four decades, the company has grown into a provider of tables, chairs, and accessories for venues across the United States and internationally.
 
-The product portfolio centers on folding tables, stackable and banquet chairs, pedestal tables, portable dance floors, and a range of table accessories. In addition to its core furniture lines, McCourt houses several specialized divisions: Sneeze Guard for food-service barriers, WisperKool for quiet cooling systems, MetalKraft for precision metal fabrications, and Chillin’ Products for Fill ’N Chill party tables. Most items are produced in the company’s U.S. facilities, with custom sizing, colors, and finishes available to match venue requirements.
+The company designs, engineers, and manufactures most of its products domestically. Its core lineup includes folding tables, stackable chairs, banquet seating, pedestal tables, portable dance floors, and table accessories. McCourt also operates four specialized divisions: Sneeze Guard for food‑service protection, WisperKool for quiet cooling systems, MetalKraft for precision metal fabrication, and Chillin’ Products for Fill ’N Chill party tables.
 
-McCourt serves a broad base of buyers that includes event-rental companies, hotels, wedding planners, banquet halls, schools, churches, and food-service operators across the United States and internationally. The company emphasizes fast, responsive service and works directly with clients to configure furniture packages for everything from single-room setups to full facility fit-outs.
+Customers range from event rental companies and hotels to wedding planners, banquet halls, schools, churches, and catering operations. The furniture is built to withstand daily use in high‑traffic settings such as conference centers, hospitality venues, and food‑service environments.
 
-Leadership cites a commitment to customer service, product innovation, and long-term value as the primary differentiators. By keeping manufacturing in-house, McCourt aims to control quality and lead times while offering custom options that let customers tailor finishes and dimensions to specific aesthetic or functional needs.
+McCourt emphasizes domestic manufacturing, custom finish options, and a focus on long‑term value. The company states that its commitment to customer service, product innovation, and USA‑based production sets it apart in the event furniture market.
 
 ## Known for
-- Most products manufactured in the USA
-- Custom options and finishes available
+- Design, engineer, and manufacture most products in the USA
+- Custom finish options and custom fabrication
+- Four integrated divisions: Sneeze Guard, WisperKool, MetalKraft, Chillin’ Products
+- Over 40 years of experience in commercial event furniture
 - Commitment to customer service and product innovation
-- Commercial-grade durability for daily use
 
 ## Capabilities
-- Design and engineering of event furniture
-- Manufacturing of folding tables and chairs
-- Production of stackable and banquet seating
-- Fabrication of pedestal tables
+- Design and engineering
+- Manufacturing of folding tables
+- Manufacturing of stackable chairs
+- Manufacturing of banquet seating
+- Manufacturing of pedestal tables
 - Manufacturing of portable dance floors
-- Custom furniture options
+- Manufacturing of table accessories
+- Custom fabrication
+- Finish customization
 - Metal fabrication (MetalKraft)
-- Production of sneeze guards (Sneeze Guard)
 - Cooling system manufacturing (WisperKool)
-- Fill-n-chill table production (Chillin' Products)
+- Sneeze guard production
+- Fill 'N Chill table production (Chillin' Products)
 
 ## Industries
+- Event furniture
+- Banquet halls
+- Schools
 - Event rental
 - Hospitality
-- Education (schools)
-- Religious institutions (churches)
-- Banquet and conference centers
+- Weddings
+- Churches
+- Food service
+- Catering
 - Hotels
-- Wedding and event planning
-- Food service and catering
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1979
-- **Ownership:** Private
 - **Headquarters:** Fort Smith, Arkansas
 
 <details><summary>Sources</summary>
 
 - Founded in 1979 in Fort Smith, Arkansas -> /about-us
-- Designs, engineers, and manufactures most products in the USA -> /about-us
-- Product lines: folding tables, stackable chairs, banquet seating, pedestal tables, dance floors, table accessories -> /about-us
-- Divisions: Sneeze Guard, WisperKool, MetalKraft, Chillin’ Products -> /about-us
-- Serves event rental companies, hotels, wedding planners, banquet halls, schools, churches, food service -> /about-us, /
-- Offers custom options and finishes -> /about-us
-- Commitment to customer service, product innovation, long-term value -> /about-us
-- Manufactures many products in the USA -> /
-- Provides fast, responsive service -> /
+- Design, engineer, and manufacture most products in the USA -> /about-us
+- Product line includes folding tables, stackable chairs, banquet seating, pedestal tables, dance floors, and table accessories -> /about-us
+- Serves banquet halls, schools, event rental companies, hospitality venues, weddings, churches -> /about-us
+- Divisions: Sneeze Guard, WisperKool, MetalKraft, Chillin' Products -> /about-us
+- Headquarters: Fort Smith, Arkansas -> db
+- Company name: McCourt Manufacturing -> db
+- Website: http://www.mccourtmfg.com/ -> db
 </details>
 
 ---
@@ -440,65 +313,73 @@ Leadership cites a commitment to customer service, product innovation, and long-
 **Old description:** Family owned since 1951, the McGee Company has always operated with one simple goal: To anticipate the needs of our customers by having the right product available to them – right when they need it. With warehouses in Denver, Salt Lake City, Albuquerque, Atlanta and Dallas, McGee brings the American West the largest inventory of products possible to best serve our customers every day.
 
 ## About
-McGee Company, headquartered in Albuquerque, New Mexico, has been family-owned since its founding in 1951. The company began with a simple goal: to anticipate customer needs by keeping the right products in stock and ready to ship.
+McGee Company was founded in 1951 in Albuquerque, New Mexico, and has remained family-owned since its inception. The company began with a simple goal: to anticipate customer needs by keeping the right products in stock and ready to ship. Today it operates warehouses in Denver, Salt Lake City, Albuquerque, Atlanta, and Dallas, serving the American West with a broad inventory of automotive service equipment and supplies.
 
-Today, McGee operates five warehouses across Denver, Salt Lake City, Albuquerque, Atlanta, and Dallas, serving the American West with a broad inventory of automotive service equipment and supplies. The company stocks tire changers, wheel balancers, alignment systems, lifts, air compressors, air tools, and compressed-air components from brands such as Champion, Quincy, Rotary Lift, and Hunter. It also provides compressed-air system design and installation, equipment leasing programs, and technical training seminars at its Denver facility. McGee reports a 96% fill rate and same-day shipping for orders placed by noon.
+The company distributes a wide range of equipment and consumables for tire and wheel service, automotive lifts, compressed-air systems, lubrication equipment, alignment tools, and shop supplies. It carries brands such as Champion, Quincy, Direct Lift, Forward Lift, Rotary Lift, Ammco, Hunter, Cemb, and Coats. McGee also designs and installs compressed-air systems, offers in-house equipment leasing, and runs training seminars at its Denver facility. With five warehouses and a network of 38 Ascot partner locations, it reports a 96% fill rate and same-day shipping for orders placed by noon.
 
-The company serves automotive repair shops, tire service centers, fleet maintenance operations, and industrial facilities requiring compressed-air systems. Its product range extends to retreading equipment, winter traction devices, EV chargers, and nitrogen tire inflation systems. McGee’s national reach is supplemented by a network of 38 Ascot-affiliated warehouses.
+McGee’s customers include independent tire dealers, automotive repair shops, fleet maintenance operations, and retreading facilities across the western United States. The product lineup covers tire changers, wheel balancers, brake lathes, alignment systems, air compressors, nitrogen inflation systems, EV chargers, and a variety of shop supplies such as wheel weights, valve hardware, and tire repair materials.
 
-McGee emphasizes its family-owned heritage and a customer-first philosophy summed up as “anticipating the needs of our customers by having the right product available to them – right when they need it.” Sales representatives average eight years with the company, and every product undergoes rigorous testing before being offered.
+The company emphasizes its family-owned heritage, experienced sales staff averaging eight years with the firm, rigorous product testing, and a single-source supplier model. It also highlights environmental initiatives like lead-free wheel weights, biodegradable cleaners, and nitrogen tire inflation systems.
 
 ## Known for
-- Family-owned since 1951 with a focus on anticipating customer needs
-- Same-day shipping on orders placed by noon and a 96% fill rate
-- Compressed-air system design, installation, and technical support
-- In-house equipment leasing programs available in multiple states
-- Technical training seminars at a dedicated Denver facility
+- Same-day shipping on orders placed by noon
+- 96% order fill rate
+- Sales representatives average eight years of experience
+- In-house equipment leasing programs
+- Network of 38 Ascot warehouses nationwide
 
 ## Capabilities
-- Automotive lift sales and installation
-- Tire changer and wheel balancer sales
-- Wheel alignment equipment sales
-- Brake lathe sales
-- Air compressor sales (Champion, Quincy)
+- Automotive service equipment distribution
 - Compressed air system design and installation
-- Air tool sales and distribution
-- Tire repair equipment and supplies distribution
-- Retreading equipment and supplies distribution
-- EV charger sales (home and commercial)
-- Nitrogen tire inflation system sales
-- Equipment leasing programs
-- Technical training seminars (TPMS, tire repair, alignment, equipment maintenance)
+- Equipment leasing
+- Technical training seminars
 - Same-day order fulfillment
-- Equipment repair parts distribution
-- Valve hardware and TPMS sensor distribution
-- Wheel balancing weight distribution
-- Wheel hardware distribution (lug nuts, sockets, torque tools)
-- Lubrication equipment sales (dispensers, drains)
-- Shop equipment sales (jacks, stands, cranes, presses)
-- Safety and shop supplies distribution
+- Single-source supply for shop equipment and consumables
+- Tire changer and wheel balancer distribution
+- Automotive lift distribution
+- Alignment equipment distribution
+- Brake lathe distribution
+- Air compressor distribution
+- Nitrogen tire inflation system distribution
+- EV charger distribution
+- Tire repair material distribution
+- Wheel weight distribution
+- Valve hardware distribution
+- Shop supply distribution
+- Retreading equipment distribution
+- Winter traction equipment distribution
+- Lubrication equipment distribution
+- Shop press and jack distribution
+- Crane and hoist distribution
+- Tool and socket distribution
+- Safety product distribution
 
 ## Industries
-- Automotive & Fleet Service Equipment
-- Automotive Lifts
-- Lube & (Automotive) Air
-- Automotive Supplies
-- Retreading
-- Winter Traction
-- EV Chargers
+- Automotive & fleet service
+- Automotive lifts
+- Lubrication & automotive air
+- Automotive supplies
+- Tire retreading
+- Winter traction
+- EV charging
+- Industrial compressed air
+- Tire & wheel service
+- Heavy-duty truck service
 
 ## Equipment
-- Champion air compressors
-- Quincy air compressors
-- Direct Lift automotive lifts
-- Forward Lift automotive lifts
-- Rotary Lift automotive lifts
+- Champion compressors
+- Quincy compressors
+- Direct Lift lifts
+- Forward Lift lifts
+- Rotary Lift lifts
 - Ammco brake lathes
 - Hunter alignment equipment
-- Cemb tire changers and wheel balancers
-- Coats tire changers and wheel balancers
-- Rubberhog retreading equipment
+- Cemb tire changers
+- Cemb wheel balancers
+- Coats tire changers
+- Coats wheel balancers
 - Autosock traction devices
+- Tire chains
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -508,19 +389,19 @@ McGee emphasizes its family-owned heritage and a customer-first philosophy summe
 
 <details><summary>Sources</summary>
 
-- Founded 1951, family-owned -> db, /about-us
+- Founded 1951, family-owned -> db
 - Headquarters Albuquerque, New Mexico -> db
-- Five warehouses in Denver, Salt Lake City, Albuquerque, Atlanta, Dallas -> /
+- Warehouses in Denver, Salt Lake City, Albuquerque, Atlanta, Dallas -> db and /about-us
 - 96% fill rate, same-day shipping for orders by noon -> /about-us
-- Sales reps average 8 years experience -> /about-us
-- Denver training facility offers seminars on TPMS, tire repair, alignment, equipment maintenance -> /about-us
-- Products tested for over 75 years before offering -> /about-us
-- Single source supplier for equipment and supply needs -> /about-us
-- In-house leasing programs in multiple states -> /about-us
-- Network of 38 Ascot warehouses nationwide -> /about-us
-- Brands carried: Champion, Quincy, Direct Lift, Forward Lift, Rotary Lift, Ammco, Hunter, Cemb, Coats, Rubberhog -> /
-- Product categories: tire changers, wheel balancers, alignment, lifts, air compressors, air tools, tire repair, valve hardware, wheel weights, EV chargers, nitrogen inflation -> /
-- Industries served: automotive & fleet service, automotive lifts, lube & automotive air, automotive supplies, retreading, winter traction, EV chargers -> /about-us, db
+- Sales reps average eight years experience -> /about-us
+- Training seminars at Denver facility -> /about-us
+- Product testing before offering -> /about-us
+- Single source supplier -> /about-us
+- In-house leasing programs -> /about-us
+- Network of 38 Ascot warehouses -> /about-us
+- Brands: Champion, Quincy, Direct Lift, Forward Lift, Rotary Lift, Ammco, Hunter, Cemb, Coats -> / and /about-us
+- Industries: automotive & fleet service, automotive lifts, lubrication & air, automotive supplies, retreading, winter traction, EV chargers, industrial compressed air -> industries_served and /about-us
+- Environmental products: lead-free wheel weights, biodegradable cleaner, nitrogen inflation, EV chargers -> /about-us
 </details>
 
 ---
@@ -530,58 +411,47 @@ McGee emphasizes its family-owned heritage and a customer-first philosophy summe
 **Old description:** Family owned since 1951, the McGee Company has always operated with one simple goal: To anticipate the needs of our customers by having the right product available to them – right when they need it. With warehouses in Denver, Salt Lake City, Albuquerque, Atlanta and Dallas, McGee brings the American West the largest inventory of products possible to best serve our customers every day.
 
 ## About
-McGee Company, headquartered in Salt Lake City, Utah, has been family-owned since its founding in 1951. The company began with a simple goal: to anticipate customer needs by keeping the right products in stock and available when needed.
+McGee Company, headquartered in Salt Lake City, Utah, has been family-owned since its founding in 1951. The business began with a simple goal: to anticipate customer needs by keeping the right products in stock and available when needed.
 
-The company distributes a broad range of automotive shop equipment and supplies, including tire changers, wheel balancers, lifts, alignment systems, air compressors, air tools, lubrication equipment, and tire repair materials. McGee operates five regional warehouses in Denver, Salt Lake City, Albuquerque, Atlanta, and Dallas, supplemented by a national network of 38 Ascot warehouses. It offers same-day shipping on orders placed by noon, maintains a 96% fill rate, and provides services such as compressed-air system design and installation, technical training at its Denver facility, and in-house equipment leasing in multiple states.
+The company operates as a distributor of automotive service equipment and supplies, stocking tire-service shop equipment, compressed-air systems, automotive lifts, tire changers, wheel balancers, alignment equipment, lubrication systems, and related parts. With five warehouses in Denver, Salt Lake City, Albuquerque, Atlanta, and Dallas, plus a national network of 38 Ascot-affiliated warehouses, McGee maintains a 96% fill rate and offers same-day shipping on orders placed by noon. The company also provides equipment repair parts, in-house leasing programs, compressed-air system design and installation, and technical training seminars at its Denver facility.
 
-McGee serves automotive repair shops, fleet maintenance operations, tire dealerships, and retreading facilities across the western United States. Its customer base includes independent service centers, multi-location fleet operators, and commercial tire retailers that rely on equipment such as Rotary lifts, Hunter alignment systems, Coats tire changers, and Champion air compressors. The company also supports emerging needs like EV charger installation and nitrogen tire inflation systems.
+McGee serves automotive and fleet service shops, tire dealers, and maintenance facilities across the western United States. Its customer base includes independent repair shops, fleet operators, and retail tire outlets that rely on brands such as Rotary Lift, Hunter, Champion, Quincy, Direct Lift, Forward Lift, Ammco, Cemb, and Coats.
 
-The company emphasizes its commitment to customer service as its primary differentiator, citing its family-owned stability, extensive product testing, and single-source supplier model. McGee highlights its sales representatives' average eight years of tenure, same-day shipping capability, and 96% fill rate as key advantages for keeping shops operational.
+The company emphasizes its family-owned heritage, experienced sales staff averaging eight years with the firm, rigorous product testing, and a single-source supplier model. Environmental initiatives include lead-free zinc and iron wheel weights, EV chargers, nitrogen tire inflation systems, and biodegradable cleaners.
 
 ## Known for
 - Same-day shipping on orders placed by noon
-- 96% fill rate
-- Family-owned since 1951
+- 96% order fill rate
 - Sales representatives average eight years of experience
-- In-house equipment leasing in multiple states
+- In-house equipment leasing programs in multiple states
+- National network of 38 Ascot warehouses
 
 ## Capabilities
-- Automotive lift sales and service
-- Tire changer and balancer sales
-- Wheel alignment equipment
-- Air compressor sales and service
-- Air tool sales
-- Compressed air system design and installation
-- Lubrication equipment sales
-- Tire repair and retreading supplies
-- Wheel balancing supplies
-- TPMS tools and sensors
-- EV charger installation
-- Nitrogen tire inflation systems
-- Equipment leasing
+- Distribution of automotive service equipment and supplies
+- Equipment repair parts supply
+- Compressed-air system design and installation
+- In-house equipment leasing
 - Technical training seminars
-- Same-day shipping
-- Inventory management
+- Same-day order fulfillment
+- 96% fill rate maintenance
+- Single-source supplier for shop equipment and supplies
 
 ## Industries
-- Automotive repair
-- Fleet maintenance
-- Tire dealerships
-- Retreading
-- Industrial compressed air
-- EV charging infrastructure
+- Automotive & Fleet Service Equipment
+- Automotive Lifts
+- Lube & Automotive Air
+- Automotive Supplies
 
 ## Equipment
+- Rotary Lift automotive lifts
+- Hunter alignment equipment and tire changers
 - Champion air compressors
 - Quincy air compressors
-- Direct Lift automotive lifts
-- Forward Lift automotive lifts
-- Rotary Lift automotive lifts
+- Direct Lift lifts
+- Forward Lift lifts
 - Ammco brake lathes
-- Hunter alignment systems
-- Cemb tire changers and balancers
-- Coats tire changers and balancers
-- EV chargers (home and commercial)
+- Cemb tire changers and wheel balancers
+- Coats tire changers and wheel balancers
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -591,22 +461,20 @@ The company emphasizes its commitment to customer service as its primary differe
 
 <details><summary>Sources</summary>
 
-- Founded 1951 -> db
-- Family-owned since 1951 -> / (homepage) and /about-us
+- Founded 1951, family-owned -> db
 - Headquarters Salt Lake City, Utah -> db
-- Five warehouses in Denver, Salt Lake City, Albuquerque, Atlanta, Dallas -> / (homepage) and /about-us
-- National network of 38 Ascot warehouses -> /about-us
-- Same-day shipping on orders placed by noon -> /about-us
-- 96% fill rate -> /about-us
-- Sales representatives average eight years experience -> /about-us
-- Training facility in Denver -> /about-us
+- Five warehouses in Denver, Salt Lake City, Albuquerque, Atlanta, Dallas -> /about-us
+- 96% fill rate, same-day shipping for orders by noon -> /about-us
+- Sales reps average eight years experience -> /about-us
 - In-house leasing programs in multiple states -> /about-us
-- Product testing for over 75 years -> /about-us
+- National network of 38 Ascot warehouses -> /about-us
+- Rigorous product testing before offering -> /about-us
 - Single-source supplier model -> /about-us
-- Brands: Champion, Quincy, Direct Lift, Forward Lift, Rotary Lift, Ammco, Hunter, Cemb, Coats -> / (homepage) categories
-- Industries: automotive repair, fleet maintenance, tire dealerships, retreading, industrial compressed air, EV charging -> /about-us and industries_served
-- Equipment categories: lifts, tire changers, balancers, alignment, air compressors, air tools, lubrication, tire repair, TPMS, EV chargers -> / (homepage) and /about-us
-- Lead time: same-day shipping -> /about-us
+- Environmental products: lead-free wheel weights, EV chargers, nitrogen inflation, biodegradable cleaner -> /about-us
+- Brands carried: Rotary Lift, Hunter, Champion, Quincy, Direct Lift, Forward Lift, Ammco, Cemb, Coats -> /, /about-us
+- Industries served: automotive & fleet service, automotive lifts, lube & automotive air, automotive supplies -> db
+- Training facility in Denver -> /about-us
+- 41,601 satisfied customers, 75 years in business, 45 new builds -> /
 </details>
 
 ---
@@ -616,32 +484,34 @@ The company emphasizes its commitment to customer service as its primary differe
 **Old description:** To be a cost effective, consistent and local partner to all of our clients, from the biggest ones to the smallest ones; to supply what you need, when you need it and in a quantity that works best for your (often too small) space.
 
 ## About
-McLure Packaging Systems & Supplies operates from Essex Junction, Vermont, where it has served industrial customers across New England for over 15 years. The company positions itself as a local partner for businesses of all sizes, from small backyard operations to larger manufacturers.
+Based in Essex Junction, Vermont, McLure Packaging Systems & Supplies has served New England industrial customers for over 15 years. The company positions itself as a local partner for businesses of all sizes, from small startups to larger manufacturers.
 
-The firm specializes in custom packaging design, supply chain management, and inventory services. It partners with manufacturing and fabrication plants to produce custom corrugated cartons made from 100 percent recycled kraft paper, as well as expanded polystyrene (EPS) and polypropylene (EPP) foam products. McLure manages safety stock programs, offers just-in-time and interactive stock management, and provides consulting on an hourly or project basis.
+The company provides custom packaging design, inventory management, and supply chain consulting services. It supplies custom-made corrugated cartons produced with 100% recycled kraft paper, as well as foam products such as expanded polystyrene (EPS) and polypropylene (EPP) sourced from a Quebec manufacturer that recycles 100% of its waste. McLure manages safety stocks and offers just-in-time delivery programs tailored to customer production schedules.
 
-Its customer base consists of industrial companies in New England that are often too small to work directly with manufacturers. McLure acts as the local representative for its fabrication partners, handling design, quality control, and delivery so clients can reduce on-site storage space and handling costs.
+McLure serves industrial customers across New England, including small manufacturers and startups that are too small to work directly with large packaging manufacturers. The company acts as a local representative for its manufacturing partners, helping clients reduce storage space and handling costs.
 
-The company emphasizes sustainability through a recycling program that recovers 100 percent of EPS and EPP waste from its foam manufacturer in Quebec. It also highlights proactive site visits and personalized service as key differentiators, aiming to lower clients' total cost of doing business.
+McLure emphasizes sustainability, using 100% recycled materials and partnering with recycling groups in Vermont and Quebec. Its proactive, personal approach includes regular site visits and interactive stock management, aiming to exceed client expectations for quality, delivery, and price.
 
 ## Known for
-- Custom corrugated cartons made from 100% recycled kraft paper
-- Foam manufacturer recycles 100% of EPS and EPP waste
-- Proactive site visits and inventory management to reduce storage costs
+- 100% recycled kraft paper for custom corrugated cartons
+- Proactive site visits and inventory management
 - Just-in-time and interactive stock management programs
-- Hourly or project-based packaging consulting services
+- Hourly or project-based consulting services
+- Partnerships with recycling groups in Vermont and Quebec
 
 ## Capabilities
 - Custom packaging design
+- Inventory management
 - Supply chain management
-- Safety stock management
 - Just-in-time delivery
+- Consulting services
+- Recycling and recovery program
+- Safety stock management
 - Interactive stock management
-- Packaging consulting (hourly or project-based)
-- Recycling and recovery program coordination
 
 ## Industries
 - Industrial
+- Manufacturing
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -650,17 +520,15 @@ The company emphasizes sustainability through a recycling program that recovers 
 <details><summary>Sources</summary>
 
 - Location: Essex Junction, Vermont -> db
-- Over 15 years of experience -> /services
-- Custom packaging design, supply chain management, inventory services -> /services
-- Partnerships with manufacturing and fabrication plants -> /services
-- Custom corrugated cartons made from 100% recycled kraft paper -> /
-- Foam products: EPS and EPP, with 100% recycling -> /about
+- Over 15 years experience -> /services
+- Custom packaging design, inventory management, supply chain consulting -> /services
+- Custom-made corrugated cartons from 100% recycled kraft paper -> /
+- Foam products EPS and EPP from Quebec manufacturer recycling 100% waste -> /about
+- Serves industrial customers in New England -> /about
 - Acts as local representative for manufacturing partners -> /about
-- Industrial customers in New England -> /about
-- Proactive site visits and inventory management -> /
-- Just-in-time and interactive stock management -> /services
+- Proactive site visits and interactive stock management -> /, /services
+- Sustainability focus with recycling groups in Vermont and Quebec -> /about
 - Hourly or project-based consulting -> /services
-- Sustainability focus: recycling program -> /about
 </details>
 
 ---

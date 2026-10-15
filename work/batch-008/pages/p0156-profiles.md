@@ -3,45 +3,49 @@
 **Old description:** Mike Herlinger founded Club Ride between working at an outdoor store and racing bikes on the weekend. His vision was to create clothing that spoke to the lifestyle lead by the mountain bikers, hikers, raft guides, and ski bums creating their own opportunities in mountain towns. 11 years after inception Club Ride has spearheaded the bike lifestyle clothing category. It is still designed from a bike perspective but celebrates the outdoor pursuits of every weekend warrior working late to save hours for a long weekend or waxing skis at night for a powder day. The designs have improved, fabrics have advanced, but the soul of Club Ride holds true with irreverent style, technical fabrics, and mountain vibes.
 
 ## About
-Club Ride Apparel is based in Hailey, Idaho, in the Wood River Valley near Sun Valley. The company was founded in 2008 by Mike Herlinger, who conceived the brand while working at an outdoor store and racing mountain bikes on weekends. Herlinger wanted clothing that reflected the lifestyle of mountain bikers, hikers, raft guides, and ski bums who build their lives around outdoor pursuits in mountain towns.
+Club Ride Apparel is based in Hailey, Idaho, and was founded in the spring of 2008 by Mike Herlinger. Herlinger, then working at an outdoor store and racing mountain bikes on weekends, conceived the brand after a ride in Sun Valley when he wondered why he couldn't ride in his favorite vintage Western shirt. That moment sparked a line of clothing that blends technical cycling performance with Western-inspired style.
 
-The brand designs and sells mountain lifestyle apparel for men and women, including technical cycling shirts, flannels, jackets, shorts, pants, and chamois. The line blends performance fabrics with Western-inspired details such as pearl snaps and relaxed fits, aiming to blur the line between on-bike function and off-bike style. Club Ride also operates a custom apparel program for teams, events, and retail partners, though the company does not disclose its production facility size, headcount, or annual volumes.
+The company designs and sells mountain lifestyle apparel for men and women, including long- and short-sleeve shirts, jackets, pants, shorts, chamois, gloves, and socks. Products are built with technical fabrics for moisture management and freedom of movement, while details like pearl snaps and relaxed fits reflect a Western aesthetic. Club Ride also offers a custom apparel program for teams and shops. The brand operates primarily through its e-commerce site and a network of retail partners.
 
-The primary customers are outdoor enthusiasts—mountain bikers, hikers, rafters, and skiers—who value technical performance without sacrificing personality. The custom program serves groups such as bike parks, race teams, and corporate retreats. Products are sold direct-to-consumer through the company’s website and through a network of retail locations across the U.S.
+Club Ride serves the outdoor recreation market, targeting mountain bikers, hikers, raft guides, ski bums, and self-described weekend warriors who split time between work and backcountry pursuits. Its gear is designed for riders who want performance on the trail without sacrificing style off the bike.
 
-Herlinger started the company after a ride in Sun Valley when he realized he didn’t want to change out of his vintage Western shirt to meet friends. That moment drove the conviction that cycling gear could be both technical and stylish. Today, Club Ride emphasizes irreverent style, durable construction, and mountain-town authenticity as its defining characteristics.
+Herlinger's original conviction—that cycling kit can be both technical and stylish—remains the company's differentiator. Club Ride emphasizes irreverent style, durable construction, and “bike-forward details” that transition from singletrack to the brewery.
 
 ## Known for
-- Rider-owned and operated
+- Rider-owned and designed in Hailey, Idaho
 - Technical cycling gear with Western-inspired details (pearl snaps, relaxed fits)
-- Custom apparel program for teams, events, and retail partners
-- Designed for durability and mountain-town authenticity
-- Free ground shipping on U.S. orders over $125
+- Custom apparel program for teams and retailers
+- Irreverent style, durable fabrics, mountain vibes
 
 ## Capabilities
-- Custom apparel
+- Custom apparel production
+- Apparel design and development
+- Technical fabric sourcing
 
 ## Industries
+- Cycling
 - Mountain biking
-- Hiking
-- Rafting
-- Skiing
-- Outdoor lifestyle
+- Outdoor recreation
+- Adventure sports
+- Sportswear
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 2008
+- **Ownership:** Founder-owned
 - **Headquarters:** Hailey, Idaho
 
 <details><summary>Sources</summary>
 
-- Founded by Mike Herlinger in 2008 -> /about-us
-- Headquarters in Hailey, Idaho -> db
-- Offers custom apparel program -> /about-us
-- Sells men's and women's mountain lifestyle clothing -> /
-- Emphasizes technical fabrics with Western-inspired details -> /about-us
-- Rider-owned brand -> /
-- Free ground shipping on US orders over $125 -> /
+- Founder Mike Herlinger, founded spring 2008 -> /about-us
+- Headquarters Hailey, Idaho -> db
+- Product categories: tops, bottoms, chamois, jackets, gloves, socks -> /
+- Custom apparel program -> /
+- Differentiators: Rider-owned, Designed durable, Bike forward details -> /
+- Company makes apparel -> /about-us
+- Industries served: mountain bikers, hikers, raft guides, ski bums -> /about-us
+- Free shipping on US orders over $125 -> /
+- Irreverent style, technical fabrics, mountain vibes -> /about-us
 </details>
 
 ---
@@ -51,52 +55,46 @@ Herlinger started the company after a ride in Sun Valley when he realized he did
 **Old description:** Rainbow Energy Center, LLC (Rainbow) is the proud owner of Coal Creek Station. Nexus Line, LLC, Rainbow’s sister company, owns the high-voltage direct current (HVDC) transmission line that transmits power from Coal Creek Station to the Dickinson converter station located near Buffalo, MN.  Together, our team works to maximize efficient energy production and sound energy management to unlock the energy sector’s full potential. Rainbow is working diligently to capitalize on innovative technologies so future generations have reliable and sustainable energy solutions.
 
 ## About
-Rainbow Energy Center, LLC, based in Underwood, North Dakota, became the owner of Coal Creek Station on May 1, 2022, when it acquired the power plant alongside its sister company Nexus Line, LLC, which purchased the associated high-voltage direct current (HVDC) transmission line. The acquisition marked the beginning of Rainbow's operations as an independent energy producer in the region.
+Rainbow Energy Center, LLC (REC) acquired Coal Creek Station, a coal-fired power plant near Underwood, North Dakota, on May 1, 2022. The acquisition included the plant's generation assets and approximately 200 employees. REC's sister company, Nexus Line, LLC, simultaneously purchased the high-voltage direct current (HVDC) transmission line that carries power from the station to the Dickinson converter station near Buffalo, Minnesota. The ownership structure places both entities under common leadership focused on efficient energy production and sound energy management.
 
-The company operates Coal Creek Station, described as North Dakota's most efficient power plant, employing approximately 200 people. Its activities span electricity generation, transmission, wind energy integration, and carbon capture initiatives. The facility serves as a baseload power source, with the HVDC line delivering electricity to the Dickinson converter station near Buffalo, Minnesota.
+The company operates Coal Creek Station as a baseload generation facility while also pursuing wind energy development and carbon capture initiatives. REC describes its portfolio as spanning generation, transmission, wind, and carbon capture, aiming to harness natural resources for a sustainable future.
 
-Rainbow Energy Center serves the energy sector, providing reliable power to communities and the grid. Its customer base includes utilities and regional transmission organizations, though specific clients are not disclosed. The company emphasizes local procurement, citing Captain's Cabin as a community vendor, and highlights its role in supporting the surrounding economy through wages and local partnerships.
+Electricity from Coal Creek Station serves residential, commercial, and industrial customers across the region. The company emphasizes local procurement, citing Captain's Cabin, a vendor in the Underwood area, as an example of its commitment to keeping business within the community. REC states that its wages and spending help fuel the local economy.
 
-Rainbow states its mission is to maximize efficient energy production and sound energy management while pursuing innovative technologies such as carbon capture to ensure reliable, sustainable energy for future generations. The leadership emphasizes safety, environmental consciousness, and community investment as core differentiators.
+REC positions itself as a provider of reliable, affordable, and increasingly clean energy. Its stated mission centers on safety, environmental consciousness, and improving the lives of community members through integrity and accountability. The company highlights the plant's efficiency and its investments in carbon capture as differentiators in the transition to cleaner energy.
 
 ## Known for
-- Owner of North Dakota's most efficient power plant (Coal Creek Station)
-- Sister company Nexus Line owns HVDC transmission line to Dickinson converter station
-- Approximately 200 employees supporting local community
-- Focus on carbon capture, wind, and sustainable generation
+- North Dakota's most efficient power plant
+- Reliable, affordable, and increasingly clean energy
 - Commitment to keeping business local and supporting small communities
+- Carbon capture initiatives
+- HVDC transmission line ownership via sister company Nexus Line
 
 ## Capabilities
-- Electricity generation
-- High-voltage direct current transmission
-- Wind energy integration
+- Power generation
+- Electricity transmission
+- Wind energy development
 - Carbon capture
-- Energy management
 
-## Industries
-- Electric power generation
-- Electric power transmission
-- Wind energy
-- Carbon capture and storage
-- Utilities
+## Equipment
+- Coal Creek Station
+- HVDC transmission line
 
 ## Company details
 - **Company Type:** Other
-- **Employees:** 200
+- **Employees:** approximately 200
 - **Headquarters:** Underwood, North Dakota
 
 <details><summary>Sources</summary>
 
-- Rainbow Energy Center, LLC owns Coal Creek Station -> /
-- Nexus Line, LLC owns HVDC transmission line -> /
-- Headquarters in Underwood, North Dakota -> db
+- Rainbow Energy Center, LLC owns Coal Creek Station -> /about
+- Acquired May 1, 2022 -> /about
 - Approximately 200 employees -> /about
-- Acquired power plant on May 1, 2022 -> /about
-- Activities: Generation, Transmission, Wind, Carbon Capture -> /about
-- Described as North Dakota's most efficient power plant -> /about
-- HVDC line transmits to Dickinson converter station near Buffalo, MN -> /
-- Local vendor Captain's Cabin mentioned -> /about
-- Mission: maximize efficient energy production, innovative technologies for sustainable energy -> /
+- Nexus Line, LLC owns HVDC transmission line -> /
+- Generation, Transmission, Wind, Carbon Capture activities -> /about
+- Commitment to reliable, affordable, increasingly clean energy -> /
+- Local vendor example: Captain's Cabin -> /about
+- Headquarters in Underwood, North Dakota -> db
 </details>
 
 ---
@@ -106,69 +104,51 @@ Rainbow states its mission is to maximize efficient energy production and sound 
 **Old description:** Coastal Power Systems is an engineering-driven manufacturer of critical electrical infrastructure. We deliver complete electrical infrastructure lifecycle solutions—from concept and design, through manufacturing, commissioning, testing, modernization, maintenance, and emergency response. We partner with EPCs, industrial facilities, and mission-critical operators to reduce risk, improve power reliability, and simplify project execution.
 
 ## About
-Coastal Power Systems operates from Tomball, Texas, in the Houston metropolitan area. The company was founded in 1995 as a source for industrial circuit breakers and has since grown into a full-service power systems provider serving customers throughout the United States.
+Coastal Power Systems operates from Tomball, Texas, in the Houston metropolitan area. The company was founded in 1995 as a supplier of industrial circuit breakers and has since expanded into a full-service provider of electrical power distribution solutions.
 
-The company manufactures custom power distribution equipment including UL 1558 switchgear, UL 891 switchboards, UL 67 panelboards, medium and low voltage switchgear, and protection and control systems. Beyond manufacturing, Coastal Power Systems delivers engineering and design services, NETA-guided testing and commissioning, preventive maintenance and reliability services, modernization and life extension programs, 24/7 emergency response, and field services for critical electrical infrastructure. This integrated model places engineering, manufacturing, testing, field service, and technical support under one roof.
+The firm manufactures custom power distribution equipment including UL 1558 switchgear, UL 891 switchboards, UL 67 panelboards, and medium- and low-voltage switchgear, along with protection and control systems. Its capabilities span engineering and design studies (coordination, arc flash, short circuit), NETA-guided testing and commissioning, preventive maintenance, circuit breaker restoration, switchgear modernization, arc flash mitigation, and 24/7 emergency response. Field services cover primary and secondary injection testing, protective relay testing, equipment repair, and refurbishment. The company also supplies new, reconditioned, and obsolete industrial circuit breakers with retrofit kits and parts.
 
-Coastal Power Systems serves utilities, data centers, power generation facilities, oil and gas operations, petrochemical plants, industrial manufacturers, water and wastewater facilities, transportation infrastructure, commercial facilities, and renewable energy sites. Its customers include EPC firms, consulting engineers, industrial facility owners, and mission-critical operators who require dependable power distribution equipment and lifecycle support.
+Coastal Power Systems serves utilities, data centers, power generation facilities, oil and gas operations, petrochemical plants, industrial manufacturers, water and wastewater systems, transportation infrastructure, commercial buildings, and renewable energy sites. Its customers include EPC firms, consulting engineers, and mission-critical operators who require single-source responsibility for electrical infrastructure from design through lifecycle support.
 
-The company emphasizes a single-source approach that combines engineering, manufacturing, field services, testing, repair, modernization, and technical support within one organization. This integrated structure is intended to provide a single point of responsibility, faster communication, and streamlined project execution from initial design through commissioning, maintenance, modernization, emergency response, and long-term asset management.
+The company emphasizes an integrated model that combines engineering, manufacturing, field service, testing, repair, and modernization under one roof. Its stated mission is to deliver dependable, responsive, and practical power solutions that improve reliability, reduce downtime, and support long-term performance of critical electrical infrastructure. The tagline "We Build What We Sell. We Support What We Build." reflects this end-to-end approach.
 
 ## Known for
 - In-house manufacturing with engineering-first approach
-- Field service and manufacturing support under one roof
 - NETA-guided testing procedures
+- Field service and manufacturing support under one roof
 - 24/7 emergency support for urgent power system issues
-- OEM and obsolete equipment knowledge with breaker modernization experience
+- Single point of responsibility with faster communication
 
 ## Capabilities
-- UL 1558 switchgear manufacturing
-- UL 891 switchboard manufacturing
-- UL 67 panelboard manufacturing
-- Medium voltage switchgear manufacturing
-- Low voltage switchgear manufacturing
-- Protection and control systems manufacturing
-- Custom power distribution equipment manufacturing
 - Engineering and design services
-- Power coordination studies
+- Power system coordination studies
 - Arc flash studies
 - Short circuit studies
 - Reliability assessments
-- Power system design support
-- Value engineering
-- NETA-guided testing
+- Manufacturing of UL 1558 switchgear
+- Manufacturing of UL 891 switchboards
+- Manufacturing of UL 67 panelboards
+- Medium voltage switchgear manufacturing
+- Low voltage switchgear manufacturing
+- Protection and control systems manufacturing
+- NETA-guided testing and commissioning
 - Primary injection testing
 - Secondary injection testing
 - Protective relay testing
-- Medium voltage testing
-- Commissioning services
-- Startup support
 - Electrical preventive maintenance
 - Circuit breaker inspection, maintenance, and repair
 - Full circuit breaker restoration and reconditioning
 - Infrared thermography inspections
-- Electrical asset management and lifecycle planning
-- Protective relay and control system evaluation
 - Switchgear and switchboard maintenance
 - Motor control center maintenance, repair, and refurbishment
-- Circuit breaker retrofits
-- Circuit breaker retrofills
+- Circuit breaker retrofits and retrofills
 - Switchgear modernization
 - Arc flash mitigation
-- Reliability upgrades
 - Obsolete equipment programs
-- Asset life extension
-- 24/7 emergency support
+- 24/7 emergency response
 - Emergency equipment replacement
-- Outage response
-- Temporary power solutions
-- Emergency troubleshooting
-- Critical infrastructure recovery
-- Medium voltage pot testing
-- Vacuum bottle integrity testing
-- Electrical equipment repairs
-- Equipment refurbishment
-- Device and accessory installation
+- Field services for commissioning, testing, maintenance, repair, and refurbishment
+- Industrial circuit breaker sales, repairs, retrofits, and parts
 
 ## Industries
 - Utilities
@@ -181,14 +161,15 @@ The company emphasizes a single-source approach that combines engineering, manuf
 - Transportation infrastructure
 - Commercial facilities
 - Renewables
+- Mission-critical environments
+- EPC firms
+- Consulting engineers
 
-## Equipment
-- UL 1558 switchgear
-- UL 891 switchboards
-- UL 67 panelboards
-- Medium voltage switchgear
-- Low voltage switchgear
-- Protection and control systems
+## Certifications
+- UL 1558
+- UL 891
+- UL 67
+- NETA-guided testing procedures
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -198,14 +179,12 @@ The company emphasizes a single-source approach that combines engineering, manuf
 <details><summary>Sources</summary>
 
 - Founded 1995 -> /about
-- Headquarters Tomball, Texas (Houston metro) -> / and /about
-- Manufactures UL 1558 switchgear, UL 891 switchboards, UL 67 panelboards, medium/low voltage switchgear, protection and control systems -> /
-- Provides engineering/design, NETA-guided testing/commissioning, preventive maintenance, modernization, emergency response, field services -> /
-- Serves utilities, data centers, power generation, oil and gas, petrochemical, industrial, water/wastewater, transportation, commercial, renewables -> / and /about
-- Single-source integrated approach combining engineering, manufacturing, field services, testing, repair, modernization, technical support -> / and /about
+- Headquarters Tomball, Texas -> /
+- Manufactures UL 1558 switchgear, UL 891 switchboards, UL 67 panelboards -> /
+- NETA-guided testing -> /
+- Industries served: utilities, data centers, power generation, oil and gas, petrochemical, industrial, water/wastewater, transportation, commercial, renewables -> /
+- Integrated engineering, manufacturing, field services, testing, maintenance, modernization, emergency response -> /
 - 24/7 emergency support -> /
-- NETA-guided testing procedures -> /
-- OEM and obsolete equipment knowledge, breaker modernization and retrofit experience -> /
 - LinkedIn URL -> db
 </details>
 
@@ -216,28 +195,28 @@ The company emphasizes a single-source approach that combines engineering, manuf
 **Old description:** We provide design, manufacture, and delivery services of roof and floor truss components for contractors, developers, multi-family, commercial and residential builders. Our experienced designers use state of the art technology to design top of the line truss components. Our roof & floor systems are safe, easy to install and cost effective.
 
 ## About
-Cobra Components LLC is headquartered in West Fargo, North Dakota. The company was founded to serve the regional construction industry with roof and floor truss components, though its exact founding year and ownership structure are not publicly disclosed.
+Cobra Components LLC operates from West Fargo, North Dakota, where it designs, manufactures, and delivers roof and floor truss components for the building industry. The company serves a range of construction professionals across the region, providing a single source for truss design and fabrication.
 
-The company provides design, manufacturing, and delivery services for roof and floor truss systems. Its design team uses current engineering software to create truss components that meet structural requirements and project specifications. The manufacturing process covers fabrication and assembly of truss components, and the company arranges delivery to job sites. No details on facility size, headcount, or annual production volumes are available.
+The firm provides integrated design, manufacturing, and delivery services for roof and floor truss systems. Its design team uses advanced software to engineer truss layouts that meet structural requirements and building codes. Truss components are fabricated in the company's facility and then shipped to job sites for installation, covering the full production cycle from initial design through final delivery.
 
-Customers include general contractors, real estate developers, and builders specializing in multi-family, commercial, and residential construction. The truss components have been used in apartment complexes, retail centers, office buildings, and single-family homes across the market area.
+Cobra Components works with general contractors, framing contractors, real estate developers, and builders specializing in multi-family, commercial, and residential projects. Its truss systems have been used in apartment complexes, office buildings, and single-family subdivisions throughout the area, supporting both large-scale commercial work and smaller residential builds.
 
-Cobra Components emphasizes that its truss systems are engineered to be safe, easy to install, and cost-effective, aiming to provide builders with a reliable structural solution that helps control project timelines and budgets. The company also notes that its designers employ state-of-the-art technology to produce top-of-the-line truss components.
+The company states that its truss systems are engineered for safety, ease of installation, and cost effectiveness, with the goal of reducing on-site labor and material waste. This focus on efficient design and delivery is intended to help builders keep projects on schedule and within budget.
 
 ## Known for
-- Design using state-of-the-art technology
-- Truss systems that are safe, easy to install, and cost-effective
-- Full-service design, manufacture, and delivery
+- Integrated design, manufacturing, and delivery under one roof
+- State-of-the-art design technology for truss engineering
+- Truss systems engineered for safety and ease of installation
+- Cost-effective truss solutions aimed at reducing on-site labor
 
 ## Capabilities
-- Roof truss design
-- Floor truss design
+- Truss design
 - Roof truss manufacturing
 - Floor truss manufacturing
 - Delivery services
 
 ## Industries
-- General contractors
+- Construction contractors
 - Real estate developers
 - Multi-family construction
 - Commercial construction
@@ -249,12 +228,12 @@ Cobra Components emphasizes that its truss systems are engineered to be safe, ea
 
 <details><summary>Sources</summary>
 
-- Headquarters in West Fargo, ND -> db
+- Headquarters in West Fargo, North Dakota -> db
 - Manufactures roof and floor truss components -> /
 - Provides design, manufacturing, and delivery services -> /
 - Serves contractors, developers, multi-family, commercial, and residential builders -> /
-- Uses state-of-the-art technology for design -> /
-- Truss systems described as safe, easy to install, and cost-effective -> /
+- Uses state-of-the-art design technology -> /
+- Truss systems described as safe, easy to install, and cost effective -> /
 </details>
 
 ---
@@ -264,19 +243,20 @@ Cobra Components emphasizes that its truss systems are engineered to be safe, ea
 **Old description:** Since 1958, Cola Foods has been a cornerstone of premium meat products, known for quality, innovation, and customer satisfaction. Starting as a small facility, we’ve grown exponentially while remaining true to our core values of producing high-quality meats.
 
 ## About
-Founded in 1958 in Cranston, Rhode Island, Cola Foods began as a small facility and has remained family-owned. The company is led by President John Colagiovanni and Vice President Gio Colagiovanni, with Kevin Fellela as General Manager and Giana D'Ercole as Controller.
+Cola Foods has operated from Cranston, Rhode Island since 1958. The family-owned business began as a small facility and has grown over six decades while remaining under the stewardship of the Colagiovanni family, with John Colagiovanni serving as president and his son Gio as vice president, supported by general manager Kevin Fellela and controller Giana D'Ercole.
 
-The firm manufactures a range of specialty meat products, including sausages made from time-honored recipes, shaved steak and other shaved meats, specialty cuts, and ground beef, chicken, and pork. It also operates a private-label program that develops custom meat products for retail and foodservice brands.
+The company manufactures a range of specialty meat products under its own brands—Giovanni's, Lincoln Brand, and Marcello—including sausages made from time-honored recipes, shaved steak and other shaved meats, artisanal specialty cuts, and ground beef, chicken, and pork. It also provides private-label manufacturing for retail and foodservice customers, developing custom meat products from formulation through packaging.
 
-Cola Foods serves retail grocery chains and foodservice distributors, supplying its Giovanni's, Lincoln Brand, and Marcello lines through store shelves and restaurant suppliers. The company's store locator directs consumers to retail outlets, while its sales representatives work with foodservice operators.
+Cola Foods serves both retail and foodservice channels, supplying grocery stores and foodservice providers across the region. Its private-label program allows retailers and foodservice operators to bring their own branded meat products to market, while its branded lines are available through a store locator that points consumers to nearby retail locations.
 
-The company emphasizes a personal guarantee of superior quality and an unrivaled commitment to customer service. A 2020 feature in Meat + Poultry magazine highlighted how the team stayed nimble during the pandemic, reinforcing its focus on innovation and reliability.
+The company emphasizes its commitment to quality and innovation, offering a personal guarantee that its products will always be superior. It credits its ability to stay nimble during the pandemic, as highlighted in a 2020 Meat + Poultry magazine feature, to its family-led management and dedication to time-honored recipes and the finest ingredients.
 
 ## Known for
 - Family-owned and operated since 1958
-- Private-label manufacturing for retail and foodservice brands
-- Time-honored recipes and premium ingredients
-- Personal quality guarantee and dedicated customer service
+- Private-label manufacturing for retail and foodservice
+- Three proprietary brands: Giovanni's, Lincoln Brand, Marcello
+- Personal guarantee of product superiority
+- Recognized for pandemic resilience in Meat + Poultry magazine
 
 ## Capabilities
 - Sausage manufacturing
@@ -285,11 +265,12 @@ The company emphasizes a personal guarantee of superior quality and an unrivaled
 - Ground meat production
 - Private label manufacturing
 - Custom meat product development
+- Retail distribution
+- Foodservice distribution
 
 ## Industries
-- Retail grocery
-- Foodservice distribution
-- Private label food manufacturing
+- Retail
+- Foodservice
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -299,17 +280,16 @@ The company emphasizes a personal guarantee of superior quality and an unrivaled
 
 <details><summary>Sources</summary>
 
-- Founded 1958 -> /about-us
-- Family-owned -> /
-- Headquarters Cranston, RI -> db
-- Brands Giovanni's, Lincoln Brand, Marcello -> /
-- Private label capabilities -> /about-us
-- Leadership names John Colagiovanni, Gio Colagiovanni, Kevin Fellela, Giana D'Ercole -> /about-us
-- Product lines sausage, shaved meats, specialty meats, ground meats -> /about-us
-- Retail and foodservice customers -> /
+- Founded in 1958 -> /about-us
+- Family-owned and operated for over 60 years -> /
+- Headquarters in Cranston, Rhode Island -> db
+- Brands: Giovanni's, Lincoln Brand, Marcello -> /about-us
+- Products: sausage, shaved meats, specialty meats, ground meats -> /about-us
+- Private label capabilities for retail and foodservice -> /about-us
+- Leadership: John Colagiovanni (President), Gio Colagiovanni (Vice President), Kevin Fellela (General Manager), Giana D'Ercole (Controller) -> /about-us
+- Featured in Meat + Poultry magazine September 2020 -> /about-us
 - Personal guarantee of superior products -> /
-- Commitment to customer service unrivaled -> /
-- Pandemic resilience featured in Meat + Poultry September 2020 -> /about-us
+- Time-honored recipes and finest ingredients -> /about-us
 </details>
 
 ---
@@ -319,48 +299,36 @@ The company emphasizes a personal guarantee of superior quality and an unrivaled
 **Old description:** Founded in 2018, Colite Technologies is a trusted commercial solar company dedicated to helping commercial and industrial customers incorporate sustainable energy solutions into their operations. Our unique portfolio of commercial solar PV systems, off-grid renewable lighting systems, and EV charging equipment empowers businesses across the U.S. to improve energy efficiency and minimize carbon footprints.
 
 ## About
-Colite Technologies was founded in 2018 in Columbia, South Carolina. The company began as a commercial solar provider dedicated to helping commercial and industrial customers incorporate sustainable energy solutions into their operations.
+Colite Technologies is based in Columbia, South Carolina, and was founded in 2018. The company operates as a full-service distributed energy solutions provider, though the identities of its founders and its ownership structure have not been publicly disclosed.
 
-As a full-service distributed energy solutions provider, Colite designs and delivers customized solar, battery, and hybrid energy systems. Its services span commercial solar installation, energy storage, solar system design, energy resilience and microgrids, maintenance and monitoring, and project financing and ownership structures such as PPAs and leases. The company handles permitting, interconnection paperwork, non-penetrative roof installations, and ground-mounted arrays. Project sizes in its portfolio range from 121 kW to 661 kW, with systems carrying a 5-year workmanship warranty and 10- to 25-year component warranties.
+The firm designs and delivers customized solar, battery, and hybrid energy systems for commercial and industrial clients. Its service portfolio spans commercial solar installation, energy storage solutions, solar system design, energy resilience and microgrid integration, maintenance and monitoring, project financing and ownership structures, and off-grid renewable lighting. Colite manages the full project lifecycle from engineering and permitting through construction, commissioning, and ongoing operations.
 
-Colite serves manufacturing facilities, distribution centers, agricultural operations, and corporate campuses, along with educational, government, healthcare, and retail clients. Notable installations include a 121 kW system for Coca-Cola Bottling United, a 197 kW system for Extra Space Storage, a 203 kW system for CubeSmart Self Storage, a 287 kW system for Peach State Trucking, and a 661 kW rooftop solar plus 60 kWh battery project for Sportsman Boats in Summerville, SC. Other clients include Clemson University, SCRA, Nephron Pharmaceuticals, and Dominion Energy.
+Colite serves manufacturing facilities, distribution centers, agricultural operations, and corporate campuses across the United States. Representative projects include a 661-kW rooftop solar and 60-kWh battery system for Sportsman Boats in Summerville, SC; a 121-kW system for Coca-Cola Bottling United; a 197-kW installation for Extra Space Storage in Woodbridge; a 203-kW system for CubeSmart Self Storage; and a 287-kW array for Peach State Trucking. Additional clients include Clemson University, Sandia National Laboratories, Bon Secours St. Francis Health System, and the Pro Football Hall of Fame.
 
-The company states its mission is to deliver cutting-edge solar solutions that enhance performance, cut costs, and promote environmental responsibility, guided by principles of integrity, innovation, and customer success. It differentiates itself by managing the full project lifecycle — from incentive navigation and financing through engineering, construction, and ongoing monitoring — to help businesses achieve energy independence and resilience.
+The company states its mission is to deliver cutting-edge solar solutions that enhance performance, cut costs, and promote environmental responsibility. Its guiding principles emphasize integrity, innovation, and customer success. Colite differentiates itself by helping clients navigate federal and state incentives, optimize how power is used, stored, and sold back to the grid, and by offering non-penetrative roof installations, comprehensive roof inspections, and full permitting management.
 
 ## Known for
-- Full lifecycle management from incentive navigation to ongoing monitoring
-- Non-penetrative roof installations for flat and low-slope roofs
-- Comprehensive pre- and post-installation roof inspections
-- Real-time monitoring with proactive maintenance dispatch
-- Flexible financing options including direct ownership, PPAs, and leases
+- Full-service distributed energy solutions provider covering design, installation, financing, and operations
+- Expertise in navigating federal and state incentives to maximize project value
+- Non-penetrative solar installations for flat and low-slope roofs with pre- and post-installation roof inspections
+- Real-time monitoring and proactive maintenance, including repair of third-party systems
+- Flexible project financing options including direct ownership, PPAs, and leases
 
 ## Capabilities
 - Commercial solar installation
-- Energy storage system integration
-- Solar system design and engineering
-- Energy resilience and microgrid integration
-- Maintenance and real-time monitoring
-- Project financing and ownership structures (PPAs, leases, direct ownership)
-- Off-grid renewable lighting systems
+- Energy storage solutions
+- Solar system design
+- Energy resilience & microgrids
+- Maintenance & monitoring
+- Project financing & ownership
+- Off-grid renewable lighting
 - EV charging equipment installation
-- Permitting and interconnection management
-- Non-penetrative roof mounting
-- Ground-mounted solar array installation
-- Third-party system repair and recommissioning
 
 ## Industries
 - Manufacturing
-- Distribution & Logistics
+- Distribution/Logistics
 - Agriculture
-- Corporate Real Estate
-- Education
-- Government & Research
-- Healthcare
-- Retail
-- Hospitality
-- Food & Beverage
-- Pharmaceuticals
-- Utilities
+- Commercial Real Estate
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -370,22 +338,26 @@ The company states its mission is to deliver cutting-edge solar solutions that e
 <details><summary>Sources</summary>
 
 - Founded in 2018 -> db
-- Headquartered in Columbia, South Carolina -> db
-- Full-service distributed energy solutions provider -> /
-- Services: commercial solar installation, energy storage, solar system design, energy resilience & microgrids, maintenance & monitoring, project financing & ownership -> /
-- Non-penetrative installations for flat and low-slope roofs -> /
-- Comprehensive pre- and post-installation roof inspections -> /
-- Ground-mounted solar solutions -> /
-- Full management of permitting and interconnection paperwork -> /
-- 5-year workmanship warranty and 10-25 year component warranties -> /
-- Case study: 121 kW system for Coca-Cola Bottling United -> /
-- Case study: 197 kW system for Extra Space Storage -> /
-- Case study: 203 kW system for CubeSmart Self Storage -> /
-- Case study: 287.1 kW system for Peach State Trucking -> /
-- Case study: 661 kW rooftop solar + 60 kWh battery for Sportsman Boats -> /
-- Clients include Clemson University, SCRA, Nephron Pharmaceuticals, Dominion Energy -> /
-- Mission: deliver cutting-edge solar solutions that enhance performance, cut costs, promote environmental responsibility -> /
-- Principles: integrity, innovation, customer success -> /
+- Headquarters in Columbia, South Carolina -> db
+- Full-service Distributed Energy Solutions Provider -> page /
+- Services: Commercial Solar Installation, Energy Storage Solutions, Solar System Design, Energy Resilience & Microgrids, Maintenance & Monitoring, Project Financing & Ownership, Off-grid Renewable Lighting -> page /
+- Industries served: manufacturing facilities, distribution centers, agricultural operations, corporate campuses -> page /
+- Case study: Sportsman Boats 661-kW rooftop solar and 60-kWh battery system -> page /
+- Case study: Coca-Cola Bottling United 121-kW system -> page /
+- Case study: Extra Space Storage 197-kW system -> page /
+- Case study: CubeSmart Self Storage 203-kW system -> page /
+- Case study: Peach State Trucking 287-kW system -> page /
+- Additional clients: Clemson University, Sandia National Laboratories, Bon Secours St. Francis Health System, Pro Football Hall of Fame -> page /
+- Mission: deliver cutting-edge solar solutions that enhance performance, cut costs, promote environmental responsibility -> page /
+- Principles: integrity, innovation, customer success -> page /
+- Non-penetrative installations for flat and low-slope roofs -> page /
+- Comprehensive pre- and post-installation roof inspections -> page /
+- Ground-mounted solar solutions -> page /
+- Full management of permitting and interconnection paperwork -> page /
+- Real-time monitoring and proactive maintenance -> page /
+- Repair existing systems even if installed by third party -> page /
+- Project financing options: direct ownership, PPAs, leases -> page /
+- Materials: commercial solar PV systems, off-grid renewable lighting systems, EV charging equipment -> db
 </details>
 
 ---
@@ -395,54 +367,55 @@ The company states its mission is to deliver cutting-edge solar solutions that e
 **Old description:** Since 1944, Colonial Wire and Cable has served the electrical distribution market with quality products, superior customer service and, like the Minutemen, prompt response and short-lead times. And all our wire and cable products are proudly made in the USA.
 
 ## About
-Colonial Wire & Cable of NJ traces its roots to 1944 in Edison, New Jersey, where it began serving the electrical distribution market. Now a third-generation, family-owned and family-run business, the company operates from its headquarters in Edison and a second manufacturing facility in Hauppauge, New York.
+Colonial Wire & Cable of NJ traces its roots to 1944 in Edison, New Jersey, where it began as a family-owned enterprise. Now in its third generation, the company remains family-run, with ownership and daily operations kept within the founding family. The name and operating philosophy draw inspiration from the Colonial Minutemen, symbolizing rapid deployment and immediate response.
 
-The company manufactures copper electrical building wire for residential, commercial, and industrial applications. Its two state-of-the-art facilities produce residential cable and wiring on Long Island and commercial products in Edison, supplying electrical distributors and wholesalers across North America. All products are made in the United States and carry Underwriters Laboratory approval, with compliance to ASTM, ICEA, IEEE, NEMA, NFPA, and NEC standards.
+The company operates two manufacturing facilities: a residential cable and wiring plant in Hauppauge, New York, and a commercial wire and cable facility in Edison, New Jersey. Both produce copper electrical building wire for commercial, industrial, and residential applications. All products are made in the United States, and the company maintains an extensive inventory to support high fill rates and quick turnaround.
 
-Colonial Wire & Cable sells directly to electrical distributors and wholesalers, eliminating middlemen. Its customer base spans commercial construction, industrial projects, and residential wiring jobs throughout the U.S. and Canada. The company emphasizes an extensive inventory, high fill rates, and rapid order fulfillment.
+Colonial Wire & Cable sells exclusively through electrical distributors and wholesalers across North America. Its customer base includes contractors and specifiers serving commercial construction, industrial maintenance, and residential building projects. The company emphasizes direct manufacturer-to-distributor relationships, eliminating intermediate layers.
 
-Founded on the principle of the Colonial Minutemen—rapid deployment and immediate response—the business differentiates itself through short lead times, direct manufacturer access, and a commitment to personal service with a real person answering every call. Family ownership and UL-verified quality underscore its market position.
+The Minutemen-inspired ethos drives a focus on prompt response and short lead times. Quality assurance is anchored by Underwriters Laboratory (UL) approval across more than 30 safety standards, with UL verification programs that include unannounced factory inspections and follow-up testing. The company also aligns with industry standards from ASTM, ICEA, IEEE, NEMA, NFPA, and the National Electrical Code.
 
 ## Known for
-- Direct manufacturer with no middlemen
-- All products made in the USA
-- Short lead times and prompt response inspired by Minutemen philosophy
-- Family-owned, third-generation operation with live phone support
+- Prompt response and short lead times inspired by the Colonial Minutemen
+- All products manufactured in the USA
+- Direct manufacturer-to-distributor model with no middlemen
+- Third-generation family-owned and operated
 
 ## Capabilities
 - Copper electrical building wire manufacturing
-- Residential cable manufacturing
-- Commercial wire manufacturing
-- UL compliance testing
-- Direct distribution to wholesalers
+- Residential cable production
+- Commercial wire production
+- UL product verification and compliance testing
 
 ## Industries
 - Electrical distribution
+- Electrical wholesale
 - Commercial construction
-- Industrial construction
+- Industrial maintenance
 - Residential construction
-- Wholesale electrical supply
+
+## Certifications
+- UL Verification
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1944
-- **Ownership:** Family-owned
+- **Ownership:** Family-owned, family-run, third generation
 - **Headquarters:** Edison, New Jersey
 
 <details><summary>Sources</summary>
 
-- Founded 1944 -> db
-- Headquarters Edison, NJ -> db
-- Family-owned third generation -> /about-us
-- Two manufacturing facilities: Hauppauge NY and Edison NJ -> /about-us
-- Products made in USA -> / and /about-us
-- Serves electrical distributors and wholesalers nationwide -> / and /about-us
-- UL approved/verified -> /about-us
+- Founded in 1944 -> /
+- Headquartered in Edison, New Jersey -> db
+- Third-generation family-owned and family-run -> /about-us
+- Two manufacturing facilities: Hauppauge, NY (residential) and Edison, NJ (commercial) -> /about-us
+- Manufactures copper electrical building wire for commercial, industrial, and residential use -> /
+- Sells to electrical distributors and wholesalers throughout North America -> /
+- All products made in the USA -> /
+- Products approved by Underwriters Laboratory (UL) with UL Verification programs -> /about-us
+- Industry standards: ASTM, ICEA, IEEE, NEMA, NFPA, NEC -> /
 - Direct manufacturer, no middlemen -> /about-us
-- Prompt response, short lead times -> /
-- Industry associations: ASTM, ICEA, IEEE, NEMA, UL, NFPA, NEC -> /
-- Copper electrical building wire -> /
-- Residential and commercial products -> / and /about-us
+- Prompt response and short lead times -> /
 </details>
 
 ---
@@ -452,27 +425,30 @@ Founded on the principle of the Colonial Minutemen—rapid deployment and immedi
 **Old description:** Founded in 2011, Colorado Furniture currently resides in our 10,000sq/ft showroom filled with new furniture and home decor in Conifer, Colorado! With new deliveries arriving daily, and inventory turning very quickly, our wonderful showroom will offer you a different experience every time you visit!  Come see our selection of new and Unique Furniture, Custom Furniture, Home Decorations, Wall Art, Lamps, Lighting, Rugs, Mattresses, Pillows, Blankets, Candles, Jewelry, and more... We also offer Furniture Delivery Service!
 
 ## About
-Founded in 2011, Colorado Furniture operates a 10,000-square-foot showroom in Conifer, Colorado, along U.S. Highway 285. The business is owned and operated by master designer Peggie Nikander, whose design work has shaped prominent homes in the Evergreen and Conifer area and who served as the creative force behind the 2009 Colorado Parade of Homes Showcase Home.
+Colorado Furniture operates a 10,000-square-foot showroom in Conifer, Colorado, along U.S. Highway 285. The business was founded in 2011 and is owned and operated by master designer Peggie Nikander, whose work includes the 2009 Colorado Parade of Homes Showcase Home in the Evergreen/Conifer area.
 
-The showroom stocks a rotating inventory of new and unique furniture, custom furniture pieces, and a wide range of home decor including wall art, lamps, lighting, rugs, mattresses, pillows, blankets, candles, and jewelry. New deliveries arrive daily, and the company offers an in-house design center staffed by interior specialists who provide complementary design consultations. A furniture delivery service is also available for purchased items.
+The showroom stocks living-room, dining-room, and bedroom furniture alongside home decor such as rugs, lighting, wall art, candles, pillows, blankets, and jewelry. New deliveries arrive daily and inventory turns quickly, so the selection changes frequently. The company also offers custom furniture design through its in-house design center and provides a furniture delivery service for purchased items.
 
-The company serves residential customers throughout the Conifer and Evergreen region, catering to homeowners seeking complete room furnishings for living rooms, dining rooms, and bedrooms, as well as accessories to finish their spaces. Its design service targets clients looking for a custom look without engaging a separate design firm.
+Customers are primarily residential homeowners in the Conifer and Evergreen region seeking furnishings and design assistance. Nikander’s design portfolio includes prominent local homes, and the firm promotes complimentary design consultations for visitors.
 
-Nikander's design reputation and the showroom's constantly refreshing inventory are positioned as the primary reasons customers visit, offering a different experience with each trip.
+The business emphasizes a rotating showroom experience and personal design expertise as its distinguishing features, positioning itself as a destination for both ready-made and custom home furnishings.
 
 ## Known for
 - 10,000 sq ft showroom with daily new arrivals
-- In-house design center with interior specialists
+- Complimentary design consultations
 - Furniture delivery service
-- Complementary design consultation
-- Custom furniture options
+- Custom furniture design services
+- Fast inventory turnover for a constantly changing selection
 
 ## Capabilities
-- Retail furniture sales
-- Interior design services
 - Furniture delivery
-- Custom furniture sourcing
-- Home decor accessories
+- Interior design consulting
+- Custom furniture design
+- Home decor retail
+- Rug and lighting sales
+- Wall art and candle sales
+- Mattress and bedding sales
+- Jewelry and gift sales
 
 ## Industries
 - Residential furniture
@@ -482,20 +458,22 @@ Nikander's design reputation and the showroom's constantly refreshing inventory 
 ## Company details
 - **Company Type:** Retailer
 - **Founded:** 2011
-- **Ownership:** Privately owned by Peggie Nikander
+- **Ownership:** Owned and operated by Peggie Nikander
 - **Headquarters:** Conifer, Colorado
 
 <details><summary>Sources</summary>
 
 - Founded in 2011 -> db
-- 10,000 sq ft showroom in Conifer, Colorado -> /
-- Owned and operated by Peggie Nikander -> /
-- Peggie Nikander designed 2009 Colorado Parade of Homes Showcase Home -> /
-- Offers furniture, custom furniture, home decor, wall art, lighting, rugs, mattresses, pillows, blankets, candles, jewelry -> /
-- In-house design center and interior specialists -> /
-- Furniture delivery service -> /
-- Complementary design consultation -> /
-- Serves Evergreen/Conifer area -> /
+- Headquarters: Conifer, Colorado -> db
+- 10,000 sq ft showroom -> page /
+- Owned and operated by Peggie Nikander -> page /
+- Services: Design, Delivery, Accessories, Furniture -> page /
+- Product categories: Living Room, Dining Room, Bed Room furniture, rugs, lighting, art, candles, jewelry -> page /
+- Custom furniture offered -> page /
+- Complementary design consultation -> page /
+- Daily new deliveries, fast inventory turnover -> page /
+- Peggie Nikander designed 2009 Colorado Parade of Homes Showcase Home -> page /
+- Address: 10853 US Hwy 285, Suite D, Conifer, CO 80433 -> page /
 </details>
 
 ---
@@ -505,53 +483,43 @@ Nikander's design reputation and the showroom's constantly refreshing inventory 
 **Old description:** Our high quality stretched canvas wraps are digitally printed at high resolution on semi­gloss canvas material. To ensure the highest quality and precision each canvas is carefully hand wrapped onto MDF  stretcher frames. Quickly transform your favorite picture into a piece of artwork.
 
 ## About
-Colorado Textile, a division of Sportex, operates from Denver, Colorado. The company produces custom printed fabric and canvas products for a range of display and décor applications.
+Colorado Textile operates as a division of Sportex from Denver, Colorado. The company produces digitally printed textile goods but does not disclose its founding year or original founders in the provided materials; ownership is noted only as a division of the parent firm Sportex.
 
-The company digitally prints high-resolution images on semi-gloss canvas and hand-wraps each piece onto MDF stretcher frames. It also offers fully sublimated tablecloths in three- and four-sided styles, as well as stretch tablecloths. For signage, it prints on 13-ounce vinyl, mesh, and 18-ounce blockout vinyl, and assembles retractable roll-up banner stands.
+The shop focuses on wide-format digital printing and dye sublimation for stretched canvas wraps, fully sublimated table throws (offered in three-sided, four-sided, and stretch versions), vinyl and mesh banners in 13- and 18-ounce weights, and retractable roll-up banners. Canvas wraps are printed on semi-gloss material at high resolution and hand-wrapped onto MDF stretcher frames. The product catalog also includes 18-ounce blockout vinyl banners printed one side. No facility size, headcount, or annual volume figures are published.
 
-The product line serves customers needing custom artwork reproductions, trade-show table throws, and indoor/outdoor banners. Examples from the catalog include canvas wraps for photographs, sublimated table covers for events, and vinyl or mesh banners for promotional displays.
+The input does not specify target industries or named customers; the product line suggests use in events, trade shows, retail display, and photo-art markets, but no verticals are explicitly called out.
 
-Colorado Textile emphasizes precision in its canvas wrapping process and offers a range of substrate options for banners and tablecloths to meet different display requirements.
+The company emphasizes high-resolution digital output and careful hand-wrapping as quality markers, positioning the canvas wraps as a way to turn personal photographs into finished artwork.
 
 ## Known for
 - High-resolution digital printing on semi-gloss canvas
-- Hand-wrapped canvas on MDF stretcher frames
-- Fully sublimated tablecloths (3-sided, 4-sided, stretch)
-- Vinyl, mesh, and blockout banner printing in multiple weights
-- Retractable roll-up banner stand assembly
+- Hand-wrapped on MDF stretcher frames
+- Dye-sublimated tablecloths (3-sided, 4-sided, stretch)
+- Vinyl and mesh banners in 13 oz and 18 oz weights
+- Retractable roll-up banner systems
 
 ## Capabilities
-- Digital printing on canvas
-- Hand wrapping canvas on MDF stretcher frames
-- Dye-sublimation printing on fabric
-- Vinyl banner printing
-- Mesh banner printing
-- Blockout banner printing
-- Retractable banner stand assembly
+- Digital printing
+- Dye sublimation
+- Hand wrapping
+- Canvas stretching
+- Banner printing
+- Roll-up banner assembly
 
 ## Company details
 - **Company Type:** Manufacturer
+- **Ownership:** Division of Sportex
 - **Headquarters:** Denver, Colorado
 
 <details><summary>Sources</summary>
 
-- Company name and division: Colorado Textile – A Division of Sportex -> db
-- Headquarters: Denver, Colorado -> db
-- Product: stretched canvas wraps digitally printed on semi-gloss canvas, hand wrapped on MDF stretcher frames -> /
-- Product: fully sublimated tablecloths (4-sided close back, 3-sided open back, stretch) -> /
-- Product: banners on 13oz vinyl, mesh, 18oz blockout vinyl, retractable roll-up banner stands -> /
-- Process: digital printing on canvas -> /
-- Process: hand wrapping canvas on MDF frames -> /
-- Process: dye-sublimation printing on fabric -> /
-- Process: vinyl banner printing -> /
-- Process: mesh banner printing -> /
-- Process: blockout banner printing -> /
-- Process: retractable banner stand assembly -> /
-- Material: semi-gloss canvas -> /
-- Material: MDF -> /
-- Material: 13oz Vinyl -> /
-- Material: Mesh -> /
-- Material: 18oz Blockout Vinyl -> /
+- Located in Denver, Colorado -> db
+- Division of Sportex -> db
+- Produces digitally printed stretched canvas wraps hand-wrapped on MDF frames -> page /
+- Offers fully sublimated tablecloths in 3-sided, 4-sided, and stretch versions -> page /
+- Sells vinyl banners (13 oz, 18 oz blockout), mesh banners, retractable roll-up banners -> page /
+- Uses high-resolution digital printing and dye sublimation processes -> page /
+- No founding year, employee count, certifications, or industries explicitly stated -> db and page /
 </details>
 
 ---
@@ -561,29 +529,28 @@ Colorado Textile emphasizes precision in its canvas wrapping process and offers 
 **Old description:** Since 1983, Colt Tech in Olathe, KS, has provided solutions in custom electronic design and manufacturing for our customers around the world. Our company is committed to being a key partner in the success of our customers while pursuing excellence in custom electronic design and manufacturing solutions, including Surface Mount Assembly, Design-Build Engineering, and Printed Circuit Boards.
 
 ## About
-Colt Tech LLC has operated from Olathe, Kansas, in the Kansas City metropolitan area since its founding in 1983. The company was established to provide high‑quality electronic design and manufacturing services with an emphasis on detail and customer service, and it has since built over three decades of board‑level design and production experience.
+Colt Tech LLC was founded in 1983 in Olathe, Kansas, a suburb of Kansas City, to provide custom electronic design and manufacturing services. The company remains privately held, though its ownership structure is not publicly disclosed.
 
-The firm delivers custom electronic design and manufacturing through three core capabilities: surface‑mount assembly, design‑build engineering, and printed‑circuit‑board fabrication. Its team handles projects from consulting and prototyping through full‑scale production, using current software, equipment, and test methods to design, build, test, and deliver finished assemblies.
+The firm specializes in surface mount assembly, design-build engineering, and printed circuit board fabrication, offering a full cycle from consulting and prototyping to production and testing. While facility size and headcount are not disclosed, the company emphasizes that no project is too large or complex, leveraging current software and equipment to deliver defect-free, on-time results.
 
-Colt Tech serves clients worldwide across industries that include aerospace, medical, automotive, public safety, and telecommunications. The company’s adaptable approach allows it to support both updates to in‑house systems and new product launches for market‑ready devices.
+Colt Tech serves clients worldwide across aerospace, medical, automotive, public safety, and telecommunications sectors. Its customer base includes original equipment manufacturers and other businesses requiring high-reliability electronic assemblies.
 
-The business centers on a threefold promise — defect‑free quality, competitive pricing, and on‑time delivery — backed by ISO 9001:2015, AS9100D, and ISO 13485:2016 certifications. Its stated motto, “Excellence in Custom Electronic Design and Manufacturing Solutions,” reflects a focus on customizable, end‑to‑end service that aims to simplify customers’ development cycles.
+The company differentiates itself through a threefold promise: defect-free products, competitive pricing, and on-time delivery. This commitment, combined with ISO 9001:2015, AS9100D, and ISO 13485:2016 certifications, reflects a focus on quality management and regulatory compliance that has sustained the business for over three decades.
 
 ## Known for
-- Defect‑free quality guarantee
-- Competitive pricing commitment
-- On‑time delivery promise
-- ISO 9001:2015, AS9100D, ISO 13485:2016 certified
+- Defect-free delivery promise
+- Competitive pricing promise
+- On-time delivery promise
+- ISO 9001:2015, AS9100D, and ISO 13485:2016 certified
+- Customizable design and manufacturing services
 
 ## Capabilities
 - Surface Mount Assembly
 - Design-Build Engineering
 - Printed Circuit Board Fabrication
-- Electronic Design
+- Custom Electronic Design
 - Prototyping
 - Testing and Inspection
-- Consulting
-- Full‑Scale Production
 
 ## Industries
 - Aerospace
@@ -598,20 +565,20 @@ The business centers on a threefold promise — defect‑free quality, competiti
 - ISO 13485:2016
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Founded:** 1983
 - **Headquarters:** Olathe, Kansas
 
 <details><summary>Sources</summary>
 
-- Founded in 1983 -> /about-us
-- Headquartered in Olathe, KS -> /
-- ISO 9001:2015, AS9100D, ISO 13485:2016 certified -> /
-- Services: Surface Mount Assembly, Design Build Engineering, Printed Circuits -> /
-- Industries served: aerospace, medical, automotive, public safety, telecommunication -> /
+- Founded 1983 in Olathe, KS -> /about-us
+- Provides custom electronic design and manufacturing -> /
+- Services: Surface Mount Assembly, Design-Build Engineering, Printed Circuit Boards -> /
+- Certifications: ISO 9001:2015, AS9100D, ISO 13485:2016 -> /
+- Industries served: aerospace, medical, automotive, public safety, telecommunications -> /
 - Threefold promise: defect-free, competitive pricing, on-time delivery -> /
-- Over three decades of board design and manufacturing experience -> /about-us
-- Motto: Excellence in Custom Electronic Design and Manufacturing Solutions -> /about-us
+- Privately held, ownership not disclosed -> db
+- Headquarters: Olathe, Kansas -> db
 </details>
 
 ---

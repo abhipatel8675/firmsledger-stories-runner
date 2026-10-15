@@ -3,56 +3,56 @@
 **Old description:** Our company was founded in 1995. We offer custom cabinetry for various rooms in the home. From Kitchen Cabinets, to Bath Vanities to Custom Furniture we are dedicated to providing quality service, quality products and competitive prices.
 
 ## About
-Bauman Custom Woodworking was founded in 1995 in Salem, Ohio, by Stuart Bauman. What began as a woodworking hobby for friends and neighbors grew into a full-time operation by 1994, and the company formally launched the following year. Bauman remains the owner and leads a shop that serves homeowners throughout Northeast Ohio.
+Bauman Custom Woodworking is based in Salem, Ohio, and was founded in 1995 by Stuart Bauman. Bauman began woodworking as a hobby, building pieces for friends and neighbors before transitioning to full-time work in 1994 and establishing the company a year later. The shop has served residential clients across Northeast Ohio for nearly three decades.
 
-The shop produces custom cabinetry for kitchens, bathrooms, and standalone furniture pieces. Cabinets are built with solid‑wood face frames and veneer‑core plywood, while doors and drawers use solid‑wood components. The team handles design using 3D visualization, fabrication, finishing, and on‑site installation, delivering completed projects rather than factory‑standard boxes.
+The company produces custom cabinetry for kitchens, bathrooms, and bespoke furniture. Cabinets are built with solid-wood face frames and veneer-core plywood, while doors and drawers use solid lumber. The workflow covers design—using computer-generated 3D renderings—fabrication, finishing, and on-site installation. All work is performed in-house by a team of craftsmen, though the facility size and headcount are not disclosed.
 
-Customers are primarily residential clients in the Northeast Ohio region, including homeowners undertaking kitchen remodels, bathroom upgrades, or custom furniture commissions. Testimonials reference coordination with general contractors and stone fabricators such as Creative Construction & Design and Youngstown Granite & Quartz, indicating the shop works alongside other trades on larger renovations.
+Bauman’s primary customers are homeowners undertaking remodels or new construction, along with general contractors and subcontractors who coordinate kitchen and bath projects. Testimonials reference collaboration with firms such as Creative Construction & Design for demolition and installation and Youngstown Granite & Quartz for countertop fabrication. The business focuses on the residential construction and interior-design sectors in the Northeast Ohio region.
 
-Bauman emphasizes that every project is handcrafted in‑house, avoiding factory constraints by tailoring each piece to the client’s exact specifications. The company’s stated goal is to use its craftsmanship to glorify God and benefit clients, a philosophy that drives its focus on personalized design and direct communication throughout the process.
+Bauman emphasizes a handcrafted approach, meaning every project is built by its own crew rather than outsourced. The company positions itself as an alternative to factory-standard cabinetry, offering unlimited customization and guiding clients through the design process with 3D visual aids. The founder cites a desire to use his talents to benefit clients and glorify God as the motivating purpose behind the business.
 
 ## Known for
-- Handcrafted in‑house construction, not outsourced
-- Custom design tailored to each client, no factory standards
-- 3D design visualization for project planning
-- Full‑service installation by the company’s own team
-- Solid‑wood face frames and veneer‑core plywood construction
+- Handcrafted construction: every project is built in-house by the company’s own crew
+- Fully custom cabinetry without factory-standard limitations
+- Computer-generated 3D design for client visualization
+- Guidance through the entire design process
+- Award-winning design and service (self-reported)
 
 ## Capabilities
-- Custom cabinetry design
-- Cabinet building
+- Custom cabinetry
+- Kitchen cabinet manufacturing
+- Bath vanity manufacturing
+- Custom furniture manufacturing
+- 3D design
 - Finishing
 - Installation
-- 3D design visualization
-- Custom furniture building
-- Kitchen cabinet fabrication
-- Bath vanity fabrication
 
 ## Industries
-- Residential cabinetry
-- Kitchen and bath remodeling
-- Custom furniture
+- Residential construction
+- Home remodeling
+- Kitchen and bath
+- Interior design
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1995
-- **Ownership:** Owner-operated (Stuart Bauman)
 - **Headquarters:** Salem, Ohio
 
 <details><summary>Sources</summary>
 
 - Founded in 1995 -> db
-- Headquarters Salem, Ohio -> db
+- Headquarters in Salem, Ohio -> db
 - Founder Stuart Bauman -> /about
-- Custom cabinetry for kitchen, bath, furniture -> /
-- Solid wood face frames and veneer-core plywood -> /
-- 3D design visualization -> /about
-- Installation services -> /services
-- Serves Northeast Ohio -> /about
-- Handcrafted construction -> /about
-- Custom design without factory standards -> /about
-- Cherry wood used in project -> /about
-- Coordination with general contractors and stone fabricators -> /about
+- Started as hobby, full-time 1994, company founded 1995 -> /about
+- Custom cabinetry for kitchens, baths, custom furniture -> /, /about
+- Cabinet construction: solid wood face frames, veneer-core plywood, solid lumber doors/drawers -> /
+- Processes: design (3D), build, finishing, installation -> /services, /about
+- Serves Northeast Ohio homeowners and contractors -> /about
+- Collaboration with Creative Construction & Design and Youngstown Granite & Quartz -> /about
+- Handcrafted, custom, not locked into factory standards -> /about
+- 3D design for visual aid -> /about
+- Award-winning Design & Service claim -> /about
+- Materials: solid wood, veneer-core plywood, cherry wood -> /, /about
 </details>
 
 ---
@@ -62,35 +62,33 @@ Bauman emphasizes that every project is handcrafted in‑house, avoiding factory
 **Old description:** Founded in 1988, Bay View Homecare, Inc. has grown from a small medical equipment company specializing in respiratory care, to a full service home medical equipment company. We are accredited by The Joint Commission in both Home Medical Equipment and Respiratory Clinical Services. With our office in Seaford, Delaware we are now able to meet the needs of our patients on the Delaware and Maryland shore, as well as those traveling to the area.
 
 ## About
-Bay View Homecare, Inc. was founded in 1988 in Seaford, Delaware. The company began as a small medical equipment operation focused on respiratory care before expanding into a full-service home medical equipment provider serving the Delmarva Peninsula. Ownership details and founder names are not publicly disclosed.
+Bay View Homecare, Inc. was founded in 1988 in Seaford, Delaware. The company began as a small medical equipment firm specializing in respiratory care and has since expanded into a full-service home medical equipment provider. No ownership details or founder names are disclosed in the available information.
 
-The company supplies respiratory equipment and related clinical services, along with a range of home medical equipment and bath safety products. It operates from a single office in Seaford, serving patients across the Delaware and Maryland shore regions as well as visitors to the area. Specific facility size, headcount, and volume metrics are not published.
+The company supplies respiratory equipment and related services, equipment services, and bath safety products. It operates from its Seaford office, serving patients across the Delaware and Maryland shore regions as well as visitors to the area. Specific facility size, headcount, or volume metrics are not provided.
 
-Bay View Homecare serves patients requiring durable medical equipment, ancillary medical supplies, and certified medical equipment technician support. Its customer base includes local residents and travelers needing respiratory and mobility assistance on the Delmarva Peninsula.
+Bay View Homecare serves the durable medical equipment and ancillary medical supply sectors, working directly with patients and healthcare providers. Its customer base includes residents and travelers in the coastal Delaware and Maryland communities.
 
-The company holds dual accreditation from The Joint Commission for both Home Medical Equipment and Respiratory Clinical Services, a distinction it cites as a core differentiator in the region.
+The company holds accreditation from The Joint Commission for both Home Medical Equipment and Respiratory Clinical Services, a distinction it cites as a mark of quality and compliance.
 
 ## Known for
-- Joint Commission accredited in Home Medical Equipment and Respiratory Clinical Services
-- Serves Delaware and Maryland shore communities
-- Full-service home medical equipment provider
-- Respiratory care specialization since 1988
+- Joint Commission accreditation in Home Medical Equipment and Respiratory Clinical Services
+- Full-service home medical equipment provider covering respiratory equipment, equipment services, and bath safety products
+- Service area spanning the Delaware and Maryland shore regions
 
 ## Capabilities
-- Respiratory equipment provision
-- Respiratory clinical services
-- Home medical equipment supply
-- Equipment maintenance and service
-- Bath safety product supply
+- Respiratory Equipment and Services
+- Equipment Services
+- Bath Safety Products
 
 ## Industries
 - Durable Medical Equipment
 - Ancillary Medical Supplies
-- Certified Medical Equipment Technicians
+- Home Medical Equipment
+- Respiratory Clinical Services
 
 ## Certifications
-- The Joint Commission - Home Medical Equipment
-- The Joint Commission - Respiratory Clinical Services
+- The Joint Commission: Home Medical Equipment
+- The Joint Commission: Respiratory Clinical Services
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -101,13 +99,13 @@ The company holds dual accreditation from The Joint Commission for both Home Med
 
 - Founded in 1988 -> db
 - Headquartered in Seaford, Delaware -> db
-- Started as small medical equipment company specializing in respiratory care -> db
-- Grew to full service home medical equipment company -> db
 - Accredited by The Joint Commission in Home Medical Equipment and Respiratory Clinical Services -> db
-- Office in Seaford, Delaware serves Delaware and Maryland shore -> db
+- Specializes in respiratory care -> db
+- Offers bath safety products -> db
+- Serves Delaware and Maryland shore areas -> db
 - Capabilities: Respiratory Equipment and Services, Equipment Services -> db
 - Products: Bath Safety Products -> db
-- Industries served: Certified Medical Equipment Technicians, Ancillary Medical Supplies, Durable Medical Equipment -> db
+- Industries served: Durable Medical Equipment, Ancillary Medical Supplies -> db
 </details>
 
 ---
@@ -117,35 +115,36 @@ The company holds dual accreditation from The Joint Commission for both Home Med
 **Old description:** Drawing on more than 35 years of experience in the photovoltaic market, and working with installers around the world, we know that going the extra mile for you helps turn a good project into a great one. As your business partner, we provide you with our expertise, support and advice whenever it is needed – working together to make every project a success.
 
 ## About
-BayWa r.e. Solar Systems operates from Santa Fe, New Mexico, as part of the global BayWa r.e. Solar Trade network. The business draws on more than 35 years of experience in the photovoltaic market, serving installers worldwide.
+BayWa r.e. Solar Systems operates from Santa Fe, New Mexico, as part of a global photovoltaic distribution network that traces its roots back more than 35 years in the solar market. The business functions as the North American arm of BayWa r.e. Solar Trade, a B2B wholesaler that sources modules, inverters, racking, and storage from manufacturers worldwide.
 
-The company functions as a B2B distributor of solar components, offering panels, inverters, racking, and energy storage systems. Its demand-driven inventory management and global warehouse network support timely delivery, while logistics services provide flexible shipping directly to job sites. The distributor also runs technical seminars, workshops, and training days, and provides online planning tools and web shops for streamlined ordering. Globally, the network has distributed approximately 21,380 MWp of solar modules and 34,390 MW of inverters.
+The company maintains a global warehouse network and demand-driven inventory management to supply solar installers with components for residential, commercial, and industrial projects. Its logistics services include streamlined ordering, freight forwarding, and direct-to-site delivery. Online tools such as web shops and planning software support project specification and budgeting, while dedicated seminars and workshops provide technical training for installer partners. Annual distribution volumes reach approximately 21,380 MWp of solar modules and 34,390 MW of inverters globally.
 
-Customers include residential, commercial, and industrial solar installers and EPCs across the United States and internationally. The company tailors its services to each market, supporting projects ranging from rooftop arrays to large-scale regional installations.
+Customers are primarily photovoltaic installers and EPC contractors serving the residential rooftop, commercial rooftop, and utility-scale segments. The distributor tailors country-specific services for markets across North America, Europe, and Asia-Pacific, supporting projects ranging from single-home systems to large regional installations.
 
-BayWa r.e. emphasizes its commitment to service as a defining differentiator, positioning itself as a business partner that offers product expertise, sales engineering support, and dedicated customer service throughout the project lifecycle.
+BayWa r.e. positions its differentiation on service depth rather than product breadth alone, emphasizing expertise from product managers and sales engineers, reliable product availability through demand-driven stocking, and a partnership model that extends from planning through delivery.
 
 ## Known for
 - Demand-driven inventory management for high product availability
-- Global warehouse network enabling timely delivery
-- Technical training programs including seminars and workshops
-- Online planning tools and web shops for efficient ordering
-- Logistics services with direct-to-site delivery flexibility
+- Global warehouse network with direct-to-site delivery capability
+- Integrated online ordering, planning tools, and project budgeting
+- Technical training programs including seminars and workshops for installers
+- Dedicated product management and sales engineering support
 
 ## Capabilities
-- Solar component distribution
-- Inventory management
-- Logistics and freight forwarding
-- Technical training and workshops
-- Online ordering and planning tools
-- Project consulting and support
+- Solar component distribution (modules, inverters, racking, storage)
+- Inventory management and demand forecasting
+- Freight forwarding and logistics coordination
+- Direct-to-site delivery
+- Online ordering and project planning tools
+- Technical training and workshops for installers
+- Product specification and system design support
 
 ## Industries
-- Solar photovoltaic
-- Renewable energy
 - Residential solar installation
 - Commercial solar installation
 - Industrial solar installation
+- Photovoltaic distribution
+- Renewable energy wholesale
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -153,18 +152,15 @@ BayWa r.e. emphasizes its commitment to service as a defining differentiator, po
 
 <details><summary>Sources</summary>
 
-- Headquarters in Santa Fe, New Mexico -> db
-- Over 35 years of experience in photovoltaic market -> /
-- B2B distributor of solar components and solutions -> /
-- Product range: panels, inverters, racking, storage -> /
-- Demand-driven inventory management ensures exceptional product availability -> /
-- Global warehouse network for timely delivery -> /
-- Logistics services with delivery flexibility, direct-to-site -> /
-- Technical seminars, workshops, training days -> /
-- Online planning tools and web shops -> /
-- Globally distributed approx. 21,380 MWp solar modules and 34,390 MW inverters -> /
-- Serves residential, commercial, industrial solar installers -> /
-- Commitment to service as business partner -> /
+- B2B distributor of solar components globally -> homepage
+- More than 35 years experience in photovoltaic market -> homepage
+- Global warehouse network, logistics, direct-to-site delivery -> homepage
+- Distributes panels, inverters, racking, storage -> homepage
+- Online services: web shops, planning tools -> homepage
+- Training: seminars, workshops, training days -> homepage
+- Distribution volumes: 21380 MWp modules, 34390 MW inverters globally -> homepage
+- Serves residential, commercial, industrial solutions -> homepage
+- Headquarters Santa Fe, New Mexico -> db
 </details>
 
 ---
@@ -174,104 +170,87 @@ BayWa r.e. emphasizes its commitment to service as a defining differentiator, po
 **Old description:** BayaTronics was founded to help companies create affordable, quality products here
 
 ## About
-Bayatronics was founded in 2021 in Concord, North Carolina, with a second location in Richardson, Texas. The company was established by Dirk Warriner, who serves as CEO and brings 41 years of experience in electronic manufacturing. The management team collectively holds over 40 years of experience in PCBA and electro‑mechanical sub‑assemblies at Tier 1 contract manufacturers and OEMs in industrial and medical fields. The founders were motivated by lessons learned from participating in the Malcolm Baldrige National Quality Award competition, which they won twice, and aimed to provide domestic customers with high‑volume, cost‑competitive solutions with superior quality.
+BayaTronics was founded in 2021 by Dirk Warriner to help companies create affordable, quality electronic products in the United States. The electronic manufacturing service provider operates facilities in Concord, North Carolina, and Richardson, Texas.
 
-Bayatronics operates as an electronic manufacturing services (EMS) provider specializing in printed circuit board assembly (PCBA), design for manufacturability (DFM), final assembly, and logistics. The company runs surface‑mount technology (SMT) lines equipped with Juki RS‑1R pick‑and‑place machines, Juki G‑Titan solder paste printers, CyberOptics SPI and AOI systems, Juki iCUBE selective soldering, and Seica Pilot V8 flying probe and in‑circuit testers. The team reports 208 years of combined experience.
+The company specializes in printed circuit board assembly (PCBA), design for manufacturability (DFM), new product introduction, final mechanical assembly, functional testing, conformal coating, and logistics management. Its production lines feature Juki RS-1R pick-and-place machines, Juki G-Titan solder paste printers, CyberOptics SPI and AOI systems, Juki iCUBE selective soldering, Seica Pilot V8 flying-probe and in-circuit testers, and humidity-controlled intelligent storage for components. BayaTronics handles prototype through medium-volume runs and draws on a team with 208 years of combined industry experience.
 
-The company serves industrial, instrumentation, transportation, medical device, cable manufacturing, and consumer electronics sectors. Customers include OEMs and innovators in advanced fields such as cell therapy, gene therapy, and antibody development, as well as companies like Smart Level (referenced in a testimonial). Bayatronics emphasizes 100% U.S.‑based operations and full transparency in cost and quality.
+Customers span industrial, instrumentation, transportation, medical device, cable manufacturing, and consumer electronics sectors. The firm serves OEMs and tier‑one contract manufacturers that require domestic, cost‑competitive assembly with full traceability.
 
-Bayatronics differentiates itself through day‑of response to customer inquiries, quotes within five working days, and a commitment to integrity standards with open‑book pricing. The company pursues continuous improvement, cutting‑edge technology, and a dedicated team to support customers in creating reliable, efficient electronic products. Its quality system adheres to IPC 610, ISO 9001:2015, ISO 13485:2016, and RoHS compliance, with AS9100 certification in progress.
+BayaTronics emphasizes full transparency in cost and quality, day‑of response to inquiries, quotes within five working days, and a manufacturing cycle tailored to each customer’s schedule. The leadership team’s background includes two Malcolm Baldrige National Quality Award wins, which shaped a culture of continuous improvement and open partnership.
 
 ## Known for
-- Same‑day customer response via email, text, or phone
-- Quotes delivered within five business days
-- Open‑book pricing with full cost transparency
-- 100% U.S.‑based manufacturing
-- Humidity‑controlled, ESD‑compliant material storage with component traceability
+- 100% US-based manufacturing
+- Day-of response to customer emails, texts, and calls
+- Quotes provided within five working days
+- Humidity-controlled, ESD-compliant component storage
+- Full transparency in cost and quality with open-book pricing
 
 ## Capabilities
 - Printed Circuit Board Assembly (PCBA)
-- Design for Manufacturability (DFM)
+- Design for Manufacturability (DFM) optimization
 - New Product Introduction (NPI) support
-- Final Assembly (mechanical assembly, functional testing)
-- Conformal Coating
-- Electromechanical Assembly
+- Final mechanical assembly
+- Functional testing (customer-supplied or custom fixturing)
+- Conformal coating
+- Supply chain logistics and global procurement
+- Inventory management and material control
 - Solder Paste Inspection (SPI)
 - Automated Optical Inspection (AOI)
-- X‑Ray Inspection
-- Flying Probe Testing
-- In‑Circuit Testing
-- Selective Soldering
-- Reflow Soldering
-- Material Management / Logistics
-- Inventory Control (MRP)
-- Global Procurement
-- Failure Analysis
-- Repair / ECO
-- Pre‑Assembly Assessments
-- Turn‑Key Open Book Pricing
+- X-Ray inspection
+- Flying probe testing
+- In-circuit testing
+- Selective soldering
+- SMT and through-hole assembly
+- Failure analysis and repair/ECO
+- Order fulfillment
 
 ## Industries
 - Industrial
 - Instrumentation
 - Transportation
-- Medical Device
-- Cable Manufacturing
-- Consumer Electronics
+- Medical device
+- Cable manufacturing
+- Consumer electronics
 
 ## Equipment
-- Juki ISM3600
-- Juki ISM500
-- Juki G‑Titan
-- Cyber Optics SE500 Ultra
-- Juki RS‑1R
-- Juki Reflow Oven (8 zones + 2 zones)
-- Cyber Optics SQ3000
-- Juki iCUBE
-- Seica Pilot V8 Next Series
+- Juki RS-1R (two in-line pick-and-place mounters)
+- Juki G-Titan solder paste printer
+- CyberOptics SE500 Ultra solder paste inspection
+- CyberOptics SQ3000 automated optical inspection
+- Juki iCUBE selective soldering system
+- Seica Pilot V8 Next Series flying probe / in-circuit tester
+- Juki ISM3600 intelligent storage system
+- Juki ISM500 intelligent storage system
+- Juki reflow ovens (8+2 zones)
 
 ## Certifications
 - ISO 9001:2015
 - ISO 13485:2016
-- AS9100 (in progress)
-- RoHS
-- IPC 610
+- AS9100 (pursuing)
+- RoHS compliant
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
 - **Founded:** 2021
-- **Headquarters:** Concord, North Carolina
+- **Headquarters:** Concord, NC
 
 <details><summary>Sources</summary>
 
 - Founded in 2021 -> /about
-- CEO Dirk Warriner (41 years experience) -> /about
-- Locations: Concord, NC and Richardson, TX -> /about
-- Management team 40+ years experience in PCBA/electro‑mechanical at Tier 1 -> /about
-- Malcolm Baldrige National Quality Award participation (won twice) -> /about
-- ISO 9001:2015 certified -> /about
-- ISO 13485:2016 certified -> /about
-- Actively pursuing AS9100 -> /about
-- RoHS compliant -> /about
-- IPC 610 standards upheld -> /about
+- CEO Dirk Warriner with 41 years experience -> /about
+- Facilities in Concord, NC and Richardson, TX -> /about
+- ISO 9001:2015 and ISO 13485:2016 certified, pursuing AS9100 -> /about
 - 208 years combined team experience -> /about
-- 200% revenue growth 2022‑2023 -> /about
-- Day‑of customer response -> /about
-- Quotes within 5 business days -> /about
-- Open‑book pricing / full transparency -> /about
-- 100% US‑based -> /about
-- Humidity‑controlled, ESD‑compliant storage (Juki ISM3600/ISM500) -> /about
-- Equipment: Juki ISM3600, ISM500, G‑Titan, RS‑1R, iCUBE, Reflow Oven; Cyber Optics SE500 Ultra, SQ3000; Seica Pilot V8 Next Series -> /about
-- Industries served: industrial, instrumentation, transportation, medical device, cable manufacturing, consumer electronics -> /about, /services
-- Prototype to medium‑volume production -> /about, /services
-- Placement accuracy ±35 µm (CPK ≥1) -> /about
-- Conformal coating -> /services
-- Electromechanical assembly -> /services
-- DFM, NPI support -> /services
-- Final assembly with functional testing -> /services
-- Logistics, material management, global procurement -> /services
-- Failure analysis, repair/ECO -> /services
-- Certifications list (ISO9001, AS9100, ISO13485, ROHS) -> db
+- Juki RS-1R, G-Titan, CyberOptics SE500 Ultra, SQ3000, iCUBE, Seica Pilot V8 equipment -> /about
+- Humidity-controlled intelligent storage (Juki ISM3600, ISM500) -> /about
+- Services: PCBA, DFM, Final Assembly, Logistics, Conformal Coating -> /services
+- Industries served: industrial, instrumentation, transportation, medical device, cable manufacturing, consumer electronics -> /services and /about
+- Placement accuracy ±35 µm -> /about
+- Quotes within 5 working days, day-of response -> /about
+- 100% US-based manufacturing -> /about and /services
+- Full transparency in cost and quality -> /about
+- Prototype to medium-volume production -> /services
+- RoHS compliant processes -> /about
 </details>
 
 ---
@@ -281,65 +260,66 @@ Bayatronics differentiates itself through day‑of response to customer inquirie
 **Old description:** Everyone who wanders into Roger’s shop automatically stops at the door and takes a deep breath. It’s amazing how many memories are stirred up by the smell of a wood shop. Whether it reminds them of their granddad’s shop or a walk in the woods, everyone has a story to share just from walking in.
 
 ## About
-Bayne Custom Woodworking operates from a 20-by-25-foot outbuilding in Mt. Juliet, Tennessee, just east of Nashville. After a career in IT and a 2009 move from Upstate New York, Bayne established a dedicated shop in Tennessee and, at his wife’s urging, left his computer role on March 12, 2021 to pursue woodworking full time.
+Bayne Custom Woodworking operates from a 20-by-25-foot outbuilding in Mt. Juliet, Tennessee, just east of Nashville. The business took shape after Roger Bayne ended a decades-long career in information technology, stepping away from his office on March 12, 2021, to focus full-time on woodworking. Bayne, who first learned the craft out of necessity while raising a family on a warehouse salary, runs the shop with support from his wife, a graphic designer.
 
-The shop produces custom furniture piece by piece: dining tables, kitchen islands, mid-century sideboards, cabinets, bookshelves, and live-edge slabs, plus outdoor Adirondack chairs, garden benches, and planters made from Tennessee red cedar. Smaller runs include chess boards, cutting boards, recipe stands, and children’s blocks. Every project begins with a Sketchup 3D drawing for client approval. Lumber—maple, oak, walnut, cherry, alder, poplar, and cedar—is hand-selected from local mills and milled in-house on a jointer and planer before being finished with hand-wiped polyurethane or tung oil.
+The shop produces custom furniture—dining tables, kitchen islands, cabinets, bookshelves, and live-edge pieces—along with smaller items such as cutting boards, chess sets, and Adirondack chairs. Each project begins with a SketchUp model so clients can review dimensions, joinery, and finish before any wood is cut. Lumber is hand-selected from Middle Tennessee mills (maple, oak, walnut, cherry, alder, poplar) and cedar from Grant Cedar Mill, then milled on a jointer and planer in the shop. Finishes include hand-wiped polyurethane and Tung oil for outdoor durability.
 
-The clientele is almost entirely residential, serving homeowners across Middle Tennessee who want made-to-measure furniture, restoration of family heirlooms, or one-of-a-kind live-edge pieces. The shop also takes on “preserving memories” projects that incorporate wood from a client’s own old furniture or salvaged lumber.
+The clientele is primarily residential homeowners across Middle Tennessee seeking one-of-a-kind pieces or restoration of family heirlooms. Bayne also builds outdoor furniture designed for the region’s climate, using locally sourced cedar sealed with Tung oil. Projects range from a farm table with an integrated racetrack to a bunk bed for grandchildren, reflecting the shop’s willingness to tackle unconventional requests.
 
-Bayne frames the work as a gift he stewards rather than a commercial venture, emphasizing detailed upfront design, locally sourced material, and the uniqueness of each build. The transition from a basement shop to a dedicated outbuilding allowed him to take on more complex projects while maintaining a one-at-a-time pace.
+Bayne emphasizes that the shop does not manufacture in volume; every piece is built one at a time, with the owner making every measure and cut. The combination of 3D design transparency, local material sourcing, and a focus on preserving memories through restoration distinguishes the operation in a market dominated by mass-produced furniture.
 
 ## Known for
-- Every project starts with a detailed Sketchup drawing
+- Every project starts with a detailed 3D drawing in SketchUp
 - Lumber hand-picked from local Tennessee mills and milled in-house
-- One-of-a-kind pieces built to exact customer specifications
-- Restoration and renewal of heirloom furniture using original wood
-- Outdoor cedar furniture sealed with tung oil for Tennessee climate
+- One-of-a-kind pieces built one at a time by the owner
+- Restoration and renewal of heirloom furniture
+- Outdoor cedar products sealed with Tung oil for Tennessee climate
 
 ## Capabilities
 - Custom furniture design and build
 - Furniture restoration and renewal
-- Live-edge furniture
-- Outdoor cedar furniture
-- Custom wood milling and preparation
-- 3D design (Sketchup)
-- Hand-finishing (hand-wiped poly, Tung oil)
+- Live-edge furniture fabrication
+- Outdoor furniture (Adirondack chairs, garden benches, planters)
+- 3D design (SketchUp)
+- Lumber milling (jointer, planer)
+- Finishing (hand-wiped polyurethane, Tung oil)
+- Small wooden goods (cutting boards, chess boards, recipe stands)
 
 ## Industries
-- Residential custom furniture
+- Residential furniture
+- Custom woodworking
 - Furniture restoration
-- Live-edge woodworking
-- Outdoor furniture
-- Small wood products
+- Home furnishings
 
 ## Equipment
-- Table saw
+- Craftsman table saw
 - Band saw
+- Disk sander (grinder converted)
 - Jointer
 - Planer
-- Disk sander
-- Sketchup 3D design software
+- SketchUp (3D design software)
 
 ## Company details
 - **Company Type:** Manufacturer
-- **Ownership:** Family-owned
+- **Ownership:** Owner-operated
 - **Headquarters:** Mt. Juliet, Tennessee
 
 <details><summary>Sources</summary>
 
 - Location: Mt. Juliet, Tennessee -> db
-- Owner: Roger Bayne -> /about
-- Full-time transition date: March 12, 2021 -> /about
+- Founder: Roger Bayne -> /, /about
+- Transition to full-time woodworking in 2021 -> /about
 - Shop size: 20' x 25' outbuilding -> /about
-- Move from New York: 2009 -> /about
-- Early woodworking from necessity using pallet wood -> /about
-- Products: custom furniture, live-edge, outdoor cedar, small items -> /, /services
-- Process: Sketchup 3D design, local lumber sourcing, in-house milling, hand finishing -> /, /services
-- Materials: maple, red oak, white oak, walnut, cherry, alder, poplar, Tennessee red cedar -> /services
-- Equipment: table saw, band saw, jointer, planer, disk sander -> /about
-- Clientele: residential, Middle Tennessee -> /, /services
-- Restoration services: heirloom renewal, incorporating old wood -> /, /services
-- Differentiators: detailed drawings, local wood, one-of-a-kind, restoration expertise -> /, /services
+- Processes: custom furniture, restoration, live-edge, outdoor cedar -> /, /services
+- 3D design in SketchUp -> /, /services
+- Local lumber sourcing: Middle Tennessee mills, Grant Cedar Mill -> /, /services
+- Wood species: maple, red oak, white oak, walnut, cherry, alder, poplar, cedar -> /services
+- Equipment: table saw, band saw, disk sander, jointer, planer -> /about
+- Finishes: hand-wiped polyurethane, Tung oil -> /services
+- One-at-a-time production -> /services
+- Clientele: residential Middle Tennessee -> /, /about
+- No certifications mentioned -> (none)
+- Social media: Instagram, YouTube, Facebook mentioned (no URLs) -> /about
 </details>
 
 ---
@@ -349,55 +329,51 @@ Bayne frames the work as a gift he stewards rather than a commercial venture, em
 **Old description:** At Bazen Woodworking, every project tells a story of craftsmanship, precision, and pride. Whether it’s a custom kitchen cabinet or a one-of-a-kind built-in, Steve’s attention to detail shines through. See what we’ve been up to—our latest projects showcase the kind of work we’re proud to put our name on.
 
 ## About
-Bazen Woodworking operates from Corsica, South Dakota, where owner and master craftsman Steve Bazen has been building custom cabinets and fine woodwork for over two decades. What began as a personal passion for woodworking grew into a dedicated shop serving families across the state.
+Bazen Woodworking operates from Corsica, South Dakota, where founder Steve Bazen turned a lifelong passion for woodworking into a business serving families across the state. With over two decades of hands-on experience, Bazen established the company on principles of quality craftsmanship and direct customer relationships.
 
-The company produces custom kitchens, closet systems, built-in storage, and bathroom vanities, all handcrafted in its Corsica workshop. The process moves from consultation and design through fabrication to professional installation, with Steve overseeing every step. To date, the shop has completed more than 150 projects.
+The shop produces custom cabinetry and fine woodwork for residential spaces, including kitchens, closet systems, built-in storage, and bathroom vanities. Each project moves through a three-step process: design consultation, handcrafted fabrication in the Corsica workshop, and professional installation. The company has completed more than 150 projects since inception.
 
-Bazen Woodworking serves residential clients throughout South Dakota, including homeowners in Mitchell, Corsica, and Sioux Falls. Projects range from modern kitchen range hoods and custom bar cabinets to built-in window seats and LED-lit bathroom vanities.
+Bazen Woodworking serves homeowners throughout South Dakota, with recent projects in Mitchell, Corsica, and Sioux Falls. Its customer base consists primarily of residential clients seeking tailored storage solutions for new construction and remodeling projects.
 
-The business emphasizes direct communication—clients work solely with Steve from start to finish—along with premium materials, time-tested techniques, and attention to every joint and finish. Local knowledge of regional styles and building conditions further shapes each project.
+The company emphasizes four differentiators: quality craftsmanship using premium materials and time-tested techniques; personal service with Steve Bazen managing every project from start to finish; local expertise in South Dakota building styles and conditions; and meticulous attention to detail in every joint, finish, and measurement.
 
 ## Known for
-- Work directly with Steve from design to installation
-- Handcrafted in Corsica, SD workshop
+- Direct collaboration with owner Steve Bazen from design through installation
+- Custom pieces handcrafted in Corsica, South Dakota workshop
 - Over 20 years of woodworking experience
-- 150+ completed projects
-- Premium materials and time-tested techniques
+- Quality craftsmanship with premium materials and time-tested techniques
+- Local expertise in South Dakota building styles and conditions
 
 ## Capabilities
-- Custom cabinet making
-- Kitchen cabinet design and fabrication
-- Closet system design and fabrication
-- Built-in storage fabrication
-- Bathroom vanity fabrication
-- Finish carpentry
-- Wood finishing
-- Project consultation and design
+- Custom kitchen cabinetry
+- Closet systems
+- Built-in storage
+- Bathroom vanities
+- Design consultation
+- Handcrafted fabrication
 - Professional installation
 
 ## Industries
 - Residential construction
 - Home remodeling
-- Interior design
-- Cabinetry
+- Custom cabinetry
 
 ## Company details
 - **Company Type:** Manufacturer
-- **Ownership:** Owner-operated
 - **Headquarters:** Corsica, South Dakota
 
 <details><summary>Sources</summary>
 
-- Location: Corsica, South Dakota -> /
-- Owner: Steve Bazen -> /about
-- Over 20 years experience -> /
-- 150+ projects completed -> /about
-- Services: custom kitchens, closet systems, built-ins, bathroom vanities -> /
-- Process: consultation, crafting, installation -> /
-- Workshop in Corsica, SD -> /about
-- Direct client interaction with Steve -> /about
-- Clients in Mitchell, Corsica, Sioux Falls -> /
-- Premium materials, time-tested techniques -> /about
+- Company name and location: Corsica, South Dakota -> db
+- Founder Steve Bazen, owner and master craftsman -> /about
+- Over 20 years of experience -> /, /about
+- 150+ projects completed -> /, /about
+- Services: custom kitchens, closet systems, built-in storage, bathroom vanities -> /
+- Process: consultation & design, crafting, installation -> /
+- Workshop located in Corsica, SD -> /about
+- Serves families throughout South Dakota -> /about
+- Differentiators: quality craftsmanship, personal service, local expertise, attention to detail -> /about
+- No salespeople or project managers; work directly with Steve -> /about
 </details>
 
 ---
@@ -407,39 +383,51 @@ The business emphasizes direct communication—clients work solely with Steve fr
 **Old description:** Since 1987, people have trusted Beacon for custom metal fabrication because we’ve proven — again and again — that we’ll get it done.
 
 ## About
-Beacon Metal Fabricators was founded in 1987 in Cleveland, Ohio, with a straightforward mission: do solid work, treat people right, and make things that last. The company began as a shop willing to take on the custom, short-run metal fabrication jobs that larger manufacturers often decline.
+Beacon Metal Fabricators was founded in 1987 in Cleveland, Ohio, with a straightforward mission: do solid work, treat people right, and make things that last. The shop began as a small operation focused on custom metal fabrication and has since grown into a full-service partner for short-run and specialty projects.
 
-Today Beacon operates as a full-service metal fabrication partner, offering laser cutting, CNC bending, TIG/MIG/Stick welding, rolling and forming, wire fabrication, resistance and spot welding, fastener insertion, custom tool and fixture building, and in-house finishing including grinding, polishing, and painting. The shop specializes in prototype and low-volume production — typically dozens of parts rather than thousands — and works primarily in aluminum, stainless steel, and carbon steel.
+The company provides a broad range of in-house metalworking capabilities, including laser cutting, CNC bending, TIG/MIG/Stick welding, rolling and forming, wire fabrication, resistance and spot welding, fastener insertion, custom tool building, and finishing services such as grinding, polishing, and coating. It specializes in prototype and low-volume production — typically dozens to a few thousand parts — and handles projects from custom electrical cabinets and lighting restoration components to transportation prototypes and aftermarket automotive parts.
 
-Its customer base spans transportation prototyping and aftermarket automotive parts, electrical contractors needing custom enclosures for retrofit projects in hospitals and schools, architectural and lighting restoration for historic buildings such as churches and municipal facilities, public art and structural fabrication, and general industrial and commercial clients requiring one-off repairs or specialty builds.
+Beacon serves a diverse client base across transportation and prototyping, electrical contractors needing custom enclosures, architectural and lighting restoration for historic buildings, public art and structural fabrication, and general industrial and commercial accounts. Notable projects include retrofit parts for century-old bronze fixtures in churches and municipal buildings, and custom-sized electrical cabinets for hospitals and schools where standard products do not fit.
 
-Beacon distinguishes itself by embracing the "odd jobs" that bigger shops turn away, emphasizing a nimble, craftsmanship-driven approach over rigid processes. The company states that its size allows quick pivots and adaptability to tough requests, and it backs every part with a quality standard that often exceeds customer specifications, even without formal ISO or ITAR certifications.
+The shop differentiates itself by taking on the "odd jobs" that larger manufacturers decline — short runs, tricky fits, and one-off builds — emphasizing flexibility and craftsmanship over volume. It manufactures to UL, NSF, and NAEF standards as required, and maintains a nimble, problem-solving approach that allows quick pivots and tight deadlines without formal ISO or ITAR certifications.
 
 ## Known for
-- Short-run and prototype focus (dozens of parts, not thousands)
-- Full-service capabilities under one roof: laser cutting, CNC bending, welding, forming, finishing
-- Takes on complex one-offs and "odd jobs" that larger shops decline
-- In-house finishing with grinding, polishing, painting and partner powder coating/plating
-- Designs and builds custom tools, jigs, and fixtures to support production
+- Specializes in short-run and prototype fabrication that larger shops decline
+- Broad in-house capabilities: laser cutting, CNC bending, welding (TIG/MIG/Stick), rolling, wire fabrication, fastener insertion, finishing
+- Flexible, nimble operation able to pivot quickly and meet hard deadlines
+- Manufactures to UL, NSF, and NAEF standards as required
+- Takes on custom one-offs, odd jobs, and specialty repairs
 
 ## Capabilities
 - Laser Cutting
 - CNC Bending
-- Welding (TIG, MIG, Stick)
+- TIG Welding
+- MIG Welding
+- Stick Welding
 - Rolling & Forming
 - Wire Fabrication
-- Resistance & Spot Welding
+- Resistance Welding
+- Spot Welding
 - Fastener Insertion
 - Machine & Tool Building
-- Finishing (Grinding, Polishing, Painting, Powder Coating, Plating)
+- Finishing (Grinding, Polishing, Coatings)
+- Custom Electrical Cabinet Fabrication
+- Lighting Restoration Component Fabrication
+- Prototype & Small-Volume Fabrication
+- Sheet Metal Fabrication
+- Steel Fabrication
+- Assembly
 
 ## Industries
 - Transportation & Prototyping
-- Aftermarket Automotive
+- Automotive (Aftermarket)
 - Electrical Contractors
 - Architectural & Lighting Restoration
 - Public Art & Structural Fabrication
-- Industrial & Commercial
+- Industrial & Commercial Clients
+- Healthcare (Hospitals)
+- Education (Schools)
+- Municipal
 
 ## Certifications
 - UL standards
@@ -453,15 +441,16 @@ Beacon distinguishes itself by embracing the "odd jobs" that bigger shops turn a
 
 <details><summary>Sources</summary>
 
-- Founded 1987 in Cleveland, Ohio -> /about
-- Mission: do solid work, treat people right, make things that last -> /about
-- Full-service capabilities: laser cutting, CNC bending, welding (TIG/MIG/Stick), rolling/forming, wire fabrication, resistance/spot welding, fastener insertion, machine/tool building, finishing -> /
-- Specializes in prototype and low-volume production (dozens of parts) -> /
-- Materials: aluminum, stainless steel, carbon steel -> /
-- Industries served: transportation prototyping, aftermarket automotive, electrical contractors (custom enclosures for hospitals/schools), architectural/lighting restoration (churches, municipal buildings), public art, industrial/commercial -> /about
-- Differentiators: nimble approach, takes on odd jobs, quality exceeds specs, no formal ISO/ITAR -> /, /about
+- Founded in 1987 -> db, /, /about
+- Headquarters in Cleveland, Ohio -> db, /, /about
+- Capabilities: laser cutting, CNC bending, welding (TIG/MIG/Stick), rolling & forming, wire fabrication, resistance/spot welding, fastener insertion, machine & tool building, finishing -> /, /about
+- Industries served: Transportation & Prototyping, Electrical Contractors, Architectural & Lighting Restoration, Public Art & Structural Fabrication, Industrial & Commercial Clients -> /about
 - Manufactures to UL, NSF, NAEF standards -> /about
-- Company type: custom metal fabrication shop -> /
+- Materials: aluminum, stainless steel, carbon steel -> /
+- Volume: prototype and short-run (dozens to thousands) -> /
+- Differentiators: flexible, nimble, takes on odd jobs, short runs, one-offs -> /, /about
+- Custom electrical cabinets for hospitals, schools, commercial spaces -> /
+- Lighting restoration components for historic buildings -> /
 </details>
 
 ---
@@ -471,55 +460,52 @@ Beacon distinguishes itself by embracing the "odd jobs" that bigger shops turn a
 **Old description:** Since 1983, Beal’s Sheet Metal in Waterloo, Iowa has transformed the meaning of
 
 ## About
-Founded in 1983 in Waterloo, Iowa, Beals Sheet Metal has grown into one of the most diversified sheet metal fabricators in Northeast Iowa. The company operates two facilities in the Cedar Valley region and serves commercial, industrial, and residential clients.
+Beals Sheet Metal was founded in 1983 in Waterloo, Iowa. The company began as a custom fabrication shop serving the Cedar Valley region.
 
-The shop provides custom heavy metal fabrication including cutting, bending, welding, and machining. Equipment includes an automated plasma layout table, a heavy-gauge shear capable of 1/4-inch steel, and multiple press brakes. They stock stainless steel, aluminum, black iron, perforated and galvanized metals, and steel tubing. Products range from ventilation hoods, dust collectors, and ductwork to carts, cabinets, and custom parts and containers. The company also acts as a commercial HVAC contractor, handling design, new construction, and remodels.
+Today the shop operates from two facilities equipped with automated plasma layout tables, heavy-gauge shears capable of cutting 1/4-inch steel, and multiple press brakes. Its craftsmen handle machining, welding, and forming to produce custom heavy metal fabrications such as ventilation hoods, dust collectors, ductwork systems, carts, cabinets, and a variety of parts and containers. The company also provides commercial HVAC contracting, design, new construction, and remodel metalwork.
 
-Customers include individual consumers, small shops, and major manufacturers across the Cedar Valley and surrounding areas. The company works with business owners and engineers on projects of all sizes, from single custom pieces to full production runs.
+Beals serves commercial, industrial, and residential customers, including individual consumers, small shops, major manufacturers, business owners, and engineers. Projects range from HVAC system installations on new construction sites to large-scale manufacturing runs and one-off custom pieces.
 
-Beals emphasizes open communication and problem-solving for each project, offering cost-effective solutions from consultation through delivery and installation. Their craftsmen are skilled in machining, welding, and shaping various materials, and the company maintains a stocked inventory of hard-to-find metals to reduce lead times.
+The company emphasizes open communication and problem‑solving for each project, offering cost‑effective solutions from initial consultation through delivery and installation. It maintains a stocked inventory of hard‑to‑find metals — stainless steel, aluminum, black iron, perforated and galvanized sheet, and steel tubing — to keep lead times short.
 
 ## Known for
-- Two facilities with automated processes and state-of-the-art equipment
-- Heavy-gauge shear capable of cutting 1/4-inch thick steel
-- Automated plasma layout table for cutting and punching
-- Extensive stocked inventory of hard-to-find metals
-- Delivery and on-site installation services
+- Open communication and project‑specific problem solving
+- Two facilities with automated plasma cutting and heavy‑gauge shearing
+- Stocked inventory of stainless, aluminum, black iron, perforated, galvanized, and tubing
+- Full‑service offering from design through delivery and installation
+- Over 30 years of sheet metal fabrication experience
 
 ## Capabilities
 - Custom heavy metal fabrication
-- Plasma cutting
-- Heavy-gauge shearing
-- Press brake bending
-- Machining
-- Welding
-- Metal forming
 - HVAC system fabrication
-- Dust collector fabrication
 - Ductwork fabrication
 - Ventilation hood fabrication
+- Dust collector fabrication
 - Cart and cabinet fabrication
 - Parts and container fabrication
+- Plasma cutting
+- Press brake forming
+- Heavy-gauge shearing
+- Welding
+- Machining
+- Metal shaping
 - Design services
 - New construction metalwork
 - Remodel metalwork
-- Delivery
-- Installation
+- Delivery and installation
 
 ## Industries
 - Commercial
 - Industrial
 - Residential
-- Construction
-- Manufacturing
 
 ## Equipment
 - Plasma layout table
-- Heavy-gauge shear
+- Heavy-gauge shear (1/4-inch capacity)
 - Press brakes
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Founded:** 1983
 - **Headquarters:** Waterloo, Iowa
 
@@ -528,14 +514,14 @@ Beals emphasizes open communication and problem-solving for each project, offeri
 - Founded 1983 -> db
 - Headquarters Waterloo, Iowa -> db
 - Two facilities -> /about-us
-- Plasma layout table -> /
-- Heavy-gauge shear (1/4-inch capacity) -> /services
-- Multiple press brakes -> /services
-- Materials stocked (stainless, aluminum, black iron, perforated, galvanized, steel tubing) -> /
-- Industries served (commercial, industrial, residential) -> /
+- Automated plasma layout table, heavy-gauge shear, press brakes -> /about-us, /services
+- Craftsmen skilled in machining, welding, shaping -> /about-us
+- Custom heavy metal fabrication, HVAC, ductwork, ventilation hoods, dust collectors, carts, cabinets, parts and containers -> /, /services
+- Industries served: commercial, industrial, residential -> /, /about-us, /services
+- Materials stocked: stainless steel, aluminum, black iron, perforated, galvanized, steel tubing -> /, /services
+- Open communication, cost-effective solutions, full service -> /about-us
+- Over 30 years experience -> /, /about-us
 - Delivery and installation -> /services
-- Custom fabrication services (ventilation hoods, dust collectors, ductwork, carts, cabinets, parts) -> /
-- Commercial HVAC contractor (design, new construction, remodels) -> /
 </details>
 
 ---
@@ -545,64 +531,76 @@ Beals emphasizes open communication and problem-solving for each project, offeri
 **Old description:** At Behlen Mfg. Co., our business units are the cornerstone of our commitment to excellence. With a passion for innovation and a relentless pursuit of customer satisfaction, each of our business units brings a unique expertise to the table. Whether it's agricultural solutions, metal building systems, or custom fabrication, our teams work hand in hand to deliver unparalleled results. But what truly sets us apart is our unwavering dedication to our Partners in Progress – our employees – who drive our success through their hard work and dedication. Explore our businesses and experience the difference that sets Behlen Mfg. Co. apart in the industry.
 
 ## About
-Behlen Mfg. Co. traces its roots to a garage in Columbus, Nebraska, where it was founded in 1936. Over the decades the company has grown into a multi‑unit enterprise with operations spanning five states, while keeping its headquarters in Columbus. The business remains privately held; no specific ownership designation such as family‑ or veteran‑owned is disclosed in public materials.
+Behlen Mfg. Co. was founded in 1936 in a garage in Columbus, Nebraska. What began as a small operation has grown into a multi-business manufacturer with locations spanning five states, including facilities in Columbus, Nebraska, and Sarasota, Florida. The company is led by a management team that includes Board Chair Tony Raimondo, Jr. and President & CEO Tom Boal.
 
-The company operates through distinct business units that design and manufacture a range of steel‑based products. Behlen Building Systems produces metal building systems for commercial and agricultural use; Behlen Grain Systems supplies grain storage bins and handling equipment; Behlen Country offers livestock equipment such as gates and stock tanks; Behlen Custom Fabrication provides precision custom‑fabricated metal components; Behlen Joiner makes coil‑stitching equipment for continuous line operations; and Hilton Behlen Energy Systems builds capacitor winding machines for the power sector. A dedicated transportation arm, BMC Transportation, runs a flatbed fleet serving 48 U.S. states and Canadian provinces. The firm emphasizes lean manufacturing and a quality program called PRIDE that authorizes any employee to stop a process that falls short of specifications.
+The company produces a diverse line of metal products: metal building systems, livestock equipment, grain storage systems, strip joiners, and capacitor winding machines. Its Behlen Custom Fabrication unit supplies precision custom-fabricated metal components, while Behlen Joiner provides coil stitching for continuous line operations. Hilton Behlen Energy Systems builds precision winding machines for power and capacitor applications. BMC Transportation operates a dedicated flatbed fleet serving 48 states and Canadian provinces.
 
-Customers come from agriculture (farmers and ranchers), construction (metal building contractors), grain handling and storage operators, the energy industry (capacitor and power equipment manufacturers), and logistics firms needing flatbed transport. The company cites its 85‑plus years of experience, integrated product lines, and in‑house transportation as reasons customers choose it.
+Behlen serves agricultural producers, commercial builders, energy companies, and transportation firms. Its Behlen Country line supports farmers and ranchers with gates, stock tanks, and farm equipment. Behlen Building Systems targets the metal construction market, and Behlen Grain Systems supplies grain bins and storage solutions. The energy division serves capacitor and power equipment manufacturers.
 
-Behlen says its differentiation lies in its PRIDE quality culture, multiple facility certifications (IAS and AISC), and a commitment to sustainable steel use. The company’s stated purpose is to deliver high‑quality products that strengthen the industries it serves, while empowering its workforce—referred to as Partners in Progress—through shared values and variable pay.
+The company emphasizes a culture called PRIDE (Partners Responsible In Demonstrating Excellence), which empowers employees to halt processes that fall short of specifications. Its stated mission is to provide innovative solutions that drive customer success, empower employees, and strengthen communities. Behlen highlights over 85 years of manufacturing experience, a dedicated transportation network, and a commitment to sustainable practices using predominantly recycled steel.
 
 ## Known for
-- 85+ years of manufacturing experience
-- Dedicated flatbed fleet covering 48 U.S. states and Canadian provinces
-- IAS and AISC certified facilities
-- PRIDE quality system giving every employee authority to halt non‑conforming work
-- Integrated product lines spanning metal buildings, grain storage, custom fabrication, and capacitor winding equipment
+- Dedicated flatbed fleet covering 48 states and Canadian provinces (BMC Transportation)
+- PRIDE quality system empowering employees to stop non-conforming work
+- Over 85 years of continuous manufacturing experience
+- Integrated business units spanning agricultural, building, grain, energy, and transportation
+- Sustainable manufacturing using predominantly recycled steel
 
 ## Capabilities
-- Metal building systems manufacturing
-- Grain storage system manufacturing
-- Livestock equipment manufacturing
+- Metal fabrication
 - Custom metal fabrication
-- Coil stitching equipment manufacturing
+- Metal building systems manufacturing
+- Grain storage systems manufacturing
+- Livestock equipment manufacturing
+- Strip joiner production
+- Coil stitching
 - Capacitor winding machine manufacturing
-- Flatbed transportation services
+- Dedicated flatbed transportation
 - Quality assurance (PRIDE system)
-- Lean manufacturing
+- Lean manufacturing (AIM program)
+- Continuous improvement
 
 ## Industries
 - Agriculture
-- Construction
+- Metal building construction
 - Grain storage
-- Energy
-- Transportation
+- Energy (capacitor and power equipment)
+- Transportation and logistics
+- Farm and ranch equipment
+
+## Equipment
+- Capacitor winding machines
+- Strip joiners
+- Coil stitching equipment
 
 ## Certifications
-- IAS
-- AISC
+- IAS certificate
+- AISC certificate
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1936
-- **Ownership:** Private
 - **Headquarters:** Columbus, Nebraska
 
 <details><summary>Sources</summary>
 
-- Founded in 1936 in a Columbus, Nebraska garage -> /about
-- Headquarters at 4025 E. 23rd St., Columbus, Nebraska -> /
-- Operations across five states -> /about
-- Business units: Behlen Building Systems, Behlen Grain Systems, Behlen Country, Behlen Custom Fabrication, Behlen Joiner, Hilton Behlen Energy Systems, BMC Transportation -> /
-- Products: metal building systems, livestock equipment, grain storage systems, strip joiners, capacitor winding machines -> /
-- Dedicated transportation across 48 states and Canadian provinces -> /
-- Quality certifications: IAS (Columbus), IAS and AISC (Sarasota) -> /
-- PRIDE quality system with employee authority to stop non-conforming processes -> /
-- Lean manufacturing and AIM program -> /about
-- Leadership: Tony Raimondo Jr. (Board Chair), Tom Boal (President & CEO), Brad Robeson (COO), Craig Fitzpatrick (CFO), Farshad Vossoughi (VP & CIO) -> /about
-- Sustainability: products predominantly made of steel, most recycled material -> /about
-- Mission, Vision, Purpose statements -> /about
-- Global values: Safety, Quality, Productivity, Teamwork, Communication, Honor System, Sharing & Variable Pay, Continuous Learning, Continuous Improvement, Customer Satisfaction -> /about
+- Founded 1936 in Columbus, Nebraska garage -> /about
+- Multiple business units across five states -> /about
+- Products: metal building systems, livestock equipment, grain storage, strip joiners, capacitor winding machines -> /
+- Facilities in Columbus, NE and Sarasota, FL -> /
+- Certifications: IAS certificate, AISC certificate -> /
+- BMC Transportation dedicated fleet across 48 states and Canadian provinces -> /
+- Quality system PRIDE (Partners Responsible In Demonstrating Excellence) -> /
+- Leadership: Tony Raimondo, Jr. (Board Chair), Tom Boal (President & CEO) -> /about
+- Mission, vision, purpose statements -> /about
+- Sustainability: predominantly steel, most recycled material -> /about
+- Over 85 years manufacturing experience -> /
+- Behlen Country for farm/ranch equipment -> /
+- Behlen Building Systems for metal buildings -> /
+- Behlen Grain Systems for grain bins -> /
+- Hilton Behlen Energy Systems for winding machines -> /
+- Behlen Custom Fabrication for precision custom-fabricated metal components -> /
+- Behlen Joiner for coil stitching -> /
 </details>
 
 ---
@@ -612,30 +610,30 @@ Behlen says its differentiation lies in its PRIDE quality culture, multiple faci
 **Old description:** Manufactures cables and connectivity solutions for industrial and networking applications.
 
 ## About
-Belden is headquartered in St. Louis, Missouri. The company traces its origins to 1902 when the Belden Manufacturing Company was incorporated with Joe Belden as president and Albert Beutler as plant superintendent. The business began producing wire and cable products that would later support early radio, television, and wartime communications.
+Belden traces its roots to 1902, when the Belden Manufacturing Company was incorporated in St. Louis, Missouri, with Joe Belden as president and Albert Beutler as plant superintendent. The firm began as a wire manufacturer and went public on the Midwest Stock Exchange in 1939 before joining Cooper Industries in 1980.
 
-Today Belden manufactures cables and connectivity solutions for industrial and networking applications. Its portfolio includes industrial Ethernet and fiber optic cables, as well as complete connection solutions that span from the factory floor to the data center. The company reports a global workforce of 8 employees and operates across 18 countries certified as Great Place to Work locations.
+Today Belden produces cables and connectivity solutions for industrial and networking applications, including Ethernet and fiber‑optic cables designed for harsh environments. The company also delivers network design, installation, hypercare, and run‑and‑maintain services, supporting customers from initial assessment through ongoing operations. Global headcount is reported as 8 employees, with operations across 18 countries certified as Great Place to Work.
 
-Belden serves customers in consumer packaged goods, data centers, energy, hospitality, mass transit, and warehousing and logistics. In each sector the company provides wired and wireless infrastructure that connects sensors, machines, control systems, and enterprise networks. It also offers network design, installation, hypercare, and run-and-maintain services to support deployment and ongoing operations.
+Belden serves industries such as consumer packaged goods, data centers, energy, hospitality, mass transit, and warehousing & logistics. In energy, it supplies hardened, IEC‑compliant connectivity for generation, transmission, and distribution; in mass transit, it provides industrial‑grade wired and wireless links for trains and trackside systems; in data centers, it offers end‑to‑end infrastructure from high‑density cabinets to cooling automation.
 
-The company states that it exists to bridge the gap between lost signals, security breaches, and disparate networks, turning those challenges into opportunities for clarity and innovation. Belden emphasizes its unified approach—integrating products, services, and partner ecosystems—to deliver complete connection solutions. Its history of firsts, such as bringing industrial Ethernet to market in the early 1980s and supplying cable for the Apollo 11 mission, underscores its focus on enabling critical connectivity.
+The company positions itself as a bridge between operational and information technology, emphasizing a unified “complete connection solutions” approach that integrates hardware, software, and services. Its early leadership in industrial Ethernet and fiber optics, plus a history of equipping everything from Apollo 11 to Olympic broadcasts, underpins its claim to turn connectivity challenges into competitive advantages.
 
 ## Known for
-- First to market industrial Ethernet and fiber optic cables (early 1980s)
-- Cable used on Apollo 11 mission
-- Supplier for Olympic broadcasts for over 20 years
-- Unified "complete connection solutions" approach integrating products and services
-- 120-year history of innovation in wire and cable
+- First to market industrial Ethernet and fiber‑optic cables (early 1980s)
+- Hardened, IEC‑compliant connectivity for energy grid applications
+- End‑to‑end data‑center infrastructure including high‑density cabinets, fiber connectivity, and cooling automation
+- Full‑lifecycle network services: design, install, hypercare, and run‑and‑maintain
 
 ## Capabilities
 - Cable manufacturing
+- Fiber optic cable manufacturing
+- Ethernet cable manufacturing
 - Connectivity solutions
-- Industrial Ethernet cabling
-- Fiber optic cabling
 - Network design services
 - Network installation services
 - Hypercare services
-- Run and maintain services
+- Run & maintain services
+- Network assessment services
 
 ## Industries
 - Consumer Packaged Goods
@@ -648,26 +646,24 @@ The company states that it exists to bridge the gap between lost signals, securi
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1902
-- **Employees:** 8 Employees globally
+- **Employees:** 8
 - **Headquarters:** St. Louis, Missouri
 
 <details><summary>Sources</summary>
 
-- Founded 1902 -> db
+- Founded 1902 as Belden Manufacturing Company -> /about-us
+- Founders Joe Belden (president) and Albert Beutler (plant superintendent) -> /about-us
 - Headquarters St. Louis, Missouri -> db
-- Manufactures cables and connectivity solutions -> db description
-- Industries served: Consumer Packaged Goods, Data Centers, Energy, Hospitality, Mass Transit, Warehousing & Logistics -> /
-- Services: Design, Install, Hypercare, Run & Maintain -> /services
-- Founders: Joe Belden (president), Albert Beutler (plant superintendent) -> /about-us
-- First to market industrial Ethernet and fiber optic cables (early 1980s) -> /about-us
-- Acquisitions: PPC, Hirschmann, ProSoft Technology -> /about-us
-- 120 years of innovation -> /about-us
-- 8 Employees globally -> /about-us
-- 18 Great Place to Work Certified countries -> /about-us
-- Why we exist statement -> /about-us
-- Unified approach/complete connection solutions -> /about-us
-- Cable used on Apollo 11 -> /about-us
-- Olympic broadcast supplier for over 20 years -> /about-us
+- Went public on Midwest Stock Exchange 1939 -> /about-us
+- Joined Cooper Industries 1980 -> /about-us
+- First to market industrial Ethernet and fiber optic cables early 1980s -> /about-us
+- Supplies hardened IEC-compliant connectivity for energy grid -> /
+- Provides end-to-end data center infrastructure -> /
+- Serves consumer packaged goods, data centers, energy, hospitality, mass transit, warehousing & logistics -> /
+- Offers network design, installation, hypercare, run & maintain services -> /services
+- Reports 8 employees globally -> /about-us
+- 18 Great Place to Work certified countries -> /about-us
+- Manufactures cables and connectivity solutions -> db
 </details>
 
 ---

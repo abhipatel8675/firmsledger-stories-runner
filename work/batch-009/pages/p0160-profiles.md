@@ -3,40 +3,40 @@
 **Old description:** We are a local installer and leading manufacturer of residential
 
 ## About
-Crego Metal Systems, operating as Crego Roofing of New Mexico, has been based in the North Valley of Albuquerque (Los Ranchos de Albuquerque) since its founding in 1980. The company is family-owned and operated, with Stephen and Brenda Gregg serving as primary contacts. It began as a local installer and manufacturer of metal roofing for both residential and commercial projects.
+Crego Metal Systems, operating as Crego Roofing of New Mexico, has been based in Albuquerque’s North Valley (Los Ranchos de Albuquerque) since its founding in 1980. The company is family‑owned and operated, with Stephen and Brenda Gregg serving as primary contacts. It began as a local installer and manufacturer of metal roofing for both residential and commercial projects.
 
-The firm fabricates cut-to-length metal roof panels, flashing, and trim on-site using UL-approved roll-forming lines. Its product range includes CMS, R-Panel, and standing-seam profiles, along with seamless and box gutters, plaster trims, and custom plasma-cut silhouettes. Most standard orders are ready for same-day pickup; larger orders typically ship within three days. The facility also produces custom copper designs and offers green roofing solutions.
+The firm fabricates cut‑to‑length metal roof panels, flashing, and trim on site using UL‑approved roll‑forming lines. Its product range includes CMS Panel, R Panel, and Standing Seam profiles, along with seamless and box gutters, plaster trims, and plasma‑cut decorative silhouettes. Custom copper work and green‑roof solutions are also offered. Most standard orders are ready for same‑day pickup; larger orders typically ship within three days.
 
-Crego serves residential homeowners, commercial builders, and roofing contractors across New Mexico. Its panels and flashing have been tested to ANSI/SPRI/ES-1 standards, exceeding minimum wind-uplift requirements. Past projects span single-family homes, commercial buildings, and specialty installations requiring custom metalwork.
+Crego serves homeowners, building owners, and contractors across residential and commercial construction in New Mexico. Its metal roofing and gutter systems are used on houses, office buildings, and retail centers, while its plasma‑cut designs and copper accents appear on custom architectural projects.
 
-The company emphasizes its “Edge of Quality Roofing” standard, combining UL-certified manufacturing with a price-match guarantee. Family ownership and local production allow quick turnaround and direct communication with the fabrication team.
+The company emphasizes its UL‑approved manufacturing standards and ANSI/SPRI/ES‑1‑tested flashing that exceeds wind‑uplift requirements. A price‑match guarantee and family‑run continuity since 1980 are cited as key differentiators.
 
 ## Known for
-- UL-approved roof panel machine lines
-- ANSI/SPRI/ES-1 tested flashing exceeding wind-uplift standards
-- Same-day pickup for most orders
-- Family-owned and operated since 1980
-- Price-match guarantee
+- UL‑approved roof panel roll‑forming lines
+- ANSI/SPRI/ES‑1 tested flashing exceeding wind‑uplift standards
+- Same‑day pickup for most cut‑to‑length orders
+- Three‑day maximum lead time for larger orders
+- Family‑owned and operated since 1980
 
 ## Capabilities
 - Cut-to-length metal roof panel fabrication
 - Roof flashing fabrication
-- Custom metal fabrication
+- Roll forming (CMS Panel, R Panel, Standing Seam)
 - Plasma cutting
-- Gutter fabrication (seamless, box, K-style)
-- Trim fabrication (lath & plaster trim, J-weep, Z-flashing, plaster stop)
-- Custom copper design
-- Metal roof installation
-- Green roofing solutions
+- Custom metal design and fabrication
+- Seamless gutter fabrication
+- Box gutter fabrication
+- Custom copper fabrication
+- Metal profiling
+- Installation services (residential and commercial roofing)
 
 ## Industries
 - Residential construction
 - Commercial construction
 - Roofing
 - Green building
-
-## Equipment
-- UL approved roof panel machine lines
+- Custom metal fabrication
+- Architectural metalwork
 
 ## Certifications
 - UL approved (roof panel machine lines)
@@ -51,17 +51,17 @@ The company emphasizes its “Edge of Quality Roofing” standard, combining UL-
 
 - Founded 1980 -> db
 - Family-owned and operated since 1980 -> /
-- Location: Albuquerque, NM (Los Ranchos de Albuquerque) -> /
-- Manufactures residential and commercial metal roof panels, flashing, trim, gutters -> /
+- Location: Albuquerque, NM (Los Ranchos de Albuquerque) -> /about
+- Manufactures cut-to-length metal roof panels and flashing on site -> /about
 - UL approved roof panel machine lines -> /about
-- ANSI/SPRI/ES-1 tested metal flashing exceeding wind uplift standards -> /about
-- Same-day pickup for most orders, larger orders 3 days or less -> /about
-- Plasma cutting services -> /
-- Custom copper design -> /about
-- Green solutions -> /about
-- Price matching guarantee -> /
+- ANSI/SPRI/ES-1 tested flashing exceeding wind uplift standards -> /about
+- Same-day pickup for most orders; 3 days or less for larger orders -> /about
+- Plasma cutting and custom metal design -> /, /about
+- Custom copper design and green solutions -> /about
+- Seamless and box gutter fabrication -> /, /about
+- Price match guarantee -> /
 - Contacts: Stephen Gregg, Brenda Gregg -> /about
-- Business License #401273, CRS# 03-516317-008 -> /
+- Business license #401273, CRS# 03-516317-008 -> /
 </details>
 
 ---
@@ -71,20 +71,20 @@ The company emphasizes its “Edge of Quality Roofing” standard, combining UL-
 **Old description:** Crittco Cable & Fiber was incorporated in May 2007. It was formed five years prior as a subsidiary of Crittco Construction. Matt Hale founded the company in 2002 with then partner Barry Brawner. Hale spent 20 years in the water and sewer business and Brawner spent 30 in the telecommunications industry. Together they built Crittco…
 
 ## About
-Crittco Cable & Fiber is based in Jonesboro, Arkansas. The company traces its roots to 2002 when Matt Hale, a 20-year veteran of the water and sewer industry, partnered with Barry Brawner, who brought 30 years of telecommunications experience. They formed the business as a subsidiary of Crittco Construction and incorporated it in May 2007.
+Crittco Cable & Fiber operates from Jonesboro, Arkansas, where it was founded in 2002 by Matt Hale and Barry Brawner as a subsidiary of Crittco Construction. Hale brought two decades of water and sewer experience, while Brawner contributed 30 years in telecommunications. The company incorporated in May 2007 and is licensed in Arkansas and Tennessee.
 
-The firm operates as a full-service utility contractor with a focus on directional drilling. From an 8,000-square-foot shop supplemented by storage units and a covered wash bay, a crew of 12 to 30 runs a fleet that includes six drill rigs (ranging from a 7×11 to a 24×40), bucket trucks, backhoes, mini excavators, plows, vacuum excavators, bulldozers, and specialized equipment for duct washing and fiber blowing. Services span directional drilling, copper and fiber splicing, plowing, pulling and tugging, trenching and excavating, utility locating, aerial placement, duct washing, fiber blowing, and sewer, water, drainage, and electric installation.
+The firm functions as a full‑service utility contractor with directional drilling as its cornerstone. It runs six drill rigs ranging from a 7×11 unit for tight urban sites to a 24×40 rig capable of 28‑inch bores, and can pull back single steel or multiple poly pipes. Additional capabilities include copper and fiber‑optic splicing (single and ribbon), plowing, cable pulling and tugging, trenching and excavating with equipment up to a 200‑series excavator, utility locating, aerial fiber and copper placement, duct washing, fiber blowing, and sewer, water, drainage and electric installation. The operation occupies roughly 8,000 square feet of shop space plus storage and a covered wash bay, supported by a fleet of boring rigs, bucket trucks, backhoes, mini excavators, plows, vacuum excavators, bulldozers, and specialized safety gear. Headcount has grown from the original 12 to around 30 employees.
 
-Crittco serves telecommunications carriers such as Ritter Communications and AT&T, municipal utilities including City Water and Light in Jonesboro, and commercial contractors on projects for Hino Motors in Marion, Sam’s Wholesale in Jonesboro, Greene County Tech School in Paragould, and Home Depot in Jonesboro. The company also performed cable, fiber, and electric installation around new runways at Memphis International Airport.
+Crittco serves telecommunications carriers such as Ritter Communications and AT&T, municipal utilities including City Water and Light, and commercial construction projects for Hino Motors, Sam’s Wholesale, Greene County Tech School, and Home Depot. It has also performed infrastructure work around new runways at Memphis International Airport and handles private subdivision and municipal projects in the Marion and West Memphis areas.
 
-The founders built the business on a reputation for high-quality work, on-time performance, and diversified project experience. Current leadership emphasizes evolving technology, quality workmanship, customer-oriented relationships, and a safe, efficient, environmentally friendly approach. The company describes its workforce as a family, with many employees remaining since the early years.
+The company emphasizes a family‑oriented culture, crediting its long‑tenured crew for on‑time performance and diversified project experience. Leadership states that respect for employees, continuous technological evolution, and a commitment to safe, efficient, and environmentally friendly workmanship set the operation apart.
 
 ## Known for
-- High-quality work and on-time performance
-- Diversified project experience across telecom, utility, and commercial construction
-- Fleet of six directional drill rigs (7×11 to 24×40)
-- Commitment to evolving technology and environmentally friendly practices
-- Family-oriented culture with long-tenured employees
+- High-quality work and on-time performance across diversified projects
+- Family-oriented culture with employees who have been with the company since inception
+- Commitment to evolving technology and safe, environmentally friendly practices
+- Capable of directional bores up to 28 inches and large-count fiber splicing
+- Experienced in OTDR and bi-directional fiber testing
 
 ## Capabilities
 - Directional drilling
@@ -96,17 +96,23 @@ The founders built the business on a reputation for high-quality work, on-time p
 - Aerial fiber and copper placement
 - Duct washing
 - Fiber blowing
-- Sewer, water, drainage, and electric installation
+- Sewer, water, drainage and electric installation
 - Communication site work
+- On-grade gravity sewer boring
 
 ## Industries
 - Telecommunications
-- Municipal utilities
+- Electric utilities
+- Water and sewer utilities
 - Commercial construction
-- Airport infrastructure
+- Municipal government
+- Airport/aviation
+- Education
+- Retail
+- Manufacturing
 
 ## Equipment
-- Six drill rigs (7×11 to 24×40)
+- Drill rigs (7×11 to 24×40)
 - Boring rigs
 - Bucket trucks
 - Backhoes
@@ -124,29 +130,36 @@ The founders built the business on a reputation for high-quality work, on-time p
 - Rock tubs
 - Blowers
 - Confined space equipment
+- Trenching machines (up to 200-series excavator)
+- Locating equipment
+- Aerial equipment
+- Fiber blowing equipment
+- Power reel trailers
+- Jetting machine
 
 ## Company details
 - **Company Type:** Installer / service company
 - **Founded:** 2002
-- **Employees:** 12
-- **Ownership:** Private
+- **Employees:** 12-30
+- **Ownership:** Family-owned
 - **Headquarters:** Jonesboro, Arkansas
 
 <details><summary>Sources</summary>
 
 - Founded 2002 by Matt Hale and Barry Brawner -> /about
-- Incorporated May 2007 as subsidiary of Crittco Construction -> /about
-- Hale 20 years water/sewer, Brawner 30 years telecom -> /about
-- Headquarters Jonesboro, Arkansas -> db, /
+- Incorporated May 2007 -> /about
+- Headquartered in Jonesboro, Arkansas -> db, /about
 - Licensed in Arkansas and Tennessee -> /
-- Employee count 12 (db) grown to ~30 -> db, /about
-- Facility ~8,000 sq ft shop plus storage and wash bay -> /services
-- Six drill rigs 7×11 to 24×40 -> /services
-- Services: directional drilling, cable splicing, plowing, pulling/tugging, trenching/excavating, locating, aerial, duct washing, fiber blowing, sewer/water/drainage/electric, communication site work -> /services
-- Equipment fleet listed -> /services
+- Employee count 12-30 -> /about
+- Full-service utility contractor specializing in directional drilling -> /, /services
+- Six drill rigs ranging from 7×11 to 24×40 -> /services
+- Capabilities: directional drilling, cable splicing, plowing, pulling/tugging, trenching/excavating, locating, aerial, duct washing, fiber blowing, sewer/water/drainage/electric, communication site work -> /services
+- Facility ~8,000 sq ft shop space plus storage and covered wash bay -> /services
+- Fleet includes boring rigs, bucket trucks, backhoes, mini excavators, plows, vacuum excavators, bulldozers, service trucks, low boys, tuggers, reel trailers, dump trucks, duct washing machine, trench boxes, rock tubs, blowers, confined space equipment, trenching machines up to 200-series excavator, locating equipment, aerial equipment, fiber blowing equipment, power reel trailers, jetting machine -> /services
 - Customers: Ritter Communications, AT&T, City Water and Light, Hino Motors, Sam's Wholesale, Greene County Tech School, Home Depot, Memphis International Airport -> /about
-- Differentiators: high-quality work, on-time performance, diversified projects, evolving technology, quality workmanship, customer-oriented relationships, safe/efficient/environmentally friendly -> /about
-- Family culture, long-tenured employees -> /about
+- Family-oriented culture, emphasis on employee respect, technological evolution, safe/environmentally friendly practices -> /about
+- Materials: HDPE, copper, fiber optic (single/ribbon), steel, poly, duct, innerduct, microfiber -> /services
+- Company type: installer/service company -> /, /services
 </details>
 
 ---
@@ -156,18 +169,18 @@ The founders built the business on a reputation for high-quality work, on-time p
 **Old description:** Cross Country Cable is a family owned and operated company established in 1991. Specializing in all aspects of low voltage wiring systems, our team is dedicated to quality workmanship and customer satisfaction. We rely on countless years of experience from our technicians in the field to the founder and owner of the company in continuously providing excellent service to our customers.
 
 ## About
-Cross Country Cable, a family-owned and operated business, has been based in Monona, Wisconsin since its founding in 1991. The company was established by its current owner, who remains involved in daily operations alongside a team of experienced technicians.
+Cross Country Cable has operated from Monona, Wisconsin since its founding in 1991. The company is family owned and operated, though the founder's name is not disclosed in public materials. It began as a specialist in low voltage wiring systems and has continued under family leadership for over three decades.
 
-The firm specializes in all aspects of low voltage wiring systems, providing installation, design, and maintenance services for structured cabling, security, audio-visual, and data networks. Its technicians bring decades of field experience to each project, emphasizing quality workmanship and adherence to industry standards.
+The firm focuses on all aspects of low voltage wiring installation and service, covering design, installation, and maintenance. Its technicians bring extensive field experience to each project, though the company does not publish facility size, headcount, or annual volume figures.
 
-Cross Country Cable serves commercial and residential clients throughout the region, including office buildings, educational facilities, healthcare campuses, and multi-family housing. The company works directly with general contractors, property managers, and end users to deliver tailored low voltage solutions.
+Cross Country Cable serves customers requiring low voltage wiring solutions across commercial and residential sectors, but the company does not specify particular industries or client types in its public description.
 
-The company distinguishes itself through its family-owned structure, which it says ensures direct accountability and long-term customer relationships. The founder's continued involvement and the depth of technician experience are cited as key reasons for consistent service quality.
+The company emphasizes quality workmanship and customer satisfaction as its guiding principles, citing the accumulated experience of its field technicians and ownership as the foundation of its service approach.
 
 ## Known for
-- Family-owned and operated since 1991
+- Family owned and operated since 1991
+- Technicians with extensive field experience
 - Specializes in all aspects of low voltage wiring systems
-- Technician experience spans from field to ownership
 - Commitment to quality workmanship and customer satisfaction
 
 ## Capabilities
@@ -181,11 +194,12 @@ The company distinguishes itself through its family-owned structure, which it sa
 
 <details><summary>Sources</summary>
 
-- Family-owned and operated, established 1991 -> db
-- Headquarters in Monona, Wisconsin -> db
+- Family owned and operated -> db
+- Established in 1991 -> db
+- Headquartered in Monona, Wisconsin -> db
 - Specializes in all aspects of low voltage wiring systems -> /
-- Relies on technician experience from field to founder/owner -> /
 - Dedicated to quality workmanship and customer satisfaction -> /
+- Relies on technicians' field experience -> /
 </details>
 
 ---
@@ -195,29 +209,35 @@ The company distinguishes itself through its family-owned structure, which it sa
 **Old description:** Crown Automotive, LLC offers 1,000’s of fast-moving OEM, highest-quality replacement, and special-order part #’s that will save your dealership money when purchased through us. With deeper discounts and customer service that is unrivaled to any other automotive parts supplier, we’ll go the extra mile to benefit your business. If there is a part that we currently don’t have in stock, we are always willing to help source it for you. From custom packaging to fast and free shipping, we do business the right way. The Crown Way.
 
 ## About
-Crown Automotive LLC operates from Bloomington, Minnesota, supplying automotive dealerships with a broad range of original-equipment and replacement parts. The company's founding year and ownership structure are not publicly disclosed.
+Crown Automotive LLC operates from Bloomington, Minnesota, supplying automotive parts to dealerships. The company's founding year and ownership structure are not publicly disclosed, nor are the names of any founders. It serves as a dedicated parts supplier for the automotive retail sector.
 
-The business stocks thousands of fast-moving OEM part numbers and fulfills special orders for less common items. In addition to parts distribution, Crown Automotive provides custom packaging and arranges fast, free shipping on orders. When a part is not in stock, the company sources it through its supplier network.
+The distributor stocks thousands of fast-moving OEM, replacement, and special-order part numbers, aiming to save dealerships money on procurement. It offers custom packaging, fast and free shipping, and will source parts not currently in inventory. The company highlights its willingness to locate hard-to-find components for customers.
 
-Primary customers are franchised and independent automotive dealerships seeking cost-effective parts procurement. The company positions itself as a dedicated dealership supplier, emphasizing deeper discounts than traditional channels.
+Its primary customers are automotive dealerships seeking cost savings on parts procurement. The company positions itself as a dedicated partner for dealership parts departments, focusing on fast-moving and hard-to-find components. It targets dealerships looking for deeper discounts compared to other suppliers.
 
-Crown Automotive differentiates itself through what it calls "The Crown Way" – a commitment to unrivaled customer service, willingness to source hard-to-find parts, and a focus on saving dealerships money on every order.
+Crown Automotive emphasizes deeper discounts and customer service it describes as unrivaled among automotive parts suppliers, operating under a philosophy it calls "The Crown Way." It pledges to go the extra mile to benefit its dealership clients, differentiating itself through service responsiveness and pricing.
 
 ## Known for
-- Deeper discounts on OEM and replacement parts
-- Unrivaled customer service with a "go the extra mile" approach
-- Willingness to source non-stocked parts through supplier network
-- Custom packaging and fast, free shipping on orders
+- Deeper discounts on OEM and replacement parts vs. other suppliers
+- Unrivaled customer service for dealership parts departments
+- Willingness to source out-of-stock or special-order parts
+- Custom packaging options for orders
+- Fast and free shipping on orders
 
 ## Capabilities
 - Automotive parts distribution
-- Special order sourcing
+- OEM parts supply
+- Replacement parts supply
+- Special-order parts procurement
 - Custom packaging
-- Fast shipping
+- Expedited shipping
+- Free shipping
+- Parts sourcing
 
 ## Industries
-- Automotive dealerships
 - Automotive aftermarket
+- Automotive dealerships
+- Automotive parts distribution
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -226,10 +246,12 @@ Crown Automotive differentiates itself through what it calls "The Crown Way" –
 <details><summary>Sources</summary>
 
 - Company name: Crown Automotive LLC -> db
-- Headquarters: Bloomington, Minnesota -> db
-- Business model: Distributes OEM and replacement automotive parts to dealerships -> /
-- Services: Custom packaging, fast and free shipping, special order sourcing -> /
-- Website: crown-parts.com -> db
+- Location: Bloomington, Minnesota -> db
+- Business: Offers thousands of fast-moving OEM, replacement, and special-order part numbers -> /
+- Target customers: Dealerships -> /
+- Services: Custom packaging, fast and free shipping, sourcing out-of-stock parts -> /
+- Claims: Deeper discounts, unrivaled customer service, 'The Crown Way' -> /
+- Website: http://www.crown-parts.com/ -> db
 </details>
 
 ---
@@ -239,19 +261,20 @@ Crown Automotive differentiates itself through what it calls "The Crown Way" –
 **Old description:** We specialize in the custom metal fabrication of clothing display racks, store display fixtures, retail store fixtures, retail display fixtures, wire racks, wire shelving, retail display racks, shelf standards, wall standards, and shelf brackets. Our precision sheet metal fabrication methods adhere to the highest standards. Our steel fabrication and shelving standards are top notch.
 
 ## About
-Crown Metal Manufacturing Co. is based in Elmhurst, Illinois, and was founded in 1948 as a tool and die company. The business soon shifted to direct sales and developed a product line for store fixtures, working with early discounters in the retail sector.
+Crown Metal Manufacturing Co. The company soon pivoted to supplying store‑fixture hardware directly to retailers, building a product line that served early discounters and department stores.
 
-The company specializes in custom metal fabrication of clothing display racks, store display fixtures, wire racks, wire shelving, shelf standards, wall standards, and shelf brackets. Its in-house capabilities include stamping (conventional and CNC turret punch press), roll forming, laser cutting, welding (resistance, brazing, robotic TIG and MIG), press brake forming (mechanical and CNC hydraulic), riveting, assembly, custom labeling, and custom packaging. Production takes place in a 200,000-square-foot single-story facility on a ten-acre site in Elmhurst, supplemented by a 40,000-square-foot warehouse in California.
+Today the firm runs a 200,000‑square‑foot single‑story manufacturing and warehouse building in Elmhurst plus a 40,000‑square‑foot warehouse in California. In‑house capabilities cover stamping (conventional and CNC turret punch press), roll forming, laser cutting, welding (resistance, brazing, robotic TIG and MIG), press‑brake forming (mechanical and CNC hydraulic), riveting, assembly, custom labeling and custom packaging. The output ranges from standard shelf brackets, wall standards and hang‑rail systems to fully custom metal components for retail displays.
 
-Crown Metal serves fashion retail, grocery, mass retail, brand, industry supplier, backroom, and domestic manufacturing segments. It counts five of the top ten U.S. retailers among its customers and supplies a broad cross-section of value-oriented retailers, high-end department stores, and overseas buyers.
+The customer base spans fashion retail, grocery, mass‑market and high‑end department stores. Crown Metal counts five of the top ten U.S. retailers as accounts and ships to virtually every other retailer in the domestic market as well as overseas buyers.
 
-The company emphasizes domestic manufacturing, the ability to produce custom metal parts on request, and what it describes as award-winning customer service as key differentiators.
+The company emphasizes domestic production, highlighting that its merchandise is manufactured in the United States and that it can produce custom materials on request. Its pitch centers on a broad in‑house process portfolio and a long‑standing relationship with major retail chains.
 
 ## Known for
-- Manufactured in the United States
+- Domestic manufacturing in the United States
 - Custom metal fabrication on request
-- Award-winning customer service (as claimed)
-- Established vendor to five of the top ten U.S. retailers
+- In‑house capabilities from stamping through assembly
+- Supplier to five of the top ten U.S. retailers
+- 200,000 sq ft manufacturing campus plus 40,000 sq ft West Coast warehouse
 
 ## Capabilities
 - Stamping (conventional and CNC turret punch press)
@@ -268,15 +291,19 @@ The company emphasizes domestic manufacturing, the ability to produce custom met
 - Fashion Retail
 - Grocery
 - Mass Retail
-- Brand
-- Industry Supplier
-- Backroom
-- Domestic Manufacturing
+- Department Stores
+- Retail
 
 ## Equipment
 - CNC turret punch press
-- Robotic TIG & MIG welding
+- Laser cutting system
+- Robotic TIG & MIG welding cells
 - CNC hydraulic press brake
+- Conventional stamping press
+- Roll forming line
+- Resistance welder
+- Brazing equipment
+- Mechanical press brake
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -285,20 +312,16 @@ The company emphasizes domestic manufacturing, the ability to produce custom met
 
 <details><summary>Sources</summary>
 
-- Founded 1948 as tool and die company -> /about
+- Founded 1948 -> /about
 - Headquarters Elmhurst, Illinois -> /about
-- 200,000 sq ft facility on 10 acres in Elmhurst -> /about
-- 40,000 sq ft warehouse in California -> /about
-- Capabilities: stamping, roll forming, laser cutting, welding, press brake forming, riveting, assembly, custom labeling, custom packaging -> /about
-- Industries: fashion retail, grocery, mass retail, brand, industry supplier, backroom, domestic manufacturing -> /
-- Products: wall standards, shelf brackets, sign holders, face outs, hang rod, peg board, slat wall hardware -> /about
-- Custom metal fabrication upon request -> /
-- Manufactured in the United States -> /
-- Established vendor to five of top ten U.S. retailers -> /about
-- Award-winning customer service claim -> /
-- In-house manufacturing capabilities listed -> /about
-- Equipment: CNC turret punch press, robotic TIG & MIG, CNC hydraulic press brake -> /about
-- Steel fabrication mentioned -> /
+- Facility size 200,000 sq ft on 10 acres -> /about
+- California warehouse 40,000 sq ft -> /about
+- In-house manufacturing capabilities list -> /about
+- Industries served: Fashion Retail, Grocery, Mass Retail -> /
+- Accounts with five of top ten U.S. retailers -> /about
+- Domestic manufacturing emphasis -> /
+- Custom fabrication on request -> /
+- Company name and website -> db
 </details>
 
 ---
@@ -308,35 +331,35 @@ The company emphasizes domestic manufacturing, the ability to produce custom met
 **Old description:** Their expertise in custom fabrication and value-added services has been a game-changer for our production line. You can tell they know this business inside and out.
 
 ## About
-Custom Cable Corp., operating as Custom Wire & Cable, is headquartered in Westbury, New York. The company was founded in 1974 as a small Long Island distributor and has since grown into a global supplier of industrial wire and cable. Ownership details such as family, veteran, or woman-owned status are not publicly disclosed, and the founders are not named in available sources.
+Custom Cable Corp., based in Westbury, New York, has operated since 1974. What began as a small Long Island distributor has grown into a global supplier of industrial wire and cable. The company remains privately held; no founders are named in public materials.
 
-The company maintains an inventory of more than 15,000 active wire and cable variations, ranging from high-temperature wire and coaxial cable to multi-conductor and fiber optic products. Beyond distribution, Custom Cable provides value-added fabrication services including precision striping, twisting, paralleling, bundling, custom printing, dyeing, lashing, and the assembly of generator cable assemblies and fiber patch cords. Its capabilities also cover custom cable solutions, technical consulting, and quality compliance testing to standards such as UL, NEMA, ICEA, MIL, CSA, and VW-1.
+The firm stocks more than 15,000 active wire and cable variations, ranging from high-temperature and coaxial cables to multi-conductor and fiber-optic products. In addition to distribution, it provides value-added fabrication services including precision striping, twisting, paralleling, bundling with custom printing, dyeing, and lashing. The shop also builds generator cable assemblies and fiber patch cords for high-current and high-speed data applications. A team whose combined experience exceeds 150 years, with sales professionals averaging 25 years in the industry, supports technical consulting and rapid fulfillment programs such as emergency shipments and just-in-time delivery.
 
-Custom Cable serves manufacturers, contractors, OEMs, and distributors across a range of industries. Testimonials cite customers in manufacturing, aerospace, construction, electronics, and energy & utilities sectors. The company’s products and services support applications in factories, hospitals, data centers, and transportation systems worldwide.
+Customers span manufacturing, aerospace, construction, electronics, and energy and utilities sectors. Testimonials cite senior engineers, project managers, procurement leads, and plant supervisors from those industries who rely on Custom Cable for both standard stock and custom assemblies. The company also serves OEMs, contractors, and other distributors.
 
-The firm emphasizes a specification-driven approach rather than selling by description, highlighting its technical expertise, responsive service, and dependable turnaround times. Its team averages over 25 years of experience per sales professional, and the company positions its long-term customer relationships and rapid fulfillment — including emergency shipments and just-in-time programs — as core differentiators.
+Custom Cable was founded on the principle of supplying wire and cable by specification rather than description, emphasizing knowledgeable service and long-term relationships. Its stated differentiators include deep inventory, seasoned technical support, and a commitment to compliance with standards such as UL, NEMA, ICEA, MIL, CSA, and VW-1.
 
 ## Known for
-- 15,000+ active wire and cable variations in stock
-- Sales team averages over 25 years of experience
-- Paralleling service reduces labor costs by 50–70%
-- Custom generator cable assemblies and fiber patch cords built to order
-- Materials tested to UL, NEMA, ICEA, MIL, CSA, and VW-1 standards
+- More than 15,000 active wire and cable variations in stock
+- Sales professionals average over 25 years of experience
+- Combined team expertise exceeding 150 years
+- Value-added fabrication: striping, twisting, paralleling, bundling, custom printing, dyeing, lashing
+- Custom generator cable assemblies and fiber patch cords
 
 ## Capabilities
-- Precision color striping
-- Custom wire twisting
+- Striping
+- Twisting
 - Paralleling
-- Bundling and securing
-- Bundling with custom printing
-- Cable dyeing
+- Bundling
+- Bundling Custom Printing
+- Dyeing
 - Lashing
-- Generator cable assembly
-- Fiber patch cord assembly
-- Custom cable solutions (non-standard configurations)
-- Inventory management and rapid fulfillment
-- Technical support and consulting
-- Quality and standards compliance (UL, NEMA, ICEA, MIL, CSA, VW-1)
+- Generator Cable Assemblies
+- Fiber Patch Cords
+- Custom Cable Solutions
+- Inventory & Rapid Fulfillment
+- Technical Support & Consulting
+- Quality & Standards Compliance
 
 ## Industries
 - Manufacturing
@@ -346,7 +369,7 @@ The firm emphasizes a specification-driven approach rather than selling by descr
 - Energy & Utilities
 
 ## Certifications
-- RoHS
+- ROHS
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -355,19 +378,22 @@ The firm emphasizes a specification-driven approach rather than selling by descr
 
 <details><summary>Sources</summary>
 
-- Founded 1974 -> /about-us
+- Founded 1974 -> db, /, /about-us
 - Headquarters Westbury, New York -> db
-- 15,000+ active wire and cable variations in stock -> /capabilities
+- More than 15,000 active wire and cable variations in stock -> /capabilities
 - Sales professionals average over 25 years experience -> /capabilities
-- Paralleling reduces labor costs 50-70% -> /capabilities
-- Capabilities: striping, twisting, paralleling, bundling, custom printing, dyeing, lashing, generator cable assemblies, fiber patch cords -> /capabilities
-- Industries served: manufacturing, aerospace, construction, electronics, energy & utilities -> / (testimonials)
-- Customer types: manufacturers, contractors, OEMs, distributors -> /about-us
-- Standards compliance: UL, NEMA, ICEA, MIL, CSA, VW-1 -> /capabilities
-- RoHS certification -> db
-- Custom cable assemblies and fiber patch cords built to order -> /capabilities
-- Specification-driven approach, not selling by description -> /about-us
-- Rapid fulfillment: emergency shipments, just-in-time programs -> /capabilities
+- Combined team expertise exceeding 150 years -> /capabilities
+- Value-added services: striping, twisting, paralleling, bundling, custom printing, dyeing, lashing -> /capabilities
+- Generator cable assemblies and fiber patch cords -> /capabilities
+- Custom cable solutions for non-standard configurations -> /capabilities
+- Inventory & rapid fulfillment: emergency shipments, just-in-time delivery -> /capabilities
+- Technical support & consulting -> /capabilities
+- Quality & standards compliance: UL, NEMA, ICEA, MIL, CSA, VW-1 -> /capabilities
+- Industries served: manufacturing, aerospace, construction, electronics, energy & utilities -> /, /about-us (testimonials)
+- Certification: ROHS -> db
+- Company type: distributor -> /about-us
+- Founded on principle: supply by specification, knowledgeable service, long-term relationships -> /about-us
+- Built on Relationships. Driven by Service. -> /about-us
 </details>
 
 ---
@@ -377,30 +403,31 @@ The firm emphasizes a specification-driven approach rather than selling by descr
 **Old description:** Our staff has been in the business since 1992, specializing in HVAC fabrication and the general construction trade. We can evaluate your drawings and determine what can be done and how to work around issues.
 
 ## About
-Custom Cut & Fab operates from Mandan, North Dakota, where its staff has been active in metal fabrication since 1992. The company began with a focus on HVAC fabrication and general construction trade work, building experience in evaluating drawings and resolving design issues before production.
+Custom Cut & Fab operates from Mandan, North Dakota, where its staff has been active in metal fabrication since 1992. The business began with a focus on HVAC fabrication and the general construction trade, building a reputation for evaluating customer drawings and resolving design challenges before production starts.
 
-The shop provides custom metal fabrication services, including HVAC fittings, galvanized and stainless steel components, copper countertops, and one-off special projects. Its equipment includes a 6‑by‑12‑foot waterjet capable of cutting materials up to seven inches thick and as thin as .002 inch, handling stone, marble, granite, plastics, foam, wood, and ceramics. A 5‑by‑10‑foot plasma table cuts metal up to 3/16 inch, primarily for HVAC ductwork and metal‑art pieces. The company can act as a subcontractor for large jobs or manage a project from initial design through final delivery.
+The shop provides custom metal fabrication services, including HVAC fittings, galvanized and stainless steel components, and copper countertops. Its primary processes are water jet cutting on a 6‑by‑12‑foot table capable of slicing material up to 7 inches thick and as thin as 0.002 inch, and plasma cutting on a 5‑by‑10‑foot table suited for metal up to 3/16 inch thick. The water jet handles a wide range of materials — stone, marble, granite, plastics, foam, wood, and ceramics — while the plasma table is geared toward HVAC parts and metal art pieces.
 
-Customers come from the HVAC, general construction, and metal‑arts sectors. Contractors seek the firm for ductwork and fitting fabrication, while designers and artists use its waterjet for decorative pieces in stone, metal, and other media. The company also serves clients needing custom countertops and miscellaneous fabricated assemblies.
+The company serves the HVAC, general construction, and metal arts sectors. Customers range from contractors needing a subcontractor for specific fabrication tasks to clients who want a single source to manage a project from initial design through final delivery.
 
-The firm emphasizes its ability to review customer drawings, identify potential problems, and suggest work‑arounds, a capability developed over decades of trade experience. It also offers turnkey project packages that cover the full fabrication cycle.
+What sets the operation apart is its long‑tenured team and its willingness to review drawings early, identify potential issues, and propose work‑arounds. The firm emphasizes taking a client’s vision and delivering a finished project, whether that means supplying a single fitting or coordinating a full fabrication package.
 
 ## Known for
-- Drawing evaluation and feasibility work‑arounds
-- Waterjet cutting up to 7″ thick and .002″ thin
-- Plasma cutting up to 3/16″ for HVAC and metal art
-- Turnkey project management from design to delivery
+- Staff experience dating to 1992
+- Water jet cutting up to 7" thick and 0.002" thin
+- Plasma cutting up to 3/16" thick
+- Drawing evaluation and issue resolution
+- End‑to‑end project management
 
 ## Capabilities
 - HVAC fabrication
 - Custom metal fabrication
-- Waterjet cutting
+- Water jet cutting
 - Plasma cutting
-- Drawing evaluation and feasibility
+- Drawing evaluation
 - Project management
-- Subcontracting
+- Galvanized steel fabrication
+- Stainless steel fabrication
 - Copper countertop fabrication
-- Special project fabrication
 - Metal arts design
 
 ## Industries
@@ -409,11 +436,11 @@ The firm emphasizes its ability to review customer drawings, identify potential 
 - Metal arts
 
 ## Equipment
-- Water Jet (6' x 12' table)
+- Water Jet (6' x 12')
 - Plasma Table (5' x 10')
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1992
 - **Headquarters:** Mandan, North Dakota
 
@@ -421,12 +448,17 @@ The firm emphasizes its ability to review customer drawings, identify potential 
 
 - Founded 1992 -> db
 - Headquarters Mandan, North Dakota -> db
-- Staff in business since 1992 specializing in HVAC fabrication -> homepage
-- Custom metal fabrication, HVAC fittings, galvanized, stainless steel, copper countertops -> homepage
-- Waterjet 6'x12' cuts up to 7" thick and .002" thin, cuts stone, marble, granite, plastic, foam, wood, ceramics -> homepage
-- Plasma table 5'x10' cuts up to 3/16" metal for HVAC and metal arts -> homepage
-- Subcontractor for large projects, turnkey project packages -> homepage
-- Industries: HVAC, general construction, metal arts -> homepage
+- Staff in business since 1992, specializing in HVAC fabrication and general construction trade -> /
+- Custom metal fabrication company -> /
+- Provide expert assistance, subcontractor for metal fabrication, handle projects from beginning to end -> /
+- Evaluate drawings and determine what can be done and work around issues -> /
+- HVAC fittings fabrication -> /
+- Custom fabrication: galvanized, stainless steel, copper countertops -> /
+- Special projects -> /
+- Water Jet equipment: 6'x12', cuts up to 7" thick, .002 material, cuts various materials -> /
+- Plasma Table: 5'x10', cuts up to 3/16" thick metal, used for HVAC fabrication and Metal Arts Design -> /
+- Industries: HVAC, general construction, metal arts design -> /
+- Materials: galvanized steel, stainless steel, copper, stone, marble, granite, plastic, foam, wood, ceramics -> /
 </details>
 
 ---
@@ -436,55 +468,56 @@ The firm emphasizes its ability to review customer drawings, identify potential 
 **Old description:** Founded in 1979, Custom Metal Fabrication, Inc. has strategically aligned with the best material suppliers in the United States. This allows us to offer competitive pricing to our customers due to lower raw material costs. Lower costs combined with our experienced staff results in a positive end result for our customers.
 
 ## About
-Custom Metal Fabrication, Inc. was founded in 1979 in Mobile, Alabama, along Dauphin Island Parkway. The company established strategic relationships with U.S. material suppliers to secure competitive raw material pricing, a foundation that continues to shape its cost structure today.
+Founded in 1979 in Mobile, Alabama, Custom Metal Fabrication, Inc. (CMFI) began as a metal fabrication shop serving industrial and marine markets. The company is privately held; no founder names are disclosed in public materials.
 
-The shop provides industrial and marine metal fabrication services. Industrial work spans carbon steel, stainless steel, and aluminum, covering metal bending, custom fabrication, and projects ranging from prototype designs to facility renovations. Marine fabrication focuses on full-service top-side work for both commercial vessels and pleasure craft, including interior and exterior custom builds in the same three alloys. An in-house engineering team supports projects with CAD-driven design and drafting using AutoCAD, Rhino, Fusion 360, and SOLIDWORKS, offering surface modeling, solid modeling, piping design, and finite element analysis.
+CMFI provides industrial fabrication, marine fabrication, and engineering design services. Its shop handles carbon steel, stainless steel, and aluminum, offering metal bending, custom fabrication, and prototype-to-renovation work. Marine projects cover commercial and pleasure craft, including interior and exterior fabrication. The engineering team uses AutoCAD, Rhino, Fusion 360, and SOLIDWORKS for surface modeling, solid modeling, piping design, and finite element analysis.
 
-Customers come from industrial and marine sectors, including commercial ship operators and recreational boat owners seeking custom topside fabrication. The company does not publicly disclose specific client names or annual volumes.
+The company serves industrial manufacturers and marine builders, producing components for commercial vessels, pleasure craft, and general industrial applications. Customers range from prototype developers to renovation contractors.
 
-Leadership emphasizes that its supplier alignments lower material costs, which—combined with an experienced workforce—delivers a positive outcome for customers.
+CMFI emphasizes its strategic supplier relationships that lower raw material costs, combined with an experienced staff, as its core advantage. The firm positions itself as a full-service partner from design through fabrication.
 
 ## Known for
 - Strategic supplier relationships for lower raw material costs
 - Experienced fabrication staff
 - Full-service top-side marine fabrication for commercial and pleasure craft
-- In-house engineering with advanced CAD (AutoCAD, Rhino, Fusion 360, SOLIDWORKS)
-- Capability from prototype through renovation
+- In-house engineering design with advanced CAD (AutoCAD, Rhino, Fusion 360, SOLIDWORKS)
+- Prototype-to-renovation fabrication capability
 
 ## Capabilities
-- Industrial metal fabrication
+- Industrial fabrication
+- Marine fabrication
 - Metal bending
 - Custom metal fabrication
-- Marine top-side fabrication
-- Commercial marine fabrication
-- Pleasure craft fabrication
+- Prototype design
+- Renovation fabrication
 - Engineering design and drafting
 - CAD modeling (AutoCAD, Rhino, Fusion 360, SOLIDWORKS)
-- Surface modeling (Rhino 3D)
+- Advance surface modeling (Rhino 3D)
 - Solid modeling (Fusion 360, SOLIDWORKS)
 - Piping design (Autodesk MEP)
 - Finite element analysis (Fusion 360)
-- Prototype development
-- Renovation fabrication
 
 ## Industries
 - Industrial
-- Marine (commercial)
-- Marine (pleasure craft)
+- Marine
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1979
 - **Headquarters:** Mobile, Alabama
 
 <details><summary>Sources</summary>
 
-- Founded in 1979 -> db, home page
-- Headquartered in Mobile, Alabama -> db, home page (address: 6587 Dauphin Island pkw. mobile AL 36605)
-- Offers industrial fabrication with carbon steel, stainless steel, aluminum, metal bending, custom fabrication, prototype to renovations -> home page
-- Offers marine fabrication for commercial and pleasure crafts, interior/exterior, same alloys -> home page
-- Provides engineering design/drafting with AutoCAD, Rhino, Fusion 360, SOLIDWORKS, surface modeling, solid modeling, piping design, FEA -> home page
-- Strategic supplier alignment for competitive pricing -> home page
+- Founded in 1979 -> db
+- Headquartered in Mobile, Alabama -> db
+- Provides industrial fabrication, marine fabrication, and engineering design services -> /
+- Works with carbon steel, stainless steel, and aluminum -> /
+- Offers metal bending, custom fabrication, prototype to renovation -> /
+- Marine fabrication for commercial and pleasure craft, interior and exterior -> /
+- Engineering design using AutoCAD, Rhino, Fusion 360, SOLIDWORKS -> /
+- Specializes in advance surface modeling, solid modeling, piping design, finite element analysis -> /
+- Strategic supplier relationships for competitive pricing -> /
+- Address: 6587 Dauphin Island Parkway, Mobile, AL 36605 -> /
 </details>
 
 ---
@@ -494,38 +527,46 @@ Leadership emphasizes that its supplier alignments lower material costs, which�
 **Old description:** As a leading manufacturer of medical guide wires, we can support your required specifications or the contractual needs of OEM products. Production runs are available for prototypes to large contract runs and from bulk & non-sterile assembly to single with cleanroom assembly.
 
 ## About
-Based in Port Washington, Wisconsin, Custom Wire Technologies (CWT) has over 50 years of industry experience as an OEM medical component manufacturer. The company specializes in precision wire components for the medical device sector.
+Custom Wire Technologies (CWT) operates from Port Washington, Wisconsin. The company has over 50 years of industry experience as an OEM medical component manufacturer.
 
-CWT produces fine and ultra-fine wire components, including guidewires, coiled components, and Nitinol products. Its capabilities cover wire coiling (reinforcement coils, compression springs, Nitinol coils), wire grinding (core wire, mandrel, hypotube, orthopedic), wire forming (Nitinol shape setting, K-wires), laser welding of ultra-fine wire, laser marking, medical pad printing, and cleanroom assembly. The company handles production runs from prototypes to large contract volumes, offering both bulk non-sterile and single-unit sterile assembly.
+CWT produces medical guide wires, fine wire components, nitinol products, coiled components, wire forms, and assemblies for medical devices. Its processes include custom wire coiling, grinding, wire forming, fine wire welding, laser processing, manufacturing process validation, cleanroom assembly, laser marking, medical pad printing, and nitinol shape setting. Capabilities also cover core wire grinding, hypotube grinding, orthopedic wire manufacturing, compression spring coiling, coil finishing, reinforcement coil manufacturing, fine wire coiling, nitinol coil manufacturing, and nitinol K‑wire manufacturing. The company handles production runs from prototypes to large contract volumes, and from bulk non‑sterile assembly to single‑piece cleanroom assembly.
 
-The company serves medical device OEMs ranging from large manufacturers to entrepreneurial startups. Its components are used in catheter accessories, cardiovascular valves, guidewires, and a variety of dental and surgical devices. CWT emphasizes manufacturing process validation and works with customers worldwide.
+The company serves the medical device industry, supplying large OEM manufacturers and entrepreneurial startups. Its components are used in catheter accessories, cardiovascular valves, guidewires, dental devices, and surgical instruments.
 
-CWT highlights its consistent precision, high-quality repeatability, and implementation of the latest technology as key differentiators. The firm states that its management and production teams deliver unparalleled customer service, quality, and cost-effectiveness for specific medical device needs.
+CWT emphasizes its implementation of the latest technology, ISO 13485 certification, and a focus on unparalleled customer service, quality, and cost‑effectiveness for each customer’s specific needs.
 
 ## Known for
 - Over 50 years of industry experience
-- ISO 13485 certified quality management
-- Cleanroom assembly for sterile medical components
-- Laser welding of ultra-fine wire with specialty in small diameters
-- Production runs from prototype to large contract volumes
+- ISO 13485 certified
+- Global customer base from large OEMs to startups
+- Prototype to large contract runs
+- Cleanroom assembly and laser welding capabilities
 
 ## Capabilities
-- Wire coiling (Nitinol, reinforcement, fine wire, compression springs)
-- Coil finishing
-- Wire grinding (core wire, mandrel, hypotube, orthopedic)
-- Wire forming (Nitinol shape setting, Nitinol K-wires)
-- Laser welding (ultra-fine wire)
-- Laser marking
-- Medical pad printing
-- Cleanroom assembly
-- Manufacturing process validation
-- Custom guidewire development, prototyping, and assembly
+- Custom wire coiling
+- Custom grinding
+- Wire forming
+- Custom fine wire design
 - Fine wire welding
 - Laser processing
-- Custom fine wire design
+- Manufacturing process validation
+- Cleanroom assembly
+- Laser marking
+- Medical pad printing
+- Nitinol shape setting
+- Nitinol grinding
+- Core wire grinding
+- Hypotube grinding
+- Orthopedic wire manufacturing
+- Compression spring coiling
+- Coil finishing
+- Reinforcement coil manufacturing
+- Fine wire coiling
+- Nitinol coil manufacturing
+- Nitinol K-wire manufacturing
 
 ## Industries
-- Medical device manufacturing
+- Medical devices
 - Catheter accessories
 - Cardiovascular valves
 - Guidewires
@@ -541,15 +582,15 @@ CWT highlights its consistent precision, high-quality repeatability, and impleme
 
 <details><summary>Sources</summary>
 
-- Headquarters: Port Washington, Wisconsin -> / (address) and db
+- Location: Port Washington, WI -> db, /
 - Over 50 years industry experience -> /about
-- ISO 13485 certified -> /about and db
-- Manufactures medical guide wires, fine wire components, Nitinol products -> / and description
-- Processes: coiling, grinding, wire forming, laser welding, laser marking, pad printing, cleanroom assembly, process validation -> / and /about
-- Serves medical device OEMs, catheter accessories, cardiovascular valves, guidewires, dental and surgical devices -> /
-- Production runs from prototypes to large contract runs -> description and /
-- Laser welding of ultra-fine wire specialty -> / (products list)
-- Serves large medical OEM manufacturers to small entrepreneurial medical device startups -> /about
+- ISO 13485 certified -> db, /about
+- Processes: coiling, grinding, wire forming, laser welding, cleanroom assembly -> /about, /
+- Industries: medical device OEMs, startups, catheter accessories, cardiovascular valves, guidewires, dental, surgical -> /, /about
+- Volume: prototype to large contract runs -> db description
+- Materials: Nitinol, fine wire, ultra-fine wire -> /, /about
+- Company type: manufacturer -> db description
+- Headquarters address: 1123 Mineral Springs Drive, Port Washington, WI 53074 -> /, /about
 </details>
 
 ---
@@ -559,60 +600,57 @@ CWT highlights its consistent precision, high-quality repeatability, and impleme
 **Old description:** Our handcrafted wooden products reflect generations of care, creativity, and hands-on skill. Founded by Troy and Sharon Foster, our family business brings together a love of woodworking, strong values, and a deep commitment to making every item count. Troy’s background as a proud Disabled Veteran of the United States Air Force adds another layer of dedication to everything we build. With help from children, grandchildren, and great-grandchildren, we create custom wood gifts and keepsakes that feel deeply personal. Each handcrafted wooden product is made in the USA and shaped with patience, precision, and the kind of pride only a true family enterprise can offer.
 
 ## About
-Custom Wood Artistry operates from Peever, South Dakota, where Troy and Sharon Foster founded the family-owned shop after Troy completed his service in the United States Air Force. A disabled veteran, Troy has spent a lifetime working with wood, from home building to custom pieces. The business is a multi-generational enterprise: the Fosters have been married for over 50 years and their six children, fourteen grandchildren, and two great-grandchildren all actively contribute to daily operations.
+Custom Wood Artistry operates from Peever, South Dakota, as a family-owned enterprise founded by Troy and Sharon Foster. Troy Foster, a disabled veteran of the U.S. Air Force, began woodworking after his military service, and the couple has run the business for over 50 years with the involvement of their children, grandchildren, and great-grandchildren.
 
-The company produces handcrafted wooden gifts, decor, and keepsakes entirely in the United States. Its catalog spans snack trays and serving boards, cribbage boards, lidded boxes with magnetic closures, plaques and wall signs, magnets, wood toys, and numismatic displays for coins and medallions. A dedicated wood engraving service adds personalized finishing touches. Products are shaped from a rotating selection of domestic and exotic hardwoods — including Sapele, Yellowheart, Wenge, Bubinga, Paduk, Purpleheart, Zebrawood, Lacewood, and Canary — with attention to grain, finish, and detail.
+The shop produces handcrafted wooden gifts and keepsakes, including cribbage boards, snack trays, serving bowls, boxes with magnetic lids, plaques, magnets, and wood toys. All items are made in the USA using domestic hardwoods such as sapele, wenge, bubinga, purpleheart, and zebrawood, with custom engraving available for personalization.
 
-Customers range from individuals seeking personalized gifts for birthdays, military honors, or corporate thank-yous to restaurants and businesses ordering custom signs. The patriotic and military-themed line — featuring branch-specific lids, eagle boxes, and flag-inspired trays — serves veterans, active-duty families, and collectors. Numismatic trays and boxes cater to coin collectors. Nationwide shipping extends the shop's reach beyond its rural South Dakota location.
+Customers range from individuals seeking personalized gifts for birthdays, military recognition, or corporate thank-yous to restaurants and businesses ordering custom signs and decor. The company ships nationwide and emphasizes one-of-a-kind pieces shaped by multi-generational craftsmanship.
 
-The Fosters frame the business around generational pride and the desire to turn meaningful moments into lasting keepsakes. Troy's military background is cited as a source of discipline and dedication that informs every build, while the family's collective involvement ensures each piece carries a personal touch that mass-produced alternatives cannot replicate.
+The Fosters attribute their differentiation to the pride of a true family enterprise, the precision that comes from decades of hands-on skill, and the personal attention given to grain, finish, and detail in every piece.
 
 ## Known for
-- Multi-generational family operation with hands-on involvement from children, grandchildren, and great-grandchildren
-- Founder Troy Foster is a Disabled Veteran of the U.S. Air Force, bringing military discipline to craftsmanship
-- Every piece made in the USA with attention to grain, finish, and detail
-- Nationwide shipping on custom wood gifts and keepsakes
-- Personalized engraving service for custom finishing touches
+- Made in the USA
+- Multi-generational family ownership
+- Founder is a disabled Air Force veteran
+- Custom engraving on all products
+- Handcrafted from domestic hardwoods
 
 ## Capabilities
 - Wood engraving
-- Custom woodworking
-- Handcrafted wood products
-- Wood sign making
-- Wood turning
-- Laser engraving
-- Custom wood gifts
-- Personalized wood products
+- Custom wood sign making
+- Personalized wooden gift manufacturing
+- Handcrafted home decor production
+- Custom wood gift design
+- Cribbage board fabrication
+- Snack tray and bowl turning
+- Box making with magnetic lids
 
 ## Industries
-- Gift and specialty retail
 - Home decor
-- Military and veteran memorabilia
-- Numismatic and collectible displays
-- Restaurant and business signage
+- Restaurant
+- Business gifts
+- Gift industry
+- Special events
+- Military recognition
 
 ## Company details
 - **Company Type:** Manufacturer
-- **Ownership:** Family-owned, Veteran-owned
+- **Ownership:** Family-owned, Veteran-owned (Disabled Veteran)
 - **Headquarters:** Peever, South Dakota
 
 <details><summary>Sources</summary>
 
-- Company name: Custom Wood Artistry -> db
-- Founders: Troy and Sharon Foster -> /
-- Location: Peever, South Dakota -> db, /
+- Company name and location -> db
+- Founders Troy and Sharon Foster -> /
+- Family-owned, married over 50 years, multi-generational involvement -> /
 - Troy Foster is a Disabled Veteran of the U.S. Air Force -> /
-- Family-owned, multi-generational involvement (children, grandchildren, great-grandchildren) -> /
-- Married over 50 years, six children, fourteen grandchildren, two great-grandchildren -> /
-- Business started after Troy's military service -> /
-- Products: snack trays, cribbage boards, boxes, plaques, magnets, wood toys, patriotic items, home & kitchen, numismatic displays -> /
-- Wood engraving services offered -> /, db
-- Made in USA -> /
-- Nationwide shipping -> /
-- Materials: Sapele, Yellowheart, Wenge, Bubinga, Paduk, Purpleheart, Zebrawood, Lacewood, Canary, etc. -> /
-- Patriotic/military-themed product line -> /
-- Custom signs for homes, restaurants, businesses, events -> /
-- Personalized gifts for birthdays, military service, corporate thanks -> /
+- Business began after Troy's military service -> /
+- Products: custom wood gifts, cribbage boards, snack trays, boxes, plaques, magnets, wood toys -> /
+- Made in the USA -> /
+- Wood engraving services offered -> /
+- Materials: Sapele, Yellow heart, Wenge, Bubinga, Canary, Zebrawood, Paduk, Purpleheart, Lacewood -> /
+- Industries served: homes, restaurants, businesses, gifts, special events, military recognition -> /
+- Ships nationwide -> /
 </details>
 
 ---

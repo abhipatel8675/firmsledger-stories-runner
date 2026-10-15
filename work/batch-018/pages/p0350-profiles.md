@@ -3,55 +3,54 @@
 **Old description:** HVAC Ductwork Welding and Custom Fabrication Bending and Shering
 
 ## About
-HVAC Metals, LLC operates a custom sheet metal fabrication shop in Kearny, New Jersey. Founded in 2015, the company is family-owned and family-operated, built on principles of quality, integrity, and pride. It began as a specialized B2B supplier of wholesale HVAC ductwork and contractor supplies across New Jersey, New York, and Pennsylvania.
+HVAC Metals, LLC is a family-owned and family-operated custom sheet metal fabrication shop founded in 2015 in Kearny, New Jersey. The company began as a specialized B2B supplier of wholesale HVAC ductwork and contractor supplies across New Jersey, New York, and Pennsylvania.
 
-The shop manufactures precision rectangular, spiral, and oval ductwork in single- and double-wall designs, along with custom HVAC curbs, curb adapters, and equipment rails. Production relies on galvanized steel, stainless steel, aluminum, copper, PCD, and galvanneal, processed through a 250-ton Accurpress brake, an Accurshear shear capable of 1/4-inch thickness by 10-foot length, a recently added state-of-the-art panel bending machine, and precision laser cutting. The facility also provides shop drawings, onsite measuring, and free estimates from blueprints or material lists.
+The shop manufactures rectangular, round, spiral, and oval ductwork in single- and double-wall designs, along with custom HVAC curbs, curb adapters, and equipment rails. Its facility leverages a 250-ton Accurpress brake and Accurshear for bending and shearing material up to 1/4-inch thick and 10 feet long, a state-of-the-art panel bending machine for high-volume accuracy, and precision laser cutting. The company also provides shop drawings, onsite measuring, and estimating software for competitive pricing.
 
-HVAC Metals serves HVAC contractors throughout the tri-state area, with projects ranging from commercial and residential installations to data-center cooling, high-rise compliance (including Local Law 97), and commercial grease-duct fabrication. The company positions itself as a one-stop source, offering direct access to all installation materials and a dedicated fleet that can deliver to job sites as early as 6:00 AM.
+HVAC Metals serves HVAC contractors throughout the Tri-state area, covering all New Jersey counties, New York City boroughs, and select Pennsylvania regions. Recent projects include high-rise HVAC compliance for Local Law 97 in Hudson County, data center cooling systems, and commercial grease duct fabrication.
 
-The business emphasizes galvanized steel for its durability and corrosion resistance in the region’s humid climate, and it highlights fast turnaround, tight air seals, and full compliance with New Jersey HVAC codes as core differentiators.
+The company differentiates itself with early-morning job-site deliveries from a dedicated fleet of box trucks, direct material access for immediate installation, and a focus on fast turnaround for custom ductwork, all guided by a family-owned commitment to quality and integrity.
 
 ## Known for
-- Family-owned and family-operated with a focus on quality, integrity, and pride
-- Early-bird logistics: job-site deliveries as early as 6:00 AM via dedicated box-truck fleet
-- Galvanized steel specified for durability and corrosion resistance in humid climates
-- Precision rectangular, spiral, and oval ductwork meeting New Jersey HVAC codes
-- Free estimates from blueprints, shop drawings, or material lists with onsite measuring
+- Early-bird logistics: job-site deliveries as early as 6:00 AM via dedicated fleet
+- Direct access to materials and supplies for immediate installation
+- Fast-turnaround custom ductwork fabrication
+- Family-owned operation emphasizing quality, integrity, and pride
+- State-of-the-art panel bending machine for mass production accuracy
 
 ## Capabilities
 - Custom sheet metal fabrication
 - HVAC ductwork welding
-- Bending and shearing (up to 1/4" thick, 10 ft long)
-- Precision laser cutting
+- Bending and shearing (up to 1/4" thick, 10 ft)
 - Panel bending
-- Shop drawings and estimating
-- Custom HVAC curbs, curb adapters, equipment rails
-- Rectangular ductwork (single- and double-wall)
-- Spiral ductwork
-- Oval ductwork
-- Galvanized steel fabrication
-- Stainless steel fabrication
-- Aluminum fabrication
-- Copper fabrication
-- Galvanneal fabrication
-- PCD fabrication
+- Precision laser cutting
+- Rectangular ductwork fabrication
+- Round and spiral ductwork fabrication
+- Oval ductwork fabrication
+- Custom HVAC curb and curb adapter fabrication
+- Equipment rail fabrication
+- Shop drawing creation
+- Onsite measuring
+- Estimating with software
+- Single- and double-wall duct system fabrication
+- Airflow optimization
+- NJ HVAC code compliance
 
 ## Industries
 - HVAC contractors
-- Commercial HVAC
-- Residential HVAC
-- Data center cooling
-- High-rise HVAC (Local Law 97 compliance)
-- Commercial grease duct fabrication
+- Commercial construction
+- High-rise residential (Local Law 97)
+- Data centers
+- Commercial kitchen ventilation (grease duct)
 
 ## Equipment
 - 250-ton Accurpress brake
 - Accurshear shear
-- State-of-the-art panel bending machine
-- Precision laser cutting system
+- Panel bending machine
+- Precision laser cutter
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 2015
 - **Ownership:** Family-owned
 - **Headquarters:** Kearny, New Jersey
@@ -59,20 +58,20 @@ The business emphasizes galvanized steel for its durability and corrosion resist
 <details><summary>Sources</summary>
 
 - Founded in 2015 -> db
-- Family-owned and family-operated -> /
+- Family-owned and family-operated -> /about-us
 - Located in Kearny, New Jersey -> /
-- Manufactures precision rectangular, spiral, oval ductwork -> /
-- Uses galvanized steel, stainless steel, aluminum, copper, PCD, galvanneal -> /
-- Equipment: 250-ton Accurpress and Accurshear -> /
-- Panel bending machine added recently -> /
+- Manufactures rectangular, round, spiral, oval ductwork -> /
+- Materials: galvanized steel, stainless steel, aluminum, copper, galvanneal, PCD -> /
+- Equipment: 250-ton Accurpress, Accurshear, panel bending machine, laser cutting -> /
+- Services: shop drawings, onsite measuring, estimating software -> /
+- Service area: NJ, NY, PA -> /about-us
 - Early-bird logistics 6 AM delivery -> /about-us
-- Service area NJ, NY, PA -> /, /about-us
-- Industries: HVAC contractors, data center cooling, high-rise, grease duct -> /
-- Free estimates using blueprints, shop drawings -> /
-- Shop drawings with onsite measuring -> /
-- Laser cutting capability -> /
-- Compliance with NJ HVAC codes -> /
+- Projects: Local Law 97 high rise, data center cooling, grease duct -> /
+- Family-owned commitment to quality, integrity, pride -> /about-us
 - Custom HVAC curbs, curb adapters, equipment rails -> /
+- Single- and double-wall duct systems -> /
+- Compliance with NJ HVAC codes -> /
+- Bending and shearing up to 1/4" thick by 10ft long -> /
 </details>
 
 ---
@@ -82,26 +81,32 @@ The business emphasizes galvanized steel for its durability and corrosion resist
 **Old description:** ), Santa Fe’s community oriented natural fiber and fabric studio. At Hacer, we believe making and crafting have the ability to heal our minds, bodies, and souls. That’s why we’re dedicated to providing you the materials and inspiration for your fiber crafting journey.
 
 ## About
-Hacer Santa Fe operates as a community-oriented natural fiber and fabric studio in Santa Fe, New Mexico. The shop describes itself as a place where making and crafting have the ability to heal minds, bodies, and souls, and it is dedicated to providing materials and inspiration for fiber crafting journeys.
+Hacer Santa Fe operates in Santa Fe, New Mexico, as a community-oriented natural fiber and fabric studio. The founding year and founders are not publicly disclosed. The name "Hacer," Spanish for "to make" and pronounced "ah-sehr," reflects its mission to provide materials and inspiration for fiber crafting journeys.
 
-The studio stocks a curated selection of fabrics, yarns, spinning and felting fibers, embroidery floss, and kits from brands such as Moda Fabrics, Art Gallery Fabrics, Ruby Star Society, and Cosmo. Specific offerings include 14 Wale Corduroy, cotton canvas, Mochi Linen, and a range of sashiko threads, templates, and mending kits. Beyond retail, Hacer provides maker groups, project support, and classes for crafters of all levels.
+The shop stocks a curated selection of fabrics, yarns, spinning and felting fibers, embroidery floss, and kits from brands such as Moda Fabrics, Cloud 9, Art Gallery Fabrics, Ruby Star Society, and Cosmo. Beyond retail, Hacer hosts maker groups, offers project support, and runs classes covering techniques like sashiko mending and embroidery. Facility size, headcount, and sales volumes are not disclosed.
 
-The business serves individual crafters, hobbyists, and fiber artists seeking both supplies and a communal workspace. Its focus on natural fibers and traditional techniques like sashiko mending attracts customers interested in slow fashion and handwork.
+The store serves individual crafters, knitters, sewers, and fiber artists seeking natural materials and community workspace. Its offerings cater to hobbyists and makers pursuing projects ranging from garment sewing to decorative stitching, with a focus on accessible, hands-on learning.
 
-Founded on the belief that crafting has therapeutic value, Hacer Santa Fe aims to supply not only materials but also the inspiration and community support that sustain a fiber crafting practice.
+Hacer was founded on the belief that making and crafting can heal minds, bodies, and souls, positioning the studio as a gathering place for creative practice rather than solely a supply outlet.
 
 ## Known for
 - Community-oriented natural fiber and fabric studio
-- Belief that making and crafting heal mind, body, and soul
-- Curated selection of unique fabrics, yarns, and fibers from independent brands
-- Maker groups, project support, and classes offered on-site
-- Focus on traditional crafts such as sashiko mending and embroidery
+- Offers maker groups, project support, and hands-on classes
+- Curates natural fibers and fabrics from multiple independent brands
+- Founded on the belief that crafting heals mind, body, and soul
+- Provides sashiko mending supplies and instruction
 
 ## Capabilities
-- Retail sales of fabrics and yarns
-- Fiber arts classes and workshops
-- Maker community space and project support
-- Sashiko and embroidery supplies
+- Fabric and yarn retail
+- Craft classes and workshops
+- Maker community space
+- Project consultation
+- Sashiko instruction
+
+## Industries
+- Arts and crafts
+- Textile retail
+- Fiber arts education
 
 ## Company details
 - **Company Type:** Retailer
@@ -109,14 +114,16 @@ Founded on the belief that crafting has therapeutic value, Hacer Santa Fe aims t
 
 <details><summary>Sources</summary>
 
-- Name: Hacer Santa Fe -> db
+- Company name: Hacer Santa Fe -> db
 - Location: Santa Fe, New Mexico -> db
 - Description: community oriented natural fiber and fabric studio -> db
-- Products: fabrics, yarns, spinning/felting fibers, embroidery floss, kits -> db, /
-- Services: maker groups, project support, classes -> /
-- Brands carried: Moda Fabrics, Art Gallery Fabrics, Ruby Star Society, Cosmo, etc. -> /
-- Mission: making and crafting heal minds, bodies, souls -> /
-- Specific products: 14 Wale Corduroy, Cotton Canvas, Mochi Linen, Sashiko thread, Sashiko kits -> /
+- Website: hacersantafe.com -> db
+- Meaning of Hacer: 'to make' in Spanish, pronounced 'ah-sehr' -> /
+- Belief that making and crafting heal minds, bodies, souls -> /
+- Offers fabrics, yarns, spinning/felting fibers, embroidery floss, kits -> /
+- Hosts maker groups, project support, classes -> /
+- Carries brands: Moda Fabrics, Cloud 9, Art Gallery Fabrics, Ruby Star Society, Free Spirit Fabrics, Windham, Cosmo, The Colonial Needle, Checker Distributors, Hachette Book Group, Approved Textiles, Miniature Rhino -> /
+- Sells sashiko mending supplies, templates, books, kits -> /
 </details>
 
 ---
@@ -126,36 +133,39 @@ Founded on the belief that crafting has therapeutic value, Hacer Santa Fe aims t
 **Old description:** Founded in 1923, the company has a long history of providing high-quality folding cartons and set-up boxes to customers across various industries.
 
 ## About
-Hahn Packaging operates from Fort Smith, Arkansas. Founded in 1923 by sisters Bird Smith Johnson and Isla Re Smith Vaile as the TJ Smith Box Company, the business began in their garage with two pieces of used equipment. The sisters served as the sales force across Arkansas, Oklahoma, Missouri, and Louisiana. Since 1996, the company has been owned and operated by two generations of the Hahn family; Richard Hahn led as president until 2014, when his son Chris Hahn assumed ownership. The firm adopted its current name in 2023 to mark its second century.
+Hahn Packaging operates from Fort Smith, Arkansas, where it was founded in 1923 as the TJ Smith Box Company by sisters Bird Smith Johnson and Isla Re Smith Vaile. The business began in their garage with two pieces of used equipment, and the sisters served as the sales force across Arkansas, Oklahoma, Missouri, and Louisiana. Since 1996, the company has been owned and operated by two generations of the Hahn family, with Richard Hahn as president until 2014 and his son Chris Hahn taking over thereafter. In 2023, the firm adopted the Hahn Packaging name to reflect the current family leadership.
 
-The company manufactures paperboard folding cartons and rigid set-up boxes. Folding cartons are produced in styles such as tuck-end, auto-lock, and gable-top, with the option of 100% recycled content. Set-up boxes feature printed exteriors and custom-cut interior trays for product protection and presentation. The operation includes pre-press and print production departments, offering design, prototyping, and full production through shipping. Volumes range from 1,000 pieces to several hundred thousand per order.
+The company manufactures folding cartons and rigid set-up boxes, offering a range of styles including tuck-end, auto-lock, and gable-top cartons, as well as custom set-up boxes with printed exteriors and die-cut interior trays. Production capabilities cover pre-press, printing, die-cutting, gluing, and finishing, with the option to use 100% recycled paperboard. Hahn Packaging serves orders from as few as 1,000 pieces up to several hundred thousand, positioning itself as a one-stop shop from design and prototyping through production and shipping.
 
-Hahn Packaging sells to wholesalers, distributors, and industrial customers across multiple sectors. Its boxes serve applications including retail packaging, business cards, stationery, and specialty gift or product presentation. The company does not disclose specific industry verticals beyond general wholesale and distribution channels.
+Primary customers are wholesalers and distributors across various industries, though specific sectors are not detailed in the source material. The product line also includes business card and stationery boxes designed for functionality and sustainability, indicating a focus on commercial and professional packaging needs.
 
-The founders started the business to supply custom boxes regionally; the Hahn family continued the legacy citing a commitment to quality and innovation. The company emphasizes forward-thinking exploration of new technologies and materials while maintaining heritage standards.
+Leadership emphasizes a commitment to quality and innovation, citing the company's forward-thinking approach and exploration of new technologies and materials as key differentiators. The family-owned heritage is presented as a foundation for maintaining high standards and customer service.
 
 ## Known for
-- Family-owned since 1996 with two generations of Hahn leadership
-- One-stop-shop from design and prototyping through production and shipping
-- Offers 100% recycled paper content for folding cartons
-- Produces rigid set-up boxes with custom interior trays and no raw edges
-- Serves volumes from 1,000 to several hundred thousand pieces per order
+- Family-owned since 1996 with over 100 years of continuous operation
+- Orders from 1,000 pieces to several hundred thousand
+- 100% recycled paperboard option available
+- In-house design, prototyping, printing, and finishing
+- Forward-thinking adoption of new technologies and materials
 
 ## Capabilities
 - Folding carton manufacturing
 - Set-up box manufacturing
-- Pre-press services
-- Print production
-- Design and prototyping
-- Custom interior tray fabrication
-- Recycled paperboard processing
 - Business card box manufacturing
 - Stationery box manufacturing
+- Pre-press services
+- Print production
+- Die-cutting
+- Gluing and finishing
+- Custom interior tray design
+- Window patching
+- Hang tab integration
+- Design and prototyping
+- One-stop-shop from design to shipping
 
 ## Industries
-- Wholesale packaging
-- Distribution packaging
-- Industrial packaging
+- Wholesalers
+- Distributors
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -165,24 +175,24 @@ The founders started the business to supply custom boxes regionally; the Hahn fa
 
 <details><summary>Sources</summary>
 
-- Founded 1923 by Bird Smith Johnson and Isla Re Smith Vaile -> /about
+- Founded in 1923 as TJ Smith Box Company -> /about
+- Founders: Bird Smith Johnson and Isla Re Smith Vaile -> /about
 - Started in garage with two used equipment pieces -> /about
-- Originally TJ Smith Box Company -> /about, /
-- Family-owned since 1996, Hahn Family -> /about
-- Richard Hahn president 1996-2014, Chris Hahn from 2014 -> /about
+- Family-owned since 1996 by Hahn family -> /about
 - Renamed Hahn Packaging in 2023 -> /about
-- Location Fort Smith, Arkansas -> /about, /, db
-- Manufactures folding cartons and set-up boxes -> /about, /
-- Folding carton styles: tuck-end, auto-lock, gable-top -> /
-- 100% recycled paper option -> /
-- Set-up boxes with printed exteriors and custom interior trays -> /
-- Pre-press and print production departments -> /, db
-- Design, prototyping, production, shipping one-stop-shop -> /
-- Volume range 1,000 to several hundred thousand -> /about, /
-- Serves wholesalers, distributors, industrial customers -> /about
-- Business card and stationery boxes -> /
+- Manufactures folding cartons and set-up boxes -> /about
+- Offers tuck-end, auto-lock, gable-top cartons -> /
+- Offers 100% recycled paperboard option -> /
+- Order range 1,000 pieces to several hundred thousand -> /about
+- Serves wholesalers and distributors -> /about
+- Provides business card and stationery boxes -> /
+- In-house pre-press, printing, die-cutting, gluing, finishing -> /
+- Design and prototyping to production and shipping -> /
+- Custom interior trays, window patching, hang tabs -> /
 - Commitment to quality and innovation -> /about
 - Forward-thinking, exploring new technologies and materials -> /about
+- Headquarters: Fort Smith, Arkansas -> db
+- Company type: Manufacturer -> db
 </details>
 
 ---
@@ -192,37 +202,36 @@ The founders started the business to supply custom boxes regionally; the Hahn fa
 **Old description:** At Haley’s Metal Shop tradition meets innovation in every project we undertake. As a fifth-generation family-owned metal shop, we pride ourselves on our rich legacy of craftsmanship and dedication to excellence. From custom metal fabrication to industrial sheet metal solutions, we blend time-honored techniques with cutting-edge technology to deliver unmatched quality and precision to our clients.
 
 ## About
-Haley's Metal Shop operates from Biddeford, Maine, where it was founded in 1917. The company remains a fifth-generation family-owned business, now serving commercial and industrial clients across New England.
+Haley's Metal Shop, Inc. has operated from Biddeford, Maine since 1917. The fifth-generation family-owned business traces its roots to the Haley family, who established the shop over a century ago to serve the metalworking needs of northern New England.
 
-The shop provides custom metal fabrication, commercial and industrial sheet metal work, and commercial/industrial HVAC services including ductwork, ventilation, metal roofing, and cladding. Its capabilities span design and engineering through fabrication and installation, with recent projects ranging from ornamental metal details to large-scale mechanical systems.
+The company provides custom metal fabrication, commercial and industrial sheet metal work, and commercial/industrial HVAC systems. Its fabrication shop produces ornamental details, signage, and architectural metal surfaces, while the sheet metal division handles design, engineering, fabrication, and installation for factories, commercial buildings, and geothermal projects. The HVAC side supplies ductwork, ventilation, metal roofing, and cladding for large-scale facilities.
 
-Clients include healthcare institutions such as MaineHealth's neurological physical therapy suite, educational facilities like the University of Southern Maine's Center for the Arts, and historic renovation projects such as the Franklin Block Building in Portsmouth, New Hampshire. The company also serves factories, commercial buildings, and geothermal applications.
+Clients span healthcare, education, and historic preservation. Recent projects include the University of Southern Maine Center for the Arts, a neurological physical therapy suite for MaineHealth (MHMMC), and the renovation of the Franklin Block Building in Portsmouth, New Hampshire. The shop also serves commercial, industrial, and residential customers throughout Maine and New England.
 
-Leadership emphasizes a blend of traditional craftsmanship and modern technology, aiming to deliver superior craftsmanship and reliable service to the hardworking folks of Maine and New England for another century.
+Leadership emphasizes a blend of traditional craftsmanship and modern technology, aiming to deliver superior craftsmanship and reliable service for another century. The mission statement highlights "nuanced solutions and technological advancements" to meet the needs of the region's hardworking clients.
 
 ## Known for
 - Fifth-generation family ownership since 1917
-- Integrated custom fabrication, sheet metal, and HVAC under one roof
-- Serves Maine and New England with design-through-installation capability
-- Combines time-honored techniques with modern technology
+- Combined custom fabrication, sheet metal, and HVAC capabilities under one roof
+- In-house design, engineering, fabrication, and installation for sheet metal projects
+- Service focus on Maine and New England commercial and industrial clients
 
 ## Capabilities
 - Custom metal fabrication
-- Commercial sheet metal
-- Industrial sheet metal
-- Commercial HVAC
-- Industrial HVAC
-- Design and engineering
-- Fabrication
-- Installation
-- Ductwork
+- Commercial sheet metal fabrication
+- Industrial sheet metal fabrication
+- Sheet metal design and engineering
+- Sheet metal installation
+- Commercial HVAC systems
+- Industrial HVAC systems
+- Ductwork fabrication
 - Ventilation systems
 - Metal roofing
 - Metal cladding
 - Ornamental metalwork
 - Sign fabrication
-- Surface fabrication
-- Geothermal systems
+- Architectural metal surfaces
+- Geothermal system sheet metal
 
 ## Industries
 - Medical/Hospitals
@@ -231,22 +240,26 @@ Leadership emphasizes a blend of traditional craftsmanship and modern technology
 - Historic renovation
 - Commercial construction
 - Industrial manufacturing
+- Residential
+- Geothermal energy
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Founded:** 1917
 - **Ownership:** Family-owned
 - **Headquarters:** Biddeford, Maine
 
 <details><summary>Sources</summary>
 
-- Founded 1917 -> /about
-- Fifth-generation family-owned -> /about
-- Headquarters Biddeford, Maine -> db
+- Founded 1917, fifth-generation family-owned -> /about
+- Headquarters in Biddeford, Maine -> db
 - Services: custom metal fabrication, commercial/industrial sheet metal, commercial/industrial HVAC -> /
-- Capabilities: design+engineering, fabrication, installation, ductwork, ventilation, metal roofing, metal cladding, ornamental details, signs, surfaces -> /
-- Projects: University of Southern Maine Center for the Arts, MaineHealth neurological physical therapy suite, Franklin Block Building historic renovation -> /
-- Industries served: medical/hospitals, education, healthcare, historic renovation, commercial, industrial -> / and db
+- Sheet metal capabilities: design, engineering, fabrication, installation -> /
+- HVAC capabilities: ductwork, ventilation, metal roofing, metal cladding -> /
+- Ornamental details, signs, architectural surfaces -> /
+- Client projects: University of Southern Maine Center for the Arts, MaineHealth neurological suite, Franklin Block Building renovation -> /
+- Industries served: medical/hospitals, education, healthcare, historic renovation, commercial, industrial, residential, geothermal -> /, industries_served
+- Mission: blend traditional craftsmanship with modern technology -> /about
 </details>
 
 ---
@@ -256,26 +269,26 @@ Leadership emphasizes a blend of traditional craftsmanship and modern technology
 **Old description:** Since 1978, we have handled various fabrication projects for basement doors and railings.
 
 ## About
-Founded in 1978 in Coventry, Rhode Island, Hamel Fabricating Co. is a family-owned and operated business. The company was established by the Hamel family and has remained locally owned.
+Hamel Fabricating Co. was founded in 1978 in Coventry, Rhode Island, as a family-owned and operated business specializing in metal fabrication for residential applications. The company has remained under family stewardship since its inception, with the current operation located at 120 Hill Farm Camp Road.
 
-The shop specializes in custom fabrication of basement doors, bulkhead doors, and railings for residential properties. Services include bulkhead fabrication, basement door fabrication, and railing fabrication for interior and front-step applications. The company works to customer specifications and offers free estimates on railing projects.
+The shop focuses on three core product lines: bulkhead doors, basement doors, and custom railings for interior and exterior use. Each piece is fabricated to order at the Coventry facility, though the company does not disclose facility size, headcount, or annual production volumes. Services include design consultation, fabrication, and installation coordination for homeowners and contractors alike.
 
-Hamel Fabricating primarily serves homeowners and contractors in the Providence, Rhode Island area. Its work focuses on residential construction and renovation projects requiring custom metal fabrication for basement access and safety railings.
+Customers are primarily residential property owners and local contractors in the Providence, Rhode Island area who need code-compliant basement egress doors or decorative and structural railings. The company does not advertise service to commercial, industrial, or institutional markets.
 
-The company cites its first-hand experience in bulkhead fabrication since 1978 and its family-owned, locally operated structure as key differentiators. It emphasizes exceptional service and custom-built solutions tailored to each project. Operating from its Coventry facility, the company handles projects from design through installation.
+Hamel Fabricating highlights its four-decade track record and family ownership as key differentiators, promoting free estimates and a hands-on approach to custom fabrication. The slogan "We Make Anything But Money!" reflects a service-first ethos rather than a specific technical capability.
 
 ## Known for
 - Family-owned and operated since 1978
-- First-hand experience in bulkhead fabrication
-- Custom fabrication to customer specifications
-- Free estimates on railing fabrication services
-- Serves the Providence, Rhode Island area
+- Specializes in bulkhead, basement door, and railing fabrication
+- Serves Providence, RI residential market
+- Free estimates on custom projects
+- Locally based in Coventry, RI
 
 ## Capabilities
 - Bulkhead fabrication
 - Basement door fabrication
 - Railing fabrication
-- Custom fabrication
+- Custom metal fabrication
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -285,14 +298,15 @@ The company cites its first-hand experience in bulkhead fabrication since 1978 a
 
 <details><summary>Sources</summary>
 
-- Founded in 1978 -> db
-- Family-owned and operated -> / (About Us section)
-- Headquarters in Coventry, Rhode Island -> db and / (address)
-- Fabricates basement doors, bulkhead doors, and railings -> / (services listed)
-- Serves Providence, Rhode Island area -> / (Serving Providence, RI)
-- Offers free estimates on railing fabrication -> / (call to action)
-- Custom fabrication to customer specifications -> / (We can custom fabricate and build your basement door and railing as per your specifications)
-- First-hand experience in bulkhead fabrication since 1978 -> / (Established in 1978, Hamel Fabricating Co. has first-hand knowledge and experience in bulkhead fabrication work)
+- Founded 1978 -> db
+- Family-owned and operated -> /
+- Headquarters Coventry, RI -> db
+- Services: bulkhead, basement door, railing fabrication -> /
+- Serves Providence, RI area -> /
+- Free estimates offered -> /
+- Slogan 'We Make Anything But Money!' -> /
+- Contact email ed@hamelfabricating.com -> /
+- Address 120 Hill Farm Camp Rd -> /
 </details>
 
 ---
@@ -302,17 +316,18 @@ The company cites its first-hand experience in bulkhead fabrication since 1978 a
 **Old description:** Poultry By-products Meal, Wheat, Corn, Poultry Meal, Wheat Middlings, Animal Fat, Barley, Fish Meal, Blood Meal, Salt, Choline Chloride, Corn Distillers Dried grains with solubles, Roughage Products, Zinc Sulfate, Dl-Alpha Tocopheryl Acetate (source of Vitamin E Activity), Iron Sulfate, Ascorbic Acid, Manganese Sulfate, Zinc Proteinate, Iron Proteinate, Mineral Oil, Vitamin B-12 Supplement, d-Biotin, Copper Sulfate, Niacin Supplement, Vitamin A Acetate, Calcium Pantothenate, Copper Proteinate, Riboflavin, Manganese Proteinate, Pyridoxine Hydrochloride, Menadione dimethylprimidinol Bisulfite(source of Vitamin K Activity) Thiamine Mononitrate, Sodium Selenite, Ethylenediamine Dihydriodide, D-Activated Animal Sterol (source of Vitamin D-3), Folic Acid.
 
 ## About
-Hanks Pet Food operates from Center, North Dakota, where it produces a range of dog and cat food formulas. The business appears to be associated with Maertens Manufacturing, which shares the same mailing address at 2245 41st Ave SW. No founding year or ownership structure is disclosed in public materials.
+Hanks Pet Food operates from Center, North Dakota, where it produces a range of dog and cat food products under the Hanks brand. The business appears to be associated with Maertens Manufacturing, which shares the same mailing address at 2245 41st Avenue Southwest. No founding year or ownership structure is disclosed in public sources.
 
-The company manufactures four product lines: "Regular" dog food, "Premium" dog food, "Tug" dog food, and cat food. Its ingredient deck includes poultry by‑product meal, wheat, corn, poultry meal, wheat middlings, animal fat, barley, fish meal, blood meal, and a full vitamin‑mineral premix. No facility size, headcount, or annual volume figures are published.
+The company manufactures several product lines including "Regular" dog food, a "Premium" line, a "Tug" variety, and cat food. The ingredient list for its formulations includes poultry by-product meal, wheat, corn, poultry meal, barley, fish meal, blood meal, and a full complement of vitamins and minerals. No details on production capacity, facility size, or employee count are provided.
 
-The operation serves the pet food and animal nutrition markets, supplying both retail and wholesale channels. The website presents the products directly to consumers, but the manufacturing setup suggests B2B capacity for private‑label or co‑pack arrangements.
+Hanks Pet Food serves the pet nutrition market, supplying products likely destined for retail and wholesale channels. The company does not name specific customers or industries beyond pet food.
+
+No further differentiation claims or origin story are published.
 
 ## Known for
 - Highly digestible pet food formulations
-- Four distinct product lines (Regular, Premium, Tug, Cat Food)
-- Full vitamin‑mineral premix included
-- Direct-to-consumer and wholesale channels
+- Multiple product lines: Regular, Premium, Tug, and cat food
+- Extended business hours (M–F 7 AM–10 PM CT)
 
 ## Capabilities
 - Pet food manufacturing
@@ -320,25 +335,20 @@ The operation serves the pet food and animal nutrition markets, supplying both r
 - Cat food production
 
 ## Industries
-- Pet food manufacturing
+- Pet food
 - Animal nutrition
-- Pet care
 
 ## Company details
 - **Company Type:** Manufacturer
-- **Headquarters:** Center, ND
+- **Headquarters:** Center, North Dakota
 
 <details><summary>Sources</summary>
 
-- Company name: Hanks Pet Food -> db
-- Location: Center, North Dakota -> db
-- Mailing address: Maertens Manufacturing, 2245 41st Ave SW, Center, ND 58530 -> /
-- Product lines: Regular, Premium, Tug, Cat Food -> /
-- Tagline: HIGHLY DIGESTABLE PET FOOD -> /
-- Slogan: When only the best will do -> /
-- Ingredients list -> db
-- Business hours, phone, email -> /
-- Website built with 1&1 WebsiteBuilder -> /
+- Company name and product lines -> /
+- Location and mailing address -> /
+- Ingredient list -> db
+- Business hours and contact info -> /
+- Tagline and digestibility claim -> /
 </details>
 
 ---
@@ -348,53 +358,59 @@ The operation serves the pet food and animal nutrition markets, supplying both r
 **Old description:** We specialize in the manufacturing of precision injection molded products!
 
 ## About
-Harbor Plastics, Inc., a woman-owned custom plastic injection molding company, operates from Maple Plain, Minnesota, about 15 miles west of Minneapolis. The firm has over 25 years of experience producing precision injection molded components for a range of industrial sectors.
+Harbor Plastics, Inc. operates from Maple Plain, Minnesota, about 15 miles west of Minneapolis. The woman-owned business has over 25 years of experience in custom plastic injection molding, though a specific founding year is not disclosed. The company emphasizes a people-focused culture and a systems engineering approach to manufacturing.
 
-The company provides custom plastic injection molding with shot capacities up to 51 ounces and clamping forces from 60 to 500 tons, accommodating molds up to 36 inches long by 28 inches wide. It handles short-run, low- and medium-volume production, and offers mold building services with in-house machining for prototype tooling. Secondary operations include sonic welding, pad printing, and packaging. Harbor Plastics also supplies spray tubes in quantities from 25 to 250,000-plus units.
+The shop provides custom plastic injection molding with shot capacities up to 51 ounces and clamping forces from 60 to 500 tons, accommodating molds up to 36 inches long by 28 inches wide. It specializes in short-run, low- and medium-volume production, and offers in-house mold building with machining capabilities for prototype tooling. Secondary operations include sonic welding, pad printing, and packaging. The facility also supports tooling transfers and reshoring projects.
 
-Harbor Plastics serves aerospace, automotive, construction, electronics, energy (including solar and wind), oil and gas, nuclear, marine, medical, military, and government sectors, as well as promotional and retail markets. Portfolio examples include nylon mobile localizer bases and covers for medical devices, pocket sprayer tubes for promotional and retail markets, ABS remote enclosures for retail, nylon air filter covers for motorcycle engines, over-molded PBT gears for diesel engines, and glass-filled polypropylene and nylon housings for automotive electronics.
+Harbor Plastics serves aerospace, automotive, construction, electronics, energy (solar and wind), oil and gas, nuclear, marine, medical, military, and government sectors. Concrete examples include nylon mobile localizer bases and covers for medical devices, pocket sprayer tubes for promotional and retail markets, ABS remote enclosures for retail, nylon air filter covers for motorcycle engines, over-molded PBT gears for diesel engines, glass-filled polypropylene and PPE-PA housings for automotive electronics, ABS medical wall plates and pillow speakers, and polycarbonate outdoor flooring systems for agriculture.
 
-The company emphasizes a systems engineering approach, lean manufacturing with lights-out capability, and a Six Sigma Green Belt on staff. It highlights its woman-owned status, Midwest location, and commitment to on-time, on-budget delivery from concept to completion.
+The company differentiates itself through lean manufacturing practices, lights-out production capability, a Six Sigma Green Belt on staff, and a commitment to on-time, on-budget delivery. It positions itself as a partner for tooling reshoring and rapid prototyping, aiming to exceed customer expectations on the first attempt.
 
 ## Known for
-- Woman-owned business
-- Shot sizes up to 51 oz, clamping forces 60–500 tons
-- In-house machining for prototype mold making
+- Woman-owned business with over 25 years of experience
+- Injection molding capacity up to 51 oz shot size, 60–500 ton clamping force
+- In-house machining for prototype mold making (alternative to 3D printing)
 - Secondary operations: sonic welding, pad printing, packaging
-- Six Sigma Green Belt on staff
+- Tooling transfer and reshoring support
 
 ## Capabilities
-- Custom plastic injection molding
-- Mold building
-- Insert molding
-- Over molding
-- Sonic welding
-- Pad printing
+- Custom Plastic Injection Molding
+- Insert Molding
+- Over Molding
+- Mold Building
+- Machining for Prototype Mold Making
+- Sonic Welding
+- Pad Printing
 - Packaging
-- Spray tube manufacturing
-- Tooling transfer/reshoring
-- Prototype mold machining
-- Short-run production
-- Low-volume production
-- Medium-volume production
+- Tooling Transfer & Reshoring
+- Short-Run Production
+- Low-Volume Production
+- Medium-Volume Production
+- Rapid Prototyping
+- Lights-Out Manufacturing
+- Lean Manufacturing
+- Six Sigma Processes
 
 ## Industries
-- aerospace
-- automotive
-- construction
-- electronics
-- energy
-- oil & gas
-- nuclear
-- marine
-- medical
-- military
-- government
-- promotional
-- retail
+- Aerospace
+- Automotive
+- Construction
+- Electronics
+- Energy (Solar, Wind)
+- Oil & Gas
+- Nuclear
+- Marine
+- Medical
+- Military
+- Government
+- Promotional & Retail
+- Motorcycle
+- Diesel Engines
+- Agriculture
+- Metal Fabrication
 
 ## Certifications
-- Woman-Owned Business
+- Woman-Owned
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -403,18 +419,20 @@ The company emphasizes a systems engineering approach, lean manufacturing with l
 
 <details><summary>Sources</summary>
 
-- Woman-owned company -> /
-- Location: Maple Plain, MN -> /
-- Shot sizes up to 51 ounces, clamping forces 60-500 tons -> /
-- Mold size max 36x28 inches -> /about
-- Industries served list -> /about
-- Secondary ops: sonic welding, pad printing, packaging -> /
-- Spray tubes 25-250,000+ -> /
+- Location: Maple Plain, Minnesota -> /
+- Woman-owned -> /
+- Over 25 years experience -> /
+- Injection molding shot size up to 51 oz, clamping force 60-500 tons -> /
+- Mold size max 36" x 28" -> /about
+- Short run, low and medium volume production -> /
 - In-house machining for prototype mold making -> /about
-- Six Sigma Green Belt on staff -> /
-- Lights-out manufacturing -> /
-- Portfolio examples (medical, automotive, retail, etc.) -> /
-- Materials from portfolio (Nylon, ABS, PBT, etc.) -> /
+- Secondary ops: sonic welding, pad printing, packaging -> /
+- Industries served: aerospace, automotive, construction, electronics, energy, oil & gas, nuclear, marine, medical, military, government -> /about
+- Portfolio examples: medical localizer base, spray tubes, ABS remote enclosure, motorcycle air filter, PBT gear, automotive electronics housings, medical wall plate, pillow speaker, agricultural flooring -> /
+- Tooling & reshoring services -> /
+- Lean manufacturing, lights-out capability, Six Sigma Green Belt -> /
+- Materials: Nylon, ABS, PBT, Polypropylene, Polycarbonate, glass-filled variants -> /
+- Min order 25 units for spray tubes -> /
 </details>
 
 ---
@@ -424,32 +442,36 @@ The company emphasizes a systems engineering approach, lean manufacturing with l
 **Old description:** Our I-Joists make it easy and cost-effective to reduce floor vibration and improve customer satisfaction. No more bounce. No more squeaks. Just quiet, solid floors that stand the test of time.
 
 ## About
-Hardware Hawaii has operated as a hardware retailer in Kailua, Hawaii, since 1954. The company maintains four locations across the islands: the original Kailua store on Oahu, a Kapolei store on Oahu, a Mapunapuna store in Honolulu, and a Koloa store on Kauai. Ownership details and founder names are not publicly disclosed.
+Hardware Hawaii, headquartered in Kailua, Hawaii, has served the islands since 1954. The company operates four retail locations across Oahu and Kauai — in Kailua, Kapolei, Mapunapuna (Honolulu), and Koloa — offering island-wide delivery for contractors and homeowners alike. No founders are named in available records, and ownership details are not publicly disclosed.
 
-The business stocks a range of building materials and hardware, including engineered wood I-Joists designed to reduce floor vibration, Gallina RDC storm panels for hurricane protection, and propane refills available at the Kailua, Kapolei, and Koloa stores. It also runs a screen shop that repairs or builds custom window and door screens with a turnaround of seven days or less, and offers island-wide delivery and leak-detection services.
+The business functions as a full-line hardware retailer and building-material distributor. Its product mix includes engineered wood products such as I-Joists, BORA Speedhorse sawhorses, Gallina RDC storm panels, propane refills, and a screen shop that fabricates or repairs window and door screens with a turnaround of seven days or less. A dedicated delivered sales team supports contractor accounts, while walk-in customers receive project advice from store staff.
 
-Customers include homeowners, contractors, and DIYers across the Hawaiian islands. The company serves the residential construction and home-improvement markets, with concrete examples such as supplying I-Joists for floor systems, providing storm panels ahead of hurricane season, and fabricating screens for property repairs.
+Customers span residential and commercial construction, remodelers, and DIY homeowners preparing for hurricane season. The company explicitly markets to the hardware retail trade and promotes hurricane-readiness products, including storm panels and leak-detection services.
 
-The company's stated philosophy is "Customer First since 1954," emphasizing knowledgeable staff assistance for repair advice and home-improvement projects. It positions itself as a local resource for both everyday hardware needs and extreme-weather preparedness.
+Hardware Hawaii emphasizes a “Customer First” philosophy dating to its 1954 founding, highlighting knowledgeable crews, island-wide logistics, and quick-turn screen fabrication as key differentiators. The retailer also maintains an equal-opportunity, drug-free workplace.
 
 ## Known for
 - Island-wide delivery across Oahu and Kauai
-- Screen repair and custom fabrication with 7-day turnaround
+- Screen repair and fabrication with 7-day turnaround
 - Propane refills at three store locations
-- Engineered wood I-Joists for floor vibration reduction
-- Gallina RDC storm panels for hurricane preparedness
+- Customer-first service philosophy since 1954
+- Dedicated delivered sales team for contractor orders
 
 ## Capabilities
 - Retail sales of hardware and building materials
+- Engineered wood product distribution (I-Joists)
+- Propane refill service
+- Storm panel sales (Gallina RDC)
 - Screen repair and fabrication
-- Propane refilling
 - Island-wide delivery
+- Contractor sales support
+- DIY project consultation
 - Leak detection service
-- Hurricane preparedness product supply
+- Hurricane preparedness product sales
 
 ## Industries
-- Hardware retail
-- Residential construction
+- Construction
+- Residential remodeling
 - Home improvement
 - Hurricane preparedness
 
@@ -460,17 +482,20 @@ The company's stated philosophy is "Customer First since 1954," emphasizing know
 
 <details><summary>Sources</summary>
 
-- Founded 1954 -> db
+- Founded 1954 -> db, /
 - Headquarters Kailua, Hawaii -> db
-- Four store locations (Kailua, Kapolei, Mapunapuna, Koloa) -> pages:/
-- Screen shop with 7-day turnaround -> pages:/
-- Propane refills at Kailua, Kapolei, Koloa -> pages:/
-- Engineered wood I-Joists for floor vibration -> pages:/
-- Gallina RDC Storm Panels carried -> pages:/
-- Island-wide delivery -> pages:/
-- Leak detection service -> pages:/
-- Customer First since 1954 slogan -> pages:/
-- Delivered sales team listed -> pages:/
+- Four store locations (Kailua, Kapolei, Mapunapuna, Koloa) -> /
+- Island-wide delivery -> /
+- Screen repair and fabrication with 7-day turnaround -> /
+- Propane refills at three locations -> /
+- Delivered sales team for contractors -> /
+- Customer First motto since 1954 -> /
+- Engineered wood products (I-Joists) -> /
+- Gallina RDC Storm Panels -> /
+- BORA Speedhorse product -> /
+- Detect-a-Leak service -> /
+- Hurricane-Ready messaging -> /
+- Equal opportunity employer, drug-free workplace -> /
 </details>
 
 ---
@@ -480,19 +505,19 @@ The company's stated philosophy is "Customer First since 1954," emphasizing know
 **Old description:** CUSTOM FABRICATION OF A STAINLESS STEEL FLUIDIZED BED COOLER FOR THE CHEMICAL INDUSTRY
 
 ## About
-Harmony Metal Fabrication, Inc. operates from Gilberts, Illinois, in the Chicago metropolitan area. The company functions as a full-service metal fabrication facility, though its founding year and ownership structure are not publicly disclosed.
+Harmony Metal Fabrication, Inc. operates from Gilberts, Illinois, in the Chicago metropolitan area. The company's founding year and ownership structure are not publicly disclosed on its website.
 
-The shop provides custom steel and structural steel fabrication, handling projects from prototype to full production runs. Core capabilities include angle rolling, CNC plasma cutting, forming, machining, rolling, shearing, and welding, supplemented by value-added services such as anodizing, assembly, hot-dip galvanizing, and plating. Materials processed encompass carbon steel, stainless steel, aluminum, and galvanized steel, with a noted specialization in large-component fabrications.
+The shop functions as a full-service metal fabrication facility, producing custom steel and structural steel fabrications ranging from large components to smaller intricate work. Core processes include angle rolling, CNC plasma cutting, forming, machining, rolling, shearing, and welding, supplemented by value-added services such as anodizing, assembly, hot-dip galvanizing, and plating. The company describes its capacity as spanning prototype to production runs, though facility size and headcount are not specified.
 
-Harmony serves industrial customers and construction contractors across the Midwest, Great Lakes region, and nationally. Documented projects include carbon steel tubes for the nuclear power industry, a stainless steel fluidized bed cooler for the chemical industry, filter/separator tanks, carbon steel sidewalk gratings and frames, a steel splitter, and a chocolate agitation/holding tank. The company also produces architectural ironwork, bridge railings, catwalks, conveyors, and pressure vessels.
+Customers include industrial firms and construction contractors across Illinois, the Midwest, the Great Lakes region, and internationally. Documented projects span the nuclear power sector (carbon steel tubes), the chemical industry (stainless steel fluidized bed cooler, filter/separator tanks), and architectural/structural work (sidewalk gratings, bridge railings, mezzanines, stairs). Additional fabrications cover machinery guards, hoppers, tanks, pressure vessels, and material handling equipment.
 
-The company emphasizes its ability to manage both oversize fabrications and smaller, intricate work, positioning itself as a single-source provider from raw material through finished assembly.
+Harmony positions itself as a specialist in large-component fabrications and emphasizes its ability to serve clients nationwide and worldwide from its Illinois base.
 
 ## Known for
-- Full-service metal fabrication from prototype to production
-- Specializes in large-component fabrications
-- In-house angle rolling, CNC plasma cutting, forming, machining, rolling, shearing, and welding
-- Additional services: anodizing, assembly, hot-dip galvanizing, plating
+- Specialists in large component fabrications
+- Prototype to production volume range
+- Full-service facility with in-house secondary services (anodizing, galvanizing, plating)
+- Serves customers nationwide and worldwide
 
 ## Capabilities
 - Angle Rolling
@@ -506,16 +531,16 @@ The company emphasizes its ability to manage both oversize fabrications and smal
 - Assembly
 - Hot Dip Galvanizing
 - Plating
-- Custom Steel Fabrication
-- Structural Steel Fabrication
-- Custom Stainless Steel Fabrication
 
 ## Industries
 - Nuclear Power
 - Chemical
-- Industrial
 - Construction
+- Industrial
 - Architectural
+
+## Equipment
+- CNC Plasma Cutting
 
 ## Certifications
 - ANSI
@@ -523,22 +548,23 @@ The company emphasizes its ability to manage both oversize fabrications and smal
 - MIL-SPEC
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Headquarters:** Gilberts, Illinois
 
 <details><summary>Sources</summary>
 
-- Location: Gilberts, Illinois -> /about
+- Location: Gilberts, Illinois -> /
 - Full-service metal fabrication facility -> /
 - Capabilities: angle rolling, CNC plasma cutting, forming, machining, rolling, shearing, welding -> /
 - Additional services: anodizing, assembly, hot dip galvanizing, plating -> /
 - Materials: steel, stainless steel, aluminum, galvanized -> /
 - Volume: prototype to production -> /
-- Industries: industrial customers, construction contractors, nuclear power, chemical -> /about, /
-- Projects: carbon steel tubes for nuclear power, fluidized bed cooler for chemical, filter/separator tank, sidewalk gratings, steel splitter, chocolate agitation tank -> /
+- Industries: nuclear power (carbon steel tubes), chemical (fluidized bed cooler, filter/separator tanks) -> /
+- Industries: construction, architectural (sidewalk gratings, bridge railings, mezzanines, stairs) -> /
+- Industries: industrial (machinery guards, hoppers, tanks, pressure vessels) -> /
 - Certifications: ANSI, ASME, MIL-SPEC -> db
-- Specializes in large component fabrications -> /
-- Handles oversize fabrications to intricate work -> /about
+- Specialists in large component fabrications -> /
+- Serves nationwide and worldwide -> /
 </details>
 
 ---
@@ -548,57 +574,46 @@ The company emphasizes its ability to manage both oversize fabrications and smal
 **Old description:** Our team specializes in roof mount, ground mount and off-grid solar systems with battery back-ups.
 
 ## About
-Harvest Solar Energy LLC, based in Tulsa, Oklahoma, was founded in 2002 by John Miggins after he installed a solar system on his own home. The company is family-run, with his wife Debbie Miggins serving as vice president and their son Matthew Miggins the exclusive installation partner Here Comes the Sun.
+Harvest Solar Energy LLC was established in 2002 in Tulsa, Oklahoma, as a family-run business by John Miggins, who installed a solar system on his own home that same year and became a recognized pioneer in the region. The company operates with a small team of dedicated professionals, including co-founders Debbie Miggins (vice president) and Matthew Miggins (owner of the exclusive installation partner Here Comes the Sun), along with partner Dalton Burgess.
 
-The firm designs and sells custom solar energy systems — including roof-mount, ground-mount, and off-grid configurations with battery backup — for residential and commercial customers. Working through its licensed install partner Here Comes the Sun (Oklahoma license #00198075), the company has completed hundreds of projects and installed more than 3,000 solar panels and 700 kWh of battery storage in 2023 alone. It supplies equipment from brands such as CW Energy, QCell, Canadian Solar, Sol-Ark, Enphase, and Briggs & Stratton.
+The firm designs and supplies custom solar energy systems for residential and commercial clients, specializing in roof-mount, ground-mount, and off-grid configurations with battery backup. In 2023 alone, the company oversaw the installation of more than 3,000 solar panels and over 700 kWh of battery storage through its licensed install partner, Here Comes the Sun (Oklahoma license #00198075). Project sizes range from single-home arrays to larger commercial installations such as the 192-panel system at Guthrie Green and the 80-panel array at the Public Service Company of Oklahoma headquarters.
 
-Harvest Solar serves homeowners and businesses across Oklahoma, Texas, Arkansas, and Missouri. Notable installations include the Guthrie Green public park in Tulsa and the Public Service Company of Oklahoma headquarters, both featuring grid-tied rooftop arrays that deliver measurable annual savings.
+Harvest Solar serves homeowners, businesses, and public-sector customers across Oklahoma, Texas, Arkansas, and Missouri. Notable references include the Guthrie Green park project, the PSO headquarters, and numerous residential installations featuring brands such as CW Energy, QCell, Canadian Solar, Sol-Ark, Enphase, and Ruixu batteries.
 
-The founders started the company to help clients achieve energy independence by harvesting freely available solar power, emphasizing custom-designed solutions backed by decades of hands-on experience and a dedicated family team.
+The company emphasizes its family-owned structure, over two decades of solar and wind experience, and a turnkey process that begins with a free consultation and a detailed energy-savings proposal before scheduling installation with its dedicated partner crew. This approach earned Harvest Solar the Tulsa World’s “Best in the World” 2025 award for Best Solar Energy Company.
 
 ## Known for
-- Exclusive licensed installation partner (Here Comes the Sun)
-- Custom-designed solar and battery systems for residential and commercial projects
-- Over 20 years of solar and wind power experience
-- Family-run operation with dedicated in-house team
+- Family-run business with over 20 years of solar and wind power experience
+- Exclusive licensed install partner Here Comes the Sun (OK license #00198075)
+- Free consultation and detailed energy savings proposals
+- Custom residential and commercial solar solutions including off-grid and battery backup
 
 ## Capabilities
-- Roof-mount solar PV installation
-- Ground-mount solar PV installation
-- Off-grid solar system design
-- Battery energy storage system installation
-- Solar inverter installation
-- Generator integration
 - Custom solar system design
-- Energy savings analysis and consultation
-- Solar panel procurement and supply
-- Battery storage procurement and supply
-- Generator procurement and supply
+- Roof-mount solar installation
+- Ground-mount solar installation
+- Off-grid solar system design
+- Battery backup system integration
+- Solar consultation and energy savings analysis
+- Commercial solar project development
+- Residential solar installation
+- Solar panel procurement
+- Inverter procurement
+- Battery procurement
+- Generator procurement
 
 ## Industries
+- Renewable Energy
 - Residential
 - Commercial
-- Renewable Energy
-- Energy Independence
+- Utilities
+- Public Sector
 
 ## Equipment
-- CW Energy solar panels
-- Phono Solar solar panels
-- QCell solar panels
-- Canadian Solar solar panels
-- Sol-Ark inverters
-- Enphase IQ8M microinverters
-- Fronius inverters
-- SMA Sunnyboy inverters
-- SolarEdge inverters
-- Ruixu batteries
-- Discover batteries
-- Sol-Ark batteries
-- Briggs & Stratton generators
-- Kohler generators
-- Sol-Ark 15kW inverter
-- Ruixu 16kWh battery
-- Briggs & Stratton DX 13kW natural gas generator
+- Solar panels (CW Energy, Phono Solar, QCell, Canadian Solar)
+- Solar inverters (Sol-Ark, Enphase, Fronius, SMA Sunnyboy, SolarEdge)
+- Solar batteries (Ruixu, Discover, Sol-Ark)
+- Generators (Briggs & Stratton, Kohler)
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -609,21 +624,17 @@ The founders started the company to help clients achieve energy independence by 
 <details><summary>Sources</summary>
 
 - Founded in 2002 -> db
-- Founded in 2002 -> /about-us
-- Family-run -> /about-us
-- John Miggins founder -> /about-us
-- Debbie Miggins VP -> /about-us
-- Matthew Miggins owner of Here Comes the Sun -> /about-us
-- Exclusive install partner Here Comes the Sun -> /about-us
-- OK license #00198075 -> /about-us
-- Services: roof mount, ground mount, off-grid with battery backup -> /
-- Residential and commercial projects -> /
-- Over 3,000 panels and 700 kWh battery storage installed in 2023 -> /
-- Brands: CW Energy, Phono Solar, QCell, Canadian Solar, Sol-Ark, Enphase, Fronius, SMA Sunnyboy, SolarEdge, Ruixu, Discover, Briggs & Stratton, Kohler -> /services
-- Projects: Guthrie Green, PSO Headquarters -> /
-- Service area: Oklahoma, Texas, Arkansas, Missouri -> /
-- Tulsa World Best in the World 2025 award -> /
-- Company type: installer/service -> /services
+- Headquarters Tulsa, Oklahoma -> db
+- Family-run business -> /about-us
+- Founder John Miggins installed solar on his house in 2002 -> /about-us
+- Exclusive install partner Here Comes the Sun with OK license #00198075 -> /about-us, /services
+- Over 3,000 solar panels and 700 kWh battery storage installed in 2023 -> /
+- Projects: Guthrie Green (192 panels), PSO Headquarters (80 panels) -> /
+- Residential and commercial projects across Oklahoma, Texas, Arkansas, Missouri -> /
+- Product brands: CW Energy, Phono Solar, QCell, Canadian Solar, Sol-Ark, Enphase, Fronius, SMA Sunnyboy, SolarEdge, Ruixu, Discover, Briggs & Stratton, Kohler -> /services
+- Tulsa World 'Best in the World' 2025 award -> /
+- Free consultation and proposal process -> /services
+- Team members: Debbie Miggins (VP), Matthew Miggins (Here Comes the Sun owner), Dalton Burgess (partner) -> /about-us
 </details>
 
 ---

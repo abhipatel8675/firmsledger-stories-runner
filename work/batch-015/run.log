@@ -1,513 +1,496 @@
 fetched p0280-raw.json 10 / 10
-RETRY agri-industrial-plastics-co HTTP Error 503: Service Unavailable
+RETRY aftermarket-auto-parts-alliance HTTP Error 503: Service Unavailable
 fetched p0281-raw.json 9 / 10
+RETRY alabama-gulf-coast-wood-designs HTTP Error 503: Service Unavailable
 fetched p0282-raw.json 10 / 10
-RETRY all-original-foods-inc HTTP Error 503: Service Unavailable
+ok   Advanced Technology of Kentucky 
+ok   Advanced Sheet Metal 
+ok   Alabama Gulf Coast Wood Designs 
+ok   Akrivis Components and Tools 
+ok   Agave Semiconductor 
+ok   Aftermarket Auto Parts Alliance 
+ok   Agri-Industrial Plastics Co 
+ok   Affordable Conveyor Services LLC 
 fetched p0283-raw.json 10 / 10
-RETRY allcable HTTP Error 429: Too Many Requests
-RETRY amador-medical-llc HTTP Error 429: Too Many Requests
-fetched p0284-raw.json 10 / 10
+ok   Alaska Frontier Fabrication 
+ok   Alabama Cable Telecomm Associates 
+ok   Airlite Plastics Co. 
+fetched p0284-raw.json 9 / 10
+ok   Alaska Food Equipment 
+ok   All Bake Technologies Inc. 
 fetched p0285-raw.json 10 / 10
 fetched p0286-raw.json 10 / 10
-fetched p0287-raw.json 10 / 10
-ok   Advanced Technology of Kentucky 
-fetched p0288-raw.json 10 / 10
-ok   Affordable Conveyor Services LLC 
-ok   Advanced Sheet Metal 
-ok   All Bake Technologies Inc. 
-fetched p0289-raw.json 10 / 10
-ok   Aire Plastics 
-ok   All About Packaging Inc 
-ok   All American Electric 
-ok   Alaska Food Equipment 
-RETRY amen-packaging-inc HTTP Error 503: Service Unavailable
-ok   Alaska Frontier Fabrication 
-fetched p0290-raw.json 10 / 10
-ok   Agave Semiconductor 
-ok   Albuquerque cabling 
-ok   Aftermarket Auto Parts Alliance 
-ok   Alconex Magnet Wire 
 ok   AirFinder 
-fetched p0291-raw.json 10 / 10
-ok   Al Industrial Components 
-ok   Alabama Gulf Coast Wood Designs 
-ok   Alcan Electric & Engineering, Inc 
-ok   Allied Plastics LLC 
-ok   Albuquerque Apparel Center 
-fetched p0292-raw.json 10 / 10
-ok   Agri-Industrial Plastics Co 
-ok   Allied Body Works Inc 
-RETRY ameriprint-apparel HTTP Error 503: Service Unavailable
-ok   Akrivis Components and Tools 
-ok   Alabama Cable Telecomm Associates 
-ok   Aftermarket HQ 
-fetched p0293-raw.json 10 / 10
+ok   Aire Plastics 
+fetched p0287-raw.json 10 / 10
 ok   Alanic - Wholesale Clothing Manufacturers 
-RETRY andersen-industries-inc HTTP Error 503: Service Unavailable
-ok   Airlite Plastics Co. 
-ok   Alan Wire Company 
-PAGE DONE p0281-profiles.json
-RETRY andy-sanchez-furniture HTTP Error 429: Too Many Requests
-fetched p0294-raw.json 9 / 10
-ok   Alpha Sheet Metal Works 
-fetched p0295-raw.json 10 / 10
-ok   All-Type Sheet Metal Fab 
+RETRY american-metal-fabricators HTTP Error 503: Service Unavailable
+fetched p0288-raw.json 10 / 10
+ok   Aftermarket HQ 
 ok   All Energy Solar 
-ok   Alpine Food Distributing 
-ok   Ambix Manufacturing, Inc. 
-fetched p0296-raw.json 9 / 10
-ok   Amaral Custom Fabrications Inc 
-ok   American Cable Products LLC 
+fetched p0289-raw.json 10 / 10
+ok   Al Industrial Components 
 ok   Air Metal VA 
 PAGE DONE p0280-profiles.json
-ok   Amador Medical, LLC 
-fetched p0297-raw.json 10 / 10
-fetched p0298-raw.json 9 / 10
-ok   American Tire and Motorsports 
-ok   Allcable 
-ok   All Precision Metal Depot 
-ok   Alpine Home Medical 
-PAGE DONE p0283-profiles.json
-ok   America Wood Solutions 
-ok   Amphenol TPC Wire & Cable 
-RETRY arlowe-foods HTTP Error 503: Service Unavailable
-ok   All Original Foods, Inc. 
-ok   American Auto Parts Superstore 
-fetched p0299-raw.json 9 / 10
-ok   American Cable & Electronics, inc 
-ok   American Electric Components, Inc. 
-ok   American Precision Products 
-skip Apyx Medical Corporation 
-ok   American Howa Kentucky, Inc. Georgetown Plant 
-ok   Americor Electronics Ltd 
-RETRY aspen-electronics-manufacturing-inc HTTP Error 503: Service Unavailable
+skip American Auto Parts Superstore 
+RETRY andon-electronics-corporation HTTP Error 503: Service Unavailable
+ok   Albuquerque Apparel Center 
+ok   Albuquerque cabling 
 ok   Alert Tech SMT 
-PAGE DONE p0282-profiles.json
-ok   American Wood Design, Inc. 
-ok   Anderson Electric Co. 
-ok   Arizona Automotive Equipment 
-ok   American Wire Group 
-ok   Archbold Furniture 
-ok   Appalachian Sheet Metal & Fabrication 
-ok   American Sheet Metal Fabricators 
-ok   Apocalypse Design Inc 
-ok   Ampleon USA Inc. 
-ok   Apparel Worx 
-ok   American Ink Screen Printing, Embroidery & Promotional 
-RETRY auto-parts-connection HTTP Error 429: Too Many Requests
-ok   American Sewing Workroom 
-RETRY auto-vehicle-parts-llc HTTP Error 429: Too Many Requests
-ok   American Control Electronics 
-ok   Andersen Manufacturing Inc 
-ok   Arkadia Plastics Inc 
-ok   American Iron Works 
-ok   Ark Electrical LLC 
-ok   American Circuits 
+fetched p0290-raw.json 10 / 10
+fetched p0291-raw.json 10 / 10
+ok   Alpine Food Distributing 
+ok   All Original Foods, Inc. 
+ok   Allcable 
+fetched p0292-raw.json 10 / 10
+ok   All-Type Sheet Metal Fab 
+ok   Alpha Sheet Metal Works 
+fetched p0293-raw.json 10 / 10
+ok   Amaral Custom Fabrications Inc 
+ok   All About Packaging Inc 
 ok   American Home Medical Equipment Co 
-ok   Amsted Automotive 
-ok   Arcamed 
-ok   Arthrex New Orleans 
-ok   Arizona Fabrication Solutions 
-ok   Arkansas Catering Cabot Arkansas 
-ok   Amphenol DC Electronics 
-ok   Arch Plastics 
-ok   Andon Electronics Corporation 
-ok   Arkansas Ostomy 
-ok   American Metal Fabricators 
-PAGE DONE p0285-profiles.json
-ok   Arizona Mobile Meat Processing 
-ok   Apex Wire Products Co Inc 
-ok   Arkansas Metal Products 
-ok   Arizona Plastics Machinery 
-ok   Andy Sanchez Furniture 
-ok   Art & Craft Ironworks 
-ok   Andrew Technologies, Inc. 
-PAGE DONE p0287-profiles.json
-ok   Athena Foods 
+ok   American Ink Screen Printing, Embroidery & Promotional 
+RETRY arkansas-ostomy HTTP Error 503: Service Unavailable
+ok   Alcan Electric & Engineering, Inc 
 ok   Amen Packaging Inc 
-PAGE DONE p0284-profiles.json
-ok   Anchorage Sheet Metal 
-RETRY arctic-restaurant-service-supply HTTP Error 500: Internal Server Error
-RETRY atlantic-cable HTTP Error 500: Internal Server Error
-RETRY arundel-metal-products-corporation-solutions-fabricating-inc HTTP Error 500: Internal Server Error
-ok   AutoECMs 
-ok   Artco-Bell Corporation 
-ok   Arlowe Foods 
-ok   Artisan Woodworks 
-ok   Atelier Amelia 
-RETRY artisan-chef-manufacturing-co HTTP Error 500: Internal Server Error
-RETRY arkansas-products-co HTTP Error 500: Internal Server Error
-ok   Astecnos America Corporation 
-ok   Andersen Industries, Inc. 
-ok   AutoTecknic USA 
-ok   Astro Sheet Metal Co., Inc. 
-ok   Arkansas Food Equipment 
-ok   AutohausAZ 
-ok   Aspects Furniture International, Inc. 
-ok   Artemis Plastics 
-ok   Assembly Solutions 
-RETRY bapko-metal-fabricators HTTP Error 503: Service Unavailable
-ok   Aurora Power & Design Inc. 
-RETRY auto-vehicle-parts-llc HTTP Error 503: Service Unavailable
-ok   Ascend Medical LLC 
-ok   Atrium Corporation 
+fetched p0294-raw.json 9 / 10
+ok   American Circuits 
+ok   American Iron Works 
+fetched p0295-raw.json 10 / 10
+ok   Alconex Magnet Wire 
+ok   Amador Medical, LLC 
+ok   Alpine Home Medical 
+fetched p0296-raw.json 9 / 10
+ok   Anderson Electric Co. 
+ok   Ambix Manufacturing, Inc. 
+ok   Allied Plastics LLC 
+ok   America Wood Solutions 
+ok   All Precision Metal Depot 
+RETRY alan-wire-company 'NoneType' object has no attribute 'group'
+ok   Arkadia Plastics Inc 
 ok   Ameriprint Apparel 
-PAGE DONE p0286-profiles.json
-ok   Atlas Precision Inc 
-ok   Assembled Products, Inc. 
-ok   Autocam Medical 
-ok   Asahi Kasei Plastics North America 
-RETRY bayne-custom-woodworking HTTP Error 503: Service Unavailable
-ok   Auto Recyclers 
-ok   Avon Food Company 
-ok   B & H Sheet Metal 
-ok   Automotive Supply Center 
-ok   BES Concession Supply 
-ok   Axiom Manufacturing 
-ok   Automated Food Systems 
-RETRY assemblies-unlimited-inc Expecting ',' delimiter: line 109 column 4 (char 4712)
-ok   Automotive Charging & Starting LLC 
-ok   BTR Truck & Trailer Parts 
-ok   Backyard Adventures Iowa 
-ok   B&M International Steel Company 
-ok   BGD Companies, Inc. 
-ok   Axles Plus 
-ok   Axon Medical Technologies 
-ok   Avalon Industries 
-ok   Bay View Homecare, Inc. 
-ok   Barrington Wood Works LLC 
-ok   Auto Parts Connection 
-ok   B J Plastic Molding Co Inc 
-ok   B & L Scales, Inc. 
-ok   Bazen Woodworking 
-ok   Basic E Inc. 
-ok   BK Electric 
-ok   Badger Body & Truck Equipment 
-ok   BayWa r.e. Solar Systems 
-ok   Aspen Electronics Manufacturing Inc. 
-ok   B.D. Welding & Fabrication 
-ok   Axial Medical 
-ok   Badger Plastics & Supply Inc 
-ok   Bend Molding and Prototype 
-ok   Ball Packaging Products 
-ok   Belmont Market 
-ok   Bad Idea Factory 
-ok   Avon Lake Sheet Metal Company, Inc. 
-ok   Bennett Plastics 
-ok   Atlantic Cable 
-ok   BMZ USA Inc 
-ok   Artisan Chef Manufacturing Co. 
-ok   Baltimore Aircoil Company, Inc. 
-ok   Automotive Equipment of Nevada 
-ok   B&M Sheet Metal 
-PAGE DONE p0293-profiles.json
-RETRY bg-southern-nevada Expecting ',' delimiter: line 48 column 4 (char 3175)
+ok   Andersen Manufacturing Inc 
+ok   Allied Body Works Inc 
+PAGE DONE p0283-profiles.json
+fetched p0297-raw.json 10 / 10
+ok   American Electric Components, Inc. 
+RETRY astro-sheet-metal-co-inc HTTP Error 503: Service Unavailable
+ok   American Cable & Electronics, inc 
+fetched p0298-raw.json 9 / 10
+ok   American Sewing Workroom 
+ok   Americor Electronics Ltd 
+ok   Arizona Fabrication Solutions 
+skip Apyx Medical Corporation 
+ok   American Sheet Metal Fabricators 
+fetched p0299-raw.json 9 / 10
+ok   Appalachian Sheet Metal & Fabrication 
+ok   All American Electric 
+PAGE DONE p0282-profiles.json
+ok   Arcamed 
+ok   Amphenol DC Electronics 
+ok   Artemis Plastics 
+ok   Amphenol TPC Wire & Cable 
+ok   Andy Sanchez Furniture 
+ok   American Control Electronics 
+ok   Arizona Mobile Meat Processing 
+ok   American Wire Group 
+RETRY american-tire-and-motorsports 'NoneType' object has no attribute 'group'
+ok   Apex Wire Products Co Inc 
+ok   Arch Plastics 
+ok   Ampleon USA Inc. 
+ok   Ark Electrical LLC 
 ok   Arkansas Products Co 
-ok   Bellisio Foods 
-ok   Bennett Industries Of Tennessee, Inc. 
+ok   Arizona Automotive Equipment 
+ok   Andersen Industries, Inc. 
+ok   American Precision Products 
+ok   American Cable Products LLC 
+ok   Arkansas Ostomy 
+ok   Anchorage Sheet Metal 
+ok   Arkansas Food Equipment 
+ok   American Howa Kentucky, Inc. Georgetown Plant 
+PAGE DONE p0284-profiles.json
+RETRY avon-lake-sheet-metal-company-inc HTTP Error 503: Service Unavailable
+ok   Apocalypse Design Inc 
+ok   Arthrex New Orleans 
+ok   Apparel Worx 
+ok   Artisan Chef Manufacturing Co. 
+ok   Art & Craft Ironworks 
+ok   Artco-Bell Corporation 
+skip Astecnos America Corporation 
+ok   Arlowe Foods 
+ok   Arkansas Metal Products 
+ok   Ascend Medical LLC 
+ok   Andrew Technologies, Inc. 
+ok   Amsted Automotive 
+ok   Artisan Woodworks 
+ok   Arkansas Catering Cabot Arkansas 
+ok   Archbold Furniture 
+PAGE DONE p0287-profiles.json
+ok   Arizona Plastics Machinery 
+ok   Andon Electronics Corporation 
+PAGE DONE p0286-profiles.json
+ok   Atlantic Cable 
+ok   Atrium Corporation 
+ok   Atelier Amelia 
+ok   Aspen Electronics Manufacturing Inc. 
 ok   Auto Vehicle Parts LLC 
-PAGE DONE p0291-profiles.json
-ok   Barber Packaging Company 
-ok   Belden 
-ok   Bisel Manufacturing 
+ok   Aspects Furniture International, Inc. 
+ok   Asahi Kasei Plastics North America 
+ok   Axles Plus 
+ok   Autocam Medical 
+ok   AutohausAZ 
+ok   Astro Sheet Metal Co., Inc. 
+ok   Athena Foods 
+ok   Automotive Supply Center 
+ok   American Metal Fabricators 
+ok   B & L Scales, Inc. 
+RETRY assembly-solutions 'NoneType' object has no attribute 'group'
+ok   Alan Wire Company 
+PAGE DONE p0281-profiles.json
+ok   BK Electric 
+ok   Atlas Precision Inc 
+ok   AutoECMs 
+ok   Autoliv North America Inc (OTC) 
+ok   Auto Parts Connection 
+RETRY autokiniton-greenville 'NoneType' object has no attribute 'group'
+ok   B J Plastic Molding Co Inc 
+ok   Automated Food Systems 
+ok   BG Southern Nevada 
+ok   Axon Medical Technologies 
 ok   Arundel Metal Products Corporation / Solutions Fabricating Inc. 
 PAGE DONE p0289-profiles.json
-ok   Autokiniton - Greenville 
-ok   Big Horn Food Services 
-ok   Bell Semiconductor 
-ok   Autoliv North America Inc (OTC) 
-PAGE DONE p0292-profiles.json
-ok   Arctic Restaurant Service & Supply 
-PAGE DONE p0288-profiles.json
-ok   Bauman Custom Woodworking 
-ok   Biomedic Appliances 
-ok   Bardot Plastics 
-ok   Beals Sheet Metal 
-ok   Bayne Custom Woodworking 
-RETRY benco-equipment Expecting ',' delimiter: line 57 column 4 (char 3931)
-ok   Benton & Sons 
-ok   Bapko Metal Fabricators 
-ok   Bauer Fabrication & Art Metal 
-ok   Bernhaus Furniture 
-ok   Benteler Automotive Corporation 
-ok   Blowing Rock Woodworks 
-ok   Benfield Control Systems Inc. 
-ok   Berle Manufacturing Co 
-ok   Bethlehem Wire Rope 
-ok   Blue Springs Metals 
-ok   Bila Solar 
-ok   Behlen Mfg Co 
-ok   Birch Stream Farms 
-ok   Bernard Food Industries Inc 
-ok   Blanchard Machinery Headquarters - Columbia 
-ok   Black Forest Industries 
-ok   Bayatronics 
-ok   Bishop Lifting - Silver State Wire Rope & Rigging 
-RETRY bally-ribbon-mills 'NoneType' object has no attribute 'group'
-ok   Berne Apparel 
-ok   Blue Train Apparel 
-RETRY beacon-metal-fabricators 'NoneType' object has no attribute 'group'
-ok   Best Wire & Cable 
-ok   Bergey's Truck Parts & Industrial Supply 
-PAGE DONE p0298-profiles.json
-ok   Blue Sky Solar Co 
+ok   Assembled Products, Inc. 
+ok   Axiom Manufacturing 
+ok   B&M Sheet Metal 
 RETRY assemblies-unlimited-inc 'NoneType' object has no attribute 'group'
-ok   BG Southern Nevada 
-PAGE DONE p0294-profiles.json
+ok   Avon Lake Sheet Metal Company, Inc. 
+ok   Aurora Power & Design Inc. 
+ok   Automotive Charging & Starting LLC 
+ok   B & H Sheet Metal 
+ok   BGD Companies, Inc. 
+RETRY baltimore-aircoil-company-inc Expecting value: line 62 column 5 (char 3092)
+ok   Auto Recyclers 
+ok   Axial Medical 
+RETRY bisel-manufacturing HTTP Error 503: Service Unavailable
+ok   AutoTecknic USA 
+PAGE DONE p0291-profiles.json
+ok   Avon Food Company 
+ok   Bad Idea Factory 
+ok   Badger Plastics & Supply Inc 
+ok   BTR Truck & Trailer Parts 
+ok   Bay View Homecare, Inc. 
+ok   Backyard Adventures Iowa 
+ok   Bauman Custom Woodworking 
+ok   BES Concession Supply 
+ok   Barrington Wood Works LLC 
+RETRY american-wood-design-inc The read operation timed out
+ok   Automotive Equipment of Nevada 
+ok   Bazen Woodworking 
+ok   Badger Body & Truck Equipment 
+ok   Avalon Industries 
+ok   Bayatronics 
+ok   Belmont Market 
+ok   Bell Semiconductor 
+ok   B&M International Steel Company 
+PAGE DONE p0293-profiles.json
+ok   Basic E Inc. 
+ok   BMZ USA Inc 
+ok   Bardot Plastics 
+ok   Bellisio Foods 
+ok   Bend Molding and Prototype 
+ok   Bauer Fabrication & Art Metal 
+ok   Barber Packaging Company 
+ok   Bergey's Truck Parts & Industrial Supply 
+ok   Bennett Plastics 
+ok   Bayne Custom Woodworking 
+ok   Benteler Automotive Corporation 
+ok   Birch Stream Farms 
+ok   Belden 
+ok   Bally Ribbon Mills 
+skip Biomedic Appliances 
+skip Blue Train Apparel 
+ok   BayWa r.e. Solar Systems 
+RETRY arctic-restaurant-service-supply The read operation timed out
+ok   Bennett Industries Of Tennessee, Inc. 
+ok   Black Forest Industries 
+ok   Blue Springs Metals 
+ok   Ball Packaging Products 
+ok   Benton & Sons 
+ok   Bernhaus Furniture 
+ok   Beals Sheet Metal 
+ok   Bapko Metal Fabricators 
+ok   Bernard Food Industries Inc 
+ok   Behlen Mfg Co 
+ok   Autokiniton - Greenville 
+PAGE DONE p0292-profiles.json
+ok   Big Horn Food Services 
+ok   Berle Manufacturing Co 
+ok   Best Wire & Cable 
+ok   Berne Apparel 
+RETRY benco-equipment 'NoneType' object has no attribute 'group'
+ok   Bisel Manufacturing 
+ok   American Wood Design, Inc. 
+ok   Bethlehem Wire Rope 
+ok   Blowing Rock Woodworks 
 ok   Beacon Metal Fabricators 
 PAGE DONE p0296-profiles.json
+ok   Assembly Solutions 
+ok   Benfield Control Systems Inc. 
+ok   Blue Sky Solar Co 
+ok   Bishop Lifting - Silver State Wire Rope & Rigging 
+ok   Bila Solar 
+PAGE DONE p0298-profiles.json
+RETRY american-tire-and-motorsports The read operation timed out
+ok   Arctic Restaurant Service & Supply 
+PAGE DONE p0288-profiles.json
+ok   Blue-Top Steering Gears Inc. 
+RETRY b-d-welding-fabrication The read operation timed out
 ok   Benco Equipment 
 PAGE DONE p0297-profiles.json
-ok   Bally Ribbon Mills 
+RETRY assemblies-unlimited-inc 'NoneType' object has no attribute 'group'
+ok   Baltimore Aircoil Company, Inc. 
 PAGE DONE p0295-profiles.json
-ok   Blue-Top Steering Gears Inc. 
-PAGE DONE p0299-profiles.json
-RETRY assemblies-unlimited-inc 'NoneType' object has no attribute 'group'
-RETRY assemblies-unlimited-inc 'NoneType' object has no attribute 'group'
-skip Assemblies Unlimited, Inc. 'NoneType' object has no attribute 'group'
+ok   B.D. Welding & Fabrication 
+PAGE DONE p0294-profiles.json
+ok   Assemblies Unlimited, Inc. 
 PAGE DONE p0290-profiles.json
-ALL-DONE errors 1 of 200
-collected 198
-advanced-technology-of-kentucky | wording/address
-agri-industrial-plastics-co | wording/address
+RETRY blanchard-machinery-headquarters-columbia The read operation timed out
+ok   American Tire and Motorsports 
+PAGE DONE p0285-profiles.json
+ok   Blanchard Machinery Headquarters - Columbia 
+PAGE DONE p0299-profiles.json
+ALL-DONE errors 0 of 200
+collected 195
+agri-industrial-plastics-co | nums ['28']
 al-industrial-components | nums ['16']
+alert-tech-smt | wording/address
 all-american-electric | wording/address
-ambix-manufacturing-inc | nums ['9001:2015']
-american-auto-parts-superstore | wording/address
+american-cable-electronics-inc | wording/address
 american-home-medical-equipment-co | wording/address
-american-howa-kentucky-inc-georgetown-plant | wording/address
-american-metal-fabricators | certs ['ASTM E84 (panel testing)', 'SNAP 2021 compliance (panels)']
-ameriprint-apparel | wording/address
+american-iron-works | wording/address
 amphenol-dc-electronics | nums ['10,000']
-amphenol-tpc-wire-cable | nums ['11']
+amphenol-tpc-wire-cable | wording/address
 ampleon-usa-inc | wording/address
-andon-electronics-corporation | wording/address
+andersen-manufacturing-inc | nums ['100']
 andrew-technologies-inc | wording/address
-appalachian-sheet-metal-fabrication | wording/address
 arcamed | wording/address
-arizona-mobile-meat-processing | certs ['Arizona Department of Agriculture (AZDA) commercial inspection']
-arizona-plastics-machinery | nums ['40']
+archbold-furniture | wording/address
+arctic-restaurant-service-supply | certs ['CFESA Trade Association member', 'ISC Buying Group member']
+arizona-mobile-meat-processing | wording/address
+arkansas-food-equipment | nums ['30']
 arkansas-ostomy | certs ['ACHC accreditation']
-arkansas-products-co | nums ['75']
-arthrex-new-orleans | wording/address
+aspen-electronics-manufacturing-inc | nums ['100']
+assemblies-unlimited-inc | certs ['SQF (Safe Quality Food)', 'FDA registered']
 assembly-solutions | certs ['J-STD-001']
-atlantic-cable | wording/address
-aurora-power-design-inc | nums ['35']
-autokiniton-greenville | nums ['8.3', '1,200']
-automotive-charging-starting-llc | wording/address
+autokiniton-greenville | nums ['8.3', '42']
 automotive-equipment-of-nevada | wording/address
-avon-lake-sheet-metal-company-inc | wording/address
-b-j-plastic-molding-co-inc | nums ['50']
-bes-concession-supply | nums ['12']
-bg-southern-nevada | nums ['1970']
+b-j-plastic-molding-co-inc | nums ['54']
+b-m-sheet-metal | certs ['U.S. State Department registered']
 bmz-usa-inc | nums ['194,000', '1,400']
-bally-ribbon-mills | nums ['24']
-bayatronics | nums ['2,300']
-bayne-custom-woodworking | nums ['1980']
-bennett-industries-of-tennessee-inc | nums ['50']
-berle-manufacturing-co | wording/address
-blue-top-steering-gears-inc | nums ['1986', '2007', '1968', '1994', '1979', '1980', '1999', '2002']
-collected 198
-done advanced-sheet-metal 1 
+bally-ribbon-mills | nums ['24', '70']
+baywa-r-e-solar-systems | wording/address
+bennett-industries-of-tennessee-inc | wording/address
+bernard-food-industries-inc | wording/address
+best-wire-cable | wording/address
+blue-top-steering-gears-inc | nums ['2000', '1980']
+collected 195
+done advanced-sheet-metal 2 
 done advanced-technology-of-kentucky 0 
-done affordable-conveyor-services-llc 0 
-done aftermarket-auto-parts-alliance 2 
+done affordable-conveyor-services-llc 1 
+done aftermarket-auto-parts-alliance 1 
 done aftermarket-hq 1 
-done agave-semiconductor 1 
+done agave-semiconductor 2 
 done agri-industrial-plastics-co 1 
-done air-metal-va 3 
-done airfinder 2 
+done air-metal-va 2 
+done airfinder 1 
 done aire-plastics 0 
 done airlite-plastics-co 1 
 done akrivis-components-and-tools 0 
 done al-industrial-components 0 
-done alabama-cable-telecomm-associates 3 
-done alabama-gulf-coast-wood-designs 1 
+done alabama-cable-telecomm-associates 1 
+done alabama-gulf-coast-wood-designs 4 
 done alan-wire-company 0 
-done alanic-wholesale-clothing-manufacturers 1 
+done alanic-wholesale-clothing-manufacturers 0 
 done alaska-food-equipment 0 
-done alaska-frontier-fabrication 2 
+done alaska-frontier-fabrication 0 
 done albuquerque-apparel-center 0 
-done albuquerque-cabling 0 
+done albuquerque-cabling 3 
 done alcan-electric-engineering-inc 0 
-done alconex-magnet-wire 1 
+done alconex-magnet-wire 0 
 done alert-tech-smt 0 
 done all-about-packaging-inc 0 
-done all-american-electric 0 
+done all-american-electric 1 
 done all-bake-technologies-inc 0 
 done all-energy-solar 0 
-done all-original-foods-inc 1 
+done all-original-foods-inc 2 
 done all-precision-metal-depot 1 
-done all-type-sheet-metal-fab 0 
-done allcable 3 
-done allied-body-works-inc 0 
-done allied-plastics-llc 0 
-done alpha-sheet-metal-works 0 
-done alpine-food-distributing 1 
-done alpine-home-medical 0 
+done all-type-sheet-metal-fab 6 
+done allcable 2 
+done allied-body-works-inc 3 
+done allied-plastics-llc 1 
+done alpha-sheet-metal-works 2 
+done alpine-food-distributing 0 
+done alpine-home-medical 1 
 done amador-medical-llc 0 
-done amaral-custom-fabrications-inc 3 
-done ambix-manufacturing-inc 1 
+done amaral-custom-fabrications-inc 0 
+done ambix-manufacturing-inc 0 
 done amen-packaging-inc 1 
-done america-wood-solutions 2 
-done american-auto-parts-superstore 4 
+done america-wood-solutions 0 
 done american-cable-electronics-inc 0 
 done american-cable-products-llc 0 
-done american-circuits 2 
-done american-control-electronics 1 
+done american-circuits 0 
+done american-control-electronics 0 
 done american-electric-components-inc 0 
-done american-home-medical-equipment-co 1 
-done american-howa-kentucky-inc-georgetown-plant 2 
-done american-ink-screen-printing-embroidery-promotional 1 
+done american-home-medical-equipment-co 0 
+done american-howa-kentucky-inc-georgetown-plant 1 
+done american-ink-screen-printing-embroidery-promotional 0 
+RETRY american-iron-works expected string or bytes-like object, got 'NoneType'
 done american-iron-works 0 
-done american-metal-fabricators 1 
-done american-precision-products 1 
+done american-metal-fabricators 2 
+done american-precision-products 2 
 done american-sewing-workroom 1 
 done american-sheet-metal-fabricators 0 
-done american-tire-and-motorsports 0 
+done american-tire-and-motorsports 1 
 done american-wire-group 0 
 done american-wood-design-inc 2 
-done americor-electronics-ltd 0 
-done ameriprint-apparel 3 
+done americor-electronics-ltd 1 
+done ameriprint-apparel 1 
 done amphenol-dc-electronics 0 
 done amphenol-tpc-wire-cable 0 
-done ampleon-usa-inc 2 
-done amsted-automotive 1 
+done ampleon-usa-inc 6 
+done amsted-automotive 2 
 done anchorage-sheet-metal 2 
 done andersen-industries-inc 0 
-done andersen-manufacturing-inc 2 
+done andersen-manufacturing-inc 3 
 done anderson-electric-co 0 
-done andon-electronics-corporation 2 
-done andrew-technologies-inc 2 
+done andon-electronics-corporation 0 
+done andrew-technologies-inc 0 
 done andy-sanchez-furniture 1 
-done apex-wire-products-co-inc 1 
+done apex-wire-products-co-inc 0 
 done apocalypse-design-inc 2 
-done appalachian-sheet-metal-fabrication 4 
+done appalachian-sheet-metal-fabrication 2 
 done apparel-worx 0 
 done arcamed 0 
 done arch-plastics 1 
 done archbold-furniture 2 
 done arctic-restaurant-service-supply 0 
 done arizona-automotive-equipment 1 
-done arizona-fabrication-solutions 4 
-done arizona-mobile-meat-processing 4 
-done arizona-plastics-machinery 2 
+done arizona-fabrication-solutions 3 
+done arizona-mobile-meat-processing 2 
+done arizona-plastics-machinery 0 
 done ark-electrical-llc 0 
-done arkadia-plastics-inc 3 
+done arkadia-plastics-inc 0 
 done arkansas-catering-cabot-arkansas 0 
-done arkansas-food-equipment 1 
-done arkansas-metal-products 1 
-done arkansas-ostomy 2 
-done arkansas-products-co 1 
-done arlowe-foods 1 
-done art-craft-ironworks 1 
+done arkansas-food-equipment 2 
+done arkansas-metal-products 2 
+done arkansas-ostomy 1 
+done arkansas-products-co 2 
+done arlowe-foods 0 
+done art-craft-ironworks 4 
 done artco-bell-corporation 2 
 done artemis-plastics 0 
 done arthrex-new-orleans 3 
 done artisan-chef-manufacturing-co 0 
-done artisan-woodworks 2 
+done artisan-woodworks 0 
 done arundel-metal-products-corporation-solutions-fabricating-inc 1 
-done asahi-kasei-plastics-north-america 0 
-done ascend-medical-llc 4 
+done asahi-kasei-plastics-north-america 1 
+done ascend-medical-llc 1 
 done aspects-furniture-international-inc 1 
 done aspen-electronics-manufacturing-inc 1 
-done assembled-products-inc 1 
+done assembled-products-inc 2 
+done assemblies-unlimited-inc 2 
 done assembly-solutions 0 
-done astecnos-america-corporation 1 
-done astro-sheet-metal-co-inc 2 
+done astro-sheet-metal-co-inc 1 
 done atelier-amelia 0 
-done athena-foods 2 
-done atlantic-cable 1 
+done athena-foods 1 
+done atlantic-cable 2 
 done atlas-precision-inc 0 
-done atrium-corporation 2 
-done aurora-power-design-inc 3 
-done auto-parts-connection 3 
+done atrium-corporation 0 
+done aurora-power-design-inc 2 
+done auto-parts-connection 4 
 done auto-recyclers 0 
-done auto-vehicle-parts-llc 1 
-done autoecms 3 
-done autotecknic-usa 1 
-done autocam-medical 1 
-done autohausaz 2 
+done auto-vehicle-parts-llc 2 
+done autoecms 1 
+done autotecknic-usa 0 
+done autocam-medical 2 
+done autohausaz 1 
 done autokiniton-greenville 0 
-done autoliv-north-america-inc-otc 0 
+done autoliv-north-america-inc-otc 1 
 done automated-food-systems 0 
-done automotive-charging-starting-llc 1 
+done automotive-charging-starting-llc 0 
 done automotive-equipment-of-nevada 3 
-done automotive-supply-center 2 
-done avalon-industries 1 
+done automotive-supply-center 1 
+done avalon-industries 2 
 done avon-food-company 0 
 done avon-lake-sheet-metal-company-inc 1 
-done axial-medical 1 
+done axial-medical 0 
 done axiom-manufacturing 1 
 done axles-plus 0 
 done axon-medical-technologies 0 
-done b-h-sheet-metal 0 
+done b-h-sheet-metal 1 
 done b-l-scales-inc 0 
-done b-j-plastic-molding-co-inc 1 
+done b-j-plastic-molding-co-inc 0 
 done b-m-international-steel-company 2 
 done b-m-sheet-metal 0 
-done b-d-welding-fabrication 1 
-done bes-concession-supply 2 
-done bg-southern-nevada 0 
+done b-d-welding-fabrication 0 
+done bes-concession-supply 1 
+done bg-southern-nevada 3 
 done bgd-companies-inc 0 
-done bk-electric 0 
-done bmz-usa-inc 1 
-done btr-truck-trailer-parts 0 
-done backyard-adventures-iowa 3 
-done bad-idea-factory 1 
-done badger-body-truck-equipment 2 
-done badger-plastics-supply-inc 0 
-RETRY ball-packaging-products expected string or bytes-like object, got 'NoneType'
-done ball-packaging-products 3 
-done bally-ribbon-mills 1 
-done baltimore-aircoil-company-inc 0 
+done bk-electric 1 
+done bmz-usa-inc 0 
+done btr-truck-trailer-parts 2 
+done backyard-adventures-iowa 2 
+done bad-idea-factory 0 
+done badger-body-truck-equipment 1 
+done badger-plastics-supply-inc 1 
+done ball-packaging-products 0 
+done bally-ribbon-mills 0 
+done baltimore-aircoil-company-inc 3 
 done bapko-metal-fabricators 0 
-done barber-packaging-company 1 
-done bardot-plastics 1 
-done barrington-wood-works-llc 2 
-done basic-e-inc 2 
+done barber-packaging-company 0 
+done bardot-plastics 0 
+done barrington-wood-works-llc 1 
+done basic-e-inc 0 
 done bauer-fabrication-art-metal 0 
 done bauman-custom-woodworking 0 
-done bay-view-homecare-inc 2 
-done baywa-r-e-solar-systems 0 
-done bayatronics 0 
-done bayne-custom-woodworking 3 
-done bazen-woodworking 0 
+done bay-view-homecare-inc 1 
+done baywa-r-e-solar-systems 1 
+done bayatronics 1 
+done bayne-custom-woodworking 1 
+done bazen-woodworking 1 
 done beacon-metal-fabricators 0 
 done beals-sheet-metal 1 
-done behlen-mfg-co 5 
+done behlen-mfg-co 0 
 done belden 0 
-done bell-semiconductor 3 
-done bellisio-foods 1 
-done belmont-market 4 
-done benco-equipment 0 
+done bell-semiconductor 0 
+done bellisio-foods 2 
+done belmont-market 3 
+done benco-equipment 1 
 done bend-molding-and-prototype 0 
 done benfield-control-systems-inc 1 
-done bennett-industries-of-tennessee-inc 0 
-done bennett-plastics 0 
-done benteler-automotive-corporation 2 
-done benton-sons 0 
+done bennett-industries-of-tennessee-inc 1 
+done bennett-plastics 2 
+done benteler-automotive-corporation 0 
+done benton-sons 1 
 done bergey-s-truck-parts-industrial-supply 0 
 done berle-manufacturing-co 2 
 done bernard-food-industries-inc 0 
-done berne-apparel 1 
-done bernhaus-furniture 2 
-done best-wire-cable 1 
-done bethlehem-wire-rope 0 
-done big-horn-food-services 5 
+done berne-apparel 3 
+done bernhaus-furniture 3 
+done best-wire-cable 0 
+done bethlehem-wire-rope 1 
+done big-horn-food-services 1 
 done bila-solar 2 
-done biomedic-appliances 5 
-done birch-stream-farms 0 
-done bisel-manufacturing 4 
-done bishop-lifting-silver-state-wire-rope-rigging 1 
-done black-forest-industries 0 
-done blanchard-machinery-headquarters-columbia 4 
-done blowing-rock-woodworks 2 
+done birch-stream-farms 1 
+done bisel-manufacturing 3 
+done bishop-lifting-silver-state-wire-rope-rigging 2 
+done black-forest-industries 2 
+done blanchard-machinery-headquarters-columbia 3 
+done blowing-rock-woodworks 3 
 done blue-sky-solar-co 0 
-done blue-springs-metals 0 
-done blue-train-apparel 2 
-done blue-top-steering-gears-inc 3 
+done blue-springs-metals 1 
+done blue-top-steering-gears-inc 2 
 ALL-DONE errors 0
-clean 197 | sentences removed 199 | needs review 1 | check errors 0
-REVIEW bisel-manufacturing too short after fact-check (79 words)
-sql parts 3 stories 197
+clean 194 | sentences removed 169 | needs review 1 | check errors 0
+REVIEW art-craft-ironworks too short after fact-check (55 words)
+sql parts 3 stories 194

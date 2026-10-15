@@ -3,59 +3,54 @@
 **Old description:** TTE Filters is a leader in the design and manufacture of standard and custom RF and microwave filters (ranging from 50Hz to 40GHz), bias tees, diplexers, triplexers, quadplexers, amplitude equalizers and EMI/RFI filters for use in a variety of critical, high-performance applications. The company’s products are used by OEMs and other organizations around the world to enhance communication and signal processing in cellular, data acquisition, electronic support, radar, satellite, sonar, telecommunication, telemetry and wireless applications in commercial, industrial, medical and military/defense sectors. TTE’s product stocking system and raw material inventories enable off-the-shelf availability of many products and quick turnaround for the rest. The company maintains a quality assurance program based on MIL-Q-9858 and MIL-I-45208. In-house test facilities can upscreen to MIL-PRF-15733 and MIL-PRF-28861. The company also manufactures products for its Microwave Circuits and Instec Filters brands. TTE is ITAR registered.
 
 ## About
-Microwave Circuits, based in Lynchburg, Virginia, has been supplying high-performance microwave components since 1994. The brand operates under TTE Filters, which designs and manufactures standard and custom RF and microwave filters, bias tees, diplexers, and related components for critical applications.
+Microwave Circuits, based in Lynchburg, Virginia, has been delivering high-performance microwave components since 1994. The brand operates under TTE Filters, a company that designs and manufactures RF and microwave filters for critical applications.
 
-The company produces filters ranging from 50 Hz to 40 GHz using technologies that include printed circuits, ceramics, lumped components, helical resonators, machined cavities, and waveguides. Its Lynchburg facility houses 20 network analyzer test stations, full CNC machining capability, and vibration and environmental test equipment, allowing in-house upscreening to military standards such as MIL-PRF-15733 and MIL-PRF-28861.
+The company produces a range of RF and microwave filters, diplexers, triplexers, quadplexers, bias tees, amplitude equalizers, and EMI/RFI filters covering frequencies from DC to 40 GHz. Its manufacturing expertise spans printed circuits, ceramics, lumped components, helical resonators, machined cavities, and waveguides, allowing integration of multiple technologies into a single filtering device. In-house facilities include 20 network analyzer test stations, full CNC machining capability, and vibration and environmental test equipment, supporting a three-phase testing process.
 
-Products serve defense, aerospace, high-reliability commercial, and scientific sectors, with specific applications in cellular communications, data acquisition, electronic support, radar, satellite, sonar, telecommunication, telemetry, wireless, medical, and industrial markets. The company sells to OEMs and other organizations worldwide.
+Microwave Circuits serves defense, aerospace, high-reliability commercial, and scientific customers, as well as broader commercial, industrial, and medical sectors. Its components are used in cellular, data acquisition, electronic support, radar, satellite, sonar, telecommunication, telemetry, and wireless systems by OEMs and organizations worldwide.
 
-Microwave Circuits emphasizes a three-phase testing process, dedicated program managers for each project, and consistent on-time delivery as key differentiators. The quality assurance program is based on MIL-Q-9858 and MIL-I-45208, and the company is ITAR registered.
+The company emphasizes innovative approaches to filter challenges, consistent on-time delivery, and quick turnaround enabled by a product stocking system and raw material inventories. It maintains a quality assurance program based on MIL-Q-9858 and MIL-I-45208, with in-house upscreening to MIL-PRF-15733 and MIL-PRF-28861, and is ITAR registered.
 
 ## Known for
-- Three-phase testing process for quality assurance
-- Dedicated program managers assigned to each project
-- 20 network analyzer test stations for in-house verification
-- CNC machining and vibration/environmental test capabilities
-- Integration of multiple filter technologies (printed circuit, ceramic, lumped, helical, cavity, waveguide)
+- Innovative filter design approaches for complex RF challenges
+- Three-phase testing process for highest quality
+- Consistent on-time delivery commitment
+- Off-the-shelf availability and quick turnaround via stocked inventory
+- ITAR registered with MIL-spec quality assurance and upscreening capabilities
 
 ## Capabilities
-- RF/microwave filter design
-- Custom filter manufacturing
+- RF/microwave filter design and manufacturing
+- Diplexer, triplexer, quadplexer production
 - Bias tee manufacturing
-- Diplexer manufacturing
-- Triplexer manufacturing
-- Quadplexer manufacturing
-- Amplitude equalizer manufacturing
+- Amplitude equalizer production
 - EMI/RFI filter manufacturing
-- Printed circuit filter fabrication
-- Ceramic filter fabrication
-- Lumped component filter assembly
-- Helical filter fabrication
-- Machined cavity filter fabrication
-- Waveguide filter fabrication
+- Printed circuit fabrication
+- Ceramic processing
+- Lumped component assembly
+- Helical resonator machining
+- Machined cavity fabrication
+- Waveguide fabrication
+- Network analyzer testing (20 stations)
 - CNC machining
-- Network analyzer testing (up to 40 GHz)
 - Vibration testing
 - Environmental testing
-- Three-phase quality testing
-- Program management
+- Quality assurance per MIL-Q-9858/MIL-I-45208
+- Upscreening to MIL-PRF-15733/MIL-PRF-28861
 
 ## Industries
 - Defense
 - Aerospace
-- High-reliability commercial
-- Scientific research
-- Cellular communications
-- Data acquisition
-- Electronic support
-- Radar
-- Satellite communications
-- Sonar
-- Telecommunication
-- Telemetry
-- Wireless applications
-- Medical
+- Commercial
 - Industrial
+- Medical
+- Scientific
+- Telecommunications
+- Radar
+- Satellite
+- Sonar
+- Electronic support
+- Data acquisition
+- Cellular
 
 ## Equipment
 - Network analyzer test stations (20)
@@ -77,19 +72,20 @@ Microwave Circuits emphasizes a three-phase testing process, dedicated program m
 
 <details><summary>Sources</summary>
 
-- Headquarters: Lynchburg, Virginia -> db
-- Founded: 1994 -> /about
-- Products: RF/microwave filters, diplexers, bias tees, triplexers, quadplexers, amplitude equalizers, EMI/RFI filters -> /
-- Frequency range: 50 Hz to 40 GHz -> /
-- Technologies: printed circuits, ceramics, lumped components, helical, machined cavities, waveguides -> /about
-- Facility: 20 network analyzer test stations, CNC machining, vibration/environmental test -> /about
-- Quality standards: MIL-Q-9858, MIL-I-45208, upscreen to MIL-PRF-15733, MIL-PRF-28861 -> /
-- ITAR registered -> / and db
-- Industries: defense, aerospace, high-reliability commercial, scientific, cellular, data acquisition, electronic support, radar, satellite, sonar, telecommunication, telemetry, wireless, medical, industrial -> / and /about
+- Headquarters in Lynchburg, Virginia -> db
+- Founded in 1994 -> /about
+- Manufactures RF/microwave filters from DC to 40 GHz -> /about, /
+- Produces diplexers, triplexers, quadplexers, bias tees, amplitude equalizers, EMI/RFI filters -> /
+- Manufacturing processes: printed circuits, ceramics, lumped components, helical, machined cavities, waveguides -> /about
+- In-house facilities: 20 network analyzer test stations, CNC machining, vibration/environmental test -> /about
 - Three-phase testing process -> /about
-- Dedicated program managers -> /about
-- On-time delivery promise -> /about
-- Manufactures for Microwave Circuits and Instec Filters brands -> /
+- Serves defense, aerospace, high-reliability commercial, scientific, commercial, industrial, medical -> /about, /
+- Applications: cellular, data acquisition, electronic support, radar, satellite, sonar, telecommunication, telemetry, wireless -> /
+- Quality assurance based on MIL-Q-9858 and MIL-I-45208 -> /
+- Upscreening to MIL-PRF-15733 and MIL-PRF-28861 -> /
+- ITAR registered -> /, db
+- Product stocking system and raw material inventories for quick turnaround -> /
+- Brand under TTE Filters (also Instec Filters) -> /
 </details>
 
 ---
@@ -99,38 +95,46 @@ Microwave Circuits emphasizes a three-phase testing process, dedicated program m
 **Old description:** Mid America Steel specializes in custom metal fabrication, including structural steel, pressure vessels, tanks, rebar, plate steel, and other miscellaneous metals.
 
 ## About
-Mid America Steel Inc. was founded in 1905 in Fargo, North Dakota. The company relocated there in 2019, consolidating operations into more than 220,000 square feet of indoor fabrication space.
+Mid America Steel Inc is based in Fargo, North Dakota. Founded in 1905 as an agricultural repair shop and foundry, the company has evolved into a modern steel fabrication firm. It is employee-owned, a structure the company says supports its workforce dedication and community involvement.
 
-The shop produces structural steel, pressure vessels, tanks, rebar, plate steel, and miscellaneous metal items such as staircases, railing systems, and oil‑refinery decks. Core processes include a Voortman beam line with shotblasting, sawing, drilling, and robotic coping; a 5‑axis oversized plasma cutting table; automated rebar fabrication with stirrup benders and double benders; a full‑service machine shop; a 16,000‑square‑foot paint booth; and a 2,000‑square‑foot sandblast booth. In‑house estimating, drafting, and SDS/2 3D modeling support the workflow, and certified welding inspectors (AWS, CWB) oversee quality. Rebar jobs range from 2,000‑ton projects down to residential patio slabs.
+The company provides custom metal fabrication including structural steel, pressure vessels, tanks, rebar, plate steel, and miscellaneous metals such as aluminum and stainless steel. Its 40-acre facility in northwest Fargo offers over 220,000 square feet of indoor production space. Key equipment includes a Voortman beam line for shotblasting, sawing, drilling, and robotic coping; an oversized 5-axis plasma cutting table; automated rebar fabrication with stirrup bending and double bender equipment; a full-service machine shop; a 16,000-square-foot paint booth; and a 2,000-square-foot sandblast booth. In-house estimating, drafting, and 3D modeling support the shop, which handles rebar projects ranging from 2,000-ton jobs to small residential slabs.
 
-Customers span industrial plants, wastewater treatment facilities, sports arenas, government buildings, hospitals, commercial buildings, agricultural facilities, oil‑and‑gas structures, schools, churches, and flood‑control projects across North America.
+Mid America Steel serves a broad range of industries across North America. Its fabricated steel products have been used in industrial plants, wastewater treatment facilities, sports arenas, government buildings, hospitals, commercial buildings, agricultural facilities, oil and gas structures, schools, churches, and flood control projects.
 
-The company emphasizes relationship‑driven service, welcoming complex projects and tight deadlines. Its employee‑ownership model and long‑standing community involvement are cited as foundations for consistent, cost‑effective delivery.
+The company emphasizes strong customer relationships, willingness to tackle complex projects and tight deadlines, and attributes its capabilities to its skilled, employee-owned workforce. It holds certifications from ASME, AISC, AWS, and the Canadian Welding Board, and operates as an ASME stamp holder for pressure vessels and an AISC-certified fabricator with in-house AWS and CWB certified inspectors.
 
 ## Known for
-- Employee-owned company
-- 40-acre facility with 220,000 sq ft indoor fabrication space
-- Voortman beam line with shotblasting, sawing, drilling, and robotic coping
-- 16,000 sq ft paint booth for large-piece coating
-- Automated rebar fabrication system handling 2,000+ ton jobs
+- Employee-owned workforce
+- 40-acre, 220,000-sq-ft indoor fabrication facility
+- Voortman beam line for shotblasting, sawing, drilling, and robotic coping
+- Automated rebar fabrication with stirrup bending and double bender equipment
+- ASME and AISC certified with in-house AWS/CWB inspectors
 
 ## Capabilities
-- Structural steel fabrication (blast, cut, cope, drill, weld)
-- Pressure vessel fabrication (ASME stamped)
+- Structural steel fabrication
+- Pressure vessel fabrication
 - Tank fabrication
-- Rebar fabrication (automated stirrup bending, double bender)
+- Rebar fabrication
 - Plate steel fabrication
-- Miscellaneous metals fabrication (aluminum, stainless steel, staircases, railings, platforms, oil refinery decks, joists, decking)
-- Voortman beam line (shotblasting, sawing, drilling, robotic coping)
-- 5-axis oversized plasma cutting
+- Miscellaneous metals fabrication (aluminum, stainless steel)
+- Staircase and railing fabrication
+- Automated rebar fabrication (stirrup bending, double bender)
 - Full-service machine shop
-- Painting & coating (paint booth, galvanizing, powder coating)
+- Painting and coating
 - Sandblasting
+- Galvanizing
+- Powder coating
 - In-house estimating and drafting
-- SDS/2 3D modeling
-- Certified welding inspection (AWS, CWB)
-- AISC certified fabrication
-- ASME stamp holder
+- 3D modeling (SDS/2)
+- Certified welding inspection
+- Welding (AISC/ASME certified)
+- Shotblasting
+- Sawing
+- Drilling
+- Robotic coping
+- Plasma cutting
+- Beveling
+- Plate cutting
 
 ## Industries
 - Industrial plants
@@ -147,10 +151,12 @@ The company emphasizes relationship‑driven service, welcoming complex projects
 
 ## Equipment
 - Voortman beam line
-- 5-axis oversized plasma cutting table
-- Automated rebar fabrication system (stirrup bender, double bender)
-- 2,000 sq ft sandblast booth
+- Oversized 5-axis plasma cutting table
+- Automated rebar fabrication system (stirrup bending, double bender)
+- Full-service machine shop
 - 16,000 sq ft paint booth
+- 2,000 sq ft sandblast booth
+- SDS/2 3D modeling software
 
 ## Certifications
 - ASME
@@ -159,7 +165,7 @@ The company emphasizes relationship‑driven service, welcoming complex projects
 - CWB
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1905
 - **Ownership:** Employee-owned
 - **Headquarters:** Fargo, North Dakota
@@ -167,30 +173,30 @@ The company emphasizes relationship‑driven service, welcoming complex projects
 <details><summary>Sources</summary>
 
 - Founded 1905 -> db, /
-- Headquarters Fargo, ND -> db, /
+- Headquarters Fargo, North Dakota -> db, /
 - Employee-owned -> /about-us
-- 40-acre facility, 220,000 sq ft indoor -> /
-- Voortman beam line -> /, /capabilities
-- Automated rebar fabrication -> /, /capabilities
-- Certifications ASME, AISC, AWS, CWB -> /, /capabilities
-- Industries served list -> /capabilities
-- Paint booth 16,000 sq ft -> /capabilities
-- Sandblast booth 2,000 sq ft -> /, /capabilities
-- Plasma cutting table -> /, /capabilities
-- In-house estimating/drafting -> /, /capabilities
-- SDS/2 3D modeling -> /capabilities
-- Full-service machine shop -> /, /capabilities
-- Materials: structural steel, plate steel, rebar, aluminum, stainless steel -> /capabilities
-- Rebar volume range -> /capabilities
-- Founded as agricultural repair shop and foundry -> /about-us
-- Moved in 2019 -> /
-- AISC certified fabricator -> /
-- ASME stampholder -> /capabilities
-- AWS and CWB certified inspectors -> /capabilities
+- 40-acre facility, 220,000 sq ft indoor space -> /
+- Voortman beam line (shotblasting, sawing, drilling, robotic coping) -> /, /capabilities
+- Oversized 5-axis plasma cutting table -> /capabilities
+- Automated rebar fabrication (stirrup bending, double bender) -> /capabilities
+- Full-service machine shop -> /capabilities
+- 16,000 sq ft paint booth -> /capabilities
+- 2,000 sq ft sandblast booth -> /capabilities
+- In-house estimating and drafting, SDS/2 3D modeling -> /capabilities
+- Certifications: ASME, AISC, AWS, CWB -> /, /capabilities
+- ASME stamp holder for pressure vessels -> /capabilities
+- AISC-certified fabricator -> /capabilities
+- In-house AWS and CWB certified inspectors -> /capabilities
+- Materials: Structural Steel, Plate Steel, Rebar, Aluminum, Stainless Steel -> /capabilities
+- Industries served: industrial plants, wastewater treatment plants, sports arenas, government buildings, hospitals, commercial buildings, agricultural facilities, oil & gas structures, schools, churches, flood projects -> /capabilities
+- Rebar volume range: 2,000+ ton jobs to backyard patio slabs -> /capabilities
+- Staircase/railing/miscellaneous fabrication team -> /capabilities
+- Galvanizing and powder coating services -> /capabilities
 - Painting & coating services -> /capabilities
-- Galvanizing and powdercoating -> /capabilities
-- Staircase/railing/misc fabrication -> /capabilities
-- Oil refinery decks, joists, decking -> /capabilities
+- Sandblasting -> /capabilities
+- Welding (AISC/ASME certified) -> /capabilities
+- Shotblasting, sawing, drilling, robotic coping -> /capabilities
+- Plasma cutting, beveling, plate cutting -> /capabilities
 </details>
 
 ---
@@ -200,75 +206,75 @@ The company emphasizes relationship‑driven service, welcoming complex projects
 **Old description:** Mid State Welding is more than just a welding shop—we’re a family-run business built on hard work, passion, and a desire to create lasting metalwork that stands out. Founded by Rodney and Brooke Ross, we’re proud to serve Spearfish and the surrounding communities with custom metal fabrication, from railings and staircases to decks, structural projects, and mobile welding services.
 
 ## About
-Mid State Welding LLC operates from Spearfish, South Dakota, where it was founded in 2020 by Rodney and Brooke Ross. The husband‑and‑wife team started the business after Rodney spent 13 years welding pipelines across the country and they saw a local need for a reliable, full‑service metal fabrication shop. The company remains family‑owned and is run day‑to‑day by the Rosses, with Rodney handling welding and field work while Brooke manages client relations and project coordination.
+Mid State Welding LLC operates from Spearfish, South Dakota, where founders Rodney and Brooke Ross launched the family-owned business in 2020. After Rodney spent 13 years welding pipelines across the country, the couple settled in Brooke's hometown and, together with an initial business partner, set out to fill a local need for a reliable welding and fabrication shop. Today the company is run solely by the Ross family, with Rodney fabrication in the shop and field while Brooke manages client relations and project coordination.
 
-The shop provides custom metal fabrication including structural steel, pipe fencing, entryways, staircases, railings, decks, and bridges. Core processes cover MIG, TIG, and stick welding on carbon steel, stainless steel, and aluminum. Mid State Welding also operates mobile welding rigs that travel to job sites throughout the Black Hills, western South Dakota, and eastern Wyoming, offering on‑site equipment repair for farms, ranches, and commercial projects.
+The shop provides custom metal fabrication and a full range of welding processes—MIG, TIG, and stick—on carbon steel, stainless steel, and aluminum. Services span structural steel, pipe fencing, entryways, staircases, railings, decks, bridges, and mobile welding that brings the equipment directly to job sites across the Black Hills, western South Dakota, and eastern Wyoming. The crew also handles equipment repair, fence and corral maintenance, and commercial subcontracting, and has completed 135 projects since inception.
 
-Customers include homeowners, general contractors, builders, and agricultural operators across the region. The firm regularly subcontracts on commercial construction projects and handles farm and ranch equipment repair and fence maintenance. Its certifications allow it to bid on state and federal contracts, and the team coordinates with an engineer to produce code‑compliant plans for decks and structural work.
+Mid State Welding serves contractors, builders, commercial and residential property owners, farms and ranches, and state and federal agencies.
 
-The Rosses say they launched Mid State Welding to fill a gap for a trustworthy welding partner that could handle any project size while maintaining direct communication. Their stated values — professionalism, craftsmanship, trustworthiness, quality, and safety — guide every job, and they emphasize step‑by‑step visual updates so clients see progress from concept to completion.
+The Rosses emphasize professionalism, craftsmanship, trustworthiness, quality, and safety as core values, aiming to build lasting relationships along with durable metalwork. The business gained wider recognition when it was featured on the television series Building Outside the Lines, where the team fabricated a custom playhouse with floating stairs and railings.
 
 ## Known for
-- Mobile welding rigs for on‑site service across the Black Hills, western South Dakota, and eastern Wyoming
-- Family‑owned with founders directly involved in every project
-- On‑site farm and ranch equipment repair
-- Project visualization and step‑by‑step client updates
+- Mobile welding rigs bring the shop to the job site
+- Family-owned with hands-on owner involvement on every project
+- 135 completed projects across the Black Hills region
+- In-house engineering for code-compliant deck and structural plans
 
 ## Capabilities
 - Custom metal fabrication
+- MIG welding
+- TIG welding
+- Stick welding
+- Mobile welding
 - Structural steel fabrication
-- Pipe fencing
+- Pipe fence fabrication and installation
 - Entryway fabrication
 - Staircase fabrication
 - Railing fabrication
 - Deck building
 - Bridge fabrication
-- Mobile welding (MIG, TIG, stick)
-- On-site equipment repair
-- Farm and ranch equipment repair
+- Equipment repair
+- Fence and corral maintenance
 - Commercial subcontracting
+- Onsite welding services
 - Welding repair
-- Steel structure fabrication
-- Engineering support for code compliance
+- Farm and ranch welding services
+- Engineering support for code-compliant plans
 
 ## Industries
+- Construction
 - Commercial construction
 - Residential construction
-- Contractors
-- Builders
-- Farm and ranch
-- Agriculture
-- State and federal government projects
+- Agriculture (farm and ranch)
+- Government (state and federal projects)
+- Contractors and builders
 
 ## Equipment
 - Mobile welding rigs
-- MIG welders
-- TIG welders
-- Stick welders
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
 - **Founded:** 2020
 - **Ownership:** Family-owned
-- **Headquarters:** Spearfish, SD
+- **Headquarters:** Spearfish, South Dakota
 
 <details><summary>Sources</summary>
 
-- Founded in 2020 -> /about
-- Family-owned -> /about
-- Founders Rodney and Brooke Ross -> /about
-- Location Spearfish, South Dakota -> /
-- Certifications AWS D1.1 and ASME B31.3 -> /about, /services
-- Mobile welding rigs for on-site service -> /services
-- Materials: carbon steel, stainless steel, aluminum -> /services
-- 135 projects completed -> /about
-- Service area: Black Hills, western SD, eastern WY -> /, /services
-- Industries served: commercial, residential, contractors, builders, farm/ranch, state/federal -> /, /services
-- Values: professionalism, craftsmanship, trustworthiness, quality, safety -> /about
-- TV appearance on Building Outside the Lines -> /
-- Engineering support for city codes -> /services
-- On-site farm/ranch equipment repair -> /services
-- Step-by-step client updates and visuals -> /
+- Founded in 2020 by Rodney and Brooke Ross in Spearfish, SD -> /about
+- Family-owned and operated by the Ross family -> /about
+- Rodney Ross has 13 years pipeline welding experience -> /about
+- Completed 135 projects -> /about
+- Certified to AWS D1.1 and ASME B31.3 -> /about, /services
+- Mobile welding rigs with MIG, TIG, stick capabilities -> /services
+- Works with carbon steel, stainless steel, aluminum -> /services
+- Services include structural steel, pipe fence, entryways, staircases, railings, decks, bridges, equipment repair, farm/ranch welding -> /services
+- Serves Black Hills, western SD, eastern WY -> /, /services
+- Serves contractors, builders, commercial, residential, farm/ranch, state/federal projects -> /, /services
+- In-house engineer for code-compliant plans -> /services
+- Featured on Building Outside the Lines TV show -> /
+- Core values: professionalism, craftsmanship, trustworthiness, quality, safety -> /about
+- Headquarters: Spearfish, South Dakota -> db
+- Website: http://midstate-welding.com/ -> db
 </details>
 
 ---
@@ -278,71 +284,57 @@ The Rosses say they launched Mid State Welding to fill a gap for a trustworthy w
 **Old description:** We’re committed to helping homeowners and businesses get the metalwork look and function they want with custom fabrication services. Our team has extensive industry experience to make your creativity a reality. We can accommodate one-time projects and high-volume runs alike.
 
 ## About
-Mid-Atlantic Steel Fabrication operates from Ronks, Pennsylvania, in the heart of Lancaster County. The company runs a full-service custom metal fabrication shop serving both commercial and residential clients across the mid-Atlantic region and beyond.
+Mid-Atlantic Steel Fabrication operates from Ronks, Pennsylvania, in the heart of Lancaster County. The company runs a full-service custom metal fabrication shop serving both homeowners and businesses across the Mid-Atlantic region and beyond.
 
-Its capabilities span laser cutting, CNC forming, MIG and TIG welding, secondary machining such as countersinking, tapping, and hardware insertion, powder coating, and 3D CAD design support. The shop handles one-off prototypes as well as high-volume production runs, using automated equipment from partners including TRUMPF, HYDMECH, Ercolina, and Miller.
+The shop provides end-to-end fabrication capabilities including laser cutting, CNC forming, MIG and TIG welding, secondary machining such as countersinking, tapping and hardware insertion, and powder-coat finishing. Design support is offered through 3D CAD software, and the facility houses equipment from partners such as TRUMPF, HYDMECH, Ercolina and Miller. The company states it can handle one-off projects as well as high-volume production runs.
 
-The fabricator works with contractors, manufacturers, business owners, and homeowners, producing structural components, architectural metalwork, and custom parts for industries ranging from construction and manufacturing to agriculture and equestrian facilities. Shipping extends to most of North America.
+Customers include contractors, manufacturers, business owners and residential clients. The company's project gallery references structural steel components, ornamental iron railings, steel canopies and sheet-metal parts for industries such as construction, manufacturing and residential improvement.
 
-What distinguishes the shop is a dedicated project manager assigned to each job, AWS D1.1 certified welders, in-house finishing, and a one-stop workflow from design through powder coating that aims to reduce lead times and control costs.
+Mid-Atlantic Steel Fabrication emphasizes a one-stop-shop model with a dedicated project manager for each job, in-house secondary operations and certified welders holding AWS D1.1 structural credentials. The firm says its combination of advanced equipment, process expertise and proactive communication shortens lead times and controls costs.
 
 ## Known for
 - Dedicated project manager for each project
-- AWS D1.1 certified welding staff
-- In-house powder coating and secondary machining
-- Automated laser cutting and CNC forming equipment from TRUMPF, HYDMECH, Ercolina, Miller
-- 3D CAD design support and one-stop fabrication workflow
+- In-house secondary machining (countersinking, tapping, hardware insertion)
+- Powder-coat finishing available
+- Design support with 3D CAD software
+- Welders certified to AWS D1.1 structural standard
 
 ## Capabilities
-- Laser Cutting
-- CNC Forming
-- MIG Welding
-- TIG Welding
+- Laser cutting
+- CNC forming
+- MIG welding
+- TIG welding
 - Countersinking
 - Tapping
-- Hardware Insertion
-- Powder Coating
-- 3D CAD Design
-- Design Support
-- Secondary Machining
-- Project Management
-- Metal Cutting
-
-## Industries
-- Construction
-- Manufacturing
-- Agriculture (equestrian)
-- Residential
-- Commercial
+- Hardware insertion
+- Powder coating
+- 3D CAD design
+- Metal cutting
 
 ## Equipment
 - TRUMPF laser cutting systems
-- HYDMECH saws
-- Ercolina bending/forming equipment
+- HYDMECH equipment
+- Ercolina equipment
 - Miller welding equipment
 - Fully automated laser cutting system
-- CNC forming equipment
-- MIG/TIG welding stations
-- Powder coating line
-
-## Certifications
-- D1.1 Structural Certifications
+- Advanced bending and forming equipment
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Headquarters:** Ronks, Pennsylvania
 
 <details><summary>Sources</summary>
 
-- Location: Ronks, Pennsylvania -> db
+- Location: Ronks, Pennsylvania -> /
 - Full-service custom metal fabrication shop -> /
-- Capabilities: laser cutting, CNC forming, MIG/TIG welding, secondary machining, powder coating, 3D CAD design -> /
+- Services: laser cutting, CNC forming, MIG/TIG welding, secondary machining, powder coating, 3D CAD design -> /
 - Equipment partners: TRUMPF, HYDMECH, Ercolina, Miller -> /
-- Welder certification: D1.1 Structural Certifications -> /
-- Customer types: contractors, manufacturers, business owners, homeowners -> /
+- Welders hold AWS D1.1 Structural Certification -> /
+- Customers: contractors, manufacturers, business owners, homeowners -> /
 - Shipping to most of North America -> /
-- One-stop shop from design to finishing -> /
+- One-time projects and high-volume runs -> /
 - Dedicated project manager per project -> /
+- In-house secondary operations -> /
 </details>
 
 ---
@@ -352,29 +344,28 @@ What distinguishes the shop is a dedicated project manager assigned to each job,
 **Old description:** Mid-Atlantic Steel is a structural steel and miscellaneous metals fabricator located in New Castle, Delaware. We've provided structural steel for a large variety of building projects that include hospitals, educational facilities, office buildings, retail, and warehouse structures.
 
 ## About
-Mid-Atlantic Steel LLC operates as a structural steel and miscellaneous metals fabricator from its facility in New Castle, Delaware. The company's founding year and ownership structure are not publicly disclosed, and no founders are named in available sources. Its website has carried a copyright notice since 2010, suggesting the business has been active for over a decade.
+Mid-Atlantic Steel LLC operates as a structural steel and miscellaneous metals fabricator in New Castle, Delaware. The company has been active since at least 2010, as indicated by its website copyright, though a specific founding year is not publicly disclosed. Ownership details and founder names have not been published.
 
-The shop focuses on fabricating structural steel components and miscellaneous metal items for building projects. Its capabilities cover the full fabrication process for structural steel, and the company holds AISC certification, indicating adherence to the highest standards of the structural steel industry. Specific equipment, facility size, headcount, and annual volume are not published.
+The company fabricates structural steel and miscellaneous metal components for a range of building projects. Its work spans hospitals, educational facilities, office buildings, retail centers, and warehouse structures. No public data on facility square footage, employee count, or annual production volumes is available.
 
-The fabricator serves a range of commercial and institutional construction sectors. Past projects include hospitals, educational facilities, office buildings, retail centers, and warehouse structures.
+Mid-Atlantic Steel serves clients in healthcare, education, commercial real estate, and industrial construction. Project examples include hospitals, schools, office towers, retail outlets, and warehouse facilities.
 
-Mid-Atlantic Steel emphasizes its AISC certification as evidence that its work meets the highest standards of the structural steel industry. The certification underscores a commitment to quality and compliance in every project.
+The firm holds AISC certification, indicating adherence to the structural steel industry's quality and safety standards. No specific founding mission or unique value proposition beyond certification is stated.
 
 ## Known for
-- AISC Certified fabricator
-- Meets highest structural steel industry standards
-- Experience with hospitals, educational facilities, office buildings, retail, and warehouse projects
+- AISC Certified fabrication
+- Experience across healthcare, education, commercial, and industrial building sectors
+- Structural steel and miscellaneous metals fabrication under one roof
 
 ## Capabilities
 - Structural steel fabrication
 - Miscellaneous metals fabrication
 
 ## Industries
-- Hospitals
-- Educational facilities
-- Office buildings
-- Retail
-- Warehouse structures
+- Healthcare construction
+- Education construction
+- Commercial construction
+- Industrial construction
 
 ## Certifications
 - AISC Certified
@@ -385,10 +376,10 @@ Mid-Atlantic Steel emphasizes its AISC certification as evidence that its work m
 
 <details><summary>Sources</summary>
 
-- Location: New Castle, Delaware -> db, /
-- Business type: structural steel and miscellaneous metals fabricator -> /
+- Structural steel and miscellaneous metals fabricator -> /
+- Located in New Castle, Delaware -> /
 - AISC Certified -> /
-- Industries served: hospitals, educational facilities, office buildings, retail, warehouse structures -> /
+- Serves hospitals, educational facilities, office buildings, retail, warehouse structures -> /
 - Website copyright 2010 -> /
 - Address: 1144 River Road, New Castle, DE 19720 -> /
 </details>
@@ -400,19 +391,20 @@ Mid-Atlantic Steel emphasizes its AISC certification as evidence that its work m
 **Old description:** founded in 1999 by Adam Cole, is a Michigan-based metal fabrication shop focused on precision, accountability, and real-world performance. Our enduring commitment to excellence and customer satisfaction has allowed the company to grow and expand, now serving clients all across the USA.
 
 ## About
-Midnight Metal Craft LLC operates from Fraser, Michigan, a suburb north of Detroit. The company was founded in 2014 by Adam Cole as a metal fabrication shop built on precision, accountability, and disciplined execution.
+Midnight Metal Craft LLC operates from Fraser, Michigan, a suburb north of Detroit. The company was founded in 2014 by Adam Cole, who built the business on principles of precision, accountability, and disciplined execution. What began as a fabrication shop has grown into a partner for clients across the United States.
 
-The shop provides precision metal fabrication and welding, CNC plasma cutting and machining, custom metal design, and turn‑key fabrication services. Work flows from raw material through cutting, forming, welding, fit‑up, and final assembly, supporting small‑batch production runs, repeatable assemblies, prototypes, and test assemblies. The facility handles projects from prototype to limited‑production volumes.
+The shop manages projects from raw material through finished assembly, controlling cutting, forming, welding, fit-up, and final fabrication in-house. Capabilities include CNC plasma cutting, CNC machining, custom metal design, and turn-key fabrication. The team handles prototypes, test assemblies, small-batch production runs, and limited-production runs, delivering consistent quality with close attention to detail.
 
-Customers span defense and aerospace, industrial machinery, commercial environments, architectural features, and specialized hardware. The company serves clients across the United States, delivering components engineered for demanding real‑world applications.
+Midnight Metal Craft serves defense and aerospace customers as well as industrial machinery, commercial environments, architectural features, and specialized hardware sectors. Its client base spans the United States, with work supporting demanding real-world applications.
 
-Midnight Metal Craft emphasizes clear communication, exacting fabrication, and durable results as its differentiators. The firm highlights close control over every fabrication step, proudly sourcing, designing, and manufacturing in the United States, and building long‑term partnerships by translating designs into functional components with consistent quality.
+The company emphasizes clear communication, exacting fabrication, and durable results, positioning itself as a long-term partner that translates designs into functional components. All work is proudly sourced, designed, and manufactured in the United States.
 
 ## Known for
+- Precision, accountability, and disciplined execution as founding principles
 - Clear communication, exacting fabrication, and durable results
-- Close control over cutting, forming, welding, fit‑up, and final assembly
 - Proudly sourced, designed, and manufactured in the United States
-- Prototypes, test assemblies, and limited‑production runs with consistent quality
+- Turn-key fabrication from raw material to finished assembly
+- Long-term partnerships with consistent quality and close attention to detail
 
 ## Capabilities
 - Precision metal fabrication
@@ -421,32 +413,44 @@ Midnight Metal Craft emphasizes clear communication, exacting fabrication, and d
 - CNC machining
 - Custom metal design
 - Turn-key fabrication
-- Small-batch production runs
+- Small-batch production
 - Repeatable assembly
 - Prototyping
-- Test assembly fabrication
+- Test assemblies
+- Limited-production runs
+- Cutting
+- Forming
+- Fit-up
+- Final fabrication
 
 ## Industries
-- Defense/Aerospace
+- Defense / Aerospace
 - Industrial machinery
 - Commercial environments
 - Architectural features
 - Specialized hardware
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Founded:** 2014
 - **Headquarters:** Fraser, Michigan
 
 <details><summary>Sources</summary>
 
-- Founded in 2014 by Adam Cole -> /
-- Headquarters in Fraser, Michigan -> db (hq_city, hq_state_label) and /
-- Precision metal fabrication, welding, CNC plasma cutting, machining, custom design, turn-key fabrication -> db (capabilities) and /
-- Small-batch production runs, repeatable assembly, prototypes, test assemblies -> db (products) and /
-- Industries: defense/aerospace, industrial machinery, commercial environments, architectural features, specialized hardware -> db (industries_served) and /
-- Differentiators: clear communication, exacting fabrication, durable results, close control over all steps, US-sourced/manufactured, long-term partnerships -> /
-- Serves clients across the United States -> db (description) and /
+- Founded in 2014 by Adam Cole -> page /
+- Headquartered in Fraser, Michigan -> page /
+- Manages projects from raw material to finished assembly -> page /
+- Capabilities: cutting, forming, welding, fit-up, final fabrication -> page /
+- Offers CNC plasma cutting, CNC machining, custom metal design, turn-key fabrication -> page /
+- Handles prototypes, test assemblies, small-batch and limited-production runs -> page /
+- Serves defense/aerospace, industrial machinery, commercial, architectural, specialized hardware -> page /
+- Clients across the United States -> page /
+- Emphasizes clear communication, exacting fabrication, durable results -> page /
+- Proudly sourced, designed, and manufactured in the United States -> page /
+- Address: 33149 Groesbeck Highway, Fraser, Michigan 48026 -> page /
+- Phone: 586-630-6717 -> page /
+- Email: sales@midnightmetalcraft.com -> page /
+- Social media icons: Facebook, Instagram, YouTube -> page /
 </details>
 
 ---
@@ -456,39 +460,39 @@ Midnight Metal Craft emphasizes clear communication, exacting fabrication, and d
 **Old description:** Midwest Electronic Recovery (MER) protects your interests and the environment by employing state-of-the-art electronic recycling practices. Which is why MER is the largest computer and electronics recycling center in Iowa. For more than 10 years MER has offered electronic recycling solutions to communities, solid waste agencies, businesses, school districts, institutions, and individuals. Your electronic equipment and data is safest in our hands.
 
 ## About
-Midwest Electronic Recovery operates from two Iowa locations: a headquarters in Clive and a facility in Walford. The company has delivered electronic recycling services for over a decade, though no specific founding year or founders are disclosed in public materials. Ownership details are not publicly stated.
+Midwest Electronic Recovery (MER) operates from two Iowa locations: a headquarters in Clive and a facility in Walford. The company has been providing electronic recycling services for more than a decade, though a specific founding year is not disclosed. Ownership structure and founders are not publicly identified.
 
-MER provides end-of-life electronics management, including secure data destruction, asset recovery, testing, sanitization, and refurbishment of computer equipment and electronic overstock. The company describes itself as the largest computer and electronics recycling center in Iowa. It processes equipment from corporate, government, education, and individual sources, then resells qualified refurbished units through both virtual and physical storefronts in Clive and Walford. No facility square footage, headcount, or throughput volumes are published.
+MER positions itself as the largest computer and electronics recycling center in Iowa. It runs a technology disposition and asset recovery operation that refurbishes newer computer equipment and electronic overstock for resale. The company tests and sanitizes recovered assets, selling them through both physical stores in Walford and Clive and an online channel. Processes include electronic recycling, data sanitization, asset recovery, refurbishing, and remarketing.
 
-The customer base spans communities, solid waste agencies, businesses, school districts, institutions, and private individuals. Corporate clients, government agencies, and schools supply the inventory that MER tests and remarkets. The company serves both the recycling needs of organizations disposing of electronics and the purchasing needs of buyers seeking refurbished technology.
+The client base spans communities, solid‑waste agencies, businesses, school districts, government agencies, corporate customers, and individual consumers. Inventory is sourced from corporate, government, education, and private sources.
 
-MER emphasizes environmental protection through state-of-the-art recycling practices and positions its services as a way to reduce energy consumption and carbon emissions. The affiliated MCBIA brand highlights a “sophisticated approach to remarketing quality equipment, customer care, and superior savings” as its differentiating combination.
+MER emphasizes environmental protection—preserving natural resources, reducing energy consumption and carbon emissions—alongside data security and cost savings for customers. Its stated differentiator is a “sophisticated approach to remarketing quality equipment, customer care, and superior savings.”
 
 ## Known for
 - Largest computer and electronics recycling center in Iowa
-- State-of-the-art electronic recycling practices
-- Virtual and in-store shopping at two Iowa locations
-- Over ten years of technology disposition and asset recovery experience
+- State‑of‑the‑art electronic recycling practices
+- Constantly changing inventory of refurbished equipment
+- Sophisticated remarketing approach with customer care and savings
 
 ## Capabilities
 - Electronic recycling
-- Secure data destruction
+- Computer recycling
+- Electronics recycling
 - Asset recovery
-- Equipment testing
-- Data sanitization
-- Computer refurbishment
-- Refurbished electronics resale
 - Technology disposition
-- IT asset disposition (ITAD)
+- Refurbishing
+- Data sanitization
+- Testing
+- Remarketing
+- Retail sales of refurbished equipment
 
 ## Industries
-- Electronics recycling
-- IT asset disposition (ITAD)
-- Government services
-- Education
-- Corporate enterprise
-- Solid waste management
-- Refurbished electronics retail
+- Electronic waste recycling
+- IT asset disposition
+- Computer refurbishing
+- Government surplus
+- Education technology
+- Corporate IT disposal
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -497,14 +501,14 @@ MER emphasizes environmental protection through state-of-the-art recycling pract
 <details><summary>Sources</summary>
 
 - Largest computer and electronics recycling center in Iowa -> /
-- Operates in Clive and Walford, Iowa -> /
-- Provides electronic recycling solutions to communities, solid waste agencies, businesses, school districts, institutions, individuals -> /
-- MCBIA is a technology disposition and asset recovery company specializing in refurbishing newer computer equipment and electronic overstock for sale to the public -> /about
-- Inventory comes from corporate customers, government agencies, schools, businesses, private individuals -> /about
-- Tests, sanitizes, and offers for sale only the best recovered assets -> /about
-- Virtual and in-store shopping at Walford and Clive locations -> /about
-- More than ten years of technology services and refurbished equipment -> /about
-- Reduces environmental risk of recycling electronic equipment -> /about
+- More than 10 years offering electronic recycling solutions -> /
+- Locations in Walford and Clive, Iowa -> /
+- Technology disposition and asset recovery company specializing in refurbishing -> /about
+- Inventory from corporate customers, government agencies, schools, businesses, private individuals -> /about
+- Test, sanitize, offer for sale only best recovered assets -> /about
+- Stores in Walford and Clive, virtual shopping -> /about
+- Environmental focus: preserves natural resources, reduces energy consumption and carbon emissions -> /
+- Reduces environmental risk, good sense economy, superior savings -> /about
 </details>
 
 ---
@@ -514,33 +518,31 @@ MER emphasizes environmental protection through state-of-the-art recycling pract
 **Old description:** The low-profile, DonJoy® VersaROM® Hip helps deliver effective, functional ROM restriction in 15° increments. Easy-to-use abduction/adduction push buttons and malleable hip and thigh shells help provide an individualized fit for increased patient comfort and compliance.
 
 ## About
-Midwest Medical Resources, Inc. was founded in 2005 and is headquartered in Overland Park, Kansas. The company was co-founded by Ed Lewis, who serves as chief financial officer, alongside chief executive officer John Tarantino and chief operating officer Craig Dawson. The business began as a medical surgical sales agency dedicated to serving the Midwest region.
+Midwest Medical Resources, Inc. is based in Overland Park, Kansas, and was founded in 2005. The company operates as a medical surgical sales agency with a focus on orthopedics. Ed Lewis is identified as a co‑founder, while John Tarantino serves as chief executive officer and Craig Dawson as chief operating officer.
 
-The firm operates as a distributor and sales representative for orthopedic medical devices, carrying product lines from DonJoy and DJO Surgical. Its portfolio includes the VersaROM hip brace, the Empowr partial knee system, the AltiVate anatomic shoulder system, and the A22 custom titanium knee brace. The company focuses on surgical solutions, bracing, and rehabilitation products, providing clinical education and competitive product analysis to its customers.
+The firm represents a portfolio of orthopedic devices and bracing products from manufacturers such as DJO Surgical and DonJoy. Its featured lines include the DonJoy VersaROM hip brace, the Empowr Partial Knee system, the AltiVate Anatomic shoulder system, and the A22 custom titanium knee brace. Midwest Medical’s sales team covers the entire Midwest region, providing surgical solutions and rehabilitation products to healthcare providers.
 
-Midwest Medical serves physicians, hospitals, and healthcare providers across the Midwest. Its customer base includes orthopedic surgeons and surgical teams seeking implants, instruments, and post-operative bracing. The company emphasizes local presence, with representatives available to advise on complex cases and provide rapid support.
+Customers include orthopedic surgeons, hospitals, and surgical centers across the Midwest. The agency’s representatives work directly with physician customers to supply implants, instruments, and bracing for joint replacement, sports medicine, and trauma cases.
 
-The company states its differentiation lies in a sales force extensively trained on both its own product lines and competitive offerings, a strategic approach aimed at long-term solutions, and a service model that positions its associates as an extension of the customer's team.
+Midwest Medical states that its differentiators are a sales force trained on both its own and competitive product lines, a strategic consulting approach aimed at long‑term solutions, a service model that positions associates as an extension of the client’s team, and a local presence that enables rapid response to urgent needs.
 
 ## Known for
-- Sales team trained on both represented and competitive product lines
-- Local representatives across the Midwest for rapid response
-- Strategic, long-term partnership approach
-- Clinical education and product expertise
-- Mission-focused on physician and patient outcomes
+- Sales team trained on both own and competitive product lines
+- Strategic consulting for long-term solutions
+- Local representatives for rapid response
+- Focus on orthopedic surgical solutions and bracing
 
 ## Capabilities
-- Orthopedic medical device distribution
-- Surgical product sales representation
-- Clinical product education and training
-- Competitive product analysis
-- Bracing and rehabilitation product supply
+- Medical device sales representation
+- Orthopedic product distribution
+- Surgical solution consulting
+- Bracing and rehabilitation product sales
 
 ## Industries
 - Orthopedics
-- Surgical
-- Rehabilitation
-- Medical Devices
+- Medical surgical
+- Bracing and rehabilitation
+- Healthcare
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -550,12 +552,13 @@ The company states its differentiation lies in a sales force extensively trained
 <details><summary>Sources</summary>
 
 - Founded in 2005 -> /about
-- Headquartered in Overland Park, Kansas -> db
-- Medical surgical sales agency focusing on orthopedics -> /about, /
-- Represents DonJoy and DJO Surgical product lines -> /
-- Leadership: John Tarantino (CEO), Ed Lewis (Co-Founder/CFO), Craig Dawson (COO) -> /, /about
-- Serves entire Midwest region -> /about, /
-- Mission: provide physician customers and patients with best service and products -> /about
+- Headquarters Overland Park, Kansas -> db
+- Co-founder Ed Lewis -> /about
+- CEO John Tarantino -> /about
+- COO Craig Dawson -> /about
+- Sales agency focus on orthopedics -> /about
+- Serves entire Midwest -> /about
+- Product lines: DonJoy VersaROM Hip, Empowr Partial Knee, AltiVate Anatomic Shoulder, A22 Custom Knee Brace -> /
 - Philosophy: Patient Care is Key, Strategic Thinking, Stellar Service, Local -> /
 </details>
 
@@ -566,55 +569,48 @@ The company states its differentiation lies in a sales force extensively trained
 **Old description:** Our aerospace clients rely on us for innovative and affordable precision metal fabrication products.
 
 ## About
-Midwest Metal Products has operated from Cedar Rapids, Iowa since its founding in 1964. The company provides precision metal fabrication services to aerospace, electrical, and medical equipment manufacturers.
+Midwest Metal Products has operated from Cedar Rapids, Iowa since its founding in 1964. The company began as a precision metal fabrication shop and has grown into a full-service manufacturer serving aerospace, electrical, and medical markets.
 
-The shop runs a range of fabrication processes including CNC punching, laser cutting, press brake forming, welding (steel, stainless steel, aluminum), hardware insertion, chromate conversion coating, painting, powder coating, silk-screening, and assembly. Equipment includes high-speed EML turret/lasers with automated loading, press brakes with three-axis computer controls and HDS quick-setup machines, twelve automated and manual hardware insertion machines, a chromate conversion chem-film line, and a FabriVISION laser scanning system for flat-layout verification. The facility offers single-source manufacturing from design through finishing.
+The facility houses a range of metal fabrication processes including CNC punching, laser cutting, forming, welding (steel, stainless steel, and aluminum), hardware insertion, chromate conversion chem-film coating, silk-screening, press brake forming, turret/laser cutting, assembly, riveting, painting, and powder coating. Equipment includes high-speed EML turret/lasers with automated loading, a complete line of press brakes with three-axis computer controls and HDS machines, 12 automated and manual hardware insertion machines, and a FabriVISION® laser scanning system for flat layout verification. The company emphasizes single-source manufacturing from design through finishing.
 
-Customers span commercial, defense, and private aviation sectors, with Collins Aerospace recognizing the company as its 2025 Mechanical Supplier of the Year. The electrical division produces brackets and complex electronics enclosures, while the medical division builds equipment to strict industry standards.
+Midwest Metal Products serves the aerospace industry as a Collins Aerospace Mechanical Supplier of the Year (2025), supplying commercial, defense, and private aviation programs. It also fabricates electronic enclosures and brackets for the electrical sector and produces components for medical equipment manufacturers, adhering to strict industry standards.
 
-The company emphasizes on-time delivery, responsive service, and flexible capacity. Its differentiators include start-to-finish silk-screening, in-house chem-film for corrosion resistance, and laser-scanning validation before production.
+The company highlights its single-source manufacturing model, corrosion-resistant chem-film line, FabriVISION® scanning for first-article validation, and responsive customer service with flexible production capacity as key differentiators. Its commitment to quality, service, and on-time delivery is stated as paramount for every order.
 
 ## Known for
-- Collins Aerospace 2025 Mechanical Supplier of the Year
-- Single-source manufacturing with in-house silk-screening and chem-film coating
-- FabriVISION laser scanning for flat-layout authentication before production
-- Twelve automated and manual hardware insertion machines
-- Press brakes with three-axis computer controls and HDS quick-setup capability
+- Single-source manufacturing with in-house silk-screening
+- FabriVISION® high-speed laser scanning for flat layout authentication
+- Chromate conversion chem-film line for corrosion-resistant coatings
+- 12 high-tech automated and manual hardware insertion machines
+- High-speed EML turret/lasers with automated loading/unloading
 
 ## Capabilities
 - CNC punching
 - Laser cutting
-- Press brake forming
+- Forming
 - Welding (steel, stainless steel, aluminum)
 - Hardware insertion
-- Chromate conversion coating (chem-film)
+- Chromate conversion chem-film coating
+- Silk-screening
+- Press brake forming
+- Turret/laser cutting
+- Assembly
+- Riveting
 - Painting
 - Powder coating
-- Silk-screening
-- Assembly
-- FabriVISION laser scanning inspection
-- Automated turret/laser processing
-- Metal enclosure fabrication
-- Electronic enclosure manufacturing
-- Aerospace sheet metal fabrication
-- Medical device fabrication
+- FabriVISION laser scanning
 
 ## Industries
 - Aerospace
-- Defense
-- Commercial Aviation
-- Private Aviation
-- Electrical/Electronics
-- Medical Equipment
+- Electrical
+- Medical
 
 ## Equipment
-- EML turret/lasers with automated loading/unloading
-- Press brakes with three-axis computer controls
-- HDS press brake machines
-- 12 automated and manual hardware insertion machines
-- FabriVISION high-speed laser scanning system
+- HDS press brakes
+- EML turret/lasers
+- Automated and manual hardware insertion machines (12)
+- FabriVISION laser scanning system
 - Chromate conversion chem-film line
-- Silk-screening operation (start-to-finish)
 
 ## Certifications
 - AS9100
@@ -623,26 +619,121 @@ The company emphasizes on-time delivery, responsive service, and flexible capaci
 - ISO9001
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Founded:** 1964
 - **Headquarters:** Cedar Rapids, Iowa
 
 <details><summary>Sources</summary>
 
-- Founded 1964 -> db
-- Headquarters Cedar Rapids, Iowa -> db
+- Founded 1964 -> db, homepage
+- Headquarters Cedar Rapids, Iowa -> db, homepage
 - Certifications AS9100, NADCAP, ITAR, ISO9001 -> db
-- Collins Aerospace 2025 Mechanical Supplier of the Year -> homepage
-- Capabilities: CNC punching, laser cutting, forming, welding, hardware insertion, chem-film, painting, powder coating, silk-screening, assembly -> homepage
-- Equipment: EML turret/lasers, press brakes with three-axis controls, HDS machines, 12 insertion machines, FabriVISION laser scanning, chem-film line -> homepage
-- Industries: aerospace (commercial, defense, private aviation), electrical, medical -> homepage
+- Capabilities: CNC punching, laser cutting, forming, welding, hardware insertion, chem-film, silk-screening, press brakes, turret/lasers, assembly, riveting, painting, powder coating, FabriVISION scanning -> homepage
+- Industries: Aerospace, Electrical, Medical -> homepage
+- Equipment: HDS machines, EML turret/lasers, 12 insertion machines, FabriVISION, chem-film line -> homepage
 - Materials: steel, stainless steel, aluminum -> homepage
-- Single-source manufacturing with silk-screening -> homepage
-- Commitment to quality, service, on-time delivery -> homepage
+- Differentiators: single-source manufacturing, FabriVISION, chem-film line, 12 insertion machines, high-speed turret/lasers -> homepage
+- Collins Aerospace Mechanical Supplier of the Year 2025 -> homepage
 </details>
 
 ---
 
 # Midwest Printed Circuit Services, Inc.
 
-_skipped: not enough facts_
+**Old description:** Since 1984 MPCS has been a 100% U.S. made PCB supplier. We are dedicated to total customer satisfaction of product, service, and value. We achieve this result through our commitment to continuous improvement.
+
+## About
+Midwest Printed Circuit Services, Inc. (MPCS) was founded in 1984 in Round Lake Beach, Illinois. The company has operated as a 100% U.S.-based printed circuit board supplier since its inception.
+
+MPCS manufactures printed circuit boards ranging from simple single-sided designs to complex 30-layer multilayers with blind and buried vias. The shop handles flex and rigid-flex circuits, metal-core and heat-sink boards, and copper plating on ceramic substrates. All processes — including sequential lamination, controlled-depth drilling, controlled-impedance routing, and a full suite of surface finishes (HASL, ENIG, OSP, immersion silver, white tin, carbon inks, etc.) — are performed in-house across two facilities on Circuit Drive. The company supports quick-turn prototypes through full production runs, backed by an engineering team that provides DFM feedback to reduce material usage and setup time.
+
+The customer base spans military, aerospace (including NASA and manned-space-flight programs), medical technology, telecommunications, automotive, government research, industrial controls, audio/video, agricultural electronics, and transportation. Testimonials cite military buyers, medical purchasing managers, and industrial supply-chain managers as repeat clients.
+
+MPCS emphasizes its all-domestic production, a stable workforce with an average tenure of 12 years, and a continuous-improvement philosophy that passes engineering-driven cost savings directly to customers. Certifications such as AS9100D, MIL-PRF-31032, MIL-PRF-55110, and IPC Class 3/3A underscore its focus on high-reliability markets.
+
+## Known for
+- 100% U.S.-made PCB production with all processes in-house
+- Workforce averaging 12 years tenure
+- Engineering suggestions that reduce material usage and setup time, savings passed to customers
+- Certified to AS9100D, MIL-PRF-31032, MIL-PRF-55110, IPC-6012 Class 3/3A
+- Approved supplier for manned space flight
+
+## Capabilities
+- PCB fabrication (single-sided to 30-layer multilayer)
+- Blind and buried via fabrication
+- Flex and rigid-flex circuit fabrication
+- Metal core and heat sink board fabrication
+- Copper plating of ceramic substrates
+- Sequential lamination
+- Controlled depth drilling/plating
+- Controlled impedance (±10%)
+- Surface finishes: HASL, lead-free HASL, ENIG, OSP, immersion silver, white tin, carbon/conductive inks, gold tip plating, deep nickel gold, heavy gold, SIPAD
+- Engineering/DFM support
+- CAM automation
+- In-house milling/tooling for thermal management
+- Electrical test and AOI
+- Thermal management solutions
+
+## Industries
+- Military
+- Aerospace
+- Medical Technology
+- Telecommunications
+- Automotive
+- Government Research
+- Industrial Controls
+- Audio and Video Products
+- Agricultural Electronics
+- Transportation
+
+## Equipment
+- Gerber Crescent 30 ¼ Mil Resolution Plotter
+- Gerber Escort 30 Automatic Film Loader
+- HP 4V Laser Plotter
+- Kodak Kodamatic 66S+ Automatic Film Loader
+- 5 CAM Stations with Design Rule Check
+- Made2Manage Barcode Job Tracking Enterprise Management System with Barcode Tracking
+- CAM, ET, AOI, Laser Plotting & Drilling Network
+
+## Certifications
+- AS9100D
+- ISO9001:2015
+- ITAR Registered
+- JCP Certified
+- NIST 800-171 Compliant
+- CMMC Level 2 Certified Facility (In Process)
+- MIL-PRF-31032 /1 and /2 GF and GI Materials
+- MIL-PRF-55110 GF and GI Materials
+- IPC 6012 Class 2 and 3
+- IPC 6013 Class 2 and 3
+- NADCAP 7119 (In process)
+- UL Listed
+- ROHS Compliant
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1984
+- **Headquarters:** Round Lake Beach, Illinois
+
+<details><summary>Sources</summary>
+
+- Founded 1984 -> /about-us
+- Headquarters Round Lake Beach, Illinois -> / (contact info)
+- 100% U.S. made PCB supplier -> /
+- All processes performed in-house -> /about-us
+- Average employee tenure 12 years -> /about-us
+- Manufactures up to 30-layer multilayer, blind/buried vias, flex, rigid-flex, metal core, heat sink, ceramic substrates -> /about-us, /capabilities
+- Surface finishes listed -> /capabilities
+- Engineering/DFM support -> /services, /capabilities
+- Industries served: military, aerospace, medical, telecommunications, automotive, government research, industrial controls, audio/video, agricultural, transportation -> /about-us, /
+- Certifications: AS9100D, ISO9001:2015, ITAR, JCP, NIST 800-171, CMMC Level 2 (in process), MIL-PRF-31032, MIL-PRF-55110, IPC 6012/6013 Class 2/3, NADCAP 7119 (in process), UL, RoHS -> /capabilities, /
+- Materials: FR4 370HR, Getek, FR408, BT Epoxy, Polyimide, Thermagon, Teflon/Duroid/PTFE, hybrids -> /capabilities
+- Equipment: Gerber plotters, film loaders, CAM stations, Made2Manage system -> /services
+- Volume: prototype to production -> /services, /about-us
+- Lead time: 24-hour prototypes -> /services
+- Tolerances: controlled impedance ±10%, via size 0.004", line/space 0.003", SMD pitch 0.008", min board thickness 0.030" -> /capabilities
+- Approved for manned space flight -> /about-us
+- Testimonials from military buyer, medical purchasing manager, industrial supply chain manager -> /about-us
+</details>
+
+---

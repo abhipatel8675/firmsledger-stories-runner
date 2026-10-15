@@ -3,39 +3,36 @@
 **Old description:** Lorem ipsum dolor amet food truck affogato cronut freegan skateboard photo booth, tousled pickled 90's wayfarers retro succulents hoodie edison bulb ramps. XOXO seitan tote bag, offal vape air plant disrupt chia plaid taxidermy cloud bread microdosing 8-bit.
 
 ## About
-Alcom LLC was founded in 2005 by Trapper Clark and Thomas Sturtevant in Waterville, Maine, where the company leased an 8,000-square-foot facility to begin building aluminum trailers. The operation soon relocated to a 70,000-square-foot plant in Winslow, Maine, which remains the corporate headquarters, and has since expanded to three additional manufacturing sites in Bonner, Montana; Sioux Falls, South Dakota; and Deland, Florida.
+Alcom LLC was founded in 2005 by Trapper Clark and Thomas Sturtevant in Waterville, Maine, beginning with an 8,000‑square‑foot leased facility. The company relocated to Winslow, Maine, in 2011 upon completion of a new 70,000‑square‑foot plant, which remains its headquarters. The founders were recognized as Maine’s Small Business Persons of the Year by the SBA in 2010.
 
-The company produces more than 160 standard trailer models spanning cargo, personal watercraft, horse and livestock, car hauler, snowmobile, landscape and utility, ATV, and motorcycle categories. The product line includes both open and enclosed configurations, with customization available for dealer-specific requirements.
+The company manufactures aluminum trailers, offering more than 160 standard models that span cargo, personal watercraft, horse and livestock, car hauler, snowmobile, landscape and utility, ATV, and motorcycle categories. It also provides customized open and enclosed solutions for its dealer network. Production is spread across four plants: Winslow, ME (70,000 sq ft plus a 35,000 sq ft high‑efficiency weld shop), Bonner, MT (over 170,000 sq ft), Sioux Falls, SD (58,000 sq ft), and Deland, FL (130,000 sq ft). As of 2021, Alcom employed more than 700 people nationwide and operates seven days a week on multiple shifts.
 
-Alcom sells exclusively through a dealer network that covers the United States and Canada, serving recreational and commercial end-users. Notable OEM partnerships include a licensed trailer line for Polaris Industries. The company's dealer-first philosophy emphasizes rapid turnaround, dedicated territorial and inside sales teams, and ongoing model refinement to fill market gaps.
+Alcom sells primarily through a dealer network across the United States and Canada. Its trailers serve the powersports, agricultural, commercial, and recreational markets. The company has produced licensed products for Polaris Industries and Victory brands, and it owns the High Country, SnoPro, CargoPro, Stealth, and Frontier trailer lines acquired through strategic purchases.
 
-Alcom differentiates itself through speed and innovation: it introduced the industry's first 100% aluminum livestock trailer chassis in 2016 and the only aluminum dump trailer in 2017. The leadership team, including CEO John Kwapis (appointed 2024) and CSMO Dan Mills (with the firm since inception), stresses operational stability and continuous investment in capacity, such as the 35,000-square-foot high-efficiency weld shop added in Winslow in 2019.
+Its “Dealers First” philosophy prioritizes service before, during, and after the sale, with a focus on quality components, skilled craftsmen, and keeping dealers informed to support their profitability.
 
 ## Known for
-- Operates manufacturing seven days a week for faster turnaround
-- 160+ standard trailer models across eight recreational and commercial categories
-- Four U.S. manufacturing plants (ME, MT, SD, FL) reducing freight costs and lead times
-- Dealer-first model with 13 territorial and 10 inside sales representatives
-- Pioneered first 100% aluminum livestock trailer chassis (2016) and only aluminum dump trailer (2017)
+- Seven‑day‑a‑week manufacturing for faster turnaround
+- Four U.S. plants reducing freight costs and delivery time
+- 160+ standard trailer models with custom configuration capability
+- Dealer‑centric service model covering pre‑sale to post‑sale support
+- Licensed OEM production for Polaris and Victory brands
 
 ## Capabilities
-- Aluminum welding and fabrication
-- Trailer design and engineering
-- Custom trailer manufacturing
-- High-volume production (7-day operation)
-- Licensed OEM manufacturing
-- Open and enclosed trailer assembly
+- Aluminum trailer fabrication
+- Custom trailer design and engineering
+- High‑efficiency aluminum welding
+- Multi‑shift, seven‑day production
+- Licensed OEM trailer manufacturing
+- Dealer network management and support
 
 ## Industries
-- Cargo trailers
-- Personal watercraft (PWC) trailers
-- Horse and livestock trailers
-- Car haulers
-- Snowmobile trailers
-- Landscape and utility trailers
-- ATV trailers
-- Motorcycle trailers
-- Commercial-grade trailers
+- Trailer manufacturing
+- Powersports (PWC, snowmobile, ATV, motorcycle)
+- Agriculture and livestock transport
+- Commercial and utility hauling
+- Automotive (car haulers)
+- Recreational vehicle accessories
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -47,19 +44,17 @@ Alcom differentiates itself through speed and innovation: it introduced the indu
 <details><summary>Sources</summary>
 
 - Founded 2005 by Trapper Clark and Thomas Sturtevant -> /about-us
-- Headquarters in Winslow, Maine -> /about-us, db
-- Four manufacturing plants: Winslow ME, Bonner MT, Sioux Falls SD, Deland FL -> /about-us
-- 160+ standard trailer models across eight categories -> /about-us
-- Employee count exceeds 700 nationwide (2021) -> /about-us
-- Operates 7 days a week -> /about-us
-- Dealer network in US and Canada -> /about-us
-- Licensed trailer line for Polaris Industries (2010) -> /about-us
-- First 100% aluminum livestock trailer chassis (2016) -> /about-us
-- Industry's only aluminum dump trailer (2017) -> /about-us
-- Acquisitions: High Country Aluminum Trailers (2006), SnoPro Inc. (2009) -> /about-us
-- Awards: Maine Small Business Persons of the Year (2010), #1 Market Share Growth enclosed trailers (2019) -> /about-us
-- Leadership: John Kwapis CEO (Dec 2024), Dan Mills CSMO (since 2006) -> /about-us
-- Facility sizes: Winslow 70k+35k sq ft, Bonner 170k+ sq ft, Sioux Falls 58k sq ft, Deland 130k sq ft -> /about-us
+- Headquarters in Winslow, Maine -> /about-us
+- Four manufacturing plants (Winslow, Bonner, Sioux Falls, Deland) with square footage -> /about-us
+- 160+ standard trailer models across multiple categories -> /about-us
+- Employee count exceeds 700 as of 2021 -> /about-us
+- Seven‑day‑a‑week operation reducing lead times -> /about-us
+- Dealers First customer service philosophy -> /about-us
+- Licensed production for Polaris Industries and Victory brands -> /about-us
+- Acquisitions: High Country Aluminum Trailers, SnoPro Inc., Frontier Aluminum Horse and Livestock Trailers -> /about-us
+- Founders named Maine Small Business Persons of the Year 2010 -> /about-us
+- John Kwapis appointed CEO December 2024 -> /about-us
+- Dan Mills CSMO since 2006 -> /about-us
 </details>
 
 ---
@@ -69,73 +64,77 @@ Alcom differentiates itself through speed and innovation: it introduced the indu
 **Old description:** Stepping out into the fashion business is overwhelming; Aletheia Design + Sewing Service exists to help young brands, local brands, and small brands do it with class. Offering affordable, low-minimum fashion manufacturing, sample making, product development and technical help to launch your line and bring your ideas to life.
 
 ## About
-Aletheia Design & Sewing Service operates a low-overhead fashion factory in the Northeast Minneapolis arts district. Founded in 2014, the company is owned and operated by Abby Hansen, a garment technician with over 12 years of industrial apparel design and manufacturing experience. Hansen established the business to provide emerging brands with an affordable, manageable path from concept to production.
+Aletheia Design & Sewing Service operates from a compact facility in the Northeast Minneapolis arts district NE. Founded in 2014, the company is owned and operated by Abby Hansen, a garment technician with over 12 years of industrial apparel experience. Hansen’s background includes soft‑goods production management, contract sewing, and costume work for Sesame Street Live, the Minnesota Opera, and the Guthrie Theater. She holds a BA in Apparel Design from St. Catherine University, a certificate in Apparel Technologies from Minneapolis Community and Technical College, and is an alumna of the Sewing Factory School’s Apparel Manufacturing Boot Camp. The name “aletheia” (Greek for “disclosure” or “unconcealedness”) reflects a commitment to transparency in fashion manufacturing.
 
-The shop specializes in contract cut-and-sew work for small-batch apparel, offering services a la carte: pattern making and auditing, fit audits, sample development, grading, marking, and production runs of 20 to 200 units per style per colorway. Equipment includes Union Special, Rimoldi, Juki, and Singer industrial sewing machines, along with dedicated cutting space. The facility is intentionally compact, focusing on the machinery and processes needed for efficient small-lot manufacturing.
+The shop provides a la carte product‑development and cut‑and‑sew services for emerging brands. Core processes include pattern making, fit audits, sample making, grading coordination, marker making, and small‑batch production runs of 20 to 200 units per style per colorway. Equipment comprises Union Special, Rimoldi, Juki, and Singer industrial sewing machines plus dedicated cutting space. The low‑overhead, human‑scale workspace is designed to keep costs manageable for small‑order clients.
 
-Clients are primarily young, local, and small fashion brands launching their first lines or scaling early collections. Aletheia works collaboratively through a step-by-step development process that includes a launch audit, sourcing kickstart documents, and pre-production coordination. The company also maintains a referral network for services outside its scope, such as digital pattern making or specialized grading.
+Aletheia serves young, local, and small apparel brands that need technical guidance and flexible manufacturing to launch their lines. Customers range from independent designers with a single sketch to brands ready for presales and initial production runs. The collaborative development model lets clients engage only the steps they need, from initial consulting through to finished goods.
 
-The name “aletheia” (Greek for “disclosure” or “unconcealedness”) reflects Hansen’s stated vision of honesty in fashion. By keeping overhead low and limiting services to those she can execute efficiently, she aims to make domestic manufacturing accessible to brands that might otherwise be priced out of the market.
+Hansen started the business to offer an affordable, low‑minimum alternative to traditional factories, emphasizing honesty in pricing and process. By keeping scope focused and referring out work outside her core capabilities, she aims to deliver quality garments within a startup’s budget.
 
 ## Known for
-- Low-overhead, human-scale factory focused on small-batch apparel
-- Collaborative, step-by-step product development model
-- A la carte services (pattern making, sampling, grading, production)
-- Low minimum production runs (20–200 units per style/colorway)
-- Referral network for complementary services (digital patterns, specialized grading)
+- Low-minimum production runs (20 units per style per colorway)
+- A la carte, collaborative product development model
+- Low-overhead, human-scale factory in NE Minneapolis arts district
+- Owner-operated with 12+ years industrial apparel and costume experience
+- Referral network for services beyond in-house capabilities
 
 ## Capabilities
-- Contract apparel cut and sew
-- Sample making
-- Product development
-- Pattern making
-- Pattern audit
-- Fit audit
-- Grading
-- Marking
-- Cut and bundle
-- Marker making
+- Launch Audit Consult
+- General Consulting
+- Hard copy pattern making / Pattern Audit
+- Fit Audit
+- Samplemaking / Style Development
+- Sourcing Kickstart Document
+- Preproduction: Cutter's must, Coordinate grading and marking
+- Size sets / Duplicate samples
+- Cut and bundle / Hard copy marker making
 - Small batch cut and sew (20-200 units)
-- Sourcing kickstart document
-- Launch audit consult
-- General consulting
-- Access to in-house trims and notions
+- Access to in-house guts, notions, and trim
+- Grading coordination (referred)
+- Production pattern making
+- Contract sewing
+- Cut and sew manufacturing
+- Product development consulting
+- Technical design consulting
+- Sample making
+- Marker making
+- Fit auditing
+- Sourcing assistance
 
 ## Industries
-- Apparel
-- Fashion
-- Emerging brands
-- Small brands
-- Local brands
+- Apparel manufacturing
+- Fashion design
+- Soft goods manufacturing
 
 ## Equipment
-- Union Special sewing machines
-- Rimoldi sewing machines
-- Juki sewing machines
-- Singer sewing machines
-- Cutting space
+- Union Special industrial sewing machines
+- Rimoldi industrial sewing machines
+- Juki industrial sewing machines
+- Singer industrial sewing machines
+- Cutting tables
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
 - **Founded:** 2014
-- **Ownership:** Woman-owned
+- **Ownership:** Woman-owned (sole proprietor)
 - **Headquarters:** Minneapolis, Minnesota
 
 <details><summary>Sources</summary>
 
 - Founded 2014 -> db
-- Headquarters Minneapolis, MN -> db and /about
-- Owner Abby Hansen -> /about
-- Services: contract cut and sew, sample making, product development -> /services
-- Equipment: Union Special, Rimoldi, Juki, Singer -> /services
-- Production volume 20-200 units -> /services
-- Minimum order 20 units per style per colorway -> /services
-- Collaborative product development model -> /services
-- Low overhead factory -> /about
-- Name meaning -> /about
-- Location NE Minneapolis arts district -> /about
-- Owner background: 12 years experience, certificate in Apparel Technologies, BA in Apparel Design -> /about
-- Referral network for outside services -> /about
+- Located in Northeast Minneapolis arts district at 3134 California St NE -> /about
+- Owned and operated by Abby Hansen -> /about
+- Abby Hansen has 12+ years industrial apparel experience -> /about
+- Background includes costume work for Sesame Street Live, MN Opera, Guthrie -> /about
+- Education: BA Apparel Design St. Catherine University, certificate Apparel Technologies MCTC, Sewing Factory School Boot Camp alumna -> /about
+- Offers low-minimum cut and sew (20-200 units per style per colorway) -> /services
+- Equipment: Union Special, Rimoldi, Juki, Singer machines and cutting space -> /services
+- Services: pattern making, fit audit, sample making, grading coordination, marker making, small batch production, consulting -> /services
+- Serves emerging, local, small apparel brands -> /, /services
+- Collaborative a la carte product development model -> /services
+- Low-overhead, human-scale factory concept -> /about
+- Name 'aletheia' means disclosure/unconcealedness in Greek -> /
 </details>
 
 ---
@@ -145,68 +144,68 @@ The name “aletheia” (Greek for “disclosure” or “unconcealedness”) re
 **Old description:** specializes in manufacturing equipment for the protein and alternative protein products industry. We’re known worldwide for our expertise in a broad number of areas ensuring our customers receive the support needed for their cooking and chilling operations.
 
 ## About
-Alkar-RapidPak, Inc. is headquartered in Lodi, Wisconsin, and traces its origins to the 1950s. The company operates as a division of Middleby Food Processing and Packaging, a global portfolio of food production technology brands.
+Alkar-RapidPak, Inc. is based in Lodi, Wisconsin, and traces its roots to the 1950s. The company operates as a division of Middleby Food Processing and Packaging, a global portfolio of food production brands. No founders are named in available sources.
 
-The company custom engineers batch and continuous cooking and chilling equipment for protein and alternative protein processors worldwide. Its product line includes batch ovens with capacities from 500 to 50,000 pounds, offering direct or indirect gas heat, steam coil, hot oil, high-temperature, BBQ, fermentation, and cold smoking configurations. Continuous processing systems handle up to 10,000 pounds per hour with automated loading and unloading. Chillers and the TurboChef — described as the only industrial oven combining microwave, convection, and steam heating — round out the portfolio. To date, Alkar has installed nearly 400 continuous systems and 6,000 batch units globally.
+The company custom engineers batch and continuous cooking and chilling equipment for the protein and alternative protein industries. Its product line includes batch ovens (500–50,000 lbs capacity), continuous processing systems (up to 10,000 lbs/hr), and high-performance chillers. Processes cover cooking, smoking, chilling, and pasteurization, with the proprietary TurboChef oven combining microwave, convection, and steam heating. To date, Alkar has installed nearly 400 continuous systems and 6,000 batch units worldwide.
 
-Alkar serves meat, poultry, alternative protein, pet food, fish, and snack processors. Customers range from regional plants to multinational food companies seeking thermal processing solutions for cooking, smoking, chilling, and pasteurization.
+Customers span meat, poultry, alternative protein, pet food, fish, and snack processors globally. The company provides scientific advice, process development, plant layout, and custom equipment design alongside its hardware.
 
-The company emphasizes process flexibility, product consistency, and automation to lower operating costs. Its differentiation rests on custom engineering that spans scientific advice, process development, plant layout, and equipment design, backed by a support network that the company says has driven its position in the meat and protein thermal processing segment.
+Alkar differentiates itself with the only industrial oven offering microwave, convection, and steam heating in a single unit, and emphasizes unwavering customer support and custom thermal processing solutions.
 
 ## Known for
-- Only industrial oven worldwide with microwave, convection & steam heating (TurboChef)
-- Nearly 400 continuous systems and 6,000 batch units installed globally
-- Batch systems from 500 to 50,000 lbs capacity with multiple heating options
-- Continuous processing up to 10,000 lbs/hr with automated loading/unloading
-- Custom engineering from process development to plant layout
+- Only industrial oven with microwave, convection, and steam heating combined (TurboChef)
+- Nearly 400 continuous systems and 6,000 batch units installed worldwide
+- Custom engineered batch and continuous cooking/chilling equipment
+- Process development, plant layout, and custom equipment design services
+- Automated continuous processing up to 10,000 lbs/hr
 
 ## Capabilities
-- Custom engineering of batch cooking systems
-- Custom engineering of continuous cooking systems
-- Custom engineering of chilling systems
-- Thermal processing (cooking, smoking, chilling, pasteurization)
-- Process development and optimization
-- Plant layout and design
-- Automation integration
-- Batch oven manufacturing (gas, steam, hot oil, high-temp, BBQ, fermentation, cold smoking)
-- Continuous processing systems (up to 10,000 lbs/hr)
-- Chiller manufacturing
-- Microwave/convection heating (TurboChef)
-- Equipment installation and support
+- Custom engineering
+- Batch cooking
+- Continuous cooking
+- Chilling
+- Smoking
+- Pasteurization
+- Process development
+- Plant layout
+- Custom equipment design
+- Automation solutions
+- Microwave heating
+- Convection heating
+- Steam heating
+- TurboChef technology
 
 ## Industries
-- Meat processing
-- Poultry processing
-- Alternative protein processing
-- Pet food processing
-- Fish processing
-- Snack food processing
+- Meat
+- Poultry
+- Alternative Protein
+- Pet Food
+- Fish
+- Snacks
 
 ## Equipment
-- TurboChef by Alkar (microwave and convection heating industrial oven)
+- TurboChef
 - Batch ovens
 - Continuous processing systems
 - Chillers
 
 ## Company details
 - **Company Type:** Manufacturer
-- **Founded:** 1950s
 - **Ownership:** Division of Middleby Food Processing and Packaging
 - **Headquarters:** Lodi, Wisconsin
 
 <details><summary>Sources</summary>
 
 - Headquarters in Lodi, Wisconsin -> db
-- Founded in 1950s -> /
+- Founded in the 1950s -> /
 - Division of Middleby Food Processing and Packaging -> /about-us
 - Custom engineers batch and continuous cooking and chilling equipment -> /
-- Nearly 400 continuous systems and 6,000 batch units installed -> /
-- Batch systems 500 to 50,000 lbs capacity -> /about-us
+- Batch ovens 500–50,000 lbs capacity -> /about-us
 - Continuous processing up to 10,000 lbs/hr -> /
-- TurboChef microwave/convection oven -> /about-us
-- Industries: meat, poultry, alternative protein, pet food, fish, snacks -> /
-- Process development, plant layout, custom equipment design -> /
-- Only industrial oven with microwave, convection & steam heating -> /
+- Nearly 400 continuous systems and 6,000 batch units installed -> /
+- TurboChef: only industrial oven with microwave, convection, and steam heating -> /
+- Industries served: Meat, Poultry, Alternative Protein, Pet Food, Fish, Snacks -> /
+- Provides process development, plant layout, custom equipment design -> /
 </details>
 
 ---
@@ -216,40 +215,43 @@ The company emphasizes process flexibility, product consistency, and automation 
 **Old description:** All About Electronics specializes in computer repair and offers a wide variety of additional services including, but not limited to, system backups, networking solutions, iPhone or tablet screen replacements, plus refurbished computer sales with prices starting at just $99!
 
 ## About
-All About Electronics operates from Lyndonville, Vermont, where owner Marc Plourde has provided on-site and drop-off electronics service across a 100-mile radius of Littleton for more than a decade. The business began as a one-technician operation and has grown to employ a small team of Microsoft A+ and Apple certified technicians who travel to clients or work from the shop.
+All About Electronics operates from Lyndonville, Vermont, where owner Marc Plourde has provided electronics repair and IT services across a 100-mile radius of the Littleton area for more than a decade. The business is owner‑operated and staffed by technicians holding both Microsoft A+ and Apple certifications.
 
-The company focuses on repair and support for consumer and small-business electronics. Services span computer and laptop repair, virus removal, data recovery and backup, screen replacement for phones and tablets, soldering of power jacks and motherboards, and repair of televisions and video-game consoles. It also sells refurbished systems starting at $99, builds custom desktops, offers custom laptop painting, and provides server installation and networking support. Loaner computers are available while devices are in the shop, and emergency service runs around the clock.
+The shop handles computer and laptop repair, virus removal, data recovery and backup, screen replacements for phones and tablets, soldering on motherboards and power jacks, and repair of televisions and video‑game consoles. It also builds custom desktops, sells refurbished systems starting at $99, offers remote assistance, server installation, and networking services, and provides loaner computers while a customer’s device is being serviced.
 
-Customers include home users and local businesses throughout northern Vermont and parts of New Hampshire. The 30-mile pickup and delivery zone around Lyndonville covers offices that need on-site server setup or network troubleshooting, while the wider 100-mile service radius reaches residential clients for in-home repairs.
+Customers are primarily residential users and small businesses in northern Vermont and nearby New Hampshire who need quick turnaround on personal electronics and IT infrastructure. Pickup and delivery are available within 30 miles of Lyndonville.
 
-Plourde emphasizes a “heart-first” service philosophy backed by a 100-percent satisfaction guarantee. The combination of manufacturer certifications, loaner hardware, and round-the-clock availability is positioned as the reason clients return rather than replace equipment.
+Plourde emphasizes a 100% satisfaction guarantee, 24/7 emergency availability, and the convenience of on‑site pickup and delivery as the reasons clients return.
 
 ## Known for
-- Microsoft A+ and Apple certified technicians
+- Microsoft A+ and Apple Certified Technicians
 - Loaner computers provided during repairs
 - 24/7 emergency service availability
-- Pickup, delivery, and setup within 30 miles of Lyndonville
+- Pickup and delivery within 30 miles of Lyndonville
 - 100% customer satisfaction guarantee
 
 ## Capabilities
-- Computer Repair
-- Computer Recycling
-- Data Recovery, Storage and Backup
-- Password Recovery
-- Video Game Console Repair (Xbox, Nintendo, PlayStation)
-- Computer Virus Removal
-- Laptop A/C Power Jack Repair
-- Hard Drive Imaging
-- Laptop and iPhone Screen Replacement
-- LCD, HD, and Plasma Television Repair
-- Professional Soldering on A/C Jacks, LCD Monitors, and Motherboards
-- Remote Assistance
-- Server Installation
-- Networking Service
-- Pick Up, Delivery and Set Up
-- Refurbished Computer Sales
-- Custom Built Computers
-- Custom Painted Laptops
+- Computer repair
+- Laptop and iPhone screen replacement
+- Computer virus removal
+- Data recovery, storage, and backup
+- Custom built computers
+- Remote assistance
+- LCD, HD, and Plasma TV repair
+- Video game console repair
+- Professional soldering on motherboards and power jacks
+- Server installation
+- Networking service
+- Computer recycling
+- Password recovery
+- Hard drive imaging
+- Refurbished computer sales
+- Custom painted laptops
+
+## Industries
+- Consumer electronics repair
+- Computer repair
+- IT services
 
 ## Certifications
 - Microsoft A+ Certified
@@ -257,20 +259,25 @@ Plourde emphasizes a “heart-first” service philosophy backed by a 100-percen
 
 ## Company details
 - **Company Type:** Installer / service company
-- **Ownership:** Owner-operated by Marc Plourde
+- **Ownership:** Owner-operated
 - **Headquarters:** Lyndonville, Vermont
 
 <details><summary>Sources</summary>
 
-- Location: Lyndonville, Vermont -> db
-- Owner: Marc Plourde -> /about
-- Service radius: 100 miles from Littleton, VT -> /about
-- Certifications: Microsoft A+ Certified, Apple Certified Technicians -> /, /about
-- Services: computer repair, virus removal, data recovery, screen replacement, TV repair, console repair, refurbished sales, custom builds, networking, server installation -> /services
-- Loaner computers and 24/7 emergency service -> /
-- Pickup/delivery within 30 miles of Lyndonville -> /services
-- 100% customer satisfaction guarantee -> /about
-- Years in business: over 10 years -> /about
+- Location Lyndonville, Vermont -> db
+- Owner Marc Plourde -> /about
+- Over 10 years service -> /about
+- Microsoft A+ and Apple Certified Technicians -> /about and /
+- Services list (computer repair, screen replacement, virus removal, data recovery, custom builds, refurbished sales, remote assistance, TV repair, console repair, soldering, server installation, networking, recycling, password recovery, hard drive imaging, custom painted laptops) -> /services and /
+- Service radius 100 miles Littleton -> /about
+- Pickup/delivery within 30 miles Lyndonville -> /services
+- Loaner computers, 24/7 emergency -> /
+- Refurbished computers starting at $99 -> /
+- 100% satisfaction guarantee -> /about
+- No explicit founding year -> db
+- No employee count -> db
+- No equipment, materials, volume, lead time, tolerances -> db
+- Company type as service company -> description and services pages
 </details>
 
 ---
@@ -280,35 +287,35 @@ Plourde emphasizes a “heart-first” service philosophy backed by a 100-percen
 **Old description:** Here is a great explanation from Wikipedia when searching "OEM": "An Original Equipment Manufacturer (OEM) is a company that produces parts and equipment that may be marketed by another manufacturer. For example, if Acme Manufacturing Co. makes power cords that are used on IBM computers, Acme is an OEM. The term is also used in several other ways, which causes ambiguity. It sometimes means the maker of a system that includes other companies' subsystems, an end-product producer, an automotive part that is manufactured by the same company that produced the original part used in the automobile's assembly, or a value-added reseller." "When referring to auto parts, OEM refers to the manufacturer of the original equipment, that is, the parts assembled and installed during the construction of a new vehicle. In contrast, aftermarket parts are those made by companies other than the OEM, which might be installed as replacements after the car comes out of the factory. For example, if Ford used Autolite spark plugs, Exide batteries, Bosch fuel injectors, and Ford's own engine blocks and heads when building a car, then car restorers and collectors consider those to be the OEM parts. Other-brand parts would be considered aftermarket, such as Champion spark plugs, DieHard batteries, Kinsler fuel injectors, and BMP engine blocks and heads. Many auto parts manufacturers sell parts through multiple channels, for example to car makers for installation during new-vehicle construction, to car makers for resale as automaker-branded replacement parts, and through general merchandising supply chains. Any given brand of part can be OE on some vehicle models and aftermarket on others".
 
 ## About
-All European Auto Supply operates from Ferndale, Michigan, serving as a specialist distributor of genuine, OE, and OEM replacement parts for European vehicle brands including BMW, Volkswagen, Mercedes-Benz, Mini, Audi, Porsche, Land Rover, Saab, and Fiat. The company's founding year and ownership structure are not publicly disclosed in the available sources.
+All European Auto Supply operates from Ferndale, Michigan, supplying genuine, original-equipment and OEM replacement parts for European vehicle lines including BMW, Volkswagen, Mercedes-Benz, Mini, Audi, Porsche, Land Rover, Saab and Fiat. The company's founding year and ownership structure are not publicly disclosed.
 
-The business functions as a wholesale and retail parts supplier, maintaining a warehouse operation that supports both shipping and contact-free locker pickup for local customers. Its catalog spans braking, engine timing, lighting, electrical, chassis, and filtration components sourced from established manufacturers such as Brembo, Febi Bilstein, Valeo, DENSO, and Professional Parts Sweden. The company offers a business-to-business account program with volume pricing, a bulk-deal discount on orders of ten or more line items, and a VIN-based lookup tool to ensure fitment accuracy.
+The business functions as a wholesale distributor, stocking brands such as Brembo braking components, Febi Bilstein chassis and timing parts, Valeo lighting and electrical systems, DENSO ignition products and Professional Parts Sweden. Its e-commerce platform provides VIN-based lookup, a multiple-part search tool and a business-account portal that unlocks tiered pricing. Orders of ten or more line items qualify for an additional 3% large-order discount on top of bulk-deal pricing. A contact-free locker-pickup option serves local customers in the Detroit metro area.
 
-Primary customers are independent repair shops, specialty European-service centers, and fleet operators that service the supported marques. The firm also sells directly to enthusiast owners through its e-commerce site. Technical content on the site — including articles on chassis mounts, timing-chain failures, and lighting technology — is licensed from brand partners such as Febi Bilstein and Valeo, reflecting a focus on supporting professional installers with application knowledge.
+Primary customers are independent repair shops, specialist European-service centers and dealership parts departments that require OE-match components for maintenance and collision work. The company publishes technical articles — covering topics such as chassis-mount diagnostics, timing-chain failure analysis on BMW N47 engines and spark-plug selection — to support installer decision-making.
 
-All European Auto Supply emphasizes its role as an authorized distributor for key brands, highlighting its recent agreement to stock genuine Brembo braking products at wholesale prices. The company states that it differentiates itself through cross-trained warehouse staff, a low-pressure work environment, and fast shipping backed by expert support, though specific service-level metrics are not published.
+All European emphasizes fast shipping, expert phone support and a warehouse culture built on cross-training rather than high-pressure metrics, positioning itself as a parts partner rather than a transactional reseller.
 
 ## Known for
-- Authorized distributor for Brembo, Febi Bilstein, Valeo, DENSO, and other OE brands
-- B2B account program with wholesale pricing and bulk-order discounts
-- VIN-based fitment lookup and multi-part search tools
-- Contact-free locker pickup for local customers
-- Technical content licensed from brand partners
+- Official distributor for Brembo, Febi Bilstein, Valeo, DENSO and Professional Parts Sweden
+- VIN-driven parts lookup ensuring OE-match accuracy
+- B2B wholesale portal with bulk-deal pricing and 3% large-order discount (10+ line items)
+- Contact-free locker pickup for local Detroit-area customers
+- Technical content library covering European-vehicle repair procedures
 
 ## Capabilities
-- Wholesale distribution of European automotive replacement parts
-- B2B account management with volume pricing
-- E-commerce order fulfillment and shipping
-- Local locker pickup
-- VIN-based part lookup
-- Multi-part search and bulk ordering
-- Technical content curation from OEM partners
+- European vehicle parts distribution
+- VIN-based parts identification
+- Wholesale/B2B account management
+- Bulk order processing
+- Contact-free locker pickup
+- Technical support content publishing
+- Multi-brand catalog management
 
 ## Industries
-- Automotive aftermarket parts distribution
-- European vehicle repair and maintenance
-- Independent repair shop supply
-- Fleet maintenance parts supply
+- Automotive aftermarket
+- European vehicle repair
+- Wholesale distribution
+- Collision repair
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -316,14 +323,17 @@ All European Auto Supply emphasizes its role as an authorized distributor for ke
 
 <details><summary>Sources</summary>
 
-- Headquarters: Ferndale, Michigan -> db
-- Brands carried: BMW, VW, Mercedes, Mini, Audi, Porsche, Land Rover, Saab, Fiat -> /
-- Authorized Brembo distributor -> /
-- B2B accounts with wholesale pricing and bulk discount (min 10 items) -> /
-- Warehouse operations with locker pickup -> /
-- Cross-trained warehouse staff mentioned in careers post -> /
-- Technical articles from Febi Bilstein and Valeo -> /
-- Facebook link in footer -> /
+- Location: Ferndale, Michigan -> db
+- Distributes genuine/OE/OEM parts for BMW, VW, Mercedes, Mini, Audi, Porsche, Land Rover, Saab, Fiat -> /
+- Official distributor of Brembo braking products -> /
+- Carries Febi Bilstein, Valeo, DENSO, Professional Parts Sweden brands -> /
+- Offers VIN lookup for parts identification -> /
+- Provides B2B wholesale accounts with bulk pricing -> /
+- Large order discount: 3% off orders of 10+ items -> /
+- Contact-free locker pickup available -> /
+- Publishes technical articles (tech tips) on European vehicle repair -> /
+- Warehouse cross-training culture mentioned in hiring post -> /
+- Facebook social media presence -> /
 </details>
 
 ---
@@ -333,30 +343,28 @@ All European Auto Supply emphasizes its role as an authorized distributor for ke
 **Old description:** All Metal Fabricators is a leader in the metal fabrication industry. Founded in 1976 , and based in Acton Massachusetts, we have earned our reputation by providing quality, flexibility, on-time delivery and competitive pricing. All of our designs are created with a vibrant, dynamic core of innovation, knowledge, tradition and pride. We have the capability to create and manufacture virtually any shape or design of metal product. We are proud of our reputation as a precision metal fabricator and believe that our customers deserve and receive our undivided attention with every job we accept.
 
 ## About
-All Metal Fabricators Inc. was founded in 1976 in Acton, Massachusetts. The company operates as a precision metal fabricator serving a range of industries from its facility on Hayward Road. Ownership details and founder names are not publicly disclosed.
+All Metal Fabricators Inc was founded in 1976 and operates from Acton, Massachusetts The company does not disclose its ownership structure or founder names in the available materials.
 
-The shop provides architectural metalwork, biopharmaceutical fabrication, residential metalwork, industrial fabrication, automotive fabrication, and prototype fabrication. Equipment includes a CNC hydraulic press brake with a 10-foot bed and a Piranha iron worker with punch assembly. The company states it can create virtually any shape or design in metal.
+The shop provides a range of metal fabrication services including architectural metalwork, biopharmaceutical fabrication, industrial fabrication, automotive fabrication, prototype fabrication, and residential metalwork. Equipment listed on the company's site includes a CNC hydraulic press brake with a 10-foot bed and a Piranha ironworker with punch assembly. Facility size, headcount, and annual volumes are not published.
 
-Customers span science and industry, biopharma, industrial, automotive, architectural, and residential sectors. The firm highlights partnerships with architect professionals and a variety of industries.
+The company serves science and industry, biopharmaceutical, industrial, automotive, architectural, and residential sectors. Its customer base includes architect professionals and a broad variety of industries.
 
-The company emphasizes quality, flexibility, on-time delivery, competitive pricing, and undivided attention on every job as its distinguishing factors.
+All Metal Fabricators emphasizes quality, flexibility, on-time delivery, and competitive pricing, positioning itself as a precision metal fabricator that gives each job undivided attention.
 
 ## Known for
-- Quality, flexibility, on-time delivery and competitive pricing
-- Precision metal fabrication with undivided attention on every job
+- Quality, flexibility, on-time delivery, and competitive pricing
+- Precision metal fabrication
+- Undivided attention on every job
 - Capability to create virtually any shape or design in metal
-- Serving diverse industries from biopharma to automotive
 
 ## Capabilities
 - Architectural Metalwork
 - Biopharmaceutical Fabrication
-- Residential Metalwork
 - Industrial Fabrication
 - Automotive Fabrication
 - Prototype Fabrication
+- Residential Metalwork
 - Science & Industry Fabrication
-- CNC Hydraulic Press Brake (10' bed)
-- Piranha Iron Worker with Punch Assembly
 
 ## Industries
 - Science & Industry
@@ -367,22 +375,23 @@ The company emphasizes quality, flexibility, on-time delivery, competitive prici
 - Residential
 
 ## Equipment
-- CNC Hydraulic Press Brake (10' bed)
-- Piranha Iron Worker with Punch Assembly
+- CNC hydraulic press brake (10-foot bed)
+- Piranha ironworker with punch assembly
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1976
-- **Headquarters:** Acton, Massachusetts
+- **Headquarters:** Acton, MA
 
 <details><summary>Sources</summary>
 
-- Founded in 1976 -> db
-- Headquartered in Acton, Massachusetts -> db
-- Services: architectural metalwork, biopharmaceutical fabrication, residential metalwork, industrial fabrication, automotive fabrication, prototype fabrication -> page /
-- Equipment: CNC hydraulic press brake 10' bed, Piranha iron worker with punch assembly -> page /
-- Industries served: science & industry, biopharma, industrial, automotive, architectural, residential -> page /
-- Differentiators: quality, flexibility, on-time delivery, competitive pricing, undivided attention -> page /
+- Founded 1976 -> db
+- Headquarters Acton, Massachusetts -> db
+- Address 82 Hayward Road, Acton, MA 01720 -> /
+- Services: architectural metalwork, biopharmaceutical fabrication, industrial fabrication, automotive fabrication, prototype fabrication, residential metalwork -> /
+- Equipment: CNC hydraulic press brake 10-foot bed, Piranha ironworker with punch assembly -> /
+- Industries: science & industry, biopharmaceutical, industrial, automotive, architectural, residential -> / and db
+- Differentiators: quality, flexibility, on-time delivery, competitive pricing, precision metal fabricator, undivided attention -> /
 </details>
 
 ---
@@ -392,42 +401,40 @@ The company emphasizes quality, flexibility, on-time delivery, competitive prici
 **Old description:** All Metal Manufacturing is located in Rapid City, SD.  We have been serving the Black Hills of South Dakota and surrounding areas since 1987.  Our history as a company is a story of many challenges that were met during our companie's lifetime.  What started out in a small garage, Tim Burke has built the business to its current location in Rapid City to now over 35 employees.  All Metal is expanding its shop to meet the increasing demand for growth.  We are a well-established company with many years of working with local contractors and our loyal customers.
 
 ## About
-All Metal Manufacturing operates from Rapid City, South Dakota, where it has served the Black Hills region since 1987. The company began in a small garage under founder Tim Burke and has grown into a family‑owned operation employing over 35 people at its current location on Universal Drive.
+All Metal Manufacturing operates from Rapid City, South Dakota, where it has served the Black Hills region since 1987. The family-owned business began in a small garage under founder Tim Burke and has grown to a staff of over 35 employees at its current location on Universal Drive, with a shop expansion underway to accommodate rising demand.
 
-The shop provides a full range of metal fabrication services, including ornamental railings, metal staircases, spiral staircases, and custom iron works such as drive gates and electric gate closures. It also handles structural steel fabrication and installation — columns, beams, joists, and metal decking — along with portable welding, roof access ladders, and steel lintels. The facility is expanding to meet rising demand.
+The company provides a full range of metal fabrication services, including ornamental railings, metal and spiral staircases, and custom iron works such as drive gates and electric gate closures. Its structural steel capabilities cover columns, beams, joists, and metal decking, complemented by portable welding, roof access ladders, and steel lintels. All work is performed in-house, from sales through installation.
 
-Customers include commercial and private construction projects throughout the Black Hills, with a longstanding base of local contractors who rely on the company for both fabrication and installation.
+All Metal serves commercial and private construction projects throughout the Black Hills, working closely with local contractors and a base of repeat customers. Projects span new builds, renovations, and specialty metalwork for both public and residential clients.
 
-As longtime residents, the owners emphasize stewardship of the area’s natural resources, framing their commitment to quality sales, service, and installation around that responsibility.
+As long-time residents, the company states a commitment to protecting the region's natural resources, framing environmental stewardship as part of its operating philosophy.
 
 ## Known for
-- Family‑owned business offering integrated sales, service, and installation
-- Expanding shop capacity to meet growing demand
-- Decades‑long relationships with local contractors
-- Commitment to protecting the Black Hills’ natural resources
+- Family-owned business offering full-range sales, service, and installation
+- Shop expansion underway to meet increasing demand
+- Decades-long relationships with local contractors and repeat customers
+- Stated commitment to protecting Black Hills natural resources
 
 ## Capabilities
 - Ornamental railings
-- Handrails
 - Metal staircases
 - Spiral staircases
 - Structural steel fabrication
 - Structural steel installation
-- Steel columns
-- Steel beams
-- Steel joists
-- Metal decking
 - Custom iron works
 - Drive gates
 - Electric gate closures
 - Portable welding
 - Roof access ladders
 - Steel lintels
+- Metal decking
+- Steel columns
+- Steel beams
+- Steel joists
 
 ## Industries
 - Commercial construction
 - Residential construction
-- Contractors
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -438,22 +445,16 @@ As longtime residents, the owners emphasize stewardship of the area’s natural 
 
 <details><summary>Sources</summary>
 
-- Located in Rapid City, SD -> /
-- Serving Black Hills since 1987 -> /
-- Founded by Tim Burke in a small garage -> /
-- Family-owned business -> /
-- Over 35 employees -> /
-- Expanding shop to meet demand -> /
-- Services: ornamental railings, metal staircases, spiral staircases, miscellaneous fabrication -> /
-- Structural steel: columns, beams, joists, metal decking -> /
-- Commercial and private projects -> /
-- Local contractors -> /
+- Founded 1987 -> db, /
+- Family-owned -> /
+- Founder Tim Burke -> /
+- 35 employees -> db, /
+- Location Rapid City, SD -> db, /
+- Services: ornamental railings, metal staircases, spiral staircases, miscellaneous fabrication, structural steel (columns, beams, joists, decking), custom iron works, drive gates, electric gate closures, portable welding, roof access ladders, steel lintels -> /, /services
+- Industries: commercial and private projects, local contractors -> /
 - Commitment to protect natural resources -> /
-- Services list: structural steel fabrication and installation, ornamental railings, handrails, metal stairways, spiral stairways, custom iron works, drive gates, electric gate closures, portable welding, roof access ladders, steel lintels -> /services
-- Founded year 1987 -> db
-- Employee count 35 -> db
-- HQ city Rapid City -> db
-- HQ state South Dakota -> db
+- Shop expansion underway -> /
+- Address 4290 Universal Dr, Rapid City, SD 57701 -> /, /services
 </details>
 
 ---
@@ -463,19 +464,20 @@ As longtime residents, the owners emphasize stewardship of the area’s natural 
 **Old description:** We are a steel/metal fabrication company located in West Valley City Utah. We Specialize in a wide variety of all your steel fabrication needs big and small, plasma cutting, plate burning, water jet cutting shearing, forming, angle rolling, plate rolling, pipe rolling and hole punching.
 
 ## About
-All Steel Fabricators Inc is a family-owned steel fabrication company based in West Valley City, Utah. Founded in 1974, the business has served Utah businesses for nearly five decades, building a reputation for handling a wide variety of fabrication needs both large and small.
+All Steel Fabricators Inc. operates from West Valley City, Utah, where it has been a family-owned business since its founding in 1974. The company was established to serve Utah businesses with a range of steel and metal fabrication services.
 
-The shop provides a range of metalworking services including plasma cutting, plate burning, water jet cutting, shearing (22 gauge up to 3/8 inch thick, up to 12 feet wide), forming (same capacity), pipe rolling (1/2 inch to 2 inch), plate rolling (1/4 inch by 8 feet), hole punching (up to 1-9/16 inch), angle rolling (1/4 inch by 2 inch by 2 inch), and flat bar rolling (easy and hard way up to 1/2 inch by 3 inch). All work is performed in-house.
+The shop provides a broad suite of fabrication processes, including plasma cutting, plate burning, water jet cutting, shearing (22 gauge to 3/8 inch thick, up to 12 feet wide), forming (same thickness and width), pipe rolling (1/2 to 2 inches), plate rolling (1/4 inch by 8 feet), hole punching (up to 1-9/16 inch), angle rolling (1/4 x 2 x 2 inches), and flat bar rolling (up to 1/2 x 3 inches, easy and hard way). Facility size, headcount, and annual volume are not disclosed.
 
-The company serves commercial and industrial customers throughout Utah, handling projects of various sizes from small parts to large structural components.
+The company serves businesses across Utah, though specific industry sectors or named customers are not listed in its public materials.
 
-As a family-owned operation, All Steel Fabricators emphasizes long-term relationships and consistent quality for local businesses.
+All Steel Fabricators emphasizes its family-owned heritage and long-standing local presence, positioning itself as a one-stop source for both large and small steel fabrication needs.
 
 ## Known for
-- Family-owned since 1974
-- Serves Utah businesses
-- Handles fabrication needs big and small
-- Offers plasma, water jet, shearing, forming, rolling, and punching in-house
+- Family-owned and serving Utah businesses since 1974
+- Specializes in a wide variety of steel fabrication needs, both large and small
+- Offers in-house plasma cutting, plate burning, water jet cutting, shearing, forming, and rolling
+- Provides shearing and forming up to 3/8 inch thick and 12 feet wide
+- Handles pipe rolling from 1/2 to 2 inches and plate rolling up to 1/4 inch by 8 feet
 
 ## Capabilities
 - Steel Fabrication
@@ -498,9 +500,9 @@ As a family-owned operation, All Steel Fabricators emphasizes long-term relation
 
 <details><summary>Sources</summary>
 
-- Founded 1974 -> db
+- Founded in 1974 -> db
 - Family-owned -> /
-- Location: West Valley City, Utah -> db
+- Headquarters in West Valley City, Utah -> db
 - Services: plasma cutting, plate burning, water jet cutting, shearing, forming, pipe rolling, plate rolling, hole punching, angle rolling, flat bar rolling -> /
 - Shearing capacity: 22 Ga. up to 3/8'' thick up to 12'-0'' wide -> /
 - Forming capacity: 22 Ga. up to 3/8'' thick up to 12'-0'' wide -> /
@@ -508,7 +510,7 @@ As a family-owned operation, All Steel Fabricators emphasizes long-term relation
 - Plate rolling: 1/4''x8'-0'' -> /
 - Hole punching up to 1-9/16' -> /
 - Angle rolling: 1/4'' x 2'' x 2'' -> /
-- Flat bar rolling: Easy and hard way up to 1/2'' x 3'' -> /
+- Flat bar rolling: up to 1/2'' x 3'' -> /
 </details>
 
 ---
@@ -518,54 +520,53 @@ As a family-owned operation, All Steel Fabricators emphasizes long-term relation
 **Old description:** We’ve been in the custom fabrication and welding field for over 30 years and are well-known in the industry as a shop that does whatever it takes to deliver high-quality results. Being experts in the industry also helps us get to the right price for our customers, and people know that when they come to us, they can expect the highest quality.
 
 ## About
-All-Type Welding and Fabrication, Inc. was founded in 1987 and operates a 34,000-square-foot facility in Glenwillow, Ohio, a suburb of Cleveland. The company has served thousands of customers over more than three decades with custom metal fabrication and welding services.
+All-Type Welding and Fabrication, Inc. was founded in 1987 and operates a 34,000-square-foot facility in Glenwillow, Ohio, a suburb of Cleveland. The company has provided comprehensive precision metal fabrication and welding services for over three decades.
 
-The shop provides precision metal fabrication, laser cutting, welding, powder coating, prototyping, assembly, and inspection services. Its laser cutting machines handle sheets up to 60 by 120 inches and one inch thick. In-house engineering supports design for manufacturability, and rapid prototyping via 3D printing delivers parts in as little as same-day to five days. Equipment includes a Fronius TPS 320i MIG welder, a TECNA 20 KVA rocker arm spot welder, a Kaeser AS20 compressor, and a Trumpf TruMark Station 300 laser etcher.
+The shop specializes in precision metal fabrication, laser cutting, welding, finishing, powder coating, and inspection. Its capabilities include in-house engineering for design improvements, rapid prototyping with turnaround ranging from same-day to five days, and ISO 9001:2015 certified inspection processes. The facility houses laser cutting machines that accommodate sheets up to 60 by 120 inches and one inch thick, along with MIG and spot welding equipment, a laser etching system, and a 3D printer for prototyping.
 
-Customers span original equipment manufacturers, food equipment, pharmaceutical, material handling, aerospace, military and defense, transportation, power distribution, fuel cell, and construction equipment sectors. Case studies highlight work for an Ohio brewery and a construction equipment supplier.
+All-Type serves original equipment manufacturers across industries including foodservice equipment, aerospace, pharmaceutical, material handling, military and defense, transportation, power distribution, fuel cell, and construction equipment. Notable projects include work for an Ohio brewery and a construction equipment supplier.
 
-The company emphasizes that its engineers all began as skilled welders, giving them practical insight into weld behavior across difficult metals such as Inconel, various aluminums, and stainless steels. It holds ISO 9001:2015 certification and qualifies to MIL-STD-1595A, MIL-STD-2219A, and AWS D1.1, D1.2, D1.6, and D17.1 welding specifications.
+The company differentiates itself through its team of experts who began their careers as skilled welders, its ability to work with difficult metals such as Inconel and various stainless steels and aluminums, and a problem-solving approach that involves engineering collaboration during the design phase.
 
 ## Known for
-- Engineers started careers as skilled welders
-- In-house engineering and prototyping with same-day to five-day turnaround
-- Expertise in difficult-to-weld metals (Inconel, various aluminums, stainless steels)
-- ISO 9001:2015 certified with MIL-STD and AWS welding specifications
-- Full-service 34,000 sq ft facility with laser cutting up to 60x120 inches
+- In-house engineering for design improvements and cost reduction
+- Rapid prototyping with same-day to five-day turnaround
+- ISO 9001:2015 certified inspection with experienced inspectors
+- Expertise in welding and fabricating difficult metals (Inconel, stainless steels, aluminums)
+- 34,000 sq ft facility with integrated laser cutting, machining, and finishing equipment
 
 ## Capabilities
-- Engineering services
-- Laser cutting (up to 60x120 in, 1 in thick)
 - Precision metal fabrication
-- Powder coating
+- Laser cutting (up to 60" x 120", 1" thick)
 - MIG welding
 - Spot welding
 - Laser etching
-- 3D printing (rapid prototyping)
-- Inspection (ISO 9001, MIL-STD, AWS)
-- Assembly
-- Design for manufacturability
+- Powder coating
+- Engineering design services
+- Rapid prototyping (3D printing)
+- ISO 9001:2015 inspection
+- Sheet metal fabrication
+- Finishing services
 
 ## Industries
-- Foodservice
+- Foodservice equipment
 - Aerospace
-- OEM
 - Pharmaceutical
-- Military & Defense
-- Material Handling
+- Material handling
+- Military & defense
 - Transportation
-- Power Distribution
-- Fuel Cell
-- Construction Equipment
+- Power distribution
+- Fuel cell
+- Construction equipment
 - Brewery
+- Original equipment manufacturers (OEMs)
 
 ## Equipment
 - Fronius TPS 320i MIG welding machine
-- TECNA 20 KVA rocker arm spot welder
+- TECNA 20 KVA Rocker Arm Spot Welder
 - Kaeser AS20 compressor
-- Trumpf TruMark Station 300 laser etcher
-- 3D printer (rapid prototyping)
-- Laser cutting machines (60x120 in capacity)
+- Trumpf TruMark Station 300 laser etching machine
+- 3D printer
 
 ## Certifications
 - ISO 9001:2015
@@ -579,20 +580,21 @@ The company emphasizes that its engineers all began as skilled welders, giving t
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1987
-- **Headquarters:** Cleveland, Ohio
+- **Headquarters:** Glenwillow, Ohio
 
 <details><summary>Sources</summary>
 
-- Founded 1987 -> /about-us
-- 34,000 sq ft facility in Glenwillow, Ohio -> /about-us
-- Laser cutting capacity 60x120 in, 1 in thick -> /
-- Prototyping turnaround same-day to 5 days -> /
+- Founded in 1987 -> /about-us
+- 34,000-square-foot facility in Glenwillow, Ohio -> /about-us
+- ISO 9001:2015 certified -> /about-us, /
+- Laser cutting up to 60x120 inches, 1 inch thick -> /
+- Rapid prototyping same-day to 5 days -> /
+- Industries served: OEM, foodservice, aerospace, pharmaceutical, military, transportation, power distribution, fuel cell, construction equipment, brewery -> /, /about-us
 - Equipment: Fronius TPS 320i, TECNA 20 KVA, Kaeser AS20, Trumpf TruMark Station 300, 3D printer -> /about-us
-- Certifications: ISO 9001:2015, MIL-STD-1595A, MIL-STD-2219A, AWS D1.1, D1.2, D1.6, D17.1 -> /about-us
 - Materials: stainless steel, aluminum, carbon steel, Inconel, copper, brass, bronze -> /
-- Industries: Foodservice, Aerospace, OEM, Pharmaceutical, Military & Defense, Material Handling, Transportation, Power Distribution, Fuel Cell, Construction Equipment, Brewery -> /, /about-us
-- Engineers started as skilled welders -> /about-us
-- ISO 9001:2015 SOP mentioned -> /
+- Certifications: MIL-STD-1595A, MIL-STD-2219A, AWS D1.1, D1.2, D1.6, D17.1 -> /about-us
+- In-house engineering and design improvements -> /
+- Problem-solving approach -> /
 </details>
 
 ---
@@ -602,32 +604,30 @@ The company emphasizes that its engineers all began as skilled welders, giving t
 **Old description:** We carry all of the primary auto body parts necessary to service the collision repair industry and the general public needs. Our loyal customers are very complimentary of our ability and willingness to ‘go the extra’ mile to make buy-outs and special orders to service their unique needs.
 
 ## About
-Alliance Auto Body Parts operates from Houston, Texas, where it has supplied new replacement auto body parts for over 20 years. The company runs two locations in the city, a structure it says allows greater convenience and faster delivery for customers across the greater Houston area.
+Alliance Auto Body Parts operates from Houston, Texas, where it has served the greater Houston area for over two decades. The company was established as a supplier of new replacement auto body parts, though the exact founding year and ownership structure are not publicly disclosed.
 
-The business stocks a broad line of collision repair parts including bumpers, fenders, hoods, fans, grilles, valances, cooling products and lighting products. It serves both the professional collision repair trade and the general public, and emphasizes its willingness to arrange buy-outs and special orders for hard-to-find items. No facility size, headcount, or volume figures are disclosed.
+The business distributes a broad range of auto body components, including bumpers, fenders, hoods, fans, grilles and valances, cooling products, and lighting products. It supports most major vehicle brands and maintains two locations in Houston, which the company says enables greater convenience and faster deliveries for customers.
 
-Customers include independent repair shops, national auto sales companies, and individual vehicle owners. Testimonials on the company's site reference a parts manager at a national auto sales firm and a shop owner in Cypress, Texas, illustrating a client base that spans wholesale and retail channels.
+Its customer base spans the collision repair industry, general consumers, and commercial fleets. Testimonials on the company’s website cite a national auto sales company, a repair shop owner from Cypress, Texas, and a buyer from Monez Auto as examples of clients who rely on Alliance for both standard stock and hard-to-find special orders.
 
-Alliance Auto Body Parts positions itself on accurate, friendly service, competitive pricing and faster delivery enabled by its dual-location network. The company also highlights its practice of going the extra mile to source special orders and buy-outs as a key reason customers return.
+Alliance emphasizes accurate, friendly service, competitive pricing, and faster delivery as its core differentiators. The company highlights its willingness to “go the extra mile” to arrange buy-outs and special orders, and it promotes its two-location footprint as a unique advantage in the Houston market for reducing lead times.
 
 ## Known for
-- Two Houston locations for faster delivery
+- Only supplier in Houston with two locations for faster delivery
 - Accurate, friendly service
 - Competitive pricing
-- Buy-outs and special orders for unique needs
-- Broad product line covering most car brands
+- Willingness to handle buy-outs and special orders
 
 ## Capabilities
-- Auto body parts supply
-- Cooling products supply
-- Lighting products supply
-- Special order fulfillment
-- Buy-out fulfillment
+- Auto body parts distribution
+- Special orders and buy-outs
+- Multi-location inventory and delivery
 
 ## Industries
 - Collision repair
 - Automotive aftermarket
-- Auto sales
+- General consumers
+- Commercial auto sales
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -635,16 +635,16 @@ Alliance Auto Body Parts positions itself on accurate, friendly service, competi
 
 <details><summary>Sources</summary>
 
-- Headquarters: Houston, Texas -> db
-- Business type: supplier of new replacement auto body parts -> /about
-- Years in business: over 20 years -> /about
+- Houston, Texas headquarters -> db
+- Over 20 years in business -> /about
+- Supplier of new replacement auto body parts -> /about
 - Two locations in Houston -> /about
-- Product lines: bumpers, fenders, hoods, fans, grilles, valances, cooling products, lighting products -> /
-- Industries served: collision repair industry, general public -> /
-- Customer examples: national auto sales company, shop in Cypress, Texas -> /about
-- Differentiators: accurate friendly service, competitive pricing, faster delivery -> /
-- Special orders and buy-outs -> /
-- Website: http://www.allianceauto.com/ -> db
+- Product lines: bumpers, fenders, hoods, fans, grilles & valances, cooling products, lighting products, other products -> /
+- Supports most car brands -> /
+- Serves collision repair industry and general public -> /
+- Customer testimonials: Ms. Vicki (Cypress, TX), Mr. Daron (Parts Manager, national auto sales), Mr. Willie (Monez Auto) -> /about
+- Differentiators: accurate friendly service, competitive pricing, faster delivery, buy-outs and special orders -> /, /about
+- Company type: distributor/reseller -> inferred from description
 </details>
 
 ---

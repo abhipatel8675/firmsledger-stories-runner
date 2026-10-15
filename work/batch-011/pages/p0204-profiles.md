@@ -3,42 +3,42 @@
 **Old description:** A 5-generation family farm with a colorful and wholesome history. Our story is one of determination and never giving up. Farming has never been easy, and so to keep up the good fight we’ve diversified. We offer hay, feed sales, and custom processing for your beef & pork. We now have a retail store as well as currently selling locally raised beef, pork, and chicken. You order in a call-in manner, we fill it for you and call you when it’s ready. To our current customers, thank you for choosing us, and to our new visitors, welcome, and we hope to become friends soon. As always, cash, check, credit, debit, and EBT are accepted.
 
 ## About
-Maple Lane Farms operates from Charleston, Maine, on a property first purchased by Stanley Higgins in 1935. The farm passed to Charles “Shine” and Margaret Higgins in 1941 and evolved from a potato, dairy, and hay operation into a multi-generation family business. In 1999, Barry and Mary Higgins acquired the farm from Charles and established the current Maple Lane Farms entity, continuing a lineage that now spans five generations.
+Maple Lane Farms operates from Charleston, Maine, on a property first purchased by Stanley Higgins in 1935. The farm passed to Charles “Shine” and Margaret Higgins in 1941, became Charles C Higgins & Son in the 1960s, and was renamed Maple Lane Farms in 1999 when Barry and Mary Higgins bought the operation. It remains a fifth‑generation family‑owned business run by the Higgins family.
 
-The farm raises approximately 700 head of cattle and processes its own beef, pork, and chicken in a state-inspected facility expanded in 2005 and again in 2011 to add refrigeration and an automated smokehouse. Operations include custom slaughter and cutting for outside livestock, hay and silage production (round and square bales stored indoors), and screened compost made from processing waste, cow manure, and horse barn waste. A retail store sells flash-frozen cuts, sausages, bacon, and the farm’s “Black Label Reserve” beef, with orders filled Monday through Friday.
+The farm raises naturally grown beef — typically maintaining around 700 head — along with pork, chicken, and lamb. A state‑inspected processing facility, expanded in 2005 and again in 2011 to add refrigeration and an automated smoke house, handles custom slaughter and cutting for customers’ own animals as well as the farm’s own stock. Products are hand‑cut, sealed, and flash‑frozen with no aged inventory. The farm also produces and sells horse‑quality round and square hay bales (stored indoors and net‑wrapped), silage by the ton, and screened compost made from processing, cow, and horse waste.
 
-Customers include local households buying retail meat, farmers needing custom processing for their own animals, horse owners purchasing horse-quality hay, and gardeners using the farm’s compost. The farm also supplies feed and serves as one of the largest hay dealers in the Northeast, selling silage by the ton and hay by the bale.
+Customers include local households purchasing retail cuts through the on‑farm store (open Monday–Friday with call‑in ordering), farmers needing custom processing for their livestock, horse owners seeking hay, and gardeners using the compost. The business historically served wholesale channels but now focuses on direct‑to‑consumer and custom‑processing sales.
 
-The Higgins family emphasizes hands-on work—every cut, sausage link, and label is done by hand—and the farm’s diversification was driven by the need to sustain the operation through changing regulations and market pressures.
+The Higgins family diversified into meat processing, hay, and compost to keep the farm viable amid changing regulations and market pressures. They emphasize that every step — from cutting to labeling — is done by hand, not by high‑speed automation, and that products go straight from the cutting room to the freezer to ensure freshness.
 
 ## Known for
-- Hand-processed products (every cut, sausage, label done by hand)
-- Flash-frozen immediately after processing, no old stock
-- State-inspected processing facility with automated smokehouse
-- One of the largest hay dealers in the Northeast
+- Hand‑crafted processing: every cut, seal, and label done by hand
+- Flash‑frozen immediately after cutting — no old stock
+- State‑inspected facility with automated smoke house
+- One of the largest hay dealers in the Northeastern U.S.
+- Accepts EBT, cash, check, credit, and debit
 
 ## Capabilities
-- Custom meat processing (state-inspected)
-- Retail meat cutting and packaging
+- Custom meat processing (beef, pork, lamb, chicken)
+- State‑inspected slaughter and cutting
 - Flash freezing
-- Sausage making
-- Bacon curing
-- Hay baling (round and square)
-- Silage production
-- Compost screening and production
-- Feed sales
-- Black Label Reserve beef program
+- Automated smoke house operation
+- Hay production and sales (round and square bales)
+- Silage production and sales
+- Screened compost production
+- Retail meat sales (sides, quarters, whole, individual cuts)
+- Call‑in order fulfillment with callback notification
+- Curbside pickup and in‑store shopping
 
 ## Industries
-- Hay dealers
+- Livestock farming
 - Meat processing
-- Composting
-- Feed sales
-- Retail meat sales
+- Hay and forage
+- Compost and soil amendments
+- Retail food sales
 
 ## Equipment
 - Automated smoke house
-- Refrigeration equipment
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -48,20 +48,21 @@ The Higgins family emphasizes hands-on work—every cut, sausage link, and label
 
 <details><summary>Sources</summary>
 
-- Location: Charleston, Maine -> db
+- Location: Charleston, ME -> /
 - Founding: Stanley Higgins bought farm in 1935 -> /about
-- Ownership: Family-owned, five generations -> /about, /
-- Facility: State-inspected processing facility expanded 2005, automated smokehouse added 2011 -> /about
-- Herd size: ~700 cows -> /about
-- Products: Beef, pork, chicken, hay, silage, compost -> /, /about
-- Custom processing for customer livestock -> /, /about
-- Retail store with flash-frozen cuts, sausages, bacon, Black Label Reserve -> /
-- Hay: round and square bales, horse quality, stored indoors, net wrapped -> /about
-- Compost: screened, made from processing waste, cow waste, horse barn waste -> /about
-- Feed sales -> /
-- Order fulfillment: Monday-Friday, weekend orders next Monday -> /
-- Hand-processed emphasis -> /
-- Largest hay dealers in Northeast -> /about
+- Ownership: Family-owned, Higgins family -> /about
+- Renamed Maple Lane Farms in 1999 -> /about
+- 700 cows typically -> /about
+- State-inspected processing facility -> /about, /
+- Facility expansions 2005 and 2011 (refrigeration, automated smoke house) -> /about
+- Hand-cut, sealed, flash-frozen -> /
+- Hay: round/square bales, horse quality, stored indoors -> /, /about
+- Silage sold by the ton -> /about
+- Screened compost from waste -> /, /about
+- Retail store, call-in ordering, Mon-Fri fulfillment -> /, /about
+- Customers: public, farmers for custom processing, horse owners, gardeners -> /, /about
+- Diversification to keep farm viable -> /
+- Accepts EBT, cash, check, credit, debit -> /
 </details>
 
 ---
@@ -71,28 +72,29 @@ The Higgins family emphasizes hands-on work—every cut, sausage link, and label
 **Old description:** Physician founded, family owned, since 1989 Medical device manufacturer and global distributor
 
 ## About
-Mar-Med was founded in 1989 in Grand Rapids, Michigan, by Dr. Joseph Marogil, a general surgeon who invented the Tourni-Cot digital tourniquet to address a need he encountered in hand surgery. The company remains physician-founded and family-owned, operating from its original location near the city’s Medical Mile.
+Mar-Med was founded in 1989 in Grand Rapids, Michigan, by Dr. Joseph Marogil, a general surgeon who invented the Tourni-Cot digital tourniquet to address a need he encountered in hand surgery cases. The company remains physician-founded and family-owned.
 
-Today Mar-Med operates as an FDA-registered medical device manufacturing site certified to ISO 13485:2016. It designs and produces a line of disposable devices including the Tourni-Cot and Uni-Cot digit tourniquets, the Rhino-Pak epistaxis balloon, the Balloon Extractor for nasal foreign-body removal, the Derma-Stent abscess drain, and the ZEROWET wound-irrigation system. The company also handles global distribution of these products to healthcare facilities worldwide.
+Today Mar-Med operates as an FDA-registered medical device manufacturing site certified to ISO 13485:2016. It designs and distributes a line of disposable devices including the Tourni-Cot and Uni-Cot digit tourniquets, the Rhino-Pak epistaxis balloon, the Balloon Extractor for nasal foreign-body removal, the Derma-Stent abscess and cyst drain, and the ZEROWET wound irrigation system. The company serves emergency medicine, podiatry, pediatrics, orthopedic surgery, and other specialties, shipping to healthcare facilities worldwide.
 
-Mar-Med’s devices are used in emergency medicine, podiatry, pediatrics, and orthopedic surgery, serving hospitals, clinics, and other healthcare providers across the United States and internationally. The company emphasizes simple, cost-effective tools that support efficient procedures and positive patient outcomes.
+Mar-Med's customer base spans hospital emergency departments, surgical centers, and clinics across the U.S. and internationally. Its products are used in procedures ranging from digit laceration repair to epistaxis control and nasal foreign-body extraction.
 
-The firm cites its family-owned structure, physician-led design perspective, and compliance with FDA QSR, ISO 13485, and European CE marking requirements as key differentiators. It also highlights sustainability practices such as composting label backing, recycling eligible waste, and reusing packaging materials.
+The company states its mission is to create growth and opportunity in its community through the manufacture and distribution of effective medical devices that support efficient procedures, positive patient outcomes, and a healthy bottom line. Mar-Med also emphasizes sustainability, composting label backing paper, recycling eligible waste, and reusing cardboard and scrap paper.
 
 ## Known for
+- Physician-founded, family-owned since 1989
 - FDA-registered manufacturing site with ISO 13485:2016 certification
-- Family-owned and physician-founded since 1989
-- CE-marked products for European market access
-- Sustainability program including composting, recycling, and packaging reuse
-- Global distribution network for disposable medical devices
+- Designs and distributes novel disposable medical devices for multiple specialties
+- Sustainability program including composting, recycling, and reuse of manufacturing byproducts
+- Recent acquisition of ZEROWET wound irrigation line
 
 ## Capabilities
 - Medical device manufacturing
 - Product design and development
 - Global distribution
-- FDA QSR compliance
-- ISO 13485 quality management
-- CE marking compliance
+- Quality management system (ISO 13485:2016)
+- FDA QSR compliance (21 CFR Part 820)
+- CE marking (EU MDR)
+- Sustainable manufacturing practices (composting, recycling, reuse)
 
 ## Industries
 - Emergency medicine
@@ -104,7 +106,7 @@ The firm cites its family-owned structure, physician-led design perspective, and
 ## Certifications
 - ISO 13485:2016
 - FDA QSR (21 CFR Part 820)
-- CE Mark (Directive 93/42/EEC)
+- CE Mark (MDD 93/42/EEC)
 - CE Mark (MDR EU 2017/745)
 
 ## Company details
@@ -115,17 +117,20 @@ The firm cites its family-owned structure, physician-led design perspective, and
 
 <details><summary>Sources</summary>
 
-- Founded 1989 by Dr. Joseph Marogil in Grand Rapids, Michigan -> /about-us
-- Physician-founded, family-owned -> /about-us, /
+- Founded 1989 in Grand Rapids, Michigan by Dr. Joseph Marogil -> /about-us
+- Physician founded, family owned -> /about-us, /
 - FDA registered manufacturing site certified to ISO 13485:2016 -> /about-us, /quality
 - Products: Tourni-Cot, Uni-Cot, Rhino-Pak, Balloon Extractor, Derma-Stent, ZEROWET -> /
-- Industries served: emergency medicine, podiatry, pediatrics, orthopedic surgery -> /about-us
-- CE marking for EU market (Directive 93/42/EEC, MDR EU 2017/745) -> /quality
-- Sustainability practices: composting, recycling, reuse -> /about-us
-- Headquarters: Grand Rapids, Michigan -> /about-us, /
+- Serves emergency medicine, podiatry, pediatrics, orthopedic surgery -> /about-us
+- Global distributor to healthcare facilities worldwide -> /about-us
+- Mission: create growth and opportunity through effective medical devices -> /about-us
+- Sustainability: composting, recycling, reuse -> /about-us
+- Acquired ZEROWET in 2025 -> /
+- ISO 13485:2016 certified by NSAI -> /quality
+- FDA QSR compliance (21 CFR Part 820) -> /quality
+- CE marking per MDD 93/42/EEC and MDR EU 2017/745 -> /quality
+- Headquarters: 333 Fuller Ave NE, Grand Rapids, MI 49503 -> /, /about-us
 - LinkedIn URL -> db
-- Founded year 1989 -> db
-- ISO 13485 certification -> db, /quality
 </details>
 
 ---
@@ -135,20 +140,20 @@ The firm cites its family-owned structure, physician-led design perspective, and
 **Old description:** Marelli Motorsport has developed electronic and electro-mechanical systems for two- and four-wheel racing vehicles since 1919, contributing to victories in F1, MotoGP, WEC and more. We’ve helped  many teams take the checkered flag by improving efficiency with cutting-edge technology: telemetry, hybrid and electric powertrain systems, and fuel components. But if you ask us, “What’s the most important victory?” we would answer, “The next one”.
 
 ## About
-Marelli North America, Inc. is headquartered in Lewisburg, Tennessee. The company's motorsport division traces its origins to 1919, when Marelli began developing electronic and electro-mechanical systems for two- and four-wheel racing vehicles.
+Marelli North America, Inc. is headquartered in Lewisburg, Tennessee. The company operates as part of the global Marelli group, whose motorsport division has developed electronic and electro-mechanical systems for two- and four-wheel racing vehicles since 1919. No founding year or ownership details for the North American entity are disclosed in the available sources.
 
-The company designs and manufactures automotive lighting, electronics, interiors, propulsion, exhaust, chassis, and thermal systems. It also provides hardware development platforms for software-defined vehicles and offers telemetry, hybrid and electric powertrain systems, and fuel components for motorsport applications. Marelli operates 32 sites globally certified under SA8000 and reports that 88% of its electricity comes from renewable sources.
+The company designs and manufactures electronic and electro-mechanical systems for motorsport applications, including telemetry, hybrid and electric powertrain systems, and fuel components. Beyond racing, its portfolio spans automotive lighting, electronics, interiors, propulsion, exhaust, chassis, thermal management, and software-defined vehicle platforms. Marelli reports 32 global sites certified under SA8000 and describes itself as a $10 billion startup, though specific facility size and headcount for the Lewisburg location are not provided.
 
-Marelli serves automakers and racing teams across Formula 1, MotoGP, and the World Endurance Championship. Its customer base includes carmakers seeking co-creation partnerships for vehicle personalization, sustainable energy management, and software-defined vehicle architectures.
+Marelli serves automakers and racing teams across series such as Formula 1, MotoGP, and the World Endurance Championship. Its customer base includes carmakers seeking technology transfer from motorsport to passenger vehicles, as well as partners in the software-defined vehicle ecosystem. The company emphasizes co-creation with customers, suppliers, and technology partners from early development stages.
 
-Marelli emphasizes co-creation with customers, suppliers, and technology partners from early development stages, aiming to deliver customized driving experiences and sustainable mobility solutions. The company describes itself as a "$10 billion startup" driven by an entrepreneurial culture.
+Marelli positions its motorsport operation as an accelerator for technology development, leveraging an agile, fast, and optimized design model to flow innovations from track to road. The company highlights its co-creation engagement model, sustainability commitments—including 88% renewable electricity use and 100% of innovation projects aligned with Design for Sustainability criteria—and a culture where employees act as owners of the business.
 
 ## Known for
+- More than 100 years of motorsport presence (since 1919)
+- Agile, fast, and optimized design model for technology transfer from racing to passenger cars
 - Co-creation engagement model with customers, suppliers, and technology partners
-- Motorsport technology accelerator flowing down to passenger car business
 - 32 global sites certified under SA8000
-- 88% of electricity sourced from renewables
-- 100% of innovation projects aligned with Design for Sustainability criteria
+- 88% of electricity from renewable sources; 100% of innovation projects aligned with Design for Sustainability
 
 ## Capabilities
 - Electronic systems development
@@ -159,23 +164,30 @@ Marelli emphasizes co-creation with customers, suppliers, and technology partner
 - Fuel components
 - Automotive lighting
 - Automotive electronics
-- Vehicle interiors
+- Automotive interiors
 - Propulsion systems
 - Exhaust systems
 - Chassis systems
-- Thermal management systems
+- Thermal management
 - Software-defined vehicle platforms
-- Hardware development platforms
 - Design optimization
 - Synchronous production management
+- Sustainability reporting
+- ESG assessment
+- SA8000 compliance
 
 ## Industries
 - Automotive
 - Motorsport
-- Formula 1
-- MotoGP
-- World Endurance Championship
-- Software-defined vehicles
+- Racing
+- Lighting
+- Electronics
+- Interiors
+- Propulsion
+- Exhaust
+- Chassis
+- Thermal
+- Software-Defined Vehicle
 
 ## Certifications
 - SA8000
@@ -187,15 +199,22 @@ Marelli emphasizes co-creation with customers, suppliers, and technology partner
 <details><summary>Sources</summary>
 
 - Headquarters: Lewisburg, Tennessee -> db
-- Motorsport division since 1919 -> description
-- Products: lighting, electronics, interiors, propulsion, exhaust, chassis, thermal -> page /
-- Hardware development platforms for software-defined vehicles -> page /
-- Telemetry, hybrid/electric powertrain, fuel components for motorsport -> description
-- 32 sites certified under SA8000 -> page /
-- 88% electricity from renewable sources -> page /
-- Co-creation engagement model -> page /
-- Serves Formula 1, MotoGP, WEC -> description
-- Self-described as $10 billion startup -> page /
+- Motorsport heritage since 1919 -> description
+- Electronic and electro-mechanical systems for racing -> description
+- Telemetry, hybrid and electric powertrain systems, fuel components -> description
+- 32 sites certified globally under SA8000 -> /
+- Co-creation engagement model -> /
+- Software-Defined Vehicle platforms -> /
+- Automotive lighting, electronics, interiors, propulsion, exhaust, chassis, thermal -> /
+- Chapter 11 information -> /
+- Sustainability Report 2025 -> /
+- Acting as owners of a $10 billion startup -> /
+- More than 100 years of predominant presence in racing world -> /
+- Agile, fast, optimized design model -> /
+- SA8000 certification -> /
+- 88% electricity from renewable sources -> /
+- 98% suppliers underwent ESG assessment -> /
+- 100% innovation projects aligned with Design for Sustainability -> /
 </details>
 
 ---
@@ -205,42 +224,44 @@ Marelli emphasizes co-creation with customers, suppliers, and technology partner
 **Old description:** Marina Foods is a leading food industry manufacturer, packer and supplier of cooking and edible oils including vegetable, corn, olive and shortening, and salad dressings and sauces. We offer the best in
 
 ## About
-Marina Foods Inc. was established in 1964 as a family-owned and operated company in a modest warehouse in Fort Lauderdale, Florida. The business relocated to a new facility in Medley, Florida, in 2007, positioning itself centrally in South Florida's tri-county area between the Port of Miami and Port Everglades.
+Marina Foods, Inc. was established in 1964 as a family-owned and operated business in a modest warehouse in Fort Lauderdale, Florida. The company relocated to a new facility in Medley, Florida (western Miami) in 2007, positioning itself centrally in South Florida's tri-county area between the Port of Miami and Port Everglades.
 
-The company manufactures and packs a range of edible oils including soybean, corn, canola, peanut, sunflower, and olive oils, as well as shortenings, vinegars, cooking wines, mayonnaise, salad dressings, and sauces. It offers packaging in retail, food-service, and bulk formats, and operates a fleet of tractor-trailers for distribution across Florida and the United States.
+The company manufactures and packs a range of edible oils — including soybean, corn, canola, peanut, sunflower, and olive — as well as shortenings (liquid and solid), vinegars, cooking wines, mayonnaise, salad dressings, and sauces. It offers private labeling, custom formulations, and multiple packaging options spanning retail, food-service, and bulk shipments. A fleet of tractor-trailers supports fast delivery across Florida and the United States, while bilingual customer-service representatives coordinate domestic and international shipping logistics. The firm also provides commodity-market insight tied to the Chicago Board of Trade.
 
-Marina Foods serves food-service companies throughout North, Central, and South America and the Caribbean, along with Italian food distributors who carry its olive oils, dressings, and sauces. Products are sold under the Marina brand and two house brands, Chef's Recipe and DiMarco, in both retail and food-service sizes.
+Marina Foods serves food-service companies throughout North, Central, and South America and the Caribbean, as well as Italian food distributors seeking olive oils, blends, and specialty dressings such as creamy Italian, Caesar, blue cheese, and ranch. Products are sold under the Marina brand and two house brands, Chef's Recipe and DiMarco, in both retail and food-service sizes.
 
-The company emphasizes quality assurance monitored to regulatory standards, and provides customized services such as private labeling, custom formulations, and multiple packaging options. Bilingual customer-service representatives coordinate shipping requirements, while commodity-market insights from the Chicago Board of Trade help customers with purchasing and pricing decisions.
+The company emphasizes quality assurance, with processes monitored, measured, and reviewed as required by law. It cites competitive pricing, quick order and delivery times, and ongoing recipe development as keys to its reputation in the southeastern United States and global markets.
 
 ## Known for
 - Family-owned since 1964
-- Private labeling, custom formulations, and multiple packaging options
-- Bilingual customer service for shipping coordination
-- Commodity market insight via Chicago Board of Trade
-- Fleet of tractor-trailers for fast Florida and nationwide delivery
+- Private labeling and custom formulations
+- Multiple packaging options (retail, food service, bulk)
+- Fleet of tractor trailers for fast Florida and national delivery
+- Located between Port of Miami and Port Everglades for global shipping
 
 ## Capabilities
-- Edible oil manufacturing and packing
-- Salad dressing and sauce manufacturing
-- Mayonnaise production
-- Vinegar and cooking wine packaging
+- Edible oil packaging (soybean, corn, canola, peanut, sunflower, olive)
 - Shortening packaging (liquid and solid)
+- Vinegar and cooking wine packaging
+- Mayonnaise manufacturing
+- Salad dressing manufacturing
+- Sauce manufacturing
 - Private labeling
-- Custom formulation development
+- Custom formulations
 - Multiple packaging options (retail, food service, bulk)
+- Transportation solutions
+- Logistical support
 - Bilingual customer service
-- Transportation and logistics management
+- Commodity market insight (Chicago Board of Trade)
 - Export shipping documentation
-- Commodity market pricing insight
-- Fleet-based distribution (Florida and nationwide)
+- Quality assurance monitoring
 
 ## Industries
 - Food service
-- Italian food distribution
-- Retail food
-- Food manufacturing
-- International export
+- Italian food distributors
+- Retail
+- Food service distribution
+- Global export markets
 
 ## Certifications
 - ANSI
@@ -255,21 +276,18 @@ The company emphasizes quality assurance monitored to regulatory standards, and 
 <details><summary>Sources</summary>
 
 - Founded 1964 as family-owned in Fort Lauderdale -> /about
-- Relocated to Medley in 2007 -> /about
+- Relocated to Medley, Florida in 2007 -> /about
+- Manufactures and packs edible oils, dressings, sauces -> /about, /services
 - Brands: Marina, Chef's Recipe, DiMarco -> /about
-- Manufactures edible oils, dressings, sauces -> /about, /services
-- Packages soybean, corn, canola, peanut, sunflower, olive oils, shortenings, vinegars, cooking wines, mayonnaise, salad dressings, sauces -> /services
-- Packaging options: retail, food service, bulk -> /services
-- Fleet of tractor trailers for distribution -> /services
-- Location between Port of Miami and Port Everglades -> /, /services
 - Private labeling, custom formulations, multiple packaging options -> /, /services
-- Bilingual customer service -> /, /services
+- Fleet of tractor trailers for fast delivery -> /services
+- Located between Port of Miami and Port Everglades -> /, /services
+- Bilingual customer service representatives -> /, /services
 - Commodity market insight (Chicago Board of Trade) -> /services
-- Transportation solutions and logistical support -> /services
 - Certifications: ANSI, HACCP -> db
-- Headquarters: Medley, Florida -> db, /about
-- Serves food service companies, Italian food distributors, global market -> /about
-- Continuous testing of new recipes -> /about
+- Serves food service companies across Americas and Caribbean -> /about
+- Italian food distributors -> /about
+- Quality assurance processes monitored -> /
 </details>
 
 ---
@@ -279,38 +297,38 @@ The company emphasizes quality assurance monitored to regulatory standards, and 
 **Old description:** Marine Tech Wire and Cable manufactures multiconductor cables used in ships, oil drilling platforms and other industrial applications that require high performance in challenging environments. Cable products are engineered and manufactured to withstand harsh environments such as sea water or high temperatures.
 
 ## About
-Marine Tech Wire & Cable Inc operates from York, Pennsylvania, where it produces multiconductor cables at its domestic plant. The company serves demanding environments including naval vessels, commercial shipping, and offshore oil platforms.
+Marine Tech Wire & Cable Inc operates from York, Pennsylvania, where it manufactures multiconductor cables at its plant on South Richland Avenue. The company serves naval, commercial marine, and industrial markets with cables engineered for harsh environments such as seawater exposure and high temperatures.
 
-The product line spans commercial and navy shipboard cables, high-temperature lead wire, and low-smoke zero-halogen variants engineered for seawater exposure and extreme heat. Capabilities include custom cable design and toll processing, supported by an application engineering team that assists with Mil-Spec and part-number searches.
+The product line includes commercial shipboard cable, navy shipboard cable, high-temperature lead wire, and low-smoke zero-halogen constructions. In addition to standard offerings, the company provides custom cable design and toll processing services, supported by a team of application engineers who assist with product selection and mil-spec cross-referencing.
 
-Primary markets are defense maritime, commercial marine, oil and gas drilling, and general industrial sectors requiring reliable performance in harsh conditions. The company's resource library provides technical specifications and data sheets for each product family.
+Primary customers include U.S. Navy ship programs, commercial vessel builders, offshore oil and gas platform operators, and general industrial facilities that require reliable performance in extreme conditions. The company's resource library supplies technical data sheets and specifications for each product family.
 
-Marine Tech emphasizes U.S. manufacturing at its York facility and was recognized as the 22nd fastest-growing company in the Central Pennsylvania region on the sixteenth annual Top 50 list. Its differentiators include domestic production, engineering support, and a searchable Mil-Spec database.
+Marine Tech emphasizes domestic production, stating that all cables are manufactured at its York, Pennsylvania facility. The firm was recently recognized as the 22nd fastest-growing company in the Central Pennsylvania region, reflecting its expansion in the specialty cable market.
 
 ## Known for
-- Manufactured in the USA at York, PA plant
-- Application engineering team for product selection
-- Searchable Mil-Spec and part-number database
-- Ranked 22nd in Central PA Top 50 Fastest-Growing Companies
-- Custom cable design and toll processing services
+- Cables manufactured in the USA at York, PA plant
+- Custom cable design and toll processing capabilities
+- Application engineering support for product selection and mil-spec cross-reference
+- UL Listed products
+- Low-smoke zero-halogen cable offerings
 
 ## Capabilities
-- Custom cable design
-- Toll processing
 - Multiconductor cable manufacturing
 - Commercial shipboard cable manufacturing
 - Navy shipboard cable manufacturing
 - High temperature lead wire manufacturing
 - Low smoke zero halogen cable manufacturing
-- Mil-Spec and part number search
+- Custom cable design
+- Toll processing
 - Application engineering support
-- Technical resource library
+- Mil-spec and part number cross-referencing
+- Technical data sheet library
 
 ## Industries
-- Defense / naval
-- Commercial maritime
-- Oil and gas
-- Industrial
+- Naval shipbuilding
+- Commercial marine
+- Oil and gas drilling
+- Industrial applications
 
 ## Certifications
 - UL Listed
@@ -321,17 +339,14 @@ Marine Tech emphasizes U.S. manufacturing at its York facility and was recognize
 
 <details><summary>Sources</summary>
 
-- Location: York, PA -> db, /
-- Manufactures multiconductor cables for ships, oil platforms, industrial -> /
-- Engineered for harsh environments (sea water, high temps) -> /
-- Product lines: Commercial Shipboard, Navy Shipboard, High Temp Lead Wire, Low Smoke Zero Halogen -> /
-- Ranked 22nd in Top 50 Fastest-Growing Companies (Central PA) -> /
-- Cables manufactured in USA at York, PA plant -> /
-- Application engineers help identify right product -> /
-- Search by Mil-Spec or Part Number -> /
+- Manufactures multiconductor cables for ships, oil drilling platforms, industrial applications -> /
+- Located in York, PA with manufacturing plant at 631 S. Richland Ave -> /
+- Products include commercial shipboard, navy shipboard, high temperature lead wire, low smoke zero halogen -> /
 - UL Listed certification -> db
-- Custom cable design and toll processing capabilities -> db
-- Resource library with technical specs/data sheets -> /
+- Ranked 22nd in Top 50 Fastest-Growing Companies Central PA -> /
+- Custom cable design and toll processing capabilities -> /
+- Application engineers assist with product selection -> /
+- Cables manufactured in USA at York, PA plant -> /
 </details>
 
 ---
@@ -341,26 +356,25 @@ Marine Tech emphasizes U.S. manufacturing at its York facility and was recognize
 **Old description:** Established in 1968, Marlin Steel is a leading manufacturer of
 
 ## About
-Marlin Steel, headquartered in Baltimore, Maryland, was established in 1968. The company began as a producer of bagel baskets before pivoting to custom-engineered wire and sheet metal products. Current leadership includes Drew Greenblatt, who has overseen significant expansion in recent years, adding facilities in Indiana and Michigan.
+Marlin Steel was founded in 1968 in Baltimore, Maryland, initially producing bagel baskets. The company is led by Drew Greenblatt, who has overseen its expansion from a single Baltimore facility to additional locations in Indiana and Michigan, nearly tripling in size over the past four years.
 
-The company manufactures material handling baskets, wire forms, and mobile carts using processes that include wire forming (0.003–0.625 inch diameter), sheet metal fabrication (up to 3 inches thick), steel machining, fixturing, welding, and a range of over 40 finishes such as electropolishing, Teflon, nylon, Halar, powder coating, and plastic coating. Robotic stamping, coining, swaging, and piercing machines support automated production across multiple locations.
+The company manufactures custom-engineered products from steel wire and sheet metal, including material handling baskets, wire forms, and mobile carts. Its capabilities encompass wire forming (0.003" to 0.625" diameter), sheet metal fabrication (0.03" to 3" thick), steel machining and fixturing, welding, and more than 40 coating finishes such as electropolishing, Teflon, Nylon, Halar, powder coating, and plastic coating. Robotic stamping, coining, swaging, and piercing machines support automated production.
 
-Marlin Steel serves aerospace, defense, medical, food processing, automotive, data center, and telecommunications industries. Examples include stainless steel carts and baskets for medical and pharmaceutical use, telecom equipment enclosures, aerospace engine floats and turbine blade carriers, food processing baskets meeting FDA requirements, and automotive wire baskets designed to reduce scrap and improve production tolerances.
+Marlin Steel serves aerospace, defense, medical, food processing, automotive, data center, and telecommunications industries. Examples include sanitary stainless steel carts and baskets for medical and pharmaceutical use, telecom equipment enclosures and wire management solutions, automotive wire baskets that improve production tolerances, aerospace engine floats and turbine fan blade carriers, and electropolished baskets for food processing compliance.
 
-The company emphasizes advanced automation and precision engineering as key differentiators, enabling custom design and quick turnaround. Its culture focuses on employee well-being and community investment, with leadership stating a commitment to treating workers well and strengthening the rural communities where its plants operate.
+The company differentiates itself through its "Quality Engineered Quick®" approach, leveraging advanced automation and precision engineering to deliver rapid turnaround. Greenblatt emphasizes a community-focused culture that invests in employees with wages and growth opportunities, aiming to strengthen the rural communities where its facilities operate.
 
 ## Known for
+- "Quality Engineered Quick®" methodology
 - Advanced automation and precision engineering
-- Over 40 finishes and coatings including electropolishing, Teflon, and Halar
+- Over 40 coating finishes including electropolishing, Teflon, Nylon, Halar, powder and plastic coatings
 - Wire forming capacity from 0.003" to 0.625" diameter
 - Sheet metal fabrication up to 3" thick
-- Custom engineering for material handling baskets, wire forms, and mobile carts
 
 ## Capabilities
 - Wire forming
 - Sheet metal fabrication
-- Steel machining
-- Fixturing
+- Steel machining and fixturing
 - Welding
 - Electropolishing
 - Teflon coating
@@ -372,15 +386,15 @@ The company emphasizes advanced automation and precision engineering as key diff
 - Coining
 - Swaging
 - Piercing
-- Custom design and engineering
+- Metal basket design and engineering
 
 ## Industries
 - Aerospace
 - Defense
 - Medical
-- Food processing
+- Food Processing
 - Automotive
-- Data center
+- Data Center
 - Telecommunications
 
 ## Equipment
@@ -390,7 +404,7 @@ The company emphasizes advanced automation and precision engineering as key diff
 - Piercing machines
 
 ## Certifications
-- ISO 9001:2015
+- ISO 9001:2015/Amd.1:2024
 - ISO 13485
 
 ## Company details
@@ -400,21 +414,21 @@ The company emphasizes advanced automation and precision engineering as key diff
 
 <details><summary>Sources</summary>
 
-- Founded 1968 -> db
-- Headquarters Baltimore, Maryland -> db
-- Certifications ISO9001, ISO13485 -> db
-- Capabilities: wire forming, sheet metal fabrication, steel machining, fixturing, welding, coatings -> db
-- Products: material handling baskets, wire forms, mobile carts -> db
-- Industries served: aerospace, defense, medical, food processing, automotive, data center, telecommunications -> db
-- Materials: 316, 304, 330 stainless steel, 1008, 1010 steel, Inconel -> db
-- Finishes: electropolishing, Teflon, nylon, Halar, powder coating, plastic coating -> /
-- Wire forming diameter range 0.003" to 0.625" -> /
-- Sheet metal thickness range 0.03" to 3" -> /
+- Founded 1968 in Baltimore, Maryland -> db, /
+- Founder/owner Drew Greenblatt -> / (video transcript)
+- Started with bagel baskets -> / (video transcript)
+- Locations in Baltimore, Indiana, Michigan -> / (video transcript)
+- Custom-engineered products from steel wire and sheet metal -> /
+- Capabilities: wire forming, sheet metal fabrication, machining, welding, coatings -> /
+- Wire forming diameters 0.003" to 0.625" -> /
+- Sheet metal thickness 0.03" to 3" -> /
+- 40+ finishes including electropolishing, Teflon, Nylon, Halar, powder coating, plastic coating -> /
+- Materials: 316, 304, 330 stainless steel, 1008, 1010 steel, Inconel -> /
+- Industries: aerospace, defense, medical, food processing, automotive, data center, telecommunications -> /
+- Certifications: ISO 9001:2015/Amd.1:2024, ISO 13485 -> /, db
 - Robotic stamping, coining, swaging, piercing machines -> /
-- Locations in Indiana and Michigan -> /
-- Leadership: Drew Greenblatt -> /
-- Company started with bagel baskets -> /
 - Quality Engineered Quick® trademark -> /
+- Community and employee-focused culture -> / (video transcript)
 </details>
 
 ---
@@ -424,37 +438,33 @@ The company emphasizes advanced automation and precision engineering as key diff
 **Old description:** Discover Marsh Electronics: 90 Years of Innovation in Electronics Distribution
 
 ## About
-Marsh Electronics, Inc. traces its roots to 1935 when Earl Marsh and Kathleen Meek founded Marsh Radio Supply Co. in Milwaukee, Wisconsin. The company rebranded as Marsh Electronics in 1973 and has operated independently since 1998 after a series of acquisitions and a management buyback. Today it is headquartered in Milwaukee, serving the North Central United States from its base there.
+Marsh Electronics traces its roots to 1935 when Earl Marsh and Kathleen Meek opened Marsh Radio Supply Co. at a storefront on West State Street in Milwaukee, Wisconsin. The business rebranded as Marsh Electronics in 1973 and, after a period of acquisitions by Sterling and Marshall, returned to independent ownership in 1998. Today the company operates from its headquarters in Milwaukee, serving the North Central United States from a 20,000-square-foot facility in West Allis.
 
-The firm operates as a broad-line distributor of electronic and electromechanical components, augmented by a value-added division called MarVac Assemblies. That division provides custom cable and wire harness assembly, wire processing (including cutting, stripping, and termination), and full box-build services. Marsh also offers inventory replenishment programs, vendor reduction solutions, and engineering support with an on-staff engineer who assists with component selection, application research, and custom circuit design. The company's facility includes automated equipment such as a Komax wire cutting machine and the MKE1 system installed in 2022.
+The firm functions as a broad-line distributor of electronic and electromechanical components — capacitors, circuit breakers, connectors, sensors, switches, and more — while also running a value-added division, MarVac Assemblies, that produces custom cable assemblies, wire harnesses, and other built-to-print products. In-house capabilities include Komax wire-cutting and stripping equipment, custom assembly workstations, and an engineering team that supports component selection, circuit design, and qualification testing. Additional services encompass inventory replenishment programs and vendor-reduction solutions.
 
-Marsh serves original equipment manufacturers in commercial and off-road vehicles, energy (including solar heliostat tracking and energy storage), food and beverage processing, industrial equipment, medical devices, and military programs. Its supplier line card includes brands such as Eaton, Molex, Littelfuse, Sanyo Denki, and Carling Switch.
+Marsh serves original equipment manufacturers and tier‑2/3 suppliers in commercial and off‑road vehicles, energy (including solar heliostat tracking and energy‑storage systems), food and beverage processing, general industrial, medical devices, and military applications. The company highlights UL‑ and CSA‑compliant assemblies for off‑road vehicle wiring and provides Country‑of‑Origin and Proposition 65 labeling as required.
 
-The company emphasizes its 90-year track record, ISO 9001:2015 certification, and a customer-relationship model focused on second- and third-tier accounts. It positions its engineering team and custom assembly capabilities as a way to streamline customers' production and logistics processes.
+Differentiators cited by the company include over 90 years of industry experience, ISO 9001:2015 certification, a dedicated engineering and technical sales staff, and a focus on custom solutions tailored to OEM needs rather than simply maximizing sales volume.
 
 ## Known for
-- ISO 9001:2015 certified quality management
-- Dedicated on-staff engineering support and technical sales team
-- Custom cable, wire harness, and box-build assembly via MarVac division
-- Inventory replenishment and vendor reduction programs
-- Over 90 years of component distribution experience
+- Over 90 years of industry experience
+- ISO 9001:2015 certified for quality assurance
+- Dedicated engineering support and technical sales team
+- Custom solutions tailored to OEM needs
 
 ## Capabilities
 - Custom cable assembly
-- Wire harness assembly
-- Wire processing (cutting, stripping, termination)
-- Box build assembly
+- Wire processing and wire assembly
+- Custom assembly services
 - Component application engineering support
-- Inventory replenishment program
+- Inventory replenishment programs
 - Vendor reduction solutions
-- Electronic component distribution
-- Custom circuit design assistance
-- Prototyping and sample provision
+- MarVac assembly services
 
 ## Industries
-- Commercial & off-road vehicles
+- Commercial & Off-Road Vehicles
 - Energy
-- Food and beverage
+- Food and Beverage
 - Industrial
 - Medical
 - Military
@@ -473,16 +483,26 @@ The company emphasizes its 90-year track record, ISO 9001:2015 certification, an
 
 <details><summary>Sources</summary>
 
-- Founded 1935 as Marsh Radio Supply Co. by Earl Marsh and Kathleen Meek -> /about
-- Headquartered in Milwaukee, Wisconsin -> db
+- Founded 1935 by Earl Marsh and Kathleen Meek -> /about
+- Headquarters Milwaukee, Wisconsin -> db
+- Rebranded to Marsh Electronics 1973 -> /about
+- Acquisition history and return to independence 1998 -> /about
+- 20,000 sq. ft. facility in West Allis (1975) -> /about
 - ISO 9001:2015 certified -> /quality
-- Custom assembly, wire processing, and cable capabilities -> /
-- MarVac Assemblies division for value-added assembly -> /about
 - Industries served: Commercial & Off-Road Vehicles, Energy, Food and Beverage, Industrial, Medical, Military -> /
+- MarVac Assemblies division provides custom assembly services -> /about
 - Komax wire cutting machine installed 2010 -> /about
 - MKE1 system installed 2022 -> /about
-- 20,000 sq. ft. facility noted in 1975 -> /about
-- Acquisition history and return to independence in 1998 -> /about
+- ERP system implementation 2024 -> /about
+- 90th anniversary 2025 -> /about
+- Custom cable and wire processing capabilities -> /
+- Engineering support and technical sales team -> /quality
+- Inventory replenishment and vendor reduction solutions -> /
+- UL and CSA-compliant assemblies -> /
+- Country of Origin and Prop 65 labeling -> /quality
+- Customer relationship driven (2nd and 3rd tier) -> /
+- Distributor with Assembly capabilities -> /
+- End to End Component Application Development -> /
 </details>
 
 ---
@@ -492,54 +512,53 @@ The company emphasizes its 90-year track record, ISO 9001:2015 certification, an
 **Old description:** For more than four decades, we’ve helped power critical medical devices. Now, we’re bringing that experience to market with energy and focus as Marsh Medical, your trusted medical component manufacturer.
 
 ## About
-Marsh Medical operates from Newell, West Virginia, as a dedicated medical component brand under Marsh Bellofram, a U.S. manufacturer with a history reaching back more than 125 years. The company emerged to consolidate nearly a half-century of experience designing and manufacturing critical medical device components into a single access point.
+Marsh Medical operates from Newell, West Virginia, as a dedicated medical component brand under Marsh Bellofram, a U.S. manufacturer with a history exceeding 125 years. The division was created to consolidate nearly five decades of experience supplying critical components to the medical device industry.
 
-The company produces pressure and flow regulators, electro-pneumatic pressure and flow controls, transducers, electronic timing controls, open medical power supplies, and custom-engineered solutions. In-house engineers and chemists develop custom solutions, and the facility runs multiple production shifts — adding a second shift and six-day weeks during the COVID-19 pandemic to meet ventilator demand. The portfolio encompasses more than 100,000 custom part numbers ranging from precision air regulators and diaphragms to silicone components, electrical wiring, and thermocouples.
+The company designs and manufactures pressure and flow regulators, electro-pneumatic controls, transducers, electronic timing controls, and open medical power supplies. In-house engineers and chemists develop custom solutions, drawing on a portfolio of more than 100,000 custom parts that include precision air regulators, diaphragms, silicone components, and electrical wiring. During the COVID-19 pandemic, Marsh Medical added a second production shift running six days a week to meet surging demand for ventilator components.
 
-Marsh Medical serves the medical device industry, supplying components for ventilators and other critical medical equipment. Its customers are medical device manufacturers seeking custom-designed regulators, transducers, timing controls, and power supplies.
+Customers are primarily medical device original equipment manufacturers, including ventilator makers and other critical care equipment suppliers. The brand positions itself as a single access point for streamlined procurement of medical device components.
 
-The brand was formalized after the pandemic response demonstrated the need for a streamlined procurement channel; the company says it offers greater convenience, faster service, and streamlined procurement from a name built and mobilized to make medical device manufacturing better than before.
+Marsh Medical emphasizes convenience, faster service, and streamlined procurement, leveraging its pandemic-era mobilization and the deep manufacturing heritage of Marsh Bellofram to offer a more effective way to source medical parts.
 
 ## Known for
 - In-house engineers and chemists develop custom solutions
-- Added second production shift and six-day weeks during pandemic to meet demand
-- Portfolio of more than 100,000 custom part numbers
-- Backed by Marsh Bellofram's 125+ years of U.S. manufacturing history
+- Portfolio of more than 100,000 custom medical parts
+- Added second production shift during pandemic to meet ventilator demand
 - Single access point for medical device component procurement
+- Backed by Marsh Bellofram's 125-plus years of U.S. manufacturing history
 
 ## Capabilities
-- Pressure and flow regulator manufacturing
-- Electro-pneumatic pressure and flow control manufacturing
+- Pressure and flow regulators
+- Electro-pneumatic pressure and flow controls
 - Custom medical component design and manufacturing
-- Transducer manufacturing
-- Electronic timing control manufacturing
-- Open medical power supply manufacturing
-- In-house engineering and chemistry support
-- Diaphragm and silicone component fabrication
-- Electrical wiring and thermocouple assembly
+- Transducers
+- Electronic timing controls
+- Open medical power supplies
+- Precision air regulators
+- Diaphragms
+- Silicone components
+- Electrical wiring and thermocouples
 
 ## Industries
 - Medical devices
-- Medical equipment
-- Healthcare
 
 ## Company details
 - **Company Type:** Manufacturer
-- **Ownership:** Subsidiary of Marsh Bellofram
+- **Ownership:** Part of Marsh Bellofram
 - **Headquarters:** Newell, West Virginia
 
 <details><summary>Sources</summary>
 
-- Headquarters in Newell, West Virginia -> /
+- Headquarters in Newell, West Virginia -> db
 - Part of Marsh Bellofram with 125+ year history -> /
 - Nearly 50 years of medical component experience -> /
-- Products: pressure/flow regulators, electro-pneumatic controls, transducers, timing controls, open medical power supplies, custom solutions -> /
 - In-house engineers and chemists develop custom solutions -> /
-- Added second production shift and six-day weeks during COVID-19 pandemic -> /
-- Portfolio of more than 100,000 custom part numbers -> /
-- Serves medical device industry, including ventilator components -> /
-- Materials: stainless steel, silicone, electrical wiring, thermocouples, diaphragms -> /
-- Offers streamlined procurement, faster service, single access point -> /
+- More than 100,000 custom parts -> /
+- Product lines: pressure and flow regulators, electro-pneumatic controls, transducers, electronic timing controls, open medical power supplies -> /
+- Added second shift during COVID-19 pandemic -> /
+- Serves medical device OEMs -> /
+- Offers single access point for procurement -> /
+- Materials: stainless steel, silicone -> /
 </details>
 
 ---
@@ -549,55 +568,54 @@ The brand was formalized after the pandemic response demonstrated the need for a
 **Old description:** Martin Steel Design Company specializes in architectural metal fabrication, fusing classic and contemporary designs. From inception to completion, we strive to create functional pieces that are uniquely designed and crafted to enhance the value and security of your home or business - providing peace of mind.
 
 ## About
-Martin Steel Design Co LLC operates from Waipahu, Hawaii, and was established in 2000. The company traces its roots to a family trade in ornamental metalwork that began in the 1970s. Owner and Responsible Managing Employee Larry brought over 32 years of experience, having learned the craft from family mentors in the late 1980s. Jo, who grew up in the same trade, joined as project designer and manager, steering the firm’s creative direction with modern accents.
+Martin Steel Design Company operates from Waipahu, Hawaii, where it was established in 2000 by owner and Responsible Managing Employee Larry, a master fabricator with over 32 years of experience in the family metalworking trade dating to the late 1980s. Jo, the project designer and manager, brings a lineage in ornamental gate and fencing that began with her parents in the early 1970s, shaping the firm’s creative direction with modern accents.
 
-The shop specializes in architectural metal fabrication, delivering custom gates, fences, railings, and artistic metal pieces for homes and businesses. Services span conceptual design, custom layout, finishing, and professional installation. While metals are the primary medium, the team also integrates glass, wood, and bamboo into projects. The operation emphasizes a quality-over-quantity approach, handling projects of varying scale without disclosing facility size or annual volume.
+The shop focuses on architectural metal fabrication, producing custom metal art, ornamental gates, fences, and security features for homes and businesses. Services span conceptual design, custom layout, metal finishing, and professional installation, with the ability to integrate glass and wood such as bamboo into metalwork. The company emphasizes a quality-over-quantity approach rather than high-volume runs.
 
-Clients include architects, designers, engineers, and developers across residential and commercial sectors in Hawaii. The company has built long-term relationships with contractors and end-users alike, collaborating on projects ranging from private sanctuaries to larger developments.
+Clients include architects, designers, engineers, developers, and property owners across residential and commercial projects in Hawaii. The firm has built long-term relationships with contractors and design professionals through collaborative project execution.
 
-The founders attribute their success to a signature artistic touch, innovative and sustainable solutions, and a work ethic grounded in professional integrity and a genuine passion for the craft. These differentiators, they say, turn client visions into functional, secure, and aesthetically distinctive metalwork.
+The founders cite their artistic touch, innovative sustainable solutions, work ethic, and professional integrity as the foundation of the business, aiming to deliver peace of mind through functional pieces that enhance property value and security.
 
 ## Known for
-- Signature artistic touch in metal fabrication
-- Innovative and sustainable design solutions
-- Quality-over-quantity philosophy
-- Full-service from design through installation
-- Integration of glass, wood, and bamboo with metal
+- Quality-over-quantity production philosophy
+- Complete in-house design, fabrication, finishing, and installation
+- Integration of glass and wood (including bamboo) with metalwork
+- Collaborative workflow with architects, designers, engineers, and developers
+- Signature artistic touch and innovative sustainable solutions
 
 ## Capabilities
 - Architectural metal fabrication
-- Custom metal design
-- Conceptual design planning
-- Custom layout
+- Custom metal art fabrication
+- Ornamental gate and fence fabrication
+- Conceptual design and planning
+- Custom layout and detailing
 - Metal finishing
 - Professional installation
-- Glass integration
-- Wood integration
-- Bamboo integration
+- Glass and wood integration (including bamboo)
 
 ## Industries
-- Architecture
-- Design
-- Engineering
-- Real estate development
-- Residential construction
-- Commercial construction
+- Architectural metal fabrication
+- Ornamental gate and fencing
+- Custom metal art
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 2000
+- **Ownership:** Family-owned
 - **Headquarters:** Waipahu, Hawaii
 
 <details><summary>Sources</summary>
 
-- Founded 2000 -> db
-- Headquarters Waipahu, Hawaii -> db
-- Owner Larry (RME) established 2000 -> /
-- Jo as Project Designer and Manager -> /
-- Services: architectural metal fabrication, design, installation -> /
-- Materials: metals, glass, wood, bamboo -> /
-- Industries: architects, designers, engineers, developers, residential, commercial -> /
-- Differentiators: signature artistic touch, innovative sustainable solutions, quality over quantity, full-service design to installation -> /
+- Founded in 2000 -> db
+- Headquartered in Waipahu, Hawaii -> db
+- Owner Larry established company in 2000 with 32+ years experience in family trade -> /
+- Jo serves as Project Designer and Manager, family trade since 1970s, parents pioneers in ornamental gate and fencing in Hawaii -> /
+- Specializes in architectural metal fabrication, custom metal art, ornamental gates and fencing -> /
+- Provides conceptual design, custom layout, finishing, and installation -> /
+- Works with various metals, glass, and wood including bamboo -> /
+- Collaborates with architects, designers, engineers, and developers -> /
+- Emphasizes quality over quantity -> /
+- Known for signature artistic touch and innovative sustainable solutions -> /
 </details>
 
 ---
@@ -607,32 +625,28 @@ The founders attribute their success to a signature artistic touch, innovative a
 **Old description:** Making lives better by being the best supplier we can be in the products we make and the services we provide rests at the core of Martinrea, embracing characteristics of encouragement and trust as a team.
 
 ## About
-Martinrea Industries, Inc., operating as part of Martinrea International Inc., is headquartered in Vaughan, Ontario, Canada, with a major U.S. presence in North Vernon, Indiana. The business traces its roots to 2001 when Royal Laser was founded; a year later it acquired Rea International and adopted the Martinrea name. The company is publicly traded on the Toronto Stock Exchange (TSX: MRE) and has grown through a steady series of acquisitions across North America and Europe.
+Martinrea traces its origins to 2001 when Royal Laser was established. In 2002, the company acquired Rea International and adopted the name Martinrea International Inc. The business is headquartered in Vaughan, Ontario, Canada, and operates a major facility in North Vernon, Indiana. It is a publicly traded corporation listed on the Toronto Stock Exchange (TSX: MRE).
 
-The company designs, develops, and produces lightweight structures and propulsion systems for the automotive sector. Its flexible manufacturing group delivers just-in-time production and vertical integration, while also handling complex assemblies for agriculture, medium-duty trucks, and aerospace. Martinrea operates in 10 countries across 57 locations and employs approximately 16,000 team members.
+The company designs, develops, and produces lightweight structures and propulsion systems for the automotive sector. Its product portfolio includes “cap-less to engine” fuel systems, fluid and thermal management components, and complex assemblies. Manufacturing capabilities encompass flexible manufacturing, just-in-time delivery, and vertical integration across 57 locations in 10 countries, supported by a workforce of approximately 16,000 people.
 
-Martinrea’s primary customer base is the global automotive industry, where it supplies propulsion systems — including "cap-less to engine" solutions — and lightweight structures that reduce vehicle weight, emissions, and fuel consumption. Beyond automotive, the company serves agriculture, medium-duty truck, and aerospace manufacturers with complex assembly capabilities.
-
-In 2021, Martinrea launched the Martinrea Innovation Development (MiND) center to accelerate breakthrough technologies, reinforcing its focus on engineering-led differentiation.
+Martinrea serves global automotive original equipment manufacturers and extends its expertise to agriculture, medium-duty truck, and aerospace customers. The flexible manufacturing group provides just-in-time production and complex assembly services for these diverse markets.
 
 ## Known for
-- Global leader in lightweight structures and propulsion systems
-- Flexible manufacturing with just-in-time and vertical integration expertise
-- Complex assembly capabilities for agriculture, medium-duty trucks, and aerospace
-- Innovation Development (MiND) center established in 2021
-- 20+ years of operation across 10 countries and 57 locations
+- Expertise in lightweight structures and propulsion systems
+- Flexible manufacturing and vertical integration
+- Just-in-time manufacturing capabilities
+- Global footprint with 57 locations across 10 countries
+- Commitment to quality management from start to finish
 
 ## Capabilities
-- Design and development of lightweight structures
-- Production of lightweight structures
-- Propulsion systems engineering and manufacturing
+- Lightweight structures design and production
+- Propulsion systems design and production
 - Flexible manufacturing
 - Just-in-time manufacturing
 - Vertical integration
-- Complex assembly
-- Innovative engineering and R&D
+- Complex assemblies
+- Engineering and R&D
 - Cap-less to engine systems
-- Lightweight solutions for emissions reduction
 
 ## Industries
 - Automotive
@@ -650,18 +664,16 @@ In 2021, Martinrea launched the Martinrea Innovation Development (MiND) center t
 <details><summary>Sources</summary>
 
 - Founded 2001 as Royal Laser -> /about-us
-- Renamed Martinrea International Inc. after acquiring Rea International in 2002 -> /about-us
-- Headquarters in Vaughan, Ontario, Canada -> /about-us
-- Employee count 16,000 -> db and /
-- Operates in 10 countries, 57 locations -> /
-- Designs, develops, produces lightweight structures and propulsion systems -> /about-us
-- Flexible manufacturing with just-in-time and vertical integration -> /
-- Complex assemblies for agriculture, medium-duty trucks, aerospace -> /
-- Vision: Making lives better by being the best supplier -> /about-us
-- Mission: delivering quality, employee opportunity, stakeholder returns, community contribution -> /about-us
-- Established Martinrea Innovation Development (MiND) in 2021 -> /about-us
-- Acquisition history including Pilot Industries, Oxford Automotive, SKD Automotive, Honsel, Metalsa, Lyseon -> /about-us
-- Languages: English, German, Spanish, Japanese -> /
+- Renamed Martinrea International Inc. in 2002 after acquiring Rea International -> /about-us
+- Headquarters in Vaughan, Ontario -> /
+- Major facility in North Vernon, Indiana -> db
+- 16,000 employees -> db and /
+- 57 locations in 10 countries -> /
+- Products: lightweight structures, propulsion systems, fluid and thermal, cap-less to engine -> /about-us and /
+- Industries: automotive, agriculture, medium-duty trucks, aerospace -> /
+- Flexible manufacturing, just-in-time, vertical integration -> /
+- Vision and mission statements -> /about-us
+- Language options: English, German, Spanish, Japanese -> /
 - LinkedIn URL -> db
 </details>
 

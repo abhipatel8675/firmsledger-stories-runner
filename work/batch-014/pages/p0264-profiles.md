@@ -3,71 +3,69 @@
 **Old description:** Founded in 1958, Gore is a global materials science company with approximately 13,000 Associates spanning five continents and thousands of products across industries — from high-performance fabrics to implantable medical devices and products that reduce emissions, explore space and solve other complex challenges.
 
 ## About
-W. L. Gore & Associates, Inc. operates its Paper Mill West facility in Newark, Delaware. The company was founded in 1958 by Bill and Vieve Gore, who started the enterprise in their family home. Today, the business remains a global materials science organization with approximately 13,000 associates spanning five continents.
+W. L. Gore & Associates, Inc. operates its Paper Mill West facility in Newark, Delaware. The company was founded in 1958 by Bill and Vieve Gore in their family home, and has grown into a global materials science enterprise with approximately 13,000 associates across five continents.
 
-Gore develops and manufactures thousands of products built on its expertise in expanded polytetrafluoroethylene (ePTFE) and other advanced materials. Its portfolio includes high-performance cables and assemblies, filtration media, gaskets and sealants, medical devices, proton exchange membranes for hydrogen production, thermal insulation, and venting solutions. The company’s capabilities range from materials research and prototyping to full-scale production of fabrics, fibers, and finished components.
+Gore develops and manufactures a broad portfolio of high-performance materials and products, including cables and assemblies, fabrics, fibers and thread, filtration and purification media, gaskets and sealants, medical devices, pharmaceutical bioprocessing components, proton exchange membranes for clean energy, thermal insulation, and protective vents. The company’s materials science expertise underpins thousands of product variations produced at facilities worldwide.
 
-The company serves a broad set of industries: aerospace and defense, automotive and electrified vehicles, telecommunications, electronics, semiconductor, energy, life sciences, industrial manufacturing, fire and public safety, apparel and textiles, chemicals, and test and measurement. Concrete examples include microwave RF test cables for aerospace and semiconductor applications, GORE-TEX consumer and professional fabrics, implantable medical devices under the Gore Medical brand, and outdoor gear from SITKA Gear.
+Its customers span aerospace and defense, apparel and textiles, automotive and electrified vehicles, chemicals, electronics, energy, fire and public safety, industrial manufacturing, life sciences, semiconductors, telecommunications, and test and measurement. Concrete applications include microwave RF test cables for aerospace and semiconductor test equipment, GORE-TEX fabrics for consumer and professional outerwear, implantable medical devices, and filter bags that capture 99.99% of emissions in industrial plants.
 
-Gore attributes its differentiation to a distinct culture that combines materials science expertise with a passion for solving customers’ most complex challenges. The organization emphasizes a legacy of integrity, environmental stewardship, and responsible enterprise, guided by core principles that drive decision-making and long-term relationships with customers and suppliers.
+The company attributes its differentiation to a culture of innovation rooted in materials science, citing 65 years of continuous R&D, rigorous testing and analysis for every material, and proprietary technologies such as ultra-low degradation proton exchange membranes for hydrogen production and high-speed data cables up to 60% lighter than industry standards.
 
 ## Known for
-- Distinct culture and passion for materials science innovation
-- Materials science expertise applied to solve complex customer challenges
-- Legacy of integrity, environmental stewardship, and responsible enterprise
-- Global collaboration across approximately 13,000 associates
-- 65+ years of materials science leadership
+- 65 years of materials science innovation
+- Proprietary ePTFE-based membrane technology for filtration, venting, and energy applications
+- Ultra-low degradation PEM technology reducing hydrogen production costs
+- High-speed data cables up to 60% lighter than industry standard
+- Filter bags achieving 99.99% emissions capture
 
 ## Capabilities
-- Cable and assembly manufacturing
-- High-performance fabric production
-- Fiber and thread manufacturing
-- Filtration and purification media production
+- Cable assembly
+- Fabric manufacturing
+- Fiber and thread production
+- Filtration media manufacturing
 - Gasket and sealant manufacturing
 - Medical device manufacturing
-- Pharmaceutical bioprocessing solutions
-- Proton exchange membrane (PEM) technology development
+- Pharmaceutical bioprocessing component manufacturing
+- Proton exchange membrane manufacturing
 - Thermal insulation manufacturing
-- Venting solutions production
-- Materials research and prototyping
-- Testing and analysis
+- Vent manufacturing
+- Microwave RF test cable assembly
+- High-speed data cable assembly
+- Filter bag production
+- Materials testing and analysis
 
 ## Industries
 - Aerospace & Defense
-- Automotive / Electrified Vehicles
-- Telecommunications
-- Electronics
-- Semiconductor
-- Energy
-- Life Sciences
-- Industrial & Manufacturing
-- Fire & Public Safety/Police
 - Apparel & Textiles
+- Automotive / Electrified Vehicles
 - Chemicals
+- Electronics
+- Energy
+- Fire & Public Safety/Police
+- Industrial & Manufacturing
+- Life Sciences
+- Semiconductor
+- Telecommunications
 - Test & Measurement
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1958
 - **Employees:** 13,000
+- **Ownership:** Family-founded (Bill and Vieve Gore)
 - **Headquarters:** Newark, Delaware
 
 <details><summary>Sources</summary>
 
-- Founded 1958 by Bill and Vieve Gore in family home -> /about
-- Headquarters Newark, Delaware -> db
-- Approximately 13,000 associates globally -> /about
-- Materials science company with products across industries -> /
-- Industries served: Aerospace & Defense, Automotive/Electrified Vehicles, Telecommunications, Electronics, Semiconductor, Energy, Life Sciences, Industrial & Manufacturing, Fire & Public Safety/Police, Apparel & Textiles, Chemicals, Test & Measurement -> /, /about
-- Product categories: Cables & Assemblies, Fabrics, Fibers & Thread, Filtration & Purification, Gaskets & Sealants, Medical, PharmBIO, PEM Technology, Thermal Insulation, Vents -> /
-- Brands: GORE-TEX, Gore Medical, SITKA Gear, ELIXIR Strings -> /
-- Culture of innovation and materials science expertise -> /about
-- Legacy of integrity, environmental stewardship, responsible enterprise -> /about
-- 65 years of innovation -> /
-- Microwave RF test cables for aerospace, auto, electronics, semiconductor, telecommunications -> /
-- GORE-TEX consumer and professional fabrics -> /
-- Implantable medical devices under Gore Medical -> /
-- Outdoor gear from SITKA Gear -> /
+- Founded in 1958 by Bill and Vieve Gore in their family home -> /about
+- Approximately 13,000 associates globally -> db
+- Headquartered in Newark, Delaware -> db
+- Product categories: cables & assemblies, fabrics, fibers & thread, filtration & purification, gaskets & sealants, medical, PharmBIO, PEM technology, thermal insulation, vents -> /
+- Industries served: aerospace & defense, apparel & textiles, automotive/electrified vehicles, chemicals, electronics, energy, fire & public safety, industrial manufacturing, life sciences, semiconductor, telecommunications, test & measurement -> /
+- 65 years of innovation -> /about
+- Ultra-low degradation PEM for hydrogen production -> /
+- High-speed data cables up to 60% lighter -> /
+- Filter bags with 99.99% emissions capture -> /
 </details>
 
 ---
@@ -77,69 +75,71 @@ Gore attributes its differentiation to a distinct culture that combines material
 **Old description:** Legence (Nasdaq: LGN) is a leading provider of engineering, consulting, installation, and maintenance services for mission-critical systems in buildings. Legence specializes in designing, fabricating, and installing complex HVAC, process piping, and other mechanical, electrical, and plumbing (MEP) systems—enhancing energy efficiency, reliability, and sustainability in new and existing facilities.
 
 ## About
-The Bowers Group, a subsidiary of Legence (Nasdaq: LGN), was established in 1984 in Beltsville, Maryland. The company operates an in-house sheet metal department across two facilities: 60,000 square feet in Maryland and 30,000 square feet in Virginia dedicated to fabrication and sub-assembly.
+The Bowers Group operates its sheet metal division from Beltsville, Maryland, with a second fabrication facility in Virginia. The company was established in 1984 and has served the mechanical construction, service, and repair market across Maryland, Virginia, and Washington, D.C. for over three decades. It functions as a Legence company (Nasdaq: LGN), a publicly traded provider of engineering, consulting, installation, and maintenance services for mission-critical building systems.
 
-The shop fabricates and installs over 8 million pounds of sheet metal annually, using equipment such as BIM coordination, Vicon coil lines, coil-fed plasma tables, and water jet insulation cutters. Beyond sheet metal, the company provides specialty and steel piping prefabrication, CADD/BIM coordination, and quality control and commissioning services.
+The in-house sheet metal department fabricates and installs more than 8 million pounds of sheet metal annually. ft. in Maryland and 30,000 sq. ft. in Virginia — dedicated to sheet metal fabrication and sub-assembly. The shops run Vicon coil lines, coil-fed plasma tables, and water jet insulation cutters, supported by BIM-based CADD coordination. Additional capabilities include specialty piping prefab, steel piping prefab, and full quality control and commissioning programs that span preconstruction through project closeout.
 
-Its clients include general contractors, high‑technology firms, hospitals and institutional facilities, government agencies, and property management companies throughout Maryland, Virginia, and Washington, D.C. The firm serves mechanical construction, HVAC, process piping, and mission‑critical MEP systems.
+Clients include general contractors, high-technology firms, hospitals and institutional facilities, government agencies, and property management companies. The company focuses on commercial and mission-critical projects, delivering HVAC, process piping, and other mechanical, electrical, and plumbing (MEP) systems for new construction and retrofit work throughout the Mid-Atlantic region.
 
-The Bowers Group emphasizes a solutions‑oriented approach rather than simply supplying products, with a quality program that runs from preconstruction through project closeout and dedicated QC and commissioning personnel assigned to each job.
+The Bowers Group states its mission is to provide solutions rather than just products, emphasizing superior service, cost efficiency, and reliability. Its quality control division assigns personnel to each project at the start of construction to verify that work meets design specifications and customer requirements, aiming to identify and resolve potential delays before they affect the schedule.
 
 ## Known for
-- Fabricates and installs over 8 million lbs of sheet metal per year
-- In-house BIM, Vicon coil lines, coil-fed plasma tables, water jet insulation cutters
-- Quality control program spanning preconstruction to closeout with dedicated QC/Cx staff
-- Solutions‑focused model rather than product‑only supply
+- 8 million lbs annual sheet metal fabrication capacity
+- In-house BIM coordination with Vicon coil lines and coil-fed plasma tables
+- Quality control program from preconstruction through project closeout
+- 24/7 support for service and retrofit work
 
 ## Capabilities
 - Sheet metal fabrication
+- Sheet metal installation
+- CADD / BIM coordination
+- Quality control and commissioning
 - Specialty piping prefabrication
 - Steel piping prefabrication
-- CADD/BIM coordination
-- Quality control and commissioning
-- Installation
-- Sub-assembly
-- Commercial service
+- Commercial mechanical service
 - Mission critical retrofit and service
 - Service construction
+- Sub-assembly
+- Coil line fabrication
+- Plasma cutting
+- Water jet insulation cutting
 
 ## Industries
-- Mechanical construction
-- HVAC
-- Process piping
-- MEP systems
-- Mission-critical facilities
-- Healthcare
-- Government
-- High-tech
+- General contractors
+- High-technology firms
+- Hospitals and institutional facilities
+- Government agencies
 - Property management
-- General contracting
+- Commercial construction
+- Mission critical facilities
+- Mechanical construction
 
 ## Equipment
-- BIM
 - Vicon coil lines
 - Coil-fed plasma tables
 - Water jet insulation cutters
+- BIM software
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1984
-- **Ownership:** Subsidiary of Legence (Nasdaq: LGN)
+- **Ownership:** Legence company (Nasdaq: LGN)
 - **Headquarters:** Beltsville, Maryland
 
 <details><summary>Sources</summary>
 
 - Founded 1984 -> /about-us
-- Headquarters Beltsville, MD -> /
-- 8 million lbs annual sheet metal capacity -> /
-- 60,000 sq ft MD and 30,000 sq ft VA facilities -> /
-- Equipment: BIM, Vicon coil lines, coil-fed plasma tables, water jet insulation cutters -> /
-- Services: sheet metal fabrication, specialty piping prefab, steel piping prefab, CADD/BIM coordination, quality control and commissioning -> /services
-- Clients: general contractors, high-tech firms, hospitals, government agencies, property management companies -> /about-us
-- Quality control program from preconstruction through closeout -> /quality
-- QC and Cx personnel assigned to each project -> /quality
-- Mission: provide solutions instead of just products -> /about-us
-- Parent company Legence (Nasdaq: LGN) -> /about-us
+- Headquarters Beltsville, MD -> / (home page) and /about-us
+- Legence company (Nasdaq: LGN) -> /about-us
+- 8 million lbs annual sheet metal capacity -> / (home page)
+- 60,000 sq ft Maryland + 30,000 sq ft Virginia fabrication space -> / (home page)
+- Vicon coil lines, coil-fed plasma tables, water jet insulation cutters -> / (home page)
+- BIM/CADD coordination -> /services and / (home page)
+- Quality control program preconstruction through closeout -> /quality
+- Clients: general contractors, high-tech firms, hospitals, government agencies, property management -> /about-us
+- Service area: Maryland, Virginia, Washington D.C. -> /about-us
+- Services: sheet metal, specialty piping prefab, steel piping prefab, commercial service, mission critical retrofit -> /services and db
+- Mission: provide solutions instead of products, superior service -> /about-us and db
 </details>
 
 ---
@@ -149,38 +149,41 @@ The Bowers Group emphasizes a solutions‑oriented approach rather than simply s
 **Old description:** Welcome to Wood Crafting Woodworks. We are a small, family-owned and operated, specialty hardwood lumber supplier located in Ocala, Florida. We’ve been in business since 1987, initially building custom furniture and cabinetry, we have grown into North Central Florida’s largest overall inventory of traditional domestic and tropical exotic hardwoods. We’re also proud to offer furniture repair, custom fabrication, and specialized milling service with our on-site sawmill. We encourage you to visit our location where you can peruse the lumber racks and select exactly what your project requires. Our onsite production facility allows us to dimension lumber into your unique specifications. Here at WC Woodworks every attempt is made to help our customers find the right materials to make their project exceptional. With more than 40 species in stock, your knowledge of our inventory is invaluable.
 
 ## About
-WC Woodworks, Hardwoods, & Sawmill operates from Ocala, Florida, where it has been in business since 1987. The company began as a hobby for Robert Ross in 1973, who started collecting tools and building furniture at age 18. That passion evolved into a family-owned and operated enterprise, now run by Robert, his wife Robin, and their sons Ryan and Russell.
+WC Woodworks, Hardwoods, & Sawmill operates from Ocala, Florida, where it has been a family-owned business since 1987. The company traces its roots to 1973 when Robert Ross, then 18, began collecting tools and developing a passion for woodworking. What started as a hobby evolved into a commercial venture in 1987, with Robert, his wife Robin, and their sons Ryan and Russell running the operation.
 
-The business supplies specialty hardwood lumber, maintaining what it describes as North Central Florida's largest inventory of traditional domestic and tropical exotic hardwoods, with more than 40 species in stock. An on-site sawmill provides specialized milling services, while an onsite production facility dimensions lumber to customer specifications. The company also offers custom fabrication and furniture repair.
+The firm supplies specialty hardwood lumber, maintaining an inventory of more than 40 domestic and tropical exotic species that it describes as the largest in North Central Florida. An on-site sawmill and production facility enable custom milling, dimensioning, and fabrication services. The shop also builds custom furniture and cabinetry, and offers furniture repair.
 
-Customers include professional woodworkers and hobbyists seeking premium hardwoods, wood products, and millwork for furniture and cabinetry projects. The company positions itself as a go-to resource for both trade and individual craftsmen in the region.
+Customers include professional woodworkers and hobbyist craftsmen seeking premium hardwoods, millwork, and custom wood products. The company serves both trade buyers who need specific dimensions and individuals selecting boards in person at the lumber racks.
 
-The founders emphasize customer experience and relations as a core value, rooted in the original passion for woodworking that started the business.
+The Ross family emphasizes customer experience and long-term relations as core values. The combination of a broad species selection, in-house sawmill capacity, and the ability to dimension lumber to unique specifications is presented as the key differentiator.
 
 ## Known for
-- North Central Florida's largest inventory of domestic and exotic hardwoods
-- On-site sawmill for specialized milling
-- Onsite production facility for custom dimensioning
+- North Central Florida's largest inventory of domestic and tropical exotic hardwoods
+- On-site sawmill for specialized milling and custom dimensioning
+- Custom furniture, cabinetry, and furniture repair services
 - More than 40 hardwood species in stock
-- Family-owned with a focus on customer experience
+- Family-owned and operated since 1987
 
 ## Capabilities
 - Hardwood lumber supply
-- Custom fabrication
+- Custom furniture manufacturing
+- Cabinetry
 - Furniture repair
-- Specialized milling (sawmill)
-- Dimensioning lumber to specification
-- Millwork
+- Custom fabrication
+- Specialized milling
+- Lumber dimensioning
+- Sawmill operations
 
 ## Industries
-- Professional woodworking
-- Hobby woodworking
+- Woodworking
 - Furniture making
 - Cabinetry
 - Millwork
+- Hobby crafts
 
 ## Equipment
-- On-site sawmill
+- Sawmill
+- Production facility
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -192,15 +195,18 @@ The founders emphasize customer experience and relations as a core value, rooted
 
 - Founded 1987 -> /about
 - Family-owned and operated -> /
-- Robert Ross founder, started 1973 -> /about
+- Founder Robert Ross started hobby in 1973 -> /about
+- Business started 1987 -> /about
 - Location Ocala, Florida -> /
-- Largest inventory in North Central Florida -> /
 - More than 40 species in stock -> /
-- On-site sawmill for specialized milling -> /
-- Custom fabrication and furniture repair -> /
-- Onsite production facility for dimensioning -> /
-- Serves professional and hobby woodworkers -> /about
-- Core value customer experience -> /about
+- On-site sawmill -> /
+- Custom furniture and cabinetry -> /
+- Furniture repair -> /
+- Custom fabrication -> /
+- Specialized milling service -> /
+- Largest inventory in North Central Florida -> /
+- Professional and hobby woodworking craftsmen -> /about
+- Customer experience core value -> /about
 </details>
 
 ---
@@ -210,31 +216,31 @@ The founders emphasize customer experience and relations as a core value, rooted
 **Old description:** Woodworking has been a passion of mine since high school.  I began designing pieces and collecting tools in 1974.  In 1981 while still in college at William Penn, I began designing furniture by commission while completing my Industrial Arts degree.  In time my shop and type of work I did grew.  For thirty years I taught a variety of high school shop classes. Besides furniture I have done extensive work with renovations and millwork for Victorian homes.
 
 ## About
-WG Carlough Woodworking operates from Blue Grass, Iowa. The business traces its roots to 1974 when founder W.G. Carlough began designing pieces and collecting tools as a high school student. In 1981, while completing an Industrial Arts degree at William Penn College, he started accepting furniture commissions. For three decades he taught high school shop classes, and he also performed extensive renovation and millwork for Victorian homes before focusing full-time on custom furniture.
+WG Carlough Woodworking operates from Blue Grass, Iowa. The founder's woodworking passion dates to high school, with tool collecting and design beginning in 1974. While completing an Industrial Arts degree at William Penn College in 1981, the founder took on commission furniture projects.
 
-The shop produces made-to-order furniture including chess tables crafted from a variety of hardwoods, toy vehicles, charcuterie boards, and jewelry boxes made from exotic hardwoods. Heirloom pieces feature Queen Anne–style tables with cabriole legs, Victorian bed frames, and hope chests joined with dovetail construction. Capabilities cover custom design, fine woodworking, dovetail joinery, and architectural millwork for period restorations.
+The company produces one-off and small-run furniture pieces tailored to client specifications. Core offerings include chess tables crafted from assorted hardwoods, toy vehicles, charcuterie boards, and jewelry boxes made from exotic hardwoods. Heirloom-grade work features Queen Anne–style tables with cabriole legs, Victorian bed frames, and hope chests joined with hand-cut dovetails. The shop also handles millwork and renovation projects for historic Victorian homes.
 
-The company serves individual clients seeking one-of-a-kind furnishings, as well as restoration projects for Victorian-era homes. Past work includes custom chess tables, toy vehicles, charcuterie boards, jewelry boxes, and period-appropriate millwork for historic renovations.
+The business serves individual customers seeking bespoke furniture and restoration services for period homes. Projects range from standalone pieces like game tables and keepsake boxes to architectural millwork for historic properties.
 
-Carlough’s background in teaching and historic renovation informs a focus on designing and constructing each piece to the customer’s exact wishes, emphasizing heirloom quality and traditional joinery.
+The founder’s background in industrial arts education and decades of hands-on teaching inform the shop’s emphasis on traditional joinery and period-appropriate detailing. The operation grew from a personal passion into a commission-based practice focused on heirloom-quality craftsmanship.
 
 ## Known for
-- Custom furniture designed and built to each customer’s specifications
-- Heirloom-quality joinery including dovetail and cabriole leg construction
-- Three decades of high school shop teaching and Victorian renovation experience
-- Specialization in period millwork for historic homes
+- Heirloom custom work with hand-cut dovetail joinery
+- Exotic hardwoods for jewelry boxes and charcuterie boards
+- Victorian home millwork and renovation expertise
+- Custom chess tables in assorted hardwoods
 
 ## Capabilities
 - Custom furniture design
-- Fine woodworking
+- Woodworking
 - Dovetail joinery
-- Architectural millwork
+- Millwork
 - Victorian home renovation
 
 ## Industries
-- Furniture
-- Home furnishings
-- Renovation and restoration
+- Custom furniture manufacturing
+- Millwork
+- Historic home renovation
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -242,14 +248,15 @@ Carlough’s background in teaching and historic renovation informs a focus on d
 
 <details><summary>Sources</summary>
 
-- Location: Blue Grass, Iowa -> db
-- Founder began woodworking in 1974, started commissions in 1981 -> /
+- Location: Blue Grass, Iowa -> /
+- Founder's woodworking passion since high school, began designing in 1974 -> /
+- Commission furniture work started in 1981 during college at William Penn -> /
 - 30 years teaching high school shop classes -> /
-- Extensive renovation and millwork for Victorian homes -> /
-- Products: chess tables, toy vehicles, charcuterie boards, jewelry boxes, Queen Anne tables, Victorian bed frames, hope chests -> /
-- Processes: custom design, woodworking, dovetail joinery, millwork -> /
-- Materials: hardwoods, exotic hardwoods -> /
-- Focus on custom pieces per customer wishes -> /
+- Extensive work with renovations and millwork for Victorian homes -> /
+- Current focus: designing and constructing individual furniture pieces per customer wishes -> /
+- Popular pieces: chess tables with variety of hardwoods -> /
+- Other items: toy vehicles, charcuterie boards, jewelry boxes from exotic hardwoods -> /
+- Heirloom custom work: Queen Anne style tables with cabriole legs, Victorian bed frames, hope chests with dovetail joinery -> /
 </details>
 
 ---
@@ -259,30 +266,29 @@ Carlough’s background in teaching and historic renovation informs a focus on d
 **Old description:** Welcome to Wild Steel Customs, your go-to destination for unique custom signs, fire pits, and bow holders. Our handcrafted products are designed to elevate your outdoor space and reflect your personal style. Explore collection and discover the perfect piece to enhance your home or gift to a loved one. Let us help you create something truly special!
 
 ## About
-Wild Steel Customs operates from Elkview, West Virginia, where it produces a line of handcrafted metal decor and offers custom fabrication services. The company's founding date and ownership details are not publicly disclosed. The business maintains a catalog of ready-made designs while also accepting bespoke orders.
+Wild Steel Customs operates from Elkview, West Virginia. The company's founding year and ownership structure are not publicly disclosed.
 
-The shop specializes in custom CNC plasma cutting to create metal signs, fire pits, bow holders, yard stakes, key holders, and coat racks. Products range from personalized monogram signs and sports-team logos to hunting-themed bow racks and farm signage. All pieces are fabricated in-house using steel, including 16-gauge sheet, and finished with powder coating for durability. The facility uses CNC plasma cutting equipment to handle both repeatable product lines and one-off custom jobs.
+The shop specializes in custom CNC plasma cutting and metal fabrication, producing a range of steel products including personalized signs, fire pits, bow holders, yard stakes, key holders, and coat racks. Items are typically made from 16-gauge steel with powder-coated finishes. No facility size, headcount, or annual volume figures are published.
 
-Customers include homeowners looking for personalized outdoor decor, hunters seeking custom bow holders, and fans of teams such as the New York Yankees and Marshall University. The company also serves agricultural clients with custom farm signs and provides general metal fabrication for one-off projects.
+The business sells directly to consumers through its website, serving customers looking for outdoor decor, hunting accessories, sports-team memorabilia, and personalized home goods. There is no indication of industrial or B2B industry focus.
 
-Wild Steel Customs highlights its experienced fabrication team, attention to detail, and a client-focused approach that aims to bring each customer's vision to life. The business emphasizes quality workmanship and close collaboration throughout the design and production process. The company states that client satisfaction is its priority, working closely with customers to exceed expectations.
+Wild Steel Customs emphasizes handcrafted quality, an experienced fabrication team, and a client-satisfaction-first approach as its distinguishing traits.
 
 ## Known for
-- Custom CNC plasma cutting services
-- Skilled team with years of metal fabrication experience
-- Attention to detail and quality in every project
-- Client-focused collaboration to bring visions to life
+- Custom CNC plasma cutting tailored to each order
+- Handcrafted production with powder-coated 16-gauge steel
+- Experienced fabrication team with years of metalworking background
+- Direct-to-consumer sales with personalized design service
 
 ## Capabilities
-- Metal fabrication
 - CNC plasma cutting
+- Metal fabrication
 - Custom metal signage
-- Custom fire pits
-- Custom bow holders
-- Powder coating
-- Custom yard stakes
-- Custom key holders
-- Custom coat racks
+- Fire pit manufacturing
+- Bow holder manufacturing
+- Yard stake manufacturing
+- Key holder manufacturing
+- Coat rack manufacturing
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -290,83 +296,130 @@ Wild Steel Customs highlights its experienced fabrication team, attention to det
 
 <details><summary>Sources</summary>
 
-- Location: Elkview, West Virginia -> db
-- Products: custom signs, fire pits, bow holders, yard stakes, key holders, coat racks -> /
-- Process: CNC plasma cutting -> /
-- Emphasis on experienced team, quality, client satisfaction -> /
-- Material: 16 Gauge Steel -> /
-- Finish: powder coating -> /
-- Custom fabrication services offered -> /
-- Sports team examples: New York Yankees, Marshall University -> /
-- Farm sign example -> /
-- Hunting-related products: bow holders, coon dog signs -> /
+- Headquarters: Elkview, West Virginia -> db
+- Custom CNC plasma cutting services -> /
+- Product range: custom signs, fire pits, bow holders, yard stakes, key holders, coat racks -> /
+- Material: 16 gauge steel mentioned in product description -> /
+- Material: powder coated steel mentioned in product description -> /
+- Experienced team with years of experience in metal fabrication -> /
+- Quality work and client satisfaction emphasis -> /
 </details>
 
 ---
 
 # WILKO Plastics, Inc.
 
-_skipped: not enough facts_
+**Old description:** Wilko Plastics specializes in custom injection molding and provides our customers with a variety of different molding solutions to suit each of their specific application needs. We manufacture automotive safety, A-class surface, functional, under-hood and fuel system components. We work with a broad range of thermoplastic materials while specializing in  tight tolerance and 2 shot products. Whether it is a simple or complex application Wilko Plastics has the molding knowledge and experience for it.
+
+## About
+Wilko Plastics, Inc. is based in Romeo, Michigan. The company entered the injection molding market in 2022 through the acquisition of Alco Plastics, a business with roots dating back to 1976. No founders are named in public materials, and ownership structure has not been disclosed.
+
+The company provides custom injection molding, tooling, CNC machining, assembly, and secondary operations. It specializes in tight-tolerance and two-shot molding of thermoplastic materials, producing automotive safety components, A-class surfaces, functional parts, under-hood items, and fuel-system components. Facility size, headcount, and annual volumes are not published.
+
+Wilko Plastics serves the automotive industry, supplying Tier 1 suppliers and OEMs. The company emphasizes a full-service, in-house approach that eliminates the need to ship molds between multiple facilities.
+
+Wilko Plastics highlights its commitment to quality and integrity, citing over 40 years of on-time delivery heritage from its Alco Plastics lineage. It aims for 100 percent customer scorecards through continuous improvement, operational excellence, and a personal commitment from employees to deliver defect-free parts on time, every time.
+
+## Known for
+- All services performed in-house to reduce lead time and cost
+- IATF 16949:2016 certified quality management system
+- Specializes in tight-tolerance and two-shot injection molding
+- Over 40 years of on-time delivery heritage via Alco Plastics
+- Full-service manufacturing from tooling through assembly
+
+## Capabilities
+- Injection Molding
+- Tooling
+- CNC Machining
+- Assembly
+- Secondary Operations
+- Two-Shot Molding
+- Tight Tolerance Molding
+
+## Industries
+- Automotive
+- Automotive Tier 1 Suppliers
+- Automotive OEMs
+
+## Certifications
+- IATF 16949:2016
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Romeo, Michigan
+
+<details><summary>Sources</summary>
+
+- Headquarters: Romeo, Michigan -> db
+- Acquired Alco Plastics in 2022 -> /about-us
+- Alco Plastics founded 1976 -> /about-us
+- IATF 16949:2016 certified -> /
+- Services: Injection Molding, Tooling & CNC Machining, Assembly & secondary operations -> /, /services
+- Industries: Automotive, Tier 1 suppliers, OEMs -> /
+- Specializes in tight tolerance and two-shot molding -> db (description)
+- Full service manufacturing solution in-house -> /
+- Over 40 years of on-time delivery heritage -> /
+- Commitment to quality, integrity, continuous improvement -> /about-us
+</details>
+
+---
 
 # WORLD electronics
 
 **Old description:** WORLD electronics is a flexible, customer focused manufacturer of printed circuit board assemblies of various volumes, mixes and complexities.
 
 ## About
-WORLD electronics operates from Reading, Pennsylvania, where the company has been based since 1999. The business traces its roots to 1991, and in 1986 Joe Rado purchased the company, moving it from West Chester to Morgantown before designing the current Reading facility. Under Rado's leadership the firm grew from eight people to over 100 employees. Since 2018 the Rado family's women have led the company, which holds WBENC certification as a woman-owned business.
+WORLD electronics is headquartered in Reading, Pennsylvania. The company was founded in 1991 and became a Rado family business in 1986 when Joe Rado purchased it. In 1999, the current facility in Reading was opened. The business is now led by the women of the family and is WBENC certified as a woman-owned enterprise.
 
-The company provides turnkey printed circuit board assembly and box-build services for low-to-medium-volume, high-mix production. Its shop runs six independent surface-mount lines, through-hole soldering, a Kulicke & Soffa 8090 wedge wire bonder, automated optical inspection, X-ray inspection, in-circuit and functional test, burn-in and temperature cycling, component programming, rework, cleaning and pin insertion. Engineering support covers design for manufacturability, test development, PCB layout and supply-chain management.
+The company provides printed circuit board assembly, box build, and turnkey manufacturing services for low to medium volume, high mix production. Its 100-plus employee facility operates six independent surface mount lines, through-hole soldering, wire bonding (Kulicke & Soffa 8090), automated optical inspection, X-ray, in-circuit and functional testing, burn-in, cleaning, component procurement, programming, rework, and pin insertion. Engineering services include design for manufacturability, test development, and new product introduction support.
 
-Customers span communications, networking, medical, defense and industrial-control sectors, ranging from major OEMs to high-tech start-ups. The firm handles both tin-lead and RoHS-compliant assemblies, offering surface finishes such as HASL, nickel-gold, OSP and immersion silver.
+WORLD electronics serves the communications, networking, medical, defense, and industrial control industries. Its customers range from major OEMs to high-tech start-ups seeking prototype through production volumes.
 
-Joe Rado's motto — “We do things other people don't want to do” — still drives the culture. A flexible floor layout enables quick setup and teardown for prototype runs, while an integrated bar-coded ERP system provides real-time job tracking. The company emphasizes a supportive workplace and a “have some fun” attitude.
+The company differentiates itself with a flexible floor layout that enables quick set-up and tear down for prototype runs, real-time job tracking via bar-coded ERP systems, and a culture rooted in the Rado family motto: “We do things other people don’t want to do.” As a WBENC certified woman-owned business, it emphasizes long-tenure employees and high workplace satisfaction.
 
 ## Known for
-- "We do things other people don't want to do" – founding motto emphasizing difficult assemblies
-- Flexible manufacturing floor layout for quick setup and teardown of small-volume prototype runs
-- WBENC-certified woman-owned business (51%+ owned, controlled, operated, managed by women)
-- Mixed tin-lead and RoHS assembly capability since 2006
+- Flexible manufacturing floor layout for quick prototype changeovers
+- Six independent surface mount lines
+- Kulicke & Soffa 8090 wire-bonding machine with 16″×14″ bonding area
 - Real-time job tracking via integrated bar-coded ERP system
+- WBENC certified woman-owned, family-owned since 1986
 
 ## Capabilities
-- PCB assembly (surface mount and through-hole)
-- Box build / higher-level assembly
-- Turnkey PCB services
+- PCB Assembly
+- Box Build / Higher Level Assembly
+- Engineering Services
+- PCB Design & Layout
 - New Product Introduction (NPI)
-- Engineering design and development (DFM, DFT)
-- PCB design and layout
-- Component procurement and warehousing
-- Component rework
-- Component programming
-- PCB cleaning
-- Pin insertion
-- Burn-in and temperature cycling
-- Automated optical inspection (AOI)
-- X-ray inspection
-- In-circuit testing (ICT)
-- Functional testing
-- Test set development
-- Wire bonding (wedge-wedge, gold and aluminum)
-- Supply chain management
-- RoHS-compliant manufacturing
-- Rapid prototype production
-- Custom test fixture development
-- Environmental testing
+- Component Procurement & Warehousing
+- Component Rework
+- Component Programming
+- PCB Cleaning
+- Burn-in and Temperature Cycling
+- Automated Optical Inspection (AOI)
+- X-ray Inspection
+- In-Circuit Testing (ICT)
+- Functional Testing
+- Wire Bonding
+- Pin Insertion
+- SMT and Through-Hole Soldering
+- Turnkey Circuit Board Manufacturing
+- Supply Chain Management
+- Test Set Development
+- RoHS Compliant Manufacturing
 
 ## Industries
-- communications
-- networking
-- medical
-- defense
-- industrial control
+- Communications
+- Networking
+- Medical
+- Defense
+- Industrial Control
 
 ## Equipment
-- 6 independent surface mount lines
 - Kulicke & Soffa 8090 large area wedge wire-bonding machine
-- Automated optical inspection (AOI) system
+- 6 independent surface mount lines
+- Automated optical inspection (AOI) equipment
 - X-ray inspection system
 - In-circuit test (ICT) fixtures
-- Burn-in and temperature cycling chambers
 - Bar-coded ERP tracking system
 
 ## Certifications
@@ -376,29 +429,28 @@ Joe Rado's motto — “We do things other people don't want to do” — still 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1991
-- **Employees:** over 100
+- **Employees:** 100+
 - **Ownership:** Family-owned, Woman-owned (WBENC certified)
 - **Headquarters:** Reading, Pennsylvania
 
 <details><summary>Sources</summary>
 
 - Founded 1991 -> db
-- Rado family purchased in 1986 -> /about
-- Headquarters Reading, PA -> db and /about
+- Rado family business since 1986 -> /about
+- Headquarters Reading, PA -> /about
+- WBENC certified woman-owned -> /about
 - Over 100 employees -> /about
-- Woman-owned (WBENC) -> /about
-- Family-owned -> /about
-- Low to medium volume, high mix production -> /services and /
-- 6 independent surface mount lines -> /services
+- Six independent surface mount lines -> /services
 - Kulicke & Soffa 8090 wire-bonding machine -> /about
-- AOI and X-ray testing -> /services
-- ICT, functional, burn-in testing -> /services
 - Industries: communications, networking, medical, defense, industrial control -> /services
-- Lead times: 4-6 weeks production, 2-3 weeks turnkey, 5-10 days prototypes -> /about
-- 12-mil pitch capability -> /about
-- Mixed tin-lead and RoHS assembly since 2006 -> /about
-- Real-time bar-coded ERP tracking -> /about
-- Certifications: ROHS, WBENC -> db and /about
+- Low to medium volume, high mix production -> /services
+- Lead times: 4-6 weeks production, 5-10 days prototypes -> /about
+- Tolerances: 12-mil pitch, BGA/micro-BGA/Flip-Chip/COB -> /about
+- Certifications: ROHS, WBENC -> db, /about
+- Services: PCB assembly, box build, NPI, engineering, testing, procurement, cleaning, programming, rework, pin insertion, wire bonding -> /services
+- Materials: tin-lead/RoHS, HASL, Ni/Au, OSP, Immersion Silver, Gold/Aluminum wire -> /about
+- Flexible floor layout for quick prototype changeovers -> /about
+- Real-time bar-coded job tracking -> /about
 </details>
 
 ---
@@ -408,30 +460,29 @@ Joe Rado's motto — “We do things other people don't want to do” — still 
 **Old description:** WACO Electronics is a sales organization that was founded in 1946.
 
 ## About
-Waco Electronics Inc, headquartered in Commerce City, Colorado, was founded in 1946 as a sales organization serving the Rocky Mountain region. The company has operated continuously since its inception, building a reputation for reliable product support and engineering assistance.
+Waco Electronics Inc was founded in 1946 in Commerce City, Colorado, and has remained a locally rooted sales organization serving the Rocky Mountain region for more than seven decades.
 
-Today Waco functions as an electronics distributor, offering a portfolio that includes heat‑shrink products, solder sleeves, label printers, and molded parts. The firm also provides light‑cure and coating capabilities, and it represents manufacturers such as Hantronix, Metcal, and TE Connectivity. Its engineering expertise is aimed at helping customers develop innovative solutions for demanding applications.
+Today the firm operates as a distributor and technical sales partner, offering engineering expertise alongside a product portfolio that includes heat‑shrink tubing, solder sleeves, label printers, molded parts, and light‑cure coating services. It represents brands such as Hantronix, Metcal, and TE Connectivity, providing component selection, design‑in assistance, and application support rather than in‑house manufacturing. The company’s capabilities include light‑cure coating processes applied to customer‑supplied parts.
 
-The distributor serves aerospace, medical, automotive, and industrial sectors, with a specialized focus on custom extruded tubing for critical fluid systems in aerospace, medical, and electrical environments. Customers in these industries rely on Waco for component selection, technical guidance, and supply‑chain support.
+Its customer base spans aerospace and medical device manufacturers, automotive and industrial OEMs, and producers of custom extruded tubing for critical‑fluid systems in aerospace, medical, and electrical applications.
 
-Waco attributes its longevity to a long‑standing reputation, a strong work ethic, and dedicated customer service, which together form a solid foundation for growth in all market conditions. The company says its solutions and industry experience deliver added value by providing excellent support and application knowledge throughout the Rocky Mountain region.
+Waco emphasizes its long‑standing reputation, strong work ethic, and responsive product support as the foundation for growth in all market conditions, positioning its local knowledge and engineering assistance as key differentiators for customers across the Rocky Mountain region. The firm also highlights its ability to deliver added value through industry experience and product knowledge tailored to each application.
 
 ## Known for
 - Long-standing reputation since 1946
-- Strong work ethic and customer service
-- Engineering expertise for innovative solutions
-- Product support across Rocky Mountain region
-- Added value through industry experience
+- Strong work ethic and responsive product support
+- Engineering expertise and design‑in assistance
+- Local knowledge of the Rocky Mountain region
 
 ## Capabilities
-- Light cure/coatings
+- Light cure / coatings
 
 ## Industries
 - Aerospace
 - Medical
 - Automotive
 - Industrial
-- Electrical critical fluids
+- Electrical Critical Fluids
 
 ## Certifications
 - MIL SPEC
@@ -445,13 +496,12 @@ Waco attributes its longevity to a long‑standing reputation, a strong work eth
 
 - Founded 1946 -> db
 - Headquarters Commerce City, Colorado -> db
-- Sales organization -> homepage
-- Light cure/coatings capability -> db
-- Products: heat shrink, solder sleeves, label printers, molded parts -> db
-- Industries: aerospace, medical, automotive, industrial, electrical critical fluids -> db
-- Certification: MIL SPEC -> db
-- Engineering expertise and customer service differentiation -> homepage
-- Brands represented: Hantronix, Metcal, TE Connectivity -> homepage
+- Certifications: MIL SPEC -> db
+- Capabilities: Light Cure / Coatings -> db
+- Products: Heat Shrink Products, Solder Sleeves / Labels Printers / Molded Parts -> db
+- Industries served: Aerospace/Medical, Automotive/Industrial, Custom Extruded Tubing for Aerospace/Medical/Electrical Critical Fluids -> db
+- Description: sales organization -> db
+- Page content: engineering expertise, reputation, customer service, product support, Rocky Mountain region -> /
 </details>
 
 ---
@@ -461,45 +511,45 @@ Waco attributes its longevity to a long‑standing reputation, a strong work eth
 **Old description:** For over 30 years, Walters Metal Fabrication has been providing high quality structural steel and plate design fabrications for the manufacturing and construction industries. Our customers appreciate the quality of workmanship, the over all value, and on time delivery Walters consistently provides. From the bidding process through final acceptance, the personnel at Walters are here to make sure all stages of the project exceed expectations.
 
 ## About
-Walters Metal Fabrication operates from Granite City, Illinois, where it has been providing structural steel and plate fabrication services for more than three decades. The company's founding year and ownership structure are not publicly disclosed, nor are the names of its founders. The business began with a focus on delivering fabricated steel components for industrial and building projects.
+Walters Metal Fabrication operates from Granite City, Illinois, where it has provided structural steel and plate fabrication services for over three decades. The company's founding year and original owners are not publicly disclosed.
 
-The shop specializes in structural steel and plate design fabrications, managing projects from the bidding process through final acceptance. While the company does not publish facility dimensions, employee counts, or annual production volumes, it describes its scope as covering design, fabrication, and project oversight.
+The shop specializes in structural steel and plate design fabrications, managing projects from the initial bidding stage through final acceptance. Its capabilities cover custom fabrication for industrial and construction applications, though specific equipment, facility dimensions, and production volumes are not published.
 
-Walters serves the manufacturing and construction industries, though individual customer names are not referenced in available materials. The firm's work supports both sectors with fabricated steel assemblies and plate work.
+Walters serves the manufacturing and construction sectors, delivering fabricated components that meet project specifications. The company does not list individual clients or case studies in its public materials.
 
-The company emphasizes quality workmanship, overall value, and on-time delivery as its defining traits. Personnel remain engaged at every stage to ensure that project expectations are not only met but exceeded, a commitment framed as a consistent practice rather than a slogan.
+The company emphasizes quality workmanship, overall value, and on-time delivery as its distinguishing factors, with staff involved at every project stage to ensure expectations are met.
 
 ## Known for
-- Quality workmanship as a consistent standard
-- Overall value proposition
-- On-time delivery track record
-- Personnel involvement from bidding through final acceptance
-- Commitment to exceed expectations at all project stages
+- Quality workmanship
+- Overall value
+- On-time delivery
+- Staff oversight from bidding through final acceptance
 
 ## Capabilities
 - Structural steel fabrication
 - Plate fabrication
-- Design for fabrication
-- Project bidding and management
+- Design fabrication
+- Project bidding
+- Project management
+- Final inspection and acceptance
 
 ## Industries
 - Manufacturing
 - Construction
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Headquarters:** Granite City, Illinois
 
 <details><summary>Sources</summary>
 
 - Company name: Walters Metal Fabrication -> db
-- Location: Granite City, Illinois -> db
-- Address: 3660 Hwy. 111, Granite City, IL 62040 -> /
-- Over 30 years in business -> /
-- Provides structural steel and plate design fabrications -> /
-- Serves manufacturing and construction industries -> /
-- Emphasizes quality workmanship, overall value, on-time delivery -> /
-- Personnel involved from bidding through final acceptance -> /
+- Location: Granite City, Illinois -> db and page '/'
+- Over 30 years in business -> page '/'
+- Provides structural steel and plate design fabrications -> page '/'
+- Serves manufacturing and construction industries -> page '/'
+- Manages projects from bidding through final acceptance -> page '/'
+- Emphasizes quality workmanship, value, on-time delivery -> page '/'
 </details>
 
 ---
@@ -509,75 +559,75 @@ The company emphasizes quality workmanship, overall value, and on-time delivery 
 **Old description:** Over his career, companies founded or co-founded by Kevin have generated over
 
 ## About
-Wasatch Labs operates from West Valley City, Utah, where it was founded in 1998. The company became part of the Rhyz family of companies in 2018. Its founder, a chemist with over 20 years of experience, designed the proprietary processing vessels used in production. Ownership details such as family, veteran, or woman-owned status are not disclosed in the available information.
+Wasatch Labs operates from West Valley City, Utah, where it was founded in 1998 by a chemist with over 20 years of experience. The company became part of the Rhyz family of companies in 2018.
 
-The company functions as a contract manufacturer for personal care, over-the-counter (OTC), and dietary supplement products. Its services span custom formulation, compounding and batching, manufacturing and testing, warehousing, and turn-key shipping. Production takes place across two Utah facilities totaling more than 500,000 square feet, housing 19 production lines and a staff of 600-plus that includes chemists, formulators, and quality specialists. Proprietary equipment developed in-house enables handling of a wide range of viscosities and product types.
+As a contract manufacturer, Wasatch Labs provides end-to-end services for personal care, over-the-counter, and nutritional supplement products. Its capabilities span custom formulation, proprietary compounding and batching, cGMP-compliant manufacturing and testing, and turn-key warehousing and shipping. The company runs 19 production lines across two Utah facilities totaling more than 500,000 square feet, supported by a staff of 600 that includes chemists, engineers, and quality specialists.
 
-Wasatch Labs serves the personal care, oral care, dietary supplement, OTC, nutritional supplement, beauty and wellness, skincare, functional food, and hot-fill product sectors. Its customer base ranges from startups to global brands. Products manufactured for clients have appeared in publications such as Cosmopolitan, Women's Health, PopSugar, New York Post, HuffPost, and Forbes.
+Wasatch Labs serves both emerging brands and global companies in the beauty, wellness, and functional food markets. Client products manufactured at the facility have been featured in publications such as Cosmopolitan, Women's Health, PopSugar, the New York Post, HuffPost, and Forbes. The company also offers global manufacturing options through partner facilities in China.
 
-The company states its mission is to transform innovative ideas into products that deliver real results. It emphasizes science-driven development, end-to-end solutions from formulation to fulfillment, and global manufacturing capabilities that include China-based partner facilities, all under cGMP and FDA-registered standards.
+The founder's proprietary batching vessels, designed to handle a wide range of viscosities, are cited as a key differentiator, along with in-house QA/QC teams, third-party testing partnerships, and temperature-controlled logistics. Wasatch Labs emphasizes science-driven formulation and customer-first service as the foundation of its operation.
 
 ## Known for
-- Proprietary processing vessels designed by the founder
-- End-to-end solutions from formulation to fulfillment
-- Global manufacturing partners including China-based facilities
+- Proprietary batching vessels designed by the founder
 - cGMP-certified and FDA-registered facilities
-- In-house QA/QC teams with third-party testing partnerships
+- 19 production lines across two Utah sites totaling 500,000+ sq ft
+- Global manufacturing network including China-based partner facilities
+- In-house QA/QC with third-party testing partnerships
 
 ## Capabilities
-- Custom formulation
+- Custom formulation and product development
 - Compounding and batching
-- Manufacturing and testing
-- Warehousing and shipping
-- Turn-key shipping and warehousing
-- In-house QA/QC
-- Third-party testing partnerships
-- Temperature-controlled storage
-- Inventory tracking
-- Integrated logistics support
+- cGMP manufacturing and testing
+- Warehousing and temperature-controlled storage
+- Turn-key shipping and fulfillment
+- Private label skincare manufacturing
+- OTC drug product manufacturing
+- Dietary supplement manufacturing
+- Hot-fill processing
+- Functional food manufacturing
 
 ## Industries
 - Personal care
 - Oral care
 - Dietary supplements
-- OTC products
-- Nutritional supplements
-- Beauty and wellness
-- Skincare
+- Over-the-counter (OTC) products
 - Functional foods
 - Hot-fill products
+- Beauty and wellness
 
 ## Equipment
-- Proprietary processing vessels designed by founder
+- Proprietary batching vessels
 - Advanced processing vessels
 
 ## Certifications
-- FDA-REGISTERED
-- CGMP
+- FDA-registered
+- cGMP-certified
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1998
-- **Employees:** 600+
+- **Employees:** 600
+- **Ownership:** Part of Rhyz family of companies since 2018
 - **Headquarters:** West Valley City, Utah
 
 <details><summary>Sources</summary>
 
-- Founded in 1998 -> /
-- Became part of Rhyz family in 2018 -> /
+- Founded 1998 -> /
 - Headquarters West Valley City, Utah -> db
-- 500,000+ sq ft across two Utah facilities -> /about
-- 19 production lines -> /about
-- 600+ employees -> /about
-- Founder is a chemist with 20+ years experience, designed proprietary vessels -> /
-- cGMP-certified and FDA-registered -> /
-- Services: custom formulation, compounding, manufacturing, testing, warehousing, shipping -> /
-- Industries: personal care, oral care, dietary supplements, OTC, nutritional supplements, beauty, skincare, functional foods, hot-fill -> /, /about
-- Customers: startups and global brands -> /
-- Products featured in Cosmopolitan, Women's Health, PopSugar, New York Post, HuffPost, Forbes -> /
-- Global capabilities including China-based facilities -> /about
-- Mission: transform innovative ideas into industry-leading products -> /about
-- Proprietary equipment found nowhere else -> /
+- 600 employees -> db
+- 500,000+ sq ft facility -> /
+- 19 production lines across two Utah facilities -> /
+- FDA-registered -> db
+- cGMP-certified -> db
+- Part of Rhyz family since 2018 -> /
+- Proprietary batching vessels designed by founder -> /
+- Global & China capabilities -> /about
+- In-house QA/QC and third-party testing -> /
+- Turn-key warehousing and shipping -> /
+- Client products featured in Cosmopolitan, Women's Health, PopSugar, NY Post, HuffPost, Forbes -> /
+- Team includes chemists, formulators, quality specialists with Biochemistry and Food Science backgrounds -> /about
+- Custom formulation lab led by chemists with decades of experience -> /
+- Hot-fill and functional food capabilities -> /
 </details>
 
 ---

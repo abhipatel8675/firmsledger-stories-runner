@@ -3,33 +3,39 @@
 **Old description:** Chef Michael Deihl founded The Michael Deihl Group, LLC after realizing the tremendous need for high quality culinary professionalism in today’s Food & Beverage arena.  His vast culinary experience includes managing kitchens at some of the finer country clubs, hotels, restaurants and catering facilities along the eastern seaboard and developing products for international distribution and consumption. Michael has committed himself as a Professional Executive Chef to a lifetime of flavor profiling, menu and recipe development, staff training and food styling consistently raising customer satisfaction.
 
 ## About
-Blue Frog Foods operates as a contract food manufacturer in Austell, Georgia. The business was established by Chef Michael Deihl, who brought extensive culinary experience from managing kitchens at country clubs, hotels, and restaurants along the eastern seaboard. While the exact founding year is not publicly disclosed, the company emerged from Deihl’s recognition of a need for high‑quality culinary professionalism in the food and beverage sector.
+Blue Frog Foods operates as a contract food manufacturer in Austell, Georgia. The business traces its roots to Chef Michael Deihl, who founded The Michael Deihl Group, LLC after identifying a need for high-quality culinary professionalism in the food and beverage sector. His background includes managing kitchens at country clubs, hotels, and restaurants along the eastern seaboard, as well as developing products for international distribution.
 
-The facility provides co‑packing, research and development, private label manufacturing, and consulting services. Its team of professional chefs develops recipes and scales artisan‑style, handcrafted products for commercial production, emphasizing locally sourced ingredients and ethnic, regional cooking styles. No specific facility size, headcount, or annual volume figures are published.
+The company provides co-packing, research and development, private label manufacturing, and consulting services. Its team of qualified chefs focuses on flavor profiling, menu and recipe development, staff training, and food styling. Production emphasizes artisan, handcrafted methods scaled for commercial volumes, using locally sourced ingredients to create distinctive, healthy, and affordable food products.
 
-The company serves food and beverage brands, private label clients, and culinary professionals seeking to commercialize products. Its co‑packing and R&D capabilities support clients from concept through to shelf‑ready goods, though specific customer names are not disclosed.
+Blue Frog Foods serves food brands, chefs, and businesses seeking to commercialize products. Its co-packing and private label services support clients from concept through production, while consulting covers supply considerations such as case corrugate, packaging, labels, and nutritional panels. The company positions itself as a partner for busy culinary professionals and emerging food brands.
 
-Blue Frog Foods differentiates itself by fusing the values of homemade dishes with scalable manufacturing, leveraging a chef‑driven approach to flavor profiling, menu development, and food styling. The stated mission is to create affordable, distinctive, healthy, and delicious products that retain an artisan aura at volume.
+The founder’s original vision was to fuse the values of homemade dishes with locally sourced ingredients and diverse cooking styles. The company says its differentiator lies in an artisan aura inspired by ethnic, local, and regional cuisines, delivered by chefs passionate about quality food and customer satisfaction.
 
 ## Known for
-- Artisan and handcrafted approach scaled for commercial production
-- Team of professional chefs with culinary expertise
-- Focus on locally sourced ingredients
-- Integrated co-packing, R&D, private label, and consulting services
+- Artisan, handcrafted methods scaled for commercial production
+- Locally sourced ingredients fused with homemade dish values
+- Team of highly qualified chefs with culinary expertise
+- Comprehensive services from R&D through co-packing and consulting
+- Focus on affordable, healthy, and distinctive food products
 
 ## Capabilities
 - Co-packing
 - Research and development
 - Private label manufacturing
 - Consulting
-- Recipe development
 - Flavor profiling
 - Menu development
+- Recipe development
+- Staff training
 - Food styling
+- Supply chain coordination
 
 ## Industries
-- Food and beverage manufacturing
-- Food service
+- Food and beverage
+- Food manufacturing
+- Co-packing
+- Private label food
+- Culinary services
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -37,16 +43,13 @@ Blue Frog Foods differentiates itself by fusing the values of homemade dishes wi
 
 <details><summary>Sources</summary>
 
-- Located in Austell, Georgia -> page '/'
-- Contract food manufacturer -> page '/'
-- Services: co-packing, research and development, private label manufacturing, consulting -> page '/'
-- Founded by Chef Michael Deihl -> db
-- Mission: create high quality affordable food products fusing homemade values with locally-sourced ingredients -> page '/'
-- Team of professional chefs with passion for quality food -> page '/'
-- Artisan and handcrafted approach scaled -> page '/'
-- Serves food and beverage brands and private label clients -> page '/'
-- No facility size, headcount, or volume disclosed -> page '/'
-- Chef-driven flavor profiling, menu development, food styling -> db
+- Location: Austell, Georgia -> /
+- Services: co-packing, R&D, private label, consulting -> /
+- Founder: Chef Michael Deihl founded The Michael Deihl Group, LLC -> db
+- Mission: create high quality affordable food products fusing homemade values with locally-sourced ingredients -> /
+- Team: highly qualified chefs, artisan handcrafted to scale -> /
+- Target customers: busy chefs, food brands -> /
+- Supply considerations: case corrugate, packaging, labels, nutritional panels -> db
 </details>
 
 ---
@@ -56,65 +59,56 @@ Blue Frog Foods differentiates itself by fusing the values of homemade dishes wi
 **Old description:** With over 150 Years of combined expertise in estimating, project management and process design, BGMW offers solutions in many facets of sheet metal fabrication, structural components, institutional architectural products, as well as installation services, very often performed on off-hours shifts to accommodate our dedicated customer base. We employ only the finest available craftsmen in these endeavors. We offer these services on a 24/7 basis, without discretion. Diversity is our strong suit and no project is too large or too small to warrant our full team commitment. Our experienced team is comprised of former GCH International, Harpring Inc, & Griffin & Co employees that sought to streamline our business model by putting our customers’ needs first with a whatever it takes attitude, and uncompromised commitment to quality by the entire team.
 
 ## About
-Bluegrass Metal Works, Inc. operates from Louisville, Kentucky. The company was formed by former employees of GCH International, Harpring Inc., and Griffin & Co. who sought to streamline their business model around customer needs and a whatever-it-takes attitude.
+Bluegrass Metal Works, Inc. operates from Louisville, Kentucky. The company was established by former employees of GCH International, Harpring Inc., and Griffin & Co., who aimed to streamline a business model centered on customer needs and a whatever-it-takes attitude.
 
-The shop provides sheet metal fabrication, structural steel fabrication, custom architectural metalwork, and industrial fabrication. Capabilities include CNC punching with dimple and louvered features, welding, on-site polishing and finishing, and the production of storage tanks, vessels, platforms, stairs, and food-grade conveyors. The facility also handles HVAC duct design and installation, dust collection systems, and material handling equipment such as bucket elevators and pneumatic conveyors. Installation services are offered around the clock, often on off-hours shifts.
+The shop provides sheet metal fabrication, structural steel fabrication, and custom architectural metalwork. Capabilities include CNC punching with dimple and louvered features, welding, polishing, and the fabrication of storage tanks, vessels, structural platforms, stairs, and food-grade conveyors. The facility also handles HVAC ductwork, dust and fume removal systems, and material handling equipment such as bucket elevators and pneumatic conveyors. Installation services are offered around the clock, often on off-hours shifts.
 
-Customers span food processing, food service, pharmaceutical, industrial manufacturing, and institutional sectors. Examples include utility work centers for restaurants, custom kitchen exhaust hoods and sinks, pharmaceutical equipment, and structural catwalks for industrial plants. The company also serves architectural projects requiring polished stainless steel handrails and custom cabinetry.
+Customers span industrial manufacturing, food processing, pharmaceutical production, restaurant and food service, and institutional construction. Projects have included stainless steel ductwork for HVAC systems, custom kitchen exhaust hoods and sinks, pharmaceutical equipment, and structural catwalks and platforms for industrial facilities.
 
-Bluegrass Metal Works emphasizes 24/7 availability without discretion, a team with deep combined estimating and project management experience, and a commitment to quality that drives its whatever-it-takes approach. Diversity of capabilities and a willingness to handle projects of any size are cited as key differentiators.
+The company emphasizes 24/7 availability, a no-project-too-large-or-too-small philosophy, and a team with over 150 years of combined experience in estimating, project management, and process design. Its founders sought to differentiate through a customer-first approach and an uncompromised commitment to quality.
 
 ## Known for
-- 24/7 installation and emergency services, including off-hours shifts
-- Team composed of veterans from GCH International, Harpring Inc., and Griffin & Co.
-- Whatever-it-takes attitude with uncompromised quality commitment
-- Broad capability diversity covering industrial, architectural, and food-grade fabrication
-- Single-source responsibility from design drafting through field installation
+- 24/7 service availability including off-hours shifts
+- No project too large or too small
+- Team with combined 150+ years of experience from GCH International, Harpring Inc., and Griffin & Co.
+- Customer-first approach with whatever-it-takes attitude
+- Uncompromised commitment to quality
 
 ## Capabilities
 - Sheet metal fabrication
 - Structural steel fabrication
-- Custom architectural metalwork
-- Industrial fabrication
-- CNC punching (dimple & louvered parts)
-- Welding and assembly
+- Industrial fabrication (storage tanks, vessels)
+- Food processing equipment fabrication and installation
+- Custom architectural fabrication (stainless steel sinks, exhaust hoods, cabinetry)
+- HVAC design and installation
+- Dust and fume removal systems
+- Material handling equipment (conveyors, bucket elevators, pneumatic systems)
+- CNC punching (including dimple and louvered parts)
+- Welding and polishing
 - On-site custom polishing and finishing
-- Storage tank and vessel fabrication
-- Food-grade conveyor and chute fabrication
-- HVAC duct design and installation
-- Dust collection system design and installation
-- Material handling equipment (bucket elevators, pneumatic conveyors)
-- Field installation services
+- Field installation
 - 24-hour emergency services
-- Design drafting (2D & 3D)
-- Engineering services
+- Engineering services (design drafting 2D & 3D)
 - Industrial maintenance
-- Machine guard fabrication
-- Pharmaceutical equipment fabrication
-- Custom kitchen exhaust hoods and sinks
 - Barrel making (truss hoops, bilge hoops)
-- Boiler breeching fabrication
+- Boiler breechings
+- Chutes
+- Custom ironwork
+- Dust collection systems
 - Fume elimination wet scrubbers
-- Mist, smoke, and vapor elimination hoods
-- Polished stainless steel handrail fabrication
-- Structural catwalks, platforms, and stairs
-- Air make-up systems
-- Curtain walls and enclosures for containment
-- Filtered and conditioned air houses
+- Hoppers
+- Mist/smoke/vapor elimination hoods
+- Pneumatic conveying equipment
 
 ## Industries
-- Food processing
-- Food service
-- Pharmaceutical
 - Industrial manufacturing
-- Architectural
-- Institutional
-- HVAC
+- Food processing
+- Architectural metalwork
+- HVAC and ventilation
 - Material handling
-- Restaurant
-
-## Equipment
-- CNC punch (dimple & louvered)
+- Pharmaceutical manufacturing
+- Restaurant and food service
+- Institutional construction
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -122,15 +116,18 @@ Bluegrass Metal Works emphasizes 24/7 availability without discretion, a team wi
 
 <details><summary>Sources</summary>
 
-- Headquarters in Louisville, KY -> db
-- Team formed by former GCH International, Harpring Inc., Griffin & Co employees -> /
-- Services: sheet metal fabrication, structural components, architectural products, installation -> /
-- 24/7 installation services and off-hours shifts -> /
-- Capabilities include CNC punching, welding, on-site polishing, storage tanks, vessels, structural steel, food-grade conveyors -> /, /services
-- Industries served: food processing, food service, pharmaceutical, industrial, architectural -> /services
-- Material: stainless steel (duct, PSS hoods, handrails) -> /services
-- Equipment: CNC punch with dimple & louvered parts -> products
-- Address: 4051 McCollum Ct., Louisville, KY 40218 -> /
+- Location: Louisville, KY -> db (hq_city, hq_state_label) and homepage address
+- Team background: former employees of GCH International, Harpring Inc., Griffin & Co. -> db description
+- Services: sheet metal fabrication, structural components, architectural products, installation -> db description and homepage
+- 24/7 service availability -> db description
+- Capabilities: CNC punching, welding, polishing, storage tanks, vessels, structural platforms, stairs, food-grade conveyors, HVAC ductwork, dust/fume removal, material handling -> db capabilities and services page
+- Industries served: industrial, food processing, architectural, HVAC, material handling, pharmaceutical, restaurant/food service, institutional -> homepage and services page
+- Materials: stainless steel, structural steel -> homepage and services page
+- No founding year stated -> db
+- No employee count stated -> db
+- No certifications stated -> db
+- No equipment model names stated -> db
+- No volume, lead time, tolerances stated -> db
 </details>
 
 ---
@@ -140,24 +137,24 @@ Bluegrass Metal Works emphasizes 24/7 availability without discretion, a team wi
 **Old description:** As a family owned and operated business, we take pride in being a leading provider of bluegrass packaging in Louisville, KY. Our commitment to quality extends to our contract packaging services, where we work closely with clients as a trusted copacker in the Louisville packaging industry.
 
 ## About
-Bluegrass Packaging Industries operates from Louisville, Kentucky, as a family-owned and operated business. The company does not disclose its founding year or the names of its founders publicly. It began as a provider of packaging solutions in the Louisville area, positioning itself as a local copacker for businesses needing contract packaging services.
+Bluegrass Packaging Industries operates from Louisville, Kentucky, as a family-owned and operated business. The company was established to provide packaging solutions in the region, though its founding year and the names of its founders are not publicly disclosed. Its headquarters are located on Collins Lane in Louisville.
 
-The company specializes in contract packaging, acting as a copacker for clients who need custom packaging solutions. It describes itself as a one-stop shop for packaging projects, though specific processes, facility size, employee count, and production volumes are not disclosed. Services include custom packaging design and execution, with a focus on protecting and presenting client products.
+The firm specializes in contract packaging and copacking services, offering custom packaging solutions tailored to customer requirements. It functions as a one-stop shop for packaging projects, though specific processes, facility size, headcount, and volume metrics are not published. The company describes itself as a provider of packaging in the Louisville area.
 
-Bluegrass Packaging Industries does not list specific industries served on its website; it offers packaging services to any client requiring product protection and presentation. The company works closely with customers as a copacker in the Louisville packaging industry, but no concrete industry verticals or named customers are provided.
+The company serves clients seeking packaging support across various industries, but the input does not specify particular sectors or named customers. Its services are marketed broadly to businesses needing contract packaging.
 
-The company states its mission is to provide top-notch packaging solutions tailored to customer needs, striving for excellence in quality and customer service through a quality guarantee. It emphasizes its family-owned structure as a foundation for close client relationships and reliable service.
+The business emphasizes its family-owned structure and commitment to quality as distinguishing factors, positioning itself as a copacker in the Louisville packaging market. It highlights a quality guarantee and close collaboration with clients as part of its service approach.
 
 ## Known for
 - Family-owned and operated
-- Contract packaging (copacker) services
+- Contract packaging and copacking services
 - Custom packaging solutions
 - Quality guarantee on all projects
 
 ## Capabilities
 - Contract packaging
-- Custom packaging solutions
 - Copacking
+- Custom packaging solutions
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -166,13 +163,10 @@ The company states its mission is to provide top-notch packaging solutions tailo
 
 <details><summary>Sources</summary>
 
-- Family-owned and operated -> /
-- Headquarters at 3651 Collins Lane, Louisville, KY -> /
-- Provides contract packaging services as a copacker -> /
+- Family-owned and operated business in Louisville, KY -> /
+- Provides contract packaging and copacking services -> /
 - Offers custom packaging solutions -> /
-- Mission to provide top-notch packaging solutions tailored to customer needs -> /
-- Strives for excellence in quality and customer service with quality guarantee -> /
-- Website: http://www.bluegrasspackaging.com/ -> db
+- Headquarters at 3651 Collins Lane, Louisville, KY -> /
 </details>
 
 ---
@@ -182,37 +176,43 @@ The company states its mission is to provide top-notch packaging solutions tailo
 **Old description:** This company was created with the passion to serve others with quality and superior products. Our mission is to partner with small and future business owners to make their dream come true, and to be part of their success. We also aim to help fully established companies with our competitive and affordable prices. Superior Quality is what we do. Give us a call, we are ready to help.
 
 ## About
-Bluegrass Superior Foods, LLC operates from Louisville, Kentucky. The company was founded with a mission to serve others through quality food products, though the exact founding year and ownership structure are not publicly disclosed.
+Bluegrass Superior Foods, LLC operates from Louisville, Kentucky, where it was founded with a mission to serve small and emerging food businesses as well as established companies. The company does not disclose its founding year or ownership structure, but its stated purpose is to provide quality contract packing and private label services with competitive pricing.
 
-The company functions as a national full-service contract and private label packer for the food industry. Its services span product development, packaging, and labeling compliance, with capabilities to produce a wide range of wet and dry items including spices, rubs, breading, hot sauces, barbecue sauces, salad dressings, syrups, juice drinks, marinades, jams, jellies, and pie fillings. The firm emphasizes flexibility, accepting projects of any size without minimum order requirements.
+The firm functions as a national full-service contract and private label packer, handling both wet and dry products. Its capabilities span product development, recipe formulation, packaging, labeling, and regulatory compliance. The product portfolio includes spices, rubs, breading, hot sauces, barbecue sauces, salad dressings, syrups, juice drinks, marinades, jams, jellies, and pie fillings. Bluegrass Superior Foods manufactures acidified and shelf-stable foods under FDA compliance and holds organic certification through the US National Organic Program.
 
-Bluegrass Superior Foods serves a broad spectrum of food-industry clients, from startup entrepreneurs developing their first product to established brands seeking co-packing support. The company is a member of the Kentucky Proud program and produces goods for other Kentucky Proud members, highlighting its regional ties.
+The company serves the food industry broadly, targeting startups, small brands, and established manufacturers. It emphasizes willingness to accept orders of any size, positioning itself as an alternative to co-packers with high minimum requirements. Bluegrass Superior Foods also produces for members of the Kentucky Proud program, a state marketing initiative for agricultural products.
 
-The company states its purpose is to maintain a safe, injury-free workplace while manufacturing food that meets the highest safety and quality standards. It aims to minimize environmental impact, comply with all relevant regulations, and offer competitive pricing. A stated differentiator is the willingness to handle orders of any quantity, distinguishing it from co-packers that impose large minimums.
+The company's stated differentiators include a commitment to a safe, injury-free workplace, environmental responsibility, and adherence to good manufacturing practices. It aims to minimize its environmental impact while ensuring products meet the highest safety and quality standards.
 
 ## Known for
-- No minimum order quantities
-- Certified Organic under US National Organic Program
-- FDA compliance for acidified and shelf-stable foods
-- Kentucky Proud member
-- Product development and regulatory compliance support
+- Accepts orders of any quantity with no minimum requirements
+- USDA Organic certified under the National Organic Program
+- FDA-compliant manufacturing of acidified and shelf-stable foods
+- Member of Kentucky Proud, producing for other Kentucky Proud brands
+- Offers full product development from concept to regulatory compliance
 
 ## Capabilities
 - Contract packing
 - Private label packing
 - Product development
-- Packaging
-- Labeling and compliance
-- Organic certification (USDA National Organic Program)
-- FDA acidified food manufacturing
-- Shelf-stable food manufacturing
 - Recipe development
-- Regulatory compliance assistance
+- Packaging (wet and dry)
+- Labeling and nutritional compliance
+- FDA compliance for acidified foods
+- FDA compliance for shelf-stable foods
+- Organic certification (US National Organic Program)
+- Kentucky Proud program participation
 
 ## Industries
-- Food industry
-- Food and beverage
-- Kentucky Proud program
+- Food manufacturing
+- Contract food packing
+- Private label food
+- Specialty food
+
+## Certifications
+- FDA compliance (acidified foods)
+- FDA compliance (shelf-stable foods)
+- Good Manufacturing Practices
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -221,18 +221,14 @@ The company states its purpose is to maintain a safe, injury-free workplace whil
 <details><summary>Sources</summary>
 
 - Location: Louisville, Kentucky -> db
-- Mission: passion to serve others with quality and superior products -> /
-- Contract and private label packer -> /services
+- National full-service contract and private label packer -> /services
 - Product development, packaging, labeling & compliance services -> /services
 - Product variety: spices, rubs, breading, hot sauces, BBQ sauces, salad dressings, syrup, juice drinks, marinades, jams, jellies, pie fillings -> /services
-- No minimum order quantities -> /services
-- Certified Organic under US National Organic Program -> /services
 - FDA compliance for acidified and shelf-stable foods -> /services
-- Kentucky Proud member -> /services
-- Mission: safe, injury-free, friendly, healthy workplace -> /
-- Minimize environmental impact -> /
-- Highest standards, quality ingredients, regulatory compliance -> /
-- Competitive and affordable prices -> /
+- Certified Organic under US National Organic Program -> /services
+- Member of Kentucky Proud -> /services
+- Willing to offer services for any quantity, no minimums -> /services
+- Mission: safe workplace, environmental responsibility, GMP adherence -> /
 </details>
 
 ---
@@ -242,31 +238,34 @@ The company states its purpose is to maintain a safe, injury-free workplace whil
 **Old description:** When every second counts, delivering quick and accurate medical results matters. Bluejay Diagnostics is focused on providing products that reduce wait time, improving patient outcomes and potentially saving lives.
 
 ## About
-Bluejay Diagnostics, Inc. was founded in 2015 in Acton, Massachusetts. The company is publicly traded on the NASDAQ under the ticker BJDX. No founders are named in public materials.
+Bluejay Diagnostics was founded in 2015 in Acton, Massachusetts. The company is publicly traded on the NASDAQ under the ticker BJDX. It began as a diagnostics and medical device venture aimed at reducing wait times for critical medical results.
 
-Bluejay is a late-stage, pre-revenue medical device company developing the Symphony™ Suite, a near-patient testing system designed to deliver sample-to-result measurements in approximately 20 minutes. Its first product candidate is an IL-6 test cartridge for sepsis triage, intended for use in hospital and long-term acute care settings. The company is currently conducting the SYMON-II pivotal clinical trial, which completed enrollment of 624 patients in early 2026, and anticipates submitting for FDA approval in 2027.
+The company’s primary focus is the Symphony™ Suite, a near-patient testing system designed to deliver sample-to-result readings in approximately 20 minutes. Its first product candidate is an IL-6 test cartridge for sepsis triage, intended for use in hospital and long-term acute care settings. The self-contained cartridge can be disposed of in regular medical waste.
 
-The Symphony Suite targets clinicians in emergency departments, intensive care units, and long-term acute care facilities who need rapid sepsis diagnosis. By moving testing out of the central laboratory and to the patient bedside, the system aims to accelerate treatment decisions for conditions such as sepsis, where early intervention is critical.
+Bluejay serves the medical device and diagnostics industries, targeting clinicians in hospitals and long-term acute care facilities. The technology is positioned for emergency departments, intensive care units, and other point-of-care environments where rapid sepsis detection can influence treatment decisions.
 
-Bluejay states its mission is to enhance patient outcomes through technologies that simplify the diagnostic process and reduce the total cost of care. The self-contained cartridge design eliminates the need for specialized waste handling, and the platform is positioned as a cost-effective alternative to traditional clinical chemistry lab workflows.
+The company states its mission is to save lives by enabling earlier treatment decisions through rapid, accurate testing. It emphasizes that the Symphony Suite is designed to improve patient outcomes while reducing the total cost of care, and it plans to seek FDA approval in 2027.
 
 ## Known for
 - Sample-to-result in approximately 20 minutes
-- Near-patient testing outside the central laboratory
+- Near-patient testing outside traditional labs
 - Self-contained cartridge disposable in regular medical waste
-- Cost-effective alternative to traditional lab workflows
+- Designed to reduce total cost of care
 - Focus on sepsis triage with IL-6 biomarker
 
 ## Capabilities
 - Near-Patient Testing
 - Testing Cartridges
 - Sepsis Triage
+- IL-6 Test for Sepsis
+- Symphony Suite
 
 ## Industries
-- Medical diagnostics
-- Critical care
-- Hospital
-- Long-term acute care (LTAC)
+- Medical Devices
+- Diagnostics
+- Healthcare
+- Hospitals
+- Long-term Acute Care
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -278,17 +277,16 @@ Bluejay states its mission is to enhance patient outcomes through technologies t
 
 - Founded in 2015 -> db
 - Headquartered in Acton, Massachusetts -> db
-- Publicly traded on NASDAQ: BJDX -> /about
-- Late-stage, pre-revenue diagnostics/medical device company -> /about
-- Developing Symphony Suite for near-patient testing -> /about, /
-- First product candidate IL-6 test for sepsis triage -> /about
-- Results in approximately 20 minutes sample-to-result -> /about, /
-- SYMON-II pivotal clinical trial with 624 patient enrollments -> /
-- Expects FDA approval in 2027 -> /about
-- Capabilities: Near-Patient Testing, Testing Cartridges, Sepsis Triage -> db
-- Industries: medical diagnostics, critical care, hospital, LTAC -> /about
-- Mission: enhance patient outcomes, simplify diagnostic process, reduce total cost of care -> /about
-- Self-contained cartridge disposable in regular medical waste -> /
+- Publicly traded on NASDAQ (BJDX) -> /about
+- Late-stage pre-revenue diagnostics/medical device company -> /about
+- Symphony Suite product candidate -> /about, /
+- IL-6 test for sepsis triage -> /about
+- Results in approximately 20 minutes -> /about
+- Near-patient testing -> capabilities, /
+- Self-contained cartridge disposable in regular medical waste -> industries_served
+- Focus on hospital and long-term acute care settings -> /about
+- Mission to save lives through innovative technologies -> /about
+- Expected FDA approval in 2027 -> /about
 </details>
 
 ---
@@ -298,33 +296,29 @@ Bluejay states its mission is to enhance patient outcomes through technologies t
 **Old description:** Since 1975, Air Master Systems (AMS) has been the leading name not only in premium-quality fume hoods but also innovative lab furniture designed to meet the evolving needs of modern laboratories. With safety as the cornerstone of their mission, every product is crafted with meticulous attention to detail, adhering to the strictest industry standards. The AMS team of highly skilled engineers, designers, fabricators, and logistics professionals work tirelessly to ensure that each AMS product exceeds expectations, providing the quality, functionality, and flexibility laboratories require. Trust AMS to deliver the unparalleled quality and safety your laboratory deserves.
 
 ## About
-Bold+ Furniture operates from Muskegon, Michigan, where it designs and manufactures commercial furniture for a range of institutional and professional settings. The company does not publicly disclose its founding year or ownership structure.
+Bold+ Furniture operates from Muskegon, Michigan, where it designs and manufactures a range of commercial furniture collections. The company's founding year and ownership structure are not publicly disclosed.
 
-The company produces casegoods, reception stations, lockers, and other furniture through standard collections such as Bold Select, Bold One, Fundamentals, Juxtapose, Ready///Able, and Retreeve. It also offers a Studio line for modified or fully custom products, private-label manufacturing for other brands, and partner-brand distribution. Core fabrication processes include CNC machining, edge and contour banding, and work with mixed materials such as metal, veneer, solid surfaces, patina steel, cork, and river logs. Facility size, headcount, and annual volume are not disclosed.
+The company produces three primary product lines: First, a ready-to-order standard collection; Studio, which offers modified or fully custom pieces; and a private-label program that manufactures specialized components for other brands. Its manufacturing capabilities include CNC machining and edge and contour banding, working with a diverse material palette that spans metal, veneer, solid surfaces, and specialty inputs such as patina steel, cork, and river logs. Facility size, headcount, and annual volume figures are not published.
 
-Bold+ Furniture serves health sciences, education, and government sectors, and its partner network extends reach into additional vertical markets. The company notes that partnerships provide access to installation services and expert metal fabricators for a seamless project workflow.
+Bold+ serves clients in health sciences, education, and government sectors, often through partnerships that extend its reach into those verticals. The company also collaborates with partner brands to broaden material access and provides installation services and metal fabrication via its partner network.
 
-Bold+ Furniture emphasizes that its facilities and manufacturing processes were engineered to remove roadblocks common in larger organizations, enabling a more nimble and collaborative approach. The company highlights its broad material palette, integration of design and manufacturing teams, and close coordination between assembly and logistics as key differentiators.
+Bold+ distinguishes itself by emphasizing a nimble manufacturing model engineered to avoid the bottlenecks of larger organizations. It highlights close collaboration between design, manufacturing, assembly, and logistics teams, and points to its broad material access and integrated partner ecosystem as key differentiators.
 
 ## Known for
-- Facilities and processes engineered for nimbleness compared to larger organizations
-- Broad material access including patina steel, cork, and river logs
+- Manufacturing processes engineered for nimbleness over large-scale bureaucracy
+- Broad material palette including metal, veneer, solid surfaces, patina steel, cork, and river logs
 - Integrated design, manufacturing, assembly, and logistics teams
-- Partner network provides installation and metal fabrication services
-- State-of-the-art equipment and innovative processes
+- Partner network providing installation services and expert metal fabrication
+- Private-label and custom manufacturing for other brands
 
 ## Capabilities
 - OEM manufacturing
 - CNC machining
-- Edge banding
-- Contour banding
-- Mixed material fabrication (metal, veneer, solid surfaces, patina steel, cork, river logs)
-- Custom product development (Studio)
-- Private label manufacturing
-- Standard product collections
-- Partner brand distribution
-- Installation services (via partners)
-- Metal fabrication (via partners)
+- Edge and contour banding
+- Custom furniture design and manufacturing
+- Private label production
+- Installation coordination
+- Metal fabrication coordination
 
 ## Industries
 - Health sciences
@@ -338,14 +332,12 @@ Bold+ Furniture emphasizes that its facilities and manufacturing processes were 
 <details><summary>Sources</summary>
 
 - Headquarters in Muskegon, Michigan -> db
-- Offers standard collections (Bold Select, Bold One, Fundamentals, Juxtapose, Ready///Able, Retreeve) and custom Studio line -> /
-- Provides private label manufacturing and partner brand distribution -> /
-- Core processes: CNC machining, edge and contour banding -> /, db
+- Offers standard (First), custom (Studio), and private label furniture lines -> /
+- CNC machining and edge/contour banding capabilities -> db
 - Works with mixed materials: metal, veneer, solid surfaces, patina steel, cork, river logs -> /
 - Serves health sciences, education, and government sectors -> /
-- Partnerships include installation services and expert metal fabricators -> /
-- Emphasizes nimble facilities, integrated design/manufacturing teams, and collaborative workflow -> /about-us
-- No founding year, ownership, employee count, certifications, or equipment specifics disclosed -> /, /about-us, db
+- Partners provide installation services and metal fabrication -> /
+- Emphasizes nimble manufacturing and cross-team collaboration -> /about-us
 </details>
 
 ---
@@ -355,62 +347,69 @@ Bold+ Furniture emphasizes that its facilities and manufacturing processes were 
 **Old description:** Bon Homme Yankton Electric Association, Inc. is a Touchstone Energy Cooperative that provides electric power to over 3,800 farm, residential, and commercial consumer-members in southeast South Dakota. Bon Homme Yankton Electric serves the town of Tabor as well as rural members in Bon Homme and Yankton Counties.
 
 ## About
-Bon Homme Yankton Electric Association, Inc. is a Touchstone Energy Cooperative headquartered in Tabor, South Dakota. The cooperative has served southeast South Dakota for more than 80 years, providing electric power to farm, residential, and commercial consumer-members in Bon Homme and Yankton Counties, including the town of Tabor.
+Bon Homme Yankton Electric Association, Inc. is a member-owned electric cooperative headquartered in Tabor, South Dakota. For more than 80 years, the cooperative has delivered electricity to rural farms, homes, and businesses across Bon Homme and Yankton counties, including the town of Tabor. It operates as a Touchstone Energy Cooperative, part of a national network of member-focused utilities.
 
-The cooperative delivers electric energy and related services to over 3,800 consumer-members across its service territory. Its offerings include energy efficiency audits, load management programs, agricultural and commercial rebates, a renewable energy certificate program, and distributed energy resource interconnection for solar installations. Additional services encompass security lighting, safety education, youth scholarships, and community development initiatives such as the REED Fund and Operation Round Up.
+The cooperative distributes electric power to approximately 3,800 consumer-members, spanning agricultural, residential, and commercial accounts. Beyond basic distribution, it runs energy efficiency programs, load management initiatives, and rebate incentives for agricultural and commercial equipment. It also manages a distributed energy resource interconnection process for member-owned solar installations, offers safety education covering farm hazards, power lines, and emergency preparedness, and maintains an electrical department for service connections and security lighting.
 
-Bon Homme Yankton Electric serves three primary member categories: agricultural operations, residential households, and commercial businesses throughout Bon Homme and Yankton Counties. The cooperative also supports local economic development through its REED Fund and provides educational programs for youth in the region.
+Its members include family farms, rural households, and local businesses in southeast South Dakota. The cooperative supports the region through a revolving economic development fund, a community grant program funded by member bill rounding, and a discount card network. Youth engagement comes via scholarships, an annual youth tour to Washington, D.C., and a scholar-of-the-week recognition program.
 
-The cooperative emphasizes its member-owned structure and community focus, citing innovation, accountability, integrity, and commitment to service as core principles. Its mission is to provide safe, reliable electric energy and other services to member-consumers.
+The cooperative states its mission is to provide safe, reliable electric energy and other services to its member-consumers, guided by principles of innovation, accountability, integrity, and commitment to service. Capital credits are returned to members when financial conditions allow, reinforcing the not-for-profit, member-owned structure.
 
 ## Known for
-- Touchstone Energy Cooperative affiliation
-- Over 80 years serving southeast South Dakota
-- Member-owned cooperative governance
+- Member-owned cooperative returning capital credits to consumers
+- Touchstone Energy Cooperative affiliation providing national resources
 - Comprehensive energy efficiency, rebate, and load management programs
-- Distributed energy resource interconnection support
+- Distributed energy resource interconnection process for member solar
+- Community investment through REED Fund, Operation Round Up, and youth scholarships
 
 ## Capabilities
 - Electric power distribution
-- Energy efficiency audits and programs
+- Energy efficiency consulting
 - Load management
-- Agricultural and commercial rebates
+- Agricultural and commercial rebate programs
 - Renewable energy certificate (REC) program
 - Distributed energy resource interconnection
-- Solar interconnection process
+- Solar interconnection processing
+- Electrical service connections
 - Security lighting installation and maintenance
-- Safety education and training
-- Youth programs and scholarships
-- Community development funding (REED Fund, Operation Round Up)
-- Member billing and payment programs (SmartHub, PrePay, Budget Billing)
-- Capital credits allocation
-- Cooperative governance and member services
+- Farm safety education
+- Power line safety education
+- Emergency preparedness training
+- Generator safety education
+- Tree trimming safety education
+- Youth scholarship programs
+- Youth tour and excursion programs
+- Community economic development funding (REED Fund)
+- Member bill rounding for community grants (Operation Round Up)
+- Co-op Connections member discount program
+- Capital credit allocation and retirement
+- Board governance and member bylaws administration
+- Annual member meeting coordination
+- Touchstone Energy Scholar of the Week program
+- Employment and workforce development
 
 ## Industries
 - Agriculture
 - Residential
 - Commercial
-- Electric utility
-- Energy efficiency services
-- Renewable energy integration
 
 ## Company details
 - **Company Type:** Other
-- **Ownership:** Member-owned cooperative (Touchstone Energy Cooperative)
+- **Ownership:** Member-owned cooperative
 - **Headquarters:** Tabor, South Dakota
 
 <details><summary>Sources</summary>
 
+- Provides electric power to over 3,800 consumer-members -> /
 - Headquartered in Tabor, South Dakota -> /
-- Touchstone Energy Cooperative -> /
-- Serves over 3,800 farm, residential, and commercial consumer-members -> /
-- Service territory includes Bon Homme and Yankton Counties and town of Tabor -> /
-- More than 80 years of service -> /
-- Mission: provide safe, reliable electric energy and other services to member-consumers -> /
-- Offers energy efficiency, load management, rebates, REC program, distributed energy interconnection -> /
-- Provides security lighting, safety education, youth programs, community development funds -> /
-- Member-owned cooperative structure -> /
-- Core principles: innovation, accountability, integrity, commitment to service -> /
+- Serves Bon Homme and Yankton counties -> /
+- More than 80 years delivering energy -> /
+- Mission: provide safe, reliable electric energy and other services -> /
+- Offers energy efficiency, rebates, load management, distributed energy interconnection -> /
+- Operates youth programs, scholarships, community funds (REED Fund, Operation Round Up) -> /
+- Touchstone Energy Cooperative affiliation -> /
+- Member-owned cooperative structure with capital credits -> /
+- Electrical department for service connections and security lighting -> /
 </details>
 
 ---
@@ -420,33 +419,35 @@ The cooperative emphasizes its member-owned structure and community focus, citin
 **Old description:** Bourgault combines cutting-edge engineering with advanced technology to create next-generation agricultural machinery. Our precision seeding, air seeding, and tillage systems are designed to help farmers maximize efficiency, optimize yields, and embrace the future of smart farming.
 
 ## About
-Bourgault Industries operates from Minot, North Dakota, where it engineers and builds agricultural machinery for precision seeding, air seeding, and tillage. The company’s history page traces its development as a manufacturer of modern farm equipment, though a founding year and ownership structure are not publicly disclosed.
+Bourgault Industries is based in Minot, North Dakota, where it manufactures modern agricultural machinery and equipment. The company does not publicly disclose its founding year, ownership structure, or founder names.
 
-The product range spans 9000 I Series and 8000 Series air carts, ParaLink hoe drills and coulter drills, TransFold precision hoe drills, CD and HD frame-mounted seeders, 5810 air hoe drills, 8910 cultivators, the SPS365 soil preparation system, XR Series harrows, 4100 wing-type packers, a liquid fertilizer cart, and the Model 1200 grain cart. These machines are designed for high-capacity field work and are supported by a dealer network that provides parts, service, and warranty administration.
+The company produces a broad range of precision seeding, air seeding, and tillage systems. Its product portfolio includes air carts, hoe drills, coulter drills, frame-mounted seeders, mid-row applicators, air planters, air hoe drills, cultivators, harrows, wing-type packers, liquid fertilizer carts, and grain carts. Specific model lines such as the 9000 I Series Air Carts, 3820 ParaLink™ Coulter Drill, and SPS365 Soil Prep System™ illustrate the depth of its offering. No facility size, headcount, or annual volume figures are provided.
 
-Customers include grain and oilseed producers, custom applicators, and large-scale farming operations across the United States and Canada. The equipment is used for seeding cereals, canola, pulses, and other crops, as well as for fertilizer placement and residue management.
+Bourgault serves farmers and agricultural operations seeking to maximize efficiency and optimize yields. Its equipment is designed for row-crop and broad-acre farming, with concrete examples including the 5810 Air Hoe Drill for seeding and the Model 1200 Grain Cart for harvest logistics.
 
-Bourgault states that its designs combine cutting-edge engineering with advanced technology to enable smart-farming practices. A notable differentiator is the five-year frame warranty offered on its PHD series, which the company describes as and a reflection of its focus on long-term durability.
+The company emphasizes cutting-edge engineering combined with advanced technology to create next-generation machinery. It highlights an 5-year frame warranty on its PHDs™ line, a solid frame design with fewer moving parts, and the Hi-Flotation™ option for improved transport safety on narrow roads.
 
 ## Known for
-- Five-year frame warranty on PHD series
-- Cutting-edge engineering with advanced technology for smart farming
-- Broad product line covering seeding, tillage, and fertilizer application
-- Dealer network for parts, service, and warranty support
+- Industry-leading 5-year frame warranty on PHDs™
+- Cutting-edge engineering combined with advanced technology
+- Precision seeding, air seeding, and tillage systems designed for maximum efficiency
+- Solid frame design with fewer moving parts
+- Hi-Flotation™ option for improved transport safety
 
 ## Capabilities
-- Precision seeding
-- Air seeding
-- Tillage
 - Air cart manufacturing
-- Drill manufacturing
-- Seeder manufacturing
-- Cultivator manufacturing
-- Harrow manufacturing
-- Packer manufacturing
+- Precision seeding equipment manufacturing
+- Air seeding system manufacturing
+- Tillage equipment manufacturing
+- Hoe drill manufacturing
+- Coulter drill manufacturing
+- Frame mounted seeder manufacturing
+- Mid row applicator manufacturing
+- Air planter manufacturing
+- Field harrow manufacturing
+- Wing type packer manufacturing
 - Liquid fertilizer cart manufacturing
 - Grain cart manufacturing
-- Soil preparation
 
 ## Industries
 - Agriculture
@@ -455,15 +456,16 @@ Bourgault states that its designs combine cutting-edge engineering with advanced
 ## Equipment
 - 9000 I Series Air Carts
 - 8000 Series Air Carts
-- ParaLink Hoe Drills
-- ParaLink Coulter Drills
-- TransFold PHDs
+- 3330SE & 3335QDA PHDs™
+- 3820 ParaLink™ Coulter Drill
+- 3720 ParaLink™ Coulter Drill
+- 3420 TransFold™ PHDs™
 - CD Frame Mount Seeders
 - HD Frame Mount Seeders
 - 5810 Air Hoe Drills
 - 8910 Cultivators
-- SPS365 Soil Prep System
-- XR Series Harrows
+- SPS365 Soil Prep System™
+- XR™ Series Harrows
 - 4100 Wing Type Packers
 - Liquid Fertilizer Cart
 - Model 1200 Grain Cart
@@ -474,12 +476,11 @@ Bourgault states that its designs combine cutting-edge engineering with advanced
 
 <details><summary>Sources</summary>
 
-- Headquarters: Minot, North Dakota -> db
-- Manufacturer of agricultural machinery -> page /
-- Product lines: air carts, drills, seeders, tillage equipment -> page /
-- Five-year frame warranty on PHD series -> page /
-- Dealer network for parts and service -> page /
-- Website: bourgault.com -> db
+- Headquarters location from db
+- Product lines and description from homepage (/)
+- Warranty claim from homepage (/)
+- Equipment model names from homepage (/)
+- Company type from homepage (/)
 </details>
 
 ---
@@ -489,46 +490,45 @@ Bourgault states that its designs combine cutting-edge engineering with advanced
 **Old description:** At Brose, we offer diverse job opportunities across all functions. Whether you are a student looking for your first internship, just starting your career, or a seasoned professional, we need your skillset to grow our business.
 
 ## About
-Brose Tuscaloosa operates in Vance, Alabama, as a production site of Brose Fahrzeugteile SE & Co. KG, the German automotive supplier headquartered in Coburg. The facility is part of Brose's Americas network, which spans multiple U.S., Mexican, and Canadian locations.
+Brose Tuscaloosa operates in Vance, Alabama, as part of the global Brose Group, a German family-owned automotive supplier headquartered in Coburg, Germany. The Alabama facility is one of several Brose locations across the Americas, though the exact founding year of this site is not publicly disclosed.
 
-The site focuses on mechatronic systems for vehicle interiors: door modules that integrate window regulator rails, soundboxes, and fasteners into pre‑tested, ready‑to‑fit units; seat adjustment systems for front and rear rows; and electric motors and drives, including a hollow‑shaft motor concept. Production is described as fully automated and optimized for high‑volume output, with additive manufacturing also listed as a capability.
+The facility supports the production of mechatronic systems for vehicle doors and liftgates, seat adjustment mechanisms, and electric motors and drives. Brose emphasizes scalable product integration, combining components such as window regulator rails, soundboxes, and fasteners into pre-tested, ready-to-fit modules. The company notes fully automated, standardized production processes and highlights additive manufacturing as a capability.
 
-The customer base is the automotive industry, supplying vehicle manufacturers with door, seat, and drive solutions. The company notes that its door modules can reduce door assembly time by 90 seconds and save up to 2 kg per vehicle compared with conventional designs.
+Brose serves the automotive original equipment manufacturer (OEM) market, supplying door modules, seat systems, and drive technology to major vehicle producers. The Vance location is listed among Brose's U.S. job sites alongside facilities in Michigan, Illinois, and South Carolina, indicating a manufacturing and engineering presence in the region.
 
-Brose emphasizes standardized, automated processes and market‑proven motor technology as differentiators, aiming to deliver high robustness and cost efficiency through the use of standard components and scalable integration scopes.
+The company positions its door modules as reducing assembly time by up to 90 seconds per door and achieving weight savings of up to two kilograms per vehicle through integrated, standardized designs. These claims reflect a focus on high-volume, cost-efficient production for global vehicle platforms.
 
 ## Known for
-- Fully automated, high‑volume production
-- Pre‑tested, ready‑to‑fit door module units
-- Weight savings of up to 2 kg per vehicle
-- Door assembly time reduced by 90 seconds
-- Market‑proven hollow‑shaft motor concept
+- Scalable product and integration scopes for door modules
+- Weight savings of up to 2 kg per vehicle versus conventional designs
+- Door assembly time reduced by 90 seconds through pre-tested modules
+- Fully automated, standardized production lines
 
 ## Capabilities
-- Door module assembly (window regulator rails, soundbox, fasteners)
-- Seat adjustment systems for front and rear seats
-- Electric motor and drive manufacturing
+- Automated module assembly
 - Additive manufacturing
-- Automated high‑volume production
-- Integration of interfaces (loudspeaker, crash sensor, door control unit)
+- Electric motor and drive production
+- Seat adjustment mechanism assembly
+- Door and liftgate system integration
 
 ## Industries
 - Automotive
+- Automotive OEM
 
 ## Company details
 - **Company Type:** Manufacturer
+- **Ownership:** Subsidiary of Brose Fahrzeugteile SE & Co. KG
 - **Headquarters:** Vance, Alabama
 
 <details><summary>Sources</summary>
 
-- Headquarters in Vance, Alabama -> db (hq_city, hq_state_label)
-- Part of Brose Fahrzeugteile SE & Co. KG, Coburg -> page '/' (copyright notice)
-- Products: door modules, seat adjustment systems, electric motors and drives -> page '/' (navigation menu)
-- Door module details: window regulator rails, soundbox, fasteners, weight savings, assembly time reduction -> db (products array)
-- Fully automated, high‑volume production -> db (products array)
-- Additive manufacturing listed as provider -> page '/' (footer link)
-- LinkedIn company page -> db (linkedin_url)
-- Careers website URL -> db (website)
+- Location: Vance, Alabama -> db
+- Parent company: Brose Fahrzeugteile SE & Co. KG, Coburg -> page /
+- Product lines: door/liftgate systems, seat adjustment, electric motors -> page /
+- Additive manufacturing capability -> page /
+- Jobs locations include Tuscaloosa AL -> page /
+- Door module weight savings and assembly time claims -> db products array
+- Fully automated production mentioned -> db products array
 </details>
 
 ---
@@ -538,57 +538,53 @@ Brose emphasizes standardized, automated processes and market‑proven motor tec
 **Old description:** Brush Factory designs and handcrafts custom wood furniture and case goods for commercial and residential spaces with an emphasis on simple contemporary design, and natural materials.  We build pieces ranging from custom cabinets, tables, benches and fixtures for the
 
 ## About
-Brush Factory was established in 2009 by Hayes Shanesy and Rosie Kovacs in Cincinnati, Ohio. The pair began with a multidisciplinary creative studio, blending Shanesy’s woodworking and mechanical background with Kovacs’s fashion design experience, before focusing on custom wood furniture and case goods. Early experiments included a pop-up design store and small-batch accessory collections.
+Brush Factory was established in 2009 by industrial designer Hayes Shanesy and fashion designer Rosie Kovacs in Cincinnati, Ohio. The pair began with multidisciplinary experimentation, blending woodworking and sewn goods before focusing on custom furniture. In 2011 they opened a year‑long pop‑up design store, and by 2014 the growing demand for commercial and residential pieces prompted a move to a larger workshop equipped with professional machinery.
 
-Today the company designs and handcrafts custom cabinets, tables, benches, fixtures, and a made-to-measure line called bff (Brush Factory Furniture), including extension dining tables. In 2014 the operation moved into a larger facility equipped with professional woodworking machinery, allowing expanded production for both commercial and residential projects.
+The studio designs and handcrafts custom wood furniture and case goods, including cabinets, tables, benches, and fixtures for commercial, retail, and residential clients. A made‑to‑measure line called bff (Brush Factory Furniture) offers standardized yet adaptable pieces such as credenzas and extension dining tables. Production takes place in their Cincinnati workshop, where they emphasize natural materials and contemporary aesthetics.
 
-Brush Factory serves commercial clients such as restaurants, offices, and retail boutiques, as well as residential customers. The studio also collaborates with local artists, designers, craftsmen, and contractors, sourcing materials from regional suppliers to support the local economy.
+Brush Factory serves restaurants, offices, boutiques, and private residences across the commercial, retail, and home‑office sectors. Their portfolio includes custom fixtures for retail environments, seating for hospitality venues, and built‑in cabinetry for professional workspaces. The company collaborates with local artists, designers, and contractors to deliver site‑specific solutions.
 
-Founded on a commitment to simple contemporary design and natural materials, Brush Factory emphasizes honest craftsmanship and community-based production, aiming to create furniture that inspires connection, productivity, and peace.
+Founded on the principle of honest materials and superior craftsmanship, Brush Factory differentiates itself by supporting local suppliers and maintaining a hands‑on, design‑driven approach. The founders’ backgrounds in industrial and fashion design inform a process that values simplicity, durability, and connection to the surrounding community.
 
 ## Known for
-- Custom wood furniture and case goods handcrafted in Cincinnati
-- Made-to-measure furniture line (bff) for residential and commercial spaces
-- Local supplier network and community collaborations with artists and craftsmen
-- Professional woodworking facility since 2014
+- Handcrafted custom wood furniture and case goods
+- Made‑to‑measure bff furniture line
+- Collaboration with local artists, designers, and contractors
+- Professional workshop with modern equipment
+- Focus on natural materials and contemporary design
 
 ## Capabilities
-- Custom wood furniture design
+- Custom furniture design
 - Handcrafted cabinetry
+- Table and bench fabrication
 - Case goods manufacturing
 - Made-to-measure furniture production
-- Custom table and bench fabrication
-- Fixture building
-- Custom extension dining table production
+- Commercial fixture fabrication
+- Woodworking
 
 ## Industries
-- Commercial
-- Retail
-- Home and office
-- Restaurants
-- Offices
-- Boutiques
-- Residences
-- Design boutiques
+- Commercial furniture
+- Retail fixtures
+- Residential furniture
+- Hospitality (restaurants)
+- Office furniture
+- Boutique interior design
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 2009
+- **Ownership:** Founder-owned
 - **Headquarters:** Cincinnati, Ohio
 
 <details><summary>Sources</summary>
 
 - Founded in 2009 by Hayes Shanesy and Rosie Kovacs in Cincinnati, Ohio -> /about
-- Started as multidisciplinary creative studio with pop-up design store in 2011 -> /about
-- Launched home accessories collection in 2012 -> /about
-- Moved to larger facility with professional equipment in 2014 -> /about
-- Produces custom cabinets, tables, benches, fixtures -> /
-- Offers made-to-measure line called bff (Brush Factory Furniture) -> /
-- Serves commercial industry, retail, home and office, restaurants, boutiques, residences -> / and /about
-- Collaborates with local artists, designers, craftsmen, contractors -> /about
-- Supports local suppliers -> /about
-- Emphasis on simple contemporary design and natural materials -> /
-- Headquarters in Cincinnati, Ohio -> db
+- Designs and handcrafts custom wood furniture and case goods -> /
+- Offers made-to-measure furniture line called bff -> /
+- Serves commercial industry, retail, home and office -> /
+- Clients include restaurants, offices, boutiques, and residences -> /about
+- Moved to larger workshop with professional equipment in 2014 -> /about
+- Supports local suppliers and collaborates with artists, designers, craftsmen, contractors -> /about
 </details>
 
 ---

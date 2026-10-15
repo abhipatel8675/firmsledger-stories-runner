@@ -3,19 +3,19 @@
 **Old description:** B & B Molding specializes in rotational molding, producing durable, cost-effective plastic products for a variety of industries. We are committed to quality control and customer satisfaction. As a family owned and operated business we value integrity, honesty and teamwork.
 
 ## About
-B&B Molding Inc operates from Brandon, South Dakota, as a family-owned and operated rotational molding specialist. The company does not disclose its founding year, but describes itself as having years of combined experience in precision molding.
+B&B Molding Inc is a family-owned and operated rotational molding company based in Brandon, South Dakota The business emphasizes integrity, honesty, and teamwork as core values, though its founding year and original founders are not publicly disclosed.
 
-The shop focuses on rotational molding to produce durable, cost-effective plastic parts for a range of industries. Beyond molding, it offers hassle-free drop shipping, pallet wrapping, and assembly services, handling production, packaging, and shipping so customers can avoid inventory overhead. The team also works with custom molds and ready-to-ship products, emphasizing flexibility and quick turnaround times.
+The company specializes in rotational molding to produce durable, cost-effective plastic products for a range of applications. Beyond molding, it offers hassle-free drop shipping, pallet wrapping, and assembly services, managing production, packaging, and shipping in a single workflow. The firm also provides custom mold design and ready-to-ship products, aiming for quick turnaround times and flexibility to meet specific requirements.
 
-While the company serves a variety of industries, it does not name specific sectors or customers in its public materials. Its services are positioned for businesses seeking plastic components without the burden of warehousing or logistics.
+B&B Molding serves a variety of industries with its plastic products, though specific sectors or customer names are not listed. Its services are geared toward businesses seeking a single source for molded parts, packaging, and logistics, with an emphasis on cost-effective solutions.
 
-B&B Molding states that quality is its top priority, with careful monitoring from design through production. The family-run structure is cited as a source of integrity, honesty, and teamwork, and the company highlights its commitment to customer satisfaction and cost-effective solutions.
+The company states that quality is its top priority, with careful monitoring at every stage from design to production. Its family-operated team highlights years of combined experience and a commitment to customer satisfaction as key differentiators, positioning the firm as a dependable partner for molding needs.
 
 ## Known for
-- Hassle-free drop shipping with no upfront inventory costs
-- Pallet wrapping to protect products during transit
-- Assembly services for ready-to-use components
-- Family-owned operation emphasizing integrity and teamwork
+- Hassle-free drop shipping from production to delivery
+- Pallet wrapping and assembly services included
+- Family-owned operation with years of combined experience
+- Quick turnaround times and flexible custom mold options
 - Quality monitored at every stage from design to production
 
 ## Capabilities
@@ -32,12 +32,14 @@ B&B Molding states that quality is its top priority, with careful monitoring fro
 
 <details><summary>Sources</summary>
 
+- Family-owned and operated -> /
+- Specializes in rotational molding -> /
+- Offers drop shipping, pallet wrapping, assembly -> /
 - Located in Brandon, South Dakota -> db
-- Family owned and operated -> homepage
-- Specializes in rotational molding -> homepage
-- Offers drop shipping, pallet wrapping, and assembly services -> homepage
-- Emphasizes quality control and customer satisfaction -> homepage
-- Provides custom molds and ready-to-ship products -> homepage
+- Quality monitored at every stage -> /
+- Years of combined experience -> /
+- Quick turnaround times and flexibility -> /
+- Custom molds and ready-to-ship products -> /
 </details>
 
 ---
@@ -47,41 +49,39 @@ B&B Molding states that quality is its top priority, with careful monitoring fro
 **Old description:** Future-proofing a food processing operation requires more than just meeting today’s needs, it demands flexibility and scalability for tomorrow’s challenges. BAK Food Equipment specializes in tailored food production lines that are designed with expansion and adaptability in mind. By focusing on modular components and scalable system architectures, BAK enables processors to upgrade or expand their lines as market demands shift or as new products are introduced. This commitment to customization and scalable design helps ensure that investments in automation continue to deliver value well into the future.
 
 ## About
-BAK Food Equipment is headquartered in Burr Ridge, Illinois. The company was founded by John Bobak, who built on his success scaling a sausage operation to establish a business focused on helping other food processors achieve their production goals. While the exact founding year is not publicly disclosed, the company emphasizes decades of hands-on experience in the food manufacturing industry.
+BAK Food Equipment is headquartered in Burr Ridge, Illinois. The company was founded by John Bobak, who previously scaled a sausage operation, and builds on his decades of experience in food manufacturing. No founding year is publicly disclosed.
 
-The company designs and manufactures a range of food processing equipment, including tumblers, brine injectors, smoke chambers, mixers, bowl cutters and emulsifiers, brine preparation systems, grinders, mixer grinders, washers, loaders, flakers, tenderizers, and dripping tunnels. It also provides custom automation solutions, integrating standalone machines into complete production lines. Engineering services cover initial consultation, design, specification, installation, and commissioning, with equipment featuring industrial-grade stainless steel construction and touchscreen controls for repeatable operation.
+The company designs and manufactures a range of food processing equipment, including tumblers, brine injectors, smoke chambers, mixers, bowl cutters and emulsifiers, brine preparation systems, grinders, mixer grinders, washers, loaders, flakers, tenderizers, and dripping tunnels. It also provides custom automation solutions, along with engineering design, installation, maintenance, and a one-year parts-and-labor warranty on every installation. Facility size and headcount are not disclosed.
 
-BAK serves a broad spectrum of food sectors: alternative proteins, baby food, bakery and confectionery, cheese and dairy, deli meats, fruits and nuts, ground meat and proteins, poultry, pet food, prepared foods, produce, pharmaceutical and chemical, red meat, sausage, seafood, smoked products, soups, sauces and oils, spices, and warehouse and industrial applications. Notable installations include a paddle mixer system across four plants for a snack stick producer, a spiral system for a large bacon processor that combined smoking, cooking, and chilling in a continuous line, and a bowl chopper upgrade for a farm-to-retail meat processor.
+BAK serves a broad spectrum of food and related industries, such as alternative proteins, baby food, bakery and confectionery, cheese and dairy, deli meats, fruits and nuts, ground meat and proteins, poultry, pet food, prepared foods, produce, pharmaceutical and chemical, red meat, sausage, seafood, smoked products, soups, sauces and oils, spices, and warehouse and industrial applications. Case studies reference a farm-to-retail meat processor, a snack stick producer across four plants, and a large bacon producer that adopted an automated spiral system for smoking, cooking, and chilling.
 
-The company differentiates itself through fully customizable systems designed around each customer's specific products, throughput targets, and space constraints. A one-year warranty on all parts and labor backs every installation, and a dedicated service team aims to minimize downtime. The founder's background in sausage processing informs an approach that prioritizes food safety, product consistency, and long-term partnership from consultation through ongoing maintenance.
+The company emphasizes its founder’s hands-on processing background, fully customizable systems tailored to specific products, throughput targets, and space constraints, and a partnership model that spans consultation, design, installation, and ongoing support.
 
 ## Known for
 - Full one-year warranty on all parts and labor
 - Customizable systems designed around specific products, throughput targets, and space constraints
-- Decades of hands-on food processing experience from founder who scaled a sausage operation
 - In-depth consultation through design, installation, and ongoing maintenance
-- Modular components and scalable system architectures for future expansion
+- Decades of hands-on experience from founder who scaled a sausage operation
+- Industrial-grade stainless steel construction with touchscreen controls
 
 ## Capabilities
-- Food processing equipment design and manufacturing
-- Custom automation solutions
-- Production line integration
-- Equipment installation and commissioning
-- Preventive maintenance and service
-- Spare parts supply
-- Tumbling
+- Tumblers
 - Brine injection
-- Smoking and cooking (smoke chambers)
-- Mixing and blending
+- Smoke chambers
+- Mixing
 - Bowl cutting/emulsifying
 - Brine preparation
 - Grinding
+- Mixer grinding
 - Washing
 - Loading systems
-- Flaking, tenderizing, dripping tunnels
-- Touchscreen controls programming
-- Stainless steel fabrication
-- Food safety compliance engineering
+- Flaking
+- Tenderizing
+- Dripping tunnels
+- Custom automation solutions
+- Equipment design and installation
+- Maintenance and service
+- Warranty support
 
 ## Industries
 - Alternative Proteins
@@ -124,14 +124,13 @@ The company differentiates itself through fully customizable systems designed ar
 
 <details><summary>Sources</summary>
 
-- Headquarters: Burr Ridge, IL -> db
-- Founder: John Bobak -> pages['/']
-- Equipment list: Tumblers, Brine Injectors, Smoke Chambers, Mixers, Bowl Cutters/Emulsifiers, Brine Preparation, Grinders, Mixer Grinder, Washers, Loaders, Flakers, Tenderizers & Dripping Tunnels, Custom Automation Solution -> pages['/']
-- Industries served: Alternative Proteins, Baby Food, Bakery & Confectionary, Cheese & Dairy, Deli Meats, Fruits & Nuts, Ground Meat and Proteins, Poultry, Pet Food, Prepared Food, Produce, Pharmaceutical/Chemical, Red Meat, Sausage, Seafood, Smoked Products, Soup Sauce and Oil, Spices, Warehouse & Industrial -> pages['/']
-- Case studies: Snack Stick Producer (four plants), Large Bacon Producer (spiral system), Farm-to-Retail Meat Processor (bowl chopper) -> pages['/']
-- Warranty: one-year on all parts and labor -> pages['/']
-- Company description: specializes in tailored food production lines with modular components and scalable architectures -> db
-- LinkedIn URL -> db
+- Company name, HQ city/state, website, LinkedIn -> db
+- Founder John Bobak, sausage operation background -> page:/
+- Equipment list (tumblers, brine injectors, smoke chambers, mixers, bowl cutters, brine prep, grinders, mixer grinders, washers, loaders, flakers, tenderizers, dripping tunnels, custom automation) -> page:/
+- Services: design, installation, maintenance, one-year warranty -> page:/
+- Industries served list -> page:/
+- Case studies: farm-to-retail meat processor, snack stick producer, large bacon producer -> page:/
+- Differentiators: founder experience, customizable systems, partnership model, stainless steel construction, touchscreen controls -> page:/
 </details>
 
 ---
@@ -141,43 +140,44 @@ The company differentiates itself through fully customizable systems designed ar
 **Old description:** None
 
 ## About
-BBG Incorporated was founded in 1988 in Chesapeake, Virginia, as an engineering firm focused on electronic design and manufacturing for commercial and military sectors. The company has grown to provide end-to-end solutions from concept through production, serving both domestic and international markets.
+Founded in 1988 in Chesapeake, Virginia, BBG Incorporated began as an engineering firm focused on electronic design and manufacturing for commercial and military sectors.
 
-BBG offers a full suite of in-house capabilities including PCB design and fabrication (Mil-Spec to IPC, RoHS compliant), PCB layout, manufacturing from prototype to high-volume runs, and rigorous testing and inspection. Its engineering services span hardware and software design, firmware development for ARM/MCU and RTOS platforms, HMI/GUI design, FPGA/CPLD development (VHDL/Verilog), data conversion for legacy and modern systems, and systems integration. The firm also provides complete assembly and production—mechanical enclosures, wire harnessing, and system integration—along with shipboard installation and modernization services for U.S. and foreign naval platforms.
+Today BBG provides end-to-end solutions that span hardware and software design, PCB layout and fabrication, data conversion, firmware development, and full product assembly. Its in-house production line handles everything from small-batch prototypes to high-volume runs, supported by automated testing, visual inspection systems, and scalable assembly processes that include wire harnessing and mechanical enclosure integration. The firm also fields shipboard installation and integration teams for U.S. and foreign naval platforms.
 
-The company primarily serves defense, aerospace, and military customers, with a client list that includes major primes such as Northrop Grumman, BAE Systems, Lockheed Martin, and General Dynamics. It also supports commercial sector projects requiring ruggedized electronics, test equipment, and Ethernet-based networking products.
+The company serves defense, aerospace, and commercial markets, counting prime contractors such as Northrop Grumman, BAE Systems, Lockheed Martin, and General Dynamics among its long-term partners. Its ruggedized Ethernet products, test equipment, and custom electronics are deployed in mission-critical ground, air, and maritime systems, including shipboard installations for U.S. and allied navies.
 
-BBG emphasizes its USA-based manufacturing, end-to-end in-house control, and cutting-edge automated testing and visual inspection systems as key differentiators. The firm was built to solve complex engineering challenges, modernize legacy systems, and deliver cost-effective, high-performance solutions with on-time delivery.
+BBG emphasizes its ability to modernize legacy systems while integrating cutting-edge technology, citing seamless transitions between old and new hardware as a core differentiator. The firm attributes its on-time delivery record to vertical integration of design, test, and manufacturing under one roof, a model it says reduces lead times and design risk.
 
 ## Known for
-- USA-based manufacturing from prototype to high-volume production
-- In-house PCB design, fabrication, assembly, and test under one roof
-- Expertise in military/aerospace data conversion and legacy system modernization
-- Shipboard installation and integration for U.S. and foreign naval systems
-- Established partnerships with top defense primes (Northrop Grumman, BAE, Lockheed Martin, General Dynamics)
+- USA-made manufacturing solutions
+- End-to-end in-house production from prototype to high volume
+- Automated testing and visual inspection systems
+- Expertise in U.S. and foreign military shipboard integration
+- Legacy-to-modern system conversion
 
 ## Capabilities
-- PCB design & fabrication (Mil-Spec, IPC, RoHS)
-- PCB layout & design
-- PCB manufacturing (prototyping to high-volume)
-- PCB testing & inspection
-- Data conversion (legacy to modern systems)
-- Hardware design & engineering
-- Software engineering (firmware, RTOS, HMI/GUI, embedded systems, networking, wireless)
-- FPGA/CPLD design (VHDL/Verilog)
-- Product design & development (concept to prototyping)
-- Systems integration (legacy and modern hardware)
-- Assembly & production (mechanical enclosures, wire harnessing, system integration)
-- Quality control (automated testing, visual inspection)
-- Shipboard installation & integration
-- Shipboard system modernization
-- Military-grade compliance
-- Legacy product modernization
-- Signal conversion
-- Edge computing solutions
-- Rugged solutions manufacturing
-- Test equipment manufacturing
-- Ethernet products manufacturing
+- PCB Design & Fabrication
+- PCB Manufacturing
+- PCB Testing
+- Data Conversion
+- Software Engineering
+- Firmware Development
+- RTOS Implementation
+- HMI/GUI Design
+- FPGA/CPLD Engineering
+- Product Design & Development
+- Product Assembly
+- Wire Harnessing
+- System Integration
+- Shipboard Installation
+- Shipboard Services
+- System Modernization
+- Quality Control
+- Automated Testing
+- Visual Inspection
+- Legacy System Modernization
+- Embedded Systems Development
+- Networking & Wireless Protocols
 
 ## Industries
 - Defense
@@ -195,14 +195,19 @@ BBG emphasizes its USA-based manufacturing, end-to-end in-house control, and cut
 
 <details><summary>Sources</summary>
 
-- Founded in 1988 in Chesapeake, Virginia -> /about
-- Electronic design and manufacturing for commercial and military sectors -> /about
-- In-house capabilities: PCB design/fabrication, assembly, testing, data conversion, software engineering, FPGA/CPLD design, shipboard installation -> /capabilities
-- Partners: Northrop Grumman, BAE, Lockheed Martin, General Dynamics -> /about
-- USA-made manufacturing from prototype to high-volume production -> /capabilities
-- Specializes in data conversion, legacy product modernization, signal conversion, edge computing -> /
-- RoHS compliant PCB fabrication -> /capabilities
-- 35+ years of expertise -> /about
+- Founded in 1988 -> /about
+- Headquarters in Chesapeake, Virginia -> db
+- Provides end-to-end solutions including hardware/software design, PCB fabrication, data conversion, firmware, product assembly -> /about, /capabilities
+- In-house production from small-batch prototypes to high-volume runs -> /about, /capabilities
+- Automated testing and visual inspection systems -> /about
+- Shipboard installation and integration for U.S. and foreign naval platforms -> /capabilities
+- Serves defense, aerospace, commercial markets -> /about, /capabilities, /
+- Prime contractor partners: Northrop Grumman, BAE Systems, Lockheed Martin, General Dynamics -> /about
+- Ruggedized Ethernet products, test equipment, custom electronics deployed in mission-critical systems -> /
+- Legacy system modernization and seamless integration of old/new hardware -> /about, /capabilities
+- Vertical integration of design, test, manufacturing reduces lead times and design risk -> /about, /capabilities
+- RoHS compliance -> /capabilities, db
+- USA-made manufacturing -> /capabilities
 </details>
 
 ---
@@ -212,29 +217,27 @@ BBG emphasizes its USA-based manufacturing, end-to-end in-house control, and cut
 **Old description:** BIG SIN WOOD was founded by me, Jeremy Morrow, in 2018. I’m from Nashville, TN and now live and work in New York. The BIG SIN SHOP is now located in Katonah, but most of our work is delivered to New York City.
 
 ## About
-BIG SIN WOOD was founded in 2018 by Jeremy Morrow in Brooklyn, New York. Morrow, originally from Nashville, Tennessee, transitioned from a career as a professional bass trombonist to woodworking, establishing the shop in Katonah while primarily serving clients in New York City.
+BIG SIN WOOD was founded in 2018 by Jeremy Morrow in New York. Morrow, originally from Nashville, Tennessee, established the shop in Katonah, New York, though most projects are delivered and installed throughout New York City. The business began after Morrow left a career as a professional bass trombonist, bringing a musician’s discipline to woodworking.
 
-The company produces custom furniture, fixtures, and installations on a commissioned basis, handling each project from design through build, finishing, delivery, and installation. The shop works with solid woods such as white oak, plywood, and reclaimed or locally recycled lumber, emphasizing hand-selected materials for each piece.
+The company produces custom furniture, fixtures, and installations on a commissioned basis, handling each project from design through fabrication, finishing, delivery, and installation. Work is built to order in their Katonah shop, with an emphasis on hand-selected lumber and the option to incorporate locally sourced or reclaimed wood. No facility size or headcount figures are published.
 
-BIG SIN WOOD serves residential and commercial clients in the New York City area seeking bespoke woodwork for interiors, retail fixtures, and architectural installations. Projects range from individual furniture pieces to larger built-in installations, all managed by Morrow from concept to completion.
+BIG SIN WOOD serves clients in the New York City area seeking one-of-a-kind woodwork for residential and commercial spaces. Projects range from individual pieces such as coffee tables to larger architectural installations, all managed directly by the founder.
 
-Morrow founded the business after leaving the music industry, a move he describes as a "BIG SIN" in his former field. The operation distinguishes itself by keeping the entire process under one maker, ensuring material traceability and a direct relationship between the craftsman and the client.
+Morrow states that controlling every step—design, build, finish, delivery, and install—ensures quality and a personal connection to the material. The approach reflects his belief that knowing the origin of the wood, whether it’s white oak, plywood, or reclaimed stock, adds meaning to the finished piece.
 
 ## Known for
-- Single maker handles design, build, finish, delivery, and installation
-- Hand-selected materials including locally recycled and reclaimed wood
-- Custom commissions from concept to completion
-- Built-to-order in New York
+- Single-point responsibility: design, build, finish, delivery, and installation by the same person
+- Hand-selected lumber for each project
+- Option to use locally sourced or reclaimed wood
+- Founder’s background in professional music informs craftsmanship discipline
 
 ## Capabilities
-- Custom furniture making
+- Custom furniture fabrication
 - Fixture fabrication
-- Installation services
-- Design consultation
-- Wood finishing
+- Architectural installation
+- Design-build services
 - Material selection and sourcing
-- Commissioned project management
-- Delivery and installation
+- Reclaimed wood processing
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -243,15 +246,17 @@ Morrow founded the business after leaving the music industry, a move he describe
 
 <details><summary>Sources</summary>
 
-- Founded in 2018 by Jeremy Morrow -> /about
-- Founder from Nashville, TN, now in New York -> /about
-- Shop located in Katonah, work delivered to NYC -> /about
-- Produces custom furniture, fixtures, installations built-to-order -> /
-- Commissioned works from design to build -> /
-- Uses white oak, plywood, reclaimed/recycled wood -> /about
-- Single-person control from design through installation -> /about
-- Founder previously professional musician (bass trombone) -> /about
-- Headquarters in Brooklyn, NY -> db
+- Founded 2018 by Jeremy Morrow -> /about
+- Founder from Nashville, TN, lives/works in New York -> /about
+- Shop located in Katonah, NY -> /about
+- Most work delivered to New York City -> /about
+- Custom furniture, fixtures, installations built-to-order -> /
+- Commissioned-based works from design to build -> /
+- Hand-selected materials, locally recycled/reclaimed wood -> /about
+- White oak and plywood mentioned as materials -> /about
+- Founder background as professional bass trombonist -> /about
+- Single-person design through installation philosophy -> /about
+- Headquarters Brooklyn, NY per database -> db
 </details>
 
 ---
@@ -261,49 +266,51 @@ Morrow founded the business after leaving the music industry, a move he describe
 **Old description:** We are always striving to provide the best parts and services available to our customers in the Treasure Valley. We specialize in Japanese cars but our experience doesn't stop there. We also have a lot of experience with domestic and other imports as well.
 
 ## About
-BK Industries operates from Meridian, Idaho, in the Treasure Valley region. The shop is owned and operated by Brian Krah, a lifelong automotive enthusiast who has worked professionally in the industry for nearly two decades. Before establishing BK Industries, Krah owned and ran an automotive repair and performance shop in eastern Idaho and served as a Honda technician at a dealership, building deep expertise with Japanese vehicles.
+BK Industries operates in Meridian, Idaho, serving the Treasure Valley. The shop is owned and operated by Brian Krah, a lifelong motorsports enthusiast with nearly 20 years of professional automotive experience. Before establishing BK Industries, Krah owned and operated an automotive repair and performance shop in eastern Idaho and worked as a Honda technician at a dealership, building deep expertise with Japanese vehicles.
 
-The business functions as a full-service automotive shop, offering repair, preventive maintenance, and performance upgrades. While its core focus is Japanese makes, the team also services domestic and other import vehicles. The shop sources and installs parts for a range of needs, from routine maintenance to custom performance builds.
+The facility provides automotive service, maintenance, and performance upgrades. Its work spans routine repairs, scheduled maintenance, and performance tuning for a range of vehicles. While the shop specializes in Japanese makes, it also services domestic and other import brands. No facility size or headcount figures are disclosed.
 
-BK Industries serves individual vehicle owners and automotive enthusiasts throughout the Treasure Valley. Its customer base includes drivers of Japanese brands such as Honda, as well as domestic and other import models. The shop’s reputation draws clients seeking specialized knowledge of Japanese platforms alongside general automotive repair.
+The customer base consists of vehicle owners in the Treasure Valley seeking repair, maintenance, or performance enhancements. The shop’s Japanese-car focus draws enthusiasts of brands such as Honda, while its broader experience accommodates domestic and other import models. No specific commercial or fleet clients are mentioned.
 
-Krah’s involvement in the enthusiast community underscores the shop’s credibility; in 2000 his highly customized 1999 Honda Civic Coupe was selected for display at the SEMA show in Las Vegas, representing several well-known aftermarket brands. That recognition reflects the technical depth and passion that BK Industries brings to every vehicle it services.
+Krah’s background distinguishes the operation: his hands-on experience as a Honda dealership technician and his recognition at the 2000 SEMA show, where his customized 1999 Honda Civic Coupe was displayed in the North Hall representing several well-known companies, underscore the shop’s performance orientation.
 
 ## Known for
-- Specializes in Japanese vehicle service and performance
-- Experience with domestic and import vehicles
-- Owner Brian Krah has nearly 20 years professional automotive experience
-- SEMA 2000 display vehicle representing multiple aftermarket brands
+- Specializes in Japanese vehicles with additional expertise in domestic and other imports
+- Owner brings nearly 20 years of professional automotive experience
+- Founder previously worked as a Honda dealership technician
+- Customized vehicle displayed at the 2000 SEMA show in Las Vegas
+- Locally owned and operated in the Treasure Valley
 
 ## Capabilities
 - Automotive repair
-- Preventive maintenance
+- Automotive maintenance
 - Performance tuning
-- Parts sourcing and installation
-- Japanese vehicle specialization
-- Domestic and import vehicle service
+- Japanese vehicle service
+- Domestic vehicle service
+- Import vehicle service
 
 ## Industries
-- Automotive service
-- Automotive aftermarket
+- Automotive repair
+- Automotive performance
+- Vehicle maintenance
 
 ## Company details
 - **Company Type:** Installer / service company
-- **Ownership:** Owned and operated by Brian Krah
+- **Ownership:** Owner-operated by Brian Krah
 - **Headquarters:** Meridian, Idaho
 
 <details><summary>Sources</summary>
 
 - Location: Meridian, Idaho -> db
 - Owner: Brian Krah -> /about-us
+- Specializes in Japanese cars -> /
+- Services: service, maintenance, performance -> /
 - Owner's professional experience: nearly 20 years -> /about-us
 - Previous shop in eastern Idaho -> /about-us
-- Honda technician at dealership -> /about-us
-- SEMA 2000 display -> /about-us
-- Specializes in Japanese cars -> /
-- Experience with domestic and imports -> /
-- Services: service, maintenance, performance -> /
-- Strives to provide best parts and services -> /
+- Honda dealership technician experience -> /about-us
+- SEMA show display 2000 -> /about-us
+- Company type: service, maintenance, performance shop -> /
+- Headquarters: Meridian, Idaho -> db
 </details>
 
 ---
@@ -313,71 +320,59 @@ Krah’s involvement in the enthusiast community underscores the shop’s credib
 **Old description:** We are a full-service partner for printed circuit board assembly (PCBA), box builds, cabling and electronics contract manufacturing (ECM). Our engineers source boards and components, collaborate on designs , assemble, test and ship solutions. Founded in Ithaca, we are proud to manufacture in Austin and source from trusted suppliers at home and abroad.
 
 ## About
-BSU Electronics operates from Austin, Texas, where it has manufactured printed circuit board assemblies since relocating from its founding location in Ithaca, New York. The company was established in 1989 and today is led by Chief Executive Officer Leyla Sudbury and Executive Chairman Andrew Cousin, with Ahmad Chamseddine serving as senior advisor. What began as a PCB assembly shop has grown into a full-service electronics contract manufacturer serving customers from startup phase through global production.
+BSU Inc., doing business as BSU Electronics, was founded in 1989 in Ithaca, New York, and now operates its manufacturing facility in Austin, Texas. The company has been assembling printed circuit boards in the United States for over three decades, with early work including boards for Xerox’s first digital copier platform. Leadership includes Chief Executive Officer Leyla Sudbury and Executive Chairman Andrew Cousin.
 
-The company provides end-to-end electronics manufacturing including rigid, flex, and rigid‑flex PCB assembly using surface‑mount, through‑hole, and press‑fit processes. Its facility handles box‑build and electromechanical system integration, custom cable and wire harness assembly (including fiber optic, RF, coax, and high‑gauge overmolded designs), conformal coating, and software/firmware programming. Testing capabilities span flying‑probe, 5D X‑ray, 3D automated optical inspection, in‑line solder paste inspection, functional test, boundary scan, ionic contamination, temperature cycling, and high‑potential verification. All work is performed to IPC‑A‑610, IPC J‑STD‑001, and IPC/WHMA‑A‑620 standards with full traceability under ITAR registration.
+The shop provides full-service electronics contract manufacturing, spanning printed circuit board assembly (SMT, through-hole, and press-fit), box-build integration, custom cable and wire harness assembly, and a comprehensive suite of testing methods including flying probe, 5D X-ray, AOI, and functional test. It supports rigid, flex, and rigid-flex PCB types up to multi-layer and controlled-impedance designs, and offers design-for-manufacturability services, conformal coating, software programming, and system integration. Sourcing options range from turnkey and consigned to domestic ITAR-compliant procurement.
 
-BSU serves aerospace programs with mission‑critical avionics, communication boards, and aircraft spares; defense customers with manned and unmanned system components; semiconductor equipment builders including wafer‑fabrication platforms; medical technology firms; transportation projects ranging from roller coasters and monorails to autonomous and electric vehicles; energy sector subassemblies for generation, storage, and AI data‑center power; and broader industrial automation, sensor, and instrumentation electronics. Long‑term relationships include a 30‑year safety‑equipment client and multiple multi‑decade aerospace and defense accounts supplying the U.S. government.
+BSU serves customers in semiconductor capital equipment, aerospace (avionics, communication boards, aircraft spares), defense (manned and unmanned systems), transportation (roller coasters, monorails, electric and autonomous vehicles), energy (generation, storage, AI data-center infrastructure), medical technology, and broader industrial automation. Long-term clients include a 30-year partner building safety-critical test equipment, a 23-year lead purchaser, and a two-year supplier of aerospace assemblies to the U.S. government.
 
-The company emphasizes engineer‑led sourcing and design‑for‑X collaboration so that manufacturability issues surface during build rather than qualification. It advertises flexible lead times — under 24‑hour turnaround when components are on hand, three‑day new‑quote response, and one‑day rush for repeat customers — backed by direct, proactive engineering engagement throughout each project.
+The company emphasizes engineer-led sourcing and testing to catch design issues during build rather than qualification, and advertises flexible lead times such as sub-24-hour turns when parts are on hand, three-day new quotes, and one-day rush for existing customers. Its ITAR registration and adherence to IPC-A-610, J-STD-001, and WHMA-A-620 standards underpin its pitch for repeatable, transparent quality.
 
 ## Known for
-- Engineer-led sourcing and design review to catch issues before qualification
-- Under 24-hour turnaround when parts are in hand
-- Three-business-day response for new quotes
-- One-day rush turnaround for existing customers with parts available
-- ITAR-registered U.S. manufacturer with full traceability to IPC-A-610 and IPC J-STD-001
+- Engineer-led sourcing and testing to surface design issues during build
+- ITAR-registered U.S. manufacturer with full traceability
+- Flexible lead times including <24-hour turnaround when parts are in hand
+- Direct engineering engagement with proactive updates
+- One-stop PCB sourcing, assembly, cables, and box builds
 
 ## Capabilities
-- PCB assembly (SMT, through-hole, press-fit)
-- Box build & system integration
-- Cable & wire harness assembly
-- Conformal coating
-- Design-for-X services (DFM, DFA, DFT, DFC, DFAv)
-- Debug & rework
-- BGA re-ball
-- Component removal & replacement
-- Flying probe testing
-- 5D X-ray inspection
-- Automated optical inspection (AOI)
-- 3D AOI
-- Solder paste inspection (SPI) in-line
-- Functional testing
-- Visual inspection
-- Ionic contamination testing
-- Temperature cycling
-- High potential (hipot) testing
-- Boundary scan testing
-- Software programming & integration
-- Device programming
-- Firmware download
-- Turnkey & consigned sourcing
-- Obsolete component sourcing
-- Domestic ITAR-compliant sourcing
+- SMT Assembly
+- Through-Hole Assembly
+- Press-Fit Assembly
+- PCB Depanelizing (V-Score, Mouse-Bites, Routing)
+- Reflow Soldering
+- Wave Soldering
+- Selective Soldering
+- Jet-Paste / Stencil Printing
+- Clean / No-Clean Processes
+- BGA Rework and Re-Balling
+- Component Removal and Replacement
+- Flying Probe Testing
+- 5D X-Ray Inspection
+- Automated Optical Inspection (AOI) / 3D AOI
+- Solder Paste Inspection (SPI) In-Line
+- Functional Testing
+- Ionic Contamination Testing
+- Temperature Cycling Testing
+- High Potential (HiPot) Testing
+- Boundary Scan Testing
+- Design-for-Manufacturability (DFM) Services
+- Box Build & System Integration
+- Conformal Coating
+- Custom Cable & Wire Harness Assembly
 
 ## Industries
+- Semiconductor
 - Aerospace
 - Defense
-- Semiconductor
-- Medical technology
 - Transportation
 - Energy
-- Industrial
-
-## Equipment
-- 5D X-Ray
-- Flying probe
-- AOI / 3D AOI
-- SPI In-Line
-- Automatic cable eye testing
-- Jet-Paste
-- Programmable selective soldering
-- Wave soldering
-- Reflow
+- Medical Technology
+- Industrial Automation
 
 ## Certifications
-- ITAR registered
-- RoHS compliant
+- ITAR
+- ROHS
 - IPC-A-610
 - IPC J-STD-001
 - IPC/WHMA-A-620
@@ -389,21 +384,20 @@ The company emphasizes engineer‑led sourcing and design‑for‑X collaboratio
 
 <details><summary>Sources</summary>
 
-- Founded 1989 in Ithaca, now manufacturing in Austin -> /about-us
-- CEO Leyla Sudbury, Executive Chairman Andrew Cousin, Senior Advisor Ahmad Chamseddine -> /about-us
-- PCB types: rigid, flex, rigid-flex, multi-layer, controlled impedance, high frequency -> /
-- Sourcing: turnkey, consigned, cut tape, loose reels, obsolete, domestic ITAR-compliant -> /
-- Assembly: SMT, through-hole, press-fit, V-score, mouse-bites, mechanical routing -> /
-- Soldering: jet-paste, stencil printing, reflow, wave, programmable selective soldering, clean, no clean -> /
-- Repair: debug, rework, BGA re-ball, component removal and replacement -> /
-- Testing: flying probe, 5D X-ray, AOI, SPI in-line, functional, visual, ionic contamination, temperature cycling, high potential, boundary scan, 3D AOI -> /
-- Design-for-X: quality, cost, availability, manufacturability, fixtures and test jigs -> /
-- Add-ons: box build, conformal coating, system integration, software programming and integration -> /
-- Cables/harnesses: internal, external, RF, shielded, unshielded, coax, flex, twisted pair -> /
-- Industries: semiconductor, aerospace, defense, transportation, energy, broader industrial -> /
-- Medical mentioned in about page -> /about-us
-- ITAR registered, IPC-A-610, IPC J-STD-001, IPC/WHMA-A-620 -> /capabilities
-- Lead times: <24hr when parts in hand, 3 days new quotes, 1 day rush for existing -> /
+- Founded in 1989 in Ithaca, now manufacturing in Austin -> /about-us, /
+- CEO Leyla Sudbury, Executive Chairman Andrew Cousin -> /about-us
+- Services: PCBA, box build, cable/harness, testing -> /, /capabilities
+- PCB types: Rigid, Flex, Rigid-Flex, Multi-layer, Controlled Impedance -> /
+- Sourcing: Turnkey, Consigned, Domestic ITAR-Compliant -> /
+- Testing: Flying Probe, 5D X-Ray, AOI, SPI, Functional, etc. -> /
+- Design-for-X services: DFM, DFT, Fixtures -> /
+- Add-ons: Box Build, Conformal Coating, System Integration, Software Programming -> /
+- Cable/Harness: Internal, External, RF, Shielded, Coax, Flex, Twisted Pair -> /
+- Industries: Semiconductor, Aerospace, Defense, Transportation, Energy, Medical, Industrial -> /, /about-us
+- Customer examples: 30-year safety-critical test equipment, 23-year lead purchaser, 2-year aerospace assemblies to US government -> /
+- Lead times: <24-hour, 3-day quotes, 1-day rush -> /
+- Certifications: ITAR, ROHS, IPC-A-610, IPC J-STD-001, IPC/WHMA-A-620 -> /capabilities, db
+- Company type: Contract manufacturer / job shop -> /, /about-us
 </details>
 
 ---
@@ -413,55 +407,60 @@ The company emphasizes engineer‑led sourcing and design‑for‑X collaboratio
 **Old description:** Quality is at the core of everything we do at BT Fab sheet metal fabrication. We adhere to rigorous quality control standards to ensure our sheet metal project meets your exact specifications. Our commitment to excellence means you can trust us with even the most demanding projects.
 
 ## About
-BT Fab LLC was established in 2005 in Reno, Nevada, and now operates from Sparks in the Reno–Tahoe area. The business was founded on a straightforward premise: deliver quality sheet metal products on time and at a fair price. No individual founders are named in public materials, and the ownership structure has not been disclosed.
+BT Fab LLC operates from Sparks, Nevada, and was founded in 2005. The company began with a straightforward mission: to supply quality sheet metal products on time and at a fair price. No founders are named in public materials.
 
-The shop provides a full range of sheet metal fabrication services, including plasma cutting, shearing (10‑foot, 10‑gauge capacity), braking (10‑foot, 10‑gauge), roto‑die forming, rolling, roll forming, welding, notching, beading, and turning. Its equipment roster features a Lockformer plasma cutting system, shears, brakes, a roll former, insulation equipment, hand brakes, and assorted welding and forming machines. The company does not publish facility square footage, headcount, or annual volume figures.
+The shop provides a range of sheet metal fabrication services, including duct work, welding, copper and stainless steel fabrication, flashing, and custom pans. Its facility houses a Lockformer plasma cutting system, shearing and braking capacity up to 10 feet and 10 gauge, as well as roto-die, rolls, a roll former, insulation equipment, welding stations, hand brakes, notchers, beaders, and turning machines. Headcount and annual volume are not disclosed.
 
-BT Fab serves residential, commercial, and industrial customers. Typical projects include HVAC duct work, flashing, custom pans, and fabrication in copper and stainless steel. The firm describes its clientele as ranging from small businesses and individual homeowners to larger industrial enterprises.
+BT Fab serves residential, commercial, and industrial customers, from individual homeowners and small businesses to larger industrial enterprises. The company emphasizes an adaptive approach to meet the unique requirements of each sector.
 
-The company emphasizes its reputation built over two decades, citing a commitment to rigorous quality control, personalized solutions, and the use of cutting‑edge technology to turn raw material into refined, spec‑compliant parts.
+The company states that its foundation rests on delivering quality, timeliness, and fair pricing, and it has built a reputation over two decades as a respected sheet metal fabricator in the region.
 
 ## Known for
-- Quality sheet metal products delivered on time at a fair price
-- Over two decades of reputation in the Reno–Tahoe area
-- Personalized solutions tailored to each project
-- In‑house plasma cutting, shearing, braking, and roll forming
+- Quality-focused with rigorous quality control standards
+- Timely delivery at fair prices
+- Customized solutions tailored to each industry
+- Cutting-edge technology including Lockformer plasma cutting system
 
 ## Capabilities
-- Sheet metal fabrication
-- Plasma cutting
-- Shearing (10' 10GA)
-- Braking (10' 10GA)
-- Roto-die forming
-- Rolling
-- Roll forming
+- Sheet Metal Fabrication
+- Duct Work
 - Welding
+- Copper Fabrication
+- Stainless Steel Fabrication
+- Flashing
+- Pan Fabrication
+- Shearing
+- Braking
+- Roto-die Forming
+- Rolling
+- Roll Forming
+- Insulation Installation
+- Hand Brake Forming
 - Notching
 - Beading
 - Turning
-- Duct work fabrication
-- Flashing fabrication
-- Pan fabrication
-- Insulation fabrication
 
 ## Industries
 - Residential
 - Commercial
 - Industrial
+- Small Business
+- Industrial Enterprise
+- Individuals
 
 ## Equipment
 - Lockformer Plasma Cutting System
-- Shear (10' 10GA capacity)
-- Brake (10' 10GA capacity)
+- Shearing (10' 10GA Capacity)
+- Braking (10' 10GA Capacity)
 - Roto-die
 - Rolls
-- Roll former
-- Insulation equipment
-- Welding equipment
+- Roll Former
+- Insulation Equipment
+- Welding Equipment
 - Handbrake
 - Notcher
 - Beader
-- Turning machines
+- Turning Machines
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -470,14 +469,14 @@ The company emphasizes its reputation built over two decades, citing a commitmen
 
 <details><summary>Sources</summary>
 
-- Founded 2005 in Reno, Nevada -> /
-- Headquarters Sparks, Nevada -> db
+- Founded in 2005 -> /
+- Headquarters in Sparks, Nevada -> db
 - Services: sheet metal fabrication, duct work, welding, copper, stainless steel, flashing, pans -> /services
-- Equipment list -> /
-- Industries served: residential, commercial, industrial -> / and /services
-- Company philosophy: quality, timely, fair price -> /
-- Reputation over two decades -> /
-- Personalized solutions -> /services
+- Equipment: Lockformer Plasma Cutting System, shearing 10' 10GA, braking 10' 10GA, roto-die, rolls, roll former, insulation equipment, welding equipment, handbrake, notcher, beader, turning machines -> /
+- Industries served: residential, commercial, industrial, small business, industrial enterprise, individuals -> / and /services
+- Materials: copper, stainless steel -> /services
+- Company type: manufacturer -> /
+- Mission: provide quality sheet metal products timely at fair price -> /
 </details>
 
 ---
@@ -487,55 +486,44 @@ The company emphasizes its reputation built over two decades, citing a commitmen
 **Old description:** BTL Liners began a series of expansions with the success of this amazing liner material. From our 6,000 square foot facility in the early 1990’s, we upgraded to our current home, which has provided us with 84,000 square feet of state-of-the-art welding and fabrication space since 2007. Our facility allows us to compete not only regionally and nationally, but also internationally. We’re focused on providing customers worldwide with high-quality RPE and RPP liners, tarps and covers.
 
 ## About
-BTL Liners, based in Prineville, Oregon, traces its roots to 1981 when Ron Perlatti founded Bend Tarp and Liner in Bend. The company began installing pond liners in the mid-1980s and partnered with a Japanese firm to develop the first heavyweight reinforced polyethylene liners. Ownership passed to Perlatti's son Brad and his wife Jan in 1997, and the operation moved to its current 84,000-square-foot facility in Prineville in 2007, adopting the BTL Liners name. In 2021, their daughter Chelsea and her husband Travis Wilcox took over, continuing the third-generation family ownership.
+BTL Liners operates from an 84,000-square-foot fabrication facility in Prineville, Oregon. The company traces its roots to 1981 when Ron Perlatti founded Bend Tarp & Liner in nearby Bend, initially installing pond liners before partnering with a Japanese firm to develop heavyweight reinforced polyethylene liners. Ownership passed to Perlatti's son Brad and his wife Jan in 1997, and in 2021 their daughter Chelsea and her husband Travis Wilcox took over, marking the third generation of family leadership.
 
-The company manufactures custom geomembrane liners, covers, and tarps from reinforced polyethylene (RPE), reinforced polypropylene (RPP), and low-density polyethylene (LDPE). Its purpose-built fabrication plant houses welding and prefabrication equipment capable of producing single panels up to 150,000 square feet. A team of 20-plus handles design, fabrication, and installation support offered worldwide, either on-site or remotely.
+The company manufactures custom geomembrane liners, covers, and tarps using reinforced polyethylene (RPE), reinforced polypropylene (RPP), and low-density polyethylene (LDPE). Its Prineville plant houses welding and fabrication equipment capable of producing single panels up to 150,000 square feet, supported by a team of 20-plus technicians. BTL also provides installation assistance worldwide, either onsite or remotely.
 
-BTL serves agriculture, aquaponics, energy, mining, recreation, and environmental containment markets. Projects include cable wake-board parks in California and Ohio, golf-course ponds in Oregon, greenhouse covers worldwide, a 40-acre irrigation reservoir in the western U.S., frac-tank insulated covers, a coal-mine liner in British Columbia, and custom truck and boat tarps.
+BTL serves agriculture, aquaponics, energy, golf courses, greenhouses, irrigation, landfill, mining, and water-feature markets. Project examples include cable wake-board parks in California and Ohio, a 40-acre irrigation reservoir in the western U.S., frac-tank insulated covers, a coal mine in British Columbia, and custom truck and boat tarps shipped globally.
 
-The firm emphasizes its 45-year track record, 280-plus years of combined staff experience, and a guarantee of 100% reliability with after-project support. It positions its RPE/RPP materials as stronger, lighter, and more UV-resistant alternatives to traditional HDPE, PVC, or EPDM liners.
+The business began after Perlatti identified a need for a stronger, lighter alternative to HDPE, PVC, and EPDM liners. The resulting double-scrim RPE material can be prefabricated and installed quickly, offering a cost-effective solution. BTL's stated mission is to give clients confidence that its containment systems exceed requirements for resource conservation and control.
 
 ## Known for
-- Largest single panels in the industry up to 150,000 sq ft
-- 84,000 sq ft purpose-built fabrication facility
-- Installation assistance worldwide (onsite or remote)
-- 45 years in business (since 1981)
-- Over 280 years of combined industry experience among staff
+- Largest single panels in the industry at 150,000 square feet
+- Installation assistance worldwide, onsite or over the phone
+- 45 years in business since 1981
+- Over 280 years of combined industry experience
+- Third-generation family-owned business
 
 ## Capabilities
-- Custom geomembrane liner fabrication
-- Reinforced polyethylene (RPE) liner manufacturing
-- Reinforced polypropylene (RPP) liner manufacturing
-- Low density polyethylene (LDPE) liner manufacturing
-- Welding and fabrication of geomembranes
-- Prefabricated panel production (up to 150,000 sq ft)
+- Custom geomembrane fabrication
+- Welding of reinforced polyethylene and polypropylene
+- Prefabrication of large panels up to 150,000 sq ft
 - Installation assistance (onsite and remote)
-- Custom tarp and cover manufacturing
-- Greenhouse cover manufacturing
 - Design of containment systems
-- Custom truck and boat tarp fabrication
-- Light deprivation greenhouse cover manufacturing
+- Fabrication of tarps and covers
 
 ## Industries
 - Agriculture
 - Aquaponics
 - Energy
+- Golf courses
+- Greenhouse
 - Hydroponics
-- Greenhouse Light Deprivation
-- Water Gardens
-- Farm Ponds
-- Greenhouses
-- Golf Course Pond
-- Golf Course Water Feature
-- Landfill Cover
 - Irrigation
-- Irrigation Pond
-- Irrigation Canal
-- Cable Wake Board Parks
-- Frac Tank
-- Coal Mine
-- Ice Skating
-- Truck and Boat Tarps
+- Landfill
+- Mining
+- Water features
+- Frac tanks
+- Truck and boat tarps
+- Ice skating
+- Wake board parks
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -547,19 +535,15 @@ The firm emphasizes its 45-year track record, 280-plus years of combined staff e
 <details><summary>Sources</summary>
 
 - Founded 1981 by Ron Perlatti -> /about-us
-- Headquarters Prineville, Oregon -> db and /about-us
-- 84,000 sq ft facility since 2007 -> /about-us
-- 20+ employees -> /about-us
-- Third-generation family-owned -> /about-us
-- Manufactures RPE, RPP, LDPE liners -> /about-us
-- Largest single panels up to 150,000 sq ft -> /
+- Third generation family-owned -> /about-us
+- Facility 84,000 sq ft since 2007 -> /about-us
+- Employees 20+ -> /about-us
+- Materials: RPE, RPP, LDPE -> /about-us
+- Largest single panels 150,000 sq ft -> /
 - Installation assistance worldwide -> /
-- Industries: agriculture, aquaponics, energy, hydroponics, greenhouse, water gardens, farm ponds, golf course, landfill, irrigation, mining, recreation, transportation -> / and /about-us
-- 45 years in business -> /
-- Over 280 years combined experience -> /about-us
-- Market leader since 1981 -> /about-us
-- 100% reliability guarantee -> /about-us
-- After-project support -> /about-us
+- Industries served: agriculture, aquaponics, energy, etc. -> /
+- Projects: cable wake board parks, golf courses, etc. -> /
+- Mission: provide confidence and peace of mind -> /about-us
 </details>
 
 ---
@@ -569,59 +553,52 @@ The firm emphasizes its 45-year track record, 280-plus years of combined staff e
 **Old description:** Influenced by traditional design elements, this spring's trends are founded on a desire for spaces that feel both timeless and grounded. The newest pieces seem to balance refinement and naturalism through the use of detailed accents, botanical motifs, organic...
 
 ## About
-BY DESIGN Furniture & Interior Design operates from Clive, Iowa, a suburb of Des Moines. The business traces its roots to 1976 when Russell and Ruthann Clark encouraged their son Kevin and daughter-in-law Bonita to open Wood Stock Ltd., a store dedicated to unfinished wood furniture in Des Moines. In 1998, the family launched BY DESIGN as a new concept combining their earlier wood specialty and upholstery ventures. The company remains a locally owned, family-run small business, now transitioning to new leadership under Spectrum Lighting with Jennifer Robinson managing operations.
+BY DESIGN Furniture & Interior Design operates from a showroom in Clive, Iowa, a suburb of Des Moines. The business traces its roots to December 1976 when Russell and Ruthann Clark helped their son Kevin and daughter-in-law Bonita open Wood Stock Ltd., a store dedicated to unfinished wood furniture in Des Moines. The current BY DESIGN entity was established in 1998 after the Clarks merged their wood specialty store with an upholstery concept called Sofas by Design. The company remains family-owned and describes itself as a locally owned small business.
 
-The firm provides interior design services through degreed designers and retails a curated selection of residential and office furniture from brands such as American Leather, Four Hands, Norwalk Furniture, and BDI. Its showroom features a fabric wall with thousands of fabric and leather options, and dining tables configurable with wood, tile, stone, or glass tops. The company also offers a proprietary furniture protection program covering upholstery, leather, and case goods, and operates an online clearance channel.
+The firm combines a retail showroom with a full-service interior design studio. Its designers — degreed professionals — help clients specify customizable furniture sourced from vendors such as American Leather, Four Hands, Norwalk Furniture, and BDI. The showroom features a fabric wall stocked with thousands of fabrics and leathers, and dining tables can be ordered in wood, tile, stone, or glass tops with various finishes. The company also offers furniture restoration services and a furniture protection plan.
 
-BY DESIGN serves homeowners seeking full-room design and furnishing, as well as trade professionals through a dedicated "Outside Designers" program. Clients include residential customers in the Des Moines metro area and designers partnering on client projects. The company's portfolio spans living, dining, bedroom, office, entertainment, and outdoor spaces.
+BY DESIGN serves residential clients throughout the Des Moines metro area and also partners with outside designers through a to-the-trade program. Its customer base includes homeowners furnishing living rooms, dining rooms, bedrooms, home offices, and outdoor spaces. The company’s portfolio includes projects ranging from single-room refreshes to whole-home designs.
 
-The founders' original vision was to move beyond a single signature style and instead help each client discover a personal aesthetic. The company emphasizes in-person, tactile design consultations and positions its designers as partners who "come in every day hoping to make some magic."
+The Clarks founded the business on a mission to listen, inform, and inspire clients who view their homes as a focal point of their lives. The company emphasizes that it does not impose a signature style but instead helps each client discover a personal aesthetic through highly customizable product options and one-on-one design consultation.
 
 ## Known for
-- Degreed designers providing personalized interior design services
-- Fabric wall with thousands of fabric and leather options for customization
-- Dining tables configurable in wood, tile, stone, or glass tops
-- Comprehensive furniture protection program covering entire purchases
-- In-person showroom experience emphasizing tactile design consultation
+- Degreed interior designers on staff
+- Fabric wall with thousands of fabrics and leathers
+- Customizable furniture from multiple vendor lines
+- Furniture protection program covering entire purchase
+- To-the-trade program for outside designers
 
 ## Capabilities
-- Interior design services
+- Interior design consultation
 - Custom furniture specification
-- Furniture retail
+- Space planning
 - Furniture restoration
-- Design consultation
 - Furniture protection plans
-- Trade designer partnership program
-- Online clearance sales
+- To-the-trade design services
 
 ## Industries
 - Residential interior design
-- Furniture retail
-- Home furnishings
-- Commercial office furniture
-- Trade/designer services
+- Home furnishings retail
+- To-the-trade design services
 
 ## Company details
 - **Company Type:** Retailer
 - **Founded:** 1998
-- **Ownership:** Family-owned, Small business
+- **Ownership:** Family-owned
 - **Headquarters:** Clive, Iowa
 
 <details><summary>Sources</summary>
 
-- Location: Clive, Iowa -> db
-- Founding: 1976 Wood Stock Ltd., 1998 BY DESIGN -> /about-us
-- Founders: Russell and Ruthann Clark, Kevin and Bonita Clark -> /about-us
-- Ownership: locally owned small business, family-run -> /about-us, /
-- Transition to Spectrum Lighting, Jennifer Robinson -> /
-- Services: interior design by degreed designers, furniture retail -> /, /about-us
-- Brands carried: American Leather, Four Hands, Norwalk Furniture, BDI -> /, /about-us
-- Customization: fabric wall with thousands of fabrics/leathers, dining table tops options -> /about-us
-- Furniture protection program -> /about-us
-- Online clearance store -> /
-- Client types: homeowners, trade professionals (Outside Designers) -> /about-us
-- Portfolio rooms: living, dining, bedroom, office, entertainment, outdoor -> /
-- Differentiators: in-person tactile experience, designers as partners -> /about-us
+- Founded 1998, lineage to 1976 Wood Stock Ltd. -> /about-us
+- Founders Russell and Ruthann Clark, Kevin and Bonita Clark -> /about-us
+- Family-owned, locally owned small business -> /about-us, /
+- Headquarters Clive, Iowa -> db, /
+- Degreed designers, customizable furniture from vendors (American Leather, Four Hands, Norwalk, BDI) -> /, /about-us
+- Fabric wall with thousands of fabrics/leathers -> /about-us
+- Furniture restoration, protection program -> /, /about-us
+- To-the-trade program for outside designers -> /about-us
+- Mission: listen, inform, inspire, no signature style -> /about-us
+- Showroom at 1490 NW 86th St, Clive, IA 50325 -> /
 </details>
 
 ---
@@ -631,44 +608,39 @@ The founders' original vision was to move beyond a single signature style and in
 **Old description:** Backwoods Custom Cabinetry AZ - Bringing Your Vision to Life! Built-In's, Kitchens Cabinets, Custom Closets, Interior Doors, French Doors, Barn Doors, Entertainment Centers, TV Consoles, Floating Shelves and more!
 
 ## About
-Backwoods Custom LLC operates from Phoenix, Arizona, where it designs and builds custom cabinetry for residential projects across the state. The company does not publish a founding year, and its founders are not named in public materials.
+Backwoods Custom LLC is a custom cabinetry shop based in Phoenix, Arizona. The company designs, builds, and installs cabinetry for residential projects across the state.
 
-The shop produces custom kitchens, built-ins such as entertainment centers and home offices, custom closets and storage, specialty woodwork, shelving, barn doors, and French doors. Work flows from an initial consultation through 3D design and rendering, then to a build phase that uses precision CNC cutting equipment alongside skilled woodworking, and finishes with professional installation. No facility size, headcount, or annual volume figures are disclosed.
+The shop produces custom kitchens, built‑ins, closets, specialty woodwork, barn doors, French doors, and shelving. Each project moves through a four‑step process: consultation, 3D design and rendering, precision CNC cutting and skilled woodworking, and professional installation. The company emphasizes combining digital design with CNC equipment to achieve accurate fit and finish before assembly.
 
-The customer base consists of homeowners throughout Arizona seeking made-to-measure cabinetry for new construction or remodels. Projects range from full kitchen layouts to one-off built-in features and closet systems, all tailored to the specific dimensions and use cases of each space.
+Backwoods Custom serves homeowners throughout Arizona, delivering projects such as kitchen remodels, entertainment centers, home offices, walk‑in closets, and one‑of‑a‑kind woodworking pieces. All work is performed for residential clients rather than commercial or industrial accounts.
 
-The company emphasizes a “Built Different” approach: no one-size-fits-all cabinets, local Arizona craftsmanship, precision via CNC and 3D design, and attention to fit and finish from design through installation. It operates as a licensed, bonded, and insured contractor (ROC #352389).
+The company positions itself on a "built different" philosophy: no one‑size‑fits‑all cabinets, every piece designed for the specific space, locally crafted in Phoenix with quality materials, and backed by a licensed, bonded, and insured operation (ROC #352389). Attention to detail from design through final installation is cited as the primary differentiator.
 
 ## Known for
-- No one-size-fits-all cabinets; every project designed and built for the specific space
-- Locally built in Phoenix, Arizona with quality materials and skilled workmanship
-- Combines detailed 3D design with precision CNC cutting for accuracy before installation
-- Full-service process: consultation, 3D design, CNC build, professional installation
+- Every project custom‑designed and built for the specific space — no stock cabinets
+- Locally manufactured in Phoenix, Arizona with quality materials and skilled workmanship
+- Detailed 3D design paired with precision CNC cutting for accurate fit
 - Licensed, bonded, and insured (Arizona ROC #352389)
+- Full‑service flow from consultation through design, build, and installation
 
 ## Capabilities
-- Custom cabinetry design and build
-- Custom kitchen cabinetry
-- Built-in cabinetry (entertainment centers, home offices, shelving)
-- Custom closet and storage design
-- Specialty woodwork
-- Custom shelving
-- Barn door fabrication
-- French door fabrication
-- CNC cutting
-- 3D design and rendering
-- Professional installation
+- Custom Cabinetry
+- Custom Kitchens
+- Built-Ins
+- Custom Closets
+- Specialty Woodwork
+- Custom Shelving
+- Barn Doors
+- French Doors
+- CNC Cutting
 
 ## Industries
-- Residential construction
+- Residential cabinetry
 - Home remodeling
+- Custom woodworking
 
 ## Equipment
 - CNC cutting equipment
-
-## Certifications
-- Licensed, bonded, and insured
-- Arizona ROC #352389
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -676,13 +648,18 @@ The company emphasizes a “Built Different” approach: no one-size-fits-all ca
 
 <details><summary>Sources</summary>
 
-- Phoenix, Arizona location -> db
-- Backwoods Custom LLC -> /about
+- Headquarters: Phoenix, Arizona -> db
+- Company name: Backwoods Custom -> db
+- Capabilities list: Custom Cabinetry, Custom Kitchens, Built-Ins, Custom Closets, Specialty Woodwork, Custom Shelving, Barn Doors, French Doors, CNC Cutting -> db
+- Services described: Custom Kitchens, Built-Ins, Custom Closets, Specialty Woodwork, Custom Shelving, Barn Doors, French Doors -> /services
+- Process steps: Consultation, Design (3D rendering), Build (CNC cutting, woodworking), Installation -> /
 - Licensed, bonded, insured with ROC #352389 -> /
-- Custom cabinetry, kitchens, built-ins, closets, specialty woodwork, shelving, barn doors, French doors -> /services and /
-- Process: consultation, 3D design, CNC build, installation -> /
-- Uses precision CNC cutting and 3D design -> / and /services
 - Serves homes throughout Arizona -> /about
+- Locally built in Phoenix with quality materials and skilled workmanship -> /
+- Precision CNC cutting combined with 3D design -> /
+- No one-size-fits-all cabinets; every project designed for the specific space -> /
+- Attention to detail from design to installation -> /
+- Company type: designs and builds custom cabinetry -> /about
 </details>
 
 ---

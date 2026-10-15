@@ -3,54 +3,48 @@
 **Old description:** *We DO NOT repair consumer electronics, appliances or industrial equipment.
 
 ## About
-Andrew Technologies, Inc. operates as an electronic contract manufacturer from its facility in Wheeling, Illinois. The company specializes in printed circuit board assembly services for businesses across the United States, taking customer designs, fabrication data, and parts lists to produce finished board assemblies. The firm does not disclose its founding year, ownership structure, or the names of its founders.
+Andrew Technologies, Inc. operates as an electronic contract manufacturer from its facility in Wheeling, Illinois. The company's founding year and ownership structure are not publicly disclosed, and no founders are named in available materials.
 
-The shop provides a range of PCB assembly processes including surface-mount technology (SMT), pin-through-hole assembly, and press-fit component insertion. Value-added services encompass device programming, functional testing, rework, cable installation, special packaging, and parts procurement to fulfill customer bill-of-materials requirements. The company states that its production facility was designed to deliver first-class circuit board assemblies at competitive prices, though specific figures for floor space, headcount, or annual volume are not published.
+The firm specializes in printed circuit board assembly, offering surface mount, pin-through-hole, and press-fit component placement. Beyond assembly, it provides device programming, functional testing, rework, cable installation, special packaging, and parts procurement to fulfill customer designs. Facility size, headcount, annual volume, and part-number capacity are not specified.
 
-Andrew Technologies serves technology and production companies nationwide that require outsourced circuit board assembly. The company explicitly notes that it does not repair consumer electronics, appliances, or industrial equipment, focusing exclusively on new assembly work.
+Andrew Technologies serves businesses nationwide, with the company's own literature referencing technology and production companies that require printed circuit boards. No specific industry verticals or named customers are identified in the source material.
 
-The firm holds ISO 9001 certification and offers customer support in English, Spanish, and Polish.
+The company emphasizes reliability, competitive pricing, and a comprehensive service suite that includes testing every unit before shipment. Its website states that the production facility was designed to deliver first-class circuit board assemblies at competitive prices, and that it acquires parts as needed to meet design specifications.
 
 ## Known for
-- ISO 9001 certified quality management system
-- Multilingual customer support in English, Spanish, and Polish
-- Parts procurement and kitting service to complete customer BOMs
-- Functional testing performed on assembled boards
-- Dedicated to new assembly only – no repair of consumer or industrial equipment
+- Full turnkey PCB assembly including parts procurement
+- Device programming, functional testing, rework, cable installation, and special packaging
+- Multilingual support in English, Spanish, and Polish
+- Surface mount, pin-through-hole, and press-fit assembly capabilities
 
 ## Capabilities
-- Surface Mount Assembly (SMT)
+- Surface Mount Assembly
 - Pin Through Hole Assembly
-- Press-Fit Component Insertion
+- Press-Fit Components
 - Device Programming
 - Functional Testing
-- Rework and Repair
+- Rework
 - Cable Installation
 - Special Packaging
 - Parts Procurement
-- Printed Circuit Board Assembly
-
-## Industries
-- Technology
-- Production
+- Electronic Manufacturing Services
 
 ## Certifications
 - ISO 9001
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
-- **Headquarters:** Wheeling, Illinois
+- **Headquarters:** Wheeling, IL
 
 <details><summary>Sources</summary>
 
 - Location: Wheeling, IL -> /
-- Electronic contract manufacturer specializing in PCB assembly -> /
-- Services: SMT, through-hole, press-fit, programming, testing, rework, cable installation, packaging, parts procurement -> /
-- ISO9001 certification -> db
-- Languages: English, Spanish, Polish -> capabilities (db)
-- Address: 305 Alderman Ave, Wheeling, IL 60090 -> /
-- Does not repair consumer electronics, appliances, industrial equipment -> /
-- Serves businesses nationwide, technology and production companies -> /about-us
+- Business type: Electronic Contract Manufacturer -> /
+- Services: circuit board assembly, device programming, functional testing, rework, cable installation, special packaging, parts procurement -> /
+- Processes: Surface Mount Assembly, Pin Through Hole Assembly, Press-Fit Components -> db
+- Certification: ISO9001 -> db
+- Languages: English, Spanish, Polish -> db
+- Address: 305 Alderman Ave., Wheeling, IL 60090 -> /
 </details>
 
 ---
@@ -60,36 +54,29 @@ The firm holds ISO 9001 certification and offers customer support in English, Sp
 **Old description:** Andy Sanchez and his sons are celebrated furniture artists, renowned for their craftsmanship in the creation of remarkable live edge furniture adorned with beautiful stones and gems. Their distinctive pieces honor the inherent beauty of wood, maintaining its natural contours to integrate an outdoor essence indoors. Every piece is a work of art, meticulously shaped from fine woods like black walnut, alligator juniper, and eucalyptus and many other exotic woods. Every piece is not merely utilitarian but also a narrative-rich objet d'art
 
 ## About
-Based in Algodones, New Mexico, Andy Sanchez Furniture has been crafting heirloom pieces for nearly three decades. The family-owned studio was founded by Andy Sanchez and is now run with his sons Aaron and Daniel, alongside his wife Cheryl and their seven children.
+Andy Sanchez Furniture operates from Algodones, New Mexico, where Andy Sanchez and his sons Aaron and Daniel have been crafting original furniture for nearly three decades. The family-owned workshop, run by Andy and his wife Cheryl alongside their seven children, began with a commitment to creating heirloom pieces that honor the natural character of wood.
 
-The workshop produces live-edge tables, chairs, and artistic furnishings that integrate precious stones and metals into exotic woods such as black walnut, alligator juniper, and eucalyptus. Rather than imposing a design on the material, the Sanchez team lets each slab’s natural contours guide the form, often employing book-matched cuts sourced from dead-standing timber in the Gila National Forest. Every piece is built through a collaborative, iterative process with the client, including photo updates and dimensional guidance.
+The shop specializes in live-edge furniture that incorporates precious stones, gems, and metals into slabs of black walnut, alligator juniper, eucalyptus, and other exotic species. Rather than imposing a design on the material, the artisans let each log’s grain and form dictate the piece, often employing book-matched cuts sourced from dead-standing trees in the Gila National Forest. Every project is a one-off collaboration: clients exchange photos and measurements with the makers to refine dimensions, stone placement, and overall composition until the piece matches the client’s vision.
 
-The company serves residential clients and collectors seeking one-of-a-kind furniture tailored to specific spaces and stories. Customers range from homeowners commissioning dining tables to designers looking for narrative-rich objets d’art; each project begins with a conversation about the client’s vision and the wood’s inherent character.
+The clientele consists primarily of residential customers seeking custom tables, chairs, and statement pieces for their homes. Testimonials cite buyers from Pennsylvania and features in New Mexico Magazine, underscoring a reach beyond the local area. The firm does not serve commercial or industrial markets; its output is limited to bespoke, art-grade furnishings.
 
-The Sanchez philosophy centers on preserving nature’s integrity: they use only well-cured dead-standing or reclaimed wood, frequently pair stones from the same locale as the timber, and guarantee satisfaction by refining designs until the piece tells the client’s story. This wood-led approach, combined with multi-generational artistry, distinguishes their work in the custom furniture market.
+The founders’ guiding principle is to work with nature rather than alter it. As Andy Sanchez puts it, the intention is not to change what has been created but to appreciate what is already provided. This philosophy drives the use of fully cured, dead-standing timber and the practice of pairing wood with stones from the same locale, aiming to produce furniture that gains value and sentiment across generations.
 
 ## Known for
-- Wood-led design process guided by each slab’s natural contours
-- Dead-standing timber sourced from Gila National Forest
-- Book-matched cuts from hand-selected logs
-- Stones often sourced from same location as the wood
-- Iterative client collaboration with photo updates until satisfaction
+- Wood-led design process where the material dictates form
+- Exclusive use of dead-standing, fully cured timber from Gila National Forest
+- Book-matched slabs paired with stones sourced from the same location
+- Iterative client collaboration via photo sharing and measurement guidance
+- Commitment to heirloom-quality pieces that appreciate in value
 
 ## Capabilities
-- Custom furniture design
-- Live-edge woodworking
+- Live-edge furniture fabrication
 - Stone and gem inlay
-- Metal integration
 - Book matching
-- Reclaimed wood sourcing
-- Client collaborative design iteration
-- Dimensional planning assistance
-
-## Industries
-- Residential furniture
-- Custom furniture
-- Art furniture
-- Interior design
+- Custom furniture design
+- Wood selection and curing
+- Client collaboration and iterative design
+- Metal integration
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -99,16 +86,18 @@ The Sanchez philosophy centers on preserving nature’s integrity: they use only
 <details><summary>Sources</summary>
 
 - Location: Algodones, New Mexico -> db
-- Family-owned, founded by Andy Sanchez with sons Aaron and Daniel, wife Cheryl -> /about-us
-- Nearly 30 years of operation -> /about-us
-- Live-edge furniture with stone/gem inlay -> /
-- Exotic woods: black walnut, alligator juniper, eucalyptus -> /
-- Wood-led design process, book matching -> /about-us
-- Dead-standing wood from Gila National Forest -> /about-us
-- Reclaimed wood sourcing from landscapers -> /about-us
-- Iterative client collaboration with photo updates -> /about-us
-- Serves residential clients and collectors -> /
-- Guarantee satisfaction through design iteration -> /
+- Founders: Andy Sanchez, Aaron Sanchez, Daniel Sanchez -> /about-us
+- Family-owned -> /about-us
+- Nearly 30 years in business -> /about-us
+- Live edge furniture with stone and gem inlay -> /
+- Wood-led design process -> /about-us
+- Book matching technique -> /about-us
+- Use of dead-standing wood from Gila National Forest -> /about-us
+- Materials: black walnut, alligator juniper, eucalyptus, exotic woods, precious stones, gems, metals -> /, /about-us
+- Custom design collaboration with clients -> /
+- Testimonials from Deb, Pennsylvania and Dorothy Noe, New Mexico Magazine -> /
+- Goal: create heirloom pieces lasting generations -> /about-us
+- Philosophy: work with nature, not change it -> /about-us
 </details>
 
 ---
@@ -118,44 +107,44 @@ The Sanchez philosophy centers on preserving nature’s integrity: they use only
 **Old description:** Apex Wire Products Co., Inc. Specializes in CNC Wire Forming, Custom Welding, and Wire Straightening & Cutting Services
 
 ## About
-Apex Wire Products Co., Inc. was founded in 1940 in Franklin Park, Illinois, a suburb of Chicago. The company has operated continuously from this location for over 80 years, building a reputation for precision wire forming and metal fabrication.
+Apex Wire Products Co., Inc. has operated from Franklin Park, Illinois, since 1940. The company specializes in precision wire forming and metal fabrication, serving industrial customers from a facility near Chicago.
 
-The company specializes in CNC wire forming, custom welding, wire straightening and cutting, swaging, piercing, brazing, and threading. Its Franklin Park facility runs multi-axis CNC equipment capable of forming wire diameters from 0.015 to 0.472 inches in materials such as stainless steel, low-carbon steel, spring steel, copper alloys, and specialty grades. Wire straightening and cutting handles diameters up to 0.750 inches. The shop supports both prototype and high-volume production runs, with in-house tooling and fixture design enabling rapid changeovers and complete traceability at every stage.
+The company provides CNC wire forming for diameters from 0.015 to 0.472 inches, using multi-axis equipment to produce complex multi-plane geometries in stainless, low-carbon, spring steels, copper alloys, and specialty grades. In-house capabilities include MIG, TIG, and resistance welding, metal brazing, standard and custom threading, swaging, piercing, and wire straightening and cutting up to 0.750 inches. The shop handles prototype through high-volume runs with traceable documentation at each stage.
 
-Apex serves a range of industries including lighting fixtures (joist brackets), hot beverage equipment (coffee baskets), educational products (horizon cradles), transportation (bent bolts, U-bolts), medical devices (surgical instruments, orthopedic implants), food processing, automotive, and rail. Customers rely on the company for consistent, durable wire components that integrate into larger assemblies.
+Customers span lighting (joist brackets), food and beverage (stainless coffee baskets), education (horizon cradle teaching tools), transportation (bent bolts, U-bolts for automotive and rail), and medical (surgical instruments, implants). The firm also supplies wire components for general industrial assemblies.
 
-The company emphasizes quick turnaround, customer service, and ISO-certified quality systems. It differentiates itself by keeping all fabrication, joining, and finishing operations under one roof, which reduces lead times and simplifies supply chains. Apex’s stated goal is complete production and assembly from blueprint to on-time delivery, backed by traceable documentation and rigorous inspection.
+Apex emphasizes consolidated in-house production—forming, welding, brazing, threading, and finishing under one roof—to reduce lead times and simplify supply chains. Its in-house tooling and fixture design allows rapid adaptation to special shapes, and every order ships with complete material and process traceability.
 
 ## Known for
 - In-house tooling and fixture design for rapid adjustments
-- Complete production and assembly from blueprint to on-time delivery
-- Traceable documentation at every production stage
-- Wire straightening tolerance of ±0.001 inches
-- Multi-axis CNC forming for complex, multi-plane geometries
+- Complete traceability and quality documentation on every order
+- All forming, welding, brazing, threading, and finishing services under one roof
+- Wire straightening and cutting held to ±0.001 inch tolerance
+- Prototyping to high-volume production on the same equipment
 
 ## Capabilities
-- CNC wire forming (multi-axis)
-- Custom welding (MIG, TIG, resistance, silver soldering)
-- Wire straightening and cutting
+- CNC Wire Forming
+- MIG Welding
+- TIG Welding
+- Resistance Welding
+- Wire Straightening
+- Wire Cutting
 - Swaging
 - Piercing
-- Metal brazing
-- Metal threading (standard and custom)
+- Metal Brazing
+- Metal Threading
 - Subassembly
-- Secondary finishing
-- Quality inspection and traceability
-- Prototyping
-- High-volume production
-- Tooling and fixture design
-- Press brake forming
+- Secondary Finishing
+- Quality Inspection
+- Tooling & Fixture Design
+- Press Brake Forming
 
 ## Industries
-- Lighting fixtures
-- Hot beverage equipment
-- Educational products
+- Lighting
+- Food & Beverage
+- Education
 - Transportation
-- Medical devices
-- Food processing
+- Medical
 - Automotive
 - Rail
 
@@ -163,28 +152,30 @@ The company emphasizes quick turnaround, customer service, and ISO-certified qua
 - Multi-axis CNC wire forming machines
 - Wire straightening and cutting equipment
 - Swaging and piercing equipment
-- MIG/TIG/resistance welding equipment
-- Press brake
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Founded:** 1940
 - **Headquarters:** Franklin Park, Illinois
 
 <details><summary>Sources</summary>
 
-- Founded 1940 in Franklin Park, Illinois -> db (founded_year, hq_city, hq_state_label) and home page 'Since 1940'
-- Specializes in CNC wire forming, custom welding, wire straightening & cutting -> db description and home page
-- Wire diameters 0.015–0.472 in for forming, up to 0.750 in for straightening -> home page
-- Materials: stainless, low carbon, spring steel, copper alloys, specialty grades -> home page
-- Prototyping to high-volume runs -> home page
-- In-house tooling and fixture design -> home page
-- MIG, TIG, resistance welding, silver soldering -> home page and services page
-- Wire straightening tolerance ±0.001 in -> services page
-- Industries: lighting, hot beverage, educational, transportation, medical, food, automotive, rail -> home page project gallery and industries_served
-- ISO certifications mentioned -> home page
-- Team members: Matthew Kosowski (GM), Ryan Harmon (Office Manager), Carl Kosowski (Sales Manager) -> about-us page
-- Quick turnaround and customer service emphasized -> home page
+- Founded 1940 -> db
+- Headquarters Franklin Park, Illinois -> db
+- CNC wire forming diameters 0.015–0.472 inches -> /
+- Multi-axis CNC equipment -> /
+- Materials: stainless, low carbon, spring steel, copper alloys, specialty grades -> /
+- In-house tooling and fixture design -> /
+- MIG, TIG, resistance welding -> /
+- Metal brazing -> /
+- Metal threading standard and custom -> /
+- Wire straightening and cutting diameters 0.015–0.750 inches -> /
+- Tolerance ±0.001 inches on straightening and cutting -> /services
+- Industries: lighting, food & beverage, education, transportation, medical -> / and /services
+- Project examples: joist bracket, coffee basket, horizon cradle, bent bolt, U-bolt -> /
+- Team members: Matthew Kosowski, Ryan Harmon, Carl Kosowski -> /about-us
+- ISO Certifications mentioned -> /
+- Quick turnaround -> /
 </details>
 
 ---
@@ -194,38 +185,42 @@ The company emphasizes quick turnaround, customer service, and ISO-certified qua
 **Old description:** Since 1983, Apocalypse Design clothing and gear has been designed and made in Fairbanks, Alaska and used around the world.
 
 ## About
-Apocalypse Design Inc. was founded in 1983 in Fairbanks, Alaska, by Dick Flaharty, who named the company after the unclimbed 9,000-foot Apocalypse peak in the remote Revelation Mountains. The business remains family-owned and operated today, led by Flaharty's son Tyson and his wife Davya Flaharty, both lifelong Fairbanks residents and accomplished endurance athletes.
+Apocalypse Design Inc. has been designing and manufacturing rugged outdoor gear in Fairbanks, Alaska, since 1983. The company was founded by Dick Flaharty, who named the business after the Apocalypse, a 9,000-foot peak in the remote Revelation Mountains that caught his eye during a winter expedition. Today, the family-owned operation is led by Flaharty's son Tyson and his wife Davya, both lifelong Alaskans who grew up in Fairbanks and bring extensive endurance-sport experience to the brand.
 
-The company designs and sews every piece of its rugged outdoor apparel and gear in its Fairbanks facility. Its product line includes expedition parkas, anoraks, wind jackets and bibs, fleece layers, hats, and a range of packs, duffels, and accessories. Apocalypse Design also offers custom manufacturing, selecting materials and tailoring designs for extreme arctic conditions.
+Every garment and piece of equipment—from expedition parkas and wind anoraks to fleece layers, duffle bags, and backpacks—is designed and sewn at the company's Fairbanks facility on Minnie Street. The shop focuses on custom manufacturing, meticulous material selection, and innovative pattern work tailored for arctic conditions. All products carry a lifetime warranty against defects in materials and workmanship.
 
-Its gear is used worldwide by polar explorers, mountaineers, dog mushers, skiers, snowmachiners, hikers, cyclists, paddlers, scientists, filmmakers, pilots, and hunters. The company emphasizes a lifetime warranty against defects in materials and workmanship, reflecting a focus on durability for the harshest environments.
+The gear is used worldwide by outdoor adventurers, polar explorers, climbers, dog mushers, skiers, snowmachiners, hikers, cyclists, paddlers, scientists, filmmakers, pilots, and hunters who require reliable protection in extreme cold. The customer base spans professional guides, research teams, and discerning consumers seeking made-in-Alaska quality.
 
-Flaharty started the business after being inspired by the peak's formidable rock walls, and the brand's core values—protection, ingenuity, understanding, endurance, and performance—continue to drive its commitment to custom, high-quality manufacturing for adventurous life in the Arctic.
+The company's founding ethos centers on protection, ingenuity, understanding, endurance, and performance—values shaped by the founders' own adventures on Alaska's trails and mountains. By keeping design and production under one roof, Apocalypse Design maintains direct control over every stitch, ensuring that each item meets the demands of the environments that inspired its name.
 
 ## Known for
 - Lifetime warranty on all products against defects in materials and workmanship
-- All gear designed and sewn in-house in Fairbanks, Alaska
-- Custom manufacturing with innovative designs and meticulous material selection
-- Built for the harshest arctic conditions
-- Family-owned with direct founder lineage
+- Designed and sewn entirely in Fairbanks, Alaska
+- Custom manufacturing with innovative, field-tested designs
+- Family-owned and operated since 1983
 
 ## Capabilities
-- Custom manufacturing
+- Custom outdoor gear manufacturing
 - Apparel design and sewing
-- Material selection and sourcing
-- Product testing for arctic conditions
-- Lifetime warranty program
+- Material selection and testing
+- Pattern development
+- Lifetime warranty repair service
 
 ## Industries
-- Outdoor apparel and gear
-- Polar and arctic exploration
-- Mountaineering and climbing
-- Dog mushing
-- Winter sports
-- Scientific field research
-- Film and media production
-- Aviation
-- Hunting and shooting sports
+- Outdoor adventurers
+- Polar explorers
+- Climbers
+- Dog mushers
+- Skiers
+- Snow machiners
+- Hikers
+- Cyclists
+- Paddlers
+- Scientists
+- Film makers
+- Pilots
+- Sportsmen
+- Discerning consumers
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -235,16 +230,17 @@ Flaharty started the business after being inspired by the peak's formidable rock
 
 <details><summary>Sources</summary>
 
-- Founded 1983 in Fairbanks, Alaska -> /about
-- Founder Dick Flaharty named company after Apocalypse peak -> /about
-- Family-owned, co-owners Tyson and Davya Flaharty -> /about
-- All products designed and sewn in Fairbanks -> /about
-- Product categories: parkas, anoraks, wind gear, fleece, packs, bags -> /
-- Custom manufacturing and material selection -> /about
+- Founded 1983 -> db
+- Family-owned and operated -> / (homepage) and /about
+- Founder Dick Flaharty -> /about
+- Co-owners Tyson and Davya Flaharty -> /about
+- Location Fairbanks, Alaska -> / (homepage) and /about
+- Products: parkas, anoraks, fleece, wind gear, bags, backpacks -> / (homepage)
+- Custom manufacturing and meticulous material selection -> /about
 - Lifetime warranty against defects -> /about
-- Customer types: polar explorers, mushers, skiers, scientists, filmmakers, etc. -> /about
-- Core values: protection, ingenuity, understanding, endurance, performance -> /about
-- Address: 201 Minnie Street, Fairbanks, AK 99701 -> /
+- Industries served list -> /about
+- Facility address 201 Minnie Street -> / (homepage)
+- Named after Apocalypse peak in Revelation Mountains -> /about
 </details>
 
 ---
@@ -254,37 +250,40 @@ Flaharty started the business after being inspired by the peak's formidable rock
 **Old description:** With our heavy-duty Sheer and brake press, we have the capability to fabricate projects of all sizes, Rest assured, our precise equipment ensures top notch quality. We help draw and layout your projects to ensure fitment satisfaction.
 
 ## About
-Appalachian Sheet Metal & Fabrication operates from Weaverville, North Carolina, where it runs a sheet metal fabrication and welding shop The company's founding year and ownership structure are not publicly disclosed.
+Appalachian Sheet Metal & Fabrication operates from Weaverville, North Carolina. The founding year and ownership structure are not publicly disclosed. The company presents itself as a sheet metal fabrication and welding shop serving custom project needs.
 
-The shop centers on custom sheet metal work, using a heavy-duty shear and brake press to produce ductwork, chimney caps, flashing, countertops, scupper boxes, downspouts, frames, doors, fencing, gates, and Bermuda shutters. Certified welders handle structural and ornamental welding, and the team assists with layout and drawing to verify fitment before fabrication. Materials stocked include galvanized, carbon, and stainless steel, aluminum, copper, painted coil, expanded metal, tread plate, angle, and flat bar in various gauges.
+The shop runs a heavy-duty shear and brake press to cut and form sheet metal in a range of gauges and materials, including galvanized, steel, aluminum, copper, stainless steel, painted, expanded metal, tread plate, angle, flat bar, and paint grip. Core services cover duct work, chimney caps, flashing, scupper boxes, downspouts, counter tops, frames, doors, fencing, gates, Bermuda shutters, and general custom fabrication with layout and drawing assistance. Welding is performed by certified welders.
 
-Customers range from contractors needing HVAC ductwork and roof flashing to homeowners seeking custom chimney caps, shutters, or decorative metalwork. The company emphasizes its ability to take on "anything custom," suggesting a job-shop model that serves both commercial and residential projects in the western North Carolina region.
+The product list points to customers in construction, HVAC, residential and commercial building, and specialty metalwork, though the company does not explicitly name target industries. Chimney caps are highlighted as a specialty.
 
-The business highlights its precise equipment, in-house design support, and certified welding personnel as key differentiators, aiming to deliver fitment satisfaction on every project.
+The company emphasizes its in-stock material inventory, layout assistance, and certified welding as differentiators, but does not state a founding mission or unique origin story.
 
 ## Known for
+- Heavy-duty shear and brake press for all project sizes
 - Certified welders on staff
-- Heavy-duty shear and brake press for projects of all sizes
-- In-house layout and drawing assistance
-- Specializes in chimney caps
-- Stocks wide range of material gauges and types including galvanized, stainless, aluminum, and copper
+- In-stock material inventory across multiple gauges and alloys
+- Layout and drawing assistance for fitment
+- Chimney cap specialist
 
 ## Capabilities
-- Sheet metal fabrication
+- Duct Work
+- Counter Tops
+- Chimney Caps
+- Flashing
+- Inserts
+- Custom Projects
+- Layout
+- Down Spout
+- Scupper Boxes
 - Welding
-- Custom fabrication
-- Ductwork fabrication
-- Chimney cap fabrication
-- Flashing fabrication
-- Countertop fabrication
-- Layout and design
-- Downspout fabrication
-- Scupper box fabrication
-- Frame fabrication
-- Door fabrication
-- Fencing fabrication
-- Gate fabrication
-- Bermuda shutter fabrication
+- Frames
+- Doors
+- Fencing
+- Gates
+- Bermuda Shutters
+- Shear
+- Brake Press
+- Sheet Metal Fabrication
 
 ## Equipment
 - Heavy-duty shear
@@ -292,16 +291,17 @@ The business highlights its precise equipment, in-house design support, and cert
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
-- **Headquarters:** Weaverville, North Carolina
+- **Headquarters:** Weaverville, NC
 
 <details><summary>Sources</summary>
 
-- Location: Weaverville, NC (181 Reems Creek Rd Unit 7) -> db
-- Services: duct work, chimney caps, flashing, custom fabrication, welding, layout -> /
-- Materials stocked: galvanized, steel, aluminum, copper, painted, stainless, expanded, treadplate, angle, flat bar, paint grip -> /
+- Location: Weaverville, NC -> /
 - Equipment: heavy-duty shear and brake press -> /
-- Certified welders mentioned -> /
-- Phone: 828-484-8801 -> /
+- Services: duct work, chimney caps, flashing, welding, custom fabrication -> /
+- Materials: galvanized, steel, aluminum, copper, stainless steel, painted, expanded, treadplate, angle, flat bar, paint grip -> /
+- Certified welders claim -> /
+- Chimney cap specialist claim -> /
+- Layout and drawing assistance -> /
 </details>
 
 ---
@@ -311,36 +311,34 @@ The business highlights its precise equipment, in-house design support, and cert
 **Old description:** Our shop is conveniently located in the heart of Main Street in Wagner, SD but we service the entire United States with custom apparel. Call us if you’re out of town or just stop by to see a few friendly faces in the area. We are happy to meet your custom apparel needs and look forward to designing with you.
 
 ## About
-Apparel WorX operates from a 11,000-square-foot facility on Main Street in Wagner, South Dakota. The company was founded in 2014 by Rachel Woods, who began with an in-home embroidery business before expanding into a full-service print shop.
+Apparel Worx operates from an 11,000-square-foot facility on Main Street in Wagner, South Dakota. The company was founded in 2014 by Rachel Woods, beginning as a home-based embroidery venture before expanding into a full-service print shop.
 
-The shop provides custom apparel and promotional products through in-house screen printing (up to seven colors), direct-to-garment printing, embroidery, high-definition transfers, and large-format printing for signs, banners, stickers, and wall clings. Two graphic designers handle custom logo design and brand creation, and the facility also sources promotional items such as tumblers, pens, and koozies. The company reports thousands of custom orders completed annually.
+The shop provides custom apparel and promotional products using screen printing (up to seven colors), direct-to-garment printing, embroidery, high-definition transfers, and large-format printing for signs and banners. Two in-house graphic designers handle custom logo and brand design. The facility has completed thousands of custom orders for clients nationwide.
 
-Customers include businesses, schools, sports teams, and organizations across South Dakota and the broader United States. Typical orders range from employee uniforms and spirit wear to fundraiser apparel and event promotional products.
+Customers include businesses, schools, and organizations across South Dakota and the broader United States. Typical orders range from employee uniforms and spirit wear to fundraiser apparel and event promotional items such as tumblers, pens, and koozies.
 
-Woods states the goal is to deliver top-notch quality and excellent customer service, turning client ideas into tangible branded products. The company emphasizes in-house production, clear communication, and fast turnaround as its core differentiators.
+The company emphasizes in-house production, clear communication, and fast turnaround, with a stated goal of turning client ideas into tangible branded products.
 
 ## Known for
 - In-house production
-- Expert graphic designers on staff
-- Clear communication
+- Two in-house graphic designers
 - Fast turnaround
-- 11,000 sq. ft. production facility
+- Quality guaranteed
+- Local team that answers the phone
 
 ## Capabilities
 - Screen printing (up to 7 colors)
 - Direct-to-garment printing
 - Embroidery
 - Custom logo design
-- Promotional product sourcing
-- Large format printing (signs, banners, stickers, wall clings)
+- Promotional products
+- Signs and banners (large format printing)
 - High-definition transfers
 
 ## Industries
 - Businesses
 - Schools
 - Organizations
-- Sports teams
-- Events
 
 ## Equipment
 - Large format printer
@@ -355,12 +353,13 @@ Woods states the goal is to deliver top-notch quality and excellent customer ser
 - Founded in 2014 by Rachel Woods -> /about-us
 - Located in Wagner, South Dakota -> /
 - 11,000 sq. ft. production facility -> /
-- Services: screen printing (up to 7 colors), direct-to-garment printing, embroidery, high-definition transfers, large-format printing, custom logo design, promotional product sourcing -> /services
-- Serves businesses, schools, organizations across South Dakota and entire United States -> /
-- In-house production, expert graphic designers, clear communication, fast turnaround, quality guaranteed -> /
+- Services: screen printing, direct-to-garment, embroidery, custom logo design, promotional items, signs and banners, hi-def transfers -> /services
+- Serves businesses, schools, organizations across South Dakota and United States -> /
+- In-house production, expert graphic designers, fast turnaround, quality guaranteed -> /
 - Large format printer for signs and banners -> /services
+- Two graphic designers in house -> /services
+- Trusted since 2014 -> /
 - Thousands of custom orders completed -> /
-- Goal: top-notch quality and excellent customer service, turning ideas into tangible products -> /about-us
 </details>
 
 ---
@@ -374,42 +373,45 @@ _skipped: not enough facts_
 **Old description:** Explore the metrics that showcase our commitment to quality, efficiency, and groundbreaking results.
 
 ## About
-Arcamed is headquartered in Indianapolis, Indiana. The company was founded in 2012 by Greg Maurer and Kevin Etzkorn after they identified that orthopedic original equipment manufacturers (OEMs) were consistently underserved by their supply chain, facing long lead times, poor quality control, and weak customer service. The pair launched Arcamed to address those gaps with a service-first approach.
+Arcamed is based in Indianapolis, Indiana. The company was founded in 2012 by Greg Maurer and Kevin Etzkorn after they recognized that orthopedic original equipment manufacturers were consistently underserved by their supply chain, facing long lead times, poor quality control, and weak customer service.
 
-Arcamed manufactures surgical case and tray systems, precision caddies for implants, and rigid sterilization containers. The company operates a facility governed by 5S and lean manufacturing principles and employs automated optical assembly inspection, coordinate measuring machines (CMM), Micro‑Vu vision systems, and optical comparators to verify parts. While specific facility size and headcount are not disclosed, the operation supports high‑mix, low‑volume production for medical device customers.
+Arcamed manufactures surgical case and tray systems, precision caddies for implants, and rigid sterilization containers. The facility operates under 5S and Lean Manufacturing principles and is equipped with an automated optical assembly inspection system, a coordinate measuring machine (CMM), a Micro‑Vu vision system, and an optical comparator. The company reports quality metrics including 99.1 % on‑time delivery, 96.9 % on‑time‑in‑full, and 98.4 % orders defect‑free.
 
-The customer base spans enterprise, mid‑market, and startup orthopedic OEMs. Arcamed positions itself as an extension of its partners’ teams, providing design transfer support and custom branding for sterilization containers. Concrete examples include orthopedic OEMs seeking reliable case‑and‑tray solutions and medical device companies requiring precision caddies.
+The customer base spans enterprise, mid‑market, and startup orthopedic OEMs. Arcamed positions itself as an extension of its partners’ teams, providing design transfer support, validated processes, and documentation that meets regulatory requirements.
 
-The founders started Arcamed to eliminate the supply‑chain frustrations they observed in the orthopedic market. The company says its differentiators are concierge‑level service, industry‑lead times, and a relational partnership model rather than transactional selling. It emphasizes that advanced technology and operational expertise work together to deliver world‑class quality and on‑time delivery.
+The founders started Arcamed to deliver concierge‑level service, industry‑lead times, and on‑time delivery — commitments the company says differentiate it from transactional suppliers. Its quality management system is certified to ISO 13485:2016 and the facility is FDA registered.
 
 ## Known for
-- Concierge-level customer service
-- Industry-leading lead times
-- 99.1% on-time delivery rate
-- Relational partnership model
-- Integration of advanced inspection technology with lean manufacturing
+- Concierge‑level service and relational partnership model
+- Industry‑leading lead times and on‑time delivery performance
+- Validated manufacturing processes with automated optical inspection
+- 5S and Lean Manufacturing discipline throughout the facility
+- ISO 13485:2016 certification and FDA registration
 
 ## Capabilities
-- Surgical case and tray system manufacturing
-- Caddy manufacturing
-- Rigid sterilization container manufacturing
+- Surgical case and tray systems
+- Precision caddies for implants
+- Rigid sterilization containers
 - Automated optical assembly inspection
-- Coordinate measuring (CMM)
-- Vision inspection (Micro-Vu)
+- Coordinate measuring machine (CMM) inspection
+- Micro‑Vu vision system inspection
 - Optical comparator inspection
-- Lean manufacturing (5S)
+- Quality management system (ISO 13485:2016)
+- FDA regulatory compliance
 - Design transfer support
-- Custom branding for sterilization containers
+- Lean manufacturing (5S)
 
 ## Industries
-- Orthopedic OEMs
-- Medical device OEMs
-- Surgical instrument manufacturers
+- Orthopedic original equipment manufacturers (OEMs)
+- Medical device manufacturers
+- Enterprise OEMs
+- Mid‑market OEMs
+- Startup OEMs
 
 ## Equipment
 - Automated Optical Assembly Inspection System
 - Coordinate Measuring Machine (CMM)
-- Vision System (Micro-Vu)
+- Vision System (Micro‑Vu)
 - Optical Comparator
 
 ## Certifications
@@ -419,20 +421,22 @@ The founders started Arcamed to eliminate the supply‑chain frustrations they o
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 2012
-- **Ownership:** Private
 - **Headquarters:** Indianapolis, Indiana
 
 <details><summary>Sources</summary>
 
-- Headquarters: Indianapolis, Indiana -> db
 - Founded 2012 by Greg Maurer and Kevin Etzkorn -> /about
+- Headquarters Indianapolis, Indiana -> db
+- ISO 13485:2016 certified -> /
+- FDA registered -> /
 - Manufactures surgical case & tray systems, caddies, rigid sterilization containers -> /
-- ISO 13485:2016 certified and FDA registered -> /, /quality
-- Quality equipment: Automated Optical Assembly Inspection System, CMM, Micro-Vu vision system, Optical Comparator -> /quality
-- Lean manufacturing and 5S principles -> /
-- Serves enterprise, mid-market, and startup orthopedic OEMs -> /about
-- Concierge service, industry-leading lead times, on-time delivery (99.1% OTD) -> /about, /
-- Relational partnership model -> /about
+- Serves orthopedic OEMs (enterprise, mid-market, startup) -> /about
+- Quality equipment includes Automated Optical Assembly Inspection System, CMM, Vision System (Micro-Vu), Optical Comparator -> /quality
+- Quality metrics: 99.1% on-time delivery, 96.9% on-time-in-full, 98.4% orders defect-free -> /
+- 5S and Lean Manufacturing principles -> /
+- Concierge service, industry-leading lead times, on-time delivery as differentiators -> /about
+- Design transfer support -> /
+- Validated processes, documentation compliance -> /quality
 </details>
 
 ---
@@ -442,29 +446,30 @@ The founders started Arcamed to eliminate the supply‑chain frustrations they o
 **Old description:** companies which has managed to uphold this popularity the world over. Since 1951, they have been serving their world wide customers with their famous
 
 ## About
-Arch Plastics Packaging, based in Chattanooga, Tennessee, has operated since 1951. The company, organized as Arch Plastics Packaging LLC, began as a supplier of plastic containers and has grown into a dedicated producer for regulated markets.
+Arch Plastics Packaging operates from Chattanooga, Tennessee, where it has been producing plastic containers since 1951. The company, known as ARCH, began as a supplier to the pharmaceutical and personal care sectors and has remained focused on those markets.
 
-The company manufactures plastic containers primarily for the pharmaceutical and personal care sectors. Its production processes include injection blow molding (IBM) and extrusion blow molding (EBM) for high-density polyethylene (HDPE) bottles, alongside custom molding and custom packaging design. Operations adhere to current Good Manufacturing Practices (cGMP) and a Total Quality Management system, with compliance to 21 CFR 210 and 21 CFR 211. FIFO inventory control and a certificate of compliance accompany each shipment.
+The firm manufactures custom-molded plastic containers, primarily using high-density polyethylene (HDPE). Depending on volume and bottle specifications, it employs either injection blow molding (IBM) or extrusion blow molding (EBM). Quality services include first-in-first-out (FIFO) inventory control for all raw materials and finished goods, and a certificate of compliance with raw-material documentation accompanies every shipment. The company also develops custom packaging designs and colors to differentiate clients’ products.
 
-Arch Plastics serves the pharmaceutical and personal care industries, supplying containers that meet stringent regulatory requirements. Customers include brands seeking custom packaging solutions that differentiate their products on shelf.
+Arch Plastics serves the pharmaceutical and personal care industries, providing containers that meet stringent regulatory requirements. Its customer base includes brands seeking compliant, pharmaceutical-grade packaging.
 
-The company states its mission is to produce high-quality pharmaceutical-grade containers while minimizing environmental impact and promoting social governance. It emphasizes versatility, creative quick response, and customer satisfaction as drivers of its growth.
+The company emphasizes versatility and quick response as keys to its success, underpinned by strict adherence to current Good Manufacturing Practices (cGMP) and Total Quality Management (TQM) systems. Its stated mission is to deliver high-quality pharmaceutical-grade containers while minimizing environmental impact and promoting social governance.
 
 ## Known for
-- Strict compliance with 21 CFR 210/211 for pharmaceutical manufacturing
-- FIFO inventory control for raw materials and finished goods
-- Certificate of Compliance and raw material COC documentation with every shipment
-- Custom package design and color options for brand differentiation
-- Injection blow molding (IBM) and extrusion blow molding (EBM) capabilities for HDPE
+- Versatile, quick-response manufacturing approach
+- Strict cGMP and Total Quality Management compliance
+- Custom packaging design and color options
+- FIFO inventory control for all materials
+- Certificate of Compliance included with every shipment
 
 ## Capabilities
-- Injection Blow Molding (IBM)
-- Extrusion Blow Molding (EBM)
-- Custom Molding
-- Custom Packaging Design
-- cGMP Manufacturing
-- Quality Assurance (FIFO, Certificate of Compliance)
-- Regulatory Compliance (21 CFR 210/211)
+- Custom plastic container molding
+- Injection blow molding (IBM)
+- Extrusion blow molding (EBM)
+- FIFO inventory management
+- Certificate of Compliance documentation
+- Custom packaging design
+- cGMP compliant manufacturing
+- Total Quality Management (TQM) systems
 
 ## Industries
 - Pharmaceutical
@@ -484,14 +489,16 @@ The company states its mission is to produce high-quality pharmaceutical-grade c
 <details><summary>Sources</summary>
 
 - Founded in 1951 -> db
-- Headquartered in Chattanooga, Tennessee -> db, /
-- Produces plastic containers for Pharmaceutical and Personal Care Industries -> /
-- Follows cGMP and Total Quality Management System -> /
+- Headquartered in Chattanooga, Tennessee -> db and page /
+- Produces plastic containers for Pharmaceutical and Personal Care Industries -> page /
+- Follows cGMP and TQM systems -> page /
 - Certifications: FDA APPROVED, ANSI, MIL STD, CGMP -> db
-- Uses Injection Blow Molding (IBM) and Extrusion Blow Molding (EBM) for HDPE products -> /
-- Offers custom molded products and custom packaging design -> /
-- Complies with 21 CFR 210 and 21 CFR 211 -> /
-- Employs FIFO procedures and provides Certificate of Compliance with each shipment -> /
+- Uses FIFO procedures for raw materials and finished products -> db (products)
+- Provides Certificate of Compliance with each shipment -> db (products)
+- Offers custom packaging design and colors -> db (products)
+- Uses IBM or EBM processes for HDPE products -> db (products)
+- Mission: produce high-quality pharmaceutical grade plastic containers implementing GMPs and TQM -> page /
+- Vision: reliable and quality supplier globally -> page /
 </details>
 
 ---
@@ -501,35 +508,33 @@ The company states its mission is to produce high-quality pharmaceutical-grade c
 **Old description:** Solid alder furniture built in Archbold, Ohio since 1900, featuring custom Amish finishes.
 
 ## About
-Archbold Furniture has operated in Archbold, Ohio since 1900. The company is led by owner and president Pat McNamara. It began as a solid wood furniture maker and now operates three brands — Archbold Furniture, Amish Essentials, and Bob Timberlake® American Home — from its Northwest Ohio location.
+Archbold Furniture has operated in Archbold, Ohio since 1900. The company is led by owner and president Pat McNamara and now encompasses three brands: Archbold Furniture, Amish Essentials, and Bob Timberlake® American Home.
 
-The manufacturer produces solid wood furniture for every room, including bedroom, dining, living room, home office, bookcases, and kitchen storage. Construction uses select solid woods such as alder and maple, with English dovetail drawers and smooth glides. Finishes are applied by Amish craftsmen using a catalyzed conversion varnish that resists moisture, heat, and scratches, with color options matched to each wood species.
+The company manufactures solid wood furniture for every room — bedroom, dining, living room, home office, bookcases, and kitchen storage. Production uses select solid hardwoods such as alder and maple, with English dovetail drawer construction and smooth glides. Finishes are applied by Amish craftsmen using catalyzed conversion varnish for moisture, heat, and scratch resistance. The firm maintains a showroom in High Point, North Carolina, and sells through a dealer network.
 
-Products are sold through a dealer network across the United States, with a permanent showroom at the High Point market in North Carolina. The company serves residential furniture retailers and interior designers, providing downloadable dealer resources and virtual tours of its collections.
+Archbold Furniture serves the residential furniture market, supplying dealers who sell to end consumers. Its three brands address different price points and styles: the core Archbold line features solid alder with custom Amish finishes; Amish Essentials offers 100% Amish-handcrafted pieces from locally sourced hardwoods; and Bob Timberlake® American Home presents artist-designed collections built by American craftsmen.
 
-Pat McNamara states the business is dedicated to quality furniture backed by extraordinary service at a value, with a commitment to continuous improvement. Core values rooted in Christian principles — family first, integrity, embracing adversity, setting others up to succeed, and respecting the process — guide operations and customer relationships.
+The company cites its Christian values and a commitment to “quality furniture, backed by extraordinary service at a value to our customers” as guiding principles. Pat McNamara emphasizes continual improvement to ensure a satisfied customer for life. Differentiators include American-made construction since 1900, solid tops and sides, and a finish system designed for durability.
 
 ## Known for
-- Custom Amish finishes applied by Amish craftsmen using catalyzed conversion varnish
-- English dovetail drawer construction with smooth glides
-- Solid wood construction (solid tops, sides, and drawer parts)
+- Solid tops, sides, and drawer parts on all case goods
+- English dovetail drawers with smooth glides
+- Custom Amish finishes applied by Amish craftsmen
+- Catalyzed conversion varnish resistant to moisture, heat, and scratches
 - Three distinct brands under one company: Archbold Furniture, Amish Essentials, Bob Timberlake® American Home
-- Dealer support including High Point showroom, virtual tours, and downloadable resources
 
 ## Capabilities
 - Solid wood furniture manufacturing
 - English dovetail joinery
-- Custom finish application (catalyzed conversion varnish)
-- Amish handcrafted finishing
-- Furniture assembly and hardware installation
+- Catalyzed conversion varnish finishing
+- Custom Amish finishing
+- Furniture design and development
 - Dealer program management
-- Showroom and virtual tour presentation
+- Amish handcrafted furniture production
 
 ## Industries
 - Residential furniture
 - Home furnishings
-- Furniture retail (dealer network)
-- Interior design
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -539,15 +544,17 @@ Pat McNamara states the business is dedicated to quality furniture backed by ext
 
 <details><summary>Sources</summary>
 
-- Founded 1900 in Archbold, Ohio -> db
+- Founded in 1900 in Archbold, Ohio -> db
 - Owner/President Pat McNamara -> /
 - Three brands: Archbold Furniture, Amish Essentials, Bob Timberlake® American Home -> /
-- Solid wood furniture with English dovetail drawers and smooth glides -> /
-- Custom Amish finishes with catalyzed conversion varnish resistant to moisture, heat, scratches -> /
-- Dealer network with High Point showroom and virtual tours -> /
-- Core values: Christian principles, Family First, Integrity, etc. -> /
-- Materials: alder, maple, hardwoods -> /
-- Headquarters: Archbold, Ohio -> db
+- Manufactures solid wood furniture for bedroom, dining, living room, home office, bookcases, kitchen storage -> /
+- Uses select solid hardwoods including alder and maple -> /
+- English dovetail drawer construction and smooth glides -> /
+- Custom Amish finishes applied by Amish craftsmen using catalyzed conversion varnish -> /
+- High Point showroom -> /
+- Sells through dealer network -> /
+- Core values guided by Christian principles -> /
+- Commitment to quality, service, value, continual improvement -> /
 </details>
 
 ---

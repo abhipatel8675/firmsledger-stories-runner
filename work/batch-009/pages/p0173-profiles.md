@@ -3,43 +3,43 @@
 **Old description:** Ensuring the timely delivery of your products is essential for building satisfied partnerships, and we employ various strategies to manage this process. Fab-Rite's fleet of owned trucks facilitates swift product delivery within the immediate Chicagoland area and surrounding states, underscoring our commitment to efficient and reliable service.
 
 ## About
-Fab-Rite Sheet Metal operates from Des Plaines, Illinois, a suburb northwest of Chicago. The company was founded in 2007 by Pat Ryan, who began by crafting fittings for his father's HVAC business. What started as a one-person venture has grown into a team of 40 professionals.
+Fab-Rite Sheet Metal operates from Des Plaines, Illinois, a suburb northwest of Chicago. The company was founded in 2007 by Pat Ryan, who began by crafting fittings for his father's HVAC business. What started as a one-person venture has grown into a 40-person operation.
 
-The shop specializes in sheet metal fabrication, drawing on an office staff whose combined experience totals 145 years in the trade. While specific equipment and process details are not publicly listed, the company emphasizes precision craftsmanship and the ability to deliver finished parts directly via its own fleet of trucks throughout the Chicagoland area and neighboring states.
+The shop focuses on sheet metal fabrication, drawing on an office staff whose combined experience totals 145 years in the trade. While specific equipment isn't detailed publicly, the company emphasizes precision craftsmanship and relies on a fleet of owned trucks to deliver finished parts throughout the Chicagoland region and surrounding states.
 
-Fab-Rite's customer base includes the HVAC sector, where the business originated, and other industries requiring custom sheet metal components. The company positions itself as a partner for clients who value on-time delivery and consistent quality.
+Fab-Rite's early work centered on HVAC components, and the company continues to serve that sector along with other customers requiring formed and fabricated sheet metal parts. The business positions itself as a partner for clients who need reliable turnaround and consistent quality.
 
-Ryan's original vision centered on three pillars: quality, prompt delivery, and superior service. That focus remains the stated differentiator, reinforced by the owned delivery fleet and the deep institutional knowledge of the staff.
+Ryan's original vision centered on three pillars: quality, prompt delivery, and superior service. The owned delivery fleet and the deep bench of trade experience are cited as the practical differentiators that allow the company to meet those commitments.
 
 ## Known for
 - Owned truck fleet for direct delivery across Chicagoland and surrounding states
 - Office staff with 145 combined years of sheet metal trade experience
-- Quality, prompt delivery, and superior service as core operating principles
-- Grew from a one-person operation to a 40-person team since 2007
+- Founded on quality, prompt delivery, and superior service as core commitments
+- Grew from a one-person HVAC fitting operation to a 40-person fabrication shop
 
 ## Capabilities
 - Sheet metal fabrication
+- Product delivery (owned fleet)
 
 ## Industries
 - HVAC
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Founded:** 2007
 - **Employees:** 40
-- **Ownership:** Private
+- **Ownership:** Founder-owned (Pat Ryan)
 - **Headquarters:** Des Plaines, Illinois
 
 <details><summary>Sources</summary>
 
 - Founded in 2007 by Pat Ryan -> /about-us
-- Grew from one-person to 40 professionals -> /about-us
-- Office staff combined 145 years sheet metal experience -> /about-us
-- Headquarters at 74 Bradrock Dr, Des Plaines, IL 60018 -> /
-- Owned truck fleet for delivery in Chicagoland and surrounding states -> /
-- Sheet metal fabrication as core business -> /about-us
-- HVAC industry origin (father's HVAC company) -> /about-us
-- Quality, prompt delivery, superior service as cornerstones -> /about-us
+- Started crafting fittings for father's HVAC company -> /about-us
+- Team of 40 dedicated professionals -> /about-us
+- Office staff combined 145 years experience -> /about-us
+- Fleet of owned trucks for delivery in Chicagoland area -> /
+- Location: 74 Bradrock Dr, Des Plaines, IL 60018 -> /
+- Quality, prompt delivery, superior service cornerstones -> /about-us
 </details>
 
 ---
@@ -49,23 +49,32 @@ Ryan's original vision centered on three pillars: quality, prompt delivery, and 
 **Old description:** The Fabric Factory of Oklahoma City has one of the largest collections of medium to high-end upholstery and drapery fabrics in the world. Also check out our custom in-house workroom for your convenience!
 
 ## About
-Fabric Factory operates from a showroom at 1421 NW 23rd Street in Oklahoma City, Oklahoma. The company sells medium to high-end upholstery and drapery fabrics and runs a custom in-house workroom. No founding year, ownership structure, or founders are disclosed in public sources.
+Fabric Factory operates from a showroom and workroom in Oklahoma City, Oklahoma. The company's founding year and original owners are not publicly disclosed, and no founder names appear in available sources. The business presents itself as a destination for upholstery and drapery fabrics, combining a large retail inventory with on-site fabrication.
 
-The business carries a broad selection of exclusive fabrics sourced from around the world, with product lines such as Capsules Multi, Tibetan Tiger Velvet, Pink Latte's Silk Velvet, and Jelly Beanz patterns priced per yard. The in-house workroom provides custom fabrication services, though the company does not publish facility size, headcount, or annual volume figures.
+The company stocks what it describes as one of the largest collections of medium to high-end upholstery and drapery fabrics in the world, sourcing exclusive lines from international mills. In addition to selling fabric by the yard, Fabric Factory runs a custom in-house workroom that produces made-to-measure draperies, upholstery, and other soft furnishings. The retail space carries hundreds of patterns — including velvets, silk velvets, and printed cotton blends — priced per yard and displayed both in-store and online.
 
-The store serves walk-in customers and trade buyers during weekday and Saturday hours, offering fabrics by the yard and custom workroom services. Specific industry segments or named client accounts are not identified in available materials.
+Customers include interior designers, professional upholsterers, drapery workrooms, and homeowners undertaking residential or commercial projects. The showroom serves walk-in trade and ships orders placed through its e-commerce site. No specific contract clients or industry partnerships are named in public materials.
 
-Fabric Factory emphasizes the breadth of its collection, describing it as one of the largest assortments of medium to high-end upholstery and drapery fabrics in the world, and highlights the convenience of its on-site workroom for custom projects.
+Fabric Factory positions its differentiator on breadth of inventory and the convenience of pairing fabric selection with custom fabrication under one roof. The company emphasizes access to exclusive global textiles and the ability to move from selection to finished product without outsourcing the sewing work.
 
 ## Known for
 - One of the largest collections of medium to high-end upholstery and drapery fabrics
-- Exclusive fabrics sourced from around the world
-- Custom in-house workroom for fabrication
-- Showroom open six days a week
+- Custom in-house workroom for made-to-measure draperies and upholstery
+- Exclusive fabrics sourced from international mills
 
 ## Capabilities
 - Fabric retail
-- Custom workroom fabrication
+- Custom drapery fabrication
+- Custom upholstery fabrication
+- In-house workroom services
+- Fabric sourcing
+
+## Industries
+- Interior design
+- Upholstery
+- Drapery
+- Home furnishings
+- Commercial interiors
 
 ## Company details
 - **Company Type:** Retailer
@@ -73,16 +82,14 @@ Fabric Factory emphasizes the breadth of its collection, describing it as one of
 
 <details><summary>Sources</summary>
 
-- Located in Oklahoma City, Oklahoma -> db
+- Location: Oklahoma City, Oklahoma -> db
 - Address: 1421 NW 23rd Street, Oklahoma City, OK 73106 -> /
-- Phone: 405-521-1694 -> /
-- Email: sales@fabricfactoryokc.com -> /
-- Hours: Monday-Friday 10:00am-5:00pm, Saturday 10:00am-4:00pm, Sunday closed -> /
-- Sells medium to high-end upholstery and drapery fabrics -> /
-- Offers custom in-house workroom -> /
-- Carries exclusive fabrics from around the world -> /
-- Product examples: 18831 Capsules Multi, 19909 Capsules Confetti, 18600 Nola Willow, 18935 Tibetan Tiger Velvet, 16416 Pink Latte's Silk Velvet, 18493 Jelly Beanz Palm, 18638 Jelly Beanz 25 Olive, 18933 Bacchus Bluestone -> /
-- Website: fabricfactoryokc.com -> db
+- Large collection of upholstery and drapery fabrics -> /
+- Custom in-house workroom -> /
+- Exclusive fabrics from around the world -> /
+- Hours of operation -> /
+- Contact information -> /
+- Product examples (velvet, silk velvet patterns) -> /
 </details>
 
 ---
@@ -92,63 +99,57 @@ Fabric Factory emphasizes the breadth of its collection, describing it as one of
 **Old description:** Explore our vibrant collection of cotton, knit jersey, rayon, and exclusive Hawaiian print fabrics, perfect for quilting, sewing clothes, home decor, crafting, and more. Whether you're creating unique gifts or starting a new project, our fabrics bring your ideas to life.
 
 ## About
-Fabric Hawaii, operated by Muumuu Rainbow, is based in Honolulu, Hawaii. The company began in 2013 as a Hawaiian dress rental business before evolving into an experiential fabric store with a physical location in Waikiki and an online shop.
+Fabric Hawaii, operated by Muumuu Rainbow, is based in Honolulu, Hawaii. The business began in 2013 as a Hawaiian dress rental company before evolving into an experiential fabric store with a physical location in Waikiki and an online shop.
 
-The store carries cotton, knit jersey, rayon, and exclusive Hawaiian-print fabrics sold by the yard and as pre-cut scraps. It also runs block-printing workshops where participants create custom designs, offers a start-up support service for craft entrepreneurs, and produces original items such as dog apparel, furoshiki gift wraps, and fabric scrap bundles.
+The company stocks a vibrant selection of cotton, knit jersey, rayon, and exclusive Hawaiian print fabrics suited for quilting, garment sewing, home decor, and general crafting. Beyond retail, it offers original fabric creation services, a start-up support program for emerging craft businesses, and hands-on block printing workshops where participants design their own prints. The store also sells finished goods such as dog apparel and reusable gift-wrapping fabrics.
 
-Customers include hobbyist quilters, sewists, home-decor makers, and small craft businesses. During the COVID-19 pandemic the shop supplied mask-making materials at accessible prices and donated masks and kits to the community. The workshops and retail selection serve both individual creators and commercial clients looking for authentic Hawaiian textiles.
+Customers range from hobbyist quilters and sewers to small-scale crafters building product lines. During the COVID-19 pandemic, the company supplied affordable fabric for mask-making and donated masks and kits to the community. Its wholesale and retail channels serve both individual makers and business clients seeking authentic Hawaiian textiles.
 
-The founders frame the business around the Hawaiian values of kokua (help and care) and ohana (family), aiming to preserve traditional prints and pass cultural heritage to future generations through hands-on experiences rather than simply selling fabric.
+Founded on the Hawaiian principle of kokua — help and care — Fabric Hawaii aims to preserve traditional prints while fostering creative connection. The blend of curated fabrics, custom design services, and cultural workshops distinguishes it as a community-oriented fabric destination rather than a conventional supplier.
 
 ## Known for
-- Experiential fabric store blending traditional Hawaiian prints with hands-on workshops
-- Block printing workshops for custom fabric design
-- Start-up support service for craft entrepreneurs
-- Original Hawaiian-print products including pet apparel and furoshiki wraps
-- Community-driven mission preserving Hawaiian heritage (kokua, ohana)
+- Exclusive Hawaiian print fabrics curated for quilting, apparel, and decor
+- Block printing workshops enabling custom fabric design
+- Original fabric creation and start-up support for craft businesses
+- Community-focused mission rooted in the Hawaiian spirit of kokua
+- Free shipping on domestic orders over $80
 
 ## Capabilities
-- Fabric retail (cotton, knit jersey, rayon, Hawaiian prints)
-- Block printing workshops
 - Start-up support service
-- Original fabric design and creation
-- Custom fabric printing
-- Fabric scraps sales by weight
-- Furoshiki gift wrapping fabric
-- Pet apparel (dog shirts and dresses)
+- Block printing workshops
+- Custom fabric design and printing
+- Fabric retail and wholesale
+- Finished goods sewing (dog apparel, furoshiki)
+- Fabric scrap sales by weight
 
 ## Industries
 - Quilting
-- Sewing
-- Home decor
-- Crafting
-- Mask making
-- Pet apparel
-- Gift wrapping
-- Small business support
+- Apparel
+- Home Decor
+- Crafts
+- Medical (mask making)
+- Pet Apparel
+- Gift Wrapping
 
 ## Company details
 - **Company Type:** Retailer
 - **Founded:** 2013
-- **Ownership:** Operated by Muumuu Rainbow
 - **Headquarters:** Honolulu, Hawaii
 
 <details><summary>Sources</summary>
 
-- Founded 2013 -> /about-us
-- Located in Honolulu, Hawaii -> /
+- Headquartered in Honolulu, Hawaii -> /
+- Founded in 2013 as a Hawaiian dress rental company -> /about-us
 - Operated by Muumuu Rainbow -> /about-us
-- Began as Hawaiian dress rental company -> /about-us
-- Experiential fabric store with physical Waikiki location and online shop -> /about-us, /
-- Sells cotton, knit jersey, rayon, exclusive Hawaiian print fabrics -> /
-- Offers block printing workshops -> /, /about-us
-- Provides start-up support service -> /
-- Produces original products: dog apparel, furoshiki, fabric scrap bundles -> /
-- Serves hobbyist quilters, sewists, home-decor makers, small craft businesses -> /
-- COVID-19 mask-making support and donations -> /about-us
-- Mission centered on kokua and ohana, preserving Hawaiian heritage -> /about-us
-- Free shipping on orders $80+ (USA) -> /
-- Over 8000 high reviews on Etsy -> /
+- Offers cotton, knit jersey, rayon, and exclusive Hawaiian print fabrics -> /
+- Provides original fabric creation services and start-up support -> /
+- Runs block printing workshops -> /
+- Sells finished goods including dog apparel and furoshiki gift wraps -> /
+- Serves hobbyists, business crafters, quilters, and mask makers -> /, /about-us
+- Donated masks and kits during COVID-19 -> /about-us
+- Mission rooted in Hawaiian kokua spirit -> /, /about-us
+- Free shipping on orders over $80 USA -> /
+- Physical store in Waikiki -> /
 </details>
 
 ---
@@ -158,41 +159,49 @@ The founders frame the business around the Hawaiian values of kokua (help and ca
 **Old description:** Every construction project poses its own unique challenges, so FSP provides custom fabrication services to meet the needs for a variety of customer challenges. FSP is a "One-Stop Fab Shop” that provides:
 
 ## About
-Fabricated Steel Products (FSP) operates two fabrication shops in Baton Rouge, Louisiana. The company was founded in 1986 by Warren Tabor and remains family‑owned, serving the Gulf Coast region and beyond with structural and miscellaneous steel fabrication.
+Fabricated Steel Products (FSP) was founded by Warren Tabor in 1986 in Baton Rouge, Louisiana. The family-owned business began as a steel fabrication shop serving the Gulf Coast region and has since expanded its reach nationally and internationally.
 
-FSP provides structural steel fabrication, steel detailing, and engineered connection design, along with custom services such as galvanizing, plate forming, structural coating, sandblasting, and painting. The facility averages 600–900 tons of output per month and employs 75 people, including master fabricators and engineers. Equipment includes a fully automated Voortman beam line with layout, CNC plasma tables, drill lines, punch lines, and forming equipment. The shop also uses barcode tracking for every piece and offers in‑house detailing and connection design via SDS/2 and Tekla for BIM coordination and clash detection.
+Operating from two shops in Baton Rouge, FSP is an AISC-certified fabricator providing structural and miscellaneous steel fabrication, steel detailing, and engineered connection design. The company employs 75 people and produces 600–900 tons of steel per month. Its equipment includes a fully automated Voortman beam line, CNC plasma tables, drill lines, punch lines, and forming equipment. In-house detailing uses SDS/2 and Tekla for BIM project services and clash detection, while barcode tracking follows every piece through fabrication. Additional services cover galvanizing, plate forming, structural coating, sandblasting, and painting.
 
-The fabricator supplies steel to the oil, gas, petrochemical, power, paper and pulp, food processing, automotive, municipal, and defense industries. Customers range from large industrial projects to smaller orders across the Gulf Coast and internationally.
+FSP supplies structural steel to the oil, gas, petrochemical, power, paper and pulp, food processing, automotive, municipal, and defense industries. Customers range from large industrial projects to smaller orders across the Gulf Coast and worldwide.
 
-FSP emphasizes its AISC certification as a Structural Steel Building Fabricator, a family‑owned culture focused on continuous improvement, and a commitment to on‑time delivery. The company highlights barcode traceability, integrated BIM detailing, and a combined staff experience of over 150 years as key differentiators.
+The company emphasizes being large enough for any job yet small enough to align with partners, focusing on continuous improvement, safety, and family values. Its mission centers on superior products, service, and on-time delivery to build long-term partnerships.
 
 ## Known for
-- AISC certified Structural Steel Building Fabricator
-- Two fabrication shops in Baton Rouge
-- Monthly capacity of 600–900 tons
-- Barcode tracking of every fabricated piece
-- In‑house detailing and connection design with SDS/2 and Tekla
+- AISC-certified structural steel building fabricator
+- Two Baton Rouge shops with 600–900 tons monthly capacity
+- In-house detailing and connection design via SDS/2 and Tekla for BIM
+- Barcode tracking of every piece through fabrication
+- Fully automated Voortman beam line with CNC plasma, drill, and punch lines
 
 ## Capabilities
 - Structural steel fabrication
 - Miscellaneous steel fabrication
 - Steel detailing
 - Engineered connection design
-- Custom fabrication
 - Galvanizing
 - Plate forming
 - Structural coating
 - Sandblasting
 - Painting
-- Barcode tracking
-- BIM project services
+- Custom fabrication
+- CNC plasma cutting
+- CNC drilling
+- CNC punching
+- Layout
+- Forming
+- BIM services
 - Clash detection
+- Barcode tracking
+- Voortman beam line operation
+- Flux-cored arc welding (FCAW)
 
 ## Industries
-- Oil and gas
+- Oil
+- Gas
 - Petrochemical
-- Power generation
-- Paper and pulp
+- Power
+- Paper & pulp
 - Food processing
 - Automotive
 - Municipal
@@ -209,7 +218,7 @@ FSP emphasizes its AISC certification as a Structural Steel Building Fabricator,
 - Tekla software
 
 ## Certifications
-- AISC Certified Fabricator (Structural Steel Building Fabricator)
+- AISC Structural Steel Building Fabricator Certification
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -220,19 +229,18 @@ FSP emphasizes its AISC certification as a Structural Steel Building Fabricator,
 
 <details><summary>Sources</summary>
 
-- Founded 1986 by Warren Tabor -> /about-us
-- Family-owned -> /about-us
-- 75 employees -> /about-us
+- Founded by Warren Tabor in 1986 -> /about-us
+- Family-owned business -> /about-us
+- Headquarters in Baton Rouge, Louisiana -> /
 - Two shops in Baton Rouge -> /
 - AISC certified fabricator -> /
+- 75 employees -> /about-us
 - Volume 600-900 tons per month -> /
-- Voortman beam line -> /
-- CNC plasma tables, drill lines, punch lines, layout, forming equipment -> /
-- Barcode tracking -> /
-- SDS/2 and Tekla for BIM -> /
-- Industries served: oil, gas, petrochemical, power, paper & pulp, food processing, automotive, municipal, defense -> /
-- Galvanizing, plate-forming, structural coating, sandblasting, painting -> /
-- Steel detailing, engineered connection design -> /
+- Equipment: Voortman beam line, CNC plasma tables, drill lines, punch lines, layout, forming equipment -> /
+- In-house detailing with SDS/2 and Tekla for BIM and clash detection -> /
+- Barcode tracking of every piece -> /
+- Services: galvanizing, plate-forming, structural coating, sandblasting, painting, custom fabrication -> /
+- Industries served: oil, gas, petrochemical, power, paper & pulp, food processing, automotive, municipal, defense -> /about-us
 - LinkedIn URL -> db
 </details>
 
@@ -243,19 +251,19 @@ FSP emphasizes its AISC certification as a Structural Steel Building Fabricator,
 **Old description:** Fabricators Supply, LLC, is a full line steel service center based in West Point, MS. We offer our clients a large inventory, reliable service and competitive pricing. Our central location enables us to offer next-day shipping on most orders throughout the Southeast. Customers nationwide appreciate us for our processing capabilities and short lead times.
 
 ## About
-Fabricators Supply, LLC operates as a full-line steel service center from West Point, Mississippi. The company is American owned and operated, emphasizing domestic steel sourcing. No founding year or founder names are disclosed in public materials.
+Fabricators Supply, LLC operates as a full-line steel service center from West Point, Mississippi. The company describes itself as American owned and operated, supplying American-made steel. No founding year or founder names are disclosed in the available information.
 
-The business maintains a large inventory that includes structural tube — described as one of the largest tube inventories in the United States — along with channels, flats, angles, sheet, and plate. Processing services cover plasma cutting with bevel capabilities on material up to three inches thick and 10 by 60 feet in size, plus painting, small fabrication, and miter cutting.
+The business maintains a large inventory of structural tube — described as one of the largest in the United States — along with channels, flats, angles, sheet, and plate. Processing capabilities include plasma cutting with beveling on material up to three inches thick and 10 by 60 feet in size, as well as painting, small fabrication, and miter cutting.
 
-Customers nationwide draw on the company’s stock and processing, with next-day shipping available on most orders throughout the Southeast. The central Mississippi location supports short lead times for fabricators, manufacturers, and construction projects across the region.
+Customers nationwide use the company for plate processing and structural tube supply, with next-day shipping available on most orders throughout the Southeast. The firm does not specify particular industry sectors in its public materials.
 
-Fabricators Supply highlights its American ownership and domestic steel supply as a key differentiator, alongside a broad product range, competitive pricing, and the ability to deliver processed material quickly from a single source.
+Fabricators Supply emphasizes its domestic ownership and domestic steel sourcing as a point of differentiation, alongside short lead times and a broad stock range. The company announced an acquisition of Hardwick Company, though details were not provided.
 
 ## Known for
 - Next-day shipping on most orders throughout the Southeast
 - One of the largest structural tube inventories in the U.S.
 - American owned and operated, supplying American-made steel
-- Plasma cutting with bevel capabilities up to 3″ thick, 10′ × 60′
+- Plasma cutting with bevel capabilities up to 3-inch thick, 10' x 60' material
 - Painting, small fabrication, and miter cutting services
 
 ## Capabilities
@@ -264,7 +272,7 @@ Fabricators Supply highlights its American ownership and domestic steel supply a
 - Small fabrication
 - Miter cutting
 - Plate processing
-- Structural tube processing
+- Structural tube supply
 
 ## Equipment
 - Plasma tables with bevel capabilities
@@ -276,15 +284,15 @@ Fabricators Supply highlights its American ownership and domestic steel supply a
 
 <details><summary>Sources</summary>
 
-- West Point, Mississippi location -> db
-- American owned and operated -> /
-- Full line steel service center -> db
-- Large inventory, structural tube one of largest in U.S. -> /
-- Plasma tables with bevel capabilities up to 3″ thick, 10′ × 60′ -> db
-- Painting, small fabrication, miter cutting -> db
-- Next-day shipping on most orders throughout Southeast -> db
-- Part sizes up to 10′ × 21′6″ -> db
-- Products: channels, flats, angles, tube, sheet, plate -> /
+- Full line steel service center based in West Point, MS -> /
+- American owned and operated, supplying American made steel -> /
+- Next-day shipping on most orders throughout the Southeast -> /
+- Plasma tables with bevel capabilities up to 3" thick, 10' x 60' material -> /
+- Painting, small fabrication and miter cutting -> /
+- One of the largest tube inventories in the U.S. -> /
+- Products: channels, flats, angles, tube, sheet and plate -> /
+- Part sizes up to 10' x 21'6" -> /
+- Acquisition of Hardwick Company announced -> /
 </details>
 
 ---
@@ -294,42 +302,41 @@ Fabricators Supply highlights its American ownership and domestic steel supply a
 **Old description:** Fabrik Molded Plastics has been providing innovative, engineered molding solutions to the automotive, health care, electronics, consumer-industrial, and appliance markets, since 1980.
 
 ## About
-Founded in 1980, Fabrik Molded Plastics has operated from McHenry, Illinois, for over four decades, providing custom plastic injection and insert molding services to a range of industrial markets.
+Fabrik Molded Plastics was founded in 1980 in McHenry, Illinois, and has since provided engineered molding solutions to automotive, health care, electronics, consumer-industrial, and appliance markets. The company operates as a full-service custom injection molder with a focus on scientific processing methods.
 
-The company provides a full-service injection molding operation that includes scientific molding, two-shot molding, insert molding, and custom automation, supported by engineering, tooling, mold design, and CT scanning capabilities. Its facility employs modern molding and automation equipment, though specific machine models and plant size are not disclosed. Production volumes range from prototype to high-volume runs.
+The shop offers custom plastic injection and insert molding supported by scientific molding methodology, two-shot capability, in-house tooling design and transfer, engineering services, CT scanning for dimensional verification, and custom automation integration. Production ranges from prototype to high-volume runs, though specific facility size and headcount are not disclosed.
 
-Fabrik serves the automotive, healthcare, electronics, consumer industrial, and appliance markets. Documented projects include throttle bodies, LED tail light lenses, and sensors for automotive applications, as well as injection-molded flanges for medical devices.
+Its customer base spans automotive lighting and sensor manufacturers, medical device makers, electronics and appliance OEMs. Documented projects include an injected throttle body, an LED automotive tail-light lens, an insert-molded automotive sensor, a multifunctional steering column module, and an injection-molded medical flange.
 
-The company states that its scientific approach to mold building and processing is intended to produce engineered molding solutions with dimensional stability and consistent product quality.
+Fabrik highlights its scientific molding process — integrating sensors into tool design, optimizing part geometry, and monitoring production — as a key differentiator, alongside the ability to manage tooling transfers and provide turnkey automation.
 
 ## Known for
-- Scientific approach to mold building and processing
-- Full-service custom injection molding
-- Latest molding and automation equipment
-- CT scanning services
-- Tooling transfer capabilities
+- Scientific molding process with integrated sensors
+- In-house tooling design, transfer, and management
+- CT scanning for non-destructive inspection
+- Two-shot injection molding capability
+- Custom automation integration for secondary operations
 
 ## Capabilities
 - Custom plastic injection molding
 - Insert molding
 - Scientific molding
 - Two-shot injection molding
-- Custom automation services
-- Tooling transfers
-- CT scanning services
+- Tooling design and transfer
 - Engineering services
-- Tooling services
-- Mold design
-- Part design
+- Part and tool design
+- CT scanning
+- Custom automation
 - Quality control
+- Prototype to high-volume production
+- Medical component molding
+- Automotive lighting and lens molding
 
 ## Industries
 - Automotive
-- Automotive lighting
-- Healthcare
-- Medical
+- Health Care
 - Electronics
-- Consumer industrial
+- Consumer Industrial
 - Appliance
 
 ## Certifications
@@ -342,14 +349,15 @@ The company states that its scientific approach to mold building and processing 
 
 <details><summary>Sources</summary>
 
-- Founded 1980 -> db
-- Headquarters McHenry, Illinois -> db
-- Certification ISO9001 -> db
-- Capabilities: custom plastic injection molding, insert molding, scientific molding, two-shot molding, custom automation, tooling transfers, CT scanning, engineering, tooling, mold design -> homepage
-- Industries served: automotive, healthcare, electronics, consumer industrial, appliance -> homepage
-- Example projects: throttle bodies, LED tail light lenses, sensors, medical flanges -> homepage
-- Volume range: prototype to high volume production -> homepage
-- Differentiators: scientific approach, full-service, modern equipment, CT scanning, tooling transfers -> homepage
+- Founded in 1980 -> db
+- Headquartered in McHenry, Illinois -> db
+- ISO9001 certified -> db
+- Offers custom plastic injection and insert molding -> page /
+- Provides scientific molding, two-shot molding, tooling transfers, CT scanning, custom automation -> page /
+- Serves automotive, health care, electronics, consumer-industrial, appliance markets -> page /
+- Projects include throttle body, LED tail light lens, automotive sensor, steering column module, medical flange -> page /
+- Production volume from prototype to high volume -> db
+- Company type: Manufacturer -> inferred from description
 </details>
 
 ---
@@ -359,44 +367,49 @@ The company states that its scientific approach to mold building and processing 
 **Old description:** Falcon Engineering Corporation provides comprehensive multi-disciplined manufacturing services in CNC, fabrication, textiles, and slings. Fostered in a culture that promotes ingenuity and quality, Falcon employs a disciplined engineering and manufacturing process that will ensure that processes are well defined and meet all customer requirements.
 
 ## About
-Falcon Engineering Corporation operates from Mesa, Arizona, as a women-owned small business specializing in mission-critical tactical textiles and parachutes. The company has been in business for 12 years, building a reputation for engineering, cut-and-sew production, and inspection of safety-critical soft goods under a single AS9100 Rev D quality system.
+Falcon Engineering Corporation operates from Mesa, Arizona, as a women-owned small business specializing in mission-critical tactical textiles and parachutes. The company emphasizes safety-critical soft goods for commercial and military aviation, though its founding year and founders are not publicly disclosed.
 
-The manufacturer produces whole-airframe recovery parachutes for Cirrus SR20, SR22, and SF50 Vision Jet aircraft, along with T-11 and MC-6 personnel parachutes for airborne operations, LCLV, G-12, and 26-foot cargo parachutes for aerial resupply, and decelerator parachutes for high-performance aircraft such as the B-52. Its capabilities span 3D and 2D modeling, first-article prototyping, skilled cut-and-sew of canopies, lines, and harnesses, and recurring production lots—evidenced by more than 10,000 parachutes shipped and 38 National Stock Numbers across Federal Supply Class 1670.
+The firm provides engineering, prototyping, cut-and-sew production, and inspection under a single AS9100 Rev D and ISO 9001:2015 quality system. Its product line includes whole-airframe recovery parachutes for Cirrus SR20, SR22, and SF50 Vision Jet aircraft; T-11 and MC-6 personnel parachutes; LCLV, G-12, and 26-foot cargo parachutes with multi-line loop lines; and deceleration parachutes for platforms such as the B-52. Additional output covers slings, tie-downs, tactical gear, inflatables, and strap assemblies, supported by CNC machining and fabrication capabilities. The company reports more than 10,000 parachutes shipped and holds 38 National Stock Numbers under Federal Supply Class 1670.
 
-Customers include commercial aviation original equipment manufacturers and military procurement agencies across airborne, cargo, and deceleration mission areas, as well as the U.S. Forestry Service under specification 5100-86. The company also supplies tactical gear, slings, tie-downs, strap assemblies, and inflatables.
+Customers span commercial aviation (notably Cirrus Aircraft) and military sectors including airborne personnel operations, aerial resupply, and aircraft deceleration. The Forestry Service (specification 5100-86) is also listed among served markets.
 
-Falcon emphasizes that every product is treated as safety-critical, with engineering, manufacturing, and quality control consolidated under one roof to ensure soft goods work the first time. The women-owned designation and AS9100 Rev D certification underscore its focus on disciplined processes for prototype-to-production runs.
+Falcon positions itself on delivering safety-critical soft goods that must function correctly the first time, integrating design, 3D modeling, first-article build, and volume production within one certified quality system, citing a 99 percent on-time delivery rate.
 
 ## Known for
-- Engineering, cut-and-sew, and inspection under one AS9100 Rev D quality system
-- 38 parachute NSNs across FSC 1670
-- 10,000+ parachutes shipped with 99% on-time delivery
-- Women-Owned Small Business
-- Prototype-to-production capability for safety-critical soft goods
+- AS9100 Rev D and ISO 9001:2015 certified quality system
+- Women-Owned Small Business designation
+- 38 parachute NSNs under FSC 1670
+- Engineering, prototyping, cut-and-sew, and inspection in-house
+- 99% on-time delivery rate
 
 ## Capabilities
-- Engineering & prototyping (3D/2D modeling, first articles)
-- Cut-and-sew production (canopies, lines, harnesses)
-- Quality inspection & control
-- Recurring production lots
-- Parachute manufacturing (recovery, personnel, cargo, deceleration)
-- Tactical gear manufacturing
-- Slings manufacturing
-- Strap assemblies
-- Inflatables manufacturing
+- Engineering design of deceleration and recovery systems
+- 3D and 2D modeling
+- First article prototyping
+- Cut-and-sew manufacturing
+- Quality inspection and control
+- Production lot manufacturing
 - CNC machining
-- Fabrication
-- Forestry Service (5100-86)
+- Metal fabrication
+- Textile cutting and sewing
+- Sling and tie-down assembly
+- Parachute canopy and harness assembly
+- Tactical gear fabrication
+- Strap assembly
+- Inflatable fabrication
+- Forestry service equipment (5100-86)
 
 ## Industries
 - Commercial aviation
-- Military
-- Forestry Service
+- Military aviation
+- Military personnel/airborne operations
+- Military cargo and aerial delivery
+- Military aircraft deceleration
+- Forestry service
 
 ## Certifications
 - AS9100 Rev D
 - ISO 9001:2015
-- Women-Owned Small Business
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -405,121 +418,92 @@ Falcon emphasizes that every product is treated as safety-critical, with enginee
 
 <details><summary>Sources</summary>
 
-- Mesa, Arizona headquarters -> /
+- Mesa, Arizona headquarters -> db
 - Women-Owned Small Business -> /
-- AS9100 Rev D and ISO 9001:2015 certifications -> /
-- 12 years in business -> /
+- AS9100 Rev D certified -> /
+- ISO 9001:2015 certified -> /
+- 12 Years in business -> /
 - 10,000+ parachutes shipped -> /
 - 99% on-time delivery -> /
-- 38 parachute NSNs, FSC 1670 -> /
-- Products: Cirrus SR20/SR22/SF50 recovery parachutes, T-11/MC-6 personnel parachutes, LCLV/G-12/26ft cargo parachutes, B-52 deceleration parachutes -> /
-- Capabilities: engineering, prototyping, cut-and-sew, inspection, production volumes -> /
+- 38 parachute NSNs · FSC 1670 -> /
+- Engineering, cut-and-sew production and inspection under one roof -> /
+- Commercial aircraft recovery parachutes for Cirrus SR20, SR22, SF50 -> /
+- Military personnel parachutes T-11 and MC-6 -> /
+- Military cargo parachutes LCLV, G-12, 26 ft and loop lines -> /
+- Military deceleration parachutes for B-52 -> /
+- Slings, tie-downs, tactical gear, inflatables, strap assemblies -> /
+- CNC / Fabrication capabilities -> db
 - Forestry Service (5100-86) -> db
-- CNC / fabrication capabilities -> db
 </details>
 
 ---
 
 # False Bottom Fabrication
 
-**Old description:** We handle metal fabrication for homes and businesses, offering everything from custom railings to heavy-duty structures. No matter the project, we focus on quality, durability, and precision to ensure the best results.
-
-## About
-False Bottom Fabrication operates from St Onge, South Dakota, providing metal fabrication services to residential and commercial clients. The company's founding year and ownership structure are not publicly disclosed in available sources.
-
-The shop handles a range of metal fabrication projects, from custom railings to heavy-duty structures. Specific processes, facility size, headcount, and production volumes are not detailed in the input.
-
-Customers include homeowners and businesses seeking fabricated metal components. No specific industry verticals or named clients are identified beyond the general residential and commercial categories.
-
-The company states it emphasizes quality, durability, and precision as guiding principles for every project.
-
-## Known for
-- Emphasis on quality, durability, and precision
-- Broad project scope from custom railings to heavy-duty structures
-- Serves both residential and commercial clients
-
-## Capabilities
-- Custom Metal Fabrication
-
-## Industries
-- Residential construction
-- Commercial construction
-
-## Company details
-- **Company Type:** Contract manufacturer / job shop
-- **Headquarters:** St Onge, South Dakota
-
-<details><summary>Sources</summary>
-
-- Company name: False Bottom Fabrication -> db
-- Location: St Onge, South Dakota -> db
-- Service: metal fabrication for homes and businesses -> db
-- Offerings: custom railings to heavy-duty structures -> db
-- Capability: Custom Metal Fabrication -> db
-- Focus on quality, durability, precision -> page /
-- Serves residential and commercial customers -> page /
-</details>
-
----
+_skipped: not enough facts_
 
 # Feast Detroit
 
 **Old description:** Contract manufacturer for Specialty food products supporting small and medium sized food brands looking for a simple, cost-effective approach to enhance production. We have the experience and ability to assist you in taking your brand to the next level.
 
 ## About
-Feast Detroit operates from Inkster, Michigan. The company was founded by a group of small food entrepreneurs with guidance from Eastern Market, which recognized a need for a facility to help small brands scale production. Cofounders Amit Makhecha (Managing Director) and Scott Owens lead the team.
+Feast Detroit operates from Inkster, Michigan. The company was founded by a group of small food entrepreneurs, including cofounders Amit Makhecha and Scott Owens, with guidance from Eastern Market. Eastern Market recognized a need for a facility to help small food brands scale production beyond shared-use kitchens.
 
-The 16,000-square-foot climate-controlled facility provides contract manufacturing and private-label services for specialty foods. Capabilities include shelf-stable hot fill (acidified and acid), ambient fill (dry and liquid pack), cold fill with modified atmosphere packaging, a shared-use kitchen, and e-commerce fulfillment. The operation supports over 40 client companies and more than 100 SKUs.
+Feast Detroit provides contract manufacturing and private-label services for specialty food products. Its 16,000-square-foot climate-controlled facility offers shelf-stable hot-fill (acidified and acid), ambient-fill (dry and liquid pack), and cold-fill modified-atmosphere packaging lines. The company also operates a shared-use kitchen and an e-commerce fulfillment service. To date, it supports more than 40 brands and produces over 100 SKUs.
 
-Feast Detroit serves small and medium food brands, producing items such as salsas, chutneys, hot sauces, BBQ sauces, salad dressings, pickles, mustards, popped snacks, spice blends, pasta sauces, soups, and ready-to-eat entrées. Customers are typically local food entrepreneurs looking to expand beyond incubator kitchens.
+The client base consists of small and medium-sized food brands seeking to increase production volumes without the high minimum orders typical of traditional co-packers. Feast Detroit produces items such as salsas, chutneys, hot sauces, BBQ sauces, salad dressings, pickles, mustards, popped snacks, spice blends, pasta sauces, soups, and ready-to-eat entrées.
 
-The company was created to bridge the gap between shared-use kitchens and traditional co-packers that impose high minimum orders. Feast Detroit differentiates itself with low minimum order quantities, an average lead time of about three weeks, third-party GMP certification, and licensing from the Michigan Department of Agriculture and Rural Development (MDARD) plus FDA registration for acidified food production.
+The company differentiates itself with low minimum order quantities, an average lead time of about three weeks, third-party GMP certification, FDA registration for acidified foods, and a Michigan Department of Agriculture and Rural Development license.
 
 ## Known for
-- Low minimum order quantities compared to traditional co-packers
-- Average lead time of about three weeks
+- Low minimum order quantities
+- Average lead time of three weeks
 - Third-party GMP certification
-- Licensed by MDARD and FDA registered for acidified food production
-- 16,000 sq ft climate-controlled facility with shared-use kitchen and e-commerce fulfillment
+- FDA registered for acidified food production
+- 16,000 sq ft climate-controlled facility
 
 ## Capabilities
-- Contract manufacturing
-- Private label production
 - Shelf-stable hot fill (acidified)
 - Shelf-stable hot fill (acid)
-- Ambient dry pack
-- Ambient liquid pack
-- Cold fill modified atmosphere packaging
+- Ambient fill (dry pack)
+- Ambient fill (liquid pack)
+- Cold fill (modified atmosphere packaging)
 - Shared-use kitchen rental
-- E-commerce fulfillment (order monitoring, packaging, shipping)
+- E-commerce fulfillment
+- Contract manufacturing
+- Private label production
 - Test kitchen access
 
 ## Industries
 - Specialty food products
 - Small and medium food brands
+- Acidified food production
 - Local food brands
 
 ## Certifications
 - GMP
+- MDARD license
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
+- **Ownership:** Founded by small food entrepreneurs (Amit Makhecha, Scott Owens)
 - **Headquarters:** Inkster, Michigan
 
 <details><summary>Sources</summary>
 
 - Location: Inkster, Michigan -> db
-- Founded by small food entrepreneurs with guidance from Eastern Market -> /about-us
-- Cofounders: Amit Makhecha (Managing Director) and Scott Owens -> /about-us
-- Facility: 16,000 sq ft climate-controlled production and warehousing space -> /services
-- Supports over 40 companies and 100+ SKUs -> /about-us
-- Capabilities: shelf-stable hot fill (acidified, acid), ambient fill (dry pack, liquid pack), cold fill (modified atmosphere packaging), shared-use kitchen, e-commerce fulfillment -> /services
-- Products: salsas, chutneys, hot sauces, BBQ sauces, salad dressings, pickles, mustards, popped snacks, spice blends, pasta sauces, soups, ready-to-eat entrées -> /services
-- Low minimum order quantities -> /
-- Average lead time about 3 weeks -> /
+- Founders: Amit Makhecha, Scott Owens -> /about-us
+- Founded by small food entrepreneurs with Eastern Market guidance -> /about-us
+- Facility size: 16,000 sq ft climate-controlled -> /services
+- Supports over 40 companies, 100+ SKUs -> /about-us
+- Processes: shelf-stable hot fill (acidified, acid), ambient fill (dry, liquid), cold fill (MAP) -> /services
+- Shared-use kitchen and e-commerce fulfillment -> /services
+- Low MOQ -> /
+- Average lead time 3 weeks -> /
 - Third-party GMP certification -> /
-- Licensed by MDARD and FDA registered for acidified food production -> /services
-- Company type: contract manufacturer / co-packing -> /
+- FDA registered for acidified foods -> /services
+- MDARD licensed -> /services
+- Products: salsas, chutneys, hot sauces, etc. -> /services
 </details>
 
 ---
@@ -529,40 +513,43 @@ The company was created to bridge the gap between shared-use kitchens and tradit
 **Old description:** Fe1766 integrates controller, FETs, inductor, and capacitors in just 35.5 mm², delivering unmatched current density of 4.5A/mm
 
 ## About
-Ferric, Inc. was founded in 2021 and is headquartered in New York, New York. The semiconductor company was established to pioneer integrated voltage regulators (IVRs) for next-generation computing, though the founders' names and the origin story are not publicly disclosed.
+Ferric, Inc. is a semiconductor company headquartered in New York, New York, founded in 2021. The company pioneers integrated voltage regulators (IVRs) for next-generation computing, leveraging proprietary thin-film magnetic materials and CMOS-integrated ferromagnetic power inductor technology.
 
-The company designs and manufactures integrated voltage regulators that combine controller, FETs, inductor, and capacitors into a single package. Its proprietary thin-film magnetic materials technology and CMOS-integrated ferromagnetic power inductor enable converters that are more than 10 times smaller than conventional discrete solutions. Ferric holds over 40 patents built on a decade of research and offers product lines including the Fe1728 flexible multi-output converter, the Fe1736 16-phase buck converter, the Fe1766 ultra-high current density IVR, and the Fe1767 Newport dual-sided IVR for vertical power delivery.
+Ferric designs and manufactures a family of IVR products including the Fe1728 flexible multi-output converter, the Fe1736 16-phase buck converter, the Fe1766 ultra-high current density IVR, and the Fe1767 Newport dual-sided IVR. The Fe1766 delivers 160 A in an 8×4.4 mm² package with 4.5 A/mm² current density and 93% conversion efficiency, while the Fe1767 Newport provides 145 A TDC in an 8.9×5.6 mm², 1.2 mm thick package. The company holds over 40 patents stemming from a decade of research and claims its solutions are more than 10× smaller than conventional discrete approaches.
 
-Ferric serves AI and data center operators, high-performance computing customers, and mobile and consumer electronics manufacturers. Its IVRs have been proven in Apple products since 2021 and are targeted at hyperscaler environments where energy reduction is critical. The company's solutions scale across multiple power domains, supporting applications from AI accelerators to compact consumer devices.
+Ferric targets AI and data center operators, high-performance computing clusters, and mobile and consumer electronics manufacturers. Its technology has been proven in Apple products since 2021, and the company emphasizes scalability for hyperscaler environments. Integration options include back-side PCB attach, land-side package attach, dual-side attach, substrate embedding, die-side attach, and PCB embedding for vertical power delivery.
 
-Ferric states that its technology sets a new standard for current density, performance, and flexibility. The company emphasizes the highest current density in the industry (4.5 A/mm²), elimination of bulky discrete components with up to 74% component count reduction, and true vertical power delivery through dual-sided packaging. An ISO 9001:2015 certified quality management system underpins its commitment to continuous improvement and customer satisfaction.
+Ferric states its differentiation lies in the highest current density in the industry, elimination of bulky discrete components, and up to 74% component count reduction. The proprietary thin-film magnetic material breakthrough enables integrated power management with >10 MHz regulation bandwidth and 90–93% conversion efficiency, simplifying system design and improving power integrity.
 
 ## Known for
-- World's smallest, most efficient IVRs
-- Highest current density in industry (4.5 A/mm²)
-- Eliminates bulky discrete components, reducing count up to 74%
 - Proprietary thin-film magnetic materials technology
-- ISO 9001:2015 certified quality management
+- CMOS-integrated ferromagnetic power inductor technology
+- Highest current density in the industry (4.5 A/mm²)
+- Reduces component count by up to 74%
+- >10× smaller than conventional discrete solutions
+- 40+ patents built on a decade of research
+- ISO 9001:2015 certified quality management system
 
 ## Capabilities
-- Integrated Voltage Regulator (IVR) design
-- CMOS-integrated ferromagnetic power inductor technology
-- Thin-film magnetic materials technology
-- Vertical power delivery
-- Back Side PCB Attach
-- Land Side Package Attach
-- Land Side with Dual-side Attach
-- Substrate Embedded integration
-- Die Side Package Attach
-- PCB Embedded integration
-- Multi-phase buck converter design
-- Multi-output configurable power domains
+- Integrated Voltage Regulator (IVR) design and manufacturing
+- Thin-film magnetic materials deposition
+- CMOS-integrated ferromagnetic power inductor fabrication
+- Vertical power delivery integration
+- Back-side PCB attach
+- Land-side package attach
+- Dual-side attach
+- Substrate embedded integration
+- Die-side package attach
+- PCB embedded integration
+- Failure analysis
+- Quality management (ISO 9001:2015)
 
 ## Industries
 - AI and Data Centers
 - High-Performance Computing
 - Mobile and Consumer Electronics
-- Hyperscalers
+- Other Applications
+- Hyperscaler environments
 
 ## Certifications
 - ISO 9001:2015
@@ -574,19 +561,22 @@ Ferric states that its technology sets a new standard for current density, perfo
 
 <details><summary>Sources</summary>
 
-- Founded 2021 -> db
-- Headquarters New York, NY -> db and homepage
-- Semiconductor company pioneering IVRs -> homepage
-- Proprietary thin-film magnetic materials technology -> homepage
-- CMOS-integrated ferromagnetic power inductor technology -> homepage
-- 40+ patents, decade of research -> homepage
-- Product lines: Fe1728, Fe1736, Fe1766, Fe1767 Newport -> homepage
-- Current density 4.5 A/mm², >10x smaller than conventional -> homepage
-- Industries: AI and Data Centers, High-Performance Computing, Mobile and Consumer Electronics -> homepage
-- Proven in Apple products since 2021 -> homepage products list
-- ISO 9001:2015 certified -> quality page
-- RoHS compliance -> quality page
-- Integration methods: Back Side PCB Attach, Land Side Package Attach, etc. -> homepage
+- Founded in 2021 -> db
+- Headquartered in New York, NY -> db
+- Semiconductor company pioneering IVRs -> /
+- Proprietary thin-film magnetic materials technology -> /
+- CMOS-integrated ferromagnetic power inductor technology -> /
+- 40+ patents built on a decade of research -> /
+- Product lines: Fe1728, Fe1736, Fe1766, Fe1767 Newport -> /
+- Fe1766 delivers 160A in 8x4.4mm, 4.5 A/mm², 93% efficiency -> /
+- Fe1767 Newport delivers 145A TDC in 8.9x5.6mm, 1.2mm thick -> /
+- Fe1736 delivers 56A in 20mm² -> /
+- Fe1728 reduces component count by up to 74% -> /
+- Industries: AI and Data Centers, High-Performance Computing, Mobile and Consumer Electronics -> /
+- Proven in Apple products since 2021 -> /
+- Integration options: back-side PCB attach, land-side package attach, dual-side attach, substrate embedded, die-side attach, PCB embedded -> /
+- ISO 9001:2015 certified -> /quality
+- RoHS compliance -> /quality
 - LinkedIn URL -> db
 </details>
 

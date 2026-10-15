@@ -3,44 +3,39 @@
 **Old description:** NIEHOFF is one of the world’s leading manufacturers and suppliers of wire drawing machines and drawing lines for the wire and cable industry. At NIEHOFF, we develop products and produce solutions to ensure our customers are in good hands. We provide solutions for both capital investments and after-sales support, as well as a comprehensive service program.
 
 ## About
-Niehoff Endex North America operates from a production site in Swedesboro, New Jersey, as the North American representative of the Niehoff Group, a global manufacturer of wire drawing machines and drawing lines. The company has supported the North American wire and cable market for over 25 years, functioning as a subsidiary of the German-based Niehoff Gruppe.
+Niehoff Endex North America operates from Swedesboro, New Jersey, serving as the North American arm of a global machinery builder. The business traces its roots through Endex, which was part of Bekaert Corporation in Lakewood, New Jersey until 1999. The company states it brings more than 25 years of experience to the wire and cable sector, though a specific founding year for the current entity is not disclosed.
 
-The company designs and builds wire drawing machines, drawing lines, and continuous lead extruder machines for cable stripping. It delivers turnkey solutions covering drawing, bunching, stranding, braiding, galvanic plating, and inductive annealing of wire and alloys. In addition to capital equipment, Niehoff Endex provides a full lifecycle service program that includes commissioning, operational support, maintenance, modernization, and spare parts supply from its Swedesboro facility.
+The company designs and builds wire drawing machines and complete drawing lines for cable production. Its product range also includes continuous lead extruder machines for cable stripping. Beyond equipment supply, Niehoff Endex delivers turnkey projects and a full-service portfolio organized under commissioning, operation, support, and modernization programs. Spare parts are stocked and supplied as original components. Facility size, headcount, and annual output figures are not published.
 
-Its customers span the building, infrastructure, automotive, telecommunications, electronics, and industrial sectors, with a focus on power and communication cable producers. The company serves both new capital investment projects and after-sales needs for existing machinery installations.
+Customers span the wire and cable industry broadly, with noted focus on telecommunications, electronics, automotive, and power cable manufacturers. The firm positions itself as a partner for both capital investments and after-sales support, addressing needs from new line installation to productivity improvements on existing assets.
 
-Niehoff Endex emphasizes a single-source approach, combining equipment manufacturing with comprehensive after-sales services under its NIEHOFF LifeCycle framework. The local team in Swedesboro aims to provide rapid technical support and spare parts delivery to minimize downtime for cable manufacturers.
+Niehoff Endex emphasizes a "comprehensive service program" as its differentiator, combining engineering, commissioning, ongoing operational support, and modernization to extend machine life. The company describes its approach as developing products and producing solutions to keep customers "in good hands," framing reliability and long-term partnership as core to its offering.
 
 ## Known for
-- Complete solutions from a single source: equipment, commissioning, and lifecycle services
-- Over 25 years serving the North American wire and cable market
-- Local production site and spare parts inventory in Swedesboro, NJ
-- Turnkey solutions for drawing, bunching, stranding, braiding, and annealing
-- Subsidiary of the global Niehoff Group
+- Comprehensive service program covering commissioning, operation, support, modernization, and spare parts
+- Turnkey project capabilities for wire and cable production lines
+- Modernization services to extend machine service life
+- Original spare parts supply for all equipment
+- More than 25 years of experience in the wire and cable industry
 
 ## Capabilities
-- Wire drawing
-- Bunching
-- Stranding
-- Braiding
-- Galvanic plating
-- Inductive annealing
-- Continuous lead extrusion
+- Wire drawing machine manufacturing
+- Drawing line manufacturing
+- Continuous lead extruder machine manufacturing
+- Cable stripping equipment
+- Turnkey project execution
 - Commissioning services
-- Operational support services
-- Maintenance and support services
+- Operation support services
+- Technical support services
 - Modernization and retrofit services
 - Spare parts supply
-- Turnkey project execution
 
 ## Industries
-- Building and infrastructure
-- Automotive
+- Wire and cable
 - Telecommunications
 - Electronics
-- Industrial applications
-- Power cable manufacturing
-- Communication cable manufacturing
+- Automotive
+- Power cables
 
 ## Equipment
 - Wire drawing machines
@@ -49,20 +44,18 @@ Niehoff Endex emphasizes a single-source approach, combining equipment manufactu
 
 ## Company details
 - **Company Type:** Manufacturer
-- **Ownership:** Subsidiary of Niehoff Gruppe
 - **Headquarters:** Swedesboro, New Jersey
 
 <details><summary>Sources</summary>
 
-- Headquarters in Swedesboro, NJ -> db
-- North American representative of Niehoff Group -> /
-- Over 25 years supporting North American market -> /
-- Subsidiary of Niehoff Gruppe -> /
-- Manufactures wire drawing machines, drawing lines, continuous lead extruder machines -> /
-- Turnkey solutions for drawing, bunching, stranding, braiding, galvanic plating, inductive annealing -> /
-- Lifecycle services: commissioning, operation, support, modernization, spare parts -> /
-- Industries served: building, infrastructure, automotive, telecommunications, electronics, industrial -> /
-- Address: 1 Mallard Court, Swedesboro, NJ 08085 -> /
+- Headquarters in Swedesboro, New Jersey -> db
+- Manufacturer of wire drawing machines and drawing lines -> db
+- Continuous lead extruder machines for cable stripping -> db
+- Turnkey projects and modernization services -> db
+- Service portfolio: commissioning, operation, support, modernization, spare parts -> db
+- Industries: wire and cable, telecommunications, electronics, automotive, power cables -> db
+- Endex part of Bekaert Corporation in Lakewood, NJ until 1999 -> db
+- More than 25 years of experience in wire and cable industry -> db
 - LinkedIn URL -> db
 </details>
 
@@ -73,45 +66,43 @@ Niehoff Endex emphasizes a single-source approach, combining equipment manufactu
 **Old description:** Nimbletronics was founded to provide the ultimate environment to effectively support our number one goal as a team:
 
 ## About
-Nimbletronics, LLC was founded in 2006 in Plano, Texas, by Chester Nguyen and Cuong Nguyen. The company emerged from a core team that had worked together since 2006 through multiple acquisitions of Texas Prototypes (later known as TXP, Asymblix, and Circuitronics). Chester Nguyen, CEO, holds a BS in Computer Science with an electrical engineering concentration from the University of Texas at Austin and previously wrote test scripts for NVIDIA, Creative Labs, and Ixia. Cuong Nguyen brings 29-plus years of industry experience, including roles at Hitachi Semiconductor and Murata Manufacturing.
+Nimbletronics, LLC was founded in 2006 in Plano, Texas, by Chester Nguyen and Cuong Nguyen. Both owners brought decades of electronics manufacturing experience from prior roles at companies such as NVIDIA, Creative Labs, Hitachi Semiconductor, and through multiple acquisitions of Texas Prototypes, TXP, Asymblix, and Circuitronics. The company emerged from a core team that had worked together since 2006, surviving three acquisitions before establishing Nimbletronics as an independent contract manufacturer.
 
-The company operates a humidity-controlled, 20-foot-ceiling facility in the 900-acre Research/Technology Crossroads district, running two SMT lines equipped with Juki pick-and-place machines (2050RE, 2060RE, 2050RL, 2060RL), EKRA and Juki G-Titan screen printers, and Heller 1809EXL reflow ovens with nitrogen capability. Nimbletronics specializes in quick-turn PCB assembly—supporting 01005/0201 components, 0.20 mm pitch placement, flip-chip, CSP, BGA, PoP, and leadless packages—along with through-hole, rework, clean/no-clean processes, and both RoHS and tin-lead soldering. Services extend to top-level mechanical assembly, cabling, flying-probe testing (via partner), turnkey solutions, DFM feedback, and layout design. Turnaround options range from same-day to 25 days for prototypes, revision re-spins, alpha/beta builds, and low-to-mid-volume production.
+The company provides electronics manufacturing services with a focus on quick-turn printed circuit board assembly for low-volume, high-mix orders. Its 20-foot-ceiling, humidity-controlled facility in the Dallas/Fort Worth Metroplex’s Research/Technology Crossroads district houses two SMT lines equipped with Juki pick-and-place machines, Heller nitrogen reflow ovens, EKRA screen printers, and automated optical and X-ray inspection. Processes cover surface-mount placement down to 0.20 mm pitch (including 01005 and 0201 components), through-hole, rework, clean and no-clean chemistries, and both RoHS lead-free and tin-lead soldering. Additional services include top-level mechanical assembly, cabling, flying-probe test (via partner), turnkey procurement, DFM feedback, and PCB layout and design. The shop handles prototypes, revision re-spins, alpha and beta builds, and low-to-mid-volume production with turn times ranging from same-day to 25 days.
 
-Nimbletronics serves engineers and OEMs across semiconductor, medical, telecommunications, defense, security, audio, video, industrial, energy, RF, and network markets.
+Nimbletronics serves engineers and OEMs across semiconductor, medical, telecommunications, defense, security, audio, video, industrial, energy, radio-frequency, and network markets. Customers typically require rapid iteration on complex designs, such as fine-pitch BGAs, chip-scale packages, stacked die, and rigid-flex circuits.
 
-The founders started Nimbletronics to create an environment focused on delivering on customer promises, citing a family-like culture that kept the team cohesive through three acquisitions. Their vision is to help engineers and OEMs realize designs quickly, and their mission emphasizes a dynamic environment for reliable on-time delivery with high quality.
+The founders created Nimbletronics to build a “family-like, yet professional” culture that prioritizes on-time delivery and quality without bureaucracy. The team’s continuity through prior acquisitions is cited as proof of its ability to adapt quickly to changing customer demands, and the company’s mission is to provide a dynamic environment that turns engineers’ visions into reality on schedule.
 
 ## Known for
-- Same-day to 25-day turnaround options for quick-turn PCB assembly
-- Placement capability down to 0.20 mm pitch and 01005/0201 components
-- DFM feedback, turnkey solutions, and in-house layout/design support
-- Core team intact since 2006 through multiple acquisitions
+- Same-day to 25-day turnaround options
+- Fine-pitch placement down to 0.20 mm and 01005/0201 components
+- Dual SMT lines with nitrogen reflow and automated optical/X-ray inspection
+- In-house DFM review and PCB layout/design support
+- Core team intact since 2006 through three acquisitions
 
 ## Capabilities
+- Quick-turn PCB assembly
 - Surface Mount Technology (SMT)
 - Through-hole assembly
 - Rework and repair
 - Clean and no-clean processes
 - RoHS (lead-free) and tin-lead soldering
-- Quick-turn prototype assembly (same-day to 25 days)
-- Low to mid-volume production
+- Fine-pitch placement (0.20 mm pitch, 01005, 0201, 0301)
+- Stacked capacitor assembly
+- Wafer-level and WLCSP/CSP assembly
+- Flip chip and stacked CSP
+- uBGA, BGA, Package on Package (PoP)
+- QFP, TSSOP, SOP, SOT, DPAK placement
+- Leadless packages (QFN, XDFN, MLP, TDFN, DFN, VQFN)
 - Top-level mechanical assembly
-- Cabling and wiring
-- Flying probe testing (outsourced partner)
-- Turnkey solutions
-- DFM feedback
-- Circuit board layout and design
-- Panelization support
-- Flex circuit assembly
-- Rigid-flex circuit assembly
+- Cabling and wiring harness assembly
+- Flying probe test (outsourced partner)
+- Turnkey procurement and supply chain management
+- DFM feedback and design review
+- PCB layout and design services
+- Flex and rigid-flex circuit assembly
 - Backplane assembly
-- 0.20 mm pitch placement
-- 01005/0201 component placement
-- Flip chip and CSP/BGA/PoP placement
-- Leadless package placement (QFN, DFN, etc.)
-- X-ray inspection
-- Selective soldering
-- Conceptronics Freedom rework system
 
 ## Industries
 - Semiconductor
@@ -127,18 +118,19 @@ The founders started Nimbletronics to create an environment focused on deliverin
 - Network
 
 ## Equipment
-- Juki G-Titan screen printer with 2D solder paste inspection
-- Juki 2050RE pick and place (2 units)
-- Juki 2060RE pick and place
+- Screen Printer Juki G-Titan with 2-D Solder Paste Inspection
+- Pick and Place Juki 2050RE (two units)
+- Pick and Place Juki 2060RE
 - Juki TR6 Matrix Tray Changer
-- Heller 1809EXL reflow oven (9 heating + 2 cooling zones, nitrogen)
-- EKRA X5 screen printer with 2.5D solder paste inspection
-- Juki 2050RL pick and place (2 units)
-- Juki 2060RL pick and place
-- Heller 1809EXL reflow oven (9 heating + 2 cooling zones)
-- Conceptronics Freedom rework system
-- Scienscope X-Scope2000 X-ray
-- ACE KISS 103 selective solder machine
+- Reflow Oven Heller 1809EXL – 9 Heating + 2 Cooling Zones + Nitrogen
+- Screen Printer EKRA X5 with 2 ½-D Solder Paste Inspection
+- Pick and Place Juki 2050RL (two units)
+- Pick and Place Juki 2060RL
+- Juki TR6 Matrix Tray Changer (second line)
+- Reflow Oven Heller 1809EXL – 9 Heating + 2 Cooling Zones
+- Rework Station – Conceptronics Freedom
+- X-Ray Inspection – Scienscope X-Scope2000
+- Selective Solder Machine – ACE KISS 103
 
 ## Certifications
 - RoHS
@@ -146,25 +138,26 @@ The founders started Nimbletronics to create an environment focused on deliverin
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
 - **Founded:** 2006
+- **Ownership:** Owner-operated
 - **Headquarters:** Plano, Texas
 
 <details><summary>Sources</summary>
 
-- Founded 2006 -> db, /about-us
-- Headquarters Plano, Texas -> db, /about-us, /capabilities
-- Founders Chester Nguyen (CEO) and Cuong Nguyen (Owner) -> /about-us
-- Facility: humidity-controlled, 20 ft ceilings, 900-acre RT district -> /capabilities
-- Two SMT lines with Juki pick-and-place, EKRA/Juki screen printers, Heller reflow ovens -> /capabilities
-- Processes: SMT (01005, 0201, 0.20mm pitch), through-hole, rework, clean/no-clean, RoHS/tin-lead -> /capabilities
-- Services: top-level assembly, mechanical assembly, cabling, flying probe (partner), turnkey, DFM, layout/design -> /capabilities
-- Turn times: same day to 25 days -> /capabilities
-- Volume: prototypes, revision re-spins, alpha/beta, low to mid volume -> /capabilities
-- Industries served: semiconductor, medical, telecommunications, defense, security, audio, video, industrial, energy, RF, network -> /capabilities
-- Equipment list as above -> /capabilities
-- Certification: RoHS -> db, /capabilities
-- Materials: PCB substrates and finishes -> /capabilities
-- Company type: Electronics Manufacturing Services Provider -> / (home page)
-- LinkedIn URL -> db
+- Founded 2006 -> db
+- Headquarters Plano, Texas -> db
+- Owners Chester Nguyen (CEO/Owner) and Cuong Nguyen (Owner) -> /about-us
+- Core team together since 2006 through three acquisitions -> /about-us
+- Facility: humidity-controlled, 20 ft ceilings, Plano TX, Research/Technology Crossroads district -> /capabilities
+- Two SMT lines with Juki pick-and-place, Heller reflow, EKRA screen printers -> /capabilities
+- Processes: SMT down to 0.20 mm pitch, 01005/0201, through-hole, rework, clean/no-clean, RoHS and tin-lead -> /capabilities
+- Additional services: top-level assembly, mechanical assembly, cabling, flying probe (partner), turnkey, DFM, PCB layout/design -> /capabilities
+- Volume: prototypes, revision re-spins, alpha/beta runs, low-to-mid volume -> /capabilities
+- Turn times: Same Day, 1-Day, 2-Day, 3-Day, 5-Day, 7-Day up to 25-Days -> /capabilities
+- Industries served: Semiconductor, Medical, Telecommunications, Defense, Security, Audio, Video, Industrial, Energy, RF, Network -> /capabilities
+- Equipment list as detailed -> /capabilities
+- Certification: RoHS -> db
+- Materials: PCB substrates and finishes listed -> /capabilities
+- Mission/vision: family-like culture, on-time delivery, dynamic environment -> /about-us
 </details>
 
 ---
@@ -174,32 +167,37 @@ The founders started Nimbletronics to create an environment focused on deliverin
 **Old description:** Norck is a precision machine shop offering screw machining and CNC services. Manufactures precision-turned parts and machined components for medical, aerospace and defense industries.
 
 ## About
-Norck Inc. operates from Irvine, California, where it was founded in 1984. The company runs as a precision machine shop and contract manufacturer, though its ownership structure and founding individuals are not publicly disclosed.
+Norck Inc. was founded in 1984 in Irvine, California. The company operates as a precision machine shop and on-demand manufacturing platform. No founders or ownership details are disclosed.
 
-Norck provides on-demand custom manufacturing services including CNC machining (turning, milling, grinding, honing), sheet metal fabrication (laser, plasma, and waterjet cutting), 3D printing and additive manufacturing, injection molding, urethane casting, composite material manufacturing, and rapid prototyping. With a staff of 10 to 49 employees, the company maintains its own production capacity while also managing a network of hundreds of vetted manufacturing partners across the United States, Germany, and Europe. Engineering and design support, including design-for-manufacturability feedback and a proprietary web-based CAD tool called RapidCAD, complement the production offering.
+Norck provides CNC machining (turning, milling, grinding, honing), 3D printing and additive manufacturing, sheet metal fabrication (laser, plasma, and waterjet cutting), injection molding, urethane casting, composite material manufacturing, and rapid prototyping. The firm maintains its own production capacity and also accesses a network of hundreds of vetted manufacturing partners across the United States, Germany, and Europe. Headcount is in the 10–49 range, and the company supports volumes from single prototypes to full-scale production.
 
-The company serves customers in medical, aerospace, defense, robotics, energy, electronics, automotive, industrial equipment, and consumer products. Published case studies reference collaborations with Blade Science s.r.o., Alfons Haar Svenska AB, H2 Pulse, The Vita Group, Stamas Solutions, and Denver 3D print company, among others, illustrating a client base that spans startups and established firms in multiple sectors.
+Norck serves medical, aerospace, defense, robotics, energy, electronics, automotive, industrial equipment, and consumer products industries. Customer case studies reference Blade Science s.r.o., Alfons Haar Svenska AB, H2 Pulse, The Vita Group, Stamas Solutions, Ahatech, Dott Achillas, a Denver 3D printing company, Nuvision, Fenix, PDC International, Muraplast, Foresee Biosystems, Fasco Machine, Rupp Austria, DuraBelt, and Gunter Beck.
 
-Norck emphasizes supply chain resilience through its diversified provider network, AI-augmented engineering processes, and a carbon-neutral supplier preference program. Its ISO 9001:2015 certification underpins a quality management system focused on continuous improvement and customer-centric service.
+The company emphasizes supply-chain resilience through its distributed partner network, AI-augmented engineering tools such as the proprietary RapidCAD web-based CAD application, and a carbon-neutral supplier priority program. Engineering design support and design-for-manufacturability feedback are offered from concept through production.
 
 ## Known for
-- Access to hundreds of vetted manufacturing partners across the US, Germany, and Europe
-- AI-augmented engineering support with proprietary RapidCAD software
+- Access to hundreds of vetted manufacturing partners across the U.S., Germany, and Europe
+- AI-augmented engineering with proprietary RapidCAD software
+- Carbon-neutral supplier priority program
 - ISO 9001:2015 certified quality management system
-- Supply chain resilience via diversified provider network
-- Carbon-neutral supplier preference program
+- Engineering design support from prototype to full-scale production
 
 ## Capabilities
-- CNC machining (turning, milling, grinding, honing)
-- Sheet metal fabrication (laser cutting, plasma cutting, waterjet cutting)
-- 3D printing/additive manufacturing
+- CNC turning
+- CNC milling
+- CNC grinding
+- CNC honing
+- 3D printing (additive manufacturing)
+- Sheet metal fabrication
+- Laser cutting
+- Plasma cutting
+- Waterjet cutting
 - Injection molding
 - Urethane casting
 - Composite material manufacturing
 - Rapid prototyping
-- Engineering and design services
+- Engineering design services
 - Design for manufacturability feedback
-- RapidCAD web-based CAD application
 
 ## Industries
 - Medical
@@ -209,8 +207,8 @@ Norck emphasizes supply chain resilience through its diversified provider networ
 - Energy
 - Electronics
 - Automotive
-- Industrial Equipment
-- Consumer Products
+- Industrial equipment
+- Consumer products
 
 ## Certifications
 - ISO 9001:2015
@@ -223,15 +221,17 @@ Norck emphasizes supply chain resilience through its diversified provider networ
 
 <details><summary>Sources</summary>
 
-- Founded in 1984 -> db
-- Headquarters in Irvine, California -> db
+- Founded 1984 in Irvine, California -> db
 - Employee count 10-49 -> db
-- ISO 9001:2015 certified -> /
-- Offers CNC machining, sheet metal fabrication, 3D printing, injection molding, urethane casting, composite manufacturing, rapid prototyping -> /
-- Serves medical, aerospace, defense, robotics, energy, electronics, automotive, industrial equipment, consumer products -> /
-- Own production capacity plus network of hundreds of providers in US, Germany, Europe -> /
-- Engineering support with AI-augmented tools like RapidCAD -> /
-- Case studies with Blade Science s.r.o., Alfons Haar Svenska AB, H2 Pulse, The Vita Group, Stamas Solutions, Denver 3D print company -> /
+- ISO 9001:2015 certification -> /
+- Services: CNC machining, 3D printing, sheet metal fabrication, injection molding, urethane casting, composite manufacturing, rapid prototyping -> /
+- Industries served: medical, aerospace, defense, robotics, energy, electronics, automotive, industrial equipment, consumer products -> /
+- Customer examples: Blade Science s.r.o., Alfons Haar Svenska AB, H2 Pulse, The Vita Group, Stamas Solutions, Ahatech, Dott Achillas, Denver 3D print company, Nuvision, Fenix, PDC International, Muraplast, Foresee Biosystems, Fasco Machine, Rupp Austria, DuraBelt, Gunter Beck -> /
+- Network of hundreds of partners across US, Germany, Europe -> /
+- AI-augmented engineering with RapidCAD -> /
+- Carbon-neutral supplier priority -> /
+- Engineering design support and DFM feedback -> /
+- Volume range: single prototype to full-scale production -> /
 </details>
 
 ---
@@ -241,36 +241,54 @@ Norck emphasizes supply chain resilience through its diversified provider networ
 **Old description:** is a designer and manufacturer of a wide variety of custom-made magnetics. Whether you need Power Transformers, Isolation Transformers, Current Transformers, Filter Reactors, Buck Boost, Ferroresonant, Water-cooled, MIL-T-27 or K-Factor you have come to the right place. At Norlake you can find everything from Auto-transformers to Zig-Zag.
 
 ## About
-Norlake Manufacturing Co. operates from Elyria, Ohio, and has been delivering engineered transformer solutions for over fifty years. The company was founded on a philosophy of continued excellence in magnetics manufacturing and design, though the exact founding year and original founders are not publicly disclosed.
+Norlake Manufacturing Co. operates from North Ridgeville, Ohio, where it has provided engineered transformer solutions for over fifty years. The company was founded as a custom magnetics specialist, though the exact founding year and ownership structure are not publicly disclosed.
 
-The company designs and manufactures a broad range of custom magnetics, including power transformers, isolation transformers, current transformers, filter reactors, buck-boost transformers, ferroresonant transformers, water-cooled units, MIL-T-27 compliant models, K-factor transformers, autotransformers, and zig-zag configurations. Its capabilities span custom magnetics design, transformer manufacturing, sheet metal and structural metal fabrication, 3D modeling, electrical steel cut-to-length processing with hole punching, partial discharge testing per IEEE and IEC standards up to 15 kV, and contracted third-party testing. With a team of four employees and expansive production areas, Norlake handles orders from prototype through full production runs.
+The facility designs and manufactures a broad range of custom magnetics, including power transformers, isolation transformers, current transformers, filter reactors, buck-boost, ferroresonant, water-cooled, MIL-T-27, K-factor, autotransformer, zig-zag, and Eagle 18-pulse configurations. In-house capabilities span engineering, design, and manufacturing, supplemented by sheet metal and structural metal fabrication, 3D modeling, electrical steel cut-to-length with hole punching, MVA power testing, and partial discharge testing per IEEE and IEC standards up to 15 kV. With a staff of four and expansive production areas, Norlake handles prototypes through full production runs.
 
-Norlake serves a diverse customer base, with the machine tool industry called out specifically. The company states it services nearly every market and industry globally, providing magnetics solutions for applications ranging from industrial equipment to specialized power systems.
+The company serves a diverse industrial base, explicitly naming the machine tool industry among its markets, while stating it supports nearly every market and industry. Customers range from OEMs to end users requiring custom magnetic components for specialized applications.
 
-Norlake emphasizes exacting standards in engineering, design, and manufacturing, operating as a full-service custom magnetics facility. Its stated differentiators include prompt engineering support, quality components, prototype-to-production flexibility, and in-house partial discharge testing up to 15 kV class.
+Norlake emphasizes a total dedication to quality and service at a competitive price, underpinned by ISO 9001:2015 certification and exacting standards in engineering, design, and manufacturing. Prompt engineering support and comprehensive testing capabilities are cited as key differentiators.
 
 ## Known for
-- Full-service custom magnetics facility
-- Prototypes to production runs
-- Prompt engineering support
-- Partial discharge testing up to 15 kV class
-- Exacting standards in engineering, design, and manufacturing
+- ISO 9001:2015 certified quality management
+- Prototypes to production runs in-house
+- Partial discharge testing per IEEE/IEC up to 15 kV
+- Electrical steel cut-to-length with hole punching
+- MVA power testing capabilities
 
 ## Capabilities
 - Custom magnetics design
-- Transformer manufacturing
+- Custom magnetics manufacturing
+- Power transformer manufacturing
+- Isolation transformer manufacturing
+- Current transformer manufacturing
+- Filter reactor manufacturing
+- Buck boost transformer manufacturing
+- Ferroresonant transformer manufacturing
+- Water-cooled transformer manufacturing
+- MIL-T-27 transformer manufacturing
+- K-factor transformer manufacturing
+- Autotransformer manufacturing
+- Zig-zag transformer manufacturing
+- Eagle 18-pulse transformer manufacturing
 - Sheet metal fabrication
 - Structural metal fabrication
 - 3D modeling
-- Electrical steel cut-to-length with hole punching
-- Partial discharge testing (IEEE/IEC up to 15 kV)
-- Contracted third-party testing
+- Electrical steel cut-to-length
+- Hole punching
+- MVA power testing
+- Partial discharge testing (IEEE/IEC up to 15kV)
+- Prototyping
+- Production runs
+- Engineering support
 
 ## Industries
 - Machine tool industry
 
 ## Equipment
-- Electrical steel cut-to-length machines with hole punching capabilities
+- Electrical steel cut-to-length machines with hole punching
+- MVA power testing equipment
+- Partial discharge testing equipment (up to 15 kV)
 
 ## Certifications
 - ISO 9001:2015
@@ -278,29 +296,19 @@ Norlake emphasizes exacting standards in engineering, design, and manufacturing,
 ## Company details
 - **Company Type:** Manufacturer
 - **Employees:** 4
-- **Headquarters:** Elyria, Ohio
+- **Headquarters:** North Ridgeville, Ohio
 
 <details><summary>Sources</summary>
 
-- Location: Elyria, Ohio -> db
-- Employee count: 4 -> db
-- Certification: ISO 9001:2015 -> /
-- Product range: power transformers, isolation transformers, current transformers, filter reactors, buck-boost, ferroresonant, water-cooled, MIL-T-27, K-factor, autotransformers, zig-zag -> description
-- Capabilities: sheet metal fabrication, structural metal fabrication, 3D modeling, electrical steel cut-to-length with hole punching, partial discharge testing, contracted third-party testing -> capabilities, products
-- Industry served: machine tool industry -> industries_served
-- Company type: manufacturer -> description
-- Volume: prototypes to production runs -> /
-- Headquarters address: North Ridgeville, OH -> /
+- Location: North Ridgeville, Ohio -> /
 - Over fifty years in business -> /
-- Full-service custom magnetics facility -> /
-- Exacting standards in engineering, design, manufacturing -> /
-- Quality components -> /
-- Prompt engineering support -> /
-- Electrical steel cut-to-length machines with hole punching -> capabilities
-- Partial discharge testing per IEEE/IEC up to 15 kV -> products
-- Contracted third-party testing -> products
-- Expansive production areas -> products
-- ISO 9001:2015 certificate 2024-2026 -> /
+- ISO 9001:2015 certified -> /
+- Employee count: 4 -> db
+- Products: Power Transformers, Isolation Transformers, Current Transformers, Filter Reactors, Buck Boost, Ferroresonant, Water-cooled, MIL-T-27, K-Factor, Auto-transformers, Zig-Zag, Eagle 18-Pulse -> / and description
+- Capabilities: engineering, design, manufacturing, sheet metal fabrication, structural metal fabrication, 3D modeling, electrical steel cut-to-length with hole punching, MVA power testing, partial discharge testing up to 15kV -> / and capabilities
+- Industries: Machine Tool Industry -> /
+- Company type: Manufacturer -> description
+- Prototypes to production runs -> /
 </details>
 
 ---
@@ -310,31 +318,27 @@ Norlake emphasizes exacting standards in engineering, design, and manufacturing,
 **Old description:** At our core, we are more than just a distributor of electronic components and Manufacturer of wire harnesses; we are a strategic partner in solving complex business challenges. We recognize that success in today's competitive landscape requires more than cost-effective solutions...
 
 ## About
-North Coast Components Inc. is based in Hudsonville, Michigan, and has operated since its inception in 1985. The company grew by developing long-term partnerships with both customers and suppliers, establishing itself as a combined distributor of electronic components and manufacturer of custom wire harnesses and cable assemblies. No founder names or ownership structure are disclosed in the available information.
+Founded in 1985 in Hudsonville, Michigan, North Coast Components Inc. (NCC) operates as a distributor of electronic components and a manufacturer of custom wire harnesses and cable assemblies. The company has grown through long-term partnerships with customers and suppliers across the Midwest.
 
-The business provides a broad range of assembly and supply-chain services. Its manufacturing side focuses on low-to-medium-volume production of wire harnesses, cable assemblies (including power supply, IDC, D-sub, coax, RF, audio, and multi-conductor types), panel builds, electro-mechanical assemblies, and DIN rail assemblies. It also offers kitting, bar coding, software CD/DVD duplication, and component stocking programs. Every harness undergoes continuity testing or Cami system testing, with terminal connection inspection and a final quality inspection.
+NCC’s manufacturing side focuses on low- to medium-volume production of wire harnesses, cable assemblies (including power supply, IDC, D-sub, coax, RF, and multi-conductor types), panel assemblies, electro-mechanical assemblies, and DIN rail assemblies. The shop also provides kitting, bar coding, and software duplication services. Every harness undergoes continuity testing on a Cami system and a final inspection to verify terminal placement and build accuracy.
 
-North Coast serves original equipment manufacturers across the Midwest and ships nationwide. Its customer base includes companies with dominant market shares in the recreation, medical, and industrial equipment sectors. The company also states a commitment to supporting entrepreneurial ventures with strong products and business plans.
+The company serves original equipment manufacturers in the recreation, medical, and industrial equipment sectors throughout the Midwest, while also shipping nationwide. Its customer base includes established market leaders as well as entrepreneurial ventures. NCC combines distribution expertise — offering product selection support, stocking programs, and component substitution — with assembly capabilities to deliver cost-effective supply-chain solutions.
 
-The firm emphasizes a holistic approach that goes beyond price, highlighting comprehensive logistics support, on-time delivery, proactive supply chain management, and identification of lower-cost component alternatives without sacrificing quality. It cites its quality programs, cost-competitive structures, and high level of customer service as key differentiators.
+NCC emphasizes continuous improvement, on-time delivery, and logistics management as key differentiators. By proactively identifying lower-cost component alternatives without sacrificing quality, the firm positions itself as a strategic partner rather than a traditional distributor, aiming to optimize customers’ overall investment.
 
 ## Known for
+- Combines distribution acumen with assembly capability for cost-effective solutions
+- Proactive component substitution to lower costs without compromising quality
 - Comprehensive logistics support and on-time delivery
-- Proactive component substitution for cost savings without quality compromise
-- Low-to-medium-volume wire harness and cable assembly expertise
-- Rigorous quality inspection including Cami system testing
-- Midwest-focused service with nationwide shipping
+- Continuity testing on Cami system and rigorous final inspection
+- Low- to medium-volume production expertise
 
 ## Capabilities
 - Cable assembly (low to medium volume)
-- Wire harness assembly (low to medium volume)
-- Panel build and kitting
-- Product selection support
-- Component stocking programs
-- Bar coding
-- Software CD/DVD duplication
+- Wire harness manufacturing (low to medium volume)
+- Panel build & kitting
 - Power supply harness assembly
-- IDT/IDC cable assembly
+- IDC/IDT cable assembly
 - D-subminiature cable assembly
 - Twin-ax (IBM) cable assembly
 - Discrete wire assembly
@@ -342,15 +346,18 @@ The firm emphasizes a holistic approach that goes beyond price, highlighting com
 - Filter and fan assembly
 - Switch assembly
 - Electro-mechanical assembly
-- Coax, RF and audio cable assembly
+- Coax, RF, and audio cable assembly
 - Phone cable (silver satin) assembly
 - Patch cable (CAT-5E, CAT-6E) assembly
-- Multi-conductor harnesses with Molex, Tyco, JST connectors
+- Multi-conductor harness assembly (Molex, Tyco, JST connectors)
 - DIN rail assembly and custom marking tags
-- RS232, RS422, RS449, RS485 multi-conductor cable assembly
-- Continuity testing
-- Cami system testing
-- Terminal connection inspection
+- RS232/RS422/RS449/RS485 multi-conductor cable assembly
+- Bar coding
+- Software CD/DVD duplication
+- Kitting
+- Product selection support
+- Stocking programs
+- Continuity testing (Cami system)
 - Final quality inspection
 
 ## Industries
@@ -368,16 +375,16 @@ The firm emphasizes a holistic approach that goes beyond price, highlighting com
 
 <details><summary>Sources</summary>
 
-- Founded 1985 -> /about-us
-- Hudsonville, Michigan headquarters -> db
-- Distributor of electronic components and manufacturer of wire harnesses -> /about-us, /
-- Serves OEMs in Midwest, industries: recreation, medical, industrial equipment -> /about-us
-- Capabilities: cable assemblies, wire harnesses, panel build kitting, product selection support, stocking programs, bar coding, CD/DVD duplication -> /about-us, /services
-- Specific assembly types: power supply harness, IDC cables, D-sub, twin-ax, discrete wire, panel, filter/fan, switch, electro-mechanical, coax/RF/audio, phone, patch cables, multi-conductor with Molex/Tyco/JST, DIN rail, RS232/422/449/485 -> /services
-- Quality: continuity test, Cami system, terminal inspection, final inspection -> /capabilities
-- Low to medium volume production stated for wire harnesses and cable assemblies -> /services
-- Nationwide shipping, Midwest service -> /services
-- Holistic focus on logistics, on-time delivery, supply chain management, component substitution -> /about-us
+- Founded in 1985 -> /about-us
+- Headquarters in Hudsonville, Michigan -> db
+- Distributor of electronic components and manufacturer of wire harnesses -> /about-us
+- Serves OEMs in recreation, medical, industrial equipment markets -> /about-us
+- Low to medium volume production -> /services
+- Capabilities: cable assemblies, wire harnesses, panel build, kitting, etc. -> /services, /about-us
+- Quality: continuity testing via Cami system, final inspection -> /capabilities
+- Ships nationwide, services Midwest -> /services
+- Offers product selection support, stocking programs, component substitution -> /about-us
+- Continuous improvement, on-time delivery, logistics support -> /about-us
 </details>
 
 ---
@@ -387,53 +394,51 @@ The firm emphasizes a holistic approach that goes beyond price, highlighting com
 **Old description:** CGB Enterprises Inc. (CGB) is a private U.S. company with a 50-year history of serving the grain and transportation industries, growing its services for farmers and beyond through expansion and diversification. Through its wholly-owned subsidiary, Consolidated Grain and Barge Co., CGB operates a network of over 100 grain facilities across the Midwest and owns and operates a soy-crushing facility in Mt. Vernon, IN. CGB Soybean Processing has a daily capacity of over 140,000 bushels per day and has been in operation since 1997.
 
 ## About
-North Dakota Soybean Processors (NDSP) operates a soybean crushing facility in Casselton, North Dakota. The company was formed as a joint venture between CGB Enterprises, Inc., a private U.S. grain and transportation company with a 50-year history, and Minnesota Soybean Processors (MnSP). CGB Enterprises, through its subsidiary Consolidated Grain and Barge Co., operates a network of over 100 grain facilities across the Midwest and has run a soy-crushing plant in Mt. Vernon, Indiana, with a daily capacity exceeding 140,000 bushels since 1997. NDSP extends that processing footprint into the Red River Valley, giving local growers a year-round market for their soybeans.
+North Dakota Soybean Processors (NDSP) operates a soybean crushing facility in Casselton, North Dakota. The company was formed as a joint venture between CGB Enterprises, Inc., a private U.S. grain and transportation company with a 50-year history, and Minnesota Soybean Processors (MnSP), a cooperative processor. The partnership was established to create a local, year-round market for soybeans grown in Cass County and the surrounding Red River Valley, adding value to the region’s harvest and stimulating the local economy.
 
-The Casselton plant produces food-grade soybean oil, soybean meal, and soyhull pellets. The facility is described as state-of-the-art, designed to crush soybeans sourced from North Dakota and surrounding areas. NDSP offers producers a blended portfolio of pricing tools to manage risk and capture value. While specific throughput figures for the Casselton site are not published, the joint venture leverages CGB’s extensive origination and logistics network.
+NDSP processes soybeans into three primary products: food-grade soybean oil, soybean meal for livestock feed, and soyhull pellets. The plant is described as a state-of-the-art facility designed to serve both food and fuel markets, with the oil directed toward food users and the renewable diesel sector, while the meal supports the livestock industry. The company also offers producers a blended portfolio of pricing tools and contract options to manage market risk.
 
-NDSP serves the food, renewable fuel, and livestock feed industries. Its food-grade oil targets food manufacturers and the growing renewable diesel sector, while its meal supplies livestock producers. The company’s customer base includes soybean farmers in Cass County and the broader Red River Valley who deliver grain directly to the plant. Testimonials from state officials, county commissioners, and local farmers highlight the facility’s role in adding value to the regional agricultural economy.
+The facility serves soybean growers across North Dakota and western Minnesota, providing a reliable outlet for their crops. Its customer base includes food manufacturers, renewable fuel producers, and livestock operations that require consistent, high-quality meal and oil. By processing locally, NDSP reduces transportation costs for farmers and supplies domestic end-users with a traceable, North Dakota-origin product.
 
-NDSP states its mission is to sustainably produce and deliver high-quality soybean products for food and fuel markets while fostering a safe, supportive environment for employees, customers, and the community. Leadership emphasizes that local processing creates jobs, stimulates the economy, and provides farmers with more profitable harvest options. The venture was started to capture value from North Dakota soybeans within the state rather than shipping raw beans elsewhere.
+The venture was driven by a mission to sustainably produce and deliver high-quality soybean products while fostering a safe, supportive environment for employees and the community. Leaders from both parent organizations emphasized the plant’s role in creating jobs, generating tax revenue, and strengthening the agricultural economy of the region.
 
 ## Known for
-- Year-round local market for North Dakota soybeans
-- Blended portfolio of pricing tools for producers
-- Food-grade soybean oil for food and renewable fuel markets
-- Soybean meal for livestock industry
-- State-of-the-art crushing facility in Casselton
+- Reliable year-round soybean market with bids and contracts
+- Blended portfolio of pricing tools tailored to individual farming operations
+- Local processing that adds value to North Dakota-grown soybeans
+- State-of-the-art facility producing food-grade oil for food and renewable fuel markets
+- Commitment to sustainable production and community economic development
 
 ## Capabilities
 - Soybean crushing
-- Food-grade soybean oil production
+- Soybean oil extraction
 - Soybean meal production
 - Soyhull pellet production
-- Grain origination and procurement
-- Producer pricing and risk management tools
+- Grain pricing and contracting
+- Year-round soybean procurement
 
 ## Industries
-- Food processing
-- Renewable fuels
+- Food manufacturing
+- Renewable fuel
 - Livestock feed
-- Agriculture (soybean production)
+- Agriculture
 
 ## Company details
 - **Company Type:** Manufacturer
-- **Ownership:** Joint venture (CGB Enterprises, Inc. and Minnesota Soybean Processors)
+- **Ownership:** Joint venture between CGB Enterprises, Inc. and Minnesota Soybean Processors
 - **Headquarters:** Casselton, North Dakota
 
 <details><summary>Sources</summary>
 
-- Joint venture formed by CGB Enterprises, Inc. and Minnesota Soybean Processors -> /
-- Located in Casselton, North Dakota -> /, db
+- Location: Casselton, ND -> /
+- Joint venture between CGB Enterprises, Inc. and Minnesota Soybean Processors -> /
 - Produces soybean oil, soybean meal, and soyhull pellets -> /
 - Offers blended portfolio of pricing tools for producers -> /
 - Mission: sustainably produce high-quality soybean products for food and fuel markets -> /
-- State-of-the-art soybean processing plant -> /
-- Food grade soybean oil for food users and renewable fuel industry -> /
-- Soybean meal for livestock industry -> /
-- CGB Enterprises has 50-year history, operates over 100 grain facilities, soy-crushing facility in Mt. Vernon, IN with 140,000 bushels/day capacity since 1997 -> db
-- Contact: (701) 895-1010, connect@ndsoy.com -> /
-- Social: LinkedIn -> db
+- Year-round soybean market with bids and contracts -> /
+- Strategic location produces meal for livestock industry and food-grade oil for food and renewable fuel industries -> /
+- Headquarters address: 15445 36th St SE, Casselton, ND 58012 -> /
+- LinkedIn URL -> db
 </details>
 
 ---
@@ -443,29 +448,35 @@ NDSP states its mission is to sustainably produce and deliver high-quality soybe
 **Old description:** manufacturer of high quality narrow fabrics in the textile industry,
 
 ## About
-North East Knitting Inc has been based in Pawtucket, Rhode Island since its founding in 1986. The privately held company specializes in the manufacture of high-quality narrow fabrics for the textile industry.
+North East Knitting, Inc. was established in 1986 in Pawtucket, Rhode Island. The company operates as a manufacturer of narrow fabrics, built on a team of experts with decades of experience in the textile industry.
 
-The company produces knitted and woven elastics and webbing, offering both an array of stock items and custom-made products. Its components appear in applications such as abdominal binders and medical orthopedic elastics, and the firm cites service, product quality, and research and development as core pillars of its operation.
+The company produces knitted, woven, elastic, and rigid narrow fabrics, including knitted elastics, woven elastics, nylon webbing, and non‑elastic tapes. It offers both stock items and custom‑made products, with capabilities such as silicone treatment and reflective coatings for elastic and webbing. Manufacturing covers draw‑cord elastics, shapewear elastics, buttonhole elastics, suspender elastics, and medical orthopedic elastics.
 
-The customer base covers apparel, automotive, bedding, fall protection, first responders, industrial, commercial, medical, military, and recreational markets. Original equipment manufacturers and brand owners source narrow fabric components for safety harnesses, medical supports, and performance gear.
+North East Knitting serves a range of industries: apparel (elastic waistbands, athletic wear, sleepwear, uniforms, children’s products), automotive (elastic and non‑elastic webbings), bedding, fall protection, first responders, industrial, commercial, medical (orthopedic elastics), military (MIL‑SPEC webbing and elastic), recreational, sporting goods (protective sportswear), and safety (reflective elastic for public works).
 
-North East Knitting highlights its domestic production — "Manufactured In The USA" — and MIL-SPEC certification as key differentiators, positioning itself as an industry leader in elastics and webbing.
+The company states its goal is to be the most diverse manufacturer of high‑quality narrow fabrics in the textile industry, emphasizing “Made In The USA” production and MIL‑SPEC compliance for military applications.
 
 ## Known for
-- Manufactured In The USA
-- MIL-SPEC certified
-- Stock items and custom manufacturing
-- Service, product quality, and R&D focus
-- Industry leader in elastics and webbing
+- Manufactured in the USA
+- MIL‑SPEC compliant webbing and elastic for military use
+- Custom and stock narrow fabrics (knitted, woven, elastic, rigid)
+- Over 30 years of expertise in narrow fabric manufacturing
 
 ## Capabilities
-- Knitted narrow fabrics
-- Woven narrow fabrics
+- Knitting (narrow fabrics)
+- Weaving (narrow fabrics)
 - Elastic manufacturing
 - Webbing manufacturing
-- Custom manufacturing
-- Stock product supply
-- Research and development
+- Nylon webbing production
+- Non-elastic tape manufacturing
+- Silicone treatment
+- Reflective coating
+- Draw-cord elastic manufacturing
+- Buttonhole elastic manufacturing
+- Suspender elastic manufacturing
+- Medical orthopedic elastic manufacturing
+- Custom narrow fabric manufacturing
+- Stock narrow fabric supply
 
 ## Industries
 - Apparel
@@ -478,7 +489,8 @@ North East Knitting highlights its domestic production — "Manufactured In The 
 - Medical
 - Military
 - Recreational
-- Textile
+- Sporting goods
+- Safety (public works)
 
 ## Certifications
 - MIL-SPEC
@@ -492,14 +504,19 @@ North East Knitting highlights its domestic production — "Manufactured In The 
 
 - Founded 1986 -> db
 - Headquarters Pawtucket, Rhode Island -> db
-- Manufacturer of high quality narrow fabrics -> website
-- MIL-SPEC certification -> db
-- Products: knitted, woven elastics and webbing -> website
-- Applications: abdominal binders, medical orthopedic elastic -> website
-- Stock items and custom manufacturing -> website
-- Industries served: apparel, automotive, bedding, fall protection, first responders, industrial, commercial, medical, military, recreational -> website
-- Service, product quality, R&D focus -> website
-- Manufactured In The USA -> website
+- Manufacturer of narrow fabrics -> /
+- Products: knitted, woven, elastic, rigid narrow fabrics -> /
+- Industries served: apparel, automotive, bedding, fall protection, first responders, industrial, commercial, medical, military, recreational, sporting goods, safety -> /
+- MIL-SPEC certification -> db and /
+- Made in USA claim -> /
+- Custom and stock items -> /
+- Silicone treated products -> /
+- Reflective elastic and webbings -> /
+- Draw-cord elastic manufacturing -> /
+- Buttonhole elastic manufacturing -> /
+- Suspender elastic manufacturing -> /
+- Medical orthopedic elastic -> /
+- Nylon webbing -> /
 </details>
 
 ---
@@ -509,31 +526,30 @@ North East Knitting highlights its domestic production — "Manufactured In The 
 **Old description:** is to provide our customers with the "Total Package" for their injection molding needs. This includes the initial product design, manufacturing, and order fulfillment. This is done at a competitive price with complete customer satisfaction as the goal.
 
 ## About
-North Texas Plastics has operated from Sanger, Texas since its founding in 1978. The privately held company specializes in injection molding of virtually all thermoplastic materials, offering a self-described "Total Package" that spans product design, tooling, molding, secondary operations, and order fulfillment.
+North Texas Plastics has operated from Sanger, Texas since 1978. The company provides injection molding services and has built its reputation on a "Total Package" approach that spans initial product design, manufacturing, and order fulfillment. Ownership details and founder names are not publicly disclosed.
 
-In-house capabilities include tooling, decorating, and assembly, supported by secondary processes such as sonic welding, heat staking, mechanical assembly, pad printing, hot stamping, and silk screening. The company states that this integrated approach allows customers to consolidate supply chain steps under one roof.
+The shop molds virtually all thermoplastics and runs secondary operations in-house, including sonic welding, heat staking, mechanical assembly, pad printing, hot stamping, and silk screening. It also maintains tooling capabilities and handles order fulfillment from its Sanger facility. Facility size, headcount, and annual volumes are not published.
 
-Since 1978, North Texas Plastics has served industries including telecommunications, aerospace and defense, automotive, computer, industrial, and recreation. The company does not disclose specific client names but highlights its experience across these sectors as a foundation for meeting diverse molding requirements.
+Customers come from telecommunications, aerospace and defense, automotive, computer, industrial, and recreation sectors. The company says it has served this range of industries since its founding.
 
-The firm's stated differentiator is its end-to-end service model, which it says helps customers bring products to market at a competitive price with complete customer satisfaction as the goal. No certifications, facility size, or employee count are publicly disclosed.
+The "Total Package" concept was created to help customers bring products to market efficiently, offering design assistance through to final delivery at competitive pricing with a focus on complete customer satisfaction.
 
 ## Known for
-- "Total Package" service from product design through order fulfillment
+- "Total Package" service from design through order fulfillment
 - In-house tooling, decorating, and assembly operations
 - Secondary processes: sonic welding, heat staking, mechanical assembly, pad printing, hot stamping, silk screening
-- Operating since 1978 with experience across multiple industries
+- Serves telecommunications, aerospace & defense, automotive, computer, industrial, and recreation markets
+- Injection molding of virtually all thermoplastics since 1978
 
 ## Capabilities
 - Injection molding of thermoplastics
+- In-house tooling
 - Sonic welding
 - Heat staking
 - Mechanical assembly
 - Pad printing
 - Hot stamping
 - Silk screening
-- In-house tooling
-- In-house decorating
-- In-house assembly
 - Product design
 - Order fulfillment
 
@@ -552,14 +568,15 @@ The firm's stated differentiator is its end-to-end service model, which it says 
 
 <details><summary>Sources</summary>
 
-- Founded 1978 -> db
-- Headquarters Sanger, Texas -> db
-- Injection molding of virtually all thermoplastics -> page /
-- Total Package concept (design, manufacturing, order fulfillment) -> page /
-- Secondary operations: sonic welding, heat staking, mechanical assembly, pad printing, hot stamping, silk screening -> page /
-- In-house tooling, decorating, assembly -> page /
-- Industries served: Telecommunications, Aerospace & Defense, Automotive, Computer, Industrial, Recreation -> page /
-- Competitive price, customer satisfaction goal -> page /
+- Company name: North Texas Plastics -> db
+- Location: Sanger, Texas -> db, page /
+- Founded: 1978 -> db, page /
+- Services: Injection molding of virtually all thermoplastics, design, order fulfillment -> page /
+- Secondary operations: sonic welding, heat staking, mechanical assembly, pad printing, hot stamping, silk screening -> page /, capabilities array
+- In-house tooling, decorating, assembly -> products array
+- Industries served: Telecommunications, Aerospace & Defense, Automotive, Computer, Industrial, Recreation -> page /, industries_served array
+- "Total Package" concept description -> page /, description
+- Address and contact info (not used in output) -> page /
 </details>
 
 ---
@@ -569,48 +586,45 @@ The firm's stated differentiator is its end-to-end service model, which it says 
 **Old description:** Welcome to Northeast Plastics, the leading provider of high-performance and engineering plastics in the Northeast. We supply materials like acrylic sheets, polycarbonate, HDPE, PVC, polypropylene, Delrin, and nylon in forms including sheets, rods, and tubes.
 
 ## About
-Northeast Plastics operates from Bensalem, Pennsylvania, serving the greater Philadelphia region and customers nationwide. The company has built decades of hands-on expertise in plastic fabrication and distribution, with the team citing over 150 years of collective industry experience. While the exact founding year and original founders are not publicly disclosed, the business has established itself as a long-standing supplier of high-performance and engineering plastics.
+Northeast Plastics operates from Bensalem, Pennsylvania, serving the greater Philadelphia region and customers nationwide. The company does not publicly disclose its founding year or ownership structure. It began as a plastics supplier and has grown into a combined distributor and fabricator of high-performance engineering plastics.
 
-The company provides a complete plastic solution integrating custom fabrication with comprehensive distribution. Its fabrication capabilities include CNC plastic machining (milling, routing, drilling), thermoforming, vacuum forming, laser cutting and etching, plastic welding and assembly, and secondary operations such as finishing, polishing, bonding, and custom packaging. Northeast Plastics stocks sheets, rods, and tubes in materials ranging from acrylic, polycarbonate, HDPE, PVC, and polypropylene to high-performance grades like PEEK, Torlon, Ketron, and SustaPEEK. The shop handles projects from single prototypes to high-volume production runs.
+The company stocks and distributes plastic sheets, rods, and tubes in materials such as acrylic, polycarbonate, HDPE, PVC, polypropylene, acetal (Delrin), nylon, UHMW, and PEEK. Its fabrication services include CNC routing and machining, precision milling and drilling, thermoforming and vacuum forming, laser cutting and etching, plastic welding and assembly, and secondary finishing, polishing, bonding, and custom packaging. Northeast Plastics handles projects from single prototypes to high-volume production runs, supported by in-house design and prototyping assistance.
 
-Northeast Plastics serves a diverse industrial base. Aerospace and defense customers source high-performance plastics such as Ketron and SustaPEEK for critical components. Automotive and transportation clients use lightweight, durable parts for vehicle interiors, exteriors, and prototypes. Medical and healthcare manufacturers rely on FDA-compliant materials like Delrin and ACRYLITE. Marine and recreational sectors specify corrosion-resistant Starboard and Seaboard. Additional markets include food processing OEMs, machine shops, sign and graphics fabricators, commercial glazers, point-of-purchase display builders, and museum display case manufacturers.
+The company serves a diverse set of industries, including aerospace and defense (supplying Ketron and SustaPEEK for critical components), automotive and transportation (lightweight interior, exterior, and prototype parts), medical and healthcare (FDA-compliant Delrin and ACRYLITE), manufacturing and industrial (acetal gears, polycarbonate machine guards), marine and recreational (corrosion-resistant Starboard and Seaboard), food processing (food-safe HDPE and polypropylene for OEMs), as well as sign and graphics, commercial glazing, point-of-purchase displays, and museum display cases.
 
-The company emphasizes its consultative approach, with specialists offering material selection guidance and design optimization to shorten lead times and minimize waste. Fast turnaround, advanced in-house capabilities spanning machining to forming, and a customer-centric collaboration model are cited as key differentiators.
+Northeast Plastics differentiates itself through what it describes as more than 150 years of collective industry expertise, offering expert material guidance, advanced in-house capabilities spanning CNC machining to vacuum forming, fast turnaround on tight deadlines, and a customer-centric approach that emphasizes close collaboration to meet precise specifications.
 
 ## Known for
-- 150+ years of collective team expertise in plastics
-- Expert material selection and design guidance from specialists
-- In-house capabilities from CNC machining to vacuum forming
-- Fast turnaround on prototypes and production runs
-- Customer-centric collaboration on specifications
+- 150+ years of collective industry expertise
+- Expert material guidance from specialists with decades of knowledge in plastics fabrication and material science
+- Advanced in-house capabilities from CNC plastic machining to vacuum forming, covering short-run prototypes and high-volume production
+- Fast turnaround prioritizing efficiency to meet tight deadlines
+- Customer-centric approach with close collaboration to match precise specifications
 
 ## Capabilities
-- CNC plastic machining
-- CNC routing
-- Thermoforming
-- Vacuum forming
-- Laser cutting and etching
+- CNC routing & machining
+- Precision milling, routing, and drilling
+- Thermoforming & vacuum forming
+- Laser cutting & etching
 - Custom plastic fabrication
-- Cut-to-size service
-- Plastic welding and assembly
-- Finishing
-- Polishing
-- Bonding
+- Plastic welding & assembly
+- Finishing, polishing, bonding
 - Custom packaging
-- Prototyping and design support
-- Material selection guidance
+- Prototyping & design support
+- Cut-to-size service
+- Plastic material distribution
 
 ## Industries
 - Aerospace & Defense
 - Automotive & Transportation
 - Medical & Healthcare
-- Marine & Recreational
 - Manufacturing & Industrial
-- Food Processing
-- Machine Shops
+- Marine & Recreational
+- Food Processing (OEM)
+- Machine Shop
 - Sign & Graphics
 - Commercial Glazing
-- Point of Purchase Displays
+- Point of Purchase (POP)
 - Museum Display Cases
 
 ## Company details
@@ -619,15 +633,14 @@ The company emphasizes its consultative approach, with specialists offering mate
 
 <details><summary>Sources</summary>
 
-- Location: Bensalem, PA -> db
-- Business type: plastic fabrication and distribution company -> /about
-- Services: CNC machining, thermoforming, vacuum forming, laser cutting, custom fabrication -> /about, /
-- Materials: acrylic, polycarbonate, HDPE, PVC, polypropylene, Delrin, nylon, PEEK, etc. -> /about, /
-- Industries served: aerospace, automotive, medical, marine, manufacturing, food processing, machine shops, sign & graphics, commercial glazing, POP, museum displays -> /about, /
-- Brands carried: ACRYLITE, Lexan, TUFFAK, Plexiglas, Delrin, Polycast, Torlon -> /about
-- Collective experience: 150+ years -> /
-- Capabilities: prototypes to high-volume production -> /about
-- Differentiators: expert guidance, advanced capabilities, fast turnaround, customer-centric -> /about
+- Headquarters: Bensalem, Pennsylvania -> db
+- Business description: plastic fabrication and distribution company -> /about
+- Materials supplied: acrylic, polycarbonate, HDPE, PVC, polypropylene, Delrin, nylon -> /
+- Fabrication services: CNC routing, machining, thermoforming, vacuum forming, laser cutting, welding, assembly, finishing -> /about
+- Industries served: aerospace, automotive, medical, manufacturing, marine, food processing, sign & graphics, commercial glazing, POP, museum displays -> /about
+- Differentiators: 150+ years collective expertise, expert guidance, advanced capabilities, fast turnaround, customer-centric -> /about
+- Volume range: short-run prototypes to high-volume production -> /about
+- Brands stocked: ACRYLITE, Lexan, TUFFAK, Plexiglas, Delrin, Polycast, Torlon, Ketron, SustaPEEK, Starboard, Seaboard -> /about
 - LinkedIn URL -> db
 </details>
 
@@ -638,36 +651,39 @@ The company emphasizes its consultative approach, with specialists offering mate
 **Old description:** For nearly 50 years, Northland Furniture has been manufacturing high-quality commercial furniture for hotels, timeshares, senior living environments, and other facilities. Using domestically sourced materials, including many materials from the Pacific Northwest, our experienced team of craftsmen design and build furniture that can withstand high traffic and other challenging environments. Northland furniture is built to last.
 
 ## About
-Northland Furniture Company operates from Bend, Oregon, where it has been manufacturing commercial furniture for nearly 50 years. The company was founded on the principle of using domestically sourced materials, particularly from the Pacific Northwest, to create furniture suited for high-traffic environments.
+Northland Furniture Company operates from Bend, Oregon, where it has been manufacturing commercial furniture for nearly 50 years. The company emphasizes its Pacific Northwest roots, using domestically sourced materials from the region. Ownership details and founder names are not publicly disclosed.
 
-The company designs, builds, and ships all furniture from its Central Oregon manufacturing facility. Its product range includes casegoods, upholstery, and doors for guest rooms, food and beverage areas, common spaces, and kitchens. An experienced team of craftsmen handles customization requests, adjusting dimensions, finishes, and configurations to meet project specifications.
+The company designs, builds, and ships custom commercial furniture from its Central Oregon facility. Its capabilities span casegoods, upholstery, and doors for guestrooms, food and beverage areas, common spaces, and kitchens. An experienced team of craftsmen handles production, though headcount and facility size are not specified.
 
-Northland serves the hospitality sector, including hotels, timeshares, and senior living communities. A noted project includes the Benson Hotel in Portland, where project manager Cole Butler of Allied Partners praised the product's durability and service. The company also supplies furniture for senior living facilities, incorporating accessibility features such as rounded corners, wheelchair-accessible tables, and vented case backs.
+Northland serves the hospitality and senior living sectors, supplying hotels, timeshares, and senior living communities. Notable projects include the Benson Hotel in Portland and work for Allied Partners, whose project manager praised the product's durability and service.
 
-The company differentiates itself through domestic manufacturing, which it says allows faster lead times, reduced carbon footprint, and immediate post-installation support. A strict quality control process checks each piece before it leaves the facility, and senior living furniture carries a 10-year warranty. Reusable, damage-resistant packaging further reduces waste.
+The company differentiates itself through domestic manufacturing, which it says shortens lead times and reduces carbon footprint. It offers a 10-year warranty, uses reusable damage-resistant packaging, and follows a strict quality control process that includes rounded corners, durable finishes, and wheelchair-accessible features for senior living furniture.
 
 ## Known for
-- Made in America with domestically sourced materials
-- Pacific Northwest craftsmanship using regional materials
-- Customizable furniture built to order
-- Strict quality control with 10-year warranty on senior living furniture
-- Reusable, damage-resistant packaging reducing waste
+- Commercial furniture manufactured in the USA with domestically sourced materials
+- Customizable designs built to spec from a Central Oregon facility
+- Strict quality control process with a 10-year warranty
+- Reusable, damage-resistant packaging that reduces waste
+- Domestic production enables shorter lead times
 
 ## Capabilities
-- Commercial furniture manufacturing
-- Casegoods production
-- Upholstery
-- Door manufacturing
-- Custom design and engineering
-- Quality control inspection
-- Reusable packaging
+- furniture design
+- furniture manufacturing
+- custom furniture
+- casegoods production
+- upholstery
+- door manufacturing
+- quality control
+- packaging and shipping
 
 ## Industries
-- Hospitality
-- Hotels
-- Timeshares
-- Senior living
-- Commercial facilities
+- hospitality
+- senior living
+- hotels
+- timeshares
+- food and beverage
+- common spaces
+- kitchens
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -675,16 +691,17 @@ The company differentiates itself through domestic manufacturing, which it says 
 
 <details><summary>Sources</summary>
 
-- Location: Bend, Oregon -> db
-- Nearly 50 years in business -> /
-- Manufactures commercial furniture for hotels, timeshares, senior living -> /, /about
-- Uses domestically sourced materials from Pacific Northwest -> /, /about
-- Manufacturing facility in Bend, Oregon -> /about
-- Customizable furniture -> /about
-- Quality control with 10-year warranty on senior living furniture -> /quality
-- Reusable packaging -> /about
-- Testimonial from Cole Butler, Allied Partners, Benson Hotel -> /
-- Collections: Coastal, Mountain, Highway -> /
+- Bend, Oregon location -> db
+- nearly 50 years manufacturing -> /
+- domestically sourced Pacific Northwest materials -> /
+- customizable furniture design and build -> /about
+- casegoods, upholstery, doors -> /about
+- Benson Hotel project -> /
+- Allied Partners testimonial -> /
+- 10-year warranty -> /quality
+- quality control features (rounded corners, durable finishes, etc.) -> /quality
+- reusable packaging -> /about
+- shorter lead times due to domestic manufacturing -> /about
 </details>
 
 ---

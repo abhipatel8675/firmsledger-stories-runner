@@ -3,34 +3,32 @@
 **Old description:** Founded on a dual commitment to pet health and environmental stewardship, Idahound wants to raise awareness about the role our pets play in the food system. It is our vision to create foods that promote responsible animal husbandry, sustainable agriculture, waste and energy reduction, and the local food movement. In doing so, we also believe it’s possible to create far healthier and more biologically-appropriate foods for our dogs and cats.
 
 ## About
-Idahound operates from Carey, Idaho, where it was founded in 2014. The company began as a small-batch, farm-to-bowl dog food venture built on a dual commitment to pet health and environmental stewardship.
+Idahound operates from Carey, Idaho, where it was founded in 2014. The company began as a wild dream to create a small-batch, farm-to-bowl dog food business, though the founders are not named in public materials. Ownership details such as family, veteran, or woman-owned status have not been disclosed.
 
-The manufacturer produces raw dog food and treats using grass-fed proteins sourced from ranches in southern Idaho. All products are custom butchered, processed, and packaged in-house, including items such as sheep and vegetable raw food, green beef tripe, raw meaty lamb neck bones, hare balls, split elk antlers, lamb crisps, and rabbit treats. Frozen orders are insulated with locally manufactured hemp wool to keep the supply chain as local as possible.
+The company custom butchers, processes, and packages all of its products in-house using grass-fed proteins sourced from ranches in southern Idaho. Its product line includes raw dog foods such as sheep and vegetable blends, green beef tripe, raw meaty lamb neck bones, hare balls, split elk antlers, lamb crisps, and rabbit treats. Frozen orders are insulated with locally manufactured hemp wool, reflecting a supply chain kept as local as possible.
 
-Idahound sells directly to pet owners seeking biologically appropriate raw diets for dogs and cats. Its customer base includes long-term buyers who have used the products for up to ten years, citing digestive health improvements and product quality. The company serves the pet food and pet supply industries with a focus on raw, frozen, and treat categories.
+Idahound sells directly to pet owners seeking biologically appropriate raw diets for dogs and cats. Customer testimonials highlight improved digestive health and long-term loyalty, with some buyers reporting ten years of repeat purchases. The company also manages subscription accounts for recurring deliveries.
 
-The business was started to promote responsible animal husbandry, sustainable agriculture, waste and energy reduction, and the local food movement. Idahound states that its primary values are canine health and environmental sustainability, rooted in compassion for dogs, the livestock that become their food, and the planet.
+The venture was built on a dual commitment to canine health and environmental stewardship. Idahound says its mission rests on compassion for dogs, the livestock that become their food, and the planet, aiming to promote responsible animal husbandry, sustainable agriculture, waste reduction, and the local food movement.
 
 ## Known for
-- Custom butchering, processing, and packaging all done in-house
-- Grass-fed proteins sourced exclusively from southern Idaho ranches
-- Frozen shipments insulated with locally manufactured hemp wool
+- Custom butchers, processes and packages all products in-house
+- Uses locally manufactured hemp wool for frozen shipment insulation
 - Small-batch, farm-to-bowl production model
-- Supply chain kept as local as possible to reduce environmental impact
+- Focus on biologically appropriate raw diets for dogs and cats
 
 ## Capabilities
 - Custom butchering
-- In-house meat processing
+- Meat processing
 - In-house packaging
-- Raw pet food manufacturing
 - Frozen order fulfillment
 - Subscription management
-- Direct-to-consumer shipping
+- Raw pet food formulation
 
 ## Industries
-- Pet food
-- Pet supplies
+- Pet food manufacturing
 - Raw pet food
+- Direct-to-consumer pet food
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -39,16 +37,14 @@ The business was started to promote responsible animal husbandry, sustainable ag
 
 <details><summary>Sources</summary>
 
-- Founded in 2014 -> page '/'
+- Founded in 2014 -> /
 - Headquarters in Carey, Idaho -> db
-- Custom butchers, processes, packages in-house -> page '/'
-- Sources grass-fed proteins from southern Idaho ranches -> page '/'
-- Uses locally manufactured hemp wool for frozen order insulation -> page '/'
-- Produces raw dog food and treats (sheep, beef, lamb, rabbit, elk antler) -> page '/'
-- Sells direct to pet owners -> page '/'
-- Values: canine health, environmental sustainability, responsible animal husbandry, sustainable agriculture, waste reduction, local food movement -> page '/' and db description
-- Small batch, farm-to-bowl model -> page '/'
-- Customer testimonials mention 10-year usage -> page '/'
+- Custom butchers, processes, packages in-house -> /
+- Sources proteins from Southern Idaho ranches -> /
+- Uses locally manufactured hemp wool for insulation -> /
+- Product line includes raw dog food (sheep, beef tripe, lamb, rabbit, elk antler) -> /
+- Sells direct to pet owners, subscription model -> /
+- Mission: canine health and environmental stewardship -> /
 </details>
 
 ---
@@ -58,52 +54,36 @@ The business was started to promote responsible animal husbandry, sustainable ag
 **Old description:** have more than 30 years of experience in dealing with electrical systems for businesses and homes. We'll show up at the time you need us to be there and take care of all your necessary work with a professional attitude.
 
 ## About
-Ideal Electric, Inc. was founded in 1994 in Winslow, Maine, and has served central Maine for over 30 years. The company operates as a licensed electrical contractor with a team of master and journeyman electricians.
+Ideal Electric, Inc. was founded in 1994 in Winslow, Maine, a small community in the central part of the state. The company began as a modest electrical operation focused on serving homeowners and businesses throughout the region.
 
-The firm provides full-service electrical solutions across residential, commercial, and industrial sectors. Services include panel upgrades, new construction wiring, EV charger installations, tenant fit-outs, lighting retrofits, motor controls, high-voltage work, machine wiring, and control panel assembly. Ideal Electric also installs and services Generac whole-home standby generators and handles dedicated circuit wiring for ductless mini-split heat pump systems. The company's crew performs troubleshooting, repairs, and scheduled maintenance for homes and businesses throughout the region.
+Today the firm provides a full range of electrical services across residential, commercial, and industrial sectors. Its licensed master and journeyman electricians handle panel upgrades, new‑construction wiring, EV‑charger installations, and whole‑home standby generator systems as a Generac‑certified dealer. The team also installs dedicated circuits for ductless heat‑pump systems certified through Efficiency Maine, and performs motor‑control wiring, high‑voltage work, and control‑panel assembly for industrial clients. Service and repair calls are offered for all three market segments.
 
-Customers range from homeowners in Waterville and Augusta to industrial facilities in Skowhegan and Farmington. The contractor serves communities across central Maine, including Winslow, Benton, Clinton, Pittsfield, Norridgewock, and Madison. Commercial clients engage the company for maintenance contracts and fit-out projects, while industrial customers rely on its high-voltage and motor-control expertise.
+The contractor serves customers across central Maine, including Waterville, Augusta, Skowhegan, Farmington, and surrounding towns. Its client base spans individual homeowners, commercial tenants needing fit‑outs and lighting retrofits, and industrial facilities requiring machine wiring and motor controls.
 
-Ideal Electric distinguishes itself through its licensing and insurance compliance, adherence to the National Electrical Code and Maine regulations, and a commitment to upfront pricing without hidden fees. The company holds Generac certified installer status and Efficiency Maine certification, enabling customers to access state rebates for heat pump installations. Its electricians maintain current OSHA safety training, and the firm emphasizes on-time arrival and completion on every job.
+Ideal Electric emphasizes code‑compliant work, transparent pricing, and on‑time completion. The company holds Maine master and journeyman electrician licenses, Generac and Efficiency Maine certifications, and OSHA safety training, and carries full liability and workers’ compensation insurance on every project.
 
 ## Known for
-- Fully licensed and insured electrical contractor in Maine
-- Generac certified installer for standby generator systems
-- Efficiency Maine certified for heat pump rebate eligibility
-- OSHA safety trained crew
-- Upfront estimates with no hidden fees
+- Generac‑certified standby generator installation
+- Efficiency Maine‑certified heat‑pump electrical work
+- Maine master/journeyman electrician licenses on staff
+- OSHA‑trained crews with full insurance
+- Transparent, upfront pricing with no hidden fees
 
 ## Capabilities
-- Residential electrical service and installation
-- Commercial electrical service and installation
-- Industrial electrical service and installation
-- Panel upgrades and replacements
-- New construction wiring
+- Residential electrical installation and repair
+- Commercial tenant fit‑outs and lighting retrofits
+- Industrial motor controls and high‑voltage wiring
+- Standby generator installation and service (Generac)
+- Ductless heat‑pump circuit wiring and installation
+- Electrical panel upgrades and new‑construction wiring
 - EV charger installation
-- Tenant fit-outs
-- Lighting retrofits
-- Commercial maintenance contracts
-- Motor controls installation and service
-- High-voltage electrical work
-- Machine wiring
-- Control panel assembly and wiring
-- Generac standby generator installation and service
-- Transfer switch installation
-- Load calculations for generators
-- Dedicated circuit wiring for ductless mini-split heat pumps
-- Ductless heat pump electrical installation and testing
-- Electrical troubleshooting and repair
-- Emergency service calls
-- Electrical code compliance and permitting
+- Control panel assembly
+- Troubleshooting and service calls
 
 ## Industries
 - Residential
 - Commercial
 - Industrial
-
-## Equipment
-- Generac standby generators
-- Ductless mini-split heat pump systems
 
 ## Certifications
 - Maine Master Electrician License
@@ -120,15 +100,14 @@ Ideal Electric distinguishes itself through its licensing and insurance complian
 <details><summary>Sources</summary>
 
 - Founded in 1994 -> /about
-- Headquarters in Winslow, Maine -> /about
-- Services: residential, commercial, industrial electrical -> /
+- Headquartered in Winslow, Maine -> /about
+- Licensed master and journeyman electricians on staff -> /about
 - Generac certified installer -> /about
 - Efficiency Maine certified -> /about
-- Team includes master and journeyman electricians -> /about
-- Serves central Maine communities -> /about
 - OSHA safety trained -> /about
-- Upfront estimates, no hidden fees -> /about
-- Licensed & insured -> /
+- Services: residential, commercial, industrial electrical, standby generators, ductless heat pumps -> /services
+- Service area: central Maine towns (Waterville, Augusta, Skowhegan, Farmington, etc.) -> /about
+- Emphasis on code compliance, transparent pricing, on-time completion -> /about
 </details>
 
 ---
@@ -138,57 +117,52 @@ Ideal Electric distinguishes itself through its licensing and insurance complian
 **Old description:** Since 1977, we've been serving and supplying unions across America with custom-branded union and USA-made apparel and promotional products.
 
 ## About
-Image Pointe was founded in 1977 in Waterloo, Iowa, to serve unions across America with custom-branded, union-made and USA-made apparel and promotional products. The company remains headquartered in Waterloo and operates with a fully unionized workforce organized by IUPAT District Council 81, Local 246 and Workers United Local 38.
+Image Pointe was founded in 1977 in Waterloo, Iowa, as a supplier of custom-branded, union-made apparel and promotional products for labor unions across the United States. The company operates as a unionized workplace, with all graphics and production handled by members of IUPAT District Council 81, Local 246 and Workers United Local 38.
 
-Today, Image Pointe describes itself as the largest supplier of union and USA-made products, offering hundreds of stocked items and sourcing additional goods as needed. Its in-house art department provides custom graphic design, while production capabilities include screen printing, embroidery, and cut-and-sew manufacturing under the Dignity Apparel label—garments that are "born, built, and sewn in the USA." The combined team numbers over 150 people, with more than 80 at Image Pointe alone; average tenure runs 15 years for union graphic artists and 17 years for screen-printing and embroidery operators.
+The company maintains an in-house art department and offers decoration services including screen printing and embroidery, producing items such as hoodies, sweatshirts, and thermal layers under its Dignity Apparel line, which is cut, sewn, and decorated domestically. Image Pointe employs over 80 people at its Waterloo facility, with a combined workforce of more than 150 when including Dignity Apparel operations in Iowa and Tennessee.
 
-The customer base consists almost exclusively of labor unions and affiliated organizations. Testimonials on the company's site reference the Columbus Education Association, UAW Local, and IBEW Charlotte, among others, highlighting quick turnaround, design support, and product quality for events, membership drives, and awareness campaigns.
+Its customer base consists primarily of labor unions and affiliated organizations; testimonials on the site reference the Columbus Education Association, UAW Local, and IBEW Charlotte. The company also serves unions seeking promotional products for events, awareness campaigns, and conventions.
 
-Image Pointe says its difference lies in a mission to create "dignified, life-changing jobs" with fair wages, benefits, and safe conditions. It pledges 100 percent union labor for all graphics and production, guarantees USA-made products (union-made wherever available), and emphasizes rapid turn times and high-impact design as core commitments.
+Image Pointe emphasizes its mission to create dignified, life-changing jobs with fair wages and benefits, and it markets itself as the largest supplier of union and USA-made products, guaranteeing that all items are 100% made in the USA. The firm highlights average employee tenure of 15 years for graphic artists and 17 years for screen printers and embroidery operators as a marker of expertise.
 
 ## Known for
 - 100% union labor for all graphics and production
-- USA-made products always; union-made wherever available
-- Over 80 employees with 15+ years average graphic artist experience and 17+ years average screen printing/embroidery experience
-- Proudly organized by IUPAT DC 81, Local 246 and Workers United Local 38
-- Mission to create dignified, life-changing jobs with fair wages and benefits
+- USA-made products guaranteed; union-made wherever available
+- In-house art department with decoration methods including screen printing and embroidery
+- Mission-driven employment model focused on dignified, life-changing jobs
+- Average 15 years' experience for graphic artists, 17 years for production operators
 
 ## Capabilities
-- Custom graphic design
-- Screen printing
-- Embroidery
-- Cut and sew manufacturing
-- Union-made apparel production
-- USA-made promotional products sourcing
-- Rapid order fulfillment
-- In-house art department
+- Custom apparel decoration (screen printing, embroidery)
+- In-house graphic design and art services
+- Union-made promotional product sourcing
+- Custom branded merchandise development
+- Rapid order fulfillment and delivery
+- Cut and sew manufacturing (Dignity Apparel line)
+- Union-knit, union-cut & sewn, union-decorated apparel production
 
 ## Industries
 - Labor unions
-- Promotional products
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1977
-- **Employees:** 80+ at Image Pointe; 150+ combined with Dignity Apparel
+- **Employees:** 80+ (150+ combined with Dignity Apparel)
+- **Ownership:** Unionized workforce (IUPAT DC 81 Local 246, Workers United Local 38)
 - **Headquarters:** Waterloo, Iowa
 
 <details><summary>Sources</summary>
 
-- Founded 1977 in Waterloo, Iowa -> db
+- Founded 1977 -> db
 - Headquarters Waterloo, Iowa -> db
 - Largest supplier of union and USA-made products -> /
-- Hundreds of high-quality items, sourcing anything needed -> /
-- In-house art department, wide range of decoration methods -> /
-- Dignity Apparel born, built, sewn in USA -> /
 - Over 80 employees at Image Pointe, 150+ combined with Dignity Apparel -> /about-us
 - Unionized by IUPAT DC 81 Local 246 and Workers United Local 38 -> /about-us
-- 15 years avg union graphic artist experience, 17 years avg screen printer/embroidery operator experience -> /about-us
-- 100% union labor for graphics and production -> /about-us
-- USA-made always, union-made wherever available -> /about-us
-- Mission to create dignified life-changing jobs with fair wages/benefits -> /about-us
-- Customer testimonials: Columbus Education Association, UAW Local, IBEW Charlotte -> /
-- Rapid turn times, high-impact designs, customer experience commitment -> /about-us
+- In-house art department, decoration methods (screen printing, embroidery) -> /about-us, /
+- Mission to create dignified, life-changing jobs -> /
+- Customer testimonials from Columbus Education Association, UAW Local, IBEW Charlotte -> /
+- Dignity Apparel line: union-knit, union-cut & sewn, union-decorated -> /
+- Average 15 years graphic artist experience, 17 years screen printer/embroidery operator experience -> /about-us
 - LinkedIn URL -> db
 </details>
 
@@ -199,35 +173,34 @@ Image Pointe says its difference lies in a mission to create "dignified, life-ch
 **Old description:** Imondi Foods supplies a comprehensive range of professional baking ingredients — including flours, sugars, dairy, eggs, oils, chocolates, flavorings, mixes, and specialty items — sourced and delivered to keep your operation running at its best.
 
 ## About
-Imondi Foods is a family-owned wholesale bakery supplier headquartered in Lincoln, Rhode Island. Founded in 1984 by Tom Imondi, the company began with a pickup truck, fresh eggs, and a handshake promise to deliver reliably to local bakeries. Over four decades, it has grown into the largest family-owned bakery supply company in New England, remaining under family leadership with second-generation members Kelsey Imondi and James Lanciotti now involved in operations.
+Imondi Foods is a family-owned wholesale bakery supplier headquartered in Lincoln, Rhode Island. The company was founded in 1984 by Tom Imondi, beginning with a pickup truck delivering fresh eggs on a handshake promise. It remains family-owned and operated, now led by the next generation including Kelsey Imondi and James Lanciotti.
 
-The company distributes a comprehensive range of professional baking ingredients — including flours, sugars, dairy, eggs, oils, chocolates, flavorings, mixes, and specialty items — from a 140,000-square-foot facility equipped with 20 loading docks and advanced refrigeration. An 18-truck fleet provides daily regional delivery five days a week across Rhode Island, Massachusetts, Connecticut, New Hampshire, Maine, New York, and New Jersey. The operation is SQF certified, Organic certified, and RSPO certified, with a full-time maintenance crew supporting continuous distribution.
+The company distributes a comprehensive range of professional baking ingredients — flours, sugars, dairy, eggs, oils, chocolates, flavorings, mixes, and specialty items — to bakeries and food manufacturers across New England and eastern New York. Operations run from a 140,000-square-foot facility in Lincoln equipped with 20 loading docks and advanced refrigeration, supported by an 18-truck fleet that delivers five days a week throughout Rhode Island, Massachusetts, Connecticut, New Hampshire, Maine, New York, and New Jersey. The warehousing and distribution processes are SQF and Organic certified, with RSPO certification for sustainable palm oil.
 
-Imondi Foods serves independent bakeries, food manufacturers, and food-service operators throughout New England and eastern New York. Its customer base ranges from small artisan shops to large-scale production facilities, all supplied through a single-source wholesale model that leverages the company's purchasing power to offer competitive pricing.
+Imondi Foods serves independent bakeries, commercial bakeries, and food manufacturers throughout the Northeast. Its customer base includes operations that rely on consistent, daily delivery of perishable and dry ingredients, with the company's purchasing power enabling wholesale pricing across a broad product catalog.
 
-The business was built on three core commitments: dependable service, quality products, and lasting customer relationships. Those principles, reinforced by family ownership and industry certifications, remain the foundation of its growth strategy today.
+The business was built on dependable service, quality products, and lasting customer relationships — principles established at its founding and reinforced by certifications and a family-led management team that emphasizes personal connection over transactional volume.
 
 ## Known for
-- Family owned and operated since 1984
-- SQF, Organic, and RSPO certified
-- 18+ truck fleet delivering 5 days a week across 7 states
+- Daily regional delivery five days a week across seven states
+- 18-truck fleet with refrigerated capacity
+- SQF, Organic, and RSPO certified warehousing and distribution
+- Family-owned since 1984 with second-generation leadership
 - 140,000 sq ft facility with 20 loading docks and advanced refrigeration
-- Wholesale pricing through purchasing power
 
 ## Capabilities
-- Wholesale bakery ingredient distribution
+- Wholesale distribution of baking ingredients
 - Daily regional delivery (5 days/week)
-- Cold storage and refrigerated warehousing
-- Inventory management and order fulfillment
-- Single-source wholesale supply
+- Refrigerated and dry storage
+- SQF and Organic certified handling
+- Product sourcing and inventory management
 
 ## Industries
 - Bakeries
-- Food manufacturers
-- Food service
+- Food manufacturing
 
 ## Equipment
-- Refrigerated trucks
+- Refrigerated delivery trucks
 - Loading docks (20)
 - Advanced refrigeration systems
 
@@ -245,17 +218,19 @@ The business was built on three core commitments: dependable service, quality pr
 <details><summary>Sources</summary>
 
 - Founded in 1984 by Tom Imondi -> /about
-- Family-owned and operated -> /
-- Headquarters in Lincoln, Rhode Island -> /
+- Headquartered in Lincoln, Rhode Island -> / and /about
+- Family-owned and operated -> / and /about
 - 140,000 sq ft facility with 20 loading docks and advanced refrigeration -> /about
-- 18+ truck fleet delivering 5 days/week across 7 states -> /
-- SQF Certified, Organic Certified, RSPO Certified -> /
-- Serves bakeries and food manufacturers across New England and Eastern New York -> /about
-- Wholesale pricing through purchasing power -> /
-- Relocated to West Warwick in 2004 -> /about
-- Next generation Kelsey Imondi and James Lanciotti joined -> /about
+- 18+ truck fleet delivering 5 days a week across RI, MA, CT, NH, ME, NY, NJ -> / and /about
+- SQF Certified, Organic Certified, RSPO Certified -> / and /about
+- Serves bakeries and food manufacturers in New England and Eastern New York -> /about
+- Product range: flours, sugars, dairy, eggs, oils, chocolates, flavorings, mixes, specialty items -> /
+- Wholesale pricing via purchasing power -> /
+- Next-generation leadership: Kelsey Imondi, James Lanciotti -> /about
 - Tony Carmelo joined as Director of Sales in 2022 -> /about
 - John Schleer joined in 2024 -> /about
+- 2004 relocation to West Warwick -> /about
+- Full-time maintenance crew -> /about
 </details>
 
 ---
@@ -265,63 +240,57 @@ The business was built on three core commitments: dependable service, quality pr
 **Old description:** We’re passionate about helping you find your creative voice. Founded in 2005, we champion brands and bring them into the spotlight. We leverage your unique strengths to help build strategic roadmaps and deliver the right customers to you. Our team offers unparalleled creative solutions to all of our clients and is determined to see every job through to its success. Branding, logos, vehicle wraps, apparel, and promotional items are just a few of the ways we help get your business the attention it deserves.
 
 ## About
-Impact Custom Apparel LLC was founded in 2005 in Cumberland, Rhode Island. The company operates from a facility on Industrial Road and serves clients throughout New England. It remains privately held, though no specific ownership designation such as family- or veteran-owned is publicly disclosed.
+Impact Custom Apparel LLC operates from Cumberland, Rhode Island, where it was founded in 2005. The company remains privately held; no specific ownership designation such as family, veteran, or woman-owned is publicly claimed, and the founders are not named in available materials.
 
-The shop provides custom decoration and branding services centered on a six-color screen printing press and in-house embroidery equipment. The press enables multi-color logos on garments for uniforms, giveaways, and fundraisers, while embroidery adds a classic finish to personalized items. It also produces large-format graphics for vehicle wraps, vinyl banners, and frontage signs, and sources a wide range of promotional products. Additional offerings include graphic design, branding strategy, and the creation of online company stores for items such as business cards, letterhead, and yard signs.
+The shop provides screen printing on a six-color press, embroidery, large-format graphics including vehicle wraps and vinyl banners, and a range of promotional products. It also offers branding and marketing strategy, business stationery, and online company store management. All production appears to be handled in-house at the Industrial Road facility, though the company does not disclose total square footage, headcount, or annual volume figures.
 
-Clients range from non-profit organizations like the East Bay Food Pantry & Thrift Shop to schools, Greek-life groups, and businesses seeking uniforms, giveaways, or fundraising merchandise. The company has positioned itself as a regional source for both decorated apparel and branded signage, describing itself since 2005 as New England's source for apparel and promotional items.
+Clients span businesses, non-profit organizations, schools, Greek organizations, and community fundraisers. A noted project includes a vehicle wrap for the East Bay Food Pantry & Thrift Shop, designed to raise visibility while the organization collected donations. The company positions itself as a New England regional resource for branded merchandise and marketing collateral.
 
-Impact states that it was started to help clients find their creative voice and champion their brands, combining measurable results on projects such as vehicle wraps with strategic roadmaps for visibility.
+Impact states that its founding purpose was to help clients find their creative voice and bring brands into the spotlight through strategic roadmaps and measurable results. The firm emphasizes a collaborative process that translates a client’s vision into tangible branded products, from apparel to signage, while integrating marketing services to amplify reach.
 
 ## Known for
-- Six-color screen printing press for multi-color apparel
-- In-house embroidery for personalized items
-- Large-format vehicle wraps with measurable results
-- Branding and marketing strategy since 2005
-- Online store creation for branded merchandise
+- In-house six-color screen printing press
+- Full-service vehicle wrap design and installation with measurable results tracking
+- Integrated branding, marketing, and promotional product sourcing
+- Custom online company store setup and management
+- Personalized business stationery and signage production
 
 ## Capabilities
 - Screen printing (6-color)
 - Embroidery
-- Large format printing
-- Vehicle wraps
-- Banner printing
-- Sign fabrication
-- Promotional product sourcing
+- Vehicle wrap design and installation
+- Large format graphics (banners, signs)
+- Promotional product sourcing and customization
 - Branding and marketing strategy
-- Graphic design
-- Business card printing
-- Letterhead and envelope printing
-- Yard sign production
-- Online store setup
+- Business card and stationery printing
+- Online store setup and management
 
 ## Industries
+- Businesses
 - Non-profit organizations
-- Education (schools)
-- Greek life organizations
-- General business
+- Schools and universities
+- Greek organizations
 - Fundraising events
+- Community organizations
 
 ## Equipment
-- 6-color screen printing press
+- 6-color printing press
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Founded:** 2005
 - **Headquarters:** Cumberland, Rhode Island
 
 <details><summary>Sources</summary>
 
-- Founded in 2005 -> home page
-- Headquartered in Cumberland, Rhode Island -> home page (address)
-- Operates a 6-color screen printing press -> services page
-- Offers embroidery services -> services page
-- Produces large-format graphics for vehicle wraps -> services page (East Bay Food Pantry & Thrift Shop project)
-- Provides promotional product sourcing -> services page
-- Offers branding and marketing services -> services page
-- Provides business enhancements including business cards, yard signs, letterhead, envelopes, vinyl banners, frontage signs, online stores -> services page
-- Describes itself as New England's leading source for apparel and promotional items since 2005 -> home page
-- States mission to help clients find creative voice and champion brands -> home page
+- Founded in 2005 -> /
+- Headquarters: Cumberland, RI -> /
+- 6-color printing press -> /services
+- Screen printing, embroidery, vehicle wraps, banners, signs, promotional items, branding/marketing -> /, /services
+- Example client: East Bay Food Pantry & Thrift Shop -> /services
+- Industries served: businesses, non-profits, schools, Greek life, fundraisers -> /services
+- Address: 30 Industrial Rd, Cumberland, RI 02864 -> /
+- Contact: info@iuseimpact.com, 401-333-4472 -> /
 </details>
 
 ---
@@ -331,20 +300,20 @@ Impact states that it was started to help clients find their creative voice and 
 **Old description:** Impact Energy is Premium Solar Installation Company in Centennial CO. That means we don’t subcontract any part of the process of going solar on your home or business, which translates into a better customer experience & better quality of work than our competitors.
 
 ## About
-Impact Energy & Roofing Denver is based in Centennial, Colorado, and serves communities across the Front Range including Aurora, Denver, Greeley, Lakewood, and Pueblo. The company was established to provide integrated roofing and solar solutions without relying on subcontractors, though a specific founding year and founder names are not publicly disclosed.
+Impact Energy & Roofing operates from Centennial, Colorado, serving homeowners and businesses across the Front Range including Aurora, Denver, Greeley, Lakewood, and Pueblo. The company does not state a founding year or ownership structure in its public materials; it describes its team as having a combined 100-plus years of experience in roofing and solar installation.
 
-The firm delivers complete roofing services — repair, replacement, installation, emergency response, and commercial roofing — alongside solar system installation, battery backup, and EV charger installation. All work is performed by an in-house crew that handles both roofing and solar projects back-to-back. The process begins with satellite-based roof and site assessment, followed by shade analysis and Total Solar Resource Fraction calculation, custom design with transparent pricing, and final installation and activation. The company reports more than 3,000 completed projects.
+The firm provides complete roofing and solar solutions entirely with its own in-house crews — no subcontracting. Services span roof repair, replacement, and installation (including emergency and commercial work), full solar photovoltaic systems, battery backup, and electric-vehicle charger installation. The company reports more than 3,000 completed projects and uses satellite imagery for initial roof and site assessments, followed by shade analysis, custom design, and back-to-back roofing and solar installation.
 
-Primary customers are homeowners and businesses in Colorado seeking roofing protection and renewable energy systems. The company addresses both residential and commercial markets, offering bundled roofing and solar packages that ensure a solid foundation for solar arrays.
+Customers are primarily residential and commercial property owners in Colorado seeking integrated roofing and renewable-energy upgrades. The company highlights projects ranging from single-home roof replacements to full solar-plus-storage systems, with installers such as Nate and Rain mentioned in customer reviews.
 
-Impact Energy differentiates itself by never subcontracting any part of the work, which it says leads to better quality control and a smoother customer experience. It also highlights a 30-year product warranty and a fully integrated design-to-installation workflow as key advantages.
+Impact Energy emphasizes that keeping all work in-house delivers better quality control and a smoother customer experience. It backs installations with a 30-year product warranty and promotes a single-point-of-contact process from assessment through activation.
 
 ## Known for
-- All roofing and solar work performed by in-house crews, no subcontracting
+- All roofing and solar work performed by in-house crews, no subcontractors
 - 30-year product warranty on installations
 - Satellite-based roof and site assessment before on-site visit
-- Integrated roofing and solar design with transparent pricing
-- Back-to-back roofing and solar installation for seamless activation
+- Integrated roofing and solar design in a single proposal
+- Back-to-back roofing and solar installation by the same crew
 
 ## Capabilities
 - Roof repair
@@ -352,21 +321,20 @@ Impact Energy differentiates itself by never subcontracting any part of the work
 - Roof installation
 - Emergency roofing
 - Commercial roofing
-- Solar system installation
+- Solar photovoltaic system installation
 - Battery backup installation
 - EV charger installation
-- Roof and site assessment via satellite imagery
+- Satellite imagery roof and site assessment
 - Shade analysis and Total Solar Resource Fraction calculation
 - Custom system design and proposal
-- Installation and system activation
+- Permitting, inspection, and system activation
 
 ## Industries
-- Residential construction
-- Commercial construction
-- Solar energy
-- Roofing
-- Energy storage
-- Electric vehicle charging infrastructure
+- Residential roofing
+- Commercial roofing
+- Solar installation
+- Renewable energy services
+- Home energy efficiency
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -374,14 +342,16 @@ Impact Energy differentiates itself by never subcontracting any part of the work
 
 <details><summary>Sources</summary>
 
-- Location: Centennial, Colorado -> /
-- Service areas: Aurora, Denver, Greeley, Lakewood, Pueblo -> /
-- No subcontracting, in-house crews -> /
-- Services: roofing (repair, replacement, installation, emergency, commercial), solar, battery backup, EV charger -> /
-- Process: satellite assessment, shade analysis, custom design, installation -> /
+- Headquarters: Centennial, Colorado -> db
+- Services: roofing repair/replacement/installation, solar, battery backup, EV charger -> /
+- No subcontracting; in-house crews -> /
 - 3000+ projects completed -> /
+- 100+ years combined team experience -> /
+- Service areas: Aurora, Denver, Greeley, Lakewood, Pueblo -> /
+- Process steps: satellite assessment, shade analysis, custom design, back-to-back install -> /
 - 30-year product warranty -> /
-- Target customers: homeowners and businesses in Colorado -> /
+- Customer reviews mention installers Nate and Rain -> /
+- Phone number (888) 240-1131 -> /
 </details>
 
 ---
@@ -391,41 +361,46 @@ Impact Energy differentiates itself by never subcontracting any part of the work
 **Old description:** Setting a new standard of precision for the custom sheet extrusion industry, personalized for your project and developed to exceed your expectations.
 
 ## About
-Impact Plastics operates from Hamlet, North Carolina. The company describes itself as an agile team of entrepreneurs focused on barrier food packaging, though no founding year or ownership structure is publicly disclosed.
+Impact Plastics operates from Hamlet, North Carolina, as a custom sheet extrusion specialist focused on thermoforming packaging. The company serves the food packaging sector with an emphasis on barrier materials and precision thickness control.
 
-The company specializes in custom sheet extrusion for thermoforming applications. Its production uses precision gauge monitoring systems — branded as visionX — that provide real-time analysis of individual layer thickness during extrusion. The operation also emphasizes sustainable practices, incorporating waste reduction and recycling into daily manufacturing. Technical support includes on-site assistance for development projects and a dedicated engineer assigned to each program.
+The company runs advanced extrusion lines equipped with its visionX monitoring system, which provides real-time analysis of individual layer thickness during production. This precision gauge capability supports custom extruded sheet development for applications such as retort, form-fill-seal, and hot-fill processing. Impact Plastics also offers on-site technical support and dedicated engineering assistance for material qualification trials and commercialization projects.
 
-Impact Plastics serves the food packaging sector, with materials engineered for retort, form-fill-seal (FFS), and hot-fill processing. Customers are typically companies requiring high-barrier thermoformed packaging for food products.
+Customers include food packaging manufacturers requiring barrier structures for shelf-stable and refrigerated products. The company’s materials are engineered for specific filling methods, sterilization processes, and shelf-life requirements, with experience across retort, FFS, and hot-fill applications.
 
-The company highlights its ISO 9001:2015 certified quality management system and FSSC 22000 food packaging materials certification as differentiators. Its visionX monitoring system delivers production-run data before material ships, and a dedicated technical support engineer works proactively to reduce downtime during qualification and commercialization.
+Impact Plastics differentiates itself through its visionX real-time monitoring, a quality management system certified to ISO 9001:2015 and FSSC 22000, and a sustainability program built on reducing, reusing, and recycling waste. The team positions itself as an agile, entrepreneurial partner that collaborates from concept through commercialization.
 
 ## Known for
-- Real-time layer thickness monitoring via visionX system
-- Dedicated technical support engineer per project
-- ISO 9001:2015 and FSSC 22000 certified quality system
-- Sustainable manufacturing with waste reduction and recycling
-- Custom material engineering for retort, FFS, and hot-fill applications
+- Real-time individual layer thickness monitoring via visionX system
+- Dedicated technical support engineer assigned to every project
+- ISO 9001:2015 and FSSC 22000 certified quality management system
+- Sustainable operations focused on reducing, reusing, and recycling
+- Custom sheet extrusion for barrier food packaging and thermoforming
 
 ## Capabilities
 - Custom sheet extrusion
-- Precision gauge monitoring (visionX)
-- Real-time thickness analysis
-- Material customization for thermoforming
+- Thermoforming packaging solutions
+- Precision gauge monitoring (visionX system)
+- Real-time layer thickness monitoring
 - On-site technical support
 - Material qualification trials
-- Sustainable manufacturing practices
+- Custom material development
+- Sustainable manufacturing practices (reduce, reuse, recycle)
+- Barrier food packaging development
+- Retort packaging applications
+- Form-fill-seal (FFS) packaging
+- Hot-fill packaging applications
 
 ## Industries
 - Food packaging
-- Barrier packaging
-- Thermoformed packaging
+- Barrier food packaging
+- Thermoforming packaging
 - Retort processing
 - Form-fill-seal (FFS)
 - Hot-fill processing
 
 ## Equipment
 - visionX system
-- precision gauge monitoring systems
+- Precision gauge monitoring systems
 
 ## Certifications
 - ISO 9001:2015
@@ -437,16 +412,14 @@ The company highlights its ISO 9001:2015 certified quality management system and
 
 <details><summary>Sources</summary>
 
-- Location: Hamlet, NC -> db
-- Certifications: ISO 9001:2015, FSSC 22000 -> /quality
-- Process: custom sheet extrusion -> /
-- Equipment: visionX system for real-time layer thickness monitoring -> /quality
-- Industries: food packaging, retort, FFS, hot-fill -> /quality
-- Differentiators: real-time monitoring, dedicated engineer, sustainability -> /quality, /
-- Company type: manufacturer -> /
-- Quality system: ISO 9001:2015 certified -> /quality
-- Technical support: on-site, dedicated engineer per project -> /quality
-- Sustainability: waste reduction, recycling -> /
+- Location: Hamlet, North Carolina -> db
+- Business: custom sheet extrusion for thermoforming packaging -> page "/"
+- Certifications: ISO 9001:2015 and FSSC 22000 -> page "/quality"
+- Technology: visionX system for real-time layer thickness monitoring -> page "/quality"
+- Services: on-site technical support and dedicated technical support engineer -> page "/quality"
+- Applications: retort, FFS, hot-fill processing -> page "/quality"
+- Sustainability: reducing, reusing, recycling practices -> page "/"
+- Industries: food packaging, barrier food packaging -> page "/about-us" and "/quality"
 </details>
 
 ---
@@ -456,33 +429,30 @@ The company highlights its ISO 9001:2015 certified quality management system and
 **Old description:** Family owned and operated since 1989, Imperial prides itself on the relationships we've built through the years.
 
 ## About
-Imperial Electronic Assembly has operated from Brookfield, Connecticut since its founding in 1989. The company is family owned and privately held, built on a philosophy that long-term relationships drive success in electronics manufacturing.
+Imperial Electronic Assembly was founded in 1989 in Brookfield, Connecticut, and has remained a family-owned operation since its inception. The company began as a privately held contract electronic manufacturing service provider, built on the principle that long-term relationships drive success.
 
-As a contract electronic manufacturing services provider, Imperial delivers end-to-end assembly and test capabilities. Its offerings span collaborative engineering and design support through prototyping, production, quality assurance, project management, and supply chain logistics. The company emphasizes a cost-conscious approach and clear, consistent communication at each project stage.
+Today the firm delivers end-to-end electronic manufacturing services, including collaborative engineering, prototyping, printed circuit board assembly, functional testing, and full supply-chain logistics. Its capabilities span design collaboration, project management, and quality assurance, allowing it to take projects from concept through volume production without outsourcing core processes.
 
-Imperial serves medical and military facilities, along with the security, energy, and telecommunications sectors. Since 1989 it has designed and built products for dozens of industries, positioning itself as a versatile partner for regulated and commercial markets alike.
+Imperial serves a diverse customer base across medical, military, security, energy, and telecommunications sectors. The company notes it has designed and built products for dozens of industries since 1989, with specific experience in regulated environments such as medical devices and defense equipment.
 
-The company cites a 99.6 percent quality rating and on-time delivery as its primary service indicators. Its "Service, Quality Solutions" motto reflects a culture that prioritizes reliable logistics, collaborative problem-solving, and speed to market for customer programs.
+The company attributes its differentiation to its family-owned culture, which emphasizes direct communication, cost-conscious design, and versatile supply-chain programs. It cites a 99.6% quality rating and on-time delivery as measurable outcomes of its "Service, Quality Solutions" philosophy.
 
 ## Known for
-- 99.6% quality rating
-- Industry-leading on-time delivery rates
-- Family-owned, relationship-driven culture
-- End-to-end manufacturing from prototyping through delivery
-- Collaborative engineering and design support
+- Family-owned since 1989
+- Collaborative engineering from prototype to delivery
+- End-to-end assembly and test capabilities
+- Supply-chain logistics programs for worry-free fulfillment
+- 99.6% quality rating with industry-leading on-time delivery
 
 ## Capabilities
 - Electronic assembly
-- Electronic test
+- Testing
+- Collaborative engineering
 - Prototyping
 - Design collaboration
-- Engineering support
 - Project management
 - Quality assurance
 - Supply chain logistics
-- End-to-end manufacturing
-- Cost-conscious manufacturing
-- Speed-to-market programs
 
 ## Industries
 - Medical
@@ -494,29 +464,28 @@ The company cites a 99.6 percent quality rating and on-time delivery as its prim
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1989
-- **Ownership:** Family-owned, privately held
+- **Ownership:** Family-owned
 - **Headquarters:** Brookfield, Connecticut
 
 <details><summary>Sources</summary>
 
-- Founded 1989 -> db, /
-- Family owned and operated -> db, /
-- Headquarters Brookfield, Connecticut -> db, /
-- Contract electronic manufacturing services company -> /
-- Assembly and test capabilities -> /
-- End-to-end manufacturing -> /
-- Collaborative engineering and design support -> /
-- Project management, quality assurance, supply chain logistics -> /
-- Serves medical and military facilities -> /
-- Serves security, energy, telecommunications sectors -> /
-- 99.6% quality rating -> /
-- Industry-leading on-time delivery rates -> /
-- Privately owned -> /
-- "Trusted Service, Quality Solutions" motto -> /
-- Cost-conscious approach -> /
-- Clear, direct, consistent communication -> /
-- Speed to market -> /
-- Dozens of industries since 1989 -> /
+- Founded 1989 -> db
+- Headquarters Brookfield, CT -> db
+- Family-owned -> page /
+- Contract electronic manufacturing services -> page /
+- Assembly and test capabilities -> page /
+- Industries: medical, military, security, energy, telecommunications -> page /
+- Collaborative engineering -> page /
+- Design collaboration -> page /
+- Project management -> page /
+- Quality assurance -> page /
+- Supply chain logistics -> page /
+- 99.6% quality rating -> page /
+- Industry-leading on-time delivery -> page /
+- Trusted Service, Quality Solutions motto -> page /
+- Speed to market -> page /
+- End-to-end manufacturing -> page /
+- Versatile builds -> page /
 </details>
 
 ---
@@ -526,35 +495,38 @@ The company cites a 99.6 percent quality rating and on-time delivery as its prim
 **Old description:** Founded in 1979, Imperial Wire & Cable has been a trusted supplier for manufacturers, defense contractors, and government agencies. Now under new leadership, we're building on that legacy while expanding into commercial industries. Our mission remains the same: deliver dependable products with the attention to detail that complex industries demand.
 
 ## About
-Imperial Wire & Cable operates from Warminster, Pennsylvania, where it was founded in 1979 as a family-run distributor of specialized wire and cable. In 2024 the business transitioned to new leadership through an asset purchase, and is now owned and operated by three partners—Joseph Healy, Jonathan Steingart, and Greg Thompson—who bring expertise in operations, finance, and technology.
+Imperial Wire & Cable is based in Warminster, Pennsylvania. The company was founded in 1979 as a family-run distributor of specialized wire and cable. In 2024, the business transitioned to new leadership through an asset purchase; it is now owned and operated by three partners—Joseph Healy, Jonathan Steingart, and Greg Thompson—who bring expertise in operations, finance, and technology.
 
-The company distributes a full range of military-specification and commercial wire and cable products, and provides custom respooling, cutting, and handling services tailored to project requirements. Its capabilities include distribution and logistics for OEM, government, and commercial buyers nationwide, backed by compliance documentation such as CAGE, UEI, ISO, and Mil-Spec certifications.
+The firm distributes military-specification and commercial wire and cable, and provides custom respooling, cutting, and handling services tailored to project requirements. Its capabilities include distribution and logistics for OEM, government, and commercial buyers nationwide, backed by compliance documentation such as CAGE, UEI, ISO, and Mil-Spec certifications. Facility size, headcount, and annual volume are not disclosed.
 
-Imperial serves defense contractors, federal agencies, OEMs and manufacturers, and commercial projects including infrastructure, signage, and systems integration. The company emphasizes direct support from dedicated partners, consistent inventory, and dependable delivery to keep production lines moving.
+Imperial serves defense contractors and aerospace programs, federal agencies, OEMs and manufacturers, and commercial projects including infrastructure, signage, and systems integration. The company emphasizes direct support from dedicated partners and consistent inventory availability.
 
-The company states its mission is to deliver dependable products with the attention to detail that complex industries demand, guided by values of dependability, expertise, integrity, and partnership, building on nearly 50 years of experience across defense and commercial markets.
+The company states its mission is to deliver dependable products with the attention to detail that complex industries demand. Its stated values are dependability, expertise, integrity, and partnership, built on nearly 50 years of experience across defense and commercial markets.
 
 ## Known for
 - Direct support from a dedicated partner
 - Consistent inventory and dependable delivery
-- Decades of experience in federal and commercial projects
-- CAGE, UEI, ISO, and Mil-Spec documentation for procurement confidence
+- CAGE and UEI codes for federal procurement compliance
 - Custom respooling, cutting, and handling tailored to project requirements
+- Nearly 50 years of experience across defense and commercial markets
 
 ## Capabilities
-- Mil-Spec Wire & Cable Distribution
-- Commercial Wire & Cable Distribution
-- Custom Respooling
-- Custom Cutting
-- Custom Handling
-- Distribution & Logistics
-- Compliance & Certifications Support
+- Mil-Spec wire and cable distribution
+- Commercial wire and cable distribution
+- Custom respooling
+- Custom cutting
+- Custom handling
+- Distribution and logistics
+- Compliance and certifications (CAGE, UEI, ISO, Mil-Spec)
 
 ## Industries
-- Defense Contractors
-- Federal Agencies
-- OEMs & Manufacturers
-- Commercial Projects (Infrastructure, Signage, Systems Integration)
+- Defense
+- Aerospace
+- Federal Government
+- OEM Manufacturing
+- Commercial Infrastructure
+- Signage
+- Systems Integration
 
 ## Certifications
 - CAGE
@@ -565,25 +537,24 @@ The company states its mission is to deliver dependable products with the attent
 ## Company details
 - **Company Type:** Distributor / reseller
 - **Founded:** 1979
-- **Ownership:** Partner-owned (three partners)
+- **Ownership:** Three partners (Joseph Healy, Jonathan Steingart, Greg Thompson); originally family-owned
 - **Headquarters:** Warminster, Pennsylvania
 
 <details><summary>Sources</summary>
 
 - Founded in 1979 -> /about
-- Headquarters Warminster, Pennsylvania -> db
+- Headquartered in Warminster, Pennsylvania -> db
 - Originally family-run distributor -> /about
-- 2024 asset purchase to three partners (Joseph Healy, Jonathan Steingart, Greg Thompson) -> /about
-- Distributes mil-spec and commercial wire & cable -> /capabilities
-- Custom respooling, cutting, handling -> /capabilities
-- Distribution & logistics nationwide -> /capabilities
-- Compliance: CAGE, UEI, ISO, Mil-Spec -> /capabilities
-- Industries: Defense Contractors, Federal Agencies, OEMs & Manufacturers, Commercial Projects -> /about, /
-- Values: dependability, expertise, integrity, partnership -> /about
-- Direct support from dedicated partner -> /
-- Consistent inventory and dependable delivery -> /
-- Decades of experience in federal and commercial markets -> /about
-- Blog mentions Instrumentation Cable and TFFN Wire -> /
+- Transitioned to new leadership in 2024 via asset purchase -> /about
+- Owned by three partners: Joseph Healy, Jonathan Steingart, Greg Thompson -> /about
+- Distributes mil-spec and commercial wire and cable -> /capabilities
+- Offers custom respooling, cutting, and handling -> /capabilities
+- Provides distribution and logistics nationwide -> /capabilities
+- Holds CAGE, UEI, ISO, and Mil-Spec certifications -> /capabilities
+- Serves defense contractors, federal agencies, OEMs, and commercial projects -> /
+- Commercial projects include infrastructure, signage, and systems integration -> /
+- Mission: deliver dependable products with attention to detail -> /about
+- Values: Dependability, Expertise, Integrity, Partnership -> /about
 </details>
 
 ---
@@ -593,20 +564,20 @@ The company states its mission is to deliver dependable products with the attent
 **Old description:** Serving Livingston and clients across Montana with custom-built, repaired, refinished, and restored furniture backed by over 30 years of experience.
 
 ## About
-In The Mountains Custom Furniture operates from Livingston, Montana, where it was founded in 1996. The business is owner‑operated, with the founder’s name not publicly disclosed, and has grown from a local workshop into a service covering a 200‑mile radius across Montana plus shipping to wider regions.
+In The Mountains Custom Furniture was founded in 1996 in Livingston, Montana, as an owner-operated woodworking shop. The business began with a focus on custom furniture creation and has since expanded to include repair, refinishing, and restoration services for clients across the state.
 
-The shop builds custom furniture — bedroom sets, bunk beds, tables, chairs, dressers, nightstands, and end tables — to exact dimensions, wood species, and finish. It also repairs structural issues such as loose joints and broken drawer runners, refinishes worn surfaces by stripping, sanding, and re‑staining, and restores antiques and heirlooms using period‑appropriate methods and materials. Pickup, delivery, professional setup, and shipping are coordinated from the workshop.
+The company builds custom bedroom sets, bunk beds, tables, chairs, dressers, nightstands, and end tables to client specifications, working with various wood species, stains, and finishes. Its workshop handles structural repairs such as loose joints, broken drawer runners, and split panels using traditional joinery. Refinishing services strip, sand, and reapply finishes to match existing pieces, while restoration work on antiques and heirlooms employs period-appropriate methods to preserve original character. The shop also offers hardware replacement, pickup, delivery, professional setup, and shipping for customers beyond its 200-mile service radius.
 
-Clients include homeowners, businesses, interior designers, and property owners throughout Montana. Projects range from one‑of‑a‑kind residential pieces to commercial furnishings and the preservation of inherited or vintage furniture. The company cites work on bedroom suites, dining tables, and antique restoration as typical engagements.
+In The Mountains serves homeowners, businesses, interior designers, and property owners throughout Montana. Projects range from one-of-a-kind residential furnishings to commercial seating and the restoration of inherited antiques. The owner manages each job directly, coordinating design, material selection, and finish details with the client.
 
-The owner‑operated model means every project is personally managed from design through delivery, ensuring direct communication and consistent craftsmanship. The emphasis on repairing rather than replacing sound construction, preserving original patina during restoration, and offering full logistics support are presented as the core reasons the business was started and what distinguishes it today.
+The company emphasizes personally managed craftsmanship, free estimates, and military discounts. Its differentiators include direct owner oversight from start to finish, convenient logistics with pickup and delivery, and over three decades of hands-on experience across diverse furniture styles and construction methods.
 
 ## Known for
-- Owner‑operated with direct project management from start to finish
+- Owner-operated with direct project management
 - Pickup, delivery, professional setup, and shipping available
-- 30+ years of hands‑on experience in custom build, repair, refinishing, and restoration
-- Repair‑first approach — replace only when original construction cannot be saved
-- Period‑appropriate methods and materials for antique and heirloom restoration
+- 30+ years of hands-on furniture experience
+- Free estimates and military discounts offered
+- Licensed and insured
 
 ## Capabilities
 - Custom furniture building
@@ -615,16 +586,18 @@ The owner‑operated model means every project is personally managed from design
 - Furniture restoration
 - Hardware replacement and refitting
 - Pickup and delivery
-- Professional setup and installation
-- Shipping coordination
+- Professional setup
+- Shipping
+- Joinery
+- Stripping and sanding
+- Period-appropriate restoration methods
 
 ## Industries
 - Residential furniture
 - Commercial furniture
 - Interior design
-- Antique restoration
-- Hospitality furniture
 - Property management
+- Antique restoration
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -636,16 +609,17 @@ The owner‑operated model means every project is personally managed from design
 
 - Founded 1996 -> db
 - Headquarters Livingston, Montana -> db
-- Owner-operated business -> /
+- Owner-operated -> /
+- Services: custom furniture, repair, refinishing, restoration -> /
+- Serves homeowners, businesses, designers, property owners within 200-mile radius -> /
+- Pickup, delivery, setup, shipping available -> /
 - 30+ years experience -> /
-- Services: custom build, repair, refinishing, restoration -> /
-- Product examples: bedroom sets, bunk beds, tables, chairs, dressers, nightstands, end tables -> /
-- Service area 200-mile radius plus shipping -> /
-- Pickup, delivery, professional setup, shipping offered -> /
-- Client types: homeowners, businesses, designers, property owners -> /
-- Repair rather than replace when possible -> /
+- Licensed & insured -> /
+- Free estimates, military discounts -> /
+- Builds bedroom sets, bunkbeds, tables, chairs, dressers, nightstands, end tables -> /
+- Hardware replacement and refitting -> /
 - Period-appropriate restoration methods -> /
-- Licensed & insured, free estimates, military discounts -> /
+- Works with wood species, particle board, laminate -> /
 </details>
 
 ---

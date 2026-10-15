@@ -3,28 +3,31 @@
 **Old description:** At Old Capitol Food Company we have challenged ourselves to craft the best tofu, ever, period. Using 100% non-gmo organic Iowa-grown soybeans while fostering deep connections with our local vendors and neighbors, we seek to spread the love of tofu while holding ourselves to ever higher standards of environmental sustainability and responsibility.
 
 ## About
-Old Capitol Food Company operates from Iowa City, Iowa, producing tofu from locally grown organic soybeans. The company's founding year and ownership structure are not publicly disclosed.
+Old Capitol Food Company operates from Iowa City, Iowa, where it produces tofu using locally sourced ingredients. The company describes itself as a natural foods business focused on crafting tofu from 100 percent non-GMO organic soybeans grown in Iowa. No founding year or founder names are disclosed in public materials.
 
-The facility manufactures tofu using 100 percent non-GMO organic soybeans sourced directly from Iowa farms. Production serves both institutional and retail channels, though specific facility size, headcount, and output volumes are not published.
+The company's core activity is tofu manufacturing, centered on a supply chain that emphasizes Iowa-grown organic soybeans. Details about facility size, headcount, or production volumes are not published. The process highlights ingredient sourcing and craft production methods rather than industrial scale metrics.
 
-Customers include major Iowa institutions such as the University of Iowa, Grinnell College, and Cornell College, as well as the New Pioneer Food Co-op, Hy-Vee grocery stores, independent restaurants, and other food co-ops and dining halls across the region.
+Old Capitol Food Company supplies tofu to institutional and retail channels across Iowa. Named customers include the University of Iowa, Grinnell College, Cornell College, and the New Pioneer Food Co-op. Distribution extends to dining halls, grocery stores, food co-ops, Hy-Vee locations, and restaurants, indicating a focus on regional food-service and specialty retail markets.
+
+The business states it was started to “spread the love of tofu” while holding itself to rising standards of environmental sustainability and responsibility. It emphasizes fostering deep connections with local vendors and neighbors as part of its operating philosophy.
 
 ## Known for
 - 100% non-GMO organic Iowa-grown soybeans
-- Direct relationships with local soybean growers
-- Focus on environmental sustainability
-- Supplying Iowa institutions and retailers
+- Direct relationships with local Iowa soybean growers
+- Environmental sustainability as a stated operating principle
+- Distribution through Iowa institutional and specialty retail channels
 
 ## Capabilities
 - Tofu manufacturing
-- Organic soybean sourcing
-- Local ingredient procurement
+- Organic soybean processing
+- Local ingredient sourcing
 
 ## Industries
 - Institutional food service
 - Grocery retail
 - Food cooperatives
 - Restaurant supply
+- Higher education dining
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -33,10 +36,10 @@ Customers include major Iowa institutions such as the University of Iowa, Grinne
 <details><summary>Sources</summary>
 
 - Location: Iowa City, Iowa -> db
-- Product: Tofu from 100% non-GMO organic Iowa-grown soybeans -> /
-- Customers: University of Iowa, Grinnell College, Cornell College, New Pioneer Food Co-op, Hy-Vee, restaurants -> /
-- Values: Local vendor connections, environmental sustainability -> /
-- Company type: Manufacturer (produces tofu) -> /
+- Product: Tofu made from 100% non-GMO organic Iowa-grown soybeans -> /
+- Customers: University of Iowa, New Pioneer Food Co-op, Grinnell College, Cornell College -> /
+- Distribution channels: Dining halls, grocery stores, food co-ops, Hy-Vee, restaurants -> /
+- Values: Environmental sustainability, local vendor connections -> /
 </details>
 
 ---
@@ -46,46 +49,53 @@ Customers include major Iowa institutions such as the University of Iowa, Grinne
 **Old description:** Armed with more than two decades of experience in the textile industry, and motivated by the desire to create more healthful surroundings, I founded Oliveira Textiles in 2007 and introduced 'The Ocean Collection': contemporary coastal patterns printed on hemp and organic cotton. Through extensive research I found that consumers absolutely want to use their purchasing power to support thoughtfully produced goods.  I'm proud to be a part of that shift.
 
 ## About
-Oliveira Textiles was founded in 2007 in Bristol, Rhode Island, by textile designer Dawn Oliveira. After more than two decades in the textile industry, Oliveira launched the company to create more healthful surroundings through thoughtfully produced goods.
+Oliveira Textiles was founded in 2007 in Bristol, Rhode Island, by textile designer Dawn Oliveira. After more than two decades in the textile industry, Oliveira launched the company with a focus on healthful surroundings, introducing "The Ocean Collection" of contemporary coastal patterns printed on hemp and organic cotton.
 
-The studio produces the Ocean Collection, a line of contemporary coastal patterns printed on hemp and organic cotton. Operations include textile printing, pattern design, and custom color development. Products are sold as fabric by the yard and as finished pillows, with stock fabrics and custom options available directly from the Bristol studio.
+The studio produces stock fabrics and custom color options, selling fabric by the yard and finished pillows. Printing is done on hemp and organic cotton substrates. The operation runs out of a Bristol studio Byfield Building, and also offers freelance design collaborations and licensing opportunities.
 
-The company serves the home textiles and interior design markets, targeting consumers and designers seeking coastal-inspired decor. Oliveira Textiles also pursues freelance collaborations and licensing opportunities, and ships swatches worldwide.
+The company serves the home textiles and interior design markets, targeting consumers, designers, and retailers seeking sustainably produced fabrics. Products are shipped worldwide via swatch requests, and the brand extends into design education through the "Design Me A House" podcast co-hosted by Oliveira and architect Katie Hutchison.
 
-Oliveira started the business after research showed consumers want to use their purchasing power to support thoughtfully produced goods, positioning the brand around healthful, sustainable materials and coastal aesthetics.
+Oliveira Textiles was motivated by a desire to create more healthful surroundings and to meet consumer demand for thoughtfully produced goods. The founder emphasizes sustainable materials and contemporary coastal aesthetics as key differentiators.
 
 ## Known for
 - Contemporary coastal patterns printed on hemp and organic cotton
+- Focus on healthful, thoughtfully produced goods
 - Custom color options on stock fabrics
-- Freelance collaborations and licensing opportunities
-- Swatches shipped worldwide
+- Freelance design collaborations and licensing available
+- Worldwide swatch shipping
 
 ## Capabilities
 - Textile printing on hemp and organic cotton
-- Pattern design
-- Custom color development
-- Fabric sales by the yard
-- Finished pillow production
+- Fabric design and pattern development
+- Custom color matching
+- Fabric by the yard sales
+- Finished pillow manufacturing
+- Freelance design collaborations
+- Licensing of designs
 
 ## Industries
-- Home textiles
+- Textile
+- Home furnishings
 - Interior design
-- Coastal home decor
+- Sustainable textiles
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 2007
-- **Ownership:** Not stated
 - **Headquarters:** Bristol, Rhode Island
 
 <details><summary>Sources</summary>
 
-- Founded 2007 by Dawn Oliveira -> /
-- Headquarters Bristol, Rhode Island -> /
-- Products: Ocean Collection printed on hemp and organic cotton -> /
-- Sells fabric by the yard and finished pillows -> /
-- Offers custom color options and licensing collaborations -> /
-- Ships swatches worldwide -> /
+- Founded in 2007 by Dawn Oliveira -> /
+- Location: Bristol, Rhode Island (220 High St. Byfield Bldg.) -> /
+- Products: stock fabrics, custom colors, fabric by the yard, finished pillows -> /
+- Materials: hemp, organic cotton -> /
+- The Ocean Collection: contemporary coastal patterns -> /
+- Freelance collaborations and licensing opportunities -> /
+- Worldwide swatch shipping -> /
+- Podcast Design Me A House co-hosted with Katie Hutchison -> /
+- Founder has over two decades textile industry experience -> /
+- Motivation: healthful surroundings, thoughtfully produced goods -> /
 </details>
 
 ---
@@ -95,27 +105,26 @@ Oliveira started the business after research showed consumers want to use their 
 **Old description:** Olson’s Sheet Metal Works is Family owned and operated, Established in 1928 by my grandfather, Clifford E. Olson, operated by his son Robert C Olson, and now run by Robert Dale Olson for a third generation, based in Minneapolis Minnesota.
 
 ## About
-Olson Sheet Metal Works Inc has operated in Minneapolis, Minnesota since 1928, when Clifford E. Olson founded the business. The company remains family-owned and is now led by the third generation, Robert Dale Olson, following his father Robert C. Olson.
+Olson Sheet Metal Works Inc has operated in Minneapolis, Minnesota since 1928. Founded by Clifford E. Olson, the business passed to his son Robert C. Olson and is now led by the third generation, Robert Dale Olson. The company remains family-owned and operated.
 
-The shop provides complete layout and fabrication of custom metalwork, handling shearing (up to 10-foot capacity), bending with hand brakes and a 10-foot 300-ton press brake, sheet rolling, tube and angle rolling, and a range of welding processes including spot, stick, MIG, and TIG. Plasma and torch cutting, as well as polishing, round out the in-house capabilities. The firm works with a broad palette of metals — stainless steel, carbon steel, galvanized, hot- and cold-rolled, copper, aluminum, brass, bronze, zinc, and even precious metals such as gold and silver — in forms from flat sheet and plate to structural shapes and tubing.
+The shop provides custom metal fabrication across a range of processes: shearing (up to 10-foot capacity), bending with hand brakes and a 10-foot 300-ton press brake, rolling (sheet, bar, angle, and tube), welding (spot, stick, MIG, TIG), plasma and torch cutting, and polishing. Work is performed in-house from layout through final fabrication.
 
-Projects span architectural metalwork such as railings, staircases, hoods, copper roofs, and planter boxes, as well as custom furniture, display fixtures, sinks, counters, and hardware. The customer base includes architects, contractors, designers, and homeowners seeking one-off or small-run pieces for residential and commercial spaces.
+Projects span architectural and decorative metalwork, including railings, hoods, staircases, custom furniture, doors, gates, copper roofs, planter boxes, hardware, sinks, countertops, backsplashes, display fixtures, fireplace surrounds, and burners. The company works with stainless steel, carbon steel, galvanized, hot-rolled, cold-rolled, copper, aluminum, brass, bronze, gold, silver, lead, and zinc.
 
-The company emphasizes its ability to produce virtually any metal component under one roof, a capability rooted in its third-generation family ownership and full in-house fabrication.
+The firm emphasizes its multi-generational family ownership and the ability to handle custom jobs in virtually any metal, offering complete layout and fabrication under one roof.
 
 ## Known for
-- Family owned and operated since 1928
-- Complete in-house layout and fabrication
-- Works with over a dozen metals including brass, copper, aluminum, stainless steel, and precious metals
-- 10-foot 300-ton press brake and plasma/torch cutting
-- Custom architectural metalwork, furniture, and fixtures
+- Family-owned and operated since 1928, now in third generation
+- Complete in-house layout and fabrication with cutting, welding, and forming equipment
+- Works with a wide range of metals including brass, copper, aluminum, steel, zinc, stainless steel, and precious metals
+- Custom fabrication of architectural elements, furniture, fixtures, and specialty items
 
 ## Capabilities
 - Layout
-- Shearing
-- Bending
-- Sheet rolling
-- Tube/angle/bar rolling
+- Shearing (3', 5', 10')
+- Bending (hand brakes 4', 5', 10'; 10' 300-ton press brake)
+- Sheet rolling (18", 3', 4')
+- Bar/angle/tube rolling
 - Spot welding
 - Stick welding
 - MIG welding
@@ -125,10 +134,16 @@ The company emphasizes its ability to produce virtually any metal component unde
 - Polishing
 
 ## Equipment
-- 10' 300 Ton Press Brake
-- 3', 5', 10' hand Brakes
-- 18", 3', 4' Sheet Rollers
-- Power Bar, Angle, Tube Roller
+- 3', 5', 10' shears
+- 4', 5', 10' hand brakes
+- 10' 300-ton press brake
+- 18", 3', 4' sheet rollers
+- Power bar, angle, tube roller
+- Plasma cutting system
+- Torch cutting equipment
+- Spot welder
+- Stick welder
+- MIG/TIG welders
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -138,21 +153,18 @@ The company emphasizes its ability to produce virtually any metal component unde
 
 <details><summary>Sources</summary>
 
-- Founded in 1928 by Clifford E. Olson -> db
-- Family-owned, third generation led by Robert Dale Olson -> /about-us
-- Headquartered in Minneapolis, Minnesota -> db
-- Complete in-house layout and fabrication -> /
-- Shearing up to 10-foot capacity -> /services
-- Bending with hand brakes and 10-foot 300-ton press brake -> /services
-- Sheet rolling up to 4-foot -> /services
-- Tube, angle, bar rolling -> /services
-- Welding: spot, stick, MIG, TIG -> /services
-- Plasma and torch cutting -> /services
-- Polishing -> /services
-- Works with stainless steel, carbon steel, galvanized, hot/cold rolled, copper, aluminum, brass, bronze, zinc, gold, silver, lead -> /services, /
-- Produces architectural metalwork (railings, staircases, hoods, copper roofs, planter boxes) -> /, /about-us
-- Produces custom furniture, display fixtures, sinks, counters, hardware -> /, /about-us, /services
-- Emphasizes ability to make virtually any metal component -> /, /about-us
+- Founded 1928 by Clifford E. Olson -> /
+- Third generation run by Robert Dale Olson -> /
+- Family-owned and operated -> /
+- Location Minneapolis, Minnesota -> /
+- Custom metal work of all types -> /
+- Complete layout and fabrication in shop with cutting, welding, forming -> /
+- Materials: brass, copper, aluminum, steel, zinc, stainless steel -> /
+- Products: railings, hoods, staircases, custom furniture, doors, gates, copper roofs, planter boxes, hardware -> /
+- Additional products: sinks, counters, hoods, display units, fireplace surrounds, burners -> /about-us
+- Processes: shearing (3',5',10'), bending (hand brakes 4',5',10', 10' 300-ton press brake), rolling (18",3',4' sheet rollers, power bar/angle/tube roller), welding (spot, stick, wire feed, MIG/TIG), plasma cutting, torch cutting, polishing -> /services
+- Materials list: stainless steel, steel, galvanized, hot rolled, cold rolled, copper, aluminum, brass, bronze, gold, silver, lead -> /services
+- Shapes: flat sheet, textured, hot rolled, angle iron, tube steel, C channel, I beams, tube (round, square, rectangle), cold rolled, bar and sheet -> /services
 </details>
 
 ---
@@ -162,87 +174,108 @@ The company emphasizes its ability to produce virtually any metal component unde
 **Old description:** Nothing less than what you’d expect from Olsun Electrics since 1950
 
 ## About
-Olsun Electrics Corporation operates from Richmond, Illinois, where it was established in 1950 to serve the electronics industry in the greater Chicago area. The company began in a downtown Richmond building that housed a dentist office in front and a hand-crafted dry-type transformer operation in the back. Gus Asta, one of the original partners, purchased the business in 1965 and expanded the product scope to power and distribution transformers and reactors. The company remains family-run and, on October 28, 2019, earned Women's Business Enterprise (WBE) certification through WBENC, confirming it is at least 51% owned, operated, and controlled by women.
+Olsun Electrics Corporation has operated from Richmond, Illinois since 1950, when it was established to serve the electronics industry in the greater Chicago area. The original manufacturing space occupied the back of a downtown Richmond building that housed a dentist office in front, where small thimble transformers were wound for a growing OEM customer base. In 1965, Gus Asta, one of the original partners, purchased the company and expanded the product scope to include power and distribution transformers and reactors.
 
-The company designs and manufactures dry-type transformers ranging from 5 kVA through 5,000 kVA in voltage classes up to 34.5 kV, offering 15 distinct product types that include general-purpose, substation, encapsulated, cast-coil, pad-mounted, marine-duty, harmonic-mitigating, and triplex designs. In-house capabilities span design engineering, coil winding (barrel, disc, and block), vacuum-pressure impregnation, core cutting and stacking, enclosure fabrication — now aided by a Bystronic 4 kW fiber laser with automated material handling — powder coating, encapsulation, bus-bar fabrication, and final assembly and testing to NEMA ST-20 and ANSI C57.12.01/91 standards.
+The company designs and manufactures dry-type transformers from 5 kVA through 5,000 kVA in voltage classes up to 34.5 kV. All production occurs under one roof: design engineering, coil winding (barrel, disc, and block coils with wire and foil), vacuum-pressure impregnation varnish systems, miter and butt-lap core cutting, core-and-coil assembly, sheet-metal enclosure fabrication on CNC shear/punch/form equipment, structural base and clamp fabrication, powder-coat painting, encapsulation with polyester resin and silica sand, bus-bar fabrication in aluminum or copper, and final assembly with interrupter switches and tap changers. A Bystronic 4 kW fiber laser with automated material loading and unloading handles enclosure cutting.
 
-Olsun serves a broad range of sectors: universities and student housing, hospitals and healthcare, oil and gas (including portable power for land rigs), petrochemical plants, renewable natural gas and battery energy storage, electric-vehicle charging infrastructure, commercial HVAC OEMs, architectural glass fabrication, ship-to-shore crane systems, and marine/offshore installations (ABS/DNV compliant). The company also supports brand-label and OEM accounts, a segment it has served continuously since the 1960s.
+Olsun serves universities and colleges, petrochemical plants, oil-and-gas drilling operations, renewable natural gas facilities, battery energy storage projects, municipal power utilities, marine and ship-to-shore crane installations, architectural glass fabricators, commercial HVAC manufacturers, natural gas power plants, hospitals, hospitality resorts, rail transit, refineries, and OEM brand-label electrical manufacturers—a segment the company has supported continuously since the 1960s.
 
-Olsun emphasizes design flexibility and craftsmanship as its differentiators: the ability to produce one-of-a-kind custom transformers when off-the-shelf units will not fit, backed by decades-experienced coil winders and engineers. The firm was founded to meet exacting OEM requirements and continues to position itself as a partner for intricate, standards-compliant solutions rather than a commodity supplier.
+On October 28, 2019, Olsun earned WBENC National Women's Business Enterprise Certification, confirming at least 51% women ownership and control. The company emphasizes design flexibility for one-of-a-kind transformers alongside standard units, manufactures in the USA, and tests every unit to NEMA ST-20, ANSI C57.12.01, and C57.12.91, with designs meeting NEMA, ANSI, IEEE, IEC, ABS, and DNV requirements.
 
 ## Known for
-- Custom design and manufacturing under one roof
-- One-off manufacturing capability for intricate designs
-- In-house enclosure fabrication with fiber laser cutting automation
-- Retrofit and replacement transformer expertise with dedicated forms
-- WBENC-certified Women's Business Enterprise (2019)
-- Family-run with decades-experienced craftspeople
+- WBENC-certified Women's Business Enterprise (51% women-owned and controlled)
+- Family-owned and operated since 1965 with in-house craftsmen building each transformer
+- Full vertical integration: design, winding, core cutting, enclosure laser cutting, powder coating, and assembly under one roof
+- Bystronic 4 kW fiber laser with automated material handling for sheet metal enclosures
+- 86,000 sq ft facility with six cranes (2–20 ton) for large-unit handling
 
 ## Capabilities
 - Design engineering for custom transformers
-- Coil winding (barrel, disc, block) with wire and foil
-- Vacuum pressure impregnation (VPI) epoxy varnish system
-- Miter and butt-lap core cutting and stacking
+- Coil winding (barrel, disc, block coils with wire and foil)
+- Vacuum pressure impregnation (VPI) varnish system
+- Miter and butt lap core cutting
 - Core and coil assembly
-- Enclosure fabrication (shear, punch, form, laser cutting)
-- Base and clamp fabrication (structural steel welding)
-- Powder coat paint system (multi-stage wash, electrostatically applied, oven cured)
+- Sheet metal enclosure fabrication (CNC shear, punch, form)
+- Structural base and clamp fabrication
+- Powder coat painting (multi-stage wash, electrostatic, oven cure)
 - Encapsulation (polyester resin and silica sand)
-- Bus bar fabrication (aluminum or copper)
-- Final assembly with interrupter switches, rotary tap switches
-- Retrofit and replacement transformer manufacturing
+- Bus bar fabrication (aluminum and copper)
+- Final assembly with switches and tap changers
+- Retrofit and replacement transformer design
 - EV charging station transformer solutions (LV and MV substations)
+- Fiber laser cutting (Bystronic 4kW with material automation)
+- UL/cUL listed dry type transformer manufacturing
 - Testing to NEMA ST-20, ANSI C57.12.01, C57.12.91
 
 ## Industries
-- Higher education (universities, student housing)
-- Healthcare (hospitals)
-- Oil and gas (land drilling, portable power)
-- Petrochemical
-- Renewable energy (battery storage, natural gas generation)
-- Electric vehicle charging infrastructure
-- Commercial HVAC OEM
+- Universities and colleges
+- Petrochemical plants
+- Oil and gas drilling
+- Renewable natural gas / biogas
+- Battery energy storage systems
+- Municipal power utilities
+- Marine / ship-to-shore cranes
 - Architectural glass fabrication
-- Marine and offshore (ship-to-shore cranes, ABS/DNV)
-- Industrial automation
-- Utility and power distribution
+- Commercial HVAC manufacturers
+- Natural gas power generation
+- Hospitals and medical facilities
+- Hospitality and resorts
+- Rail and transit
+- Refineries
+- OEM brand-label electrical manufacturers
 
 ## Equipment
-- Bystronic 4 kW Fiber Laser Cutting Machine with Material Loading and Unloading Automation
-- Miter and butt-lap core cutters
+- Bystronic 4kW Fiber Laser Cutting Machine with Material Loading and Unloading Automation
+- Miter and butt lap core cutters
 - Stacking table fixtures
 - Vacuum pressure chamber for VPI
-- Dip tank for epoxy varnish coating
-- Powder coat wash/pretreat system and oven
-- Overhead cranes (2–20 ton capacity, six total)
+- Dip tank for varnish
+- Computer controlled shear, punch, and form equipment
+- Multi-stage wash and pretreat system
+- Electrostatic powder coat spray system
+- Oven for powder coat curing
+- Cranes (2 to 20 ton capacity) - six units
 
 ## Certifications
-- UL Listed / cUL Listed
+- WBENC Women's Business Enterprise Certification
+- UL Listed
+- cUL Listed
 - NEMA ST-20
 - ANSI C57.12.01
 - ANSI C57.12.91
-- IEEE standards
-- IEC standards
-- WBENC Women's Business Enterprise (WBE) Certification
+- NEMA standards
+- ANSI standards
+- IEEE requirements
+- IEC requirements
+- ABS requirements
+- DNV requirements
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1950
-- **Ownership:** Family-owned, Woman-owned
+- **Ownership:** Family-owned, Women-owned (WBENC certified)
 - **Headquarters:** Richmond, Illinois
 
 <details><summary>Sources</summary>
 
 - Founded 1950 in Richmond, Illinois -> /about-us
 - Gus Asta purchased company in 1965 -> /about-us
-- Family-run, WBENC WBE certified Oct 28 2019 -> /about-us
-- 86,000 sq ft facility, 35-ft walls, six cranes 2-20 ton -> /about-us
-- Transformers 5 kVA–5,000 kVA through 34.5 kV, 15 product types -> /about-us
-- In-house design, winding, VPI, core cutting, enclosure fab, powder coat, encapsulation, bus bar, final assembly -> /capabilities
-- Bystronic 4 kW fiber laser with automation for enclosure fabrication -> /
-- Industries: universities, hospitals, oil/gas, petrochemical, renewable, EV charging, HVAC, marine, architectural glass -> / (recent projects)
-- UL/cUL marks, NEMA, ANSI, IEEE, IEC, ABS, DNV compliance -> /about-us
-- Brand-label/OEM accounts since 1960s -> /about-us
+- Family-run, employs craftsmen and women -> /about-us
+- 86,000 sq ft facility, 35 ft walls, six cranes (2-20 ton), interior depressed truck dock -> /about-us
+- Dry type transformers 5 kVA through 5,000 kVA, voltage classes through 34.5 kV -> /about-us
+- WBENC Women's Business Enterprise Certification October 28, 2019 -> /about-us
+- Manufactured in USA -> /about-us
+- OEM brand labeling since 1960s -> /about-us
+- Design engineering, coil winding, VPI varnish, miter/butt lap cores, core/coil assembly, enclosure fabrication, base/clamp fabrication, powder coat, encapsulation, bus bar, final assembly -> /capabilities
+- Bystronic 4kW fiber laser with automation for sheet metal enclosures -> /capabilities and /
+- Retrofit capability -> /capabilities
+- EV charging solutions (LV and MV substations) -> /capabilities
+- One-of-a-kind custom transformer design -> /capabilities
+- Industries: universities, petrochemical, oil & gas, renewable natural gas, battery storage, municipal power, marine, architectural glass, HVAC, natural gas power, hospitals, hospitality, rail, refinery, OEM -> / and /about-us
+- Testing to NEMA ST-20, ANSI C57.12.01, C57.12.91 -> /about-us
+- Designs to NEMA, ANSI, IEEE, IEC, ABS, DNV -> /about-us
+- UL/cUL marks -> /about-us
+- Materials: aluminum, copper, steel, polyester resin, silica sand, epoxy varnish, wire, foil, electrical steel -> /capabilities and /about-us
 </details>
 
 ---
@@ -252,40 +285,41 @@ Olsun emphasizes design flexibility and craftsmanship as its differentiators: th
 **Old description:** OEM manufacturer of electrical components — from switchgear and transformers to relays, coils, and fuel pumps. 100% U.S.-made with fast turnaround and rigorous quality at every step.
 
 ## About
-Olympic Controls Corporation was founded in 1968 and operates from a 61,000-square-foot facility in Bartlett, Illinois, with an additional 25,000-square-foot plant in Pittsburgh, Pennsylvania. The company is privately held; its leadership emphasizes a family-oriented culture, though no individual founders are named in public materials.
+Olympic Controls Corporation was founded in 1968 and operates from a 61,000-square-foot facility in Bartlett, Illinois, and a 25,000-square-foot facility in Pittsburgh, Pennsylvania. The company is family-owned and has been led by hands-on management since its inception.
 
-The company manufactures a range of electrical components including current and potential transformers, switchgear components, custom transformers, T-Bar switches, fuel pumps, relays, and custom-wound coils.
+The company manufactures a range of electrical components including switchgear and transformer components (under the Electromagnetic Industries® brand), custom transformers (Acutran®), T-Bar® switches, fuel pumps, relays, and custom-wound coils.
 
-Its customer base spans aerospace and avionics, military and defense, commercial power distribution, data centers, and solar farms. Named clients include BAE Systems, Eaton, General Dynamics, Lockheed Martin, Raytheon Technologies, Siemens, the U.S. Air Force, U.S. Navy, and the Department of Defense.
+Its customer base includes major defense contractors such as BAE Systems, General Dynamics, Lockheed Martin, and Raytheon Technologies, as well as industrial firms like Eaton and Siemens, and U.S. military branches including the Air Force, Navy, and Department of Defense. The company also supplies the aerospace, avionics, data center, solar farm, and power distribution sectors.
 
-Olympic Controls differentiates itself through 100 percent U.S. production, a no-minimum-order policy, typical lead times of four to six weeks after receipt of order, and a one-year warranty on all products. The company cites its ISO 9001 certification and a family-employee-client ethos as the foundation of its integrity.
+Olympic Controls emphasizes 100% U.S. manufacturing, a one-year warranty on all products, and a promise of flexible order sizes with fast delivery. The company cites its experienced team and family foundation as the basis for its integrity and cost-competitive capabilities.
 
 ## Known for
 - No minimum order quantity
-- 100% U.S. domestic production
-- Typical lead times 4–6 weeks ARO
-- Over 50 years of manufacturing experience
-- ISO 9001 certified quality system
+- 100% U.S. manufacturing
+- Typical lead time 4–6 weeks ARO
+- One-year warranty on all products
+- CAD/CAM support available
 
 ## Capabilities
-- Custom-wound coils
 - Custom transformer engineering
+- Custom coil winding
 - Precision relay manufacturing
-- Switchgear component manufacturing (CTs, PTs)
-- T-Bar switch manufacturing
-- Fuel pump assembly
-- CAD/CAM design services
+- Switchgear component manufacturing
+- Fuel pump manufacturing
+- Switch manufacturing (T-Bar®)
+- CAD/CAM services
 - Electrical component assembly
 
 ## Industries
-- Aerospace
-- Avionics
+- Commercial
+- Industrial
 - Military
 - Defense
-- Commercial power distribution
+- Aerospace
+- Avionics
 - Data centers
 - Solar farms
-- Industrial
+- Power distribution
 
 ## Certifications
 - ISO 9001
@@ -294,26 +328,23 @@ Olympic Controls differentiates itself through 100 percent U.S. production, a no
 - **Company Type:** Manufacturer
 - **Founded:** 1968
 - **Employees:** 120
-- **Ownership:** Private, family-oriented
+- **Ownership:** Family-owned
 - **Headquarters:** Bartlett, Illinois
 
 <details><summary>Sources</summary>
 
-- Founded 1968 -> db, homepage
-- 120 employees -> db, homepage
-- 61,000 sq ft facility in Bartlett, Illinois -> homepage
-- 25,000 sq ft facility in Pittsburgh, Pennsylvania -> homepage
-- Clients: BAE Systems, Eaton, General Dynamics, Lockheed Martin, Raytheon Technologies, Siemens, U.S. Air Force, U.S. Navy, Department of Defense -> homepage
-- ISO 9001 certified -> db, homepage
-- No minimum order quantity -> homepage
-- Lead times typically 4–6 weeks ARO -> homepage
-- Products: CTs, PTs, switchgear components, custom transformers, T-Bar switches, fuel pumps, relays, custom-wound coils -> homepage
-- Industries: aerospace, avionics, military, defense, commercial power distribution, data centers, solar farms, industrial -> homepage, industries_served
-- Family-oriented culture mentioned -> homepage
-- 100% U.S. domestic production -> homepage
-- 1-year warranty -> homepage
-- CAD/CAM services offered -> homepage
-- Zinc pump body with plated hardware -> products list
+- Founded 1968 -> db
+- Headquarters Bartlett, Illinois -> db
+- Employee count 120 -> db
+- Facilities: 61,000 sq ft Bartlett, 25,000 sq ft Pittsburgh -> page /
+- Products: switchgear components, custom transformers, switches, fuel pumps, relays, coils -> page /
+- Customers: BAE Systems, Eaton, General Dynamics, Lockheed Martin, Raytheon, Siemens, U.S. Air Force, U.S. Navy, DoD -> page /
+- ISO 9001 certified -> db and page /
+- No minimum order quantity -> page /
+- Lead time 4-6 weeks ARO -> page /
+- Family-owned implied -> page /
+- CAD/CAM services -> page /
+- One-year warranty -> page /
 </details>
 
 ---
@@ -323,33 +354,33 @@ Olympic Controls differentiates itself through 100 percent U.S. production, a no
 **Old description:** Olympus Manufacturing was founded with a simple yet powerful mission: to create innovative, high-quality products that help other brands thrive. Founded by brothers Jake and Matt Crowder, our company is built on a passion for creation and a commitment to excellence. We’ve partnered with aspiring entrepreneurs and established businesses alike, helping to bring their ideas to life with our custom manufacturing and private label services.
 
 ## About
-Olympus Manufacturing is based in Orem, Utah. The company was founded by brothers Jake and Matt Crowder, who started the business out of a shared passion for creation and a desire to help other brands bring their ideas to life. While a specific founding year is not publicly disclosed, the founders describe the origin as a love for making things that evolved into a mission to empower entrepreneurs and established companies alike.
+Olympus Manufacturing operates from Orem, Utah. The company was founded by brothers Jake and Matt Crowder, who started the business out of a passion for creation and a desire to help other brands bring their ideas to life. Their journey began with a love for making things and a recognition of the challenges entrepreneurs face when launching new products.
 
-The company provides custom manufacturing and private label services focused on dietary supplements and nutraceutical products. Its custom manufacturing process covers formula development, ingredient selection, and packaging design tailored to each client's specifications. For brands seeking faster market entry, Olympus offers a line of ready-made stock formulations that can be packaged and labeled under the client's brand. The company emphasizes low minimum order quantities and personalized support throughout the development cycle, though it does not publish facility size, headcount, or production volumes.
+The company provides custom manufacturing and private label services focused on dietary supplements. Custom manufacturing covers formula development, ingredient selection, and packaging design tailored to a brand’s specifications. Private label offerings include a selection of stock formulations that clients can brand with their own packaging. Olympus emphasizes low minimum order quantities to accommodate both startups and established companies.
 
-Olympus serves the dietary supplement, nutraceutical, and health-and-wellness industries. Its customer base ranges from aspiring entrepreneurs launching their first product to established businesses expanding their supplement lines. The company cites work with both startups and mature brands as evidence of its flexible approach.
+Clients range from aspiring entrepreneurs launching their first supplement line to established businesses expanding their product portfolios. The company works with brands in the nutraceutical and health‑wellness sectors, helping them bring new supplements to market or modify existing products.
 
-The founders state that the business was built to remove barriers for brand owners, offering flexible, high-quality solutions with low minimums and hands-on guidance. They position their differentiators as personalized service, formulation expertise, and a willingness to work with companies at any stage of growth.
+Olympus differentiates itself through personalized support and flexible production runs. The founders state that they pride themselves on offering low minimum order quantities and hands‑on guidance, ensuring each brand has the resources to succeed.
 
 ## Known for
 - Low minimum order quantities
-- Personalized support throughout product development
-- Custom formulation tailored to brand specifications
-- Ready-made private label stock products
-- Flexible manufacturing for startups and established brands
+- Personalized support throughout development
+- Custom formula development and ingredient selection
+- Ready-made stock formulations for private label
+- Flexible solutions for both startups and established brands
 
 ## Capabilities
-- Custom Manufacturing
-- Private Label Products
-- Customized Product Formulation
-- Packaging and Labeling Customization
-- Product Development
-- Formulation
+- Custom supplement formulation
+- Private label manufacturing
+- Formula development
+- Ingredient selection
+- Packaging design and labeling
+- Low minimum order quantity production
 
 ## Industries
-- Dietary Supplements
+- Dietary supplements
 - Nutraceuticals
-- Health and Wellness
+- Health and wellness
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -357,13 +388,12 @@ The founders state that the business was built to remove barriers for brand owne
 
 <details><summary>Sources</summary>
 
-- Founded by Jake and Matt Crowder -> /
+- Founded by brothers Jake and Matt Crowder -> db
 - Headquartered in Orem, Utah -> db
-- Offers custom manufacturing and private label services -> /
-- Provides low minimum order quantities -> /
-- Serves aspiring entrepreneurs and established businesses -> /
-- Focus on supplement and nutraceutical products -> /
-- Emphasizes personalized support and flexible solutions -> /
+- Offers custom manufacturing and private label services for supplements -> page /
+- Provides low minimum order quantities and personalized support -> page /
+- Serves aspiring entrepreneurs and established businesses -> page /
+- Focus on supplement formulation, ingredient selection, packaging design -> page /
 </details>
 
 ---
@@ -373,35 +403,40 @@ The founders state that the business was built to remove barriers for brand owne
 **Old description:** Our goal is to enable and enhance mission readiness by offering safe and reliable in-flight relief options for aviators. Omni Defense Technologies designs, develops, and manufactures best-in-class products that support military Aviators on all aircrew ensembles.  Skydrate's Certified Through-Suit Connector maintains environmental seal for Immersion Suits and CBRN Personal Protection Gear, bringing a higher level of performance to the flight deck.
 
 ## About
-Omni Defense Tech was founded on November 20, 1998 in Colchester, Vermont by Mark Harvie, an electromechanical engineer with a passion for aviation and technology. The company began as a small engineering firm focused on solving life-support challenges for aviators.
+Omni Defense Tech is based in Colchester, Vermont, and was founded on November 20, 1998, by electromechanical engineer Mark Harvie. The company began as a small engineering firm driven by Harvie's passion for aviation and technology.
 
-Today the company designs, develops, and manufactures in-flight bladder relief systems under the SKYDRATE brand, along with certified through-suit connectors that maintain environmental seals for immersion suits and chemical-biological-radiological-nuclear (CBRN) protective gear. Its product line includes male and female relief devices and tactical flotation systems for parachutists. Omni Defense holds eleven U.S. patents and collaborates with NASA on waste-management systems for astronauts, with products deployed worldwide.
+Today the company designs, develops, and manufactures the SKYDRATE in-flight bladder relief system, including male and female configurations and a certified through-suit connector that maintains environmental seals for immersion suits and CBRN personal protection gear. With eleven U.S. patents, Omni Defense Tech also collaborates with NASA to adapt its waste-management technology for astronaut missions, and its products are deployed worldwide.
 
-The primary customers are military aviators, including U.S. Air Force and U.S. Navy pilots and partner-nation forces, as well as chem-bio protection personnel, search-and-rescue teams, and medical professionals. The SKYDRATE system has passed rigorous flight-safety testing by the USAF and USN and is used on platforms such as the F-15E. NASA also relies on the company's technology for spaceflight waste management.
+The systems serve military aviators across the U.S. Air Force, U.S. Navy, and partner nations, as well as chem-bio personnel, search-and-rescue teams, and medical professionals. A female F-15E pilot noted the system eliminates the need to unstrap from safety restraints, simplifying cockpit operations.
 
-The business was started to address tactical dehydration, which can reduce pilot performance by 57 percent, and to provide a relief method that does not require aircrew to unstrap from safety restraints. The company emphasizes that its connectors are certified to maintain suit integrity in extreme environments, and that its hands-free, leak-proof design sets a new standard for in-flight bladder relief.
+Harvie founded the company to elevate human performance through safe, non-invasive, hands-off, automatic, and leak-proof relief solutions. The SKYDRATE system passes rigorous USAF and USN flight-safety standards and is marketed as "Certified Safe-To-Fly," reflecting a focus on mission readiness without compromising pilot restraint.
 
 ## Known for
-- SKYDRATE system passes U.S. Air Force and U.S. Navy flight-safety standards
-- Through-suit connector maintains environmental seal on immersion suits and CBRN gear
-- Relief system operates without requiring aircrew to unstrap from safety restraints
-- Eleven U.S. patents and global deployment
-- NASA collaboration for astronaut waste-management systems
+- Certified Through-Suit Connector maintains environmental seal for immersion suits and CBRN gear
+- Does not require unstrapping from safety restraint systems for use
+- Safe, non-invasive, hands-off, automatic, leak-proof design
+- Eleven U.S. patents
+- NASA partnership for space waste-management systems
 
 ## Capabilities
-- Design and development of life-support systems
-- Manufacturing of in-flight bladder relief systems (SKYDRATE)
-- Through-suit connector fabrication for immersion and CBRN suits
-- Tactical flotation device production
-- Flight safety testing and certification
-- NASA space waste-management system development
+- Design and development of in-flight bladder relief systems
+- Manufacturing of SKYDRATE male and female relief products
+- Through-suit connector integration and environmental sealing
+- Flight safety testing to USAF and USN standards
+- Patent development and IP management
+- NASA collaboration for space waste management
 
 ## Industries
 - Military aviation
 - Chemical-biological protection
 - Search and rescue
 - Medical equipment
-- Space exploration
+- Aerospace / space exploration
+
+## Certifications
+- Certified Safe-To-Fly
+- U.S. Air Force flight safety standards
+- U.S. Navy flight safety standards
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -411,16 +446,15 @@ The business was started to address tactical dehydration, which can reduce pilot
 <details><summary>Sources</summary>
 
 - Founded November 20, 1998 by Mark Harvie -> /about-us
-- Headquarters in Colchester, Vermont -> db
-- Designs, develops, manufactures in-flight bladder relief systems -> /
-- SKYDRATE system passes USAF/USN flight safety standards -> /
-- Through-suit connector maintains environmental seal for immersion suits and CBRN gear -> /
-- Products for military, chem-bio, search and rescue, medical -> /
-- Collaboration with NASA for space waste management -> /about-us
-- Eleven US patents -> /about-us
-- Tactical flotation devices -> /about-us
-- Tactical dehydration reduces pilot performance by 57% -> /
-- System does not require unstrapping from safety restraints -> /
+- Headquartered in Colchester, Vermont -> db
+- Designs, develops, manufactures SKYDRATE in-flight bladder relief systems -> / and /about-us
+- Eleven U.S. patents -> /about-us
+- Partnership with NASA for space waste management -> /about-us
+- Products used by USAF, USN, partner nations -> /
+- Certified Safe-To-Fly, passes rigorous USAF/USN standards -> /
+- Through-Suit Connector maintains environmental seal for immersion suits and CBRN gear -> /
+- Serves military, chem-bio, search and rescue, medical equipment -> / and /about-us
+- Testimonial from Captain E.S. female F-15E pilot -> /
 </details>
 
 ---
@@ -430,36 +464,36 @@ The business was started to address tactical dehydration, which can reduce pilot
 **Old description:** One Semiconductor is a leading provider of refurbishment, upgrade, conversion, and maintenance solutions for semiconductor manufacturing equipment. With extensive process expertise and a comprehensive range of services, we specialize in revitalizing and enhancing etch and deposition systems.
 
 ## About
-One Semiconductor was founded in 2011 in Austin, Texas. The company began as a specialist in semiconductor equipment lifecycle solutions, focusing on refurbishment, precision component manufacturing, and system upgrades for advanced production equipment.
+One Semiconductor is headquartered in Austin, Texas, and was founded in 2011. The company began as a specialist in semiconductor equipment lifecycle solutions, focusing on refurbishment, upgrades, and maintenance for etch and deposition systems used in 200 mm and 300 mm wafer fabrication.
 
-The company provides refurbishment, upgrades, thermal management, and lifecycle solutions for 200 mm and 300 mm semiconductor manufacturing equipment. Its service portfolio includes sub-assembly repair and parts supply, technology upgrades and retrofits such as controller retrofits and system enhancements, on-site maintenance and field service covering preventive and corrective maintenance, and complete equipment refurbishment and overhaul for etch and deposition tools. It also manufactures precision components for semiconductor equipment.
+The company provides a range of services including equipment refurbishment and overhaul, technology upgrades and controller retrofits, sub-assembly repair and parts supply, and on-site field service with preventive and corrective maintenance. It also offers precision component manufacturing and thermal management solutions, with a product line of solid-state chillers in development. Operations span a global network across North America, Asia, and Latin America.
 
-One Semiconductor serves wafer fabrication facilities, test and inspection platforms, and assembly operations across the global semiconductor market. Its customers include OEMs and suppliers in North America, Asia, and Latin America who require cost-effective alternatives to equipment replacement.
+One Semiconductor serves wafer fabrication facilities, test and inspection platforms, and assembly operations within the semiconductor manufacturing industry. Its customers include OEMs and fabs seeking to extend equipment life, reduce downtime, and avoid capital expenditure on new tools.
 
-The company emphasizes engineering-driven solutions with transparent execution, proven experience in semiconductor equipment services, global reach with fast response times, and flexible service models. Its culture is rooted in engineering excellence, technical expertise, and long-term industry partnerships, prioritizing transparency and collaboration with customers, OEMs, and suppliers.
+The company emphasizes engineering-driven solutions with transparent execution, citing proven experience, global reach, fast response times, and cost-effective alternatives to equipment replacement as key differentiators.
 
 ## Known for
-- Proven experience in semiconductor equipment services
 - Global service capabilities and fast response times
 - Cost-effective alternatives to equipment replacement
 - Engineering-driven solutions with transparent execution
+- Proven experience in semiconductor equipment services
+- Lifecycle solutions for 200 mm and 300 mm equipment
 
 ## Capabilities
-- Semiconductor equipment refurbishment
-- Equipment overhaul
-- Technology upgrades and retrofits
+- Equipment refurbishment
+- Equipment upgrades and retrofits
 - Controller retrofits
-- System enhancements
-- On-site maintenance and field service
+- System conversions
+- Thermal management solutions
+- Sub-assembly repair
+- Parts supply and sourcing
+- On-site field service
 - Preventive maintenance
 - Corrective maintenance
-- Sub-assembly repair
-- Parts supply
+- Equipment overhaul
 - Precision component manufacturing
-- Etch tool refurbishment
-- Deposition tool refurbishment
-- Thermal management solutions
-- Equipment conversion
+- Lifecycle management for 200mm and 300mm tools
+- Etch and deposition system expertise
 
 ## Industries
 - Semiconductor manufacturing
@@ -467,8 +501,15 @@ The company emphasizes engineering-driven solutions with transparent execution, 
 - Test and inspection
 - Assembly operations
 
+## Equipment
+- Etch systems
+- Deposition systems
+- 200 mm wafer processing equipment
+- 300 mm wafer processing equipment
+- Solid State Chillers (upcoming)
+
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Installer / service company
 - **Founded:** 2011
 - **Headquarters:** Austin, Texas
 
@@ -476,15 +517,13 @@ The company emphasizes engineering-driven solutions with transparent execution, 
 
 - Founded in 2011 -> /about-us
 - Headquarters in Austin, Texas -> db
-- Services: refurbishment, upgrades, thermal management, lifecycle solutions for 200mm/300mm equipment -> /
-- Sub-assembly repair & parts supply -> /
-- Technology upgrades & retrofits (controller retrofits, system enhancements) -> /
-- On-site maintenance & field service (preventive, corrective) -> /
-- Equipment refurbishment & overhaul for etch and deposition tools -> /
+- Provides refurbishment, upgrades, conversion, maintenance for semiconductor equipment -> /
+- Specializes in etch and deposition systems for 200mm and 300mm -> /
+- Offers sub-assembly repair, parts supply, technology upgrades, on-site field service, equipment overhaul -> /
 - Precision component manufacturing -> /about-us
-- Industries: wafer fabrication facilities, test and inspection platforms, assembly operations -> /about-us
-- Global presence in North America, Asia, Latin America -> /about-us
-- Differentiators: proven experience, global capabilities, cost-effective alternatives, engineering-driven solutions -> /
+- Global network in North America, Asia, Latin America -> /about-us
+- Serves wafer fabrication, test and inspection, assembly operations -> /about-us
+- Differentiators: global reach, fast response, cost-effective alternatives, engineering-driven solutions -> /
 </details>
 
 ---
@@ -494,45 +533,33 @@ The company emphasizes engineering-driven solutions with transparent execution, 
 **Old description:** No hand-waving, just hands-on. The one-stop medtech partner built on strategy and efficiency.
 
 ## About
-Ontogen Medtech operates from Lisle, Illinois, and began in 2021 with a mission to give medical device innovators a strategy-focused, capital-efficient path from concept to commercialization. The company does not disclose its ownership structure or founders by name.
+Ontogen Medtech is based in Lisle, Illinois, and began operations in 2021 with a mission to give medical device innovators a strategy-focused, capital-efficient path from concept to commercialization. The company does not publicly disclose its ownership structure or founder names.
 
-The firm provides end-to-end product development, including design, prototyping, engineering, and comprehensive in-house testing and validation, alongside ISO 13485 certified contract manufacturing and regulatory support. Its team integrates senior talent directly into client programs to execute prototyping, engineering, and testing rather than only advising. The company reports that its clients have collectively secured more than $16.6 million in grant funding, obtained over 132 patents, won $2.2 million in pitch competitions, and shipped thousands of devices nationwide.
+The firm operates as a single partner for end-to-end medical device development and contract manufacturing. Its services span design, prototyping, engineering, testing and validation, regulatory support, and ISO 13485-certified production. Ontogen reports that thousands of devices have been shipped nationwide for its clients, though it does not publish facility size, headcount, or annual volume figures.
 
-Ontogen serves medical device startups and innovators developing electro-mechanical, reusable, surgical, single-use, and diagnostic devices. Named clients include Flow Medical, Stiehl Tech, Innoblative, and Hubly Surgical, which have relied on the company for everything from SBIR grant support and verification testing to 510(k) clearance and commercial launch.
+Clients include early-stage and growth-stage medical device companies such as Flow Medical, Stiehl Tech, Innoblative, and Hubly Surgical. Ontogen's work covers electro-mechanical, reusable, surgical, single-use, and diagnostic devices, and the company highlights its role in helping clients secure grants, patents, and FDA clearances.
 
-The company says its differentiation lies in acting as a single, end-to-end partner that eliminates handoff gaps, embedding senior staff in the trenches to deliver tangible deliverables—clear requirements, disciplined design history files, risk rigor, and verification plans—rather than racking up meetings. It describes itself as the most transparent partner in medtech, focusing on evidence over activity.
+Ontogen says its differentiation lies in keeping regulatory strategy, engineering, verification, quality systems, and manufacturing aligned under one roof to eliminate handoff gaps. It emphasizes hands-on execution by senior talent rather than advisory-only engagements, and it focuses on deliverables that de-risk programs—clear requirements, disciplined design controls, and verification plans that withstand scrutiny.
 
 ## Known for
-- End-to-end partner from regulatory strategy through ISO 13485 manufacturing
-- Senior talent directly executes prototyping, engineering, and testing
-- Focus on deliverables that de-risk programs (requirements, DHF, risk, verification)
-- Transparent, evidence-based approach rather than activity-based billing
+- One partner, end-to-end from regulatory strategy through ISO 13485 manufacturing
+- Hands-on team integration with senior talent executing prototyping, engineering, and testing
+- Evidence over activity: deliverables that de-risk programs (requirements, design controls, verification plans)
+- Transparency in process and spend
 
 ## Capabilities
-- Product development
-- Design and prototyping
+- Design
+- Prototyping
 - Engineering
-- Testing and validation
-- In-house testing
-- Contract manufacturing
-- ISO 13485 certified production
-- Regulatory support and compliance
-- Design controls (DHF)
-- Risk management
-- Verification planning
-- SBIR grant support
-- Clinical validation support
-- 510(k) clearance support
+- Testing & Validation
+- Contract Manufacturing
+- Regulatory Support
+- Quality Systems
+- ISO 13485 Manufacturing
 
 ## Industries
 - Medical devices
-- Electro-mechanical devices
-- Reusable devices
-- Surgical devices
-- Single-use devices
-- Diagnostic devices
-- Medical device startups
-- Medical device innovators
+- Medical device development
 
 ## Certifications
 - ISO 13485
@@ -544,14 +571,14 @@ The company says its differentiation lies in acting as a single, end-to-end part
 
 <details><summary>Sources</summary>
 
-- Founded in 2021 -> /about
-- Headquarters in Lisle, Illinois -> db
-- ISO 13485 certified -> db, /
-- Services: product development, contract manufacturing, regulatory support -> /
+- Headquarters: Lisle, Illinois -> db
+- Founded in 2021 with mission to provide strategy-focused, capital-efficient pathway -> /about
+- Services: design, prototyping, engineering, testing & validation, contract manufacturing, regulatory support, ISO 13485 production -> / and /about
+- Thousands of devices shipped nationwide -> /
 - Clients: Flow Medical, Stiehl Tech, Innoblative, Hubly Surgical -> /
-- Statistics: $16.6M+ grants, 132+ patents, $2.2M+ prizes, 1000's devices shipped -> /
-- Differentiators: end-to-end, hands-on, evidence-based -> /about
 - Device types: electro-mechanical, reusable, surgical, single-use, diagnostic -> /
+- Differentiators: one partner end-to-end, hands-on team integration, evidence not activity, transparency -> /about
+- ISO 13485 certification -> db and /about
 - LinkedIn URL -> db
 </details>
 
@@ -562,33 +589,31 @@ The company says its differentiation lies in acting as a single, end-to-end part
 **Old description:** Onyx Electronics has been manufacturing precision pressure instrumentation since 1990 in the USA.  Onyx integrates pressure instruments with process control panels, telemetry systems, SCADA software and data logging equipment.
 
 ## About
-Onyx Electronics Inc. was founded in 1990 in Olathe, Kansas. The company began as a manufacturer of precision pressure instrumentation for industrial applications and has remained U.S.-based throughout its history.
+Onyx Electronics Inc. has operated from Olathe, Kansas, since its founding in 1990. The company was established to manufacture precision pressure instrumentation for industrial markets, though the names of its founders and its ownership structure have not been publicly disclosed.
 
-Today, Onyx produces pressure instruments and integrates them with process control panels, telemetry systems, SCADA software, and data logging equipment. The company operates from a facility on West Highway 56 in Olathe, serving customers across the United States with a focus on combining sensing hardware with software and communication platforms.
+The firm produces pressure sensors, transmitters, and related instrumentation, and it also integrates those devices with process control panels, telemetry systems, SCADA software, and data logging equipment. Its capabilities span both the fabrication of sensing hardware and the assembly of complete monitoring and control packages, though facility size, headcount, and annual volumes are not published.
 
-The company’s products are used in industrial settings that require precise pressure measurement and control. While specific industry sectors are not listed in public materials, the integration of instrumentation with telemetry and SCADA systems suggests applications in process automation, water and wastewater management, energy infrastructure, and general industrial manufacturing.
+Onyx serves industrial customers that require pressure measurement and control, including applications in process automation, remote telemetry, and supervisory control and data acquisition (SCADA) systems. The company does not list specific end-user sectors or named clients in its public materials.
 
-Onyx emphasizes its domestic manufacturing and the ability to combine pressure sensing with broader control and data acquisition platforms, offering a single-source solution for pressure instrumentation and system integration.
+The company emphasizes its ability to deliver integrated solutions that combine pressure instrumentation with control panels, telemetry, SCADA, and data logging, positioning itself as a single-source provider for pressure-based monitoring and control systems.
 
 ## Known for
-- U.S.-based manufacturing of precision pressure instruments since 1990
-- Integration of pressure instruments with process control panels
-- Telemetry system and SCADA software integration
-- Data logging equipment integration
-- Single-source instrumentation and control solutions
+- Integrates pressure instruments with process control panels, telemetry systems, SCADA software, and data logging equipment
+- U.S.-based manufacturing of precision pressure instrumentation since 1990
+- Single-source provider for pressure-based monitoring and control systems
 
 ## Capabilities
-- Precision pressure instrument manufacturing
+- Precision pressure instrumentation manufacturing
 - Process control panel integration
 - Telemetry system integration
 - SCADA software integration
 - Data logging equipment integration
-- System integration services
 
 ## Industries
-- Industrial pressure instrumentation
-- Process automation
-- Industrial manufacturing
+- Industrial
+- Process Control
+- Telemetry
+- SCADA Systems
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -597,14 +622,13 @@ Onyx emphasizes its domestic manufacturing and the ability to combine pressure s
 
 <details><summary>Sources</summary>
 
-- Founded in 1990 -> db
-- Headquarters in Olathe, KS -> page /
-- Manufactures precision pressure instrumentation -> description
-- Integrates pressure instruments with process control panels, telemetry systems, SCADA software, and data logging equipment -> description
-- Address: 1351 W Hwy 56 Suite E, Olathe, KS 66061 -> page /
-- Contact phone, fax, and email -> page /
-- Website: http://www.onyxelectronicsinc.com/page11.php -> db
-- Industries served: Manufacturing Precision Pressure Instruments for Industry -> db
+- Founded 1990 -> db
+- Headquarters Olathe, KS -> page:/
+- Manufactures precision pressure instrumentation -> db
+- Integrates pressure instruments with process control panels, telemetry systems, SCADA software, data logging equipment -> db
+- Address: 1351 W Hwy 56 Suite E, Olathe, KS 66061 -> page:/
+- Phone, fax, emails -> page:/
+- Tagline: Manufacturing Precision Pressure Instruments for Industry -> page:/
 </details>
 
 ---

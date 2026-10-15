@@ -3,49 +3,51 @@
 **Old description:** For three decades, we’ve been dedicated to early diagnosis for better lung health. Lung diseases often remain hidden until symptoms become severe but early diagnosis doesn’t just change outcomes; it can save lives. Since 1996, we’ve led the way in revolutionizing lung function testing, delivering spirometry and complete PFT solutions built on our TrueFlow ultrasound technology to provide accurate, calibration-free testing to clinicians worldwide.
 
 ## About
-The company's origins trace to the work of researchers including Christian Buess, whose doctoral thesis and subsequent publications laid the groundwork for transit-time ultrasonic flow measurement. Since its inception, ndd has focused on translating that technology into clinical pulmonary function testing.
+ndd Medical Technologies is headquartered in Andover, Massachusetts, and was founded in 1996. What began as a vision to simplify pulmonary testing has grown into a global mission to improve respiratory health through early detection.
 
-The company designs and manufactures a line of portable spirometers and complete pulmonary function testing systems under the EasyOne brand. The portfolio includes the EasyOne Air and Sky for spirometry, the EasyOne Pro and Pro LAB for diffusion capacity (DLCO), lung volumes, and multi-breath washout (MBW), as well as the PC-based EasyOne on-PC and the integrated EasyOne Connect software platform. All devices employ ndd's proprietary TrueFlow ultrasound technology, which eliminates the need for routine calibration, and TrueCheck self-quality-control routines.
+The company designs and manufactures spirometry and complete pulmonary function testing (PFT) solutions under the EasyOne product line, including the EasyOne Air, EasyOne Sky, EasyOne Pro, EasyOne Pro LAB, Easy on-PC, and the EasyOne Connect software platform. Its core technology is TrueFlow ultrasound, which enables calibration-free airflow measurement, complemented by TrueCheck self-quality control. The instruments are portable, compact, and feature Bluetooth and EMR connectivity, with data managed through the HITRUST-certified nddCloud.
 
-ndd's instruments are used in clinics, hospitals, and research institutions worldwide. The company cites deployments in clinical, veterinary, high-altitude, sea-level, and space environments. Its products have supported major research initiatives such as the World Trade Center health monitoring programs, the COPDGene study, the BOLD and PLATINO initiatives, and the MACS study, serving pulmonologists, primary-care physicians, and clinical researchers.
+ndd serves clinicians, hospitals, clinics, and research institutions worldwide across medical devices, respiratory care, and pulmonary function testing. Its equipment is used in diverse settings from veterinary clinics to high-altitude and space applications. The company supports major research initiatives such as the World Trade Center health monitoring programs, the COPDGene study, the BOLD and PLATINO initiatives, and the MACS study.
 
-The company's stated mission is to make early, accurate lung-disease detection the standard of care. It emphasizes that calibration-free operation, portability, and seamless EMR/EHR integration lower barriers to routine spirometry, enabling earlier diagnosis and better patient outcomes. HITRUST-certified cloud data management and centralized PFT review further differentiate the offering.
+ndd's stated mission is early diagnosis for better lung health, driven by the belief that early detection changes outcomes and saves lives. The company emphasizes calibration-free reliability, ease of adoption, and comprehensive support to make lung function testing a routine part of care.
 
 ## Known for
-- Calibration-free TrueFlow ultrasound flow measurement
-- TrueCheck self-quality-control technology
-- Portable, lightweight device design
+- Calibration-free TrueFlow ultrasound technology
+- TrueCheck self-quality control system
+- Portable, compact device designs with Bluetooth and EMR connectivity
 - HITRUST-certified secure cloud data platform (nddCloud)
-- Bi-directional integration with major EMR/EHR systems
+- Proven in extreme environments including space, high-altitude, and veterinary use
 
 ## Capabilities
 - Spirometry
-- DLCO (diffusing capacity) testing
-- Full pulmonary function testing (PFT)
-- Multi-breath washout (MBW) testing
-- Calibration-free ultrasound flow measurement
-- TrueCheck self-quality control
-- EMR/EHR integration
-- Cloud-based data management (nddCloud)
-- Centralized PFT review
+- Pulmonary function testing (PFT)
+- DLCO (Diffusing Capacity of the Lungs for Carbon Monoxide)
+- Multi-breath washout (MBW)
+- Lung volumes measurement
+- Calibration-free ultrasound airflow measurement
+- Self-quality control (TrueCheck)
 - Initial in-service
+- EMR/EHR integration
+- Remote monitoring via nddHub
 
 ## Industries
 - Medical devices
+- Respiratory care
 - Pulmonary function testing
-- Respiratory diagnostics
-- Clinical research
 - Veterinary medicine
-- High-altitude physiology
+- High-altitude research
 - Space medicine
+- Clinical research
 
 ## Equipment
 - EasyOne Air
 - EasyOne Sky
 - EasyOne Pro
 - EasyOne Pro LAB
-- EasyOne on-PC
+- Easy on-PC
 - EasyOne Connect
+- nddHub
+- nddCloud
 - TrueFlow ultrasound technology
 - TrueCheck technology
 
@@ -60,17 +62,21 @@ The company's stated mission is to make early, accurate lung-disease detection t
 
 <details><summary>Sources</summary>
 
-- Founded in 1996 -> /about
-- Headquarters in Andover, Massachusetts -> db
-- ISO 13485 certification -> db
-- TrueFlow ultrasound technology developed from ETH Zurich research -> /about
-- Product lines: EasyOne Air, Sky, Pro, Pro LAB, on-PC, Connect -> /
-- Calibration-free operation and TrueCheck self-quality control -> /
-- Used in clinical, veterinary, high-altitude, sea-level, space applications -> /about
-- Research partnerships: World Trade Center health monitoring, COPDGene, BOLD, PLATINO, MACS -> /about
-- HITRUST-certified nddCloud platform -> /
-- Bi-directional EMR/EHR integration -> /
-- Mission: early diagnosis for better lung health -> /about
+- Founded 1996 -> /about
+- Headquarters Andover, Massachusetts -> db
+- ISO13485 certification -> db
+- TrueFlow ultrasound technology -> /about
+- TrueCheck self-quality control -> /
+- EasyOne product line (Air, Sky, Pro, Pro LAB, on-PC, Connect) -> /
+- nddHub and nddCloud platform -> /
+- HITRUST-certified secure data -> /
+- Used in World Trade Center health monitoring, COPDGene, BOLD, PLATINO, MACS studies -> /about
+- Applications in veterinary, high-altitude, sea-level, space -> /about
+- Mission: Early diagnosis for better lung health -> /about
+- Founders' pioneering research (Buess, ETH Zurich) -> /about
+- Initial in-service capability -> db
+- Bluetooth and EMR connectivity -> /
+- Portable, compact design -> /
 </details>
 
 ---
@@ -80,36 +86,38 @@ The company's stated mission is to make early, accurate lung-disease detection t
 **Old description:** Since 2015, the experts at 1 Source Solar have been helping clients across the Midwest save money and become more environmentally sustainable by installing high-quality solar energy systems.
 
 ## About
-1 Source Solar was founded in 2015 in Ankeny, Iowa, to help clients across the Midwest reduce energy costs and improve environmental sustainability through solar energy system installation. The company operates as a turnkey EPC (engineering, procurement, and construction) firm with satellite offices throughout the region.
+1 Source Solar was founded in 2015 in Ankeny, Iowa, and has since expanded to operate satellite offices across the Midwest. The company began with a focus on helping farmers, homeowners, and businesses reduce energy costs through solar installations.
 
-The firm manages every stage of solar projects in-house, from initial cost analysis and custom engineering through permitting, procurement, and installation. Its staff includes North American Board of Certified Energy Practitioners (NABCEP) certified installers who oversee rooftop and ground-mount arrays using Tier 1 high-efficiency modules and components. The company provides ongoing system monitoring for five years under its workmanship warranty and offers extended service contracts for the system lifespan.
+As a turnkey EPC (engineering, procurement, and construction) firm, 1 Source Solar manages every stage of a solar project in-house. Its NABCEP-certified installation teams deploy Tier 1, high-efficiency modules for rooftop and ground-mount arrays of any scale. The company handles custom engineering, permitting, procurement, and ongoing system monitoring, backing its work with a five-year workmanship warranty and optional lifetime service contracts.
 
-1 Source Solar serves agricultural, commercial, residential, municipal, educational, nonprofit, and utility customers across the Midwest. A referenced client includes John Deere Intelligent Solutions Group in Urbandale, Iowa, which praised the company's rapid response to a system repair.
+The firm serves agricultural, commercial, residential, municipal, school, nonprofit, and utility customers throughout the Midwest. Notable clients include John Deere Intelligent Solutions Group in Urbandale, which praised the company's rapid response to a system failure.
 
-The company emphasizes a single-point-of-contact model that handles all engineering, permitting, and administration, aiming to shorten installation timelines and eliminate paperwork for customers. Its no-cost initial analysis and five-year workmanship guarantee are positioned as core differentiators.
+1 Source Solar differentiates itself by providing a no-cost initial analysis, acting as a single point of contact for all paperwork and utility coordination, and leveraging in-house expertise to shorten installation timelines. The company emphasizes quality components and local service consistency across projects of any size.
 
 ## Known for
-- Turnkey EPC management of engineering, procurement, and construction in-house
-- NABCEP certified solar installation team
-- Five-year workmanship warranty with system monitoring
-- No-cost initial analysis and custom design
-- Tier 1 high-efficiency solar modules and components
+- No-cost savings analysis and custom design
+- Turnkey EPC with single-point-of-contact project management
+- In-house NABCEP-certified installation teams
+- Five-year workmanship warranty with five-year system monitoring
+- Full permitting, engineering, and administration handled by the company
 
 ## Capabilities
-- Solar energy system design and engineering
-- Permitting and regulatory approvals
-- Procurement of solar modules and components
+- Solar energy system design
+- Custom engineering
+- Permitting and procurement
 - Solar installation (rooftop and ground-mount)
 - System monitoring and maintenance
-- EPC project management
+- EPC (engineering, procurement, construction)
+- Federal tax credit and incentive guidance
+- NABCEP-certified installation
 
 ## Industries
 - Agriculture
 - Commercial
 - Residential
-- Government / Municipal
-- Education
-- Nonprofit
+- Municipalities
+- Schools
+- Nonprofits
 - Utilities
 
 ## Certifications
@@ -122,16 +130,18 @@ The company emphasizes a single-point-of-contact model that handles all engineer
 
 <details><summary>Sources</summary>
 
-- Founded 2015 in Ankeny, Iowa -> db
-- Turnkey EPC firm managing engineering, procurement, construction -> /
-- Satellite offices throughout Midwest -> /
-- Industries served: agriculture, commercial, residential, cities & counties, schools, nonprofits, utilities -> /
-- NABCEP certified installers on staff -> /
-- Five-year workmanship warranty with system monitoring -> /
-- No-cost initial analysis and custom design -> /
-- Tier 1 high-efficiency solar modules and components -> /
-- Client reference: John Deere Intelligent Solutions Group, Urbandale -> /
-- In-house engineering, permitting, procurement, installation -> /
+- Founded 2015 -> db
+- HQ Ankeny, Iowa -> db
+- Turnkey EPC firm -> page:/
+- NABCEP certified installers -> page:/
+- 5-year workmanship warranty -> page:/
+- Satellite offices throughout Midwest -> page:/
+- Industries: agriculture, commercial, residential, municipalities, schools, nonprofits, utilities -> page:/
+- Tier 1 high-efficiency modules -> page:/
+- No-cost analysis -> page:/
+- John Deere Intelligent Solutions Group client -> page:/
+- Federal tax credit guidance -> page:/
+- In-house engineering, permitting, procurement -> page:/
 </details>
 
 ---
@@ -141,35 +151,34 @@ The company emphasizes a single-point-of-contact model that handles all engineer
 **Old description:** Find the right catheter to fit your needs. We carry one of the largest intermittent catheter selections from all of the top brands.
 
 ## About
-180 Medical was founded in 2002 by Todd Brown in Albuquerque, New Mexico, after a spinal cord injury left him struggling to find quality catheter supplies and reliable support. What began in Brown's garage has grown into a nationwide supplier of intermittent catheters and ostomy products, serving over 100,000 customers across all 50 states.
+180 Medical is headquartered in Albuquerque, New Mexico. The company was founded in 2002 by Todd Brown after a spinal cord injury gave him firsthand experience with the difficulties of obtaining quality catheter supplies. Brown started the business from his garage with the goal of providing better product options and support for people facing similar challenges.
 
-The company distributes a broad selection of catheters and ostomy supplies from brands, offering free samples, discreet home delivery, and recurring shipment options. Its specialists — some of whom use the products themselves — handle insurance verification for Medicare, Medicaid, and hundreds of private plans covering more than 200 million lives, and provide one-on-one support through phone, text, email, a secure portal, and a mobile app.
+Today the company operates as a nationwide supplier of intermittent catheters and ostomy products, carrying selections from multiple brands. It offers free product samples, free home delivery in discreet packaging, and insurance verification services for Medicare, state Medicaid programs, and hundreds of private plans covering more than 200 million lives. The company reports serving over 100,000 customers across the United States and has accumulated more than 13,000 five-star reviews on Trustpilot over its 24-year history.
 
-180 Medical serves individuals requiring catheter or ostomy supplies due to conditions such as spinal cord injury, spina bifida, or other medical needs. Its customer base includes patients, caregivers, and healthcare providers nationwide, with in-network coverage across major insurance programs.
+Its customer base consists primarily of individuals who require catheter or ostomy supplies for conditions such as spinal cord injury, spina bifida, multiple sclerosis, and other urological or gastrointestinal needs. The company works directly with patients, caregivers, and healthcare providers, and its specialists include team members who personally use the products they support.
 
-Brown started the business because he experienced firsthand the lack of product options, information, and personalized care. Today, 180 Medical emphasizes that same personal approach, backed by ACHC accreditation, a BBB A+ rating, and recognition for ethics and customer service.
+Brown has said the business was born from a belief that "things could be done a better way." 180 Medical emphasizes personalized service, maintaining accreditation from the Accreditation Commission for Health Care (ACHC) and an A+ rating from the Better Business Bureau, where it has also been recognized with a Torch Award for Ethics.
 
 ## Known for
-- Free samples to try before committing
-- Discreet free home delivery on all orders
-- In-network with Medicare, Medicaid, and 200+ million private insurance lives
-- ACHC-accredited and BBB A+ rated for ethics and quality
-- Specialists who personally use catheter and ostomy supplies
+- Free home delivery in discreet packaging
+- Free product samples for trial
+- In-network with Medicare, Medicaid, and private insurance covering 200+ million lives
+- ACHC-accredited and BBB A+ rated with Torch Award for Ethics
+- Specialists who personally use the supplies they support
 
 ## Capabilities
-- Medical supply distribution
-- Insurance verification and billing
-- Free sample program
-- Discreet home delivery
-- Recurring delivery management
-- Patient support by product specialists
-- ACHC-accredited quality management
+- Insurance verification and benefits navigation
+- Free home delivery with discreet packaging
+- Free product samples
+- Recurring home delivery scheduling
+- Multi-channel reordering (phone, text, email, online portal, mobile app)
+- Specialist product consultation
+- ACHC-accredited supply services
 
 ## Industries
 - Catheter supplies
 - Ostomy supplies
 - Medical supplies
-- Home healthcare
 
 ## Certifications
 - ACHC accreditation
@@ -178,20 +187,22 @@ Brown started the business because he experienced firsthand the lack of product 
 ## Company details
 - **Company Type:** Distributor / reseller
 - **Founded:** 2002
+- **Ownership:** Founder-owned
 - **Headquarters:** Albuquerque, New Mexico
 
 <details><summary>Sources</summary>
 
-- Founded in 2002 by Todd Brown after spinal cord injury -> /about-us
-- Headquarters in Albuquerque, New Mexico -> db
-- Carries one of the largest intermittent catheter selections from top brands -> /
-- Offers free samples, discreet free shipping, easy reordering -> /
-- In-network with Medicare, Medicaid, and private insurance covering 200+ million lives -> /
-- ACHC-accredited and BBB A+ rated -> /
+- Founded 2002 by Todd Brown after spinal cord injury -> /about-us
+- Headquarters Albuquerque, New Mexico -> db
+- ACHC-accredited -> /about-us
+- BBB A+ rating and Torch Award for Ethics -> /
+- In-network with Medicare, Medicaid, private insurance covering 200+ million lives -> /
 - 100,000+ customers nationwide -> /
+- Free home delivery and free samples -> /
+- Specialists include product users -> /about-us
+- 24 years established -> /
 - 13,000+ 5-star Trustpilot reviews -> /
-- Specialists include team members who use supplies -> /about-us
-- BBB Torch Awards Recipient for Ethics -> /
+- LinkedIn URL -> db
 </details>
 
 ---
@@ -201,43 +212,41 @@ Brown started the business because he experienced firsthand the lack of product 
 **Old description:** For every tree harvested, at least 3 are planted. North American forests have grown 20% since 1970.
 
 ## About
-1st Choice Millworks operates from Coeur d'Alene, Idaho, where it was founded in 2007 by Ted Yurek after he acquired woodworking equipment and began supplying custom mouldings to local building suppliers. The business remained a one-man operation for a decade until 2017, when his son Ryan Yurek joined, and the pair transitioned ownership in 2019 to focus on high-end architectural millwork for luxury home builders.
+1st Choice Millworks operates from Coeur d'Alene, Idaho, where it was founded in 2007 by Ted Yurek after he acquired woodworking equipment and began supplying custom mouldings to local building supply centers. The business remains family-owned; Ted and Kelly Yurek transferred leadership to their son Ryan and his wife Morgan in 2019, with Ryan overseeing daily operations and Morgan handling finances.
 
-The shop produces custom architectural millwork, interior and exterior doors, siding, paneling, and specialty wood components, handling design, fabrication, pre-finishing, and installation under one roof. Its facility turns out nearly one million linear feet of lumber each year, supported by a nine-person team that includes a shop foreman, finish specialist, estimators, and operators.
+The shop produces architectural millwork, custom interior doors, and pre-finished exterior cladding, handling design, fabrication, and installation in-house. It runs as an authorized reseller for TruStile Doors, Ashley Norton Hardware, and Rocky Mountain Hardware. The facility turns out nearly one million linear feet of lumber each year, supported by a team that includes a shop foreman, vice president, moulding operator, finish specialist, two estimators, a coordinator, and several operators.
 
-The company serves super-premium home builders, architects, and developers in the Pacific Northwest, with projects such as the Black Rock development in Coeur d'Alene, where it pre-finished exterior cladding for a major luxury residence. Clients range from custom-home contractors to design firms seeking bespoke woodwork for high-end residential projects.
+Clients are primarily super-premium home builders, architects, and high-end residential contractors in the Pacific Northwest. A notable project was the Black Rock development in Coeur d'Alene, where the company pre-finished exterior cladding for a major builder.
 
-The founders emphasize sustainability, craftsmanship, and long-term relationships as core differentiators. They source FSC-certified eucalyptus, Accoya, Western Red Cedar, and White Oak, and act as authorized resellers for TruStile Doors, Ashley Norton Hardware, and Rocky Mountain Hardware. Their stated commitment to on-time delivery, waste reduction, and collaborative project management aims to make complex custom millwork seamless for builders and architects.
+The company emphasizes sustainable sourcing, offering FSC-certified eucalyptus, Accoya, Western Red Cedar, and white oak, while minimizing waste. Its differentiators include a family-oriented culture, a commitment to on-time delivery, and a collaborative approach that spans concept through installation.
 
 ## Known for
-- On-time, on-budget delivery without compromising quality
-- Sustainable material options including FSC-certified eucalyptus and Accoya
-- End-to-end service from design and fabrication through installation
-- Premium wood species such as White Oak, Western Red Cedar, and Accoya
-- Collaborative approach with architects and builders from concept to completion
+- Authorized reseller of TruStile Doors, Ashley Norton Hardware, and Rocky Mountain Hardware
+- Family-owned and operated since 2007
+- Sustainable wood options including FSC-certified eucalyptus and Accoya
+- Full-service capability from design through installation
 
 ## Capabilities
 - Custom architectural millwork
 - Custom interior doors
-- Exterior siding and cladding
-- Interior paneling
-- Specialty millwork
-- Pre-finishing services
-- Design and engineering support
-- Fabrication and machining
+- Pre-finishing exterior cladding
+- Custom mouldings
+- Design and fabrication
 - Installation services
-- Hardware supply (Ashley Norton, Rocky Mountain)
-- Door supply (TruStile Doors)
+- Finish specialist services
+- Estimating and project coordination
+- Sustainable material sourcing
+- Authorized reseller of premium door and hardware brands
 
 ## Industries
-- Luxury residential construction
-- High-end custom homes
-- Architectural millwork
-- Super premium home builders
-- Architects and design firms
+- Super premium home building
+- Architectural design
+- Residential construction
+- Custom home building
+- High-end residential remodeling
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Founded:** 2007
 - **Employees:** 9
 - **Ownership:** Family-owned
@@ -245,17 +254,16 @@ The founders emphasize sustainability, craftsmanship, and long-term relationship
 
 <details><summary>Sources</summary>
 
-- Location: Coeur d'Alene, Idaho -> db
-- Founded 2007 by Ted Yurek -> /about-us
-- Ryan Yurek joined 2017, ownership transition 2019 -> /about-us
-- Family-owned (Ted and Kelly Yurek, Ryan & Morgan) -> /about-us
-- Team of 9 listed (Rob Loudenback, Eric Olson, Mike Good, Taylor Glidewell, Ben Burke, Rochelle Rivera, Scott Hoy, Jade Guino, Charlotte Lupinacci) -> /about-us
-- Produces nearly 1 million linear feet annually -> /about-us
-- Services: custom architectural millwork, doors, siding, paneling, specialty millwork, design, fabrication, pre-finishing, installation -> /about-us, /
-- Materials: Accoya, Western Red Cedar, Eucalyptus (FSC), White Oak -> /, /about-us
-- Authorized reseller: TruStile Doors, Ashley Norton Hardware, Rocky Mountain Hardware -> /
-- Industries: super premium home builders, high-end custom homes, architects, Black Rock development example -> /about-us
-- Differentiators: reliability, sustainability, comprehensive services, craftsmanship, tailored solutions, premium materials, collaborative approach -> /about-us
+- Founded in 2007 by Ted Yurek in Coeur d'Alene, Idaho -> /about-us
+- Family-owned, leadership transferred to Ryan and Morgan Yurek in 2019 -> /about-us
+- Produces nearly 1,000,000 linear feet of lumber annually -> /about-us
+- Team of 9 listed employees including shop foreman, VP, operators, estimators -> /about-us
+- Authorized reseller of TruStile Doors, Ashley Norton Hardware, Rocky Mountain Hardware -> /
+- Materials: Accoya, Western Red Cedar, Eucalyptus (FSC Certified), White Oak -> /
+- Services: custom architectural millwork, doors, pre-finishing, design, fabrication, installation -> /about-us
+- Industries: super premium home builders, architects, high-end residential -> /about-us
+- Black Rock development project example -> /about-us
+- Sustainability commitment, waste minimization -> /about-us
 </details>
 
 ---
@@ -265,42 +273,43 @@ The founders emphasize sustainability, craftsmanship, and long-term relationship
 **Old description:** 24 South Apparel, a locally owned Boise shop, specializes in high-quality screen printing and embroidery services for a wide range of custom apparel. We offer screen printing on t-shirts, hoodies, and other garments, as well as expert embroidery for hats and polos. Additionally, we provide vinyl printing for personalized items like names and numbers on jerseys. Our goal is to deliver exceptional results for businesses, organizations, and individuals, with a focus on quality, precision, and customer satisfaction. As a local business, we take pride in serving our community with personalized service and attention to detail.
 
 ## About
-24 South Apparel operates from Boise, Idaho, as a family-owned and operated shop specializing in custom screen printing and embroidery. The business serves the local community and ships nationwide, though a founding year and founder names are not publicly disclosed.
+24 South Apparel is a family-owned and operated custom apparel shop based in Boise, Idaho. The company provides screen printing, embroidery, and vinyl printing services for businesses, organizations, and individuals throughout the Treasure Valley and beyond.
 
-The company provides screen printing on automatic presses, embroidery on commercial machines, and vinyl printing for names, numbers, and decals. It also offers custom design assistance and decorates a range of blanks including t‑shirts, hoodies, hats, bags, and vinyl signage. Materials span cotton, cotton‑polyester blends, 100 % polyester, tri‑blend fabrics, plastisol and water‑based inks, and heat‑transfer vinyl. No facility size or headcount figures are published.
+The shop runs an automatic screen-printing press for multi-color garment work, commercial embroidery machines for hats and polos, and a vinyl cutter for names, numbers, decals, and banners. Garments are sourced in 100% cotton, cotton-poly blends, polyester, and tri-blend fabrics, printed with plastisol or water-based inks. Turnaround is quoted at 14 days from art approval, with local pickup or delivery available in Boise and shipping offered nationwide.
 
-Customers include businesses, schools, churches, bands, sports teams, and event organizers seeking branded apparel, promotional bags, headwear, and signage. The shop emphasizes bulk‑order discounts and a 14‑day turnaround for most orders, with local pickup or delivery in the Boise area and optional shipping.
+Customers range from corporate teams needing branded polos and bags to schools, churches, bands, sports leagues, and family reunions ordering custom t-shirts, hoodies, hats, and tote bags. The company also produces vinyl signage such as window wraps and banners for promotional use.
 
-Positioning itself as a budget‑friendly alternative to large retailers, 24 South Apparel highlights competitive pricing, a 100 % satisfaction guarantee, and personalized service as its core differentiators.
+Founded as a budget-friendly alternative to large national printers, 24 South Apparel emphasizes competitive pricing, a 100% satisfaction guarantee, and personalized service from a local team. Bulk-order discounts and a focus on quick turnaround aim to keep projects on schedule and within budget.
 
 ## Known for
 - Family owned and operated
-- Budget-friendly alternative to big-box retailers
-- 14-day standard turnaround
-- Local pickup and delivery in Boise
-- 100% satisfaction guarantee
+- Automatic press for consistent, vibrant screen prints
+- 14-day standard turnaround with local pickup/delivery
+- 100% satisfaction guarantee on workmanship
+- Bulk-order discounts for businesses and organizations
 
 ## Capabilities
 - Screen printing (automatic press)
-- Embroidery (commercial machines)
-- Vinyl printing (heat transfer for names/numbers, decals, banners, window wraps, signs)
+- Embroidery (hats, polos, bags)
+- Vinyl printing (names, numbers, jerseys)
 - Custom graphic design
-- Bag embroidery (backpacks, totes, cinch bags, briefcases, coolers, duffels)
-- Hat decoration (embroidery, vinyl transfers, patches)
-- Bulk order discounts
+- Vinyl decals, banners, window wraps, signs
+- Local pickup and delivery (Boise area)
+- Shipping nationwide
 
 ## Industries
-- Businesses
-- Schools
-- Churches
-- Bands
-- Sports teams
-- Event organizers
-- Organizations
+- Business/corporate branding
+- Schools and education
+- Churches and religious organizations
+- Sports teams and leagues
+- Bands and entertainment
+- Events and family reunions
+- Promotional products
 
 ## Equipment
 - Automatic screen printing press
 - Commercial embroidery machines
+- Vinyl cutter/plotter
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -309,23 +318,15 @@ Positioning itself as a budget‑friendly alternative to large retailers, 24 Sou
 
 <details><summary>Sources</summary>
 
-- Company name: 24 South Apparel -> db
-- Location: Boise, Idaho -> db, page '/'
-- Family owned & operated -> page '/'
-- Services: screen printing, embroidery, vinyl printing -> page '/'
-- Equipment: automatic press, embroidery machines -> page '/'
-- Materials: cotton, cotton-poly blends, 100% polyester, tri-blend, plastisol ink, water-based ink -> page '/'
-- Lead time: as little as 14 days -> page '/'
-- Local pickup/delivery in Boise -> page '/'
-- Shipping available -> page '/'
-- Bulk order discounts -> page '/'
-- 100% satisfaction guarantee -> page '/'
-- Industries served: businesses, organizations, individuals, schools, churches, bands, sports teams -> page '/'
-- Custom design services -> page '/'
-- Bag embroidery -> page '/'
-- Hat decoration (embroidery, vinyl, patches) -> page '/'
-- Vinyl decals, banners, window wraps, signs -> page '/'
-- Budget-friendly alternative to big store names -> page '/'
+- Family owned & operated, located in Boise, Idaho -> page "/"
+- Screen printing on automatic press, embroidery, vinyl printing -> page "/"
+- Materials: cotton, cotton-poly blends, polyester, tri-blend, plastisol ink, water-based ink -> page "/"
+- Turnaround: as little as 14 days -> page "/"
+- Local pickup/delivery in Boise, shipping offered -> page "/"
+- 100% satisfaction guarantee -> page "/"
+- Bulk order discounts -> page "/"
+- Industries served: businesses, organizations, individuals, teams, schools, churches, bands, family reunions -> page "/"
+- Equipment: automatic press, top-of-the-line embroidery machines -> page "/"
 </details>
 
 ---
@@ -335,37 +336,33 @@ Positioning itself as a budget‑friendly alternative to large retailers, 24 Sou
 **Old description:** 301 Auto Parts specializes in late model used and recycled OEM auto parts for cars, trucks, vans and SUVs for both Import and Domestic vehicles.
 
 ## About
-301 Auto Parts operates from Olanta, South Carolina, just outside Florence. The company was founded in 2002 and has served the Southeast since then, building a reputation as a full-service auto parts sales and recycling facility.
+301 Auto Parts was founded in 2002 in Olanta, South Carolina, just outside Florence. The company operates as a full-service auto parts sales and recycling facility.
 
-The business runs a 50-acre auto salvage yard with over 4,000 late-model vehicles in inventory at any time, yielding thousands of warehoused parts. It dismantles vehicles to supply recycled OEM mechanical components — engines, transmissions, rear ends — as well as auto body parts such as doors, fenders, hoods, lights, bumpers, and grilles. The facility also stocks used tires, wheels, and interior parts, and carries a line of new CAPA-certified aftermarket replacement parts for late-model domestic and import vehicles.
+The business specializes in late-model used and recycled OEM auto parts for cars, trucks, vans, and SUVs, covering both import and domestic vehicles. Its 50-acre salvage yard holds thousands of warehoused parts and over 4,000 late-model parts vehicles at any time. Inventory includes engines, transmissions, rear ends, mechanical components, auto body parts such as doors, fenders, hoods, lights, bumpers, and grilles, as well as used tires, wheels, and accessories. The company also stocks new CAPA-certified aftermarket replacement parts.
 
-Customers include automotive repair shops, collision centers, insurance adjusters, and retail buyers across most of South Carolina, southeastern North Carolina, and northeastern Georgia, with daily local delivery and nationwide shipping available. The company’s online inventory search supports both English and Spanish.
+301 Auto Parts serves automotive repair shops, collision centers, insurance companies, and individual vehicle owners across most of South Carolina, southeastern North Carolina, and northeastern Georgia, with nationwide shipping available. Local delivery and daily pickup cover cities including Charleston, Columbia, Myrtle Beach, Florence, Darlington, and Sumter.
 
 ## Known for
+- 50-acre salvage yard with 4,000+ late-model parts vehicles on site
+- One of the largest parts inventories in South Carolina
+- CAPA-certified aftermarket parts available
 - Daily local pickup, delivery, and nationwide shipping
-- Over 4,000 late-model parts vehicles in inventory on a 50-acre site
-- CAPA-certified aftermarket replacement parts available
-- Warranty protection programs on recycled parts
-- Fast, individualized customer service
+- Warranty protection programs on parts
 
 ## Capabilities
 - Auto parts recycling
-- Vehicle dismantling
-- Used OEM parts sales
-- New CAPA-certified aftermarket parts sales
-- Mechanical parts supply (engines, transmissions, rear ends)
-- Auto body parts supply
-- Used tires and wheels sales
-- Local delivery
-- Nationwide shipping
+- Used OEM auto parts sales
+- New CAPA certified aftermarket parts sales
+- Auto salvage yard operations
+- Parts inventory management
+- Delivery and shipping
 - Warranty programs
-- Online inventory search
 
 ## Industries
-- Automotive recycling
-- Automotive repair
+- Auto recycling
+- Automotive aftermarket
 - Collision repair
-- Insurance
+- Mechanical repair
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -374,19 +371,18 @@ Customers include automotive repair shops, collision centers, insurance adjuster
 
 <details><summary>Sources</summary>
 
-- Founded 2002 -> db
-- Location Olanta, SC -> db
-- 50-acre salvage yard -> /
-- Over 4,000 late-model parts vehicles -> /
-- Used OEM parts and new CAPA-certified aftermarket parts -> /
-- Mechanical parts: engines, transmissions, rear ends -> /
-- Auto body parts: doors, fenders, hoods, lights, bumpers, grilles -> /
-- Used tires, wheels, interior parts -> /
-- Local delivery and nationwide shipping -> /
-- Warranty protection programs -> /
-- Service area: South Carolina, SE NC, NE GA -> /
-- Online inventory search -> /
-- Spanish language option -> /
+- Founded in 2002 -> db
+- Headquartered in Olanta, SC -> db
+- Auto salvage yard spans over 50 acres -> page /
+- Over 4,000 late model parts vehicles in inventory -> page /
+- Offers used engines, transmissions, rear ends, mechanical parts -> page /
+- Offers auto body replacement parts (doors, fenders, hoods, taillights, headlights, bumpers, grilles) -> page /
+- Offers used tires, wheels, accessories -> page /
+- Stocks new CAPA certified aftermarket parts -> page /
+- Local service area includes most of SC, southeastern NC, northeastern GA -> page /
+- Delivery and nationwide shipping available -> page /
+- Warranty protection programs -> page /
+- En Español link indicates Spanish language support -> page /
 </details>
 
 ---
@@ -396,65 +392,78 @@ Customers include automotive repair shops, collision centers, insurance adjuster
 **Old description:** This is a search field with an auto-suggest feature attached.
 
 ## About
-Founded in 1920 in Des Moines, Iowa, Electrical Engineering & Equipment—known as 3E—began as an electrical distributor and grew into a group of related businesses serving the heartland.
+Founded in 1920 in Des Moines, Iowa, Electrical Engineering & Equipment — known as 3E — began as an electrical supply business serving the Midwest. The company remains headquartered in Des Moines and operates multiple locations across the heartland.
 
-Today the company operates multiple locations across the Midwest with over 400 associates. It maintains deep local inventories of electrical supplies—switchgear, lighting, automation components, and generators from brands such as Schneider Electric and Kohler/Rehlko—and adds value through custom steel fabrication, control-panel assembly, motor repair, and mechanical design services. Field services for Schneider Electric equipment and vendor-managed inventory programs round out the offering.
+Today 3E employs over 400 associates and combines a deep inventory of electrical products with value‑added fabrication and repair services. Its capabilities include custom steel fabrication, control panel assembly, electrical apparatus and motor repair, commercial lighting and control systems, and industrial automation supplies. The company also offers 24/7/365 online ordering backed by local stock for immediate delivery or pickup.
 
-Customers span industrial OEMs, commercial contractors, residential builders, automation integrators, and energy-solution providers. The company’s generator division supports backup-power projects with Kohler and Rehlko units, while its automation and lighting groups serve both new construction and retrofit markets.
+3E serves a broad range of sectors including energy generation, industrial OEMs, commercial construction, residential contractors, and automation integrators. It represents brands such as Schneider Electric, Square D, and REHLKO|KOHLER generators, and provides mechanical design and manufacturing support for motor and generator applications.
 
-3E emphasizes that immediate product availability is its foundation: each branch stocks enough breadth and depth for same-day pickup or delivery, and an online portal extends that access 24/7. The firm also highlights the integrity of its supplier relationships and the empowerment of its associates as reasons customers trust its reliability.
+The firm emphasizes that its identity as a distributor is defined by the quality manufacturers it represents, and that strong local inventory is the foundation of its ability to deliver products and services without delay.
 
 ## Known for
-- Immediate delivery or pick-up from fully stocked local locations
-- 24/7/365 online ordering access to inventory
-- Over 400 empowered associates across multiple heartland locations
-- Schneider Electric authorized field services
-- In-house custom steel fabrication and motor repair
+- Strong local inventory enabling immediate delivery or pickup
+- Over 400 knowledgeable associates
+- 24/7/365 online ordering platform
+- Diverse in‑house capabilities: custom steel fabrication, control panels, motor repair
+- Authorized representative for brands such as Schneider Electric and REHLKO|KOHLER
 
 ## Capabilities
+- Electrical supplies & services
 - Custom steel fabrication
-- Control panel assembly and value-added services
+- Control panels & value‑add services
 - Electrical apparatus repair
-- Mechanical design and manufacturing
-- Schneider Electric field services
-- Inventory management and vendor-managed inventory
-- Electrical supplies distribution
-- Switchgear supply
-- Lighting and control systems
-- Automation solutions
-- Generator sales and service (Kohler/Rehlko)
-- Motor sales and repair
+- Commercial lighting & control
+- Industrial supplies/OEM
+- Automation
+- Residential electrical
+- REHLKO|KOHLER energy generators
+- Energy solutions
+- Business support solutions
+- Motor repair
+- Mechanical design & manufacturing
+- Switchgear
+- Generator sales & service
 
 ## Industries
-- Industrial/OEM
-- Commercial lighting and control
-- Residential electrical
-- Automation
 - Energy solutions
-- Generator systems
+- Generators
+- Motors
+- Mechanical design & manufacturing
+- Commercial lighting
+- Industrial supplies
+- OEM
+- Automation
+- Residential
+- Schneider Electric energy management
 
 ## Company details
 - **Company Type:** Distributor / reseller
 - **Founded:** 1920
-- **Employees:** 400+
+- **Employees:** over 400
 - **Headquarters:** Des Moines, Iowa
 
 <details><summary>Sources</summary>
 
-- Founded 1920 -> /about-us
+- Founded 1920 -> db
 - Headquarters Des Moines, Iowa -> db
 - Over 400 associates -> /
-- Multiple locations in heartland -> /
-- Custom steel fabrication -> /about-us
-- Electrical apparatus repair -> /about-us
+- Strong local inventory for immediate delivery or pickup -> /about-us
+- Distributor defined by represented companies -> /about-us
+- 24/7/365 online ordering -> /
+- Custom steel fabrication -> /
 - Control panels & value add services -> /
-- Schneider Electric field services -> /
-- Inventory management services -> /
-- Online ordering 24/7 -> /
-- Strong local inventory for immediate delivery -> /about-us
-- Industries served: industrial/OEM, commercial lighting, residential, automation, energy solutions, generators -> /about-us, /
-- Distributor business model -> /about-us
-- LinkedIn URL -> db
+- Electrical apparatus repair -> /
+- Commercial lighting & control -> /
+- Industrial supplies/OEM -> /
+- Automation -> /
+- Residential -> /
+- REHLKO|KOHLER Energy Generators -> /
+- Energy solutions -> /
+- Business support solutions -> /
+- Mechanical design & manufacturing -> /about-us
+- Multiple locations throughout heartland -> /
+- Represents Schneider Electric, Square D -> /
+- Motor repair -> name/slug
 </details>
 
 ---
@@ -464,46 +473,43 @@ Customers span industrial OEMs, commercial contractors, residential builders, au
 **Old description:** — you approve the price, and we’ll begin production the same day if we have the material on hand.
 
 ## About
-7C's Manufacturing was founded in 1993 in Reno, Nevada, as a women-owned business with a mission to deliver space-exploration-grade precision, lightning-fast turnaround, and uncompromising quality.
+7C's Manufacturing was founded in 1993 in Reno, Nevada. The company is women-owned and began with a mission to deliver space-exploration-grade precision, lightning-fast turnaround, and uncompromising quality on every order.
 
-The company operates a 40,000-square-foot facility adjacent to Reno-Tahoe International Airport, providing precision sheet metal fabrication and CNC machining under one roof. Capabilities include fiber and CO2 laser cutting, CNC press-brake forming, 3- and 4-axis milling, CNC turning, MIG/TIG/spot welding, mechanical assembly, and secondary operations such as deburring, graining, and hardware insertion. Finishing services like anodizing, powder coating, plating, and painting are managed through certified partners. The shop handles prototype runs through medium- and high-volume production, quoting in 24–48 hours and starting production the same day when material is in stock.
+The shop operates a fully integrated 40,000-plus-square-foot campus adjacent to Reno-Tahoe International Airport. Under one roof it runs precision fiber and CO2 laser cutting, CNC press-brake forming, CNC punching, 3- and 4-axis milling, CNC turning, MIG/TIG/spot welding, precision sawing, deburring, graining, hardware insertion, and secondary operations. Finishing such as anodizing, powder coating, plating, painting, and silk screening is managed through certified partners. The facility handles prototype through high-volume runs, with a stated range from a single mission-critical part to 10,000 production units per quarter. Free engineering support includes DFM feedback, design-for-manufacturability reviews, and production planning assistance.
 
-7C's serves space exploration, aerospace, defense, medical devices, robotics, healthcare, energy, advanced technology, and server technology sectors. Customers include engineers and manufacturers nationwide who rely on the shop for mission-critical components such as satellite hardware, life-saving medical equipment, and renewable energy infrastructure.
+Customers span space exploration, aerospace, defense, medical devices, robotics, healthcare, energy, advanced technology, server technology, and renewable energy. The company cites projects such as satellite components, life-saving medical equipment, and energy infrastructure as examples of its work.
 
-The company differentiates itself through unmatched speed (same-day production starts, 8-hour part turnaround), relentless quality (ISO 9001:2015 and ITAR registration with full traceability), competitive pricing via advanced automation, and 100% American-made manufacturing. Its seven core commitments—uncompromising quality, rapid responsiveness, engineering expertise, cost efficiency, collaborative communication, complete accountability, and customer-first innovation—guide every project.
+The firm attributes its differentiation to seven core commitments: uncompromising quality, rapid responsiveness, engineering expertise, cost efficiency, collaborative communication, complete accountability, and customer-first innovation. Concrete differentiators include same-day production start when material is in stock, parts delivered in as little as eight hours, quotes returned in 24–48 hours, a single point of accountability under an ISO 9001:2015 and ITAR-registered quality system, and 100% American-made manufacturing.
 
 ## Known for
-- Same-day production start if material is in stock
+- Same-day production start if material is on hand
 - Parts delivered in as little as 8 hours
-- 40,000+ sq ft facility next to Reno-Tahoe International Airport for rapid logistics
+- Quote in 24–48 hours with free engineering review
+- 40,000+ sq ft integrated facility next to Reno-Tahoe Airport
 - Women-owned, ISO 9001:2015 certified, ITAR registered
-- Free engineering assistance and production planning support
 
 ## Capabilities
-- Precision sheet metal fabrication
-- CNC machining & turning
-- Fiber laser cutting
-- CO2 laser cutting
+- Precision fiber laser cutting
+- Precision CO2 laser cutting
 - CNC press-brake bending and forming
 - CNC punching
-- 3-axis milling
-- 4-axis milling
-- CNC lathe turning
+- 3-axis CNC milling
+- 4-axis CNC milling
+- CNC turning
 - MIG welding
 - TIG welding
 - Spot welding
-- Mechanical assembly
-- Hardware insertion
 - Precision sawing
 - Deburring
 - Graining
+- Hardware insertion
 - Secondary operations
 - Finishing management (anodizing, powder coating, plating, painting, silk screening)
-- Design for manufacturability (DFM) feedback
-- Production planning assistance
-- Rapid quoting (24-48 hours)
-- ITAR-protected file handling
-- Prototyping to production
+- DFM feedback
+- Design for manufacturability reviews
+- Free production planning assistance
+- Rapid quoting
+- Secure ITAR-protected file handling
 
 ## Industries
 - Space exploration
@@ -515,19 +521,16 @@ The company differentiates itself through unmatched speed (same-day production s
 - Energy
 - Advanced technology
 - Server technology
-- High-performance industries
+- Renewable energy
 
 ## Equipment
-- Precision fiber laser cutting
-- CO2 laser cutting
-- CNC press-brake
-- 3-axis CNC mills
-- 4-axis CNC mills
-- CNC lathes
-- Precision sawing equipment
-- MIG welding equipment
-- TIG welding equipment
-- Spot welding equipment
+- Fiber laser cutter
+- CO2 laser cutter
+- CNC press brake
+- CNC punch press
+- 3-axis CNC mill
+- 4-axis CNC mill
+- CNC lathe
 
 ## Certifications
 - ISO 9001:2015
@@ -541,22 +544,28 @@ The company differentiates itself through unmatched speed (same-day production s
 
 <details><summary>Sources</summary>
 
-- Founded 1993 in Reno, Nevada -> /about
+- Founded 1993 in Reno, Nevada -> db, /about
 - Women-owned -> /about
-- 40,000+ sq ft facility next to Reno-Tahoe International Airport -> /about
-- ISO 9001:2015 certified -> /about, /
-- ITAR registered -> /about, /
-- Precision sheet metal fabrication and CNC machining -> /, /about
-- Capabilities: laser cutting, CNC press-brake forming, CNC punching, milling, turning, welding, assembly, finishing management -> /, /about
-- Industries: space exploration, aerospace, defense, medical devices, robotics, healthcare, energy, advanced technology, server technology -> /, /about
-- Tolerances ±0.005 in or better -> /
-- Same-day production start if material in stock -> /
-- Parts in as little as 8 hours -> /
-- Quote in 24-48 hours -> /
-- Free engineering assistance and production planning -> /, /about
+- 40,000+ sq ft facility adjacent to Reno-Tahoe International Airport -> /about
+- ISO 9001:2015 certified -> db, /, /about
+- ITAR registered -> db, /, /about
+- Precision fiber and CO2 laser cutting -> /
+- CNC press-brake bending and forming -> /
+- CNC punching -> /about
+- 3- and 4-axis milling plus CNC lathes -> /
+- MIG, TIG, and spot welding -> /, /about
+- Precision sawing, deburring, graining, hardware insertion, secondary operations -> /
+- Finishing managed with certified partners (anodizing, powder coating, plating, painting, silk screening) -> /, /about
+- DFM feedback, design for manufacturability reviews, free production planning assistance -> /, /about
+- Rapid quoting, same-day file review -> /
+- Secure ITAR-protected file handling -> /
+- Industries: space exploration, aerospace, defense, medical devices, robotics -> /
+- Industries: healthcare, energy, advanced technology, server technology, renewable energy -> /about
+- Volume: prototype to 10,000 units -> /about
+- Lead time: as little as 8 hours, quote in 24-48 hours, same-day production start -> /
+- Tolerances: ±0.005 in or better -> /
 - Materials: aluminum, steel, titanium, exotics -> /
-- Volume: prototype to 10,000 production units -> /about
-- Seven core commitments -> /about
+- Seven core commitments listed -> /about
 </details>
 
 ---
@@ -566,45 +575,28 @@ The company differentiates itself through unmatched speed (same-day production s
 **Old description:** Located in the Costco industrial area at the Hale Ku'i Plaza above Home Depot, 808 Computers provides the Big Island of Hawaii with full-service computer diagnostic, repair, and upgrade services along with networking and digital video surveillance solutions ranging from individual home use to full-fledged corporate applications. Our commitment to providing FREE troubleshooting and diagnosis along with a no "No Fix - No Fee" policy makes 808 Computers the ultimate risk-free option for your computer repair needs.
 
 ## About
-808 Computers operates from the Costco industrial area at Hale Ku'i Plaza in Kailua-Kona on the Big Island of Hawaii. The shop serves the entire island with computer repair, IT support, networking, and digital video surveillance installation for both residential and commercial clients.
+808 Computers operates from Kailua-Kona on the Big Island of Hawaii, situated in the Costco industrial area at Hale Ku'i Plaza above Home Depot. The company's founding year and ownership structure are not publicly disclosed.
 
-The company provides full-service diagnostics, repair, and upgrades for PC and Mac hardware and software, along with new machine setup, data transfer and recovery, email migration and configuration, wired and wireless network installation (including fiber and long-range wireless), and 1080p/30fps video surveillance systems with night vision and remote viewing. It also manages encrypted online and image-based offline backup solutions with in-house monitoring.
+The business provides full-service computer diagnostic, repair, and upgrade services for both PCs and Macs, along with new machine setup and data migration. It also handles data transfer and recovery from hard drives, flash drives, and memory cards; email solutions including migrations to gSuite or Office 365; home and office networking with CAT cable, fiber, and long-range wireless installations; digital video surveillance system installation featuring 1080p 30fps recording, audio, and up to 80 feet of night vision; and backup services encompassing encrypted online backup with year-long file history and offline full-image backup.
 
-Customers range from individual homeowners to businesses across the Kona area. The surveillance portfolio includes installations for multiple local businesses, while networking jobs span small homes, large offices, and campus-scale cabling projects.
+Customers range from individual home users to corporate clients. The company has installed surveillance systems for businesses in the Kona area and supports networking for small homes and large businesses alike.
 
-808 Computers differentiates itself with free troubleshooting and diagnosis, a "No Fix – No Fee" guarantee, and seven-day-a-week availability. It has been recognized as West Hawaii Today's "Best of West Hawaii" computer repair shop for seven consecutive years.
+808 Computers emphasizes a risk-free approach with free troubleshooting and diagnosis backed by a "No Fix – No Fee" policy.
 
 ## Known for
-- Free diagnostics and troubleshooting
-- "No Fix – No Fee" policy
+- Free troubleshooting and diagnosis
+- No Fix – No Fee policy
 - Open seven days a week
-- In-house backup monitoring with failure notification
+- Expert advice provided at no cost
 
 ## Capabilities
-- Computer hardware repair
-- Computer software repair
-- Mac repair
-- PC repair
-- Malware removal
-- Antivirus installation
-- Data transfer
-- Data recovery
-- Hard drive recovery
-- Flash drive recovery
-- Memory card recovery
-- Email migration
-- Google Workspace setup
-- Office 365 setup
-- Custom email configuration
-- Structured cabling (CAT)
-- Fiber optic installation
-- Long-range wireless networking
-- Network troubleshooting
-- IP video surveillance installation
-- Remote surveillance viewing setup
-- Encrypted online backup
-- Image-based offline backup
-- Backup monitoring and alerting
+- Computer repair (PC and Mac hardware/software)
+- New machine setup and data migration
+- Data transfer and recovery
+- Email solutions and migration
+- Home and office networking (CAT cable, fiber, long-range wireless)
+- Video surveillance system installation
+- Backup services (encrypted online and offline image backup)
 
 ## Industries
 - Residential
@@ -618,15 +610,19 @@ Customers range from individual homeowners to businesses across the Kona area. T
 
 <details><summary>Sources</summary>
 
-- Location: Kailua-Kona, Hawaii (Costco industrial area, Hale Ku'i Plaza) -> db, /
-- Services: computer repair, IT, networking, video surveillance, data recovery, backup -> /services
-- Free diagnostics and No Fix No Fee policy -> /, /services
-- Open 7 days a week -> /
-- Best of West Hawaii award 7 years in a row -> /
-- Serves residential and corporate clients -> /, /services
-- Surveillance installs for businesses in Kona area -> /services
-- 1080p/30fps recording, 80ft night vision, remote viewing -> /services
-- Encrypted online backup with file history, offline image backup, in-house monitoring -> /services
+- Location: Kailua-Kona, Hawaii, Costco industrial area at Hale Ku'i Plaza above Home Depot -> /
+- Services: computer diagnostic, repair, upgrade, networking, digital video surveillance -> /
+- Free troubleshooting and diagnosis, No Fix No Fee policy -> /
+- Award: West Hawaii Today's Best of West Hawaii best computer repair shop for 7 years -> /
+- Open seven days a week -> /
+- Services details: computer repair, new machine setup, data transfer/recovery, email solutions, home/office networking, video surveillance, backup services -> /services
+- Video surveillance: 1080p 30fps, audio, 80ft night vision -> /services
+- Backup: encrypted online backup with file history up to a year, offline full image backup -> /services
+- Networking: CAT cable installation, fiber installation, long range wireless solutions -> /services
+- Data recovery from various storage media -> /services
+- Email migration and setup for gSuite/Office 365 -> /services
+- Team: experienced and professional -> /
+- Expert advice free -> /
 </details>
 
 ---
@@ -636,54 +632,57 @@ Customers range from individual homeowners to businesses across the Kona area. T
 **Old description:** Yes. We provide on-site mobile welding for residential repairs, installations, and custom fabrication projects when needed.
 
 ## About
-83 MetalCraft LLC operates from Garden City, Idaho, in the Boise metropolitan area. The company was founded in 2016 with a vision to avoid the shortcuts and low-margin practices common in larger shops. The founders extended that vision to the Boise market in 2021, establishing a shop focused on residential and light architectural metalwork.
+83 MetalCraft LLC operates from Garden City, Idaho, in the Boise metropolitan area. The company was founded in 2016 and expanded its presence to Boise in 2021. Ownership details and founder names are not publicly disclosed.
 
-The shop fabricates custom metal railings, handrails, grabrails, gates, fencing, window well covers, and security doors from raw steel. All cutting, shaping, welding, finishing, and installation are performed in-house at their Garden City facility. Services also include on-site mobile welding for structural steel repairs and custom fabrication projects. The company emphasizes structural-grade construction with reinforced framing and protective coatings designed for Idaho’s climate.
+The shop provides custom metal fabrication and welding services focused on residential and light architectural projects. Core processes include cutting, shaping, welding, finishing, and installation of steel components. The company fabricates railings, handrails, grabrails, gates, fencing systems, window well covers, security doors, and ornamental ironwork. All work is performed in-house, from raw steel to finished installation, though facility size and headcount are not published.
 
-Primary customers are homeowners throughout Boise and the greater Treasure Valley seeking code-compliant, durable metalwork for stairs, decks, balconies, entryways, and window wells. The company also serves residential contractors through its membership in The Original 208 Contractors network. Projects range from simple handrail repairs to full custom architectural installations.
+The customer base consists of homeowners throughout Boise and the greater Treasure Valley seeking code-compliant, climate-resistant metalwork for safety, security, and aesthetic purposes. Projects range from simple handrail repairs to full custom architectural installations for decks, staircases, entryways, and egress windows.
 
-83 MetalCraft was started to provide an alternative to mass-produced kits and prefabricated systems that often loosen or corrode over time. The company differentiates itself by building every piece to exact site measurements, welding joints as solid structural systems, and engineering covers and gates to withstand heavy snow loads and seasonal temperature swings.
+The business was started to avoid the shortcuts and low-margin practices common in larger shops, emphasizing structural-grade construction with reinforced framing, precision welding, and protective coatings designed for Idaho's heavy snow loads and temperature swings. Mobile welding service is offered for on-site repairs and installations.
 
 ## Known for
-- Custom fabrication to exact site measurements
-- Engineered for Idaho snow loads and climate extremes
-- In-house cutting, welding, finishing, and installation
-- On-site mobile welding for repairs and custom projects
-- Structural-grade gate systems with reinforced framing
+- Custom fabrication from raw steel, not mass-produced kits
+- On-site mobile welding for residential repairs and installations
+- Structural-grade gate systems with reinforced framing and precision welding
+- Snow-load rated window well covers engineered for Idaho climate
+- In-house fabrication for quality control from start to finish
 
 ## Capabilities
 - Custom metal fabrication
-- Metal railing and stair system fabrication
-- Interior and exterior handrail and grabrail fabrication
-- Metal gate and residential fencing fabrication
-- Window well cover fabrication
-- Residential welding and repair
-- On-site mobile welding
 - Structural steel welding
-- Custom architectural metal fabrication
-- Protective coating application
+- Mobile/on-site welding
+- Metal cutting and shaping
+- Metal finishing and coating
 - Installation services
+- Railing fabrication (stair, balcony, grabrail, handrail)
+- Gate fabrication (residential entry, ornamental, security perimeter)
+- Fencing systems (ornamental iron, decorative privacy)
+- Window well cover fabrication (custom, snow-load rated, egress-compliant)
+- Security window bar fabrication
+- Architectural metal design and fabrication
 
 ## Industries
 - Residential construction
-- Architectural metalwork
-- Home safety and security
+- Home improvement
+- Residential safety and compliance
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 2016
 - **Headquarters:** Garden City, Idaho
 
 <details><summary>Sources</summary>
 
-- Founded in 2016 -> /services
-- Headquarters Garden City, Idaho -> /services
-- Custom metal fabrication, railings, gates, window well covers, welding -> /
-- On-site mobile welding -> /
-- In-house fabrication -> /
-- Engineered for Idaho snow loads -> /
-- Member of The Original 208 Contractors -> /services
-- Address 514 East 45th Street, STE 12, Garden City, Idaho 83714 -> /services
+- Founded in 2016 -> db and /services page
+- Headquarters in Garden City, Idaho -> db and /services page
+- Services: custom railings, gates, fencing, window well covers, welding -> / page
+- Processes: cutting, shaping, welding, finishing, installing -> / page
+- Materials: raw steel, structural steel, reinforced metal -> / page
+- Mobile welding offered -> / page and description
+- Serves residential customers in Boise/Treasure Valley -> / page
+- Business philosophy: avoid shortcuts, structural-grade construction -> /services page
+- Snow-load rated covers for Idaho climate -> / page
+- In-house fabrication for quality control -> / page
 </details>
 
 ---

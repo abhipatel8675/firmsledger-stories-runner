@@ -3,37 +3,41 @@
 **Old description:** Since 1934, Carolina Foods has been an innovator in the category of sweet baked goods.
 
 ## About
-Carolina Foods was founded in 1934 in Charlotte, North Carolina, as an innovator in sweet baked goods. The company remains headquartered in Charlotte and operates a state-of-the-art baking facility in nearby Pineville. No founders are named in public records, and ownership structure is not disclosed.
+Carolina Foods was founded in 1934 in Charlotte, North Carolina, and has operated continuously as a maker of sweet baked goods for over 90 years. The company maintains its headquarters in Charlotte and runs a modern baking facility in nearby Pineville, NC. No founders are named in public records, and ownership structure is not disclosed beyond a description of a family-oriented culture.
 
-The company produces a range of sweet baked goods including Gem Donuts, Donut Sticks, Honey Buns, Fritters, Cinnamon Rolls, and Mini Pies under its Duchess brand, while also serving as a private-label and co-manufacturing partner. Its Pineville facility employs automated baking and packaging lines, notably a Schubert packaging system, and the company emphasizes 100% scratch-made formulations with extended shelf-life technology.
+The company produces a range of sweet baked goods including gem donuts, donut sticks, honey buns, fritters, cinnamon rolls, and mini pies under its Duchess brand and as a private-label and co-manufacturing partner. All products are made from scratch using time-honored techniques combined with technology; the Pineville plant features automated packaging from Schubert and was named Food Engineering’s 2025 Plant of the Year.
 
-Customers span retail chains, private-label brands, co-manufacturing clients, and food-service operators such as quick-serve restaurants and hospitality venues. The company cites retailers as partners but does not name specific brands.
+Customers include retailers across convenience, grocery, mass-market, and club channels, as well as quick-serve and hospitality food-service operators. The company positions itself as a bakery partner of choice for brands seeking customized sweet baked goods and scalable co-manufacturing solutions.
 
-Carolina Foods differentiates itself through its heritage as the first to develop extended shelf-life technology for sweet baked goods and the first to introduce the honey bun. It manages every production step in-house to ensure quality, safety, and faster innovation, an approach recognized by a Food Engineering 2025 Plant of the Year Award.
+Carolina Foods traces its differentiation to early innovations—it claims to be the first to crack extended shelf life for sweet baked goods and the first to introduce the honey bun—and to its in-house control of every production step, which it says enables faster innovation, gold-standard quality and safety 365 days a year, and unmatched service.
 
 ## Known for
-- First to develop extended shelf-life technology for sweet baked goods
-- First to introduce the honey bun to the market
-- Award-winning bakery (Food Engineering 2025 Plant of the Year)
+- First to develop extended shelf life for sweet baked goods
+- First to introduce the honey bun
+- Award-winning, state-of-the-art bakery facility in Pineville, NC (Food Engineering 2025 Plant of the Year)
+- Gold-standard quality, safety, and service 365 days a year
 - In-house control of every production step for faster innovation
-- Schubert packaging system for advanced packaging automation
 
 ## Capabilities
-- Sweet baked goods manufacturing
-- Private label production
+- Scratch baking
+- Extended shelf life formulation
 - Co-manufacturing
-- Extended shelf-life formulation
-- Automated packaging (Schubert system)
-- Quality assurance (gold standard)
-- Food safety compliance
+- Private label production
 - Retail distribution
 - Food service supply
+- Automated packaging (Schubert system)
+- Product innovation and development
+- Quality assurance and food safety
+- In-house process control
 
 ## Industries
-- Retail (convenience stores, value retailers, conventional grocers, mass-market retailers, club stores)
-- Private label brands
+- Retail
+- Food service
+- Private label
 - Co-manufacturing
-- Food service (quick-serve restaurants, hospitality)
+- Convenience stores
+- Grocery
+- Club stores
 
 ## Equipment
 - Schubert packaging system
@@ -47,16 +51,16 @@ Carolina Foods differentiates itself through its heritage as the first to develo
 
 - Founded 1934 -> db
 - Headquarters Charlotte, NC -> db
-- Makes sweet baked goods: donuts, honey buns, fritters, cinnamon rolls, mini pies -> /
-- Private label and co-manufacturing partner -> /
-- Retail channels: 21,698 convenience stores, 8,600 value retailers, 4,505 conventional grocers, 3,419 mass-market retailers, 873 club stores -> /about-us
-- New baking facility in Pineville, NC -> /
+- Pineville, NC facility -> /
+- Products: gem donuts, donut sticks, honey buns, fritters, cinnamon rolls, mini pies -> /
+- Made from scratch, time-honored techniques, industry-leading technology -> /
 - Schubert packaging system -> /about-us
-- Food Engineering 2025 Plant of the Year Award -> /about-us
-- First to crack extended shelf life -> /about-us
-- First to introduce honey bun -> /about-us
-- Gold standard quality, safety and service 365 days a year -> /about-us
-- 100% made from scratch -> /about-us
+- Food Engineering 2025 Plant of the Year -> /about-us
+- Retail channel counts: 21,698 convenience stores, 8,600 value retailers, 4,505 conventional grocers, 3,419 mass-market retailers, 873 club stores -> /about-us
+- Channels: retail, private label, co-manufacturing, food service -> /
+- First to crack extended shelf life, first honey bun -> /about-us
+- Gold standard quality, safety, service 365 days -> /about-us
+- In-house process control -> /
 - Family-oriented culture -> /about-us
 </details>
 
@@ -67,27 +71,27 @@ Carolina Foods differentiates itself through its heritage as the first to develo
 **Old description:** None
 
 ## About
-Carolina Narrow Fabric operates from Winston-Salem, North Carolina, where it was founded in 1929. The company began as a manufacturer of custom-designed specialty textiles and has remained in continuous operation for nearly a century.
+Carolina Narrow Fabric, based in Winston-Salem, North Carolina, has been manufacturing custom specialty textiles since 1929. The company began as a pioneer in fiberglass fabric manufacturing and has since expanded its capabilities to serve a broad range of industrial markets.
 
-Today the firm produces woven and warp-knit fiberglass fabrics and tapes in widths from a quarter inch up to 120 inches. Its capabilities include custom textile manufacturing, coating application, and design and engineering support for applications such as pipeline sealing, surfboard reinforcement, and orthopedic casting.
+The company produces woven and warp‑knit fiberglass tapes, fabrics, and coatings in widths from 0.25 inches to 120 inches. Its operations cover custom textile design, weaving, warp knitting, and coating processes, enabling it to deliver everything from narrow reinforcement tapes to wide industrial fabrics.
 
-The company serves automotive, electrical, medical, industrial, oil and gas, aerospace, recreation, marine, military, and knitting and weaving markets. Customers have included natural gas pipeline operators, surfboard builders, and medical device suppliers.
+Carolina Narrow Fabric serves the automotive, electrical, medical, industrial, oil and gas, aerospace, recreation, marine, military, and knitting and weaving sectors. Its products have been used to seal and reinforce natural‑gas pipelines, provide structural layers for surfboards, and supply orthopedic casting materials to the medical field.
 
-Carolina Narrow Fabric emphasizes a culture of innovation driven by cross-industry problem solving, applying lessons from one sector to another. Its quality policy commits to meeting or exceeding customer requirements through continual improvement across all operations.
+The company emphasizes a culture of innovation driven by client demands, often transferring solutions developed for one industry to improve products in another. A stated quality policy commits to meeting or exceeding customer requirements through continual improvement across all operations.
 
 ## Known for
-- Pioneer in fiberglass fabric manufacturing
-- Woven and warp-knit fiberglass widths from 0.25″ to 120″
-- Cross-industry expertise transferring solutions between sectors
-- Quality management focused on continual improvement
+- Pioneer in fiberglass fabric manufacturing since 1929
+- Woven and warp‑knit fiberglass materials in widths from 0.25″ to 120″
+- Cross‑industry expertise: solutions from one sector applied to another
+- Quality policy focused on meeting or exceeding customer requirements with continual improvement
 
 ## Capabilities
 - Custom textile manufacturing
-- Woven fiberglass fabrics
-- Warp knit fiberglass fabrics
+- Weaving
+- Warp knitting
+- Fiberglass fabric manufacturing
+- Coating
 - Tape fabrication
-- Coating application
-- Design and engineering support
 
 ## Industries
 - Automotive
@@ -108,17 +112,15 @@ Carolina Narrow Fabric emphasizes a culture of innovation driven by cross-indust
 
 <details><summary>Sources</summary>
 
-- Founded 1929 -> db, /, /about
+- Founded 1929 -> db
 - Headquarters Winston-Salem, North Carolina -> db
-- Industries served: automotive, electrical, medical, industrial, oil/gas, aerospace, recreation, marine, military, knitting & weaving -> /, /about
-- Processes: woven and warp knit fiberglass fabrics -> /
-- Width range 0.25″ to 120″ -> /
-- Applications: natural gas pipeline sealing, surfboard reinforcement, orthopedic casts -> /
-- Quality statement: meet or exceed requirements, continual improvement -> /about
-- Cross-industry innovation culture -> /about
-- Coatings capability -> /
-- Design and engineering support -> /
-- Company type: manufacturer -> /
+- Manufactures custom specialty textiles, tapes, fabrics, coatings -> /
+- Pioneer in fiberglass fabric manufacturing -> /
+- Offers woven and warp knit fiberglass materials in widths 0.25″ to 120″ -> /
+- Serves automotive, electrical, medical, industrial, oil/gas, aerospace, recreation, marine, military, knitting & weaving -> /
+- Applications: natural gas pipeline sealing, surfboard infrastructure, orthopedic casts -> /
+- Culture of innovation, cross-industry expertise -> /about
+- Quality statement: meet/exceed requirements, continual improvement -> /about
 </details>
 
 ---
@@ -128,28 +130,30 @@ Carolina Narrow Fabric emphasizes a culture of innovation driven by cross-indust
 **Old description:** Through the years, Carolina Products, Inc. has consistently provided high quality products and services to our valued customers. Carolina Products holds five U.S. patents to attest to the unique and creative systems which they offer to a national and international marketplace.
 
 ## About
-Carolina Products Inc. is based in Charlotte, North Carolina, and was established in 1969. The company is 100% employee-owned, a structure highlighted as a core differentiator. While the founders are not named in available sources, the business has operated continuously for over five decades, building a reputation around custom building control systems and unitized switchgear.
+Carolina Products Inc. was established in 1969 in Charlotte, North Carolina. The company operates as a 100% employee-owned business, a structure it highlights as central to its service approach. While the founders are not named in available materials, the firm has built a national and international marketplace presence over more than five decades.
 
-The company designs and manufactures custom panel solutions, building control and automation systems, standard control panels, electrical control systems, and fuel pump and dispenser control systems. Its flagship offering integrates unitized switchgear with building controls in a single package, aimed at reducing construction time and material costs. No facility size, headcount, or production volume figures are publicly disclosed.
+The company designs and manufactures custom panel solutions, building control and automation systems, standard control panels, electrical control systems, and fuel pump and dispenser control systems. Its core offering integrates unitized switchgear with building controls in a single package, a configuration covered by five U.S. patents. Specific facility size, headcount, and annual production volumes are not disclosed.
 
-Carolina Products serves retail, convenience and grocery stores, restaurants, commercial facilities, and industrial facilities. A cited client, Robinson Oil Corporation, reported significant energy savings after installing a CPI system, illustrating the practical impact in convenience-store and fuel-retail environments.
+Carolina Products serves retail chains, convenience and grocery stores, restaurants, commercial facilities, and industrial facilities. A cited reference comes from Robinson Oil Corporation, whose representative noted reduced energy billing after installing a CPI system.
 
-The firm holds five U.S. patents covering its unique systems. It emphasizes that its employee-ownership model aligns incentives with customer outcomes, and that its integrated switchgear-and-controls approach delivers space savings, reduced energy costs, simplified construction, and tax depreciation benefits.
+The firm attributes its differentiation to its patented, integrated switchgear-and-controls approach, which aims to reduce construction time, material costs, and energy consumption over a project's life cycle. Employee ownership is presented as a driver of accountability and long-term client relationships.
 
 ## Known for
-- 100% employee-owned
-- Five U.S. patents on proprietary systems
-- Integrated unitized switchgear with building controls in one package
-- Space savings and reduced energy costs for end users
-- Simplified construction and tax depreciation advantages
+- Five U.S. patents covering integrated switchgear and control systems
+- 100% employee-owned structure
+- Unitized switchgear combined with building controls in a single package
+- Custom panel solutions designed for space savings and reduced energy costs
+- National and international project experience
 
 ## Capabilities
-- Custom panel solutions
+- Custom panel fabrication
 - Building control and automation systems
-- Standard control panels
-- Electrical control systems
+- Standard control panel assembly
+- Electrical control system design
 - Fuel pump and dispenser control systems
-- Unitized switchgear
+- Unitized switchgear manufacturing
+- Value engineering
+- Building automation integration
 
 ## Industries
 - Retail
@@ -167,15 +171,14 @@ The firm holds five U.S. patents covering its unique systems. It emphasizes that
 
 <details><summary>Sources</summary>
 
-- Headquarters: Charlotte, North Carolina -> db
-- Founded: 1969 -> /
-- Ownership: 100% Employee-Owned -> /
-- Five U.S. patents -> /
-- Products: Custom Panel Solutions, Building Control & Automation Systems, Standard Control Panels, Electrical Control Systems, Fuel Pump & Dispenser Control Systems -> /
-- Industries: Retail, Convenience & Grocery Stores, Restaurants, Commercial Facilities, Industrial Facilities -> /
-- Client example: Robinson Oil Corporation (Dave Mordick) -> /
-- Differentiators: Space Savings, Reduced Energy Costs, Simplified Construction, Tax Depreciation -> /
-- Integrated unitized switchgear with building controls -> /about
+- Founded in 1969 -> /about, /
+- Headquartered in Charlotte, North Carolina -> db
+- 100% employee-owned -> /
+- Holds five U.S. patents -> /
+- Provides custom panel solutions, building control & automation systems, standard control panels, electrical control systems, fuel pump & dispenser control systems -> /
+- Offers unitized switchgear integrated with building controls -> /about
+- Serves retail, convenience & grocery stores, restaurants, commercial facilities, industrial facilities -> /
+- Customer reference: Robinson Oil Corporation -> /
 </details>
 
 ---
@@ -185,28 +188,32 @@ The firm holds five U.S. patents covering its unique systems. It emphasizes that
 **Old description:** As a 4th Generation family-owned business, Carolina Textiles is a descendant of Grossman Industries, which was founded in 1920 in Columbus, Ohio.
 
 ## About
-Carolina Textiles traces its origins to 1920, when Grossman Industries was founded in Columbus, Ohio. Now a fourth-generation family-owned business, the company is headquartered in Walterboro, South Carolina, where it opened its first dedicated facility in 1995. The firm expanded through acquisitions, adding a Greer, South Carolina location in 2013 via the purchase of American Wiping Cloth and an Atlanta, Georgia operation in 2016 with the acquisition of Mountain Textiles.
+Carolina Textiles, headquartered in Walterboro, South Carolina, traces its roots to 1920 when Grossman Industries was founded in Columbus, Ohio. Now a fourth-generation family-owned business, the company began as a rag operation and has expanded through acquisitions: the Walterboro location opened in 1995, the Greer facility was added in 2013 via the purchase of American Wiping Cloth, and the Atlanta site came in 2016 with the acquisition of Mountain Textiles.
 
-The company manufactures and distributes a range of wiping products, including colored, gray, and white knit rags, fleece, terry cloth, disposable paper wipes, and microfiber cloths. It processes recycled textiles, diverting more than 12 million pounds of material from landfills each year. Packaging options include hand-packed and machine-compressed boxes and bags in 5-, 10-, 25-, and 50-pound sizes. The management team brings over 40 years of experience in the wiping cloth and used clothing sectors.
+The company manufactures and distributes cleaning cloths, towels, disposable wipers, and wiping rags in materials such as colored knit, fleece, terry cloth, paper, and microfiber. It offers hand-packed and machine-compressed packaging in 5-, 10-, 25-, and 50-pound boxes or bags. Across its three Southeast locations, Carolina Textiles diverts more than 12 million pounds of used textiles from landfills each year, repurposing them into wiping products.
 
-Carolina Textiles serves distributors and end users across the southeastern United States, including South Carolina, North Carolina, Florida, Georgia, Kentucky, Tennessee, Mississippi, Alabama, and Virginia. Its products are used in automotive, marine, industrial, janitorial, and food-service applications. The company also operates a thrift-store partnership program that purchases unusable donated clothing for recycling.
+Customers span automotive, marine, industrial, janitorial, and food-service sectors. The firm sells primarily through a distributor network across South Carolina, North Carolina, Florida, Georgia, Kentucky, Tennessee, Mississippi, Alabama, and Virginia, and also runs a thrift-store partnership program that converts unsalable donations into revenue.
 
-The business emphasizes its long-standing commitment to recycling, stating that it has repurposed used textiles since its inception. It also highlights customer service, an extensive product line, convenient ordering, affordable pricing, and fast delivery as key differentiators.
+Management emphasizes its green heritage—recycling textiles since the business began—and a service model built on extensive product lines, convenient ordering, competitive pricing, and fast delivery, backed by a team with over 40 years of industry experience.
 
 ## Known for
-- Recycles over 12 million pounds of textiles annually
-- Fourth-generation family-owned business
-- Three southeastern facilities (Walterboro, Greer, Atlanta)
-- Packaging in hand-packed and machine-compressed 5–50 lb boxes
-- Preferred distributor program for expedited sales
+- Diverts over 12 million pounds of textiles from landfills annually
+- Fourth-generation family ownership since 1920
+- Three Southeast production and distribution sites
+- Hand-packed and machine-compressed packaging (5–50 lb)
+- Preferred distributor and thrift-store partnership programs
 
 ## Capabilities
-- Textile recycling
-- Manufacturing of wiping rags
-- Distribution of cleaning cloths
-- Packaging (hand-packed and machine-compressed)
+- Textile recycling and repurposing
+- Wiping rag manufacturing
+- Cleaning cloth and towel production
+- Disposable wiper manufacturing
+- Microfiber rag production
+- Hand packing
+- Machine compression packaging
+- Wholesale distribution
+- Distributor program management
 - Thrift store partnership program
-- Distributor program
 
 ## Industries
 - Automotive
@@ -228,17 +235,15 @@ The business emphasizes its long-standing commitment to recycling, stating that 
 - Walterboro location opened 1995 -> /about-us
 - Greer location acquired 2013 (American Wiping Cloth) -> /about-us
 - Atlanta location acquired 2016 (Mountain Textiles) -> /about-us
-- Management team over 40 years experience -> /about-us
-- Manufactures and distributes cleaning cloths, towels, disposable wipers, cleaning rags -> /about-us
-- Stocks colored, gray, white knit, fleece, terry cloth, disposable paper wipes, microfiber rags -> /about-us
-- Packaging options: hand packed and machine compressed 5,10,25,50 lb boxes/bags -> /about-us
-- Recycles over 12 million pounds of textiles annually -> /, /about-us
-- Serves automotive, marine, industrial, janitorial, food service industries -> /
-- Sells to distributors in southeastern US states -> /about-us
-- Thrift store partnership program -> /, /about-us
-- Preferred distributor program -> /
 - Headquarters Walterboro, South Carolina -> db
-- Founded year 1920 -> db
+- Manufactures cleaning cloths, towels, disposable wipers, wiping rags -> /about-us
+- Materials: colored knit, fleece, terry cloth, paper, microfiber -> /about-us
+- Packaging: hand-packed and machine-compressed 5-50 lb boxes/bags -> /about-us
+- Diverts over 12 million pounds of textiles from landfills annually -> /about-us
+- Industries served: automotive, marine, industrial, janitorial, food service -> /
+- Distributor network across nine Southeast states -> /about-us
+- Thrift store partnership program -> /
+- Management team with over 40 years experience -> /about-us
 </details>
 
 ---
@@ -248,50 +253,51 @@ The business emphasizes its long-standing commitment to recycling, stating that 
 **Old description:** Welcome to Carolina Wood Designs, your premier destination for handcrafted custom wood furniture and cabinetry. We specialize in creating unique kitchen cabinets and custom furniture which enhances your space. Explore our
 
 ## About
-Carolina Wood Designs was founded in 2005 by Michael Osucha in Belmont, North Carolina. Osucha, a general contractor and craftsman, brought nearly 25 years of experience as a woodworker and precision machinist to the venture. The business began as a one-man shop focused on custom woodworking and has since grown into a dedicated studio producing handcrafted furniture and cabinetry.
+Carolina Wood Designs was established in 2005 by Michael Osucha in Belmont, North Carolina. Osucha, a general contractor by trade, brought nearly 25 years of experience as a woodworker and precision machinist to the venture, which began as an outlet for designing and building houses, furniture, and cabinetry.
 
-The company specializes in custom kitchen cabinets, built-in furniture, and closet systems, all fabricated in its Belmont workshop. Using traditional joinery techniques and hand-applied finishes, the team works with a variety of domestic and exotic hardwoods sourced globally. Projects range from single pieces of furniture to full kitchen installations, with each item built to order.
+The shop produces handcrafted custom wood furniture and cabinetry, with a focus on kitchen cabinets and one-of-a-kind furniture pieces. Work is performed in Belmont using traditional wood joinery techniques and quality finishing processes on lumber sourced from around the world. The operation remains a small, owner-run workshop; no facility size, headcount, or annual volume figures are published.
 
-Carolina Wood Designs serves primarily residential clients, including homeowners, interior designers, and builders seeking tailored woodwork for kitchens, living spaces, and storage solutions. The portfolio includes custom dining tables, entertainment centers, and organizational closet systems, with examples displayed in the company's online gallery.
+The company serves residential clients, interior designers, and builders seeking custom cabinetry and furniture for homes. Projects range from complete kitchen installations to individual pieces such as tables, chairs, and built-ins, all tailored to the customer's specifications.
 
-Osucha emphasizes attention to detail, proper wood joinery, and quality finishing as the hallmarks of the operation. The company backs its work with a 100 percent satisfaction guarantee and a seven-day, no-questions-asked return policy, reflecting a commitment to durable, fairly priced pieces that are meant to last for decades.
+Osucha emphasizes attention to detail, proper joinery, and durable finishes as the factors that distinguish the work. Every purchase carries a 100 percent satisfaction guarantee backed by a seven-day, no-questions-asked return policy.
 
 ## Known for
-- Handcrafted in Belmont, North Carolina
-- Uses globally sourced premium hardwoods
-- Traditional joinery and hand-finished surfaces
+- Handcrafted in Belmont, NC using globally sourced woods
+- Traditional wood joinery and quality finishing on every piece
 - 100% satisfaction guarantee with 7-day return policy
-- Founder brings 25 years of woodworking and machining experience
+- Owner Michael Osucha brings 25+ years as woodworker and precision machinist
 
 ## Capabilities
 - Custom cabinet making
-- Custom furniture building
-- Custom closet systems
+- Custom furniture making
+- Kitchen cabinet design and build
 - Wood joinery
-- Hand finishing
-- Design and build
+- Wood finishing
+- Residential millwork
+- Custom woodworking
 
 ## Industries
 - Residential construction
 - Interior design
-- Furniture manufacturing
+- Custom furniture
 - Cabinetry
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 2005
+- **Ownership:** Owner-operated
 - **Headquarters:** Belmont, North Carolina
 
 <details><summary>Sources</summary>
 
-- Founded 2005 by Michael Osucha -> /about
-- Located in Belmont, North Carolina -> /about
-- Handcrafts custom wood furniture, cabinetry, and closets -> /about, /
+- Founded in 2005 by Michael Osucha -> /about
+- Located in Belmont, North Carolina -> db, /about
+- Michael Osucha has nearly 25 years experience as woodworker and precision machinist -> /about
+- Produces handcrafted custom wood furniture and cabinetry -> /, /about
+- Specializes in kitchen cabinets and custom furniture -> /, /about
 - Uses woods from around the world -> /about
-- Offers 100% satisfaction guarantee and 7-day return policy -> /about
-- Michael Osucha has 25 years experience as woodworker and precision machinist -> /about
-- Specializes in kitchen cabinets and custom furniture -> /
-- Contact email Mike@CarolinaWoodDesigns.com -> /
+- Emphasizes proper wood joinery techniques and quality finishing -> /about
+- Offers 100% satisfaction guarantee with 7-day return policy -> /about
 </details>
 
 ---
@@ -301,43 +307,45 @@ Osucha emphasizes attention to detail, proper wood joinery, and quality finishin
 **Old description:** Our products include plywood reels, nailed wood reels, plastic reels, recycled reels
 
 ## About
-Carris Reels Inc. was founded in 1951 by Henry Carris in Rutland, Vermont. The company began as a wood reel manufacturer, building a multimillion-dollar business by 1980. In 1995, Bill Carris initiated an employee stock ownership plan (ESOP), which became the majority owner in 2005 and reached 100% employee ownership in 2008. Today the company is headquartered in Fincastle, Virginia.
+Carris Reels Inc. was founded in 1951 in Rutland, Vermont, by Henry Carris, who built the business on a culture of operational excellence summarized by the phrase “get the wood out.” His son, Bill Carris, expanded the company through acquisitions and new plants in the 1980s. In 1995 Bill began converting the company to an employee stock ownership plan (ESOP); the ESOP became majority owner in 2005 and reached 100% employee ownership in 2008. The corporate headquarters is now in Fincastle, Virginia.
 
-The company manufactures a comprehensive line of wire and cable packaging products, including plywood reels, nailed wood reels, plastic reels (standard, fine wire, welding wire, and magnet wire), recycled reels, and accessories such as chocks, blocks, and lagging. Operations span plastic molding and extrusion, resin processing systems, wood reel assembly, recycling of wood and steel reels, repair and scrap services, machining, tube-winding, reel assembly, specialty packaging, and stamped metal reel production. Carris operates multiple facilities across the United States (Vermont, Virginia, California, Indiana, Connecticut, Texas, North Carolina, Arkansas), Canada (Ontario, Alberta, Quebec, Saskatchewan), and Mexico (Nuevo León).
+The company manufactures wood reels (plywood, nailed wood, hardboard), plastic reels (standard, fine‑wire, welding‑wire, and magnet‑wire types), and recycled reels, and provides reel assembly, recycling, repair, and distribution services. Operations are vertically integrated across multiple facilities in Vermont, Virginia, California, Indiana, Connecticut, North Carolina, Texas, Arkansas, Canada (Ontario, Alberta, Quebec, Saskatchewan), and Mexico. Capabilities include plastic molding and extrusion, resin processing, machining, tube‑winding, stamped‑metal reel production, and fabrication of chocks, blocks, and lagging.
 
-Carris serves the wire and cable industry, supplying reels for fine wire, magnet wire, insulated wire, and welding wire applications. Customers include manufacturers requiring reel assembly, recycling programs, and distribution services. The company’s vertically integrated model supports a full supply chain from manufacturing to recycling.
+Carris serves the wire and cable packaging industry, supplying reels for fine wire, magnet wire, insulated wire, and welding wire. Customers include manufacturers of electrical and communication cable who rely on the company’s reel assembly, recycling, and logistics programs.
 
-The company emphasizes its employee-owned culture and vertical integration as competitive advantages, promoting an eco-friendly recycled reel program that reduces disposal and shipping costs. The founding principle of “get the wood out” remains central to its operational philosophy.
+Carris emphasizes its employee‑owned structure and vertically integrated model as competitive advantages that benefit customers. The recycled‑reel program is promoted as an eco‑friendly option that reduces disposal and shipping costs. The company traces its differentiation to the founder’s original focus on reliability and “getting the wood out” on time.
 
 ## Known for
-- 100% employee-owned via ESOP since 2008
-- Vertically integrated manufacturing and recycling operations
-- Comprehensive reel product line for wire and cable packaging
-- Recycled reel program reducing disposal and shipping costs
-- North American footprint with facilities in US, Canada, and Mexico
+- 100% employee-owned (ESOP) since 2008
+- Vertically integrated operations across North America
+- Comprehensive product line covering wood, plastic, and recycled reels
+- Recycling program that reduces disposal and shipping costs
+- Multi-site manufacturing and distribution network
 
 ## Capabilities
+- Wood reel assembly (plywood, nailed wood, hardboard)
 - Plastic molding & extrusion
 - Resin processing systems
-- Wood reel assembly (plywood, nailed wood)
 - Recycling (wood reels, steel reels)
 - Repair and scrap services
+- Distribution & logistics
 - Machining
 - Tube-winding
-- Reel assembly
 - Specialty packaging
 - Stamped metal reel manufacturing
-- Plastic reel production (standard, fine wire, welding wire, magnet wire)
-- Chocks, blocks, lagging production
-- Distribution
-- Logistics
+- Chocks, blocks, and lagging fabrication
+- Paper tube production
+- Plastic tube production
+- Hybrid reel assembly
+- REELEX payout tubes & accessories
 
 ## Industries
 - Wire and cable packaging
-- Fine wire manufacturing
-- Magnet wire manufacturing
-- Insulated wire manufacturing
-- Welding wire manufacturing
+- Fine wire
+- Magnet wire
+- Insulated wire
+- Welding wire
+- Recycling
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -347,15 +355,19 @@ The company emphasizes its employee-owned culture and vertical integration as co
 
 <details><summary>Sources</summary>
 
-- Founded in 1951 in Rutland, Vermont by Henry Carris -> /about
-- Became 100% employee-owned in 2008 via ESOP -> /about
+- Founded 1951 in Rutland, Vermont by Henry Carris -> /about
+- Employee-owned (ESOP) since 2008, process started 1995 -> /about
 - Headquarters in Fincastle, Virginia -> db
+- Multiple locations across US, Canada, Mexico -> /
 - Products: plywood reels, nailed wood reels, plastic reels, recycled reels -> /
-- Capabilities: plastic molding & extrusion, resin processing, wood reel assembly, recycling, repair, machining, tube-winding, reel assembly, specialty packaging, stamped metal reels -> /
-- Locations across US, Canada, Mexico -> /
+- Capabilities: wood reel assembly, plastic molding & extrusion, recycling, repair, distribution -> /
 - Industries: wire and cable packaging (fine wire, magnet wire, insulated wire, welding wire) -> /
-- Vertical integration and employee ownership as differentiators -> /
-- Recycled reels program -> /
+- Vertically integrated operations -> /
+- Recycled reels eco-friendly, cost-cutting -> /
+- Acquisitions: J. Hamelin 2015, Lone Star Reel 2016 -> /about
+- Leadership succession: Henry Carris, Bill Carris, Mike Curran, Dave Ferraro, Alberto Aguilar -> /about
+- Employee-owned tag explicitly stated -> / and /about
+- Founded year 1951 explicitly stated -> /about
 </details>
 
 ---
@@ -365,20 +377,19 @@ The company emphasizes its employee-owned culture and vertical integration as co
 **Old description:** Providing quality service, engineering, and design in Plastics Injection Molding.
 
 ## About
-Carson Hi-Tech Inc was established in 1994 in Carson City, Nevada, as a plastics injection molding company. The business operates from a 1,300-square-foot facility and runs six Van Dorn molding machines. No founders are named in public records, and ownership structure has not been disclosed.
+Carson Hi-Tech Inc. was established in 1994 in Carson City, Nevada. The company operates as a plastics injection molding specialist serving a broad range of markets from its single facility in the state capital.
 
-The company provides a turn-key operation covering mold design and injection molding, pad printing, hot stamping, sonic welding, assembly, packing and shipping, laser cutting, plastic shadowing, tooling, stereolithography (SLA), and thermoforming. With six Van Dorn machines in a compact plant, the shop handles projects from prototype through production runs, though specific volume ranges and headcount are not published.
+The company runs a 1,300-square-foot facility housing six Van Dorn injection molding machines. It offers a turn-key operation covering mold design, injection molding, and a range of secondary processes including pad printing, hot stamping, sonic welding, assembly, packing and shipping, laser cutting, plastic shadowing, tooling, SLA, and thermoforming.
 
-Carson Hi-Tech serves a diverse set of industries including medical, mining, education, hobby, lawn and garden, custom electronics and electrical, housing, toys, sporting goods, automotive, pets, and photography. Customers range from original equipment manufacturers to product developers seeking custom plastic components and secondary operations.
+Carson Hi-Tech serves a diverse set of industries: medical, mining, education, hobby, lawn and garden, custom electronics and electrical, housing, toys, sporting goods, automotive, pets, and photography.
 
-The firm emphasizes its combined staff experience of over 100 years and describes itself as an agile operation capable of fast, efficient service. The company was founded to deliver knowledgeable, hands-on support for plastic molding projects, positioning itself as a responsive partner for clients needing quick turnaround on tooled and finished parts.
+The company emphasizes its agility and the combined experience of its staff, which totals over 100 years. It positions itself as a partner that provides fast, efficient service from concept through delivery.
 
 ## Known for
-- Over 100 combined years of staff experience
-- Six Van Dorn injection molding machines on-site
+- Agile injection molding with six Van Dorn machines in a 1,300 sq ft facility
 - Turn-key service from mold design through assembly and shipping
-- Agile, fast-turnaround production in a 1,300 sq ft facility
-- In-house secondary operations including pad printing, hot stamping, sonic welding, and laser cutting
+- Over 100 combined years of staff experience
+- In-house secondary operations: pad printing, hot stamping, sonic welding, laser cutting, and more
 
 ## Capabilities
 - Mold Design
@@ -391,7 +402,7 @@ The firm emphasizes its combined staff experience of over 100 years and describe
 - Laser Cutting
 - Plastic Shadowing
 - Tooling
-- Stereolithography (SLA)
+- SLA
 - Thermoforming
 
 ## Industries
@@ -404,12 +415,12 @@ The firm emphasizes its combined staff experience of over 100 years and describe
 - Housing
 - Toys
 - Sporting Goods
-- Automotive
+- Auto
 - Pets
 - Photography
 
 ## Equipment
-- 6 Van Dorn injection molding machines
+- Van Dorn injection molding machines (6)
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -418,14 +429,14 @@ The firm emphasizes its combined staff experience of over 100 years and describe
 
 <details><summary>Sources</summary>
 
-- Founded in 1994 -> db and page /
-- Headquarters in Carson City, Nevada -> db and page /
-- Facility size 1,300 sq ft -> page /
-- Six Van Dorn machines -> page /
-- Services: mold design/injection molding, pad printing, hot stamping, sonic welding, assembly, packing/shipping, laser cutting, plastic shadowing, tooling, SLA, thermoforming -> page /
-- Industries served: medical, mining, education, hobby, lawn/garden, custom electronics/electrical, housing, toys, sporting goods, auto, pets, photography -> page /
-- Over 100 combined years of experience -> page /
-- Agile plastics injection molding company -> page /
+- Founded 1994 -> page '/'
+- Headquarters Carson City, Nevada -> page '/' and db
+- Facility 1,300 sq ft with 6 Van Dorn machines -> page '/'
+- Services: mold design, injection molding, pad printing, hot stamping, sonic welding, assembly, packing and shipping, laser cutting, plastic shadowing, tooling, SLA, thermoforming -> page '/'
+- Industries served: medical, mining, education, hobby, lawn/garden, custom electronics/electrical, housing, toys, sporting goods, auto, pets, photography -> page '/'
+- Over 100 combined years of staff experience -> page '/'
+- Turn-key operation -> page '/'
+- Agile plastics injection molding company -> page '/'
 </details>
 
 ---
@@ -435,44 +446,44 @@ The firm emphasizes its combined staff experience of over 100 years and describe
 **Old description:** After 48 years of operations, the company is well-known, a leading manufacturer of planetary gearheads. And, of course, the innovation didn’t stop in 1996.
 
 ## About
-Carson Manufacturing Inc. is a family-owned manufacturer of planetary gearheads based in Carson City, Nevada. The company traces its roots to 1986, when Eddie Capps and his wife Barbara purchased the business. Three generations of the family have since guided the operation, including their daughter Delores Stacy, now vice president, and her son Kenny Penn, a sales engineer. A pivotal redesign in 1996 introduced a bearing-holder architecture that aligns gears along the centerline, a method that later became an industry standard.
+Carson Manufacturing operates from Carson City, Nevada, where it was founded in 1986. The family-owned business traces its roots to Eddie Capps, who purchased the company with his wife Barbara; their daughter Delores Stacy now serves as vice president and her son Kenny Penn as sales engineer. In 1996, the three-generation team introduced a breakthrough redesign that replaced the traditional housing with a bearing holder, creating concentric force alignment that became an industry standard.
 
-The company produces several gearhead lines — Precision, Eliminator, “S” Series, and Right Angle (RE and RP) — covering sizes 17 through 56 and standard ratios from 3:1 to 100:1, with custom ratios up to 10,000:1. It maintains over 231 standard models and operates an internal research and development division where every design undergoes strenuous testing under multiple conditions. Custom gearheads are engineered to mount virtually any motor, and the company does not charge a design fee for custom work.
+The company produces planetary gearheads across five product lines—Precision, Eliminator, 'S', Right Angle, and fully custom units—with over 231 standard models and ratios up to 10,000:1. An internal R&D division develops and strenuously tests every design under varied conditions. Standard gearheads ship within two days; custom designs with set parameters are delivered in a week. All manufacturing is performed in-house in the United States.
 
-Customers span medical device makers (including cancer-detection equipment), paper-production machinery, motion-control and robotics integrators, aerospace programs such as Embry-Riddle Aeronautical University, HVAC manufacturers, and supply-chain automation firms like Attabotics. The company also serves servo-system distributors and industrial OEMs.
+Customers span medical device makers using gearheads for cancer detection, paper manufacturers improving production equipment, aerospace programs such as Embry-Riddle Aeronautical University, motion-control specialists like Servo Systems Co., HVAC firms including MAS HVAC, and automation integrators such as In-Position Technologies. The client base ranges from university research labs to industrial OEMs.
 
-Carson Manufacturing emphasizes on-time, on-budget delivery, with standard units shipping in two days and custom designs completed in a week. All products are made entirely in the United States, avoiding tariffs and reducing shipping costs. The firm’s differentiators include the no-fee custom design policy, the 1996 bearing-holder innovation, and a testing regimen that validates each configuration before shipment.
+Carson Manufacturing was built on the premise that custom gearhead engineering should not carry a design fee. The firm’s differentiators include free custom design, rigorous in-house testing, a commitment to on-time and on-budget delivery, and a 100% U.S.-made product that avoids tariffs and overseas shipping delays.
 
 ## Known for
-- No design fee for custom gearheads
-- Standard gearheads ship in 2 days
-- Custom designs with set parameters completed in a week
-- 100% manufactured in the USA (tariff-free)
+- Free custom design engineering with no design fee
+- Standard gearheads ship within 2 days
+- Custom designs completed within a week
+- 100% USA manufactured, tariff-free
 - Internal R&D division with strenuous testing of every design
 
 ## Capabilities
-- Planetary gearhead design
-- Custom gearhead engineering
+- Planetary gearhead manufacturing
+- Custom planetary gearhead design
 - Precision machining
-- Assembly
-- Strenuous testing under multiple conditions
+- Gear cutting and grinding
+- Assembly and testing
 - Research and development
-- No-charge custom design service
-- Standard gearhead production (231+ models)
-- Right-angle gearhead manufacturing
-- High-ratio gearheads (up to 10,000:1)
-- IP65 and IP54 enclosure rating compliance
+- Rapid custom design (within a week)
+- Standard gearhead stocking and 2-day shipping
+- Free design engineering for custom parts
+- Motor mounting adaptation
+- High ratio gearheads (up to 10,000:1)
+- IP65/IP54 rated enclosures
+- Wide temperature range operation (-20°F to 250°F)
 
 ## Industries
 - Medical devices
-- Paper production
-- Motion control
-- Robotics
+- Paper manufacturing
 - Aerospace
+- Motion control
 - HVAC
-- Supply chain automation
-- Servo systems
-- Industrial automation
+- Robotics and automation
+- Education and research
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -482,20 +493,23 @@ Carson Manufacturing emphasizes on-time, on-budget delivery, with standard units
 
 <details><summary>Sources</summary>
 
-- Founded 1986 -> db
+- Founded in 1986 -> db
 - Headquarters Carson City, Nevada -> db
-- Family-owned, purchased by Eddie Capps and Barbara -> /about-us
-- Three generations: Delores Stacy (VP), Kenny Penn (sales engineer) -> /about-us
-- 1996 bearing-holder redesign -> /about-us
-- Product lines: Precision, Eliminator, S Series, Right Angle RE/RP -> /about-us
-- Sizes 17-56, ratios 3:1-100:1 standard, up to 10,000:1 custom -> /about-us
-- 231+ standard models -> /
+- Family-owned, three generations (Eddie Capps, Barbara, Delores Stacy, Kenny Penn) -> /about-us
+- 1996 redesign using bearing holder -> /about-us
+- 231+ standard gearhead models -> /
+- Standard gearheads ship within 2 days -> /
+- Custom designs done in a week -> /
+- Manufactured 100% in USA -> /
+- Free custom design, no design fee -> /about-us
 - Internal R&D division, strenuous testing -> /about-us
-- No design fee for custom gearheads -> /about-us
-- Standard ship in 2 days, custom in a week -> /
-- 100% USA made, tariff-free -> /
-- Industries: medical (cancer detection), paper production, motion control, robotics, aerospace (Embry-Riddle), HVAC (MAS HVAC), supply chain automation (Attabotics), servo systems (Servo Systems Co.) -> /about-us, /
-- Materials: hard-anodized brackets, alloy steel ring gear, stainless steel output shaft, hardened steel gears -> /about-us
+- Product lines: Precision, Eliminator, S, Right Angle, Custom -> /about-us
+- Ratios up to 10,000:1 -> /about-us
+- IP65/IP54 enclosure ratings -> /about-us
+- Operating temperature -20°F to 250°F -> /about-us
+- Materials: hard-anodized aluminum, alloy steel, stainless steel, hardened steel -> /about-us
+- Industries served: medical (cancer detection), paper manufacturing, aerospace (Embry-Riddle), motion control (Servo Systems Co.), HVAC (MAS HVAC), automation (In-Position Technologies) -> /about-us and /
+- Testimonials from specific companies -> /
 </details>
 
 ---
@@ -505,57 +519,55 @@ Carson Manufacturing emphasizes on-time, on-budget delivery, with standard units
 **Old description:** PCBAs, Systems Integration, Testing & Microelectronics Assembly
 
 ## About
-Cascade Systems Technology, based in Hillsboro, Oregon, has served as a supplier of choice for electronic manufacturing services for more than 36 years. The company operates as a domestic contract manufacturer without publicly disclosed ownership structure or founder details.
+Cascade Systems Technology operates from Hillsboro, Oregon, where the company says it has served as a supplier of choice for more than 36 years. The business describes itself as a electronic contract manufacturer specializing in electronic manufacturing services (EMS) for customers across the United States.
 
-The firm provides a full spectrum of electronic assembly processes, including surface mount technology with BGA and micro BGA placement, through-hole, press-fit, microelectronics assembly, board de-panelization, conformal coating (acrylic, silicone, polyurethane), box build integration, cable and wire harness assembly, design for testability and manufacturing, and rework services. Its capabilities span PCB assembly, mechanical assembly, and functional testing, though facility size, headcount, and annual volume figures are not disclosed.
+Its capabilities span the full spectrum of electronic assembly: surface-mount technology with BGA and micro-BGA placement, through-hole, press-fit, microelectronics, board de-panelization, conformal coating (acrylic, silicone, polyurethane), box-build assembly, mechanical assembly, cable and wire-harness integration, design-for-testability and design-for-manufacturing support, and rework/repair. The firm also provides system-level integration and testing services.
 
-CST serves industries such as aerospace and defense, medical devices, semiconductor manufacturing, clean energy and EV battery storage, sensors and instrumentation, industrial controls, and emerging AI/data center/quantum computing sectors. Customer references include a semiconductor manufacturer, a clean energy/EV power supply manufacturer, a semiconductor company, and a semiconductor fab infrastructure manufacturer.
+CST serves military and aerospace programs, medical-device OEMs, semiconductor capital-equipment makers, clean-energy and EV/battery-storage companies, sensor and instrumentation firms, and industrial-controls builders. Reference customers cited include a semiconductor manufacturer, a clean-energy/EV power-supply producer, a semiconductor fab-infrastructure supplier, and the National Defense University.
 
-The company emphasizes its quality certifications—ISO 9001:2015, ITAR registration, IPC-A-610F, UL ZPVI2, UL-796, and ISO 14001—as well as decades of hands-on engineering and account management experience. It positions itself as a domestic reshoring partner to help customers avoid overseas tariffs and freight costs.
+The company emphasizes its decades of hands-on experience across account management, engineering, and design as a differentiator, saying that depth helps it identify and resolve challenging manufacturing problems quickly. It also highlights its domestic U.S. footprint and certifications — ISO 9001:2015, ITAR registration, IPC-A-610F, UL ZPVI2, UL-796, ISO 14001, and ESD compliance — as core to its quality commitment.
 
 ## Known for
-- ISO 9001:2015, ITAR, IPC-A-610F, UL ZPVI2, UL-796, ISO 14001 certifications
 - Over 36 years as a supplier of choice
-- Decades of hands-on engineering, design, and account management experience
-- Domestic manufacturing in Hillsboro, Oregon supporting reshoring
-- State-of-the-art SMT with BGA and micro BGA placement
+- ISO 9001:2015, ITAR, IPC-A-610F, UL ZPVI2, UL-796, ISO 14001, and ESD certifications
+- Decades of hands-on experience across account management, engineering, and design
+- Domestic U.S. electronic contract manufacturing in Hillsboro, Oregon
+- Full-spectrum electronic assembly under one roof (SMT, microelectronics, box build, test)
 
 ## Capabilities
 - Surface mount technology (SMT)
-- BGA and micro BGA placement
-- Board de-panelization
-- Microelectronics assembly
+- BGA and micro-BGA placement
+- Through-hole assembly
 - Press-fit assembly
+- Microelectronics assembly
+- Board de-panelization
 - Conformal coating (acrylic, silicone, polyurethane)
 - Box build assembly
+- Mechanical assembly
+- Cable and wire harness assembly
 - Design for testability (DFT)
 - Design for manufacturing (DFM)
 - Rework and repair
-- PCB assembly
-- Mechanical assembly
-- Cable and wire harness assembly
-- Testing (functional, in-circuit)
+- System integration
+- Functional and in-circuit testing
 - LED assembly
-- Electric vehicle equipment assembly
-- Sensor assembly
 - IoT device assembly (wireless sensor networks, control systems, automation)
 
 ## Industries
-- Aerospace and defense
-- Medical devices
-- Semiconductor manufacturing
-- Clean energy / EV / battery storage
-- Sensors and instrumentation
-- Industrial controls
-- AI / data center / quantum computing
-- LED lighting
-- Internet of Things (IoT) / wireless sensor networks
-- Control systems and automation
+- Aerospace & Defense
+- Medical Devices
+- Semiconductor Manufacturing
+- Clean Energy & EV / Battery Storage
+- Sensors & Instrumentation
+- Industrial Controls
+- AI / Data Center / Quantum Computing
+- Energy
+- Commercial Electronics
 
 ## Certifications
 - ISO 9001:2015
 - ISO 14001
-- ITAR registered
+- ITAR
 - IPC-A-610F
 - UL ZPVI2
 - UL-796
@@ -567,17 +579,21 @@ The company emphasizes its quality certifications—ISO 9001:2015, ITAR registra
 
 <details><summary>Sources</summary>
 
-- Location: Hillsboro, Oregon -> /
-- Over 36 years as a supplier of choice -> /
-- Electronic contract manufacturing company specializing in EMS -> /
-- Certifications: ISO 9001:2015, ITAR, IPC-A-610F, UL ZPVI2, UL-796, ISO 14001, ESD compliant -> /
-- Services: SMT, BGA/micro BGA, board de-panelization, microelectronics, press fit, conformal coating, box build, DFT, DFM, rework, PCB assembly, mechanical assembly, testing, cable/wire assembly -> /
-- Industries: aerospace/defense, medical devices, semiconductor, clean energy/EV/battery storage, sensors/instrumentation, industrial controls, AI/data center/quantum computing -> /
-- Customer examples: semiconductor manufacturer, clean energy/EV power supply manufacturer, semiconductor company, semiconductor fab infrastructure manufacturer -> /
-- Domestic reshoring partner to avoid tariffs and freight costs -> /
-- Decades of hands-on engineering, design, account management experience -> /about
-- ISO 9001:2015 certified, ITAR registered, IPC-A-610F certified, UL ZPVI2 and UL-796 certified, ISO 14001 EMS, ESD compliant -> /about
-- Serves aerospace, energy, medical device, semiconductor, manufacturing, LED, electric vehicle equipment, sensors, cables, wire assemblies, IoT, wireless sensor networks, control systems, automation -> /about
+- Hillsboro, Oregon location -> /
+- Over 36 years as supplier of choice -> /
+- ISO 9001:2015 certified -> /
+- ITAR registered -> /
+- IPC-A-610F certified -> /
+- UL ZPVI2 certified -> /
+- UL-796 certified -> /
+- ISO 14001 compliant -> /
+- ESD compliant -> /
+- Services: SMT, PCB assembly, mechanical assembly, microelectronics, conformal coating, box build, testing -> /
+- Industries: aerospace, energy, medical device, semiconductor, manufacturing -> /
+- Customer testimonials from semiconductor, clean energy, etc. -> /
+- Blog posts about AI, UAVs, NDU, CHIPS Act -> /
+- About page confirms EMS contract manufacturing in Hillsboro, Oregon -> /about
+- Additional project scopes: LED, electric vehicle equipment, sensors, cables, wire assemblies, IoT -> /about
 </details>
 
 ---
@@ -587,90 +603,88 @@ The company emphasizes its quality certifications—ISO 9001:2015, ITAR registra
 **Old description:** Our engineering team specializes in challenging medical device component design. Let’s work together to optimize your medical device for function and manufacturability.
 
 ## About
-Casco Bay Molding was founded in February 2000 by Andrew Powell in Sanford, Maine, with a vision for producing silicone and thermoplastic products domestically. The company’s earliest offerings included a scuba line of mouthpieces, regulator straps, and octopus necklaces.
+Casco Bay Molding was founded in February 2000 by Andrew Powell in Sanford, Maine, with a vision to produce silicone and thermoplastic products domestically. The privately held company began with a scuba product line that included mouthpieces, regulator straps, and octopus necklaces.
 
-Today the firm operates as a vertically integrated, FDA‑registered, ISO 13485:2016‑certified product development and injection molding facility. Its Sanford factory houses an in‑house machine shop that builds and maintains precision tooling, enabling silicone and thermoplastic injection molding, over‑molding, ultrasonic welding, assembly, and inspection. The company reports over two decades of production experience and has manufactured more than one million menstrual cups for global B2B customers, alongside high‑volume runs of medical device components such as CPAP parts, surgical handles, valves, and custom gaskets.
+The vertically integrated facility combines product development, an in-house precision machine shop, and injection molding under one roof. It specializes in high-volume silicone and thermoplastic molding, including overmolding of differing durometers, and has produced over one million menstrual cups for global B2B customers. The shop also manufactures Class I and II medical device components such as surgical handles, CPAP parts, valves, tubes, and custom gaskets, and handles FDA registration and retail packaging.
 
-Casco Bay Molding serves primarily the medical device sector (Class I and II), supplying OEMs, startups, and NGOs with products ranging from respiratory equipment and surgical instruments to menstrual health devices like the patented Flip Disc and Wandah applicator. The company also produces components for energy extraction, scuba gear, and PPE — notably the Casco Shield face shield developed during the COVID‑19 pandemic in partnership with Thermoformers of New England.
+The company serves the medical device, menstrual health, respiratory equipment, energy extraction, and personal protective equipment sectors. Customers include NGOs seeking cost-effective menstrual health products, medical device OEMs, and wholesale buyers of scuba gear. Notable projects include the Wandah™ vaginal applicator developed with nurse practitioner Hope Jensen, the patented Flip Disc menstrual disc, and the Casco Shield™ face shield created with Thermoformers of New England during the COVID-19 pandemic.
 
-The business was started to keep silicone and thermoplastic manufacturing in the United States. Its differentiation lies in combining design, tooling, production, and regulatory support under one roof, reducing mold lead times and costs through in‑house toolmaking. The team’s background at firms such as Nypro, Netstal, and Shape, plus automation partnerships with EAM and Province Automation, supports a vertically integrated development cycle that the company says turns clinical insights into market‑ready devices.
+Casco Bay Molding differentiates itself through its vertically integrated model that shortens tooling lead times via its partnership with Legu Tool & Mold, its ISO 13485:2016 certification and FDA registration for medical manufacturing, and its two-decade depth in silicone and thermoplastic processing. The firm was named Maine MEP Manufacturer of the Year in 2018.
 
 ## Known for
-- Vertically integrated design, tooling, production, and regulatory support under one roof
-- In‑house precision tooling and machine shop that cuts mold lead time and cost
-- ISO 13485:2016 certified and FDA registered for Class I and II medical devices
-- Over one million menstrual cups produced for global B2B customers
-- Patented menstrual disc designs (Flip Disc hinge and over‑molded durometer transition)
+- Vertically integrated design, tooling, and production under one roof
+- In-house precision machine shop reduces mold lead time and cost
+- ISO 13485:2016 certified and FDA registered for medical device manufacturing
+- Over 20 years of high-volume silicone and thermoplastic injection molding experience
+- Produced over one million menstrual cups for global B2B customers
 
 ## Capabilities
 - Silicone injection molding
 - Thermoplastic injection molding
-- Over-molding (multi-durometer)
-- In-house precision tooling and mold making
-- Product development and design for medical devices
-- Medical device manufacturing (Class I and II)
-- Ultrasonic welding
-- Assembly and handling
-- Inspection and quality control
-- FDA product registration support
+- Overmolding (multi-durometer)
+- In-house precision tooling / machine shop
+- Product development and design
+- Medical device component design
+- Mold making
+- FDA product registration
 - Retail packaging
-- Menstrual cup and disc manufacturing
+- Ultrasonic welding
+- Part assembly and handling
+- Inspection
+- Prototyping
+- Patent development support
+- Face shield manufacturing
+- Menstrual cup manufacturing
 - CPAP component manufacturing
-- Face shield (PPE) manufacturing
 - Scuba gear manufacturing
-- Medical-grade silicone processing
-- Biocompatibility assessment
-- Precision machining
-- Tooling design and fabrication
-- Process validation
-- Automation integration (with partners)
-- Custom gasket manufacturing
-- Medical valve and tube manufacturing
+- Energy extraction plastic parts molding
+- Antimicrobial product development (upcoming)
+- Biocompatibility testing
+- Material certification
+- Automation integration
+- Regulatory compliance consulting
 
 ## Industries
-- Medical devices (Class I and II)
+- Medical device manufacturing (Class I and II)
 - Menstrual health products
-- Respiratory equipment (CPAP)
-- Surgical instruments
+- Respiratory equipment / CPAP
 - Energy extraction
-- Scuba and diving equipment
 - Personal protective equipment (PPE)
-- Women's health
+- Scuba / diving equipment
 - Non-governmental organizations (humanitarian aid)
+- Wholesale / retail packaging
+
+## Equipment
+- In-house machine shop
+- Automation systems (EAM, Province Automation)
 
 ## Certifications
 - ISO 13485:2016
-- ISO 9001 (since 2003)
+- ISO 9001
 - FDA registered
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 2000
-- **Ownership:** Privately owned (founded by Andrew Powell)
+- **Ownership:** Privately held, founded by Andrew Powell
 - **Headquarters:** Sanford, Maine
 
 <details><summary>Sources</summary>
 
 - Founded February 2000 by Andrew Powell in Sanford, Maine -> /about-us
-- ISO 9001 certified since 2003 -> /about-us
-- ISO 13485:2016 certified January 2020 -> /about-us
-- FDA registered and passed FDA inspection September 2019 -> /about-us
-- Vertically integrated with in-house machine shop for tooling -> /
-- Specializes in high-volume silicone and thermoplastic injection molding -> /
-- Over a million menstrual cups manufactured for global B2B customers -> /
+- ISO 13485:2016 certified and FDA registered -> /
+- In-house precision machine shop and tooling partnership with Legu Tool & Mold -> /
+- High-volume silicone and thermoplastic injection molding, overmolding capability -> /
+- Manufactured over 1 million menstrual cups for global B2B customers -> /
 - Medical device components: surgical handles, CPAP parts, valves, tubes, gaskets -> /
-- Patented Flip Disc (hinge design and over-molding) -> /
-- Wandah applicator developed with nurse practitioner Hope Jensen -> /
-- Casco Shield face shield developed with Thermoformers of New England (2020) -> /
+- Wandah applicator developed with Hope Jensen -> /
+- Flip Disc patented menstrual disc with overmolded hinge -> /
+- Casco Shield face shield produced with Thermoformers of New England -> /
+- ISO 9001 certified since 2003 -> /about-us
 - Maine MEP Manufacturer of the Year 2018 -> /about-us
-- Partnership with Legu Tool & Mold for in-house tooling (2016) -> /about-us
-- Team experience from Nypro, Netstal, Shape, EAM, First Light Technologies -> /about-us
 - Automation partners EAM and Province Automation -> /about-us
-- Materials: medical-grade silicone, thermoplastics, polypropylene -> /
-- Processes: injection molding, over-molding, ultrasonic welding, assembly, inspection -> /
-- Industries: medical, menstrual health, respiratory, surgical, energy extraction, scuba, PPE -> /
-- Headquarters: Sanford, Maine -> db
-- Founded year: 2000 -> db
+- Materials: medical-grade silicone, thermoplastic, polypropylene -> /
+- Ultrasonic welding, assembly, inspection capabilities -> /about-us
 </details>
 
 ---

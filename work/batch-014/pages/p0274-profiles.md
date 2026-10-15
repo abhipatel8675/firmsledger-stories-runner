@@ -3,55 +3,57 @@
 **Old description:** As a leading manufacturer of private-brand and branded foods, we craft nut butters, granola, dried fruits, nuts and trail mix products to the highest standards of quality and taste. Serving the retail, food service and ingredient sectors, we’re known for delivering quality food products and dependable service. Our partners count on us for innovation that keeps their brands growing.
 
 ## About
-8th Avenue Food & Provisions is headquartered in Minneapolis, Minnesota. The company was founded in 2018 through the strategic combination of Post Holdings' private brands businesses, creating a dedicated platform for private-label and branded food manufacturing. In 2025, Post Holdings completed its acquisition of 8th Avenue and merged it with the Post Consumer Brands segment, further integrating its operations into a larger packaged-food portfolio.
+8th Avenue Food & Provisions is headquartered in Minneapolis, Minnesota. The company was founded in 2018 through the strategic combination of Post Holdings' private-brands businesses, creating a dedicated platform for private-label and branded food manufacturing. In 2025, Post Holdings completed its acquisition of 8th Avenue and merged it with the Post Consumer Brands segment, while the company's pasta business — formerly Dakota Growers Pasta Co. — was transferred to Richardson Food & Ingredients effective December 1, 2025.
 
-The company manufactures nut butters, granola, dried fruits, nuts, and trail mixes across seven production facilities in the United States and Canada. Its sites in Fitzgerald, GA; Troy, AL; Blaine, WA; Markham, ON; and Brampton, ON produce nut butters, while Eugene, OR handles granola, and Hazelwood, MO processes fruits and nuts. In-house roasting and seasoning lines support snack nuts, trail mixes, and baking nuts, and the granola operation includes organic and non-GMO varieties. The business describes itself as one of the largest private-label nut butter manufacturers in North America.
+The company produces nut butters, granola, dried fruits, nuts, and trail mixes across seven facilities in the United States and Canada. Plants in Fitzgerald, Georgia; Troy, Alabama; Blaine, Washington; Markham, Ontario; and Brampton, Ontario focus on nut butter. A Eugene, Oregon site makes granola, and a Hazelwood, Missouri facility handles fruits and nuts. 8th Avenue describes itself as one of the largest private-label nut butter manufacturers in North America, with in-house roasting and seasoning capabilities and decades of production experience.
 
-8th Avenue serves the retail, food service, and ingredient sectors. Its customer base includes private-label programs for major retailers and branded food companies seeking co-manufacturing partners. The company emphasizes on-trend product innovation and customization, supplying everything from conventional and organic peanut butters to tree nut butters, granolas, cereals, muesli, and granola snacks.
+Its customer base spans retail, food-service, and ingredient channels. The company supplies private-label programs for national and regional brands, providing custom formulations that include organic and non-GMO granola options as well as conventional and organic peanut and tree-nut butters.
 
-The company cites its rigorous supplier approval program, food safety focus, and supply chain efficiency as key differentiators. It was created to consolidate Post Holdings' private brands into a single powerhouse capable of faster innovation and more responsive service in the private-brand market.
+8th Avenue emphasizes a rigorous supplier-approval program, food-safety systems, and supply-chain efficiency as its operational differentiators. The business was created to give brand owners a single source for on-trend, high-quality private-label foods backed by responsive service.
 
 ## Known for
 - One of the largest private-label nut butter manufacturers in North America
-- In-house roasting and seasoning for snack nuts and trail mixes
-- Organic and non-GMO product options across granola and nut butter lines
-- Rigorous supplier approval program for food safety and quality
-- Responsive customer service and supply chain efficiency
+- In-house roasting and seasoning for nuts and trail mixes
+- Rigorous supplier-approval program for ingredient safety
+- Organic and non-GMO granola capabilities
+- Seven production sites across the U.S. and Canada
 
 ## Capabilities
-- Private-label food manufacturing
-- Branded food manufacturing
-- Nut butter production (peanut and tree nut)
-- Granola, cereal, and muesli production
-- Fruit and nut roasting and seasoning
-- Trail mix production
-- Organic food production
-- Non-GMO food production
-- Product innovation and customization
+- Nut butter manufacturing
+- Granola production
+- In-house nut roasting
+- In-house seasoning
+- Trail mix blending
+- Dried fruit processing
+- Private-label co-manufacturing
+- Custom formulation development
+- Organic certification compliance
+- Non-GMO project compliance
 
 ## Industries
 - Retail
 - Food service
 - Ingredient manufacturing
+- Private-label brands
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 2018
-- **Ownership:** Subsidiary of Post Holdings / Post Consumer Brands
+- **Ownership:** Subsidiary of Post Holdings/Post Consumer Brands
 - **Headquarters:** Minneapolis, Minnesota
 
 <details><summary>Sources</summary>
 
+- Founded in 2018 through strategic combination of Post Holdings' private brands businesses -> /
 - Headquartered in Minneapolis, Minnesota -> db
-- Founded in 2018 through combination of Post Holdings' private brands businesses -> /
-- Acquired by Post Holdings and merged with Post Consumer Brands in 2025 -> /
-- Seven production facilities across US and Canada (locations and products listed) -> /
+- Manufactures nut butters, granola, dried fruits, nuts, trail mix -> /
+- Operates 7 facilities across US and Canada -> /
 - One of largest private-label nut butter manufacturers in North America -> /
-- In-house roasting and seasoning processes for nuts and trail mixes -> /
-- Granola production including organic and non-GMO options -> /
-- Serves retail, food service, and ingredient sectors -> /
+- In-house roasting and seasoning processes -> /
+- Serves retail, food service, ingredient sectors -> /
+- Pasta business sold to Richardson Food & Ingredients effective December 1, 2025 -> /
 - Rigorous supplier approval program for food safety -> /
-- Pasta business sold to Richardson Food & Ingredients effective Dec 1, 2025 -> /
+- Organic and non-GMO granola options -> /
 </details>
 
 ---
@@ -61,36 +63,50 @@ The company cites its rigorous supplier approval program, food safety focus, and
 **Old description:** Founded in 1971, A&H Metals is an industry leader in sheet metal fabrication and metal welding solutions. If your job involves metal, we know how to do it best.
 
 ## About
-A&H Metals Inc. is a family-owned and operated custom metal shop based in Newark, Delaware. The company was founded in 1971 and has been fabricating and installing metalwork for over five decades.
+A & H Metals Inc. is a family-owned and operated custom metal shop based in Newark, Delaware. The company was founded in 1971 and has been fabricating and installing metalwork for over five decades.
 
-The shop specializes in sheet metal fabrication and welding, producing architectural railing systems with glass, perforated infill, and cable designs, as well as miscellaneous metal fabrications such as canopies, gates, stairs, and railings. It also manufactures architectural facades using aluminum composite material (ACM), high-pressure laminate (HPL), phenolic, insulated metal panels (IMP), fiber cement, and living wall systems, all built in its custom fabrication facility.
+The shop specializes in sheet metal fabrication and welding, producing architectural railing systems with glass, perforated infill, and cable designs, as well as miscellaneous metal fabrications such as canopies, gates, stairs, and railings. It also delivers architectural facade systems using aluminum composite (ACM), high-pressure laminate (HPL), phenolic, insulated metal panels (IMP), fiber cement, and living wall systems. A custom fab shop with specialized machinery handles custom metal structures and products tailored to client specifications.
 
-A&H Metals serves architects, structural fabricators, high-end builders, industrial plant managers, general contractors, and designers. Past clients include Longwood Gardens, the Whiting-Turner Contracting Company, Aronson Partners, EDiS Company, and the University of Delaware.
+A & H Metals serves architects, structural fabricators, high-end builders, industrial plant managers, general contractors, and designers. Notable projects include work for Longwood Gardens, the University of Delaware’s Caesar Rodney Dining Hall Complex, and projects with The Whiting-Turner Contracting Company and EDiS Company.
 
-The company emphasizes cost-effective and time-efficient solutions, backed by more than 50 years of experience, and notes it is consistently recognized for meeting high work and safety standards.
+The company emphasizes creative solutions that minimize cost and lead time, and it is consistently recognized in the industry for meeting high work and safety standards for its employees.
 
 ## Known for
 - Family-owned and operated since 1971
 - Custom sheet metal fabrication and welding
-- Architectural railing systems in glass, cable, and infill designs
-- Architectural facades with diverse material options (ACM, HPL, phenolic, IMP, fiber cement, living walls)
+- Architectural railing systems in glass, cable, and perforated infill
+- Architectural facade systems (ACM, HPL, phenolic, IMP, fiber cement, living walls)
 - Recognized for high work and safety standards
 
 ## Capabilities
 - Sheet metal fabrication
 - Metal welding
-- Architectural railing systems (glass, perforated infill, cable, ornamental)
-- Miscellaneous metal fabrication (canopies, gates, stairs, railings)
-- Architectural facade fabrication (ACM, HPL, phenolic, IMP, fiber cement, living wall systems)
+- Architectural railing systems
+- Glass infill installation
+- Perforated metal infill
+- Cable railing systems
+- Miscellaneous metal fabrication
+- Canopy fabrication
+- Gate fabrication
+- Stair fabrication
+- Architectural facade systems
+- Aluminum composite panel fabrication
+- High-pressure laminate panel fabrication
+- Phenolic panel fabrication
+- Insulated metal panel fabrication
+- Fiber cement panel fabrication
+- Living wall system installation
 - Custom metal fabrication
+- Metal installation
 
 ## Industries
-- Architectural metalwork
-- Commercial construction
-- Industrial fabrication
-- Structural steel fabrication
-- General contracting
-- Education and public institutions
+- Architects
+- Structural fabricators
+- High-end builders
+- Industrial plant managers
+- General contractors
+- Structural steel fabricators
+- Designers
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -100,17 +116,18 @@ The company emphasizes cost-effective and time-efficient solutions, backed by mo
 
 <details><summary>Sources</summary>
 
-- Founded in 1971 -> db
+- Founded in 1971 -> db, /
 - Family-owned and operated -> /
-- Headquarters in Newark, Delaware -> /
-- Sheet metal fabrication and welding -> /
-- Architectural railing systems (glass, infill, cable) -> /
-- Miscellaneous metal fabrication (canopies, gates, stairs, railings) -> /
-- Architectural facades (ACM, HPL, phenolic, IMP, fiber cement, living wall systems) -> /
-- Custom fabrication shop -> /
-- Serves architects, structural fabricators, high-end builders, industrial plant managers, general contractors, designers -> /
-- Clients include Longwood Gardens, Whiting-Turner Contracting Company, Aronson Partners, EDiS Company, University of Delaware -> /
-- Recognized for high work and safety standards -> /
+- Located in Newark, Delaware -> db, /
+- Sheet metal fabrication and metal welding solutions -> /
+- Architectural railing systems with glass, perforated infill, cable designs -> /
+- Miscellaneous metal fabrications: canopies, gates, stairs, railings -> /
+- Architectural facades with ACM, HPL, Phenolic, IMP, Fiber Cement, Living Wall Systems -> /
+- Custom fab shop with specialized machinery -> /
+- Serves architects, structural fabricators, high-end builders, industrial plant managers, general contractors, structural steel fabricators, designers -> /
+- Projects for Longwood Gardens, University of Delaware, Whiting-Turner Contracting Company, EDiS Company, Aronson Partners -> /
+- Committed to creative solutions minimizing cost and lead time -> /
+- Recognized for highest work and safety standards -> /
 - LinkedIn URL -> db
 </details>
 
@@ -121,19 +138,19 @@ The company emphasizes cost-effective and time-efficient solutions, backed by mo
 **Old description:** Supplying lubricants, coolants, filtration products, and service equipment to automotive, industrial, and manufacturing professionals for over a century.
 
 ## About
-A & I Distributors traces its roots to 1924, when Frank Stanaway founded the company in Butte, Montana. Today the business is headquartered in Mandan, North Dakota, and operates as a four-generation family- and employee-owned enterprise.
+A & I Distributors is headquartered in Mandan, North Dakota, and traces its roots to 1924 when Frank Stanaway founded the business in Butte, Montana. Now in its fourth generation, the company remains family- and employee-owned, operating nine warehouse locations across eight states in the Northwestern United States.
 
-The company distributes lubricants, coolants, diesel exhaust fluid, filtration products, service chemicals, and related equipment to automotive, commercial, and industrial customers. It also sells, repairs, and installs automotive and commercial lifts, lube equipment, tire equipment, and flush equipment. From nine warehouse locations across eight states, A & I covers more than 20,000 square miles of the northwestern United States.
+The firm distributes lubricants, coolants, diesel exhaust fluid, filtration products, service chemicals, and related equipment to automotive, commercial, and industrial customers. Beyond product supply, it provides sales, repair, and installation services for automotive and commercial lifts, lube equipment, tire equipment, and flush machines. Its distribution network covers more than 20,000 square miles, supported by an online customer portal for ordering and account management.
 
-Its customer base spans automotive repair shops, commercial fleets, industrial plants, and food-grade facilities. The distributor serves the automotive, commercial, industrial, and food-grade sectors, providing products that keep equipment running in applications ranging from service drives to mill operations.
+A & I serves the automotive, commercial, industrial, and food-grade sectors, supplying maintenance professionals, fleet operators, and manufacturing plants. Its product lineup includes name-brand lubricants and coolants tailored for applications ranging from service drives to heavy industrial mills.
 
-A & I emphasizes service, integrity, partnership, and quality as its guiding principles. The company highlights its long-tenured workforce and its focus on building lasting relationships with customers and suppliers as key differentiators in the regional market.
+Since its founding, the company has emphasized building lasting customer relationships through consistent product quality and knowledgeable service. Leadership attributes its longevity to a culture of superior customer service, deep industry knowledge, and innovative ideas that help clients maximize uptime and production.
 
 ## Known for
-- Four-generation family and employee-owned ownership
-- Nine warehouse locations across eight states in the Northwest
-- Coverage of over 20,000 square miles
-- In-house sales, repair, and installation of lifts, lube, tire, and flush equipment
+- Family- and employee-owned since 1924
+- Nine warehouse locations across eight Northwestern states
+- Service coverage exceeding 20,000 square miles
+- Equipment sales, repair, and installation (lifts, lube, tire, flush systems)
 - Online customer portal for ordering and account management
 
 ## Capabilities
@@ -150,7 +167,8 @@ A & I emphasizes service, integrity, partnership, and quality as its guiding pri
 - Automotive
 - Commercial
 - Industrial
-- Food grade
+- Food Grade
+- Manufacturing
 
 ## Equipment
 - Automotive lifts
@@ -168,16 +186,14 @@ A & I emphasizes service, integrity, partnership, and quality as its guiding pri
 <details><summary>Sources</summary>
 
 - Founded 1924 by Frank Stanaway in Butte, Montana -> /about
-- Headquarters in Mandan, North Dakota -> db
-- Four-generation family and employee-owned -> /about, /
+- Family- and employee-owned, four-generation -> /about
+- Headquartered in Mandan, North Dakota -> db
 - Nine warehouse locations across eight states -> /
-- Coverage over 20,000 square miles in northwestern US -> /
-- Distributes lubricants, coolants, diesel exhaust fluid, filtration products, service chemicals, related equipment -> /
-- Sells, repairs, installs automotive/commercial lifts, lube equipment, tire equipment, flush equipment -> /
-- Serves automotive, commercial, industrial, food-grade industries -> /, /about
-- Guiding principles: service, integrity, partnership, quality -> /
-- Online customer portal for ordering -> /
-- Long-tenured workforce and lasting relationships -> /about
+- Service area over 20,000 square miles in Northwestern US -> /
+- Distributes lubricants, coolants, DEF, filtration, service chemicals, equipment -> /
+- Provides sales, repair, installation of lifts, lube equipment, tire equipment, flush equipment -> /
+- Serves automotive, commercial, industrial, food-grade industries -> /
+- Online customer portal for ordering and account management -> /
 </details>
 
 ---
@@ -187,39 +203,41 @@ A & I emphasizes service, integrity, partnership, and quality as its guiding pri
 **Old description:** Aluminum equipment enclosures/racks/cabinets for utility, defense, energy sectors
 
 ## About
-A & J Manufacturing Co. is based in Foothill Ranch, California, where it designs and builds aluminum equipment enclosures, racks, and cabinets for demanding applications. The company focuses on ruggedized, modular construction qualified to MIL‑S‑901D Grade A shock and vibration standards.
+A & J Manufacturing Co. operates from Foothill Ranch, California, producing aluminum equipment enclosures, racks, and cabinets for demanding environments.
 
-Its product line spans light‑duty AJXR 100 series racks, medium‑duty AJM 150 series, heavy‑duty AJMR/AJSR 159 series, console workstations, and fully custom enclosures. The shop offers both commercial off‑the‑shelf (COTS) configurations and engineer‑to‑order designs, supported by an in‑house engineering team that assists with specification, installation kits, and custom shipping solutions.
+The company manufactures a range of equipment racks including the AJXR 100 Series light-duty racks, AJM 150 Series medium-duty racks, and AJMR/AJSR 159 Series heavy-duty racks, along with console systems and custom enclosures. All products feature ruggedized, modular aluminum construction and conform to MIL-S-901D Grade A shock and vibration qualifications. A & J also supplies a full range of installation kits and accessories, and offers engineering design support, quality assurance, and configure-to-order manufacturing.
 
-The company serves utility, defense, and energy sectors, with documented installations on submarine platforms, shipboard systems, correctional‑facility infrastructure, and mission‑critical communication networks. Reference customers include Southwest Research Institute, Moog, DRS Technologies, Cutlass Associates, and a major mission‑critical communications provider.
+A & J serves defense contractors, utility providers, energy firms, correctional facilities, and mission-critical communication operators. Customers have included Southwest Research Institute for submarine platform enclosures, Moog, DRS Technologies for shipboard racks, Cutlass Associates for prison security systems, and a mission-critical communication provider that reduced implementation time through custom shipping solutions.
 
-A & J emphasizes engineering collaboration, configure‑to‑order flexibility, and on‑time delivery; customers have noted that custom crating and proactive design support can reduce implementation schedules by weeks.
+The company emphasizes its MIL-S-901D Grade A qualification, in-house engineering support for custom configurations, and a configure-to-order model that works from standard EIA openings. Testimonials highlight on-time delivery, dimensional accuracy, and the ability to integrate custom logistics such as direct-to-next-supplier shipping crates.
 
 ## Known for
-- MIL‑S‑901D Grade A shock and vibration qualification
-- Ruggedized modular aluminum construction
-- COTS and custom design capabilities
-- In‑house engineering support and configure‑to‑order production
-- Custom shipping and crating solutions that reduce lead times
+- MIL-S-901D Grade A qualified for shock and vibration
+- Modular aluminum construction for COTS and custom designs
+- In-house engineering support for custom configurations
+- Configure-to-order flexibility with standard EIA openings
+- Proven on-time delivery for defense and critical infrastructure
 
 ## Capabilities
-- Aluminum enclosure and rack fabrication
+- Equipment rack manufacturing
+- Enclosure fabrication
+- Custom enclosure design
+- Console system manufacturing
 - Installation kit assembly
-- Custom enclosure design and engineering
-- Console system integration
-- Shock and vibration testing (MIL‑S‑901D Grade A)
-- MIL‑SPEC compliance manufacturing
-- Configure‑to‑order production
 - Engineering design support
-- Standard EIA opening compliance
+- Quality assurance
+- Configure-to-order manufacturing
+- Shock and vibration testing (MIL-S-901D)
+- Technical drawing library
 
 ## Industries
-- Utility
 - Defense
+- Utility
 - Energy
 - Correctional facilities
 - Mission critical communications
-- Military shipboard/submarine
+- Submarine platforms
+- Shipboard electronics
 
 ## Certifications
 - MIL-SPEC
@@ -231,15 +249,17 @@ A & J emphasizes engineering collaboration, configure‑to‑order flexibility, 
 
 <details><summary>Sources</summary>
 
+- Company name: A & J Manufacturing Co. -> db
 - Location: Foothill Ranch, California -> db
-- Products: aluminum equipment enclosures, racks, cabinets -> db
-- Certification: MIL-SPEC -> db
-- MIL-S-901D Grade A qualified -> pages/"/"
-- Product series: AJXR 100, AJM 150, AJMR/AJSR 159, Console Systems -> pages/"/"
-- Capabilities: COTS or custom design, ruggedized/modular aluminum construction, installation kits, engineering support, quality assurance, configure to order -> pages/"/"
-- Industries: utility, defense, energy -> db
-- Customer examples: Southwest Research Institute, Moog, DRS Technologies, Cutlass Associates, Mission Critical Communication Provider -> pages/"/"
-- Differentiators: engineering collaboration, configure-to-order, on-time delivery, custom crating -> pages/"/"
+- Description: Aluminum equipment enclosures/racks/cabinets for utility, defense, energy sectors -> db
+- Certifications: MIL-SPEC -> db
+- Product lines: AJXR 100 Series, AJM 150 Series, AJMR/AJSR 159 Series, Console Systems, Custom Enclosures, Kits & Accessories -> /
+- Standards: MIL-S-901D Grade A Qualified, Standard EIA Openings -> /
+- Services: Engineering Support, Quality Assurance, Configure To Order -> /
+- Customers: Southwest Research Institute, Moog, DRS Technologies, Cutlass Associates, Mission Critical Communication Provider -> /
+- Industries: defense, utility, energy, correctional facilities, mission critical communications, submarine platforms, shipboard -> /
+- Materials: Aluminum -> /
+- Testimonials highlighting on-time delivery, custom shipping crate reducing lead time -> /
 </details>
 
 ---
@@ -249,48 +269,39 @@ A & J emphasizes engineering collaboration, configure‑to‑order flexibility, 
 **Old description:** Our extensive electrical knowledge and mining experience have combined to bring valuable, customized products and services to our customers since 1998.
 
 ## About
-A C Power Tech Inc. was founded in 1998 by Alex Cerreti in Donora, Pennsylvania, before relocating to Belle Vernon, Pennsylvania, as the business grew. Cerreti brought 18 years of maintenance management experience from Helen Mining Company and over four decades of expertise in electrical substations and high‑voltage transmission lines, establishing the company as an industrial electrical manufacturer and mining consultant.
+A C Power Tech Inc. operates from Belle Vernon, Pennsylvania, where it relocated after initial operations in nearby Donora. The company was founded in 1998 by Alex Cerreti, who brought 18 years of maintenance management experience at Helen Mining Company and more than four decades of hands‑on expertise troubleshooting electrical substations and high‑voltage transmission lines. Cerreti remains president and still performs on‑site service and repair when needed.
 
-The company manufactures and rebuilds power distribution centers, electrical distribution boxes, high‑voltage switch gear (including vacuum switch houses), and motor starting systems such as VFD, reduced‑voltage soft starters, and across‑the‑line starters. It also designs and programs PLC systems, develops custom electronic circuits, and produces portable power supplies for remote‑area low‑voltage equipment. Additional services include turn‑key electrical substation installations and molded‑case circuit breaker testing and calibration.
+The firm manufactures and rebuilds power distribution centers, electrical distribution boxes ranging from single‑circuit cable extenders to multi‑circuit enclosures, and high‑voltage switch gear (vacuum switch houses) in single, dual, and triple output configurations for surface and underground use. It also builds variable‑frequency drives, reduced‑voltage soft starters, and across‑the‑line starters across any horsepower range, integrates them into belt load centers, and develops PLC systems to mesh with existing controls. A specialty line includes portable power supplies for low‑voltage tools and communications in remote areas, plus engineered electronic devices designed to replace legacy mining equipment.
 
-Primary customers operate in the mining sector — coal mines, stone quarries, and salt mines — as well as the food and beverage industry. The firm’s multifunction power‑center circuit tester is used by the Mine Safety and Health Administration (MSHA) and the Department of Environmental Protection (DEP), indicating a government‑agency clientele.
+Primary customers are in the mining sector — coal mines, stone quarries, and salt mines — with additional work for food and beverage processors. The company supplies both new and remanufactured power centers, belt starters, distribution boxes, portable power supplies, and high‑voltage switch gear, and provides turn‑key electrical substation installations, circuit‑breaker testing and calibration, and a multifunction power‑center circuit tester used by MSHA and the Pennsylvania DEP.
 
-A C Power Tech emphasizes direct customer support, offering rapid troubleshooting often resolved by telephone. The business was built on combining deep mining‑industry electrical knowledge with custom engineering capability, exemplified by products like the Isolated Dual Switch House, the Portable Power Supply, and a 2,500 kVA underground substation.
+Cerreti founded the business to combine deep mining‑industry electrical knowledge with customized product development, emphasizing rapid troubleshooting — often resolved by telephone — and application‑specific engineering such as isolated dual switch houses and 2,500 kVA underground substations.
 
 ## Known for
-- Customer support with telephone-based troubleshooting
-- Customized power distribution equipment for underground mining
-- Turn-key electrical substation installations
-- Molded case circuit breaker testing and calibration
-- Multifunction power center circuit tester used by MSHA and DEP
+- Rapid troubleshooting often resolved by telephone
+- Customized products and services for mining industry
+- Turn‑key electrical substation installations
+- Multifunction power‑center circuit tester used by MSHA and DEP
+- Application‑specific engineering (e.g., isolated dual switch house, 2,500 kVA underground substation)
 
 ## Capabilities
-- Power distribution center manufacturing and rebuilding
-- Electrical distribution box manufacturing
-- High-voltage switch gear building and remanufacturing
-- Motor starting system manufacturing (VFD, reduced-voltage soft starters, across-the-line starters)
-- PLC programming and development
-- Custom electronic circuit design
-- Portable power supply manufacturing
-- Turn-key electrical substation installation
-- Molded case circuit breaker testing and calibration
-- Multifunction power center circuit tester development
+- Manufacture and rebuild power distribution centers
+- Manufacture electrical distribution boxes (single‑circuit to multi‑circuit)
+- Build and remanufacture high‑voltage switch gear (vacuum switch houses)
+- Build VFD, reduced‑voltage soft starters, and across‑the‑line starters
+- Program and develop PLC systems
+- Develop customized application‑specific equipment
+- Design electronic circuits for proprietary devices
+- Provide turn‑key electrical substation installations
+- Test and calibrate molded case circuit breakers
+- Develop multifunction power‑center circuit testers
 
 ## Industries
 - Mining
-- Food and Beverage
-- Government
-
-## Equipment
-- Power Centers
-- Distribution Boxes
-- High Voltage Switch Gear (Vacuum Switch House)
-- Motor Starting Systems (VFD, Soft Starters, ATL Starters)
-- Portable Power Supply
-- Engineered Devices (electronic products)
-- Isolated Dual Switch House
-- 2500 KVA Underground Substation
-- Multifunction Power Center Circuit Tester
+- Coal mining
+- Stone quarrying
+- Salt mining
+- Food and beverage
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -299,14 +310,15 @@ A C Power Tech emphasizes direct customer support, offering rapid troubleshootin
 
 <details><summary>Sources</summary>
 
-- Founded 1998 by Alex Cerreti in Donora, PA -> /about
-- Relocated to Belle Vernon, PA due to growth -> /about
-- Manufactures power distribution centers, distribution boxes, high voltage switch gear -> /
-- Builds motor starting systems (VFD, soft starters, ATL) and PLC programming -> /
-- Serves mining (coal, stone, salt) and food/beverage industries -> /about
-- Multifunction power center circuit tester used by MSHA and DEP -> /about
-- Offers turn-key electrical substation installations and breaker testing -> /about
-- Customer support with telephone troubleshooting -> /
+- Founded 1998 -> /about
+- Founder Alex Cerreti, former Helen Mining Company maintenance manager -> /about
+- Headquarters moved from Donora, PA to Belle Vernon, PA -> /about
+- Manufactures/rebuilds power distribution centers, distribution boxes, high‑voltage switch gear -> /
+- Builds VFD, soft starters, ATL starters, integrates PLC -> /
+- Develops portable power supplies, engineered electronic devices -> /
+- Serves coal mines, stone quarries, salt mines, food/beverage -> /about
+- Provides turn‑key substation installations, breaker testing, circuit tester used by MSHA/DEP -> /about
+- Emphasizes telephone troubleshooting support -> /
 </details>
 
 ---
@@ -316,46 +328,49 @@ A C Power Tech emphasizes direct customer support, offering rapid troubleshootin
 **Old description:** Specializing in custom food manufacturing and food product design since 1987.
 
 ## About
-À La Carte Foods Properties, LLC operates from Belle Rose, Louisiana, where it was founded in 1987. The company began as a custom food manufacturer and product designer, focusing on authentic Louisiana cuisine. Ownership details and founder names are not publicly disclosed.
+À La Carte Foods Properties, LLC, operating as À La Carte Cuisine, is based in Belle Rose, Louisiana. The company was founded in 1987 as a custom food manufacturer and product designer specializing in authentic Louisiana cuisine. No founder names or ownership structure are disclosed in public materials.
 
-The company provides custom food manufacturing, private labeling, co-packing, research and development, and nutritional analysis. Its USDA- and FDA-certified facility, completed in 2001, follows HACCP and SQF guidelines and employs over 50 workers. The plant handles soups, sauces, bases, and other prepared foods, with approximately two-thirds of output produced under client labels.
+The company runs a USDA- and FDA-certified facility completed in 2001 that follows HACCP and SQF guidelines. With over 50 employees, it produces soups, sauces, bases, and a range of authentic Louisiana food products. Approximately two-thirds of output is private-label work for other brands, and the firm offers recipe development, nutritional analysis, commissary kitchen access, and R&D services that include a complimentary day in its test kitchen.
 
-Primary customers are food-service operators, including restaurants and national distributors such as Sysco and U.S. Foods, as well as regional distributors. The company also sells branded products directly to consumers through retail pickup and nationwide shipping. A long-standing client, The Cajun Turkey Co., has sourced products for over 24 years.
+À La Carte serves the food-service industry, supplying restaurants, national distributors such as Sysco and U.S. Foods, and regional food-service distributors. It also sells branded lines—À La Carte Cuisine, Southern Casual Cuisine, and Errol’s Cajun Foods—direct to consumers for pickup in Belle Rose or nationwide shipping. A long-time customer, The Cajun Turkey Co., is cited as a reference.
 
-À La Carte differentiates itself with what it describes as the industry's smallest minimum batch quantity, a specialty-driven rather than commodity-driven product line, and complimentary access to its R&D facilities for product development. The firm emphasizes consistency, cost reduction, and scratch-made quality.
+The company emphasizes real ingredients, from-scratch preparation, and the smallest minimum batch quantity in the industry as differentiators. It highlights low staff turnover, universal HACCP training, and a focus on eliminating product inconsistency, reducing labor cost, and improving operational efficiency for its clients.
 
 ## Known for
 - Smallest minimum batch quantity in the industry
 - USDA- and FDA-certified facility operating under HACCP and SQF guidelines
-- Complimentary R&D facility access for client product development
-- Over 50 long-tenured employees, all HACCP-trained
-- Specialty-driven product line focused on authentic Louisiana cuisine
+- State-of-the-art production facility completed in 2001
+- Over 50 long-tenured employees, all HACCP trained
+- Complimentary R&D test-kitchen day for product development
 
 ## Capabilities
 - Custom food manufacturing
 - Food product design
 - Private labeling
-- Co-packing
-- Research and development
+- Custom packing
+- Recipe development
+- Research & development
 - Nutritional analysis
 - Commissary kitchen services
-- Emergency/rushed order fulfillment
-- Nationwide shipping
-- Recipe formulation
-- Product development
-- Small-batch production
+- HACCP/SQF compliant production
+- Soup production
+- Sauce production
+- Base production
 - Authentic Louisiana cuisine production
+- Emergency/rush order fulfillment
 
 ## Industries
 - Food service
 - Restaurant
-- Retail food
+- Food manufacturing
+- Food distribution
+- Retail
 
 ## Certifications
+- USDA certification
+- FDA certification
 - HACCP
 - SQF
-- USDA certified
-- FDA certified
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -365,18 +380,20 @@ Primary customers are food-service operators, including restaurants and national
 
 <details><summary>Sources</summary>
 
-- Founded 1987 -> /about-us
-- Location Belle Rose, Louisiana -> /about-us
+- Founded in 1987 -> /about-us
+- Headquarters in Belle Rose, Louisiana -> /about-us
 - Over 50 employees -> /about-us
-- Facility completed 2001 -> /about-us
-- USDA/FDA certified, HACCP and SQF guidelines -> /about-us
-- Custom manufacturing and private labeling -> /about-us, /services
-- Smallest minimum batch quantity claim -> /services
-- R&D services and complimentary facility access -> /services
-- Distributors: Sysco, U.S. Food Service -> /services
-- Client testimonial: The Cajun Turkey Co. -> /
-- Products: soups, sauces, bases, authentic Louisiana foods -> /services
-- Over 50 employees with low turnover and HACCP training -> /about-us
+- State-of-the-art facility completed in 2001 -> /about-us
+- USDA/FDA certified facility with HACCP and SQF guidelines -> /about-us
+- Serves food service industry -> /about-us
+- Private labeling and custom packing services -> /services
+- Smallest minimum batch quantity in the industry -> /services
+- R&D services with complimentary facility use -> /services
+- Distribution via Sysco, U.S. Food Service, regional distributors -> /services
+- Produces soups, sauces, bases, authentic Louisiana food products -> /services
+- Branded product lines: À La Carte Cuisine, Southern Casual Cuisine, Errol's Cajun Foods -> /
+- Testimonial from The Cajun Turkey Co. -> /
+- Low turnover, all employees HACCP trained -> /about-us
 </details>
 
 ---
@@ -386,35 +403,37 @@ Primary customers are food-service operators, including restaurants and national
 **Old description:** Shop wholesale & retail electronic parts at A Gem Supply Co. Inc. in Caldwell, Idaho. 300,000+ items in stock. Call  for expert help!
 
 ## About
-A Gem Supply Co. Inc. operates from Caldwell, Idaho, where it was founded in 1961 by Alan, Gerry, Elmo, and Marvin as a small electronics shop. The business remains family-owned, with third-generation family members now working in the company.
+A Gem Supply Co. Inc. operates from Caldwell, Idaho, where it was founded in 1961 by Alan, Gerry, Elmo, and Marvin as a small electronics shop. The business remains family-owned, now employing third-generation family members who continue the original vision of personalized service and broad parts access.
 
-The company stocks over 300,000 part numbers, offering wholesale and retail electronic parts ranging from connectors, cables, and power supplies to resistors and custom security system components. It provides personalized service for both bulk orders and single-item purchases, along with nationwide shipping from its Caldwell location.
+The company functions as a wholesale and retail distributor of electronic parts and accessories, stocking over 300,000 part numbers at its Caldwell facility. Inventory spans connectors, cables, power supplies, resistors, custom security system components, tools, test equipment, lighting, power accessories, and Video Mount Products (VMP) mounts. Orders ship nationwide from the Idaho location.
 
-A Gem Supply serves the security, electronics, and communications industries. Its customer base includes electricians and contractors managing job sites, manufacturers sourcing parts in bulk, DIY enthusiasts, and educational institutions equipping labs.
+Customers include electricians and contractors managing job sites, manufacturers sourcing bulk components, DIY enthusiasts seeking specialized items, and educational institutions outfitting labs. The company serves the security, electronics, and communications industries, among others.
 
-The founders started the business to provide personalized service and access to high-quality electronic parts. Today, the company emphasizes customized package design, configuration evaluation for security systems, and a consultative approach that aims to save customers time, money, and effort compared to big-box retailers.
+A Gem Supply differentiates itself by offering customized package design and technical consultation rather than only selling off-the-shelf kits. Staff evaluate project goals, identify compatible components, and ensure systems work together, aiming to save customers time, money, and effort while maximizing performance.
 
 ## Known for
-- Over 300,000 part numbers in stock
-- Family-owned since 1961 with third-generation involvement
-- Wholesale and retail options with personalized service
-- Nationwide shipping from Caldwell, Idaho
-- Custom security system configuration and design support
+- Personalized service for every customer, from single items to bulk orders
+- Over 300,000 part numbers stocked in Caldwell, Idaho
+- Nationwide shipping from a single Idaho location
+- Custom security system design and customized package assembly
+- Third-generation family ownership with over 60 years of operation
 
 ## Capabilities
-- Wholesale electronic parts distribution
-- Retail electronic parts sales
-- Custom security system component configuration
+- Wholesale distribution
+- Retail sales
+- Custom security system design
+- Customized package assembly
 - Nationwide shipping
-- Personalized customer consultation
-- Bulk order fulfillment
-- Single-item sales
-- Technical support for component selection
+- Technical consultation
 
 ## Industries
-- Security Industry
-- Electronics Industry
-- Communications Industry
+- Security industry
+- Electronics industry
+- Communications industry
+- Electrical contracting
+- Manufacturing
+- Education
+- DIY/hobbyist
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -425,15 +444,15 @@ The founders started the business to provide personalized service and access to 
 <details><summary>Sources</summary>
 
 - Founded in 1961 by Alan, Gerry, Elmo, and Marvin -> /
-- Family-owned with third-generation family members -> /
+- Family-owned, third-generation family members -> /
+- Location: Caldwell, Idaho -> db
 - Over 300,000 part numbers in stock -> /
-- Wholesale and retail electronic parts supplier -> /
-- Nationwide shipping from Caldwell, Idaho -> /
-- Serves security, electronics, and communications industries -> /
-- Customer types: electricians, contractors, manufacturers, DIY enthusiasts, educational institutions -> /
-- Custom security system configuration and design -> /
-- Headquarters: Caldwell, Idaho -> db
-- Founded year: 1961 -> db
+- Wholesale and retail electronic parts distributor -> /
+- Industries: security, electronics, communications -> /
+- Customer types: electricians/contractors, manufacturers, DIY, educational institutions -> /
+- Nationwide shipping from Caldwell -> /
+- Customized package design and security system configuration -> /
+- Mission: save time, money, effort -> /
 </details>
 
 ---
@@ -443,51 +462,46 @@ The founders started the business to provide personalized service and access to 
 **Old description:** Single-item packaging is hardly efficient when attempting to streamline large-scale distribution, so you’ll often see multiple units contained in one box. If you deal in the transport of sensitive materials, like glass containers or fragile electronics, you’d likely prefer to avoid risking the loss of inventory while in transit.
 
 ## About
-A-Z Packaging traces its roots to 1985 in Romeo, Michigan, where it began as a packaging brokerage. The company was re-established in 2016 as a full-service packaging supplier, expanding its capabilities and distribution network nationwide.
+A-Z Packaging is headquartered in Romeo, Michigan. The company traces its roots to 1985 when it began as a packaging brokerage. In 2016 it was re-established as a full-service packaging supplier, expanding its product capabilities and distribution network.
 
-The firm operates as a custom box manufacturer and multi-material packaging distributor, producing interior and exterior packaging including die-cut corrugated containers, foam and bubble protection, honeycomb structures, partition dividers, and a range of packaging supplies such as stretch films, tapes, and strapping. It also provides contract assembly, fulfillment, warehousing with just-in-time release programs, on-site inventory management, and packaging design and engineering services. The company cites a nationwide footprint of over 100 partnered locations.
+The company operates as a custom box manufacturer, producing multi-material packaging solutions that combine substrates such as corrugated, foam, bubble wrap, and paper. It offers in-house design and engineering, die-cutting, coating application (including a proprietary Nomar coating), contract assembly, fulfillment, warehousing, and on-site inventory management. A nationwide network of over 100 partnered locations supports just-in-time delivery programs.
 
-A-Z Packaging serves customers shipping sensitive items such as glass containers and fragile electronics, as well as businesses requiring large-scale distribution solutions. Its client base spans manufacturers and distributors across the country who need custom protective packaging and supply-chain support.
+A-Z Packaging serves manufacturers and distributors shipping sensitive items, citing glass containers and fragile electronics as typical applications. Its customer base spans the United States, with the company emphasizing support for multi-location operations.
 
-The company emphasizes its ISO 9001:2015 certification, a single-source approach from ideation to production, and a culture built on customer focus, integrity, and community giving. It attributes its differentiation to honest, courteous service and a passion for innovative, cost-effective packaging designs.
+The firm differentiates itself through ISO 9001:2015 certification, a single-source model from ideation to production, and a stated commitment to honest, courteous service and community giving. The re-establishment in 2016 was driven by a goal to eliminate the need for multiple packaging vendors.
 
 ## Known for
 - ISO 9001:2015 certified quality system
-- Single-source packaging from design to delivery
-- Nationwide network of 100+ partnered locations
-- On-site inventory management and just-in-time release programs
+- In-house design-to-production capability
+- Nationwide network of 100+ partnered locations for just-in-time delivery
+- On-site inventory management for packaging supplies
 - Contract assembly and fulfillment services
 
 ## Capabilities
+- Custom packaging design
+- Packaging engineering
 - Custom box manufacturing
-- Multi-material packaging design
-- Die-cut packaging
-- Foam protection fabrication
-- Bubble protection fabrication
-- Dunnage design
-- Void fill scoring
-- Layer pad production
-- Honeycomb fabrication
-- Partition divider manufacturing
-- Stretch & shrink film application
-- Poly product fabrication
-- Tape film application
-- Kraft paper packaging
-- Label production
-- Tube & core manufacturing
-- Strapping application
-- Edge protector installation
+- Die-cutting
+- Multi-material fabrication
+- Coating application
 - Contract assembly
-- Fulfillment services
-- Warehousing & release programs
+- Fulfillment
+- Warehousing
 - Just-in-time delivery
 - On-site inventory management
-- Packaging design & engineering
-
-## Industries
-- Electronics
-- Glass
-- Distribution
+- Partition divider fabrication
+- Custom tray fabrication
+- Expendable gaylord fabrication
+- Pallet supply
+- Custom carton manufacturing
+- Multi-material kit assembly
+- Corrugated kit assembly
+- Heavy-duty container manufacturing
+- Foam fabrication
+- Bubble wrap fabrication
+- Dunnage design
+- Void filling
+- Layer pad fabrication
 
 ## Certifications
 - ISO 9001:2015
@@ -499,21 +513,18 @@ The company emphasizes its ISO 9001:2015 certification, a single-source approach
 
 <details><summary>Sources</summary>
 
-- Founded in 1985 as packaging brokerage -> /about-us
-- Re-established in 2016 as full-service packaging supplier -> /about-us
-- ISO 9001:2015 certified -> /about-us
+- Founded 1985 as packaging brokerage -> /about-us
+- Re-established 2016 as full-service packaging supplier -> /about-us
 - Headquarters in Romeo, Michigan -> db
-- Custom box manufacturer -> /
-- Multi-material packaging solutions (corrugated, foam, bubble, paper, honeycomb) -> /
-- Contract assembly services -> /
-- Warehousing and release programs with just-in-time delivery -> /
+- ISO 9001:2015 certified -> /about-us
+- Over 100 partnered locations nationwide -> /
+- Custom box manufacturer combining corrugated, foam, bubble wrap, paper -> /
+- Offers Nomar coating for abrasion protection -> /
+- Provides contract assembly, fulfillment, warehousing, on-site inventory management -> /
 - Packaging design and engineering services -> /
-- Nationwide footprint with 100+ partnered locations -> /
-- On-site inventory management -> /
-- Materials: bubble wrap, paper, foam, corrugated, Nomar coating -> /
-- Giving back pledge (percentage of sales to charities) -> /about-us
-- Values: Customer Focus, Integrity, People Commitment, One Team, Passion For Results, Operational Excellence -> /about-us
 - Serves customers shipping glass containers and fragile electronics -> /
+- Company values: customer focus, integrity, people commitment, one team, passion for results, operational excellence -> /about-us
+- Annual charitable giving program -> /about-us
 </details>
 
 ---
@@ -523,44 +534,42 @@ The company emphasizes its ISO 9001:2015 certification, a single-source approach
 **Old description:** A.B. Electrical Wires, Inc. designs and manufactures industrial control panels for a variety of functions.
 
 ## About
-A.B. Electrical Wires, Inc. has operated from Muskegon, Michigan since its founding in 1967. The business became 100 percent employee-owned in 2013, a structure that remains in place today. No individual founders are named in the company's public materials.
+A.B. Electrical Wires, Inc. was founded in 1967 in Muskegon, Michigan. The company transitioned to 100% employee ownership in 2013 and has operated as a UL508A-certified panel shop and UL/CSA-certified harness and cable shop since its early years.
 
-The company designs and manufactures industrial control panels, pushbutton stations, cable assemblies, and wire harnesses. Its panel shop is UL 508A certified, and its harness and cable assembly operations carry UL/CSA certification. Capabilities span motor control centers, relay-based and PLC panels, HMI panels, wall-mounted and cable-drop pushbutton stations, and cable assemblies using NEMA, pin-and-sleeve, military, data, ribbon, and coaxial connectors. Wire harness production ranges from simple jumpers to complex automotive-grade builds with ultrasonic welding, loom, and waterproof heat shrink. The firm handles both high and low volumes — from a single Type 1 pushbutton station to runs of 1,000 UL 508A panels — and reports shipping millions of wire harnesses globally each year.
+The company designs and manufactures industrial control panels — including motor control centers, relay-based panels, PLC and HMI panels — as well as pushbutton stations (wall-mounted and cable-drop pendants), cable assemblies (NEMA, pin-and-sleeve, military, data, ribbon, coaxial), and wire harnesses ranging from simple jumpers to complex automotive-grade builds. It handles both high and low volumes, from single-piece pushbutton stations to runs of 1,000 UL508A panels, and reports supplying millions of wire harnesses globally.
 
-Customers come from industrial automation, automotive, military and defense, and data communications sectors. The company works with OEMs and other buyers who need custom panels, harnesses, or cable assemblies built to print, and it can incorporate customer-supplied parts or leverage its own OEM contract pricing.
+Customers span industrial automation, automotive, military/defense, and data-communications sectors. The shop serves OEMs and other buyers needing custom control panels, pushbutton stations, cable assemblies, and wire harnesses built to print, with the option to use customer-supplied parts or the company's OEM contract pricing.
 
-A.B. Electrical Wires emphasizes personal service and turnkey delivery. It stocks standard multi-conductor cable for quick turnaround, offers 100 percent testing with documentation, and positions its employee-ownership model as a driver of accountability and responsiveness.
+A.B. Electrical Wires emphasizes personal service, quick turnaround on stocked multi-conductor cable, and the ability to incorporate 100% testing with documentation for quality compliance. Its employee-owned structure is cited as a foundation for responsive, accountable manufacturing.
 
 ## Known for
-- UL 508A certified panel shop
-- UL/CSA certified harness and cable assembly shop
+- UL508A-certified panel shop and UL/CSA-certified harness & cable shop
 - 100% employee-owned since 2013
-- High and low volume capability (1 to 1,000+ panels per run)
-- Quick turnaround on stocked multi-conductor cable
+- Stocked standard multi-conductor cable for quick turnaround
+- Option to use customer-supplied parts or leverage OEM contract pricing
+- 100% testing with documentation available
+- High/low volume capability (1 to 1,000 panels; millions of harnesses)
 
 ## Capabilities
 - Industrial control panel design and manufacturing
 - Motor control center assembly
-- Relay-based panel building
-- PLC panel building
-- HMI panel building
+- Relay-based panel assembly
+- PLC panel assembly
+- HMI panel assembly
 - Pushbutton station assembly (wall-mounted and cable-drop)
-- Cable assembly fabrication (NEMA, pin & sleeve, military, data, ribbon, coaxial)
-- Wire harness manufacturing (simple jumpers to automotive-grade)
-- UL 508A panel building
-- UL/CSA certified harness assembly
+- Cable assembly fabrication (NEMA, pin-and-sleeve, military, data, ribbon, coaxial)
+- Wire harness manufacturing (simple jumpers to complex automotive-grade)
+- UL508A panel shop certification
+- UL/CSA harness assembly certification
+- UL/CSA wire harness certification
 - 100% testing with documentation
-- Ultrasonic welding
-- Loom installation
-- Waterproof heat shrink installation
-- Turnkey panel assembly
-- Customer-supplied parts integration
+- Kitting and stocking of customer-specific cable
 
 ## Industries
 - Industrial automation
 - Automotive
-- Military/Defense
-- Data and Communications
+- Military/defense
+- Data and communications
 
 ## Certifications
 - UL 508A
@@ -569,23 +578,27 @@ A.B. Electrical Wires emphasizes personal service and turnkey delivery. It stock
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1967
-- **Ownership:** Employee-owned (100% since 2013)
+- **Ownership:** Employee-owned (since 2013)
 - **Headquarters:** Muskegon, Michigan
 
 <details><summary>Sources</summary>
 
-- Founded 1967 in Muskegon, Michigan -> /
-- 100% employee-owned since 2013 -> /
-- UL 508A certified panel shop -> /
+- Founded 1967 in Muskegon, MI -> db, /
+- Employee-owned since 2013 -> /
+- UL508A certified panel shop -> /
 - UL/CSA certified harness & cable shop -> /
-- Products: control panels, pushbuttons, cable assemblies, wire harnesses -> /
-- Volume: 1 to 1,000+ panels; millions of wire harnesses globally -> /
+- Designs and manufactures industrial control panels -> /
+- Motor control centers, relay-based, PLC, HMI panels -> /
+- Pushbutton stations (wall-mounted and cable-drop) -> /
+- Cable assemblies (NEMA, pin-and-sleeve, military, data, ribbon, coaxial) -> /
+- Wire harnesses (simple jumpers to automotive-grade) -> /
+- High/low volume: 1 to 1,000 panels -> /
+- Millions of wire harnesses supplied globally -> /
 - Industries: industrial automation, automotive, military, data/communications -> /
-- Capabilities: motor control centers, relay-based, PLC, HMI panels; NEMA, pin & sleeve, military, data, ribbon, coaxial cable assemblies; ultrasonic welding, loom, heat shrink -> /
-- Quick turnaround on stocked multi-conductor cable -> /
+- Customer-supplied parts or OEM contract pricing -> /
+- Stocked multi-conductor cable for quick turnaround -> /
 - 100% testing with documentation -> /
-- Customer-supplied parts integration -> /
-- Employee-owned, small company -> /
+- Small company -> /
 </details>
 
 ---
@@ -595,26 +608,30 @@ A.B. Electrical Wires emphasizes personal service and turnkey delivery. It stock
 **Old description:** Each woodworking project is designed to fit the space according to your specific vision and requests. The first step is a consultation to discuss what you specifically want in your project. Next we will present drawings and we will work together to finalize a design you love.
 
 ## About
-A.K. Woodworking LLC is a family-owned woodworking shop based in Kailua-Kona on the Big Island of Hawaii. The company operates as a family-owned and operated business, though its founding year and founders' names are not publicly disclosed.
+A.K. Woodworking LLC operates from Kailua-Kona on the Big Island of Hawaii. The family-owned shop was established to provide custom cabinetry and woodworking services to local clients, though a specific founding year is not publicly disclosed.
 
-The shop specializes in custom cabinetry and woodworking, producing custom kitchens, cabinets, bathrooms, closets, media rooms, doors, and furniture. Its process begins with a consultation to discuss the client's vision, followed by collaborative design drawings before fabrication. The team of experienced woodworkers handles all aspects of production, though facility size, headcount, and annual volume are not specified.
+The company produces custom kitchens, bathroom vanities, closets, media-room built-ins, doors, and freestanding furniture. Projects begin with a consultation to define the client’s vision, followed by detailed drawings that are refined collaboratively before fabrication begins. The workshop is staffed by experienced woodworkers who handle all phases of construction in-house.
 
-A.K. Woodworking serves residential clients across the Big Island, delivering custom woodwork for home renovation and new construction projects. The company does not list specific commercial or industrial customers.
+A.K. Woodworking serves residential and commercial customers across the Big Island, delivering tailored millwork for home remodels, new construction, and specialty spaces. The firm does not list specific industry sectors beyond general custom woodworking.
 
-The business emphasizes a personalized design approach, with consultation and drawing phases that ensure each project fits the client's specific space and vision. Its family-owned structure and experienced craftsmen are presented as key differentiators.
+The owners emphasize their family-run structure and the team’s long tenure in cabinet making as the foundation of their quality. They position the business on personalized design collaboration and attention to detail rather than volume production.
 
 ## Known for
-- Custom design consultation and collaborative drawings
-- Family-owned and operated
-- Experienced woodworking team
-- Serves the Big Island of Hawaii
+- Family-owned and operated structure
+- Custom design consultation with client collaboration
+- In-house fabrication by experienced woodworkers
+- Service across the Big Island of Hawaii
 
 ## Capabilities
 - Custom cabinetry
+- Kitchen cabinet fabrication
+- Bathroom vanity fabrication
+- Closet system fabrication
+- Media room built-ins
+- Custom door fabrication
 - Custom furniture making
-- Woodworking
 - Design consultation
-- Project design and drawings
+- Drawing preparation
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -623,12 +640,12 @@ The business emphasizes a personalized design approach, with consultation and dr
 
 <details><summary>Sources</summary>
 
-- Location: Kailua-Kona, Hawaii -> db
-- Family-owned and operated -> /
-- Custom cabinetry, kitchens, bathrooms, closets, media rooms, doors, furniture -> /
-- Design consultation and collaborative drawings -> /
-- Serves the Big Island -> /
-- Experienced woodworkers -> /
+- Location: Kailua-Kona, Hawaii -> page /
+- Family-owned and operated -> page /
+- Custom cabinetry: kitchens, bathrooms, closets, media rooms, doors, furniture -> page /
+- Process: consultation, drawings, design finalization -> page /
+- Experienced woodworking team -> page /
+- Serves the Big Island -> page /
 </details>
 
 ---

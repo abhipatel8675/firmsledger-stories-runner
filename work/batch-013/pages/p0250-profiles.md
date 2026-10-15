@@ -3,39 +3,40 @@
 **Old description:** Swirl Woodcraft is a custom cabinetry shop located in Salt Lake City, Utah. We employ designers and engineers that specialize not only in functionality and utility but also in making your kitchen or bathroom spectacular. Whether you prefer a traditional, contemporary, or rustic look, Swirl Woodcraft professionals will work with you to design, build, and install your new cabinets.
 
 ## About
-Swirl Woodcraft was founded in 1990 in Salt Lake City, Utah. The company operates as a custom cabinetry and fine woodworking studio serving residential, commercial, and hospitality clients across the Intermountain West and nationwide.
+Swirl Woodcraft operates from Salt Lake City, Utah, where it was founded in 1990. The company began as a custom cabinetry shop focused on delivering excellence in design, craftsmanship, and detail for kitchens, baths, and architectural millwork.
 
-The 40,000-square-foot production facility houses CNC routers, digital measuring tools, and CAD software that integrate with a team of designers, engineers, and skilled artisans. A 5,000-square-foot showroom displays material samples and finished examples. The company manages every phase in-house—from design and engineering through fabrication, finishing, and installation—allowing it to handle complex, large-scale luxury projects while maintaining boutique-level attention to detail.
+The shop produces custom cabinetry, fine woodworking, and architectural millwork for residential and commercial projects. Its 40,000-square-foot production facility is equipped with CNC routers, digital measuring tools, and CAD software, complementing a 5,000-square-foot showroom. The team handles design, engineering, fabrication, and installation under one roof.
 
-Swirl Woodcraft’s portfolio spans high-end private residences, luxury vacation homes, boutique hotels, commercial offices, and resort properties. Its client base includes homeowners, contractors, interior designers, and property developers. Woods such as knotty alder, rustic cherry, rustic walnut, sand-blasted pine, clear alder, walnut, white oak, maple, and cherry are offered across traditional, modern, and rustic style lines for kitchens, baths, and architectural millwork.
+Clients include homeowners, contractors, interior designers, architects, and property developers across the Intermountain West and nationally. Projects span high-end residences, luxury vacation homes, boutique hotels, resort properties, and commercial offices, with cabinetry for kitchens, baths, executive offices, and hospitality venues.
 
-The firm emphasizes a hybrid approach that blends time-honored craftsmanship with advanced production technology. Leadership cites rigorous quality assurance, a single-source workflow, and long-term relationships with repeat clients as the foundation of its reputation. The company ships nationally from its Utah base.
+The company emphasizes a hybrid approach that blends time-honored craftsmanship with advanced manufacturing technology, controlling every phase from design through installation. It cites rigorous quality assurance, long-term client relationships, and the ability to ship nationwide as key differentiators.
 
 ## Known for
-- Combines time-honored craftsmanship with CNC routers, digital measuring, and CAD software
-- Controls design, engineering, production, and installation in a single 40,000-square-foot facility
-- Offers a 5,000-square-foot showroom for material and style selection
-- Serves luxury residential, hospitality, and commercial projects with nationwide shipping
-- Maintains rigorous quality assurance on every component leaving the facility
+- Combines time-honored craftsmanship with advanced production systems
+- Controls design, engineering, production, and installation in-house
+- Rigorous quality assurance on every component
+- 40,000 sq ft facility with CNC routers and digital measuring
+- Ships high-end cabinetry nationwide
 
 ## Capabilities
-- Custom cabinetry
+- Custom cabinetry design and fabrication
 - Fine woodworking
+- Architectural millwork
 - CNC routing
 - Digital measuring
 - Computer-aided design (CAD)
-- Design and engineering
-- Fabrication and finishing
-- Installation
-- Project management
+- Project engineering
+- Installation services
 - Quality assurance
+- Custom finishes and hardware selection
 
 ## Industries
-- Residential (kitchens and bathrooms)
-- Luxury vacation homes
-- Hospitality (boutique hotels, resorts)
-- Commercial offices
-- Property development
+- Residential construction
+- Commercial construction
+- Hospitality
+- Luxury residential
+- Hotel and resort
+- Office interiors
 
 ## Equipment
 - CNC routers
@@ -49,18 +50,18 @@ The firm emphasizes a hybrid approach that blends time-honored craftsmanship wit
 
 <details><summary>Sources</summary>
 
-- Founded in 1990 -> /about-us
-- Headquarters in Salt Lake City, Utah -> db
-- 40,000-square-foot production facility -> /about-us
-- CNC routers, digital measuring tools, CAD software -> /about-us
+- Location: Salt Lake City, Utah -> db
+- Founded 1990 -> /about-us
+- 40,000-square-foot facility -> /about-us
 - 5,000-square-foot showroom -> /
-- In-house design, engineering, fabrication, finishing, installation -> /about-us
-- Wood species: knotty alder, rustic cherry, rustic walnut, sand-blasted pine, clear alder, walnut, white oak, maple, cherry -> /
-- Serves high-end residences, luxury vacation homes, boutique hotels, commercial offices, resort properties -> /about-us
-- Clients include homeowners, contractors, designers, property developers -> /about-us
-- Nationwide shipping -> /about-us
-- Rigorous quality assurance procedures -> /about-us
-- BBB Business Review mentioned -> /
+- CNC routers, digital measuring tools, CAD software -> /about-us
+- Industries served: homes, businesses, hotels, resorts, commercial spaces -> /about-us
+- Client types: homeowners, contractors, designers, property developers -> /about-us
+- Materials: knotty alder, rustic cherry, rustic walnut, sand-blasted pine, clear alder, walnut, white oak, maple, cherry -> /
+- Hybrid craftsmanship and advanced technology approach -> /about-us
+- In-house design, engineering, production, installation -> /about-us
+- Rigorous quality assurance -> /about-us
+- Nationwide shipping capability -> /about-us
 </details>
 
 ---
@@ -70,50 +71,45 @@ The firm emphasizes a hybrid approach that blends time-honored craftsmanship wit
 **Old description:** switchgear solutions from 2.4kV to 38kV for most applications
 
 ## About
-Switchgear Resources, Inc. (SRi) is an engineering and manufacturing firm based in Arlington, Texas, established in 2014. The company was founded to provide custom medium-voltage switchgear solutions with an emphasis on safety and compact design.
+Switchgear Resources, Inc. (SRi) was founded in 2014 in Arlington, Texas. The company describes itself as an engineering and manufacturing firm with over 90 years of collective experience among its team. No founder names or ownership structure are disclosed in public materials.
 
-SRi designs and builds medium-voltage metal-clad switchgear rated from 2.4 kV to 38 kV, along with relay panels, real-view mimic control panels, and accessories such as lift trucks and circuit-breaker garages. The company performs in-house fabrication of copper bus, steel frames, custom insulators, and acrylic one-line diagrams, supported by 3D mechanical modeling and automated electrical design. Its shop includes a layered acrylic deposition process, an epoxy-coated bus line, a CNC routing machine, and a 10-ton gantry crane.
+SRi designs and builds medium‑voltage metal‑clad switchgear rated from 2.4 kV to 38 kV, including draw‑out vacuum circuit breakers, draw‑out instrument transformer compartments, relay panels, mimic panels, and accessories such as lift trucks and circuit‑breaker garages. Production is handled in‑house: the shop fabricates copper bus, steel frames, custom insulators, and acrylic one‑line diagrams using a layered acrylic deposition process, an epoxy‑coated bus line, a CNC routing machine, and a 10‑ton gantry crane. Design work relies on 3D mechanical modeling and automated electrical design tools. The company does not publish facility size, headcount, or annual volume figures.
 
-The company serves customers across the oil and gas, utility, and industrial sectors, with a client list that includes Siemens, Baker Hughes, Targa Resources, Phillips 66, Dominion Energy, Chevron Phillips, and Avista Utilities, among others.
+SRi’s customer list spans North American energy and industrial sectors, with named references including Siemens, Baker Hughes, Chevron Phillips, Dominion Energy, Avista Utilities, and several midstream and petrochemical operators. These accounts indicate a focus on oil‑and‑gas, utility, and heavy‑industrial applications.
 
-SRi differentiates itself by delivering custom switchgear in half the typical industry lead time and by pioneering front-access, wall-mounted designs that eliminate rear service clearances. Its full-remote lockout/tagout capability and compact voltage-transformer drawers are intended to simplify safety and reduce installation footprint.
+The firm positions itself on two differentiators: delivering custom switchgear in roughly half the industry’s typical lead time, and pioneering full‑remote lockout/tagout capability for medium‑voltage gear. Its front‑access, wall‑mounted designs aim to eliminate rear service clearances, and its compact voltage‑transformer drawers reduce overall equipment height.
 
 ## Known for
-- Custom switchgear solutions delivered in half the industry's typical lead time
-- Front-access, wall-mounted design eliminates rear service clearances
-- Full remote lockout/tagout capability for medium-voltage switchgear
-- Most compact voltage-transformer drawers for reduced height
-- In-house fabrication of copper bus, steel frames, custom insulators, and acrylic one-line diagrams
+- Custom switchgear delivered in half the industry’s typical lead time
+- Pioneer in full‑remote lockout/tagout for medium‑voltage switchgear
+- Front‑access, wall‑mounted designs that eliminate rear service clearances
+- Most compact draw‑out voltage‑transformer compartments on the market
+- In‑house fabrication of copper bus, steel frames, insulators, and acrylic mimics
 
 ## Capabilities
-- Medium voltage metal-clad switchgear manufacturing
-- Relay panel assembly
-- Mimic panel fabrication
-- Custom insulator fabrication
+- Medium‑voltage metal‑clad switchgear manufacturing
+- Draw‑out vacuum circuit breaker integration
+- Draw‑out instrument transformer compartment manufacturing
+- Custom switchgear design (3D mechanical modeling, automated electrical design)
 - Copper bus fabrication
 - Steel frame fabrication
-- Acrylic one-line diagram production
-- 3D mechanical modeling
-- Automated electrical design
-- Epoxy coated bus process
-- Layered acrylic deposition
+- Custom insulator manufacturing
+- Acrylic one‑line diagram production (layered acrylic deposition)
+- Epoxy‑coated bus processing
 - CNC routing
-- Gantry crane operation (10T)
-- Draw-out vacuum circuit breaker integration
-- Draw-out instrument transformer compartments
-- Front-access wall-mounted switchgear design
-- Remote lockout/tagout integration
+- Relay panel assembly
+- Mimic panel laser engraving
+- Ground‑on‑command system integration
+- Switchgear accessory fabrication (lift truck, circuit breaker garage)
 
 ## Equipment
 - Layered acrylic deposition system
-- Medium voltage epoxy coated bus process line
+- In‑house medium‑voltage epoxy coated bus process
 - CNC routing machine
-- 10-ton gantry crane
+- 10‑ton gantry crane
 
 ## Certifications
 - ANSI
-- ANSI C37.20.2
-- IEEE C37.20.2
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -124,18 +120,18 @@ SRi differentiates itself by delivering custom switchgear in half the typical in
 
 - Founded 2014 -> db, /about-us
 - Headquarters Arlington, Texas -> db
-- Manufacturer of medium voltage switchgear 2.4kV-38kV -> /
-- In-house manufacturing: copper bus, steel frames, custom insulators, acrylic one-line diagrams -> /about-us
-- Advanced design: 3D mechanical modeling, automated electrical design -> /about-us
-- Equipment: layered acrylic deposition, epoxy coated bus process, CNC routing machine, 10T gantry crane -> /about-us
-- Customers: Siemens, Baker Hughes, Targa Resources, Phillips 66, Dominion Energy, Chevron Phillips, Avista Utilities, etc. -> /about-us
-- Custom solutions in half industry typical time-frame -> /about-us
-- Front-access wall-mounted design eliminates rear clearances -> /
-- Full remote lockout/tagout capability -> /
-- Compact voltage transformer drawers -> /
-- Products: medium voltage switchgear, relay panels, mimic panels, accessories -> /
-- Standards: ANSI C37.20.2, IEEE C37.20.2 -> /
-- Certification: ANSI -> db
+- Manufactures medium voltage switchgear 2.4kV-38kV -> /
+- In-house manufacturing of copper bus, steel frames, custom insulators, acrylic one-line diagrams -> /about-us
+- Equipment: CNC Routing Machine, 10T Gantry Crane, Layered acrylic deposition, Epoxy coated bus process -> /about-us
+- Customers include Siemens, Baker Hughes, Chevron Phillips, Dominion Energy, Avista Utilities, etc. -> /about-us
+- Pioneer in full remote lockout/tagout MV switchgear -> /
+- Front-access wall-mounted design eliminating rear service clearances -> /
+- Draw-out vacuum circuit breakers -> /
+- Draw-out instrument transformer compartments -> /
+- Relay panels, mimic panels, ground-on-command -> /
+- Custom switchgear solutions in half industry typical time-frame -> /about-us
+- Built to ANSI/IEEE standards -> /
+- Certifications: ANSI -> db
 </details>
 
 ---
@@ -145,52 +141,50 @@ SRi differentiates itself by delivering custom switchgear in half the typical in
 **Old description:** Switchgear Solutions, An IPS Company, (SSI) is a fully qualified electrical apparatus manufacturer, service & repair, testing, and remanufacturing company with our corporate office and manufacturing facility in Tucson, Arizona.
 
 ## About
-Founded in 1992 in Tucson, Arizona, Switchgear Solutions began as a circuit breaker rebuilding and switchgear maintenance company. It now operates a 46,000‑square‑foot manufacturing and service facility in Tucson as an IPS Company.
+Switchgear Solutions, An IPS Company, was founded in 1992 in Tucson, Arizona, where it maintains its corporate office and a 46,000-square-foot manufacturing facility. The business began as a circuit breaker rebuilding and switchgear maintenance operation and has since expanded into a full-service electrical apparatus manufacturer.
 
-The company is a fully qualified electrical apparatus manufacturer, service, repair, testing, and remanufacturing provider. Its capabilities span new engineered products, low‑ and medium‑voltage circuit breaker and switchgear remanufacturing, variable frequency drives, controls, and the proprietary Safe‑T‑Rack® remote racking system. SSI also delivers in‑shop and field services, power quality testing, and 24/7 emergency response for power distribution equipment.
+The company designs, builds, tests, and remanufactures low- and medium-voltage circuit breakers, switchgear, variable frequency drives, and control systems. Its shop services cover repair, refurbishment, and power-quality testing for all types of switchgear, while field teams provide 24/7 emergency response, on-site maintenance, and disaster recovery. Switchgear Solutions also serves as a factory-authorized distributor for Toshiba equipment and offers the proprietary Safe-T-Rack® remote breaker racking system.
 
-SSI serves utilities, industrial manufacturers, consulting engineers, and service companies that rely on power distribution and control equipment. As a factory‑authorized Toshiba distributor, it supplies new and refurbished breakers, switchgear, and vintage equipment to customers maintaining legacy systems.
+Customers span utilities, industrial plants, commercial facilities, and consulting firms that rely on power distribution and control equipment. The company’s engineered products group develops custom controls and safety solutions for specific applications, and its aftermarket program rebuilds legacy switchgear to extend asset life.
 
-The company emphasizes safety and reliability, citing a mission to provide high‑quality power system reliability products and services using best‑practice methodology. Its executive team draws from manufacturing, utility, and consulting backgrounds, and it offers round‑the‑clock sales and service support for emergency situations.
+Leadership comes from an executive team with backgrounds in manufacturing, utility, consulting, and service sectors.
 
 ## Known for
+- Factory-authorized Toshiba distributor
 - 24/7 emergency field service response
-- 46,000 sq ft manufacturing and service facility
-- Factory‑authorized Toshiba distributor
-- Safe‑T‑Rack® remote circuit breaker racking system
-- Remanufacturing of vintage and legacy switchgear
+- 46,000 sq ft facility with integrated shop and field capabilities
+- Proprietary Safe-T-Rack® remote breaker racking system
+- Custom engineered controls and safety products
 
 ## Capabilities
 - Electrical apparatus manufacturing
-- Service & repair
+- Service and repair
 - Testing
 - Remanufacturing
+- Shop services for switchgear
 - Field services
-- Shop services
-- Engineered products manufacturing
-- Power quality testing
-- Disaster/emergency services
+- Engineered products
+- Safety products (Safe-T-Rack)
 - Circuit breaker rebuilding
 - Switchgear maintenance
-- Low/medium voltage circuit breaker refurbishment
-- Switchgear refurbishment
-- Variable frequency drives supply/service
-- Controls products
-- Aftermarket switchgear supply
-- Legacy equipment rebuild/refurbishment
-- Safe‑T‑Rack® remote racking system
-- Custom controls
-- Custom engineered products
+- Power quality testing
+- Disaster and emergency services
+- Low-voltage circuit breaker sales
+- Medium-voltage circuit breaker sales
+- Switchgear sales
+- Variable frequency drive sales
+- Controls products sales
+- Aftermarket switchgear rebuild and refurbishment
 
 ## Industries
-- Power Distribution and Control Equipment
+- Power distribution
 - Utilities
-- Industrial Manufacturing
-- Consulting Engineering
-- Electrical Service Companies
+- Industrial manufacturing
+- Commercial facilities
+- Electrical apparatus
 
 ## Equipment
-- Safe‑T‑Rack® remote racking system
+- Safe-T-Rack® remote racking system
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -200,18 +194,17 @@ The company emphasizes safety and reliability, citing a mission to provide high�
 <details><summary>Sources</summary>
 
 - Founded in 1992 -> /about-us
-- Began as circuit breaker rebuilding and switchgear maintenance company -> /about-us
-- 46,000 square-foot facility -> /about-us
-- Located in Tucson, Arizona -> db
-- Fully qualified electrical apparatus manufacturer, service & repair, testing, remanufacturing -> db, /about-us
-- Offers new engineered products, low/medium voltage circuit breakers, switchgear, VFDs, controls -> /about-us
-- Aftermarket switchgear, rebuild/refurbish legacy equipment -> /about-us
-- Field services, shop services, power quality testing, disaster/emergency services -> /about-us, /
-- Safe‑T‑Rack® remote racking system -> /, /about-us
+- 46,000 sq ft facility -> /about-us
+- Headquarters in Tucson, Arizona -> /about-us and /
+- Electrical apparatus manufacturer, service, repair, testing, remanufacturing -> /
+- Shop services for all types of switchgear -> /
+- Field services with 24/7 emergency response -> /
+- Engineered products and custom controls -> /
+- Safe-T-Rack remote racking system -> /
 - Factory-authorized Toshiba distributor -> /
-- 24/7 emergency response -> /, /about-us
-- Executive team from manufacturing, utility, consulting, service companies -> /about-us
-- Mission: high quality power system reliability products and services using best practice methodology -> /about-us
+- Aftermarket switchgear rebuild and refurbishment -> /about-us
+- Mission statement: high quality power system reliability products and services -> /about-us
+- Executive team with manufacturing, utility, consulting, service experience -> /about-us
 </details>
 
 ---
@@ -221,31 +214,34 @@ The company emphasizes safety and reliability, citing a mission to provide high�
 **Old description:** Sylvester always has a friendly and helpful attitude when I call. The staff has a great deal of knowledge to help you through any of the toughest installations. They always answer the phone which you don't always find.
 
 ## About
-Sylvester Electronics operates from Cumberland, Rhode Island, where it runs an e-commerce and phone-sales operation focused on mobile audio equipment. The company’s founding year, ownership structure, and founders are not disclosed in public materials.
+Sylvester Electronics is based in Cumberland, Rhode Island. The company operates as a distributor and retailer of mobile audio equipment, serving customers through its e-commerce platform at sylves.com. While the founding year and ownership structure are not publicly disclosed, the business has established a reputation for responsive customer service.
 
-The business stocks and sells replacement speakers, Bluetooth audio receivers, motorcycle speakers, and wakeboard speakers, promoting a "Direct Factory FIT" line of replacement speakers. It emphasizes live phone support — two toll-free numbers are published — and a knowledge center with articles on product selection and installation. No manufacturing facility, production equipment, or fabrication processes are described; the operation functions as a distributor and retailer.
+The company’s product catalog focuses on direct-fit replacement speakers, Bluetooth audio receivers, and specialized speakers for motorcycles and wakeboard boats. Sylvester Electronics positions itself as a single-source supplier for mobile audio, offering a range of brands and models suited for automotive, marine, and powersports applications. The company also maintains a knowledge center with articles on product selection and installation.
 
-Customers cited in testimonials include mobile audio installation shops such as Mega Watt (MA), Mobile Audio (MA), and Extreme Audio, as well as marine and motorcycle audio specialists. The company positions its wide selection as a single-source convenience for installers and retailers who need car, marine, and powersports audio products.
+Sylvester Electronics serves professional installers, retail shops, and end-users in the mobile audio, marine audio, and powersports sectors. Customer testimonials reference businesses such as Mega Watt in Massachusetts, Mobile Audio in Massachusetts, and Extreme Audio, indicating a client base that includes installation shops and specialty retailers. The company emphasizes technical support to assist with complex installations.
 
-Sylvester Electronics says its differentiation lies in accessible, knowledgeable phone support — "no robo phone system" — and staff who walk customers through technical questions during installations. The site highlights that phones are always answered and that the team helps with the toughest installs.
+Customers frequently cite the company’s willingness to answer phones directly, provide step-by-step technical guidance, and maintain a broad inventory that simplifies ordering. These service attributes, highlighted in repeated client feedback, appear to be central to Sylvester Electronics’ value proposition.
 
 ## Known for
-- Live phone support with no automated phone tree
-- Technical guidance for installation projects
-- Broad mobile audio catalog from a single source
-- Direct Factory FIT replacement speaker line
+- Direct factory fit replacement speakers
+- Technical support for installations
+- Wide selection of mobile audio products
+- Knowledge center with installation guides
+- Live phone support without automated menus
 
 ## Capabilities
-- Technical phone support
+- Distribution of mobile audio equipment
+- Technical support for audio installations
 - Product selection assistance
-- Direct factory sourcing
 - E-commerce order fulfillment
+- Installation guidance via knowledge center
 
 ## Industries
-- Mobile audio installation
+- Mobile audio
 - Marine audio
 - Motorcycle audio
-- Car audio retail
+- Powersports audio
+- Car audio
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -253,15 +249,16 @@ Sylvester Electronics says its differentiation lies in accessible, knowledgeable
 
 <details><summary>Sources</summary>
 
+- Company name: Sylvester Electronics -> db
 - Headquarters: Cumberland, Rhode Island -> db
-- Website: sylves.com -> db
-- Phone numbers: 800-388-7344, 800-225-5568 -> /
-- Product categories: replacement speakers, Bluetooth audio receivers, motorcycle speakers, wakeboard speakers -> /
-- Direct Factory FIT replacement speakers -> /
-- Testimonials from Mega Watt, Mobile Audio, Extreme Audio -> /
-- Live phone support, no robo phone system -> /
-- Knowledge center with installation articles -> /
-- No manufacturing processes or facility described -> /
+- Website: http://www.sylves.com/ -> db
+- Product focus: direct-fit replacement speakers, Bluetooth audio receivers, motorcycle speakers, wakeboard speakers -> /
+- Service: technical support for installations -> /
+- Knowledge center with articles -> /
+- Customer testimonials from Mega Watt, Mobile Audio, Extreme Audio -> /
+- Emphasis on live phone support, no automated menu -> /
+- Wide selection of mobile audio -> /
+- Direct Factory FIT branding -> /
 </details>
 
 ---
@@ -271,40 +268,41 @@ Sylvester Electronics says its differentiation lies in accessible, knowledgeable
 **Old description:** Our Moorestown, NJ facility is equipped to handle the most demanding builds. We specialize in complex PCB assembly, custom cable and wire harness fabrication, and electromechanical integration. Every assembly is produced with attention to detail, from component sourcing to final inspection and testing, ensuring your product performs flawlessly in the field.
 
 ## About
-Syscom Tech was founded in 1998 in Moorestown, New Jersey, to fill a gap in reliable U.S.-based electronics contract manufacturing. What began as a small cable and wire harness assembly shop has grown into a turnkey operation housed in a 36,000-square-foot facility. The company is a second-generation family business and a veteran-owned small business.
+Syscom Tech was founded in 1998 in Moorestown, New Jersey, to fill a gap for reliable, U.S.-based contract manufacturing. What began as a small operation focused exclusively on cable and wire harness assemblies has grown into a full-service electronics manufacturer. The company is a second-generation family business and a veteran-owned small business.
 
-The firm specializes in high-reliability printed circuit board assembly, including ultra-miniature 01005 component placement, through-hole and mixed-technology assembly, and lead-free/RoHS-compliant processes. It also produces custom cable and wire harness assemblies and provides full electromechanical integration (box-builds) combining boards, cables, and metal enclosures. Three SMT lines run 24/5, supporting projects from new product introduction through full-scale production.
+Today Syscom Tech operates a 36,000-square-foot facility equipped with three SMT lines running 24/5. It provides turnkey printed circuit board assembly — including ultra-miniature 01005 placement, through-hole, mixed-technology, and lead-free/RoHS-compliant processes — as well as custom cable and wire harness fabrication and electromechanical box-build integration. The shop handles projects from new product introduction through full-scale production.
 
-Syscom Tech serves aerospace, defense, transportation, medical, industrial, and automotive markets, focusing on regulated industries where precision and reliability are mission-critical. Its customer base includes legacy cable-harness clients as well as new programs requiring complex multi-layer and flex-circuit boards.
+The company serves aerospace, defense, transportation, medical, industrial, and automotive customers, many in regulated sectors that require AS9100D and ISO 9001:2015 compliance. Its client base includes legacy cable-harness accounts as well as new programs requiring complex multi-layer and flex-circuit assemblies.
 
-The company emphasizes its AS9100D and ISO 9001:2015 certifications, full traceability, and a veteran-owned, mission-driven culture. A modular floor layout and three-shift staffing model allow flexible capacity for time-sensitive, complex builds, while turnkey sourcing-to-inspection services aim to reduce supply-chain friction.
+Syscom Tech emphasizes its U.S.-based manufacturing, full traceability on every component and process, and a modular floor configuration that allows flexible, concurrent project execution. The veteran-owned leadership cites a mission-driven commitment to precision, accountability, and client satisfaction as the foundation of its operation.
 
 ## Known for
-- AS9100D & ISO 9001:2015 certified
-- U.S.-based manufacturing in a 36,000 sq ft facility
+- AS9100D & ISO 9001:2015 certified quality management
+- All production in a 36,000 sq ft Moorestown, NJ facility
 - Turnkey solutions from component sourcing to final inspection
-- Full traceability for accountability and compliance
-- Veteran-owned small business with three SMT lines running 24/5
+- Full traceability on every component and process
+- Three SMT lines operating 24/5 with flexible floor configurations
 
 ## Capabilities
 - Printed Circuit Board Assembly (PCBA)
-- Surface Mount Technology (SMT) assembly
-- Through-hole assembly
-- Mixed technology assembly
-- Ultra-miniature 01005 component placement
-- Multi-layer PCB assembly
-- Flex circuit assembly
-- Lead-free / RoHS-compliant assembly
-- New Product Introduction (NPI) support
-- High-volume production
-- Cable assembly
-- Wire harness assembly
-- Discrete cable assembly
-- Electromechanical assembly (box-build)
-- Component sourcing
-- Final inspection and testing
-- Full traceability documentation
-- Value-added services
+- Surface Mount Technology (SMT) Assembly
+- Through-Hole Assembly
+- Mixed Technology Assembly
+- Lead-Free and RoHS-Compliant Assembly
+- Ultra-miniature 01005 Component Placement
+- Complex Multi-layer Board Assembly
+- Flex Circuit Assembly
+- New Product Introduction (NPI)
+- High-Volume Production
+- Cable & Wire Harness Assembly
+- Custom Cable and Wire Harness Fabrication
+- Electromechanical Assembly
+- Box Build Integration
+- Full Turnkey Manufacturing
+- Component Sourcing
+- Final Inspection and Testing
+- Full Traceability
+- Value-Added Services
 
 ## Industries
 - Aerospace
@@ -314,32 +312,37 @@ The company emphasizes its AS9100D and ISO 9001:2015 certifications, full tracea
 - Industrial
 - Automotive
 
+## Equipment
+- Three SMT lines
+
 ## Certifications
 - AS9100D
 - ISO 9001:2015
+- RoHS
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1998
-- **Ownership:** Veteran-owned, Family-owned (second-generation), Small business
+- **Ownership:** Family-owned, Veteran-owned, Small business
 - **Headquarters:** Moorestown, New Jersey
 
 <details><summary>Sources</summary>
 
 - Founded in 1998 -> /
+- Moorestown, NJ facility -> /
+- 36,000 sqft facility -> /
 - Second-generation family business -> /
 - Veteran-owned small business -> /about
-- 36,000 sq ft facility in Moorestown, NJ -> /
 - AS9100D & ISO 9001:2015 certified -> /
-- Three SMT lines operating 24/5 -> /
+- Three SMT lines 24/5 -> /
 - Turnkey solutions from sourcing to final inspection -> /
 - Full traceability -> /
 - Industries: aerospace, defense, transportation, medical, industrial -> /
-- Automotive mentioned in capabilities -> /capabilities
-- PCB assembly with 01005 placement -> /capabilities
-- Cable & wire harness assembly -> /capabilities
-- Electromechanical box-build assembly -> /capabilities
-- Modular floor layout and three-shift staffing -> /about
+- Automotive mentioned -> /capabilities
+- Ultra-miniature 01005 placement -> /capabilities
+- Cable and wire harness assembly -> /
+- Electromechanical box-build integration -> /
+- Modular floor configuration -> /about
 </details>
 
 ---
@@ -349,46 +352,51 @@ The company emphasizes its AS9100D and ISO 9001:2015 certifications, full tracea
 **Old description:** •RoHS/REACH •UL/CSA •AAMI •30 years of experience •Electrical Engineering •ISO Pending •Complete UL/CSA Lab
 
 ## About
-Systems Wire & Cable Ltd operates from Los Angeles, California, where it was founded in 1985. The company began with a stated "Commitment to Quality" as its core principle, though ownership structure and founders are not publicly disclosed.
+Systems Wire & Cable Ltd was founded in 1986 in Los Angeles, California. The company traces its inception to 1985, when it began with a commitment to quality in custom cable manufacturing. No founders are named in public records, and ownership structure has not been disclosed.
 
-The company designs, develops, and manufactures custom electronic cables and wires, including bonded wire, low-noise cable, tinsel wire, flat and ribbon cables, and medical-grade assemblies meeting AAMI standards. It maintains a complete UL/CSA laboratory on-site for testing and offers thermal bonding with adhesive-free processes. Facility size and headcount are not disclosed.
+The company designs, develops, and manufactures custom electronic cable and wire, including bonded wire, low-noise cable, medical leads and trunk cables, military-spec constructions, and Alpha and Belden equivalents. Processes cover custom cable application design, thermal bonding, adhesive-free bonding, overmolding, and full UL/CSA lab testing. A complete UL/CSA laboratory operates on site. Facility size, headcount, and annual volume are not published.
 
-Primary markets include medical equipment (patient lead wires, trunk cables, hospital equipment cable), military and defense (mil-spec cables), computer and communications, as well as industrial, entertainment, and security sectors. The firm serves OEMs and contract manufacturers requiring custom cable solutions.
+Customers span medical device OEMs (patient lead wires, hospital equipment cable), military programs (mil-spec cables), computer and communications equipment makers, and industrial OEMs. The firm also supplies overmolders and offers free consulting on cable design.
 
-Systems Wire & Cable emphasizes on-time delivery—often days before due dates—and adherence to budgets. It offers free consulting in a non-rushed environment and highlights its patriotism in producing military-specification cables.
+Systems Wire & Cable emphasizes on-spec, on-time, and on-budget delivery, often shipping days before due dates. Its "Commitment to Quality" principle, maintained since inception, underpins its reputation in medical and industrial markets. The company positions itself as a pioneer with over 40 years of experience.
 
 ## Known for
-- Product delivery days before due dates
+- On-time delivery days before due dates
 - Free consulting in a non-rushed environment
-- Complete UL/CSA laboratory on-site
-- Adhesive-free thermal bonding process
+- Complete UL/CSA lab on site
+- Adhesive-free bonding technology
 
 ## Capabilities
 - Custom cable manufacturing
 - Bonded wire manufacturing
 - Thermal bonding
 - Adhesive-free bonding
-- Custom cable application design
-- UL/CSA testing
 - Low noise cable production
-- Medical cable manufacturing (AAMI standards)
+- Medical wire and cable manufacturing
 - Military spec cable manufacturing
-- Tinsel wire production
-- Flat wire production
-- Ribbon cable production
-- Shielded cable manufacturing
-- Twisted pair cable manufacturing
+- Custom cable application design
+- UL/CSA lab testing
 - Overmolding
+- Shielded cable production
+- Twisted pair cable production
 - Control cable manufacturing
+- Ribbon cable manufacturing
+- Flat wire production
+- Tinsel wire manufacturing
+- Coaxial cable production
+- Patient lead wire manufacturing
+- Medical trunk cable manufacturing
+- Hospital equipment cable manufacturing
+- OEM manufacturing
+- Alpha cable equivalents
+- Belden cable equivalents
 
 ## Industries
 - Medical
-- Military / Defense
+- Military
 - Computer
 - Communications
 - Industrial
-- Entertainment
-- Security
 - OEM manufacturing
 
 ## Certifications
@@ -397,24 +405,23 @@ Systems Wire & Cable emphasizes on-time delivery—often days before due dates�
 - UL
 - CSA
 - AAMI
-- ISO 9001 (pending)
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
-- **Founded:** 1985
+- **Company Type:** Manufacturer
+- **Founded:** 1986
 - **Headquarters:** Los Angeles, California
 
 <details><summary>Sources</summary>
 
-- Founded in 1985 -> page '/' (QUALITY WIRE & CABLE section)
-- Headquarters Los Angeles, CA -> page '/' (address line)
-- Custom cable, bonded wire, medical cable, military spec cable manufacturing -> page '/' (multiple sections)
-- UL/CSA lab on-site -> page '/' (UL/CSA APPROVALS section)
-- RoHS/REACH, UL/CSA, AAMI, ISO Pending -> page '/' (header and description)
-- Industries: medical, military, computer, communications, industrial, entertainment, security -> page '/' (ALPHA EQUALS section and industries_served)
-- Differentiators: on-time delivery, on budget, free consulting -> page '/' (Bulk section and CUSTOM WIRE & CABLE section)
-- Adhesive-free bonding, thermal bonding -> page '/' (BONDED WIRE section)
-- LinkedIn URL -> db (linkedin_url field)
+- Founded 1986 -> db
+- Headquarters Los Angeles, CA -> db
+- Inception 1985, commitment to quality -> /
+- Custom cable manufacturer, bonded wire, low noise cable, medical, military -> /
+- Processes: custom design, thermal bonding, adhesive-free bonding, overmolding, UL/CSA lab -> /
+- Industries: medical, military, computer, communications, industrial -> /
+- Certifications: RoHS/REACH, UL/CSA, AAMI, ISO pending -> /
+- On-time, on-budget, free consulting -> /
+- LinkedIn URL -> db
 </details>
 
 ---
@@ -424,25 +431,24 @@ Systems Wire & Cable emphasizes on-time delivery—often days before due dates�
 **Old description:** Sólido is a furniture manufacturer in Phoenix, AZ, specializing in custom seating and case goods. Previously, we operated as a subcontractor for various vendors, producing custom-made hospitality furniture for 4- and 5-star hotels across the United States. Our projects range from crafting a few finely detailed custom pieces to making hundreds of items for large-scale projects. In early 2019, we decided to launch and rebrand as Sólido, functioning independently. We focus on creating high-quality custom furniture using various materials, including wood, metal, upholstery, and stone.
 
 ## About
-Sólido LLC operates from Phoenix, Arizona, where it was launched in early 2019 as an independent furniture manufacturer. The company emerged from a background as a subcontractor producing custom hospitality furniture for vendors serving four- and five-star hotels nationwide. No founders are named in available sources, and ownership structure is not specified beyond its independent status.
+Sólido LLC is a furniture manufacturer based in Phoenix, Arizona. The company launched in early 2019 as an independent operation after its founders spent years working as a subcontractor for various vendors producing hospitality furniture. The rebrand marked a shift from behind-the-scenes production to direct market engagement.
 
-The shop specializes in custom seating and case goods, working with wood, metal, upholstery, and stone. Project scale varies from one-off detailed pieces to runs of several hundred units for large-scale hotel installations. Facility size, headcount, and annual volume figures are not disclosed.
+The shop specializes in custom seating and case goods for the hospitality sector, producing pieces for four- and five-star hotels across the United States. Projects range from one-off custom items to runs of several hundred units. Work spans wood, metal, upholstery, and stone, allowing a single source for mixed-material furniture.
 
-Primary customers are in the hospitality sector, specifically luxury hotels across the United States. The firm’s prior subcontractor relationships gave it experience with major hotel brands, though specific client names are not public.
+Primary customers are luxury hotel operators, designers, and contractors outfitting high-end properties. The company has furnished guest rooms, lobbies, and public areas for nationally recognized hotel brands, though specific client names are not disclosed.
 
-The rebrand to Sólido was driven by a desire to operate independently after years of subcontracting, focusing directly on high-quality custom furniture production. The company emphasizes its ability to handle both small, intricate commissions and larger production runs.
+Sólido was started to give the team full control over quality, scheduling, and material selection after years of executing other vendors' designs. The founders say the independent model lets them respond faster to design changes and maintain tighter oversight of craftsmanship from raw material to finished piece.
 
 ## Known for
-- Independent operation since 2019 after subcontractor background
-- Custom seating and case goods for luxury hospitality
-- Project flexibility from single pieces to hundreds of units
-- Multi-material capability: wood, metal, upholstery, stone
+- Custom seating and case goods for hospitality
+- Serves 4- and 5-star hotels nationwide
+- Handles projects from single pieces to hundreds of units
+- Works with wood, metal, upholstery, and stone
+- Independent manufacturer since 2019
 
 ## Capabilities
-- Custom furniture manufacturing
-- Custom seating production
+- Custom seating manufacturing
 - Case goods manufacturing
-- Hospitality furniture production
 - Woodworking
 - Metal fabrication
 - Upholstery
@@ -451,6 +457,7 @@ The rebrand to Sólido was driven by a desire to operate independently after yea
 ## Industries
 - Hospitality
 - Hotel furniture
+- Commercial furniture
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -460,14 +467,13 @@ The rebrand to Sólido was driven by a desire to operate independently after yea
 <details><summary>Sources</summary>
 
 - Location: Phoenix, Arizona -> db
-- Launch/rebrand year: early 2019 -> db
-- Business type: furniture manufacturer -> db
-- Specialization: custom seating and case goods -> db
-- Previous role: subcontractor for hospitality vendors -> db
-- Customer base: 4- and 5-star hotels across US -> db
+- Founding: early 2019 rebrand/launch -> db
+- Previous subcontractor for hospitality furniture -> db
+- Specializes in custom seating and case goods -> db
+- Serves 4- and 5-star hotels across US -> db
 - Project scale: few pieces to hundreds of units -> db
 - Materials: wood, metal, upholstery, stone -> db
-- Independence: functioning independently since rebrand -> db
+- Independent operation for quality control -> db
 </details>
 
 ---
@@ -477,33 +483,34 @@ The rebrand to Sólido was driven by a desire to operate independently after yea
 **Old description:** We have been doing custom injection molding work since 1984. Let our experience and our customer service go to work for you!
 
 ## About
-T & M Enterprises Inc is a custom plastic injection molding company based in Shaftsbury, Vermont. Founded in 1984, the business operates as an SBA-certified HUBZone small business and runs a 30,000-square-foot facility powered entirely by solar energy.
+T & M Enterprises Inc was founded in 1984 in Shaftsbury, Vermont, and operates as an SBA-certified HUBZone small business. The company began as a custom plastic injection molding shop and has remained independently owned, though no founder names are publicly disclosed.
 
-The company specializes in moderate- to high-volume runs of small plastic parts, using Battenfeld molding centers with a maximum press size of 176 tons capable of producing parts up to 50 square inches in parting-line area or 12 ounces in weight. It also operates a dedicated plastic extrusion line for cut-to-length winding cores used in the capacitor industry. Materials processed range from soft PVC to high-temperature PEEK. The shop offers warehousing and just-in-time delivery against blanket orders.
+The company specializes in moderate- to high-volume injection molding of small plastic parts, running presses up to 176 tons capable of producing parts with a 50-square-inch parting line or weighing less than 12 ounces. It also operates a dedicated plastic extrusion line for cut-to-length winding cores used in the capacitor industry. The 30,000-square-foot facility houses Battenfeld molding centers, warehousing space, and a just-in-time delivery program that stocks parts to blanket orders.
 
-Primary markets include the electrical and medical sectors, with additional work for capacitor manufacturers. Named customers include Mace Personal Defense Inc. and Ronken Industries. The company serves clients across the United States and Mexico.
+While capable of serving any industry, T & M Enterprises focuses primarily on the electrical and medical sectors, with additional work for the capacitor market. Named customers include Mace Personal Defense Inc. and Ronken Industries, and the company ships throughout the United States and Mexico from its Southern Vermont location.
 
-T & M emphasizes that it does not mark up tool and die costs, holds ISO 9001 certification, and provides JIT service from its own warehouse. The business was built on experience and customer service since 1984.
+The company highlights its 100% solar-powered operation, ISO 9001 quality certification, and a policy of not marking up tool-and-die costs passed through from mold makers. Its HUBZone status and just-in-time warehousing are also cited as differentiators.
 
 ## Known for
-- No markup on tool and die costs
-- ISO 9001 certified
-- Just-in-time delivery from on-site warehouse
-- 100% solar powered facility
+- 100% solar-powered facility
+- ISO 9001 certified quality system
+- No markup on tool-and-die costs
+- Just-in-time delivery and warehousing
 - HUBZone certified small business
 
 ## Capabilities
 - Custom plastic injection molding
-- Plastic extrusion for winding cores
-- Warehousing and just-in-time delivery
+- Plastic extrusion (cut-to-length winding cores)
+- Warehousing
+- Just-in-time delivery
 - Quality control (ISO 9001)
 - Tool and die coordination
 
 ## Industries
 - Electrical
 - Medical
-- Capacitor manufacturing
-- Personal defense
+- Capacitor
+- Personal Defense
 
 ## Equipment
 - Battenfeld molding centers
@@ -515,28 +522,27 @@ T & M emphasizes that it does not mark up tool and die costs, holds ISO 9001 cer
 - HUBZone
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1984
-- **Ownership:** HUBZone small business, 100% solar powered
+- **Ownership:** HUBZone small business
 - **Headquarters:** Shaftsbury, Vermont
 
 <details><summary>Sources</summary>
 
 - Founded 1984 -> db
 - Headquarters Shaftsbury, Vermont -> db
-- 30,000 sq ft facility -> /
-- 176-ton press, 50 sq in parting line, 12 oz max weight -> /
-- Battenfeld molding centers -> /
-- Plastic extrusion line for cut-to-length winding cores -> /
-- Materials: soft PVC to high-temperature PEEK -> /
-- Industries: electrical, medical, capacitor -> /
-- Customers: Mace Personal Defense Inc., Ronken Industries -> /
-- ISO 9001 certification -> /
-- HUBZone certification #63972 effective June 9, 2020 -> /
-- No markup on tool and die costs -> /
-- JIT delivery and warehousing -> /
-- 100% solar powered -> /
-- Serves U.S. and Mexico -> /
+- HUBZone certified -> db
+- ISO 9001 certified -> page /
+- 30,000 sq ft facility -> page /
+- 176-ton largest press -> page /
+- Plastic extrusion line for cut-to-length winding cores -> page /
+- Just-in-time delivery and warehousing -> page /
+- 100% solar powered -> page /
+- No markup on tool and die costs -> page /
+- Predominantly electrical and medical industries -> page /
+- Customers include Mace Personal Defense Inc. and Ronken Industries -> db
+- Battenfeld molding centers -> page /
+- Serves U.S. and Mexico -> page /
 </details>
 
 ---
@@ -546,48 +552,42 @@ T & M emphasizes that it does not mark up tool and die costs, holds ISO 9001 cer
 **Old description:** T&R offers a full line of services that no other lab testing company can offer.  You won't be left wondering what to do with the test results.  We have the experience to analyze the test results and determine a plan of action that will be in your best interest.  T&R Electric follows up-to-date ASTM methods, using comprehensive quality control procedures.  Standing the test of time since 1961!
 
 ## About
-T&R Electric Supply Co., Inc. was founded in 1961 in Colman, South Dakota, a small community on the eastern plains of the state. The company began in a building on Main Street with just two employees and has since grown into what it describes as the largest supplier of remanufactured transformers in the United States. Ownership details such as family or veteran status are not publicly disclosed.
+T&R Electric Supply Co., Inc. began in 1961 on Main Street in Colman, South Dakota, with just two employees. The company was founded to serve the transformer needs of the region and has remained headquartered in the same eastern South Dakota community for over six decades.
 
-The company’s core business is the rewinding, reconditioning, and remanufacturing of transformers, covering single-phase, three-phase, and substation units, as well as dry-type, pad-mount, and pole-mount configurations. Beyond transformers, T&R provides testing and lab services that follow ASTM methods, investment recovery for surplus equipment, and refurbishment of switchgear, regulators, reclosers, and oil circuit breakers. The operation runs from its Colman facility, though current headcount and floor space are not published.
+Today the firm operates as the largest supplier of remanufactured transformers in the United States. Its core operations cover transformer rewinding, reconditioning, and full remanufacturing for single-phase, three-phase, and substation units, along with switchgear, regulators, and dry-type transformers. The facility also provides electrical testing and lab services following ASTM methods, investment recovery for surplus equipment, and a surplus purchasing program.
 
-T&R serves municipalities, rural electric associations (REAs), investor-owned utilities, and commercial and industrial customers across the country. Its inventory-focused model aims to support quick delivery for emergency and planned replacement needs.
+The customer base spans municipal utilities, rural electric associations (REAs), investor-owned utilities, and commercial and industrial facilities across the country. T&R maintains a large inventory of pole-mount, pad-mount, and station-type transformers, as well as reclosers, circuit breakers, and potential and current transformers, to support quick delivery requirements.
 
-The company emphasizes a combination of deep inventory, competitive pricing, and a personal commitment to quality and performance. Its lab services go beyond data delivery, offering analysis of test results and a recommended plan of action for each customer.
+The company emphasizes a personal commitment to quality and performance, stating that it not only tests to current ASTM standards but also analyzes results to recommend a plan of action. Its stated differentiators include deep inventory, competitive pricing, rapid turnaround, and an emergency response line available during business hours.
 
 ## Known for
-- Largest supplier of remanufactured transformers in the United States
-- Extensive inventory enabling quick delivery
-- Testing lab that analyzes results and recommends action plans
-- Investment recovery and surplus equipment purchasing
-- Follows current ASTM methods with comprehensive quality control
+- Largest U.S. supplier of remanufactured transformers
+- Testing to current ASTM methods with in-house analysis and action recommendations
+- Deep inventory enabling quick delivery on pole-mount, pad-mount, and station transformers
+- Emergency request service via toll-free line
+- Investment recovery and surplus purchasing programs
 
 ## Capabilities
 - Transformer rewinding
 - Transformer reconditioning
 - Transformer remanufacturing
 - Electrical testing (ASTM methods)
-- Lab analysis and diagnostics
+- Transformer oil analysis
 - Investment recovery
 - Surplus equipment purchasing
-- Switchgear refurbishment
-- Regulator refurbishment
-- Recloser refurbishment
-- Oil circuit breaker refurbishment
-- Oil switch refurbishment
-- Metal-enclosed switchgear refurbishment
-- Potential transformer service
-- Current transformer service
-- Dry-type transformer service
-- Pad-mount transformer service
-- Pole-mount transformer service
-- Substation transformer service
+- Switchgear repair and service
+- Voltage regulator repair
+- Recloser repair
+- Circuit breaker repair
+- Current transformer repair
+- Potential transformer repair
 
 ## Industries
-- Municipalities
-- Rural electric associations (REAs)
+- Electric utilities (municipal)
+- Rural electric cooperatives (REAs)
 - Investor-owned utilities
-- Commercial customers
-- Industrial customers
+- Commercial facilities
+- Industrial facilities
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -596,16 +596,18 @@ The company emphasizes a combination of deep inventory, competitive pricing, and
 
 <details><summary>Sources</summary>
 
-- Founded 1961 -> db
-- Headquarters Colman, SD -> db
-- Largest supplier of remanufactured transformers in US -> /
-- Started with two employees on Main Street -> /
+- Founded 1961 -> /
+- Started on Main Street in Colman, SD with two employees -> /
+- Largest supplier of remanufactured transformers in the United States -> /
+- Headquartered in Colman, South Dakota -> /
 - Services: rewinding, reconditioning, remanufacturing transformers -> /
-- Testing lab services with ASTM methods and quality control -> db
+- Testing and lab services following ASTM methods -> /
 - Investment recovery and surplus purchasing -> /
-- Industries served: municipalities, REAs, investor-owned utilities, commercial and industrial -> /
-- Emphasis on inventory, quick delivery, competitive pricing, personal commitment to quality -> /
-- Lab services include analysis and plan of action -> db
+- Customers: municipalities, REAs, investor-owned utilities, commercial and industrial -> /
+- Inventory includes pole-mount, pad-mount, station transformers, reclosers, breakers, CTs, PTs -> /
+- Emergency request line 1-800-843-7994 -> /
+- Address: 308 SW 3rd St, Colman, SD 57017 -> /
+- LinkedIn URL -> db
 </details>
 
 ---
@@ -615,37 +617,38 @@ The company emphasizes a combination of deep inventory, competitive pricing, and
 **Old description:** T.O. Plastics specializes in custom plastic roll stock extrusion, supplying utility‑grade to prime high impact polystyrene (HIPS) for thermoforming and packaging applications. Our roll stock is available in many gauges, colors, and volumes, with flexible ordering from LTL to full truckload. For applications requiring static control, ESD‑protective HIPS is available through our TOPSTAT™ roll stock solutions.
 
 ## About
-T.O. Plastics, Inc. operates from Clearwater, Minnesota, where it was founded in 1948. The company began as a provider of custom thermoforming solutions and has remained privately held, though no individual founders are named in public records.
+T.O. Plastics, Inc. has operated from Clearwater, Minnesota since its founding in 1948. The company began as a thermoforming specialist and has grown into a vertically integrated manufacturer of custom plastic roll stock and thermoformed components.
 
-The company specializes in custom plastic roll stock extrusion, producing utility‑grade to prime high‑impact polystyrene (HIPS) in a range of gauges, colors, and volumes. Its in‑house capabilities span coextrusion, thin‑ and heavy‑gauge thermoforming, design and engineering with full solid modeling, CNC milling, rapid prototyping, and toolmaking. Secondary operations include 5‑axis CNC routing, multiple trim methods, coordinate‑measuring‑machine inspection, assembly, bonding, kitting, labeling, and lid‑stock sealing. Facility size and headcount are not disclosed.
+The company produces custom extruded roll stock in high‑impact polystyrene (HIPS), including ESD‑protective grades under the TOPSTAT™ brand, and runs both thin‑ and heavy‑gauge thermoforming lines. In‑house capabilities span coextrusion, solid‑modeling design, CNC milling, 3D‑printed rapid prototypes, CAM‑driven toolmaking, and a range of trim methods from steel‑rule dies to 5‑axis CNC routing. Secondary operations such as kitting, labeling, barcoding, inventory management, and lid‑stock sealing are also performed on site.
 
-T.O. Plastics serves medical, pharmaceutical, and life‑science customers with Class 8 cleanroom‑certified packaging such as sterile barrier components, shipping trays, and work‑in‑process trays. It also supplies industrial manufacturers, electronics firms needing static‑dissipative and conductive trays, consumer‑goods brands for blister and clamshell packaging, agricultural and recreational OEMs for enclosure components, and horticulture growers with plant trays and pots.
+Customers span medical device and pharmaceutical packaging (Class 8 cleanroom‑certified), horticulture (plant trays and pots), industrial components, electronics packaging using static‑dissipative and conductive materials, consumer blister and clamshell packaging, agricultural enclosures, and recreational vehicle parts for RVs, ATVs, UTVs, and snowmobiles.
 
-The company states its mission is to delight customers through innovative thermoformed solutions, emphasizing vertical integration, diversified capabilities, and a partnership model built on collaboration and shared problem‑solving. Its stated values — safety, great people, results, integrity, tenacity — and vision to be a best‑in‑class manufacturer underpin its operational approach.
+T.O. Plastics emphasizes a partnership model that treats customers as collaborators, backed by vertically integrated extrusion and tooling, over 100 years of combined engineering experience, and a focus on operational excellence, safety, and continuous improvement.
 
 ## Known for
-- Vertically integrated extrusion, thermoforming, and tooling under one roof
+- Vertically integrated extrusion and thermoforming under one roof
+- In‑house design, engineering, and tooling with 100+ years combined experience
+- Coextrusion lines for multi‑material roll stock
+- 5‑axis CNC routing for precise trimming of complex parts
 - Class 8 cleanrooms for medical and pharmaceutical packaging
-- 5‑axis CNC routing for complex trim requirements
-- Coextrusion lines enabling multi‑material roll stock
-- Partnership program focused on joint problem‑solving
 
 ## Capabilities
 - Plastic Roll Stock Extrusion
-- Heavy Gauge Thermoforming
-- Thin Gauge Thermoforming
 - Coextrusion
+- Thin Gauge Thermoforming
+- Heavy Gauge Thermoforming
 - Design, Engineering, and Tooling Services
+- Solid Modeling
 - CNC Milling
 - CAM Aided Tool Manufacture
 - Rapid Prototyping
 - 3D Printing
 - In-line Trim
 - Off-line Trim
-- Steel Rule Die
-- Matched Metal Die
+- Steel Rule Die Trimming
+- Matched Metal Die Trimming
 - 5-Axis CNC Routing
-- Coordinate Measuring Machine Inspection
+- Coordinate Measuring Machine (CMM) Inspection
 - Kitting
 - Labeling and Barcoding
 - Inventory Management
@@ -655,41 +658,38 @@ The company states its mission is to delight customers through innovative thermo
 - High-Speed Self-Feed Trimming
 
 ## Industries
-- Medical, Pharmaceutical & Life Sciences
+- Medical
+- Pharmaceutical
+- Life Sciences
 - Industrial
 - Electronic
 - Consumer Packaging
 - Agriculture
 - Recreational
 - Horticulture
-- Roll stock markets
 
 ## Equipment
-- 5-Axis CNC router
-- Coordinate measuring machines
-- Coextrusion lines
-- In-line and cut sheet thermoforming equipment
+- 5-Axis CNC Router
+- Coordinate Measuring Machines
+- Coextrusion Lines
+- OEM Thermoforming Equipment
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1948
-- **Ownership:** Private
 - **Headquarters:** Clearwater, Minnesota
 
 <details><summary>Sources</summary>
 
 - Founded 1948 -> /about
 - Headquarters Clearwater, Minnesota -> db
-- Custom plastic roll stock extrusion (HIPS) -> /
-- Coextrusion capabilities -> /capabilities
-- Heavy gauge thermoforming -> /capabilities
-- Design, engineering, tooling in-house -> /capabilities
-- 5-Axis CNC router for trimming -> /capabilities
-- Coordinate measuring machines -> /capabilities
-- Class 8 cleanrooms for medical -> /
-- Industries: medical, industrial, electronic, consumer packaging, agriculture, recreational, horticulture -> /
-- Secondary operations: kitting, labeling, inventory management, lid stock sealing -> /capabilities
-- Mission and values -> /about
+- Extrusion and thermoforming capabilities -> /capabilities
+- Industries served (medical, horticulture, industrial, electronic, consumer, agriculture, recreational) -> / and /capabilities
+- Equipment: 5-axis CNC router, CMM, coextrusion lines -> /capabilities
+- Materials: HIPS, TOPSTAT™, static dissipative, conductive -> / and /capabilities
+- Class 8 cleanrooms for medical packaging -> /
+- Value-add services: kitting, labeling, barcoding, inventory management, lid stock sealing -> /capabilities
+- Partnership approach and engineering experience -> /capabilities and /about
 </details>
 
 ---

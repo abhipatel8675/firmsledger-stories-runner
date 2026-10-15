@@ -3,54 +3,55 @@
 **Old description:** SVTronics offers fully integrated solutions to customers who require more than just a PCB assembly. Our MAG team specializes in delivering fully integrated solutions with highly diversified requirements.
 
 ## About
-SVTronics, Inc. operates from its headquarters in Plano, Texas. The company holds Minority Business Enterprise, HUBZone, and Small Business Enterprise certifications, reflecting its ownership structure. While a founding year is not publicly disclosed, the firm has built an advanced electronics manufacturing facility focused on restoring domestic production capacity.
+SVTronics, Inc. operates from its headquarters in Plano, Texas. The company holds Minority Business Certification, a HUBZone certificate, and a Small Business Enterprise certificate, reflecting its minority-owned, small-business status. Leadership includes Zenon “Bud” Maciekowicz, who directs the Military Aerospace and Government business unit.
 
-The company provides end-to-end electronics manufacturing services, ranging from prototype to high-volume production. Its capabilities include surface-mount and through-hole PCB assembly, with a dedicated high-speed SMT line and a separate prototype SMT line, automated screen printing with vision inspection, 01005 component placement, wave and selective soldering, conformal coating, mechanical assembly, and wiring and cable harness fabrication. Engineering support covers mechanical and electrical design, new product introduction, system integration, and testing. Order fulfillment and aftermarket services round out the offering.
+The firm provides end-to-end electronics manufacturing, ranging from prototype to high-volume production. Its facility runs a fully automated high-speed SMT line alongside a dedicated prototype SMT line, with placement capability down to 01005 components. Processes include screen printing with automated vision, wave and selective soldering for through-hole parts, conformal coating, mechanical assembly, cable and wire harness fabrication, and system integration and testing. Engineering services cover mechanical and electrical design, new product introduction, and DFM/DFA analysis.
 
-SVTronics serves military, aerospace, and government customers through its Military Aerospace and Government (MAG) business unit, led by Director Zenon “Bud” Maciekowicz. The company’s quality certifications — including ISO 9001:2015, AS9100D, and ISO 13485 — also position it for medical device and other regulated sectors.
+SVTronics serves the military, aerospace, and government sectors through its MAG business unit, and its ISO 13485 certification indicates capability for medical device work. Customers include defense primes and government agencies requiring ITAR-compliant production.
 
-The company emphasizes a “Bring Manufacturing Back to America” mission, highlighting its U.S.-based facility and an online QuickPrice tool that delivers instant quotes with automated DFM/DFA checks and BOM sourcing. ITAR registration further enables work on defense-related programs.
+The company emphasizes domestic manufacturing, promoting an online quoting tool that accepts Gerber and ODB++ files, automatically sources bill-of-materials parts, and delivers instant DFM/DFA reports. It positions itself as a partner for restoring U.S. electronics production from its Texas facility.
 
 ## Known for
-- Instant online quoting with automated DFM/DFA analysis and BOM sourcing
-- ITAR-registered facility for defense programs
-- Minority-owned, HUBZone and Small Business Enterprise certified
-- Dedicated high-speed SMT lines for both prototype and volume production
-- End-to-end services from engineering through aftermarket support
+- Instant online quoting with Gerber/ODB++ upload, automatic BOM sourcing, and DFM/DFA checks
+- Dual SMT lines: high-speed production and dedicated prototype line with 01005 placement capability
+- ITAR registration and certifications to ISO 9001:2015, AS9100D, and ISO 13485
+- Minority-owned, HUBZone, and small business certified
+- Full-box build: PCB assembly, cable/harness, mechanical assembly, and system test under one roof
 
 ## Capabilities
-- PCB Assembly (SMT and Through-Hole)
-- Prototype PCB Assembly
-- High-Volume PCB Assembly
+- PCB Assembly (Surface Mount)
+- Through-Hole Assembly
+- Prototype Assembly
+- High Volume Production
+- 01005 Component Placement
+- Automated Optical Inspection
+- Conformal Coating
+- Wave Soldering
+- Selective Soldering
+- Screen Printing with Automated Vision
+- Mechanical Assembly
+- Cable and Wire Harness Assembly
+- System Integration and Testing
 - New Product Introduction (NPI)
 - Mechanical Engineering Services
 - Electrical Engineering Services
-- System Integration and Testing
-- Cable and Wire Harness Assembly
-- Mechanical Assembly
-- Conformal Coating
-- Automated Screen Printing with Vision Inspection
-- 01005 Component Placement
-- Wave Soldering
-- Selective Soldering
-- Order Fulfillment and Logistics
-- Aftermarket Support Services
+- Design for Manufacturing (DFM) Analysis
+- Design for Assembly (DFA) Analysis
 - Automated BOM Sourcing
-- Online Quoting with DFM/DFA Analysis
-- 3D Product Rendering
-- Gerber and ODB++ File Support
+- Online Quoting and Ordering
+- Order Fulfillment and Aftermarket Services
+- ITAR Compliant Manufacturing
 
 ## Industries
-- Military
-- Aerospace
-- Government
+- Military Aerospace & Government
 
 ## Equipment
 - High-speed SMT production line
-- Prototype SMT production line
+- Prototype SMT line
 - Automated vision screen printers
-- Wave soldering equipment
-- Selective soldering equipment
+- Wave soldering machine
+- Selective soldering machine
+- Conformal coating equipment
 
 ## Certifications
 - ISO 9001:2015
@@ -66,27 +67,25 @@ The company emphasizes a “Bring Manufacturing Back to America” mission, high
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
-- **Ownership:** Minority-owned, HUBZone certified, Small Business Enterprise
+- **Ownership:** Minority-owned, Small business, HUBZone
 - **Headquarters:** Plano, Texas
 
 <details><summary>Sources</summary>
 
-- Company name SVTronics, Inc -> db
-- Headquarters Plano, Texas -> db
-- Certifications ISO9001, ISO13485, ITAR -> db
-- Capabilities list including mechanical/electrical engineering, order fulfillment, 01005 placement, screen printers with vision, conformal coating -> db
-- Products list including PCB assembly, cable assemblies, prototype and high-volume production, SMT lines, wave/selective soldering -> db
-- Industries served: Military Aerospace & Govt - MAG -> db
+- Headquarters in Plano, Texas -> db
+- Minority Business Certification, HUB Certificate, SBE Certificate -> pages:/
+- Zenon “Bud” Maciekowicz directs Military Aerospace and Government business -> pages:/
+- End-to-end electronics manufacturing from prototype to high volume -> pages:/
+- Fully automated high-speed SMT line and separate prototype SMT line -> pages:/
+- Placement capability for 01005 components -> pages:/
+- Screen printers with automated vision, wave and selective soldering -> pages:/
+- Conformal coating, mechanical assembly, cable/wire harness, system integration -> pages:/
+- Engineering services: mechanical, electrical, NPI, DFM/DFA -> pages:/
+- Online quoting with Gerber/ODB++, automatic BOM sourcing, instant DFM/DFA -> pages:/
+- ITAR Registered, ISO 9001:2015, AS9100D, ISO 13485 -> pages:/
+- IPC 610, IPC 620, SMTA certifications -> pages:/
+- Serves Military Aerospace & Government (MAG) -> pages:/
 - LinkedIn URL -> db
-- Homepage: address 3465 Technology Dr Plano, TX 75074, phone, email -> /
-- Homepage: certifications ISO 9001:2015, AS9100D, ISO 13485, ITAR Registered, HUB Certificate, SBE Certificate, IPC 610, IPC 620, SMTA, Minority Business Certification -> /
-- Homepage: services - New Product Introduction, Electronic Manufacturing, System Integration and Testing, Mechanical and Electrical Engineering, Wiring and Cable Assemblies, Order Fulfillment and Aftermarket Services -> /
-- Homepage: online QuickPrice tool with instant quoting, automatic BOM sourcing, DFM/DFA check, Gerber/ODB++ support, 3D rendering -> /
-- Homepage: 'Bringing Manufacturing Back to America' mission, advanced facility in Plano, Texas -> /
-- Homepage: fully automated high speed SMT production line, separate SMT line for prototype production -> /
-- Homepage: screen printers with automated vision capability, wave and selective soldering, placement capability for 01005 package components -> /
-- Homepage: 'We provide all types of manufacturing services for electronics products from prototype thru production' -> /
-- Homepage: Military Aerospace & Govt - MAG business unit, Director Zenon “Bud” Maciekowicz -> /
 </details>
 
 ---

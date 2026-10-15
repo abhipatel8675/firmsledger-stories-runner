@@ -3,29 +3,34 @@
 **Old description:** Piston Group wasn’t just founded to make things. It was founded with a vision to make things better. And that begins with building better teams solely dedicated to achieving excellence at every level of execution through a combination of experience, expertise, and a deep seeded passion for what we do. Our companies consistently set the standard because our people consistently raise the bar.
 
 ## About
-Piston Automotive operates in Louisville, Kentucky, as a brand of Piston Group, a private investment platform founded in 1996 by former NBA player Vinnie Johnson. The group began with a $1 million investment and has grown into a minority-owned enterprise encompassing Piston Automotive, Piston Interiors, and Detroit Thermal Systems. Johnson serves as chairman and CEO, while Jana Rosenmann leads Piston Automotive as president.
+Piston Automotive operates from Louisville, Kentucky, as part of Piston Group, a private investment platform founded in 1996 by former NBA champion Vinnie Johnson. The group began with a $1 million investment and has grown into a minority-owned manufacturing enterprise spanning 21 facilities and employing more than 10,000 people across its portfolio companies.
 
-Piston Automotive specializes in value-add assembly, producing automotive modules and assemblies for original equipment manufacturers. Its capabilities span interior systems design and engineering, climate control component manufacturing, and full-module assembly sequencing.
+The group's three brands focus on automotive manufacturing: Piston Automotive serves as a value-add assembly supplier, producing modules and assemblies for major OEMs; Piston Interiors provides design, engineering, and manufacturing of automotive interior systems; and Detroit Thermal Systems develops and manufactures climate control systems and components. Together they cover assembly, interior technology, and thermal management, with group revenue reaching $3.1 billion in 2024.
 
-The company serves the automotive industry, supplying major OEMs including Ford, General Motors, Toyota, Honda, and Stellantis. It has earned recognitions such as Ford Q1 certification, GM Supplier of the Year, and Toyota Quality Performance Awards, reflecting its integration into Tier 1 supply chains.
+Primary customers are global automotive manufacturers, including Ford, General Motors, Toyota, Honda, and Stellantis. The company holds Ford Q1 certification and has earned supplier awards from each of those OEMs, such as GM's Supplier of the Year, Toyota's Quality Performance Award, and Stellantis' Minority Business Enterprise of the Year.
 
-Piston Group positions itself as the world's largest value-add assembly supplier, emphasizing innovation-driven manufacturing and a culture of "energized thinking" to solve technical challenges from battery technology to electric vehicle interiors. Its minority-owned status and supplier diversity program further distinguish it in the automotive supply base.
+Piston Group states it was founded not simply to manufacture but to "make things better" by building teams dedicated to excellence. Its purpose centers on creating value through innovation, diversity, and supplier development, with a formal program to recruit diverse businesses including minority-, woman-, and veteran-owned firms.
 
 ## Known for
-- World's largest value-add assembly supplier
-- 21 manufacturing facilities across North America
-- Over 10,000 engineering and manufacturing employees
-- Minority-owned business with extensive supplier diversity program
+- World's largest value-add assembly supplier (Piston Automotive)
+- More than 10,000 engineering and manufacturing specialists across 21 facilities
+- Minority-owned with formal supplier diversity program
 - Certified to ISO 9001, ISO 14001, IATF 16949, and Ford Q1
+- Design-through-manufacturing capability for assemblies, interiors, and thermal systems
 
 ## Capabilities
 - Value-add assembly
 - Automotive module assembly
 - Automotive interior design and engineering
 - Climate control system manufacturing
+- Design through manufacturing
+- Supplier diversity development
 
 ## Industries
 - Automotive
+- Automotive modules and assemblies
+- Automotive interiors
+- Automotive thermal systems
 
 ## Certifications
 - ISO 9001
@@ -34,24 +39,32 @@ Piston Group positions itself as the world's largest value-add assembly supplier
 - Ford Q1
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Founded:** 1996
 - **Employees:** 10,000+
-- **Ownership:** Minority-owned
+- **Ownership:** Minority-owned, Private investment platform
 - **Headquarters:** Louisville, Kentucky
 
 <details><summary>Sources</summary>
 
-- Founded in 1996 by Vinnie Johnson -> /about
+- Headquarters Louisville, Kentucky -> db
+- Founded 1996 by Vinnie Johnson -> /about
 - Minority-owned business -> /about
-- Piston Automotive is world's largest Value Add Assembly supplier -> /
-- 21 manufacturing facilities -> /about
-- Over 10,000 employees -> /about
-- Certifications: ISO 9001, ISO 14001, IATF 16949, Ford Q1 -> /about, /
-- Serves automotive OEMs: Ford, GM, Toyota, Honda, Stellantis -> /about
-- Headquarters in Louisville, Kentucky -> db
-- Jana Rosenmann is President of Piston Automotive -> /about
-- Capabilities: value-add assembly, automotive interior design/engineering, climate control manufacturing -> /, /about
+- Private investment platform -> /about
+- 21 facilities -> /about
+- 10,000+ employees -> /about
+- Revenue $3.1B 2024 -> /about
+- Three brands: Piston Automotive, Piston Interiors, Detroit Thermal Systems -> /, /about
+- Piston Automotive: value-add assembly supplier -> /
+- Piston Interiors: automotive interior design/engineering/manufacturing -> /
+- Detroit Thermal Systems: climate control systems/components -> /
+- Customers: Ford, GM, Toyota, Honda, Stellantis -> /about
+- Ford Q1 certification -> /, /about
+- OEM awards (GM Supplier of Year, Toyota Quality Performance, Stellantis MBE of Year) -> /about
+- Certifications: ISO 9001, ISO 14001, IATF 16949 -> /, /about, db
+- Supplier diversity program for minority/woman/veteran-owned businesses -> /about
+- Founder Vinnie Johnson NBA champion -> /, /about
+- Purpose: make things better, create value -> /, /about
 </details>
 
 ---
@@ -61,34 +74,33 @@ Piston Group positions itself as the world's largest value-add assembly supplier
 **Old description:** View our catalog pages to see our vast selection of wire and cable.
 
 ## About
-Pittsburgh Wire & Cable operates from Coraopolis, Pennsylvania, where it was founded in 1992. The company functions as a distributor of electrical wire and cable, sourcing products from a range of vendors for industrial customers. No founder names or ownership structure are disclosed in public materials.
+Pittsburgh Wire & Cable was founded in 1992 in Coraopolis, Pennsylvania. The company operates as a distributor of electrical wire and cable, serving a range of industrial sectors. No ownership structure or founders are disclosed in public sources.
 
-The firm maintains a catalog of wire and cable products serving sectors including industrial, mining, rail and transit, and video inspection. Its offerings extend to military-specification parts and automotive conductors meeting SAE recommendations, reflecting a breadth of inventory across multiple technical categories. The company does not publish facility size, headcount, or annual volume figures.
+The firm maintains a broad catalog of wire and cable products sourced from multiple vendors, which it lists on its website. Its offerings include conductors for automotive applications meeting SAE recommendations, military-specification part numbers, and cables for industrial, mining, rail/transit, and video inspection applications. The company does not manufacture but focuses on distribution and product sourcing.
 
-Customers span heavy industry, transportation, and defense-adjacent markets, with the company highlighting its ability to supply military part numbers and automotive SAE recommended conductors. The UL Listed certification underscores a baseline of product safety compliance across the catalog.
+Customers span industrial, mining, rail and transit, video inspection, automotive, and military markets. The distributor supplies OEMs, contractors, and maintenance operations that require standardized and specialized wire and cable products. The company highlights its vendor relationships as a key part of its supply chain.
 
-The business emphasizes its vast selection and multi-vendor sourcing model as a practical advantage for buyers seeking consolidated procurement of specialized wire and cable.
+The company states that its vast selection and vendor network allow it to meet diverse application requirements, though specific differentiators such as lead times or minimum orders are not published.
 
 ## Known for
 - Vast selection of wire and cable products
-- Multi-vendor sourcing model
-- UL Listed certification
-- Military part number availability (Z14)
-- Automotive SAE recommended conductors (Z3)
+- Products sourced from multiple vendor partners
 
 ## Capabilities
-- Electrical wire and cable distribution
-- Military part number sourcing
-- Automotive SAE conductor sourcing
-- Multi-vendor product sourcing
+- Electrical wire distribution
+- Cable distribution
+- Product sourcing
+- Catalog management
+- Automotive SAE conductor supply
+- Military specification part supply
 
 ## Industries
 - Industrial
 - Mining
 - Rail/Transit
 - Video Inspection
-- Military
 - Automotive
+- Military
 
 ## Certifications
 - UL Listed
@@ -100,15 +112,15 @@ The business emphasizes its vast selection and multi-vendor sourcing model as a 
 
 <details><summary>Sources</summary>
 
-- Founded 1992 -> db
-- Headquarters Coraopolis, Pennsylvania -> db
+- Founded in 1992 -> db
+- Headquartered in Coraopolis, Pennsylvania -> db
 - UL Listed certification -> db
-- Industries: Industrial, Mining, Rail/Transit, Video Inspection -> /
-- Military part numbers (Z14) -> /
-- Automotive SAE recommended conductors (Z3) -> /
-- Distributor business model -> /
-- Vast selection of wire and cable -> /
-- Multi-vendor sourcing -> /
+- Describes itself as Electrical Wire & Cable Distribution -> page '/'
+- Serves industrial, mining, rail/transit, video inspection markets -> page '/'
+- Offers automotive SAE recommended conductors -> page '/'
+- Offers military part numbers -> page '/'
+- Maintains a catalog of wire and cable products -> page '/'
+- Lists vendors it supplies products from -> page '/'
 </details>
 
 ---
@@ -118,20 +130,20 @@ The business emphasizes its vast selection and multi-vendor sourcing model as a 
 **Old description:** We are scaling rapidly to better serve our customers. In less than a decade, we’ve gone from 30 to over 900 employees, and since 2016 we’ve added nine companies to our international portfolio. Our
 
 ## About
-Pivot International is headquartered in Lenexa, Kansas, within the Kansas City metropolitan area. The company traces its current expansion to 2016, when it began scaling from 30 employees to over 900 and acquired nine companies to build an international portfolio. Chief Executive Mark Dohnalek leads the organization, which operates offices across North America, Europe, and Asia.
+Pivot International is headquartered in Lenexa, Kansas, within the Kansas City metropolitan area. Founded in 2016, the company has scaled from 30 to over 900 employees in less than a decade and added nine companies to its international portfolio since its founding. It operates globally with offices across North America, Europe, and Asia, including UK offices supporting the European market, a Taipei office handling Asian business development and worldwide supply chain and quality operations, and Manila locations managing manufacturing operations.
 
-The firm provides collaborative product design, development, engineering, and manufacturing services. Its multidisciplinary teams handle industrial design, mechanical engineering, electrical engineering, embedded software development, optical design, prototyping, design for manufacturing (DFM), regulatory support, and global supply chain management. Pivot reports more than 100 engineers, over 300,000 square feet of scalable manufacturing space, FDA‑registered facilities, and production sites in the United States, Mexico, Europe, China, and the Philippines.
+The firm provides end-to-end product development, design, engineering, and manufacturing services. Its multidisciplinary teams of over 100 engineers deliver industrial design, mechanical engineering, electrical engineering, optical design, embedded software development, and project management. Pivot maintains more than 300,000 square feet of scalable, FDA-registered manufacturing space across company-owned facilities in the United States, Mexico, Europe, China, and the Philippines, supported by global supply chain teams. Capabilities span prototyping, design for manufacturing, regulatory support, production transfer, assembly, testing, and full lifecycle support from early concept through high-volume production.
 
-Pivot serves clients in medical devices, industrial products, agriculture, sports and entertainment, IoT, embedded electronics, motor control, biometrics and security, touch‑screen technology, optical systems, and the emerging drone (UAV) sector. Its customer base ranges from startups to established manufacturers and global organizations seeking end‑to‑end product lifecycle support.
+Pivot serves startups, established manufacturers, and global organizations in highly regulated and technically complex markets. Its customer base spans medical devices, industrial equipment, agriculture, construction, security, sports and entertainment, and emerging sectors such as drones and IoT. The company notes its technology has been incorporated into everyday touch-screen interfaces, biometric security products, wearable devices, wireless components, and motor control systems.
 
-The company positions itself as a single‑source partner that integrates engineering, manufacturing, and supply chain under one organization to reduce communication gaps and delays. It emphasizes company‑owned global operations, experience in highly regulated industries, flexible engagement models, and a legacy of more than 50 years in product development and manufacturing.
+Pivot emphasizes a "Personalized Service. Global Reach." model, positioning itself as a single-source partner that integrates engineering, manufacturing, and supply chain decisions from the earliest stages. The company highlights its flexible engagement models, more than 50 years of collective product development experience, and company-owned global operations as key differentiators for reducing risk, shortening timelines, and ensuring manufacturability.
 
 ## Known for
 - Single-source partner for design, development, engineering, and manufacturing
-- Company-owned global manufacturing and supply chain operations
-- Integrated multidisciplinary engineering teams under one organization
-- FDA-registered facilities with ISO 9001:2015 and ISO 13485:2016 certification
-- Flexible engagement models across the entire product lifecycle
+- Company-owned global manufacturing facilities in US, Mexico, Europe, China, Philippines
+- 300,000+ sq ft of scalable, FDA-registered manufacturing space
+- 100+ multi-disciplined engineers on staff
+- ISO 9001:2015 and ISO 13485:2016 certified
 
 ## Capabilities
 - Engineering Consultation
@@ -142,43 +154,44 @@ The company positions itself as a single‑source partner that integrates engine
 - Mechanical Engineering
 - Optical Design
 - Software Development
-- Embedded Software Development
-- Firmware Development
+- Project Management
 - Prototyping
+- Product Validation
 - Design for Manufacturing (DFM)
 - Regulatory Support
 - Global Sourcing
-- Supply Chain Management
-- Manufacturing Assembly
-- Production Testing
+- Production Transfer
+- Assembly
+- Testing
 - Production Scaling
-- Product Lifecycle Support
+- Redesign
+- Cost Reduction
+- Component Obsolescence Management
+- Lifecycle Support
 - Product Strategy & Discovery
-- System Architecture
-- Project Management
-- Quality Management
-- Manufacturing Transfer
+- Global Supply Chain Management
 
 ## Industries
-- Medical Devices
-- Industrial Products
+- Medical
+- Industrial
 - Agriculture
 - Sports & Entertainment
-- Internet of Things (IoT)
+- Security
+- Drones/UAV
+- IoT
 - Embedded Electronics
+- Optics
 - Motor Control
-- Biometrics & Security
-- Touch Screen Technology
-- Optical Systems
-- Drones (UAV)
+- Construction
+- Biometric Security
 - Wearable Technology
-- Edge AI
-- Wireless & Electronic Components
+- Touchscreen Technology
+- Wireless Components
+- Building Operations
 
 ## Certifications
 - ISO 9001:2015
 - ISO 13485:2016
-- FDA-Registered Facilities
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -188,17 +201,23 @@ The company positions itself as a single‑source partner that integrates engine
 
 <details><summary>Sources</summary>
 
-- Headquarters in Lenexa, Kansas -> /about
-- Founded 2016, scaled from 30 to 900+ employees, added nine companies -> /about
+- Headquartered in Lenexa, Kansas -> /about
+- Founded in 2016 -> db
+- Grown from 30 to over 900 employees in less than a decade -> /about
+- Added nine companies to international portfolio since 2016 -> /about
+- Offices in UK, Taipei, Manila -> /about
+- 300,000+ sq ft scalable manufacturing space -> /
+- FDA-registered facilities -> /
+- ISO 9001:2015 and ISO 13485:2016 certified -> /
+- 100+ multi-disciplined engineers -> /
+- Services: engineering consultation, product design, mechanical design, industrial design, electrical engineering, mechanical engineering, optical design, software development, project management -> /
+- Industries served: medical, industrial, agriculture, sports & entertainment, security, drones/UAV, IoT, embedded electronics, optics, motor control, construction -> /
 - CEO Mark Dohnalek -> /
-- 100+ multi-disciplined engineers, 300,000+ sq ft manufacturing space, FDA-registered facilities, global production sites -> /
-- Services: engineering consultation, product design, mechanical design, industrial design, electrical engineering, mechanical engineering, optical design, software development -> /
-- Industries: medical, industrial, agriculture, sports & entertainment, IoT, embedded electronics, motor control, biometrics/security, touch screen, optical -> /
-- Certifications: ISO 9001:2015, ISO 13485:2016 -> /
-- Single-source partner for design, development, engineering, manufacturing -> /
-- Company-owned global operations, flexible engagement models, 50+ years experience -> /services
-- Employee count 900 -> db
-- Founded year 2016 -> db
+- Touch screen technology involvement -> /
+- Single-source partner for design, development, engineering, manufacturing -> /about
+- Flexible engagement models -> /services
+- Integrated development process across engineering, manufacturing, supply chain -> /services
+- More than 50 years collective product development experience -> /services
 </details>
 
 ---
@@ -208,34 +227,36 @@ The company positions itself as a single‑source partner that integrates engine
 **Old description:** Great beer isn’t just something you drink — it’s something you share. We’re obsessed with quality and driven by experimentation, chasing flavors worth talking about, and creating a place you’ll want to come back to.
 
 ## About
-Pivotal Brewing Company operates from a historic mill building in Bristol, Rhode Island. The brewery and taproom opened with a focus on quality and experimentation, though the exact founding year and ownership structure are not publicly disclosed.
+Pivotal Brewing Company operates a craft brewery and taproom in Bristol, Rhode Island, housed in a historic mill building The company's founding year and ownership structure are not publicly disclosed, nor are its founders named in available sources.
 
-The company brews a diverse lineup of craft beers ranging from crisp modern lagers and hop-forward hazy IPAs to seasonal releases and small-batch experiments. Production takes place on-site, feeding a taproom that runs Wednesday through Sunday and a 4,000-square-foot event space with 35- to 45-foot ceilings and large windows. The venue accommodates semi-private gatherings of 20 to 120 guests and full buyouts for up to 450 people.
+The brewery produces a rotating lineup of craft beers that spans modern lagers, hazy IPAs, seasonal releases, and small-batch experimental brews. Production takes place on-site, with the taproom occupying more than 4,000 square feet of flexible space beneath 35- to 45-foot ceilings. Beyond brewing, the facility functions as an event venue offering semi-private areas for 20 to 120 guests and full buyouts for up to 450 people, complemented by weekly trivia nights and regular live-music performances.
 
-The taproom serves walk-in customers seeking craft beer, live music, trivia nights, and family-friendly events such as storytime sessions. The event side hosts weddings, corporate functions, birthday parties, and welcome receptions. The company also distributes its beer through the taproom and likely through local accounts, though specific distribution channels are not detailed.
+The business serves craft-beer enthusiasts, private-event clients — including corporate gatherings, weddings, and birthday parties — and the broader Bristol community. The taproom is dog-friendly and operates Wednesday through Sunday with afternoon and evening hours.
 
-Founders describe the mission as being "obsessed with quality and driven by experimentation, chasing flavors worth talking about, and creating a place you'll want to come back to." The historic mill setting and dog-friendly policy are highlighted as part of the experience.
+Pivotal emphasizes quality-driven experimentation and a diverse portfolio as its core differentiators, describing its approach as “brewed with intent, served with purpose.” The historic mill setting, high-ceilinged industrial interior, and programming of live entertainment are positioned as key reasons customers return.
 
 ## Known for
 - One of the most diverse craft beer lineups in Rhode Island
-- Historic mill taproom with 4,000+ sq ft flexible event space
-- 35–45 ft ceilings and huge windows in event venue
-- Dog-friendly inside and out
-- Small-batch experimental brews alongside flagship favorites
+- Historic mill taproom with 4,000+ sq ft and 35-45 ft ceilings
+- Event space accommodating 20-450 guests
+- Dog-friendly taproom
+- Weekly trivia and live music programming
 
 ## Capabilities
-- craft brewing
-- taproom operations
-- event venue rental
-- live music hosting
-- private event catering
-- community programming
+- Craft beer production
+- Small-batch experimental brewing
+- Flagship beer production
+- Seasonal beer production
+- Taproom service
+- Event venue rental
+- Live music hosting
+- Trivia night hosting
 
 ## Industries
-- craft brewing
-- hospitality
-- event services
-- food and beverage
+- Craft beer
+- Hospitality
+- Event services
+- Food and beverage
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -243,19 +264,17 @@ Founders describe the mission as being "obsessed with quality and driven by expe
 
 <details><summary>Sources</summary>
 
-- Location: 500 Wood St Building 111, Bristol, RI -> /
+- Location: Bristol, RI -> db
+- Address: 500 Wood St Building 111, Bristol, RI -> /
 - Craft brewery & taproom description -> /
-- Beer lineup: lagers, hazy IPAs, seasonal, small-batch -> /
-- Taproom hours Wed-Sun -> /
-- Event space: 4,000+ sq ft, 35-45 ft ceilings, huge windows -> /
+- Beer lineup: lagers, hazy IPAs, seasonal, small-batch experiments -> /
+- Taproom size: 4,000+ sq ft, 35-45' ceilings -> /
 - Event capacity: semi-private 20-120, full buyout up to 450 -> /
-- Event types: weddings, corporate, birthdays, welcome drinks -> /
-- Live music, trivia, storytime events listed -> /
-- 5 years celebration November 2020 -> /
-- Dog friendly inside and out (review) -> /
-- Mission statement: obsessed with quality, driven by experimentation -> /
+- Hours: Wed-Thu 4-9pm, Fri 1-10pm, Sat 12-10pm, Sun 12-7pm -> /
 - Phone: (401)-638-1100 -> /
-- Website: pivotalbrewing.com -> db
+- Dog-friendly taproom -> / (review)
+- 5-year anniversary event Nov 25 -> /
+- Weekly trivia and live music schedule -> /
 </details>
 
 ---
@@ -265,33 +284,30 @@ Founders describe the mission as being "obsessed with quality and driven by expe
 **Old description:** Planet Plastics is a leading manufacturer of lighting components for the commercial, architectural, hospitality, OEM and custom lighting industries. We manufacture plastic light diffusers and replacement lenses for fluorescent, LED and HID lighting fixtures.
 
 ## About
-Planet Plastics Co has operated from Chino, California for over 50 years. The company describes itself as a global plastic molding company, though no founding year or founder names are disclosed, and ownership structure is not specified.
+Planet Plastics Co operates from a 43,000-square-foot facility in Chino, California. The company has been in operation for over 50 years, though a specific founding year is not publicly disclosed. Ownership details and founder names are not stated in available sources.
 
-The company manufactures plastic lighting components — diffusers and replacement lenses for fluorescent, LED, and HID fixtures — as well as point-of-purchase retail displays, motion-picture and theme-park props, food-case displays, museum displays, spheres, hemispheres, and other custom fabricated products. Its 43,000-square-foot facility houses a complete plastics fabrication operation: 3-axis and 5-axis CNC routing and cutting, vacuum forming, drape forming, free-form blow molding, thermoforming, laser cutting and etching, die cutting, printing, acrylic fabrication, drilling, sanding, sand blasting, gluing and bonding, flame polishing, buff polishing, line bending, and custom packaging fulfillment. The company says it ships any quantity from one piece to millions.
+The company manufactures plastic lighting components—including diffusers and replacement lenses for fluorescent, LED, and HID fixtures—as well as point-of-purchase retail displays, motion picture and theme park props, food case displays, museum displays, spheres, hemispheres, and other custom fabricated products. Its processes encompass 3- and 5-axis CNC routing, CNC cutting, vacuum forming, drape forming, free-form blow molding, thermoforming, cylinder forming, laser cutting and etching, die cutting, printing, acrylic fabrication, drilling, sanding, sand blasting, gluing and bonding, flame polishing, buff polishing, line bending, and custom packaging fulfillment. The facility houses computerized panel saws, CNC routers, large-capacity ovens and presses, and thermoforming equipment. The company states it can ship quantities ranging from a single piece to millions.
 
-Customers span commercial, architectural, hospitality, OEM, and custom lighting markets; specialty retailers, restaurants, and brand merchandisers for POP displays; motion-picture and theme-park production; food-service equipment; and museum exhibits. The staff works with designers and engineers to develop parts from concept through production.
+Planet Plastics serves commercial, architectural, hospitality, OEM, and custom lighting markets, as well as specialty retailers, restaurants, and brand merchandisers for POP displays. It has produced components for entertainment projects such as Animal Planet’s “Tanked” visit, Iron Man arc reactor rings, and Jurassic World gyrospheres. The customer base also includes food service and museum sectors.
 
-Planet Plastics emphasizes customer service, customization, and a satisfaction pledge: every order is treated as the most important, with no minimum quantity, custom kitting, and a commitment to resolve any quality issue. The company cites its uniquely large oven capacity and press forming capability as enabling projects that might otherwise seem impossible.
+The company emphasizes service, customization, and a satisfaction pledge: every order is treated as the most important, rush orders are accommodated, and any quantity from one to millions can be shipped with custom packaging or kitting. Its large press forming capability and uniquely large oven capacity are cited as enabling projects that might otherwise seem impossible.
 
 ## Known for
 - Ships any quantity from one to millions
 - Custom packaging and kitting available
-- 43,000 SF facility with large oven and press forming capacity
-- 3-axis and 5-axis CNC routing with SolidWorks and MasterCam programming
-- Free-form blow molding and thermoforming capabilities
+- Rush order capability
+- 43,000 sq ft facility with large press forming and oven capacity
+- 5-axis CNC routing and free-form blow molding
 
 ## Capabilities
-- Custom Fabrication
-- CNC Routing (3-axis)
-- CNC Routing (5-axis)
-- CNC Cutting
-- Vacuum Forming
-- Drape Forming
-- Free Form Blow Molding
 - Thermoforming
+- Drape Forming
+- Vacuum Forming
 - Custom Shaping
 - Cylinder Forming
-- Blow Forming
+- Blow Forming (Free Form Blow Molding)
+- CNC Routing (3- and 5-axis)
+- Precision CNC Cutting
 - Laser Cutting & Etching
 - Die Cutting
 - Printing
@@ -304,7 +320,6 @@ Planet Plastics emphasizes customer service, customization, and a satisfaction p
 - Buff Polishing
 - Line Bending
 - Custom Packaging Fulfillment
-- Large Press Forming
 
 ## Industries
 - Commercial lighting
@@ -323,15 +338,16 @@ Planet Plastics emphasizes customer service, customization, and a satisfaction p
 
 ## Equipment
 - Computerized panel saws
-- CNC routers (3-axis)
-- CNC routers (5-axis)
+- CNC routers
 - Large capacity ovens
 - Presses
 - Thermoforming equipment
+- 3- and 5-axis CNC routing machines
 - Laser cutting/etching machines
 - Die cutting equipment
 - Printing equipment
 - Sand blasting equipment
+- Flame polishing equipment
 - Buff polishing equipment
 - Line bending equipment
 
@@ -341,19 +357,26 @@ Planet Plastics emphasizes customer service, customization, and a satisfaction p
 
 <details><summary>Sources</summary>
 
-- Headquarters: Chino, California -> db
-- Over 50 years in business -> /about-us
+- Headquarters in Chino, California -> db
 - 43,000 SF facility -> /about-us
+- Over 50 years in business -> /about-us
+- Manufactures plastic light diffusers and replacement lenses -> /
+- Processes: CNC routing, vacuum forming, drape forming, free-form blow molding, thermoforming, cylinder forming, laser cutting, die cutting, printing, acrylic fabrication, drilling, sanding, sand blasting, gluing/bonding, flame polishing, buff polishing, line bending, custom packaging fulfillment -> /about-us
 - Materials: acrylic, polycarbonate, PETG, expanded PVC, ABS, styrene -> /about-us
-- Processes: CNC routing, vacuum forming, drape forming, free form blow molding, thermoforming, laser cutting, die cutting, printing, acrylic fabrication, drilling, sanding, sand blasting, gluing, flame polishing, buff polishing, line bending, custom packaging fulfillment -> /about-us
-- Industries: lighting (commercial, architectural, hospitality, OEM, custom), POP retail displays, motion picture/theme park props, food case displays, museum displays -> / and /about-us
-- Tolerance +/- .005 on cutting -> db
+- Industries: commercial, architectural, hospitality, OEM, custom lighting -> /
+- POP retail displays for specialty retailers, restaurants, brand merchandisers -> /
+- Motion picture and theme park props -> /about-us
+- Food case displays, museum displays -> /about-us
 - Ships quantities from one to millions -> /
 - Custom packaging and kitting -> /
-- Large oven capacity and press forming capability -> /about-us
-- 3-axis and 5-axis CNC routing with SolidWorks and MasterCam -> /about-us
-- No minimum order quantity -> /
+- Rush order capability -> /
+- Tolerance +/- .005 on cutting and intricate parts -> db
+- Equipment: computerized panel saws, CNC routers, large capacity ovens & presses -> /
+- Large press forming capability and uniquely large oven capacity -> /about-us
+- Projects: Animal Planet's Tanked Visit, Iron Man Arc Reactor Rings, Jurassic World Gyrospheres -> /
 - Satisfaction pledge -> /
+- Service: specially-trained sales representatives -> /
+- Customization: help with design, special packaging -> /
 </details>
 
 ---
@@ -363,34 +386,32 @@ Planet Plastics emphasizes customer service, customization, and a satisfaction p
 **Old description:** Plastech Inc. is a Custom Plastic Injection Molding company that works with a broad range of diverse customers in various industries throughout the United States. We focus on quality injection molding, tool and die, prototypes, assembly, and secondary manufacturing operations.
 
 ## About
-Plastech Inc. operates from Corvallis, Oregon, where it has been based since 1976. The business traces its roots to 1970, when Al Hendrickson founded an injection molding operation in Rancho Cordova, California. After relocating to the Corvallis Airport Industrial Park, the company was renamed Hendrickson Enterprises. In 1996, Al’s son Michael Hendrickson purchased the business, incorporated it, and changed the name to Plastech Inc. The firm remains family-owned and is currently led by Michael Hendrickson, with his daughter and son-in-law serving as key employees.
+Plastech Inc. traces its roots to 1970, when Al Hendrickson founded an injection molding business in Rancho Cordova, California. The operation moved to Corvallis, Oregon, in 1976, initially running from a garage before expanding into a dedicated building at the Corvallis Airport Industrial Park. In 1996, Hendrickson's son Michael purchased the company, incorporated it, and renamed it Plastech Inc. The business has remained family-owned for over 45 years and is still led by Michael Hendrickson, with his daughter and son-in-law serving as key employees.
 
-The company provides custom plastic injection molding along with a full suite of turnkey services: tool and die making (both domestic and offshore), CNC machining, rapid prototyping including 3D printing and fabrication, secondary operations, electro-mechanical assembly, and packaging. Production runs on seven injection molding machines ranging from 85 to 400 tons within a 12,500-square-foot manufacturing facility supported by 6,700 square feet of warehouse space. Plastech employs 14 family members, though total headcount is not disclosed.
+Today Plastech operates from a 12,500-square-foot manufacturing facility complemented by 6,700 square feet of warehouse space in Corvallis. The shop runs seven injection molding machines ranging from 85 to 400 tons, supported by CNC machining, 3D printing, and rapid prototyping capabilities. The company provides a full range of services including tool and die making (both domestic and offshore), secondary operations, assembly, packaging, and design-for-manufacturing assistance. A family-oriented workforce includes 14 family members among its staff.
 
-Plastech serves a diverse customer base across industries including electronics, dental, sporting goods, pool and spa, consumer products, trucking, industrial, education, medical, and aerospace. The company works with clients both domestically and internationally, managing tooling partnerships with three offshore factories that have been in place for over 20 years.
+Plastech serves customers across a diverse set of industries, including electronics, dental, sporting goods, pool and spa, consumer products, trucking, industrial, education, medical, and aerospace. The company works with both domestic and international clients, offering turnkey manufacturing from initial part concept through to finished, packaged products.
 
-Plastech emphasizes a customer-focused partnership model, aiming to be more than a manufacturer by offering design-for-manufacturing support and long-term service relationships. The company’s mission centers on delivering quality products at competitive prices through collaborative team environments.
+The company's stated mission is to be more than a manufacturer by building long-term partnerships through a customer-focused team environment. Plastech emphasizes competitive pricing and quality, leveraging over 20 years of strategic partnerships with three offshore tooling factories to manage tooling costs while keeping production domestic.
 
 ## Known for
-- Family-owned and operated for over 45 years
+- Family-owned and operated since 1970
 - Seven injection molding machines (85–400 ton capacity)
-- Domestic and offshore tooling services with 20+ year strategic partnerships
-- Turnkey manufacturing from design through packaging
-- 12,500 sq ft manufacturing + 6,700 sq ft warehouse in Corvallis, OR
+- Domestic and offshore tooling with 20+ years of offshore partnerships
+- Turnkey services from design through packaging
 
 ## Capabilities
-- Plastic Injection Molding
-- CNC Machining
-- Rapid Prototyping
-- 3D Printing
-- Tool & Die Making
-- Secondary Operations
-- Electro-Mechanical Assembly
-- Packaging
-- Design for Manufacturing (DFM)
-- Domestic Tooling
-- Offshore Tooling
+- Plastic injection molding
+- Tool and die making (domestic and offshore)
+- Secondary operations
+- CNC machining
+- 3D printing / rapid prototyping
+- Assembly (electro-mechanical)
+- Packaging / turnkey fulfillment
+- Design for manufacturing (DFM) assistance
+- Part design assistance
 - Fabrication
+- Post-molding CNC machining
 
 ## Industries
 - Electronics
@@ -405,7 +426,7 @@ Plastech emphasizes a customer-focused partnership model, aiming to be more than
 - Aerospace
 
 ## Equipment
-- Injection molding machines (85–400 ton)
+- 7 injection molding machines (85–400 ton)
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -416,18 +437,17 @@ Plastech emphasizes a customer-focused partnership model, aiming to be more than
 
 <details><summary>Sources</summary>
 
-- Plastech Inc. is a Custom Plastic Injection Molding company -> db
-- Headquarters in Corvallis, Oregon -> db
 - Founded 1970 by Al Hendrickson -> /about-us
-- Family-owned for more than 45 years -> / and /about-us
-- 1996 Michael Hendrickson purchases and renames to Plastech Inc. -> / and /about-us
-- Facility: 12,500 sqft manufacturing, 6,700 sqft warehouse -> /
-- Seven molding machines ranging from 85 to 400 tons -> /
-- Services: injection molding, tool & die, secondary operations, CNC machining & prototyping, 3D printing, rapid prototyping, assembly, packaging -> /services and /about-us
+- Moved to Corvallis, Oregon in 1976 -> /about-us
+- Renamed Plastech Inc. in 1996 by Michael Hendrickson -> /about-us
+- Family-owned for over 45 years -> /, /about-us
+- Facility: 12,500 sqft manufacturing + 6,700 sqft warehouse -> /
+- Seven molding machines 85-400 tons -> /
+- Services: injection molding, tool & die, secondary operations, CNC machining, 3D printing, rapid prototyping, assembly, packaging -> /, /services
 - Industries served: Electronics, Dental, Sporting Goods, Pool & Spa, Consumer Products, Trucking, Industrial, Education, Medical, Aerospace -> /about-us
 - Employs 14 family members -> /about-us
-- Strategic offshore tooling partnerships for over 20 years -> /about-us
-- Mission: customer-focused partnership, more than a manufacturer -> /about-us and /
+- Offshore tooling partnerships with 3 factories for over 20 years -> /about-us
+- Mission: customer-focused partnerships, competitive price, quality -> /, /about-us
 </details>
 
 ---
@@ -437,35 +457,36 @@ Plastech emphasizes a customer-focused partnership model, aiming to be more than
 **Old description:** PlastiCert can provide you composite injection molding expertise in an environment that fosters personal growth, professional challenge and a recognized responsibility to the community.
 
 ## About
-PlastiCert was established in 1981 in Lewiston, Minnesota. The company has over four decades of experience in injection molding.
+PlastiCert operates from Lewiston, Minnesota, where it was established in 1981. The privately held company has accumulated over four decades of injection molding experience, focusing on complex plastic components for demanding OEM programs.
 
-The company specializes in complex injection molding for engineered thermoplastics, including standard resins such as polycarbonate, ABS, and nylon, as well as high-temperature materials like Ultem, Ryton, and PEEK. Its vertically integrated operation combines engineering support (DFM, mold-flow analysis, material guidance), an in-house tool shop for mold design, construction, repair, and maintenance, and production capabilities that encompass insert molding, overmolding, long-fiber reinforced resins, and mold-transfer recovery programs. Recurring production volumes typically range from 2,000 to 5,000 parts per month, adjusted for part size and complexity, with additional capacity for prototyping and short runs.
+The company provides vertically integrated engineering, tooling, and production services. Its capabilities span standard and high-temperature thermoplastic injection molding (including PC, ABS, nylon, Ultem, Ryton, and PEEK), insert molding, overmolding, long-fiber and engineered resin processing, mold design and in-house tool construction, DFM and mold-flow analysis, mold transfer and recovery, and value-added assembly such as soldering and press operations. A Haas VM-3 CNC machine supports tooling work, and the press line includes a 55-ton machine among larger presses. PlastiCert targets recurring production volumes typically between 2,000 and 5,000 parts per month, adjusted for part size and complexity.
 
-PlastiCert serves OEMs in industrial, aerospace, medical, agricultural, electronics, and telecommunications sectors. Notable customer examples include a telecommunications antenna manufacturer and a medical device manufacturer, as well as commercial and consumer recreational product companies.
+PlastiCert serves industrial, aerospace, medical, agriculture, electronics, and telecommunications sectors, with customers including a telecommunications antenna manufacturer, a medical device manufacturer, and commercial/consumer recreational product companies.
 
-The firm differentiates itself by keeping engineering, tooling, and molding under one roof to avoid handoff gaps, and by focusing on technically demanding programs rather than commodity pricing. It has earned four Top Shop awards from Plastics Technology magazine.
+The firm differentiates itself by keeping engineering, tooling, and molding under one roof to avoid handoff gaps, emphasizing technical collaboration over commodity pricing. It has earned four Top Shop Awards from Plastics Technology magazine and positions itself as a partner for difficult programs requiring material expertise, insert complexity, or mold recovery.
 
 ## Known for
 - Vertically integrated engineering, tooling, and production under one roof
-- In-house tool shop for mold design, build, repair, and maintenance
-- Specialized mold-transfer and program-recovery services
-- Expertise in insert molding, overmolding, and long-fiber/engineered resins
-- Four Top Shop awards from Plastics Technology magazine
+- In-house tool shop for design, build, repair, and maintenance
+- Specialized in complex programs: insert molding, overmolding, engineered resins, mold transfer/recovery
+- Recurring production focus of 2,000–5,000 parts per month
+- Four Top Shop Awards from Plastics Technology magazine
 
 ## Capabilities
 - Injection molding (standard and high-temperature thermoplastics)
 - Insert molding
 - Overmolding
-- Long-fiber & engineered resins molding
-- Mold design & in-house tooling (design, build, repair, maintain)
-- Mold transfer / program recovery
-- DFM & mold flow analysis
-- Material guidance & tooling strategy
-- Short-run & recurring production
-- Value-added assembly (soldering, arbor press)
-- CNC machining
-- Prototyping
-- Engineering services
+- Long-fiber and engineered resin molding
+- Mold design and in-house tooling (design, build, repair, maintenance)
+- Design for manufacturability (DFM) and mold-flow analysis
+- Mold transfer and program recovery (evaluation, root-cause analysis, corrective work, sampling, validation)
+- Value-added assembly (soldering, arbor press assembly)
+- Prototyping (multiple prototype options)
+- Short-run and recurring production
+- Engineering support (material guidance, tooling strategy)
+- CNC machining (Haas VM-3)
+- Mold temperature control (water and hot-oil systems)
+- Quality management (ISO 9001:2015)
 
 ## Industries
 - Industrial
@@ -474,31 +495,35 @@ The firm differentiates itself by keeping engineering, tooling, and molding unde
 - Agriculture
 - Electronics
 - Telecommunications
-- Commercial/Consumer Products
+- Commercial/Consumer Recreational Products
 
 ## Equipment
-- Haas VM-3 CNC Machine
+- Haas VM-3 CNC machine
+- Injection molding presses (55-ton, large press line-up)
+- Mold temperature control systems (water and hot-oil)
 
 ## Certifications
 - ISO 9001:2015
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Founded:** 1981
 - **Headquarters:** Lewiston, Minnesota
 
 <details><summary>Sources</summary>
 
-- Founded 1981 -> /
-- Headquarters Lewiston, Minnesota -> /
-- ISO 9001:2015 certified -> /
-- In-house tool shop for mold design, build, repair, maintenance -> /
-- Capabilities: insert molding, overmolding, long-fiber resins, mold transfer, DFM, mold flow analysis -> /
-- Recurring production 2,000-5,000 parts/month -> /
-- Markets served: Industrial, Aerospace, Medical, Agriculture, Electronics -> /
-- Telecommunications antenna manufacturer and medical device manufacturer customers -> db
-- Haas VM-3 CNC Machine -> db
-- Four Top Shop awards from Plastics Technology magazine -> /quality
+- Founded 1981 -> db, homepage
+- Headquarters Lewiston, Minnesota -> db, homepage
+- ISO 9001:2015 certified -> homepage
+- Four Top Shop Awards from Plastics Technology magazine -> /quality page
+- Industries: industrial, aerospace, medical, agriculture, electronics, telecommunications, commercial/consumer recreational -> homepage, industries_served
+- Recurring production 2,000-5,000 parts/month -> homepage
+- Capabilities: injection molding, insert molding, overmolding, long-fiber/engineered resins, mold design & in-house tooling, DFM, mold flow, mold transfer/recovery, value-added assembly, prototyping, CNC machining, mold temperature control -> homepage, capabilities, products
+- Equipment: Haas VM-3 CNC machine, 55-ton injection molding press, large press line-up, water/hot-oil temperature control -> homepage, products
+- Materials: PC, ABS, nylon, Ultem, Ryton, PEEK, long-fiber resins, engineered resins, composites -> homepage, capabilities
+- Vertically integrated engineering, tooling, production -> homepage
+- In-house tool shop -> homepage
+- Not a commodity molder, focused on technical collaboration -> homepage
 </details>
 
 ---
@@ -508,74 +533,64 @@ The firm differentiates itself by keeping engineering, tooling, and molding unde
 **Old description:** Delivering ROI Focused Master-Class Electronics, Quality Components and Collaborative Engineering Design to the Global Market Since 1973.
 
 ## About
-Founded in 1973 in Elkhart, Indiana, Poly Electronics has operated as a privately held electronics manufacturer for over five decades. The company began as a provider of printed circuit board assembly and has since expanded into a full-service partner for design, engineering, supply chain management, and distribution.
+Founded in 1973 in Elkhart, Indiana, Poly Electronics began as a provider of custom electronics engineering and assembly. The company remains headquartered in Elkhart and operates as a privately held business.
 
-Today, Poly Electronics delivers integrated PCB solutions encompassing surface-mount (SMT), through-hole (THT), and hybrid assembly, along with box build, potting, and testing services that include flying probe and 3D automated optical inspection. The firm offers design-for-manufacturability consulting, component sourcing through a vetted global network, and warehousing with global distribution. Over its history, the company has engineered more than 3,500 custom electrical products.
+Today the firm delivers full-service PCB integration, covering design, engineering, component sourcing, surface-mount and through-hole assembly, box build, potting, flying-probe and 3D AOI testing, warehousing, and global distribution. It has engineered more than 3,500 distinct custom electrical products and serves hundreds of long-term customers, with a reported 99.97% functionality rate on shipped units.
 
-Poly Electronics serves customers in sectors such as aviation, automotive, and industrial equipment, citing long-term relationships with companies including Vanair, Cargo Van & More, and Montego Dev. Many clients have remained with the company for 20 years or more, relying on its ability to manage component obsolescence and raw-material price fluctuations.
+Customers span industrial, automotive, and aerospace sectors, including references from Vanair, Cargo Van & More, and Montego Development. The company emphasizes supply-chain security through a vetted global partner network and software that monitors bill-of-materials changes.
 
-The company emphasizes a collaborative model, positioning itself as an extension of the customer’s team with quote turnaround of 48–72 hours for production-ready projects and solution delivery in as little as four weeks. Its quality system is certified to ISO 9001:2015, and it reports a 99.97% functionality rate on delivered items. Investment in equipment such as KOHYOUNG 3D AOI and flying probe testers supports its focus on consistent, on-time delivery.
+Poly Electronics differentiates itself with an ROI-driven model: 48- to 72-hour quote turnaround on production-ready projects, agile delivery in as little as four weeks, collaborative design-for-manufacturability consultation at $85 per hour, and ISO 9001:2015 certified processes.
 
 ## Known for
-- 48–72 hour quote turnaround for production-ready projects
-- Solution delivery in as little as 4 weeks
+- 48-72 hour quote turnaround on production-ready RFQs
+- Agile delivery in as little as 4 weeks
 - 99.97% functionality rate on delivered items
 - ISO 9001:2015 certified quality management system
-- Vetted global partner network for supply chain security
+- Vetted global partner network with automated BOM monitoring for supply-chain security
 
 ## Capabilities
+- PCB design and engineering
+- Design for Manufacturability (DFM) consultation
+- Component sourcing and procurement
+- Supply chain management and inventory services
 - Surface Mount Technology (SMT) assembly
 - Through Hole Technology (THT) assembly
 - Hybrid PCBA (mixed SMT/THT)
-- Box build assembly
-- Potting and encapsulation
+- Box build and electromechanical assembly
+- Potting and conformal coating
 - Flying probe testing
 - 3D Automated Optical Inspection (AOI)
-- Design for Manufacturability (DFM) consulting
-- PCB design and engineering
-- Component sourcing and procurement
-- Supply chain management
+- In-Circuit Test (ICT)
 - Warehousing and global distribution
-- ISO 9001:2015 quality management
-- Component obsolescence monitoring
-- Cost-saving design consultation
-
-## Industries
-- Aviation
-- Automotive
-- Industrial equipment
+- ROI-based inventory management
+- Collaborative design consultation
 
 ## Equipment
-- Flying probe testing equipment
-- KOHYOUNG 3D AOI in-line verification equipment
-- SMT assembly equipment
-- THT assembly equipment
+- KOHYOUNG 3D AOI system
+- Flying probe tester
 
 ## Certifications
 - ISO 9001:2015
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1973
 - **Headquarters:** Elkhart, Indiana
 
 <details><summary>Sources</summary>
 
-- Founded in 1973 -> db
-- Headquarters Elkhart, Indiana -> db
+- Founded 1973, headquartered Elkhart, Indiana -> db
 - ISO 9001:2015 certified -> /quality
-- SMT, THT, Hybrid PCBA capabilities -> /
-- Box build and potting services -> /
-- Flying probe testing and 3D AOI equipment -> /quality
+- Full-service PCB integration: design, engineering, sourcing, SMT/THT assembly, box build, potting, testing, warehousing, distribution -> /, /about
 - Engineered over 3,500 custom electrical products -> /about
-- Customer testimonials from Vanair, Cargo Van & More, Montego Dev. -> /
-- 48-72 hour quote turnaround for production projects -> /
-- Agile delivery in as little as 4 weeks -> /about
 - 99.97% functionality rate -> /quality
-- Design and engineering services at $85/hour -> /
-- Supply chain management and warehousing -> /
-- Vetted global partner network for component sourcing -> /
-- Collaborative design as extension of customer team -> /about
+- 48-72 hour quote turnaround -> /
+- Agile delivery in as little as 4 weeks -> /about
+- Collaborative DFM consultation at $85/hour -> /
+- Vetted global partner network with BOM monitoring software -> /
+- KOHYOUNG 3D AOI in-line verification equipment -> /quality
+- Flying probe testing equipment -> /quality
+- Testimonials from Vanair, Cargo Van & More, Montego Development -> /
 </details>
 
 ---
@@ -585,38 +600,32 @@ The company emphasizes a collaborative model, positioning itself as an extension
 **Old description:** Poly Plastics, Inc. Has been family owned and operated since 1992.
 
 ## About
-Poly Plastics Inc. is a family-owned flexible packaging manufacturer based in Ferris, Texas. The company was founded in 1992 and has remained under family operation since its inception. With over four decades of experience in the packaging sector, the business began by serving flexible packaging needs with a focus on personal service.
+Founded in 1992 in Ferris, Texas, Poly Plastics Inc. is a family-owned and operated business that has served flexible packaging needs for over three decades.
 
-The company produces custom printed and plain plastic bags, roll stock, pouches, and laminated films. Its production capabilities include flexographic, rotogravure, and digital printing, supported by in-house prepress, laser etching, and plate making. Additional services encompass rewinding, slitting, film lamination, bag making, and digital label printing. All products are manufactured using FDA-approved films such as polyethylene, polypropylene, cast-polypropylene, acrylic, and polyester.
+The company operates as a custom manufacturer of printed and plain plastic bags, roll stock, pouches, and laminated films. Its production capabilities include flexographic, rotogravure, and digital printing, supported by in‑house prepress, laser etching, and plate making. Additional services cover rewinding and slitting, film lamination, bag making, and digital label printing. Materials processed range from polyethylene, polypropylene, and cast‑polypropylene to acrylic and polyester, all of which are FDA approved for food contact.
 
-Poly Plastics serves a broad range of food and industrial markets. Its customer base includes manufacturers of baked goods, fresh-cut produce, health and personal care items, nuts and dried fruit, snacks, tortilla chips, spices, pet food, confectionery, frozen foods, ice, industrial products, popsicles, dried grains, tortillas, and fortune cookies. The company also provides branding and design services to help food and beverage manufacturers activate strategic programs and improve shelf life.
+Poly Plastics supplies a broad spectrum of food and beverage sectors, including baked goods, fresh‑cut produce, nuts and dried fruit, snacks, tortilla chips, spices, pet food, confectionery, frozen foods, ice, popsicles, dried grains, tortillas, and fortune cookies. The company also serves health and personal care as well as industrial markets.
 
-The company emphasizes customer satisfaction as its primary goal, offering personal service and full-service delivery to the customer's door. Its FDA-approved films and in-house prepress capabilities are cited as key differentiators that enable quick turnaround and quality control for food packaging applications.
+The business emphasizes personal service and direct delivery to the customer’s door, positioning itself as a partner that helps brands stand out through design and packaging innovation.
 
 ## Known for
-- Family-owned and operated since 1992
-- FDA-approved films for food packaging
-- In-house prepress, laser etching, and plate making
-- Multiple printing processes: flexo, rotogravure, digital
-- Full-service flexible packaging from design to delivery
+- Family‑owned and operated since 1992
+- FDA‑approved films for food packaging
+- In‑house prepress, laser etching, and plate making
+- Direct delivery to customer locations
 
 ## Capabilities
 - Flexographic printing
 - Rotogravure printing
 - Digital printing
-- In-house prepress
+- In‑house prepress
 - Laser etching
 - Printing plate making
-- Rewinding
-- Slitting
+- Rewinding and slitting
 - Film lamination
 - Bag making
 - Digital label printing
 - Branding and design services
-- Custom manufacturing of printed and plain plastic bags
-- Roll stock production
-- Pouch manufacturing
-- Laminated film production
 
 ## Industries
 - Baked Goods
@@ -637,7 +646,7 @@ The company emphasizes customer satisfaction as its primary goal, offering perso
 - Fortune Cookies
 
 ## Certifications
-- FDA approved
+- FDA APPROVED
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -647,17 +656,14 @@ The company emphasizes customer satisfaction as its primary goal, offering perso
 
 <details><summary>Sources</summary>
 
-- Founded 1992, family-owned -> db, homepage
-- Headquarters Ferris, Texas -> db
-- Custom manufacturer of printed and plain plastic bags, rolls stock, pouches, laminated films -> homepage
-- Materials: Polyethylene, Polypropylene, Cast-Polypropylene, Acrylic, Polyester -> homepage
-- FDA approved films -> homepage, certifications db
-- Printing processes: Flexo, Rotogravure, Digital -> homepage
-- In-house prepress, laser etching, printing plates -> homepage
-- Rewinding & Slitting, Film Laminations, Bag making, Digital Labels -> homepage
-- Industries served: Baked Goods, Fresh Cut Produce, Health Personal Care, Nuts & Dried Fruit, Snacks, Tortilla Chips, Spices, Pet Food, Confectionary, Frozen Foods, Ice, Industrial, Popsicles, Dried Grains, Tortillas, Fortune Cookies -> homepage
-- Branding and Design Services -> homepage
-- Customer satisfaction #1 goal -> homepage
+- Founded 1992, family-owned -> db
+- Custom manufacturer of printed and plain plastic bags, rolls stock, pouches, laminated films -> page /
+- Materials: Polyethylene, Polypropylene, Cast-Polypropylene, Acrylic, Polyester -> page /
+- All films FDA approved -> page /
+- Processes: Flexo, Rotogravure, Digital Printing, In-house prepress, laser etching, printing plates, Rewinding & Slitting, Film Laminations, Bag making, Digital Labels -> page /
+- Industries served: Baked Goods, Fresh Cut Produce, Health Personal Care, Nuts & Dried Fruit, Snacks, Tortilla Chips, Spices, Pet Food, Confectionary, Frozen Foods, Ice, Industrial, Popsicles, Dried Grains, Tortillas, Fortune Cookies -> page /
+- Direct delivery to customer door -> page /
+- Emphasis on personal service -> page /
 </details>
 
 ---
@@ -667,27 +673,27 @@ The company emphasizes customer satisfaction as its primary goal, offering perso
 **Old description:** More than making individual parts, PCM specializes in mating parts together through various methods including brazing and mechanical fits producing a precision assembly for additional machining or ready for assembly.
 
 ## About
-Port Clinton Manufacturing Co. has operated from Port Clinton, Ohio, since its founding in 1929. The company remains a closely held family corporation, locally owned and operated across nearly a century of continuous service.
+Port Clinton Manufacturing Co. was founded in 1929 in Port Clinton, Ohio. The company has remained a closely held family corporation, locally owned and operated as a family business for nearly a century.
 
-A broaching department runs 12 machines with a 54-inch stroke and 15-ton capacity, while grinding operations cover ID, OD, centerless, double-disk, and Blanchard processes. Secondary machining includes thread rolling, knurling, drilling, tapping, cross drilling, deep-hole drilling, honing, milling, tumbling, bead blasting, and a range of cutoff and forming operations. Heat treating and coating are managed through a qualified external network. The company also performs ultrasonic cleaning and Millipore particle-count testing. Precision assemblies — joined by brazing or mechanical fits — are produced in-house, either as finished units or as in-process components brought to final tolerance after assembly.
+The shop specializes in high-value-added hardened, ground, and precision parts, with a focus on precision assemblies that mate components through brazing and mechanical fits. Its 68,000-square-foot facility houses 25 automatic screw machines capable of work up to 3-1/2 inches, supplemented by CNC lathes, CNC and multi-spindle chuckers handling blanks up to 12 inches in diameter, and a broaching department with 12 machines rated to a 54-inch stroke and 15 tons. Secondary machining covers grinding (ID, OD, centerless, double-disk, Blanchard), thread rolling, knurling, drilling, tapping, cross-drilling, deep-hole drilling, countersinking, honing, milling, tumbling, bead blasting, cut-to-length, grooving, slotting, trimming, and chamfering. Heat treating and coatings are managed through a qualified external network, while engineering, estimating, and tooling support are provided in-house.
 
-Primary markets include railroad, oil and gas, mining, emergency power generation, agricultural and construction equipment, mine safety devices, heavy-truck transmissions, and brake systems. As a tier 1 supplier to major engine manufacturers, the shop supports PPAP requirements and has maintained relationships with several Fortune 500 customers for more than 50 years.
+The company serves diesel-engine applications for railroad, oil-and-gas mining, emergency power generation, and off-highway agricultural and construction equipment, as well as mechanical power transmission components such as mine safety devices, heavy-truck transmissions, and brake systems. It operates as a Tier 1 supplier to major engine manufacturers and counts several Fortune 500 companies among its long-term customers, some for over 50 years.
 
-The business emphasizes integrity, fair dealing, and continuous improvement to reduce cost while preserving quality. Its quality program targets zero defects, backed by CMM, optical comparator, surface-finish, Magnaflux, and Rockwell hardness inspection, and has earned a Dun & Bradstreet AAA rating.
+Port Clinton Manufacturing emphasizes total customer satisfaction and a zero-defect culture, backed by PPAP capability, a full inspection lab (CMM, optical comparator, surface finish, magnaflux, Rockwell hardness, ultrasonic cleaning, and Millipore particle counting), and a Dun & Bradstreet AAA rating. The owners’ personal attention to each account and continuous improvement in manufacturing efficiency are cited as key differentiators.
 
 ## Known for
-- Founded in 1929 with nearly a century of continuous operation
-- 68,000 sq ft facility with 25 automatic screw machines and 12 broaching machines
-- In-house precision assembly via brazing and mechanical fits
-- Tier 1 supplier quality program with PPAP and Millipore particle-count testing
-- Family-owned with Fortune 500 customer relationships exceeding 50 years
+- Nearly a century of service, quality, and timely deliveries
+- 68,000 sq ft facility supporting Just-In-Time requirements
+- In-house precision assembly including brazing and mechanical fits
+- Broaching capacity up to 54" stroke, 15 ton ("we can broach anything we can turn")
+- Tier 1 supplier to major engine manufacturers with PPAP service
 
 ## Capabilities
-- Automatic screw machining (up to 3.5")
+- Automatic screw machining (up to 3-1/2")
 - CNC turning
-- CNC multi-spindle chucking (up to 12" diameter)
-- Precision grinding (ID, OD, centerless, double disk, Blanchard)
-- Broaching (internal/external, 54" stroke, 15 ton)
+- CNC & multi-spindle chucking (up to 12" diameters)
+- Precision grinding (ID, OD, centerless, double-disk, Blanchard)
+- Broaching (internal/external, up to 54" stroke, 15 ton)
 - Thread rolling
 - Knurling
 - Drilling and tapping
@@ -697,34 +703,35 @@ The business emphasizes integrity, fair dealing, and continuous improvement to r
 - Milling
 - Tumbling
 - Bead blasting
-- Cut to length
-- Grooving, slotting, trimming, chamfering
+- Cut-to-length
+- Grooving
+- Slotting
+- Trimming
+- Chamfering
 - Precision assembly (brazing, mechanical fits)
-- Heat treating (via qualified network)
-- Coating (via qualified network)
-- Ultrasonic cleaning
-- Millipore testing / particle counting
-- CMM inspection
-- Profile measurement
-- Optical comparator inspection
+- Heat treating and coating coordination
+- Engineering, estimating, and tooling support
+- Quality inspection (CMM, optical comparator, surface finish, magnaflux, Rockwell hardness, calibration, ultrasonic cleaning, Millipore particle counting)
+- PPAP service
 
 ## Industries
 - Railroad
-- Oil and gas
-- Mining
+- Oil and gas mining
 - Emergency power generation
-- Agricultural equipment
-- Construction equipment
+- Off-highway agricultural and construction
 - Mine safety devices
 - Heavy truck transmission
-- Brake systems
+- Brake system components
 
 ## Equipment
-- 25 automatic screw machines (capacity through 3.5")
+- 25 automatic screw machines (capacities through 3-1/2")
 - CNC lathes
-- CNC multi-spindle chuckers (up to 12" diameter)
 - 12 broaching machines (54" stroke, 15 ton)
-- Grinding equipment (ID, OD, centerless, double disk, Blanchard)
+- ID/OD grinders
+- Centerless grinders
+- Double-disk grinders
+- Blanchard grinders
+- CNC & multi-spindle chuckers (up to 12" diameters)
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -734,24 +741,25 @@ The business emphasizes integrity, fair dealing, and continuous improvement to r
 
 <details><summary>Sources</summary>
 
-- Founded 1929 -> /
+- Founded in 1929 -> /
 - Family-owned, closely held family corporation -> /
 - 68,000 sq ft manufacturing capacity -> /
-- 25 automatic screw machines (capacity through 3.5") -> /
-- CNC lathes and CNC multi-spindle chuckers (up to 12" diameter) -> /
-- 12 broaching machines (54" stroke, 15 ton) -> /
-- Grinding: ID, OD, centerless, double disk, Blanchard -> /
-- Secondary machining: thread roll, knurling, drilling, tapping, cross drill, deep hole drill, countersink, honing, milling, tumbling, bead blast, cut to length, grooving, slotting, trimming, chamfering -> /
+- 25 automatic screw machines up to 3-1/2" -> /
+- CNC lathes available -> /
+- 12 broaching machines, 54" stroke, 15 ton -> /
+- Precision grinding: ID, OD, centerless, double disk, Blanchard -> /
+- Secondary machining list (grinding, thread roll, knurling, chucking, drill/tap, cross drill, deep hole drill, countersink, precision assembly, broaching, honing, milling, tumbling, bead blast, cut to length, grooving, slotting, trimming, chamfering) -> /
+- CNC & multi-spindle chucking up to 12" diameters -> /
 - Precision assemblies via brazing and mechanical fits -> /
-- Heat treat and coating via network -> /
-- Ultrasonic cleaning and Millipore testing including particle counting -> /
-- Quality: CMM, profile measurement, optical comparator, surface finish, Magnaflux, Rockwell hardness, calibration -> /
+- Heat treat and coating network -> /
+- Quality capabilities: CMM, profile measurement, computerized surface profile, optical comparator, surface finish testing, magnaflux, Rockwell hardness, calibration, ultrasonic cleaning, Millipore testing -> /
 - PPAP service -> /
 - Tier 1 supplier to major engine manufacturers -> /
-- Dun & Bradstreet AAA rating -> /
+- Industries: railroad, oil and gas mining, emergency power generation, off-highway agricultural/construction, mine safety devices, heavy truck transmission, brake system components -> /
 - Fortune 500 customers for over 50 years -> /
-- Industries: railroad, oil and gas, mining, emergency power generation, agricultural, construction, mine safety, heavy truck, brake systems -> /
-- Continuous improvement, integrity, fair dealing -> /
+- Dun & Bradstreet AAA rating -> /
+- Engineering & estimating, manufacturing engineering/tooling -> /
+- Headquarters: Port Clinton, Ohio -> db
 </details>
 
 ---

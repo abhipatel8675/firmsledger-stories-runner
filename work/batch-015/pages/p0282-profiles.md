@@ -3,38 +3,42 @@
 **Old description:** Albuquerque Cabling is founded on the the value of getting the job done right every time.
 
 ## About
-Albuquerque Cabling was founded in 1986 in Albuquerque, New Mexico. The company began as a low‑voltage infrastructure specialist and has remained a local service provider.
+Albuquerque Cabling, based in Albuquerque, New Mexico, has provided low-voltage infrastructure services since its founding in 1986. The company operates under the name ABQ Cabling and emphasizes a founding principle of completing every job correctly the first time. Ownership details and founder names are not publicly disclosed.
 
-The firm provides ICT design and installation services, including Category 6 and Category 6A network cabling, low‑voltage cabling, fiber‑optic solutions, and full design‑build projects. It also installs smart access‑control, audio‑visual, security and surveillance, and PA and paging systems. A Registered Communications Distribution Designer (RCDD) is on staff, and the company serves government agencies, schools, and commercial clients across New Mexico.
+The firm delivers ICT design and installation through a design-build model, holding a Registered Communications Distribution Designer (RCDD) on staff. Services span Category 6 and Category 6A network cabling, all low-voltage cable types, fiber-optic solutions, access-control systems, audio-visual installations, security and surveillance systems, and Valcom PA and paging systems. The company describes itself as the only New Mexico low-voltage contractor offering full design-build with custom ICT solutions. Facility size, headcount, and project volumes are not published.
 
-Customers include public‑sector entities, educational institutions such as Albuquerque Academy, and private businesses like Exus Renewables North America. The company emphasizes a consultative approach, asking detailed questions to create custom solutions for each project.
+Customers include government agencies, K-12 and higher-education institutions, and commercial businesses across New Mexico. Reference projects cite Exus Renewables North America, which relied on ABQ Cabling as a local partner for a new office build-out, and Albuquerque Academy, where the director of technology has engaged the firm on numerous projects over several years.
 
-Albuquerque Cabling states that it was founded on the principle of getting the job done right every time, and it differentiates itself as the only low‑voltage infrastructure provider in New Mexico that offers design‑build services with custom ICT solutions.
+The company states its differentiation lies in asking the right questions, investing the necessary time, and creating tailored solutions rather than applying generic templates. This consultative approach, combined with the design-build capability and RCDD oversight, is presented as the core reason clients select ABQ Cabling.
 
 ## Known for
-- Only low‑voltage infrastructure company in New Mexico offering design‑build with custom ICT solutions
-- RCDD on staff
-- Over 40 years of experience
-- Serves government, schools, and businesses statewide
+- Only New Mexico low-voltage contractor offering full design-build with custom ICT solutions
+- Registered Communications Distribution Designer (RCDD) on staff
+- Over 40 years of experience serving government, education, and commercial clients
+- Design-build model covering consultation through installation and maintenance
 
 ## Capabilities
-- ICT design and installation
-- Cat6 and Cat6A network cabling
-- Low voltage cabling
-- Fiber optic solutions
-- Design & build services
-- Smart access control systems
-- Audio visual systems
-- Security and surveillance systems
-- PA and paging systems
+- ICT design & installation
+- Design-build services
+- Category 6 / Category 6A network cabling
+- Low-voltage cable installation
+- Fiber-optic installation
+- Access control system design, installation, maintenance
+- Audio-visual system installation
+- Security & surveillance system installation
+- PA & paging system installation (Valcom)
 
 ## Industries
 - Government
 - Education
 - Commercial
+- Renewable energy
+
+## Equipment
+- Valcom Systems
 
 ## Certifications
-- RCDD
+- RCDD on staff
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -43,18 +47,20 @@ Albuquerque Cabling states that it was founded on the principle of getting the j
 
 <details><summary>Sources</summary>
 
-- Founded in 1986 -> db
-- Headquarters in Albuquerque, New Mexico -> db
-- Offers ICT design and installation, Cat6/Cat6A, low voltage, fiber optic, design-build, access control, AV, security, PA/paging -> /
-- RCDD on staff -> /
-- Serves government, schools, businesses throughout New Mexico -> /
-- Only low voltage infrastructure company in New Mexico offering design-build with custom ICT solutions -> /
-- Over 40 years of experience -> /
-- CAGE code 7T5F5 -> /
-- NAICS codes 237130, 811210, 238210 -> /
-- DUNS 832487784 -> /
-- Testimonial from Exus Renewables North America -> /
-- Testimonial from Albuquerque Academy -> /
+- Founded 1986 -> db
+- Headquarters Albuquerque, New Mexico -> db and page "/"
+- RCDD on staff -> page "/"
+- CAGE code 7T5F5 -> page "/"
+- NAICS codes 237130, 811210, 238210 -> page "/"
+- DUNS 832487784 -> page "/"
+- Services: Cat 6, CAT6A, low voltage, fiber optic, access control, AV, security, PA/paging -> page "/"
+- Design & Build services -> page "/"
+- Only low voltage infrastructure company offering Design & Build in NM -> page "/"
+- Serves government, schools, businesses in NM -> page "/"
+- Customer examples: Exus Renewables North America, Albuquerque Academy -> page "/"
+- Address: 4121 Prospect NE Suite B, Albuquerque, NM 87110 -> page "/"
+- Phone: (505) 633-3135 -> page "/"
+- Website: https://www.albuquerquecabling.com/ -> db
 </details>
 
 ---
@@ -64,40 +70,40 @@ Albuquerque Cabling states that it was founded on the principle of getting the j
 **Old description:** One of Alaska's largest electrical contractors — Alaskan-owned, 200+ strong, and trusted since 1971 to plan and deliver the state's most complex electrical and technology projects.
 
 ## About
-Alcan Electric & Engineering was founded in 1971 in Anchorage, Alaska, and remains Alaskan-owned and operated. The company has grown from a traditional electrical contractor into a full-service technology integrator with offices in Anchorage, Fairbanks, Juneau, and Wasilla, serving the entire state from the Arctic to the Gulf Coast.
+Alcan Electric & Engineering, Inc. was founded in 1971 in Anchorage, Alaska. The company is Alaskan-owned and operated, and has grown from a traditional electrical contractor into a full-service electrical, communications, security, and audio-visual technology integrator. It now employs over 200 professionals across offices in Anchorage, Fairbanks, Juneau, and Wasilla, serving the entire state.
 
-The firm employs more than 200 professionals and provides commercial electrical construction — power distribution, lighting, backup power, high-voltage systems, and design engineering — alongside low-voltage technology integration: security and access control (including IP video surveillance as Alaska’s Milestone pioneer), communications and VoIP, structured cabling (BICSI-certified copper and fiber, and the state’s only Corning preferred installer), audio-visual systems, commercial solar, EV charging infrastructure, and NFPA 70B-aligned electrical maintenance programs.
+The firm delivers commercial electrical construction services including power distribution, lighting, backup power, high-voltage, and design & engineering. It also integrates low-voltage systems such as building automation, IP video surveillance (as Alaska's Milestone video pioneer), access control, structured cabling (BICSI-certified copper and fiber, and the state's only Corning preferred installer), unified communications, and audio-visual solutions. Additional offerings include turn-key commercial solar, EV charging infrastructure, and electrical maintenance programs aligned with the 2023 NFPA 70B standard. With a workforce of more than 200 and three regional offices, Alcan handles large, complex projects across Alaska.
 
-Alcan serves healthcare, aviation, corrections, defense, North Slope industry, and commercial clients. Notable projects include a 15-year partnership with Providence Alaska Medical Center encompassing the 82,000-square-foot Tower M, electrical work for the 16-bay F-35 hangars at Eielson Air Force Base, and advanced smartphone-controlled systems at the Anchorage Fish Hatchery.
+Alcan serves healthcare, aviation, corrections, defense, and North Slope industrial clients statewide. Notable projects include a 15-year partnership with Providence Alaska Medical Center in Anchorage encompassing the 82,000-square-foot Tower M, electrical work for the 16-bay F-35 hangars at Eielson Air Force Base, and advanced controls for the Anchorage Fish Hatchery. The company also works with commercial and energy-efficient lighting projects across the state.
 
-The company emphasizes its Alaskan roots as a differentiator: 50-plus years of experience with the state’s conditions, codes, and logistics; a workforce trained through NECA and IBEW Local 1547; a formal safety program called Safety Zone; and the convenience of a single integrated partner for both electrical and low-voltage technology systems.
+The company emphasizes its Alaskan ownership and deep local knowledge of conditions, codes, and logistics as a key differentiator. It highlights the scale of its workforce and its NECA and IBEW Local 1547 affiliations, which provide trained, certified craftspeople and a deep labor pool. Alcan also promotes its integrated approach — combining electrical and low-voltage technology under one roof — and a formal safety program called "Safety Zone" that goes beyond compliance with weekly project-specific safety meetings.
 
 ## Known for
-- Alaska-only Corning preferred installer for structured cabling
-- Milestone video pioneer for IP surveillance
-- NECA/IBEW Local 1547 trained craftspeople
-- Formal Safety Zone safety program
-- One integrated partner for electrical and low-voltage systems
+- Alaskan-owned and operated since 1971
+- Over 200 professionals across three Alaska offices
+- NECA and IBEW Local 1547 affiliated with certified craftspeople
+- Integrated electrical and low-voltage technology under one roof
+- Alaska's only Corning preferred installer and Milestone video pioneer
 
 ## Capabilities
 - Commercial electrical construction
 - Power distribution
 - Lighting design and installation
 - Backup power systems
-- High-voltage systems
-- Electrical design & engineering
+- High-voltage electrical work
+- Electrical design and engineering
 - Electrical system integration
 - Building automation
-- Security & access control
+- Security and access control systems
 - IP video surveillance
-- Communications & VoIP
-- Unified communications
-- Structured cabling (copper & fiber)
-- BICSI-certified installation
+- Access control
+- Communications and VoIP
+- Structured cabling (copper and fiber)
 - Audio visual systems
 - Commercial solar installation
 - EV charging station installation
 - NFPA 70B electrical maintenance
+- Safety program management
 
 ## Industries
 - Healthcare
@@ -105,8 +111,13 @@ The company emphasizes its Alaskan roots as a differentiator: 50-plus years of e
 - Corrections
 - Defense
 - North Slope industry
-- Industrial
 - Commercial
+- Industrial
+- Government
+
+## Certifications
+- BICSI
+- NFPA 70B
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -118,21 +129,29 @@ The company emphasizes its Alaskan roots as a differentiator: 50-plus years of e
 <details><summary>Sources</summary>
 
 - Founded 1971 -> db, /about
-- Headquarters Anchorage, Alaska -> db, /
-- Employee count 200+ -> db, /about
+- 200+ employees -> db, /, /about
 - Alaskan-owned -> /, /about
-- Offices in Anchorage, Fairbanks, Juneau, Wasilla -> /
-- Services: commercial electrical, system integration, security, communications, structured cabling, AV, solar, EV charging, NFPA 70B maintenance -> /services
-- Industries: healthcare, aviation, corrections, defense, North Slope, industrial -> /, /about
-- Project: Providence Alaska Medical Center Tower M -> /
-- Project: Eielson AFB F-35 hangars -> /
-- Project: Anchorage Fish Hatchery -> /
-- BICSI-certified copper & fiber -> /services
-- Corning preferred installer -> /services
-- Milestone video pioneer -> /services
+- Offices in Anchorage, Fairbanks, Juneau, Wasilla -> /, /about
+- Services: commercial electrical, system integration, security, communications, structured cabling, audio visual, solar, EV charging, NFPA 70B maintenance -> /services
+- Industries: healthcare, aviation, corrections, defense, North Slope -> /, /about
+- Projects: Providence Alaska Medical Center Tower M, Eielson AFB F-35 hangars, Anchorage Fish Hatchery -> /
+- BICSI-certified copper & fiber -> /, /services
+- Corning preferred installer -> /, /services
+- Milestone video pioneer -> /, /services
 - NECA & IBEW Local 1547 affiliations -> /about
 - Safety Zone program -> /about
-- One integrated partner -> /, /about
+- NFPA 70B maintenance aligned to 2023 standard -> /services
+- Commercial solar turn-key -> /services
+- EV charging stations Level 2 and DC fast -> /services
+- Integrated partner for electrical and low-voltage -> /, /about
+- Built for Alaska conditions, codes, logistics -> /
+- Scale to staff large complex builds -> /
+- Trained certified craftspeople -> /about
+- One integrated partner -> /
+- Alaska's only Corning preferred installer -> /
+- Alaska's Milestone video pioneer -> /
+- BICSI-certified -> /
+- NFPA 70B -> /services
 </details>
 
 ---
@@ -142,29 +161,34 @@ The company emphasizes its Alaskan roots as a differentiator: 50-plus years of e
 **Old description:** Our custom magnet wire products designed to excel in your processes and applications for power and distribution.
 
 ## About
-Alconex Magnet Wire operates from Fort Wayne, Indiana, where it manufactures custom magnet wire and extrusion products for a global market. The company describes itself as American-owned and American-made, though it does not disclose a founding year or identify its founders by name. The business appears to be privately held and emphasizes domestic production.
+Alconex Magnet Wire operates from Fort Wayne, Indiana, where it manufactures custom magnet wire and extrusion products for a global market. The American-owned company specializes in continuous extrusion and wire wrapping of aluminum and copper alloys, producing bare and insulated wire in round, square, and rectangular profiles.
 
-The company specializes in continuous extrusion and wire wrapping, producing bare and insulated magnet wire in aluminum, copper, and their alloys. Shapes include round, square, and rectangular profiles, and custom aluminum extrusions are offered to customer specifications. Packaging options range from continuous spools and reel-less coils to straight lengths. Alconex states that no order quantity is too small or too large, fulfilling anything from a single reel to multiple truckloads.
+The company's capabilities cover the full range from single reels to multiple truckloads, with packaging options that include continuous spools, reel-less coils, and straight lengths. Its Fort Wayne facility extrudes custom aluminum shapes and supplies magnet wire used in electric vehicles, traction motors, alternators, electric motors, lifting magnets, and welders, as well as mechanical applications that do not require electrification.
 
-Alconex serves industries that rely on electromagnetic components, including electric vehicles, traction motors, alternators, and electric motors. Its wire products are also used in lifting magnets, welders, and other industrial machinery. The company additionally offers mechanical solutions for non-electrified applications.
+Alconex serves industries ranging from automotive electrification and industrial power equipment to general mechanical fabrication. Customers include manufacturers of electric vehicle drivetrains, industrial lifting magnets, welding equipment, and a variety of motor and alternator builders who rely on the company's quick-turn made-to-order lead times.
 
-Alconex differentiates itself by claiming the quickest made-to-order lead times in the industry, a responsive customer support team, and design flexibility—asserting that if a design can be put on a print, they can likely manufacture it. Its central Fort Wayne location is cited as advantageous for North American shipping, and the company highlights strong, trust-based partnerships with customers and suppliers.
+The company emphasizes responsive engineering support, design flexibility for any printable geometry, and a centrally located shipping point that reaches all of North America. Its stated mission is to innovate, produce, market, and deliver products that enable customers to serve a growing global market.
 
 ## Known for
 - Quickest made-to-order lead times in the industry
-- No minimum or maximum order quantity (one reel to multiple truckloads)
-- Specialized in continuous extrusion and wire wrapping
-- Design flexibility: if a design can be put on a print, they can likely manufacture it
-- Centrally located in Fort Wayne, Indiana for North American shipping
+- No minimum or maximum order quantity (from one reel to multiple truckloads)
+- Specialization in continuous extrusion and wire wrapping
+- Custom shaped aluminum extrusions available on request
+- Centrally located in Fort Wayne for North American shipping
 
 ## Capabilities
-- Continuous extrusion of aluminum and copper alloys
+- Magnet wire manufacturing (bare and insulated)
+- Aluminum and copper alloy extrusion
+- Continuous extrusion
 - Wire wrapping
-- Custom shaped extrusions (aluminum)
-- Bare and insulated magnet wire production
+- Custom shaped aluminum extrusions
 - Round, square, and rectangular wire profiles
-- Packaging: continuous spools, reel-less coils, straight lengths
-- Custom magnet wire manufacturing
+- Continuous spool packaging
+- Reel-less coil packaging
+- Straight length packaging
+- Design flexibility for custom geometries
+- Engineering and quoting support
+- Quick-turn made-to-order production
 
 ## Industries
 - Electric vehicles
@@ -173,8 +197,8 @@ Alconex differentiates itself by claiming the quickest made-to-order lead times 
 - Electric motors
 - Lifting magnets
 - Welders
-- Industrial machinery
-- Mechanical applications
+- Mechanical solutions
+- Power distribution
 
 ## Certifications
 - ISO 9001
@@ -187,18 +211,20 @@ Alconex differentiates itself by claiming the quickest made-to-order lead times 
 
 <details><summary>Sources</summary>
 
-- Company name Alconex Magnet Wire -> db
-- Headquarters Fort Wayne, Indiana -> db, /
-- Manufactures in Fort Wayne, Indiana -> /
-- Products: custom magnet wire, aluminum and copper, round/square/rectangular -> /
-- Capabilities: extrusion of aluminum and copper alloys, continuous extrusion, wire wrapping -> /
-- Industries: electric vehicles, traction motors, alternators, electric motors, lifting magnets, welders -> /
+- Headquarters in Fort Wayne, Indiana -> /
+- Manufactures custom magnet wire and extrusion products -> /
+- American-owned, American-made -> /
+- Specializes in continuous extrusion and wire wrapping of aluminum and copper alloys -> /
+- Produces bare and insulated wire in round, square, rectangular shapes -> /
+- Offers custom shaped aluminum extrusions -> /
+- No quantity too small or too big, from one reel to multiple truckloads -> /
+- Packaging: continuous spools, reel-less coils, straight lengths -> /
+- Serves electric vehicles, traction motors, alternators, electric motors, lifting magnets, welders, mechanical solutions -> /
+- Claims quickest made-to-order lead times in the industry -> /
+- Centrally located for North American shipping, global customers -> /
+- Mission: innovate, produce, market, deliver products for growing global market -> /about
 - Certifications: ISO9001, ROHS -> db
-- Lead time claim: quickest made-to-order lead times -> /
-- Volume: one reel to multiple truckloads -> /
-- Ownership: American Owned, American Made -> /
-- Mission statement: innovate, produce, market, deliver products -> /about
-- LinkedIn URL -> db
+- LinkedIn: Alconex Specialty Products Inc. -> db
 </details>
 
 ---
@@ -208,61 +234,71 @@ Alconex differentiates itself by claiming the quickest made-to-order lead times 
 **Old description:** Alert Tech SMT Offers Trusted Electronics Manufacturing Services for High-Performance Products
 
 ## About
-Alert Tech SMT is an electronics contract manufacturer based in Webster, Texas. The company began as a retail technology business before pivoting to in-house manufacturing to meet demand for scalable, customized production runs. No founding year or ownership details are disclosed.
+Alert Tech SMT is an electronics contract manufacturer based in Webster, Texas. The company began as a retail technology business before pivoting to full‑stack contract manufacturing to meet demand for scalable, customized PCB assembly runs.
 
-The firm specializes in turnkey printed circuit board assembly, surface mount technology, full box builds, new product introduction, and prototyping. Its U.S.-based production facility handles PCB fabrication, cable harness assembly, enclosure modification, functional testing, flying-probe inspection, RF performance verification, and repair services including obsolescence management and board refurbishing. The company supports prototype through volume production but does not publish facility size, headcount, or annual volume figures.
+The company provides full‑service surface‑mount technology (SMT) assembly and turnkey printed circuit board assembly, including component sourcing, PCB fabrication, cable harness and box‑build integration, new‑product introduction (NPI) and prototyping, and a range of in‑house testing (functional, flying‑probe, RF, optical inspection) and repair services. Production spans prototype through volume runs, supported by equipment such as a TAKAYA flying‑probe tester, 3D printers and CO₂ lasers.
 
-Alert Tech serves customers in telecommunications, industrial technology, robotics and drones, military and defense, energy, aerospace, medical devices, and oil and gas. Its client base includes established companies, startups, and federal agencies seeking a single point of contact for sourcing, development, fabrication, and delivery.
+Alert Tech serves customers in telecommunications, industrial technology, robotics and drones, military and defense, energy, aerospace, and medical devices. Testimonials cite clients in industrial technology and oil and gas, and the company notes work with federal agencies and firms in aerospace and energy.
 
-The company emphasizes a fully in-house, streamlined process backed by 33-plus years of global sourcing experience, ISO 9001:2015 certification, and IPC-A-610 Class 3 workmanship standards. It differentiates itself through service-driven support, proactive communication, and integrated design-for-manufacturability reviews.
+The firm was created to address the difficulty of obtaining scalable, customized electronics runs by bringing production in‑house and offering a single‑point‑of‑contact model. It emphasizes a service‑driven approach with proactive communication, a quality management system certified to ISO 9001:2015, and a goal of zero item failures.
 
 ## Known for
-- Fully in-house turnkey production from procurement through test
-- Single point of contact for sourcing, development, fabrication, and delivery
-- 33+ years of global sourcing experience with established supplier network
-- IPC-A-610 Class 3 certified workmanship
-- On-site TAKAYA flying probe testing and custom test fixture development
+- Single point of contact for sourcing, development, fabrication and delivery
+- In-house testing including flying-probe, functional, RF and optical inspection
+- Turnkey box‑build and system integration under one roof
+- ISO 9001:2015 and IPC‑A‑610 Class 3 certified quality system
+- Prototype to volume production with 3D printing and CO₂ laser support for NPI
 
 ## Capabilities
 - SMT component sourcing and procurement
 - PCB fabrication management
-- SMT assembly
+- Turnkey SMT assembly
 - Cable harness and point-to-point wiring
-- Sub-assembly integration
+- Sub-assembly
 - Enclosure modification and assembly
 - Final unit test (FUT)
 - Box build and system integration
 - Burn-in testing
-- Configure-to-order assembly
-- Design for manufacturability (DFM) review
+- Configure and build to order
+- Design for manufacturability (DFM)
 - Prototype and volume production
-- New product introduction (NPI) support
-- Design review and BOM/configuration control
+- New product introduction (NPI)
+- Design review
+- BOM and configuration control support
 - Stencil design
 - Integrated process development
+- Full-service documentation
 - Functional testing
 - Flying probe testing (TAKAYA)
 - Board and system-level testing
 - RF performance testing
-- Custom test fixture and software development
+- Custom test fixture and software implementation
 - Optical inspection
-- Compliance testing support
-- PCB repair and refurbishment (including FMEA, EOL/obsolescence management)
+- Compliance testing and support
+- Field service return and repair
+- End-of-life (EOL)/obsolescence management
+- Failure mode and effects analysis (FMEA)
+- Custom board refurbishing
+- 3D printing for fixtures and enclosures
+- CO₂ laser cutting/engraving
 
 ## Industries
 - Telecommunications
 - Industrial Technology
-- Robotics and Drones
-- Military and Defense
+- Robotics
+- Drones
+- Military
+- Defense
 - Energy
 - Aerospace
 - Medical Devices
 - Oil and Gas
+- Federal Government
 
 ## Equipment
 - TAKAYA Flying Probe Tester
-- 3D printers (for prototyping)
-- CO2 laser cutters (for prototyping)
+- 3D printers
+- CO₂ lasers
 
 ## Certifications
 - ISO 9001:2015
@@ -274,22 +310,16 @@ The company emphasizes a fully in-house, streamlined process backed by 33-plus y
 
 <details><summary>Sources</summary>
 
-- Headquarters in Webster, Texas -> db
-- ISO 9001 certification -> db
-- Industries served: Telecommunications, Industrial Technology, Robotics + Drones, Military + Defense, Energy, Aerospace, Medical Devices -> /
-- Testimonial mentions Oil + Gas industry -> /
-- Company began as retail technology company, pivoted to in-house manufacturing -> /about
-- Over 30 years technology development expertise -> /about
-- 33+ years global sourcing experience -> /capabilities
-- Fully in-house turnkey production process -> /
-- Single point of contact for sourcing through delivery -> /
-- IPC-A-610 Class 3 certified -> / (blog title)
-- TAKAYA Flying Probe Tester -> /capabilities
-- 3D printing and CO2 lasers for prototyping -> /about
-- Services: SMT assembly, PCB fabrication, box builds, NPI, prototyping, testing, repair -> /capabilities
-- Capabilities include cable harness, sub-assembly, enclosure modification, FUT, burn-in, DFM, design review, stencil design, flying probe, functional test, RF test, optical inspection, compliance test, repair, FMEA, EOL management, board refurbishing -> /capabilities
-- Quality management system complies with ISO 9001:2015 -> /about
-- No explicit founding year, ownership, founders, employee count, facility size, volume range, lead time, tolerances, CAGE code, min order, export compliance, languages, social links found in INPUT -> db
+- Headquarters: Webster, Texas -> db
+- Business description: full stack electronics contract manufacturer -> /
+- Origin: founded as retail technology company, pivoted to contract manufacturing -> /about
+- Capabilities: SMT assembly, PCB fabrication, box build, NPI, testing, repair -> /capabilities
+- Equipment: TAKAYA flying probe tester, 3D printing, CO2 lasers -> /capabilities, /about
+- Certifications: ISO 9001:2015, IPC-A-610 Class 3 -> /about, /
+- Industries served: telecommunications, industrial technology, robotics, drones, military, defense, energy, aerospace, medical devices -> /
+- Testimonial industries: industrial technology, oil and gas -> /
+- Quality objectives: zero item failures, <1% warranty cost, on-time delivery -> /about
+- Service model: single point of contact, proactive communication -> /, /about
 </details>
 
 ---
@@ -299,19 +329,19 @@ The company emphasizes a fully in-house, streamlined process backed by 33-plus y
 **Old description:** We are a family-owned business specializing in thermoformed packaging, including clamshells, blisters, trays, and custom paper solutions for the industrial, retail and medical markets.  It was founded in Appleton, Wisconsin in 1997, to resolve a common problem—the requirement of multiple vendors to successfully package a single product. Their innovative solution: a single source for all their clients’ packaging needs. Today, All About Packaging is known for its innovative approach to packaging, responsive and dedicated team, and unsurpassed quality.
 
 ## About
-All About Packaging Inc. was founded in 1997 in Appleton, Wisconsin, as a family-owned business. The founders set out to resolve a common problem—the requirement of multiple vendors to successfully package a single product—by offering a single source for all packaging needs.
+All About Packaging Inc. is a family-owned manufacturer of thermoformed packaging based in Appleton, Wisconsin. The company was founded in 1997 to solve a common problem: the need for multiple vendors to package a single product. Its founders established a single-source model covering design, engineering, manufacturing, and fulfillment.
 
-The company manufactures thermoformed packaging, including clamshells, blisters, trays, and custom paper solutions. In-house engineers collaborate on design and engineering, and rapid prototyping capabilities produce working prototypes in five to ten business days. The single-source model also covers fulfillment, distribution, and inventory management.
+The company produces clamshells, blisters, trays, and custom paper solutions for medical, retail, and industrial customers. In-house engineers collaborate on design, and the operation offers rapid prototyping and small-run capabilities alongside full-scale production. Services extend to fulfillment, distribution, and inventory management.
 
-All About Packaging serves industrial, retail, and medical markets. Its customer base includes Ideal Industries Inc., Innoware Inc., Johnsonville Sausage LLC, and Harley-Davidson Motor Company.
+Clients include Ideal Industries Inc., Innoware Inc., Johnsonville Sausage LLC, and Harley-Davidson Motor Company. The company serves the medical, retail, and industrial sectors, providing custom packaging for products ranging from candy bars to motorcycles.
 
-The company says its differentiation lies in its innovative approach, responsive team, and unsurpassed quality, backed by honors such as Wisconsin Manufacturer of the Year in 2003, Fox Cities Manufacturer of the Year, and recognition on the Inc. 5000 list of fastest-growing private companies.
+All About Packaging emphasizes its single-source approach, innovative design, and responsive service. It has earned recognition such as Wisconsin Manufacturer of the Year (2003), Inc. 5000 honors, and Fox Cities Manufacturer of the Year.
 
 ## Known for
-- Single-source model for design, manufacturing, fulfillment, and inventory management
-- Rapid prototyping delivering working prototypes in 5–10 business days
-- In-house design and engineering team
-- Family-owned and operated since 1997
+- Single-source model: design, engineering, manufacturing, fulfillment, distribution, inventory management
+- In-house engineering and design collaboration
+- Rapid prototyping and small-run production capabilities
+- Family-owned since 1997
 - Award-winning quality (Wisconsin Manufacturer of the Year 2003, Inc. 5000)
 
 ## Capabilities
@@ -320,17 +350,16 @@ The company says its differentiation lies in its innovative approach, responsive
 - Blister packaging
 - Tray packaging
 - Custom paper packaging
-- Design and engineering
 - Rapid prototyping
 - Small-run production
-- Fulfillment services
-- Distribution
+- In-house design and engineering
+- Fulfillment and distribution
 - Inventory management
 
 ## Industries
-- Industrial
-- Retail
 - Medical
+- Retail
+- Industrial
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -340,15 +369,14 @@ The company says its differentiation lies in its innovative approach, responsive
 
 <details><summary>Sources</summary>
 
-- Founded 1997 in Appleton, Wisconsin -> db
-- Family-owned business -> db
-- Specializes in thermoformed packaging (clamshells, blisters, trays, custom paper solutions) -> db
-- Serves industrial, retail, medical markets -> db
-- Single-source model including design, engineering, manufacturing, fulfillment, distribution, inventory management -> /
-- In-house engineers for design -> /
-- Rapid prototyping in 5-10 business days -> /
-- Customers: Ideal Industries Inc., Innoware Inc., Johnsonville Sausage LLC, Harley-Davidson Motor Company -> /
-- Awards: Wisconsin Manufacturer of the Year 2003, Inc. 5000, Fox Cities Manufacturer of the Year, American Graphic Design Awards -> /about-us
+- Family-owned thermoformed packaging manufacturer -> db
+- Founded in Appleton, Wisconsin in 1997 -> db
+- Single-source model covering design, engineering, manufacturing, fulfillment -> /about
+- Serves medical, retail, industrial markets -> /about
+- Rapid prototyping and small-run capabilities -> db
+- In-house engineering and design collaboration -> /about
+- Customers: Ideal Industries Inc., Innoware Inc., Johnsonville Sausage LLC, Harley-Davidson Motor Company -> /about
+- Awards: Wisconsin Manufacturer of the Year 2003, Inc. 5000, Fox Cities Manufacturer of the Year, American Graphic Design Awards -> /about
 </details>
 
 ---
@@ -358,43 +386,45 @@ The company says its differentiation lies in its innovative approach, responsive
 **Old description:** None
 
 ## About
-All American Electric, LLC was founded in 2005 in Greenwood, Delaware. The family-owned electrical service company was established by owners Trevor E., Joel E., and Bonnie E. to serve residents and businesses across the Delmarva Peninsula with licensed electrical work and backup power solutions.
+All American Electric, LLC is based in Greenwood, Delaware, and has served the Delmarva Peninsula since 2005. The family-owned business was founded by Trevor E., Joel E., and Bonnie E., who operate as owners and hands-on technicians. From its start, the company focused on residential and commercial electrical work across Delaware, Maryland, and the surrounding counties.
 
-The company provides a range of licensed electrical services including standby generator installation and maintenance for Generac and Kohler units, electrical panel upgrades, EV charger installation, wiring for new construction and pole barns, outlet and lighting installation, whole-house surge protection, and appliance hookups. The team includes master electricians and factory-trained generator technicians. Since inception, the firm has installed over 1,000 generators and operates across 14 counties in Delaware, Maryland, and Virginia.
+The company installs and maintains whole-home standby generators from Generac and Kohler, holding Dealer status for both brands. Its licensed electricians also handle electrical panel upgrades, EV charger installations, new-construction wiring, pole barn and outbuilding electrical systems, outlet and fixture installation, whole-house surge protection, and appliance hookups. The team has completed more than 1,000 generator installations and operates across 14 counties with a crew that includes master electricians and factory-trained generator technicians.
 
-Customers are primarily residential homeowners and commercial businesses throughout the Delmarva region. Project examples include whole-home standby generator installations in Lewes, DE; residential power installations in Dover, DE; and generator and solar integration work in Felton, DE. The company also handles electrical work for new construction, shops, and outbuildings.
+Customers range from homeowners in communities such as Lewes, Dover, and Felton to commercial clients and builders on new-construction projects. The company has wired Amish sheds, integrated generators with solar arrays, and provided panel upgrades for modern appliance loads. Both residential and small-business customers rely on the firm for emergency service and planned upgrades.
 
-All American Electric emphasizes its family-owned local presence, transparent pricing, and a 10-year warranty on standby generators. The firm positions itself as a Delmarva partner for backup power and electrical service, backed by factory-trained technicians and 24/7 emergency availability.
+All American Electric emphasizes its family-owned roots, transparent pricing, and a 10-year warranty on standby generators. Factory training on Generac and Kohler equipment, 24/7 emergency response, and a permitting-to-inspection workflow are cited as key differentiators.
 
 ## Known for
 - Family-owned since 2005
 - Factory-trained on Generac and Kohler equipment
-- Honest, transparent pricing with no hidden fees
+- Transparent, no-pressure pricing
 - 10-year warranty on standby generators
-- 24/7 emergency service availability
+- 24/7 emergency service
 
 ## Capabilities
-- Standby generator installation
+- Standby generator installation (Generac & Kohler)
 - Generator maintenance & repair
 - Electrical panel upgrades
-- EV charger installation
-- Wiring for new construction and pole barns
-- Wall outlet installation
+- EV charger installation (Level 2)
+- Residential & commercial wiring
+- Pole barn & outbuilding wiring
+- Outlet installation (standard, GFCI, USB)
 - Whole-house surge protection
 - Ceiling & exhaust fan installation
 - Light fixture installation
-- Home appliance installation
+- Appliance installation
+- Electrical troubleshooting & repair
+- Permitting & inspection handling
+- 24/7 emergency electrical service
 
 ## Industries
 - Residential
 - Commercial
 - Construction
 
-## Certifications
-- Generac Premier Dealer
-- Kohler Premier Dealer
-- Licensed in Delaware and Maryland
-- Factory-trained Generac and Kohler technicians
+## Equipment
+- Generac standby generator systems
+- Kohler standby generator systems
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -404,20 +434,21 @@ All American Electric emphasizes its family-owned local presence, transparent pr
 
 <details><summary>Sources</summary>
 
-- Founded 2005 in Greenwood, DE -> /about
+- Founded 2005 -> db
+- Headquarters Greenwood, Delaware -> db
 - Family-owned since 2005 -> /about
-- Owners: Trevor E., Joel E., Bonnie E. -> /about
-- Licensed in DE, MD, Delmarva Peninsula -> /
-- Generac & Kohler Premier Dealer -> /
 - 1000+ generators installed -> /
 - 14 counties served -> /
-- Services: generator install, panel upgrades, EV chargers, wiring, outlets, surge protection, fans, lighting, appliances -> /
-- Team includes master electrician, factory-trained techs -> /about
-- Residential and commercial customers -> /
-- Project examples: Lewes, Dover, Felton -> /
+- Licensed in DE & MD -> /
+- Factory-trained Generac & Kohler technicians -> /
+- Generac & Kohler Premier Dealer -> /
+- Services: generator install, panel upgrades, EV charger, wiring, etc. -> /
+- Lead time 1-2 days for generator install -> /about
+- Team members: Trevor E., Joel E., Bonnie E., etc. -> /about
+- 600+ 5-star reviews -> /
 - 10-year warranty on standby generators -> /about
 - 24/7 emergency service -> /about
-- Transparent pricing -> /about
+- Financing with Synchrony -> /
 </details>
 
 ---
@@ -427,29 +458,46 @@ All American Electric emphasizes its family-owned local presence, transparent pr
 **Old description:** The leading vendor of bakery equipment! All Bake Technologies Inc. is the gold standard in bakery equipment, sales, service and consultation.
 
 ## About
-All Bake Technologies Inc. was founded in 1994 in Tinton Falls, New Jersey. The company began as a specialist in bakery equipment and has served the industry for over three decades.
+All Bake Technologies Inc. has operated from Tinton Falls, New Jersey since its founding in 1994. The company positions itself as a specialist in bakery equipment, offering sales, service, and consultation to bakeries of all sizes.
 
-The company operates as a distributor and service provider for commercial bakery equipment. It supplies baking ovens, proofers, dough makeup equipment, spiral mixers, and a wide range of accessories from established manufacturers. In addition to equipment sales, All Bake Technologies provides OEM parts and factory‑trained service technicians for installation, maintenance, and repair. The firm serves bakeries of all sizes, from small retail shops and wholesalers to large industrial production facilities and commercial chains.
+The firm supplies a broad range of bakery machinery sourced from established manufacturers, including ovens, proofers, dough makeup equipment, spiral mixers, bread slicers, dough dividers, sheeters, and sanitation systems. It also provides OEM replacement parts and deploys factory-trained service technicians for installation, maintenance, and repair.
 
-Its customer base spans the bakery sector, including retail bakeries, wholesale operations, industrial production plants, and multi‑location chains. The company positions itself as a one‑stop shop for any equipment a bakery might need, covering categories such as bagel equipment, blast chillers, bread lines, cookie depositors, dough dividers, mixers, ovens, proofers, and sanitation systems.
+Its customer base spans the full spectrum of commercial baking: small retail bakeries, wholesale operations, large industrial production facilities, and national commercial chains. The company emphasizes that every bakery, regardless of scale, can source any equipment it needs through their one-stop shop.
 
-All Bake Technologies states that its mission is to deliver the highest return on investment through proven equipment solutions and outstanding customer service. The company emphasizes its long‑term relationships with equipment manufacturers and its commitment to supporting bakeries with reliable parts and technical expertise.
+The stated mission is to deliver the highest return on investment through proven equipment solutions and outstanding customer service, a philosophy that has guided the business for over three decades.
 
 ## Known for
-- Factory-trained service technicians
-- OEM parts availability
-- One-stop shop for bakery equipment
-- Proven equipment solutions
-- Outstanding customer service
+- OEM parts and factory-trained service technicians
+- One-stop shop for bakery equipment across all categories
+- Over 30 years of experience serving the baking industry
+- Proven equipment solutions from established manufacturers
+- Focus on outstanding customer service and ROI
 
 ## Capabilities
-- Bakery equipment sales
+- Equipment sales
 - Equipment service and repair
 - Technical consultation
 - OEM parts supply
+- Factory-trained service technicians
 
 ## Industries
 - Bakery
+
+## Equipment
+- Bagel equipment
+- Blast chillers and freezers
+- Bread lines and systems
+- Bread packaging equipment
+- Bread slicers
+- Ciabatta machines
+- Cookie depositors
+- Dough dividers and rounders
+- Dough sheeters
+- Mixers
+- Ovens
+- Proofers
+- Sanitation equipment
+- Water meters and chillers
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -459,13 +507,13 @@ All Bake Technologies states that its mission is to deliver the highest return o
 <details><summary>Sources</summary>
 
 - Founded 1994 -> db
-- Headquarters Tinton Falls, NJ -> db
-- Company is a bakery equipment vendor offering sales, service, consultation -> page /
-- Offers OEM parts and factory-trained service technicians -> page /
-- Serves small retailers, wholesalers, industrial productions, commercial chains -> page /
-- Mission: highest return on investment through proven equipment solutions and outstanding customer service -> page /
-- Equipment categories listed (mixers, ovens, proofers, etc.) -> page /
-- Company type inferred as distributor/reseller from description -> page /
+- Headquarters Tinton Falls, New Jersey -> db
+- Industry: Bakery -> db
+- Mission statement and customer types -> page /
+- Equipment categories offered -> page /
+- OEM parts and factory-trained technicians -> page /
+- One-stop shop positioning -> page /
+- Over 30 years experience -> page /
 </details>
 
 ---
@@ -475,65 +523,60 @@ All Bake Technologies states that its mission is to deliver the highest return o
 **Old description:** All Energy Solar was founded by brothers Michael and Brian Allen in 2009. Our constant growth is thanks to the hard work and dedication of our entire team.
 
 ## About
-All Energy Solar was founded in 2009 by brothers Michael and Brian Allen in Westfield, Massachusetts. The family-founded company began with a focus on bringing solar energy to homes and businesses across the Bay State and has since expanded its footprint across the Midwest and New England.
+All Energy Solar was founded in 2009 by brothers Michael and Brian Allen in Westfield, Massachusetts. The company began as a solar installation provider focused on helping property owners transition to clean energy.
 
-The firm provides turnkey solar installation services covering site assessment, custom system design, permitting, installation, and lifetime monitoring. Its crews handle residential rooftop arrays, commercial projects for office buildings, warehouses, retail spaces, and agricultural operations, as well as utility-scale solar farms for municipalities and energy developers. The company also offers engineering, procurement, and construction (EPC) services and ongoing operations and maintenance support.
+The firm delivers turnkey solar solutions for residential, commercial, and utility-scale projects. Its service scope covers site assessment, custom system design, permitting, installation, and lifetime monitoring. For larger developments, the team handles feasibility analysis, grid interconnection, and solar farm construction.
 
-All Energy Solar serves homeowners looking to reduce utility bills, businesses targeting lower operating costs and ESG goals, and public-sector or developer partners aiming to meet renewable-energy targets. In Massachusetts alone, the company has completed hundreds of installations, and it operates in Illinois, Iowa, Minnesota, Nebraska, New Hampshire, North Dakota, South Dakota, and Wisconsin.
+Customers include homeowners, businesses such as office buildings, warehouses, manufacturing facilities, retail spaces, agricultural operations, and nonprofits, as well as municipalities and energy developers seeking utility-scale installations. The company operates primarily across Massachusetts, navigating state-specific incentives like the SMART program and net metering.
 
-The company emphasizes its NABCEP-certified professionals and fully licensed contractors, custom-designed systems tailored to each property's architecture and energy profile, and end-to-end management of incentives such as the SMART program, net metering, and state and federal tax credits.
+All Energy Solar distinguishes itself through a staff that includes NABCEP-certified professionals and fully licensed contractors, emphasizing custom-designed systems rather than one-size-fits-all approaches. The founders started the business to provide a seamless, locally informed path to solar adoption, managing every detail from consultation to long-term support.
 
 ## Known for
-- NABCEP-certified professionals and fully licensed contractors
-- Custom-designed systems for each property's architecture and energy usage
-- Turnkey service from site assessment through lifetime monitoring
-- Expert navigation of SMART program, net metering, and tax incentives
-- Local experience across Massachusetts and eight other states
+- NABCEP-certified professionals on staff
+- Fully licensed contractors for all installations
+- Custom-designed systems tailored to each property
+- Turnkey service from site assessment to lifetime monitoring
+- Deep expertise in Massachusetts solar incentives (SMART, net metering, tax credits)
 
 ## Capabilities
+- Solar installation (residential, commercial, utility-scale)
 - Site assessment
 - Custom system design
 - Permitting
-- Solar installation
 - Lifetime monitoring
 - Feasibility analysis
-- Grid connection
-- EPC (Engineering, Procurement, Construction)
-- Operations & Maintenance
-- Roof replacement
-- Remove & reinstall
-- Solar consulting
+- Grid interconnection
+- Solar farm development
+- Solar incentive consulting
+- Net metering application assistance
+- SMART program enrollment
+- Tax credit processing
 
 ## Industries
 - Residential
 - Commercial
-- Industrial
+- Utility-scale solar
 - Agricultural
 - Nonprofit
 - Municipal
-- Utility-scale energy
-
-## Certifications
-- NABCEP
+- Energy development
+- Manufacturing
 
 ## Company details
 - **Company Type:** Installer / service company
 - **Founded:** 2009
-- **Ownership:** Family-founded (brothers Michael and Brian Allen)
 - **Headquarters:** Westfield, Massachusetts
 
 <details><summary>Sources</summary>
 
 - Founded in 2009 by brothers Michael and Brian Allen -> db
 - Headquartered in Westfield, Massachusetts -> db
-- Provides turnkey solar installation including site assessment, custom design, permitting, installation, lifetime monitoring -> /
-- Serves residential, commercial, and utility-scale customers -> /
-- Operates in Massachusetts, Illinois, Iowa, Minnesota, Nebraska, New Hampshire, North Dakota, South Dakota, Wisconsin -> /
-- Employs NABCEP-certified professionals and fully licensed contractors -> /
-- Offers EPC and Operations & Maintenance services -> /
-- Helps customers access SMART program, net metering, tax credits -> /
-- Completed hundreds of installations in Massachusetts -> /
-- Celebrating 15 years of helping people choose solar energy -> /
+- Provides residential, commercial, and utility-scale solar installation -> /
+- Offers turnkey services including site assessment, design, permitting, installation, monitoring -> /
+- Serves homeowners, businesses, municipalities, developers -> /
+- Employs NABCEP-certified professionals and licensed contractors -> /
+- Custom-designed solutions for each property -> /
+- Expertise in Massachusetts incentives (SMART program, net metering, tax credits) -> /
 </details>
 
 ---
@@ -543,28 +586,26 @@ The company emphasizes its NABCEP-certified professionals and fully licensed con
 **Old description:** All Original Foods Inc., a specialty and Italian food distributor was started in 1964 by Dewaine Carlson. He wanted to bring the highest quality, authentic pizza products to the South. He partnered with a New York based company and established Original Crispy Pizza Crust Company of Alabama. Through the years the name has changed, but the main focus of our business is building a partnership with our customers through quality products from all over the world, providing education and hands-on training and following the latest trends in the industry. We carry an extensive line of products that have been tested, compared and tasted in our test kitchen.
 
 ## About
-All Original Foods, Inc. was founded in 1964 in Bessemer, Alabama, by Dewaine Carlson. Carlson partnered with a New York-based company to establish the Original Crispy Pizza Crust Company of Alabama, aiming to bring authentic, high-quality pizza products to the Southern market. The business has since transitioned to second-generation family ownership and management.
+All Original Foods, Inc. is a specialty and Italian food distributor based in Bessemer, Alabama. The company was founded in 1964 by Dewaine Carlson, who aimed to bring authentic pizza products to the South. He partnered with a New York-based company to establish the Original Crispy Pizza Crust Company of Alabama. Today, the business remains under second-generation family ownership and management.
 
-The company operates as a specialty and Italian food distributor, sourcing products from around the world. Its offerings are evaluated in an on-site test kitchen where items are tested, compared, and tasted before being added to the catalog. All Original Foods also provides education and hands-on training to its customers and tracks industry trends. Through membership in Bellissimo Foods, a nationwide association of Italian food distributors, the company leverages collective buying power to access a broad selection of ingredients. It describes itself as the largest Italian food distributor in Alabama.
+The company distributes an extensive line of Italian and specialty food products sourced globally. It operates a test kitchen where products are tested, compared, and tasted before being offered to customers. All Original Foods also provides education and hands-on training to its clients. As a member of Bellissimo Foods, a nationwide association of Italian food distributors, it leverages collective buying power to access a broad selection of ingredients.
 
-The distributor serves foodservice operators, including pizzerias and restaurants, though specific customer segments are not detailed in public materials. Its focus is on building long-term partnerships through product quality and support services.
+The distributor serves foodservice operators, pizzerias, restaurants, and other businesses seeking authentic Italian ingredients across Alabama. Its customer base includes independent operators looking for quality products and culinary support.
 
-Carlson’s original goal—to supply the South with genuine pizza products—remains central to the company’s approach. Differentiators cited by the firm include its test kitchen, customer training programs, Bellissimo Foods membership, and family-owned continuity.
+The company emphasizes building partnerships through quality products, customer education, and staying current with industry trends. Its founding motivation was to fill a gap in the Southern market for authentic pizza products, and it continues to prioritize customer service and product quality.
 
 ## Known for
-- On-site test kitchen for product evaluation
-- Customer education and hands-on training programs
-- Membership in Bellissimo Foods buying group
-- Second-generation family ownership
-- Largest Italian food distributor in Alabama
+- Test kitchen for product evaluation
+- Hands-on training and education for customers
+- Member of Bellissimo Foods buying group
+- Second-generation family-owned
+- Largest Italian food distributor in Alabama (self-reported)
 
 ## Capabilities
 - Specialty food distribution
 - Italian food distribution
-- Product testing and tasting (test kitchen)
-- Customer education and training
-- Trend research and product sourcing
-- Supply chain management via Bellissimo Foods
+- Product testing and evaluation
+- Culinary training and education
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -574,16 +615,13 @@ Carlson’s original goal—to supply the South with genuine pizza products—re
 
 <details><summary>Sources</summary>
 
-- Founded 1964 by Dewaine Carlson -> db
-- Headquarters Bessemer, Alabama -> db
+- Founded in 1964 by Dewaine Carlson -> db, /
 - Second-generation family ownership -> /
-- Largest Italian food distributor in Alabama -> /
-- Member of Bellissimo Foods -> /
-- Test kitchen for product testing -> /
-- Education and hands-on training for customers -> /
-- Focus on partnership, quality products, following trends -> /
-- Company type: specialty and Italian food distributor -> db
-- Founder wanted to bring authentic pizza products to the South -> db
+- Largest Italian food distributor in Alabama (self-reported) -> /
+- Member of Bellissimo Foods buying group -> /
+- Test kitchen for product evaluation -> /
+- Provides education and hands-on training -> /
+- Headquarters in Bessemer, Alabama -> db, /
 </details>
 
 ---
@@ -593,35 +631,34 @@ Carlson’s original goal—to supply the South with genuine pizza products—re
 **Old description:** We don’t just sell sheet metal—we shape it to fit your needs. Our services include same-day custom fabrication, on-site roll-forming, and local delivery, ensuring your materials arrive exactly when and where you need them.
 
 ## About
-Based in El Paso, Texas, with a location in Las Cruces, New Mexico, All Precision Metals was founded in October 2008 as a family-owned and operated business. The company began when its owners, who had over seven years of sheet metal fabricating experience, recognized a pent-up demand for higher-quality roofing supplies amid a housing expansion in the El Paso area.
+All Precision Metals is a family-owned custom sheet metal shop headquartered in Las Cruces, New Mexico. The company was founded in October 2008 after its owners, who had spent over seven years in the sheet metal trade, identified a pent-up demand for higher-quality roofing supplies amid rapid housing growth in the El Paso region. The business began as a response to that need, focusing on fabricating sheet metal to each customer's specifications.
 
-The company operates as a custom sheet metal shop, offering same-day custom fabrication, in-shop and on-site roll-forming, cutting, bending, and ACM panel routing. Its product line includes concealed and exposed fastener roofing panels, metal siding, trim profiles, coping systems, gutters and downspouts, and structural steel components. All Precision Metals also stocks trim, flashings, and hardware, and provides local delivery and regional shipping across Texas, New Mexico, Arizona, Louisiana, and neighboring states.
+The shop produces a full range of metal roofing systems—including concealed and exposed fastener panels, metal siding, trim profiles, coping, gutter and downspout systems, and structural steel components—along with in-house ACM panel routing. Core services encompass same-day custom fabrication, on-site mobile roll-forming for long panels and gutters, cutting, bending, and local delivery across the Southwest. The facility also stocks trim, flashings, and hardware to support complete roofing packages.
 
-The shop serves residential, commercial, and industrial construction sectors, with a focus on roofing contractors, builders, and homeowners throughout the Greater Southwest, including El Paso, Las Cruces, Alamogordo, Silver City, Carlsbad, and Ruidoso.
+Primary customers are residential builders, commercial contractors, industrial projects, and roofing specialists throughout El Paso, Las Cruces, Alamogordo, Silver City, Carlsbad, and Ruidoso, with shipping extending to Texas, New Mexico, Arizona, Louisiana, and neighboring states. The company serves both large-scale developments and individual homeowners seeking custom metalwork.
 
-Founded to address a shortage of quality roofing supplies, All Precision Metals emphasizes unmatched customer service, fast turnaround, and the ability to fabricate custom parts on demand, reducing delays caused by supplier lead times. Its mobile roll-forming service brings panel fabrication directly to job sites, enabling exact-length panels with less waste.
+All Precision Metals emphasizes unmatched customer service, fast turnaround, free bids, and the ability to precisely fabricate custom items on demand—differentiators rooted in its founding mission to eliminate delays caused by ordering from distant suppliers.
 
 ## Known for
-- Fast turnaround
-- On-site roll-forming
+- Same-day custom fabrication
+- On-site mobile roll-forming
+- Local delivery across the Southwest
 - Free bids and estimates
-- Delivery throughout the Southwest
-- Exceptional customer support
+- In-house CNC routing for ACM panels
 
 ## Capabilities
-- Custom sheet metal fabrication
-- Roll-forming (in-shop and on-site)
-- Cutting and bending
-- ACM panel routing
+- Sheet metal fabrication
+- Custom metal fabrication
+- On-site roll-forming
+- Mobile roll-forming
+- Metal cutting
+- Metal bending
+- CNC routing (ACM panels)
 - Metal roofing panel fabrication
-- Metal siding fabrication
-- Trim and flashing fabrication
-- Coping system fabrication
 - Gutter and downspout fabrication
 - Structural steel fabrication
+- Trim and flashing fabrication
 - Local delivery
-- Regional shipping (Southwest)
-- Free estimates
 
 ## Industries
 - Residential construction
@@ -632,33 +669,31 @@ Founded to address a shortage of quality roofing supplies, All Precision Metals 
 - Homeowners
 
 ## Equipment
-- CNC router for ACM panels
+- CNC router
 - Mobile roll-forming equipment
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Founded:** 2008
 - **Ownership:** Family-owned
 - **Headquarters:** Las Cruces, New Mexico
 
 <details><summary>Sources</summary>
 
-- Family-owned and operated business -> /about
+- Family-owned and operated -> /about
 - Founded October 2008 -> /about
-- Owners had over seven years sheet metal experience -> /about
+- Headquarters Las Cruces, New Mexico -> db
 - Same-day custom fabrication -> /
-- On-site roll-forming (mobile) -> /
-- Cutting and bending services -> /
-- ACM panel systems in-house using router -> /
-- Product line: concealed/exposed fastener roofing, metal siding, trim, coping, gutters, structural steel -> /
-- Stocks trim, flashings, hardware -> /
-- Local delivery and regional shipping across TX, NM, AZ, LA -> /
-- Serves residential, commercial, industrial construction -> /
-- Customer types: roofing contractors, builders, homeowners -> /
-- Service area: El Paso, Las Cruces, Alamogordo, Silver City, Carlsbad, Ruidoso -> /
-- Differentiators: fast turnaround, on-site roll-forming, free bids, delivery, customer support -> /
-- Materials worked: stainless steel, brass, copper, aluminum, iron, steel -> /quality
-- Headquarters Las Cruces, NM -> db
+- On-site mobile roll-forming -> /
+- Local delivery throughout Southwest -> /
+- Metal roofing panels, standing seam, exposed fastener, concealed roof systems, metal siding, trim, coping, gutter & downspout, structural steel components, ACM panel systems -> /
+- Materials: stainless steel, brass, copper, aluminum, iron, steel -> /quality
+- Serves residential, commercial, industrial construction, roofing contractors, builders, homeowners -> /, /about
+- Ships across Texas, New Mexico, Arizona, Louisiana -> /, /about
+- Over 16 years experience -> /
+- Free bids and estimates -> /
+- In-house CNC router for ACM panels -> /
+- Mobile roll-forming service -> /
 </details>
 
 ---

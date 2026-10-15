@@ -3,81 +3,62 @@
 **Old description:** Our Delphos facility is located in Northwest Ohio and is the founding home of the Killbros brand. Purchased by Unverferth in 1993, this facility specializes in producing key components and assemblies for multiple product lines, including seed tenders, ATV sprayers, header transports and smaller grain carts. With a strong focus on precision machining, welding, and fabrication, the Delphos location manufacturers some of the highest quality agricultural machinery in the industry.
 
 ## About
-Unverferth Manufacturing Co., Inc. was founded in 1948 in Kalida, Ohio, by father-and-son duo Lawrence G. and Richard Unverferth. The pair started L.G. Unverferth Manufacturing with a loan backed by family war bonds, initially producing combine shucker control levers and soon after introducing bolt-on dual-wheel extensions for tractors. The company incorporated as Unverferth Mfg. Co., Inc. The business has remained family-owned and operated throughout its history.
+Unverferth Manufacturing Co., Inc. began in 1948 when Lawrence G. and Richard Unverferth launched L.G. Unverferth Manufacturing in Kalida, Ohio, with a family loan secured by war bonds. Their first products were combine shucker levers and a patented bolt‑on dual‑wheel extension that founded the company’s wheel‑system business. The firm remains family‑owned; its corporate headquarters are now in Casselton, North Dakota, while the Kalida campus handles design, engineering, fabrication, welding, powder coating and assembly.
 
-The company manufactures a broad line of agricultural equipment across four production sites in Kalida and Delphos, Ohio; Shell Rock, Iowa; and a fourth location. Core processes include precision machining, welding, fabrication, powder coating, and final assembly, supported by in-house product design and engineering. The product portfolio spans grain carts and wagons, header transports, seed tenders, fertilizer applicators, tillage tools, augers and conveyors, and agricultural dual, replacement, and specialty wheel systems. These products are sold under six brands — Blu-Jet, Brent, Orthman, Parker, Top Air, and Unverferth — through eight sales and distribution branches in the United States and Canada.
+Across four manufacturing plants, Unverferth produces grain carts and wagons (Brent, Parker), header transports, seed tenders (Seed Runner, Seed Pro), fertilizer applicators (Blu‑Jet, NutriMax), tillage tools (Orthman 1tRIPr, Rolling Harrow, Zone‑Builder), augers, conveyors and a full line of agricultural dual, replacement and specialty wheels. Eight sales and distribution branches in the U.S. and Canada support the six brands.
 
-Unverferth serves row-crop and livestock farmers, custom applicators, and agricultural retailers across North America. Its equipment is used in grain handling (Brent grain carts up to 1,500-bushel capacity), fertilizer application (Blu-Jet anhydrous ammonia and liquid applicators, Top Air sprayers with T-Tank design and steerable hitch), tillage (Orthman 1tRIPr strip-till, Rolling Harrow soil conditioner), and seed handling (Seed Runner bulk tenders, Parker Seed Chariot). The company also supplies replacement and dual-wheel systems for tractors and combines.
+Customers include row‑crop and livestock producers, custom applicators and agricultural retailers across North America. Blu‑Jet focuses on anhydrous ammonia and liquid fertilizer application; Brent leads high‑capacity grain carts; Orthman supplies strip‑till and toolbar systems; Top Air builds pull‑type and self‑propelled sprayers with T‑Tank and steerable‑hitch technology; and the Unverferth brand covers wheel systems, seed handling and tillage.
 
-Unverferth states its mission is to help the farming community become more efficient through innovation and quality manufacturing. The company emphasizes its patent portfolio — covering dual-wheel mounting systems, grain cart unloading augers, seed tender conveyors, and sprayer section-control technology — as a differentiator, along with the ability to control design, fabrication, and coating under one roof at its Kalida headquarters.
+The company was founded to mechanize beet thinning on the family farm and has expanded by acquiring complementary brands and patenting practical innovations — from the Circoloc dual‑wheel system to Air Command section control for spreaders. Unverferth cites in‑house control from design through assembly as key to product quality and farmer‑focused responsiveness.
 
 ## Known for
 - Family-owned and operated since 1948
 - Four manufacturing locations and eight sales/distribution branches across the U.S. and Canada
-- Six integrated brands (Blu-Jet, Brent, Orthman, Parker, Top Air, Unverferth) covering grain handling, fertilizer application, tillage, seeding, and wheel systems
-- In-house precision machining, welding, fabrication, powder coating, and assembly at the Kalida headquarters
-- Extensive patent portfolio on dual-wheel systems, grain carts, seed tenders, and sprayer technology
+- Six integrated brands (Blu‑Jet, Brent, Orthman, Parker, Top Air, Unverferth) covering the full crop cycle
+- In‑house product design, engineering, fabrication, welding, powder coating and assembly
+- Patented innovations in dual‑wheel systems, grain carts, seed tenders and section‑control technology
 
 ## Capabilities
+- Product design and engineering
 - Precision machining
-- Welding
 - Fabrication
+- Welding
 - Powder coating
 - Assembly
-- Product design and engineering
-- Manufacturing of grain carts and wagons
-- Manufacturing of header transports
-- Manufacturing of seed tenders
-- Manufacturing of fertilizer application equipment
-- Manufacturing of tillage equipment
-- Manufacturing of augers and conveyors
-- Manufacturing of agricultural dual and replacement wheel systems
-- Manufacturing of anhydrous ammonia applicators
-- Manufacturing of liquid fertilizer applicators
-- Manufacturing of sprayers
-- Manufacturing of strip-till tools
-- Manufacturing of soil conditioners
-- Manufacturing of running gears
-- Manufacturing of conveyor systems
+- Grain cart and wagon manufacturing
+- Header transport manufacturing
+- Seed tender manufacturing
+- Fertilizer applicator manufacturing
+- Tillage equipment manufacturing
+- Auger and conveyor manufacturing
+- Agricultural wheel system manufacturing
 
 ## Industries
 - Agriculture
-- Grain handling
+- Agricultural machinery
+- Spraying
 - Fertilizer application
 - Tillage
-- Spraying
+- Grain handling
 - Seed handling
-- Agricultural wheel systems
-
-## Equipment
-- T-Tank sprayer
-- Air Command™ Section Control System
-- Seed Runner bulk tender
-- X-Series grain carts
-- Brent Avalanche grain cart
-- Rolling Harrow soil conditioner
-- Culti-Planter tillage tool
-- Turn-Rite running gears
-- Circoloc dual wheel system
-- Ultra-Torque direct-axle duals
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1948
-- **Ownership:** family-owned
-- **Headquarters:** Kalida, OH
+- **Ownership:** Family-owned
+- **Headquarters:** Casselton, North Dakota
 
 <details><summary>Sources</summary>
 
 - Founded 1948 in Kalida, Ohio by Lawrence G. and Richard Unverferth -> /about-us
-- Family-owned and operated -> / (Our Company section)
-- Four manufacturing locations and eight sales/distribution branches across US and Canada -> / (Our Company section)
-- Six brands: Blu-Jet, Brent, Orthman, Parker, Top Air, Unverferth -> / (Our Brands section)
-- Processes: precision machining, welding, fabrication, powder coating, assembly, product design and engineering -> / (Kalida facility description)
-- Products: grain carts, wagons, header transports, seed tenders, fertilizer applicators, tillage tools, augers, conveyors, wheel systems -> / (Our Company section)
-- Industries served: grain handling, fertilizer application, tillage, spraying, seed handling -> / (Our Brands and industries_served)
-- Patent portfolio mentioned throughout history -> /about-us
-- Headquarters in Kalida, OH -> / (Kalida facility description)
+- Family-owned and operated -> /about-us
+- Corporate headquarters in Casselton, North Dakota -> db
+- Four manufacturing locations and eight sales/distribution branches across U.S. and Canada -> / (home page)
+- Six brands: Blu-Jet, Brent, Orthman, Parker, Top Air, Unverferth -> / (home page)
+- Product portfolio: grain carts, wagons, header transports, seed tenders, fertilizer applicators, tillage equipment, augers, conveyors, wheel systems -> /about-us
+- Processes: product design, engineering, fabrication, welding, powder coating, assembly -> /about-us (Kalida facility description)
+- Precision machining, welding, fabrication at Delphos facility -> description (db)
+- Industries: spraying industry -> industries_served
 - LinkedIn URL -> db
 </details>
 
@@ -88,32 +69,33 @@ Unverferth states its mission is to help the farming community become more effic
 **Old description:** Urschel is the world’s leading manufacturer of industrial food cutting machines, helping processors across the globe achieve precise, high-volume results. Our equipment is engineered to handle nearly any product — from fruits, vegetables, and potatoes to meat, cheese, baked goods, comitrol processing, and pet food. Whether you need perfect slices, uniform dices, fine purees, or controlled granulation, Urschel delivers reliable performance and unmatched quality.
 
 ## About
-Urschel Laboratories was founded in 1910 in Valparaiso, Indiana, by William E. Urschel, who invented the Gooseberry Snipper. The company, now headquartered in Chesterton, Indiana, became 100% employee-owned through an ESOP on March 3, 2016, with Patrick Urschel serving as CEO.
+Urschel Laboratories was founded in 1910 in Valparaiso, Indiana, by William E. Urschel, who invented the Gooseberry Snipper to automate a labor-intensive hand process. The company relocated to Chesterton, Indiana, and remained a privately held family business for four generations until March 3, 2016, when the Urschel family sold the company to its employees through an Employee Stock Ownership Plan (ESOP), making it 100 percent employee-owned. Patrick Urschel serves as CEO.
 
-The company designs and builds industrial food cutting machines — dicers, slicers, shredders, and milling equipment — capable of slicing, dicing, strip cutting, shredding, granulating, milling, and pureeing a wide range of products from fruits and vegetables to meat, cheese, and pet food. Its product line includes models such as the Little Gem Aspire Dicer, M VersaPro Dicer, DiversaCut series, Sprint series, Affinity series, and Model M6. Urschel serves customers in over 130 countries and has operated across four generations.
+The company designs and manufactures industrial food cutting machines, including dicers, slicers, shredders, and milling equipment. Its product line performs slicing, dicing, strip cutting, shredding, granulating, milling, and pureeing for high-volume food processors. Current models include the Little Gem Aspire™ Dicer, M VersaPro® Dicer, DiversaCut 2110A® Dicer, Sprint 2® Dicer, and several Affinity® series dicers. Urschel also distributes KRONEN commercial processing systems in the U.S., Mexico, Pakistan, China, Italy, and across Asia.
 
-Its equipment is used by food processors worldwide for applications such as slicing potatoes, dicing tomatoes, shredding lettuce and cheese, pureeing nut milks and vegetables, milling nut butters, and processing meat and poultry. The machines serve the broader food processing industry, including fruit, vegetable, potato, meat, cheese, baked goods, and pet food segments.
+Urschel serves the food processing and allied industries, supplying equipment to processors of fruits, vegetables, potatoes, meat, cheese, baked goods, nut products, and pet food. Typical applications range from slicing potatoes and shredding lettuce to pureeing nut milks, milling nut butters, dicing tomatoes, and strip-cutting poultry. The company reports a presence in more than 130 countries.
 
-The company traces its competitive edge to its founding principle — a machine that could do the work of 100 workers in a day — and continues to invest in patented cutting technology through its Innovation & Development team. The employee-ownership model is cited as a driver of long-term commitment and product reliability.
+Urschel attributes its differentiation to its in-house Innovation & Development team, which develops patented cutting technologies through extensive R&D, and to its employee-ownership culture, which the company says aligns every team member with long-term customer success.
 
 ## Known for
 - 100% employee-owned (ESOP) since 2016
-- Patented Urschel cutting technology
-- Innovation & Development team driving R&D
-- Presence in 130+ countries
-- Four generations of continuous operation
+- Patented cutting technology developed by in-house Innovation & Development team
+- Global reach: 130+ countries served
+- Four generations of family leadership before ESOP conversion
+- Offers KRONEN commercial processing systems in key international markets
 
 ## Capabilities
-- Industrial food cutting machine manufacturing
-- Precision slicing
-- Precision dicing
+- Slicing
+- Dicing
 - Strip cutting
 - Shredding
 - Granulating
 - Milling
 - Pureeing
 - Comitrol processing
-- Research and development of cutting technology
+- Equipment manufacturing
+- Research and development
+- Global distribution and service
 
 ## Industries
 - Food processing
@@ -121,8 +103,9 @@ The company traces its competitive edge to its founding principle — a machine 
 - Potato processing
 - Meat processing
 - Cheese processing
-- Baked goods
-- Pet food processing
+- Bakery
+- Pet food manufacturing
+- Nut processing
 - Commercial food processing
 
 ## Equipment
@@ -136,6 +119,10 @@ The company traces its competitive edge to its founding principle — a machine 
 - Affinity® Integra-D Dicer
 - Affinity® CD-L Dicer
 - Model M6 Dicer
+- Dicers
+- Slicers
+- Shredders
+- Milling equipment
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -146,18 +133,18 @@ The company traces its competitive edge to its founding principle — a machine 
 <details><summary>Sources</summary>
 
 - Founded 1910 in Valparaiso, Indiana by William E. Urschel -> /
-- Headquarters Chesterton, Indiana -> db
-- 100% employee-owned ESOP since March 3, 2016 -> /
-- Patrick Urschel CEO -> /
-- 130+ countries worldwide -> /
-- 4 generations -> /
-- 110+ years in business -> /
+- Headquartered in Chesterton, Indiana -> db
+- 100% employee-owned via ESOP since March 3, 2016 -> /
+- Patrick Urschel is CEO -> /
 - Manufactures industrial food cutting machines (dicers, slicers, shredders, milling equipment) -> /
-- Product models: Little Gem Aspire Dicer, M VersaPro Dicer, DiversaCut 2110A, Sprint 2, DiversaCut Sprint, Affinity Dicer, Affinity Integra, Affinity Integra-D, Affinity CD-L, Model M6 -> /
-- Industries: food processing, fruit/vegetable, potato, meat, cheese, baked goods, pet food -> /
-- Applications: slice potatoes, dice tomatoes, shred lettuce, puree nut milks, mill nut butters, process meat/poultry -> /
-- Patented technology, Innovation & Development team -> /
-- KRONEN partnership expansion into Asia and Italy -> /
+- Processes: slicing, dicing, strip cutting, shredding, granulating, milling, pureeing, comitrol processing -> /
+- Product models: Little Gem Aspire Dicer, M VersaPro Dicer, DiversaCut 2110A Dicer, Sprint 2 Dicer, DiversaCut Sprint Dicer, Affinity Dicer, Affinity Integra Dicer, Affinity Integra-D Dicer, Affinity CD-L Dicer, Model M6 Dicer -> /
+- Serves 130+ countries worldwide -> /
+- Industries: food processing, fruit/vegetable, potato, meat, cheese, bakery, pet food, nut processing -> /
+- Distributes KRONEN commercial processing systems in U.S., Mexico, Pakistan, China, Italy, Asia -> /
+- Innovation & Development team develops patented technology -> /
+- Four generations of family ownership before ESOP -> /
+- Voted Best Place to Work three years in a row -> /
 </details>
 
 ---
@@ -167,43 +154,41 @@ The company traces its competitive edge to its founding principle — a machine 
 **Old description:** Utah Fabrication has fabricated steel components for a wide array of industries including but not limited to Municipalities, Mining, Energy and Transportation Sectors in the Western United States. As well as having shipped work internationally. Founded on the principle of delivering the best product at a
 
 ## About
-The company does not disclose its founding year or ownership structure in its public materials.
+The company does not publish a founding year or ownership structure in its public materials, and no founders are named.
 
-The shop provides custom steel fabrication, engineering, installation, and field services. Its certified welders work in MIG, TIG, and flux‑core processes, while CNC plasma cutting is handled on a Burn Table and an Inovatech 600 Beamline powered by Hypertherm. A dedicated blast‑and‑paint booth supports sand, soda, and hydro blasting plus epoxy, urethane, Irathane, and Duromar coatings. The detailing department produces BIM and CAD models using Tekla, Advanced Steel, and AutoCAD, drawing on over 50 years of combined senior‑designer experience. Field services are delivered through Tekko, Inc., the installation arm staffed by veterans with more than 100 years of heavy‑industrial construction background.
+The shop provides complete steel fabrication, from design and engineering through installation. Its AISC-, ASME- and AWS-certified welders perform MIG, TIG and flux-core welding. CNC plasma cutting runs on a Burn Table and an Inovatech 600 Beamline powered by Hypertherm. An on-site blast and paint booth handles sand, soda and hydro blasting plus epoxy, urethane, irathane and Duromar coatings. The detailing department works in BIM and CAD using Tekla, Advanced Steel and AutoCAD, with senior designers holding over 50 years of combined experience. Field services are delivered through Tekko, Inc., the company's installation arm, whose staff brings more than 100 years of heavy-industrial construction background in mining, power and oil & gas.
 
-Utah Fabrication serves municipalities, mining, energy, and transportation sectors across the western United States and has shipped work internationally. Its painting and coating crew focuses on power plants, mining, heavy industrial, and marine applications, while Tekko targets mining, power, and oil‑and‑gas markets.
+Utah Fabrication serves municipalities, mining operations, energy producers, transportation agencies, power plants, oil & gas facilities, heavy-industrial sites and marine projects across the western United States and has shipped work internationally.
 
-The company emphasizes integrity, accountability, and respect, stating it "inspects what it expects." Differentiators cited include AISC, ASME, and AWS‑certified welders; a NACE‑certified coatings engineer and HAZMAT technician on staff; all personnel MSHA and confined‑space trained; and a turnkey approach from design through field erection.
+The company states it was started to provide a "best in class" value product and service while ensuring a rewarding, safe workplace and acting as a benefit to its communities. Its stated values are integrity, accountability and respect, with an emphasis on inspecting what is expected.
 
 ## Known for
-- AISC, ASME, and AWS‑certified welders
-- NACE‑certified coatings engineer and HAZMAT technician
-- All staff MSHA and confined‑space trained
-- In‑house blast and paint booth with sand, soda, and hydro blasting
-- Turnkey projects via Tekko installation arm
+- AISC, ASME and AWS certified welders
+- CNC plasma cutting via Burn Table and Inovatech 600 Beamline (Hypertherm)
+- On-site blast and paint booth for sand, soda and hydro blasting
+- NACE Certified Coatings Engineer and HAZMAT Technician on staff
+- MSHA and Confined Space trained personnel
+- 50+ years combined detailing experience (Tekla, Advanced Steel, AutoCAD)
+- 100+ years construction background for field installation through Tekko, Inc.
 
 ## Capabilities
 - Structural steel fabrication
 - MIG welding
 - TIG welding
-- Flux‑core welding
+- Flux-core welding
 - CNC plasma cutting
-- Burn table cutting
-- Inovatech 600 Beamline cutting
-- Sandblasting
+- Sand blasting
 - Soda blasting
 - Hydro blasting
 - Epoxy coating
 - Urethane coating
-- Irathane coating
-- Duromar coating
-- BIM detailing
-- CAD detailing
+- Industrial specialty coatings (Irathanes, Duromar)
+- Structural steel detailing
+- BIM/CAD modeling
 - Tekla modeling
 - Advanced Steel modeling
 - AutoCAD drafting
-- Field installation
-- Heavy industrial construction
+- Field installation services
 - Turnkey project management
 
 ## Industries
@@ -212,42 +197,41 @@ The company emphasizes integrity, accountability, and respect, stating it "inspe
 - Energy
 - Transportation
 - Power generation
+- Oil & Gas
 - Heavy industrial
 - Marine
-- Oil and gas
 
 ## Equipment
 - Burn Table
-- Inovatech 600 Beamline powered by Hypertherm
+- Inovatech 600 Beamline Powered by Hypertherm
 - Blast and paint booth facility
 
 ## Certifications
-- ASME Stamps
-- AISC certified
-- AWS certified welders
-- NACE Certified Coatings Engineer
+- ASME
+- AISC
+- AWS
+- NACE
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Headquarters:** Tooele, Utah
 
 <details><summary>Sources</summary>
 
-- Location: Tooele, UT -> db (hq_city, hq_state_label) and page '/' (address)
-- Founded on principle of best product at reasonable price -> page '/'
-- Services: fabrication, engineering, installation, field services -> page '/'
-- Welding processes: MIG, TIG, flux core -> page '/'
-- Cutting equipment: Burn Table, Inovatech 600 Beamline Hypertherm -> page '/'
-- Finishing: sandblasting, epoxy, urethane coating -> page '/'
-- Design software: Tekla, Advanced Steel, AutoCAD -> page '/'
-- Senior designers 50+ years combined experience -> page '/'
-- Blast/paint booth on site; sand, soda, hydro blasting -> page '/'
-- Coatings: Epoxies, Urethanes, Irathanes, Duromar -> page '/'
-- Industries: municipalities, mining, energy, transportation, power plants, heavy industrial, marine, oil & gas -> page '/'
-- Certifications: ASME Stamps, AISC, AWS welders, NACE coatings engineer -> page '/' and db
-- Staff training: MSHA, confined space, HAZMAT -> page '/'
-- Tekko Inc. as installation arm with 100+ years construction background -> page '/'
-- Shipped internationally -> page '/'
+- Location: Tooele, Utah -> db
+- Founding principle: best product at reasonable price, strong work ethic -> /
+- Industries served: Municipalities, Mining, Energy, Transportation, Power, Oil & Gas, Heavy Industrial, Marine -> /
+- International shipping -> /
+- AISC, ASME, AWS certified welders -> /
+- Welding processes: MIG, TIG, flux core -> /
+- CNC plasma cutting: Burn Table, Inovatech 600 Beamline (Hypertherm) -> /
+- Finishing: sandblasting, epoxy, urethane coating -> /
+- Design/engineering: BIM/CAD, Tekla, Advanced Steel, AutoCAD, 50+ years combined experience -> /
+- Paint/sandblasting: on-site booth, sand/soda/hydro blasting, epoxies/urethanes/irathanes/Duromar -> /
+- NACE Certified Coatings Engineer, HAZMAT Technician -> /
+- Staff MSHA and Confined Space trained -> /
+- Field services via Tekko, Inc., 100+ years construction background -> /
+- ASME certification listed -> db
 - LinkedIn URL -> db
 </details>
 
@@ -258,34 +242,37 @@ The company emphasizes integrity, accountability, and respect, stating it "inspe
 **Old description:** Uzelac Industries was founded in 2003 by Michael Uzelac following the acquisition of Poja Sheetmetal, and later Duske Engineering in 2006. Drawing on decades of experience in manufacturing leadership, Michael launched the company with a focus on contract fabrication, which evolved into a specialized operation designing and manufacturing direct-fired rotary dryers.
 
 ## About
-Uzelac Industries was founded in 2003 by Michael Uzelac in Greendale, Wisconsin, after he acquired Poja Sheetmetal (established 1956) and later Duske Engineering (established 1980). The family-owned company began as a contract fabrication shop and evolved into a specialist in direct-fired rotary dryer design and manufacturing.
+Uzelac Industries was founded in 2003 by Michael Uzelac in Greendale, Wisconsin, after he acquired Poja Sheetmetal (established 1956) and later Duske Engineering (established 1980).
 
-The company engineers and builds custom direct-fired rotary drying systems, delivered factory-assembled for minimal on-site installation. It also provides turnkey fabrication services for large equipment OEMs, with capabilities that include brake bending, rolling, shearing, punching, MIG and TIG welding, and waterjet cutting. The plant houses a 25-ton crane bay and a 10-ton crane bay, each with 22.5 feet of clear hook height. The workforce consists of journeymen fabricators and engineers with over 40 years of experience in dryer design, and the firm holds several U.S. patents.
+The company designs and manufactures custom direct-fired rotary drying systems, each engineered to a customer’s specific process requirements. In addition to its core dryer line, Uzelac provides contract fabrication for large equipment OEMs, offering brake bending, rolling, shearing, punching, MIG/TIG welding, and waterjet cutting from a plant equipped with 25-ton and 10-ton crane bays. Its workforce consists of journeyman fabricators and engineers with 40-plus years of experience, and the firm holds several U.S. patents on dryer design.
 
-Uzelac serves the hemp, poultry, biomass, rendering, biosolids, and gasification industries. In poultry, it has supplied rotary drying systems to Herbruck’s Poultry Ranch, Michael Foods, Foster Farms, and Tyson for more than 30 years. Its drying systems are installed worldwide.
+Uzelac serves the hemp, poultry, biomass, rendering, biosolids, and gasification sectors. In poultry, it has supplied rotary dryers to Herbruck’s Poultry Ranch, Michael Foods, Foster Farms, and Tyson for over 30 years. Its systems also support anaerobic digestion and bioenergy projects worldwide, with installations across multiple countries.
 
-The business traces its roots to the craftsmanship of Poja Sheetmetal and the engineering of Duske Engineering, carrying forward core values of integrity, customer satisfaction, and innovation. Michael Uzelac launched the venture to combine those legacies into a single design-build manufacturer of rotary drying equipment.
+The business was built on the shared values of integrity, customer satisfaction, and innovation inherited from Industrial MetalFab Specialties and Duske Drying Systems. Michael Uzelac’s vision combined the craftsmanship of Poja Sheetmetal with Duske’s custom engineering to create a specialist in direct-fired rotary technology, a focus that remains central to the company’s identity today.
 
 ## Known for
-- Custom direct-fired rotary dryers designed per customer specifications
-- Factory-assembled dryers requiring minimal on-site installation
-- Over 40 years of combined rotary dryer manufacturing heritage
-- Several U.S. patents in dryer design
-- In-house fabrication with 25-ton and 10-ton crane bays
+- Custom direct-fired rotary dryers designed and built per customer specifications
+- Factory-assembled dryers requiring minimal installation or onsite assembly for larger systems
+- In-house fabrication capabilities including brake bending, rolling, shearing, punching, MIG/TIG welding, and waterjet cutting
+- Several U.S. patents on rotary dryer design
+- Family-owned with leadership transition to next generation
 
 ## Capabilities
 - Custom direct-fired rotary dryer design and manufacturing
+- Contract fabrication for large equipment OEMs
 - Turnkey equipment fabrication
-- Large equipment OEM fabrication services
 - Brake bending and rolling
 - Shearing and punching
 - MIG and TIG welding
 - Waterjet cutting
-- Stainless steel fabrication
-- Aluminum fabrication
-- HR/CR steel fabrication
-- Low quantity complex fabrication
-- Factory-assembled dryer installation
+- Custom fabrication
+- Low-quantity complex fabrication
+- Stainless steel fabrication and welding
+- Aluminum fabrication and welding
+- Hot-rolled and cold-rolled steel fabrication and welding
+- Factory-assembled rotary dryer systems
+- Onsite assembly for large dryer systems
+- Engineering design of customized drying systems
 
 ## Industries
 - Hemp
@@ -294,6 +281,8 @@ The business traces its roots to the craftsmanship of Poja Sheetmetal and the en
 - Rendering
 - Biosolids
 - Gasification
+- Anaerobic digestion
+- Bioenergy
 
 ## Equipment
 - 25-ton crane bay (22.5 ft clear under hook)
@@ -311,17 +300,21 @@ The business traces its roots to the craftsmanship of Poja Sheetmetal and the en
 
 <details><summary>Sources</summary>
 
-- Founded 2003 by Michael Uzelac after acquiring Poja Sheetmetal (1956) and Duske Engineering (1980) -> db
-- Family-owned, relocated to Pewaukee, Wisconsin in 2024 -> /
-- 17,100 sq ft facility with 25-ton and 10-ton crane bays -> /about
-- Custom direct-fired rotary dryer design and manufacturing -> /
-- Fabrication services: brake bending, rolling, shearing, punching, MIG/TIG welding, waterjet cutting -> /about
-- Journeymen fabricators and engineers with 40+ years experience -> /about
-- Several U.S. patents in dryer design -> /about
+- Founded 2003 by Michael Uzelac after acquiring Poja Sheetmetal and Duske Engineering -> /about
+- Family-owned, leadership transition to next generation -> /
+- Headquarters moved from Greendale to Pewaukee, Wisconsin -> /
+- Specializes in custom direct-fired rotary drying systems -> /
+- Provides fabrication services for large equipment OEMs -> /
+- Facility: 17,100 sq ft with 25-ton and 10-ton crane bays -> /about
+- Processes: brake bending, rolling, shearing, punching, MIG/TIG welding, waterjet cutting -> /about
+- Workforce: journeyman fabricators with 40+ years experience -> /about
+- Engineering staff with 40+ years experience custom-designing systems -> /about
+- Holds several U.S. patents on dryer design -> /about
 - Industries served: hemp, poultry, biomass, rendering, biosolids, gasification -> /
 - Poultry clients: Herbruck’s Poultry Ranch, Michael Foods, Foster Farms, Tyson -> /
-- Global installation base -> /about
+- Global installations -> /about
 - Core values: integrity, customer satisfaction, innovation -> /about
+- Predecessor companies: Industrial MetalFab Specialties (Poja, 1956) and Duske Drying Systems (Duske Engineering, 1980) -> /about
 </details>
 
 ---
@@ -331,60 +324,60 @@ The business traces its roots to the craftsmanship of Poja Sheetmetal and the en
 **Old description:** VESCO-NM manufactures state of the art proprietary Molecular Beam Epitaxy (MBE) systems and components as well as components for Metal Organic Chemical Vapor Deposition (MOCVD) systems. We specialize in MBE, MOCVD and semiconductor cleanroom tools decommissioning, decontamination and installations.
 
 ## About
-VESCO-NM is based in Albuquerque, New Mexico. The company was founded in 2009 by Dr. Abdel-Rahman EL-Emawy, who earned his Ph.D. from Colorado State University in 1996 with a dissertation on the growth of II/VI materials by MBE. After a career as an aircraft avionics engineer and a research professor at the University of New Mexico’s Center for High Technology Materials, Dr. El-Emawy established VESCO-NM to commercialize his expertise in MBE and MOCVD equipment.
+VESCO-NM is based in Albuquerque, New Mexico. The company was founded in 2009 by Dr. Abdel-Rahman El-Emawy, who earned his Ph.D. from Colorado State University in 1996 with a dissertation on II/VI material growth by MBE. After joining the Center for High Technology Materials at the University of New Mexico as a research professor, he led MBE and MOCVD programs for quantum dots, dilute nitrides, and spintronic materials. His earlier career included work as an aircraft avionics engineer and development of GaAs-based BiFETs for telecommunications. Dr. El-Emawy founded VESCO-NM to commercialize his expertise in epitaxial growth equipment.
 
-The company designs and manufactures proprietary Molecular Beam Epitaxy (MBE) systems—including the Ultima 310 model—and components such as valved crackers, effusion cells, RF plasma sources, and heaters. It also produces components for Metal Organic Chemical Vapor Deposition (MOCVD) systems. Beyond new equipment, VESCO-NM provides decommissioning, decontamination, installation, and refurbishment services for semiconductor cleanroom tools worldwide. Its Albuquerque facility houses a machine shop with CNC milling, CNC lathe, wire EDM, water jet, and welding stations, plus a clean room for assembly and testing and CAD workstations for design and simulation.
+The company designs and manufactures proprietary molecular beam epitaxy (MBE) systems—such as the Ultima 310—and a range of MBE components including valved crackers, effusion cells, RF plasma sources, and tantalum-wire heaters. It also produces components for metal organic chemical vapor deposition (MOCVD) systems. In addition to new equipment, VESCO-NM provides decommissioning, decontamination, refurbishment, and installation services for semiconductor cleanroom tools worldwide. Its Albuquerque facility houses a machine shop with CNC milling, CNC turning, wire EDM, water jet cutting, and welding stations, plus a cleanroom for assembly and testing and CAD workstations for design and simulation.
 
-VESCO-NM serves research facilities, universities, private industry, and government agencies across the globe, with over 300 customers served. Its equipment supports applications in semiconductor crystal growth, LED manufacturing, renewable energy, thin-film technologies, and consumer electronics. The company has worked with most existing MBE and MOCVD system platforms.
+VESCO-NM serves research institutions, universities, private industry, and government agencies across the globe. Its equipment supports applications in crystal growth, material deposition, LED manufacturing, renewable energy, thin-film technologies, and consumer electronics. The company reports more than 300 customers served worldwide.
 
-Dr. El-Emawy founded the business to deliver smart designs and the highest quality products at reasonable prices, backed by world‑class customer service and a commitment to meeting deadlines. The company emphasizes unique equipment designs that enable innovation in materials growth and deposition.
+The firm emphasizes four core values: quality in design and fabrication, value through reasonable pricing, customer service, and on-time delivery. It differentiates itself with proprietary source designs that achieve high flux uniformity, stability, and dissociation efficiency, all manufactured in-house under controlled conditions.
 
 ## Known for
 - Proprietary MBE system designs (e.g., Ultima 310)
-- Comprehensive decontamination and cleaning services for semiconductor tools
-- Global service footprint with 300+ customers served
-- In-house machine shop with CNC, EDM, water jet, and welding capabilities
-- Clean room assembly and testing facility
+- Valved crackers with high flux uniformity and stability
+- Effusion cells engineered for reliability and longevity
+- RF plasma sources with high dissociation efficiency for nitrides and oxides
+- In-house machine shop and cleanroom for fabrication and assembly
 
 ## Capabilities
-- Molecular Beam Epitaxy (MBE) systems manufacturing
-- MBE components manufacturing
-- MOCVD components manufacturing
-- Semiconductor cleanroom tools decommissioning
+- MBE system manufacturing
+- MBE component manufacturing
+- MOCVD component manufacturing
+- Semiconductor tool decommissioning
 - Decontamination and cleaning services
-- Installation of MBE & MOCVD systems
-- Refurbishment of MBE & MOCVD systems and components
-- Valved crackers manufacturing
-- Effusion cells manufacturing
-- RF plasma sources manufacturing
-- MBE heaters manufacturing
+- System installation
+- System refurbishment
 - CNC milling
-- CNC lathe
+- CNC turning
 - Wire EDM
 - Water jet cutting
 - Welding
-- Clean room assembly and testing
+- Cleanroom assembly
 - CAD design and simulation
 
 ## Industries
-- Semiconductor
-- Research facilities
-- Universities
+- Research and development
+- Higher education
 - Private industry
 - Government
 - LED manufacturing
 - Renewable energy
-- Thin-film technologies
+- Thin-film technology
 - Consumer electronics
 
 ## Equipment
-- CNC milling
-- CNC lathe
+- CNC milling machines
+- CNC lathes
 - Wire EDM
-- Water jet
+- Water jet cutter
 - Welding stations
-- Clean room
-- CAD software design workstations
+- Cleanroom assembly area
+- CAD design workstations
+- VESCO Ultima 310 MBE system
+- Valved crackers
+- High-temperature effusion cells
+- RF plasma sources
+- MBE heaters
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -393,18 +386,22 @@ Dr. El-Emawy founded the business to deliver smart designs and the highest quali
 
 <details><summary>Sources</summary>
 
-- Founded in 2009 by Dr. Abdel-Rahman EL-Emawy -> /about-us
-- Headquarters in Albuquerque, New Mexico -> /about-us, db
-- Manufactures proprietary MBE systems (Ultima 310) and components -> /, /about-us
+- Founded in 2009 by Dr. Abdel-Rahman El-Emawy -> /about-us
+- Headquartered in Albuquerque, New Mexico -> /about-us, db
+- Manufactures proprietary MBE systems and components -> /, /about-us
 - Produces MOCVD components -> /, /about-us
-- Provides decommissioning, decontamination, installation, refurbishment services -> /, /about-us
-- Facility includes machine shop with CNC milling, CNC lathe, wire EDM, water jet, welding stations -> /about-us
-- Facility includes clean room for assembly and testing -> /about-us
-- Uses CAD software design workstations -> /about-us
-- Serves research facilities, universities, private industry, government worldwide -> /about-us
-- Over 300 customers served worldwide -> /
+- Provides decommissioning, decontamination, refurbishment, installation services -> /, /about-us
+- Facility includes CNC milling, CNC lathe, wire EDM, water jet, welding, cleanroom, CAD workstations -> /about-us
+- Serves research institutions, universities, private industry, government -> /about-us
+- Applications: crystal growth, material deposition, LED manufacturing, renewable energy, thin-film technologies, consumer electronics -> /about-us
+- 300+ customers worldwide -> /
+- 40+ years of experience (collective) -> /
 - Core values: Quality, Value, Service, Delivery -> /about-us
-- Dr. El-Emawy background: aircraft avionics engineer, Ph.D. 1996, research professor at UNM CHTM -> /about-us
+- Products: Ultima 310 MBE system, valved crackers, effusion cells, RF plasma sources, MBE heaters -> /
+- Valved crackers used for Sb, Zn, Se, Cd, CdTe, Te, Mg -> /
+- High-temperature effusion cells for low vapor pressure materials 1500-2000°C -> /
+- RF plasma sources for nitrides and oxides -> /
+- MBE heaters from 0.040" OD tantalum wire -> /
 </details>
 
 ---
@@ -414,49 +411,50 @@ Dr. El-Emawy founded the business to deliver smart designs and the highest quali
 **Old description:** Do you have a unique application that requires a custom cable? Victor Wire & Cable specializes in manufacturing custom cable. We provide innovative, high quality custom cable solutions to meet your specific requirements.
 
 ## About
-Victor Wire & Cable was founded in 1954 in Los Angeles, California. For decades the company operated as a landmark in the city before relocating to a new facility in 2017. The business has remained focused on custom wire and cable manufacturing since its inception.
+Victor Wire & Cable was established in 1954 in Los Angeles, California, and has operated as a custom wire and cable manufacturer for over six decades. The company traces its roots to a Los Angeles landmark location and moved to a new facility in 2017.
 
-The company designs and manufactures custom wire and cable products, including multi-conductor, composite, and coaxial constructions. Its capabilities cover mil-spec, low-noise, UL-listed, and RG174 coaxial cables, as well as specialized cables for oil and gas, nuclear, robotics, travel, heater, and battery applications. Victor Wire & Cable also provides engineering assistance to develop custom sensor cables, outdoor data cables, and harsh-environment cables, supported by a full range of wire and cable manufacturing equipment.
+The company designs and manufactures custom wire and cable, specializing in multi-conductor, composite, and coaxial constructions. Its product range includes custom sensor cables, outdoor data cables, harsh-environment cables, Mil-Spec cables, low-noise cables, UL-listed cables, RG174 coaxial cables, and application-specific cables for oil and gas, nuclear, robotics, travel, heater, and battery applications. Victor Wire & Cable operates a full range of wire and cable manufacturing equipment and is UL-certified.
 
-Victor Wire & Cable serves customers in oil and gas, nuclear, robotics, and a broad range of industrial sectors. Its cables are used in applications such as sensor systems, data communications, and harsh-environment installations. The company works with clients who require custom cable solutions for unique or demanding requirements.
+Victor Wire & Cable serves industries including oil and gas, nuclear, robotics, travel, heating, and battery applications, providing custom cable solutions for demanding environments. The company also supports broader industrial applications with custom cable designs.
 
-Victor Wire & Cable emphasizes its more than 50 years of experience and its status as a UL-certified manufacturer. The company highlights its engineering support and ability to deliver custom cable solutions that meet exacting specifications, including mil-spec standards.
+The company emphasizes its engineering assistance, adherence to high quality standards, and UL certification as key differentiators, with over 50 years of experience in custom cable design and manufacturing.
 
 ## Known for
-- Over 50 years of custom wire and cable manufacturing experience
+- Over 50 years of custom cable design and manufacturing experience
 - UL-certified custom wire and cable manufacturer
-- Specializes in unique multi-conductor, composite, and coaxial cables
-- Provides engineering assistance for custom cable solutions
-- MIL SPEC certified
+- Specializes in multi-conductor, composite, and coaxial cables
+- Offers engineering assistance for custom cable solutions
+- MIL SPEC qualified
 
 ## Capabilities
-- Custom wire manufacturing
+- Custom cable design
 - Custom cable manufacturing
-- Mil-spec cable manufacturing
-- Low-noise cable manufacturing
-- UL-listed cable manufacturing
-- RG174 coaxial cable manufacturing
+- Mil-Spec cable production
+- Low-noise cable production
+- UL-listed cable production
+- Coaxial cable manufacturing (RG174)
 - Multi-conductor composite cable manufacturing
-- Oil and gas cable manufacturing
+- Harsh-environment cable manufacturing
+- Engineering assistance for cable solutions
+- Oil & gas cable manufacturing
 - Nuclear cable manufacturing
 - Robotics cable manufacturing
 - Travel cable manufacturing
 - Heater cable manufacturing
 - Battery cable manufacturing
-- Sensor cable manufacturing
-- Outdoor data cable manufacturing
-- Harsh environment cable manufacturing
-- Engineering assistance for custom cable design
 
 ## Industries
-- Oil and gas
+- Oil & Gas
 - Nuclear
 - Robotics
+- Travel
+- Heating
+- Battery
 - Industrial
 
 ## Certifications
 - MIL SPEC
-- UL certified
+- UL
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -467,15 +465,15 @@ Victor Wire & Cable emphasizes its more than 50 years of experience and its stat
 
 - Founded in 1954 -> /about-us
 - Headquartered in Los Angeles, California -> db
-- Relocated to new facility in 2017 -> /about-us
 - UL-certified custom wire and cable manufacturer -> /
-- MIL SPEC certification -> db
 - Specializes in multi-conductor, composite, and coaxial cables -> /about-us
-- Over 50 years of experience -> /about-us
-- Provides engineering assistance for custom cable solutions -> /about-us
-- Manufactures cables for oil and gas, nuclear, and robotics applications -> /
-- Produces custom sensor cables, outdoor data cables, and harsh environment cables -> /
-- Offers full range of wire and cable manufacturing equipment -> /
+- Over 50 years of experience -> /about-us, /
+- MIL SPEC capability -> db, /
+- Offers engineering assistance -> /about-us
+- Moved to new location in 2017 -> /about-us
+- Products include custom sensor cables, outdoor data cables, harsh environment cables -> /
+- Industries served: oil & gas, nuclear, robotics, travel, heating, battery -> /
+- Full range of wire and cable manufacturing equipment -> /
 </details>
 
 ---
@@ -485,36 +483,35 @@ Victor Wire & Cable emphasizes its more than 50 years of experience and its stat
 **Old description:** VRG Components® is a premier B2B sourcing partner for electronics manufacturers spanning a variety of industry groups worldwide.  We were founded in 2014 with the mission of supplying electronics manufacturers with high-quality, electronic components to maximize their production processes.  Today and every day, we live that mission.
 
 ## About
-VRG Components, Inc. was founded in 2014 in Matthews, North Carolina, as an independent worldwide distributor of electronic components. The company was established with the mission of supplying electronics manufacturers with high-quality components to maximize their production processes.
+VRG Components, Inc. was founded in 2014 in Matthews, North Carolina, with the mission of supplying electronics manufacturers with high-quality components to maximize their production processes. The company operates as an independent worldwide distributor of electronic components, semiconductors, and network components.
 
-The firm operates as a global sourcing partner for new, allocated, end-of-life, last-time-buy, and long-lead-time electronic components, semiconductors, and network components from over 500 manufacturers across more than 50 product lines. Its AS9120-certified quality processes support a catalog of over 50,000 available parts, backed by a multi-lingual sourcing team and exclusive access to global inventory.
+The distributor specializes in global sourcing services for new, allocated, end-of-life, last-time-buy, and long-lead-time electronic components from over 500 manufacturers across more than 50 product lines, with over 50,000 parts available. Its multi-lingual sourcing team leverages over 50 years of combined industry expertise to fill supply gaps for customers worldwide.
 
-VRG serves automotive tier 1–3 suppliers, electronic manufacturing services providers, and contract manufacturers, as well as medical device makers, transportation systems builders, machinery manufacturers, telecommunications firms, and consumer electronics producers. Customers turn to the company when primary suppliers cannot deliver shortage or obsolete parts.
+VRG serves automotive tier suppliers, electronic manufacturing services providers, and contract manufacturers, as well as medical device manufacturers, transportation systems builders, machinery manufacturers, and telecommunications and consumer electronics companies. Customers turn to the company when primary suppliers cannot deliver crucial components.
 
-The company distinguishes itself through AS9120 certification, a commitment to quote turnaround within 30 minutes, and a focus on solving supply-chain gaps that other distributors cannot fill. Its founders designed the business to be unlike typical suppliers, emphasizing speed, quality standards, and long-term relationships with customers and vendors worldwide.
+The company distinguishes itself through its AS9120-certified quality management system, a commitment to quote turnaround within 30 minutes, and a global inventory network that provides access to hard-to-find parts. It also holds authorized distributor status for brands such as wenglor sensoric, Lutronic, and Lumberg.
 
 ## Known for
-- AS9120 certified quality processes
-- Quotes turned around in 30 minutes or less
+- AS9120-certified quality management system
 - Multi-lingual sourcing team (German, Spanish)
-- Access to exclusive global inventory from 500+ manufacturers
-- Specializes in shortage, allocated, end-of-life, and long-lead-time components
+- Global sourcing network with 500+ manufacturers
+- Quote turnaround within 30 minutes
+- 50+ years combined industry expertise
 
 ## Capabilities
 - Global sourcing of electronic components
-- Authorized distribution for select manufacturers
-- Shortage and obsolete component sourcing
-- End-of-life and last-time-buy procurement
-- Long lead-time component mitigation
-- Quick quote turnaround (30 minutes)
+- Authorized distribution
+- Obsolete and end-of-life component sourcing
+- Long lead time component sourcing
 - Supply chain gap fulfillment
+- Fast quote turnaround (30 minutes)
 
 ## Industries
 - Automotive
 - Medical Electronics
-- Telecommunications
 - Transportation
 - Machinery
+- Telecommunications
 - Consumer Electronics
 
 ## Certifications
@@ -527,18 +524,17 @@ The company distinguishes itself through AS9120 certification, a commitment to q
 
 <details><summary>Sources</summary>
 
-- Founded 2014 -> db
-- Headquarters Matthews, North Carolina -> db
+- Founded in 2014 -> db
+- Headquarters in Matthews, North Carolina -> db
+- Independent worldwide distributor of electronic components, semiconductors, and network components -> /
+- Specializes in global sourcing for new, allocated, end-of-life, last-time-buy, and long-lead-time components -> /
+- Over 500 manufacturers, 50+ product lines, 50,000+ parts available -> /
+- 50+ years of combined industry expertise -> /
+- Multi-lingual team speaking German and Spanish -> /
 - AS9120 certified -> /
-- Independent worldwide distributor of electronic components, semiconductors, network components -> /
-- Global sourcing for new, allocated, end-of-life, LTB, long lead time components -> /
-- 500+ manufacturers, 50+ product lines, 50,000+ parts available -> /
-- Multi-lingual team (German, Spanish) -> /
-- Quick quotes within 30 minutes -> /
-- Industries: Automotive, Medical Electronics, Transportation, Machinery, Telecommunications, Consumer Electronics -> /
+- Serves automotive, medical electronics, transportation, machinery, telecommunications, consumer electronics -> /
 - Authorized distributor for wenglor sensoric, Lutronic, Lumberg -> /
-- Named Supply Chain Connect Top 50 Electronics Distributor 2024 -> /
-- Inc. 5000 honoree 2023 -> /
+- Quote turnaround within 30 minutes -> /
 </details>
 
 ---
@@ -548,42 +544,47 @@ The company distinguishes itself through AS9120 certification, a commitment to q
 **Old description:** As a central city in Silicon Valley, San Jose represents a vision of the future in electronics. Products that have revolutionized the world and moment-to-moment experiences as we know them have sprung from the minds of some of the most brilliant local design teams. Over the last half-century alone, its reputation has coalesced into a thriving and cutting–edge region, attracting people and businesses worldwide to tap into the success that permeates the area.
 
 ## About
-Valley Services Electronics (VSE), headquartered in San Jose, California, with a second facility in Reno, Nevada, has been realizing electronic designs for over 40 years. The company operates as a U.S.-based contract manufacturer serving design teams and supply chain departments across the technology sector.
+Valley Services Electronics (VSE) operates from San Jose, California, with a second facility in Reno, Nevada. The company has been providing printed circuit board assembly and electronics manufacturing services for over forty years, though a specific founding year is not disclosed. Ownership details and founder names are not publicly stated; the business presents itself as a U.S.-based contract manufacturer serving the Silicon Valley ecosystem.
 
-VSE provides end-to-end electronics manufacturing services, including PCBA design and engineering, printed circuit board assembly (from prototype through high-volume production), box build assembly, wire harness and cable assembly, and comprehensive testing such as in-circuit, functional, environmental, HIPOT, and X-ray inspection. The San Jose facility focuses on new product introduction (NPI) and quick-turn prototyping, while the Reno site handles larger production runs. The company emphasizes high-mix, low- to mid-volume builds with design-for-manufacturing and design-for-test support, backed by strategic sourcing and component authenticity controls.
+VSE delivers end-to-end electronics manufacturing, spanning PCBA design and engineering (including DFM/DFT support), prototype and low-volume assembly, high-mix mid-volume production, and full turnkey box-build and cable-harness integration. Its San Jose site focuses on new product introduction (NPI) and quick-turn prototypes, while the Reno facility handles higher-volume runs. The company also provides in-house testing — in-circuit, functional, environmental, HIPOT, and X-ray — along with strategic component procurement, supply-chain management, and obsolescence mitigation.
 
-The company serves industries including aerospace, biotechnology, telecommunications, semiconductor, medical devices, clean technology, automotive, renewable energy, and industrial equipment. Customers range from entrepreneurial teams launching first products to established firms requiring domestic manufacturing with regulatory compliance.
+The customer base spans aerospace, biotechnology, telecommunications, semiconductor, medical devices, clean technology, automotive, renewable energy, and industrial equipment sectors. VSE works directly with design teams, supply-chain departments, and original equipment manufacturers that require regulatory compliance (ITAR, ISO 13485) and domestic manufacturing for mission-critical applications.
 
-VSE’s stated differentiation rests on five pillars: scalable production with a boutique approach, supply chain resilience through domestic assembly and verified components, speed to market via streamlined handoffs and direct communication, secure transparent partnerships protecting intellectual property, and total quality compliance with IPC and ISO standards at every stage. The firm’s mission is to empower life-changing technologies worldwide by uniting engineering, design, assembly, and testing in a single streamlined process.
+The company emphasizes five operational pillars: scalable production with a boutique approach, supply-chain resilience through vertical integration and domestic assembly, speed to market via streamlined handoffs and direct communication, secure transparent partnerships protecting intellectual property, and total quality built around IPC and ISO standards. Its stated mission is to empower life-changing technologies worldwide by unifying engineering, assembly, and testing in a single streamlined process.
 
 ## Known for
-- Dual facilities: San Jose for NPI and quick-turn prototyping, Reno for high-volume production
-- High-mix, low- to mid-volume manufacturing with DFM/DFT support
-- Vertically integrated supply chain with domestic assembly and verified components
-- ISO 9001 and ISO 13485 registered, ITAR compliant, RoHS compliant
-- In-house testing: in-circuit, functional, environmental, HIPOT, and X-ray
+- Facilities in San Jose (NPI) and Reno (high-volume production)
+- Over 40 years of PCBA manufacturing experience
+- ISO 9001, ISO 13485, ITAR, and IPC 610 compliance
+- Vertically integrated supply chain with domestic assembly
+- Quick-turn prototyping and scalable low- to high-volume production
 
 ## Capabilities
-- PCBA design and engineering
-- PCB assembly (prototype, low-volume, high-volume)
-- Box build assembly
-- Wire harness and cable assembly
-- In-circuit testing
-- Functional testing
-- Environmental testing
-- HIPOT testing
-- X-ray inspection
-- Supply chain management and strategic sourcing
-- Component procurement and authenticity verification
-- DFM/DFT support
-- NPI (new product introduction) manufacturing
-- Turnkey assembly
-- Multilayer PCB fabrication
-- Rigid-flex PCB fabrication
-- HDI PCB fabrication
-- High-speed PCB design
-- Custom electronic enclosures
-- RoHS compliant manufacturing
+- PCBA Design Services
+- PCBA Engineering Services (DFM/DFT)
+- PCB Assembly (PCBA)
+- Low-Volume PCB Assembly
+- NPI (New Product Introduction) PCB Assembly
+- High-Volume PCB Assembly
+- Turnkey PCB Assembly
+- Box Build Assembly
+- Wire Harness & Cable Assembly
+- Custom Electronic Enclosures
+- In-Circuit Testing
+- Functional Testing
+- Environmental Testing
+- HIPOT Testing
+- X-Ray Inspection
+- PCB Prototyping
+- Supply Chain Management / Strategic Sourcing
+- Component Procurement
+- Obsolescence Management (Form Fit Function)
+- Multilayer PCBA
+- Rigid-Flex PCBA
+- HDI PCBA
+- High-Speed PCBA
+- RoHS Compliant Assembly
+- PCBA Service Bureau (schematic to board file)
 
 ## Industries
 - Aerospace
@@ -609,18 +610,15 @@ VSE’s stated differentiation rests on five pillars: scalable production with a
 
 <details><summary>Sources</summary>
 
-- Headquartered in San Jose, California with a second facility in Reno, Nevada -> /about
-- Over 40 years of experience realizing electronic designs -> /
-- Services: PCBA design and engineering, PCB assembly (prototype to high-volume), box build assembly, wire harness and cable assembly, testing (in-circuit, functional, environmental, HIPOT, X-ray) -> /services, /about
-- Industries served: aerospace, biotechnology, telecommunications, semiconductor, medical devices, clean technology, automotive, renewable energy, industrial equipment -> /
-- Certifications: ISO 9001, ISO 13485, ITAR, RoHS, IPC 610 compliance -> /services, certifications array
-- Mission: Empowering Life-Changing Technologies Worldwide; five pillars (scalable boutique production, supply chain resilience, speed to market, secure transparent partnership, total quality compliance) -> /about
-- High-mix, low- to mid-volume builds with DFM/DFT support -> /about
-- Domestic assembly, verified components, strategic sourcing -> /about
-- Turnkey assembly, NPI manufacturing -> /services
-- Custom electronic enclosures -> /services
-- Multilayer, rigid-flex, HDI, high-speed PCBA capabilities -> /
-- RoHS compliant manufacturing -> /
+- Headquarters in San Jose, CA and Reno, NV -> /about, /services
+- Over 40 years experience -> /, /services
+- Services: PCBA design, engineering, assembly, box build, cable assembly, testing, procurement -> /services, /about
+- Industries served: aerospace, biotech, telecom, semiconductor, medical, clean tech, automotive, renewable energy, industrial -> /, /about
+- Certifications: ISO 9001, ISO 13485, ITAR, RoHS, IPC 610 -> db, /services
+- Volume range: prototype to high-volume -> /about, /services
+- Company type: contract manufacturer -> /services
+- Mission and pillars: scalable boutique production, supply chain resilience, speed to market, secure partnership, total quality -> /about
+- No explicit founding year, founders, ownership tags, headcount, equipment, materials, lead time, tolerances, min order, cage code, languages, social links -> missing from INPUT
 </details>
 
 ---
@@ -630,20 +628,20 @@ VSE’s stated differentiation rests on five pillars: scalable production with a
 **Old description:** Valor Metal Works is a mission focused metal fabrication job shop and metal supplier which has proudly served the Kansas City area for over 25 years. We operate with precision, integrity, and a no-excuses commitment to quality and fast turnaround times.
 
 ## About
-Valor Metal Works operates from Olathe, Kansas, in the Kansas City metropolitan area. The company has served the region for over 25 years as a service-disabled veteran-owned and minority-owned small business; founders are not named in the source material.
+Valor Metal Works operates from Olathe, Kansas, and has served the Kansas City area for more than 25 years. The business is certified as a Service-Disabled Veteran-Owned Small Business (SDVOSB) and a Minority Business Enterprise (MBE). No founding year or founder names are disclosed.
 
-The 12,000-square-foot facility houses CNC machinery, certified welders, and a large inventory of stainless steel, galvanized steel, aluminum, and mild steel in sheet, plate, and extrusion forms. Services span welding, assembly, fabrication, CNC water jet cutting, press brake forming, painting, powder coating, laser engraving, part marking, shearing, cutting, and iron working, plus metal supply. The shop handles one-off custom projects through small and medium production runs.
+The 12,000-square-foot facility houses CNC machinery, certified welders, and a large inventory of stainless steel, galvanized steel, aluminum, and mild steel in sheet, plate, and extrusion forms. Core services include welding, assembly, fabrication, custom design assistance, precision CNC water jet cutting, press brake forming, painting, powder coating, laser engraving, part marking, shearing, cutting, and iron working. The shop handles one-off custom jobs through small and medium production runs and offers same-day service for walk-in customers.
 
-Customers include general contractors, government agencies, energy and utilities firms, food processing plants, manufacturing and OEM part producers, transportation companies, home builders and designers, and individual homeowners. The company notes it manufactures parts for some of the nation's largest companies while also serving walk-in customers with same-day service.
+Customers span general contractors, government agencies, energy and utilities, food processing, manufacturing and OEM parts, transportation, home builders and designers, and individual home owners. The company also supplies parts to some of the nation’s largest companies.
 
-The business was started to build a team grounded in expertise, dedication, and a commitment to exceptional quality in every project. Leadership emphasizes precision, integrity, and a no-excuses approach to quality and fast turnaround, with Lucious and Randall managing customer service.
+Valor Metal Works was started to build a team grounded in expertise, dedication, and a commitment to exceptional quality in every project. The company emphasizes precision, integrity, and a no-excuses approach to quality and fast turnaround.
 
 ## Known for
-- Same-day service on stocked parts
-- 12,000 sq ft facility with CNC machinery and certified welders
-- Large inventory of stainless, galvanized, aluminum, and mild steel
+- Same-day service for walk-in customers
+- 12,000 sq ft facility with CNC machinery, certified welders, and large metal inventory
 - SDVOSB and MBE certified
-- One-off to medium production runs
+- Handles one-off custom projects to medium production runs
+- Precision, integrity, and no-excuses commitment to quality and fast turnaround
 
 ## Capabilities
 - Welding
@@ -659,7 +657,7 @@ The business was started to build a team grounded in expertise, dedication, and 
 - Shearing
 - Cutting
 - Iron working
-- Metal supply
+- Metal supply (custom cuts, bulk orders)
 
 ## Industries
 - General Contractors
@@ -672,9 +670,8 @@ The business was started to build a team grounded in expertise, dedication, and 
 - Home Owners
 
 ## Equipment
-- CNC water jet cutting machine
+- CNC water jet cutter
 - Press brake
-- CNC machinery
 
 ## Certifications
 - SDVOSB (Service-Disabled Veteran-Owned Small Business)
@@ -682,22 +679,25 @@ The business was started to build a team grounded in expertise, dedication, and 
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
-- **Ownership:** Service-disabled veteran-owned, Minority-owned
+- **Ownership:** Service-disabled veteran-owned, Minority-owned, Small business
 - **Headquarters:** Olathe, Kansas
 
 <details><summary>Sources</summary>
 
 - Location: Olathe, Kansas -> db
-- Over 25 years in business -> /
+- Founded over 25 years ago -> /about-us
 - SDVOSB and MBE certified -> /about-us
-- 12,000 sq ft facility -> /
-- CNC machinery, certified welders, metal inventory -> /
-- Services: welding, assembly, fabrication, CNC water jet cutting, press brake forming, painting, powder coating, laser engraving, part marking, shearing, cutting, iron working, metal supply -> /services
+- 12,000 sq ft facility with CNC machinery, certified welders, large metal inventory -> /
+- Services: welding, assembly, fabrication, custom design assistance, CNC water jet cutting, press brake forming, painting, powder coating, laser engraving, part marking, shearing, cutting, iron working, metal supply -> /services, /
 - Industries served: General Contractors, Government, Energy & Utilities, Food Processing, Manufacturing & OEM Parts, Transportation, Home Builders & Designers, Home Owners -> /about-us
-- Materials: stainless steel, galvanized steel, aluminum, mild steel (sheet, plate, extrusion) -> /
-- Team: Lucious and Randall run customer service -> /about-us
-- Same-day service common -> /
-- One-off to medium production runs -> /
+- Same-day service common for walk-in customers -> /
+- Materials: stainless steel, galvanized steel, aluminum, mild steel in sheet, plate, extrusion -> /
+- Mission: precision, integrity, no-excuses commitment to quality and fast turnaround -> /
+- Founded on expertise, dedication, commitment to quality -> /about-us
+- Lucious and Randall run customer service -> /about-us
+- Equipment: CNC water jet, press brake -> /services
+- Certifications: SDVOSB, MBE -> /about-us
+- Ownership tags: Service-disabled veteran-owned, Minority-owned, Small business -> /about-us, db
 </details>
 
 ---
@@ -707,36 +707,31 @@ The business was started to build a team grounded in expertise, dedication, and 
 **Old description:** Since 1983, Vantec, Inc. has established itself as a leading global provider of plastic molded parts. Our reputation for innovation in quality custom injection molding is built on the core principle of prioritizing our customers’ needs. By consistently delivering top-quality products on time, we help our customers stay competitive, which is the hallmark of the Vantec difference. We believe that our success is tied to the success of our clients.
 
 ## About
-Vantec, Inc. was founded in 1983 in Webster City, Iowa. The company now operates as Vantec LLC and is part of the Angstrom Automotive Group, a vertically integrated manufacturing organization.
+Vantec, Inc., founded in 1983 and based in Webster City, Iowa, operates today as Vantec LLC under the Angstrom Automotive Group. The company began as a provider of custom plastic injection molded parts and has grown into a global supplier.
 
-Vantec specializes in custom plastic injection molding, offering design-for-manufacturability support, project management, and inventory management. The facility employs lean manufacturing principles and maintains advanced measurement equipment including coordinate measuring machines (CMM), optical measurement systems (OGP), spectrophotometers, and ash and density testing capabilities. Quality processes have been ISO registered since 1994.
+The company specializes in custom plastic injection molding, offering design-for-manufacturability support, lean manufacturing practices, and a quality management system registered to ISO standards since 1994. Its facility employs cellular work centers, shift-to-shift continuity protocols, and advanced measurement equipment including coordinate measuring machines (CMM), optical measurement systems (OGP), spectrophotometers, and ash and density testing capabilities.
 
-The company serves multiple market verticals, with a noted presence in the automotive sector through its affiliation with the Angstrom Automotive Group. Vantec emphasizes early collaboration with customers and suppliers to enhance value across the supply chain.
+Vantec serves a range of market verticals, with its affiliation with the Angstrom Automotive Group indicating a strong presence in the automotive sector. The company emphasizes early collaboration with customers and suppliers to enhance value-chain performance and build long-term partnerships.
 
-Vantec’s differentiation rests on a culture of continuous improvement, shift-to-shift continuity with illustrated work instructions, and a performance share plan tied to customer satisfaction, quality, and delivery metrics. The company states that its success is tied directly to the success of its clients.
+The Vantec difference is rooted in a lean enterprise culture that empowers employees to drive continuous improvement, standardize work, and reduce variability. Daily review of quality, delivery, and safety metrics, along with a performance share plan tied to customer satisfaction, underscores its focus on delivering parts on time and to specification.
 
 ## Known for
 - ISO registered since 1994
-- Lean enterprise culture with daily KPI reviews
-- Advanced measurement equipment (CMM, OGP, spectrophotometer)
-- Early involvement for design for manufacturability
+- Lean enterprise culture with daily KPI reviews (quality, delivery, safety)
+- Advanced in-house measurement lab (CMM, OGP, spectrophotometer, ash & density testing)
+- Early design-for-manufacturability engagement
 - Shift-to-shift continuity with illustrated work instructions
 
 ## Capabilities
 - Plastic injection molding
-- Custom injection molding
-- Design for manufacturability (DFM) support
+- Design for manufacturability (DFM)
+- Lean manufacturing
+- Quality management systems
 - Project management
 - Inventory management
-- Lean manufacturing
-- Quality management (ISO registered)
-- CMM inspection
-- OGP optical inspection
-- Spectrophotometer analysis
-- Ash and density testing
-
-## Industries
-- Automotive
+- Cellular manufacturing
+- Shift-to-shift continuity
+- Advanced measurement and inspection (CMM, OGP, spectrophotometer, ash & density testing)
 
 ## Equipment
 - CMM
@@ -745,7 +740,7 @@ Vantec’s differentiation rests on a culture of continuous improvement, shift-t
 - Ash & Density Testing Capability
 
 ## Certifications
-- ISO Registered (since 1994)
+- ISO registered since 1994
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -757,16 +752,16 @@ Vantec’s differentiation rests on a culture of continuous improvement, shift-t
 
 - Founded 1983 -> db
 - Headquarters Webster City, Iowa -> db
-- Part of Angstrom Automotive Group -> /
-- Custom plastic injection molding -> /
-- Design for manufacturability support -> /about
-- Lean enterprise culture -> /quality
+- Part of Angstrom Automotive Group -> /, /about
+- Custom plastic injection molding -> /, capabilities
 - ISO registered since 1994 -> /quality
-- Advanced measurement equipment (CMM, OGP, Spectrophotometer, Ash & Density Testing) -> /quality
+- Lean enterprise with daily KPI reviews -> /quality
+- Advanced measurement equipment: CMM, OGP, Spectrophotometer, Ash & Density Testing -> /quality
+- Design for manufacturability engagement -> /about
 - Shift-to-shift continuity with illustrated work instructions -> /quality
 - Performance share plan tied to customer satisfaction, quality, delivery -> /quality
-- Serves multiple market verticals -> /
-- Automotive industry via Angstrom Automotive Group -> /
+- Cellular work centers -> /quality
+- Serves many market verticals -> /, products
 </details>
 
 ---

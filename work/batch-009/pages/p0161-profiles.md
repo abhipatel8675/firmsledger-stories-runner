@@ -3,55 +3,52 @@
 **Old description:** Are you looking for top Arborist Services in Colorado Springs? A Noble Tree Company is an ISA Certified Arborist run, locally owned and operated company, with 14 years experience in the Colorado Springs and surrounding area. Experienced in everything from technical crane removals to shrub pruning, A Noble Tree Company specializes in the care of individual trees.
 
 ## About
-Colorado Springs Sawmill at Penrose operates from 240 3rd Street in Penrose, Colorado. The business is locally owned and operated, with craftsman Mitch the workshop. Founded on the principle of turning waste into value, the company's motto — 'from disaster to design' — reflects its start in repurposing dead and dying urban trees into usable lumber and finished goods.
+Colorado Springs Sawmill at Penrose operates from Penrose, Colorado, where it transforms locally sourced and imported wood into custom furniture, timber art, and live-edge slabs. The company's motto—“from disaster to design”—reflects its origins in urban milling, turning trees removed from properties into usable lumber and finished pieces. While the founding year and ownership structure are not publicly disclosed, the business is closely associated with craftsman Mitch, who is highlighted in customer testimonials for his pride in each piece.
 
-The sawmill produces custom furniture, timber art, fireplace mantels, benches, chairs, and tables, often incorporating metal accents. Core processes include urban milling of local logs, kiln drying using a Nyle System high-performance dry kiln that cuts drying time dramatically, and wood-and-metal fabrication. The shop also sells imported live-edge slabs and offers kiln-drying services to other woodworkers. Facility size, headcount, and production volumes are not publicly disclosed.
+The sawmill offers a range of woodworking services including furniture design, timber art, DIY furniture kits, imported live-edge slabs, and fireplace mantels. It also provides urban milling—processing logs on-site or at its facility—and kiln-drying services for hire. Complementing the woodworking side, the company runs arborist services such as technical crane removals and pruning, creating a vertical integration from tree removal to finished product. The facility at 240 3rd Street houses milling and drying equipment, though specific machine models and production volumes are not published.
 
-Customers range from homeowners seeking one-of-a-kind pieces for homes, cabins, and campgrounds to municipal and commercial clients needing arborist and forestry services. The company's arborist division, A Noble Tree Company, provides ISA-certified tree care — including technical crane removals and pruning — across the Colorado Springs area. Urban milling services target property owners and municipalities looking for sustainable alternatives to chipping or hauling logs.
+Customers include homeowners seeking custom pieces from their own trees, cabin and campground operators needing rustic furnishings, and woodworkers purchasing live-edge slabs for projects. The arborist services cater to residential and commercial property owners in the Colorado Springs region. Testimonials reference homes, cabins, and campgrounds as typical end-use settings.
 
-The operation distinguishes itself by offering a full chain from tree removal through kiln-dried lumber to finished furniture, all sourced locally. The Nyle kiln reduces wait times for furniture-grade slabs, while the ISA-certified arborist crew ensures professional tree care. The founder's emphasis on using 'everything we have right here where we are' underscores a hyper-local, waste-to-product model.
+The company differentiates itself by offering a closed-loop service: clients can have a tree removed, milled, dried, and crafted into furniture all through one provider. This “tree-to-table” approach, combined with the ability to work with a client’s own timber, creates a unique sentimental and sustainable value proposition.
 
 ## Known for
-- Nyle System kiln cuts drying time for furniture-grade slabs
-- Urban milling converts dead neighborhood trees into lumber
-- ISA Certified Arborist crew with 14 years' experience
-- Custom furniture built from clients' own trees
-- Locally owned and operated in Penrose, CO
+- Urban milling of local trees into lumber
+- Kiln-drying services available for hire
+- Integrated arborist and woodworking services
+- Custom furniture made from client’s own trees
 
 ## Capabilities
-- Custom furniture design
-- Timber art
-- Fireplace mantel fabrication
-- Urban milling
-- Kiln drying (Nyle System)
-- Arborist services
-- Forestry services
-- Live-edge slab sales
-- Wood and metal fabrication
+- Furniture Design
+- Timber Art
+- DIY Furniture
+- Imported live-Edge Slabs
+- Fireplace Mantels
+- Arborist Services
+- Urban Milling
+- Kiln for Hire
+
+## Industries
+- Arboriculture
+- Custom furniture manufacturing
+- Wood products
+- Live-edge slab distribution
 
 ## Equipment
-- Nyle System high-performance dry kiln
-
-## Certifications
-- ISA Certified Arborist
+- Kiln
 
 ## Company details
 - **Company Type:** Manufacturer
-- **Ownership:** Locally owned and operated
-- **Headquarters:** Penrose, CO
+- **Headquarters:** Penrose, Colorado
 
 <details><summary>Sources</summary>
 
-- Location: 240 3rd Street, Penrose, CO 81240 -> /
-- Craftsman Mitch mentioned in testimonials -> /
+- Location: Penrose, Colorado -> /
+- Address: 240 3rd Street, Penrose, CO 81240 -> /
+- Phone: (719) 428-5029 -> /
 - Motto: 'from disaster to design' -> /
-- Services: custom furniture design, urban milling, kiln for hire, arborist services, forestry services -> /services
-- Nyle System high-performance dry kiln -> /services
-- ISA Certified Arborist, 14 years experience, locally owned and operated (A Noble Tree Company) -> /services
-- Custom furniture, mantels, benches, chairs, tables -> /services, /
-- Imported live-edge slabs -> /
-- Wood and metal fabrication -> /services
-- Delivery offered -> /services
+- Services: Furniture Design, Timber Art, DIY Furniture, Imported live-Edge Slabs, Fireplace Mantels, Arborist Services, Urban Milling, Kiln for Hire -> /
+- Testimonials mention craftsman Mitch and custom pieces for homes, cabins, campgrounds -> /
+- Capability: Arborist Services -> db
 </details>
 
 ---
@@ -61,67 +58,62 @@ The operation distinguishes itself by offering a full chain from tree removal th
 **Old description:** Full home remodeling services supported by custom woodworking and carpentry. From kitchens and bathrooms to staircases and mudrooms, we design and build spaces that are meant to last. Not rushed, not generic.
 
 ## About
-Custom Works Inc. operates from Naperville, Illinois, where Serbian‑Macedonian founders Stefan and Melanie launched the business to blend Balkan woodworking heritage with Chicago‑area home remodeling. Stefan grew up in a small southern Serbian town learning carpentry alongside his grandfather, Dedo Stojan, while Melanie brought project‑management and interior‑design expertise. Together they built a husband‑and‑wife team focused on custom woodwork and full‑home renovations.
+Custom Works Inc. operates from Naperville, Illinois, where Serbian‑Macedonian couple Stefan and Melanie founded the company to blend Stefan’s carpentry heritage with Melanie’s project‑management expertise. Stefan grew up in a small town in southern Serbia, spending school holidays in his grandfather Stojan’s workshop, while Melanie brought a background in interior design and operations. Together they launched Custom Works as a vehicle for European‑inspired craftsmanship in the Chicago suburbs.
 
-The shop delivers full‑service remodeling backed by in‑house woodworking: kitchens, bathrooms, staircases, mudrooms, built‑ins, vanities, custom furniture, and outdoor structures such as decks and patios. Projects follow a four‑step process — consultation, design, fabrication (typically 8‑10 weeks), and installation — with the team handling everything from flooring and fireplace updates to media walls and basement rebuilds.
+The shop produces custom furniture, cabinetry, built‑ins, vanities, and one‑off wood pieces, and pairs that output with full‑service home remodeling—kitchens, bathrooms, staircases, mudrooms—and outdoor construction such as patios, decks, and custom exterior features. Projects move through a four‑step design‑build process: consultation, design approval, fabrication (with a typical 8‑10‑week lead time), and on‑site installation.
 
-Customers are residential owners across the Chicagoland suburbs. Recent work includes a basement flood restoration with a custom bar and media wall, a coffee table milled from a client’s own tree, a complete mudroom with built‑in storage, hardwood flooring throughout a home, and staircase and entertainment‑wall builds. The firm also tackles smaller jobs such as pantry shelving and bay‑window benches.
+The client base is residential homeowners across the Chicagoland area. Recent work includes a full basement rebuild after flood damage with a custom bar and media wall, a kitchen remodel that opened up the floor plan and added lighting, a sentimental coffee table milled from a family tree stored for a year, a mudroom with integrated storage, and an entertainment wall with custom TV stand and paneling.
 
-Custom Works positions itself against “fast furniture” by emphasizing pieces meant to last generations. The founders cite European‑rooted values — tradition, quality, integrity, sustainability — and pledge ethically sourced lumber. Clients repeatedly note transparent communication, realistic timelines, and a willingness to incorporate personal materials into one‑of‑a‑kind pieces.
+The founders frame the business around four stated values—sustainability, tradition, integrity, and quality—describing their approach as the “European way.” All lumber and materials are said to be ethically and responsibly sourced, and the goal is to create pieces that last for generations rather than follow fast‑furniture trends.
 
 ## Known for
-- Furniture built to last generations, not replaced yearly
 - Ethically and responsibly sourced wood and materials
-- European craftsmanship values: tradition, quality, integrity, sustainability
-- Transparent communication and realistic project timelines
-- Custom designs incorporating client’s own materials (e.g., family tree lumber)
+- Furniture designed to last for generations
+- European-inspired craftsmanship values (tradition, quality, integrity, sustainability)
+- Integrated design-build process with 8-10 week lead time
+- Transparent communication throughout project
 
 ## Capabilities
-- Full home remodeling
 - Custom woodworking
-- Carpentry
-- Custom furniture design and fabrication
-- Cabinetry (kitchen, bathroom, built-ins)
-- Vanity fabrication
-- Staircase construction and remodeling
-- Mudroom design and build
-- Outdoor construction (decks, patios)
-- Hardwood flooring installation
-- Custom built-ins and shelving
-- Fireplace surround updates
-- Wall paneling and media walls
-- Basement remodeling
-- Design consultation
+- Cabinetry
+- Built-ins
+- Vanities
+- Custom furniture
+- Full home remodeling
+- Kitchen remodeling
+- Bathroom remodeling
+- Staircase construction
+- Mudroom construction
+- Outdoor construction
+- Patio building
+- Deck building
+- Custom outdoor features
+- Design services
+- Installation
 - Project management
-- Installation services
 
 ## Industries
-- Residential home remodeling
-- Custom woodworking
-- Carpentry
+- Residential remodeling
+- Custom furniture
 - Cabinetry
-- Outdoor construction
+- Outdoor living
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
-- **Ownership:** Husband-and-wife founded
+- **Company Type:** Manufacturer
+- **Ownership:** Founder-owned (Stefan and Melanie)
 - **Headquarters:** Naperville, Illinois
 
 <details><summary>Sources</summary>
 
-- Naperville, Illinois headquarters -> db
-- Founders Stefan (CEO) and Melanie (Co-founder) -> /about
-- Stefan's carpentry background with grandfather in Serbia -> /about
-- Melanie's project management and interior design background -> /about
-- Full home remodeling services with custom woodworking -> /
-- Services: kitchens, bathrooms, staircases, mudrooms, built-ins, vanities, custom furniture, outdoor construction -> /
-- Four-step process: consultation, design, fabrication (8-10 weeks), installation -> /
-- Ethically and responsibly sourced wood and materials -> /about
-- Values: tradition, quality, integrity, sustainability (European way) -> /about
-- Residential clients in Chicagoland suburbs -> /
-- Example projects: basement remodel with bar/media wall, coffee table from client's tree, mudroom, hardwood flooring, staircase, entertainment wall, pantry shelving, bay-window bench -> /
-- Position against fast furniture; pieces made to last generations -> /about
-- Transparent communication and realistic timelines -> /
+- Location: Naperville, Illinois -> db
+- Founders: Stefan (CEO) and Melanie (Co-founder) -> /about
+- Founding story: Stefan's carpentry background in Serbia -> /about
+- Services: custom woodworking, cabinetry, full home remodeling, outdoor construction -> /
+- Process: 4-step design-build with 8-10 week lead time -> /
+- Values: sustainability, tradition, integrity, quality; ethically sourced materials -> /about
+- Client examples: basement remodel, kitchen remodel, custom coffee table, mudroom, entertainment wall -> /
+- Materials: ethically sourced wood -> /about
+- Lead time: 8-10 weeks for delivery -> /
 </details>
 
 ---
@@ -131,44 +123,39 @@ Custom Works positions itself against “fast furniture” by emphasizing pieces
 **Old description:** At Cut & Dry Lumber, our mission is to reduce green waste by giving second life to Albuquerque trees and inspire others to bring the story of our urban forest into homes, shops, and gathering spaces in our community.
 
 ## About
-Cut & Dry Lumber Company operates in Albuquerque, New Mexico, where it launched an urban sawmill in 2018. The business is family-owned, building on more than 40 years of experience in the local tree-service industry. The founders, a family team that includes Lionel, began by refusing to send tree material to landfills, instead giving it away as chips and firewood before formalizing the upcycling operation.
+Cut & Dry Lumber Company operates an urban sawmill in Albuquerque, New Mexico. The business was launched in 2018 by a family that had spent more than 40 years in the local tree-service industry, during which they consistently diverted tree material from landfills into wood chips and firewood. The sawmill formalized that practice by processing trees removed from the Albuquerque urban forest into usable lumber.
 
-The company produces live-edge slabs, custom-milled lumber, and made-to-order furnishings such as river tables, bar tops, benches, and desks. Its shop runs a Wood-Mizer LX 250 band mill capable of 54-inch-wide by 18-foot-long cuts, supplemented by a 24-inch planer, a 16-inch jointer, and a large sander for surfacing. All wood comes from Albuquerque’s urban forest—trees removed for instability, disease, or age—and is air-dried for up to two years in the desert climate before milling.
+The company produces live-edge slabs typically cut 2 inches thick with the natural edge intact, and offers custom milling, planing, and finishing services on its Wood-Mizer LX 250 band mill (54-inch capacity, 18-foot length), a 24-inch industrial planer, a 16-inch jointer, and a large sander. It also builds made-to-order furnishings such as river tables, bar tops, desks, benches, and charcuterie boards. All lumber is air-dried for up to two years — one year as logs, then six to eight months after milling — to stabilize the wood in the desert climate.
 
-Customers include interior designers seeking custom furnishings, woodworkers and DIYers buying raw slabs, and clients needing contract shop work for milling or finishing. The company cites projects ranging from charcuterie boards and mantles to large conference tables, and notes that its contract milling service accepts logs sourced elsewhere.
+Customers include interior designers, woodworkers, DIY enthusiasts, and anyone seeking custom furniture made from local species. The shop stocks slabs from Ash, Cottonwood, Cypress, Elm, Honey Locust, Juniper, Maple, Mulberry, Pine, Poplar, Russian Olive, and Sycamore, priced between $5 and $22 per board foot. It does not carry kiln-dried, treated, or structural lumber.
 
-The stated mission is to reduce green waste by giving a second life to Albuquerque’s trees and to build a tree-recycling culture in New Mexico. The owners frame the sawmill as a way to preserve the story of the urban forest in homes, shops, and gathering spaces.
+The venture was started to expand the tree-recycling culture in New Mexico, turning what would be waste into one-of-a-kind material that preserves a piece of Albuquerque’s urban forest in homes, shops, and gathering spaces.
 
 ## Known for
-- 100% sourced and crafted in Albuquerque
-- Urban-forest upcycling: only trees removed for instability, disease, or age
-- Wood-Mizer LX 250 band mill (54" x 18") with in-house planer, jointer, and sander
-- Air-drying cycle up to 2 years adapted to desert climate
-- No kiln-dried, treated, or structural lumber carried
+- 100% sourced and crafted in Albuquerque from urban-forest trees
+- Live-edge slabs cut 2" thick with natural edge intact
+- Custom milling, planing, and finishing on Wood-Mizer LX 250 band mill (54" x 18")
+- Made-to-order furnishings including river tables, bar tops, and charcuterie boards
 
 ## Capabilities
 - Live-edge slab production
 - Custom milling
 - Planing
-- Jointer work
-- Sanding
 - Finishing
-- Custom furniture fabrication
-- Epoxy river table fabrication
-- Contract milling
-- Log harvesting and processing
+- Made-to-order furnishings
+- Air drying of lumber
 
 ## Industries
 - Interior design
 - Woodworking
+- Furniture manufacturing
 - DIY/home improvement
-- Custom furniture
-- Contract manufacturing
+- Custom furnishings
 
 ## Equipment
 - Wood-Mizer LX 250 band mill
-- Industrial 24-inch planer
-- 16-inch jointer
+- Industrial 24" planer
+- 16" jointer
 - Large sander
 
 ## Company details
@@ -179,22 +166,15 @@ The stated mission is to reduce green waste by giving a second life to Albuquerq
 
 <details><summary>Sources</summary>
 
-- Founded 2018 -> /about
-- Family-owned -> /about
-- 40+ years in tree service -> /about
-- Urban sawmill started 2018 -> /about
-- Partnered with Baca's Trees -> /
-- Live-edge slabs, custom milling, furnishings -> /services
-- Wood-Mizer LX 250 band mill (54" x 18") -> /services
-- Industrial 24" planer, 16" jointer, large sander -> /services
-- Wood species list -> /services
-- Air-drying up to 2 years -> /services
-- No kiln-dried, treated, or structural lumber -> /services
-- Pricing $5-22 per board foot -> /services
-- Customers: interior designers, DIYers, woodworkers -> /
-- Contract shop work mentioned -> /
-- Mission: reduce green waste, build tree-recycling culture -> /about
-- Headquarters Albuquerque, New Mexico -> db
+- Founded 2018 by family with 40+ years in tree service -> /about
+- Urban sawmill processing Albuquerque trees -> /about, /
+- Equipment: Wood-Mizer LX 250, 24" planer, 16" jointer, large sander -> /services
+- Species list: Ash, Cottonwood, Cypress, Elm, Honey Locust, Juniper, Maple, Mulberry, Pine, Poplar, Russian Olive, Sycamore -> /services
+- Slabs 2" thick, natural edge, $5-22/bf -> /services
+- Air-dry timeline up to 2 years -> /services
+- Services: live-edge slabs, custom milling, made-to-order furnishings -> /services
+- Customer types: interior designers, woodworkers, DIYers -> /, /services
+- Mission: reduce green waste, build tree recycling culture -> /about, /
 </details>
 
 ---
@@ -204,34 +184,29 @@ The stated mission is to reduce green waste by giving a second life to Albuquerq
 **Old description:** is a privately held company seeking to become the highest quality provider of a full line of medical equipment and supplies. D&D Medical sells and rents medical equipment and supplies directly to residential living settings such as assisted living facilities and nursing facilities. We provide rehabilitation equipment, oxygen and respiratory equipment, support surfaces and a variety of other supplies and equipment.
 
 ## About
-D & D Medical Equipment operates from Cabot, Arkansas, as a privately held distributor of medical equipment and supplies. The company does not disclose its founding year or the names of its founders in its public materials, describing itself only as a privately held company seeking to become the highest quality provider of a full line of medical equipment and supplies.
+D & D Medical Equipment operates from Cabot, Arkansas, as a privately held distributor of medical equipment and supplies. The company was established to serve residential living settings, though its founding year and founders are not publicly disclosed.
 
-The firm sells and rents a full line of medical equipment directly to residential care settings. Its product range covers rehabilitation equipment, oxygen and respiratory devices, support surfaces, and a variety of other supplies. No facility size, headcount, or volume metrics are published, and the company does not list specific manufacturing processes or equipment.
+The firm sells and rents a range of medical products including rehabilitation equipment, oxygen and respiratory devices, support surfaces, and various other supplies. It functions as a direct supplier to care facilities rather than a manufacturer, maintaining an inventory for both purchase and rental arrangements.
 
-Primary customers include assisted living facilities and nursing facilities. The company positions itself as a supplier to the residential healthcare segment, focusing on facilities that require ongoing equipment procurement and rental management. It also serves broader residential living settings that need medical equipment and supplies.
+Primary customers are assisted living facilities and nursing facilities, which rely on the company for equipment that supports daily patient care and rehabilitation needs. The business model emphasizes direct relationships with these residential care providers.
 
-D & D Medical states its mission is to be the quality and service leader in medical equipment sales and rental. It emphasizes compliance with local, state, and federal regulations, and highlights personalized service delivered by a dedicated staff as a key differentiator. The company asserts that its flexibility and responsiveness enable it to exceed customer expectations.
+D & D Medical Equipment states its mission is to be a quality and service leader in medical equipment sales and rental, emphasizing compliance with local, state, and federal regulations while aiming to exceed industry standards through personalized service and a diverse product selection.
 
 ## Known for
-- Mission to be quality and service leader in medical equipment sales and rental
-- Personalized service through dedicated staff
-- Compliance with local, state, and federal regulations
-- Flexibility and responsiveness to customer needs
-- Diverse choice of quality products and services
+- Quality and service leadership focus
+- Diverse product selection for care facilities
+- Regulatory compliance across jurisdictions
+- Personalized service model
 
 ## Capabilities
 - Medical equipment sales
 - Medical equipment rental
-- Rehabilitation equipment supply
-- Oxygen and respiratory equipment supply
-- Support surfaces supply
 - Medical supplies distribution
 
 ## Industries
 - Assisted living facilities
 - Nursing facilities
 - Residential healthcare
-- Medical equipment and supplies
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -241,14 +216,12 @@ D & D Medical states its mission is to be the quality and service leader in medi
 <details><summary>Sources</summary>
 
 - Privately held company -> /about-us
-- Headquartered in Cabot, Arkansas -> db
-- Sells and rents medical equipment and supplies -> /
-- Serves assisted living facilities and nursing facilities -> /
-- Provides rehabilitation equipment, oxygen and respiratory equipment, support surfaces -> /
-- Mission to be Quality Leader and Service Leader in medical equipment sales & rental -> /about-us
-- Committed to superior personalized service through dedicated staff -> /about-us
-- Upholds industry standards, complies with local, state, federal regulations -> /about-us
-- Emphasizes flexibility and responsiveness -> /about-us
+- Located in Cabot, Arkansas -> db
+- Sells and rents medical equipment and supplies -> /about-us
+- Serves assisted living facilities and nursing facilities -> /about-us
+- Provides rehabilitation equipment, oxygen and respiratory equipment, support surfaces -> /about-us
+- Mission to be Quality Leader and Service Leader -> /about-us
+- Complies with local, state, federal regulations -> /about-us
 </details>
 
 ---
@@ -258,19 +231,20 @@ D & D Medical states its mission is to be the quality and service leader in medi
 **Old description:** As a family-owned cut and sew manufacturing company in Hawaii, we've proudly served our community for over 40 years, crafting high-quality apparel with local expertise and aloha spirit. From samples to full-scale production, we can help you bring your vision to life while supporting Hawaii's vibrant small business ecosystem. Choose us for your next project and help sustain local jobs, traditions, and island innovation—let's create something extraordinary together.
 
 ## About
-D&L Fashions Inc is a family-owned cut-and-sew manufacturing company based in Honolulu, Hawaii. The business has operated for more than 40 years, serving the local community with apparel production. No founding year or founder names are publicly disclosed.
+D&L Fashions Inc is a family-owned cut-and-sew manufacturing company based in Honolulu, Hawaii. The business has served the local community for over four decades, producing aloha wear and other apparel with island expertise.
 
-The company provides a range of garment production services, including pattern development, grading, sample creation, cutting, sewing, and full-scale production runs. Clients can submit a picture or drawing for pattern assistance, and the firm does not issue pricing until a sample is approved. The operation handles projects from prototype through mass production, though specific facility size, headcount, and volume capacity are not published.
+The company provides end-to-end apparel production services, including pattern development, sample creation, cutting, sewing, and full-scale manufacturing. Clients can bring a concept, sketch, or existing pattern, and D&L Fashions handles grading, prototyping, and volume production. The shop focuses on aloha wear and other locally made garments, using what it describes as top-of-the-line materials and production technologies.
 
-D&L Fashions primarily serves Hawaii-based businesses, producing aloha wear and other apparel for local brands. The company also connects customers with pattern makers and textile creators, positioning itself as a local supply-chain partner for small and medium-sized apparel ventures.
+D&L Fashions primarily serves Hawaii-based apparel brands and small businesses, producing aloha wear and other custom garments for local retailers and entrepreneurs. The company emphasizes keeping manufacturing in Hawaii and supporting the island's small business ecosystem.
 
-The firm emphasizes its role in keeping apparel manufacturing in Hawaii, citing local expertise and an “aloha spirit” as differentiators. It frames its mission as sustaining local jobs, traditions, and island innovation while helping clients scale their products.
+The business positions itself as a steward of local manufacturing, aiming to sustain Hawaiian jobs and traditions while helping clients bring products to market. Its founders express a commitment to keeping production on the islands rather than outsourcing.
 
 ## Known for
-- Family-owned and operated in Hawaii for over 40 years
-- Offers pattern development and sample creation before quoting
-- Provides cutting, sewing, and connections to pattern makers and textile creators
-- Focus on keeping apparel manufacturing in Hawaii
+- Family-owned cut-and-sew operation in Hawaii
+- Over 40 years of continuous community service
+- End-to-end production from pattern making to mass manufacturing
+- Locally made garments with high-quality materials
+- Commitment to keeping apparel manufacturing in Hawaii
 
 ## Capabilities
 - Cutting
@@ -278,29 +252,30 @@ The firm emphasizes its role in keeping apparel manufacturing in Hawaii, citing 
 - Pattern making
 - Pattern grading
 - Sample creation
-- Production scaling
-- Textile sourcing
+- Full-scale production
+- Textile sourcing assistance
 
 ## Industries
 - Apparel
 - Aloha wear
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Ownership:** Family-owned
 - **Headquarters:** Honolulu, Hawaii
 
 <details><summary>Sources</summary>
 
-- Family-owned cut and sew manufacturer in Hawaii -> /
-- Over 40 years of operation -> /, /about
-- Headquarters Honolulu, Hawaii -> db
-- Services: pattern making, grading, sample creation, cutting, sewing, production scaling -> /
-- No pricing until sample approved -> /
-- Produces aloha wear for local Hawaii businesses -> /about
-- Connects customers with pattern makers and textile creators -> /services
-- Locally made with top-of-the-line materials -> /services
-- LinkedIn URL -> db
+- Family-owned cut and sew manufacturing company in Hawaii -> /
+- Served community for over 40 years -> /
+- Located at 1631 Democrat Street, Honolulu -> /
+- Provides pattern making, grading, sample creation, cutting, sewing, full-scale production -> /
+- Produces aloha wear for local businesses in Hawaii -> /about
+- Wants to keep manufacturing in Hawaii -> /about
+- Offers cutting, sewing, pattern makers, textile creators -> /services
+- Products locally made with top-of-the-line materials -> /services
+- Headquarters: Honolulu, Hawaii -> db
+- Website: https://www.dandlfashions.com/ -> db
 </details>
 
 ---
@@ -310,22 +285,24 @@ The firm emphasizes its role in keeping apparel manufacturing in Hawaii, citing 
 **Old description:** The fabrication and polishing of stainless steel and aluminum has set DAD apart since 1980. Traditional stainless steel welding used to involve welding sheet material that w
 
 ## About
-DAD Manufacturing, Inc. is headquartered in Hiawatha, Iowa, with a second high-volume facility in nearby Lisbon. The company was founded in 1980 by Dave Dohrmann, who remains owner and sales manager, and it operates as a family-owned business. From the start, DAD focused on solving a persistent problem in stainless steel fabrication: heat distortion during welding that caused warping and loss of dimensional accuracy. The founders developed proprietary welding processes and fixturing techniques to maintain shape and hold tight tolerances on large weldments.
+DAD Manufacturing, Inc. was founded in 1980 in Hiawatha, Iowa, as a family-owned business specializing in stainless steel and aluminum fabrication. The company operates two facilities: its headquarters and stainless steel manufacturing plant in Hiawatha, and a high-volume manufacturing plant in Lisbon, Iowa.
 
-The company specializes in stainless steel and aluminum fabrication and polishing. Core processes include laser cutting (tube and flat), bending, rolling, machining, TIG/MIG/spot welding, forming, and polishing to 2B cosmetic, #4 sanitary, and #8 aesthetic finishes. Powder coating and mechanical, electrical, or manual assembly are also offered in-house. DAD reports 2,632,781 parts fabricated, 217,348 jobs completed, and a 99% on-time delivery rate across 536 customers served. Its two Iowa plants together provide prototype, pre-production, and high-volume capacity.
+The shop provides laser cutting (tube and flat), bending, rolling, machining, TIG/MIG/spot welding, polishing to 2B cosmetic, #4 sanitary, and #8 sanitary/aesthetic finishes, powder coating, and mechanical, electrical, or manual assembly.
 
-DAD serves food manufacturing, pharmaceutical manufacturing, appliance and furniture, wind power, transportation, and government sectors. Long-standing customers include a pharmaceutical equipment manufacturer with a 36-year relationship and an ultrasonic tank manufacturer with a 21-year relationship. Specific projects cited include coating pan tanks for food and pharma, wedge wire baskets for the corn industry, custom aluminum ladders for wind power, and staircase railings for government facilities.
+Customers span food manufacturing, pharmaceutical manufacturing, wind power, government, appliance and furniture, transportation, and corn processing. Concrete projects include coating pan tanks for food and pharmaceutical lines, custom aluminum ladders for wind turbines, staircase railings for government buildings, and stainless steel wedge wire baskets for corn handling.
 
-The company emphasizes its innovative welding and fixturing technology that enables statistically repeatable processes and tolerances of ±1 mm on weldments up to 10 feet long and 2,300 pounds. Hand polishing by experienced craftsmen achieves precise surface finishes. DAD attributes its differentiation to high quality, customer service, on-time delivery, consistency, tight tolerances, and family values cultivated over more than four decades.
+The company developed proprietary welding processes to prevent heat-induced warping and hold tolerances of ±1 mm on weldments up to 10 feet long and 2,300 pounds. Its differentiators include hand polishing to exact RA values, unique fixturing for statistical repeatability, and a reputation built on quality, consistency, and family values over four decades.
 
 ## Known for
 - Proprietary welding processes that prevent warping and hold ±1 mm tolerances on large weldments
-- Hand polishing to #4 sanitary and #8 aesthetic finishes with certified RA values
-- Fixturing technology for statistically repeatable production
+- Hand polishing to 2B cosmetic, #4 sanitary, and #8 sanitary/aesthetic finish standards
+- Unique fixturing technology for consistent, statistically repeatable production
 - 99% on-time delivery across 536 customers
-- Family-owned continuity with 40+ year customer relationships
+- Family-owned operation with 40+ years of continuous service
 
 ## Capabilities
+- Stainless steel fabrication
+- Aluminum fabrication
 - Laser cutting (tube and flat)
 - Bending
 - Rolling
@@ -333,22 +310,30 @@ The company emphasizes its innovative welding and fixturing technology that enab
 - TIG welding
 - MIG welding
 - Spot welding
-- Forming
-- Polishing (2B cosmetic, #4 sanitary, #8 aesthetic)
+- Polishing (2B cosmetic, #4 sanitary, #8 sanitary/aesthetic)
 - Powder coating
 - Mechanical assembly
 - Electrical assembly
 - Manual assembly
-- Fixturing design and build
+- Custom metal fabrication
+- Prototype fabrication
+- Pre-production runs
+- High-volume production
+- Fixturing design
+- Shot blasting
+- Mirror polishing
+- Grain finishing
+- Blast finishing
 
 ## Industries
 - Food manufacturing
 - Pharmaceutical manufacturing
-- Appliance and furniture
 - Wind power
-- Transportation
 - Government
-- Agricultural (corn processing)
+- Appliance & furniture
+- Transportation
+- Corn processing
+- Industrial product line manufacturing
 
 ## Certifications
 - ISO 9001:2015
@@ -361,16 +346,17 @@ The company emphasizes its innovative welding and fixturing technology that enab
 
 <details><summary>Sources</summary>
 
-- Headquarters in Hiawatha, Iowa; second plant in Lisbon, Iowa -> homepage
-- Founded 1980 by Dave Dohrmann; family-owned -> homepage
-- Proprietary welding processes to prevent warping and hold tight tolerances -> homepage
-- Processes: laser cutting, bending, rolling, machining, TIG/MIG/spot welding, forming, polishing, powder coating, assembly -> homepage
-- Scale: 2,632,781 parts fabricated, 217,348 jobs, 99% on-time, 536 customers -> homepage
-- Industries: food, pharma, appliance/furniture, wind power, transportation, government -> homepage
-- Customer examples: pharmaceutical equipment manufacturer (36-year), ultrasonic tank manufacturer (21-year) -> homepage
-- Tolerances: ±1 mm on weldments up to 10 ft, 2,300 lbs -> homepage
-- Certification: ISO 9001:2015 -> homepage
-- Materials: stainless steel, aluminum, copper -> homepage
+- Founded 1980 in Hiawatha, Iowa -> db
+- Family-owned company -> / (homepage)
+- Two plants: Hiawatha (HQ) and Lisbon (high-volume) -> / (homepage)
+- ISO 9001:2015 certified -> / (homepage)
+- Capabilities: laser cutting, bending, rolling, machining, TIG/MIG/spot welding, polishing, powder coating, assembly -> / (homepage)
+- 2.6M parts fabricated, 217K jobs, 99% on-time, 536 customers -> / (homepage)
+- Industries: food, pharmaceutical, wind power, government, appliance & furniture, transportation, corn -> / (homepage)
+- Tolerances: ±1 mm on 10 ft, 2,300 lb weldments -> / (homepage)
+- Proprietary welding processes to prevent warping -> / (homepage)
+- Hand polishing to 2B, #4, #8 finishes -> / (homepage)
+- Unique fixturing technology -> / (homepage)
 </details>
 
 ---
@@ -380,67 +366,45 @@ The company emphasizes its innovative welding and fixturing technology that enab
 **Old description:** Yes. We provide rapid medical device prototyping using additive manufacturing, precision machining, and in-house PCB assembly. This accelerates validation and helps you iterate designs before investing in full-scale production.
 
 ## About
-DEM Medical, based in Painesville, Ohio, operates as an FDA-registered contract manufacturer of Class I and Class II medical devices. The company was formed through the consolidation of Virtec Medical and Virtec Enterprises, bringing together domestic design, injection molding, electronics, and assembly under a single quality system.
+Based in Painesville, Ohio, DEM Medical (formerly Virtec Medical and Virtec Enterprises) operates as an FDA-registered contract manufacturer of Class I and Class II medical devices. The company maintains ISO 9001:2015 and ISO 13485:2016 certifications across its quality system, which covers design, injection molding, electronics, and assembly under one roof.
 
-The firm provides end-to-end medical device development, from concept creation and benchmarking through prototyping, validation, and conversion to high-volume production. Its in-house capabilities include additive manufacturing, precision machining, injection molding, printed circuit board assembly, custom cabling, and tooling design and fabrication. The company supports programs ranging from early-stage prototypes to medium-volume runs and full-scale production.
+DEM Medical provides end-to-end product realization from concept through commercialization. Its in-house capabilities include additive manufacturing and precision machining for rapid prototyping, printed circuit board assembly, custom cabling, tooling design and fabrication, and injection molding. The firm supports programs ranging from early-stage prototypes to medium-volume production runs, with flexible order quantities suited to startups and pilot programs.
 
-DEM Medical serves medical OEMs, startups, and pilot programs across a range of device categories. Past applications include homecare dialysis and monitoring systems, heated humidifiers, gastric calibration tubes, surgical tables, suction devices, laparoscopic surgical instruments, catheters, ventilatory devices, and laser therapy equipment. The company also supports diagnostic and monitoring equipment, surgical devices, and wearable or instrument-integrated designs.
+The company serves medical device OEMs across diagnostic, monitoring, surgical, and homecare segments. Documented project experience includes homecare dialysis and monitoring systems, heated humidifiers, gastric calibration tubes, surgical tables, suction devices, laparoscopic instruments, catheters, ventilatory devices, and laser therapy equipment. As devices become more connected, DEM also supports wearable and instrument-integrated designs.
 
-The company emphasizes a vertically integrated, U.S.-based model that keeps engineering, tooling, molding, and assembly within one ISO 13485:2016-certified quality system. This approach is intended to protect schedule and compliance during design transfer, offering customers a single accountable partner rather than a fragmented vendor chain. DEM Medical also provides FDA 510(k) documentation support and maintains traceable design history files.
+DEM Medical emphasizes a vertically integrated, U.S.-based model that consolidates engineering, tooling, molding, and assembly within a single quality system. This approach aims to protect schedule and compliance during design transfer, offering customers one accountable partner rather than a fragmented vendor chain. The company also provides FDA 510(k) documentation support and maintains traceable design history files.
 
 ## Known for
-- Vertically integrated in-house engineering, tooling, molding, and assembly under one quality system
-- U.S.-based manufacturing with ISO 13485:2016 certification and FDA registration for Class I and II devices
-- Rapid prototyping via additive manufacturing, precision machining, and in-house PCB assembly
+- Vertically integrated team handles engineering, tooling, molding, and assembly in-house
+- U.S.-based model ensures speed, compliance, and transparency
 - FDA 510(k) documentation support with traceable design history files
-- Flexible order volumes from low-volume prototypes to high-volume production
+- Flexible order volumes including low-volume production for startups and pilot programs
 
 ## Capabilities
-- Custom Cabling & Connectors
-- Printed Circuit Board Assembly (PCBA)
-- Analog & Digital Communication
-- Tooling Design & Fabrication
-- 3D Printing & Prototyping
-- Injection Molded Components
-- Additive Manufacturing
-- Precision Machining
-- Medical Device Assembly
-- Design Transfer
-- FDA 510(k) Documentation Support
-- Design History File Management
-- Medical Device Prototyping
-- Medical Device Validation
-- Regulatory Compliance Support
+- Custom cabling and connectors
+- Printed circuit board assembly (PCBA)
+- Analog and digital communication design
+- Tooling design and fabrication
+- 3D printing and rapid prototyping
+- Injection molding
+- Additive manufacturing
+- Precision machining
+- Medical device assembly
+- FDA 510(k) documentation support
+- Design history file management
 
 ## Industries
-- Medical Devices
-- Class I Medical Devices
-- Class II Medical Devices
-- Homecare Dialysis and Monitoring
-- Heated Humidifiers
-- Gastric Calibration Tubes
-- Surgical Tables
-- Suction Devices
-- Laparoscopic Surgical Devices
-- Catheters
-- Ventilatory Devices
-- Laser Therapy
-- Diagnostic Devices
-- Monitoring Equipment
-- Surgical Devices
-- Wearable Medical Devices
-- Instrument-Integrated Designs
-
-## Equipment
-- 3D Printers
-- Injection Molding Machines
-- CNC Machining Centers
-- PCB Assembly Equipment
+- Medical devices (Class I and II)
+- Diagnostic equipment
+- Monitoring equipment
+- Surgical equipment
+- Homecare medical devices
+- Wearable medical devices
 
 ## Certifications
 - ISO 9001:2015
 - ISO 13485:2016
-- FDA Registered (Class I and II)
+- FDA registered (Class I and II)
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -448,19 +412,13 @@ The company emphasizes a vertically integrated, U.S.-based model that keeps engi
 
 <details><summary>Sources</summary>
 
-- Headquarters: Painesville, Ohio -> db
-- FDA registration for Class I and II devices (Registration #3030708724) -> /
-- ISO 9001:2015 and ISO 13485:2016 certifications -> /
-- Formed from consolidation of Virtec Medical and Virtec Enterprises -> /
-- End-to-end medical device development: concept, prototyping, validation, production -> /
-- In-house capabilities: additive manufacturing, precision machining, injection molding, PCB assembly, custom cabling, tooling design -> /
-- Volume range: prototype to medium-volume runs and high-volume production -> /
-- Industries served: medical OEMs, startups, pilot programs -> /
-- Specific applications: homecare dialysis, heated humidifiers, gastric calibration tubes, surgical tables, suction devices, laparoscopic devices, catheters, ventilatory devices, laser therapy, diagnostic devices, monitoring equipment, surgical devices, wearable/instrument-integrated designs -> /
-- Vertically integrated U.S.-based model with single quality system -> /
-- FDA 510(k) documentation support and traceable design history files -> /
-- Rapid prototyping using additive manufacturing, precision machining, in-house PCB assembly -> /
-- Flexible order volumes, low-volume production support -> /
+- Headquarters: Painesville, Ohio (db)
+- FDA registration for Class I and II devices (homepage)
+- ISO 9001:2015 and ISO 13485:2016 certifications (homepage)
+- Capabilities: additive manufacturing, precision machining, PCB assembly, injection molding, tooling design, cabling (homepage)
+- Industries served: medical devices including homecare dialysis, surgical tables, catheters, etc. (homepage)
+- Vertically integrated U.S.-based model (homepage)
+- Flexible low-volume production (homepage)
 </details>
 
 ---
@@ -470,34 +428,31 @@ The company emphasizes a vertically integrated, U.S.-based model that keeps engi
 **Old description:** Thin Wall Sleeves to Heavy Wall Cores. Protective Sleeve Applications. Textile Packaging. ABS, PP, Custom Grinding, Forming, Punching, Surface Impregnated Micro Grooving, Anti Static. .250"- 3.5" Dia..
 
 ## About
-DM Extrusion, doing business as DMC, operates from Spartanburg, South Carolina. The company manufactures extruded plastic sleeves and tubing for industrial and packaging applications, offering a range of diameters from 0.250 inch to 3.5 inches.
+DM Extrusion operates from Spartanburg, South Carolina. The company's founding year, ownership structure, and founders' names are not publicly disclosed on its website. The business presents itself as DMC, focusing on engineered plastic extrusion and secondary operations.
 
-Materials processed include ABS, polypropylene, nylon, polyurethane, and polyethylene. Core capabilities encompass extrusion, custom grinding, forming, punching, surface-impregnated micro-grooving, anti-static treatment, molding, and shaping. The company also runs a recycling program for extruded plastic sleeves, allowing reclamation of production scrap and post-industrial material.
+The company produces extruded plastic sleeves and tubing ranging from 0.250 to 3.5 inches in diameter. Its capabilities include custom grinding, forming, punching, surface-impregnated micro grooving, and anti-static treatment. Materials processed include ABS, polypropylene, nylon, polyurethane, and polyethylene. The product line spans thin-wall sleeves to heavy-wall cores, as well as clear and black tubing for engineered molded and shaped applications.
 
-A key market is textile packaging, where the sleeves function as protective cores and packaging components. The product line further includes clear to black tubing for engineered molded and shaped applications serving broader industrial customers.
+DM Extrusion serves the textile packaging sector with protective sleeve applications. The website does not list other specific industries or named customers.
 
-DM Extrusion positions its offerings as engineered products built to customer specifications, though the company does not publicly disclose a founding year, ownership structure, or specific mission statement.
+The company highlights its range of secondary operations — micro grooving, anti-static treatment, and custom forming — as part of its engineered product offering. No explicit founding mission or stated differentiation beyond these capabilities is provided.
 
 ## Known for
 - Diameter range 0.250"–3.5"
-- Custom grinding, forming, punching, and micro-grooving
-- Anti-static and surface-impregnated options
-- Recycling program for extruded sleeves
+- Surface-impregnated micro grooving
+- Anti-static treatment available
+- Custom grinding, forming, and punching in-house
 
 ## Capabilities
-- Extrusion
-- Custom Grinding
+- Plastic extrusion
+- Custom grinding
 - Forming
 - Punching
-- Surface Impregnated Micro Grooving
-- Anti Static Treatment
-- Molding
-- Shaping
-- Recycling
+- Surface-impregnated micro grooving
+- Anti-static treatment
+- Engineered molding and shaping
 
 ## Industries
-- Textile
-- Packaging
+- Textile packaging
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -506,12 +461,11 @@ DM Extrusion positions its offerings as engineered products built to customer sp
 <details><summary>Sources</summary>
 
 - Location: Spartanburg, South Carolina -> db
-- Company name: DM Extrusion / DMC -> page "/"
-- Products: extruded plastic sleeves, thin wall sleeves to heavy wall cores, protective sleeve applications, textile packaging, tubing (nylon, PU, PE, PP) -> page "/"
-- Materials: ABS, PP, Nylon, PU, PE -> page "/"
-- Processes: Custom Grinding, Forming, Punching, Surface Impregnated Micro Grooving, Anti Static, Extrusion, Molding, Shaping, Recycling -> page "/"
-- Diameter range: .250"-3.5" -> page "/"
-- Website platform: Wix -> page "/"
+- Product: extruded plastic sleeves and tubing 0.250"–3.5" -> db, /
+- Processes: custom grinding, forming, punching, micro grooving, anti-static -> /
+- Materials: ABS, PP, nylon, PU, PE -> /
+- Application: textile packaging protective sleeves -> /
+- Website platform: Wix -> /
 </details>
 
 ---
@@ -521,36 +475,35 @@ DM Extrusion positions its offerings as engineered products built to customer sp
 **Old description:** DMA Industries delivers industry-leading private label programs that define excellence in quality, speed-to-market, and value. Supported by deep expertise in engineering, branding, packaging, logistics, and distribution, we provide fully integrated, end-to-end solutions that power some of the nation’s most successful private label platforms.
 
 ## About
-DMA Industries LLC is based in Tabor City, North Carolina, where it has established itself as a provider of private label programs for the automotive aftermarket.
+DMA Industries LLC operates from Tabor City, North Carolina, as a private label supplier to the automotive aftermarket. The company provides end-to-end programs that cover engineering, branding, packaging, logistics, and distribution for brands seeking to launch or expand their product lines.
 
-The company delivers private label programs that define excellence in quality, speed-to-market, and value, supported by deep expertise in engineering, branding, packaging, logistics, and distribution. Its product lineup includes precision-engineered strut assemblies, installation kits with gaskets, fuel clips, and hardware, all meeting Grade 10.9 and SAE Grade 8 specifications. A strategic partnership with Zhejiang Sensen Auto Parts under the SDI joint venture added a manufacturing and distribution complex in Thailand, allowing DMA to avoid tariffs on Chinese-origin products while maintaining North American OE standards.
+Through a partnership with Zhejiang Sensen Auto Parts Co., Ltd., DMA manages manufacturing at a factory and distribution complex in Thailand, which allows it to avoid tariffs on China-origin goods. The product range includes precision-engineered strut assemblies, installation kits with gaskets and hardware, and components built to SAE Grade 8 and 10.9 specifications. Capabilities cited by the company include precision castings and rockers designed to meet or exceed OE specifications with up to 20 percent longer service life.
 
-DMA serves automotive aftermarket distributors, retailers, and private label brands across North America. Its catalog spans makes from Acura to Volvo, and the company emphasizes direct customer service, promising that every call is answered by a knowledgeable person rather than an automated attendant.
+The company serves the North American automotive aftermarket, supplying parts for a broad spectrum of vehicle makes including Acura, BMW, Ford, Honda, Toyota, and many others. Its customers are typically private label brands and distributors that rely on DMA’s integrated supply chain and engineering support.
 
-The company says its integrated, end-to-end solutions and tariff-mitigation strategy set it apart, enabling faster speed-to-market and reliable supply for private label platforms.
+DMA emphasizes direct customer service, stating that calls are answered by knowledgeable staff without automated attendants. The Thailand manufacturing strategy is presented as a way to mitigate tariff and geopolitical risk while leveraging local infrastructure and labor.
 
 ## Known for
-- Industry-leading private label programs
-- Deep expertise in engineering, branding, packaging, logistics, and distribution
-- Fully integrated end-to-end solutions
-- Manufacturing in Thailand avoids tariffs on China-origin products
 - Direct customer service with no automated phone attendant
+- Manufacturing in Thailand to avoid tariffs on China-origin products
+- Private label programs with integrated engineering, branding, packaging, logistics, and distribution
+- Parts meeting OE specifications with up to 20% longer service life
+- Hardware manufactured to SAE Grade 8 and 10.9 standards
 
 ## Capabilities
-- Private label program development
+- Private label program management
 - Engineering and design
 - Branding and packaging
 - Logistics and distribution
-- Strut assembly manufacturing
 - Precision casting
-- Hardware kitting (gaskets, fuel clips, hardware)
-- O.E. specification compliance
-- Tariff mitigation via Thailand manufacturing
-- Live phone customer support
+- Rocker manufacturing
+- Strut assembly production
+- Hardware manufacturing to SAE Grade 8 and 10.9
+- Installation kit assembly (gaskets, fuel clips, hardware)
 
 ## Industries
 - Automotive aftermarket
-- Private label programs
+- Private label manufacturing
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -558,16 +511,13 @@ The company says its integrated, end-to-end solutions and tariff-mitigation stra
 
 <details><summary>Sources</summary>
 
-- Headquarters: Tabor City, North Carolina -> db
-- Private label programs for automotive aftermarket -> db description
-- Services: engineering, branding, packaging, logistics, distribution -> db description
-- Products: strut assemblies, installation kits with gaskets, fuel clips, hardware -> db products
-- Hardware specifications: Grade 10.9 and SAE Grade 8 -> db products
-- Partnership with Zhejiang Sensen Auto Parts (SDI) -> /about
-- Manufacturing and distribution complex in Thailand -> /about
-- Tariff avoidance on China-origin products -> /about
-- Customer service: no automated phone attendant, live person -> /about-us
-- Product catalog covers many makes (Acura to Volvo) -> /
+- Headquarters in Tabor City, North Carolina -> db
+- Private label programs with engineering, branding, packaging, logistics, distribution -> home page
+- Partnership with Zhejiang Sensen Auto Parts Co., Ltd. for manufacturing in Thailand -> /about page
+- Products include strut assemblies, installation kits, hardware to SAE Grade 8 and 10.9 -> home page products
+- Capabilities: precision castings, rockers, meet OE specs with 20% longer service life -> capabilities/db
+- Customer service: no automated phone attendant, direct answers -> /about-us page
+- Industries: automotive aftermarket, private label -> industries_served/db
 - LinkedIn URL -> db
 </details>
 
@@ -578,27 +528,28 @@ The company says its integrated, end-to-end solutions and tariff-mitigation stra
 **Old description:** PS molding Inc. focuses on manufacturing plastic products with the latest and most innovative technologies, providing competitive costing and superior quality to the furniture, the brush and the construction industry.
 
 ## About
-DPS Molding, Inc. operates from Vanceboro, North Carolina. The company's founding year and ownership structure are not publicly disclosed.
+DPS Molding, Inc. operates from Vanceboro, North Carolina, where it specializes in advanced plastic injection molding technologies. The company focuses on manufacturing plastic products using innovative processes such as co-injection, gas-assist, and structural foam molding.
 
-The shop specializes in advanced injection molding techniques, including co-injection molding, co-injection with gas assist, structural foam molding, and rotary systems. It produces plastic components weighing up to 10 kilograms (22 pounds) and offers component design with gas assist, emphasizing thicker-walled, higher-value parts for demanding applications while promoting competitive costing and superior quality.
+The shop runs co-injection and co-injection with gas assist alongside rotary systems, enabling structural foam molding for parts up to 10 kilograms (22 pounds). Its capabilities include component design with gas assist and the production of 100 percent recycled plastic heavy floor blocks and tiles, reflecting a focus on material reuse.
 
-Its customer base spans the furniture, brush, and construction industries, where it supplies custom-molded plastic products.
+DPS Molding serves the furniture, brush, and construction industries, supplying custom-molded components designed for durability and high added value. The company positions its output at the higher end of the injection molding market, emphasizing thick-walled, high-performance parts over thin, low-cost alternatives.
 
-The company distinguishes itself by focusing on recycling plastic through co-injection and structural foam processes, turning end-of-life products into new items—an approach it says regular injection molding cannot achieve. Its stated mission is to make products that last and then recycle them into new products, a philosophy it calls being "recycling artists."
+The business distinguishes itself by treating recycling as a core capability, turning end-of-life products into new items through co-injection and structural foam methods that conventional injection molding cannot achieve. This approach aims to deliver superior quality and competitive costing for demanding applications.
 
 ## Known for
-- Recycling plastic via co-injection and structural foam molding
-- Designing thicker, higher-value parts for demanding markets
-- Competitive costing and superior quality
+- Co-injection and gas-assist molding for thick, high-value parts
+- Structural foam molding capabilities
+- In-house recycling of plastic into new products (100% recycled floor blocks and tiles)
+- Rotary systems for co-injection and gas assist
 - Parts up to 10 kg (22 lb)
-- Component design with gas assist
 
 ## Capabilities
 - Co-injection molding
 - Co-injection molding with gas assist
 - Structural foam molding
-- Rotary systems
 - Component design with gas assist
+- Rotary systems for co-injection and gas assist
+- Plastic recycling and reprocessing
 
 ## Industries
 - Furniture
@@ -606,7 +557,7 @@ The company distinguishes itself by focusing on recycling plastic through co-inj
 - Construction
 
 ## Equipment
-- Rotary systems
+- Rotary systems for co-injection and gas assist
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -615,12 +566,12 @@ The company distinguishes itself by focusing on recycling plastic through co-inj
 <details><summary>Sources</summary>
 
 - Location: Vanceboro, North Carolina -> db
-- Industries: furniture, brush, construction -> db
-- Processes: co-injection molding, co-injection with gas assist, structural foam molding, rotary systems -> homepage
-- Part weight capacity: up to 10 kg (22 lb) -> db
-- Recycling focus: co-injection and structural foam for recycling plastic -> homepage
-- Component design with gas assist -> db
-- Competitive costing and superior quality -> db
+- Industries served: furniture, brush, construction -> db
+- Capabilities: co-injection molding, co-injection with gas assist, structural foam molding -> db
+- Processes: rotary systems for co-injection and gas assist -> page /
+- Recycling focus: 100% recycled plastic heavy floor blocks & tiles -> page /
+- Part weight limit: up to 10 kg (22 lb) -> db
+- Differentiation: higher end of injection molding, thick high-value parts -> page /
 </details>
 
 ---

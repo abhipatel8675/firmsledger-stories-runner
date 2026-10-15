@@ -3,44 +3,39 @@
 **Old description:** AMETEK SCP, a leading manufacturer of submarine hull penetrators and outboard cable assemblies, possesses extensive experience in international and domestic defense programs. Leveraging a regionalized manufacturing approach enables us to satisfy local content requirements while delivering top-notch products.
 
 ## About
-AMETEK SCP Inc operates from Westerly, Rhode Island, where it manufactures submarine hull penetrators and outboard cable assemblies for defense programs. The company does not publicly disclose its founding year or original founders.
+AMETEK SCP Inc operates from Westerly, Rhode Island, where it designs and manufactures submarine hull penetrators and outboard cable assemblies for defense and subsea markets. The company's founding year and ownership structure are not publicly disclosed.
 
-Its core capabilities include electrical, fiber optic, and hybrid hull penetrators; NAVSEA PRO-20 compliant outboard cable assemblies; advanced underwater fiber optic connectors and cable assemblies; and specialized molding services using rubber, polyurethane, and epoxy. The company also provides flyaway repair services, field repair, lifecycle support, and system-level engineering for mission-critical subsea systems.
+Its core product lines include electrical, fiber optic, and hybrid hull penetrators; NAVSEA PRO-20 compliant outboard cable assemblies; and advanced underwater fiber optic connectors and cable assemblies. The company also provides specialized molding services using rubber, polyurethane, and epoxy, along with custom-engineered solutions and fiber optic feedthroughs. Field support capabilities encompass flyaway repair services, advanced field repair, lifecycle support, and system-level engineering, all aimed at maintaining mission readiness for naval platforms.
 
-AMETEK SCP serves the U.S. Navy, the UK Ministry of Defence, allied defense programs globally, and the offshore energy sector. Its products are designed to meet stringent naval and subsea requirements, including hull penetrators and cable assemblies for power, signal, and data transmission in harsh underwater environments.
+AMETEK SCP serves defense and naval programs worldwide, with proven support for the U.S. Navy, the UK Ministry of Defence, and allied global defense programs. Its subsea cable assemblies and connectors also address offshore energy applications, where high-performance interconnects are required for harsh underwater environments.
 
-The company differentiates itself through a regionalized manufacturing approach intended to satisfy local content requirements for international defense contracts, and it cites a perfect score in a DoD cybersecurity audit as evidence of its security posture.
+The company emphasizes a regionalized manufacturing approach to satisfy local content requirements while delivering mission-critical solutions. It also highlights compliance with the U.S. Navy Molding Manual and a perfect score in a recent DoD cybersecurity audit as indicators of its quality and security posture.
 
 ## Known for
 - Regionalized manufacturing to meet local content requirements
 - NAVSEA PRO-20 compliant outboard cable assemblies
 - Advanced underwater fiber optic connectors and cable assemblies
-- Specialized rubber, polyurethane, and epoxy molding services
 - Flyaway repair services for mission readiness
 - Perfect score in DoD cybersecurity audit
 
 ## Capabilities
-- Electrical, fiber optic, and hybrid hull penetrator manufacturing
-- NAVSEA PRO-20 compliant outboard cable assembly
-- Advanced underwater fiber optic connector and cable assembly
-- Rubber molding
-- Polyurethane molding
-- Epoxy molding
-- Custom-engineered subsea solutions
+- Electrical, fiber optic, and hybrid hull penetrators
+- NAVSEA PRO-20 compliant outboard cable assemblies
+- Advanced underwater fiber optic connectors and cable assemblies
+- Specialized molding services (rubber, polyurethane, epoxy)
+- Custom-engineered solutions
 - Fiber optic feedthroughs
 - Flyaway repair services
-- Field repair and lifecycle support
+- Advanced field repair
+- Lifecycle support
 - System-level engineering
-- Connector wiring harnesses
-- PBOF wet-mate connector assemblies and integrations
-- Inboard and outboard cable assemblies
+- Compliance with U.S. Navy Molding Manual
 
 ## Industries
-- U.S. Navy
-- UK Ministry of Defence
-- Allied defense programs
+- Defense
+- Naval
+- Subsea
 - Offshore energy
-- Naval defense applications
 
 ## Certifications
 - ISO 9001
@@ -51,14 +46,15 @@ The company differentiates itself through a regionalized manufacturing approach 
 
 <details><summary>Sources</summary>
 
-- Company name and headquarters location -> db
-- Description as manufacturer of submarine hull penetrators and outboard cable assemblies -> db
-- Certification ISO9001 -> db
-- Core capabilities listed on homepage (hull penetrators, NAVSEA PRO-20 cable assemblies, underwater fiber optic connectors, molding services, fiber optic feedthroughs) -> /
-- Additional capabilities from database (flyaway repair, field support, field repair, lifecycle support, system-level engineering) -> db
-- Industries served: U.S. Navy, UK MOD, allied/global defense programs, offshore energy -> db
-- News: perfect score in DoD cybersecurity audit -> /
-- Events: AUSA and Space Tech Expo Europe participation -> /
+- Headquarters: Westerly, Rhode Island -> db
+- Manufacturer of submarine hull penetrators and outboard cable assemblies -> /
+- Core capabilities: electrical, fiber optic, hybrid hull penetrators; NAVSEA PRO-20 compliant outboard cable assemblies; advanced underwater fiber optic connectors and cable assemblies; specialized molding services (rubber, polyurethane, epoxy); custom-engineered solutions; fiber optic feedthroughs -> /
+- Field support: flyaway repair services, advanced field repair, lifecycle support, system-level engineering -> /
+- Industries served: U.S. Navy, UK MOD, allied/global defense programs, offshore energy -> /
+- Regionalized manufacturing approach to meet local content requirements -> /
+- Compliance with U.S. Navy Molding Manual -> /
+- ISO 9001 certification -> db
+- Perfect score in DoD cybersecurity audit -> /
 </details>
 
 ---
@@ -68,50 +64,51 @@ The company differentiates itself through a regionalized manufacturing approach 
 **Old description:** Looking to build your own custom PC? Use your own parts or ours — our technicians will assemble, optimize, and stress-test the system for peak performance. We also provide diagnostics, upgrades, and computer repair throughout Idaho Falls.
 
 ## About
-AMT Computers & Electronics operates from a retail location in Idaho Falls, Idaho. The company emphasizes decades of experience in computer technology, though a specific founding year is not disclosed. Ownership details and founder names are not publicly stated.
+AMT Computers & Electronics operates a retail store and service center in Idaho Falls, Idaho. The company opened its current location in October 2025, though the business describes its team as bringing decades of experience to custom PC assembly and repair. Ownership structure and founding year are not publicly disclosed.
 
-The business centers on custom PC assembly, where technicians build systems using customer-supplied components or parts from the store’s inventory, then optimize and stress-test each machine. Beyond assembly, the shop provides hardware and software diagnostics, component upgrades and installations, computer repair, virus and malware removal, system tune-ups, and data transfer, recovery, and backup services.
+The shop assembles custom desktop computers using customer-supplied or store-sourced components, then optimizes and stress-tests each build. Technicians provide hardware diagnostics, virus and malware removal, data backup and transfer, component upgrades, and general computer tune-ups. The store also stocks a wide range of components — processors, memory, storage, graphics cards, power supplies, and peripherals — from brands such as ASUS, Intel, Kingston, and Western Digital, and sells its own line of prebuilt systems under the AMT label.
 
-Services are offered to any customer regardless of where the equipment was purchased, supporting both individual consumers and local businesses needing workstation builds or IT support. The store maintains regular hours Monday through Friday 10 a.m. to 6 p.m. and Saturday noon to 5 p.m.
+Services are offered to walk-in customers and local businesses throughout the Idaho Falls area. The company emphasizes that it supports equipment regardless of where it was purchased, positioning itself as a neutral service provider for both consumer and small-business clients.
 
-The company highlights its team’s decades of experience and the flexibility of using either customer-provided or in-house parts as key differentiators, aiming to deliver peak performance through thorough assembly and testing.
+AMT differentiates itself by offering a “Tech Bench” with set weekly hours, same-day diagnostics for minor issues, and a policy of supporting any device brought in. The business was started to provide a local, hands-on alternative to mail-in warranty services and big-box retailers.
 
 ## Known for
-- Custom PC assembly with customer-supplied or in-house parts
-- Full-system optimization and stress testing
-- Hardware and software diagnostics, upgrades, and repair
-- Data transfer, recovery, and backup services
-- Virus and malware removal and system tune-ups
+- Supports any device regardless of purchase origin
+- Decades of combined technician experience
+- Custom PC assembly with optimization and stress-testing
+- On-site Tech Bench with walk-in hours
+- Own-brand prebuilt systems (AMT Gaming, Essential, Premium lines)
 
 ## Capabilities
 - Custom PC assembly
-- Hardware and software diagnostics
-- Component upgrades and installation
-- Computer repair and troubleshooting
-- Data transfer and recovery
-- Backup solutions
+- PC diagnostics
+- Hardware upgrades
 - Virus and malware removal
-- System tune-up and optimization
+- Data backup and transfer
+- Computer tune-up
+- Component installation
 - Stress testing
-- Prebuilt custom PC sales
-- Technical support for third-party equipment
+- Repair estimates
+- Consignment sales
+- Dell restored PC refurbishment
+- Component retail sales
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Retailer
 - **Headquarters:** Idaho Falls, Idaho
 
 <details><summary>Sources</summary>
 
+- Company name: AMT Computers & Electronics -> db
 - Location: Idaho Falls, Idaho -> db
 - Address: 385 May Street, Idaho Falls, ID 83401 -> /
-- Services: custom PC assembly, diagnostics, upgrades, repair, virus removal, tune-ups, data transfer/recovery/backup -> /
-- Brands carried: 30+ brands listed (Adesso, AMT, APC, Asus, etc.) -> /
-- Prebuilt custom PCs under AMT brand (e.g., AMT Gaming Desktop, AMT Premium Build) -> /
-- Hours: Mon-Fri 10am-6pm, Sat 12-5pm -> /
-- Social media: Facebook, Instagram, X (@amt1st) -> /
-- Decades of experience claimed -> /
-- Support for all tech regardless of purchase origin -> /
-- New store opening Oct 6 2025 -> /
+- Store opened October 2025 -> /
+- Services: custom PC assembly, diagnostics, upgrades, repair, virus removal, data backup, tune-ups -> / and db
+- Carries components from brands like ASUS, Intel, Kingston, Western Digital -> /
+- Sells own-brand prebuilt systems (AMT Gaming, Essential, Premium) -> /
+- Tech Bench hours: Mon-Fri 10am-6pm, Sat 12-5pm -> /
+- Policy: supports any device regardless of purchase origin -> /
+- Team brings decades of experience -> /
 </details>
 
 ---
@@ -121,46 +118,44 @@ The company highlights its team’s decades of experience and the flexibility of
 **Old description:** Our founders learned at an early age how important it is to take care of family and friends. We are from a large family who took care of our grandfather who needed constant care. This instilled love and compassion for others and pushed both of us into the healthcare field and the eventual creation of Appalachian Medical.
 
 ## About
-Appalachian Medical operates from South Charleston, West Virginia. The company was founded by clinical professionals whose personal experience caring for a grandfather instilled a commitment to compassionate healthcare. While the exact founding year is not disclosed, the principals bring more than 30 years of combined experience in respiratory disease management, case management, and critical care.
+Appalachian Medical is based in South Charleston, West Virginia. The company was founded by two individuals who, inspired by caring for their grandfather, entered the healthcare field and established the business. The founding year is not publicly disclosed.
 
-The firm specializes in respiratory products and disease management, providing durable medical equipment (DME) and clinical services for sleep apnea, ventilation, airway clearance, nebulizer therapy, and home oxygen therapy. Its staff includes licensed respiratory therapists who maintain direct cell-phone access for patients, eliminating call-center intermediaries. The company does not manufacture equipment but supplies devices such as Trilogy ventilators, oxygen concentrators, cylinders, and associated tubing.
+The company provides respiratory care services and durable medical equipment (DME) to patients in West Virginia. Its offerings include home oxygen therapy, sleep apnea treatment, ventilation support, airway clearance, and nebulizer therapy. The staff includes registered respiratory therapists with over 30 years of combined experience in respiratory disease management, case management, and critical care. The company operates a clinical team that provides direct, personal access to therapists via cell phone, avoiding call centers.
 
-Appalachian Medical serves patients with chronic respiratory conditions, as well as healthcare providers and caregivers seeking DME and disease-management support. Testimonials cite rapid holiday delivery of home oxygen within an hour of ordering, and ongoing management of ventilation equipment, oxygen systems, and related supplies.
+Appalachian Medical serves patients with chronic respiratory conditions, as well as caregivers and healthcare providers seeking DME solutions. Testimonials highlight rapid delivery of home oxygen equipment, including on holidays, and ongoing management of devices such as Trilogy ventilators, oxygen concentrators, and related supplies.
 
-The founders' family-caregiving background drives a service model centered on personal therapist relationships and immediate responsiveness. The company emphasizes that its therapists are skilled clinicians who provide continuous, knowledgeable support rather than transactional equipment drops.
+The company emphasizes compassionate, personalized care rooted in the founders' family experience. Its differentiators include direct therapist access, same-day equipment delivery in emergencies, and a clinical founding team that shapes its service model.
 
 ## Known for
-- Direct cell-phone access to a dedicated respiratory therapist (no call services)
-- Over 30 years of combined clinical experience in respiratory disease and critical care management
-- Founded by clinicians with firsthand family-caregiving experience
-- Emergency/holiday equipment delivery within hours (per patient testimony)
-- Specialized focus on respiratory DME and disease management only
+- Direct cell phone access to a dedicated respiratory therapist
+- No call-center routing; patients reach their therapist directly
+- Emergency home oxygen delivery within hours, including holidays
+- Founded and operated by clinical professionals with 30+ years combined respiratory experience
+- Specialized focus on respiratory disease management and DME
 
 ## Capabilities
-- Sleep apnea therapy management
-- Ventilation management
-- Airway clearance therapy
-- Nebulizer therapy
-- Home oxygen therapy
 - Respiratory disease management
 - Case management
 - Critical care respiratory support
+- Home oxygen therapy
+- Sleep apnea treatment
+- Ventilation management
+- Airway clearance therapy
+- Nebulizer therapy
 - Durable medical equipment (DME) provision
-- Patient-connected care coordination
+- Patient education and support
 
 ## Industries
+- Healthcare
 - Respiratory care
+- Durable medical equipment
 - Home healthcare
-- Durable medical equipment (DME) supply
-- Sleep medicine
-- Critical care
 
 ## Equipment
 - Trilogy ventilator
 - Oxygen concentrators
-- Oxygen cylinders/tanks
-- Nebulizers
-- Airway clearance devices
+- Oxygen tanks
+- Tubing and supplies
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -168,14 +163,14 @@ The founders' family-caregiving background drives a service model centered on pe
 
 <details><summary>Sources</summary>
 
-- Headquarters in South Charleston, West Virginia -> /
-- Founded by clinical professionals with family caregiving background -> /
-- Over 30 years combined experience in respiratory disease management, case management, critical care -> /
-- Specializes in respiratory products and disease management: sleep apnea, ventilation, airway clearance, nebulizers, home oxygen therapy -> /
-- Staff includes respiratory therapists with direct cell phone access -> /
-- Provides DME: Trilogy ventilators, oxygen concentrators, tanks, tubing -> / (testimonial)
-- Emergency holiday delivery within an hour -> / (testimonial)
-- Company type: service provider with clinical staff -> /
+- Headquarters: South Charleston, West Virginia -> db
+- Founders inspired by caring for grandfather, entered healthcare field -> /
+- Provides respiratory care services and DME: home oxygen, sleep apnea, ventilation, airway clearance, nebulizers -> /
+- Staff includes respiratory therapists with 30+ years combined experience -> /
+- Direct cell phone access to therapist, no call services -> /
+- Testimonial: home oxygen delivered within hour on holiday -> /
+- Equipment: Trilogy machine, oxygen concentrators, tanks, tubing -> /
+- Industries: healthcare, respiratory care, home healthcare -> /
 </details>
 
 ---
@@ -187,40 +182,37 @@ The founders' family-caregiving background drives a service model centered on pe
 ## About
 ARQ Electronics Manufacturing Services, Inc. was founded in July 1999 in College Station, Texas, by former employees of the Westinghouse/Northrop Grumman Electronic Assembly Plant that previously operated in the same city. The principals brought experience in electrical and mechanical design, materials, assembly and test process development, high-reliability printed circuit board assembly, wiring assembly, system integration, quality assurance, and sales.
 
-The company provides full-service electronics manufacturing, spanning pre-manufacturing engineering, production, and post-manufacturing support. Core capabilities include quick-turn mixed-technology PCBA assembly (surface-mount and through-hole), potting, mechanical system assembly, 3D printing for rapid prototyping, and both RoHS-compliant and non-RoHS processes. ARQ also handles production assembly and test of PCBAs, wiring assemblies, and electromechanical assemblies, plus depot/warranty repair, sustaining engineering, and obsolete component replacement.
+The company provides full-service electronics manufacturing, including quick-turn, high-quality mixed-technology PCBA assembly, potting, mechanical system assemblies, through-hole assembly, and both RoHS-compliant and non-compliant processes. Its capabilities span pre-manufacturing (electrical/mechanical design, DFM/DFT consulting, component engineering, process development, vendor management, 3D printing for rapid prototyping), manufacturing (prototype and production assembly and test of PCBAs, wiring assemblies, and electromechanical assemblies), and post-manufacturing (sustaining engineering, finished product material management, depot and warranty repair, obsolete and long lead-time component replacement).
 
-ARQ serves original equipment manufacturers and other EMS providers across sectors including industrial electronics, oil and gas well automation, variable speed drives, chemical analysis instrumentation, leak and flow testing, process measurement and control, controls and electrical equipment, educational and technical research, medical instrumentation, fuel cell and battery testing, gas detection, free-space optical communication, multiple-phase power metering, and video processing and displays.
+ARQ serves OEMs and other EMS providers across industrial electronics, oil and gas well automation, variable speed drives, chemical analysis instrumentation, leak and flow testing, process measurement and control, controls and electrical equipment, educational and technical research, medical instrumentation, fuel cell testing, battery testing, gas detection instrumentation, free-space optical communication, multiple phase power metering, video processing, and video displays.
 
-The company states its differentiation lies in a philosophy of doing the right thing correctly the first time to achieve quality, schedule, and cost performance. Its quality management system is certified to ISO 9001:2015 and compliant with J-STD-001, while assemblies meet IPC-A-610 Class II/III and IPC/WHMA-A-620 standards. ARQ emphasizes a partnership model that extends beyond the production line.
+The company emphasizes a "Best Value" philosophy—affordable, reliable, quality—aiming to achieve outstanding quality, schedule, and cost performance by doing the right thing correctly the first time. It maintains an ongoing partnership with customers beyond the production line, allowing them to focus on next-generation product development.
 
 ## Known for
-- Quick-turn mixed-technology PCBA assembly
-- BGA and 0201 placement capability
-- ISO 9001:2015 and J-STD-001 certified
-- Depot/warranty repair and obsolete component replacement
-- 3D printing for rapid prototyping
+- ISO 9001:2015 certified and J-STD-001 compliant
+- IPC-A-610 Class II & III and IPC/WHMA-A-620 workmanship standards
+- Quick-turn, high-quality mixed-technology PCBA assembly with 0201 placement capability
+- 3D printing for rapid prototyping and obsolete component replacement services
 
 ## Capabilities
-- Quick-turn mixed-technology PCBA assembly
-- Turnkey or consigned material projects
-- Potting of electronic assemblies
-- Mechanical system assemblies
-- Through-hole assembly
-- RoHS compliant and non-RoHS compliant processes
 - Electrical and mechanical design/development engineering
 - Design for manufacture/test (DFM/DFT) consulting
 - Component engineering
 - Assembly and testing process development
 - Raw material and vendor management
 - 3D printing for rapid prototyping
-- Rapid response assembly of prototype PCBAs, wiring assemblies, and electromechanical assemblies
-- Production assembly and test of PCBAs, wiring assemblies, and electromechanical assemblies
+- Quick-turn prototype PCBA assembly
+- Production PCBA assembly and test
+- Wiring assembly and test
+- Electromechanical assembly and test
+- RoHS compliant and non-RoHS compliant processes
+- Potting of electronic assemblies
+- Mechanical system assemblies
+- Through-hole assembly
 - Sustaining engineering
 - Finished product material management
-- Depot and warranty repair of electronic and electrical products
+- Depot and warranty repair
 - Obsolete and long lead-time component replacement
-- BGA and blind lead component assembly
-- 0201 component placement
 
 ## Industries
 - Industrial electronics
@@ -255,16 +247,15 @@ The company states its differentiation lies in a philosophy of doing the right t
 <details><summary>Sources</summary>
 
 - Founded July 1999 by former Westinghouse/Northrop Grumman employees -> /about
-- Headquarters College Station, Texas -> /about
-- Full-service EMS: pre-manufacturing, manufacturing, post-manufacturing -> /about, /services
-- Capabilities: quick-turn mixed-tech PCBA, through-hole, potting, mechanical assembly, 3D printing, RoHS/non-RoHS -> /services
-- Production assembly and test of PCBAs, wiring, electromechanical -> /services
-- Depot/warranty repair, sustaining engineering, obsolete component replacement -> /services
-- Industries served list -> /services
-- Quality certifications: ISO 9001:2015, J-STD-001, IPC-A-610 Class II/III, IPC/WHMA-A-620 -> /quality
-- Materials: FR4, Teflon, polyimide, flex -> /services
-- BGA and blind lead capability, 0201 placement -> /services
-- Partnership model beyond production line -> /about, /quality
+- Headquarters in College Station, Texas -> /about
+- ISO 9001:2015 certified, J-STD-001 compliant -> /quality
+- IPC-A-610 Class II & III, IPC/WHMA-A-620 standards -> /quality
+- Services: design engineering, DFM/DFT, component engineering, process development, vendor management, 3D printing, prototype/production PCBA assembly, wiring assembly, electromechanical assembly, RoHS/non-RoHS, potting, mechanical assemblies, through-hole, sustaining engineering, finished product management, depot/warranty repair, obsolete component replacement -> /services
+- Industries served: industrial electronics, oil and gas, variable speed drives, chemical analysis, leak/flow testing, process measurement, controls, educational/research, medical, fuel cell, battery, gas detection, free-space optical, power metering, video processing/displays -> /services
+- Materials: FR4, Teflon, polyimide, flex, other substrates -> /services
+- Placement equipment accommodates 0201 packages -> /services (FAQ)
+- "Best Value" philosophy, affordable/reliable/quality -> /about, /home
+- Ongoing partnership beyond production line -> /services, /quality
 </details>
 
 ---
@@ -274,19 +265,20 @@ The company states its differentiation lies in a philosophy of doing the right t
 **Old description:** ASIC North provides comprehensive Very Large Scale Integration (VLSI) Development, Verification, Fabrication, Characterization, Qualification and Supply services to the semiconductor industry. We offer a wide range of innovative and well-managed solutions, technical and efficient skill sets and flexible engagement models. ASIC North is a process-oriented corporation striving for continuous improvement in the social, environmental and ethical responsibility of our supply chains.
 
 ## About
-ASIC North Inc. is headquartered in Williston, Vermont. The company provides comprehensive Very Large Scale Integration (VLSI) development, verification, fabrication, characterization, qualification, and supply services to the semiconductor industry.
+ASIC North Inc. is headquartered in Williston, Vermont. The company provides comprehensive Very Large Scale Integration (VLSI) development, verification, fabrication, characterization, qualification, and supply services to the semiconductor industry. No founding year or ownership details are publicly disclosed.
 
-The firm offers a range of design services including analog circuit design, digital/ASIC design, RF design, IC mask design, mixed-signal verification, supply chain management, lab characterization, and VLSI design staffing. It also supplies custom ASIC chips, ARM Cortex-M-based microcontrollers, sensor interface derivatives, and silicon-proven intellectual property cores. The company manages projects from concept through prototype to finished goods delivery.
+Its service portfolio spans analog circuit design, digital/ASIC design, RF design, IC mask design, mixed-signal verification, supply chain management, lab characterization, and VLSI design staffing. The firm also offers intellectual property (IP) design solutions, ARM Cortex-M-based ASICs, and custom sensor interface derivatives. No facility size, headcount, or production volumes are specified.
 
-ASIC North serves the semiconductor, aerospace and defense, IoT, commercial, consumer electronics, industrial, and agricultural markets. Its customer base includes large technology companies such as IBM and major defense technology contractors.
+ASIC North serves the semiconductor, aerospace and defense, IoT, commercial, consumer electronics, industrial, and agricultural markets. Notable customers referenced include IBM, where a global commodity manager praised the team's professionalism, and a major defense technology company whose program manager highlighted the firm's capability in mixed-signal ASIC development.
 
-The company differentiates itself through a customer-centric philosophy that emphasizes involvement and transparency at every design step.
+The company emphasizes a customer-centric philosophy built on transparency and involvement at every design stage, from concept through prototype to delivery. It also highlights its process-oriented approach to social, environmental, and ethical supply chain responsibility. In 2026, ASIC North achieved AS 9100D and ISO 9001:2015 certifications, underscoring its quality management commitments.
 
 ## Known for
-- Customer involvement throughout the entire design process
-- Transparent communication at every project stage
-- Process-oriented approach with social, environmental, and ethical supply chain focus
+- Customer involvement and transparency at every design stage
 - Flexible engagement models for ASIC development
+- AS 9100D and ISO 9001:2015 certified quality management
+- Process-oriented approach to ethical supply chain responsibility
+- Technical expertise combined with clear communication
 
 ## Capabilities
 - Analog Circuit Design
@@ -298,12 +290,13 @@ The company differentiates itself through a customer-centric philosophy that emp
 - Lab Characterization
 - VLSI Design Staffing
 - IP Design
-- ARM Cortex-M Based ASIC Development
-- Sensor Interface Design
-- Custom ASIC Chip Development
-- IoT Development Ecosystems
+- ARM Cortex-M Based ASIC
+- Sensor Interface Derivatives
+- VLSI Development
+- Verification
 - Fabrication Management
-- Qualification Services
+- Characterization
+- Qualification
 - Supply Services
 
 ## Industries
@@ -316,23 +309,24 @@ The company differentiates itself through a customer-centric philosophy that emp
 - Agricultural
 
 ## Certifications
+- AS 9100D
 - ISO 9001:2015
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Headquarters:** Williston, Vermont
 
 <details><summary>Sources</summary>
 
 - Headquarters in Williston, Vermont -> db
-- Provides VLSI development, verification, fabrication, characterization, qualification, supply services -> page /
-- Offers Analog Circuit Design, Digital/ASIC Design, RF Design, IC Mask Design, Mixed Signal Verification, Supply Chain Management, Lab Characterization, VLSI Design Staffing -> page /
-- Products include custom ASIC chips, ARM Based M-Class ASIC, Sensor Interface Derivatives, IP design solutions -> page /
-- Serves Semiconductor Industry, Aerospace & Defense, IoT, Commercial, Consumer Electronics, Industrial, Agricultural -> page /
-- Customers include IBM and a Major Defense Technology Company -> page /
-- Achieved AS9100D and ISO 9001:2015 certifications -> page /
-- Emphasizes customer involvement and transparent communication -> page /
-- Process-oriented with focus on social, environmental, ethical supply chain responsibility -> page /
+- Provides VLSI development, verification, fabrication, characterization, qualification, and supply services -> /
+- Services include analog circuit design, digital/ASIC design, RF design, IC mask design, mixed-signal verification, supply chain management, lab characterization, VLSI design staffing -> /
+- Products include IP design solutions, ARM Cortex-M-based ASICs, sensor interface derivatives -> /
+- Markets served: semiconductor, aerospace & defense, IoT, commercial, consumer electronics, industrial, agricultural -> /
+- Customer references: IBM and a major defense technology company -> /
+- Emphasizes customer involvement, transparency, and process-oriented ethical supply chain -> /
+- Achieved AS 9100D and ISO 9001:2015 certifications in 2026 -> /
+- Certifications: ISO9001 -> db
 </details>
 
 ---
@@ -342,20 +336,20 @@ The company differentiates itself through a customer-centric philosophy that emp
 **Old description:** We have maintained a strategic R&D partnership with IMEC (the Interuniversity Microelectronics Centre), a leading microelectronics research institute, since 1990, covering many aspects of the industry roadmap. In addition, since December 2003, we have partnered with the University of Helsinki to further advance ALD processes and chemistries.
 
 ## About
-ASM is headquartered in Phoenix, Arizona. The company describes itself as a materials discovery company with nearly 60 years of materials innovation at its core, though a specific founding year is not disclosed in the provided materials. No founders are named, and ownership structure is not specified.
+ASM, based in Phoenix, Arizona, has been pursuing materials innovation for nearly 60 years, according to the company. The firm does not publicly disclose its exact founding year, founders, or ownership structure.
 
-ASM designs and manufactures advanced wafer processing equipment for thin-film deposition, including atomic layer deposition (ALD), epitaxy, chemical vapor deposition (CVD), plasma-enhanced CVD (PECVD), surface preparation, and chemical mechanical polishing (CMP). The company also offers outcome-based service products aimed at improving uptime, yield, and performance in high-volume manufacturing. It employs over 4,800 people across 15 key locations worldwide and maintains long-term R&D partnerships with IMEC (since 1990) and the University of Helsinki (since 2003) to advance ALD processes and chemistries.
+The company designs and manufactures advanced wafer processing equipment used by semiconductor manufacturers. Its core processes include atomic layer deposition (ALD), epitaxy, chemical vapor deposition (CVD), plasma-enhanced CVD (PECVD), surface modification, and chemical mechanical planarization (CMP). ASM employs over 4,800 people across 15 key locations worldwide and targets revenue exceeding €5.7 billion by 2030.
 
-The company serves semiconductor manufacturers across logic/foundry, DRAM and HBM memory, advanced packaging, and interconnects. Its equipment and materials solutions support applications in AI data centers, next-generation healthcare, cloud computing, and energy-efficient devices. A concrete customer example cited in the materials is Intel, for which ASM innovations enabled critical components for copper interconnects.
+ASM serves the semiconductor industry, with a focus on logic and foundry customers, DRAM and high-bandwidth memory (HBM) producers, and advanced packaging applications. Its technologies also support emerging sectors such as artificial intelligence, next-generation healthcare, cloud computing, and energy-efficient devices.
 
-ASM positions its differentiation on "atomistic control" and the ability to translate materials breakthroughs into manufacturable processes at scale. Its stated strategy focuses on maintaining share in ALD, growing in epitaxy and advanced packaging, expanding high-value service products, and accelerating sustainability through reduced precursor and energy consumption. The company has set financial targets of revenue exceeding €5.7 billion and an operating margin above 30% by 2030.
+ASM differentiates itself through its mastery of thin-film deposition at the atomic scale, a strategy it calls 'materials purpose, engineering, and scale.' The company maintains long-standing R&D partnerships with IMEC (since 1990) and the University of Helsinki (since 2003), and emphasizes an AI/ML-enabled common platform to accelerate innovation while reducing precursor and energy consumption.
 
 ## Known for
-- Leading share in ALD for logic/foundry and DRAM/HBM memory
-- AI/ML enabled common platform with novel chemistries to accelerate innovation
-- Strength in chemistry innovation and surface engineering for advanced packaging
-- Outcome-based service products that improve uptime, yield, and performance
-- Targeting revenue >€5.7B and operating margin >30% by 2030
+- Mastery of thin-film deposition at atomic scale
+- Strategic R&D partnerships with IMEC (since 1990) and University of Helsinki (since 2003)
+- AI/ML-enabled common platform for accelerated innovation
+- Focus on chemical effectiveness and reduced precursor/energy consumption
+- Outcome-based services improving uptime, yield, and performance in high-volume manufacturing
 
 ## Capabilities
 - Atomic layer deposition (ALD)
@@ -363,21 +357,19 @@ ASM positions its differentiation on "atomistic control" and the ability to tran
 - Chemical vapor deposition (CVD)
 - Plasma-enhanced CVD (PECVD)
 - Surface modification
+- Chemical mechanical planarization (CMP)
 - Surface preparation
-- Chemical mechanical polishing (CMP)
 - Chemistry innovation
 - Surface engineering
 - Outcome-based services
-- Flowable Carbon technology
-- Thin-film deposition
+- Service products
 
 ## Industries
 - Semiconductor manufacturing
 - Logic/foundry
-- DRAM/HBM memory
+- Memory (DRAM/HBM)
 - Advanced packaging
-- Interconnects
-- AI data centers
+- Artificial intelligence (AI)
 - Healthcare
 - Cloud computing
 - Energy-efficient devices
@@ -389,22 +381,24 @@ ASM positions its differentiation on "atomistic control" and the ability to tran
 
 <details><summary>Sources</summary>
 
-- HQ: Phoenix, Arizona -> db
-- Partnership with IMEC since 1990 -> description (db)
-- Partnership with University of Helsinki since Dec 2003 -> description (db)
-- 4800+ employees worldwide -> /about page
-- 15 key locations -> /about page
-- 58 years of research -> /about page
-- Advanced wafer processing equipment for thin-film deposition (ALD, epitaxy, CVD, surface modification) -> /about page
-- Service products: outcome-based services improving uptime, yield, performance -> /about page and capabilities
-- Industries: logic/foundry, DRAM/HBM memory, advanced packaging, interconnects -> /about page
-- Customer example: Intel (copper interconnect) -> products text (db)
-- Strategy: maintain leading share in ALD, grow in Epi, advanced packaging, high-value service products, sustainability, operational excellence -> /about page
-- Financial targets: revenue >€5.7B, operating margin >30% by 2030 -> /about page
-- Leadership: Hichem M'Saad (CEO), Paul Verhagen (CFO), etc. -> /about page
-- Flowable Carbon product -> home page
-- "Atomistic control" differentiation -> home page
-- "Materials discovery company" -> /about page
+- HQ Phoenix, Arizona -> db
+- Nearly 60 years of innovation -> /
+- 4800+ employees worldwide -> /about
+- 15 key locations -> /about
+- 70+ nationalities -> /about
+- 58 years of research -> /about
+- Partnership with IMEC since 1990 -> db
+- Partnership with University of Helsinki since 2003 -> db
+- Core processes: ALD, epitaxy, CVD, surface modification -> /about
+- Revenue target >€5.7B by 2030 -> /about
+- Industries: logic/foundry, DRAM/HBM, advanced packaging -> /about
+- End markets: AI, healthcare, cloud computing, energy-efficient devices -> /about
+- Leadership: Hichem M'Saad CEO, Paul Verhagen CFO -> /about
+- Flowable Carbon product -> /
+- Outcome-based services -> db
+- AI/ML enabled common platform -> /about
+- Focus on chemical effectiveness and reduced precursor/energy consumption -> /about
+- Materials purpose, engineering, scale strategy -> /about
 </details>
 
 ---
@@ -414,47 +408,51 @@ ASM positions its differentiation on "atomistic control" and the ability to tran
 **Old description:** AZ Metals specializes in both small bundle quantities of metal and larger production quantity orders. We are a steel and metal supplier in the Mesa, Arizona, as well as, an aluminum supplier, stainless steel supplier, copper supplier and much more! You will find a vast selection of metals to choose from and a great variety of shapes. Let us know what material you are looking for and the size and grade you want, and we’ll be happy to assist you. Looking for steel tubing, expanded metal or a sheet metal supplier? We have you covered, plus we have the ability to source hard-to-find metals with over 20,000+ line items that we can bring in to meet your needs. The metal cutting services we offer have expanded and we now offer custom metal fabrications! See our Services tab for more information.
 
 ## About
-AZ Metals operates from Mesa, Arizona, where it was founded in January 2011 by Doug and Jill Cone as a family‑owned and operated metal supply company. Doug Cone had worked in the metal industry since 1983, progressing from stacker to plant manager and franchise owner, while Jill Cone joined him in 2008 after a nursing career; together they launched AZ Metals after completing a prior franchise agreement.
+AZ Metals operates from Mesa, Arizona, where it was founded in January 2011 by Doug and Jill Cone. The family-owned business traces its roots to Doug’s entry into the metal industry in 1983; after years as a stacker, plant manager, and franchise owner, he and Jill—formerly a registered nurse—completed a decade-long franchise agreement and launched AZ Metals as an independent supplier.
 
-The company stocks and distributes a wide range of metals — including carbon steel, stainless steel, aluminum, brass, bronze, copper, and alloy and tool steels — in shapes such as sheet, plate, tube, pipe, bar, and structural profiles. It maintains over 19,000 line items and offers value‑added processing: shearing (Cincinnati 1810 and Pexto 12U52 squaring shears), band sawing (Hyd‑Mech S20 and Kama saws), punching and notching (GEKA Bendicrop 60S ironworker), bending (Chicago mechanical brake and Baileigh magnetic brake), drilling, and custom fabrication. All orders are cut to size with no minimum quantity.
+The company stocks more than 19,000 line items across steel, stainless steel, aluminum, copper, brass, bronze, and alloy and tool steels, offering shapes from sheet and plate to tube, pipe, and structural profiles. In addition to cut-to-length supply with no minimum order, AZ Metals runs a fabrication shop equipped with two mechanical shears (Cincinnati 1810 and Pexto 12U52), two band saws (Hyd-Mech S20 and Kama), a GEKA Bendicrop 60S ironworker, and Chicago and Baileigh brakes for bending up to 16-gauge material. Services include shearing, sawing, punching, notching, drilling, and custom fabrication.
 
-AZ Metals serves residential, commercial, and industrial customers across the Phoenix East Valley and ships nationwide. Its client base includes builders, landscapers, repair and maintenance departments, fabrication shops, DIY enthusiasts, and local handymen.
+Customers range from residential DIYers and hobbyists to commercial builders, landscapers, repair departments, and industrial fabricators across the Phoenix metro area and beyond, with daily local delivery and continental U.S. shipping.
 
-The company’s stated mission is to meet the needs of both wholesale and retail buyers by providing an extensive selection of metals cut to size with exceptional service. It differentiates itself through no‑minimum‑order policies, same‑day local delivery, and the ability to source hard‑to‑find alloys.
+The founders’ mission emphasizes meeting wholesale and retail needs through an extensive selection cut to size with exceptional service, positioning the company as a one-stop shop priced below home-improvement stores.
 
 ## Known for
-- No minimum order requirements
-- Custom cut‑to‑size metals
-- Over 19,000 line items stocked or sourced
-- Daily local delivery and continental U.S. shipping
-- Family‑owned with 40+ years of industry experience
+- No minimum order requirements on any purchase
+- Over 19,000 metal line items available for same-day pickup or delivery
+- Daily delivery throughout the East Valley and continental U.S. shipping
+- In-house custom fabrication with dedicated shear, saw, punch, and brake equipment
+- Family-owned with over 40 years of combined industry experience
 
 ## Capabilities
-- Metal shearing
-- Metal sawing
-- Metal punching and notching
-- Metal bending
-- Metal drilling
-- Custom metal fabrication
 - Metal supply and distribution
-- Cut‑to‑size services
+- Cut-to-size metal cutting
+- Shearing (up to 1/4" thick, 10' lengths)
+- Band sawing (up to 12" round, 8" square, 18" flat)
+- Punching and notching (up to 1.5" diameter in 3/8" plate)
+- Bending (finger brakes, up to 16 GA 8')
+- Drilling
+- Custom metal fabrication
+- Local delivery and continental U.S. shipping
+- No minimum order quantities
 
 ## Industries
-- Residential construction
-- Commercial construction
-- Industrial maintenance
+- Residential
+- Commercial
+- Industrial
+- Construction
 - Landscaping
-- Fabrication shops
+- Repair and maintenance
+- Fabrication
 - DIY/hobbyist
 
 ## Equipment
 - Cincinnati 1810 mechanical squaring shear
 - Pexto Model 12U52 mechanical squaring shear
-- Hyd‑Mech S20 mechanical band saw
+- Hyd-Mech S 20 mechanical saw
 - Kama band saw
 - GEKA Bendicrop 60S Universal Ironworker
-- Chicago mechanical finger brake
-- Baileigh magnetic finger brake
+- Chicago mechanical brake
+- Baileigh magnetic brake
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -465,18 +463,17 @@ The company’s stated mission is to meet the needs of both wholesale and retail
 <details><summary>Sources</summary>
 
 - Founded January 2011 by Doug and Jill Cone -> /about-us
-- Doug Cone in metal industry since 1983 -> /about-us
 - Family-owned and operated -> /about-us
-- Over 19,000 line items -> / (homepage)
-- No minimum order requirements -> / (homepage)
-- Shearing equipment: Cincinnati 1810, Pexto 12U52 -> / (homepage)
-- Sawing equipment: Hyd‑Mech S20, Kama -> / (homepage)
-- Punching/notching: GEKA Bendicrop 60S -> / (homepage)
-- Bending: Chicago mechanical brake, Baileigh magnetic brake -> / (homepage)
-- Materials: steel, stainless, aluminum, brass, bronze, copper, alloy/tool steel -> / (homepage)
-- Industries served: residential, commercial, industrial, builders, landscapers, maintenance, fabricators, DIY -> / (homepage)
-- Mission statement -> /about-us
-- Local delivery and continental US shipping -> / (homepage)
+- Doug Cone in metal industry since 1983 -> /about-us
+- Headquartered in Mesa, Arizona -> /
+- Over 19,000 line items in stock -> /
+- Metals supplied: steel, stainless steel, aluminum, copper, brass, bronze, alloy/tool steel -> /
+- Services: shearing, sawing, punching, notching, bending, drilling, custom fabrication -> /
+- Equipment: Cincinnati 1810 shear, Pexto 12U52 shear, Hyd-Mech S20 saw, Kama band saw, GEKA Bendicrop 60S ironworker, Chicago brake, Baileigh brake -> /
+- No minimum order requirements -> /
+- Daily local delivery and continental US shipping -> /
+- Serves residential, commercial, industrial customers including builders, landscapers, fabricators, DIYers -> /
+- Mission: meet wholesale and retail needs with extensive selection cut to size -> /about-us
 </details>
 
 ---
@@ -486,19 +483,19 @@ The company’s stated mission is to meet the needs of both wholesale and retail
 **Old description:** Billions of tons of plastic have been made in the past decade, but experts estimate that 91% of that plastic hasn't been recycled. AZ Plastic, Inc. wants to put a dent in that statistic. We recycle used plastics into resin pellets, which our clients can use as an eco-friendly substitute for new plastics.
 
 ## About
-AZ Plastics, Inc. was founded in 2018 in Chicago Heights, Illinois, a south suburb of Chicago. The company was started by a team with extensive experience processing HDPE and HMW plastics, aiming to recycle used plastics into resin pellets as an eco-friendly substitute for virgin plastics.
+AZ Plastics, Inc. was founded in 2018 in Chicago Heights, Illinois, a south suburb of Chicago, by a team with extensive experience processing HDPE and HMW plastics.
 
-The company operates a state-of-the-art facility where it buys used plastics — ranging from detergent bottles to industrial drums — and power washes, shreds, and converts them into pellets. It processes HDPE (high-density polyethylene) containers, plastic skids, injection-grade products, HDPE Frac Melt (milk jugs, shampoo bottles), and HMW (high molecular weight) plastics such as IBCs, drums, and pipes. The facility includes an in-house lab for quality assurance.
+The company recycles post-consumer and industrial plastics — ranging from detergent bottles and milk jugs to large IBC totes and drainage pipes — into resin pellets that serve as eco-friendly substitutes for virgin plastic. At its Chicago Heights facility, incoming material is power-washed, shredded, and pelletized using current processing technology. The operation handles HDPE, HDPE frac melt, and high-molecular-weight (HMW) streams, producing injection-grade pellets, plastic skids, and container-grade resin.
 
-AZ Plastics serves a global customer base across North America, South America, Europe, and Asia. Its recycled resin pellets are used by manufacturers seeking sustainable alternatives for new plastic products. The company is a member of the Reusable Industrial Packaging Association (RIPA), indicating engagement with industrial packaging and recycling sectors.
+AZ Plastics serves a global customer base across North America, South America, Europe, and Asia, supplying recycled resin to manufacturers that incorporate the material into new plastic products, packaging, and industrial components.
 
-The company was started to address the environmental impact of single-use plastics, with a goal to eliminate single-use plastics entirely and promote environmental responsibility among employees, vendors, and customers.
+The business was started to address the low recycling rate of plastics, with a stated goal of eliminating single-use plastic waste. AZ Plastics emphasizes its in-house laboratory for quality assurance and its membership in the Reusable Industrial Packaging Association (RIPA) as part of its commitment to a more sustainable supply chain.
 
 ## Known for
-- In-house lab for quality assurance on every shipment
-- Global distribution across North America, South America, Europe, and Asia
-- Focus on HDPE, HDPE Frac Melt, and HMW plastic recycling streams
-- Member of the Reusable Industrial Packaging Association (RIPA)
+- In-house laboratory guarantees product quality
+- Member of Reusable Industrial Packaging Association (RIPA)
+- Global reach serving four continents
+- Processes multiple HDPE and HMW waste streams
 
 ## Capabilities
 - Plastic recycling
@@ -506,15 +503,15 @@ The company was started to address the environmental impact of single-use plasti
 - Shredding
 - Pelletizing
 - HDPE processing
-- HDPE Frac Melt processing
 - HMW processing
-- In-house lab testing
-- Quality assurance
+- Injection-grade pellet production
+- Plastic skid manufacturing
+- Container-grade resin production
+- In-house laboratory testing
 
 ## Industries
 - Plastics recycling
 - Industrial packaging
-- Sustainable materials manufacturing
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -523,15 +520,14 @@ The company was started to address the environmental impact of single-use plasti
 
 <details><summary>Sources</summary>
 
-- Founded in 2018 -> /about-us
-- Located in Chicago Heights, Illinois -> /about-us
-- Recycles used plastics into resin pellets -> /
-- Processes HDPE, HDPE Frac Melt, HMW -> /
-- Power washes, shreds, and pelletizes -> /
-- In-house lab for quality assurance -> /about-us
-- RIPA member -> /about-us
-- Global company serving North America, South America, Europe, Asia -> /
+- Founded in 2018 in Chicago Heights, Illinois -> /about-us
+- Recycles HDPE, HDPE Frac Melt, and HMW plastics into resin pellets -> /
+- Processes include power washing, shredding, and pelletizing -> /
+- Serves customers in North America, South America, Europe, and Asia -> /
+- In-house laboratory for quality assurance -> /about-us
+- Member of Reusable Industrial Packaging Association (RIPA) -> /about-us
 - Goal to eliminate single-use plastics -> /
+- Produces injection-grade pellets, plastic skids, container-grade resin -> /
 </details>
 
 ---
@@ -541,38 +537,45 @@ The company was started to address the environmental impact of single-use plasti
 **Old description:** With over 35 years in the industry & $55 million of inventory, AZ Industries is your one-source distributor to meet all of your wire & cable needs. With 8 regional distribution centers, AZ Wire & Cable continues to expand its national footprint. Our quality products, top of the line service & industry experts show why we are a “cut above the rest.”
 
 ## About
-AZ Wire & Cable is headquartered in Phoenix, Arizona. The company was founded in 1988 by Jim Anixter and Bob Zywicki, both veterans of Anixter International. The partners identified an opportunity to provide hard-to-find wire and cable items—typically associated with high manufacturer minimums and limited inventory turns—to electrical distributors of all sizes. They began as buyers of special constructions, overstocks, and discontinued commodities, leveraging long-standing relationships with wire and cable manufacturers.
+AZ Wire & Cable, headquartered in Phoenix, Arizona, was founded in 1988 by Jim Anixter and Bob Zywicki, both veterans of Anixter International. The partners recognized an opportunity to supply hard‑to‑find wire and cable items—typically burdened by high manufacturer minimums and slow inventory turns—to electrical distributors of all sizes. They launched the business by leveraging their manufacturer relationships to buy special constructions, overstocks, and discontinued commodities.
 
-The company operates as a master distributor of industrial, commercial, and specialty wire and cable. It maintains a vast inventory valued at $65 million across nine regional distribution centers nationwide. Services include cutting to length with no cut or reel charges, paralleling and Wemco services, stripping, coiling, shrink-wrapping, special packaging, blind shipments, and same-day shipping or will-call pickup. The company sells stock in bulk reels and cut-to-length quantities.
+Today the company operates as a master distributor of industrial, commercial, and specialty wire and cable, stocking a full range of standard and custom constructions across nine regional distribution centers nationwide. Its $65 million inventory is sold in bulk reels or cut to length, supported by value‑added services that include stripping, paralleling and Wemco processing, coiling, cut‑to‑length bundling, shrink‑wrap packaging, blind shipments, and same‑day shipping with no cut, reel, or minimum‑order charges.
 
-AZ Wire & Cable serves industrial, commercial, residential, and utility markets. Industrial customers include steel, pulp and paper, manufacturing, energy, agriculture, and transportation sectors, requiring cables such as Type W, Type G, welding cable, DLO, VFD, and industrial automation cable. Commercial projects use THHN, MC, category cable, and XHHW for alarm systems, telecommunications, and audiovisual equipment. Residential applications cover NM-B, SER, SEU, landscape lighting, and submersible pump cable. Utility customers need ACSR, AAC, quadraplex, triplex, MV-105, and bare copper for power transmission.
+AZ Wire & Cable serves the electrical distribution channel and associated markets across industrial, commercial, residential, and utility sectors. Industrial customers in steel, pulp and paper, manufacturing, energy, agriculture, and transportation rely on cables such as Type W, DLO, and VFD; commercial projects use THHN, MC, and category cable; residential applications include NM‑B, SER, and landscape lighting; utilities specify ACSR, quadraplex, and medium‑voltage cable. The company also supplies automotive and marine cable.
 
-The founders aimed to simplify the business by focusing on inventory depth, service, and client value. The company emphasizes no minimum order charges, same-day shipping, and a diverse inventory to act as a one-source distributor for hard-to-find items.
+The founders built the business on a simple philosophy: focus on inventory depth, service responsiveness, and client value. That approach, combined with a diverse stock and nationwide logistics, is why hundreds of companies across dozens of industries turn to AZ Wire & Cable for hard‑to‑source wire and cable solutions.
 
 ## Known for
-- No cut, reel, or minimum order charges
-- Same-day shipping and same-day will-call pickup
-- Paralleling and Wemco services
-- Stripping, coiling, and custom packaging
-- Blind shipment capability
+- Same-day shipping on stocked items
+- No cut, reel, or minimum-order charges
+- Paralleling and Wemco processing services
+- Stripping, coiling, and cut-to-length bundling
+- Nine regional distribution centers nationwide
 
 ## Capabilities
-- Cut to length (no cut charge)
-- Paralleling and Wemco services
-- Stripping
-- Coiling and bundling
-- Shrink wrap and special packaging
-- Blind shipments
-- Same-day shipping
-- Will-call pickup
-- No minimum order requirement
+- Paralleling & Wemco Services
+- Stripping Services
+- Coiling – Cut to Length & Bundling
+- Shrink Wrap & Special Packaging
+- Blind Shipments
+- Same Day Shipping
+- Will Call Pickup
+- No Cut Charge
+- No Reel Charge
+- No Minimum Order Charge
 
 ## Industries
+- Automotive & Marine Cable
 - Industrial
 - Commercial
 - Residential
-- Utility
-- Automotive & Marine
+- Utilities
+- Steel
+- Pulp & Paper
+- Manufacturing
+- Energy
+- Agriculture
+- Transportation
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -583,13 +586,15 @@ The founders aimed to simplify the business by focusing on inventory depth, serv
 
 - Founded 1988 by Jim Anixter and Bob Zywicki -> /about
 - Headquarters Phoenix, Arizona -> db
-- Nine regional distribution centers -> /services
+- Nine regional distribution centers -> /about
 - $65 million inventory -> /services
-- Services: cut to length, paralleling, stripping, coiling, packaging, blind shipments, same-day shipping -> /services
-- Industries served: industrial, commercial, residential, utility -> /
-- Automotive & Marine Cable -> db
-- No cut, reel, or minimum order charges -> /services
-- Same-day shipping and will-call pickup -> /services
+- Services: stripping, paralleling, coiling, cut-to-length, shrink wrap, blind shipments, same-day shipping, no cut/reel/minimum charges -> /services
+- Industries: industrial, commercial, residential, utilities, automotive & marine -> /, /about
+- Materials: copper, aluminum -> /
+- Same-day shipping on stocked items -> /services
+- No minimum order -> /services
+- Company type: master distributor -> /about
+- LinkedIn URL -> db
 </details>
 
 ---
@@ -599,19 +604,20 @@ The founders aimed to simplify the business by focusing on inventory depth, serv
 **Old description:** Aaero Swiss provides precision CNC machining services using Swiss screw machines. Produces high-quality small-diameter parts for industries including medical, dental, aerospace, defense and automotive.
 
 ## About
-Aaero Swiss was founded in May 2001 as a family-operated precision machine shop in Yorba Linda, California, before moving to its current facility in Anaheim. The company remains family-owned and focuses on precision CNC Swiss machining.
+Aaero Swiss began as a family-operated precision machine shop in Orange County, California in May 2001. From its beginnings in Yorba Linda to its current facility in Anaheim, the company has remained focused on quality, attention to detail, and dependable service.
 
-The shop specializes in small-diameter components from 0.020 to 0.780+ inches, holding tolerances as tight as ±0.0001 inch. It runs production quantities from 10 pieces to over one million parts, working with metals such as stainless steel, brass, copper, aluminum, titanium, tool steel, and carbon steel, plus engineering plastics. The 10-49 person team operates CNC Swiss machines, milling, and secondary operations to produce pins, bushings, shafts, inserts, standoffs, implant screws, washers, and custom turned parts.
+The company specializes in precision CNC Swiss machining, micro machining, screw machine products, and milling and secondary operations. It produces small-diameter components ranging from 0.020 to 0.780 inches with tolerances as tight as ±0.0001 inch. Production runs span from as few as 10 parts to over one million, supported by a team of 10 to 49 employees at its Anaheim facility.
 
-Aaero Swiss serves manufacturers in medical, dental, aerospace, defense, automotive, computer, electronics, and sporting goods industries. Customers rely on the shop for prototype development through high-volume production of precision components.
+Aaero Swiss serves manufacturers in medical, dental, aerospace, defense, automotive, electronics, computer, and sporting goods industries. Its precision components include pins, bushings, shafts, inserts, standoffs, implant screws, washers, and screws for applications such as medical implants and aerospace assemblies.
 
-The company emphasizes close tolerances, flexible production volumes, responsive communication, and a quality-focused approach built on ISO-compliant processes. Its founding principle was to be a dependable manufacturing partner that delivers accuracy and consistency on schedule.
+The company emphasizes quality, precision, and dependability, positioning itself as a manufacturing partner focused on attention to detail, on-time delivery, and building lasting customer relationships. It highlights responsive service, flexible production volumes, and ISO-compliant quality processes as key differentiators.
 
 ## Known for
-- Tolerances as tight as ±0.0001 inch
-- Family-owned and operated since 2001
-- Responsive service with dependable turnaround
-- ISO-compliant quality processes
+- Close tolerances: precision components manufactured to demanding specifications
+- Flexible production: from 100-piece runs to volumes exceeding one million parts
+- Responsive service: prompt communication and dependable turnaround from quote to delivery
+- Quality focused: every project completed with attention to accuracy and consistency
+- Family-operated business with commitment to understanding customers
 
 ## Capabilities
 - CNC Swiss machining
@@ -619,8 +625,14 @@ The company emphasizes close tolerances, flexible production volumes, responsive
 - Screw machining
 - Milling
 - Secondary operations
+- Drilling
+- Finishing
+- Prototype machining
+- High-volume production
 - Precision turning
-- Close-tolerance machining
+- Custom turned parts
+- Small-diameter machining (0.020–0.780 in)
+- Close-tolerance machining (±0.0001 in)
 
 ## Industries
 - Medical
@@ -628,13 +640,13 @@ The company emphasizes close tolerances, flexible production volumes, responsive
 - Aerospace
 - Defense
 - Automotive
-- Computer
 - Electronics
+- Computer
 - Sporting Goods
 
 ## Equipment
 - Mitutoyo 50x Optical Comparator
-- 3 ft. × 6 ft. Granite Inspection Surface Plate
+- 3 ft × 6 ft Granite Inspection Surface Plate
 - Etalon Super Mics
 - 70x Mitutoyo Digital Microscope
 - 70x Microscope
@@ -650,22 +662,17 @@ The company emphasizes close tolerances, flexible production volumes, responsive
 
 <details><summary>Sources</summary>
 
-- Founded May 2001 -> /about-us
-- Family-owned and operated -> /about-us
-- Headquarters in Anaheim, California -> /about-us
-- Employee count 10-49 -> db
-- Capabilities: .020 to .780+ inch diameter -> /capabilities
-- Tolerances ±0.0001 inch -> /capabilities
-- Production volume 10 to 1M+ parts -> /capabilities
-- Materials: Stainless Steel, Brass, Copper, Aluminum, Titanium, Tool Steel, Carbon Steel, Engineering Plastics -> /
-- Industries: Medical, Dental, Aerospace, Defense, Automotive, Computer, Electronics, Sporting Goods -> /
-- Inspection equipment: Mitutoyo 50x Optical Comparator, Granite Surface Plate, Etalon Super Mics, Mitutoyo Digital Microscope, Microscope, I.D. Micrometer, SurfTest 401 Profilometer -> /quality
-- Quality processes follow ISO-compliant standards -> /quality
-- Services: CNC Swiss Machining, Micro Machining, Screw Machine Products, Milling & Secondary Operations -> /services
-- Minimum order quantity 10 parts -> /capabilities
-- Company began in Yorba Linda, moved to Anaheim -> /about-us
-- Serves Southern California and beyond -> /about-us
-- Focus on close tolerances, flexible production, responsive service, quality -> /
+- Founded 2001, family-operated in Orange County, moved from Yorba Linda to Anaheim -> /about-us
+- Specializes in precision CNC Swiss machining, micro machining, screw machine products, milling & secondary operations -> /services
+- Produces small-diameter components 0.020–0.780 in, tolerances ±0.0001 in, production runs 10 to 1M+ parts -> /capabilities
+- Team of 10-49 employees -> db
+- Serves medical, dental, aerospace, defense, automotive, electronics, computer, sporting goods industries -> / and /about-us
+- Components include pins, bushings, shafts, inserts, standoffs, implant screws, washers, screws -> /services
+- Emphasizes quality, precision, dependability, responsive service, flexible volumes, ISO-compliant processes -> / and /quality
+- Materials: stainless steel, brass, copper, aluminum, titanium, tool steel, carbon steel, engineering plastics -> /
+- Inspection equipment: Mitutoyo 50x Optical Comparator, 3x6 ft Granite Surface Plate, Etalon Super Mics, 70x Mitutoyo Digital Microscope, 70x Microscope, Mitutoyo I.D. Micrometer, Mitutoyo SurfTest 401 Profilometer -> /quality
+- Minimum order 10 parts -> /capabilities
+- Family-owned -> /about-us
 </details>
 
 ---

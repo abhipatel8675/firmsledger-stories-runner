@@ -3,39 +3,42 @@
 **Old description:** Care Medical specializes in the provision of ventilator equipment and aids. Care Medical enables the ventilator-dependent patient to have as much normalcy as possible in their life while still receiving complex medical treatment. Coatal Med Tech provides both Invasive and Non-Invasive ventilator treatments.
 
 ## About
-Care Medical operates from Gainesville, Georgia, with a staff of over 45 employees across multiple locations in the region. The company was established as a local home medical equipment provider focused on partnering with patients, referral sources, and healthcare professionals to deliver respiratory and mobility solutions.
+Care Medical operates from Gainesville, Georgia, as a locally focused home medical equipment provider with a staff of over 45 employees. The company does not disclose its founding year or ownership structure, but it describes itself as a community-oriented business that partners with customers and referral sources to deliver quality care.
 
-The company specializes in ventilator therapy, supplying both invasive and non-invasive ventilation equipment for patients with complex respiratory needs. It also provides oxygen systems supported by a team of respiratory therapists aimed at reducing hospital readmissions, complex power wheelchairs fitted by certified Assistive Technology Professionals (ATPs), a broad range of daily living aids and mobility products, and CPAP/sleep apnea equipment complemented by a home sleep testing program reviewed by board-certified sleep physicians.
+The company supplies a range of respiratory and mobility equipment, including invasive and non‑invasive ventilators, oxygen systems, complex power wheelchairs with custom seating and alternative drive options, and a broad catalog of daily‑living aids such as walking aids, bathroom safety products, and seat‑lift chairs. It also runs a home sleep‑testing program for sleep‑apnea patients, with results reviewed by board‑certified sleep physicians, and provides CPAP/BiPAP therapy setup. Services are supported by a team of respiratory therapists and certified Assistive Technology Professionals (ATPs) who guide patients from evaluation through delivery and follow‑up.
 
-Care Medical serves ventilator-dependent patients, individuals with COPD, mobility impairments, and sleep apnea. Its customers include private insurance holders, Medicare beneficiaries, and referral sources such as physicians and discharge planners. The company works across home healthcare, respiratory therapy, mobility equipment, and sleep medicine markets.
+Care Medical serves ventilator‑dependent patients, individuals with COPD, those requiring complex rehab mobility equipment, and sleep‑apnea sufferers. Its customers include private‑pay patients, Medicare beneficiaries, and referrals from healthcare professionals and hospitals. The company works with insurers to secure funding for complex rehab equipment and coordinates with physicians for prescription‑based therapies.
 
-The company emphasizes responsive, compassionate care with quick decision-making and availability for special requests. It highlights community involvement through financial support for local charities, equipment donations to indigent patients, and staff participation on non-profit boards. Its service model includes end-to-end ATP partnership from evaluation through delivery and follow-up, and a convenient home sleep testing process.
+The firm emphasizes responsive, compassionate care and quick decision‑making, citing community involvement through financial contributions to local charities, equipment donations to indigent patients, and staff participation on non‑profit boards. Its stated differentiator is a hands‑on approach where ATPs and respiratory therapists remain engaged throughout the equipment lifecycle, aiming to reduce hospital readmissions and improve patient independence.
 
 ## Known for
-- Quick decision-making and availability for special requests
-- Community involvement: financial contributions to local charities and equipment for indigent patients
-- Certified ATPs manage complex power wheelchair selection from evaluation through delivery and follow-up
-- Home sleep testing system with results reviewed by board-certified sleep doctors
-- Respiratory therapists trained to reduce hospital readmissions for COPD patients
+- Responsive and compassionate care with quick decision-making
+- Community involvement including financial contributions to local charities and equipment for indigent patients
+- Certified ATPs guide patients from evaluation through delivery and follow-up
+- Home sleep testing system reviewed by board-certified sleep physicians
+- Team of respiratory therapists focused on reducing hospital readmissions
 
 ## Capabilities
 - Invasive ventilator therapy
 - Non-invasive ventilator therapy
 - Oxygen therapy equipment provision
 - Complex power wheelchair evaluation and fitting
-- Assistive Technology Professional (ATP) services
-- Daily living aids and mobility equipment supply
+- Seating and positioning assessment
+- Alternative drive system configuration
+- Daily living aids provision
 - Home sleep apnea testing
-- CPAP/BiPAP equipment provision
+- CPAP/BiPAP therapy setup
 - Respiratory therapy services
-- Insurance and Medicare billing assistance
+- Certified ATP consultation
+- Board-certified sleep physician review
 
 ## Industries
-- Home healthcare
-- Respiratory therapy
-- Mobility equipment
-- Sleep medicine
-- Durable medical equipment
+- Home medical equipment
+- Ventilator therapy
+- Oxygen therapy
+- Complex rehabilitation technology
+- Daily living aids
+- Sleep apnea treatment
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -44,15 +47,24 @@ The company emphasizes responsive, compassionate care with quick decision-making
 
 <details><summary>Sources</summary>
 
-- Headquarters in Gainesville, Georgia -> db
-- Employee count 45 -> db
-- Provides invasive and non-invasive ventilator therapy -> /services
-- Offers oxygen equipment and respiratory therapists to reduce readmissions -> /services
-- Provides complex power wheelchairs with certified ATPs -> /services
-- Supplies daily living aids and mobility equipment -> /services
-- Offers home sleep apnea testing with board-certified sleep doctors -> /services
-- Community involvement: financial contributions to local charities, equipment for indigent patients -> /
-- Responsive and compassionate care, quick decisions -> /
+- Location: Gainesville, Georgia -> db
+- Employee count: 45 -> db
+- Employee count: over 45 -> /
+- Services: ventilator therapy (invasive/non-invasive) -> /services
+- Services: oxygen equipment -> /services
+- Services: mobility equipment (complex power wheelchairs) -> /services
+- Services: medical supplies (daily living aids) -> /services
+- Services: CPAP/sleep apnea equipment and home sleep testing -> /services
+- Staff: respiratory therapists -> /services
+- Staff: certified ATPs -> /services
+- Staff: board-certified sleep doctors -> /services
+- Community involvement: financial contributions to local charities, equipment for indigent patients, non-profit board service -> /
+- Differentiator: responsive and compassionate care, quick decisions -> /
+- Differentiator: ATPs partner from evaluation through delivery -> /services
+- Differentiator: home sleep testing system reviewed by board-certified sleep physicians -> /services
+- Industries served: home medical equipment, ventilator therapy, oxygen therapy, complex rehab, daily living aids, sleep apnea -> /services
+- Customer types: ventilator-dependent patients, COPD patients, mobility-impaired patients, sleep apnea patients, Medicare beneficiaries, referral sources -> /services
+- Insurance: Medicare, most insurances -> /services
 </details>
 
 ---
@@ -62,45 +74,41 @@ The company emphasizes responsive, compassionate care with quick decision-making
 **Old description:** Starting August 1, 2026, you will need a zero balance or an active autopay on file before a new order can be processed. If you have any questions or want to update your payment options, please use the live chat option.
 
 ## About
-CareLinc Medical Equipment & Supply operates a location in Grand Haven, Michigan, at 1015 S. Beacon Boulevard. The company provides home medical equipment sales and rentals across the region. Ownership details and founding year are not publicly disclosed.
+CareLinc Medical Equipment & Supply operates a location in Grand Haven, Michigan, at 1015 S. Beacon Boulevard. The company serves as a home medical equipment provider, offering sales and rentals of a broad range of products for long-term care, hospice, and home accessibility needs. While the founding year and ownership structure are not publicly disclosed, the Grand Haven team emphasizes years of expertise in the durable medical equipment field.
 
-The Grand Haven location offers sales and rentals of a broad range of durable medical equipment. Product categories include aids to daily living, bathroom safety products, breast pumps, CPAP and BiPAP machines and supplies, diabetic supplies, hospital beds, lift chairs, medical supplies, oxygen supplies, ventilators, wheelchairs and walkers, and wound management supplies. The site also provides 24/7 emergency on-call service and a virtual tour of the facility.
+The Grand Haven store supplies equipment across categories including aids to daily living, bathroom safety products, breast pumps, CPAP and BiPAP machines and supplies, diabetic supplies, hospital beds, lift chairs, medical supplies, oxygen supplies, ventilators, wheelchairs, walkers, and wound management products. The facility provides both retail sales and rental programs, supported by a trained staff that assists customers with product selection and insurance qualification, such as for free breast pumps through insurance.
 
-The company serves individuals and caregivers needing home medical equipment for long-term care, hospice care, and home accessibility. Customers include patients requiring respiratory support, mobility assistance, wound care, and daily living aids. The team assists with insurance qualification, such as for free breast pumps through insurance.
+Customers include individuals requiring home medical equipment, caregivers, and healthcare facilities seeking durable medical equipment for long-term and hospice care. The company’s focus on home accessibility solutions also serves aging-in-place populations and those recovering from surgery or injury.
 
-CareLinc emphasizes personalized service, with a highly trained team that helps clients find optimal solutions for individual medical equipment needs. The location offers 24/7 emergency on-call support and a streamlined process for insurance-qualified products.
+CareLinc highlights its 24/7 emergency on-call service as a key differentiator, ensuring support outside regular business hours. The team prioritizes finding optimal solutions for each customer’s individual medical equipment needs, and offers a virtual tour of the Grand Haven location for remote assessment.
 
 ## Known for
 - 24/7 emergency on-call service
-- Free breast pump qualification assistance
-- Virtual store tour available
+- Sales and rentals of home medical equipment
+- Insurance qualification assistance for breast pumps
+- Virtual tour of facility available
+- Trained staff for product selection and home accessibility solutions
 
 ## Capabilities
 - 24/7 emergency on-call service
 - Medical equipment sales
 - Medical equipment rentals
-- Home accessibility solutions
+- Breast pump insurance qualification assistance
+- Home accessibility assessment
 - Long-term care equipment provision
 - Hospice care equipment provision
-- Insurance qualification assistance
-- Breast pump fitting and supply
-- CPAP/BiPAP equipment and supplies
-- Oxygen therapy equipment
-- Wound management supplies
-- Mobility equipment (wheelchairs, walkers)
-- Hospital beds and lift chairs
-- Bathroom safety products
-- Diabetic supplies
+- CPAP/BiPAP equipment supply
+- Oxygen equipment supply
+- Wound management product supply
+- Wheelchair and walker provision
+- Hospital bed and lift chair provision
 
 ## Industries
-- Home medical equipment (HME)
-- Durable medical equipment (DME)
+- Home healthcare
 - Long-term care
 - Hospice care
+- Durable medical equipment (DME) supply
 - Home accessibility
-- Respiratory therapy
-- Mobility assistance
-- Wound care
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -108,16 +116,16 @@ CareLinc emphasizes personalized service, with a highly trained team that helps 
 
 <details><summary>Sources</summary>
 
-- Location: Grand Haven, MI at 1015 S. Beacon Blvd -> /
-- Phone: 616-846-0360 -> /
-- Hours: Mon-Fri 8-5, Sat-Sun closed -> /
+- Location: Grand Haven, MI at 1015 S. Beacon Blvd. -> /
+- Phone: 616-846-0360, Fax: 616-846-6643 -> /
+- Hours: Mon-Fri 8am-5pm, Sat-Sun closed -> /
+- Description: home medical equipment provider with sales and rentals -> /
+- Product categories: aids to daily living, bathroom safety, breast pumps, CPAP/BiPAP, diabetic supplies, hospital beds, lift chairs, medical supplies, oxygen supplies, ventilators, wheelchairs, walkers, wound management -> /
 - 24/7 Emergency On-Call Service Available -> /
-- Medical equipment sales and rentals -> /
-- Product categories: aids to daily living, bathroom safety, breast pumps, CPAP/BiPAP, diabetic supplies, hospital beds, lift chairs, medical supplies, oxygen supplies, ventilators, wheelchairs/walkers, wound management -> /
-- Serves long-term care, hospice care, home accessibility -> /
-- Free breast pump qualification assistance -> /
+- Single or double pump capability -> db
+- Breast pump qualification assistance -> /
 - Virtual tour available -> /
-- AutoPay required starting August 1, 2026 -> /
+- Years of expertise in long-term and hospice care, home accessibility -> /
 </details>
 
 ---
@@ -127,52 +135,51 @@ CareLinc emphasizes personalized service, with a highly trained team that helps 
 **Old description:** Located in the scenic coastal town of North Kingstown, Rhode Island, in Washington County, this vibrant community of over 27,800 residents is now home to one of Cargill’s newest and most advanced protein processing facilities. Spanning 200,000 square feet, this state-of-the-art slicing and packaging plant specializes in the production of fresh beef, ground beef, pork, and value-added meat products.
 
 ## About
-Cargill operates one of its newest protein processing facilities in the coastal community of North Kingstown, Rhode Island. The plant, which represents a strategic investment exceeding $120 million, sits on a 200,000-square-foot site at 60 Compass Circle. While the company traces its roots back 160 years, this particular facility is a recent addition to Cargill's North American food network, which comprises roughly 60 processing plants, distribution centers, feed mills, hatcheries, and an innovation center across the United States and Canada.
+Cargill’s newest protein processing facility sits in North Kingstown, Rhode Island, a coastal community of roughly 27,800 residents in Washington County. The plant represents a strategic investment of more than $120 million and is one of the company’s most advanced slicing and packaging operations. Cargill itself traces its roots back 160 years, though a specific founding year for this location is not disclosed.
 
-The North Kingstown plant specializes in slicing and packaging fresh beef, ground beef, pork, and value-added meat products. It is designed to strengthen Cargill's capacity to deliver high-quality protein solutions to retail and foodservice customers throughout the Northeast. Globally, Cargill employs 155,000 people in 70 countries and serves 125 markets across food, agriculture, financial, and industrial sectors.
+The 200,000-square-foot facility specializes in fresh beef, ground beef, pork, and value‑added meat products. It operates as a slicing and packaging plant, part of Cargill’s North American food business that employs 28,000 people across approximately 60 processing facilities, distribution centers, feed mills, hatcheries, and an innovation center in the U.S. and Canada. Exact headcount or production volumes for the North Kingstown site are not published.
 
-The facility's output reaches retail and foodservice partners across the Northeast, while the broader company supplies a diverse customer base that includes food manufacturers, agricultural producers, financial services clients, and industrial users. The North Kingstown operation focuses on protein processing for the regional market, complementing Cargill's wider portfolio of food and agricultural ingredients.
+The plant’s output is directed at retail and foodservice partners throughout the Northeast and beyond. Globally, Cargill serves customers in food, agriculture, financial, and industrial markets across 70 countries, but the North Kingstown operation focuses on delivering high‑quality protein solutions to regional distributors, grocery chains, and restaurant suppliers.
 
-Cargill states that its purpose is to nourish the world in a safe, responsible, and sustainable way. The North Kingstown investment underscores a commitment to innovation, food safety, and regional economic development, positioning the plant as a modern hub for protein production in New England.
+Cargill states that the facility was built to strengthen its commitment to innovation, food safety, and regional economic development. The company’s broader purpose is to nourish the world in a safe, responsible, and sustainable way, and the North Kingstown plant is positioned as a key asset in meeting that goal for the Northeast market.
 
 ## Known for
-- State-of-the-art slicing and packaging facility with $120 million investment
-- Focus on food safety and innovation in protein processing
-- Serves retail and foodservice partners across the Northeast
-- Part of a global network of 155,000 employees in 70 countries
-- Commitment to sustainable and responsible food production
+- Strategic investment of over $120 million in a state-of-the-art slicing and packaging plant
+- Strengthens commitment to innovation, food safety, and regional economic development
+- Enhances ability to deliver high-quality protein solutions to retail and foodservice partners across the Northeast
+- Part of a global network with 155,000 colleagues operating in 70 countries
 
 ## Capabilities
-- Beef slicing
-- Beef packaging
+- Meat slicing
+- Meat packaging
+- Fresh beef processing
 - Ground beef production
 - Pork processing
 - Value-added meat product manufacturing
 
 ## Industries
-- Food
+- Retail
+- Foodservice
+- Food processing
 - Agriculture
 - Financial services
 - Industrial
-- Retail
-- Foodservice
 
 ## Company details
 - **Company Type:** Manufacturer
-- **Employees:** 155,000
 - **Headquarters:** North Kingstown, Rhode Island
 
 <details><summary>Sources</summary>
 
-- North Kingstown facility location and size -> /
-- $120 million investment in North Kingstown plant -> /
-- Facility specializes in fresh beef, ground beef, pork, value-added meat products -> /
-- Cargill North American food business: 28,000-member team, ~60 facilities -> /
-- Global: 155,000 colleagues, 70 countries, 125 markets -> /about-us
-- 160 years of experience -> /about-us
+- Location: North Kingstown, Rhode Island, Washington County -> /
+- Facility size: 200,000 square feet -> /
+- Investment: over $120 million -> /
+- Products: fresh beef, ground beef, pork, value-added meat products -> /
+- Global colleagues: 155,000 in 70 countries -> /about-us
+- North American team: 28,000 across ~60 facilities -> /
 - Purpose: nourish the world in a safe, responsible, sustainable way -> /about-us
-- Serves retail and foodservice partners across Northeast -> /
-- Address: 60 Compass Circle, North Kingstown, RI 02852 -> /
+- Facility focus: innovation, food safety, regional economic development -> /
+- Customers: retail and foodservice partners across the Northeast -> /
 </details>
 
 ---
@@ -182,66 +189,72 @@ Cargill states that its purpose is to nourish the world in a safe, responsible, 
 **Old description:** Family owned and operated since 1997, Carney & Sloan, Inc. specializes in food service equipment and supplies, sales and service. Operating out of Wheeling, West Virginia, Carney & Sloan has long served the Wheeling and Tri-State area servicing restaurants, churches, schools, healthcare, convenient stores, taverns, fraternal organizations, food trucks and more. Our showroom is open to the public or we are a simple phone call away. We pride ourselves on excellent customer relations and service and fast local delivery and installation within the Tri-State area.
 
 ## About
-Carney & Sloan Inc is a family-owned food service equipment and supplies company founded in 1997 by Mike Carney and Ron Sloan in Wheeling, West Virginia. In December 2023, ownership transferred to Patrick and Christine Opferman, who also operate Opferman Mechanical in Pittsburgh, bringing combined decades of industry experience.
+Carney & Sloan Inc was founded in 1997 in Wheeling, West Virginia, by Mike Carney and Ron Sloan as a family-owned food service equipment and supplies company. In December 2023, ownership transferred to Patrick and Christine Opferman, who also operate Opferman Mechanical in Pittsburgh, bringing combined decades of industry experience.
 
-The company provides complete kitchen layout and design, engineering, installation, sales, and service for commercial food service equipment. It operates a public showroom in Wheeling and stocks thousands of items ranging from smallwares to large equipment such as walk-in coolers, freezers, combi-ovens, cooking equipment, and beverage systems. A dedicated team handles CAD-based kitchen design, equipment delivery, installation, and ongoing service for hot-side, HVAC, and refrigeration systems.
+The company provides complete commercial kitchen solutions including layout and design (with in-house CAD), engineering, equipment sales, delivery, installation, and ongoing service. Its showroom stocks thousands of items ranging from walk-in coolers, freezers, and combi-ovens to cooking equipment, countertop appliances, smallwares, and beverage systems. The firm also rents refrigerated cooler and freezer trailers and can drop-ship equipment directly from manufacturers.
 
-Carney & Sloan serves restaurants, hotels, health care facilities, schools, clubs and organizations, convenience stores, churches, and food trucks throughout the Wheeling tri-state area. Customers include both independent operators and institutional buyers seeking turnkey kitchen solutions.
+Carney & Sloan serves restaurants, hotels, health care facilities, schools, clubs and organizations, convenience stores, churches, and food trucks across the Wheeling tri-state area. Customers include independent eateries, institutional kitchens, and mobile food operators.
 
-The company emphasizes exceptional customer service, fast local delivery and installation, and an extensive in-stock inventory as its core differentiators, aiming to make kitchen upgrades hassle-free for its clients.
+The company emphasizes fast local delivery and installation, a public showroom requiring no account, and long-standing vendor relationships that allow tailored equipment solutions.
 
 ## Known for
 - Family owned and operated since 1997
 - Showroom open to the public with no account required
-- Fast local delivery and installation within the tri-state area
-- Thousands of items in stock, from smallwares to large equipment
-- Complete kitchen layout, design, engineering, installation, sales, and service under one roof
+- Fast local delivery and installation within the Tri-State area
+- Thousands of items in stock with direct drop-ship capability from manufacturers
+- Over 25 years of experience in food service solutions
 
 ## Capabilities
 - Kitchen layout and design
 - Engineering
 - Installation
-- Sales
-- Service (hot-side equipment, HVAC, refrigeration)
-- Equipment delivery and installation
-- Refrigerated cooler/freezer trailer rental
-- CAD design for custom kitchen layouts
-- Equipment procurement and drop-shipping
+- Equipment sales
+- Equipment service and repair
+- Equipment delivery
+- Refrigerated trailer rental
+- CAD design
+- Drop-shipping
 
 ## Industries
 - Restaurants
 - Hotels
-- Health care facilities
+- Health Care Facilities
 - Schools
-- Clubs & organizations
-- Convenience stores
+- Clubs & Organizations
+- C-Stores
 - Churches
-- Food trucks
+- Food Trucks
 
 ## Equipment
 - Walk-in coolers
 - Freezers
 - Combi-ovens
+- Cooking equipment
+- Countertop appliances
+- Smallwares
+- Beverage equipment
+- Ice machines
+- Refrigerated cooler/freezer trailers
 
 ## Company details
 - **Company Type:** Distributor / reseller
 - **Founded:** 1997
-- **Ownership:** Family-owned (founders Mike Carney & Ron Sloan; current owners Patrick & Christine Opferman)
+- **Ownership:** Family-owned
 - **Headquarters:** Wheeling, West Virginia
 
 <details><summary>Sources</summary>
 
-- Founded 1997 by Mike Carney and Ron Sloan -> /about-us
-- Family-owned and operated since 1997 -> /
+- Founded 1997 by Mike Carney & Ron Sloan -> /about-us
 - Ownership transferred to Patrick and Christine Opferman in December 2023 -> /about-us
-- Located in Wheeling, West Virginia -> /
+- Location: Wheeling, West Virginia -> /
 - Services: complete kitchen layout and design, engineering, installation, sales & service -> /
-- Showroom open to public at 518 Main Street, Wheeling -> /
-- Thousands of items in stock, including walk-ins, freezers, combi-ovens -> /
-- Industries served: restaurants, hotels, health care facilities, schools, clubs & organizations, convenience stores, churches, food trucks -> /
-- Team includes service manager Tom Glemba (20+ years experience), CAD specialist Jack Schopp, sales manager Ryan Carney, buyer Kristin Sloan-Salem, VP operations Mallory Opferman -> /about-us
-- Offers refrigerated cooler/freezer trailer rental -> /
-- Emphasizes fast local delivery and installation within tri-state area -> /
+- Showroom open to public, no account needed -> /
+- Thousands of items in stock, drop-ship from manufacturers -> /
+- Equipment categories: walk-ins, freezers, combi-ovens, cooking equipment, countertop appliances, smallwares, beverage equipment -> /
+- Industries served: restaurants, hotels, health care facilities, schools, clubs & organizations, c-stores, churches, food trucks -> /
+- Refrigerated cooler/freezer trailer rental -> /
+- Team includes CAD specialist Jack Schopp -> /about-us
+- Family-owned and operated since 1997 -> /
 </details>
 
 ---
@@ -251,20 +264,20 @@ The company emphasizes exceptional customer service, fast local delivery and ins
 **Old description:** Carnico Foods is a locally owned and operated, USDA-inspected meat processing facility that was created at the beginning of 2022. Carnico will serve as a processing, packaging, private labeling, co-packing, and product development facility that was born out of a desire to serve the vast demand from local farms and retail/wholesale businesses from all around southern Michigan. Carnico will have the ability to smoke meats and will be set up with a state-of-the art drying/climatic room to produce specialty sausages and cured meats.
 
 ## About
-Carnico Foods LLC operates a USDA-inspected meat processing facility in Litchfield, Michigan. The company was created at the beginning of 2022 by the owners of Ferry Farms, a Litchfield-based farm, together with a neighboring farmer. They had previously expanded into Ferry Farms Wholesale, distributing snack sticks, jerky, charcuterie, bacon, ground beef, hot dogs, and beer brats, but repeatedly encountered a shortage of USDA-inspected processing and co-packing capacity. That gap led them to establish Carnico as a locally owned and operated facility to serve farms and wholesale businesses across southern Michigan.
+Carnico Foods LLC operates a USDA-inspected meat processing facility in Litchfield, Michigan. The company was created at the beginning of 2022 by the owners of Ferry Farms, a local farming operation, who expanded into wholesale distribution through Ferry Farms Wholesale. Facing a persistent shortage of USDA-inspected processing and co-packing capacity, they established Carnico to serve farms and food businesses across southern Michigan.
 
-The plant provides processing, secondary packaging, private labeling, co-packing, and product development services. It is equipped with smoking capabilities and a state-of-the-art drying and climatic room for producing specialty sausages and cured meats. The facility handles a range of meat products, though specific throughput volumes and headcount are not disclosed.
+The facility provides processing, secondary packaging, private labeling, co-packing, and product development services. It is equipped for smoking meats and features a state-of-the-art drying and climatic room for producing specialty sausages and cured meats. The plant also offers flavor and recipe development for clients.
 
-Carnico’s customer base includes local livestock farms, retail and wholesale food businesses, and its affiliated brand Ferry Farms Wholesale. The company focuses on the southern Michigan region, offering USDA-inspected processing that enables farms to bring branded meat products to market.
+Carnico’s customer base includes local farms, retail outlets, and wholesale distributors. Ferry Farms Wholesale, which sells snack sticks, jerky, charcuterie, bacon, ground beef patties, hot dogs, and beer brats made with Michigan craft beer, is a primary client. The facility serves similar businesses throughout the region.
 
-The business was founded specifically to overcome the lack of accessible USDA-inspected processing in the area. Its differentiators include on-site smoking, a climate-controlled drying room for cured meats, and integrated flavor and recipe development alongside private-label and co-pack services.
+The company was founded specifically to remove the bottleneck of limited USDA-inspected processing for small and mid-sized meat producers. Its founders, who were farmers first, built the operation to provide accessible, full-service processing and co-packing for the local agricultural community.
 
 ## Known for
 - USDA-inspected processing facility
-- State-of-the-art drying/climatic room for specialty sausages and cured meats
-- On-site smoking capabilities
-- Integrated private labeling, co-packing, and flavor development services
-- Founded to address regional shortage of USDA-inspected meat processing
+- State-of-the-art drying and climatic room for cured meats
+- In-house smoking capability
+- Private labeling and co-packing services
+- Flavor and recipe development support
 
 ## Capabilities
 - Meat processing
@@ -274,38 +287,42 @@ The business was founded specifically to overcome the lack of accessible USDA-in
 - Product development
 - Flavor and recipe development
 - Smoking
-- Drying/climatic room operation
-- USDA-inspected processing
+- Drying and climatic curing
 
 ## Industries
 - Meat processing
-- Agriculture (livestock farms)
-- Food retail and wholesale
-- Food manufacturing
+- Agriculture (local farms)
+- Food wholesale
+- Food retail
 
 ## Equipment
 - Drying/climatic room
+- Smoking equipment
 
 ## Certifications
-- USDA-inspected
+- USDA inspected
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 2022
-- **Ownership:** Locally owned and operated; majority owners are farmers from Ferry Farms
+- **Ownership:** Locally owned and operated
 - **Headquarters:** Litchfield, Michigan
 
 <details><summary>Sources</summary>
 
-- Founded at the beginning of 2022 -> /about-us
-- Located in Litchfield, Michigan -> /
-- Locally owned and operated by Ferry Farms owners -> /about-us
+- Founded beginning of 2022 -> /about-us
+- Headquarters Litchfield, Michigan -> db
+- Locally owned and operated -> /
+- Majority owners were farmers (Ferry Farms) -> /about-us
 - USDA-inspected meat processing facility -> /
-- Offers processing, packaging, private labeling, co-packing, product development -> /
-- Equipped with smoking and drying/climatic room -> /
+- Services: processing, packaging, private labeling, co-packing, product development -> /
+- Smoking and drying/climatic room for specialty sausages and cured meats -> /
 - Serves local farms and retail/wholesale businesses in southern Michigan -> /
-- Affiliated with Ferry Farms Wholesale (snack sticks, jerky, charcuterie, bacon, ground beef, hot dogs, beer brats) -> /about-us
-- Created to fill shortage of USDA-inspected processing -> /about-us
+- Ferry Farms Wholesale products: snack sticks, jerky, charcuterie, bacon, ground beef patties, hot dogs, beer brats -> /about-us
+- Flavor & recipe development offered -> /
+- Secondary packaging offered -> /
+- Private labeling offered -> /
+- Co-packaging offered -> /
 </details>
 
 ---
@@ -315,30 +332,31 @@ The business was founded specifically to overcome the lack of accessible USDA-in
 **Old description:** ALP Industries is now proudly part of Lift Solutions Holdings, a leading provider of comprehensive industrial lifting solutions. Lift Solutions specializes in OSHA-mandated inspections, aftermarket services, and parts for overhead cranes and other lifting equipment, as well as offering high-quality crane equipment. Together, we are dedicated to delivering exceptional service and expertise to meet all your industrial lifting needs. Explore our combined resources by visiting the Lift Solutions website or continue to the ALP website.
 
 ## About
-Carolina Chain & Cable, LLC operates from Aberdeen, North Carolina, as a division of ALP Industries, which was founded in 1981 by Reitzel Swaim and Ron Space in Parkesburg, Pennsylvania. In 2022, ALP Industries became part of Lift Solutions Holdings, a national provider of industrial lifting solutions.
+Carolina Chain & Cable, LLC operates from Aberdeen, North Carolina. ALP Industries itself was founded in 1981 by Reitzel Swaim and Ron Space in Parkesburg, Pennsylvania, and later relocated to Coatesville, Pennsylvania. In 2022, ALP Industries became part of Lift Solutions Holdings, a national provider of industrial lifting solutions.
 
-The company distributes and sells a range of industrial lifting products, including wire rope, chain, load binders, and below‑the‑hook devices under proprietary trademarks such as Penco®, Saf‑T‑Grip®, Grip‑Tite®, Redi‑Grip®, Mulox®, and Tufskin®. It also provides OSHA‑mandated inspections, aftermarket services, and replacement parts for overhead cranes and hoists. The operation serves customers from multiple locations across the United States.
+As part of the ALP Industries network, the Aberdeen location participates in the distribution and sale of industrial lifting products, including slings, chain, and cable. The company also provides OSHA-mandated inspections, aftermarket services, and parts for overhead cranes and other lifting equipment, as well as offering crane equipment. The parent company maintains a multi‑site footprint with facilities in Aberdeen, NC; Parkesburg, PA; Duncan, SC; and several other U.S. locations.
 
-Customers span industries that rely on lifting and rigging equipment, such as construction, manufacturing, utilities, and transportation. The company’s product mission emphasizes safety and customer satisfaction, supplying both standard and custom rigging solutions to end users and distributors alike.
+The company serves customers in need of industrial lifting solutions, particularly those requiring sling and rigging products, overhead crane inspections, and replacement parts. Its customer base spans construction, manufacturing, and material‑handling sectors that rely on certified lifting equipment and compliance services.
 
-ALP Industries’ stated mission centers on linked prosperity—delivering quality products, pursuing proactive growth through internal sales and geographic expansion, and operating on a sound financial basis to create career opportunities. The 2022 integration with Lift Solutions Holdings adds a national footprint for inspection, repair, and replacement services.
+ALP Industries states that its mission rests on three pillars: delivering the finest quality lifting products, pursuing a proactive growth strategy through internal expansion and new locations, and operating on a sound financial basis that creates career opportunities and financial rewards for employees. These principles guide the combined organization under Lift Solutions Holdings.
 
 ## Known for
-- OSHA‑mandated inspections and aftermarket services for overhead cranes and hoists
-- Proprietary product lines with registered trademarks (Penco®, Saf‑T‑Grip®, Grip‑Tite®, Redi‑Grip®, Mulox®, Tufskin®)
-- Trademarked color coding: PMS Blue on load binders; orange‑and‑white strand pattern on wire rope
-- National network through Lift Solutions Holdings for inspection, repair, and replacement
-- Multi‑location distribution footprint across the U.S.
+- Nationwide network of distribution and service locations
+- Proprietary product trademarks including Penco®, Saf‑T‑Grip®, Grip‑Tite®, Redi‑Grip®, Mulox®, Tufskin®
+- OSHA‑mandated inspection and aftermarket services for overhead cranes
+- Commitment to linked prosperity for employees and communities
 
 ## Capabilities
-- Distribution of industrial lifting products
+- Industrial lifting product distribution
 - OSHA‑mandated inspections
-- Aftermarket services and parts for overhead cranes and hoists
-- Supply of wire rope, chain, load binders, below‑the‑hook devices
-- Custom rigging solutions
+- Aftermarket services and parts for overhead cranes
+- Crane equipment sales
+- Sling solutions
 
 ## Industries
 - Industrial lifting
+- Sling solutions
+- Overhead crane
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -346,17 +364,15 @@ ALP Industries’ stated mission centers on linked prosperity—delivering quali
 
 <details><summary>Sources</summary>
 
-- Company operates as Carolina Chain & Cable, LLC in Aberdeen, NC -> db
-- ALP Industries founded 1981 by Reitzel Swaim and Ron Space in Parkesburg, PA -> /about-us
-- ALP Industries relocated to Coatesville, PA in 1993 -> /about-us
-- ALP started new business in Aberdeen, NC during 1980s/1990s -> /about-us
+- Headquarters in Aberdeen, North Carolina -> db
+- Carolina Chain and Cable Company acquired by ALP Industries in the 1980s and 1990s -> /about-us
+- ALP Industries founded in 1981 by Reitzel Swaim and Ron Space -> /about-us
 - ALP Industries joined Lift Solutions Holdings in 2022 -> /about-us
-- Mission: distribute and sell finest quality industrial lifting products -> /about-us
-- Provides OSHA-mandated inspections, aftermarket services, parts for overhead cranes and hoists -> /
-- Proprietary trademarks: Penco®, Saf-T-Grip®, Grip-Tite®, Redi-Grip®, Mulox®, Tufskin® -> /about-us
-- Trademarked color PMS Blue on load binders; orange-and-white strand pattern on wire rope -> /about-us
-- Part of Lift Solutions Holdings, a national industrial lifting solutions company focused on inspection, repair, replacement -> /
-- Headquarters: Aberdeen, North Carolina -> db
+- ALP Industries distributes and sells industrial lifting products -> /about-us
+- ALP Industries offers OSHA-mandated inspections, aftermarket services, and crane equipment -> /
+- Registered trademarks: Penco®, Saf-T-Grip®, Grip-Tite®, Redi-Grip®, Mulox®, Tufskin® -> /about-us
+- Locations include Aberdeen, NC; Parkesburg, PA; Duncan, SC; etc. -> /about-us
+- Industry served: Industry Leading Sling Solutions -> db
 </details>
 
 ---
@@ -366,36 +382,32 @@ ALP Industries’ stated mission centers on linked prosperity—delivering quali
 **Old description:** We're a U.S.-based contract manufacturer specializing in RF welding, industrial sewing, and custom fabrication — built for projects that need precision, reliability, and a responsiveness your team actually demands.
 
 ## About
-Carolina CoverTech operates from North Augusta, South Carolina, where it runs a U.S.-based contract manufacturing operation focused on RF welding, heat sealing, and precision industrial sewing. The company does not publicly disclose its founding year or ownership structure, but it presents itself as a partner for custom fabric-based product development and production.
+Carolina CoverTech operates from North Augusta, South Carolina The company does not publicly disclose its founding year, ownership structure, or the names of its founders. It presents itself as a U.S.-based contract manufacturer focused on technical fabric solutions.
 
-The shop’s core capabilities center on RF welding and heat sealing for precise seals, industrial sewing across a range of materials, and a product development cycle that moves from rapid prototyping through process validation to full-scale production. It also offers rigid-to-flexible conversions, turning rigid components into lighter, more versatile fabric alternatives. Outputs include flexible protective covers, bladders, industrial containers, and custom bags, with the company citing a portfolio of thousands of completed projects.
+The shop specializes in RF welding, heat sealing, and precision industrial sewing, supplemented by product development, rapid prototyping, and rigid-to-flexible conversion services. Its product portfolio includes flexible protective covers, bladders, industrial containers, and custom bags. The company notes a portfolio of thousands of completed projects but does not publish facility size, headcount, or annual volume figures.
 
-While the firm states it serves “all industries,” its published case work highlights military and defense fabrication for Department of Defense contractors and prime suppliers, including tactical pouches, load-bearing equipment, and protective enclosures. A blog post on NFPA 701 certified fabric requirements further suggests involvement in commercial and institutional markets where flame-resistant hanging textiles are specified.
+Carolina CoverTech serves a range of industries, with a highlighted focus on military and defense fabrication for Department of Defense contractors and prime suppliers. The website also references applications for schools, offices, and facilities, though specific customer names are not disclosed.
 
-Carolina CoverTech frames its differentiation around a stated mission “to make life better for our customers, team members, trade partners and the community,” backed by values of excellence, customer-centeredness, innovation, selfless ownership, and stewardship. Its four-step process — discovery, prototype, process, and shipping — is designed to move from concept to delivery with a commitment to respond to inquiries within one business day.
+The company states its mission is to "Make Life Better" for customers, team members, trade partners, and the community, guided by values of excellence, customer-centeredness, innovation, selfless ownership, and stewardship. It emphasizes a proven four-step process—discovery, prototype, process, and shipping—and a goal to respond to inquiries within one business day.
 
 ## Known for
-- RF welding and heat sealing for precise, repeatable seals
-- Industrial sewing expertise across diverse material types
-- End-to-end product development from rapid prototype to validated production process
-- Rigid-to-flexible conversions that reduce weight, shipping cost, and manufacturing expense
-- Four-step discovery-to-shipping process with a one-business-day inquiry response
+- Rapid prototyping for fabric products
+- Rigid-to-flexible conversion to reduce weight and cost
+- Four-step process from discovery through shipping
+- Commitment to respond within one business day
+- Portfolio of thousands of completed projects
 
 ## Capabilities
 - RF welding
 - Heat sealing
 - Industrial sewing
 - Product development
-- Rapid prototyping (fabric products)
+- Rapid prototyping
 - Rigid-to-flexible conversion
-- Custom fabrication (cut, sew, seal)
-- Flexible protective cover manufacturing
-- Bladder manufacturing
-- Industrial container manufacturing
-- Custom bag manufacturing
+- Custom fabrication
 
 ## Industries
-- Military and defense (DoD contractors and prime suppliers)
+- Military and defense
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -403,16 +415,16 @@ Carolina CoverTech frames its differentiation around a stated mission “to make
 
 <details><summary>Sources</summary>
 
-- Location: North Augusta, SC -> /
-- Business type: contract manufacturer specializing in RF welding, heat sealing, industrial sewing -> /
-- Processes: RF welding, heat sealing, industrial sewing, product development, rapid prototyping, rigid-to-flexible conversion -> /
-- Products: flexible protective covers, bladders, industrial containers, bags -> /
-- Industries: military and defense for DoD contractors and prime suppliers -> / (blog post title)
-- Mission and values: 'To Make Life Better...' and five values -> /
-- Process steps: Discovery, Prototype, Process, Shipping -> /
-- Response time: respond within one business day -> /
+- Location: North Augusta, SC -> db (hq_city, hq_state_label) and homepage address
+- Specialization: RF welding, heat sealing, industrial sewing -> db description and homepage
+- Services: product development, rapid prototyping, rigid-to-flexible conversion -> homepage
+- Products: flexible protective covers, bladders, industrial containers, bags -> homepage
+- Portfolio: thousands of projects completed -> homepage
+- Industry focus: military and defense for DoD contractors -> homepage blog post title
+- Mission and values: Make Life Better, excellence, customer-centered, innovation, own selflessly, stewardship -> homepage
+- Process: discovery, prototype, process, shipping -> homepage
+- Response goal: within one business day -> homepage
 - LinkedIn URL -> db
-- Phone and email -> /
 </details>
 
 ---
@@ -422,39 +434,37 @@ Carolina CoverTech frames its differentiation around a stated mission “to make
 **Old description:** Carolina Creative Products partners with brands, designers, and retailers to produce high-quality textile and soft home goods-from digital fabric printing through final cut-and-sew production. As a U.S.-based manufacturing partner, we help companies launch, scale, and sustain repeatable product programs with greater speed, control, and consistency.
 
 ## About
-Carolina Creative Products operates from Greenville, South Carolina, as a U.S.-based manufacturer of premium home soft goods. The company specializes in pillows, bedding, and fabric-based home products, focusing on repeatable, high-quality production that scales alongside the brands it serves.
+Carolina Creative Products operates from Greenville, South Carolina, as a U.S.-based manufacturer of premium home soft goods. The company specializes in pillows, bedding, and fabric-based home products, serving branded home and lifestyle companies that need reliable domestic production without building their own infrastructure.
 
-Its capabilities span digital fabric printing through final cut-and-sew production, delivering integrated print-to-finish manufacturing for items such as decorative pillow covers, duvet covers, woven blankets, table linens, and pet beds. The facility emphasizes consistent color management, production built for repeat orders, and scalable manufacturing to support growing product lines, all under a domestic production model that reduces vendor complexity.
+The company handles the full production chain from digital fabric printing through final cut-and-sew assembly. Its product range includes decorative pillow covers, duvet covers, woven blankets, table linens, and pet beds. Manufacturing is organized around integrated print-to-finish workflows, consistent color management, and scalable processes built for repeat orders and replenishment programs.
 
-The company serves home and lifestyle brands developing repeatable collections, e-commerce brands transitioning to retail, designers and creative studios bringing original textile concepts to market, and hospitality and specialty programs requiring large-scale custom textile products. Carolina Creative Products positions itself as a long-term manufacturing partner rather than a one-off custom shop, supporting partners from initial sampling through ongoing production.
+Carolina Creative Products works with home and lifestyle brands developing repeatable collections, e-commerce brands transitioning to retail, designers and creative studios bringing original textile concepts to market, and hospitality and specialty programs requiring large-scale custom textile products.
 
-A stated differentiator is the company's operation of its own home goods brand, Porch And Parlour, which provides firsthand insight into pricing, product development, fulfillment, and customer expectations. Leadership emphasizes that domestic manufacturing enables shorter lead times, greater flexibility, tighter quality control, reduced risk, improved communication, and protection of brand intellectual property, all supporting premium market positioning.
+The company emphasizes domestic manufacturing for shorter lead times, greater flexibility, tighter quality control, and intellectual property protection. A distinctive aspect is that the team also manufactures and operates its own home goods brand, Porch And Parlour, giving them firsthand insight into pricing, product development, fulfillment, and customer expectations.
 
 ## Known for
 - Integrated print-to-finish production for tighter control and fewer handoffs
 - Consistent color management across initial and repeat runs
 - Production built for repeat orders and replenishment
-- Scalable manufacturing to support growing product lines
-- Domestic production for faster timelines and easier communication
-- Operates own brand Porch And Parlour for firsthand market insight
+- Domestic manufacturing for shorter lead times and IP protection
+- In-house brand (Porch And Parlour) provides firsthand market insight
 
 ## Capabilities
 - Digital fabric printing
-- Cut-and-sew production
+- Cut-and-sew manufacturing
 - Integrated print-to-finish production
 - Color management
+- Repeat order production
+- Scalable manufacturing
 - Product development
 - Quality control
-- Domestic manufacturing
-- Scalable production
-- Repeat order fulfillment
 
 ## Industries
-- Home & Lifestyle Brands
-- E-commerce Brands Scaling to Retail
-- Designers & Creative Studios
-- Hospitality & Specialty Programs
-- Retail & Brand Programs
+- Home & lifestyle brands
+- E-commerce brands
+- Designers & creative studios
+- Hospitality & specialty programs
+- Retail and brand partners
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -463,14 +473,13 @@ A stated differentiator is the company's operation of its own home goods brand, 
 <details><summary>Sources</summary>
 
 - Headquarters in Greenville, South Carolina -> db
-- Manufacturer of premium home soft goods specializing in pillows, bedding, fabric-based home products -> /about-us
-- Offers digital fabric printing through final cut-and-sew production -> /
-- Products include decorative pillow covers, duvet covers, woven blankets, table linens, pet beds -> /
-- Capabilities: integrated print-to-finish production, consistent color management, production built for repeat orders, scalable manufacturing, domestic production for faster timelines, streamlined process reducing vendor complexity -> /
-- Serves home & lifestyle brands, e-commerce brands scaling to retail, designers & creative studios, hospitality & specialty programs -> /
-- Operates own home goods brand Porch And Parlour for firsthand insight -> /about-us
-- Emphasizes domestic manufacturing for shorter lead times, flexibility, quality control, risk reduction, communication, IP protection -> /about-us
-- Company type: Manufacturer -> /about-us
+- Manufactures premium home soft goods (pillows, bedding, fabric-based products) -> /about-us
+- Offers digital fabric printing through cut-and-sew production -> /
+- Products: decorative pillow covers, duvet covers, woven blankets, table linens, pet beds -> /
+- Capabilities: integrated print-to-finish, color management, repeat order production, scalable manufacturing -> /
+- Serves home & lifestyle brands, e-commerce brands, designers, hospitality programs -> /
+- Operates own brand Porch And Parlour for market insight -> /about-us
+- Emphasizes domestic manufacturing for shorter lead times, flexibility, quality control, IP protection -> /about-us
 </details>
 
 ---
@@ -480,39 +489,28 @@ A stated differentiator is the company's operation of its own home goods brand, 
 **Old description:** We are a local sawmill and have been helping clients turn their logs and trees into lumber since 2017 as well as sales of our own material.  We are located in Rougemont, which is in northern Durham County, North Carolina and only about one mile from Orange and Person Counties.  We are about 10 miles from downtown Durham, downtown Hillsborough, and downtown Roxboro and are convenient and easily accessible to the greater Triangle area of North Carolina. We provide mobile sawmill services throughout North Carolina and parts of Virginia and frequently milli in Durham, Hillsborough, Chapel Hill, Roxboro, Raleigh, etc.
 
 ## About
-Carolina Custom Sawing & Lumber operates from Rougemont, North Carolina, in northern Durham County near the Orange and Person county lines. The company was founded in 2017 and has since provided mobile and stationary sawmilling services throughout North Carolina and parts of Virginia, serving the greater Triangle area including Durham, Hillsborough, Chapel Hill, Roxboro, and Raleigh.
+Carolina Custom Sawing & Lumber began operating in 2017 in Rougemont, North Carolina, a community in northern Durham County near the Orange and Person county lines. The sawmill serves the greater Triangle area, including Durham, Hillsborough, Chapel Hill, Roxboro, and Raleigh, and travels throughout North Carolina and parts of Virginia to provide mobile sawmilling services.
 
-The sawmill uses a mobile hydraulic bandsaw capable of processing logs up to 21 feet long and 32 inches in diameter, with a 26-inch throat capacity. It offers both mobile sawmilling (with a five-hour minimum plus travel fees) and stationary milling at its yard (no minimum charge). The company produces and sells its own lumber in green, air-dried, and kiln-dried conditions across more than a dozen species including black walnut, cherry, maple, white oak, red oak, hickory, sycamore, ash, birch, beech, cedar, cypress, southern yellow pine, and elm. Custom orders can yield boards and beams up to 26 inches wide and 21 feet long, with cutting methods such as through-and-through, quartersawn, riftsawn, plainsawn, and livesawn.
+The company operates a mobile hydraulic bandsaw sawmill capable of processing logs up to 21 feet long and 32 inches in diameter, with a 26-inch throat capacity. It offers both mobile sawmilling at the customer's site and stationary milling at its own yard, producing dimensional boards, live-edge slabs, and specialty cuts such as quartersawn, riftsawn, plainsawn, and livesawn lumber. The sawmill supplies green, air-dried, and kiln-dried lumber in a range of domestic hardwoods and softwoods, and also fabricates blocking and cribbing for heavy equipment transport and repair.
 
-Customers range from property owners with downed trees to contractors in residential, commercial, and industrial construction, as well as woodworkers, furniture makers, agricultural operations, and heavy-equipment transport firms needing blocking and cribbing. The company also purchases logs meeting minimum size requirements (12-inch small-end diameter, eight-foot length) for its own inventory.
+Customers span residential construction, commercial construction, industrial construction, manufacturing, woodworking, furniture production, agricultural projects, and heavy equipment repair. The company fulfills custom orders for beams, trailer decking, post-and-beam construction, mantles, tables, benches, spacers, and other industrial wood components. It also purchases logs meeting minimum size requirements for its own inventory.
 
 ## Known for
-- Mobile hydraulic bandsaw sawmill handling logs up to 21' long and 32" diameter
+- Mobile sawmill services throughout North Carolina and parts of Virginia
+- Hydraulic bandsaw sawmill handles logs up to 21' long and 32" diameter
 - No minimum charge for stationary milling at their yard
-- Custom cutting up to 26" wide and 21' long with multiple sawing patterns
-- Log purchasing program for qualifying species and sizes
+- Customers can assist with loading/offloading to reduce costs
+- Sells green, air-dried, and kiln-dried lumber in multiple species
 
 ## Capabilities
 - Mobile sawmilling
-- Stationary sawmilling
-- Hydraulic bandsaw sawmilling
-- Through-and-through sawing
-- Quartersawing
-- Riftsawing
-- Plainsawing
-- Livesawing
-- Green lumber production
-- Air-dried lumber production
-- Kiln-dried lumber production
-- Custom beam cutting
+- Stationary milling
+- Lumber sales (green, air-dried, kiln-dried)
+- Custom sawing (dimensional boards, live-edge slabs)
+- Quartersawn, riftsawn, plainsawn, livesawn/through-and-through cutting
 - Blocking and cribbing production
-- Spacer manufacturing
-- Trailer decking production
-- Post and beam construction lumber
-- Mantle production
-- Woodworking lumber (tables, benches)
 - Log purchasing
-- Log yarding and loading
+- Custom cutting up to 26" wide and 21' long
 
 ## Industries
 - Residential construction
@@ -522,10 +520,10 @@ Customers range from property owners with downed trees to contractors in residen
 - Industrial processes
 - Woodworking
 - Furniture production
-- Heavy equipment transportation
-- Heavy equipment repair
+- Heavy equipment transportation and repair
 - Agricultural
-- Specialty wood products
+- Trailer decking
+- Post and beam construction
 
 ## Equipment
 - Mobile hydraulic bandsaw sawmill
@@ -539,20 +537,15 @@ Customers range from property owners with downed trees to contractors in residen
 
 - Founded 2017 -> db
 - Headquarters Rougemont, North Carolina -> db
-- Mobile hydraulic bandsaw sawmill -> /
-- Logs up to 21' long and 32" diameter -> /about-us
-- 26" throat capacity -> /about-us
-- Mobile sawmilling with 5-hour minimum and travel fee -> /services
-- Stationary milling no minimum charge -> /services
-- Lumber sales: green, air-dried, kiln-dried -> /services
-- Species list with prices -> /services
-- Custom orders up to 26" wide and 21' long -> /services
-- Sawing methods: through-and-through, quartersawn, riftsawn, plainsawn, livesawn -> /about-us
-- Blocking and cribbing for heavy equipment -> /, /services
-- Serves residential, commercial, industrial construction -> /
-- Serves woodworking, furniture production -> /
-- Log purchasing program (12" min diameter, 8' min length) -> /about-us
-- Mission: provide best service at reasonable cost -> /services
+- Mobile hydraulic bandsaw sawmill -> home page
+- Services: mobile sawmilling, stationary milling, lumber sales, custom orders -> services page
+- Log capacity: up to 21' long, 32" diameter, 26" throat -> about-us page
+- Species sold: Black Walnut, Cherry, Red Maple, White Oak, Red Oak, Hickory, Sycamore, Ash, Birch, Beech, Cedar, Cypress, Southern Yellow Pine, Elm -> services page
+- Industries served: residential, commercial, industrial construction, manufacturing, woodworking, furniture, heavy equipment, agricultural -> home page, services page
+- Mission: provide best service at reasonable cost -> services page
+- Mobile service: 5-hour minimum, travel/setup fee -> services page
+- Customer assistance with loading/offloading -> about-us page
+- Log purchasing: minimum 12" diameter, 8' length -> about-us page
 </details>
 
 ---
@@ -562,32 +555,34 @@ Customers range from property owners with downed trees to contractors in residen
 **Old description:** Our business was founded by Noble family patriarch Wayne as a way to get his sons working again after a devastating car accident during their college years left one in a wheelchair and the other with traumatic brain injury. Justin's physical needs as a paraplegic suddenly made it difficult for him to hold down a regular job or attend law school like he had planned, while Matt's emotional and cognitive needs placed him at a similar disadvantage in the workforce. Doctors noted how remarkable it was that one brother kept a keen intellect while the other kept a strong and fit body.  Justin and Matt vowed to work together in life and in business in order to survive-—and thrive!—as the ultimate team.
 
 ## About
-Carolina Farmstead operates from a workshop in Snow Hill, North Carolina, in the eastern part of the state. The business was founded by family patriarch Wayne Noble as a way to employ his sons, Justin and Matt, after a devastating car accident during their college years left Justin a paraplegic and Matt with a traumatic brain injury. Unable to pursue their original career paths, the brothers vowed to work together, combining Justin's intellect and Matt's physical strength to build a family-owned furniture company.
+Carolina Farmstead operates from a workshop in Snow Hill, North Carolina, in the eastern part of the state. The company was founded by Wayne Noble, the family patriarch, after a car accident during his sons' college years left Justin a paraplegic and Matt with a traumatic brain injury. Unable to pursue their original career paths, the brothers vowed to work together, combining Justin's intellect and Matt's physical strength to build a business that could accommodate their needs.
 
-The company handcrafts heirloom-quality furniture one piece at a time using solid wood, custom finishes, and customer-specified measurements. Production is organized around three purchasing tiers: in-stock items ready to ship, a line of customizable Farmstead Designs, and fully custom pieces built to a client's exact vision. Most orders ship within two weeks via an in-house white-glove delivery service.
+The shop produces custom, heirloom-quality furniture made entirely from solid wood. Each piece is handcrafted to the customer's specified finish and dimensions, with options ranging from in-stock items ready to ship to fully customized designs developed through consultation. The team, led by craftsman Matt Noble, builds tables, chairs, and other furnishings one piece at a time, emphasizing traditional joinery and durable finishes.
 
-Carolina Farmstead serves residential customers and interior designers seeking durable, made-to-last furnishings for everyday use. Its work has been featured on HGTV's Love It or List It, the PBS series A Chef's Life, and in Our State Magazine, reflecting a focus on pieces that become centerpieces of family gatherings.
+Carolina Farmstead serves residential customers seeking long-lasting, made-to-order furniture for everyday use. Its pieces have been featured on HGTV's 'Love It or List It,' the PBS series 'A Chef's Life,' and in Our State Magazine, reflecting a focus on the home furnishings market rather than commercial or institutional channels.
 
-The founding mission — creating meaningful employment for the Noble brothers — remains central to the operation. The company emphasizes construction so robust that grown men can stand and jump on the furniture, backs its quality with Better Business Bureau accreditation, and avoids the shortcuts common in mass-market retail.
+The business was created to provide meaningful employment for the Noble brothers after their accident, and that origin story remains central to its identity. The company highlights its Better Business Bureau accreditation, in-house white-glove delivery service that ships most orders within two weeks, and a commitment to solid-wood construction that avoids the shortcuts common in mass-market retail.
 
 ## Known for
-- Handcrafted from solid wood with custom finishes and measurements
-- White-glove delivery service with most orders shipping within 2 weeks
-- Better Business Bureau accredited for trust and integrity
-- Furniture built to withstand heavy use (e.g., grown men can stand and jump on them)
-- Three purchasing options: in-stock, customizable designs, fully custom
+- Handcrafted heirloom-quality furniture built one piece at a time
+- Solid wood construction with custom finishes and measurements
+- Better Business Bureau accredited
+- In-house white-glove delivery with most orders shipping within two weeks
+- Three purchasing tiers: in-stock, customizable designs, fully custom
 
 ## Capabilities
-- Handcrafted furniture manufacturing
-- Custom wood finishing
-- Custom measurements
+- Custom furniture manufacturing
+- Handcrafted woodworking
+- Custom finish application
+- Design consultation
 - White-glove delivery
-- In-stock furniture
-- Customizable design tiers
+- In-stock furniture fulfillment
+- Customizable design modifications
 - Fully custom furniture design
 
 ## Industries
 - Residential furniture
+- Custom furniture manufacturing
 - Home furnishings
 
 ## Certifications
@@ -600,15 +595,15 @@ The founding mission — creating meaningful employment for the Noble brothers �
 
 <details><summary>Sources</summary>
 
-- Founded by Wayne Noble for his sons after car accident -> db
+- Founded by Wayne Noble for sons Justin and Matt after car accident -> db
 - Located in Snow Hill, North Carolina -> db
-- Handcrafted furniture from solid wood with custom finishes and measurements -> /
+- Handcrafts heirloom-quality furniture from solid wood -> /
+- Offers in-stock, customizable, and fully custom purchasing options -> /
+- Lead craftsman is Matt Noble -> /quality
+- Better Business Bureau accredited -> /quality
 - White-glove delivery service, most orders ship within 2 weeks -> db
-- BBB Accredited -> /quality
-- Featured on HGTV's Love It or List It, PBS A Chef's Life, Our State Magazine -> /
-- Lead craftsman Matt Noble -> /quality
-- Three purchasing options: In Stock, Farmstead Designs, Fully Customized -> /
-- Family-owned, crafted by generations of family -> /
+- Featured on HGTV, PBS, Our State Magazine -> /
+- Family-owned business -> / and db
 </details>
 
 ---

@@ -3,50 +3,52 @@
 **Old description:** Behold Home’s Thailand factory spans 658,000 sq ft and specializes in producing motion furniture using a wide range of fabrics and high-quality leathers. With a team of experienced workers, we ensure consistent high-quality standards.
 
 ## About
-Behold Home is headquartered in Pontotoc, Mississippi, with additional manufacturing facilities in Amory and Smithville. The company operates a 658,000-square-foot factory in Thailand dedicated to motion furniture production, and more than 1.24 million square feet of manufacturing and distribution space across North Mississippi, including 400,000 square feet reserved for distribution. Founded as an American-owned, American-made, and American-operated enterprise, the business emphasizes domestic manufacturing roots.
+Behold Home is headquartered in Pontotoc, Mississippi, and operates as an American-owned, American-made, and American-operated furniture manufacturer. The company's founding year and founders are not publicly disclosed.
 
-The company produces both motion and stationary furniture. Motion furniture lines feature solid wood frames reinforced with corner blocks, fully padded with foam and fiber, heavy-gauge steel recliner mechanisms, and high-density foam cushions with springs and memory foam. Stationary furniture is built using precision craftsmanship and modern processes across the Mississippi facilities. The combined footprint supports large-scale production of upholstered seating and case goods.
+The company specializes in motion and stationary furniture. Its Thailand factory spans 658,000 square feet and produces motion furniture using a wide range of fabrics and high-quality leathers. In North Mississippi, Behold Home operates more than 1.24 million square feet of advanced manufacturing and distribution space across facilities in Amory, Pontotoc, and Smithville, including 400,000 square feet dedicated exclusively to distribution. Products feature solid wood frames reinforced with corner blocks, heavy-gauge steel recliner mechanisms, high-density foam cushions with springs, and memory foam toppings.
 
-Behold Home serves the residential furniture market, supplying retailers and distributors with motion and stationary collections under the Behold Select, Behold Home, and Behold Motion brands. Its customer base includes furniture retailers and wholesale buyers seeking domestically operated manufacturing with offshore capacity for motion mechanisms.
+Behold Home serves the furniture and home furnishings industry, supplying motion furniture, stationary furniture, and product lines such as Behold Select and Behold Motion. Customer types are not explicitly detailed in available sources.
 
-The company distinguishes itself through its "American Owned, American Made, American Operated" model, combining U.S.-based manufacturing and distribution with a dedicated Thailand factory for motion furniture. It highlights solid wood construction, reinforced frames, and premium cushioning materials as hallmarks of durability and comfort.
+The company emphasizes its American-owned and operated status, combining precision craftsmanship with modern processes and unwavering attention to detail to deliver furniture built with purpose, pride, and durability.
 
 ## Known for
 - American Owned, American Made, American Operated
-- 658,000 sq ft Thailand factory dedicated to motion furniture
-- 1.24M sq ft manufacturing and distribution network in North Mississippi
-- 400,000 sq ft dedicated distribution space
-- Solid wood frames with corner blocks, heavy-gauge steel mechanisms, high-density foam with springs and memory foam
+- Thailand factory spanning 658,000 sq ft for motion furniture production
+- Over 1.24 million sq ft of manufacturing and distribution space in North Mississippi
+- 400,000 sq ft dedicated distribution capacity
+- Solid wood frames with corner-block reinforcement and heavy-gauge steel mechanisms
 
 ## Capabilities
 - Motion furniture manufacturing
 - Stationary furniture manufacturing
-- Wood framing and joinery
+- Wood frame construction
 - Upholstery (fabric and leather)
-- Steel recliner mechanism assembly
-- Foam cushioning (high-density, memory foam, spring systems)
-- Distribution and warehousing
+- Recliner mechanism assembly
+- Foam cushioning (high-density, memory foam)
+- Spring cushion enhancement
+- Distribution and logistics
 
 ## Industries
 - Furniture manufacturing
+- Motion furniture
+- Stationary furniture
 - Home furnishings
-- Residential furniture
 
 ## Company details
 - **Company Type:** Manufacturer
-- **Ownership:** American-owned
+- **Ownership:** American Owned, American Made, American Operated
 - **Headquarters:** Pontotoc, Mississippi
 
 <details><summary>Sources</summary>
 
 - Headquarters in Pontotoc, Mississippi -> db
-- Thailand factory 658,000 sq ft for motion furniture -> /
-- North Mississippi facilities 1.24M sq ft across Amory, Pontotoc, Smithville -> /
-- 400,000 sq ft dedicated distribution space -> /
-- American Owned, American Made, American Operated -> /
-- Motion furniture with solid wood frames, steel mechanisms, high-density foam, memory foam -> /
-- Stationary furniture with precision craftsmanship -> /
-- Brands: Behold Select, Behold Home, Behold Motion -> /
+- Thailand factory spans 658,000 sq ft producing motion furniture -> db, pages["/"]
+- North Mississippi facilities total 1.24 million sq ft across Amory, Pontotoc, Smithville -> pages["/"]
+- 400,000 sq ft dedicated distribution space -> pages["/"]
+- Products: motion furniture, stationary furniture, Behold Select, Behold Motion -> pages["/"]
+- Construction details: solid wood frames, corner blocks, steel mechanisms, high-density foam, springs, memory foam -> pages["/"]
+- American Owned, American Made, American Operated -> pages["/"]
+- Company type: Manufacturer -> inferred from description and pages["/"]
 </details>
 
 ---
@@ -56,55 +58,47 @@ The company distinguishes itself through its "American Owned, American Made, Ame
 **Old description:** On the front lines of critical care, everything matters. Lives depend upon us—all of us bringing our best. Our innovative medical devices help you deliver. Belmont’s solutions blend technical inspiration with an uncompromising quality standard. Because earning your trust is the only option.
 
 ## About
-Belmont Medical Technologies is headquartered in Billerica, Massachusetts. The company was founded in 1980 by Dr. George Herzlinger as Belmont Instrument Corporation, initially developing simulation EKG equipment and cardiac assist devices. By the late 1980s it became the original equipment manufacturer of the Rapid Infusion System, and in 2017 the business was acquired by Audax Private Equity. Brian Larkin was appointed chief executive officer in 2026.
+Belmont Medical Technologies is headquartered in Billerica, Massachusetts. The company was founded in 1980 by Dr. George Herzlinger as Belmont Instrument Corporation, initially developing simulation EKG equipment and cardiac assist devices. In 2017, the business was acquired by Audax Private Equity, and it operates today as a private equity‑owned medical device manufacturer.
 
-The firm designs and manufactures fluid warming and temperature regulation devices for critical care, including the Rapid Infuser RI‑2, the portable buddy lite, the BloodNav transfusion documentation system, the Burn Navigator fluid management tool, the Allon and CritiCool non‑invasive temperature management systems, and the Hyperthermia Pump for cavity lavage. Production relies on patented electromagnetic heating technology and aluminum‑free disposables. The company employs nearly 200 people and has expanded its manufacturing and office facility in 2019 and again in 2022.
+The company designs and manufactures fluid warming and temperature regulation systems for critical care. Its product line includes the Belmont® Rapid Infuser RI‑2 for high‑speed, bubble‑free blood and fluid delivery; the buddy lite® portable fluid warmer; the BloodNav™ MTP documentation tool; the Burn Navigator® for evidence‑based burn resuscitation; the Allon® and CritiCool® non‑invasive temperature management systems; and the Hyperthermia Pump™ for cavity lavage. Belmont employs nearly 200 people and has expanded its manufacturing and office facility in 2019 and again in 2022.
 
-Belmont serves hospitals, military units, and emergency transport services worldwide. Its products are used in anesthesia, surgical care, trauma and emergency departments, labor and delivery, and intensive care units. Concrete customers include the U.S. military (a five‑year contract worth up to $133 million), Inc., HealthTrust, and UCHealth Memorial Hospital Central; the company also donated 110 buddy lite units and 20 rapid infusers to Ukraine in 2022.
+Belmont’s devices are used in hospital operating rooms, intensive care units, emergency departments, labor and delivery suites, and on military combat fields and emergency transport vehicles worldwide. The U.S. military awarded the company a five‑year contract worth up to $133 million in 2020, and group purchasing agreements are in place with Inc. and HealthTrust. The company also donated rapid infusers and portable warmers to Ukraine in 2022.
 
-The company states that its differentiation lies in blending technical inspiration with an uncompromising quality standard, aiming to earn clinician trust in the most critical moments. Founder Dr. Herzlinger, a serial entrepreneur, built the business to deliver reliable, innovative solutions that give clinicians the power to change the course of critical outcomes.
+Belmont states that its differentiation lies in blending technical inspiration with an uncompromising quality standard, earning the trust of clinicians through patented electromagnetic heating technology, aluminum‑free disposables, and automatic air detection and removal features. The company holds MDSAP certification for its quality system and maintains direct operations in the United Kingdom and Germany.
 
 ## Known for
-- Patented electromagnetic heating technology for rapid, bubble‑free fluid warming
-- Aluminum‑free disposable sets across all product lines
+- Patented electromagnetic heating technology
+- Aluminum-free disposables across product lines
 - Military tested and approved (buddy lite)
-- MDSAP certified quality management system
-- Direct operations in the U.K. and Germany
+- MDSAP certified quality system
+- Direct operations in the UK and Germany
 
 ## Capabilities
 - Fluid warming
-- Temperature management
+- Temperature regulation
 - Hyperthermic lavage
 - Rapid infusion
-- Portable blood and fluid warming
-- Massive transfusion protocol (MTP) performance improvement and documentation
-- Evidence-based fluid management for burn resuscitation
-- Non-invasive patient temperature regulation
-- Targeted temperature management
-- Automatic air detection and removal
+- Portable fluid warming
+- MTP performance improvement and automatic documentation
+- Evidence-based fluid management for burns
+- Non-invasive patient temperature management
 - Electromagnetic induction warming
+- Automatic air detection and removal
+- Real-time monitoring and graphical display
+- EMR integration
+- Aluminum-free disposable manufacturing
+- Battery and AC powered device design
+- Close-to-patient warming
 
 ## Industries
-- Medical devices
+- Medical facilities
 - Military
-- Emergency medical services
+- Emergency transport
 - Anesthesia
 - Surgical care
 - Trauma and emergency
 - Labor and delivery
 - Intensive care
-- Healthcare
-
-## Equipment
-- Rapid Infuser RI-2
-- buddy lite
-- BloodNav
-- Burn Navigator
-- Allon
-- CritiCool
-- Hyperthermia Pump
-- ThermoWrap
-- CureWrap
 
 ## Certifications
 - MDSAP
@@ -113,29 +107,33 @@ The company states that its differentiation lies in blending technical inspirati
 - **Company Type:** Manufacturer
 - **Founded:** 1980
 - **Employees:** nearly 200
-- **Ownership:** Private equity (Audax)
+- **Ownership:** Private equity-owned (Audax Private Equity)
 - **Headquarters:** Billerica, Massachusetts
 
 <details><summary>Sources</summary>
 
 - Headquarters: Billerica, Massachusetts -> db
-- Founded 1980 by Dr. Herzlinger as Belmont Instrument Corporation -> /about-us
-- Acquired by Audax Private Equity in 2017 -> /about-us
-- CEO Brian Larkin appointed 2026 -> /about-us
+- Founded 1980 by Dr. Herzlinger -> /about-us
+- Founder George Herzlinger -> /about-us
+- Acquired by Audax Private Equity 2017 -> /about-us
+- Product lines: Rapid Infuser RI-2, buddy lite, BloodNav, Burn Navigator, Allon, CritiCool, Hyperthermia Pump -> /, /about-us
 - Nearly 200 employees -> /about-us
-- Products: Rapid Infuser RI-2, buddy lite, BloodNav, Burn Navigator, Allon, CritiCool, Hyperthermia Pump -> /
-- Patented electromagnetic heating technology -> /
-- Aluminum-free disposables -> /
-- Military tested and approved (buddy lite) -> /
-- MDSAP certification 2018 -> /about-us
 - Manufacturing facility expansion 2019, 2022 -> /about-us
-- U.S. Military contract up to $133M -> /about-us
+- MDSAP certification 2018 -> /about-us
+- U.S. Military contract up to $133M 2020 -> /about-us, /
 - Premier Inc. agreement 2024 -> /about-us
 - HealthTrust agreement 2025 -> /about-us
 - Donation to Ukraine 2022 -> /about-us
 - Direct operations in UK (2018) and Germany (2023) -> /about-us
-- Industries: Anesthesia, Surgical Care, Trauma & Emergency, Labor & Delivery, Emergency Transport, Military, Intensive Care -> /
-- Company type: Manufacturer of medical devices -> /about-us
+- Areas of care: Anesthesia, Surgical Care, Trauma & Emergency, Labor & Delivery, Emergency Transport, Military, Intensive Care -> /
+- Patented electromagnetic heating technology -> /
+- Aluminum-free disposables -> /
+- Military tested and approved -> /
+- Automatic air detection and removal -> /
+- Real-time monitoring and graphical display -> /
+- EMR connectivity -> /
+- Company type: Manufacturer -> db
+- Makes products: yes -> db
 </details>
 
 ---
@@ -145,35 +143,36 @@ The company states that its differentiation lies in blending technical inspirati
 **Old description:** Beltway Used Auto Parts, LLC is an environmentally conscious recycler. Serving the community with QUALITY used parts since 1999, our inventory is updated daily through our yard management system. We specialize in late model, foreign and domestic, auto and truck parts.
 
 ## About
-Beltway Used Auto Parts LLC has operated as an environmentally conscious auto recycler from its Hyattsville, Maryland location since 1999. The company was established to provide quality used automotive components to the surrounding community, leveraging a yard management system that updates inventory daily.
+Beltway Used Auto Parts LLC has operated from Hyattsville, Maryland since its founding in 1999. The limited‑liability company runs an environmentally focused auto recycling yard that supplies used components for late‑model foreign and domestic cars and light trucks.
 
-The business specializes in late-model foreign and domestic auto and truck parts, ranging from wiring harnesses and differential assemblies to diesel particulate filters and bumper assemblies. Operations center on a salvage yard where vehicles are dismantled and parts are cataloged through the Car-Part Interchange system. Beltway ships nationwide via UPS, FedEx, and freight carriers, while its own fleet delivers six days a week across Maryland, Delaware, Virginia, the District of Columbia, and Pennsylvania. A standard four-month warranty covers all parts, with extended options available, and the company also purchases vehicles directly from sellers.
+The yard processes end‑of‑life vehicles and harvests parts ranging from wiring harnesses and bumper assemblies to diesel particulate filters and differential carriers. Inventory is tracked through a yard management system that updates stock daily, and the company uses Car‑Part Interchange to cross‑reference fitment. No facility size or employee count is disclosed, but the catalog lists hundreds of distinct part numbers covering mechanical, electrical, and body components.
 
-Primary customers include automotive repair shops, collision centers, and fleet maintenance operations throughout the Mid-Atlantic region, along with individual vehicle owners seeking affordable replacement components. The company’s bilingual staff (Se Habla Español) supports a diverse client base.
+Customers include repair shops, collision centers, fleet operators, and retail buyers across the Mid‑Atlantic. Beltway ships via UPS, FedEx, and freight carriers, and runs its own delivery fleet six days a week to Maryland, Delaware, Virginia, the District of Columbia, and Pennsylvania. The company also purchases vehicles directly from sellers for recycling.
 
-Beltway distinguishes itself through its commitment to environmentally responsible recycling, real-time inventory accuracy, and a dedicated local delivery network that complements national shipping options. The warranty program and vehicle acquisition service further reinforce a full-cycle approach to auto parts reuse.
+The business emphasizes its environmental stewardship, a four‑month standard warranty with optional extended coverage, and bilingual service in English and Spanish.
 
 ## Known for
 - Environmentally conscious auto recycling operation
-- Daily inventory updates via yard management system and Car-Part Interchange
-- Dedicated delivery fleet serving five Mid-Atlantic jurisdictions six days a week
-- Four-month standard warranty with extended coverage options
-- Spanish-language customer support
+- Daily inventory updates via yard management system and Car‑Part Interchange
+- Own delivery fleet serving MD, DE, VA, DC, PA six days a week
+- Four‑month standard warranty with extended options
+- Direct vehicle purchasing for recycling
 
 ## Capabilities
-- Used auto parts recycling and dismantling
-- Parts inventory management (Car-Part Interchange)
-- Nationwide shipping (UPS, FedEx, freight)
-- Regional dedicated fleet delivery
-- Warranty administration (4-month standard, extended)
-- Vehicle purchasing/acquisition
+- Auto recycling and parts harvesting
+- Yard management system with daily inventory updates
+- Car-Part Interchange fitment cross-referencing
+- Shipping via UPS, FedEx, and freight carriers
+- Local fleet delivery (MD, DE, VA, DC, PA)
+- Standard 4-month parts warranty
+- Extended warranty programs
+- Vehicle purchasing for recycling
 - Bilingual customer service (English/Spanish)
 
 ## Industries
 - Automotive aftermarket
+- Commercial trucking
 - Automotive recycling
-- Commercial fleet maintenance
-- Collision repair
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -182,15 +181,18 @@ Beltway distinguishes itself through its commitment to environmentally responsib
 
 <details><summary>Sources</summary>
 
-- Founded 1999, Hyattsville MD, environmentally conscious recycler -> /
-- Specializes in late model foreign/domestic auto and truck parts -> /
+- Founded 1999 -> db, /
+- Headquarters Hyattsville, MD -> db, /
+- Environmentally conscious recycler -> /
+- Specializes in late model foreign and domestic auto and truck parts -> /
 - Inventory updated daily via yard management system -> /
-- Ships via UPS, FedEx, freight; own fleet delivers to MD, DE, VA, DC, PA six days/week -> /
+- Uses Car-Part Interchange -> db
+- Ships via UPS, FedEx, freight and own fleet -> /
+- Own fleet delivers six days a week to MD, DE, VA, DC, PA -> /
 - 4-month standard warranty, extended warranties available -> /
 - Purchases vehicles from sellers -> /
 - Se Habla Espanol -> /
-- Uses Car-Part Interchange -> db
-- Product list includes wiring harnesses, differential assemblies, DPF, bumper assemblies -> db
+- Parts catalog includes wiring harnesses, bumpers, diesel particulate filters, differential assemblies, etc. -> db
 </details>
 
 ---
@@ -200,41 +202,49 @@ Beltway distinguishes itself through its commitment to environmentally responsib
 **Old description:** We accept payments with credit cards (VISA, & Mastercard) via phone or PO. Freight will be added to all invoices based on weight of products purchased. Please see our shipping, price and order policy page (prices are subject to change daily). Or Call us  about shipping costs.
 
 ## About
-Bentley Injection Molding, Plastics & Tooling operates from Mesquite, Texas, in the Dallas-Fort Worth metroplex. The company has served a global customer base for over 30 years, though a specific founding year and founder names are not publicly disclosed. Ownership details such as family, veteran, or woman-owned status are not stated.
+Bentley Injection Molding, Plastics & Tooling operates from Mesquite, Texas, where it has served a global customer base for over 30 years. The company specializes in custom injection molding, tooling, and assembly, producing precision plastic components for a range of industries.
 
-The company specializes in custom injection molding, tooling, and plastics fabrication, with a focus on gas and electric meter components. Its Mesquite facility molds index boxes in-house using prime UV-stabilized polycarbonate and applies a proprietary POSI-SEAL gasket made from 100% Dow Corning silicone. The product line includes meter covers, bushings, seals, screws, and removal tools for brands such as American, Rockwell, Sprague, Itron, GE, and Westinghouse. Services extend from new tooling through part production and assembly, and the company also buys and sells used gas meters.
+Its core manufacturing focuses on gas and electric metering products, including index box covers, security seals, gaskets, meter connections, and a variety of meter repair parts. The company molds its index boxes in-house using prime UV‑stabilized polycarbonate with a blue tint, and it developed the POSI‑SEAL gasket made from 100% Dow Corning silicone that permanently replaces traditional cork gaskets. In addition to metering components, Bentley provides custom injection molding services for toy companies, airlines, medical device makers, Tier 2 automotive suppliers, and general manufacturing.
 
-Bentley serves toy companies, airlines, medical device manufacturers, Tier 2 automotive suppliers, and general manufacturing. It also supplies the gas and electric metering industries, as well as aerospace and defense, oil and gas, and technology startups. Customers range from local Texas firms to worldwide accounts.
+Customers include original equipment manufacturers in the gas and electric utility sectors, as well as automotive, medical, and aerospace and defense contractors. The company also supplies parts for machinery, oil and gas, and technology startups.
 
-Bentley emphasizes a zero-defect mission, on-time delivery, and a satisfaction guarantee that allows returns for full credit. Materials are sourced only from certified distributors with lot traceability, and molding machines are monitored to maintain tolerances. The in-house molding operation gives the company direct control over quality and lead times, while free samples are offered for testing and evaluation.
+Bentley emphasizes a zero‑defect quality mission, backed by material certifications, lot traceability, and continuous monitoring of molding tolerances. It offers a satisfaction guarantee with full credit returns, free samples for evaluation, and in‑house tooling control to ensure on‑time delivery.
 
 ## Known for
-- In-house injection molding at Mesquite facility for complete quality control
-- POSI-SEAL gasket made from 100% Dow Corning silicone, permanently attached
-- Free samples available for all products for testing and evaluation
-- Satisfaction guarantee with full credit return policy
-- Materials purchased with certification and lot-number traceability
+- In-house injection molding at Mesquite facility for complete control over delivery and quality
+- Index boxes molded in prime UV‑stabilized polycarbonate with blue tint for haze resistance
+- POSI‑SEAL gasket: 100% Dow Corning silicone permanently attached, eliminating cork gaskets
+- OEM‑sized Wedge Loc security seals for interchangeability
+- Free samples available for testing and evaluation
 
 ## Capabilities
+- Injection molding
+- Tooling
+- Assembly
 - Custom injection molding
-- Tooling design and fabrication
-- Assembly and finishing
 - Gas meter component manufacturing
 - Electric meter component manufacturing
-- Automated silicone gasket application
-- Used gas meter buying and selling
+- Silicone gasket molding
+- Security seal installation
+- In-house tooling
+- Material certification and lot traceability
+- Quality monitoring (tolerance control)
+- Free sample provision
 
 ## Industries
-- Toy
+- Toy companies
 - Airlines
 - Medical
 - Tier 2 Automotive
 - Manufacturing
-- Gas Metering
-- Electric Metering
-- Oil and Gas
-- Tech Startups
-- Aerospace and Defense
+- Gas metering
+- Electric metering
+- Medical devices
+- Aerospace & Defense
+- Oil and gas
+- Tech startups
+- Automotive
+- Machinery
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -244,19 +254,15 @@ Bentley emphasizes a zero-defect mission, on-time delivery, and a satisfaction g
 
 - Location: Mesquite, Texas -> /
 - Over 30 years in business -> /
-- Custom injection molding services -> /
-- Gas and electric meter product lines -> /
-- In-house molding of index boxes -> /about
-- POSI-SEAL gasket using Dow Corning Silicone -> /about
+- Custom injection molding, tooling, assembly -> /
+- Gas and electric metering products -> /
+- In-house molding of index boxes using UV-stabilized polycarbonate -> /about
+- POSI-SEAL gasket made of 100% Dow Corning silicone -> /about
+- Industries served: toy companies, airlines, medical, Tier 2 Automotive, manufacturing -> /
+- Industries served: gas and electric metering -> /
+- Quality commitment: zero defects, material certification, satisfaction guarantee -> /
 - Free samples available -> /about
-- Satisfaction guarantee with full credit -> /
-- Materials sourced with certification and lot traceability -> /
-- Industries served: toy, airlines, medical, Tier 2 Automotive, manufacturing -> /
-- Industries served: aerospace & defense, oil and gas, tech startups -> /about
-- Automated silicone gasket for gas meter industries -> /about
-- Used gas meter buying/selling -> /
-- Assembly & finishing mentioned -> /products
-- Tooling services mentioned -> /
+- LinkedIn URL -> db
 </details>
 
 ---
@@ -266,32 +272,25 @@ Bentley emphasizes a zero-defect mission, on-time delivery, and a satisfaction g
 **Old description:** Shop our full collection of durable, dishwasher-safe plastic drinkware for all of your dining and entertaining needs. Break-resistant Bentley plastic tumblers, dishes, pitchers and trays come in 21 Colorware colors and now 8 Extremeware colors. You can mix-n-match colors in our basic Bentley Drinkware & Tableware sets, and order custom Monogrammed Drinkware or decorative Novelty Drinkware designs to make Bentley uniquely yours. Or, show your school spirit with our huge Collegiate Drinkware collection.
 
 ## About
-Bentley Plastics operates its factory store in Perryville, Arkansas, where it produces a full line of plastic drinkware and tableware. The company emphasizes that its products are made in the United States, though the founding year, ownership structure, and founders' names are not disclosed in public materials.
+Bentley Drinkware Inc., doing business as Bentley Plastics, operates from Perryville, Arkansas. The company runs a factory store and online shop selling its own line of plastic drinkware and tableware.
 
-The company manufactures break-resistant, dishwasher-safe tumblers, dishes, pitchers, and trays. Its catalog spans 21 standard Colorware colors and an additional 8 Extremeware colors, with options for mix-and-match sets, custom monogramming in multiple font styles, decorative novelty designs, and a large collegiate drinkware collection. Specific manufacturing processes, facility size, headcount, and production volumes are not published.
+The product line includes tumblers, dishes, pitchers, and trays made from break-resistant, dishwasher-safe plastic. The company offers two color systems: Colorware with 21 colors and Extremeware with 8 colors, which can be mixed and matched in basic drinkware and tableware sets. Customers can also order custom monogrammed drinkware in several font styles, as well as decorative novelty designs and a collegiate collection featuring school logos.
 
-Bentley Plastics sells directly to consumers through its factory store website, serving households and gift buyers looking for personalized or school-spirited drinkware. The collegiate line targets alumni and fans, while the monogram and novelty offerings cater to gifting and promotional uses. No industrial or OEM customer segments are mentioned.
+Bentley Plastics sells directly to consumers through its factory store and e-commerce site, and also serves the collegiate licensing market with branded drinkware. The custom monogram and novelty options cater to the personalized gift market, while the colorware and extremeware lines target everyday dining and entertaining needs.
 
-The business positions its domestic production, color breadth, and personalization capabilities as key differentiators. The ENERGY STAR certification noted in directory listings may apply to the manufacturing facility, though the company does not elaborate on its significance for drinkware.
+The company emphasizes domestic production, stating its products are "proudly made here in the USA." The drinkware is marketed as break-resistant and dishwasher-safe for everyday durability, and the facility holds an ENERGY STAR certification.
 
 ## Known for
-- Made in the USA
-- Break-resistant, dishwasher-safe plastic drinkware
-- 21 Colorware colors plus 8 Extremeware colors
-- Custom monogramming with multiple font options
+- Made in USA
+- Break-resistant, dishwasher-safe plastic
+- 21 Colorware colors and 8 Extremeware colors
+- Custom monogramming with multiple font styles
 - Collegiate drinkware collection
 
 ## Capabilities
-- Plastic drinkware molding
 - Custom monogramming
-- Novelty design decoration
-- Collegiate licensing
-
-## Industries
-- Consumer housewares
-- Collegiate merchandise
-- Promotional products
-- Giftware
+- Novelty drinkware design
+- Collegiate drinkware production
 
 ## Certifications
 - ENERGY STAR
@@ -302,16 +301,18 @@ The business positions its domestic production, color breadth, and personalizati
 
 <details><summary>Sources</summary>
 
-- Location: Perryville, Arkansas -> db
-- Made in USA claim -> page '/'
-- Product line: tumblers, dishes, pitchers, trays -> page '/'
-- 21 Colorware colors, 8 Extremeware colors -> page '/'
-- Custom monogramming (Vine, Script, Clarendon, Block fonts) -> page '/'
-- Novelty drinkware designs -> page '/'
-- Collegiate drinkware collection -> page '/'
-- Break-resistant, dishwasher-safe -> page '/'
-- ENERGY STAR certification -> db
-- Factory Store branding -> page '/'
+- Company name: Bentley Drinkware Inc. (Bentley Plastics) -> db
+- Headquarters: Perryville, Arkansas -> db
+- Certification: ENERGY STAR -> db
+- Products: plastic tumblers, dishes, pitchers, trays -> pages:/
+- Colorware: 21 colors -> pages:/
+- Extremeware: 8 colors -> pages:/
+- Custom monogrammed drinkware with font styles -> pages:/
+- Novelty drinkware designs -> pages:/
+- Collegiate drinkware collection -> pages:/
+- Made in USA claim -> pages:/
+- Factory store and online sales -> pages:/
+- Break-resistant, dishwasher-safe -> pages:/
 </details>
 
 ---
@@ -321,41 +322,51 @@ The business positions its domestic production, color breadth, and personalizati
 **Old description:** This is where you can tell people the mission of your farm. Mission statements are important because they identify the purpose of your work and lay out the goals your farm is committed to accomplishing.
 
 ## About
-Berkwood Farms operates from Des Moines, Iowa, as a farmer-owned coalition of independent family farmers. The company does not disclose a founding year, but its structure reflects generations of family farming, with many participants representing second through fifth generations in animal husbandry. Ownership rests directly with the farmers who raise the pigs, ensuring that proceeds flow back to the producers.
+Berkwood Farms operates from Des Moines, Iowa, as a farmer-owned coalition of more than 90 independent family farmers. The company does not disclose a founding date, but its membership includes second- through fifth-generation producers who have committed to a shared code of humane and environmentally responsible animal husbandry. The structure passes rewards directly to the farming families who raise the animals.
 
-The coalition produces 100% certified pure heirloom Berkshire pork, raised without antibiotics or hormones under a strict code of humane and environmentally responsible animal husbandry. With over 90 farmer-members, Berkwood Farms has grown into one of the largest American suppliers of this specialty pork, achieving national distribution while maintaining its commitment to sustainable farming practices.
+The coalition specializes in 100 percent pure, antibiotic-free heirloom Berkshire pork. Animals are raised without hormones or antibiotics under practices designed to be ecologically sustainable. Berkwood Farms describes itself as one of the largest American suppliers of certified pure heirloom Berkshire pork and the only farmer-owned company with national distribution. The network’s scale allows it to serve both wholesale channels and an online direct-to-consumer shop.
 
-The company supplies its pork nationally, serving foodservice, retail, and wholesale channels, though specific customer categories are not detailed in public materials. Its farmer-owned model differentiates it from conventional commodity pork supply chains.
+Customers include foodservice distributors, retailers, and individual buyers seeking heritage-breed pork with verified production standards. The company’s national reach means its products appear in markets across the United States, though specific client names are not public.
 
-Berkwood Farms was built on the principle that responsible agriculture can be both productive and community-focused. By keeping ownership in the hands of the farmers who raise the animals, the company aims to preserve traditional husbandry methods, ensure animal welfare, and deliver a premium product that reflects the way nature intended.
+Berkwood Farms emphasizes that its farmer-ownership model aligns incentives toward quality and stewardship. By eliminating outside investors, the coalition says it can maintain strict husbandry standards while returning economic benefits to the families who do the daily work of raising the pigs.
 
 ## Known for
-- 100% certified pure heirloom Berkshire pork
-- Antibiotic-free and hormone-free production
 - Farmer-owned coalition with national distribution
-- Strict code of humane and environmentally responsible animal husbandry
-- Over 90 independent family farmer members
+- Over 90 independent family farmers, many multi-generational
+- 100% pure antibiotic-free heirloom Berkshire pork
+- Strict code of responsible and humane animal husbandry
+- Only farmer-owned company with national distribution for heirloom Berkshire pork
 
 ## Capabilities
 - Heirloom Berkshire pork production
 - Antibiotic-free livestock raising
 - Humane animal husbandry
 - Sustainable farming practices
+- National wholesale distribution
+- Direct-to-consumer online sales
+
+## Industries
+- Food and beverage
+- Agriculture
+- Pork production
 
 ## Company details
 - **Company Type:** Manufacturer
-- **Ownership:** Farmer-owned (coalition of independent family farmers)
-- **Headquarters:** Des Moines, Iowa
+- **Ownership:** Farmer-owned
+- **Headquarters:** Des Moines, IA
 
 <details><summary>Sources</summary>
 
-- Location: Des Moines, Iowa -> /
-- Farmer-owned coalition of over 90 independent family farmers -> /about
-- Largest American supplier of 100% certified pure heirloom Berkshire pork -> /about
-- Antibiotic-free, hormone-free, humane animal husbandry -> /
-- National distribution -> /about
-- Multi-generational family farmers (2nd-5th generation) -> /about
-- Commitment to sustainable farming practices -> /
+- Coalition of over 90 independent family farmers -> /about
+- Located in Des Moines, Iowa -> /
+- Produces 100% pure antibiotic-free heirloom Berkshire pork -> /
+- Farmer-owned company with national distribution -> /about
+- Multi-generational farmers (2nd-5th generation) -> /about
+- Strict code of responsible and humane animal husbandry -> /about
+- Hormone- and antibiotic-free -> /
+- Largest American supplier of certified pure heirloom Berkshire pork -> /about
+- Only farmer-owned company with national distribution -> /about
+- Shop Online available -> /
 </details>
 
 ---
@@ -365,46 +376,53 @@ Berkwood Farms was built on the principle that responsible agriculture can be bo
 **Old description:** Since 1997, Berrien Metals has been manufacturing tanks with plumbing for heat transfer purposes, with materials such as steel, stainless steel, aluminum, and copper. We can solder, braze, TIG and MIG weld these components.
 
 ## About
-Berrien Metal Products operates from a 46,000-square-foot facility in Buchanan, Michigan. The company was founded in 1997 and has since focused on manufacturing tanks with integrated plumbing for heat-transfer applications, as well as a range of sheet-metal assemblies, stampings, and tubing-coil assemblies. Ownership details are not publicly disclosed.
+Berrien Metal Products was founded in 1997 in Buchanan, Michigan. The company began as a manufacturer of tanks with plumbing for heat-transfer applications, working with steel, stainless steel, aluminum, and copper.
 
-The shop runs automated CNC stamping (including a Ton S11 TruPunch 3000 with autoload), a Cincinnati CL-6 CNC laser capable of 1-inch thick material up to 48 by 96 inches, an 8-foot Chicago press brake with CNC gauge, and a machining cell with three mills, a lathe, and multiple drill presses. Core joining processes include soldering, brazing, TIG and MIG welding on steel, stainless steel, aluminum, and copper. Powder coating is outsourced. The company also produces a proprietary foldable podium called the Portable Podium™.
+Today the company operates a 46,000-square-foot facility offering CNC stamping (including a Ton S11 TruPunch 3000 with autoload), laser cutting (Cincinnati CL-6, 1″×48″×96″ capacity), press-brake forming (8′ Chicago brake), and machining on three mills, a lathe, and multiple drill presses. It also provides TIG/MIG welding, soldering, brazing, fixture fabrication, and outsourced powder coating. Core product lines include sheet-metal assemblies, stampings, small metal parts, tubing-coil assemblies, and low-pressure vessels, plus a proprietary foldable podium.
 
-Berrien Metal serves the nuclear industry and has a long track record with government agencies such as the U.S. Army, U.S. Navy, Department of Justice, and Congress, as well as commercial customers including Lockheed Martin, Airgas, and Marathon. Its parts go into military, aerospace, industrial-gas, and energy applications.
+Berrien Metal serves the nuclear industry and a roster of government and commercial customers that includes the U.S. Army, U.S. Navy, Department of Justice, Congress, Lockheed Martin, Airgas, Marathon, and Special Olympics.
 
-The company emphasizes its ISO 9001-certified quality system, lights-out CNC stamping capacity, and a stated commitment to on-time delivery of high-quality metal parts.
+The company states it aims to impress firms that need high-quality metal parts delivered on time, emphasizing its ISO 9001-certified quality system and automated lights-out stamping capability.
 
 ## Known for
-- Automatic CNC Stamping Available
-- 46,000 Square Feet Facility
-- ISO9001 Certified QMS
-- Also Serving the Nuclear Industry
-- Excellent Customer Service
+- 46,000 sq ft manufacturing facility
+- ISO 9001 certified quality management system
+- Serves nuclear industry requirements
+- Automated lights-out CNC stamping with autoload
+- Proprietary Portable Podium™ product
 
 ## Capabilities
-- Automated CNC Stamping
-- CNC Laser Cutting
-- Press Brake Forming
-- CNC Machining (Mills, Lathe, Drill Presses)
+- Automatic CNC Stamping
+- Automated Lights-Out CNC Stamping
+- CNC Laser Cutting (up to 1" x 48" x 96")
+- CNC Press Brake Forming (8' bed)
+- Machining (3 mills, lathe, drill presses)
+- Mill & Lathe Machining
 - Fixture Fabrication
-- Soldering
-- Brazing
+- Powder Coating (outsourced)
 - TIG Welding
 - MIG Welding
-- Sheet Metal Assembly
-- Tank Fabrication
+- Soldering
+- Brazing
 - Tubing Coil Assembly
-- Powder Coating (outsourced)
-- Complex Designs
-- Stampings
+- Tank & Low Pressure Vessel Fabrication
+- Sheet Metal Assembly
+- Small Metal Parts Manufacturing
+- Proprietary Product Manufacturing (Portable Podium)
 
 ## Industries
 - Nuclear
+- Government/Defense
+- Aerospace
+- Industrial Gases
+- Oil & Gas
+- Sports & Events
 
 ## Equipment
 - Ton S11 TruPunch 3000 CNC Punch Press w/Autoload
-- CINCINNATI CL-6 CNC Laser capacity to 1" x 48" x 96"
+- CINCINNATI CL-6 CNC Laser (1" x 48" x 96")
 - Chicago 8' Press Brake w/CNC gauge
-- 3 mills, Lathe, and several drill presses
+- 3 mills, 1 lathe, multiple drill presses
 
 ## Certifications
 - ISO 9001
@@ -416,18 +434,21 @@ The company emphasizes its ISO 9001-certified quality system, lights-out CNC sta
 
 <details><summary>Sources</summary>
 
-- Founded 1997 -> db (description)
-- Headquarters Buchanan, Michigan -> db (hq_city, hq_state_label) and home page
-- 46,000 sq ft facility -> home page
-- ISO 9001 certified -> db (certifications) and home page
-- Serves nuclear industry -> db (industries_served) and home page
-- Customers: US Army, US Navy, US Department of Justice, US Congress, Special Olympics, Lockheed Martin, Airgas, Marathon -> home page
-- Equipment: Ton S11 TruPunch 3000, CINCINNATI CL-6 CNC Laser, Chicago 8' Press Brake -> home page
-- Materials: steel, stainless steel, aluminum, copper -> db (description)
-- Processes: solder, braze, TIG, MIG weld -> db (description)
-- Proprietary product: Portable Podium -> home page
-- Capabilities: CNC stamping, laser cutting, press brake, machining, fixture fabrication, powder coating (outsourced) -> home page and db (capabilities)
-- Products: tanks, sheetmetal assemblies, small metal parts, stampings, tubing coils -> home page
+- Founded 1997 -> db
+- Headquarters Buchanan, Michigan -> db
+- 46,000 sq ft facility -> /
+- ISO 9001 certified -> db, /
+- Serves nuclear industry -> db, /
+- Customers: US Army, US Navy, DOJ, Congress, Lockheed Martin, Airgas, Marathon, Special Olympics -> /
+- Processes: CNC stamping, laser cutting, press brake, machining, welding, soldering, brazing, tubing coil assembly, tank fabrication -> db, /
+- Equipment: Ton S11 TruPunch 3000, Cincinnati CL-6 laser, Chicago 8' press brake, 3 mills/lathe/drill presses -> db
+- Proprietary product: Portable Podium -> /
+- Materials: steel, stainless steel, aluminum, copper -> db
+- Automated lights-out CNC stamping -> db
+- Fixture fabrication -> db
+- Powder coating (outsourced) -> db
+- Sheet metal assemblies, stampings, small parts, tanks, tubing coils -> /
+- Company type: Manufacturer -> db, /
 </details>
 
 ---
@@ -437,44 +458,57 @@ The company emphasizes its ISO 9001-certified quality system, lights-out CNC sta
 **Old description:** When you choose Rotech Healthcare, you’re choosing more than a home respiratory and medical supplier. You’re choosing neighbors and friends who provide outstanding connected care and high-quality medical products, prioritize clinical excellence, and help you live a more comfortable life. You’re choosing the feel of a hometown company with all the advantages of a national provider.
 
 ## About
-Rotech Healthcare operates a location in Nitro, West Virginia, as part of a nationwide network delivering home medical equipment and respiratory services. The company has maintained Joint Commission accreditation since 2000, underscoring a long-standing commitment to quality and safety standards. While the exact founding date of this location is not publicly disclosed, the organization describes itself as a national leader with the feel of a hometown provider.
+Based in Nitro, West Virginia, Rotech Healthcare operates as a national provider of home medical equipment and respiratory services. The company describes itself as a hometown company with the advantages of a national network, though its founding year and ownership structure are not publicly disclosed.
 
-The Nitro location supplies a range of durable medical equipment, including ventilators, oxygen systems, CPAP and BiPAP devices for sleep apnea, nebulizers, airway clearance devices, and wound care and diabetes management products. Beyond equipment provision, the company runs clinical programs such as NIVnow for non-invasive ventilation support, COPDBridge for chronic obstructive pulmonary disease management, SleepWELL for CPAP compliance, and specialized pediatric ventilation and ALS programs. A team of respiratory clinicians, customer service representatives, Medicare and insurance specialists, and patient service technicians coordinates delivery, setup, and ongoing patient education.
+Rotech supplies a range of home healthcare products including ventilators, oxygen systems, CPAP and sleep apnea devices, wound care solutions, diabetes management supplies, airway clearance equipment, nebulizers, and general home medical equipment. The company also runs clinical programs such as NIVnow for non‑invasive ventilation support, COPDBridge for reducing 30‑day readmissions, SleepWELL for CPAP compliance, Pediatric Vents, and an ALS program. Its team comprises respiratory clinicians, customer service representatives, Medicare and insurance experts, and patient service technicians who coordinate delivery, setup, and ongoing patient education.
 
-The primary customers are patients managing chronic respiratory conditions, sleep disorders, wounds, or diabetes at home, as well as the healthcare providers who prescribe and monitor their treatment. Physicians, hospital discharge planners, social workers, and case managers rely on the company for timely equipment delivery and clinical follow-up to reduce hospital readmissions. The service area extends across the communities served by Rotech’s national footprint, with a local presence in Nitro.
+The primary industry served is home medical equipment, with customers including individual patients, physicians, hospitals, and social workers. Testimonials on the company’s site reference patients in Kentucky, Texas, South Carolina, and North Carolina, as well as a social worker who notes reliable delivery by discharge date. Rotech partners with physicians to ensure successful treatment and works with facilities to coordinate vital services.
 
-Rotech differentiates itself through its "Get it Right the First Time" mission, emphasizing clinical excellence and connected care that blends national resources with local responsiveness. The Joint Commission accreditation and disease-specific clinical pathways are cited as evidence of its focus on measurable outcomes, such as improved CPAP compliance and reduced 30-day readmissions for COPD patients.
+Rotech emphasizes its Joint Commission accreditation, held since 2000, as a mark of quality and safety. Its stated mission is to “Get it Right the First Time,” and core fundamentals stress teamwork, clinical and service excellence, and prioritizing patients and healthcare professionals. The company positions its differentiator as combining the feel of a local provider with the resources of a national organization.
 
 ## Known for
-- Joint Commission accredited since 2000
-- National network with local clinical teams
-- Proprietary clinical programs (NIVnow, COPDBridge, SleepWELL)
-- Focus on reducing 30-day hospital readmissions
-- Integrated insurance and Medicare coordination
+- Joint Commission Accredited since 2000
+- National provider with hometown feel
+- Clinical programs: NIVnow, COPDBridge, SleepWELL, Pediatric Vents, ALS Program
+- Team of respiratory clinicians and Medicare experts
+- Mission: Get it Right the First Time
 
 ## Capabilities
 - Home oxygen therapy
-- CPAP/BiPAP sleep apnea therapy
-- Non-invasive ventilation (NIV) support
-- Wound care product supply
-- Diabetes management supplies
+- Sleep apnea treatment (CPAP)
+- Non‑invasive ventilation (NIV)
+- Wound care solutions
+- Diabetes management
 - Airway clearance therapy
 - Nebulizer therapy
-- Durable medical equipment (DME) distribution
-- Clinical program management (NIVnow, COPDBridge, SleepWELL, Care PLUS, Pediatric Vents, ALS Program)
-- Patient education and training
-- Insurance/Medicare billing coordination
+- Home medical equipment supply
+- Clinical program: NIVnow
+- Clinical program: COPDBridge
+- Clinical program: SleepWELL
+- Clinical program: Pediatric Vents
+- Clinical program: ALS Program
+- Patient connected care
+- Coordinate vital services
+- Reduce 30‑day readmissions
+- Increase CPAP compliance
 
 ## Industries
-- Home healthcare
-- Respiratory care
-- Sleep medicine
-- Wound care
-- Diabetes management
-- Durable medical equipment (DME)
+- Home Medical Equipment
+- Home Healthcare
+- Respiratory Care
+- Wound Care
+- Diabetes Management
+- Sleep Medicine
+
+## Equipment
+- Ventilators
+- Oxygen systems
+- CPAP machines
+- Nebulizers
+- Airway clearance devices
 
 ## Certifications
-- Joint Commission Accredited
+- Joint Commission Accreditation
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -482,13 +516,16 @@ Rotech differentiates itself through its "Get it Right the First Time" mission, 
 
 <details><summary>Sources</summary>
 
-- HQ in Nitro, WV -> db
+- HQ city/state -> db
+- Website -> db
 - Joint Commission Accredited since 2000 -> /about-us
-- National provider of home medical equipment and respiratory services -> /about-us
-- Clinical programs include NIVnow, COPDBridge, SleepWELL, Care PLUS, Pediatric Vents, ALS Program -> /
-- Team includes respiratory clinicians, customer service representatives, Medicare and insurance experts, patient service technicians -> /about-us
-- Focus on reducing 30-day readmissions and increasing CPAP compliance -> /
-- Company describes itself as a national leader with hometown feel -> /
+- Industries served: Home Medical Equipment -> db
+- Product categories: ventilators, oxygen, sleep apnea treatment, wound care solutions, diabetes management, home medical equipment -> /about-us
+- Clinical programs: NIVnow, COPDBridge, SleepWELL, Pediatric Vents, ALS Program -> /
+- Team composition: respiratory clinicians, customer service representatives, Medicare and insurance experts, patient service technicians -> /about-us
+- Mission: Get it Right the First Time -> /about-us
+- Core fundamentals -> /about-us
+- Customer testimonials referencing patients in multiple states -> /
 </details>
 
 ---
@@ -498,41 +535,41 @@ Rotech differentiates itself through its "Get it Right the First Time" mission, 
 **Old description:** Beyond Components is a nationwide distributor of high quality electronic and electro-mechanical products. We carry more than 350 factory authorized product lines from an array of brand manufacturers including ABB, Marathon SP, IDEC, Eaton, Harting, Wieland, Baco, Conta Clip, TE Connectivity, Orion Fans, E-Switch, Finder, Littelfuse, Weidmuller and many more.
 
 ## About
-Beyond Components is based in Westford, Massachusetts, where it has operated as a nationwide distributor of electronic and electro‑mechanical products for 39 years. The company, organized as a limited liability company, has never experienced a layoff — even during recessions and the COVID‑19 pandemic.
+Beyond Components operates from Westford, Massachusetts, where it has served as a nationwide distributor of electronic and electro-mechanical products for 39 years. The company emphasizes a stable employment record, noting it has never conducted a layoff despite economic downturns and the COVID-19 pandemic.
 
-The distributor carries more than 350 factory‑authorized product lines from manufacturers such as ABB, Eaton, TE Connectivity, Harting, and Littelfuse. Its catalog spans categories including circuit breakers, connectors, terminal blocks, relays, power supplies, sensors, and wire and cable accessories. Beyond Components maintains an online product catalog and a cross‑reference tool (Cross & Save) designed to help customers identify alternate parts.
+The distributor carries more than 350 factory-authorized product lines from manufacturers such as ABB, Marathon Special Products, IDEC, Eaton, Harting, Wieland, TE Connectivity, and Littelfuse. Its catalog spans categories including circuit breakers, connectors, terminal blocks, relays, sensors, power supplies, wire and cable, and enclosures.
 
-The company serves a broad base of industrial and commercial customers; its client list includes firms such as MacLean Senior Industries and Curtis Industries. The product range suggests applications in industrial automation, electrical equipment manufacturing, and maintenance and repair operations.
+Beyond Components supplies original equipment manufacturers, maintenance and repair operations, and panel builders across industrial automation, electrical construction, and related sectors. Customers access the inventory through an online catalog that includes a cross-reference tool designed to identify cost-saving alternatives.
 
-Beyond Components emphasizes its stability and employee retention, noting the 39‑year no‑layoff record as a key differentiator. The company also highlights its “Credo” as a point of distinction, though the specific tenets are not detailed on its public site.
+The company cites its no-layoff history and breadth of authorized lines as key differentiators, positioning itself as a reliable long-term supply partner rather than a transactional broker.
 
 ## Known for
-- No layoffs in 39‑year history, including recessions and COVID‑19
-- 350+ factory‑authorized product lines from major brands
-- Online cross‑reference tool (Cross & Save) for part substitution
+- No layoffs in 39-year history
+- 350+ factory-authorized product lines
 - Nationwide distribution network
+- Online catalog with cross-reference and cost-saving tool
 
 ## Capabilities
-- Distribution of electronic and electro‑mechanical components
-- Factory‑authorized product line representation
+- Authorized distribution of electronic components
+- Authorized distribution of electro-mechanical components
 - Online product catalog and ordering
-- Cross‑reference and part substitution service (Cross & Save)
+- Cross-reference and cost-reduction analysis
+- Inventory management and supply chain support
 
 ## Company details
 - **Company Type:** Distributor / reseller
-- **Headquarters:** Westford, Massachusetts
+- **Headquarters:** Westford, MA
 
 <details><summary>Sources</summary>
 
-- Nationwide distributor of electronic and electro-mechanical products -> db
-- Carries more than 350 factory authorized product lines -> db
-- Product lines include ABB, Marathon SP, IDEC, Eaton, Harting, Wieland, Baco, Conta Clip, TE Connectivity, Orion Fans, E-Switch, Finder, Littelfuse, Weidmuller -> db
 - Headquarters in Westford, Massachusetts -> db
-- 39-year history with no layoffs, including recessions and COVID-19 -> /
-- Product categories: circuit breakers, connectors, terminal blocks, relays, power supplies, sensors, wire and cable accessories -> /
-- Online product catalog and cross-reference tool (Cross & Save) -> /
-- Customer examples: MacLean Senior Industries, Curtis Industries -> db
-- Company organized as LLC (copyright notice) -> /
+- Nationwide distributor of electronic and electro-mechanical products -> db, /
+- Carries more than 350 factory authorized product lines -> db, /
+- Brands include ABB, Marathon SP, IDEC, Eaton, Harting, Wieland, TE Connectivity, Littelfuse -> db, /
+- 39-year history with no company layoffs -> /
+- Product categories: circuit breakers, connectors, terminal blocks, relays, sensors, power supplies, wire and cable, enclosures -> /
+- Online catalog with cross-reference tool -> /
+- Company type: Distributor -> db, /
 </details>
 
 ---
@@ -542,31 +579,30 @@ Beyond Components emphasizes its stability and employee retention, noting the 39
 **Old description:** We are reducing our carbon footprint even as we are expanding
 
 ## About
-Bharat Forge Aluminum USA, Inc. was founded in 2020 and operates a state-of-the-art plant in Sanford, North Carolina. The company is backed by an international network, reflecting its roots in the global Bharat Forge group.
+Bharat Forge Aluminum USA, Inc was established in 2020 in Sanford, North Carolina. The company operates a state-of-the-art plant in Sanford and functions as the U.S. aluminum division of the global Bharat Forge group.
 
-The facility produces lightweight aluminum parts as well as steel components, serving automotive and industrial markets. While specific processes are not detailed publicly, the company emphasizes manufacturing high-quality parts for trucks, cars, and off-highway equipment, with a Marine Class Approval of Manufacturer underscoring its capability for safety-critical applications.
+The facility produces lightweight aluminum parts as well as steel components, targeting the automotive and commercial vehicle sectors. Its product lineup includes parts for trucks, passenger cars, and off-highway equipment. The company emphasizes a low total cost of ownership and plans to double output within two years and triple it within five.
 
-Customers span the automotive sector — including truck and passenger car manufacturers — as well as off-highway and marine industries. The company’s Marine Class Approval indicates it supplies parts for marine applications, and its international backing suggests a global supply chain reach.
+Primary customers are in the truck, car, and off-highway industries. The company holds a Marine Class Approval of Manufacturer certification, indicating capability for marine applications, and maintains ISO 14001 environmental certification.
 
-Bharat Forge Aluminum USA highlights a lowest-total-cost-of-ownership proposition and a sustainability commitment, noting it is reducing its carbon footprint even as it expands. The company has announced aggressive growth targets, aiming to double output in two years and triple it in five, while investing in community partnerships and workforce development through an NC State internship program and local school initiatives.
+Bharat Forge Aluminum USA highlights sustainability, noting it is reducing its carbon footprint while expanding. It also runs an internship program with North Carolina State University and supports local organizations such as the Salvation Army, Downtown Sanford, and Habitat for Humanity.
 
 ## Known for
-- Lowest Total Cost of Ownership (TCO) proposition
-- Reducing carbon footprint while expanding production
+- Lowest Total Cost of Ownership (TCO) focus
 - State-of-the-art plant in Sanford, NC
-- Marine Class Approval of Manufacturer
-- Backed by an international network
+- Marine Class Approval of Manufacturer certification
+- Sustainability commitment: reducing carbon footprint while expanding
+- Internship program with NC State University
 
 ## Capabilities
-- Lightweight aluminum parts manufacturing
-- Steel parts manufacturing
+- Lightweight aluminum component production
+- Steel component production
 
 ## Industries
 - Trucks
-- Cars
-- Off-highway
+- Passenger cars
+- Off-highway equipment
 - Marine
-- Industrial
 
 ## Certifications
 - ISO 14001
@@ -579,20 +615,20 @@ Bharat Forge Aluminum USA highlights a lowest-total-cost-of-ownership propositio
 
 <details><summary>Sources</summary>
 
-- Founded in 2020 -> db
-- Headquarters in Sanford, North Carolina -> db
-- Produces lightweight aluminum parts and steel parts -> /
-- Serves automotive (trucks, cars), off-highway, and marine industries -> /, /about-us
-- Holds ISO 14001 certification -> db
-- Holds Marine Class Approval of Manufacturer -> /about-us
-- Claims lowest total cost of ownership -> /
-- Reducing carbon footprint while expanding -> /
+- Founded year 2020 -> db
+- Headquarters Sanford, North Carolina -> db
+- Certification ISO 14001 -> db
 - State-of-the-art plant in Sanford, NC -> /
-- Backed by an international network -> /
-- Community involvement with Salvation Army, Downtown Sanford, Habitat for Humanity -> /about-us
-- Education partnerships with NC State and Lee County School System -> /about-us
+- Lightweight aluminum parts manufacturing -> /
+- Steel and aluminum parts -> /
+- Lowest Total Cost of Ownership -> /
+- Sustainability: reducing carbon footprint while expanding -> /
+- Growth plans: 2X in 2 years, 3X in 5 years -> /
+- Industries: trucks, cars, off-highway -> /
+- Marine Class Approval of Manufacturer -> /about-us
+- Community support: Salvation Army, Downtown Sanford, Habitat for Humanity -> /about-us
+- Internship program with NC State -> /about-us
 - Employee tuition reimbursement -> /about-us
-- Growth plan: 2X in 2 years, 3X in 5 years -> /
 </details>
 
 ---

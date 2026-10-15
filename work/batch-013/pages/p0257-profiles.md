@@ -1,100 +1,48 @@
 # TriMark Hockenbergs Equipment & Supply
 
-**Old description:** We equip customers from front to back of house with all essential products from cutting-edge tools and high efficiency systems to stylish wares and serving utensils. Lasting quality – delivered with reliability and speed.
-
-## About
-TriMark Hockenbergs Equipment & Supply operates from Omaha, Nebraska, providing foodservice operators with a single source for equipment, supplies, and facility design. The company serves customers across the front and back of house, offering everything from cutting‑edge tools and high‑efficiency systems to stylish wares and serving utensils.
-
-The business combines product distribution with design services. Its designers work from concept to completion to create foodservice facilities with optimum workflow and space utilization, helping clients avoid costly mistakes. The supply side covers tabletop items, kitchen equipment, and a broad range of foodservice supplies, all delivered with an emphasis on reliability and speed.
-
-Primary customers include restaurants, hotels, institutional cafeterias, and other hospitality venues that need a complete outfitting solution. The company positions itself as a partner that simplifies procurement by consolidating equipment, supply, and design under one roof.
-
-TriMark Hockenbergs highlights personal attention, proven ideas, and a commitment to lasting quality as its differentiating factors. The firm was built to give operators a streamlined path from planning to daily operation, reducing the complexity of managing multiple vendors.
-
-## Known for
-- Single-source provider for equipment, supplies, and design services
-- Foodservice facility design from concept to completion
-- Focus on reliability and speed of delivery
-- Personal attention to avoid costly mistakes
-
-## Capabilities
-- Foodservice facility design
-- Equipment and supply distribution
-- Tabletop and serving ware supply
-- Kitchen equipment supply
-- Front-of-house and back-of-house product supply
-
-## Industries
-- Foodservice
-- Hospitality
-- Restaurant
-- Commercial kitchen
-
-## Company details
-- **Company Type:** Distributor / reseller
-- **Headquarters:** Omaha, Nebraska
-
-<details><summary>Sources</summary>
-
-- Company name and location -> db
-- Description of supply and design services -> /
-- Single-source positioning -> /
-- Design service details -> /
-- Target customers (front/back of house, foodservice facilities) -> /
-- Value propositions (excellence, reliability, personal attention) -> /
-</details>
-
----
+_skipped: not enough facts_
 
 # Triad Semiconductor, Inc.
 
 **Old description:** Analog and Mixed-Signal Solutions for sight, sound and feel innovations in the REAL world. Triad Semiconductor is a leader in developing high-performance custom ASICs (Application Specific Integrated Circuits) and targeting Application Specific Standard Products (ASSPs).
 
 ## About
-Triad Semiconductor, Inc. is headquartered in Winston-Salem, North Carolina. The company was launched more than two decades ago by founder Jim Kemerling, who serves as Chief Technology Officer, alongside CEO Lynn Hayden. It began by assembling a team of analog and mixed-signal engineers from semiconductor firms to create custom integrated circuits for real-world applications.
+Triad Semiconductor, Inc. is based in Winston-Salem, North Carolina. The company was launched over twenty years ago by founder Jim Kemerling, who serves as Chief Technology Officer. From its inception, Triad attracted a team of highly skilled analog and mixed-signal engineers from semiconductor firms to develop custom integrated circuit solutions.
 
-Triad designs high-performance custom ASICs (Application Specific Integrated Circuits) and develops Application Specific Standard Products (ASSPs). Its engineering focus spans analog and mixed-signal IC design for virtual and augmented reality, audio, automotive, medical, sensor, silicon photonics, and optical communication markets. The company operates as a fabless semiconductor supplier, delivering qualified devices through certified manufacturing partners.
+Triad specializes in the design and development of high-performance custom ASICs (Application Specific Integrated Circuits) and Application Specific Standard Products (ASSPs). Its engineering focus spans analog and mixed-signal IC design, with capabilities extending to functional safety certification (ISO 26262) and aerospace and defense qualification (QML/MIL-PRF-38535). The company also offers expertise in silicon photonics and optical communication design.
 
-Customers include OEMs and system integrators in aerospace and defense, automotive, medical, consumer electronics, and industrial sensing. The firm's Triad Micro Devices (TMD) line addresses aerospace and defense requirements, while its automotive-grade solutions meet ISO 26262 functional safety standards. Concrete applications range from VR/AR headsets and hearing aids to satellite communications and automotive safety systems.
+Triad serves a range of industries including virtual and augmented reality, audio, automotive, medical, sensors, silicon photonics/optical communication, and aerospace and defense. Its Triad Micro Devices (TMD) line specifically addresses aerospace and defense applications. Customers include companies developing VR/AR headsets, automotive safety systems, medical devices, and satellite communications.
 
-Triad emphasizes continuous quality improvement, holding ISO 9001:2015 certification and QML/MIL-PRF-38535 qualification. A UL-certified Functional Safety Professional on staff supports ISO 26262 compliance for automotive programs. The company states that its brand is built on quality, with prevention, detection, and corrective action driving internal and external processes.
+The company emphasizes quality as a core differentiator, maintaining ISO 9001:2015 certification and a UL Certified Functional Safety Professional on staff. Triad states that its passion for creating analog and mixed-signal solutions for the real world drives its approach to continuous improvement and regulatory compliance, including conflict minerals reporting.
 
 ## Known for
-- UL Certified Functional Safety Professional on staff
-- ISO 9001:2015 certified quality management
+- ISO 9001:2015 certified quality management system
 - QML/MIL-PRF-38535 qualified for aerospace and defense
-- ISO 26262 functional safety expertise for automotive
-- Engineering team sourced from world-leading semiconductor companies
+- UL Certified Functional Safety Professional (ISO 26262) on staff
+- Team of analog/mixed-signal engineers from world-leading semiconductor companies
+- Triad Micro Devices (TMD) dedicated to aerospace and defense applications
 
 ## Capabilities
 - Custom ASIC design
-- Mixed-signal IC design
 - Application Specific Standard Product (ASSP) development
-- Analog IC design
-- Silicon photonics/optical communication IC design
+- Analog and mixed-signal IC design
 - Functional safety certification (ISO 26262)
-- MIL-PRF-38535 qualified manufacturing management
-- Virtual reality/augmented reality IC solutions
-- Audio IC design
-- Automotive IC design
-- Medical IC design
-- Sensor IC design
+- Aerospace and defense qualification (QML/MIL-PRF-38535)
+- Silicon photonics/optical communication design
 
 ## Industries
-- Aerospace & Defense
+- Virtual Reality and Augmented Reality
+- Audio
 - Automotive
 - Medical
-- Consumer Electronics
-- Virtual Reality / Augmented Reality
-- Audio
 - Sensors
 - Silicon Photonics / Optical Communication
-- Industrial
+- Aerospace & Defense
 
 ## Certifications
 - ISO 9001:2015
 - QML/MIL-PRF-38535
-- ISO 26262 UL Certified Functional Safety Professional (CFSP)
+- ISO 26262 UL Certified Functional Safety Professional (CFSP) - Automotive
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -102,17 +50,16 @@ Triad emphasizes continuous quality improvement, holding ISO 9001:2015 certifica
 
 <details><summary>Sources</summary>
 
-- Headquartered in Winston-Salem, North Carolina -> db
+- Headquarters: Winston-Salem, North Carolina -> db
+- Founder: Jim Kemerling (Founder/CTO) -> /about-us
 - Launched over twenty years ago -> /about-us
-- Founder Jim Kemerling (CTO) and CEO Lynn Hayden -> /about-us
-- Develops custom ASICs and ASSPs -> /
-- Markets: VR/AR, Audio, Automotive, Medical, Sensors, Silicon Photonics/Optical Communication, Aerospace & Defense -> /about-us and /
+- Custom ASIC and ASSP development -> /
+- Markets: VR/AR, Audio, Automotive, Medical, Sensors, Silicon Photonics/Optical Communication, Aerospace & Defense -> /about-us
 - Triad Micro Devices (TMD) for Aerospace and Defense -> /about-us
-- ISO 9001:2015 certified -> /quality
-- QML/MIL-PRF-38535 qualified -> /quality
-- ISO 26262 UL Certified Functional Safety Professional on staff -> /quality
-- Conflict Minerals Statement -> /quality
-- Leadership team names -> /about-us
+- Certifications: ISO 9001:2015, QML/MIL-PRF-38535, ISO 26262 UL CFSP -> /quality
+- UL Certified Functional Safety Professional on staff -> /quality
+- Quality policy: continuous improvement, conflict minerals compliance -> /quality
+- Leadership team: Lynn Hayden (CEO), Chris Whitley (VP Operations and Quality), Phillip Muehring (VP WW Sales), Tony Doy (VP Product Definition) -> /about-us
 </details>
 
 ---
@@ -122,19 +69,19 @@ Triad emphasizes continuous quality improvement, holding ISO 9001:2015 certifica
 **Old description:** Tribe Solar & Electric LLC was founded with a mission to provide affordable and sustainable energy solutions to our community. Locally owned and operated, we deliver quality solar installations throughout Oklahoma, helping homeowners and businesses reduce their energy bills while supporting a greener planet.
 
 ## About
-Tribe Solar & Electric LLC operates from Newcastle, Oklahoma. The company was founded with a mission to provide affordable and sustainable energy solutions to the local community. Owner Fred Ridley leads the locally owned and operated business, which focuses on delivering quality solar installations across Oklahoma.
+Tribe Solar & Electric LLC operates from Newcastle, Oklahoma, where it was founded with a mission to provide affordable and sustainable energy solutions to the local community. The company is locally owned and operated by Fred Ridley, who serves as owner.
 
-The firm provides residential and commercial solar installation services, including roof-mounted and ground-mounted systems, energy storage and standby power solutions, and a detach-and-reset service for roofers and contractors. It also offers Solar 911, a repair service for systems that are not performing or failing inspections. The company handles projects from design through completion.
+The firm installs residential and commercial solar energy systems, including roof‑mounted and ground‑mounted arrays, energy storage and standby power solutions. It also offers a detach‑and‑reset service for roofers and contractors who need to temporarily remove solar arrays during roof work, and a Solar 911 repair service to troubleshoot and bring non‑performing systems back online.
 
-Tribe Solar serves homeowners and businesses throughout Oklahoma, helping them reduce energy costs and increase energy independence. Its commercial clients include businesses seeking to lock in stable energy expenses, while residential customers range from single-family homes to properties requiring ground-mounted arrays.
+Customers include homeowners and businesses across Oklahoma seeking to lower utility bills and increase energy independence. The company also serves roofing contractors who require professional detach‑and‑reset support during roof replacements or repairs.
 
-The company states it strives not to be the biggest but the best, emphasizing honesty, excellence, and a commitment to a cleaner, more sustainable future. Its founding mission centers on affordable pricing, unmatched quality, and fair pricing to earn customer trust.
+Tribe Solar emphasizes honest pricing, local accountability, and a commitment to building a cleaner, more sustainable future. Its stated goal is not to be the largest installer but to earn trust through quality workmanship and long‑term customer relationships.
 
 ## Known for
 - Locally owned and operated in Newcastle, Oklahoma
-- Detach and reset service for roofers and contractors
-- Solar 911 repair service for underperforming systems
-- Energy storage and standby power solutions
+- Detach and reset services for roofers and contractors
+- Solar 911 repair service for existing installations
+- Standby power and energy storage solutions
 - Affordable pricing that beats competitors
 
 ## Capabilities
@@ -144,12 +91,13 @@ The company states it strives not to be the biggest but the best, emphasizing ho
 - Ground-mounted solar systems
 - Energy storage installation
 - Standby power solutions
-- Detach and reset service
-- Solar system repair (Solar 911)
+- Detach and reset services
+- Solar 911 repair services
 
 ## Industries
 - Residential
 - Commercial
+- Roofing contractors
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -158,15 +106,12 @@ The company states it strives not to be the biggest but the best, emphasizing ho
 
 <details><summary>Sources</summary>
 
-- Newcastle, Oklahoma headquarters -> db
-- Fred Ridley owner -> /
-- Founded with mission to provide affordable sustainable energy solutions -> /
-- Locally owned and operated -> /
-- Residential and commercial solar installations -> /
-- Detach and reset services for roofers and contractors -> /
-- Energy storage and standby power solutions -> /
-- Solar 911 repair service -> /
-- Serves homeowners and businesses across Oklahoma -> /
+- Headquarters: Newcastle, Oklahoma -> db
+- Owner: Fred Ridley -> /
+- Mission: affordable and sustainable energy solutions -> /
+- Services: residential/commercial solar, detach & reset, energy storage, Solar 911 -> /
+- Customer types: homeowners, businesses, roofing contractors -> /
+- Differentiators: locally owned, affordable pricing, eco-friendly, not biggest but best -> /
 </details>
 
 ---
@@ -176,60 +121,54 @@ The company states it strives not to be the biggest but the best, emphasizing ho
 **Old description:** Trinity Plastics is part of the Inteplast Group. Established in 1991, Inteplast Group is the largest manufacturer of integrated plastics in North America. Inteplast facilities in Texas are the largest of their kind and contain the finest equipment available in the world. We use the latest, most innovative technology, including advanced automation and computerization. Our plants have achieved ISO 9001: 2008 Certification, the international stamp of quality manufacturing, and Inteplast’s strong management and technical teams provide first-rate in-house support.
 
 ## About
-Trinity Plastics, headquartered in Lewistown, Pennsylvania, operates as a division of the Inteplast Group, a North American integrated plastics manufacturer established in 1991. The company was formed when Inteplast Group acquired the bags and wraps assets of Trinity Packaging, installing Howard Kirschenbaum, a three-decade industry veteran, as vice president of sales.
+Trinity Plastics Incorporated operates from Lewistown, Pennsylvania, as a division of the Inteplast Group, a plastics conglomerate founded in 1991 that describes itself as North America's largest integrated plastics manufacturer. The subsidiary benefits from the parent company's Texas-based production complexes, which Inteplast characterizes as the largest of their kind globally and equipped with what it calls the finest equipment available.
 
-The company manufactures a range of plastic and paper-based packaging products, including trash bags and can liners, food bags and containers, aluminum foil, parchment and waxed paper, and carry-out, T-shirt, catering, and merchandise bags. Production leverages Inteplast's Texas facilities, which feature advanced automation and computerization, while a national network of warehouses enables efficient distribution across the United States.
+The company produces a range of plastic goods for consumer and commercial channels, including retail and grocery bags, die-cut merchandise bags for department stores, and lines of compostable and sustainability-focused products. Manufacturing relies on what Inteplast calls the latest innovative technology, advanced automation and computerization across its facilities, supported by in-house technical and management teams.
 
-Trinity Plastics serves private-label, consumer, commercial, and foodservice markets. Its customer base includes national retailers and restaurants that source store-brand trash and food-contact products, as well as grocery and retail chains seeking carry-out and merchandise bags.
+Primary markets include consumer products, retail and grocery distribution, foodservice operators, and department-store chains seeking branded or stock merchandise bags. The product portfolio also targets organizations pursuing compostable alternatives for single-use applications, with a dedicated foodservice brochure available for that segment.
 
 ## Known for
-- National warehouse network for efficient U.S. distribution
-- Advanced automation and computerization at Inteplast Group facilities
-- Part of North America's largest integrated plastics manufacturer
-- Uncompromising service level focused on shelf-stock reliability
+- Part of North America's largest integrated plastics manufacturer (Inteplast Group)
+- Advanced automation and computerization across production facilities
+- Uncompromising service level to keep customer shelves stocked
+- In-house technical and management support teams
 
 ## Capabilities
-- Trash bag and can liner manufacturing
-- Food bag and container manufacturing
-- Aluminum foil converting
-- Parchment and waxed paper converting
-- Carry-out bag production
-- T-shirt bag production
-- Catering bag production
-- Merchandise bag production
-- Private label packaging
-- Foodservice packaging
+- Integrated plastics manufacturing
+- Retail and grocery bag production
+- Die-cut merchandise bag manufacturing
+- Compostable plastics production
+- Sustainable plastics manufacturing
+- Advanced automation and computerization
+- In-house technical support
 
 ## Industries
-- Private label
-- Consumer goods
-- Commercial
+- Consumer products
+- Retail/Grocery
 - Foodservice
-- Retail
-- Grocery
+- Department stores
+- Sustainability/Compostable products
 
 ## Certifications
 - ISO 9001:2008
 
 ## Company details
 - **Company Type:** Manufacturer
-- **Ownership:** Part of Inteplast Group
+- **Ownership:** Subsidiary of Inteplast Group
 - **Headquarters:** Lewistown, Pennsylvania
 
 <details><summary>Sources</summary>
 
-- Headquartered in Lewistown, Pennsylvania -> /about-us
-- Part of Inteplast Group established 1991 -> /about-us
-- Formed by Inteplast Group acquisition of Trinity Packaging bags and wraps assets -> /
-- Howard Kirschenbaum VP of sales, three-decade industry veteran -> /
-- Manufactures trash bags, can liners, food bags, containers, foil, parchment, waxed paper, carry-out, T-shirt, catering, merchandise bags -> /
-- Inteplast Texas facilities with advanced automation and computerization -> /about-us
-- National warehouse network for efficient U.S. distribution -> /about-us
-- Serves private-label, consumer, commercial, foodservice industries -> /
-- Customers include national retailers and restaurants for store-brand products -> /about-us
-- ISO 9001:2008 certification -> /about-us
-- Uncompromising service level to keep shelves stocked -> /
-- Inteplast Group is largest manufacturer of integrated plastics in North America -> /about-us
+- Trinity Plastics is part of the Inteplast Group -> db
+- Inteplast Group established 1991 -> db
+- Inteplast Group largest manufacturer of integrated plastics in North America -> db
+- Headquarters Lewistown, Pennsylvania -> db
+- ISO 9001:2008 certification -> db
+- Products: consumer products, retail/grocery, compostable, sustainability, die cut merchandise bags -> db
+- Capabilities: quality service customer focus, uncompromising service level, foodservice brochure -> db
+- Advanced automation and computerization -> db
+- In-house technical and management teams -> db
+- Texas facilities largest of their kind -> db
 </details>
 
 ---
@@ -239,49 +178,52 @@ Trinity Plastics serves private-label, consumer, commercial, and foodservice mar
 **Old description:** is an NABCEP-certified solar company in Colorado Springs. Our services include solar panel installation, repair, maintenance, and replacement for residential and commercial properties.
 
 ## About
-Triton Roofing & Solar operates its Solar Division from Colorado Springs, Colorado, where the company was founded in 2006. The business is veteran-owned and locally owned, serving the Pikes Peak region with photovoltaic installation and related services.
+Triton Roofing & Solar's Solar Division operates from Colorado Springs, Colorado, where it was founded in 2006 as a veteran-owned, locally operated business. The company began as a photovoltaic solar installer serving residential and commercial customers across the Front Range.
 
-The company provides solar panel installation, repair, maintenance, and replacement for both residential and commercial customers. It also offers commercial-scale solar systems, battery energy storage installations, and roofing services through its Roofing Division. To date, the firm has completed more than 350 solar projects and cites over 20 years of combined experience among its staff.
+The division provides end-to-end solar services including system design, installation, repair, maintenance, and replacement, along with commercial-scale solar and battery storage integration. A dedicated roofing division complements the solar work with inspections, repairs, and full roof replacements. To date, the team has completed more than 350 projects and draws on over two decades of combined experience.
 
-Triton serves homeowners and businesses across El Paso, Teller, Douglas, Elbert, Pueblo, and Fremont counties. Its commercial clients include companies seeking to reduce utility costs through custom solar arrays, while residential customers range from local homeowners to out-of-state property owners managing rentals remotely.
+Customers range from homeowners in El Paso, Teller, Douglas, Elbert, Pueblo, and Fremont counties to businesses seeking to reduce utility costs through on-site generation. The company works with major equipment brands such as Enphase, Silfab, Q. Cells, REC, IronRidge, and S-5! to deliver grid-tied and storage-backed systems.
 
-The company distinguishes itself as the only NABCEP PV Design Specialists in El Paso County and a COSSA member. It backs installations with a 10-year workmanship warranty and uses equipment from brands such as Enphase, Silfab, Q. Cells, REC, IronRidge, and S-5!. The firm emphasizes that its veteran-owned, locally rooted structure drives accountability and customer service.
+Triton distinguishes itself as the only NABCEP PV Design Specialist firm in El Paso County and holds a COSSA membership. It backs installations with a 10-year workmanship warranty and emphasizes veteran-owned leadership as a core differentiator.
 
 ## Known for
 - Only NABCEP PV Design Specialists in El Paso County
 - COSSA member
-- 10-year workmanship warranty on installations
-- Uses industry-leading equipment brands (Enphase, Silfab, Q. Cells, REC, IronRidge, S-5!)
+- 10-year workmanship warranty on all installations
 - Veteran-owned and locally operated
+- 350+ solar projects completed
 
 ## Capabilities
+- Solar photovoltaic system design
 - Solar panel installation
 - Solar panel repair
 - Solar panel maintenance
 - Solar panel replacement
-- Commercial solar system design and installation
+- Commercial solar installation
 - Battery energy storage installation
-- Roofing installation, inspection, repair, and replacement
-- NABCEP PV design services
+- Roofing installation
+- Roofing repair
+- Roofing replacement
+- Roofing inspection
 
 ## Industries
-- Renewable energy
 - Solar energy
-- Commercial solar
-- Residential solar
+- Renewable energy
+- Residential construction
+- Commercial construction
 - Energy storage
 
 ## Equipment
-- Enphase
-- Silfab
-- Q. Cells
-- REC
-- IronRidge
-- S-5!
+- Enphase inverters
+- Silfab solar panels
+- Q. Cells solar panels
+- REC solar panels
+- IronRidge racking systems
+- S-5! attachment solutions
 
 ## Certifications
-- NABCEP Certified
 - NABCEP PV Design Specialist
+- COSSA Member
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -292,19 +234,16 @@ The company distinguishes itself as the only NABCEP PV Design Specialists in El 
 <details><summary>Sources</summary>
 
 - Founded 2006 -> db
-- Headquarters Colorado Springs, Colorado -> db, /, /about-us
-- Veteran-owned -> db, /, /about-us, /services
-- Locally owned -> /, /about-us, /services
-- NABCEP-certified solar company -> /, /about-us, /services
-- Only NABCEP PV Design Specialists in El Paso County -> /, /about-us, /services
-- COSSA Member -> /, /about-us, /services
-- 350+ projects installed and serviced -> /, /about-us, /services
-- 20+ years of experience -> /, /about-us, /services
-- Equipment brands: Enphase, Silfab, Q. Cells, REC, IronRidge, S-5! -> /, /about-us, /services
-- 10-year workmanship warranty -> /, /about-us, /services
-- Services: solar installation, repair, maintenance, replacement, commercial solar, energy storage, roofing -> /, /about-us, /services
-- Service areas: El Paso, Teller, Douglas, Elbert, Pueblo, Fremont counties -> /, /about-us, /services
-- Address: 65 Commerce St #120, Colorado Springs, CO 80907 -> /, /about-us, /services
+- Headquarters Colorado Springs, CO -> db, /
+- Veteran-owned -> db, /, /about-us
+- NABCEP PV Design Specialists -> /, /about-us
+- COSSA Member -> /, /about-us
+- 350+ projects installed and serviced -> /, /about-us
+- 20+ years of experience -> /, /about-us
+- Services: solar installation, repair, maintenance, replacement, commercial solar, energy storage, roofing -> /, /services
+- Service areas: El Paso County, Teller County, Douglas County, Elbert County, Pueblo County, Fremont County -> /, /about-us, /services
+- Brands: Enphase, Silfab, Q. Cells, REC, IronRidge, S-5! -> /, /about-us
+- 10-year workmanship warranty -> /, /about-us
 </details>
 
 ---
@@ -314,53 +253,54 @@ The company distinguishes itself as the only NABCEP PV Design Specialists in El 
 **Old description:** Tucked among the rolling hills of beautiful Litchfield, Connecticut is the studio and gallery of Troy Brook Visions, Inc., Makers of Fine Furniture. Master Artisan Daniel Gugnoni designs and creates exquisite custom handcrafted fine art furniture.
 
 ## About
-Troy Brook Visions operates from a red barn studio and gallery on Clark Road in Litchfield, Connecticut. The company was founded in 1993 by Daniel Gugnoni, a sculptor turned furniture maker, who established the business on the Shaker principles of hard work, honesty, and pride in craftsmanship. Barbara Gugnoni joined the venture in 1996, bringing a background in advertising and sales to manage client relations and the finishing process.
+Troy Brook Visions operates from a converted red barn on Clark Road in Litchfield, Connecticut, a town in the state's northwestern hills. The company was founded in 1993 by Daniel Gugnoni, a sculptor who turned to furniture making after earning a BFA. He established the business on the Shaker principles of hard work, honesty, and pride in craftsmanship. Barbara Mojon Gugnoni, who holds a BA in English literature and a background in advertising, joined the operation in 1996 and now handles marketing, sales, and the finishing process.
 
-The studio produces one-of-a-kind and custom fine art furniture, each piece designed and handcrafted by Daniel Gugnoni. The work emphasizes pure forms and clean lines, allowing the natural character of each wood board to guide the design. Barbara applies a twelve-step hand-rubbed finish to protect and enhance the surfaces. The operation is deliberately small-scale, with no mass production; the barn houses both the workshop and a second-floor gallery where completed pieces are displayed.
+The studio produces one-of-a-kind and custom fine art furniture, each piece designed and built by Daniel Gugnoni. The workflow moves from client consultation through design, handcrafted joinery, and a proprietary twelve-step hand-rubbed finish applied by Barbara. The shop does not run production lines; every item is a unique functional sculpture. The facility is a small country barn studio and a second-floor gallery where finished pieces are displayed.
 
-Troy Brook Visions serves private clients seeking heirloom-quality furniture, as well as collectors and visitors who attend the gallery or the craft shows where the company exhibits. The firm has shown at the American Craft Council Shows, the Paradise City Arts Festival, the Philadelphia Invitational Furniture Show, the Fine Furnishings Show, and Crafts America. Clients work directly with Daniel on custom commissions, while the gallery offers ready-made pieces for immediate purchase.
+The clientele consists of individual collectors, interior designers, and homeowners seeking heirloom-quality furnishings. Troy Brook Visions has exhibited at juried events such as the American Craft Council Shows, the Paradise City Arts Festival, the Philadelphia Invitational Furniture Show, and the Fine Furnishings Show. These venues connect the studio with buyers who value handcrafted, design-driven furniture for residential settings.
 
-The company distinguishes itself by rejecting volume manufacturing in favor of artistic creation, a philosophy captured in the statement "Never manufacturing product, always creating art." The Shaker-inspired founding ethos and the practice of letting the wood dictate the form remain central to the studio's identity.
+The founders say the business exists to honor the material and the maker. Daniel Gugnoni describes each board as a gift from nature that should not be squandered, and the couple emphasizes that they never manufacture product—they create art. The Shaker-inspired ethos and the direct, personal involvement of both artisans in every commission are presented as the core differentiators.
 
 ## Known for
-- Only one-of-a-kind and custom pieces; no mass production
+- Shaker philosophy of hard work, honesty, and pride in craftsmanship
+- One-of-a-kind custom pieces designed and built by the founders
 - Twelve-step hand-rubbed finishing process
-- Direct collaboration with master artisan Daniel Gugnoni on every commission
-- Red barn studio and gallery in historic Litchfield Hills
-- Exhibitor at major juried craft shows including American Craft Council
+- Participation in prestigious juried craft shows (American Craft Council, Paradise City Arts Festival, etc.)
+- Direct client collaboration from design through delivery
 
 ## Capabilities
 - Custom furniture design
 - Handcrafted woodworking
-- Hand-rubbed finishing (twelve-step process)
-- Custom joinery
-- Art furniture design
+- Fine art furniture fabrication
+- Twelve-step hand-rubbed finishing
+- Sculpture-inspired design
+- Client consultation and design collaboration
 
 ## Industries
 - Fine art furniture
-- Custom woodworking
-- Art and craft exhibitions
+- Custom furniture
+- High-end residential furnishings
+- Interior design
+- Artisan craft
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1993
+- **Ownership:** Husband-and-wife owned
 - **Headquarters:** Litchfield, Connecticut
 
 <details><summary>Sources</summary>
 
-- Founded in 1993 -> /about-us
-- Founder Daniel Gugnoni -> /about-us
-- Barbara Gugnoni joined in 1996 -> /about-us
-- Location: Litchfield, Connecticut -> db
-- Red barn studio and gallery -> /
-- One-of-a-kind custom pieces only -> /
-- Twelve-step hand-rubbed finish -> /about-us
-- Direct client collaboration with Daniel -> /about-us
-- Participation in American Craft Council Shows, Paradise City Arts Festival, Philadelphia Invitational Furniture Show, Fine Furnishings Show, Crafts America -> /about-us
-- Shaker philosophy of hard work, honesty, pride in craftsmanship -> /about-us
-- Artist statement: 'Never manufacturing product, always creating art' -> /
-- Materials: wood -> /
-- Company type: Manufacturer -> db
+- Founded in 1993 by Daniel Gugnoni -> /about-us
+- Located in Litchfield, Connecticut -> /
+- Barbara Mojon Gugnoni joined in 1996 -> /about-us
+- Creates custom handcrafted fine art furniture -> /
+- Uses twelve-step finishing process -> /about-us
+- Participates in American Craft Council Shows, Paradise City Arts Festival, Philadelphia Invitational Furniture Show, Fine Furnishings Show -> /about-us
+- Operates studio and gallery in a red barn -> /
+- Shaker philosophy of hard work, honesty, and pride in craftsmanship -> /about-us
+- One-of-a-kind pieces, no manufacturing -> /
+- Direct client collaboration -> /about-us
 </details>
 
 ---
@@ -370,20 +310,20 @@ The company distinguishes itself by rejecting volume manufacturing in favor of a
 **Old description:** True Position Plastics was founded by Justin Church, a tooling and mold design expert with over 25 years of hands-on experience in the plastics industry. Justin’s journey began as a machinist and mold maker, where he developed a deep respect for precision and craftsmanship. He spent over a decade as a mold designer before advancing into Tooling Manager and Tooling Engineer roles, leading complex programs from concept through production.
 
 ## About
-True Position Plastics, LLC is based in Duncan, Oklahoma. The company was founded by Justin Church, a tooling and mold design expert with over 25 years of hands-on experience in the plastics industry. Church began his career as a machinist and mold maker, spending more than a decade as a mold designer before advancing to Tooling Manager and Tooling Engineer roles where he led complex programs from concept through production.
+True Position Plastics, LLC is based in Duncan, Oklahoma. The company was founded by Justin Church, a tooling and mold design expert with over 25 years of hands-on experience in the plastics industry. Church began his career as a machinist and mold maker, spending more than a decade as a mold designer before advancing to Tooling Manager and Tooling Engineer roles, complex programs from concept through production.
 
-The firm provides plastic injection molding services sourced from both domestic and overseas tooling partners, managing the full process from mold construction to production parts. Its service portfolio includes scientific molding, liquid silicone rubber (LSR) molding, insert molding, overmolding, CNC machining, and comprehensive mold design for prototype and production molds (SPI Class 101–105). The company also offers mold flow analysis and SimForm cooling analysis to optimize part and tool design before steel is cut, reducing cycle time and improving part consistency.
+The firm provides plastic injection molding services sourced through both domestic and overseas tooling partners, managing the full process from mold construction to production parts. Its core capabilities include scientific molding, liquid silicone rubber (LSR) molding, insert molding, and overmolding. In addition, True Position Plastics offers complete mold design services for prototype and production molds (SPI Class 101–105), mold flow analysis, SimForm cooling analysis, CNC machining, and design-for-manufacturability reviews focused on gating, venting, cooling, and ejection. No facility size, headcount, or volume figures are disclosed.
 
-True Position Plastics serves customers in the medical, consumer, automotive, industrial, and telecommunications sectors. Typical projects include medical device components, consumer product housings, automotive interior parts, and industrial equipment components.
+The company serves the medical, consumer, automotive, industrial, and telecommunications sectors. Customers range from medical device manufacturers needing validated components to consumer product developers and automotive suppliers requiring production-grade tooling and molded parts.
 
-The company emphasizes its ability to bridge design and manufacturing, drawing on experience from hundreds of injection molds across multiple industries. This insight allows the team to guide customers early in development, saving time and cost while improving tool longevity. By leveraging a network of global tooling partners, True Position Plastics aims to deliver high-quality molds and reliable production at competitive cost.
+True Position Plastics emphasizes its background spanning hundreds of injection molds across consumer, industrial, and medical applications. The company says this experience allows it to guide customers early in development, saving time and cost while improving tool longevity and process stability.
 
 ## Known for
-- Manages entire mold-to-part process through trusted global tooling partners
+- Manages the entire process from mold build to production parts using trusted global tooling partners
 - Full mold design services for prototype and production molds (SPI Class 101–105)
-- Mold flow analysis and SimForm cooling analysis to optimize designs before steel cut
-- Experience across hundreds of molds in medical, consumer, and industrial applications
-- Early development guidance to reduce time, cost, and improve tool longevity
+- Affordable, fast mold flow simulations that identify fill patterns, air traps, weld lines, and warpage before steel is cut
+- Cooling analysis services providing early insight into mold thermal behavior to reduce cycle time and improve part consistency
+- Engineering experience across hundreds of injection molds in consumer, industrial, and medical applications
 
 ## Capabilities
 - Plastic Injection Molding
@@ -395,8 +335,14 @@ The company emphasizes its ability to bridge design and manufacturing, drawing o
 - LSR Molding
 - Insert Molding
 - Overmolding
-- DFM Review
-- Mold Classification (SPI Class 101–105)
+- Design for Manufacturability (DFM) Review
+- Mold Classification (SPI Class 101-105)
+- Mold Surface Texturing
+- Mold Surface Finishing
+- Gating Design
+- Venting Design
+- Cooling Design
+- Ejection Design
 
 ## Industries
 - Medical
@@ -406,8 +352,8 @@ The company emphasizes its ability to bridge design and manufacturing, drawing o
 - Telecommunications
 
 ## Certifications
-- ISO9001
-- ISO13485
+- ISO 9001
+- ISO 13485
 - ITAR
 
 ## Company details
@@ -416,16 +362,16 @@ The company emphasizes its ability to bridge design and manufacturing, drawing o
 
 <details><summary>Sources</summary>
 
-- Company name and location -> db
-- Founder Justin Church and background -> db
-- Certifications ISO9001, ISO13485, ITAR -> db
-- Capabilities: plastic injection molding, scientific molding, mold design, mold flow analysis, SimForm cooling analysis, CNC machining, LSR molding, insert molding, overmolding -> db and /about-us
-- Industries served: medical, consumer, automotive, industrial, telecommunications -> / and /about-us
-- Services: manages entire process from mold build to production parts using global tooling partners -> / and /about-us
-- Mold design for SPI Class 101-105 -> /about-us
-- Mold flow analysis and cooling analysis to optimize design before steel cut -> /about-us
-- Experience across hundreds of injection molds -> /about-us
-- Guidance early in development to save time and cost -> /about-us
+- Founded by Justin Church, tooling and mold design expert with over 25 years experience -> /about-us
+- Headquartered in Duncan, Oklahoma -> db
+- Certifications: ISO9001, ISO13485, ITAR -> db
+- Services: Plastic Injection Molding (U.S. & Asia), Mold Design, Mold Flow Analysis, SimForm Cooling Analysis, CNC Machining, LSR Molding, Insert Molding, Overmolding -> /
+- Manages entire process from mold build to production parts using global tooling partners -> /
+- Mold design services for prototype and production molds (Class 101-105) -> /about-us
+- Industries served: Medical, Consumer, Automotive, Industrial, Telecommunications -> /
+- Experience spans hundreds of injection molds across consumer, industrial, medical applications -> /about-us
+- Offers design-for-manufacturability reviews focused on gating, venting, cooling, ejection -> /about-us
+- Provides final molded parts as well as tooling -> /
 </details>
 
 ---
@@ -435,45 +381,41 @@ The company emphasizes its ability to bridge design and manufacturing, drawing o
 **Old description:** True Weld Metal Fabrication is a small, family-owned Colorado company committed to quality craftsmanship on every project. From repairs and custom fabrication to gates, trailers, brackets, and structural work, we build things that last. We also offer mobile welding, so we can come to you — residential or commercial — across the Denver metro and beyond.
 
 ## About
-True Weld Metal Fabrication operates from Aurora, Colorado, serving the Denver metropolitan area. The family-owned shop traces its roots to a home garage where the founder began welding more than two decades ago, eventually expanding into a mobile-and-shop operation that covers residential, commercial, and agricultural sites across the region.
+True Weld Metal Fabrication operates from Aurora, Colorado, serving the Denver metropolitan area. The family-owned business began over two decades ago in a home garage and has grown into a mobile-and-shop operation providing welding and fabrication services across the region. The owner-operator personally oversees every job.
 
-The company provides on-site mobile welding and in-shop custom fabrication, working with mild steel, aluminum, and stainless steel. Services include structural welding for beams, columns, and mezzanines; trailer and equipment repairs; custom gates, fences, and handrails; and code-conscious structural fabrication. The owner-operator performs every weld, with no subcontracting, and the shop handles both one-off pieces and repeat production for commercial clients.
+The shop specializes in mobile welding repairs and custom metal fabrication, including structural welding of beams, columns, and mezzanines to code, as well as aluminum (TIG and MIG), stainless steel, and mild steel fabrication. They produce gates, trailers, brackets, handrails, fences, and perform equipment and trailer repairs. Work is performed both in-shop and on-site via a 24/7 mobile response unit.
 
-Customers range from homeowners needing driveway gates or trailer hitch repairs to warehouses requiring mezzanine structural work and farms with equipment breakdowns. Recent projects cited include a 9 p.m. emergency trailer repair in Aurora, a custom driveway gate in Parker, and structural repairs on a Denver warehouse mezzanine.
+Customers range from homeowners needing driveway gates or handrails to commercial and industrial clients such as warehouses, retail spaces, and farms. Recent projects include a trailer hitch repair for a residential customer, a custom driveway gate for a homeowner in Parker, and structural repairs on a warehouse mezzanine in Denver.
 
-True Weld emphasizes 24/7 mobile response, certified welding practices across all three material groups, full liability and workers' compensation coverage, and a warranty on workmanship. Pricing is quoted over the phone with no surprises, and the company maintains OSHA-conscious job-site practices.
+The company emphasizes owner-operator involvement on every weld, certified welding practices across multiple alloys, full liability insurance, OSHA-conscious job-site practices, a workmanship warranty, and transparent pricing. Their 24/7 mobile availability differentiates them for emergency repairs.
 
 ## Known for
 - 24/7 mobile welding response across the Denver metro
-- Owner-operator on every job, no subcontractors
+- Owner-operator on every job with no subcontractors
 - Certified welding practices across mild steel, aluminum, and stainless steel
 - Full liability insurance and workers' compensation coverage on commercial sites
-- Warranty on workmanship with straight-talk pricing quoted by phone
+- Workmanship warranty: if a weld cracks, they fix it
 
 ## Capabilities
-- Mobile welding (on-site)
+- Mobile welding repairs
 - Structural welding (beams, columns, mezzanines, code-conscious)
-- Custom metal fabrication (gates, handrails, trailers, brackets)
+- Custom metal fabrication
 - Aluminum welding (TIG & MIG)
 - Steel fabrication (mild and heavy plate, tube, section)
-- Stainless steel welding (food-grade, architectural)
+- Stainless steel welding (food-grade and architectural)
 - Trailer repairs (frame, hitch, deck, axle)
-- Fence and gate fabrication (custom driveway gates, ornamental fencing, security gates)
+- Fence and gate fabrication
 - Handrail fabrication and installation
-- Equipment repairs (cracked buckets, broken frames, worn hitches)
-- Commercial welding (retail, warehouse, industrial)
+- Equipment repairs (buckets, frames, hitches)
+- Commercial welding
 - Residential welding
-- Weld repairs
-- Code-conscious structural fabrication
 
 ## Industries
 - Residential
 - Commercial
 - Industrial
 - Agricultural
-- Retail
-- Warehouse
-- Construction
+- Transportation
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -482,26 +424,27 @@ True Weld emphasizes 24/7 mobile response, certified welding practices across al
 
 <details><summary>Sources</summary>
 
-- Aurora, Colorado headquarters -> db
-- Family-owned -> db, /, /about
-- 20+ years welding experience -> /, /about
+- Family-owned Colorado company -> /
+- 20+ years welding experience -> /
 - Started in home garage -> /about
-- Mobile welding service across Denver metro -> /, /services
-- Structural welding (beams, columns, mezzanines, code-conscious) -> /, /services
-- Custom fabrication (gates, trailers, brackets, handrails) -> /, /services
-- Aluminum welding (TIG & MIG) -> /services
+- Mobile welding service across Denver metro -> /
+- Structural welding (beams, columns, code-conscious) -> /
+- Custom fabrication (gates, trailers, brackets) -> /
+- Aluminum TIG & MIG welding -> /services
 - Stainless steel welding (food-grade, architectural) -> /services
+- Steel fabrication (mild, heavy plate, tube, section) -> /services
 - Trailer repairs -> /services
-- Commercial welding (retail, warehouse, industrial) -> /services
-- Residential welding -> /services
-- Licensed & insured -> /, /about
-- OSHA-conscious practices -> /, /about
-- 24/7 mobile response -> /, /about, /services
-- Owner-operator on every job, no subcontractors -> /about
+- Fence and gate fabrication -> /services
+- Handrail fabrication -> /services
+- Equipment repairs -> /services
+- Commercial and residential welding -> /services
+- Owner-operator on every job -> /about
 - Certified welding practices across mild steel, aluminum, stainless -> /about
-- Warranty on workmanship -> /about
-- Quotes by phone in minutes -> /, /about, /services
-- Customer examples: trailer hitch repair, custom gate, warehouse mezzanine -> /
+- Full liability insurance and workers' compensation -> /about
+- Workmanship warranty -> /about
+- 24/7 mobile response -> /
+- OSHA-conscious practices -> /
+- Headquarters Aurora, Colorado -> db
 </details>
 
 ---
@@ -511,20 +454,20 @@ True Weld emphasizes 24/7 mobile response, certified welding practices across al
 **Old description:** Located in Rockland, MA (about 20 minutes south of Boston), Tubular Automotive has been in business for over 50 years helping to design, prototype, and manufacturer high-quality headers. Our services include:
 
 ## About
-Tubular Automotive operates from Rockland, Massachusetts, about 20 miles south of Boston. The company has been in business for over 50 years, specializing in the design, prototyping, and manufacture of high-quality headers. No founding year or ownership details are publicly disclosed, and the founders are not named in available sources.
+Tubular Automotive operates from Rockland, Massachusetts, about 20 miles south of Boston. The company has been in business for more than five decades, specializing in the design, prototyping, and manufacture of high-quality headers. Ownership details and founder names are not publicly disclosed.
 
-The shop provides mandrel bending in a range of sizes and radii, custom header fabrication performed in-house, metal fabrication including steel and tube cutting, welding in various metals and styles, and prototyping for both automotive and non-automotive applications. It also produces engine-swap headers cataloged for specific vehicle fitments. Facility size, headcount, and annual volume are not published.
+The shop provides mandrel bending in a range of sizes and radii, custom header fabrication performed in-house, metal fabrication including steel and tube cutting, prototyping for both automotive and non-automotive steel projects, engine swap headers, and welding in all styles with various metals. No facility dimensions, headcount, or annual volume figures are published.
 
-Tubular Automotive serves the automotive aftermarket, building headers for hot rods, GT40 replicas, and custom builds. Its customer roster includes ERA Automobiles, Barvarian Autosport, Superwinch, Kooks Headers, Kirkham Motorsports, and Contemporary Classics Cobras. The company also takes on non-automotive steel prototyping projects.
+Tubular Automotive serves the automotive sector, including hot rods, GT40 replicas, and custom builds, as well as non-automotive steel prototyping. Named customers include ERA Automobiles, Barvarian Autosport, Superwinch, Kooks Headers, Kirkham Motorsports, and Contemporary Classics Cobras.
 
-The business was established to help clients design, prototype, and manufacture high-quality headers, with an emphasis on in-house fabrication and fitment-specific engineering.
+The company emphasizes in-house design and fabrication to fit specific vehicle applications, a broad selection of mandrel bending radii, and comprehensive welding capabilities across multiple metal types.
 
 ## Known for
-- Mandrel bending in many sizes and radii
-- Custom headers designed and fabricated in-house to fit specific vehicle applications
-- Engine-swap header catalog for direct-fit applications
+- In-house design and fabrication of custom headers
+- Mandrel bending offered in many sizes and radii
 - All styles of welding with various metals
 - Automotive and non-automotive steel prototyping
+- Engine swap headers with catalog applications
 
 ## Capabilities
 - Mandrel bending
@@ -533,11 +476,14 @@ The business was established to help clients design, prototype, and manufacture 
 - Prototyping
 - Engine swap headers
 - Welding
-- Steel and tube cutting
+- Tube cutting
 
 ## Industries
-- Tubular Automotive Headers
-- Automotive and non-automotive steel prototyping
+- Automotive
+- Hot rods
+- Replica vehicles
+- Custom automotive builds
+- Non-automotive steel prototyping
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -545,14 +491,12 @@ The business was established to help clients design, prototype, and manufacture 
 
 <details><summary>Sources</summary>
 
-- Location: Rockland, MA -> db
+- Location: Rockland, MA -> /
 - In business over 50 years -> /
-- Services: mandrel bending, custom headers, metal fabrication, prototyping, engine swaps, welding -> /, /services
-- Customers: ERA Automobiles, Barvarian Autosport, Superwinch, Kooks Headers, Kirkham Motorsports, Contemporary Classics Cobras -> /
-- Industries: Tubular Automotive Headers, Automotive and non-automotive steel prototyping -> db, /about
-- Capabilities: mandrel bending, custom header fabrication, metal fabrication, prototyping, engine swap headers, welding, steel and tube cutting -> /services
-- Materials: steel, various metals -> /services
-- Company type: manufacturer of headers -> /
+- Services: mandrel bending, custom headers, metal fabrication, prototyping, engine swaps, welding -> /
+- Customers: ERA Automobiles, Barvarian Autosport, Superwinch, Kooks Headers, Kirkham Motorsports, Contemporary classics Cobras -> /
+- Gallery projects: hot rods, GT40 replicas, custom builds -> /about
+- Service details: mandrel bending many sizes/radiuses, automotive and non-automotive steel prototyping, custom headers in-house, engine swap headers catalog, metal fabrication steel and tube cutting, welding all styles various metals -> /services
 </details>
 
 ---
@@ -562,35 +506,35 @@ The business was established to help clients design, prototype, and manufacture 
 **Old description:** For 35 years, Marty Tucs and his Food Process Equipment Team at TUCS Equipment Inc. in Princeton, Minnesota have developed innovative solutions for food processing challenges. With an 80,000 square foot production plant, we provide equipment for food service operators and processors globally, tackling cooking, chilling, packaging, and handling issues for major world brands and small processors.
 
 ## About
-Tucs Equipment Inc. operates from Princeton, Minnesota, where founder Marty Tucs and his Food Process Equipment Team have spent 35 years developing solutions for food processing challenges. The company began as a focused effort to address cooking, chilling, packaging, and handling issues for food service operators and processors.
+TUCS Equipment Inc. operates from Princeton, Minnesota, where founder Marty Tucs and his Food Process Equipment Team established the company to address food processing challenges. For 35 years, the firm has developed equipment solutions from its Midwestern base.
 
-The business runs an 80,000-square-foot production plant where it designs and builds foodservice and processing equipment. Its product range covers cooking systems, chilling systems, packaging machinery, and material handling equipment, serving both large global brands and smaller processors.
+The company manufactures a range of food processing equipment, including systems for cooking, chilling, packaging, and product handling, serving both foodservice operators and large-scale processors. Production takes place in an 80,000-square-foot plant, though headcount and annual output figures are not disclosed.
 
-Customers span the food processing and foodservice sectors worldwide. The company references major world brands alongside small processors as typical clients, with equipment deployed for operators who need integrated cooking, chilling, packaging, and handling lines.
+TUCS serves food service operators and food processors worldwide, supplying both major global brands and smaller regional processors. Its equipment is designed for commercial kitchens, industrial food production lines, and related foodservice environments, addressing cooking, chilling, packaging, and handling needs.
 
-Tucs Equipment emphasizes three pillars: food safety, food quality, and reduced costs. These drivers shape the engineering approach and are presented as the core reasons customers choose the company for processing equipment projects.
+The company states that its focus on food safety, product quality, and reduced operating costs drives its engineering approach, aiming to deliver innovative solutions for food processing challenges.
 
 ## Known for
-- Food safety focus
-- Food quality focus
-- Reduced cost engineering
-- 80,000 sq ft production plant
-- 35 years of food processing experience
-- Global customer base from major brands to small processors
+- 80,000 sq ft production plant in Princeton, MN
+- 35 years developing food processing equipment
+- Equipment for cooking, chilling, packaging, and handling
+- Serves major global brands and small processors
+- Focus on food safety, quality, and cost reduction
 
 ## Capabilities
 - Food processing equipment manufacturing
 - Cooking equipment
 - Chilling equipment
 - Packaging equipment
-- Material handling equipment
-- Foodservice equipment
-- Processing equipment
+- Handling equipment
+- Foodservice equipment design
+- Food processing solutions
 
 ## Industries
 - Food processing
-- Foodservice
-- Food manufacturing
+- Food service
+- Foodservice equipment
+- Commercial foodservice
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -598,14 +542,14 @@ Tucs Equipment emphasizes three pillars: food safety, food quality, and reduced 
 
 <details><summary>Sources</summary>
 
-- Location: Princeton, Minnesota -> db (hq_city, hq_state_label) and page '/'
-- Founder: Marty Tucs -> page '/'
-- Years in business: 35 years -> page '/'
-- Facility size: 80,000 sq ft production plant -> page '/'
-- Products: cooking, chilling, packaging, handling equipment -> page '/'
-- Customers: major world brands and small processors globally -> page '/'
-- Differentiators: food safety, food quality, reduced costs -> page '/'
-- Segments served: Processing Equipment, Foodservice Equipment -> page '/'
+- Princeton, Minnesota location -> db
+- Founder Marty Tucs -> page /
+- 35 years in business -> page /
+- 80,000 sq ft production plant -> page /
+- Equipment for cooking, chilling, packaging, handling -> page /
+- Serves major world brands and small processors -> page /
+- Focus on food safety, quality, reduced costs -> page /
+- Segments: Processing Equipment, Foodservice Equipment -> page /
 </details>
 
 ---

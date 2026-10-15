@@ -3,46 +3,47 @@
 **Old description:** Our product categories range from propagation, packs and trays, thermoformed and injection molded round and square pots, hanging baskets, and more. Our online product catalog provides product specs and lists compatible products.
 
 ## About
-Landmark Plastic Corporation is a family-owned manufacturer based in Akron, Ohio, producing thermoformed, injection molded, and extruded plastic products since 1984. The company began with a focus on horticultural containers and has expanded to offer a comprehensive line of plant packs, trays, pots, and hanging baskets.
+Landmark Plastic Corporation has operated as a family-owned manufacturer in Akron, Ohio since 1984. The company began producing thermoformed, injection molded, and extruded plastic products for the horticulture market.
 
-The firm operates an in-house tooling department and provides full product development services, from CAD design and CNC/CAM milling to project management and quality control. Its manufacturing capabilities include sheet extrusion, thermoforming, injection molding, plastic recycling, and secondary operations such as printing, labeling, coloring, and assembly. The facility also houses color offset printing equipment for branded packaging.
+The product line spans propagation trays, packs, thermoformed and injection molded round and square pots, and hanging baskets. Manufacturing processes include sheet extrusion, thermoforming, injection molding, and in-house tooling design and fabrication. The facility also provides product development services such as CAD design, CNC and CAM milling, project management, and quality control, along with printing, labeling, coloring, and assembly. Plastic recycling is integrated into operations.
 
-Landmark primarily serves the horticulture market, supplying distributors across the United States and Canada with standard and custom containers. The company also works directly with customers on custom product development, offering tailored solutions for specialized applications.
+Landmark serves the horticulture industry through a network of distributors across the United States and Canada. Customers include greenhouse and nursery operations that rely on the company's containers for plant propagation and growth. The company also collaborates on custom product development for clients needing tailored solutions.
 
-Founded on the principle of making customers' operations easier and more efficient, Landmark emphasizes a systematic, communicative project approach. Its team walks each job from concept through production, combining innovation with precision to deliver custom-designed results.
+The company emphasizes a systematic, communicative approach that walks each project from concept through production. Its in-house tooling department and product development expertise are positioned to reduce complexity for customers, while branding services such as color offset printing and custom labeling support market-ready packaging.
 
 ## Known for
-- Family-owned and operated since 1984
 - In-house tooling design and manufacturing
-- Full product development from concept to production (CAD, CNC/CAM)
-- Integrated plastic recycling and sheet extrusion
-- State-of-the-art color offset printing and labeling
+- Product development from concept to production (CAD, CNC/CAM)
+- Systematic project management with open communication
+- State-of-the-art color offset printing and custom labeling
+- Integrated plastic recycling
 
 ## Capabilities
 - Injection molding
 - Thermoforming
 - Sheet extrusion
-- Plastic recycling
-- Printing, labeling, coloring and assembly
+- Product design
 - In-house tooling design and manufacturing
-- Product design (CAD)
-- CNC/CAM milling
 - Project management
 - Quality standards
-- Color offset printing
-- Custom labeling
+- Plastic recycling
+- Printing
+- Labeling
+- Coloring
+- Assembly
 - Packaging printing
-- Product development
-- Product enhancement
-- D and G-code capabilities
-- Assembly services
+- Color offset printing
+- Custom labels
+- Standard labels
+- CNC milling
+- CAM milling
 
 ## Industries
 - Horticulture
 
 ## Equipment
-- CNC/CAM mills
-- Color offset printing press
+- CNC mills
+- CAM mills
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -52,16 +53,18 @@ Founded on the principle of making customers' operations easier and more efficie
 
 <details><summary>Sources</summary>
 
-- Family-owned manufacturer in Akron, Ohio since 1984 -> /about
-- Produces thermoformed, injection molded, extruded horticultural containers -> /about
-- In-house tooling department and product development services -> /, /services
-- Manufacturing capabilities: sheet extrusion, thermoforming, injection molding, plastic recycling, printing/labeling/assembly -> /services
-- CNC/CAM mills for tooling and product design -> /services
-- Color offset printing for branded packaging -> /services
+- Founded 1984, family-owned, Akron, Ohio -> /about
+- Manufactures thermoformed, injection molded, extruded products -> /about
+- Product categories: propagation, packs, trays, pots, hanging baskets -> /
+- Capabilities: sheet extrusion, thermoforming, injection molding, product development, in-house tooling, printing, labeling, coloring, assembly -> /services
 - Distributors across U.S. and Canada -> /
-- Headquarters at 1331 Kelly Ave, Akron, Ohio -> /
-- Systematic project management with open communication -> /services
-- Focus on horticulture market (packs, trays, pots, hanging baskets) -> /, /about
+- In-house tooling department -> /
+- CNC/CAM mills for manufacturing -> /services
+- Color offset printing, custom and standard labels -> /services
+- Plastic recycling -> /services
+- Systematic approach, open communication -> /services
+- Goal: make life easier for customers -> /about
+- Headquarters address: 1331 Kelly Ave, Akron, Ohio -> /
 </details>
 
 ---
@@ -71,57 +74,52 @@ Founded on the principle of making customers' operations easier and more efficie
 **Old description:** Since first opening its doors in 1965, Larry’s Auto Parts has strived to provide excellent customer service with a knowledgeable parts specialist sales team, dependable delivery service, and a wide range of quality auto parts.
 
 ## About
-Larry's Auto Parts opened its first location in Honolulu, Hawaii, on March 1, 1965, after founder Larry Isono was honorably discharged from the U.S. Army and gained experience at local auto parts stores. Together with his wife Fumie, who managed accounting and delivery, they converted a former doctor's office in Moili`ili into a parts shop. The business remains a third-generation, family-owned operation today.
+Larry's Auto Parts was founded in 1965 in Honolulu, Hawaii, by Larry and Fumie Isono. After Larry's honorable discharge from the U.S. Army, the couple converted a former doctor's office on Beretania Street in Moili`ili into their first store. The business remains a third-generation, family-owned operation.
 
-The company now operates four locations across Oahu with a staff of 32 and a fleet of delivery trucks serving daily orders. Its inventory exceeds 400,000 part numbers covering cars, trucks, heavy-duty vehicles, marine vessels, fleets and industrial equipment. Parts specialists at each site hold ASE certification and collectively bring more than 200 years of automotive experience to customer consultations.
+The company operates four locations across Oahu, employing 32 people and maintaining an inventory of over 400,000 part numbers covering cars, trucks, heavy-duty vehicles, marine vessels, fleets, and equipment. Its parts specialists are ASE certified, with over 200 years of combined automotive experience across the teams. A fleet of delivery trucks provides daily service to industry partners.
 
-Larry's Auto Parts serves both retail customers — from do-it-yourselfers to professional mechanics — and wholesale partners in the automotive, heavy-duty trucking, marine, fleet-management and industrial-equipment sectors. The delivery fleet fulfills daily orders for industry partners across the island.
+Larry's Auto Parts serves both do-it-yourself customers and professional mechanics, supplying automotive batteries, motor oil, wiper blades, chemicals, additives, and new old stock parts. Its customer base includes fleet operators, marine vessels, and heavy-equipment users throughout Hawaii.
 
-The business was built on a commitment to knowledgeable service, dependable delivery and a broad selection of quality auto parts — a formula that has sustained it for six decades.
+The company emphasizes knowledgeable service and dependable delivery, aiming to be a one-stop source for automotive parts across the islands.
 
 ## Known for
 - ASE-certified parts specialists with 200+ years combined experience
-- Fleet of delivery trucks for daily order fulfillment
-- Over 400,000 part numbers in stock
+- Fleet of delivery trucks for daily industry-partner orders
+- Inventory of 400,000+ part numbers
 - Third-generation family ownership since 1965
-- Four locations across Oahu
 
 ## Capabilities
-- Auto parts retail sales
-- Wholesale distribution to fleets and shops
-- Delivery service across Oahu
+- Auto parts distribution
 - ASE-certified parts consultation
-- Inventory management of 400,000+ SKUs
+- Fleet delivery service
+- Inventory management (400,000+ SKUs)
 
 ## Industries
 - Automotive
-- Heavy Duty Trucking
+- Heavy-duty vehicles
 - Marine
-- Fleet Management
-- Industrial Equipment
-
-## Equipment
-- Delivery trucks
+- Fleet
+- Equipment
 
 ## Company details
-- **Company Type:** Retailer
+- **Company Type:** Distributor / reseller
 - **Founded:** 1965
 - **Employees:** 32
-- **Ownership:** Family-owned, 3rd generation
+- **Ownership:** Family-owned, Veteran-owned
 - **Headquarters:** Honolulu, Hawaii
 
 <details><summary>Sources</summary>
 
 - Founded 1965 by Larry and Fumie Isono -> /about
-- First store opened March 1, 1965 in Moili`ili -> /about
-- Third-generation family-owned -> /about
-- 32 employees at four locations -> /about
-- Fleet of delivery trucks for daily orders -> /about
+- Third-generation family-owned, locally operated -> /about
+- Larry honorably discharged from U.S. Army -> /about
+- First store converted from doctor's office on Beretania in Moili`ili, March 1, 1965 -> /about
+- Four locations, 32 employees -> /about
 - Over 400,000 part numbers in inventory -> /about
-- ASE certified parts specialists with 200+ years combined experience -> /about
-- Serves DIYers, professional mechanics, fleets, marine, heavy duty -> /about
-- Locations: Kaimuki, Manoa, Hawaii Kai, Sand Island, Laie -> /about
-- Headquarters Honolulu, Hawaii -> db
+- ASE certified parts specialists, 200+ years combined experience -> /about
+- Fleet of delivery trucks for daily orders to industry partners -> /about
+- Serves DIYers to professional mechanics, cars, trucks, heavy duty, marine, fleets, equipment -> /about
+- Products: automotive batteries, motor oil, wiper blades, chemicals/additives, new old stock -> /
 </details>
 
 ---
@@ -131,42 +129,49 @@ The business was built on a commitment to knowledgeable service, dependable deli
 **Old description:** Larsen Tool & Plastics specializes in manufacturing a wide range of plastic products, including custom parts, molds, dies and components for various industries such as medical, oil & gas, consumer products, electronics, filtration and automotive.
 
 ## About
-Larsen Tool & Plastics, LLC operates from a 15,000-square-foot climate-controlled facility in Prairie Grove, Arkansas, nestled in the Ozark Mountains. The company is led by Trygve Larsen, who brings over 35 years of experience in mold design and manufacturing.
+Larsen Tool & Plastics, LLC operates from a 15,000-square-foot climate-controlled facility in Prairie Grove, Arkansas. The company is led by Trygve Larsen, who brings over 35 years of experience in mold design and manufacturing.
 
-The shop provides full life cycle manufacturing of custom molds, dies, and plastic injection molded parts. Capabilities include in-house tooling design, engineering support, high-speed milling, CNC machining, sinker and wire EDM, CAD design, routine preventative maintenance, mold modifications, and on-site testing and quality assurance.
+The shop provides full life cycle manufacturing of custom molds, dies, and plastic injection molded parts. Capabilities include in-house tooling design, engineering support, high-speed milling, CNC machining, sinker and wire EDM, CAD design, on-site testing, and routine mold maintenance. The facility is equipped with state-of-the-art machinery to handle complex projects at competitive prices.
 
-Larsen serves customers in the medical, oil and gas, consumer products, electronics, filtration, and automotive sectors, delivering precision components for applications that range from medical devices to industrial filtration systems.
+Larsen serves customers in medical, oil and gas, consumer products, electronics, filtration, and automotive industries, delivering precision components for applications ranging from medical devices to automotive assemblies.
 
-The company states its operating strategy is built on people, process control, and technology, aiming to exceed client expectations through integrated skilled professionals, advanced process control, and cutting-edge equipment. Quick turnaround times and a commitment to quality, precision, and customer satisfaction are cited as core differentiators.
+The company emphasizes an operating strategy built on people, process control, and technology, aiming to exceed client expectations through skilled professionals, advanced process control, and cutting-edge technology.
 
 ## Known for
 - Full life cycle mold build to finished parts
-- In-house tooling design and engineering support
-- 15,000 sq ft climate-controlled facility with advanced machinery
-- Operating strategy built on people, process control, and technology
+- In-house tooling design and engineering support led by Trygve Larsen
+- 15,000 sq ft climate-controlled facility with state-of-the-art machinery
+- Sinker and wire EDM for complex shapes and tight tolerances
 
 ## Capabilities
-- Plastic injection molding
-- Custom mold design and manufacturing
-- In-house tooling design
-- Engineering support and consulting
-- High-speed milling
-- CNC machining
+- Plastic Injection Molding
+- Custom Mold Design
+- In-House Tooling Design
+- Engineering Support & Consulting
+- High-Speed Milling
+- CNC Machining
 - Sinker EDM
 - Wire EDM
-- CAD design and drafting
-- Full life cycle manufacturing
-- Routine preventative tool maintenance
-- Mold modifications and revisions
-- On-site testing and quality assurance
+- CAD Design & Drafting
+- On-Site Testing & Quality Assurance
+- Full Life Cycle Manufacturing
+- Routine Preventative Tool Maintenance
+- Mold Modifications & Revisions
 
 ## Industries
 - Medical
-- Oil and gas
-- Consumer products
+- Oil & Gas
+- Consumer Products
 - Electronics
 - Filtration
 - Automotive
+
+## Equipment
+- High-speed milling machines
+- CNC machining centers
+- Sinker EDM
+- Wire EDM
+- Advanced CAD software
 
 ## Certifications
 - ISO 9001:2015
@@ -177,17 +182,16 @@ The company states its operating strategy is built on people, process control, a
 
 <details><summary>Sources</summary>
 
-- Location: Prairie Grove, Arkansas -> db
-- Facility size: 15,000 sq ft climate-controlled -> /
-- ISO 9001:2015 certified -> /
-- Services: custom molds, dies, plastic injection molding, in-house tooling design, engineering support -> /
+- Prairie Grove, Arkansas location -> db
+- 15,000 sq ft climate-controlled facility -> /
+- ISO 9001:2015 certified -> /, /about
 - Trygve Larsen leads team with over 35 years experience -> /about
+- Custom molds, dies, plastic injection molding services -> /, /about
+- In-house tooling design, engineering support -> /, /about
+- EDM capabilities (sinker and wire) -> /about
+- High-speed milling, CNC machining -> /about
+- CAD design, on-site testing, full life cycle manufacturing -> /about
 - Industries served: medical, oil & gas, consumer products, electronics, filtration, automotive -> db
-- Capabilities: high-speed milling, CNC machining, sinker EDM, wire EDM, CAD design -> /about
-- Full life cycle manufacturing -> /
-- Routine maintenance and revisions -> /
-- On-site testing and quality assurance -> /
-- Operating strategy: people, process control, technology -> /about
 </details>
 
 ---
@@ -197,37 +201,34 @@ The company states its operating strategy is built on people, process control, a
 **Old description:** Last Arrow Manufacturing LLC, based in Orrville, Ohio, is a premier precision Sheet Metal fabrication shop and manufacturer. We take pride in offering comprehensive services and solutions to our valued customers. With a dedicated team of over 120 skilled professionals, we operate from two well-equipped facilities. Our wide range of capabilities includes Engineering, 3D Design, and advanced manufacturing processes featuring 3 Fiber Lasers, 8 Hydraulic Press Brakes, Robotic Welding utilizing 12 FANUC Welding Cobots, as well as 35 Manual Weld Stations, CNC Machining, Manual Mills, Lathes, and Drill Presses. At Last Arrow Manufacturing, we are committed to delivering top-notch craftsmanship and exceeding customer expectations.
 
 ## About
-Last Arrow Manufacturing LLC operates from two facilities in Orrville, Ohio. The company, a precision sheet metal fabrication shop and manufacturer, employs over 120 skilled professionals. No founding year or ownership details are disclosed publicly.
+Last Arrow Manufacturing LLC operates from two facilities in Orrville, Ohio. The company employs over 120 skilled professionals and specializes in precision sheet metal fabrication, welding, CNC machining, and operator cab design and build.
 
-The shop provides engineering and 3D design support alongside a full range of fabrication processes: three automated fiber lasers (two 12 kW Trumpf and LVD systems, one 4 kW Trumpf), eight hydraulic press brakes up to 350 tons, twelve FANUC robotic welding cobots, 35 manual weld stations, CNC turning and milling centers (Haas and Mazak), plus manual mills, lathes, and drill presses. The company also designs and builds operator cabs, producing its own fixturing, weld fixtures, and machining fixtures in-house.
+The shop runs three fiber lasers (including 12 kW Trumpf and LVD systems), eight hydraulic press brakes up to 350 tons, twelve FANUC robotic welding cobots, and 35 manual weld stations. CNC capabilities include Haas lathes with live tooling, multiple vertical machining centers, and a Mazak 510C. The company also maintains manual mills, lathes, drill presses, and an in-house powder coating line. Engineering and 3D design services support custom projects from concept through production.
 
-Last Arrow serves customers in transportation, forestry, mining, firefighting, handicapped-accessible vehicles, medical equipment, large hydraulic trash pumps, and oil-and-gas services. Its operator cabs are built for a diverse base using advanced 3D software, and the company emphasizes seamless integration with client engineering teams.
+Last Arrow serves customers in transportation, forestry, mining, firefighting, handicapped-accessible vehicles, medical equipment, large hydraulic trash pumps, and oil and gas services. A core focus is designing and building operator cabs for mobile equipment, using internal fixturing and machining fixtures to ensure repeatable precision.
 
-The company cites its in-house fixture construction, advanced automation (including fiber lasers and robotic welding), and a commitment to ISO 9001:2015 quality standards as key differentiators. It also maintains a dedicated shipping fleet of semi-trucks, a step-deck flatbed, and box trucks for direct delivery.
+The company emphasizes vertical integration, constructing its own weld and machining fixtures to control quality and lead times. Investment in fiber laser and robotic welding technology is driven by a diverse customer base that pushes continuous capability expansion.
 
 ## Known for
-- In-house design and construction of fixturing, weld fixtures, and machining fixtures
-- Advanced 3D software for operator cab design
-- Twelve FANUC robotic welding cobots
-- Three automated fiber lasers (12 kW and 4 kW)
-- Commitment to ISO 9001:2015 quality management
+- In-house design and fabrication of weld fixtures and machining fixtures
+- Three fiber lasers with automation (12 kW Trumpf, 12 kW LVD, 4 kW Trumpf)
+- Twelve FANUC robotic welding cobots alongside 35 manual weld stations
+- Own fleet of semi-trucks, step-deck, and box trucks for shipping
 
 ## Capabilities
-- Engineering & 3D Design
-- Fiber Laser Cutting (up to 1.25" mild steel, stainless, aluminum)
-- Press Brake Forming (up to 350 tons, 15 ft)
-- Robotic Welding (MIG, TIG, Stick) with FANUC cobots
-- Manual Welding (MIG, TIG, Stick) – AWS D1.1, D1.4, 6G certified welders
-- CNC Turning (Haas lathes with live tooling, big bore, bar feeder)
-- CNC Milling (Haas VF series, GM-2, Mazak 510C)
-- Manual Milling
-- Manual Turning
-- Drill Pressing
-- Powder Coating
-- Sheet Metal Fabrication
-- Operator Cab Design & Build
-- Fixture Design & Build (weld fixtures, machining fixtures)
-- Shipping & Logistics (company-owned fleet)
+- Engineering and 3D design
+- Fiber laser cutting (mild steel up to 1.25", stainless, aluminum)
+- Hydraulic press brake forming (up to 350 tons, 15 ft)
+- Robotic welding (FANUC cobots)
+- Manual welding (MIG, TIG, stick)
+- CNC turning (Haas lathes with live tooling, big bore, bar feeder)
+- CNC milling (Haas VF series, GM-2, Mazak VSC 510C)
+- Manual milling and turning
+- Drill pressing
+- Powder coating
+- Operator cab design and build
+- Fixture design and fabrication (weld fixtures, machining fixtures)
+- Shipping and logistics (company-owned trucks)
 
 ## Industries
 - Transportation
@@ -240,37 +241,30 @@ The company cites its in-house fixture construction, advanced automation (includ
 - Oil and gas services
 
 ## Equipment
-- 12 kW Trumpf 5030 fiber laser with automation
-- 12 kW LVD Phoenix fiber laser with automation
-- 4 kW Trumpf 2030 fiber laser with automation
-- LVD PPEC-320 350-ton 15 ft press brake
-- LVD PPEC-170 190-ton 10 ft press brake
-- Accupress 120-ton 10 ft press brake
-- LVD Dynapress Pro 44-ton 5 ft electric press brake (with Easy-Form)
-- LVD Dynapress 44-ton 5 ft electric press brake
-- 12 Lincoln/FANUC robotic welding cobots
-- Lincoln Electric welding equipment (32 weld cells)
+- 12kW Trumpf 5030 fiber laser with automation
+- 12kW LVD Phoenix fiber laser with automation
+- 4kW Trumpf 2030 fiber laser with automation
+- 15ft 350 Ton LVD PPEC-320 Press
+- 10ft 190 Ton LVD PPEC-170 Press
+- 10ft 120 ton Accupress
+- 5ft 44 Ton Electric LVD Dynapress Pro w/Easy-Form
+- 5ft 44 Ton Electric LVD Dynapress
+- 12 Lincoln/FANUC Cobots (robotic welding)
+- 32 weld cells with Lincoln Electric weld equipment
 - 4 welding positioners
-- Haas ST20Y lathe with live tooling
-- Haas SL20 lathe with live tooling
-- Haas SL20 lathe with big bore
-- Haas SL10 lathe with bar feeder
-- Haas VF3 gear-drive milling center
+- Haas ST20Y Lathe w/Live Tooling
+- Haas SL20 Lathe w/Live Tooling
+- Haas SL20 Lathe w/Big bore
+- Haas SL10 Lathe with bar feeder
+- Haas VF3 Gear drive
 - Haas VF1 with through-spindle coolant
 - Haas VF4 with through-spindle coolant
 - Haas VF4SS with through-spindle coolant
-- Haas GM-2 milling center
-- Mazak Vertical Smart Center 510C
-- Manual mills
-- Manual lathes
-- Drill presses
-- 2 semi-trucks with 53 ft van trailers
-- 1 step-deck flatbed truck
-- 4 box trucks
+- Haas GM-2 Milling Center
+- Mazak vertical smart center 510C
 
 ## Certifications
-- ISO 9001:2015
-- 6G
+- 6G welder certification
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -279,16 +273,17 @@ The company cites its in-house fixture construction, advanced automation (includ
 
 <details><summary>Sources</summary>
 
-- Location: Orrville, Ohio -> /
-- Two facilities, 120+ employees -> /, /capabilities
-- Capabilities: engineering, 3D design, fiber lasers, press brakes, robotic welding, manual welding, CNC machining, manual mills/lathes/drill presses -> /, /capabilities
-- Equipment list (specific models) -> /capabilities
-- Industries served: transportation, forestry, mining, firefighting, handicapped-accessible vehicles, medical equipment, hydraulic trash pumps, oil and gas -> /about-us
-- Operator cab design/build with 3D software, in-house fixturing -> /about-us
-- ISO 9001:2015 commitment -> /about-us
-- Welder certifications: D1.1, D1.4, 6G -> /capabilities
-- Shipping fleet details -> /capabilities
-- Materials: mild steel up to 1.25", stainless, aluminum -> /capabilities
+- Company name and location: Last Arrow Manufacturing LLC, Orrville, Ohio -> db
+- Employee count: over 120 skilled professionals -> db, /capabilities
+- Two facilities at 8991 East Lincoln Way and 12657 Church Road, Orrville, OH -> /
+- Capabilities: Engineering, 3D Design, Fiber Lasers, Press Brakes, Robotic Welding, Manual Welding, CNC Machining, Manual Mills, Lathes, Drill Presses -> /, /capabilities
+- Specific equipment: 12kW Trumpf 5030 fiber laser, 12kW LVD Phoenix fiber laser, 4kW Trumpf 2030 fiber laser, various LVD and Accupress brakes, 12 Lincoln/FANUC cobots, 32 weld cells, Haas lathes and mills, Mazak VSC 510C -> /capabilities
+- Industries served: transportation, forestry, mining, firefighting, handicapped-accessible vehicles, medical equipment, big hydraulic trash pumps, oil and gas services -> /about-us
+- Certified AWS D1.1, D1.4, 6G welders -> /capabilities
+- Commitment to ISO 9001:2015 -> /about-us
+- Materials: mild steel up to 1.25 in, stainless, aluminum -> /capabilities
+- Operator cab design and build with internal fixturing -> /about-us
+- Shipping fleet: 2 semi trucks, 1 step deck, 4 box trucks -> /capabilities
 </details>
 
 ---
@@ -298,20 +293,20 @@ The company cites its in-house fixture construction, advanced automation (includ
 **Old description:** LAT specializes in four core products that include the following:
 
 ## About
-Latitude Applied Technologies was founded in 2006 in Piedmont, South Carolina, as a veteran-owned business. The company began as a partner to automotive manufacturers seeking specialized manufacturing and assembly support.
+Latitude Applied Technologies was founded in 2006 in Piedmont, South Carolina, as a veteran-owned enterprise. From its inception, the company positioned itself as a partner to automotive original equipment manufacturers and their Tier 1 and Tier 2 suppliers, providing manufacturing, assembly, and value-chain solutions.
 
-Today the company operates as an automotive manufacturing and assembly partner, supplying Tier 1 and Tier 2 customers with ISO-certified soundproofing components, adhesives, die-cut insulation, custom protective padding, and packaging materials. Its in-house capabilities span design, assembly, insulation manufacturing, die-cutting, and adhesive application, allowing it to deliver integrated product solutions from concept through production.
+The company produces a range of automotive components including ISO-certified soundproofing parts, adhesives, die-cut insulation, custom protective padding, and packaging and shipping materials. Its capabilities span design, assembly, insulation manufacturing, die-cutting, and adhesive application, supporting custom-designed solutions for client supply chains.
 
-Latitude serves the automotive sector, working with global OEMs and their supply chains. Its product portfolio includes suede face fabrics for vehicle interiors and three-dimensional polyester mesh spacers designed for airflow and cushioning in seating and trim applications.
+Latitude serves the automotive manufacturing sector, supplying global brands and their OEMs with products such as suede face fabrics and 3-D polyester mesh spacers designed for air permeability and cushioning. Its customer base includes Tier 1 and Tier 2 automotive suppliers.
 
-The firm emphasizes an agile, lean approach to supply chain management, aiming to help clients maintain their position as automotive innovators. It was built on the premise that custom-designed solutions and rapid responsiveness can strengthen a customer's competitive standing.
+The firm emphasizes an agile, lean approach to deliver market-ready solutions, drawing on two decades of experience to improve clients' supply chains through custom-designed solutions.
 
 ## Known for
-- Agile delivery model for market-ready automotive solutions
-- Lean supply chain improvement through custom-designed solutions
-- ISO-certified soundproofing component manufacturing
-- Integrated design-to-assembly capabilities under one roof
-- Veteran-owned leadership with automotive OEM experience
+- Veteran-owned ownership
+- ISO-certified soundproofing components
+- Agile, lean approach to supply chain improvement
+- Custom-designed solutions for Tier 1 and Tier 2 automotive suppliers
+- Two decades of automotive manufacturing experience
 
 ## Capabilities
 - Design
@@ -319,17 +314,16 @@ The firm emphasizes an agile, lean approach to supply chain management, aiming t
 - Insulation manufacturing
 - Die-cutting
 - Adhesive application
-- Product integration and assembly
-- Packaging
+- Custom packaging
 
 ## Industries
 - Automotive Manufacturing
 - Automotive Products
-- Suede – Automotive face fabric
-- Automotive Spacer – 3-D polyester mesh material for exceptional air permeability, maximum air flow and enhanced cushion
+- Automotive Face Fabric (Suede)
+- Automotive Spacer Materials (3-D polyester mesh)
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 2006
 - **Ownership:** Veteran-owned
 - **Headquarters:** Piedmont, South Carolina
@@ -339,11 +333,11 @@ The firm emphasizes an agile, lean approach to supply chain management, aiming t
 - Founded in 2006 -> db
 - Headquarters in Piedmont, South Carolina -> db
 - Veteran-owned -> db
-- Automotive manufacturing and assembly partner to Tier 1/2 -> /
-- Supplies ISO certified soundproofing components, adhesives, die-cut insulation, custom protective padding, packaging materials -> /
+- Automotive manufacturing, assembly, and value chain solutions partner -> /
+- Supplies Tier 1 and Tier 2 solutions including ISO certified soundproofing components, adhesives, die-cut insulation, custom protective padding, custom packaging and shipping materials -> /
 - Capabilities include design, assembly, insulation manufacturing, die-cutting, adhesive application -> /
-- Serves automotive industry with suede face fabric and 3D polyester mesh spacers -> /
-- Agile approach and lean supply chain solutions -> /
+- Serves automotive manufacturing, automotive products, suede face fabric, 3-D polyester mesh spacer -> db (industries_served)
+- Agile approach, lean approach, custom-designed solutions, 20 years experience -> /
 </details>
 
 ---
@@ -353,20 +347,20 @@ The firm emphasizes an agile, lean approach to supply chain management, aiming t
 **Old description:** From our beginnings in Bozeman, Montana to a globally-recognized, US-based manufacturer of silicon and germanium parts —
 
 ## About
-Lattice Materials was founded in 1989 in Bozeman, Montana, and has grown into a globally recognized U.S. manufacturer of silicon and germanium components. The company operates as part of The Partner Companies (TPC), a consortium of specialty manufacturers that share resources across defense, aerospace, medical, and other high-technology sectors.
+Lattice Materials was founded in 1989 in Bozeman, Montana, where it operates a 30,000-square-foot manufacturing and production facility. The business is part of The Partner Companies, a consortium of specialty manufacturers that share capabilities and resources.
 
-The 30,000-square-foot facility houses custom crystal growth furnaces, CNC and basic machining centers, curve generation equipment, polishing stations, and in-house metrology. The company also applies custom thin-film coatings such as anti-reflective (AR) and diamond-like carbon (DLC). These capabilities allow Lattice Materials to produce precision optics, mirrors, and semiconductor parts with full material traceability.
+The company specializes in custom-grown and machined silicon and germanium materials, producing precision optics, mirrors, and semiconductor components. Its process capabilities include custom crystal growth, CNC and basic machining, curve generation, polishing, metrology, and custom thin-film coatings such as anti-reflective and diamond-like carbon. Full material traceability is maintained for every part.
 
-Customers span defense, aerospace, medical, telecommunications, semiconductor, and renewable energy industries. The company focuses on mission-critical applications where parts must perform reliably in extreme environments — on the ground, in the sky, or above the atmosphere.
+Lattice Materials serves the defense, aerospace, medical, telecommunications, semiconductor, and renewable energy industries. Its customers rely on the company for high-risk, sensitive applications where precision and reliability are paramount, including systems deployed on the ground, in the sky, and above the atmosphere.
 
-Lattice Materials emphasizes an unwavering commitment to quality and precision, backed by ISO 9001 certification and ITAR registration. Its stated mission is to be the high-precision manufacturer of complete optical solutions for mission-critical applications, offering competitive pricing, rapid delivery, and service.
+The company states its mission is to be the high-precision manufacturer of complete optical solutions for mission-critical applications, emphasizing service, competitive pricing, rapid delivery, and an unwavering commitment to quality and precision.
 
 ## Known for
-- Custom crystal growth of silicon and germanium
-- 30,000 sq ft manufacturing facility with in-house metrology
+- Custom-grown silicon and germanium crystals with full traceability
+- 30,000 sq ft manufacturing facility in Bozeman, Montana
 - ITAR registered and ISO 9001 certified
-- Full material traceability on all parts
-- Thin film coatings including AR and DLC
+- Rapid delivery and competitive pricing for mission-critical parts
+- Member of The Partner Companies consortium
 
 ## Capabilities
 - Custom Crystal Growth
@@ -375,18 +369,16 @@ Lattice Materials emphasizes an unwavering commitment to quality and precision, 
 - Curve Generation
 - Polishing
 - Metrology
-- Thin Film Coatings (AR, DLC)
-- Precision Optics Manufacturing
-- Mirror Manufacturing
-- Semiconductor Parts Manufacturing
+- Custom thin film coatings (AR, DLC)
+- CNC Bevels and Break Edges
 
 ## Industries
-- Defense
-- Aerospace
-- Medical
-- Telecommunications
-- Semiconductor
-- Renewable Energy
+- defense
+- aerospace
+- medical
+- telecommunications
+- semiconductor
+- renewable energy
 
 ## Certifications
 - ISO 9001
@@ -395,21 +387,23 @@ Lattice Materials emphasizes an unwavering commitment to quality and precision, 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1989
-- **Ownership:** Part of The Partner Companies (TPC) group
 - **Headquarters:** Bozeman, Montana
 
 <details><summary>Sources</summary>
 
 - Founded in 1989 in Bozeman, Montana -> /about
-- 30,000 sq ft manufacturing facility -> /about
-- Custom crystal growth, machining, polishing, metrology, thin film coatings -> /capabilities
-- Industries: defense, aerospace, medical, telecommunications, semiconductor, renewable energy -> /about
-- ISO 9001 and ITAR certified -> /about
-- Part of The Partner Companies group -> /about
-- Leadership team names (Travis Wood, Alonso Bustamante, Mike Stoddard, etc.) -> /about
-- Mission statement: leading high-precision manufacturer of complete optical solutions -> /about
-- Silicon and germanium materials with full traceability -> /
-- Precision optics, mirrors, semiconductor parts -> /
+- 30,000 sq ft manufacturing and production space -> /about
+- Custom-grown and machined silicon and germanium material with full traceability -> /
+- Precision optics, mirrors and semi-conductor parts -> /
+- Capabilities: Custom Crystal Growth, Basic Machining, CNC Machining, Curve Generation, Polishing, Metrology -> /capabilities
+- Custom thin film coatings (AR, DLC and others) available -> db
+- CNC Bevels and Break Edges Available -> db
+- Industries served: defense, aerospace, medical, telecommunications, semiconductor, renewable energy -> /about
+- ISO 9001 certified -> /about
+- ITAR registered -> /about
+- Mission: leading high-precision manufacturer of complete optical solutions for mission-critical applications -> /about
+- Member of The Partner Companies consortium -> /about
+- American-made. Custom-grown. Precisely-crafted. -> /capabilities
 </details>
 
 ---
@@ -419,23 +413,24 @@ Lattice Materials emphasizes an unwavering commitment to quality and precision, 
 **Old description:** LeNeave Woodworking Machinery & Supply began as a local hardware store in downtown Charlotte in 1957. Marshall LeNeave, affectionately known as “Pop,” first opened these doors nearly 70 years ago. Now, we are suppliers of industrial-strength woodworking machinery and tools, providing the highest quality of equipment and service.
 
 ## About
-LeNeave Woodworking Machinery & Supply traces its roots to 1957 when Marshall LeNeave, known as "Pop," opened a local hardware store in downtown Charlotte, North Carolina. The company remains family-owned, now operated by the fourth generation of LeNeaves including Greg, Larry, Jeff, Kimiko, and Emi. From its North Carolina location on South Tryon Street, the business serves both local and global customers.
+LeNeave Woodworking Machinery & Supply traces its roots to 1957 when Marshall LeNeave, known as "Pop," opened a local hardware store in downtown Charlotte, North Carolina. The business has remained in the family for four generations and is now operated by Greg, Larry, Jeff, Kimiko, and Emi LeNeave from their location on South Tryon Street.
 
-The firm supplies industrial-strength woodworking machinery and tools rather than manufacturing its own products. Its focus is on equipment sales and tool distribution for professional woodworking operations, with an inventory that spans machinery lines and associated supplies.
+The company supplies industrial-strength woodworking machinery and tools to customers both locally and internationally. As a distributor, LeNeave provides equipment sales and consultation for woodworking operations, though specific facility size, headcount, and volume metrics are not publicly disclosed.
 
-Customers include woodworking professionals, furniture makers, and cabinet shops across regional and international markets, though the company does not publicly list specific industry segments or named accounts.
+LeNeave serves woodworking professionals, manufacturers, and hobbyists seeking reliable machinery and tooling. The company's customer base spans local shops and global clients, though specific industry segments or named accounts are not detailed in available materials.
 
-LeNeave emphasizes a personal approach to every order, citing a longstanding commitment to quality and customer satisfaction that has persisted since its founding. The "Quality Since 1957" tagline reflects this continuity.
+The LeNeave family emphasizes a personal approach to every order, citing a commitment to quality equipment and customer satisfaction as the foundation of their multi-decade operation. The fourth-generation leadership continues the founder's original focus on hands-on service and product knowledge.
 
 ## Known for
-- Family-owned and operated since 1957
-- Fourth-generation leadership
+- Fourth-generation family ownership
 - Personalized service on every order
-- Supplier of industrial-grade woodworking machinery and tools
+- Commitment to quality equipment and customer satisfaction
+- Local and global customer reach
 
 ## Capabilities
-- Woodworking machinery supply
-- Industrial tool distribution
+- Industrial woodworking machinery supply
+- Tool supply
+- Equipment sales and consultation
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -445,12 +440,12 @@ LeNeave emphasizes a personal approach to every order, citing a longstanding com
 
 <details><summary>Sources</summary>
 
-- Founded 1957 in Charlotte, NC -> db
-- Founder Marshall LeNeave ('Pop') -> /
-- Family-owned, fourth generation (Greg, Larry, Jeff, Kimiko, Emi) -> /
+- Founded 1957 in Charlotte, NC by Marshall LeNeave -> /
+- Fourth-generation family business operated by Greg, Larry, Jeff, Kimiko, and Emi -> /
 - Suppliers of industrial-strength woodworking machinery and tools -> /
-- Located at 4408 South Tryon Street, Charlotte, NC 28217 -> /
-- Commitment to quality and customer satisfaction, take every order personally -> /
+- Headquarters at 4408 South Tryon Street, Charlotte, NC 28217 -> /
+- Founded year 1957 from database -> db
+- Headquarters city Charlotte, state North Carolina from database -> db
 </details>
 
 ---
@@ -460,18 +455,18 @@ LeNeave emphasizes a personal approach to every order, citing a longstanding com
 **Old description:** We provide expert custom metal fabrication and creative design for residential and commercial needs in Boston, New York, and surrounding areas. Since 1992, we have distinguished ourselves by our close involvement with our customers from design through delivery of final product, and for our precision and excellence in custom metalwork. At Ledgerock Fabricators Inc, we will work closely with you to get it right the first time.
 
 ## About
-Ledgerock Metal Fabricators Incorporated, operating as LedgeRock Fabrication, is a custom metal fabrication shop based in Hudson, Massachusetts. Founded in 1992, the company has served the Boston, New York, and surrounding areas for over three decades.
+Ledgerock Metal Fabricators Incorporated, operating as LedgeRock Fabrication, is based in Hudson, Massachusetts. The company was founded in 1992. Ownership details and founder names are not publicly disclosed.
 
-The shop provides custom metal fabrication and creative design services for residential and commercial projects. Its work spans residential fabricated builds such as apartments, homes, and vacation properties; commercial designs for retail and hospitality environments; and artistic metalwork for temporary and permanent branded spaces. The company manages projects from design through delivery of the final product.
+The shop provides custom metal fabrication and creative design services for residential and commercial projects. Its work spans residential fabricated builds such as apartments, single-family homes, and vacation properties, as well as commercial designs for retail and hospitality environments. The company also produces artistic metalwork for temporary and permanent branded spaces. Specific manufacturing processes, facility size, headcount, and production volumes are not disclosed.
 
-Ledgerock serves clients in residential construction, commercial construction, hospitality, retail, and branded environment sectors. Typical customers include developers, architects, and business owners seeking custom metal elements for apartments, homes, retail stores, restaurants, hotels, and branded installations.
+Ledgerock serves customers in residential construction, commercial construction, hospitality, retail, and branded-environment sectors. Typical clients include developers of apartments and vacation homes, retail and hospitality businesses seeking custom metal elements, and brands requiring fabricated installations for temporary or permanent spaces.
 
-The company emphasizes close involvement with customers throughout the design-to-delivery process, citing precision and excellence in custom metalwork as its hallmarks. It aims to work closely with clients to get the project right the first time.
+The company emphasizes close involvement with customers from design through delivery of the final product, citing precision and excellence in custom metalwork as distinguishing factors. It states that it works closely with clients to get the job right the first time.
 
 ## Known for
 - Close customer involvement from design through delivery
 - Precision and excellence in custom metalwork
-- Collaborative approach to get it right the first time
+- Commitment to getting it right the first time
 - Creative design integrated with fabrication
 
 ## Capabilities
@@ -495,13 +490,14 @@ The company emphasizes close involvement with customers throughout the design-to
 
 <details><summary>Sources</summary>
 
-- Company name and location: Ledgerock Metal Fabricators Incorporated, Hudson, MA -> db
-- Founded in 1992 -> db, page '/'
-- Custom metal fabrication shop -> page '/'
-- Services: custom metal fabrication and creative design for residential and commercial needs -> page '/'
-- Service areas: Boston, New York, surrounding areas -> page '/'
-- Project categories: Residential Fabricated Builds (apartments, homes, vacation properties), Commercial Designs (retail and hospitality), Artistic Metalwork (branded spaces) -> page '/'
-- Differentiation: close involvement from design through delivery, precision and excellence -> page '/'
+- Founded 1992 -> db
+- Headquarters Hudson, MA -> db
+- Custom metal fabrication and creative design services -> page /
+- Residential projects: apartments, homes, vacation properties -> page /
+- Commercial projects: retail and hospitality environments -> page /
+- Artistic metalwork for branded spaces -> page /
+- Differentiator: close involvement from design through delivery -> page /
+- Differentiator: precision and excellence in custom metalwork -> page /
 </details>
 
 ---
@@ -511,24 +507,34 @@ The company emphasizes close involvement with customers throughout the design-to
 **Old description:** You want to be prepared without the hassle. Whether it's power outages, storms, or unexpected events, Legacy Foods cuts through the industry's confusing one-size-fits-all plans and small portions. We focus on what matters: Quality ingredients, larger servings, great taste, and easy to understand packages.
 
 ## About
-Legacy Food Storage operates from Salt Lake City, Utah, where it sells freeze-dried emergency food and survival supplies directly to consumers through its website. The company does not publicly disclose its founding year or ownership structure.
+Legacy Food Storage operates from Salt Lake City, Utah, where it sells freeze-dried emergency food and preparedness supplies directly to consumers through its e-commerce site. The company does not publicly disclose its founding year, ownership structure, or founders.
 
-The company’s catalog includes meal packages, grab-and-go kits, gluten-free options, water storage containers, bulk ingredients, entrees, breakfast items, meats, side dishes, survival seeds, and fuel. Products are marketed as made in the USA, non-GMO, and gluten-free, with a shelf life of up to 25 years. Packaging uses nitrogen-flushed Mylar pouches with oxygen absorbers, packed in stackable buckets. Legacy Food Storage does not describe its own manufacturing facilities or processes; it positions itself as a brand that sources and packages emergency food.
+The product line centers on freeze-dried meal packages, bulk ingredients, side dishes, meats, breakfasts, and gluten-free options, all packed in nitrogen-flushed Mylar pouches with oxygen absorbers to achieve up to a 25-year shelf life. The company also offers water storage containers, filtration systems, survival seeds, and fuel. Packaging claims include non-GMO ingredients, no MSG or autolyzed yeast extract, and no artificial flavors. No facility size, headcount, or annual volume figures are published.
 
-Legacy Food Storage serves the emergency preparedness and survival market, targeting individuals, families, and groups seeking long-term food storage. The site offers group discounts and sample packages for first-time buyers. No specific industrial or government customers are mentioned.
+Customers are primarily households and individuals building personal emergency reserves, though the site also advertises group discounts and a sample program that lets buyers try products before committing to larger packages. The company positions itself within the survival and emergency-preparedness industry.
 
-The company says it differentiates itself by offering larger servings, signature recipes, and a lower cost per pound of food compared to competitors. The brand was started to simplify the confusing one-size-fits-all plans and small portions common in the survival food industry.
+Legacy Food Storage emphasizes larger serving sizes, taste quality (citing a “Voted Best Tasting” claim), transparent pricing measured by cost per pound and per 2,000 calories, and a “Made in the USA” designation. A sample-before-you-buy option and free shipping on domestic orders over $199 are highlighted as customer-friendly policies.
 
 ## Known for
 - Free shipping on domestic orders over $199
-- 25-year shelf life on freeze-dried meals
-- Nitrogen-flushed Mylar pouches with oxygen absorbers
-- Gluten-free and non-GMO options
-- Made in the USA
+- Nitrogen-flushed Mylar pouches with oxygen absorbers for up to 25-year shelf life
+- Non-GMO, gluten-free, and no artificial flavor formulations
+- Sample packages available for trial before bulk purchase
+- Transparent cost-per-pound and cost-per-calorie comparisons
+
+## Capabilities
+- Freeze-dried food packaging
+- Nitrogen flushing
+- Oxygen absorber insertion
+- Meal package assembly
+- Water storage product distribution
+- Survival seed packaging
+- Emergency fuel packaging
 
 ## Industries
 - Emergency preparedness
 - Survival
+- Food storage
 
 ## Company details
 - **Company Type:** Retailer
@@ -536,11 +542,17 @@ The company says it differentiates itself by offering larger servings, signature
 
 <details><summary>Sources</summary>
 
-- HQ city/state -> db
-- Product categories and features -> /
-- Shipping policy and lead time -> /
-- Shelf life and packaging claims -> /
-- Industry focus -> /
+- Salt Lake City, Utah headquarters -> db
+- Freeze-dried emergency food, meal packages, water storage, survival seeds, fuel -> /
+- Nitrogen-flushed Mylar pouches with oxygen absorbers -> /
+- Up to 25-year shelf life -> /
+- Non-GMO, gluten-free, no MSG, no artificial flavors -> /
+- Free shipping on domestic orders over $199 -> /
+- Shipping times 2-13 business days -> /
+- Voted Best Tasting claim -> /
+- Made in the USA claim -> /
+- Sample before you buy program -> /
+- Group discounts offered -> /
 </details>
 
 ---
@@ -550,39 +562,40 @@ The company says it differentiates itself by offering larger servings, signature
 **Old description:** Legacy Oxygen is a local home medical equipment company dedicated to partnering with our customers and referral sources to provide the best quality of care. Our staff of over 25 employees and our convenient locations are carefully selected so that we can take care of your home medical equipment needs.
 
 ## About
-Legacy Oxygen & Medical Equipment operates from Murray, Kentucky, as a local home medical equipment provider with a staff of over 25 employees. The company is now part of the Quipt family of home medical equipment providers, though its founding year and ownership structure are not publicly disclosed.
+Legacy Oxygen & Medical Equipment operates from Murray, Kentucky, as a local home medical equipment provider with a staff of over 25 employees across multiple convenient locations. The company focuses on partnering with patients, caregivers, physicians, and referral sources to deliver quality care.
 
-The company supplies a range of respiratory and mobility equipment along with related clinical services. Its offerings include invasive and non‑invasive ventilator therapy, oxygen systems, complex power wheelchairs fitted by certified Assistive Technology Professionals (ATPs), daily‑living medical supplies, and CPAP devices for sleep apnea. Legacy Oxygen also conducts home sleep studies using a portable testing system that is reviewed by board‑certified sleep physicians. The team includes licensed respiratory therapists, insurance billing specialists, and customer‑service staff who manage equipment delivery, fitting, and follow‑up.
+The company supplies a range of home medical equipment and clinical services, including invasive and non‑invasive ventilator therapy, oxygen systems, complex power wheelchairs evaluated by certified ATPs, daily living aids, and CPAP/sleep apnea devices supported by home sleep testing and board‑certified sleep physicians. Its team includes licensed respiratory therapists, insurance billing specialists, and customer service experts who provide 24/7 support.
 
-Legacy Oxygen serves patients with chronic respiratory conditions, mobility limitations, and sleep disorders, working directly with physicians, discharge planners, and insurance payers including Medicare. Referral sources such as hospitals and primary‑care practices rely on the company for equipment provision and ongoing therapy management.
+Legacy Oxygen serves the home healthcare market, working with patients suffering from COPD, neuromuscular conditions, mobility impairments, and sleep disorders. Its customers include individual patients, caregivers, physicians, and payers such as Medicare, with services extending to community organizations and non‑profits.
 
-The company emphasizes rapid decision‑making, 24/7 availability for urgent needs, and deep community ties demonstrated through charitable contributions, equipment donations to indigent patients, and staff participation on non‑profit boards. Its clinical staff of respiratory therapists and ATPs is presented as a key differentiator in ensuring appropriate equipment selection and patient compliance.
+The company emphasizes quick decision‑making, personalized consultations, and community involvement, including financial contributions to local charities and equipment for indigent patients. Since joining the Quipt family of HME providers, it has expanded its network while maintaining a local, patient‑focused approach.
 
 ## Known for
-- Quick decision-making and availability for special requests
-- Community involvement including charitable contributions and indigent patient support
-- Team of licensed respiratory therapists and certified ATPs
-- 24/7 availability for questions and problem resolution
-- Home sleep testing with board-certified sleep physician review
+- Quick decision‑making and availability for special requests
+- 24/7 clinical support from licensed respiratory therapists
+- Certified ATPs for complex power wheelchair evaluation and fitting
+- Home sleep testing with board‑certified sleep physician review
+- Community contributions including charity support and indigent patient equipment
 
 ## Capabilities
 - Invasive ventilator therapy
-- Non-invasive ventilator therapy
+- Non‑invasive ventilator therapy
 - Oxygen equipment provision
-- Complex power wheelchair evaluation and fitting (ATP)
-- Medical supplies / daily living aids
+- Complex power wheelchair evaluation and fitting (ATP certified)
+- Daily living aids and medical supplies
 - CPAP and sleep apnea equipment provision
 - Home sleep testing
-- Insurance billing and reimbursement management
-- Respiratory therapy clinical services
-- Equipment delivery, setup, and follow-up
+- Insurance billing and reimbursement support
+- Patient and caregiver consultation
+- 24/7 clinical support
 
 ## Industries
-- Medical Supplies
-- Home Medical Equipment
-- Respiratory Care
-- Sleep Medicine
-- Mobility Equipment
+- Home medical equipment
+- Respiratory therapy
+- Mobility equipment
+- Sleep apnea treatment
+- Medical supplies
+- Durable medical equipment (DME)
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -591,20 +604,14 @@ The company emphasizes rapid decision‑making, 24/7 availability for urgent nee
 
 <details><summary>Sources</summary>
 
-- Legacy Oxygen operates from Murray, Kentucky -> db
-- staff of over 25 employees -> db, /
-- part of the Quipt family of HME providers -> /about
-- provides invasive and non-invasive ventilator therapy -> /services
-- oxygen equipment provision -> /services
-- complex power wheelchair evaluation and fitting by certified ATPs -> /services
-- medical supplies / daily living aids -> /services
-- CPAP and sleep apnea equipment provision -> /services
-- home sleep testing with board-certified sleep physician review -> /services
-- team includes licensed respiratory therapists, insurance billing specialists -> /about
-- serves patients with chronic respiratory conditions, mobility limitations, sleep disorders -> /services
-- works with physicians, discharge planners, insurance payers including Medicare -> /services
-- emphasizes rapid decision-making, 24/7 availability -> /
-- community ties: charitable contributions, equipment donations, non-profit board participation -> /
+- headquarters: Murray, Kentucky -> db
+- employee count: 25 -> db
+- services: ventilator therapy, oxygen equipment, mobility equipment, medical supplies, CPAP/sleep apnea -> /services
+- staff includes licensed respiratory therapists, certified ATPs, board-certified sleep doctors -> /about, /services
+- company part of Quipt family of HME providers -> /about
+- community involvement: financial contributions to local charities, equipment for indigent patients -> /
+- 24/7 availability -> /about
+- quick decision-making -> /
 </details>
 
 ---

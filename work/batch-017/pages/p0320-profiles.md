@@ -3,42 +3,42 @@
 **Old description:** Serving the agricultural and pharmaceutical industries since 1979!
 
 ## About
-Custom Steel Service, Inc. was founded in 1979 in Ames, Iowa. The company has operated continuously from its central Iowa location for over four decades, building a reputation as a local metal fabrication and welding specialist.
+Custom Steel Service, Inc. was founded in 1979 in Ames, Iowa. Since 1979, the business has maintained a steady presence in the Midwest metalworking market, adapting its fabrication processes to meet the evolving needs of agricultural equipment builders and pharmaceutical facility contractors. No public information discloses the ownership structure or the identities of the founders.
 
-The shop provides custom metal fabrication, welding, and mechanical contracting services. It functions as a complete metalworking contractor, handling projects from design through fabrication and assembly for industrial clients. The facility offers steel welding services and custom metal fabrication for a range of project sizes.
+The shop specializes in custom metal fabrication, welding, and mechanical and metalworking contracting. Its capabilities cover the full cycle of fabrication projects for agricultural and pharmaceutical applications, though specific equipment, facility size, and headcount are not publicly disclosed. The company describes itself as a complete mechanical and metalworking contractor, offering welding and fabrication services to Ames and surrounding areas.
 
-Primary markets include the agricultural and pharmaceutical sectors. The company fabricates equipment and components used in farming operations and pharmaceutical manufacturing environments, serving customers in Ames and the surrounding area.
+The company serves the agricultural and pharmaceutical industries, delivering fabricated components and welded assemblies for projects in those sectors. Customer types include original equipment manufacturers and industrial contractors requiring custom steel work.
 
-The business emphasizes delivering work to high quality standards, positioning itself as a reliable partner for specialized metal fabrication needs in the region.
+The firm emphasizes its long-standing focus on agricultural and pharmaceutical fabrication since its founding, positioning that specialization as a core differentiator.
 
 ## Known for
-- Complete mechanical and metalworking contractor
-- Custom metal fabrication and welding services
-- Specialized in agricultural and pharmaceutical projects
-- Serving Ames and surrounding communities since 1979
+- Specialized in agricultural and pharmaceutical fabrication since 1979
+- Operates as a complete mechanical and metalworking contractor
+- Provides welding and fabrication services to Ames, IA and surrounding areas
 
 ## Capabilities
 - Custom metal fabrication
 - Welding
 - Mechanical contracting
-- Metalworking
+- Metalworking contracting
 
 ## Industries
 - Agricultural
 - Pharmaceutical
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1979
 - **Headquarters:** Ames, Iowa
 
 <details><summary>Sources</summary>
 
-- Founded 1979 -> db
-- Headquarters Ames, Iowa -> db
-- Industries: Agricultural, Pharmaceutical -> db
-- Capabilities: Custom metal fabrication, Welding, Mechanical contracting -> db
-- Description: Serving agricultural and pharmaceutical industries since 1979 -> db
+- Founded in 1979 -> db
+- Headquartered in Ames, Iowa -> db
+- Serves agricultural and pharmaceutical industries -> db (description)
+- Provides custom metal fabrication -> db (capabilities)
+- Provides welding services -> db (capabilities)
+- Operates as mechanical and metalworking contractor -> db (capabilities)
 </details>
 
 ---
@@ -48,20 +48,20 @@ The business emphasizes delivering work to high quality standards, positioning i
 **Old description:** Custom Wire Industries, Inc. is a UL and CSA certified manufacturer of
 
 ## About
-Custom Wire Industries, Inc. was founded in 1968 in Muskego, Wisconsin. The company has operated continuously from its Wisconsin base for over five decades.
+Custom Wire Industries, Inc. has operated from Muskego, Wisconsin since its founding in 1968. The company began as a manufacturer of electrical wire and cable assemblies and has since expanded into a range of electromechanical fabrication services.
 
-The company manufactures electrical wire and cable assemblies, wire harnesses, ribbon cables, overmolded assemblies, lead wires, electromechanical devices, control panels, power transmission assemblies, and sensor cables. Its capabilities span cable fabrication, wire harness assembly, electromechanical assembly, custom tooling, injection molding, CAD-based design, kitting, and turnkey system integration. Assemblies range from microscopic components to 900-pound alert tower units. The engineering team uses a fully capable CAD system to generate working drawings and provide design services.
+The company produces custom wire harnesses, cable assemblies, ribbon cables, overmolded components, lead wires, electromechanical devices, kits, control panels, and power transmission assemblies. Its capabilities include cable fabrication, wire harness assembly, electromechanical assembly, custom tooling, injection molding, overmolding, CAD-based design, and turnkey kitted assemblies. Custom Wire Industries handles projects from microscopic components to 900-pound alert tower assemblies.
 
-Custom Wire Industries serves medical, military, industrial, telecommunications, and automotive sectors. Customers include OEMs and manufacturers requiring custom cable assemblies for equipment such as diagnostic medical devices, military-spec power systems, and industrial control panels. The company emphasizes consolidated sourcing, allowing clients to purchase all components together to reduce shipping and labor costs.
+Customers span medical, military, industrial, telecommunications, and automotive sectors. The firm fabricates cables for medical equipment, military-spec power cable systems, industrial machinery, and automotive wire harnesses.
 
-The company highlights its UL and CSA certifications, strict quality control processes at each manufacturing stage, and a commitment to 100% quality management. It promotes affordable pricing, fast turnaround times, and low defect rates as key differentiators. Since its founding, it has focused on delivering customized electromechanical assemblies, control panels, and power cable assemblies tailored to exact specifications.
+Custom Wire Industries emphasizes affordable pricing, fast turnaround times, and a 100% quality management system with strict quality control at each manufacturing stage. All components meet or exceed UL and CSA regulations. The company also offers design services, allowing clients to consolidate components and reduce shipping and labor costs.
 
 ## Known for
 - UL and CSA certified manufacturing
 - Fast turnaround times on custom assemblies
-- Turnkey electromechanical assembly and kitting
-- In-house CAD design and custom tooling
-- Injection molding and overmolding capabilities
+- Affordable pricing with consolidated component sourcing
+- 100% quality management with strict in-process controls
+- CAD design and custom tooling with injection molding capabilities
 
 ## Capabilities
 - Cable fabrication
@@ -73,12 +73,16 @@ The company highlights its UL and CSA certifications, strict quality control pro
 - Injection molding
 - Custom tooling
 - CAD design
+- Turnkey assembly
 - Kitting
-- Turnkey system integration
-- Sensor cable fabrication
-- Ribbon cable fabrication
-- Lead wire fabrication
-- Electromechanical device assembly
+- Sensor cable manufacturing
+- Ribbon cable manufacturing
+- Lead wire manufacturing
+- Coax cable assembly
+- Fiber optic cable assembly
+- Medical cable assembly
+- Industrial assembly
+- Mechanical cable assembly
 - Assembly kit fabrication
 - Custom electrical component manufacturing
 
@@ -88,11 +92,6 @@ The company highlights its UL and CSA certifications, strict quality control pro
 - Industrial
 - Telecommunications
 - Automotive
-
-## Equipment
-- CAD system
-- Injection molding equipment
-- Custom tooling
 
 ## Certifications
 - UL
@@ -105,19 +104,16 @@ The company highlights its UL and CSA certifications, strict quality control pro
 
 <details><summary>Sources</summary>
 
-- Founded in 1968 -> db
-- Headquarters in Muskego, Wisconsin -> db
-- UL and CSA certified manufacturer -> /
-- Manufactures electrical wire and cable assemblies -> /
-- Capabilities include cable fabrication, wire harness assembly, electromechanical assembly, control panels, overmolding, injection molding, custom tooling, CAD design, kitting, turnkey systems -> /
-- Serves medical, military, industrial, telecommunications, automotive industries -> /
-- Assemblies range from microscopic to 900-pound units -> /
-- Fast turnaround times and affordable pricing -> /
-- Strict quality control processes meeting UL and CSA regulations -> /
-- In-house CAD system for working drawings and design services -> /
-- Offers sensor cables, ribbon cables, lead wires, electromechanical devices, assembly kits, power transmission assemblies -> /
-- Consolidated sourcing reduces shipping and labor costs -> /
-- Since 1968 providing electromechanical assemblies, control panels, power cable assemblies -> /
+- Founded 1968 -> db, page /
+- Headquarters Muskego, Wisconsin -> db, page /
+- UL and CSA certified -> page /
+- Manufactures electrical wire and cable assemblies -> page /
+- Produces custom wire harnesses, cable assemblies, ribbon cables, overmolding, lead wires, electromechanical devices, kits, control panels, power transmission assemblies, sensor cables -> page /
+- Capabilities: cable fabrication, wire harness assembly, electromechanical assembly, custom tooling, injection molding, overmolding, CAD design, turnkey kitted assemblies -> page /
+- Scale: microscopic sizes up to 900-pound alert tower assemblies -> page /
+- Industries served: medical, military, industrial, telecommunications, automotive -> page /, industries_served
+- Quality: 100% quality management, strict quality control, meets UL/CSA regulations -> page /
+- Differentiators: affordable pricing, fast turnaround, design services, consolidated sourcing -> page /
 </details>
 
 ---
@@ -127,35 +123,36 @@ The company highlights its UL and CSA certifications, strict quality control pro
 **Old description:** Elevate your interiors with the sophistication and warmth of custom paneling by Custom Woodworks. Our team specializes in crafting paneling solutions that bring texture, depth, and style to any room. Whether you prefer the timeless charm of traditional wood paneling or the sleek, contemporary look of modern designs, we work closely with you to create customized paneling solutions that reflect your unique taste and vision. Trust Custom Woodworks to transform your space into a stunning masterpiece with our expertly crafted paneling services.
 
 ## About
-Custom Woodworks operates from Spearfish, South Dakota. The company’s founding year and ownership structure are not publicly disclosed.
+Custom Woodworks operates from Spearfish, South Dakota, providing custom wood paneling and moulding components for interior applications. The company’s founding year, ownership structure, and founder names are not publicly disclosed.
 
-The business specializes in custom woodworking and paneling solutions for interior spaces. Its offerings include custom paneling in both traditional and modern styles, as well as the manufacture of moulding components. The company describes a collaborative approach, working closely with clients to develop tailored paneling that reflects specific design visions. Details regarding facility size, headcount, or production volumes are not provided.
+The shop fabricates custom wood paneling in traditional and contemporary styles, along with moulding components. Services center on custom woodworking fabrication tailored to client specifications, with the team working closely with customers to develop paneling solutions that reflect individual design visions. Facility size, headcount, and production volumes are not published.
 
-The company serves residential and commercial interior projects, supplying custom paneling and moulding components to contractors, designers, and property owners. No specific industry sectors or named customers are listed in the available information.
+The company serves clients seeking tailored interior woodwork, likely including residential and commercial projects, though specific industries or named customers are not listed in available sources.
 
-Custom Woodworks emphasizes a client-focused design process as a key differentiator, stating that it works closely with customers to create customized paneling solutions that reflect unique taste and vision.
+Custom Woodworks emphasizes close collaboration to create paneling solutions that bring texture, depth, and style to any room, aiming to transform spaces with expertly crafted paneling services that range from timeless traditional charm to sleek modern designs.
 
 ## Known for
-- Collaborative custom design process
-- Custom paneling for traditional and modern interiors
-- Moulding component manufacturing
+- Custom paneling solutions tailored to each client's taste and vision
+- Offers both traditional and contemporary wood paneling styles
+- Close collaboration throughout the design and fabrication process
 
 ## Capabilities
-- Custom woodworking
-- Custom paneling fabrication
-- Moulding component manufacturing
+- Custom wood paneling fabrication
+- Moulding components manufacturing
+- Custom woodworking services
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Headquarters:** Spearfish, South Dakota
 
 <details><summary>Sources</summary>
 
-- Headquarters: Spearfish, South Dakota -> db
-- Product: Moulding Components -> db
-- Service: Custom woodworking and paneling -> db (description)
-- Differentiator: Collaborative custom design process -> db (description)
-- Material: Wood (implied by wood paneling) -> db (description)
+- Company name: Custom Woodworks -> db
+- Location: Spearfish, South Dakota -> db
+- Website: https://www.customwoodworkssd.com/ -> db
+- Description: custom paneling and woodworking services -> db
+- Products: Moulding Components -> db
+- Capabilities: Custom woodwork services, custom woodworking services, installation inquiry -> db
 </details>
 
 ---
@@ -165,56 +162,49 @@ Custom Woodworks emphasizes a client-focused design process as a key differentia
 **Old description:** Precision CNC ROUTING AND LASER CUTTING for ARTISTS, MAKERS, BUILDERS AND DESIGNERS.
 
 ## About
-Cutlist CO operates as a digital fabrication studio in Denver, Colorado. The company was founded in 2006 and has accumulated two decades of experience in precision cutting services.
+Cutlist CO operates a digital fabrication studio in Denver, Colorado, founded in 2006. The company provides CNC routing and laser cutting services to artists, makers, builders, and designers from its Colorado facility.
 
-The shop provides CNC routing and laser cutting services using a ShopSabre CNC router equipped with a 12-position automatic tool changer and vacuum hold-down, plus a pro-series laser cutter and 3D printing capabilities. It processes full 48-by-96-inch sheets, handling 2D profiles, dados, pockets, drill patterns, laser cutting, engraving, and nested part optimization for batch runs of 500 pieces or more. Most jobs are completed within 10 business days.
+The shop runs a ShopSabre CNC router equipped with a 12-position automatic tool changer and vacuum hold-down, alongside a pro-series laser cutter and 3D printing capabilities. It processes full 48-by-96-inch sheets of plywood, plastic, and composite materials, delivering 2D profiles, dados, pockets, drill patterns, and laser engraving. Batch production runs of 500 identical parts are routine, and nested sheet optimization reduces waste. Most jobs ship within 10 business days.
 
-Customers include artists, makers, builders, designers, woodworkers, and small businesses across sectors such as art installations, interior design, furniture, cabinetry, custom shelving, prototypes, models, jigs, storage solutions, signage, marketing components, and retail displays. The company accepts DXF, SVG, 3D CAD models, and dimensioned drawings, converting them into cut files while leaving design work to the client.
+Customers range from individual artists creating installation components to small businesses needing 200 identical product parts. The studio serves interior designers building statement pieces, furniture makers producing cabinets and shelving, prototypers developing models and jigs, and retailers requiring signage and display shelving. Materials include Baltic birch, maple, MDF, acrylic, PVC, ABS, foam, cardboard, fabric, and leather.
 
-Cutlist CO differentiates itself by focusing solely on cutting—delivering clean, precise parts ready for customer finishing and assembly—and by sourcing materials directly to ensure consistent quality, flatness, and machine compatibility. A $500 job minimum applies to CNC routing, and the studio offers local delivery for larger orders while maintaining a pickup-only policy for most work.
+Cutlist CO distinguishes itself by focusing strictly on cutting—no assembly, finishing, or design work—so clients receive precision parts ready for their own processes. The company sources its own sheet stock to guarantee flatness and machine compatibility, and it maintains a $500 job minimum for CNC routing. The founders built the business on the premise that if you can design it, you should be able to build it locally.
 
 ## Known for
-- Job minimum $500 for CNC routing
-- Most jobs ready within 10 business days
-- 48" x 96" sheet capacity with nested material optimization
-- ShopSabre CNC router with 12-position automatic tool changer and vacuum hold-down
-- Material sourcing for consistent quality and machine compatibility
+- Job minimum $500 for CNC routing services
+- Typical turnaround 10 business days
+- Material sourcing included to ensure quality and machine compatibility
+- ShopSabre CNC router with 12-tool automatic changer and vacuum hold-down
+- Cut-only model: no assembly, finishing, or design services
 
 ## Capabilities
 - CNC routing (2D profiles, dados, pockets, drill patterns)
 - Laser cutting
 - Laser engraving
-- Nested part optimization from full sheets
-- Batch production
-- Design file preparation (DXF, SVG, 3D CAD to cut files)
 - 3D printing
-- Material sourcing and procurement
+- Nested sheet optimization
+- Batch production
+- Design-for-manufacturing assistance (file preparation)
+- Material sourcing
 
 ## Industries
-- Artists
-- Makers
-- Builders
-- Designers
-- Woodworkers
-- Small businesses
+- Artists and makers
+- Builders and designers
 - Art installations
 - Interior design
-- Furniture
+- Furniture manufacturing
 - Cabinetry
-- Custom shelving
 - Prototyping
-- Models
-- Jigs and fixtures
-- Storage solutions
-- Signage
-- Marketing components
-- Retail displays
-- Product shelving
+- Model making
+- Jig and fixture fabrication
+- Storage and organization products
+- Signage and marketing components
+- Retail display and shelving
 
 ## Equipment
 - ShopSabre CNC router with 12-position automatic tool changer and vacuum hold-down
 - Pro-series laser cutter
-- 3D printer
+- 3D printer (unspecified model)
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -224,28 +214,17 @@ Cutlist CO differentiates itself by focusing solely on cutting—delivering clea
 <details><summary>Sources</summary>
 
 - Founded 2006 -> db
-- Headquarters Denver, Colorado -> db, homepage
-- Digital fabrication studio with 20 years experience -> homepage
-- CNC routing and laser cutting services -> homepage, services page
-- ShopSabre CNC router with 12-position automatic tool changer and vacuum hold-down -> services page
-- Pro-series laser cutter -> homepage
-- 3D printing capabilities -> homepage
-- 48" x 96" sheet capacity -> homepage
-- Nested parts from full sheets (material optimization) -> homepage
-- Batch production (same part × 500) -> homepage
-- Materials: plywood (veneer core, Baltic birch, HPL laminated, bamboo), MDF & melamine, other wood sheet goods, PVC, ABS, acrylic, other plastic sheet goods, cardboard, paper, fabric, leather, felt -> homepage
-- Foam -> services page
-- Most jobs ready in 10 business days or less -> homepage, services page
-- Job minimum $500 for CNC routing -> services page
-- No assembly or finishing -> services page
-- No metal cutting, no dimensional lumber -> services page
-- Accepts DXF, SVG, 3D CAD models, dimensioned drawings -> homepage
-- Can help turn designs into cut files but not design -> homepage, services page
-- Material sourcing for consistent quality -> services page
-- Local delivery available for bigger orders -> homepage
-- Pickup only, no shipping -> homepage
-- Serves artists, makers, builders, designers, woodworkers, small businesses -> homepage, services page
-- Applications: art installation components, interior design statement pieces, furniture, cabinets, custom shelving, prototypes, models, jigs, storage solutions, products, signs, marketing components, retail display, product shelving -> services page
+- Headquarters Denver, Colorado -> db
+- CNC routing and laser cutting services -> /
+- ShopSabre CNC router with 12-position ATC and vacuum hold-down -> /services
+- Pro-series laser cutter -> /
+- 3D printing capabilities -> /
+- Materials: plywood, plastic, cardboard, fabric, leather, foam -> /
+- Job minimum $500 for CNC routing -> /services
+- Typical lead time 10 business days -> /
+- No assembly, finishing, or design services -> /services
+- Customer-supplied material generally not accepted -> /services
+- Industries: artists, makers, builders, designers, interior design, furniture, prototyping, signage, retail display -> /services
 </details>
 
 ---
@@ -255,33 +234,35 @@ Cutlist CO differentiates itself by focusing solely on cutting—delivering clea
 **Old description:** Since 1977, Cynthia East Fabrics has been a go to for all things fabric and interior design in Little Rock, Arkansas.  We offer a variety of products and services to help your design dreams come true with fun and ease!  Learn more about us and what we can do for you!
 
 ## About
-Cynthia East Fabrics has operated in Little Rock, Arkansas since 1977. The company marks its 49th year in business as a local destination for fabric and interior design. Ownership details and founder names are not disclosed in the available information.
+Cynthia East Fabrics has operated in Little Rock, Arkansas since 1977. What began as a fabric shop driven by a love of beautiful textiles grew into a local destination for inspired interiors. The company remains a Little Rock original after nearly five decades.
 
-The store carries fabric, wallpaper, furniture, and finishing accessories for home interiors. It also provides custom upholstery and drapery fabrication services. Fabrics are sold by the full yard, with partial yardage and special orders available by request. Facility size, headcount, and annual volume are not published.
+The store carries fabric, wallpaper, and furniture, and provides custom upholstery and drapery work along with finishing accessories. Fabrics are sold by the full yard, with partial yardage and special orders available by phone. The showroom serves as a resource for homeowners and designers seeking coordinated soft goods.
 
-The business serves residential customers and interior designers in the Little Rock area seeking materials and custom soft-goods for home projects. No specific commercial or industrial client segments are identified in the source material.
+The business serves residential customers and interior design professionals in the Little Rock area. Its offerings span pattern, texture, and color for home décor projects ranging from single-room refreshes to whole-house furnishings.
 
-The company describes its origin as beginning "with a love of beautiful fabric" that grew into a destination for inspired interiors. A stated differentiator is "Service with a Smile!" though no further mission or founding purpose is detailed.
+The founder's original passion for fabric continues to guide the operation, summed up in the motto "For the Love of a Beautiful Home." The company emphasizes personal service and a curated selection as its foundation.
 
 ## Known for
-- Service with a Smile!
-- Custom upholstery and drapery fabrication
-- Fabric sold by the yard with partial yardage and special orders available
-- Nearly 50 years as a Little Rock original
+- Custom upholstery and drapery workroom
+- Fabric sold by the full yard with special-order capability
+- Curated selection of fabric, wallpaper, and furniture
+- Nearly 50 years as a Little Rock destination
+- Service with a Smile customer approach
 
 ## Capabilities
 - Custom upholstery
-- Drapery fabrication
-- Fabric retail (by the yard)
+- Custom drapery
+- Fabric retail
 - Wallpaper retail
 - Furniture retail
 - Interior design consultation
-- Special order sourcing
+- Special order fabrics
+- Partial yardage cutting
 
 ## Industries
 - Residential interior design
 - Home furnishings
-- Interior decoration
+- Interior design
 
 ## Company details
 - **Company Type:** Retailer
@@ -291,14 +272,13 @@ The company describes its origin as beginning "with a love of beautiful fabric" 
 <details><summary>Sources</summary>
 
 - Founded 1977 -> homepage
-- Location: Little Rock, Arkansas -> homepage and db
-- 49th year in business -> homepage
-- Offers fabric, wallpaper, furniture, custom upholstery, drapery, finishing touches -> homepage
-- Fabric sold by full yard, partial yardage by call -> products page
+- Location Little Rock, Arkansas -> homepage/db
+- Offers fabric, wallpaper, furniture, custom upholstery, drapery -> homepage
+- Fabrics sold by the full yard -> products/db
 - Custom upholstery and drapery services -> homepage
-- Serves residential/interior design customers -> homepage
-- Origin: love of beautiful fabric -> homepage
-- Differentiator: Service with a Smile! -> capabilities/db
+- Nearly 50 years in business -> homepage
+- Company motto 'For the Love of a Beautiful Home' -> homepage
+- Tagline 'Good design starts here' -> homepage
 </details>
 
 ---
@@ -308,38 +288,35 @@ The company describes its origin as beginning "with a love of beautiful fabric" 
 **Old description:** None
 
 ## About
-D M Jeffers Company Inc has operated from Richmond, Virginia since its founding in 1982. The company began as a supplier of restaurant equipment and has grown into a full-service resource for commercial kitchen projects across the region.
+D M Jeffers Company Inc was founded in 1982 in Richmond, Virginia. The company began as a supplier of restaurant equipment and has remained in the same location for over four decades.
 
-The firm distributes a broad line of commercial kitchen equipment and smallwares from manufacturers such as Southbend, Blodgett, Garland, Convotherm, True, Turbo Air, and Norlake. Its offerings span cooking equipment, refrigeration, dishwashing, ice machines, ventilation, and tabletop supplies. Beyond product sales, the company provides kitchen design and layout services, handles installation, and operates a public showroom at its Richmond facility. Orders ship nationwide with options including next-day air and weekend delivery.
+The company supplies a broad range of commercial kitchen equipment, including cooking appliances, refrigeration, dishwashing machines, ice makers, smallwares, and tabletop items. It operates a showroom and warehouse near Richmond, offering design and layout services, installation, and nationwide shipping with options such as next-day air. The inventory features brands such as Southbend, Blodgett, Garland, Convotherm, True, and Norlake.
 
-Customers include independent restaurants, multi-unit chains, institutional food-service operators, and federal agencies. The company serves the food-service and hospitality sectors, outfitting new builds and remodels alike.
+Its customers include independent restaurants, chain food-service operations, concession stands, and federal facilities.
 
-Management emphasizes a curated product selection — stocking only brands the team trusts — and a single-source model that covers design, procurement, delivery, and setup. That approach, combined with four decades of industry experience, is presented as the core differentiator.
+The business distinguishes itself by providing a full-service experience — from initial kitchen design through installation — and by maintaining a public showroom where buyers can evaluate equipment before purchase.
 
 ## Known for
-- Full-service design, supply, and installation for commercial kitchens
-- Public showroom with hands-on product evaluation
-- Nationwide shipping including next-day air and weekend delivery
-- Authorized distributor for major brands such as Southbend, True, and Turbo Air
-- Over 40 years of restaurant equipment experience
+- Full-service kitchen design, layout, and installation
+- Public showroom for hands-on equipment evaluation
+- Nationwide shipping with next-day air and weekend delivery options
+- Authorized dealer for major brands including Southbend, Blodgett, True, and Norlake
+- Over 40 years of industry experience
 
 ## Capabilities
-- Restaurant equipment distribution
+- Restaurant equipment sales
 - Commercial kitchen design and layout
 - Equipment installation
-- Showroom sales
-- Nationwide shipping
+- Shipping and delivery (including next-day air)
 - Custom/special orders
-- Next-day air delivery
-- Weekend delivery
-- Project consultation
+- Showroom consultation
+- Concessions and food service equipment supply
 
 ## Industries
-- Restaurant
+- Restaurants
 - Food service
-- Commercial kitchen
-- Hospitality
-- Federal government
+- Concessions
+- Federal government facilities
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -348,22 +325,14 @@ Management emphasizes a curated product selection — stocking only brands the t
 
 <details><summary>Sources</summary>
 
-- Founded 1982 -> db, /, /about-us
-- Headquarters Richmond, Virginia -> db, /, /about-us
-- Distributes restaurant equipment from brands Southbend, Blodgett, Garland, Convotherm, Star, Hatco, Turbo Air, True, Cleveland, Continental Refrigeration, Atosa, Bally Manufacturing, Norlake -> /about-us
-- Offers commercial kitchen design and layout -> /about-us
-- Provides equipment installation -> /about-us
-- Operates public showroom -> /, /about-us
-- Ships nationwide with next-day air and weekend delivery -> /about-us
-- Serves restaurants, commercial kitchens, federal agencies -> /, /about-us, db
-- Product categories: Beverage & Bar, Concessions & Food Service, Cooking Equipment, Dish Washing Equipment, Food Display & Merchandising, Food Preparation, Furniture, Ice Machines, Plumbing, Refrigeration, Smallwares & Kitchen Accessories, Storage & Transportation, Tabletop -> /
-- Business hours Mon-Fri 9AM-5PM -> /about-us
-- Payment methods: credit cards, cash, checks -> /about-us
-- Contact email dmjsales1@gmail.com -> /, /about-us
-- Phone 804-276-0099 -> /, /about-us
-- Claims largest supply of premium restaurant supplies in Richmond -> /
-- States they only stock equipment and products they trust -> /
-- Over 40 years of industry experience -> /
+- Founded 1982 in Richmond, VA -> db and /about-us
+- Supplies restaurant equipment, smallwares, tabletop, refrigeration, cooking equipment -> / and /about-us
+- Offers design, layout, installation, shipping -> / and /about-us
+- Carries brands Southbend, Blodgett, Garland, Convotherm, Star, Hatco, Turbo Air, True, Cleveland, Continental Refrigeration, Atosa, Bally Manufacturing, Norlake -> /about-us
+- Serves restaurants, concessions, federal industries -> db and /about-us
+- Showroom open to public -> / and /about-us
+- Ships nationwide, next-day air -> /about-us
+- Over 40 years experience -> / and /about-us
 </details>
 
 ---
@@ -373,31 +342,32 @@ Management emphasizes a curated product selection — stocking only brands the t
 **Old description:** Founded with heart in 2022 and headquartered in Houston, Texas, D Volt Co. is a U.S.-based power solutions provider that provides fully integrated, end-to-end services, ranging from engineering design and precision manufacturing to direct sales and customer support. We are proud to announce that we are capable of assembling in the U.S. for distribution-size transformers.
 
 ## About
-D Volt Co. was founded in 2022 and is headquartered in Houston, Texas. The company began as a U.S.-based power solutions provider offering fully integrated services from engineering design and precision manufacturing to direct sales and customer support.
+D Volt Co. was founded in 2022 and is headquartered in Houston, Texas. The company operates as a U.S.-based power solutions provider offering fully integrated services from engineering design and precision manufacturing to direct sales and customer support.
 
-The company manufactures, sells, rents, and repairs a range of transformers and electrical equipment, including three-phase and single-phase pad-mount transformers, overhead transformers, dry-type transformers, power transformers, auto reclosers, switchgear, breakers, switches, and accessories. With a vertically integrated model, D Volt Co. controls engineering, manufacturing, assembly, testing, maintenance, and field service in-house. The company reports more than 1,000 units deployed and cites an eight-week lead time for production.
+The company manufactures, sells, rents, and repairs transformers and electrical equipment. Its product lines include three-phase and single-phase pad-mount transformers, overhead transformers, dry-type transformers, power transformers, auto reclosers, switchgear, breakers, switches, and accessories. With a vertically integrated model, D Volt Co. controls engineering, manufacturing, and assembly in the United States for distribution-size transformers, and reports more than 1,000 units in operation with a typical lead time of eight weeks.
 
-D Volt Co. serves utilities, data centers, renewable energy projects, and industrial clients across North America. Its products are built to UL, DOE, and CSA standards, and the company emphasizes customization to meet project-specific requirements.
+D Volt Co. serves utilities, data centers, renewable energy projects, and industrial clients across North America. The company also provides testing, maintenance, and field repair services to support installed equipment.
 
-The company says its vertically integrated approach gives it control over speed, quality, cost efficiency, and customization, allowing it to offer short lead times and competitive pricing through a global sourcing network and in-house engineering. It also highlights U.S. assembly capability for distribution-size transformers.
+The company emphasizes its vertically integrated structure as a differentiator, enabling control over speed, quality, cost efficiency, and customization. All products are built to UL, DOE, and CSA standards, and the firm highlights short lead times, design flexibility, competitive pricing through global sourcing, and in-house engineering support.
 
 ## Known for
 - Vertically integrated model controlling speed, quality, cost, and customization
 - UL, DOE, and CSA certified products
 - U.S. assembly for distribution-size transformers
-- Eight-week lead time with global sourcing network
-- In-house engineering, testing, maintenance, and repair services
+- Eight-week typical lead time
+- Custom design modifications and in-house engineering
 
 ## Capabilities
+- Transformer manufacturing
+- Switchgear manufacturing
+- Electrical equipment repair
+- Field service and maintenance
 - Engineering design
 - Precision manufacturing
-- Transformer assembly
-- Testing and inspection
-- Maintenance and repair
-- Equipment rental
-- Field service
-- Customization
-- Component sourcing
+- Custom design modification
+- Compliance testing (UL, DOE, CSA)
+- U.S. assembly of distribution-size transformers
+- Transformer rental
 - Direct sales and customer support
 
 ## Industries
@@ -405,7 +375,6 @@ The company says its vertically integrated approach gives it control over speed,
 - Data centers
 - Renewable energy
 - Industrial
-- Power infrastructure
 
 ## Certifications
 - UL
@@ -419,18 +388,16 @@ The company says its vertically integrated approach gives it control over speed,
 
 <details><summary>Sources</summary>
 
-- Founded in 2022 -> /about
-- Headquartered in Houston, Texas -> /about
+- Founded in 2022, headquartered in Houston, Texas -> /about
 - Manufactures, sells, rents, repairs transformers and electrical equipment -> /
-- Product lines include pad-mount, overhead, dry-type, power transformers, auto reclosers, switchgear, breakers, switches, accessories -> /
-- 1,000+ units deployed -> /
-- 8-week lead time -> /
-- Vertically integrated model with engineering, manufacturing, assembly, testing, maintenance, field service -> /about
-- Serves utilities, data centers, renewable energy, industrial clients -> /about
+- Product lines: three-phase pad mount, single-phase overhead, single-phase pad mount, dry-type, power transformers, auto recloser, switchgear, breakers, switches, accessories -> /
+- 1,000+ units running, 8 weeks lead time -> /
+- Vertically integrated model with engineering design, precision manufacturing, direct sales, customer support -> /about
+- Capable of assembling in the U.S. for distribution-size transformers -> /about
+- Serves utilities, data centers, renewable energy projects, industrial clients -> /about
+- Offers testing, maintenance, repair services -> /about
 - Products comply with UL, DOE, CSA standards -> /about
-- U.S. assembly for distribution-size transformers -> /about
-- Customization offered -> /
-- Global sourcing network and in-house engineering -> /
+- Short lead times, customization, competitive pricing, in-house engineering, global sourcing -> /
 </details>
 
 ---
@@ -440,34 +407,42 @@ The company says its vertically integrated approach gives it control over speed,
 **Old description:** D&V designs and manufactures state-of-the-art Performance, Endurance, and Production testing systems for the global automotive, aerospace, marine, or railway industries. These are complete systems for the advanced testing of electrical powertrain components of an ICE, Electric and/or Hybrid Vehicle.
 
 ## About
-D&V Electronics is based in Auburn Hills, Michigan. The company designs and manufactures testing systems for the automotive, aerospace, marine, and railway sectors.
+D&V Electronics is an engineering company based in Auburn Hills, Michigan, that designs and manufactures advanced testing systems for electrical powertrain components. The company focuses on performance, endurance, and production testing for the automotive, aerospace, marine, and railway sectors.
 
-The company produces performance, endurance, and production testing systems for electrical powertrain components including starters, alternators, inverters, e-motors, and e-axles. It also provides application software development, maintenance and calibration services, and training programs. Its testing systems operate continuously at sites worldwide.
+Its product line includes complete test systems for starters, alternators, inverters, power electronics, e-motors, and e-axles, serving both internal combustion and electric or hybrid vehicle platforms. Beyond hardware, D&V provides universal software applications that can be rapidly configured for custom test sequences, along with on-site calibration, maintenance, and training services. The company notes that its testing systems operate around the clock at installations worldwide.
 
-D&V serves OEMs, Tier One suppliers, retail stores, military organizations, universities, and the remanufacturing industry across automotive, aerospace, marine, and railway markets. Its aftermarket systems support warehouse and retail operations for starter and alternator testing.
+D&V serves original equipment manufacturers, tier-one suppliers, retail and aftermarket operations, military organizations, universities, and the remanufacturing industry. Its systems are used in warehouse and retail environments for component verification as well as in high-volume production and endurance validation.
 
-The company states its vision is to expand its leadership in test systems technology by delivering innovative and intuitive solutions. It identifies as an engineering company committed to designing, manufacturing, and supporting advanced and durable testing equipment, and notes its position as a benchmark for starter and alternator testing.
+The company states its vision is to expand its leadership in test-system technology by delivering innovative and intuitive solutions, emphasizing re-usable, compatible, and well-documented software. It positions itself as the benchmark for starter and alternator testing and highlights a commitment to quality and customer satisfaction as core values.
 
 ## Known for
-- Benchmark and global standard for testing starters and alternators
-- Testing systems in operation 24 hours a day, around the world
-- Universal software applications rapidly configured for testing any products
-- On-site maintenance and calibration visits
-- Training by experts in alternators, starters, electric motors, inverters, BSG, ISBs
+- Benchmark and global standard for starter and alternator testing
+- Testing systems deployed globally with 24/7 operation
+- Universal, rapidly configurable test software applications
+- On-site calibration and maintenance visits
+- Expert-led training on testing methodologies and troubleshooting
 
 ## Capabilities
-- Design and manufacture of performance testing systems
-- Design and manufacture of endurance testing systems
-- Design and manufacture of production testing systems
-- Application software development and customization
-- Maintenance and calibration services
-- Training and seminars on testing technologies
+- Performance testing system design and manufacture
+- Endurance testing system design and manufacture
+- Production testing system design and manufacture
+- Starter and alternator testing
+- Inverter and power electronics testing
+- E-motor and e-axle testing
+- Test software development and configuration
+- Calibration and maintenance services
+- Technical training and seminars
+- Custom test analysis for production, endurance, and performance
 
 ## Industries
 - Automotive
 - Aerospace
 - Marine
 - Railway
+- Aftermarket and retail
+- Military and defense
+- Remanufacturing
+- Education and research
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -475,17 +450,16 @@ The company states its vision is to expand its leadership in test systems techno
 
 <details><summary>Sources</summary>
 
-- Auburn Hills, Michigan headquarters -> db
+- Headquartered in Auburn Hills, Michigan -> db
 - Designs and manufactures performance, endurance, and production testing systems -> /
-- Systems for testing electrical powertrain components of ICE, electric, and hybrid vehicles -> /
-- Customers include OEMs, Tier One Suppliers, Retail Stores, Military Organizations, Universities, Remanufacturing Industry -> /
+- Tests electrical powertrain components for ICE, electric, and hybrid vehicles -> /
+- Customers include OEMs, Tier One Suppliers, retail stores, military organizations, universities, remanufacturing industry -> /
 - Benchmark and global standard for testing starters and alternators -> /
-- Expertise in testing systems for inverters, e-motors, e-axles -> /
-- Aftermarket/retail testing systems for starters, alternators, sub-components -> /
-- Testing systems in operation 24 hours a day, around the world -> /services
-- Universal software applications for test customization -> /services
-- Maintenance and calibration visits to customer plants -> /services
-- Training and seminars on testing technologies -> /services
+- Expertise in testing inverters/power electronics, e-motors, e-axles -> /
+- Provides application services with universal configurable software -> /services
+- Offers maintenance and calibration services at customer plants -> /services
+- Provides training and seminars on testing technologies -> /services
+- Testing systems operating 24/7 worldwide -> /services
 - Seminars held in Canada and international locations -> /services
 </details>
 
@@ -496,58 +470,62 @@ The company states its vision is to expand its leadership in test systems techno
 **Old description:** If you're ready to transform your bathroom or dining space, then let the team at D.W. Woodcraft, Inc. bring beauty and warmth to your home with custom cabinets you won't find anywhere else. We take pride in creating extraordinary works of art made from wood such as kitchen cabinets, bathroom cabinets, entertainment centers and so much more! Whatever you have in mind, trust us to design it for you! We know you'll be 100% satisfied with our work because we listen closely to your ideas and do our part to make it happen.
 
 ## About
-D.W. Woodcraft, Inc. operates from Ava, Missouri, where it was founded in 1983 by David and Julie Rust Posey. The business initially produced kitchen and bath cabinets alongside furniture and novelty items.
+D.W. Woodcraft, Inc. was founded in 1983 by David and Julie Rust Posey in Ava, Missouri. That same year the company expanded into kitchen and bath cabinetry alongside furniture and novelty production.
 
-The company specializes in custom woodworking for residential spaces, producing kitchen cabinets, bathroom vanities, entertainment centers, bookshelves, desks, armoires, and other built-in furniture. A computer-aided design and cut-list system has been in use since 1990, supporting precise estimation and fabrication. The operation moved to a larger facility on Highway 5 South in 1993, which includes a showroom described as the largest in the area. At its peak, the shop employed nine craftsmen.
+The company specializes in custom woodworking, producing kitchen cabinets, bathroom vanities, entertainment centers, bookshelves, desks, armoires, and other built-in furniture. In 1990 Posey adopted a computer-aided design and estimating system that generates cut lists for cabinet components. The operation moved to a larger facility on Highway 5 South in 1992–1993, where at its peak the shop employed nine craftsmen. Today the firm operates a showroom on Shull Street where clients can view materials and discuss projects.
 
-D.W. Woodcraft serves homeowners, remodelers, and new-construction clients throughout the region. Projects range from complete kitchen and bathroom remodels to custom entertainment walls and standalone furniture pieces. The firm emphasizes a consultative approach, offering free estimates and showroom appointments to select materials such as mahogany and maple.
+D.W. Woodcraft serves residential homeowners, builders, and remodelers in the Ava, Missouri area and surrounding communities. Projects range from full kitchen remodels with features such as lazy susans, custom islands with overhead storage, and integrated pantries, to bathroom vanities with double sinks and decorative wooden tub surrounds. The company also creates freestanding entertainment centers, bookshelves, and custom furniture pieces for residential spaces.
 
-The Posey family’s involvement spans generations; David’s son Daniel worked in the shop during high school. The company states its goal is to deliver the highest quality craftsmanship on every project, relying on close collaboration with clients to achieve a “wow” factor in each finished piece.
+The Poseys started the business to bring personalized, handcrafted cabinetry to local homes, emphasizing direct collaboration with clients to achieve a "wow factor" in each piece. The company highlights its design-to-build approach, free estimates, and a showroom that allows customers to select materials in person.
 
 ## Known for
-- Free estimates on all cabinetry and woodworking projects
-- Largest cabinet showroom in the area for material selection
+- Free estimates on all projects
+- Largest showroom in the area for material selection
 - Computer-aided design and cut-list generation since 1990
-- Custom woodworking for kitchens, baths, entertainment centers, and furniture
 - Family-owned and operated since 1983
+- Custom design-to-build for kitchens, baths, and furniture
 
 ## Capabilities
-- Custom kitchen cabinetry
-- Custom bathroom cabinetry
-- Custom entertainment centers
-- Custom furniture (bookshelves, desks, armoires)
-- Woodworking design and estimation
-- Computer-aided design (CAD) and cut-list generation
-- Showroom consultation
-- Free estimates
+- Custom cabinet design
+- Kitchen cabinet manufacturing
+- Bathroom vanity manufacturing
+- Entertainment center construction
+- Custom furniture making (bookshelves, desks, armoires)
+- Computer-aided design (CAD) and estimating
+- Cut list generation
+- Showroom material consultation
+- Free project estimates
 
 ## Industries
 - Residential construction
 - Kitchen and bath remodeling
 - Custom furniture manufacturing
-- Home improvement
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1983
-- **Employees:** 9 (at peak)
+- **Employees:** Up to 9 (peak)
 - **Ownership:** Family-owned
 - **Headquarters:** Ava, Missouri
 
 <details><summary>Sources</summary>
 
-- Founded in 1983 by David and Julie Rust Posey -> /about-us
-- Started in mother's basement in early 1980s -> /about-us
-- First shop built 1985 on NE 2nd Ave, Ava, MO -> /about-us
-- Invested in computer design and cut-list program in 1990 -> /about-us
-- Moved to Highway 5 South facility in 1992-1993 -> /about-us
-- Employed up to nine craftsmen at peak -> /about-us
-- Produces custom kitchen cabinets, bathroom cabinets, entertainment centers, furniture -> /services
-- Offers free estimates on cabinetry jobs -> /
-- Operates largest showroom in area for cabinet materials -> /
-- Works with mahogany, maple, and other hardwoods -> /services
-- Headquarters at 1512 Shull Street, Ava, Missouri 65608 -> /about-us
-- Family-owned business with second-generation involvement -> /about-us
+- Founded 1983 by David & Julie Rust Posey -> /about-us
+- Started in mother's basement early 1980s -> /about-us
+- First shop built 1985 on NE 2nd Ave -> /about-us
+- Expanded to kitchen/bath cabinets 1985 -> /about-us
+- Adopted computer design/estimating program 1990 -> /about-us
+- Moved to Highway 5 South facility 1992-1993 -> /about-us
+- Peak employment of nine craftsmen -> /about-us
+- Son Daniel Posey worked in shop -> /about-us
+- Custom kitchen cabinets, bathroom cabinets, entertainment centers -> /
+- Free estimates offered -> /
+- Largest showroom in area -> /
+- Custom features: lazy susans, islands with overheads, pantries -> /services
+- Bathroom vanities with double sinks, tub surrounds -> /services
+- Bookshelves, desks, armoires, custom furniture -> /services
+- Materials: mahogany, white maple -> /services
+- Headquarters: 1512 Shull Street, Ava, MO 65608 -> /
 </details>
 
 ---
@@ -557,45 +535,36 @@ The Posey family’s involvement spans generations; David’s son Daniel worked 
 **Old description:** A powerful OBD2 programmer that can load tunes, display important engine information, and read and clear DTCs.
 
 ## About
-Based in League City, Texas, D3 Performance develops and sells performance tuning hardware and software for Toyota and Lexus vehicles. The company’s founding year and ownership structure are not publicly disclosed.
+D3 Performance is based in League City, Texas. The company does not publicly disclose its founding year, ownership structure, or founders.
 
-The product line centers on OBD2 programmers that load custom calibrations, display live engine data, and read and clear diagnostic trouble codes. D3 also offers its Pro Tuner professional tuning software, custom tune files, and supercharger kits built around the Eaton TVS1320 and Harrop Engineering platforms.
+The company develops and sells performance tuning hardware and software for Toyota and Lexus vehicles. D3 also provides custom tune files and E85 conversion add-ons for supported models.
 
-Customers are primarily automotive enthusiasts and professional installers seeking bolt‑on power gains for late‑model Toyota and Lexus platforms. Concrete examples include the 2022‑2024 Tundra, 2018‑2024 Camry, 2016‑2020 Lexus GS‑350, 2018‑2024 IS‑350/IS‑300 AWD, and 2018‑2024 RC‑350/RC‑300 AWD.
+D3 serves the automotive aftermarket, targeting owners and shops working on late-model Toyota and Lexus platforms. The company also supports the 2AR-FE four-cylinder in the Camry and Scion tC.
 
-D3 emphasizes total fuel control with real wide‑open‑throttle commanded fueling, sustained higher boost across the rev range, and the removal of factory torque‑limit throttle closures and speed limiters. The company backs its hardware with a 30‑day money‑back guarantee and provides phone and email support on weekdays from 9 a.m. to 5 p.m. CST.
+D3 emphasizes several differentiators: real wide-open-throttle fuel control for increased boost and aggressive timing, sustained higher commanded boost across the rev range, and removal of throttle-closure torque limits and speed limiters. The company backs its hardware with a 30-day money-back guarantee and offers phone and email support during Central Time business hours.
 
 ## Known for
-- Total fuel control with real WOT commanded fueling for increased boost and aggressive timing
-- Sustained higher commanded boost throughout the entire rev range
+- Real WOT commanded fuel control for increased boost and aggressive timing
+- Higher commanded boost sustained throughout the entire rev range
 - Elimination of throttle closure from torque limits and removal of all speed limiters
-- 30‑day money‑back guarantee on hardware
-- Weekday phone and email support (9 a.m.–5 p.m. CST)
+- 30-day money-back guarantee on hardware
+- Phone and email support Monday–Friday 9:00 AM–5:00 PM CST
 
 ## Capabilities
-- OBD2 programming and tuning
-- Custom ECU calibration
+- OBD2 programming
+- Custom ECU tuning
+- Performance tuner hardware development
 - Pro Tuner software development
-- MyCalibrator software
-- Supercharger kit integration (Eaton TVS1320, Harrop Engineering)
-- Cold air intake tuning via Tune Wizard
-- DTC reading and clearing
-- Live engine data display
-- Speed limiter removal
-- Torque limit throttle closure elimination
-- Custom tune file creation
-- Plug-and-play tuner hardware
+- Supercharger kit integration
+- Harrop supercharger kit distribution
+- E85 conversion tuning
+- Cold air intake tuning
 
 ## Industries
 - Automotive
 
-## Equipment
-- Eaton TVS1320 Supercharger
-- Harrop Supercharger Kit
-- OBD2 programmer hardware
-
 ## Certifications
-- ISO 9001
+- ISO9001
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -603,16 +572,16 @@ D3 emphasizes total fuel control with real wide‑open‑throttle commanded fuel
 
 <details><summary>Sources</summary>
 
-- Headquarters: League City, Texas -> db
-- Certification: ISO 9001 -> db
-- Capabilities: Performance Tuners, Pro Tuner Software, Superchargers, Custom Tunes, OBD2 Programmer -> db
-- Industries served: Automotive -> db
-- Product: OBD2 programmer for Toyota/Lexus -> pages "/"
-- Supported vehicles: 2022+ Tundra, 2012-2017 Camry, 2013-2017 Avalon, 2007-2017 ES-350, 3rd Gen Tacoma, Lexus GS-350, IS-350, RC-350 -> pages "/"
-- Supercharger kits: Eaton TVS1320, Harrop Engineering -> pages "/"
-- Differentiators: Total fuel control, sustained boost, removal of torque limits and speed limiters -> pages "/"
-- 30-day money-back guarantee -> pages "/"
-- Support hours: Monday-Friday 9:00 AM - 5:00 PM CST -> pages "/"
+- Headquarters in League City, Texas -> db
+- ISO9001 certification -> db
+- Offers Performance Tuners, Pro Tuner Software, Superchargers, Custom Tunes, OBD2 Programmer -> db
+- Serves Automotive industry -> db
+- Sells OBD2 programmers for Toyota Tundra, Tacoma, Camry, Lexus models -> pages "/"
+- Offers Harrop supercharger kits for 3rd Gen Tacoma and 2GR-FE engines -> pages "/"
+- Provides custom tunes and E85 tune add-ons -> pages "/"
+- 30 Day Money Back Guarantee -> pages "/"
+- Support via Phone or Email Monday-Friday 9-5 CST -> pages "/"
+- Claims Total Fuel Control, higher boost, no throttle closure restrictions -> pages "/"
 </details>
 
 ---

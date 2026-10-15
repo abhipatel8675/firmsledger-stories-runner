@@ -3,57 +3,65 @@
 **Old description:** We specialize in large-scale plastic injection molding with a customer-obsessed focus
 
 ## About
-AdvanTech Plastics operates from Woodstock, Illinois, where it has provided plastic injection molding services for over three decades. The company runs two molding facilities in the area and serves customers across the Chicago region, the broader Midwest, and the United States.
+AdvanTech Plastics operates from Woodstock, Illinois, where it has provided plastic injection molding services for over three decades. The company serves customers throughout the Chicago region, the broader Midwest, and across the United States, offering domestic manufacturing for organizations looking to reduce supply-chain risk.
 
-The company specializes in large-scale plastic injection molding, offering custom molding, medical device molding and assembly, micro injection molding, insert molding, and two-shot molding. Its facilities include ISO Class 7 and Class 8 clean-room environments, 96-cavity tooling, robotics, and automated cells for high-volume production. Secondary services encompass ultrasonic welding, pad printing, assembly, post-molding finishing, in-mold labeling, robotic part handling, and packaging. Engineering support includes design-for-manufacturability analysis, mold-flow simulations, and tooling management through domestic and international partners.
+The company specializes in large-scale custom plastic injection molding, including medical device molding, micro molding, insert molding, and two-shot molding. Its facility runs 96-cavity tooling supported by robotics and automated cells, and it maintains ISO Class 7 and Class 8 clean-room environments for molding, assembly, and packaging. Value-added operations include ultrasonic welding, pad printing, assembly, post-molding finishing, in-mold labeling, and packaging. Engineering support covers design-for-manufacturability analysis, mold-flow simulation, and tooling management through domestic and international partners.
 
-AdvanTech serves medical devices, food and beverage packaging, industrial components, consumer products, automotive assemblies, and medical/pharma packaging. Its customer base ranges from startups with new concepts to established manufacturers seeking to reshore production or consolidate vendors.
+AdvanTech serves medical device, food and beverage packaging, industrial component, consumer product, automotive assembly, aerospace, personal care packaging, and caps and closures markets. Its ISO 9001:2015 and ISO 13485:2016 quality systems, along with AIB certification, enable work in highly regulated sectors. Customers range from startups to large OEMs seeking prototyping, short runs, pilot production, or high-volume orders.
 
-The company emphasizes scientific molding, in-process monitoring, automated inspection, and robust ISO 9001:2015 and ISO 13485:2016 quality systems, supplemented by AIB certification. It promotes lean manufacturing, continuous improvement, and a zero-defect mentality to deliver globally competitive pricing and on-time delivery.
+The company states its mission is to meet and exceed injection molding needs, become a value-added partner that increases customer profit, and solve tough molding challenges while meeting demanding quality standards. It emphasizes scientific molding, in-process monitoring, automated inspection, lean manufacturing, and globally competitive pricing with on-time, zero-defect performance.
 
 ## Known for
-- ISO Class 7 and Class 8 clean-room molding, assembly, and packaging
-- 96-cavity tooling with robotics and advanced process monitoring
+- ISO Class 7 and 8 clean-room molding for medical devices
+- 96-cavity high-volume tooling with robotics and automated process monitoring
 - Scientific molding with in-process monitoring and automated inspection
-- Ultrasonic welding, pad printing, assembly, and packaging under one roof
-- DFM analysis and mold-flow simulations from concept through production
+- Value-added secondary operations: ultrasonic welding, pad printing, assembly, in-mold labeling
+- DFM analysis and mold-flow simulation support
 
 ## Capabilities
-- Custom plastic injection molding
-- Medical device injection molding and assemblies
+- Plastic injection molding
+- Medical device injection molding
 - Micro injection molding
 - Insert molding
 - Two-shot injection molding
-- Clean-room molding (ISO Class 7 and Class 8)
-- Ultrasonic welding
 - Pad printing
+- Ultrasonic welding
 - Assembly
 - Post-molding finishing
 - In-mold labeling
 - Robotic part handling
 - Packaging services
-- Design for manufacturability (DFM) analysis
+- Design-for-manufacturability (DFM) analysis
 - Mold-flow simulation
-- Tooling management and transfer
-- Production Part Approval Process (PPAP)
-- Control plans and APQP
-- Statistical process control (SPC) and supplier quality assurance (SQA)
+- Tooling management (transfers, repairs, maintenance)
+- PPAP (Production Part Approval Process)
+- Control plans
+- SQA/SPC (Supplier Quality Assurance / Statistical Process Control)
+- Scientific molding
+- Clean-room molding (ISO Class 7/8)
+- Rapid prototyping
+- Short-run production
+- Pilot production
+- High-volume automated molding
 
 ## Industries
 - Medical devices
-- Food and beverage packaging
+- Food & beverage packaging
 - Industrial components
 - Consumer products
 - Automotive assemblies
+- Aerospace
+- Personal care packaging
+- Caps & closures
 - Medical/pharma packaging
 
 ## Equipment
 - 96-cavity tooling
 - Robotics
 - Automated cells
-- ISO Class 7 clean room
-- ISO Class 8 clean room
-- Advanced process monitoring systems
+- ISO Class 7 clean-room
+- ISO Class 8 clean-room
+- Automated inspection equipment
 
 ## Certifications
 - ISO 9001:2015
@@ -61,24 +69,25 @@ The company emphasizes scientific molding, in-process monitoring, automated insp
 - AIB Certification
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Headquarters:** Woodstock, Illinois
 
 <details><summary>Sources</summary>
 
-- Location: Woodstock, Illinois -> /about-us
-- Two facilities in Woodstock -> / (mentions opening of second molding facility)
+- Headquartered in Woodstock, Illinois -> /about-us
 - Over three decades of experience -> /
-- ISO Class 7 and Class 8 clean rooms -> /, /about-us
-- 96-cavity tooling, robotics, automated cells -> /, /about-us
-- Certifications: ISO 9001:2015, ISO 13485:2016, AIB -> /about-us, /quality
-- Materials: PP, PE, ABS, PC, PS, TPE, TPU, PEEK, POM, nylon, medical-grade polymers -> /, /about-us
-- Industries served: medical devices, food & beverage packaging, industrial components, consumer products, automotive assemblies, medical/pharma packaging -> /, /about-us
-- Secondary services: ultrasonic welding, pad printing, assembly, post-molding finishing, in-mold labeling, robotic handling, packaging -> /, /about-us
-- Engineering support: DFM analysis, mold-flow simulations, tooling management -> /, /about-us
-- Lead times: 6–12 weeks for new projects, repeat orders ship in days -> /, /about-us
-- Quality systems: scientific molding, in-process monitoring, automated inspection, PPAP, control plans, SPC/SQA -> /quality, /about-us
-- Social links: LinkedIn, Facebook, Thomasnet.com Profile -> /about-us
+- ISO 9001:2015 and ISO 13485:2016 certified -> /about-us
+- AIB Certification -> /about-us
+- Clean-room ISO Class 7 and 8 -> /
+- 96-cavity tooling, robotics, automated cells -> /
+- Materials: PP, PE, ABS, PC, PS, TPE, TPU, PEEK, POM, nylon, medical-grade polymers -> /
+- Industries: medical devices, food & beverage packaging, industrial components, consumer products, automotive assemblies, aerospace, personal care packaging, caps & closures -> /
+- Secondary services: ultrasonic welding, pad printing, assembly, post-molding finishing, in-mold labeling, robotic handling, packaging -> /
+- Lead times: 6-12 weeks for new projects, repeat orders ship in days -> /
+- DFM analysis and mold-flow simulation -> /
+- Tooling management with domestic/international partners -> /
+- Quality systems: PPAP, control plans, SQA/SPC, scientific molding -> /quality
+- Mission statement -> /about-us
 </details>
 
 ---
@@ -88,55 +97,51 @@ The company emphasizes scientific molding, in-process monitoring, automated insp
 **Old description:** Team members at Advance Auto Parts #3364 in Laramie, WY are here to ensure you get the right parts—the first time. Our stores also offer a variety of
 
 ## About
-Advance Auto Parts store #3364 operates at 611 E Grand Ave in Laramie, Wyoming. The location is part of the national Advance Auto Parts chain, a retailer of automotive replacement parts, accessories, and maintenance items.
+Advance Auto Parts store #3364 operates in Laramie, Wyoming. The location is a retail outlet of the national auto parts chain, offering parts and services to local customers. The store’s team members aim to ensure customers get the right parts the first time.
 
-The store stocks a range of products including brake pads, rotors, calipers, batteries, motor oil, and windshield wipers for cars, trucks, lawn equipment, and marine applications. In addition to parts sales, the location provides free in-store services such as battery installation and recycling, charging and starting system testing, engine (OBD-II) code scanning, a loaner tool program, and recycling for motor oil, power steering fluid, hydraulic fluid, and transmission fluid. Same-day curbside pickup and in-store pickup are also offered.
+The store provides a range of free in-store services including battery installation and recycling, charging and starting system testing, engine (OBD-II) code scanning, a loaner tool program, and recycling for motor oil, power steering fluid, hydraulic fluid, and transmission fluid. It also offers same-day curbside pickup and same-day in-store pickup, along with wiper blade installation. The product assortment covers brake pads, rotors, shoes, calipers, hardware, batteries (including DieHard), motor oil, and windshield wipers. The store also accepts used motor oil for recycling. Promotional offers such as 15% off $35 and 20% off $100+ are available for online orders.
 
-The outlet serves drivers and repair professionals in the Laramie region seeking automotive parts and maintenance supplies.
+The store serves individual vehicle owners and professional mechanics in the Laramie area who need replacement parts, maintenance supplies, and diagnostic assistance.
 
-The company emphasizes convenience through its free service offerings and same-day pickup options, aiming to ensure customers get the correct parts on the first visit.
+The location emphasizes convenience through same-day pickup options and a suite of complimentary services designed to reduce the time and cost of routine vehicle maintenance.
 
 ## Known for
+- Same-day curbside and in-store pickup
 - Free battery installation and recycling
 - Free engine (OBD-II) code scanning
 - Loaner tool program
-- Same-day curbside and in-store pickup
-- Free wiper blade installation
+- Fluid recycling for motor oil, power steering, hydraulic, and transmission fluids
 
 ## Capabilities
-- Battery installation
-- Battery recycling
-- Charging and starting system testing
-- Engine (OBD-II) code scanning
-- Loaner tool program
-- Motor and gear oil recycling
-- Power steering fluid recycling
-- Hydraulic fluid recycling
-- Transmission fluid recycling
-- Same-day curbside pickup
-- Same-day in-store pickup
-- Wiper blade installation
-
-## Industries
-- Automotive
-- Marine
-- Lawn and garden
+- Battery Installation
+- Battery Recycling
+- Charging & Starting System Testing
+- Engine (OBD-II) Code Scanning
+- Loaner Tools
+- Motor & Gear Oil Recycling
+- Same Day Curbside Pickup
+- Same Day In Store
+- Wiper Blade Installation
+- Power Steering Fluid Recycling
+- Hydraulic Fluid Recycling
+- Transmission Fluid Recycling
 
 ## Certifications
-- ISO9001
+- ISO 9001
 
 ## Company details
 - **Company Type:** Retailer
-- **Headquarters:** Laramie, Wyoming
+- **Headquarters:** Laramie, WY
 
 <details><summary>Sources</summary>
 
-- Store location: 611 E Grand Ave, Laramie, WY 82070 -> db, pages["/"]
-- Store number: #3364 -> pages["/"]
-- Free in-store services: battery installation, battery recycling, charging & starting system testing, engine (OBD-II) code scanning, loaner tools, motor & gear oil recycling, same day curbside pickup, same day in store, wiper blade installation, power steering fluid recycling, hydraulic fluid recycling, transmission fluid recycling -> pages["/"]
-- Products: brake pads, rotors, shoes, calipers, hardware, batteries (DieHard), motor oil, windshield wipers -> pages["/"], products
+- Store location: 611 E Grand Ave, Laramie, WY -> /
+- Store number: #3364 -> /
+- Services: Battery Installation, Battery Recycling, Charging & Starting System Testing, Engine (OBD-II) Code Scanning, Loaner Tools, Motor & Gear Oil Recycling, Same Day Curbside Pickup, Same Day In Store, Wiper Blade Installation, Power Steering Fluid Recycling, Hydraulic Fluid Recycling, Transmission Fluid Recycling -> /
+- Products: brake pads, rotors, shoes, calipers, hardware, batteries (DieHard), motor oil, windshield wipers -> /
+- Promotional offers: 15% off $35, 20% off $100+ online -> /
 - Certification: ISO9001 -> db
-- Phone: (307) 755-0212 -> pages["/"]
+- Description: Team members ensure you get the right parts the first time -> db
 - Website: https://stores.advanceautoparts.com/wy/laramie/611-e-grand-ave... -> db
 </details>
 
@@ -147,54 +152,41 @@ The company emphasizes convenience through its free service offerings and same-d
 **Old description:** Manufacturing and Distributing Quality Cables and Wire harnesses
 
 ## About
-Advanced Cable is based in Troy, Michigan. The company has been providing cabling and wiring solutions for more than 21 years. It is a women-owned and operated business, certified by the Women's Business Enterprise National Council (WBENC). No founder names are disclosed.
+Advanced Cable operates from Troy, Michigan, where it manufactures and distributes cables and wire harnesses. The company is certified as a women-owned business through WBENC (Women's Business Enterprise National Council), though the founding year and founders' names are not publicly disclosed in the available records.
 
-The company manufactures control cable assemblies and wire harnesses, and also distributes cable products nationwide. All products are made in the USA. The firm offers engineering expertise to develop custom cabling solutions, and its technicians work closely with customers on design and technical support.
+The company produces cables and wire harnesses, emphasizing that all products are manufactured in the United States. Its capabilities include manufacturing and distribution, with a stated focus on efficient service. Specific details about facility size, headcount, production volumes, or part-number counts are not provided in the source material.
 
-Advanced Cable serves a range of industrial sectors, though specific industries are not named in its public materials. Its customers include businesses needing industrial cabling, control systems, and wire harness assemblies.
+Industries served and customer types are not explicitly listed in the available information. The company's marketing highlights the advantages of partnering with a WBENC-certified organization, suggesting it targets buyers who value supplier diversity and domestic production.
 
-The company emphasizes its WBENC certification as a differentiator, noting tax incentives and supplier-diversity benefits for partners. It also highlights made-in-USA production, 24-hour delivery on stocked items, competitive pricing, and a commitment to quality workmanship.
+The company positions its domestic manufacturing and women-owned certification as key differentiators. It states that it offers only top-of-the-line wires and cables, though no further rationale for its founding or mission is documented in the input.
 
 ## Known for
-- WBENC-certified women-owned business
 - All products manufactured in the USA
-- 24-hour delivery on cabling needs
-- Engineering support for custom cable solutions
-- Responsive service and competitive pricing
+- WBENC-certified women-owned business
+- Efficient service
 
 ## Capabilities
-- Cable assembly manufacturing
-- Wire harness manufacturing
-- Control cable assembly
-- Product distribution
-- Engineering support
-- Technical support
-- 24-hour delivery
-
-## Industries
-- Industrial
+- Cable manufacturing
+- Wire harness assembly
+- Distribution
 
 ## Certifications
 - WBENC
-- WOMEN-OWNED
+- Women-Owned
 
 ## Company details
 - **Company Type:** Manufacturer
-- **Ownership:** Women-owned and operated
+- **Ownership:** Woman-owned
 - **Headquarters:** Troy, Michigan
 
 <details><summary>Sources</summary>
 
+- Company name: Advanced Cable -> db
 - Location: Troy, Michigan -> db
-- Women-owned and operated -> page /
-- WBENC certified -> db
-- In business for more than 21 years -> page /
-- Manufactures control cable assemblies and distributes products nationwide -> page /
-- Products manufactured in USA -> page /
-- 24-hour delivery on cabling needs -> page /
-- Engineering expertise for custom solutions -> page /
-- Serves various industries -> page /
-- Industrial cabling focus -> page /
+- Description: Manufacturing and Distributing Quality Cables and Wire harnesses -> db
+- Certifications: WOMEN-OWNED, WBENC -> db
+- Products made in USA -> db (products field)
+- Capability: Efficient Service -> db
 </details>
 
 ---
@@ -204,31 +196,28 @@ The company emphasizes its WBENC certification as a differentiator, noting tax i
 **Old description:** is a leading, full-line manufacturer of cable ties and wiring accessories proudly made in the USA.
 
 ## About
-Advanced Cable Ties, Inc. operates from Gardner, Massachusetts, where it has produced cable ties and wiring accessories for over 30 years. The company was founded as a domestic manufacturer focused on cable management solutions, though the exact founding year and ownership structure are not publicly disclosed.
+Advanced Cable Ties, Inc. operates from Gardner, Massachusetts, where it has produced cable ties and wiring accessories for over 30 years. The company describes itself as a full-line manufacturer focused on designing and building the strongest fasteners in the world, with all engineering, tooling, and material processing handled in-house.
 
-The firm designs, engineers, and manufactures a full line of cable ties, including standard, specialty, and engineered-material variants, along with mounts, mounting bases, installation tools, abrasion protection, and conductivity accessories. Production combines advanced tooling and engineering with material processing capabilities, and the company maintains a large inventory that enables same-day shipping on stocked items.
+The firm manufactures standard and specialty cable ties, mounts, abrasion protection, and conductivity products, supported by advanced tooling and material processing capabilities. It maintains a large inventory of military-grade materials and offers same-day shipping on stocked items, backed by a 100% quality guarantee. Quality assurance testing and compliance with UL Type 21S, CSA Type 21S, and military standard AS33671 are integral to its production.
 
-Advanced Cable Ties serves military, industrial, and electrical markets, supplying products that meet UL Type 21S, CSA Type 21S, and military standard AS33671. Its customer base consists of authorized distributors supported by regional managers and manufacturers’ representatives, with applications guided by NEMA cable tie standards.
+Advanced Cable Ties serves military, industrial, and electrical sectors, providing cable management solutions that meet NEMA application guides. The company sells exclusively through authorized distributors and supports customers with regional managers and manufacturers' representatives. Its products are used in applications requiring high tension, temperature, and weather resistance.
 
-The company emphasizes its ISO 9001:2015 registration, 24-hour shipping on stocked parts, extensive inventory, and quality assurance testing as key differentiators. It sells exclusively through authorized distributors and backs its products with a 100% quality guarantee.
+The company emphasizes its vast inventory, rapid availability, quality certifications, and product longevity as key differentiators. Its stated objective is to design and manufacture the strongest cable ties globally, a mission supported by ISO 9001:2015 registration and a commitment to building strong partnerships with distributors and end users.
 
 ## Known for
-- ISO 9001:2015 registered
-- Ships stocked parts within 24 hours
-- Products meet UL Type 21S, CSA Type 21S, and military standard AS33671
+- Ships stocked items within 24 hours
+- ISO 9001:2015 registered with UL, CSA, and military certifications
+- Sells exclusively through authorized distributors
 - Vast inventory of cable ties and accessories
-- Sells only through authorized distributors
+- 100% Quality Guarantee
 
 ## Capabilities
+- Cable tie design and engineering
 - Advanced tooling and engineering
 - Advanced material processing
-- Engineered materials
-- Cable tie manufacturing
-- Specialty cable tie production
-- Mount and mounting base manufacturing
-- Cable tie tool manufacturing
-- Abrasion protection products
-- Conductivity solutions
+- Quality assurance testing
+- Technical documentation and application guides
+- Inventory management and same-day shipping
 
 ## Industries
 - Military
@@ -247,17 +236,19 @@ The company emphasizes its ISO 9001:2015 registration, 24-hour shipping on stock
 
 <details><summary>Sources</summary>
 
-- Headquarters: Gardner, Massachusetts -> db
-- ISO 9001:2015 certification -> /
-- UL Type 21S, CSA Type 21S, AS33671 standards -> /
-- Over 30 years in business -> /
-- Ships within 24 hours -> /
-- Sells through authorized distributors -> /
-- Advanced tooling and engineering, advanced material processing -> /
-- Product lines: standard, specialty, engineered material cable ties, mounts, tools, abrasion protection, conductivity -> /
-- Military grade materials -> /
-- NEMA cable tie application guides -> /
-- 100% quality guarantee -> /
+- Headquarters in Gardner, Massachusetts -> db
+- Operating for over 30 years -> /
+- Manufacturer of cable ties and wiring accessories -> /
+- ISO 9001:2015 registered -> /
+- Products meet UL Type 21S, CSA Type 21S, and military standard AS33671 -> /
+- Ships stocked items within 24 hours -> /
+- Sells exclusively through authorized distributors -> /
+- Offers 100% Quality Guarantee -> /
+- Maintains vast inventory of cable ties and accessories -> /
+- Provides cable management solutions for military, industrial, and electrical (NEMA) industries -> /
+- Advanced tooling and engineering plus advanced material processing -> /
+- Quality assurance testing -> /
+- Technical product guide and NEMA application guides -> /
 </details>
 
 ---
@@ -267,20 +258,20 @@ The company emphasizes its ISO 9001:2015 registration, 24-hour shipping on stock
 **Old description:** Facilitate all the customer electronic product manufacturing needs from a design stage, through SMT, assembly, testing, packaging, and up to shipping.
 
 ## About
-Advanced Electronic Manufacturing Services, operating as Advance Electronic Solutions, is based in Alpharetta, Georgia, a northern suburb of Atlanta. The company provides electronics manufacturing services from design through production and testing.
+Advanced Electronic Solutions operates from Alpharetta, Georgia, in the Atlanta metropolitan area. The company provides electronic manufacturing services spanning design, assembly, testing, and logistics.
 
-Its service portfolio spans engineering, manufacturing, testing, and after-sales support. Engineering services include product design and development, printed circuit board layout, and prototyping. Manufacturing covers PCB assembly using surface-mount, through-hole, and mixed technologies, as well as box-build assembly, cable and wire harness assembly, and mechanical assembly. Component sourcing and procurement are also offered. Testing capabilities encompass in-circuit test, functional test, burn-in, and environmental stress screening. After-sales services include return and repair management and warranty administration. The company states it supports programs from prototype through mass production.
+The firm delivers a full suite of engineering and manufacturing capabilities. Engineering services include product design and development, printed circuit board layout, and prototyping. Manufacturing covers surface mount technology (SMT) assembly, through-hole (THT) assembly, mixed-technology PCB assembly, box build integration, cable and wire harness assembly, and mechanical assembly. Component sourcing and procurement support the production line. Testing services encompass in-circuit test (ICT), functional test, burn-in, and environmental stress screening (ESS). After-sales support includes return, repair, and warranty services.
 
-The firm serves original equipment manufacturers and other businesses that require outsourced electronic manufacturing, test, and repair services. Customers engage the company for complete product realization, from initial design and prototyping to volume production and post-sale support.
+The company serves other businesses requiring electronic component and assembly manufacturing, from prototype samples to mass production volumes. No specific industry verticals are disclosed.
 
-Advance Electronic Solutions emphasizes a simple approach: facilitating every customer need from design through SMT, assembly, testing, packaging, and shipping. Its stated commitment is to meet customer requirements while continuously improving quality, delivery, technology, and cost, and maintaining an effective quality management system.
+Advance Electronic Solutions states its mission is to facilitate every customer's electronic product manufacturing needs from design through shipping. It emphasizes continuous improvement in quality, delivery, technology, and cost, and aims to make the journey from sample manufacturing to mass production as easy and convenient as possible.
 
 ## Known for
-- End-to-end service from design through shipping
-- Prototype to mass production support
-- In-house testing: ICT, functional, burn-in, ESS
-- Return/repair and warranty management
-- Continuous improvement in quality, delivery, technology, cost
+- End-to-end electronic manufacturing from design through shipping
+- Continuous improvement in quality, delivery, technology, and cost
+- Sample-to-mass-production scaling
+- Integrated engineering, manufacturing, testing, and after-sales services
+- RoHS compliance
 
 ## Capabilities
 - Product design and development
@@ -290,7 +281,7 @@ Advance Electronic Solutions emphasizes a simple approach: facilitating every cu
 - Surface mount technology (SMT) assembly
 - Through-hole technology (THT) assembly
 - Mixed technology assembly
-- Box build assembly
+- Box build assembly (full product assembly)
 - Cable and wire harness assembly
 - Mechanical assembly
 - Component sourcing and procurement
@@ -300,6 +291,7 @@ Advance Electronic Solutions emphasizes a simple approach: facilitating every cu
 - Environmental stress screening (ESS)
 - Return and repair services
 - Warranty services
+- After-sales services
 
 ## Certifications
 - RoHS
@@ -310,12 +302,17 @@ Advance Electronic Solutions emphasizes a simple approach: facilitating every cu
 
 <details><summary>Sources</summary>
 
-- Company name and slug -> db
-- Headquarters: Alpharetta, Georgia -> db
-- Certification: RoHS -> db
-- Capabilities list (engineering, manufacturing, testing, after-sales) -> db
-- Products/services list (PCBA, SMT, THT, box build, cable/harness, mechanical, component sourcing, testing types) -> db
-- Homepage content: location in Atlanta, mission statement, service descriptions, testing details, after-sales services, email contact -> page:/
+- Headquarters in Alpharetta, Georgia -> db
+- Electronic manufacturing services from design through shipping -> db, /
+- Engineering services: product design, PCB layout, prototyping -> /
+- Manufacturing services: PCBA, SMT, THT, mixed technology, box build, cable/wire harness, mechanical assembly -> /, products
+- Testing services: ICT, functional, burn-in, ESS -> /
+- Component sourcing and procurement -> products
+- After-sales services: return/repair, warranty -> capabilities
+- RoHS certification -> db
+- Mission: facilitate customer needs from design to shipping -> /
+- Commitment to continuous improvement in quality, delivery, technology, cost -> /
+- Sample manufacturing to mass production -> /
 </details>
 
 ---
@@ -325,25 +322,24 @@ Advance Electronic Solutions emphasizes a simple approach: facilitating every cu
 **Old description:** Since 1990, AFE has been providing a full array of exceptional cooling, freezing and processing equipment.
 
 ## About
-Advanced Food Equipment, LLC (AFE) was founded in 1990 by Mike Webber in Ridgway, Pennsylvania. The company began with a focus on designing and manufacturing hygienic spiral and tunnel cooling and freezing solutions for the food industry.
+Advanced Food Equipment, LLC (AFE) was founded in 1990 by Mike Webber in Ridgway, Pennsylvania. The company began with a focus on designing and manufacturing hygienic spiral and tunnel cooling and freezing solutions for the food processing industry. A new corporate office was built in Ridgway in 2020, and a European office opened in Uden, Netherlands, in 2014.
 
-AFE engineers and manufactures a range of industrial freezing and cooling equipment, including spiral freezers, external spiral freezers, site-built spiral freezers, IQF tunnel freezers, IQF hybrid freezers, spiral coolers, spiral steamers, plate freezers, blast freezers, shakers, and clean-in-place (CIP) systems. The company operates a corporate office and testing facility in Ridgway, Pennsylvania, and a European office in Uden, Netherlands. Its fabrication capabilities include robotic welding, laser cutting, 3D modeling, and automatic bending equipment.
+AFE engineers and manufactures a range of industrial freezing and cooling equipment, including spiral freezers, IQF tunnel freezers, plate freezers, blast freezers, spiral coolers, spiral steamers, shakers, and clean-in-place (CIP) systems. Fabrication employs robotic welding, laser cutting, 3-D modeling, and automatic bending equipment to produce stainless-steel components. The company also provides installation, repair, preventative maintenance, spare parts, and in-house or on-site product testing using its AFE Field Test Unit.
 
-The company serves food processing sectors such as baked goods, dairy, seafood, pasta and pizza, beef, pork and poultry, fruit, vegetables, and potato products. Customers include food manufacturers in the United States, Canada, Europe, and South America.
+The equipment serves food processors across baked goods, dairy, seafood, pasta and pizza, meat and poultry, fruit, vegetable, and potato product segments. AFE has installed machines in the United States, Canada, Europe, and South America, and counts members of the US Poultry & Egg Association and the Midwest Food Processors Association among its industry connections.
 
-AFE states its mission is to provide the most hygienic, energy-efficient, and reliable food processing equipment, emphasizing expertly welded stainless steel designs, comprehensive product testing (both in-house and on-site), and a combined team experience of over 150 years in IQF spiral and tunnel freezers.
+The company states its mission is to deliver the most hygienic, energy-efficient, and reliable food processing equipment, backed by over 150 years of combined team experience. AFE emphasizes expert welding, sanitary design, rapid installation (often within days), and a comprehensive spare-parts inventory to minimize downtime.
 
 ## Known for
-- Installation and startup of custom freezers in days
-- Comprehensive spare parts inventory with detailed part numbers in manuals
-- Product testing at company facility or on-site with AFE Field Test Unit
-- Expertly welded stainless steel construction using robotic welding, laser cutting, and automatic bending
-- Over 150 years of combined team experience in IQF spiral and tunnel freezers
+- Installation and startup in days
+- In-house and on-site product testing with AFE Field Test Unit
+- Comprehensive spare parts inventory with detailed manual numbering
+- Robotic welding, laser cutting, and automated bending fabrication
+- Over 30 years of custom freezer engineering experience
 
 ## Capabilities
 - Spiral freezer manufacturing
-- Tunnel freezer manufacturing
-- IQF freezer manufacturing
+- IQF tunnel freezer manufacturing
 - Plate freezer manufacturing
 - Blast freezer manufacturing
 - Spiral cooler manufacturing
@@ -353,13 +349,15 @@ AFE states its mission is to provide the most hygienic, energy-efficient, and re
 - Industrial freezer installation
 - Industrial freezer repair
 - Preventative maintenance
+- Spare parts supply
 - Product testing (in-house and on-site)
-- Spare parts customization
-- Stainless steel fabrication
+- Custom engineering and design
 - Robotic welding
 - Laser cutting
-- 3D modeling
+- 3-D modeling
 - Automatic bending
+- Stainless steel fabrication
+- Belting integration (stainless steel and plastic)
 
 ## Industries
 - Baked goods
@@ -372,41 +370,35 @@ AFE states its mission is to provide the most hygienic, energy-efficient, and re
 - Potato products
 
 ## Equipment
-- Spiral freezers
-- External spiral freezers
-- Site-built spiral freezers
-- IQF tunnel freezers
-- IQF hybrid freezers
-- Spiral coolers
-- Spiral steamers
-- Plate freezers
-- Blast freezers
-- Shakers
-- Clean in Place (CIP) systems
 - Robotic welding equipment
 - Laser cutting equipment
-- 3D modeling software
+- 3-D modeling software
 - Automatic bending equipment
+- AFE Field Test Unit
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1990
+- **Ownership:** Private
 - **Headquarters:** Ridgway, Pennsylvania
 
 <details><summary>Sources</summary>
 
 - Founded 1990 by Mike Webber -> /about-us
 - Headquarters Ridgway, Pennsylvania -> /about-us, db
-- European office Uden, Netherlands -> /services
-- Manufactures spiral freezers, tunnel freezers, IQF freezers, plate freezers, blast freezers, spiral coolers, spiral steamers, shakers, CIP systems -> /, /about-us
-- Fabrication capabilities: robotic welding, laser cutting, 3D modeling, automatic bending -> /about-us
-- Serves baked goods, dairy, seafood, pasta/pizza, meat/poultry, fruit, vegetables, potato products -> /about-us
-- Installation and startup in days -> /services
-- Product testing in-house and on-site -> /about-us, /services
-- Spare parts inventory with detailed numbers -> /services
+- Products: spiral freezers, IQF tunnel freezers, plate freezers, blast freezers, spiral coolers, spiral steamers, shakers, CIP systems -> /
+- Services: installation, repair, preventative maintenance, spare parts, product testing -> /services
+- Industries served: baked goods, dairy, seafood, pasta & pizza, meat/poultry, fruit, vegetables, potato products -> /
+- Fabrication equipment: robotic welding, laser cutting, 3-D modeling, automatic bending -> /about-us
 - Mission: hygienic, energy-efficient, reliable equipment -> /about-us
-- Team combined 150+ years experience -> /about-us
-- French fry tunnel freezer 90,000 lbs/hour in Netherlands -> /about-us
+- Installation in days -> /services
+- Spare parts inventory with detailed numbering -> /services
+- Product testing in-house and on-site with AFE Field Test Unit -> /services, /about-us
+- Global installations: US, Canada, Europe, South America -> /about-us
+- Memberships: US Poultry & Egg Association, Midwest Food Processors Association -> /about-us
+- Materials: stainless steel, plastic belting -> /about-us, /services
+- Combined 150 years team experience -> /about-us
+- European office in Uden, Netherlands -> /services
 </details>
 
 ---
@@ -416,56 +408,64 @@ AFE states its mission is to provide the most hygienic, energy-efficient, and re
 **Old description:** We are a world-class manufacturing partner that utilizes entrepreneurial ingenuity, thoughtful partnership, and uncompromising safety and quality standards to deliver trust-fueled brand growth.
 
 ## About
-Roskam Foods, operating as Advanced Food Technologies, is headquartered in Grand Rapids, Michigan. Founded in 1923, the company began as a single-product operation and has grown into one of the largest multi-category external food manufacturers in the United States, backed by investor-led expansion.
+Advanced Food Technologies, operating as Roskam Foods, is headquartered in Grand Rapids, Michigan. Founded in 1923 as a single-product operation, the company has grown into one of the largest multi-category external food manufacturers in the United States. The business is investor-backed and employs approximately 2,400 people across eight facilities in the U.S. and Canada.
 
-The company provides co-manufacturing services for branded food companies, retailers, and private-label partners across snack foods, confections, frozen meals, pizza dough, dry baking mixes, and cereal and granola. Its processing platforms include twin- and single-screw extrusion, end-to-end bakery processing (mixing, sheeting, proofing, baking, tempering), specialty snack processing (drying, seasoning, air popping), and advanced packaging (stand-up pouches, dual-compartment cups, bag-in-box, bulk super-sacks). In-house engineering handles feasibility studies, line design, and turnkey capital project management. Operations span eight facilities in the U.S. and Canada, totaling over two million square feet of manufacturing and warehouse space, with more than 50 production and packaging lines and a workforce of 2,400-plus employees.
+The company provides co-manufacturing services for branded food companies, national retailers, and private-label partners. Its processing platforms include twin- and single-screw extrusion for direct-expanded cereals, protein crisps, and snack puffs; end-to-end baking with dough mixing, sheeting, proofing, baking, and tempering; specialty snack processing such as drying, seasoning, air popping, and particulate application; and advanced packaging in stand-up pouches, dual-compartment cups, bag-in-box, and bulk super-sacks. In-house engineering supports feasibility studies, line design, capital assessments, and turnkey capital project management. The combined footprint exceeds two million square feet of manufacturing and warehouse space with more than 50 production and packaging lines.
 
-Customers include national retailers, high-growth brands, and private-label programs seeking large-scale, flexible production. Roskam serves categories such as better-for-you, organic, non-GMO, gluten-free, and grain-free formulations, with dedicated peanut-free facilities and controlled allergen handling for peanuts and tree nuts. The company also supports store-brand programs at national-brand quality.
+Roskam serves the snack food, confectionery, frozen meal, pizza dough, dry baking mix, cereal, and granola categories. Its five specialized platforms—Baked Snacks & Popcorns, Frozen Foods, Dry Mix Blending, Cereal & Granola, and Confectionary—span frozen, refrigerated, and shelf-stable temperature states. Customers include national brands, store-brand programs, and private-label partners seeking large-scale, multi-category production consolidation.
 
-Roskam emphasizes a partner-first mindset built on disciplined execution, continuous improvement, and integrated supply-chain support. Its differentiation rests on SQF Level II and III certification across all sites, in-house R&D from ideation through commercialization, and end-to-end logistics with EDI connectivity, enabling brands to consolidate manufacturing and simplify operations.
+The company emphasizes a partner-first mindset, disciplined execution, and continuous investment in new technologies and formats. All facilities hold SQF Level II and III certification, with additional USDA Organic, Non-GMO Project Verified, Keto Certified, Fair Trade, and Kosher certifications. Dedicated peanut-free facilities and controlled allergen protocols address sensitive ingredient handling. Integrated R&D, packaging development, supply chain logistics, and project management support take concepts from ideation through commercialization.
 
 ## Known for
-- All facilities SQF Level II & III certified
-- Dedicated peanut-free facilities
+- All facilities SQF Level II & III certified with multiple dietary certifications
+- Dedicated peanut-free facilities for allergen-sensitive production
 - In-house engineering and turnkey capital project management
-- End-to-end supply chain & logistics with full EDI capabilities
-- Integrated R&D from ideation to commercialization
+- End-to-end supply chain logistics with full EDI integration
+- Integrated R&D from ideation through pilot testing to commercialization
 
 ## Capabilities
-- Twin and single-screw extrusion
-- End-to-end bakery processing
-- Specialty snack processing (drying, seasoning, air popping, topical particulate applications)
-- Advanced packaging (stand-up resealable pouches, dual-compartment cups, bag-in-box, bulk super-sacks)
-- In-house engineering (feasibility studies, line designs, capital assessments, new-product commercialization)
+- Twin-screw extrusion
+- Single-screw extrusion
+- Direct-expanded cereal production
+- Protein crisp manufacturing
+- Snack puff production
+- Dough mixing
+- Sheeting
+- Proofing
+- Baking
+- Tempering
+- Drying
+- Seasoning (slurry/topical oil)
+- Air popping
+- Topical particulate application
+- Stand-up resealable pouch packaging
+- Dual-compartment cup packaging
+- Bag-in-box packaging
+- Bulk super-sack packaging
+- Feasibility studies
+- Line design
+- Capital assessments
+- New-product commercialization
 - Turnkey capital project management
-- Baked snacks & popcorns
-- Frozen foods
-- Dry mix blending
-- Cereal & granola
-- Confectionary
-- Better-for-you organic cereals and grains
-- Extruded crisps
-- Coated puffs
-- Allergen management
-- Dedicated free zones (peanut-free)
-- Packaging design & engineering
-- Concept to commercialization
-- Scalability testing
-- Margin optimization
-- Innovation & scale-up R&D
+- Custom line design
 
 ## Industries
-- Snack foods
-- Confections and candy
-- Frozen meals
-- Pizza dough
-- Dry baking mixes
-- Cereal and granola
-- Better-for-you foods
-- Organic foods
-- Non-GMO foods
-- Gluten-free foods
-- Grain-free foods
+- Snack Foods
+- Confections & Candy
+- Frozen Meals
+- Pizza Dough
+- Dry Baking Mixes
+- Cereal and Granola
+- Baked Snacks & Popcorns
+- Frozen Foods
+- Dry Mix Blending
+- Confectionary
+- Better-for-You / Organic / Non-GMO / Gluten-Free / Grain-Free
+
+## Equipment
+- Twin-screw extrusion lines
+- Single-screw extrusion lines
+- Pilot lines for scalability testing
 
 ## Certifications
 - SQF Level II
@@ -479,29 +479,27 @@ Roskam emphasizes a partner-first mindset built on disciplined execution, contin
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1923
-- **Employees:** 2400+
+- **Employees:** 2400
 - **Headquarters:** Grand Rapids, Michigan
 
 <details><summary>Sources</summary>
 
-- Founded in 1923 -> db
-- Headquarters Grand Rapids, Michigan -> db
-- 2,400+ employees -> /
-- 8 facilities in US and Canada -> /capabilities
-- 2M+ sq ft manufacturing space -> /capabilities
-- 50+ production lines -> /capabilities
-- Co-manufacturing for brands, retailers, private labels -> /
-- Processing platforms: extrusion, baking, snack processing, packaging -> /
-- In-house engineering and turnkey capital projects -> /
-- Product categories: snack foods, confections, frozen meals, pizza dough, dry baking mixes, cereal and granola -> /
-- Better-for-you, organic, non-GMO, gluten-free, grain-free formulations -> /capabilities
-- Dedicated peanut-free facilities -> /capabilities
-- Allergen management for peanuts and tree nuts -> /capabilities
+- Headquarters: Grand Rapids, Michigan -> db
+- Founded: 1923 -> db, /
+- Employee count: 2,400+ -> db, /, /capabilities
+- Facilities: 8 in US and Canada -> /, /capabilities
+- Manufacturing space: 2M+ sq ft -> /, /capabilities
+- Production lines: 50+ -> /, /capabilities
+- Platforms: Extrusion, Baking, Snack Processing, Packaging, Engineering, Capital Projects -> /
+- Categories: Snack Foods, Confections & Candy, Frozen Meals, Pizza Dough, Dry Baking Mixes, Cereal and Granola -> /
+- Specialized platforms: Baked Snacks & Popcorns, Frozen Foods, Dry Mix Blending, Cereal & Granola, Confectionary -> /capabilities
 - Certifications: SQF Level II & III, USDA Organic, Non-GMO Project Verified, Keto Certified, Fair Trade, Kosher -> /capabilities
-- R&D from ideation to commercialization -> /capabilities
-- Supply chain & logistics with EDI -> /capabilities
-- Packaging development -> /capabilities
-- Project management -> /capabilities
+- Allergen management: peanut-free facilities, controlled protocols for peanuts/tree nuts -> /capabilities
+- R&D stages: Ideation, Formulation, Pilot Testing, Commercialization -> /capabilities
+- Packaging formats: Primary, Secondary, Tertiary -> /capabilities
+- Supply chain: EDI, ingredient sourcing, production planning, finished goods delivery -> /capabilities
+- Project management: concept through commercialization -> /capabilities
+- Investor-backed growth mentioned -> /
 </details>
 
 ---
@@ -511,31 +509,31 @@ Roskam emphasizes a partner-first mindset built on disciplined execution, contin
 **Old description:** Specifications subject to change without notice. Dimensions: inch/(mm). Please reconfirm dimensions and specifications prior to ordering.
 
 ## About
-Advanced Interconnections Corp. is based in West Warwick, Rhode Island. The company states it has been providing customized interconnect solutions for over 35 years.
+Advanced Interconnections Corp. operates from West Warwick, Rhode Island, where it has provided customized interconnect solutions for over 35 years. The company's founding year and original ownership structure are not publicly disclosed, nor are the names of its founders.
 
-Advanced Interconnections designs and manufactures customized interconnect solutions, including IC sockets, package conversion adapters, board-to-board connectors, BGA socketing systems, Peel-A-Way removable carriers, and terminals and test jacks. These products feature screw-machined terminals for field-proven performance and durability. The company operates a fully integrated manufacturing facility in the United States, where it produces customer-specific designs from prototype to production volumes. It also offers SMT value-added services.
+The firm designs and manufactures a range of interconnect products, including IC sockets, package conversion adapters, board-to-board connectors, BGA socketing systems, Peel-A-Way removable carriers, and terminals and test jacks. Its components feature screw-machined terminals produced in a fully integrated U.S. manufacturing facility that handles orders from prototype through production volumes.
 
-The company serves semiconductor development and high-reliability electronic applications across medical, military, automotive, and telecommunications industries. Its products are used in applications requiring durable, high-performance interconnects.
+Customers span semiconductor development and high-reliability electronic applications in the medical, military, automotive, and telecommunications sectors. The company serves engineers requiring custom interconnect solutions for demanding environments.
 
-Advanced Interconnections highlights its "Made in the USA" manufacturing and "Designed-in Globally" approach as key differentiators, focusing on customized solutions for demanding high-reliability environments.
+Advanced Interconnections emphasizes domestic production — “Made in the USA” — and screw-machined terminal technology for field-proven performance and durability. Its differentiators include the ability to tailor designs to customer-specific requirements and a product configurator that streamlines part-number creation and quoting.
 
 ## Known for
-- Screw-machined terminals for field-proven performance
-- Fully integrated US manufacturing facility
-- Customer-specific designs from prototype to production
-- Made in the USA
-- Global design support
+- Screw-machined terminals for field-proven performance and durability
+- Fully integrated manufacturing facility in the USA
+- Customized interconnect solutions built to customer-specific requirements
+- Prototype-to-production volume capability
+- Online product configurator for part-number creation and RFQ
 
 ## Capabilities
+- Custom interconnect design
+- Screw machining
 - IC socket manufacturing
 - Package conversion adapter manufacturing
 - Board-to-board connector manufacturing
-- BGA socketing systems
-- Peel-A-Way removable carrier production
+- BGA socketing
+- Peel-A-Way carrier manufacturing
 - Terminal and test jack manufacturing
-- Screw machining
-- SMT value added services
-- Custom interconnect design
+- SMT value-added services
 - Prototype to production manufacturing
 
 ## Industries
@@ -544,6 +542,7 @@ Advanced Interconnections highlights its "Made in the USA" manufacturing and "De
 - Military
 - Automotive
 - Telecommunications
+- High-reliability electronics
 
 ## Certifications
 - ROHS
@@ -554,17 +553,18 @@ Advanced Interconnections highlights its "Made in the USA" manufacturing and "De
 
 <details><summary>Sources</summary>
 
-- Headquarters: West Warwick, Rhode Island -> db
-- Company states over 35 years of providing customized interconnect solutions -> /
+- Location: West Warwick, RI -> db
+- Over 35 years experience -> /
 - Designs and manufactures customized interconnect solutions -> /
-- Products: IC sockets, package conversion adapters, board-to-board connectors, BGA socketing systems, Peel-A-Way removable carriers, terminals and test jacks -> /
-- Features screw-machined terminals for field-proven performance -> /
-- Fully integrated manufacturing facility in the USA -> /
-- Production from prototype to production volumes -> /
-- Serves semiconductor development, medical, military, automotive, telecommunications -> /
-- Made in the USA, Designed-in Globally -> /
-- Certifications: ROHS -> db
-- Capabilities: SMT Value Added Services -> db
+- Products: IC sockets, package conversion adapters, board-to-board connectors, BGA socketing systems, Peel-A-Way carriers, terminals and test jacks -> /
+- Screw-machined terminals -> /
+- Fully integrated manufacturing facility in USA -> /
+- Prototype to production volumes -> /
+- Industries: medical, military, automotive, telecommunications, semiconductor development -> /
+- ROHS certification -> db
+- ISO Certificate mentioned -> /
+- Made in USA -> /
+- Online product configurator -> /
 - LinkedIn URL -> db
 </details>
 
@@ -575,37 +575,39 @@ Advanced Interconnections highlights its "Made in the USA" manufacturing and "De
 **Old description:** We are a professional products and solutions provider specializing in industrial and material handling supply. From packaging products to industrial machinery, we have everything you need to get the job done.
 
 ## About
-Advanced Packaging Solutions & Products, Inc. was founded in 2012 in Summerville, South Carolina, by two Clemson University packaging engineers, Dwayne Rainey and Nick Young. The company began by manufacturing custom wood packaging and has since expanded to multiple locations across the Southeast and beyond.
+Advanced Packaging Solutions & Products, Inc. was founded in January 2012 in Summerville, South Carolina, by two Clemson University packaging engineers, Dwayne Rainey and Nick Young. The privately held company began by manufacturing custom wood packaging and has since expanded to multiple locations across the Southeast and a national distribution network.
 
-The company operates as a comprehensive packaging provider, offering stock and custom packaging products, engineered wood packaging, kitting and fulfillment, vendor managed inventory (VMI), on-site packaging services, and consultative engineering. It maintains over 20,000 stock items across distribution centers in Chicago, Dallas, Hazelton (PA), Atlanta, and other locations, with manufacturing facilities in Summerville and Piedmont, SC. The firm also provides military specification packaging and custom CAD-built wood crates, pallets, and skids.
+The company operates an in-house wood shop producing CAD-designed custom crates, pallets, skids, and CNC-cut lumber, while also distributing over 20,000 stock packaging items — including corrugated boxes, foam, poly bags, stretch film, tape, and labels — from warehouses in Chicago, Dallas, Hazelton, Atlanta, and other cities. Services encompass kitting and fulfillment, vendor-managed inventory (VMI), on-site packaging, military-spec packaging, and consultative engineering available on an hourly or project basis.
 
-Advanced Packaging serves a range of industries including e-commerce, food and beverage, industrial manufacturing, medical and pharmaceutical, agriculture, automotive, chemical, commercial, and distribution. Customers include businesses needing everything from anti-static packaging and corrugated boxes to custom wood solutions and mil-spec compliance.
+Customers span e-commerce, food and beverage, industrial manufacturing, medical and pharmaceutical, agriculture, automotive, chemical, commercial, and distribution sectors. The firm serves businesses needing both off-the-shelf supplies and engineered packaging solutions, such as custom wood crates for heavy equipment or mil-spec packaging for defense items.
 
-The company emphasizes its engineering-focused approach, with consultative engineering services available on an hourly or project basis, and highlights its recognition as the #1 fastest-growing company in South Carolina by Inc. Magazine in 2017. Its mission is to optimize customers' packaging systems through expertise and tailored solutions.
+The founders started the business to provide engineering-driven packaging optimization, combining custom manufacturing with a broad stock portfolio to reduce lead times and total packaging cost for clients.
 
 ## Known for
-- Over 20,000 stock items available across multiple distribution centers
-- In-house wood shop for custom CAD-built crates, pallets, and skids
-- Consultative engineering services offered hourly, short-term, or long-term
-- Military specification (Mil-Spec) packaging compliance
-- Recognized as Inc. Magazine's #1 fastest-growing company in South Carolina (2017)
+- Over 20,000 stock items available from multiple regional warehouses
+- In-house wood shop for CAD-built custom crates, pallets, and skids
+- Consultative engineering services offered hourly or long-term
+- Vendor-managed inventory (VMI) and on-site packaging services
+- Military specification packaging compliance
 
 ## Capabilities
-- Custom wood packaging manufacturing (crates, pallets, skids)
-- CAD-based packaging design
-- CNC cutting of lumber
+- Custom wood packaging (crates, pallets, skids)
+- CAD design and engineering
 - Kitting and fulfillment
 - Vendor managed inventory (VMI)
 - On-site packaging services
-- Military specification (Mil-Spec) packaging
-- Consultative engineering (hourly, short-term, long-term)
-- Stock packaging distribution (20,000+ SKUs)
-- Packaging equipment sales and service (bagging, labeling, shrink wrapping, stretch wrapping, strapping, carton sealing)
-- Anti-static packaging
-- VPCI corrosion inhibitor packaging
-- Returnable packaging solutions
-- Custom packaging engineering
-- Packaging consulting
+- Military specification packaging
+- Consultative engineering
+- Stock packaging distribution
+- Custom corrugated boxes
+- Custom foam inserts
+- Custom poly bags
+- Stretch wrapping
+- Strapping
+- Bagging
+- Labeling
+- Shrink packaging
+- Carton sealing
 
 ## Industries
 - eCommerce
@@ -624,28 +626,26 @@ The company emphasizes its engineering-focused approach, with consultative engin
 ## Equipment
 - Bagging equipment
 - Labeling equipment
-- Shrink packaging systems
-- Stretch wrapping machines
-- Strapping machines
-- Carton sealing machines
-- CNC wood cutting equipment
+- Shrink packaging equipment
+- Stretch wrappers
+- Strapping equipment
+- Carton sealers
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 2012
+- **Ownership:** Privately held (founder-owned)
 - **Headquarters:** Summerville, SC
 
 <details><summary>Sources</summary>
 
-- Founded in 2012 by Dwayne Rainey and Nick Young -> /about-us
-- Headquarters in Summerville, SC -> /about-us
-- Over 20,000 stock items across distribution centers in Chicago, Dallas, Hazelton, Atlanta -> /
-- In-house wood shop for custom CAD-built crates, pallets, skids -> /services
-- Services: Kitting & Fulfillment, VMI, On-Site Packaging, Mil-Spec, Consultative Engineering -> /services
+- Founded 2012 by Dwayne Rainey and Nick Young -> /about-us
+- Headquarters Summerville, SC -> db
+- In-house wood shop for custom crates, pallets, skids -> /services
+- Over 20,000 stock items from multiple warehouses -> /
 - Industries served: eCommerce, Food, Industrial, Manufacturing, Medical, Pharmaceutical, Agriculture, Automotive, Beverage, Chemical, Commercial, Distribution -> /about-us
-- Inc. Magazine #1 fastest growing company in SC 2017 -> /about-us
-- Equipment offerings: Bagging, Labeling, Shrink Packaging, Stretch Wrappers, Strapping, Carton Sealers -> /
-- Materials: wood, corrugated, poly, stretch film, bubble, foam, tape, labels, kraft paper, anti-static, VPCI -> / and /about-us
+- Services: kitting, VMI, on-site, mil-spec, engineering -> /services
+- Equipment categories: bagging, labeling, shrink, stretch, strapping, carton sealing -> /
 - Locations: Summerville, Piedmont, Atlanta, Dallas, Chicago, Hazelton, Sterling, Manchester, Sparks -> /about-us
 </details>
 
@@ -656,39 +656,39 @@ The company emphasizes its engineering-focused approach, with consultative engin
 **Old description:** Since 1959, Advanced Plastics has served as a quality wholesale distributor of fiberglass reinforced plastics, cast polymers, sign supplies and thermoplastics.
 
 ## About
-Advanced Plastics is headquartered in Nashville, Tennessee, and has operated as a wholesale distributor since its founding in 1959. The company maintains eight stocking distribution centers across Tennessee, Alabama, Missouri, Louisiana, and Texas.
+Advanced Plastics, headquartered in Nashville, Tennessee, was founded in 1959 as a wholesale distributor of fiberglass reinforced plastics, cast polymers, sign supplies, and thermoplastics. The company operates eight stocking distribution centers across Tennessee, Alabama, Missouri, Louisiana, and Texas, serving customers from a network that includes branches in Memphis, Knoxville, Chattanooga, St. Louis, Birmingham, Elberta, New Orleans, and Arlington.
 
-The company distributes fiberglass reinforced plastics, cast polymers, sign supplies, and thermoplastics through two divisions. Its Composites Division supplies materials for marine, transportation, corrosion, aerospace, construction, and advanced composites applications, while the Sign Supply and Plastics Division serves digital printing, quick sign, glazing, and industrial plastics markets.
+The business is organized into two divisions. The Composites Division supplies fiberglass reinforced plastics and related materials to the marine, transportation, corrosion, aerospace, construction/architectural, cast polymer, and advanced composites markets. The Sign Supply and Plastics Division provides sign-making materials, digital printing substrates, glazing products, and industrial thermoplastics to the quick-sign, digital printing, and industrial plastics sectors. Advanced Plastics positions itself as a wholesale distributor that maintains sufficient inventory to serve large manufacturers while remaining responsive to smaller accounts.
 
-Customers include manufacturers and fabricators in the marine, transportation, aerospace, construction, cast polymer, digital printing, and sign-making industries. Advanced Plastics works with both major manufacturers and smaller shops, leveraging its network of distribution centers to provide material supply across the Southeast and Midwest.
+Customers span a range of industries including marine, transportation, aerospace, construction, cast polymer manufacturing, advanced composites, digital printing, sign fabrication, glazing, and general industrial plastics. The company works with both major manufacturers and smaller fabricators, offering product selection across composites, cast polymers, sign supplies, and thermoplastics.
 
-The company emphasizes its ability to partner with large manufacturers while remaining nimble enough to support customers of all sizes, citing its experienced staff and long industry tenure as foundations for quality products and exceptional service.
+Advanced Plastics emphasizes its scale and agility, stating it is "large enough to partner with major manufacturers, yet nimble enough to offer exceptional support to customers of all sizes." Membership in the American Composites Manufacturers Association and the International Cast Polymer Association reflects its industry engagement.
 
 ## Known for
-- Large enough to partner with major manufacturers, yet nimble for customers of all sizes
+- Large enough to partner with major manufacturers, yet nimble enough to offer exceptional support to customers of all sizes
 - Eight stocking distribution centers across the Southeast and Midwest
-- Experienced staff offering quality products and exceptional service
-- Serving the composites and wholesale plastics industries since 1959
+- Membership in American Composites Manufacturers Association and International Cast Polymer Association
 
 ## Capabilities
-- Wholesale distribution of fiberglass reinforced plastics
+- Wholesale distribution of composites
 - Wholesale distribution of cast polymers
 - Wholesale distribution of sign supplies
 - Wholesale distribution of thermoplastics
-- Stocking distribution centers (8 locations)
 
 ## Industries
 - Marine
 - Transportation
 - Corrosion
 - Aerospace
-- Construction/Architectural
-- Cast Polymer
-- Advanced Composites
-- Digital Printing
-- Quick Sign
+- Construction/architectural
+- Cast polymer
+- Advanced composites
+- Digital printing
+- Quick sign
 - Glazing
-- Industrial Plastics
+- Industrial plastics
+- Composites industry
+- Wholesale plastics industry
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -697,16 +697,15 @@ The company emphasizes its ability to partner with large manufacturers while rem
 
 <details><summary>Sources</summary>
 
-- Founded in 1959 -> /
-- Headquarters in Nashville, TN -> /
+- Founded 1959 -> db
+- Headquarters Nashville, TN -> db
 - Eight stocking distribution centers -> /
-- Distributes fiberglass reinforced plastics, cast polymers, sign supplies, thermoplastics -> /
-- Composites Division serves marine, transportation, corrosion, aerospace, construction/architectural, cast polymer, advanced composites -> /
-- Sign Supply and Plastics Division serves digital printing, quick sign, glazing, industrial plastics -> /
-- Branches in Memphis, Knoxville, Chattanooga, St. Louis, Birmingham, Elberta, New Orleans, Arlington -> /
+- Branch locations (Memphis, Knoxville, Chattanooga, St. Louis, Birmingham, Elberta, New Orleans, Arlington) -> /
+- Composites Division markets (marine, transportation, corrosion, aerospace, construction/architectural, cast polymer, advanced composites) -> /
+- Sign Supply and Plastics Division markets (digital printing, quick sign, glazing, industrial plastics) -> /
+- Company description as wholesale distributor of fiberglass reinforced plastics, cast polymers, sign supplies, thermoplastics -> db, /
 - Associations: American Composites Manufacturers Association, International Cast Polymer Association -> /
-- Founded year 1959 from db -> db
-- Headquarters city/state from db (Harahan, LA) but overridden by website -> db
+- Differentiator quote: large enough to partner with major manufacturers, yet nimble enough to offer exceptional support -> /
 </details>
 
 ---

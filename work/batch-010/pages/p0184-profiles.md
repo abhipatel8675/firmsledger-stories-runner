@@ -3,48 +3,57 @@
 **Old description:** Hess Equipment Solutions has obtained national certification as a Women's Business Enterprise by Women’s Business
 
 ## About
-Hess Equipment Solutions is based in St. Louis, Missouri. The company traces its roots to 1946 when Earl Hess began selling Berkel slicers and scales from a van. The business, originally known as Hess Meat Machines, was formally established in 1950 and expanded to a shop and warehouse on Gravois Avenue by 1961. In 2022, Rachel Herren became sole owner, and the firm earned national certification as a Women’s Business Enterprise through the Women’s Business Enterprise National Council (WBENC). It remains family‑owned and woman‑led.
+Hess Equipment Solutions is based in St. Louis, Missouri. Founded in 1946 by Earl Hess, who began selling Berkel slicers and scales from his van. The company remained family-owned and in 2022 became a WBENC-certified woman-owned business under sole owner Rachel Herren.
 
-Today Hess operates as a distributor and service provider for commercial kitchen and food‑processing equipment. Its product portfolio includes cooking, baking, smoking, weighing, labeling, and frozen‑dessert systems from brands such as Berkel, Southern Pride, Carpigiani, Mettler Toledo, Henny Penny, Hollymatic, Fri‑Jado, and Jaccard. The company also offers equipment repair, preventative‑maintenance plans, 24/7 emergency service, consulting, and training programs. It serves customers across Nebraska, Kansas, southern Illinois, Missouri, and Iowa.
+The firm operates as a distributor and full-service provider for commercial kitchen and food-processing equipment. It sells, installs, and services equipment from brands such as Berkel, Henny Penny, Carpigiani, Mettler Toledo, Hollymatic, and Southern Pride. Its service division offers 24/7 emergency repair, preventative-maintenance plans, operator training, and consulting for kitchen design and workflow.
 
-Hess targets food‑retail, food‑service, and food‑processing operations. Its client base includes supermarket chains, butcher shops, convenience stores, restaurants, caterers, and other institutional kitchens. The firm points to long‑standing partnerships with manufacturers — such as a 40‑year run as a top‑10 Berkel distributor and a Henny Penny Service Excellence Award in 2020 — as evidence of its industry standing.
+Hess serves food retailers, food-service operators, and food processors across Nebraska, Kansas, southern Illinois, Missouri, and Iowa. Customers include supermarket chains, butcher shops, convenience stores, restaurants, caterers, and institutional kitchens.
 
-The company says its founding mission was to replace hand tools with reliable equipment, and its current differentiation rests on a combination of deep product knowledge, round‑the‑clock technical support, and a partnership model that aims to reduce downtime and improve bottom‑line results for food‑service operators.
+The company emphasizes its 75-plus years of industry experience and a partnership-driven approach, positioning its expertise in operations, equipment, and business consulting as a way to solve customers’ largest challenges.
 
 ## Known for
+- WBENC-certified woman-owned business (since 2022)
+- Family-owned since 1946
 - 24/7 on-call technical support
 - Preventative maintenance plans
-- WBENC‑certified woman‑owned business
-- Family‑owned since 1946
 - Top 10 Berkel distributor for 40 years
 
 ## Capabilities
 - Equipment sales and distribution
-- Equipment repair and maintenance
-- Preventative maintenance plans
+- Equipment installation
 - 24/7 emergency repair service
-- Consulting for food service operations
-- Training programs for equipment operation
+- Preventative maintenance programs
+- Operator training programs
+- Kitchen consulting and design
 - Scale and wrapper solutions
+- Custom fit equipment solutions
 
 ## Industries
 - Food retail
 - Food service
 - Food processing
+- Supermarket chains
+- Butcher shops
+- Convenience stores
+- Restaurants
+- Caterers
+- Institutional food service
 
 ## Equipment
 - Berkel slicers and scales
 - Southern Pride smokers
+- Henny Penny F5 fryer
+- Henny Penny combi ovens
 - Carpigiani frozen dessert machines
-- Mettler Toledo scales
-- Henny Penny combi ovens and fryers
-- Hollymatic mixer grinders and portioners
+- Mettler Toledo FreshBase Lite scales
+- Hollymatic 4300 mixer grinder
+- Hollymatic PortionPro 320 portioner
+- Jaccard J350G gravity slicer
 - Fri-Jado modular counters
-- Jaccard gravity slicer
 
 ## Certifications
-- WBENC
-- Women's Business Enterprise (WBE)
+- WBENC (Women's Business Enterprise National Council)
+- Women's Business Enterprise (WBE) certification
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -54,18 +63,16 @@ The company says its founding mission was to replace hand tools with reliable eq
 
 <details><summary>Sources</summary>
 
-- Founded 1946 by Earl Hess selling Berkel slicers from a van -> /about-us
-- Formally started Hess Meat Machines in 1950 -> /about-us
-- WBENC certified woman-owned in 2022 -> /about-us
-- Rebranded to Hess Equipment Solutions in 2024 -> /about-us
+- Founded 1946 by Earl Hess selling Berkel slicers from van -> /about-us
+- Woman-owned since 2022, WBENC certified -> /about-us
+- Family-owned -> /about-us
 - Headquarters St. Louis, Missouri -> db
-- Serves Nebraska, Kansas, Southern Illinois, Missouri, Iowa -> /
-- Industries: food retail, food service, food processing -> /about-us
-- Customer types: supermarket chains, butcher shops, convenience stores, restaurants, caterers -> /about-us
-- Brands: Berkel, Southern Pride, Carpigiani, Mettler Toledo, Henny Penny, Hollymatic, Fri-Jado, Jaccard -> /
-- Services: equipment sales, repair, preventative maintenance, 24/7 support, consulting, training -> /
+- Services: equipment sales, 24/7 repair, preventative maintenance, training, consulting -> /
+- Industries served: food retail, food service, food processing; customers: supermarket chains, butcher shops, convenience stores, restaurants, caterers, institutions -> /about-us
+- Geographic coverage: Nebraska, Kansas, Southern Illinois, Missouri, Iowa -> /
+- Equipment brands: Berkel, Henny Penny, Carpigiani, Mettler Toledo, Hollymatic, Southern Pride, Jaccard, Fri-Jado -> /
 - Awards: Top 10 Berkel distributor 40 years, Henny Penny Service Excellence Award 2020 -> /about-us
-- Family-owned, woman-led by Rachel Herren -> /about-us
+- Certifications: WBENC, Women's Business Enterprise -> /
 </details>
 
 ---
@@ -75,76 +82,80 @@ The company says its founding mission was to replace hand tools with reliable eq
 **Old description:** Hi-Tech Mold & Engineering's Tech Center is fully operational performing tryouts utilizing Core Back and Coining Technologies, Injection-Compression, Gas Assist Molding, Insert Molding, Injection Molding, Low Pressure Molding, and Smartfoil Molding.  We are a state of the art machinery, automation and technology development center offering in-house tooling support for all tryouts and mold validation.  Our equipment is fully automated with modern control systems.
 
 ## About
-Hi-Tech Mold & Engineering, operating as Hi-Tech Mold Carolina, is a family-owned and operated business based in Westminster, South Carolina. The company serves as a full-service supplier for the plastics and tooling industries, with a technology center that performs mold tryouts and validation using advanced molding processes.
+Hi-Tech Mold & Engineering operates a technology center in Westminster, South Carolina. The company is a family-owned and operated business, though its founding year and founders are not publicly disclosed. It began as a mold making and engineering firm and has expanded into a full-service supplier for the plastics and tooling industries.
 
-The company provides plastic injection molded components, value-added assembly, and product design and development. Its capabilities span 5-axis CNC machining, additive manufacturing, EDM, benching and polishing, tool assembly, and a CMM laboratory. The Tech Center runs fully automated equipment for core back and coining, injection-compression, gas assist, insert molding, low pressure molding, and Smartfoil molding, with in-house tooling support for all tryouts and mold validation.
+The company provides a wide range of manufacturing processes including plastic injection molding with specialized technologies such as core back and coining, injection-compression, gas assist, insert molding, low pressure molding, and Smartfoil molding. Its capabilities extend to CNC machining (including 5-axis), EDM, benching and polishing, tool assembly, additive manufacturing and 3D printing, CMM inspection, and program management. The tech center offers in-house tooling support for tryouts and mold validation, and the company provides 24-hour service and repairs. Facility size, headcount, and production volumes are not disclosed.
 
-Hi-Tech Mold Carolina serves automotive, defense, medical device, electric vehicle, aerospace, appliance, ATV, and recreational vehicle markets. The company maintains strategic alliances with global partners to offer single-point management for major programs, from small tool packages to entire vehicle platforms.
+Hi-Tech Mold & Engineering serves customers in automotive, defense, medical devices, electric vehicles, aerospace, appliances, ATVs, and recreational vehicles. It maintains strategic alliances with global partners to offer single-point management for major programs, from small tool packages to entire vehicle platforms.
 
-The company emphasizes a 'First Time, On Time, Every Time' philosophy, positioning itself as an industry leader that executes challenging programs through continuous innovation. Its quality system is certified to ISO 9001:2015, IATF 16949, and AS9100D.
+The company emphasizes a "First Time, On Time, Every Time" philosophy and positions itself as an industry leader that executes challenging programs with continuous innovation. Its family ownership underscores a commitment to team member dedication and superior quality engineering.
 
 ## Known for
-- Family-owned and operated
-- In-house tooling support for all tryouts and mold validation
-- Fully automated equipment with modern control systems
-- Strategic alliances with global partners for single-point program management
-- 24-hour service and repairs
+- Family-owned and operated with emphasis on team dedication
+- 24-hour service and repair availability
+- In-house tooling support for tryouts and mold validation
+- Strategic global alliances for single-point program management
+- Advanced molding technologies including core back, gas assist, and Smartfoil
 
 ## Capabilities
-- 5-axis CNC machining
-- Additive manufacturing (3D printing)
-- Plastic injection molding
-- Value-added assembly
-- Product design and development
-- Program management
-- Engineered solutions
+- Program Management
+- Engineered Solutions
+- CNC Machining
+- 5-Axis Machining
 - EDM
-- Benching and polishing
-- Tool assembly
-- CMM laboratory
-- Mold tryouts and validation
-- Core back and coining technologies
-- Injection-compression molding
-- Gas assist molding
-- Insert molding
-- Low pressure molding
-- Smartfoil molding
-- 24-hour service and repairs
+- Benching and Polishing
+- Tool Assembly
+- Additive Manufacturing and 3D Printing
+- CMM Inspection
+- Tryouts and Mold Validation
+- 24-Hour Service and Repairs
+- Core Back and Coining Technologies
+- Injection-Compression Molding
+- Gas Assist Molding
+- Insert Molding
+- Injection Molding
+- Low Pressure Molding
+- Smartfoil Molding
+- Plastic Injection Molded Components
+- Value-added Assembly
+- Product Design and Development
 
 ## Industries
 - Automotive
 - Defense
-- Medical devices
-- Electric vehicles
+- Medical Devices
+- Electric Vehicles
 - Aerospace
 - Appliances
 - ATVs
-- Recreational vehicles
-- Plastics industry
-- Tooling industry
+- Recreational Vehicles
+
+## Equipment
+- 5-axis machining centers
+- CMM equipment
 
 ## Certifications
-- ISO 9001:2015
 - IATF 16949
 - AS9100D
+- ISO 9001:2015
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Ownership:** Family-owned
 - **Headquarters:** Westminster, South Carolina
 
 <details><summary>Sources</summary>
 
-- Headquarters: Westminster, South Carolina -> db
-- Family-owned and operated -> /
-- Certifications: ISO 9001:2015, IATF 16949, AS9100D -> /
-- Industries served: Automotive, Defense, Medical Devices, Electric Vehicles, Aerospace, Appliances, ATVs, Recreational Vehicles -> /
-- Capabilities: 5-axis CNC machining, additive manufacturing, plastic injection molding, value-added assembly, product design, program management, EDM, benching/polishing, tool assembly, CMM lab, mold tryouts/validation, various molding processes -> /, /capabilities
-- Tech Center with in-house tooling support and fully automated equipment -> /
-- Strategic alliances with global partners for single-point program management -> /
-- 24-hour service and repairs -> /capabilities
-- First Time, On Time, Every Time philosophy -> /
-- Mission: full service supplier for plastics and tooling industries -> /about-us
+- Family owned and operated business -> /
+- Headquarters in Westminster, South Carolina -> db
+- Certifications: IATF 16949, AS9100D, ISO 9001:2015 -> /
+- Capabilities: Program Management, Engineered Solutions, Machining, EDM, Benching and Polishing, Tool Assembly, Additive Manufacturing and 3D Printing, CMM Laboratory, Tryouts and Mold Validation, 24 Hour Service and Repairs -> /capabilities
+- Molding technologies: Core Back and Coining Technologies, Injection-Compression, Gas Assist Molding, Insert Molding, Injection Molding, Low Pressure Molding, Smartfoil Molding -> /
+- Industries served: Automotive, Defense, Medical Devices, Electrical Vehicles, Aerospace, Appliances, ATV's, Recreational Vehicles -> /
+- Strategic alliances with global partners for single point management -> /
+- In-house tooling support for tryouts and mold validation -> /
+- Advanced 5-axis machining capabilities -> /
+- First Time, On Time, Every Time philosophy -> /about-us
 </details>
 
 ---
@@ -154,54 +165,53 @@ The company emphasizes a 'First Time, On Time, Every Time' philosophy, positioni
 **Old description:** AC Inlets/Outlets; Adhesives; Audio Transducers; Aluminum Electrolytic Caps; Blowers; Cable Assemblies; Capacitors – All Forms; Cases – Tool & Foam filled; Chip Attenuators; Connectors; Crystals; D-Subs; DC/DC Inverters; Delay Lines; Diodes; Enclosures; Fans; Ferrite Beads; Hardware; Heat Shrink Tubing; Headers; Heat Pipes; Heat Sinks; IC's; Inductors;
 
 ## About
-Hi-Tek Electronics Inc. was founded in 1983 in Canton, Massachusetts. The privately held company operates from a facility Suite 2, and has served the New England region for over four decades.
+Hi-Tek Electronics Inc was founded in 1983 in Canton, Massachusetts. The company operates as a distributor of electronic components from its headquarters
 
-The company distributes a wide range of electronic components, including capacitors, resistors, connectors, semiconductors, magnetics, electromechanical hardware, and thermal management products. Beyond distribution, Hi-Tek offers value-added services such as kitting (assembling bill-of-materials kits), lead forming, custom LED arrays, custom cable assembly, and dock-to-stock inventory programs. It holds authorized franchised distributor agreements with numerous discrete and passive component manufacturers.
+The firm stocks a broad line of passive and discrete components including capacitors, connectors, inductors, semiconductors, magnets, and thermal management products. Its catalog lists AC inlets/outlets, adhesives, audio transducers, aluminum electrolytic capacitors, blowers, cable assemblies, crystals, D‑subs, DC/DC inverters, delay lines, diodes, enclosures, fans, ferrite beads, hardware, heat shrink tubing, headers, heat pipes, heat sinks, ICs, and inductors. Hi-Tek is an authorized franchised distributor for manufacturers such as Isocom Components, Surge Components, Circuit Assembly Corp., Data Display Products, Precision Resistive Products, E&E Magnetic Products, IQD Frequency Products, Taitron Components, and Wintec Industries. Beyond distribution, Hi-Tek provides value‑added services: kitting (assembling bill‑of‑materials kits), lead forming, custom LED arrays, custom cable assembly, and dock‑to‑stock inventory programs.
 
-Hi-Tek’s customers include original equipment manufacturers, cable assembly houses, and other distributors serving the consumer, commercial, military, and medical electronics markets. The company also supports applications in telecommunications, LAN infrastructure, power magnetics, and DC/DC power conversion.
+Hi-Tek serves original equipment manufacturers, cable assembly houses, and other distributors across consumer, commercial, military, and medical electronic systems. Its customer base also includes telecommunications, LAN, power magnetics, and DC/DC converter applications.
 
-Hi-Tek emphasizes design-in assistance, where its representatives work with engineers to identify alternative components that reduce production costs. The firm also conducts intensive product training workshops to educate customers on new technologies.
+The company emphasizes design‑in support, helping engineers select components for new designs, prototypes, and second‑source qualifications to reduce production costs. Its value‑added services are offered at multiple levels to match project requirements.
 
 ## Known for
 - Authorized franchised distributor for discrete and passive component manufacturers
-- Value-added services: kitting, lead forming, custom LED arrays, custom cable assembly, dock-to-stock
-- Design-in assistance to lower production costs
-- Product training workshops for customers
+- Value‑added services: kitting, lead forming, custom LED arrays, custom cable assembly, dock‑to‑stock
+- Design‑in support for new designs, prototypes, and second sourcing
+- Serves consumer, commercial, military, and medical electronic markets
 
 ## Capabilities
-- Kitting (bill-of-materials assembly)
-- Lead forming
-- Custom LED array assembly
-- Custom cable assembly
-- Dock-to-stock inventory management
-- Product training workshops
-- Design-in engineering support
+- Kitting
+- Lead Forming
+- Custom LED Arrays
+- Custom Cable Assembly
+- Dock-to-Stock Inventory Management
 
 ## Industries
-- Consumer electronics
-- Commercial electronics
-- Military/defense
-- Medical devices
+- Consumer Electronics
+- Commercial Electronics
+- Military
+- Medical
 - Telecommunications
-- Networking (LAN)
-- Power electronics
+- LAN
+- Power Magnetics
+- DC/DC Converters
 
 ## Company details
 - **Company Type:** Distributor / reseller
 - **Founded:** 1983
-- **Headquarters:** Canton, MA
+- **Headquarters:** Canton, Massachusetts
 
 <details><summary>Sources</summary>
 
 - Founded 1983 -> db
-- Headquarters Canton, MA -> db
-- Distributor of electronic components -> pages:/
-- Value-added services: kitting, lead forming, custom LED arrays, custom cable assembly -> pages:/
-- Authorized franchised distributor for discrete and passive components -> pages:/
-- Serves consumer, commercial, military, medical markets -> pages:/
-- Serves telecommunications, LAN, power magnetics, DC/DC -> pages:/
-- Design-in assistance to reduce production costs -> pages:/
-- Product training workshops -> pages:/
+- Headquarters Canton, Massachusetts -> db, page:/
+- Distributor of electronic components -> page:/
+- Authorized franchised distributor for manufacturers -> page:/
+- Value-added services: kitting, lead forming, custom LED arrays, custom cable assembly, dock-to-stock -> page:/, capabilities
+- Industries served: consumer, commercial, military, medical, telecommunications, LAN, power magnetics, DC/DC -> page:/, industries_served
+- Customer types: manufacturers, cable assembly houses, distributors -> page:/
+- Design-in support for new designs, prototypes, second source -> page:/
+- Manufacturer lines: Isocom Components, Surge Components, Circuit Assembly Corp., Data Display Products, Precision Resistive Products, E&E Magnetic Products, IQD Frequency Products, Taitron Components, Wintec Industries -> products
 </details>
 
 ---
@@ -211,45 +221,47 @@ Hi-Tek emphasizes design-in assistance, where its representatives work with engi
 **Old description:** In a field driven by the demand for quality - where purity is measured in "parts per trillion" - HSA has established itself as an industry leader. With a relentless pursuit of the highest level of excellence in every phase of corporate growth and development, HSA is committed to the "never-ending process" - the Continuum of Quality. We strive to understand and meet the needs of our employees, customers and neighbors. We continually look for ways to improve our processes, procedures, people, and products; because we realize that quality is a never-ending process. We strive to become the industry's preferred supplier of Polysilicon by satisfying our customer's needs for product performance, technical service and on-time delivery.
 
 ## About
-High-Purity Silicon America Corporation (HSA) operates from Theodore, Alabama. The company was incorporated in 1996 as Mitsubishi Polycrystalline America Corporation, a wholly owned subsidiary of Mitsubishi Materials Corporation. It later became part of the SUMCO group of companies.
+High-Purity Silicon America Corporation (HSA) operates from Theodore, Alabama. The company was incorporated in 1996 as Mitsubishi Polycrystalline America Corporation, a wholly owned subsidiary of Mitsubishi Materials Corporation (MMC). In recent years it became part of the SUMCO group of companies, a global leader in silicon wafer manufacturing.
 
-HSA manufactures polycrystalline silicon (polysilicon) in reduction furnaces. The facility also produces silicon tetrachloride and trichlorosilane as byproducts, which serve as raw materials for epitaxial semiconductors and fiber optic cables. Quality analysis includes floating zone conversion to single crystal silicon, photoluminescence detection of dopants at parts-per-trillion levels, and ICP mass spectroscopy for metallic impurities. Additional analytical capabilities cover gas chromatography, Fourier transform infrared spectroscopy, and ICP atomic emission spectroscopy for saline product purity.
+HSA manufactures polycrystalline silicon (polysilicon) in reduction furnaces at its Theodore facility. The plant also yields semiconductor-grade by-products — silicon tetrachloride and trichlorosilane — that serve as raw materials for epitaxial semiconductors and fiber-optic cables. Quality control relies on ultra-micro analysis equipment: floating-zone (Fz) conversion to single-crystal silicon for electrical-property measurement, photoluminescence (PL) for dopant detection down to parts-per-trillion levels, and ICP mass spectroscopy (ICP-MS) for metallic impurity screening. Additional analytical capabilities include gas chromatography (GC), Fourier-transform infrared spectroscopy (FTIR), and ICP atomic emission spectroscopy (ICP-AES).
 
-The company supplies semiconductor manufacturers and fiber optic cable producers. Its polysilicon targets the semiconductor industry, while its byproduct saline products feed epitaxial semiconductor and fiber optic cable supply chains.
+The company supplies polysilicon and saline by-products to the semiconductor and fiber-optic industries. Its materials feed epitaxial wafer production and optical-cable manufacturing, where purity measured in parts per trillion is a prerequisite.
 
-HSA emphasizes a "Continuum of Quality" philosophy, describing quality as a never-ending process. It aims to become the industry's preferred polysilicon supplier by meeting customer requirements for product performance, technical service, and on-time delivery.
+HSA describes its guiding philosophy as a "Continuum of Quality" — a never-ending process of improving processes, procedures, people, and products to become the industry's preferred polysilicon supplier through product performance, technical service, and on-time delivery.
 
 ## Known for
-- Ultra-micro analysis detecting impurities at parts-per-trillion levels
-- Floating zone method for single crystal silicon conversion and electrical property measurement
-- Photoluminescence detection of donor and acceptor elements at ppt concentrations
-- ICP-MS analysis of metallic impurities in bulk and surface at ppt levels
-- ISO 9001:2015 and ISO 14001:2015 certified quality and environmental management
+- "Continuum of Quality" continuous-improvement philosophy
+- Ultra-micro analysis capability down to parts per trillion
+- On-time delivery commitment
+- Part of the SUMCO global silicon wafer group
+- Dual ISO 9001:2015 and ISO 14001:2015 certification
 
 ## Capabilities
-- Polycrystalline silicon production
+- Polysilicon production
 - Reduction furnace operation
-- Floating zone crystal growth
-- Photoluminescence spectroscopy
+- Floating zone (Fz) analysis
+- Photoluminescence (PL) analysis
 - ICP mass spectroscopy (ICP-MS)
 - Gas chromatography (GC)
 - Fourier transform infrared spectroscopy (FTIR)
 - ICP atomic emission spectroscopy (ICP-AES)
 - Semiconductor-grade saline product analysis
-- Byproduct recovery (silicon tetrachloride, trichlorosilane)
+- Silicon tetrachloride production
+- Trichlorosilane production
 
 ## Industries
 - Semiconductor
 - Fiber optics
+- Epitaxial semiconductors
 
 ## Equipment
 - Reduction furnaces
 - Floating zone equipment
-- Photoluminescence spectrometer
-- ICP-MS system
-- Gas chromatograph
-- FTIR spectrometer
-- ICP-AES system
+- Photoluminescence equipment
+- ICP-MS equipment
+- Gas chromatography equipment
+- FTIR equipment
+- ICP-AES equipment
 
 ## Certifications
 - ISO 9001:2015
@@ -258,23 +270,23 @@ HSA emphasizes a "Continuum of Quality" philosophy, describing quality as a neve
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1996
-- **Ownership:** Wholly owned by Mitsubishi Materials Corporation; part of SUMCO group
+- **Ownership:** Wholly owned by Mitsubishi Materials Corporation (MMC), now part of SUMCO group
 - **Headquarters:** Theodore, Alabama
 
 <details><summary>Sources</summary>
 
-- Founded in 1996 as Mitsubishi Polycrystalline America Corporation -> /
-- Wholly owned by Mitsubishi Materials Corporation -> /
-- Now part of SUMCO group -> /
+- Incorporated in 1996 as Mitsubishi Polycrystalline America Corporation -> /
+- Wholly owned by Mitsubishi Materials Corporation (MMC) -> /
+- Recent addition to SUMCO group of companies -> /
 - Headquartered in Theodore, Alabama -> db
-- Produces polycrystalline silicon in reduction furnaces -> /quality
-- Produces silicon tetrachloride and trichlorosilane as byproducts -> /quality
-- Uses floating zone method for single crystal conversion -> /quality
-- Uses photoluminescence for donor/acceptor detection at ppt level -> /quality
-- Uses ICP-MS for metallic impurity analysis at ppt level -> /quality
+- Produces polycrystalline silicon using reduction furnaces -> /quality
+- Produces silicon tetrachloride and trichlorosilane as by-products -> /quality
+- Uses floating zone (Fz) method for analysis -> /quality
+- Uses photoluminescence (PL) for dopant detection down to ppt -> /quality
+- Uses ICP-MS for metallic impurity analysis down to ppt -> /quality
 - Uses GC, FTIR, ICP-AES, ICP-MS for saline product analysis -> /quality
-- Certified to ISO 9001:2015 and ISO 14001:2015 -> /quality
-- Serves semiconductor and fiber optic industries -> /quality
+- ISO 9001:2015 certified -> /quality
+- ISO 14001:2015 certified -> /quality
 </details>
 
 ---
@@ -284,30 +296,31 @@ HSA emphasizes a "Continuum of Quality" philosophy, describing quality as a neve
 **Old description:** Since 2010, we’ve provided innovative solar panel solutions with the highest quality materials available. At Hightec Solar, we’re always looking to improve our products and processes. We take every opportunity to be ahead of the game and do whatever it takes to ensure your system performs at its best.
 
 ## About
-Hightec Solar was founded in 2010 in Michigan City, Indiana. The company began with a mission to provide affordable, high-quality solar power systems to customers, though it does not disclose founder names or ownership structure.
+Hightec Solar, based in Michigan City, Indiana, was founded in 2010 with a mission to provide affordable, high-quality solar power systems. The company does not disclose its founders or ownership structure.
 
-The company manufactures 12-volt solar panels in 36-, 60-, and 72-cell configurations, along with accessories for off-grid applications. It also operates as one of the Midwest's largest solar panel distributors. Production uses state-of-the-art manufacturing equipment, though specific facility size and headcount are not public.
+The company manufactures solar panels in 36-, 60-, and 72-cell configurations, focusing on 12-volt modules for off-grid applications. It also operates as a distributor, supplying panels for projects ranging from single units to 100-megawatt installations. Production uses what the company describes as state-of-the-art equipment and high-quality components, though specific machinery, facility size, and headcount are not disclosed.
 
-Hightec Solar serves the off-grid solar market, supplying systems ranging from single panels to 100-megawatt installations. Customers include residential homeowners, RV owners, and commercial projects seeking off-grid power solutions.
+Hightec Solar serves the off-grid solar market, including residential homeowners, RV owners, and commercial projects. Customer testimonials cite multi-year reliability for off-grid cabins and RV installations. The company positions itself as a Midwest distributor capable of fulfilling orders from one panel to utility-scale volumes.
 
-The company emphasizes its PTL certification as a mark of quality and reliability. It differentiates itself through American-made products, scalable solutions, and a focus on customer service.
+Hightec Solar emphasizes its PTL certification as a mark of quality and reliability. It promotes American-made manufacturing, competitive pricing, and direct customer support as differentiators. The company states it was started to make high-performance solar systems accessible and to maintain a high level of customer satisfaction through straightforward communication.
 
 ## Known for
 - PTL certification for quality assurance
-- American-made 12V solar panels for off-grid market
-- Midwest's largest panel distributor
-- Scalable solutions from 1 panel to 100 megawatts
+- American-made solar panel manufacturing
+- Specialization in 12-volt off-grid solar panels
+- Distribution capacity from single panels to 100 MW projects
+- Direct customer support and system consultation
 
 ## Capabilities
-- Solar panel manufacturing (12V, 36/60/72 cell)
+- Solar panel manufacturing (36, 60, 72 cell)
 - Solar panel distribution
-- Off-grid solar system design
-- Custom solar solutions
+- Off-grid solar system design consultation
 
 ## Industries
 - Off-grid solar
 - Residential solar
 - RV solar
+- Commercial solar
 
 ## Certifications
 - PTL Certified
@@ -321,12 +334,12 @@ The company emphasizes its PTL certification as a mark of quality and reliabilit
 
 - Founded in 2010 -> /about-us
 - Headquartered in Michigan City, Indiana -> /
-- Manufactures 12V solar panels (36/60/72 cell) -> /
-- Operates as Midwest's largest panel distributor -> /
+- Manufactures 36, 60, 72 cell solar panels -> /
+- Specializes in 12 volt off-grid solar panels -> /
 - PTL Certified -> /about-us
-- Serves off-grid solar market from 1 panel to 100 megawatts -> /
-- American-made products -> /
-- State-of-the-art manufacturing equipment -> /
+- Claims to be one of Midwest's largest panel distributors -> /
+- Offers solutions from 1 panel to 100 megawatts -> /
+- Customer testimonials from Jeremiah B., Tamara Fowler, Steve Lenhart -> /
 </details>
 
 ---
@@ -336,32 +349,31 @@ The company emphasizes its PTL certification as a mark of quality and reliabilit
 **Old description:** This striking Claro Walnut slab showcases rich chocolate and golden tones with dramatic, flowing grain and natural live edges that highlight its organic beauty. Sourced from a prized California hardwood, it features unique swirling patterns and figure, making it a one-of-a-kind piece ideal for a statement table or custom furniture project. Claro Walnut is a natural hybrid of black walnut and English walnut, valued for its strength, stability, and exceptional visual character.
 
 ## About
-Hillside Timber operates from Canistota, South Dakota, about 15 miles west of Sioux Falls along Highway 42. The company’s founding year and ownership structure are not publicly disclosed. It began as a premium supplier of live‑edge and distinctive wood, focusing on sustainably sourced slabs.
+Hillside Timber operates from Canistota, South Dakota, about 15 miles west of Sioux Falls along Highway 42. The company specializes in supplying live-edge and distinctive wood slabs, sourcing material from trees that are being removed for various reasons rather than harvested from standing timber. No founding year or ownership details are disclosed.
 
-The business sources, mills, planes, and sells live‑edge wood slabs, with a specialty in custom milling of customer‑supplied logs. Its inventory features species such as Claro walnut, buckeye burl, maple burl, redwood burl, silver maple, and box elder, many imported from California. Slabs are often pre‑sanded and pre‑flattened. Hillside Timber also distributes EcoPoxy bio‑based epoxy resins for woodworking and marine applications.
+The business handles the full chain from sourcing to sales, offering milling, planing, sanding, and flattening services. Customers can purchase ready-to-use slabs — including Claro walnut, buckeye burl, maple burl, redwood burl, silver maple, and box elder — or bring their own logs for custom milling. Hillside Timber also distributes EcoPoxy bio-based epoxy resins for woodworking, art, construction, and marine applications.
 
-The company serves furniture makers, woodworkers, artisans, and designers seeking unique slabs for custom tables, feature walls, and bespoke projects. Its custom milling service also appeals to landowners and sawyers who have logs to process.
+The slabs are marketed toward furniture makers, woodworkers, and artisans building statement tables, feature walls, and custom pieces. The EcoPoxy line extends the customer base to builders and marine trades seeking sustainable coatings.
 
-Hillside Timber emphasizes sustainable harvesting, stating it only cuts trees that are already coming down for other reasons. This approach, combined with ready‑to‑use pre‑flattened slabs and a local milling service, distinguishes the operation in the regional market.
+The company emphasizes its sustainable sourcing policy — only using wood from trees already coming down — as a core differentiator, alongside its ability to mill and prepare custom slabs on demand.
 
 ## Known for
-- Sustainable sourcing: only harvests trees already coming down for other reasons
-- Custom milling and planing services for customer‑supplied logs
-- Pre‑sanded and pre‑flattened slabs ready for immediate use
-- Partnership with EcoPoxy for bio‑based epoxy resins
-- Live‑edge slabs from California and regional species
+- Sustainable sourcing: only wood from trees coming down
+- Custom slab milling and planing service
+- Pre-sanded and pre-flattened slabs ready for use
+- Partnership with EcoPoxy for bio-based epoxy resins
+- Live-edge slabs in rare species like Claro walnut and buckeye burl
 
 ## Capabilities
 - Custom slab milling
-- Log milling
+- Wood sourcing
 - Planing
-- Pre‑sanding
-- Pre‑flattening
-- Live‑edge wood slab sales
-- Eco‑friendly epoxy resin distribution (EcoPoxy)
+- Sanding
+- Flattening
+- Live edge slab sales
+- EcoPoxy epoxy resin distribution
 
 ## Industries
-- Furniture manufacturing
 - Woodworking
 - Art
 - Construction
@@ -373,16 +385,15 @@ Hillside Timber emphasizes sustainable harvesting, stating it only cuts trees th
 
 <details><summary>Sources</summary>
 
-- Location: Canistota, SD -> db
-- Headquarters: Canistota, South Dakota -> db
+- Location: Canistota, South Dakota -> db
+- Business: premium supplier of live edge wood -> /about
 - Specialties: sourcing, milling, planing, sales -> /about
-- Sustainable harvesting: only harvest trees coming down -> /about
-- Custom milling service for logs -> /
-- EcoPoxy partnership for bio‑based epoxy resins -> /
-- Wood species: Claro Walnut, Buckeye Burl, Maple Burl, Redwood Burl, Silver Maple, Box Elder -> /
-- Pre‑sanded and pre‑flattened slabs -> /
-- Serves furniture makers, woodworkers, artisans -> /
-- Custom furniture projects, feature walls, bespoke projects -> /
+- Sustainable sourcing: only harvest wood from trees coming down -> /about
+- Custom slabs & milling service -> /
+- Partnership with EcoPoxy for epoxy resins -> /
+- Wood species offered: Claro Walnut, Buckeye Burl, Maple Burl, Redwood Burl, Silver Maple, Box Elder -> /
+- Pre-sanded and pre-flattened slabs -> /
+- Applications: woodworking, art, construction, marine -> /
 </details>
 
 ---
@@ -392,39 +403,40 @@ Hillside Timber emphasizes sustainable harvesting, stating it only cuts trees th
 **Old description:** Your roof is the main defense against the elements and one of the larger financial decisions you'll make for your home. We can walk you through the best options to fit your needs and then handle the complete installation.
 
 ## About
-Based in Hilton Head Island, South Carolina, Hilton Head Sheet Metal and Trim has served the Lowcountry for more than two decades. The company operates from a facility on Trellis Court, providing custom sheet metal and trim fabrication alongside a full line of roofing supplies.
+Hilton Head Sheet Metal and Trim operates from Hilton Head Island, South Carolina, serving the Lowcountry region for over two decades. The company provides custom sheet metal and trim fabrication from its facility at 10 Trellis Court, though its founding year and ownership structure are not publicly disclosed.
 
-It also produces roofing profiles, flashing for windows and siding, and metal roofing systems with integrated flashing. Beyond fabrication, the company stocks metal materials, trim, carpentry items, and roofing supplies for pickup or delivery, and offers custom panel profiles beyond its standard standing seam line.
+The shop specializes in in-house fabrication of standing seam metal panels ranging from 1 to 1-1/2 inches, along with matching flashing, chimney windscreens, custom chimney caps, and trim coil products. It also produces roofing profiles and trim flashing for windows, siding, and various roofing systems including shingle, metal, and flat roofs. Capabilities extend to carpentry services, and the company stocks metal materials and roofing supplies for pickup or delivery during business hours.
 
-Customers include residential and commercial contractors as well as homeowners throughout the region. The business supports roofing projects of all types—shingle, metal, and flat roofs—and handles chimney upgrades, maintenance, and storm-damage repairs. Its sister company, Luna Roofing, handles installation while Hilton Head Sheet Metal and Trim focuses on fabrication and supply.
+Customers include both homeowners and contractors across residential and commercial construction projects. The firm works directly with property owners on new builds, repairs, and storm-damage refurbishments, while also supplying trade professionals. For installation needs, it refers clients to its sister company, Luna Roofing, also based on Hilton Head Island.
 
-The company emphasizes a service guarantee, bilingual support in Spanish, and a one-stop-shop model that combines roofing knowledge with quality parts and equipment. It aims to save clients time and money by managing both custom fabrication and material supply under one roof.
+The company emphasizes service guarantees, bilingual support in Spanish, and a consultative approach that combines roofing expertise with custom fabrication to save clients time and money. It positions itself as a one-stop source for metal materials, trim, and roofing supplies on the island.
 
 ## Known for
 - In-house sheet metal and trim fabrication
-- Pickup or delivery available during business hours
-- Service and satisfaction guaranteed
-- Bilingual service (Spanish)
-- One-stop shop for metal materials, trim, carpentry, and roofing supplies
+- Custom panel profiles beyond standard standing seam
+- Pickup or delivery during business hours
+- Service and satisfaction guarantee
+- Spanish-language customer support
 
 ## Capabilities
-- Custom sheet metal and trim fabrication
+- Custom sheet metal fabrication
+- Custom trim fabrication
 - Standing seam metal panel fabrication (1" to 1-1/2")
 - Chimney windscreens fabrication
 - Metal chimney caps fabrication
-- Trim coil and trim fabrication
-- Roofing profiles and flashing fabrication
+- Trim coil fabrication
+- Roofing profiles fabrication
+- Flashing fabrication for roofing systems
 - Trim flashing for windows and siding
-- Metal roofing system with flashing
-- Custom panel profile fabrication
-- Carpentry
-- Home design backsplash fabrication
+- Carpentry services
+- Metal roofing systems with flashing
 
 ## Industries
-- Residential construction
-- Commercial construction
-- Roofing
-- Metal fabrication
+- Residential roofing
+- Commercial roofing
+- Construction
+- Homeowners
+- Contractors
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -432,23 +444,23 @@ The company emphasizes a service guarantee, bilingual support in Spanish, and a 
 
 <details><summary>Sources</summary>
 
-- Location: Hilton Head Island, South Carolina -> /
-- Serving Lowcountry for over 20 years -> /
+- Location: Hilton Head Island, SC -> db
+- Address: 10 Trellis Ct, Hilton Head, SC 29926 -> /
+- Phone: 843-689-3335 -> /
 - In-house sheet metal & trim fabrication -> /
-- Custom fabrication for homeowners and contractors -> /services
 - Standing seam panels 1" to 1-1/2" -> /
-- Chimney windscreens and metal chimney caps -> /
-- Trim coil and trim fabrication -> /services
-- Roofing profiles, flashing for windows/siding -> /
-- Metal roofing system with flashing -> /services
-- Custom panel profiles available -> /services
-- Metal materials, trim, carpentry, roofing supplies -> /
-- Pickup or delivery -> /
+- Chimney windscreens & caps fabrication -> /
+- Trim coil fabrication -> /
+- Roofing profiles & flashing -> /
+- Trim flashing for windows/siding -> /
+- Serve homeowners and contractors -> /
 - Sister company Luna Roofing for installation -> /
-- Residential and commercial customers -> /services
-- Service & satisfaction guaranteed -> /services
-- Hablamos español -> /
-- One-stop shop for materials and fabrication -> /
+- Pickup/delivery available -> /
+- Residential and commercial -> /services
+- Spanish language support (Hablamos español) -> /
+- Service & satisfaction guarantee -> /services
+- Carpentry services -> /services
+- Over 20 years serving Lowcountry -> /
 </details>
 
 ---
@@ -458,35 +470,35 @@ The company emphasizes a service guarantee, bilingual support in Spanish, and a 
 **Old description:** Hino Motors Manufacturing, U.S.A., Inc. is a wholly-owned subsidiary of Hino Motors, Ltd. (Japan) and a Toyota Group Company. For four decades, Hino Motors, Ltd. has proudly manufactured the number one selling medium and heavy-duty truck in Japan. It also manufactures buses and diesel engines, Toyota's FJ Cruiser and Land Cruiser Prado.
 
 ## About
-Hino Motors Manufacturing U.S.A., Inc. is a wholly-owned subsidiary of Hino Motors, Ltd. of Japan and a Toyota Group company, headquartered in Marion, Arkansas. The parent company has spent four decades as Japan's top-selling manufacturer of medium- and heavy-duty trucks, also producing buses, diesel engines, and Toyota's FJ Cruiser and Land Cruiser Prado.
+Hino Motors Manufacturing U.S.A., Inc. is headquartered in Marion, Arkansas, and operates as a wholly-owned subsidiary of Hino Motors, Ltd. of Japan, which is part of the Toyota Group. The company's U.S. manufacturing footprint includes a medium-duty truck assembly plant in Mineral Wells, West Virginia, and a component facility in Marion that produces axles, knuckles, and suspension parts for Toyota's Tacoma, Tundra, and Sequoia models. A parts distribution center in Mira Loma, California serves Latin American and Caribbean markets with genuine Hino service parts.
 
-In the United States, the company assembles medium-duty Hino trucks at its Mineral Wells, West Virginia plant, while its Marion, Arkansas facilities stamp and machine axles, knuckles, and suspension components for the Toyota Tacoma, Tundra, and Sequoia. A parts distribution center in Mira Loma, California supplies genuine service parts to distributors across Latin America and the Caribbean. Operations span nine locations in five states, encompassing more than 2 million square feet of manufacturing space and employing over 1,000 people. The West Virginia plant has produced over 50,000 Hino trucks and recently added a custom factory paint shop in partnership with Axalta.
+The company employs over 1,000 people across nine locations in five states, with more than 2 million square feet of total plant space. At the West Virginia plant, Hino has assembled over 50,000 medium-duty trucks since production began. The Marion facility focuses on stamping and component manufacturing for Toyota light trucks, while the Mira Loma center handles service parts operations. A custom factory paint shop, added in partnership with Axalta, now offers factory-applied paint options for Hino trucks.
 
-The company serves the automotive and commercial-vehicle sectors, providing original-equipment components to Toyota and complete trucks under the Hino brand. Its aftermarket division supports Latin American and Caribbean distributors with service parts. Fleet operators such as Atlas Van Lines of Walpole, Massachusetts, run Hino trucks in daily service.
+Hino's primary customers include Toyota Motor Corporation for OEM components, Hino Trucks dealers and distributors throughout the Americas, and commercial fleets such as Atlas Van Lines. The company supplies axles, knuckles, and suspension components directly to Toyota's production lines, and distributes genuine Hino service parts to distributors in Latin America and the Caribbean.
 
-Hino emphasizes manufacturing excellence and customer-focused innovation, citing the Axalta paint partnership as raising the bar for the commercial-truck industry. The business was established to extend Hino's Japanese manufacturing leadership into the North American market.
+Hino emphasizes its integration with the Toyota Group and its long-standing position as Japan's top-selling medium- and heavy-duty truck maker. The recent addition of a custom paint shop with Axalta aims to raise the bar for factory finish quality in the commercial truck segment.
 
 ## Known for
-- Over 50,000 Hino trucks produced at the West Virginia plant
-- 2,000,000+ sq ft of manufacturing space across nine U.S. locations
-- Custom factory paint shop with Axalta at the West Virginia facility
-- Parts Distribution Center in Mira Loma, California serving Latin American and Caribbean markets
-- Wholly-owned subsidiary of Hino Motors, Ltd. (Japan) and Toyota Group Company
+- Custom factory paint shop at West Virginia plant in partnership with Axalta
+- Over 50,000 Hino trucks produced in West Virginia
+- 2,000,000+ sq ft of manufacturing space across 9 U.S. locations
+- Wholly-owned subsidiary of Hino Motors, Ltd. (Toyota Group)
+- Supplies genuine Hino service parts to Latin American and Caribbean distributors
 
 ## Capabilities
 - Stamping & Component Manufacturing
 - Service Parts Operations
-- Medium-duty truck assembly
-- Axle manufacturing
-- Knuckle manufacturing
-- Suspension component manufacturing
-- Custom factory painting
-- Parts distribution
+- Medium-duty Truck Assembly
+- Axle Manufacturing
+- Knuckle Manufacturing
+- Suspension Component Manufacturing
+- Custom Factory Paint
+- Parts Distribution
 
 ## Industries
-- Automotive
-- Commercial vehicle
-- Aftermarket parts distribution
+- Medium-duty Truck Manufacturing
+- Automotive OEM Components
+- Commercial Vehicle Parts Distribution
 
 ## Certifications
 - ISO 14001
@@ -494,22 +506,24 @@ Hino emphasizes manufacturing excellence and customer-focused innovation, citing
 ## Company details
 - **Company Type:** Manufacturer
 - **Employees:** 1000+
-- **Ownership:** Wholly-owned subsidiary of Hino Motors, Ltd. (Japan) and Toyota Group Company
+- **Ownership:** Wholly-owned subsidiary of Hino Motors, Ltd. (Japan), a Toyota Group Company
 - **Headquarters:** Marion, Arkansas
 
 <details><summary>Sources</summary>
 
-- Wholly-owned subsidiary of Hino Motors, Ltd. (Japan) and Toyota Group Company -> /
 - Headquartered in Marion, Arkansas -> db
-- Assembles medium-duty trucks at Mineral Wells, West Virginia plant -> /
-- Produces axles, knuckles, suspension components for Toyota Tacoma, Tundra, Sequoia at Marion, Arkansas -> /
-- Parts Distribution Center in Mira Loma, California supplies Latin American and Caribbean distributors -> /
-- Over 1,000 employees across nine locations in five states -> /
-- Over 2,000,000 sq ft of plant space -> /
-- Over 50,000 Hino trucks produced in West Virginia -> /
-- Custom factory paint shop with Axalta partnership at West Virginia plant -> /
+- Wholly-owned subsidiary of Hino Motors, Ltd. (Japan), a Toyota Group Company -> page /
+- Assembles medium-duty trucks at Mineral Wells, West Virginia plant -> page /
+- Manufactures axles, knuckles, suspension components for Toyota Tacoma, Tundra, Sequoia at Marion, Arkansas -> page /
+- Parts Distribution Center in Mira Loma, California supplies Latin American and Caribbean distributors -> page /
+- Over 1,000 employees across 9 locations in 5 states -> page /
+- Over 50,000 Hino trucks produced in West Virginia -> page /
+- 2,000,000+ sq ft of plant space -> page /
+- Custom factory paint shop with Axalta partnership -> page /
 - ISO 14001 certification -> db
-- Customer example: Atlas Van Lines, Walpole, MA -> /
+- Stamping & Component Manufacturing capability -> db
+- Service Parts Operations capability -> db
+- Customer example: Atlas Van Lines -> page /
 </details>
 
 ---
@@ -519,53 +533,63 @@ Hino emphasizes manufacturing excellence and customer-focused innovation, citing
 **Old description:** are built with inset, flush doors and drawers in a traditional style. Our cabinets are all constructed with the highest quality door hinges and drawer guides. All inset, flush doors are custom built, and our dovetailed drawers give strength to a beautiful traditional style.
 
 ## About
-Hinrichs Fine Woods originated in 1993 in Roca, Nebraska, with the goal of producing higher-quality cabinetry than competitors. The company began by building custom cabinets and furniture using solid wood, along with antique furniture restoration and repair, emphasizing wood joinery over mechanical fasteners and applying four coats of finish where others used three.
+Hinrichs Fine Woods originated in 1993 in Roca, Nebraska, with the goal of producing higher-quality cabinetry than competitors offered. The company began by building custom cabinets and furniture from solid wood, using wood joinery instead of screws and nails and applying four coats of finish where three were typical. It also specialized in antique furniture restoration and repair from the start.
 
-Today the shop operates from a 2,400-square-foot facility where it produces custom kitchen cabinets, bookcases, entertainment centers, bath cabinets, and other solid-wood furniture. All pieces feature inset, flush doors and drawers in traditional styles such as Mission, Shaker, and beaded face frames, with dovetailed drawers and premium hinges and guides. The restoration service refinishes antiques by hand—avoiding chemical dipping—to preserve joints and grain, then applies four coats of finish inside and out.
+Today the shop operates from a 2,400-square-foot facility where it builds bookcases, entertainment centers, bath and kitchen cabinets, and other solid-wood furniture. All pieces feature inset, flush doors and drawers in traditional styles such as Mission, Shaker, and beaded face frames. Drawers are dovetailed for strength, and every surface receives four coats of finish inside and out. Restoration work is done by hand: old finishes are stripped manually rather than dipped, joints are repaired, and stains are color-matched to original pieces.
 
-The company serves homeowners and collectors seeking custom cabinetry and heirloom restoration, delivering pieces built to last generations. Hinrichs Fine Woods differentiates itself by exceeding customer expectations through superior materials and craftsmanship—using wood joints instead of screws and nails, hand-stripping finishes, and applying four coats of finish inside and out.
+The company serves residential customers, interior designers, and contractors seeking custom kitchens, built-ins, and heirloom restoration. Projects range from new traditional-style kitchen cabinets to the repair of family antiques intended for another 80 years of service.
+
+Hinrichs Fine Woods differentiates itself through its commitment to hand-crafted joinery, hand-applied finishes, and restoration methods that preserve the integrity of original pieces. The founder's original quality standards—extra finish coats, wood joints over mechanical fasteners, and meticulous hand stripping—remain the benchmark for every project.
 
 ## Known for
-- Four coats of finish applied inside and out
-- Hand-stripping of old finishes without chemical dipping
-- Wood joinery used in place of screws and nails
-- Dovetailed drawer construction
-- Custom inset, flush doors and drawers
+- Four coats of finish applied inside and out on all pieces
+- Wood joinery used instead of screws or nails
+- Old finishes removed by hand stripping, not chemical dipping
+- Dovetailed drawers for structural strength
+- Inset, flush doors custom built for each project
 
 ## Capabilities
 - Custom cabinetry
+- Furniture making
 - Furniture restoration
-- Antique restoration
+- Antique furniture restoration
 - Custom kitchen cabinets
+- Inset flush door construction
+- Dovetail drawer construction
+- Hand finishing (four coats)
+- Hand stripping of finishes
+- Color matching stains
+- Mission style cabinetry
+- Shaker style cabinetry
+- Beaded face frames
 - Bookcase construction
 - Entertainment center construction
 - Bath cabinet construction
-- Solid wood furniture making
-- Inset flush door and drawer fabrication
-- Dovetail joinery
-- Beaded face frame construction
-- Mission style cabinetry
-- Shaker style cabinetry
-- Hand refinishing
-- Finish application (four coats)
+- Solid wood furniture
+
+## Industries
+- Residential construction
+- Interior design
+- Antique restoration
+- Custom furniture
+- Kitchen and bath
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1993
 - **Headquarters:** Roca, Nebraska
 
 <details><summary>Sources</summary>
 
-- Founded in 1993 -> /about
-- 2,400 square foot facility -> /about
-- Custom cabinetry and furniture restoration -> /about
-- Inset, flush doors and drawers -> /
-- Dovetailed drawers -> /
+- Founded 1993 -> /about
+- 2,400 sq ft facility -> /about
+- Custom cabinetry, furniture, restoration -> /about, /
+- Inset flush doors, dovetailed drawers -> /, /about
+- Four coats finish inside and out -> /about
+- Hand stripping not dipping -> /about
 - Mission, Shaker, beaded face frames -> /
-- Four coats of finish inside and out -> /about
-- Hand refinishing without chemical dipping -> /about
-- Wood joinery instead of screws and nails -> /about
-- Headquarters in Roca, Nebraska -> db
+- Solid wood construction -> /about
+- Headquarters Roca, Nebraska -> db
 </details>
 
 ---
@@ -575,47 +599,49 @@ The company serves homeowners and collectors seeking custom cabinetry and heirlo
 **Old description:** Hoboken Wood Co. based in Hoboken, NJ, makes high-quality handmade furniture and woodwork for your custom needs. Our skilled artisans specialize in creating bespoke furniture, cabinetry, and architectural elements that blend timeless craftsmanship with modern design.
 
 ## About
-Hoboken Wood Company operates from Hoboken, New Jersey, where it produces handmade furniture and custom woodwork. The company focuses on bespoke pieces for both commercial and residential clients.
+Hoboken Wood Company operates from Hoboken, New Jersey, producing handmade furniture and architectural woodwork for custom projects.
 
-The shop specializes in custom furniture, cabinetry, and architectural elements. Its product range includes tables, chairs, shelves, desks, built-in cabinetry, bookshelves, banquette and bench seating, kitchen countertops, turned table legs, studio desks, and bathroom vanities. The team also builds audio racks and music studio desks for recording environments. All items are made to order, with dimensions and finishes tailored to each project.
+The shop builds a range of bespoke pieces including tables, chairs, shelves, desks, cabinetry, bookshelves, banquette and bench seating, kitchen countertops, turned table legs, studio desks, bathroom vanities, and specialized studio furniture such as audio racks and music studio desks. Each item is handcrafted by skilled artisans using traditional woodworking methods tailored to client specifications.
 
-Customers span commercial and residential sectors. Residential clients have ordered custom RV table tops, kitchen island butcher blocks, and personalized engravings. Commercial references include Thi Global LLC, which noted personalized service for a finished project. The company emphasizes direct communication throughout the design and build process.
+The company serves both commercial and residential customers. Projects have included custom cabinetry for kitchens, living rooms, and offices, as well as one-off pieces like an RV table top replacement and music studio desks for recording environments.
 
-Hoboken Wood Company says its work blends timeless craftsmanship with modern design. Testimonials highlight personalized service, quick response times, and fast production and shipping as key differentiators.
+Hoboken Wood Company emphasizes a blend of timeless craftsmanship with modern design and highlights personalized service for each custom finished project as a core differentiator.
 
 ## Known for
-- Handmade custom furniture and woodwork produced in Hoboken, NJ
-- Blend of timeless craftsmanship and modern design
+- Handcrafted in Hoboken, NJ
+- Bespoke furniture, cabinetry, and architectural elements
+- Blend of timeless craftsmanship with modern design
 - Personalized service for custom projects
-- Fast production and shipping turnaround
-- Direct communication throughout design and build
+- Skilled artisan workforce
 
 ## Capabilities
-- Custom furniture manufacturing
-- Cabinetry and built-ins
-- Architectural woodwork
-- Wood turning
-- Custom millwork
-- Furniture finishing
-- Studio furniture fabrication
-- Audio rack construction
+- Custom furniture making
+- Cabinetry
+- Architectural woodworking
+- Turned table legs
+- Studio desk fabrication
+- Bathroom vanity fabrication
+- Kitchen countertop fabrication
+- Banquette seating
+- Bench seating
+- Studio furniture (audio racks, music studio desks)
 
 ## Industries
 - Commercial
 - Residential
-- Music recording
+- Music studio
 
 ## Company details
 - **Company Type:** Manufacturer
-- **Headquarters:** Hoboken, New Jersey
+- **Headquarters:** Hoboken, NJ
 
 <details><summary>Sources</summary>
 
 - Location: Hoboken, NJ -> db
-- Products: custom furniture, cabinetry, architectural elements -> /
-- Serves commercial and residential projects -> /
-- Offers personalized service and fast production -> / (testimonials)
-- Instagram handle @hoboken_wood_company -> /
+- Products: tables, cabinetry, bookshelves, banquette seating, bench seating, kitchen countertops, turned table legs, studio desks, bathroom vanities, studio furniture -> page /
+- Industries served: commercial & residential projects -> page /
+- Differentiators: handcrafted, bespoke, blend timeless craftsmanship with modern design, personalized service -> page /
+- Social media: Instagram @hoboken_wood_company -> page /
 </details>
 
 ---

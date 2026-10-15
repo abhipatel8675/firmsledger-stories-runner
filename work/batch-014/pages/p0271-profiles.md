@@ -3,42 +3,40 @@
 **Old description:** Since 1947, the lynch pin of YMI Industries has been the ability to produce tool and die components for metalworking.
 
 ## About
-YMI Industries operates from Grand Forks, North Dakota, where it has been a family-owned business since its founding in 1947. The company began as a specialist in tool and die components for metalworking, establishing a reputation for precision in that niche.
+YMI Industries was founded in 1947 in Grand Forks, North Dakota, and has remained a family-owned business throughout its history. The company began with a focus on producing tool and die components for metalworking, establishing a customer base that has spanned decades.
 
-Today, YMI provides a broad range of metal fabrication and machining services, including laser cutting, metal stamping, CNC press brake bending, tool and die design and repair, welding and fabrication, CNC turning, CNC milling, and rapid prototyping. The shop runs multiple CNC press brakes, CNC lathes, and milling centers, and performs heat treating in-house. Metal stamping is offered for high-volume production, while prototyping services support low-volume and concept validation.
+Today the shop provides a broad range of metal fabrication and machining services, including laser cutting, metal stamping, CNC press brake bending, tool and die design and repair, welding and fabrication, CNC turning, and CNC milling with in‑house heat treating. The facility operates CNC lathes, multiple press brakes, laser cutting systems, and coordinate measuring machines for inspection, supporting work from rapid prototyping through production runs.
 
-The company serves original equipment manufacturers, innovators, and industrial organizations across the metalworking sector. Customers rely on YMI for custom metal components, tooling, and fabricated assemblies, with the firm positioning itself as a one-stop shop through partnerships that extend into design, engineering, and finishing.
+YMI serves original equipment manufacturers, innovators, and other organizations in the metalworking sector that require precision components and tooling. Customers rely on the company for both one‑off prototypes and repeat production of stamped, formed, and machined parts.
 
-YMI’s guiding principle, “Making Response to Customers a Top Priority Since 1947,” underscores its focus on communication, accommodation, and competitive pricing. The ISO 9001-certified quality system employs coordinate measuring machines, go/no-go gauges, and in-process inspections to meet customer specifications, and the company commits to resolving non-conformities promptly.
+The company’s guiding principle, "Making Response to Customers a Top Priority Since 1947," reflects its emphasis on communication, on‑time delivery, and competitive pricing. An ISO 9001‑certified quality system, backed by CMM inspection and a commitment to resolving non‑conformities quickly, underpins that promise.
 
 ## Known for
-- Family-owned since 1947 with a focus on customer response
+- Customer response prioritized since 1947 (company motto)
+- Family-owned continuity since 1947
 - ISO 9001 certified quality management system
-- In-house heat treating and a full range of CNC machining, stamping, and fabrication
-- Rapid prototyping and one-stop-shop capabilities through partner network
-- Wide tooling inventory on multiple CNC press brakes for high-tolerance bending
+- In-house heat treating capability
+- CMM-based inspection and go/no-go gauging
 
 ## Capabilities
 - Laser cutting
 - Metal stamping
-- Press brake bending (CNC)
+- Press brake bending
 - Tool and die design, production, and repair
 - Welding and fabrication
 - CNC turning
-- CNC machining (milling)
-- Heat treating (in-house)
-- Rapid prototyping
-- Custom design, engineering, and finishing (via partners)
+- CNC machining
+- Prototyping
+- Design and engineering (via partners)
+- Finishing (via partners)
 
 ## Industries
 - Metalworking
 - OEM manufacturing
-- Industrial manufacturing
 
 ## Equipment
-- CNC press brakes
 - CNC lathes
-- CNC milling machines
+- CNC press brakes
 - Laser cutting machines
 - Coordinate measuring machines (CMM)
 - Go/no-go gauges
@@ -47,7 +45,7 @@ YMI’s guiding principle, “Making Response to Customers a Top Priority Since 
 - ISO 9001
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1947
 - **Ownership:** Family-owned
 - **Headquarters:** Grand Forks, North Dakota
@@ -55,16 +53,15 @@ YMI’s guiding principle, “Making Response to Customers a Top Priority Since 
 <details><summary>Sources</summary>
 
 - Founded 1947 -> db
-- Headquarters Grand Forks, North Dakota -> db
 - Family-owned since 1947 -> /about
-- ISO 9001 certified -> db and /quality
+- Headquarters Grand Forks, North Dakota -> db
+- ISO 9001 certified -> db, /, /quality
 - Services: laser cutting, metal stamping, press brake bending, tool & die, welding & fabrication, turning machining, CNC machining, prototyping, custom services -> /services
-- Equipment: CNC press brakes, CNC lathes, CNC milling machines, laser cutting machines, CMM, go/no-go gauges -> /services and /quality
-- Industries: OEM manufacturers, innovators, organizations, metalworking -> /about
-- Motto: Making Response to Customers a Top Priority Since 1947 -> /about and homepage
+- Equipment: CNC lathes, CNC press brakes, laser cutting machines, CMM, go/no-go gauges -> /services, /quality
+- Industries: OEM manufacturers, innovators, organizations in metalworking -> /about, description
+- Motto: Making Response to Customers a Top Priority Since 1947 -> /, /about
 - In-house heat treating -> /services (CNC Machining section)
-- One-stop shop with partner network for design, engineering, production, finishing -> /services (Custom Services)
-- Quality system uses CMM, go/no-go gauges, in-process inspections -> /quality
+- One-stop shop with partner network for design, engineering, finishing -> /services (Custom Services)
 </details>
 
 ---
@@ -74,20 +71,20 @@ YMI’s guiding principle, “Making Response to Customers a Top Priority Since 
 **Old description:** Handcrafted and authentic to the core. Specializing in hospitality equipment for exclusive resorts and corporate furniture for upscale offices, we build functional art. Whether we are bringing your design to reality or creating a design to suit your needs, we build every piece from scratch using only the finest natural materials. Our functional designs and impeccable craftsmanship ensure every piece, is timeless, unforgettable and uniquely you.
 
 ## About
-Based in Scottsdale, Arizona, Yamwood Foundry produces custom hospitality equipment and corporate furniture. The company’s founding year and ownership structure are not publicly disclosed.
+Yamwood Foundry operates from Scottsdale, Arizona. The company has not publicly disclosed its founding year, ownership structure, or the names of its founders.
 
-The shop builds mobile bars, tabletop bars, specialty carts, conference tables, dining tables, retail displays, and desks from scratch, using premium natural materials. Each piece is fabricated to order, with no catalog stock; the facility handles design collaboration through to final assembly.
+The shop produces custom hospitality equipment and corporate furnishings, building each piece from scratch using natural materials. Its product range includes mobile bars, tabletop bars, specialty carts, conference tables, dining tables, retail displays, desks, and reception furniture. The company also offers design services, either realizing a client’s concept or creating original designs tailored to specific spaces. No facility size, headcount, or production volumes are published.
 
-Clients include exclusive resorts, hotels, and upscale offices seeking tailored furnishings. Examples range from mobile bar units for resort poolside service to conference tables for corporate boardrooms and reception desks for luxury lobbies.
+Yamwood serves the hospitality sector, supplying exclusive resorts and hotels, as well as corporate clients outfitting upscale offices. The firm cites projects for resort mobile bars, hotel reception stations, and corporate conference tables as typical engagements.
 
-Yamwood emphasizes a design partnership model backed by non-disclosure agreements, a commitment to the highest‑quality materials, and a guarantee that no two pieces are identical. The company promises 100 % satisfaction and positions itself as an alternative to off‑the‑shelf catalog solutions.
+The company’s stated differentiation rests on a promise of full customization, non-disclosure agreements, and a guarantee that no piece will be replicated elsewhere. Its mission emphasizes simple, affordable, and elegant solutions, while its vision aims to replace catalog-driven procurement with co-designed, made-to-order furnishings backed by a 100-percent satisfaction guarantee.
 
 ## Known for
-- Custom-made hospitality equipment and corporate furniture
-- Exclusive use of premium natural materials
-- Design collaboration with non-disclosure protection
-- Guaranteed uniqueness – no catalog duplicates
+- All equipment and furnishings are custom made
+- Only the highest quality natural materials are used
+- Every piece is guaranteed unique and will not appear elsewhere
 - 100% satisfaction guarantee
+- Non-disclosure agreements offered
 
 ## Capabilities
 - Mobile Bars
@@ -98,10 +95,15 @@ Yamwood emphasizes a design partnership model backed by non-disclosure agreement
 - Retail Displays
 - Desks
 - Hospitality Equipment
+- Meeting Room Tables
+- Reception/Hostess/Valet Stations
+- Small Conference and Gathering Tables
+- Specialty Tables and Carts
+- Reception and Entry Furniture
 
 ## Industries
 - Hospitality
-- Corporate
+- Corporate offices
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -109,11 +111,13 @@ Yamwood emphasizes a design partnership model backed by non-disclosure agreement
 
 <details><summary>Sources</summary>
 
-- headquarters: Scottsdale, Arizona -> db
-- capabilities list -> db
-- industries served -> db
-- description and product details -> /
-- mission, vision, promise details -> /about
+- Location: Scottsdale, Arizona -> db
+- Product categories: Mobile Bars, Tabletop Bars, Specialty Carts, Conference Tables, Dining Tables, Retail Displays, Desks, Hospitality Equipment -> db
+- Industries served: Hospitality -> db
+- Custom design and build from scratch using natural materials -> /
+- Mission: Simple, Affordable, Elegant solutions -> /about
+- Vision: End catalog era, co-design and build -> /about
+- Promise: Non-disclosure, custom made, highest quality materials, unique pieces, satisfaction guarantee -> /about
 - LinkedIn URL -> db
 </details>
 
@@ -124,30 +128,37 @@ Yamwood emphasizes a design partnership model backed by non-disclosure agreement
 **Old description:** Here at York Metal Fabricators, we have been working hand in hand with Architects and the Design community since 1963.  As a true custom fabricator, the only limits to your design ideals are the laws of the natural universe.  Designing with York Metal offers you the freedom to choose any metal, shape, and rail form you desire.  We have no set list of rail systems or parts, we build to meet design.  Let us help you in your next design effort.
 
 ## About
-York Metal Fabricators, Inc. was founded in 1963 by Leon and Evelyn York in Oklahoma City, Oklahoma. The company has remained a family-owned and operated business since its inception, focusing on custom ornamental railing fabrication.
+York Metal Fabricators, Inc. has operated from Oklahoma City, Oklahoma since its founding in 1963 by Leon and Evelyn York. The company remains family-owned and operated, building a reputation in the non-ferrous handrail industry through a customized approach to each project.
 
-The firm specializes in the non-ferrous handrail industry, offering a fully customized approach with no predetermined rail systems or parts. It works with a range of materials including aluminum, stainless steel, bronze, wood, and glass, building each project to meet the specific design intent. The company also collaborates with partners to provide complete metal packages.
+The shop specializes in custom ornamental railings, fabricating from aluminum, stainless steel, bronze, wood, and glass. With no catalog of standard rail systems, the team builds to meet each design intent, coordinating with partners to deliver full metal packages for architectural projects. The facility handles the entire fabrication process, though specific equipment and headcount are not publicly disclosed.
 
-York Metal Fabricators serves architects, designers, general contractors, and steel companies. Its client base includes architectural and design professionals seeking custom railing solutions, general contractors requiring direct coordination with the build team, and steel companies looking for a fabrication partner to deliver full metal packages.
+Primary customers include architects, designers, general contractors, and steel companies seeking a fabrication partner for railing and ornamental metalwork. The firm has collaborated with the design community since its inception and works directly with build teams on project execution, as well as supplying steel companies with finished components.
 
-The company emphasizes its commitment to quality and craftsmanship, citing numerous National Craftsmanship Awards from the National Ornamental & Miscellaneous Metals Association (NOMMA) Top Job Competition. Leadership includes two past presidents of NOMMA and a past chairman of the Standards Committee on Permanent Railing Systems, reflecting deep industry involvement.
+Leadership in the National Ornamental & Miscellaneous Metals Association (NOMMA) underscores the company's industry standing: two past NOMMA presidents and a past chairman of the Standards Committee on Permanent Railing Systems have come from its ranks. The company points to numerous national craftsmanship awards from NOMMA's Top Job competition and multiple local craftsmanship awards as evidence of its quality focus.
 
 ## Known for
-- No set list of rail systems; every project built to the design
-- Customized approach to non-ferrous handrail fabrication
-- Multiple NOMMA National Craftsmanship Awards
-- Leadership includes two past NOMMA presidents and a former railing-standards committee chairman
+- No set list of rail systems; every project is built to the design
+- Family-owned and operated continuously since 1963
+- Two past NOMMA presidents and a past standards committee chairman on staff
+- Multiple NOMMA Top Job national craftsmanship awards
+- Coordinates full metal packages with partner fabricators
 
 ## Capabilities
 - Custom ornamental railing fabrication
-- Non-ferrous handrail fabrication
-- Full metal package collaboration
+- Non-ferrous metal fabrication
+- Design collaboration and engineering support
+- Full metal package coordination
+- Architectural metalwork
+- Handrail system fabrication
+- Material selection: aluminum, stainless steel, bronze, wood, glass
 
 ## Industries
-- Architects
-- Designers
+- Architects and Designers
 - General Contractors
 - Steel Companies
+- Non-Ferrous Handrail Industry
+- Architectural Metalwork
+- Construction
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -159,16 +170,16 @@ The company emphasizes its commitment to quality and craftsmanship, citing numer
 
 - Founded in 1963 by Leon and Evelyn York -> /about
 - Family-owned and operated -> /about
-- Specializes in customized approach to Non-Ferrous Handrail Industry -> /about
-- Custom crafting ornamental railings since 1963 -> /
-- Works with Aluminum, Stainless, Bronze, Wood, Glass -> /
-- Serves Architects, Designers, General Contractors, Steel Companies -> /
-- No set list of rail systems or parts; build to meet design -> /
-- Working with a partner to provide a full metal package -> /
-- Two past Presidents of NOMMA have called YMF home -> /about
+- Specializing in Non-Ferrous Handrail Industry -> /about
+- Materials: Aluminum, Stainless, Bronze, Wood, Glass -> /
+- Works with Architects, Designers, General Contractors, Steel Companies -> /
+- Two past Presidents of NOMMA -> /about
 - Past Chairman/member of Standards Committee on Permanent Railing systems -> /about
+- Board members of multiple industry trade associations -> /about
 - Won numerous National Craftsmanship Awards in NOMMA's Top Job Competition -> /about
-- Headquarters in Oklahoma City, Oklahoma -> db
+- Individual winners of Local Craftsmanship Awards -> /about
+- Headquarters: Oklahoma City, Oklahoma -> db
+- Founded year: 1963 -> db
 </details>
 
 ---
@@ -178,25 +189,25 @@ The company emphasizes its commitment to quality and craftsmanship, citing numer
 **Old description:** Since our beginning in 1987, York Wire & Cable, Inc. has developed a reputation for being a world leading supplier of electrical wire and cable by delivering high quality products and superior customer service to our clients throughout the world. York Wire & Cable, Inc.’s extensive inventory and same-day delivery makes us your first choice for electrical wire and cable.
 
 ## About
-York Wire & Cable, Inc. was established in 1987 in York, Pennsylvania. From its inception, the company focused on supplying electrical wire and cable, aiming to deliver high-quality products and responsive service to a global customer base. The business has operated continuously from its Pennsylvania headquarters for over three decades.
+York Wire & Cable, Inc. was founded in 1987 in York, Pennsylvania. The company began as a supplier of electrical wire and cable, establishing a reputation for reliable service and product quality. No information about ownership structure or founders is publicly disclosed, and the business has operated continuously from its York headquarters since inception.
 
-The distributor operates with a substantial inventory, listing more than 330 wire and cable products immediately available. Its fulfillment model prioritizes same-day shipping for stocked items, enabling rapid turnaround for orders of varying sizes. The company describes its inventory as extensive, covering a wide range of electrical wire and cable types.
+The company operates as a distributor, maintaining an extensive inventory of electrical wire and cable with over 330 products in stock. It offers same-day delivery on stocked items, emphasizing rapid fulfillment for customers worldwide. The company does not indicate any manufacturing capabilities, focusing instead on distribution and inventory management. Details about facility size, headcount, or manufacturing processes are not provided.
 
-Customers span international markets, though the company does not publicly specify particular industry verticals. The product range addresses general electrical wiring needs across commercial, industrial, and residential applications. The firm serves clients worldwide, emphasizing superior customer service as a core commitment.
+York Wire & Cable serves a global client base, though specific industries or customer types are not detailed in available sources. Its product focus on electrical wire and cable suggests a broad range of applications, but the company does not publicly list target sectors.
 
-The firm emphasizes its breadth of stock and same-day dispatch as key differentiators, positioning itself as a primary source for electrical wire and cable procurement. Its value proposition centers on product availability and speed of delivery rather than manufacturing capabilities.
+Since its founding, the company has highlighted its extensive inventory and same-day delivery as key differentiators, rooted in a commitment to high-quality products and superior customer service. Its online catalog reflects a business model centered on immediate availability of standard wire and cable products.
 
 ## Known for
-- Same-day delivery for in-stock items
-- Over 330 products in stock
-- Global customer base
-- Extensive inventory of electrical wire and cable
+- Extensive inventory of 330+ electrical wire and cable products
+- Same-day delivery on stocked items
+- Commitment to high-quality products and superior customer service
+- Global customer reach
 
 ## Capabilities
-- Wire and cable distribution
-- Same-day shipping
+- Electrical wire and cable distribution
+- Same-day shipping on stocked items
 - Inventory management
-- Global order fulfillment
+- Online product catalog
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -205,14 +216,12 @@ The firm emphasizes its breadth of stock and same-day dispatch as key differenti
 
 <details><summary>Sources</summary>
 
-- Founded 1987 -> db, page '/'
-- Headquarters York, Pennsylvania -> db
-- Supplier of electrical wire and cable -> page '/'
-- Extensive inventory -> page '/'
-- Same-day delivery -> page '/'
-- 330 products in stock -> db products array
-- Global clients -> page '/'
-- Website http://www.yorkwire.com/ -> db
+- Founded in 1987 -> db
+- Headquartered in York, Pennsylvania -> db
+- Supplies electrical wire and cable -> page /
+- Extensive inventory with 330 products in stock -> page /
+- Same-day delivery offered -> page /
+- Global client base mentioned -> page /
 </details>
 
 ---
@@ -224,18 +233,18 @@ The firm emphasizes its breadth of stock and same-day dispatch as key differenti
 ## About
 Youngtron Inc is an electronic contract manufacturer based in Hatfield, Pennsylvania, near Philadelphia. The company was established in 1988 to provide the electronics industry with assembly services covering surface mount, through-hole, and complete product assembly.
 
-Youngtron operates a 24,000‑square‑foot facility designed around automated surface‑mount and through‑hole equipment, offering full turnkey PCB assembly, customer‑supplied kit assembly, box build, in‑circuit and functional testing, fine‑pitch and BGA/µBGA placement, automated vision inspection, conformal coating, and turnkey procurement. The shop handles both RoHS and non‑RoHS processes.
+Operating from a 24,000-square-foot facility designed around trained personnel and automated equipment, Youngtron delivers printed circuit board assembly through full turnkey, customer-supplied kit, and box-build programs. Core processes include automated surface-mount placement with fine-pitch and BGA/µBGA capability, automated through-hole insertion, conformal coating, automated vision inspection, in-circuit and functional testing, and turnkey procurement.
 
-The company serves customers across the electronics sector, building a reputation for consistent quality and on‑time delivery that has earned repeat business from a range of original equipment manufacturers and design firms.
+The company serves original equipment manufacturers and electronics firms across sectors that require assembled circuit boards, though specific industry verticals are not publicly detailed.
 
-Youngtron emphasizes a quality management system registered to ISO 9001 and compliant with IPC‑A‑610 Class 2 standards, promising consistent high quality, fast flexible turnaround, competitive pricing, reliable personal service, accurate communication, and on‑time delivery. The firm was founded on the principle that quality and communication drive long‑term customer relationships.
+Youngtron emphasizes a quality system registered to ISO 9001 and compliant with IPC-A-610 Class 2 and RoHS directives, citing continuous improvement, on-time delivery, competitive pricing, and reliable personal service as the foundation of its customer relationships.
 
 ## Known for
-- ISO 9001 registered quality management system
-- 24,000 sq ft facility designed for automated assembly
-- BGA/µBGA placement expertise
-- Full turnkey procurement and box build services
-- Commitment to on-time delivery and consistent quality
+- ISO 9001 registered quality management system with continuous improvement
+- 24,000 sq ft facility built for automated assembly and testing
+- Automated surface mount and through-hole lines with BGA/µBGA expertise
+- Full turnkey, kit assembly, and box build under one roof
+- Commitment to on-time delivery and competitive pricing
 
 ## Capabilities
 - Automated surface mount assembly
@@ -247,9 +256,12 @@ Youngtron emphasizes a quality management system registered to ISO 9001 and comp
 - Automated vision inspection
 - Conformal coating
 - Turnkey procurement
-- Box build
-- Full turnkey assembly
+- Box build assembly
+- Full turnkey PCB assembly
 - Customer-supplied kit assembly
+
+## Industries
+- Electronics manufacturing
 
 ## Certifications
 - ISO 9001
@@ -263,18 +275,22 @@ Youngtron emphasizes a quality management system registered to ISO 9001 and comp
 
 <details><summary>Sources</summary>
 
-- Founded 1988 -> /about
-- Location Hatfield, PA -> /
+- Founded in 1988 -> /about
+- Headquarters in Hatfield, Pennsylvania -> /about
 - 24,000 sq ft facility -> /about
 - ISO 9001 registered -> /about
-- Capabilities: automated surface mount, through-hole, conformal coating, box build, turnkey -> /services
-- RoHS and non-RoHS assembly -> /services
-- In-circuit and functional testing -> /services
+- RoHS compliant -> /about
+- IPC-A-610 Class 2 -> /about
+- Automated surface mount assembly -> /services
 - Fine-pitch and BGA/µBGA placement -> /services
+- Automated through-hole assembly -> /services
+- Conformal coating -> /services
+- Box build -> /about
+- Turnkey procurement -> /services
+- In-circuit and functional testing -> /services
 - Automated vision inspection -> /services
-- IPC-A-610 Class 2 compliance -> /about
-- Quality management system based on continuous improvement -> /about
-- Company description as contract manufacturer -> db
+- Full turnkey and kit assembly -> /
+- Competitive pricing and on-time delivery -> /about
 </details>
 
 ---
@@ -284,42 +300,41 @@ Youngtron emphasizes a quality management system registered to ISO 9001 and comp
 **Old description:** Great American manufacturer of custom cases. They make both plastic and aluminum, military grade, top of the line protection.
 
 ## About
-Zero Manufacturing is headquartered in North Salt Lake, Utah, and traces its founding to 1931 when German immigrant Herman Zierold established a sheet-metal shop in Los Angeles after crafting a rugged aluminum case to protect his engineering documents in the California oil fields. The business evolved through several ownership changes and was acquired by private equity firm Rockwood Equity Partners, with Declan Mclaughlin serving as CEO.
+Zero Manufacturing is headquartered in North Salt Lake, Utah, and traces its origins to 1931 when German immigrant Herman Zierold established a small sheet-metal shop in Los Angeles after designing a rugged aluminum case to protect his engineering documents in the California oil fields. The business evolved through several ownership changes and was later renamed Zero Manufacturing Co. in 1959. Today the company operates under the leadership of Rockwood Equity Partners and CEO Declan McLaughlin.
 
-The company designs and manufactures protective cases and enclosures for mission-critical equipment, working in both aluminum and plastic. Its 286,000-square-foot facility employs 145 people and runs processes that include deep-drawn aluminum forming, rotomolding, laser cutting, Trumpf TruPunch pressing, certified welding, anodizing, powder coating, and custom assembly. Annual output exceeds 270,000 parts across more than 2,600 unique SKUs for a customer base of over 3,100 accounts.
+The company specializes in mission-critical protective cases and enclosures made from high-strength aluminum and advanced polymers. Its 286,000-square-foot Utah facility houses deep-drawn aluminum forming, rotomolding, laser cutting, CNC punching, certified welding, anodizing, powder coating, and assembly operations. With 145 team members, Zero produces more than 270,000 parts annually across 2,600 unique SKUs and has manufactured over 5 million products since inception.
 
-Zero serves aerospace, defense, military, medical, energy, oil and gas, industrial, electronics and infrastructure, and logistics sectors. Its cases have protected avionics and flight hardware, medical diagnostics and life-saving devices, downhole sensors in harsh oilfield environments, and notably the Apollo 11 moon rock containers.
+Zero serves aerospace and aviation, defense and military, medical, energy/oil & gas, industrial, electronics & infrastructure, and logistics sectors. Its cases have protected equipment ranging from Apollo 11 moon-rock containers to avionics, field-deployed medical diagnostics, and downhole sensors in harsh oilfield environments. Customers include NASA, major defense contractors, medical device OEMs, and industrial equipment manufacturers.
 
-The company was born from a need to shield valuable documents from extreme field conditions, and it states its purpose is to help teams protect what matters through disciplined engineering, controlled domestic manufacturing, and long-term partnership. It emphasizes a fully U.S.-based, vertically integrated production model and an engineering-led approach that includes design guidance at no cost.
+Zero positions itself as an engineering-led manufacturing partner that combines disciplined engineering, vertically controlled domestic production, and long-term partnership. The company emphasizes predictable lead times, consistent quality through ISO 9001-certified processes, and expert guidance from concept through testing — often at no cost — to deliver protection where failure is not an option.
 
 ## Known for
-- Fully domestic, vertically integrated manufacturing in a 286,000 sq ft facility
+- Fully domestic manufacturing in a 286,000 sq. ft. Utah facility
+- Vertically controlled production from engineering to final assembly
 - Engineering-led design partnership offered at no cost
-- Heritage includes Apollo 11 moon rock cases and decades of Mil-Spec work
-- ISO 9001 certification with active military-related quality approvals
-- Single-source capability for both deep-drawn aluminum and rotomolded plastic enclosures
+- Deep-drawn aluminum and rotomolded plastic capabilities under one roof
 
 ## Capabilities
-- Deep drawn aluminum forming
-- Rotomolding plastic
-- Aluminum laser cutting
-- Trumpf TruPunch press operation
-- Certified welding
-- Aluminum and metal anodizing
-- Painting and powder coating
-- Surface finishing
-- Standard and custom assembly
-- Tooling and forming
-- Custom tooling design
-- Precision machining
+- Aluminum Laser Cutting
+- Trumpf TruPunch Press
+- Deep Drawn Aluminum
+- Aluminum & Metal Anodizing
+- Painting & Powdercoating
+- Certified Welding
+- Custom Tooling
+- Rotomolding Plastic
+- Standard & Custom Assembly
+- Precision Machining
+- Surface Finishing
+- Tooling & Forming
 
 ## Industries
 - Aerospace
+- Aviation
 - Defense
 - Military
 - Medical
-- Energy
-- Oil & Gas
+- Energy, Oil & Gas
 - Industrial
 - Electronics & Infrastructure
 - Logistics
@@ -327,36 +342,45 @@ The company was born from a need to shield valuable documents from extreme field
 ## Equipment
 - Trumpf TruPunch Press
 
-## Certifications
-- ISO 9001
-- MIL-STD
-
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1931
 - **Employees:** 145
-- **Ownership:** Rockwood Equity Partners (private equity)
+- **Ownership:** Private equity (Rockwood Equity Partners)
 - **Headquarters:** North Salt Lake, Utah
 
 <details><summary>Sources</summary>
 
-- Headquarters: North Salt Lake, Utah -> db
-- Founded: 1931 -> db, homepage, /about-us
-- Founder: Herman Zierold (German immigrant) -> /about-us
-- Current ownership: Rockwood Equity Partners, CEO Declan Mclaughlin -> /about-us
-- Employee count: 145 -> db, homepage
-- Facility size: 286,000 sq ft -> homepage
-- Annual parts produced: 270,000+ -> homepage
-- Unique SKUs: 2,600 -> homepage
-- Customer base: 3,100 -> homepage
-- Processes: deep-drawn aluminum, rotomolding, laser cutting, Trumpf TruPunch, welding, anodizing, powder coating, assembly -> /capabilities, db
-- Industries served: aerospace, defense, military, medical, energy, oil & gas, industrial, electronics & infrastructure, logistics -> /capabilities, db, homepage
+- Founded 1931 -> db
+- HQ North Salt Lake, Utah -> db
+- Employee count 145 -> db
+- ISO 9001 certification -> db
+- Facility size 286,000 sq ft -> /
+- Parts produced annually 270,000+ -> /
+- Unique SKUs 2,600 -> /
+- Customer base 3,100 -> /
+- Products manufactured 5,000,000 -> /
+- Founder Herman Zierold -> /about-us
+- Origins 1929 -> /about-us
+- Rockwood Equity Partners ownership -> /about-us
+- CEO Declan McLaughlin -> /about-us
 - Apollo 11 moon rock cases -> /about-us
-- ISO 9001 certification -> db, /about-us
-- MIL-STD and Mil-Spec approvals -> /about-us
-- Materials: high-strength aluminum, advanced polymers, plastic -> homepage, /capabilities
-- Engineering-led design partnership at no cost -> homepage
-- Vertically controlled domestic production -> homepage
+- Deep-drawn aluminum and rotomolded plastic -> /about-us
+- Capabilities list -> /capabilities
+- Industries served -> /capabilities
+- Trumpf TruPunch Press -> /
+- Aluminum Laser Cutting -> /
+- Painting & Powdercoating -> /
+- Certified Welding -> /
+- Custom Tooling -> /
+- Rotomolding Plastic -> /
+- Standard & Custom Assembly -> /
+- Surface Finishing -> /
+- Tooling & Forming -> /
+- Aluminum & Metal Anodizing -> /
+- Precision Machining -> /
+- Materials: high-strength aluminum and advanced polymers -> /
+- Industries: Aerospace, Aviation, Defense, Military, Medical, Energy, Oil & Gas, Industrial, Electronics & Infrastructure, Logistics -> /capabilities
 </details>
 
 ---
@@ -366,52 +390,64 @@ The company was born from a need to shield valuable documents from extreme field
 **Old description:** Zell Manufacturing Company Inc. is a family-owned business located just 25 miles east of Pittsburgh, specializing in manufacturing services. Our expertise encompasses high-quality wooden and plastic products, custom moldings, CNC designs, and other custom solutions. We are committed to precision and satisfaction, ensuring we meet all your manufacturing needs with excellence.
 
 ## About
-Zell Manufacturing Company Inc. was founded in 1965 by Clifford R. Zell in Wilkinsburg, Pennsylvania. Shortly after, the business moved to its current location in Export, PA, about 25 miles east of Pittsburgh. The company remains family-owned, now operated by Clifford’s sons and grandchildren, preserving the original values of hard work and customer service.
+Zell Manufacturing Company Inc. operates from Export, Pennsylvania, about 25 miles east of Pittsburgh. The company was founded in 1965 in Wilkinsburg by Clifford R. Zell and moved to its current location shortly after. It remains a family-owned business, now led by Clifford’s sons and grandchildren.
 
-The firm produces wooden and plastic components, custom moldings, and CNC-machined parts from a 9,000-square-foot facility equipped with fully automated machinery and custom molding equipment. Its capabilities span CNC machining, 5-cutter-head molding, gluing and clamping, panel fabrication, stair treads, countertops, and a range of finishing services including sanding, painting, staining, clear coating, silk screening, and wood burning. Assembly, packaging, and shipping are also handled in-house.
+The shop produces wooden and plastic components, custom moldings, and CNC-machined parts. Its 9,000-square-foot facility houses fully automated machinery and custom molding equipment, including a five-cutter-head molder. Capabilities span cutting (cross-cuts, rip cuts, custom cuts), drilling, planing, shaping, sanding, finishing (clear coats, paints, stains, silk screening, wood burning), miter and box jointing, assembly, packaging, and shipping.
 
-Zell serves industries such as construction, point-of-purchase advertising, furniture, consumer goods, architecture, interior design, manufacturing, and toy production. Its customer base includes both individual buyers and large corporations, with tailored solutions for each sector.
+Customers come from construction, point-of-purchase advertising, furniture, consumer goods, architecture, interior design, manufacturing, and toy industries. The company serves both individual buyers and large corporations, offering custom packaging and fulfillment services that cover inventory management, order processing, and shipping logistics.
 
-The company emphasizes its founding principles of determination and outstanding customer service, positioning its automated facility and broad material expertise — hardwoods, engineered plywoods, plastics, acrylics, aluminum, and soft metals — as key differentiators for precision and durability.
+The business emphasizes the founding values of hard work, determination, and outstanding customer service. It differentiates itself with a state-of-the-art facility, comprehensive packaging and fulfillment services, and a commitment to precision and satisfaction.
 
 ## Known for
-- Family-owned since 1965 with multi-generational leadership
-- Over 9,000 sq ft facility with fully automated machinery and custom molding equipment
-- In-house CNC machining, 5-cutter-head molding, and precision joinery
-- Comprehensive finishing: sanding, painting, staining, clear coating, silk screening, wood burning
-- Integrated packaging, assembly, and fulfillment services
+- State-of-the-art facility with over 9,000 square feet
+- Fully automated machinery and custom molding equipment
+- Comprehensive packaging and fulfillment services
+- Commitment to precision and customer satisfaction
+- Family legacy since 1965
 
 ## Capabilities
-- CNC machining (industrial, fully automated)
-- Custom drawing and programming
-- 5-cutter-head molding
-- Custom moldings and millwork (baseboard, crown, casing, shoe, quarter round, chair rail, paneling, flooring)
-- Gluing and clamping
-- Panel fabrication
-- Stair treads, countertops, table tops, shelving
-- Finishing: clear coats, paints, stains, silk screening, wood burning
-- Miter and box jointing
+- CNC Machining
+- Custom Drawing & Programming
+- Cutting (Cross-cuts, Rip Cuts, Custom Cuts)
+- Precision Drilling
+- Scratching
+- 5 Cutter Head Molding
+- Custom Moldings & Millwork
+- Gluing & Clamping
+- Panel Processing
+- Stair Tread Fabrication
+- Counter Top Fabrication
+- Table Top Fabrication
+- Shelving Fabrication
+- Finishing (Clear Coats, Paints, Stains)
+- Silk Screening
+- Wood Burning
+- Miter & Box Jointing
+- Box & Frame Assembly
+- Straight, Angle & Bevel Cuts
 - Assembly
-- Packaging and shipping
-- Cutting (cross-cuts, rip cuts, custom cuts)
-- Planing, shaping, sanding
-- Precision drilling
+- Packaging
+- Shipping
+- Planing
+- Sanding
 
 ## Industries
 - Construction
-- Point-of-purchase advertising
+- Point of Purchase Advertising
 - Furniture
-- Consumer goods
+- Consumer Goods
 - Architecture
-- Interior design
+- Advertising
+- Interior Design
 - Manufacturing
 - Toy
 
 ## Equipment
-- Fully automated CNC machinery
-- 5-cutter-head molding machine
+- Fully automated machinery
 - Custom molding equipment
-- Clamping equipment
+- 5 Cutter Head Molding
+- CNC Machining
+- Clamping Equipment
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -421,15 +457,18 @@ The company emphasizes its founding principles of determination and outstanding 
 
 <details><summary>Sources</summary>
 
-- Founded 1965 in Wilkinsburg, PA by Clifford R. Zell -> /about-us
-- Relocated to Export, PA; family-owned by sons and grandchildren -> /about-us
-- Facility over 9,000 sq ft with fully automated machinery and custom molding equipment -> /about-us
-- Industries served: construction, point of purchase advertising, furniture, consumer goods -> /
-- Additional industries: architecture, advertising, interior design, manufacturing, toy -> /services
-- Materials: hardwoods, engineered plywoods, plastics, acrylics, aluminum, soft metals, MDF, plywood -> /services
-- Capabilities: CNC machining, 5-cutter-head molding, custom moldings, gluing/clamping, panels, stair treads, countertops, finishing (sanding, painting, staining, clear coating, silk screening, wood burning), miter/box jointing, assembly, packaging, shipping, cutting, planing, shaping, precision drilling -> /services
-- Finishing services: sanding, painting, staining, clear coating, custom color matching, precision CNC finishing, intricate moldings -> /
-- Packaging and fulfillment: custom packaging, inventory management, order processing, shipping logistics, delivery tracking -> /
+- Family-owned business located 25 miles east of Pittsburgh -> /
+- Founded in 1965 in Wilkinsburg, PA by Clifford R. Zell -> /about-us
+- Relocated to Export, PA -> /about-us
+- Currently owned by Clifford's sons and grandchildren -> /about-us
+- Facility over 9,000 square feet -> /about-us
+- Fully automated machinery and custom molding equipment -> /about-us
+- Services: wooden and plastic products, custom moldings, CNC designs -> /
+- Finishing services: sanding, painting, staining, clear coating, custom color matching, silk screening, wood burning -> /
+- Packaging and fulfillment services -> /
+- Industries served: construction, point of purchase advertising, furniture, consumer goods, architecture, advertising, interior design, manufacturing, toy -> /, /services
+- Materials: hardwoods, engineered plywoods, plastics, acrylics, aluminum, soft metals -> /services
+- Equipment: fully automated machinery, custom molding equipment, 5 Cutter Head Molding, CNC Machining, Clamping Equipment -> /services
 - Values: hard work, determination, outstanding customer service -> /about-us
 </details>
 
@@ -440,25 +479,28 @@ The company emphasizes its founding principles of determination and outstanding 
 **Old description:** Zenith Electronics LLC a leading U.S. technology development and licensing company. A wholly owned subsidiary of global innovator LG Electronics since 1999, today’s Zenith is LG’s U.S. research subsidiary for consumer electronics, hospitality and health care technologies, broadcasting standards and related technologies.
 
 ## About
-Zenith Electronics LLC is headquartered in Lincolnshire, Illinois. The company traces its origins to 1918, when it began with the advent of radio. Since 1999, it has operated as a wholly owned subsidiary of LG Electronics, serving as the South Korean conglomerate's U.S. research arm.
+Zenith Electronics LLC is headquartered in Lincolnshire, Illinois. Founded in 1918, the company began with the advent of radio. Since 1999, it has operated as a wholly owned subsidiary of LG Electronics, serving as LG's U.S. research subsidiary for consumer electronics, hospitality, health care technologies, and broadcasting standards.
 
-Today Zenith functions as a technology development and licensing organization. Its work spans consumer electronics, hospitality, health care technologies, and broadcasting standards. The company created Pro:Idiom, an encryption technology widely adopted in the hospitality industry for delivering digital television signals, and administers licensing agreements that include royalty-free terms for qualified partners.
+Today, Zenith functions as a technology development and licensing organization. Its researchers create encryption and broadcast technologies, most notably Pro:Idiom, a digital television encryption system widely deployed in the hospitality industry. The company administers licensing for Pro:Idiom, offering royalty-free agreements to qualified partners. Zenith does not operate a production facility; its output is intellectual property and technical standards rather than physical goods.
 
-Zenith's customer base includes manufacturers and service providers in consumer electronics, hospitality, health care, and broadcasting. A concrete example is the deployment of Pro:Idiom by hotels and other hospitality venues to secure digital TV content distribution.
+Zenith's technologies serve the consumer electronics, hospitality, health care, and broadcasting sectors. Hotel operators and digital TV providers implement Pro:Idiom to secure premium content delivery. The company's broadcast standards work supports terrestrial HDTV transmission, while its health care and consumer electronics research feeds into LG's global product lines.
 
-The company emphasizes a heritage of innovation dating back to its founding. Zenith inventors claim a series of industry firsts: the first wireless TV remote control, the first portable and push-button radios, the first stereo audio systems for FM radio and television, and the first terrestrial broadcast system for HDTV using digital technology.
+The Zenith name has been associated with electronics innovation since 1918. Company records cite a legacy of firsts: the first wireless TV remote control, the first portable and push-button radios, the first stereo audio systems for FM radio and television, and the first terrestrial broadcast system for HDTV using digital technology. That heritage of pioneering standards continues to drive its licensing and research mission.
 
 ## Known for
-- Pro:Idiom encryption technology for hospitality digital TV
-- Royalty-free licensing for qualified companies
-- LG Electronics' U.S. research subsidiary since 1999
-- Heritage of firsts: wireless TV remote, portable radio, HDTV broadcast system
+- Pro:Idiom encryption technology for hospitality digital TV signals
+- Royalty-free licensing for qualified partners
+- Over 100 years of electronics innovation heritage
+- Pioneered first wireless TV remote, portable radios, stereo audio, and HDTV broadcast system
 
 ## Capabilities
 - Technology development
 - Licensing
 - Research and development
 - Encryption technology (Pro:Idiom)
+- Consumer electronics research
+- Hospitality technology
+- Health care technology
 - Broadcasting standards development
 - Hotel Internet Services
 
@@ -471,19 +513,19 @@ The company emphasizes a heritage of innovation dating back to its founding. Zen
 ## Company details
 - **Company Type:** Other
 - **Founded:** 1918
-- **Ownership:** Wholly owned subsidiary of LG Electronics
+- **Ownership:** Wholly owned subsidiary of LG Electronics since 1999
 - **Headquarters:** Lincolnshire, Illinois
 
 <details><summary>Sources</summary>
 
-- Founded 1918 -> db
-- Headquarters Lincolnshire, Illinois -> db
+- Founded in 1918 -> db
+- Headquartered in Lincolnshire, Illinois -> db
 - Wholly owned subsidiary of LG Electronics since 1999 -> db
 - Technology development and licensing company -> db
-- Created Pro:Idiom encryption technology -> /
-- Pro:Idiom used in hospitality for digital TV signals -> /
-- Heritage of innovation since 1918 -> /
-- First wireless TV remote, portable radio, HDTV broadcast system -> /
+- Created Pro:Idiom encryption technology for hospitality -> /
+- Licensing administered with royalty-free agreements -> /
+- Pioneered first wireless TV remote, portable radios, stereo audio, HDTV broadcast system -> /
+- Serves consumer electronics, hospitality, health care, broadcasting industries -> /
 </details>
 
 ---
@@ -493,32 +535,33 @@ The company emphasizes a heritage of innovation dating back to its founding. Zen
 **Old description:** Zenith Systems’ full-service, professional electrical engineering group specializes in innovative ideas for complex projects and state-of-the-art electrical construction methods and design techniques.
 
 ## About
-Zenith Systems is headquartered in Bedford Heights, Ohio. The company traces its roots to the electrical construction industry, building a team of dedicated professionals with extensive capabilities in electrical, technology, audio/video, engineering, security, life safety, voice and data networking, and energy management systems.
+Zenith Systems operates from Bedford Heights, Ohio, as an electrical and technology construction and design organization. The company traces its roots to the electrical construction industry, though a founding year and original founders are not publicly disclosed. Ownership details are not specified.
 
-The firm operates as a single-source provider for electrical and technology construction and design. Its service offerings span electrical construction, teledata and voice/data networking, audio/video system integration, security system integration, fire alarm and life safety systems, and full-service electrical engineering design. Zenith handles projects ranging from simple lighting installations to the design-build of electrical and technology infrastructure for half-million-square-foot healthcare facilities, emphasizing on-time, on-budget delivery.
+The firm delivers a full suite of electrical and low‑voltage services, including electrical construction, design‑build engineering, teledata infrastructure, audio/video integration, security system design and installation, fire alarm and life‑safety systems, and ongoing 24/7/365 maintenance. Its engineering group handles complex projects using state‑of‑the‑art design techniques, while field teams execute installations ranging from simple lighting retrofits to the electrical and technology backbone of half‑million‑square‑foot healthcare facilities.
 
-Zenith serves a diverse client base across healthcare, education, industrial, energy and renewables, data centers, transportation, government, historic renovation, commercial, and utilities sectors. Notable projects include work at Tripoint Medical Center and the St. John Medical Center modernization. The company also supports industrial and commercial clients with 24/7/365 emergency service and ongoing maintenance.
+Zenith serves a broad set of verticals: healthcare, education, industrial, energy and renewables, data centers, transportation, government, historic renovation, commercial, and utilities. Notable projects include work at Tripoint Medical Center and the St. John Medical Center modernization.
 
-The company differentiates itself through a quality management system embedded in every project phase, a combined security experience exceeding 200 years, and recognition as a top-50 audio/video integrator in the United States. Zenith’s founding mission centers on providing cost-effective, reliable solutions while continuously adopting technologies.
+The company emphasizes a “one‑stop partner” model, combining more than 200 years of collective security experience, recognition as a top‑50 U.S. integrator, and award‑winning audio/video engineering. A 24‑hour emergency service line and a quality management system embedded in every project phase are cited as key differentiators.
 
 ## Known for
-- 24/7/365 emergency service line
-- Single-source provider for electrical, technology, and life-safety systems
-- Over 200 years of combined security experience
-- Ranked among the top 50 audio/video integrators in the U.S.
-- Quality management embedded in every project phase
+- 24‑hour emergency service line
+- Single‑source responsibility for electrical, technology, and life‑safety systems
+- Over 200 years of combined security integration experience
+- Recognized as a top‑50 systems integrator in the U.S.
+- Award‑winning audio/video design‑build capability
 
 ## Capabilities
 - Electrical construction
-- Teledata/voice and data networking
+- Design‑build engineering
+- Teledata / structured cabling
 - Audio/video system integration
-- Security system integration
-- Fire alarm and life safety systems
+- Security system design and installation
+- Fire alarm and life‑safety systems
 - Electrical engineering design
-- Design-build project delivery
-- Installation and commissioning
-- 24/7 emergency service
+- Project management
+- 24/7/365 maintenance and service
 - Energy management systems
+- Voice and data networking
 
 ## Industries
 - Healthcare
@@ -539,14 +582,14 @@ The company differentiates itself through a quality management system embedded i
 <details><summary>Sources</summary>
 
 - Headquarters: Bedford Heights, Ohio -> db
-- Services: Electric, Teledata, Audio Video, Security, Fire Alarm, Engineering Design -> /
-- Markets served: Healthcare, Education, Industrial, Energy and Renewables, Data Centers, Transportation, Government, Historic Renovation, Commercial, Utilities -> /
-- 24/7 emergency service -> /
-- Quality management embedded in every phase -> /quality
-- Recognized as top 50 audio/video integrator -> / (Audio Video section)
-- Over 200 years combined security experience -> / (Security section)
-- Projects: Tripoint Medical Center, St. John Medical Center Modernization -> db (industries_served)
-- Company description: electrical and technology construction and design organization -> /
+- Services: electrical construction, design-build, teledata, audio/video, security, fire alarm, engineering design -> /
+- Markets served: healthcare, education, industrial, energy and renewables, data centers, transportation, government, historic renovation, commercial, utilities -> /about-us
+- Specific projects: Tripoint Medical Center, St. John Medical Center Modernization -> db
+- 24-hour emergency service line -> /
+- Collective security experience: over 200 years -> /
+- Top 50 integrator recognition -> /
+- Award-winning audio/video engineers -> /
+- Quality management embedded in every project phase -> /quality
 </details>
 
 ---
@@ -556,33 +599,31 @@ The company differentiates itself through a quality management system embedded i
 **Old description:** Ziroli Woodworking is the culmination of world-class craftsmanship, materials and tools. Whether it’s custom-made cabinets or a dining room table, we create pieces that are designed to withhold the test of time.
 
 ## About
-Ziroli Woodworking operates from Pāpa'aloa on the Big Island of Hawai'i. The business traces its roots to 1975, when Peter Ziroli opened his first shop in Honolulu. Today it remains a family-owned and operated woodshop, with Peter's lifework and passion guiding every piece that leaves the bench.
+Ziroli Woodworking operates from Pāpa'aloa on the Big Island of Hawaii. The business traces its roots to 1975 when Peter Ziroli opened his first shop in Honolulu. It remains a family-owned and operated woodshop, with Peter learning the craft from his father, Alfred.
 
-The shop produces handmade custom furniture, architectural millwork, and cabinetry, collaborating closely with each client from concept through installation. Work is executed using a mix of heirloom hand tools — including chisels passed down from Peter's father, Alfred — and modern production saws. Beyond fabrication, the company runs local woodworking workshops and apprenticeship programs, extending its craft into education.
+The shop produces custom furniture, cabinetry, and architectural installations using locally sourced Hawaiian hardwoods such as acacia koa, mango, and ʻōhiʻa. Work combines heirloom hand tools passed down through generations with modern saws and machinery. The company also runs woodworking workshops for the local community.
 
-Clients span residential homeowners, architects, and designers seeking one-of-a-kind pieces. Notable commissions have come from filmmaker Francis Ford Coppola, musician David Crosby, Paul Mitchell Systems, Adams Design, artist Irving Jenkins, and former Bank of Hawai'i CEO Larry Johnson. The shop also serves the broader community with in-person cabinetry and architectural installation services across the Big Island.
+Clients range from residential homeowners to high-profile figures in entertainment and design, including film director Francis Ford Coppola, musician David Crosby, and designer Jack Adams. The shop serves customers across the Big Island with in-person design consultation and installation services.
 
-Ziroli Woodworking emphasizes locally sourced, ethically harvested Hawaiian hardwoods — primarily acacia koa, mango, and 'ōhi'a — often incorporating recycled material. The company states its differentiator is a cooperative, relationship-driven process that aims to deliver both a beloved object and an experience worth returning for.
+Peter Ziroli describes the business as his lifework, emphasizing a cooperative process, sustainable material sourcing, and mentoring the next generation of woodworkers. The goal is to build lasting relationships and pieces that endure.
 
 ## Known for
-- Family-owned and operated since 1975
-- Locally sourced, ethically harvested Hawaiian hardwoods (koa, mango, 'ōhi'a)
-- Master woodworker lineage — Peter Ziroli trained by his father Alfred
-- Custom collaboration process with each client
-- Woodworking workshops and apprenticeship programs for the community
+- Locally sourced, sustainably harvested Hawaiian hardwoods (koa, mango, ʻōhiʻa)
+- Heirloom hand tools paired with modern machinery
+- Over 40 years of custom furniture and architectural woodworking on the Big Island
+- In-person custom cabinetry, installations, and woodworking workshops
+- Client relationships with notable figures in film, music, and design
 
 ## Capabilities
 - Custom furniture making
 - Custom cabinetry
-- Architectural millwork and installations
+- Architectural woodworking and installations
 - Woodworking workshops and education
-- Hand-tool and machine-based wood fabrication
+- In-person design consultation
 
-## Industries
-- Residential furniture
-- Architectural millwork
-- High-end custom woodworking
-- Interior design and build-outs
+## Equipment
+- Antique chisels
+- State-of-the-art saws
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -593,16 +634,16 @@ Ziroli Woodworking emphasizes locally sourced, ethically harvested Hawaiian hard
 <details><summary>Sources</summary>
 
 - Location: Pāpa'aloa, Hawaii -> db
-- Founded 1975, first shop in Honolulu -> /about-us
+- Founded 1975 in Honolulu by Peter Ziroli -> /about-us
 - Family-owned and operated -> /about-us
-- Founder Peter Ziroli, trained by father Alfred -> /about-us
-- Custom furniture, cabinetry, architectural installations -> /about-us, /
-- Woodworking workshops and apprenticeship programs -> /about-us, /
-- Materials: acacia koa, mango, 'ōhi'a, recycled/sustainably harvested -> /about-us
+- Peter Ziroli learned from father Alfred -> /about-us
+- Custom furniture, cabinetry, architectural installations -> /, /about-us
+- Materials: acacia koa, mango, ʻōhiʻa, recycled and sustainably harvested hardwoods -> /about-us
 - Tools: antique chisels, state-of-the-art saws -> /about-us
-- Notable clients: Francis Ford Coppola, David Crosby, Paul Mitchell, Jack Adams, Irving Jenkins, Larry Johnson -> /about-us
+- Services: in-person custom cabinetry, architectural installations, woodworking workshops -> /, /about-us
+- Clients: Francis Ford Coppola, David Crosby, Paul Mitchell, Jack Adams, Irving Jenkins, Larry Johnson -> /about-us
 - Serving community for over 40 years -> /
-- In-person services on Big Island -> /
+- Goal: develop trusted connections with clients and students -> /about-us
 </details>
 
 ---

@@ -3,39 +3,39 @@
 **Old description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada faucibus ex nec ultricies. Donec mattis egestas nisi non pretium. Suspendisse nec eros ut erat facilisis maximus. In congue et leo in varius. Vestibulum sit amet felis ornare, commodo orci ut, feugiat lorem.
 
 ## About
-Four Seasons Fabric operates in Yankton, South Dakota, where it runs a retail location on Broadway. The company's founding year and ownership structure are not publicly disclosed in available sources.
+Four Seasons Fabric operates from a storefront at 909 Broadway in Yankton, South Dakota. The business sells quilting fabrics, serves as an authorized Bernina sewing machine dealer, and offers alteration services. No founding year or ownership details are disclosed in public sources.
 
-The business centers on three main offerings: it stocks a selection of quilting fabrics under the "Quilting Fabrics" label, serves as an authorized sales and service dealer for Bernina sewing machines, and provides alteration services for garments and textile items. As an authorized Bernina dealer, the shop sells new machines, provides warranty service, and offers repairs. No details on facility size, headcount, or sales volumes are provided.
+The shop carries a selection of quilting fabrics and provides sales, maintenance, and repair for Bernina sewing machines. Its alterations service handles garment adjustments and repairs for local customers. The company does not publish facility size, headcount, or annual volume figures.
 
-The store's customer base is not explicitly defined in the available information, though its product mix suggests it serves quilting enthusiasts, home sewists, and individuals needing garment alterations. No specific industrial or commercial clients are mentioned.
+The store serves quilting enthusiasts, home sewers, and customers needing garment alterations in the Yankton area. Its product mix focuses on fabric yardage, sewing machines, and related notions, while the service side supports machine upkeep and custom fitting.
 
-The company has not published a stated mission or differentiator beyond its authorized Bernina dealership and fabric selection.
+The company has not publicly stated a founding mission or specific differentiators beyond its authorized dealer status and local service offering.
 
 ## Known for
-- Authorized Bernina sales and service dealer
-- Premier Quilting Fabrics selection
+- Authorized Bernina dealer for sales and service
+- Premier quilting fabric selection
 - On-site alteration services
 
 ## Capabilities
-- Bernina sewing machine sales and service
-- Alterations
+- Authorized Bernina sales and service
 - Quilting fabric retail
+- Alteration services
 
 ## Equipment
 - Bernina sewing machines
 
 ## Company details
 - **Company Type:** Retailer
-- **Headquarters:** Yankton, SD
+- **Headquarters:** Yankton, South Dakota
 
 <details><summary>Sources</summary>
 
-- Location: Yankton, SD -> db
-- Authorized Bernina Sales and Service -> /
-- Premier Quilting Fabrics -> /
-- Alterations service -> /
-- Address: 909 Broadway, Yankton, SD 57078 -> /
-- Phone: 605-665-3406 -> /
+- Location: Yankton, South Dakota -> db
+- Address: 909 Broadway, Yankton, SD 57078 -> page /
+- Authorized Bernina Sales and Service -> page /
+- Premier Quilting Fabrics -> page /
+- Alterations service -> page /
+- Phone: 605-665-3406 -> page /
 </details>
 
 ---
@@ -45,41 +45,38 @@ The company has not published a stated mission or differentiator beyond its auth
 **Old description:** Franklin Mountain Packaging is a fully integrated provider of corrugated packaging solutions, offering a wide range of services from traditional brown corrugated packaging to vibrant digital color solutions. Whether you need corrugated boxes, consumer packaging, retail displays, or industrial packaging, we can meet your needs. Franklin Mountain Packaging offers design, specialty die-cutting, and single-pass wide format digital printing for all shapes and sizes of packaging. We deliver innovative solutions through our outside-the-box thinking and inside-the-box innovation.
 
 ## About
-Franklin Mountain Packaging operates from Santa Teresa, New Mexico, as an independent corrugator providing integrated corrugated packaging solutions. The company's founding year and ownership structure are not publicly disclosed, nor are its founders named in available sources.
+Franklin Mountain Packaging, LLC operates from Santa Teresa, New Mexico, as an independent corrugator specializing in corrugated packaging solutions. The company combines manufacturing expertise to deliver comprehensive packaging services from its facility at 401 Avenida Ascencion.
 
-The company manufactures corrugated boxes, consumer packaging, retail displays, and industrial packaging. Its capabilities span design, specialty die‑cutting, single‑pass wide‑format digital printing, flexographic printing, and specialty coatings. Production runs on a QUANTUM Corrugator that forms single‑face web and outer liner in one thermal cycle, Flexo Folder Gluers for high‑speed converting, and a Nozomi single‑pass inkjet printer for digital output. Facility size, headcount, and annual volume figures are not published.
+The company produces corrugated boxes, consumer packaging, retail displays, and industrial packaging using a range of processes including design, specialty die-cutting, single-pass wide format digital printing, flexo printing, and specialty coatings. Its production line features a QUANTUM Corrugator that forms single-face web and applies the outer liner in one thermal cycle, Flexo Folder Gluers for high-productivity converting, and a Nozomi single-pass inkjet printer for digital printing.
 
-Franklin Mountain serves industrial partners and businesses across consumer‑goods, retail, and industrial sectors, supplying packaging for point‑of‑purchase displays, retail‑ready packaging, and bulk shipping containers.
+Franklin Mountain Packaging serves customers in consumer goods, retail, and industrial manufacturing sectors, providing packaging for point-of-purchase displays, retail experiences, and bulk shipping needs. The company markets its capabilities to industry partners and businesses seeking custom runs, bulk orders, and corrugated sheets.
 
-The company emphasizes sustainable, efficient production—reducing energy use, resource consumption, and waste—and highlights its QUANTUM Corrugator's low‑temperature single‑cycle process and digital printing flexibility as key differentiators.
+The company emphasizes sustainable and efficient manufacturing, stating that its advanced machinery reduces energy usage, resource consumption, and waste while maintaining quality. Its QUANTUM Corrugator process and digital printing capabilities are positioned as differentiators that enable faster turnaround and design flexibility.
 
 ## Known for
-- QUANTUM Corrugator single‑thermal‑cycle process
-- Nozomi single‑pass wide‑format digital inkjet printing
-- Flexographic and digital printing with specialty coatings
-- In‑house design for point‑of‑purchase displays
-- Sustainability focus: reduced energy, waste, and resource consumption
+- QUANTUM Corrugator single thermal cycle process
+- Nozomi single-pass inkjet printer for digital printing
+- Flexo Folder Gluers for high-productivity converting
+- Sustainable manufacturing reducing energy, resource consumption, and waste
+- Design expertise for point-of-purchase displays and retail experiences
 
 ## Capabilities
-- Corrugated packaging manufacturing
-- Design services
+- Design
+- Display design
 - Specialty die-cutting
 - Single-pass wide format digital printing
-- Flexographic printing
-- Digital inkjet printing (Nozomi)
-- Specialty coatings application
-- Flexo folder gluing
-- Corrugated sheet production
-- Custom corrugated runs
-- Bulk corrugated orders
-- Point-of-purchase display manufacturing
-- Retail packaging design
-- Sustainable packaging solutions
+- Flexo printing
+- Digital printing (Nozomi)
+- Specialty coatings
+- QUANTUM Corrugator process
+- Flexo Folder Gluers (FFGs)
+- Corrugated sheet manufacturing
+- Custom runs
+- Bulk orders
 
 ## Industries
-- Industrial partners and businesses
 - Consumer packaging
-- Retail displays
+- Retail
 - Industrial packaging
 
 ## Equipment
@@ -93,22 +90,16 @@ The company emphasizes sustainable, efficient production—reducing energy use, 
 
 <details><summary>Sources</summary>
 
-- Company name: Franklin Mountain Packaging, LLC -> db
-- Location: Santa Teresa, New Mexico -> db
-- Website: http://www.franklinmountainpackaging.com/ -> db
-- Description: fully integrated provider of corrugated packaging solutions -> db
-- Capabilities from db: Design Capabilities, Display Capabilities -> db
-- Industries served from db: Industry Partners and Businesses -> db
-- Homepage: independent corrugator combining manufacturing expertise -> /
-- Homepage: offers corrugated boxes, consumer packaging, retail displays, industrial packaging -> /
-- Homepage: design, specialty die-cutting, single-pass wide format digital printing -> /
-- Homepage: QUANTUM Corrugator unique single thermal cycle process -> /
-- Homepage: Flexo Folder Gluers (FFGs) for high-speed converting -> /
-- Homepage: Nozomi single-pass inkjet printer for digital printing -> /
-- Homepage: flexo and digital printing with specialty coatings -> /
-- Homepage: design expertise for point-of-purchase displays -> /
-- Homepage: address 401 Avenida Ascencion, Santa Teresa, NM 88008 -> /
-- Homepage: sustainability focus reducing energy, resource consumption, waste -> /
+- Company name and legal structure -> db
+- Headquarters: Santa Teresa, New Mexico -> db
+- Address: 401 Avenida Ascencion, Santa Teresa, NM 88008 -> /
+- Independent corrugator manufacturing corrugated packaging -> /
+- Services: design, specialty die-cutting, single-pass wide format digital printing -> /
+- Processes: flexo printing, digital printing, specialty coatings -> /
+- Equipment: QUANTUM Corrugator, Flexo Folder Gluers (FFGs), Nozomi single-pass inkjet printer -> /
+- Products: corrugated boxes, consumer packaging, retail displays, industrial packaging -> /
+- Markets served: consumer packaging, retail displays, industrial packaging -> /
+- Sustainability claims: reduced energy usage, resource consumption, waste -> /
 </details>
 
 ---
@@ -118,28 +109,29 @@ The company emphasizes sustainable, efficient production—reducing energy use, 
 **Old description:** From Sketch to Solution: Turning Your Custom Fabrication Idea into a Finished Part
 
 ## About
-Franklin Sheet Metal was established in 1953 in Franklin, Massachusetts, making it one of the oldest metal fabricators in New England. The company became part of the Potentia Manufacturing Group in 2020, gaining ITAR registration that underscores its commitment to stringent quality standards.
+Franklin Sheet Metal operates from Franklin, Massachusetts, where it was established in 1953. The company ranks among the oldest metal fabricators in New England and became part of the Potentia Manufacturing Group in 2020, gaining ITAR registration that underscores its compliance posture.
 
-The shop specializes in custom sheet metal fabrication, offering bending and forming, CNC punching and forming, shearing, beam fabrication, hardware installation (including PEMs and studs), and post‑processing. Its product line includes formed angles, channels, shear‑cut plates, square tubing, equipment stands, and custom frames and enclosures. The facility handles jobs from small prototypes to large production runs, though specific headcount and floor space are not disclosed.
+The shop specializes in custom sheet metal fabrication, offering beam fabrication, bending and forming, CNC punching and forming, hardware installation (including PEMs and studs), shearing, and post‑processing. Its product lineup includes formed angles, channels, shear‑cut plates, square tubing, custom frames, enclosures, and equipment stands. The facility handles jobs from small prototypes to larger production runs, though specific headcount and floor space are not disclosed.
 
-Franklin Sheet Metal serves a broad range of industries, including medical, telecommunications, military, aerospace, electronics, transportation, computing, robotics, and general manufacturing. It also works with the Department of Defense and marine and boating sectors, supplying components for critical applications.
+Customers span medical, telecommunications, military, aerospace, electronics, transportation, computing, robotics, and general manufacturing sectors, as well as the Department of Defense and marine and boating industries.
 
-The company emphasizes creativity, reliability, and precision born from decades of hands‑on experience. Its collaborative team environment and focus on on‑time delivery at competitive prices are cited as key differentiators.
+Franklin Sheet Metal emphasizes creativity in artisan fabrication, reliability in delivering precision even when requirements shift, and quality rooted in decades of hands‑on expertise. Its ITAR registration reflects a commitment to stringent quality standards and regulatory compliance.
 
 ## Known for
-- ITAR‑registered since 2020
-- Quick‑order stock program for standard formed angles, channels, plates, and tubing
-- Collaborative team approach combining decades of combined experience
-- Capability to handle both small prototype and large production runs
+- ITAR-registered since 2020
+- Handles small to large jobs with artisan fabrication
+- Delivers precision and consistency amid evolving requirements
+- Expertise from decades of hands‑on work
 
 ## Capabilities
-- Beam Fabrication
-- Bending & Forming
-- CNC Punching and Forming
-- Hardware Installation (PEMs, studs)
+- Beam fabrication
+- Bending and forming
+- CNC punching and forming
+- Hardware installation (PEMs, studs)
 - Shearing
-- Post-Processing
-- Engineering for Fabrication
+- Post-processing
+- Custom frame and enclosure fabrication
+- Equipment and product stand fabrication
 
 ## Industries
 - Medical
@@ -152,14 +144,14 @@ The company emphasizes creativity, reliability, and precision born from decades 
 - Robotics
 - Manufacturing
 - Department of Defense
-- Marine & Boating
+- Marine and boating
 
 ## Equipment
 - Gator Shear
 
 ## Certifications
 - ITAR
-- ROHS
+- RoHS
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -170,15 +162,16 @@ The company emphasizes creativity, reliability, and precision born from decades 
 <details><summary>Sources</summary>
 
 - Founded 1953 -> /about-us
-- Headquarters Franklin, Massachusetts -> db
-- ITAR registered since 2020 -> /about-us
-- ROHS certification -> db
-- Industries served: medical, telecommunications, military, aerospace, electronics, transportation, computing, robotics, manufacturing -> /
-- Department of Defense and Marine & Boating industries -> industries_served
-- Capabilities: beam fabrication, bending & forming, CNC punching and forming, hardware installation, shearing, post-processing, engineering for fabrication -> /, /about-us
-- Products: formed angles, formed channels, shear cut plates, square tubing, equipment stands, custom frames, enclosures -> /
+- Location Franklin, Massachusetts -> db
 - Part of Potentia Manufacturing Group since 2020 -> /about-us
+- ITAR registered -> /about-us
+- RoHS certification -> db
+- Industries served: medical, telecommunications, military, aerospace, electronics, transportation, computing, robotics, manufacturing -> /
+- Department of Defense and marine & boating industries -> db
+- Capabilities: beam fabrication, bending and forming, CNC punching and forming, hardware installation, shearing, post-processing -> /
+- Products: formed angles, channels, shear-cut plates, square tubing, custom frames, enclosures, equipment stands -> /
 - Gator Shear equipment -> /
+- Company values: creativity, reliability, quality -> /
 </details>
 
 ---
@@ -188,45 +181,33 @@ The company emphasizes creativity, reliability, and precision born from decades 
 **Old description:** Factory-trained repair, maintenance, installation, and sales for most major brands of commercial cooking, food processing equipment, and refrigeration equipment.
 
 ## About
-Founded in 1981 in Van Buren, Arkansas, Franklin Food Equipment has spent over four decades serving commercial kitchens across northwestern Arkansas and eastern Oklahoma. The company began as a service-focused operation, providing factory-trained repair, maintenance, and installation for major brands of commercial cooking, food processing, and refrigeration equipment.
+Franklin Food Equipment was founded in 1981 in Van Buren, Arkansas. The company operates as a commercial food equipment sales and service provider, with factory-trained technicians serving a 200-mile radius that spans western Arkansas and eastern Oklahoma. No founder names or ownership structure are publicly disclosed.
 
-Today, the company offers a full range of services for both hot-side and cold-side equipment. Technicians handle gas and electric ovens, fryers, grills, charbroilers, steam cookers, walk-in coolers and freezers, refrigerated display cases, ice machines, mixers, dough rollers, slicers, meat processing equipment, and dishwashers. In addition to on-site repair, Franklin Food Equipment rebuilds mixers, dough rollers, meat processing equipment, and dish machines, often at a fraction of replacement cost. The company maintains a large inventory of OEM parts and sells new and used equipment from brands such as Hobart, Berkel, Vulcan, and Traulsen, backed by factory-trained installation. Preventative maintenance plans are also available to reduce emergency breakdowns.
+The company repairs, maintains, rebuilds, installs, and sells commercial cooking, food processing, and refrigeration equipment from most major brands. Its service portfolio covers walk-in coolers and freezers, refrigerated display cases, ice machines, gas and electric ovens, fryers, grills, charbroilers, steam cookers, mixers, dough rollers, slicers, meat processing equipment, and dishwashers. Franklin Food Equipment also maintains a large inventory of OEM parts and offers rebuilt equipment as an alternative to new purchases, alongside preventative maintenance plans designed to catch wear before it causes downtime.
 
-The client base spans restaurants, commercial bakeries, food preparation operations, grocery stores, meat processors, schools, medical and nursing facilities, and correctional facilities. Service calls are dispatched within a roughly 200-mile radius of Fort Smith, covering communities including Van Buren, Fort Smith, Russellville, Conway, Waldron, and Mena in Arkansas, as well as Talihina, Wilburton, Stigler, and Poteau in eastern Oklahoma.
+The customer base includes restaurants, commercial bakeries, food preparation operations, grocery stores, meat processors, schools, medical and nursing facilities, and correctional facilities — essentially any operation with a commercial kitchen. Technicians are dispatched on-site across the service area, which includes cities such as Fort Smith, Russellville, Conway, and Mena in Arkansas, and Talihina, Wilburton, Stigler, and Poteau in Oklahoma.
 
-Franklin Food Equipment differentiates itself through its factory-trained technicians, extensive parts inventory, and rapid on-site response. The company emphasizes equipment rebuilding as a cost-saving alternative to replacement and offers preventative maintenance programs designed to extend equipment life and minimize downtime during peak hours.
+The company emphasizes its factory-trained technicians, extensive parts inventory, and rapid on-site response as the foundation of its value proposition. By combining sales, installation, repair, and preventative maintenance under one roof, Franklin Food Equipment aims to serve as a single point of contact for commercial kitchen operators looking to minimize equipment downtime.
 
 ## Known for
-- Factory-trained technicians for most major brands
-- Large OEM parts inventory on hand
-- Equipment rebuilding at a fraction of replacement cost
-- Preventative maintenance plans to reduce emergency calls
-- 200-mile on-site service radius across two states
+- Factory-trained technicians for most major commercial kitchen equipment brands
+- Large inventory of OEM parts and rebuilt equipment
+- 200-mile on-site service radius covering western Arkansas and eastern Oklahoma
+- Equipment rebuilding as a cost-effective alternative to replacement
+- Preventative maintenance plans designed to reduce emergency breakdowns
 
 ## Capabilities
-- Commercial refrigeration repair
-- Commercial cooking equipment repair
-- Prep & dish equipment repair
+- Commercial refrigeration repair (walk-in coolers, freezers, display cases, ice machines)
+- Commercial cooking equipment repair (gas/electric ovens, fryers, grills, charbroilers, steam cooking)
+- Food preparation equipment repair (mixers, dough rollers, slicers, meat processing equipment)
+- Dishwasher and dish machine repair
 - Equipment rebuilding
 - Preventative maintenance plans
-- New equipment sales
-- Used equipment sales
+- New commercial food equipment sales
+- Used commercial food equipment sales
+- OEM parts sales and inventory
 - Factory-trained installation
-- Parts sales
-- Walk-in cooler repair
-- Freezer repair
-- Ice machine repair
-- Gas oven repair
-- Electric oven repair
-- Fryer repair
-- Grill repair
-- Charbroiler repair
-- Steam cooking equipment repair
-- Mixer repair
-- Dough roller repair
-- Slicer repair
-- Meat processing equipment repair
-- Dishwasher repair
+- On-site service within 200-mile radius
 
 ## Industries
 - Restaurants
@@ -251,7 +232,7 @@ Franklin Food Equipment differentiates itself through its factory-trained techni
 - Hobart HL200 20 Quart Mixer
 - Hobart HL662 60 Quart Mixer
 - Hobart A200 Mixer
-- Acme Dough Roller
+- Remanufactured Acme Dough Roller
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -260,17 +241,15 @@ Franklin Food Equipment differentiates itself through its factory-trained techni
 
 <details><summary>Sources</summary>
 
-- Founded 1981 -> db
-- Headquarters Van Buren, Arkansas -> db
-- Services: repair, maintenance, installation, sales -> /
-- Industries served: restaurants, commercial bakeries, food prep operations, grocery stores, meat processors, schools, medical & nursing facilities, correctional facilities -> /
-- Brands serviced: Berkel, Frijado, Hobart, Baxter, Scotsman, Traulsen, Vulcan, Doyon -> /
-- Service radius 200 miles covering Arkansas and Oklahoma -> /
-- Equipment rebuilding offered -> /
-- Preventative maintenance plans offered -> /
-- Large parts inventory -> /
-- New and used equipment sales -> /
-- Factory-trained technicians -> /
+- Founded in 1981 -> db, /
+- Headquartered in Van Buren, Arkansas -> db, /
+- Provides factory-trained repair, maintenance, installation, and sales for commercial cooking, food processing, and refrigeration equipment -> /
+- Services walk-in coolers, freezers, display cases, ice machines, gas/electric ovens, fryers, grills, charbroilers, steam cooking, mixers, dough rollers, slicers, meat processing equipment, dishwashers -> /
+- Offers equipment rebuilding, preventative maintenance plans, new and used equipment sales, large OEM parts inventory -> /
+- Serves restaurants, commercial bakeries, food prep operations, grocery stores, meat processors, schools, medical/nursing facilities, correctional facilities -> /
+- On-site service within 200 miles of Fort Smith, covering listed cities in Arkansas and Oklahoma -> /
+- Represents brands: Berkel, Frijado, Hobart, Baxter, Scotsman, Traulsen, Vulcan, Doyon -> /
+- 45 years in business, 200-mile service radius, 2 states served -> /
 </details>
 
 ---
@@ -280,26 +259,26 @@ Franklin Food Equipment differentiates itself through its factory-trained techni
 **Old description:** Fremont Automotive, with over 24 years in the business, offers the area’s best selection of automotive parts and accessories and is proud to be your premier source for everything automotive! From body parts,electrical components and batteries to tires, clutches, exhaust systems and more, we have exactly what you need to outfit your vehicle! We also have quick delivery and free shipping available.
 
 ## About
-Fremont Automotive, Inc. operates from Selinsgrove, Pennsylvania, and has been serving the automotive aftermarket for over 24 years. The company maintains four locations across central Pennsylvania, including Mount Pleasant Mills, Lewisburg, Millerstown, and its headquarters in Selinsgrove.
+Fremont Automotive, Inc. is headquartered in Selinsgrove, Pennsylvania, with additional branches in Mount Pleasant Mills, Lewisburg, and Millerstown. The company has served the region for over 24 years, building a reputation as a local industry leader. Ownership details and founder names are not publicly disclosed.
 
-The company distributes a broad line of automotive parts and accessories, including body panels, electrical components, batteries, tires, clutches, exhaust systems, brake hardware, and window regulators. Its product range covers complete body shop supplies and conditioning parts. Fremont Automotive emphasizes inventory availability and competitive pricing, with quick delivery and free shipping options for customers.
+The business operates as a distributor of automotive parts and accessories, stocking a wide range of products including body parts, electrical components, batteries, tires, clutches, exhaust systems, oil lines, window regulators, brake hardware, and conditioning parts. Its four locations provide inventory and delivery support to professional repair shops and body shops across central Pennsylvania.
 
-The business serves automotive repair shops, collision centers, and vehicle owners throughout the region. Its customer base includes professional body shops and general repair garages that rely on the company's stock of body shop products, conditioning parts, and mechanical components.
+Primary customers include automotive repair facilities, collision centers, and body shops seeking a reliable source for both mechanical and cosmetic repair parts. The company emphasizes its ability to supply a complete line of body shop products alongside general automotive components.
 
-Fremont Automotive highlights its level of service, inventory depth, and pricing as key differentiators, stating that these factors allow it to meet customer needs unlike other businesses in the area. The company notes it has earned a reputation as a source for quality products at affordable prices over its 30 years in the industry.
+Fremont Automotive differentiates itself through its level of service, extensive inventory, competitive pricing, and quick delivery with free shipping options. The company states that its combination of service, inventory, and pricing allows it to meet customer needs unlike other businesses in the area.
 
 ## Known for
+- Quick delivery and free shipping available
 - Four locations across central Pennsylvania
-- Quick delivery and free shipping options
 - Extensive inventory of body shop and mechanical parts
 - Competitive pricing and service focus
 
 ## Capabilities
 - Automotive parts distribution
-- Body shop supplies
+- Body shop product supply
+- Mechanical parts supply
+- Delivery and shipping
 - Inventory management
-- Quick delivery
-- Free shipping
 
 ## Industries
 - Automotive aftermarket
@@ -312,14 +291,12 @@ Fremont Automotive highlights its level of service, inventory depth, and pricing
 
 <details><summary>Sources</summary>
 
-- Company name: Fremont Automotive -> db
-- Headquarters: Selinsgrove, Pennsylvania -> db
-- Four locations: Mount Pleasant Mills, Lewisburg, Millerstown, Selinsgrove -> /about-us
+- HQ in Selinsgrove, PA -> db
+- Four locations in Mount Pleasant Mills, Lewisburg, Millerstown, Selinsgrove -> /about-us
 - Over 24 years in business -> db
-- 30 years in industry -> /about-us
-- Distributes automotive parts and accessories -> db
+- 30 years in the industry -> /about-us
+- Distributes automotive parts: body parts, electrical components, batteries, tires, clutches, exhaust systems, oil lines, window regulators, brake hardware, conditioning parts -> db
 - Quick delivery and free shipping -> db
-- Body shop supplies -> db
 - Level of service, inventory and pricing -> /about-us
 - Trusted choice for quality products and affordable prices -> /about-us
 </details>
@@ -331,49 +308,48 @@ Fremont Automotive highlights its level of service, inventory depth, and pricing
 **Old description:** Acquisition of Fuji Seiko in Yaita, Japan, a manufacturer of precision metal tubing
 
 ## About
-Freudenberg Medical is headquartered in Minnetonka, Minnesota, and operates as the medical division of the Freudenberg Group, a privately held company with more than 175 years of experience developing high-performance materials.
+Freudenberg Medical is headquartered in Minnetonka, Minnesota, and operates as part of the Freudenberg Group, a family-owned enterprise with more than 175 years of experience developing high-performance materials. The medical division focuses exclusively on contract development and manufacturing for the medical device and pharmaceutical industries.
 
-The company provides vertically integrated services from concept and product development through high-volume production. Its core capabilities include silicone molding and extrusion, scientific thermoplastic injection molding and extrusion, precision metal component manufacturing (tubing, hypotubes, and specialty needles), and advanced surface modifications such as hydrophilic and drug coatings. Freudenberg Medical runs 12 manufacturing sites and two sales offices across key MedTech hubs, encompassing over 813,000 square feet of manufacturing space and employing more than 2,700 people globally.
+The company provides vertically integrated services across 12 manufacturing sites and two sales offices worldwide, encompassing 813,000 square feet of production space and a workforce of over 2,700. Core capabilities include silicone molding and extrusion, thermoplastic injection molding and extrusion, precision metal tubing and hypotube fabrication, specialty needle manufacturing, hydrophilic and drug-eluting coatings, and complex catheter design and assembly. The organization supports programs from rapid prototyping through high-volume production.
 
-The company serves medical device and biopharma customers exclusively, supporting projects ranging from minimally invasive catheters and steerable shafts to implantable, wearable, and interventional devices. Recent expansions — such as a cleanroom sterilization service (CleanAssure) for ready-to-use biopharma assemblies and a Costa Rica site for high-volume thermoplastic extrusion — illustrate its focus on nearshoring and sterile supply-chain solutions.
+Freudenberg Medical serves medical device and biopharma customers globally, with recent expansions adding catheter manufacturing capacity in Jeffersonville, Indiana, and Galway, Ireland, as well as high-volume thermoplastic extrusion in Coyol, Costa Rica. The company's CleanAssure ISO Class 5 cleanroom provides controlled cleaning and sterilization for sterile single-use assemblies, while its LUBRITEQ hydrophilic coating platform addresses friction reduction and trackability for interventional devices.
 
-Freudenberg Medical differentiates itself by combining deep clinical insight with materials expertise across silicones, thermoplastics, metals, and coatings. Its strategic acquisitions — including Fuji Seiko for precision metal tubing, APEC for thermoplastic molding, MedVenture for catheter manufacturing, and a joint venture with VistaMed in Ireland — have broadened its ability to deliver complex, finished devices from a single source.
+The business emphasizes end-to-end partnership, combining clinical insight with deep materials expertise in silicones, thermoplastics, metals, and coatings to de-risk complex projects. Acquisitions such as Fuji Seiko (Japan), APEC (California and China), MedVenture (Indiana), and Jenline Industries (Massachusetts) have broadened its technology portfolio and geographic reach.
 
 ## Known for
-- Vertically integrated CDMO from concept through commercialization
-- Global footprint of 12 manufacturing sites and 2 sales offices in major MedTech hubs
-- Deep materials expertise spanning silicones, thermoplastics, metals, and coatings
-- ISO Class 5 controlled cleanroom for sterile single-use assemblies (CleanAssure)
-- Proprietary hydrophilic coating technology (LUBRITEQ) integrating chemistry and device engineering
+- Vertically integrated CDMO offering concept-to-commercialization support
+- Global footprint of 12 manufacturing sites and 2 sales offices in key MedTech hubs
+- Proprietary LUBRITEQ hydrophilic coating technology
+- CleanAssure ISO Class 5 cleanroom for sterile single-use assembly
+- Deep materials expertise across silicones, thermoplastics, metals, and coatings
 
 ## Capabilities
-- Hydrophilic coating application
-- Drug coating application
-- Scientific injection molding
-- Thermoplastic extrusion
 - Silicone molding
 - Silicone extrusion
-- Catheter development and manufacturing
-- Complex catheter design and assembly
+- Thermoplastic injection molding
+- Thermoplastic extrusion
 - Precision metal tubing manufacturing
 - Hypotube manufacturing
 - Specialty needle manufacturing
-- Metal machining and fabrication
-- Advanced surface finishing for metals
-- Controlled cleaning and sterilization (ISO Class 5 cleanroom)
+- Metal machining
+- Metal fabrication
+- Advanced surface finishing
+- Hydrophilic coating
+- Drug coating
+- Catheter design and development
+- Catheter manufacturing and assembly
+- Complex catheter assembly
 - Concept and product development
+- Scientific injection molding
 - Rapid prototyping
 - High-volume production
-- Vertically integrated CDMO services
+- Controlled cleaning and sterilization (ISO Class 5 cleanroom)
+- Sterile single-use assembly
 
 ## Industries
 - Medical devices
-- Pharmaceuticals
-- Biotechnology
-- Minimally invasive devices
-- Implantable medical devices
-- Wearable medical devices
-- Interventional medical devices
+- Pharmaceutical
+- Biopharma
 
 ## Certifications
 - ISO 13485
@@ -388,19 +364,19 @@ Freudenberg Medical differentiates itself by combining deep clinical insight wit
 <details><summary>Sources</summary>
 
 - Headquarters in Minnetonka, Minnesota -> db
-- Part of Freudenberg Group with 175+ years history -> /
-- 12 global manufacturing sites and 2 sales offices -> /
-- 2,700+ employees -> /
-- 813,000+ sq ft manufacturing space -> /
-- 100% medical & pharma focus -> /
-- Vertically integrated CDMO capabilities -> /
-- Core capabilities: silicone molding/extrusion, thermoplastic injection molding/extrusion, precision metal components, coatings -> /
-- ISO 13485 and ISO 14001 certifications -> db
-- Acquisitions: Fuji Seiko, APEC, MedVenture, Jenline Industries; joint venture with VistaMed -> db
-- CleanAssure ISO Class 5 cleanroom for sterile assemblies -> /
-- LUBRITEQ hydrophilic coating technology -> /
-- Costa Rica site for high-volume thermoplastic extrusion -> db
-- Galway, Ireland site for steerable metal shafts and needle assemblies -> db
+- Part of Freudenberg Group with over 175 years history -> homepage
+- 12 global production sites, 2 sales offices -> homepage
+- 2,700+ employees -> homepage
+- 813k+ sq ft manufacturing space -> homepage
+- 100% medical & pharma focus -> homepage
+- Vertically integrated CDMO -> homepage
+- Capabilities: silicone molding/extrusion, thermoplastic injection molding/extrusion, precision metal components, medical coatings, catheter design/assembly -> homepage
+- Acquisitions: Fuji Seiko, APEC, MedVenture, Jenline Industries, joint venture with VistaMed, Coyol Costa Rica opening -> db
+- Certifications: ISO13485, ISO14001 -> db
+- LUBRITEQ hydrophilic coating launch -> homepage
+- CleanAssure ISO Class 5 cleanroom launch -> homepage
+- Global locations: Galway Ireland (steerable metal shafts), Coyol Costa Rica (high-volume thermoplastic extrusion) -> homepage
+- Mark Gomulka appointed President, Molding & Assembly -> homepage
 </details>
 
 ---
@@ -410,40 +386,37 @@ Freudenberg Medical differentiates itself by combining deep clinical insight wit
 **Old description:** Processing Systems that meet World Class Safety Standards since 1939
 
 ## About
-Friesen's Inc was founded in 1939 in Detroit Lakes, Minnesota. The company has been designing and delivering customized engineering solutions for food processors since its inception, building a reputation on innovative equipment solutions for manufacturing and materials handling plant environments. Ownership details are not publicly disclosed.
+Friesen's Inc. was founded in 1939 in Detroit Lakes, Minnesota. The company designs and engineers custom processing systems from its Minnesota facility.
 
-The company provides custom engineered processing systems, including conveyors, hydraulic power units, control panels, and belting. Its fabrication capabilities were recently expanded with a state-of-the-art fiber laser center with nitrogen generation, satin finish processes, and passivation bays. An in-house team of engineers, programmers, and production professionals handles design, fabrication, parts manufacturing, and service. The UL-listed IP69K-rated panel shop produces custom control systems. Headcount and annual volumes are not disclosed.
+The company provides custom engineered processing systems for food processing, packaging, and manufacturing environments. Its in-house team of engineers, programmers, and production professionals handles design, fabrication, controls programming, and system integration. Recent factory upgrades include a fiber laser cutting center with nitrogen generation, satin finishing processes, and passivation bays, as well as a UL-listed IP69K-rated panel shop for control assembly. Friesen's also offers hydraulic power unit design, custom belting fabrication, and factory acceptance testing, both virtual and in-person.
 
-Friesen's serves the food processing, packaging, and manufacturing industries, with additional belting solutions for agriculture, canning, printing, and package handling. Named customers include Kraft Foods, KLN Enterprise, Monogram Food Solutions (Monogram Meats Snacks), Plumrose USA, and Brown Packing. The equipment is designed for hygienic, wash-down environments and meets food safety and employee safety standards.
+Friesen's serves the food processing, packaging, and manufacturing industries, with additional belting solutions for agriculture, canning, printing, and package handling. Long-term customers include Kraft Foods, KLN Enterprise, Monogram Meat Snacks, Plumrose USA, Brown Packing, and Monogram Food Solutions, who cite the company's hygienic design, tool-less belting, and 3D modeling capabilities.
 
-The company emphasizes in-house engineering as its backbone, with engineers acting as expert system integrators. Differentiators include 24/7/365 nationwide service and support, factory acceptance testing (virtual or in-person), passivation treatment for hygienic delivery, and the ability to design curved incline conveyors. The focus on attention to detail, food safety, functionality, and hygienic design is cited as the foundation of their approach.
+Friesen's emphasizes engineering as its backbone, with in-house engineers acting as expert system integrators. The company highlights 24/7/365 nationwide service and support, a unique capability in curved incline conveyor design, and a focus on sanitary, wash-down-ready equipment that meets safety standards.
 
 ## Known for
 - 24/7/365 nationwide service and support
-- In-house engineering team as expert system integrators
-- State-of-the-art fiber laser center with nitrogen generation
-- UL-listed IP69K-rated panel shop for custom controls
-- Passivation treatment to ensure hygienic delivery
-- Virtual and in-person factory acceptance testing
-- Custom curved incline conveyor design capability
+- In-house engineering team with hygienic design expertise
+- UL-listed IP69K-rated control panel shop
+- Fiber laser cutting with nitrogen generation and passivation bays
+- Curved incline conveyor design capability
 
 ## Capabilities
-- Custom engineering and design
-- System controls programming
-- Hydraulic system design and repair
-- Lightweight belting fabrication
-- Parts manufacturing and supply
+- Custom engineered processing systems
+- Design and fabrication
+- In-house engineering and programming
+- System controls and programming
+- Hydraulic power unit design and repair
+- Light weight belting fabrication and service
+- Custom parts manufacturing
 - Passivation treatment
-- Factory acceptance testing (FAT)
-- Custom conveyor design (including curved incline)
-- Stainless steel fabrication
-- Laser cutting with nitrogen generation
+- Factory acceptance testing (virtual and in-person)
+- Curved incline conveyor design
+- UL listed IP69K control panel assembly
+- Fiber laser cutting with nitrogen generation
 - Satin finishing
-- Panel shop (UL listed IP69K)
-- Custom hydraulic power unit design
-- Field service for belting
-- Custom-built parts and specialty parts
-- Sanitary/hygienic equipment design
+- Sanitary/hygienic design
+- 24/7 nationwide service and support
 
 ## Industries
 - Food Processing
@@ -452,16 +425,17 @@ The company emphasizes in-house engineering as its backbone, with engineers acti
 - Agriculture
 - Canning
 - Printing
-- Package handling
+- Package Handling
 
 ## Equipment
-- Fiber laser center with nitrogen generation
+- Fiber laser cutting center with nitrogen generation
+- Satin finishing processes
 - Passivation bays
-- UL listed IP69K rated panel shop
-- Satin finish processes
+- UL-listed IP69K-rated panel shop
 
 ## Certifications
-- UL listed IP69K
+- UL listed
+- IP69K
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -470,21 +444,25 @@ The company emphasizes in-house engineering as its backbone, with engineers acti
 
 <details><summary>Sources</summary>
 
-- Founded 1939 in Detroit Lakes, Minnesota -> db
-- Provides design, fabrication, parts, service solutions for food processing, packaging, manufacturing -> /
-- In-house engineers, programmers, production professionals -> /
-- Factory upgrades: fiber laser center with nitrogen generation, satin finish, passivation bays -> /
+- Founded in 1939 -> db, /
+- Headquarters in Detroit Lakes, Minnesota -> db, /
+- Provides custom engineered processing systems for food processing, packaging, manufacturing -> /
+- In-house engineering, programming, production professionals -> /
+- 24/7/365 nationwide service and support -> /, db capabilities
+- Fiber laser center with nitrogen generation, satin finish processes, passivation bays -> /
 - UL listed IP69K rated panel shop -> /services
-- 24/7/365 nationwide service and support -> /
+- Curved incline conveyor design capability -> /services
+- Customers: Kraft Foods, KLN Enterprise, Monogram Meat Snacks, Plumrose USA, Brown Packing, Monogram Food Solutions -> /
+- Industries served: Food Processing, Packaging, Manufacturing, Agriculture, Canning, Printing, Package Handling -> /, /services
 - Services: Engineering, System Controls, Hydraulics, Light Weight Belting, Parts, Passivation, Factory Acceptance Testing -> /services
-- Customers: Kraft Foods, KLN Enterprise, Monogram Food Solutions, Plumrose USA, Brown Packing -> /
-- Hygienic design, IP69k, wash-down stainless steel -> /
-- Custom curved incline conveyor capability -> /services
-- Passivation treatment for hygienic delivery -> /services
-- Virtual and in-person FAT -> /services
-- Belting for food handling, agriculture, canning, printing, package handling -> /services
-- Custom hydraulic power units -> /services
-- Custom-built parts and specialty parts -> /services
+- Custom parts manufacturing -> /services
+- Hydraulic power unit design and repair -> /services
+- Belting supply and field service -> /services
+- Passivation treatment -> /services
+- Factory acceptance testing (virtual and in-person) -> /services
+- Sanitary/hygienic design focus -> /
+- IP69k components mentioned in testimonial -> /
+- 3D modeling for design mentioned in testimonial -> /
 </details>
 
 ---
@@ -494,52 +472,51 @@ The company emphasizes in-house engineering as its backbone, with engineers acti
 **Old description:** Front Range Renewable Energy, FRRE, is dedicated to providing customers and consumers with the highest level of service and commitment possible regarding their renewable energy needs. We at FRRE not only believe in the development of the renewable energy industry, but in the education of the community as well. Given the proper knowledge and tools we feel you can make an educated decision regarding
 
 ## About
-Front Range Renewable Energy (FRRE) operates from Deming, New Mexico, where it moved its headquarters to the Sunrise RV Park on East Pine Street. The company does not disclose its founding year or ownership structure, but it presents itself as a dedicated provider of off-grid energy solutions.
+Front Range Renewable Energy (FRRE) is based in Deming, New Mexico, where it operates from its headquarters at the Sunrise RV Park. The company focuses exclusively on off-grid energy solutions.
 
-FRRE designs, builds, and sells a range of portable solar power equipment under its own branding. Its product line includes the Mini Too and Mini Portable Solar Power Station generators, solar suitcases in 60‑watt and 100‑watt configurations, RV and camper solar systems, the All American Sun Oven, a 12‑volt 5‑watt battery maintainer, and the Bilge Buddy solar pump. The company also offers complete off‑grid system installation and home energy audits.
+The company specializes in off-grid energy products and installation services. Its product lineup includes portable solar generators such as the Mini Too and the Mini Portable Solar Power Station, solar suitcases in 60‑watt and 100‑watt versions, the All American Sun Oven, 12‑volt battery maintainers, and RV/camper solar systems. FRRE also offers home energy audits and fleet pricing for larger orders. The portable generators are described as fully customizable and upgradeable to accommodate changing needs.
 
-The company serves off‑grid homeowners, RV and marine enthusiasts, and fleet operators, with fleet pricing explicitly advertised. Its home energy audit service targets residential customers seeking to reduce electricity costs, while its educational materials aim at broader community awareness. FRRE positions itself as a one‑stop shop for both product supply and implementation.
+FRRE serves customers seeking energy independence, including RV and camping enthusiasts, off-grid homeowners, and fleet operators. The company emphasizes community education, providing resources to help consumers make informed decisions about renewable energy purchases.
 
-FRRE emphasizes that its portable generators are fully customizable and upgradeable to adapt to changing power needs. It also highlights a commitment to consumer education, stating that proper knowledge enables energy‑conscious purchases and lifestyle changes. The firm’s stated mission is to advance the renewable energy industry through both product development and community outreach.
+FRRE states that it was founded on a belief in developing the renewable energy industry and educating the community, aiming to give customers the knowledge and tools to reduce their electric bills by up to 50 percent.
 
 ## Known for
-- Fully customizable and upgradeable portable solar generators
-- Fleet pricing available
-- Specialized in off-grid energy products and installation
-- Home energy audit services
-- Community education on energy savings
+- Portable solar generators are fully customizable and upgradeable
+- Mini Portable Solar Power Unit is compact and lightweight for on-the-go charging
+- Fleet pricing available for volume orders
+- Home energy audits offered to identify savings up to 50% on electric bills
+- Sole focus on off-grid energy products and installation
 
 ## Capabilities
-- Off-grid solar product design and assembly
-- Portable solar generator customization
-- Solar system installation
+- Off-grid solar system installation
 - Home energy audits
-- Renewable energy education
+- Portable solar generator sales and customization
+- Solar suitcase sales
+- Solar oven sales
+- RV/camper solar system sales
+- 12-volt battery maintainer sales
 
 ## Industries
-- Renewable energy
-- Off-grid power
-- Recreational vehicles
-- Marine
+- Off-grid renewable energy
+- Recreational vehicle (RV) and camping
 - Residential energy efficiency
 - Fleet management
 
 ## Company details
-- **Company Type:** Manufacturer
-- **Headquarters:** Deming, New Mexico
+- **Company Type:** Distributor / reseller
+- **Headquarters:** Deming, NM
 
 <details><summary>Sources</summary>
 
-- Headquarters in Deming, NM at Sunrise RV Park -> /
-- Product line includes Mini Too, Mini Portable Solar Power Station, solar suitcases (60W, 100W), RV/camper systems, All American Sun Oven, 12V 5W charger, Bilge Buddy -> /
-- Off-grid energy products and installation services -> /
-- Home energy audit service -> /
+- Headquarters in Deming, NM -> /
+- Off-grid energy products and installation focus -> /
+- Product lineup: portable solar generators, solar suitcases, Sun Oven, battery maintainers, RV/camper systems -> /
+- Home energy audits offered -> /
 - Fleet pricing available -> /
-- Portable generators fully customizable and upgradeable -> /
-- Commitment to renewable energy industry development and community education -> db
-- Solar suitcases designed and built with top quality components -> db
-- Company dedicated to highest level of service and commitment -> db
-- Education focus: energy saving video, 50% electric bill reduction claim -> /
+- Portable generators customizable and upgradeable -> /
+- Mini Portable Solar Power Unit compact and lightweight -> /
+- Company believes in renewable energy development and community education -> /
+- Aims to help customers reduce electric bills by up to 50% -> /
 </details>
 
 ---
@@ -549,34 +526,40 @@ FRRE emphasizes that its portable generators are fully customizable and upgradea
 **Old description:** Frontier Kitchen is a business incubator for the culinary world.
 
 ## About
-Frontier Kitchen was founded in 2020 in Lorton, Virginia, by Brenda Cromer and Cassity Jones. The company operates as a business incubator for culinary entrepreneurs, with additional locations in Chantilly, Virginia, and Pittsburgh, Pennsylvania.
+Frontier Kitchen was founded in 2020 in Lorton, Virginia, by Brenda Cromer and Cassity Jones, who serve as CEO and COO respectively. The company began as a business incubator for the culinary world, aiming to provide food entrepreneurs with the facilities and expertise needed to build and grow their ventures.
 
-The company provides shared commercial kitchen facilities that are fully certified and equipped, staffed seven days a week for business consultation and cleaning. It also runs Frontier Kitchen University, offering courses taught by staff and a network of food professionals. The incubator model includes education, coaching for growth, and ongoing community support through an internal communication platform.
+The incubator operates three Mid-Atlantic commercial kitchen locations — Lorton and Chantilly in Virginia, and Sharpsburg in Pennsylvania — each fully certified and equipped with on-site staff available seven days a week for business consultation and cleaning. Beyond kitchen access, Frontier Kitchen delivers a structured program that includes Frontier Kitchen University, an online course platform taught by staff and a network of food professionals, as well as one-on-one coaching that scales from early sales management to franchising strategy. The company reports having supported hundreds of food entrepreneurs since launch.
 
-Frontier Kitchen serves food entrepreneurs aiming to launch or scale food businesses, from small family ventures to national brands. Its members and graduates include Rice Culture, Go Oats, My Alfajor, Hello Bread, Oh Graze Away, Rosa Bakes, Rumalutions Rum Cakes, Pasta Il Gato, and Treats and Sweets 4u, spanning products such as baked goods, snacks, and specialty foods.
+Clients range from packaged-goods startups to bakery concepts; graduate and member brands include Rice Culture, Go Oats, My Alfajor, Hello Bread, Oh Graze Away, Rosa Bakes, Rumalutions Rum Cakes, Pasta Il Gato, and Treats and Sweets 4u. The service targets culinary entrepreneurs at any stage, from concept development through national brand expansion.
 
-The founders created Frontier Kitchen to address the obstacles culinary entrepreneurs face, offering a proven method that combines education, coaching, and a supportive network to help clients move from concept to company.
+Frontier Kitchen's stated differentiator is a three-step method: educate through in-kitchen consultation and online courses, coach for growth with stage-specific guidance, and sustain a community network that provides ongoing peer support via an internal communication platform. The founders frame the mission as empowering entrepreneurs to achieve goals whether they seek a family-sustaining business or a nationwide brand.
 
 ## Known for
-- Fully certified commercial kitchens with on-site staff 7 days a week
-- Frontier Kitchen University offers courses taught by staff and food professionals
-- Proven method: educate, coach for growth, offer support and community
-- Supported hundreds of food entrepreneurs creating national brands or opening restaurants
+- Three certified commercial kitchen locations with on-site staff seven days a week
+- Structured three-step method: educate, coach for growth, provide community network
+- Frontier Kitchen University courses taught by staff and food-industry professionals
+- Hundreds of food entrepreneurs supported, including national-brand graduates
+- Business consultation and compliance guidance included with kitchen access
 
 ## Capabilities
-- Commercial kitchen facility rental
-- Business incubation
-- Culinary education (Frontier Kitchen University)
-- Business coaching
-- Community and network support
-- On-site business consultation
-- On-site cleaning services
+- Commercial kitchen facility access
+- Food business incubation
+- Business consulting and coaching
+- Culinary education and training (Frontier Kitchen University)
+- Certification and compliance guidance
+- Marketing and customer acquisition support
+- Community and peer network access
+- Product development support
+- Sales management coaching
+- Franchising strategy guidance
 
 ## Industries
-- Culinary
-- Food business
+- Food and beverage manufacturing
+- Packaged foods
+- Bakery and confectionery
+- Specialty foods
+- Culinary startups
 - Food entrepreneurship
-- Restaurant
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -587,14 +570,15 @@ The founders created Frontier Kitchen to address the obstacles culinary entrepre
 
 - Founded 2020 -> db
 - Headquarters Lorton, Virginia -> db
-- Locations in Lorton VA, Chantilly VA, Pittsburgh PA -> /
-- Founders Brenda Cromer and Cassity Jones -> /about
-- Team includes Loreann Grimes and Sara Cunningham -> /about
-- Offers commercial kitchen facilities with on-site staff -> /
-- Provides Frontier Kitchen University courses -> /
-- Supports food entrepreneurs like Rice Culture, Go Oats, etc. -> /
-- Mission to empower entrepreneurs -> /about
-- Method: educate, coach, support -> /about
+- Co-founders Brenda Cromer (CEO) and Cassity Jones (COO) -> /about
+- Three locations: Lorton VA, Chantilly VA, Sharpsburg PA -> /
+- Fully certified commercial kitchens with on-site staff 7 days a week -> /
+- Frontier Kitchen University online courses taught by staff and food professionals -> /
+- Supported hundreds of food entrepreneurs -> /, /about
+- Member/graduate brands: Rice Culture, Go Oats, My Alfajor, Hello Bread, Oh Graze Away, Rosa Bakes, Rumalutions Rum Cakes, Pasta Il Gato, Treats and Sweets 4u -> /
+- Three-step method: educate, coach for growth, community network -> /about
+- Mission: empower entrepreneurs from family business to nationwide brand -> /about
+- Team includes Loreann Grimes (Director of Operations) and Sara Cunningham (Director of Sales) -> /about
 </details>
 
 ---
@@ -604,38 +588,55 @@ The founders created Frontier Kitchen to address the obstacles culinary entrepre
 **Old description:** worldwide by leading diode manufacturers and independent testing labs.
 
 ## About
-Frothingham Electronics Corporation engineers and manufactures diode testers and scanners in Wakefield, New Hampshire. The company’s founding year and ownership structure are not publicly disclosed, but its products have been in use since at least 1997, as indicated by copyright notices.
+Frothingham Electronics Corporation operates from Wakefield, New Hampshire, where it engineers and manufactures diode test equipment. The company’s founding year and ownership structure are not publicly disclosed; its website has carried a copyright notice since 1997.
 
-The company produces a line of industrial diode testers—including models such as the FEC200E, PLS500, SC924, and Scan500—designed to test zeners, rectifiers, bridges, signal diodes, thyristors, current regulators, and TVS diodes in accordance with MIL‑SPEC 19500. The testers are noted for easy‑to‑use software, flexibility, affordability, and reliability. No facility size, headcount, or production volumes are published.
+The company produces a line of industrial diode testers and scanners, including models such as the FEC200E, PLS500, PLS510, SC924, Scan500, VF1600, VF40CM, and the CV series. These systems are designed to test zeners, rectifiers, bridges, signal diodes, thyristors, current regulators, and TVS diodes in accordance with MIL‑SPEC 19500. FEC emphasizes easy‑to‑use software, flexible configurations, and reliable performance, and offers a standard handler interface for integration into automated lines.
 
-Customers span the aerospace industry, military suppliers, automobile alternator re‑manufacturers, diode manufacturers, and independent testing laboratories. The equipment is used worldwide for production testing and quality assurance of diode components.
+Primary customers include aerospace manufacturers, military suppliers, and automobile alternator remanufacturers. Diode manufacturers and independent testing laboratories worldwide also rely on FEC equipment for production testing and quality assurance.
 
-Frothingham differentiates itself by building all testers to meet MIL‑SPEC 19500 requirements and by offering a range of models that cover a broad spectrum of diode types, supported by calibration services and technical documentation.
+FEC positions its testers as affordable, flexible, and reliable solutions built to meet stringent military specifications. The company also provides calibration services, thermal testing resources, and technical manuals to support operators, and maintains a customer support section with troubleshooting guides.
 
 ## Known for
-- Engineered and manufactured in Wakefield, New Hampshire, USA
-- Test diodes to MIL‑SPEC 19500
-- Easy‑to‑use software, flexibility, affordability, and reliability
-- Used worldwide by leading diode manufacturers and independent test labs
-- Covers zeners, rectifiers, bridges, signal diodes, thyristors, current regulators, TVS diodes
+- Testers compliant with MIL‑SPEC 19500
+- Easy‑to‑use software with flexible test configurations
+- Affordable, reliable diode test equipment
+- Standard handler interface for automation
+- Calibration and thermal testing support services
 
 ## Capabilities
-- Diode testing
-- Diode scanning
+- Diode testing (zeners, rectifiers, bridges, signal diodes, thyristors, current regulators, TVS diodes)
+- Scanner manufacturing
 - MIL‑SPEC 19500 compliance testing
 - Thermal testing
 - Calibration services
+- Engineering and manufacturing of test equipment
 - Production testing
+- Technical support and troubleshooting
 
 ## Industries
 - Aerospace
 - Military/Defense
-- Automotive (alternator re-manufacturing)
+- Automotive (alternator remanufacturing)
 - Diode manufacturing
 - Independent testing laboratories
 
+## Equipment
+- FEC200E Diode Tester
+- PLS500
+- PLS510
+- SC924
+- Scan500
+- VF1600
+- VF40CM
+- CV5 P350
+- CV30 P300
+- CV30 P650
+- CV400
+- CV300
+- Standard handler interface
+
 ## Certifications
-- MIL‑SPEC 19500
+- MIL-SPEC 19500
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -643,14 +644,13 @@ Frothingham differentiates itself by building all testers to meet MIL‑SPEC 195
 
 <details><summary>Sources</summary>
 
-- Headquarters in Wakefield, New Hampshire -> /
+- Headquarters in Wakefield, NH -> /
 - Manufactures diode testers and scanners -> /
-- Tests diodes to MIL‑SPEC 19500 -> /
-- Serves aerospace, military, automotive alternator re‑manufacturers -> /
-- Products include FEC200E, PLS500, SC924, Scan500 -> /
-- Used by leading diode manufacturers and independent testing labs -> /
-- Offers calibration services and technical manuals -> /
-- Site update February 2011 added FEC200E -> /about-us
+- Products include FEC200E, PLS500, SC924, etc. -> /
+- Tests to MIL-SPEC 19500 -> /
+- Serves aerospace, military, automotive alternator remanufacturers -> /
+- Offers calibration and thermal testing support -> /
+- Website copyright 1997 -> /
 </details>
 
 ---

@@ -3,48 +3,56 @@
 **Old description:** Daniel’s Food Equipment handles meat mixing, meat mincing, meat grinding, vacuum tumblers and vacuum marinators, meat massaging, sausage stuffing, food handling, meat and salad mixing, and custom stainless steel products. We are the preferred supplier of food processing equipment and food service equipment in commercial kitchens and food processing facilities such as delis, bakeries, grocery stores, restaurants, locker plants, and for serious hunters.
 
 ## About
-Daniel's Food Equipment Inc. (DFE) is based in Parkers Prairie, a small city in central Minnesota. The company does not disclose its founding year or ownership structure, and no founders are named in public materials.
+Based in Parkers Prairie, Minnesota, Daniel's Food Equipment Inc. (DFE) operates as a manufacturer of food processing equipment for commercial kitchens and processing facilities. The company does not publish its founding date or ownership details, but it presents itself as a preferred supplier for a wide range of food service operations.
 
-DFE designs and builds food processing equipment for commercial kitchens and production facilities. Its product line includes mixers, grinders, sausage stuffers, vacuum tumblers, mixer-grinders, and a range of stainless steel accessories such as utility carts, tables, tub dollies, and smokehouse components. The company emphasizes stainless steel fabrication, offering custom equipment alongside standard models for meat mixing, mincing, grinding, vacuum marinating, and massaging.
+DFE produces a line of stainless steel equipment including mixers, grinders, sausage stuffers, tumblers, and mixer-grinders, along with accessories such as utility carts, tables, tub dollies, and smokehouse accessories. The product range covers meat mixing, mincing, grinding, vacuum tumbling and marinating, meat massaging, sausage stuffing, food handling, and salad mixing, and the company also builds custom stainless steel products for specialized applications.
 
-The equipment is sold to delis, bakeries, grocery stores, restaurants, locker plants, and individual hunters who process their own meat. DFE also maintains a network of authorized dealers and service offices across the United States, listed under names such as Huwa Sales & Service, Berkel Midwest Sales & Service, and Tusko Sales & Service.
-
-The company was started to provide reliable, durable food processing machinery backed by strong after-sales support.
+Its customer base spans delis, bakeries, grocery stores, restaurants, locker plants, and serious hunters — essentially any operation that processes meat or prepares food in volume. The equipment is designed for commercial kitchens and food processing facilities that require durable, sanitary stainless steel construction.
 
 ## Known for
 - High-quality stainless steel manufacturing
 - Industry-leading warranty coverage
-- Nationwide authorized dealer and service network
 - Custom stainless steel fabrication for food processing
 
 ## Capabilities
-- Meat mixing
-- Meat mincing
-- Meat grinding
-- Vacuum tumbling
-- Vacuum marinating
-- Meat massaging
-- Sausage stuffing
-- Food handling equipment manufacturing
-- Meat and salad mixing
-- Custom stainless steel fabrication
-- Mixer manufacturing
-- Grinder manufacturing
+- Meat mixing equipment manufacturing
+- Meat grinding equipment manufacturing
+- Vacuum tumbler manufacturing
 - Sausage stuffer manufacturing
-- Tumbler manufacturing
 - Mixer-grinder manufacturing
-- Accessory manufacturing (utility carts, tables, tub dollies)
+- Custom stainless steel fabrication
+- Food handling equipment manufacturing
+- Salad mixing equipment manufacturing
 
 ## Industries
 - Food processing
-- Food service
-- Commercial kitchens
-- Delis
-- Bakeries
-- Grocery stores
-- Restaurants
-- Locker plants
+- Commercial food service
 - Meat processing
+- Bakery
+- Grocery
+- Restaurant
+- Locker plants
+- Hunting/Meat processing
+
+## Equipment
+- Mixers
+- Grinders
+- Sausage Stuffers
+- Tumblers
+- Mixer-Grinders
+- Utility Carts
+- Tables
+- Tub Dollies
+- Smokehouse Accessories
+- Injectors
+- Lifts
+- Bag Loaders
+- Manual Feed Grinders
+- Mechanical Portioners
+- Grease Transfer Systems
+- Grinding Room Tool Rack
+- Snack Stick Cutting Board
+- Tumbler Tags
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -53,15 +61,14 @@ The company was started to provide reliable, durable food processing machinery b
 <details><summary>Sources</summary>
 
 - Location: Parkers Prairie, Minnesota -> db
-- Manufactures mixers, grinders, sausage stuffers, tumblers, mixer-grinders -> /
-- Produces accessories: utility carts, tables, tub dollies -> /
-- Serves delis, bakeries, grocery stores, restaurants, locker plants, serious hunters -> /
-- Claims high quality stainless steel manufacturing and best warranty -> /
-- Authorized dealer network listed (Huwa, Berkel, Tusko, etc.) -> db
-- Product lines include bag loaders, custom equipment, grease transfer systems, injectors, lifts, manual feed grinders, mechanical portioners, smokehouse accessories, snack stick cutting boards -> /
-- Contact address: 310 North Clayborn Ave, PO Box 341, Parkers Prairie MN 56361 -> /
-- Email: danielsfood@midwestinfo.net -> /
-- Phone: (218)338-5000 -> /
+- Manufactures mixers, grinders, sausage stuffers, tumblers, mixer-grinders -> homepage
+- Produces accessories: utility carts, tables, tub dollies, smokehouse accessories -> homepage
+- Offers custom stainless steel products -> homepage
+- Serves delis, bakeries, grocery stores, restaurants, locker plants, serious hunters -> homepage
+- Claims high-quality stainless steel manufacturing and best warranty -> homepage
+- Address: 310 North Clayborn Ave, PO Box 341, Parkers Prairie MN 56361 -> homepage
+- Contact: (218)338-5000, danielsfood@midwestinfo.net -> homepage
+- Website: food-equipment-sales.com -> db
 </details>
 
 ---
@@ -71,57 +78,61 @@ The company was started to provide reliable, durable food processing machinery b
 **Old description:** For the best experience on our site, be sure to turn on Javascript in your browser.
 
 ## About
-Daniels Manufacturing Corporation (DMC) is headquartered in Orlando, Florida. The company traces its roots to 1947 when founder Bill Daniels began a general job-shop in Pontiac, Michigan, producing components for automotive manufacturers such as Ford. Incorporated in 1949 in Bloomfield Hills, Michigan, DMC is a veteran-owned small business that emphasizes a family culture across its operations.
+Daniels Manufacturing Corporation (DMC) was founded in 1947 by Bill Daniels in Pontiac, Michigan, and incorporated in 1949 in Bloomfield Hills, Michigan. The company established its headquarters in Orlando, Florida, in 1984 following a merger with Balmar. DMC is a veteran-owned small business that emphasizes a family culture and has been producing tooling for mission-critical electrical systems for over 75 years.
 
-DMC designs and manufactures precision crimp tools, connector assembly tool kits, wire preparation tools, and specialty products including Safe-T-Cable® and LaceLok® for mission-critical electrical systems. Its in-house manufacturing encompasses CNC milling and turning, electrical discharge machining (EDM), and precision grinding, supporting custom tooling projects from concept through testing. The company operates a state-of-the-art facility with dozens of modern machines and maintains a global distributor network in more than 35 countries; many of its tools appear on the Department of Defense Qualified Product List (QPL).
+DMC designs and manufactures precision crimp tools, tool kits, connector assembly tools, Safe-T-Cable® systems, wire preparation tools, and LaceLok® wire harness supports. The company also provides custom tooling solutions, taking projects from concept through design, testing, and manufacturing in its Orlando facility, which houses CNC milling and turning machines, EDM equipment, dual-axis CNC live tooling, and precision grinders. Many of its tools are listed on the Department of Defense Qualified Products List (QPL) and are manufactured in the United States.
 
-DMC serves government and defense (ground, naval, aviation, space), commercial aviation (OEM, MRO, eVTOL, rotorcraft, airlines), space (satellites, launch vehicles), medical device manufacturers, telecommunications (military and RF wireless networks), automotive (OEM, motorsport, off-highway), rail (wayside, locomotive), power generation (hydro, solar, wind, nuclear), and automation (mining, robotics). Reference customers cited include Sundown Aerospace, Southwire, Avionics Solutions, GAMA Aviation, Star Aviation, Endeavor Air, Woodward, Durex Industries, and Fulcrum Concepts.
+DMC serves a broad range of industries, including government (ground, naval, aviation, space), aviation (OEM, MRO, eVTOL, rotorcraft, commercial and executive airlines, drones), space (satellites, launch vehicles, space station), medical (devices and equipment), telecommunications (military and hardened networks, RF wireless), automotive (OEM, service/repair, motorsport, off-highway), rail (wayside, locomotive), power generation (hydro, solar, wind, natural gas, nuclear), and automation (mining, manufacturing, robotics). Customers cited in testimonials include Sundown Aerospace LLC, Southwire, Avionics Solutions, GAMA Aviation, Star Aviation Inc., Endeavor Air, Woodward, Durex Industries, and Fulcrum Concepts LLC.
 
-The company states its differentiation lies in its veteran-owned, family-culture foundation; AS9100D and ISO 9001:2015 certification; a nationwide team of field experts who visit customer facilities; active participation in industry standards bodies; and a commitment to custom solutions when standard tooling does not exist.
+The company differentiates itself through a nationwide team of tooling experts who visit customer facilities, active participation in industry standards associations, and a commitment to custom solutions built in-house. DMC’s quality management system is certified to AS9100D and ISO 9001:2015 by NSF-ISR, and its veteran-owned, small-business status underscores a focus on precision, dependability, and long-term customer relationships.
 
 ## Known for
-- Tools listed on the Department of Defense Qualified Product List (QPL)
-- Veteran-owned small business with a family-culture operating philosophy
-- Custom tooling developed from concept through in-house manufacturing
-- Nationwide field-service experts for on-site customer support
-- AS9100D and ISO 9001:2015 certified quality management
+- Nationwide field experts who visit customer facilities for on-site support
+- Active contributors to leading industry standards associations
+- Custom tooling from concept through design, testing, and manufacturing in-house
+- Tools manufactured in the U.S. with many on the DoD Qualified Products List
+- Veteran-owned small business with AS9100D and ISO 9001:2015 certification
 
 ## Capabilities
-- Precision crimp tool manufacturing
-- Custom tooling design and manufacturing
 - CNC milling
 - CNC turning
-- Electrical discharge machining (EDM)
-- Precision grinding
-- Tool kit assembly and kitting
-- Connector assembly tooling
-- Wire preparation and stripping tooling
-- Safety cable installation tooling (Safe-T-Cable)
-- Cable lacing and tying solutions (LaceLok)
-- Tensile test equipment manufacturing
-- Calibration and repair services
-- Field service and on-site technical support
-- Industry standards contribution
+- EDM
+- precision grinding
+- custom tooling design
+- tool manufacturing
+- testing
+- precision crimp tool production
+- tool kit assembly
+- connector assembly tooling
+- Safe-T-Cable manufacturing
+- wire preparation tooling
+- LaceLok manufacturing
+- tensile test equipment manufacturing
+- backshell tooling
+- pneumatic crimp tool manufacturing
+- pneumatic wire stripper manufacturing
+- large gauge crimping
+- battery-powered crimp tool manufacturing
+- adjustable stripping tool for twisted shielded cable
 
 ## Industries
-- Aerospace
-- Defense
+- Government
 - Aviation
 - Space
-- Medical Devices
+- Medical
 - Telecommunications
 - Automotive
 - Rail
 - Power Generation
 - Automation
-- Government/Military
+- Marine
 
 ## Equipment
 - CNC milling machines
 - CNC turning machines
-- EDM machines
-- Dual-axis CNC live tooling
-- Precision grinding machines
+- EDM
+- dual-axis CNC live tooling
+- precision grinders
 
 ## Certifications
 - AS9100D
@@ -131,26 +142,26 @@ The company states its differentiation lies in its veteran-owned, family-culture
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1947
-- **Ownership:** Veteran-owned small business, family culture
+- **Ownership:** Veteran-owned small business
 - **Headquarters:** Orlando, Florida
 
 <details><summary>Sources</summary>
 
-- Headquarters in Orlando, Florida -> /about
 - Founded 1947 by Bill Daniels in Pontiac, Michigan -> /about
 - Incorporated 1949 in Bloomfield Hills, Michigan -> /about
+- Headquarters moved to Orlando, Florida in 1984 after merger with Balmar -> /about
 - Veteran-owned small business with family culture -> /about
-- Manufactures precision crimp tools, tool kits, connector assembly tools, Safe-T-Cable, wire prep tools, LaceLok -> /
-- Manufacturing processes: CNC milling, turning, EDM, precision grinding -> /about
-- State-of-the-art facility with dozens of modern machines -> /about
-- Distributors in 35+ countries -> /
-- Tools on Department of Defense Qualified Product List (QPL) -> /
-- Industries served: government, aviation, space, medical, telecommunications, automotive, rail, power generation, automation -> /
-- Customer examples: Sundown Aerospace, Southwire, Avionics Solutions, GAMA Aviation, Star Aviation, Endeavor Air, Woodward, Durex Industries, Fulcrum Concepts -> /
 - AS9100D and ISO 9001:2015 certified by NSF-ISR -> /about
-- Custom tooling from concept to manufacturing -> /
-- Nationwide field experts for on-site support -> /
-- Contributes to leading standards associations -> /
+- Manufactures precision crimp tools, tool kits, connector assembly tools, Safe-T-Cable, wire prep tools, LaceLok -> /
+- Custom tooling solutions: CNC milling, turning, EDM, precision grinding -> /about
+- Facility includes CNC milling machines, EDM, dual-axis CNC live tooling, precision grinders -> /about
+- Tools on DoD Qualified Products List (QPL), manufactured in USA -> /
+- Distributors in 35+ countries -> /
+- Industries served: Government, Aviation, Space, Medical, Telecommunications, Automotive, Rail, Power Generation, Automation, Marine -> /
+- Customer examples: Sundown Aerospace LLC, Southwire, Avionics Solutions, GAMA Aviation, Star Aviation Inc., Endeavor Air, Woodward, Durex Industries, Fulcrum Concepts LLC -> /
+- Nationwide field experts visit customer facilities -> /
+- Contributes to industry standards associations -> /
+- MIL-SPEC certification listed -> db
 </details>
 
 ---
@@ -160,46 +171,42 @@ The company states its differentiation lies in its veteran-owned, family-culture
 **Old description:** Full-service metal fabrication, installation and plant maintenance done safely and efficiently
 
 ## About
-Danser, Inc. was founded in 1946 and is headquartered in Parkersburg, West Virginia. The company began as a metal fabrication shop and has grown into a full-service provider of fabrication, installation, and plant maintenance services.
+Danser, Inc. was founded in 1946 and operates from Davisville, West Virginia, with a mailing address in nearby Parkersburg. The company has been providing full-service metal fabrication, installation, and plant maintenance for over eight decades.
 
-Today Danser operates a 50,000-square-foot fabrication facility where it performs steel, sheet metal, and piping fabrication, modular fabrication, equipment assembly, baghouse fabrication, welding, and ductwork fabrication. The shop offers rolling and bending capacities up to 96-inch diameter and handles prototype through production quantities. Robotic-assisted processes and in-house electrical panel building complement the fabrication work.
+The shop delivers steel, sheet metal, and piping fabrication, including plate and structural steel work, modular fabrication, equipment assembly, and shop-installed insulation and lagging. Specialized capabilities include Vacuduct® high-temperature insulated ductwork, plate rolling up to 96-inch diameter, plasma and laser cutting, welding, baghouse fabrication, and spiral pipe production in 16–28 gauge. The company handles projects from prototype through production quantities, though facility size and headcount are not published.
 
-The company serves industries including chemical, polymers, oil and gas, power generation, structural clay, ceramics, glass, pollution control, and rubber. Customers range from ceramic and brick manufacturers to glass plants and chemical facilities, with testimonials citing emergency maintenance, kiln installations, and pollution control system projects.
+Danser serves the chemical, polymer, oil and gas, power generation, structural clay, ceramics, glass, pollution control, and rubber industries. Customers include ceramic manufacturing plants, glass and ceramics facilities, brick manufacturers, and chemical plants that rely on the firm for exhaust stacks, combustion piping, ductwork, and emergency maintenance during shutdowns.
 
-Danser emphasizes what it calls the Danser Difference: a process-driven approach anchored by an outstanding safety record (EMR 0.69 in 2024), over 80 years of experience, and the ability to perform hot work without shutdowns. Its proprietary Vacuduct® high-temperature insulated ductwork and complete in-house design-to-installation capability differentiate the offering.
+The company emphasizes its safety record, citing an experience modification rate of 0.69 in 2024, and a process-driven approach it calls the "Danser Difference." It promotes flexibility without sacrificing safety or quality, broad in-house capabilities, and more than 80 years of experience as key differentiators.
 
 ## Known for
-- Outstanding safety record with EMR 0.69 (2024)
-- Over 80 years of experience since 1946
-- 50,000-square-foot fabrication facility with rolling capacities up to 96-inch diameter
-- Proprietary Vacuduct® high-temperature insulated ductwork system
-- Robotic-assisted processes and in-house custom electrical panel building
+- Outstanding safety record (EMR 0.69 in 2024)
+- Over 80 years of experience
+- Flexibility without sacrificing safety or quality
+- Broad in-house capabilities for fabrication, installation, and service
+- Process-driven "Danser Difference" methodology
 
 ## Capabilities
-- Steel fabrication
-- Sheet metal fabrication
-- Piping fabrication
+- Steel, sheet metal & piping fabrication
 - Plate and structural steel fabrication
 - Modular fabrication
 - Equipment assembly
 - Shop-installed insulation and lagging
-- Installation of sheet metal, mechanical piping, ductwork, structural steel, and equipment
-- Plant maintenance (preventative, emergency, scheduled shutdowns, hot work)
 - Vacuduct® high-temperature insulated ductwork
-- Vacuum-formed ceramic fiber insulation and sleeves
-- Baghouse fabrication
-- Welding services
-- Ductwork fabrication
-- Rolling and bending (prebending and circular bending up to 96" diameter)
+- Plate rolling
 - Plasma cutting
-- Custom electrical panel building
-- Mold and equipment design for rubber industry
-- Robotic-assisted fabrication
-- Hot work installation
-- Pollution control system installation
-- Heat recovery and exhaust system installation
-- Kiln/furnace installation
-- Spiral ductwork installation
+- Laser cutting
+- Welding services
+- Baghouse fabrication
+- Spiral pipe fabrication (16-28 gauge)
+- Exhaust stack fabrication and installation
+- Combustion piping and duct systems
+- Recuperator fabrication
+- Air header system fabrication
+- Installation services (sheet metal, mechanical piping, ductwork, structural steel, equipment)
+- Plant maintenance (preventative, emergency, scheduled shutdowns, hot work)
+- Machine guarding
+- Fan balancing
 
 ## Industries
 - Chemical
@@ -212,41 +219,34 @@ Danser emphasizes what it calls the Danser Difference: a process-driven approach
 - Pollution Control
 - Rubber
 
-## Equipment
-- Rolling machines (prebending and circular bending up to 96" diameter)
-- Plasma cutting equipment
-- Robotic-assisted fabrication cells
-- Vacuduct® ceramic fiber forming equipment
-
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1946
-- **Headquarters:** Parkersburg, West Virginia
+- **Headquarters:** Davisville, West Virginia
 
 <details><summary>Sources</summary>
 
 - Founded 1946 -> db
-- Headquartered in Parkersburg, West Virginia -> /about
-- 50,000-square-foot fabrication facility -> /capabilities
-- Rolling capacities up to 96-inch diameter -> / (Rolling Capacities section)
-- Prototype to production quantities -> / (products section)
-- Industries served: Chemical, Polymers, Oil & Gas, Power Generation, Structural Clay, Ceramics, Glass, Pollution Control -> / (Industries Served section)
-- Rubber industry experience (40 years) -> / (home page)
-- EMR 0.69 in 2024 -> / (safety section)
-- Vacuduct® high-temperature insulated ductwork -> / (Vacuduct section)
-- Robotic-assisted processes -> / (home page)
-- In-house custom electrical panel building -> / (home page)
-- Hot work capabilities -> /capabilities
-- Plasma cutting technology -> /capabilities
-- Baghouse fabrication -> / (home page and capabilities)
-- Welding services -> / (home page)
-- Ductwork fabrication -> / (home page)
-- Modular fabrication -> / (home page)
-- Equipment assembly -> / (home page)
-- Shop-installed insulation and lagging -> / (home page)
-- Installation services (sheet metal, piping, ductwork, structural steel, equipment) -> /capabilities
-- Plant maintenance (preventative, emergency, scheduled shutdowns, hot work) -> / (home page)
-- Testimonials from ceramic, brick, glass, chemical manufacturing -> / (home page)
+- Headquarters Davisville, WV -> db
+- Physical location 1758 Murphytown Road, Davisville, WV -> /
+- Mailing address Parkersburg, WV -> /
+- Capabilities: metal fabrication, installation, plant maintenance -> /
+- Industries served: Chemical, Polymers, Oil & Gas, Power Generation, Structural Clay, Ceramics, Glass, Pollution Control -> /
+- Rubber industry experience -> /
+- Safety EMR rates (2024: 0.69, 2023: 0.70, 2022: 0.67, 2021: 0.85) -> /
+- Rolling capacities for mild steel and A-516 Grade 70 -> /
+- Volume: prototype to production quantities -> /
+- Vacuduct® high-temperature insulated ductwork -> /
+- Plate rolling, plasma cutting, laser cutting -> /
+- Baghouse fabrication -> /
+- Welding services -> /
+- Spiral pipe fabrication (16-28 gauge) -> /
+- Testimonials from ceramic, glass, brick, chemical manufacturing -> /
+- Process-driven differentiator (Danser Difference) -> /
+- Over 80 years experience claim -> /
+- Outstanding safety record claim -> /
+- Flexibility without sacrificing safety or quality claim -> /
+- Broad capabilities claim -> /
 </details>
 
 ---
@@ -256,68 +256,78 @@ Danser emphasizes what it calls the Danser Difference: a process-driven approach
 **Old description:** since 1985. Our 30 years experience makes us the favorite choice of Organic and Natural Mattress Stores throughout the United States and Canada.
 
 ## About
-Dapwood Furniture Co. has operated from Albuquerque, New Mexico since its founding in 1985. The company began as a workshop dedicated to handcrafting solid wood platform bed frames and bedroom furniture using domestically sourced lumber.
+Dapwood Furniture Co. was founded in 1985 in Albuquerque, New Mexico. The company operates as a Certified B Corporation and holds New Mexico True certification, reflecting its commitment to social and environmental standards.
 
-The company produces solid wood platform beds, tables, and nightstands, each custom-made to order using traditional joinery techniques—cutting, planing, joining, routing, drilling, and fitting—without automated equipment. Finishes are limited to natural oils and plant-based stains free of heavy metals and petrochemicals. Dapwood offers more than 21 million design combinations through options such as adjustable heights, extra-long sizes, mixed wood species, integrated LED reading lights, and caster mobility.
+The workshop produces solid wood platform bed frames, tables, nightstands, and other bedroom furniture. Each piece is handcrafted from U.S.-grown walnut, cherry, hard maple, and oak, using traditional joinery—cutting, planing, routing, drilling, and fitting—without automated equipment. Products are made to order, offering over 21 million design combinations, and can be left unfinished or finished with natural oils and plant-based stains free of heavy metals and petrochemicals. The facility runs on renewable energy and recycles waste, earning the New Mexico Small Business Recycler Award and a Silver Level Green Zia award.
 
-Its primary customers are organic and natural mattress retailers across the United States and Canada, who pair Dapwood frames with chemical-free mattresses. The company also serves eco-conscious residential buyers and interior designers seeking non-toxic, domestically manufactured bedroom furniture.
+Dapwood’s primary wholesale customers are organic and natural mattress stores across the United States and Canada. The company also sells directly to consumers in urban markets such as Denver, New York, Portland, Seattle, and Washington, D.C., positioning its furniture as a healthy complement to organic mattresses.
 
-Dapwood was founded to provide a healthy, sustainable alternative to imported composite furniture, using only U.S.-grown solid woods and non-toxic finishes. The company highlights its Certified B Corporation status, New Mexico True certification, and Green Zia environmental award as evidence of its commitment to social and environmental performance.
+The business was built on a philosophy of avoiding imported composite furniture that relies on adhesives, fumigation, and toxic finishes. By using only solid wood, non-toxic finishes, and American labor, Dapwood aims to provide durable, repairable products that keep chemicals out of the bedroom and reduce landfill waste, backed by a 10-year warranty and replaceable parts.
 
 ## Known for
-- Custom-made to order with over 21 million design combinations
-- Handcrafted joinery without automated equipment
-- Non-toxic natural oil and plant-based stain finishes
-- 10-year warranty and replaceable parts
+- Handcrafted in Albuquerque using U.S.-grown solid woods
+- Custom made to order with over 21 million design combinations
 - Certified B Corporation and New Mexico True Certified
+- Non-toxic finishes with no heavy metals or petrochemicals
+- 10-year warranty with replaceable parts and easy disassembly
 
 ## Capabilities
-- Custom solid wood furniture manufacturing
-- Handcrafted joinery (cut, plane, join, route, drill, fit)
-- Natural oil finishing
-- Plant-based stain finishing
-- Custom sizing and design configuration
-- Modular/disassemblable furniture design
-- LED headboard lighting integration
-- Caster/wheel installation
+- Handcrafted solid wood furniture manufacturing
+- Custom design and fabrication
+- Wood cutting, planing, joinery, routing, drilling, fitting
+- Finishing with natural oils and plant-based stains
+- Unfinished wood option
+- Hidden hardware assembly
+- Easy disassembly and reassembly
+- Replaceable parts program
+- Expedited production turnaround
+- Shipping via FedEx Ground
 - Personal customer service (no call center)
+- Renewable energy powered workshop
+- Waste recycling and upcycling
 
 ## Industries
-- Organic and natural mattress retailers
-- Eco-friendly furniture retailers
-- Residential bedroom furniture
+- Organic mattress retail
+- Natural mattress retail
+- Eco-friendly home furnishings
+- Bedroom furniture
 
 ## Certifications
 - Certified B Corporation
 - New Mexico True Certified
 - Green America Business Member
-- Silver Level Green Zia
+- New Mexico Green Zia Winner (Silver Level)
 - New Mexico Small Business Recycler Award
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1985
-- **Ownership:** Small business
 - **Headquarters:** Albuquerque, New Mexico
 
 <details><summary>Sources</summary>
 
-- Founded 1985 -> db
-- Headquarters Albuquerque, New Mexico -> db
+- Founded in 1985 -> db
+- Headquartered in Albuquerque, New Mexico -> db
 - Certified B Corporation -> /
 - New Mexico True Certified -> /
-- Green Zia award (Silver Level) -> /
+- Green America Business Member -> /
+- New Mexico Green Zia Winner (Silver Level) -> /
 - New Mexico Small Business Recycler Award -> /
-- Handcrafted without automated equipment -> /
-- Custom made to order with over 21 million combinations -> /
-- Materials: Walnut, Cherry, Hard Maple, Oak -> /
-- Finishes: natural oils, plant-based stains -> /
-- Lead time: few week turnaround with expedited options -> /
-- Industries: Organic and Natural Mattress Stores -> /
+- Handcrafted solid wood furniture -> /
+- Custom made with over 21 million combinations -> /
+- Uses U.S.-grown walnut, cherry, hard maple, oak -> /
+- Non-toxic finishes, no heavy metals or petrochemicals -> /
 - 10-year warranty -> /
-- Replaceable parts, easy disassembly -> /
-- Custom options: adjustable heights, extra long, mix woods, LED lights, casters, reclined headboard -> /
-- Ownership tag Small business from award name -> /
+- Ships via FedEx Ground -> /
+- Serves organic and natural mattress stores in US and Canada -> /
+- Renewable energy used in workshop and website -> /
+- Recycles and upcycles waste -> /
+- Few week turnaround with expedited options -> /
+- Easy disassembly and replaceable parts -> /
+- Personal competent service, no call center -> /
+- Headboard LED reading lights, adjustable bed heights, extra long bed sizes, mix woods or stains, wheels/casters, reclined headboard option -> /
+- New Mexico's first Certified B Corporation in manufacturing -> /
+- New Mexico True Certified program -> /
 </details>
 
 ---
@@ -327,34 +337,30 @@ Dapwood was founded to provide a healthy, sustainable alternative to imported co
 **Old description:** De Leon Furniture has been family-owned and operated since 1967. We’ve treated every customer like they were a part of our family. Other companies may offer similar services, but our services come with a personal touch.
 
 ## About
-De Leon Furniture, Inc. was founded in 1967 in Kansas City, Kansas, as a family-owned and operated business.
+De Leon Furniture, Inc. has operated from Kansas City, Kansas since 1967, when the deLeon family established the business as a family-owned and operated workshop.
 
-The company provides upholstery, refinishing, and restoration services, and custom builds high-end period furniture as well as unique modern pieces. Its workshop handles woodworking and furniture finishing, including the application of oils and waxes for sprayless finishes. De Leon also sells DIY products such as furniture oils, waxes, and felt glides for floor protection.
+The shop provides upholstery, refinishing, and restoration services, and also custom builds high-end period furniture as well as unique modern pieces. Woodworking and upholstery form the core of its production, complemented by a line of do-it-yourself products that includes furniture oils, waxes for sprayless finishes, and felt glides for floor protection.
 
-Services are delivered primarily through architects and interior designers, who specify the firm for residential and commercial projects. The DIY product line serves individual consumers looking for maintenance supplies.
-
-De Leon emphasizes a personal touch in customer relations, rooted in its family ownership.
+De Leon Furniture serves architects and interior designers, delivering its services through those professionals rather than directly to end consumers. The company works with design professionals on projects that require custom fabrication, restoration, or reupholstery.
 
 ## Known for
 - Family-owned and operated since 1967
-- Personal touch in customer service
-- High quality control standards with skilled craftsmen
-- Services delivered through interior designers and architects
-- Four generations of furniture-making experience
+- Services delivered through architects and interior designers
+- High quality-control standards with experienced craftsmen
+- Custom building of period and modern furniture
+- Offers DIY furniture care products (oils, waxes, felt glides)
 
 ## Capabilities
 - Upholstery
-- Refinishing & Restoration
-- Custom Furniture Manufacturing
+- Refinishing
+- Restoration
+- Custom furniture manufacturing
 - Woodworking
-- Furniture Finishing (oils & waxes)
-- DIY Product Sales
+- Furniture care product sales
 
 ## Industries
-- Architecture
-- Interior Design
-- Residential Furniture
-- Commercial Furniture
+- Architects
+- Interior designers
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -364,16 +370,16 @@ De Leon emphasizes a personal touch in customer relations, rooted in its family 
 
 <details><summary>Sources</summary>
 
-- Founded 1967, family-owned -> db
-- Location: Kansas City, Kansas -> db
-- Address: 1142 Minnesota Ave, Kansas City, KS 66102 -> /
-- Services: upholstery, refinishing & restoration, custom furniture manufacturing -> /
+- Company name De Leon Furniture, Inc. -> db
+- Founded in 1967 as family-owned -> db
+- Headquarters in Kansas City, Kansas -> db
+- Provides upholstery, refinishing, restoration, and custom furniture manufacturing -> /
+- Sells DIY furniture oils, waxes, and felt glides -> /
 - Serves architects and interior designers -> /
-- DIY products: furniture oils & waxes, felt glides -> /
-- Four generations of furniture building -> /
-- Quality control standards high, craftsmen among best -> /
-- Personal touch in customer service -> db
-- By appointment only -> /
+- Four generations of furniture building, 45 years in U.S. -> /
+- Emphasizes high quality-control standards and skilled craftsmen -> /
+- Differentiates with personal touch -> db
+- Operates by appointment only -> /
 </details>
 
 ---
@@ -383,29 +389,27 @@ De Leon emphasizes a personal touch in customer relations, rooted in its family 
 **Old description:** We believe it’s time to embrace better solutions to nutrition, food distribution, and supply-chain sustainability. Our True North Sous Vide™ method increases profitability and performance for food professionals and delivers better nourishment and taste for even the most discerning connoisseurs.
 
 ## About
-Defiant Food Group operates from Richmond, Virginia. The company's founding year and ownership structure are not publicly disclosed. It was established to bring culinary craftsmanship and commercial-scale precision to protein preparation for foodservice and retail brands.
+Defiant Food Group operates from Richmond, Virginia, where it develops and produces ready-to-serve proteins for foodservice, institutional, and retail channels. The company was founded to address gaps in nutrition, food distribution, and supply-chain sustainability, though a specific founding year and founder names are not publicly disclosed.
 
-The company produces ready-to-serve proteins using its proprietary True North Sous Vide™ methodology, which applies precise time and temperature controls to lock in moisture and flavor. Its process integrates culinary craftsmanship, product development expertise, and commercial-scale precision to deliver consistent quality and operational ease. No facility size, headcount, or volume figures are provided.
+The company's core capability is its proprietary True North Sous Vide™ methodology, which uses precise time and temperature controls to lock in moisture and flavor, yielding consistent taste and texture across commercial-scale production. Defiant Food Group integrates culinary craftsmanship with product development expertise to deliver proteins that are fully cooked, portioned, and ready for immediate service, though facility size, headcount, and annual volume figures are not published.
 
-Defiant Food Group serves foodservice, institutional, and retail channels, partnering with brands that need to scale protein programs from concept to commercial execution. Its solutions are shaped around the realities of each channel, emphasizing brand consistency and culinary standards.
+Its customers span foodservice operators, institutional buyers, and retail brands seeking scalable protein programs. The company positions itself as a dedicated partner that collaborates from concept through commercial execution, helping brands maintain culinary standards and operational ease at scale.
 
-The company was founded on the belief that better solutions are needed for nutrition, food distribution, and supply-chain sustainability. Its True North Sous Vide™ method aims to increase profitability and performance for food professionals while delivering better nourishment and taste. Defiant Food Group positions itself as a dedicated partner committed to operational ease and consistency.
+Defiant Food Group asserts that its approach elevates product quality while boosting kitchen performance and profitability, driven by a belief that better solutions are needed for nutrition and supply-chain sustainability. The True North Sous Vide™ process is presented as the differentiator that delivers both nourishment and taste for discerning end users.
 
 ## Known for
-- Proprietary True North Sous Vide™ precision cooking methodology
-- Integration of culinary craftsmanship with commercial-scale production
-- Focus on operational ease and consistency for foodservice and retail brands
-- End-to-end support from concept to commercial execution for protein programs
-- Moisture and flavor retention for consistent taste and texture
+- Proprietary True North Sous Vide™ methodology for precise, consistent cooking
+- Integration of culinary craftsmanship, product development, and commercial-scale precision
+- Channel-specific solutions for foodservice, institutional, and retail
+- Focus on operational ease, quality consistency, and partner profitability
 
 ## Capabilities
 - Sous vide cooking (True North Sous Vide™)
-- Precision time and temperature control cooking
-- Product development for proteins
-- Commercial-scale protein preparation
-- Ready-to-serve protein production
-- Culinary craftsmanship integration
-- Protein program scaling support
+- Precision time-and-temperature control cooking
+- Product development and formulation
+- Commercial-scale protein manufacturing
+- Ready-to-serve protein preparation
+- Portioning and packaging
 
 ## Industries
 - Foodservice
@@ -418,14 +422,13 @@ The company was founded on the belief that better solutions are needed for nutri
 
 <details><summary>Sources</summary>
 
-- Headquarters in Richmond, Virginia -> db
+- Location: Richmond, Virginia -> db
 - True North Sous Vide™ methodology -> /
+- Creates ready-to-serve proteins -> /
 - Serves foodservice, institutional, retail channels -> /
-- Integrates culinary craftsmanship, product development expertise, commercial-scale precision -> /
-- Creates ready-to-serve, perfectly prepared proteins -> /
-- Focus on operational ease and consistency -> /
-- Helps scale protein programs from concept to commercial execution -> /
-- Believes in better solutions to nutrition, food distribution, supply-chain sustainability -> /
+- Integrates culinary craftsmanship, product development, commercial-scale precision -> /
+- Focus on quality, consistency, operational ease -> /
+- Belief in better solutions for nutrition, distribution, supply-chain sustainability -> db
 </details>
 
 ---
@@ -435,40 +438,34 @@ The company was founded on the belief that better solutions are needed for nutri
 **Old description:** Delta Systems Introduces New Motor Controllers for Electric Outdoor Power Equipment
 
 ## About
-Delta Systems Inc. has operated from Streetsboro, Ohio since 1972, when the company began producing parts for the outdoor power equipment market. The privately held business has remained at its original location, expanding into a vertically integrated facility that houses design, molding, electronics assembly, and testing under one roof.
+Delta Systems Inc. was founded in 1972 in Streetsboro, Ohio, when the company began making parts for outdoor power equipment. Rather than outsourcing critical operations, the founders chose to keep production in-house to maintain control over quality and safety. The business remains privately held and operates from its original Ohio facility.
 
-The company manufactures switches, controllers, displays, and sensors for equipment that demands safety and durability in harsh environments. Its in-house capabilities include electronic circuit board assembly, plastic injection molding, design engineering, value analysis, tooling, and final assembly. The Streetsboro plant supports the full product lifecycle from concept to production, though the company does not disclose headcount or annual volumes.
+The company designs and manufactures electronic components—switches, controllers, displays, and sensors—for equipment that demands safety and durability in harsh environments. Its vertically integrated Streetsboro plant houses electronics manufacturing, plastic injection molding, design engineering, assembly, value analysis, and tooling under one roof, allowing end-to-end control from concept to finished product.
 
-Delta serves original equipment manufacturers in outdoor power equipment, utility vehicles, agriculture, and light industrial sectors. Its components are specified on commercial mowers, material handling equipment, and light farm tractors, among other applications. The firm works closely with OEM partners to develop customized electronic solutions tailored to each platform.
+Delta serves original equipment manufacturers in outdoor power equipment, utility vehicles, agriculture, and light industrial markets. Its components are specified on commercial mowers, material handling equipment, and light farm tractors, where reliability under vibration, moisture, and temperature extremes is critical.
 
-Delta emphasizes a zero-parts-per-million quality mission and a systems approach rather than a component-only mindset. Leadership cites vertical integration and domestic manufacturing as key differentiators that reduce supply chain uncertainty and allow tighter control over safety-critical performance.
+Delta differentiates itself through a systems approach rather than a component-only mindset, a zero-parts-per-million quality target, and a commitment to domestic manufacturing. The company says its vertical integration reduces supply-chain uncertainty and enables faster customization for OEM partners.
 
 ## Known for
-- Vertical integration under one roof
-- Zero-parts-per-million quality mission
+- Vertically integrated with in-house electronics manufacturing, plastic injection molding, and tooling
 - Designed and manufactured in the United States
-- Systems approach versus component approach
-- 50 years of engineering excellence
+- Zero-parts-per-million quality mission
+- Systems approach versus component-level supply
+- 50 years of focus on outdoor power equipment and adjacent markets
 
 ## Capabilities
-- Electronics manufacturing
-- Plastic injection molding
-- Design engineering
+- Electronics Manufacturing
+- Plastic Injection Molding
+- Design Engineering
 - Assembly
-- Value analysis
+- Value Analysis
 - Tooling
-- Switch manufacturing
-- Controller manufacturing
-- Display manufacturing
-- Sensor manufacturing
-- Custom electronic component design
 
 ## Industries
 - Outdoor Power Equipment
 - Utility Vehicles
 - Agriculture
 - Light Industrial
-- Adjacent Markets
 
 ## Certifications
 - ISO 9001:2015
@@ -482,14 +479,14 @@ Delta emphasizes a zero-parts-per-million quality mission and a systems approach
 
 - Founded in 1972 -> /capabilities
 - Headquartered in Streetsboro, Ohio -> /
-- ISO 9001:2015 certified -> /
 - Manufactures switches, controllers, displays, sensors -> /
-- Vertical integration with in-house capabilities -> /capabilities
-- Serves outdoor power equipment, utility vehicles, agriculture, light industrial -> /capabilities
+- Processes: Electronics Manufacturing, Plastic Injection Molding, Design Engineering, Assembly, Value Analysis, Tooling -> /capabilities
+- Industries: Outdoor Power Equipment, Utility Vehicles, Agriculture, Light Industrial -> /capabilities
+- Certification: ISO 9001:2015 -> /
+- Vertically integrated with in-house capabilities -> /capabilities
+- Designed and manufactured in the USA -> /
 - Zero-parts-per-million quality mission -> /
-- Designed and manufactured in the United States -> /
-- Electronics manufacturing, plastic injection molding, design engineering, assembly, value analysis, tooling -> /capabilities
-- LinkedIn URL -> db
+- Systems approach versus component approach -> /
 </details>
 
 ---
@@ -499,42 +496,39 @@ Delta emphasizes a zero-parts-per-million quality mission and a systems approach
 **Old description:** The best investment for your grain handling system, since 1962.
 
 ## About
-Delux Manufacturing Company was founded in 1962 in Axtell, Nebraska, and later relocated its headquarters to Kearney, Nebraska. The company began as a grain handling and drying solutions provider, pioneering new technologies for agricultural producers.
+Delux Manufacturing Company was founded in 1962 in Axtell, Nebraska, and later moved its headquarters to Kearney, Nebraska. The company began as a grain handling solutions provider and has remained independently owned for over six decades.
 
-The company manufactures continuous flow grain dryers featuring vacuum cooling technology, which it introduced as the first to market and which has since become an industry standard. Its product line includes the proprietary MoistureLink™ dryer control system that eliminates manual adjustments and on-site monitoring, as well as a whisper-quiet internal fan design. Delux also provides remote troubleshooting, dealer training and certification, factory-backed technical support, parts supply, and system upgrades.
+The company designs and builds continuous flow grain dryers featuring its proprietary vacuum cooling technology, which it introduced as the first in the industry and which has since become the standard. Its MoistureLink™ dryer controls automate moisture management, removing the need for manual adjustments and on-site monitoring. The dryers also incorporate a Whisper Quiet internal fan design. Delux sells through a network of trained and certified dealers backed by factory technical support, parts supply, and system upgrades.
 
-Delux serves farm and commercial grain drying operations across North America and internationally. Its equipment is sold through a network of certified dealers who are trained to service the dryers, and the company actively seeks new dealer partnerships. Customers include agricultural producers who rely on the dryers for harvest-season reliability.
+Delux serves farm and commercial grain producers across North America and internationally. Its equipment is used in agricultural operations for drying corn, wheat, soybeans, and other grains. The dealer network provides local service, while the factory offers engineering guidance and remote troubleshooting.
 
-The company emphasizes its legacy of reliability and long-term partnerships, citing 60 years of service to agricultural innovators. Its differentiators include the pioneering vacuum cooling technology, the MoistureLink™ control system, and a support structure that extends from certified dealers to factory engineering guidance.
+The company says its vacuum cooling innovation set the industry benchmark, and its MoistureLink controls were developed to eliminate imprecise manual adjustments. Delux emphasizes long-term partnerships, reliability, and a support structure designed to keep operations running season after season.
 
 ## Known for
-- First to market vacuum cooling grain dryer technology (industry standard)
-- MoistureLink™ dryer controls eliminating manual adjustments
+- First to market vacuum cooling technology, now industry standard
+- MoistureLink™ dryer controls eliminate manual adjustments
+- Whisper Quiet internal fan design
 - Certified dealer network with factory-backed technical support
-- Remote troubleshooting and customer service
-- Whisper-quiet internal fan design
+- 60+ years of reliability and long-term partnerships
 
 ## Capabilities
 - Continuous flow grain dryer manufacturing
 - Vacuum cooling technology
 - MoistureLink™ dryer controls
+- Whisper Quiet internal fan design
 - Remote troubleshooting & customer service
 - Dealer training and certification
-- Factory-backed technical support
-- Parts support and system upgrades
-- Whisper-quiet internal fan design
+- Factory technical support and parts supply
+- System upgrades and engineering guidance
 
 ## Industries
 - Agriculture
+- Grain handling
 - Farm grain drying
 - Commercial grain drying
-- Agricultural equipment
 
 ## Equipment
 - Continuous flow grain dryers
-- MoistureLink™ Dryer Controls
-- Vacuum cooling grain dryers
-- Whisper Quiet Internal Fan Design
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -545,55 +539,21 @@ The company emphasizes its legacy of reliability and long-term partnerships, cit
 
 - Founded 1962 in Axtell, Nebraska -> /about-us
 - Headquarters in Kearney, Nebraska -> /about-us
-- First to market vacuum cooling grain dryer technology -> /about-us
-- MoistureLink™ Dryer Controls introduced -> /about-us
-- Continuous flow grain dryers manufactured -> /
+- First to market vacuum cooling technology, now industry standard -> /about-us
+- MoistureLink™ Dryer Controls eliminate manual adjustments -> /about-us
+- Whisper Quiet Internal Fan Design -> /
 - Certified dealer network with factory-backed support -> /
+- Serves farm and commercial grain producers across North America and globally -> /
+- Continuous flow grain dryers -> /
 - Remote troubleshooting & customer service -> db
-- Serves farm and commercial grain drying producers across North America and worldwide -> /
-- Whisper quiet internal fan design -> /
+- 60+ years of reliability -> /about-us
 </details>
 
 ---
 
 # Demopolis CATV Co
 
-**Old description:** CATV has been providing the best services to Demopolis since our founding. Fair prices, superior quality and exceptional customer service are guaranteed when you work with us. No matter what service you're looking for, we guarantee to not only meet, but exceed your expectations and ensure your full satisfaction.
-
-## About
-Demopolis CATV Co operates from Demopolis, Alabama. The company has been serving the community since its founding, though the exact year is not publicly disclosed. Ownership details and founder names are not provided in available sources.
-
-The company provides three core services: cable television packages, internet connectivity for work and streaming, and web-based email access. It describes its offerings as having a package and price to suit customer needs. No information is given about facility size, headcount, or service volumes.
-
-Demopolis CATV Co appears to serve residential and business customers in the Demopolis area. The company does not specify particular industries or provide concrete customer examples beyond the local community.
-
-The company states that fair prices, superior quality, and exceptional customer service are guaranteed, aiming to exceed customer expectations. This service commitment is presented as its primary differentiator.
-
-## Known for
-- Fair prices, superior quality, and exceptional customer service guaranteed
-- Commitment to exceed customer expectations
-
-## Capabilities
-- Cable TV
-- Internet
-- Email
-
-## Company details
-- **Company Type:** Installer / service company
-- **Headquarters:** Demopolis, Alabama
-
-<details><summary>Sources</summary>
-
-- Company name: Demopolis CATV Co -> db
-- Headquarters: Demopolis, Alabama -> db
-- Service: Cable TV -> /
-- Service: Internet -> /
-- Service: Email -> /
-- Description: 'CATV has been providing the best services to Demopolis since our founding.' -> /
-- Differentiators: Fair prices, superior quality, exceptional customer service guaranteed -> /
-</details>
-
----
+_skipped: not enough facts_
 
 # Dempsey International Packaging
 

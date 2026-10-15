@@ -3,32 +3,27 @@
 **Old description:** There’s no substitute for a piece made just for you. At Her Woodcraft, we design and build custom dining and coffee tables that are truly one of a kind—crafted to fit your space, your style, and your everyday life in a way that off-the-shelf furniture simply can’t.
 
 ## About
-Her Woodcraft operates from Old Saybrook, Connecticut. The founding year and ownership structure are not publicly disclosed. The company was established to create custom dining and coffee tables tailored to individual spaces and styles.
+Her Woodcraft operates from Old Saybrook, Connecticut, where it designs and builds custom dining and coffee tables as well as a signature line of mid-century modern furniture. The company's founding date and ownership structure have not been publicly disclosed.
 
-The workshop produces custom dining tables, coffee tables, and a signature line of mid-century modern furniture. Each piece is built to order using hand-selected wood, with attention to exact dimensions and design details. The company emphasizes sustainable practices in its manufacturing process. No facility size, headcount, or production volumes are published.
+The workshop produces custom dining and coffee tables built to client specifications, including exact dimensions and hand-selected wood species. In addition to bespoke pieces, Her Woodcraft offers a signature collection of mid-century modern furniture characterized by clean lines and timeless form. The company emphasizes sustainable practices throughout its design and build process, sourcing materials responsibly and focusing on durability.
 
-Her Woodcraft serves residential customers seeking personalized furniture for their homes. The company works directly with homeowners and potentially interior designers, though specific industry clients are not listed. Projects include custom tables for challenging layouts and specific aesthetic visions.
+Her Woodcraft primarily serves residential clients and the interior design trade, delivering furniture intended for private homes. The custom program accommodates challenging layouts and specific aesthetic visions, while the signature line provides ready-to-order mid-century modern options for customers seeking a curated look without a full custom process.
 
-The company differentiates itself through a focus on personalization and sustainability. Its founders started the business to offer furniture that combines form and function, transforming living spaces into sanctuaries that reflect the owner's personality. The made-to-order approach aims to deliver pieces that off-the-shelf furniture cannot.
+The company positions its work as purposefully designed, asserting that custom furniture should feel personal because it is made for the individual. Sustainability and the harmony of form and function are cited as core differentiators, with the goal of creating pieces that enhance living spaces and stand the test of time.
 
 ## Known for
-- Custom dimensions tailored to client space
-- Hand-selected wood materials
-- Thoughtful design details
-- Sustainable building practices
+- Custom dining and coffee tables made to exact dimensions
+- Hand-selected wood species
+- Sustainable material sourcing and practices
 - Signature mid-century modern furniture line
+- Purposefully designed, personal custom furniture
 
 ## Capabilities
 - Custom furniture design
 - Custom table manufacturing
+- Woodworking
 - Mid-century modern furniture production
-- Wood selection and sourcing
-- Sustainable manufacturing practices
-
-## Industries
-- Residential furniture
-- Custom furniture
-- Interior design
+- Sustainable material sourcing
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -36,14 +31,11 @@ The company differentiates itself through a focus on personalization and sustain
 
 <details><summary>Sources</summary>
 
-- Old Saybrook, Connecticut -> db
-- Custom dining and coffee tables -> page /
-- Signature mid-century modern furniture line -> page /
-- Hand-selected wood -> page /
-- Sustainable practices -> page /
-- Custom dimensions -> page /
-- Residential focus -> page /
-- Form and function philosophy -> page /
+- Location: Old Saybrook, Connecticut -> db
+- Products: custom dining and coffee tables, signature mid-century modern furniture line -> /
+- Processes: custom design to exact dimensions, hand-selected wood, sustainable practices -> /
+- Target customers: residential clients, interior design trade -> /
+- Differentiators: purposefully designed, personal custom furniture, sustainability, form and function harmony -> /
 </details>
 
 ---
@@ -53,38 +45,40 @@ The company differentiates itself through a focus on personalization and sustain
 **Old description:** Whether cabinetry, historical restoration, furniture, or other custom projects, we bring over 50 years of experience to delivering quality work and satisfaction.
 
 ## About
-Heram Custom Woodworking LLC operates from Onalaska, Wisconsin, where it was established in 1980. The company does not publicly disclose its ownership structure or the identities of its founders, and no narrative about its origins is provided beyond the founding year.
+Heram Custom Woodworking LLC operates from Onalaska, Wisconsin, where it was founded in 1980. The company's website marks its start with "Since 1980," though the homepage also references over 50 years of experience in the trade. Ownership structure and founder names are not disclosed in public materials. The business presents itself as a custom woodworking shop serving a range of project types.
 
-The shop specializes in custom woodworking, producing cabinetry, furniture, and historical restoration pieces. It also takes on other custom projects tailored to client specifications. The firm cites over 50 years of experience in the trade, though its founding date is given as 1980. No details on facility size, headcount, or production volumes are provided.
+The shop focuses on custom woodworking across several categories: cabinetry, historical restoration, furniture, and other bespoke projects. The homepage describes the scope as "Whether cabinetry, historical restoration, furniture, or other custom projects, we bring over 50 years of experience to delivering quality work and satisfaction." No facility size, headcount, annual volume, or part-number range is published.
 
-The company serves clients seeking custom cabinetry, furniture, and historical restoration work. Specific industry sectors or customer types are not listed in its public materials, but the nature of the work suggests engagement with residential, commercial, and historical preservation projects.
+The company does not list specific industries or named clients. Its project types suggest work for residential, commercial, and preservation-oriented customers, but no concrete examples are provided in the source material. The gallery section labeled "Restoration Work" hints at historical projects, though details are absent.
 
-Heram Custom Woodworking highlights its personalized approach, dedication to client needs, and decades of experience in quality craftsmanship as distinguishing factors. The company’s messaging emphasizes handcrafting each project to the customer’s vision.
+Heram emphasizes a personalized approach and dedication to customer needs, citing experience in quality and craftsmanship as its foundation. The site does not explain why the business was started beyond offering custom woodwork. The tagline "Handcrafting Your Dreams Into Reality" frames the service as collaborative, but no further differentiation claims are made.
 
 ## Known for
-- Personalized approach to each project
+- Personalized approach
 - Dedicated to customer needs
-- Over 50 years of woodworking experience
-- Emphasis on quality craftsmanship
+- Experience in quality and craftsmanship
+- Over 50 years of experience
 
 ## Capabilities
-- Custom cabinetry
+- Custom woodworking
+- Cabinetry
 - Historical restoration
-- Custom furniture
-- Custom woodworking projects
+- Furniture making
+- Custom projects
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Founded:** 1980
 - **Headquarters:** Onalaska, Wisconsin
 
 <details><summary>Sources</summary>
 
-- Founded in 1980 -> db
-- Headquarters in Onalaska, Wisconsin -> db
+- Founded 1980 -> db
+- Headquarters Onalaska, Wisconsin -> db
 - Services: cabinetry, historical restoration, furniture, custom projects -> /
-- Personalized approach, dedicated to needs, experience in quality craftsmanship -> /
-- Over 50 years of experience claimed -> /
+- Over 50 years of experience -> /
+- Personalized Approach, Dedicated to Your Needs, Experience in Quality and Craftsmanship -> /
+- Since 1980 -> /
 </details>
 
 ---
@@ -94,41 +88,38 @@ Heram Custom Woodworking highlights its personalized approach, dedication to cli
 **Old description:** Delivering Excellence in Precision Metal Fabrication for Over 30 Years
 
 ## About
-Herold Precision Metals operates from White Bear Township, Minnesota. The company has been delivering precision metal fabrication services for over 30 years, though a specific founding year is not publicly disclosed. Ownership details and founder names are not provided in available sources.
+Herold Precision Metals operates from White Bear Township, Minnesota, where it has provided precision metal fabrication services for over 30 years. The company's founding year and ownership structure are not publicly disclosed, nor are its founders named in available materials.
 
-The company provides full-service sheet metal fabrication, including laser cutting, turret punching, press brake forming, automated panel bending, hardware installation, MIG/TIG/spot welding, CNC milling and turning, electro-mechanical assembly, deburring, and finishing. Its 110,000-square-foot facility supports low-volume prototyping through large-scale production runs, with dedicated departments for rapid prototyping, pre-production validation, and warehousing.
+The 110,000-square-foot facility houses laser cutting, turret punching, press brakes, a Salvagnini P4 XE panel bender, certified MIG/TIG/spot welding, secondary machining, hardware installation, and electro-mechanical assembly. Herold handles low-volume prototypes through large-scale production runs, offers warehousing and staging, and provides engineering support including design consultation, project management, and quality documentation for validation.
 
-Herold Precision Metals serves military and government contractors, electronics manufacturers, medical device companies, lab and testing equipment builders, audio-visual equipment and mount producers, energy storage and enclosure makers, and data center and server support firms.
+The shop serves military and government, electronics, medical, lab and testing equipment, audio-visual mounts, energy storage and enclosures, and data center and server support sectors. Customers range from defense primes to commercial OEMs seeking strategic partners for complex, technically difficult metal parts and assemblies.
 
-The company emphasizes a strategic-partner approach, combining modern fabrication technology such as the Salvagnini P4 XE panel bender with supply-chain management and engineering support. Its quality system is certified to ISO 9001:2015, and it maintains ITAR registration for defense-related work.
+Herold differentiates itself by positioning as a strategic partner rather than a transactional vendor, emphasizing supply chain management, modern fabrication technology, and a customer-centric approach backed by ISO 9001:2015 certification and ITAR registration. The company states its mission is to deliver solutions that drive customer success through transparent collaboration and continuous improvement.
 
 ## Known for
-- 110,000 sqft facility with warehousing and staging
-- Salvagnini P4 XE automated panel bending
-- ISO 9001:2015 certified quality system
-- ITAR registered for defense projects
-- Rapid prototyping and NPI support
+- 110,000 sqft facility with on-site warehousing and staging
+- Dedicated prototype department and robust new product introduction process
+- ISO 9001:2015 certified quality management system
+- ITAR registration for defense and government work
+- Salvagnini P4 XE automated panel bending for faster turnaround
 
 ## Capabilities
 - Laser cutting
-- Turret punching
+- Turret punching and stamping
 - Press brake forming
 - Panel bending (Salvagnini P4 XE)
 - Hardware installation
-- MIG welding
-- TIG welding
-- Spot welding
-- CNC milling
-- CNC turning
+- Welding (MIG, TIG, spot)
+- Machining (milling, turning)
 - Electro-mechanical assembly
-- Deburring
-- Finishing
-- Rapid prototyping
-- Pre-production validation
-- Design consultation
-- Project management
-- Quality assurance
-- Warehousing and logistics
+- Deburring and finishing
+- Prototyping
+- Pre-production services (design assistance, capability studies, quality documentation)
+- Production (low to high volume)
+- Warehousing and staging
+- Engineering services (design consultation, project management, quality assurance)
+- Coatings and screening
+- Supply chain management
 
 ## Industries
 - Military & Government
@@ -144,28 +135,31 @@ The company emphasizes a strategic-partner approach, combining modern fabricatio
 - Turret punch presses
 - Laser cutting systems
 - Press brakes
+- MIG/TIG/spot welding equipment
 - CNC milling machines
 - CNC lathes
+- Hardware insertion systems
 
 ## Certifications
 - ISO 9001:2015
 - ITAR
-- ROHS
+- RoHS
+- UL
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Headquarters:** White Bear Township, Minnesota
 
 <details><summary>Sources</summary>
 
-- Headquarters: White Bear Township, Minnesota -> db
-- Facility size: 110,000 sqft -> page /
-- Services: laser cutting, punching, forming, panel bending, hardware installation, welding, machining, assembly, deburring, finishing -> page /
-- Industries served: Military & Government, Electronics, Medical, Lab & Testing Equipment, A/V Equipment & Mounts, Energy Storage & Enclosures, Data Centers & Server Support -> page /
-- Equipment: Salvagnini P4 XE, turret punch presses, lasers, press brakes, milling, lathing -> page /
-- Certifications: ISO 9001:2015, ITAR, ROHS -> db and page /
-- Volume range: prototypes to large-scale production -> page /
-- Strategic partner approach, engineering support, supply chain management -> page /
+- Location: White Bear Township, Minnesota -> db
+- Facility size: 110,000 sqft -> /
+- Services: laser cutting, turret punching, press brake forming, panel bending, welding, machining, hardware installation, electro-mechanical assembly, deburring, finishing, prototyping, pre-production, warehousing, engineering -> /
+- Industries served: Military & Government, Electronics, Medical, Lab & Testing Equipment, A/V Equipment & Mounts, Energy Storage & Enclosures, Data Centers & Server Support -> /
+- Certifications: ISO 9001:2015, ITAR, RoHS, UL -> /, db
+- Equipment: Salvagnini P4 XE panel bender, turret punch presses, lasers, press brakes -> /
+- Volume range: prototype to large-scale production -> /
+- Strategic partner positioning, supply chain management, customer-centric approach -> /
 </details>
 
 ---
@@ -175,40 +169,38 @@ The company emphasizes a strategic-partner approach, combining modern fabricatio
 **Old description:** Hi Tech Fabricators Inc. is New England’s premier manufacturer of Precision Sheet metal and machined products.
 
 ## About
-Hi-Tech Fabricators was founded in 1983 and operates from Milford, New Hampshire. The company is a precision sheet metal and machining job shop serving New England and beyond.
+Hi-Tech Fabricators was founded in 1983 in Milford, New Hampshire. The company operates as a family-run business with Paul, Ann, and Mike Bailey listed as primary contacts. It began as a precision sheet metal and machining operation serving the New England region.
 
-The shop provides fully integrated fabrication services including CNC turret punching, laser cutting, press brake forming, CNC milling, drilling, tapping, welding (TIG, MIG, spot), hardware insertion, grinding, deburring, and bead blasting. Design support uses Radan CAD/CAM and SolidWorks, with production managed through Workplan ERP. The facility handles orders ranging from one- or two-piece prototypes to large production runs.
+The shop provides fully integrated precision sheet metal fabrication and CNC machining. Processes include laser cutting, CNC turret punching, shearing, press brake forming, CNC milling and drilling, TIG/MIG/spot welding, hardware insertion, grinding, deburring, bead blasting, and tumbling. Design support uses Radan CAD/CAM, SolidWorks, and Workplan ERP. The facility handles orders ranging from one- or two-piece prototypes to large production runs, though total square footage and headcount are not disclosed.
 
-Customers span defense, aerospace, medical, and construction sectors, among others. The company emphasizes quick turnaround and adherence to client design intent through lean manufacturing practices and project path optimization.
+Customers span defense, aerospace, medical, and construction sectors. The company cites its precision, quality standards, and quick turnaround as reasons it serves such a broad spectrum of component types.
 
-Hi-Tech Fabricators differentiates itself with multi-annual calibration of all inspection equipment traceable to NIST standards, a broad equipment lineup from Amada, Mitsubishi, Miller, and Bridgeport, and a commitment to continual staff education in lean techniques.
+Hi-Tech emphasizes a blend of technical and production services, investing in the latest equipment and lean manufacturing techniques. Inspection equipment undergoes multi-annual calibration traceable to NIST standards, and project path optimization is used to meet design intent from prototype to final product.
 
 ## Known for
 - Fully integrated sheet metal and machining under one roof
 - Prototype to high-volume production capability
-- NIST-traceable calibration on all inspection equipment
+- Latest laser, punching, forming, and machining equipment
 - Lean manufacturing and project path optimization
-- In-house CAD/CAM design with Radan and SolidWorks
+- Inspection calibrated to NIST-traceable standards
 
 ## Capabilities
-- Precision sheet metal fabrication
-- CNC machining
-- CNC turret punching
 - Laser cutting
-- Press brake forming
+- CNC turret punching
+- Shearing
+- CNC press brake forming
 - CNC milling
-- Drilling and tapping
+- CNC drilling and tapping
 - TIG welding
 - MIG welding
 - Spot welding
 - Hardware insertion
-- CAD/CAM design (Radan, SolidWorks)
-- ERP (Workplan)
-- Grinding and deburring
+- Surface grinding
+- Deburring
 - Bead blasting
-- Inspection and calibration (NIST traceable)
-- Lean manufacturing
-- Project path optimization
+- Tumbling (vibratory and rotary)
+- CAD/CAM design (Radan, SolidWorks)
+- ERP/Workplan production planning
 
 ## Industries
 - Defense
@@ -237,7 +229,7 @@ Hi-Tech Fabricators differentiates itself with multi-annual calibration of all i
 - Amada RG50 Press Brake (2)
 - Amada HRB8025 Press Brake
 - Amada HD8025NT Press Brake
-- MHurco VMX42I
+- Hurco VMX42I
 - MSC Milling Machine 95168 1/3 Axis
 - Clausing 3 Head Drilling Machine
 - Bridgeport 3 Axis CNC Milling Machine with Prototrac MX3 Controls
@@ -257,16 +249,16 @@ Hi-Tech Fabricators differentiates itself with multi-annual calibration of all i
 
 <details><summary>Sources</summary>
 
-- Founded in 1983, based in Milford, NH -> db and page '/'
-- Precision sheet metal and machined products manufacturer -> page '/'
-- Fully integrated precision sheet metal and machining production company -> page '/'
-- Industries served: Defense, Aerospace, Medical, Construction -> page '/'
-- Prototype to large quantity production -> page '/'
-- Equipment list (Amada, Mitsubishi, Miller, Bridgeport, etc.) -> page '/'
-- Design software: Radan CAD/CAM, SolidWorks, Workplan ERP -> page '/'
-- Inspection calibration traceable to NIST -> page '/'
-- Lean manufacturing and project path optimization -> page '/'
-- Contact names: Paul Bailey, Ann Bailey, Mike Bailey -> page '/'
+- Founded in 1983, based in Milford, NH -> page /
+- Family contacts Paul, Ann, Mike Bailey -> page /
+- Fully integrated precision sheet metal and machining production company -> page /
+- Processes: laser cutting, CNC punching, shearing, press brake forming, CNC milling/drilling, welding (TIG/MIG/spot), hardware insertion, grinding, deburring, bead blasting, tumbling -> page /
+- Design software: Radan CAD/CAM, SolidWorks, Workplan ERP -> page /
+- Industries served: Defense, Aerospace, Medical, Construction -> page /
+- Volume range: prototype (1-2 parts) to large quantity production -> page /
+- Inspection equipment calibrated to NIST-traceable standards -> page /
+- Lean manufacturing and project path optimization practiced -> page /
+- Equipment list includes Mitsubishi Laser Cutter 1212HD-3020D, Amada Vipros 255 CNC Turret Punch Press, multiple Amada press brakes, Hurco VMX42I, Bridgeport CNC mill, Miller welders, Autosert and Pemserter hardware inserters, etc. -> page /
 </details>
 
 ---
@@ -276,53 +268,54 @@ Hi-Tech Fabricators differentiates itself with multi-annual calibration of all i
 **Old description:** Meet us at the shop at 9am for coffee and cookies while we give a brief explanation of everyday life on the farm. We’ll show you our equipment, mill house, and the market farm before embarking on a journey to the fields where we explain our regenerative practices and how they increase the quality of the food we grow. Then follow us back to the park and taste the goodness during a tasty locally source lunch including grains and flour made right here at Highland Harmony Farm.
 
 ## About
-Highland Harmony Farm operates from Wilsall, Montana, where it raises legumes, ancient grains, berries, vegetables, and flowers while also keeping bees for raw honey. The farm runs a stone mill to produce its own flour and sells directly at the Gallatin Valley farmers market in Bozeman during summer and the Bozeman Winter Market in the colder months. A retail shop on site has been closed for restructuring since mid-October.
+Highland Harmony Farm operates from Wilsall, Montana, where it focuses on regenerative agriculture. The founding year and founders are not publicly disclosed, though the operation describes itself as family-run. The farm collaborates with the National Resource Conservation Service to implement soil-health practices.
 
-The operation centers on regenerative agriculture, a system the owners describe as nurturing the "gut biome" of soil, plants, and people alike. Practices focus on rebuilding soil biology, which they say improves nutrient density in the crops they harvest. The farm collaborates with the Natural Resources Conservation Service on conservation planning, and its stone-milled flour is processed in a dedicated mill house that visitors can tour during scheduled farm walks.
+The farm grows legumes, ancient grains, berries, vegetables, and flowers, and maintains bees for raw honey. It runs a stone mill on site to produce flour from its own grains. A farm shop and mill house are part of the facility, though the shop was closed for restructuring as of the latest update. The operation also offers guided tours that showcase equipment, fields, and regenerative methods.
 
-Customers are primarily local consumers who shop at the two Bozeman markets, though the farm also offers its products through an online store. The product line spans staple grains, seasonal produce, honey, and cut flowers, all marketed under the "Grown in Montana by Folks You Know" banner. No wholesale or industrial accounts are mentioned in the available information.
+Products are sold directly to consumers at the Gallatin Valley Farmers Market in Bozeman on Saturdays from June through September, and at the Bozeman Winter Market on Saturdays from October through May. The farm does not list wholesale or industrial customers in its public materials.
 
-The founders frame the business as a health mission rather than a commodity operation, linking soil health directly to human health. They state that the farm was started to heal the biology of their land and share the resulting bounty, positioning regenerative methods as the differentiator from conventional production.
+The company states its mission is to heal the biology of the farm—linking soil health, plant health, and human health—and to share the resulting bounty. Regenerative practices are presented as the core differentiator, with the goal of increasing the nutritional quality of the food grown.
 
 ## Known for
-- Regenerative farming practices that rebuild soil biology
-- Stone-milled flour processed on-site in a dedicated mill house
-- Direct-to-consumer sales at two Bozeman farmers markets year-round
-- Collaboration with the Natural Resources Conservation Service
-- Product range spanning grains, legumes, produce, honey, and flowers
+- Regenerative farming techniques that build soil biology
+- Stone-milled flour produced on-site from farm-grown grains
+- Direct-to-consumer sales at two seasonal Bozeman farmers markets
+- Educational farm tours demonstrating equipment and field practices
+- Partnership with the National Resource Conservation Service
 
 ## Capabilities
-- Regenerative agriculture
+- Regenerative crop production
 - Stone milling
-- Crop production (legumes, ancient grains, vegetables, berries, flowers)
-- Beekeeping / raw honey production
+- Beekeeping and raw honey production
 - Farmers market retail
 - Farm tours and education
 
 ## Industries
-- Agriculture
-- Food production
-- Retail (farmers markets)
-- Direct-to-consumer food sales
+- Regenerative agriculture
+- Farmers market sales
 
 ## Equipment
 - Stone mill
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Other
 - **Headquarters:** Wilsall, Montana
 
 <details><summary>Sources</summary>
 
 - Location: Wilsall, Montana -> db
-- Regenerative agriculture focus -> /
-- Products: legumes, ancient grains, stone milled flour, berries, raw honey, flowers, vegetables -> /
-- Stone mill on site (mill house) -> /
-- Markets: Gallatin Valley (Bozeman Saturdays June-Sept), Bozeman Winter Market (Saturdays Oct-May) -> /
-- Collaboration with National Resource Conservation Service -> /
-- Shop closed for restructuring till 10/15 -> /
-- Mission: heal biology on farm, link soil/plant/human health -> /
-- Tagline: Grown in Montana by Folks You Know -> /
+- Regenerative agriculture focus -> page '/'
+- Family-run description -> page '/'
+- NRCS collaboration -> page '/'
+- Products: legumes, ancient grains, stone milled flour, berries, raw honey, flowers, vegetables -> page '/'
+- Stone mill on site -> page '/'
+- Farm shop and mill house -> page '/'
+- Shop closed for restructuring -> page '/'
+- Farm tours offered -> page '/'
+- Gallatin Valley Farmers Market (Bozeman Saturdays June-Sept) -> page '/'
+- Bozeman Winter Market (Saturdays Oct-May) -> page '/'
+- Mission: heal biology, link soil/plant/human health -> page '/'
+- Regenerative practices as differentiator -> page '/'
 </details>
 
 ---
@@ -332,27 +325,25 @@ The founders frame the business as a health mission rather than a commodity oper
 **Old description:** Novolex is a leading manufacturer of food, beverage, and specialty packaging servicing customers across a wide range of industries, including foodservice, restaurant delivery and carryout, food processing, grocery and retail, and industrial sectors.
 
 ## About
-Hilex Poly, a brand of Novolex, is based in Jerome, Idaho. The brand operates under Novolex, a manufacturer of food, beverage, and specialty packaging with over 100 locations and 20,000 employees across its network.
+Hilex Poly, a Novolex brand, operates from Jerome, Idaho, as part of Novolex, a large-scale packaging manufacturer. The brand contributes to a corporate footprint that spans more than 100 locations and employs over 20,000 people across manufacturing facilities, offices, and distribution centers.
 
-Novolex produces a broad portfolio of packaging solutions, including products for foodservice, restaurant delivery and carryout, food processing, grocery, retail, and industrial sectors. The company reports 120 product categories and 39,000 SKUs, supported by teams of material scientists and engineers who develop sustainable substrate alternatives. Hilex Poly’s product line includes numerous stock codes such as 0TF407S00000, 0TFB00150000, and 51P101, among others.
+Novolex produces food, beverage, and specialty packaging across 120 product categories encompassing roughly 39,000 SKUs. Its manufacturing operations are supported by teams of material scientists and engineers who develop and qualify diverse substrates for performance and sustainability requirements.
 
-The company serves customers in foodservice operations, restaurant delivery and carryout, food processing plants, grocery and retail chains, and various industrial sectors. Its packaging is designed to safeguard, preserve, and showcase food and beverages for millions of consumers.
+The company serves foodservice operators, restaurant delivery and carryout businesses, food processors, grocery and retail chains, and industrial sectors. Its packaging solutions are designed to safeguard, preserve, and showcase products for millions of consumers.
 
-Novolex emphasizes choice, innovation, and sustainability as core differentiators. It highlights its expanded diversity of substrates to meet functional and sustainability goals, and its material science capabilities help customers transition to more sustainable alternatives. The organization also runs a company-wide Month of Action encouraging employee volunteerism in local communities.
+Novolex positions itself on choice, innovation, and sustainability, emphasizing a broad material portfolio that helps customers transition to more sustainable alternatives. A company-wide Month of Action program encourages employee volunteerism and charitable giving in the communities where it operates.
 
 ## Known for
-- One of the industry’s broadest portfolios of packaging solutions
-- Teams of material scientists and engineers enable transition to sustainable alternatives
-- Expanded diversity of substrates to meet functional and sustainability goals
-- Company-wide Month of Action for community volunteerism
+- One of the industry's broadest packaging portfolios with 120 product categories and 39,000 SKUs
+- Material scientists and engineers enable sustainable material transitions
+- Diverse substrate selection for performance and sustainability goals
+- Company-wide Month of Action community volunteer program
 
 ## Capabilities
-- Food and beverage packaging manufacturing
-- Specialty packaging manufacturing
+- Packaging manufacturing
 - Material science and engineering
 - Sustainable packaging development
-- Product design for foodservice, retail, and industrial applications
-- Substrate selection and diversification
+- Product design and innovation
 
 ## Industries
 - Foodservice
@@ -368,13 +359,17 @@ Novolex emphasizes choice, innovation, and sustainability as core differentiator
 
 <details><summary>Sources</summary>
 
-- Headquarters in Jerome, Idaho -> db
-- Novolex manufactures food, beverage, and specialty packaging -> db
-- 100+ locations, 20k+ employees, 120 product categories, 39k SKUs -> /
-- Industries served: foodservice, restaurant delivery and carryout, food processing, grocery and retail, industrial sectors -> db, /
-- Material scientists and engineers enable sustainable transitions -> /
-- Choice, Innovation, & Sustainability differentiators -> /
-- Product codes: 0TF407S00000, 0TFB00150000, 51P101, etc. -> db
+- HQ location: Jerome, Idaho -> db
+- Part of Novolex brand -> db (name)
+- Manufacturer of food, beverage, specialty packaging -> db (description)
+- 100+ locations -> page /
+- 20k+ employees -> page /
+- 120 product categories -> page /
+- 39k SKUs -> page /
+- Industries served: foodservice, restaurant delivery/carryout, food processing, grocery/retail, industrial -> page /
+- Material scientists and engineers on staff -> page /
+- Diverse substrates for sustainability -> page /
+- Month of Action community program -> page /
 </details>
 
 ---
@@ -384,43 +379,44 @@ Novolex emphasizes choice, innovation, and sustainability as core differentiator
 **Old description:** Hinzman Millworks Inc. is a fifth-generation, family-owned hardwood manufacturing company located in West Union, West Virginia. We specialize in high-quality white oak staves for bourbon and wine barrels, along with a diverse range of hardwood products including barrel staves, lumber, cants, railroad ties, construction-grade hardwood, and coal mine cribbing. Our materials support industries ranging from cooperage and construction to mining and infrastructure.
 
 ## About
-Hinzman Millworks Inc. is a fifth-generation, family-owned hardwood manufacturing company based in West Union, West Virginia. The business has been passed down through five generations of the Hinzman family, building a legacy in Appalachian hardwood processing.
+Hinzman Millworks Inc. operates from West Union, West Virginia, as a fifth-generation, family-owned hardwood manufacturer. The company traces its roots through five generations of family stewardship, though a specific founding year is not publicly disclosed. It began as a stave and lumber operation serving the Appalachian hardwood region.
 
-The company specializes in producing premium American white oak staves for bourbon barrels, with expanding capacity for wine barrel staves. Its operations encompass timber procurement, sawmill processing, stave manufacturing, kiln drying, and custom lumber milling. Product lines include barrel staves, dimensional lumber, cants, railroad ties, construction-grade hardwood, and coal mine cribbing. The facility employs sustainable forestry practices and selective harvesting methods to ensure long-term forest health.
+The company produces premium American white oak staves for bourbon and wine barrels, alongside a range of hardwood products including dimensional lumber, cants, railroad ties, construction-grade hardwood, and coal mine cribbing. Its processes cover timber procurement, sawmill operations, stave production, and a state-of-the-art kiln drying system that prepares staves for export. No facility size, headcount, or annual volume figures are published.
 
-Hinzman Millworks serves cooperages, distilleries, wineries, construction firms, mining operations, and infrastructure projects. Its white oak staves are used by major bourbon producers such as Buffalo Trace, and the company has supplied West Virginia Great Barrel Co. International markets include cooperages, flooring manufacturers, and furniture makers in Europe, Asia, and South America, with kiln-dried products prepared to meet export moisture standards.
+Hinzman serves cooperages, construction firms, mining operations, and infrastructure projects. Its staves are used by bourbon producers such as Buffalo Trace, and the company has a testimonial from West Virginia Great Barrel Co. It is also expanding into international markets, targeting flooring and furniture manufacturers in Europe, Asia, and South America.
 
-The company emphasizes craftsmanship, sustainability, and operational efficiency as core differentiators. Direct partnerships with local landowners and loggers secure a consistent supply of tight-grain Appalachian oak while supporting the regional economy. Ongoing investments in kiln drying and export preparation aim to broaden the company's reach in global value-added hardwood markets.
+The business emphasizes craftsmanship, sustainability, and operational efficiency. It practices selective harvesting to ensure long-term forest health, maintains direct relationships with landowners and loggers, and uses kiln drying to meet strict moisture standards for global shipment. These practices, it says, differentiate its Appalachian white oak in both domestic and export markets.
 
 ## Known for
-- Fifth-generation family-owned heritage in Appalachian hardwood manufacturing
-- Sustainable forestry practices with selective harvesting methods
-- Kiln-dried staves meeting international export moisture standards
+- Fifth-generation family-owned legacy in Appalachian hardwoods
+- Premium white oak staves for bourbon barrels (including Buffalo Trace supply)
+- Sustainable selective harvesting practices
+- State-of-the-art kiln drying for export-ready moisture standards
 - Direct timber procurement partnerships with local landowners and loggers
-- Supplier to major bourbon producers including Buffalo Trace
 
 ## Capabilities
-- Barrel Stave Production
-- Specialty Lumber Products
-- Custom Lumber Milling
-- Timber Procurement
-- Kiln Drying
-- Sustainable Timber Harvesting
-- Export Preparation
-- Sawmill Operations
-- Railroad Tie Manufacturing
-- Coal Mine Cribbing Manufacturing
+- Barrel stave production
+- Sustainable timber harvesting (selective harvesting)
+- Specialty lumber milling (dimensional lumber, cants, railroad ties, rough-sawn hardwoods)
+- Kiln drying and export preparation
+- Timber procurement and local partnerships
+- Export services and international shipping
+- Custom lumber milling
+- Sawmill operations
+- Cooperage supply (bourbon and wine barrel staves)
+- Construction-grade hardwood production
+- Coal mine cribbing production
+- Cants production
+- Moisture control and quality assurance for export
 
 ## Industries
-- Cooperage
-- Bourbon Production
-- Wine Production
+- Cooperage (bourbon and wine barrels)
 - Construction
 - Mining
-- Infrastructure
-- Flooring Manufacturing
-- Furniture Manufacturing
-- International Export Markets
+- Infrastructure (railroad ties)
+- Flooring manufacturing
+- Furniture manufacturing
+- International export markets
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -429,16 +425,17 @@ The company emphasizes craftsmanship, sustainability, and operational efficiency
 
 <details><summary>Sources</summary>
 
-- Fifth-generation family-owned hardwood manufacturing company in West Union, WV -> /
+- Fifth-generation family-owned hardwood manufacturer -> /
+- Located in West Union, West Virginia -> /
 - Specializes in white oak staves for bourbon and wine barrels -> /
 - Products include barrel staves, lumber, cants, railroad ties, construction-grade hardwood, coal mine cribbing -> /
 - Supplies staves to Buffalo Trace -> /about-us
-- Sustainable forestry practices with selective harvesting -> /services
-- Kiln drying process for export readiness -> /services
-- Timber procurement partnerships with local landowners and loggers -> /services
-- Export markets in Europe, Asia, South America -> /services
 - Testimonial from West Virginia Great Barrel Co. -> /
-- Commitment to craftsmanship, sustainability, operational efficiency -> /
+- Sustainable forestry with selective harvesting -> /services
+- State-of-the-art kiln drying for export readiness -> /services
+- Direct partnerships with landowners and loggers -> /services
+- Expanding into international markets (Europe, Asia, South America) -> /services
+- Serves cooperage, construction, mining, infrastructure, flooring, furniture -> /services
 </details>
 
 ---
@@ -448,35 +445,33 @@ The company emphasizes craftsmanship, sustainability, and operational efficiency
 **Old description:** Distal membrane shields collection tip during insertion through endoscope to sampling site.
 
 ## About
-Hobbs Medical is a privately held company founded in 1984 and based in Stafford Springs, Connecticut. It was among the first to specialize in the design and manufacture of custom diagnostic and therapeutic accessories for the gastrointestinal and pulmonary endoscopy markets.
+Hobbs Medical, a privately held company founded in 1984, operates from Stafford Springs, Connecticut. It was among the first to specialize in the design and manufacture of custom diagnostic and therapeutic accessories for the gastrointestinal and pulmonary endoscopy markets.
 
-The company designs and manufactures a range of endoscopic accessories, including softer plastic pancreatic and biliary stents, foreign body retrieval devices, catheters, needles, brushes, and other specialty items. It also provides contract manufacturing services for medical device manufacturers and offers product development and prototyping support. An engineering staff is available for consultation on new product suggestions.
+The company produces a range of endoscopic accessories including softer plastic pancreatic and biliary stents, foreign body retrieval devices, catheters, needles, brushes, and specialty items such as the CleanCapture Aspiration Catheter, which features a distal membrane that shields the collection tip during insertion. It also provides contract manufacturing services for medical device manufacturers and offers product development and prototyping support.
 
-Hobbs Medical serves hospitals, medical universities, ambulatory surgery centers, and medical device manufacturers in the gastrointestinal and pulmonary endoscopy fields. Its in-stock inventory of standard accessories supports immediate needs, while custom solutions target specific clinical requirements.
+Hobbs Medical serves hospitals, medical universities, ambulatory surgical centers, and medical device manufacturers in the gastrointestinal and pulmonary endoscopy fields. Its in-stock inventory of standard endoscopic accessories supports immediate clinical needs, while its engineering staff consults on custom product development and individual product suggestions.
 
-The company states that its quality commitment extends beyond manufacturing to include new product development, inventory management, and responsive customer care, with the ultimate goal of improving patient care. It has maintained ISO 13485 certification and emphasizes continuous improvement across all processes.
+The company emphasizes a commitment to quality since its founding, maintaining ISO 13485 certification and a focus on improving patient care through precision accessories tailored to specific clinical requirements. All products are made in the USA.
 
 ## Known for
-- Founded in 1984, among the first to specialize in GI and pulmonary endoscopy accessories
-- In-stock inventory of standard endoscopic accessories
-- Engineering staff available for new product consultation
-- ISO 13485 certified quality system
-- Made in the USA
+- Founded in 1984 as an early specialist in GI and pulmonary endoscopy accessories
+- ISO 13485 certified quality management system
+- In-stock inventory of standard endoscopic accessories for immediate delivery
+- Engineering staff available for custom product development and consultation
+- Contract manufacturing and prototyping services for medical device manufacturers
 
 ## Capabilities
-- Contract manufacturing for medical devices
+- Contract manufacturing
 - Product development and prototyping
-- Design and manufacture of custom endoscopic accessories
-- In-stock standard endoscopic accessories (stents, retrieval devices, catheters, needles, brushes)
-- Engineering consultation for new product suggestions
-- Quality control and inspection processes
+- Custom endoscopic accessory design and manufacture
+- Standard endoscopic accessory inventory management
 
 ## Industries
 - Gastrointestinal endoscopy
 - Pulmonary endoscopy
 - Hospitals
 - Medical universities
-- Ambulatory surgery centers
+- Ambulatory surgical centers
 - Medical device manufacturers
 
 ## Certifications
@@ -492,16 +487,17 @@ The company states that its quality commitment extends beyond manufacturing to i
 
 - Founded in 1984 -> /about
 - Privately held company -> /about
-- Headquarters in Stafford Springs, Connecticut -> /about
-- ISO 13485 certified -> /about
-- Design and manufacture of custom diagnostic and therapeutic accessories for GI and pulmonary endoscopy -> /about
-- Contract manufacturing services for device manufacturers -> /services
-- Product development and prototyping -> /services
-- In-stock inventory of standard endoscopic accessories (stents, retrieval devices, catheters, needles, brushes) -> /about
-- Engineering staff available for consultation -> /about
+- Located in Stafford Springs, Connecticut -> /
+- ISO 13485 certified -> /, /quality
+- Manufactures endoscopic accessories including stents, retrieval devices, catheters, needles, brushes -> /about
+- Offers contract manufacturing services for device manufacturers -> /services, /
+- Provides product development and prototyping -> /services, /
 - Serves hospitals, medical universities, ambulatory centers -> /about
-- Made in the USA -> /
-- Quality commitment since 1984 -> /quality
+- Made in the USA -> /, /about, /services, /quality
+- CleanCapture Aspiration Catheter with distal membrane -> /
+- In-stock inventory of standard endoscopic accessories -> /about
+- Engineering staff available for new product suggestions -> /about
+- Commitment to quality since 1984 -> /quality
 </details>
 
 ---
@@ -511,34 +507,32 @@ The company states that its quality commitment extends beyond manufacturing to i
 **Old description:** Designer and Manufacturer of Architectural Cabinet and Millwork
 
 ## About
-Hogan Woodwork Inc. operates from Countryside, Illinois, a suburb in the Chicagoland area. The company was founded in 1990 and has remained family-owned and operated since its inception, accumulating over three decades of experience in custom wood handcrafting.
+Hogan Woodwork Inc. has operated from Countryside, Illinois since 1990. The family‑owned and ‑operated shop began as a woodwork business serving homeowners throughout the Chicagoland area with custom interior and exterior doors, trim, crown moulding, fireplace mantels, paneling, and radius woodwork.
 
-The firm designs and manufactures architectural cabinets and millwork, producing custom interior and exterior doors, trim, crown moulding, fireplace mantels, wall paneling, and radius woodwork. Its workshop specializes in precise bending and milling of wood trim to fit any contour, a capability the company highlights as a key differentiator. Hogan Woodwork serves the greater Chicago region, working directly with homeowners on projects such as studies, libraries, family rooms, home theaters, and wine cellars.
+The company designs and manufactures architectural cabinet and millwork. Its core services include custom wall paneling, custom doors built for beauty and long‑lasting performance, radius millwork that bends and mills wood trim to fit any contour, and custom fireplace mantels, surrounds, and shelves. The shop also handles reproduction woodwork projects and works directly with clients to translate design concepts into finished pieces.
 
-Customers include residential owners seeking reproduction woodwork or custom millwork for renovation and new construction. The business also positions itself as a custom woodwork supplier for those needing detailed architectural elements.
+Hogan Woodwork primarily serves residential customers—homeowners updating studies, libraries, family rooms, home theaters, wine cellars, and other spaces. The business also acts as a custom woodwork supplier for contractors and designers in the Chicago metropolitan region.
 
-The company emphasizes its over 30 years of experience, fair pricing, and personalized service as reasons clients choose them. Its craftsmen aim to exceed expectations by delivering detailed woodwork that brings homes to a new level.
+The firm emphasizes its precise bending and milling capability as a key differentiator, noting that it sets them apart from competitors. Ownership highlights direct collaboration with clients, fair pricing, and over three decades of experience as reasons customers choose them.
 
 ## Known for
 - Precise bending and milling of wood trim to fit any contour
 - Family-owned and operated since 1990
-- Over 30 years of experience in custom wood handcrafting
-- Fair pricing and personalized service
-- Custom interior and exterior doors noted for beauty and long-lasting performance
+- Direct collaboration with homeowners on every project
+- Fair pricing on custom architectural millwork
+- Over 30 years of experience in the Chicagoland area
 
 ## Capabilities
-- Custom architectural cabinet and millwork
+- Custom paneling
 - Custom interior and exterior doors
-- Custom trim and crown moulding
+- Radius millwork (bending and milling wood trim)
 - Fireplace mantels, surrounds, and shelves
-- Custom wall paneling
-- Radius millwork (bending and milling of wood trim)
 - Reproduction woodwork
+- Architectural cabinet and millwork manufacturing
 
 ## Industries
-- Architectural millwork
 - Residential construction
-- Custom woodworking
+- Home remodeling
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -548,16 +542,16 @@ The company emphasizes its over 30 years of experience, fair pricing, and person
 
 <details><summary>Sources</summary>
 
-- Founded in 1990 -> db
-- Family-owned and operated -> homepage
-- Location: Countryside, Illinois -> db and homepage
-- Designer and Manufacturer of Architectural Cabinet and Millwork -> homepage and db description
-- Products: custom interior/exterior doors, trim, crown moulding, fireplace mantels, paneling, radius woodwork -> homepage
-- Precise bending and milling of wood trim to fit any contour -> homepage
-- Serves Chicagoland area -> homepage
-- Over 30 years of experience -> homepage
-- Fair pricing -> homepage
-- Works directly with homeowners -> homepage
+- Founded 1990 -> db
+- Family-owned and operated -> /
+- Location Countryside, Illinois -> db and /
+- Services: custom paneling, doors, radius millwork, mantels -> /
+- Serves Chicagoland area -> /
+- Precise bending and milling sets apart -> /
+- Over 30 years experience -> /
+- Fair pricing -> /
+- Works directly with homeowners -> /
+- Reproduction woodwork offered -> /
 </details>
 
 ---
@@ -567,20 +561,20 @@ The company emphasizes its over 30 years of experience, fair pricing, and person
 **Old description:** Holiday Custom Wire is an electrical wire harness and cable assembly shop.
 
 ## About
-Holiday Custom Wire operates from Monona, Iowa, where it was founded in 2003. The company builds wire harnesses and cable assemblies for heavy construction, industrial, agricultural, automotive, and recreational equipment markets.
+Holiday Custom Wire, a wire harness and cable assembly shop, was founded in 2003 in Monona, Iowa. The company operates from a single location in the Midwest, emphasizing local production to maintain quality control.
 
-The shop handles custom designs, prototypes, and OEM harness modifications, producing electrical distribution assemblies entirely in-house. Processes include hand soldering, sonic and ultrasonic welding on a Telsonic welder, precision cutting and measuring on Komax machines, and both high- and low-temperature braiding. Each harness undergoes final inspection and receives a unique order code for traceability.
+The shop produces simple to sophisticated wire harnesses and electrical assemblies, handling custom designs, prototypes, and modifications of OEM harness designs. All work, including braiding, sonic welding, ultrasonic welding, precision cutting, and measuring, is performed in-house using equipment such as Komax machines and a Telsonic ultrasonic welder. Services also include electrical distribution assemblies, hand solder splices, design assistance, component replacement, harness routing, and fit-up support.
 
-Customers include Caterpillar, John Deere, Mobile Track Solutions, Oshkosh Truck, and Pierce Fire Equipment, reflecting a focus on heavy construction, commercial truck, and fire apparatus sectors. The company also serves industrial, agricultural, automotive, and recreational vehicle manufacturers.
+Holiday Custom Wire serves heavy construction equipment, industrial, commercial agricultural, automotive, and recreational electrical harness markets. Its customer base includes Caterpillar, John Deere, Mobile Track Solutions, Oshkosh Truck, and Pierce Fire Equipment.
 
-Holiday Custom Wire emphasizes attention to detail throughout the build process, offering design assistance, component replacement guidance, and harness routing and fit-up support to help engineers improve their final products.
+The company differentiates itself through attention to detail, final inspection of every assembly, and traceability via unique order codes on part tags. It focuses on building large harnesses and aims to help customers improve products through collaborative prototyping and design support.
 
 ## Known for
-- All manufacturing, including braiding, performed in-house
-- Precision cutting and measuring on Komax equipment
-- Ultrasonic welding with Telsonic welder
-- Final inspection and unique order-code traceability on every harness
-- High- and low-temperature braiding capabilities
+- All work, including braiding, performed in-house
+- Precision cutting and measuring with Komax machines
+- Sonic and ultrasonic welding via Telsonic ultrasonic welder
+- Final inspection on every assembly with unique traceability codes
+- Specializes in large, complex harnesses
 
 ## Capabilities
 - Wire harness manufacturing
@@ -588,31 +582,27 @@ Holiday Custom Wire emphasizes attention to detail throughout the build process,
 - Custom design
 - Prototyping
 - OEM harness modification
-- Electrical distribution assembly
-- Hand soldering
+- Electrical distribution assemblies
+- High-temperature braiding
+- Low-temperature braiding
 - Sonic welding
 - Ultrasonic welding
 - Precision cutting
 - Precision measuring
-- Wire marking
-- Wire termination
-- Final inspection
-- Traceability coding
-- High temperature braiding
-- Low temperature braiding
+- Hand solder splicing
+- Design assistance
+- Component replacement
 - Harness routing
 - Fit-up support
-- Component replacement
-- Design assistance
+- Final inspection
+- Traceability coding
 
 ## Industries
-- Heavy construction equipment
+- Heavy Construction Equipment
 - Industrial
-- Commercial agricultural
+- Commercial Agricultural
 - Automotive
-- Recreational electrical harness
-- Commercial truck
-- Fire equipment
+- Recreational Electrical Harness
 
 ## Equipment
 - Komax machines
@@ -627,16 +617,15 @@ Holiday Custom Wire emphasizes attention to detail throughout the build process,
 
 - Founded in 2003 -> db
 - Headquarters in Monona, Iowa -> db, /
-- Manufactures wire harnesses and cable assemblies -> /
-- Serves heavy construction, industrial, commercial agricultural, automotive, recreational electrical harness -> /
+- Wire harness and cable assembly shop -> /
+- Custom designs, prototypes, modify OEM harness designs, electrical distribution assemblies -> /
 - All work including braiding done in-house -> /
-- Uses Komax machines for precision cutting and measuring -> /
-- Uses Telsonic ultrasonic welder for ultrasonic welds -> /
-- Offers custom designs, prototypes, OEM harness modifications, electrical distribution assemblies -> /
-- Processes: hand solder splices, sonic welding, ultrasonic welding, high/low temperature braiding -> /
-- Final inspection of each part, unique order code for traceability -> /
+- Komax machines for precision cutting and measuring -> /
+- Telsonic ultrasonic welder for sonic and ultrasonic welding -> /
+- Industries: Heavy Construction Equipment, Industrial, Commercial Agricultural, Automotive, Recreational Electrical Harness -> /, /services
 - Customers: Caterpillar, John Deere, Mobile Track Solutions, Oshkosh Truck, Pierce Fire Equipment -> /
-- Specializes in quality, design assist, component replacements, harness routing and fit-up support -> /
+- Final inspection and unique order code traceability -> /
+- Specializes in big harnesses -> /
 - Over 23 years of experience -> /
 </details>
 

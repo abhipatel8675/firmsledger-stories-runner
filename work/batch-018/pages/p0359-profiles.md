@@ -3,31 +3,33 @@
 **Old description:** We offer a complete selection of wood products complementing the cabinet and flooring industries along with some specialty products.
 
 ## About
-Intermountain Wood Products was established in 1934 in Salt Lake City, Utah. The company has grown to 11 distribution locations across the Midwest and Western United States, serving the cabinet and flooring industries from a network of regional centers.
+Intermountain Wood Products was established in 1934 in Salt Lake City, Utah. Over the decades it has expanded to ten distribution centers across the Midwest and Western United States, with a sister flooring division operating twelve locations. The company remains privately held, though the ownership structure is not publicly detailed.
 
-The company distributes a complete selection of wood products, including lumber, hardware, textured melamine, hardwood slabs, and live-edge table tops. A fleet of more than 50 trucks delivers orders directly to customers, and the full inventory is accessible at every location. Staff receive extensive product training to advise on material selection and application.
+The firm distributes a broad line of wood products tailored to cabinet and flooring manufacturers, including textured melamine, hardwood slabs, and live‑edge table tops. A fleet of more than 50 trucks delivers orders from any of its locations, and the entire inventory is accessible at every branch. The company does not manufacture; it focuses on procurement, warehousing, and logistics.
 
-Primary customers are cabinet manufacturers and flooring producers, along with woodworking shops that require specialty items such as textured melamine and live-edge slabs. The company also supplies hardware and related accessories for cabinet assembly.
+Primary customers are cabinet shops and flooring producers throughout the region. The product range is designed to complement those industries, and the sales team emphasizes deep product knowledge gained through ongoing training programs.
 
-Intermountain Wood Products emphasizes service, knowledge, and value as its core differentiators. Its stated mission is to “enhance the quality of life for all who we associate with,” and it backs that promise with a company-owned delivery fleet, shared inventory across locations, and a focus on associate expertise.
+Leadership points to three pillars as differentiators: a company‑owned delivery fleet that promises timely shipments, associates trained to advise on product selection and application, and a stated core value of “enhancing the quality of life for all who we associate with.”
 
 ## Known for
-- Fleet of 50+ company-owned trucks for direct delivery
-- Shared inventory across 11 distribution centers
-- Staff trained in product manufacturing and application
-- Specialty offerings: textured melamine, live-edge hardwood slabs
+- Fleet of 50+ company‑owned trucks for direct delivery
+- Full inventory available at every distribution center
+- Associates receive continuous product and application training
+- Core value: enhance quality of life for customers, vendors, and employees
 
 ## Capabilities
 - Wood product distribution
-- Direct delivery via company fleet
-- Multi-location inventory fulfillment
-- Product selection consulting
+- Fleet delivery (50+ trucks)
+- Multi-location inventory availability
+- Product knowledge training
 - Specialty wood product sourcing
 
 ## Industries
 - Cabinet manufacturing
 - Flooring manufacturing
-- Woodworking
+
+## Equipment
+- Fleet of 50+ delivery trucks
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -38,13 +40,15 @@ Intermountain Wood Products emphasizes service, knowledge, and value as its core
 
 - Founded 1934 -> /about
 - Headquarters Salt Lake City, Utah -> /about
-- 11 locations across Midwest and Western US -> /about
-- Fleet of over 50 trucks -> /
-- Entire inventory at all locations -> /
+- 10 locations (Wood Products) and 12 locations (Flooring) across Midwest and Western US -> /
+- Fleet of over 50 trucks for delivery -> /
+- Entire inventory available at all locations -> /
+- Industries served: cabinet manufacturing and flooring manufacturing -> /
 - Specialty products: textured melamine, hardwood slabs, live edge table tops -> /
-- Industries: cabinet and flooring manufacturing -> /
-- Core value: enhance quality of life -> /
-- Company type distributor -> /
+- Core value: enhance quality of life for all associates -> /
+- Company type: distributor of wood products -> /
+- Founded year 1934 from database -> db
+- Headquarters Idaho Falls, Idaho from database -> db (conflicts with website)
 </details>
 
 ---
@@ -54,36 +58,34 @@ Intermountain Wood Products emphasizes service, knowledge, and value as its core
 **Old description:** We can work from your drawings, or, if necessary, in order to expedite a particular job, we can field sketch to your approval, and then fabricate. Field installation is also part of our service. — since the founding of our company we have had a consistent record of
 
 ## About
-International Sheet Metal & Plate Manufacturing, Inc. operates from Somerville, New Jersey. Since its founding, the company has provided custom fabrication and engineering services to industrial clients across the region.
+International Sheet Metal & Plate Manufacturing, Inc. operates from Somerville, New Jersey. The company’s founding year is not publicly disclosed, and ownership details such as family, veteran, or woman-owned status are not specified in available sources.
 
-The shop offers a full range of metal fabrication processes including certified welding with on-site testing facilities, bending, shearing, rolling, and machining performed on premises. It works with a wide variety of metals and alloys such as stainless steel, high-nickel alloys, carbon steel, copper, and aluminum. Equipment includes a 10-foot shear/brake among other tools that enable a broad range of fabrication assignments. The company also handles pollution control equipment fabrication and erection, exhaust and fume collection systems, and HVAC duct work.
+The company provides custom fabrication and engineering services, including certified welding with on-site testing facilities, bending, shearing, rolling, and in-house machining. It works with a range of metals and alloys such as stainless steel, high-nickel alloys, carbon steel, copper, and aluminum. Additional capabilities encompass pollution control equipment fabrication and erection, exhaust and fume collection systems, and HVAC ductwork. The firm also offers field sketching to expedite projects and field installation services.
 
-The company serves major segments including automotive, chemical, food processing, and pharmaceutical industries. It has specific experience meeting FDA food-grade and pharmaceutical-grade fabrication requirements.
+International Sheet Metal serves the automotive, chemical, food processing, and pharmaceutical industries. It has experience meeting FDA food-grade and pharmaceutical-grade fabrication requirements, indicating a focus on regulated sectors.
 
-The company emphasizes a consistent record of on-time, quality service and a total capability that combines both fabrication and engineering. Its certified welding organization and complete testing facilities support demanding industrial requirements.
+The company emphasizes a total in-house capability that combines fabrication and engineering, allowing it to work from customer drawings or develop field sketches for approval. Its stated differentiators include a consistent record of on-time delivery, comprehensive welding expertise, and the ability to handle diverse industrial fabrication assignments.
 
 ## Known for
 - Certified welding organization with complete testing facilities
-- Machining performed on premises
+- In-house machining alongside fabrication
 - Field sketching and installation services
 - Experience with FDA food-grade and pharmaceutical-grade fabrication
-- Broad material capability including high-nickel alloys
+- Broad material expertise including high-nickel alloys
 
 ## Capabilities
 - Custom fabrication
-- Engineering/design
+- Engineering support
 - Field sketching
 - Field installation
 - Certified welding
-- Weld testing
 - Bending
 - Shearing
 - Rolling
 - Machining
 - Pollution control equipment fabrication
-- Pollution control equipment erection
-- Exhaust and fume collection systems fabrication
-- HVAC duct work fabrication
+- Exhaust and fume collection systems
+- HVAC ductwork fabrication
 - FDA food-grade fabrication
 - Pharmaceutical-grade fabrication
 
@@ -93,27 +95,21 @@ The company emphasizes a consistent record of on-time, quality service and a tot
 - Food processing
 - Pharmaceutical
 
-## Equipment
-- 10-foot shear/brake
-
 ## Company details
 - **Company Type:** Manufacturer
 - **Headquarters:** Somerville, New Jersey
 
 <details><summary>Sources</summary>
 
-- Location: Somerville, New Jersey -> db
-- Custom fabrication and engineering services -> /
-- Field sketching and installation services -> /
-- Certified welding organization with complete testing facilities -> /
-- Processes: bending, shearing, rolling, machining (on premises) -> /
-- Materials: stainless steel, high-nickel alloys, carbon steel, copper, aluminum -> /
+- Company name and location -> db
+- Headquarters address: 112 Veterans Memorial Drive East, Somerville, NJ 08876 -> /
+- Services: custom fabrication, engineering, field sketching, field installation -> /
 - Industries served: automotive, chemical, food processing, pharmaceutical -> /
+- Capabilities: certified welding, bending, shearing, rolling, machining (on premises) -> /
+- Materials: stainless steel, high-nickel alloys, carbon steel, copper, aluminum -> /
+- Specialized fabrication: pollution control equipment, exhaust/fume collection, HVAC ductwork -> /
 - FDA food-grade and pharmaceutical-grade fabrication experience -> /
-- Exhaust and fume collection systems and HVAC duct work -> /
-- Pollution control equipment fabrication and erection -> /
-- Equipment includes 10-foot shear/brake -> /
-- Consistent record of on-time, quality service -> /
+- Phone number: (908) 722-6614 -> /
 </details>
 
 ---
@@ -123,30 +119,33 @@ The company emphasizes a consistent record of on-time, quality service and a tot
 **Old description:** is the largest non-vertically integrated manufacturer of copper and copper-alloy wire products in the U.S. Our talented and passionate team delivers high-quality wire solutions for a wide range of applications across diverse market segments.
 
 ## About
-International Wire is headquartered in Camden, New York. The company describes itself as the largest non-vertically integrated manufacturer of copper and copper-alloy wire products in the United States. No founding year or ownership details are disclosed in the available information.
+International Wire operates from Camden, New York, where it has built decades of experience in wire drawing, conductor fabrication, and custom wire solutions. The company describes itself as the largest non-vertically integrated manufacturer of copper and copper-alloy wire products in the United States.
 
-The company produces a comprehensive range of wire products including bare copper wire, tinned copper wire, tinned copper tubular and flat braids, and stainless steel tubular braids. Its capabilities span wire drawing, conductor fabrication, and custom wire solutions, with single-end wires available from 44 AWG to 2 AWG, stranded wires for electronics and cable assemblies, and braided wires for RFI/EMI shielding. The firm notes it offers thousands of products and serves customers across the United States and Europe.
+Its product range includes bare and tinned copper wires, tinned copper tubular and flat braids, and stainless steel tubular braids. The company produces single-end wire from 44 AWG to 2 AWG, stranded wire for electronics and cable assemblies, and braided wire for RFI/EMI shielding. With thousands of products, it serves customers across the United States and Europe.
 
-International Wire serves markets including advanced manufacturing and automation, electrification and power infrastructure, aerospace and defense systems, data centers and critical connectivity, transportation and e-mobility, smart living and appliances, energy extraction and processing, healthcare and medical devices, and built environment and infrastructure. Specific applications cited range from robotics and factory automation to solar farms, wind turbines, nuclear energy, in-flight entertainment and cabin management systems, 5G networks, electric vehicles, home appliances, oil and gas operations, medical devices, and building wiring and grounding.
+International Wire supplies nine market segments: advanced manufacturing and automation, electrification and power infrastructure, aerospace and defense systems, data centers and critical connectivity, transportation and e-mobility, smart living and appliances, energy extraction and processing, healthcare and medical devices, and built environment and infrastructure. Specific applications include robotics, factory automation, solar farms, wind turbines, nuclear energy, in-flight entertainment and cabin management wiring, 5G networks, electric vehicles, home appliances, oil and gas equipment, medical devices, and building wiring and grounding.
 
-The company states its mission is to deliver value-driven, high-quality wire products and services that exceed client expectations, guided by core values of safety, people, customers, products and services, conduct, and continuous improvement. It emphasizes decades of experience in wire drawing, conductor fabrication, and custom wire solutions as a foundation for its offerings.
+The company states its foremost commitment is satisfying customers on the basis of quality, reliability, price, reputation, customer service, and on-time delivery. Its mission is to deliver value-driven, high-quality wire products and services that exceed client expectations, guided by core values of safety, people, customers, products and services, conduct, and continuous improvement.
 
 ## Known for
 - Largest non-vertically integrated manufacturer of copper and copper-alloy wire products in the U.S.
 - Decades of experience in wire drawing, conductor fabrication, and custom wire solutions
-- Comprehensive product range: bare and tinned copper wires, tinned and stainless steel braids
 - Serves customers across the United States and Europe
+- Comprehensive range including bare/tinned copper wires and stainless steel braids
+- Thousands of products across nine market segments
 
 ## Capabilities
 - Wire drawing
 - Conductor fabrication
 - Custom wire solutions
+- Bare copper wire production
+- Tinned copper wire production
+- Tubular braiding
+- Flat braiding
+- Stainless steel braiding
 - Single-end wire manufacturing (44 AWG to 2 AWG)
 - Stranded wire manufacturing
-- Braided wire manufacturing (tubular and flat)
-- Tinning
-- Braiding
-- RFI/EMI shielding
+- Braided wire manufacturing for RFI/EMI shielding
 
 ## Industries
 - Advanced Manufacturing & Automation
@@ -158,7 +157,6 @@ The company states its mission is to deliver value-driven, high-quality wire pro
 - Energy Extraction & Processing
 - Healthcare & Medical Devices
 - Built Environment & Infrastructure
-- Renewable Energy
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -168,18 +166,16 @@ The company states its mission is to deliver value-driven, high-quality wire pro
 
 - Headquarters in Camden, New York -> db
 - Largest non-vertically integrated manufacturer of copper and copper-alloy wire products in the U.S. -> db
+- Decades of experience in wire drawing, conductor fabrication, and custom wire solutions -> /
+- Serves customers across the United States and Europe -> /
 - Offers bare copper wire, tinned copper wire, tinned copper tubular braids, tinned copper flat braids, stainless steel tubular braids -> /
-- Single-end wire range 44 AWG to 2 AWG -> /
+- Single-end wire ranging from 44 AWG to 2 AWG -> /
 - Stranded wire for electronics and cable assemblies -> /
 - Braided wire for RFI/EMI shielding -> /
-- Wire drawing, conductor fabrication, custom wire solutions -> /
-- Serves customers across United States and Europe -> /
-- Markets: Advanced Manufacturing & Automation, Electrification & Power Infrastructure, Aerospace & Defense Systems, Data Centers & Critical Connectivity, Transportation & e-Mobility, Smart Living & Appliances, Energy Extraction & Processing, Healthcare & Medical Devices, Built Environment & Infrastructure -> /
-- Applications: robotics, factory automation, solar farms, wind turbines, nuclear energy, in-flight entertainment, cabin management, airframe wiring, 5G networks, electric vehicles, home appliances, oil & gas, medical devices, building wiring -> /
+- Nine market segments listed: Advanced Manufacturing & Automation, Electrification & Power Infrastructure, Aerospace & Defense Systems, Data Centers & Critical Connectivity, Transportation & e-Mobility, Smart Living & Appliances, Energy Extraction & Processing, Healthcare & Medical Devices, Built Environment & Infrastructure -> /
+- Applications: robotics, factory automation, solar farms, wind turbines, nuclear energy, aerospace wiring, 5G, electric vehicles, home appliances, oil & gas, medical devices, building wiring -> /
 - Mission: deliver value-driven, high-quality wire products and services that exceed client expectations -> /
 - Core values: Safety, People, Customers, Products & Services, Conduct, Continuous Improvement -> /
-- Decades of experience in wire drawing, conductor fabrication, custom wire solutions -> /
-- Materials: copper, copper alloys, stainless steel -> /
 </details>
 
 ---
@@ -189,64 +185,53 @@ The company states its mission is to deliver value-driven, high-quality wire pro
 **Old description:** Interpak has been the trusted choice for discerning customers worldwide for more than six decades. We offer both Made in America and Asia production options. Let us transform your brand's image into an unforgettable presentation.
 
 ## About
-Based in Pawtucket, Rhode Island, Interpak is a third-generation family-owned packaging manufacturer with a 70-year legacy. The company operates as the parent of a sister-brand ecosystem that includes Mason Box, Presentation Box + Display, and Jewelrypackaging.com, providing a single source for custom, stock, and quick-ship packaging.
+Interpak, a third-generation family business, has operated from Pawtucket, Rhode Island for over 70 years. The company traces its roots to a commitment to integrity and craftsmanship that has defined its client relationships across generations.
 
-Interpak produces custom luxury presentation packaging — hinged boxes, paperboard boxes, pouches, shopping bags, mailing and storage boxes, stock custom branded boxes, and wooden boxes — using precision hot-stamping, debossing, and multi-color printing. It offers both domestic and global manufacturing, flexible production runs, and a VIP Small Quantity Order program that accepts orders as low as 100 U.S.-made boxes. Lean manufacturing and a concept-to-completion approach integrate structural design, material selection, finishing, production, and program support, while the Flex Ship™ just-in-time inventory system helps customers manage replenishment.
+The company manufactures custom luxury presentation packaging, specializing in hinged boxes, paperboard boxes, pouches, shopping bags, mailing and storage boxes, and wooden boxes. Its capabilities include precision hot-stamping, debossing, and multi-color printing, supported by domestic production in Pawtucket and overseas options in Asia. Interpak runs a lean, concept-to-completion operation that covers structural design, sampling, material selection, finishing, and program management, and offers a VIP program for orders as small as 100 U.S.-made boxes.
 
-The company serves jewelry, watch, award, premium gift, medical, industrial, e-commerce, retail, chocolate, stationery, coin, and giftware markets. Customers range from fine-jewelry brands needing keepsake-worthy unboxing to medical-device manufacturers requiring industrial boxes, and retailers seeking quick-ship stock boxes with custom stamping.
+Interpak serves jewelry, watch, award, and premium gift brands, as well as medical, industrial, e-commerce, chocolate, coin, and stationery markets. Its customer base includes B2B buyers seeking scalable custom programs and retailers needing quick-turn stock items through sister brands Mason Box, Presentation Box + Display, and Jewelrypackaging.com.
 
-Interpak differentiates itself through American-made craftsmanship, FSC-certified sustainable materials, a 98% on-time delivery record, and a hub model that reduces vendor gaps by housing custom engineering, fast-turn replenishment, and repair-shipping solutions under one ownership. The business was built on the principle that packaging should be engineered like a product, not treated as decoration.
+The company differentiates itself through its Flex Ship™ just-in-time inventory system, a 98% on-time delivery record, free samples, and FSC-certified sustainable materials. Its hub model consolidates custom engineering, fast-branded replenishment, and protective shipping solutions under one ecosystem, aiming to reduce vendor gaps and maintain brand consistency.
 
 ## Known for
-- Domestic manufacturing with American-made craftsmanship
 - Flex Ship™ just-in-time inventory management
 - VIP Small Quantity Order program (minimum 100 U.S.-made boxes)
-- FSC-certified sustainable materials
-- Sister-brand ecosystem (Mason Box, Presentation Box + Display, Jewelrypackaging.com) for single-source packaging
+- Free samples for evaluation
+- 98% on-time delivery record
+- FSC-certified sustainable packaging
 
 ## Capabilities
 - Precision hot-stamping
 - Debossing
 - Multi-color printing
 - Domestic manufacturing
-- Global manufacturing
-- Lean manufacturing
-- Concept-to-completion (design, sampling, material selection, finishing, production, program support)
-- JIT inventory management (Flex Ship)
-- Small quantity orders (100 units)
+- Global manufacturing (Asia)
+- Just-in-time inventory management (Flex Ship)
+- Small quantity orders (min 100 units)
 - Free samples
-- Custom packaging design
-- Structural design
-- Material selection
-- Finishing
-- Production
-- Program support
-- Stock and quick-ship solutions
-- Custom stamping
-- Patented wire closures (Mason Box)
-- Sustainable packaging design
-- Eco-friendly materials (recycled, reusable)
-- Quality process control
-- On-time delivery management
-- Brand program management
+- Concept-to-completion packaging engineering
+- Lean manufacturing
+- FSC-certified sustainable packaging
+- Custom structural design
+- Material selection and finishing
+- Program management
+- Stock and quick-ship packaging via sister brands
 
 ## Industries
 - Jewelry
-- Watches
+- Watch
 - Awards
-- Premium gifts
+- Giftware
 - Medical
 - Industrial
 - E-commerce
-- Retail
-- Chocolate
+- Chocolate/Confectionery
+- Coin/Collectibles
 - Stationery
-- Coins
-- Giftware
 - Class rings
 
 ## Certifications
-- FSC Certified
+- FSC
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -255,26 +240,24 @@ Interpak differentiates itself through American-made craftsmanship, FSC-certifie
 
 <details><summary>Sources</summary>
 
-- Location: Pawtucket, Rhode Island -> db, /about
-- Third-generation family-owned, 70-year legacy -> /about
-- Sister brands: Mason Box, Presentation Box + Display, Jewelrypackaging.com -> /about
-- Custom luxury jewelry packaging, hinged boxes, paperboard boxes, pouches, shopping bags, mailing/storage boxes, stock custom branded boxes, wooden boxes -> /, /about
-- Precision hot-stamping, debossing, multi-color printing -> /
-- Domestic and global manufacturing -> /
-- Flexible production runs, VIP Small Quantity Order program (100 units) -> /
-- Lean manufacturing, concept-to-completion approach -> /about
-- Flex Ship JIT inventory -> /
-- Industries: jewelry, watches, awards, premium gifts, medical, industrial, e-commerce, retail, chocolate, stationery, coins, giftware, class rings -> /, /about
-- FSC certified -> /
+- Pawtucket, Rhode Island headquarters -> /about
+- Third-generation family business -> /about
+- 70-year legacy -> /about
+- Custom luxury jewelry packaging -> /about
+- Precision hot-stamping, debossing, multi-color printing -> db
+- Domestic & Global Manufacturing Capabilities -> /
+- FSC Certified -> /
+- JIT Inventory Management – Flex Ship -> /
+- Small Quantity Orders (min 100) -> /
+- Free Samples -> /
 - 98% on-time delivery -> /
-- American-made craftsmanship -> /
-- Sustainable practices, recycled materials -> /
-- Free samples -> /
-- Short lead times -> /
-- Patented wire closures (Mason Box) -> /about
-- Custom stamping -> /about
-- Stock and quick-ship solutions -> /about
-- Quality process priority -> /quality
+- Concept-to-Completion -> /
+- Lean manufacturing -> /quality
+- Sister brands hub (Mason Box, Presentation Box + Display, Jewelrypackaging.com) -> /about
+- Industries served: jewelry, medical, industrial, e-commerce, etc. -> /
+- Materials: paperboard, wood -> /
+- Min order 100 units -> /
+- Social link: LinkedIn -> /about
 </details>
 
 ---
@@ -284,19 +267,19 @@ Interpak differentiates itself through American-made craftsmanship, FSC-certifie
 **Old description:** Interstate Narrow Fabrics, Inc. is headquartered just outside of Burlington, North Carolina (USA). We established ourselves over a quarter of a century ago and have continued to grow both in size as well as industries served. Our production facility serves nearly every imaginable industry from apparel, lingerie, safety protective, hand bags and US military to medical and automotive applications.
 
 ## About
-Interstate Narrow Fabrics, Inc. operates from Haw River, North Carolina, just outside Burlington. Ownership details and founder names are not publicly disclosed.
+Interstate Narrow Fabrics, Inc. is headquartered in Haw River, North Carolina, just outside Burlington. The company states it was established over a quarter of a century ago and has continued to grow in both size and the industries it serves. No founders or ownership details are provided in the public information.
 
-The company runs a production facility equipped with modern machinery and controls, focusing on narrow fabric manufacturing for a wide variety of applications. Specific processes, facility dimensions, headcount, and production volumes are not disclosed.
+The firm operates a production facility that manufactures narrow fabrics for a wide range of end uses. It describes its equipment as state-of-the-art machines and controls, but does not disclose specific processes, facility square footage, employee count, or production volumes.
 
-Its customer base spans apparel, lingerie, safety protective gear, handbags, U.S. military, medical, and automotive sectors. The firm serves both commercial and defense markets, supplying components for end-use products in these industries.
+The customer base includes apparel, lingerie, safety protective equipment, handbags, U.S. military procurement, medical devices, and automotive applications. In 2020 the company received the Exporter of the Year Award from the Export-Import Bank of the United States, indicating active international shipping.
 
-Interstate Narrow Fabrics emphasizes a customer-needs focus alongside its technical capabilities. The company was recognized as the 2020 Exporter of the Year by the Export-Import Bank of the United States, highlighting its international shipping experience.
+The company says its primary differentiator is a focus on customer needs, supported by its investment in modern machinery. No further details on founding motivations or unique value propositions are stated.
 
 ## Known for
-- Customer-needs focus paired with modern production equipment
-- 2020 Exporter of the Year award from EXIM
-- Serves diverse markets from apparel to military
-- U.S.-based production facility
+- Focus on customer needs
+- State-of-the-art machines and controls
+- 2020 Exporter of the Year Award (EXIM)
+- Serves diverse markets from apparel to military and medical
 
 ## Capabilities
 - Narrow fabric manufacturing
@@ -304,10 +287,10 @@ Interstate Narrow Fabrics emphasizes a customer-needs focus alongside its techni
 ## Industries
 - Apparel
 - Lingerie
-- Safety protective
-- Hand bags
-- US military
-- Medical
+- Safety protective equipment
+- Handbags
+- U.S. military
+- Medical devices
 - Automotive
 
 ## Company details
@@ -316,12 +299,12 @@ Interstate Narrow Fabrics emphasizes a customer-needs focus alongside its techni
 
 <details><summary>Sources</summary>
 
-- Headquarters in Haw River, NC -> db
-- Established over a quarter century ago -> /
-- Production facility with modern machines -> /
-- Serves apparel, lingerie, safety protective, hand bags, US military, medical, automotive -> /
-- 2020 Exporter of the Year Award from EXIM -> /
-- Customer-needs focus stated -> /
+- Headquartered in Haw River, North Carolina -> db
+- Established over a quarter century ago -> pages:/
+- Production facility serves apparel, lingerie, safety protective, hand bags, US military, medical, automotive -> pages:/
+- Uses state-of-the-art machines and controls -> pages:/
+- Focus on customer needs -> pages:/
+- 2020 Exporter of the Year Award from EXIM -> pages:/
 </details>
 
 ---
@@ -331,36 +314,39 @@ Interstate Narrow Fabrics emphasizes a customer-needs focus alongside its techni
 **Old description:** Check out the latest innovation from Iowa Rotocast Plastics. More features, more capacity, more happy fans.
 
 ## About
-Iowa Rotocast Plastics Inc. has operated from Decorah, Iowa since its founding in 1976. The company specializes in custom rotational molding and fabrication, serving clients across the Midwest and beyond.
+Iowa Rotocast Plastics Inc. was founded in 1976 in Decorah, Iowa. The company operates as a privately held manufacturer; no specific ownership structure or founder names are disclosed in public sources.
 
-The shop runs rotational molding on 3‑arm turret machines with a 170‑inch swing capacity, including a recently added Ferry 330HD unit. In‑house capabilities extend to CNC aluminum tooling, particle analysis, part trimming, drilling, routing, and assembly/kitting, allowing the firm to move from concept to finished product under one roof.
+The company specializes in custom rotational molding and fabrication. Its molding operation runs 3‑arm turret machines capable of a 170‑inch swing, including a recently added Ferry 330HD unit. In‑house capabilities extend to CNC aluminum tooling, particle analysis, part trimming, drilling, routing, and assembly or kitting. The firm emphasizes design flexibility from small to large parts and notes that its process is economical for smaller production runs.
 
-Primary markets include food‑and‑beverage vending and energy‑drink branding; the company produces ice‑bin merchandisers, carts, kiosks, and chilled‑beverage units for customers such as C4 Energy's GrabNGo program. Product lines carry names like ICE hawk, Texas tanker, Hawker Elite, and the Super Arctic series.
+Iowa Rotocast serves the food‑and‑beverage vending market and broader consumer‑product sectors. Its product lines include the Rotough ice‑bin merchandisers, carts and kiosks for vending, and Breezers chilled‑beverage merchandisers. Specific models such as the Ice Hawk, Texas Tanker, Hawker Elite, and Super Arctic are built for commercial use. The company also references a C4 Energy GrabNGo unit as an example of its work.
 
-Iowa Rotocast emphasizes shorter lead times from concept to production, design flexibility across a wide size range, and cost‑effective smaller production runs as its key differentiators.
+The company states that it differentiates itself through shorter lead times from concept to production, design flexibility across part sizes, and cost‑effectiveness on lower‑volume runs. Its messaging highlights a “Built for the Experience” philosophy and a commitment to “Raising the Standards.”
 
 ## Known for
+- 3‑arm turret rotational molding machines with 170‑inch swing capacity
+- Ferry 330HD rotational molding machine
+- CNC aluminum tooling produced in‑house
 - Shorter lead time from concept to production
-- Design flexibility from small to large products
-- Economical smaller production runs
-- 3‑arm turret machines with 170″ swing capacity
-- Ferry 330HD rotational molding equipment
+- Economical for smaller production runs
 
 ## Capabilities
-- Rotational molding (3‑arm turret machines up to 170″ swing)
-- Custom fabrication
-- CNC aluminum tooling
-- Particle analysis
-- Part trimming, drilling & routing
-- Part assembly/kitting
+- Custom Rotomolding
+- Custom Fabrication
+- Rotational Molding (3-arm turret, up to 170" swing)
+- Ferry 330HD Machine Operation
+- CNC Aluminum Tooling
+- Particle Analysis
+- Part Trimming
+- Drilling & Routing
+- Part Assembly & Kitting
 
 ## Industries
-- Food and beverage vending
-- Energy drinks
+- Food and Beverage Vending
+- Consumer Products
 
 ## Equipment
-- 3‑arm turret machines (170″ swing)
-- Ferry 330HD rotational molding machine
+- 3-arm turret machines (170" swing)
+- Ferry 330HD
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -371,13 +357,21 @@ Iowa Rotocast emphasizes shorter lead times from concept to production, design f
 
 - Founded 1976 -> db
 - Headquarters Decorah, Iowa -> db
-- Custom rotomolding and fabrication services -> page "/"
-- Rotational molding on 3-arm turret machines up to 170″ swing -> page "/"
-- Ferry 330HD machine -> page "/"
-- CNC aluminum tooling, particle analysis, part trimming/drilling/routing, assembly/kitting -> page "/"
-- Products: ice bin merchandisers, carts & kiosks, chilled beverage merchandisers -> page "/"
-- Industries: food and beverage vending, energy drinks (C4 Energy GrabNGo) -> page "/"
-- Differentiators: shorter lead-time, design flexibility, economical smaller runs -> page "/"
+- Custom rotomolding and fabrication -> page /
+- 3-arm turret machines with 170" swing -> db capabilities
+- Ferry 330HD machine -> db capabilities
+- CNC aluminum tooling -> db products
+- Particle analysis -> db products
+- Part trimming, drilling & routing -> db products
+- Part assembly/kitting -> db products
+- Design flexibility small to large -> db products
+- Economical for smaller production runs -> db products
+- Shorter lead-time from concept to production -> db products
+- Product lines: Rotough ice bin merchandisers, carts/kiosks, Breezers chilled beverage merchandisers -> page /
+- Specific models: Ice Hawk, Texas Tanker, Hawker Elite, Super Arctic -> page /
+- C4 Energy GrabNGo example -> db industries_served
+- Food and Beverage Vending industry -> page /
+- Built for the Experience / Raising the Standards messaging -> page /
 </details>
 
 ---
@@ -387,67 +381,77 @@ Iowa Rotocast emphasizes shorter lead times from concept to production, design f
 **Old description:** We offer a complete line of agricultural fencing products that meet or exceed industry standards. By devising new industry products and improving the functionality of existing products, Oklahoma and Iowa Steel & Wire Companies make the products you can depend on. No matter where you are, ask for us by name, OKBRAND.
 
 ## About
-Iowa Steel & Wire Co operates from Centerville, Iowa, where the Moore family re‑opened the facility in 1989. The business traces its roots to 1979, when B. L. Moore and his brother‑in‑law Robert Lockridge founded Oklahoma Steel & Wire in Madill, Oklahoma, to make livestock panels. After a series of expansions and the passing of the original founders, the Moore family continues to own and direct daily operations of both the Oklahoma and Iowa locations.
+Iowa Steel & Wire Co operates in Centerville, Iowa, as part of the OKBRAND family of companies founded in 1979 by B. L. Moore and his brother-in-law Robert Lockridge in Madill, Oklahoma. The Moore family reopened the Iowa facility in 1989 to focus on industrial wire products, and the family continues to own and direct daily operations today.
 
-The company produces a full line of agricultural fencing — including barbed wire, field fence, horse‑safe Max‑Tight and high‑impact Max‑Loc — as well as industrial wire products. Vertical integration is a core feature: Mid American Steel & Wire runs an electric‑arc furnace melt shop and a rolling mill that turn 100 % recycled scrap into billets and wire rod, supplying both the Oklahoma and Iowa plants. The Iowa site runs EVG and Schlatter welders plus high‑speed straight‑and‑cut equipment to fabricate welded wire fabric, mine mesh, box culverts and pipe reinforcement.
+The company produces a complete line of agricultural fencing — including livestock panels, barbed wire, field fence, and horse-safe Max-Tight and Max-Loc systems — as well as industrial wire products such as welded wire fabric, commodity mesh, mine mesh, box culverts, pipe fabric, and structural reinforcement. Production is vertically integrated: an electric arc furnace melts 100% recycled scrap into billets, a rolling mill forms wire rod, and multiple EVG and Schlatter welders with high-speed straight-and-cut lines handle fabrication.
 
-Customers span agriculture (ranchers, fencing distributors), industrial buyers, mining operations and construction contractors needing structural welded wire fabric and commodity mesh. OKBRAND products are sold across the United States through farm‑supply and industrial channels.
+Customers span agriculture, construction, mining, and infrastructure markets. Fencing distributors and contractors specify OKBRAND panels and horse fence; mines and precast concrete suppliers use the company’s welded mesh and culvert reinforcement; structural fabricators source wire for reinforcement.
 
-The company emphasizes that its wire is 100 % American melted and made, a distinction tied to its recycled‑scrap melt shop and family‑owned commitment to continuous improvement, competitive pricing, safety and reliable service.
+The Moore family’s philosophy emphasizes continuous improvement, employee safety, and competitive pricing. Vertical integration and domestic melting allow the company to control quality and lead times, while a product warranty backs every shipment.
 
 ## Known for
-- 100% American melted and made from recycled scrap
-- Vertically integrated melt shop and rolling mill ensure rod supply
-- Family-owned since 1979 with continuous family management
-- High-speed EVG and Schlatter welders for structural welded wire fabric
+- 100% American melted and manufactured
+- Vertically integrated melt shop and rolling mill
+- Family-owned and operated since 1979
+- Products made from 100% recycled scrap
+- Product warranty backed by the company
 
 ## Capabilities
 - Agricultural fencing manufacturing
 - Industrial wire products manufacturing
-- Wire rod production (electric arc furnace melt shop, rolling mill)
-- Welded wire fabric production (EVG welders, Schlatter welders)
+- Wire rod rolling
+- Steel melting (Electric Arc Furnace)
+- Billet casting
+- Welded wire fabric production
+- Commodity mesh production
+- Mine mesh production
+- Box culvert fabrication
+- Pipe fabric production
+- Structural reinforcement fabrication
 - Straight and cut processing
+- High-speed welding (EVG, Schlatter)
 - Barbed wire production
 - Field fence production
-- Horse fence (Max-Tight) production
-- High-impact tight-lock fencing (Max-Loc) production
-- Mine mesh fabrication
-- Box culvert fabrication
-- Pipe fabric reinforcement production
-- Commodity mesh production
+- Horse-safe fencing (Max-Tight, Max-Loc)
+- Livestock panel manufacturing
 
 ## Industries
-- Agriculture
+- Agricultural
 - Industrial
+- Construction
 - Mining
-- Construction (structural reinforcement)
-- Commodity mesh
+- Infrastructure
+- Livestock
+- Equine
 
 ## Equipment
-- Electric arc furnace
-- Rolling mill
-- EVG welder (two)
-- Schlatter welder (two)
-- High-speed straight and cut machines
+- EVG Welder
+- Schlatter Welder
+- Straight and Cut Machines
+- Electric Arc Furnace
+- Rolling Mill
+- Melt Shop
+- Barbed wire machines
+- Field fence machines
 
 ## Company details
 - **Company Type:** Manufacturer
-- **Founded:** 1989
+- **Founded:** 1979
 - **Ownership:** Family-owned
 - **Headquarters:** Centerville, Iowa
 
 <details><summary>Sources</summary>
 
-- Founded 1979 as Oklahoma Steel & Wire by B.L. Moore and Robert Lockridge -> /about-us
-- Iowa Steel & Wire re-opened in 1989 in Centerville, Iowa -> /about-us
-- Family-owned and operated by Moore family -> /about-us
-- Vertical integration with melt shop and rolling mill (Mid American Steel & Wire) -> /
-- 100% American melted and made using 100% recycled scrap in electric arc furnace -> /
-- EVG welders (first 2015, second 2017) and Schlatter welders (2018) for welded wire fabric -> /about-us
-- High-speed straight and cut machines installed 2017 -> /about-us
-- Products: agricultural fencing (barbed wire, field fence, Max-Tight, Max-Loc), industrial wire, mine mesh, box culverts, pipe fabric, commodity mesh -> / and /about-us
-- 238 employees at Mid-American Steel & Wire in 2004 -> /about-us
-- Tornado hit Madill plant 2020, rebuild completed 2021 -> /about-us
+- Founded 1979 by B.L. Moore and Robert Lockridge -> /about-us
+- Iowa Steel & Wire reopened in Centerville, Iowa in 1989 -> /about-us
+- Family-owned and operated -> /about-us, /
+- Products: agricultural fencing, industrial wire, welded wire fabric, mine mesh, box culverts, pipe fabric, structural reinforcement -> /, /about-us
+- Vertical integration: electric arc furnace, rolling mill, melt shop -> /
+- Equipment: EVG welders, Schlatter welders, straight and cut machines -> /about-us
+- Materials: 100% recycled scrap, steel billets, wire rod, coiled rebar -> /
+- Industries: agriculture, construction, mining, infrastructure -> /about-us, /
+- Warranty on products -> /
+- Mission: highest quality, competitive prices, safe environment -> /about-us
 </details>
 
 ---
@@ -457,47 +461,49 @@ The company emphasizes that its wire is 100 % American melted and made, a dist
 **Old description:** Experts with decades of combined experience for all of your welding and fabrication needs. Our shop is located in West Salem, WI, and we proudly provide superior custom fabrication services for our neighbors in West Salem and surrounding areas of the coulee region.
 
 ## About
-Iron Ram Fabrications operates a welding and fabrication shop in West Salem, Wisconsin, serving the surrounding coulee region of La Crosse County. The company does not disclose a founding year or ownership structure, and no founders are named in its public materials.
+Iron Ram Fabrications operates from a shop 16 in West Salem, Wisconsin, serving the surrounding coulee region. The company does not publish a founding year or identify its founders by name, and ownership structure is not disclosed in public materials.
 
-The shop provides custom welding, fabrication, and repair services for commercial, residential, and agricultural clients. Core processes include MIG/TIG welding of aluminum, steel, and stainless steel; high-definition plasma CNC cutting; shearing, bending, and tube/pipe bending; mill and lathe machining; and hydraulic hose assembly and repair. The facility also stocks steel and hydraulic fittings for direct sale. No facility size, headcount, or production volumes are published.
+The shop provides custom welding and fabrication services centered on steel, aluminum, and stainless steel. Core processes include high-definition plasma CNC cutting, shearing, bending, tube and pipe bending, and mill and lathe machining. The team also repairs equipment, trailers, and hydraulic cylinders, assembles hydraulic hoses from a stocked fitting inventory, and produces structural steel, railings, and custom steel signs. Steel sales round out the offering.
 
-Customers range from local homeowners needing railings and custom signs to commercial operators requiring equipment repairs, structural steel work, and design-build projects from blueprints. Agricultural fabrication is cited as a specialty, alongside trailer and hydraulic cylinder repairs.
+Work spans agricultural, commercial, and residential customers. Agricultural clients bring fabrication and repair needs; commercial accounts request design-build projects from blueprints, structural steel, and equipment repairs; residential jobs include home railings and custom signs. The company describes its market as West Salem and the nearby coulee region.
 
-The company emphasizes its team’s decades of combined experience and the use of current equipment and techniques to deliver affordable, high-quality results for both one-off and repeat jobs.
+Iron Ram emphasizes decades of combined experience among its staff and the use of current equipment and techniques to deliver quality results at affordable prices. The business was started to meet local demand for a full-service fabrication shop that could handle both one-off custom jobs and ongoing repair work.
 
 ## Known for
-- Decades of combined welding and fabrication experience
+- Decades of combined staff experience
 - High-definition plasma CNC cutting in-house
-- Mill and lathe machining capabilities
-- Hydraulic hose repair and custom fitting assembly
-- Structural steel, railing, and custom sign fabrication
+- Mill and lathe machining capability
+- Hydraulic hose and fitting inventory for custom assembly
+- Design-build from customer blueprints and specifications
 
 ## Capabilities
-- Welding (Aluminum, Steel, Stainless Steel)
+- Welding (Steel, Aluminum, Stainless Steel)
 - High-Definition Plasma CNC Cutting
 - Shearing
-- Bending and Tube/Pipe Bending
-- Mill and Lathe Machining
+- Bending
+- Tube/Pipe Bending
+- Milling
+- Turning
+- Structural Steel Fabrication
+- Custom Steel Sign Fabrication
+- Railing Fabrication (Commercial and Residential)
+- Hydraulic Hose Repair
+- Hydraulic Hose Assembly
 - Equipment Repair
 - Trailer Repair
 - Hydraulic Cylinder Repair
-- Commercial Fabrication & Designing
 - Design/Build from Blueprints
-- Structural Steel Work
-- Commercial and Home Railings
-- Custom Steel Signs
 - Steel Sales
-- Hydraulic Hose Repair
-- Hydraulic Hose and Fitting Sales
 
 ## Industries
+- Agricultural
 - Commercial
 - Residential
-- Agricultural
 
 ## Equipment
-- High-Definition Plasma CNC Cutting
-- Mill and Lathe
+- High-Definition Plasma CNC
+- Mill
+- Lathe
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -505,14 +511,16 @@ The company emphasizes its team’s decades of combined experience and the use o
 
 <details><summary>Sources</summary>
 
-- Location: West Salem, WI -> db
-- Services: custom welding, fabrication, plasma cutting, bending, repair -> /
-- Materials: aluminum, steel, stainless steel -> /
-- Equipment: high-definition plasma CNC cutting, mill and lathe -> /
-- Industries: commercial, residential, agricultural -> /
-- Hydraulic hose repair and sales -> /
-- Structural steel work, railings, custom signs -> /
-- Decades of combined experience claimed -> /
+- Location: West Salem, WI -> db and page /
+- Services: welding, plasma cutting, bending, machining, hydraulic hose repair -> page /
+- Materials: Aluminum, Steel, Stainless Steel -> page /
+- Equipment: High-Definition Plasma CNC, Mill, Lathe -> page /
+- Industries: agricultural, commercial, residential -> page /
+- Repair services: equipment, trailers, hydraulic cylinders -> page /
+- Design/build from blueprints -> page /
+- Structural steel, railings, custom signs -> page /
+- Steel sales -> page /
+- No founding year, employee count, certifications, ownership tags stated -> page /
 </details>
 
 ---
@@ -522,38 +530,39 @@ The company emphasizes its team’s decades of combined experience and the use o
 **Old description:** Manufacturing high quality, custom iron products for your home since 1997.
 
 ## About
-Iron Work Studio is based in Owings, Maryland, and was founded in 1997 by Rob Link, a third-generation welder with a technical degree in electronic engineering and a background in the steamfitters’ union. Link began with a 200-square-foot warehouse in Severn, Maryland, before relocating the shop to Owings, where it has operated for over two decades.
+Iron Work Studio operates from Owings, Maryland, where it has been based for over two decades. The company was founded in 1997 by Rob Link, a third‑generation welder who started with a 200‑square‑foot warehouse in nearby Severn before moving the shop closer to home. Link, who holds a technical degree in electronic engineering and a background in the steamfitters’ union, built the business from the ground up, purchasing equipment and hiring a full‑time crew as demand grew.
 
-The company fabricates custom iron products for residential settings, ranging from intricate fine-art pieces such as chandeliers, tables, and railings to large-scale custom installations. The four-person team handles welding, fabrication, CNC plasma cutting, and design work using AutoCAD, operating from a facility that has grown since its initial 200-square-foot space.
+The studio produces custom ironwork for residential clients, ranging from fine‑art pieces such as chandeliers, tables, and railings to large‑scale architectural installations. Core processes include welding, fabricating, CNC plasma cutting, and computer‑aided design using AutoCAD. A four‑person team handles projects from initial drawings through final assembly, working with iron, steel, and sheet metal in a shop equipped with a CNC plasma cutting machine.
 
-Iron Work Studio serves homeowners and residential designers seeking custom metalwork for interior and exterior applications. Examples from the company’s portfolio include chandeliers, tables, railings, and complex artistic building and design projects.
+Primary customers are homeowners, interior designers, and architects seeking bespoke metal elements for homes. The company’s portfolio highlights decorative and structural items for private residences, with an emphasis on artistic metalwork that blends function and aesthetics.
 
-The business was built on Link’s family welding heritage and his desire to move from union steamfitting to owning his own shop, emphasizing hands-on craftsmanship and direct project management from design through fabrication.
+Link’s family welding heritage and hands‑on management style are cited as the foundation of the studio’s approach. The firm stresses precision, attention to detail, and the ability to take a project from concept to completion without outsourcing.
 
 ## Known for
-- Family welding heritage (third-generation welder)
-- Owner-operated with hands-on shop floor involvement
-- In-house CNC plasma cutting and AutoCAD design
-- Small dedicated team of four craftsmen
-- Over 20 years in Owings, Maryland
+- Owner‑operated with third‑generation welding expertise
+- In‑house CNC plasma cutting and AutoCAD design
+- Small dedicated team managing projects from start to finish
+- Over 20 years serving the Maryland residential market
 
 ## Capabilities
 - Metal fabrication
+- Custom ironwork
 - Welding
+- Fabrication
 - CNC plasma cutting
-- Custom sheet metal fabrication
-- Structural steel fabrication
-- Artistic metalwork design
-- AutoCAD drafting
+- AutoCAD design
+- Sheet metal fabrication
+- Steel fabrication
+- Artistic metalwork
 
 ## Industries
 - Residential
 - Architectural metalwork
-- Custom furniture
+- Custom metal fabrication
 - Artistic metalwork
 
 ## Equipment
-- CNC plasma cutting machine
+- CNC Plasma Cutting Machine
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -564,17 +573,16 @@ The business was built on Link’s family welding heritage and his desire to mov
 
 <details><summary>Sources</summary>
 
-- Founded 1997 -> db
-- Headquarters Owings, Maryland -> db
+- Founded in 1997 -> db
+- Headquarters in Owings, Maryland -> db
 - Founder Rob Link, third-generation welder -> /about
-- Started with 200 sq ft warehouse in Severn, MD -> /about
-- Moved to Owings over 20 years ago -> /about
-- Team of four skilled employees -> /about
+- Team of four employees -> /about
 - Processes: welding, fabrication, CNC plasma cutting, AutoCAD design -> /about
-- Products: chandeliers, tables, railings, custom pieces -> /
-- Industries: residential/home, artistic building and design -> /
+- Products: custom iron products for home (chandeliers, tables, railings, large-scale pieces) -> / and /about
 - Equipment: CNC Plasma Cutting Machine -> /about
 - Materials: iron, steel, sheet metal -> /about
+- Industries: residential, architectural metalwork -> /
+- Owner-operated, over 20 years in Owings -> /about
 </details>
 
 ---
@@ -584,40 +592,43 @@ The business was built on Link’s family welding heritage and his desire to mov
 **Old description:** We’re looking for someone with a genuine interest and passion for custom fabrication and
 
 ## About
-Ironwood Mills was founded in 2016 in Phoenix, Arizona, by Scott Mills. After more than two decades as an independent contractor across various trades, Mills turned a lifelong passion for woodworking and a self-described "urban lumberjack" pursuit into a dedicated shop. The business began with a focus on rescuing discarded trees from the Phoenix area and transforming them into custom furniture and live-edge slabs.
+Ironwood Mills operates from Phoenix, Arizona, where founder Scott Mills established the company in 2016. After more than two decades as an independent contractor, Mills turned a lifelong fascination with wood—sparked by a tool kit at age six—into a business that rescues discarded trees from the Phoenix metro area and transforms them into custom furniture and live‑edge slabs. The “urban lumber” model began with Mills personally hunting for unique logs in the desert, a practice that now feeds a small team of woodworkers.
 
-The company produces handcrafted furniture, hardwood slabs, and dimensional lumber from locally sourced Arizona species such as mesquite, olive, and ash. Its 8,342 North 7th Street facility houses a Lucas Mill 10-30 capable of cutting logs up to five feet in diameter and 21 feet long, a Wood-Mizer bandsaw mill for smaller logs, a Wood Wizz surfacing machine that handles pieces up to 7 by 17 feet, and an iDRY vacuum kiln for controlled drying. Services include custom milling at $150 per hour (one-hour minimum), machine surfacing at $150 per hour, and vacuum kiln drying at $2 per board foot with a 1,000-board-foot minimum.
+The shop at 8342 N. 7th Street houses a Lucas Mill 10‑30 (cuts logs up to 5′ diameter, 21′ long), a hydraulic Wood‑Mizer bandsaw, a Wood Wizz surfacing machine (up to 7 × 17 feet), and an iDRY vacuum kiln. Services include custom furniture fabrication, milling ($150/hour, one‑hour minimum), machine surfacing ($150/hour), and kiln drying ($2/board foot, 1,000‑board‑foot minimum). The team—Mills, Kit Vander Jagt (20 years’ experience), and Michael Toret (10+ years, including theatrical scenery and welding)—produces one‑off pieces and small batches.
 
-Ironwood Mills serves three primary customer groups: designers and architects seeking unique material palettes for projects, woodworkers and makers who need milling, surfacing, or drying services for their own stock, and homeowners commissioning one-of-a-kind tables, bases, and specialty pieces. The shop also offers team-building workshops and sells surfaced slabs directly through its online store.
+Primary customers are interior designers, architects, professional woodworkers, and homeowners. Designers source slabs and collaborate on custom tables and specialty items; woodworkers bring material for surfacing and kiln drying; homeowners commission finished furniture. The company also hosts team‑building workshops.
 
-The founder’s background in diverse construction trades and a deep appreciation for desert ecology drive the company’s emphasis on urban lumber reclamation. Mills describes the work as a privilege to “take a forgotten & unwanted tree and bring it back to life,” a philosophy that extends to the shop’s policy of assessing each log individually and refusing to refinish existing furniture.
+Ironwood Mills differentiates itself through its urban‑lumber supply chain—turning neighborhood trees that would otherwise be chipped into furniture‑grade material—and through vacuum‑kiln drying that eliminates raised grain and reduces drying time. Mills describes the mission as a privilege: “to take a forgotten & unwanted tree and bring it back to life.”
 
 ## Known for
-- Urban lumber reclamation: rescuing discarded Phoenix-area trees for furniture and slabs
-- Lucas Mill 10-30 cuts logs up to 5' diameter and 21' length
-- iDRY vacuum kiln provides precise, uniform drying at lower temperatures
-- Wood Wizz surfaces slabs up to 7' x 17' without tear or burn marks
-- Custom furniture and live-edge slabs from 16+ Arizona hardwood species
+- Urban lumber supply chain: rescues discarded Phoenix-area trees
+- Lucas Mill 10‑30 cuts logs up to 5′ diameter and 21′ long
+- Wood Wizz surfacing machine handles slabs up to 7 × 17 feet
+- iDRY vacuum kiln dries lumber to precise moisture content
+- Custom furniture built by a team with 20+ years’ combined experience
 
 ## Capabilities
-- Custom furniture design and fabrication
-- Live-edge slab production
-- Log milling (Lucas Mill 10-30, up to 5' dia x 21' long)
-- Dimensional lumber milling (up to 10x10, Wood-Mizer bandsaw)
-- Machine surfacing (Wood Wizz, up to 7' x 17')
-- Vacuum kiln drying (iDRY, min 1000 BF)
-- Hardwood slab sales (online and in-person)
+- Custom furniture fabrication
+- Log milling (Lucas Mill 10‑30)
+- Bandsaw milling (Wood‑Mizer)
+- Machine surfacing (Wood Wizz)
+- Vacuum kiln drying (iDRY)
+- Live‑edge slab production
 - Table base fabrication
-- Team-building workshops
+- Urban lumber processing
+- Woodworking workshops
 
 ## Industries
-- Designers & Architects
-- Woodworkers
-- Homeowners
+- Furniture manufacturing
+- Interior design
+- Architecture
+- Woodworking
+- Residential construction
+- Home furnishings
 
 ## Equipment
-- Lucas Mill 10-30
-- Wood-Mizer bandsaw mill
+- Lucas Mill 10‑30
+- Wood‑Mizer bandsaw mill
 - Wood Wizz surfacing machine
 - iDRY vacuum kiln
 
@@ -628,21 +639,20 @@ The founder’s background in diverse construction trades and a deep appreciatio
 
 <details><summary>Sources</summary>
 
-- Founded 2016 -> db
-- Headquarters Phoenix, AZ -> db and /about page
-- Founder Scott Mills -> /about page
-- Team members Kit Vander Jagt and Michael Toret -> /about page
-- Services: custom furniture, urban lumber, milling, machine surfacing, kiln drying -> / and /services pages
-- Equipment: Lucas Mill 10-30, Wood-Mizer bandsaw, Wood Wizz, iDRY vacuum kiln -> /services page
-- Milling capacity: up to 5' diameter, 21' long; dimensional up to 10x10 -> /services page
-- Surfacing capacity: up to 7' x 17' -> /services page
-- Kiln drying: minimum 1000 board feet, $2/BF -> /services page
-- Milling rate: $150/hr, 1 hour minimum -> /services page
-- Surfacing rate: $150/hr -> /services page
-- Industries served: Designers & Architects, Woodworkers, Homeowners -> / and /about pages
-- Materials: 16 Arizona hardwood species listed -> / page
-- Business address: 8342 N 7th Street, Phoenix, AZ 85020 -> / page
-- Business hours: Mon-Fri 8am-4pm, Sat 8am-2pm -> / page
+- Founded in 2016 -> db
+- Headquarters in Phoenix, Arizona -> db
+- Founder Scott Mills -> /about
+- Scott Mills background: 20+ years independent contractor, tool kit at age 6 -> /about
+- Urban lumber model: rescues discarded trees from Phoenix area -> /, /about
+- Team members: Kit Vander Jagt (20 years woodworking), Michael Toret (10+ years, theatrical scenery, welding) -> /about
+- Facility at 8342 N 7th Street, Phoenix -> /
+- Equipment: Lucas Mill 10-30, Wood-Mizer bandsaw, Wood Wizz, iDRY vacuum kiln -> /services
+- Milling capacity: up to 5' diameter, 21' long; dimensional lumber up to 10x10 -> /services
+- Machine surfacing: up to 7' x 17', $150/hour -> /services
+- Kiln drying: iDRY vacuum kiln, minimum 1000 board feet, $2/board foot -> /services
+- Services: custom furniture, milling, surfacing, kiln drying, urban lumber, table bases, team building -> /services, /
+- Customer types: Designers & Architects, Woodworkers, Homeowners -> /, /services
+- Species worked: Acacia, Ash, Carob, Chinaberry, Cork Bark Oak, Elm, Eucalyptus, Ficus, Hickory, Indian Rosewood, Juniper, Mesquite, Olive, Pine, Silk Oak, Sycamore -> /
 </details>
 
 ---

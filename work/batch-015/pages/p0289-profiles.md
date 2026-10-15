@@ -3,33 +3,33 @@
 **Old description:** Thank you for trusting us with your ostomy supplies since 1985. We ship products directly to you and are in-network with most insurances. Call us or see our referral form below!
 
 ## About
-Arkansas Ostomy, Inc. has operated from Little Rock, Arkansas since its founding in 1985. The business is family‑owned and distinguishes itself as the only durable medical equipment supplier in the state owned and operated by a certified ostomy management specialist, a registered nurse who brings clinical expertise to product selection.
+Arkansas Ostomy, Inc. was founded in 1985 in Little Rock, Arkansas. The company is a family-owned business operated by an ostomy nurse who is also a certified Ostomy Management Specialist. It began as a durable medical equipment (DME) supplier focused on ostomy care and has continued for three generations.
 
-The company provides ostomy appliances, accessories, and related supplies directly to patients, handling insurance coordination and shipping. Over four decades it has served more than 30,000 clients, offering education and advocacy alongside product fulfillment. Operations are conducted from a single location in Little Rock, though facility size and staff numbers are not publicly disclosed.
+The firm distributes ostomy supplies directly to patients and works with most insurance networks. It provides not only products but also education, advocacy, and individualized support to help clients navigate life with an ostomy. Since its founding, the company has served over 30,000 clients.
 
-Its primary customers are individuals living with ostomies, as well as healthcare providers and insurance networks that refer patients for supply management. The company works across the home‑healthcare and durable medical equipment sectors, supporting patients through Medicare, Medicaid, and private insurance plans.
+Arkansas Ostomy serves the healthcare and home healthcare sectors, specifically patients requiring ostomy appliances and accessories. Its customers include individuals with ostomies, as well as healthcare providers who refer patients for supplies and guidance.
 
-The founder’s clinical background is cited as the core differentiator: the nurse‑owner’s firsthand experience guides personalized product recommendations and ongoing support.
+The company distinguishes itself as the only DME supplier in Arkansas owned and operated by an ostomy nurse, combining clinical expertise with a family-owned commitment to personal relationships.
 
 ## Known for
-- Only Arkansas DME supplier owned and operated by an ostomy nurse
+- Only DME supplier in Arkansas owned and operated by an ostomy nurse
+- Family-owned with three generations of experience
 - ACHC accredited
-- Family‑owned with three generations of experience
-- In‑network with most insurances
-- Direct shipping to patients
+- Over 30,000 clients served since 1985
+- In-network with most insurance plans
 
 ## Capabilities
-- Ostomy supply distribution
-- Patient education and counseling
-- Insurance verification and billing
-- Product selection guidance
-- Advocacy and support
+- Ostomy product distribution
+- Patient education and support
+- Insurance billing and verification
+- Direct-to-patient shipping
+- Referral processing
 
 ## Industries
-- Durable medical equipment
+- Healthcare
 - Home healthcare
+- Durable medical equipment
 - Ostomy care
-- Medical supplies
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -39,16 +39,17 @@ The founder’s clinical background is cited as the core differentiator: the nur
 
 <details><summary>Sources</summary>
 
-- Founded in 1985 -> /about-us
-- Headquartered in Little Rock, Arkansas -> /
+- Founded in 1985 -> db, /about-us
+- Headquarters in Little Rock, Arkansas -> db, /
 - Family-owned -> /
 - Owned and operated by an ostomy nurse -> /
-- ACHC accredited small business -> /about-us
+- ACHC accredited -> /about-us
+- Small business -> /about-us
 - Served over 30,000 clients -> /about-us
-- Provides ostomy supplies, education, and advocacy -> /about-us
-- In-network with most insurances -> /
-- Direct shipping to patients -> /
 - Three generations of quality ostomy care -> /about-us
+- Direct shipping to patients -> /
+- In-network with most insurances -> /
+- Provides education, advocacy, individualized support -> /about-us, /
 </details>
 
 ---
@@ -58,46 +59,52 @@ The founder’s clinical background is cited as the core differentiator: the nur
 **Old description:** flooring from locally produced hardwoods. Since 1945 we have turned red and white
 
 ## About
-Arkansas Products Company operates from Harrison, Arkansas. Founded in 1945 by Charles and several other local businessmen, the company remains a fourth-generation family-owned business.
+Arkansas Products Company was founded in 1945 in Harrison, Arkansas, by Charles and several other local businessmen. The company remains a fourth‑generation family‑owned operation, now managed by descendants of the original founders.
 
-The company manufactures plank flooring from locally sourced hardwoods including red oak, white oak, hickory, walnut, ash, cherry, and maple. Its product line also includes treads, risers, and mouldings, with detailed flooring and bundling specifications. Historically, the facility produced toys for Sears, farm machinery parts, and mouldings.
+The firm manufactures solid hardwood plank flooring, stair treads and risers, and wood mouldings from locally sourced species including red oak, white oak, hickory, walnut, ash, cherry, and maple. Operating from its Harrison facility, the company maintains inventory programs and custom bundling specifications for flooring orders. Finished products are shipped to customers across the United States.
 
-Arkansas Products ships its flooring nationwide across the United States, serving residential and commercial construction markets, as well as distributors and retailers in the wood flooring sector.
+Its primary market is the building‑materials and interior‑finishing sectors, serving distributors, contractors, and retailers who specify hardwood flooring and millwork. In earlier decades the plant also produced wooden toys for Sears and components for farm machinery, reflecting a diversified manufacturing heritage.
 
-From its inception, the company has purchased wood from local Arkansas sources, emphasizing regional material sourcing. Its longevity and family stewardship underscore a commitment to fine woodworking since 1945.
+The company emphasizes its long‑standing practice of purchasing timber from Arkansas forests, a commitment that has persisted since its inception and underpins its positioning as a domestic hardwood specialist.
 
 ## Known for
-- Fourth-generation family ownership
-- Hardwoods sourced locally from Arkansas
-- Nationwide shipping across the United States
+- Fourth‑generation family ownership
+- Hardwoods sourced from Arkansas forests
+- Ships flooring nationwide
+- Offers custom bundling and inventory programs
+- Historical experience in toy and farm‑machinery parts
 
 ## Capabilities
-- Plank flooring manufacturing
-- Hardwood milling
-- Moulding production
-- Tread and riser fabrication
-- Bundling and packaging
+- Hardwood plank flooring manufacturing
+- Stair tread and riser production
+- Wood moulding production
+- Custom bundling and packaging
+- Inventory management programs
 
 ## Industries
 - Flooring
+- Building materials
+- Millwork
+- Toy manufacturing (historical)
+- Farm machinery components (historical)
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1945
-- **Ownership:** Family-owned (fourth generation)
+- **Ownership:** Family-owned
 - **Headquarters:** Harrison, Arkansas
 
 <details><summary>Sources</summary>
 
 - Founded 1945 -> db
 - Headquarters Harrison, Arkansas -> db
-- Fourth-generation family business -> /
-- Makes plank flooring from locally produced hardwoods -> /
-- Species: red oak, white oak, hickory, walnut, ash, cherry, maple -> /
-- Ships throughout United States -> /
-- Historically made toys for Sears, farm machinery parts, mouldings -> products array
-- Purchases wood from local sources -> products array
-- Offers treads/risers, mouldings, flooring specs, bundling specs -> /
+- 4th generation family business -> page '/'
+- Makes plank flooring from local hardwoods -> page '/'
+- Species: red oak, white oak, hickory, walnut, ash, cherry, maple -> page '/'
+- Ships throughout United States -> page '/'
+- Historically made toys for Sears, farm machinery parts, mouldings -> products array (db)
+- Local wood sourcing from beginning -> products array (db)
+- Custom bundling and inventory programs -> page '/'
 </details>
 
 ---
@@ -107,33 +114,33 @@ From its inception, the company has purchased wood from local Arkansas sources, 
 **Old description:** As a specialty foods producer, you'd rather focus on making great products than managing your supply chain.
 
 ## About
-Arlowe Specialty Foods Co. operates from Dayton, Ohio, where it was founded in 1986. The company was formed to give smaller specialty food vendors a pathway into retailers' warehouse systems, consolidating their products into full truckload shipments that would otherwise be uneconomical for individual suppliers.
+Arlowe Specialty Foods Co. was founded in 1986 in Dayton, Ohio. The company was formed to give smaller specialty food vendors a pathway into retailer warehouse systems, consolidating their products with those of other suppliers to achieve economies of scale.
 
-As a distributor and consolidator, Arlowe purchases products from specialty food manufacturers, combines them with goods from other vendors, and ships consolidated loads to retail distribution centers. The company manages hundreds of SKUs nationwide and maintains a distribution infrastructure that reaches major grocery chains, including Kroger and its affiliates.
+Today Arlowe operates as a distributor and consolidator, purchasing specialty food items from multiple manufacturers, combining them into full truckloads, and delivering them to retail distribution centers nationwide. The company handles hundreds of SKUs and manages the entire supply chain from order consolidation to final delivery.
 
-Arlowe serves specialty food producers that lack sufficient volume to justify direct shipments to retailers, as well as grocery retailers seeking efficient inbound logistics. Its customer base includes brands aiming to place products on shelves at Kroger and other national grocery chains.
+Its customer base consists of specialty food brands that lack the volume to justify dedicated shipments to major grocery chains. Arlowe’s established infrastructure provides direct access to Kroger and its affiliate banners, as well as other grocery retailers across the country.
 
-The company emphasizes that its consolidation model reduces shipping and distribution costs for all participating vendors through economies of scale, while providing a single point of contact for supply chain management.
+The firm emphasizes a single point of contact for logistics, eliminating the need for vendors to coordinate multiple carriers or track shipments themselves. By bundling orders, Arlowe reduces per-unit distribution costs and allows producers to focus on product development rather than freight management.
 
 ## Known for
-- Consolidates multiple vendors into single shipments to retailers
-- Direct distribution infrastructure into Kroger and affiliates
-- Single point of contact for supply chain management
-- Reduces distribution costs through bundled shipping
-- Handles hundreds of SKUs nationwide
+- Consolidates multiple vendors into single shipments
+- Direct distribution into Kroger and affiliate banners
+- Single point of contact for all logistics
+- Reduces distribution costs through bundled freight
+- Nationwide delivery of hundreds of SKUs
 
 ## Capabilities
-- Product consolidation
-- Distribution to retail warehouses
+- Specialty food distribution
+- Vendor consolidation
 - Supply chain management
-- Purchasing from vendors
-- Bundled shipping
-- SKU management
+- Retail warehouse delivery
+- Kroger and affiliate distribution
+- Nationwide freight management
 
 ## Industries
-- Specialty food manufacturing
+- Specialty foods
+- Food and beverage manufacturing
 - Grocery retail
-- Food distribution
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -142,15 +149,20 @@ The company emphasizes that its consolidation model reduces shipping and distrib
 
 <details><summary>Sources</summary>
 
-- Founded in 1986 -> /about
-- Headquarters in Dayton, Ohio -> db
-- Distributor and consolidator for specialty food manufacturers -> /about
-- Consolidates products from multiple vendors into one shipment -> /
-- Ships to Kroger and affiliates -> /services
-- Handles hundreds of SKUs nationwide -> /about
-- Single point of contact for supply chain -> /services
-- Reduces distribution costs through bundling -> /services
-- Formed to allow smaller vendors into retailer warehouse systems -> /about
+- Founded 1986 -> db, /about
+- Headquarters Dayton, Ohio -> db
+- Distributor and consolidator -> /
+- Consolidates multiple vendors into one shipment -> /
+- Works with Kroger and affiliates -> /services
+- Hundreds of SKUs nationwide -> /about
+- Single point of contact -> /services
+- Lower distribution costs through bundling -> /services
+- Formed to allow smaller vendors access to retailer warehouses -> /about
+- Nationwide delivery -> /about
+- Purchases products from vendors -> /
+- Combines shipments -> /
+- Ships to retailer/distributor -> /
+- Product reaches grocer shelves -> /
 </details>
 
 ---
@@ -160,43 +172,42 @@ The company emphasizes that its consolidation model reduces shipping and distrib
 **Old description:** Art & Craft Ironworks is renowned for creating exquisite steel and iron gates, railings, and more. Established in 1975, we are a family-owned business committed to exceptional craftsmanship.
 
 ## About
-Art & Craft Ironworks was established in 1975 in Honolulu, Hawaii, as a family-owned business dedicated to custom metal fabrication. The company operates from its workshop on Pumehana Street, where it has served the local market for nearly five decades.
+Art & Craft Ironworks has operated from Honolulu, Hawaii since 1975. The family-owned business was established as a metal fabrication shop specializing in ornamental ironwork, building a reputation for hand-forged and welded pieces over nearly five decades.
 
-The shop specializes in custom steel and iron entrance gates, railings, handrails, and window guards, along with welding repair services. All work is fabricated to order, with an emphasis on matching each client’s design specifications. No facility size, headcount, or annual volume figures are disclosed.
+The company fabricates custom steel and iron entrance gates, railings, handrails, and window guards, and also provides welding repair services. Projects are built to order in their Honolulu facility; no facility size or headcount figures are published.
 
-The company serves residential and commercial property owners seeking architectural metalwork, though the website does not name specific industry sectors or customer accounts. Testimonials reference railing projects and design collaborations, indicating a project-based clientele.
+The shop serves residential and commercial clients, including homeowners and contractors, who require custom architectural metalwork such as entry gates and stair railings. Testimonials on the company's site reference completed railing projects for private residences.
 
-The firm cites its family ownership and decades of experience as the foundation of its craftsmanship, aiming to deliver pieces that align with the client’s vision. No formal certifications, equipment lists, or tolerance standards are published.
+The firm emphasizes its decades of experience and a personal, design-focused approach, stating that each piece is crafted to align with the client's vision.
 
 ## Known for
-- Family-owned and operated since 1975
-- Custom fabrication of steel and iron gates, railings, and handrails
+- Family-owned since 1975
+- Custom design and fabrication of gates, railings, and handrails
 - Window guard fabrication and welding repair services
-- Project-based approach tailored to client designs
+- Decades of experience in ornamental ironwork
 
 ## Capabilities
-- Custom steel and iron fabrication
-- Gate fabrication
+- Custom gate fabrication
 - Railing and handrail fabrication
 - Window guard fabrication
 - Welding repair
+- Metal fabrication
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Founded:** 1975
 - **Ownership:** Family-owned
 - **Headquarters:** Honolulu, Hawaii
 
 <details><summary>Sources</summary>
 
-- Founded 1975 -> db
-- Family-owned -> /
-- Headquarters Honolulu, Hawaii -> db
-- Address 932 PUMEHANA ST, Honolulu, HI -> /
-- Services: custom steel/iron gates, railings, handrails, window guards, welding repair -> /
-- Phone 808-955-6036 -> /
-- Email info@artandcraftiron.biz -> /
-- Social media icons (Twitter, LinkedIn, Pinterest, Instagram) -> /
+- Founded in 1975 -> db
+- Family-owned business -> /
+- Headquartered in Honolulu, Hawaii -> db
+- Produces custom steel and iron gates, railings, handrails, window guards -> /
+- Offers welding repair services -> /
+- Address: 932 PUMEHANA ST, Honolulu, HI -> /
+- Contact phone: 808-955-6036, email: info@artandcraftiron.biz -> /
 </details>
 
 ---
@@ -206,27 +217,31 @@ The firm cites its family ownership and decades of experience as the foundation 
 **Old description:** We believe the best learning spaces begin by seeing the classroom through the eyes of the students and educators who use it every day. Since 1965, we’ve been passionate about creating high-value school furniture built to support teachers and students now and into the future. Our products are designed to stand the test of time, holding up to the real-life demands of everyday classroom activity.
 
 ## About
-Artco-Bell Corporation, headquartered in Temple, Texas, has been producing school furniture since 1965. The company focuses exclusively on K‑12 learning environments, designing and manufacturing seating, desks, tables, soft seating, teacher stations, and storage solutions.
+Artco-Bell Corporation has operated from Temple, Texas since its founding in 1965. The company began with a focus on creating high-value school furniture built to support teachers and students, designing products around the real-life demands of everyday classroom activity.
 
-Its product portfolio includes the WithinReach modular storage system, the PeacePod and BookNook sensory furniture lines, and the NXT MOV teacher podium. All items are built in the United States and backed by a 12‑year warranty. The company does not disclose facility size, headcount, or annual volume in its public materials.
+The manufacturer produces a range of K-12 furniture including seating, student desks, soft seating, tables, teacher stations, and storage solutions. Recent product lines include the WithinReach modular storage system, PeacePod and BookNook sensory furniture, and the NXT MOV teacher podium. All products are made in the United States and backed by a 12-year warranty.
 
-Artco-Bell serves public and private school districts, architects, and dealers across the K‑12 market. Its “Through Their Eyes” design philosophy was developed in collaboration with Virginia Tech and is highlighted in case studies such as the Shared Learning Space Design Challenge. The firm also publishes educator‑focused blogs and virtual classroom tools.
+Artco-Bell serves the K-12 education market exclusively, supplying public and private schools, districts, and educational institutions. Its furniture is designed for classrooms, collaborative learning spaces, sensory rooms, and teacher workstations, with products specified by educators and facility planners.
 
-The company states that its differentiation rests on a single‑market focus, domestic manufacturing, a 12‑year warranty, competitive pricing, and dedicated support. The “Through Their Eyes” approach places student and teacher experience at the center of every product decision.
+The company states its differentiation lies in a singular focus on K-12 environments — "It's all we do" — combined with domestic manufacturing, a 12-year warranty, competitive pricing, and dedicated support. Product development starts from the perspective of students and educators, aiming to create learning environments where every learner can thrive.
 
 ## Known for
 - Made in the USA
 - 12-year warranty on all products
-- Exclusive focus on K‑12 education
-- Through Their Eyes student‑centered design process
-- Competitive pricing with dedicated support
+- Exclusive focus on K-12 education furniture
+- Competitive pricing
+- Dedicated customer support
 
 ## Capabilities
-- Classroom furniture design and manufacturing
+- Seating manufacturing
+- Student desk manufacturing
+- Soft seating manufacturing
+- Table manufacturing
+- Teacher station manufacturing
+- Storage furniture manufacturing
 - Modular storage systems
 - Sensory furniture design
-- Teacher podium and station manufacturing
-- Student seating and desk production
+- Teacher podium production
 
 ## Industries
 - K-12 education
@@ -240,17 +255,17 @@ The company states that its differentiation rests on a single‑market focus, do
 
 <details><summary>Sources</summary>
 
-- Founded in 1965 -> db
-- Headquartered in Temple, Texas -> db
-- Manufactures school furniture (seating, desks, tables, soft seating, teacher stations, storage) -> /
-- Product lines: WithinReach Modular Storage, PeacePod, BookNook, NXT MOV Teacher Podium, NXT MOV -> /
-- Serves K-12 education market exclusively -> /
-- Made in the USA -> /
-- 12-year warranty -> /
-- Competitive pricing -> /
-- Dedicated support -> /
-- Through Their Eyes design philosophy -> /
-- Collaboration with Virginia Tech on Shared Learning Space Design Challenge -> /
+- Founded 1965 -> /
+- Headquarters Temple, Texas -> /
+- Address 1302 Industrial Blvd, Temple, Texas 76504 -> /
+- Products: seating, student desks, soft seating, tables, teacher stations, storage -> /
+- Specific products: WithinReach Modular Storage, PeacePod, BookNook, NXT MOV Teacher Podium -> /
+- Made in USA claim -> /
+- 12-year warranty claim -> /
+- Exclusive K-12 focus claim -> /
+- Competitive pricing claim -> /
+- Dedicated support claim -> /
+- Design philosophy: through the eyes of students and educators -> /
 </details>
 
 ---
@@ -260,69 +275,63 @@ The company states that its differentiation rests on a single‑market focus, do
 **Old description:** OCALA, FL – Artemis Plastics, a contract manufacturer of medical and...
 
 ## About
-Artemis Plastics operates from Ocala, Florida, where it was established in 2014 after Apollo Renal Therapeutics acquired an existing plastic injection molding plant. The acquisition created a dedicated contract manufacturing entity focused on injection-molded components.
+Artemis Plastics operates from Ocala, Florida, where it was established in 2014 after Apollo Renal Therapeutics acquired an existing plastic injection molding plant. The business runs as a contract manufacturer focused on injection-molded plastic components and is led by CEO Gary Mishkin.
 
-The company provides end-to-end injection molding services, including product engineering, 3D-printed prototyping, secondary operations, assembly, and in-house tooling maintenance. Its facility houses a Class 8 clean room and a recently added 197-ton press, and the team works with more than 50 thermoplastic formulations to produce parts for medical, industrial, and consumer applications.
+The company provides a full product-lifecycle service that includes design and engineering, 3D-printed prototyping, injection molding, secondary operations, assembly, and in-house tooling. Its facility houses a Class 8 clean room and recently added a 197-ton injection molding press, complementing a press range that processes more than 50 different plastic resins.
 
-Artemis serves medical device manufacturers, industrial equipment makers, and consumer product brands. Notable customers include ClosetMaid Corporation and Vetrun, and the company works with both start-ups and established OEMs on projects that range from early prototyping through validated production runs.
+Artemis serves medical-device, industrial-equipment, and consumer-product markets. Customers referenced in its own materials include ClosetMaid Corporation and Vetrun, and the company highlights its ability to support start-ups through established brands with PPAP, molding, packaging, and sterilization validations.
 
-Founded to leverage synergies for innovative medical solutions, Artemis emphasizes a one-stop-shop model that spans design, validation (PPAP, molding, packaging, and sterilization validations), and final assembly. Leadership cites its quality culture — backed by ISO 9001:2015, ISO 13485:2016, and FDA 21 CFR 820 registration — as the primary differentiator, resulting in high repeat business and referral rates.
+Artemis states that its differentiators are a quality system built on ISO 9001:2015 and ISO 13485:2016, FDA registration under 21 CFR 820 (QSR/cGMP), and a culture of collaboration that drives high repeat-customer rates and word-of-mouth referrals.
 
 ## Known for
-- One-stop shop from design through validated production and assembly
+- ISO 9001:2015 and ISO 13485:2016 certified
+- FDA registered, compliant with 21 CFR 820 (QSR/cGMP)
+- Class 8 clean room on site
 - In-house tooling room for mold creation and maintenance
-- Class 8 clean room for medical device molding
-- FDA 21 CFR 820 registered and ISO 9001:2015 / ISO 13485:2016 certified
-- Experience with 50+ thermoplastic materials
+- 3D printing for pre-production prototyping
 
 ## Capabilities
-- Injection Molding
-- Engineering Design
-- Prototyping (3D Printing)
-- Secondary Operations
+- Injection molding
+- Engineering and design support
+- 3D printing prototyping
+- Secondary operations (pre- and post-molding)
 - Assembly
-- In-House Tooling
-- Mold Validation
-- PPAP (Production Part Approval Process)
-- Packaging Validation
-- Sterilization Validation
+- In-house tooling
+- PPAP support
+- Molding validation
+- Packaging validation
+- Sterilization validation
 
 ## Industries
-- Medical Devices
-- Industrial Equipment
-- Consumer Products
+- Medical devices
+- Industrial equipment
+- Consumer products
 
 ## Equipment
 - 197-ton injection molding press
+- Class 8 clean room
 
 ## Certifications
 - ISO 9001:2015
 - ISO 13485:2016
-- FDA 21 CFR 820 (QSR)
-- cGMP
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
 - **Founded:** 2014
-- **Ownership:** Apollo Renal Therapeutics
 - **Headquarters:** Ocala, Florida
 
 <details><summary>Sources</summary>
 
-- Founded in 2014 via Apollo Renal Therapeutics acquisition of an existing injection molding plant -> /about-us
-- Headquarters in Ocala, Florida -> db
-- ISO 9001:2015 and ISO 13485:2016 certifications -> /quality
-- FDA 21 CFR 820 registration and cGMP compliance -> /quality
-- Class 8 clean room facility -> /quality
-- Services: injection molding, engineering, prototyping, secondary operations, assembly, in-house tooling -> /services
-- Works with 50+ plastic materials -> /
-- Added 197-ton injection molding press -> /
-- Serves medical device, industrial equipment, and consumer product industries -> /about-us
-- Customers include ClosetMaid Corporation and Vetrun -> /
-- One-stop shop from design to production to assembly -> /
-- In-house tooling room for mold creation and maintenance -> /
-- Core values: Quality, Innovation, Collaboration, Trust -> /about-us
-- Mission to leverage synergies for innovative medical solutions -> /about-us
+- Founded 2014 via Apollo Renal Therapeutics acquisition -> /about-us
+- Headquarters Ocala, FL -> db, /about-us
+- CEO Gary Mishkin -> /, /quality
+- ISO 9001:2015, ISO 13485:2016 -> db, /about-us, /quality
+- FDA registered, 21 CFR 820, Class 8 clean room -> /quality
+- Services: injection molding, engineering, prototyping, secondary ops, assembly, in-house tooling -> /, /services
+- Industries: medical, industrial, consumer -> /about-us
+- 50+ plastic types -> /
+- 197-ton press added -> /
+- Testimonials: ClosetMaid Corporation, Vetrun -> /
 </details>
 
 ---
@@ -332,33 +341,33 @@ Founded to leverage synergies for innovative medical solutions, Artemis emphasiz
 **Old description:** Alon Medical Technology, LLC proudly distributes Arthrex orthopedic and orthobiologic products to surgeons throughout Louisiana and Mississippi. We offer unparalleled customer service and educational opportunities via our state-of-the-art training labs, expansive video library, and customized educational events.
 
 ## About
-Arthrex New Orleans, based in Metairie, Louisiana, operates as a distributor of Arthrex orthopedic and orthobiologic products. The business, organized as Arthrex New Orleans, LLC, serves surgeons across Louisiana and Mississippi.
+Arthrex New Orleans, LLC operates from Metairie, Louisiana, serving surgeons across Louisiana and Mississippi. The company was established as a dedicated distributor of Arthrex orthopedic and orthobiologic products, though its founding year and ownership structure are not publicly disclosed.
 
-The company supplies a range of orthopedic implants, instruments, and biologics, and complements distribution with state‑of‑the‑art surgical training labs, an expansive video library, and customized educational events. Its sales representatives complete hundreds of hours of training and proficiency examinations to become Arthrex Technology Consultants, providing real‑time feedback that informs future product development.
+The firm distributes a full line of Arthrex implants, instruments, and biologics for sports medicine, arthroplasty, and distal extremities procedures. Beyond product fulfillment, it runs state‑of‑the‑art surgical training labs, maintains an expansive video library, and hosts customized educational events for physicians. Its sales representatives complete hundreds of hours of training and proficiency examinations to become Arthrex Technology Consultants, and a real‑time feedback channel connects field insights directly to Arthrex product development.
 
-Customers include orthopedic surgeons specializing in sports medicine, arthroplasty, and distal extremities procedures. The distributor focuses exclusively on the Louisiana and Mississippi markets, offering direct communication channels for product selection and surgical support.
+Customers are orthopedic surgeons and surgical teams in Louisiana and Mississippi, with a focus on sports medicine, joint replacement, and foot‑and‑ankle specialties. The distributor also recruits sales representatives for those same clinical areas.
 
-Founded on values of accountability, integrity, innovation, passion, and teamwork, Arthrex New Orleans positions itself as a Arthrex distribution partner by emphasizing education and innovation as core differentiators.
+Arthrex New Orleans emphasizes a values‑based culture built on communication, innovation, and education. It positions its combination of product access, hands‑on training facilities, and direct manufacturer feedback as a differentiator for surgeons seeking to improve patient outcomes.
 
 ## Known for
 - State-of-the-art surgical training labs
-- Expansive video library for surgeon education
-- Customized educational events and continuing medical education
-- Sales representatives complete hundreds of hours of training before becoming Technology Consultants
-- Real-time feedback mechanism linking surgeons to Arthrex product development
+- Expansive video library and customized educational events
+- Sales team completes hundreds of hours of training to become Arthrex Technology Consultants
+- Real-time feedback mechanism linking field insights to Arthrex product development
 
 ## Capabilities
-- Medical device distribution
-- Surgical skills training lab operation
-- Continuing medical education programs
-- Product consulting and technology consulting
+- Orthopedic product distribution
+- Surgical training lab operation
+- Medical education and event management
+- Technical consulting for surgeons
+- Product feedback loop management
 
 ## Industries
 - Orthopedic surgery
 - Sports medicine
 - Arthroplasty
-- Distal extremities
-- Medical devices
+- Distal extremities surgery
+- Medical device distribution
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -366,13 +375,11 @@ Founded on values of accountability, integrity, innovation, passion, and teamwor
 
 <details><summary>Sources</summary>
 
-- Distributes Arthrex orthopedic and orthobiologic products -> /
-- Serves surgeons in Louisiana and Mississippi -> /
-- Offers state-of-the-art training labs, video library, customized educational events -> /
-- Sales representatives undergo hundreds of hours training -> /about
+- Distributes Arthrex orthopedic and orthobiologic products -> /about
+- State-of-the-art training labs and video library -> /
+- Hundreds of hours training for sales team -> /about
 - Real-time feedback mechanism for product development -> /about
-- Headquartered in Metairie, Louisiana -> db
-- Entity: Arthrex New Orleans, LLC and Alon Medical Technology, LLC -> /about
+- Headquarters in Metairie, Louisiana -> db
 </details>
 
 ---
@@ -382,30 +389,29 @@ Founded on values of accountability, integrity, innovation, passion, and teamwor
 **Old description:** The Artisan Chef Manufacturing Company is a multifaceted manufacturer of scratch-made Artisan Breads, Fresh Pastas, gourmet Sauces, authentic Neapolitan style pizza, Calzones, and restaurant-quality prepared meals.
 
 ## About
-Artisan Chef Manufacturing Co. operates production facilities in Lawrence, Massachusetts, and Salem, New Hampshire. The company was founded by Joe Faro, a serial food entrepreneur and Boston restaurateur, though the founding year is not publicly disclosed.
+Artisan Chef Manufacturing Co. operates from Lawrence, Massachusetts, with an additional production facility in Salem, New Hampshire. The company was founded by Joe Faro, a serial food entrepreneur and celebrated Boston restaurateur, though the exact founding year is not publicly disclosed.
 
-The company manufactures a range of scratch-made products including artisan breads, fresh pastas, gourmet sauces, authentic Neapolitan-style pizza, calzones, and restaurant-quality prepared meals. Its facilities employ what it describes as innovative and unique production technology to deliver artisan handmade style products at scale, with diverse packaging sizes and styles.
+The company manufactures a range of scratch-made products including artisan breads, fresh pastas, gourmet sauces, authentic Neapolitan-style pizza, calzones, and restaurant-quality prepared meals. It emphasizes artisan handmade-style production at scale, leveraging what it describes as innovative and unique production technology. Facilities offer diverse product capabilities and a variety of packaging sizes and styles to meet different customer requirements.
 
-Artisan Chef serves the food and supermarket industries, supplying retail, wholesale club, and foodservice sectors. Its culinary team offers custom product development tailored to customer needs across those channels.
+Artisan Chef serves the food and supermarket industries, supplying retail, wholesale club, and foodservice sectors. Its culinary team provides custom product development tailored to the needs of customers across those channels.
 
-The company positions itself as a leader in scaling artisan handmade quality through proprietary production technology, emphasizing scratch-made innovation that differentiates its clients’ offerings.
+The company positions itself as a leader in delivering artisan-quality products at commercial volumes, citing its proprietary production technology and in-house culinary expertise as key differentiators that allow it to create products that set clients apart from competitors.
 
 ## Known for
-- Artisan handmade style products produced at scale
-- Innovative and unique production technology
-- Custom product development by culinary team
-- Scratch-made, innovative artisan products
+- Artisan handmade-style products at commercial scale
+- Proprietary innovative production technology
+- In-house culinary team for custom product development
 - Diverse packaging sizes and styles
 
 ## Capabilities
 - Artisan bread manufacturing
-- Fresh pasta manufacturing
+- Fresh pasta production
 - Gourmet sauce manufacturing
-- Neapolitan pizza manufacturing
-- Calzone manufacturing
+- Neapolitan-style pizza production
+- Calzone production
 - Prepared meal manufacturing
 - Custom product development
-- Packaging solutions
+- Multi-style packaging
 
 ## Industries
 - Food manufacturing
@@ -422,13 +428,14 @@ The company positions itself as a leader in scaling artisan handmade quality thr
 
 - Company name and description -> db
 - Headquarters city and state -> db
-- Founder Joe Faro -> /about-us
-- Locations Lawrence MA and Salem NH -> /about-us
-- Product lines: artisan breads, fresh pastas, gourmet sauces, Neapolitan pizza, calzones, prepared meals -> /about-us
-- Industries served: food, supermarket, retail, wholesale club, foodservice -> /about-us
-- Custom product development -> /about-us
-- Innovative production technology claim -> /about-us
-- Scratch-made artisan positioning -> /about-us
+- Founder Joe Faro, serial food entrepreneur and Boston restaurateur -> /about-us
+- Locations: Lawrence, MA and Salem, NH -> /about-us
+- Product list: artisan breads, fresh pastas, gourmet sauces, Neapolitan pizza, calzones, prepared meals -> /about-us
+- Innovative production technology for artisan style at scale -> /about-us
+- Diverse product capabilities and packaging sizes/styles -> /about-us
+- Industries served: food and supermarket industries, retail, wholesale club, foodservice -> /about-us
+- Custom product development by culinary team -> /about-us
+- Leadership claim in artisan handmade-style products at scale -> /about-us
 </details>
 
 ---
@@ -438,37 +445,38 @@ The company positions itself as a leader in scaling artisan handmade quality thr
 **Old description:** Custom cabinetry crafted by hand – designed to last, and made to feel unmistakably yours.
 
 ## About
-Artisan Woodworks was founded in 1996 in Salt Lake City, Utah, as a family-owned custom cabinetry shop. The company has remained under family ownership since its inception, serving residential and commercial clients across the state.
+Artisan Woodworks is a family-owned custom cabinetry and architectural woodwork shop based in Salt Lake City, Utah, founded in 1996. The company has served Utah homes and businesses for over two decades.
 
-The shop produces custom cabinetry, architectural woodwork, built-ins, and commercial casework entirely in-house. A team of craftsmen with an average tenure of 14 years at the company and 17 years of industry experience handles every project from design through installation, using CAD drawings, onsite measurements, and shop fabrication.
+The shop produces custom cabinetry, built-ins, and commercial casework entirely in-house. Its craftsmen average 14 years with the company and 17 years of industry experience. Projects move through a four-step process: introduction, design with CAD drawings and material specifications, in-house fabrication, and coordinated installation.
 
-Artisan serves homeowners, remodelers, multi-family developers, and commercial contractors. Recent projects include kitchen and bath cabinetry for a full home remodel (Hiawatha Remodel), kitchen and dining cabinetry for a condo development (Vine Street Condos), and custom commercial casework for a medical clinic (Woodrow Clinic).
+Artisan serves both residential and commercial clients across Utah. Residential projects include full-home remodels such as the Hiawatha kitchen and bath cabinetry and the Vine Street Condos kitchen and dining cabinetry. Commercial work includes custom casework for the Woodrow Clinic medical facility.
 
-The company emphasizes a practical, four-step process — introduction, design, build, and install — with steady communication and a warranty covering cabinet boxes, doors, drawer fronts, and shop-applied finishes. This approach reflects its founding goal of delivering durable, fully custom woodwork backed by shop knowledge and consistent service.
+Artisan differentiates itself through fully custom, in-house fabrication by a tenured team, a defined four-step process that locks in specifications before building, and a warranty covering cabinet boxes, doors, drawer fronts, and shop-applied finishes.
 
 ## Known for
-- Fully custom cabinetry and woodwork designed per project
-- All fabrication and assembly performed in-house by experienced craftsmen
-- Team averages 14 years tenure at Artisan and 17 years industry experience
-- Four-step process: introduction, design, build, install with confirmed specs before production
-- Warranty covers cabinet boxes, doors, drawer fronts, and shop-applied finishes
+- Family-owned in Salt Lake City since 1996
+- All projects custom made in-house by experienced craftsmen
+- Craftsmen average 14 years with Artisan and 17 years industry experience
+- Four-step process: introduction, design, build, install
+- Warranty on cabinet boxes, doors, drawer fronts, and shop-applied finishes
 
 ## Capabilities
 - Custom cabinetry
 - Architectural woodwork
 - Built-ins
 - Commercial casework
-- CAD design and detailing
-- Onsite measurement and verification
-- In-house fabrication and assembly
+- CAD design and drawings
+- Material specification and selection
+- Appliance specification coordination
+- Onsite measurement verification
+- In-house fabrication
 - Installation and final walkthrough
-- Warranty repair and replacement
+- Warranty and repair service
 
 ## Industries
-- Residential remodeling
-- Multi-family housing
-- Healthcare facilities
-- Commercial construction
+- Residential
+- Commercial
+- Healthcare
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -478,16 +486,17 @@ The company emphasizes a practical, four-step process — introduction, design, 
 
 <details><summary>Sources</summary>
 
-- Founded 1996 in Salt Lake City, Utah -> db
+- Founded 1996 -> db
 - Family-owned -> /about
-- Custom cabinetry, architectural woodwork, built-ins, commercial casework -> /about
-- In-house fabrication by experienced craftsmen -> /about, /
-- Average team tenure 14 years, average craftsman experience 17 years -> /about, /
-- Four-step process: introduction, design, build, install -> /
-- Warranty covers cabinet boxes, doors, drawer fronts, shop-applied finishes -> /
-- Projects: Hiawatha Remodel, Vine Street Condos, Woodrow Clinic -> /
-- Serves residential and commercial clients -> /about
-- Responds within 3 business days -> /
+- Headquarters Salt Lake City, Utah -> db
+- Custom cabinetry, built-ins, commercial casework -> /about
+- In-house fabrication by craftsmen -> /about
+- Craftsmen average 14 years with company, 17 years industry experience -> /about and /
+- Four-step process (introduction, design, build, install) -> /
+- Residential projects: Hiawatha Remodel, Vine Street Condos -> /
+- Commercial project: Woodrow Clinic medical clinic -> /
+- Warranty coverage on cabinet boxes, doors, drawer fronts, shop-applied finishes -> /
+- Serves Utah homes and businesses -> /about
 </details>
 
 ---
@@ -497,55 +506,40 @@ The company emphasizes a practical, four-step process — introduction, design, 
 **Old description:** Solutions Fabricating is dedicated to providing exceptional fabricating services to various industries. Our team of skilled fabricators combined with our extensive experience insure that every piece is made to your specification. We are conveniently located in Glen Burnie, Maryland.
 
 ## About
-Solutions Fabricating Inc., a family-owned metal fabrication shop, operates from Glen Burnie, Maryland. The business traces its roots to 1996 when it was founded as Arundel Metal Products, initially producing custom sheet metal components for the mechanical HVAC industry. Over the years, the company expanded its capabilities and rebranded to Solutions Fabricating Inc. to reflect a broader manufacturing scope.
+Solutions Fabricating Inc., a family-owned metal fabrication company, operates from Glen Burnie, Maryland. The business traces its roots to 1996 when it was founded as Arundel Metal Products, initially producing custom sheet metal components for the mechanical HVAC industry. Over time, the company expanded its capabilities and rebranded to Solutions Fabricating Inc.
 
-Today the shop functions as both a job shop and an original equipment manufacturer, delivering custom fabricated parts and assemblies. Core processes include CNC plasma and waterjet cutting, CNC bending and folding, light machining (milling and turning), braking, rolling, shearing, saw cutting, punching, notching, and welding of aluminum, steel, and stainless steel. The product line centers on roof curbs, unit curb adapters, equipment rails, fan curb adapters, grease ducts, and custom HVAC curbs, with CAD modeling support for design translation. No facility size or headcount figures are published.
+Today the shop functions as both a job shop and an OEM, offering a range of metal fabrication processes including CNC bending, folding, light machining (milling and turning), plasma cutting, waterjet cutting, braking, rolling, shearing, saw cutting, punching, notching, and welding of aluminum, steel, and stainless steel. It also provides CAD modeling support. The company manufactures a line of standard products such as roof curbs, unit curb adapters, fan curbs, equipment rails, pipe portal curbs, and grease ducts, while also serving as a contract manufacturer for long‑term projects.
 
-The customer base spans commercial construction, green energy (including daylighting and solar electric products), government projects, and the original HVAC sector. The company emphasizes its ability to serve clients who may be unfamiliar with fabrication, offering guidance from concept through production.
+The customer base spans mechanical HVAC, commercial construction, green energy (including daylighting and solar electric products), and government projects. The shop works with clients who need custom components as well as those seeking catalog items.
 
-Leadership cites a family-oriented culture as a key differentiator, stating that they treat customers like family and prioritize honesty and integrity. They also highlight on-time delivery at competitive prices and a willingness to work within a client’s time and budget constraints.
+The firm emphasizes a family‑oriented approach, stating that it treats clients like family and prioritizes honesty and integrity, especially for customers unfamiliar with fabrication. It also highlights on‑schedule delivery at competitive prices as a core differentiator.
 
 ## Known for
-- Family-owned and operated
-- Treat customers like family with honesty and integrity
+- Family-owned operation that treats clients like family
+- Honesty and integrity focus for clients new to fabrication
 - On-time delivery at competitive prices
-- Custom fabrication for HVAC, construction, green energy, and government sectors
-- Work within client time and budget constraints
+- Dual role as job shop and OEM for long-term contract manufacturing
 
 ## Capabilities
-- Sheet metal fabrication
-- CNC bending
-- CNC folding
-- CNC light machining (milling and turning)
-- CNC plasma cutting
-- CNC waterjet cutting
+- CAD Modeling
+- CNC Bending
+- CNC Folding
+- CNC Light Machining (Milling and Turning)
+- CNC Plasma Cutting
+- CNC Waterjet Cutting
 - Braking
 - Rolling
 - Shearing
-- Saw cutting of long stock
+- Saw Cutting of Long Stock
 - Punching
 - Notching
-- Welding (aluminum, steel, stainless steel)
-- CAD modeling
-- Roof curb manufacturing
-- Unit curb adapter manufacturing
-- Equipment rail manufacturing
-- Fan curb adapter manufacturing
-- Grease duct fabrication
-- Custom HVAC curb fabrication
+- Welding (Aluminum, Steel, Stainless Steel)
 
 ## Industries
+- HVAC (mechanical)
 - Commercial construction
-- Green energy (daylighting, solar electric products)
-- Government projects
-- Mechanical HVAC
-
-## Equipment
-- CNC plasma cutting
-- CNC waterjet cutting
-- CNC bending
-- CNC folding
-- CNC milling and turning
+- Green energy (daylighting, solar electric)
+- Government
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -555,17 +549,17 @@ Leadership cites a family-oriented culture as a key differentiator, stating that
 
 <details><summary>Sources</summary>
 
+- Location: Glen Burnie, Maryland -> /
 - Founded 1996 as Arundel Metal Products -> /about-us
-- Family-owned company -> /about-us
-- Located in Glen Burnie, Maryland -> /
-- Products: roof curbs, unit curb adapters, equipment rails, fan curbs, grease ducts, custom HVAC curbs -> /about-us, /services
-- Processes: CNC bending, folding, plasma cutting, waterjet cutting, light machining, welding aluminum/steel/stainless -> /services
-- Industries: commercial construction, green energy (daylighting, solar electric), government, mechanical HVAC -> /about-us
-- Differentiators: treat customers like family, honesty, integrity, on-time delivery, work within constraints -> /about-us, /
-- Capabilities list from services page -> /services
-- Equipment: CNC plasma, waterjet, bending, folding, milling/turning -> /services
-- Materials: aluminum, steel, stainless steel -> /services
-- Company type: job shop and OEM -> /about-us
+- Family-owned -> /about-us
+- Started with custom sheet metal for mechanical HVAC -> /about-us
+- Rebranded to Solutions Fabricating Inc. -> /about-us
+- Job shop and OEM -> /about-us
+- Contract manufacturer for long-term projects -> /about-us
+- Processes: CNC bending, folding, light machining, plasma cutting, waterjet cutting, braking, rolling, shearing, saw cutting, punching, notching, welding aluminum/steel/stainless, CAD modeling -> /services
+- Products: roof curbs, unit curb adapters, fan curbs, equipment rails, pipe portal curbs, grease ducts, custom HVAC curbs -> /about-us, /services
+- Industries: mechanical HVAC, commercial construction, green energy (daylighting, solar electric), government -> /about-us
+- Differentiators: treat clients like family, honesty/integrity, on-schedule competitive pricing -> /about-us, /
 </details>
 
 ---

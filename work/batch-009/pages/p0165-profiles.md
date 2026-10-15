@@ -3,33 +3,37 @@
 **Old description:** At Ducote's Restaurant & Bar Equipment, we specialize in supplying the foodservice industry with a broad selection of the top-quality equipment and supplies you need to successfully run your operations and efficiently serve your customers. While we specialize in serving the needs of commercial operations, we are also open to the public.
 
 ## About
-Ducote's Restaurant & Bar Equipment operates from a 35,000-square-foot showroom in Baton Rouge, Louisiana. The family-owned business was founded in 1971 and has served the foodservice industry for over five decades, building a reputation for friendly and reliable service.
+Ducote's Restaurant & Bar Equipment operates from Baton Rouge, Louisiana, where the family-owned business was established in 1971. The company began as a supplier to the local restaurant and bar trade and has remained under family ownership for over five decades.
 
-The company distributes a wide range of equipment and supplies for commercial kitchens and bars, including cooking equipment, refrigeration, ice machines, dishwashing equipment, furniture, smallwares, and tabletop items. Its purchasing model focuses on large-lot buying to keep the showroom stocked wall-to-wall, and it also offers scratch-and-dent bargains and reconditioned used equipment alongside new inventory.
+The firm distributes a wide range of commercial foodservice equipment and supplies, maintaining more than 35,000 square feet of inventory in its showroom and warehouse. Its product assortment spans categories such as cooking equipment, refrigeration, beverage and bar systems, dishwashing, food preparation, furniture, ice machines, plumbing, smallwares, and tabletop items. In addition to new equipment, Ducote's offers scratch-and-dent bargains and reconditioned used units, sourcing in large lots to keep pricing competitive.
 
-Customers range from small cafes and neighborhood bars to large cafeterias and downtown nightclubs. While the primary focus is commercial operations, the showroom is also open to the public, and the staff assists with everything from ovens and food prep to silverware and glassware.
+Customers include independent restaurants, cafeterias, cafes, neighborhood bars, and downtown nightclubs, as well as other commercial foodservice operators. The company also serves the general public through its showroom and website. Its client base covers the broader foodservice and hospitality sectors, and it lists Arctic Industries among the industries it supports.
 
-The company emphasizes competitive pricing, knowledgeable staff available by phone, email, or in person, and a user-friendly website for browsing inventory.
+Ducote's emphasizes its purchasing power, experienced staff, and the availability of knowledgeable assistance by phone, email, or in person as key differentiators. The business model centers on high-volume buying to maintain a fully stocked showroom, enabling quick fulfillment and competitive prices for both new and reconditioned equipment.
 
 ## Known for
-- Family-owned since 1971
-- 35,000 sq ft showroom with wall-to-wall inventory
-- Large-lot purchasing for competitive pricing
-- Scratch-and-dent and reconditioned used equipment available
-- Open to both commercial operators and the public
+- Over 35,000 sq ft of inventory on site
+- Family-owned and operated since 1971
+- High-volume purchasing for competitive pricing
+- Scratch-and-dent and reconditioned equipment available
+- Knowledgeable staff accessible by phone, email, or in person
 
 ## Capabilities
 - Foodservice equipment distribution
-- Foodservice parts supply
-- Showroom sales
-- Used equipment reconditioning
+- Commercial kitchen equipment sales
+- Bar and beverage equipment sales
+- Reconditioned equipment sales
+- Scratch-and-dent equipment sales
+- Parts and supplies distribution (AllPoints)
+- Online and showroom retail
 
 ## Industries
 - Foodservice
 - Restaurant
 - Bar
-- Cafeteria
+- Commercial foodservice
 - Hospitality
+- Arctic Industries
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -39,16 +43,17 @@ The company emphasizes competitive pricing, knowledgeable staff available by pho
 
 <details><summary>Sources</summary>
 
-- Location: Baton Rouge, Louisiana -> db
-- Founded: 1971 -> /about-us
+- Founded in 1971 -> /about-us
 - Family-owned -> /about-us
-- 35,000 sq ft showroom -> /about-us
+- Over 35,000 sq ft inventory -> /about-us
+- Located in Baton Rouge, Louisiana -> db
 - Supplies restaurant and bar industry -> /about-us
-- Large-lot purchasing model -> /
-- Scratch-and-dent and reconditioned used equipment -> /, /about-us
-- Open to public and commercial -> /, /about-us
-- Categories of equipment -> /
-- Experienced staff -> /about-us
+- Serves commercial operations and public -> /
+- Purchases in huge lots for stocked showroom -> /
+- Offers scratch-and-dent and reconditioned used equipment -> /, /about-us
+- Categories include Beverage & Bar, Cooking Equipment, Refrigeration, etc. -> /
+- Industries served: Arctic Industries -> db
+- Capabilities: Concessions & Food Service, AllPoints Foodservice Parts & Supplies -> db
 </details>
 
 ---
@@ -58,54 +63,55 @@ The company emphasizes competitive pricing, knowledgeable staff available by pho
 **Old description:** Maryland's DME program is improving the quality of life for many Maryland residents by providing medical equipment and supports to help them stay mobile, safe, and connected in their homes and communities. Free durable medical equipment is available to Marylanders with any illness, injury, or disability, regardless of age or insurance coverage. All equipment is collected via donation and is sanitized, repaired, and redistributed to locations throughout Maryland for pickup.
 
 ## About
-The Durable Medical Equipment Re-Use Program operates from Cheltenham, Maryland, as a service of the Maryland Department of Aging. The state-run initiative provides free durable medical equipment to Maryland residents with any illness, injury, or disability, regardless of age or insurance status.
+The Durable Medical Equipment Re-Use Program operates from a central warehouse in Cheltenham, Maryland, under the Maryland Department of Aging. The program was established by the state to address mobility and safety needs for residents, though a specific founding year is not published. It functions as a statewide government service rather than a private enterprise, with no individual founders named.
 
-The program collects donated medical equipment, sanitizes and repairs it, then redistributes it through a network of distribution centers across Maryland. Equipment categories include basic items such as canes, walkers, shower chairs, and bedside commodes, as well as complex items like manual and power wheelchairs, power scooters, hospital beds, and mechanical lifts. All equipment is provided at no cost to the recipient.
+The program collects donated durable medical equipment, sanitizes and repairs it, then redistributes it through a network of more than a dozen distribution centers across Maryland. Inventory is divided into two categories: Basic DME — including canes, crutches, walkers, rollators, shower chairs, tub transfer benches, bedside commodes, and toilet safety rails — and Complex DME — including manual and power wheelchairs, power scooters, home hospital beds, and mechanical lifts. All equipment is provided at no cost to the recipient.
 
-The program serves Maryland residents of any age with illness, injury, or disability. It also works with healthcare professionals who complete applications for complex equipment, and partners with local organizations such as The Arc Northern Chesapeake Region, Delmarva Community Services, Queen Anne's County Department of Community Services, Cecil County Aging and Disability Services, Horizon Goodwill Industries, and Easter Seals to operate donation and distribution sites.
+The service is available to any Maryland resident with an illness, injury, or disability, regardless of age or insurance status. Primary users are individuals aging in place, people with disabilities, and patients recovering from injury or surgery. Partner organizations such as Delmarva Community Services, Queen Anne's County Department of Community Services, Cecil County Aging and Disability Services, Horizon Goodwill Industries, and local Area Agencies on Aging serve as collection and distribution points.
 
-The program was established to improve quality of life by helping residents stay mobile, safe, and connected in their homes and communities. Its model removes financial barriers by providing equipment free of charge without prescription requirements for basic items, and without age or insurance restrictions.
+The program was created to improve quality of life by helping residents stay mobile, safe, and connected in their homes and communities. It removes financial barriers by providing equipment free of charge and does not require a prescription for basic items, while complex items require input from a qualified medical professional for safety.
 
 ## Known for
-- Free equipment regardless of age or insurance
-- No prescription required for basic DME
-- Statewide network of donation and distribution centers
-- Equipment sanitized and repaired before redistribution
-- Pickup by appointment at local centers
+- Free equipment for all Maryland residents regardless of age or insurance
+- Donated equipment sanitized, repaired, and redistributed statewide
+- Network of 15+ distribution centers across Maryland counties
+- No prescription required for basic mobility and safety equipment
+- Complex equipment vetted by healthcare professionals before release
 
 ## Capabilities
-- Equipment sanitization
-- Equipment repair
-- Donation collection
-- Equipment redistribution
-- Basic DME provision
-- Complex DME provision
+- Medical equipment collection
+- Sanitization and refurbishment
+- Inventory sorting and categorization
+- Basic DME processing
+- Complex DME processing
+- Online and paper application intake
+- Appointment-based pickup scheduling
+- Donation intake and screening
 
 ## Industries
-- Durable medical equipment
-- Medical equipment
-- Mobility equipment
-- Assistive technology
-- Developmental disabilities services
+- Healthcare
 - Aging services
+- Disability services
 - Home healthcare
+- Medical equipment redistribution
 
 ## Company details
 - **Company Type:** Other
-- **Ownership:** State of Maryland
+- **Ownership:** State government program
 - **Headquarters:** Cheltenham, Maryland
 
 <details><summary>Sources</summary>
 
-- State-run program under Maryland Department of Aging -> /
+- Program run by Maryland Department of Aging -> db
 - Headquarters in Cheltenham, MD -> db
-- Free DME for any Marylander regardless of age/insurance -> /
+- Free DME for any Marylander with illness/injury/disability -> /
 - Equipment collected via donation, sanitized, repaired, redistributed -> /
-- Basic and complex DME categories with different application processes -> /
-- No prescription needed for basic DME -> /
-- Pickup by appointment at distribution centers -> /
-- Partner organizations listed as distribution/donation sites -> /
-- Client example: Patrick O'Malley received power wheelchair, Hoyer lift, hospital bed -> /
+- Two categories: Basic DME and Complex DME with listed examples -> /
+- Distribution centers in Aberdeen, Cambridge, Centreville, Cheltenham, Columbia, Elkton, Hagerstown, Odenton, Rockville, Silver Spring, Towson, Westminster, Worcester -> /
+- Partner organizations: Delmarva Community Services, Queen Anne's County Dept of Community Services, Cecil County Aging and Disability Services, Horizon Goodwill Industries, etc. -> /
+- No prescription needed for basic equipment; complex requires healthcare professional -> /
+- Pickup by appointment only at distribution centers -> /
+- Donation acceptance and rejection lists provided -> /
 </details>
 
 ---
@@ -115,20 +121,20 @@ The program was established to improve quality of life by helping residents stay
 **Old description:** Shipping damage can have a major impact on a manufacturer’s bottom line. Investing in high-quality packaging materials ensure your products make it safely to their final destination, protect your profits, and keep your customers happy.  Turn to Dynamic Packaging for the right packaging solution.
 
 ## About
-Dynamic Packaging, LLC operates from Richmond, Virginia, where it designs and manufactures custom fabricated foam packaging solutions for shipping and transit applications. The company focuses on creating tailored protective packaging that addresses the specific physical characteristics of each client's product.
+Dynamic Packaging, LLC operates from Richmond, Virginia, where it designs and fabricates custom foam packaging solutions. The company was established to address shipping damage that erodes manufacturers' profits, though its founding year and ownership structure are not publicly disclosed.
 
-The company provides complete turnkey services, from initial design consultation through final fabrication in its manufacturing facility. Its in-house capabilities include foam sawing and slicing, precision die cutting, CNC water jet cutting, and CNC heat bonding. The water jet cutting system requires no tooling investment, enabling fast prototyping and low-volume production. Dynamic Packaging also facilitates formal ISTA package drop and vibration testing when required. Its product range spans custom inserts for Pelican, Storm, and SKB cases, furniture leg protectors, end caps, foam enclosures, pocketed tray inserts, foam corners, box liners, anti-static packaging, ISPM15-compliant wooden crates, engineered pallets, and corrugated containers.
+The firm provides turnkey fabricated foam packaging services, from initial design consultation through prototyping and final fabrication in its own manufacturing facility. Its processes include foam sawing and slicing, precision die cutting, CNC water jet cutting, and CNC heat bonding. The company also facilitates formal ISTA package drop and vibration testing when required. It emphasizes low tooling costs compared to molded foam and the ability to adjust designs quickly for prototyping and low-volume runs.
 
-Dynamic Packaging serves manufacturers and shippers who need protective packaging for products transported in corrugated boxes, plastic or metal transit cases, wooden crates, and specialized hard cases. The company works with clients across various sectors that require reliable transit protection, though specific industry verticals are not publicly listed.
+Dynamic Packaging serves manufacturers across sectors that ship products in corrugated boxes, plastic or metal transit cases, and wooden crates. Its packaging options include custom inserts for Pelican, Storm, and SKB cases; furniture leg protectors; end caps and rails; foam enclosures; pocketed tray inserts; foam corners and box liners; anti-static packaging; ISPM15-compliant wooden crates and engineered pallets; and corrugated containers. The company works with multiple foam types, corrugated fiberboard, wood, plastic, and metal materials.
 
-The company emphasizes lower set-up and tooling costs compared to molded Styrofoam, along with the ability to adjust designs quickly and inexpensively as products evolve. Its team identifies the appropriate foam type, density, and thickness for each application, and the in-house water jet cutting capability supports rapid iteration without tooling delays.
+The company differentiates itself by offering lower set-up and tooling costs than molded Styrofoam, rapid design iterations, in-house CNC water jet cutting for fast prototyping, and a professional team that specifies foam type, density, and thickness to match each product's shipping requirements.
 
 ## Known for
 - Lower set-up and tooling costs than molded Styrofoam
-- Quick, inexpensive design changes as products evolve
+- Quick and inexpensive design changes
 - In-house CNC water jet cutting for fast prototyping and low-volume production
-- Complete turnkey service from design consultation to final fabrication
-- Facilitates formal ISTA drop and vibration testing
+- Turnkey services from design consultation to final fabrication
+- Facilitates formal ISTA package drop and vibration testing
 
 ## Capabilities
 - Foam sawing and slicing
@@ -149,27 +155,38 @@ The company emphasizes lower set-up and tooling costs compared to molded Styrofo
 - Anti-static packaging solutions
 - Custom ISPM15 wooden crates and engineered pallets
 - Corrugated containers
+- Multiple foam options
+
+## Industries
+- Manufacturing
 
 ## Equipment
 - CNC water jet cutting
 - CNC heat bonding
+- Foam sawing and slicing equipment
+- Precision die cutting equipment
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Headquarters:** Richmond, Virginia
 
 <details><summary>Sources</summary>
 
-- Located in Richmond, Virginia -> db, /about
-- Provides custom fabricated foam packaging -> /, /services
-- Offers CNC water jet cutting and CNC heat bonding in-house -> /, /services
-- Processes include foam sawing/slicing, precision die cutting -> /services
+- Located in Richmond, Virginia -> db
+- Provides fabricated foam packaging solutions -> /
+- Offers CNC water jet cutting and CNC heat bonding -> /services
+- Provides turnkey services from design to fabrication -> /services
+- Offers custom case inserts for Pelican, Storm, SKB cases -> /services
+- Offers ISPM15 wooden crates and engineered pallets -> /services
+- Offers anti-static packaging solutions -> /services
 - Facilitates ISTA package drop and vibration testing -> /services
-- Provides custom case inserts for Pelican, Storm, SKB cases -> /services
-- Offers custom ISPM15 wooden crates and engineered pallets -> /services
-- Design process includes consultation, CAD/solid model, prototyping, tooling, fabrication -> /services
-- Benefits: lower set-up and tooling costs vs molded Styrofoam, quick design changes -> /
+- Uses foam sawing, slicing, precision die cutting -> /services
+- Works with corrugated containers, multiple foam options -> /services
+- Lower set-up and tooling costs vs molded Styrofoam -> /
+- Quick and inexpensive design changes -> /
 - In-house CNC water jet cutting for fast prototyping and low-volume production -> /
+- Professional team identifies foam type, density, thickness -> /about
+- Turnkey services from design consultation to final approval -> /services
 </details>
 
 ---
@@ -179,53 +196,53 @@ The company emphasizes lower set-up and tooling costs compared to molded Styrofo
 **Old description:** Dynamic Sheetmetal Fabrication was founded by Michael J. Herold bringing 40 years of experience in owning/operating successful, industry leading, precision sheet metal fabrication businesses. Dynamic prides itself on Superior Customer Care including Design for Manufacturability, SolidWorks Design Assistance, Prototypes, Production, and all levels of Value-Added Assembly.  On time delivery, excellent quality and personal attention are the expectation of every customer and the cornerstones of our business model.
 
 ## About
-Dynamic Sheetmetal Fabrication operates from St. Paul, Minnesota. The company was founded by Michael J. Herold, who brought 40 years of experience owning and operating precision sheet metal fabrication job shops. Herold serves as president and owner, a team whose senior members each have 30-plus years in the trade.
+Dynamic Sheetmetal Fabrication operates from St. Paul, Minnesota. The company was founded by Michael J. Herold, who brought 40 years of experience owning and operating precision sheet metal fabrication businesses. Herold serves as president and owner.
 
-The shop specializes in precision sheet metal fabrication, offering laser cutting, turret punching, press brake forming, CNC machining, MIG/TIG welding, hardware insertion, deburring, finishing, and value-added assembly. Key equipment includes an Amada ENSIS 3015 AJ fiber laser with load automation, an Amada AE2510NT turret punch, two Amada press brakes (HG 8025 and HD 8025 NT), a Timesaver wet deburring machine, automated Haeger and Auto-Sert hardware insertion presses, a Scotchman cold saw, an Acer NC mill, a LeBlond lathe, and three Miller welding booths. The facility is climate-controlled and includes a cafeteria, locker rooms, and a 26-foot delivery truck for local shipments. Production runs from prototypes to full production, supported by SolidWorks design assistance and design-for-manufacturability reviews.
+The shop provides precision sheet metal fabrication services including laser cutting, turret punching, forming, welding, hardware insertion, machining, and finishing. Equipment includes an Amada ENSIS 3015 AJ fiber optic laser with automation, an Amada AE2510NT turret punch press, Amada HG8025 and HD8025NT press brakes with 3i bending software, a Timesaver wet deburring machine, Haeger and Auto-Sert hardware insertion systems, an Acer NC mill, a LeBlond lathe, and three Miller MIG/TIG weld booths. The facility is climate-controlled and runs on the Mie-Trak Pro business system for live data collection. The company also offers design-for-manufacturability assistance using SolidWorks and accepts CAD files in DXF, STEP, IGES, and other formats.
 
-Dynamic serves high-tech markets and industrial clients. A testimonial from the president of a company developing industrial-sized hand sanitizer dispensers describes a partnership that spanned multiple prototype iterations through final production. The company's leadership emphasizes experience across a multitude of high-tech sectors, though specific industry verticals are not listed publicly.
+Dynamic serves high-tech markets and has produced parts such as industrial hand-sanitizer dispensers for a client referenced in a testimonial. The company handles prototypes, production runs, and value-added assembly, though specific industries and volume ranges are not publicly disclosed.
 
-The company differentiates itself through a quality system built on ISO 9001:2015, real-time job tracking via the Mie-Trak Pro ERP, and an employee-first culture that includes a clean, air-conditioned workspace. Herold founded the business on the expectation of on-time delivery, excellent quality, and personal attention for every customer.
+Herold started the business to deliver superior customer care built on on-time delivery, quality, and personal attention. The operation is ISO 9001:2015 compliant and emphasizes employee satisfaction through a modern, air-conditioned plant and dedicated leadership team with 30-plus years of experience each.
 
 ## Known for
-- Design for Manufacturability (DFM) and SolidWorks design assistance
-- ISO 9001:2015 certified quality system
-- Real-time job tracking via Mie-Trak Pro ERP
-- Employee-focused, climate-controlled facility
-- In-house value-added assembly and automated hardware insertion
+- Design-for-manufacturability and SolidWorks design assistance
+- ISO 9001:2015 quality management system
+- Mie-Trak Pro real-time shop data collection
+- Amada fiber laser, turret punch, and press brakes with 3i bending software
+- Climate-controlled, employee-focused facility
 
 ## Capabilities
-- Laser cutting (fiber optic)
+- Fiber laser cutting
 - Turret punching
 - Press brake forming
+- MIG/TIG welding
+- Hardware insertion
 - CNC milling
 - CNC turning
-- MIG/TIG welding
-- Automated hardware insertion
-- Deburring and finishing (wet machine)
+- Wet deburring/finishing
 - Cold saw cutting
+- Design for manufacturability (DFM)
+- SolidWorks/CAD support
 - Value-added assembly
-- Design for Manufacturability (DFM)
-- SolidWorks CAD support
-- Prototyping
-- Production runs
 - Quality management (ISO 9001:2015)
-- Live job tracking (Mie-Trak Pro)
-- Local delivery (company truck)
+- Real-time production tracking (Mie-Trak Pro)
 
 ## Equipment
-- Amada ENSIS 3015 AJ Fiber Optic Laser with loader automation
-- Amada AE2510NT Electric/Hydraulic Turret Punch Press
+- Amada ENSIS 3015 AJ Fiber Optic Laser with loader Automation
+- Amada AE2510NT Electric/Hydraulic Turret punch press
 - Amada HG 8025 Press Brake
 - Amada HD 8025 NT Press Brake
 - Precision Ground European Tooling
 - Timesaver 37-inch Wet Machine
-- Haeger Model 618-1L Hardware Insertion Press with Bowl Feeder
-- Auto-Sert Model AS-7 Hardware Insertion Press with Bowl Feeder
+- Haeger Model 618-1L with Bowl Feeder
+- Auto-Sert Model AS-7 with Bowl Feeder
 - Scotchman Automatic Cold Cut-Off Saw
 - Acer NC Mill
 - LeBlond Lathe
 - Miller MIG/TIG Welders (3 booths)
+- Drill Presses
+- Grinding equipment
+- Finishing equipment
 - 26 ft. International Straight Truck
 
 ## Certifications
@@ -233,22 +250,20 @@ The company differentiates itself through a quality system built on ISO 9001:201
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
+- **Ownership:** Owner-operated
 - **Headquarters:** St Paul, Minnesota
 
 <details><summary>Sources</summary>
 
-- Company location: St. Paul, Minnesota -> db
-- Founder: Michael J. Herold with 40 years experience in precision sheet metal fabrication -> /
-- President & Owner: Michael Herold -> /
-- Team leaders have 30+ years experience -> /
-- Services: Design for Manufacturability, SolidWorks design assistance, prototypes, production, value-added assembly -> /
-- Equipment: Amada ENSIS 3015 AJ fiber laser with automation, Amada AE2510NT turret punch, Amada HG 8025 and HD 8025 NT press brakes, Timesaver 37-inch wet machine, Haeger 618-1L and Auto-Sert AS-7 hardware insertion presses, Scotchman cold saw, Acer NC mill, LeBlond lathe, Miller MIG/TIG welders (3 booths), 26 ft International straight truck -> /
-- Quality: ISO 9001:2015 implemented -> /
-- ERP: Mie-Trak Pro for live data collection -> /
-- Facility: air-conditioned shop, cafeteria, lockers, security -> /
-- Testimonial: industrial hand sanitizer dispenser project with multiple prototype iterations -> /
-- Certification: ISO 9001 (from database) -> db
-- Capabilities from database: Mie-Trak Pro live data -> db
+- Founded by Michael J. Herold with 40 years experience -> db, /
+- Located in St Paul, Minnesota -> db
+- ISO 9001:2015 compliant -> /
+- Equipment: Amada ENSIS 3015 AJ fiber laser, AE2510NT turret, HG8025/HD8025NT press brakes, Timesaver wet machine, Haeger and Auto-Sert hardware insertion, Scotchman saw, Acer mill, LeBlond lathe, Miller welders -> /
+- Services: DFM, SolidWorks assistance, prototypes, production, value-added assembly -> /
+- Business system: Mie-Trak Pro for live data collection -> /
+- Team: Michael Herold (President & Owner), Amy Niebling (General Manager), Jim Stephan (Sales & Marketing), Tim Eiffes (Engineering & Quality) -> /
+- Testimonial: industrial hand sanitizer dispenser project -> /
+- Facility: air-conditioned, climate-controlled -> /
 </details>
 
 ---
@@ -258,35 +273,24 @@ The company differentiates itself through a quality system built on ISO 9001:201
 **Old description:** Dynasty Woodworks is a family business dedicated to offering you unique heirloom quality furniture and woodcrafts. All of our pieces are designed with you, the customer, in mind. Quality that you can feel and cherish for generations.
 
 ## About
-Dynasty Woodworks operates from Manassas, Virginia, as a family-owned woodworking shop. The business was founded by Chris, who works directly with customers on custom designs, though the founding year is not publicly disclosed. The company describes itself as dedicated to offering unique heirloom-quality furniture and woodcrafts designed with the customer in mind.
+Dynasty Woodworks operates from Manassas, Virginia, as a family-owned business specializing in heirloom-quality furniture and woodcrafts. Founded as a family enterprise, the company does not publicly disclose its founding year or the names of its founders, but its identity is rooted in a commitment to generational quality.
 
-The company produces heirloom-quality furniture and woodcrafts, specializing in custom pieces such as live-edge black walnut coffee tables. Each project begins with a design consultation, and the firm sources distinctive wood slabs for one-off builds. Chris collaborates with clients from initial concept through final delivery. No facility size, headcount, or production volumes are published.
+The workshop produces custom furniture pieces, including live-edge tables and other woodcrafts, tailored to individual customer designs. The company highlights the use of unique wood selections, such as black walnut for live-edge surfaces, though details about facility size, employee count, or production volumes are not provided.
 
-Customers are primarily residential buyers seeking unique, conversation-piece furniture. Testimonials reference clients in California, Pennsylvania, Virginia, and the Dominican Republic, indicating the shop ships internationally. Pieces are packaged and delivered with meticulous care.
+Dynasty Woodworks serves individual homeowners seeking custom furniture, with clients across the United States and internationally, such as a customer in the Dominican Republic who commissioned a live-edge coffee table. Testimonials reference customers in California, Pennsylvania, and Virginia, indicating a broad residential clientele.
 
-The company emphasizes meticulous attention to detail, from wood selection through packaging and delivery. Its stated aim is to create pieces that can be felt and cherished for generations, with a focus on the uniqueness of the wood sourced for each project.
+The company emphasizes personalized design collaboration and meticulous craftsmanship, aiming to create pieces that become generational heirlooms. Its stated philosophy centers on designing each piece with the customer in mind, delivering quality that can be felt and cherished for generations.
 
 ## Known for
+- Family-owned operation
 - Heirloom-quality furniture and woodcrafts
-- Custom design collaboration on every piece
-- Unique wood sourcing (e.g., black walnut live edge)
-- Meticulous packaging and worldwide delivery
-- Family-owned with direct maker-to-client communication
+- Customer-driven design process
+- Custom live-edge woodworking
 
 ## Capabilities
 - Custom furniture making
-- Woodcrafting
-- Live edge woodworking
-- Design consultation
-- Wood sourcing and selection
-- Finishing and detailing
-- Packaging and shipping
-
-## Industries
-- Residential furniture
-- Custom woodcrafts
-- Home furnishings
-- Interior design
+- Woodcraft production
+- Live edge table fabrication
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -295,13 +299,12 @@ The company emphasizes meticulous attention to detail, from wood selection throu
 
 <details><summary>Sources</summary>
 
-- Family business in Manassas, Virginia -> db, page /
-- Founder Chris -> page /
-- Heirloom quality furniture and woodcrafts -> page /
-- Custom design collaboration -> page /
-- Black walnut live edge coffee tables -> page /
-- International shipping (Dominican Republic) -> page /
-- Attention to detail, unique wood sourcing -> page /
+- Location: Manassas, Virginia -> db
+- Family-owned business -> db
+- Produces heirloom-quality furniture and woodcrafts -> db
+- Custom live-edge furniture (e.g., black walnut coffee table) -> /
+- Customer-driven design approach -> /
+- Serves individual homeowners across US and internationally -> /
 </details>
 
 ---
@@ -311,49 +314,46 @@ The company emphasizes meticulous attention to detail, from wood selection throu
 **Old description:** Founded in 1996, E I Electrical Inc. provides high-quality residential and commercial electrical repair, replacement, installation, and maintenance services. As the go-to
 
 ## About
-E I Electrical, Inc. was founded in 1996 in Honolulu, Hawaii, as a family-owned and veteran-owned electrical contracting business. The company began with a focus on providing reliable electrical repair, installation, and maintenance services to residential and commercial customers across Oahu and the neighbor islands.
+E I Electrical, Inc. was founded in 1996 in Honolulu, Hawaii. The company is a family‑owned and veteran‑owned business that began as a local electrical contractor serving residential and commercial customers on Oahu.
 
-Today the firm fields a team of licensed, bonded, and insured electricians with over 100 years of combined experience. Its services span electrical panel upgrades, EV charger installation, generator sales and service (including Generac and PowerMate systems), smart-home automation, low-voltage cabling through its Cabling Hawaii division, lighting and ceiling-fan work, wiring replacement, and commercial electrical projects. The company offers emergency and after-hours response, same-day service, and flat-rate estimates, and reports more than 6,000 satisfied clients and 750-plus five-star reviews.
+The firm provides a full range of electrical services including emergency and after‑hours repair, panel upgrades, wiring replacement, EV charger installation, lighting and ceiling fan work, low‑voltage cabling for security and data networks, smart‑home automation, and generator sales, service, and installation. Its licensed, bonded, and insured electricians operate across the Hawaiian Islands, handling projects from single‑family homes to large retail centers such as Queens Marketplace, Whalers Village, and Ala Moana.
 
-E I Electrical serves residential homeowners, commercial property managers, and industrial facilities throughout the Hawaiian Islands. Notable commercial accounts include the Queens Marketplace, Whalers Village, and Ala Moana shopping centers. The company also handles off-grid residential power systems, security-camera integration, fiber-optic network installations, and specialty metering for a range of clients.
+Customers span residential, commercial, and industrial sectors. The company has completed off‑grid home power systems, integrated security camera installations, fiber‑optic network deployments, and specialty metering for property managers and mall operators throughout Oahu and the neighbor islands.
 
-The business emphasizes its veteran-owned and family-owned roots, 24-hour call answering, straightforward pricing, and a 100% satisfaction guarantee as key differentiators. Its willingness to travel across the island chain for projects sets it apart in a market where many contractors limit their service areas.
+E I Electrical emphasizes flat‑rate, same‑day estimates, 24‑hour call answering, and a 100 % satisfaction guarantee. The veteran‑owned, family‑run structure is cited as a core reason for its focus on precise workmanship and long‑term client relationships, with over 750 five‑star reviews and a combined team experience exceeding 100 years.
 
 ## Known for
-- Emergency and after-hours electrical services
-- 24-hour call answering for scheduling
-- Same-day service available
-- Flat-rate, same-day estimates
-- 100% satisfaction guarantee
-- Veteran-owned and family-owned
+- 24‑hour call answering and same‑day emergency service
+- Flat‑rate, same‑day estimates with 100 % satisfaction guarantee
+- Veteran‑owned and family‑owned operation
+- Licensed, bonded, and insured electricians with 100+ years combined experience
+- Willingness to travel across all Hawaiian Islands for projects
 
 ## Capabilities
-- Electrical repair
-- Electrical installation
-- Electrical maintenance
-- Electrical panel upgrade and replacement
-- EV charger installation and service
-- Generator sales, service, and installation
-- Smart home automation and installation
-- Low voltage cabling (network, security, AV, home automation)
-- Lighting installation, repair, and maintenance
-- Ceiling fan installation and repair
-- Wiring repair and replacement
-- Switch and outlet wiring
+- Emergency and after-hours electrical services
+- Same-day service
+- Electrical panel repair, replacement, and installation
+- Electrical meter repair and smart meter installation
+- EV charger installation, repair, and maintenance
+- Ceiling fan repair, replacement, and installation
+- Lighting maintenance, repair, replacement, and installation
+- Electrical wiring repair and replacement
+- Electrical service upgrades
+- Switch and outlet wiring repair and replacement
 - Commercial electrical services
-- Emergency and after-hours electrical service
-- Same-day electrical service
-- Flat-rate estimating
-- Background-checked, licensed, bonded, and insured electricians
+- Low-voltage cabling (network, satellite TV, security systems, AV, home automation, conferencing, home theater)
+- Smart home automation services
+- Generator sales, service, and installation (Generac, PowerMate)
 
 ## Industries
 - Residential
 - Commercial
 - Industrial
 - Retail (shopping malls)
+- Property management
 - Off-grid residential
 - Security systems
-- Telecommunications (fiber optic)
+- Fiber optic networks
 
 ## Equipment
 - Generac generators
@@ -368,81 +368,94 @@ The business emphasizes its veteran-owned and family-owned roots, 24-hour call a
 <details><summary>Sources</summary>
 
 - Founded in 1996 -> db
-- Headquarters: Honolulu, Hawaii -> db
-- Family-owned and Veteran-owned -> /
-- 25+ years in business, 100+ years team experience -> /
-- Licensed, bonded, insured electricians -> /
-- Services: electrical repair, installation, maintenance, panel upgrades, EV chargers, generators, smart home, low voltage cabling, lighting, ceiling fans, wiring, commercial electrical -> /
-- Emergency/after-hours, same-day service, 24-hour call answering, flat-rate estimates, 100% satisfaction guarantee -> /
-- Serves residential, commercial, industrial across Hawaiian Islands -> /
-- Commercial clients: Queens Marketplace, Whalers Village, Ala Moana -> /
-- Off-grid home setups, security camera systems, fiber optic network installations -> /
-- Generator brands: Generac, PowerMate -> /
-- Veteran-owned certification -> db
+- Headquarters Honolulu, Hawaii -> db
+- Family-owned and veteran-owned -> homepage
+- Services list (emergency, panel, wiring, EV, lighting, low-voltage, smart home, generators) -> homepage
+- Industries served (residential, commercial, industrial, retail malls, property management, off-grid, security, fiber optic) -> homepage
+- Projects at Queens Marketplace, Whalers Village, Ala Moana -> homepage
+- Generac and PowerMate generators -> homepage
+- 24-hour call answering -> homepage
+- Same-day service -> homepage
+- Flat-rate estimates -> homepage
+- 100% satisfaction guarantee -> homepage
+- Licensed, bonded, insured electricians -> homepage
+- 100+ years combined team experience -> homepage
+- 750+ 5-star reviews -> homepage
+- Willing to travel across Hawaiian Islands -> homepage
+- Low voltage cabling division Cabling Hawaii -> homepage
 </details>
 
 ---
 
 # E S Components
 
-_skipped: Expecting ',' delimiter: line 84 column 4 (char 4514)_
+_skipped: Expecting ',' delimiter: line 83 column 4 (char 4351)_
 
 # E-TekNet Inc.
 
 **Old description:** E-TekNet specializes in manufacturing both bare PCBs and fully assembled PCBAs, with a strong focus on quick-turn production, high quality, on-time delivery, and competitive pricing—from prototypes to medium and large-scale volumes.
 
 ## About
-E-TekNet Inc. operates from its U.S. headquarters in Gilbert, Arizona, serving as the domestic face of a business that fully owns its printed circuit board (PCB) and printed circuit board assembly (PCBA) factories in China. The company was established to bridge the gap between American engineering support and cost-effective offshore production, though a specific founding year is not publicly disclosed.
+E-TekNet Inc. is headquartered in Chandler, Arizona, with a U.S. office in Gilbert, AZ. The company was founded to provide PCB and PCBA manufacturing services, though its founding year is not publicly disclosed. It operates as a privately owned business that uniquely owns 100% of its PCB and PCBA fabrication facilities in China, allowing direct control over production.
 
-The company manufactures bare PCBs and fully assembled PCBAs, offering quick-turn services with lead times as short as two days for bare boards. Its capabilities span PCB fabrication, turnkey assembly (including component procurement, stencil creation, and box-build), conformal coating, solder stencil production, reverse engineering from sample boards, and functional testing. E-TekNet handles orders ranging from prototypes to medium and large production volumes.
+The company manufactures bare printed circuit boards and fully assembled PCBAs, offering quick-turn production with lead times as short as two days for bare boards. Its services cover the full spectrum from prototype to medium and large-scale volumes, including turnkey assembly (a 4-in-1 package combining bare PCB, stencil, components, and assembly), box-build, solder stencil fabrication, reverse engineering, conformal coating, functional testing, and parts procurement. The firm also provides PCB design assistance through a network of professional partners.
 
-Customers include electronics firms such as Zenem Corp., Sanker International Inc., Sable Systems International, and Coleman Air Inc., reflecting a client base that values rapid quoting, on-time delivery, and technical support. The company provides live U.S.-based support in English and Spanish, with online ordering available around the clock.
+E-TekNet serves customers across electronics-dependent sectors, with documented clients including Zenem Corp., Sanker International Inc., Sable Systems International, and Coleman Air Inc. These references suggest a customer base spanning commercial, industrial, and possibly aerospace or medical equipment manufacturers, though the company does not explicitly list target industries.
 
-E-TekNet differentiates itself by owning 100% of its manufacturing facilities in China while maintaining a U.S. headquarters, a model it says eliminates middlemen and ensures direct quality control. The founders cite past experiences with unreliable suppliers as the motivation for a service built on trust, reliability, and a one-stop-shop approach that aims to save customers time and money.
+The company positions itself as a pioneer in the PCB industry by combining U.S.-based sales and support with wholly owned offshore manufacturing, a model it says eliminates tariff hassles and ensures quality. Its stated mission is to deliver first-class, one-stop PCB services that save customers time and money, backed by ISO 9001 and UL certifications and a guarantee of trust, reliability, and on-time delivery.
 
 ## Known for
-- 100% company-owned PCB and PCBA facilities in China
-- U.S.-based headquarters with direct engineering support
-- Quick-turn bare PCB in as little as two days
-- Turnkey 4-in-1 service: bare board, stencil, components, assembly
-- Live support in English and Spanish
+- 100% company-owned PCB and PCBA manufacturing facilities in China
+- U.S.-based headquarters with direct engineering and customer support
+- Two-day quick-turn capability for bare PCBs
+- 4-in-1 turnkey service (bare board, stencil, components, assembly)
+- ISO 9001 and UL certified quality system
 
 ## Capabilities
-- Bare PCB fabrication
-- PCB assembly (SMT/THT)
-- Turnkey PCB assembly (components, stencil, fabrication)
-- Box-build assembly
-- Solder stencil manufacturing
+- Bare board PCB manufacturing (including 2-day quick-turn)
+- PCB assembly (turnkey, box-build, quick-turn)
+- 4-in-1 turnkey PCB assembly (bare PCB, stencil, components, assembly)
+- Solder stencil fabrication (framed and frameless)
+- Reverse engineering (sample PCB to CAM files and BOM)
+- PCB design assistance (via partner network)
 - Conformal coating
-- Reverse engineering (PCB to CAM/BOM)
-- PCB design assistance
-- Component procurement
-- Functional testing
-- Quick-turn prototyping (2-day bare PCB)
-- Online quoting and ordering
-- Multilingual customer support (English, Spanish)
+- Functional testing after assembly
+- Parts procurement
+- Prototype and low-volume production
+- Medium to large-scale volume production
 
 ## Certifications
 - ISO 9001
 - UL
-- RoHS
 
 ## Company details
 - **Company Type:** Manufacturer
-- **Headquarters:** Gilbert, Arizona
+- **Headquarters:** Chandler, Arizona
 
 <details><summary>Sources</summary>
 
-- Headquarters address: 219 S William Dillard Dr., STE 141, Gilbert, AZ 85233 -> /
-- Company description: manufactures bare PCBs and PCBAs, quick-turn, prototypes to large volumes -> db
-- Ownership model: 100% owned PCB/PCBA fabs in China -> /
-- Certifications: ISO9001, UL, RoHS -> /, db
-- Capabilities: bare PCB, PCB assembly, turnkey, box-build, conformal coating, solder stencil, reverse engineering, PCB design partners, parts procurement, functional test -> /
-- Lead time: as short as two days for bare PCB -> /
-- Volume range: prototypes to medium and large-scale volumes -> /
-- Customer examples: Zenem Corp., Sanker International Inc., Sable Systems International, Coleman Air Inc. -> /
-- Languages: English and Spanish (Hablo Espanol) -> /
-- Differentiators: U.S.-based with owned China facilities, trust/reliability focus, one-stop service -> /
+- Headquarters in Chandler, Arizona -> db
+- U.S. office address in Gilbert, AZ -> page '/'
+- Specializes in bare PCB and PCBA manufacturing -> db description
+- 100% company-owned PCB/PCBA facilities in China -> page '/'
+- ISO 9001 and UL certified -> page '/'
+- RoHS compliance -> db certifications
+- Two-day quick-turn for bare PCBs -> page '/'
+- 4-in-1 turnkey service (bare board, stencil, components, assembly) -> page '/'
+- Box-build assembly -> page '/'
+- Solder stencil fabrication -> page '/'
+- Reverse engineering from sample PCB -> page '/'
+- PCB design partner network -> page '/'
+- Conformal coating -> capabilities list
+- Functional testing after assembly -> products list
+- Parts procurement -> products list
+- Prototype promotions and large order discounts -> page '/'
+- Customer testimonials from Zenem Corp, Sanker International, Sable Systems International, Coleman Air Inc. -> page '/'
+- Mission: first-class one-stop PCB services -> page '/'
+- Pioneer combining U.S. operations with owned China facilities -> page '/'
+- No tariff hassle (company pays tariffs) -> page '/'
+- Online instant quote with live support -> page '/'
+- Spanish language support (Hablo Espanol) -> page '/'
 </details>
 
 ---
@@ -452,34 +465,30 @@ E-TekNet differentiates itself by owning 100% of its manufacturing facilities in
 **Old description:** We are ready to help you determine if your home is a good candidate for solar. We’ll provide you with a personalized bid that includes estimated power and energy savings, as well as any rebates and incentives you may qualify for. Our commitment to using only trusted solar manufacturers means you can trust us to provide you with the best service and results possible.
 
 ## About
-Founded in 2005 in Bend, Oregon, E2 Solar operates as a small business serving Central Oregon. The company began with a mission to harness solar power for a sustainable future, helping residents, businesses, builders, general contractors, nonprofits, and government agencies generate cleaner electricity.
+E2 Solar, LLC is a small solar installation company based in Bend, Oregon. Founded in 2005, the firm has spent nearly two decades serving Central Oregon residents, businesses, builders, general contractors, nonprofits, and government agencies with solar photovoltaic and energy storage systems.
 
-E2 Solar designs and installs photovoltaic systems and energy storage for residential and commercial customers. Its five-step process covers smart solar evaluation and advanced system design, on-site verification, permitting and incentive preparation, installation of mounting systems, panels, inverters, and electrical interconnection by licensed contractors, and final inspection coordination. In 2025, the company installed 1.4752 megawatts of solar capacity, earning its 11th consecutive placement on Solar Power World's Top Contractors list at rank 321 nationally.
+The company designs and installs rooftop and ground-mount solar arrays, handling the full project lifecycle from initial evaluation and site walks through permitting, utility interconnection, and final inspection. Its in-house licensed electrical contractors perform all wiring and inverter connections, and crews set up monitoring systems to track production. In 2025, E2 Solar installed 1.4752 megawatts of solar capacity, doubling its prior-year volume, and earned its 11th consecutive appearance on Solar Power World's Top Solar Contractors list.
 
-The installer works with homeowners, commercial property owners, construction firms, nonprofit organizations, and public agencies throughout Central Oregon. Its team navigates local utility requirements, Energy Trust of Oregon incentives, and Oregon Department of Energy programs to tailor each project.
+Customers range from homeowners seeking resilience against outages to commercial property owners and public-sector clients navigating Oregon's incentive programs. The firm regularly coordinates with the Energy Trust of Oregon and the Oregon Department of Energy to secure rebates and tax credits for clients, and its local knowledge of utility net-metering rules shapes system sizing recommendations.
 
-E2 Solar differentiates itself by pledging to use only solar panel manufacturers and high-quality components, avoiding unrealistic sales promises, and leveraging deep knowledge of regional rebate structures. The company emphasizes honest communication about site limitations and long-term system performance.
+E2 Solar distinguishes itself by pledging to use only solar manufacturers and high-quality components, refusing to make unrealistic performance promises. The company emphasizes transparent communication about site limitations and incentive eligibility, and its Bend-based crews allow for responsive on-site service throughout the project.
 
 ## Known for
-- Uses only trusted solar panel manufacturers and high-quality, tried-and-tested parts
-- Local expertise in Central Oregon utility, Energy Trust, and state incentive programs
-- 11-time Solar Power World Top Contractor (2026 rank No. 321)
-- Fully licensed electrical contractors perform all wiring and interconnection
-- Five-step process from evaluation through final inspection
+- Uses only trusted solar manufacturers and high-quality parts
+- In-house licensed electrical contractors perform all wiring
+- Expertise in local rebate and incentive programs (Energy Trust of Oregon, Oregon Department of Energy)
+- Transparent communication about system feasibility and site limitations
+- Local Bend-based installation crews for responsive service
 
 ## Capabilities
-- Solar site evaluation and system design
-- On-site verification and electrical infrastructure assessment
-- Permitting and net metering application
-- Incentive and rebate application (Energy Trust of Oregon, Oregon Department of Energy)
-- Solar PV mounting system installation
-- Solar panel and inverter installation
-- Electrical wiring and panel interconnection
+- Solar PV system design and engineering
+- Site evaluation and energy usage analysis
+- Permitting and utility interconnection coordination
+- Rooftop and ground-mount solar panel installation
+- Inverter installation and electrical panel integration
+- Energy storage system installation
 - System monitoring setup and commissioning
-- Final inspection coordination
-- Battery energy storage system installation
-- Residential solar installation
-- Commercial solar installation
+- Final inspection coordination and documentation
 
 ## Industries
 - Residential
@@ -496,16 +505,17 @@ E2 Solar differentiates itself by pledging to use only solar panel manufacturers
 
 <details><summary>Sources</summary>
 
-- Founded in 2005 in Bend, Oregon -> /about
+- Founded in 2005 -> /about
+- Headquartered in Bend, Oregon -> /about
 - Small business ownership -> /about
 - Installed 1.4752 MW in 2025 -> /
-- Ranked No. 321 nationally, 11th consecutive year Top Solar Contractor -> /
-- Five-step process: evaluation, site walk, permitting, installation, final inspections -> /
+- 11th consecutive year Top Solar Contractor -> /
+- Licensed electrical contractors -> /
+- 5-step installation process -> /
 - Serves residential, commercial, builders, general contractors, nonprofits, government agencies -> /about
-- Pledges to use only trusted solar panel manufacturers and high-quality parts -> /about
-- Fully licensed electrical contractors -> /
-- Local expertise in Central Oregon rebate requirements -> /about
-- Headquarters in Bend, Oregon -> db
+- Coordinates with Energy Trust of Oregon and Oregon Department of Energy -> /
+- Pledge to use trusted solar manufacturers -> /about
+- Local Bend-based crews -> /
 </details>
 
 ---
@@ -515,28 +525,25 @@ E2 Solar differentiates itself by pledging to use only solar panel manufacturers
 **Old description:** For over 60 years, ECI Cables has been a leading provider of high-quality cable assemblies, harnesses, and equipment wiring solutions. Located in Sinking Spring, Pennsylvania, our commitment to excellence ensures that we deliver superior products at competitive prices, often with faster turnaround times than in-house suppliers. Our extensive inventory and diverse tooling options allow us to meet a wide range of customer needs, from standard assemblies to complex, custom-engineered solutions.
 
 ## About
-ECI Cables Inc. operates from a 50,000-square-foot facility in Sinking Spring, Pennsylvania. The company traces its roots to 1960, building over six decades of experience in cable and harness manufacturing. Since 2011 it has shared the modernized plant with its affiliate, RLC Electronic Systems, and completed a major expansion in 2021.
+ECI Cables Inc. has operated in Sinking Spring, Pennsylvania, since 1960. The company moved into a 50,000-square-foot facility shared with sister company RLC Electronic Systems in 2011 and completed a major remodel and expansion in 2021.
 
-The shop specializes in custom cable assemblies, wire harnesses, and equipment wiring, offering services that range from ribbon cable and DIN rail assembly to box builds, sensor assemblies, wire wrapping, and harness braiding. Four high-speed cutting and stripping machines handle wire from 0 to 30 AWG, while termination relies on multiple AMP presses, Pico pneumatic crimpers, and a large inventory of hand crimp tools calibrated to NIST standards. Cable identification capabilities include thermal transfer printing, hot stamping, and epoxy inking to meet military specifications. The facility also houses a Komax Alpha 530 and supports over-molding, crimp force monitoring, hi-pot, resistance, continuity, pull testing, and custom fixture validation.
+The shop produces cable assemblies, wire harnesses, and equipment wiring solutions. Services include ribbon cable assembly, DIN rail assembly, electro-mechanical assembly, sensor assemblies, box builds, wire wrapping, harness braiding, and cable over-molding. Four high-speed cutting and stripping machines process wire from 0 to 30 AWG, while termination uses multiple AMP presses, Pico pneumatic crimpers, automated crimp tooling, and hundreds of calibrated hand tools. Cable identification is handled via thermal transfer printing, hot stamping, and epoxy inking. The facility also houses a Komax Alpha 530 automated wire processing system and supports in-process crimp force monitoring, hi-pot, resistance, continuity, and pull testing.
 
-ECI serves a broad industrial base that includes aerospace, automotive, agriculture, medical, data centers, renewable energy, transportation, water treatment, automation, fire safety, security, and lighting sectors. The company works to military standards such as MIL-I-45208A and MIL-STD marking requirements, while also supporting commercial customers across the United States.
+ECI serves a broad range of sectors: aerospace, automotive, agricultural, industrial, clean room, HVAC, solar, renewable energy, transportation, water treatment, automation, fire safety, security, backup power, traffic control, goods transportation, medical, portable power, audio, outdoor lighting, general lighting, data centers, and military programs requiring MIL-I-45028A compliance.
 
-The company emphasizes a quality-first culture, building to WHMA-620-A standards with a certified IPC-WHMA-620C instructor on staff. Its quality system is ISO 9001 compatible and UL508A certified, with incoming material inspection, in-process crimp force monitoring, and government-approved source inspection available. ECI also maintains a large stock of connectors, wire, sleeving, and multi-conductor cables to accelerate turnaround.
+The company emphasizes technical design assistance for harness layout, materials, plating, termination methods, and current-carrying capacity. It builds to WHMA-620-A standards with a certified instructor on staff, maintains an ISO 9001-compatible quality system, holds UL508A certification, and offers government-approved source inspection. An extensive inventory of connectors, wire, sleeving, and cable enables faster turnaround than many in-house operations.
 
 ## Known for
-- Faster turnaround times than in-house suppliers
-- Extensive inventory of connectors, wire, and sleeving for prompt fulfillment
-- On-staff IPC-WHMA-620C certified instructor ensuring harness quality
-- In-process crimp force monitoring and custom test fixtures
+- Faster turnaround than in-house suppliers
+- Extensive inventory of connectors, wire, and sleeving
+- On-site WHMA-620 certified instructor
+- UL508A certified panel shop
 - Government-approved source inspection available
 
 ## Capabilities
-- Cable assembly
-- Wire harness assembly
-- Equipment wiring
 - Ribbon cable assembly
 - DIN rail assembly
-- Electrical-mechanical assembly
+- Electro-mechanical assembly
 - Sensor assemblies
 - Box builds
 - Wire wrapping
@@ -545,17 +552,25 @@ The company emphasizes a quality-first culture, building to WHMA-620-A standards
 - Wire cutting and stripping (0-30 AWG)
 - Semi-stripping
 - Hot stamping on wire jacket
-- Termination (AMP presses, Pico pneumatic crimpers, automated crimp tooling, hand crimp tools)
-- Cable identification (thermal transfer printing, hot stamping, epoxy inking)
+- Termination with AMP presses
+- Termination with Pico pneumatic crimpers
+- Automated crimp tooling
+- Hand crimp tools (NIST-traceable calibration)
+- Thermal transfer printing
+- Hot stamping for cable identification
+- Epoxy inking for harsh environments
+- Design assistance (materials, plating, components, harness layout, termination methods)
+- Incoming material inspection
+- In-process crimp force monitoring (CFA)
 - Hi-pot testing
 - Resistance testing
 - Continuity testing
-- Crimp force monitoring
+- Visual inspection
+- Crimp height analysis
 - Pull testing
 - Custom test fixtures
-- Microscopic-visual inspection
+- Microscopic visual inspection
 - Mechanical testing
-- Design assistance (materials, plating, components, harness layout, termination methods)
 
 ## Industries
 - Aerospace
@@ -571,7 +586,7 @@ The company emphasizes a quality-first culture, building to WHMA-620-A standards
 - Automation
 - Fire safety
 - Security
-- Back up power systems
+- Backup power systems
 - Traffic control
 - Goods transportation
 - Medical
@@ -587,26 +602,26 @@ The company emphasizes a quality-first culture, building to WHMA-620-A standards
 - Four high-speed cutting and stripping machines
 - Multiple AMP presses
 - Numerous Pico pneumatic crimpers
-- Hand crimp tools (calibrated to NIST standards)
-- Thermal transfer printers
-- Hot stamping equipment
-- Epoxy inking equipment
-- Hi-pot testers
-- Resistance testers
-- Continuity testers
-- Crimp force monitoring (CFA) system
-- Pull testers
+- Automated crimp tooling
+- Hundreds of hand crimp tools
+- Crimp force monitoring (CFA) equipment
+- Hi-pot tester
+- Resistance tester
+- Continuity tester
+- Visual inspection stations
+- Crimp height analysis equipment
+- Pull tester
 - Custom test fixtures
-- Microscopic-visual inspection equipment
+- Microscopic visual inspection equipment
 - Mechanical testing equipment
 
 ## Certifications
-- IPC-WHMA-620C Training & on-site trainer
+- IPC-WHMA-620C
 - ISO 9001 compatible
 - UL508A Certified
 - UL (wire certification)
 - MIL-I-45208A
-- WHMA-620-A standards
+- WHMA-620-A
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -615,25 +630,29 @@ The company emphasizes a quality-first culture, building to WHMA-620-A standards
 
 <details><summary>Sources</summary>
 
-- Location: 12 Corporate Blvd, Sinking Spring, PA 19608 -> /
+- Location: Sinking Spring, PA -> /about-us
 - Founded 1960 (history dating back to 1960) -> /
 - 50,000 sq ft facility since 2011 -> /about-us
-- Major remodel and expansion 2021 -> /about-us
+- Remodel/expansion 2021 -> /about-us
 - Sister company RLC Electronic Systems -> /about-us
-- Services: cable assemblies, harnesses, equipment wiring, ribbon cable, DIN rail, electrical-mechanical, sensor assemblies, box builds, wire wrapping, harness braiding -> /services
-- Four high-speed cutting/stripping machines, 0-30 AWG -> /services
-- Termination: AMP presses, Pico pneumatic crimpers, hand crimp tools NIST calibrated -> /services
-- Cable identification: thermal transfer printing, hot stamping, epoxy inking -> /services
-- Tooling: Tyco, Molex, Deutsch, Panduit, Amphenol, Souriau, JST, Sure Seal -> /services
+- Cable assemblies, harnesses, equipment wiring -> /
+- Services list (ribbon, DIN rail, electro-mechanical, sensor, box builds, wire wrapping, harness braiding, over-molding) -> /services
+- Wire cutting/stripping 0-30 AWG, semi-stripping, hot stamping -> /services
+- Termination: AMP presses, Pico crimpers, automated tooling, hand tools -> /services
+- Cable ID: thermal transfer, hot stamping, epoxy inking -> /services
+- Design assistance details -> /services
+- Inventory list (lugs, ferrules, splices, connectors, wire, sleeving, insulation, lacing cord, cables, multi-conductor, coaxial, semi-rigid coaxial, computer interconnect) -> /services
 - Industries served list -> /services
-- Inventory: lugs, ferrules, splices, connectors, wire, sleeving, insulation, lacing cord, multi-conductor, coaxial, semi-rigid coaxial, computer interconnect -> /services
-- Quality: WHMA-620-A standards, IPC-WHMA-620C certified instructor -> /quality
-- ISO 9001 compatible, UL508A Certified, UL wire certification, MIL-I-45208A -> /quality
-- Incoming material inspection, government-approved source inspection -> /quality
-- Equipment: crimp force monitoring, hi-pot, resistance, continuity, pull testing, custom fixtures, microscopic-visual, mechanical testing -> /quality
-- CAGE CODE 15971 -> / (and /about-us, /services, /quality)
-- NAICS codes 335921, 334417, 334419, 335931, 335932 -> /
+- Military specs MIL-I-45028A -> /about-us
+- Quality standards: WHMA-620-A, IPC-WHMA-620C, ISO 9001 compatible, UL508A, UL wire, MIL-I-45208A -> /quality
+- Certified instructor on staff -> /quality
+- Government-approved source inspection -> /quality
+- Equipment list (Komax Alpha 530, cutting/stripping machines, presses, crimpers, CFA, hi-pot, resistance, continuity, visual, crimp height, pull, custom fixtures, microscopic, mechanical) -> /quality
+- CAGE code 15971 -> / (and /about-us, /services, /quality)
+- NAICS codes -> / (and /about-us, /services, /quality)
 - Contract manufacturer statement -> /services
+- Faster turnaround than in-house -> /
+- Technical assistance in design -> /
 </details>
 
 ---

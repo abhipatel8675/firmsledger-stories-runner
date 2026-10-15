@@ -3,32 +3,32 @@
 **Old description:** Locally owned and family run, crafting the highest quality solar arrays for south-central Wisconsin homeowners since 2016.
 
 ## About
-Drews Solar is a family-owned residential solar installer based in Madison, Wisconsin. Michael’s wife, Maria Drews, a civil and environmental engineer and 2024 Wisconsin Clean Energy Champion, co-owns the business and leads customer support.
+Drews Solar is a family-owned residential solar installation company based in Madison, Wisconsin. Founded in 2016 by Michael Drews, a licensed master electrician with a mechanical engineering degree from UW‑Madison, the business began after he spent more than a decade working with solar firms in Madison, Chicago, and Los Angeles. He returned to his home state and, together with his wife Maria Drews, a civil and environmental engineer, built a locally operated firm that serves south‑central Wisconsin homeowners.
 
-The company focuses exclusively on rooftop solar for homeowners, handling every step from site assessment and custom system design through permitting, installation, and grid interconnection. Michael personally oversees each site visit and installation, while Maria manages communication and incentive paperwork. Since launch, the team has completed over 400 installations across Madison and surrounding counties, operating with a deliberately small crew to maintain quality control.
+The company focuses exclusively on rooftop solar photovoltaic systems for single‑family homes. Its services cover the full project lifecycle: site evaluation, custom system design and engineering, permitting and utility interconnection paperwork, installation of panels, inverters and racking, and final grid connection. Drews Solar also offers battery storage installation and assists customers with incentive applications such as the Wisconsin Focus on Energy rebate. Since 2016 the team has completed over 400 residential installations, operating with a deliberately small crew of dedicated installers overseen directly by Michael Drews.
 
-Drews Solar serves residential customers in south-central Wisconsin, including Dane County and neighboring areas. Its clients are homeowners seeking to reduce electricity costs, achieve net-zero energy goals, or add battery backup. The company assists with utility rebates such as the Focus on Energy program and federal tax credits.
+Drews Solar serves homeowners in Madison and the surrounding counties of south‑central Wisconsin. Its customer base consists of residential property owners seeking to reduce electricity costs, achieve energy independence, or meet net‑zero goals. Testimonials reference projects for all‑electric homes, electric‑vehicle charging preparation, and retrofits on existing roofs.
 
-The founders say they started the business to offer a different contractor experience—transparent pricing, clear communication, and attention to details that larger firms often miss. By staying small, they aim to deliver systems built to last 25 years, using reliable equipment and designs tailored to each home’s energy profile.
+Maria Drews, recognized as a 2024 Wisconsin Clean Energy Champion, leads customer support to keep homeowners informed at every step.
 
 ## Known for
-- Locally owned and family-run, not a national chain
-- Exclusive focus on residential solar installation
-- Master electrician oversees every design and installation
-- Co-owner manages communication and incentive processing
-- Over 400 systems installed since 2016
+- Locally owned and family operated in Madison, WI
+- Exclusively focused on residential solar installation
+- Founder is a licensed master electrician who personally oversees every design and install
+- Intentionally small team provides direct communication and hands-on project management
 
 ## Capabilities
-- Residential solar site assessment
-- Custom system design and engineering
+- Residential solar PV installation
+- Solar system design and engineering
 - Permitting and utility interconnection
-- Solar panel and inverter installation
-- Rebate and tax credit application assistance
-- Project management and customer communication
+- Site assessment and evaluation
+- Battery storage installation
+- Incentive and rebate application assistance
 
 ## Industries
 - Residential solar installation
-- Renewable energy services
+- Renewable energy
+- Home energy services
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -38,16 +38,17 @@ The founders say they started the business to offer a different contractor exper
 
 <details><summary>Sources</summary>
 
-- Founded 2016 -> /about-us
-- Family-owned -> /
-- Founders Michael and Maria Drews -> /about-us
-- Michael licensed master electrician -> /about-us
-- Maria civil/environmental engineer -> /about-us
-- Over 400 families served -> /about-us
-- Service area south-central Wisconsin -> /about-us
-- Exclusive residential solar focus -> /about-us
-- Services: design, permitting, installation, grid connection -> /
-- Incentive assistance: Focus on Energy rebate -> /
+- Founded in 2016 -> db
+- Headquarters Madison, Wisconsin -> db
+- Family-owned and locally operated -> /about-us
+- Over 400 families served since 2016 -> /about-us
+- Michael Drews founder, licensed master electrician, mechanical engineering degree UW-Madison -> /about-us
+- Maria Drews co-owner, civil and environmental engineering degree UW-Madison, 2024 Wisconsin Clean Energy Champion -> /about-us
+- Services: site evaluation, custom system design, permitting, installation, grid connection -> / and /about-us
+- Battery backup installation offered -> / (testimonial)
+- Wisconsin Focus on Energy rebate assistance -> /
+- Service area: south-central Wisconsin -> /
+- Intentionally small team -> /about-us
 </details>
 
 ---
@@ -57,46 +58,46 @@ The founders say they started the business to offer a different contractor exper
 **Old description:** We're a mom-and-daughter owned boutique with a passion for helping women feel confident and empowered through style. At Drift Clothing, we thoughtfully choose trendy, high quality pieces that help you feel amazing and embrace your unique look. We are dedicated to creating a shopping experience that leaves you feeling empowered and unstoppable.
 
 ## About
-Drift Clothing Co. operates as an online women's boutique based in Fargo, North Dakota. The business is owned by a mother and daughter, though their names and the founding year are not publicly disclosed.
+Drift Clothing Co operates as an online women's boutique based in Fargo, North Dakota. The business is owned and operated by a mother-and-daughter team, though the founders' names are not publicly disclosed. The company's founding year has not been published.
 
-The company curates and sells trendy women's apparel — including lounge pants, tops, sweaters, and basics — through its e-commerce website. Product collections such as Social Hour, Studio, Staple, and Campus are offered in sizes ranging from XS to XL. Operational details such as facility size, employee count, and order volumes are not published.
+The boutique curates and sells a range of women's apparel organized into collections such as Social Hour, Studio, Staple, Happy Camp3r, Stripes, and Campus. Offerings include lounge pants, long-sleeve tops, oversized short-sleeve tops, sweaters, and basics, with sizes typically ranging from XS to XL. Inventory is managed and shipped from a warehouse facility, with free shipping on U.S. orders over $75 and an emphasis on fast fulfillment.
 
-Drift Clothing serves individual consumers shopping for women's fashion online. Its product lineup includes items such as coral striped lounge pants ($59.99), hot pink striped flare lounge pants ($44.99), and oversized short-sleeve lounge tops ($39.99), marketed through collections like Happy Camp3r and Campus.
+Drift Clothing serves individual consumers seeking trendy, high-quality pieces designed to help women feel confident and empowered through style. The customer base consists primarily of women shopping for casual and going-out wear, with the company positioning itself as a destination for a personalized shopping experience rather than a wholesale supplier.
 
-The boutique emphasizes a shopping experience designed to make women feel confident and empowered, with free shipping on U.S. orders over $75 and a focus on fast order fulfillment.
+The founders frame the business around a mission to create a shopping experience that leaves customers feeling empowered and unstoppable, differentiating the boutique through its family-owned perspective and curated product selection.
 
 ## Known for
 - Free shipping on U.S. orders over $75
-- Fast shipping
-- Curated selection of trendy, high-quality women's apparel
-- Focus on empowering shopping experience
+- Fast shipping on all orders
+- Mom-and-daughter owned, family-run operation
+- Curated collections focused on women's empowerment
 
 ## Capabilities
 - E-commerce retail
 - Order fulfillment
 - Product curation
-- Women's apparel merchandising
+- Inventory management
 
 ## Industries
-- Women's fashion retail
-- E-commerce
-- Apparel
+- Women's apparel retail
+- Fashion retail
 
 ## Company details
 - **Company Type:** Retailer
-- **Ownership:** Mom-and-daughter owned
+- **Ownership:** Family-owned, Woman-owned
 - **Headquarters:** Fargo, North Dakota
 
 <details><summary>Sources</summary>
 
-- Location: Fargo, North Dakota -> db
-- Ownership: mom-and-daughter owned boutique -> /
-- Business type: online women's clothing retailer -> /
-- Free shipping on US orders $75+ -> /
-- Fast shipping claim -> /
-- Product examples: Coral Striped Lounge Pants, Striped Flare Lounge Pants, etc. -> /
-- Collections: Social Hour, Studio, Staple, Happy Camp3r, Campus -> /
-- Mission: empower women through style -> /
+- Company name: Drift Clothing Co -> db
+- Headquarters: Fargo, North Dakota -> db
+- Ownership: mom-and-daughter owned boutique -> page:/
+- Mission: helping women feel confident and empowered through style -> page:/
+- Free shipping on US orders $75+ -> page:/
+- Fast shipping -> page:/
+- Collections: Social Hour, Studio, Staple, Happy Camp3r, Stripes, Campus, Going Out Tops, Best Sellers, Basics, Sweaters -> page:/
+- Products: Coral Striped Lounge Pants, Coral Striped Long Sleeve, Striped Flare Lounge Pants, Striped Oversized Short Sleeve Lounge Top -> page:/
+- Pricing and size ranges listed -> page:/
 </details>
 
 ---
@@ -106,43 +107,40 @@ The boutique emphasizes a shopping experience designed to make women feel confid
 **Old description:** Serving Chicagoland since 1968, we’re here to work closely with you to ensure industry-leading communication and fulfillment. Contact us today to learn more.
 
 ## About
-Drummond Industries, Inc. was founded in 1968 in Bensenville, Illinois, a suburb of Chicago. The company has remained family-owned and operated for over five decades, with current leadership under President Matthew Gieser. From its inception, the business focused on serving Chicagoland manufacturers with custom plastic injection molding services.
+Drummond Industries Inc. was founded in 1968 in Bensenville, Illinois, just outside Chicago’s O’Hare Airport. The company has remained family-owned since its inception and is currently led by President Matthew Gieser. Over five decades, it has grown from a local molder into a regional supplier of custom plastic components.
 
-Today, Drummond operates a 50,000-square-foot facility housing 20 injection molding machines, an in-house tool room, and auxiliary equipment. The plant runs 24 hours a day, five days a week, producing parts ranging from prototype quantities of 250 pieces to high-volume runs exceeding one million units. Core processes include plastic injection molding, insert molding, overmolding, ultrasonic welding, hot stamping, part assembly, packaging, and customer warehousing.
+The 50,000-square-foot facility houses 20 injection molding machines supported by an in-house tool room and auxiliary equipment. Operations run 24 hours a day, five days a week, producing parts ranging from prototype quantities of 250 pieces to high-volume runs exceeding one million. Core processes include plastic injection molding, insert molding, overmolding, ultrasonic welding, part assembly, packaging, and in-house hot-stamp decoration. The shop also offers prototyping, new-product development assistance, and customer warehousing.
 
-The company serves medical and automotive sectors, producing components such as surgical tool grips and overmolded automotive connectors. It works with businesses of all sizes, from startups needing prototypes to established firms requiring high-volume production and supply-chain support.
+Drummond serves medical-device and automotive customers in the Chicagoland area. Examples include metal surgical tools with overmolded plastic or rubber grips and automotive connectors with integrated gaskets. The company works with businesses of all sizes, from startups needing prototypes to established manufacturers seeking production support.
 
-Drummond emphasizes that its reputation rests on the last shipment, a philosophy voiced by President Gieser. The firm positions itself as a partner that streamlines production through integrated decorating, assembly, and warehousing services, reducing customers’ lead times and logistics complexity.
+President Matthew Gieser summarizes the firm’s philosophy: “I know that Drummond’s reputation is only as good as its last shipment.” The company emphasizes on-time delivery, close communication, and a partnership approach that extends beyond molding to include assembly, decoration, and inventory management.
 
 ## Known for
+- 24-hour manufacturing, 5 days a week
+- In-house tool room for mold maintenance and development
+- Hot-stamp decoration performed in-house
+- Customer warehousing and inventory management
 - Family-owned continuity since 1968
-- 50,000 sq. ft. facility with 20 injection molding machines and in-house tool room
-- 24/5 manufacturing schedule
-- In-house decorating (hot stamping), assembly, packaging, and warehousing
-- Order flexibility from 250 to 1,000,000+ parts
 
 ## Capabilities
 - Plastic Injection Molding
 - Insert Molding
 - Overmolding
 - Ultrasonic Welding
-- Hot Stamping (Part Decoration)
 - Part Assembly
 - Packaging
+- Hot Stamping (Plastic Part Decoration)
 - Prototyping
 - Customer Warehousing
-- In-house Tool Room
-- Design Assistance
+- In-House Tool Room
+- New Product Development Assistance
 
 ## Industries
-- Medical
+- Medical Devices
 - Automotive
 
-## Equipment
-- 20 injection molding machines
-
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1968
 - **Ownership:** Family-owned
 - **Headquarters:** Bensenville, Illinois
@@ -150,17 +148,19 @@ Drummond emphasizes that its reputation rests on the last shipment, a philosophy
 <details><summary>Sources</summary>
 
 - Founded 1968 -> db
-- Headquarters Bensenville, Illinois -> db
-- Family-owned -> /
-- President Matthew Gieser -> /
-- 50,000 sq. ft. facility -> /
+- Family-owned since 1968 -> /
+- Headquarters Bensenville, Illinois -> /
+- 50,000 sq ft facility -> /
 - 20 injection molding machines -> /
 - In-house tool room -> /
 - 24/5 operation -> /
-- Order range 250 to 1,000,000+ -> /about
-- Processes: injection molding, insert molding, overmolding, ultrasonic welding, hot stamping, assembly, packaging, warehousing -> /, /about
-- Industries: medical (surgical tool grips), automotive (overmolded connectors) -> /
-- Reputation philosophy -> /
+- Volume range 250 to 1,000,000+ -> /about
+- Medical devices and automotive examples -> /
+- President Matthew Gieser quote -> /
+- Services: injection molding, insert molding, overmolding, ultrasonic welding, assembly, decoration, warehousing -> /
+- Hot stamping done in-house -> /
+- Customer warehousing -> /
+- Prototyping and new product development assistance -> /about
 </details>
 
 ---
@@ -170,47 +170,43 @@ Drummond emphasizes that its reputation rests on the last shipment, a philosophy
 **Old description:** With decades of experience since 1953, Dubois Sheet Metal, LLC, stands as an industry leader. Trust our seasoned expertise to deliver exceptional solutions tailored to your needs.
 
 ## About
-Dubois Sheet Metal, LLC operates in Lake Charles, Louisiana, where it was founded in 1953. Now in its third generation of family ownership, the company continues a legacy that began over seven decades ago, maintaining a commitment to quality and integrity established by its founders.
+Dubois Sheet Metal, LLC operates from Lake Charles, Louisiana, where it was founded in 1953. Now in its third generation of family ownership, the company began as a sheet metal fabrication shop and has expanded its capabilities over seven decades.
 
-The shop provides sheet metal fabrication, HVAC solutions, pipe fabrication, and structural fabrication. Its team works with carbon steel, stainless steel, aluminum, and exotic alloys, applying precision fabrication techniques across custom projects. Facility size, employee count, and annual production volumes are not publicly disclosed.
+The shop provides sheet metal fabrication, HVAC system fabrication, pipe fabrication, and structural fabrication. It works with carbon steel, stainless steel, aluminum, and exotic alloys, offering precision fabrication and customized solutions for each project. Facility size, headcount, and annual volume are not publicly disclosed.
 
-The company serves industrial customers with a noted focus on HVAC systems, along with broader fabrication needs for piping and structural components. Its services are tailored to unique project requirements, though specific client names or industry certifications are not published.
+The company serves industrial and commercial customers needing HVAC ductwork, piping systems, and structural steel components. Its HVAC solutions are tailored to the unique demands of industrial facilities, while pipe and structural fabrication support broader construction and process piping needs.
 
-Dubois emphasizes its family-owned tradition and a personalized approach to customer service, citing generations of expertise as the foundation for tailored solutions and transparent communication. The firm highlights its ability to deliver innovative designs and timely execution as key differentiators.
+Dubois Sheet Metal emphasizes its family-owned tradition, highlighting integrity, quality, and personalized customer service as the foundation of its approach. The third-generation leadership cites unwavering commitment and transparent communication as key differentiators.
 
 ## Known for
-- Third-generation family ownership since 1953
+- Third-generation family ownership
+- Precision fabrication in carbon steel, stainless steel, aluminum, and exotic alloys
+- HVAC, pipe, and structural fabrication capabilities
 - Personalized customer service with transparent communication
-- Expertise in carbon steel, stainless steel, aluminum, and exotic alloys
-- Specialized HVAC fabrication capabilities
-- Customized solutions for sheet metal, pipe, and structural projects
 
 ## Capabilities
-- Sheet Metal Fabrication
-- HVAC Solutions
-- Pipe Fabrication
-- Structural Fabrication
-- Precision Fabrication
-
-## Industries
-- HVAC
-- Industrial
+- Sheet metal fabrication
+- HVAC fabrication
+- Pipe fabrication
+- Structural fabrication
+- Precision fabrication
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1953
-- **Ownership:** Family-owned (third generation)
+- **Ownership:** Family-owned
 - **Headquarters:** Lake Charles, Louisiana
 
 <details><summary>Sources</summary>
 
-- Founded 1953 -> db and /about-us
-- Location Lake Charles, Louisiana -> /
-- Third-generation family ownership -> /about-us
-- Materials: carbon steel, stainless steel, aluminum, exotic alloys -> /
-- Services: Sheet Metal Fabrication, HVAC Solutions, Pipe Fabrication, Structural Fabrication -> /services
-- Family-owned tradition highlighted -> /
-- Personalized customer service approach -> /about-us
+- Founded 1953 -> db
+- Headquarters Lake Charles, Louisiana -> home page
+- Third-generation family ownership -> home page
+- Materials: carbon steel, stainless steel, aluminum, exotic alloys -> home page
+- Services: sheet metal fabrication, HVAC solutions, pipe fabrication, structural fabrication -> services page
+- Family-owned tradition highlighted -> home page
+- Precision fabrication highlighted -> home page
+- HVAC solutions tailored to industrial demands -> services page
 </details>
 
 ---
@@ -220,35 +216,33 @@ Dubois emphasizes its family-owned tradition and a personalized approach to cust
 **Old description:** , we take pride in crafting each piece by hand, delivering the perfect balance of
 
 ## About
-DUC Woodworks is based in East Ridge, Tennessee, and was founded in 2015 by master woodworker Danny, who brought over 40 years of experience to the venture. The business is now run alongside Ryan, who adds 25 years of woodworking expertise, giving the team a combined 65 years in the craft. The company began on the principle that every customer deserves a high-quality custom wood piece paired with an exceptional experience from start to finish.
+DUC Woodworks was founded in 2015 in East Ridge, Tennessee. The business was started by Danny, a master woodworker with more than 40 years of experience, and is now operated alongside Ryan, who brings 25 years of woodworking expertise. Together they represent roughly 65 years of combined craft experience.
 
-The shop produces custom wood furniture and woodworking services entirely by hand, using kiln-dried solid woods such as walnut and maple. Its portfolio spans custom cabinets and built-ins, kitchen islands and butcher-block countertops, farmhouse tables and benches, barn doors and mantels, bedroom and living-room sets, and smaller specialty items like cutting boards, phone stands, and coasters. Each project carries a one-year craftsmanship warranty covering maintenance, repairs, or replacements.
+The shop produces custom wood furniture and architectural woodwork, including cabinets, built-ins, kitchen islands, butcher-block countertops, farmhouse tables, benches, barn doors, mantels, bedroom and living-room sets, and smaller specialty items such as cutting boards and phone stands. Pieces are handcrafted from kiln-dried solid woods — walnut and maple are noted in completed projects — and the company manages each job from initial consultation through delivery and installation.
 
-DUC Woodworks serves homeowners, contractors, and businesses throughout the Tri-State area — Chattanooga, North Georgia, and Northeast Alabama. Residential clients commission pieces such as cookbook cabinets, bookcases, and breakfast-room tables; contractors rely on the shop for built-ins and countertops in renovation projects; and commercial customers have ordered items like a 13-foot conference-table top replacement.
+The client base spans homeowners, general contractors, and commercial businesses throughout the Tri-State region covering Chattanooga, North Georgia, and Northeast Alabama. One documented commercial project involved fabricating a replacement top for a 13-foot conference table for a local company.
 
-The founders emphasize personalized service, collaborating closely on design, stain selection, and dimensions to match each client’s vision. The combination of handcrafted quality, rustic charm, and a one-year warranty is presented as the core differentiator in a market where lead times and reliability can be unpredictable.
+The founders frame the business around a personal commitment to each client: every piece is built by hand, backed by a one-year craftsmanship warranty covering maintenance, repairs, or replacements, and the team emphasizes a collaborative design process that blends rustic aesthetics with functional durability.
 
 ## Known for
-- Handcrafted construction using kiln-dried solid wood
-- One-year craftsmanship warranty covering maintenance, repairs, and replacements
-- Personalized design consultation with collaborative stain and dimension selection
-- Delivery and installation service across the Tri-State area
-- 65 years of combined woodworking experience between the two principals
+- 1-year craftsmanship warranty on all work
+- Handcrafted using kiln-dried solid wood
+- Personalized design consultation for each project
+- Over 65 years of combined woodworking experience
+- Delivery and installation included
 
 ## Capabilities
 - Custom woodworking
 - Cabinet making
-- Built-in furniture fabrication
-- Countertop fabrication (butcher block)
-- Kitchen island fabrication
-- Farmhouse table making
-- Bench making
+- Built-in furniture
+- Butcher block countertop fabrication
+- Farmhouse table fabrication
+- Bench fabrication
 - Barn door fabrication
 - Mantel fabrication
 - Bedroom furniture making
 - Living room furniture making
-- Specialty wood item fabrication (cutting boards, phone stands, coasters)
-- Wood finishing and staining
+- Specialty wood items (cutting boards, phone stands, coasters)
 - Delivery and installation
 
 ## Industries
@@ -264,15 +258,16 @@ The founders emphasize personalized service, collaborating closely on design, st
 <details><summary>Sources</summary>
 
 - Founded in 2015 -> /about
-- Founded by Danny (40+ years experience) and run alongside Ryan (25 years experience) -> /about
-- Based in East Ridge, TN -> / and /about
-- Serves Tri-State area (Chattanooga, North Georgia, Northeast Alabama) -> /
-- Offers custom cabinets, built-ins, islands, countertops, farmhouse tables, benches, barn doors, mantels, bedroom/living room furniture, specialty items -> /
-- Uses kiln-dried wood, walnut, maple -> / and testimonials
+- Located in East Ridge, TN -> / and /about
+- Founders Danny and Ryan -> /about
+- 65 years combined experience -> /about
+- Custom wood furniture and woodworking services -> /
 - 1-year craftsmanship warranty -> / and /about
-- Handcrafted quality, personalized service -> /
-- Delivery and installation service -> /about
-- LinkedIn URL -> db
+- Serves Tri-State area (Chattanooga, North Georgia, Northeast Alabama) -> /
+- Uses kiln-dried wood -> /
+- Handcrafted production -> /
+- Delivery and installation -> /about
+- Testimonial mentions Ryan Coffee and 13-foot conference table top -> /
 </details>
 
 ---
@@ -282,18 +277,18 @@ The founders emphasize personalized service, collaborating closely on design, st
 **Old description:** Effective June 1, 2020, Duerr Packaging will now be offering Golden Electra broken cases at 24 units/case.
 
 ## About
-Duerr Packaging Co Inc was founded in 1953 in Burgettstown, Pennsylvania. The company began as a rigid paper box manufacturer in a well-established, highly competitive industry. It remains an independent, family-operated business now in its second generation, with many employees holding long tenures.
+Duerr Packaging Co. Inc. was founded in 1953 in Burgettstown, Pennsylvania, as a family-owned operation that has continued into a second generation. The company began with rigid paper boxes in a highly competitive market and later expanded into thermoforming plastics as that technology emerged.
 
-The company operates two plants in rural western Pennsylvania: one dedicated to converting paperboard into rigid set-up boxes, heart boxes, and rigid paper boxes, and the other focused on thermoformed plastics including vacuum and pressure forming, transparent lids and boxes, clamshells, and display and blister packing. Both facilities are housed in newer buildings with machinery that is continually updated.
+Today the company runs two modern plants in rural western Pennsylvania: one dedicated to paperboard converting and the other to plastic thermoforming, both equipped with continually updated machinery. Its capabilities span rigid set-up boxes, thermoformed plastics, vacuum and pressure forming, transparent lids and boxes, plastic clamshells, display and blister packing, heart boxes, and rigid paper boxes.
 
-The company works with a broad range of clients seeking custom packaging solutions for protection, convenience, or aesthetic improvement.
+The company works with clients seeking protection, convenience, or aesthetic improvements for their product lines.
 
-The company's philosophy centers on taking on only work it is proficient in and accommodating customer requirements directly. This approach, combined with a stable, experienced workforce and ongoing equipment investment, underpins its ability to deliver custom paper and plastic packaging.
+The firm's philosophy is to accept only work it considers within its proficiency and to service customers according to their specific requirements, a principle that has guided its growth since the early days of plastic thermoforming.
 
 ## Known for
-- Takes on only work it is proficient in and tailors service to customer requirements
-- Independent, family-operated business in its second generation with long-tenured employees
-- Two modern plants (paperboard and plastics) with continually updated machinery
+- Family-owned, second-generation operation with many long-tenure employees
+- Two dedicated plants for paperboard converting and plastics thermoforming with continually updated machinery
+- Focus on taking only work within their proven proficiency
 
 ## Capabilities
 - Rigid Set-up Boxes
@@ -313,16 +308,13 @@ The company's philosophy centers on taking on only work it is proficient in and 
 
 <details><summary>Sources</summary>
 
-- Founded 1953 -> db, page
-- Headquarters Burgettstown, Pennsylvania -> db
-- Family-owned, second generation -> page
-- Two plants: paperboard converting and plastics thermoforming -> page
-- Capabilities list (rigid set-up boxes, thermoformed plastics, vacuum/pressure forming, transparent lids/boxes, clamshells, display/blister packing, heart boxes, rigid paper boxes) -> db
-- Ships to all 50 states and several foreign countries -> page
-- Philosophy: take on only proficient work, accommodate customer requirements -> page
-- Long-tenured employees -> page
-- New buildings with continually updated machinery -> page
-- Materials: paperboard and plastics -> page
+- Founded in 1953 -> db
+- Headquarters in Burgettstown, Pennsylvania -> db
+- Family-owned, second-generation business -> homepage
+- Two plants: paperboard converting and plastics thermoforming -> homepage
+- Capabilities include rigid set-up boxes, thermoformed plastics, vacuum and pressure forming, transparent lids and boxes, clamshells, display and blister packing, heart boxes, rigid paper boxes -> capabilities list (db) and homepage
+- Ships to all US states and several foreign countries -> homepage
+- Philosophy: take on only what they are proficient in -> homepage
 </details>
 
 ---
@@ -332,71 +324,68 @@ The company's philosophy centers on taking on only work it is proficient in and 
 **Old description:** With over 20 years of experience in the sheet metal fabrication trade, we provide quality duct to local commercial and
 
 ## About
-Dulles Sheet Metal was founded in 2006 in Sterling, Virginia. The company operates as a sheet metal fabrication facility serving the Washington, D.C. metropolitan area.
+Dulles Sheet Metal was founded in 2006 and operates from Sterling, Virginia. The company began as a sheet metal fabrication shop serving the local mechanical contracting market and has accumulated over two decades of experience in ductwork production.
 
-The shop specializes in rectangular duct fabrication, single-wall and double-wall spiral duct and fitting fabrication, and man bar fabrication. It also produces sound-lined duct, TDC and TDF flange systems, and works with stainless steel, aluminum, and black iron. The facility uses fully automated equipment and a computerized estimating system to handle orders of any quantity, from small runs to large commercial projects.
+The shop fabricates rectangular duct, single-wall and double-wall spiral duct and fittings, man bar, soundlined duct, and TDC/TDF connections in stainless steel, aluminum, black iron, and G90 galvanized steel. It also produces round pipe, elbows, flexible duct, airtight collars, and fiberglass-lined duct, using fully automated machinery and a computerized estimating system to handle orders of any quantity.
 
-Dulles Sheet Metal primarily serves commercial and residential mechanical contractors, as well as industrial and residential construction projects. Its ductwork is built to SMACNA standards using G90 galvanized metal, and the company stocks accessories such as flexible duct, elbows, duct wrap, and sealants for immediate delivery.
+Its customers are commercial, industrial, and residential mechanical contractors across the Washington, D.C. metro area. The company's location near Route 50, the Dulles Toll Road, and Route 66 allows it to deliver free on orders above $1,000 within a limited radius, with its own trucks covering the region.
 
-The company emphasizes competitive pricing, quick turnaround times, and free delivery on orders over $1,000 within the D.C. metro area. Its location near Route 50 provides easy access to the Dulles Toll Road and Interstate 66, supporting fast logistics for regional projects.
+Dulles Sheet Metal emphasizes adherence to SMACNA standards, quick turnaround times, and free estimates as its primary differentiators, positioning itself as a fast, standards-compliant source for HVAC ductwork.
 
 ## Known for
-- Free delivery on orders above $1,000
-- Quick turnaround production times
-- Fabrication to SMACNA standards
-- Fully automated equipment with computerized estimating
-- Strategic location near Route 50 with free D.C. metro delivery
+- Free delivery on orders over $1,000 within the DC metro area
+- All ductwork fabricated to SMACNA standards using G90 galvanized metal
+- Computerized estimating system for rapid quotes
+- Fully automated fabrication equipment for quick turnaround
+- Own fleet for regional delivery
 
 ## Capabilities
 - Rectangular duct fabrication
-- Single-wall spiral duct & fitting fabrication
-- Double-wall spiral duct & fitting fabrication
+- Single-wall spiral duct fabrication
+- Double-wall spiral duct fabrication
 - Man bar fabrication
-- Sound-lined duct fabrication
-- TDC & TDF flange systems
-- Stainless steel duct & fittings fabrication
-- Aluminum duct & fittings fabrication
-- Black iron duct & fittings fabrication (16 GA welded)
-- Rectangular galvanized ductwork (slip & drive)
-- Round pipe and elbows fabrication
+- Soundlined duct fabrication
+- TDC/TDF connection fabrication
+- Stainless steel duct fabrication
+- Aluminum duct fabrication
+- Black iron duct fabrication
+- Round pipe and elbow fabrication
 - Flexible duct fabrication
-- Airtight collars fabrication
-- Sealants and tape application
-- Premium fiberglass R-rated liner installation
+- Airtight collar fabrication
+- Fiberglass liner installation
+- Sealant and tape application
+- Computerized estimating
+- Welded black iron duct (16 GA)
+- Slip and drive ductwork
 
 ## Industries
 - Commercial construction
-- Residential construction
 - Industrial construction
-- Mechanical contractors
+- Residential construction
+- Mechanical contracting
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Founded:** 2006
 - **Headquarters:** Sterling, Virginia
 
 <details><summary>Sources</summary>
 
 - Founded in 2006 -> db
-- Headquarters in Sterling, Virginia -> db
-- Sheet metal fabrication facility -> /services
-- Rectangular duct fabrication -> /
-- Single-wall & double-wall spiral duct & fitting fabrication -> /
-- Man bar fabrication -> /
-- Soundlined duct -> /
-- TDC & TDF -> /
-- Stainless steel, aluminum & black iron duct & fittings -> /
-- Free delivery for orders above $1,000 -> /
-- Quick turn around -> /
-- SMACNA standards products -> /services
-- G90 galvanized metal -> /services
-- Fully automated equipment and machinery -> /services
-- Computerized estimating system -> /services
-- Prime location near Route 50 with free deliveries in DC Metro area -> /services
-- Serves commercial and residential mechanical contractors -> /
-- Commercial, industrial, & residential applications -> /services
-- Stock items such as flex, elbows, duct wrap, airtite -> /services
-- Premium fiberglass R-rated liner -> /services
+- Headquartered in Sterling, Virginia -> db
+- Fabricates rectangular, spiral, and man bar duct -> /
+- Offers free delivery on orders over $1,000 -> /
+- Fabricates to SMACNA standards -> /services
+- Uses G90 galvanized metal -> /services
+- Serves commercial, industrial, residential mechanical contractors -> /services
+- Provides quick turnaround -> /
+- Uses computerized estimating system -> /services
+- Operates fully automated equipment -> /services
+- Delivers throughout DC Metro area -> /services
+- Works with stainless steel, aluminum, black iron -> /services
+- Produces round pipe, elbows, flexible duct, airtight collars -> /services
+- Offers fiberglass R-rated liner -> /services
+- Provides free estimates -> /
 </details>
 
 ---
@@ -406,38 +395,37 @@ The company emphasizes competitive pricing, quick turnaround times, and free del
 **Old description:** We’ve been in business for 70 years, since 1950. Since then, we’ve always had a strong focus to provide accurate and competitive pricing in the job quote market.
 
 ## About
-Duncan Electric Supply Co. was founded in 1950 by Kenneth L. Duncan in Bountiful, Utah, as an independent electrical distributor serving the electrical construction industry. The company has operated continuously from its location in what is now West Bountiful, building a reputation for reliable supply over more than seven decades.
+Duncan Electric Supply Co. has operated as an independent electrical distributor in West Bountiful, Utah, since 1950, when Kenneth L. Duncan founded the company to serve the electrical construction industry. The business remains locally based, with a warehouse positioned roughly 30 minutes north of Salt Lake City and south of Ogden.
 
-The firm functions as a wholesale distributor, maintaining a well-stocked warehouse of electrical products for commercial, residential, utility, and industrial markets. Its services include prompt job-site delivery, will-call pickup, and lighting design assistance such as layout planning, lumen calculations, and energy-efficiency upgrades. The product range features branded lines like Pass & Seymour Plug Tails, Lutron RadioRA 2 wireless controls, and Alcan FeederPlex conductor assemblies.
+The company stocks a broad range of electrical products for commercial, residential, utility, and industrial markets. Its warehouse carries items such as Pass & Seymour Plug Tail devices, Lutron RadioRA 2 wireless control systems, and Alcan FeederPlex conductor assemblies. Beyond distribution, Duncan Electric assembles lighting and gear packages for contractors and provides lighting-layout expertise, including lumen calculations and efficiency upgrades.
 
-Primary customers are electrical contractors who rely on Duncan for lighting and gear packages that help them win bids. The company also serves commercial and industrial facilities seeking lighting retrofits, as well as utility and residential projects. Its pricing focus is on accurate, competitive job quotes, and the staff emphasizes long-term relationships over transactional sales.
+Primary customers are electrical contractors working across commercial, residential, utility, and industrial projects throughout the Wasatch Front region. The firm emphasizes job-quote pricing to help contractors win bids, and it supports both will-call pickup and jobsite delivery.
 
-Leadership cites superior service as the core differentiator, coupled with a commitment to competitive pricing in the job-quote market. The founder’s original goal — remaining in business for another 60 years — still drives a culture where every walk-in or phone inquiry is treated as essential.
+Duncan Electric cites superior service as its top goal, backed by a commitment to accurate, competitive pricing on every quote. The founder's stated aim to remain in business for another 60 years translates into a policy of never taking a customer for granted, whether the order arrives by phone or at the counter.
 
 ## Known for
-- Superior service as the number one goal
-- Accurate and competitive pricing on job quotes
-- Prompt job-site delivery anywhere in the region
-- Well-stocked warehouse with broad electrical product lines
-- Lighting design expertise including layout, lumen analysis, and energy-efficiency upgrades
-- Convenient location 30 minutes from Salt Lake City and Ogden
+- Superior service is our number one goal
+- Accurate and competitive pricing in the job quote market
+- Well stocked warehouse with a wide variety of electrical materials
+- Prompt delivery to any jobsite
+- Expert lighting layout, lumen and efficiency improvement services
 
 ## Capabilities
 - Electrical product distribution
-- Warehouse stocking and inventory management
-- Job-site delivery
-- Will-call pickup
-- Lighting design and layout
-- Energy-efficiency consulting
 - Job quote pricing
-- Product lines: Pass & Seymour Plug Tails, Lutron RadioRA 2, Alcan FeederPlex
+- Lighting and gear package assembly
+- Lighting layout and lumen calculation
+- Energy efficiency upgrade consulting
+- Warehouse stocking and inventory management
+- Jobsite delivery
+- Will-call pickup
 
 ## Industries
 - Electrical construction
-- Commercial construction
-- Residential construction
+- Commercial electrical
+- Residential electrical
 - Utility
-- Industrial
+- Industrial electrical
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -446,18 +434,18 @@ Leadership cites superior service as the core differentiator, coupled with a com
 
 <details><summary>Sources</summary>
 
-- Founded in 1950 by Kenneth L. Duncan -> /, /about
-- Headquarters in Bountiful/West Bountiful, Utah -> /
-- Independent electrical distributor -> /
-- Serves commercial, residential, utility, and industrial markets -> /about
-- Maintains a well-stocked warehouse -> /
-- Offers prompt job-site delivery -> /
-- Provides lighting design, layout, lumen calculations, and energy-efficiency upgrades -> /about
-- Focus on accurate and competitive job-quote pricing -> /about
-- Featured product lines: Pass & Seymour Plug Tails, Lutron RadioRA 2, Alcan FeederPlex -> /
-- Location 30 minutes from Salt Lake City and Ogden -> /about
-- Superior service is number one goal -> /
-- Goal to remain in business for another 60 years, treating every customer as essential -> /about
+- Founded 1950 by Kenneth L. Duncan -> db, /, /about
+- Headquarters West Bountiful/Bountiful, Utah -> db, /, /about
+- Independent electrical distributor -> /, /about
+- Serves commercial, residential, utility, industrial markets -> /, /about
+- Well stocked warehouse -> /, /about
+- Prompt delivery / jobsite delivery -> /, /about
+- Featured products: Pass & Seymour Plug Tails, Lutron RadioRA 2, Alcan FeederPlex -> /
+- Lighting and gear packages for contractors -> /about
+- Lighting layout, lumen and efficiency improvement expertise -> /about
+- Focus on accurate competitive pricing in job quote market -> /, /about
+- Superior service is number one goal -> /, /about
+- Located 30 min from Salt Lake City and Ogden -> /about
 </details>
 
 ---
@@ -467,29 +455,31 @@ Leadership cites superior service as the core differentiator, coupled with a com
 **Old description:** The facility, located in the Texoma area of Oklahoma, is named after the city of Durant. Currently the facility has over 30,000 square feet of manufacturing, warehousing and distribution sitting on 5 acres. The small town setting of Durant
 
 ## About
-Durant Plastics & Manufacturing operates from a 30,000-square-foot facility on five acres in Durant, Oklahoma, part of the Texoma region near the Texas border. The company began operations in February 2005, establishing a custom molding shop that leverages the area's stable workforce and proximity to Dallas (95 miles), Oklahoma City (125 miles), and Tulsa (150 miles).
+Durant Plastics & Manufacturing operates from a 30,000-square-foot facility on five acres in Durant, Oklahoma, in the Texoma region roughly 95 miles north of Dallas. The company began operations in February 2005, founded to provide custom injection molding services; no individual founders or ownership structure are disclosed in public materials.
 
-The shop runs seven injection molding machines ranging from 45 to 760 tons of clamping force, supported by an in-house tooling and engineering department that uses modern design software for mold design, fabrication, and engineering changes. Beyond molding, the company produces conveyors and assembly tables, and offers tooling and quality services from the same campus that combines manufacturing, warehousing, and distribution.
+The production floor houses seven injection molding machines with clamping forces from 45 to 760 tons, complemented by an in-house tooling and engineering department that uses modern design software for mold design, manufacturing, and engineering modifications. The facility integrates manufacturing, warehousing, and distribution. While the company lists conveyors and assembly tables among its product offerings, its primary focus is custom molding projects.
 
-Durant Plastics serves customers needing custom molded components and related tooling, though the company does not publicly list specific industry sectors or named clients. Its capabilities are positioned for projects that require both mold development and production runs on mid-to-large tonnage presses.
+Specific industries or customer names are not published. The Durant location offers a stable workforce and highway access to Dallas, Oklahoma City (125 miles), and Tulsa (150 miles), supporting regional and national shipping.
 
-The company emphasizes a service philosophy of "taking care of our customers so that someone else will not have to," and points to its local workforce and integrated tooling-to-production flow as reasons customers stay.
+The company states its differentiator is a service mindset, emphasizing that they take care of customers so competitors won't have to. It also highlights the quality of its local workforce as a competitive advantage.
 
 ## Known for
-- Seven injection molding machines from 45 to 760 tons
-- In-house tooling and engineering department with design software for mold design, build, and modifications
-- 30,000+ sq ft facility combining manufacturing, warehousing, and distribution on five acres
-- Customer-service focus: 'taking care of our customers so that someone else will not have to'
+- Seven injection molding machines (45–760 ton) in-house
+- Integrated tooling/engineering department with mold design and modification capabilities
+- 30,000+ sq ft facility combining manufacturing, warehousing, and distribution
+- Customer-first service philosophy emphasized by management
+- Strategic Texoma location with access to Dallas, OKC, and Tulsa
 
 ## Capabilities
-- Injection molding (45-760 tons)
-- Tooling services (design, manufacturing, engineering modifications)
+- Injection molding (45–760 ton)
+- Tooling design and manufacturing
+- Mold engineering modifications
 - Quality services
 - Custom molding services
-- Conveyor and assembly table manufacturing
+- Conveyor and assembly table production
 
 ## Equipment
-- 7 injection molding machines (45-760 tons)
+- 7 injection molding machines (45–760 ton)
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -498,14 +488,15 @@ The company emphasizes a service philosophy of "taking care of our customers so 
 
 <details><summary>Sources</summary>
 
-- Location: Durant, Oklahoma (Texoma area) -> /
-- Facility size: 30,000+ sq ft manufacturing, warehousing, distribution on 5 acres -> /
-- Founded: February 2005 -> /
-- Equipment: 7 injection molding machines 45-760 tons -> /
-- In-house tooling/engineering department with design programs -> /
-- Products: Conveyors & Assembly Tables -> /
-- Capabilities: Tooling Services, Quality Services, Injection Molding -> /
-- Customer service philosophy quote -> /
+- Located in Durant, Oklahoma (Texoma area) -> /
+- Facility: 30,000+ sq ft manufacturing, warehousing, distribution on 5 acres -> /
+- In operation since February 2005 -> /
+- 7 injection molding machines ranging 45-760 tons -> /
+- Tooling/engineering department with design programs for mold design and modifications -> /
+- Provides custom molding services -> /
+- Products: Conveyors & Assembly Tables -> db
+- Capabilities: Tooling Services, Quality Services, Injection Molding Machine -> db
+- Headquarters: Durant, Oklahoma -> db
 </details>
 
 ---
@@ -515,25 +506,25 @@ The company emphasizes a service philosophy of "taking care of our customers so 
 **Old description:** Dusenbery’s has served the Four-Corners area since 1937 and has always put our customers first. Running a business in a community like ours allows for close family-like relationships with our customers and helps you get what is best suited for you! We are stocked with a wide selection of various brands of trailers including Big-Tex, Aluma, Pace/Look, Wells Cargo, and 7 Sons. Come in today for all your auto needs too! We carry CarQuest and have everything you may need to keep your vehicle running great!
 
 ## About
-Dusenbery's Inc. has operated in Aztec, New Mexico, since 1937. The business serves the Four-Corners region and is run by members of the Dusenbery family — Bob, Bill, Jimmy, and Kent Dusenbery — along with Sheri Thrap and Dennis Hamilton. The company began as a local supplier and has maintained a community-focused approach for over eight decades.
+Dusenbery's Inc. has operated in Aztec, New Mexico, since 1937, serving the Four-Corners region from a single location. The business is run by members of the Dusenbery family—Bob, Bill, Jimmy, and Kent Dusenbery—alongside Sheri Thrap and Dennis Hamilton, reflecting a family-operated structure that has persisted for decades.
 
-The company functions as a distributor and retailer of trailers and automotive parts. Its trailer lineup includes brands such as Big-Tex, Aluma, Pace/Look, Wells Cargo, and 7 Sons. On the automotive side, it stocks CarQuest parts and accessories. The shop provides walk-in sales and product selection assistance for both trailer and vehicle maintenance needs.
+The company functions as a retailer and distributor, stocking a range of trailer brands including Big-Tex, Aluma, Pace/Look, Wells Cargo, and 7 Sons, as well as CarQuest automotive parts. The product lineup also includes Can-Am powersports vehicles. No manufacturing is performed on site; the operation focuses on sales and customer service for both consumer and commercial buyers.
 
-Customers range from individual vehicle owners to commercial operators in the Four-Corners area seeking trailers for hauling, recreation, or work. The business supplies equipment used in agriculture, construction, and general transportation, though specific industry segments are not detailed in its public materials.
+Customers are primarily local residents and businesses across the Four-Corners area seeking trailers, auto parts, and powersports equipment. The shop serves automotive repair needs, trailer hauling requirements, and recreational vehicle purchases, with no specific industrial sectors called out beyond those product categories.
 
-The company states it has always put customers first since its founding.
+Dusenbery's emphasizes its long-standing community presence and the personal, family-like relationships it builds with customers.
 
 ## Known for
-- Serving the Four-Corners area since 1937
-- Family-operated with a customer-first approach
-- Wide selection of trailer brands including Big-Tex, Aluma, Pace/Look, Wells Cargo, and 7 Sons
-- CarQuest auto parts inventory
+- Serving the Four-Corners region since 1937
+- Family-operated by multiple generations of the Dusenbery family
+- Stocks five major trailer brands (Big-Tex, Aluma, Pace/Look, Wells Cargo, 7 Sons)
+- CarQuest auto parts supplier
+- Offers Can-Am powersports vehicles
 
 ## Capabilities
-- Retail sales of trailers
-- Retail sales of automotive parts
-- Distribution of trailer brands (Big-Tex, Aluma, Pace/Look, Wells Cargo, 7 Sons)
-- Distribution of CarQuest auto parts
+- Trailer sales
+- Automotive parts sales
+- Powersports vehicle sales (Can-Am)
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -543,12 +534,12 @@ The company states it has always put customers first since its founding.
 
 <details><summary>Sources</summary>
 
-- Founded in 1937 -> db
-- Headquartered in Aztec, New Mexico -> db
-- Operated by Bob, Bill, Jimmy, and Kent Dusenbery, Sheri Thrap, and Dennis Hamilton -> /
-- Sells trailers from Big-Tex, Aluma, Pace/Look, Wells Cargo, and 7 Sons -> /, db
-- Carries CarQuest auto parts -> /, db
-- Emphasizes customer-first, family-like relationships -> /
+- Founded 1937, located in Aztec, NM -> db
+- Operated by Bob, Bill, Jimmy, Kent Dusenbery, Sheri Thrap, Dennis Hamilton -> page '/'
+- Sells trailers: Big-Tex, Aluma, Pace/Look, Wells Cargo, 7 Sons -> page '/'
+- Sells CarQuest auto parts -> page '/'
+- Sells Can-Am powersports -> page '/'
+- Family-like relationships with customers -> page '/'
 </details>
 
 ---

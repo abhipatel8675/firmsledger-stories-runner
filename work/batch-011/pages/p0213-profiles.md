@@ -3,49 +3,48 @@
 **Old description:** At Mountain Furniture Co., we’re a design-and-furnishings studio built around collaboration. We partner with architects and builders from the first sketch to the final install, aligning floor plans, finishes, and furniture so every detail works as beautifully as it looks. That close coordination means fewer surprises, smarter solutions, and spaces that feel considered from the studs out. We’re not just a furniture shop—and not just an interior design service—we’re the bridge that brings a team’s vision to life, cohesively and confidently.
 
 ## About
-Mountain Furniture Company operates as a design-and-furnishings studio in Lincoln, New Hampshire. The company collaborates with architects and builders from initial concept through final installation, aligning floor plans, finishes, and furniture so every detail functions as intended.
+Mountain Furniture Company operates as a design-and-furnishings studio in Lincoln, New Hampshire. The company collaborates with architects and builders from initial concept through final installation, aligning floor plans, finishes, and furniture to create cohesive residential spaces.
 
-The studio provides full-service furnishings procurement, sourcing handcrafted wood tables, seating, lighting, and soft finishes from a network of artisans and manufacturers. It also supplies and coordinates gas, wood, and electric fireplaces along with masonry options, managing specifications, venting, and finishes to integrate seamlessly with the project.
+The studio curates and supplies a range of residential furnishings, including handcrafted wood tables, seating, statement lighting, and soft finishes. It sources pieces from a network of skilled artisans and established manufacturers, and also specifies and coordinates fireplace installations—gas, wood, and electric units paired with masonry options. The team manages the entire process from design coordination through final installation.
 
-Mountain Furniture Company serves architects, builders, and residential clients seeking coordinated interior solutions. Its portfolio includes completed homes where layouts, materials, furniture, and hearths were synchronized with the project team from the studs out.
+Mountain Furniture Company serves architects, builders, and homeowners undertaking residential construction or renovation projects. Its project portfolio shows completed homes where the studio coordinated layouts, materials, furniture, and hearths with design and construction teams.
 
-The company positions itself as the bridge between design vision and execution, emphasizing that close coordination reduces surprises and delivers spaces that feel considered from the first sketch to the final install.
+The company positions itself as a bridge between design vision and execution, emphasizing that close coordination reduces surprises and delivers smarter, more considered spaces. It was founded on the premise that furnishings and architectural elements should be planned together from the studs out.
 
 ## Known for
-- Close coordination with architects and builders from sketch to install
-- Full-service furnishings sourcing from artisans and manufacturers
-- Fireplace specification, venting, and masonry integration
-- Project portfolio demonstrating coordinated residential interiors
+- End-to-end coordination from design sketch to final installation
+- Curated furnishings sourced from artisans and manufacturers
+- Fireplace specification and masonry coordination
+- Collaborative approach with architects and builders
+- Project portfolio demonstrating integrated residential projects
 
 ## Capabilities
 - Design collaboration with architects and builders
-- Full-service furnishings procurement
-- Fireplace sourcing and coordination (gas, wood, electric)
-- Masonry and venting coordination
-- Finish and material coordination
-- Project management from concept to installation
-- Portfolio development and project showcase
+- Furniture sourcing and curation
+- Fireplace specification and coordination
+- Full-service furnishings installation
+- Project management for residential interiors
+- Material and finish alignment
 
 ## Industries
+- Residential construction
 - Architecture
-- Construction
-- Residential interior design
-- Home furnishing
+- Interior design
 
 ## Company details
-- **Company Type:** Installer / service company
+- **Company Type:** Retailer
 - **Headquarters:** Lincoln, New Hampshire
 
 <details><summary>Sources</summary>
 
+- Company name: Mountain Furniture Company -> db
 - Location: Lincoln, New Hampshire -> db
-- Business model: design-and-furnishings studio -> /
-- Services: collaboration with architects and builders from sketch to install -> /
-- Services: full-service furnishings sourcing from artisans and manufacturers -> /
-- Services: fireplace sourcing and coordination (gas, wood, electric) with masonry and venting -> /
-- Target customers: architects, builders, residential clients -> /
-- Portfolio: completed homes with coordinated layouts, materials, furniture, hearths -> /
-- Differentiator: bridge between vision and execution, close coordination reduces surprises -> /
+- Business description: design-and-furnishings studio collaborating with architects and builders -> /
+- Services: full-service furnishings including handcrafted wood tables, seating, lighting, soft finishes -> /
+- Sourcing: furniture from skilled artisans and top manufacturers -> /
+- Fireplace offerings: gas, wood, electric units with masonry coordination -> /
+- Project portfolio: completed homes with coordinated layouts, materials, furniture, hearths -> /
+- Website: https://mountainfurnitureco.com/ -> db
 </details>
 
 ---
@@ -55,24 +54,24 @@ The company positions itself as the bridge between design vision and execution, 
 **Old description:** Mountain Mold & Die is a trusted plastic injection molding services company based in Sevierville, TN. We provide precise injection molding services, specializing in materials such as acetal, nylon, PVC, and TPE. With state-of-the-art equipment and skilled staff, we deliver top-tier plastic parts with exacting standards.
 
 ## About
-Mountain Mold & Die operates from Sevierville, Tennessee, providing plastic injection molding services to a range of industrial clients. The company does not disclose its founding year, ownership structure, or founders in the available materials, nor does it describe how the business began. Its facility houses a range of injection molding equipment calibrated for precision work.
+Mountain Mold & Die Inc operates from Sevierville, Tennessee, where it provides plastic injection molding services. The company’s founding year and ownership structure are not publicly disclosed, and no founders are named in available sources.
 
-The shop runs injection molding presses ranging from 35 to 250 tons, producing precision parts with finished dimensions held to a 0.02 mm tolerance. Materials processed include acetal, nylon, PVC, and TPE. The product lineup features job trays, stock survey caps, and custom survey caps, all manufactured in-house. The company describes its approach as streamlined solutions for complex manufacturing needs.
+The shop runs injection molding presses ranging from 35 to 250 tons of clamping force, producing precision parts with tolerances as tight as 0.02 mm. It works with engineering resins including acetal, nylon, PVC, and TPE, and its catalog lists standard items such as job trays, stock survey caps, and custom survey caps. The company describes its equipment as state‑of‑the‑art and its staff as skilled, though specific machine models, facility size, and headcount are not provided.
 
-Customers come from surveying, ophthalmology, and general manufacturing sectors. The company positions itself as a service provider for precision plastic components across these industries, offering services that span from tooling to finished part production. It highlights expertise in diverse material applications as a key benefit.
+Customers come from surveying, ophthalmology, and general manufacturing sectors, relying on the company for both custom and stock components. The firm highlights its ability to handle diverse material applications and to streamline complex manufacturing needs for these industries.
 
-Mountain Mold & Die emphasizes its state-of-the-art equipment and skilled staff as the foundation for delivering plastic parts to exacting standards, framing its capability set around reliability and high-performance output. The company presents itself as a partner for high-precision injection molding projects.
+Mountain Mold & Die emphasizes its material expertise and ability to streamline complex manufacturing needs, positioning itself as a partner for high‑precision molding projects. Its stated differentiation rests on precision tolerance control, a broad tonnage range, and material versatility rather than on any single proprietary technology.
 
 ## Known for
-- Injection molding presses from 35 to 250 tons
-- Finished part tolerance of 0.02 mm
-- In-house production of job trays, stock survey caps, and custom survey caps
-- Processing of acetal, nylon, PVC, and TPE
+- 35–250 ton injection molding capacity
+- ±0.02 mm dimensional tolerance
+- Material expertise in acetal, nylon, PVC, and TPE
 
 ## Capabilities
-- Plastic injection molding
-- Precision molding (35-250 ton presses)
-- Tolerance control to 0.02 mm
+- Injection molding
+- Precision injection molding
+- Custom injection molding
+- High-precision parts manufacturing
 
 ## Industries
 - Surveying
@@ -80,22 +79,23 @@ Mountain Mold & Die emphasizes its state-of-the-art equipment and skilled staff 
 - Manufacturing
 
 ## Equipment
-- 35-250 ton injection molding presses
+- Injection molding machines (35–250 ton)
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Headquarters:** Sevierville, Tennessee
 
 <details><summary>Sources</summary>
 
-- Location: Sevierville, TN -> db (hq_city, hq_state_label) and page '/'
-- Plastic injection molding services -> db (description) and page '/'
-- Materials: acetal, nylon, PVC, TPE -> db (description) and page '/'
-- Press range: 35 to 250 tons -> page '/'
-- Tolerance: 0.02 mm -> page '/'
-- Industries: surveying, ophthalmology, manufacturing -> page '/'
-- Products: Job Trays, Stock Survey Caps, Custom Survey Caps -> page '/'
-- State-of-the-art equipment and skilled staff -> db (description) and page '/'
+- Headquarters in Sevierville, Tennessee -> db
+- Plastic injection molding services company -> db
+- Materials: acetal, nylon, PVC, TPE -> db
+- Injection molding capacity 35–250 tons -> pages:/
+- Tolerance ±0.02 mm -> pages:/
+- Industries served: surveying, ophthalmology, manufacturing -> pages:/
+- Featured product categories: Job Trays, Stock Survey Caps, Custom Survey Caps -> pages:/
+- State-of-the-art equipment and skilled staff claimed -> pages:/
+- Streamlined solutions for complex manufacturing needs claimed -> pages:/
 </details>
 
 ---
@@ -105,55 +105,40 @@ Mountain Mold & Die emphasizes its state-of-the-art equipment and skilled staff 
 **Old description:** MountPac has represented industry leading manufacturers of food processing, packaging and product inspection machines for over fifty years. From design through install and support our goal is to provide machinery and automation solutions to maximize your processing, sorting and packaging line efficiencies.
 
 ## About
-Mountain Pacific Machinery, Inc., doing business as MountPac, operates from Lake Oswego, Oregon. The company has represented manufacturers of food processing, packaging, and product inspection equipment for over fifty years, though a specific founding year is not publicly disclosed. Ownership details and founder names are not stated in available sources.
+Mountain Pacific Machinery, Inc., doing business as MountPac, operates from Lake Oswego, Oregon. The company has represented manufacturers of food processing, packaging, and product inspection equipment for over five decades.
 
-MountPac does not manufacture equipment itself; rather, it specifies, supplies, and integrates machinery from multiple manufacturers. Its scope covers design consultation, installation, and ongoing support for processing, sorting, and packaging lines. The firm maintains a sales team across Oregon, Washington, Montana, Idaho, Utah, Colorado, and Wyoming, along with a dedicated aftermarket parts and field service group.
+MountPac does not manufacture equipment itself; instead, it provides machinery and automation solutions by representing product lines that include sizing and grading systems, de-clumpers and singulators, washing and peeling machines, sensor-based sorters for whole produce, color and shape sorters for dry and wet products, elevating and distribution conveyors, pre-made pouch fillers and sealers, and inspection systems for defect and foreign-material removal. The firm supports projects from initial design through installation and ongoing service, maintaining a dedicated parts and field-service team.
 
-The company serves food processors handling fresh, frozen, and dry products — including fruits, vegetables, pulses, seeds, and dehydrated items. Applications range from sizing and grading to de-clumping, washing, peeling, optical sorting, conveying, and pouch filling and sealing. Customers also rely on MountPac for inspection systems that remove defects and foreign material.
+The solutions target food processors handling fresh, frozen, and dry products — including fruits, vegetables, pulses, seeds, dehydrated vegetables, IQF vegetables, potato salads, and ready-meal trays. Customers range from vegetable and fruit packers to snack-food and prepared-meal manufacturers across the western United States, with sales territories covering Oregon, Washington, Idaho, Montana, Utah, Colorado, and Wyoming.
 
-MountPac emphasizes a design-through-support model aimed at maximizing line efficiency, leveraging long-standing relationships with equipment builders to deliver integrated automation solutions.
+MountPac states its goal is to maximize processing, sorting, and packaging line efficiencies through a full lifecycle approach that combines design, installation, and long-term support.
 
 ## Known for
-- Design through install and support for processing, sorting, and packaging lines
-- Over fifty years representing manufacturers of food processing equipment
-- Dedicated aftermarket parts and field service teams
-- Multi-state sales coverage across the Western U.S.
+- Full lifecycle support from design through installation and ongoing service
+- Over five decades representing industry-leading food processing equipment manufacturers
+- Dedicated aftermarket parts and field-service teams
+- Focus on maximizing line efficiency for processing, sorting, and packaging
+- Territory coverage across seven western states
 
 ## Capabilities
-- Equipment specification and selection
-- Systems integration
-- Installation and commissioning
+- Manufacturer representation for food processing equipment
+- Automation system design
+- Equipment installation
 - Aftermarket parts supply
-- Field service and repair
-- Process design consulting
-- Product sizing and grading
+- Field service and maintenance
+- Product sizing and grading solutions
 - De-clumping and singulating
 - Washing, scrubbing, and peeling
-- Optical sorting (color, shape, defect detection)
-- Product conveying and elevating
+- Sensor-based whole product sorting
+- Color and shape sorting (dry, wet, frozen)
+- Product elevating, feeding, and distribution conveying
 - Pre-made pouch filling and sealing
-- Foreign material inspection
+- Product inspection (defect and foreign material removal)
 
 ## Industries
 - Food processing
-- Food packaging
+- Packaging
 - Product inspection
-- Fruit and vegetable processing
-- Frozen food processing
-- Dry food processing
-- Pulse and seed processing
-- Dehydrated food processing
-
-## Equipment
-- Product Sizing & Grading Solutions
-- De-Clumpers / Product Singulators / Breakers
-- Washing, scrubbing, and product peeling machines
-- Ingenuity and Raynbow sensor-based whole product sorters
-- Series color and shape sorters for dry products
-- Series color and shape sorters for wet and frozen products
-- Product Lifting Conveyor (S and C configurations)
-- Pre-made pouch filling and sealing machines
-- Defect and foreign material removal sorters
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -161,12 +146,14 @@ MountPac emphasizes a design-through-support model aimed at maximizing line effi
 
 <details><summary>Sources</summary>
 
-- MountPac represents manufacturers of food processing, packaging, and product inspection machines -> db, /
-- Headquartered in Lake Oswego, Oregon -> db
-- Sales team includes Jeff Smith, Jarod Smotherman, Tyler Larson, Josh Wiechman -> /about-us
-- Parts & service team includes Ann Beaudry, Kelly Roberts, Scott Thompson -> /about-us
-- Provides design through install and support for machinery and automation solutions -> db, /
-- Product categories: sizing/grading, de-clumpers, washing/scrubbing/peeling, sorters, conveyors, pouch filling/sealing, inspection -> db
+- Company name and location -> db
+- Representing manufacturers for over fifty years -> db
+- Goal to provide machinery and automation solutions from design through install and support -> db
+- Sales team members and territories -> /about-us
+- Parts and service team members -> /about-us
+- Product categories (sizing/grading, de-clumpers, washing/peeling, sensor sorters, color/shape sorters, conveyors, pouch filling/sealing, inspection) -> db
+- Industries served (food processing, packaging, product inspection) -> db
+- Specific applications (IQF vegetables, potato salad, ready meal trays) -> db
 </details>
 
 ---
@@ -176,26 +163,28 @@ MountPac emphasizes a design-through-support model aimed at maximizing line effi
 **Old description:** We are an Electrical Manufacturer Representative servicing all of New Mexico, Colorado, Eastern Wyoming and El Paso, TX
 
 ## About
-Mountain States Agency LLC was founded in 2012 in the historic town of Bernalillo, New Mexico. The company operates as a manufacturer’s representative agency for electrical products, led by principals Samantha Barnes and James Ross. From its start, the firm focused on building relationships across a territory that spans New Mexico, Colorado, eastern Wyoming, El Paso, Texas, and Scottsbluff, Nebraska.
+Mountain States Agency LLC was founded in 2012 in Bernalillo, New Mexico. The company operates as an independent manufacturer's representative agency for electrical products, serving a territory that spans New Mexico, Colorado, eastern Wyoming, El Paso, Texas, and Scottsbluff, Nebraska. Ownership structure and founders are not publicly disclosed.
 
-The agency represents a roster of electrical manufacturers, providing product line management, territory sales coverage, and technical support. Its team of roughly a dozen professionals includes dedicated product line managers for each represented line, a vice president of operations, and inside sales and marketing staff. The company does not manufacture products itself; instead, it acts as the local sales and engineering interface for brands such as Eaton Crouse‑Hinds, EPCO, and Eaton Bussmann series.
+The agency provides sales representation and product line management for electrical manufacturers, connecting them with distributors, contractors, and end users. The firm does not manufacture products itself but acts as the local sales engine for its principals.
 
-Customers served include electrical distributors, contractors, and end users in the commercial, industrial, and utility sectors. The agency’s manufacturers specialize in areas such as energy‑efficient lighting control, surge protection, and pre‑fabricated power equipment. By aligning with these product lines, Mountain States Agency addresses needs ranging from lighting retrofits to motor starter protection across its multi‑state footprint.
+The company focuses on energy-efficient lighting control and broader electrical product categories. Its customer base includes manufacturers seeking market access, electrical distributors stocking product lines, contractors specifying equipment, and end users in commercial, industrial, and institutional projects. Concrete examples from the agency's line card include non-armored glands, pre-fabricated power equipment whips, surge protection devices, and dimming and sensor solutions.
 
-The founders built the business on a philosophy of “hard work and superior customer service,” aiming to deliver value and solutions in what they describe as the most ethical manner. That relationship‑driven approach, combined with deep product knowledge, remains the core of its market position.
+The agency states its mission is to bring value and solutions to manufacturers, distributors, contractors, and end users in the most ethical manner, emphasizing hard work and superior customer service as the foundation of its growth since 2012.
 
 ## Known for
-- Founded on hard work and superior customer service
-- Ethical, relationship-driven representation for manufacturers and distributors
-- Dedicated product line managers for each represented brand
-- Multi-state territory coverage across the Mountain West
+- Ethical representation of manufacturers, distributors, contractors, and end users
+- Superior customer service and hard work as founding principles
+- Local sales coverage across New Mexico, Colorado, eastern Wyoming, El Paso TX, and Scottsbluff NE
+- Dedicated product line managers for each manufacturer represented
 
 ## Capabilities
-- Manufacturer representation for electrical products
+- Manufacturer representation
 - Product line management
-- Territory sales coverage
-- Technical sales support
-- Marketing and administrative support
+- Territory sales management
+- Inside sales support
+- Marketing support
+- Technical support for electrical products
+- Specification assistance
 
 ## Industries
 - Energy-efficient lighting control
@@ -203,24 +192,23 @@ The founders built the business on a philosophy of “hard work and superior cus
 - Electrical products
 
 ## Certifications
-- ULLISTED
+- UL Listed
 
 ## Company details
-- **Company Type:** Other
+- **Company Type:** Manufacturer's representative agency
 - **Founded:** 2012
 - **Headquarters:** Bernalillo, New Mexico
 
 <details><summary>Sources</summary>
 
 - Founded in 2012 -> /
-- Headquartered in Bernalillo, New Mexico -> db
-- Principals: Samantha Barnes, James Ross -> /about-us
-- Team includes product line managers, VP of Operations, inside sales and marketing -> /about-us
-- Territories: New Mexico, Colorado, Eastern Wyoming, El Paso TX, Scottsbluff NE -> /
-- Represents manufacturers such as Eaton Crouse-Hinds, EPCO, Eaton Bussmann series -> /
-- Mission: bring value and solutions in ethical manner -> /
-- Industries: Energy-efficient lighting control -> db
-- Certification: ULLISTED -> db
+- Headquarters in Bernalillo, NM -> /
+- Service territory: New Mexico, Colorado, Eastern Wyoming, El Paso TX, Scottsbluff NE -> /
+- Team includes principals, VPs, outside sales, product line managers -> /about-us
+- Represents manufacturers such as Eaton Crouse-Hinds, EPCO, Eaton Bussmann -> /
+- Industry focus: Energy-efficient lighting control -> db
+- Certification: UL Listed -> db
+- Mission: bring value and solutions ethically -> /
 </details>
 
 ---
@@ -230,35 +218,32 @@ The founders built the business on a philosophy of “hard work and superior cus
 **Old description:** Mountain Wire Rope Service is a family owned business from central Pennsylvania. Dale R. Walters began his career in the wire rope business in 1968 at Paulsen Wire Rope Corp., Sunbury Pa. In 1984 he ventured out on his own, and Mountain Wire Rope Service was born. Dale's daughter, Whitney Walters-Anderson, apprenticed under her father and works as a wire rope inspector. Her husband, JT Anderson, also apprenticed under Dale and now works as a splicer and inspector. They both have over 20 years of experience, and with Dale's passing in October of 2014, Whitney and JT took over the business. Mountain Wire Rope Service specializes in aerial ropeway wire rope, splicing, inspections, sales, and
 
 ## About
-Mountain Wire Rope Service is a family-owned business based in Selinsgrove, Pennsylvania. The company traces its roots to 1984 when Dale R. Walters, who had worked in the wire rope industry since 1968 at Paulsen Wire Rope Corp. in Sunbury, founded the firm. After Walters' death in October 2014, his daughter Whitney Walters-Anderson and her husband JT Anderson took over ownership; both had apprenticed under Dale and each brings more than 20 years of experience as a wire rope inspector and splicer.
+Mountain Wire Rope Service is a family-owned business based in Selinsgrove, Pennsylvania. Founded in 1984 by Dale R. Walters after a career at Paulsen Wire Rope Corp. beginning in 1968, the company passed to his daughter Whitney Walters-Anderson and her husband JT Anderson following Dale's death in 2014. Both apprenticed under Dale and each bring over 20 years of experience as wire rope inspectors and splicers.
 
-The company specializes in aerial ropeway wire rope, offering splicing, repairs, inspections, magnetic rope testing, and sales of wire rope and lubricants. Operating from its central Pennsylvania location, the team travels worldwide to service wire rope from Maine to Jamaica. They inspect approximately 2 million feet of wire rope annually and, on a peak winter day, have 350 million people riding on lifts serviced by Mountain Wire Rope.
+The company specializes in aerial ropeway wire rope, offering splicing, repairs, inspections, magnetic rope testing, and sales of wire rope and lubricants. Technicians travel globally from Maine to Jamaica, servicing 135 ski areas and 10 amusement parks and aerial trams across the Caribbean. Annual inspection volume reaches 2 million feet of wire rope, and on peak winter days the firm's serviced lifts carry 350 million passengers.
 
-The primary customers are ski areas, amusement parks, and aerial tram operators. The firm currently services 135 ski areas and 10 amusement parks and aerial trams throughout the Caribbean, providing on-site inspection, splicing, and testing services.
+Primary customers are ski resorts, amusement parks, and aerial tram operators. The service roster includes 135 ski areas and 10 amusement parks and aerial trams throughout the Caribbean, with additional work in the northeastern United States.
 
-Mountain Wire Rope Service distinguishes itself through its deep specialization in aerial ropeway applications and its ability to deploy inspection and splicing crews globally. The business was built on Dale Walters' decades of industry experience and continues as a family-led operation focused on wire rope safety and reliability.
+The business was built on Dale Walters' vision to provide specialized wire rope expertise for aerial ropeways, a focus continued by the second generation through hands-on inspection and splicing services backed by decades of field experience.
 
 ## Known for
-- Services 135 ski areas and 10 amusement parks/aerial trams across the Caribbean
+- Global service from Maine to Jamaica
+- Serves 135 ski areas and 10 amusement parks and aerial trams in the Caribbean
 - Inspects 2 million feet of wire rope annually
-- Family-owned with second-generation leadership since 2014
-- Provides magnetic rope testing and wire rope lubricant sales
-- Deploys splicing and inspection crews worldwide from Maine to Jamaica
+- Family-owned with three generations of wire rope expertise
 
 ## Capabilities
-- Wire rope splicing
-- Wire rope repairs
-- Wire rope inspections
-- Magnetic rope testing
-- Wire rope sales
-- Wire rope lubricant sales
-- Aerial ropeway wire rope services
+- Splicing
+- Repairs
+- Inspections
+- Magnetic Rope Testing
+- Wire Rope Sales
+- Wire Rope Lube Sales
 
 ## Industries
 - Ski areas
 - Amusement parks
 - Aerial trams
-- Aerial ropeway
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -268,15 +253,16 @@ Mountain Wire Rope Service distinguishes itself through its deep specialization 
 
 <details><summary>Sources</summary>
 
-- Family-owned business founded in 1984 by Dale R. Walters -> /
-- Dale Walters began career in 1968 at Paulsen Wire Rope Corp. -> /
+- Founded in 1984 by Dale R. Walters -> /
+- Family-owned business in Selinsgrove, Pennsylvania -> /
 - Whitney Walters-Anderson and JT Anderson took over in 2014 -> /
 - Specializes in aerial ropeway wire rope, splicing, inspections, sales, magnetic rope testing -> /
-- Services 135 ski areas, 10 amusement parks and aerial trams throughout Caribbean -> /
-- Inspects 2 million feet of wire rope yearly -> /
-- On busy winter day, 350 million people in air on serviced lifts -> /
 - Services: Splicing, Repairs, Inspections, Magnetic Rope Testing, Wire Rope Sales, Wire Rope Lube Sales -> /services
-- Headquarters: Selinsgrove, Pennsylvania -> db
+- Services 135 ski areas, 10 amusement parks and aerial trams throughout the Caribbean -> /
+- Inspects 2 million feet of wire rope yearly -> /
+- On busy winter day 350 million people in the air on serviced lifts -> /
+- Headquarters: Selinsgrove, PA -> db
+- Founded year 1984 -> /
 </details>
 
 ---
@@ -286,24 +272,25 @@ Mountain Wire Rope Service distinguishes itself through its deep specialization 
 **Old description:** One of The Nation's Best Fabrication & Machining Operations Since 1923
 
 ## About
-Mountaineer Fabricators Inc. was founded in 1923 in Nitro, West Virginia. The company began as a family-owned operation and was purchased from the original family owners in 2004, relocating to newly constructed facilities in Nitro.
+Mountaineer Fabricators Inc was founded in 1923 as a family-owned fabrication business. In 2004, the company was acquired and moved into a newly constructed facility in Nitro, West Virginia, where it operates today.
 
-The company designs and manufactures ASME pressure vessels, pre-fabricated piping assemblies, and modular skidded process units. Its in-house shop provides plate rolling, engine lathe work, horizontal and vertical boring, CNC milling and drilling, and surface grinding. Pressure testing capabilities include hydrostatic, pneumatic, helium leak detection, and nitrogen sensitive leak services. An engineering department uses Compress® by Codeware and AutoCAD for ASME Section VIII Division 1 design calculations.
+The company designs and manufactures ASME-code pressure vessels, pre-fabricated piping assemblies, and modular skidded process units. Its in-house shop provides plate rolling, engine lathe turning, horizontal and vertical boring, CNC milling and drilling, surface grinding, and a full suite of pressure testing including hydrostatic, pneumatic, helium leak detection, and nitrogen sensitive leak methods. Welders are qualified to ASME Section IX and API-1104, and the engineering department performs ASME Section VIII Division 1 design calculations using Compress software alongside AutoCAD drafting. The facility handles piping diameters from 1/4 inch to 120 inches and maintains ASME U, R, S, and NB stamps for fabrication and repair.
 
-Mountaineer serves the oil and gas, power, chemical, and natural gas industries with prefabricated piping assemblies, launchers and receivers, and valve settings that reduce field construction costs. Additional markets include air separation, steam piping, oxygen and nitrogen production, food processing, Kevlar production, glass wool manufacturing, and data center infrastructure.
+Mountaineer Fabricators serves the oil and gas, power generation, chemical processing, and natural gas industries, as well as air separation, steam piping, oxygen and nitrogen production, heat exchanger, glass wool, data center, food processing, and Kevlar-related sectors. Its prefabricated piping assemblies, launchers and receivers, and valve settings are used to reduce field construction costs for customers in those markets.
 
-The company holds ASME U, R, and S stamps plus the NB stamp, and its welders are certified to ASME Section IX and API-1104.
+It emphasizes the combination of modern equipment and a tenured, cross-trained team to achieve extreme precision across diverse industries.
 
 ## Known for
-- ASME U, R, S and NB stamps for pressure vessel fabrication and repair
+- ASME U, R, S, and NB stamps for pressure vessel fabrication and repair
 - Welders certified to ASME Section IX and API-1104
-- In-house engineering with Compress® and AutoCAD for ASME Section VIII Division 1 design
-- Full-service prefabricated piping: isometric drawings, material procurement, fabrication, NDE, hydrostatic testing, blasting, coating
-- Assemblies used by oil, power, chemical, and natural gas industries to reduce construction cost
+- In-house engineering with Compress and AutoCAD for ASME Section VIII design
+- Prefabricated piping from 1/4" to 120" with full inspection and testing
+- Complete in-house fabrication, inspection, hydrostatic testing, blasting, and coating
 
 ## Capabilities
-- Pressure vessel fabrication
-- Piping assembly fabrication
+- Pressure vessel fabrication (ASME U, R, S stamps)
+- Pressure vessel repair (NB stamp)
+- Pre-fabricated piping assemblies (1/4" to 120")
 - Skidded process unit fabrication
 - Launcher and receiver fabrication
 - Process tower fabrication
@@ -317,48 +304,36 @@ The company holds ASME U, R, and S stamps plus the NB stamp, and its welders are
 - Storage tank fabrication
 - Meter run fabrication
 - Plate rolling
-- Engine lathe machining
+- Engine lathe turning
 - Horizontal and vertical boring mill machining
 - CNC milling and drilling
 - Surface grinding
 - Pressure testing (hydrostatic, pneumatic, helium leak detection, nitrogen sensitive leak)
-- Pre-fabricated piping (1/4" to 120")
-- Weld, mechanical, and industrial engineering
+- Machine shop fabrication
 - Jacketed piping fabrication
-- ASME code vessel fabrication and repair
+- On-site weld, mechanical, and industrial engineering services
 
 ## Industries
-- Oil and gas
-- Air separation
-- Steam piping
-- Oxygen and nitrogen
-- ASME code vessels
-- Heat exchangers
-- Glass wool
-- Data centers
-- Food processing
-- Kevlar production
-- Power generation
-- Chemical processing
-- Natural gas
+- Oil/Gas Industry
+- Air Separation Industry
+- Steam Piping Industry
+- Oxygen & Nitrogen Industry
+- ASME Code Vessels Industry
+- Heat Exchangers Industry
+- Glass Wool Industry
+- Data Centers Industry
+- Food Industry
+- Kevlar Industry
+- Power Generation Industry
+- Chemical Processing Industry
 
 ## Equipment
 - Engine lathes
 - Horizontal boring mills
 - Vertical boring mills
-- CNC milling machines
-- CNC drilling machines
+- CNC milling and drilling machines
 - Surface grinders
-- Plate rolls
-- Hydrostatic test equipment
-- Pneumatic test equipment
-- Helium leak detection equipment
-- Nitrogen sensitive leak detection equipment
-- X-ray inspection equipment
-- Blasting equipment
-- Coating equipment
-- Compress® by Codeware
-- AutoCAD
+- Plate rolling machines
 
 ## Certifications
 - ASME U Stamp
@@ -366,31 +341,29 @@ The company holds ASME U, R, and S stamps plus the NB stamp, and its welders are
 - ASME S Stamp
 - NB Stamp
 - ASME Section IX
-- API 1104
+- API-1104
 - ASME Section VIII Division 1
-- API
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1923
-- **Ownership:** Private (formerly family-owned, purchased in 2004)
+- **Ownership:** Acquired in 2004 from original family owners
 - **Headquarters:** Nitro, West Virginia
 
 <details><summary>Sources</summary>
 
-- Founded 1923 -> db, page
-- Headquarters Nitro, West Virginia -> db, page
-- Purchased from original family owners in 2004, moved to newly constructed facilities -> page
-- ASME certified with U, R, S, NB stamps -> page
-- Welders certified to ASME Section IX and API-1104 -> page
-- Engineering design with Compress® and AutoCAD to ASME Section VIII Division 1 -> page
-- Fabricates pressure vessels, piping assemblies, skidded process units, launchers/receivers, heat exchangers, storage tanks -> page, db
-- Capabilities include CNC milling, boring, grinding, plate rolling, engine lathes -> db, page
-- Pressure testing: hydrostatic, pneumatic, helium leak, nitrogen sensitive leak -> db
-- Serves oil, gas, power, chemical, natural gas, air separation, steam piping, oxygen/nitrogen, food, Kevlar, glass wool, data centers -> db, page
-- Prefabricated piping from 1/4" to 120" -> page
-- Full-service piping: isometric drawings, procurement, fabrication, NDE, hydrotest, blast, coat -> page
-- Goal: best quality and cost, safe environment -> page
+- Founded 1923 -> db
+- Headquarters Nitro, WV -> db
+- Acquired 2004 from family owners -> /
+- ASME U, R, S, NB stamps -> /
+- Welders certified to ASME Section IX and API-1104 -> /
+- Engineering with Compress and AutoCAD for ASME Section VIII Division 1 -> /
+- Prefabricated piping 1/4" to 120" -> /
+- Industries: oil, power, chemical, natural gas -> /
+- Industries served list -> /
+- Capabilities list -> /
+- Equipment: engine lathes, boring mills, CNC milling, surface grinding -> /
+- Pressure testing services -> /
 </details>
 
 ---
@@ -400,53 +373,53 @@ The company holds ASME U, R, and S stamps plus the NB stamp, and its welders are
 **Old description:** Mr. Wok Foods, Inc. has been serving the Foodservice industry for nearly 15 years, operating from a HACCP-inspected facility in Las Vegas, is renowned for its commitment to quality and sustainability. We offer a diverse range of seafood products, ensuring the highest standards in freshness and taste.
 
 ## About
-Mr. Wok Foods, Inc. operates a 20,000-square-foot, HACCP-inspected facility in Las Vegas, Nevada. The company has served the foodservice industry for nearly 15 years, building a portfolio that spans seafood, meat, and heat-and-serve items.
+Mr. Wok Foods, Inc. operates a HACCP-inspected food fabrication facility in Las Vegas, Nevada. The company has served the foodservice industry for nearly 15 years from a 20,000-square-foot building. Ownership details and founding year are not publicly disclosed.
 
-The Las Vegas plant runs USDA- and FDA-inspected lines for raw COP (cut, onboard, packaged) seafood, including pollock, shrimp, mussels, and lobster sourced from China, India, Indonesia, Thailand, New Zealand, and Canada. It also fabricates beef, pork, and chicken into sliced, marinated, and breaded products such as carne asada, katsu, and Korean-style short ribs. A heat-and-serve line adds Beijing beef, tofu nuggets, breaded chicken and pork, and seafood mixes, while a Hispanic range covers chorizo, longanisa, cecina, and al pastor. Co-packing and private-label services are offered alongside the company's own Maxfield Seafood brand, which includes more than 20 imported items.
+The company fabricates a range of protein products including Raw COP (Cut, Onboard, Packaged) seafood such as pollock, shrimp, mussels, and lobster; USDA-inspected beef, pork, and chicken items sliced, cubed, marinated, or breaded; Hispanic-style chorizo, longanisa, cecina, and al pastor; and a heat-and-serve line of pre-cooked nuggets, beef, and seafood mixes. It also provides co-packing and private-label services for other brands.
 
-Customers include national distributors, supermarkets, restaurant operators, hotels and casinos, universities, retailers, prepared-food counters, specialty shops, butcher markets, and catering or pop-up ventures. The product mix is tailored for Asian and Latin American cuisines as well as mainstream foodservice channels.
+Customers include national distributors, supermarkets, restaurant operators, hotels and casinos, universities, retailers, hot-food lines, cafes, prepared-food counters, specialty shops, butchers, neighborhood markets, and catering or pop-up events.
 
-The company emphasizes wholesomeness, homemade-style quality, and sustainable sourcing, highlighting its BAP-certified supply chain and the rapid onboard processing that locks in freshness. Its HACCP and USDA oversight are presented as the foundation for consistent safety and taste.
+Mr. Wok Foods emphasizes quality and sustainability through HACCP and USDA/FSIS compliance, sourcing from certified overseas plants, and a focus on authentic Asian and Latin flavors.
 
 ## Known for
-- HACCP- and USDA-inspected 20,000 sq ft facility in Las Vegas
-- Raw COP seafood processed and packaged shortly after catch
-- Co-packing and private label services for foodservice brands
-- Specialty product lines for Asian and Latin American markets
-- BAP-certified, globally sourced seafood portfolio (over 20 Maxfield Seafood items)
+- HACCP-inspected facility in Las Vegas
+- 20,000 sq ft production facility
+- Co-packing and private label services
+- Specialty products for Asian and Latin markets
+- Raw COP seafood processed onboard
 
 ## Capabilities
 - Co-packing
 - Private labeling
-- Meat slicing and fabrication
-- Seafood cutting and packaging (Raw COP)
-- Heat-and-serve meal production
-- Hispanic specialty food production
-- Breaded and battered product manufacturing
-- Importing and global sourcing
-- HACCP plan implementation
-- USDA-inspected processing
+- Seafood fabrication (Raw COP: cut, onboard, packaged)
+- Meat fabrication (slicing, cubing, marinating, breading)
+- Hispanic product manufacturing (chorizo, longanisa, cecina, al pastor)
+- Heat-and-serve pre-cooked production
+- Seafood importing
+- HACCP-certified processing
+- USDA FSIS-inspected processing
 
 ## Industries
 - Foodservice
-- Food distribution
+- National distributors
 - Supermarkets
 - Restaurants
 - Hotels and casinos
 - Universities
-- Retail
+- Retailers
+- Hot food lines and cafes
 - Prepared foods
-- Specialty food stores
-- Butcher shops
-- Catering and events
-- Asian cuisine
-- Latin American cuisine
+- Specialty shops
+- Butchers and neighborhood markets
+- Catering and special events
+- Pop-up events
+- Asian and Latin markets
 
 ## Certifications
 - HACCP
 - USDA FSIS
 - FDA
-- BAP
+- Best Aquaculture Practices (BAP)
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -454,22 +427,16 @@ The company emphasizes wholesomeness, homemade-style quality, and sustainable so
 
 <details><summary>Sources</summary>
 
-- Headquarters: Las Vegas, NV -> db
-- Facility size: 20,000 sq ft -> /
-- HACCP certification -> db
-- USDA-inspected facility -> /
-- FDA-inspected products -> /
-- BAP certification -> /
-- Raw COP seafood processing -> /
-- Co-packing and private label services -> /
-- Meat fabrication (beef, pork, chicken) -> /
-- Heat-and-serve product line -> /
-- Hispanic specialty products (chorizo, longanisa, cecina, al pastor) -> /
-- Customer base: national distributors, supermarkets, restaurants, hotels, casinos, universities, retailers, prepared foods, specialty shops, butchers, catering -> /
-- Focus on Asian and Latin markets -> /
-- Imports over 20 Maxfield Seafood brand products -> /
-- Global sourcing from China, India, Indonesia, Thailand, New Zealand, Canada -> /
-- Operating for nearly 15 years -> db
+- Operates HACCP-inspected facility in Las Vegas, NV -> /
+- Facility size 20,000 sq ft -> /
+- Serving foodservice industry nearly 15 years -> db
+- Fabricates Raw COP seafood, USDA-inspected meats, Hispanic products, heat-and-serve items -> /
+- Offers co-packing and private label services -> /
+- Customers include national distributors, supermarkets, restaurants, hotels, casinos, universities, retailers, etc. -> /
+- Certifications: HACCP, USDA FSIS, FDA, BAP -> /
+- Imports seafood from China, India, Indonesia, Thailand, New Zealand, Canada -> /
+- Headquarters address: 3695 E post Rd, Las Vegas, NV 89120 -> /
+- Company type: Manufacturer (fabricates foods) -> /
 </details>
 
 ---
@@ -479,22 +446,21 @@ The company emphasizes wholesomeness, homemade-style quality, and sustainable so
 **Old description:** At Mrs. Petra Food, we are committed to delivering the highest quality products, adhering to all health and safety regulations, and consistently bringing the same delicious flavor to your table every time.
 
 ## About
-Mrs Petra Food operates from Orlando, Florida, producing a line of frozen potato-based products. The company sells directly to consumers through its e-commerce website, offering potato balls in four cheese varieties—Four Cheese, Cheddar, Mozzarella, and Traditional—as well as french fries.
-
-The product line centers on formed potato balls filled with cheese blends and straight-cut french fries, packaged in one-pound bags priced at $5.77 each. The operation handles potato processing, cheese filling, breading, frying, freezing, and packaging under its own brand. Facility size, headcount, and annual volumes are not disclosed.
-
-The company markets primarily to retail consumers via its online store, with recipe content suggesting home-cooking applications. No industrial or food-service customers are identified in the available information.
-
-Mrs Petra Food states its commitment to delivering the highest quality products, adhering to all health and safety regulations, and maintaining consistent flavor across batches.
+Mrs. Petra Food operates from Orlando, Florida, producing a line of frozen potato-based snacks. The company’s founding year and ownership structure are not publicly disclosed, nor are the names of its founders. The product lineup centers on potato balls sold in one-pound bags, offered in four varieties: Four Cheese, Cheddar Cheese, Mozzarella Cheese, and Traditional. The company also sells frozen french fries. Manufacturing processes, facility size, headcount, and annual volumes are not specified. Mrs. Petra Food reaches customers primarily through its own e-commerce website, shipping directly to consumers. The site also features recipe ideas such as cheesy bacon fries and salmon in white sauce, suggesting a home-cooking audience. No industrial or foodservice accounts are identified in the available information. The company states its commitment to delivering the highest quality products while adhering to all health and safety regulations, aiming to bring consistent flavor to every order.
 
 ## Known for
-- Commitment to highest quality products
-- Adherence to all health and safety regulations
-- Consistent flavor delivery across batches
+- Commitment to highest quality products and health/safety compliance
+- Consistent flavor across batches
+- Direct-to-consumer online sales
+- Four cheese-filled potato ball varieties
+- Recipe content for product usage ideas
 
 ## Capabilities
-- Potato ball manufacturing
-- French fry manufacturing
+- Potato ball production
+- French fry production
+- Cheese-filled variant production
+- Direct-to-consumer shipping
+- Recipe development
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -504,11 +470,11 @@ Mrs Petra Food states its commitment to delivering the highest quality products,
 
 - Company name: Mrs Petra Food -> db
 - Headquarters: Orlando, Florida -> db
-- Products: Potato Balls (Four Cheese, Cheddar, Mozzarella, Traditional) and French Fries -> /
-- Price: $5.77 per 1 LB package -> /
-- Direct-to-consumer e-commerce sales -> /
-- Recipes published on website -> /
-- Quality and safety commitment statement -> /
+- Products: Potato Balls (Four Cheese, Cheddar, Mozzarella, Traditional) and French Fries -> page "/"
+- E-commerce website selling directly to consumers -> page "/"
+- Recipes published on site (cheesy bacon fries, salmon in white sauce) -> page "/"
+- Quality and safety commitment statement -> page "/"
+- Capabilities listed as Potato Balls, French Fries -> db
 </details>
 
 ---
@@ -518,20 +484,20 @@ Mrs Petra Food states its commitment to delivering the highest quality products,
 **Old description:** Munot has been a custom thermoformer of plastic blisters, clamshells, and trays since 1963.
 
 ## About
-Munot Plastics Inc. operates from Erie, Pennsylvania, where it was founded in 1963 as a family-owned business. The company began as a custom thermoformer of plastic blisters, clamshells, and trays, and has remained under family ownership for over six decades.
+Munot Plastics Inc operates from Erie, Pennsylvania, where it has produced custom thermoformed packaging since 1963. The company remains family-owned, though the founders are not named in public materials.
 
-The firm provides end-to-end thermoformed packaging solutions, including custom design, in-house tooling design and manufacturing via CNC machining, diamond polishing, and production of blisters, clamshells, and trays. It works with a range of thermoforming materials such as PET, PETG, PVC, HDPE, HIPS, OPS, polypropylene, and post-consumer recycled plastics, and handles both short-run and production-volume orders.
+The firm specializes in plastic blisters, clamshells, and trays for retail, medical, food, and industrial applications. All design, tooling, and manufacturing occur in-house, including CNC-machined molds and diamond polishing. The plant runs both short-run and production-volume orders, working with materials such as PET, PETG, PVC, HDPE, HIPS, OPS, polypropylene, and post-consumer recycled content. Headcount and facility size are not disclosed.
 
-Munot serves manufacturers across retail, cosmetic, electronics, food, medical, hardware, automotive, toy, industrial, pet product, and sporting goods sectors. Its customers rely on the company for sterile barrier medical trays, food-safe packaging, retail blisters, and protective shipping solutions.
+Customers span consumer goods, cosmetics, electronics, food, medical devices, hardware, automotive, toys, industrial manufacturing, pet products, and sporting goods. The company serves manufacturers launching new products or redesigning packaging, offering reverse engineering of existing designs.
 
-The company emphasizes its single-source model, where engineering, tooling, and manufacturing occur under one roof to reduce delays and improve quality control. It cites competitive pricing without corporate overhead, a single point of contact, flexible volumes, reliable fulfillment, and sustainable material options as key differentiators.
+Munot emphasizes its family-owned structure as a source of competitive pricing without corporate overhead, a single point of contact for faster coordination, and reliable on-time delivery. Sustainable packaging options and flexible volumes are also highlighted as differentiators.
 
 ## Known for
-- Family-owned since 1963
+- Family-owned and operated since 1963
 - Complete in-house design, tooling, and manufacturing
-- Single point of contact for faster project coordination
-- Flexible production volumes from short-run to production
-- Reliable fulfillment and on-time delivery
+- Single-point-of-contact project coordination
+- Flexible production volumes from short-run to full production
+- Sustainable packaging options including post-consumer recycled materials
 
 ## Capabilities
 - Custom thermoformed plastic packaging
@@ -540,16 +506,16 @@ The company emphasizes its single-source model, where engineering, tooling, and 
 - Thermoformed trays
 - Custom packaging design and engineering
 - In-house thermoform tooling design
-- Thermoform tooling manufacturing (CNC machining)
-- A1 Diamond Polishing Services
+- Thermoform tooling manufacturing (CNC machined molds)
 - Packaging production
 - Fulfillment and logistics support
 - Short-run manufacturing
 - Production-volume manufacturing
 - Reverse engineering of existing packaging
+- A1 Diamond Polishing Services
 
 ## Industries
-- Retail
+- Retail and consumer goods
 - Cosmetic
 - Electronics
 - Food
@@ -560,10 +526,6 @@ The company emphasizes its single-source model, where engineering, tooling, and 
 - Industrial Manufacturing
 - Pet Products
 - Sporting Goods
-
-## Equipment
-- CNC machining for tooling
-- Diamond polishing equipment
 
 ## Certifications
 - ISO 9001
@@ -578,17 +540,19 @@ The company emphasizes its single-source model, where engineering, tooling, and 
 <details><summary>Sources</summary>
 
 - Founded 1963 -> db
-- Headquarters Erie, Pennsylvania -> db
-- Family-owned -> pages:/
-- ISO 9001 certified -> db
-- SQF certified -> pages:/
-- Custom thermoforming of blisters, clamshells, trays -> pages:/
-- In-house tooling design and manufacturing -> pages:/
-- Materials: PET, PETG, PVC, HDPE, HIPS, OPS, PP, PCR -> pages:/
-- Industries served: retail, cosmetic, electronics, food, medical, hardware, automotive, toys, industrial, pet products, sporting goods -> pages:/
-- Short-run and production-volume manufacturing -> pages:/
-- CNC machining for tooling -> pages:/
-- Diamond polishing services -> pages:/
+- Headquarters Erie, PA -> db
+- Family-owned -> page '/'
+- ISO 9001 certified -> db and page '/'
+- SQF certified -> page '/'
+- Custom thermoformer of blisters, clamshells, trays -> page '/'
+- In-house design, tooling, manufacturing -> page '/'
+- Materials: PET, PETG, PVC, HDPE, HIPS, OPS, PP, PCR -> page '/'
+- Industries served: retail, cosmetic, electronics, food, medical, hardware, automotive, toys, industrial, pet, sporting goods -> page '/'
+- Short-run and production-volume manufacturing -> page '/'
+- CNC machined molds -> page '/'
+- A1 Diamond Polishing Services -> page '/'
+- Reverse engineering -> page '/'
+- Fulfillment and logistics support -> page '/'
 - LinkedIn URL -> db
 </details>
 
@@ -599,39 +563,38 @@ The company emphasizes its single-source model, where engineering, tooling, and 
 **Old description:** Locally owned and operated. Murphy Electrical Services delivers dependable electrical solutions for homes, businesses, and agricultural operations across Eastern Iowa. Led by Travis Murphy, the company specializes in residential, new construction and upgrades, commercial electrical work, farm lighting, grain system wiring, and electrical troubleshooting. With a focus on reliability, safety, and practical solutions, Murphy Electrical provides quality workmanship you can trust.
 
 ## About
-Murphy Electrical Services operates from North English, Iowa, providing electrical contracting services across the eastern part of the state. The locally owned company is led by Travis Murphy, who founded the business on a commitment to reliable, practical electrical work for rural and small-town customers.
+Murphy Electrical Services operates from North English, Iowa, providing electrical contracting across Eastern Iowa. The business is locally owned and led by Travis Murphy, who oversees daily operations and project execution. No founding year is disclosed in available sources.
 
-The company handles residential, commercial, and agricultural electrical projects. Residential work includes panel upgrades, new wiring, lighting installation, outlet additions, generator installations, and EV charger circuits. Commercial services cover electrical installation, service upgrades, lighting systems, and troubleshooting for shops and businesses. Agricultural projects involve grain system wiring, livestock facility power, farm lighting, equipment hookups, and troubleshooting for farm operations. The firm also performs new construction wiring for homes, shops, agricultural buildings, and commercial projects.
+The company delivers residential, commercial, and agricultural electrical services. Its scope includes service upgrades, new construction wiring, electrical panel replacements, troubleshooting, and specialized installations such as home generators, EV chargers, farm lighting systems, and grain system wiring. Work is performed throughout Iowa County, Keokuk County, Johnson County, and the surrounding region.
 
-Murphy Electrical serves homeowners, business owners, and agricultural operators in Iowa County, Keokuk County, Johnson County, and surrounding communities. Typical customers include families needing service upgrades or generator backup, local shops requiring lighting and power distribution, and farms installing grain handling systems or yard lighting.
+Customers range from homeowners and local businesses to agricultural operations, including grain facilities and livestock farms. Recent project examples show residential generator installations, commercial wiring, and farm electrical work, illustrating the breadth of sectors served.
 
-The company says it was built on the values that keep rural Iowa running: hard work, reliability, and doing the job right the first time. It emphasizes practical solutions designed to keep systems running safely and efficiently, with attention to the equipment and environment of each project.
+The firm states it was built on values common to rural Iowa: hard work, reliability, and doing the job right the first time. It emphasizes practical, safe, and efficient solutions tailored to each project’s environment and equipment demands.
 
 ## Known for
-- Locally owned and operated
-- Focus on reliability, safety, and practical solutions
-- Built on hard work, reliability, and doing the job right the first time
-- Serves Iowa County, Keokuk County, Johnson County and surrounding areas
+- Locally owned and operated in Eastern Iowa
+- Led by owner Travis Murphy with hands-on involvement
 - Specializes in agricultural electrical systems including grain system wiring
+- Offers residential generator and EV charger installations
+- Focus on reliability, safety, and practical solutions
 
 ## Capabilities
-- Residential electrical services
-- Commercial electrical services
-- Agricultural electrical services
-- Service upgrades
-- New construction wiring
-- Electrical troubleshooting
-- Generator installations
+- Residential electrical service upgrades and repairs
+- Commercial electrical installation and troubleshooting
+- Agricultural electrical systems for grain facilities and livestock operations
+- New construction wiring for homes, shops, and farm buildings
+- Electrical panel replacements and service upgrades
+- Home generator installation
 - EV charger installation
-- Farm lighting systems
+- Farm lighting systems (yard lights, barn lighting)
+- Electrical troubleshooting and diagnostics
 - Grain system wiring
-- Panel upgrades
-- Lighting installation
 
 ## Industries
-- Residential
-- Commercial
-- Agricultural
+- Residential construction
+- Commercial construction
+- Agricultural operations
+- Farming and grain handling
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -640,16 +603,13 @@ The company says it was built on the values that keep rural Iowa running: hard w
 
 <details><summary>Sources</summary>
 
-- Locally owned and operated -> db
-- Led by Travis Murphy -> db
-- Serves Eastern Iowa -> db
-- Specializes in residential, commercial, agricultural electrical services -> db
-- Service areas: Iowa County, Keokuk County, Johnson County -> /about-us
-- Offers generator installations, EV charger installation -> /services
+- Location: North English, Iowa -> db
+- Owner/leader: Travis Murphy -> db description, /about-us
+- Services: residential, commercial, agricultural electrical -> /, /services
+- Service details: service upgrades, new construction wiring, generator installation, EV charger installation, farm lighting, grain system wiring -> /services
+- Areas served: Iowa County, Keokuk County, Johnson County, surrounding Eastern Iowa -> /about-us
 - Values: hard work, reliability, doing the job right the first time -> /about-us
-- Provides panel upgrades, new wiring, lighting installation -> /services
-- Handles grain system wiring, livestock facility power -> /services
-- Serves homeowners, business owners, agricultural operators -> /about-us
+- Recent project types: residential generator installations, commercial wiring, farm electrical -> /
 </details>
 
 ---

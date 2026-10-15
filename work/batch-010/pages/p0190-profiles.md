@@ -3,41 +3,39 @@
 **Old description:** is a contract manufacturer providing services to a wide variety of industries.
 
 ## About
-InterConnect Electronics is a woman-owned small business based in Elkridge, Maryland, within the Baltimore-Washington Industrial Corridor. The company was incorporated in 1990 and has operated for over 35 years as a contract manufacturer specializing in custom cable and harness assemblies.
+Inter-Connect Electronics was incorporated in 1990 in Elkridge, Maryland, within the Baltimore-Washington Industrial Corridor. The company was founded as a woman-owned small business (WOSB) and has operated continuously for over three decades as a contract manufacturer specializing in custom cable and harness assemblies.
 
-The firm produces custom cable and harness assemblies as well as electro-mechanical box builds, offering engineering support and design partnership from early concept through production. Its technicians follow WHMA-IPC soldering and assembly standards, with multiple IPC-certified specialists and an IPC trainer on staff. Strategic procurement practices and a 35-year vendor network enable sourcing of obsolete components.
+The firm produces custom cable and harness assemblies as well as electro-mechanical box builds, supporting projects from prototype development through small-batch and large production runs. Its technicians follow WHMA-IPC soldering and assembly standards, with multiple IPC Certified Specialists and an IPC Trainer on staff. Strategic procurement practices and a network of approved vendors enable the sourcing of obsolete components.
 
-InterConnect serves medical robotics equipment manufacturers, the car wash and car care industry across the U.S. and Europe, major U.S. defense contractors, OEMs, global manufacturing companies, and essential industries. Its customer base includes both domestic and international firms requiring high-reliability electronic assemblies.
+Inter-Connect serves medical robotics equipment manufacturers, the car wash and broader car care industry across the U.S. and Europe, major U.S. defense contractors, and other OEMs and essential businesses. Its customer base includes both domestic and global manufacturing companies.
 
-The company emphasizes three differentiators: traceability and test results on every job, a record of never missing a due date, and flexibility to handle orders from prototype through large production runs. It maintains ISO 9001:2015 certification and operates as a WOSB-certified, U.S.-based manufacturer.
+The company emphasizes traceability and test documentation on every job, a record of zero deficiencies and on-time delivery, and the flexibility to accept orders of any size. It highlights its U.S.-based manufacturing and woman-owned status as core differentiators.
 
 ## Known for
-- Never missed a due date
-- Traceability and test results on every job
+- Never missed a due date (on-time delivery record)
+- Zero deficiencies quality record
 - Prototype to large production runs with no minimum order size
 - IPC Certified Specialists and Trainer on staff
-- Woman-owned small business (WOSB) certified
+- Strategic procurement for obsolete components
 
 ## Capabilities
 - Custom cable and harness assemblies
 - Electro-mechanical box builds
-- Engineering and design partnership
 - IPC/WHMA soldering and assembly
+- Design for manufacturability consultation
 - Strategic procurement and obsolete component sourcing
-- Quality traceability and testing
-- Prototype, small batch, and large production runs
+- Traceability and test documentation
+- Certificates of Compliance
 
 ## Industries
 - Medical robotics equipment manufacturing
 - Car wash and car care industry
 - Defense contractors
-- OEMs
-- Global manufacturing companies
+- OEMs (original equipment manufacturers)
 - Essential industries
 
 ## Certifications
 - ISO 9001:2015
-- WOSB
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -47,13 +45,21 @@ The company emphasizes three differentiators: traceability and test results on e
 
 <details><summary>Sources</summary>
 
-- Founded 1990, woman-owned small business in Elkridge, MD -> /about
-- Specializes in custom cable and harness assemblies, electro-mechanical box builds -> /
-- ISO 9001:2015 certified, IPC certified specialists and trainer on staff -> /about
-- Serves medical robotics, car wash industry, defense contractors, OEMs -> db
-- Never missed a due date, traceability on every job, prototype to large production runs -> /
-- Located in Baltimore-Washington Industrial Corridor -> /
+- Founded 1990 -> db
+- Headquarters Elkridge, Maryland -> db
+- Woman-owned small business (WOSB) -> /about
+- ISO 9001:2015 certified -> /about
+- Custom cable and harness assemblies -> /
+- Electro-mechanical box builds -> /
+- IPC Certified Specialists and Trainer on staff -> /
 - Strategic procurement for obsolete components -> /
+- Never missed a due date -> /
+- Zero deficiencies -> /
+- Prototype to large production runs -> /
+- Industries: Medical robotics equipment manufacturing -> db
+- Industries: Car washes & car care industry -> db
+- Industries: Major U.S. defense contractors -> db
+- Location: Baltimore-Washington Industrial Corridor -> /about
 </details>
 
 ---
@@ -63,57 +69,52 @@ The company emphasizes three differentiators: traceability and test results on e
 **Old description:** Since 1992, ICI has consistently grown. We started one-line forge shop; now we have four lines.
 
 ## About
-International Crankshaft Inc. (ICI) operates from Georgetown, Kentucky, where it was founded in 1992 as a single-line forge shop. The company is now part of the Nippon Steel Corporation Group, the world's largest steel group by market capitalization. Since its founding, ICI has consistently grown from a one-line forge shop to a four-line operation.
+International Crankshaft Inc. (ICI) operates from Georgetown, Kentucky, where it was founded in 1992 as a single-line forge shop. The company is a subsidiary of Nippon Steel Corporation, the world's largest steel group by market capitalization, and has grown steadily since its inception.
 
-ICI specializes in crankshaft forging and has expanded to four high-speed production lines. Its equipment includes a 5,000-ton high-speed press installed in 2015 from Sumitomo Heavy Industries. In 2015 the company forged more than three million crankshafts for American cars and light trucks. The shift from casting to forging technology underscores its process expertise.
+ICI specializes in crankshaft forging for the North American automotive market. Over three decades it has expanded to four forging lines, including a 5,000-ton high-speed press installed in 2015 from Sumitomo Heavy Industries. In 2015 the plant produced more than three million crankshafts for American cars and light trucks, demonstrating high-volume capacity.
 
-The company serves the North American automotive sector, supplying crankshafts for passenger cars and light trucks. Its customer base includes major vehicle manufacturers and their tier-one suppliers.
+The company serves automotive original equipment manufacturers and tier-one suppliers, focusing on crankshafts for passenger cars and light trucks. Its customer base includes major North American vehicle producers that rely on ICI's forging expertise.
 
-ICI emphasizes a technology shift from casting to forging, citing forging's superior strength. It attributes its growth to award-winning technology and service, and describes teamwork as its primary engine for growth. The company has received awards from customers and the local community.
+ICI emphasizes a technology shift from casting to forging, citing forged crankshafts as stronger than cast alternatives. It holds IATF 16949 and ISO 14001 certifications and has received awards from customers and the local community for quality and service.
 
 ## Known for
-- Award-winning forging technology and service
-- Technology shift from casting to forging
-- Four high-speed forging lines including 5,000-ton press
+- Four forging lines including a 5,000-ton high-speed press (Sumitomo Heavy Industries)
 - Part of Nippon Steel Corporation Group
-- Teamwork-driven growth culture
+- IATF 16949 and ISO 14001 certified
+- Forged over 3 million crankshafts annually for North American automotive OEMs (2015)
 
 ## Capabilities
 - Crankshaft forging
-- High-speed press forging (5,000-ton)
-- Casting-to-forging conversion
+- High-speed press forging
+- Forging process conversion from casting
 
 ## Industries
-- Automotive
-- Light truck manufacturing
+- Automotive (cars and light trucks)
 
 ## Equipment
-- 5,000-ton High Speed Press (Sumitomo Heavy Industries, 2015)
-- Four forging production lines
+- 5000T High Speed Press (Sumitomo Heavy Industries)
 
 ## Certifications
-- ISO14001
-- IATF16949
+- ISO 14001
+- IATF 16949
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1992
-- **Ownership:** Part of Nippon Steel Corporation Group
+- **Ownership:** Subsidiary of Nippon Steel Corporation
 - **Headquarters:** Georgetown, Kentucky
 
 <details><summary>Sources</summary>
 
 - Founded 1992 -> db
 - Headquarters Georgetown, Kentucky -> db
-- Part of Nippon Steel Corporation Group -> /
-- Started as one-line forge shop, now four lines -> /
-- Forged over 3 million crankshafts in 2015 for American cars and light trucks -> /
-- Equipment: 5000T High Speed Press (Sumitomo Heavy Industries) -> /
-- Certifications: ISO14001, IATF16949 -> db
-- Capabilities: crankshaft forging, casting-to-forging conversion -> /
-- Industries: automotive, light trucks -> /
-- Award-winning technology and service -> /
-- Teamwork as primary engine for growth -> /
+- Subsidiary of Nippon Steel Corporation -> page "/"
+- Four forging lines -> page "/"
+- 5,000-ton high-speed press (Sumitomo Heavy Industries) installed 2015 -> page "/"
+- Produced over 3 million crankshafts in 2015 for American cars and light trucks -> page "/"
+- Certifications: ISO 14001, IATF 16949 -> db
+- Technology shift from casting to forging -> page "/"
+- Award-winning technology and service -> page "/"
 </details>
 
 ---
@@ -127,50 +128,49 @@ _skipped: not enough facts_
 **Old description:** Is your home Wi-Fi ready for the demands of a busy school year? If your household struggles to keep up with schoolwork, video calls, streaming, gaming, smart home devices and more, it might be time to upgrade to a faster Internet package. Contact us today to ensure your family has the smoothest online experience possible!
 
 ## About
-Interstate Telecommunications Cooperative (ITC) is a member-owned cooperative headquartered in Brookings, South Dakota. The company provides telecommunications services across its service territory, though its founding year and original founders are not publicly disclosed.
+Interstate Telecommunications Cooperative (ITC) operates from its headquarters in Brookings, South Dakota. The cooperative provides telecommunications services across its service territory, though the founding year and original founders are not publicly disclosed in the available materials.
 
-ITC delivers fiber-based internet, voice, and streaming television services to residential customers, while offering integrated voice and data solutions for businesses of all sizes. Its network supports managed Wi-Fi through the Blast Wi-Fi platform, which allows customers to choose between provider-managed or self-managed wireless networks. A proprietary benefit called SmartTown® extends Wi-Fi connectivity beyond the home. The cooperative also promotes paperless billing with incentive programs.
+ITC delivers a suite of communications services for both residential and business customers. Residential offerings include fiber-based internet, traditional phone service, and streaming television. For businesses, the cooperative provides integrated voice and data solutions, managed IT services, and a managed Wi-Fi platform branded as Blast Wi-Fi. A newer feature, SmartTown®, extends managed Wi-Fi access beyond the home. The company also handles the Federal Universal Service Charge adjustments as required by regulation.
 
-The cooperative serves both residential households and commercial clients, including small businesses and large corporations. Its business solutions encompass integrated voice and data packages tailored to organizational needs. The company also references Medicaid/Medical Assistance programs, suggesting engagement with healthcare-related customers.
+The customer base spans households and organizations of any size, from small businesses to large corporations. ITC participates in the Medicaid/Medical Assistance program, offering discounted internet service to qualifying subscribers. Business customers receive tailored voice and data packages, while residential users can choose from various internet speed tiers and streaming TV options.
+
+The cooperative emphasizes local management of Wi-Fi networks through Blast Wi-Fi, giving subscribers the choice of provider-managed or self-managed wireless. Paperless billing is incentivized with bill credits and prize drawings. These service differentiators reflect ITC’s focus on customer control and community-oriented service delivery.
 
 ## Known for
-- Fiber-Fast Internet infrastructure
-- Blast Wi-Fi managed or self-managed Wi-Fi options
-- SmartTown® extends Wi-Fi beyond the home
-- Paperless billing with instant $10 credit and ongoing rewards
+- Fiber-based internet service to residential and business customers
+- Blast Wi-Fi managed wireless platform with provider- or self-managed options
+- SmartTown® extending managed Wi-Fi access beyond the home
 - Integrated voice and data solutions for businesses of any size
+- Paperless billing with instant bill credit and prize incentives
 
 ## Capabilities
 - Fiber internet service
-- Voice services
+- Voice over IP (VoIP) phone service
 - Streaming television
 - Managed Wi-Fi (Blast Wi-Fi)
-- Self-managed Wi-Fi tools
-- SmartTown® Wi-Fi extension
-- Business voice solutions
-- Business data solutions
-- Paperless billing enrollment
-- E-Statement rewards program
+- SmartTown Wi-Fi extension
+- Managed IT services
+- Business voice and data solutions
+- Federal Universal Service Charge administration
 
 ## Industries
-- Healthcare (Medicaid/Medical Assistance)
-- Business telecommunications
 - Residential telecommunications
+- Business telecommunications
+- Healthcare (Medicaid/Medical Assistance)
 
 ## Company details
 - **Company Type:** Installer / service company
-- **Ownership:** Cooperative (member-owned)
+- **Ownership:** Cooperative
 - **Headquarters:** Brookings, South Dakota
 
 <details><summary>Sources</summary>
 
-- Headquartered in Brookings, South Dakota -> db
-- Provides fiber internet, voice, and streaming TV to residential customers -> page "/"
-- Offers integrated voice and data solutions for businesses -> page "/"
-- Operates Blast Wi-Fi managed Wi-Fi service -> page "/"
-- Offers SmartTown® Wi-Fi extension benefit -> page "/"
-- Promotes paperless billing with rewards -> page "/"
-- Serves Medicaid/Medical Assistance programs -> db industries_served
+- Company name and headquarters: db
+- Services and offerings: /
+- Medicaid/Medical Assistance program: /
+- Blast Wi-Fi and SmartTown features: /
+- Paperless billing rewards: /
+- Federal Universal Service Charge updates: /
 </details>
 
 ---
@@ -180,31 +180,28 @@ The cooperative serves both residential households and commercial clients, inclu
 **Old description:** You must have JavaScript enabled in your browser to utilize the functionality of this website.
 
 ## About
-Interstate Wire Co Inc has operated from Rockwall, Texas since its founding in 1977. The company began as a distributor of electronic and electrical wire, cable, and wire management products, building a catalog sourced from major manufacturers such as Belden, General Cable, Harbour Industries, and Thomas & Betts.
+Interstate Wire Co Inc was established in 1977 and is headquartered in Rockwall, Texas. The company operates as a distributor of electronic and electrical wire, cable, and wire management products, leveraging partnerships with manufacturers such as Belden, General Cable, Harbour Industries, and Thomas & Betts.
 
-Today the firm stocks a broad line that includes hook-up wire, multi-conductor cable, coaxial cables, portable cordage, flat cable, molded cable assemblies, and related wire management products. Beyond distribution, it runs full-service wire preparation operations—respooling, shrink-wrapping, twisting, and striping—as well as pre-production services such as light assembly and custom kitting to streamline customer workflows.
+The company's core offerings include hook-up wire, multi-conductor cable, coaxial cables, portable cordage, flat cable, molded cable assemblies, and related wire management products. Beyond distribution, Interstate Wire provides value-added wire preparation services such as respooling, shrink-wrapping, twisting, and striping, as well as pre-production preparation including light assembly and custom kitting to streamline customer workflows.
 
-The customer base spans automotive and transportation OEMs, power distribution sub-assemblers, building systems contractors, medical device makers, military and aerospace programs, marine builders, and mining and construction firms. In each sector the company supplies product that meets relevant ratings and traceability requirements.
+Interstate Wire serves a range of industries including automotive and transportation OEMs, power distribution (switchgear, control panels), building systems (electrical, HVAC, security, fire protection), medical devices, military and aerospace, marine, and mining and construction. Its customers include OEMs and sub-assemblers requiring high-quality wire and cable for demanding applications.
 
-Interstate Wire emphasizes a quality system certified to ISO 9001:2015, with internal audits twice yearly and external audits annually. It also maintains REACH, RoHS, and conflict-minerals compliance declarations. The company positions itself as a partner that simplifies production through quick-turn fulfillment and value-added preparation rather than simply moving boxes.
+The company emphasizes its role as a partner that simplifies production through an extensive product catalog, quick-turn order fulfillment, and a quality system certified to ISO 9001:2015. It also supports compliance with REACH, RoHS, and conflict minerals reporting requirements.
 
 ## Known for
-- Quick-turn order fulfillment
-- Full-service wire preparation (respooling, shrink-wrapping, twisting, striping)
-- Pre-production prep including light assembly and custom kitting
-- ISO 9001:2015 quality system with continuous improvement
-- Compliance declarations for REACH, RoHS, and conflict minerals
+- Extensive catalog from leading wire and cable manufacturers
+- Value-added wire preparation: respooling, shrink-wrapping, twisting, striping
+- Pre-production services: light assembly and custom kitting
+- ISO 9001:2015 certified quality management system
+- Support for REACH, RoHS, and conflict minerals compliance
 
 ## Capabilities
-- Wire preparation services
-- Respooling
-- Shrink-wrapping
-- Twisting
-- Striping
-- Light assembly
+- Wire preparation (respooling, shrink-wrapping, twisting, striping)
+- Pre-production preparation (light assembly, custom kitting)
+- Distribution of electronic and electrical wire and cable
+- Wire management product supply
 - Custom kitting
-- Distribution of electronic wire and cable
-- Value-added services
+- Light assembly
 
 ## Industries
 - Automotive
@@ -217,9 +214,9 @@ Interstate Wire emphasizes a quality system certified to ISO 9001:2015, with int
 
 ## Certifications
 - ISO 9001:2015
-- REACH compliance
-- RoHS compliance
-- Conflict Minerals compliance (CFSI/CMRT)
+- REACH
+- RoHS
+- Conflict Minerals (CFSI)
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -229,14 +226,13 @@ Interstate Wire emphasizes a quality system certified to ISO 9001:2015, with int
 <details><summary>Sources</summary>
 
 - Founded 1977 -> db
-- Headquarters Rockwall, Texas -> db
-- ISO 9001:2015 certification -> /about-us
-- REACH, RoHS, Conflict Minerals compliance -> /about-us
-- Core product lines (hook-up wire, multi-conductor, coaxial, portable cordage, flat cable, molded assemblies, wire management) -> /about-us
-- Value-add services: respooling, shrink-wrapping, twisting, striping, light assembly, custom kitting -> /
-- Industries served: Automotive, Power Distribution, Building Systems, Medical, Military & Aerospace, Marine, Mining & Construction -> /
-- Manufacturers carried: Belden, General Cable, Harbour Industries, Thomas & Betts -> /
-- Quality system with internal audits twice yearly, external annually -> /about-us
+- Headquarters Rockwall, Texas -> db and /about-us page
+- ISO 9001:2015 certification -> /about-us page
+- Industries served: Automotive, Power Distribution, Building Systems, Medical, Military & Aerospace, Marine, Mining & Construction -> / page
+- Value-add services: respooling, shrink-wrapping, twisting, striping, light assembly, custom kitting -> / page
+- Products: hook-up wire, multi-conductor cable, coaxial cables, portable cordage, flat cable, molded cable assemblies, wire management products -> /about-us page
+- Manufacturers carried: Belden, General Cable, Harbour Industries, Thomas & Betts -> / page
+- REACH, RoHS, Conflict Minerals compliance -> /about-us page
 </details>
 
 ---
@@ -246,43 +242,45 @@ Interstate Wire emphasizes a quality system certified to ISO 9001:2015, with int
 **Old description:** Founded in 1972, Intronics Power Inc. has established itself as a leader in the design and manufacturing of high-reliability power conversion and signal processing solutions.
 
 ## About
-Founded in 1972 in Norwood, Massachusetts, Intronics Power Inc. (operating as Intronics Inc) began as a designer and manufacturer of high-reliability power conversion and signal processing solutions. The company maintains a facility in Longmont, Colorado, and holds CAGE code 30635 for government contracting.
+Founded in 1972 in Norwood, Massachusetts, Intronics Power Inc. (operating as Intronics Inc) began as a designer and manufacturer of high‑reliability power conversion and signal processing solutions. The company now operates from Longmont, Colorado.
 
-Intronics produces a broad line of DC/DC converters—including isolated and non-isolated modules up to 1 kW—alongside precision signal amplifiers and high-speed image processors. Its engineering services span analog and digital circuit design, embedded hardware and software development, and full validation testing. The firm also provides contract manufacturing for printed circuit board and electromechanical assemblies, with a catalog of hundreds of standard model numbers such as the 277, 289, and SHA1144 series.
+The company produces a range of standard and custom power electronics, including isolated and non‑isolated DC/DC converters (5 A to 16 A point‑of‑load modules, 15‑75 W quarter‑brick units), isolation and sample‑hold amplifiers, strain‑gage and thermocouple signal conditioners, digital panel meters, and data converters up to 18‑bit resolution. It also provides engineering services—analog and digital circuit design, embedded hardware and software development—and contract manufacturing of printed‑circuit‑board assemblies and electromechanical devices.
 
-The company serves aerospace and defense, medical device, electric power utility, transportation, industrial automation, computers and communications, space systems, and emerging technology sectors such as AI hardware and quantum computing. Customers include satellite engineers, medical imaging R&D directors, and automotive plant managers who rely on Intronics components for mission-critical systems.
+Intronics serves eight core markets: Computers & Communication, Aerospace & Defense, Electric Power Utility, Industrial Automation, Transportation, Medical Device, Space Systems, and Emerging Technologies such as AI hardware and quantum computing. Its components have been used in satellite designs, medical imaging equipment, and industrial power converters for automotive manufacturing plants, as noted by a chief engineer at an aerospace firm, an R&D director at a medical device company, and a plant manager at an automotive manufacturer.
 
-Intronics emphasizes its ISO 9001:2015 certified manufacturing, MIL-STD compliant design practices for defense programs, and radiation-hardened electronics qualified for space vehicles. Testimonials highlight the reliability of its converters in extreme environments, the expertise of its engineering team in custom signal conditioning, and a track record of zero failures in harsh industrial settings.
+The company emphasizes its ISO 9001:2015‑certified manufacturing, MIL‑STD‑compliant designs for defense programs, and radiation‑hardened electronics for space applications. It positions its differentiation on combining innovative design with rigorous testing to meet demanding requirements across multiple industries.
 
 ## Known for
 - ISO 9001:2015 certified manufacturing facilities
 - MIL-STD compliant designs for defense applications
-- Radiation-hardened electronics for space and satellite programs
-- Custom engineering services covering analog, digital, and embedded design
-- Contract manufacturing for PCB and electromechanical assemblies
+- Custom engineering services (analog, digital, embedded)
+- Radiation-hardened electronics for space systems
 
 ## Capabilities
 - Analog circuit design
 - Digital / microprocessor circuit design
 - Embedded systems hardware and software development
-- Electronics testing and troubleshooting
-- Component level electronic evaluation
-- Electronics functional testing and verification & validation
+- Electronics testing and validation (V&V)
+- Component-level electronic evaluation
+- Troubleshooting of industrial equipment
 - Printed circuit board (PCB) assembly
 - Electromechanical device assembly
-- DC/DC converter design and manufacturing
-- Signal amplifier design and manufacturing
+- DC/DC converter design and manufacturing (isolated and non-isolated)
+- Signal amplifier design and manufacturing (isolation, sample/hold, strain gage, thermocouple)
 - Image processor design and manufacturing
+- Digital panel meter design and manufacturing
+- Data converter design and manufacturing (ADC/DAC up to 18-bit)
+- Custom power conversion and signal processing solutions
 
 ## Industries
-- Aerospace & Defense
-- Medical Device
-- Electric Power Utility
-- Transportation
-- Industrial Automation
 - Computers & Communication
+- Aerospace & Defense
+- Electric Power Utility
+- Industrial Automation
+- Transportation
+- Medical Device
 - Space Systems
-- Emerging Technologies (AI hardware, quantum computing)
+- Emerging Technologies
 
 ## Certifications
 - ISO 9001:2015
@@ -290,20 +288,21 @@ Intronics emphasizes its ISO 9001:2015 certified manufacturing, MIL-STD complian
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1972
-- **Headquarters:** Norwood, Massachusetts
+- **Headquarters:** Longmont, CO
 
 <details><summary>Sources</summary>
 
 - Founded in 1972 -> db
 - Headquarters in Norwood, Massachusetts -> db
-- CAGE code 30635 -> /
-- ISO 9001:2015 certified manufacturing -> /
-- MIL-STD compliant designs for defense -> /
-- Products: DC/DC converters, signal amplifiers, image processors -> /
-- Engineering services: analog/digital/embedded design, testing, validation -> /
-- Contract manufacturing: PCB assemblies, electromechanical assemblies -> /
-- Industries served: Aerospace & Defense, Medical Device, Electric Power Utility, Transportation, Industrial Automation, Computers & Communication, Space Systems, Emerging Technologies -> /
-- Testimonials from aerospace, medical, automotive customers -> /
+- Current address Longmont, CO -> page '/'
+- ISO 9001:2015 certified -> page '/'
+- CAGE code 30635 -> page '/'
+- Products: DC/DC converters, amplifiers, signal conditioners, data converters, image processors -> page '/'
+- Services: engineering services, contract manufacturing -> page '/'
+- Industries served: Computers & Communication, Aerospace & Defense, Electric Power Utility, Industrial Automation, Transportation, Medical Device, Space Systems, Emerging Technologies -> page '/'
+- Testimonials from aerospace, medical, automotive customers -> page '/'
+- MIL-STD compliant designs -> page '/'
+- Radiation-hardened electronics for space -> page '/'
 </details>
 
 ---
@@ -313,52 +312,53 @@ Intronics emphasizes its ISO 9001:2015 certified manufacturing, MIL-STD complian
 **Old description:** specializes in designing and fabricating high-quality custom iron gates, window grills, screen doors, storm doors, sliding gates, double gates, single gates, and custom carports for residential and commercial properties. Our durable ironwork is crafted to enhance your property’s security, functionality, and curb appeal while delivering exceptional value at an affordable price.
 
 ## About
-Iron Designs operates from Albuquerque, New Mexico, where it designs and fabricates custom ironwork for residential and commercial clients. The company has built its reputation on years of experience in metal fabrication, though a specific founding year is not publicly disclosed.
+Iron Designs operates from Albuquerque, New Mexico, where it designs and fabricates custom ironwork for residential and commercial properties. The company does not publish a founding year or ownership details, but its team emphasizes years of experience in metal fabrication.
 
-The shop produces a range of custom metal products including driveway gates, sliding gates, single and double gates, window grills, screen doors, storm doors, carports, fencing, stairway railings, sliding door security barriers, and porch enclosures. As a service metal fabricator, the team works with iron, steel, and aluminum to deliver precision-fabricated pieces tailored to each project’s specifications.
+The shop produces custom iron gates — including driveway, sliding, single, and double gates — as well as window grills, screen doors, storm doors, sliding door security, fencing and topper panels, stair railings, carports, and porch enclosures. Work includes custom design, metal fabrication, welding, and on-site installation. No facility size, headcount, or annual volume are disclosed.
 
-Customers span homeowners, businesses, and homeowners’ associations across Albuquerque and surrounding communities such as Rio Rancho, Santa Fe, and Los Lunas. Projects range from decorative entry gates for private residences to security-focused driveway gates for commercial properties.
+Iron Designs serves homeowners and commercial property owners across central and western New Mexico, including Albuquerque, Rio Rancho, Santa Fe, Bernalillo, Los Lunas, Belen, and Gallup. Projects range from residential driveway gates and window guards to commercial security gates and porch enclosures.
 
-Iron Designs emphasizes premium-grade materials backed by warranty, a safety-first protocol, and a stated goal of 100 percent client satisfaction. The company positions its combination of expert craftsmanship and personalized service as its primary differentiator in the regional market.
+The company states it uses only premium-grade, metal that it warranties, avoiding thin-gauge material common in the market. It cites a "safety first, service next" protocol and a target of 100% client satisfaction as operational pillars.
 
 ## Known for
-- Premium-grade, industry-leading materials backed by warranty
-- 100% client satisfaction target
+- Premium-grade, industry-leading metal with warranty
 - Safety-first, service-next working protocol
-- Precision metal fabrication within budget
-- Experienced team providing personalized solutions
+- 100% client satisfaction target
+- Custom design and fabrication in-house
+- Serves Albuquerque and seven surrounding communities
 
 ## Capabilities
-- Custom iron gate fabrication (driveway, sliding, single, double)
+- Custom iron gate fabrication
 - Window grill fabrication
 - Screen door fabrication
 - Storm door fabrication
-- Custom carport fabrication
-- Fencing and topper panel fabrication
-- Stairway railing fabrication
 - Sliding door security fabrication
+- Fencing and topper panel fabrication
+- Stair railing fabrication
+- Carport fabrication
 - Porch enclosure fabrication
-- Precision metal fabrication
-- Installation services
+- Custom metal fabrication
+- Welding
+- On-site installation
+- Custom design
 
 ## Industries
 - Residential
 - Commercial
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Headquarters:** Albuquerque, New Mexico
 
 <details><summary>Sources</summary>
 
-- Headquarters: Albuquerque, New Mexico -> db
-- Custom ironwork fabrication services (gates, grills, doors, carports, fencing, railings, enclosures) -> /services
-- Serves residential and commercial customers in Albuquerque and surrounding areas -> /
-- Uses premium-grade iron, steel, and aluminum materials -> /about-us
-- Emphasizes 100% client satisfaction and safety-first protocol -> /about-us
-- Offers precision metal fabrication within budget -> /services
-- Company operates as a service metal fabricator -> /services
-- No founding year, ownership, employee count, certifications, or equipment disclosed -> db
+- Location: Albuquerque, NM -> db
+- Products: custom iron gates, window grills, screen doors, storm doors, sliding gates, double gates, single gates, carports -> /
+- Service areas: Albuquerque, Rio Rancho, Santa Fe, Bernalillo, Los Lunas, Belen, Gallup -> /
+- Materials: premium-grade metal, aluminum for storm doors -> /, /about-us
+- Differentiators: warranty, safety-first protocol, 100% satisfaction target -> /about-us
+- Processes: custom design, fabrication, welding, installation -> /services
+- Company type: metal fabricator -> /services
 </details>
 
 ---
@@ -368,56 +368,59 @@ Iron Designs emphasizes premium-grade materials backed by warranty, a safety-fir
 **Old description:** Great work on making a set of railings for our front steps. They are beautiful, very strong and secure, and at a very fair price. We highly recommend your work to anyone who needs ornamental metal work for their home or business. You two were great to work with, and tossing a disc while the cement set up was a bonus!
 
 ## About
-Iron It Out operates from Springfield, Vermont, where Dante Garganese III has spent over a quarter of a century handcrafting custom architectural metalwork. The business runs as a family-owned shop — often referenced as "Dante and Son" — producing wrought-iron fireplace doors, screens, railings, and ornamental commissions for clients across New England and nationwide.
+The business functions as a family operation, with client testimonials referencing both Dante and his son working together on projects.
 
-The workshop builds custom fireplace doors (glass and screen styles), barn-door screens, standard and custom fireplace screens, iron and cable railings, balusters, range hoods, ADA-compliant handrail systems, spiral staircases, ship ladders, and lawn-and-garden pieces. Each screen and door is custom-fitted to the hearth and backed by a one-year warranty; items are fabricated in Vermont and shipped directly to the customer.
+The company specializes in custom wrought iron fabrication, producing fireplace doors (glass and screen styles), fireplace screens (including barn-door designs), interior and exterior railings, cable rail systems, balusters, range hoods, ADA-compliant handrail systems, spiral staircases, ship ladders, and decorative lawn and garden pieces. Each piece is custom-made to order and shipped directly to customers across Vermont, New Hampshire, and nationwide. The shop also offers installation services, as noted in client testimonials.
 
-Customers range from homeowners and interior designers to contractors in Vermont and New Hampshire, as well as commercial and institutional clients. Testimonials cite projects for private residences, a church entrance arbor (Saint Paul's), and builders experienced with banks and schools, indicating both residential and light-commercial work.
+Iron It Out serves residential homeowners, commercial property owners, architects, designers, and contractors throughout New England and beyond. Past clients include private homeowners such as the DesCarpentries, who have overseen 18 house projects, and institutional customers like Saint Paul’s church, which commissioned an entrance arbor. The company also lists Vermont and New Hampshire contractor directories on its site, indicating a trade-focused clientele.
 
-The company emphasizes meticulous handcrafting, heirloom-quality construction, and fluency in multiple materials and finishes. Its stated aim is to translate a client's vision into a finished piece that adds dignity and elegance to interior or exterior settings, whether the starting point is a homeowner's sketch, a designer's drawing, or a historic reference such as a Montepulciano handrail.
+The company emphasizes a collaborative design process, inviting customers to work with their in-house designer, submit their own drawings, or select from a classic product line. All fireplace screens and doors are custom-fitted to the hearth and backed by a one-year warranty. Dante Garganese III’s quarter-century of experience is cited as a foundation for heirloom-quality craftsmanship across multiple materials and finishes, aiming to add dignity and elegance to any setting.
 
 ## Known for
-- Custom-fitted fireplace screens and doors with one-year warranty
-- Nationwide shipping from Vermont workshop
-- ADA-compliant handrail systems
-- Custom spiral staircases and ship ladders
+- Custom-fitted fireplace screens and doors with a one-year warranty
+- Collaborative design process: work with their designer or submit your own drawings
+- Handcrafted heirloom-quality metalwork using multiple materials and finishes
+- Nationwide shipping with installation services offered
 
 ## Capabilities
 - Custom wrought iron fabrication
-- Fireplace door manufacturing (glass and screen)
-- Fireplace screen manufacturing (standard, barn door style)
+- Fireplace door fabrication (glass and screen)
+- Fireplace screen fabrication (standard and barn-door styles)
 - Iron railing fabrication
 - Cable railing systems
-- Baluster production
+- Baluster fabrication
 - Range hood fabrication
-- ADA compliant handrail systems
-- Spiral staircase construction
-- Ship ladder construction
+- ADA-compliant handrail systems
+- Spiral staircase fabrication
+- Ship ladder fabrication
 - Custom architectural metalwork
-- Lawn and garden ironwork
+- Lawn and garden ornamental ironwork
+- Installation services
 
 ## Industries
 - Residential construction
 - Commercial construction
 - Architectural metalwork
-- Home renovation
-- Interior design
+- Contractors
+- Religious institutions
+- Educational facilities
+- Banking facilities
 
 ## Company details
 - **Company Type:** Manufacturer
-- **Ownership:** Family-owned
+- **Ownership:** Family-owned (Dante Garganese III and son)
 - **Headquarters:** Springfield, Vermont
 
 <details><summary>Sources</summary>
 
-- Location: Springfield, Vermont -> db (hq_city, hq_state_label)
-- Founder: Dante Garganese III -> page '/'
-- Family-owned (Dante and Son) -> page '/'
-- Over 25 years experience -> page '/'
-- Products: fireplace doors, screens, railings, balusters, range hoods, ADA handrails, spiral staircases, ship ladders, lawn & garden -> page '/'
-- Custom-fitted, one-year warranty, ships nationwide -> page '/'
-- Residential and commercial clients, contractors in VT/NH, church and institutional projects -> page '/'
-- Handcrafted, heirloom-quality, multiple materials/finishes -> page '/'
+- Company name, location, website -> db
+- Founder Dante Garganese III, over 25 years experience -> /
+- Family operation (Dante and son) -> /
+- Product list: fireplace doors, screens, railings, cable railings, balusters, range hoods, ADA handrails, spiral staircases, ship ladders, lawn & garden -> /
+- Custom fabrication, nationwide shipping, installation services -> /
+- Client examples: DesCarpentries, Saint Paul's church, banks and schools -> /
+- Collaborative design process, one-year warranty, custom-fitted -> /
+- Materials: wrought iron, multiple materials and finishes -> /
 </details>
 
 ---
@@ -427,32 +430,31 @@ The company emphasizes meticulous handcrafting, heirloom-quality construction, a
 **Old description:** ISMF is a one-stop metal fabrication shop dedicated to providing high quality workmanship and custom work exactly in accordance with your design. We provide prototype through production in welding, fabrication, CNC machining, laser cutting, powder coating, and forming.
 
 ## About
-IronStrong Metal Fabrication Inc. (ISMF) operates from a leased facility at 230 North 4th Street in Columbia, Pennsylvania, within Lancaster County. The company is organized as a limited liability company with managing members, though a founding year and individual founders are not disclosed in public materials. It was established to serve as a single-source metal fabrication partner for customers in the region and beyond.
+IronStrong Metal Fabrication Inc. (ISMF) operates from Columbia, Pennsylvania, in Lancaster County. The company was formed as a limited liability company by managing members who lease a patent for a wire-puller product, though no founding year or individual founders are disclosed. The business secured a lease at 230 N. 4th Street in Columbia and positions itself as a one-stop metal fabrication shop.
 
-The shop delivers prototype through full production runs across welding, fabrication, CNC machining, laser cutting, powder coating, and forming. Welding capabilities cover MIG and TIG processes on aluminum, stainless steel, and carbon steel. A high-precision vertical machining center with a fourth axis and CNC lathes handle milled and turned components. A Mitsubishi laser cuts mild steel, stainless, aluminum, galvanized, copper, brass, and titanium up to one inch thick depending on material. A Mitsubishi Diamond press brake provides high-speed, precise bending of sheet metal and plate. Powder coating rounds out the in-house finish options.
+The shop provides prototype-through-production services in welding (MIG and TIG), CNC machining (including a high-precision vertical machining center with a fourth axis and lathes), laser cutting (via a Mitsubishi laser capable of cutting steel, stainless, aluminum, galvanized, copper, brass, and titanium up to 1 inch thick), powder coating, and forming (using a Mitsubishi Diamond press brake). Fabrication combines laser cutting, welding, machining, and forming to produce component parts and finished goods.
 
-While the company serves general manufacturing, its stated market focus targets the entertainment and utility sectors. Early projects include fabricating wire pullers for the utility industry under a patent leased from a managing member, and welding barricades for entertainment applications. The firm also engages subcontractors on an as-needed basis to supplement capacity.
+ISMF targets the entertainment industry, fabricating barricades, and the utility industry, manufacturing wire pullers under a leased patent. The company also serves general manufacturing customers and uses subcontractors as needed.
 
-ISMF positions itself as a one-stop shop that actualizes custom work exactly to customer designs, emphasizing high-quality workmanship across all processes. The managing members aim to grow the operation substantially while representing Lancaster County on a national stage.
+The company emphasizes high-quality workmanship and custom work built exactly to customer designs, aiming to represent Lancaster County on a national scale while expanding operations.
 
 ## Known for
-- One-stop shop covering prototype through production in welding, machining, laser cutting, powder coating, and forming
-- Mitsubishi laser cutting up to 1" thick in steel, stainless, aluminum, and other metals
-- Mitsubishi Diamond press brake for high-speed, precise sheet metal and plate forming
-- Vertical machining center with 4th axis and CNC lathes for milled and turned parts
-- MIG and TIG welding of aluminum, stainless steel, and carbon steel
+- One-stop shop covering welding, machining, laser cutting, powder coating, and forming from prototype to production
+- Mitsubishi laser cutting up to 1" in steel, stainless, and aluminum
+- Mitsubishi Diamond press brake for high-speed, precise forming
+- Vertical machining center with 4th axis for complex shapes
+- Focus on entertainment (barricades) and utility (wire pullers) markets
 
 ## Capabilities
 - MIG welding
 - TIG welding
-- CNC milling (4th axis)
-- CNC turning
-- Laser cutting
+- CNC milling (vertical machining center with 4th axis)
+- CNC turning (lathe)
+- Laser cutting (Mitsubishi)
 - Powder coating
-- Press brake forming
+- Press brake forming (Mitsubishi Diamond)
 - Fabrication (laser cutting, welding, machining, forming)
-- Prototyping
-- Production runs
+- Prototype to production runs
 
 ## Industries
 - Entertainment industry
@@ -462,28 +464,25 @@ ISMF positions itself as a one-stop shop that actualizes custom work exactly to 
 ## Equipment
 - Mitsubishi laser
 - Mitsubishi Diamond press brake
-- High precision/heavy duty vertical machining center with 4th axis
-- CNC lathes
+- High precision vertical machining center with 4th axis
+- Lathe machines
 
 ## Company details
-- **Company Type:** Manufacturer
-- **Ownership:** LLC (managing members)
+- **Company Type:** Contract manufacturer / job shop
 - **Headquarters:** Columbia, Pennsylvania
 
 <details><summary>Sources</summary>
 
-- Location: Columbia, PA (230 N. 4th St) -> /about-us
-- LLC with managing members -> /about-us
-- Services: welding, fabrication, CNC machining, laser cutting, powder coating, forming -> /
-- MIG/TIG welding on aluminum, stainless, steel -> /
-- Vertical machining center with 4th axis, CNC lathes -> /
-- Mitsubishi laser cutting capacities per material/thickness -> /
-- Mitsubishi Diamond press brake for forming -> /
-- Prototype through production -> /
-- Focus on entertainment and utility industries -> /about-us
-- Wire pullers (patent lease) and barricades for entertainment -> /about-us
-- Subcontractors as needed -> /about-us
-- One-stop shop, high-quality workmanship, custom to design -> /about-us
+- Location: Columbia, Pennsylvania -> /about-us
+- Services: welding, fabrication, machining, laser cutting, powder coating, forming -> /
+- Welding: MIG and TIG on aluminum, stainless steel, steel -> /
+- CNC machining: vertical machining center with 4th axis, lathe -> /
+- Laser cutting: Mitsubishi laser, thickness capabilities -> /
+- Forming: Mitsubishi Diamond press brake -> /
+- Industries: entertainment (barricades), utility (wire pullers) -> /about-us
+- Patent lease for wire pullers from managing member -> /about-us
+- One-stop shop prototype through production -> /
+- Headquarters lease at 230 N. 4th St, Columbia, PA 17512 -> /about-us
 </details>
 
 ---
@@ -493,44 +492,46 @@ ISMF positions itself as a one-stop shop that actualizes custom work exactly to 
 **Old description:** Ironwood Manufacturing’s strength is not just the catalog. It is the combination of long-term craftsmanship, practical design, and product lines that actually fit how schools, libraries, and offices work.
 
 ## About
-Ironwood Manufacturing Inc. The company describes its heritage as "Montana built" and emphasizes an honest handshake and fair dealing as foundations of its operation.
+Ironwood Manufacturing Inc. The company was founded on principles of honest dealing and practical design, though an exact founding year is not disclosed.
 
-The firm produces a range of ready-to-assemble and custom furniture for educational and institutional settings. Its eight product lines include the Glacier series for library circulation desks and shelving, Denali mobile cabinets for classrooms and maker spaces, Arches tables with configurable frames and tops, Teton music storage for instruments and uniforms, plus the General Line, Sequoia administration desks, Grand Canyon computer workstations, and Yosemite heavy-duty furniture for industrial arts. Since 2003 the company has expanded its ready-to-assemble offerings alongside its custom-project roots.
+The manufacturer produced eight distinct product lines encompassing library furniture (Glacier series), mobile cabinets (Denali series), tables (Arches series), music storage (Teton series), general bookcases and work centers, administration desks (Sequoia), computer workstations (Grand Canyon), and heavy-duty industrial arts furniture (Yosemite). In 2003, Ironwood expanded into ready-to-assemble (RTA) furniture, shifting from solely custom builds to a catalog of standardized, shippable products. All items were manufactured in the United States.
 
-The furniture also serves music programs, computer labs, and administrative offices, with products designed for high-use environments such as classrooms, shared workspaces, and performance areas.
+Dealers and public‑sector buyers could reference the TIPS contract on quotes and purchase orders.
 
-Ironwood cites its combination of long‑term craftsmanship, practical design, and product lines tailored to real school use as its differentiator. The company highlights its custom-project origins, school‑and‑library focus, ready‑to‑assemble line, and TIPS contract availability as reasons customers have relied on it for over 40 years.
+Ironwood emphasized its Montana‑based craftsmanship, quality materials, and designs tailored to the daily demands of educational environments. The company cited its family‑owned heritage, honest‑handshake business approach, and focus on school and library needs as key differentiators. However, after more than 40 years of operation, Ironwood announced it was closing its doors and no longer accepting new orders.
 
 ## Known for
-- Custom furniture project roots with a school and library focus
-- Ready-to-assemble (RTA) product lines introduced in 2003
-- Awarded TIPS vendor (Contract 230301) for cooperative purchasing
-- Built to last, designed for daily institutional use
+- Family-owned, Montana-based manufacturing
+- Ready-to-assemble (RTA) furniture lines
+- TIPS cooperative purchasing contract (Contract 230301)
+- EDGAR compliance for public agency procurement
+- 40+ years of experience in school and library furniture
 
 ## Capabilities
-- Furniture manufacturing
+- Custom furniture manufacturing
 - Ready-to-assemble (RTA) furniture production
-- Custom furniture design and fabrication
-- Library furniture systems (circulation desks, shelving, carrels)
-- Mobile storage cabinets
-- Table manufacturing (configurable frames and tops)
-- Music instrument and uniform storage
-- Administration and office furniture
-- Computer workstation fabrication
-- Heavy-duty industrial arts furniture
+- Cooperative purchasing (TIPS contract 230301)
+- EDGAR-compliant procurement
+- Library furniture design and production
+- Mobile cabinet manufacturing
+- Table and workstation fabrication
+- Music storage solutions
+- Office and administration furniture
+- Computer lab workstation manufacturing
+- Industrial arts furniture production
 
 ## Industries
 - K-12 education
 - Public libraries
-- Government/public agencies
+- Municipal government
 - Music education
 - Computer labs
 - Industrial arts education
 - Office furniture
 
 ## Certifications
-- TIPS Contract 230301 — Furniture, Furnishings, and Services
-- EDGAR Compliance
+- EDGAR compliance
+- TIPS contract 230301
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -539,14 +540,8 @@ Ironwood cites its combination of long‑term craftsmanship, practical design, a
 
 <details><summary>Sources</summary>
 
-- Location: Missoula, Montana -> /
-- Family-owned since the 1980s -> /
-- Eight product lines (Glacier, Denali, Arches, Teton, General, Sequoia, Grand Canyon, Yosemite) -> /
-- Ready-to-assemble expansion in 2003 -> /
-- TIPS Contract 230301 for Furniture, Furnishings, and Services -> /
-- EDGAR Compliance -> /
-- Serves schools, libraries, offices, music programs, computer labs, industrial arts -> /
-- Company closing after 40+ years, no longer accepting new orders -> /
+- name, slug, description, website, hq_city, hq_state_label, capabilities, products -> db
+- closing announcement, 40+ years, 8 product lines, USA made, RTA, product lines, family owned, since the '80s, custom furniture origins, 2003 RTA expansion, TIPS contract 230301, EDGAR compliance, product line details -> /
 </details>
 
 ---

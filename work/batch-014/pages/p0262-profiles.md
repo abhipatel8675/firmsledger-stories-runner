@@ -3,41 +3,39 @@
 **Old description:** Certified to ISO 9001 since 1996. Awarded the “Kansas Award for Excellence” in 1996, 1997 and 1998.
 
 ## About
-Vermillion Inc. was established in 1965 in Wichita, Kansas, as a manufacturer of custom cable assemblies. The company has remained in the same location for over five decades, building a reputation for specialized wiring solutions.
+Vermillion Inc. was established in 1965 in Wichita, Kansas. The company operates a 43,000-square-foot manufacturing facility in the city.
 
-The company operates a 43,000-square-foot manufacturing facility where it produces bulk cable, custom-designed cable assemblies, and molded assemblies. Its capabilities span engineering and design consultation, prototyping, and initial production runs, supported by in-house testing equipment such as DIT-MCO 2500 and 2650 MTA models. Vermillion works with a wide range of conductor, shielding, and jacketing materials, including its proprietary Vermalloy® alloys, Aracon® aramid fibers, and high-temperature fluoropolymers.
+Vermillion specializes in custom cable solutions, including bulk cable production, custom-designed cable assemblies, and molded assemblies. The facility produces cables with conductor ranges from 0 to 28 AWG using materials such as tinned, nickel-plated, and silver-plated copper. Shielding options include the proprietary Vermalloy® alloys, Aracon® aramid fibers, and various foil and Mylar configurations. Jacketing materials span high-temperature ETFE, PTFE, PFA, low-smoke zero-halogen polyethylene, and braided or blown-on jackets made from Nomex, Kevlar, PEEK, Viton®, and other polymers. The company emphasizes engineering consultation and serves as a resource for prototype and initial production runs.
 
-Vermillion serves the military and aerospace sectors, with customers such as Rockwell Collins, which named the company its Wire and Cable Supplier of the Year in 2009. The firm’s products are used in secure voice communications, avionics, and other defense applications requiring high-reliability interconnects.
+The primary markets are military and aerospace. Vermillion has been recognized by Rockwell Collins as Wire and Cable Supplier of the Year multiple times, most recently noted in 2009. Its products meet stringent defense and aviation standards, supported by certifications to ISO 9001 and AS9100.
 
-Vermillion differentiates itself through its long-standing quality certifications—ISO 9001 since 1996 and AS9100C since 2003—and its receipt of the Kansas Award for Excellence three years running. The company emphasizes custom design capability, rapid prototyping, and a vertically integrated process that includes certified soldering to J-STD-001 and extensive employee training and recertification programs.
+Vermillion differentiates itself through its proprietary Vermalloy® shielding material, described as the most effective secure-voice shielding available, and through in-house certified trainers for J-STD-001 soldering specifications.
 
 ## Known for
-- ISO 9001 certified since 1996; AS9100C certified since 2003
-- Proprietary Vermalloy® shielding material for secure voice applications
-- 43,000 sq ft vertically integrated manufacturing facility
-- Kansas Award for Excellence recipient (1996–1998)
-- Rockwell Collins Wire and Cable Supplier of the Year (2009)
+- Proprietary Vermalloy® shielding for secure voice applications
+- ISO 9001 certified since 1996; AS9100 certified since 2003
+- J-STD-001 certified soldering with in-house trainers
+- 43,000 sq. ft. manufacturing facility in Wichita, KS
+- Custom cable design from prototype through initial production
 
 ## Capabilities
+- Bulk cable production
 - Custom cable design and engineering
-- Bulk cable manufacturing
-- Cable assembly and molding
-- Prototyping and low-volume production
-- J-STD-001 certified soldering
+- Molded cable assemblies
+- Cable shielding (Vermalloy®, tinned copper, nickel-plated copper, silver-plated copper, Aracon®, foil/Mylar shields)
+- Cable jacketing (ETFE, PTFE, PFA, LSZH polyethylene, braided jackets: polyester, Nomex, Kevlar, PEEK, Teflon-impregnated fiberglass, fiberglass; blown-on jackets: neoprene, EPDM, Viton®)
+- Engineering and design consultation
+- J-STD-001 soldering
 - Electrical testing (DIT-MCO 2500/2650)
-- Shielding application (Vermalloy®, Aracon®, metal foils, Mylar)
-- Jacketing (ETFE, PTFE, PFA, LSZH, braided, blown-on)
-- Conductor tinning and plating (tin, nickel, silver)
-- Wire and cable processing
+- Prototype and initial production runs
 
 ## Industries
 - Military
 - Aerospace
-- Defense
 
 ## Equipment
 - DIT-MCO 2500
-- DIT-MCO 2650 MTA
+- DIT-MCO 2650.MTA
 
 ## Certifications
 - ISO 9001:2008
@@ -51,24 +49,23 @@ Vermillion differentiates itself through its long-standing quality certification
 
 <details><summary>Sources</summary>
 
-- Founded in 1965 -> /
-- Headquarters in Wichita, Kansas -> /
-- 43,000 sq ft manufacturing facility -> /
-- ISO 9001 certified since 1996 -> /
-- Kansas Award for Excellence 1996, 1997, 1998 -> /
-- Custom cable design and engineering capability -> /
-- Bulk cable production -> /
+- Founded 1965 -> db, /
+- Headquarters Wichita, Kansas -> db, /
+- 43,000 sq. ft. manufacturing facility -> /
+- ISO 9001 certified since 1996 -> /, /quality
+- AS9100 certified since 2003 -> /quality
+- J-STD-001 certified soldering with in-house trainers -> /quality
+- Kansas Award for Excellence 1996-1998 -> /, /quality
+- Military and aerospace industries -> /
+- Rockwell Collins Wire and Cable Supplier of the Year (2009) -> /quality
+- Vermalloy® proprietary shielding material -> /, /capabilities
+- Conductor range 0-28 AWG -> /capabilities
+- Conductor materials: tinned copper, nickel plated copper, silver plated copper -> /capabilities
+- Shielding materials: Vermalloy® 622, 3948, tinned copper, flattened tinned copper, nickel plated copper, silver plated copper, Aracon®, copper foil, aluminum foil, copper mylar, aluminum mylar -> /capabilities
+- Jacketing materials: 150° ETFE, 200° ETFE, LSZH polyethylene, PTFE, PFA, braided jackets (polyester, Nomex, Kevlar, PEEK, Teflon impregnated fiberglass, fiberglass), blown-on jackets (neoprene, EPDM, Viton®) -> /capabilities
+- Testing equipment DIT-MCO 2500 and 2650.MTA -> /quality
+- Custom cable design capability, prototypes and initial production orders -> /, /capabilities
 - Molded assemblies -> /
-- Military and aerospace industries served -> /
-- Vermalloy® shielding material -> /
-- AS9100C certified since 2003 -> /quality
-- J-STD-001 Wire & Cable Supplier certification -> /quality
-- Rockwell Collins Wire and Cable Supplier of the Year 2009 -> /quality
-- DIT-MCO 2500 and 2650 MTA testing equipment -> /quality
-- Conductor materials: Tinned Copper, Nickel Plated Copper, Silver Plated Copper -> /capabilities
-- Shielding materials: Vermalloy 622, Vermalloy 3948, Aracon®, metal foils, Mylar -> /capabilities
-- Jacketing materials: ETFE, PTFE, PFA, LSZH, braided (Polyester, Nomex, Kevlar, PEEK, Teflon Impregnated Fiberglass, Fiberglass), blown-on (Neoprene, EPDM, Viton) -> /capabilities
-- Prototype and initial production order focus -> /
 </details>
 
 ---
@@ -78,35 +75,37 @@ Vermillion differentiates itself through its long-standing quality certification
 **Old description:** We are a custom furniture and cabinetmaking shop serving all of Vermont and New England that specializes in using native hardwoods and reclaimed lumber to produce unique and functional hand-crafted pieces
 
 ## About
-Vermont Cabinetworks operates from Richmond, Vermont, as a custom furniture and cabinetmaking shop. The company's founding year and ownership structure are not publicly disclosed, but it has established itself as a regional maker of hand-crafted wood pieces.
+Vermont Cabinetworks is a custom furniture and cabinetmaking shop based in Richmond, Vermont. The company serves customers across Vermont and New England, producing hand-crafted pieces that emphasize native hardwoods and reclaimed lumber. Its work is built to order, with each project tailored to the client’s specifications.
 
-The shop produces custom cabinetry, casework, and benchmade furniture using native hardwoods and reclaimed lumber. Its processes emphasize hand-crafted techniques, though specific equipment, facility size, and production volumes are not published.
+The shop’s capabilities cover cabinetry and casework as well as benchmade furniture, using traditional woodworking techniques to create unique, functional pieces. Material selection focuses on locally sourced native hardwoods and reclaimed stock, giving each item a distinct character while supporting regional resources. Projects range from single furniture items to full architectural casework installations.
 
-Vermont Cabinetworks serves customers across Vermont and New England, providing made-to-order pieces for residential and commercial projects. The company does not list specific industry verticals or named clients in its public materials.
+Clients throughout the New England region commission the shop for custom furnishings and built-in casework, relying on its ability to adapt designs to specific spaces and requirements. The business operates as a small-scale manufacturer, handling projects from initial design through final delivery, with a focus on close collaboration throughout the process.
 
-The business distinguishes itself through its focus on locally sourced native hardwoods and reclaimed lumber, aiming to create unique, functional pieces that reflect the character of the region's forests.
+The company’s differentiating factor is its material philosophy: a commitment to native hardwoods and reclaimed lumber that shapes every piece it builds.
 
 ## Known for
 - Specializes in native hardwoods and reclaimed lumber
-- Hand-crafted custom furniture and cabinetry
-- Serves the Vermont and New England region
+- Produces unique, functional hand-crafted pieces
+- Offers cabinetry, casework, and benchmade furniture
 
 ## Capabilities
-- Cabinetry and casework
+- Cabinetry
+- Casework
 - Benchmade furniture
-- Custom furniture fabrication
+- Custom furniture making
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Headquarters:** Richmond, Vermont
 
 <details><summary>Sources</summary>
 
 - Location: Richmond, Vermont -> db
-- Custom furniture and cabinetmaking shop -> /
-- Specializes in native hardwoods and reclaimed lumber -> /
-- Serves Vermont and New England -> /
-- Offers cabinetry & casework and benchmade furniture -> /
+- Description: custom furniture and cabinetmaking shop serving Vermont and New England, specializing in native hardwoods and reclaimed lumber -> db
+- Services: cabinetry & casework, benchmade furniture -> /
+- Materials: native hardwoods, reclaimed lumber -> db
+- Hand-crafted pieces -> db
+- Serves Vermont and New England -> db
 </details>
 
 ---
@@ -116,54 +115,56 @@ The business distinguishes itself through its focus on locally sourced native ha
 **Old description:** VELCO is the owner/operator of Vermont’s high-voltage transmission system and does not directly serve individual homes and businesses. We deliver the power to your local distribution company which then delivers it to you.
 
 ## About
-Vermont Electric Power Company (VELCO), headquartered in Rutland, Vermont, was created in 1956 as the nation's first statewide, transmission-only electric utility. The company was formed to build and operate an interconnected high-voltage transmission grid that would deliver and share access to clean power, including hydroelectric resources, across Vermont. Ownership is held by the state's 17 distribution utilities and a public benefits corporation, and its for-profit structure is designed to return value to those owners, their customers, and all Vermonters.
+Vermont Electric Power Company (VELCO) is headquartered in Rutland, Vermont. The company was created in 1956 as the nation’s first statewide, transmission-only utility, formed to build and operate an interconnected high-voltage grid that would deliver and share access to clean power, including hydroelectric resources, across Vermont. Ownership is structured uniquely: the company is held by the state’s 17 distribution utilities and a public benefits corporation, with a for-profit model designed to return value to those owners, their customers, and all Vermonters.
 
-VELCO owns and operates the high-voltage transmission system that moves electricity from generation sources to local distribution companies, which then serve homes and businesses. The company does not directly serve retail customers. Its work encompasses transmission system planning, grid reliability management, and the interconnection of generation resources. VELCO also publishes an annual ESG report and maintains a safety culture focused on employee well-being.
+VELCO owns and operates Vermont’s high-voltage transmission system, delivering bulk electricity to local distribution utilities rather than directly to homes or businesses. Its core activities include grid operation, maintenance, and planning to ensure a reliable, affordable, safe, secure, and sustainable transmission network. The company also provides a unified voice on regional energy issues. While specific facility sizes and headcount are not disclosed, VELCO serves the 17 member distribution utilities that collectively supply power throughout the state.
 
-The primary customers are Vermont's 17 distribution utilities, including municipal departments such as Burlington Electric Department, Stowe Electric Department, and others listed as owners. Through these utilities, VELCO's transmission network ultimately serves residential, commercial, and industrial end-users across the state. The company also engages with regional energy stakeholders to provide a unified voice on transmission and clean energy issues.
+The primary customers are those 17 distribution utilities, which include municipal departments such as Barton Village Electric Department, Burlington Electric Department, Hardwick Electric Department, and others listed in the company’s public materials. Indirectly, VELCO’s transmission services support every electricity consumer in Vermont. The company operates within the electric power transmission and clean energy sectors, with a stated focus on environmental stewardship and sustainability.
 
-VELCO distinguishes itself as the first transmission-only company of its kind in the United States, a model that remains unique. Its ownership structure and mandate to return value to utility owners and ratepayers set it apart from investor-owned utilities. The company emphasizes environmental stewardship, sustainability initiatives, and a commitment to a reliable, affordable, and secure grid as core differentiators.
+VELCO differentiates itself through its pioneering transmission-only structure, its ownership model that aligns incentives with public benefit, and its mission to serve as a partner. The company emphasizes safety as a core value, publishes an annual ESG report, and promotes a culture of belonging and innovation to advance a sustainable energy future for Vermont.
 
 ## Known for
-- Nation's first statewide, transmission-only company
-- Ownership by 17 distribution utilities and a public benefits corporation
+- Nation's first statewide transmission-only company
+- Owned by 17 distribution utilities and a public benefits corporation
 - For-profit structure returning value to owners, customers, and Vermonters
-- Environmental stewardship embedded in company culture
-- Safety as a core value with goal of zero incidents
+- Focus on reliable, affordable, safe, secure, and sustainable high-voltage grid
+- Unified voice on regional energy issues
 
 ## Capabilities
-- High-voltage transmission grid operation
-- Transmission system planning and construction
-- Interconnection of renewable generation resources
+- Electric transmission grid operation
+- High-voltage transmission system management
+- Clean power delivery (hydroelectric)
 - Grid reliability and security management
-- Regional energy policy advocacy
+- Regional energy advocacy and coordination
+- Transmission planning and maintenance
+- Environmental stewardship and sustainability programs
+- Workforce safety and belonging initiatives
 
 ## Industries
 - Electric power transmission
 - Clean energy
-- Electric utilities
+- Public utilities
 
 ## Company details
-- **Company Type:** Other
+- **Company Type:** Installer / service company
 - **Founded:** 1956
-- **Ownership:** 17 distribution utilities and a public benefits corporation
+- **Ownership:** Owned by 17 distribution utilities and a public benefits corporation
 - **Headquarters:** Rutland, Vermont
 
 <details><summary>Sources</summary>
 
-- Founded 1956 -> /about
-- Headquarters Rutland, Vermont -> db
+- Headquarters: Rutland, Vermont -> db
+- Founded: 1956 -> /about
 - Ownership: 17 distribution utilities and a public benefits corporation -> /about
-- First statewide transmission-only company in the nation -> /about
 - Mission: serve as a trusted partner -> /about
 - Vision: create a sustainable Vermont -> /about
-- Operates high-voltage transmission grid -> /about
-- Does not directly serve individual homes/businesses -> /
-- Delivers power to local distribution companies -> /
+- Transmission-only company, first statewide -> /about
+- Delivers clean power including hydro -> /about
+- Member utilities listed (e.g., Barton Village, Burlington Electric) -> db
+- Focus on reliability, affordability, safety, security, sustainability -> /about
 - 2024 ESG Report published -> /about
-- Safety culture core value -> /about
-- Environmental stewardship embodied in culture -> /about
-- List of distribution utility owners (Barton Village, Burlington Electric, etc.) -> db
+- Safety as core value -> /about
+- People & Belonging initiative -> /about
 </details>
 
 ---
@@ -173,54 +174,59 @@ VELCO distinguishes itself as the first transmission-only company of its kind in
 **Old description:** Since founding Vermont Security in 2013, Jesse has used his passion for emerging technology in the security industry to position the company as a leading provider of creative and accessible security and automation solutions. Through research-driven strategies and collaborations with top manufacturers, Jesse has propelled Vermont Security's growth and delivered unmatched tech-forward solutions to Vermonters.
 
 ## About
-Vermont Security is based in Montpelier, Vermont, and was founded in 2013 by Jesse Harper. The company is family-owned and operated, originating from a group of nine Vermonters who aimed to change the security industry by focusing on local needs. Harper's background in emerging security technology shaped the firm's direction toward research-driven strategies and partnerships with established manufacturers.
+Vermont Security was founded in 2013 by Jesse Harper in Montpelier, Vermont. The company began as a collaboration among nine Vermonters who wanted to change the security industry for the better, and it remains family-owned and operated today. Harper's passion for emerging security technology drove the firm's early growth through research-driven strategies and partnerships with established manufacturers.
 
-The company installs and monitors security and automation systems for both residential and commercial clients. Its services cover video surveillance with color night vision cameras, intrusion detection, flood and motion sensors, access control, fire alarm systems, and medical alert solutions. A team of ten technicians and administrators supports projects across Vermont, New Hampshire, New York, and Connecticut, handling everything from system design to ongoing monitoring.
+The firm designs, installs, and professionally monitors security and automation systems for homes and businesses across Vermont, New Hampshire, New York, and Connecticut. Its service lines include residential security with color night vision cameras and environmental sensors, commercial and business security installations, independent living and medical alert solutions, and specialized cannabis facility security. A nine-person team handles system design, field installation, fire alarm service, sales, and ongoing technical support.
 
-Vermont Security serves homeowners, businesses, cannabis dispensaries, and independent-living facilities. Commercial installations include offices, retail, and regulated cannabis operations that require compliance-grade surveillance. The independent living division provides medical alert monitoring for seniors. The company emphasizes its regional knowledge of Vermont's climate and infrastructure challenges.
+Customers range from homeowners and small businesses to commercial integrators, contractors, and regulated cannabis operators. The company also serves the healthcare-adjacent independent living market with medical alert administration. Its regional focus lets it address Vermont-specific challenges such as rural connectivity and harsh weather.
 
-This local-first approach, combined with collaborations with top manufacturers, is presented as its core differentiator.
+The founder's original vision centered on creative, accessible security solutions backed by local expertise.
 
 ## Known for
-- Family-owned local operation with regional expertise
-- Research-driven technology selection and manufacturer partnerships
-- Full-service design, installation, and monitoring
-- Specialized compliance knowledge for cannabis security
+- Family-owned, Vermont-focused operation with local expertise
+- Mission emphasizing fair pricing, excellent service, and everlasting support
+- Collaborations with top manufacturers for current technology
+- Professional monitoring with color night vision cameras and environmental sensors
+- Specialized cannabis security compliance knowledge
 
 ## Capabilities
-- Security system installation
-- Alarm monitoring
+- Residential security system installation
+- Commercial security system installation
+- Professional security monitoring
 - Video surveillance installation
-- Access control installation
-- Fire alarm system installation
-- Medical alert system installation
-- Cannabis compliance security design
-- System design and engineering
-- 24/7 professional monitoring
+- Environmental sensor installation (motion, flood)
+- Medical alert / independent living system installation
+- Cannabis facility security compliance
+- Fire alarm system installation and service
+- Security system design and engineering
+- Technical support and maintenance
 
 ## Industries
-- Residential security
-- Commercial security
-- Cannabis industry
-- Independent living / medical alert
+- Residential
+- Commercial
+- Cannabis
+- Healthcare / Independent living
+- Construction / Contractors
 
 ## Company details
 - **Company Type:** Installer / service company
 - **Founded:** 2013
-- **Employees:** 10
+- **Employees:** 9
 - **Ownership:** Family-owned
 - **Headquarters:** Montpelier, Vermont
 
 <details><summary>Sources</summary>
 
 - Founded 2013 by Jesse Harper -> /about-us
-- Family-owned and operated -> /
 - Headquarters Montpelier, Vermont -> db
-- 10 team members listed with names and roles -> /about-us
-- Services: home security, business security, independent living, cannabis security -> /
-- Service area: VT, NH, NY, CT -> /
+- Family-owned and operated -> /
+- Nine team members with names and roles -> /about-us
+- Services: home, business, independent living, cannabis security -> /
+- Operates in VT, NH, NY, CT -> /
 - Mission: fair pricing, excellent service, cutting-edge technology, everlasting support -> /about-us
 - Collaborations with top manufacturers -> /about-us
+- Color night vision cameras, motion and flood sensors -> /
+- Senior Fire Technician on staff -> /about-us
 </details>
 
 ---
@@ -230,97 +236,89 @@ This local-first approach, combined with collaborations with top manufacturers, 
 **Old description:** Since 1979, Versa Electronics has provided electronic manufacturing services (EMS), contract manufacturing, and OEM experience towards the achievement of each client’s product lifecycle and business success goals. Integrated capabilities with consultative communication enable your organization with a versatile scope-of-work offering, flexible demand fulfillment solutions, and reliable, high-quality products. Versa electronic manufacturing services help clients realize opportunities through product and supply risk assessments, valued cost options, flexible scheduling, delivery performance, and constant collaboration throughout the engagement.
 
 ## About
-Versa Electronics, Inc. is based in New Hope, Minnesota. The company traces its roots to 1979 when Versa Co. was formed as a parent to several manufacturing ventures, including Versa Electronics. In 1994, Kevin Johnsrud, who had joined as CFO in 1990, acquired the assets of Versa Electronics and established Versa Electronics Co. The business separated from the Versa Companies in 2007 to become Electronic Technologies, LLC, doing business as Versa Electronics. Johnsrud remains CEO.
+Versa Electronics, Inc. operates from New Hope, Minnesota, tracing its roots to 1979 as part of the Versa Companies conglomerate. In 1990, Kevin Johnsrud joined as CFO and acquired the electronics division’s assets in 1994, forming Versa Electronics Co. The business separated from the parent group in 2007 to become Electronic Technologies, LLC, doing business as Versa Electronics, and remains privately held under Johnsrud’s leadership as CEO.
 
-Versa provides electronic manufacturing services (EMS) with a focus on printed circuit board assembly (PCBA), box build, cable and wire harness assembly, testing, calibration, conformal coating, and potting. The facility supports both automated surface-mount and through-hole production, including BGA placement, automated optical inspection, and X-ray solder inspection. The company maintains over 6,000 inventoried components for build-to-order and consignment programs, and offers quick changeover and in-process engineering change management for short- to medium-run volumes.
+The company provides electronic manufacturing services (EMS) focused on short- to medium-run production. Core capabilities include printed circuit board assembly (PCBA) for rigid, flex, and rigid‑flex substrates using lead‑free and leaded solder; sub‑assembly, box‑build, and system integration; cable and wire‑harness assembly; testing, calibration, and inspection (including automated optical and X‑ray solder inspection); conformal coating and potting; and global supply‑chain management with over 6,000 components stocked for quick‑turn orders.
 
-Versa serves medical device, consumer electronics, industrial, communications, and finance sectors. A noted customer is MarCum Technologies, an ice-fishing electronics brand whose underwater cameras and sonar units are assembled at Versa's plant. The company is FDA registered and holds ISO 13485:2016 for medical manufacturing, and is an Apple MFi licensee for accessory production.
+Versa serves OEMs in medical, communications, industrial, transportation, and finance sectors. It holds FDA registration and ISO 13485:2016 certification for medical‑device work, and is an Apple MFi‑licensed developer. A noted customer is MarCum Technologies, for which Versa manufactures underwater cameras and ice‑fishing sonar systems. The company also supports consumer‑electronics OEMs and Fortune 500 accounts.
 
-Versa emphasizes flexibility, reliability, and consultative communication. The firm highlights its ability to manage variable demand and lead times, provide turnkey or consigned inventory models, and deliver on-time delivery metrics. Its quality system is certified to ISO 9001:2015 and compliant with IPC-A-610 Class 1-3 and IPC/WHMA-620 standards.
+Versa differentiates itself through versatility, flexibility, and reliability — reflected in quick‑changeover scheduling, in‑process engineering‑change‑order management, and a commitment to on‑time delivery at competitive pricing. The firm emphasizes consultative communication and risk‑based supply‑chain assessments to help clients navigate component shortages and lifecycle transitions.
 
 ## Known for
-- Over 6,000 inventoried components for build-to-order and consignment programs
-- Automated surface-mount and through-hole lines with BGA, AOI, and X-ray inspection
-- Quick changeover and in-process engineering change management
-- ISO 13485:2016 and ISO 9001:2015 certified, FDA registered
-- Apple MFi licensed for accessory manufacturing
+- Short- to medium-run production expertise
+- Over 6,000 inventoried components for quick turnaround
+- ISO 9001:2015 and ISO 13485:2016 certified with FDA registration
+- Apple MFi Developer Licensed
+- In-process engineering change order (ECO) management
 
 ## Capabilities
 - Printed Circuit Board Assembly (PCBA)
 - Surface Mount Technology (SMT) Assembly
 - Through-Hole Assembly
-- Box Build Assembly / System Integration
+- Box Build & System Integration
 - Cable & Wire Harness Assembly
 - Testing & Calibration
-- Conformal Coating & Potting
-- Global Supply Chain & Material Management
-- Product Lifecycle Support
-- Quick Changeover
-- In-Process ECO Management
-- Circuit Board & Sub-Assembly
-- Device Assembly
-- Complete BGA Capability
-- Wire Termination
 - Automated Optical Inspection (AOI)
-- X-ray Soldering Inspection
-- Prototyping
-- Short- to Medium-Run Production
-- Turnkey Manufacturing
-- Consignment Inventory Programs
-- Kanban Inventory Management
-- Design for Manufacturability Feedback
-- Component Procurement
-- Legacy Product Support
+- X-Ray Solder Inspection
+- Conformal Coating
+- Potting
+- Global Supply Chain Management
+- Product Lifecycle Support
+- BGA Assembly
+- Wire Termination
+- In-Process ECO Management
+- Quick Changeover Scheduling
 
 ## Industries
 - Medical Devices
-- Consumer Electronics
-- Industrial
 - Communications
+- Industrial
+- Transportation
 - Finance
+- Consumer Electronics
 
 ## Certifications
-- ISO 13485:2016
 - ISO 9001:2015
+- ISO 13485:2016
 - FDA Registered
 - IPC-A-610J Class 1-3
+- Apple MFi Developer Licensed
 - IPC Corporate Member
 - SMTA Corporate Member
-- Apple MFi Developer Licensed
-- CSA
-- TUV
-- ETL
-- UL
-- FCC
-- ROHS
-- REACH
+- ROHS Compliant
+- REACH Compliant
 - Conflict Minerals Compliant
-- EPA
-- FAR
-- NAFTA
-- MDH
-- MPCA
-- HCHW
-- CAN TSSA
+- CSA, TUV, ETL, UL & FCC Compliant
+- EPA, FAR, NAFTA, MDH, MPCA, HCHW, CAN TSSA Compliant
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1979
-- **Ownership:** Privately held (Kevin Johnsrud, CEO)
+- **Ownership:** Privately held
 - **Headquarters:** New Hope, Minnesota
 
 <details><summary>Sources</summary>
 
-- Founded 1979 as Versa Co. -> /about
-- Kevin Johnsrud acquired Versa Electronics assets in 1994 -> /about
-- Headquarters in New Hope, Minnesota -> db
-- ISO 13485:2016 and ISO 9001:2015 certified, FDA registered -> /about
-- Over 6,000 inventoried components for build-to-order -> /about
-- Services: PCBA, box build, cable assembly, testing, conformal coating -> /services
-- Industries served: Medical, Consumer, Industrial, Communications, Finance -> /
-- MarCum Technologies case study (ice fishing electronics) -> /
-- Apple MFi Developer Licensed -> /about
-- Automated surface mount and through-hole production, BGA capability, AOI, X-ray inspection -> /about
+- Founded 1979 -> /about
+- Headquarters New Hope, Minnesota -> db
+- CEO Kevin Johnsrud joined 1990, acquired assets 1994 -> /about
+- Separated from Versa Companies 2007 -> /about
+- ISO 9001:2015 certified -> /about, /
+- ISO 13485:2016 certified -> /about, /
+- FDA Registered -> /about, /
+- Apple MFi Developer Licensed -> /about, /
+- IPC-A-610J Class 1-3 compliant -> /about, /
+- ROHS, REACH, Conflict Minerals compliant -> /about, /
+- FAR, NAFTA, CAN TSSA compliant -> /about, /
+- Services: PCBA, box build, cable assembly, testing, conformal coating, potting, supply chain management -> /services
+- Industries: medical, communications, industrial, transportation, finance -> / (solutions)
+- MarCum Technologies case study -> /
+- Over 6,000 inventoried components -> /about
+- Short- to medium-run production -> /about
+- Quick changeover, in-process ECO management -> /about
+- State-of-the-art equipment -> /about
+- Automated optical inspection, X-ray solder inspection -> /about
+- BGA capability, wire termination -> /about
 </details>
 
 ---
@@ -330,54 +328,56 @@ Versa emphasizes flexibility, reliability, and consultative communication. The f
 **Old description:** Has served the industry since 1978 offering customers speedy quotes and production times. Specializing in all types of fabrication including forming, rolling, water jetting, laser and plasma cutting. From certified welding to final assembly, we do it all.
 
 ## About
-Versa-Tech Metal Fab Inc has operated from Portland, Oregon since 1978. The company runs a full-service fabrication shop at 12920 NE Whitaker Way, serving customers across the Pacific Northwest with a focus on speed from quote through delivery.
+Versa-Tech Metal Fab, Inc. was founded in 1978 in Portland, Oregon. The company has operated continuously as a metal fabrication shop serving industrial customers in the Pacific Northwest.
 
-The shop centers on heavy structural and plate fabrication. Its equipment lineup includes an Omax 55100 waterjet, a 5,000-watt Trumpf CO2 laser with auto-load tables, a Whitney 3700 ATC punch/plasma combination, and a Kinetic K4000 plate processor with dual Hypertherm HPR400XD high-definition plasma heads capable of cutting steel up to three inches thick. Forming capacity reaches 50 feet in a single hit via a tandem Cincinnati 1,500-ton and Pacific 1,000-ton press brake pair, supported by five additional brakes ranging from 60 to 500 tons. Four hydraulic shears handle up to 30-foot lengths, while two Roundo plate rolls, multiple bandsaws, a cold saw, and a Piranha 140-ton ironworker round out the floor. Welding covers MIG, TIG, and stud welding backed by numerous AWS certifications.
+The shop provides a full range of fabrication services including waterjet cutting, laser cutting, plasma cutting, CNC punching, forming, shearing, plate rolling, sawing, and welding. Its equipment roster includes an OMAX 55100 waterjet, a 5,000-watt Trumpf laser with auto-loader tables, a Whitney 3700 ATC CNC punch/plasma combination, a Kinetic K4000 plate processing machine with dual Hypertherm HPR400XD plasma heads, multiple press brakes up to 1,500 tons and 50-foot forming capacity, four hydraulic shears up to 30 feet long, plate rolls, band saws, a cold saw, and a Netweld 4000 stud welder. The facility also performs MIG and TIG welding with AWS-certified welders.
 
-Versa-Tech takes on projects from small brackets to major structural assemblies, working primarily in carbon steel. The company does not publish a specific industry list, but its capacity for thick plate, long-form parts, and certified welding suits construction, heavy equipment, transportation, and industrial machinery sectors.
+Versa-Tech serves a variety of industrial clients requiring custom metal fabrication, from small brackets to large structural assemblies. The company emphasizes its ability to handle projects from initial design through final assembly.
 
-The business was built on a promise of fast turnaround — speedy quotes and production times — and the ability to carry a job from raw material through final assembly under one roof.
+The company highlights its speed in quoting and production, its status as a complete fabrication shop capable of taking projects from start to finish, and its AWS welding certifications as key differentiators.
 
 ## Known for
 - Speedy quotes and production times
-- Complete fabrication under one roof (forming, cutting, welding, assembly)
-- 50-foot forming capacity in a single setup
-- High-definition plasma cutting up to 3-inch steel
-- AWS-certified welding procedures
+- Complete fabrication services from start to finish
+- AWS certified welding
+- Forming capacity up to 50 feet
+- In-house waterjet, laser, and plasma cutting
 
 ## Capabilities
-- Metal fabrication
-- Welding (MIG, TIG, stud)
-- Forming (press brake up to 50 ft)
-- Rolling (plate roll up to 8 ft)
-- Waterjet cutting (Omax 55100)
-- Laser cutting (5 kW CO2)
-- Plasma cutting (high-def up to 3 in, medium-def)
-- Punching (CNC turret)
-- Shearing (up to 30 ft)
-- Sawing (band, cold)
-- CAD/CNC programming
+- Waterjet cutting
+- Laser cutting
+- Plasma cutting
+- CNC punching
+- Forming (press brake)
+- Shearing
+- Plate rolling
+- Sawing (band saw, cold saw)
+- MIG welding
+- TIG welding
+- Stud welding
 - Final assembly
+- CAD/CNC programming
 
 ## Equipment
-- Omax 55100 Waterjet
-- Trumpf 5000 Watt CO2 Laser with Auto Loader Tables
+- OMAX 55100 Water Jet
+- Trumpf 5000 Watt Laser with Auto Loader Tables
 - Whitney 3700 ATC CNC Punch/Plasma
-- Kinetic K4000 Plate Processing Machine with dual Hypertherm HPR400XD plasma heads
+- Kinetic K4000 Plate Processing Combination Machine with dual Hypertherm HPR400XD plasma heads
+- Piranha Ironworker Model PII-140 Ton
 - Cincinnati 1500 Ton x 30' Press Brake (tandem with Pacific 1000 Ton x 20')
 - Accurpress 500 Ton x 26' Press Brake
 - Accurpress 320 Ton x 14' Press Brake
-- Cincinnati 350 Ton x 10' Press Brake
+- Cincinnati 350 Ton x 10' Press Brake with 2-axis CNC back gauge
 - Cincinnati 135 Ton x 12' Mechanical Press Brake
-- Accurpress 60 Ton x 6' Press Brake
-- Pacific 30' Hydraulic Shear (1/2" capacity)
-- Accurshear 16' Hydraulic Shear (3/4" capacity)
-- Accurshear 12' Hydraulic Shear with CNC Backgauge and Conveyor Offload
-- Summit 10' Shear (1/4" capacity)
-- Piranha Ironworker Model PII-140 Ton
+- Accurpress 60 Ton x 6' Press Brake with ETS 3000 controls
+- Pacific 30' Hydraulic Shear 1/2" capacity
+- Accurshear 16' Hydraulic Shear 3/4" capacity
+- Accurshear 12' Hydraulic Shear 3/8" capacity with CNC back gauge and conveyor offload
+- Summit 10' x 1/4" Shear
 - Roundo Plate Roll 8' x 3/8"
 - Roundo Plate Roll 6' x 1/4"
-- Wells Horizontal Band Saw L-10
+- Miniature Bench Roll
+- Wells Horizontal Band Saw Model L-10
 - DoAll Vertical Band Saw
 - Doringer D-350 Cold Saw
 - Netweld 4000 Stud Welder
@@ -393,14 +393,13 @@ The business was built on a promise of fast turnaround — speedy quotes and pro
 <details><summary>Sources</summary>
 
 - Founded 1978 -> db
-- Headquarters Portland, Oregon -> db and page '/'
-- Full-service fabrication shop (forming, cutting, welding, assembly) -> page '/'
-- Equipment list (waterjet, laser, plasma, press brakes, shears, rolls, saws, ironworker, stud welder) -> page '/'
-- 50 ft forming capacity via tandem press brakes -> page '/'
-- High-def plasma cutting up to 3 in steel -> page '/'
-- AWS welding certifications -> page '/'
-- Speedy quotes and production times -> page '/'
-- Works in carbon steel (implied by thickness specs) -> page '/'
+- Headquarters Portland, Oregon -> db
+- Services: fabrication, welding, waterjet, laser, plasma, forming, shearing, rolling, sawing -> /
+- Equipment list (waterjet, laser, punch/plasma, plate processing, ironworker, press brakes, shears, rolls, saws, stud welder) -> /
+- AWS welding certifications mentioned -> /
+- Speedy quotes and production times claimed -> /
+- Complete fabrication shop start to finish claimed -> /
+- Forming capacity up to 50 ft claimed -> /
 </details>
 
 ---
@@ -410,53 +409,55 @@ The business was built on a promise of fast turnaround — speedy quotes and pro
 **Old description:** VEXOS specializes in providing innovative Custom Material Solutions (CMS) for Original Equipment Manufacturers (OEMs). With comprehensive offerings, we deliver tailored solutions across Electro-Mechanical Components, Metal Fabrication, Molded Parts, along with Cable & Harness Assembly. Our commitment to excellence enables OEMs to improve product quality, reduce waste, and optimize resources, giving them a competitive edge in the electronics industry.
 
 ## About
-VEXOS is headquartered in King of Prussia, Pennsylvania. The company does not disclose its founding year or ownership structure in the provided materials. It operates as part of the East West family following an acquisition announced on its website.
+Vexos is headquartered in King of Prussia, Pennsylvania. The company, now part of the East West family, operates as a global electronics manufacturing services (EMS) provider with a focus on custom material solutions for original equipment manufacturers.
 
-The company provides electronics manufacturing services (EMS) and custom material solutions (CMS) for original equipment manufacturers. Its capabilities span printed circuit board assembly, box build, cable and harness assembly, precision metal fabrication (stamping, die-casting, extrusions), molded parts assembly, and advanced engineering services such as design for manufacturing, design for assembly, and value engineering. VEXOS operates a global footprint with facilities in the United States, Canada, Mexico, Vietnam, and China, supporting high-mix, high-complexity, mid-to-low-volume production. Specific facility sizes, headcount, or annual volumes are not disclosed.
+Vexos delivers high-mix, high-complexity, mid to low-volume electronics manufacturing across a global footprint that includes facilities in the United States, Canada, Mexico, Vietnam, and China. Its service portfolio spans printed circuit board assembly (PCBA), box build and sub-system assembly, cable and harness assembly, precision metal fabrication (stamping, die-casting, extrusions), molded parts, and advanced engineering services such as design for manufacturing (DFM), design for fabrication (DFF), and new product introduction (NPI) support. The company also provides supply chain management, direct order fulfillment, and reverse logistics including repair depot and RMA services.
 
-VEXOS serves OEMs across communications, industrial equipment, medical, computing, automotive, aerospace and defense, lighting, display technology, appliance, HVAC, health and fitness equipment, and consumer electronics markets. The company highlights work with medical OEMs delivering clinical to patient-side technologies, automotive suppliers, and aerospace and defense customers requiring mission-critical solutions.
+The company serves OEMs in communications, industrial equipment, medical devices, computing, automotive, and aerospace and defense, as well as lighting, appliance, HVAC, health and fitness, and consumer electronics markets. Customers range from medical OEMs developing clinical and patient-side technologies to automotive suppliers and aerospace and defense contractors requiring ITAR-registered production.
 
-VEXOS emphasizes a “Local Service. Global Capabilities.” model, combining a customer-centric culture of responsiveness and flexibility with a hybrid manufacturing approach that leverages the strengths of each global site. Differentiators cited include single-source accountability for complementary products and services, domestic warehousing in North America, dedicated RoHS and non-RoHS production lines, and ITAR registration at its Vancouver, Washington facility.
+Vexos emphasizes a customer-centric culture built on responsiveness, flexibility, and entrepreneurialism, with executive leadership engaged in direct communication. Its differentiated model combines front-end value engineering, custom material solutions, and a global manufacturing footprint to accelerate time-to-market while minimizing risk across the product lifecycle.
 
 ## Known for
-- Local Service. Global Capabilities.
-- High-mix, high-complexity, mid to low-volume EMS
-- Global manufacturing footprint across USA, Canada, Mexico, Vietnam, China
-- Advanced engineering (DFX) engaging early in design cycle
-- Custom material solutions for electro-mechanical, metal fabrication, molded parts, cable & harness
+- Global manufacturing footprint across USA, Canada, Mexico, Vietnam, and China
+- High-mix, high-complexity, mid to low-volume electronics manufacturing services
+- Integrated custom material solutions spanning electro-mechanical components, metal fabrication, molded parts, and cable assemblies
+- Design for manufacturing (DFM) and value engineering services engaged early in the design cycle
+- ITAR registered and AS9100D certified for aerospace and defense programs
 
 ## Capabilities
-- PCB assembly (PCBA)
-- Box build assembly
-- Cable and harness assembly
-- Precision metal fabrication (stamping, die-casting, extrusions)
-- Molded parts assembly
-- Advanced engineering services (DFX)
-- Design for manufacturing (DFM)
-- Design for assembly (DFA)
-- Design for fabrication (DFF)
-- Value engineering
-- New product introduction (NPI)
-- Supply chain management
-- Global manufacturing footprint (USA, Canada, Mexico, Vietnam, China)
-- RoHS and non-RoHS production
-- Temperature and humidity controlled production
-- Test plan development for PCBA
-- Direct order fulfillment
-- Reverse logistics (RMA, repair depot)
-- PCB fabrication design
-- Integration services
-- Custom material solutions
+- Electronics Manufacturing Services (EMS)
+- Printed Circuit Board Assembly (PCBA)
+- Box Build Assembly
+- Sub-system Assembly
+- Cable & Harness Assembly
+- Precision Metal Fabrication: Stamping, Die-Casting & Extrusions
+- Molded Parts & Assembly
+- New Product Introduction (NPI)
+- Design for Manufacturing (DFM)
+- Design for Fabrication (DFF)
+- Value Engineering Services
+- Advanced Engineering Services (DFX)
+- Custom Material Solutions
+- Supply Chain Solutions
+- Global Manufacturing Footprint
+- Direct Order Fulfillment
+- Reverse Logistics (RMA & Repair Depot)
+- RoHS and non-RoHS Processes
+- Integration Services
+- PCB Assembly & Test
+- Electro-Mechanical Components
+- After Sales Support
+- Material Procurement
+- Final Packaging & Logistics
 
 ## Industries
 - Communications
 - Industrial Equipment
-- Medical
+- Medical Devices
 - Computing
 - Automotive
 - Aerospace & Defense
 - Lighting
-- Display Technology
 - Appliance
 - HVAC
 - Health and Fitness Equipment
@@ -466,17 +467,14 @@ VEXOS emphasizes a “Local Service. Global Capabilities.” model, combining a 
 - ISO 9001:2015
 - ISO 13485:2016
 - AS9100D
-- FDA Registered
-- ITAR Registered
-- TL9000
-- ISO 14001:2015
 - IATF 16949:2016
+- ISO 14001:2015
 - ISO 45001:2018
 - ISO 50001
-- RoHS processes
-- Controlled Goods Program registered facility
-- Certified IPC-A-610 Specialists (CIS)
-- Certified IPC Trainers (CIT)
+- TL9000
+- FDA Registered
+- ITAR Registered
+- Controlled Goods Program
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -486,58 +484,53 @@ VEXOS emphasizes a “Local Service. Global Capabilities.” model, combining a 
 
 - Headquarters in King of Prussia, Pennsylvania -> db
 - Part of East West family -> /
-- EMS and custom material solutions provider -> /about
-- Capabilities: PCBA, box build, cable/harness, metal fabrication, molded parts, DFX, NPI, supply chain -> /services, /about
-- Global facilities in USA, Canada, Mexico, Vietnam, China -> /, /about, /services
-- Industries served: communications, industrial, medical, computing, automotive, aerospace & defense, lighting, display, appliance, HVAC, health/fitness, consumer electronics -> /, /services
-- Certifications: ISO 9001:2015, ISO 13485:2016, AS9100D, FDA, ITAR, TL9000, ISO 14001, IATF 16949, ISO 45001, ISO 50001, RoHS, Controlled Goods Program, IPC-A-610, IPC trainers -> /quality
-- Languages: English, German, Vietnamese, Chinese, French, Spanish -> /
+- Global manufacturing footprint: USA, Canada, Mexico, Vietnam, China -> /about
+- High-mix, high-complexity, mid to low-volume EMS -> /about
+- Services: PCBA, box build, cable assembly, metal fabrication, molded parts -> /services
+- Industries: Communications, Industrial, Medical, Computing, Automotive, Aerospace & Defense -> /about
+- Certifications: ISO 9001:2015, ISO 13485:2016, AS9100D, IATF 16949:2016, ISO 14001:2015, ISO 45001:2018, ISO 50001, TL9000, FDA Registered, ITAR Registered, Controlled Goods Program -> /quality
+- Languages: English, Deutsch, Tiếng Việt, 中文 (简体), Français, Español -> /
 - LinkedIn URL -> db
-- Volume: high-mix, high-complexity, mid to low-volume -> /about, /services
-- Differentiators: Local Service Global Capabilities, hybrid manufacturing, single-source accountability, domestic warehousing, dedicated RoHS lines -> /about, /services
 </details>
 
 ---
 
 # Vibrant Ingredients
 
-_skipped: not enough facts_
+_skipped: The read operation timed out_
 
 # Victory Metal Works
 
 **Old description:** Our quality craftsmanship, stunning designs and excellent customer service coupled with competitive pricing makes us one of Arizona’s leading manufacturers of iron and steel products. We service the Phoenix metro area and have many satisfied clients that we have amassed over our years in the Valley of the Sun. If you look, you can see out touch on countless homes throughout the Valley. Victory Metal Works is Arizona’s leading manufacturer of custom architectural elements for projects in Scottsdale, Paradise Valley and the Greater Phoenix area.
 
 ## About
-Victory Metal Works operates from Scottsdale, Arizona, where it has served the Phoenix metropolitan area for over 25 years. The company fabricates custom architectural iron and steel products from its facility at 8350 E. Evans Road, Suite B2, handling design, fabrication, and installation under one roof.
+Based in Scottsdale, Arizona, Victory Metal Works has been fabricating custom iron and steel products for more than 25 years. The company serves the Phoenix metropolitan area, including Scottsdale and Paradise Valley, from its shop on East Evans Road.
 
-The shop specializes in custom iron entry doors — single, double, sidelight, transom, wine cellar, and modern styles — as well as gates, railings, fencing, balconies, and ornamental metal sculptures. All fabrication is performed in-house using steel and wrought iron, with finishes typically consisting of acrylic paint. Typical lead times for custom pieces run eight to ten weeks from design approval to installation.
+The shop designs, fabricates, and installs custom iron entry doors, gates, stair railings, balconies, fencing, and architectural metalwork for residential and commercial projects. Every piece is built to order in the company's Scottsdale facility using steel, wrought iron, and glass, with acrylic paint finishes available. Typical lead times for custom orders run eight to ten weeks.
 
-Victory Metal Works serves residential and commercial clients across Scottsdale, Paradise Valley, and the greater Phoenix region. Its customers include homeowners, builders, and architects seeking custom architectural metalwork for luxury homes and commercial properties.
+Victory Metal Works works primarily with homeowners, builders, and architects on luxury residential and commercial properties throughout the Valley of the Sun. Projects range from single entry doors with sidelights and transoms to complete gate and railing systems for estates and businesses in Scottsdale, Paradise Valley, and the greater Phoenix area.
 
-The company emphasizes a service-first approach, citing its decades of experience and a commitment to exacting craftsmanship, detail, and style as the foundation of its reputation. Free quotes and on-site consultations are offered to ensure each project meets the client's vision.
+The company emphasizes its quarter-century of experience and a service-first approach, stating that every door is unique and crafted with exacting detail. All fabrication is performed in-house in Scottsdale, which the firm cites as a key differentiator for quality control and turnaround.
 
 ## Known for
-- Over 25 years of experience in custom iron fabrication
-- All steel and iron products fabricated in-house in Scottsdale, AZ
-- Service-first approach with free quotes and on-site consultations
-- Design-to-installation capability for doors, gates, railings, and architectural metalwork
-- Typical lead times of 8–10 weeks for custom projects
+- Over 25 years of experience in custom metal fabrication
+- All steel and iron products fabricated in Scottsdale, Arizona
+- In-house design, fabrication, and installation
+- Custom architectural metalwork for residential and commercial projects
+- Lead times of 8–10 weeks for custom orders
 
 ## Capabilities
 - Custom iron entry door fabrication
 - Metal gate fabrication
 - Metal railing fabrication
 - Architectural metal fabrication
-- Custom metal fabrication
-- Installation of fabricated products
-- Design services
-- Finishing (acrylic paint)
-- Glass element integration
-- Hardware fabrication
+- Custom metal sculpture fabrication
+- Installation of metalwork
+- Design and engineering of custom metalwork
 
 ## Industries
-- Residential
-- Commercial
+- Residential construction
+- Commercial construction
 - Architectural metalwork
 
 ## Company details
@@ -546,15 +539,14 @@ The company emphasizes a service-first approach, citing its decades of experienc
 
 <details><summary>Sources</summary>
 
-- Location: Scottsdale, AZ -> db
-- Over 25 years experience -> /
-- Fabricates custom iron entry doors, gates, railings, architectural metalwork -> /
-- All products fabricated in Scottsdale, AZ -> /
-- Lead times 8-10 weeks -> /
-- Materials: steel, wrought iron, acrylic paint -> /
-- Service is number one priority -> /
-- Serves Phoenix metro area -> /
-- Company type: manufacturer -> db
+- Headquarters: Scottsdale, AZ -> db
+- Over 25 years experience -> page '/'
+- Custom iron entry doors, gates, railings, architectural metalwork -> page '/'
+- Materials: steel, wrought iron, glass -> page '/'
+- Finish: acrylic paint -> page '/'
+- Lead time 8-10 weeks -> page '/'
+- Service area: Scottsdale, Paradise Valley, Greater Phoenix -> page '/'
+- In-house fabrication in Scottsdale -> page '/'
 </details>
 
 ---

@@ -3,31 +3,32 @@
 **Old description:** Founded by Brent and Tracie Roeder, The Montana Sheep Company is a first-generation livestock operation, located in Fort Shaw, Montana. Specializing in Targhee Lamb, a breed specifically picked for our local environment, these lambs have received rave reviews from our older and younger customers alike!
 
 ## About
-Central Avenue Meats, operating as The Montana Sheep Company, is a first-generation livestock operation founded by Brent and Tracie Roeder. The business is based in Fort Shaw, Montana, near Great Falls, where the Roeders raise Targhee sheep selected for the region's climate and terrain.
+Central Avenue Meats, based in Great Falls, Montana, with livestock operations in nearby Fort Shaw, was founded by Brent and Tracie Roeder as a first-generation family venture. The Roeders established the business to raise sheep suited to the region’s climate and terrain.
 
-The company focuses on producing Targhee lamb, a breed chosen for its adaptability to the local environment. Operations cover breeding, raising, and processing lamb for market. Specifics on facility size, headcount, or annual volume are not publicly disclosed.
+The company specializes in Targhee lamb, a breed chosen specifically for its adaptability to the local Montana environment. They manage the full cycle from livestock raising through meat processing, supplying both wholesale restaurant partners and direct-to-consumer customers.
 
-The operation sells to both wholesale and retail channels. Restaurant partners are listed as a key customer segment, while direct sales to individual customers — described as both older and younger buyers — also form part of the business.
+Their customer base includes restaurants — highlighted as "Restaurant Partners" — and individual consumers of all ages, with the lamb earning positive feedback from older and younger buyers alike.
 
-The Roeders started the venture to offer a lamb product suited to Montana's conditions, emphasizing the breed's fit with the landscape as a point of difference. The company highlights positive customer feedback as validation of that approach.
+The Roeders’ decision to focus on the Targhee breed reflects a commitment to producing a product that thrives in the area’s conditions, a differentiator they cite as central to their operation.
 
 ## Known for
-- Specializes in Targhee lamb bred for Montana environment
-- First-generation family livestock operation
-- Serves both restaurant and direct consumer markets
+- Targhee lamb breed selected for local Montana environment
+- First-generation livestock operation
+- Positive customer feedback across age groups
 
 ## Capabilities
-- Livestock raising
-- Targhee lamb production
+- Lamb production
+- Restaurant supply
+- Direct-to-consumer sales
 
 ## Industries
 - Restaurant
-- Food service
-- Direct-to-consumer retail
+- Agriculture
+- Food processing
 
 ## Company details
 - **Company Type:** Manufacturer
-- **Ownership:** First-generation
+- **Ownership:** First-generation family-owned
 - **Headquarters:** Great Falls, Montana
 
 <details><summary>Sources</summary>
@@ -35,10 +36,11 @@ The Roeders started the venture to offer a lamb product suited to Montana's cond
 - Founded by Brent and Tracie Roeder -> db
 - First-generation livestock operation -> db
 - Located in Fort Shaw, Montana -> db
+- Headquarters in Great Falls, Montana -> db
 - Specializing in Targhee Lamb -> db
 - Breed picked for local environment -> db
-- Restaurant Partners listed -> db
-- Customer reviews from older and younger customers -> db
+- Restaurant Partners mentioned -> db
+- Rave reviews from older and younger customers -> db
 </details>
 
 ---
@@ -48,69 +50,74 @@ The Roeders started the venture to offer a lamb product suited to Montana's cond
 **Old description:** A lot has changed since 1974, the year Central Cable was founded. The industry has experienced a revolution with the advancement of such products as fiber optic cable and the development of construction methods such as directional boring. Central Cable has substantially grown over the decades from just a handful of employees to an industry leader with over 185 employees.
 
 ## About
-Central Cable Contractors Inc is based in Waupun, Wisconsin, and was founded in 1974. The company began as a cable plowing operation with a handful of employees and has grown to over 185 staff. Ownership structure is not publicly disclosed, and founder names are not stated in available sources.
+Central Cable Contractors, Inc. was founded in 1974 in Waupun, Wisconsin. The company began as a cable plowing operation and has grown from a handful of employees to an industry leader with over 185 employees. Ownership details are not publicly disclosed.
 
-The firm provides underground construction services for telecommunications infrastructure. Its core processes include cable plowing, directional boring, fiber optic cable jetting, trenching, splicing, cable locating, drop installation, and hydro excavation. The fleet comprises more than 35 cable plows (up to 60,000-pound Caterpillar track machines), 50 directional boring machines (including rock-boring units), over 75 trenching units, 25 large hydro excavation trucks, and 12 mini trailer vacuum systems. Crews are each equipped with cable jetting systems. Project scale ranges from single-day drops to installations exceeding 300 miles of plowing and bores over 1,500 feet.
+The firm provides underground construction services for telecommunications and broadband networks, including cable plowing, directional boring, fiber optic cable jetting, trenching, splicing, cable locating, drop installation, and hydro excavation. Its fleet comprises more than 35 cable plows (ranging from rubber-track drop plows to a 60,000-pound Caterpillar track machine), 50 directional boring machines, 75 pieces of trenching equipment, 25 large hydro excavation trucks, and 12 custom-built mini trailer vac systems. Crews handle projects from single-day drops to installations exceeding 300 miles of cable plowing and 1,500-foot directional bores.
 
-Primary customers are telecommunications providers, broadband cooperatives, and contractors building fiber-to-the-home networks. Documented projects include a 48-mile fiber network for South Slope Cooperative Communications in Iowa and an 89-mile rural FTTH build for CTC Technology connecting 270 homes. The company also references work for Comm 1 and other community broadband initiatives.
+Central Cable serves the telecommunications, broadband, and fiber-to-the-home (FTTH) sectors. Notable projects include a 48-mile fiber network for South Slope Cooperative Communications in Iowa and an 89-mile rural FTTH build for CTC Technology connecting 270 homes. The company also works with providers such as Comm 1, delivering turnkey construction from conduit placement through splicing and testing.
 
-Central Cable states its mission is to lead in quality and production while keeping customer relationships as the top priority. It emphasizes a safe, family-oriented work environment and long-term employee retention, noting that many cable locators have 15-plus years of experience. The company says it stays committed to relationships with customers and employees as the foundation for continued prosperity.
+The company states its mission is to relentlessly pursue industry leadership in quality and production while keeping customer relationships as the top priority. It emphasizes a safe, family-oriented work environment and points to its experienced cable locators (15+ years average) and in-house engineered hydro excavation trailers as key differentiators.
 
 ## Known for
-- Fleet of 35+ cable plows including 60,000-lb Caterpillar track machines
-- 50 directional boring machines with rock-boring capability
-- 75+ trenching units matched to site conditions
-- 25+ hydro excavation trucks and 12 mini trailer vac systems for tight easements
-- Each crew equipped with independent cable jetting system
+- Fleet of 35+ cable plows and 50+ directional boring machines
+- 25 hydro excavation trucks and 12 custom mini trailer vac systems
 - Cable locators with 15+ years average experience
+- Full FTTH splicing capabilities including ribbon, microfiber, and OTDR testing
+- In-house engineered mini hydro excavation trailers for damage prevention
 
 ## Capabilities
-- Cable plowing
-- Directional boring
-- Fiber optic cable jetting
+- Cable Plowing
+- Directional Boring
+- Fiber Optic Cable Jetting
 - Trenching (backhoe, excavator, mini excavator, chain trencher)
-- Splicing (copper, loose tube, ribbon, microfiber, FTTH architectures)
-- Cable locating
-- Drop installation
-- Hydro excavation
-- OTDR testing at multiple wavelengths
-- Hot cuts and emergency restoration
-- Pre-connectorized plant design
-- Open architecture pedestal construction
+- Splicing (copper, traditional fiber, microfiber, ribbon, OTDR testing)
+- Cable Locating
+- Drop Installation
+- Hydro Excavation (large truck and mini trailer vac)
 
 ## Industries
 - Telecommunications
 - Broadband
-- Fiber optic networks
-- Fiber-to-the-home (FTTH)
-- Rural broadband
-- Cooperative communications
+- Fiber Optic Networks
+- FTTH (Fiber to the Home)
+- Rural Broadband
+- Utility Construction
 
 ## Equipment
-- Caterpillar 60,000-lb track cable plow
-- Directional boring machines (50 units, various sizes)
-- Rock boring equipment (two sets)
-- Trenching equipment: backhoes, excavators, mini excavators, chain trenchers (75+ units)
-- Hydro excavation trucks (25+ large units)
-- Mini trailer vacuum systems (12 units)
-- Cable jetting systems (one per crew)
+- Caterpillar track cable plow (60,000 lb)
+- Rubber track drop plow
+- Directional boring machines (50 units)
+- Trenching equipment: backhoe, excavator, mini excavator, chain trencher (75+ units)
+- Hydro excavation trucks (25+)
+- Mini trailer vac systems (12 custom-built)
+- Cable jetting systems
 
 ## Company details
 - **Company Type:** Installer / service company
 - **Founded:** 1974
-- **Employees:** 185+
+- **Employees:** over 185
 - **Headquarters:** Waupun, Wisconsin
 
 <details><summary>Sources</summary>
 
-- Founded 1974, Waupun WI, 185+ employees -> db, /about-us
-- Services list (plowing, boring, jetting, trenching, splicing, locating, drops, hydro excavation) -> /, /services
-- Fleet counts: 35+ plows, 50 boring machines, 75+ trenching, 25+ hydro trucks, 12 mini vacs -> /services
-- Project examples: South Slope 48-mile, CTC 89-mile FTTH -> /
-- Mission statement and core values -> /about-us
-- Splicing details: FTTH architectures, ribbon, microfiber, OTDR testing -> /services
-- Cable locators 15+ years experience -> /services
-- Equipment specifics: Caterpillar track machine, rock boring sets, jetting per crew -> /services
+- Founded 1974 -> /about-us
+- Headquarters Waupun, WI -> db
+- Over 185 employees -> /about-us
+- 35+ cable plow machines -> /services
+- 50 directional boring machines -> /services
+- 75+ trenching equipment -> /services
+- 25 hydro excavation trucks -> /services
+- 12 mini trailer vac systems -> /services
+- Cable locators with 15+ years experience -> /services
+- FTTH splicing capabilities (ribbon, microfiber, OTDR) -> /services
+- 48-mile fiber network for South Slope Cooperative Communications -> /
+- 89-mile rural FTTH for CTC Technology -> /
+- Work with Comm 1 -> /
+- Mission statement about quality, production, customer relationships -> /about-us
+- Caterpillar track machine 60,000 lb -> /services
+- Rubber track drop plow -> /services
+- Chain trencher for rock conditions -> /services
+- In-house engineered mini trailer vac systems -> /services
 </details>
 
 ---
@@ -124,41 +131,44 @@ _skipped: not enough facts_
 **Old description:** What is known today as Central City Manufacturing started in the 1970's. It was purchased by its current owners  in 1988 and was given its current name.  The business has been a staple in the community and employs local workers to perform the tasks and duties at hand. We are proudly veteran owned and managed. All our products are USA made right in the heart of Iowa.
 
 ## About
-Central City Manufacturing operates from Central City, Iowa. The business traces its roots to the 1970s and was acquired by its current owners in 1988, adopting the present name. It is veteran owned and managed, and emphasizes domestic production using U.S.-sourced materials.
+Central City Manufacturing operates from Central City, Iowa. The business traces its roots to the 1970s and was acquired by its current owners in 1988, at which point it adopted its present name. The company is veteran owned and managed, and it emphasizes domestic production using locally sourced labor.
 
-The company focuses on three core product lines: tent stakes, backpack frames, and jack stands. In addition to these stock items, it offers custom fabrication and welding services on a project basis. All assembly takes place at its Iowa facility, though the company does not disclose facility size, headcount, or annual volumes.
+The shop focuses on custom fabrication and welding, offering custom welding and fabrication projects on request. Its core product line consists of tent stakes, backpack frames, and jack stands, all assembled in Central City from U.S.-grade materials. No facility size or headcount figures are disclosed.
 
-While the firm does not publicly list target industries, its product mix suggests service to outdoor equipment, camping, and industrial support markets. Customers can request custom welding and fabrication work directly.
+The company does not publicly list specific industry sectors, but its product range suggests service to outdoor equipment, camping, and industrial support markets. Customers include buyers seeking domestically made metal components and assemblies.
 
-The company highlights its veteran ownership, commitment to USA-made goods, and local employment as distinguishing factors. It states that quality and integrity guide its operations, with all materials sourced domestically.
+Central City Manufacturing distinguishes itself through a commitment to quality and integrity, sourcing all materials domestically and keeping assembly in-house. The veteran ownership structure is presented as a core element of its operational philosophy.
 
 ## Known for
 - Veteran owned and managed
-- All products made in the USA from U.S.-sourced materials
-- Custom fabrication and welding available on request
-- Local workforce in Central City, Iowa
+- All products made in USA (Central City, Iowa)
+- Sources U.S.-grade materials
+- Custom welding and fabrication projects available on request
+- Focus on quality and integrity
 
 ## Capabilities
 - Custom fabrication
 - Custom welding
-- Fabrication projects
-- Assembly
+- Welding and fabrication projects
 
 ## Company details
 - **Company Type:** Manufacturer
+- **Founded:** 1970s
 - **Ownership:** Veteran-owned
 - **Headquarters:** Central City, Iowa
 
 <details><summary>Sources</summary>
 
-- Started in 1970s -> db, /
-- Purchased by current owners in 1988 -> db, /
-- Veteran owned and managed -> db, /
-- Located in Central City, Iowa -> db, /
-- Products: tent stakes, backpack frames, jack stands -> /
-- USA made, USA grade materials, assemble in Central City, Iowa -> /
-- Employs local workers -> db, /
-- Custom fabrication, custom welding and fabrication projects upon request -> db, /
+- Started in 1970s -> /
+- Purchased by current owners in 1988 -> /
+- Veteran owned and managed -> /
+- USA made in Central City, Iowa -> /
+- Main products: tent stakes, backpack frames, jack stands -> /
+- Source USA grade materials -> /
+- Assemble all products in Central City, Iowa -> /
+- Custom fabrication and welding services -> /
+- Custom welding and fabrication projects upon request -> /
+- Company name, location, website -> db
 </details>
 
 ---
@@ -168,34 +178,34 @@ The company highlights its veteran ownership, commitment to USA-made goods, and 
 **Old description:** was founded in 2014 and opened it's first location in Pacific Grove (CA). Our mission? Bring healthy, fresh, organic juice to the local community. The result?
 
 ## About
-Central Coast Live Foods operates from Watsonville, California, and traces its roots to 2014 when Central Coast Juicery opened its first location in Pacific Grove. The business was built around a mission to bring fresh, organic juice to the local community; a founder named Max is referenced in customer feedback discussing order fulfillment. What began as a juice shop evolved after customers repeatedly asked for more food options, the team to develop a single product that met their ingredient standards.
+Central Coast Live Foods traces its roots to 2014 when Central Coast Juicery opened its first location in Pacific Grove, California. The juice shop was founded with a mission to bring healthy, fresh, organic juice to the local community. A team member named Max is noted handling customer communications, though the founders are not identified in public materials. The company is now headquartered in Watsonville, California.
 
-The company manufactures Kraut Krackers, a fermented cracker made from just four organic ingredients. The production process centers on fermentation, which the company says enhances nutrient absorption and provides probiotics, dietary fiber, electrolytes, and healthy fats. The crackers are soy-free, sugar-free, seed-oil-free, gluten-free, and vegan. From a kitchen that could not keep up with demand, production scaled to the point that the product now sits on retail shelves across California, serving hundreds of direct customers.
+The company manufactures Kraut Krackers, a fermented cracker made from four organic ingredients. The product is produced through a fermentation process that the company says enhances nutritional quality and nutrient absorption. After initial sales through the juice shops, demand outpaced the original production capacity, prompting a scale-up that now places the crackers in retail stores across California. Specific facility size, headcount, and annual volumes are not disclosed.
 
-The primary buyers are health-focused consumers seeking gut-health support, including people with conditions such as Crohn's disease, as well as vegan and fitness-oriented shoppers looking for a post-workout snack with electrolytes. The product is positioned in the organic snack, functional food, and gut-health categories, sold both direct-to-consumer and through California retail accounts.
+The brand serves the health-food and specialty-snack sectors, selling directly to consumers online and through retail distribution in California. Customers cited in reviews include individuals managing gut-health conditions such as Crohn’s disease, vegans seeking clean-label snacks, and athletes looking for electrolyte-rich post-workout options. The product is marketed as soy-free, sugar-free, seed-oil-free, gluten-free, and vegan.
 
-The founders say they created Kraut Krackers because it was the only food product that matched their criteria for nutrient-dense, minimally processed ingredients without ultra-processed additives. Customer demand outpaced their ability to make the crackers by hand, prompting them to ramp up production and expand distribution.
+The shift from juice to crackers was driven by customer demand for nutrient-dense foods without ultra-processed ingredients. The company states that Kraut Krackers were the only product meeting their standards for minimal processing—just four simple ingredients—and that fermentation differentiates the snack by providing probiotics, fiber, electrolytes, and healthy fats in a shelf-stable format.
 
 ## Known for
-- Just 4 organic, simple ingredients
-- Fermentation for probiotic and nutrient absorption benefits
-- Free of soy, sugar, seed oils, and gluten
-- Vegan formulation designed not to taste like cardboard
-- Free U.S. shipping on orders over $105
+- Four-ingredient organic formulation
+- Fermentation for probiotic content and nutrient bioavailability
+- Free from gluten, soy, added sugar, and seed oils
+- Vegan and suitable for specialty diets
+- Produced and packaged in California
 
 ## Capabilities
 - Fermentation
-- Organic snack food manufacturing
-- Clean-label product formulation
-- Retail distribution across California
-- Direct-to-consumer e-commerce fulfillment
+- Clean-label food formulation
+- Small-batch production
+- Retail packaging
+- Direct-to-consumer fulfillment
 
 ## Industries
-- Organic food manufacturing
-- Healthy snack foods
-- Functional food and gut health products
-- Vegan food products
-- Sports nutrition snacks
+- Health food
+- Snack food
+- Organic food
+- Specialty food retail
+- Direct-to-consumer food
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -204,16 +214,14 @@ The founders say they created Kraut Krackers because it was the only food produc
 
 <details><summary>Sources</summary>
 
-- Founded in 2014 -> db
-- First location in Pacific Grove, CA -> /
+- Founded 2014 in Pacific Grove, CA as Central Coast Juicery -> /
 - Headquarters in Watsonville, California -> db
-- Founder referenced as Max in customer review -> /
-- Product: Kraut Krackers, fermented crackers with 4 organic ingredients -> /
-- Process: fermentation enhances nutrient absorption, provides probiotics, fiber, electrolytes, healthy fats -> /
-- Attributes: soy-free, sugar-free, seed-oil-free, gluten-free, vegan -> /
-- Scale: retail stores across California, hundreds of customers -> /
-- Target customers: gut-health seekers, Crohn's sufferers, vegans, fitness enthusiasts -> /
-- Origin story: created because product met standards for nutrient-dense, minimally processed food -> /
+- Manufactures Kraut Krackers fermented crackers with four organic ingredients -> /
+- Fermentation process used for probiotic content and nutrient absorption -> /
+- Products sold direct-to-consumer and in retail stores across California -> /
+- Product claims: soy-free, sugar-free, seed oil free, gluten-free, vegan -> /
+- Team member Max handles customer service -> /
+- Originated from juice shop customer demand for nutrient-dense foods -> /
 </details>
 
 ---
@@ -223,38 +231,39 @@ The founders say they created Kraut Krackers because it was the only food produc
 **Old description:** At Central Custom Molding we have combined cutting edge technology with legendary experience. When your project
 
 ## About
-Central Custom Molding was founded in 1968 in Cheyenne, Wyoming, as a family-owned injection molding operation. The company's homepage notes that "our family has been manufacturing in the US since 1968," and the facility is deliberately positioned in the center of the country to mitigate risks from hurricanes, earthquakes, and political unrest.
+Central Custom Molding was founded in 1968 in Cheyenne, Wyoming. The company is family-owned and has operated continuously in the United States since its inception.
 
-The shop runs plastic injection molding on machines ranging from 7 to 460 tons, supporting mold design and manufacturing from proof-of-concept tools to multi-cavity high-production molds. It also operates a Class 7 cleanroom for medical components and provides assembly, packaging, and third-party logistics services. The company offers part design, design for manufacturing, and part engineering as part of its full-service model.
+The company specializes in custom plastic injection molding, operating presses ranging from 7 to 460 tons. It provides a full suite of services including mold design and manufacturing, part design and engineering, assembly, packaging, and third-party logistics. A Class 7 cleanroom supports medical component production.
 
-Customers span medical device manufacturers requiring cleanroom molding, aerospace and defense programs (including components on James Cameron's deep-sea submersible, corporate jets, and autonomous aircraft), water filtration systems for developing regions, and sporting goods producers.
+Central Custom Molding serves medical, defense, consumer electronics, automation, and homegoods markets. Its parts have been used in medical devices produced in a Class 7 cleanroom, on the submersible that reached the Mariana Trench, on corporate jets, in autonomous aircraft, and in water filtration systems for developing regions.
 
-The firm emphasizes its role as a strategic partner rather than a vendor, highlighting its U.S.-based manufacturing heritage and end-to-end capabilities from concept to logistics as key differentiators.
+The company positions itself as a strategic partner rather than a vendor, emphasizing its central U.S. location to mitigate supply chain disruptions from natural disasters or geopolitical instability. It also promotes reshoring, leveraging its multi-generational U.S. manufacturing experience.
 
 ## Known for
 - Family-owned U.S. manufacturing since 1968
-- Injection molding machines ranging from 7 to 460 tons
+- Injection molding presses from 7 to 460 tons
 - Class 7 cleanroom for medical components
-- Centrally located facility to reduce supply chain risks
-- End-to-end services from part design to third-party logistics
+- Central U.S. location to reduce supply chain risks
+- Full-service from mold design to packaging and logistics
 
 ## Capabilities
+- Plastic injection molding
+- Mold design
+- Mold manufacturing
 - Part design
 - Design for manufacturing
 - Part engineering
-- Mold design
-- Mold manufacturing (proof-of-concept to multi-cavity high production)
-- Plastic injection molding (7–460 ton)
 - Assembly
 - Packaging
 - Third-party logistics
+- Class 7 cleanroom molding
 
 ## Industries
 - Medical
-- Aerospace
 - Defense
-- Water treatment
-- Sporting goods
+- Consumer Electronics
+- Automation
+- Homegoods
 
 ## Equipment
 - Injection molding machines (7–460 ton)
@@ -267,16 +276,16 @@ The firm emphasizes its role as a strategic partner rather than a vendor, highli
 
 <details><summary>Sources</summary>
 
-- Founded 1968 -> homepage
+- Founded 1968 -> db
 - Headquarters Cheyenne, Wyoming -> db
-- Family-owned -> homepage
-- Injection molding machines 7-460 ton -> homepage
-- Class 7 cleanroom for medical components -> homepage
-- Medical components -> homepage
-- Aerospace applications (submersible, corporate jets, autonomous aircraft) -> homepage
-- Water filtration parts -> homepage
-- Sporting goods equipment -> capabilities array
-- Services: part design, mold design, injection molding, assembly, packaging, third-party logistics -> homepage
+- Family-owned since 1968 -> /
+- Injection molding 7-460 ton -> /
+- Services: mold design, part design, assembly, packaging, logistics -> /
+- Class 7 cleanroom for medical -> /
+- Markets: Medical, Defense, Consumer Electronics, Automation, Homegoods -> /
+- Parts used on Mariana Trench submersible, corporate jets, autonomous aircraft, water filtration -> /
+- Central US location to reduce risks -> /
+- Reshoring partner -> /
 </details>
 
 ---
@@ -286,66 +295,64 @@ The firm emphasizes its role as a strategic partner rather than a vendor, highli
 **Old description:** Central Florida Sheet Metal brings a completely new level of sheet metal ductwork fabrication to the Brevard County area, and the East Coast of Florida. We are your one stop shop for anything HVAC! You need straight duct; our coil line can get it done quickly and accurately. Need ductwork fittings, no sweat our burn table can get them ready in a jiffy. Need Stainless Steel ductwork, no worries we have you covered. Need lined ductwork, yeah, we got you there as well. Need Spiral ductwork, we can get you what you need. Give us a call and let us know what you are looking for.
 
 ## About
-Central Florida Sheet Metal, LLC operates from Cocoa, Florida, serving the Brevard County area and the broader East Coast of Florida. The company was formed to provide a new level of sheet metal ductwork fabrication for HVAC applications, offering a single source for straight duct, fittings, and specialty ductwork.
+Central Florida Sheet Metal, LLC operates from Cocoa, Florida, serving Brevard County and the East Coast of Florida. The company was established to provide HVAC sheet metal fabrication services, though a specific founding year and founder names are not publicly disclosed.
 
-The shop runs a small coil line capable of producing straight duct up to 5 feet wide in 16-gauge mild steel at speeds up to 50 feet per minute, with all seams assembled using Pittsburgh locks. A 5-by-10-foot plasma table cuts mild plate up to 5/8 inch thick with a positioning accuracy of ±0.012 inch and traverse speeds of 1,400 inches per minute. Recent additions include an Engle TDF roll former and a JAG TDF/TDC wrap brake, expanding the range of fittings, custom curbs, lined duct, spiral duct, and custom ceiling panels the company can produce in-house.
+The shop fabricates HVAC ductwork including straight duct, fittings, stainless steel, lined, and spiral configurations. A coil line produces straight duct up to 5 feet wide in 16-gauge mild steel at speeds up to 50 feet per minute, with all seams assembled using Pittsburgh locks. A 5-by-10-foot plasma table cuts mild plate up to 5/8 inch thick with a stated positioning accuracy of ±0.012 inch and traverse speeds of 1,400 inches per minute. Additional equipment includes an Engle TDF roll former and a JAG TDF/TDC wrap brake. The company also offers custom sheet metal work such as ceiling panels and curbs, and provides delivery service.
 
-The business focuses on HVAC contractors and commercial construction projects throughout the region, supplying everything from standard straight duct to stainless steel and lined ductwork systems. Customers can also request custom fabrication for unique ceiling panels or curbs, with delivery now available.
+Primary customers are HVAC contractors and commercial construction projects throughout the East Coast of Florida. The company positions itself as a one-stop shop for HVAC sheet metal needs, from standard duct runs to custom fittings and specialty items.
 
-Central Florida Sheet Metal emphasizes quick turnaround times and continuous investment in equipment to meet customer needs at competitive pricing, positioning itself as a local fabrication resource that can handle both routine and custom sheet metal requirements.
+The focus on quality and speed is highlighted as a differentiator in the local market.
 
 ## Known for
 - Coil line producing straight duct up to 5 ft wide, 16 gauge mild steel at 50 FPM
 - 5' x 10' plasma table with ±0.012 in positioning accuracy
-- Pittsburgh seam assembly for all ductwork
-- In-house roll forming (Engle TDF Roll Former) and brake forming (JAG TDF/TDC wrap brake)
-- Delivery service for finished ductwork
+- Pittsburgh seam assembly on all ductwork
+- Delivery service available
+- Expanding equipment base including Engle TDF Roll Former and JAG TDF/TDC wrap brake
 
 ## Capabilities
 - HVAC ductwork fabrication
-- Straight duct fabrication (coil line)
+- Straight duct production (coil line)
 - Ductwork fittings fabrication (plasma cutting)
-- Stainless steel ductwork fabrication
-- Lined ductwork fabrication
-- Spiral ductwork fabrication
-- Custom curb fabrication
-- Custom ceiling panel fabrication
-- Plasma cutting (5'x10', up to 5/8" mild steel)
-- Roll forming (Engle TDF Roll Former)
-- Brake forming (JAG TDF/TDC wrap brake)
+- Stainless steel ductwork
+- Lined ductwork
+- Spiral ductwork
+- Custom sheet metal fabrication
+- Custom ceiling panels
+- Custom curbs
 - Pittsburgh seam assembly
+- Plasma cutting (up to 5/8 in mild steel)
+- TDF roll forming
+- TDC/TDF wrap braking
 - Delivery
 
 ## Industries
 - HVAC
 
 ## Equipment
-- Coil line (up to 5 ft wide, 16 gauge mild steel, 50 FPM)
-- 5' x 10' Plasma Table (up to 5/8" mild steel, ±0.012" accuracy, 1,400 IPM)
+- Coil line (5 ft wide, 16 gauge mild steel, 50 FPM)
+- 5' x 10' Plasma Table (5/8 in mild plate, ±0.012 in accuracy, 1,400 IPM)
 - Engle TDF Roll Former
-- JAG TDF/TDC wrap brake
+- JAG TDF/TDC Wrap Brake
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Headquarters:** Cocoa, Florida
 
 <details><summary>Sources</summary>
 
-- Company name and LLC status -> /
-- Headquarters: Cocoa, Florida -> db
-- Service area: Brevard County and East Coast Florida -> /
-- Coil line specs: 5 ft wide, 16 gauge mild steel, 50 FPM, Pittsburgh seams -> /
-- Plasma table: 5'x10', up to 5/8" mild steel, ±0.012" accuracy, 1,400 IPM -> /
-- Engle TDF Roll Former added -> /
-- JAG TDF/TDC wrap brake added -> /
-- Products: straight duct, fittings, stainless steel duct, lined duct, spiral duct, custom curbs, custom ceiling panels -> /
-- Delivery service offered -> /
-- Materials: mild steel, stainless steel -> /
-- Industry focus: HVAC -> /
-- Website: http://www.cflsheetmetal.com/ -> db
-- Phone: 321-735-4818 -> /
-- Email: Sales@cflsheetmetal.com -> /
-- Address: 518 South Industry Road, Cocoa, FL 32926 -> /
+- Company name, city, state -> db
+- Address, phone, email, hours -> /
+- Copyright 2022 -> /
+- Coil line specifications -> /
+- Plasma table specifications -> /
+- Engle TDF Roll Former -> /
+- JAG TDF/TDC wrap brake -> /
+- Services: straight duct, fittings, stainless, lined, spiral, custom -> /
+- Pittsburgh seam assembly -> /
+- Delivery offered -> /
+- HVAC industry focus -> /
+- Quality and turnaround emphasis -> /
 </details>
 
 ---
@@ -355,65 +362,69 @@ Central Florida Sheet Metal emphasizes quick turnaround times and continuous inv
 **Old description:** Since 1924, Central Industrial Sheet Metal has been recognized for superior sheet metal fabrication in the Kansas City Metro area.
 
 ## About
-Central Industrial Sheet Metal Works Inc. has operated in Kansas City, Missouri since 1924. The company began as a sheet metal fabrication shop serving the Kansas City metropolitan area.
+Central Industrial Sheet Metal Works Inc. was founded in 1924 in Kansas City, Missouri. The company has operated continuously in the Kansas City metropolitan area for nearly a century, establishing itself as a sheet metal fabrication specialist.
 
-The shop provides architectural and industrial sheet metal fabrication, specializing in stainless steel. Services include shop and field welding, computer-aided drafting, design and engineering, installation, plant maintenance, capital project support, facility improvements, production flow enhancements, emergency component replacement, and OEM part reproduction. The facility works with materials such as stainless steel, galvanized steel, hot-rolled and cold-rolled steel, aluminum, copper, brass, Lexan, wood, plastics, Cor-Ten, and structural tubing and angle.
+The shop provides architectural and industrial metal fabrication, including custom design, welding (both shop and field), computer-aided drafting, and installation. It works with a range of metals such as stainless steel, galvanized steel, hot-rolled and cold-rolled steel, aluminum, copper, brass, and Cor-Ten, as well as non-metallics like Lexan, wood, and plastics. The facility also offers plant maintenance services, metal tool and equipment repair, and 24-hour emergency support for manufacturing breakdowns.
 
-Customers include major manufacturing companies, local businesses, and community organizations such as City Union Mission and United Way. The company serves architectural, industrial, commercial, and food-processing sectors, delivering custom metal products and maintenance support.
+Central Industrial serves major manufacturing companies in the region with capital projects, facility improvements, and production flow enhancements. Its client base includes architectural and commercial projects, as well as community organizations such as City Union Mission and United Way. The company also supplies food-grade products and reproduces OEM parts on short notice.
 
-The company states that its dedication to precise fabrication of architectural and industrial metal products, combined with its ability to provide industrial plant maintenance, sets it apart from competitors. Decades of continuous relationships with local clients attest to the quality and honesty of its work.
+The firm emphasizes its precise fabrication capabilities combined with in-house plant maintenance as a distinguishing combination. Long-standing relationships with local manufacturers and non-profits are cited as evidence of consistent quality and honest service.
 
 ## Known for
-- 24-hour emergency support during manufacturing breakdowns
-- Stainless steel specialist
-- Shop and field welding capabilities
-- Full-service fabrication shop with CAD drafting
-- OEM parts reproduced faster than original manufacturer
+- 24-hour emergency support for manufacturing breakdowns
+- Combined architectural/industrial fabrication and plant maintenance under one roof
+- Computer-aided drafting with on-site design assistance
+- Quick quoting and detailed estimating for budget planning
+- Decades-long relationships with major local manufacturers and community organizations
 
 ## Capabilities
-- Architectural custom metal fabrication
+- Sheet metal fabrication
+- Architectural metal fabrication
 - Industrial metal fabrication
 - Stainless steel fabrication
 - Shop welding
 - Field welding
 - Plant maintenance
-- Capital project support
-- Facility improvements
-- Production flow enhancements
-- Emergency component replacement
-- OEM part reproduction
-- CAD drafting
-- Design and engineering
-- Installation
+- Custom design and engineering
+- Computer-aided drafting (CAD)
+- On-site design and layout assistance
+- Installation services
+- Metal tool and equipment maintenance
 - Quick quoting and estimating
+- OEM part reproduction
+- Food-grade fabrication
 
 ## Industries
 - Manufacturing
 - Architectural
 - Industrial
 - Commercial
-- Non-profit
+- Non-profit / Community organizations
 - Food processing
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1924
 - **Headquarters:** Kansas City, Missouri
 
 <details><summary>Sources</summary>
 
-- Founded 1924 -> db
-- Headquarters Kansas City, Missouri -> db
-- Sheet metal fabrication since 1924 -> /
+- Founded 1924 in Kansas City, Missouri -> db
+- Sheet metal fabrication specialist -> db, /
 - Architectural and industrial metal fabrication -> /
-- Stainless steel specialist -> /
 - Shop and field welding -> /
-- Plant maintenance and manufacturing support -> /
-- CAD drafting and design/engineering -> /
-- Materials: stainless steel, galvanized steel, hot-rolled steel, cold-rolled steel, aluminum, copper, brass, Lexan, wood, plastics, Cor-Ten, structural tubing and angle -> /
-- Customers: major manufacturing companies, City Union Mission, United Way -> /
-- Industries: architectural, industrial, commercial, food grade -> /
-- Differentiators: precise fabrication, industrial plant maintenance, 24-hour emergency support, OEM part reproduction -> /
+- Computer-aided drafting with on-site help -> /
+- Installation services -> /
+- Plant maintenance and metal tool/equipment repair -> /
+- 24-hour emergency support for manufacturing breakdowns -> /
+- Materials: stainless steel, galvanized steel, hot-rolled steel, cold-rolled steel, aluminum, copper, brass, Lexan, wood, plastics, Cor-Ten, structural tubing & angle -> /
+- Serves major manufacturing companies with capital projects, facility improvements, plant maintenance, production flow enhancements -> /
+- Clients include City Union Mission and United Way -> /
+- Food-grade products and OEM part reproduction -> /
+- Precise fabrication combined with plant maintenance sets them apart -> /
+- Decades-long relationships with local manufacturers and community organizations -> /
+- Quick quoting and detailed estimating -> /
+- Custom design, fabrication, and installation -> /
 </details>
 
 ---
@@ -423,20 +434,20 @@ The company states that its dedication to precise fabrication of architectural a
 **Old description:** Family-owned and operated, STE is proud to deliver affordable, efficient, and trustworthy electrical solutions. From humble beginnings to becoming a leading Oklahoma electrical contractor, our mission is to serve the community we call home.
 
 ## About
-Scissor Tail Electric operates from Oklahoma City, Oklahoma, serving the Central Oklahoma region. The company was founded by Dustin, who began his electrical career with a high‑school summer job at a home builder, and his partners after nearly three decades in the trade. It is a 100% family‑owned business established to serve the local community, though the exact founding year is not publicly disclosed.
+Scissor Tail Electric operates from Oklahoma City, Oklahoma, as a 100% family-owned electrical contractor. The company traces its roots to founder Dustin, who entered the trade through a high-school summer job with a home builder. After nearly three decades in the field, Dustin and his partners formed Scissor Tail Electric to serve the Central Oklahoma community they call home. Dustin remains personally involved in every project.
 
-The firm provides a range of electrical installation, repair, and upgrade services. Its offerings include switch and outlet installation and repair, ceiling fan installation, electrical panel upgrades, wiring and rewiring, lighting repair, installation, and upgrades, and washer and dryer hookups. Work is performed by licensed electricians for residential, commercial, and industrial clients, from single‑family homes to factories. No facility size, headcount, or volume metrics are published.
+The firm provides a range of electrical services including switch and outlet installation and repair, ceiling fan installation, electrical panel upgrades, wiring and rewiring, lighting repair and upgrades, and washer and dryer hookups. Its licensed electricians handle residential, commercial, and industrial work, from single-family homes to complex industrial systems. The team, led by lead technician Fernando, emphasizes fast response and tailored solutions for each job.
 
-Customers span homeowners, business owners, and industrial facilities across Central Oklahoma. The company describes its reach as “from cozy homes to buzzing businesses and booming factories,” indicating a broad base that includes residential, commercial, and light industrial sectors.
+Scissor Tail Electric serves homeowners, business owners, and industrial facilities across Central Oklahoma. Examples include residential panel upgrades for older homes, commercial lighting retrofits, and industrial wiring for factories. The company states it works with clients from "cozy homes to buzzing businesses and booming factories."
 
-Scissor Tail Electric emphasizes personalized service, quality workmanship, and community commitment as its differentiators. The founder remains personally involved in every project, and the team highlights nearly 30 years of hands‑on experience, adherence to safety standards such as the National Electrical Code, and a mission to deliver affordable, dependable, and efficient electrical solutions.
+The business was founded to deliver affordable, dependable, and efficient electrical services to the local community. It differentiates itself through its family-owned structure, nearly 30 years of hands-on experience, personalized neighborly service, and a commitment to quality materials and safety standards.
 
 ## Known for
 - 100% family-owned and operated
-- Nearly 30 years of hands-on electrical experience
-- Personalized service tailored to each client's needs
-- Licensed electricians adhering to National Electrical Code
-- Serving residential, commercial, and industrial customers
+- Nearly 30 years of electrical experience
+- Licensed electricians on every job
+- Personalized service tailored to each client
+- Quick response for urgent repairs
 
 ## Capabilities
 - Switch and outlet installation and repair
@@ -445,10 +456,9 @@ Scissor Tail Electric emphasizes personalized service, quality workmanship, and 
 - Wiring and rewiring
 - Lighting repair, installation, and upgrades
 - Washer and dryer hookups
-- Electrical system troubleshooting and repair
 - Residential electrical services
 - Commercial electrical services
-- Industrial electrical services
+- Industrial electrical systems
 
 ## Industries
 - Residential
@@ -462,15 +472,15 @@ Scissor Tail Electric emphasizes personalized service, quality workmanship, and 
 
 <details><summary>Sources</summary>
 
-- Family-owned and operated -> /
+- Family-owned and operated -> db
 - Founder Dustin started with summer job in high school -> /
-- Established Scissor Tail Electric to serve community -> /
-- Headquarters in Oklahoma City, Oklahoma -> db
-- Services: Switch and Outlet Installation & Repair, Ceiling Fan Installation, Electrical Panel Upgrades, Wiring and Rewiring, Lighting Repair/Installation/Upgrades, Washer and Dryer Hookups -> /services
+- Nearly three decades later established Scissor Tail Electric -> /
+- Services: switch/outlet, ceiling fan, panel upgrades, wiring, lighting, washer/dryer hookups -> /services
 - Serves residential, commercial, industrial -> /
-- Team includes Dustin (Founder) and Fernando (Lead Technician) -> /about
-- Nearly 30 years of hands-on experience -> /
-- Mission: affordable, dependable, efficient electrical services -> /
+- Licensed electricians -> /
+- Lead technician Fernando -> /about
+- Quick response -> /
+- Community commitment -> /about
 </details>
 
 ---
@@ -480,39 +490,47 @@ Scissor Tail Electric emphasizes personalized service, quality workmanship, and 
 **Old description:** Since 1993, Central Oregon Heating, Cooling, Plumbing & Electrical has provided professional HVAC, plumbing, and electrical services throughout Central Oregon. Our licensed, insured, and background-checked technicians deliver dependable workmanship, transparent recommendations, and long-term solutions tailored to the needs of Madras homeowners.
 
 ## About
-Central Oregon Heating, Cooling, Plumbing & Electrical has operated from Madras, Oregon since 1993. The company provides residential HVAC, plumbing, and electrical services to homeowners throughout Jefferson County and surrounding communities.
+Central Oregon Heating, Cooling, Plumbing & Electrical has served homeowners in Madras, Oregon since 1993. The company operates from a location on US-97 and provides HVAC, plumbing, and electrical services across Jefferson County and surrounding communities including Terrebonne, Culver, Three Rivers, Warm Springs, Crooked River Ranch, and Metolius. Ownership details and founder names are not publicly disclosed.
 
-The firm handles installation, repair, and maintenance of heating and cooling systems — including furnaces, air conditioners, heat pumps, and ductless mini‑splits — as well as indoor air quality equipment such as air purifiers, whole‑home filtration, humidifiers, and ventilation. Its licensed plumbers address pipe leaks, water heater issues, and freeze‑thaw damage, while certified electricians upgrade panels, troubleshoot wiring, and install generators and well‑pump circuits. From its location at 1765 US‑97, the team has completed more than 25,600 service and installation visits, 22,700 repair and maintenance calls, and 2,900 installations and estimates.
+The company's technicians handle heating and cooling systems including central air, furnaces, heat pumps, and ductless mini-splits, along with plumbing repairs, water heater service, electrical panel upgrades, generator wiring, and indoor air quality installations such as air purifiers, whole-home filtration, humidifiers, and ventilation equipment. They report over 25,600 service visits and 2,900 installations since inception, with same-day response for repairs and 24/7 emergency availability.
 
-The customer base consists of homeowners in Madras and nearby areas such as Terrebonne, Culver, Three Rivers, Warm Springs, Crooked River Ranch, and Metolius. Typical jobs include relighting gas fireplace pilots, replacing furnace igniters, repairing electric furnace heating elements, upgrading aging electrical panels, and resolving plumbing leaks caused by seasonal freeze‑thaw cycles.
+The customer base consists of residential property owners in Central Oregon's high-desert climate, where seasonal temperature swings and dust drive demand for reliable heating, cooling, and plumbing. Common calls include furnace igniter replacements, frozen pipe prevention, and electrical panel upgrades for modern loads.
 
-The company emphasizes same‑day service, 24/7 emergency response, upfront pricing with no hidden fees, flexible financing, and a money‑back guarantee. Technicians are licensed, insured, and background‑checked, and the business highlights its decades of local experience in Jefferson County as a key differentiator.
+The firm emphasizes transparent pricing, a money-back guarantee, and technicians who are licensed, insured, and background-checked as differentiators in a market where trust and speed are critical.
 
 ## Known for
 - Same-day service for repairs
 - 24/7 emergency response
 - Upfront pricing with no hidden fees
-- Flexible financing options
 - Money-back guarantee
+- Licensed, insured, background-checked technicians
 
 ## Capabilities
-- HVAC installation, repair, and maintenance
+- HVAC repair
+- HVAC installation
+- HVAC maintenance
 - Air conditioning repair
 - Furnace repair
-- Heat pump installation and service
-- Ductless mini-split installation and service
-- Indoor air quality solutions (air purifiers, whole-home filtration, humidifiers, ventilation)
-- Plumbing repair and installation
-- Electrical repair and installation
-- Electrical panel upgrades
-- Generator installation
-- Well pump wiring
-- 24/7 emergency services
+- Heat pump service
+- Ductless mini-split installation
+- Plumbing repair
+- Plumbing installation
+- Electrical repair
+- Electrical panel upgrade
+- Generator wiring
+- Indoor air quality assessment
+- Air purifier installation
+- Whole-home filtration installation
+- Humidifier installation
+- Ventilation equipment installation
+- 24/7 emergency service
+- Same-day service
 
 ## Industries
 - Residential HVAC
 - Residential plumbing
 - Residential electrical
+- Indoor air quality
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -521,14 +539,23 @@ The company emphasizes same‑day service, 24/7 emergency response, upfront pric
 
 <details><summary>Sources</summary>
 
-- Founded 1993 -> description
-- Headquarters Madras, Oregon -> hq_city, hq_state_label
-- Location 1765 US-97 -> page '/'
-- Services: HVAC, plumbing, electrical -> description, page '/'
-- Scale: 25,600+ service visits, 22,700+ repair visits, 2,900+ installations -> page '/'
-- Service areas: Terrebonne, Culver, Three Rivers, Warm Springs, Crooked River Ranch, Metolius -> page '/'
-- Differentiators: same-day, 24/7 emergency, upfront pricing, financing, money-back guarantee -> page '/'
-- Technicians licensed, insured, background-checked -> description, page '/'
+- Company name -> db
+- Founded 1993 -> db (description: 'Since 1993')
+- Headquarters Madras, Oregon -> db (hq_city, hq_state_label)
+- Services: HVAC, plumbing, electrical -> db (description)
+- 24/7 emergency services -> / (page content)
+- Same-day service -> / (page content)
+- Licensed, insured, background-checked technicians -> db (description)
+- Location 1765 US-97 -> / (page content)
+- Service areas: Terrebonne, Culver, Three Rivers, Warm Springs, Crooked River Ranch, Metolius -> / (page content)
+- Works on central HVAC, heat pumps, ductless mini-splits -> / (page content)
+- Indoor air quality: air purifiers, whole-home filtration, humidifiers, ventilation -> / (page content)
+- Reported 25,600+ service visits, 22,700+ repair visits, 2,900+ installations -> / (page content)
+- Upfront pricing, no hidden fees -> / (page content)
+- Flexible financing options -> / (page content)
+- Money-back guarantee -> / (page content)
+- Phone 541-227-6258 -> / (page content)
+- Website coheating.com -> db
 </details>
 
 ---

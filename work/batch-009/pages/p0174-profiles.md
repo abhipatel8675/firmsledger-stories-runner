@@ -3,24 +3,22 @@
 **Old description:** Wayne Fiorenza is a 3rd generation master wood craftsman, and he prides himself in making only high quality furniture to last for more than a lifetime. Wayne learned how to craft wood as a young man from his father; who had been taught by his father, who had learned the craft as a boy growing up in Italy. The result is high quality coupled with the elegance of old world Italy.
 
 ## About
-Fiorenza Custom Woodworking operates from Lewisville, Texas, where third-generation master wood craftsman Wayne Fiorenza continues a family tradition that began in Italy. His grandfather learned the trade as a boy in Italy, passed it to his father, who then taught Wayne the craft. The company carries forward that lineage, emphasizing furniture built to last more than a lifetime.
+Fiorenza Custom Woodworking operates from Lewisville, Texas, in the Dallas–Fort Worth metro area. The business is led by Wayne Fiorenza, a third-generation master wood craftsman who learned the trade from his father, who in turn had been taught by his own father in Italy. This multigenerational lineage forms the foundation of the company’s approach to woodworking.
 
-The shop produces custom furniture, millwork, and architectural woodwork including wall units, entertainment centers, hidden doors, fireplace mantels, kitchen cabinets, home office systems, island countertops, home theater cabinetry, and bathroom vanities. Projects range from single pieces to whole-room installations for libraries, studies, kitchens, dining rooms, bedrooms, baths, and executive offices. No facility size or headcount is disclosed.
+The shop produces custom furniture, architectural millwork, and cabinetry for both residential and executive office spaces. Its portfolio includes armoires, fireplace mantels, entertainment centers, computer desk systems, libraries, studies, kitchen cabinets, bathroom vanities, hidden doors, wall units, home theater cabinetry, and island wood countertops. Projects showcase a variety of wood species such as oak, cherry, walnut, and red oak. The company does not publish facility size, headcount, or production volumes.
 
-Clients are primarily residential homeowners and commercial office clients across the Dallas–Fort Worth metroplex. Recent work includes a hidden door in Plano, a cherry dining table in Denton, kitchen cabinets in Argyle, a reception desk in Grapevine, and a master bath vanity in Flower Mound. The company also serves builders and designers seeking custom millwork for luxury homes and executive suites.
+Clients are primarily homeowners and commercial tenants across North Texas. Completed installations are documented in cities including Irving, Plano, Argyle, Flower Mound, Dallas, Frisco, Southlake, and surrounding communities. The work spans residential remodeling, custom home building, and commercial office fit-out.
 
-Fiorenza cites its third-generation heritage, old-world Italian craftsmanship, and a commitment to timely, efficient execution as differentiators. Free estimates are offered, and the firm stresses that every piece is made to endure for generations.
+Fiorenza emphasizes high-quality craftsmanship intended to last more than a lifetime, blending old-world Italian elegance with a commitment to timely, efficient execution. The company offers free estimates and schedules work at the customer’s convenience.
 
 ## Known for
-- Third-generation woodworking heritage
-- Furniture built to last generations
-- Old-world Italian craftsmanship
-- Free estimates on custom projects
+- Free estimates and flexible scheduling
+- Third-generation Italian woodworking heritage
+- Custom furniture and millwork for residential and executive offices
+- High-quality craftsmanship with old-world elegance
 - Timely and efficient project execution
 
 ## Capabilities
-- Custom woodworking
-- Millwork
 - Custom furniture
 - Wall units
 - Entertainment centers
@@ -31,26 +29,30 @@ Fiorenza cites its third-generation heritage, old-world Italian craftsmanship, a
 - Island wood countertops
 - Home theater cabinetry
 - Bathroom vanities
+- Custom millwork
+- Custom woodworking
 
 ## Industries
 - Residential
 - Commercial office
+- Interior design
 
 ## Company details
 - **Company Type:** Manufacturer
+- **Ownership:** Family-owned
 - **Headquarters:** Lewisville, Texas
 
 <details><summary>Sources</summary>
 
-- Company name and location: Fiorenza Custom Woodworking, Lewisville, Texas -> db
-- Founder: Wayne Fiorenza, third-generation master wood craftsman -> db (description) and homepage
-- Family lineage: grandfather learned in Italy, passed to father, then to Wayne -> db (description)
-- Services: custom furniture, millwork, wall units, entertainment centers, hidden doors, fireplace mantels, kitchen cabinets, home office, island countertops, home theater, bathroom vanities -> homepage
-- Project examples in Irving, Plano, Aubrey, Argyle, Denton, Grapevine, Flower Mound, etc. -> homepage
-- Serves residential and executive office spaces -> homepage
-- Differentiators: third-generation heritage, old-world Italian craftsmanship, timely execution, free estimates -> homepage
-- Contact: 171 S. Railroad St. #4 Lewisville, TX 75057 -> homepage
-- No founding year, employee count, certifications, equipment, materials, volume, lead time, tolerances stated -> db/homepage
+- Location: Lewisville, Texas -> /
+- Founder: Wayne Fiorenza, third-generation master wood craftsman -> /
+- Family lineage: learned from father, who learned from grandfather in Italy -> /
+- Services: custom furniture, millwork, cabinetry, hidden doors, fireplace mantels, entertainment centers, kitchen cabinets, bathroom vanities, home office, island countertops, home theater -> /
+- Projects completed in Irving, Plano, Argyle, Flower Mound, Dallas, Frisco, Southlake, etc. -> /
+- Emphasis on high-quality, long-lasting craftsmanship with old-world Italian elegance -> /
+- Free estimates and flexible scheduling -> /
+- Wood species used: oak, cherry, walnut, red oak -> /
+- Company type: custom woodworking and millwork -> /
 </details>
 
 ---
@@ -60,13 +62,13 @@ Fiorenza cites its third-generation heritage, old-world Italian craftsmanship, a
 **Old description:** Five Rivers Fabrication is a steel fabrication company founded in 2020 by a father-son duo with a shared passion for quality craftsmanship and attention to detail. With a combined experience of over 30 years in the industry, they have established a reputation for delivering exceptional custom steel products to a wide range of clients. Their commitment to using high-quality, American-made materials and innovative techniques sets them apart in the competitive fabrication market. The father's expertise in structural design combined with the son's creative vision and welding skills have allowed them to tackle projects of varying sizes and complexities with precision and efficiency. Five Rivers Fabrication continues to grow and thrive, providing top-notch steel fabrication services to clients across the region.
 
 ## About
-Five Rivers Fabrication operates from Easton, Pennsylvania, where it was founded in 2020 by a father-and-son team. The duo brought a combined 30-plus years of industry experience to the venture, establishing the business as a family-owned shop focused on custom steel work.
+Five Rivers Fabrication was established in 2020 in Easton, Pennsylvania, by a father-and-son team with a combined 30 years of industry experience. The family-owned shop began with a shared emphasis on quality craftsmanship and attention to detail, leveraging the father’s background in structural design and the son’s welding skill and creative vision.
 
-The company provides structural steel fabrication, commercial signage, railings, custom fabrication, and home decor items. Its shop handles projects ranging from large-scale structural components to decorative wall art such as the Spartan Helmet Flag, and it also runs an online store for branded merchandise and smaller metal goods.
+The company provides structural steel fabrication, commercial signage, railings, custom fabrication, and home decor items. Operating from a single facility in Easton, it serves both project-based clients and an online store that sells finished pieces such as wall art and bottle openers. Specific facility size, headcount, and annual volume are not disclosed.
 
-Clients span commercial construction firms needing structural steel and signage, architectural projects requiring railings, and residential customers seeking custom home decor. A noted reference is the veterans’ nonprofit Battle Borne, which has sourced signs and logo pieces for its organization and partners.
+Customers span construction contractors, commercial property owners, nonprofit organizations, and residential buyers. The firm has produced signage and fabricated steel for a veterans’ nonprofit called Battle Borne, as well as custom pieces for electrical contractors and home decor clients across the region.
 
-The founders cite their use of American-made materials and innovative techniques as key differentiators. The father’s background in structural design paired with the son’s welding skill and creative vision allows the shop to take on jobs of varying complexity with precision and efficiency.
+Five Rivers Fabrication distinguishes itself through a commitment to American-made materials, innovative fabrication techniques, and the combined expertise of structural design and creative welding. The founders say this blend allows them to handle projects of varying complexity with precision and efficiency.
 
 ## Known for
 - American-made materials
@@ -75,18 +77,18 @@ The founders cite their use of American-made materials and innovative techniques
 - Precision and efficiency on projects of varying complexity
 
 ## Capabilities
-- Structural Steel Fabrication
-- Commercial Signage
-- Railings Fabrication
-- Custom Steel Fabrication
-- Home Decor Fabrication
+- Structural steel fabrication
+- Commercial signage fabrication
+- Railings fabrication
+- Custom fabrication
+- Home decor fabrication
 
 ## Industries
-- Commercial Construction
-- Signage
-- Architectural Metalwork
-- Home Decor
-- Nonprofit Organizations
+- Construction
+- Commercial signage
+- Architectural metalwork
+- Nonprofit organizations
+- Residential
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -96,14 +98,17 @@ The founders cite their use of American-made materials and innovative techniques
 
 <details><summary>Sources</summary>
 
-- Founded 2020 by father-son duo -> db, /
-- Location Easton, Pennsylvania -> db, /
-- Services: structural steel, commercial signage, railings, custom fabrication, home decor -> /
-- American-made materials commitment -> /
-- Father's structural design expertise, son's creative vision and welding skills -> /
-- Work with veterans nonprofit Battle Borne -> / (testimonial)
-- Online store for merch and home decor -> /
-- Est. 2020 branding -> /
+- Founded in 2020 -> db
+- Headquarters in Easton, Pennsylvania -> db
+- Father-son duo founders with combined 30 years experience -> db
+- Services: structural steel, commercial signage, railings, custom fabrication, home decor -> page "/"
+- Commitment to American-made materials -> db
+- Innovative techniques -> db
+- Father's structural design expertise, son's creative vision and welding skills -> db
+- Serves clients across region -> db
+- Testimonial mentions Battle Borne veterans nonprofit -> page "/"
+- Testimonial mentions electrical contractor work -> page "/"
+- Online store sells wall art and bottle openers -> page "/"
 </details>
 
 ---
@@ -113,35 +118,37 @@ The founders cite their use of American-made materials and innovative techniques
 **Old description:** Discover your perfect appliance from our curated collections, thoughtfully organized to meet your most important needs and preferences. Let us help you make an informed decision with ease and confidence.
 
 ## About
-Flamtech Appliances Inc. operates a showroom in New York City's Chinatown neighborhood, where it has served the Tri-state area for more than 20 years. The privately held company was established to provide a curated selection of premium kitchen appliances and personalized service to homeowners and design professionals alike.
+Flamtech Appliances Inc. operates a showroom in New York City’s Chinatown neighborhood, serving the Tri-state Area for over 20 years. The company is an authorized dealer for premium kitchen appliance brands and has built a reputation for curated collections and expert guidance.
 
-As an authorized dealer, Flamtech carries brands such as Gaggenau, Wolf, Sub-Zero, and Miele, displaying many models on its showroom floor. The company's process moves from an in-person or remote consultation through a detailed quote—with financing options available—to coordinated delivery and full installation managed by its own team.
+The retailer curates a selection of high-end appliances from brands such as Gaggenau, Wolf, Sub-Zero, and Miele. Its showroom displays a range of units on the floor, allowing customers to examine products in person. Services include personalized consultations (in-person or remote), detailed quotes with financing options, and coordinated delivery and installation, following a three-step process from consultation to installation.
 
-Customers include homeowners undertaking gut renovations, professional chefs, and interior designers seeking high-end appliances for residential projects. Reviews highlight the firm's work on complete kitchen overhauls, single-appliance replacements, and custom integrations for luxury condos and townhouses across New York, New Jersey, and Connecticut.
+Clients include homeowners undertaking gut renovations, professional chefs, and interior designers seeking luxury kitchen packages. Reviews cite projects ranging from single-appliance replacements to full-kitchen outfitting with Gaggenau suites. Design professionals and contractors also source appliances through the showroom for client projects.
 
-Flamtech distinguishes itself by combining a physical showroom experience with hands-on project management: staff members such as Ricky, Jane, and Andy are noted for visiting job sites to oversee appliance setup, offering financing guidance, and maintaining communication via text after purchase. The company emphasizes its authorized-dealer status and the ability to see, touch, and compare appliances before buying.
+The company emphasizes its authorized-dealer status, knowledgeable staff, and personalized service as differentiators. Staff members such as Ricky, Jane, Rick, and Andy are frequently mentioned for guiding customers through brand comparisons and installation logistics. Financing options and a commitment to post-sale support round out the offering.
 
 ## Known for
-- Authorized dealer for premium brands (Gaggenau, Wolf, Sub-Zero, Miele)
-- In-person and remote design consultations
+- Authorized dealer for world-class brands (Gaggenau, Wolf, Sub-Zero, Miele)
+- Over 20 years serving the Tri-state Area
+- Knowledgeable staff providing personalized consultation
+- Coordinated delivery and installation in-house
 - Financing options available
-- Coordinated delivery and in-house installation
-- Showroom with appliances on display for hands-on evaluation
 
 ## Capabilities
 - Appliance retail sales
 - Showroom consultation
 - Kitchen design assistance
-- Delivery coordination
-- Installation services
+- Delivery and installation
 - Financing options
 - Remote consultation
+- Quote preparation
+- Brand comparison guidance
+- Post-sale support
 
 ## Industries
 - Residential construction
+- Interior design
 - Kitchen remodeling
 - Luxury home appliances
-- Interior design
 
 ## Company details
 - **Company Type:** Retailer
@@ -149,17 +156,17 @@ Flamtech distinguishes itself by combining a physical showroom experience with h
 
 <details><summary>Sources</summary>
 
-- Location: New York City (Chinatown) -> /about
-- Tenure: served Tri-state area for over 20 years -> /about
+- Showroom in Chinatown neighborhood -> /about
+- Over 20 years serving Tri-state Area -> /about
 - Authorized dealer for Gaggenau, Wolf, Sub-Zero, Miele -> /about
-- Showroom with appliances on floor -> /about (reviews)
-- Services: consultation, quote, financing, delivery, installation -> /
-- Process: 3 steps (talk to experts, receive quote, delivery & installation) -> /
-- Customer types: homeowners, professional chefs, interior designers -> /about
-- Staff names: Ricky, Jane, Rick, Andy -> /about (reviews)
-- In-home appliance setup by staff -> /about (reviews)
-- Financing options -> /
-- Remote consultation available -> /
+- Showroom displays appliances on floor -> /about
+- Personalized consultations in-person or remote -> /
+- Quotes with financing options -> /
+- Coordinated delivery and installation -> /
+- Three-step process: consultation, quote, installation -> /
+- Staff members Ricky, Jane, Rick, Andy mentioned in reviews -> /about
+- Customers include homeowners, professional chefs, designers -> /about
+- Projects range from single appliance to full-kitchen Gaggenau suites -> /about
 </details>
 
 ---
@@ -169,32 +176,38 @@ Flamtech distinguishes itself by combining a physical showroom experience with h
 **Old description:** At Floating Axe Woodworks, our goal is to continue the story of the trees that come into our shop by milling each log into lumber in such a way as to preserve the unique character of the tree it comes from.  That piece of wood then gets a new life and continues its story when it’s made into a beautiful piece of furniture.  Whether you’re a furniture maker, or a hobby woodworker looking for premium furniture grade hardwoods, or someone who is looking for a piece of custom furniture designed and built uniquely for you, we have what you need
 
 ## About
-Floating Axe Woodworks operates in Rockford, Michigan, as a small wood and furniture business that mills, kiln-dries, and fabricates hardwood products from locally sourced trees. The company focuses on preserving the natural character of each log through live-edge slabs, cookies, and dimensional lumber.
+Floating Axe Woodworks operates in Rockford, Michigan, where it runs a small wood and wood furniture business. The company does not publish a founding year or ownership structure, but presents itself as a locally rooted operation focused on hardwoods sourced from Michigan forests.
 
-The shop runs a fully automated CNC router with a 5-by-12-foot bed for surfacing, sanding, and engraving slabs, alongside on-site kiln drying and sawmilling. Outputs include live-edge slabs, rounds, dimensional hardwood, and custom furniture built to order. The company describes itself as a small operation, though headcount and facility size are not disclosed.
+The shop handles the full chain from log to finished piece: logs are sawn, kiln-dried, and surfaced on-site. A 5-foot by 12-foot automated CNC router performs surfacing, sanding, and engraving on slabs and cookies. The product line spans live-edge slabs, rounds (cookies), dimensional hardwood, and custom furniture built to client specifications.
 
-Customers range from professional furniture makers and hobbyist woodworkers seeking premium furniture-grade hardwoods to individuals commissioning one-off custom pieces. The business stocks live-edge inventory for immediate selection and removes the live edge when a project calls for it.
+The customer base includes professional furniture makers who need premium slabs, hobbyist woodworkers buying smaller blanks, and end users commissioning custom tables, desks, or other pieces. The company positions itself across furniture manufacturing, woodworking supply, and custom design markets.
 
-The founders frame the work as continuing the story of each tree, emphasizing that all material is milled and dried on-site from Michigan logs. That local, start-to-finish control is presented as the core differentiator.
+The company says its differentiator is preserving the unique character of each tree by keeping live edges intact wherever possible and processing everything in-house. It notes that stocking live-edge material first provides maximum flexibility for both slab sales and custom builds.
 
 ## Known for
-- All lumber kiln-dried and milled on-site from Michigan-sourced logs
-- Live-edge slabs stocked for versatility; edge removed only when needed
-- Fully automated 5 ft × 12 ft CNC router for surfacing, sanding, and engraving
+- All products kiln-dried and milled on-site from locally sourced Michigan trees
+- Live-edge-first inventory for maximum versatility
+- 5 ft × 12 ft automated CNC router for surfacing, sanding, and engraving
 - Custom furniture designed and built uniquely for each client
+- Preserves the unique character of each tree through careful milling
 
 ## Capabilities
 - Kiln drying
-- CNC routing and engraving
 - Sawmilling
-- Custom furniture manufacturing
-- Live-edge slab production
+- CNC routing
+- CNC engraving
+- Surface planing
+- Sanding
+- Custom furniture design
+- Custom furniture build
+- Live edge slab production
 - Dimensional lumber milling
 
 ## Industries
-- Furniture making
-- Woodworking (hobbyist)
-- Custom furniture
+- Furniture manufacturing
+- Woodworking
+- Custom furniture design
+- Hobbyist woodworking
 
 ## Equipment
 - 5 ft × 12 ft automated CNC router
@@ -205,14 +218,14 @@ The founders frame the work as continuing the story of each tree, emphasizing th
 
 <details><summary>Sources</summary>
 
-- Location: Rockford, Michigan -> db
-- Business type: small wood and wood furniture business -> page '/'
-- Services: kiln drying, CNC routing/engraving, sawmilling, custom furniture -> page '/'
-- Products: live edge slabs, cookies, dimensional hardwood -> page '/'
-- Equipment: fully automated CNC router 5x12 ft -> page '/'
-- Sourcing: locally sourced Michigan trees, kiln dried and milled onsite -> page '/'
-- Customer types: furniture makers, hobby woodworkers, custom furniture buyers -> page '/'
-- Differentiator: continue story of trees, preserve unique character, on-site milling and drying -> page '/'
+- Location: Rockford, Michigan -> /
+- Business type: small wood and wood furniture business -> /
+- Processes: kiln drying, sawmilling, CNC routing, surfacing, sanding -> /
+- Equipment: 5 ft × 12 ft automated CNC router -> /
+- Products: live edge slabs, cookies, dimensional hardwood, custom furniture -> /
+- Materials: locally sourced Michigan hardwoods -> /
+- Customers: furniture makers, hobby woodworkers, custom furniture buyers -> /
+- Differentiator: preserve unique character of each tree, live-edge-first inventory -> /
 </details>
 
 ---
@@ -222,47 +235,47 @@ The founders frame the work as continuing the story of each tree, emphasizing th
 **Old description:** FCNI is proud to be of service to South Florida since 1996.  We provide telecommunications and audio/visual solutions to commercial and residential markets.  Our team of communications consultants have over 25 years of combined experience with voice, data, audio and video distribution. FCNI has been a Panasonic Communications Systems Dealer since 1996.
 
 ## About
-Founded in 1996, Florida Cable Network Inc (FCNI) has operated from Miami, Florida, providing telecommunications and audio/visual solutions to commercial and residential customers across South Florida. The company was established as a Panasonic Communications Systems dealer and has maintained that partnership since its inception.
+Florida Cable Network Inc (FCNI) has operated from Miami, Florida since its founding in 1996. The company was established to deliver telecommunications and audio/visual solutions across South Florida, though the identities of its founders and its ownership structure have not been publicly disclosed.
 
-FCNI designs, installs, and supports voice, data, audio, and video distribution systems. Its service portfolio includes deployment of Panasonic PBX platforms such as the TDA and NCP series, voicemail systems, conference phones, wireless handsets, and doorphone units. The company’s consultants handle system design, cabling, programming, and ongoing maintenance for both new construction and retrofit projects.
+FCNI designs, installs, and supports voice, data, audio, and video distribution systems for both commercial and residential clients. As a Panasonic Communications Systems Dealer since 1996, the firm supplies and integrates Panasonic PBX platforms (including the KX-TDA, TDE, and NCP series), voicemail systems (KX-TVA series), conference phones (KX-NT700), DECT wireless handsets, door phones, and desktop endpoints. The company does not publish facility size, headcount, or annual volume figures.
 
-The firm serves a mix of commercial businesses and residential clients throughout the South Florida region. Typical engagements range from small-office phone system upgrades to multi-building campus communications infrastructure.
+The customer base spans commercial businesses and residential properties throughout South Florida. Typical engagements include office phone system upgrades, multi-dwelling unit intercom and entry systems, and conference room audio/visual fit-outs. No specific industry verticals or named accounts are referenced in the available materials.
 
-FCNI emphasizes its team’s combined 25 years of experience in communications consulting and its long-standing authorization as a Panasonic dealer, which it cites as a foundation for reliable system integration and support.
+FCNI emphasizes its local continuity — serving the region continuously since 1996 — and the collective experience of its consulting team, which the company states exceeds 25 years in communications distribution. The firm positions its long-term Panasonic partnership and regional focus as its primary differentiators.
 
 ## Known for
 - Panasonic Communications Systems Dealer since 1996
-- Team with over 25 years combined experience in voice, data, audio, and video distribution
-- Serving South Florida commercial and residential markets since 1996
+- Over 25 years of combined consulting experience in voice, data, audio, and video distribution
+- Continuous service to South Florida commercial and residential markets since 1996
 
 ## Capabilities
 - Telecommunications system design and installation
 - Audio/visual system integration
-- Voice and data network distribution
-- Panasonic PBX deployment (TDA, NCP series)
-- Voicemail system installation (KX-TVA series)
-- Conference phone installation (KX-NT700)
-- Wireless handset deployment (DECT series)
-- Doorphone installation (KX-T7775)
-- Communications consulting
+- Panasonic PBX deployment (KX-TDA, TDE, NCP series)
+- Panasonic voicemail system installation (KX-TVA series)
+- Panasonic conference phone installation (KX-NT700)
+- Panasonic DECT wireless handset deployment
+- Panasonic door phone installation (KX-T7775)
+- Panasonic desktop endpoint deployment (KX-DT300, NT300, KX-TS710)
+- Voice, data, audio, and video distribution consulting
 
 ## Industries
 - Commercial
 - Residential
 
 ## Equipment
-- Panasonic NT300 Series
-- Panasonic DECT Wireless Handset Series
-- Panasonic KX-DT300 Series
-- Panasonic KX-NT700 Conference Phone
-- Panasonic KX-TS710 USB Speaker/Handset
-- Panasonic KX-T7775 Doorphone
 - Panasonic KX-TDA50G
 - Panasonic KX-TDA100/200
 - Panasonic KX-TDA600
 - Panasonic TDE100/200 PBX
 - Panasonic NCP500/1000
 - Panasonic KX-TVA50/200 Voicemail
+- Panasonic KX-NT700 Conference Phone
+- Panasonic KX-DT300 Series
+- Panasonic NT300 Series
+- Panasonic DECT Wireless Handset Series
+- Panasonic KX-TS710 USB Speaker/Handset
+- Panasonic KX-T7775 Doorphone
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -271,12 +284,13 @@ FCNI emphasizes its team’s combined 25 years of experience in communications c
 
 <details><summary>Sources</summary>
 
-- Founded in 1996 -> db
-- Headquartered in Miami, Florida -> db
+- Founded 1996 -> db
+- Headquarters Miami, Florida -> db
 - Panasonic Communications Systems Dealer since 1996 -> /
-- Provides telecommunications and audio/visual solutions to commercial and residential markets -> /
-- Team has over 25 years combined experience in voice, data, audio, and video distribution -> /
-- Offers Panasonic product lines including NT300, DECT, KX-DT300, KX-NT700, KX-TS710, KX-T7775, KX-TDA50G, KX-TDA100/200, KX-TDA600, TDE100/200, NCP500/1000, KX-TVA50/200 -> /
+- Provides telecommunications and audio/visual solutions -> /
+- Team has over 25 years combined experience in voice, data, audio, video distribution -> /
+- Serves commercial and residential markets -> /
+- Product lines: Panasonic KX-TDA, TDE, NCP, KX-TVA, KX-NT700, DECT, KX-DT300, NT300, KX-TS710, KX-T7775 -> /
 </details>
 
 ---
@@ -286,43 +300,42 @@ FCNI emphasizes its team’s combined 25 years of experience in communications c
 **Old description:** Get peace of mind knowing your projects are backed by over 35 years of expertise. Since 1988, we've been committed to delivering seamless, end-to-end solutions tailored to your needs.
 
 ## About
-Florida Custom Mold (FCM) has operated from Odessa, Florida since its founding in 1988. The company provides custom injection molding and mold-making services from a single facility, handling tooling design, molding, and secondary operations under one roof.
+Florida Custom Mold (FCM) has operated from Odessa, Florida since 1988. The company was founded over 35 years ago to provide custom injection molding and mold-making services, and it remains a privately held operation serving clients across the United States.
 
-FCM runs precision injection molding for prototype through production volumes, complemented by in-house mold design and manufacturing. Secondary services include pad printing, silk screening, hot stamping, flow painting, UV printing, CNC gluing and inserting, ultrasonic welding with IP67-rated assembly, and CNC finishing. The shop also offers specialized plating and shielding, thermoforming for large parts, and rapid prototyping. The company reports serving over 150 clients annually.
+FCM runs an in-house toolroom and molding floor that handles mold design and manufacturing, precision injection molding, and a suite of secondary operations including pad printing, silk screening, hot stamping, flow painting, UV printing, CNC gluing and inserting, ultrasonic welding with IP67-rated assembly, and near-net-shape CNC finishing. The shop also offers plating and shielding, thermoforming (large-part, rotary, and precision routing), rapid prototyping, and turnkey assembly. Production focuses on prototype and short-run volumes, with the company emphasizing that it builds the mold and runs the parts under one roof.
 
-The customer base spans medical, military, electronics, and consumer-product sectors. Medical projects include in-mold decorated components for Vivo 55 ventilators and CPAP machines, and FDA-compliant gummy pharmaceutical molds. Military work covers durable, mission-critical molded parts. Electronics programs feature IP67-rated secondary assembly for Bombardier dashboard speakers. Consumer examples include two-shot overmolded industrial metal analyzers and a 15-minute COVID-19 rapid test kit.
+The customer base spans medical, military, electronics, and consumer-products sectors. In medical, FCM has produced in-mold decorated components for Vivo 55 ventilators and CPAP machines and precision gummy molds for FDA-approved pharmaceutical production. For military and aerospace, it delivered IP67-rated secondary assemblies for Bombardier dashboard speakers. Electronics and consumer-program work includes two-shot overmolded industrial metal analyzers and rapid-test kits.
 
-FCM emphasizes end-to-end control—tooling, molding, and assembly in-house—to eliminate middlemen and accelerate turnaround. The company highlights its willingness to tackle complex geometries and tight tolerances, offering rapid prototyping to compress development cycles.
+FCM positions its differentiation on end-to-end control—tooling and molding in one facility, no middlemen, and a commitment to rapid turnaround measured in days rather than weeks. The company cites its ability to tackle complex geometries and tight tolerances as a core reason clients engage them for challenging projects.
 
 ## Known for
-- End-to-end in-house tooling, molding, and assembly
-- No middlemen; mold building and part production under one roof
-- Rapid prototyping for faster design iterations
-- Specialized plating, shielding, and IP67-rated secondary assembly
-- Experience across medical, military, electronics, and consumer markets
+- Tooling and molding in one facility, eliminating middlemen
+- Prototype and short-run molding with rapid turnaround (days, not weeks)
+- In-house secondary operations including IP67 ultrasonic welding and CNC finishing
+- Rapid prototyping for fast design iteration
+- End-to-end service from mold design through final assembly
 
 ## Capabilities
-- Injection molding
-- Mold design and manufacturing
-- Pad printing
-- Silk screening
-- Hot stamping
-- Flow painting
-- UV printing
-- CNC gluing
-- CNC inserting
-- Ultrasonic welding
-- IP67-rated assembly
-- CNC finishing
-- Plating and shielding
-- Thermoforming
-- Rapid prototyping
-- Two-shot overmolding
-- In-mold decoration (IMD)
-- Threaded insert installation
-- Turnkey assembly
-- Offshore medical molding
-- Engineering support
+- Injection Molding
+- Mold Design and Manufacturing
+- Pad Printing
+- Silk Screening
+- Hot Stamping
+- Flow Painting
+- UV Printing
+- CNC Gluing
+- CNC Inserting
+- Ultrasonic Welding (IP67-rated)
+- Near-Net-Shape CNC Finishing
+- Plating and Shielding
+- Engineering Services
+- Thermoforming (Large-Part, Rotary, Precision Routing)
+- Rapid Prototyping
+- Turnkey Assembly
+- Threaded Insert Installation
+- Two-Shot Overmolding
+- In-Mold Decorating (IMD)
+- Offshore Medical Molding
 
 ## Industries
 - Medical
@@ -332,6 +345,7 @@ FCM emphasizes end-to-end control—tooling, molding, and assembly in-house—to
 
 ## Certifications
 - FDA-APPROVED
+- ISO certifications
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -340,19 +354,19 @@ FCM emphasizes end-to-end control—tooling, molding, and assembly in-house—to
 
 <details><summary>Sources</summary>
 
-- Founded 1988 -> db, /, /about-us
-- Headquarters Odessa, Florida -> db, /
-- FDA-APPROVED certification -> db
-- Over 150 clients annually -> /
-- Services: injection molding, mold design, secondary operations, plating/shielding, engineering, thermoforming, rapid prototyping -> /, /services
+- Founded 1988 in Odessa, Florida -> db, /, /about-us
+- In-house mold design, injection molding, secondary operations (pad printing, silk screening, hot stamping, flow painting, UV printing, CNC gluing/inserting, ultrasonic welding IP67, CNC finishing) -> /, /services
+- Plating/shielding, thermoforming, rapid prototyping, turnkey assembly, engineering -> /services
 - Industries: Medical, Military, Electronics, Consumer Products -> /, /about-us
-- Medical examples: Vivo 55 ventilators/CPAP, gummy pharmaceutical molds -> /
-- Military example: mission-critical components -> /
-- Electronics example: IP67-rated assembly for Bombardier dashboard speakers -> /
-- Consumer examples: two-shot overmolded industrial metal analyzer, COVID-19 test kit -> /
-- End-to-end in-house capability claim -> /
-- No middlemen claim -> /
-- Specific secondary processes listed -> /, /services
+- Medical projects: IMD for Vivo 55 ventilators/CPAP, gummy pharmaceutical molds FDA-approved -> /
+- Military project: IP67-rated secondary assembly for Bombardier dashboard speakers -> /
+- Electronics/consumer: two-shot overmolded industrial metal analyzer, 15-min COVID-19 rapid test kit -> /
+- FDA-APPROVED certification -> db
+- ISO certifications mentioned -> /about-us
+- Prototype/short-run focus, tooling and molding in one place -> /, /services
+- Rapid turnaround 'days, not weeks' -> /
+- Complex parts, tight tolerances claimed -> /
+- Over 150 clients annually -> /
 </details>
 
 ---
@@ -362,47 +376,38 @@ FCM emphasizes end-to-end control—tooling, molding, and assembly in-house—to
 **Old description:** Caliber is a national leader in the distribution of industrial packaging and equipment. We have an unprecedented commitment with our partners to find the most innovative products and solutions for their industry. With a wide range of quality packaging and shipping materials, 24/7 Technical support, and industry-leading inventory management solutions, we pride ourselves in our unrivaled expertise and our devotion to our partners.
 
 ## About
-Florida Gulf Packaging Inc., operating under the Caliber Packaging brand, is headquartered in Palmetto, Florida. The company maintains a national presence with multiple branches across the United States, including a location in Kannapolis, North Carolina.
+Florida Gulf Packaging Inc., operating as Caliber Packaging, is headquartered in Palmetto, Florida. The company provides industrial packaging materials and equipment to businesses across the United States.
 
-The firm functions as both a distributor and manufacturer of industrial packaging equipment and materials. Its product range includes case packaging equipment, case sealers, shrink film and equipment, label applicators, strapping systems (plastic, steel, and composite), robotic palletizers, and stretch film. Beyond product supply, Caliber provides 24/7 technical support, emergency equipment repair, preventive maintenance by certified technicians, and inventory management programs designed to guarantee product availability. The company reports serving over 2,000 business customers nationwide.
+The company supplies a range of packaging products including stretch film, shrink film, specialty tapes, and strapping in plastic, steel, and composite varieties. It also distributes and manufactures packaging equipment such as case sealers, label applicators, robotic palletizers, and shrink systems. Caliber Packaging supports these offerings with 24/7 technical support, inventory management programs, and on-site equipment repair services. The firm operates multiple branch locations nationwide.
 
-Its customer base spans industrial sectors that require packaging and shipping solutions, though specific industries are not detailed in public materials. The company positions itself as a single-source partner for packaging products, equipment, and ongoing service support.
+Its customer base spans industrial manufacturers, logistics operations, and shipping facilities that require packaging solutions. The company reports serving over 2,000 businesses from its coast-to-coast network.
 
-Caliber differentiates itself through a service model built on round-the-clock technical availability, a geographically dispersed branch network for rapid response, and inventory management systems that aim to minimize customer downtime. The business emphasizes a commitment to deliver innovative packaging solutions backed by dedicated service teams.
+Caliber Packaging emphasizes round-the-clock service availability and inventory stocking programs designed to reduce downtime for clients. Emergency repair services and a national footprint are cited as key differentiators.
 
 ## Known for
-- 24/7 technical support across all 50 states
-- Nationwide branch network for rapid on-site service
-- Certified service technicians for emergency repair and preventive maintenance
-- Inventory management programs with guaranteed product availability
-- Single-source provider for packaging equipment, materials, and service
+- 24/7 technical support in all 50 states
+- Inventory management and stocking programs
+- Emergency equipment repair service
+- Nationwide branch network
 
 ## Capabilities
 - Industrial packaging distribution
-- Packaging equipment distribution
+- Packaging equipment manufacturing
 - 24/7 technical support
+- Inventory management and stocking programs
+- Equipment maintenance and repair
 - Emergency equipment repair
-- Preventive maintenance
-- Inventory management programs
-- Strapping solutions (plastic, steel, composite)
-- Case packaging
-- Case sealing
-- Shrink wrapping
-- Label application
-- Robotic palletizing
-- Stretch film application
-- Shrink bundling
-- Specialty tape application
+
+## Industries
+- Industrial packaging
 
 ## Equipment
 - Case packaging equipment
 - Case sealers
-- Shrink film equipment
 - Label applicators
-- Strapping equipment
 - Palletizers (Robots)
-- Shrink bundling equipment
 - Shrink equipment
+- Shrink bundling
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -410,18 +415,16 @@ Caliber differentiates itself through a service model built on round-the-clock t
 
 <details><summary>Sources</summary>
 
-- Company name: Florida Gulf Packaging Inc. -> db
-- Headquarters: Palmetto, Florida -> db
-- Website: caliberpackaging.com -> db
-- Description: national leader in distribution of industrial packaging and equipment -> db
-- Website page: Caliber Packaging – Industrial packaging distributor and manufacturer -> /
-- Address: 1548 Roger Dale Carter Blvd Ste E, Kannapolis, NC 28081 -> /
-- Phone: (704) 743-2020 -> /
-- Claim: 2000+ businesses trust us -> /
-- Equipment categories listed -> /
-- Services: 24/7 technical support, inventory management, emergency repair, certified technicians -> /
-- Products: strapping options (plastic, steel, composite) -> /
-- Multiple branches across the country -> /
+- Headquarters in Palmetto, Florida -> db
+- Operates as Caliber Packaging -> homepage
+- Distributes and manufactures industrial packaging and equipment -> homepage
+- Offers stretch film, shrink film, specialty tapes, strapping (plastic, steel, composite) -> homepage
+- Offers case sealers, label applicators, robotic palletizers, shrink equipment -> homepage
+- Provides 24/7 technical support -> homepage
+- Provides inventory management and stocking programs -> homepage
+- Provides equipment maintenance and emergency repair -> homepage
+- Operates multiple branch locations nationwide -> homepage
+- Serves over 2,000 businesses -> homepage
 </details>
 
 ---
@@ -431,39 +434,34 @@ Caliber differentiates itself through a service model built on round-the-clock t
 **Old description:** When you’re looking for custom wood products, look no further than Florida Man Woodworking. We’ve been handcrafting tables, cutting boards, boat wood furnishings and many other wood products for nearly a decade.
 
 ## About
-Florida Man Woodworking operates from a shop in Parrish, Florida, in Manatee County. The business began when its founder, a former high-pressure sales professional, turned to woodworking as a mental escape. After building a workbench from reclaimed 18th-century floorboards, he left his sales career to devote 60 hours a week to the craft. The company does not disclose a formal founding year or ownership structure, but it functions as a sole proprietorship.
+Florida Man Woodworking operates from Parrish, Florida, in Manatee County. The business began when its founder, a former high-pressure sales professional, turned to woodworking as a mental escape. After building a workbench from reclaimed 18th-century floorboards, the founder spent thousands of hours mastering the craft before leaving the sales career to run the shop full time. No founding year is publicly stated, and the company is a sole proprietorship without disclosed ownership certifications.
 
-The shop produces custom wood pieces including live-edge tables, epoxy river tables, bar tops, mantlepieces, and traditional tables; chef-quality end-grain cutting boards and decorative long-grain boards; and marine-grade items such as cockpit tables and interior steps. All work is done by hand using domestic and exotic hardwoods, with epoxy resin incorporated for river-style designs. No facility size, headcount, or annual volume figures are published.
+The shop produces custom wood products including live-edge tables, epoxy river tables, bar tops, mantlepieces, traditional tables, chef-quality end-grain cutting boards, decorative long-grain cutting boards, and marine-focused items such as cockpit tables and interior steps. Work is performed on domestic and exotic hardwoods, with the founder handling design through finish. The facility size, headcount, and annual volume are not disclosed.
 
-Customers range from homeowners seeking heirloom furniture to boat owners needing custom marine woodwork. The company has supplied cutting boards for professional kitchen use and built cockpit tables for private vessels. It also accepts one-off commissions for any item that can be made from wood.
+Customers include private clients seeking heirloom-quality furniture and boat owners needing marine-grade wood components. The company highlights residential projects such as dining tables and bar tops, as well as marine installations like cockpit tables. No specific industry sectors or commercial clients are named beyond these examples.
 
-The founder cites a desire to transform raw slabs into lasting works of art as the driving force behind the business. He emphasizes the use of high-quality hardwoods and a personal, start-to-finish collaboration with each client as what distinguishes the operation.
+The founder cites a personal passion for transforming raw wood into lasting pieces and a commitment to working closely with customers from concept to completion. The business emphasizes heirloom quality and the use of high-grade hardwoods as its distinguishing approach.
 
 ## Known for
-- Specializes in live-edge and epoxy river tables
-- Produces chef-quality end-grain cutting boards
-- Fabricates custom marine wood products (cockpit tables, interior steps)
-- Works exclusively with domestic and exotic hardwoods
-- Operates as a one-person shop with 60-hour workweeks
+- Start-to-finish custom design and fabrication
+- Heirloom-quality craftsmanship
+- Specialization in marine wood products (cockpit tables, interior steps)
+- Use of domestic and exotic hardwoods
 
 ## Capabilities
-- Custom woodworking
+- Custom table fabrication
+- Epoxy river table construction
 - Live-edge table fabrication
-- Epoxy river table fabrication
 - Bar top and mantlepiece fabrication
-- Traditional table making
 - End-grain cutting board manufacturing
 - Long-grain cutting board manufacturing
-- Marine wood product fabrication (cockpit tables, interior steps)
-- Wood finishing
-- Epoxy resin application
-- Custom design consultation
+- Marine cockpit table fabrication
+- Marine interior step fabrication
+- Wood finishing and assembly
 
 ## Industries
-- Custom furniture
-- Marine woodworking
-- Kitchenware
-- Home decor
+- Marine
+- Furniture
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -471,15 +469,21 @@ The founder cites a desire to transform raw slabs into lasting works of art as t
 
 <details><summary>Sources</summary>
 
-- Company located in Parrish, Florida (Manatee County) -> db
-- Handcrafts tables, cutting boards, boat wood furnishings -> db
-- Founder transitioned from sales career to woodworking -> /about
-- First project was a workbench made from 18th-century house floorboards -> /about
-- Specializes in live-edge tables, epoxy river tables, bar tops, mantlepieces, traditional tables -> /about
-- Produces end-grain and long-grain cutting boards -> /about
-- Makes marine wood products including cockpit tables and interior steps -> /about
-- Uses domestic and exotic hardwoods -> /
-- Operates as a one-person shop working 60 hours per week -> /about
+- Location: Parrish, Florida (Manatee County) -> db
+- Founder background: former sales professional turned woodworker -> /about
+- First project: workbench from 18th-century floorboards -> /about
+- Left sales to run shop full time -> /about
+- Products: custom tables (live-edge, epoxy river, bar tops, mantlepieces, traditional) -> /about
+- Products: end-grain and long-grain cutting boards -> /about
+- Products: marine cockpit tables and interior steps -> /about
+- Materials: domestic and exotic hardwoods -> /
+- Heirloom quality emphasis -> /
+- Work with customers start to finish -> /
+- No founding year stated -> db
+- No employee count stated -> db
+- No certifications stated -> db
+- No equipment listed -> db
+- Social media icons (Facebook, Instagram) present but no URLs -> /, /about
 </details>
 
 ---
@@ -489,32 +493,37 @@ The founder cites a desire to transform raw slabs into lasting works of art as t
 **Old description:** Since 1975 Florida Metal Services has provided custom metal products to its customers in industries ranging from commercial, military & defense,
 
 ## About
-Florida Metal Services was founded in 1975 in Largo, Florida. The company began with two open-back metal stamping presses serving a handful of local customers.
+Florida Metal Services operates from Largo, Florida, where it was founded in 1975. The company began with two open-back metal stamping presses serving a handful of local customers.
 
-Its manufacturing services cover production metal stamping, short-run metal and plastic stamping, sheet metal fabrication, CNC machining, laser cutting, wire EDM, tooling, and prototyping, allowing turn-key product solutions from prototype to production.
+Today the shop runs a press room with more than thirty presses ranging from 5 to 120 tons, a sheet metal department equipped with five turret presses and three lasers, and in-house finishing that includes painting, powder coating, silkscreening, welding, and assembly. Core processes cover production sheet metal fabrication, short-run metal and plastic stamping, CNC machining, tooling, prototyping, laser cutting, wire EDM, and metal finishing. The facility supports turn-key product solutions from prototype through production volumes.
 
-The company serves commercial, military and defense, aerospace, medical, industrial, automotive, and electronics customers. Examples of parts produced include retaining clips for relay boxes and complete assemblies, and the firm positions itself as a one-stop resource for clients looking to consolidate their vendor base.
+The manufacturer serves commercial, military and defense, aerospace, medical, industrial, automotive, and electronics sectors. Customers include original equipment manufacturers and contractors that are consolidating vendor lists and looking for a single source capable of handling both long-running, lower-priced parts and shorter-run, highly dynamic components.
 
-Florida Metal Services emphasizes quick-change, fast-turn prototyping and production, enabled by CNC-type equipment that minimizes changeover time. Its quality system is certified to AS9100D and ISO 9001:2015, and it is ITAR registered, supporting work with defense and aerospace clients.
+Florida Metal Services emphasizes a quick-change, fast-turn mentality for prototyping and production, backed by ITAR registration and AS9100D/ISO 9001:2015 certification. The company positions itself as a full-service supplier that helps clients reduce the number of vendors they manage.
 
 ## Known for
-- Five turret presses and three lasers for sheet metal fabrication
-- In-house finishing: paint, powder coating, plating, welding, silk screening, and assembly
-- AS9100D and ISO 9001:2015 certified, ITAR registered
-- Turn-key solutions from prototyping through production
+- 5 turret presses and 3 lasers in-house
+- In-house finishing: paint, powder coating, silkscreen, welding, assembly
+- ITAR registered, AS9100D and ISO 9001:2015 certified
+- Quick-change, fast-turn prototyping and production mentality
 
 ## Capabilities
-- Production Metal Stamping
+- Production Sheet Metal Fabrication
 - Short-Run Metal Stamping
 - Plastic Stamping
-- Production Sheet Metal Fabrication
 - CNC Machining
-- Laser Cutting
-- Wire EDM
 - Tooling
 - Prototyping
-- Metal Finishing (paint, powder coating, plating, welding, silk screening)
+- Laser Cutting
+- Wire EDM
+- Metal Finishing
 - Assembly
+- Painting
+- Powder Coating
+- Silkscreening
+- Welding
+- Production Metal Stamping
+- Custom Metal Fabrication
 
 ## Industries
 - Commercial
@@ -526,9 +535,9 @@ Florida Metal Services emphasizes quick-change, fast-turn prototyping and produc
 - Electronics
 
 ## Equipment
-- 30+ presses (5–120 tons)
-- Five turret presses
-- Three lasers
+- Presses (30+, 5-120 tons)
+- Turret presses (5)
+- Lasers (3)
 - Q turret punch press
 
 ## Certifications
@@ -543,16 +552,16 @@ Florida Metal Services emphasizes quick-change, fast-turn prototyping and produc
 
 <details><summary>Sources</summary>
 
-- Founded 1975 in Largo, Florida -> db
-- Started with two open-back metal stamping presses -> /
-- Press room with over 30 presses (5-120 tons) -> /
-- Sheet metal department with five turret presses and three lasers -> /
-- In-house finishing: paint, powder coating, plating, welding, silk screening, assembly -> /
-- Capabilities: production metal stamping, short-run metal/plastic stamping, sheet metal fabrication, CNC machining, laser cutting, wire EDM, tooling, prototyping -> /
-- Industries served: commercial, military & defense, aerospace, medical, industrial, automotive, electronics -> /
-- Certifications: AS9100D, ISO 9001:2015, ITAR Registered -> /
-- ITAR registered -> /
-- Turn-key product solutions, quick-change fast-turn prototyping -> /
+- Founded 1975 in Largo, Florida -> db, homepage
+- Started with two open-back metal stamping presses -> capabilities array (db)
+- Press room with 30+ presses, 5-120 tons -> homepage
+- Sheet metal department: 5 turret presses, 3 lasers -> homepage
+- In-house finishing: paint, powder coating, silkscreen, welding, assembly -> homepage
+- Capabilities: production sheet metal fabrication, short-run metal/plastic stamping, CNC machining, tooling, prototyping, laser cutting, wire EDM, metal finishing, assembly -> homepage
+- Industries: commercial, military & defense, aerospace, medical, industrial, automotive, electronics -> homepage, industries_served (db)
+- Certifications: ITAR Registered, AS9100D, ISO 9001:2015 -> homepage, certifications (db)
+- Quick-change, fast-turn prototyping and production mentality -> capabilities array (db)
+- Q turret punch press mentioned -> capabilities array (db)
 </details>
 
 ---
@@ -562,58 +571,58 @@ Florida Metal Services emphasizes quick-change, fast-turn prototyping and produc
 **Old description:** Florida Natural Flavors is the premier manufacturer of the highest quality fruit and juice-based beverage mixes and soda syrups. With unsurpassed beverage industry experience spanning over 100 years, we provide superior service and loyalty to distributors and pride ourselves as being a manufacturer that specializes solely in beverages.
 
 ## About
-Florida Natural Flavors operates from a 32,000-square-foot facility in Casselberry, Florida. The company was founded in 1982 by Dave Erdman, who remains president, and is family-owned. Erdman's goal was to bring high-quality beverage mixes to market that are easy to use, easy to store, and deliver strong profit margins for distributors.
+Florida Natural Flavors operates from a 32,000-square-foot facility in Casselberry, Florida. The company was founded in 1982 by Dave Erdman, who remains president, and it has remained family-owned since its inception. Erdman’s original goal was to supply distributors with high-quality beverage mixes that are easy to use, easy to store, and deliver strong profit margins.
 
-The company manufactures fruit and juice-based beverage mixes, soda syrups, frozen drinks, daiquiri mixes, smoothies, juice concentrates, and bag-in-box products. Its Casselberry plant runs batches of 1,000 to 3,000 gallons and includes an in-house laboratory for quality control and an on-site printing facility for labels. Services span contract packaging, private-label manufacturing, and product development, including flavor matching and turn-key packaging.
+The manufacturer produces fruit- and juice-based beverage mixes, soda syrups, frozen drinks, daiquiri mixes, smoothies, juice concentrates, and bag-in-box products. Its plant runs batches of 1,000 to 3,000 gallons and includes an in-house laboratory for quality control and an on-site label printing operation. Core services span contract packaging, private-label manufacturing, and product development, including flavor matching and custom formulation.
 
-Customers include beverage distributors, restaurants, bars, hotels, resorts, theme parks, hospitality groups, convenience stores, cafés, cruise lines, and all-inclusive resorts. The company's products are served worldwide through these channels.
+Customers include beverage distributors, restaurants, bars, hotels, resorts, theme parks, convenience stores, cruise lines, and all-inclusive resorts. The company’s products are served globally in venues such as theme parks, cruise ships, and hospitality groups, and it also supplies cafés and food-service operators.
 
-Florida Natural Flavors differentiates itself by specializing solely in beverages, a focus the company says keeps it ahead in innovation and cost efficiency. It emphasizes family-oriented service, treating employees and distributors like family, and guarantees fast turnaround on stock and custom orders with rush-order accommodation. The facility is GSFI-certified, holds a Florida citrus dealer license, and undergoes regular FDA, USDA, and state agriculture inspections.
+Florida Natural Flavors emphasizes its singular focus on beverages as a differentiator, citing over 100 years of collective team experience and certifications including GSFI, HACCP, and Kosher (Florida-K). The company highlights fast turnaround on both stock and custom orders, rush-order accommodation, and a family-oriented approach to customer service.
 
 ## Known for
-- Specializes solely in beverage manufacturing
-- In-house label printing for faster turnaround
-- State of Florida licensed citrus dealer
-- GSFI-certified production facility
-- Fast turnaround on stock and custom products with rush-order accommodation
+- 32,000 sq ft facility with batch capacity of 1,000–3,000 gallons
+- In-house laboratory and on-site label printing for fast turnaround
+- Family-owned with over 100 years of collective beverage industry experience
+- GSFI certified, HACCP compliant, and Kosher (Florida-K) certified
+- Guaranteed fast turnaround on stock and custom products, with rush-order flexibility
 
 ## Capabilities
-- Beverage manufacturing
-- Contract packaging (co-packing)
+- Contract beverage packaging
 - Private label beverage manufacturing
-- Product development
-- Flavor matching
-- Bag-in-box packaging
-- Bottling
-- Labeling (in-house printing)
-- Quality control (in-house laboratory)
-- Frozen drink production
-- Daiquiri mix production
-- Soda syrup production
-- Smoothie production
-- Juice concentrate production
-- Beverage contract manufacturing
-- Turn-key packaging
-- NDA signing for proprietary formulas
-- Packaging: 1/2 gallon, gallon, bag-in-box 2.5/3/5 gallon
+- Product development and flavor matching
+- Bag-in-box packaging (2.5, 3, 5 gallon)
+- Bottling (1/2 gallon 6-pack, 1 gallon 4-pack)
+- In-house label printing
+- Blending and quality control
+- Beverage formulation
+- Turn-key packaging, development, and labeling
+- Contract manufacturing
+- Custom formulation
 
 ## Industries
-- Beverage distribution
-- Restaurants & bars
-- Hotels & resorts
-- Theme parks & hospitality groups
+- Beverage distributors
+- Restaurants
+- Bars
+- Hotels
+- Resorts
+- Theme parks
+- Hospitality groups
 - Convenience stores
 - Cruise lines
 - All-inclusive resorts
 - Cafés
 - Food service
 
+## Equipment
+- In-house laboratory
+- On-site label printing facility
+
 ## Certifications
-- Global Safety Food Industry (GSFI) Certified
-- National Registry of Food Safety Professionals (NRFSP) Certified
-- Occupational Safety and Health Administration (OSHA) Trained and Certified
+- GSFI Certified
+- NRFSP Certified
+- OSHA Trained and Certified
+- HACCP Food Safety Program
 - Kosher Certified (Florida-K)
-- State of Florida licensed citrus dealer
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -623,18 +632,39 @@ Florida Natural Flavors differentiates itself by specializing solely in beverage
 
 <details><summary>Sources</summary>
 
-- Founded 1982 by Dave Erdman -> /about-us
+- Founded 1982 -> /about-us
+- Founder Dave Erdman -> /about-us
 - Family-owned -> /about-us
-- Facility 32,000 sq ft in Casselberry, FL -> /services
-- Batch capacity 1,000-3,000 gallons -> /services
-- In-house laboratory and on-site printing -> /services
-- Products: fruit/juice mixes, soda syrups, frozen drinks, daiquiri mixes, smoothies, juice concentrates, bag-in-box -> /, /services
+- Facility 32,000 sq ft -> /services
+- Batch capacity 1,000–3,000 gallons -> /services
+- In-house laboratory -> /services
+- On-site printing facility -> /services
+- Certifications: GSFI, NRFSP, OSHA, HACCP, Kosher -> /about-us
+- Industries served: distributors, restaurants, bars, hotels, theme parks, convenience stores, cruise lines, all-inclusive resorts -> /, /about-us
+- Products: frozen drinks, daiquiri mixes, soda syrups, smoothies, juice concentrates, bag-in-box -> /
 - Services: contract packaging, private label, product development -> /services
-- Industries served: distributors, restaurants, bars, hotels, resorts, theme parks, convenience stores, cafés, cruise lines, all-inclusive resorts -> /, /about-us
-- Certifications: GSFI, NRFSP, OSHA, HACCP, Kosher (Florida-K) -> /about-us
-- Florida citrus dealer license, FDA/USDA/FL Dept of Ag inspections -> /about-us
-- Fast turnaround, rush orders -> /
-- Leadership: Dave Erdman (Founder/President), Garry L. Erdman (VP Ops), Jeffrey A. Smail (GM) -> /about-us
+- Location: Casselberry, Florida -> db, /about-us
+- State of Florida licensed citrus dealer -> /about-us
+- FDA, USDA, Florida Dept of Agriculture inspected -> /about-us
+- Fast turnaround on stock and custom products -> /
+- Accommodate special and rush orders -> /
+- In-house label printing for faster turnaround -> /services
+- Blending, quality control, bottling, labeling, packing -> /services
+- Bag-in-box sizes: 2.5, 3, 5 gallon -> /services
+- Bottle sizes: 1/2 gallon 6 per case, gallon 4 per case -> /services
+- Leadership team: Dave Erdman, Garry L. Erdman, Jeffrey A. Smail -> /about-us
+- Collective experience over 100 years -> /about-us
+- Eco-friendly production facility -> /
+- Treat customers like family -> /about-us
+- High quality, consistent, accurate, on-time delivery -> /
+- One-stop shop for beverage needs -> /
+- Turn-key packaging, development, labeling -> /
+- Flavor matching -> /
+- Private label all products -> /services
+- Assist in label design -> /services
+- Product development to turn ideas into reality -> /services
+- GSFI certified production facility -> /
+- Exceeds highest quality and safety standards -> /
 </details>
 
 ---

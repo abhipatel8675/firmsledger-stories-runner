@@ -3,44 +3,46 @@
 **Old description:** Right Stuff Equipment is proud of to be a member of PMMI. Being a member of PMMI is not an easy process. RSE was thoroughly vetted by a PMMI member who made a visit to our facility, took an extensive tour and interviewed key staff members to confirm RSE is in fact the manufacturer of RSE Branded Equipment. There are many companies that represent themselves as a manufacturer of the equipment they sell however in most cases if they are not a PMMI member the equipment is outsourced from overseas and assembled and/or re-branded in the USA.  Our branded equipment is made in the USA in our Denver Colorado facility.
 
 ## About
-Right Stuff Equipment was founded in 2006 by Kevin Weber in Denver, Colorado. Weber, who brought more than 30 years of food-industry experience from roles including CEO of Cereform USA, established the company as a privately owned manufacturer of packaging automation equipment. The business operates from a design, engineering, and fabrication facility in Denver.
+Right Stuff Equipment was founded in 2006 in Denver, Colorado, by Kevin Weber, who brought more than 30 years of food-industry experience, including a tenure as CEO of Cereform USA. The privately held company operates its design, engineering, and fabrication facility in Denver, where it builds its own branded packaging machinery.
 
-The company builds automated packaging machinery under its own brand, including vertical form-fill-seal baggers, tray formers, liquid fillers, and material handling equipment. It also provides in-house engineering and integration services, extensive fabrication capabilities, and turn-key system integration using OEM partner components. All RSE-branded equipment is manufactured at the Denver facility.
+The company manufactures automated packaging equipment including vertical form-fill-seal (VFFS) baggers, tray formers, liquid fillers, and material handling systems. It also provides turn-key integration services, leveraging OEM partners to deliver complete automation systems. In-house engineering and extensive fabrication capabilities allow custom processing and packaging systems that meet food and pharmaceutical-nutraceutical quality and tolerance requirements.
 
-Right Stuff Equipment serves consumer-goods markets across food, beverage, supplement and personal care, chemical, agricultural, THC and CBD, and general manufacturing sectors. Customers range from food processors to nutraceutical producers seeking custom processing and packaging systems that meet food and pharmaceutical-grade quality and tolerance requirements.
+Right Stuff Equipment serves consumer-goods markets across food, beverage, supplement and personal care, chemical, agricultural, THC/CBD, and general manufacturing industries. Customers range from food processors to nutraceutical producers seeking single-source automation solutions.
 
-The company emphasizes its American-made production, single-source provider model, and US-based technical support with preventive maintenance plans. Membership in PMMI validates its status as a genuine manufacturer rather than a rebrander of overseas equipment. Its mission focuses on ethical, profitable, and progressive automation solutions that improve customer efficiency, productivity, and profitability.
+The company emphasizes U.S. manufacturing, a single-source provider model, U.S.-based technical support, and preventive maintenance plans. Its mission is to operate an ethical, profitable, and progressive company that improves customer efficiency, productivity, and profitability.
 
 ## Known for
-- Made in America at Denver facility
-- Single-source provider for packaging automation
-- In-house engineering and integration services
-- Extensive fabrication capabilities for food and pharmaceutical-grade systems
-- US-based technical support and preventive maintenance plans
+- Branded equipment manufactured in the USA at Denver facility
+- Single-source provider for design, fabrication, integration, and support
+- U.S.-based technical support from Colorado staff
+- Preventive maintenance plans for long-term equipment reliability
+- PMMI membership confirming manufacturer status
 
 ## Capabilities
-- Engineering services
-- Fabrication services
-- System integration
-- Vertical form fill seal (VFFS) packaging
-- Tray forming
-- Liquid filling
-- Material handling equipment
-- Turn-key automation integration
-- Preventive maintenance
-- Custom packaging machinery fabrication
+- Vertical form-fill-seal (VFFS) bagger manufacturing
+- Tray former manufacturing
+- Liquid filler manufacturing
+- Material handling equipment manufacturing
+- Turn-key system integration
+- In-house engineering services
+- Custom fabrication services
+- Preventive maintenance services
+- Technical support services
+- Automation system design
+- Packaging machinery installation
+- OEM partner integration
 
 ## Industries
 - Food
 - Beverage
-- Supplement and personal care
+- Supplement & Personal Care
 - Chemical
 - Agricultural
-- THC and CBD
-- General manufacturing
+- THC/CBD
+- General Manufacturing
 
 ## Equipment
-- Vertical Form and Fill Baggers (VFFS)
+- Vertical Form Fill Seal (VFFS) Baggers
 - Tray Formers
 - Liquid Fillers
 - Material Handling Equipment
@@ -48,25 +50,23 @@ The company emphasizes its American-made production, single-source provider mode
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 2006
-- **Ownership:** Privately owned (Kevin Weber)
+- **Ownership:** Privately held (founder-owned)
 - **Headquarters:** Denver, Colorado
 
 <details><summary>Sources</summary>
 
 - Founded in 2006 -> /about
-- Headquarters in Denver, Colorado -> /about and /
+- Headquarters in Denver, Colorado -> db (hq_city, hq_state_label) and /about
 - Owner/Founder Kevin Weber -> /about
-- PMMI member -> description and /about
-- Manufactures VFFS, tray formers, liquid fillers, material handling equipment -> /
+- Manufactures VFFS baggers, tray formers, liquid fillers, material handling equipment -> /
+- Provides turn-key integration with OEM partners -> /
 - In-house engineering and integration services -> /about
-- Extensive fabrication services -> /about
-- Industries served: food, beverage, supplement & personal care, chemical, agricultural, THC and CBD, general manufacturing -> /
-- Made in America at Denver facility -> description and /about
-- US-based technical support -> /about
-- Preventive maintenance plans -> /about
-- Single-source provider -> /about
+- Extensive fabrication services for food & pharmaceutical-nutraceutical requirements -> /about
+- Industries served: food, beverage, supplement & personal care, chemical, agricultural, THC/CBD, general manufacturing -> / and /about
+- PMMI member -> description and /about
+- Made in USA at Denver facility -> description
+- Single-source provider, US-based tech support, preventive maintenance plans -> /about
 - Mission statement -> /about
-- Kevin Weber background (30+ years food industry, former CEO Cereform USA) -> /about
 </details>
 
 ---
@@ -76,35 +76,34 @@ The company emphasizes its American-made production, single-source provider mode
 **Old description:** With our finger food and Idaho potato products, we bring you the most appetising and unusual trends in the world. In terms of taste, we are very far ahead, because courage and innovation are on the top of our list of ingredients. When it comes to red-hot treats, we can’t get enough. We have an excellent gut feeling for hot stuff. Well, how does it taste to you?
 
 ## About
-Rite Stuff Foods operates its production plant in Jerome, Idaho, with a main office in Boise. The company is part of the Frostkrone Food Group, a European-based innovation leader in finger food and snack products with facilities in Germany, France, Great Britain, and the United States. No founding year or individual founders are disclosed in public materials; the business is managed by Curt Snyder as Managing Director and Head of Operations.
+Rite Stuff Foods operates a production plant in Jerome, Idaho, with its main office in Boise. The company is part of the Frostkrone Food Group, which runs modern facilities in Germany, France, Great Britain, and the United States. No founding year or founder names are disclosed in public materials.
 
-The company manufactures a range of potato-based appetizers and finger foods, including loaded potato skins, twice-baked potatoes, seasoned potato wedges, and fried-and-filled potato skins. Production involves baking, scooping, filling, seasoning, and freezing processes at its Jerome facility. Rite Stuff describes itself as one of the major American producers of potato specialties, though specific facility size, headcount, and annual volumes are not published.
+The company manufactures finger foods and potato specialties, including loaded potato skins, twice-baked potatoes, seasoned potato wedges, and fried-and-filled potato skins. Processes cover baking, scooping, filling, seasoning, and freezing to maintain freshness. The firm describes itself as a major American producer of potato specialties, though specific facility size, headcount, and output volumes are not published.
 
-Products are sold into both food retail and foodservice channels across a global footprint that includes the United States, Canada, Mexico, Europe (Scandinavia, the Netherlands, France, Spain, Portugal, the United Kingdom, Switzerland, Eastern Europe), and Asia. Customers range from grocery retailers to restaurant and catering operators seeking trend-driven appetizers.
+Products are sold into food retail and foodservice channels across the United States and internationally through the Frostkrone network, which reaches markets in Europe, Asia, and Scandinavia. The company cites retail and foodservice customers as its primary buyer groups.
 
-The company emphasizes courage and innovation as core ingredients, aiming to lead the transition into a new snack era by translating worldwide consumer trends into seductive appetizer concepts. Its Fried and Filled potato skins are marketed as the "original Idaho appetizer," formulated for taste, appeal, and presentation across both retail and foodservice segments.
+Rite Stuff Foods positions itself as an innovation-driven player in the snack sector, emphasizing courage and innovation as core ingredients. The Frostkrone Food Group bills itself as an innovation leader for finger food and snack products, with a worldwide product range.
 
 ## Known for
+- Innovation leader for finger food and snack products (Frostkrone Food Group)
 - Major American producer of potato specialties
-- Innovation leader in finger food and snack products via Frostkrone Food Group
 - Worldwide distribution across Europe, Asia, and the Americas
-- Products formulated for both retail and foodservice channels
-- Trend-driven appetizer development
+- Modern production facilities in Germany, France, Great Britain, and the USA
+- Serves both retail and foodservice channels
 
 ## Capabilities
-- Potato specialty manufacturing
-- Finger food production
+- Finger food manufacturing
+- Potato specialty production
 - Baking
 - Freezing
-- Filling
 - Seasoning
-- Product development
-- Trend-based recipe formulation
+- Filling
+- Retail packaging
+- Foodservice packaging
 
 ## Industries
 - Food retail
 - Food service
-- Snack food manufacturing
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -113,17 +112,15 @@ The company emphasizes courage and innovation as core ingredients, aiming to lea
 
 <details><summary>Sources</summary>
 
-- Company name and slug -> db
-- Headquarters city/state (Jerome, Idaho) -> db
-- Website URL -> db
-- Description of products and positioning -> db
-- Plant location and main office address -> /
-- Management contacts (Curt Snyder, Bruce Moddelmog, Liz Dunsing) -> /
-- Product lines (potato skins, twice baked, wedges, fried & filled) -> /
-- Affiliation with Frostkrone Food Group and its global facilities -> /
-- Industries served (food retail, food service) and geographic markets -> /
-- Company claims (major American producer, innovation leader, original Idaho appetizer) -> /
-- LinkedIn URL -> db
+- Company name Rite Stuff Foods Inc -> db
+- Plant location Jerome Idaho -> page /
+- Main office Boise Idaho -> page /
+- Products finger food and Idaho potato specialties -> page /
+- Parent company Frostkrone Food Group -> page /
+- Key personnel Curt Snyder Managing Director, Bruce Moddelmog Director of Sales, Liz Dunsing National Account Sales Manager -> page /
+- Industries served food retail and food service -> page /
+- Global distribution worldwide -> page /
+- Modern production facilities in Germany France Great Britain USA -> page /
 </details>
 
 ---
@@ -133,27 +130,29 @@ The company emphasizes courage and innovation as core ingredients, aiming to lea
 **Old description:** Rivers Clothing Company, located in Frisco, Colorado, carries casual clothing and technical outerwear for the active, mountain lifestyle. Look great and feel comfortable in- or outdoors in the latest styles and offerings from brands like Patagonia, Prana, Lole, Pistil, Mountain Khakis, Mountain Hardwear and more.
 
 ## About
-Rivers Clothing Company operates a retail store on 5th & Main Street in downtown Frisco, Colorado. The company specializes in casual clothing and technical outerwear for the mountain lifestyle.
+Rivers Clothing Company operates a retail store in Frisco, Colorado, situated on 5th & Main Street in the downtown area. The founding year and ownership structure are not publicly disclosed.
 
-The store carries a range of apparel and accessories from brands such as Patagonia, Prana, Lole, Pistil, Mountain Khakis, Mountain Hardwear, Royal Robbins, Democracy, and others. Its merchandise spans women's, men's, and children's clothing, footwear, and outdoor accessories including ENO hammocks, GOODR sunglasses, Cotopaxi daypacks, HydroFlask water bottles, and wallets. The company also highlights a sustainable clothing collection.
+The company stocks casual clothing and technical outerwear for a mountain lifestyle, offering women's, men's, and children's apparel and footwear. Its inventory includes products from brands such as Patagonia, Prana, Lole, Pistil, Mountain Khakis, Mountain Hardwear, Royal Robbins, Democracy, ENO, GOODR, Cotopaxi, and HydroFlask. The store also carries accessories including hammocks, sunglasses, backpacks, daypacks, wallets, and water bottles.
 
-The retailer serves outdoor enthusiasts, residents, and visitors in Summit County seeking apparel and gear for seasonal mountain activities. Its product mix addresses needs from spring hiking to winter sports, catering to men, women, and children.
+Rivers Clothing Company serves outdoor enthusiasts and local residents in Summit County, providing seasonal collections for spring, summer, fall, and winter. The business was recognized as the Best Women's Clothing Store and Best Men's Clothing Store in Summit County in the Best of Summit 2023 awards.
 
-The store was recognized as the Best Women's Clothing Store and Best Men's Clothing Store in Summit County for 2023. It emphasizes a curated, eco-conscious selection that aligns with the mountain community's values.
+The retailer emphasizes a curated selection that blends fashion with eco-consciousness, highlighting a sustainable clothing collection among its offerings.
 
 ## Known for
-- Offers a curated sustainable clothing collection
-- Stocks technical outerwear and accessories from leading outdoor brands
-- Downtown Frisco location on 5th & Main Street
+- Curated sustainable clothing collection
+- Year-round seasonal assortments for mountain lifestyle
+- Multi-brand inventory from Patagonia, Prana, Cotopaxi, and others
 
 ## Capabilities
 - Retail sales of outdoor apparel and accessories
-- Brand and product curation
-- Seasonal collection planning
+- Product curation from multiple outdoor brands
+- In-store merchandising for seasonal collections
 
 ## Industries
-- Outdoor lifestyle retail
+- Outdoor recreation retail
 - Apparel retail
+- Sporting goods retail
+- Lifestyle retail
 
 ## Company details
 - **Company Type:** Retailer
@@ -161,14 +160,14 @@ The store was recognized as the Best Women's Clothing Store and Best Men's Cloth
 
 <details><summary>Sources</summary>
 
-- Location: Frisco, Colorado -> db
-- Address: 5th & Main Street, downtown Frisco -> /
-- Product categories: casual clothing, technical outerwear, footwear, accessories -> /
-- Brands carried: Patagonia, Prana, Lole, Pistil, Mountain Khakis, Mountain Hardwear, Royal Robbins, Democracy -> /
-- Sustainable clothing collection mentioned -> /
-- Awards: Best Women's Clothing Store and Best Men's Clothing Store in Summit County 2023 -> /
-- Customer focus: active mountain lifestyle, men/women/children -> /
-- Accessories: ENO hammocks, GOODR sunglasses, Cotopaxi daypacks, HydroFlask water bottles, wallets -> /
+- Located in Frisco, Colorado -> db
+- Located on 5th & Main Street in Downtown Frisco -> /
+- Carries casual clothing and technical outerwear -> /
+- Carries brands including Patagonia, Prana, Lole, Pistil, Mountain Khakis, Mountain Hardwear, Royal Robbins, Democracy, ENO, GOODR, Cotopaxi, HydroFlask -> /
+- Won Best Women's Clothing Store and Best Men's Clothing Store in Summit County in Best of Summit 2023 -> /
+- Sells women's, men's, and children's clothing and footwear -> /
+- Sells accessories including hammocks, sunglasses, backpacks, daypacks, wallets, water bottles -> /
+- Website: https://riversfrisco.com/ -> db
 </details>
 
 ---
@@ -178,29 +177,28 @@ The store was recognized as the Best Women's Clothing Store and Best Men's Cloth
 **Old description:** was founded in 1989 in Janesville, Wisconsin and is a leading manufacturer of industrial high pile fabric used for paint rollers, pet beds, crate mats, wash mitts and hospital pads using a sliver knitting process.
 
 ## About
-Rock Valley Textiles Inc. was founded in 1989 in Janesville, Wisconsin, as a family-owned textile manufacturer. The company remains under family ownership, with leadership including Bill Croake, Matt Koppelmeyer, and Sarah Koppelmeyer.
+Rock Valley Textiles Inc. was founded in 1989 in Janesville, Wisconsin, as a family-owned textile manufacturer. The company began with a focus on industrial high pile fabric production using a sliver knitting process, establishing itself as a dedicated supplier for specialized fabric applications.
 
-The company specializes in industrial high pile fabric produced through a sliver knitting process. Its output serves applications such as paint rollers, pet beds, crate mats, wash mitts, and hospital pads. The workforce brings over 120 years of combined experience in high pile fabric development.
+The company manufactures industrial high pile fabric for a range of end uses, including paint rollers, pet beds, crate mats, wash mitts, and hospital pads. Its core capability is sliver knitting, and the workforce carries over 120 years of combined experience in high pile fabric development. Specific facility size, employee count, and production volumes are not publicly disclosed.
 
-Rock Valley Textiles supplies fabric to manufacturers in the paint roller, pet product, and medical supply sectors. Customers include companies producing paint rollers, pet beds, and hospital pads.
+Rock Valley Textiles serves manufacturers in the paint roller, pet product, and medical textile industries. Its fabrics are incorporated into paint rollers, pet beds and crate mats, and hospital pads, supplying companies that require consistent high pile performance.
 
 ## Known for
-- Family-owned and operated since 1989
-- Over 120 years of combined workforce experience in high pile fabric development
+- Family-owned since 1989
+- Over 120 years combined workforce experience in high pile fabric development
 - Specialized sliver knitting process for industrial high pile fabric
-- Focus on custom product development to fit customer needs
+- Serves paint roller, pet bed, and medical pad markets
 
 ## Capabilities
 - Sliver knitting
 - High pile fabric manufacturing
 - Industrial textile production
-- Custom fabric development
 
 ## Industries
 - Paint roller manufacturing
 - Pet products
-- Medical supplies
-- Industrial textiles
+- Medical textiles
+- Industrial fabrics
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -210,14 +208,15 @@ Rock Valley Textiles supplies fabric to manufacturers in the paint roller, pet p
 
 <details><summary>Sources</summary>
 
-- Founded 1989 in Janesville, Wisconsin -> db, /
-- Family-owned -> /
-- Manufacturer of industrial high pile fabric -> db, /
-- Sliver knitting process -> db, /
-- Applications: paint rollers, pet beds, crate mats, wash mitts, hospital pads -> db, /
+- Founded 1989 in Janesville, Wisconsin -> /
+- Family-owned textile manufacturer -> /
+- Leading manufacturer of industrial high pile fabric -> /
+- Sliver knitting process -> /
+- Products: paint rollers, pet beds, crate mats, wash mitts, hospital pads -> /
 - Workforce with over 120 years combined experience -> /
 - Goal to provide best product to fit customer needs -> /
-- Contacts: Bill Croake, Matt Koppelmeyer, Sarah Koppelmeyer -> /
+- Headquarters: Janesville, Wisconsin -> db
+- Founded year: 1989 -> db
 </details>
 
 ---
@@ -227,20 +226,20 @@ Rock Valley Textiles supplies fabric to manufacturers in the paint roller, pet p
 **Old description:** Rockett is CNC consistency. We are precision metal fabricators using modern technology.
 
 ## About
-Rockett Inc. was founded in 1906 in Flowood, Mississippi, beginning as a small machine shop serving local industrial needs. The company has remained a private, Mississippi-based operation for over a century, evolving from its early roots into a comprehensive contract manufacturer.
+Rockett Inc operates from Flowood, Mississippi, where it was founded in 1906 as a small machine shop. The company, now a contract manufacturer, has been led through generations; a recent homepage note marked the passing of Bob Crumley, a longtime figure in the business. Over more than a century, the shop evolved into a comprehensive fabrication and machining operation serving customers across the United States and overseas.
 
-Today, Rockett operates a 200,000-square-foot facility with more than 80 employees and over 50 pieces of fabrication equipment. Its capabilities span custom metal fabrication, CNC machining (including 3- and 4-axis milling, turning, turret punching, laser and plasma cutting), forming, and welding (MIG, TIG, submerged arc, high-frequency pulse) with AWS D1.1-certified welders. The shop also runs two powder-coating lines and produces forged steel wheels, NEMA-rated electrical enclosures, oil-tight transformer tanks, and tunnel kiln cars. Materials processed include mild and stainless steel, aluminum, copper, brass, and specialty alloys.
+The 200,000-square-foot facility houses more than 50 pieces of fabrication equipment and employs around 80 people. Core processes include CNC turret punching, laser and plasma cutting, 3- and 4-axis machining, turning, forming, and a range of welding methods (MIG, TIG, submerged arc, high-frequency pulse). Two powder-coating lines provide finishing. The company specializes in forged steel wheels and assemblies, NEMA-rated electrical enclosures and weldments, tunnel kiln cars, and replacement parts, working with mild steel, stainless steel, aluminum, copper, brass, and other alloys.
 
-Rockett serves industries such as electric energy, power transmission and distribution, motor generation, material handling, brick and ceramics, furnaces and kilns, and steelmaking, shipping finished goods and subassemblies across the United States and overseas. Customers range from OEMs requiring limited-run production to partners needing just-in-time delivery schedules.
+Rockett serves the electric energy, power transmission and distribution, generation and motors, material handling, brick and ceramics, furnaces and kilns, and steelmaking industries, along with other niche markets. Customers include utilities, heavy-equipment manufacturers, and industrial contractors requiring oil-tight transformer tanks, structural weldments, and custom-machined components.
 
-The company emphasizes a “From Print to Paint” approach, integrating 3D CAD design, precision fabrication, welding, finishing, and quality control under one roof. Its stated mission is to deliver competitively priced, on-time manufactured goods through continuous improvement, while valuing quality, safety, and integrity as highly as productivity.
+The company states its mission is to deliver quality and value through continuous improvement, competitive pricing, and on-time delivery. It emphasizes a “Best Practice” approach that couples a dedicated team with modern equipment to remain flexible in a changing marketplace, placing quality, safety, and integrity on par with productivity.
 
 ## Known for
-- "From Print to Paint" integrated manufacturing (design, fabrication, welding, finishing, quality)
-- ISO 9001:2015 certified quality management
-- 200,000 sq. ft. facility with 50+ fabrication machines
-- AWS D1.1 certified welding for structural and pressure applications
-- Two in-house powder coating systems
+- 200,000 sq. ft. manufacturing facility with 50+ pieces of fabrication equipment
+- ISO 9001:2015 certified quality system with AWS D1.1 certified welders
+- Vertical machining center with 84" x 32" x 30" envelope and 4th-axis capability
+- Two in-house powder coating paint systems
+- Over 120 years of continuous operation as a Mississippi contract manufacturer
 
 ## Capabilities
 - Custom metal fabrication
@@ -250,22 +249,24 @@ The company emphasizes a “From Print to Paint” approach, integrating 3D CAD 
 - Plasma cutting
 - 3-axis machining
 - 4-axis machining
-- CNC turning
-- Forming
+- CNC turning (lathe)
+- Metal forming
 - MIG welding
 - TIG welding
 - Submerged arc welding
 - High-frequency pulse welding
-- AWS D1.1 certified welding
-- Oil-tight transformer tank fabrication
-- NEMA electrical enclosure fabrication
+- Powder coating (2 systems)
 - Forged steel wheel manufacturing
+- NEMA enclosure fabrication
 - Tunnel kiln car fabrication
-- Powder coating
-- Industrial powder coating
-- 3D CAD design
-- Just-in-time production
-- Limited-run production
+- Replacement parts manufacturing
+- Material handling equipment fabrication
+- Steel forging machining
+- Casting machining
+- Round bar machining
+- Vertical machining center (84" x 32" x 30")
+- 3D CAD/CAM programming
+- Quality inspection (ISO 9001:2015)
 
 ## Industries
 - Electric Energy
@@ -278,6 +279,18 @@ The company emphasizes a “From Print to Paint” approach, integrating 3D CAD 
 
 ## Equipment
 - Vertical machining center (84" x 32" x 30" envelope, 4th axis)
+- CNC turret punch
+- Laser cutting system
+- Plasma cutting system
+- 3-axis CNC machining centers
+- 4-axis CNC machining centers
+- CNC turning lathes
+- Metal forming equipment
+- MIG welding equipment
+- TIG welding equipment
+- Submerged arc welding equipment
+- High-frequency pulse welding equipment
+- Powder coating paint systems (2)
 
 ## Certifications
 - ISO 9001:2015
@@ -293,20 +306,25 @@ The company emphasizes a “From Print to Paint” approach, integrating 3D CAD 
 
 - Founded 1906 -> db
 - Headquarters Flowood, Mississippi -> db
-- Employee count 80 -> db
-- ISO 9001:2015 certification -> /quality
+- ISO 9001:2015 certified -> /quality
 - 200,000 sq ft manufacturing space -> /about-us
 - 80+ employees -> /about-us
 - 50+ fabrication equipment -> /about-us
+- 120+ years in business -> /about-us
 - Industries served: Electric Energy, Power Transmission & Distribution, Generation & Motors, Material Handling, Brick & Ceramics, Furnaces & Kilns, Steelmaking -> /about-us
-- Specializes in forged steel wheels, NEMA enclosures, tunnel kiln cars, powder coat painting -> /about-us
-- Materials: mild steel, stainless steel, aluminum, copper, brass, special alloys -> /
-- Vertical machining center 84x32x30 envelope with 4th axis -> /
-- Welding capabilities: MIG, TIG, Submerged Arc, High-Frequency Pulse, AWS D1.1 certified -> /
+- Specializes in Forged Steel Wheels & Assemblies, NEMA Enclosures and Weldments, Tunnel Kiln Cars, Powder Coat Painting -> /about-us
+- Processes: CNC turret punching, laser and plasma cutting, 3 and 4 axis machining, turning lathes, forming equipment -> /
+- Welding: MIG, TIG, Submerged Arc, High-Frequency Pulse -> /
+- AWS D1.1 certified welders -> /
 - Two powder coating paint systems -> /
-- From Print to Paint comprehensive capabilities -> /capabilities
+- Vertical machining center 84x32x30 with 4th axis -> /capabilities
+- Materials: mild steel, stainless steel, aluminum, copper, brass, special alloys -> /
 - Mission: provide quality and value, continuous improvement -> /about-us
-- Contract manufacturer -> /about-us
+- Bob Crumley mentioned as legend -> /
+- Oil-tight transformer tank and NEMA-style electrical enclosure manufacturing -> /
+- From Print to Paint comprehensive capabilities -> /capabilities
+- 3D CAD software used -> /capabilities
+- Just-in-time schedule based production output -> /capabilities
 </details>
 
 ---
@@ -316,51 +334,59 @@ The company emphasizes a “From Print to Paint” approach, integrating 3D CAD 
 **Old description:** At Rockford Molded Products, quality is more than an industry buzzword – it’s our way of doing business since 1943.
 
 ## About
-Rockford Molded Products traces its roots to 1943, when Henry "Hank" Gustafson and Norman Johnson opened a tool-and-die shop in a garage on 18th Avenue in Rockford, Illinois. The pair produced components for the U.S. Army during World War II, and by the 1950s they had built their first injection molding machine from scratch, laying the groundwork for a plastics-focused operation. Today the company is headquartered in Loves Park, Illinois.
+Rockford Molded Products began in 1943 when Henry "Hank" Gustafson and Norman Johnson opened a tool-and-die shop in a garage on 18th Avenue in Rockford, Illinois. The fledgling operation produced components for the U.S. Army during World War II, joining the region's broader wartime manufacturing effort. By the 1950s the partners had built their first injection molding machine from scratch, laying the groundwork for the company's future focus on plastic molding.
 
-The shop provides injection molding, product assembly, Bridgeport milling, custom fabrication, quality control, and 3D printing services. Its quality management system is certified to ISO 9001:2015 and is UL-approved, with calibration and documentation traceable to NIST standards. No facility size, headcount, or annual volume figures are published.
+Today the company operates from a facility in Rockford (Loves Park area) and offers plastic injection molding, custom fabrication, product assembly, Bridgeport milling, and quality control services. An in-house tool room supports mold development, and the shop also provides 3D printing for prototyping. No headcount or annual volume figures are published.
 
-The company serves a range of industrial customers, though specific sectors are not listed on its public pages. Its early work for the military suggests defense-related experience, and its current capabilities target manufacturers needing molded parts, machined components, and assembly.
+The firm does not list specific target industries on its website, though its early work was for military contracts. Current marketing emphasizes general plastic injection molding solutions for customers seeking production-scale or prototype parts.
 
-Rockford Molded Products emphasizes quality as its defining differentiator, citing over 80 years of continuous operation, ISO 9001:2015 certification, UL approval, and a QMS traceable to NIST standards as evidence of its commitment to delivering 100 percent good parts.
+Leadership stresses quality as a defining trait: the company holds ISO 9001:2015 certification and UL approval, maintains a quality management system with NIST-traceable calibration, and cites over 80 years of continuous operation as evidence of its commitment.
 
 ## Known for
-- ISO 9001:2015 certified
-- UL-Approved
-- Quality management system traceable to NIST standards
-- 80+ years of manufacturing experience
+- ISO 9001:2015 certified and UL-approved
+- Quality management system with NIST-traceable equipment calibration
+- In-house tool room and injection molding machine building heritage
+- Bridgeport milling and custom fabrication capabilities
+- Over 80 years of continuous operation
 
 ## Capabilities
-- Injection molding
-- Product assembly
-- Bridgeport milling
-- Custom fabrication
-- Quality control
-- 3D printing
+- Injection Molding
+- Custom Fabrication
+- Product Assembly
+- Bridgeport Milling
+- Quality Control
+- 3D Printing
+- Quoting
+- Tool Room Services
+
+## Equipment
+- Bridgeport milling machines
+- Injection molding machines
+- 3D printers
 
 ## Certifications
 - ISO 9001:2015
-- UL Approved
+- UL-Approved
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1943
 - **Headquarters:** Loves Park, Illinois
 
 <details><summary>Sources</summary>
 
-- Founded in 1943 by Henry 'Hank' Gustafson and Norman Johnson -> /
-- Started as tool and die shop in Rockford, Illinois -> /
+- Founded 1943 by Henry 'Hank' Gustafson and Norman Johnson in Rockford, IL -> /
+- Started as tool and die shop making components for US Army during WWII -> /
 - Built first injection molding machine in 1950s -> /
-- Headquarters in Loves Park, Illinois -> db
-- ISO 9001:2015 certified -> /
-- UL-Approved -> /
-- Services: Injection molding, product assembly, Bridgeport milling, custom fabrication, quality control -> /
-- 3D printing service -> /services
-- Quality management system traceable to NIST standards -> /quality
+- Current address 5600 Pike Road, Rockford, IL 61111-4711 -> /
+- Officers: Wayne Rasner Jr (COO), Tom Thome (CFO) -> /
+- Certifications: ISO 9001:2015, UL-Approved -> /
+- Services: Injection Molding, Custom Fabrication, Product Assembly, Bridgeport Milling, Quality Control, Quoting -> /
+- 3D Printing mentioned -> /services
+- Quality Management System with NIST-traceable calibration -> /quality
 - 80+ years in business -> /quality
-- Wayne Rasner Jr, Chief Operations Officer -> /
-- Tom Thome, Chief Financial Officer -> /
+- Headquarters city Loves Park, Illinois -> db
+- Founded year 1943 -> db and /
 </details>
 
 ---
@@ -370,40 +396,40 @@ Rockford Molded Products emphasizes quality as its defining differentiator, citi
 **Old description:** Rocky Mountain Apparel specializes in custom embroidery and monograms and has catered to businesses, people and events in the Denver Metro Area. Whether it’s a logo on a hat, or a letter on a jacket, custom embroidery is a great way to get a professional look on your goods. With 44 heads, in combination with our in-house digitizing and editing ability, we can process small to large scale projects with ease.
 
 ## About
-Rocky Mountain Apparel operates from Denver, Colorado, where it has provided screen printing, embroidery, and promotional products for more than 25 years. The company’s founding year and ownership structure are not publicly disclosed, and no founders are named in available sources.
+Rocky Mountain Apparel has operated in Denver, Colorado for over 25 years, providing screen printing, embroidery, and promotional product services to businesses and events throughout the metro area.
 
-The shop specializes in high-quality plastisol, waterbase, and discharge screen printing, handling jobs from single prints to runs of 10,000 pieces with up to ten colors. Its embroidery department runs 40-head machines (the company’s database also notes 44 heads) supported by in-house digitizing and editing. In addition to decoration, Rocky Mountain Apparel sources tens of thousands of promotional items, produces banners, and offers graphic design services, all under one roof.
+The company specializes in high-quality plastisol, waterbase, and discharge screen printing on garments, accommodating runs from single pieces to 10,000-plus units with up to ten colors. Its embroidery department runs 40-head machines supported by in-house digitizing and editing, allowing both small and large-scale projects. Rocky Mountain Apparel also sources promotional products from a catalog of tens of thousands of items, and produces banners, stickers, and graphic design work.
 
-Customers range from local businesses and individuals to event organizers across the Denver metro area. Typical orders include logoed hats and jackets for employee gifts, client giveaways, and event swag. The company’s experienced customer service representatives help clients navigate a vast catalog of apparel and promotional products to match specific branding needs.
+Clients range from local businesses and corporate buyers seeking branded apparel and employee gifts to event organizers needing custom merchandise. The shop serves individual customers as well, handling personal projects such as monogrammed jackets or hats.
 
-Rocky Mountain Apparel states its mission is to create the most creative apparel company where clients love the services and staff love the work. It emphasizes continuous learning of new techniques, a broad in-house capability set, and competitive pricing backed by strong customer service as its differentiating factors.
+The company emphasizes staying current with new printing and embroidery techniques to offer a wide range of solutions under one roof, and highlights its customer service and competitive pricing as key differentiators.
 
 ## Known for
-- In-house digitizing and editing for embroidery
-- 40-head embroidery capacity (database notes 44 heads)
-- Screen printing up to ten colors on runs from one to 10,000+ pieces
-- One-stop shop: screen printing, embroidery, promotional products, banners, and graphic design
-- Experienced CSRs assist with promotional product selection from tens of thousands of items
+- Over 25 years serving the Denver metro area
+- 40-head embroidery machines with in-house digitizing and editing
+- Screen printing runs from 1 to 10,000+ pieces, up to 10 colors
+- One-stop shop for screen printing, embroidery, promotional products, banners, and graphic design
+- Experienced staff with combined years in all service areas
 
 ## Capabilities
-- Screen printing (plastisol, waterbase, discharge)
-- Embroidery (multi-head)
-- In-house digitizing and editing
+- Screen printing (plastisol, waterbase, discharge inks)
+- Custom embroidery (40-head capacity, in-house digitizing)
 - Promotional product sourcing
-- Banner production
+- Banner printing
 - Graphic design
-- Custom apparel decoration
+- Sticker printing
+- Multi-color printing (up to 10 colors)
+- Large volume production (up to 10,000+ units)
 
 ## Industries
-- Businesses
+- Corporate
 - Events
-- Corporate gifting
-- Promotional products
-- Apparel decoration
+- Promotional marketing
+- Consumer
 
 ## Equipment
 - 40-head embroidery machines
-- 44-head embroidery machines (per company database)
+- 44-head embroidery machines
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -411,16 +437,20 @@ Rocky Mountain Apparel states its mission is to create the most creative apparel
 
 <details><summary>Sources</summary>
 
-- Location: Denver, Colorado -> /
+- Location: Denver, Colorado -> db
 - Over 25 years in business -> /about-us
-- Screen printing: plastisol, waterbase, discharge; up to 10 colors; single to 10,000+ quantity -> /
-- Embroidery: 40 heads, in-house digitizing and editing -> /
-- Database mentions 44 heads -> db
-- Promotional products: tens of thousands of items, CSR assistance -> /
-- Banners and graphic design services -> /about-us
-- Mission statement: creative apparel company, continuous learning, competitive pricing, customer service -> /about-us
-- Serves businesses, people, events in Denver Metro Area -> db
-- Company type: contract manufacturer/job shop inferred from services -> /
+- Screen printing with plastisol, waterbase, discharge inks -> /
+- Embroidery with 40 heads and in-house digitizing -> /
+- Promotional product sourcing from tens of thousands of items -> /
+- Banner and graphic design services -> /about-us
+- Capacity up to 10,000+ units -> /
+- Up to 10 color designs -> /
+- 44 heads embroidery mentioned in description -> db
+- In-house digitizing and editing -> db
+- Staff with many years combined experience -> /about-us
+- Custom printing services for businesses, people, events -> db
+- Sticker printing mentioned in quote section -> /
+- Catalogs available for apparel and promotional products -> /
 </details>
 
 ---
@@ -430,27 +460,28 @@ Rocky Mountain Apparel states its mission is to create the most creative apparel
 **Old description:** Rocky Mountain Packaging is a cGMP certified contract packager that opened its doors in 2001. We are a company that specializes in the packaging of dietary and nutritional supplements with experience in packaging personal care items such as lotion and shampoo. With our innovative equipment, in house machine shop, and clean room like production rooms we are able to have the fastest turnaround times in the industry accompanied with exceptional quality and customer care. We are a company that takes pride in keeping our word and delivering on our promises.
 
 ## About
-Rocky Mountain Packaging began operations in 2001 in Boise, Idaho, as a contract packaging specialist. The company was founded to serve the dietary and nutritional supplement sectors, though the founders are not publicly named.
+Rocky Mountain Packaging began operations in 2001 in Boise, Idaho, as a cGMP-certified contract packager. The company was founded to serve the dietary and nutritional supplement industry, later expanding into personal care products such as lotions and shampoos. No founders or ownership details are disclosed.
 
-The firm provides contract packaging for dietary supplements, nutritional supplements, and personal care products such as lotions and shampoos. Its facility includes clean room-like production rooms and an in-house machine shop that supports equipment maintenance and custom tooling. No facility square footage, headcount, or annual volume figures are disclosed.
+The firm provides contract packaging services for dietary supplements, nutritional supplements, and personal care items. Its facility includes innovative packaging equipment, an in-house machine shop for tooling and maintenance, and cleanroom-like production rooms designed to meet cGMP standards. Specific production volumes, headcount, or facility square footage are not publicly disclosed.
 
-Customers come primarily from the dietary supplement, nutritional supplement, and personal care industries. The company packages products for brands that require cGMP-compliant handling and secondary packaging services.
+Primary customers are brands in the dietary supplement, nutritional supplement, and personal care sectors. The company packages products such as vitamins, herbal supplements, lotions, and shampoos, though no specific client names are provided.
 
-Rocky Mountain Packaging emphasizes rapid turnaround, cGMP certification, and a commitment to meeting promised delivery dates. The company states that its combination of innovative equipment, clean room environments, and an internal machine shop enables the fastest lead times in the industry while maintaining quality.
+Rocky Mountain Packaging emphasizes its commitment to rapid turnaround times, describing them as the fastest in the industry, backed by exceptional quality and customer care. The company states it takes pride in keeping its word and delivering on promises.
 
 ## Known for
-- cGMP certified contract packaging
-- In-house machine shop for equipment maintenance and custom tooling
-- Clean room-like production rooms
-- Fast turnaround times with a focus on on-time delivery
+- Fastest turnaround times in the industry
+- Exceptional quality and customer care
+- Commitment to keeping promises and delivering on word
+- In-house machine shop for equipment maintenance and tooling
+- Cleanroom-like production rooms meeting cGMP standards
 
 ## Capabilities
 - Contract packaging
 - Dietary supplement packaging
 - Nutritional supplement packaging
 - Personal care product packaging
-- Clean room packaging
-- In-house machine shop
+- Cleanroom packaging
+- In-house machine shop support
 
 ## Industries
 - Dietary supplements
@@ -467,15 +498,15 @@ Rocky Mountain Packaging emphasizes rapid turnaround, cGMP certification, and a 
 
 <details><summary>Sources</summary>
 
-- Founded in 2001 -> db
-- cGMP certified -> db
-- Headquarters in Boise, Idaho -> db
-- Specializes in dietary and nutritional supplement packaging -> pages['/']
-- Experience packaging personal care items (lotion, shampoo) -> pages['/']
-- In-house machine shop -> pages['/']
-- Clean room-like production rooms -> pages['/']
-- Claims fastest turnaround times in the industry -> pages['/']
-- Emphasizes keeping word and delivering promises -> pages['/']
+- Founded in 2001 -> /
+- Headquarters in Boise, Idaho -> /
+- cGMP certified contract packager -> /
+- Specializes in packaging dietary and nutritional supplements -> /
+- Experience packaging personal care items (lotion, shampoo) -> /
+- Innovative equipment, in-house machine shop, cleanroom-like production rooms -> /
+- Claims fastest turnaround times in the industry -> /
+- Emphasizes exceptional quality and customer care -> /
+- Company name Rocky Mountain Packaging, LLC/Inc. -> /
 </details>
 
 ---
@@ -485,42 +516,42 @@ Rocky Mountain Packaging emphasizes rapid turnaround, cGMP certification, and a 
 **Old description:** This site uses cookies and related technologies to enhance user experience, analyze performance and traffic on our website, and to enable our service providers to provide you with targeted communications. For details on how we use cookies and the personal information we collect, review our
 
 ## About
-Rocky Mountain Power is headquartered in Casper, Wyoming, and operates as an electric utility serving more than 1.2 million customers across Utah, Wyoming, and Idaho. The company provides electric service connections, maintenance, and related energy programs throughout its three-state service territory.
+Rocky Mountain Power operates from its headquarters in Casper, Wyoming, serving as an electric utility across a three-state territory. The company delivers power to more than 1.2 million customers in Utah, Wyoming, and Idaho, maintaining the infrastructure and service operations required for daily energy delivery.
 
-The utility delivers electricity to residential, commercial, and industrial customers while managing a range of energy-efficiency and renewable-energy initiatives. Its offerings include the Wattsmart rebate program for efficient upgrades, the Blue Sky program supporting renewable generation, time-of-use rate plans, and electric-vehicle charging support. Rocky Mountain Power also publishes electric service requirements manuals and supports builders and contractors with new-construction resources. The company conducts wildfire mitigation and system resiliency work, such as the ongoing projects on Casper Mountain, to reduce risk and improve reliability.
+The utility provides electric service connections, billing, and account management for residential, commercial, and industrial customers. Its operations include wildfire mitigation and system resiliency work, such as the ongoing projects on Casper Mountain to reduce fire risk and improve reliability. The company administers energy-efficiency rebates through its Wattsmart program, offers Time of Use rate plans, and runs the Blue Sky program for renewable energy support. It also maintains electric service requirements and approved meter equipment standards for builders and contractors.
 
-Customers include homeowners, businesses, builders, contractors, and municipal communities throughout the Intermountain West. The utility works with economic development organizations to attract investment and high-paying jobs to the region. It also operates the Rocky Mountain Power Foundation, which provides grants to local nonprofits.
+Customers range from homeowners and small businesses to large industrial facilities and municipal projects. The utility works directly with builders and contractors on new construction, provides economic development resources to attract employers, and supports electric vehicle adoption through dedicated programs. Bill assistance and energy assistance programs are available for customers facing financial hardship.
 
-The company states its focus is on safety, reliability, and affordability, emphasizing 24/7 emergency response and investments to strengthen the grid for future weather challenges. It also highlights community involvement and low-cost power as core commitments.
+Rocky Mountain Power emphasizes safety as its highest priority, with 24/7 operations to maintain reliability. The company states it is committed to keeping rates low, investing in system resilience, and supporting the communities it serves through its foundation and local initiatives.
 
 ## Known for
+- Safety-first priority with 24/7 operations
 - Serves 1.2 million customers across Utah, Wyoming, and Idaho
-- Wattsmart rebates for residential and commercial energy-efficiency upgrades
-- Blue Sky program enabling customer-supported renewable energy
-- Wildfire mitigation and system resiliency investments (e.g., Casper Mountain)
-- 24/7 emergency response and outage restoration
+- Wildfire mitigation and system resiliency investments
+- Wattsmart energy-efficiency rebates and Blue Sky renewable program
+- Economic development support for communities
 
 ## Capabilities
 - Electric service connections (start, stop, move)
-- Electric service requirements documentation
-- Energy efficiency rebates (Wattsmart)
-- Renewable energy programs (Blue Sky)
-- Time-of-use rate plans
-- Electric vehicle charging programs
-- Wildfire mitigation and system resiliency
+- Electric service requirements and standards
+- Approved meter service equipment specifications
+- Wildfire mitigation and system resiliency work
+- Energy-efficiency rebates (Wattsmart program)
+- Time of Use rate plans
+- Renewable energy program (Blue Sky)
+- Electric vehicle programs and resources
 - Economic development assistance
-- Billing assistance and payment plans
-- Builder and contractor resources for new construction
-- Community foundation grants
+- Bill payment assistance and energy assistance
+- Home energy reports and usage analysis
+- Builder and contractor resources
 
 ## Industries
 - Residential
 - Commercial
 - Industrial
-- Construction
-- Builders & contractors
-- Community economic development
-- Municipal/government
+- Construction/Builders
+- Municipal/Government
+- Economic development
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -528,19 +559,20 @@ The company states its focus is on safety, reliability, and affordability, empha
 
 <details><summary>Sources</summary>
 
-- Headquartered in Casper, Wyoming -> db
-- Serves 1.2 million customers in Utah, Wyoming, Idaho -> /about
-- Provides electric service connections (start, stop, move) -> db capabilities, /
-- Publishes Electric Service Requirements Manual -> db capabilities, /
-- Offers Wattsmart rebates for energy-efficient upgrades -> /, /about
-- Operates Blue Sky renewable energy program -> /, /about
-- Conducts wildfire mitigation and system resiliency work (Casper Mountain) -> /
-- Supports builders and contractors with new construction resources -> /
-- Provides time-of-use rate plans -> /
-- Offers electric vehicle charging programs -> /about
-- Runs Rocky Mountain Power Foundation for community grants -> /about
-- Emphasizes safety, reliability, affordability, 24/7 emergency response -> /about
-- Works with economic development organizations -> /about
+- Headquarters in Casper, Wyoming -> db
+- Serves 1.2 million customers in Utah, Wyoming, Idaho -> about page
+- Wildfire mitigation work on Casper Mountain -> home page
+- Wattsmart rebates program -> home page
+- Blue Sky renewable energy program -> home page
+- Time of Use plans -> home page
+- Electric service requirements for builders/contractors -> home page
+- Approved meter service equipment -> home page
+- Economic development resources -> about page
+- EV programs -> about page
+- Bill assistance and energy assistance -> about page
+- Rocky Mountain Power Foundation -> about page
+- Safety first priority, 24/7 operations -> about page
+- Commitment to low rates and community support -> about page
 </details>
 
 ---
@@ -550,45 +582,52 @@ The company states its focus is on safety, reliability, and affordability, empha
 **Old description:** With now more than three divisions - Industrial, Automotive and, since 2016, Medical - the Röchling Group operates worldwide in the field of highly specialized high-performance plastic materials. As an innovative solutions provider, Röchling serves its customers at 83 locations in 25 countries: in Europe, North, Central and South America, and Asia.
 
 ## About
-Roechling Automotive Duncan operates at 245 Parkway East in Duncan, South Carolina, as a production site of Röchling Automotive USA LLP. The group added a Medical division in 2016 alongside its long-standing Automotive and Industrial divisions. Plant management at Duncan is led by David Butler, Manager Plant Network, while Dusty Walulik serves as Director HR Americas.
+Röchling Automotive USA LLP operates a manufacturing plant in Duncan, South Carolina, at 245 Parkway East. The facility is part of the Röchling Group, a global supplier of high-performance plastic materials with 83 locations across 25 countries in Europe, the Americas, and Asia. The Duncan site is managed by David Butler as Plant Network Manager, while Dusty Walulik serves as Director of HR for the Americas. The group’s three divisions — Automotive, Industrial, and Medical (added in 2016) — are coordinated from its German headquarters, though the founding year of the overall enterprise is not specified in the available sources.
 
-The Duncan plant focuses on system solutions and components for the automotive industry, as well as customized solutions and components for pharma, diagnostics, and medical technology. As part of the group’s Automotive division, it works with high-performance plastic materials to deliver engineered parts. The broader group also serves industrial markets with plastics for technical applications. Specific facility size, headcount, or annual volume for the Duncan site are not disclosed.
+The Duncan location supports the group’s core offerings: system solutions and components for the automotive industry, and customized solutions and components for pharma, diagnostics, and medical technology. Specific manufacturing processes, facility square footage, headcount, and production volumes for this plant are not detailed in the public contact information. The group describes itself as an innovative solutions provider working with highly specialized plastic materials.
 
-Customers come primarily from the automotive sector, including original equipment manufacturers and tier suppliers, and from the medical field covering pharmaceutical, diagnostic, and surgical device makers. Industrial clients seek plastics for technical applications. No individual customer names or programs are referenced in the available information.
+Industries served include automotive, medical, pharmaceutical, diagnostics, fluid management, and surgical sectors. Customer types encompass OEMs and tier suppliers in these markets, though individual client names are not disclosed. The Duncan facility extends the group’s Americas network, providing local engineering and production support.
 
-The company positions itself as an innovative solutions provider that “shapes industry with customized plastics.” The group’s three-division structure — Automotive, Industrial, Medical — is cited as a framework for cross-sector expertise, though no specific founding mission for the Duncan site is stated.
+The company emphasizes its global footprint and material expertise as differentiators, stating it "shapes industry with customized plastics" across its three divisions. The Duncan site plays a role in delivering that capability to North American customers.
 
 ## Known for
-- Global network of 83 locations in 25 countries
-- Three divisions: Automotive, Industrial, Medical (since 2016)
-- Focus on highly specialized high-performance plastic materials
-- Integrated system solutions for automotive and medical markets
+- 83 locations in 25 countries worldwide
+- Three divisions: Automotive, Industrial, Medical
+- High-performance plastic material expertise
+- Customized plastic solutions for regulated industries
 
 ## Capabilities
-- System solutions for automotive industry
-- Customized components for pharma, diagnostics, and medical technology
-- High-performance plastic material processing
-- Plastics for technical industrial applications
+- System solutions & components for automotive
+- Customized solutions & components for pharma, diagnostics, medical technology
+- Plastic component manufacturing
+- Custom component design and development
 
 ## Industries
 - Automotive
-- Medical (pharma, diagnostics, surgical)
+- Medical
+- Pharmaceutical
+- Diagnostics
+- Fluid Management
+- Surgery
 - Industrial
 
 ## Company details
 - **Company Type:** Manufacturer
-- **Ownership:** Subsidiary of Röchling Group (Röchling SE & Co. KG)
-- **Headquarters:** Duncan, South Carolina
+- **Headquarters:** Duncan, SC
 
 <details><summary>Sources</summary>
 
-- Location: 245 Parkway East, Duncan, SC 29334 -> /
-- Parent: Röchling Automotive USA LLP, part of Röchling Group -> /
-- Group scope: 83 locations, 25 countries, three divisions (Automotive, Industrial, Medical since 2016) -> db
-- Contacts: David Butler (Plant Management), Dusty Walulik (HR Americas) -> /
-- Products: automotive system solutions, medical customized components, industrial plastics -> db, /
-- Tagline: 'We shape industry with customized plastics' -> /
-- LinkedIn URL -> db
+- Location: 245 Parkway East, Duncan, SC 29334 -> page '/'
+- Plant Management: David Butler, Manager Plant Network -> page '/'
+- HR: Dusty Walulik, Director HR Americas -> page '/'
+- Phone: +1 864 486088-8 -> page '/'
+- Part of Röchling Group with 83 locations in 25 countries -> db description
+- Three divisions: Automotive, Industrial, Medical (since 2016) -> db description
+- Products: System solutions & components for automotive; Customized solutions for pharma, diagnostics, medical -> db products
+- Industries: Automotive, Medical, Pharma, Diagnostics, Fluid Management, Surgery -> db products/industries_served
+- Materials: High-performance plastic materials -> db description
+- LinkedIn: https://www.linkedin.com/company/roechling/ -> db linkedin_url
+- Group tagline: 'We shape industry with customized plastics' -> page '/'
 </details>
 
 ---
