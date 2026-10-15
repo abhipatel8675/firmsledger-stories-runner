@@ -249,7 +249,7 @@ The company emphasizes quick, reliable trade-in evaluations and a broad parts in
 
 # Minnesota Farmhouse
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: not enough facts_
 
 # Mispillion River Brewing
 

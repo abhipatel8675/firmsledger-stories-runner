@@ -515,4 +515,62 @@ Montana Steel Industries emphasizes knowledge, accuracy, personable service, and
 
 # Moog Inc.
 
-_skipped: HTTP Error 503: Service Unavailable_
+**Old description:** Motors & servomotors as part of a broader aerospace/defense actuation portfolio
+
+## About
+Moog Inc. was founded in July 1951 in East Aurora, New York, by Bill Moog, Art Moog, and Lou Geyer. The trio pooled $3,000 to start Moog Valve in a dirt-floored airplane hangar. The company has since grown into a global motion control enterprise.
+
+Today, Moog designs and manufactures advanced motion control products, including electric, hydraulic, and electro-hydrostatic actuation, control electronics, and system software. The company integrates precision motion control systems for applications requiring precise control of velocity, force, acceleration, and fluid flow. Its portfolio spans flight control systems, critical control products, and high-performance industrial motion solutions.
+
+Moog serves four primary business segments: Military Aircraft, Commercial Aircraft, Space and Defense, and Industrial. Its products are used in military and commercial aircraft, rotorcraft, business jets, space vehicles, defense systems, and industrial machinery. The company also supplies medical technology applications.
+
+Founded on a vision to empower people and solve tough problems through trust and innovation, Moog emphasizes a collaborative approach to customers' most difficult motion control challenges. The company seeks long-term partnerships and maintains a global presence with local customer support.
+
+## Known for
+- World leader in flight control systems for military and commercial aircraft
+- Premier motion and flow control solutions for space and defense
+- High-performance motion control products for industrial applications
+- Collaborative approach to solving difficult motion control problems
+- Global organization with local customer support
+
+## Capabilities
+- Motion control system design
+- Actuation manufacturing (electric, hydraulic, electro-hydrostatic)
+- Control electronics manufacturing
+- System software development
+- Precision motion control integration
+- Flight control system manufacturing
+- Critical control product manufacturing
+
+## Industries
+- Aerospace
+- Defense
+- Industrial automation
+- Medical technology
+- Military aircraft
+- Commercial aircraft
+- Space
+- Industrial
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1951
+- **Headquarters:** East Aurora, New York
+
+<details><summary>Sources</summary>
+
+- Founded in July 1951 by Bill Moog, Art Moog, and Lou Geyer -> /about-us
+- Started in a dirt-floored airplane hangar in East Aurora, New York -> /about-us
+- Headquartered in East Aurora, New York -> db
+- Designs and manufactures motion control products including actuation, control electronics, and system software -> /about-us
+- Offers electric, hydraulic, and electro-hydrostatic actuation solutions -> /about-us
+- Integrates precision motion control systems -> /about-us
+- Serves Military Aircraft, Commercial Aircraft, Space and Defense, and Industrial segments -> /about-us
+- Products used in military and commercial aircraft, rotorcraft, business jets, space vehicles, defense systems, industrial machinery, and medical technology -> / and /about-us
+- Founded with a vision to empower people and solve tough problems through trust and innovation -> /
+- Emphasizes collaborative approach and long-term partnerships -> /about-us
+- Global organization with local customer support -> /about-us
+- 75th anniversary marked in 2026 -> /
+</details>
+
+---

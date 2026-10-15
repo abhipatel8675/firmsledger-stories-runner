@@ -39,8 +39,8 @@ Northstar highlights personal service with no corporate runaround, quick respons
 <details><summary>Sources</summary>
 
 - Headquarters: Hopkins, Minnesota -> db
-- Phone: 952-451-0093 -> /
-- Email: info@nsapparelcompany.com -> /
+- Phone:  -> /
+- Email:  -> /
 - Services: Bulk ordering, online stores, design, quick response -> /
 - Customer types: police departments, unions, special units, schools, corporate partnerships -> /
 - Pre-production mockup offered -> /
@@ -181,7 +181,7 @@ Nu-Source highlights its commitment to USA-made materials, offering domestic neo
 **Old description:** app to live chat, check your order status, or pay your invoice.
 
 ## About
-Numotion maintains a service branch in Williston, Vermont Suite 3. The facility operates Monday through Friday with morning hours from 9:00 a.m. to 12:00 p.m. and afternoon hours from 1:00 p.m. to 5:00 p.m. For urgent needs outside regular hours, the company provides after-hours phone support on weekdays from 5:00 p.m. Eastern Time. A fax line is also available at (802) 557-0756.
+Numotion maintains a service branch in Williston, Vermont Suite 3. The facility operates Monday through Friday with morning hours from 9:00 a.m. to 12:00 p.m. and afternoon hours from 1:00 p.m. to 5:00 p.m. For urgent needs outside regular hours, the company provides after-hours phone support on weekdays from 5:00 p.m. Eastern Time. A fax line is also available at .
 
 The branch delivers services by appointment only, with technicians available to visit customers' homes within the designated coverage area. In addition to on-site service, Numotion offers a digital tool called myNumotion that allows clients to live chat with support staff, view the status of their orders, and pay invoices online. The branch does not advertise any manufacturing or fabrication processes; its role is centered on equipment service, maintenance, and customer account management.
 
@@ -329,7 +329,7 @@ OEM Car Parts USA emphasizes guaranteed fitment, free shipping on filter orders,
 
 # OMEC Medical NV
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: not enough facts_
 
 # ORACLE Lighting
 

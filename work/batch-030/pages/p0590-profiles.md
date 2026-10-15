@@ -441,7 +441,71 @@ The founders emphasize experimentation and an artistic approach to construction,
 
 # Motiv Medical
 
-_skipped: HTTP Error 503: Service Unavailable_
+**Old description:** When your physician prescribes an orthopedic device, we take it from there. We verify your insurance, personally fit your device, and stand behind it until you’re back to what you love.
+
+## About
+Motiv Medical is headquartered in Blue Ash, Ohio, a suburb of Cincinnati. The company’s founding year and ownership structure are not publicly disclosed. It operates as a service-focused provider of orthopedic devices, emphasizing personal fitting over simple shipment.
+
+The company manages five service lines—bracing, bone growth stimulation, compression pumps, post-operative therapy, and wholesale distribution. Its certified fitters prepare and fit devices at the Blue Ash office or in patients’ homes, handling insurance verification, workers’ compensation, and VA claims. Motiv Medical reports having fitted over 5,000 patients, with 70-plus partner institutions and 325-plus referring physicians across Ohio, Kentucky, Indiana, Michigan, West Virginia, and VA patients nationwide.
+
+Customers include physicians, clinics, hospitals, and the Veterans Health Administration. The company works with branded devices such as Medi Spinomed and PCS Brio/Genius, Orthofix CervicalStim and SpinalStim, and Thermotek VascuTherm 5. Its wholesale line supplies partner institutions with orthopedic products.
+
+Motiv Medical differentiates itself through a concierge-style fitting process, insurance coordination, and certified staff. It states that expert, personal service produces better outcomes than shipping a box, and holds an exclusive national VA provider agreement via Lovell Government Services.
+
+## Known for
+- Personalized in-person fitting at office or home
+- Insurance verification and coordination including workers’ comp and VA
+- Certified fitters and billing specialists
+- Exclusive national VA provider via Lovell Government Services
+- Five service lines covering bracing, bone growth, compression, post-op therapy, and wholesale
+
+## Capabilities
+- Orthopedic bracing fitting
+- Bone growth stimulation device fitting
+- Compression pump fitting
+- Post-operative therapy device fitting
+- Insurance verification and billing
+- Home and office fitting services
+- Wholesale distribution to providers
+- VA claims processing
+- Prescription intake and processing
+- Patient progress monitoring
+
+## Industries
+- Orthopedic care
+- Durable medical equipment
+- Healthcare services
+- Veterans health administration
+- Workers' compensation
+
+## Equipment
+- Medi Spinomed
+- Trend LSO & TLSO
+- Orthofix CervicalStim
+- Orthofix SpinalStim
+- Medi PCS Brio
+- Medi PCS Genius
+- Thermotek VascuTherm 5
+
+## Company details
+- **Company Type:** Installer / service company
+- **Headquarters:** Blue Ash, Ohio
+
+<details><summary>Sources</summary>
+
+- Headquartered in Blue Ash, Ohio -> /
+- Five service lines: bracing, bone growth, compression pumps, post-op therapy, wholesale -> /
+- Certified fitters prepare and fit devices at office or home -> /
+- Insurance verification, workers' comp, VA & Direct Pay options -> /
+- 5,000+ patients successfully fit, 70+ partner institutions, 325+ referring physicians -> /about-us
+- Service coverage: Ohio, Kentucky, Indiana, Michigan, West Virginia, VA nationwide -> /
+- Brands: Medi Spinomed, Trend LSO & TLSO, Orthofix CervicalStim & SpinalStim, Medi PCS Brio & Genius, Thermotek VascuTherm 5 -> /
+- Exclusive national VA provider via Lovell Government Services -> /
+- Mission: exceeding expectations through innovative solutions and concierge care -> /about-us
+- LinkedIn URL -> db
+</details>
+
+---
 
 # Motorville
 

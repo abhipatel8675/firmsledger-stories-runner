@@ -278,7 +278,7 @@ Missouri Medical Supply emphasizes a quick and easy Medicare claims process and 
 - Contracted provider for many insurance companies -> /
 - Serves hospitals, nursing homes, assisted living facilities, rehabilitation facilities, dialysis centers, home care agencies -> /
 - Address 8523 Olive Blvd, Saint Louis, MO 63132 -> /
-- Phone 314-997-3600 -> /
+- Phone  -> /
 - Hours Mon-Fri 9-5:30 CST, Sat by appointment -> /
 - Website momedsupply.com -> db
 - Quick and easy Medicare claims process -> /
@@ -289,7 +289,52 @@ Missouri Medical Supply emphasizes a quick and easy Medicare claims process and 
 
 # Missouri Reclaimed Furniture
 
-_skipped: HTTP Error 503: Service Unavailable_
+**Old description:** Furnishing homes in Missouri and beyond with the unique beauty of reclaimed barn wood.
+
+## About
+Missouri Reclaimed Furniture operates from Springfield, Missouri, where founder David began crafting custom pieces from salvaged barn wood. The company's exact founding year is not publicly stated, but its focus on reclaiming history through wood deconstruction has defined its work since inception.
+
+The shop produces customized cabinetry, custom furniture, and offers cabinet resurfacing, wood flooring replacement, and wood door repair. Each piece is handcrafted from reclaimed barn wood, selected for its rustic character and unique patina. No facility size or headcount figures are disclosed.
+
+The company serves residential customers across Missouri and beyond, providing one-of-a-kind furnishings and renovation services for homeowners seeking distinctive, environmentally responsible woodwork.
+
+David emphasizes environmental responsibility through the deconstruction and reuse of quality materials, giving each creation a story rooted in the wood's history. The combination of traditional craftsmanship and reclaimed materials positions the business as a source for true custom work with a sustainable ethos.
+
+## Known for
+- Environmentally responsible deconstruction and reuse of materials
+- Handcrafted unique pieces with rustic character
+- True custom work from reclaimed barn wood
+- Customized cabinetry, furniture, and repair services
+
+## Capabilities
+- Custom cabinetry
+- Cabinet resurfacing
+- Custom furniture manufacturing
+- Wood flooring installation
+- Wood door repair
+- Reclaimed wood deconstruction
+
+## Industries
+- Residential furniture
+- Custom cabinetry
+- Home renovation
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Springfield, Missouri
+
+<details><summary>Sources</summary>
+
+- Headquarters: Springfield, Missouri -> db
+- Founder: David -> /
+- Services: Customized cabinetry, cabinet resurfacing, custom furniture, wood flooring replacement, wood door repair -> /
+- Materials: Reclaimed barn wood, salvaged wood -> /
+- Environmental focus: Deconstruction and reuse of quality materials -> /
+- Company description: Furnishing homes with reclaimed barn wood -> /
+- Tagline: History Salvaged. Beauty Reclaimed. True Custom Work. -> /
+</details>
+
+---
 
 # Mobius Materials
 

@@ -55,7 +55,7 @@ Leadership states the business was started to redefine how motor parts are sourc
 - Open data as future of customer experience -> /
 - Cross-industry innovation exchange -> /
 - Address: 144 Old Lystra Rd, Suite 5, Chapel Hill, NC 27517 -> /
-- Contact: Tel 919-436-4128, Email info@mountainpowerinc.com -> /
+- Contact: Tel , Email  -> /
 </details>
 
 ---
@@ -107,7 +107,56 @@ The founders emphasize combining digital fabrication with the warmth of handmade
 
 # Mountaineer Home Medical
 
-_skipped: HTTP Error 503: Service Unavailable_
+**Old description:** Delivering exceptional, professional service and care for 20+ years.
+
+## About
+Mountaineer Home Medical operates from Morgantown, West Virginia, where it has delivered in-home respiratory services for over two decades. The company does not disclose a specific founding year or ownership structure, but its website notes a combined 20-plus years of experience in respiratory care.
+
+The business provides in-home respiratory services and equipment, including oxygen therapy, sleep apnea treatment, and custom mask fitting. Its clinical team develops personalized care plans, offers patient education, and manages chronic respiratory conditions such as COPD, asthma, cystic fibrosis, and neuromuscular diseases. The company emphasizes a home treatment model that coordinates with patients’ care teams and handles equipment resupply.
+
+Mountaineer Home Medical serves individual patients referred by physicians, as well as clinical professionals seeking respiratory support for their patients. Its services target the home healthcare and durable medical equipment sectors, with a focus on chronic disease management for respiratory disorders.
+
+The company states that its people, knowledge, technology, and community connections set it apart. Its mission centers on improving patient outcomes and inspiring better lives through personalized education, custom-made care plans, and a collaborative home treatment approach.
+
+## Known for
+- Home treatment model coordinating with patient care teams
+- Personalized education and custom care plans for respiratory conditions
+- Chronic disease management for COPD, asthma, cystic fibrosis, and neuromuscular diseases
+- 20+ years of respiratory care experience
+- Community involvement and local connections
+
+## Capabilities
+- In-home respiratory services
+- Oxygen therapy equipment
+- Sleep apnea therapy equipment
+- Custom mask fitting
+- Patient education and training
+- Chronic disease management
+- Resupply services
+- Care plan development
+
+## Industries
+- Home healthcare
+- Respiratory therapy
+- Durable medical equipment
+- Chronic disease management
+
+## Company details
+- **Company Type:** Installer / service company
+- **Headquarters:** Morgantown, West Virginia
+
+<details><summary>Sources</summary>
+
+- headquarters: Morgantown, West Virginia -> db
+- provides in-home respiratory services and equipment -> /
+- 20+ years of experience in respiratory care -> /
+- serves patients with COPD, asthma, cystic fibrosis, chronic respiratory failure, neuromuscular diseases -> /about-us
+- mission: improve patient outcomes, inspire better lives -> /about-us
+- differentiators: people, knowledge, technology, community connections -> /about-us
+- home treatment model with personalized education and custom care plans -> /about-us
+</details>
+
+---
 
 # Moyer Electronic Supply Co
 

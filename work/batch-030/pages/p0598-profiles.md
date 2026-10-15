@@ -540,7 +540,89 @@ Management highlights employee involvement and continuous improvement as cultura
 
 # North Star Systems, Inc.
 
-_skipped: Expecting ',' delimiter: line 60 column 4 (char 4298)_
+**Old description:** `�n0J9>�Q�8�1wa,��\0F�F��]�Vh��/Ũ��V1�䙘I�@�t�Nb0�8��8�!	€���$�����>~}ԍr4	����d&�4:�t
+
+## About
+North Star Systems, Inc. was founded in 1997 in Pelham, Alabama, by the former management team of SRT Electro-Optics, Inc., a subsidiary of Southern Research. The small business was established to serve commercial, industrial, and defense clients with engineering services and product manufacturing.
+
+The company provides engineering services for the design and development of high-technology products and manufactures hardware for applications such as servo control, image processing, defense system line-replaceable units (LRUs), line-of-sight stabilization, target tracking, and fire control. Its technical capabilities span embedded software, custom electronics design, electro-optics, video signal processing, telemetry, high-speed digital video electronics, fiber-optic communications, gimbal design, and ballistic algorithms. The team includes engineers and technicians with backgrounds in electrical engineering and computer science, supporting projects from concept design through prototype hardware development, transition to production, and live-fire testing.
+
+North Star serves aerospace, defense, commercial, and industrial markets. Its aerospace and defense work includes contributions to missile, ground vehicle, ship, and aircraft programs, with experience in U.S. Army Integrated Sensor Architecture, DISA STIGs, and MISB video metadata standards. The company has also supported nuclear power generation reliability projects, airborne fire retardant dispensing controls for firefighting, welding-industry machine tools, commercial video recording and editing equipment, and RF communications systems.
+
+Founded to solve challenging problems for customer success, North Star emphasizes its transition-to-production expertise, including developing production test equipment, routing sheets, acceptance test procedures, procurement and inspection controls, in-process inspections, quality assurance documentation, configuration management, and redesign for parts obsolescence.
+
+## Known for
+- Small Business with a responsive, experienced team
+- 30+ years of aerospace and defense engineering experience
+- Transition-to-production support including test equipment development and quality documentation
+- Parts obsolescence redesign and reengineering
+- SBIR project experience (Infrared Target Collection System)
+
+## Capabilities
+- Engineering services
+- Embedded software development
+- Custom electronics design
+- Servo control systems
+- Image processing
+- Line-of-sight stabilization
+- Target tracking
+- Fire control systems
+- Airborne fire retardant dispensing controls
+- Electro-optics
+- Video signal processing
+- Telemetry
+- High-speed digital video electronics
+- Fiber-optic communications
+- Gimbal design
+- Laser rangefinder integration
+- Marinization
+- Ballistic algorithms
+- Remote weapon systems
+- Digital data recorders
+- Gun control units
+- System concept design
+- Trade studies
+- Prototype hardware development
+- Transition to production
+- Production support
+- Live-fire testing
+- Industrial controls
+- Wireless data link design
+- Production test equipment development
+- Quality assurance documentation
+- Configuration management
+- Parts obsolescence redesign
+
+## Industries
+- Aerospace
+- Defense
+- Commercial
+- Industrial
+- Nuclear Power Generation
+- Firefighting
+- Welding
+- Video Production
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1997
+- **Ownership:** Small Business
+- **Headquarters:** Pelham, Alabama
+
+<details><summary>Sources</summary>
+
+- Founded in 1997 by former management team of SRT Electro-Optics, Inc. -> /about
+- Based in Birmingham, AL, small business -> /about
+- Provides engineering services and manufactures products for servo control, image processing, defense LRUs, etc. -> /
+- Specialties: realtime image processing, servo inertial stabilization, fire control systems, etc. -> /
+- Aerospace and defense experience over 30 years, including ISA, DISA STIGs, MISB -> /about
+- Transition-to-production expertise for remote weapon stations, video recording equipment, welding tools, firefighting controllers -> /about
+- Parts obsolescence redesign example: Timing and Control Board for Esonix Ultrasonic Impact Generator -> /about
+- Headquarters in Pelham, Alabama -> db
+- Industries served: Defense System LRUs -> db
+</details>
+
+---
 
 # Northe Woodworking
 

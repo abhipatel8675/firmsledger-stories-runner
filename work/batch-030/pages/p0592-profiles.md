@@ -88,7 +88,7 @@ He notes that the uniqueness of the work sets it apart from mass-produced altern
 - Approach: strives for perfection and has customer's best interest in mind -> page "/about"
 - Differentiator: uniqueness of work, not mass-produced -> page "/about"
 - Media feature: Reflector article about the business -> page "/about"
-- Contact: phone 360-909-8476 -> page "/"
+- Contact: phone  -> page "/"
 - Custom design collaboration offered -> page "/"
 </details>
 
@@ -146,7 +146,55 @@ The Maness family states that the business was built on a commitment to honest d
 
 # My Medical Supply
 
-_skipped: HTTP Error 503: Service Unavailable_
+**Old description:** Important Notice: We are not able to ship Rx Products to IN, IA, MD, MN, ND, & WY at this time. We can still ship non-Rx to these states.
+
+## About
+My Medical Supply operates from North Little Rock, Arkansas. The company recently transitioned to new management, though a founding year and original ownership details are not disclosed. No founders are named in available materials.
+
+The firm functions as a medical supply distributor, providing prescription drugs, medical-surgical items, and over-the-counter products to healthcare facilities across the United States. Its catalog includes ophthalmic supplies such as fluorescein sodium solutions and cataract post-operative kits, sourced from manufacturers like Accord Healthcare, Altaire Pharmaceuticals, and MicroSpecialties. No facility size, headcount, or volume metrics are published.
+
+Primary customers are optometrists, ophthalmologists, and clinics in the eye care sector, with additional accounts in dental and long-term care settings. The company ships nationwide but restricts prescription deliveries to Indiana, Iowa, Maryland, Minnesota, North Dakota, and Wyoming. Orders over $249 qualify for free shipping; bulk and heavyweight shipments incur a flat $14 fee.
+
+The company states it is "standing by to help you with your medical supply needs," but does not articulate a specific founding mission or competitive differentiation beyond product availability and shipping terms.
+
+## Known for
+- Free shipping on orders over $249
+- Nationwide shipping with prescription restrictions in six states
+- Flat $14 fee for bulk and heavyweight items
+- Specializes in ophthalmic supplies for eye care professionals
+- Carries prescription, medical-surgical, and over-the-counter product lines
+
+## Capabilities
+- Rx product distribution
+- Medical-surgical product distribution
+- OTC product distribution
+- Ophthalmic supply distribution
+- Nationwide order fulfillment
+
+## Industries
+- Eye care
+- Dental
+- Long-term care
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Headquarters:** North Little Rock, Arkansas
+
+<details><summary>Sources</summary>
+
+- Location: North Little Rock, Arkansas -> db
+- Business type: medical supply distributor -> /
+- Products: Rx, med surg, OTC -> /
+- Industries served: eye care, dental, long-term care -> /
+- Customers: optometrists, ophthalmologists, clinics -> /
+- Shipping: nationwide with Rx restrictions to IN, IA, MD, MN, ND, WY -> /
+- Free shipping over $249 -> /
+- Flat $14 for bulk/heavy items -> /
+- Brands carried: Accord Healthcare, Altaire Pharmaceuticals, MicroSpecialties -> /
+- Under new management -> /
+</details>
+
+---
 
 # Myers Power Products
 

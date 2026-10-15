@@ -261,7 +261,87 @@ The product was created to eliminate the need for bulky protective pads or Steri
 
 # Medical Manufacturing Technologies - CEC
 
-_skipped: HTTP Error 503: Service Unavailable_
+**Old description:** MMT is a leading provider of medical manufacturing solutions, specializing in precision cutting tools known for their unmatched sharpness.
+
+## About
+Medical Manufacturing Technologies (MMT) is headquartered in New Hope, Minnesota. The company operates as a vertically integrated provider of medical manufacturing equipment and services, though its founding year and ownership structure are not publicly disclosed.
+
+MMT delivers medical manufacturing equipment solutions through a portfolio of technology brands including CATHTIP, Comco, Glebar, Tridex, and others. Its manufacturing services encompass tube extrusion, catheter punching, assembly support, and proof-of-concept development. The company specializes in precision cutting tools for surgical tissue coring and catheter tube punching, capable of producing flash-free, burr-free holes as small as 0.005 inches. Core competencies also include centerless and electrochemical grinding, catheter manufacturing equipment, catheter forming, laminating, coiling, engineering design, prototyping, and full-scale manufacturing production.
+
+MMT serves the medical device manufacturing industry, supplying equipment and contract manufacturing services to medical device OEMs. Its technologies are used for producing guidewires, needles, catheters, and other precision medical components. The company positions itself as a sole-source solution for automated, process-driven medical manufacturing.
+
+The company differentiates itself through its vertically integrated model and the TotalCare program, which combines deep technical expertise with hands-on support. TotalCare provides around-the-clock access, ongoing training, proactive maintenance, and smart inventory management to keep customer operations running without delay. MMT emphasizes end-to-end service coverage from process development and applications engineering through aftermarket support.
+
+## Known for
+- Vertically integrated portfolio of technology brands (CATHTIP, Comco, Glebar, Tridex, etc.)
+- TotalCare program with around-the-clock support, proactive maintenance, and smart inventory management
+- Precision cutting tools capable of producing holes as small as 0.005 inches
+- End-to-end service from process development and applications engineering to aftermarket support
+- Specialized expertise in catheter manufacturing equipment and surgical punches
+
+## Capabilities
+- Precision micro/centerless grinding
+- Electrochemical grinding
+- Catheter manufacturing equipment
+- Surgical/catheter punches
+- Catheter forming
+- Laminating
+- Coiling
+- Engineering design
+- Prototyping
+- Manufacturing production
+- Tube extrusion
+- Catheter punching
+- Assembly support
+- Proof-of-concept services
+- Process development
+- Applications engineering
+- Aftermarket support
+- Training
+- Testing
+- Maintenance
+- Supply chain support
+- Automation integration
+- Guidewire grinding
+- Needle pointing
+
+## Industries
+- Medical device manufacturing
+- Medical manufacturing equipment
+
+## Equipment
+- CATHTIP
+- Comco
+- Engineering By Design
+- FEPeeler
+- GenX Medical
+- Glebar
+- Innova Design
+- Interface Catheter Solutions
+- MMT Automation
+- MPT Europe
+- R&D Engineering
+- Somex Automation
+- SYNEO
+- Tridex
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** New Hope, Minnesota
+
+<details><summary>Sources</summary>
+
+- Headquarters: New Hope, Minnesota -> db
+- Vertically integrated company serving medical device manufacturing industry -> /
+- Portfolio of technology brands (CATHTIP, Comco, Glebar, Tridex, etc.) -> /
+- Manufacturing services: tube extrusion, catheter punching, assembly support, proof-of-concept -> /
+- Precision cutting tools for surgical tissue coring and catheter tube punching, holes as small as .005" -> /
+- Core competencies: centerless grinding, electrochemical grinding, catheter manufacturing equipment, surgical punches, catheter forming, laminating, coiling, engineering design, prototyping, manufacturing production -> /
+- TotalCare program: training, testing, maintenance, supply chain support, around-the-clock access -> /
+- No founding year, employee count, ownership, certifications, materials, volume, lead time, tolerances, cage code, min order, export compliance, languages, social links found in INPUT -> /
+</details>
+
+---
 
 # Medical Measurements
 
