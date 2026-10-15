@@ -1,15 +1,536 @@
 fetched p0500-raw.json 10 / 10
-fetched p0501-raw.json 10 / 10
-RETRY border-states HTTP Error 429: Too Many Requests
-RETRY boss-energy HTTP Error 503: Service Unavailable
-RETRY bottlerocket-manufacturing HTTP Error 429: Too Many Requests
-RETRY brackenfern-woodworking-carpentry HTTP Error 503: Service Unavailable
-RETRY bradley-fabrication HTTP Error 429: Too Many Requests
-RETRY brian-hubel HTTP Error 429: Too Many Requests
-RETRY brick-mill-furniture HTTP Error 503: Service Unavailable
-fetched p0502-raw.json 8 / 10
-RETRY bridgeview-manufacturing-llc HTTP Error 429: Too Many Requests
-ok   Bluepeak 
-ok   Blue Ridge Furniture 
-fetched p0503-raw.json 10 / 10
+ok   Blue Ridge Furnitureok   Bluepeak 
+ 
 ok   Boman Electric 
+RETRY blouin-steel-fabricators HTTP Error 503: Service Unavailable
+fetched p0501-raw.json 10 / 10
+RETRY boom-island-woodworking HTTP Error 503: Service Unavailable
+RETRY boss-energy HTTP Error 503: Service Unavailable
+RETRY brian-hubel HTTP Error 503: Service Unavailable
+RETRY brick-mill-furniture HTTP Error 503: Service Unavailable
+RETRY brideau-sheet-metal HTTP Error 503: Service Unavailable
+RETRY bridgetown-natural-foods HTTP Error 503: Service Unavailable
+fetched p0502-raw.json 8 / 10
+RETRY bright-home-energy HTTP Error 503: Service Unavailable
+RETRY brundidge-electronics-corporation HTTP Error 503: Service Unavailable
+RETRY brian-hubel HTTP Error 503: Service Unavailable
+fetched p0503-raw.json 10 / 10
+RETRY brick-mill-furniture HTTP Error 503: Service Unavailable
+RETRY brideau-sheet-metal HTTP Error 503: Service Unavailable
+RETRY c-p-flexible-packaging HTTP Error 503: Service Unavailable
+RETRY c-o-manufacturing-custom-metal-fabricator HTTP Error 503: Service Unavailable
+RETRY cas-cable HTTP Error 503: Service Unavailable
+ok   Bradley Fabrication 
+ok   Boney Metal Works 
+ok   Bottlerocket Manufacturing 
+skip Broken Arrow Electric Supply LLC 
+RETRY brideau-sheet-metal HTTP Error 503: Service Unavailable
+ok   Border States 
+ok   Bruce Electric Equipment Corp. 
+ok   Bonnie Hawk Furniture 
+ok   Brand Bros Boise 
+ok   Boss Energy 
+ok   Bluff City Electronics 
+ok   Brackenfern Woodworking & Carpentry 
+ok   Boom Island Woodworking 
+ok   Bolen's Control House 
+fetched p0504-raw.json 9 / 10
+RETRY cc-steel-llc HTTP Error 503: Service Unavailable
+ok   CAS Cable 
+ok   Brigade Packaging 
+RETRY ced-boise HTTP Error 503: Service Unavailable
+ok   Blouin & Steel Fabricators 
+PAGE DONE p0500-profiles.json
+fetched p0505-raw.json 10 / 10
+ok   C&K Woodworks - Live Edge Wood Furniture and Supplier 
+ok   Broadway Brake Corp/Fleetway Heavy Duty Parts 
+RETRY ced-twin-state-electric-supply HTTP Error 503: Service Unavailable
+ok   Brooklyn WoodWorking 
+ok   CAR PARTS PDX, INC. 
+ok   Bright Services LLC 
+RETRY calico-cow-fabric-gift-shop HTTP Error 503: Service Unavailable
+ok   Bridgetown Natural Foods 
+ok   Burns Electric 
+RETRY california-rotational-plastics HTTP Error 503: Service Unavailable
+RETRY cc-steel-llc HTTP Error 503: Service Unavailable
+ok   C.M.L. Metalworks LLC 
+ok   Bridgeview Manufacturing, LLC 
+ok   Buck Mason Knitting Mills 
+ok   Bridon American Corporation 
+RETRY cc-steel-llc HTTP Error 503: Service Unavailable
+ok   C-P Flexible Packaging 
+ok   Brundidge Electronics Corporation 
+ok   Brook Field Service 
+fetched p0506-raw.json 10 / 10
+RETRY cambero-metal-works HTTP Error 503: Service Unavailable
+ok   Bryce Corporation Warehouse 
+fetched p0507-raw.json 10 / 10
+ok   Brian Hubel 
+ok   Bright Home Energy 
+PAGE DONE p0502-profiles.json
+RETRY carina-inc HTTP Error 503: Service Unavailable
+ok   CNC Fabrication, LLC (USA) 
+ok   Cable TV 
+ok   CKC Automation 
+fetched p0508-raw.json 10 / 10
+RETRY cascade-solar HTTP Error 503: Service Unavailable
+RETRY cass-county-electric-cooperative HTTP Error 503: Service Unavailable
+ok   CT Furniture Restoration – Antique & Vintage Repair | Refinishing & Woodwork | Upholstery | Custom Furniture Fabrication 
+RETRY cay-electronics HTTP Error 503: Service Unavailable
+ok   Brideau Sheet Metal 
+fetched p0509-raw.json 10 / 10
+ok   Cabinet Maker NYC 
+RETRY century-sheet-metal HTTP Error 503: Service Unavailable
+ok   CH America 
+ok   C & O Manufacturing - Custom Metal Fabricator 
+fetched p0510-raw.json 10 / 10
+RETRY charter-wire HTTP Error 503: Service Unavailable
+ok   Burnette Foods, Inc. 
+PAGE DONE p0503-profiles.json
+ok   CI-DELL Plastics, Inc. 
+ok   CSM Fabricators 
+fetched p0511-raw.json 10 / 10
+RETRY city-bench HTTP Error 503: Service Unavailable
+ok   California Solar & Electric Inc. 
+RETRY city-living-design-ltd HTTP Error 503: Service Unavailable
+ok   California LightWorks 
+ok   California Rotational Plastics 
+ok   Capital City Salvage 
+RETRY clark-truck-equipment-company-inc HTTP Error 503: Service Unavailable
+ok   Canyon Ridge Communications 
+ok   Captron Electronics Assembly 
+fetched p0512-raw.json 10 / 10
+ok   Cable Components Inc 
+ok   Calico Cow Fabric & Gift Shop 
+ok   Brick Mill Furniture 
+PAGE DONE p0501-profiles.json
+ok   CW Metals Inc. Sheet Metal Fabrication 
+RETRY cleaveland-price-inc HTTP Error 503: Service Unavailable
+ok   Caddock Electronics Inc 
+ok   CED Boise 
+fetched p0513-raw.json 9 / 10
+skip Canton Manufacturing 
+ok   CC Steel LLC 
+fetched p0514-raw.json 10 / 10
+ok   CED Twin State Electric Supply 
+ok   Carina Inc 
+ok   Central Florida Metal Shop 
+RETRY coil-cable-specialist-inc HTTP Error 503: Service Unavailable
+ok   Casa Cattle Company 
+fetched p0515-raw.json 10 / 10
+ok   Cerrowire 
+ok   Chisel & Wood 
+RETRY chris-haynes-electric-supply-inc Expecting value: line 45 column 20 (char 2774)
+ok   Carolina Cable Solutions 
+skip Coastal Med Tech 
+fetched p0516-raw.json 9 / 10
+ok   Caroba Plastics Inc 
+ok   Carbon Recall Tupelo 
+ok   CED Raleigh 
+PAGE DONE p0504-profiles.json
+ok   Cable Man, Inc. 
+PAGE DONE p0505-profiles.json
+ok   Carriage Hill Craft Metals 
+RETRY colorado-wood-metal HTTP Error 503: Service Unavailable
+ok   Charles River Apparel 
+fetched p0517-raw.json 10 / 10
+ok   Central Electric Cooperative 
+RETRY chris-haynes-electric-supply-inc HTTP Error 503: Service Unavailable
+ok   Clarios 
+ok   Casco Food Equipment Services Inc 
+ok   Castellano Custom Furniture 
+ok   City Food Equipment - Lombard, IL - New & Used Restaurant Equipment & Kitchen Supply Store 
+ok   City Mill - Hawaii Kai 
+skip Coastal Iron Works Inc 
+ok   Charleston Woodworking School 
+ok   Cleveland Creek Home Furnishings 
+fetched p0518-raw.json 10 / 10
+skip Clinton Nevada 
+RETRY connect-interiors HTTP Error 503: Service Unavailable
+ok   ClearLake Furniture 
+ok   Circa Energy 
+ok   Century Sheet Metal. 
+fetched p0519-raw.json 9 / 10
+ok   Cambero Metal Works 
+ok   Catalyst Communications 
+RETRY cook-machinery-llc HTTP Error 503: Service Unavailable
+ok   Camgian 
+ok   Carolina Cooks Foodservice Equipment & Supplies - Open To The Public 
+RETRY coolcad-electronics-inc HTTP Error 503: Service Unavailable
+RETRY cook-machinery-llc HTTP Error 503: Service Unavailable
+RETRY coolcad-electronics-inc HTTP Error 503: Service Unavailable
+ok   Cardinal Electronics 
+ok   Cascade Solar 
+ok   Central Kentucky Industrial Inc 
+ok   Cay Electronics 
+ok   Cleantap Energy 
+ok   Colorado Food Showroom 
+ok   CenturyLink 
+ok   Charter Wire 
+skip Component Distributors Inc. (CDI) 
+ok   Commonwealth Packaging Company 
+ok   Clothing Head 2 Toe 
+ok   Cleaveland/Price Inc 
+RETRY countryside-amish-furniture HTTP Error 503: Service Unavailable
+RETRY cox-communications HTTP Error 503: Service Unavailable
+skip Columbus Apparel Studio 
+ok   Colorado Energy Experts 
+RETRY countryside-amish-furniture HTTP Error 503: Service Unavailable
+ok   Cold River Furniture 
+ok   Colorado Custom Metalwork Inc 
+ok   Car Parts International 
+PAGE DONE p0506-profiles.json
+ok   Cole's Sheet Metal Welding 
+ok   Chris Haynes Electric Supply Inc 
+skip Crary Industries Inc 
+ok   Colonial Furniture 
+ok   Carolina Wiring Service, LLC 
+ok   City Bench 
+ok   Colorado Power Electronics, Inc 
+ok   Columbia Packaging Group 
+ok   ClassOne Technology 
+ok   City Living Design Ltd 
+RETRY coherent 'NoneType' object has no attribute 'group'
+ok   Chicago Protective Apparel Inc 
+ok   Cass County Electric Cooperative 
+ok   Common Species 
+ok   Coil Cable Specialist, Inc. 
+ok   Collinsville T-shirt Factory 
+RETRY custom-packaging-house HTTP Error 503: Service Unavailable
+ok   Cleveland Yutaka Corporation 
+ok   Congregation Apparel 
+RETRY central-wire-industries 'NoneType' object has no attribute 'group'
+ok   Commercial Foods 
+ok   Coastal Automotive 
+RETRY custom-promotional-branding HTTP Error 503: Service Unavailable
+RETRY carolina-precision-switchgear Remote end closed connection without response
+ok   Corbeau 
+ok   Cook Machinery, LLC 
+ok   Choice Electronics 
+PAGE DONE p0509-profiles.json
+ok   Consolidated Electronic Wire & Cable 
+ok   Component Packaging 
+ok   Contract Manufacturing NE 
+skip Cox Communications 
+ok   Coffee Systems Hawaii 
+ok   Cooper Lighting (Eaton) 
+ok   Cornerstone Woodworking Co. 
+ok   City Hardwoods 
+ok   ColdSnap 
+ok   Coastal Electronics, LLC 
+RETRY dms-packaging HTTP Error 503: Service Unavailable
+ok   Component Central Inc 
+ok   Connect Interiors 
+ok   Copack Utah 
+ok   Component Manufacturing Company 
+skip DGL Group Ltd 
+ok   Compton Metals Inc. 
+skip DC Fabricators Inc. 
+skip Custom One - T-Shirt & Screen Printing 
+ok   Crossroads Fine Woodworking 
+ok   Custom Food Equipment 
+RETRY commonwealth-food-service-equipment Expecting ',' delimiter: line 57 column 4 (char 3231)
+ok   Creekside Welding and Fabrication LLC 
+RETRY clark-truck-equipment-company-inc Expecting ',' delimiter: line 48 column 4 (char 2452)
+ok   Custom Steel Manufacturing 
+ok   Crystal Farms Dairy Co. 
+ok   CorVent Medical, Inc 
+ok   Crossroads Solar 
+ok   Cord Apparel 
+ok   Construction Wear Llc 
+ok   CoolCAD Electronics Inc. 
+ok   Custom Promotional Branding 
+ok   Consolidated Wiring, LLC 
+ok   Contract Medical Manufacturing LLC 
+PAGE DONE p0514-profiles.json
+ok   Custom Furniture & Design LLC 
+ok   Cristek Interconnects 
+ok   Corvia Medical 
+ok   Crown Wire & Cable Co Inc 
+ok   Culture Apparel | Screen Printing | Embroidery | Promo Items 
+ok   Creative Hi-Tech 
+ok   Compass Made 
+RETRY colorado-wood-metal Expecting ',' delimiter: line 68 column 4 (char 4000)
+skip Crystal Custom Apparel 
+ok   Custom Packaging Services 
+ok   Creative Packaging 
+ok   DC Equipment, Inc. 
+ok   DAS Medical, a UFP Technologies Company 
+ok   Creative Steel 
+ok   Corrugated Containers 
+ok   Custom Manufacturing Services Inc 
+ok   Custom Metal Products 
+ok   Cyril's Foods 
+ok   Custom Packaging House 
+ok   Custom Sheet Metal of Louisiana 
+ok   Creative Werks 
+PAGE DONE p0516-profiles.json
+ok   Cycle Gear 
+PAGE DONE p0518-profiles.json
+ok   DBK Custom Apparel & Printing 
+ok   Curbside Apparel 
+ok   Carolina Precision Switchgear 
+PAGE DONE p0507-profiles.json
+ok   Current Electronics 
+ok   DC Sheet Metal LLC 
+ok   Countryside Amish Furniture 
+PAGE DONE p0515-profiles.json
+ok   Custom Contract Manufacturing LLC 
+ok   Coherent 
+PAGE DONE p0511-profiles.json
+ok   D5 Design & Metal Fabrication 
+ok   Central Wire Industries 
+PAGE DONE p0508-profiles.json
+ok   DMS Packaging 
+ok   DECA Manufacturing, Inc. 
+ok   Custom Craft Inc 
+PAGE DONE p0517-profiles.json
+ok   Clark Truck Equipment Company Inc. 
+PAGE DONE p0510-profiles.json
+ok   Commonwealth Food Service Equipment 
+PAGE DONE p0513-profiles.json
+ok   DMV JDM Depot, Inc. 
+PAGE DONE p0519-profiles.json
+RETRY colorado-wood-metal Expecting ',' delimiter: line 59 column 4 (char 3459)
+RETRY colorado-wood-metal The read operation timed out
+skip Colorado Wood & Metal The read operation timed out
+PAGE DONE p0512-profiles.json
+ALL-DONE errors 1 of 200
+collected 186
+bluff-city-electronics | wording/address
+bonnie-hawk-furniture | wording/address
+border-states | wording/address
+brick-mill-furniture | wording/address
+bridgetown-natural-foods | wording/address
+bridgeview-manufacturing-llc | certs ['ISO 9001']
+bryce-corporation-warehouse | certs ['Safe Quality Food (SQF) Certified']
+burnette-foods-inc | certs ['Organic', 'Non-GMO', 'Kosher', 'USDA Certified', 'FDA Certified', 'Gluten-free (GF)']
+ckc-automation | nums ['2024']
+cnc-fabrication-llc-usa | nums ['1998.5', '1999', '2010', '2003', '6.7', '6.0']
+calico-cow-fabric-gift-shop | wording/address
+california-solar-electric-inc | wording/address
+carina-inc | nums ['1960']
+carolina-precision-switchgear | certs ['ISO 9001']
+carolina-wiring-service-llc | wording/address
+casa-cattle-company | wording/address
+casco-food-equipment-services-inc | certs ['CFESA certification']
+cay-electronics | wording/address
+century-sheet-metal | wording/address
+charles-river-apparel | certs ['Consumer Product Safety Act General Conformity Certificate (GCC)']
+charleston-woodworking-school | wording/address
+charter-wire | wording/address
+chicago-protective-apparel-inc | wording/address
+city-hardwoods | wording/address
+clarios | wording/address
+classone-technology | wording/address
+cleaveland-price-inc | certs ['DNP 3.0 third-party certified']
+coastal-automotive | wording/address
+cold-river-furniture | wording/address
+collinsville-t-shirt-factory | wording/address
+commercial-foods | wording/address
+commonwealth-food-service-equipment | nums ['600']
+compass-made | nums ['15.7', '335,000']
+contract-medical-manufacturing-llc | nums ['25']
+cook-machinery-llc | wording/address
+creative-steel | nums ['2015', '2008', '2009']
+crossroads-solar | wording/address
+custom-metal-products | nums ['1.5', '1.75']
+custom-packaging-services | certs ['ISO 9001']
+custom-promotional-branding | wording/address
+das-medical-a-ufp-technologies-company | certs ['510(k) Clearance for Surgical Equipment Covers', 'CE Marking']
+dmv-jdm-depot-inc | nums ['55,000']
+collected 186
+done blouin-steel-fabricators 0 
+done blue-ridge-furniture 0 
+done bluepeak 0 
+done bluff-city-electronics 3 
+done bolen-s-control-house 1 
+RETRY boman-electric The read operation timed out
+done boman-electric 1 
+done boney-metal-works 0 
+done bonnie-hawk-furniture 1 
+done boom-island-woodworking 2 
+done border-states 0 
+done boss-energy 1 
+done bottlerocket-manufacturing 1 
+done brackenfern-woodworking-carpentry 4 
+done bradley-fabrication 1 
+done brand-bros-boise 2 
+done brian-hubel 2 
+done brick-mill-furniture 2 
+done brideau-sheet-metal 1 
+done bridgetown-natural-foods 2 
+done bridgeview-manufacturing-llc 0 
+done bridon-american-corporation 0 
+done brigade-packaging 1 
+done bright-home-energy 1 
+done bright-services-llc 0 
+done broadway-brake-corp-fleetway-heavy-duty-parts 1 
+done brook-field-service 0 
+done brooklyn-woodworking 0 
+done bruce-electric-equipment-corp 4 
+done brundidge-electronics-corporation 3 
+done bryce-corporation-warehouse 1 
+done buck-mason-knitting-mills 2 
+done burnette-foods-inc 2 
+done burns-electric 1 
+done c-o-manufacturing-custom-metal-fabricator 0 
+done c-k-woodworks-live-edge-wood-furniture-and-supplier 1 
+done c-p-flexible-packaging 0 
+done c-m-l-metalworks-llc 1 
+done car-parts-pdx-inc 2 
+done cas-cable 0 
+done cc-steel-llc 3 
+done ced-boise 0 
+done ced-raleigh 0 
+done ced-twin-state-electric-supply 0 
+done ch-america 1 
+done ci-dell-plastics-inc 2 
+done ckc-automation 1 
+done cnc-fabrication-llc-usa 0 
+done csm-fabricators 1 
+done ct-furniture-restoration-antique-vintage-repair-refinishing-woodwork-upholstery-custom-furniture-fabrication 0 
+done cw-metals-inc-sheet-metal-fabrication 0 
+done cabinet-maker-nyc 2 
+done cable-components-inc 2 
+done cable-man-inc 0 
+done cable-tv 0 
+done caddock-electronics-inc 0 
+done calico-cow-fabric-gift-shop 4 
+done california-lightworks 0 
+done california-rotational-plastics 1 
+done california-solar-electric-inc 0 
+RETRY cambero-metal-works Remote end closed connection without response
+done cambero-metal-works 0 
+done camgian 0 
+done canyon-ridge-communications 1 
+done capital-city-salvage 2 
+done captron-electronics-assembly 1 
+done car-parts-international 0 
+done carbon-recall-tupelo 2 
+done cardinal-electronics 4 
+done carina-inc 0 
+done caroba-plastics-inc 1 
+done carolina-cable-solutions 1 
+done carolina-cooks-foodservice-equipment-supplies-open-to-the-public 0 
+done carolina-precision-switchgear 0 
+done carolina-wiring-service-llc 0 
+done carriage-hill-craft-metals 1 
+done casa-cattle-company 0 
+done cascade-solar 0 
+done casco-food-equipment-services-inc 0 
+done cass-county-electric-cooperative 1 
+done castellano-custom-furniture 1 
+done catalyst-communications 0 
+done cay-electronics 0 
+done central-electric-cooperative 1 
+done central-florida-metal-shop 4 
+done central-kentucky-industrial-inc 0 
+done central-wire-industries 0 
+done century-sheet-metal 0 
+done centurylink 1 
+done cerrowire 0 
+done charles-river-apparel 0 
+done charleston-woodworking-school 0 
+done charter-wire 1 
+done chicago-protective-apparel-inc 2 
+done chisel-wood 0 
+done choice-electronics 0 
+done chris-haynes-electric-supply-inc 3 
+done circa-energy 2 
+done city-bench 0 
+done city-food-equipment-lombard-il-new-used-restaurant-equipment-kitchen-supply-store 0 
+done city-hardwoods 0 
+done city-living-design-ltd 0 
+done city-mill-hawaii-kai 2 
+done clarios 0 
+done clark-truck-equipment-company-inc 3 
+done classone-technology 2 
+done cleantap-energy 0 
+done clearlake-furniture 0 
+done cleaveland-price-inc 3 
+done cleveland-creek-home-furnishings 6 
+done cleveland-yutaka-corporation 0 
+done clothing-head-2-toe 0 
+done coastal-automotive 1 
+done coastal-electronics-llc 0 
+done coffee-systems-hawaii 1 
+done coherent 0 
+done coil-cable-specialist-inc 2 
+done cold-river-furniture 1 
+done coldsnap 0 
+done cole-s-sheet-metal-welding 2 
+done collinsville-t-shirt-factory 1 
+done colonial-furniture 3 
+done colorado-custom-metalwork-inc 1 
+done colorado-energy-experts 0 
+done colorado-food-showroom 0 
+done colorado-power-electronics-inc 0 
+done columbia-packaging-group 1 
+done commercial-foods 0 
+done common-species 1 
+done commonwealth-food-service-equipment 0 
+done commonwealth-packaging-company 2 
+done compass-made 0 
+done component-central-inc 0 
+done component-manufacturing-company 2 
+done component-packaging 0 
+done compton-metals-inc 0 
+done congregation-apparel 1 
+done connect-interiors 0 
+done consolidated-electronic-wire-cable 0 
+done consolidated-wiring-llc 2 
+done construction-wear-llc 0 
+done contract-manufacturing-ne 0 
+done contract-medical-manufacturing-llc 0 
+done cook-machinery-llc 1 
+done coolcad-electronics-inc 0 
+done cooper-lighting-eaton 1 
+done copack-utah 1 
+done corvent-medical-inc 1 
+done corbeau 0 
+done cord-apparel 1 
+done cornerstone-woodworking-co 0 
+done corrugated-containers 4 
+done corvia-medical 2 
+done countryside-amish-furniture 1 
+done creative-hi-tech 0 
+done creative-packaging 0 
+done creative-steel 1 
+done creative-werks 0 
+done creekside-welding-and-fabrication-llc 0 
+done cristek-interconnects 0 
+done crossroads-fine-woodworking 3 
+done crossroads-solar 2 
+done crown-wire-cable-co-inc 2 
+done crystal-farms-dairy-co 1 
+done culture-apparel-screen-printing-embroidery-promo-items 1 
+done curbside-apparel 1 
+done current-electronics 0 
+done custom-contract-manufacturing-llc 1 
+done custom-craft-inc 0 
+done custom-food-equipment 0 
+done custom-furniture-design-llc 0 
+done custom-manufacturing-services-inc 2 
+done custom-metal-products 3 
+RETRY custom-packaging-house Remote end closed connection without response
+RETRY custom-packaging-house Remote end closed connection without response
+done custom-packaging-house 1 
+done custom-packaging-services 1 
+done custom-promotional-branding 0 
+done custom-sheet-metal-of-louisiana 1 
+done custom-steel-manufacturing 0 
+done cycle-gear 2 
+done cyril-s-foods 0 
+done d5-design-metal-fabrication 3 
+done das-medical-a-ufp-technologies-company 1 
+done dbk-custom-apparel-printing 1 
+done dc-equipment-inc 1 
+done dc-sheet-metal-llc 0 
+done deca-manufacturing-inc 1 
+done dms-packaging 0 
+done dmv-jdm-depot-inc 1 
+ALL-DONE errors 0
+clean 185 | sentences removed 152 | needs review 1 | check errors 0
+REVIEW cleveland-creek-home-furnishings too short after fact-check (70 words)
+sql parts 3 stories 185

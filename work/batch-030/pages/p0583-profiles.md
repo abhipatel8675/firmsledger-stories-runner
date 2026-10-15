@@ -1,0 +1,571 @@
+# Merge Manufacturing LLC
+
+**Old description:** Merge MFG is the midwest's newest powder coating and contract custom fabrication shop facility.
+
+## About
+Merge Manufacturing LLC operates from Roca, Nebraska, a community just south of Lincoln. The company describes itself as the Midwest's newest powder coating and contract custom fabrication shop, having grown quickly since its establishment. No founding year or ownership details are publicly disclosed.
+
+The shop provides a range of metal fabrication and finishing services under one roof. Its powder coating operation runs both a conveyorized line and a batch system, while fabrication capabilities include press brake forming, rolling, and CNC hybrid-electric tube bending for diameters from 0.250 to 3.00 inches at radii as tight as 1x the tube diameter. Welding covers MIG and TIG processes on steel, stainless steel, and aluminum. Additional services encompass assembly, abrasive blasting, burn-off, and small-batch process coating.
+
+Merge serves customers in the Lincoln and Omaha area, though specific industry sectors are not listed in its public materials. The company emphasizes concept-to-completion manufacturing, handling projects from saw cutting and forming through final coating and assembly.
+
+The company highlights its experienced staff and a customer-satisfaction-first philosophy as key differentiators. It also points to its tube bending equipment, which it says delivers the highest quality bent tubes at the lowest cost and shortest lead times.
+
+## Known for
+- In-house conveyorized and batch powder coating lines
+- CNC hybrid-electric tube bender capable of 1x diameter bend radii
+- MIG and TIG welding for steel, stainless steel, and aluminum
+- Full-service assembly and finishing including blasting and burn-off
+
+## Capabilities
+- Powder coating (conveyorized line)
+- Powder coating (batch process)
+- Metal fabrication (press brake forming)
+- Metal fabrication (rolling)
+- Tube bending (CNC hybrid-electric)
+- Welding (MIG)
+- Welding (TIG)
+- Assembly
+- Abrasive blasting
+- Burn off
+- Batch process coating
+- Saw cutting
+
+## Equipment
+- CNC hybrid-electric tube bender
+- Press brakes
+- Rollers
+- Conveyorized powder line
+- Batch process equipment
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Headquarters:** Roca, Nebraska
+
+<details><summary>Sources</summary>
+
+- Location: Roca, NE (2401 Production Drive) -> /
+- Services: powder coating (conveyorized and batch), metal fabrication, tube bending, welding, assembly, blasting, burn off -> /
+- Equipment: CNC hybrid-electric tube bender, press brakes, rollers, conveyorized powder line -> /
+- Materials: steel, stainless steel, aluminum -> /
+- LinkedIn URL -> db
+- Company description: 'midwest's newest powder coating and contract custom fabrication shop facility' -> /
+</details>
+
+---
+
+# Meritek Electronics Corporation
+
+**Old description:** Transient Voltage Suppressors in surface mount + axial leaded thru-hole type
+
+## About
+Meritek Electronics Corporation is headquartered in Baldwin Park, California, where its North American operations center and distribution hub are located. The company has been active in the electronics component market for more than 30 years and maintains additional offices in Utah, Illinois, and Mexico City, as well as engineering, manufacturing, and logistics facilities in Taipei, Taichung, and Suzhou. Ownership details and founder names are not publicly disclosed.
+
+Meritek manufactures a broad range of circuit protection devices, passive components, semiconductors, and printed circuit board products. Its portfolio includes metal oxide varistors, TVS diodes, EMI suppression capacitors, spark gaps and gas discharge tubes, conductive polymer capacitors, PTC resettable fuses, and a variety of capacitors, resistors, diodes, MOSFETs, crystals, and inductors. The company operates ISO 9001 and ISO 14001 certified factories and holds UL, CSA, and VDE certifications on its power devices. It supports both surface-mount and through-hole packages, offers custom design engineering, and runs vendor-managed inventory and stock management programs from distribution centers in North America and Asia. Millions of parts are kept in stock for immediate shipment.
+
+The company serves industries such as automation controls, instrumentation, automotive, energy management, HVAC, power supply (UPS, AC/DC, DC/DC), telecommunications and networking, IoT, industrial controls, infotainment, security, fire and safety, elevator controls, and lighting. Customers include original equipment manufacturers and electronics manufacturing service providers across North America and Asia.
+
+Meritek emphasizes on-time delivery, zero defects, and competitive pricing. It differentiates itself with a multilingual support team, rapid engineering responsiveness, global logistics and stock management programs, and large inventory availability. The company also provides VMI, logistic services, and prototyping support to address supply chain challenges.
+
+## Known for
+- Cost reduction, short lead times, and quality products
+- Multilingual team serving USA, Canada, Mexico, and Asia
+- Fast engineering responsiveness to technical changes and quality needs
+- Global logistics and stock management programs (VMI)
+- Large inventory with millions of parts in stock
+
+## Capabilities
+- Circuit protection device manufacturing
+- Passive component manufacturing
+- Semiconductor manufacturing
+- Printed circuit board product manufacturing
+- Custom design engineering
+- Vendor managed inventory (VMI)
+- Stock management programs
+- Logistics services
+- Prototyping support
+- New product introduction (NPI) support
+- In-process quality control (IPQC)
+- Statistical sample testing
+- Incoming inspection
+- Outgoing quality inspection
+- Zero defects manufacturing standard
+
+## Industries
+- Automation Controls
+- Instrumentation
+- Automotive
+- Energy Management
+- HVAC
+- Power Supply (UPS, AC/DC, DC/DC)
+- Telecommunications
+- Networking
+- IoT
+- Industrial Controls
+- Infotainment
+- Security
+- Fire and Safety
+- Elevator Controls
+- Lighting
+- High Energy Protection
+- Telecom and Data Transmission
+
+## Certifications
+- ISO 9001
+- ISO 14001
+- RoHS
+- REACH
+- UL
+- CSA
+- VDE
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Baldwin Park, California
+
+<details><summary>Sources</summary>
+
+- Headquarters in Baldwin Park, CA -> db, /about-us
+- Global locations in USA, Taiwan, China, Mexico -> /about-us
+- 30+ years of operation -> /about-us
+- ISO 9001 and ISO 14001 certified factories -> db, /about-us
+- UL, CSA, VDE certifications on power devices -> /about-us
+- Product portfolio: MOV, TVS, EMI caps, GDT, polymer caps, PTC fuses -> /
+- Custom design engineering and NPI support -> /
+- VMI, stock management, logistics services -> /, /about-us
+- Millions of parts in stock for immediate delivery -> /
+- Industries served: automation, automotive, energy, HVAC, telecom, IoT, etc. -> /about-us, /
+- Differentiators: on-time delivery, zero defects, competitive pricing, multilingual support -> /about-us
+</details>
+
+---
+
+# Merrow Inc
+
+**Old description:** Take a peek at the rich and storied history of Merrow from gunpowder factory, to knitting mill, to manufacturer of the finest hand-built sewing machines.
+
+## About
+Merrow Inc operates from Fall River, Massachusetts, where it has evolved from a 19th‑century gunpowder factory and knitting mill into a specialist builder of industrial sewing machines. The company notes that for 185 years businesses have relied on its equipment for customized sewing solutions.
+
+Today Merrow produces more than 360 models of production‑grade sergers and overlock machines, each hand‑assembled to tight precision tolerances. It also maintains a spare‑parts inventory covering roughly 600 legacy models, with components machined to 0.001‑inch tolerances and available for immediate shipment. A dedicated Stitch Lab lets customers send materials for custom stitch development; the company sews samples and returns them within 14 days, then ships the finished machine ready for production.
+
+The machines serve a broad range of sectors: apparel (lingerie, women’s wear, activewear), home textiles (curtains, linens, blankets), technical textiles (geotextiles, filters, fiberglass, Kevlar), military and flame‑resistant gear, netting and mesh, and general industrial material processing. Customers cited include Fortune 100 firms, design schools, circuses, tailor shops, and named accounts such as Ramblers Way, Hoffman Embroidery, and ACME Mills.
+
+Merrow emphasizes its hand‑built approach, the depth of its legacy‑parts program, and the Stitch Lab service as key differentiators. The company says its stitches bring visual impact, performance, and distinction to consumer products, and that it strives to go beyond expectations in customer relationships.
+
+## Known for
+- Over 360 models of production‑grade sewing machines
+- Hand‑built to precision tolerances
+- Spare‑parts inventory for 600 legacy models machined to 0.001″
+- Stitch Lab returns custom‑sewn samples in 14 days
+- Machines shipped sewn‑off and ready for production
+
+## Capabilities
+- Industrial sewing machine manufacturing
+- Spare parts machining and supply
+- Custom stitch development (Stitch Lab)
+- Dealer sales and service network
+- Technical support and training
+
+## Industries
+- Textile
+- Apparel
+- Home textiles
+- Technical textiles
+- Military
+- Flame-resistant garments
+- Netting and mesh
+- Geotextiles
+- Non-wovens
+- Filters
+- Foam
+- Rubber
+- Fiberglass
+- Emblems and labels
+- Activewear
+- Kevlar products
+- Industrial material processing
+- Design education
+- Entertainment (circuses)
+- Tailoring
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Fall River, Massachusetts
+
+<details><summary>Sources</summary>
+
+- Location: Fall River, MA -> db
+- History: gunpowder factory to knitting mill to sewing machine manufacturer -> /
+- Over 360 models of production-grade sewing machines -> /
+- Spare parts for 600 legacy models machined to .001 tolerances -> /
+- Stitch Lab returns samples in 14 days -> /
+- Serves industries including textile, military, home decor, lingerie, etc. -> /
+- Customer examples: Ramblers Way, Hoffman Embroidery, ACME Mills -> /
+- LinkedIn URL -> db
+</details>
+
+---
+
+# Messenger Clothing Company
+
+**Old description:** Talk with our service team about your project and we will help find the perfect look that tells your story.
+
+## About
+Messenger Clothing Company operates across Central Kansas with locations in Salina, Minneapolis, and Junction City. The company, known locally as Messenger Clothing Co., has built its presence around the tagline "Solutions Beyond Fabric & Ink." While a specific founding year and ownership structure are not publicly disclosed, the business is represented online by a team member named Matt who authors its FAQ entries.
+
+The company specializes in premium decoration services, offering screen printing, heat application, and embroidery on apparel, signs, and promotional items. Customers select a product and design, review a quote and mock-up, then approve the order for production. No facility size, headcount, or annual volume figures are published.
+
+Messenger Clothing serves businesses, organizations, and individuals throughout Central Kansas seeking custom-decorated goods. Its client base includes anyone needing branded apparel, signage, or promotional merchandise, though no specific industry verticals or named accounts are listed.
+
+The company emphasizes a guided process and flexible turnaround. Standard lead time is two to three weeks from order approval, with expedited options available on request. Minimum orders start at six pieces for embroidery and 15 pieces for heat-applied decoration, reflecting a willingness to accommodate smaller runs.
+
+## Known for
+- Standard turnaround of 2–3 weeks from approved order
+- Minimum order of 6 pieces for embroidery, 15 for heat-applied decoration
+- Guided three-step process: select product/design, review quote/mock-up, approve order
+- Three Central Kansas locations (Salina, Minneapolis, Junction City)
+- Offers screen printing, heat application, and embroidery under one roof
+
+## Capabilities
+- Screen printing
+- Heat application
+- Embroidery
+- Custom design assistance
+- Mock-up review
+- Order management
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Headquarters:** Salina, Minneapolis, Junction City, Kansas
+
+<details><summary>Sources</summary>
+
+- Locations: Salina, Minneapolis, Junction City, Kansas -> page /
+- Tagline: Solutions Beyond Fabric & Ink -> page /
+- Services: screen printing, heat application, embroidery for apparel, signs, promotional items -> page / (FAQ)
+- Turnaround: 2-3 weeks from approved order -> page / (FAQ)
+- Minimum order: 6 pieces embroidery, 15 pieces heat-applied -> page / (FAQ)
+- Process: select product/design, review quote/mock-up, order approval -> page /
+- Team member Matt authors FAQ -> page /
+- Website: messengerclothing.com -> db
+</details>
+
+---
+
+# Metal & Wire Products Co
+
+**Old description:** Cost effective assemblies to meet specific design requirements.
+
+## About
+Metal & Wire Products Co. operates from its headquarters in Salem, Ohio, with a second facility in South Carolina. The company has been in business for over 45 years, building a reputation as a full-service metal fabrication partner for original equipment manufacturers.
+
+The shop provides a range of metalworking processes including MIG, TIG, robotic and resistance welding; precision tubing cutting, bending and fabrication; CNC machining; metal stamping for short and medium runs; and spring and wire forming. Equipment includes CNC six-axis robotic welders, tube benders with a 1- to 13-inch radius capacity, laser cutters handling material up to 1 inch thick, 120-ton brake presses with a 10-foot bed, and wire formers accommodating up to 12 mm diameter. Material thickness capacity spans 0.015 to 0.500 inch, and the company works with carbon, stainless, galvanized, oil-tempered and hard-drawn steels as well as aluminum and alloys.
+
+Metal & Wire serves OEM customers across a variety of industrial sectors, though the company does not publicly list specific end markets. Its contract manufacturing model supports projects from prototype through production, with in-house engineering, tooling design and quality inspection capabilities.
+
+The company emphasizes short lead times and collaborative project management, citing its portable CMM Romer Absolute Arm for inspection and a team that works alongside clients from concept to final assembly.
+
+## Known for
+- Short and medium run metal stamping
+- Prototype and production fabrication
+- CNC robotic welding and automated assembly
+- In-house tooling design and build
+- Portable CMM inspection (Romer Absolute Arm)
+
+## Capabilities
+- MIG welding
+- TIG welding
+- Robotic welding
+- Resistance welding
+- Metal fabrication (prototype and production)
+- Spring and wire forming (compression, torsion, extension springs)
+- Metal stamping (short and medium run)
+- Precision tubing cutting
+- Precision tubing bending
+- Precision tubing fabrication
+- CNC machining
+- CNC laser cutting
+- CNC laser burning
+- CNC brake pressing
+- CNC tube bending
+- CNC wire forming
+- CNC thermal friction drilling
+- CNC thermal friction tapping
+- Engineering design services
+- Tooling design and build
+- Quality inspection (CMM)
+- Assembly (robotic welded assemblies)
+
+## Equipment
+- CNC 6 Axis Robotic Welders
+- CNC tube bending machines (1" to 13" bend radius)
+- CNC laser machines (cutting up to .375" thick)
+- CNC brake presses (120 tons, 10' max material length)
+- CNC Laser Burning (up to 1" thick)
+- CNC Thermal Friction Drilling & Tapping (Metric and English)
+- CNC wire forming machines (up to 12 mm diameter)
+- Portable CMM Romer Absolute Arm
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Headquarters:** Salem, Ohio
+
+<details><summary>Sources</summary>
+
+- Headquarters in Salem, Ohio with second location in South Carolina -> /about
+- Over 45 years in business -> /about
+- Full-service metal fabrication and contract manufacturing for OEM markets -> /
+- Capabilities: MIG, TIG, robotic, resistance welding; fabrication; spring & wire forms; metal stamping; precision tubing; machining -> /capabilities
+- Equipment: CNC 6-axis robotic welders, CNC tube benders (1-13" radius), CNC laser cutting up to .375", CNC brake presses 120 tons 10', CNC laser burning to 1", CNC thermal friction drilling/tapping, CNC wire forming up to 12 mm -> /products
+- Materials: hard drawn, oil tempered, galvanized, stainless, carbon steel; aluminum, alloys, mild steel -> / and /capabilities
+- In-house engineering, tooling design/build, quality inspection with portable CMM Romer Absolute Arm -> /services
+- Short and medium run stamping; prototype or production fabrication -> /capabilities
+</details>
+
+---
+
+# Metal Center
+
+**Old description:** We will do our best to provide you with an estimate as quickly as possible! Please provide an accurate phone number and email address we can use to contact you. Thank you!
+
+## About
+Metal Center operates from Albuquerque, New Mexico, as a locally owned and operated metal roofing supplier. The company serves the region with a focus on custom metal packages fabricated in its own facility.
+
+The shop produces a range of metal roofing panels including PBR, PANEL, DESERT RIB, Zia Lock standing seam, PBU, and 7/8-inch corrugated profiles in 24, 26, and 29 gauge. Colors such as Galvalume, Copper Metallic, and a palette of painted finishes are kept in stock for immediate rolling. In-house manufacturing allows same-day availability on custom packages, and the company backs products with a limited warranty. Delivery services extend across the area.
+
+Customers include roofing contractors, commercial builders, and residential project managers throughout New Mexico. The supplier positions itself as a one-stop source for panel profiles, trim, and accessories needed for metal roof installations.
+
+Metal Center emphasizes a low-price guarantee, the largest inventory in the state, and same-day turnaround on custom orders as its primary differentiators. The business was founded on the premise that local fabrication and stock depth reduce lead times for contractors.
+
+## Known for
+- Custom metal packages manufactured in-house for same-day availability
+- Low price guarantee
+- Largest inventory in New Mexico
+- Limited warranty standard
+- Delivery services
+
+## Capabilities
+- Custom metal package manufacturing
+- Metal roofing panel roll forming
+- In-house fabrication
+- Delivery services
+
+## Industries
+- Roofing
+- Construction
+- Building materials
+
+## Company details
+- **Company Type:** Manufacturer
+- **Ownership:** Locally owned & operated
+- **Headquarters:** Albuquerque, New Mexico
+
+<details><summary>Sources</summary>
+
+- Locally owned & operated -> /
+- Custom metal packages manufactured in-house -> /
+- Panel profiles: PBR, PANEL, DESERT RIB, Zia Lock, PBU, 7/8" Corrugated -> /
+- Gauges: 24, 26, 29 -> /
+- Colors in stock: Galvalume, Copper Metallic, painted finishes -> /
+- Delivery services -> /
+- Low price guarantee -> /
+- Largest inventory in New Mexico -> /
+- Limited warranty standard -> /
+- Headquarters: Albuquerque, NM -> db
+- Capabilities: Delivery Services -> db
+</details>
+
+---
+
+# Metal Creations
+
+**Old description:** Custom Boat Towers, Bimini Tops, Welding & Repairs is what we are all about!
+
+## About
+Metal Creations operates from Lakewood, New Jersey, where it has spent nearly three decades designing and manufacturing custom marine products. The company runs a dedicated full-service marine fabrication facility focused on boat towers, T-tops, radar arches, and canvas work.
+
+The shop handcrafts each item to the exact specifications of the customer’s vessel. Core offerings include custom boat towers, bimini tops, rod holders, leaning posts, instrument boxes, and canvas enclosures. In addition to fabrication, the facility provides welding, repairs, and powder coating with metallic color options. The company also stocks and sells a full line of sport‑fishing equipment, including outriggers, sourced from U.S. manufacturers.
+
+Customers range from private boat owners to charter captains and sport‑fishing enthusiasts. Typical projects involve building elevated towers for sight casting, installing T‑tops on center consoles, and sewing custom canvas covers for weather protection. The business serves the recreational boating and sport‑fishing segments of the marine industry.
+
+Metal Creations emphasizes the use of marine‑grade materials and a hands‑on approach to improve both aesthetics and functionality. The company’s longevity and in‑house fabrication capability allow it to control quality from design through final finish.
+
+## Known for
+- Handcrafted to each boat's specifications
+- Finest marine-grade materials
+- Powder coating with metallic color options
+- Full-service marine fabrication facility
+- Nearly three decades of marine fabrication experience
+
+## Capabilities
+- Custom boat tower fabrication
+- T-top fabrication
+- Radar arch fabrication
+- Marine canvas sewing
+- Bimini top fabrication
+- Welding
+- Marine repairs
+- Powder coating
+- Rod holder fabrication
+- Leaning post fabrication
+- Canvas enclosure fabrication
+- Outrigger sales and installation
+- Instrument box fabrication
+
+## Industries
+- Marine fabrication
+- Recreational boating
+- Sport fishing
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Lakewood, NJ
+
+<details><summary>Sources</summary>
+
+- Company name: Metal Creations, Inc. -> db
+- Location: Lakewood, NJ -> db
+- Nearly three decades in business -> /
+- Designs and manufactures custom boat tops, fishing towers, bimini tops, rod holders -> /
+- Handcrafted to boat specifications -> /
+- Uses finest marine grade materials -> /
+- Offers powder coating with metallic options -> /
+- Full-service marine fabrication facility -> /
+- Also offers sport fishing equipment from leading US manufacturers -> /
+- Website visited since Jan 1999 -> /
+</details>
+
+---
+
+# Metal Doctors
+
+_skipped: HTTP Error 503: Service Unavailable_
+
+# Metal Fabricators of St. Louis
+
+**Old description:** We can stand behind each product we create by never wavering from these three attributes upon which this company was founded.
+
+## About
+Metal Fabricators of St. Louis operates from St. Louis, Missouri, where it was founded in 1986. The company’s ownership structure and founders are not publicly disclosed, and no details about its early history are provided. The business has maintained a focus on sheet metal fabrication and precision weldments since its founding.
+
+The shop specializes in precision weldments and sheet metal fabrication, offering a range of in-house processes: laser cutting, forming, sawing and machining, welding and fitting, and finishing services that include powder coating and wet spray. The company’s website presents each service with detailed views, and it emphasizes that each sheet metal piece leaves its fabrication shop meeting standards of accuracy and reliability. Facility size, headcount, and annual volume are not published.
+
+The company does not specify target industries or customer types in its public materials, nor does it list specific client examples.
+
+The business was built on three core attributes—accuracy, quality, and reliability—and states that it stands behind every product by never wavering from those principles, which serve as its motto and founding philosophy. The company’s description reinforces that these attributes are the foundation upon which it was founded. The motto appears prominently on its website alongside service listings.
+
+## Known for
+- Founding attributes of accuracy, quality, and reliability
+- In-house laser cutting, forming, sawing/machining, welding/fitting, and finishing
+- Powder coating and wet spray finishing capabilities
+- Precision weldments and sheet metal fabrication focus
+
+## Capabilities
+- Laser Cutting
+- Forming
+- Sawing / Machining
+- Welding / Fitting
+- Finishing Services
+- Powder Coating / Wet Spray
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1986
+- **Headquarters:** St. Louis, Missouri
+
+<details><summary>Sources</summary>
+
+- Founded in 1986 -> db
+- Headquartered in St. Louis, Missouri -> db
+- Offers laser cutting, forming, sawing/machining, welding/fitting, finishing services, powder coating/wet spray -> page "/"
+- Motto: Accuracy, Quality, Reliability -> page "/"
+- Company stands behind products based on three founding attributes -> page "/"
+- Specializes in precision weldments and sheet metal fabrication -> page "/"
+- LinkedIn profile: https://www.linkedin.com/company/metalfabstl/ -> db
+- Website: https://www.metalfabstl.com/ -> db
+</details>
+
+---
+
+# Metal Industries, Inc.
+
+**Old description:** Your trusted source for precision machining & quality repairs for over 75 years
+
+## About
+Metal Industries, Inc. operates from Hartford, Connecticut, where it has been machining parts since the 1940s. The business began as Metropolitan Tool and Machine Company, founded by Vincent D. Zito at the current location on Wethersfield Avenue. The company produced components for U.S. troops during World War II. Vincent A. Zito took over in the 1950s and incorporated the firm as Metal Industries, Inc. in 1965. The shop later manufactured radiator cooling components for the Mercury Space Program space suits from 1958 to 1963. Today, the third generation, led by Vincent M. Zito, runs the operation.
+
+The facility functions as a full-service machine shop equipped with CNC and manual lathes capable of 36-inch diameter and 17-foot length, 4-axis CNC and manual milling machines, and surface, OD, and ID grinders. It offers precision machining, engineered metal and ceramic coatings (including oxy-acetylene powder, twin arc metallizing, Rokide, and plasma arc processes), welding and fabrication (MIG, TIG, stick, brazing, silver soldering), component repair, reverse engineering, short- and long-run production, and two-plane dynamic balancing. Materials processed include steel, aluminum, bronze, plastics, and composites.
+
+Customers span commercial, municipal, government, industrial, and agricultural sectors, with historical work for the aerospace industry on the Mercury program. The shop serves OEMs, provides spare parts, and handles repairs for hard-to-find components, offering emergency service outside normal hours to reduce downtime.
+
+The company emphasizes its third-generation experience, creative problem-solving, and precise workmanship as differentiators, aiming to exceed expectations on jobs of any size.
+
+## Known for
+- Emergency services available during and after business hours to minimize customer downtime
+- Third-generation family ownership with over 80 years of combined hands-on machine shop experience
+- Metallized coating processes that reclaim worn or mis-machined components to original specifications
+- Reverse engineering and replication of obsolete or hard-to-find parts
+- Specialized coatings for anti-wear, abradable sealing, traction, and anti-corrosion applications
+
+## Capabilities
+- CNC and manual turning (up to 36" diameter × 17 ft)
+- 4-axis CNC and manual milling
+- Surface, OD, and ID grinding
+- Two-plane soft suspension dynamic balancing
+- MIG, TIG, stick, brazing, and silver soldering welding
+- Oxy-acetylene powder and twin arc metallized coatings
+- Rokide and plasma arc ceramic coatings
+- Anti-wear ceramic coatings for seal and packing areas
+- Abradable coatings for high and low sealing applications
+- Traction/grip coatings for hazardous traffic areas and ladder rungs
+- Traction coatings for drive and feed rollers
+- Zinc/aluminum anti-corrosion coatings
+- Component repair and refurbishment
+- Reverse engineering and replicated parts
+- Short- and long-run contract manufacturing
+- Engineering and design support
+- Emergency after-hours service
+
+## Industries
+- Commercial
+- Municipal
+- Government
+- Industrial
+- Agricultural
+- Aerospace
+
+## Equipment
+- CNC and manual lathes (36" diameter × 17 ft)
+- 4-axis CNC and manual milling machines
+- Surface grinders
+- OD grinders
+- ID grinders
+- Two-plane soft suspension dynamic balancing equipment
+- Oxy-acetylene powder coating system
+- Twin arc metallizing equipment
+- Rokide ceramic coating system
+- Plasma arc ceramic coating system
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Ownership:** Third-generation family-owned
+- **Headquarters:** Hartford, Connecticut
+
+<details><summary>Sources</summary>
+
+- Founded in 1940s as Metropolitan Tool and Machine Company by Vincent D. Zito -> /about
+- Incorporated as Metal Industries, Inc. in 1965 by Vincent A. Zito -> /about
+- Manufactured radiator cooling components for Mercury Space Program space suits 1958-1963 -> /about
+- Third-generation ownership under Vincent M. Zito -> /about
+- CAGE code: 9C6P4 -> /
+- Full-service machine shop with CNC/manual lathes up to 36" dia × 17 ft, 4-axis CNC/manual mills, surface/OD/ID grinders -> /about
+- Capabilities: precision machining, engineered coatings (metal/ceramic), welding/fabrication, component repair, reverse engineering, short/long-run manufacturing, dynamic balancing -> /about
+- Materials: steel, aluminum, bronze, plastics, composites -> /
+- Industries served: commercial, municipal, government, industrial, agricultural -> /
+- Emergency services during and after business hours -> /
+- Coating processes: oxy-acetylene powder, twin arc metallized, Rokide, plasma arc ceramic -> /about
+- Anti-wear, abradable, traction, anti-corrosion coatings -> /
+</details>
+
+---

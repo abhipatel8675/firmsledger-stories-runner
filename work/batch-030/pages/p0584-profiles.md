@@ -1,0 +1,682 @@
+# Metal Solutions Design & Fabrication, LLC
+
+**Old description:** We are a production shop that delivers accelerated design services prior to fabrication.
+
+## About
+Metal Solutions Design & Fabrication, LLC operates from Dayton, Kentucky. The company was founded in 2005 when three separate businesses combined their knowledge and experience to create a multi-faceted metal design and fabrication firm. No individual founders are named in public materials.
+
+The shop functions as a production job shop offering custom fabrication and welding, stair systems, handrails and guardrails, ornamental ironwork, D.O.T.-certified IP-1, IP-2 and 7A Type A shipping containers, structural steel systems, ground support systems, machine bases and guarding, precision forming and powder coating. Engineers use SolidWorks 3D software to provide accelerated design services, FEA modeling and analysis, and general engineering support. The facility operates under an NQA-1 (2012 edition) quality assurance program with in-house certified welding inspectors.
+
+Customers span shipping and transportation, aerospace and defense, architecture and construction, entertainment venues, nuclear and power plants, industrial machine builders, material handling and technology sectors. Concrete clients include the U.S. military, NASA, Disney, Paramount, the Department of Energy, national laboratories and power generation firms. The company also serves industrial process designers, conveyor designers and food handling equipment manufacturers.
+
+The founders aimed to create a "one-stop shop" for design and manufacturing needs, emphasizing quicker lead times than overseas sourcing. The company highlights its NQA-1 program, in-house CWI staff, D.O.T. testing and certification services, and quick turn-around times as key differentiators.
+
+## Known for
+- NQA-1 Quality Assurance Program (2012 edition)
+- In-house Certified Welding Inspectors (CWI)
+- D.O.T. Testing and Certification Services
+- Accelerated design services using SolidWorks 3D
+- Quick turn-around times
+
+## Capabilities
+- Custom fabrication & welding
+- Stair systems
+- Handrails & guardrails
+- Ornamental ironwork
+- D.O.T. certified shipping containers (IP-1, IP-2, 7A Type A)
+- Structural steel systems
+- Ground support systems
+- Machine bases and guarding
+- Precision forming
+- Powder coating
+- Accelerated design services (SolidWorks 3D)
+- Engineering services
+- FEA modeling and analysis
+- D.O.T. Testing and Certification Services
+- CNC press brake operation
+- Welding inspection (CWI)
+- NQA-1 quality assurance
+
+## Industries
+- Shipping & Transportation
+- Aerospace & Defense
+- Architecture & Construction
+- Entertainment Venues
+- Nuclear & Power Plants
+- Industrial Machine Builders
+- Material Handling
+- Technology
+
+## Equipment
+- CNC press brake machines
+
+## Certifications
+- NQA-1 (2012 edition)
+- D.O.T. IP-1
+- D.O.T. IP-2
+- D.O.T. 7A Type A
+- Certified Welding Inspector (CWI)
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 2005
+- **Headquarters:** Dayton, Kentucky
+
+<details><summary>Sources</summary>
+
+- Founded 2005 by combining three businesses -> /about
+- Headquarters Dayton, Kentucky -> db
+- NQA-1 (2012 edition) quality program -> /, /about
+- In-house Certified Welding Inspectors (CWI) -> /
+- D.O.T. Testing and Certification Services -> /, /about
+- Accelerated design services using SolidWorks 3D -> /, /about
+- Services: custom fabrication & welding, stair systems, handrails & guardrails, ornamental ironwork, D.O.T. certified shipping containers, structural steel, ground support, machine bases, precision forming, powder coating -> /about
+- Industries served: Shipping & Transportation, Aerospace & Defense, Architecture & Construction, Entertainment Venues, Nuclear & Power Plants, Industrial Machine Builders, Material Handling, Technology -> /
+- Customers: U.S. military, NASA, Disney, Paramount, DOE, National Laboratories, Power Gen -> /
+- CNC press brake machines used -> / (job posting)
+- Mission: one-stop shop for design and manufacturing -> /, /about
+</details>
+
+---
+
+# Metal Standard Corporation
+
+**Old description:** We specialize in high volume welded tubular steel and wire formed products.
+
+## About
+Metal Standard Corporation was founded in 1945 in Holland, Michigan. The company has operated continuously since then as a metal fabrication specialist.
+
+The company focuses on high-volume welded tubular steel and wire-formed products. Its capabilities include tube and sheet metal laser cutting, tube bending (left and right hand), wire forming, roll bending, manual welding, brazing, and precision robotic welding with single- and dual-head robots on multi-axis positioners. A dedicated weld testing laboratory uses CMM, VMM, and Faro Arm laser equipment to verify weld penetration, strength, and dimensional accuracy. The facility processes raw, powder-coated, and plated tubular steel, sheet metal, and spooled wire sourced from certified suppliers.
+
+Metal Standard serves original equipment manufacturers in the furniture, medical, and educational markets. Its fabricated metal components are used in products for those sectors, with the company positioning itself as an OEM supplier of metal fabricated parts.
+
+The company emphasizes its long-standing reputation for manufacturing excellence and its investment in a state-of-the-art weld testing laboratory. It also highlights that its raw material suppliers are certified to meet exacting specifications, ensuring consistent quality for high-volume production.
+
+## Known for
+- State-of-the-art weld testing lab with CMM, VMM, and Faro Arm 3D measurement
+- Certified raw material suppliers to exacting specifications
+- High-volume welded tubular steel and wire forming production
+- Precision robotic welding with single/dual-head robots and multi-axis positioners
+- Laser cutting of tube and sheet metal
+
+## Capabilities
+- Tube laser cutting
+- Sheet metal laser cutting
+- Tube bending (left & right hand)
+- Wire forming
+- Roll bending
+- Manual welding
+- Brazing
+- Robotic welding (single & dual head, multi-axis positioners)
+- Weld testing (penetration & strength)
+- CMM inspection
+- VMM inspection
+- Faro Arm 3D laser measurement
+
+## Industries
+- Furniture
+- Medical
+- Educational
+
+## Equipment
+- CMM
+- VMM
+- Faro Arm laser equipment
+- Single & dual head welding robots
+- Multi-axis positioners
+- Bluco Table
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 1945
+- **Headquarters:** Holland, Michigan
+
+<details><summary>Sources</summary>
+
+- Founded 1945 -> db
+- Headquarters Holland, Michigan -> db
+- Specializes in high volume welded tubular steel and wire formed products -> /
+- Serves Furniture, Medical, Educational markets -> /
+- Capabilities: tube & sheet metal laser cutting, tube bending, wire forming, robotic welding, manual welding, brazing, roll bending -> /capabilities
+- Weld testing lab with CMM, VMM, Faro Arm -> /capabilities
+- Materials: tubular steel, sheet metal, spooled wire, raw, powder coated, plated -> /
+- Robotic welding: single & dual head robots, multi-axis positioners -> /capabilities
+- Bluco Table for manual welding -> /capabilities
+- Company is an OEM of metal fabricated products -> /
+</details>
+
+---
+
+# Metal Supermarkets Salt Lake City
+
+**Old description:** Product availability and pricing may vary by store, so double-check the items in your shopping cart before checking out!
+
+## About
+Metal Supermarkets Salt Lake City operates from a facility at 537 West Pickett Circle in Salt Lake City, Utah. The location is part of the Metal Supermarkets franchise network, a North American chain of metal supply stores. The input does not disclose the founding year of this specific location or its ownership structure.
+
+The store stocks over 8,000 metal types, shapes, grades, and sizes, including alloy steel, aluminum, brass, bronze, copper, mild steel, stainless steel, tool steel, and zinc in forms such as bar, plate, sheet, tube, and structural shapes. Value-added services encompass production cutting, shearing, press-brake bending, drilling, hole punching, laser cutting, waterjet cutting, plasma cutting, flame cutting, miter cutting, notching, and plate cutting. Orders can be completed the same day and delivered to the job site.
+
+The location serves contractors on construction projects, manufacturing companies needing consistent bulk supplies, and DIY enthusiasts. The company lists precision instruments, machine tools, and aerospace components as typical applications for its metals.
+
+The business emphasizes a no-minimum-order policy, same-day turnaround on many orders, and the ability to source rare or hard-to-find metals. Its differentiators are breadth of inventory, in-house processing, and rapid fulfillment.
+
+## Known for
+- No minimum order quantity
+- Same-day order completion and delivery
+- Over 8,000 metal types, shapes, grades, and sizes in stock
+- Sourcing of rare or hard-to-find metals
+- In-house cutting and forming services (laser, waterjet, plasma, press brake)
+
+## Capabilities
+- Production Cutting
+- Shearing
+- Bending and Press Brake
+- Delivery
+- Drilling
+- Flame Cutting
+- Hole Punching
+- Laser Cutting
+- Miter Cutting
+- Notching
+- Plate Cutting
+- Plasma Cutting
+- Sourcing Hard-to-Find Metals
+- Waterjet Cutting
+
+## Industries
+- Precision instruments
+- Machine tools
+- Aerospace components
+- Construction
+- Manufacturing
+
+## Equipment
+- laser cutters
+- waterjet equipment
+- press brake
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Headquarters:** Salt Lake City, Utah
+
+<details><summary>Sources</summary>
+
+- Location address and hours -> /
+- No minimum order policy -> /
+- Same-day order completion and delivery -> /
+- Over 8,000 metal types, shapes, grades, sizes -> /
+- Metal types and shapes listed -> /
+- Services: production cutting, shearing, bending, drilling, laser, waterjet, plasma, flame, hole punching, miter, notching, plate cutting, sourcing -> /
+- Industries: precision instruments, machine tools, aerospace components -> db (industries_served)
+- Customer types: contractors, manufacturing companies, DIY enthusiasts -> /
+- Equipment: laser cutters, waterjet equipment, press brake -> /
+</details>
+
+---
+
+# Metal Work & Design
+
+**Old description:** We offer professional services for custom metal work for residential and commercial clients.
+
+## About
+Metal Work & Design operates from Brooklyn, New York. The company is led by Rafael, who is listed as the primary contact on the firm's website. No founding year or ownership structure is publicly disclosed.
+
+The shop provides custom metal fabrication, casting, and installation for both functional and sculptural pieces. It works with aluminum, brass, steel, stainless steel, bronze, cast bronze, copper, and zinc, applying finishes such as painted, oxidized, polished, satin, and patina. Projects range from small hardware to large architectural elements, including railings, furniture, lighting, chandeliers, bar sections, fireplace mantels, and art installations. The company also combines metals with wood, acrylic, and glass.
+
+The client base spans residential and commercial sectors. Examples include garment racks for retail, brass chandeliers and bar sections for hospitality, decorative railings for residential and commercial interiors, and sculptural works for art installations. The firm offers free consultation and quotes, positioning itself as a full-service provider from design through installation.
+
+Metal Work & Design emphasizes its ability to cast in a variety of materials and to deliver both functional and sculptural pieces, supported by in-house finishing and installation capabilities.
+
+## Known for
+- Full-service custom metal fabrication from design to installation
+- Casting in a variety of materials including brass, bronze, and aluminum
+- Wide range of finishes: painted, oxidized, polished, satin, patinas
+- Combines metals with wood, acrylic, and glass
+- Free consultation and quotes
+
+## Capabilities
+- Custom metal fabrication
+- Metal casting (brass, bronze, aluminum)
+- Powder coating
+- Metal finishing (painted, oxidized, polished, satin, patinas)
+- Installation services
+- Design consultation
+- Multi-material assembly (metal with wood, acrylic, glass)
+
+## Industries
+- Residential
+- Commercial
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Headquarters:** Brooklyn, New York
+
+<details><summary>Sources</summary>
+
+- Company name: Metal Work & Design -> db
+- Location: Brooklyn, New York -> db
+- Primary contact: Rafael (email) -> /
+- Services: custom metal fabrication, casting, installation -> /
+- Materials worked: aluminum, brass, steel, stainless steel, bronze, cast bronze, copper -> /
+- Finishes: painted, oxidized, polished, satin, patinas -> /
+- Multi-material work: wood, acrylic, glass -> /
+- Client types: residential and commercial -> /
+- Project examples: railings, furniture, lighting, chandeliers, bar sections, sculptures -> /
+- Full-service claim and free consultation -> /
+- Instagram handle: MetalWorkAndDesign -> /
+</details>
+
+---
+
+# MetalWork Austin
+
+**Old description:** We’d love to connect with you! Please either fill out the contact form below or email us directly at
+
+## About
+MetalWork Austin operates from a shop at 2000 S. 7th Street in Austin, Texas. The company was founded by Ryan Scott‑Nairns, who serves as owner and founder, and employs a small team including fabricators Jake Black and Will Kozak, administrative coordinator Marie Nairns, and apprentice Trevor Norton.
+
+The shop provides full‑service, turn‑key metal fabrication, handling design, welding, CNC plasma cutting, finishing, installation, and forging/blacksmithing. Its CNC plasma table cuts up to 3/4‑inch steel, and the welders work with steel, stainless steel, aluminum, brass, bronze, and copper. Finishing capabilities range from seamless weld sanding to patinas, powder coats, clear coats, and buffed wax. The team of five produces custom furniture, railings, signs, gates, and exterior metalwork.
+
+Clients include home owners, business owners, architects, and interior designers. Projects span residential and commercial architectural metalwork, such as custom railings for homes, signage for businesses, and decorative gates for property entrances.
+
+MetalWork Austin distinguishes itself by taking on unconventional designs and offering in‑house design support—from hand sketches to 3D models—so customers without technical drawings can still realize complex ideas. The company also emphasizes finish quality, stating that finish work separates good metalwork from astonishing metalwork, and it maintains old‑world forging techniques alongside modern CNC processes.
+
+## Known for
+- Full-service turn-key fabrication from design through installation
+- CNC plasma cutting up to 3/4" steel with design file assistance
+- Welding expertise across steel, stainless, aluminum, brass, bronze, copper
+- Specialized finishing: blackened steel, patinas, powder coats, clear coats, buffed wax
+- Forging and blacksmithing for traditional textures and forms
+
+## Capabilities
+- Custom metal fabrication
+- Design (hand-drawn, 2D, 3D)
+- Consultation
+- Welding (all methods)
+- Finishing (sanding, patinas, powder coating, clear coats, buffed wax)
+- Installation
+- CNC plasma cutting
+- Forging & blacksmithing
+
+## Industries
+- Home owners
+- Business owners
+- Architects
+- Interior designers
+
+## Equipment
+- CNC plasma table (cuts up to 3/4" steel)
+
+## Company details
+- **Company Type:** Manufacturer
+- **Employees:** 5
+- **Headquarters:** Austin, Texas
+
+<details><summary>Sources</summary>
+
+- Location: Austin, Texas -> /
+- Founder: Ryan Scott-Nairns -> /
+- Team members: Jake Black, Will Kozak, Marie Nairns, Trevor Norton -> /
+- Services: full service turn-key metal fabrication -> /services
+- Materials: Steel, Stainless Steel, Aluminum, Brass, Bronze, Copper -> /services
+- Lead time: 8-12 weeks -> /
+- CNC plasma table cutting up to 3/4" steel -> /services
+- Finishing techniques: blackened steel, patinas, powder coats, clear coats -> /services
+- Forging & blacksmithing capabilities -> /services
+- Client types: Home Owner, Business Owner, Architect/Designer, Interior Designer -> /
+- Shop address: 2000 S. 7th St, Austin TX 78704 -> /
+- Shop hours: Monday-Thursday 7:00 a.m. - 4:00 p.m. -> /
+- Design capabilities: hand-drawn, 2D, 3D -> /services
+</details>
+
+---
+
+# Metaltech Products Inc.
+
+**Old description:** Start cutting away at your custom fabrication needs. Request a quote from us today describing your next project.
+
+## About
+Metaltech Products Inc. operates from Lebanon, Missouri, where Darrel and Dana Bishop founded the company in 1998. With a $76,000 loan they built a 4,000‑square‑foot shop, equipped it with a hydraulic ironworker, band saw, MIG and TIG welders, a drill press and hand tools, and hired their first fabricator, Tony Evans. The business remains family‑owned; the Bishops’ sons, Blake and Brice, now work in the operation.
+
+The shop provides full‑cycle custom metal fabrication: design and product development, laser cutting, punch‑press and automated sawing, forming on four press brakes, CNC and manual machining, MIG, TIG, robotic MIG (GMAW) and resistance spot welding, powder coating for parts up to 26 feet long, and assembly. Quality is managed under ISO 9001:2015, and welding personnel hold American Welding Society certifications.
+
+Metaltech serves OEM manufacturers across a range of sectors, including automotive, furniture and appliance makers—industries specifically noted for spot‑welded components. Customers engage the company for everything from concept sketches and prototypes to production‑volume component parts and pre‑assembled sub‑assemblies.
+
+Darrel Bishop started the company after an outsourcing team at Electrovert and recognizing a gap in the supply of large machine frames. The stated mission emphasizes innovation, continuous improvement and profitability, delivered through a documented quality system and a workforce that includes second‑generation family members.
+
+## Known for
+- Family-owned since 1998 with second-generation leadership
+- ISO 9001:2015 certified quality management system
+- AWS-certified welding technicians and robotic welding operators
+- In-house powder coating for parts up to 26 feet long
+- Regional delivery within 300 miles plus LTL and drop-ship options
+
+## Capabilities
+- Custom Design
+- Product Development
+- Prototyping
+- Laser Cutting
+- Punch Press
+- Automated Sawing
+- Forming (Press Brake)
+- CNC Machining
+- Manual Machining
+- MIG Welding
+- TIG Welding
+- Robotic MIG Welding (GMAW)
+- Resistance Spot Welding
+- Powder Coating
+- Assembly
+- Regional Delivery
+- LTL Shipping
+- Drop Shipping
+
+## Industries
+- OEM Manufacturing
+- Automotive
+- Furniture
+- Appliance
+
+## Equipment
+- Hydraulic Ironworker
+- Band Saw
+- MIG Welder
+- TIG Welder
+- Drill Press
+- Press Brakes (4)
+- Laser Cutting Machine
+- Robotic Welding Cell
+- Powder Coating System (26 ft capacity)
+- Punch Presses
+
+## Certifications
+- ISO 9001:2015
+- AWS Certified Welding
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1998
+- **Ownership:** Family-owned
+- **Headquarters:** Lebanon, Missouri
+
+<details><summary>Sources</summary>
+
+- Founded 1998 by Darrel and Dana Bishop -> /about
+- Family-owned, second generation (Blake and Brice) -> /about
+- Initial 4,000 sq ft facility, equipment list -> /about
+- ISO 9001:2015 certification obtained 2009 -> /about
+- AWS certified welding technicians and robotic operators -> /
+- Powder coating system handles parts up to 26 ft -> /
+- Facility expansions: 60,000 sq ft by 2008, additional 113,000 sq ft in 2015 -> /about
+- Services: design, laser cutting, punch press, sawing, forming, CNC/manual machining, MIG/TIG/robotic/spot welding, powder coating, assembly -> /services
+- Materials: stainless steel, mild steel, HSLA, titanium, aluminum, copper, polycarbonates -> /
+- Industries: OEM manufacturers, automotive, furniture, appliance -> /, /capabilities
+- Regional delivery within 300 miles, LTL, drop-ship -> /
+- Mission: innovation, continuous improvement, profitability -> /about
+</details>
+
+---
+
+# Metric Auto Parts Inc.
+
+**Old description:** Largest local inventory of high quality parts for Euro and Asian vehicles
+
+## About
+Metric Auto Parts Inc. has operated in St. Paul, Minnesota since 1986 as a locally owned and operated supplier of foreign automotive parts. The company was founded to serve the Twin Cities' import vehicle market, focusing exclusively on European and Asian makes.
+
+The business maintains what it describes as the largest local inventory of high-quality parts for Euro and Asian vehicles. It fulfills orders through a combination of free local delivery to established accounts and daily outbound shipping via UPS and Speedee Delivery. Customers can also place orders online through Epicor and PartsTech platforms.
+
+Metric Auto Parts serves independent repair shops, dealerships, and import-car enthusiasts throughout the Minneapolis–St. Paul metro area. Its catalog covers a broad range of replacement components for brands such as BMW, Mercedes-Benz, Audi, Volkswagen, Honda, Toyota, and other Asian and European manufacturers.
+
+The company positions itself as the only dedicated import specialist in the Twin Cities, a distinction it reinforces by noting that its staff are themselves import-car enthusiasts who "drive what you drive."
+
+## Known for
+- Only dedicated import specialist in the Twin Cities
+- Largest local inventory of Euro and Asian vehicle parts
+- Free local delivery to accounts
+- Daily shipping via UPS and Speedee Delivery
+- Online ordering through Epicor and PartsTech
+
+## Capabilities
+- Auto parts distribution
+- Inventory management
+- Local delivery
+- Parcel shipping (UPS, Speedee Delivery)
+- E-commerce order processing (Epicor, PartsTech)
+- Import vehicle parts sourcing
+
+## Industries
+- Automotive aftermarket
+- Import vehicle repair
+- European vehicle parts
+- Asian vehicle parts
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Founded:** 1986
+- **Ownership:** Locally owned and operated
+- **Headquarters:** St Paul, Minnesota
+
+<details><summary>Sources</summary>
+
+- Founded 1986 -> db
+- Headquarters St Paul, Minnesota -> db
+- Locally owned and operated -> /
+- Largest local inventory of high quality parts for Euro and Asian vehicles -> /
+- Free local delivery to accounts -> /
+- Daily shipping via UPS and Speedee Delivery -> /
+- Online ordering through Epicor and PartsTech -> /
+- Only Import Specialists in the Twin Cities -> /
+- True import car enthusiasts - We drive what you drive -> /
+</details>
+
+---
+
+# Metro Fabricating
+
+**Old description:** Metro Fabricating specializes in tailoring enclosures to meet your exact needs.
+
+## About
+Metro Fabricating operates from Bay City, Michigan, where it has been in business for over 30 years. The company is woman-owned.
+
+The shop specializes in custom steel fabrications, offering design from customer prints or from scratch, fabrication, and installation. Its product lines include enclosures, environmental chambers, machine guards, workbenches, and other custom fabrications. Metro Fabricating houses a complete enclosure wiring department that handles panel layout, wiring, and checkout, and provides full paint and powdercoat finishing using a Wagner manual batch system. A 344-station Amada Pega CNC turret punch supports precision punching operations. The facility encompasses thousands of square feet of office and design floor space.
+
+The company serves customers needing custom metal enclosures, environmental test chambers, machine guarding solutions, and industrial workbenches. Its capabilities span from simple projects to complex fabrications, with the ability to manage both assembly and wiring outsourcing.
+
+Metro Fabricating emphasizes its ability to build from client prints or develop designs from scratch, providing turnkey fabrication, wiring, and finishing services under one roof.
+
+## Known for
+- Build from customer prints or design from scratch
+- Complete enclosure wiring department (panel layout, wiring, checkout)
+- Full paint and powdercoat finishing with Wagner batch system
+- CNC turret punching via Amada Pega 344
+- Woman-owned business
+
+## Capabilities
+- Custom steel fabrication
+- Design from customer prints
+- Design from scratch
+- Installation
+- Enclosure wiring (panel layout, wiring, checkout)
+- Paint finishing
+- Powdercoat finishing
+- CNC turret punching
+- Assembly and wiring
+
+## Equipment
+- Amada Pega 344 CNC Turret Punch
+- Wagner Manual Powder Coating Batch System
+
+## Company details
+- **Company Type:** Manufacturer
+- **Ownership:** Woman-owned
+- **Headquarters:** Bay City, Michigan
+
+<details><summary>Sources</summary>
+
+- Location: Bay City, Michigan -> /
+- In business for over 30 years -> /
+- Woman-owned business -> /
+- Custom steel fabrications, design, fabricate, install -> /
+- Products: Enclosures, Environmental Chambers, Machine Guards, Workbenches, Custom Fabrications -> /
+- Enclosure wiring department with panel layout, wiring, checkout -> /
+- Full paint and powdercoat services -> capabilities
+- Wagner Manual Powder Coating Batch System -> capabilities
+- Amada Pega 344 CNC Turret Punch -> products
+- Facility: thousands of square feet of office and design floor space -> capabilities
+- UL Listed certification -> db
+</details>
+
+---
+
+# MetzFab Industries
+
+**Old description:** MetzFab Industries specializes in high quality welding projects for Welding Steel, Aluminum, Copper, Titanium, Nickel Alloys.
+
+## About
+MetzFab Industries operates from Phoenix, Arizona, as a contract manufacturer specializing in custom metal fabrication and CNC machining. The company serves businesses across the United States with a focus on precision components made from steel, aluminum, stainless steel, and exotic alloys.
+
+The shop runs a range of advanced equipment including 7-axis and 8-axis CNC hydraulic press brakes (Nisshinbo and Bystronic), a 5-axis waterjet system cutting at up to 94,000 PSI with ±0.002 in accuracy, multi-axis CNC machining centers, and a robotic welding cell. Services span CNC mandrel tube bending, laser and tube laser cutting, CNC saw cutting, deburring with Timesaver and Lissmac systems, 3D CAD/CAM design, 3D scanning via an Absolute Arm, and full assembly with secondary operations such as coatings and plating coordinated through partner networks.
+
+MetzFab works with aerospace (non-flight-critical), oilfield, military, medical (non-internal components), automotive and motorcycle, industrial, communications/telecom, alternative energy, utility companies, and real estate firms. Past projects include components for truck and auto industries, utility infrastructure, and custom residential fabrications.
+
+The company states its mission is to deliver high-quality metal fabrication to customer specifications in a timely and affordable manner, positioning itself as a partner rather than just a vendor. It emphasizes on-time delivery, precision through state-of-the-art machinery, and the ability to handle projects of any size.
+
+## Known for
+- 5-axis waterjet cutting at 94,000 PSI with ±0.002 in accuracy
+- 7-axis and 8-axis CNC press brakes for complex forming
+- Lights-out laser cutting capability for high-volume runs
+- Robotic welding cell and laser welding for steel, aluminum, copper, titanium, nickel alloys
+- 3D scanning arm for inspection and reverse engineering
+- Established partner network for coatings, plating, and secondary operations
+
+## Capabilities
+- CNC forming (press brake)
+- CNC mandrel tube bending
+- Deburring (Timesaver, vibratory tumbler)
+- CNC saw cutting (vertical band saw with miter)
+- Laser cutting (lights-out operation)
+- Tube laser cutting
+- Standard and 5-axis waterjet cutting
+- CNC machining (multi-axis)
+- 3D CAD/CAM design and assemblies
+- Precision TIG, MIG, ARC welding and fixturing
+- General metal fabrication and design
+- Precision sheet metal work (machining, punching, forming)
+- Product manufacturing and assembly
+- Stainless steel fabrication
+- 3D scanning (Absolute Arm 7-axis)
+- Laser welding
+- Robotic welding cell
+- Custom metal fabrication
+- CNC automated machining
+- Waterjet cutting (up to 94,000 PSI)
+- Design and prototype guidance
+- Secondary operations coordination (coatings, plating)
+
+## Industries
+- Aerospace (non-flight-critical)
+- Oilfield
+- Military
+- Medical (non-internal components)
+- Automotive and Motorcycle
+- Industrial
+- Communications/Telecom
+- Alternative Energy
+- Utilities
+- Real Estate
+
+## Equipment
+- Nisshinbo NSB 125-3100 7-Axis CNC Hydraulic Press Brake
+- BYSTRONIC XPERT 40 8-Axis CNC Hydraulic Press Brake
+- 36" Wet – Timesaver Series 2100
+- LISSMAC SBM -M1500
+- 300 DM MR Deburr/Vibratory Tumbler
+- CNC saw cutting equipment (vertical band saw with miter cutting)
+- Laser cutting equipment (lights-out operation)
+- Tube laser cutting equipment
+- Standard and 5-axis waterjet cutting equipment (up to 94,000 PSI)
+- Multi-axis CNC machines
+- 3D CAD/CAM systems
+- Absolute Arm 7-Axis (3D scanning arm)
+- Laser welding equipment
+- Welding robotic cell
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Headquarters:** Phoenix, Arizona
+
+<details><summary>Sources</summary>
+
+- Location: Phoenix, Arizona -> db (hq_city, hq_state_label) and home page
+- Contract manufacturer description -> home page
+- Services list (CNC forming, tube bending, deburring, saw cutting, laser cutting, tube laser, waterjet, CNC machining, CAD/CAM, welding, fabrication, sheet metal, assembly, stainless fabrication, 3D scanning, laser welding, robotic welding) -> home page and services page
+- Equipment names (Nisshinbo press brake, Bystronic press brake, Timesaver, Lissmac, vibratory tumbler, CNC saw, waterjet 94k PSI, Absolute Arm) -> services page
+- Industries served (Aerospace, Oilfield, Military, Medical, Automotive, Industrial, Communications/Telecom, Alternative Energy, Utilities, Real Estate) -> home page and industries_served
+- Materials (steel, aluminum, stainless, copper, titanium, nickel alloys, carbon steel, acrylic, glass, granite, composites) -> description, home page, services page
+- Waterjet tolerance ±0.002 in -> services page
+- Mission statement -> about page
+- Testimonials mentioning Mike, Brandon, Carol -> home page and services page
+</details>
+
+---
+
+# Miami Valley Precision
+
+**Old description:** Miami Valley Precision Incorporated is a company dedicated to supplying
+
+## About
+Miami Valley Precision Incorporated operates from Miamisburg, Ohio, providing precision machined components to customers who outsource CNC machining. The company’s quality system meets the requirements of MIL-1-45208, with all measuring and testing equipment calibrated to MIL-STD-45662A.
+
+The shop runs CNC milling and turning operations, covering prototype through high-production volumes. Its equipment includes HAAS VF-3 vertical machining centers, ARGO SEIKI twin-pallet vertical machining centers, DAEWOO and DAEWOO LYNX CNC turning centers, and a DELTRONIC DH214 CNC optical comparator for inspection. High-speed machining capability supports tight-tolerance work.
+
+The company serves the medical implant sector, notably producing titanium medical implants, and works with any customer requiring outsourced CNC milling or turning.
+
+Miami Valley Precision emphasizes quality assurance, on-time delivery, and competitive pricing through continuous improvement, aiming to build long-term relationships with clients who need reliable machining partners.
+
+## Known for
+- Quality system compliant with MIL-1-45208 and MIL-STD-45662A calibration
+- High-speed CNC machining on HAAS and ARGO SEIKI vertical machining centers
+- Prototype through high-volume production runs
+- In-house CNC milling and turning with DAEWOO turning centers
+- Optical inspection via DELTRONIC DH214 comparator
+
+## Capabilities
+- CNC milling
+- CNC turning
+- High-speed machining
+- Prototype machining
+- High-volume production
+- Optical inspection
+- Precision machining
+
+## Industries
+- Titanium medical implants
+
+## Equipment
+- HAAS VF-3 vertical machining centers
+- ARGO SEIKI twin-pallet vertical machining centers
+- DAEWOO CNC turning centers
+- DAEWOO LYNX CNC turning centers
+- DELTRONIC DH214 CNC optical comparator
+
+## Certifications
+- MIL-1-45208
+- MIL-STD-45662A
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Headquarters:** Miamisburg, Ohio
+
+<details><summary>Sources</summary>
+
+- Location: Miamisburg, Ohio -> db
+- Quality system meets MIL-1-45208 and calibrated to MIL-STD-45662A -> page /
+- CNC milling and turning, prototype to high production -> page /
+- Equipment: HAAS VF-3, ARGO SEIKI twin-pallet, DAEWOO turning centers, DAEWOO LYNX, DELTRONIC DH214 optical comparator -> page /
+- Industry: Titanium medical implants -> db industries_served
+- High-speed machining capability -> page /
+- Emphasis on quality assurance, on-time delivery, competitive pricing -> page /
+</details>
+
+---

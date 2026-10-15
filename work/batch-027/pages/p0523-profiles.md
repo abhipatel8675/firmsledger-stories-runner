@@ -1,0 +1,644 @@
+# Domico Med-Device, LLC
+
+**Old description:** Delivering high-quality, reliable medical devices through precision manufacturing and compliance-driven processes.
+
+## About
+Domico Med-Device is based in Fenton, Michigan. The company became an independent business after spinning out of a larger organization, driven by a vision to serve as a supplier of high-quality medical products worldwide.
+
+The company designs, develops, and manufactures patient interface solutions for diagnostic imaging, image-guided therapy, and surgical applications. Its vertically integrated capabilities include compression molding, foam fabrication, machining, tool design and build, sewing, sealing, coating, vacuum forming, and final product assembly. Materials processed range from carbon fiber and thermoplastic sheets such as ABS, Kydex, and polycarbonate to open- and closed-cell foams and vinyl coatings. Domico reports serving over 650,000 product users each month with a 99% on-time shipment rate and a 99.8% customer acceptance rate.
+
+Domico serves healthcare professionals, distributors, OEMs, and product inventors in the medical device industry. Its product portfolio includes MRI positioning aids, operating room cord management and arm positioning devices, and a range of table pads designed for secure support and pressure relief. The company also provides contract manufacturing of components and assemblies for medical device OEMs.
+
+Domico emphasizes its vertically integrated model—taking products from concept to market under one roof—to streamline timelines, reduce risk, and ensure consistency. The company states its mission is to empower healthcare innovation by delivering reliable, compliant manufacturing solutions that improve patient outcomes and enhance operational efficiency.
+
+## Known for
+- FDA-registered and ISO 13485:2016 certified facility
+- 99% on-time shipment performance
+- Vertically integrated concept-to-market capabilities under one roof
+- Serves 650,000+ product users monthly
+- 99.8% customer acceptance rate
+
+## Capabilities
+- Compression Molding
+- Foam Fabrication
+- Machining
+- Tool Design and Build
+- Sewing
+- Sealing
+- Coating
+- Vacuum Forming
+- Product Assembly
+- Product Design & Development
+- Contract Manufacturing
+
+## Industries
+- Medical Device Manufacturing
+- Diagnostic Imaging
+- Image-Guided Therapy
+- Surgical Applications
+
+## Certifications
+- ISO 13485:2016
+- ISO 11137-1:2006/Amd 2:2018
+- ISO 11135:2014/Amd 1:2018
+- FDA Registered
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Fenton, Michigan
+
+<details><summary>Sources</summary>
+
+- Headquarters: Fenton, Michigan -> /about-us
+- Became independent from larger organization -> /about-us
+- Capabilities: compression molding, foam fabrication, machining, tool design and build, sewing, sealing, coating, vacuum forming, product assembly -> /
+- Materials: carbon fiber, thermoplastic sheets (ABS, Kydex, polycarbonate), open/closed-cell foam, vinyl -> /
+- Scale metrics: 650,000+ product users monthly, 99% on-time shipments, 99.8% customer acceptance -> /about-us
+- Industries: medical device manufacturing, diagnostic imaging, image-guided therapy, surgical applications -> /
+- Customer types: healthcare professionals, distributors, OEMs, inventors -> /
+- Products: MRI positioning aids, operating room cord management, arm positioning, table pads -> /
+- Certifications: ISO 13485:2016, ISO 11137-1:2006/Amd 2:2018, ISO 11135:2014/Amd 1:2018, FDA Registered -> /
+- Mission: empower healthcare innovation through reliable compliant manufacturing -> /about-us
+- Vertically integrated concept-to-market under one roof -> /about-us
+</details>
+
+---
+
+# Don's Supply
+
+**Old description:** For the best experience on our site, be sure to turn on Javascript in your browser.
+
+## About
+Don's Supply, Inc. is a family-owned distributor of restaurant equipment and supplies headquartered in Little Rock, Arkansas. The company has been family owned and operated for over 50 years, though a specific founding year is not publicly disclosed. The business was established to serve the food-service industry across the state.
+
+The firm stocks and sells a broad range of food-service products, including cooking equipment, refrigeration, dishwashing machines, smallwares, tabletop items, cleaning supplies, and concession equipment. It carries brands such as Koala Kare (baby-changing stations) and TableCraft (bar supplies, beverage dispensers, and servingware). No facility size, headcount, or annual volume figures are published.
+
+Customers range from large food-service establishments to home kitchens, with a focus on the Arkansas market. The product catalog covers restaurants, bars, cafeterias, catering operations, and concession stands. The company also provides financing options to help buyers acquire equipment.
+
+Don's Supply emphasizes its family ownership, knowledgeable staff, and competitive pricing as key differentiators. The company's website highlights a commitment to making equipment purchasing easy for operators of any scale.
+
+## Known for
+- Family owned and operated for over 50 years
+- Competitive pricing on restaurant supplies and equipment in Arkansas
+- Knowledgeable staff available for product guidance
+- Financing options available for equipment purchases
+
+## Capabilities
+- Restaurant equipment and supplies distribution
+- Food service equipment sales
+- Equipment financing
+
+## Industries
+- Food service
+- Restaurant
+- Hospitality
+- Concessions
+- Catering
+- Bar and beverage
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Ownership:** Family-owned
+- **Headquarters:** Little Rock, Arkansas
+
+<details><summary>Sources</summary>
+
+- Family owned and operated for over 50 years -> /
+- Headquartered in Little Rock, Arkansas -> /
+- Distributes restaurant equipment and supplies -> /
+- Carries Koala Kare and TableCraft brands -> db
+- Offers financing options -> /
+- Knowledgeable staff emphasized -> /
+- Focus on Arkansas market -> /
+</details>
+
+---
+
+# Don’s Sugar Shack
+
+**Old description:** CDL Maple Equipment & Supply Distributor for Minnesota and Western Wisconsin
+
+## About
+Don's Sugar Shack operates from Taylors Falls, Minnesota, in the St. Croix River Valley. The business was established by Don, who draws on 26 years of hands-on maple syruping experience to serve producers across Minnesota and western Wisconsin.
+
+As a sub-dealer of Roth Sugar Bush, the company distributes CDL maple sugaring equipment for every stage of production: taps, buckets, bags, tubing fittings, small wood- and propane-fired evaporators, filter presses, reverse-osmosis systems, and stainless-steel fittings. It also runs a seasonal retail shop in downtown Taylors Falls selling pure maple syrup and bourbon barrel-aged syrup, and holds a Minnesota Department of Agriculture Wholesale Food Producer License (#20155282). Equipment sales are handled from a red barn while the retail location operates Thursday through Sunday from April through December.
+
+Customers range from commercial maple producers to backyard hobbyists throughout the St. Croix Valley and western Wisconsin. The shop supplies both the hardware for sap collection and processing and the finished syrup for gift and home use.
+
+Don's Sugar Shack differentiates itself with free, experience-based advice on equipment selection and syrup making, and by offering pricing that the company says beats big-box retailers. The combination of equipment distribution, licensed wholesale production, and direct retail creates a one-stop resource for the regional maple industry.
+
+## Known for
+- Sub-dealer of Roth Sugar Bush for CDL equipment
+- Free technical advice from 26 years of maple syruping
+- Pricing positioned below big-box retailers
+- One-stop shop for equipment, supplies, and finished syrup
+- Licensed wholesale food producer in Minnesota
+
+## Capabilities
+- Maple sugaring equipment distribution
+- Maple syrup retail sales
+- Wholesale maple syrup production
+- Technical consulting for maple producers
+
+## Industries
+- Maple syrup production
+- Agriculture
+- Food production
+- Specialty food retail
+
+## Certifications
+- MN Department of Agriculture Wholesale Food Producer License #20155282
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Headquarters:** Taylors Falls, Minnesota
+
+<details><summary>Sources</summary>
+
+- CDL Maple Equipment & Supply Distributor for Minnesota and Western Wisconsin -> db
+- Sub dealer of Roth Sugar Bush -> /
+- 26 years of maple syruping experience -> /
+- Two locations: 842 West Street (equipment) and 395 Bench Street (retail) -> /
+- MN Department of Agriculture Wholesale Food Producer License #20155282 -> / and db
+- Serves maple producers and hobbyists in Minnesota and Western Wisconsin -> /
+- Offers free advice on equipment selection and syrup making -> /
+- Prices that big box stores can't match -> /
+</details>
+
+---
+
+# Doral Corporation
+
+**Old description:** We relocate everything from small machining centers and lathes to large corrugators and 16,000T hydraulic presses.
+
+## About
+Doral Corporation operates from Milwaukee, Wisconsin, where it has built over 60 years of experience in rigging, fabrication, erecting, and installation. The company’s history in heavy machinery moving and custom metal fabrication spans decades, though a specific founding year and ownership structure are not publicly disclosed.
+
+The firm provides a broad range of industrial services. Its rigging division relocates equipment ranging from small machining centers and lathes to 16,000-ton hydraulic presses and large corrugators. A dedicated fabrication shop—equipped with a PythonX 7-axis robotic plasma cutter, a 4,000-watt laser, a 400-ton press brake, and assorted saws, rolls, lathes, and mills—produces structural steel, food-grade stainless, aluminum, and plastic components. The shop handles one-off jobs through multiples, including platforms, catwalks, hoppers, chutes, and custom plastic tunnels for automotive clean rooms. Additional capabilities cover conveyor installation, material-handling systems, data-center deployment logistics, water and wastewater project construction, and machinery assembly and repair.
+
+Doral serves food and beverage manufacturers, automotive clean-room builders, data-center hyperscalers and their contractors, municipal water-treatment facilities, and distribution, warehouse, and baggage-handling operators across the Midwest. Typical contacts include plant engineers and maintenance personnel who require on-site measuring, custom design, and turnkey installation.
+
+The company emphasizes its AISC-certified fabrication quality and investment in advanced cutting technology—such as the PythonX system—to reduce lead times and costs. It also highlights specialized knowledge of food-industry sanitation requirements and the ability to manage high-volume, modular data-center rollouts.
+
+## Known for
+- AISC-certified structural steel fabrication
+- PythonX 7-axis robotic plasma cutting system
+- Over 60 years in rigging, fabrication, erecting, and installation
+- Food-grade fabrication and sanitary installation expertise
+- Turnkey data-center logistics and modular infrastructure deployment
+
+## Capabilities
+- Machinery Moving & Rigging
+- Heavy Machine Rigging, Moving & Installation
+- Millwright Services
+- Fabrication Job Shop (one-off to multiples)
+- Food Grade Fabrication
+- Aluminum & Stainless Steel Fabrication
+- Structural Steel Fabrication
+- Platform, Catwalk, Handrail, Stair, Ladder & Decking Fabrication
+- Hopper & Chute Fabrication
+- Onsite Measuring & In-house Custom Design
+- Blasting & Painting
+- Machining Services
+- Industrial Sheet Metal Fabrication
+- Industrial Ventilation Fabrication
+- Custom Plastic Tunnels for Automotive Clean Rooms
+- Conveyor Installation
+- Material Handling Solutions
+- Data Center Deployment & Turnkey Logistics
+- Water/Wastewater Project Construction
+- Machinery Assembly & Repair
+- Production & Packaging Line Relocation
+- Injection Molding Machinery Services
+- Blow Molding Machinery Services
+- Long/Short-term Maintenance Support
+
+## Industries
+- Food & Beverage
+- Automotive (Clean Rooms)
+- Data Centers (Hyperscalers, General Contractors, Subcontractors)
+- Water & Wastewater Treatment
+- Distribution, Warehouse, Post, Parcel & Baggage Handling
+- Municipalities
+- General Manufacturing
+
+## Equipment
+- Python® Plasma Cutting 7 Axis Beam Processor
+- Plasma Table HD 400 Amp 8' x 24' Table with Flame Cutting Attachment
+- 4,000 Watt Laser 5' x 10'
+- 400 Ton Press Brake
+- Shearing Capabilities
+- 5" Boring Bar
+- Marvel Saws
+- Plate & Sheet Rolls
+- Lathes
+- Mills
+- Whitney Punch
+
+## Certifications
+- AISC Certified
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Headquarters:** Milwaukee, Wisconsin
+
+<details><summary>Sources</summary>
+
+- Headquarters: Milwaukee, Wisconsin -> db
+- Over 60 years of experience in rigging, fabrication, erecting, and installation -> /about-us
+- Machinery moving and rigging up to 16,000-ton hydraulic presses -> /
+- Fabrication shop with PythonX 7-axis robotic plasma cutter, 4,000-watt laser, 400-ton press brake, etc. -> /services
+- AISC Certified fabrication -> /services
+- Food-grade fabrication and sanitary installation expertise -> /
+- Data center deployment, modular infrastructure, turnkey logistics -> /
+- Water/wastewater project construction for municipalities and contractors -> /
+- Conveyor installation and material handling solutions -> /
+- Industries served: food & beverage, automotive clean rooms, data centers, water/wastewater, distribution/warehouse -> / and /services
+- Equipment list: Python® Plasma Cutting 7 Axis Beam Processor, Plasma Table HD 400 Amp 8' x 24', 4,000 Watt Laser 5' x 10', 400 Ton Press Brake, Shearing Capabilities, 5" Boring Bar, Marvel Saws, Plate & Sheet Rolls, Lathes, Mills, Whitney Punch -> /services
+- Materials: carbon steel, stainless steel, aluminum, alloys, plastics -> /services
+- LinkedIn URL -> db
+</details>
+
+---
+
+# Double L Manufacturing
+
+**Old description:** YOUR SOURCE FOR AMERICAN-MADE ATTACHMENTS & CUSTOM FABRICATION
+
+## About
+Double L Manufacturing operates from Clay Center, Kansas, where it was founded in 2016 by Thomas as a modest 2,500-square-foot repair and fabrication shop. The locally owned company took its name from the initials of Thomas’s children, Leslie and Logan, reflecting a desire to build a legacy that would last beyond his lifetime.
+
+The shop produces a line of American-made skid steer and tractor attachments for dealers, farmers, ranchers, and contractors, while also providing custom fabrication for industrial, commercial, and residential clients. Capabilities span conventional and high-definition plasma cutting on a 7-by-12-foot table, a 140-ton CNC hydraulic press brake, a 45-ton punch, CNC milling and turning, automated vertical bandsaws (Marvel V10A and Marvel 81), a coldsaw, and in-house surface preparation including Clemco garnet blasting, a three-stage wash system, a 26-by-10-by-8-foot curing oven, and powder-coat and Cerakote finishing. The facility has expanded to a second building and handles work from single prototypes to full production runs.
+
+Customers include agricultural producers, construction contractors, equipment dealers, and landowners throughout the Midwest, as well as industrial and commercial firms needing structural components, decorative metalwork, railings, and custom signage.
+
+Thomas started the business to create something meaningful and enduring, rooted in Midwestern values of honesty and dedication. The company emphasizes precision at every step, flexible scaling from prototype to production, and a customer-focused approach built on long-term relationships.
+
+## Known for
+- Precision at every step with advanced equipment and expert machinists
+- Quality assurance through precision, consistency, and attention to detail
+- Flexible production scaling from single prototypes to full runs
+- Locally owned and customer-focused, building long-term community relationships
+- In-house design and engineering with CAD/CAM capabilities
+
+## Capabilities
+- Conventional plasma cutting
+- High-definition plasma cutting (7ft x 12ft)
+- CNC hydraulic press brake (140 ton)
+- Punching (45 ton)
+- CNC milling
+- CNC turning
+- Drill tapping
+- Vertical bandsaw (Marvel V10A)
+- Vertical bandsaw (Marvel 81 Automatic)
+- Coldsaw cutting
+- Abrasive blasting (Clemco with garnet media)
+- 3-stage wash pretreatment
+- Curing oven (26' x 10' x 8')
+- Powder coating
+- Cerakote coating
+- In-house design and engineering
+- CAD/CAM
+- Custom fabrication
+- Skid steer attachment manufacturing
+- Tractor attachment manufacturing
+- Architectural metal fabrication
+- Custom signage fabrication
+- Railing fabrication
+
+## Industries
+- Agriculture
+- Construction
+- Equipment dealers
+- Industrial
+- Commercial
+- Residential
+
+## Equipment
+- High-definition plasma cutter (7ft x 12ft)
+- CNC hydraulic press brake (140 ton)
+- Punch (45 ton)
+- CNC lathe & mill
+- Vertical bandsaw (Marvel V10A)
+- Vertical bandsaw (Marvel 81 Automatic)
+- Coldsaw
+- Clemco blast system with garnet media
+- 3-stage wash prep area
+- Curing oven (26' x 10' x 8')
+- Powder coat & Cerakote booth
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 2016
+- **Ownership:** Locally owned
+- **Headquarters:** Clay Center, Kansas
+
+<details><summary>Sources</summary>
+
+- Founded in 2016 -> /about-us
+- Founder Thomas named company after children Leslie and Logan -> /about-us
+- Started as 2,500 sq ft repair and fabrication shop -> /about-us
+- Expanded to second building -> /about-us
+- Produces skid steer and tractor attachments -> /
+- Custom fabrication for industrial, commercial, residential -> /
+- Capabilities: conventional plasma, high-definition plasma (7x12 ft), CNC press brake 140 ton, 45 ton punch, CNC milling/turning, drill tap, vertical bandsaws (Marvel V10A, Marvel 81), coldsaw, Clemco blast, 3-stage wash, curing oven 26x10x8, powder coat, Cerakote -> /services
+- In-house design and engineering with CAD/CAM -> /services
+- Serves dealers, farmers, ranchers, contractors, landowners across Midwest -> /
+- Serves industrial, commercial, residential clients -> /
+- Company emphasizes precision, quality, flexible scaling, locally owned -> /services
+</details>
+
+---
+
+# DownEastWoodArt
+
+**Old description:** The image is a five-drawer multi-wood chest of drawers made for my daughter.
+
+## About
+DownEast Wood Art operates from a shop in South Portland, Maine, where founder James Vander Schaaf designs and builds custom furniture. After a career that included graduate degrees in naval architecture and aerospace engineering from the University of Michigan, a master's in computer science from Johns Hopkins, and a role managing advanced shipbuilding technology and CAD/CAM at Bath Iron Works, Vander Schaaf established the business to focus on woodworking.
+
+The shop produces one-of-a-kind furniture pieces and accepts commissions, working primarily with domestic hardwoods such as black cherry, figured maple (including tiger, birdseye, and spalted varieties), walnut, and ash. Processes encompass traditional joinery, hand and power tool work, jig and fixture making, design, and finishing. Vander Schaaf also offers woodworking education, sharing techniques ranging from tool safety to advanced methods.
+
+The business serves individual clients seeking custom furniture and students pursuing woodworking instruction. Pieces such as a five-drawer multi-wood chest have been created for private clients, and the shop has been featured by the South Portland Development Department. No specific industrial sectors are cited.
+
+Vander Schaaf describes woodworking as a craft that provides long-term satisfaction through continuous learning and the connection of skill with purpose. He emphasizes the use of premium materials and the pursuit of perfection in each piece, drawing on his engineering background to inform design and construction.
+
+## Known for
+- Custom furniture commissions
+- Woodworking education and instruction
+- Premium domestic hardwoods (black cherry, figured maple, walnut, ash)
+- Founder's background in naval architecture and advanced manufacturing (Bath Iron Works)
+
+## Capabilities
+- Woodworking education
+- Custom furniture commissions
+- Furniture design and construction
+- Joinery
+- Finishing
+- Hand tool woodworking
+- Power tool woodworking
+- Jig and fixture making
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** South Portland, Maine
+
+<details><summary>Sources</summary>
+
+- Founder James Vander Schaaf -> /about
+- Location South Portland, Maine -> db
+- Materials: black cherry, figured maple (tiger, birdseye, spalted), walnut, ash -> /about
+- Services: woodworking education, commissions, furniture for sale -> /
+- Background: naval architecture, aerospace engineering, computer science, Bath Iron Works CAD/CAM manager -> /about
+- Product example: five-drawer multi-wood chest -> /
+- Featured by South Portland Development Department -> /
+</details>
+
+---
+
+# Downriver Plastics Inc
+
+**Old description:** We provide custom fabrication and material sales for everyone from the Big 3 to local hospitals to our residential neighbors.
+
+## About
+Downriver Plastics Inc. was founded in 1986 in Canton Township, Michigan. The company operates as a custom fabrication and sheet supplier, serving a mix of industrial, medical, and residential customers.
+
+The shop provides plastic fabrication and precision machining services, including CNC routing, CNC cutting, flame polishing, buff polishing, line bending, oven forming, drilling, and milling. It produces prototypes and runs mass-production orders, fabricating items such as machine guards, conveyor-line components, polycarbonate parts hoppers, museum vitrines, signage, and display cases. The facility also stocks a variety of plastic sheets and offers cut-to-size service while customers wait.
+
+Downriver Plastics works with the Detroit-area automotive "Big 3," local hospitals, and residential clients, as well as businesses needing signage, museum displays, and industrial components. Its customer base spans automotive, healthcare, signage, museum, and general industrial sectors.
+
+The company emphasizes its over 40 years of experience, same-day delivery availability, and a willingness to handle projects at any stage from prototype through full production.
+
+## Known for
+- Cut to size while you wait
+- Same-day delivery services available
+- Over 40 years of experience
+- Prototypes to mass production
+
+## Capabilities
+- CNC cutting
+- CNC routing
+- Flame polishing
+- Buff polishing
+- Line bending
+- Oven forming
+- Drilling
+- Milling
+- Sign fabrication
+- Museum case fabrication
+- Trophy case fabrication
+- Machine guard fabrication
+- Conveyor line component fabrication
+- Polycarbonate parts hopper fabrication
+- Custom acrylic lettering
+- Acrylic sign panel polishing
+- Checkout lite head fabrication
+- Jersey case fabrication
+- Custom store fixture fabrication
+- Plastic sheet supply
+- Cut-to-size service
+
+## Industries
+- Automotive
+- Healthcare
+- Signage
+- Museum
+- Industrial Manufacturing
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 1986
+- **Headquarters:** Canton Township, Michigan
+
+<details><summary>Sources</summary>
+
+- Founded 1986 -> db
+- Headquarters Canton Township, Michigan -> db
+- Custom fabrication and sheet supplier -> homepage
+- Over 40 years experience -> homepage
+- Services: CNC cutting, CNC routing, flame polishing, buff polishing, line bending, oven forming, drilling, milling -> /services
+- Products: prototypes, mass production, consultation -> homepage
+- Customers: Big 3, local hospitals, residential neighbors -> homepage
+- Same-day delivery available -> homepage
+- Cut to size while you wait -> /services
+- Materials: plastic sheets, polycarbonate, acrylic -> homepage and /services
+- Industries: automotive (Big 3), healthcare (hospitals), signage, museum, industrial -> from text
+</details>
+
+---
+
+# Dravon Medical Inc
+
+**Old description:** Dravon Medical provides medical device contract manufacturing, custom
+
+## About
+Dravon Medical Inc. operates from Clackamas, Oregon, where it was founded in 1974. The company has spent over five decades as a medical device manufacturer and contract manufacturing partner for original equipment manufacturers (OEMs).
+
+The company produces disposable medical tubing clamps — including the True Blue A-Clamp for fluid occlusion and the T-Clamp for securing towels, drapes, and sponges — as well as custom medical fluid and IV bags manufactured via radio frequency (RF) welding and heat sealing. Its FDA-registered, ISO 13485:2016 certified facility includes two ISO Class 7 cleanrooms dedicated to RF welding, heat sealing, assembly, and packaging. Dravon supports projects from prototype tooling through full-scale production, offering design-for-manufacturing guidance and small-volume flexibility.
+
+Dravon serves medical device OEMs and healthcare professionals across dialysis, blood collection, blood banking, fluid management, and clinical or surgical environments. Its clamps and bags are used in applications ranging from dialysis and blood collection to surgical draping, while its contract manufacturing services support OEMs needing cleanroom assembly, packaging, and regulatory-compliant production.
+
+The company emphasizes its quality management system built on repeatability, traceability, validation, and regulatory compliance. It highlights decades of expertise in RF-welded thermoplastic bags (including PVC, non-DEHP, and PVC-free films), responsive engineering support, and long-term OEM partnerships as key differentiators.
+
+## Known for
+- Prototype through production support
+- Responsive engineering and design-for-manufacturing guidance
+- Two ISO Class 7 cleanrooms for RF welding, heat sealing, assembly, and packaging
+- FDA registered and ISO 13485:2016 certified quality system
+- Decades of experience with RF-welded medical fluid bags and disposable clamps
+
+## Capabilities
+- RF welding of thermoplastic medical fluid bags
+- Heat sealing
+- Cleanroom assembly (ISO Class 7)
+- Cleanroom packaging (ISO Class 7)
+- Custom medical fluid/IV bag manufacturing
+- Disposable medical tubing clamp manufacturing (A-Clamps, T-Clamps)
+- Tooling for prototypes
+- Design for manufacturing (DFM) support
+- Contract manufacturing for medical device OEMs
+- Small-volume production flexibility
+
+## Industries
+- Medical device manufacturing
+- Healthcare
+- Dialysis
+- Blood collection
+- Blood banking
+- Fluid management
+- Clinical and surgical environments
+
+## Equipment
+- RF welding equipment
+- Heat sealing equipment
+- Two ISO Class 7 cleanrooms
+
+## Certifications
+- ISO 13485:2016
+- FDA Registered
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1974
+- **Headquarters:** Clackamas, Oregon
+
+<details><summary>Sources</summary>
+
+- Headquarters: Clackamas, Oregon -> db
+- Founded: 1974 -> /
+- Products: disposable medical tubing clamps (A-Clamps, T-Clamps), custom medical fluid/IV bags -> /
+- Processes: RF welding, heat sealing, cleanroom assembly, packaging, tooling for prototypes -> /
+- Facility: FDA registered, ISO 13485:2016 certified, two ISO Class 7 cleanrooms -> /
+- Capabilities: prototype to production, DFM support, small-volume flexibility -> /
+- Industries served: medical device OEMs, dialysis, blood collection, blood banking, fluid management, clinical/surgical -> /
+- Materials: PVC, non-DEHP, PVC-free films, reinforced nylon, aluminum rivet -> /
+- Quality: ISO 13485:2016, FDA QMSR/GMP compliance, inspection & traceability -> /
+- Differentiators: decades of RF-welded bag expertise, trusted clamps, responsive engineering, long-term OEM partnerships -> /
+</details>
+
+---
+
+# Drug Plastics & Glass Co
+
+**Old description:** Our boutique-style business is large enough to meet the most demanding bottle and closure packaging system requests, but small enough to care about the success of your business.
+
+## About
+Drug Plastics & Glass Co., Inc. is headquartered in Elysburg, Pennsylvania. The company was founded in 1963 by Fred and Suzanne Biesecker, who began as plastic pill bottle wholesalers operating from their home basement in Boyertown, Pennsylvania. It remains family-owned and is also a woman-owned business, currently led by CEO Rick Biesecker and President Lissa Biesecker Longacre.
+
+The company manufactures HDPE, LDPE, PP, and PET plastic bottles and closures for medicinal, wellness, and lifestyle products. It operates eight manufacturing facilities across the United States and maintains the largest selection of bottle molds in the industry, enabling quick production-ready solutions. Drug Plastics offers custom design services for unique packaging specifications, as well as a broad range of stock bottles and closures including continuous thread, snap cap, dispensing, and child-resistant styles. All products are made in the USA under cGMP procedures using FDA-approved and ASTM-tested resins.
+
+Drug Plastics serves producers of prescription drugs, self-care medications, supplements, vitamins, and lifestyle products. Its customer base spans the pharmaceutical, health, beauty, and wellness sectors. The company emphasizes direct manufacturer relationships, providing customers with over 60 years of manufacturing expertise without intermediaries.
+
+The company differentiates itself through a commitment to "perfect bottles and closures every time," aiming for predictable, repeatable quality that keeps filling lines running smoothly. It highlights responsiveness, dependability, and a family-values culture as core to its customer experience. ISO 15378 certification underscores its focus on continuous improvement in manufacturing processes and quality systems for primary packaging materials.
+
+## Known for
+- Largest selection of stock bottles in the industry
+- Eight strategically located U.S. manufacturing facilities
+- ISO 15378 certified for primary packaging materials
+- All bottles and closures manufactured in the USA
+- Family-owned and woman-owned with over 60 years of manufacturing experience
+
+## Capabilities
+- Custom plastic packaging design
+- Injection molding of plastic bottles
+- Injection molding of plastic closures
+- Stock bottle and closure inventory
+- cGMP-compliant manufacturing
+- ISO 15378 quality management
+- Product traceability (date/time per carton)
+- Flexible scheduling and on-time delivery
+
+## Industries
+- Pharmaceutical
+- Health and beauty
+- Wellness
+- Supplements
+- Vitamins
+- Lifestyle products
+
+## Certifications
+- ISO 15378
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1963
+- **Ownership:** Family-owned, Woman-owned
+- **Headquarters:** Elysburg, Pennsylvania
+
+<details><summary>Sources</summary>
+
+- Founded 1963 by Fred and Suzanne Biesecker -> /about
+- Headquartered in Elysburg, Pennsylvania -> db
+- Family-owned and woman-owned -> /about
+- Manufactures HDPE, LDPE, PP, PET bottles and closures -> /about
+- Eight manufacturing facilities -> /about
+- Largest selection of bottle molds in the industry -> /
+- ISO 15378 certified -> /about
+- cGMP procedures -> /about
+- FDA-approved and ASTM-tested materials -> /about
+- Serves pharmaceutical, health, beauty, wellness, supplements, vitamins, lifestyle -> /about
+- Custom design services -> /
+- Stock bottles and closures -> /
+- All products made in USA -> /about
+- Traceability per carton -> /about
+- On-time delivery with flexible scheduling -> /about
+- CEO Rick Biesecker, President Lissa Biesecker Longacre -> /about
+- Began as wholesalers in basement in Boyertown -> /about
+</details>
+
+---
+
+# Durango Sheet Metal LLC
+
+**Old description:** Providing precise and customized sheet metal fabrication services professionally in North Las Vegas.
+
+## About
+Durango Sheet Metal LLC operates from North Las Vegas, Nevada. The company’s founding year and ownership structure have not been publicly disclosed.
+
+The shop provides custom sheet metal fabrication services, employing laser cutting for accurate part production, precision bending to meet exact specifications, welding and assembly for structural integrity, and hardware installation. The company describes its laser cutting techniques as ensuring accurate and precise fabrications, its welding and assembly as bringing designs to life with strength and durability, and its bending service as shaping metal parts to exact specifications. No details on facility square footage, employee count, or typical production volumes are available.
+
+The company does not list specific industries served or named customer references in its public materials. No stated mission or differentiation claim is provided in the available sources.
+
+## Capabilities
+- Laser cutting
+- Welding and assembly
+- Precision metal bending
+- Hardware installation
+- Sheet metal fabrication
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Headquarters:** North Las Vegas, Nevada
+
+<details><summary>Sources</summary>
+
+- Company name: Durango Sheet Metal LLC -> db
+- Headquarters: North Las Vegas, Nevada -> db
+- Service: Laser cutting -> db
+- Service: Welding and assembly -> db
+- Service: Precision metal bending -> db
+- Service: Hardware installation -> db
+- Service: Sheet metal fabrication -> db
+</details>
+
+---
