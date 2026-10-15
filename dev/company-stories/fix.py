@@ -29,12 +29,12 @@ def clean_text(t,bad):
     if keep: out.append(' '.join(keep))
   return '\n\n'.join(out)
 
-def fix(o,src):
+def fix(o,src,site=None):
   o=safeio.clean_model(o)
   if o.get('skip') or not o.get('about'): return o,[]
   log=[]
   certs=o.get('certifications') or []
-  badc=[c for c in certs if not cert_ok(c,src)]
+  badc=[c for c in certs if not cert_ok(c,src if site is None else site)]
   o['certifications']=[c for c in certs if c not in badc]
   fields=o['about']+' '+' '.join(o.get('built_on') or [])+' '+' '.join(str(o.get(k) or '') for k in ['volume','lead_time','tolerances'])
   badn=[n for n in set(re.findall(r'\d[\d,.:]*\d|\d{2,}',fields)) if not num_ok(n,src)]
@@ -51,11 +51,13 @@ def fix(o,src):
 
 if __name__=='__main__':
   for f in sorted(glob.glob(sys.argv[1]+'/*-profiles.json')):
-    src={r['slug']:norm(json.dumps(r)) for r in json.load(open(f.replace('-profiles','-deep')))}
+    deep=json.load(open(f.replace('-profiles','-deep')))
+    src={r['slug']:norm(json.dumps(r)) for r in deep}
+    site={r['slug']:norm(json.dumps(r.get('pages') or {})) for r in deep}
     rows=json.load(open(f)); changed=False
     for i,o in enumerate(rows):
       before=json.dumps(o)
-      rows[i],log=fix(o,src.get(o['slug'],''))
+      rows[i],log=fix(o,src.get(o['slug'],''),site.get(o['slug'],''))
       if json.dumps(rows[i])!=before:
         changed=True; print(o['slug'],'|',' ; '.join(log) or 'wording/address')
     if changed: generate.write(rows,f)
