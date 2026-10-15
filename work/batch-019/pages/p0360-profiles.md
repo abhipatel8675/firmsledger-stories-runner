@@ -3,45 +3,46 @@
 **Old description:** Founded on October 2, 1978 by Barbara and Leon Wolfley, Island Pacific Distributors (IPD) began our humble beginnings at our King Street location, opening our doors to customers as a Wholesale Hardware and Locksmith Supply Company. IPD concentrated on supplying high security keys and locks for perimeter doors on many of the high-rise condominiums being built during the high-rise boom in Waikiki and along the Ala Wai Corridor. Along with condominiums, we sold to many of the local retail establishments of the time including McDonalds, Liberty House, Gibson’s, Handyman Hardware, Holiday Mart Hardware, Ben Franklin Stores, & J.C. Penny’s.
 
 ## About
-Island Pacific Distributors was founded on October 2, 1978, by Barbara and Leon Wolfley in Honolulu, Hawaii. The company began as a wholesale hardware and locksmith supply operation on King Street, serving the high-rise condominium boom in Waikiki and the Ala Wai corridor. In 2014, the business transitioned to an employee stock ownership plan (ESOP), making it fully employee-owned.
+Island Pacific Distributors was founded on October 2, 1978 by Barbara and Leon Wolfley in Honolulu, Hawaii. The company began as a wholesale hardware and locksmith supply operation on King Street, serving the high-rise condominium boom in Waikiki and the Ala Wai corridor. In 2014 it transitioned to an employee stock ownership plan (ESOP), making it fully employee-owned.
 
-Today, IPD operates from a 35,000-square-foot facility in the Iwilei area of Oahu that includes offices, a warehouse, a showroom, and a steel door and frame fabrication shop. The shop is the only Warnock Hersey–marked facility in the state certified by Intertek to build and modify Assa Abloy’s Curries hollow metal doors and frames. The company distributes doors, frames, finish hardware, security products, and specialty building products, and also provides consultation, design, specification writing, installation, maintenance, electronic access control, and in-house locksmith services.
+Today IPD operates from a 35,000-square-foot facility on Alakawa Street that houses offices, a warehouse, a showroom, and a steel door and frame fabrication shop staffed by two certified welders. The shop holds the state's only Warnock Hersey Mark certification from Intertek for constructing and modifying Assa Abloy's Curries line of hollow metal doors and frames. The company distributes doors, frames, finish hardware, security products, and specialty building products, and provides consultation, design, specification writing, installation, maintenance, electronic access control, and locksmith services. It has completed hundreds of projects and distributed millions of products across the islands.
 
-IPD serves architects, general contractors, and facility managers across Hawaii’s hospitality, commercial construction, government, and luxury residential sectors. Notable projects include the Allure Waikiki, Moana Surfrider, Sheraton Moana Surfrider, Four Seasons Resort Lanai, Disney Aulani Resort, Hokua, and the Kapolei Judiciary Complex. The company also lists medical, dental, and vision insurance among its served industries.
+IPD serves architects, general contractors, facility owners, and management companies in Hawaii's hospitality, commercial construction, government, luxury residential, and condominium sectors. Notable projects include the Allure Waikiki, Moana Surfrider, Sheraton Moana Surfrider, Four Seasons Resort Lanai, Disney Aulani Resort, Kapolei Judiciary Complex, and Kamehameha Schools.
 
-IPD differentiates itself as Hawaii’s only certified Architectural Hardware Consultant, the exclusive state distributor for Sargent Hardware, Total Door Openings Systems, Smoke Guard, and CornellCookson coiling doors, and by maintaining a “Find A Way” service philosophy backed by a staff that averages nearly 20 years of tenure.
+The company's "Find A Way" motto reflects its commitment to customer service and problem-solving. Its differentiators include being Hawaii's only certified Architectural Hardware Consultant, exclusive distributor for Sargent Hardware, Smoke Guard, CornellCookson, and Total Door Openings System, and an employee-owned structure that aligns staff incentives with long-term client relationships.
 
 ## Known for
-- Hawaii’s only certified Architectural Hardware Consultant
-- Only Intertek/Warnock Hersey certified hollow metal door and frame shop in the state
-- Exclusive Hawaii distributor for Sargent Hardware, Total Door Openings Systems, Smoke Guard, and CornellCookson
-- Employee-owned (ESOP) since 2014 with staff averaging 20+ years tenure
-- In-house locksmith and steel door fabrication capabilities
+- Hawaii's only certified Architectural Hardware Consultant
+- Only Warnock Hersey Mark shop in the state certified by Intertek for Assa Abloy Curries hollow metal doors and frames
+- Exclusive Hawaii distributor for Sargent Hardware, Smoke Guard, CornellCookson, and Total Door Openings System
+- Employee-owned (ESOP) since 2014 with staff averaging nearly 20 years tenure
+- In-house locksmith and steel door fabrication with certified welders
 
 ## Capabilities
-- Consultation & Analysis
-- Design & Drawing (electronic)
-- Specification & Technical Writing
-- Installation (Expansion Joints, Overhead Coiling Doors/Grilles, Integrated Door Systems, Electronic Access Control Systems)
-- Maintenance & Service
-- Electronic Access Control (consultation, design, installation, tech support)
-- In-House Locksmith (key cutting, rekeying, master keying)
-- Steel Door Fabrication (hollow metal doors and frames, welding, modifications)
-- Hollow Metal Door and Frame Fabrication (Warnock Hersey certified)
-- Security Systems Design and Installation
-- Specialty Building Products Distribution
+- Architectural hardware distribution
+- Consultation and analysis
+- Design and drawing (electronic)
+- Specification and technical writing
+- Installation of doors, hardware, expansion joints, overhead coiling doors/grilles, integrated door systems, electronic access control
+- Maintenance and service
+- Electronic access control solutions (consultation, design, installation, tech support)
+- In-house locksmith (key cutting, rekeying, master keying)
+- Steel door fabrication (hollow metal doors and frames, certified welders, Warnock Hersey labeling)
+- Project management
+- Specialty systems design
 
 ## Industries
 - Hospitality
-- Commercial Construction
-- Government
-- Luxury Residential
-- Medical / Dental / Vision Insurance
+- Commercial construction
+- Government facilities
+- Luxury residential
+- Condominium construction
+- Education
+- Federal facilities
 
-## Certifications
-- Warnock Hersey Mark (Intertek) for hollow metal doors and frames
-- Intertek Testing Services (ITS) / Warnock Hersey (WHI) file labeling
-- Certified Architectural Hardware Consultant
+## Equipment
+- Warnock Hersey Mark shop (Intertek certified) for hollow metal door/frame fabrication
+- Intertek Testing Services (ITS) / Warnock Hersey (WHI) file labeling equipment
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -52,22 +53,21 @@ IPD differentiates itself as Hawaii’s only certified Architectural Hardware Co
 <details><summary>Sources</summary>
 
 - Founded October 2, 1978 by Barbara and Leon Wolfley -> /about
-- Started as Wholesale Hardware and Locksmith Supply Company on King Street -> /about
-- Employee-owned ESOP since 2014 -> /about
-- 35,000 sq ft facility in Iwilei with offices, warehouse, showroom, fabrication shop -> /about
-- Only Warnock Hersey Mark shop in state certified by Intertek for Assa Abloy Curries hollow metal doors/frames -> /about
-- Exclusive Hawaii distributor for Sargent Hardware -> /about
-- Exclusive distributor for Total Door Openings System -> /about
-- Exclusive Smoke Guard distributor and installer (2014) -> /about
-- Added CornellCookson coiling and sectional doors (2016) -> /about
+- Started as Wholesale Hardware and Locksmith Supply Company at King Street -> /about
+- Employee-owned (ESOP) since 2014 -> /about
+- Facility: 35,000 sq ft on Alakawa Street with offices, warehouse, showroom, steel door/frame fabrication shop -> /about
+- Two certified welders, Warnock Hersey Mark shop certified by Intertek for Assa Abloy Curries line -> /about, /services
+- Exclusive Hawaii distributor for Sargent Hardware, Smoke Guard, CornellCookson, Total Door Openings System -> /about
+- Completed hundreds of projects, distributed millions of products -> /
+- Projects: Allure Waikiki, Moana Surfrider, Sheraton Moana Surfrider, Four Seasons Resort Lanai, Disney Aulani Resort, Kapolei Judiciary Complex, Kamehameha Schools -> /
+- Services: consultation, design, specification writing, installation, maintenance, electronic access control, locksmith, steel door fabrication -> /services
 - Hawaii's only certified Architectural Hardware Consultant -> /services
-- In-house locksmith and steel door fabrication -> /services
-- Services: Consultation & Analysis, Design & Drawing, Specification & Technical Writing, Installation, Maintenance & Service, Electronic Access Control -> /services
-- Projects: Allure Waikiki, Moana Surfrider, Sheraton Moana Surfrider, Four Seasons Resort Lanai, Disney Aulani Resort, Hokua, Kapolei Judiciary Complex -> /
-- Industries served: Medical / Dental / Vision Insurance -> db
-- Serves architects, general contractors, management companies -> /about
+- In-house locksmith with key cutting, rekeying, master keying -> /services
+- Steel door fabrication with certified welders, licensed by Intertek/Warnock Hersey for file labeling -> /services
+- Motto "Find A Way" -> /about
 - Staff averaging nearly 20 years tenure -> /about
-- Motto 'Find A Way' -> /about
+- Purchased warehouse in 2021 for weld shop, installation teams -> /about
+- Leadership: Kim Conner and Robert Field -> /about
 </details>
 
 ---
@@ -77,67 +77,68 @@ IPD differentiates itself as Hawaii’s only certified Architectural Hardware Co
 **Old description:** J&O Plastics specializes in plastic injection molding solutions for plastic shipping products and the logistics industry.
 
 ## About
-J & O Plastics operates from a 250,000-square-foot production and warehousing facility in Rittman, Ohio, located in the state's retail distribution corridor. The company was founded in 1982 by Oscar and Christine Gross as an injection molding supplier to the Mr. Coffee Company and remains family-owned.
+J & O Plastics operates from a 250,000-square-foot facility in Rittman, Ohio, a location chosen for its access to the northern Ohio retail distribution corridor. The company was founded in 1982 by Oscar and Christine Gross, initially supplying injection-molded parts to the Mr. Coffee Company. Over four decades, the business has remained under family stewardship while expanding its material and service offerings.
 
-The company specializes in clear plastic injection molding, notably pioneering a proprietary process for straight PET that yields BPA-free, cosmetically clear parts at low cost. It also molds acrylic, polypropylene, SAN, crystal styrene, PVC, ABS, LDPE, and HDPE. Services encompass custom and large-part injection molding, in-line assembly, kitting, packaging, barcoding, SKU and inventory management, warehousing, and direct shipment to major retailers and Amazon FBA.
+The core operation is custom plastic injection molding, with a specialty in clear resins. J & O is one of the few U.S. molders running a proprietary process for straight PET, a BPA-free, low-cost clear plastic, alongside acrylic, polypropylene, SAN, crystal styrene, PVC, ABS, LDPE, and HDPE. The plant handles large-part molding and provides in-line assembly, kitting, packaging, barcoding, warehousing, inventory management, and direct shipment to major retailers.
 
-J & O serves household, industrial, agricultural, medical, and shipping/logistics markets. Its customer base includes big-box retailers such as Costco, Walmart, Target, and Bed Bath & Beyond, as well as OEM industrial accounts requiring logistical support and retail-ready fulfillment.
+Customers span household goods, industrial, agricultural, medical, and shipping/logistics sectors. The company is certified to ship directly to Amazon FBA, Costco, Walmart, Target, and Bed Bath & Beyond, handling SKU management, UPC barcoding, and bulk packaging for those accounts. It also serves OEM industrial applications requiring precision-molded components.
 
-The company differentiates itself through its early adoption of straight PET molding—one of few U.S. firms offering it—along with automation-driven competitive pricing, a lean facility that keeps scrap under 1 percent, and a commitment to same-day shipping and delivery from its centrally located Ohio plant.
+The founders’ early focus on PET was driven by demand for durable, BPA-free clear products. That proprietary PET process, combined with automation, allows competitive pricing. A sustainability pledge keeps scrap below 1 percent, with all waste either resold or recycled, and cardboard baled daily for recycling.
 
 ## Known for
 - Proprietary straight PET injection molding for BPA-free clear parts
-- Certified direct shipping to Amazon FBA, Costco, Walmart, Target, and Bed Bath & Beyond
-- In-line assembly, kitting, packaging, and inventory management under one roof
-- Same-day shipping and delivery from a 250,000 sq ft Ohio facility
-- Scrap rate maintained under 1% with full recycling program
+- Certified direct-ship supplier to Amazon FBA, Costco, Walmart, Target, Bed Bath & Beyond
+- In-line assembly, kitting, packaging, barcoding, warehousing, and inventory management
+- 250,000 sq ft facility in Ohio’s retail distribution corridor
+- Scrap rate under 1% with full recycling of waste and cardboard
 
 ## Capabilities
-- Clear plastic injection molding
-- Custom injection molding
-- Precision injection molding
-- PET injection molding
+- Custom plastic injection molding
 - Large part injection molding
+- Clear resin injection molding (PET, acrylic, polypropylene, SAN, crystal styrene, PVC, ABS, LDPE, HDPE)
 - In-line assembly
-- Assembly and kitting
-- Packaging and labeling
-- SKU and inventory management
+- Kitting
+- Packaging
+- Barcoding
+- Warehousing
+- Inventory management
+- Direct shipment to retailers
+- SKU management
 - UPC barcoding
 - Bulk packaging
-- Warehousing
-- Direct shipment to retail (Amazon FBA, Costco, Walmart, Target)
-- Logistical support
+- Logistics support
+- Agricultural plastic molding
+- Medical plastic molding
+- Household product molding
+- Industrial plastic molding
 
 ## Industries
-- Household Products
+- Household products
 - Industrial
 - Agricultural
 - Medical
-- Shipping & Logistics
-- Consumer Goods
-- Retail
-- OEM Industrial
+- Shipping & logistics containers
+- OEM industrial
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1982
-- **Ownership:** Family-owned
 - **Headquarters:** Rittman, Ohio
 
 <details><summary>Sources</summary>
 
-- Founded 1982 by Oscar and Christine Gross -> /about-us
-- Facility 250,000 sq ft in Rittman, Ohio -> /about-us
-- Pioneered straight PET injection molding -> /about-us
+- Founded in 1982 by Oscar and Christine Gross -> /about-us
+- Began as injection molding supplier to Mr. Coffee Company -> /about-us
+- Facility encompasses 250,000 square feet of production and warehousing -> /about-us
+- Pioneered injection molding of straight PET -> /about-us
 - Certified to direct ship to Amazon FBA, Costco, Walmart, Target, Bed Bath & Beyond -> /about-us
-- Materials: PET, Acrylic, Polypropylene, SAN, Crystal Styrene, PVC, ABS, LDPE, HDPE -> /
-- Industries: Household, Industrial, Agricultural, Medical, Shipping & Logistics -> /
+- Materials: PET, acrylic, polypropylene, SAN, crystal styrene, PVC, ABS, LDPE, HDPE -> / and /about-us
+- Services: in-line assembly, kitting, packaging, barcoding, warehousing, inventory management, direct shipment -> /about-us
+- Industries: household products, industrial, agricultural, medical, shipping & logistics -> / and /about-us
 - Same-day shipping and delivery -> /about-us
-- Scrap under 1% recycling -> /about-us
-- In-line assembly, kitting, packaging, warehousing -> /about-us
-- Headquarters Rittman, Ohio -> db
-- Founded year 1982 -> db
-- Company description: plastic injection molding solutions for shipping products and logistics -> db
+- Scrap under 1%, recycling program -> /about-us
+- Headquarters: Rittman, Ohio -> db and /about-us
+- Founded year: 1982 -> db
 </details>
 
 ---
@@ -147,51 +148,42 @@ The company differentiates itself through its early adoption of straight PET mol
 **Old description:** J&R Senior Sheetmetal Inc., a family-owned and operated business in Westerly, Rhode Island, specializes in custom copper work. Serving most of Rhode Island, including Block Island, we bring 30 years of metal experience across three generations and over 40 years of roofing expertise to ensure your home stays dry. We take pride in tackling the unique challenges of building coastal homes and prioritize providing quality service and products that withstand the harsh New England weather. If you can build it, we can cover it (in metal, of course). Over the past 30 years, we have earned a reputation for using innovative approaches to help our clients achieve their goals. We provide exceptional customer service and work closely with builders, roofers, and homeowners to fully understand their needs and expectations.
 
 ## About
-Located in Westerly, Rhode Island, J & R Senior Sheetmetal, Inc. is a family-owned and operated business built on three generations of metalworking experience. The company traces its roots to over 40 years of roofing expertise and three decades of custom metal fabrication, though a specific founding year is not publicly disclosed.
+J & R Senior Sheetmetal, Inc. operates from Westerly, Rhode Island, as a family-owned business now in its third generation. The company traces its roots to over 40 years of roofing expertise and three decades of metalworking experience, though a specific founding year is not publicly disclosed. It began as a specialist in custom copper work for the coastal communities of Rhode Island, including Block Island.
 
-The shop specializes in custom copper work, producing a range of architectural sheet metal components including roof vents, wall vents, drip edges, valleys, window and door pans, shower pans, step flashing, chimney caps, scuppers, and radius flashing. It also fabricates standing seam roof systems, flat-pounded panels, cupolas, chimney through-flashings, and radius roofs, with a dedicated line for .032 aluminum standing seam. In addition to fabrication, the company distributes Wuko tools and PREFA products and offers pre-packaged standing seam roof bundles that include high-temperature ice and water shield, wall flashings, drip edge, panels, clips, screws, Z-bar, and ridge caps. Production relies on a mix of antique hand tools and modern machinery, with an emphasis on quick turnaround.
+The shop fabricates a range of sheet metal components for roofing and flashing applications. Core products include copper roof vents, wall vents, drip edges, valleys, window and door pans, shower pans, step flashing, chimney caps, scuppers, and radius flashing, all produced in 16-ounce copper and Freedom Gray zinc-copper alloy. The company also works in .032-inch painted aluminum for drip edges, drip caps, valleys, and step flashing. Beyond custom fabrication, J & R Senior Sheetmetal assembles standing seam roof bundles that package high-temperature ice-and-water shield, wall flashings, panels, clips, screws, Z-bar, and ridge caps. It also acts as a distributor for Wuko hand tools and PREFA roofing systems.
 
-The primary customers are builders, roofers, and homeowners throughout Rhode Island, including Block Island, with a focus on coastal construction that must withstand harsh New England weather. The company’s portfolio spans residential roofing, custom flashing, and specialty metal accents for both new builds and renovations.
+The customer base centers on residential builders, roofing contractors, and homeowners throughout Rhode Island, with a focus on the challenges of coastal construction. The company's work is tailored to withstand New England weather, and its portfolio includes standing seam roofs, flat-pounded roofing, cupolas, chimney through-flashings, and radius roofs.
 
-J & R Senior Sheetmetal distinguishes itself through its multi-generational family ownership, deep roofing heritage, and a commitment to American-made products. The firm highlights its innovative approaches to coastal building challenges, personalized customer service, and the ability to deliver both standard and intricate custom pieces on short lead times.
+J & R Senior Sheetmetal emphasizes domestic production, noting that its products are made in the USA using a mix of antique hand tools and modern machinery. The firm highlights quick turnaround times and a collaborative approach with builders and roofers to address the unique demands of seaside architecture.
 
 ## Known for
-- Family-owned and operated across three generations
-- Over 40 years of roofing expertise
-- Custom copper fabrication using antique hand tools and modern machines
-- Quick turnaround times on custom and stock items
-- Made in the USA
+- Products made in the USA using antique hand tools and modern machinery
+- Quick turnaround times on custom copper and aluminum fabrications
+- Family-owned with three generations of metalworking experience
+- Distributor for Wuko tools and PREFA roofing systems
+- Specializes in coastal roofing solutions for New England weather
 
 ## Capabilities
 - Custom copper fabrication
-- Roof vent flashing
-- Roof exhaust vents
-- Wall vents
+- Roof vent fabrication
+- Wall vent fabrication
 - Drip edge fabrication
-- Valley fabrication
-- Window/door pan fabrication
-- Shower pan fabrication
-- Step flashing
-- Drip cap fabrication
-- Chimney cap fabrication
-- Scupper fabrication
-- Radius flashing
-- Standing seam roof systems
+- Custom metal roofing
+- Standing seam roof installation
 - Flat-pounded roofing
 - Cupola fabrication
 - Chimney through-flashing
 - Radius roof fabrication
-- .032 aluminum standing seam fabrication
+- Specialized .032 aluminum standing seam
+- Standing seam roof bundle assembly
 - Distribution of Wuko tools
 - Distribution of PREFA products
-- Standing seam roof bundle assembly
 
 ## Industries
 - Residential construction
 - Roofing
 - Coastal construction
 - Home building
-- Renovation
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -201,20 +193,18 @@ J & R Senior Sheetmetal distinguishes itself through its multi-generational fami
 <details><summary>Sources</summary>
 
 - Location: Westerly, Rhode Island -> db
-- Family-owned and operated -> db, /
-- Three generations of metalworking experience -> /
-- Over 40 years of roofing expertise -> /
-- Specializes in custom copper work -> db, /
-- Products: roof vents, wall vents, drip edges, valleys, window/door pans, shower pans, step flashing, chimney caps, scuppers, radius flashing -> /
-- Services: standing seam roof, flat-pounded, cupola, chimney through-flashing, radius roof, .032 aluminum standing seam -> /
-- Distributor for Wuko tools and PREFA products -> /
+- Family-owned and operated across three generations -> db
+- Over 40 years roofing expertise, 30 years metal experience -> db
+- Specializes in custom copper work -> db
+- Serves most of Rhode Island including Block Island -> db
+- Products: copper roof vents, wall vents, drip edges, valleys, window/door pans, shower pans, step flashing, chimney caps, scuppers, radius flashing -> /
+- Materials: 16oz copper, Freedom Gray (zinc copper), .032 painted aluminum -> /
+- Services: standing seam roof, flat pounded, cupola, chimney through flashing, radius roof, specialized .032 aluminum standing seam -> /
 - Standing seam roof bundles with components -> /
-- Uses antique hand tools and modern machines -> /
+- Distributor for Wuko tools and PREFA products -> /
+- Made in USA using antique hand tools and modern machines -> /
 - Quick turnaround times -> /
-- Made in the USA -> /
-- Serves builders, roofers, homeowners in Rhode Island including Block Island -> db, /
-- Focus on coastal homes and harsh New England weather -> db, /
-- Materials: 16oz copper, Freedom Gray, .032 aluminum, .032 painted aluminum -> /
+- Focus on coastal homes and New England weather -> /
 </details>
 
 ---
@@ -224,44 +214,52 @@ J & R Senior Sheetmetal distinguishes itself through its multi-generational fami
 **Old description:** Fifer Sheet Metal offers a variety of precision-based sheet metal services, including manufacturing custom-built machinery and fabricating precision parts. Backed by decades of experience, we strive to exceed the needs of our customers with employees equipped with expert craftsmanship and special attention to details.
 
 ## About
-J.E. Fifer Sheet Metal Fabricators operates from a 30,000-square-foot facility in Richmond, Virginia. The company was founded in 1986 by James and Judy Fifer and remains family-owned, with their son Jason T. Fifer now serving as president.
+J.E. Fifer Sheet Metal Fabricators operates from a 30,000-square-foot facility in Richmond, Virginia. The family-owned company was founded in 1986 by James and Judy Fifer and is now led by their son, Jason T. Fifer, as president.
 
-The shop specializes in precision sheet metal fabrication, producing custom parts, assemblies, and complete machinery. Capabilities include CNC laser cutting, punching, and bending; TIG and MIG welding on aluminum, stainless steel, and mild steel; CNC PEM insertion; saw cutting; rolling; shearing up to 10 feet long and 1/4 inch thick in mild steel; and deburring on a Costa Metal Finishing machine. The facility also houses CNC and manual mills and lathes for precision machining, plus in-house shrink-packaging equipment that allows the company to deliver both fabricated components and proprietary packaging systems under one roof.
+The shop provides precision sheet metal fabrication and machining services, including CNC laser cutting, punching, bending, TIG/MIG welding (aluminum, stainless, and mild steel), CNC PEM insertion, saw cutting, rolling, shearing up to 10 feet by 1/4 inch, and deburring with a Costa Metal Finishing machine. It also runs CNC and manual mills and lathes for precision machining, builds custom machinery and replacement parts, and operates proprietary shrink-packaging equipment under the same roof.
 
-Fifer serves customers needing custom-built machinery, equipment upgrades, replacement parts, and shrink-packaging solutions. Its work supports industrial OEMs and manufacturers requiring fabricated metal components and integrated packaging equipment, though the company does not publicly list specific industry verticals.
+Customers come from industrial and manufacturing sectors needing custom sheet metal parts, assemblies, machinery upgrades, and integrated packaging solutions. The company emphasizes on-time delivery and repeat business as the cornerstone of its success.
 
-The founders established the business on a commitment to quality products, timely communication, and on-time delivery — values that Jason Fifer says drive a mission of “ever-increasing satisfaction and sustainability through leadership, consistency, and integrity.” Repeat business is cited as the cornerstone of the company’s success.
+Leadership frames the mission around “ever-increasing satisfaction and sustainability through leadership, consistency, and integrity,” achieved by continual quality improvement driven by customer and associate engagement.
 
 ## Known for
-- 30,000+ sq. ft. facility with in-house shrink-packaging equipment
+- 30,000+ sq. ft. facility with state-of-the-art equipment
+- In-house shrink-packaging equipment for combined fabrication and packaging
 - Family-owned since 1986 with second-generation leadership
-- Core values: quality products, timely communication, on-time delivery
-- Repeat business as cornerstone of success
-- Single-source fabrication and packaging systems
+- Commitment to on-time delivery and timely communication
+- Continual quality improvement through customer and associate engagement
 
 ## Capabilities
-- CNC laser cutting
-- CNC punching
-- CNC bending
-- Welding (TIG, MIG: aluminum, stainless steel, mild steel)
-- CNC PEM insertion
-- Saw cutting
+- Sheet Metal Fabrication
+- CNC Laser Cutting
+- CNC Punching
+- CNC Bending
+- Welding (TIG, MIG: Aluminum, Stainless Steel, Mild Steel)
+- CNC PEM Insertion
+- Saw Cutting
 - Rolling
 - Shearing (10' x 1/4" mild steel)
-- Deburring (Costa Metal Finishing machine)
-- Precision machining (CNC & manual mills & lathes)
-- Shrink packaging
-- Custom machinery fabrication
-- Equipment upgrades & replacement parts
+- Deburring (Costa Metal Finishing)
+- Precision Machining (CNC & Manual Mills & Lathes)
+- Custom Machinery Manufacturing
+- Replacement Parts Manufacturing
+- Shrink Packaging
+- Equipment/Machinery Upgrades
 
 ## Equipment
+- CNC Laser Cutting machine
+- CNC Punching machine
+- CNC Bending machine
+- CNC PEM Insertion machine
 - Costa Metal Finishing deburring machine
-- Shrink packing equipment
-- CNC mills
-- Manual mills
-- CNC lathes
-- Manual lathes
-- Shearing machine (10' capacity)
+- CNC Mills
+- Manual Mills
+- CNC Lathes
+- Manual Lathes
+- Shrink packaging equipment
+- Shear (10' capacity)
+- Rolling equipment
+- Saw cutting equipment
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -271,22 +269,15 @@ The founders established the business on a commitment to quality products, timel
 
 <details><summary>Sources</summary>
 
-- Founded 1986 -> /about
-- Family-owned -> /about
-- Founders James and Judy Fifer -> /about
-- 30,000+ sq ft facility -> /about
-- Located in Richmond, VA -> /about
-- Services: CNC Laser Cutting, CNC Punching, CNC Bending, Welding, CNC PEM Insertion, Saw Cutting, Rolling, Shearing, Deburring -> /
-- Precision machining (CNC & manual mills & lathes) -> /
+- Founded in 1986 by James and Judy Fifer -> /about
+- Family-owned business -> /about
+- 30,000+ sq.ft. facility in Richmond, VA -> /about
+- President Jason T. Fifer -> /about
+- Services: CNC laser cutting, punching, bending, welding, PEM insertion, saw cutting, rolling, shearing, deburring -> /about and /
+- Precision machining (CNC & manual mills & lathes) -> /about and /
+- Custom machinery manufacturing and replacement parts -> /about and /
 - Shrink packaging equipment in-house -> /about
-- Custom-built machinery fabrication -> /
-- Equipment upgrades & replacement parts -> /
-- Welding on Aluminum, Stainless, Mild Steel -> /
-- Deburring machine (Costa Metal Finishing) -> /
-- Shearing capacity 10' x 1/4" mild steel -> /
-- Core values: quality products, timely communications, on-time deliveries -> /about
-- Repeat business cornerstone -> /about
-- Mission statement by Jason T. Fifer -> /about
+- Mission statement on satisfaction, sustainability, leadership, consistency, integrity -> /about
 </details>
 
 ---
@@ -296,54 +287,55 @@ The founders established the business on a commitment to quality products, timel
 **Old description:** We are so excited about our new Haddonfield location. You are now able to build a custom dining table on-site with handmade table legs and custom table-tops to make your unique table come to life before your eyes. To schedule an appointment to build a custom table with me or for a free consultation,
 
 ## About
-J Hunter Woodworks operates from Haddonfield, New Jersey, where founder Jeremy Hunter runs the shop as owner and master craftsman. The business grew from Hunter's passion for design and building purposeful spaces that turn a house into a home, though the exact founding year is not publicly stated.
+J Hunter Woodworks operates from a showroom and workshop in Haddonfield, New Jersey. The business was founded by Jeremy Hunter, who serves as owner and master craftsman. Hunter brought 12 years of woodworking experience to the venture, driven by a passion for design and building purposeful spaces that turn a house into a home.
 
-The company produces custom furniture and architectural woodwork, including built-ins, cabinets, dining tables, credenzas, bookshelves, breakfast nooks, and mantles. Every piece is hand crafted using high-quality, locally sourced wood. The Haddonfield location also offers an on-site experience where clients can build a custom dining table with handmade legs and tops. Output scale and headcount are not disclosed.
+The shop produces custom furniture and built‑ins, including dining tables, breakfast nooks, credenzas, bookshelves, and cabinetry. Each piece is handcrafted from high‑quality, locally sourced wood. At the new Haddonfield location, clients can participate in on‑site table building, selecting handmade legs and custom tops to see their design take shape. The operation also offers free design consultations and works from client ideas or inspiration images.
 
-Clients include interior designers, individual homeowners, and corporate accounts. Testimonials reference projects such as a custom breakfast nook with storage drawers and upholstered cushions, a dining table with folding legs and stacking benches, and a mantle matched to existing flooring.
+The company serves residential customers and interior designers seeking one‑of‑a‑kind pieces, as well as corporate clients for commercial projects. Testimonials highlight projects such as a custom breakfast nook with storage drawers and upholstered cushions, a dining table designed to store in the floor, and a mantle matching existing woodwork.
 
-Hunter emphasizes a collaborative design process—"If you can dream it, I can build it"—and positions the workshop as an alternative to catalog or big-box furniture. The differentiators cited are the master-craftsman level of hand work, locally sourced materials, and the ability to involve customers directly in the design and on-site building experience.
+Hunter emphasizes a collaborative design process, inviting customers to be part of the creation from concept to delivery. The combination of locally sourced materials, handcrafted construction, and an on‑site building experience distinguishes the shop in the custom woodworking market.
 
 ## Known for
-- Hand crafted by master craftsman Jeremy Hunter
-- High-quality, locally sourced wood
-- Collaborative custom design process
 - On-site custom table building at Haddonfield showroom
-- 12 years of woodworking experience
+- Handcrafted by master craftsman Jeremy Hunter
+- High-quality, locally sourced wood
+- Free design consultations
+- Collaborative design process from concept to delivery
 
 ## Capabilities
 - Custom furniture making
 - Custom built-ins
 - Cabinetry
-- Dining table fabrication
-- Breakfast nook construction
-- Credenza making
+- Table making (dining tables, breakfast nooks)
+- Credenza construction
 - Bookshelf building
-- Mantle fabrication
+- Custom upholstery (cushions)
 - Design consultation
-- On-site custom table assembly
+- On-site assembly and building
 
 ## Industries
-- Interior design
 - Residential
+- Interior design
 - Corporate
 
 ## Company details
 - **Company Type:** Manufacturer
-- **Ownership:** Founder-owned
+- **Ownership:** Owner-operated
 - **Headquarters:** Haddonfield, New Jersey
 
 <details><summary>Sources</summary>
 
 - Location: Haddonfield, NJ -> db
 - Founder: Jeremy Hunter -> /about
-- Products: custom built-ins, cabinets, tables, credenzas, bookshelves -> /
-- Process: hand crafted by master craftsman -> /
-- Materials: high quality, locally sourced wood -> /
-- Target customers: interior designers, individuals, corporate clients -> /
-- Experience: 12 years woodworking experience -> /about
-- On-site custom table building -> /
-- Ownership: founder-owned -> /about
+- 12 years woodworking experience -> /about
+- Products: custom furniture, built-ins, cabinets, tables, credenzas, bookshelves -> /
+- Materials: high quality locally sourced wood -> /
+- Handcrafted by master craftsman Jeremy Hunter -> /
+- Serves interior designers and individuals -> /
+- Corporate clients mentioned -> /
+- On-site custom table building at new Haddonfield location -> /
+- Free design consultations -> /
+- Passion for design and building purposeful spaces -> /about
 - Collaborative design process -> /about
 </details>
 
@@ -354,30 +346,32 @@ Hunter emphasizes a collaborative design process—"If you can dream it, I can b
 **Old description:** Since 1994, JR Plastics & Machining, Inc. has provided custom vacuum forming for North America. Utilizing reliable and accurate equipment, we produce quality parts with very little down time.
 
 ## About
-JR Plastics & Machining, Inc. operates from Lowesville, Virginia, in the Blue Ridge Mountains about 25 miles south of Charlottesville. The company was founded in 1994 as a custom vacuum forming firm by David Trent and Raymond Schneider, who remain owners and direct contacts for customers. In 1998 the business added a full CNC machine shop, bringing mold making and secondary machining in-house.
+JR Plastics & Machining, Inc. operates from Lowesville, Virginia, in the Blue Ridge Mountains about 25 miles south of Charlottesville. The business traces its roots to 1994 when it began as a custom vacuum forming firm. In 1998 the owners, David Trent and Raymond Schneider, incorporated the company and added a full CNC machine shop, enabling them to produce molds and secondary processes in-house. The two owners remain the primary contacts for every project.
 
-The shop provides custom vacuum forming, hotwire bending, CNC machining, and engineering design services. Vacuum forming capacity reaches 24 by 50 by 9 inches deep in sheet up to 0.250 inch thick, using materials such as PETG, PVC, ABS, polycarbonate (Kydex), polystyrene, acrylic, and HDPE. CNC machining handles parts up to 50 by 100 by 9 inches in aluminum, brass, and stainless steel. Equipment includes HAAS mills, lathes, and routers, plus custom-built forming and bending machines maintained by the team.
+The shop provides custom vacuum forming, hotwire bending, and CNC machining under one roof. Vacuum forming capacity reaches 24 by 50 inches with a 9-inch draw depth in plastics up to 0.250 inch thick, including PETG, PVC, ABS, polycarbonate (Kydex), polystyrene, acrylic, and HDPE. CNC machining handles parts up to 50 by 100 by 9 inches in aluminum, brass, and stainless steel. Equipment includes HAAS mills, lathes, and routers, plus custom-built forming and bending machines that the team maintains themselves to minimize downtime.
 
-Customers span medical, electronics, food packaging, and sports performance sectors, with the company noting satisfied clients across the United States. The firm emphasizes prototypes, short runs, and large-scale production, all managed under one roof.
+Customers span medical, electronics, food packaging, and sports performance sectors across North America. The company works directly with clients from prototype through large-scale production runs, offering engineering support to refine designs for cost and performance.
 
-The owners position the business on single-source convenience: clients work directly with Trent or Schneider from quote to delivery, and the in-house equipment fabrication allows rapid repairs to keep production on schedule. Combined staff experience exceeds 100 years in vacuum forming, pressure forming, hotwire bending, and CNC programming.
+The firm differentiates itself by keeping the entire production process — mold making, forming, machining, and finishing — in a single facility, with an owner serving as the direct point of contact. Over 100 years of combined experience in vacuum forming, pressure forming, hotwire bending, and CNC programming underpins their ability to deliver quick turnaround on tooling and parts.
 
 ## Known for
-- Entire production process under one roof: vacuum forming, CNC machining, hotwire bending, and engineering
+- Entire production process under one roof (vacuum forming, CNC machining, mold making)
 - Direct owner contact (David Trent or Raymond Schneider) from start to finish
-- Custom-built forming and bending equipment for in-house repairs and minimal downtime
-- Prototypes, small-run, and large-scale production runs
-- Over 100 years of collective experience in vacuum forming, hotwire bending, and CNC machining
+- In-house custom forming and bending equipment built and maintained by the team
+- Over 100 years collective experience in vacuum forming, hotwire bending, and CNC machining
+- Engineering services to optimize design for performance and cost
 
 ## Capabilities
 - Custom vacuum forming
 - Hotwire bending
-- CNC machining
-- Engineering design services
-- Pressure forming
-- Jig and fixture design
-- Custom mold making
-- General machine work
+- CNC milling
+- CNC turning
+- CNC routing
+- In-house mold making
+- Engineering and design assistance
+- Prototyping
+- Small-run production
+- Large-scale production runs
 
 ## Industries
 - Medical
@@ -389,34 +383,30 @@ The owners position the business on single-source convenience: clients work dire
 - HAAS mills
 - HAAS lathes
 - HAAS routers
-- Custom-built forming equipment
-- Custom-built bending equipment
+- Custom-built vacuum forming equipment
+- Custom-built hotwire bending equipment
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1994
+- **Ownership:** Privately owned (two owners)
 - **Headquarters:** Lowesville, VA
 
 <details><summary>Sources</summary>
 
 - Founded 1994 as custom vacuum forming firm -> /
-- Added CNC machine shop in 1998 -> /
-- Owners David Trent and Raymond Schneider -> /
-- Location Lowesville, VA -> /
-- Vacuum forming capacity 24x50x9 in, 0.250 in thick -> /
-- Materials: PETG, PVC, ABS, Polycarbonate Kydex, Polystyrene, Acrylic, HDPE -> /
-- CNC machining capacity 50x100x9 in, aluminum, brass, stainless steel -> /
-- Equipment: HAAS mills, lathes, routers; custom forming/bending equipment -> /
+- Incorporated as JR Plastics & Machining, Inc. in 1998 with CNC machine shop -> /
+- Owners: David Trent and Raymond Schneider -> /
+- Location: Lowesville, VA -> /
+- Vacuum forming capacity: 24" x 50" x 9" deep, plastics up to 0.250" thick -> /
+- Materials for vacuum forming: PETG, PVC, ABS, Polycarbonate Kydex, Polystyrene, Acrylic, HDPE -> /
+- CNC machining capacity: 50" x 100" x 9" thick in aluminum, brass, stainless steel -> /
+- Equipment: HAAS mills, lathes, routers; custom-built forming and bending equipment -> /
 - Industries served: medical, electronics, food packaging, sports performance -> /
-- Services: engineering design, pressure forming, jig/fixture design, mold making -> /
-- Collective experience over 100 years -> /
-- Raymond Schneider 5+ decades experience -> /
-- 40 years machining/programming/jig fixture experience -> /
-- Direct owner contact emphasized -> /
-- In-house equipment repair capability -> /
-- Prototypes, small-run, large-scale production -> /
-- Company type: Manufacturer -> db
-- Headquarters city/state from page -> /
+- Over 100 years collective experience; Raymond Schneider 50+ years in vacuum forming, pressure forming, hotwire bending; 40 years machining, programming, jig fixture design -> /
+- Engineering services offered to improve design and save money -> /
+- Direct owner contact for each project -> /
+- Entire production process under one roof -> /
 </details>
 
 ---
@@ -426,20 +416,19 @@ The owners position the business on single-source convenience: clients work dire
 **Old description:** We specialize in transitioning injection molding projects to reach the next level in development and production.
 
 ## About
-J&L Plastic Molding operates from Wallingford, Connecticut, where it runs a molding facility across two buildings. The company's founding year and ownership structure are not publicly disclosed, but it has established itself as a manufacturer of precision injection-molded components.
+J&L Plastic Molding operates from Wallingford, Connecticut, where it runs a dedicated injection molding facility. The company focuses on transitioning molding projects from development into full-scale production, offering prototype and production tooling, injection molding, and insert molding.
 
-The shop specializes in injection molding, prototype and production tooling, insert molding, and tool transfer services. Its equipment lineup includes 28 injection molding machines with clamp forces from 28 to 385 tons and shot capacities of 0.6 to 24 ounces, enabling production of parts in engineering-grade thermoplastics such as PEEK, Ultem, Radel, and other high-performance resins.
+Its core services include prototype and production tooling, injection molding, insert molding, and tool transfer. The shop occupies two buildings housing 28 injection molding machines with clamp forces from 28 to 385 tons and shot capacities of 0.6 to 24 ounces, enabling a range of part sizes and volumes. The facility is geared for both prototype and production runs.
 
-J&L primarily serves medical device manufacturers, with LeMaitre Vascular recognized as a key customer—the company received LeMaitre's Supplier of the Year award for quality, delivery, innovation, and collaboration. The firm's ISO 13485:2016 certification supports its work in regulated medical applications.
+The company primarily serves medical device manufacturers. A notable customer is LeMaitre Vascular, which recognized J&L as its Supplier of the Year for quality, delivery, innovation, and collaboration. J&L's ISO 13485:2016 certification underscores its focus on medical-grade quality.
 
-The company emphasizes its ability to transition projects from development to production, maintain schedule-driven delivery, and process high-performance resins. Its tool transfer process allows customers to move existing tooling into J&L's production system with minimal disruption.
+J&L emphasizes its expertise with engineered thermoplastic resins such as PEEK (Victrex), PEI (Ultem), PPSU (Radel), PPS (Ryton), LCP (Vectra), TPU, TPE, polycarbonate, and ABS. Its quality management system is certified to ISO 13485:2016 by NQA, supporting medical-grade production requirements.
 
 ## Known for
 - ISO 13485:2016 certified for medical device manufacturing
 - Tool transfer process for moving existing tooling into production
-- 28 injection molding machines (28–385 ton clamp force)
-- Engineering-grade material expertise (PEEK, Ultem, Radel, etc.)
-- Supplier of the Year award from LeMaitre Vascular
+- Expertise in engineered thermoplastics including PEEK, Ultem, Radel, and other high-performance resins
+- 28 injection molding machines (28–385 ton clamp force) across two facilities
 
 ## Capabilities
 - Injection molding
@@ -448,13 +437,13 @@ The company emphasizes its ability to transition projects from development to pr
 - Insert molding
 - Tool transfer
 - Medical device molding
-- Engineered resin processing
+- Engineered thermoplastic processing
 
 ## Industries
-- Medical Device Manufacturing
+- Medical Device
 
 ## Equipment
-- 28 injection molding machines (28–385 ton clamp force, 0.6–24 oz shot size)
+- Injection molding machines (28–385 ton clamp force)
 
 ## Certifications
 - ISO 13485:2016
@@ -465,15 +454,14 @@ The company emphasizes its ability to transition projects from development to pr
 
 <details><summary>Sources</summary>
 
-- Company name and location -> db
-- Facility: two buildings, 28 injection molding machines (28-385 tons, 0.6-24 oz) -> pages /
-- Processes: injection molding, prototype tooling, production tooling, insert molding, tool transfer -> pages /
-- Certification: ISO 13485:2016 certified by NQA -> pages /, db
-- Industry: Medical Device manufacturers -> pages /, db
-- Materials: PPSU, PEI, PEEK, PPS, LCP, TPU, TPE, Polycarbonate, ABS -> pages /
-- Award: Supplier of the Year from LeMaitre Vascular -> pages /
-- Headquarters address: 368 North Cherry Street Ext, Wallingford, CT 06492 -> pages /
-- Website: http://www.jlmolding.com/ -> db
+- Location: Wallingford, Connecticut -> db
+- Certification: ISO 13485:2016 -> db
+- Facility: two buildings, 28 injection molding machines (28-385 tons) -> /
+- Processes: prototype tooling, production tooling, injection molding, insert molding, tool transfer -> /
+- Industries: Medical Device manufacturers -> /
+- Materials: PPSU, PEI, PEEK, PPS, LCP, TPU, TPE, Polycarbonate, ABS -> /
+- Award: Supplier of the Year by LeMaitre Vascular -> /
+- Quality system certified by NQA -> /
 </details>
 
 ---
@@ -483,32 +471,32 @@ The company emphasizes its ability to transition projects from development to pr
 **Old description:** J-Tech: Exterior Experts for Installation and Repair of Residential and Commercial Properties
 
 ## About
-J-Tech Construction and Solar was founded in 2004 in Lincoln, Nebraska. The company has served the region for over two decades as a roofing and exterior contractor, expanding to include solar installations.
+J-Tech Construction & Solar was founded in 2004 in Lincoln, Nebraska. The company began as a roofing contractor and has operated continuously in the Lincoln and Grand Island areas for over two decades. Ownership details and founder names are not publicly disclosed.
 
-The company provides residential and commercial roofing, metal siding, window and door installation, seamless gutter systems, and solar panel installation. J-Tech fabricates its own metal roofing and siding components in-house, allowing for custom fit and tighter quality control. The firm also uses drone technology for roof assessments. Its service area covers much of Nebraska, plus parts of Iowa, Kansas, South Dakota, and Missouri.
+The firm provides a full range of exterior services for residential and commercial properties, including roofing (asphalt, metal, storm damage restoration), siding (seamless steel, metal, James Hardie fiber cement, vinyl), windows, doors, gutter systems, and solar panel installation. A distinguishing feature is its in-house metal fabrication capability, producing custom metal roofing and siding components for each project rather than relying on pre-manufactured panels. The company also employs drone technology for roof assessments. Headcount, facility size, and annual volume figures are not published.
 
-J-Tech serves residential homeowners and commercial property owners across its service territory. The company works with insurance restoration projects and offers financing for large exterior projects. Its customer base includes homeowners in Lincoln, Omaha, Grand Island, and surrounding communities, as well as commercial clients needing roofing, siding, or solar installations.
+J-Tech serves homeowners and commercial building owners across Nebraska (excluding the panhandle) and parts of Iowa, Kansas, South Dakota, and Missouri. Its customer base includes property owners in Lincoln, Omaha, Grand Island, Kearney, Hastings, and surrounding communities seeking roofing, siding, window, door, gutter, and solar solutions. The company works with insurance restoration projects as well.
 
-J-Tech differentiates itself through in-house metal fabrication, which ensures precise fit and quality control; drone roof inspections that provide clear documentation before work begins; and a single-contractor model that handles roofing, siding, windows, doors, gutters, and solar without subcontractors. The company highlights its 20-plus years in business, certifications as a ProVia Partner and James Hardie Contractor Alliance Partner, warranty-backed installations, and free inspections with no obligation.
+The company emphasizes several differentiators: single-contractor accountability for all exterior trades without subcontractors, drone inspections that document conditions before work begins, certified installer status with ProVia and James Hardie, a Nebraska contractor registration, warranty-backed installations, free inspections and estimates, and financing options for large projects.
 
 ## Known for
-- In-house metal fabrication for custom-fit components
-- Drone roof inspections before any work begins
-- Single-contractor model covering roofing, siding, windows, doors, gutters, and solar
-- 20+ years of continuous service in Nebraska
-- ProVia Partner and James Hardie Contractor Alliance Partner certifications
+- In-house metal fabrication for custom-fit roofing and siding components
+- Drone-based roof inspections provided before any work begins
+- All exterior trades (roofing, siding, windows, doors, gutters, solar) performed by one crew without subcontractors
+- Over 20 years of continuous operation in Nebraska communities
+- Certified partnerships with ProVia and James Hardie
 
 ## Capabilities
 - Residential roofing
 - Commercial roofing
-- Metal roofing installation
+- Metal roofing
 - Storm damage restoration
 - Emergency roof tarping
 - Seamless steel siding installation
 - Metal siding installation
 - Door installation
 - Window installation
-- Seamless gutter system installation
+- Seamless gutter systems
 - Residential solar panel installation
 - Commercial solar panel installation
 - In-house metal fabrication
@@ -518,12 +506,15 @@ J-Tech differentiates itself through in-house metal fabrication, which ensures p
 ## Industries
 - Residential construction
 - Commercial construction
-- Solar energy
+- Solar energy installation
 - Roofing
 - Exterior remodeling
 
+## Equipment
+- Drone inspection technology
+
 ## Certifications
-- ProVia Partner
+- ProVia Partner (through Window Depot USA)
 - James Hardie Contractor Alliance Partner
 - Nebraska Contractor Registration #36130-25
 
@@ -534,17 +525,17 @@ J-Tech differentiates itself through in-house metal fabrication, which ensures p
 
 <details><summary>Sources</summary>
 
-- Founded in 2004 -> db
-- Headquarters in Lincoln, Nebraska -> db
-- Roofing contractor for 20+ years -> /
+- Founded 2004 -> db
+- Headquarters Lincoln, Nebraska -> db
 - In-house metal fabrication -> /
 - Drone roof inspections -> /
 - Full exterior services (roofing, siding, windows, doors, gutters, solar) -> /
-- Service area across Nebraska and parts of IA, KS, SD, MO -> /
-- ProVia Partner through Window Depot USA -> /
+- Service area: Nebraska (excl. panhandle), parts of IA, KS, SD, MO -> /
+- ProVia Partner certification -> /
 - James Hardie Contractor Alliance Partner -> /
 - Nebraska Contractor Registration #36130-25 -> /
 - Materials: asphalt shingles, metal, James Hardie fiber cement, vinyl siding -> /
+- 20+ years in business -> /
 - Warranty-backed work -> /
 - Free inspections and estimates -> /
 - Financing available -> /
@@ -557,39 +548,28 @@ J-Tech differentiates itself through in-house metal fabrication, which ensures p
 **Old description:** J. Holtz Furniture specializes in working with customers to create unique pieces of furniture. I find the commission process enjoyable, as do most of my customers. There is an initial consultation where we discuss ideas, function, and general aesthetics. Next I present several sketches and get a sense of which direction to proceed. I then refine the idea and do scale drawings and give a quote. If things are agreeable I collect a deposit and put the job on the schedule. Please give me a call or email to discuss your ideas.
 
 ## About
-Operating from Minneapolis, Minnesota, J. Holtz Furniture is the workshop of woodworker J. Holtz. The business focuses on custom furniture and built-in cabinetry, with the owner personally guiding each project from concept to completion.
+Based in Minneapolis, Minnesota, J. Holtz Furniture operates as a solo studio where the proprietor designs and builds each piece individually. The business does not disclose a founding year, but the owner describes a commission process that begins with an initial consultation and progresses through sketches, scale drawings, and a deposit before scheduling.
 
-The shop produces one-of-a-kind furniture pieces, built-in cabinets, kitchen installations, doors, and architectural millwork, along with prototype work for other companies. Each order is built individually using hand-selected hardwoods, sourced locally when possible, and finished with a hand-rubbed finish. The process begins with a consultation, followed by sketches, scale drawings, and a quote before a deposit secures a place on the schedule.
+The shop produces custom furniture, built-in cabinetry, doors, and architectural millwork, along with prototype parts for other companies. Every order is built one at a time using hand-selected hardwoods sourced locally when possible, and each piece receives a hand-rubbed finish. The maker draws on Shaker, Scandinavian, Mid Century Modern, and Asian woodworking traditions.
 
-Clients include homeowners seeking custom pieces, architects and designers specifying built-ins, and other manufacturers needing prototype development. The work draws on traditions such as Shaker, Scandinavian, Mid Century Modern, and Asian woodworking, reflecting a shared respect for craft and simplicity.
+Clients include residential customers seeking unique furniture and built-ins, as well as other businesses that commission prototype work. The studio does not list specific industry sectors beyond custom woodworking and prototyping.
 
-The company distinguishes itself through a collaborative commission process that emphasizes direct communication, hand craftsmanship, and a finish that highlights the natural qualities of the wood.
+The owner emphasizes the enjoyment of the collaborative commission process and a respect for craft and simplicity across multiple design traditions. The business was started to fulfill custom requests through a hands-on, one-piece-at-a-time approach.
 
 ## Known for
-- One-at-a-time custom production
-- Hand-selected, locally sourced hardwoods
-- Hand-rubbed finish on every piece
-- Design informed by Shaker, Scandinavian, Mid Century Modern, and Asian traditions
-- Collaborative commission process with sketches and scale drawings
+- One-at-a-time custom builds
+- Locally sourced hardwoods
+- Hand-rubbed finish
+- Prototyping for other companies
+- Design influences from Shaker, Scandinavian, Mid Century Modern, and Asian traditions
 
 ## Capabilities
-- Custom furniture design and fabrication
+- Custom furniture making
 - Built-in cabinetry
-- Kitchen cabinetry
-- Door fabrication
-- Architectural millwork
-- Prototyping for other companies
-- Hand-rubbed finishing
-- Design consultation
-- Sketching and scale drawings
-
-## Industries
-- Custom furniture
-- Built-in cabinetry
-- Kitchen cabinetry
-- Doors
+- Door making
 - Architectural millwork
 - Prototyping
+- Hand finishing
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -597,14 +577,13 @@ The company distinguishes itself through a collaborative commission process that
 
 <details><summary>Sources</summary>
 
-- Location: Minneapolis, Minnesota -> db
-- Business name: J. Holtz Furniture -> db
-- Specializes in custom furniture, built-in cabinetry, kitchens, doors, architectural millwork, prototyping -> /
-- One-at-a-time production using hand-selected hardwoods -> /
+- Minneapolis, Minnesota location -> db
+- Custom furniture, built-in cabinetry, doors, architectural millwork, prototyping -> /
+- Hand-selected hardwoods, locally sourced -> /
 - Hand-rubbed finish -> /
 - Design influences: Shaker, Scandinavian, Mid Century Modern, Asian -> /
-- Commission process: consultation, sketches, scale drawings, deposit, scheduling -> db, /
-- Owner: J. Holtz (implied from first-person voice) -> /
+- One-at-a-time production -> /
+- Commission process described -> /
 </details>
 
 ---
@@ -614,20 +593,19 @@ The company distinguishes itself through a collaborative commission process that
 **Old description:** If you need  apparel for work, jerseys for your team, or promotional items to boost your company’s outreach, JB’s Tee Shirt Factory can help. We have been helping customers reach these goals for over 10 years.
 
 ## About
-JB’s Tee Shirt Factory operates from New Berlin, Wisconsin, where it has served customers for over a decade. The business was founded by Jason Boesel, a UW‑Parkside graduate who brought 15 years of customer‑service experience and a background in product development and international business. Boesel remains the owner and president, overseeing a small team that includes production lead Berto Anguiano, a graphics graduate with more than 20 years in screen printing and three patent‑pending processes, and production assistant Zach Bartosiak, a MATC graduate focused on detail‑oriented registration and pressing.
+JB's Tee Shirt Factory operates out of New Berlin, Wisconsin. The business is led by owner Jason Boesel, a UW‑Parkside graduate with more than 15 years of customer‑service experience and a background in product development and international business. While the exact founding year is not disclosed, the company has been serving customers for over a decade.
 
-The shop provides a full range of apparel decoration and manufacturing services: screen printing, embroidery, dye sublimation, heat transfers, and full cut‑and‑sew production. In‑house graphic design and template design support custom artwork, while contract printing services allow other businesses to outsource production. The company describes itself as a one‑stop source for workwear, team jerseys, and promotional items across Wisconsin.
+The shop provides a range of apparel decoration and manufacturing services, including screen printing, embroidery, dye sublimation, heat transfers, full cut‑and‑sew production, contract printing, graphic design, and template design. No facility size, headcount, or annual volume figures are published.
 
-Customers include companies needing branded work apparel, sports organizations ordering team uniforms, and marketing teams sourcing promotional giveaways. The factory’s Wisconsin‑focused footprint means it primarily serves regional clients, though its contract printing capability can accommodate broader distribution.
+Clients come from a variety of sectors needing workwear, team jerseys, and promotional items for corporate outreach. The company describes its customer base as businesses, sports teams, and organizations throughout Wisconsin seeking custom‑branded apparel and promotional products.
 
-The company points to Anguiano’s patent‑pending screen‑printing techniques and his two decades of experience as key differentiators, along with Boesel’s product‑development expertise and Bartosiak’s precision in registration. Those capabilities, combined with in‑house design and cut‑and‑sew, are presented as the reasons clients choose JB’s over competitors.
+The company highlights its production lead, Berto Anguiano, who brings over 20 years of screen‑printing experience and three patent‑pending processes. Combined with Boesel’s expertise in product marketing and development, the team positions its technical knowledge and process innovation as key differentiators.
 
 ## Known for
-- Patent-pending screen printing processes
-- 20+ years of screen printing experience
-- Full cut-and-sew manufacturing
-- In-house graphic design and template design
-- Contract printing services
+- Over 20 years of screen‑printing experience from production lead
+- Three patent‑pending screen‑printing processes
+- Owner expertise in product development and international business
+- Full cut‑and‑sew capability in‑house
 
 ## Capabilities
 - Screen printing
@@ -635,32 +613,22 @@ The company points to Anguiano’s patent‑pending screen‑printing techniques
 - Dye sublimation
 - Graphic design
 - Heat transfers
-- Promotional items
-- Full cut-and-sew
+- Full cut‑and‑sew
 - Contract printing
 - Template design
 
-## Industries
-- Apparel
-- Promotional products
-- Sports teams
-
 ## Company details
-- **Company Type:** Manufacturer
-- **Ownership:** Private (Jason Boesel, owner)
+- **Company Type:** Contract manufacturer / job shop
 - **Headquarters:** New Berlin, Wisconsin
 
 <details><summary>Sources</summary>
 
-- Headquarters: New Berlin, Wisconsin -> db
-- Operating for over 10 years -> /
-- Owner: Jason Boesel, UW-Parkside graduate, 15 years customer service experience -> /about-us
-- Production lead: Berto Anguiano, UW-Parkside graphics graduate, 20+ years screen printing experience, three patent-pending processes -> /about-us
-- Production assistant: Zach Bartosiak, MATC graduate, detail-oriented registration and pressing -> /about-us
-- Services: screen printing, embroidery, dye sublimation, graphic design, heat transfers, promotional items, full cut-n-sew, contract printing, template design -> /
-- Serves customers throughout Wisconsin -> /
-- Customer types: work apparel, team jerseys, promotional items -> /
-- Differentiators: patent-pending screen printing processes, 20+ years experience, in-house design, cut-and-sew, contract printing -> /about-us, /
+- Location: New Berlin, Wisconsin -> db
+- Owner: Jason Boesel, president, UW‑Parkside graduate, 15+ years customer service experience -> /about-us
+- Manager: Berto Anguiano, production lead, UW‑Parkside graphics graduate, 20+ years experience, three patent‑pending screen‑printing processes -> /about-us
+- Production Assistant: Zach Bartosiak, MATC graduate, detail‑oriented production -> /about-us
+- Services: screen printing, embroidery, dye sublimation, graphic design, heat transfers, promotional items, full cut‑n‑sew, contract printing, template design -> /
+- In business over 10 years -> /
 </details>
 
 ---

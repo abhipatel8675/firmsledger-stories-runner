@@ -1,0 +1,693 @@
+# Red Fox Innovations
+
+**Old description:** Our philosophy is and always has been simple. We succeed when our customers succeed.
+
+## About
+Red Fox Innovations was founded in 2015 in Blaine, Minnesota, as a domestic response to the offshoring of cut-and-sew work. The company began with a focus on providing reliable, cost-competitive manufacturing without sacrificing quality, and has since grown into a full-service contract manufacturer.
+
+Today the firm operates an FDA-registered, ISO 13485-certified facility where over 160 employees produce more than one million units annually across 1,000-plus unique product designs. All work is performed on-site using automated fabric cutters, programmable sewing machines, large-format RF welding equipment, and laser cutting systems. Services span industrial sewing, die and laser cutting, RF/ultrasonic/hot-air welding, material sourcing, and full product design and development from prototype to volume production.
+
+The customer base ranges from large public corporations to start-ups, with core markets in medical devices, outdoor and specialty retail, and military/government contracts requiring Berry Amendment compliance. The company also supports direct-to-consumer brands seeking U.S.-made soft goods.
+
+Red Fox merged with major client Caerus Corp in 2022 to combine resources under brands such as Animal Ortho Care and OrthoCor Medical. The founding philosophy — “we succeed when our customers succeed” — remains central, reinforced by proprietary factory-management software that tracks real-time productivity and quality metrics at every workstation.
+
+## Known for
+- FDA-registered and ISO 13485-certified facility with 100% on-site manufacturing
+- Proprietary real-time factory management software tracking efficiency and hourly quality
+- Berry Amendment compliance for U.S. government contracts
+- Over 160 direct employees and automated cutting/sewing equipment for high-volume scale
+- Merged with Caerus Corp (2022) to leverage combined resources and brands
+
+## Capabilities
+- Industrial sewing (straight stitch, zigzag, overlock, programmable large-format)
+- Automated fabric cutting (laser, die, knife)
+- Laser cutting (metals, plastics, specialty textiles)
+- Radio Frequency (RF) welding (large format, high power)
+- Ultrasonic welding
+- Hot air welding
+- Material sourcing and supply planning
+- Product design and development (concept to prototype to production)
+- Contract textile/fabric cutting services
+- Cut and sew contract manufacturing
+
+## Industries
+- Medical devices
+- Outdoor / retail
+- Military / government
+- Direct-to-consumer retail
+
+## Equipment
+- Automated fabric cutters
+- Programmable sewing machines
+- Large-format RF welding machines
+- Laser cutting equipment
+- Ultrasonic welding equipment
+- Hot air welding equipment
+
+## Certifications
+- ISO 13485
+- FDA Registered
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 2015
+- **Employees:** 160+
+- **Ownership:** Merged with Caerus Corp (2022)
+- **Headquarters:** Blaine, Minnesota
+
+<details><summary>Sources</summary>
+
+- Founded 2015 in Blaine, Minnesota -> /about-us
+- Over 160 direct employees -> /
+- 1,000,000+ annual production units -> /
+- 100% manufactured on site -> /
+- FDA Registered and ISO 13485 Certified facility -> /
+- Industries: medical devices, outdoor/retail, military/government -> /
+- Berry Compliance for US Government business -> /
+- Merged with Caerus Corp in 2022 -> /about-us
+- Proprietary factory management software with real-time metrics -> /
+- Capabilities: industrial sewing, automated cutting, RF welding, ultrasonic welding, hot air welding, laser cutting, die cutting, material sourcing, product development -> /services
+- Equipment: automated fabric cutters, programmable sewing machines, large format RF welding machines, laser cutting equipment -> /, /services
+- Materials: textiles, buckles, webbing, zippers, hook/loop, snaps, high-tech closures -> /services
+</details>
+
+---
+
+# Red Oak Fabrication
+
+**Old description:** Rooted in tradition since 1913, our services combine years of experience with the latest technologies, making us the one-stop solution for all fabrication needs.
+
+## About
+Red Oak Fabrication operates from Red Oak, Iowa, where it was established in 1913 as the Pike Machine Shop. Renamed Red Oak Machine Co. in 1923, the business was purchased by Ted Fort in stages between 1944 and 1946 and has remained in the Fort family for four generations. Today the company runs four facilities in southwest Iowa, with Jeff Fort and his three sons — Jacob, Jordan, and Justin — serving as owners and managers.
+
+The shop provides a full range of metal fabrication services: plasma cutting on two Alltra tables (up to 3-inch capacity), fiber laser cutting with three Bystronic and Cutlite systems (including the first Cutlite Penta 20 kW in the U.S. with fully automated load/unload), tube laser cutting, CNC milling and turning across 11 machining centers, press brake forming up to 350 tons, robotic and manual welding (11 AWS D1.1‑certified welders), steel blasting, and powder coating. The powder coating line uses the only GFS booths in Iowa that combine blasting with a three‑stage wash, and is certified to AAMA 2603, 2604, and 2605.
+
+Red Oak Fabrication serves industrial and commercial customers requiring precision metal parts, welded assemblies, and finished coatings. Its client base spans agricultural, construction, and general manufacturing sectors in the Midwest, while the on‑site 4,600‑square‑foot Carhartt retail store serves consumers directly.
+
+The company emphasizes its multi‑generational family ownership, direct owner involvement in daily operations, and unique powder‑coating capabilities — particularly the combined blast‑and‑wash booth and 60‑color in‑house palette with custom matching in 10 business days. Turnaround for coating is typically 7–10 days, with 24‑hour expedited service available.
+
+## Known for
+- Only GFS booths in Iowa combining blasting with a 3‑stage wash
+- AAMA 2603, 2604, 2605 certified powder coating line
+- First Cutlite Penta Fiber Fast 4020 20 kW in the U.S. with fully automated load/unload
+- Genesis welding cell with Fanuc robotic arm and Universal Robots cobot
+- Fourth‑generation family ownership with owners managing daily operations
+
+## Capabilities
+- Plasma cutting
+- Fiber laser cutting
+- Tube laser cutting
+- CNC milling
+- CNC turning
+- CNC machining
+- Robotic welding
+- Manual welding
+- Powder coating
+- Steel blasting
+- High‑temperature burn off
+- Press brake forming
+- Assembly
+- Automated bandsawing
+- CNC lathe with subspindle & Y‑axis
+- Horizontal milling
+- Vertical milling
+- Automated blast cleaning
+- Manual blast booth
+- Powder coat batch processing
+- Custom color matching
+- AAMA 2603/2604/2605 certified powder coating
+
+## Equipment
+- Alltra plasma table w/ Hypertherm XPR 300 (12'x24')
+- Alltra plasma table w/ Hypertherm HPR 400 (12'x24')
+- Bystronic BySmart Fiber 3015 6 kW
+- Bystronic BySmart Fiber 3015 10 kW
+- Cutlite Penta Fiber Fast 4020 20 kW
+- Bystronic M3 FL300 Tube Laser
+- Bystronic Xpert320 350 ton 14 ft press brake
+- Bystronic Xpert80 80 ton 5 ft press brake (2)
+- Bystronic Xpert320 350 ton 13 ft 6 in press brake
+- 80 ton horizontal press
+- Genesis Systems robotic weld stations (2)
+- Universal Robots welding cobot (4'x8' working area)
+- Fronius pulse welding stations (10)
+- VF 10 Haas machining center
+- Flex Arm tapping arms (2)
+- Automated bandsaws
+- Clemco/GFS manual blast booths 14'x24' (2)
+- Clemco manual blast cabinet 4'x6' with 48" turntable
+- Viking 84T automated blast cabinet
+- Gibson 96XT automated blast cabinet
+- GFS batch powder coat lines with overhead rail (3)
+- Wash booth 4‑stage chemical treat 12'x24'
+- Powder coat booth 12'x24'
+- Curing oven 12'x24'
+- Second curing oven 15'x30'
+- Steelman burn off oven 7'x7'x10'
+
+## Certifications
+- AAMA 2603
+- AAMA 2604
+- AAMA 2605
+- AWS D1.1
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 1913
+- **Ownership:** Family-owned
+- **Headquarters:** Red Oak, Iowa
+
+<details><summary>Sources</summary>
+
+- Founded 1913 as Pike Machine Shop -> /about
+- Renamed Red Oak Machine Co. 1923 -> /about
+- Ted Fort purchased half 1944, full 1946 -> /about
+- Four locations in Red Oak, IA -> /
+- Family-owned, fourth-generation Fort family -> /about
+- Plasma cutting with two Alltra tables (3" capacity) -> /services
+- Three fiber lasers: two Bystronic BySmart 6/10 kW, one Cutlite Penta 20 kW -> /services
+- Cutlite Penta 20 kW first in USA with fully automated load/unload -> /services
+- Tube laser: Bystronic M3 FL300 -> /services
+- 11 CNC machining centers, 2 horizontal mills, 4 vertical mills, 2 bar-fed lathes -> /services
+- Press brakes: 350 ton and 80 ton Bystronic -> /services
+- Robotic welding: 2 Genesis cells, 1 Universal Robots cobot -> /services
+- 11 AWS D1.1 certified welders -> /services
+- Powder coating: only GFS booths in IA with blast + 3‑stage wash -> /services
+- AAMA 2603, 2604, 2605 certified powder line -> /services
+- 60 in‑house colors, custom match in 10 business days -> /services
+- Powder coating turnaround 7‑10 days, 24‑hour expedited -> /services
+- Materials: steel, aluminum, stainless, UHMW -> /services
+- Carhartt retail store 4,600 sq ft -> /
+</details>
+
+---
+
+# Red River LLC - Pressure Vessel Manufacturer
+
+**Old description:** American Pressure Vessel Manufacturer Built on American Values
+
+## About
+Red River LLC operates from Gillette, Wyoming, where it was born in the American West out of a desire to bring back domestic manufacturing. The company evolved from a small local fabricator into an experienced pressure vessel and prefabrication partner, shipping products coast to coast for clients ranging from international public companies to startups. No founding year or individual founders are named in the company's public materials.
+
+The shop fabricates ASME-certified custom and OEM pressure vessels, prefabricated piping, spools, structural components, and modular skid packages. Core processes include design with specialized software, welding, assembly, coating, and final inspection by an ASME Authorized Inspector. The team includes multiple welding leads, prep leads, assembly staff, and an office manager — roughly two dozen craftsmen and support personnel — and every vessel ships with full quality-control and material-traceability documentation.
+
+Red River serves oil and gas production (separators, scrubbers, knock-outs, treaters), commercial and public works, power generation, minerals and elements, biogas, water treatment, air and gas handling, hydrocarbon processing, thermal energy storage, emission control, and defense R&D (high-temperature reactor vessels). Customers are typically solution providers and innovators who involve Red River from concept through startup, often on proprietary or confidential projects.
+
+The company emphasizes "American Values" — morals, family, work ethic, self-reliance, and a firm handshake — as its differentiator. It highlights a Lean Six Sigma–trained workforce, continuous improvement embedded at every level, a safety culture that goes beyond compliance, and a track record of rarely missing delivery dates while providing regular production updates. Quality is anchored in current ASME U4 and R stamps, an NBBI R Stamp, and American Welding Society membership.
+
+## Known for
+- ASME Certified with U4 & R stamps
+- NBBI R STAMP holder
+- Member of American Welding Society (AWS)
+- Lean Six Sigma trained team with continuous improvement culture
+- Coast-to-coast shipping with regular production updates
+- Full quality-control and material-traceability documentation per vessel
+- ASME Authorized Inspector approval on every vessel
+- Sour service designs available to NACE MR0175
+
+## Capabilities
+- ASME pressure vessel fabrication (U4 & R stamps)
+- Custom/OEM pressure vessel design and manufacturing
+- Prefabricated piping, spools, and structural components
+- Modular skid fabrication and packaged equipment
+- Separator and scrubber fabrication (two-phase, three-phase)
+- Sour service pressure vessels per NACE MR0175
+- High-temperature reactor vessel fabrication
+- Process tank fabrication
+- Thermal energy storage vessels
+- Regeneration vessels
+- CO2 capture tanks
+- ASME stationary refrigeration tanks
+- Welding (multiple certified welders)
+- Assembly and coating
+- Quality control with ASME Authorized Inspector
+- Material traceability documentation
+- Design using specialized software
+
+## Industries
+- Oil and Gas
+- Commercial/Public Works
+- Power Generation
+- Minerals/Elements
+- Bio Gas
+- Water Treatment
+- Air Systems
+- Gas Processing
+- Hydrocarbons
+- Thermal Energy Storage
+- Emission Control
+- Defense R&D
+
+## Certifications
+- ASME Certified (U4 & R stamps)
+- NBBI R STAMP
+- Member of American Welding Society (AWS)
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Gillette, Wyoming
+
+<details><summary>Sources</summary>
+
+- Headquarters: Gillette, Wyoming -> db
+- ASME U4 & R stamps, NBBI R STAMP, AWS membership -> /, /about-us
+- Pressure vessel fabrication, prefabrication, modular skids -> /, /capabilities
+- Team member names and roles (approx. 25) -> /about-us
+- Industries served list -> /about-us, /capabilities, /
+- Lean Six Sigma training, continuous improvement -> /
+- Quality control with ASME Authorized Inspector, material tracing -> /
+- Sour service per NACE MR0175 -> /
+- Stainless steel air tank fabrication mention -> /
+- High-temperature reactor vessels for defense R&D -> /about-us
+- Coast-to-coast shipping, rarely miss delivery dates -> /, /about-us
+- American Values messaging -> /, /about-us
+</details>
+
+---
+
+# RedLine Architectural Sheet Metal
+
+**Old description:** Redline Architectural sheet metal specializes in sheet metal work in the form and function of exterior and  interior spaces in order to enhance the appearance of a building.  We install and fabricate metal for commercial and residential buildings.
+
+## About
+RedLine Architectural Sheet Metal operates from South St. Paul, Minnesota. The company is led by President Ray Tieden Jr. and runs a fabrication shop South. A founding year is not publicly disclosed.
+
+The firm fabricates and installs architectural sheet metal for commercial and residential buildings. Its material palette includes prefinished, galvanized, and Galvalume steel; prefinished, mill-finished, and anodized aluminum; flat and crimped copper; zinc; stainless steel; and aluminum composite material (ACM). Products range from coping cap systems, counter flashings, and reglet flashings to cornices, fascia, curb caps, copper planter boxes, window and curtainwall flashings, commercial gutters, downspouts, scuppers, conductor heads, and hat and Z-channels. A portable panel machine enables on-site production of standing seam, soffit, flat-lock, ACM, corrugated, and insulated panels up to 100 feet in length, as well as roof-top screen walls and snow-retention systems.
+
+RedLine serves the commercial and residential construction sectors, working with building owners, general contractors, and architects on building-envelope and roofing projects. Its components are used in new construction and retrofit applications where custom metal detailing is required.
+
+The company emphasizes the integration of form and function in exterior and interior spaces to enhance a building’s appearance, though it does not publish a formal mission statement or origin story.
+
+## Known for
+- Portable panel machine capable of producing 100-foot panels on site
+- Fabrication and installation of architectural sheet metal for commercial and residential projects
+- Works with steel, aluminum, copper, zinc, stainless steel, and aluminum composite material
+
+## Capabilities
+- Sheet metal fabrication
+- Installation
+- Panel fabrication
+- Standing seam panel production
+- Soffit panel production
+- Flat-lock panel production
+- ACM panel production
+- Corrugated panel production
+- Insulated panel production
+- Roof top screen wall fabrication
+- Snow retention system fabrication
+- Coping cap system fabrication
+- Counter flashing fabrication
+- Reglet flashing fabrication
+- Flat roofing flashing fabrication
+- Cornice and fascia fabrication
+- Curb cap fabrication
+- Copper planter box fabrication
+- Window and curtainwall flashing fabrication
+- Commercial gutter fabrication
+- Downspout fabrication
+- Scupper and conductor head fabrication
+- Hat channel and Z-channel fabrication
+
+## Industries
+- Commercial construction
+- Residential construction
+
+## Equipment
+- Portable Panel Machine
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** South St. Paul, Minnesota
+
+<details><summary>Sources</summary>
+
+- Headquarters: South St. Paul, Minnesota -> db
+- President: Ray Tieden Jr. -> page "/"
+- Shop location: 1111 Concord Street South, South St. Paul, MN 55075 -> page "/"
+- Fabricates and installs architectural sheet metal for commercial and residential buildings -> page "/"
+- Materials: Steel (Prefinished, Galvanized, Galvalume), Aluminum (Prefinished, Mill Finished, Anodized), Copper (Flat, Crimped), Zinc, Stainless Steel, ACM (Aluminum Composite Material) -> page "/services"
+- Products: Coping cap systems, counter flashings, reglet flashings, flat roofing flashings, cornice & fascia, curb caps, copper planter boxes, window & curtainwall flashings, commercial gutters, downspouts, scuppers & conductor heads, hat channel and Z-channel -> page "/services"
+- Portable panel machine capable of running 100-foot panels -> page "/services"
+- Panel types: standing seam, soffit, flat-lock, ACM, corrugated, insulated, roof top screen walls, snow retention -> page "/services"
+</details>
+
+---
+
+# Reed Food Technology
+
+**Old description:** We’ve got a team of passionate food experts on our side, working to produce top-quality custom food products and providing personalized services.
+
+## About
+Reed Food Technology was established in 1995 as a family-owned and operated custom food product developer and private label manufacturer in Pearl, Mississippi. The company's foundation is built on a passion for food and family, a philosophy that extends through every team member. A sister facility, operating under the name Tastemaker Foods, is located in Hernando, Mississippi, giving the business two manufacturing sites in the state.
+
+The company specializes in custom food manufacturing and private label sauce production, guiding clients through a four-step process: discovery and formula development in a state-of-the-art lab and test kitchen, testing and approval, scale-up and packaging (including retail label design, portion pouches, totes, and bags), and ongoing quality support. Both facilities are SQF Level 3 certified, and the company maintains memberships in the Research Chefs Association and the Institute of Food Technologists. They emphasize flexibility, offering low minimum order quantities and quick turnaround on lab testing and sample requests.
+
+Reed Food Technology serves food brands, retailers, and foodservice operators seeking custom formulations or private label sauces and other food products. Its customer base includes over 300 clients and more than 2,000 developed products, ranging from startups to established brands looking for recipe improvement or new product design.
+
+The company says its differentiation lies in its family-driven culture, scientific approach to food innovation, and commitment to integrity—delivering high-quality, cost-effective products with some of the lowest minimums in the industry. Technical and culinary support teams work together to ensure each project meets exact specifications.
+
+## Known for
+- SQF Level 3 certification across both facilities
+- State-of-the-art lab and test kitchen for formula development and testing
+- Membership in Research Chefs Association and Institute of Food Technologists
+- Low minimum order quantities and quick sample turnaround
+- Two Mississippi manufacturing locations (Pearl and Hernando)
+
+## Capabilities
+- Custom Food Manufacturing
+- Private Label Sauce Production
+- Product Development (R&D)
+- Recipe Formulation
+- Lab Testing
+- Sensory Testing
+- Scale-Up Production
+- Packaging (retail label design, portion pouches, totes, bags)
+- Quality Management (SQF Level 3)
+- Regulatory Compliance Support
+- Technical Support
+- Culinary Support
+
+## Industries
+- Food Manufacturing
+- Private Label Food Production
+- Custom Food Product Development
+- Sauce Manufacturing
+
+## Certifications
+- SQF Level 3
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1995
+- **Ownership:** Family-owned
+- **Headquarters:** Pearl, Mississippi
+
+<details><summary>Sources</summary>
+
+- Founded 1995 -> /about
+- Family-owned and operated -> /about
+- Headquarters in Pearl, Mississippi -> /about
+- Sister facility Tastemaker Foods in Hernando, Mississippi -> /about
+- SQF Level 3 certified -> /about
+- Member of Research Chefs Association -> /about
+- Member of Institute of Food Technologists -> /about
+- State-of-the-art lab and test kitchen -> /about
+- Two manufacturing facilities -> /about
+- 300+ customers -> /about
+- 2,000+ products developed -> /about
+- Custom food manufacturing and private label sauce production -> /
+- Four-step process: discovery, testing, scale-up, support -> /
+- Low minimum order quantities -> /
+- Quick lab testing and sample request turnaround -> /about
+- Technical and culinary support teams -> /about
+- SQF certification -> db
+</details>
+
+---
+
+# Regal Plastic Supply Company
+
+**Old description:** Regal Plastic stocks high-quality materials, including acrylic, polycarbonate, HDPE, PVC, and a variety of specialty plastics, ideal for industrial, commercial, and custom fabrication needs.
+
+## About
+Regal Plastic Supply Company, a family-owned business established in 1954, operates from Oklahoma City, Oklahoma. The company began as a supplier of see-through and industrial plastics and has grown to serve the Midwest through 15 locations.
+
+The company stocks a broad inventory of plastic materials including acrylic, polycarbonate, HDPE, PVC, Lexan, Acetal, nylon, UHMW, LDPE, and display graphic substrates. Beyond distribution, Regal Plastic provides value-added fabrication services: cut-to-size cutting of sheets, rods, and tubes; CNC routing and machining for complex shapes; custom design, drilling, and fabrication; film conversion with slitting and rewinding; and 3D printing using SLA and SLS technologies. These capabilities support needs from single-piece prototypes to high-volume production runs.
+
+Regal Plastic serves industrial, commercial, and custom fabrication customers across sectors such as signage, printing, exhibits, manufacturing, agriculture, and construction. Its materials and fabrication services are used for protective barriers, windows, displays, gears, bushings, bearings, packaging, and other applications requiring chemical resistance, impact strength, or optical clarity.
+
+The company attributes its success to an experienced leadership team, a commitment to research and innovation, quick delivery, and a one-stop-shop model that combines material supply with on-site fabrication.
+
+## Known for
+- Family-owned since 1954
+- 15 locations across the Midwest
+- On-site custom design, cutting, drilling, and fabrication
+- Quick delivery and value-added services
+- One-stop source for plastic materials and fabrication
+
+## Capabilities
+- Cut-to-size cutting of sheets, rods, and tubes
+- CNC routing and machining
+- Custom fabrication (design, cutting, drilling)
+- Film conversion (slitting, rewinding)
+- 3D printing (SLA and SLS)
+- Plastic material distribution
+- Quality control programs
+
+## Industries
+- Industrial
+- Commercial
+- Signage
+- Printing
+- Exhibit
+- Manufacturing
+- Agriculture
+- Construction
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Founded:** 1954
+- **Ownership:** Family-owned
+- **Headquarters:** Oklahoma City, Oklahoma
+
+<details><summary>Sources</summary>
+
+- Founded 1954 -> db
+- Family-owned -> /
+- Headquarters Oklahoma City, Oklahoma -> db
+- 15 locations -> /
+- Materials: acrylic, polycarbonate, HDPE, PVC, Lexan, Acetal, nylon, UHMW, LDPE, display graphic substrates, specialty plastics -> /
+- Services: cut-to-size, CNC routing/machining, custom fabrication, film conversion, 3D printing (SLA/SLS), distribution, quality control -> /services
+- Industries served: industrial, commercial, signage, printing, exhibit, manufacturing, agriculture, construction -> /
+- Differentiators: experienced leadership, high-quality products, research and innovation, quick delivery, value-added services, one-stop shop -> /
+- Volume range: single piece to bulk orders, prototypes to high-volume production runs -> /services
+- Company type: Wholesale Plastic Distributor -> /
+</details>
+
+---
+
+# Reliable Medical Supply Inc
+
+**Old description:** Visit Kansas City's Premier Medical Equipment Supply Since 2003
+
+## About
+Reliable Medical Supply Inc operates a medical equipment showroom and online store from Lenexa, Kansas, a suburb of Kansas City. Founded in 2003, the family-owned business began as a local supplier of home medical equipment and has since expanded to serve customers nationwide through its e-commerce platform. The company emphasizes its community roots and personal approach to customer service.
+
+The company stocks and sells a range of home medical products, including lift chairs, adjustable hospital beds, power scooters, CPAP mask replacement parts, and supplies for wound care, respiratory therapy, and bariatric needs. It maintains a physical showroom where customers can see, touch, and try select items before purchasing. Services include white-glove delivery, equipment rental, online bill payment, and financing through Affirm. The business does not manufacture products but sources from established brands.
+
+Reliable Medical Supply primarily serves individuals and caregivers seeking home medical equipment, as well as healthcare facilities in the Kansas City region. Its customer base includes thousands of verified reviewers, with the company citing high ratings on Google and Shopper Approved. The product focus addresses mobility, respiratory, and wound-care requirements for aging and disabled populations.
+
+The company differentiates itself through a "try before you buy" model, risk-free returns, and a family-operated culture that touts over 100 years of combined staff experience. By combining a local showroom with online convenience, it aims to reduce the uncertainty often associated with purchasing medical supplies remotely.
+
+## Known for
+- Try Before You Buy: in-showroom product trials
+- White-glove delivery available
+- Equipment rental program
+- Buy now, pay later financing via Affirm
+- Family-owned with over 100 years of combined staff experience
+
+## Capabilities
+- Medical equipment retail sales
+- Equipment rental
+- In-showroom product demonstration
+- White-glove delivery
+- Online bill payment
+- Financing options (Affirm)
+
+## Industries
+- Home medical equipment
+- Respiratory care
+- Wound care
+- Bariatric care
+- Mobility aids
+
+## Company details
+- **Company Type:** Retailer
+- **Founded:** 2003
+- **Ownership:** Family-owned
+- **Headquarters:** Lenexa, Kansas
+
+<details><summary>Sources</summary>
+
+- Founded 2003 -> db
+- Headquarters Lenexa, Kansas -> db
+- Family-owned -> /
+- Showroom at 9645 Lackman Rd, Lenexa, KS 66219 -> /
+- Products: lift chairs, beds, power scooters, CPAP parts, wound care, respiratory, bariatric -> /
+- Services: try before you buy, white-glove delivery, rental, online bill pay, Affirm financing -> /
+- Over 100 years combined staff experience -> /
+- Thousands of verified customer reviews, 4.8 Google stars, 4.6 Shopper Approved -> /
+- Free shipping over $129.99 -> /
+</details>
+
+---
+
+# Reliable Power & Solar
+
+**Old description:** Reliable Power & Solar is a licensed electrical contractor based in Howell, NJ. We install, repair, and service both commercial and residential markets.
+
+## About
+Founded in 2016, Reliable Power & Solar operates from Howell Township, New Jersey, as a licensed electrical contractor serving the entire state. The company was established to provide full-scope solar and electrical services without relying on subcontractors, a practice it maintains across both commercial and residential projects.
+
+The firm handles every phase of solar deployment, from state applications and permitting through engineering, installation, inspections, and ongoing maintenance. Its crews also troubleshoot and repair existing arrays, including systems abandoned by original installers, and install protective critter guards to prevent wildlife damage to wiring and panels. The company notes it is equipped for commercial-scale work, citing completed projects for firehouses, first-aid squads, and office buildings.
+
+Customers span residential homeowners, commercial property owners, and municipal facilities such as fire stations and emergency-service buildings. The company also partners with the NJR Sunlight Advantage Program and offers lease structures that require no upfront capital, along with financing options for system ownership.
+
+Reliable Power & Solar distinguishes itself by performing all work in-house, repairing orphaned systems, and providing critter-guard installation as a preventive service for system owners who bear repair responsibility.
+
+## Known for
+- Does not subcontract installation or repair work
+- Repairs solar systems installed by other companies, including defunct installers
+- Offers solar lease programs with no upfront investment
+- Installs critter guards to protect panels from wildlife damage
+- Licensed electrical contractor for the entire state of New Jersey
+
+## Capabilities
+- Solar PV system installation
+- Electrical contracting
+- Solar system repair and maintenance
+- Critter guard installation
+- Wildlife damage remediation
+- Solar lease program administration
+- Project permitting and engineering
+- Commercial solar project execution
+
+## Industries
+- Commercial
+- Residential
+- Municipal
+- Office buildings
+
+## Company details
+- **Company Type:** Installer / service company
+- **Founded:** 2016
+- **Headquarters:** Howell Township, New Jersey
+
+<details><summary>Sources</summary>
+
+- Founded 2016 -> db
+- Headquarters Howell Township, NJ -> db
+- Licensed electrical contractor in NJ -> /
+- Provides full-phase solar installation -> /
+- Does not subcontract work -> /
+- Repairs systems from other companies -> /
+- Offers solar lease programs -> /
+- Executed projects for firehouses, first-aid squads, office buildings -> /
+- Installs critter guards for solar panels -> /services
+- Repairs wildlife damage -> /services
+- NJR Sunlight Advantage Program Partner -> db
+</details>
+
+---
+
+# Renaissance Wood & Timber
+
+**Old description:** Independence Day Sale- 25% off through July 31st: Sale price reflects in Cart.
+
+## About
+Renaissance Wood & Timber operates from Oklahoma City, Oklahoma, tracing its origins to 1826. The company’s early history and founding family are not detailed in available sources, but the business has maintained a continuous presence in the region for nearly two centuries.
+
+The shop produces hardwood dining tables, solid timber mantels, decorative solid and box beams, and chairs. All items are handcrafted at the Oklahoma City facility, with an emphasis on the natural character of each wood species. No facility dimensions, headcount, or annual output figures are published.
+
+The customer base includes homeowners, builders, and designers seeking quality materials for residential projects. Product listings feature Heart Pine barn timber, Douglas fir mantels, a studio collection, and white oak beams, illustrating the range of species and forms available.
+
+The company states that it aims to serve families with handmade centerpieces that anchor gathering places in the home, helping clients build culture from table to hearth. Its stated distinction rests on meticulous craftsmanship, timeless design, and the unique elegance of solid wood.
+
+## Known for
+- Handcrafted locally in Oklahoma City
+- Meticulous craftsmanship celebrating wood’s natural character
+- Focus on heirloom-quality centerpieces for the home
+- Serves homeowners, builders, and designers
+- Uses species such as Heart Pine, Douglas fir, and White Oak
+
+## Capabilities
+- Hardwood table manufacturing
+- Solid timber mantel fabrication
+- Decorative beam fabrication
+- Chair manufacturing
+
+## Industries
+- Homeowners
+- Builders
+- Designers
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1826
+- **Headquarters:** Oklahoma City, Oklahoma
+
+<details><summary>Sources</summary>
+
+- Founded 1826 -> db
+- Headquartered in Oklahoma City, Oklahoma -> db
+- Produces hardwood tables, solid timber mantels, decorative beams, and chairs -> /
+- Products made locally in OKC -> /
+- Serves homeowners, builders, and designers -> /
+- Materials include Heart Pine, Douglas Fir, White Oak -> /
+- Company aims to serve families with handmade centerpieces -> /
+- Emphasizes craftsmanship, character, and timeless design -> /
+</details>
+
+---
+
+# Renesas Electronics America
+
+**Old description:** has been synonymous with perfectly cooked rice in Korea for more than two decades. Founded in 1978 as Sung-kwang Electronics, the company spent its early years as an OEM supplier before launching the CUCKOO brand in 1998. CUCKOO’s pressure rice cooker has retained the No. 1 market share in South Korea since its launch. Today, CUCKOO is the top-selling rice cooker label in South Korea and a growing global appliance brand, with products ranging from water and air purifiers to vacuum cleaners and a broad line of kitchen appliances.
+
+## About
+Renesas Electronics America operates from Morrisville, North Carolina, as the U.S. subsidiary of Renesas Electronics Corporation, a global semiconductor company headquartered in Japan. The American arm supports the corporation's mission to deliver embedded semiconductor solutions across automotive, industrial, infrastructure, and IoT markets.
+
+The company provides a broad portfolio spanning analog and mixed-signal circuits, power management devices, embedded processing (MCUs and MPUs), and connectivity products. Its technology includes GaN power devices, GreenPAK programmable mixed-signal ICs, and high-performance computing solutions. Renesas employs over 21,000 professionals across more than 30 countries, with design, sales, and support operations worldwide.
+
+Customers include automotive OEMs and tier-1 suppliers, industrial automation vendors, data-center and robotics developers, and IoT device makers. The firm's solutions appear in applications such as electric-vehicle power trains, factory automation, AI data-center power delivery, and low-power edge-computing endpoints.
+
+Renesas emphasizes its system-level expertise and the industry's widest product portfolio as differentiators, aiming to reduce development effort through reusable design assets and pin-compatible device families. Its stated purpose, 'To Make Our Lives Easier,' underscores a focus on power-efficient, sustainable semiconductor solutions.
+
+## Known for
+- Industry's leading expert in embedded processing with unmatched system-level know-how
+- Broadest product portfolio covering analog, power, embedded processing, and connectivity
+- Scalable, comprehensive semiconductor solutions for automotive, industrial, infrastructure, and IoT
+- Power-efficient, sustainable designs that reduce development effort through reusable assets
+- Pin-compatible MCU/MPU families enabling seamless product scaling
+
+## Capabilities
+- Analog and mixed-signal design
+- Power semiconductor design
+- Embedded processing (MCU/MPU)
+- GaN power device development
+- GreenPAK programmable mixed-signal ICs
+- Automotive-grade semiconductor solutions
+- Industrial semiconductor solutions
+- IoT connectivity solutions
+- High-performance computing solutions
+
+## Industries
+- Automotive
+- Industrial
+- Infrastructure
+- IoT
+- AI data centers
+- Robotics
+- Human-machine interface (HMI)
+
+## Company details
+- **Company Type:** Manufacturer
+- **Employees:** 21,000+
+- **Ownership:** Public company (subsidiary of Renesas Electronics Corporation)
+- **Headquarters:** Morrisville, North Carolina
+
+<details><summary>Sources</summary>
+
+- Headquarters in Morrisville, North Carolina -> db
+- Subsidiary of Renesas Electronics Corporation (Japan) -> /about
+- Over 21,000 professionals in 30+ countries -> /about
+- Product portfolio: analog, power, embedded processing, connectivity -> /about
+- Technologies: GaN, GreenPAK, high-performance computing -> /about and /
+- Industries served: automotive, industrial, infrastructure, IoT -> /about
+- Applications: EV power trains, factory automation, AI data centers, edge computing -> / and /about
+- Purpose: 'To Make Our Lives Easier' -> /about
+- System-level expertise and broadest portfolio as differentiators -> /about
+- Pin-compatible MCU/MPU families for reusable design assets -> /
+</details>
+
+---

@@ -1,0 +1,586 @@
+# Apogee Semiconductor
+
+**Old description:** Radiation-hardened, high-performance power solutions built for space, defense, and the harshest environments on Earth.
+
+## About
+Apogee Semiconductor was founded in 2017 in Plano, Texas, launched with a National Science Foundation grant to solve the reliability problem of commercial off-the-shelf (COTS) components in space and defense applications. The founding team established the company as a U.S.-based supplier of radiation-hardened power, analog, and mixed-signal integrated circuits.
+
+The company designs fault-containment ICs that serve as a protective architecture layer around COTS parts, rather than replacing every component. Its product portfolio includes radiation-hardened shift registers, I/O expanders, smart high-side power switches, level translators, majority voters, and GPIO expanders. Apogee operates a fabless model, partnering with qualified foundry, assembly, and test suppliers while maintaining oversight through documented processes and traceability. By 2022 the company had shipped 10,000 units, and its components achieved verified flight heritage in 2023.
+
+Apogee serves space and defense programs, including LEO and GEO satellite missions and harsh-environment defense systems. Its components have been validated through NASA's Tipping Point program and are used in mission-critical power architectures where deterministic fault containment and telemetry are required. Customers range from satellite integrators to defense prime contractors seeking to reduce system cost without compromising reliability.
+
+Apogee differentiates itself by building fault containment into the silicon architecture rather than screening commercial parts after fabrication. The company's Zero-Power-Penalty™ cold-sparing technology eliminates leakage current in redundant circuits, and its LEO and GEO product variants share identical form, fit, and function to simplify design reuse. Apogee emphasizes engineer-to-engineer support, publishing all test data openly and responding to technical inquiries within 24 hours.
+
+## Known for
+- Fault containment built into silicon architecture, not screened after fabrication
+- Zero-Power-Penalty™ cold sparing eliminates leakage in redundant parts
+- LEO and GEO variants share identical form, fit, and function
+- Engineer-to-engineer support with 24-hour technical response and open test data
+- Fabless model with qualified foundry/assembly/test partners and documented supplier oversight
+
+## Capabilities
+- Radiation-hardened IC design
+- Fault containment architecture
+- Cold sparing (Zero-Power-Penalty)
+- Level translation
+- Smart high-side power switching
+- Majority voting
+- GPIO expansion
+- Serial-in parallel-out shift registers
+- JEDEC-qualified reliability testing (J-STD-020)
+- Product change notification (J-STD-046)
+- Design and change control
+- Manufacturing and supplier oversight
+- Reliability and qualification flows
+- Continuous improvement processes
+
+## Industries
+- Space
+- Defense
+- Aerospace
+- Military
+- Harsh environments
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 2017
+- **Headquarters:** Plano, Texas
+
+<details><summary>Sources</summary>
+
+- Founded 2017 in Plano, Texas with NSF grant -> /about-us
+- Radiation-hardened power, analog, mixed-signal IC provider -> /about-us
+- Fault containment architecture layer around COTS -> /about-us
+- Zero-Power-Penalty cold sparing technology -> /about-us
+- LEO and GEO variants share form, fit, function -> /about-us
+- Engineer-to-engineer support, 24-hour response, open test data -> /about-us
+- 10,000 units shipped by 2022 -> /about-us
+- Flight heritage established 2023 -> /about-us
+- ISO 9001 certified April 2024 -> /about-us
+- NASA Tipping Point Award 2019 -> /about-us
+- First product shipped August 2021 -> /about-us
+- 300 krad product family released 2023 -> /about-us
+- Industry's first GPIO expander May 2025 -> /about-us
+- Industry's smallest smart load switch family February 2026 -> /about-us
+- Fabless model with qualified foundry, assembly, test partners -> /quality
+- JEDEC J-STD-020 MSL characterization -> /quality
+- JEDEC J-STD-046 product change notification -> /quality
+- Product shelf life policies -> /quality
+- CEO David Briggs, 34 years semiconductor experience -> /about-us
+- Director Engineering Brett Smith, 25+ years experience -> /about-us
+</details>
+
+---
+
+# Apparatus Manufacturing Inc.
+
+**Old description:** Stainless-steel and IP-rated electrical enclosures, junction boxes to large custom cabinets
+
+## About
+Apparatus Manufacturing began in 1986 on Commerce Street in Poughkeepsie, New York, when founder Norman Murley started with a welding booth and a tape-fed CNC machine. The family-owned, family-run shop remains at the same Hudson Valley address today, now led by Norman's son Christopher.
+
+The company specializes in precision sheet metal fabrication, offering cutting, forming, welding, assembly, and finishing for prototypes through production runs. Its facility runs autoloading fiber lasers, servo presses, and software-enabled process automation, and houses a fully automated powder coating line with ovens up to 118 by 59 by 31 inches, three color-change centers, a reclamation system, and four ITW Gema manual guns. Additional finishes include anodizing, silk screening, and engraving. Materials processed range from stainless steel, aluminum, and copper to mild steel and brass.
+
+Apparatus serves commercial and retail markets, with documented work for IBM, Marriott, and UPS on products such as compact junction boxes and hotel kiosk enclosures. The customer base spans data centers, retail fixtures, medical equipment, scientific instruments, hospitality, restaurants, office furniture, logistics and warehousing, electrical enclosures, railway transport, and lighting.
+
+The founder's guiding principle—"Aim small, miss small"—reflects a commitment to parts that fit the first time at a competitive price. The company emphasizes value engineering from start to finish, leveraging automated finishing for speed and consistency while maintaining a hands-on, family-run culture.
+
+## Known for
+- Family-owned and operated since 1986 at the original Poughkeepsie location
+- Fully automated powder coating facility with in-line pretreatment and dual stoving ovens
+- Precision sheet metal fabrication from prototype to production with autoloading fiber lasers and servo presses
+- Value engineering applied from design through delivery
+- Trusted by major brands including IBM, Marriott, and UPS
+
+## Capabilities
+- Precision sheet metal fabrication
+- Laser cutting (fiber laser)
+- Forming (servo press)
+- Welding
+- Assembly
+- Powder coating (automated with pretreatment)
+- Anodizing
+- Silk screening
+- Engraving
+- Value engineering
+- Prototyping
+- Production runs
+
+## Industries
+- Commercial
+- Retail
+- Data center
+- Electrical enclosures
+- Retail fixtures
+- Medical equipment
+- Scientific
+- Hospitality
+- Restaurants
+- Office furniture
+- Logistics & warehousing
+- Railway transport
+- Lighting
+
+## Equipment
+- Autoloading fiber lasers
+- Servo presses
+- Software-enabled process automation
+- Powder coating ovens (118" x 59" x 31")
+- Three color-change powder centers
+- Powder reclamation system
+- Four ITW Gema manual powder coating guns
+- Tape-fed CNC machine (historical)
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1986
+- **Ownership:** Family-owned, family-run
+- **Headquarters:** Poughkeepsie, New York
+
+<details><summary>Sources</summary>
+
+- Founded 1986 in Poughkeepsie, NY by Norman Murley -> /about
+- Family-owned, family-run, now led by Christopher Murley -> /about
+- Precision sheet metal fabrication: cut, form, weld, assemble, finish -> /about
+- Equipment: autoloading fiber lasers, servo presses, software-enabled process automation -> /about
+- Automated powder coating facility with ovens up to 118x59x31 in, three color-change centers, reclamation, four ITW Gema guns -> /quality
+- Additional finishes: anodizing, silk screening, engraving -> /quality
+- Materials: stainless steel, aluminum, copper, mild steel, brass -> /about, /quality
+- Industries served: commercial, retail, data center, retail fixtures, medical, scientific, hospitality, restaurants, office furniture, logistics, electrical enclosures, railway, lighting -> /, /quality
+- Customers: IBM, Marriott, UPS -> /, /about
+- Value engineering from start to finish -> /
+- Aim small, miss small philosophy -> /about
+</details>
+
+---
+
+# Apparel Factory® - Wholesale Premium Blank & Custom Apparel
+
+**Old description:** Get Free Shipping on U.S. orders over $500 (excludes HI, PR & AK).
+
+## About
+Apparel Factory® operates from Los Angeles, California, supplying wholesale blank apparel to decorators and brands across the United States. The company does not disclose its founding year, ownership structure, or founders in its public materials.
+
+The catalog centers on decorator-ready basics: short- and long-sleeve tees, hoodies, crewnecks, quarter-zips, tank tops, and baseball jerseys sold under the AF Essential and Proline by AF® lines. Every style is marketed as print-ready, pre-shrunk, and equipped with tear-away labels to simplify relabeling. The company emphasizes eco-conscious production but does not publish facility size, headcount, or annual volume figures.
+
+Customers include screen-print shops, direct-to-film (DTF) operators, merch programs, and streetwear labels. The homepage references "rush orders, tired printers" and positions the AF810 tee as a blank that "took the DTF like a pro" with "perfect adhesion, no cracking, no peeling." Hoodies such as the AF360 are described as doubling "as a perfect blank for merch drops and brand collections." Youth and women's cuts extend the range for uniform and teamwear buyers.
+
+Apparel Factory® highlights its eco-conscious production approach and decorator-focused features—pre-shrunk fabrics, tear-away labels, and printer-approved construction—as the core differentiators that attracted its customer base. Free shipping is offered on California orders over $350 and U.S. orders over $500 (excluding Alaska, Hawaii, and territories).
+
+## Known for
+- Free shipping on California orders over $350
+- Free shipping on U.S. orders over $500 (excludes AK, HI, USVI, PR)
+- Print-ready, pre-shrunk, tear-away labels on all blanks
+- Eco-conscious production emphasis
+- Printer-approved construction for DTF and screen printing
+
+## Capabilities
+- Wholesale blank apparel distribution
+- Custom apparel sourcing programs
+- DTF-compatible blank selection
+- Screen-print-compatible blank selection
+- Eco-conscious production sourcing
+
+## Industries
+- Apparel decoration
+- Screen printing
+- Direct-to-film (DTF) printing
+- Merchandise branding
+- Streetwear
+- Promotional products
+- Teamwear and uniforms
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Headquarters:** Los Angeles, California
+
+<details><summary>Sources</summary>
+
+- Company name and tagline -> db
+- Headquarters: Los Angeles, California -> db
+- Business description: Wholesale Blanks & Custom Apparel -> /
+- Free shipping thresholds: $350 CA, $500 US -> /
+- Product lines: AF Essential, Proline by AF -> /
+- Specific SKUs and product details (AF810, AF360, etc.) -> /
+- Fabric weights and compositions (4.7 oz to 14 oz) -> /
+- Features: print-ready, pre-shrunk, tear-away label, printer-approved -> /
+- Eco-conscious production mention -> db, /
+- Customer references: printers, merch drops, brand collections -> /
+- Youth and women's cuts available -> /
+</details>
+
+---
+
+# Apparel MFG USA
+
+**Old description:** Cut and sew manufacturing for fashion brands that demand excellence.
+
+## About
+Apparel MFG USA operates from a facility in Glendale, California, within Los Angeles County's fashion corridor. The company was founded as an independent cut-and-sew contractor to provide domestic production for brands seeking faster turnarounds and greater oversight.
+
+The shop delivers end-to-end garment manufacturing, covering product development (pattern making, grading, sampling, digitizing, fabric and trim sourcing), cut-and-sew production (cutting, sewing, finishing, pressing), private-label branding (screen printing, embroidery, heat transfers, labeling, packaging), and full-service packages that manage material procurement through logistics. All work is performed in-house at the Glendale plant, with capacity ranging from small runs of 50 units to larger orders of 5,000 units.
+
+Clients include emerging designers, direct-to-consumer startups, celebrity labels, influencer-driven drops, and established retailers. The company produces a range of apparel categories such as t‑shirts, hoodies, activewear, loungewear, and outerwear, serving the fashion, streetwear, and retail sectors.
+
+Apparel MFG USA positions itself on the premise that U.S.-based manufacturing offers quality, accountability, and pride. It emphasizes rapid turnarounds, transparent communication, and proximity to Los Angeles' fashion ecosystem as key differentiators for brands of any size.
+
+## Known for
+- In-house production at Glendale, CA facility
+- Rapid turnarounds with clear communication
+- Scalable from 50 to 5,000 units per order
+- End-to-end service from development to logistics
+- Located in Los Angeles fashion hub
+
+## Capabilities
+- Pattern making & grading
+- Sample production & duplicate samples
+- Fabric & trim sourcing
+- Digitizing & consulting
+- Cutting & sewing
+- Finishing & pressing
+- Retail-ready packaging
+- Screen printing & embroidery
+- Heat transfer application
+- Label & tag application
+- Custom garment construction
+- Private label & branding
+- Product development
+- Cut & sew manufacturing
+- Full service packages
+- Material sourcing
+- Production management
+- Logistics support
+
+## Industries
+- Fashion
+- Apparel
+- Streetwear
+- Activewear
+- Loungewear
+- Outerwear
+- Retail
+- Direct-to-consumer (DTC)
+- Celebrity labels
+- Influencer-led brands
+- Startups
+- Designers
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Headquarters:** Glendale, California
+
+<details><summary>Sources</summary>
+
+- Location: Glendale, California -> /
+- In-house production at Glendale facility -> /about
+- Services: product development, cut & sew, private label, full service packages -> /services
+- Volume range: 50 to 5,000 units -> /services
+- Industries served: fashion brands, designers, startups, retailers, DTC, celebrity labels -> /about, /services
+- Rapid turnarounds and clear communication -> /about, /services
+- No founding year stated -> db
+- No ownership tags stated -> db
+- LinkedIn URL -> db
+</details>
+
+---
+
+# Applied Components Manufacturing, LLC
+
+**Old description:** Precision machining built for repeatability and long-term supply.
+
+## About
+Applied Components Manufacturing, LLC operates from Hickory, North Carolina, where it runs a focused factory for key components. The company specializes in precision machining built for repeatability and long-term supply, supporting customers who need dependable, repeat output over extended programs.
+
+The shop centers on advanced production turning platforms, including live-tool, subspindle, and twin-turret CNC lathes with integrated bar-fed automation. It also provides dedicated servo-electric and turret punch capability for insulation stamping. The equipment supports multi-operation machining, C-axis capability, and lights-out production for parts up to roughly 27 inches in length, with machining envelopes around 20 inches for turning work.
+
+ACM serves commercial and industrial customers with engineer-led production, stable processes, and direct technical communication. Its capabilities are geared toward controlled, tight-tolerance work where consistency matters across ongoing demand, and the team offers practical production review during the quoting phase.
+
+The company emphasizes integrated automation and practical production review to improve throughput and deliver consistent component quality across long-term production relationships, positioning itself as a supplier that can support ongoing demand without sacrificing precision.
+
+## Known for
+- Engineer-led production with direct technical communication
+- Integrated bar-fed automation for stable, efficient throughput
+- Live-tool, subspindle, and twin-turret turning for repeat production
+- Dedicated servo-electric and turret punch capability for insulation components
+- Controlled processes for tight-tolerance, repeatable machining
+
+## Capabilities
+- Production CNC turning (live-tool, subspindle, twin-turret)
+- Multi-operation machining
+- C-axis capability
+- Lights-out machining support
+- Integrated bar-fed automation
+- Insulation stamping (servo-electric and turret punch)
+- Tight-tolerance machining
+- Engineer-led production and technical communication
+- Practical production review
+
+## Industries
+- Commercial
+- Industrial
+
+## Equipment
+- Live-tool, subspindle, and twin-turret CNC lathes
+- Bar-fed automation systems
+- Servo-electric punch presses
+- Turret punch presses
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Hickory, North Carolina
+
+<details><summary>Sources</summary>
+
+- Company name and location -> db
+- Precision machining built for repeatability and long-term supply -> /
+- Engineer-led production, stable processes, clear communication -> /
+- Production CNC turning with live-tool, subspindle, twin-turret machining -> /
+- Integrated bar-fed automation -> /
+- Insulation stamping with dedicated punching support -> /
+- Servo-electric and turret punch capability -> capabilities array
+- Multi-operation machining, C-axis capability, lights-out machining -> capabilities array
+- Machining length up to 27 inches -> capabilities array
+- Serves commercial and industrial customers -> /
+</details>
+
+---
+
+# Aquidneck Island Technologies
+
+**Old description:** , designed for comfort, acoustics, and unforgettable experiences. Ideal for movie nights, gaming, or entertaining.
+
+## About
+Aquidneck Island Technologies, operating as AQ Tech, is based in Portsmouth, Rhode Island. The company was founded by Phil, Ross, and Scott, who connected over a shared vision to elevate how people experience their spaces through intelligent, beautifully integrated technology. According to the company's website, they have been building smart home and technology solutions for over seven years.
+
+AQ Tech provides custom smart technology installation and integration services for residential and commercial clients. Their offerings span custom home theater design, whole-home audio and video distribution, smart home automation using platforms such as Control4 and Josh.ai, centralized Wi-Fi and network infrastructure, lighting and shade control with Lutron systems, outdoor landscape lighting and audio from Coastal Source, and surveillance and security systems. A fleet of technicians with over 60 years of combined experience handles everything from initial consultation and on-site evaluation through wiring, mounting, system configuration, user training, and ongoing support.
+
+The company serves homeowners, businesses, builders, and designers across Rhode Island and the greater New England area. Residential projects include historic coastal homes and modern indoor and outdoor entertainment spaces. Commercial clients range from restaurants, bars, and social clubs to offices, conference rooms, and recreational facilities, where AQ Tech delivers scalable AV, lighting, networking, and security solutions tailored to each environment.
+
+AQ Tech emphasizes a personalized approach, precise installations, and seamless integration as its differentiators. The firm prioritizes energy-efficient solutions, stays current with products from industry leaders like Lutron, Sonance, and Josh.ai, and maintains a three-step process of consultation, coordinated installation, and long-term support to ensure every project feels effortless.
+
+## Known for
+- Over 60 years of combined technician experience
+- Personalized discovery meeting and on-site evaluation for every project
+- Ongoing phone and email support beyond installation
+- Integration with leading platforms: Control4, Josh.ai, Lutron, Sonance, Coastal Source
+- Energy-efficient solutions prioritized in every design
+
+## Capabilities
+- Smart home automation system design and installation
+- Custom home theater design and installation
+- Whole-home audio and video distribution
+- Centralized Wi-Fi and network design
+- Lighting control systems (Lutron)
+- Motorized shading (Lutron Palladiom)
+- Outdoor landscape lighting and audio (Coastal Source)
+- Surveillance and security system installation
+- TV concealment systems (Nexus 21 lifts)
+- Structured wiring and network planning
+- Voice control integration (Josh.ai, Alexa, Siri)
+- Smart thermostat and HVAC integration
+- Commercial AV and technology solutions
+- System retrofit and upgrades
+- Ongoing maintenance and monitoring
+- Collaboration with builders and designers
+
+## Industries
+- Residential homes
+- Commercial properties
+- Restaurants and bars
+- Offices and conference rooms
+- Recreational facilities
+- Social clubs
+- Indoor and outdoor entertainment spaces
+
+## Equipment
+- Control4 automation systems
+- Josh.ai voice control
+- Lutron lighting control systems
+- Lutron Palladiom motorized shades
+- Sonance audio systems (Invisible, James by Sonance)
+- Coastal Source landscape lighting
+- Nexus 21 TV lifts
+- Apple TV, Roku streaming devices
+- URC control systems
+
+## Company details
+- **Company Type:** Installer / service company
+- **Headquarters:** Portsmouth, Rhode Island
+
+<details><summary>Sources</summary>
+
+- Headquarters: Portsmouth, Rhode Island -> db
+- Founders: Phil, Ross, Scott -> /about-us
+- Operating over seven years -> /
+- Services: custom home theater, whole-home audio/video, smart home automation, centralized Wi-Fi, lighting/shade control, outdoor lighting/audio, surveillance -> /, /services
+- Platforms: Control4, Josh.ai, Lutron, Sonance, Coastal Source, Nexus 21, URC -> /, /services
+- Technician experience: over 60 years combined -> /
+- Industries served: residential, commercial (restaurants, bars, offices, conference rooms, recreational facilities, social clubs) -> /about-us
+- Process: consultation, installation, training/support -> /services
+- Energy-efficient solutions priority -> /about-us
+- Company type: installer/service company -> /, /services
+</details>
+
+---
+
+# Arcadia Lighting
+
+**Old description:** Arcadia Lighting is a Houston, Texas-headquartered manufacturer of commercial and industrial LED lighting fixtures serving North American wholesale markets
+
+## About
+Arcadia Lighting was founded in 2017 and is headquartered in Houston, Texas, where it operates as a manufacturer of commercial and industrial LED lighting fixtures.
+
+The company manufactures a range of commercial and industrial LED lighting fixtures, including high bay lights, area and roadway lighting, landscape lighting, wall lighting, flood lighting, canopy and garage lighting, sports lighting, panel lighting, LED strips, vapor tight fixtures, and steel lighting poles. It offers custom manufacturing with selectable wattage and color temperature options, allowing customers to tailor fixtures to project requirements. The operation runs with a team of 2 to 10 employees.
+
+Arcadia Lighting serves commercial, industrial, and wholesale distribution sectors across North America, focusing on wholesale distribution partners through its distributor partner program. Its product line is designed for wholesale markets, providing a range of fixtures suitable for various commercial and industrial applications.
+
+The company distinguishes itself through a distributor partner program and the ability to customize wattage and color temperature on its fixtures, catering to the specific needs of wholesale buyers.
+
+## Known for
+- Custom manufacturing of LED fixtures
+- Selectable wattage and color temperature options
+- Distributor partner program
+
+## Capabilities
+- custom manufacturing
+- selectable wattage and color temperature options
+- distributor partner program
+
+## Industries
+- commercial
+- industrial
+- wholesale distribution
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 2017
+- **Employees:** 2-10
+- **Headquarters:** Houston, Texas
+
+<details><summary>Sources</summary>
+
+- headquarters Houston, Texas -> db
+- founded 2017 -> db
+- employee count 2-10 -> db
+- product list (high bay lights, area and roadway lighting, etc.) -> db
+- capabilities (custom manufacturing, selectable wattage and color temperature options, distributor partner program) -> db
+- industries served (commercial, industrial, wholesale distribution) -> db
+- LinkedIn URL -> db
+</details>
+
+---
+
+# Arch Auto Parts
+
+**Old description:** Receive exclusive promotions, updates and product and location announcements. Join the Arch Auto Newsletter today!
+
+## About
+Arch Auto Parts operates a chain of neighborhood auto parts stores across Brooklyn and the Bronx, with locations on Atlantic Avenue, Avenue D, Jamaica Avenue in Hollis, and Boston Road. The company positions itself as a local source for automotive components and services.
+
+The retailer stocks a full line of automotive products sourced from major manufacturers, ranging from replacement parts to seasonal items such as A/C repair kits. In addition to counter sales, Arch Auto Parts provides an "Arch Parts Service" for vehicle maintenance and repair. The business runs a loyalty program that gives retail customers a 5% discount at the point of sale, and offers local delivery and easy returns.
+
+Customers include do-it-yourself vehicle owners and professional mechanics, as reflected in online reviews that mention both hobbyists and shop technicians. The stores serve the broader automotive aftermarket in the New York City area, supplying parts for a wide range of makes and models.
+
+The company emphasizes knowledgeable staff and neighborhood convenience, promoting itself as "New York's Neighborhood Parts Store" where customers receive genuine assistance from people who know what they're doing. Its differentiators include the loyalty discount, local delivery, and a focus on warranty-backed products.
+
+## Known for
+- 5% loyalty discount applied at purchase
+- Local delivery service
+- Easy returns policy
+- Multiple neighborhood locations in Brooklyn and the Bronx
+- Arch Parts Service for vehicle repair
+
+## Capabilities
+- Auto parts retail
+- Automotive repair services (Arch Parts Service)
+- Customer loyalty program
+- Local delivery
+- Returns processing
+
+## Industries
+- Automotive aftermarket
+- Automotive repair
+- Retail auto parts
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Headquarters:** Brooklyn, New York
+
+<details><summary>Sources</summary>
+
+- Multiple store locations in Brooklyn and Bronx -> /
+- Arch Parts Service offered -> /
+- Loyalty program with 5% discount -> /
+- Sells products from major manufacturers -> /
+- Local delivery and easy returns -> /
+- Headquarters in Brooklyn, NY -> db
+</details>
+
+---
+
+# Ardent Mills Harvey Mill
+
+_skipped: not enough facts_
+
+# Arena Prints
+
+**Old description:** Puffer Vest | Arena Custom Blanks - Arena Prints - Front - Black
+
+## About
+Arena Prints operates from Phoenix, Arizona, under the legal entity Arena Apparel LLC. The company focuses on supplying apparel decorators with pre-burned screens, inks, and custom blank garments. No founding year or founder names are disclosed in public materials.
+
+The product line centers on screen-printing consumables and decoratable apparel. Arena Prints offers pre-burned screens marketed as having the largest print area in the industry, along with water-based and plastisol inks, squeegees, tape, and ink-mixing systems. Its custom blanks range from heavyweight hoodies and puffer vests made with 100% recycled polyester and RDS-certified down to a wide selection of caps, beanies, and workwear in duck canvas. Decoration services include embroidery, heat pressing, digital printing, and vinyl transfer, supported by an online design tool.
+
+Customers are primarily screen-print shops, embroidery houses, and promotional-product distributors who need ready-to-decorate garments and screen-making supplies. The company also serves small brands and designers through its custom-blank program, which features details like invisible lining-access zippers for easier branding.
+
+Arena Prints emphasizes its pre-burned screen technology, claiming the largest burn area available, and highlights free shipping on orders over $250 as a practical advantage for decorators.
+
+## Known for
+- Largest print area on pre-burned screens in the industry
+- Free shipping on orders over $250
+- Custom blanks with invisible lining-access zipper for branding
+- RDS-certified down and feathers in outerwear
+- HD-resolution screen printing via pre-burned screens
+
+## Capabilities
+- Pre-burned screens
+- Screen printing supplies
+- Water-based inks
+- Plastisol inks
+- Squeegees
+- Tape
+- Ink mixing systems
+- Custom blank apparel
+- Embroidery
+- Heat pressing
+- Digital printing
+- Vinyl transfer
+- Online design tool
+
+## Industries
+- Apparel decoration
+- Screen printing
+- Embroidery
+- Promotional products
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Phoenix, Arizona
+
+<details><summary>Sources</summary>
+
+- Location: Phoenix, Arizona -> db
+- Legal entity: Arena Apparel LLC -> homepage copyright
+- Core offering: pre-burned screens, inks, custom blanks -> homepage
+- Claim: largest print area on screen burns -> industries_served field
+- Ink types: water-based and plastisol -> homepage
+- Supplies: squeegees, tape, ink mixing systems -> homepage
+- Apparel products: puffer vest, hoodies, caps, beanies, workwear -> homepage
+- Materials: 100% recycled polyester, 80/20 down/feather, duck canvas, RDS-certified down -> product description
+- Decoration services: embroidery, heat pressing, digital print, vinyl transfer -> product description
+- Free shipping threshold: $250 -> homepage
+- Invisible lining-access zipper for branding -> product description
+- Online design tool: Design Your Own -> homepage navigation
+</details>
+
+---

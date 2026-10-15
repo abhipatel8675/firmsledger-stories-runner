@@ -3,20 +3,20 @@
 **Old description:** In high-stakes industries, the wrong packaging can cost more than money—it can cost safety, compliance, and reputation. That’s why
 
 ## About
-M&Q Packaging LLC, based in Schuylkill Haven, Pennsylvania, was founded in 1976. The company has spent over five decades developing high-temperature nylon packaging for demanding industrial applications.
+M&Q Packaging LLC has operated from Schuylkill Haven, Pennsylvania since its founding in 1976. The company remains privately held, though ownership details are not publicly disclosed.
 
-The company manufactures custom plastic packaging solutions, including vacuum bagging films for composite manufacturing, sterilization packaging for medical devices, solvent recovery bags for chemical resistance, cleanroom and anti-static packaging for electronics, modified atmosphere packaging for food processing, and custom-engineered nylon, polyester, and elastomer films. Its products are designed to withstand temperatures up to 400°F, autoclaving, abrasion, and chemical exposure. No facility size or headcount figures are published.
+The manufacturer produces high-temperature nylon packaging films and bags engineered for extreme environments. Its product line includes vacuum bagging films for composite manufacturing, sterilization packaging for medical devices, solvent recovery bags resistant to corrosive chemicals, cleanroom anti-static packaging, modified atmosphere packaging for food preservation, and custom engineered films in nylon, polyester, and elastomer formulations. The company states its materials withstand temperatures up to 400°F and autoclaving cycles.
 
-M&Q serves aerospace and defense, medical and dental device manufacturing, electronics and cleanroom manufacturing, ballistic glass manufacturing, solvent recovery, and food processing industries. Specific applications include composite layup vacuum bagging, medical instrument sterilization, and food shelf-life extension.
+M&Q serves aerospace and defense, medical and dental device manufacturing, electronics and cleanroom manufacturing, ballistic glass manufacturing, solvent recovery operations, food processing, and aerospace-recreational sectors. Customers include composite manufacturers requiring vacuum bagging films, medical device makers needing sterilization packaging, and food processors using modified atmosphere films.
 
-The company emphasizes its 50-plus years of experience, heat-resistant materials that endure extreme conditions, compliance with FDA and cleanroom standards, and a focus on custom-engineered films tailored to each client’s unique challenges.
+The company emphasizes its decades of experience in high-temperature nylon packaging, heat-resistant materials that endure abrasion and chemical exposure, compliance with FDA and cleanroom standards, and tailored custom film solutions. A HACCP-based food safety system governs its quality processes.
 
 ## Known for
-- Over 50 years of experience delivering high-performance packaging across aerospace, medical, industrial, and food processing industries
-- Packaging designed to withstand extreme temperatures up to 400°F, abrasion, and chemical exposure
-- Solutions built to meet FDA, cleanroom, and specialized regulatory standards
-- Custom films, bags, and packaging materials engineered for each client’s unique challenges
-- Vacuum bags and polyamide films built to withstand autoclaving and heavy industrial use
+- Over 50 years of experience in high-temperature nylon packaging
+- Films withstand temperatures up to 400°F and autoclaving
+- Custom engineered films for specific application challenges
+- HACCP-based food safety and quality system
+- Solutions meeting FDA, cleanroom, and specialized regulatory standards
 
 ## Capabilities
 - Vacuum bagging films
@@ -24,11 +24,10 @@ The company emphasizes its 50-plus years of experience, heat-resistant materials
 - Solvent recovery bags
 - Cleanroom packaging
 - Modified atmosphere packaging (MAP)
-- Custom engineered films (nylon, polyester, elastomer)
+- Custom engineered nylon/polyester/elastomer films
 - Anti-static nylon films and bags
-- High-temperature packaging (up to 400°F)
-- Autoclave-resistant packaging
 - Bulk molding webs
+- High-temperature nylon packaging up to 400°F
 
 ## Industries
 - Aerospace & Defense
@@ -39,11 +38,6 @@ The company emphasizes its 50-plus years of experience, heat-resistant materials
 - Food Processing
 - Aerospace-Recreational
 
-## Certifications
-- HACCP
-- FDA compliance
-- Cleanroom standards
-
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1976
@@ -53,11 +47,15 @@ The company emphasizes its 50-plus years of experience, heat-resistant materials
 
 - Founded 1976 -> db
 - Headquarters Schuylkill Haven, Pennsylvania -> db
-- Products: vacuum bagging films, sterilization packaging, solvent recovery bags, cleanroom packaging, modified atmosphere packaging, custom engineered films -> /
-- Industries served: aerospace & defense, medical & dental, electronics & cleanroom, ballistic glass, solvent recovery, food processing -> /
-- Capabilities: heat-resistant up to 400°F, autoclave-resistant, custom films -> /
-- Certifications: HACCP system, FDA compliance, cleanroom standards -> /quality
-- Materials: nylon (polyamide), polyester, elastomer, anti-static nylon -> /
+- Manufactures high-temperature nylon packaging films and bags -> /
+- Product lines: vacuum bagging, sterilization, solvent recovery, cleanroom, MAP, custom engineered films -> /
+- Materials: nylon, polyester, elastomer, high-temperature nylon, anti-static nylon -> /
+- Industries served: aerospace & defense, medical & dental, electronics & cleanroom, ballistic glass, solvent recovery, food processing, aerospace-recreational -> /
+- Withstands temperatures up to 400°F and autoclaving -> /
+- HACCP-based food safety system -> /quality
+- Compliance with FDA and cleanroom standards -> /
+- Custom engineered films for specific applications -> /
+- Over 50 years experience -> /
 </details>
 
 ---
@@ -67,55 +65,50 @@ The company emphasizes its 50-plus years of experience, heat-resistant materials
 **Old description:** Maximizing our customers’ profits through design, prototype and manufacture of industrial components since 1995.
 
 ## About
-MAECO of Oregon is based in Sandy, Oregon. Founded in 1995 by Mike Hatley, a component sales leader, the company began as a family-run business providing industrial component design and manufacturing. In 2024, Hatley retired and passed ownership to his daughter Amy Hardesty and her husband John, continuing the family legacy.
+MAECO of Oregon is based in Sandy, Oregon, and was founded in 1995 by Mike Hatley, a component sales leader. The company remains family-run; after Hatley's retirement in 2024, his daughter Amy Hardesty and her husband John took over leadership.
 
-The firm coordinates the design, prototyping, and full-scale production of industrial components such as pressure gauges, hydraulic components, bearings, and custom metal fabrications. MAECO does not operate its own factory; instead, it leverages longstanding relationships with vetted overseas factories—primarily in China—to deliver customized manufacturing, precision engineering, and supply chain management for clients.
+The firm provides design, prototyping, and full-scale production of industrial components, including pressure gauges, hydraulic components, bearings, and custom metal fabrications. MAECO leverages longstanding relationships with vetted factories overseas, primarily in China, to deliver customized manufacturing, precision engineering, and supply chain management services.
 
-MAECO serves industrial and agricultural equipment manufacturers. Its customer base includes instrumentation companies like Thuemling Instrument Group, international firms such as Finesa in Mexico City, and agricultural suppliers like PBM Supply & Mfg., Inc.
+MAECO serves industrial and agricultural sectors, supplying companies such as Thuemling Instrument Group, Finesa in Mexico City, and PBM Supply & Mfg., Inc. Customers rely on the company for tailored components that integrate into gauges, stamped or cast cases, and other specialized assemblies.
 
-The company emphasizes transparent pricing with no hidden fees, honest pricing, reliable service, and long-term partnerships built on trust. Its differentiator is simplifying the complexities of global production so clients can focus on growing their businesses.
+The company emphasizes transparent, honest pricing with no hidden fees, reliable service, and long-term partnerships built on trust. This approach stems from Hatley's original vision of maximizing customer profits through collaborative design and dependable global sourcing.
 
 ## Known for
+- Transparent, honest pricing with no hidden fees
 - Longstanding relationships with vetted overseas factories
-- Transparent pricing with no hidden fees
-- Honest pricing, reliable service, and long-term partnerships
-- End-to-end supply chain management and precision engineering
-- Family-owned continuity since 1995
+- Customized manufacturing, precision engineering, and supply chain management
+- Family-run legacy of trust and long-term partnerships
+- Design, prototype, and full-scale production coordination
 
 ## Capabilities
-- Industrial component design
-- Prototyping
-- Full-scale production manufacturing
+- Design and prototyping
+- Custom metal fabrication
 - Pressure gauge manufacturing
 - Hydraulic component manufacturing
 - Bearing manufacturing
-- Custom metal fabrication
-- Global manufacturing coordination
-- Supply chain management
-- Precision engineering
+- Global sourcing and supply chain management
+- Full-scale production coordination
 
 ## Industries
-- Industrial components
-- Agricultural components
+- Industrial
+- Agricultural
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Founded:** 1995
 - **Ownership:** Family-owned
 - **Headquarters:** Sandy, Oregon
 
 <details><summary>Sources</summary>
 
-- Founded in 1995 -> db
-- Headquarters in Sandy, Oregon -> db
-- Founder Mike Hatley -> /
-- Family-owned, passed to daughter Amy Hardesty and husband John -> /
-- Services: design, prototype, manufacture of industrial components -> /
+- Founded in 1995 by Mike Hatley -> /
+- Family-run business, now led by Amy Hardesty and John -> /
+- Provides design, prototype, manufacture of industrial components -> /
 - Products: pressure gauges, hydraulic components, bearings, custom metal fabrication -> /
-- Global manufacturing via overseas factories (China) -> /
-- Industries: industrial and agricultural components -> /about
-- Customer examples: Thuemling Instrument Group, Finesa, PBM Supply & Mfg. -> /
-- Differentiators: honest pricing, reliable service, long-term partnerships, transparency -> /, /about
+- Leverages relationships with factories overseas, primarily China -> /
+- Serves industrial and agricultural sectors -> /about
+- Customers include Thuemling Instrument Group, Finesa, PBM Supply & Mfg. -> /
+- Emphasizes honest pricing, reliable service, long-term partnerships, transparency -> /about
 </details>
 
 ---
@@ -125,58 +118,39 @@ The company emphasizes transparent pricing with no hidden fees, honest pricing, 
 **Old description:** MAG Medical Equipment was founded by a Certified Biomedical Engineer, and our principles reflect that. We pride ourselves on our attention to detail, our thoroughness, and our quality service and repairs. Every piece of equipment is fully tested and inspected prior to leaving our facility. We Sell & Service New and Pre-Owned Medical/Veterinary Equipment, globally.
 
 ## About
-MAG Medical Equipment operates from Boise, Idaho. The company was founded by a Certified Biomedical Engineer, though the founding year is not publicly disclosed. Its leadership describes the organization as veteran-led, with a team that has worked together for many years and characterizes itself as a family united by a shared goal of customer satisfaction.
+MAG Medical Equipment operates from Boise, Idaho, where it was founded by a certified biomedical engineer. The company describes its team as veteran-led and family-oriented, with a management group that includes Brian Magpantay as director of operations, Jordan Doan managing inside sales, and biomedical engineers Dee Finch and Arturo Cortez overseeing MRI monitor and autoclave departments respectively.
 
-The firm sells and services new and pre-owned medical and veterinary equipment worldwide. It maintains a full in-house, accredited biomedical shop staffed by Certified Biomedical Technicians (CBET) and Certified Biomedical Engineers, with over 35 years of combined experience servicing medical equipment. Core services include equipment repair, parts sourcing, preventative maintenance, electrical safety inspections, and government contract fulfillment. The company also offers loaner and rental programs to minimize downtime for clients.
+The firm sells and services new and pre-owned medical and veterinary equipment worldwide. Its in-house accredited biomedical shop, backed by more than 35 years of combined experience, handles service and repair, parts sourcing, preventative maintenance, and government contract work. Equipment categories span hyper/hypothermia units, electrosurgical units, surgical and exam tables, slush units, infusion pumps, sterilizers and autoclaves, defibrillators, and MRI-compatible patient monitors. Every unit is fully tested, inspected, and documented before shipment.
 
-MAG Medical serves hospitals, veterinary facilities, universities, research institutions, clinics, and government agencies. Its local, veteran-led sales force provides on-site support across Idaho, Oregon, Utah, and Nevada, while out-of-state customers regularly ship equipment to the Boise facility for service. Product categories span hyper/hypothermia units, electrosurgical units, surgical and exam tables, surgical slush units, infusion pumps, sterilizers and autoclaves, defibrillators, and MRI-compatible patient monitors.
+Customers include hospitals, veterinary clinics, universities, research facilities, and government agencies. The veteran-led sales force provides on-site service and loaner equipment across Idaho, Oregon, Utah, and Nevada, while out-of-state clients send equipment for maintenance or use the company's rental program to avoid downtime.
 
-The business was founded on the principle of quality products, service, and repair. Leadership emphasizes attention to detail, thoroughness, and the practice of fully testing and inspecting every piece of equipment before it leaves the facility. The presence of certified biomedical engineers and technicians is cited as a core differentiator.
+MAG Medical Equipment was founded on a principle of quality products, service, and repair, emphasizing attention to detail and thoroughness. The staff holds certifications as Certified Biomedical Equipment Technicians (CBET) and certified biomedical engineers, which the company cites as a core differentiator.
 
 ## Known for
-- Full in-house accredited biomedical shop with 35+ years of service experience
-- Certified Biomedical Technicians (CBET) and Certified Biomedical Engineers on staff
-- Veteran-led local sales force providing on-site service in four states
-- Loaner and rental programs to eliminate equipment downtime
+- In-house accredited biomedical shop with 35+ years of experience
+- Certified Biomedical Equipment Technicians (CBET) and certified biomedical engineers on staff
+- Veteran-led local sales force offering on-site service in four states
+- Loaner and rental programs to minimize equipment downtime
 - Global sales and service of new and pre-owned medical/veterinary equipment
 
 ## Capabilities
-- Medical equipment repair and service
-- Parts sourcing
-- Preventative maintenance
-- Electrical safety inspections
-- Equipment inspections (annual/bi-annual)
-- On-site repair service
-- Loaner program
-- Rental program
-- Government contract fulfillment
-- Sales of new medical equipment
-- Sales of pre-owned medical equipment
-- Sales of new veterinary equipment
-- Sales of pre-owned veterinary equipment
-- Asset management
+- Service and Repair
+- Parts Sourcing
+- Preventative Maintenance
+- Government Contracts
+- Equipment Testing and Inspection
+- Asset Management
+- Annual and Bi-annual Equipment Inspections
+- Electrical Safety Inspections
+- Scheduled On-site Repairs
+- Loaner Equipment Program
+- Rental Program
+- Sales of New and Pre-owned Medical/Veterinary Equipment
 
 ## Industries
-- Medical equipment
-- Veterinary equipment
-- Healthcare (hospitals, clinics)
-- Veterinary facilities
-- Universities and research institutions
-- Government agencies
-
-## Equipment
-- Hyper/Hypothermia Units
-- Electrosurgical Units
-- Surgical and Exam Tables
-- Surgical Slush Units
-- Infusion Pumps
-- Sterilizers and Autoclaves
-- Defibrillators
-- MRI Compatible Patient Monitors
-- Tesla M3 MRI Patient Monitoring Full System
-- Tesla DUO MRI monitor
-- ORS-1058HS Surgical Hush Slush
-- OR Solutions 1075 Hush Slush Machine
+- Medical Equipment
+- Veterinary Equipment
+- Government
 
 ## Certifications
 - CBET (Certified Biomedical Equipment Technician)
@@ -184,20 +158,24 @@ The business was founded on the principle of quality products, service, and repa
 
 ## Company details
 - **Company Type:** Installer / service company
+- **Ownership:** Veteran-led, family-oriented team
 - **Headquarters:** Boise, Idaho
 
 <details><summary>Sources</summary>
 
-- Founded by a Certified Biomedical Engineer -> /about
-- Headquarters in Boise, Idaho -> db
+- Founded by a Certified Biomedical Engineer -> /
+- Located in Boise, Idaho -> /
+- Over 25 years of industry-leading service -> /
 - Veteran-led local sales force -> /about
-- In-house accredited biomedical shop with 35+ years experience -> /
-- Services: repair, parts sourcing, preventative maintenance, electrical safety inspections, government contracts -> /
-- Industries served: hospitals, veterinary facilities, universities, research facilities, clinics, government agencies -> /about
-- Certifications: CBET and Certified Biomedical Engineers -> /
-- Equipment categories: hyper/hypothermia units, electrosurgical units, surgical tables, slush units, infusion pumps, sterilizers/autoclaves, defibrillators, MRI-compatible monitors -> /
-- Management team names (Brian Magpantay, Jordan Doan, Paul Curtis, David Wood, Dee Finch, Arturo Cortez, Kevin Mak) -> /about
+- Family-oriented team -> /about
+- Management team includes Brian Magpantay, Jordan Doan, Paul Curtis, David Wood, Dee Finch, Arturo Cortez, Kevin Mak -> /about
+- Services: Service and Repair, Parts Sourcing, Preventative Maintenance, Government Contracts -> /
+- Product categories: Hyper/Hypothermia Units, Electrosurgical Units, Surgical Tables, Slush Units, Infusion Pumps, Sterilizers/Autoclaves, Defibrillators, MRI-compatible Patient Monitors -> /
+- Customers: hospitals, veterinary facilities, universities, research facilities, clinics, government agencies -> /about
+- In-house accredited/certified biomedical shop with 35+ years' experience -> /
+- Certified Biomedical Technicians (CBET) & Certified Biomedical Engineers -> /
 - Loaner and rental programs -> /about
+- Global sales and service -> /
 </details>
 
 ---
@@ -207,68 +185,60 @@ The business was founded on the principle of quality products, service, and repa
 **Old description:** The $5,000 annual support fee covers hardware maintenance, all BrightSLICE software updates, and direct technical support from MBF Bioscience's team, which includes Ph.D. neuroscientists and microscopy specialists. We provide remote and, where feasible, on-site training to get your team productive quickly. MBF Bioscience has supported neuroscience labs since 1988.
 
 ## About
-MBF Bioscience LLC is headquartered in Williston, Vermont. The company traces its origins to 1988, when a collaboration between a neuroscientist and a computer scientist began developing tools for mapping neurons. The firm is led by a father-and-son team, Edmund and Jack Glaser, giving it a family-owned structure.
+MBF Bioscience LLC is headquartered in Williston, Vermont. The company traces its origins to 1988, when a collaboration between a neuroscientist and a computer scientist began developing tools for mapping neurons. The firm is led by a father‑and‑son team, Edmund and Jack Glaser, who have guided its expansion from a specialized neuro‑mapping focus to a broader portfolio serving the biosciences.
 
-The company designs and manufactures light-sheet microscopy systems, most notably the SLICE platform, and develops accompanying software including BrightSLICE, ScanImage, HySIL, and Biolucida. It also offers custom microscopy solutions, custom software development, a specimen imaging service, hardware maintenance, software updates, and remote or on-site training. The technical team includes Ph.D. neuroscientists and microscopy specialists. Operations extend beyond Vermont with offices in Europe and Japan.
+The company designs and manufactures light‑sheet microscopy systems — notably the SLICE platform — and develops the BrightSLICE software that controls the hardware and handles data acquisition and processing. It also offers custom microscopy solutions and custom software development as services. Its technical team includes Ph.D. neuroscientists and microscopy specialists who provide hardware maintenance, software updates, and both remote and on‑site training.
 
-MBF Bioscience serves neuroscience laboratories, broader bioscience research, biomedical education, and medical education programs at universities and research institutions worldwide.
+Primary customers are neuroscience laboratories, bioscience research institutions, and biomedical and medical education programs. The company’s products and services are used by universities and research centers such as VU University Medical Center in Amsterdam, and its software editions are tailored for biomedical education and image management.
 
-The business was founded on the premise that decades of neuro-computational collaboration could produce accessible, cost-effective imaging tools. The stated mission is to help labs maximize resources — doing more science with fewer dollars — while keeping cutting-edge research accessible.
+MBF Bioscience emphasizes cost‑effective solutions that help labs maximize resources, offering direct technical support from experts with deep domain knowledge. Its differentiation rests on integrating hardware and software into a single license, eliminating the need for third‑party stacks, and providing personalized guidance through weekly open office hours and dedicated support.
 
 ## Known for
-- Team includes Ph.D. neuroscientists and microscopy specialists
-- Offices in Europe and Japan for global support
-- 10,000+ customers worldwide
-- Featured in 19,936 peer-reviewed papers
-- Cost-effective solutions to help labs do more with fewer dollars
+- Integrated hardware and software under one license (SLICE + BrightSLICE)
+- Technical team includes Ph.D. neuroscientists and microscopy specialists
+- Remote and on‑site training included with support
+- Global presence with offices in Europe and Japan
 
 ## Capabilities
-- Light-sheet microscopy (SLICE platform)
-- BrightSLICE software development and support
-- ScanImage software integration
-- HySIL hybrid solid–liquid optics
-- Biolucida image management platform
+- Light sheet microscopy (SLICE system)
+- BrightSLICE software development and updates
 - Custom microscopy solutions
 - Custom software development
-- Specimen imaging service
-- Hardware maintenance and support
-- Software updates and maintenance
-- Remote and on-site training
 - Image processing and analysis
-- OME-Zarr image format support
+- Microscopy hardware maintenance
+- Remote and on‑site training
+- Technical support from Ph.D. neuroscientists
 
 ## Industries
 - Neuroscience research
-- Bioscience research
+- Biosciences
 - Biomedical education
 - Medical education
-- Academic and institutional research
 
 ## Equipment
-- SLICE light-sheet microscope
-- BrightSLICE hardware/software system
-- ScanImage-compatible hardware
-- HySIL optical components
+- SLICE light sheet microscope
+- BrightSLICE software platform
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1988
-- **Ownership:** Family-owned
 - **Headquarters:** Williston, Vermont
 
 <details><summary>Sources</summary>
 
-- Headquarters: Williston, Vermont -> db
-- Founded 1988 (supported neuroscience labs since 1988) -> db
-- Founders: Edmund and Jack Glaser (father and son team) -> /
-- Family-owned structure -> /
-- Products: SLICE light-sheet microscope, BrightSLICE, ScanImage, HySIL, Biolucida -> /
-- Services: Custom microscopy solutions, custom software development, specimen imaging service -> /services
-- Team includes Ph.D. neuroscientists and microscopy specialists -> db
+- Headquarters Williston, Vermont -> db
+- Founded 1988 (supported neuroscience labs since 1988) -> /
+- Founders Edmund and Jack Glaser (father and son team) -> /
+- Products: SLICE light sheet microscope, BrightSLICE software -> /
+- Services: Custom Microscopy Solutions, Custom Software Development -> /services
+- Team includes Ph.D. neuroscientists and microscopy specialists -> /
 - Offices in Europe and Japan -> /
 - 10,000+ customers worldwide -> /
 - Featured in 19,936 peer-reviewed papers -> /
-- Mission: cost-effective solutions, help labs do more science with fewer dollars -> /
+- Industries: neuroscience, biosciences, biomedical education, medical education -> / and db
+- Cost-effective solutions for labs -> /
+- Integrated hardware/software, no third-party stack -> /
+- Weekly open office hours for personalized guidance -> /
 </details>
 
 ---
@@ -278,31 +248,29 @@ The business was founded on the premise that decades of neuro-computational coll
 **Old description:** At MCA Metal Fabrication, we offer quality craftsmanship and superior service at fair and honest prices.
 
 ## About
-MCA Metal Fabrication operates from De Soto, Iowa, where it was founded in 2003 as an independently owned and operated shop. The company began as a full-service custom metal fabrication business serving both commercial and residential clients in the Des Moines metro area.
+MCA Metal Fabrication operates from De Soto, Iowa, where it was founded in 2003 as an independently owned and operated shop. The company does not disclose its founders by name.
 
-The shop provides custom fabrication to customer designs, working primarily with mild steel and stainless steel. Its fabricators bring over 70 years of combined experience to projects that include heavier burning capacity. No facility size, headcount, or annual volume figures are published.
+The shop provides full-service custom metal fabrication, working with mild steel and stainless steel and offering heavier burning capacity for cutting and shaping. No facility size, headcount, or annual volume figures are published.
 
-MCA serves industrial, commercial, and residential customers. The contact form explicitly asks whether a project is commercial or residential, and the company lists industrial metal fabrication among its service categories. No specific OEM or sector names are disclosed.
+The business serves both commercial and residential customers, taking on custom fabrication projects to client designs. The contact form distinguishes between commercial and residential projects, but no specific industry sectors or named clients are mentioned.
 
-The company emphasizes quality craftsmanship and superior service at fair and honest prices, highlighting its independent ownership, free estimates, and the depth of experience among its fabricators as reasons clients choose them.
+The company emphasizes quality craftsmanship and honest pricing, backed by over 70 years of combined fabricator experience and a commitment to guiding clients through fabrication decisions.
 
 ## Known for
 - Independently owned and operated
 - Over 70 years of combined fabricator experience
-- Free estimates on all projects
-- Works with mild steel and stainless steel
-- Heavier burning capacity
+- Free estimates on custom projects
+- Heavier burning capacity for thick materials
+- Custom fabrication to customer design
 
 ## Capabilities
 - Custom metal fabrication
-- Custom fabrication to design
 - Mild steel fabrication
 - Stainless steel fabrication
-- Heavier burning capacity
-- Free estimates
+- Plasma/oxy-fuel burning
+- Design-based fabrication
 
 ## Industries
-- Industrial
 - Commercial
 - Residential
 
@@ -315,16 +283,16 @@ The company emphasizes quality craftsmanship and superior service at fair and ho
 <details><summary>Sources</summary>
 
 - Founded 2003 -> db
-- Headquarters De Soto, Iowa -> db and page '/'
-- Independently owned and operated -> page '/'
-- Custom fabrication to design -> page '/'
-- Works with mild steel and stainless steel -> page '/'
-- Heavier burning capacity -> page '/'
-- Over 70 years combined experience -> page '/'
-- Free estimates -> page '/'
-- Serves industrial, commercial, residential -> page '/' (capabilities array and contact form)
-- Address 2 Ellefson Dr, Desoto, IA 50069 -> page '/'
-- Hours Mon-Fri 6:00 am - 2:30 pm -> page '/'
+- Headquarters De Soto, Iowa -> db
+- Independently owned and operated -> pages:/
+- Custom metal fabrication services -> pages:/
+- Works with mild steel and stainless steel -> pages:/
+- Heavier burning capacity -> pages:/
+- Over 70 years combined experience -> pages:/
+- Free estimates -> pages:/
+- Serves commercial and residential projects -> pages:/
+- Contact email bryce@mcametalfabrication.com -> pages:/
+- Address 2 Ellefson Dr. Desoto, Iowa 50069 -> pages:/
 </details>
 
 ---
@@ -334,42 +302,41 @@ The company emphasizes quality craftsmanship and superior service at fair and ho
 **Old description:** Over the last forty years, MCF Electronics, Inc. has grown and prospered because we have remained steadfast and committed to providing the best customer service and product quality in the surface mount industry which has seen many of our competitors disappear.
 
 ## About
-MCF Electronic Services Inc operates from a 20,000-square-foot facility in Salem, New Hampshire. The company has served the surface-mount industry for over four decades, building a reputation for consistent quality and customer service. No founders are named in public materials, and ownership structure is not disclosed.
+MCF Electronic Services Inc. operates a 20,000-square-foot, climate-controlled facility in Salem, New Hampshire. The company has been active in the surface-mount and printed-circuit-board industry for more than four decades, though a specific founding year is not disclosed. Ownership structure and founder names are not publicly documented.
 
-The shop provides full-spectrum printed circuit board services: in-house design, fabrication, and both full and partial turn-key assembly. Its equipment roster includes multiple Mydata pick-and-place lines, Heller and Conceptronics reflow ovens, DEK and Ekra screen printers, Mirtec automated optical inspection, Nicolet X-ray inspection, wave soldering, aqueous cleaning, and V-score and routed depanelizing systems. The climate-controlled, ESD-protected floor supports quick-turn medium-volume runs and high-reliability programs.
+The shop provides end-to-end PCB services: design, fabrication, and both full and partial turn-key assembly. Its equipment lineup includes multiple Mydata pick-and-place machines, Heller and Conceptronics reflow ovens, DEK and Ekra screen printers, Mirtec automated optical inspection, Nicolet X-ray inspection, and a range of cleaning, depanelizing, and rework stations. The operation focuses on quick-turn, medium-volume runs and high-reliability programs, supported by in-house ESD testing and aqueous cleaning.
 
-Customers span industrial, medical, aerospace, automotive, computer hardware, robotics, lighting, telecommunications, and consumer electronics sectors. The company handles projects ranging from prototype to medium-volume production for original equipment manufacturers and design firms in those markets.
+Customers span industrial, medical, aerospace, automotive, computer hardware, robotics, lighting, telecommunications, and consumer electronics sectors. The company handles projects ranging from prototype to medium production quantities, offering component procurement, quality inspection, and final assembly under one roof.
 
-MCF emphasizes a zero-debt financial model that it says allows competitive pricing without compromising quality, and it points to its long tenure in a sector where many competitors have exited as evidence of its service focus.
+MCF emphasizes its zero-debt financial position as a lever for competitive pricing without compromising quality, and it cites long-term commitment to customer service and product quality as the foundation of its longevity.
 
 ## Known for
-- Zero-debt structure enabling competitive pricing
-- 20,000 sq ft climate-controlled facility with full ESD protection
-- Full and partial turn-key PCB assembly services
+- Zero-debt financing enabling competitive pricing
+- Full turn-key and partial turn-key assembly options
+- 20,000 sq ft climate-controlled facility with ESD protection
 - Quick-turn medium production runs and high-reliability programs
 - In-house PCB design team
 
 ## Capabilities
-- PCB Design
-- PCB Fabrication
-- Surface Mount Assembly (SMT)
-- Through-Hole Assembly
-- Full Turn-Key Assembly
-- Partial Turn-Key Assembly
-- Quick-Turn Manufacturing
-- Medium Volume Production
-- High-Reliability Assembly
-- Automated Optical Inspection (AOI)
-- X-Ray Inspection
-- Wave Soldering
-- Selective Soldering
-- Reflow Soldering
-- Screen Printing
-- Aqueous Cleaning
-- V-Score Depanelizing
-- Routed Depanelizing
-- Soldering and Rework
-- ESD Testing
+- PCB design
+- PCB fabrication
+- Surface mount assembly
+- Through-hole assembly
+- Full turn-key assembly
+- Partial turn-key assembly
+- Quick-turn manufacturing
+- Medium-volume production
+- High-reliability manufacturing
+- Automated optical inspection
+- X-ray inspection
+- Reflow soldering
+- Wave soldering
+- Screen printing
+- Aqueous cleaning
+- ESD testing
+- Depanelizing (V-score)
+- Depanelizing (routed)
+- Soldering and rework
 
 ## Industries
 - Industrial
@@ -404,22 +371,21 @@ MCF emphasizes a zero-debt financial model that it says allows competitive prici
 - OLAMEF Routed PCB Depanelizing System
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
-- **Headquarters:** Salem, NH
+- **Company Type:** Manufacturer
+- **Headquarters:** Salem, New Hampshire
 
 <details><summary>Sources</summary>
 
-- Company name and location -> db
-- Facility size 20,000 sq ft -> /about
-- Climate control, ESD protection, ESD testing -> /about
-- Services: PCB Design, Fabrication, Assembly -> /about
-- Full and partial turn-key assembly -> /about
-- Quick turn, medium production runs, high-reliability programs -> /about
+- Location: Salem, NH -> /
+- Facility size: 20,000 sq ft -> /about
+- Services: PCB Design, Fabrication, Assembly -> /
+- Turn-Key and partial Turn-Key assembly -> /
 - Industries served: Industrial, Medical, Aerospace, Automotive, Computer Hardware, Robotics, Lighting, Telecommunications, Consumer Electronics -> /about
-- Equipment list -> /about
-- Zero debt -> /about
-- Over forty years in business -> /about
-- Headquarters address -> /about
+- Equipment list: Mydata My15e, Mydata MY12, Conceptronics HVC Convection Oven, Electrovert Ultra Clean II, Electrovert Encono Pak Plus, Mirtec MV-7 Xi AOI, Nicolet Imaging XRAY, Heller 1800EXL reflow oven, Ekra Screen Printers, DEK Screen Printers, In-Line Closed Loop Aqueous Cleanser, ROHS Wave Solder Machine, Controlled Soldering Stations, Aqueous Technologies PCB Cleaner, Video Inspection Microscopes, JBS Soldering and Rework Stations, Metcal Soldering and Rework Stations, CAB Maestro V-Score Depanelizing System, OLAMEF Routed PCB Depanelizing System -> /about
+- Zero debt mentioned -> /
+- Quick-turn, medium production runs, high-reliability programs -> /
+- ESD protection and testing -> /
+- Climate-controlled facility -> /about
 </details>
 
 ---
@@ -429,50 +395,47 @@ MCF emphasizes a zero-debt financial model that it says allows competitive prici
 **Old description:** Since 1995, architects, designers, and contractors have trusted MCS Woodworking to bring projects of all sizes to life. With expertise in custom millwork, cabinetry, and architectural woodworking, we deliver durable, tailored solutions that embody precision craftsmanship and exceptional quality..
 
 ## About
-Founded in 1995 in Menomonee Falls, Wisconsin, MCS Woodworking has spent nearly three decades serving architects, designers, and general contractors with custom millwork, cabinetry, and architectural woodworking. The company operates from a 20,000-square-foot manufacturing facility in the Milwaukee suburb.
+MCS Woodworking LLC was founded in 1995 in Menomonee Falls, Wisconsin, to serve architects, designers, and contractors with custom millwork, cabinetry, and architectural woodworking. The privately held company began as a workshop focused on precision craftsmanship for commercial projects of all sizes.
 
-The shop produces commercial-grade cabinetry, millwork, mouldings, and custom architectural elements such as staircases, paneling, and decorative trim. Using CAD-based cost engineering and modern millwork technology, the team manages projects ranging from one-off builds to large-scale construction rollouts, having completed over 3,000 commercial projects to date.
+Operating from a 20,000-square-foot facility in Menomonee Falls, the company combines traditional woodworking techniques with modern millwork technology, including CAD-based cost engineering and state-of-the-art tools. MCS Woodworking produces custom cabinetry, commercial millwork, architectural woodworking, and specialty items such as church furnishings, corporate office fixtures, and retail displays. The firm reports more than 3,000 completed commercial projects, ranging from one-of-a-kind builds to large-scale construction solutions.
 
-MCS works across a broad set of industries, including corporate offices, education, healthcare, hospitality, restaurants, retail, and religious institutions. Notable projects include the historic restoration of the St. James 1868 Milwaukee Event Center, casework and booths for IMPROV of Brookfield, and sanctuary updates for Fox Point Lutheran Church. The client base consists primarily of architects, interior designers, and contractors.
+The company serves a broad range of industries, including commercial, architectural, religious, corporate office, education, healthcare, hospitality, restaurant, and retail sectors. Its client base comprises architects, designers, general contractors, and business owners. Notable projects include the St. James 1868 Milwaukee Event Center, where MCS contributed intricate millwork, historic trim reproductions, staircases, and decorative railings; the IMPROV of Brookfield, featuring casework, decorative trim, upholstered wooden booths, and solid surface countertops; and the Fox Point Lutheran Church, with updates to sanctuary, offices, and atrium.
 
-The company emphasizes a proven process that moves from consultation through design, precision fabrication, and professional installation, aiming to get each job right the first time. MCS has been recognized multiple times in Wood & Wood Products Magazine’s WOOD 100 Report as one of the nation’s fastest-growing woodworking companies, a distinction it attributes to its focus on craftsmanship, efficiency, and long-term partnerships.
+MCS Woodworking emphasizes a proven process that spans initial consultation, design and planning, precision crafting, and professional installation. The company highlights its dedication to building lasting partnerships, getting projects right the first time, and meeting tight deadlines. It has been recognized multiple times in Wood & Wood Products Magazine's WOOD 100 Report as one of the nation's fastest-growing woodworking companies.
 
 ## Known for
-- 20,000-square-foot facility in Menomonee Falls, WI
+- 20,000-square-foot manufacturing facility in Menomonee Falls, WI
+- CAD-based cost engineering and state-of-the-art tooling
 - Over 3,000 commercial projects completed
-- Specialized in commercial-grade cabinetry, millwork, and mouldings
-- CAD-based cost engineering and state-of-the-art tools
-- Featured in Wood & Wood Products Magazine's WOOD 100 Report multiple times
+- Multiple-time honoree in Wood & Wood Products Magazine's WOOD 100 Report
+- Full-service process from design consultation through professional installation
 
 ## Capabilities
-- Architectural Woodworking
-- Church Woodworking
-- Classic Woodworking
-- Corporate Office Woodworking
-- Education Woodworking
-- Healthcare Woodworking
-- Hospitality Woodworking
-- Restaurant Woodworking
-- Retail Store Woodworking
-- Custom Cabinetry
-- Commercial Millwork
-- Custom Woodworking
-- Professional Installation
-- CAD-based Design and Planning
-- Precision Fabrication
-- Historic Restoration Millwork
-- Custom Moulding and Trim
-- Staircase Fabrication
-- Paneling and Decorative Trim
-- Casework
-- Countertop Fabrication (solid surface)
-- Booth and Banquette Seating Frames
-- Display Cases and Shelving
-- Reception Desks and Workstations
+- Custom cabinetry
+- Commercial millwork
+- Architectural woodworking
+- Custom woodworking
+- Church woodworking (pews, altars, pulpits, baptismal fonts)
+- Classic woodworking (traditional joinery, heirloom-quality construction)
+- Corporate office woodworking (reception desks, workstations, storage)
+- Education woodworking (library shelving, circulation desks, laboratory casework)
+- Healthcare woodworking (nurses' stations, patient room cabinetry, antimicrobial finishes)
+- Hospitality woodworking (lobby reception desks, bar fronts, guest room casegoods)
+- Restaurant woodworking (custom bars, banquette seating, host stands, dining tables)
+- Retail store woodworking (cash wraps, display cases, shelving units, fitting rooms)
+- CAD-based design and cost engineering
+- Professional installation
+- Custom mouldings and trim reproduction
+- Staircase fabrication
+- Decorative railings
+- Solid surface countertop integration
+- Upholstered wooden booth fabrication
+- Commercial-grade protective coatings
 
 ## Industries
 - Commercial
-- Church/Religious
+- Architectural
+- Religious/Church
 - Corporate Office
 - Education
 - Healthcare
@@ -488,16 +451,17 @@ The company emphasizes a proven process that moves from consultation through des
 <details><summary>Sources</summary>
 
 - Founded in 1995 -> /
-- Headquarters in Menomonee Falls, Wisconsin -> /
-- 20,000-square-foot facility -> /about
-- Over 3,000 commercial projects completed -> /
+- Headquartered in Menomonee Falls, Wisconsin -> /
+- 20,000-square-foot facility -> /, /about
+- More than 3,000 commercial projects completed -> /
+- Over 2,000 commercial woodworking projects -> /about
 - Specialized in commercial-grade cabinetry, millwork, and mouldings -> /
 - CAD-based cost engineering and state-of-the-art tools -> /
-- Featured in Wood & Wood Products Magazine's WOOD 100 Report multiple times -> /about
-- Industries served: corporate office, education, healthcare, hospitality, restaurant, retail, church -> /capabilities
+- Full-service process: consultation, design, crafting, installation -> /
+- Industries served: architectural, church, classic, corporate office, education, healthcare, hospitality, restaurant, retail -> /capabilities
 - Notable projects: St. James 1868 Milwaukee Event Center, IMPROV of Brookfield, Fox Point Lutheran Church -> /
-- Process: consultation, design/planning, precision crafting, professional installation -> /
-- Works with architects, designers, contractors -> /
+- Featured in Wood & Wood Products Magazine's WOOD 100 Report multiple times -> /about
+- Materials: wood species, finishes, solid surface, antimicrobial finishes -> /, /capabilities
 </details>
 
 ---
@@ -507,54 +471,59 @@ The company emphasizes a proven process that moves from consultation through des
 **Old description:** Seaboard representative for a leading manufacturer of diagnostic equipment
 
 ## About
-Based in Severna Park, Maryland, MD Medical Electronics Inc. (also known as Maryland Medical Electronics, Inc.) has served the medical and scientific industries for over two decades. The company operates as a service organization and is a member of Medical Equipment Repair Associates (MERA), a network of independent service providers.
+MD Medical Electronics Inc. (MME) operates from Severna Park, Maryland, where it has delivered service to the medical and scientific industries for more than twenty years. The company is a member of Medical Equipment Repair Associates (MERA), a national network of independent service providers.
 
-MME provides preventive maintenance, repair, and on-site support for laboratory and medical equipment used in hospitals, medical centers, and research facilities. Through MERA, the company accesses a combined workforce of 300 service technicians capable of deploying nationally and internationally, and its teams travel worldwide to service diagnostic and scientific instruments.
+MME specializes in preventive maintenance and repair of diagnostic, laboratory, and other medical equipment. Through the MERA network, which comprises 80 independent service companies and a combined workforce of 300 technicians, MME can deploy personnel across the United States, Canada, the United Kingdom, and Germany, and its teams travel worldwide to support installed equipment.
 
-The primary customers are hospitals, medical centers, and laboratories that rely on diagnostic and scientific equipment. MME’s service coverage extends across the United States, Canada, the United Kingdom, and Germany, supporting a range of laboratory instruments and medical devices.
+The company's customer base includes hospitals, medical centers, and research laboratories that rely on imaging, analytical, and life-science instrumentation. MME's technicians perform on-site calibration, troubleshooting, and component replacement for a range of manufacturers' platforms.
 
-The company emphasizes continuous training for its technicians to adapt quickly to new products and technologies, and it promotes its service quality as a key differentiator. Its FDA-approved status underscores compliance with regulatory requirements for medical equipment service.
+MME emphasizes continuous training to adapt to new product releases and maintains what it describes as the highest quality service standard, a position reinforced by its FDA-approved status and long-standing relationships with equipment manufacturers.
 
 ## Known for
-- Member of Medical Equipment Repair Associates (MERA) network
-- Access to 300 combined service technicians for national/international coverage
-- Worldwide on-site repair and maintenance travel
-- Continuous technician training for new product adaptation
-- FDA approved for medical equipment service
+- Over 20 years serving medical and scientific industries
+- Member of MERA network (80 companies, 300 technicians) for national/international coverage
+- Worldwide on-site repair and preventive maintenance
+- Continuous technician training on new equipment
+- FDA-approved service organization
 
 ## Capabilities
 - Preventive maintenance
-- Repair services
-- Medical equipment repair
-- Laboratory equipment service
-- Worldwide on-site service
-- Technician training
+- Equipment repair
+- Calibration
+- Troubleshooting
+- Component replacement
+- On-site service
+- Worldwide service
+- Equipment training
 
 ## Industries
 - Medical
 - Scientific
+- Healthcare
+- Laboratory
 - Hospitals
 - Medical centers
-- Laboratories
+- Research laboratories
 
 ## Certifications
 - FDA APPROVED
 
 ## Company details
 - **Company Type:** Installer / service company
-- **Employees:** 300
 - **Headquarters:** Severna Park, Maryland
 
 <details><summary>Sources</summary>
 
-- Location: Severna Park, MD -> /
-- Service for over 20 years -> /
+- Headquarters in Severna Park, Maryland -> db
 - Member of Medical Equipment Repair Associates (MERA) -> /
-- Combined workforce of 300 service technicians -> /
-- FDA APPROVED certification -> db
-- Provides preventive maintenance and repair for medical and laboratory equipment -> /
-- Worldwide travel for repair and maintenance -> /
-- Continuous technician training to adapt to new products -> /
+- Provides preventive maintenance and repair for medical and scientific equipment -> /
+- Services hospitals, medical centers, and laboratories -> /
+- MERA network comprises 80 independent service companies and 300 technicians -> /
+- Worldwide travel for equipment repair and maintenance -> /
+- FDA APPROVED certification claimed -> db
+- Company described as a service organization -> /
+- Continuous training on new equipment -> /
+- Copyright 2002-2006 indicates web presence since at least 2002 -> /
 </details>
 
 ---
@@ -564,76 +533,80 @@ The company emphasizes continuous training for its technicians to adapt quickly 
 **Old description:** Serving Indianapolis, IN & nationwide. MEDiSURG specializes in eye care, ophthalmology equipment, PPE & safety, and surgical instruments. Specialized care. Full-service partner. Precision service. Call us today.
 
 ## About
-MEDiSURG is based in Indianapolis, Indiana, and was founded in 2002 by John Weymouth. Weymouth, a biomedical engineering technologist, began his career as a medical equipment repairman in the U.S. Army at Fort Detrick, Maryland, before spending years at Alcon in product management and sales. He launched MEDiSURG to focus exclusively on ophthalmic surgical equipment.
+MEDiSURG is based in Indianapolis, Indiana, and was founded in 2002 by John Weymouth. Weymouth, a biomedical engineering technologist, began his career as a U.S. Army medical equipment repairman at Fort Detrick before spending decades with Alcon and its predecessors in sales, training, and product management for phaco and vitrectomy systems. He launched MEDiSURG to focus exclusively on independent service, training, and equipment solutions for ophthalmic surgery.
 
-The company provides full-service repair, preventive maintenance, and calibration for phaco and vitrectomy surgical systems, along with a supply of new and refurbished parts and complete refurbished units. It also offers equipment leasing and a buy-back/trade-in program. Training programs cover system setup, component replacement, diagnostics, and preventive maintenance, delivered through in-person workshops, live Zoom sessions, and on-demand courses. MEDiSURG operates with a team of six technicians and support staff from its Indianapolis location, where it maintains an inventory of parts and refurbished Alcon Centurion, Constellation, and Infiniti systems.
+The company provides full-service repair, preventive maintenance, and safety testing for phacoemulsification and vitrectomy platforms, along with a parts inventory and in-house refurbishment of surgical systems. A team of six technicians and trainers supports on-site service, remote consultation, and video-link troubleshooting, and the firm maintains a stock of refurbished Alcon Centurion, Constellation, and Infiniti units for sale or lease. Training programs range from hands-on workshops to live Zoom sessions and on-demand courses, covering system setup, component replacement, diagnostics, and full preventive maintenance; graduates receive manuals, toolkits, certificates, and continuing-education credits.
 
-Its customers include hospitals, ambulatory surgery centers (ASCs), and physician offices that perform cataract and retinal surgeries. The company services platforms such as the Alcon Centurion, Constellation, and Infiniti phacoemulsification systems, as well as vitrectomy machines.
+MEDiSURG serves hospitals, ambulatory surgery centers, physician offices, and ophthalmology practices nationwide, with a focus on cataract and retinal surgery environments. Its customers include biomedical equipment technicians, surgical staff, and surgeons who rely on the company for equipment uptime, staff competency, and cost-effective asset management.
 
-MEDiSURG positions itself as an independent, third-party alternative to manufacturer-tied service programs, emphasizing unbiased recommendations and a customer-focused approach. The founder’s background in product development and sales at Alcon informs the company’s technical depth, and the firm highlights its 75+ years of combined ophthalmic expertise among staff.
+The company emphasizes its independence from original equipment manufacturers, positioning its recommendations as unbiased and tailored to each facility’s needs. It promotes 75-plus years of combined industry experience, 24/7 emergency response, and a warranty-backed refurbishment process as key differentiators.
 
 ## Known for
-- Independent, third-party service provider (not tied to manufacturers)
-- 24/7 emergency service with 24-hour response
-- On-site, remote, and video-link support options
-- In-house refurbishment of phaco and vitrectomy systems with warranty
-- Technician training programs awarding CEU credits and certificates
+- Independent third-party provider, not tied to OEMs
+- 75+ years combined ophthalmic expertise
+- 24/7 emergency service with on-site, remote, and video-link support
+- In-house refurbishment of phaco/vitrectomy systems with full warranty
+- Training programs awarding CEU credits
 
 ## Capabilities
 - Ophthalmic equipment repair
 - Preventive maintenance
-- Phacoemulsification system service
-- Vitrectomy system service
-- Refurbished equipment sales
-- Equipment leasing
-- Parts supply
-- Technical training (in-person, live virtual, on-demand)
-- Biomedical technician training
-- Surgical staff training
-- System setup and calibration
-- Component replacement
-- Diagnostics and troubleshooting
+- Safety testing
+- Refurbishment of surgical equipment
+- Parts supply for phaco and vitrectomy systems
+- Sales of refurbished phaco and vitrectomy systems
+- Leasing of surgical equipment
+- Buy/sell/trade of used surgical equipment
+- Technical training (in-person workshops, live Zoom, on-demand online)
 - On-site service
 - Remote consultation
-- Video-link support
+- Video-link troubleshooting
 - 24/7 emergency service
-- Equipment deinstallation
-- Data sanitization
+- Equipment deinstallation and data sanitization
+- Surgical instrument supply
 
 ## Industries
-- Healthcare
-- Ophthalmology
-- Ambulatory Surgery Centers
 - Hospitals
-- Physician Offices
+- Ambulatory surgery centers (ASCs)
+- Physician offices
+- Ophthalmology practices
+- Cataract surgery centers
+- Retinal surgery centers
 
 ## Equipment
 - Alcon Centurion
 - Alcon Constellation
 - Alcon Infiniti
-- KUSA (CUSA) machines
-- Phaco surgical equipment
-- Vitrectomy systems
+- Kusa Machines
+- Cusa Machines
 
 ## Company details
 - **Company Type:** Installer / service company
 - **Founded:** 2002
 - **Employees:** 6
-- **Ownership:** Private
-- **Headquarters:** Indianapolis, Indiana
+- **Ownership:** Independent, founder-owned
+- **Headquarters:** Indianapolis, IN
 
 <details><summary>Sources</summary>
 
 - Founded 2002 -> /about
-- Founder John Weymouth -> /about
-- Team of six employees -> /about
-- Headquarters Indianapolis, IN -> /about
-- Services: repair, preventive maintenance, parts, refurbished sales, training -> /about, /services
-- Brands: Alcon Centurion, Constellation, Infiniti -> /about
+- Headquarters Indianapolis, IN -> /, /about
+- Founder John Weymouth (biomedical engineering degree 1975, US Army medical equipment repairman, Alcon career) -> /about
+- Employee count: team of six -> /about
+- Services: repair, preventive maintenance, safety testing, refurbishment, parts, training, equipment sales/lease -> /about, /services, /
+- Industries served: hospitals, ASCs, physician offices, ophthalmology practices -> /about, /services
+- Equipment brands: Alcon Centurion, Constellation, Infiniti -> /about
 - 24/7 emergency service -> /about, /services
-- Independent third-party provider -> /about
-- Training with CEU credits -> /about
+- Training with CEU credits -> /
+- In-house refurbishment with warranty -> /about
+- Independent third-party provider -> /
+- 75+ years combined experience -> /, /services
+- On-site, remote, video-link support -> /
+- Buy/sell/trade refurbished equipment -> /services
+- Surgical instruments -> /services
 - Languages: English -> /about
+- Payment options -> /about
+- Accessibility features -> /about
 </details>
 
 ---
@@ -643,34 +616,43 @@ MEDiSURG positions itself as an independent, third-party alternative to manufact
 **Old description:** GlobalWafers is a global leader in the manufacture and sale of wafers and related products to the semiconductor industry. Wafers are the foundation upon which virtually all of the world’s integrated circuits are built. Those products, in turn, are the building blocks for the $1 trillion electronics market (cell phones, computers, PDAs, CD/DVD players, satellite and automotive electronics, etc.). GlobalWafers has been a pioneer in the design and development of wafer technologies since 1959, and operates facilities in the U.S., Europe and Asia Pacific.
 
 ## About
-GlobalWafers, operating as MEMC LLC, is headquartered in St. Peters, Missouri. The company traces its origins to 1959 when it began pioneering wafer technologies for the semiconductor industry. Today it functions as a global manufacturer with research, development, and production facilities across the United States, Europe, and Asia Pacific.
+MEMC LLC, operating as GlobalWafers, is headquartered in St. Peters, Missouri. The company traces its origins to 1959, when it began pioneering the design and development of wafer technologies for the semiconductor industry. No founders are named in the available materials, and ownership structure is not disclosed.
 
-The company manufactures silicon wafers that serve as the foundation for integrated circuits. Its process portfolio includes crystal growth, wafer slicing, polishing, epitaxial deposition, and silicon-on-insulator (SOI) wafer production at the St. Peters site. GlobalWafers operates multiple manufacturing locations worldwide, including sites in Missouri, South Korea, Taiwan, Malaysia, Japan, and Italy, and reports serving 100 percent of the top 25 semiconductor manufacturers.
+The company manufactures silicon wafers that serve as the foundation for integrated circuits. Its processes include epitaxial deposition, silicon-on-insulator (SOI) wafer production, gettering, hydrogen annealing, nitrogen doping, and the proprietary Magic Denuded Zone (MDZ) technology. Manufacturing facilities operate in the United States, Europe, and Asia Pacific, with sites in St. Peters (MO), Chonan (South Korea), Hsin-Chu (Taiwan), Kuala Lumpur (Malaysia), Utsunomiya (Japan), Merano (Italy), and Novara (Italy). Facility sizes, headcount, and production volumes are not specified.
 
-Customers are primarily semiconductor device makers serving end markets such as computing, smartphones, televisions, gaming consoles, appliances, automotive electronics, industrial equipment, and space applications. The company works closely with these chip manufacturers to align wafer specifications with evolving device requirements.
+GlobalWafers supplies semiconductor device manufacturers and states it serves 100 percent of the top 25 customers in the semiconductor industry. Its wafers are used in computers, smart phones, televisions, gaming devices, music players, appliances, automobiles, and industrial and space applications.
 
-GlobalWafers emphasizes its long-standing quality record as a differentiator. The St. Peters facility earned the 1994 Missouri Quality Award and was named one of "America's 10 Best Plants" by Industry Week in 1995. In 1999 a Missouri Team Quality Award recognized a 50 percent inventory reduction and 53 percent cycle-time improvement, and the Utsunomiya, Japan plant received NEC's "Best Supplier Award" in 2001.
+The company says its strategy is to be the preferred supplier through innovative products and differentiated service that leverage its manufacturing and R&D strengths. It emphasizes uncompromising quality and efficient production methods, working closely with customers to understand exacting specifications and anticipate future parametrics.
 
 ## Known for
-- Serves 100% of the top 25 semiconductor manufacturers
-- R&D and manufacturing facilities in the U.S., Europe, and Asia
-- 1994 Missouri Quality Award for St. Peters facility
+- Serves 100% of the top 25 semiconductor customers
+- Innovative products and differentiated service leveraging manufacturing and R&D strengths
+- Uncompromising quality and efficient production methods
+- Close customer collaboration to understand specifications and anticipate future needs
 
 ## Capabilities
 - Silicon wafer manufacturing
 - Epitaxial deposition
-- SOI (Silicon on Insulator) wafer production
-- Crystal growth
-- Wafer slicing and polishing
-- Custom EPI (epitaxial) products
+- Silicon-on-insulator (SOI) wafer production
+- Gettering processes
+- Hydrogen annealing
+- Nitrogen doping
+- Magic Denuded Zone (MDZ) technology
+- Custom EPI products
+- High quality factor passive component integration
+- RF/analog component isolation from digital CMOS
 
 ## Industries
 - Semiconductor
 - Electronics
+- Computers
+- Smart phones
+- Televisions
+- Gaming devices
+- Appliances
 - Automotive
 - Industrial
-- Space/Aerospace
-- Consumer electronics
+- Space
 
 ## Certifications
 - IATF 16949
@@ -681,22 +663,20 @@ GlobalWafers emphasizes its long-standing quality record as a differentiator. Th
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1959
-- **Headquarters:** St Peters, Missouri
+- **Headquarters:** St. Peters, Missouri
 
 <details><summary>Sources</summary>
 
-- Founded 1959 -> db description
-- HQ St. Peters, Missouri -> db hq_city/hq_state_label
-- Global manufacturer with facilities in US, Europe, Asia -> db description
-- Silicon wafer manufacturing, epitaxial deposition, SOI -> / page and /quality page
-- Serves 100% of top 25 semiconductor customers -> / page
-- End markets: computing, smartphones, TVs, gaming, appliances, automotive, industrial, space -> / page
-- 1994 Missouri Quality Award -> /quality page
-- 1995 Industry Week 'America's 10 Best Plants' -> /quality page
-- 1999 Missouri Team Quality Award (inventory, cycle time improvements) -> /quality page
-- 2001 NEC Best Supplier Award -> /quality page
-- Certifications: IATF 16949, ISO 9001:2015, ISO 9002 at multiple sites -> /quality page
-- Materials: Silicon wafers -> db description and / page
+- Headquarters St. Peters, Missouri -> db
+- Founded 1959 -> homepage
+- Manufactures silicon wafers for semiconductor industry -> homepage
+- Facilities in US, Europe, Asia Pacific -> homepage
+- Serves 100% of top 25 semiconductor customers -> homepage
+- Applications: computers, smart phones, TVs, gaming, appliances, automotive, industrial, space -> homepage
+- Processes: epitaxial deposition, SOI, gettering, hydrogen annealing, nitrogen doping, MDZ -> homepage, products list
+- Certifications: IATF 16949, ISO 9001:2015, ISO 9002 -> quality page
+- Quality awards: Missouri Quality Award 1994, Industry Week 1995, Missouri Team Quality Award 1999, NEC Best Supplier 2001 -> quality page
+- Strategy: preferred supplier through innovative products and differentiated service -> quality page
 </details>
 
 ---

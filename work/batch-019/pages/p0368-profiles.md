@@ -3,44 +3,37 @@
 **Old description:** To become the leading provider of engineering, fabrication, and technical services in the Rocky Mountain region, distinguished by our uncompromising standards in quality, advanced innovation, and customer-centric solutions.
 
 ## About
-Based in Douglas, Wyoming, L&L Fabrication Inc operates as an ASME-certified pressure vessel shop serving the Rocky Mountain region. The company does not publicly disclose its founding year, ownership structure, or the names of its founders.
+L&L Fabrication Inc operates from Douglas, Wyoming, as an ASME code vessel shop holding U, R, and VR stamps. The company provides coded fabrication, repair, and maintenance for pressure-rated equipment across the Rocky Mountain region.
 
-The shop holds ASME U, R, and VR stamps, allowing it to fabricate, repair, and alter coded pressure vessels to specification. Its capabilities include coded vessel fabrication and repair, engineering support, piping fabrication up to 72 inches in diameter, certified crane and rigging services, customized hauling, and on-site field services for oil and gas operations. Processes encompass coded welding, plasma cutting of conductive metals such as steel, stainless steel, aluminum, brass, and copper, as well as heavy industrial fabrication of skidded process equipment, separator vessels, and gas production equipment. Facility size, headcount, and annual volume are not disclosed.
+Its core capabilities include coded vessel fabrication and repair, piping fabrication up to 72 inches in diameter, engineering support, VR-stamped oil and gas field services, certified crane and rigging, and customized hauling. The shop also performs plasma cutting on steel, stainless steel, aluminum, brass, and copper.
 
-L&L Fabrication primarily serves the oil and gas sector, including pipeline operations, gas production facilities, and upstream and midstream projects. The company provides custom metal fabrication in Wyoming and industrial fabrication contractor services throughout Colorado, supporting customers with heavy industrial fabrication and on-site support.
+The company serves the oil and gas sector, pipeline operations, gas production facilities, and upstream and midstream projects in Wyoming and Colorado. Customers include operators needing separator vessels, skidded process equipment, and shop-built process vessels built to rigorous industry standards.
 
-The company states its vision is to become the provider of engineering, fabrication, and technical services in the Rocky Mountain region, distinguished by uncompromising quality standards, advanced innovation, and customer-centric solutions. Core values cited include integrity, innovation, quality, and efficacy, with an emphasis on meeting deadlines and maintaining site safety.
+L&L Fabrication states its vision is to become the provider of engineering, fabrication, and technical services in the Rocky Mountain region, distinguished by uncompromising quality standards, advanced innovation, and customer-centric solutions. Core values cited are integrity, innovation, quality, and efficacy.
 
 ## Known for
-- ASME U, R, and VR stamps for coded vessel work
+- Holds ASME U, R, and VR stamps
 - Piping fabrication up to 72-inch diameter
 - Certified crane and rigging services
-- Field services for oil and gas operations
-- Customized hauling and on-site support in Wyoming and Colorado
+- Customized hauling
+- Engineering services
 
 ## Capabilities
-- Coded Vessel Fabrication and Repair
-- VR Stamps Oil & Gas Field Service
-- Premier Oil & Gas Field Services
-- Piping Fabrication up to 72" Diameter
-- Certified Crane and Rigging Services
-- Engineering
-- Customized Hauling
-- Plasma Cutting
-- Coded Welding
-- Pressure Vessel Repair and Maintenance
-- Skidded Process Equipment Fabrication
-- Separator Vessel Fabrication
-- Gas Production Equipment Fabrication
-- Pipeline Fabrication
-- Industrial Steel Fabrication
+- Coded vessel fabrication
+- Coded vessel repair
+- Piping fabrication (up to 72 in.)
+- Engineering services
+- VR stamp oil & gas field service
+- Certified crane and rigging
+- Customized hauling
+- Plasma cutting
 
 ## Industries
 - Oil and gas
-- Pipeline
+- Pipeline operations
 - Gas production
-- Upstream and midstream
-- Industrial fabrication
+- Upstream operations
+- Midstream operations
 
 ## Certifications
 - ASME U Stamp
@@ -49,20 +42,19 @@ The company states its vision is to become the provider of engineering, fabricat
 - ASME BPVC
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Headquarters:** Douglas, Wyoming
 
 <details><summary>Sources</summary>
 
 - Location: Douglas, Wyoming -> db
-- ASME U, R, VR stamps held -> /
-- Services: coded vessel fabrication, piping up to 72", crane and rigging, engineering, customized hauling -> /
-- Processes: coded welding, plasma cutting (steel, stainless steel, aluminum, brass, copper) -> /
-- Industries served: oil and gas, pipeline, gas production, upstream/midstream -> /
-- Geographic service: Wyoming and Colorado -> /
-- Vision statement and core values -> /
-- Pressure vessel repair and maintenance offered -> /
-- Skidded process equipment, separator vessels, gas production equipment fabricated -> /
+- ASME U, R, VR stamps -> /
+- Piping fabrication up to 72 inches -> /
+- Services: coded vessel fabrication, repair, engineering, VR stamp field service, crane and rigging, customized hauling -> /
+- Industries: oil and gas, pipeline operations, gas production, upstream, midstream -> /
+- Core values: integrity, innovation, quality, efficacy -> /
+- Vision statement -> /
+- Plasma cutting materials: steel, stainless steel, aluminum, brass, copper -> /
 </details>
 
 ---
@@ -72,24 +64,25 @@ The company states its vision is to become the provider of engineering, fabricat
 **Old description:** From unbeatably tough totes to ultra-cozy slippers, don’t miss the products everyone is talking about.
 
 ## About
-L.L.Bean was founded in 1912 by Leon Leonwood Bean in Brunswick, Maine. From its start, the company focused on offering high-quality products at reasonable prices.
+L.L.Bean is headquartered in Brunswick, Maine, and was founded in 1912 by Leon Leonwood Bean. The company began as a mail-order business selling a single product, the Maine Hunting Shoe, and grew into a national retailer of outdoor gear and apparel.
 
-Today the retailer carries thousands of items across men's, women's, and children's clothing; footwear including the signature Bean Boots; outdoor gear for hunting, camping, and fly fishing such as tents, backpacks, sleeping bags, kayaks, and canoes; as well as furniture, bedding, and luggage. Products are described as lab- and field-tested, and all are backed by a customer service reputation the company calls legendary.
+The company designs and sells a wide range of outdoor products, including totes, slippers, footwear, clothing, and equipment for hunting, fishing, and camping. It operates primarily through its website and catalog, as well as retail stores, with its flagship campus in Freeport, Maine.
 
-The business sells directly to consumers through its website, catalog, and retail stores, including a flagship location in Freeport, Maine. Its customer base spans outdoor enthusiasts, families, and home shoppers seeking durable goods.
+L.L.Bean serves consumer markets, targeting outdoor enthusiasts, families, and gift buyers. Its customer base spans the United States and includes international online shoppers.
 
-The company emphasizes free shipping on orders over $75, a rewards program, and a branded credit card that provides free returns. Its stated differentiation rests on product durability and a service pledge that has become a hallmark of the brand.
+The company emphasizes its lifetime guarantee and customer service as key differentiators, positioning its products as durable and backed by a generous return policy.
 
 ## Known for
-- Free shipping on orders over $75
-- Legendary customer service pledge
-- Lab- and field-tested outdoor gear
-- L.L.Bean Mastercard with free returns
-- L.L.Bean Rewards loyalty program
+- Legendary customer service
 
 ## Capabilities
-- Lab and field testing of outdoor gear
-- Direct-to-consumer order fulfillment
+- Customer service
+
+## Industries
+- Outdoor recreation
+- Apparel
+- Footwear
+- Retail
 
 ## Company details
 - **Company Type:** Retailer
@@ -98,16 +91,13 @@ The company emphasizes free shipping on orders over $75, a rewards program, and 
 
 <details><summary>Sources</summary>
 
-- Founded in 1912 by Leon Leonwood Bean -> /
-- Headquarters in Brunswick, Maine -> db
-- Offers thousands of high-quality products at reasonable prices -> /
-- Free shipping with $75 purchase -> /
-- Product categories: men's/women's/kids' clothing, boots, shoes, slippers, outdoor gear (tents, backpacks, sleeping bags, kayaks, canoes), furniture, bedding, luggage -> /
-- Lab- and field-tested outdoor gear -> /
-- Legendary customer service claim -> /
-- Stores in Freeport, Maine and other locations -> /
-- L.L.Bean Mastercard for free returns -> /
-- L.L.Bean Rewards program -> /
+- Company name: L.L.Bean -> db
+- Founded: 1912 -> db
+- Headquarters: Brunswick, Maine -> db
+- Website: llbean.com -> db
+- Products include totes and slippers -> db (description)
+- Founder: Leon Leonwood Bean -> db (products field)
+- Emphasis on customer service -> db (capabilities field)
 </details>
 
 ---
@@ -117,35 +107,29 @@ The company emphasizes free shipping on orders over $75, a rewards program, and 
 **Old description:** LA Woodshop is a collective of woodworking educators and professionals. We welcome people of all skill levels to classes and community events in our 7,000 sq ft workshop and creative space, located in downtown Los Angeles.
 
 ## About
-LA Woodshop operates a 7,000-square-foot workshop and creative space in downtown Los Angeles, California. The business is structured as a collective of woodworking educators and professionals, though no founding year or individual founders are disclosed in public materials.
+LA Woodshop operates a 7,000-square-foot workshop and creative space in downtown Los Angeles, California. The collective brings together woodworking educators and professionals to provide classes, bench access, and fabrication services for the local community.
 
-The facility combines education, production, and retail functions. It runs woodworking classes ranging from one- or two-day weekend workshops to longer-form advanced courses, and provides bench space for independent makers. On the production side, the shop offers CNC machining and laser engraving services to customers who supply their own lumber, and accepts custom furniture commissions built by its instructors and students. A retail area sells finished furniture, student projects, and branded merchandise.
+The shop offers CNC routing and laser engraving services, custom furniture commissions, and a curriculum of woodworking classes ranging from one- or two-day weekend workshops to longer-form advanced courses. It also rents bench space to makers, hosts corporate team-building events, and sells finished furniture and branded merchandise through its on-site retail shop.
 
-The client base spans hobbyists seeking skill development, corporate groups booking team-building workshops, and buyers of custom wood furniture or CNC/laser services. Corporate events are marketed as customized workshops for team cohesion.
+Customers include hobbyists and aspiring woodworkers seeking hands-on instruction, businesses booking private team-building workshops, and clients commissioning custom furniture or CNC and laser work. The space serves both individual learners and corporate groups in the Los Angeles area.
 
-The collective model distinguishes the operation by embedding instruction and community access alongside fabrication services, positioning the shop as both a learning environment and a production resource for local makers and businesses.
+Founded as a community-focused woodworking collective, LA Woodshop emphasizes accessible skill-building alongside professional fabrication capabilities, aiming to lower barriers to entry for woodworking while providing production services for custom projects.
 
 ## Known for
 - 7,000 sq ft workshop in downtown Los Angeles
-- Collective of woodworking educators and professionals
-- On-site CNC machining and laser engraving services
-- Custom furniture commissions by instructors and students
-- Corporate team-building workshops
+- CNC routing and laser engraving services offered on-site
+- Custom furniture commissions from professional woodworkers
+- Corporate team-building workshops available
+- Woodworking classes for all skill levels
 
 ## Capabilities
-- Woodworking instruction (weekend workshops, multi-session courses)
-- CNC machining
+- CNC routing
 - Laser engraving
 - Custom furniture fabrication
-- Corporate team-building workshops
-- Bench space / open shop access
-- Retail sales (furniture, merchandise)
-
-## Industries
-- Education
-- Corporate Training
-- Furniture
-- Woodworking Services
+- Woodworking instruction
+- Corporate workshop facilitation
+- Bench space rental
+- Retail sales of furniture and merchandise
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -153,16 +137,13 @@ The collective model distinguishes the operation by embedding instruction and co
 
 <details><summary>Sources</summary>
 
-- Location: 1535 Paloma St., Los Angeles, CA 90021 -> /
-- 7,000 sq ft workshop and creative space -> /
+- 7,000 sq ft workshop at 1535 Paloma St., Los Angeles, CA 90021 -> /
 - Collective of woodworking educators and professionals -> /
-- Woodworking classes (weekend workshops, longer-form) -> /
-- CNC and laser engraving services offered -> /
-- Custom furniture commissions -> /
-- Corporate team-building events -> /
-- Retail shop selling furniture, projects, merchandise -> /
-- Headquarters city/state: Los Angeles, California -> db
-- Capabilities list includes CNC & LASER ENGRAVING Services -> db
+- Offers CNC routing and laser engraving services -> /
+- Offers custom furniture commissions -> /
+- Offers woodworking classes (weekend workshops, longer-form) -> /
+- Hosts corporate team-building events -> /
+- Sells furniture and branded merchandise -> /
 </details>
 
 ---
@@ -172,26 +153,26 @@ The collective model distinguishes the operation by embedding instruction and co
 **Old description:** Workers in the oil and gas, electric utility, refining, and petrochemical industries have utilized LAPCO Premium Workwear products since 1989.
 
 ## About
-LAPCO Manufacturing, Inc. was founded in 1989 in Morgan City, Louisiana. The company began producing flame-resistant (FR) workwear for industrial workers facing arc flash and flash fire hazards. Ownership details are not publicly disclosed.
+Established in 1989 in Morgan City, Louisiana, LAPCO Manufacturing, Inc. has spent over three decades producing flame-resistant workwear for industrial workers. The company operates from its headquarters on Glenwood Street in the heart of the Gulf Coast energy corridor.
 
-The company manufactures a range of FR garments including jackets, coveralls, shirts, jeans, outerwear, and accessories. Products are made from materials such as 100% cotton, 88/12 cotton/nylon blends, 95/5 cotton/spandex blends, 13-ounce cotton denim, and inherent knit fabrics. Operations are based at a headquarters facility on Glenwood Street in Morgan City, where the company handles design, production, and distribution. LAPCO also offers custom coverall orders with a reputation for fast turnaround.
+LAPCO manufactures a range of FR garments including coveralls, jackets, shirts, bib overalls, jeans, and outerwear. Products are made from fabrics such as 100% cotton, 88/12 cotton-nylon blends, 95/5 cotton-spandex knits, and 13-ounce cotton denim, with weights from 6 to 13 ounces. The company also offers a women's FR line and performance outerwear designed for cold-weather conditions. Custom coverall orders are a noted part of the business, with the company emphasizing quick turnaround.
 
-Primary customers work in oil and gas, electric utility, refining, and petrochemical industries. The company sells through a network of distributors and directly via its e-commerce site, serving both men and women with modern, comfort-focused designs. Trade association membership underscores its industry standing.
+Primary customers work in oil and gas, electric utility, refining, and petrochemical sectors. LAPCO sells through a distributor network and directly to end users via its website. Testimonials from pipeline workers and safety professionals highlight the brand's use in daily field operations. The company also provides FR education resources and guides for safety program managers.
 
-LAPCO emphasizes a service-oriented approach, promoting excellent customer support, pain-free inventory acquisition for distributors, and responsive custom order fulfillment. The brand positions itself on safety, reliability, and purpose, aiming to deliver workwear that helps wearers feel safe, work smart, and look good.
+LAPCO positions itself on service, promoting 'Built on Service' as a core differentiator. Distributors cite pain-free inventory acquisition and responsive support, while end users note the company's willingness to listen to challenges and adapt designs. The stated purpose centers on safety, reliability, and modern styling that workers want to wear.
 
 ## Known for
-- Excellent customer service and pain-free inventory acquisition for distributors
 - Fast turnaround on custom coverall orders
-- Safety-compliant FR workwear for arc flash and flash fire protection
-- Modern, comfortable designs for men and women
-- Trusted by industrial workers since 1989
+- Distributor-focused service with pain-free inventory acquisition
+- Responsive customer support that adapts to client challenges
+- Quality FR garments compliant with arc flash and flash fire standards
+- Modern, comfortable designs for workforce acceptance
 
 ## Capabilities
 - Flame-resistant garment manufacturing
 - Custom coverall production
-- Distributor program support
-- Direct-to-consumer e-commerce
+- Distributor supply chain support
+- FR safety education and resources
 
 ## Industries
 - Oil and gas
@@ -206,14 +187,16 @@ LAPCO emphasizes a service-oriented approach, promoting excellent customer suppo
 
 <details><summary>Sources</summary>
 
-- Founded 1989 -> db
-- Headquarters Morgan City, Louisiana -> db
-- Industries served: oil and gas, electric utility, refining, petrochemical -> /
-- Products: FR workwear (jackets, coveralls, shirts, jeans, outerwear) -> /
+- Founded in 1989 -> db
+- Headquarters at 98 Glenwood Street, Morgan City, LA 70380 -> /
+- Industries served: oil and gas, electric utility, refining, petrochemical -> / and db
+- Product lines: FR coveralls, jackets, shirts, bib overalls, jeans, outerwear -> /
 - Materials: 100% Cotton, 88/12 Blend, 95/5 Cotton Spandex Blend, 13oz Cotton Denim, 6oz Inherent Knit -> /
-- Custom coverall orders with fast turnaround -> /
-- Built on Service: excellent customer service, pain-free inventory acquisition -> /
+- Custom coverall orders with fast turnaround -> / (testimonial)
+- Distributor program with customer service and inventory acquisition -> / (Built on Service section)
+- FR education guides and industry resources -> /
 - Social media presence: Twitter, Facebook, Pinterest, Instagram, YouTube -> /
+- Company name indicates manufacturing -> db
 </details>
 
 ---
@@ -223,30 +206,29 @@ LAPCO emphasizes a service-oriented approach, promoting excellent customer suppo
 **Old description:** LED bulbs, indicator lights, and LED lighting components/assemblies
 
 ## About
-LEDtronics is an American manufacturer of LED lighting and indicator products based in Torrance, California. The company was founded in 1983 and has produced LED components domestically since its inception.
+LEDtronics was founded in 1983 in Torrance, California, as an American manufacturer of LED lighting and indicator products. The company has operated from its Southern California base for over four decades, producing LED bulbs, panel indicators, and lighting assemblies domestically.
 
-The company’s product portfolio includes miniature and intermediate based LED bulbs, relampable and non-relampable panel indicators, printed circuit board LEDs, discrete and surface-mount LEDs, and indoor and outdoor LED lighting assemblies. LEDtronics also supplies National Stock Number (NSN) referenced parts for government and defense procurement under CAGE code 8Z410.
+The product line spans miniature and intermediate based LEDs, relampable and non-relampable panel indicators, PC board LEDs, discrete and surface-mount devices, as well as indoor and outdoor lighting fixtures. LEDtronics focuses on direct LED replacements for incandescent miniature lamps and indicators, serving both standard and custom requirements.
 
-LEDtronics serves a range of sectors including industrial controls, defense and aerospace, power plants and utilities, transportation and railroad, cities and municipalities, elevators and escalators, commercial and office buildings, hospitality, education, healthcare, and safety and emergency services. Its components are designed as direct replacements for incandescent miniature lamps and indicators.
+Customers come from industrial controls, defense and aerospace, power plants and utilities, transportation and railroad, cities and municipalities, elevators and escalators, commercial offices, hospitality, education, healthcare, and safety and emergency sectors. The company holds Cage Code 8Z410 and maintains a National Stock Number reference list for government and defense procurement.
 
-The company emphasizes its U.S.-based manufacturing and long-standing focus on LED innovation, positioning itself as a specialist in direct incandescent-to-LED conversion for demanding industrial and government applications.
+LEDtronics emphasizes its U.S.-based manufacturing heritage, promoting itself as an American LED lighting and indicator expert since 1983. The company’s differentiators include domestic production, a broad cross-reference for incandescent-to-LED conversion, and a focus on markets requiring long-life, ruggedized lighting solutions.
 
 ## Known for
-- Manufacturing LED products in the USA since 1983
-- Direct LED replacements for miniature incandescent lamps and indicators
-- National Stock Number (NSN) parts for government/defense (CAGE 8Z410)
-- Industry-focused product lines for industrial controls, aerospace, utilities, transportation, and more
-- Continuous product innovation (e.g., traffic signal modules, utility lighting, panel-mount indicators)
+- Manufactures LED products in the USA since 1983
+- Cage Code 8Z410 for government and defense supply
+- National Stock Number (NSN) part reference list
+- Direct LED replacements for miniature and indicator lamps
+- Serves defense, aerospace, industrial, transportation, and municipal markets
 
 ## Capabilities
-- Miniature based LED bulb production
-- Intermediate based LED bulb production
-- Panel indicator manufacturing (relampable and non-relampable)
-- PC board LED assembly
-- Discrete and SMD LED packaging
-- Indoor LED lighting assembly
-- Outdoor LED lighting assembly
-- Government/defense NSN part fulfillment
+- LED bulb manufacturing
+- LED indicator manufacturing
+- LED lighting assembly
+- PCB LED assembly
+- SMD LED assembly
+- Panel indicator manufacturing
+- Custom LED lighting assemblies
 
 ## Industries
 - Industrial Controls
@@ -272,12 +254,11 @@ The company emphasizes its U.S.-based manufacturing and long-standing focus on L
 - Founded 1983 -> db
 - Headquarters Torrance, California -> db
 - Cage Code 8Z410 -> /
-- Made in USA since 1983 -> /
+- Manufactures LED products in USA since 1983 -> /
+- Product categories: LED bulbs, indicators, lighting components -> /
 - Industries served: Industrial Controls, Defense & Aerospace, Power Plants & Utilities, Transportation & Railroad, Cities & Municipalities, Elevators & Escalators, Commercial & Office, Hospitality, Education, Healthcare, Safety & Emergency -> /
-- Product lines: Miniature Based, Intermediate Based, Panel Indicators (Relampable, Non-Relampable), PC Board LEDs, Discrete & SMD LEDs, Indoor LED Lighting, Outdoor LED Lighting -> /
-- NSN parts for Government/Defense -> /
-- Direct LED replacement for miniature lamps and indicators -> /
-- Company described as LED lamp manufacturer -> /
+- NSN part number reference for Government/Defense -> /
+- Made in USA claim -> /
 </details>
 
 ---
@@ -287,19 +268,19 @@ The company emphasizes its U.S.-based manufacturing and long-standing focus on L
 **Old description:** Our products are made of the highest quality materials right here in the USA.
 
 ## About
-La France Industries, operating as LaFrance Fabrics, is headquartered in La France, South Carolina. The company was founded in 1996 as P&A Industrial Fabrications, LLC, a subsidiary of the P&A Group, LLC. Its roots trace to the textile heritage of Roxboro, North Carolina, where velvet looms have operated for over a century.
+LaFrance Fabrics, operating as P&A Industrial Fabrications (PAIF), is headquartered in Pendleton, South Carolina. The company was founded in 1996 and traces its weaving heritage to the velvet looms that have operated in Roxboro, North Carolina, for more than a century. PAIF is a subsidiary of the P&A Group, LLC.
 
-The company manufactures premium woven fabrics on velvet, jacquard, and drop-stitch looms. Product lines include paint roller fabrics (1/4" to 3/4" pile height), grip tape roll covering, microfiber fabrics for cleaning, heel pads for automotive carpeting, polyester filtration fabrics, ski climbing skins, flat fabrics, and woven drop-stitch fabrics for inflatable boats, body boards, and airline lift bags. Finishing capabilities encompass tentering, heat setting, coating, napping, shearing, and slitting. The operation exports to ten countries and relies on a workforce whose weavers and technicians average 30 years of experience, with leadership totaling 160 combined years in the textile industry.
+The company manufactures premium woven fabrics on velvet, jacquard, and drop-stitch looms. Its product range includes paint roller fabrics (1/4″ to 3/4″ nap), grip tape roll covering, microfiber cleaning fabrics, automotive heel pads, polyester filtration media, ski climbing skins, flat fabrics, and drop-stitch fabrics for inflatable boats, body boards, and airline lift bags. Finishing capabilities cover tentering, heat setting, coating, napping, shearing, and slitting. The facility serves both domestic and international markets, exporting to ten countries, and relies on a workforce where weavers average 30 years of experience and leadership totals 160 combined years in textiles.
 
-Customers span automotive, paint roller manufacturing, textile, microfiber cleaning, filtration, ski and snow sports, inflatable boat production, body board manufacturing, aviation (airline lift bags), and government/military sectors requiring Berry Compliance certification. The company serves both commercial and governmental end users.
+Primary markets include automotive (carpet heel pads, paint roller fabrics), textile (grip tape), marine (inflatable boat fabrics), aerospace and defense (airline lift bags, governmental contracts), filtration, and sports (ski skins). Customers range from professional contractors and DIY consumers to commercial and government agencies.
 
-LaFrance Fabrics differentiates itself through Berry Compliance certification for velvet, jacquard, and drop-stitch looms, a Lean Manufacturing culture with regular 5S and Kaizen events, and a staff PhD who drives collaborative product development. The firm emphasizes long-term supply-chain partnerships and continuous improvement.
+PAIF differentiates itself through Berry Compliance certification on its velvet, jacquard, and drop-stitch looms, a Lean Manufacturing system with regular 5S and Kaizen events, and a dedicated PhD-led development team that collaborates with customers and suppliers on custom solutions. The company emphasizes long-term relationships and continuous improvement as a strategic supply-chain partner.
 
 ## Known for
-- Berry Compliance certification for velvet, jacquard, and drop-stitch looms
-- Lean Manufacturing with 5S and Kaizen continuous improvement
-- PhD-led product development for custom applications
-- Workforce averaging 30 years of weaving and technical experience
+- Berry Compliance certification on velvet, jacquard, and drop-stitch looms
+- Lean Manufacturing with annual 5S and Kaizen events
+- PhD-led product development partnering with customers and suppliers
+- Workforce averaging 30 years of weaving experience, leadership with 160 combined years
 - Exports to 10 countries
 
 ## Capabilities
@@ -314,19 +295,16 @@ LaFrance Fabrics differentiates itself through Berry Compliance certification fo
 - Slitting
 - Product development (PhD-led)
 - Berry Compliance certification
-- Lean manufacturing (5S, Kaizen)
 
 ## Industries
 - Automotive
-- Paint roller manufacturing
 - Textile
-- Microfiber cleaning products
+- Marine
+- Aerospace & Defense
 - Filtration
-- Ski and snow sports
-- Inflatable boats
-- Body boards
-- Aviation (airline lift bags)
-- Government/military (Berry Compliance)
+- Sports & Recreation
+- Industrial
+- Government
 
 ## Equipment
 - Velvet looms
@@ -334,27 +312,29 @@ LaFrance Fabrics differentiates itself through Berry Compliance certification fo
 - Drop-stitch looms
 
 ## Certifications
-- Berry Compliance certification
+- Berry Compliance
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1996
-- **Ownership:** Part of P&A Group, LLC
-- **Headquarters:** La France, SC
+- **Headquarters:** Pendleton, South Carolina
 
 <details><summary>Sources</summary>
 
-- Founded 1996 -> db
-- Headquarters La France, SC -> /about-us
-- Part of P&A Group, LLC -> /about-us
-- Products: paint roller fabrics, grip tape, microfiber, heel pads, polyester filtration, ski climbing skins, flat fabrics, drop stitch fabrics -> /about-us
-- Processes: velvet looms, jacquard looms, drop-stitch looms, tentering, heat setting, coating, napping, shearing, slitting -> /about-us
-- Berry Compliance certification -> /about-us
+- Headquarters in Pendleton, SC -> db
+- Founded in 1996 -> db
+- Operates as P&A Industrial Fabrications, part of P&A Group -> /about-us
+- Heritage of velvet looms in Roxboro, NC for over 100 years -> /about-us
+- Manufactures paint roller fabrics, grip tape, microfiber, automotive heel pads, polyester filtration, ski skins, flat fabrics, drop-stitch fabrics -> /about-us
+- Finishing: tentering, heat setting, coating, napping, shearing, slitting -> /about-us
+- Berry Compliance certification for velvet, jacquard, drop-stitch looms -> /about-us
+- Weavers average 30 years experience, leadership 160 combined years -> /about-us
+- Lean Manufacturing, 5S, Kaizen events -> /about-us
+- PhD-led development -> /about-us
 - Exports to 10 countries -> /about-us
-- Workforce average 30 years experience, leadership 160 combined years -> /about-us
-- Lean Manufacturing, 5S, Kaizen -> /about-us
-- Staff PhD drives development -> /about-us
-- Industries served: automotive, paint roller, textile, microfiber, filtration, ski, inflatable boats, body boards, airline lift bags, government -> /about-us
+- Industries: automotive, textile, marine, aerospace/defense, filtration, sports -> /about-us
+- Equipment: velvet looms, jacquard looms, drop-stitch looms -> /about-us
+- Materials: velvet, microfiber, polyester -> /about-us
 </details>
 
 ---
@@ -364,57 +344,59 @@ LaFrance Fabrics differentiates itself through Berry Compliance certification fo
 **Old description:** LaMar Plastics is a family-owned and operated company serving the Plastic Packaging and P.O.P. Display industry since 1965 in our New York facility. The Cosmetic, Liquor and Retail industries are just some of the industries we serve.
 
 ## About
-LaMar Plastics & Displays, Ltd. has operated from Freeport, New York since 1965. The family‑owned company began as a supplier to the plastic packaging and point‑of‑purchase display markets and has remained under family control throughout its history.
+LaMar Plastics & Displays, Ltd. is a family-owned and operated manufacturer based in Freeport, New York. Founded in 1965, the company has served the plastic packaging and point-of-purchase display industry from its New York facility for decades.
 
-The facility houses ten automatic in‑line vacuum forming machines plus two sample machines, four 5‑by‑10‑foot CNC router tables with tool changers, two HAAS CNC milling machines for aluminum tooling, and a 6‑by‑10‑foot 400‑watt laser cutter. Additional capabilities include silk screening, RF sealing, heat bending, flat‑bed digital printing (added in 2020), edge banding, wood staining and painting, and an in‑house CAD department that produces 3‑D renderings and prototypes.
+The company operates an expansive facility housing ten automatic in-line vacuum forming machines, two large sample machines, four 5' x 10' CNC router tables with tool changers, two HAAS CNC milling machines for aluminum vacuum form tooling, and a 6' x 10' 400-watt CNC laser cutter. Additional capabilities include in-house silk screening, RF sealing for clamshell packaging, heat bending of plastics and acrylics, and flatbed digital printing on woods, plastics, acrylics, and PETG. LaMar provides end-to-end services from CAD design and prototyping through manufacturing, decorating (hot stamping, silk screening, stitching, labeling), and shipping.
 
-LaMar serves the cosmetic, liquor, retail, and electronics sectors, producing point‑of‑purchase displays, clamshell packaging, ESD and anti‑static trays, and blister trays. The company also works with smaller startup customers, offering design, prototyping, manufacturing, and shipping under one roof.
+LaMar serves the cosmetic, liquor, and retail industries, producing point-of-purchase displays, clamshell packaging, ESD and anti-static trays for sensitive electronics, and blister trays. The company also works with smaller startup customers, offering design, prototyping, and quick sample turnaround.
 
-Management emphasizes a one‑stop‑shop model that combines design, prototyping, production, and logistics, with a focus on quick sample turnaround and a willingness to take on low‑volume orders. Continuous investment in equipment such as digital printing and laser cutting is cited as a way to stay ahead of market trends.
+The company emphasizes a one-stop-shop model, combining design, prototyping, manufacturing, and shipping under one roof, with a commitment to evolving technology and fast, affordable service.
 
 ## Known for
-- Ten automatic in‑line vacuum forming machines for high‑volume thermoforming
-- In‑house CAD and 3‑D rendering department for rapid prototyping
-- Flat‑bed digital printing directly on woods, plastics, acrylics, and PETG
-- RF sealing of customer products inside clamshell packages
-- Fast sample turnaround and willingness to serve startup‑size orders
+- Ten automatic in-line vacuum forming machines enabling competitive pricing
+- One-stop-shop for design, prototyping, manufacturing, and shipping
+- In-house CAD and computer rendering for rapid prototyping
+- Flatbed digital printing added in 2020 on woods, plastics, acrylics, PETG
+- Fast sample turnaround for startup customers
 
 ## Capabilities
-- Vacuum forming (thermoforming)
-- CNC routing
-- Laser cutting
+- Vacuum forming
+- CNC router cutting
+- CNC laser cutting
 - CNC milling (aluminum tooling)
 - Silk screening
 - RF sealing
 - Heat bending
-- Flat-bed digital printing
-- CAD/3D design and rendering
+- Flatbed digital printing
+- CAD design
 - Prototyping
 - Assembly
 - Contract packaging
+- Hot stamping
+- Stitching
+- Labeling
 - Edge banding
-- Wood staining and painting
-- Material cutting (woods, plastics, acrylics, composites)
-- Laser engraving
+- Painting and staining
 
 ## Industries
 - Cosmetic
 - Liquor
 - Retail
-- Electronics (ESD/Anti-static)
-- Point-of-purchase displays
+- Electronics
+- Advertising and display
+- Point-of-purchase display
 - Packaging
 
 ## Equipment
-- 10 in-line automatic vacuum forming machines
+- 10 automatic in-line vacuum forming machines
 - 2 large vacuum forming sample machines
-- Four 5' x 10' CNC router tables with tool changers
-- Two HAAS CNC milling machines
-- One 6' x 10' x 400W CNC laser cutting machine
+- 4 5' x 10' flat bed router tables with tool changers
+- 2 HAAS CNC milling machines
+- 1 6' x 10' x 400W laser cutting machine
 - Automatic edge banding machines
 - RF sealing machines
-- Custom heat bending machine
-- Flat bed digital printing machine (2020)
+- Custom made heat bending machine
+- Flatbed digital printing machine
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -427,21 +409,18 @@ Management emphasizes a one‑stop‑shop model that combines design, prototypin
 - Founded 1965 -> /
 - Family-owned -> /
 - Headquarters Freeport, NY -> db
-- 10 vacuum forming machines -> /services
-- 4 CNC router tables -> /services
-- 2 HAAS milling machines -> /services
-- 1 6'x10' 400W laser cutter -> /services
-- Silk screening -> /services
-- RF sealing -> /services
-- Heat bending -> /services
-- Flat bed digital printing (2020) -> /services
-- CAD/3D rendering -> /services
-- Industries: cosmetic, liquor, retail, electronics -> /
-- Materials: polystyrene, PETG, PVC, acrylic, etc. -> /services
-- Laser kerf 0.002 in -> /services
+- Industries: cosmetic, liquor, retail -> /
+- Vacuum forming machines (10 automatic in-line, 2 sample) -> /services
+- CNC router tables (4) -> /services
+- HAAS milling machines (2) -> /services
+- Laser cutter (6'x10' 400W) -> /services
+- Silk screening, RF sealing, heat bending -> /services
+- Flatbed digital printing (2020) -> /services
+- CAD design, prototyping, assembly, packaging -> /
+- Materials: polystyrene, anti-static, ESD, PETG, RPET, PVC, wood, melamine, acrylic, MDF, Sintra, foam, recycled styrene -> /, /services
+- Laser kerf 0.002" -> /services
 - One-stop-shop model -> /
 - Fast sample turnaround -> /
-- Serves startup customers -> /
 </details>
 
 ---
@@ -451,44 +430,49 @@ Management emphasizes a one‑stop‑shop model that combines design, prototypin
 **Old description:** Since 1993, we’ve recycled over 150 million pounds of plastic material.
 
 ## About
-Lacerta Group, LLC is headquartered in Mansfield, Massachusetts, and has been operating since 1993. The company was founded by the Lotfi family in the Boston empowerment zone and became a portfolio company of SK Capital Partners in 2020, with the founding family remaining involved in strategy and operations.
+Lacerta Group, LLC. is headquartered in Mansfield, Massachusetts, and traces its roots to 1993 when the Lotfi family founded the company in Boston’s empowerment zone. The business began as a thermoforming operation that quickly incorporated recycled plastic material. In 2020, the Lotfi family sold a majority stake to SK Capital Partners but remained involved in strategy and operations.
 
-The company produces thermoformed plastic packaging, primarily using PET, and offers both stock and custom solutions. Its fully integrated manufacturing platform includes in-house design, printing, and film-sealable packaging capabilities. Lacerta operates seven facilities across the United States: three in Mansfield, one in Attleboro, Massachusetts, one in Chatsworth, California, and one in Portage, Wisconsin. An on-site warehouse stocks hundreds of packaging items ready for immediate shipment.
+The company manufactures thermoformed PET packaging for food applications, offering both stock and custom solutions. Its fully integrated platform covers in-house design, tooling, printing, and film-sealable and tamper-evident formats. Lacerta operates seven U.S. facilities — three in Mansfield, plus sites in Chatsworth, California; Attleboro, Massachusetts; and Portage, Wisconsin — and maintains an on-site warehouse for immediate shipment of hundreds of stock items. The company reports having recycled more than 150 million pounds of plastic since inception and holds SQF certification for food packaging manufacturing.
 
-Lacerta serves commercial food producers, supermarkets, and convenience-store chains, supplying packaging for prepared foods such as sandwiches, wraps, salads, snacks, and party trays. Its products are designed for grab-and-go retail environments and emphasize shelf-life extension and tamper-evident features.
+Lacerta serves commercial food producers, supermarkets, and convenience-store chains, supplying containers for grab-and-go items such as sandwiches, salads, snacks, and prepared meals. Its packaging is designed to extend shelf life and provide crystal-clear product visibility.
 
-The company states that its differentiation rests on sustainability and speed to market. Its ReCERTA™ material incorporates an average of at least 10% post-consumer recycled content across all PET products, with custom blends available. Lacerta maintains SQF certification in the Manufacturing of Food Packaging and highlights a commitment to circularity, life-cycle assessment, and brand messaging support for customers.
+The company differentiates itself through its ReCERTA™ material, which guarantees an average of at least 10% post-consumer recycled content across all PET products, with custom blends available. Lacerta also emphasizes speed to market, sustainability consulting (including life-cycle assessments), and a partnership model that spans the entire product lifecycle.
 
 ## Known for
 - SQF certification in Manufacturing of Food Packaging
-- ReCERTA™ material with average 10% PCR content
-- Fully integrated manufacturing platform with in-house design and printing
-- On-site warehouse with hundreds of stock packaging solutions ready to ship
-- Speed-to-market partnership model for custom packaging development
+- ReCERTA™ material with ≥10% PCR content across PET products
+- Fully integrated manufacturing platform (design, tooling, printing, thermoforming)
+- Seven U.S. facilities with on-site warehouse for same-day stock shipment
+- In-house design and sustainability consulting (life-cycle assessment, brand messaging)
 
 ## Capabilities
 - Thermoforming
-- PET packaging production
-- Sustainable packaging (PCR blends)
-- In-house design and engineering
-- Custom packaging development
-- Stock packaging fulfillment
+- PET packaging
+- Sustainable packaging
+- In-house design
+- Custom packaging
+- Stock packaging
 - Film-sealable packaging
 - Tamper-evident packaging
-- Printing and decoration
+- Printing
+- Packaging design
 - Life cycle assessment
-- Brand messaging and sustainability consulting
+- Brand messaging
+- Packaging insights
+- Custom PCR blends
+- Post-consumer recycled content integration
+- SQF-certified food packaging manufacturing
 
 ## Industries
 - Food packaging
-- Commercial food production
-- Supermarkets and grocery
+- Commercial food producers
+- Supermarkets
 - Convenience stores
+- Grab-and-go foodservice
 - Prepared foods
-- Grab-and-go retail
-- Sandwich and wrap packaging
-- Salad and snack packaging
-- Party and catering trays
+- Sandwiches
+- Salads
+- Snacks
 
 ## Certifications
 - SQF certification in Manufacturing of Food Packaging
@@ -496,26 +480,25 @@ The company states that its differentiation rests on sustainability and speed to
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1993
-- **Ownership:** Family-founded, now portfolio company of SK Capital Partners
+- **Ownership:** Family-founded (Lotfi family), portfolio company of SK Capital Partners since 2020
 - **Headquarters:** Mansfield, Massachusetts
 
 <details><summary>Sources</summary>
 
-- Founded 1993 -> db, /about-us
-- Headquarters Mansfield, MA -> db, /about-us
-- Seven US facilities (Mansfield x3, Attleboro, Chatsworth, Portage) -> /about-us
+- Founded 1993 in Boston, Massachusetts -> /about-us
+- Headquartered in Mansfield, Massachusetts -> /about-us
+- Operates seven U.S. facilities (three in Mansfield, one in Chatsworth CA, one in Attleboro MA, one in Portage WI) -> /about-us
 - Founded by Lotfi family -> /about-us
-- SK Capital Partners portfolio since 2020 -> /about-us
+- Became portfolio company of SK Capital Partners in 2020 -> /about-us
+- Recycled over 150 million pounds of plastic material since 1993 -> /about-us
 - SQF certification in Manufacturing of Food Packaging -> /about-us
-- ReCERTA material with 10% PCR average -> /about-us, /
-- Thermoformed PET packaging -> /about-us
-- Stock packaging hundreds of SKUs, on-site warehouse -> /about-us
-- Custom packaging with in-house design and printing -> /about-us
-- Film-sealable and tamper-evident packaging -> /, /about-us
-- Industries: commercial food producers, supermarkets -> /about-us
-- Products for sandwiches, salads, snacks, party trays -> /, /about-us
-- Sustainability stats (oil, water, gasoline saved) -> /, /about-us
-- Life cycle assessment and brand messaging services -> /about-us
+- Offers thermoformed PET packaging, sustainable packaging, in-house design -> /about-us
+- Serves commercial food producers and supermarkets -> /about-us
+- ReCERTA™ material with average at least 10% PCR content -> /about-us
+- Stock packaging ready to ship from on-site warehouse -> /about-us
+- Custom packaging process from design to printing -> /about-us
+- Speed to market, innovation, partnership model -> /about-us
+- Sustainability consulting including life cycle assessment and brand messaging -> /about-us
 </details>
 
 ---
@@ -525,46 +508,49 @@ The company states that its differentiation rests on sustainability and speed to
 **Old description:** Fast, Accurate & Traceable Power Sensors, 4 kHz to 67 GHz with 86dB Dynamic Range
 
 ## About
-LadyBug Technologies, LLC was founded in 2004 in Santa Rosa, California, by microwave engineers Richard Hawkins and Jon Sigler. The company relocated to Boise, Idaho in 2021, doubling its facility space and expanding manufacturing capacity by 30 percent. Hawkins serves as president, bringing four decades of RF and microwave test and measurement experience, while Sigler, a retired vice president and U.S. Marine veteran, contributed software and firmware expertise.
+LadyBug Technologies, LLC is headquartered in Boise, Idaho, after relocating from Santa Rosa, California in 2021. The company was founded in 2004 by two microwave engineers, Richard Hawkins and Jon Sigler, who shared a passion for quality microwave test instrumentation. Hawkins serves as president, bringing four decades of RF and microwave test and measurement experience from Sonoma County, while Sigler, a retired vice president and U.S. Marine veteran with calibration lab experience, contributed software and firmware expertise.
 
-The company designs, develops, and manufactures a broad line of USB power sensors that function as complete, self-contained power measurement solutions without a separate meter. Covering 4 kHz to 67 GHz with 86 dB dynamic range, the product portfolio includes true RMS, peak/pulse/average, pulse profiling, and small form factor sensors, as well as the LB5900 series with optional I2C/SPI interfaces and Linux compatibility. LadyBug also provides NIST-traceable calibration services and power sensor rentals.
+The company designs, develops, and manufactures a broad line of USB power sensors that function as complete, self-contained power measurement solutions without a separate power meter. Its portfolio spans True RMS, peak/pulse/average, pulse profiling, and small form factor sensors covering 4 kHz to 67 GHz with 86 dB dynamic range. The LB5900 series adds optional I2C and SPI connectivity and Linux compatibility. LadyBug also operates a calibration service providing NIST-traceable certificates, a power sensor rental program, and accessories. The 2021 move to Boise doubled the facility footprint, increased manufacturing capacity by 30%, and expanded the product engineering team.
 
-LadyBug’s sensors serve the microwave and RF test industry, automated test equipment (ATE) systems, defense applications, and portable or compact test setups. Customers use them for general-purpose RF power testing, military radar, and programmatic test environments such as LabVIEW and VEE.
+LadyBug’s sensors serve general-purpose RF power testing, automated test equipment (ATE), defense, and portable or compact applications across the microwave and RF test industry. Customers include organizations requiring traceable power measurements for radar, satellite, wireless communications, and electronic warfare systems.
 
-The founders started the company to build a better product at a better price in the United States. LadyBug differentiates itself with patented NoZero NoCal technology that eliminates user zeroing and reduces drift, and with an integrated sensor architecture that removes the uncertainty of a separate meter. All analog and digitization circuitry is calibrated as a single unit under an ISO 9001:2015 quality system.
+The company was created to deliver a better product at a better price, built in the U.S.A. Its patented NoZero NoCal technology eliminates user zeroing before measurement, reduces the need for switches and cables in low-level ATE setups, and provides thermal stabilization to prevent drift. The integrated sensor architecture removes the uncertainty of a separate meter and consolidates calibration into a single device.
 
 ## Known for
-- Patented NoZero NoCal technology eliminates zeroing before measurement
-- Self-contained USB power sensors replace separate power meter and sensor
-- NIST-traceable calibration covering all analog and digitization circuitry
-- Thermally stabilized design eliminates drift in test systems
-- Frequency coverage from 4 kHz to 67 GHz with 86 dB dynamic range
+- Patented NoZero NoCal feature eliminates user zeroing and reduces calibration hardware
+- Thermally stabilized sensors prevent drift and measurement interruption
+- Self-contained USB power sensors integrate meter and sensor, reducing calibration uncertainty
+- NIST-traceable calibration certificates included with each sensor
+- LB5900 series offers I2C/SPI interfaces and Linux compatibility for embedded ATE
 
 ## Capabilities
 - USB power sensor design and manufacturing
-- NIST-traceable calibration
-- Power sensor rental
-- Calibration and repair services
-- RF and microwave test instrumentation development
 - True RMS power measurement
 - Peak, pulse, and average power measurement
 - Pulse profiling
-- Small form factor sensor production
+- Small form factor sensor design
 - LAN-compatible sensor integration
-- I2C/SPI interface implementation
-- Linux-compatible firmware development
+- I2C and SPI interface development
+- NIST-traceable calibration services
+- Power sensor rental program
+- Calibration certificate generation
+- Product certificate of compliance
+- REACH and RoHS compliance documentation
+- Conflict minerals reporting (CMRT)
 
 ## Industries
-- Microwave and RF test and measurement
+- RF and microwave test and measurement
 - Automated test equipment (ATE)
-- Defense and military
-- Portable and compact test applications
-- General-purpose RF power testing
+- Defense and aerospace
+- Wireless communications
+- Radar and electronic warfare
+- Satellite systems
+- General purpose RF power testing
 
 ## Certifications
 - ISO 9001:2015
-- RoHS (RoHS-3)
-- REACH
+- RoHS-3 compliance
+- REACH compliance
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -573,21 +559,21 @@ The founders started the company to build a better product at a better price in 
 
 <details><summary>Sources</summary>
 
-- Founded in Santa Rosa, CA in 2004 -> /about-us
-- Based in Boise, ID -> /about-us
-- Founders: Richard Hawkins and Jon Sigler -> /about-us
-- Designs, develops, manufactures USB power sensors -> /
-- Frequency range 4 kHz to 67 GHz, 86 dB dynamic range -> /
-- Patented NoZero NoCal feature -> /
+- Founded 2004 in Santa Rosa, CA -> /about-us
+- Headquartered in Boise, ID since 2021 move -> /about-us
+- Founders: Richard Hawkins (President) and Jon Sigler (retired VP, co-founder) -> /about-us
+- Jon Sigler U.S. Marine calibration lab tour -> /about-us
+- 2021 move doubled space, added 30% manufacturing capacity, expanded engineering team -> /about-us
+- Manufactures USB power sensors 4 kHz–67 GHz, 86 dB dynamic range -> /
+- Sensor types: True RMS, peak/pulse/average, pulse profiling, small form factor, LAN compatible -> /
+- LB5900 series with I2C/SPI, Linux compatible -> /
+- Patented NoZero NoCal feature eliminates zeroing, thermally stabilized -> /
+- Integrated self-contained sensor architecture -> /
+- Calibration services with NIST-traceable certificates -> /quality
+- Power sensor rental program -> /
 - ISO 9001:2015 certified -> /quality
-- RoHS compliance -> /quality
-- REACH compliance -> /quality
-- Moved to Boise in 2021, doubled space, added 30% manufacturing capacity -> /about-us
-- Products: True RMS, Peak/Pulse/Average, Pulse Profiling, Small Form Factor, LAN Compatible -> /
-- Industries: microwave and RF test, ATE, defense, portable -> /
-- Calibration services -> /
-- CAGE code registration -> /quality
-- Human Rights Policy, Diversity, Safety -> /about-us
+- RoHS-3, REACH, CMRT compliance -> /quality
+- Industries: general RF testing, ATE, defense, portable/compact, microwave/RF test -> /
 - LinkedIn URL -> db
 </details>
 
@@ -598,29 +584,29 @@ The founders started the company to build a better product at a better price in 
 **Old description:** None
 
 ## About
-Lakeside Metal Fabrication, LLC was established in 2000 in Mena, Arkansas, along Highway 88 in Polk County. The company operates as a local fabrication and repair shop serving the surrounding area.
+Lakeside Metal Fabrication, LLC was founded in 2000 in Mena, Arkansas, and has served Polk County and the surrounding region for over two decades. The company began as a local welding and fabrication shop, though the names of its founders are not publicly disclosed.
 
-The shop provides welding, sheet metal work, and custom metal fabrication ranging from simple to complex projects. It also offers trailer repair and service, sells trailer parts and accessories, towing accessories, truck accessories, hitch installations, and truck bed sales and service. The company reports having assisted over 4,000 clients and cites more than 30 years of combined experience among its craftsmen.
+The shop provides a range of metalworking services, including welding, sheet metal work, and custom fabrication for projects both simple and complex. It also operates a trailer repair and service department, sells trailer parts and accessories, towing accessories, truck accessories, and offers hitch installation and truck bed sales and service. No facility size, headcount, or production volumes are published.
 
-Lakeside serves individual trailer and truck owners as well as local businesses in Polk County and nearby communities. Its services cater to customers needing custom fabrication, trailer maintenance, or aftermarket truck and towing equipment.
+Lakeside Metal Fabrication serves individual vehicle owners, local businesses, and commercial fleets needing trailer maintenance, custom metal components, or truck accessory installation. The company describes its customer base as spanning various industries, though specific sectors are not named.
 
-The company emphasizes precision and compliance with standards, attributing its results to skilled craftsmen and a wide range of fabrication capabilities. It invites customers to visit the shop Monday through Saturday for quotes and consultations.
+The company emphasizes its "Fabrication Done Right" motto, citing over 30 years of combined experience and a track record of helping more than 4,000 clients. It highlights skilled craftsmen who ensure precision and full compliance with applicable standards.
 
 ## Known for
-- Custom metal fabrication from simple to complex
-- Over 30 years of combined craftsmanship experience
-- 4,000+ clients served in the Polk County region
-- Full-service trailer repair, parts, and accessory sales
-- Local shop open Monday through Saturday for walk-in consultations
+- "Fabrication Done Right" quality commitment
+- Over 30 years of combined experience
+- 4,000+ clients served
+- Skilled craftsmen ensuring precision and compliance
+- Local service across Polk County and surrounding areas
 
 ## Capabilities
 - Welding
 - Sheet metal fabrication
 - Custom metal fabrication
-- Trailer repair
-- Trailer parts and accessories
-- Towing accessories
-- Truck accessories
+- Trailer repair and service
+- Trailer parts and accessories sales
+- Towing accessories sales
+- Truck accessories sales
 - Hitch installation
 - Truck bed sales and service
 
@@ -632,13 +618,12 @@ The company emphasizes precision and compliance with standards, attributing its 
 <details><summary>Sources</summary>
 
 - Founded in 2000 -> db, /about-us
-- Headquarters in Mena, Arkansas -> db, /about-us
-- Services: welding, sheet metal, custom fabrication, trailer repair, trailer parts, accessories, towing accessories, truck accessories, hitch installs, truck bed sales -> /
-- 4,000+ clients helped -> /about-us
-- Over 30 years of experience -> /about-us
-- Address: 2610 Hwy 88, Mena, AR 71953 -> /about-us
-- Process: call, visit shop Monday-Saturday -> /
-- Dealer of other brands -> /
+- Headquartered in Mena, Arkansas -> db, /about-us
+- Offers welding, sheet metal, custom fabrication -> /
+- Provides trailer repair, parts, accessories -> /
+- Offers hitch installation, truck bed sales -> /
+- Over 30 years experience, 4,000+ clients helped -> /about-us
+- Fabrication Done Right motto -> /, /about-us
 </details>
 
 ---

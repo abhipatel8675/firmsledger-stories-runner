@@ -3,49 +3,51 @@
 **Old description:** All of our custom wood pieces are handcrafted in our Queen Creek, AZ workshop. That gives you personalized attention, careful craftsmanship, and a finished piece built with detail in mind.
 
 ## About
-Founded in 1996 in Queen Creek, Arizona, JSC Woodworking operates as a locally owned and operated custom woodworking shop. The company began with a focus on handcrafted furniture and wood projects, establishing a workshop in the East Valley community.
+JSC Woodworking is a custom woodworking business based in Queen Creek, Arizona, founded in 1996. The company is locally owned and operated, and began with a focus on handcrafted furniture and custom wood projects for residential and commercial clients in the East Valley.
 
-The shop produces custom furniture, cabinetry, dining tables, coffee tables, built-in shelving, and entertainment centers. Each piece is handcrafted using quality hardwoods, with capabilities spanning design, milling, joinery, and finishing tailored to client specifications. The workshop handles projects from single statement pieces to full built-in installations.
+The shop produces a range of custom wood pieces including dining tables, coffee tables, cabinetry, built-in shelving, entertainment centers, and one-of-a-kind furniture. Every item is handcrafted in the company’s Queen Creek workshop using carefully selected hardwoods and finishes, with attention to detail from design through final finish. The business does not engage in mass production; each project is built to the client’s exact measurements, wood species, and finish preferences.
 
-JSC Woodworking serves homeowners and businesses throughout the East Valley, including Gilbert, Mesa, and Chandler. Clients range from individuals seeking a custom dining table to commercial spaces requiring built-in cabinetry and shelving solutions.
+JSC Woodworking serves homeowners and businesses throughout the East Valley, including Gilbert, Mesa, Chandler, and surrounding areas. Its customer base spans residential clients seeking statement furniture and commercial clients needing custom built-ins or storage solutions.
 
-The company emphasizes craftsmanship over mass production, highlighting personalized service, attention to detail, and the ability to tailor dimensions, wood species, and finishes to exact preferences. This approach, combined with decades of experience, is presented as the foundation of their reputation for durable, one-of-a-kind woodwork.
+The company emphasizes craftsmanship and personalized service as its differentiators. It works closely with clients from concept to completion, offering design guidance that balances beauty and practicality, and aims to deliver durable, functional pieces that last for generations.
 
 ## Known for
 - Handcrafted in Queen Creek, AZ workshop
-- Over 30 years of woodworking experience
-- Locally owned and operated
-- Custom tailored dimensions, wood species, and finishes
-- Serves homeowners and businesses across the East Valley
+- Personalized attention and careful craftsmanship
+- Custom-built to exact measurements and design preferences
+- Quality hardwoods and finishes
+- Decades of woodworking experience
 
 ## Capabilities
-- Custom Woodworking
-- Custom Furniture
-- Custom Cabinetry
-- Dining Tables
-- Coffee Tables
-- Built-In Shelving
-- Custom Built In Entertainment Centers
-- Handmade Furniture
+- Custom woodworking
+- Custom furniture design and fabrication
+- Custom cabinetry and storage
+- Built-in shelving and entertainment centers
+- Handcrafted dining and coffee tables
+- Unique custom wood projects
+
+## Industries
+- Residential
+- Commercial
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1996
-- **Ownership:** Locally owned and operated
+- **Ownership:** Locally owned & operated
 - **Headquarters:** Queen Creek, Arizona
 
 <details><summary>Sources</summary>
 
-- Founded 1996 -> db
-- Headquarters Queen Creek, Arizona -> db
-- Locally owned and operated -> /about-us
-- Over 30 years of experience -> /
+- Founded in 1996 -> db
+- Headquarters in Queen Creek, AZ -> db
+- Locally owned & operated -> /about-us
 - Handcrafted in Queen Creek workshop -> /
-- Services: custom furniture, cabinetry, tables, built-ins, entertainment centers -> /services
-- Serves homeowners and businesses in East Valley (Gilbert, Mesa, Chandler) -> /, /about-us
-- Uses quality hardwoods -> /about-us
-- Emphasizes craftsmanship, personalized service, not mass production -> /about-us
-- Capabilities list -> db
+- Services: custom furniture, cabinetry, tables, built-ins -> /services
+- Serves homeowners and businesses in East Valley -> /
+- Commitment to craftsmanship and personalized service -> /
+- No mass production, each piece handcrafted -> /about-us
+- Quality hardwoods and finishes -> /about-us
+- Decades of woodworking experience -> /about-us
 </details>
 
 ---
@@ -55,26 +57,27 @@ The company emphasizes craftsmanship over mass production, highlighting personal
 **Old description:** JU-YOUNG은 1979년에 한국에서 설립되었습니다. 그 후 지속적인 성장과 확장을 거듭해 1991년 필리핀, 2005년 멕시코, 2016년 미국에 공장을 설립하게 되었습니다.
 
 ## About
-JU-YOUNG Manufacturing America operates its second U.S. plant in Montgomery, Alabama. The parent company, JU-YOUNG Mechatronics Co., Ltd., was founded in South Korea in 1979 and expanded globally with factories in the Philippines (1991), Mexico (2005), and the United States (2016). The Alabama facility represents the company’s most recent production base, serving North American customers from a strategic location in the automotive corridor.
+JU-YOUNG Manufacturing America operates Plant 2 in Montgomery, Alabama, as part of a global enterprise founded in 1979 in South Korea. The parent company, JU-YOUNG Co., Ltd., was established by CEO Lee Seung-hyuk and expanded to the Philippines in 1991, Mexico in 2005, and the United States in 2016. The Montgomery facility represents the company's second U.S. plant, serving North American automotive and consumer markets.
 
-The plant produces automotive components, including seat frame parts and metal stampings, alongside non-automotive lines such as digital door locks and the DOGSPLAY pet-product series. Manufacturing processes center on precision metal stamping and assembly, though the company does not disclose specific equipment lists, facility square footage, or headcount for the Montgomery site.
+The company produces automotive components such as seat frame parts, metal stampings, digital door locks, and a pet product line branded Dog's Play. Manufacturing processes include metal stamping, assembly, and plastic molding for door locks and pet accessories. JU-YOUNG operates a global network of four plants across Korea, the Philippines, Mexico, and the United States, though specific facility size and headcount for the Montgomery site are not publicly disclosed.
 
-Primary customers are automotive OEMs and tier suppliers requiring stamped and assembled metal components. The digital door lock and DOGSPLAY lines extend the company’s reach into consumer electronics and pet-care markets, respectively. All product categories are managed under the same quality system certified to IATF 16949, ISO 9001, and ISO 14001.
+Primary customers are automotive OEMs and Tier 1 suppliers, with the company holding IATF16949 certification for automotive quality management. The digital door lock and Dog's Play lines also serve consumer electronics and pet product markets, respectively. All products are manufactured under ISO 9001 and ISO 14001 quality and environmental systems.
 
-JU-YOUNG states its mission is to create a better future for customers, employees, and society through dedicated global operations. The company emphasizes its multi-country footprint and integrated quality management as key differentiators, allowing it to support diverse product programs from a single organizational structure.
+JU-YOUNG states its mission is to create a better tomorrow for customers, employees, and the world through continuous challenge and global expansion. The company emphasizes its role as a "best partner" delivering quality products across diverse industries.
 
 ## Known for
-- Global manufacturing footprint across Korea, Philippines, Mexico, and the United States
-- IATF 16949, ISO 9001, and ISO 14001 certified quality and environmental systems
-- Specialized in automotive metal stampings and seat frame components
-- Product portfolio includes digital door locks and pet-care products (DOGSPLAY)
+- Global manufacturing footprint with plants in Korea, Philippines, Mexico, and USA
+- IATF16949 certification for automotive quality management
+- ISO 9001 and ISO 14001 certified quality and environmental systems
+- Diversified product portfolio: automotive components, digital door locks, pet products
+- Metal stamping and assembly capabilities
 
 ## Capabilities
 - Metal stamping
 - Automotive component manufacturing
-- Seat frame assembly
+- Seat frame parts production
 - Digital door lock assembly
-- Pet product manufacturing (DOGSPLAY)
+- Pet product manufacturing (Dog's Play)
 
 ## Industries
 - Automotive
@@ -82,27 +85,27 @@ JU-YOUNG states its mission is to create a better future for customers, employee
 - Pet products
 
 ## Certifications
-- ISO 9001
-- ISO 14001
-- IATF 16949
+- ISO9001
+- ISO14001
+- IATF16949
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1979
-- **Ownership:** Korean-owned corporation (JU-YOUNG Mechatronics Co., Ltd.)
 - **Headquarters:** Montgomery, Alabama
 
 <details><summary>Sources</summary>
 
 - Founded 1979 in South Korea -> db
-- US plant established 2016 -> db description
-- Headquarters Montgomery, Alabama -> db hq_city, hq_state_label
-- Certifications ISO9001, ISO14001, IATF16949 -> db certifications
-- Products: automotive components, seat frame parts, metal stampings, digital door locks, DOGSPLAY -> homepage (/) and db products
-- Global network: Korea, Philippines, Mexico, USA -> homepage (/) 
-- CEO: Lee Seung-hyuk -> homepage (/) 
-- Business registration number: 126-81-16050 -> homepage (/) 
-- Company mission statement -> homepage (/) 
+- US plant established 2016 -> db
+- Headquarters in Montgomery, Alabama -> db
+- Certifications: ISO9001, ISO14001, IATF16949 -> db
+- Products: Automotive components, seat frame parts, metal stampings, digital door locks, Dog's Play -> /
+- Global plants: Korea, Philippines, Mexico, USA -> /
+- CEO: Lee Seung-hyuk -> /
+- Business registration number: 126-81-16050 -> /
+- Website languages: Korean, English -> /
+- Mission statement: create better tomorrow for customers, employees, world -> /
 </details>
 
 ---
@@ -112,26 +115,24 @@ JU-YOUNG states its mission is to create a better future for customers, employee
 **Old description:** At JV Furniture We Offer 1 year Hassle-Free Manufacturers Warranty.
 
 ## About
-JV Furniture LLC began operations in 2012 in Tyler, Texas, focusing on wholesale furniture distribution to retailers throughout the state.
+JV Furniture LLC is based in Tyler, Texas, and has been serving the region since its founding in 2012. The company operates as a wholesale furniture supplier. Ownership details are not publicly disclosed; the primary contact listed is Ben Cortinas.
 
-The company offers a range of residential furniture including sectionals, sofas, loveseats, and both traditional and contemporary styles. Its online catalog lists dozens of SKUs across categories such as Traditional (11 items), Sofa & Loveseat (39), Sectionals (48), and Contemporary (28). JV Furniture backs its products with a one-year hassle-free manufacturer’s warranty.
+The company specializes in wholesale distribution of residential furniture, with a catalog that includes sectionals, sofas, and loveseats in both traditional and contemporary styles. It offers a one-year hassle-free manufacturer's warranty on its products. Specifics about facility size, headcount, or annual volume are not disclosed.
 
-JV Furniture primarily serves furniture retailers in Texas, providing wholesale pricing and a selection designed for retail showrooms. The company’s marketing emphasizes its long-standing relationship with Texas-based retailers since 2012.
+JV Furniture targets furniture retailers across Texas. Its customer base consists of independent and chain retail stores that stock living-room seating. No specific retailer names are provided in the available information.
 
-The company highlights its one-year hassle-free manufacturer’s warranty as a key differentiator, aiming to reduce risk for retail partners. Its Texas-centric focus and product breadth are positioned to support local retailers with reliable inventory.
+The company emphasizes its warranty program as a way to ensure customer satisfaction for its retail partners. The warranty is presented as a key differentiator, though the founding mission beyond that is not described.
 
 ## Known for
-- One-year hassle-free manufacturer’s warranty
-- Serving Texas furniture retailers since 2012
-- Wholesale furniture distribution across Texas
-- Broad selection of sectionals, sofas, and loveseats
+- One-year hassle-free manufacturer's warranty
+- Focused on Texas furniture retailers since 2012
+- Wholesale furniture distribution in Texas
 
 ## Capabilities
 - Wholesale furniture distribution
-- Sectionals
-- Sofas and loveseats
-- Traditional furniture
-- Contemporary furniture
+- Sectional sofa supply
+- Sofa and loveseat supply
+- Manufacturer's warranty program
 
 ## Industries
 - Furniture retailers
@@ -143,13 +144,15 @@ The company highlights its one-year hassle-free manufacturer’s warranty as a k
 
 <details><summary>Sources</summary>
 
-- Founded 2012 -> db
-- Headquarters Tyler, Texas -> db
-- Wholesale furniture in Texas -> /
-- Serving Texas furniture retailers since 2012 -> /
-- One-year hassle-free manufacturer's warranty -> /
+- Founded 2012 -> db, /, /about-us
+- Headquarters Tyler, Texas -> db, /, /about-us
+- Wholesale furniture business -> /, /about-us
+- Serves Texas furniture retailers -> /, /about-us
+- Offers 1-year hassle-free manufacturer's warranty -> /, /about-us
+- Contact Ben Cortinas -> /, /about-us
 - Product categories: sectionals, sofas, loveseats, traditional, contemporary -> /
-- Contact Ben Cortinas -> /
+- No ownership tags stated -> /, /about-us
+- No certifications, equipment, materials, volume, lead time, tolerances stated -> /, /about-us
 </details>
 
 ---
@@ -159,34 +162,36 @@ The company highlights its one-year hassle-free manufacturer’s warranty as a k
 **Old description:** For the best experience on our site, be sure to turn on Javascript in your browser.
 
 ## About
-JAC Machines Inc. operates from Andover, Massachusetts, as the North American arm of a company founded in 1946. The French-origin business began as a manufacturer of professional bakery machinery, building a reputation for innovation and robust equipment.
+JAC Machines Inc. operates from Andover, Massachusetts, where the company has been based since its founding in 1946. The business began as a manufacturer of professional bakery machinery and has remained focused on that specialization for nearly eight decades.
 
-The company produces a full range of bakery production line equipment, including bread slicers, dough dividers (manual, hydraulic, and volumetric), bun dividers, dough moulders, and sourdough bread makers. It also supplies genuine spare parts and offers a dedicated maintenance service for its installed base. With authorized distributors in 90 countries, JAC serves commercial bakeries worldwide from its Andover location.
+The company designs and builds a range of bakery production line equipment, including bread slicers, dough dividers (manual, hydraulic, and volumetric), dough moulders, and dough makers. It also supplies genuine spare parts and provides maintenance services for its installed base. JAC supports its customers through a network of authorized distributors in 90 countries, and it sells directly to commercial buyers via its website.
 
-Customers are primarily commercial bakeries and food production facilities that need reliable slicing and dough-processing machinery. JAC sells directly to these end users, providing equipment such as horizontal loaf bread machines, manual bread slicers, and horizontal slicers designed for high-volume production environments.
+Its equipment serves commercial bakeries and food production facilities that require slicing and dough processing machinery. Typical installations include horizontal loaf bread machines, bun divider machines, and sourdough bread makers. The company emphasizes that it services the machines it sells, offering direct manufacturer support.
 
-JAC differentiates itself through patented innovations developed over 75 years, a five-year parts warranty (excluding wear items), and a direct-from-manufacturer sales model that includes hands-on technical support for every machine it ships.
+JAC highlights its history of patented innovations in bakery equipment, a five-year parts warranty (excluding wear items), and the advantage of buying genuine parts directly from the manufacturer. The firm positions itself as a single source for both equipment and aftermarket support, leveraging more than 75 years of industry experience.
 
 ## Known for
-- Authorized distributors in 90 countries
-- Inventor of many patented bakery equipment innovations
-- 75 years of experience in professional bakery machinery
-- Direct manufacturer sales with dedicated technical support
-- Five-year parts warranty on registered machines (excluding wear items)
+- Direct manufacturer sales to commercial customers
+- Genuine spare parts with five-year warranty (excluding wear items)
+- Patented innovations in slicing and dough processing technology
+- Global distributor network in 90 countries
+- Integrated equipment and aftermarket support from the same source
 
 ## Capabilities
-- Spare parts supply
-- Equipment maintenance
+- Bakery equipment manufacturing
 - Bread slicing
 - Dough dividing (manual, hydraulic, volumetric)
 - Dough moulding
-- Bread making
-- Sourdough bread production
+- Dough making
+- Spare parts supply
+- Equipment maintenance service
+- Warranty administration (5-year parts warranty)
+- Direct commercial sales
+- International distribution support
 
 ## Industries
 - Commercial bakery
-- Food processing
-- Bakery production line
+- Bakery production line equipment
 
 ## Equipment
 - Bread slicers
@@ -210,18 +215,16 @@ JAC differentiates itself through patented innovations developed over 75 years, 
 
 <details><summary>Sources</summary>
 
-- Founded 1946 -> db
-- Headquarters Andover, Massachusetts -> db
-- Manufactures professional bakery machinery since 1946 -> page "/"
-- Specializes in slicing machines and bread making machines -> page "/"
-- Authorized distributors in 90 countries -> page "/"
-- 75 years of experience -> page "/"
-- Inventor of many patented innovations -> page "/"
-- Spare parts service and maintenance service -> page "/"
-- Sells directly to commercial customers -> page "/"
-- 5-year parts warranty (excluding wear items) -> page "/"
-- Product lines: bread slicers, dough dividers, bun dividers, dough moulders, volumetric dividers, dough makers, sourdough bread makers -> page "/"
-- Equipment names: horizontal loaf bread machine, manual dough divider, hydraulic dough divider, bun divider machine, bread maker sourdough, dough moulder machine, volumetric divider, dough maker machine, bread slicing machine, bread dough slicer, manual bread slicer, horizontal slicer -> page "/"
+- Founded in 1946 -> db
+- Headquarters in Andover, Massachusetts -> db
+- Manufactures professional bakery machinery and equipment -> /
+- Specializes in slicing machines and bread making machines -> /
+- Authorized distributors in 90 countries -> /
+- Offers spare parts service and maintenance -> /
+- Five-year parts warranty (excluding wear items) -> /
+- Sells directly to commercial customers -> /
+- Patented innovations in bakery equipment -> /
+- Equipment list: bread slicers, dough dividers, moulders, makers -> /
 </details>
 
 ---
@@ -231,56 +234,66 @@ JAC differentiates itself through patented innovations developed over 75 years, 
 **Old description:** Powering your home with solar means taking a huge step toward sustainable energy. You will be producing electricity right on your very own roof or yard. That's why at Jackson Solar, we are committed to educating you about all of the costs and the benefits, and providing you with
 
 ## About
-Jackson Solar LLC is based in Jackson, Missouri. The company is locally owned and operated by Jacob Long, a certified electrician and Southeast Missouri State University graduate with a Bachelor's of Science in Sustainable Energy Systems, who also holds an Associate of Applied Science in Electrochemistry and NABCEP certification. Business partner Dylan Kaminskey, also holding an A.A.S. in Electrochemistry, co-leads the firm. The company was founded on the principle of providing environmentally ethical solar energy systems at a fair, honest price.
+Jackson Solar LLC operates from Jackson, Missouri. The company is led by Jacob Long, a certified electrician and NABCEP‑certified professional with a bachelor’s degree in sustainable energy systems and an associate degree in electrochemistry, together with business partner Dylan Kaminskey, who also holds an associate degree in electrochemistry. The firm is locally owned and operated, established to bring transparent, ethical solar installations to Southeast Missouri.
 
-Jackson Solar specializes in residential and commercial solar panel installation, offering services that include free consultation and system design, battery backup installation, system monitoring and service subscriptions, and repair services. The company uses components from brands such as SolarEdge, Enphase, Generac, REC, and Q-Cell, many of which carry 25-year warranties. To date, the firm has completed hundreds of installation projects across Southeast Missouri.
+The firm designs and installs residential and commercial photovoltaic systems, integrating equipment from brands such as SolarEdge, Enphase, Generac, REC, and Q‑Cell. Services include free consultation and system design, battery backup installation, system monitoring via Sense Solar, ongoing maintenance and repair, and $0‑down financing options. To date, the team has completed hundreds of installations across the region.
 
-The company serves homeowners and businesses in the Southeast Missouri region, providing turnkey solar solutions that aim to offset utility costs. Its customer base includes residential property owners seeking energy independence and commercial clients looking to reduce operational expenses.
+Jackson Solar serves homeowners and businesses throughout Southeast Missouri, focusing on customers seeking grid‑tied solar with battery storage. Typical projects range from 8 kW to 10 kW systems, with pricing structured to achieve a payback period of 7.5 years or less based on local utility rates and projected inflation.
 
-Jackson Solar differentiates itself through transparent pricing that targets a payoff period of 7.5 years or less, factoring in projected utility-rate inflation. The founders' technical credentials, including NABCEP certification and formal education in sustainable energy, underpin a commitment to education and ethical sales practices in an industry often criticized for aggressive door-to-door tactics.
+The company differentiates itself through a commitment to ethical pricing — publishing target installed costs for standard system sizes — and by factoring projected utility‑rate increases into financial models. All installations are performed by a NABCEP‑certified electrician, and most components carry 25‑year warranties at no extra cost. The founders emphasize education and long‑term community presence over short‑term sales tactics.
 
 ## Known for
-- Targets a 7.5-year payoff period on installed systems
-- Most components carry a 25-year warranty at no extra cost
-- Owner holds NABCEP certification and a degree in Sustainable Energy Systems
-- Transparent pricing includes projected utility-rate inflation
-- Locally owned and operated with a focus on community education
+- 7.5‑year payback target on standard system sizes
+- 25‑year component warranties included at no extra cost
+- NABCEP‑certified electrician leads every installation
+- Transparent pricing with projected utility‑rate inflation
+- Locally owned and operated in Southeast Missouri
 
 ## Capabilities
-- Solar panel installation
+- Solar photovoltaic system design and installation
 - Battery backup system installation
-- System monitoring and service
-- Free consultation and system design
+- Solar system monitoring (Sense Solar)
 - Solar system repair and maintenance
-- $0 down financing options
+- Free site consultation and proposal design
+- $0‑down financing facilitation
+- Energy consumption and production monitoring
 
 ## Industries
-- Residential
-- Commercial
+- Residential solar
+- Commercial solar
 - Renewable energy
 
+## Equipment
+- SolarEdge inverters
+- Enphase microinverters
+- Generac battery storage
+- REC solar panels
+- Q‑Cell solar panels
+- Sense Solar monitoring hardware
+
 ## Certifications
-- NABCEP
+- NABCEP Certification
+- Missouri Certified Electrician
 
 ## Company details
 - **Company Type:** Installer / service company
-- **Ownership:** Locally owned and operated by Jacob Long and Dylan Kaminskey
+- **Ownership:** Locally owned and operated
 - **Headquarters:** Jackson, Missouri
 
 <details><summary>Sources</summary>
 
-- Location: Jackson, Missouri -> /
-- Owners: Jacob Long and Dylan Kaminskey -> /
-- Jacob Long credentials: Certified Electrician, SEMO graduate, NABCEP certified -> /
-- Dylan Kaminskey credentials: A.A.S. in Electrochemistry -> /
-- Hundreds of solar installation projects completed -> /
-- Services: solar installation, battery backup, monitoring, repair, financing -> /
-- Brands used: SolarEdge, Enphase, Generac, REC, Q-Cell -> /
-- 25-year warranty on most components -> /
-- Target payoff period: 7.5 years -> /
-- Transparent pricing with utility-rate inflation factoring -> /
-- Focus on residential and commercial customers in Southeast Missouri -> /
-- Locally owned and operated -> /
+- Location: Jackson, Missouri -> db
+- Founders: Jacob Long and Dylan Kaminskey -> /
+- Ownership: locally owned and operated -> /
+- Certifications: NABCEP, Certified Electrician -> /
+- Brands used: SolarEdge, Enphase, Generac, REC, Q‑Cell -> /
+- Services: installation, battery backup, monitoring, repair, financing -> /
+- Projects completed: hundreds -> /
+- Payback target: 7.5 years -> /
+- Warranty: 25‑year component warranties -> /
+- Pricing examples: 8 kW $16k, 9 kW $18k, 10 kW $20k -> /
+- Target market: residential and commercial in Southeast Missouri -> /
+- Education focus: transparency, ethical pricing -> /
 </details>
 
 ---
@@ -294,36 +307,37 @@ _skipped: not enough facts_
 **Old description:** Solid hardwood furniture, made by hand in Arkansas since 2011
 
 ## About
-James & James Furniture was founded in 2011 in a small garage in Springdale, Arkansas, as a weekend project that quickly grew into a full-time operation. The company is now headquartered in Heber Springs, Arkansas, where it continues to produce solid hardwood furniture.
+James & James Furniture was founded in 2011 in a small garage in Springdale, Arkansas, and now operates from Heber Springs in the same state. The company began as a weekend project building a single handcrafted table, which grew into a full-time commitment to solid hardwood furniture. No founders are named in the source material, and ownership structure is not disclosed.
 
-The company designs and builds custom made-to-order furniture — dining tables, chairs, bedroom sets, living room and office pieces — using 100% solid American hardwoods with no veneer or particle board. Production takes place in its Arkansas woodshop, supplemented by long-standing partnerships with Amish and Mennonite woodworkers in the United States who craft chairs and select bed frames using traditional joinery and hand-applied finishes.
+The company designs and builds custom made-to-order furniture for dining rooms, bedrooms, living rooms, and offices. Every piece is crafted from solid American hardwoods — no veneer or particle board — in its Arkansas woodshop. Production combines in-house joinery and hand-applied finishes with long-standing partnerships with Amish and Mennonite woodworkers who produce chairs and select bed frames to the same standards. The operation is made-to-order, allowing customers to specify dimensions, wood species, finish, and configuration.
 
-James & James serves both residential customers and the design trade through a dedicated trade program that offers interior designers and architects personalized support, complimentary material samples, exclusive pricing, and made-to-order flexibility on dimensions, wood species, finishes, and configurations.
+James & James serves residential buyers directly and supports the interior-design trade through a dedicated program that offers complimentary samples, exclusive pricing, and a specialist for product recommendations, lead times, and quotes. Its furniture is specified by designers and architects for private homes; no commercial or hospitality contracts are cited in the available information.
 
-The business was started on the belief that furniture should outlive trends and become heirlooms, emphasizing heritage craftsmanship, honest materials, and personal service. Its differentiators include made-to-order customization, domestic sourcing, and a commitment to slowing lead times without compromising the joinery and hand-finishing that define each piece.
+The founders' stated motive was a belief that furniture should outlive trends, moves, and even generations — pieces with “soul” built on heritage craftsmanship, honest materials, and personal service. The company emphasizes integrity in every joint and finish, aiming to create heirlooms rather than disposable goods, and focuses on deepening its craft rather than chasing volume.
 
 ## Known for
 - Made-to-order customization across size, wood species, finish, and configuration
-- 100% solid American hardwood — no veneer, no particle board
 - Partnerships with Amish and Mennonite woodworkers for chairs and bed frames
-- Complimentary wood finish and fabric samples for trade customers
-- Dedicated trade specialist support with exclusive pricing
+- Complimentary wood and fabric sample boxes for trade customers
+- Exclusive trade pricing on the full solid-hardwood collection
+- All pieces handcrafted in Arkansas from solid American hardwoods with no engineered materials
 
 ## Capabilities
 - Custom furniture manufacturing
 - Made-to-order production
-- Solid hardwood joinery
+- Handcrafted joinery
 - Hand-applied finishing
-- Design consultation
-- Trade program management
-- Material sampling
 - Wood species selection
-- Custom dimensioning
+- Finish customization
+- Dimensional customization
+- Trade program management
+- Sample provision
+- Design consultation
 
 ## Industries
 - Residential furniture
 - Interior design trade
-- Architecture and design professionals
+- Architectural specification
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -333,15 +347,14 @@ The business was started on the belief that furniture should outlive trends and 
 <details><summary>Sources</summary>
 
 - Founded 2011 in Springdale, Arkansas garage -> /about
-- Headquartered in Heber Springs, Arkansas -> db
+- Headquarters in Heber Springs, Arkansas -> db
 - Makes custom made-to-order solid hardwood furniture -> /about, /
-- No veneer or particle board -> /, /about
-- Partners with Amish and Mennonite woodworkers for chairs and select bed frames -> /about
-- Offers trade program with dedicated specialist, samples, exclusive pricing -> /
-- 15 years of custom hardwood furniture (as of 2026) -> /
-- Belief furniture should outlive trends, become heirlooms -> /about
-- Made-to-order flexibility on dimensions, wood species, finishes, configurations -> /
-- Domestic sourcing of hardwoods -> /about
+- Partners with Amish and Mennonite woodworkers for chairs and bed frames -> /about
+- Offers trade program with dedicated specialist, complimentary samples, exclusive pricing -> /
+- Uses solid American hardwoods, no veneer or particle board -> /, /about
+- Handcrafted in Arkansas woodshop -> /about
+- States 15 years of custom hardwood furniture -> /
+- Belief: furniture should outlive trends, heirloom quality -> /, /about
 </details>
 
 ---
@@ -351,39 +364,42 @@ The business was started on the belief that furniture should outlive trends and 
 **Old description:** APPLIANCE WIRING MATERIAL UL AWM Styles (Appliance Wiring Material) Wi..
 
 ## About
-James Monroe Wire & Cable Corporation operates from Lancaster, Massachusetts. The company's founding year and ownership structure are not publicly disclosed, nor are its founders named in available sources.
+James Monroe Wire and Cable Corporation is based in Lancaster, Massachusetts. The company focuses on the design and manufacture of wire and cable products for a variety of commercial, industrial, and specialty markets.
 
-The company manufactures a range of wire and cable products, including UL AWM style appliance wiring material, elevator cables such as stationary communications, compensating, hoistway, and traveling cables, industrial cables for crane and hoist applications including pendant and festoon types, commercial low-energy circuit and traffic signal cables, and custom specialty cables. Its capabilities cover manufacturing, reel and packaging services, and cable material selection. Copper pricing data is published on its website, indicating active material procurement.
+Its product lines span UL AWM style appliance wiring material, commercial wire and cable, custom and specialty wire and cable, elevator cables (including stationary communications, compensating, hoistway, and traveling cables with jute core), and industrial crane and hoist cables (such as pendant and flat festoon cables). The company also provides reel and packaging services and maintains a library of cable material types for different applications.
 
-James Monroe serves industries such as appliance manufacturing, elevator systems, industrial machinery, commercial construction, and traffic signal infrastructure. Specific product lines include low-energy circuit cables for UV-resistant and direct-burial applications, IMSA-compliant traffic signal cables, and steel-core pendant cables for crane and hoist duty.
+Customers include original equipment manufacturers and contractors in the appliance, commercial construction, elevator, industrial machinery, and traffic signal industries. The traffic signal offerings meet IMSA 20-1 and 20-2 standards, while low-energy circuit cables are available in UV-resistant and direct-burial configurations.
+
+The corporation highlights its manufacturing capacity and custom cable capabilities, though it does not publicly disclose its founding year, ownership details, employee count, or facility dimensions.
 
 ## Known for
-- UL AWM Styles appliance wiring material
-- RoHS compliance
-- Custom and specialty wire and cable products
+- UL AWM style appliance wiring material production
 - Reel and packaging capabilities
+- Custom and specialty wire and cable manufacturing
+- Elevator cable range including traveling cables with jute core
+- Traffic signal cables compliant with IMSA 20-1/20-2
 
 ## Capabilities
-- Wire and cable manufacturing
-- UL AWM style production
+- UL AWM style wire manufacturing
 - Appliance wiring material production
-- Elevator cable manufacturing
-- Industrial cable manufacturing
-- Commercial cable manufacturing
-- Custom cable manufacturing
 - Reel and packaging services
 - Cable material selection
+- Custom wire and cable manufacturing
+- Elevator cable manufacturing (stationary communications, compensating, hoistway, traveling)
+- Industrial cable manufacturing (crane & hoist pendant, festoon)
+- Traffic signal cable manufacturing (IMSA 20-1, 20-2, tube loop detector, lead-in)
+- Low energy circuit cable manufacturing (UV resistant, direct burial)
 
 ## Industries
 - Appliance
+- Commercial
 - Elevator
-- Industrial machinery
-- Commercial construction
-- Traffic signal infrastructure
-- Crane and hoist
+- Industrial
+- Traffic Signal
+- Low Energy Circuit
 
 ## Certifications
-- RoHS
+- ROHS
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -391,15 +407,19 @@ James Monroe serves industries such as appliance manufacturing, elevator systems
 
 <details><summary>Sources</summary>
 
-- Company name and corporation status -> /
+- Company name: James Monroe Wire & Cable -> db
 - Headquarters: Lancaster, Massachusetts -> db
-- Certification: RoHS -> db
-- Product categories: Commercial, Custom, Elevator, Industrial -> /
-- Specific products: UL AWM Styles, Appliance Wiring Material, Elevator cables (stationary communications, compensating, hoistway, traveling), Industrial cables (crane & hoist pendant, festoon), Commercial cables (low energy circuit, traffic signal) -> /capabilities
-- Capabilities: Manufacturing Capabilities & Materials, Reel and Packaging Capabilities, Cable Material Types, Manufacturing Capacity and Capabilities -> /capabilities
-- Industries served: Low Energy Circuit Cable 150V – UV Res, Low Energy Circuit Wire 150V – Direct Burial, Traffic Signal Cable (IMSA), Crane & Hoist -> /capabilities
-- Materials: Copper, PVC, Jute, Steel -> /capabilities
-- Website: https://www.jamesmonroewire.com/ -> db
+- Certification: ROHS -> db
+- Product categories: Commercial, Custom, Elevator, Industrial wire and cable -> /
+- UL AWM Styles appliance wiring material -> /capabilities
+- Reel and packaging capabilities -> /capabilities
+- Cable material types library -> /capabilities
+- Manufacturing capacity and capabilities -> /capabilities
+- Elevator cable products: stationary communications, compensating, hoistway, traveling with jute core -> /capabilities
+- Industrial crane & hoist cables: pendant, festoon -> /capabilities
+- Traffic signal cables: IMSA 20-1, 20-2, tube loop detector, lead-in -> /capabilities
+- Low energy circuit cable 150V UV resistant and direct burial -> /capabilities
+- Copper price updates from Camden, COMEX, LME -> /
 </details>
 
 ---
@@ -409,33 +429,27 @@ James Monroe serves industries such as appliance manufacturing, elevator systems
 **Old description:** You can rely on us as we have been providing high-quality radios to your community since 1983.
 
 ## About
-Jamestown Communications Inc has operated from Jamestown, North Dakota since 1983. The locally owned and operated business was founded to serve the communication needs of the surrounding area.
+Jamestown Communications Inc was founded in 1983 in Jamestown, North Dakota. The company has served the Jamestown area for over three decades as a locally owned and operated business, beginning with the provision of high-quality radios to the community.
 
-The company supplies and installs communication equipment including two-way radios, telephone systems from brands such as Vertical Standard, security cameras, dispatch consoles, cell boosters, and siren systems. It sells hardware and provides installation services for both telephone and security systems. No facility size or headcount figures are published.
+The firm supplies and installs communication equipment including two-way radios, telephone systems, security cameras, dispatch consoles, cell boosters, and siren systems. It sells telephone systems from brands such as Vertical Standard and provides professional installation for both phone and security systems. The company operates a storefront at 2703 Highway 281 South and offers free estimates and consultations for telephone system projects.
 
-Customers include commercial and industrial work sites that rely on two-way radios for crew coordination, as well as businesses and homeowners seeking security camera installations. The firm also provides siren systems for broader community alerting.
+Customers include local businesses, work sites requiring crew communication, and residential clients seeking security camera installations. The company focuses on the Jamestown, ND community and surrounding area.
 
-The company emphasizes its local roots and a commitment to completing jobs correctly the first time. It offers free estimates and consultations on telephone systems and highlights its portfolio of top communication brands.
+Jamestown Communications emphasizes completing jobs correctly the first time, a principle highlighted in its messaging about reliable service and long-standing community presence.
 
 ## Known for
 - Locally owned and operated
-- Job done right the first time
-- Free estimates and consultations on telephone systems
-- Carries top communication brands including Vertical Standard
-- Over 30 years serving the Jamestown area
+- Free estimates and consultations for telephone systems
+- Professional installation of security and siren systems
+- Carries top communication brands like Vertical Standard
 
 ## Capabilities
 - Two-way radio sales
 - Telephone system sales and installation
-- Security camera/system installation
+- Security camera installation
 - Dispatch console sales
-- Cell booster sales
-- Siren system sales
-
-## Industries
-- Commercial
-- Industrial
-- Residential
+- Cell booster installation
+- Siren system installation
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -446,15 +460,14 @@ The company emphasizes its local roots and a commitment to completing jobs corre
 <details><summary>Sources</summary>
 
 - Founded 1983 -> db
-- Headquarters Jamestown, ND -> db and / page
-- Locally owned and operated -> / page
-- Services: two-way radios, telephone systems, security cameras, dispatch consoles, cell boosters, siren systems -> / page
-- Brand: Vertical Standard -> / page
-- Sells and installs telephone systems -> / page
-- Installs security systems for home or business -> / page
-- Free estimate and consultation for telephone systems -> / page
-- Serving Jamestown area for over 30 years -> / page
-- Pride on job done right the first time -> / page
+- Headquarters Jamestown, ND -> db
+- Locally owned and operated -> /
+- Provides two-way radios, telephone systems, security cameras, dispatch consoles, cell boosters, siren systems -> /
+- Sells Vertical Standard phones -> /
+- Offers free estimates and consultations for telephone systems -> /
+- Professional installation of security systems -> /
+- Serves Jamestown area for over 30 years -> /
+- Emphasis on doing job right the first time -> /
 </details>
 
 ---
@@ -464,66 +477,74 @@ The company emphasizes its local roots and a commitment to completing jobs corre
 **Old description:** Jay Apparel Group specializes in the sourcing, consulting, and development of the highest quality fabrics and apparel for the world’s most renowned brands.
 
 ## About
-Jay Apparel Group was founded in 2009 in New York City by Jay Kapadia, who previously served as Vice President of Wovens, Fabric and Apparel at Oxford Apparel Group. At Oxford, Kapadia pioneered product development and private-label programs for retailers including Macy’s, Tommy Hilfiger, Sears, Lands’ End, and Target. He established Jay Apparel Group to bring that expertise to a broader range of global brands.
+Jay Apparel Group was founded in 2009 by Jay R. Kapadia in New York City. Kapadia previously served as Vice President of Wovens, Fabric and Apparel at Oxford Apparel Group, where he pioneered new product development and private-label programs for clients such as Macy’s, Tommy Hilfiger, Sears, Lands’ End, and Target. He established the firm to bring that expertise to a broader range of global brands.
 
-The firm operates as an apparel and fabric sourcing and marketing company, providing end-to-end development services from fiber research to finished garments. Its capabilities include fabric research and development, custom fabric creation using composite fibers such as cotton, bamboo, hemp, and specialty synthetics, performance woven shirt engineering, and proprietary wrinkle-free and non-iron technologies. Product development includes CAD design and flexible processes that adapt to client needs. Jay Apparel Group coordinates production through a network of manufacturing facilities in China, Bangladesh, other Asian locations, and Central America, though it does not disclose its own facility size or headcount.
+The company provides end-to-end fabric and apparel services, including sourcing, consulting, research, and development. Its capabilities span fabric R&D, custom composite fiber creation, performance woven shirts, stretch materials, chemical finishes, and proprietary wrinkle-free and non-iron technologies. Product development includes CAD design, while manufacturing is carried out through partner facilities in China, Bangladesh, other Asian locations, and Central America.
 
-The company serves owned brands and private-label apparel companies across the Southeastern and Northeastern United States, as well as national brands and New York City startups. Its client base includes major retailers and fashion brands seeking custom fabrics and garment programs, though specific current clients are not named beyond the founder’s prior engagements.
+Jay Apparel serves owned brands, private-label apparel companies, national retailers, and startups across the apparel, fabric, and garment industries. Its client base includes buyers, merchandise managers, and senior executives seeking to take products from concept to production. The founder’s prior work with major retailers such as Macy’s and Target illustrates the caliber of brands the firm engages.
 
-Jay Apparel Group differentiates itself through its ability to pioneer new fibers and chemical finishes, create multi-fiber composite materials that few competitors offer, and provide a choice of domestic, Canadian, or Asian manufacturing. The founder states the goal is to deliver unsurpassed quality, style, convenience, and efficiency by constantly innovating so that brands can offer apparel suited to every moment of their customers’ lives.
+The firm differentiates itself by combining revolutionary apparel technology with an uncompromising demand for quality and detail. Kapadia states the goal is to deliver unsurpassed quality, style, convenience, and efficiency through constant innovation. Jay Apparel also emphasizes its ability to create multi-fiber composite fabrics—a capability it says few competitors offer—and its expertise in woven shirts and cotton blends.
 
 ## Known for
-- Pioneering of new fibers, including stretch materials and chemical finishes with unique capabilities
 - Proprietary wrinkle-free and non-iron technologies
-- Creation of multi-fiber composite materials (cotton, bamboo, hemp, specialty synthetics)
-- Choice of U.S., Canadian, and Asian manufacturing facilities
-- Full-service apparel development, design, consulting, and marketing from NYC
+- Creation of multi-fiber composite fabrics
+- Manufacturing network in China, Bangladesh, Asia, and Central America
+- Fabric research, development, and consulting services
+- Sourcing and pioneering of new fibers with unique stretch and chemical finishes
 
 ## Capabilities
-- Fabric sourcing and pioneering of new fibers (stretch materials, chemical finishes)
+- Fabric sourcing
+- Fabric consulting
 - Fabric research and development
-- Fabric consulting services
-- Apparel product development (CAD development)
-- Custom fabric development (composite fibers, natural and synthetic)
+- Custom fabric development
+- Composite fiber creation
+- Apparel development (men, women, children)
 - Performance woven shirt development
-- Wrinkle-free and non-iron technology application
-- Quality standards implementation and vendor compliance
-- Garment style marketability analysis
-- Sustainable garment line consulting
+- Stretch material sourcing
+- Chemical finish development
+- Wrinkle-free technology application
+- Non-iron technology application
+- Product development (CAD)
+- Quality assurance consulting
+- Vendor compliance consulting
+- Sustainability consulting
+- Trend analysis and market positioning
+- Sales strategy development
+- Garment quality assurance
+- Fabric testing review
 - Textile palette development
-- Mill co-creation of fiber/fabric/finish technologies
-- Fabric testing and risk evaluation
-- Private label program development
-- Apparel development for men, women, and children
+- Mill collaboration for fiber/fabric/finish technologies
+- Cotton blend expertise
+- Specialty synthetic fabric development
+- Woven jacquard textile development
 
 ## Industries
 - Apparel
-- Garment manufacturing
 - Fabric
+- Garment
 - Textile
-- Private label apparel
-- Fashion brands
-- Retail
+- Fashion
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Founded:** 2009
 - **Headquarters:** New York, New York
 
 <details><summary>Sources</summary>
 
-- Founded in 2009 in New York City by Jay Kapadia -> /about
-- Jay Kapadia formerly VP of Wovens, Fabric and Apparel at Oxford Apparel Group -> /about
-- Oxford clients included Macy’s, Tommy Hilfiger, Sears, Lands’ End, Target -> /about
-- Apparel and fabric sourcing and marketing firm serving owned brands and private label companies in Southeastern & Northeastern US -> /
-- Manufacturing capabilities in China, Bangladesh, other Asian locations, and Central America -> /
-- Services include fabric research, development, consulting, product development (CAD), custom fabric development, composite fibers, performance woven shirts, wrinkle-free and non-iron technologies -> /, /services
-- Proprietary wrinkle-free and non-iron technologies -> /
-- Choice of U.S., CA and Asia factories -> /
-- Full-service apparel development, design, consulting, marketing company in NYC -> /
-- Flexible product development process -> /
-- Materials: cotton, bamboo, hemp, specialty synthetic fabrics -> /services
-- Goal: bring unsurpassed quality, style, convenience, efficiency through constant innovation -> /about
+- Founded 2009 -> /about
+- Founder Jay R. Kapadia -> /about
+- Former VP at Oxford Apparel Group -> /about
+- Clients included Macy's, Tommy Hilfiger, Sears, Lands' End, Target -> /about
+- Headquarters New York City -> / (home page) and /about
+- Services: fabric sourcing, consulting, development -> / and /services
+- Manufacturing capabilities in China, Bangladesh, Asia, Central America -> /
+- Fabric R&D, composite fibers, wrinkle-free, non-iron technologies -> / and /services
+- Materials: cotton, bamboo, hemp, synthetic, stretch, chemical finishes -> /services
+- Industries: apparel, fabric, garment -> / and /services
+- Customer types: owned brands, private label, national brands, startups -> / and /services
+- Founder's goal quote -> /about
+- Differentiator: composite fibers few competitors do -> /services
 </details>
 
 ---

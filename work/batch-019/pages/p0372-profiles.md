@@ -3,44 +3,44 @@
 **Old description:** Mountain Biotechnology and Medical Devices was founded in December of 2008 by Dr. Robert L. Garnick. Dr. Garnick has over
 
 ## About
-Lone Mountain Biotechnology and Medical Devices, Inc. was founded in December 2008 by Dr. Robert L. Garnick in Las Vegas, Nevada. Dr. Garnick brought over 25 years of experience Genentech's regulatory and quality organizations, where he was responsible for the approval of more than 17 drugs. The company began as a consulting practice leveraging that expertise to assist pharmaceutical and biotechnology clients with drug and device development.
+Lone Mountain Biotechnology and Medical Devices, Inc. was founded in December 2008 by Dr. Robert L. Garnick in Las Vegas, Nevada. Dr. Garnick, who spent 25 years Genentech's regulatory and quality organizations and contributed to the approval of more than 17 drugs, established the firm to provide specialized consulting and development services to the pharmaceutical and medical device sectors.
 
-The firm provides consulting services across clinical and CMC regulatory affairs, quality control and assurance, and cGXP compliance (including GCP, GLP, and GMP). It also operates a prototype device development capability using AutoCAD for design and Haas CNC equipment for machining. Services span drug development portfolio evaluations, IND/NDA/BLA preparation, manufacturing site evaluations, comparability studies, FDA advisory committee support, and due diligence reviews for investors. The company additionally offers clinical trial design, pre-clinical studies, process sciences, analytical methods development, and biosimilar development support.
+The company offers a range of consulting services spanning clinical and CMC regulatory affairs, quality control and assurance, cGXP compliance (including GCP, GLP, and GMP), promotional material review, manufacturing site evaluations, comparability studies, FDA advisory committee preparation, and validation strategy. In addition, Lone Mountain provides experimental and prototype-level device development using AutoCAD and CNC prototyping on Haas equipment, as well as prototype-to-manufacturing strategic planning.
 
-Lone Mountain serves the pharmaceutical, biotechnology, and medical device industries. Its client base ranges from large pharmaceutical companies to early-stage start-ups, as well as investors seeking due diligence on manufacturing capabilities and CMC sections of regulatory filings. The company has facilitated numerous FDA Type C meetings and has worked with three clients on biosimilar development programs, including cell line and process development.
+Clients include large pharmaceutical companies, small start-ups, and investors seeking due diligence reviews. Over a recent year, the firm worked with more than 15 clients and facilitated numerous FDA Type C meetings. It has also supported three biosimilar development programs, assisting with cell line and process development.
 
-The company differentiates itself through a network of senior consultants—former Genentech colleagues—who collectively have brought over 17 drugs to market. This "Dream Team" provides rapid resolution of complex drug development issues, FDA meeting facilitation, and biosimilar pathway strategy. The prototype machining capability allows clients to move from design to G-code and physical prototypes in-house.
+Lone Mountain differentiates itself through its network of senior consultants—many of whom collaborated with Dr. Garnick at Genentech—providing clients with a "Dream Team" that has collectively brought over 17 drugs to market. The firm emphasizes rapid, collaborative resolution of complex drug development issues and regulatory challenges.
 
 ## Known for
-- Network of senior consultants with 25 years at Genentech and 17 drug approvals
-- Facilitation of FDA Type C meetings for early-stage drug development
-- Biosimilar development experience including cell line and process development
-- In-house prototype device development with AutoCAD and Haas CNC equipment
-- Due diligence reviews for investors on manufacturing capabilities and CMC sections
+- Access to a "Dream Team" of consultants with a collective track record of 17+ drug approvals over 25 years
+- Facilitation of FDA Type C meetings for early-stage drug development programs
+- Proven experience in biosimilar cell line and process development
+- Prototype device development with AutoCAD and Haas CNC equipment
+- Due diligence reviews of manufacturing capabilities for investors
 
 ## Capabilities
-- Drug development project portfolio evaluation
-- Regulatory affairs: IND, NDA, BLA, CTX preparation and review
+- Regulatory affairs consulting (IND, NDA, BLA, CTX preparation and review)
+- Quality control and assurance for drugs, biologics, and devices
+- cGXP compliance (GCP, GLP, GMP)
 - Promotional material review
-- Manufacturing site evaluation for regulatory applications
+- Manufacturing site evaluations for IND/NDA/BLA applications
 - Comparability study design and execution
-- FDA advisory committee planning and rehearsal
+- FDA advisory committee planning and rehearsals
 - Validation strategy for analytical methods and manufacturing processes
-- cGXP, cGMP, cGLP inspectional support
+- cGXP/cGMP/cGLP inspectional support
 - Strategy development for new manufacturing sites
-- FDA/EMA review interaction management
+- FDA/EMEA review interaction management
 - Medical device development strategy and execution
-- AutoCAD device design to G-code
+- AutoCAD device development to G-code
 - Prototype device design and development
-- Prototype to manufacturing strategic planning
+- Prototype-to-manufacturing strategic planning
 - Due diligence reviews of manufacturing capabilities and capacities
 - Due diligence reviews of CMC sections of CTDs
-- Warning letter and consent decree resolution
+- Warning letter and consent decree evaluation and resolution
 - Clinical trial design and implementation
 - Pre-clinical studies
-- Process sciences
-- Analytical methods development
-- GXP compliance
+- Process sciences and analytical methods development
+- GXP compliance consulting
 - Stability studies
 - Virology and microbiology consulting
 
@@ -50,31 +50,30 @@ The company differentiates itself through a network of senior consultants—form
 - Medical Device
 
 ## Equipment
-- Haas CNC machines
+- Haas CNC equipment
 - AutoCAD
 
 ## Certifications
 - GMP
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Other
 - **Founded:** 2008
 - **Headquarters:** Las Vegas, Nevada
 
 <details><summary>Sources</summary>
 
 - Founded December 2008 by Dr. Robert L. Garnick -> /
-- Headquarters Las Vegas, Nevada -> /
-- Provides consulting services in regulatory affairs, quality, cGXP compliance -> /
-- Prototype device development with AutoCAD and Haas CNC equipment -> /
-- Services include drug development portfolio evaluation, IND/NDA/BLA preparation, manufacturing site evaluations, comparability studies, FDA advisory committee support, due diligence reviews -> /
-- Serves pharmaceutical, biotechnology, medical device industries -> /
-- Clients include large pharmaceutical companies, start-ups, investors -> /
-- Facilitated FDA Type C meetings -> /
-- Biosimilar development experience with three clients -> /
-- Network of consultants with Genentech experience and 17 drug approvals -> /
-- Certification: GMP -> db
-- Equipment: Haas CNC machines, AutoCAD -> /
+- Headquarters at 9885 Kraft Ave, Las Vegas, Nevada 89129 -> /
+- Dr. Garnick led Genentech's Regulatory and Quality Organizations for 25 years and approved over 17 drugs -> /
+- Provides consulting in regulatory affairs, quality, cGXP compliance, and prototype device development -> /
+- Worked with over 15 clients ranging from large pharmaceutical companies to start-ups -> /
+- Facilitated numerous FDA Type C meetings -> /
+- Supported three biosimilar development programs -> /
+- Certified GMP -> db
+- Uses Haas CNC equipment and AutoCAD for prototyping -> /
+- Serves pharmaceutical, biotechnology, and medical device industries -> /
+- Members of Northeastern University Barnett Institute, Las Vegas Chamber of Commerce, American Chemical Society, CASSS -> /
 </details>
 
 ---
@@ -84,44 +83,43 @@ The company differentiates itself through a network of senior consultants—form
 **Old description:** Lone Star Molding will consistently provide products that meet or exceed the requirements and expectations of our customers. We will actively pursue ever improving quality through programs that enable each employee to do their job right the first time and every time.
 
 ## About
-Lone Star Molding operates from a facility in Conroe, Texas, where it provides compression and injection molding services. The company’s founding year and ownership structure are not publicly disclosed.
+Lone Star Molding operates from Conroe, Texas, north of Houston. The company's founding year and ownership structure are not publicly disclosed on its website. The business presents itself as a molding specialist with an integrated tooling capability.
 
-The shop specializes in compression molding and custom plastic injection molding using a wide array of polymers, including high-performance materials such as PTFE, HNBR, and Kevlar®. It offers over molding and bonding to metals, as well as insert molding performed in-house for bonding projects. An internal machine shop produces molds, reducing initial tooling costs for customers.
+The shop runs compression molding and custom plastic injection molding, including over molding and insert molding. It bonds high-performance polymers such as PTFE, HNBR, and Kevlar® to metal components. An in-house machine shop builds and maintains molds, which the company says reduces initial tooling expense and lead time. The same machine shop handles insert molding for bonding projects.
 
-The company serves customers requiring high-performance polymer components for demanding applications, though specific industry sectors are not listed in available sources.
+The company does not list specific industry verticals or named customers on its site. Its materials portfolio centers on wear- and temperature-resistant polymers for applications that demand durability.
 
-Lone Star Molding states that its in-house mold-making capability lowers tooling expenses, and its use of advanced materials delivers exceptional wear and temperature resistance. The company’s stated goal is to meet or exceed customer requirements through continuous quality improvement, with customer satisfaction cited as its number one priority.
+Lone Star Molding frames its differentiation around first-time quality: every employee is empowered to do the job right the first time, and customer satisfaction is stated as the number-one goal. The firm emphasizes continuous improvement programs rather than certifications or awards.
 
 ## Known for
-- In-house mold making reduces tooling costs
-- Insert molding performed in-house for bonding projects
-- Uses high-performance materials (PTFE, HNBR, Kevlar®)
-- Over molding and bonding to metals with high-performance polymers
+- In-house machine shop for mold making reduces tooling cost and lead time
+- Insert molding performed in-house for metal-polymer bonding projects
+- Works with high-performance polymers including PTFE, HNBR, and Kevlar®
+- Offers both compression and custom injection molding under one roof
+- Over molding and bonding of polymers to metal components
 
 ## Capabilities
 - Compression molding
 - Plastic injection molding
 - Over molding
 - Insert molding
-- Bonding to metals
-- In-house mold making
-- Machining
+- Metal-to-polymer bonding
+- In-house mold making (CNC machining)
+- Mold maintenance and repair
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Headquarters:** Conroe, Texas
 
 <details><summary>Sources</summary>
 
-- Location: Conroe, Texas -> db (hq_city, hq_state_label) and pages:/ (address)
-- Compression molding -> pages:/
-- Plastic injection molding -> pages:/
-- Over molding and bonding to metals -> pages:/
-- In-house machine shop for mold making -> pages:/
-- Insert molding in-house -> pages:/
-- Materials: PTFE, HNBR, Kevlar® -> pages:/
-- Quality policy and customer satisfaction goal -> pages:/
-- No founding year, ownership, employee count, certifications stated -> db
+- Location: Conroe, Texas -> / (home page)
+- Processes: Compression molding, custom injection molding, over molding, insert molding, metal-polymer bonding -> / (home page)
+- In-house machine shop for mold making -> / (home page)
+- Materials: PTFE, HNBR, Kevlar®, high-performance polymers -> / (home page)
+- Quality philosophy: Employee empowerment for first-time quality, customer satisfaction goal -> / (home page)
+- Contact: 936-539-0008, 12686 Conroe Porter Road, Conroe, Texas 77302 -> / (home page)
+- Website copyright 2021 -> / (home page)
 </details>
 
 ---
@@ -131,33 +129,33 @@ Lone Star Molding states that its in-house mold-making capability lowers tooling
 **Old description:** The folks at Longleaf Wood Shop dreamed of a space so that their customers' visions of custom projects could become a reality. They wanted to have a place where experienced and inexperienced woodworkers alike had a place to create in a fun, safe environment
 
 ## About
-Long Leaf Wood Shop operates in Montgomery, Alabama, where it was founded in 2019. The business grew from a decades-long passion for woodworking; its founders had accumulated over 35 years of experience before opening the shop. Initially launched as a member-based woodworking space that also produced custom furniture and hosted classes, the company shifted focus within a few years to dedicate itself primarily to custom furniture production.
+Long Leaf Wood Shop operates from Montgomery, Alabama, where it was founded in 2019. The business began as a member-based woodworking space offering classes and community events, driven by a vision to provide a place where both experienced and novice woodworkers could create in a safe, fun environment. Ownership details are not publicly disclosed.
 
-The shop produces custom-built furniture, blending traditional joinery with contemporary design. A team of several craftsmen contributes over 240 years of combined experience to each project. Beyond furniture, the facility runs woodworking classes, date-night sessions, and corporate team-building events, using its workshop as a venue for hands-on experiences.
+The shop now focuses primarily on custom furniture fabrication, employing several craftsmen who collectively bring over 240 years of woodworking experience. Projects range from one-off pieces to larger commissions, with each item built using a blend of traditional hand-tool techniques and modern machinery. The facility also hosts woodworking classes, team-building sessions, and corporate events.
 
-Clients include interior designers who rely on the shop to execute precise, vision-driven pieces, and homeowners seeking one-of-a-kind furnishings. Corporate groups also book the space for structured team-building activities, making the shop a hybrid production and event venue.
+Customers include interior designers who rely on the shop to execute precise, custom designs, as well as homeowners seeking personalized furniture. The company also serves corporate clients looking for experiential events such as date nights and team-building workshops in the woodshop setting.
 
-The company emphasizes that every piece tells a story, aiming to merge timeless craftsmanship with modern and traditional aesthetics. This narrative-driven approach, rooted in the founders' original dream of a creative community space, remains the stated reason for the business’s existence.
+The founders emphasize that every piece tells a story, combining the beauty of natural materials with timeless craftsmanship tailored to each client’s personality. This philosophy, rooted in over three decades of passion for woodworking, guides their attention to detail and commitment to pieces that become lasting backdrops for memories.
 
 ## Known for
-- Over 240 years of combined craftsmanship experience
-- Blend of timeless techniques with modern and traditional design
-- Custom furniture built to client specifications
-- Woodworking classes and corporate team-building events offered on-site
+- Over 240 years of combined craftsman experience
+- Blend of traditional and modern woodworking techniques
+- Custom furniture tailored to individual customer personalities
+- Offers woodworking classes, team building, and corporate events
 
 ## Capabilities
-- Custom furniture manufacturing
+- Custom furniture design and fabrication
 - Woodworking
+- Design consultation
 - Woodworking classes
 - Team building events
 - Corporate events
-- Date night events
 
 ## Industries
-- Furniture
 - Interior design
+- Residential furniture
 - Corporate events
-- Team building
+- Woodworking education
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -168,12 +166,12 @@ The company emphasizes that every piece tells a story, aiming to merge timeless 
 
 - Founded in 2019 -> /about
 - Located in Montgomery, Alabama -> db
-- Started as member-based wood shop -> /about
-- Shifted to primarily custom furniture -> /about
-- Several craftsmen with over 240 years combined experience -> /about
-- Offers custom furniture, classes, team building, corporate events -> /
+- Custom furniture manufacturing -> /about
+- Over 240 years combined craftsman experience -> /about
+- Offers woodworking classes and events -> /
 - Serves designers and homeowners -> /
-- Blends timeless techniques with modern and traditional design -> /about
+- Blend of traditional and modern techniques -> /about
+- Member-based wood shop origins -> /about
 </details>
 
 ---
@@ -183,30 +181,34 @@ The company emphasizes that every piece tells a story, aiming to merge timeless 
 **Old description:** Loose Plastics, Inc. is your # 1 source for quality custom sheet extrusion
 
 ## About
-Loose Plastics Inc. was founded in 1985 by Scott C. Loose in Gladwin, Michigan. Loose, drawing on his background in the plastic sheet industry, started the company in a 3,200-square-foot facility as a one-person operation cleaning and grinding automotive dunnage trays.
+Loose Plastics, Inc. was founded in 1985 by Scott C. Loose in Gladwin, Michigan. Loose began with a 3,200-square-foot facility, operating a one-man shop that cleaned and ground automotive dunnage trays. By November of that year he had purchased his first plastic sheet extruder, and the company added its first employee in 1986.
 
-The company specializes in custom sheet extrusion and coextrusion, operating ten extrusion lines with AB-ABA coextrusion capabilities from a 120,000-square-foot plant. The facility runs 24/7 on four shifts and employs over 120 people. Since adding its first extruder in late 1985, Loose Plastics has expanded steadily, adding computerized extrusion in 1993 and coextrusion technology in 2010.
+Today the company runs ten extrusion lines, including coextrusion equipment with AB-ABA capability, from a 120,000-square-foot plant that operates 24 hours a day, seven days a week on a continuous four-shift schedule. The workforce has grown to more than 120 employees, and the product range covers custom sheet extrusion, ABS coextrusion, and mono-layer sheet production.
 
-Loose Plastics serves industrial customers requiring custom plastic sheet, with roots in automotive dunnage tray production. The company’s early work centered on automotive components, and it has since grown to supply a broader base of manufacturers seeking extruded sheet products.
+The business traces its roots to the automotive sector, where it started by recycling dunnage trays, and continues to serve automotive and other industrial customers requiring custom plastic sheet. Key contacts include President Josh Loose and business development managers Kevin Poolman and Bill Schumacher.
 
-Scott Loose started the business to create a structurally sound company that would improve the local economy through job creation and community investment. The company emphasizes a family-oriented approach, stating that customers are treated as part of a growing family rather than just a number.
+Loose Plastics emphasizes a family-oriented culture, stating that customers are treated as part of a growing family rather than a number, and highlights its ISO 9001:2015 quality system, integrity, and a commitment to complete customer satisfaction.
 
 ## Known for
-- ISO 9001:2015 certified quality management system
-- 24/7 production on four shifts
-- Coextrusion with AB-ABA capabilities
-- Ten extrusion lines in a 120,000 sq ft facility
-- Customer satisfaction guarantee
+- ISO 9001:2015 certified quality management
+- 24/7 continuous four-shift production
+- Coextrusion with AB-ABA capability
+- ABS coextrusion and mono-layer sheet expertise
+- Family-oriented culture treating customers as family
 
 ## Capabilities
 - Custom sheet extrusion
 - Coextrusion (AB-ABA)
 - ABS coextrusion
-- ABS mono layer extrusion
+- Mono-layer extrusion
+- Automotive dunnage tray recycling/grinding
+
+## Industries
+- Automotive
 
 ## Equipment
-- 10 sheet extrusion lines
-- Coextrusion line (AB-ABA)
+- 10 plastic sheet extruders
+- Coextrusion lines (AB-ABA)
 - Computerized extruder
 
 ## Certifications
@@ -216,6 +218,7 @@ Scott Loose started the business to create a structurally sound company that wou
 - **Company Type:** Manufacturer
 - **Founded:** 1985
 - **Employees:** 120+
+- **Ownership:** Founder-led
 - **Headquarters:** Gladwin, Michigan
 
 <details><summary>Sources</summary>
@@ -223,17 +226,13 @@ Scott Loose started the business to create a structurally sound company that wou
 - Founded 1985 by Scott C. Loose -> /about
 - Headquarters Gladwin, Michigan -> db
 - ISO 9001:2015 certified -> /
-- 10 extrusion lines -> /about
-- 120+ employees -> /about
-- 120,000 sq ft facility -> /about
-- Coextrusion AB-ABA capabilities -> /about
-- ABS coex/mono layer -> /about
-- 24/7 operation on four shifts -> /about
-- Custom sheet extrusion -> /
-- Started with 3,200 sq ft facility -> /about
-- Early work automotive dunnage trays -> /about
-- Scott Loose wanted to improve local economy -> /about
-- Family-oriented customer approach -> /
+- 10 extruders, 120+ employees, 120,000 sq ft facility -> /about
+- Coextrusion with AB-ABA capabilities -> /about
+- ABS coextrusion and mono-layer capabilities added 2017 -> /about
+- 24/7 continuous shift operation -> /about
+- Automotive dunnage tray recycling origin -> /about
+- Key personnel: Josh Loose, Kevin Poolman, Bill Schumacher -> /about
+- Family-oriented customer service philosophy -> /
 </details>
 
 ---
@@ -243,42 +242,48 @@ Scott Loose started the business to create a structurally sound company that wou
 **Old description:** Commercial/industrial/institutional LED luminaires and lighting retrofit products
 
 ## About
-Founded in 1988, Los Angeles Lighting Mfg. Co. operates from its corporate headquarters in El Monte, California, just east of Los Angeles. The privately held company began as a designer and manufacturer of commercial, industrial, and institutional luminaires, and has remained a domestic producer for over three decades.
+Los Angeles Lighting Mfg. Co. was established in 1988 in El Monte, California, just east of Los Angeles. The company designs and manufactures commercial, industrial, institutional, and custom LED luminaires and retrofit solutions from its corporate headquarters, which houses sales, engineering, and manufacturing under one roof.
 
-The company designs and builds LED luminaires and retrofit products for a range of applications, offering standard product lines, modified fixtures, and fully custom solutions. Its California facility houses in-house engineering and a flexible manufacturing line capable of adjusting dimensions, lumen output, color temperature (80 or 90 CRI), and integrating wireless or wired controls. The operation supports both small and large production runs with custom packaging and assembly options.
+The firm produces a standard product line alongside modified and custom luminaires, offering capabilities such as adjustable dimensions, customizable lumen output, a range of color temperatures, 80 or 90 CRI options, and integration of wireless or wired controls. Its California facility is built for precision and flexibility, enabling both small and large production runs with dependable lead times and the option to ship from finished‑goods inventory or build to order. Custom packaging, assembly, and signature product development for national accounts round out the manufacturing scope.
 
-Los Angeles Lighting serves commercial offices, educational facilities, parking structures, warehouses, cleanrooms, manufacturing plants, and medical institutions. The firm also develops signature products for national accounts and supplies retrofit kits for existing installations.
+The company serves commercial offices, schools, parking garages, warehouses, cleanrooms, manufacturing plants, and medical facilities. Its customer base includes national accounts that require tailored lighting solutions, as well as general commercial, industrial, and institutional specifiers.
 
-The company emphasizes its "Made in America" status and compliance with Buy American Act (BAA) and Build America, Buy America (BABA) requirements. Its stated mission is to deliver exactly what the customer wants, when they want it, backed by direct communication between sales, engineering, and the shop floor.
+Los Angeles Lighting emphasizes its status as one of the few remaining “Made‑in‑America” lighting manufacturers, with every luminaire designed and built in the United States and fully compliant with BABA and BAA requirements. The business was founded on a mission to give customers what they want, how they want it, when they want it, leveraging in‑house engineering, a flexible factory, and close supplier relationships to deliver practical, specification‑grade solutions.
 
 ## Known for
-- Made in America, fully BAA and BABA compliant
-- In-house engineering team
-- Flexible, state-of-the-art manufacturing facility
-- Dependable manufacturing lead times
-- Custom packaging and assembly
+- Every luminaire designed and built in the United States
+- Full BABA and BAA compliance
+- In‑house engineering and flexible manufacturing
+- Standard, modified, and custom product lines with immediate‑ship inventory
+- Signature product development for national accounts
 
 ## Capabilities
-- Design and manufacture of commercial, industrial, institutional, and custom LED luminaires
+- LED luminaire design
+- LED luminaire manufacturing
 - Retrofit solutions
-- Modified dimensions for installation constraints
+- Custom luminaires
+- Modified dimensions
 - Customizable lumen output
-- Wide range of color temperatures
-- 80 or 90 CRI options
-- Wireless and wired controls integration
-- Flexible manufacturing and shipping schedules
-- Custom packaging and assembly
+- Color temperature selection
+- 80 CRI option
+- 90 CRI option
+- Wireless controls integration
+- Wired controls integration
+- Custom packaging
+- Custom assembly
 - Signature product development for national accounts
 
 ## Industries
-- Commercial offices
+- Commercial lighting
+- Industrial lighting
+- Institutional lighting
+- Office lighting
 - Education (schools)
-- Parking structures/garages
+- Parking garages
 - Warehouses
 - Cleanrooms
 - Manufacturing facilities
-- Medical/healthcare facilities
-- National accounts (government/large enterprise)
+- Medical facilities
 
 ## Certifications
 - BAA Compliant
@@ -287,20 +292,21 @@ The company emphasizes its "Made in America" status and compliance with Buy Amer
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1988
-- **Ownership:** Privately held
 - **Headquarters:** El Monte, California
 
 <details><summary>Sources</summary>
 
-- Founded in 1988 -> /about
+- Established in 1988 -> /about
 - Headquarters in El Monte, California -> /about
-- BAA and BABA compliant -> /
-- Made in America claim -> /
-- In-house engineering team -> /about
-- Flexible manufacturing facility -> /about
-- Custom luminaires and retrofit solutions -> /about
-- Industries served: offices, schools, garages, warehouses, cleanrooms, manufacturing, medical facilities -> /
-- Capabilities list including modified dimensions, customizable lumen output, color temperatures, CRI, controls, packaging -> /about
+- Designs and manufactures commercial, industrial, institutional, custom luminaires and retrofit solutions -> /about
+- In-house engineering team, flexible manufacturing facility, top-tier component suppliers -> /about
+- Made in America, BABA and BAA compliant -> /about, /
+- Produces small and large product runs, ships from finished goods inventory or builds to order -> /about
+- Capabilities: modified dimensions, customizable lumen output, color temperatures, 80/90 CRI, wireless/wired controls, custom packaging/assembly, signature product development -> /about
+- Serves offices, schools, garages, warehouses, cleanrooms, manufacturing, medical facilities -> /about, /
+- 34-year history (as of page date) -> /about
+- Mission: give customers what they want, how they want it, when they want it -> /about
+- BAA COMPLIANT certification -> db
 </details>
 
 ---
@@ -310,37 +316,41 @@ The company emphasizes its "Made in America" status and compliance with Buy Amer
 **Old description:** Providing furniture solutions throughout Louisiana since 1998
 
 ## About
-Founded in 1998 in Baton Rouge, Louisiana, Louisiana School Equipment Company (LSEC) has spent over 25 years providing furniture solutions to educational and public institutions across the state. The company operates as a privately held dealer and service provider, with its leadership team bringing more than 75 years of combined experience in educational furniture sales, installation, and customer service.
+Louisiana School Equipment Company, LLC, based in Baton Rouge, Louisiana, was founded in 1998. The privately held firm began as a provider of furniture solutions for educational institutions across the state.
 
-LSEC does not manufacture furniture but distributes product lines such as the HON Ignition Seating Series and offers a full suite of project services. These include space planning with CAD drawings, product specification and recommendation, ADA-compliant layout design, installation scheduling and coordination, project consultation, and assistance with state contract purchasing. As a licensed Louisiana Specialty Contractor, the firm handles projects of all sizes from its Baton Rouge headquarters and a network of representatives statewide.
+The company supplies and installs furniture for learning and work environments, offering space planning, CAD drawings, product specification, ADA-compliant layouts, installation coordination, project consultation, and state contract purchasing assistance. It operates from its Baton Rouge headquarters with representatives statewide, and maintains a network of installation professionals. Featured product lines include the HON Ignition seating series in mid-back, low-back, and mesh configurations. The firm holds a Louisiana Specialty Contractor license, allowing it to manage projects of any size.
 
-The company serves public and private K‑12 schools, colleges and universities, government agencies, and architecture and design professionals throughout Louisiana. Its client base also includes businesses seeking workspace furnishings. LSEC maintains professional memberships in organizations such as NSSEA/EDspaces, LASBO, AIA Louisiana, and the Associated General Contractors to stay connected to the education and facility planning communities.
+Its client base spans public and private K‑12 schools, colleges and universities, government agencies, architects and design professionals, and other businesses throughout Louisiana. The company participates in state purchasing contracts and holds memberships in organizations such as NSSEA/EDspaces, LASBO, AIA Louisiana, and the Associated General Contractors.
 
-LSEC’s stated mission is to exceed customer service expectations by delivering quality products, expert service, and professional installation. The company emphasizes relationships, innovative solutions, and a commitment to excellence to create environments where people can learn, work, and succeed. Its differentiators include statewide coverage, a licensed contractor status, and decades of specialized experience in educational environments.
+Louisiana School Equipment Company emphasizes its 75-plus years of combined staff experience in educational furniture sales and installation, statewide coverage, and a mission to exceed customer expectations through quality products, expert service, and professional installation.
 
 ## Known for
-- Statewide service with headquarters in Baton Rouge and representatives across Louisiana
 - Licensed Louisiana Specialty Contractor
-- Over 75 years of combined experience in educational furniture sales, installation, and customer service
-- Space planning and CAD drawings included in project services
-- State contract purchasing assistance for public agencies
+- Statewide service from Baton Rouge headquarters and representatives across Louisiana
+- Over 75 years combined experience in educational furniture sales, installation, and customer service
+- Space planning and CAD drawings included
+- State contract purchasing assistance
 
 ## Capabilities
 - Space planning and CAD drawings
 - Product recommendations and specifications
-- ADA-compliant layout design
+- ADA-compliant layouts
 - Installation scheduling and coordination
 - Project consultation and support
 - State contract purchasing assistance
-- Furniture sales and distribution
-- Professional installation
+- Furniture sales (HON Ignition Seating Series)
+- Professional installation via network of installers
+- Statewide service coverage
 
 ## Industries
 - K-12 education
 - Higher education
 - Government
 - Architecture and design
-- Business/commercial
+- Commercial businesses
+
+## Certifications
+- Louisiana Specialty Contractor license
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -349,16 +359,16 @@ LSEC’s stated mission is to exceed customer service expectations by delivering
 
 <details><summary>Sources</summary>
 
-- Founded in 1998 -> db, /
-- Headquarters in Baton Rouge, Louisiana -> db, /
-- Over 75 years combined experience -> /
+- Founded 1998 -> db
+- Headquarters in Baton Rouge, Louisiana -> db and /
 - Licensed Louisiana Specialty Contractor -> /
-- Services: space planning, CAD drawings, product recommendations, ADA-compliant layouts, installation scheduling, project consultation, state contract purchasing assistance -> /about
-- Industries served: public & private K-12 schools, colleges & universities, government agencies, architects & design professionals -> /about
-- Professional memberships: NSSEA/EDspaces, LASBO, LHSAA, AIA Louisiana, NIGP Louisiana, Louisiana Library Association, Associated General Contractors, Louisiana School Food Service Association, Louisiana College & Technical College System, Louisiana School Facility Managers Association -> /about
-- Mission statement -> /
-- HON Ignition Seating Series product line -> /
+- Over 75 years combined experience in educational furniture sales, installation, and customer service -> /
 - Statewide service with representatives across Louisiana -> /
+- Services: space planning, CAD drawings, product recommendations, ADA-compliant layouts, installation scheduling, project consultation, state contract purchasing assistance -> /about
+- Industries served: K-12 schools, colleges, universities, government agencies, architects & design professionals, businesses -> /about
+- Professional memberships: NSSEA/EDspaces, LASBO, LHSAA, AIA Louisiana, NIGP Louisiana, Louisiana Library Association, Associated General Contractors, Louisiana School Food Service Association, Louisiana College & Technical College System, Louisiana School Facility Managers Association -> /about
+- Featured product: HON Ignition Seating Series (mid-back, low-back, 4-way stretch mesh) -> /
+- Mission: exceeding customer service expectations with quality products, expert service, professional installation -> /
 </details>
 
 ---
@@ -368,32 +378,32 @@ LSEC’s stated mission is to exceed customer service expectations by delivering
 **Old description:** Over 35 years of experience designing and installing custom cabling solutions
 
 ## About
-Louisiana Structured Cabling, LLC operates from Lake Charles, Louisiana, and was founded in 1986 by Matthew Theriot, who serves as president. Theriot brought over 40 years of experience designing and installing custom cabling solutions for industrial and commercial businesses across the United States before establishing the company.
+Louisiana Structured Cabling, LLC was founded in 1986 in Lake Charles, Louisiana. The company was started by Matthew Theriot, who serves as president and brings over 40 years of experience designing and installing custom cabling solutions for industrial and commercial clients across the United States.
 
-The firm specializes in the design and installation of structured cabling systems, including fiber optic backbone cabling and precision splicing, Category 6 and 6A copper cabling, and closed-circuit television systems. Its service portfolio extends to communication room design and installation, underground directional boring and conduit installation, core drilling for vertical and horizontal cable paths, and professional display mounting for operations centers and offices. The company holds a Louisiana state license (#62337) and maintains memberships with BICSI, ISNetworld, and DISA.
+The firm specializes in the design and installation of structured cabling systems. Its service portfolio includes fiber optic backbone cabling and precision splicing, Category 6 and 6A copper cabling, conduit boring and installation, core drilling for vertical and horizontal cable paths, communication room design and installation, as well as camera, CCTV, and TV/monitor installation for high-security commercial and industrial facilities. The company operates under a Louisiana state license (#62337) and holds memberships with BICSI, ISNetworld, and DISA.
 
-Louisiana Structured Cabling serves commercial and industrial clients throughout Louisiana, including high-security facilities, corporate offices, and operations centers. The company emphasizes a personal commitment to the state's growth and provides services for businesses requiring mission-critical data infrastructure and advanced surveillance systems.
+Louisiana Structured Cabling serves commercial and industrial businesses throughout Louisiana, including corporate offices, high-security facilities, and government installations. Its client base spans industries that require mission-critical data infrastructure and surveillance systems.
 
-The company differentiates itself with a lifetime guarantee on all new horizontal cabling installations and NDAA compliance, ensuring its equipment and services meet federal procurement standards. Its certifications and memberships reflect a focus on industry standards and security compliance for sensitive environments.
+The company differentiates itself with a lifetime guarantee on all new horizontal cabling installations, NDAA compliance, and a stated personal commitment to Louisiana's growth. Membership in BICSI, ISNetworld, and DISA underscores its adherence to industry standards and security requirements.
 
 ## Known for
 - Lifetime guarantee on new horizontal cabling installations
-- NDAA Compliant
-- BICSI Member
-- ISNetworld Member
-- DISA Member
+- BICSI member
+- ISNetworld member
+- DISA member
+- NDAA compliant
 
 ## Capabilities
-- Fiber optic cabling and splicing
-- Category 6/6A structured cabling
-- CCTV system installation
-- Security camera installation
-- Communication room design
-- Communication room installation
-- Directional conduit boring
-- Conduit installation
-- Core drilling for cable paths
-- TV/monitor installation
+- Camera Installation
+- Communication Room Design
+- Communication Room Installation
+- Conduit Boring
+- Conduit Installation
+- TV/Monitor Installation
+- Core Drilling
+- Fiber Optic Cabling and Splicing
+- CCTV Systems
+- Category 6/6A Structured Cabling
 
 ## Industries
 - Commercial
@@ -403,8 +413,8 @@ The company differentiates itself with a lifetime guarantee on all new horizonta
 - BICSI Member
 - ISNetworld Member
 - DISA Member
-- LA License #62337
 - NDAA Compliant
+- Louisiana State License #62337
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -413,13 +423,17 @@ The company differentiates itself with a lifetime guarantee on all new horizonta
 
 <details><summary>Sources</summary>
 
-- Founded 1986 -> db
-- Headquarters Lake Charles, Louisiana -> db
-- Founder/president Matthew Theriot with 40+ years experience -> /
-- Services: fiber optic, category cabling, CCTV, camera installation, communication room design/install, conduit boring/install, core drilling, TV/monitor installation -> /
+- Founded in 1986 -> db
+- Headquarters in Lake Charles, Louisiana -> db
+- Founder and president Matthew Theriot with over 40 years experience -> /
+- Services: fiber optic and category cabling, conduit boring, core drilling, communication room design/installation, camera/CCTV/TV installation -> /
 - Lifetime guarantee on new horizontal cabling installations -> /
-- BICSI Member, ISNetworld Member, DISA Member, LA License #62337, NDAA Compliant -> /
-- Serves commercial and industrial clients across Louisiana -> /
+- BICSI Member -> /
+- ISNetworld Member -> /
+- DISA Member -> /
+- Louisiana State License #62337 -> /
+- NDAA Compliant -> /
+- Serves commercial and industrial businesses across Louisiana -> /
 </details>
 
 ---
@@ -429,34 +443,30 @@ The company differentiates itself with a lifetime guarantee on all new horizonta
 **Old description:** I have been working with wood to some extent since 1985, and in 2000 my passion grew into my profession.
 
 ## About
-Lusk Scandia Woodworks operates from Coon Valley, Wisconsin, where Mike Lusk began working with wood in 1985 and turned the craft into a full-time profession in 2000. The business is family-owned and run by Mike and Becky Lusk, who design and build each piece in their rural workshop. Mike’s background includes early training through the Vesterheim Norwegian American Museum and a gold medal in woodcarving awarded in 1992.
+Lusk Scandia Woodworks is based in Coon Valley, Wisconsin. Mike Lusk began working with wood in 1985, and by 2000 the craft became a full-time profession. The business is owned and operated by Mike and Becky Lusk, a husband-and-wife team who create custom handcrafted Scandinavian-inspired wood pieces.
 
-The shop produces custom handcrafted woodworks inspired by Scandinavian design, including cabinets, doors, shelves, tables, trunks, bent-wood boxes, bowls, ornaments, figurines, and plaques. Every item is made by hand using basswood for pieces intended to be painted or rosemaled, as well as a variety of hardwoods for stained finishes. The Lusks prepare surfaces to a smooth finish but leave final finishing to the customer, and they also offer woodcarving instruction at the Vesterheim Museum and Norskedalen Heritage Center.
+The shop produces a range of items including custom cabinets, doors, shelves, tables, trunks, bowls, Scandinavian ships, ornaments, figurines, and plaques. Most pieces are handcrafted from basswood (often left unfinished for customer rosemaling or painting) and various hardwoods for stained finishes. Mike Lusk handles the woodcarving, drawing on traditional Norwegian designs studied at the Vesterheim Norwegian-American Museum, where he earned a gold medal in 1992 and now teaches carving classes. The operation is small-scale, with items made to order and shipped to all 50 states.
 
-Customers range from individual collectors and gift buyers to homeowners seeking custom furniture and decor, with buyers across all 50 states. Testimonials cite purchases of mirrors, trays, and bowls from Wisconsin, Texas, and beyond. The product line appeals to enthusiasts of traditional Scandinavian folk art and woodworking.
+Customers include individual buyers seeking heirloom-quality home decor, gifts, and personalized wood items. Testimonials mention customers from Wisconsin, Texas, and elsewhere purchasing mirrors, trays, bowls, and ornaments. The company also serves woodcarving students through classes at Vesterheim Museum, Norskedalen Heritage Center, and local clubs.
 
-The company distinguishes itself through a direct lineage to Norwegian immigrant craft traditions—Mike’s grandfather was a woodcarver and his mother a Vesterheim Gold-medalist in rosemaling. Pieces are designed to be well made, beautifully designed, and built to last, with lead times of 10 to 16 weeks for custom orders.
+The Lusks emphasize Scandinavian design principles—well-made, beautifully designed, built to last—and highlight the personal, one-of-a-kind nature of each handmade piece. Mike’s family heritage (his grandfather a Norwegian immigrant woodcarver, his mother a Vesterheim Gold-medalist in rosemaling) informs the aesthetic and techniques.
 
 ## Known for
-- Completely one-of-a-kind, handmade projects
-- Scandinavian design heritage rooted in Norwegian immigrant traditions
-- Items prepared for customer-applied finishes (basswood for rosmal/paint, hardwoods for stain)
-- Woodcarving instruction at Vesterheim Museum and Norskedalen Heritage Center
-- Gold medal in woodcarving from Vesterheim (1992)
+- Handmade, one-of-a-kind Scandinavian-inspired wood pieces
+- Basswood and hardwood options for customer finishing
+- Gold-medal woodcarving expertise with teaching at Vesterheim Museum
+- Ships to all 50 states with 10-16 week lead time
+- Previous catalog items remain available
 
 ## Capabilities
-- Custom cabinetry and furniture making
-- Hand carving (figure, ale bowl, dragonstil, relief)
-- Bent wood box construction
-- Surface preparation and sanding
-- Woodcarving instruction
-
-## Industries
-- Home decor
-- Furniture
-- Giftware
-- Woodworking
-- Scandinavian folk art
+- Custom cabinetry
+- Hand-carved wooden bowls
+- Scandinavian-style furniture (tables, shelves, trunks)
+- Wooden ornaments and figurines
+- Woodcarving classes (figure, ale bowl, dragonstil)
+- Custom design from traditional patterns
+- Basswood pieces for rosemaling/painting
+- Hardwood pieces for staining
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -466,18 +476,17 @@ The company distinguishes itself through a direct lineage to Norwegian immigrant
 
 <details><summary>Sources</summary>
 
-- Founded 1985, professional since 2000 -> db and /
-- Location Coon Valley, WI -> db and /
+- Founded 1985 -> db
+- Location Coon Valley, WI -> db
 - Owners Mike and Becky Lusk -> /
-- Products: custom cabinets, doors, shelves, tables, trunks, bowls, ornaments, figurines, plaques -> /
-- Materials: basswood, various hardwoods -> /
-- Processes: handcrafted, woodcarving, sanding -> /
+- Products: custom cabinets, doors, shelves, tables, trunks, bowls, ships, ornaments, figurines, plaques -> /
+- Materials: basswood, hardwoods -> /
 - Lead time 10-16 weeks -> /
 - Ships to all 50 states -> /
-- Teaching at Vesterheim Museum and Norskedalen Heritage Center -> /
-- Gold medal woodcarving 1992 -> /
-- Family-owned -> /
-- Scandinavian design heritage -> /
+- Teaches woodcarving at Vesterheim Museum, Norskedalen Heritage Center -> /
+- Gold medal 1992 Vesterheim -> /
+- Scandinavian design inspiration -> /
+- Family heritage: grandfather Hans Simonson, mother Jean Giese -> /
 </details>
 
 ---
@@ -487,31 +496,32 @@ The company distinguishes itself through a direct lineage to Norwegian immigrant
 **Old description:** M&J Frank has been selling quality restaurant supplies since 1939. We are a third generation business that has throughout the years maintained an extremely high level of service. From the tabletop to the bar, from the kitchen to the washroom, M&J can help solve all of your needs . For over 80 years in New Jersey, we have served the public and the food service industry with courteous, friendly service and the finest restaurant equipment brand names available.  Our loyal customers have not only enjoyed our vast selection of foodservice essentials, but they've also experienced the difference that quality and service can make. We’re dedicated to helping you in your culinary endeavors and are excited to be a part of your success story.
 
 ## About
-M&J Frank Inc. operates from East Hanover, New Jersey, where it was founded in 1939. The business remains a third-generation, family-owned operation that has served the food-service market in the Garden State for more than eight decades.
+M&J Frank Inc. has operated from East Hanover, New Jersey, since its founding in 1939. The company remains a third-generation family business, continuing a legacy of supplying restaurant equipment and supplies to the region's food-service community. The current ownership traces back to the original founders, though individual names are not publicly disclosed.
 
-The company stocks and distributes a broad range of restaurant equipment, smallwares, disposable products, and janitorial supplies. Its showroom and warehouse carry brand-name lines for the tabletop, bar, kitchen, and washroom, functioning as a one-stop supply source rather than a fabrication shop.
+The firm stocks and sells a broad range of products for commercial kitchens and dining rooms, including disposable items, janitorial supplies, smallwares, and major equipment lines from established manufacturers. A physical showroom allows customers to inspect items before purchase, and printed catalogs support remote ordering for items ranging from tabletop accessories to heavy-duty cooking equipment.
 
-Primary customers include independent restaurants, chefs, catering operations, institutional food-service buyers, and home cooks throughout New Jersey and the surrounding region. The firm emphasizes walk-in and phone-order service for both large-scale kitchen outfitting and day-to-day consumable replenishment.
+Customers span the food-service spectrum: independent restaurants, institutional cafeterias, catering operations, and home cooks. The company emphasizes service to chefs and restaurant owners throughout New Jersey and the surrounding area, positioning itself as a single-source supplier for both front-of-house and back-of-house needs.
+
+The business was built on a commitment to courteous, knowledgeable service and access to recognized brand-name equipment. Leadership frames its differentiation around deep product knowledge, a vast selection of foodservice essentials, and a willingness to help customers solve specific operational challenges.
 
 ## Known for
 - Third-generation family ownership since 1939
-- Extensive brand-name inventory for front- and back-of-house
-- Walk-in showroom and same-day pickup for local customers
-- Dedicated support for restaurant opening and renovation projects
+- Showroom with hands-on product access in East Hanover, NJ
+- Broad catalog of brand-name restaurant equipment and smallwares
+- Focus on knowledgeable, courteous service for food-service professionals
 
 ## Capabilities
 - Restaurant equipment distribution
 - Smallwares supply
-- Disposable products distribution
+- Disposable products supply
 - Janitorial supplies distribution
-- Showroom sales and consultation
+- Showroom product demonstration
+- Catalog sales
 
 ## Industries
 - Food service
 - Restaurant
 - Hospitality
-- Catering
-- Institutional food service
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -521,13 +531,13 @@ Primary customers include independent restaurants, chefs, catering operations, i
 
 <details><summary>Sources</summary>
 
-- Founded 1939 -> db, /about-us
+- Founded 1939 -> /about-us
 - Third-generation family business -> /about-us
-- Headquarters East Hanover, NJ -> db, /, /about-us
-- Address 29 Eagle Rock Avenue -> /, /about-us
-- Sells restaurant equipment, smallwares, disposables, janitorial supplies -> /, /about-us, db
-- Serves chefs, restaurant owners, home cooks, food service industry -> /, /about-us
-- Carries brand-name equipment lines -> /about-us
+- Headquarters East Hanover, NJ -> / and /about-us
+- Showroom at 29 Eagle Rock Avenue -> / and /about-us
+- Sells restaurant equipment, smallwares, disposables, janitorial supplies -> / and /about-us
+- Serves food service industry, chefs, restaurant owners, home cooks -> / and /about-us
+- Offers catalogs -> /
 </details>
 
 ---
@@ -537,28 +547,28 @@ Primary customers include independent restaurants, chefs, catering operations, i
 **Old description:** Quality New and Used Industrial Food Processing and Packaging Equipment Since 1991
 
 ## About
-M&M Equipment Corp. is based in Skokie, Illinois, and has been operating since 1991. The company began as a family-run venture focused on supplying high-quality used and reconditioned food processing machinery. It remains family-owned and operated today, with leadership now including COO Max Leib, a certified machinery appraiser, and CEO Brett Newman, who joined in 2018 and expanded the business into auction services through M&M Auctions Inc.
+M&M Equipment Corp. is based in Skokie, Illinois, and has served the food processing industry since 1991. Founded as a family-run operation, the company began by supplying high-quality used and reconditioned machinery to food manufacturers. It remains family-owned and operated today, with leadership including COO Max Leib, a certified machinery appraiser, and CEO Brett Newman, who joined in 2018 and expanded the business to include auction services through M&M Auctions Inc.
 
-The firm acts as a full-service equipment partner for the food industry. Through its two divisions, it buys, sells, refurbishes, brokers, appraises, and liquidates processing and packaging equipment. The company maintains a shop staffed with technicians who rebuild machinery, and it operates a dedicated parts division, MMSurplus, for spare parts and tooling. Inventory spans slicers, mixers, grinders, formers, freezers, and filling systems from brands such as Grote, Lyco, Thompson, and Vemag.
+The firm operates as a full-service equipment partner across two divisions. It buys, sells, refurbishes, brokers, appraises, and liquidates food processing and packaging equipment, and also runs a surplus parts division called MMSurplus. The company's shop employs technicians who recondition machinery, while its sales and brokerage team matches equipment with buyers. Services include machinery brokerage, AMEA-certified equipment valuations, auction management, asset recovery, and consulting.
 
-Customers range from small family-run operations to national processors across sectors including bakery, beef and pork, poultry, pet food, cheese processing, vegetable processing, and cannabis. The company also supports startups and R&D teams with access to affordable, high-performance machines.
+M&M Equipment serves a range of food sectors, including bakery, beef and pork, poultry, pet food, cheese processing, vegetable processing, and cannabis. Its customer base spans small family-run businesses to national processors, and the company says it approaches each deal with the same care regardless of size.
 
-M&M Equipment Corp. emphasizes extending machinery life through repair and refurbishment to reduce waste, providing sustainable equipment solutions, and helping clients navigate plant closures and transitions with speed and respect. Its mission is to keep food operations running safely and smoothly while building long-term relationships based on trust and responsiveness.
+The company states its mission is to help the food industry run better by extending the life of machinery through repair and resale, reducing waste, and supporting clients through plant closures and startups with affordable, high-performance equipment.
 
 ## Known for
-- Family-owned and operated since 1991
-- AMEA-certified equipment appraisals
-- Full-service equipment partner: brokerage, auctions, appraisals, asset recovery
-- MMSurplus parts division for spare parts and tooling
-- Serves customers from startups to national processors
+- 35+ years in business since 1991
+- Family-owned and operated
+- AMEA-certified equipment valuations
+- Full-life equipment services: brokerage, appraisal, auction, asset recovery, refurbishment, parts
+- Dedicated shop with technicians for reconditioning
 
 ## Capabilities
 - Machinery brokerage
-- Equipment auctions
-- Equipment appraisals (AMEA-certified)
+- Equipment appraisal (AMEA-certified)
+- Auction services
 - Asset recovery and liquidation
-- Equipment refurbishment and rebuilding
-- Parts sales (MMSurplus)
+- Equipment refurbishment and reconditioning
+- Surplus parts sales (MMSurplus)
 - Consulting services
 
 ## Industries
@@ -570,22 +580,8 @@ M&M Equipment Corp. emphasizes extending machinery life through repair and refur
 - Vegetable Processing
 - Cannabis
 
-## Equipment
-- Grote 613 VS2 Slicer
-- Lyco Cook and Chill System
-- Lance LT 60 Tumbler
-- Thompson 4200 F Mixer/Grinder
-- Circle Packaging FlexiBag Form Fill Seal
-- Nothum Batter Breader Line
-- Filamatic ProLINE Liquid Filling System
-- MP Equipment MegaJet Water Jet Portioning System
-- Vemag Robot 500 Vacuum Stuffer
-- Biro 3334 Band Saw
-- Hollymatic 180-A Mixer Grinder
-- Dantech Arctic Frost Spiral Freezer
-
 ## Certifications
-- AMEA Certified Appraiser
+- AMEA certified equipment valuations
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -595,16 +591,17 @@ M&M Equipment Corp. emphasizes extending machinery life through repair and refur
 
 <details><summary>Sources</summary>
 
-- Founded 1991, family-owned, Skokie IL -> db, /about-us
-- Two divisions: M&M Equipment Corp. and M&M Auctions Inc. -> /about-us
-- Services: brokerage, auctions, appraisals, asset recovery, refurbishment, parts -> /about-us
+- Founded 1991 -> db
+- Headquarters Skokie, Illinois -> db
+- Family-owned and operated -> /about-us
+- Services: buy, sell, rebuild, broker, value, liquidate equipment -> /about-us
 - Industries served: Bakery, Beef & Pork, Poultry, Pet Food, Cheese Processing, Vegetable Processing, Cannabis -> /
-- Leadership: Max Leib (COO, AMEA certified), Brett Newman (CEO) -> /about-us
-- Team includes shop technicians, sales, parts -> /about-us
-- Mission: extend machinery life, reduce waste, sustainable solutions -> /about-us
-- AMEA-certified equipment valuations -> /
-- MMSurplus parts division -> /
-- Featured equipment brands: Grote, Lyco, Lance, Thompson, etc. -> /
+- Leadership: Max Leib COO, Brett Newman CEO -> /about-us
+- AMEA-certified equipment valuations -> /about-us
+- 35+ years in business -> /about-us
+- Parts division MMSurplus -> /
+- Team members listed -> /about-us
+- Machinery brokerage, appraisal, auction, asset recovery -> /about-us
 </details>
 
 ---

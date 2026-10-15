@@ -1,0 +1,623 @@
+# Tele-Fonika Cable Americas Crp
+
+**Old description:** TFKable is a global leader in the production of high and extra-high voltage cables, specializing in the energy sector, with documented deliveries to power grid operators and positive results from production process audits.
+
+## About
+Tele-Fonika Cable Americas Corp. is headquartered in Lockport, Illinois. The company began operations in the American markets in 1987 as the distribution arm of the Poland-based TFKable Group. No founders are named; it operates as a subsidiary of the group.
+
+The company supplies a broad portfolio of cables and accessories across North and South America, including high and extra-high voltage cables, medium voltage cables with EPR and XLPE insulation, industrial cables, mining cables, welding cables, flexible cords, submersible pump cables, and stage lighting cables. The Americas Corp notes it operates several production lines equipped for continuous vulcanization, twisting, and braiding, enabling precise cable manufacturing with full quality control at each stage. Specific facility size, headcount, and annual volumes are not disclosed.
+
+Its customers span the energy sector—power grid operators and offshore wind farm developers such as the Baltic Sea projects Bałtyk 2, Bałtyk 3, Baltica 2, and Baltic Power—as well as mining, industrial, welding, submersible pump, and stage lighting applications. Sales are conducted through a network of authorized distributors, international sales agents, and national sales representatives.
+
+The TFKable Group emphasizes quality assurance through its accredited Quality Control Department Laboratory in Bydgoszcz (Polish Centre for Accreditation per PN-EN ISO/IEC 17025:2018) and advanced testing at the Extra-High Speed Laboratory in Krakow, where Monospiral Wheel, Festoon, and Drag Chain apparatuses verify cable flexibility, durability, and reliability under dynamic loads. The group also offers the TFPowerPack Mobile mobile energy storage system for emergency and maintenance power needs.
+
+## Known for
+- Documented deliveries to power grid operators
+- Positive results from production process audits
+- Quality Control Laboratory accredited to PN-EN ISO/IEC 17025:2018
+- Advanced dynamic cable testing (Monospiral Wheel, Festoon, Drag Chain)
+- TFPowerPack Mobile mobile energy storage for off-grid applications
+
+## Capabilities
+- Cable distribution across North and South America
+- Sales network management (authorized distributors, agents, representatives)
+- Continuous vulcanization
+- Twisting and braiding
+- Quality control testing (via group laboratories)
+- Custom cable solutions
+
+## Industries
+- Energy (power grid)
+- Offshore wind
+- Mining
+- Industrial
+- Welding
+- Submersible pump
+- Stage lighting
+- Electromobility
+- Public transport
+- Urban mobility
+- Transport infrastructure
+
+## Equipment
+- Continuous vulcanization lines
+- Twisting machines
+- Braiding machines
+- Monospiral Wheel test apparatus
+- Festoon test apparatus
+- Drag Chain test apparatus
+- Extra-High Speed Laboratory (Krakow)
+
+## Certifications
+- PN-EN ISO/IEC 17025:2018-02
+- ICEA S-75-381
+- NEMA WC58
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Founded:** 1987
+- **Ownership:** Subsidiary of TFKable Group
+- **Headquarters:** Lockport, Illinois
+
+<details><summary>Sources</summary>
+
+- Headquarters in Lockport, Illinois -> db
+- Operations began in 1987 -> /about-us
+- Distribution company of TFKable Group -> /about-us
+- Product range: high/extra-high voltage, medium voltage, industrial, mining, welding, flexible cords, submersible pump, stage lighting cables -> /about-us
+- Sales through authorized distributors, international agents, national representatives -> /about-us
+- Production lines: continuous vulcanization, twisting, braiding -> /about-us
+- Quality Control Laboratory in Bydgoszcz accredited per PN-EN ISO/IEC 17025:2018 -> /
+- Extra-High Speed Laboratory in Krakow with Monospiral Wheel, Festoon, Drag Chain tests -> /
+- Offshore wind farm deliveries: Bałtyk 2, Bałtyk 3, Baltica 2, Baltic Power -> /
+- TFPowerPack Mobile mobile energy storage system -> /
+- Certifications: ICEA S-75-381, NEMA WC58 -> /
+- Materials: copper, EPR, XLPE, polyamide, PP, TPE-E, EPDM, etc. -> /
+</details>
+
+---
+
+# Terrasteel Furniture Design LLC
+
+**Old description:** brings you a contemporary Pacific Northwest selection of custom and handcrafted furniture. We create a range of furniture from modern to traditional utilizing steel, non-endangered exotic hardwoods and reclaimed local timbers.
+
+## About
+TerraSteel Furniture Design LLC operates from Bend, Oregon, where it was founded by Kirk Casey. The company is now owned by Justin Penfield, who serves as owner, designer, and fabricator. Penfield, originally from Pennsylvania, moved to Central Oregon in 2012 and joined TerraSteel before taking ownership.
+
+The shop produces custom and handcrafted furniture ranging from modern to traditional styles. Using on-site woodworking, welding, and metal fabrication, the team works with steel, non-endangered exotic hardwoods, and reclaimed local timbers. Product lines include live-edge tables, custom knife blocks, wine racks, and the ARTifacts series. The facility’s size and headcount are not disclosed, but the operation appears to be a small, hands-on studio.
+
+TerraSteel serves residential clients, commercial spaces, restaurants, interior designers, and builders. Examples include custom knife blocks for home kitchens, live-edge dining tables for restaurants, and built-in pieces for commercial interiors. The company also collaborates directly with interior designers and builders on project-specific furniture.
+
+The company emphasizes the “marriage of design and function,” with attention to detail at every step from concept to reality. Penfield notes that owning TerraSteel allows him to fuse fabrication, woodworking, and creative materials daily. The use of sustainable, non-endangered woods and reclaimed timber reflects a commitment to responsible material sourcing.
+
+## Known for
+- On-site woodworking, welding, and metal fabrication
+- Use of non-endangered exotic hardwoods and reclaimed local timbers
+- Custom furniture for residential, commercial, and restaurant settings
+- Award-winning knife block design
+- Direct collaboration with interior designers and builders
+
+## Capabilities
+- Woodworking
+- Welding
+- Metal fabrication
+- Custom furniture design
+- Live edge furniture fabrication
+
+## Industries
+- Residential
+- Commercial
+- Restaurants
+- Interior Designers
+- Builders
+
+## Company details
+- **Company Type:** Manufacturer
+- **Ownership:** Privately owned by Justin Penfield; founded by Kirk Casey
+- **Headquarters:** Bend, Oregon
+
+<details><summary>Sources</summary>
+
+- Company name: Terrasteel Furniture Design LLC -> db
+- Headquarters: Bend, Oregon -> db
+- Description: custom and handcrafted furniture using steel, exotic hardwoods, reclaimed timbers -> db
+- Founder: Kirk Casey -> /about-us
+- Current owner: Justin Penfield (Owner/Designer/Fabricator) -> /about-us
+- Employee: Jut McDaniels (Fabricator) -> /about-us
+- Processes: woodworking, welding, fabrication on-site -> /
+- Materials: steel, non-endangered exotic hardwoods, reclaimed local timbers -> /
+- Product lines: custom knife blocks, wine racks, live edge collection, ARTifacts series -> /
+- Industries served: Residential, Commercial, Restaurants, Interior Designers, Builders -> /
+- Differentiator: marriage of design and function, attention to detail -> /about-us
+- Award-winning knife block -> /
+- Justin Penfield moved to Central Oregon in 2012 -> /about-us
+</details>
+
+---
+
+# Teton Trailer Manufacturing
+
+_skipped: not enough facts_
+
+# Texa France
+
+**Old description:** TexaFrance is an innovative, high-quality gourmet manufacturer of sauces, condiments and unique
+
+## About
+TexaFrance was founded in 2001 in Round Rock, Texas, and operates as a gourmet food manufacturer. The company produces sauces, condiments, and specialty foods from its own kitchens, serving both retail and foodservice channels.
+
+The business offers full-service private label capabilities, handling product formulation, preparation, packaging, labeling, and distribution. Its product line includes pestos, queso, garlic essence, and other flavor-enhanced items designed to shorten prep time for consumers and professional kitchens alike. All products are made on-site using ingredients the company describes as the finest available.
+
+TexaFrance serves grocery retailers, specialty food stores, and foodservice operators, with its products carried in outlets such as Buc-ee's Travel Stores. The company also works with brands seeking private label partners, providing go-to-market support from concept to shelf.
+
+## Known for
+- Full service from labels to packaging to distribution
+- Products made in-house in company kitchens
+- More than 25 years in business
+- Private label manufacturing and go-to-market support
+
+## Capabilities
+- Private label manufacturing
+- Product formulation
+- Food preparation
+- Packaging
+- Labeling
+- Distribution
+- Quality control (HACCP)
+- Organic certification
+- Go-to-market support
+- Customer service
+
+## Industries
+- Gourmet foods
+- Specialty foods
+- Sauces and condiments
+- Private label food manufacturing
+- Retail food
+- Foodservice
+
+## Certifications
+- Organic certified
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 2001
+- **Headquarters:** Round Rock, Texas
+
+<details><summary>Sources</summary>
+
+- Founded in 2001 -> db
+- Headquarters in Round Rock, Texas -> db
+- Manufacturer of sauces, condiments, specialty foods -> homepage
+- Private label services -> homepage
+- HACCP certified, organic certified -> homepage
+- Full service from labels to packaging to distribution -> homepage
+- Products made in-house -> homepage
+- More than 25 years in business -> homepage
+- Products sold at Buc-ee's Travel Stores -> homepage
+- Inc. since 2004 -> homepage
+</details>
+
+---
+
+# Texas Best Solar
+
+**Old description:** At Texas Best Solar, we only work with products that meet our high functional standards and offer an elevated design that enables the panels to seamlessly integrate into your existing structure.
+
+## About
+Texas Best Solar was founded in 2017 in Lewisville, Texas, by a Marine veteran and a custom home builder who shared a vision to change how North Texas homes and businesses generate power. The veteran-owned company began as a local response to rising energy costs and a desire for American-made solar solutions.
+
+The firm provides turn-key solar installation, repair, and service across North Texas, handling design, product sourcing, and project execution. To date, the team has completed more than 400 installations, placing 8,750 panels and securing $2.7 million in customer incentives while saving an estimated 223 million kilowatt-hours.
+
+Texas Best Solar serves residential and commercial customers throughout the region, offering systems that integrate with existing structures. The company sources panels from manufacturers such as Mission Solar Energy, prioritizing American-made and Texas-made products where possible.
+
+The founders emphasize proper communication, setting clear expectations, and delivering a finished product that is both functionally and aesthetically proficient. They differentiate through ethically sourced, high-quality components and a customer-reference program that connects prospects with past clients.
+
+## Known for
+- American-made first product sourcing
+- Ethically sourced, high-quality components
+- Transparent communication and expectation management
+- Customer reference program
+- Veteran-founded, North Texas focus
+
+## Capabilities
+- Solar panel installation
+- Solar system repair
+- Solar maintenance service
+- System design
+- Product sourcing and procurement
+- Turn-key project management
+- Service call response
+- Customer consultation
+
+## Industries
+- Residential solar
+- Commercial solar
+- Renewable energy
+
+## Company details
+- **Company Type:** Installer / service company
+- **Founded:** 2017
+- **Ownership:** Veteran-owned
+- **Headquarters:** Lewisville, Texas
+
+<details><summary>Sources</summary>
+
+- Founded 2017 in Lewisville, Texas by Marine veteran and custom home builder -> /
+- Veteran-owned -> /
+- Solar installation, repair, and service provider in North Texas -> /
+- 8,750 solar panels placed, 400+ jobs completed, 223 million kWh saved, $2.7M incentives secured -> /
+- Sources panels from Mission Solar Energy, prioritizes American-made and Texas-made products -> /
+- Emphasizes proper communication, expectation setting, and functionally/aesthetically proficient finished product -> /
+- Offers customer reference program -> /
+- Headquarters: Lewisville, Texas -> db
+- Website: http://www.texasbestsolar.com -> db
+</details>
+
+---
+
+# Texas Capitol Semiconductor
+
+**Old description:** ”) was founded in 1993 in Austin, Texas and has now been servicing the semiconductor industry for over 30 years.
+
+## About
+Texas Capitol Semiconductor, Inc. (TCS) was founded in 1993 in Austin, Texas. The company now operates from Chandler, Arizona, and has been servicing the semiconductor industry for over 30 years.
+
+Since its founding, TCS has remained at the forefront of high vacuum technology by specializing in the complexities of magnetic levitation technology and controller circuitry and software. The company services and repairs a broad range of turbomolecular (turbo) and cryogenic (cryo) pumps, offering complete service and repair for all turbo pumps and cryo pumps, as well as electronic controller service, technical and field service support 24/7, and rush repair service. Component-level repairs of turbo pump controllers and cryo onboard modules are also performed.
+
+The company serves the semiconductor industry, providing vacuum pump repair solutions to semiconductor companies across North America and Europe.
+
+TCS emphasizes customer success and takes ownership of its products throughout the installation lifecycle, aiming for complete customer satisfaction.
+
+## Known for
+- Specializes in magnetic levitation technology and controller circuitry/software
+- 24/7 technical and field service support
+- Rush repair service available
+- Component-level repairs of turbo pump controllers and cryo onboard modules
+- Serves top-tier semiconductor companies in North America and Europe
+
+## Capabilities
+- Turbo pump service and repair
+- Cryo pump service and repair
+- Electronic controller service and repair
+- Magnetic levitation technology specialization
+- Controller circuitry and software expertise
+- 24/7 technical and field service support
+- Rush repair service
+- Component-level repair of turbo pump controllers
+- Component-level repair of cryo onboard modules
+
+## Industries
+- Semiconductor
+
+## Company details
+- **Company Type:** Installer / service company
+- **Founded:** 1993
+- **Headquarters:** Chandler, Arizona
+
+<details><summary>Sources</summary>
+
+- Founded 1993 in Austin, Texas -> /about
+- Headquartered in Chandler, Arizona -> db
+- Services and repairs turbomolecular and cryogenic pumps -> /about
+- Specializes in magnetic levitation technology and controller circuitry/software -> /about
+- Remained at forefront of high vacuum technology since 1993 -> /about
+- Offers complete turbo pump and cryo pump service and repair -> /
+- Offers electronic controller service -> /
+- Provides 24/7 technical and field service support -> /
+- Offers rush repair service -> /
+- Performs component-level repairs of turbo pump controllers and cryo onboard modules -> db
+- Serves top-tier semiconductor companies in North America and Europe -> /about
+- Emphasizes customer success and ownership of products before, during, after installation -> /
+- States guarantee is best in business and goal is complete customer satisfaction -> /
+</details>
+
+---
+
+# Texas Components Corporation
+
+**Old description:** including custom designs, packages, & multi-chip modules featuring
+
+## About
+Texas Components Corporation was founded in 1996 in Houston, Texas. The company operates as a U.S.-based manufacturer of precision discrete electronic components, custom packages, and proprietary multi-chip modules. No ownership structure or founders are disclosed in public materials.
+
+The company specializes in high-temperature, low-temperature, and high-precision or high-power applications. It is the largest independent manufacturer and marketer of Bulk Metal® Foil resistors in the United States, with over 30 years of experience in complex designs. As a licensed and certified Precision Center, Texas Components is an authorized part of the Vishay Precision Group global supply chain, producing and distributing standard Vishay Foil Resistors alongside its own custom designs and derivative products. The firm also provides custom design and testing services, including pre- and post-manufacturing operations such as parametric screening, set-matching, power conditioning, burn-in, and life testing.
+
+Texas Components serves customers in test and measurement, calibration, and electronics manufacturing who require precision resistors, calibration standards, RTD and thermistor accessories, strain gauge and bridge circuit accessories, and special shunt resistors. Its products are used in applications where the digital world must interface with the real analog world, including high-reliability and extreme-environment scenarios.
+
+The company differentiates itself through its no-minimum-order policy, the possibility of delivery in less than one week for many designs, stocking programs, and just-in-time delivery services. Its experienced applications engineers and sales staff support customers from design through production.
+
+## Known for
+- Largest independent U.S. manufacturer of Bulk Metal® Foil resistors
+- Licensed and certified Vishay Precision Group Precision Center
+- Authorized member of Vishay Precision Group global supply chain
+- No minimum order quantity
+- Delivery in less than one week for many designs
+- Stocking programs and just-in-time delivery
+- Extensive pre- and post-manufacturing testing services (parametric screening, set-matching, power conditioning, burn-in, life testing)
+
+## Capabilities
+- Custom design and testing services
+- Pre and post manufacturing operations
+- Parametric screening
+- Set-matching
+- Power conditioning
+- Burn-in testing
+- Life testing
+- Multi-chip module design and manufacturing
+- Bulk Metal Foil resistor manufacturing
+- Resistor calibration standards production
+- RTD and thermistor accessory manufacturing
+- Strain gauge and bridge circuit accessory manufacturing
+- Special shunt resistor manufacturing
+- Original Naked Bulk Metal Foil resistor manufacturing
+- Vishay Foil resistor distribution
+
+## Certifications
+- Vishay Precision Group licensed and certified Precision Center
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1996
+- **Headquarters:** Houston, Texas
+
+<details><summary>Sources</summary>
+
+- Founded in 1996 -> db
+- Headquarters in Houston, Texas -> db
+- Manufacturer of precision electronic components -> /
+- Custom packages and multi-chip modules -> /
+- Specializing in high temperature, low temperature, high precision, high power applications -> /
+- Largest independent manufacturer of Bulk Metal Foil resistors in USA -> /
+- Over 30 years experience -> /
+- Licensed and certified Precision Center -> /
+- Authorized part of Vishay Precision Group global supply chain -> /
+- No minimum order quantity -> /
+- Delivery in less than one week possible -> /
+- Stocking programs and JIT delivery -> /
+- Pre and post manufacturing operations and testing services (parametric screening, set-matching, power conditioning, burn-in, life-tests) -> /
+- Products: resistors, calibration standards, RTD/thermistor accessories, strain gauge accessories, shunt resistors -> /
+</details>
+
+---
+
+# Texas Direct Solar
+
+**Old description:** Free quote. Licensed electrical contractor. Pre-removal inspection included. Houston's trusted solar team since 2017.
+
+## About
+Texas Direct Solar is a family-owned solar installation and service company based in Houston, Texas. Founded in 2017, the business was started with the goal of providing honest, affordable solar energy solutions to local homeowners and businesses. The company operates under Texas Electrical Contractor License #34757 and employs a fully Houston-based crew.
+
+The company offers a full range of solar services including custom residential and commercial system design and installation, battery backup integration (Tesla Powerwall, Generac PWRcell, Enphase, Franklin), solar panel detach-and-reset for roof replacements, and repair and maintenance for all major brands such as SunPower, Enphase, SolarEdge, and Tesla. They handle permitting, utility interconnection, and provide annual maintenance plans. Their licensed electricians perform pre-removal inspections, coordinate directly with roofing contractors, and conduct post-reinstall system testing.
+
+Texas Direct Solar serves residential customers across Houston and surrounding counties (Harris, Fort Bend, Montgomery, Brazoria, Chambers, Galveston, Liberty) as well as commercial clients including warehouses, industrial facilities, retail and restaurant spaces, office buildings, churches, nonprofits, and multi-family housing. They also work with insurance companies for claim documentation.
+
+The company differentiates itself through its family-owned, community-first approach, emphasizing straight talk, fair upfront pricing, and long-term accountability. They are certified by Enphase, Generac, Tesla, and Franklin, and hold OSHA 10 certification. Their detach-and-reset service includes a pre-removal inspection to document issues upfront, ensuring warranties remain valid.
+
+## Known for
+- Pre-removal inspection before any panel removal
+- Licensed electrical contractor (Texas #34757) handling all disconnection/reconnection
+- Direct coordination with roofing contractors during detach & reset
+- Service for all major brands including SunPower, Enphase, SolarEdge, Tesla, Generac, Franklin
+- Same-day diagnostics available for underperforming systems
+
+## Capabilities
+- Residential solar system design and installation
+- Commercial solar system design and installation
+- Battery backup system installation (Tesla Powerwall, Generac PWRcell, Enphase, Franklin)
+- Solar panel detach and reset for roof replacement
+- Solar repair and maintenance (inverter, panel, wiring)
+- System diagnostics and performance troubleshooting
+- Annual solar maintenance plans
+- Electrical contracting services (Texas license #34757)
+- Permitting and utility interconnection management
+- Insurance claim documentation for solar damage
+- Monitoring system setup and 25-year monitoring included
+
+## Industries
+- Residential construction
+- Commercial construction
+- Industrial facilities
+- Retail and hospitality
+- Religious institutions
+- Multi-family housing
+- Renewable energy installation
+- Electrical contracting
+- Insurance restoration
+
+## Equipment
+- Tesla Powerwall (13.5 kWh)
+- Generac PWRcell
+- Enphase microinverters
+- SolarEdge inverters
+- SunPower solar panels
+- Franklin Battery systems
+- SPAN Smart Panel
+
+## Certifications
+- Texas Electrical Contractor License #34757
+- Enphase Certified
+- Generac Certified Clean Energy Installer
+- Tesla Solar Certified
+- Franklin Battery Authorized
+- OSHA 10 Certified
+
+## Company details
+- **Company Type:** Installer / service company
+- **Founded:** 2017
+- **Ownership:** Family-owned
+- **Headquarters:** Houston, Texas
+
+<details><summary>Sources</summary>
+
+- Founded 2017 -> db
+- Family-owned -> /about-us
+- Headquarters Houston, Texas -> /about-us
+- Texas Electrical Contractor License #34757 -> /about-us and /
+- Services: residential/commercial solar installation, battery backup, detach & reset, repair & maintenance -> / and /about-us
+- Brands serviced: SunPower, Enphase, SolarEdge, Tesla, Generac, Franklin -> / and /about-us
+- Certifications: Enphase Certified, Generac Certified Clean Energy Installer, Tesla Solar Certified, Franklin Battery Authorized, OSHA 10 -> /about-us
+- Service areas: Houston, Katy, The Woodlands, Sugar Land, Pearland, Cypress, Baytown, Spring, Pasadena, Conroe, League City + surrounding counties -> /about-us
+- Commercial customer types: warehouses, industrial, retail/restaurant, office, church/nonprofit, multi-family -> /
+- Pre-removal inspection included -> /
+- Coordinate directly with roofing contractor -> /
+- Same-day diagnostics available -> /
+- SunPower orphaned systems serviced -> /
+- Insurance claim documentation provided -> /
+- 100% Houston-based crew -> /about-us
+- Tier 1 materials on every job -> /about-us
+- 30% commercial ITC active, MACRS depreciation, construction deadline July 4, 2026 -> /
+- SPAN Smart Panel mentioned -> /
+- Tesla Powerwall 13.5 kWh -> /
+- Enphase microinverters -> /
+- SolarEdge -> /
+- SunPower -> /
+- Generac PWRcell -> /about-us
+- Franklin Battery -> /about-us
+- LinkedIn URL -> db
+</details>
+
+---
+
+# Texas Engineered Solar
+
+**Old description:** San Antonio, TX & Surrounding Areas — Residential & Commercial
+
+## About
+Texas Engineered Solar (TXEN Solar) is based in San Antonio, Texas. Founded in 2019 as a subsidiary of Engineering & Installation (E&I) Contractors, a telecommunications construction company established in 2001, the business is certified as a Veteran-Owned Small Business (VOSB) and recognized by the Texas Veterans Commission as a Veteran-Owned Business. Its founder served in the U.S. Air Force, and the company is locally owned and operated.
+
+TXEN Solar provides residential and commercial solar installation, battery backup systems, standby generator integration, and solar repair and diagnostics. The team handles custom-engineered system design, permitting, utility coordination, and code-compliant installation. They service all brands of solar equipment, offering inverter repair and replacement, panel replacement, wiring and grounding repairs, and battery system troubleshooting. The company operates across San Antonio, Boerne, New Braunfels, Schertz, and surrounding areas.
+
+The primary customers are residential homeowners seeking energy independence and backup power, along with commercial facilities aiming to reduce operating costs. TXEN Solar also serves homeowners with underperforming or orphaned systems installed by other companies, providing diagnostics and repairs regardless of original installer.
+
+The company emphasizes engineering precision over sales volume, with direct access to local experts and a commitment to honest recommendations. Its veteran-owned heritage brings military discipline to every installation, and the team’s background in solar manufacturing, construction, and structural and electrical engineering informs a technical approach to system design and long-term performance.
+
+## Known for
+- Certified Veteran-Owned Small Business (VOSB) and Texas VOB
+- Direct access to local experts — no call centers
+- Repairs any brand of solar system, including orphaned installs
+- Engineering-backed design with structural and electrical expertise
+- Military discount for veterans and active duty service members
+
+## Capabilities
+- Residential solar installation
+- Commercial solar installation
+- Battery backup system installation
+- Standby generator integration
+- Solar repair and diagnostics
+- Inverter repair and replacement (all brands)
+- Panel replacement and roof penetration sealing
+- Wiring, grounding, and code compliance repairs
+- Battery system troubleshooting and replacement
+- Annual maintenance plans
+- Permitting and utility coordination
+- HOA submission handling
+- Custom system engineering and design
+- Energy usage analysis and production estimation
+
+## Industries
+- Residential
+- Commercial
+
+## Equipment
+- Briggs & Stratton generators
+- Generac generators
+- Kohler generators
+
+## Certifications
+- Veteran-Owned Small Business (VOSB)
+- Texas Veterans Commission Veteran-Owned Business (VOB)
+
+## Company details
+- **Company Type:** Installer / service company
+- **Founded:** 2019
+- **Ownership:** Veteran-owned
+- **Headquarters:** San Antonio, Texas
+
+<details><summary>Sources</summary>
+
+- Headquarters: San Antonio, Texas -> db
+- Founded 2019 (Since 2019) -> /about-us
+- Parent company E&I Contractors founded 2001 -> /about-us
+- Veteran-Owned Small Business (VOSB) certified -> /about-us
+- Texas Veterans Commission Veteran-Owned Business (VOB) certified -> /about-us
+- Founder served in US Air Force -> /about-us
+- Services: residential/commercial solar, battery backup, generator integration, repair -> /
+- Service area: San Antonio, Boerne, New Braunfels, Schertz, surrounding areas -> /
+- Repairs any brand, including orphaned systems -> /
+- Generator brands: Briggs & Stratton, Generac, Kohler -> /
+- Engineering background: solar manufacturing, construction, structural/electrical engineering -> /about-us
+- Direct access to local experts, no call centers -> /about-us
+- Military discount available -> /about-us
+- Precision Over Speed, Honest Recommendations, Engineering-Backed Decisions, Rooted in San Antonio -> /about-us
+</details>
+
+---
+
+# Texas Metal Specialty Co
+
+**Old description:** " I needed a specialty piece of metal for my new home. I was referred to TMS and half expected them to laugh since it was a pretty small job. To my delight, Carl, the company president, sent me a note that they would be happy to do the job.  Two days later I had my piece and it looks fantastic in my kitchen.  If their attention to detail and customer service is like this on a small project, I will be super confident to utilize them for projects I have in my workplace."
+
+## About
+Texas Metal Specialty Company operates from Houston, Texas, where it has been owned and operated for over 40 years by the Jackowski and Finney families. The business is family-owned, with Mark and Carl actively managing daily operations.
+
+The shop provides a range of metal fabrication services, including waterjet cutting, laser cutting, robotic welding, brake and roll forming, shear and punch, saw cutting, welding, general fabrication, and truck and van outfitting. It works with stainless steel, aluminum, carbon steel, and specialty alloys, handling projects from prototypes to full production runs.
+
+Its customer base spans medical, government, education, HVAC, oil and gas, food service, OEM manufacturing, warehousing, plumbing, construction, high-end residential, retail, and fleet upfitting sectors.
+
+The company emphasizes meticulous planning using Solid Edge and AutoCAD, combines advanced machinery with skilled manual processes, and maintains management controls to ensure smooth project execution. It aims to deliver quality products and exceptional service, striving to get it right the first time.
+
+## Known for
+- Meticulous planning with Solid Edge and AutoCAD
+- Advanced machinery paired with skilled manual processes
+- Management controls for smooth project execution
+- Family-owned with over 40 years of experience
+- Commitment to get it right the first time
+
+## Capabilities
+- Waterjet cutting
+- Laser cutting
+- Robotic welding
+- Brake and roll forming
+- Shear and punch
+- Saw cutting
+- Welding
+- General fabrication
+- Truck and van outfitting
+
+## Industries
+- Medical
+- Government
+- Schools
+- HVAC
+- Oil & Gas
+- Food Service
+- OEM Manufacturing
+- Warehousing and Distribution
+- Plumbing
+- Construction
+- High-End Residential
+- Retail
+- Fleet Upfitting
+
+## Company details
+- **Company Type:** Manufacturer
+- **Ownership:** Family-owned
+- **Headquarters:** Houston, Texas
+
+<details><summary>Sources</summary>
+
+- Headquarters in Houston, Texas -> db
+- Family-owned for over 40 years by Jackowski and Finney -> /about
+- Mark and Carl actively involved in daily operations -> /about
+- Metal fabrication services: waterjet cutting, laser cutting, robotic welding, brake and roll forming, shear and punch, saw cutting, welding, general fabrication, truck and van outfitting -> /services
+- Materials: Stainless Steel, Aluminum, Carbon Steel, Specialty Alloys -> /about
+- Industries served: Medical, Government, Schools, HVAC, Oil & Gas, Food Service, OEM Manufacturing, Warehousing and Distribution, Plumbing, Construction, High-End Residential, Retail, Fleet Upfitting -> /about
+- Project range: prototypes to production runs -> /about
+- Meticulous planning using Solid Edge and AutoCAD -> /about
+- Advanced machinery combined with skilled manual processes -> /about
+- Management controls for smooth project execution -> /about
+- Goal to provide highest quality products and exceptional customer service -> /about
+</details>
+
+---

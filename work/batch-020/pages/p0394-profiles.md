@@ -1,0 +1,618 @@
+# Ngage Medical Mfg. LLC
+
+**Old description:** Focused primarily on the orthopedics market, Ngage Medical is a contract manufacturing organization (CMO) built on a strong foundation of medical device expertise with over 100 years of combined experience in simple and complex instrument and implant manufacturing.
+
+## About
+Ngage Medical Mfg. LLC operates from Hernando, Mississippi, a location chosen for its proximity to a major medical device hub. The company was launched by Dale Cole, serving as CEO and owner, and Josh Lee, general manager and partner, who brought together a team of experienced medical device professionals they had worked with for decades. The business is locally owned and operated, with leadership actively involved on the shop floor.
+
+As a contract manufacturing organization focused on the orthopedics market, Ngage Medical specializes in precision manufacturing of surgical instruments and implants ranging from simple to complex designs. The shop works with stainless steel, titanium, PEEK, and Radel, and emphasizes validated processes including passivation, cleaning, and inspection controls supported by a JobBoss/E2 ERP-QMS system. The company highlights its use of PFMEA and DOE methods to ensure quality.
+
+The primary customers are medical device OEMs seeking a manufacturing partner for orthopedic products. Ngage Medical positions itself as a collaborative partner rather than a transactional supplier, sharing resources, expertise, and risk with clients from early development through production.
+
+The founders built the company on a foundation of trust and partnership, aiming to deliver lead times that outpace many competitors while maintaining rigorous quality standards. Their quality management system is certified to ISO 13485 and compliant with ISO 14971 and FDA regulations, reflecting a commitment to meeting customer expectations through continual improvement.
+
+## Known for
+- Lead times faster than many contract manufacturers
+- Collaborative partnership model sharing resources and risk
+- Locally owned with hands-on leadership on site
+- ISO 13485 certified quality management system
+- Validated passivation and cleaning processes
+
+## Capabilities
+- Precision manufacturing of orthopedic instruments and implants
+- Passivation process validation
+- Cleaning process validation
+- PFMEA (Process Failure Mode Effects Analysis)
+- DOE (Design of Experiments)
+- Inspection and control planning
+- Equipment validation (EIQ/EOQ)
+
+## Industries
+- Orthopedics
+- Medical devices
+
+## Certifications
+- ISO 13485
+- ISO 14971
+- FDA Registered
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Ownership:** Locally-owned and operated
+- **Headquarters:** Hernando, Mississippi
+
+<details><summary>Sources</summary>
+
+- Headquarters in Hernando, Mississippi -> /about-us
+- Founded by Dale Cole (CEO/Owner) and Josh Lee (General Manager/Partner) -> /about-us
+- Locally-owned and operated with hands-on leadership -> /about-us
+- Contract manufacturing organization focused on orthopedics market -> /
+- Specializes in precision manufacturing using stainless steel, titanium, PEEK, and Radel -> /
+- Manufactures simple to complex orthopedic surgical instruments and implants -> /about-us
+- Serves medical device OEMs -> /
+- Emphasizes trust, partnerships, short lead times, commitment to schedules -> /about-us
+- ISO 13485 certified -> /quality
+- ISO 14971 compliant -> /quality
+- FDA registered and compliant -> /quality
+- Validated passivation process -> /quality
+- Validated cleaning process -> /quality
+- Uses JobBoss/E2 ERP-QMS system -> /quality
+- Employs PFMEA and DOE methods -> /quality
+- Inspection and control plans -> /quality
+</details>
+
+---
+
+# Nichia America Corporation
+
+**Old description:** Nichia America Corporation is a 100% subsidiary of Nichia Corporation, Japan, the global leader in LEDs and Laser Diodes, and is responsible for sales and marketing in North and South America.
+
+## About
+Nichia America Corporation operates from its headquarters in Wixom, Michigan, serving as the North and South American sales and marketing arm of Nichia Corporation, the Japanese pioneer in LED and laser diode technology. Established as a wholly owned subsidiary, the company manages regional distribution and technical support for the parent's portfolio of light-emitting diodes, laser diodes, and advanced materials.
+
+The subsidiary does not manufacture products itself; instead, it provides application engineering, sales coordination, and quality assurance liaison for Nichia's LED, laser diode, cathode material, magnetic material, and functional material lines. Its Detroit-area headquarters houses sales, engineering, and administrative staff, while additional sales offices in Atlanta, Los Angeles, and San Jose cover key automotive, lighting, and display markets.
+
+Nichia America serves customers in automotive, general lighting, display, and ultraviolet (UV) sectors. Automotive programs leverage IATF 16949-certified quality systems for RGB laser diodes and high-reliability LEDs, while UV LED offerings target mercury-free sterilization and curing applications. The company also supports display backlighting and specialty lighting projects across the Americas.
+
+The operation exists to extend Nichia Corporation's global technology leadership into the Western Hemisphere, offering local inventory, design-in assistance, and compliance with automotive quality standards. Its differentiation rests on direct access to the parent's R&D pipeline and a field-based engineering team that works alongside OEMs and tier suppliers.
+
+## Known for
+- Wholly owned subsidiary of the global LED and laser diode leader
+- IATF 16949 certified quality management for automotive applications
+- Field sales and engineering offices in Detroit, Atlanta, Los Angeles, and San Jose
+- Portfolio spans LEDs, laser diodes, cathode materials, magnetic materials, and functional materials
+
+## Capabilities
+- Sales and marketing of LEDs and laser diodes
+- Application engineering for automotive, lighting, display, UV
+- Quality assurance coordination (IATF 16949)
+
+## Industries
+- Automotive
+- Lighting
+- Display
+- UV
+
+## Certifications
+- IATF 16949
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Ownership:** Wholly owned subsidiary of Nichia Corporation (Japan)
+- **Headquarters:** Wixom, Michigan
+
+<details><summary>Sources</summary>
+
+- 100% subsidiary of Nichia Corporation, Japan -> page '/'
+- Headquarters in Wixom, Michigan -> page '/'
+- Sales offices in Atlanta, Los Angeles, San Jose -> page '/'
+- Focus markets: Automotive, Lighting, Display, UV -> page '/'
+- IATF16949 certification -> db
+- Products: LEDs, Laser Diodes, Cathode Materials, Magnetic Materials, Functional Materials -> page '/'
+- Global leader in LEDs and Laser Diodes -> page '/'
+</details>
+
+---
+
+# Nichols Electronics
+
+**Old description:** We make the very best electronic music boxes in the ice cream vending industry since 1957.  Not only do we have a long history at Nichols Electronics Company, but we’ve also got a bright future with new models on the drawing board.
+
+## About
+Nichols Electronics Company was established in 1957 in Minneapolis, Minnesota, and is now headquartered in Richfield, Minnesota. The business remains a third-generation family-owned and operated company.
+
+The company manufactures electronic music boxes specifically for ice cream trucks across the United States. Its product line includes a range of music boxes designed to be heard above background noise in both urban and rural settings, with distinctive tunes recognized nationwide.
+
+Nichols Electronics serves the ice cream vending industry, supplying music boxes to ice cream truck operators throughout the United States. Its customers include independent vendors and fleets that rely on the recognizable melodies to attract customers.
+
+It continues to develop new models to meet evolving vendor needs.
+
+## Known for
+- Distinctive sound immediately recognizable nationwide
+- Tunes known across the country and around the world
+- Long-standing customer loyalty
+- New models in development
+
+## Capabilities
+- Electronic music box manufacturing
+
+## Industries
+- Ice cream vending
+- Ice cream trucks
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1957
+- **Ownership:** Family-owned
+- **Headquarters:** Richfield, Minnesota
+
+<details><summary>Sources</summary>
+
+- Founded 1957 in Minneapolis, Minnesota -> /about-us
+- Third-generation family-owned and operated -> /about-us
+- Manufactures electronic music boxes for ice cream trucks -> /about-us
+- Headquartered in Richfield, Minnesota -> db
+- Serves ice cream vending industry in United States -> /about-us
+- Distinctive sound recognized nationwide -> /about-us
+- Goal: highest quality at best price -> /about-us
+- New models in development -> /
+</details>
+
+---
+
+# Nichols Portland, LLC
+
+**Old description:** Nichols Portland, Inc. unites specialized divisions under one powerful brand, delivering advanced manufacturing solutions across industries and applications. From sintered metals and pumps to precision valves, MIM, and additive manufacturing, our technologies are designed to meet the needs of every customer — efficiently, reliably, and at scale.
+
+## About
+Nichols Portland, Inc. (operating as Nichols Portland, LLC) is headquartered in Portland, Maine, with additional manufacturing facilities in Pennsylvania and Michigan. The company traces its roots back more than 120 years and is credited with pioneering the world's first gerotor. While no founding year or founder names are disclosed, the business has evolved into a multi-division manufacturer uniting sintered metals, pumps, precision valves, metal injection molding, and additive manufacturing under one brand.
+
+The company produces gerotors, pumps, specialty valves, powder metal components, and metal injection molded parts, and offers metal additive manufacturing, custom machining, and product testing and analysis. Its capabilities span from prototyping through full-scale production, supported by engineering services that include design guidance, pump analysis, and application-specific manufacturing support. Facilities are described as state-of-the-art across three states, though headcount, floor space, and annual volumes are not published.
+
+Nichols Portland serves OEMs in automotive, medical, industrial, off-highway, energy, construction, agriculture, marine, and heavy-truck markets. Concrete examples include fuel injectors, turbocharger and valve components, EV cooling and oil-circulation parts, gears, bearings, bushings, and filters for heavy machinery; fluid-transfer and power-generation components for energy; gerotor pumps for oil-and-gas pipelines and construction equipment such as cranes and backhoes; hydraulic components for agricultural machinery; stainless-steel parts for marine transmissions and onboard grinder pumps; and drivetrain components for on- and off-highway trucks.
+
+The company positions itself as a single partner for engineering, testing, and manufacturing, emphasizing 120-plus years of experience, U.S.-based production, certified quality systems, and long-term OEM partnerships. Its core values — safety, quality, delivery, conservation, and teamwork — frame a mission to deliver innovative manufacturing solutions to global customers.
+
+## Known for
+- Pioneered the world's first gerotor
+- 120+ years of engineering and manufacturing experience
+- U.S.-based engineering and production across facilities in Maine, Pennsylvania, and Michigan
+- One partner for engineering, testing, and manufacturing from design through full-scale production
+- Certified quality systems and processes
+
+## Capabilities
+- Sintered metal manufacturing
+- Gerotor manufacturing
+- Pump manufacturing
+- Metal injection molding (MIM)
+- Metal additive manufacturing
+- Specialty valve manufacturing
+- Custom machining
+- Product testing and analysis
+- Engineering design support
+- Rapid prototyping
+- Pump analysis
+- Application-specific manufacturing support
+
+## Industries
+- Automotive
+- Medical
+- Industrial
+- Off-highway
+- Energy
+- Construction
+- Agriculture
+- Marine
+- Heavy Truck
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Portland, Maine
+
+<details><summary>Sources</summary>
+
+- Headquartered in Portland, Maine with facilities in Pennsylvania and Michigan -> /
+- Over 120 years of engineering and manufacturing experience -> /
+- Pioneered the world's first gerotor -> /
+- Capabilities: sintered metals, pumps, precision valves, MIM, additive manufacturing, custom machining, testing -> /
+- Industries served: automotive, medical, industrial, off-highway, energy, construction, agriculture, marine, heavy truck -> /
+- Specific components: fuel injectors, turbocharger components, EV cooling, oil circulation, gearbox lubrication, gears, bearings, bushings, pump components, filters -> /
+- Engineering support from design through delivery, rapid prototyping via metal additive manufacturing -> /
+- Core values: Safety, Quality, Delivery, Conservation, Teamwork -> /about-us
+- Memberships: Metal Powder Industries Federation, Powdered Metallurgy Parts Association, etc. -> /about-us
+- Mission: Innovative manufacturing company utilizing technology for global customers -> /about-us
+</details>
+
+---
+
+# Nick's Wood Shop LLC
+
+**Old description:** We offer FREE estimates within a 60-mile radius of Wakefield, Nebraska.
+
+## About
+Nick's Wood Shop LLC was founded in 2015 in Wakefield, Nebraska, by Nick Sebade. The company operates from a facility at 504 East 9th Street, serving a 100-mile radius around Wakefield with free estimates.
+
+The shop produces custom cabinets, countertops, and furniture pieces, handling design, fabrication, and installation. The team brings a combined 40 years of cabinet-making and carpentry experience, emphasizing hand-selected materials and dovetail drawer construction. To date, they have completed projects for over 200 customers.
+
+The business primarily serves residential construction and kitchen-and-bath remodeling projects, working with homeowners and builders on new builds and renovations. Clients engage the shop for complete kitchen cabinetry, bathroom vanities, and standalone furniture items, with the company sourcing hardware and countertop materials to simplify procurement.
+
+The company distinguishes itself through its one-stop-shop model, providing cabinets, countertops, and hardware from a single source, backed by a knowledge base built on decades of trade experience. Free on-site estimates within the service area further reduce friction for prospective clients.
+
+## Known for
+- Combined 40 years of cabinet-making and carpentry experience
+- Hand-selected materials and dovetail drawer construction
+- One-stop shop for cabinets, countertops, and hardware
+- Free estimates within 100-mile radius of Wakefield, Nebraska
+- Over 200 customers served
+
+## Capabilities
+- Custom cabinet making
+- Furniture making
+- Countertop fabrication
+- Design services
+- Installation
+- Dovetail drawer construction
+- Material selection
+- Hardware sourcing
+
+## Industries
+- Residential construction
+- Kitchen and bath remodeling
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 2015
+- **Headquarters:** Wakefield, Nebraska
+
+<details><summary>Sources</summary>
+
+- Founded in 2015 -> db
+- Headquarters Wakefield, Nebraska -> db
+- Founder Nick Sebade -> /
+- Free estimates within 100-mile radius -> /
+- Custom cabinets, countertops, furniture -> /
+- Combined 40 years experience -> /
+- Hand-selected materials, dovetail drawers -> /
+- Over 200 customers served -> /
+- One-stop shop for cabinets, countertops, hardware -> /
+- Kitchen cabinets and countertops -> /
+</details>
+
+---
+
+# Nicodemus Sheet Metal & Fabrication
+
+**Old description:** Nicodemus Sheet Metal & Fabrication is the sheet metal fabrication company you can trust in Fort Smith, AR. We do custom fabrication,
+
+## About
+Nicodemus Sheet Metal & Fabrication operates from Fort Smith, Arkansas, where it was founded in 1955. The company has continued as a sheet metal fabrication specialist for decades, though the original founders are not identified in available records.
+
+The shop focuses on custom sheet metal fabrication and restoration, working with copper and steel to produce period-correct components. Its capabilities include forming, welding, and finishing of sheet metal parts, with an emphasis on hand craftsmanship described as passed down from the 1870s. No facility size, headcount, or annual volume figures are published.
+
+The company serves customers needing historical restoration, architectural sheet metal, and custom fabrication projects. Specific industries or named clients are not disclosed in the available information.
+
+Nicodemus highlights its period-correct fabrication approach and the continuity of craftsmanship as distinguishing factors, positioning itself as a source for authentic restoration work.
+
+## Known for
+- Period-correct fabrication for historical restoration
+- Hand craftsmanship tradition dating to the 1870s
+- Custom sheet metal fabrication in copper and steel
+- Sheet metal restoration services
+
+## Capabilities
+- Sheet metal fabrication
+- Sheet metal restoration
+- Copper fabrication
+- Steel fabrication
+- Period-correct fabrication
+- Custom fabrication
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1955
+- **Headquarters:** Fort Smith, Arkansas
+
+<details><summary>Sources</summary>
+
+- Location: Fort Smith, Arkansas -> db
+- Founded: 1955 -> db
+- Business type: sheet metal fabrication company -> db description
+- Capabilities: Sheet Metal Fabrication & Restoration, Copper & Steel Sheet Metal Fabrication, period-correct fabrication -> db capabilities
+- Materials: Copper, Steel -> db capabilities
+- Craftsmanship claim: quality craftsmanship passed down from the 1870s -> db products
+</details>
+
+---
+
+# Nicolet Plastics LLC
+
+**Old description:** Nicolet Plastics specializes in low-to-high-volume plastic injection molding for a wide range of industries including industrial, medical, marine, aerospace, & consumer products. Count on our expertise in engineering and development support to ensure your timely product launch.
+
+## About
+Nicolet Plastics operates from two Wisconsin facilities: a 41,000-square-foot plant in Mountain and a 31,000-square-foot plant in Jackson. The company was formed in 1986 when its founders, who began as a mold-making shop in the late 1980s, combined their tooling and molding operations under one name.
+
+The molder runs 46 injection molding presses ranging from 30 to 610 tons across both sites, supported by advanced temperature controllers and real-time monitoring software. Core capabilities include custom plastic injection molding, specialized automated insert molding cells, tight-tolerance and micro molding, and additive manufacturing via Carbon 3D plastic printing and Mantle 3D metal printing. Post-molding services encompass CNC machining, ultrasonic and vibration welding, pad printing, over molding, heat staking, and both manual and automated assembly. The in-house tool room maintains customer molds and assists with design improvements, while engineering support covers design for manufacturability, prototype development, and metal-to-plastic conversion.
+
+Nicolet serves equipment manufacturers in industrial, medical, marine, aerospace, consumer products, commercial goods, and sporting goods sectors. Its customer base includes well-known companies requiring complex parts molded from commodity and engineered resins.
+
+The company highlights its cross-trained workforce and customer education program—recognized by Plastics News as a Best Place to Work for 2026 and a 2016 Insight Innovation Award winner for training. The tool-making heritage remains a differentiator, enabling mold maintenance and part-design optimization that reduce lead times and cost.
+
+## Known for
+- 46 injection molding presses (30–610 tons) across two Wisconsin facilities
+- In-house tool-making shop for mold maintenance and part-design improvement
+- Carbon 3D plastic printing and Mantle 3D metal printing for rapid prototyping and production
+- Specialized automated insert molding cells for dedicated production
+- Free customer training through Nicolet Plastics University
+
+## Capabilities
+- Plastic injection molding
+- Insert molding
+- Micro molding
+- Tight tolerance molding
+- Additive manufacturing (Carbon 3D printing)
+- Additive manufacturing (Mantle metal printing)
+- CNC machining
+- Ultrasonic welding
+- Vibration welding
+- Pad printing
+- Over molding
+- Heat staking
+- Assembly
+- Sub-assembly
+- Tooling support
+- Prototype support
+- Design for manufacturability
+- Metal-to-plastic conversion
+- Post-molding operations
+- Hot plate welding
+- Rapid tooling
+- Engineering & product support
+- Value-added operations
+
+## Industries
+- Industrial
+- Medical
+- Marine
+- Aerospace
+- Consumer products
+- Commercial goods
+- Sporting goods
+
+## Equipment
+- 46 injection molding presses (30-610 tons)
+- Carbon 3D printer
+- Mantle 3D metal printer
+- Advanced temperature controllers
+- Real-time monitoring software
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1986
+- **Headquarters:** Mountain, Wisconsin
+
+<details><summary>Sources</summary>
+
+- Founded in 1986 -> /about
+- Two facilities in Mountain and Jackson, Wisconsin -> /about
+- 41,000 sq ft Mountain facility, 31,000 sq ft Jackson facility -> /about
+- 46 injection molding presses 30-610 tons -> /about
+- Industries served: industrial, medical, marine, aerospace, consumer products, commercial goods, sporting goods -> /about, /
+- Capabilities: injection molding, insert molding, micro molding, additive manufacturing (Carbon, Mantle), CNC machining, welding, assembly, etc. -> /, /services
+- Materials: over 200 commodities and engineering resins -> /services
+- Plastics News Best Places to Work 2026 -> /about
+- 2016 Insight Innovation Award for employee training -> /about
+- Tool-making shop maintains molds and improves part design -> /about
+- Nicolet Plastics University free training -> /services
+- Metal-to-plastic conversion -> /services
+- Design for manufacturability -> /services
+- Rapid tooling -> /services
+- Headquarters: Mountain, Wisconsin -> db
+</details>
+
+---
+
+# Norseman Designs West
+
+**Old description:** Mountain Living · Cowgirl Magazine · Log Home Living · Big Sky Journal · Cowboys & Indians
+
+## About
+Norseman Designs West operates from Cody, Wyoming, where it was founded in 1971 by John Gallis. Before establishing the shop, Gallis spent 14 years as Bloomingdale's chief high-end cabinetmaker in New York. The business remains family-run, with his son Ian Gallis joining full-time 17 years ago after working alongside his father for two decades.
+
+The company produces custom Molesworth-style furniture and luxury ranch pieces, a specialization it has held for the past 27 years. Each item is built in their Cody showroom and workshop using walnut, juniper, and distinctive burl wood for legs and drawer pulls. Details include leather upholstery, hand-painted panels, rawhide-sculpted accents, Chimayo woven textiles, and half-round pole construction. They accept designs ranging from formal drawings to napkin sketches.
+
+Clients are primarily high-end residential owners and interior designers seeking authentic Western ranch aesthetics. The firm's work has been featured in Mountain Living, Cowgirl Magazine, Log Home Living, Big Sky Journal, and Cowboys & Indians. Projects span one-off commissions to full ranch furnishings, all tailored to individual rustic style preferences.
+
+Gallis describes their philosophy simply: "We build furniture as if it were for ourselves. If it's not good enough for our house, it's not good enough for the client." That standard, combined with the ability to translate rough ideas into finished pieces, has sustained the shop for over five decades.
+
+## Known for
+- Build furniture to personal-household standard
+- Accept designs from napkin sketches
+- 27+ years specializing in Molesworth style
+- Incorporate walnut and juniper accents
+- Featured in national western luxury publications
+
+## Capabilities
+- Custom furniture design
+- Molesworth style reproduction
+- Woodworking (walnut, juniper)
+- Burl wood detailing
+- Leather upholstery
+- Hand painted panels
+- Rawhide sculpted panels
+- Chimayo weaving textiles
+- Half round pole construction
+- Custom rustic western furniture
+
+## Industries
+- Luxury residential furniture
+- Western ranch furniture
+- Interior design
+- High-end custom woodworking
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1971
+- **Ownership:** Family-owned
+- **Headquarters:** Cody, Wyoming
+
+<details><summary>Sources</summary>
+
+- Founded 1971 -> db
+- Headquarters Cody, Wyoming -> db
+- Owner John Gallis -> / and /about
+- Ian Gallis employed 17 years, worked with father 24 years -> /about
+- John Gallis was Bloomingdale's chief high-end cabinetmaker 14 years -> /about
+- Specializes in Molesworth style for 27 years -> /about
+- Makes custom Molesworth style and luxury ranch furniture -> /
+- Materials: walnut, juniper, burl wood, leather, rawhide, Chimayo weavings, hand painted panels, half round poles -> /
+- Works from sketches/napkin drawings -> / and /about
+- Showroom and shop in Cody -> /
+- Featured in Mountain Living, Cowgirl Magazine, Log Home Living, Big Sky Journal, Cowboys & Indians -> /
+- Quote: build furniture as if for ourselves -> /
+</details>
+
+---
+
+# North American Cable Equipment
+
+**Old description:** Convert HD sources into QAM channels for coaxial networks, eliminating set-top boxes. ...
+
+## About
+North American Cable Equipment, operating as NACE, is headquartered in Las Vegas, Nevada. The company was founded in 1992 as a specialty distributor of satellite downlink products, cable headend systems, fiber optics, wire, cable, and related connectivity products. Over three decades, it has expanded to five locations across North America supported by a sophisticated data processing network.
+
+NACE distributes a broad portfolio of cable and satellite television infrastructure and multimedia technology systems. Its inventory spans satellite downlink equipment, cable TV headend and distribution gear, fiber optic components, voice and data communications products, electronic and industrial cable, sound systems, CCTV and access control hardware, video and audio mounting systems, equipment racks, tools, test equipment, and custom cable assemblies. The company also provides professional headend assembly services and runs NACEConnect, a program designed to help integrators generate recurring revenue. As a master distributor for MikroTik, it supplies high-performance routing and switching hardware to ISPs, data centers, and enterprise networks.
+
+The distributor serves cable television operators, satellite TV providers, internet service providers, data centers, enterprise IT departments, security integrators, and audio/video installation firms. Concrete examples include DataTronix 4- and 8-channel QAM encoder modulators for coaxial network deployments, CableTronix PDA series for RF signal conditioning, MikroTik Cloud Core Routers for high-density fiber environments, and a range of IP cameras and test meters for CCTV installers.
+
+NACE's stated mission is "Distribution Dedicated to Your Needs," emphasizing superior customer service, extensive product research, and decades of industry expertise. The company highlights its substantial inventory for immediate delivery, competitive pricing, and packaging tailored to customer requirements as key differentiators.
+
+## Known for
+- Five locations across North America with sophisticated data processing network
+- Substantial inventory available for immediate delivery
+- Professional headend assembly services
+- Master distributor of MikroTik networking equipment
+- NACEConnect services for integrator recurring revenue
+
+## Capabilities
+- Professional headend assembly
+- Cable assembly
+- NACEConnect integration services
+- Product distribution
+- Technical support
+- Immediate shipment
+- Master distributor for MikroTik
+- DataTronix QAM encoder modulator distribution
+- CableTronix PDA distribution
+- IP camera and security equipment distribution
+- Fiber optic product distribution
+- Coaxial cable distribution
+- Equipment rack distribution
+- Tool and test equipment distribution
+
+## Industries
+- Cable television
+- Satellite television
+- Fiber optics
+- Voice and data communications
+- CCTV and security
+- Access control
+- Internet service providers
+- Data centers
+- Enterprise networking
+- Audio/video integration
+- Equipment rack systems
+- Tools and test equipment
+
+## Certifications
+- ROHS
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Founded:** 1992
+- **Headquarters:** Las Vegas, Nevada
+
+<details><summary>Sources</summary>
+
+- Founded in 1992 -> /about
+- Headquartered in Las Vegas, Nevada -> db
+- Five locations across North America -> /about
+- Specialty distributor of satellite downlink products, cable headend systems, fiber optics, wire, cable, and related connectivity products -> /about
+- Distributes cable TV headend and distribution equipment, fiber optics, voice and data communications, electronic and industrial cable, sound, CCTV, access control systems, video and audio mounting systems, equipment racks, tools, test equipment, and cable assemblies -> /about
+- Offers professional headend assembly services -> /about, /
+- Offers NACEConnect services for integrator recurring revenue -> /
+- Master distributor of MikroTik -> /
+- Supplies DataTronix QAM encoder modulators -> /
+- Supplies CableTronix PDA series -> /
+- Supplies IP cameras (ST-IP8VFB-MZ, ST-IP8VFD-MZ, ST-IP8VFTD-MZ) -> /
+- Mission: Distribution Dedicated to Your Needs -> /about
+- Emphasizes superior customer service, extensive product research, decades of industry expertise -> /about
+- Substantial inventory for immediate delivery -> /about
+- Competitive pricing, packaging tailored to customer requirements -> /about
+- ROHS certification -> db
+- Immediate shipment for stocked items -> /
+</details>
+
+---
+
+# North American Plastics Ltd.
+
+**Old description:** North American Plastics is a provider of custom extrusion blow molding and blow molding product solutions and we are proudly Certified to ISO 9001:2015
+
+## About
+North American Plastics Ltd. operates from Manchester, New Hampshire, as a provider of custom extrusion blow molding and blow molding product solutions. The company serves customers seeking custom containers and components across multiple industries.
+
+The firm specializes in extrusion blow molding, producing both regular and irregular shaped parts with control over wall thickness, part size, color, and diameter. Its capabilities extend to industrial plastic bottle molding, bellows, and custom parts from design through production. The facility manufactures components for aerosol cans, truck cab components, drive shaft parts, electronics housings, consumer packaging, and thin-wall medical components.
+
+North American Plastics serves the medical, telecommunications, sports and recreation, consumer products, and industrial sectors. Medical customers source bottles and thin-wall components, while industrial clients include automotive, electronics, and packaging companies. The company states it can produce custom containers for any business and industry specific to their uses.
+
+The company holds ISO 9001:2015 certification and emphasizes cost-effective, high-quality custom blow molded parts with expanding capabilities. It works with customers from design to production, offering tailored solutions for exact specifications.
+
+## Known for
+- ISO 9001:2015 certified
+- Custom extrusion blow molding expertise
+- Design-to-production support
+- Regular and irregular shape molding capability
+- Cost-effective, high-quality part production
+
+## Capabilities
+- Extrusion blow molding
+- Custom blow molding
+- Industrial plastic bottle molding
+- Bellows manufacturing
+- Design to production support
+- Wall thickness control
+- Part size control
+- Color matching
+- Diameter control
+
+## Industries
+- Medical
+- Telecommunications
+- Sports & Recreation
+- Consumer Products
+- Industrial
+- Automotive
+- Electronics
+- Packaging
+- Aerosol
+
+## Certifications
+- ISO 9001:2015
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Manchester, New Hampshire
+
+<details><summary>Sources</summary>
+
+- Company name and location -> db
+- ISO 9001:2015 certification -> db, page /
+- Primary process: custom extrusion blow molding -> db, page /
+- Capabilities: regular/irregular shapes, wall thickness, size, color, diameter control -> db
+- Products: bottles, bellows, custom parts, medical components, aerosol can components, truck cab components, drive shaft parts, electronics parts, consumer packaging, industrial components -> db
+- Industries served: medical, telecommunications, sports & recreation, consumer products, industrial -> db
+- Design to production support -> db
+- Cost-effective, high-quality custom blow molded parts -> db
+</details>
+
+---

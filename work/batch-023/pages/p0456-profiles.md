@@ -1,0 +1,640 @@
+# Twin Marquis Inc.
+
+**Old description:** Twin Marquis has served traditionally inspired Chinese cuisine in the U.S. for more than 30 years.
+
+## About
+Twin Marquis Inc. operates from Brooklyn, New York, where it was founded in 1989. The company began in a small New York factory with the goal of producing fresh, high-quality noodles and wrappers for Chinese consumers in the United States who missed home-cooked flavors. It is now a subsidiary of Schwan's Shared Services, LLC.
+
+The company manufactures fresh Asian noodles, wrappers, and frozen dumplings, including fully cooked varieties. Its Brooklyn facility processes 15,000 tons of flour each month, and annual noodle production is said to be enough to circle the Earth 100 times. Twin Marquis also offers custom noodle formulations and private-label manufacturing for wholesale partners.
+
+Products are sold through wholesale channels and Asian supermarkets, serving the Chinese American community and broader markets seeking authentic Asian foods. The company's customer base includes wholesale distributors and retail grocery chains specializing in Asian cuisine.
+
+Twin Marquis differentiates itself by being the first Asian-food manufacturer in the U.S. to achieve FSSC 22000 certification from NQA. Dozens of its products carry Kosher and Vegan certifications, and all are produced in a USDA-inspected facility. The company emphasizes food safety and the ability to customize products for wholesale clients.
+
+## Known for
+- First Asian-food manufacturer in the U.S. to obtain FSSC 22000 certification from NQA
+- Dozens of products certified Kosher and Vegan
+- Manufactured in a USDA-inspected facility
+- 15,000 tons of flour processed monthly
+- Custom noodle and private-label services for wholesale partners
+
+## Capabilities
+- Fresh noodle manufacturing
+- Wrapper production
+- Frozen dumpling manufacturing
+- Fully cooked dumpling production
+- Custom noodle formulation
+- Private label manufacturing
+- Wholesale customization
+- Food safety certification (FSSC 22000)
+- Kosher certification
+- Vegan certification
+- USDA facility operations
+
+## Industries
+- Asian food manufacturing
+- Wholesale food distribution
+- Retail (Asian supermarkets)
+- Foodservice
+- Chinese cuisine
+
+## Certifications
+- FSSC 22000
+- Kosher
+- Vegan
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1989
+- **Ownership:** Subsidiary of Schwan's Shared Services, LLC
+- **Headquarters:** Brooklyn, New York
+
+<details><summary>Sources</summary>
+
+- Founded in 1989 -> /about-us
+- Headquarters in Brooklyn, New York -> /about-us
+- Subsidiary of Schwan's Shared Services, LLC -> / (copyright)
+- Manufactures fresh noodles, wrappers, frozen dumplings -> /about-us
+- Processes 15,000 tons of flour monthly -> /about-us
+- Annual noodle production circles Earth 100 times -> /about-us
+- First Asian-food manufacturer in US with FSSC 22000 certification from NQA -> /about-us
+- Products certified Kosher and Vegan -> /about-us
+- Manufactured in USDA facility -> /about-us
+- Offers custom noodles and private labels -> /about-us
+- Serves wholesale partners and Asian supermarkets -> /
+- Website available in English and Chinese -> /
+</details>
+
+---
+
+# Twin Peaks Fabrication, LLC
+
+**Old description:** Twin Peaks Fabrication is a structural steel fabrication and installation company delivering complete steel packages for commercial, industrial, and architectural projects. We specialize in engineered steel structures, prefabricated assemblies, certified welding, and precise field installation to the highest industry standards. Operating from our fabrication facility, we provide fast, accurate turnaround using high-capacity equipment. Every project is executed through a streamlined process focused on precision, efficiency, and on-time delivery.
+
+## About
+Twin Peaks Fabrication, LLC operates from a fabrication facility in Murray, Utah. The company provides structural steel fabrication and installation services, delivering complete steel packages for commercial, industrial, and architectural projects. No founding year or ownership details are publicly disclosed.
+
+Its core capabilities include engineered steel structures, prefabricated assemblies, certified welding, and precise field installation. The shop runs high-capacity equipment to produce items such as exterior and interior guardrails, stair systems, architectural features, custom furniture, aluminum signage with removable panels, stainless steel components, and specialty items like air-conditioner covers and fireplace surrounds. Work spans structural steel, aluminum, stainless steel, and hot-rolled steel.
+
+The firm serves general contractors, developers, and architects across commercial, industrial, and high-end residential construction. Project examples include luxury homes in Summit and Wasatch counties, sign industry installations, and custom metalwork for resorts such as Deer Valley. Social media posts also highlight aluminum fabrication and welding for the sign industry.
+
+Twin Peaks emphasizes a streamlined process focused on precision, efficiency, and on-time delivery, advertising fast, accurate turnaround enabled by its equipment capacity.
+
+## Known for
+- Fast, accurate turnaround using high-capacity equipment
+- Streamlined process focused on precision, efficiency, and on-time delivery
+- Certified welding and precise field installation
+- Complete steel packages from engineering through installation
+- Custom fabrication across structural steel, aluminum, and stainless steel
+
+## Capabilities
+- Structural steel fabrication
+- Steel installation
+- Engineered steel structures
+- Prefabricated assemblies
+- Certified welding
+- Field installation
+- Guardrail fabrication
+- Stair fabrication
+- Architectural metalwork
+- Custom furniture fabrication
+- Aluminum fabrication
+- Aluminum welding
+- Sign fabrication
+- Stainless steel fabrication
+- Custom metal covers fabrication
+- Fireplace surround fabrication
+
+## Industries
+- Commercial construction
+- Industrial construction
+- Architectural construction
+- Luxury residential construction
+- Sign industry
+- Resort/hospitality construction
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Murray, Utah
+
+<details><summary>Sources</summary>
+
+- Location: Murray, Utah -> db
+- Business description and services -> db
+- Project examples: guardrails, stairs, architectural features, custom furniture, aluminum signs, stainless bench legs, A/C covers, fireplace surrounds -> /
+- Industries served: commercial, industrial, architectural, luxury residential, sign industry -> db and /
+- Materials: structural steel, aluminum, stainless steel, hot rolled steel -> /
+- Differentiators: fast turnaround, streamlined process, precision, efficiency, on-time delivery -> db
+- No founding year, employee count, certifications, equipment names, tolerances, lead times, volume, min order, CAGE code, export compliance, languages, social links -> db and /
+</details>
+
+---
+
+# Twin Rivers Foods
+
+**Old description:** "WE CELEBRATE FOOD AND THE PEOPLE WHO ENJOY IT BY CREATING SUPERIOR FOOD EXPERIENCES."
+
+## About
+Twin Rivers Foods was founded in 2006 and is headquartered in Fort Smith, Arkansas. The company operates chicken processing plants in Atkins, Fort Smith, and Mulberry, Arkansas, with corporate offices in Fayetteville. Leadership includes CEO Nick Tyler, Owner Doug Tyler, COO Michele Tyler, and a team with decades of poultry industry experience.
+
+The company specializes in value-added chicken processing, offering ready-to-cook products, individual quick freezing, marination, deboning, specialty portioning, stripping and skewering, and various packaging options. Its three Arkansas facilities handle slaughter, further processing, and packaging for food service and retail channels, with capabilities spanning from raw ready-to-cook items to fully cooked, marinated, and skewered products.
+
+Twin Rivers Foods serves the poultry and food manufacturing sectors, supplying processed chicken to food service distributors, retail brands, and further processors. The leadership team brings over 30 years in poultry sales, production, procurement, and meat science, which the company says enables it to see opportunities in customers' businesses.
+
+The company states that its differentiators lie in a relentless pursuit of what is right for customers, combining high standards with operational flexibility and deep industry experience to deliver superior food experiences.
+
+## Known for
+- Flexibility and availability in order fulfillment
+- Decades of poultry industry experience across leadership team
+- Relentless pursuit of what is right for customers
+- High standards and experienced team delivering superior food experiences
+
+## Capabilities
+- Ready-to-cook chicken processing
+- Individual quick freezing (IQF)
+- Marination
+- Deboning
+- Specialty portioning
+- Stripping and skewering
+- Packaging
+- Poultry procurement and sales
+
+## Industries
+- Poultry processing
+- Food manufacturing
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 2006
+- **Headquarters:** Fort Smith, Arkansas
+
+<details><summary>Sources</summary>
+
+- Founded in 2006 -> db
+- Headquartered in Fort Smith, Arkansas -> db
+- Plant locations in Atkins, Fort Smith, and Mulberry, Arkansas -> page "/"
+- Corporate office in Fayetteville, Arkansas -> page "/"
+- Specializes in chicken processing: ready-to-cook, individual freezing, marination, deboning, specialty portioning, stripping and skewering, packaging -> page "/"
+- Leadership team: Nick Tyler (CEO), Doug Tyler (Owner), Michele Tyler (COO), Travis Warren (Supply Chain), Shawn Michael (CFO), Greg Luchak (R&D) -> page "/"
+- Company philosophy: relentless pursuit of what is right for customers -> page "/"
+- Differentiators: flexibility, availability, years of experience -> page "/"
+</details>
+
+---
+
+# Twisted Metals Welding & Fabrication, LLC
+
+**Old description:** Twisted Metals Welding & Fabrication, L.L.C. is a custom Steel fabrication shop specializing in Architectural & Ornamental Fabrication. Located in Austin, TX we happily support the entire metropolitan area and surrounding Communities. Since 2010 our commitment is to our founding philosophy: Create a one of a kind, design oriented company that focuses on fine craftsmanship with top notch customer support. We are more than happy to help with any project large or small.
+
+## About
+Twisted Metals Welding & Fabrication, LLC operates from Austin, Texas, where it was founded in 2010. The company was established on a philosophy of creating a design-oriented fabrication shop that emphasizes fine craftsmanship and strong customer support.
+
+The shop specializes in custom steel fabrication for architectural and ornamental applications. Its core processes include high-definition CNC plasma cutting, welding, and assembly, supported by in-house design assistance and CAD drafting that can turn sketches or inspirational photos into production-ready drawings. The facility handles projects ranging from one-off pieces to production runs of 100 or more units, and also provides erection services for light structural work.
+
+Customers span residential, commercial, and landscape sectors. The company produces code-compliant railings (including guardrails, handrails, and cable rails), custom furniture, gates, staircases, arbors, shade structures, and other architectural metal elements. It serves homeowners, businesses, and design professionals throughout the Austin metropolitan area and surrounding communities.
+
+The firm differentiates itself through a design-first approach, offering free estimates and the ability to translate rough concepts into finished metalwork. Its founding principle centers on combining unique design with reliable execution and responsive service.
+
+## Known for
+- Design-oriented approach with CAD drafting from sketches or photos
+- High-definition CNC plasma cutting capability
+- Free estimates on all projects
+- One-off to 100+ unit production runs
+- Fine craftsmanship with customer-support focus
+
+## Capabilities
+- Hi-Definition CNC Plasma Cutting
+- Welding
+- Custom Steel Fabrication
+- Railing Fabrication (guardrails, handrails, cable rails, ADA compliant)
+- Furniture Fabrication
+- Landscape Metalwork
+- Arbor & Shade Structure Fabrication
+- Architectural Metalwork
+- Structural Fabrication (light structural)
+- Gate Fabrication
+- Stair Fabrication
+- Design Assistance
+- CAD Drafting
+- Erection/Installation
+
+## Industries
+- Architectural
+- Ornamental
+- Structural
+- Residential
+- Commercial
+- Landscape
+
+## Equipment
+- Hi-Definition CNC Plasma Cutter
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 2010
+- **Headquarters:** Austin, Texas
+
+<details><summary>Sources</summary>
+
+- Founded 2010 -> /about-us
+- Location Austin, Texas -> /
+- Custom steel fabrication shop -> /
+- Architectural & ornamental specialization -> /
+- Hi-definition CNC plasma cutting -> /
+- Services: railings, furniture, landscape, arbors, architectural elements, structural, gates, stairs -> /about-us
+- Design assistance & CAD drafting -> /about-us
+- One-off to 100+ unit runs -> /about-us
+- Free estimates -> /about-us
+- Erection of light structural applications -> /about-us
+</details>
+
+---
+
+# Two Brothers WoodWorks
+
+**Old description:** When we design and build each table, we do it with one thing in mind — the life it will live after it leaves our hands. We know that a table isn’t just a piece of furniture. It’s the heartbeat of a home — the place where families gather, where laughter is shared, and where stories unfold.
+
+## About
+Two Brothers WoodWorks operates from Myrtle Beach, South Carolina. The company's founding year and ownership structure are not publicly disclosed, though its name suggests a family-led origin. The business began with a focus on creating tables designed to become central gathering places in homes.
+
+The company designs and builds dining and gathering tables using handcrafted woodworking methods. Each piece is assembled in its Myrtle Beach facility with an emphasis on durability and legacy-quality construction. Specific production volumes, facility size, and employee count are not published.
+
+Two Brothers WoodWorks serves residential customers directly, supplying tables for family homes. The company positions its products as heirloom pieces for everyday use, from weeknight dinners to holiday gatherings. No commercial or industrial client segments are identified in available materials.
+
+The company's stated philosophy, "Don't Give Up the Craft," reflects a commitment to intentional design and careful construction. It markets its tables as foundations for generational memories, differentiating through a narrative of legacy and American-made craftsmanship rather than technical specifications.
+
+## Known for
+- Handcrafted construction
+- American made
+- Built to Last
+- Designed with legacy in mind
+- Don't Give Up the Craft philosophy
+
+## Capabilities
+- Custom table design and manufacturing
+- Handcrafted woodworking
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Myrtle Beach, South Carolina
+
+<details><summary>Sources</summary>
+
+- Location: Myrtle Beach, SC -> db
+- Product: Tables (handcrafted, American made) -> /
+- Philosophy: 'Don't Give Up the Craft' -> /
+- Approach: Design and build each table with care, quality, intention -> /
+- Target: Residential/family homes -> /
+</details>
+
+---
+
+# U.S Pack Group
+
+**Old description:** dedicated to sustained growth to consistently meet our customers’ needs.
+
+## About
+U.S. Pack Group, based in Sunrise, Florida, was founded in 1996 and has built over three decades of experience in PET bottle manufacturing. The company operates a flagship facility in Sunrise and recently inaugurated a new, state-of-the-art plant in Lakeland, Florida, to expand its production capacity and serve clients across the region.
+
+The company creates, develops, and manufactures private-label PET packaging — including Boston Round, Bullet Round, Modern Round, and pharma-specific bottles — along with labeling solutions. Using certified protocols from concept to stock, it offers custom bottle design, inventory planning, forecasting, and warehousing. Both facilities support end-to-end production of containers made entirely in the United States.
+
+U.S. Pack Group serves the personal care, pharmaceutical, household, pet care, and liquor industries. Customers range from brands seeking stock bottle lines to those requiring fully custom packaging developed through the company's sales and engineering teams.
+
+The business emphasizes competitive pricing, short lead times, and a commitment to sustained growth to meet customer needs consistently. Its differentiators include domestic manufacturing, a broad portfolio of PET bottle styles, and the ability to move from concept to finished product under one roof.
+
+## Known for
+- Products made 100% in the USA
+- Competitive pricing and short lead times
+- Private packaging, containers, and labeling solutions from concept to stock
+- State-of-the-art facilities in Sunrise and Lakeland, Florida
+- Over 30 years of experience in PET bottle manufacturing
+
+## Capabilities
+- PET bottle manufacturing
+- Custom bottle design
+- Private labeling
+- Packaging development
+- Inventory planning and forecasting
+- Warehousing
+- Labeling solutions
+- Concept-to-stock production
+
+## Industries
+- Personal Care
+- Pharmaceutical
+- Household
+- Pet Care
+- Liquor
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1996
+- **Headquarters:** Sunrise, Florida
+
+<details><summary>Sources</summary>
+
+- Founded 1996 -> db
+- Headquarters Sunrise, Florida -> db and /about
+- 30 years experience in PET bottle manufacturing -> /about
+- Experts with over 30 years experience -> /about
+- Flagship facility in Sunrise, FL -> /about
+- New facility in Lakeland, Florida -> /about
+- Create, develop, manufacture private packaging, containers, labeling solutions -> /about and /
+- Competitive pricing and short lead times -> /about and /
+- Products made 100% in USA -> /about and /
+- Markets served: Personal Care, Pharmaceutical, Household, Pet Care -> / (home page)
+- Bottle types: Bullet Round, Boston Round, Modern Round, Pharma Bottles, Other Bottles -> / (home page)
+- Certified protocols and procedures from concept to stock -> /about
+- Inventory planning and forecasting, warehousing -> db capabilities
+- Blog mentions liquor industry, sustainability -> / (blog snippets)
+- State-of-the-art plant in Lakeland -> /about
+</details>
+
+---
+
+# UEC Electronics
+
+**Old description:** UEC Advanced Electronics is a full-service product design and manufacturing company dedicated to delivering high-performance solutions for power products. Our expertise spans the areas of power storage, generation, and distribution, ensuring that we meet the diverse needs of our clients across various industries.
+
+## About
+UEC Advanced Electronics operates from a 64,000-square-foot campus in Hanahan, South Carolina, within the Charleston region. The company was founded in 1995 as UEC Electronics, LLC (Ufkes Engineering and Consulting) by engineers Rebecca and Phil Ufkes, initially developing automation solutions for U.S. government vehicles and power-related products. Recognized as a small, woman-owned business in South Carolina, it became a subsidiary of Albion River LLC in 2025 after a series of acquisitions including Arotech Corporation (2014) and Greenbriar Equity Group (2019).
+
+The company provides end-to-end product design and manufacturing for power storage, generation, and distribution systems. Its capabilities span engineering design, rapid prototyping, precision manufacturing, higher-level assembly, cable and harness assemblies, electromechanical assemblies, circuit card assemblies, and fully integrated multi-rack systems. Core products include mobile power distribution and management systems (MPDMS), modular high-voltage battery packs, intelligent battery systems, vehicle power systems, clean energy generation solutions, and power distribution units. The campus houses engineering, integration, production, and testing operations under one roof.
+
+UEC serves mission-critical markets across defense, aerospace, medical, and industrial sectors. Its battery systems are engineered for aerospace, military, automotive, and renewable energy applications, while the MPDMS platform supports military operations and event management. The company also supports U.S. government vehicle programs and has participated in a Department of Defense mentoring program with Raytheon.
+
+UEC differentiates itself through a quality management system certified to ISO 9001:2015, ISO 13485:2016, and AS9100D, with ITAR registration and RoHS-compliant production lines. Its vision targets global leadership in mission-critical manufacturing, emphasizing agility, quality, technological excellence, and cost efficiency, backed by comprehensive testing, traceability, and continuous improvement.
+
+## Known for
+- End-to-end product design and manufacturing under one roof
+- 64,000+ sq ft campus integrating engineering, production, and test
+- Certified to ISO 9001:2015, ISO 13485:2016, AS9100D, ITAR-registered
+- Custom modular high-voltage battery systems with advanced lithium-ion chemistry
+- Mobile power distribution systems with real-time monitoring and safety features
+
+## Capabilities
+- Engineering Design & Development
+- Electronic Manufacturing Services
+- Automation and Test
+- Program Management
+- Supply Chain Management
+- Quality Services
+- Concept Development
+- Prototyping
+- Detailed Design
+- Testing and Validation
+- Higher-Level Assembly
+- Cable & Harness Assembly
+- Electromechanical Assembly
+- Precision Manufacturing
+- Custom Manufacturing Solutions
+- Mobile Power Distribution & Management Systems (MPDMS)
+- Battery Systems Design & Manufacturing
+- Power Distribution Systems
+- Power Generation Systems
+- Soldier Power Systems
+- Vehicle Power Systems
+- Clean Energy Generation Solutions
+- Modular High-Voltage Battery Packs
+- Circuit Card Assembly
+
+## Industries
+- Defense
+- Aerospace
+- Medical
+- Industrial
+- Automotive
+- Renewable Energy
+- Event Management
+
+## Certifications
+- ISO 9001:2015
+- ISO 13485:2016
+- AS9100D
+- Underwriters Laboratories (UL)
+- Canadian Standards Association (CSA)
+- IPC-A-610 Class 1
+- IPC-A-610 Class 2
+- IPC-A-610 Class 3
+- IPC-J-STD-001
+- IPC-7711/21
+- MIL-STD-810
+- MIL-STD-202
+- AS5553D
+- ANSI/ESD S20.20-2021
+- ITAR-Registered
+- RoHS-compliant production lines
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1995
+- **Ownership:** Woman-owned, Subsidiary of Albion River LLC
+- **Headquarters:** Hanahan, South Carolina
+
+<details><summary>Sources</summary>
+
+- Founded 1995 in Hanahan, SC by Rebecca and Phil Ufkes -> /about
+- Woman-owned small business in South Carolina -> /about
+- Campus spans more than 64,000 square feet -> /about
+- Subsidiary of Albion River LLC (2025) -> /about
+- Certifications: ISO 9001:2015, ISO 13485:2016, AS9100D -> /about, /quality
+- ITAR-Registered -> /quality
+- Industries: defense, aerospace, medical, industrial -> /about
+- Products: mobile power distribution, battery systems, cable assemblies, etc. -> /, /about
+- Capabilities: engineering design, manufacturing, testing, supply chain, program management, quality -> /, /about
+- History: 2008 DoD mentoring with Raytheon, 2014 Arotech acquisition, 2019 Greenbriar, 2025 Albion River -> /about
+- Quality standards: IPC-A-610 Class 1/2/3, IPC-J-STD-001, MIL-STD-810, etc. -> /quality
+- RoHS-compliant production lines -> /quality
+- Materials: advanced lithium-ion and other chemistries -> /about (Battery Systems section)
+- Headquarters: Hanahan, South Carolina -> db
+</details>
+
+---
+
+# UMEC USA INC
+
+**Old description:** Taiwanese owned Universal Microelectronics Corporation. UMEC specializes in
+
+## About
+UMEC USA Inc. was established in 1984 in North Las Vegas, Nevada, as the United States design and sales office for the Taiwanese-owned Universal Microelectronics Corporation. The parent company, founded in Taiwan, has built a global presence in magnetic components, and the U.S. entity was created to support North American customers with local engineering and sales support.
+
+The office focuses on magnetics for the DSL and broader telecommunications markets, offering services that range from simple coil winding to critical transformer design and manufacturing. Its product portfolio spans audio transformers, RF transformers, standard product lines, and custom designs, along with power electronics and magnetic components. UMEC USA leverages the parent corporation’s global manufacturing capabilities, with service branches across Asia, Europe, and North America, to deliver both off-the-shelf and tailored solutions.
+
+Primary customers include original equipment manufacturers in the telecommunications sector, particularly those building DSL infrastructure, as well as companies requiring power electronics and magnetic components for various applications. The company’s expertise in transformer design for high-frequency and audio applications makes it a go-to source for telecom equipment builders and power supply designers.
+
+UMEC USA states that its guiding principle is a dedication to meeting customer requirements as its top priority, emphasizing powerful flexibility in moving from standard product lines to custom designs. This customer-first approach, combined with access to the parent company’s extensive manufacturing resources, is presented as its key differentiator.
+
+## Known for
+- U.S. design and sales office for Taiwan-based Universal Microelectronics Corporation
+- Specializes in magnetics for DSL and telecommunications markets
+- Offers both standard and custom transformer designs from audio to RF frequencies
+- Global manufacturing footprint with service branches in Asia, Europe, and North America
+- Customer requirements as top priority with flexible design-to-delivery approach
+
+## Capabilities
+- Coil winding
+- Transformer design
+- Transformer manufacturing
+- Audio transformer production
+- RF transformer production
+- Custom magnetic design
+- Standard magnetic product lines
+- Power supply design
+- Magnetic component design
+
+## Industries
+- Telecommunications (DSL)
+- Power electronics
+- Magnetic components
+
+## Certifications
+- ISO 9001
+- ISO 14001
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Founded:** 1984
+- **Ownership:** Taiwanese-owned (Universal Microelectronics Corporation)
+- **Headquarters:** North Las Vegas, Nevada
+
+<details><summary>Sources</summary>
+
+- Founded 1984 -> db
+- Headquarters North Las Vegas, Nevada -> db
+- Taiwanese-owned parent Universal Microelectronics Corporation -> page /
+- Design and sales office for parent -> page /
+- Specializes in magnetics for DSL market -> page /
+- Offers coil winding, transformer design and manufacturing, audio to RF transformers, standard and custom designs -> page /
+- Global manufacturing capabilities with service branches in Asia, Europe, North America -> page /
+- Certifications ISO9001, ISO14001 -> db
+- Industries: telecommunications (DSL), power electronics, magnetic components -> page /
+- Customer dedication as top priority -> page /
+</details>
+
+---
+
+# URS Electronics
+
+**Old description:** As a supplier to PNW government agencies since 1935, URS Electronics continues to hold
+
+## About
+URS Electronics was founded in 1935 in Portland, Oregon, and has operated continuously as a supplier to Pacific Northwest government agencies since that year. The company remains headquartered in Portland with a storefront that allows customers to browse products in person, staffed by seasoned professionals who assist with purchasing decisions.
+
+As an authorized franchised distributor, URS Electronics sources electronic components, products, and services directly from manufacturers such as Middle Atlantic Products, PanaVise, Eaton, and Genex Cabling. The company maintains direct relationships with these brands to ensure product traceability and legitimacy. URS is also a member of The Genie Group, a national buying group incorporated in 1984 that now comprises 93 members with over 300 branch locations and collective purchasing power exceeding $1 billion, along with a centralized distribution center in Franklin, Tennessee.
+
+The company's customer base includes government agencies across Oregon and Washington in sectors such as transportation, corrections, and communications, alongside commercial and industrial buyers throughout the Pacific Northwest.
+
+URS Electronics emphasizes its long-standing local presence, competitive pricing, and personalized customer care as key differentiators, positioning itself as a source for genuine electronic components backed by factory-authorized channels.
+
+## Known for
+- Authorized franchised distributor with direct manufacturer relationships
+- Supplier to Pacific Northwest government agencies since 1935
+- Storefront location for in-person product access and expert assistance
+- Member of The Genie Group buying group with $1B+ collective purchasing power
+- Factory-authorized channels ensuring product traceability and legitimacy
+
+## Capabilities
+- Electronic component distribution
+- Authorized franchised distribution
+- Government contract fulfillment
+- Storefront sales
+- Customer care and technical assistance
+- Product sourcing from top brands
+
+## Industries
+- Government
+- Transportation
+- Corrections
+- Communications
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Founded:** 1935
+- **Headquarters:** Portland, Oregon
+
+<details><summary>Sources</summary>
+
+- Founded in 1935 -> db, /about
+- Headquartered in Portland, Oregon -> db
+- Authorized franchised distributor of electronic components -> /about, /
+- Supplier to PNW government agencies since 1935 -> /, /about
+- Government contracts in transportation, corrections, communications -> /
+- Storefront for in-person shopping -> /about
+- Member of The Genie Group buying group -> /about
+- Genie Group incorporated 1984, 93 members, 300+ locations, $1B+ buying power, distribution center in Franklin, TN -> /about
+- Carries brands: Middle Atlantic Products, PanaVise, Eaton, Genex Cabling -> /, db products
+- Community support for listed organizations -> /about
+- Direct manufacturer relationships ensuring product traceability and legitimacy -> /about
+- Competitive pricing and customer care -> /about
+</details>
+
+---
+
+# US Electronics Inc
+
+**Old description:** From lithium-ion battery packs to custom power supplies delivering reliable solutions worldwide
+
+## About
+US Electronics Inc is headquartered in St. Louis, Missouri. The company began with a single product line of DIP switches and has since expanded to thirteen product lines, operating multiple manufacturing facilities in the United States, France, Korea, Taiwan, and China.
+
+The company designs and manufactures passive electronic components, custom power supplies (AC/DC and DC/DC), lithium-ion battery packs, high-resolution displays with capacitive touch, and acoustic products such as miniature speakers. It provides end-to-end services from concept and engineering through production to after-sales support, leveraging multiple manufacturing plants worldwide to offer just-in-time delivery. Its product portfolio spans thirteen product lines.
+
+US Electronics serves OEMs across automotive, industrial, medical, aerospace, IoT/IT, and consumer electronics sectors. Notable collaborations include a custom 14.8V rechargeable battery pack for Cork Medical's negative pressure wound therapy devices, a bonded warehouse solution that helped a global thermostat manufacturer avoid tariffs while maintaining assembly in Mexico, and a one-week delivery of custom miniature speakers that launched a five-year partnership with a mobile communications innovator.
+
+The company emphasizes its global manufacturing footprint, rapid custom design and tooling capabilities, and a commitment to modifying standard products at no extra charge. It highlights UL, CE, and RoHS compliance, and positions itself as a one-stop shop for OEM electronic component needs.
+
+## Known for
+- Global manufacturing footprint with facilities in the US, France, Korea, Taiwan, and China
+- Custom design, tooling, and production of components faster than competitors
+- Modification of standard products at no extra charge
+- UL, CE, and RoHS certified quality and compliance
+- End-to-end support from concept to after-sales service
+
+## Capabilities
+- Custom AC/DC and DC/DC power supply design and manufacturing
+- Custom lithium-ion battery pack assembly
+- High-resolution display and capacitive touch panel integration
+- Miniature speaker and acoustic component manufacturing
+- Passive electronic component manufacturing (including DIP switches)
+- Custom component design, tooling, and production
+- Modification of standard products
+- Just-in-time delivery and global logistics
+- Bonded warehouse and tariff mitigation solutions
+- End-to-end engineering and after-sales support
+
+## Industries
+- Automotive
+- Industrial
+- Medical
+- Aerospace
+- IoT/IT
+- Consumer electronics
+
+## Certifications
+- ISO 9001
+- ISO 14001
+- RoHS
+- UL
+- CE
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** St. Louis, Missouri
+
+<details><summary>Sources</summary>
+
+- Headquartered in St. Louis, Missouri -> db (hq_city, hq_state_label) and page '/' address
+- Started with DIP switches, expanded to thirteen product lines -> page '/about-us'
+- Multiple manufacturing locations in US, France, Korea, Taiwan, China -> page '/about-us'
+- Custom power supplies, lithium-ion battery packs, displays, touch panels, acoustic products -> page '/'
+- Industries served: automotive, industrial, medical, aerospace, IoT/IT, consumer -> page '/'
+- Customer examples: Cork Medical, Global Thermostat Manufacturer, Mobile Communications Innovator -> page '/'
+- Certifications: ISO 9001, ISO 14001, RoHS, UL, CE -> db certifications and page '/'
+- End-to-end support from concept to after-sales -> page '/'
+- Modification of standard products at no extra charge -> page '/about-us'
+- Rapid custom design and tooling -> page '/about-us'
+- Just-in-time delivery globally -> page '/about-us'
+- Bonded warehouse solution for tariff avoidance -> page '/'
+</details>
+
+---

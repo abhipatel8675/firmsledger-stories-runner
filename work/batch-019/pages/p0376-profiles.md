@@ -3,47 +3,58 @@
 **Old description:** Whether it comes from Pinterest or Instagram, each project starts here.
 
 ## About
-Maker Shop Boise operates a community woodworking facility in Boise, Idaho. The shop provides members and day-pass users with access to a range of professional-grade tools, a dedicated CNC room, and an epoxy room, all in a climate-controlled environment. While the collective experience of its mentors and coaches spans more than 200 years, the company does not publicly disclose its founding date or ownership structure.
+Maker Shop Boise operates a community woodworking facility in Boise, Idaho. The shop provides members with access to professional-grade tools, free training, and a collaborative workspace designed to help people finish projects without the hassle of maintaining a personal shop.
 
-The facility runs on a membership model that includes free safety and operation training on all equipment. Members can use community workstations on a first-come, first-served basis, while the CNC room and epoxy room are reservable in advance. A day pass costs $99. The shop's equipment roster includes an Axiom AR8 Pro V5 CNC router, along with a full suite of woodworking machinery that is maintained and sharpened by staff. No headcount or facility square footage is published.
+The facility includes community workstations available first-come, first-served, plus a CNC room and epoxy room that can be reserved in advance. Equipment includes an Axiom AR8 Pro V5 CNC machine alongside a full suite of well-maintained hand and power tools, all housed in a climate-controlled space. Free safety and operation training is included with every membership, and classes cover specific tools and techniques.
 
-The shop serves individual woodworkers, hobbyists, and makers rather than industrial clients. Customers range from beginners building birdhouses to experienced craftspeople constructing cabinets. The company emphasizes a supportive community where members can ask questions, share projects, and learn from mentors and peers.
+The shop serves individual woodworkers, hobbyists, and makers who lack space or budget for their own equipment. Customers range from beginners building birdhouses to experienced craftspeople constructing cabinets, all supported by a team of mentors and coaches with collective decades of experience. The community aspect encourages peer learning and project inspiration.
 
-Maker Shop Boise positions itself as a cost-effective alternative to owning a personal workshop. By bundling tool access, training, and space into a monthly membership, it aims to lower the barrier to entry for woodworking. The company highlights its climate-controlled shop, well-maintained tools, and free training as key differentiators that help users save time and money while building confidence.
+The company differentiates itself by bundling tool access, training, and community into a single monthly membership, eliminating the need for large upfront tool purchases. A safety-first culture and the availability of mentors aim to give members confidence to tackle any project.
 
 ## Known for
 - Free safety and operation training included with membership
-- Climate-controlled facility with professionally maintained tools
-- Membership includes access to full suite of woodworking equipment
-- Community of mentors and peers for project support
-- Day passes and classes available for non-members
+- Access to professional-grade tools including Axiom AR8 Pro V5 CNC
+- Climate-controlled facility with well-maintained equipment
+- Community of mentors and coaches with collective 200+ years experience
+- Membership includes full suite of tools (no need to purchase own)
 
 ## Capabilities
-- Woodworking tool access
-- CNC routing (Axiom AR8 Pro V5)
-- Epoxy room access
+- Woodworking
+- CNC machining
+- Epoxy work
 - Safety and operation training
 - Woodworking classes
-- Mentor-supported project guidance
+- Mentorship and coaching
+- Community workspace access
+- Tool access (hand and power tools)
+- Project reservation system (CNC room, epoxy room)
+
+## Industries
+- Woodworking
 
 ## Equipment
 - Axiom AR8 Pro V5 CNC
 
 ## Company details
-- **Company Type:** Installer / service company
+- **Company Type:** Other
 - **Headquarters:** Boise, Idaho
 
 <details><summary>Sources</summary>
 
 - Location: Boise, Idaho -> db
-- Day pass price $99 -> /
-- Community workstations first-come first-served, CNC room and epoxy room reservable -> /
+- Website: makershopboise.com -> db
+- Community workstations, CNC room, epoxy room -> /
 - Axiom AR8 Pro V5 CNC machine -> /
-- Free safety & operation training included -> /
-- More than 200 years collective mentor experience -> /
-- Membership includes full suite of tools -> /
+- Free safety and operation training included -> /
+- Day pass $99, classes, membership -> /
 - Climate-controlled facility -> /
+- Well-maintained, sharp, high quality tools -> /
+- Mentors/coaches with 200+ years collective experience -> /
 - Serves woodworkers, hobbyists, makers -> /
+- Projects from birdhouses to cabinets -> /
+- Safety-first culture -> /
+- Membership includes full suite of tools -> /
+- Company type: community workshop/makerspace -> /
 </details>
 
 ---
@@ -53,34 +64,34 @@ Maker Shop Boise positions itself as a cost-effective alternative to owning a pe
 **Old description:** Mālama Solar is a Hawaii solar company founded entirely to be different. You can count on us to provide a quality experience, to be transparent from day one, and to stick by your side through any questions you have.  Our 5-step process will guide you through permits, designs, customization, and installation.
 
 ## About
-Mālama Solar is a locally owned and operated solar installation company based in Honolulu, Hawaii. Founded by Chris and Rachel Ah Sue, the business was built on the Hawaiian principle of mālama ‘āina—caring for the land so the land cares for you. The couple, who have deep roots in the islands, started the company to bring a transparent, customer-first approach to residential solar.
+Malama Solar is a locally owned and operated solar installation company based in Honolulu, Hawaii. Founders Chris and Rachel Ah Sue formed the company with a mission rooted in the Hawaiian value of Mālama 'Āina—caring for the land so it cares for you. Rachel, born and raised on O'ahu, and Chris, who moved to the islands after college, started the business to provide a transparent, quality-driven alternative in Hawaii's residential solar market.
 
-The company designs and installs photovoltaic systems and energy storage for homeowners across Oahu and the Big Island. Its five-step process covers an initial energy-usage consultation, custom system design, permitting and HOA coordination, installation (typically completed in two days after a 6–8 week lead time), and ongoing post-install support. Mālama Solar partners with manufacturers, distributors, and financial institutions to supply panels, batteries, and financing options, and it was named to the Inc. 5000 list of fastest-growing private companies.
+The company designs and installs custom photovoltaic systems for homeowners on Oahu and the Big Island, managing every step from initial energy-usage analysis and system design through permitting, HOA approvals, financing coordination, and final installation. Installation crews typically complete the physical work in about two days, with the overall process taking six to eight weeks after a customer commits. Malama Solar partners with manufacturers, distributors, and financial institutions to supply panels, modular battery storage, and financing options tailored to each household.
 
-Mālama Solar serves residential customers throughout Hawaii, including homeowners in Kona, Kapolei, and Ewa Beach who have reported monthly savings of hundreds of dollars on electric bills. The company also works with homeowners associations to ensure compliance during installation.
+The firm serves residential customers across Hawaii, with recent projects cited in Kona, Kapolei, and Ewa Beach. Its primary industry is residential solar installation and energy storage, helping homeowners reduce reliance on utility power amid rising electricity rates.
 
-The founders say they created Mālama Solar to be different from other providers: they emphasize upfront transparency, a dedicated local crew, and a commitment to the community through cultural awareness events and the mālama ‘āina ethic.
+Malama Solar says it was founded to be different—emphasizing a five-step process that prioritizes transparency, local crew members who share community ties, and ongoing customer support after the system is powered on.
 
 ## Known for
-- Five-step process covering consultation, design, permitting, installation, and post-install support
+- Five-step process from consultation to post-installation support
 - Local installation crews on Oahu and Big Island
-- Transparent pricing and communication from first consultation
-- Partnerships with top manufacturers and financiers for panels, storage, and financing
-- Rooted in Hawaiian value of mālama ‘āina (caring for the land)
+- Handles all permitting, HOA approvals, and financing paperwork
+- Partners with manufacturers and financial institutions for panels, storage, and financing
+- Founded on Hawaiian value of Mālama 'Āina (care for the land)
 
 ## Capabilities
-- Solar PV system design
-- Energy usage analysis
-- Permitting and HOA approvals
+- Solar PV system consultation and energy-usage analysis
+- Custom system design and engineering
+- Permitting and HOA approval management
 - Solar panel installation
-- Energy storage installation
-- Financing arrangement
-- Post-installation customer support
+- Energy storage (battery) installation
+- Financing coordination with partner institutions
+- Post-installation customer service and support
 
 ## Industries
 - Residential solar installation
 - Renewable energy
-- Home energy storage
+- Energy storage
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -89,15 +100,16 @@ The founders say they created Mālama Solar to be different from other providers
 
 <details><summary>Sources</summary>
 
-- Founders Chris and Rachel Ah Sue -> /about-us
-- Headquarters Honolulu, Hawaii -> db and homepage
-- Five-step process (consult, design, permits, installation, power on) -> /services
-- Installation timeline 6-8 weeks, installation 2 days -> /services
-- Inc. 5000 fastest-growing listing -> homepage
-- Local crews on Oahu and Big Island -> homepage
-- Partners with manufacturers for panels, storage, financing -> homepage
-- Mālama ‘āina value and community focus -> /about-us
-- Customer testimonials from Kona, Kapolei, Ewa Beach -> homepage
+- Locally owned and operated solar company in Hawaii -> /
+- Founders Chris and Rachel Ah Sue formed the company -> /about-us
+- Rachel born and raised on O'ahu, Chris moved to O'ahu after college -> /about-us
+- 5-step process: Consult, Design, Permits, Installation, Power on the Savings -> /services
+- Installation typically takes 6-8 weeks after commitment, sometimes as soon as 3 weeks; installation itself about 2 days -> /services
+- Partners with manufacturers, distributors, and financial institutions for panels, energy storage, and financing -> /
+- Serves residential customers on Oahu and Big Island -> /
+- Customer examples in Kona, Kapolei, Ewa Beach -> /
+- Company mission rooted in Mālama 'Āina (care for the land) -> /about-us
+- Listed in Inc. 5000 as one of America's Fastest-Growing Private Companies -> /
 </details>
 
 ---
@@ -107,18 +119,24 @@ The founders say they created Mālama Solar to be different from other providers
 **Old description:** Be the first to know about new collections and exclusive offers.
 
 ## About
-Malco Products of Maine is based in Hermon, Maine, and traces its origins to 1992. The company does not disclose its ownership type, founder names, or the circumstances of its founding.
+Malco Products of Maine operates from Hermon, Maine, and traces its origins to 1992. The business runs under the web domain adidetailsupplies.com and presents itself as a long-standing presence in the automotive detailing market, though the input does not disclose the founders' names or the ownership structure.
 
-Its product lineup consists of automotive detailing chemicals sold under the Malco brand: EPIC® Ascend Ceramic Coating, Velocity™ One-Step Polish and Wax, SLIK SiO2 Paint Protectant Spray, and Iron Blaster 2.0 iron remover. The company operates an e-commerce storefront that explicitly states “No Shipping Available. In Person Pickup Only,” indicating a local, direct-to-customer model. No information is provided about manufacturing facilities, employee count, or production volumes.
+The company sells a line of automotive detailing chemicals that includes Iron Blaster 2.0, EPIC® ASCEND CERAMIC COATING, VELOCITY™ One-Step Polish and Wax, and SLIK SiO2 Paint Protectant Spray. The website functions as an e-commerce storefront with a "No Shipping Available. In Person Pickup Only" policy, indicating a local retail model rather than a wholesale or contract manufacturing operation. No facility size, headcount, or production volumes are provided.
 
-The storefront appears to serve individual vehicle owners and detailing professionals, though the company does not list specific industries, OEM customers, or B2B segments.
+The customer base appears to be vehicle owners and detailers seeking consumer-grade paint protection and correction products. The site's messaging — "THE BEST VALUE IN AUTOMOTIVE DETAILING PRODUCTS" — targets the automotive aftermarket segment, but no specific OEM, fleet, or industrial clients are named.
 
-The only stated differentiator is the company’s tenure, highlighted by the “Since 1992” mark, and a value proposition summarized as “THE BEST VALUE IN AUTOMOTIVE DETAILING PRODUCTS.” No additional claims about quality systems, technical capabilities, or founding purpose are made.
+The input does not state a founding mission or a declared competitive advantage beyond the "Since 1992" heritage claim and the pickup-only sales model.
 
 ## Known for
-- Since 1992 – over three decades in business
-- In-person pickup only; no shipping offered
-- Branded product line including ceramic coating, one-step polish/wax, SiO2 spray, and iron remover
+- Operating since 1992
+- In-person pickup only (no shipping)
+
+## Capabilities
+- Retail sales of automotive detailing chemicals
+
+## Industries
+- Automotive aftermarket
+- Automotive detailing
 
 ## Company details
 - **Company Type:** Retailer
@@ -127,46 +145,148 @@ The only stated differentiator is the company’s tenure, highlighted by the “
 
 <details><summary>Sources</summary>
 
-- Founded 1992 -> page / (text 'Since 1992') and db founded_year
-- Headquarters Hermon, Maine -> db hq_city, hq_state_label
-- Product names: Iron Blaster 2.0, EPIC® ASCEND CERAMIC COATING, VELOCITY™ One-Step Polish and Wax, SLIK SiO2 Paint Protectant Spray -> page /
-- No shipping, in-person pickup only -> page /
-- Slogan 'THE BEST VALUE IN AUTOMOTIVE DETAILING PRODUCTS' -> page /
-- Website adidetailsupplies.com -> db website
+- Company name 'Malco Products of Maine' -> db
+- Website 'adidetailsupplies.com' -> db
+- Founded year 1992 -> db and homepage 'Since 1992'
+- Headquarters Hermon, Maine -> db
+- Product names: Iron Blaster 2.0, EPIC® ASCEND CERAMIC COATING, VELOCITY™ One-Step Polish and Wax, SLIK SiO2 Paint Protectant Spray -> homepage
+- Pickup-only policy 'No Shipping Available. In Person Pickup Only' -> homepage
+- Slogan 'THE BEST VALUE IN AUTOMOTIVE DETAILING PRODUCTS' -> homepage
 </details>
 
 ---
 
 # Malloy
 
-_skipped: not enough facts_
+**Old description:** See Live Inventory on Big Motors, Big VFDs, & Pre-engineered Panels
+
+## About
+Malloy Electric traces its roots to 1945, when Emmett and Mary Malloy opened a modest motor repair and electric construction shop in downtown Sioux Falls, South Dakota. The business expanded in 1971 under Garry and Dianne Jacobson, who added retail sales of motors, electrical equipment, and power transmission components. Today the company operates eight Centers of Excellence across a six-state footprint—South Dakota, North Dakota, Nebraska, Iowa, Wyoming, and Montana—with its 150,000-square-foot National Operations Center in Sioux Falls serving as headquarters.
+
+The company provides full-lifecycle services for industrial rotating and control equipment. Its motor repair centers handle units from fractional horsepower through 15,000 HP, following EASA AR100 standards, and its machine shops support gearbox rebuilds covering helical, bevel, worm, planetary, and cycloidal reducers. Malloy also designs and builds UL508A-certified custom control panels, motor control centers, and VFD panels, and offers medium-voltage drive system installation up to 15 kV. The Sioux Falls facility houses a 70,000-pound lifting capacity, an 8-foot VPI tank, and static motor analyzers capable of testing to 30 kV. The company stocks more than 5,000 motors ranging from 1/125 HP to over 2,000 HP.
+
+Malloy serves industrial plants, utilities, electric cooperatives, mines, and processors throughout the northern plains and mountain west. Customers rely on its 24/7 field service dispatched from local centers for motor rewinds, gearbox repairs, VFD commissioning, and predictive maintenance programs that include vibration analysis, thermography, and partial discharge testing.
+
+The firm emphasizes problem-solving over parts replacement, continuous investment in capability (such as laser cladding and facility modernization), proximity to customers for rapid response, documented quality records with warranties, and a commitment to long-term relationships—principles that have sustained eight decades of continuous operation.
+
+## Known for
+- Problem-solving engineering approach rather than simple parts substitution
+- Continuous investment in capability (150,000 sq ft National Operations Center, laser cladding, modernized Centers of Excellence)
+- Eight Centers of Excellence across six states enabling fast local response
+- Documented quality records and warranties on every job
+- Eight decades of continuous operation since 1945
+
+## Capabilities
+- Motor repair and rewind (up to 15,000 HP)
+- New motor sales (fractional to 2,000+ HP)
+- Gearbox rebuild and repair (parallel shaft helical, bevel helical, worm, planetary, cycloidal, shaft-mounted)
+- Gearbox sales (authorized Martin, Timken, SEW Eurodrive)
+- VFD selection, installation, commissioning, field service (low voltage, medium voltage NPC, CHB, LCI topologies)
+- Custom UL508A control panel design and manufacture (MCCs, VFD panels, PLC panels, HVAC, pump, hazardous location)
+- UL698A hazardous location panel fabrication
+- Transformer installation, service, testing
+- Medium voltage drive system installation, commissioning, service
+- Predictive maintenance (vibration analysis, thermography, oil analysis, motor current signature analysis, partial discharge testing)
+- Static motor/generator testing (Baker D12R up to 12kV, Baker D12R with PP185D up to 30kV, PdMA MCE up to 5kV)
+- Core loss testing
+- Thermal imaging analysis
+- UL explosion proof motor recertification
+- Machining services
+- Laser cladding
+- Bearing protection services (AEGIS shaft grounding ring installation, shaft voltage testing, bearing cutting/inspection)
+- Energy savings audits
+- Motor retrofits with adapter bases
+- 70,000 lb lifting capability
+- 8' VPI tank
+- Load testing
+- Full voltage testing to 7.2 kV
+
+## Industries
+- Industrial plants
+- Utilities
+- Electric cooperatives
+- Mines
+- Processors
+- Heavy industry
+
+## Equipment
+- Baker D12R static motor analyzer
+- Baker D12R with PP185D power pack (30 kV capability)
+- PdMA MCE motor circuit evaluator
+- 8-foot VPI tank
+- 70,000 lb lifting capacity
+- Load test equipment
+- Laser cladding system
+
+## Certifications
+- EASA AR100
+- UL508A
+- UL698A
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Founded:** 1945
+- **Ownership:** Family-owned (founded by Malloy family, later Jacobson family)
+- **Headquarters:** Sioux Falls, South Dakota
+
+<details><summary>Sources</summary>
+
+- Founded 1945 by Emmett and Mary Malloy in Sioux Falls, SD -> /about
+- Garry and Dianne Jacobson took helm in 1971 -> /about
+- Eight Centers of Excellence across six states (SD, ND, NE, IA, WY, MT) -> /about
+- 150,000 sq ft National Operations Center in Sioux Falls -> /about
+- Motor repair up to 15,000 HP following EASA AR100 -> /about
+- Gearbox rebuild covering helical, bevel, worm, planetary, cycloidal -> /about
+- VFD service for low voltage and medium voltage (NPC, CHB, LCI) -> /about
+- Custom UL508A control panels and UL698A hazardous location -> /about
+- Transformer services and medium voltage drive systems -> /about
+- Predictive maintenance: vibration, thermography, oil analysis, MCSA, partial discharge -> /about
+- Over 5,000 motors in stock from 1/125 HP to 2,000+ HP -> /services
+- 70,000 lb lifting capability, 8' VPI tank, load testing -> /services
+- Baker D12R and Baker D12R with PP185D (30 kV) static analyzers -> /services
+- PdMA MCE analyzer up to 5 kV -> /services
+- Authorized motor brands: ABB, Siemens, WEG, Regal Beloit, Toshiba -> /about
+- Authorized gearbox brands: Martin, Timken, SEW Eurodrive -> /about
+- Authorized VFD brands: ABB, Toshiba, Fuji -> /about
+- 24/7 service availability -> /
+- Laser cladding capability -> /about
+- AEGIS shaft grounding ring installation -> /services
+</details>
+
+---
 
 # Mann Solar
 
 **Old description:** BUSINESSES:  TAKE ADVANTAGE OF THE 30% TAX CREDIT BEFORE IT IS TOO LATE - CLICK HERE TO START THE PROCESS!
 
 ## About
-Mann Solar operates from Lancaster, Kentucky, as an American-owned provider of solar energy equipment and installation services. The company's founding year and original founders are not publicly disclosed in its directory listing or website.
+Mann Solar operates from Lancaster, Kentucky, as an American-owned solar installation and product company. The firm provides NABCEP-certified solar installations for residential and commercial customers, along with a curated selection of panels, batteries, racking, and accessories.
 
-The firm's core business spans two areas: turnkey solar installations for homes and businesses, and distribution of photovoltaic hardware. Installation services cover ground-mount, roof-mount, and sloped-roof configurations for both residential and commercial projects, all performed under NABCEP certification. On the product side, Mann Solar stocks solar panels, server-rack and wall-mount batteries, racking systems, high-efficiency appliances, and DIY solar kits from manufacturers such as CW Energy and UZ Energy. The company also assists customers with USDA REAP grant applications. No facility square footage, employee count, or annual project volume is published.
+The company installs ground-mount, roof-mount, and sloped-roof systems, and assists clients with USDA REAP grant applications for agricultural projects. Its product portal features German-engineered UZ Energy server-rack batteries with UL9540A certification and CW Energy half-cut and bifacial modules. Mann Solar also publishes hands-on product reviews and installation overviews to guide purchasing decisions.
 
-Mann Solar's customer base consists of residential property owners and commercial entities seeking to reduce energy costs through solar power. The company emphasizes the 30% federal investment tax credit and warns that recent tariffs on Chinese-made solar cells will raise system prices, positioning its current inventory as a cost advantage.
+Customers include homeowners seeking to reduce energy bills, businesses of all sizes pursuing sustainability goals, and farms leveraging federal incentives. The company highlights the 30% federal tax credit and warns of rising costs due to tariffs on Chinese-made equipment, positioning its existing inventory as a cost advantage.
 
-According to its directory entry, Mann Solar holds ISO 9001 and ISO 14001 certifications, indicating a formal quality and environmental management system. The company markets itself as an American-owned alternative in a supply chain heavily reliant on imported equipment, and it provides hands-on product reviews to guide purchasing decisions.
+Mann Solar differentiates itself through NABCEP certification, direct grant-application support, and a focus on pre-tariff pricing for American-owned supply. The firm emphasizes hands-on testing and expert insights to ensure customers select reliable, high-performance components.
 
 ## Known for
 - NABCEP-certified solar installations
 - USDA REAP grant application assistance
-- American-owned company with domestic inventory
-- ISO 9001 and ISO 14001 certified management systems
 - Hands-on product reviews and expert insights
+- Pre-tariff pricing on American-owned inventory
+- UL9540A-certified battery offerings
 
 ## Capabilities
 - Residential solar installation (ground mount, roof mount)
 - Commercial solar installation (ground mount, sloped roof)
-- Solar product distribution (panels, batteries, racking, accessories)
-- USDA REAP grant application assistance
-- Product review and selection consulting
+- USDA REAP grant application service
+- Solar product sales (panels, batteries, racking, inverters, accessories, DIY kits)
+- Product testing and review publication
+- Solar system design and consultation
+
+## Industries
+- Residential solar
+- Commercial solar
+- Agricultural solar (USDA REAP)
 
 ## Certifications
 - ISO 9001
@@ -179,14 +299,17 @@ According to its directory entry, Mann Solar holds ISO 9001 and ISO 14001 certif
 
 <details><summary>Sources</summary>
 
-- Headquarters: Lancaster, Kentucky -> db
-- American-owned -> page /
-- NABCEP certified solar installations -> page /
-- USDA REAP Grant Application Service -> page /
-- Residential and commercial installation services (ground mount, roof mount, sloped roof) -> page /
-- Product distribution: solar panels, batteries, racking, accessories from CW Energy and UZ Energy -> page /
-- ISO 9001 and ISO 14001 certifications -> db
-- 30% federal tax credit and tariff impact messaging -> page /
+- Location: Lancaster, Kentucky -> db
+- Certifications: ISO9001, ISO14001 -> db
+- Services: Residential and commercial solar installation (ground mount, roof mount, sloped roof) -> /
+- Service: USDA REAP Grant Application Service -> /, db
+- Products sold: Solar panels, batteries, racking, inverters, accessories, DIY kits -> /
+- Brands: UZ Energy Server Rack Battery (German-engineered, UL9540A certified), CW Energy 450W and 595W panels -> /
+- NABCEP certified installations -> /
+- American-owned -> /
+- 30% tax credit promotion -> /
+- Tariff impact on pricing -> /
+- Hands-on product reviews and expert insights -> /
 </details>
 
 ---
@@ -196,31 +319,24 @@ According to its directory entry, Mann Solar holds ISO 9001 and ISO 14001 certif
 **Old description:** In 1932, during the prime of a bustling textile industry, Tom Oates founded Manual Woodworkers and Weavers (MWW). Our privately owned company, nestled in the mountains of western North Carolina, quickly established itself as an innovative force in the gift and decorative accessories industry.
 
 ## About
-Manual Woodworkers & Weavers was founded in 1932 by Tom Oates in Hendersonville, North Carolina, amid the region's bustling textile industry. The privately owned company established itself in the mountains of western North Carolina as an innovative force in the gift and decorative accessories market.
+Manual Woodworkers & Weavers was founded in 1932 by Tom Oates in Hendersonville, North Carolina, amid the region’s bustling textile industry. The privately owned company established itself in the mountains of western North Carolina as a maker of gift and decorative accessories.
 
-The company designs and produces a broad range of decorative accessories, including pillows, throws, quilts, wall hangings, wind chimes, figurines, candles, and seasonal décor. Product lines span categories such as garden, nautical, lodge, western, Americana, and inspirational themes, often featuring artwork from licensed artists like Thomas Kinkade Studios, Nicky Boehme, and Lori Siebert. Operations encompass woodworking and weaving, reflecting the company's name, though specific facility size and headcount are not disclosed.
+The company produces a wide range of decorative items including pillows, throws, quilts, wall hangings, wind chimes, figurines, wall signs, candles, clocks, and walking sticks. Its catalog spans seasonal collections such as Christmas, Americana, and nautical themes, as well as licensed artwork from artists like Thomas Kinkade Studios, Nicky Boehme, and Lori Siebert. Operations include a wholesale division that serves retailers through a dedicated sign-in portal and a “Manual Margin Makers” program.
 
-MWW sells wholesale to retailers, florists, and gift shops, offering programs such as Manual Margin Makers and a presence on the Faire wholesale marketplace. The company also provides a store finder for end consumers and collaborates with a roster of artists to create branded collections.
+MWW primarily serves the gift and decorative accessories market, selling wholesale to independent retailers, florists, and garden centers. The website features a “For Our Florists” section and a store finder for end consumers, indicating a focus on brick-and-mortar gift shops and floral outlets.
 
-The company cites its long heritage and innovative approach in the gift and decorative accessories industry as key differentiators, along with its artist partnerships and wholesale-focused margin programs.
+The company emphasizes its long-standing presence and innovative approach in the decorative accessories sector, though specific differentiators beyond its heritage and artist partnerships are not detailed in public materials.
 
 ## Known for
-- Innovative force in gift and decorative accessories since 1932
-- Privately owned, based in the Blue Ridge Mountains
-- Manual Margin Makers program for retailer margins
-- Artist collaborations including Thomas Kinkade Studios
-- Wholesale distribution via Faire and direct
-
-## Capabilities
-- Woodworking
-- Weaving
-- Wholesale distribution
+- Innovative force in the gift and decorative accessories industry
+- Privately owned and operated since 1932
+- Artist collaborations including Thomas Kinkade Studios and Nicky Boehme
+- Wholesale program featuring Manual Margin Makers
 
 ## Industries
 - Gift and decorative accessories
-- Floral
-- Home decor
 - Wholesale
+- Floral
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -230,15 +346,13 @@ The company cites its long heritage and innovative approach in the gift and deco
 
 <details><summary>Sources</summary>
 
-- Founded 1932 by Tom Oates -> db, /
-- Headquarters Hendersonville, North Carolina -> db, /
-- Privately owned -> db, /
-- Gift and decorative accessories industry -> db, /
-- Product categories: pillows, throws, wall hangings, wind chimes, figurines, seasonal décor -> /
-- Artist collaborations: Thomas Kinkade Studios, Nicky Boehme, Lori Siebert, etc. -> /
-- Wholesale programs: Manual Margin Makers, Faire -> /
-- Contact phones: 800-542-3139, 828-692-7333 -> /
-- Instagram handle @MANUAL_WW -> /
+- Founded in 1932 by Tom Oates -> db
+- Privately owned company in Hendersonville, NC -> db
+- Operates in gift and decorative accessories industry -> db
+- Product categories include pillows, throws, wall hangings, wind chimes, figurines, wall signs, walking sticks, ceramics, canvas art -> /
+- Wholesale division with retailer portal and Manual Margin Makers program -> /
+- Artist collaborations with Thomas Kinkade Studios, Nicky Boehme, Lori Siebert, others -> /
+- Serves florists and retail gift shops -> /
 </details>
 
 ---
@@ -248,29 +362,29 @@ The company cites its long heritage and innovative approach in the gift and deco
 **Old description:** Manufacturing Industries, Inc. Founded and incorporated in 1976 by Ronald Quillen.  Ron has worked in the electronics sector of design, test, and manufacturing since the late 1950's
 
 ## About
-Manufacturing Industries, Inc. was founded and incorporated in 1976 by Ronald Quillen in Alderson, West Virginia. Quillen, who had worked in electronics design, test, and manufacturing since the late 1950s, returned to his hometown to establish the company. Now operating in its second generation, the family-owned business continues to serve as a full-service electronic contract manufacturer from its facility on Rhododendron Drive.
+Manufacturing Industries, Inc. was founded and incorporated in 1976 by Ronald Quillen in Alderson, West Virginia. Quillen had worked in electronics design, test, and manufacturing since the late 1950s before returning to his hometown to start the company. Today the business operates as a second-generation family-owned electronic contract manufacturer.
 
-The company provides automated surface-mount assembly (SMT), through-hole PCB assembly, prototype and turn-key production builds, electrical and functional testing, wire-harness and cable assemblies, and conformal coating. A dedicated prototype and medium-volume SMT line runs at up to 13,000 placements per hour, with on-the-fly programming from a bare board and bill of materials. That data transfers directly to high-speed production equipment for larger runs, enabling a seamless transition from pre-production evaluation to volume manufacturing.
+The company provides full-service electronic contract manufacturing including automated surface-mount assembly (SMT), thru-hole printed circuit board assembly, prototype and turn-key production assembly, electrical and functional testing, wire harness and cable assemblies, conformal coating, and scheduled delivery. A dedicated prototype and medium-quantity SMT line achieves up to 13,000 placements per hour, with pick-and-place data generated on the fly from a circuit board and bill of materials. That data can then be transferred to high-speed production equipment for larger volumes.
 
-Customers span medical, military, commercial, industrial, automotive, OEM, and consumer-product sectors. The shop handles high-mix, low-to-medium volume work as well as scheduled delivery programs for ongoing production needs.
+Manufacturing Industries serves medical, military, commercial, industrial, automotive, OEM, and consumer-product customers. Its flexible, high-mix capability targets small- to medium-quantity runs, pre-production test builds, and evaluations, with a path to scale into production quantities.
 
-The operation emphasizes flexibility: pick-and-place programs can be generated quickly for small batches, then imported into faster lines without rework. Scheduled delivery service and a full turn-key offering — from component procurement through final test — are cited as core differentiators.
+The company emphasizes its ability to move seamlessly from prototype to production using the same programming data, reducing transition risk and lead time for customers who need both low-volume validation and higher-volume fulfillment.
 
 ## Known for
-- Dedicated prototype SMT line at 13,000 placements/hour with on-the-fly programming from board and BOM
-- Seamless data transfer from prototype to high-speed production equipment
-- Full turn-key service including component procurement, assembly, test, and conformal coating
-- Scheduled delivery service for recurring orders
-- High-mix flexibility for low-to-medium volume runs
+- High-mix SMT line with 13,000 placements per hour
+- Prototype-to-production data portability
+- Full-service electronic contract manufacturing under one roof
+- Scheduled delivery service
+- Second-generation family ownership
 
 ## Capabilities
 - Automated surface mount assembly (SMT)
-- Through-hole printed circuit board assembly
+- Thru-hole printed circuit board assembly
 - Prototype assembly
 - Turn-key production assembly
-- Electrical and functional testing
+- Electrical and function testing
 - Wire harness and cable assemblies
-- Conformal coating
+- Conformal coatings
 - Scheduled delivery service
 
 ## Industries
@@ -283,35 +397,26 @@ The operation emphasizes flexibility: pick-and-place programs can be generated q
 - Consumer products
 
 ## Equipment
-- Dedicated prototype and medium-quantity SMT machine (13,000 placements/hour)
-- High-speed production SMT equipment
+- SMT pick-and-place machine (13,000 placements/hour)
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1976
-- **Ownership:** Family-owned
+- **Ownership:** Family-owned (second generation)
 - **Headquarters:** Alderson, West Virginia
 
 <details><summary>Sources</summary>
 
 - Founded 1976 by Ronald Quillen -> /
-- Headquartered in Alderson, West Virginia -> /
 - Second-generation family-owned -> /
-- Full-service electronic contract manufacturer -> /
-- Automated SMT assembly up to 13,000 placements/hour -> /
-- Through-hole PCB assembly -> /
-- Prototype and turn-key production assembly -> /
-- Electrical and functional testing -> /
-- Wire harness and cable assemblies -> /
-- Conformal coating -> /
-- Scheduled delivery service -> /
-- Serves medical, military, commercial, industrial, automotive, OEM, consumer products -> /
-- On-the-fly programming from board and BOM -> /
-- Seamless data transfer to high-speed production equipment -> /
-- Facility at 152 Rhododendron Drive, Alderson, WV 24910 -> /
+- Location: Alderson, West Virginia -> /
+- Full-service electronic contract manufacturing -> /
+- Services: SMT, thru-hole, prototype, turn-key, testing, wire harness, conformal coating, scheduled delivery -> /
+- SMT machine 13,000 placements/hour -> /
+- Industries: medical, military, commercial, industrial, automotive, OEM, consumer products -> /
+- Prototype-to-production data portability -> /
 - Founded year 1976 -> db
-- Headquarters city Alderson -> db
-- Headquarters state West Virginia -> db
+- Headquarters Alderson, West Virginia -> db
 </details>
 
 ---
@@ -321,24 +426,24 @@ The operation emphasizes flexibility: pick-and-place programs can be generated q
 **Old description:** First, we pinpoint your pain points. Then, we deliver the solutions to get them out of your way.
 
 ## About
-Manufacturing Works operates from Laramie, Wyoming, where it was established in 2019 as the state's designated NIST Manufacturing Extension Partnership (MEP) Center. The organization was created to help Wyoming manufacturers and producers of all sizes improve their competitiveness through customized support, technology adoption, and specialized services.
+Manufacturing Works operates from Laramie, Wyoming, where it was established in 2019 as the state’s designated NIST Manufacturing Extension Partnership (MEP) Center. The organization was created to help Wyoming manufacturers and producers of every size and type improve their top-line potential and bottom-line growth.
 
-Rather than producing goods itself, Manufacturing Works delivers consulting and implementation services across eight core areas: continuous improvement, cybersecurity, advanced manufacturing technologies, ISO and quality management, prototyping, supply chain optimization, business excellence assessment, and workforce development and training. Its expertise extends to additive manufacturing implementation, AR/VR integration, automation planning, CRM/ERP deployment, IoT education, and Lean Six Sigma methodologies. The center matches services to each client through detailed assessments aimed at increasing efficiency, profitability, and reducing operational bottlenecks.
+Rather than producing parts, the center delivers a broad portfolio of consulting and implementation services. Its offerings span continuous improvement, cybersecurity, advanced manufacturing technologies, ISO and quality management, prototyping support, supply chain optimization, business excellence assessment, and workforce development and training. Specific expertise includes additive manufacturing implementation, AR/VR integration, automation planning, CRM/ERP deployment, IoT education, and lean Six Sigma deployment. Services are matched to each client through a detailed assessment process.
 
-The center serves Wyoming-based manufacturers across diverse sectors. Documented clients include Integrated Well Services, Inc. in Sweetwater County, community makerspace Maker Space 307, STYP, LLC, Red River, LLC, TITUS Wastewater Solutions, and Pertech Industries, Inc. These engagements range from fabricating complex plastic parts to implementing training programs that create engineering career pathways.
+The center serves manufacturers across Wyoming, with documented engagements ranging from oilfield service firms such as Integrated Well Services, Inc., to wastewater treatment specialists like TITUS Wastewater Solutions, community makerspaces including Maker Space 307, and industrial firms such as Pertech Industries, Inc. and Red River, LLC.
 
-Manufacturing Works states its mission is to "Power Wyoming's manufacturing success through customized support, technology, and services." It positions itself as a catalyst for transitioning the state's manufacturing base from Industry 2.0 and 3.0 to Industry 4.0, emphasizing technology adoption and workforce readiness as key differentiators.
+Manufacturing Works states its mission is to power Wyoming’s manufacturing success through customized support, technology, and services, focusing on the transition from Industry 2.0 and 3.0 to Industry 4.0. Since 2019, the center reports helping create or maintain Wyoming jobs, inspire client investment in the state economy, retain sales, generate cost savings, and deliver new sales for its clients.
 
 ## Known for
 - Wyoming's designated NIST MEP Center
-- Customized client assessments matching services to specific needs
-- Focus on Industry 4.0 transition for Wyoming manufacturers
-- Expertise in additive manufacturing, automation, AR/VR, IoT, and cybersecurity implementation
-- Track record of helping clients create jobs, increase sales, and achieve cost savings
+- Customized service matching via detailed client assessment
+- Focus on Industry 4.0 transition (additive, automation, IoT, AR/VR)
+- Reported outcomes: jobs created/maintained, sales retained, cost savings, new sales delivered
+- Comprehensive service portfolio from cybersecurity to workforce training
 
 ## Capabilities
 - Continuous Improvement
-- Cybersecurity
+- Cybersecurity Implementation
 - Advanced Manufacturing Technologies
 - ISO & Quality Management
 - Prototyping
@@ -362,12 +467,13 @@ Manufacturing Works states its mission is to "Power Wyoming's manufacturing succ
 
 - Founded 2019 -> db
 - Headquarters Laramie, Wyoming -> db
-- Wyoming's NIST MEP Center -> /about-us
-- Mission: Power Wyoming's manufacturing success through customized support, technology, and services -> /about-us
-- Core services: Continuous Improvement, Cybersecurity, Advanced Manufacturing Technologies, ISO & Quality Management, Prototyping, Supply Chain Optimization, Business Excellence Assessment, Workforce Development & Training -> /services
-- Expertise areas: Additive Manufacturing Implementation, AR/VR Implementation, Automation Planning and Implementation, CRM/ERP Implementation, Cybersecurity Implementation, Emerging Manufacturing Technologies Education, IoT Education, Lean and Six Sigma Implementation -> /about-us
-- Client examples: Integrated Well Services, Inc., Maker Space 307, STYP, LLC, Red River, LLC, TITUS Wastewater Solutions, Pertech Industries, Inc. -> /
-- Since 2019 helped create/maintain Wyoming jobs, inspire investment, retain sales, create cost savings, deliver new sales -> /
+- NIST MEP Center designation -> /about-us
+- Mission statement -> /about-us
+- Services list (continuous improvement, cybersecurity, etc.) -> /services, /about-us
+- Areas of expertise (additive, AR/VR, automation, CRM/ERP, IoT, lean Six Sigma) -> /about-us
+- Client examples (Integrated Well Services, Maker Space 307, STYP, Red River, TITUS Wastewater, Pertech Industries) -> /
+- Reported outcomes (jobs, investment, sales retention, cost savings, new sales) -> /
+- Industry 4.0 transition focus -> /about-us, /services
 </details>
 
 ---
@@ -377,43 +483,44 @@ Manufacturing Works states its mission is to "Power Wyoming's manufacturing succ
 **Old description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sit
 
 ## About
-Marine Engines Inc. operates from Holliston, Massachusetts, where it was founded in 1996. The family-run business has spent more than three decades in the marine and high-performance engine industry, serving boat owners across New England and beyond.
+Marine Engines Inc. operates from Holliston, Massachusetts, where it was founded in 1996 as a family-run business. The company has spent more than three decades in the marine and high-performance engine industry, serving boat owners throughout New England and beyond.
 
-The company supplies new and remanufactured marine engines, transmissions, and related parts. Its product lineup includes new engines from Crusader and GM, Panther replacement engines, Velvet Drive and ZF-Hurth transmissions, as well as cylinder heads, head kits, fresh-water cooling systems, drives, and sterndrives. The firm stocks both new and remanufactured Velvet Drive units and offers remanufactured marine transmissions. Operations cover distribution, inventory management, and logistics, with delivery via company trucks throughout New England and discounted freight rates elsewhere.
+The company supplies new marine engines from manufacturers such as Crusader Engines and GM Marine, along with Panther marine engines for restoration and upgrade projects. It also stocks used and replacement marine engines, marine drives, sterndrives, and a range of parts including cylinder heads, head kits, and fresh-water cooling systems. For transmissions, Marine Engines carries Velvet Drive and ZF-Hurth units, both new and remanufactured, and performs remanufacturing of marine transmissions in-house. The facility offers pickup near major Massachusetts highways and ships via its own trucks throughout New England, with discounted freight rates elsewhere and export capability to foreign markets.
 
-Customers range from individual boat owners to marine repair shops and high-performance enthusiasts throughout New England, with additional export sales to foreign markets. The company's inventory targets vessels requiring inboard, sterndrive, and transmission replacements or upgrades.
+Customers include recreational and commercial boat owners, marine repair shops, and restoration specialists across New England and nationally. The company's inventory supports repowering, repair, and performance upgrade projects for a variety of vessel types.
 
-Marine Engines emphasizes its family-owned heritage, deep product knowledge, and shipping flexibility—including direct truck delivery in the region and international export capability—as factors that distinguish it in the marine aftermarket.
+Marine Engines emphasizes dependable solutions backed by industry experience, competitive shipping rates, and convenient access for local pickup. Its differentiators include family ownership, a broad line of factory and remanufactured products, and a logistics network that covers New England delivery and international export.
 
 ## Known for
-- Family-run with over 30 years in marine and high-performance engines
-- Delivery in New England by company-owned trucks
-- Deeply discounted freight rates outside New England
-- Export capability to foreign markets
+- Family-run with over 30 years in marine and high-performance engine industry
+- Supplies new engines from Crusader, GM Marine, and Panther
+- Stocks and remanufactures Velvet Drive and ZF-Hurth transmissions
+- Own-truck delivery in New England, discounted freight elsewhere, exports internationally
+- Convenient pickup near major Massachusetts highways
 
 ## Capabilities
-- New marine engine supply (Crusader, GM)
-- Used marine engine supply
-- Replacement marine engine supply
-- Marine engine parts distribution
-- Marine cylinder head supply
-- Head kit supply
+- New marine engine distribution (Crusader, GM Marine, Panther)
+- Used and replacement marine engine sales
+- Marine engine parts distribution (cylinder heads, head kits, cooling systems)
+- Marine transmission supply (Velvet Drive, ZF-Hurth)
+- Marine transmission remanufacturing
+- Marine drive and sterndrive sales
 - Fresh water cooling system supply
-- Marine drive supply
-- Sterndrive supply
-- Velvet Drive transmission supply
-- Remanufactured Velvet Drive transmission supply
-- ZF-Hurth transmission supply
-- Remanufactured marine transmission supply
-- New England truck delivery
-- Freight shipping
-- International export
+- New England delivery via company trucks
+- Freight shipping and export services
 
 ## Industries
 - Marine
-- High-performance engine
-- Recreational boating
-- Marine aftermarket
+- Boating
+- High-performance marine engine
+- Marine restoration and upgrade
+
+## Equipment
+- Crusader Engines
+- GM Marine Engines
+- Panther Marine Engines
+- Velvet Drive transmissions
+- ZF-Hurth transmissions
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -424,20 +531,15 @@ Marine Engines emphasizes its family-owned heritage, deep product knowledge, and
 <details><summary>Sources</summary>
 
 - Founded 1996 -> db
-- Headquarters Holliston, Massachusetts -> db
-- Family-run company -> /
-- More than 30 years in marine and high-performance engine industry -> /
-- Supplies new marine engines from Crusader and GM -> /
-- Carries Panther marine engines -> /
-- Stocks Velvet Drive and ZF-Hurth transmissions -> /
-- Offers remanufactured marine transmissions -> /
-- Provides marine engine parts, cylinder heads, head kits, fresh water cooling systems -> /
-- Delivery in New England by own trucks -> /
-- Discounted freight rates elsewhere -> /
-- Exports to foreign markets -> /
-- Serves boat owners across New England -> /
-- Phone 1-800-786-7639 -> /
-- Website https://www.1800runsnew.com/ -> db
+- Headquarters Holliston, Massachusetts -> db, page /
+- Family-run company with more than 30 years in marine industry -> page /
+- Supplies new marine engines from Crusader Engines and GM Marine -> page /
+- Carries Panther marine engines and replacement Panther engines -> page /
+- Offers used marine engines, marine drives, sterndrives, parts -> page /
+- Stocks Velvet Drive and ZF-Hurth transmissions, remanufactured units -> page /
+- Remanufactures marine transmissions in-house -> page /
+- Delivery in New England by own trucks, discounted freight rates, exports to foreign markets -> page /
+- Convenient pickup near major Massachusetts highways -> page /
 </details>
 
 ---
@@ -447,30 +549,27 @@ Marine Engines emphasizes its family-owned heritage, deep product knowledge, and
 **Old description:** Mark Automotive Mfg. Co., LLC has been in business here in Michigan since 1974 and we supply top-quality parts Nationwide.
 
 ## About
-Mark Automotive Mfg. Co., LLC has operated from Wixom, Michigan since 1974, building a reputation as a steady supplier of automotive replacement parts nationwide. The company operates under the Mark Auto brand and maintains an online catalog for customer orders.
+Mark Automotive Mfg. Co., LLC has operated from Wixom, Michigan since 1974. The company supplies automotive replacement parts nationwide from its Michigan base.
 
-Its online catalog lists hundreds of part numbers organized into categories such as batteries (20), bulbs (22), clips (29), electrical components (37), screws and clips (36), and tire valve accessories (2). Additional lines cover fuses, relays, sensors, filters, and hardware for brands such as Land Rover (51), Lexus (42), Mercedes (19), Porsche (12), and Volvo (29). Mark Automotive backs every item with a parts and labor warranty.
+Its catalog spans categories from batteries, bulbs, and clips to electrical components and hardware. A parts-and-labor warranty covers every item sold.
 
-Mark Automotive serves the automotive aftermarket across the United States, providing parts for both domestic and import vehicles. Its customers include independent repair shops, dealership service departments, and vehicle owners seeking original-equipment-style replacements. The company ships nationwide from its Michigan facility.
+Customers range from independent repair shops to dealership service departments across the United States. The breadth of inventory allows the company to serve as a single source for both common and hard-to-find components across domestic and import platforms.
 
-The business emphasizes its long-standing presence since 1974, nationwide shipping reach, and the comprehensive warranty as factors that distinguish it in the automotive parts supply chain. It also highlights a willingness to source items not listed in the catalog upon request.
+The business emphasizes its warranty program as a key differentiator, offering labor coverage alongside parts replacement. The founding goal was to provide a reliable, nationwide supply of quality automotive parts.
 
 ## Known for
 - Parts & Labor Warranty on all products
 - Nationwide distribution from Michigan
-- In business since 1974
-- Will source non-listed parts on request
+- Single-source for domestic and import parts
 
 ## Capabilities
 - Automotive parts distribution
 - Parts & labor warranty administration
 - Nationwide shipping
-- Catalog management
-- Custom parts sourcing
 
 ## Industries
 - Automotive aftermarket
-- Automotive parts distribution
+- Vehicle repair and maintenance
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -481,11 +580,10 @@ The business emphasizes its long-standing presence since 1974, nationwide shippi
 
 - Founded 1974 -> db
 - Headquarters Wixom, Michigan -> db
-- Supplies parts nationwide -> /
-- Offers Parts & Labor Warranty on everything -> /
-- Carries parts for 30+ vehicle makes including Audi, BMW, Ford, GM, Toyota -> /
-- Product categories include batteries, bulbs, clips, electrical, screws, tire valve accessories -> /
-- Will source non-listed parts on request -> /
+- Nationwide parts supply -> db
+- Parts & Labor Warranty on everything -> /
+- Product catalog includes 30+ vehicle makes -> /
+- Battery, bulb, clip, electrical, hardware categories -> /
 </details>
 
 ---

@@ -3,46 +3,41 @@
 **Old description:** Bob Miller is a custom furniture maker and woodworker based in the Charlestown neighborhood of Boston Massachusetts, creating a range of often sustainable custom work from custom work benches and tools to custom furniture,
 
 ## About
-Mass WoodWorks operates from the Charlestown neighborhood of Boston, Massachusetts. Founded by Bob Miller, the shop focuses on custom furniture and woodworking. Miller also manages the Charlestown Furniture Makers, a community of woodworkers in the Sullivan Square area, and teaches continuing education at the North Bennet Street School.
+Mass WoodWorks operates from the Charlestown neighborhood of Boston, Massachusetts, where founder Bob Miller runs a custom furniture and woodworking shop. Miller, a furniture maker and woodworker, established the business to produce sustainable custom pieces ranging from work benches and tools to furniture. The shop is located at 22R Dorrance Street in Charlestown and operates by appointment only.
 
-The shop produces custom furniture, work benches, and tools, often using sustainable materials and methods. Work is done by appointment at the Charlestown Furniture Makers facility on Dorrance Street. The operation is small-scale, with Miller handling design, fabrication, and instruction.
+The company focuses on custom woodworking, fabricating work benches, specialized tools, and furniture pieces tailored to client specifications. Miller also manages The Charlestown Furniture Makers, a community of woodworkers based in the Sullivan Square area, and teaches continuing education courses at the North Bennet Street School. The operation remains a small-scale, appointment-based shop with no published production volumes or facility metrics.
 
-Customers include individuals seeking bespoke furniture, woodworkers accessing the community shop, and students enrolled in North Bennet Street School courses. The business serves the local design and maker community rather than high-volume commercial accounts.
+While the company does not publicly list specific industry sectors, its custom furniture and work bench output serves clients seeking bespoke wood products. Miller's teaching role at the North Bennet Street School connects the shop to the educational woodworking community, and the Charlestown Furniture Makers collective provides a local network of craftspeople.
 
-Miller emphasizes sustainable practices and community-oriented craftsmanship. The integration of a shared workshop, teaching role, and custom production reflects a model built on skill-sharing and low-impact making.
+Miller emphasizes sustainability in his custom work, though the company does not detail specific environmental certifications or material sourcing policies. The business was built on Miller's direct craftsmanship and his commitment to the local woodworking community through both production and education.
 
 ## Known for
-- Sustainable custom woodworking
-- Community workshop model (Charlestown Furniture Makers)
-- Teaching affiliation with North Bennet Street School
-- Appointment-only custom fabrication
+- Sustainable custom woodworking focus
+- Manages Charlestown Furniture Makers community
+- Teaches at North Bennet Street School
+- Appointment-only shop model
 
 ## Capabilities
 - Custom furniture making
 - Woodworking
-- Custom work bench fabrication
+- Work bench fabrication
 - Tool making
 - Woodworking instruction
 - Community workshop management
 
-## Industries
-- Furniture manufacturing
-- Woodworking
-- Education (woodworking instruction)
-
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Headquarters:** Boston, Massachusetts
 
 <details><summary>Sources</summary>
 
-- Bob Miller is a custom furniture maker and woodworker based in Charlestown, Boston, Massachusetts -> /
-- Creates custom work benches, tools, custom furniture -> /
-- Often sustainable custom work -> /
+- Bob Miller is founder and custom furniture maker/woodworker -> /
+- Located in Charlestown neighborhood of Boston, Massachusetts -> /, db
+- Creates custom work benches, tools, furniture, often sustainable -> /
 - Manages The Charlestown Furniture Makers community in Sullivan Square area -> /
 - Teaches continuing education at North Bennet Street School -> /
-- Shop at 22R Dorrance St, Charlestown MA 02129 -> /
-- Appointment required, sales reps not welcome -> /
+- Shop at 22R Dorrance St, Charlestown MA 02129, appointment required -> /
+- No sales reps welcome -> /
 </details>
 
 ---
@@ -52,31 +47,29 @@ Miller emphasizes sustainable practices and community-oriented craftsmanship. Th
 **Old description:** Fill out the form below and we will contact you as soon as possible.
 
 ## About
-Master Plastics, Inc. was founded in 1990 in Vacaville, California. The company began with a vision to provide high-quality plastic products at affordable prices.
+Master Plastics, Inc. was founded in 1990 in Vacaville, California. The company was established with the vision of providing high-quality plastic products at affordable prices.
 
-Today, Master Plastics operates over 20 injection molding machines with clamping forces ranging from 28 to 1,000 tons, producing both precision components and large, complex parts. Its capabilities span plastic injection molding, mold design and tooling using CAD and design-for-manufacturing analysis, engineering and design services including 2D/3D modeling, material selection, mold flow analysis, finite element analysis, and cost-reduction engineering, as well as assembly and decoration such as welding, bonding, pad printing, and leak testing. The firm has over 30 years of operational experience and continually invests in its people, services, and capabilities.
+The company operates over 20 injection molding machines with clamping forces from 28 to 1,000 tons, producing both precision components and large, complex parts. Its capabilities span mold design and tooling, engineering and design services — including part development, material selection, mold flow analysis, finite element analysis, and cost-reduction engineering — as well as assembly and decoration such as welding, bonding, pad printing, and leak testing.
 
-The company serves customers in the medical, automotive, food and beverage, electronics, and industrial sectors, providing parts that impact lives in ways both seen and unseen.
+Master Plastics serves the medical, automotive, food and beverage, electronics, and industrial sectors. Customers range from original equipment manufacturers to companies requiring value-added assembly and secondary operations.
 
-Master Plastics emphasizes a commitment to investing in technology and processes that reduce costs while pursuing perfect quality, guided by values of integrity, excellence, curiosity, frugality, and agility. Its founding vision of affordable high-quality plastic products remains central to its operations.
+The firm emphasizes a purpose-driven approach, stating its core purpose is to manufacture the highest-quality parts that make everyday life better. It cites ongoing investment in technology and processes to reduce costs while pursuing perfect quality, guided by values of integrity, excellence, curiosity, frugality, and agility.
 
 ## Known for
 - Over 20 injection molding machines (28–1,000 ton)
-- Specializes in precision and large complex parts
-- In-house mold design with CAD and DFM
-- Engineering support including FEA, mold flow analysis, and cost-reduction engineering
+- In-house mold design and tooling with CAD and DFM support
+- Engineering services including FEA, mold flow analysis, and cost-reduction engineering
 - Value-added assembly and decoration: welding, bonding, pad printing, leak testing
 
 ## Capabilities
-- Plastic injection molding (28-1000 ton)
-- Mold design and tooling
-- CAD and design for manufacturing (DFM)
-- Part design and development (2D/3D modeling)
-- Material selection and mold flow analysis
+- Plastic injection molding
+- Mold design & tooling
+- Part design & development (2D & 3D model creation)
+- Material selection, mold flow analysis & DFM
 - Finite element analysis (FEA)
-- Cost reduction engineering
-- Theoretical modeling and simulation
-- Assembly
+- Part enhancements & cost reduction engineering
+- Theoretical modeling & simulation
+- Assembly & decoration
 - Welding
 - Bonding
 - Pad printing
@@ -90,7 +83,7 @@ Master Plastics emphasizes a commitment to investing in technology and processes
 - Industrial
 
 ## Equipment
-- Injection molding machines (28-1000 ton)
+- 20+ injection molding machines (28–1,000 ton)
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -99,18 +92,17 @@ Master Plastics emphasizes a commitment to investing in technology and processes
 
 <details><summary>Sources</summary>
 
-- Founded in 1990 -> /about
-- Headquarters in Vacaville, California -> db
-- Over 20 injection molding machines, 28-1000 ton -> /services
+- Founded 1990 -> db
+- Headquarters Vacaville, California -> db
+- Over 20 injection molding machines 28-1000 ton -> /services
 - Specializes in precision and large complex parts -> /services
-- Mold design and tooling with CAD and DFM -> /services
-- Engineering services: part design, material selection, mold flow analysis, FEA, cost reduction engineering, theoretical modeling -> /services
-- Assembly and decoration: welding, bonding, pad printing, leak testing -> /services
+- Mold design from ground up with CAD and DFM -> /services
+- Engineering services: part design, material selection, mold flow analysis, FEA, cost reduction -> /services
+- Assembly & decoration: welding, bonding, pad printing, leak testing -> /services
 - Industries served: Medical, Automotive, Food & Beverage, Electronics, Industrial -> /
-- Company purpose: manufacture highest quality parts that make everyday life better -> /about
+- Core purpose: manufacture highest quality parts that make everyday life better -> /about
 - Vision: provide high-quality plastic products at affordable prices -> /about
 - Values: Integrity, Excellence, Curiosity, Frugal, Agility -> /about
-- 30+ years of operations -> /services
 </details>
 
 ---
@@ -120,51 +112,58 @@ Master Plastics emphasizes a commitment to investing in technology and processes
 **Old description:** Masterson Foods is a leading supplier of dessert toppings to the restaurant industry. We offer a full spectrum of premium liquid toppings, syrups, cone dips and compound coatings. Masterson Foods has also developed innovative dispensing solutions to optimize topping quality, efficiency and safety.
 
 ## About
-Based in West Milwaukee, Wisconsin, Masterson Foods has built a reputation as a manufacturer of shelf-stable, hot-fill sweet and savory sauces. The company does not publicly disclose its founding year or founding individuals, and its ownership structure is not specified in available sources.
+Masterson Foods operates from West Milwaukee, Wisconsin. The company does not disclose its founding year or ownership structure, but describes itself as having a rich history in food manufacturing. No founders are named in public materials.
 
-The company produces a range of products including ice cream toppings and syrups, ice cream ingredients such as variegates and flavor bases, dessert components, and savory sauces and marinades. Its capabilities encompass hot-fill processing, form-fill-seal and stand-up pouch packaging, as well as bulk container filling. Masterson Foods operates multiple processing and packaging work centers, providing flexibility and redundancy for contract manufacturing, though specific facility size, employee count, and production volumes are not disclosed.
+The company produces shelf-stable, hot-fill sweet and savory sauces, including ice cream toppings, syrups, cone dips, compound coatings, variegates, flavor bases, and chocolate inclusions. It also formulates dessert components for pre-bake, post-bake, and microwave applications, as well as savory sauces and marinades. Packaging capabilities cover form-fill-seal and stand-up pouches, along with bulk containers such as pails, drums, and totes. Multiple processing and packaging work centers provide flexibility and redundancy for contract manufacturing.
 
-Masterson Foods primarily serves the restaurant and foodservice industry with dessert toppings, as well as the ice cream industry with ingredients like variegates and chocolate inclusions. The company also provides contract manufacturing services for food brands seeking custom formulations and packaging, though specific customer names are not disclosed.
+Masterson Foods supplies the restaurant industry with dessert toppings and serves ice cream manufacturers with ingredients. Its contract manufacturing arm works with food brands seeking custom liquid formulations and packaging solutions. The company emphasizes its ability to match existing flavor profiles or develop new products from an extensive project database.
 
-The company emphasizes its innovative dispensing solutions designed to improve topping quality, efficiency, and safety in foodservice operations. It also highlights a 'quality and food safety first' culture, supported by HACCP and FSMA preventive control programs, extensive sanitation practices, and a comprehensive food defense program. Masterson Foods states that it values its history while focusing on future innovation.
+The company highlights its innovative dispensing solutions designed to optimize topping quality, efficiency, and safety. A peanut- and tree-nut-free facility, a comprehensive food defense program with 24/7 security monitoring and over 100 cameras, and HACCP/FSMA preventative control programs underscore its focus on food safety. Masterson Foods states it is at the forefront of processing and packaging technologies.
 
 ## Known for
 - Innovative dispensing solutions for topping quality, efficiency, and safety
-- Multiple processing and packaging work centers for flexibility and redundancy
-- Peanut and tree nut free facility
-- HACCP and FSMA preventive control programs
 - Form-fill-seal and stand-up pouch packaging expertise
+- Multiple processing and packaging work centers for flexibility and redundancy
+- Peanut- and tree-nut-free facility
+- Comprehensive food defense program with 24/7 monitoring and 100+ cameras
 
 ## Capabilities
-- Hot-fill processing
+- Shelf-stable hot-fill sauce manufacturing
 - Form-fill-seal packaging
 - Stand-up pouch packaging
-- Bulk container filling
-- Custom formulation development
+- Bulk container packaging
+- Ice cream topping and syrup production
+- Ice cream ingredient formulation
+- Dessert component formulation and packaging
+- Savory sauce and marinade development
 - Contract manufacturing
+- Custom liquid formulation
 - Dispensing solution development
-- HACCP/FSMA preventive control programs
-- Foreign material control (metal detectors, magnets, filters)
-- Allergen control program
-- Sanitation standard operating procedures (SSOP)
-- Vendor approval and compliance program
+- HACCP/FSMA preventative control
+- Foreign material control
+- Allergen control
+- Sanitation and SSOP development
+- Vendor approval and compliance
+- Food defense program
+- CAPA program
+- Internal auditing
+- Employee training programs
 
 ## Industries
-- Restaurant industry
-- Ice cream industry
+- Restaurant
+- Ice cream manufacturing
 - Food manufacturing
-- Foodservice
+- Dessert
+- Savory sauce
 
 ## Equipment
-- Form-fill-seal packaging lines
-- Stand-up pouch equipment
 - Metal detectors
 - Magnets
 - Filters
-- Hot-fill processing equipment
 
 ## Certifications
 - HACCP
+- FSMA Preventative Control Program
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -173,15 +172,20 @@ The company emphasizes its innovative dispensing solutions designed to improve t
 <details><summary>Sources</summary>
 
 - Location: West Milwaukee, Wisconsin -> db
-- Product lines: ice cream toppings, syrups, cone dips, compound coatings, dessert components, savory sauces, marinades -> /
-- Processes: hot-fill, form-fill-seal, stand-up pouches, bulk containers -> /
-- Multiple processing and packaging work centers -> /
-- Contract manufacturing services -> /
-- Innovative dispensing solutions -> /
-- Quality programs: HACCP, FSMA preventive controls, foreign material control, allergen control, peanut/tree nut free facility -> /quality
-- Sanitation: SSOP, validated cleaning procedures -> /quality
-- Vendor approval program: third-party audits, ingredient risk assessments -> /quality
-- Food defense program: 24/7 security monitoring, cameras, shipping/receiving protocols -> /quality
+- Manufacturer of shelf-stable, hot-fill sweet and savory sauces -> /
+- Packaging expertise in form-fill-seal and stand-up pouches -> /
+- Product lines: ice cream toppings, syrups, cone dips, compound coatings, variegates, flavor bases, chocolate inclusions, dessert components, savory sauces, marinades -> /
+- Contract manufacturing with multiple processing and packaging work centers -> /
+- Serves restaurant industry and ice cream manufacturers -> /
+- Innovative dispensing solutions for topping quality, efficiency, safety -> /
+- Peanut and tree nut free facility -> /quality
+- HACCP/FSMA preventative control programs -> /quality
+- Food defense program with 24/7 monitoring, 100+ cameras -> /quality
+- Foreign material control (metal detectors, magnets, filters) -> /quality
+- Allergen control program -> /quality
+- CAPA program -> /quality
+- Sanitation and SSOP development -> /quality
+- Vendor approval and compliance program -> /quality
 </details>
 
 ---
@@ -191,65 +195,64 @@ The company emphasizes its innovative dispensing solutions designed to improve t
 **Old description:** Engineering and manufacturing solutions for global OEM customers
 
 ## About
-Matcor Metal Fabrication (Kansas) Inc. operates from Independence, Kansas, as part of a North American metal fabrication group headquartered in Mississauga, Ontario.
+Matcor Metal Fabrication (Kansas) Inc. The company was founded in 2000 and has expanded to include facilities in Illinois, North Carolina, and Ontario, Canada.
 
-The company provides contract manufacturing of steel components and complex, high value‑added assemblies for global OEMs. Its capabilities span design and engineering, prototyping, tooling design, and VA/VE optimization, along with raw‑material sourcing through mill‑direct relationships for hot‑rolled coil and heavy plate. In‑house processes include laser, high‑definition plasma, and oxyfuel cutting; turret punching; hydraulic brake pressing and stamping; manual and robotic MIG and resistance spot welding with an in‑house weld engineer and full weld certifications; liquid primer, powder coat, and in‑line powder coating (E‑coat outsourced); vertical, horizontal, and large‑bed CNC bridge‑mill machining; and final assembly of whole goods, hydraulic tanks, and fuel tanks.
+The company specializes in steel components and complex, high value-added assemblies for original equipment manufacturers. Its capabilities span profile cutting (laser, high-definition plasma, oxyfuel, turret punch), forming (hydraulic brake press, stamping), welding (robotic MIG and resistance spot), painting (liquid primer/top coat, powder coat, e-coat), machining (vertical and horizontal CNC, large-bed bridge mill), and final assembly of whole goods such as hydraulic and fuel tanks. Matcor also offers design engineering, prototyping, tooling maintenance, and value analysis/value engineering (VA/VE) services, supported by in-house coil leveling and mill-direct sourcing of hot-rolled coil and heavy plate.
 
-Matcor serves OEM customers in heavy‑equipment and agricultural markets, with John Deere cited as a reference customer. The fabrication group supports OEM sourcing and manufacturing strategies by delivering complete welded and painted assemblies, from prototype through production volumes.
+Matcor serves global OEM customers, with a noted relationship supplying John Deere. Its fabrication group provides contract manufacturing solutions that support OEM sourcing and manufacturing strategies, delivering complete whole goods to OEMs or directly to dealers.
 
-The company emphasizes design‑for‑cost and manufacturing expertise, leveraging more than 20 years of mill relationships and in‑house coil leveling in both Canada and the U.S. A dedicated SMART LOGISTIC CENTER in Winston‑Salem, North Carolina, supports supply‑chain efficiency for its OEM base.
+The company emphasizes design-for-cost-and-manufacturing optimization, leveraging strategic mill relationships spanning over 20 years and in-house coil leveling in both the U.S. and Canada. An on-staff weld engineer maintains all required weld certifications, and destructive and non-destructive weld validation is performed in-house.
 
 ## Known for
-- Strategic mill‑direct sourcing for hot‑rolled coil and heavy plate with over 20‑year relationships
-- In‑house coil leveling capability in both Canada and the U.S.
-- In‑house weld engineer and maintenance of all required weld certifications
-- Complete whole‑goods assembly supplied directly to OEMs or dealers
-- Matcor SMART LOGISTIC CENTER in Winston‑Salem, NC
+- Mill-direct sourcing for hot rolled coil and heavy plate with 20+ year relationships
+- In-house coil leveling in both Canada and the U.S.
+- In-house weld engineer maintaining all required weld certifications
+- Design optimization (VA/VE) and prototyping services
+- Robotic MIG and resistance spot welding with destructive and non-destructive validation
 
 ## Capabilities
-- Design & Engineering
-- Research & Development
-- Product Engineering
+- Design engineering & VA/VE
 - Prototyping
-- Tooling Design, Maintenance & Repair
-- VA/VE & Design Optimization
-- Physical Testing & Validation
-- Raw Material Sourcing (Mill‑Direct)
-- In‑House Coil Leveling
-- Laser Cutting
-- High‑Definition Plasma Cutting
-- Oxyfuel Cutting
-- Turret Punching
-- Hydraulic Brake Press Forming
+- Tooling design, maintenance & repair
+- Physical testing & validation
+- Mill-direct raw material sourcing
+- In-house coil leveling
+- Laser cutting
+- High-definition plasma cutting
+- Oxyfuel cutting
+- Turret punching
+- Hydraulic brake press forming
 - Stamping
-- MIG Welding (Manual & Robotic)
-- Resistance Spot Welding (Manual & Robotic)
-- Destructive & Non‑Destructive Weld Validation
-- In‑House Weld Engineering
-- Liquid Primer & Top Coat Painting
-- Powder Coating (Direct‑to‑Metal & In‑Line)
-- E‑Coat (Outsourced)
-- CNC Machining (Vertical, Horizontal & Large‑Bed Bridge Mill)
-- Whole‑Goods Assembly
-- Hydraulic & Fuel Tank Assembly
+- Robotic MIG welding
+- Robotic resistance spot welding
+- Manual MIG welding
+- Manual resistance spot welding
+- Destructive & non-destructive weld validation
+- Liquid primer & top coat painting
+- Powder coating (direct to metal & in-line)
+- E-coat (outsourced)
+- Vertical CNC machining
+- Horizontal CNC machining
+- Large-bed CNC bridge milling
+- Whole goods assembly (hydraulic & fuel tanks)
 
 ## Industries
-- OEM Manufacturing
-- Agricultural Equipment
-- Heavy Equipment
+- Agricultural machinery
+- Heavy equipment
+- OEM manufacturing
 
 ## Equipment
-- Laser
-- High Definition Plasma
-- Oxyfuel
-- Turret Punch
-- Hydraulic Brake Press
-- Stamping Press
-- Vertical CNC
-- Horizontal CNC
-- Large Bed CNC Bridge Mill
-- Robotic MIG Welding Cells
-- Robotic Resistance Spot Welding Cells
+- Laser cutting systems
+- High-definition plasma cutting systems
+- Oxyfuel cutting systems
+- Turret punch presses
+- Hydraulic brake presses
+- Stamping presses
+- Vertical CNC machining centers
+- Horizontal CNC machining centers
+- Large-bed CNC bridge mills
+- Robotic MIG welding cells
+- Robotic resistance spot welding cells
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -260,18 +263,20 @@ The company emphasizes design‑for‑cost and manufacturing expertise, leveragi
 
 - Founded in 2000 -> db
 - Headquarters in Independence, Kansas -> db
-- Part of Matcor group with 8 locations across Canada and U.S., 1,225,500 sq ft total -> /
-- Provides contract manufacturing of steel components and complex assemblies -> /capabilities
-- Capabilities include design, engineering, prototyping, tooling, VA/VE, testing, raw material sourcing, coil leveling -> /capabilities
-- Cutting processes: laser, high-definition plasma, oxyfuel, turret punch -> /capabilities
-- Forming: hydraulic brake press, stamping -> /capabilities
-- Welding: manual/robotic MIG, manual/robotic resistance spot, in-house weld engineer, weld certifications -> /capabilities
-- Painting: liquid primer/top coat, direct-to-metal powder, in-line powder, E-coat outsourced -> /capabilities
-- Machining: vertical CNC, horizontal CNC, large-bed CNC bridge mill -> /capabilities
-- Assembly: whole goods, hydraulic and fuel tank assemblies -> /capabilities
-- Customer: John Deere -> /
-- Mill relationships over 20 years, in-house coil leveling in Canada and U.S. -> /capabilities
-- SMART LOGISTIC CENTER in Winston-Salem, NC -> /
+- 1,225,500 sq ft across 8 locations -> /
+- Locations in US (IL, KS, NC) and Canada (ON) -> /
+- Capabilities: laser, HD plasma, oxyfuel, turret punch, brake press, stamping -> /capabilities
+- Welding: robotic MIG, robotic resistance spot, manual MIG, manual resistance spot -> /capabilities
+- Painting: liquid primer/top coat, powder coat, in-line powder, e-coat outsourced -> /capabilities
+- Machining: vertical CNC, horizontal CNC, large bed CNC bridge mill -> /capabilities
+- Assembly: whole goods, hydraulic tanks, fuel tanks -> /capabilities
+- Mill direct sourcing for hot rolled coil and heavy plate -> /capabilities
+- 20+ year mill relationships -> /capabilities
+- In-house coil leveling in Canada and US -> /capabilities
+- In-house weld engineer and certifications -> /capabilities
+- Design optimization (VA/VE) and prototyping -> /capabilities
+- Customer example: John Deere -> /
+- Serves global OEM customers -> /
 </details>
 
 ---
@@ -281,42 +286,40 @@ The company emphasizes design‑for‑cost and manufacturing expertise, leveragi
 **Old description:** At Mathis Electronics, we know unreliable circuit boards can cause problems for your business. We manufacture circuit boards that work the first time and every time.
 
 ## About
-Mathis Electronics was founded in 1980 in Asheville, North Carolina, as an electronics repair shop serving the elevator industry. The company transitioned to contract assembly of printed circuit boards and PCB engineering in 1986, adding a focus on LED lighting that remains a core specialty.
+Mathis Electronics operates from Asheville, North Carolina, where it was founded in 1980 as an electronics repair shop serving the elevator industry. The privately owned company transitioned to contract printed circuit board assembly and design in 1986, adding a focus on LED lighting applications.
 
-Today the shop provides printed circuit board design, contract assembly, and engineering services for single-sided, double-sided, and multi-layer boards using both surface-mount and through-hole technologies. Every board undergoes full dynamic testing by in-house technicians rather than only bed-of-nails checks, and the company backs all workmanship and parts with a lifetime warranty. Production runs range from prototypes to high-volume orders, and order tracking is available from placement through delivery.
+The shop provides PCB design and contract assembly for single-sided, double-sided, and multi-layer boards using both surface-mount and through-hole technologies. Every board undergoes full dynamic functional testing by in-house technicians rather than only bed-of-nails checks. The facility handles prototype runs through high-volume production, with configuration options tailored to each order.
 
-The customer base spans the elevator, LED lighting, and broader electronics sectors, with references from companies such as ERM Manufacturing, PTL Equipment, EECO, and SEES. Mathis also supplies boards for humidity controllers, low-voltage switchgear, and other industrial controls.
+Customers span the elevator, LED lighting, low-voltage switchgear, and humidity-control sectors. References include ERM Manufacturing, PTL Equipment, EECO, and SEES, with the company noting long-term engagement across those markets.
 
-The company’s stated mission ties manufacturing excellence to a commitment to honor God, emphasizing integrity, structure, and a business model designed to reward customers, employees, and owners alike. Its differentiators are presented as comprehensive in-house testing, a lifetime warranty made possible by low return rates, and a flexible, small-company approach to communication and scheduling.
+The firm differentiates itself with a lifetime warranty on parts and workmanship, backed by a low return rate, and emphasizes responsive communication and flexible scheduling typical of a small operation. Its repair-shop origins give it testing expertise that many assembly houses lack.
 
 ## Known for
-- Full dynamic testing on every board (not just bed-of-nails)
 - Lifetime warranty on all parts and workmanship
-- Prototypes to high-volume production runs
-- Assembled in Asheville, North Carolina
-- Flexible scheduling and communication as a small company
+- Every board fully and dynamically tested in-house
+- Repair-shop heritage provides deep testing and troubleshooting expertise
+- Flexible scheduling and responsive communication as a small company
 
 ## Capabilities
 - Printed Circuit Board Design
 - Contract Assembly
+- Single-sided PCB Assembly
+- Double-sided PCB Assembly
+- Multi-layer PCB Assembly
+- Surface-mount Assembly
+- Through-hole Assembly
+- Full Dynamic Functional Testing
+- Prototype Assembly
+- High-volume Production
 - PCB Engineering
-- Full dynamic testing
-- Surface-mount assembly
-- Through-hole assembly
-- Single-sided PCB assembly
-- Double-sided PCB assembly
-- Multi-layer PCB assembly
-- Prototype assembly
-- High-volume production
-- Lifetime warranty
-- Instant order tracking
+- LED Lighting PCB Assembly
 
 ## Industries
-- Elevator
+- Elevator industry
 - LED lighting
-- Electronics
-- HVAC controls
-- Power distribution
+- Low-voltage switchgear
+- Humidity control
+- Electronics manufacturing
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -325,21 +328,16 @@ The company’s stated mission ties manufacturing excellence to a commitment to 
 
 <details><summary>Sources</summary>
 
-- Founded 1980 in Asheville, NC -> db, /about-us
+- Founded 1980 in Asheville, NC -> db
 - Started as electronics repair shop for elevator industry -> /about-us
-- Transitioned to contract PCB assembly and engineering in 1986 -> /about-us
-- Special emphasis on LED lighting -> /about-us
-- Offers PCB design, contract assembly, engineering -> /about-us, /
-- Full dynamic testing by in-house technicians -> /about-us
-- Lifetime warranty on all parts and workmanship -> /about-us, /
+- Transitioned to contract PCB assembly in 1986 with LED lighting focus -> /about-us
+- Offers PCB design, single/double/multi-layer, SMT and through-hole assembly -> /about-us
+- Full dynamic functional testing on every board -> /about-us
+- Lifetime warranty on parts and workmanship -> /about-us
+- Serves elevator, LED lighting, low-voltage switchgear, humidity control markets -> /
+- Customer references: ERM Manufacturing, PTL Equipment, EECO, SEES -> /about-us
 - Prototypes to high-volume production -> /about-us
-- Single-sided, double-sided, multi-layer, SMT, through-hole -> /about-us
-- Industries: elevator, LED lighting, electronics, humidity controllers, low voltage switchgear -> /about-us, /
-- Customer references: ERM Manufacturing, PTL Equipment, EECO, SEES -> /about-us, /
-- Mission statement: honor God, manufacturing excellence, integrity -> /about-us
-- Assembled in USA (Asheville, NC) -> /
-- Flexible small company approach -> /
-- Instant order tracking -> /
+- Privately owned, small company -> /about-us
 </details>
 
 ---
@@ -349,70 +347,66 @@ The company’s stated mission ties manufacturing excellence to a commitment to 
 **Old description:** Trevor O. Jones is a lifelong engineering pioneer and founded the International Development Corporation, a technology consulting company, in 1987.
 
 ## About
-Matrix Medical Devices is headquartered in Mayfield Heights, Ohio, and was founded in 2006 by Stephanie Harrington, who serves as founder and CEO. The firm began as a regulatory and quality consultancy focused on helping medical device companies navigate FDA and international approvals.
+Matrix Medical Devices was founded in 2006 in Mayfield Heights, Ohio, by Stephanie Harrington, who remains the company's founder and CEO. Harrington brought more than 25 years of medical device management experience to the venture, establishing the firm as a specialized partner for regulatory and quality compliance.
 
-The company provides a suite of services spanning regulatory strategy (including 510(k) and PMA submissions), quality system establishment and compliance, risk management, program management, clinical study support, and, since 2018, engineering and product development. Its senior team collectively holds over 125 years of medical device commercialization experience, and the firm operates with a scalable model that supports clients from start-up through post-market surveillance.
+The company delivers a full spectrum of regulatory, quality, engineering, and program management services tailored to medical device commercialization. Its offerings include 510(k) and PMA regulatory strategy, gap analysis, FDA design controls, Design History File creation, quality system establishment and compliance, risk management, supplier qualification, and clinical study support from IDE preparation through site start-up. The team also provides hands-on program management, product development planning, and grant application assistance. The senior staff collectively holds over 125 years of industry experience.
 
-Matrix serves the medical device industry exclusively, working with clients ranging from early-stage innovators to established manufacturers. A noted client is Nervive, Inc., which secured a $3.1 million NIH grant with Matrix’s support. The firm also assists with domestic and international regulatory submissions, supplier qualification, and design transfer guidance.
+Matrix serves medical device companies ranging from start-ups to established manufacturers. Clients have included Nervive, Inc., which secured a $3.1 million NIH grant with Matrix's support, as well as organizations pursuing FDA 510(k) clearances, PMA approvals, and CE marking. The firm's expertise spans regulatory submissions, post-market surveillance, and remediation across domestic and international markets.
 
-The company emphasizes a “get it right the first time” approach, built on deep regulatory expertise and a hands-on program management style that places consultants alongside client teams. Its expansion into engineering services was driven directly by client demand, reflecting a model that adapts to evolving commercialization needs.
+The company emphasizes a "get it right the first time" approach, combining deep regulatory knowledge with practical product development experience. Its proprietary Device Matrix framework is designed to streamline submission and compliance requirements, while scalable support models allow clients to engage only the expertise they need at each stage of commercialization.
 
 ## Known for
-- Over 125 years of combined team experience in medical device commercialization
+- Over 125 years combined team experience in medical device commercialization
 - Senior-level expertise across regulatory, quality, engineering, and clinical domains
-- Scalable regulatory strategy for 510(k), PMA, and international submissions
-- Hands-on program management with direct product development and production experience
-- Responsive service expansion driven by client requests (e.g., engineering services added in 2018)
+- Proprietary Device Matrix framework for submission and compliance management
+- Scalable, hands-on program management with technical product development background
+- Proven track record supporting FDA 510(k), PMA, IDE, and CE marking pathways
 
 ## Capabilities
-- Regulatory strategy (510(k), PMA)
-- Gap analysis
-- Procedure development
+- 510(k) regulatory strategy
+- PMA regulatory strategy
+- Regulatory gap analysis
 - FDA design controls implementation
 - Design History File creation
 - FDA and CE device classification
 - Regulatory predicate identification and benchmarking
 - Audit preparation
 - US and OUS regulatory strategy
+- Inspection preparation
 - Quality system establishment
 - Quality system compliance
 - Risk management (ISO 14971)
 - FDA 483 inspection response and remediation
 - Supplier qualification
-- Program management
 - Product development planning
 - Resource needs assessment
-- Organizational recommendations
-- Cost estimation and budgeting
+- Organizational assessment
+- Hands-on program management
+- Program cost estimation and budgeting
 - Grant application and review
-- Training
 - Clinical study design
 - IRB and IDE package preparation
 - Clinical site qualification and start-up
+- Adverse event reporting
 
 ## Industries
 - Medical devices
 
 ## Company details
-- **Company Type:** Installer / service company
+- **Company Type:** Other
 - **Founded:** 2006
 - **Headquarters:** Mayfield Heights, Ohio
 
 <details><summary>Sources</summary>
 
-- Company name, founded year, headquarters -> db
-- Founder Stephanie Harrington, CEO -> /about-us
-- Combined experience 125+ years -> /, /about-us
-- Services: regulatory, quality, program management, clinical studies -> /services
-- Engineering services added 2018 -> / (news 15 Aug 2018)
-- Client Nervive Inc. $3.1M NIH grant -> / (news 06 Oct 2017)
-- Team members listed -> /about-us
-- Medical device industry focus -> /, /about-us, /services
-- Scalable regulatory support for 510(k)/PMA -> /services
-- Quality system establishment, compliance, risk management -> /services
-- Hands-on program management with production experience -> /services
-- Clinical study design, IDE packages -> /services
-- Expansion due to client requests -> / (news 15 Aug 2018)
+- Founded 2006 in Mayfield Heights, Ohio -> db
+- Founder Stephanie Harrington -> /about-us
+- Over 125 years combined experience -> /about-us
+- Services: regulatory strategy, quality systems, program management, clinical studies -> /services
+- Client Nervive Inc. received $3.1M NIH grant -> / (home page news)
+- Team includes Meera Juneja, Jeffrey Lietzke, Paul Erickson, Jaclyn Fickert, Ruth Ashby, Trevor O. Jones, Ray Ursick -> /about-us
+- Proprietary Device Matrix framework -> / (home page)
+- Scalable support for 510(k), PMA, IDE, CE marking -> /services
 </details>
 
 ---
@@ -422,20 +416,20 @@ The company emphasizes a “get it right the first time” approach, built on de
 **Old description:** At Maui Industrial Metal Fabricators has proudly been serving customers across Maui County since 1990. Our certified welders specialize in custom fabrications. With over 30 years of expertise, we handle projects of any size—ensuring quality workmanship and customer satisfaction. We are a locally owned business and were recognized as one of Hawaii's Fastest 50 in 1999.
 
 ## About
-Maui Industrial Metal Fabricators has operated from Puunene, Hawaii since 1990. The locally owned company was founded to serve Maui County with custom metal fabrication and steel supply.
+Maui Industrial Metal Fabricators has operated from Puunene, Hawaii since 1990. The locally owned shop was founded to serve Maui County with custom metal fabrication and steel supply.
 
-The shop provides custom metal fabrication, structural steel fabrication, and steel material supply. Its certified welders handle projects of any size, from simple fabrications to complex assemblies, working with hot rolled steel, galvanized steel, aluminum, and stainless steel. The company also stocks a range of steel products including sheets, plates, beams, and bars for immediate sale. Operating from the Central Maui Baseyard, the facility supports both fabrication and material distribution.
+The company provides custom metal fabrication, structural steel, and a range of steel materials including hot rolled steel, galvanized steel, aluminum, and stainless steel. Certified welders handle projects of any size, from simple fabrications to complex assemblies, and the firm also stocks sheets, plates, beams, and bars for immediate sale.
 
-The business serves architects, contractors, and builders across Maui County, supplying structural steel for construction projects and custom fabrications for a variety of applications. Customers include commercial and residential construction firms as well as public works projects on the island. The company works closely with design professionals to ensure steel fits seamlessly into construction plans.
+Customers include architects, contractors, and builders across Maui County who rely on the shop for construction and industrial projects. The business works closely with design professionals to supply fabricated and raw steel that fits project specifications.
 
-The company emphasizes its over 30 years of experience, certified welding staff, and a reputation for reliability recognized by Hawaii's Fastest 50 award in 1999 and an A+ rating from the Better Business Bureau. Financing options are available for contract jobs. Its "no job too big or too small" approach and customer-first philosophy are cited as key differentiators.
+Maui Industrial Metal Fabricators was recognized as one of Hawaii's Fastest 50 in 1999 and holds an A+ rating from the Better Business Bureau. The company emphasizes customer satisfaction, offers financing on contract jobs, and promotes a "no job too big or too small" approach.
 
 ## Known for
 - Certified welders on staff
-- Locally owned and operated since 1990
-- Hawaii's Fastest 50 award (1999)
-- BBB A+ rating
-- Financing available for contract jobs
+- No job too big or too small
+- A+ Better Business Bureau rating
+- Hawaii's Fastest 50 honoree (1999)
+- Financing available on contract jobs
 
 ## Capabilities
 - Custom metal fabrication
@@ -445,25 +439,28 @@ The company emphasizes its over 30 years of experience, certified welding staff,
 
 ## Industries
 - Construction
+- Architecture
+- General Contracting
+- Building Construction
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1990
 - **Ownership:** Locally owned
 - **Headquarters:** Puunene, Hawaii
 
 <details><summary>Sources</summary>
 
-- Founded 1990 -> db
-- Headquarters Puunene, Hawaii -> db
+- Founded 1990 -> /
+- Located in Puunene, Hawaii -> /
 - Locally owned business -> /
-- Hawaii's Fastest 50 1999 -> /
 - Certified welders -> /
 - Materials: Hot Rolled Steel, Galvanized Steel, Aluminum, Stainless Steel -> /
-- Services: custom fabrication, structural steel, steel sales -> /
+- Services: custom fabrication, structural steel, steel material supply -> /
+- Industries: construction, architects, contractors, builders -> /
+- Hawaii's Fastest 50 1999 -> /
 - BBB A+ rating -> /
 - Financing options on contract jobs -> /
-- Serves architects, contractors, builders in Maui County -> /
 </details>
 
 ---
@@ -473,105 +470,152 @@ The company emphasizes its over 30 years of experience, certified welding staff,
 **Old description:** Since 1997, we've been helping patients to create the safest and most comfortable recovery possible.
 
 ## About
-McFee Medical Technologies is based in Battle Creek, Michigan, and was founded in 1997. The company began as one of the first providers to rent vitrectomy recovery equipment, addressing the need for comfortable face-down positioning after retinal surgery.
+McFee Medical Technologies operates from Battle Creek, Michigan, where it was founded in 1997 as one of the first companies to offer rental equipment for vitrectomy surgery recovery. The business began by addressing the need for comfortable face-down positioning during the critical post-operative period for retinal and macular procedures.
 
-The company rents a range of vitrectomy recovery equipment, including face-down chairs, supports, and mirrors, and also designs and sells proprietary products such as the MajicView Mirror, Rollover Alarm, Disposable Face Down Support, and Prone Sleeping Pillow. It offers four rental packages that can be customized to a patient’s body type and activities, with free ground shipping and same-day processing for orders placed by 3 p.m. EST. The operation includes free phone consultations, insurance claim assistance, setup videos, and a travel cushion and MajicView Mirror included with every rental.
+The company designs, manufactures, and rents a range of proprietary recovery devices, including the patented MajicView Mirror and Rollover Alarm, as well as disposable face-down supports, travel cushions, and prone sleeping pillows. It provides customized equipment packages tailored to individual body types and activities, supplemented by free phone consultations, insurance claim assistance, setup videos, and same-day order processing for ground shipping.
 
-McFee serves patients recovering from vitrectomy surgery across the United States, as well as ophthalmologists who refer patients for post‑operative equipment. Testimonials reference customers in Wisconsin, Nevada, Vermont, Arkansas, Missouri, Florida, and Texas, indicating a national reach. The company also maintains a physician’s page for clinical referrals.
+McFee serves patients recovering from vitrectomy surgery across the United States, with testimonials from individuals in Wisconsin, Nevada, Vermont, Texas, Florida, Missouri, and Arkansas. Ophthalmologists and retinal specialists also refer patients through a dedicated physician portal, relying on the equipment to support compliance with face-down positioning requirements that typically last one to two weeks.
 
-McFee emphasizes that its equipment provides more face‑down positioning options—both sitting upright and lying down—than any other provider, and it highlights its patented MajicView Mirror and Rollover Alarm as unique comfort innovations. The company states it differentiates itself through the highest‑quality, cleanest equipment, lowest prices, professional prompt service, and free personal consultations.
+The company differentiates itself through a focus on comfort and convenience: it offers the widest selection of vitrectomy recovery equipment, includes free accessories such as the MajicView Mirror and Travel Cushion with every rental package, and provides personalized fitting and compassionate customer support throughout the recovery process.
 
 ## Known for
-- Free ground shipping with same‑day processing for orders by 3 p.m. EST
-- Widest selection of face‑down positioning options (upright and lying down)
-- Proprietary MajicView Mirror and Rollover Alarm included free with every package
-- Free personal phone consultation and insurance claim filing
-- Equipment customized to individual body type and activities
+- Free ground shipping on orders received by 3pm EST (same-day processing)
+- Widest selection of vitrectomy recovery equipment
+- Free MajicView Mirror rental with every package
+- Free Travel Cushion rental with every package
+- Customization of equipment to individual patient needs
 
 ## Capabilities
 - Vitrectomy recovery equipment rental
-- Face-down positioning equipment rental
-- Equipment customization
-- Free phone consultations
+- Vitrectomy recovery equipment sales
+- Custom equipment fitting and customization
+- Patient consultation and support
 - Insurance claim filing assistance
-- Setup videos and instructions
+- Setup instruction videos
 - Same-day order processing (by 3pm EST)
-- Free ground shipping
-- Proprietary product design and development (MajicView Mirror, Rollover Alarm)
-- Disposable face-down support sales
-- Prone sleeping pillow sales
+- Proprietary product development (MajicView Mirror, Rollover Alarm)
+- Disposable face-down support manufacturing
+- Prone sleeping pillow manufacturing
 
 ## Industries
-- Medical equipment rental
 - Ophthalmology
-- Vitrectomy surgery recovery
+- Retinal surgery
+- Medical equipment rental
 - Patient recovery equipment
 
 ## Equipment
 - MajicView Mirror
 - Rollover Alarm
+- Travel Cushion
 - Disposable Face Down Support
 - Prone Sleeping Pillow
-- Travel Cushion
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1997
-- **Headquarters:** Battle Creek, MI
+- **Headquarters:** Battle Creek, Michigan
 
 <details><summary>Sources</summary>
 
-- Founded in 1997 -> db
-- Headquarters at 2821 Wilbur Street, Battle Creek, MI 49037 -> page '/'
-- One of the first companies to rent vitrectomy equipment starting in 1997 -> page '/about-us'
-- Creates proprietary products: MajicView Mirror and Rollover Alarm -> page '/about-us'
-- Offers four rental packages with customization -> page '/'
-- Free ground shipping, same-day processing for orders by 3pm EST -> page '/'
-- Free phone consultations, insurance help, setup videos -> page '/'
-- Free Travel Cushion and MajicView Mirror rental with every package -> page '/'
-- Serves patients nationwide (testimonials from multiple states) -> page '/'
-- Provides more face-down positioning options than any other company -> page '/'
-- Disposable Face Down Support and Prone Sleeping Pillow available for purchase -> page '/'
+- Founded 1997 -> /about-us
+- Headquarters Battle Creek, MI -> / (footer)
+- Rental and sale of vitrectomy recovery equipment -> /, /about-us
+- Proprietary products: MajicView Mirror, Rollover Alarm, Travel Cushion, Disposable Face Down Support, Prone Sleeping Pillow -> /, /about-us
+- Free ground shipping same-day processing for orders by 3pm EST -> /
+- Customization of equipment to individual needs -> /
+- Free phone consultations, insurance help, setup videos -> /
+- Serves patients nationwide, physician referrals -> /, /about-us
+- No certifications, ownership tags, employee count, CAGE code, min order, export compliance, languages, social links stated -> db
 </details>
 
 ---
 
 # McGinley Innovations
 
-_skipped: not enough facts_
+**Old description:** The McGinley Clinic is committed to redefining medicine through continuous research, problem solving and evidence-based medicine. The McGinley Clinic strives for excellence in patient care and safety. We utilize a unique model integrating cutting edge, advanced technologies with a patient-centered, problem-solving approach. Our focus is the specialized treatment of sports related injuries and other musculoskeletal related issues. We offer physician training to share the benefits of our approach with patients and athletes over the world.
+
+## About
+McGinley Innovations operates from Casper, Wyoming, where it was established by Dr. Joseph C. McGinley, a musculoskeletal intervention and sports medicine physician. The organization centers on The McGinley Clinic, which delivers specialized treatment for sports-related injuries and musculoskeletal conditions using approaches such as platelet-rich plasma, stem cell therapy, extracorporeal shockwave therapy, and a patented MVP and Arm Pump treatment that employs botulinum toxin.
+
+The company also runs McGinley Education, providing physician training courses on image-guided procedures and office-based musculoskeletal intervention. Its divisions include McGinley Orthopedics, McGinley Manufacturing, and McGinley Racing, though the manufacturing division’s specific output is not detailed in public materials.
+
+The clinic serves patients seeking non-surgical orthopedic solutions and physicians pursuing continuing education in interventional sports medicine. Media coverage in publications such as Women’s Running, Runner’s World, and Motocross Action Magazine highlights its focus on athletes with conditions like chronic exertional compartment syndrome and arm pump.
+
+Dr. McGinley emphasizes a model that integrates advanced technologies with a patient-centered, problem-solving approach, aiming to redefine medicine through continuous research and evidence-based practice.
+
+## Known for
+- Patented MVP and Arm Pump treatment using botulinum toxin
+- Physician training courses on image-guided musculoskeletal intervention
+- Integration of advanced technologies with a patient-centered approach
+- Non-surgical treatment options for sports injuries
+
+## Capabilities
+- Physician training and education
+- Image-guided musculoskeletal procedures
+- Sports medicine treatments
+- Platelet-rich plasma (PRP) therapy
+- Stem cell therapy
+- Extracorporeal shockwave therapy (ESWT)
+- Botulinum toxin injections for chronic exertional compartment syndrome
+- Botulinum toxin injections for arm pump
+
+## Industries
+- Sports medicine
+- Orthopedics
+- Physician education
+- Musculoskeletal intervention
+
+## Company details
+- **Company Type:** Other
+- **Headquarters:** Casper, Wyoming
+
+<details><summary>Sources</summary>
+
+- Location: Casper, Wyoming -> db
+- Founder: Dr. Joseph C. McGinley, MD, PhD -> /
+- Focus: sports-related injuries and musculoskeletal issues -> /
+- Treatments: PRP, stem cells, ESWT, patented MVP & Arm Pump using botulinum toxin -> /
+- Divisions: McGinley Education, McGinley Orthopedics, The McGinley Clinic, McGinley Manufacturing, McGinley Racing -> /
+- Physician training courses on image-guided procedures -> /
+- Media features in Women's Running, Runner's World, Motocross Action Magazine, Casper Star Tribune, Hemispheres Magazine -> /
+</details>
+
+---
 
 # McIntyre Millwork & Hardwood Supply, Inc.
 
 **Old description:** Founded in 1959, Koetter Woodworking's line of Architectural Millwork is of the highest quality, delivered to our facility bi-weekly. Their products are our main in-stock selection and feature domestic wood species milled into unique profiles not found everywhere else. In addition to their abundant stock selection, Koetter also has thousands of custom profiles available and the ability to make any profile to match.
 
 ## About
-McIntyre Millwork & Hardwood Supply, Inc. has operated from Ellisville, Missouri since 1994. The family-owned business began as a millwork distributor serving the St. Louis region.
+McIntyre Millwork & Hardwood Supply, Inc. operates from Ellisville, Missouri, where it was established in 1994 as a family-owned business. The company serves the St. Louis metropolitan area from its facility on Old State Road.
 
-The company distributes a broad line of architectural millwork including interior and exterior doors, cabinetry, windows, hardware, stair parts, flooring, decking, ceiling beams, plywood, lumber, columns, and hundreds of moulding profiles kept in stock. Beyond distribution, McIntyre provides cabinetry design services, full plan take-offs, and jobsite walk-throughs. The firm also offers custom profile matching, with thousands of custom profiles available and the ability to replicate any profile from a sample or photograph.
+The firm functions as a distributor of architectural millwork, partnering with manufacturers such as Koetter Woodworking to stock interior and exterior doors, cabinetry, windows, hardware, stair parts, flooring, decking, ceiling beams, plywood, lumber, columns, and hundreds of moulding profiles. In addition to inventory, the team provides cabinetry design services for kitchens, bathrooms, and built-ins, along with full plan take-offs and jobsite walk-throughs.
 
-McIntyre serves home owners, home builders, and contractors throughout the St. Louis area. Its showroom welcomes walk-in customers for in-stock moulding, while other products are available by appointment.
+Customers include homeowners, home builders, and contractors who visit the showroom by appointment or walk in for in-stock moulding. The company emphasizes its ability to source or match thousands of custom profiles, inviting clients to submit pictures or visit for profile matching.
 
-The company emphasizes its combined decades of experience and partnerships with manufacturers such as Koetter Woodworking, whose architectural millwork is delivered bi-weekly. McIntyre positions itself on the ability to match any custom profile and to provide design support from concept through installation.
+The business was built on relationships with quality-focused manufacturers and a commitment to offering both breadth of stock and custom flexibility, allowing contractors and homeowners to find standard and unique millwork solutions in one location.
 
 ## Known for
-- Bi-weekly delivery of Koetter Woodworking architectural millwork
-- Thousands of custom moulding profiles available
-- Custom profile matching – any profile can be replicated
-- Cabinetry design services with plan take-offs and jobsite walk-throughs
-- Family-owned and operated since 1994
+- Thousands of custom profiles available with ability to match any existing profile
+- Cabinetry design services for kitchens, bathrooms, and built-ins
+- Full plan take-offs and jobsite walk-throughs
+- Bi-weekly stock replenishment from Koetter Woodworking
+- Walk-in access for in-stock moulding
 
 ## Capabilities
 - Millwork distribution
 - Cabinetry design
 - Plan take-offs
 - Jobsite walk-throughs
-- Custom moulding profile matching
-- Showroom sales
+- Custom profile matching
+- In-stock moulding sales
+- Showroom consultation
 
 ## Industries
-- Home builders
-- Contractors
-- Home owners
+- Residential construction
+- Home building
+- General contracting
+- Home improvement
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -581,15 +625,16 @@ The company emphasizes its combined decades of experience and partnerships with 
 
 <details><summary>Sources</summary>
 
-- Founded 1994 (Est. 1994) -> /
-- Headquarters Ellisville, Missouri -> /
-- Family-owned and run business -> / (customer testimonial)
-- Distributor of millwork products (doors, cabinetry, windows, hardware, stair parts, flooring, decking, ceiling beams, plywood, lumber, columns, moulding profiles) -> /
-- Offers cabinetry design services, plan take-offs, jobsite walk-throughs -> /
-- Thousands of custom profiles available, ability to match any profile -> /
-- Serves home owners, home builders, contractors -> /
-- Partners with Koetter Woodworking, bi-weekly delivery -> db (description)
-- Combined decades of experience -> /
+- Ellisville, Missouri location -> db
+- Established 1994 -> /
+- Family-owned -> /
+- Distributor of millwork products -> /
+- Product range: doors, cabinetry, windows, hardware, stair parts, flooring, decking, ceiling beams, plywood, lumber, columns, moulding profiles -> /
+- Services: cabinetry design, plan take-offs, jobsite walk-throughs -> /
+- Customers: homeowners, home builders, contractors -> /
+- Thousands of custom profiles, profile matching capability -> /
+- Koetter Woodworking partnership, bi-weekly delivery -> db
+- Walk-in for in-stock moulding -> /
 </details>
 
 ---

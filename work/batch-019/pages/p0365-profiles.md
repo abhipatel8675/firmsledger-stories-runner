@@ -3,18 +3,18 @@
 **Old description:** Kamuela Hardwoods in Kamuela, HI specializes in reclaimed Hawaiian timber, live-edge slabs, and premium hardwood lumber for furniture makers, woodworkers, instrument builders, and artisans. Our sawmill salvages urban and felled trees, turning them into high-quality wood while supporting sustainable forestry practices. We offer over 30 Hawaiian and exotic
 
 ## About
-Kamuela Hardwoods operates from Waimea on the island of Hawaii, where it runs a sawmill dedicated to reclaiming urban and felled trees. The company was formed as a partnership between an arborist and a woodworker, with co‑owners Alex Woodbury and Joshua Greenspan (an ISA‑certified arborist) the operation.
+Kamuela Hardwoods operates from Waimea, Hawaii, where co-owners Alex Woodbury and Joshua Greenspan—an ISA‑certified arborist—founded the company as a partnership between an arborist and a woodworker. The business began with a mission to salvage urban and felled trees that would otherwise be burned, chipped, or landfilled, turning that material into usable lumber.
 
-The mill processes over 30 Hawaiian and exotic hardwood species — including koa, monkeypod, mango, Norfolk pine, lychee, eucalyptus, and ohia — into live‑edge slabs, kiln‑dried lumber, and bowl blanks. Logs are sawn on site, dried in a kiln to ensure stability, and every by‑product is repurposed: offcuts become utility lumber, sawdust turns to mulch, and slash is used for garden materials. The facility runs on locally produced bio‑diesel and follows a strict recycling program. A team of eight handles milling, woodworking, sales, and marketing, shipping products across Hawaii, the continental U.S., and internationally.
+The sawmill processes over 30 Hawaiian and exotic hardwood species—including koa, monkeypod, mango, Norfolk pine, lychee, eucalyptus, and ohia—into live‑edge slabs, kiln‑dried lumber, and bowl blanks. A kiln‑drying step ensures dimensional stability for fine woodworking and instrument making. The operation runs on locally produced bio‑diesel and follows a zero‑waste model: offcuts become utility lumber or garden materials, while sawdust and chips are converted to mulch and soil amendments.
 
-The lumber serves furniture makers, woodworkers, instrument builders, artisans, cabinetmakers, and builders seeking distinctive Hawaiian woods for custom projects, countertops, flooring, and musical instruments.
+Customers include furniture makers, woodworkers, instrument builders, artisans, and builders across Hawaii, the continental U.S., and internationally. The company ships slabs and lumber for cabinetry, countertops, flooring, and custom projects, with an online inventory that allows buyers to select specific pieces.
 
-The founders frame the business as a response to waste: “We are trying to do something different, we don’t want to unnecessarily remove a tree for any reason,” says Woodbury. Greenspan adds, “It’s unfortunate when a tree has to come down, but in a sense, we’re giving it a new life.” The zero‑waste model and bio‑diesel power underscore a mission to salvage timber that would otherwise be burned or landfilled.
+Woodbury and Greenspan frame the venture as a deliberate alternative to unnecessary tree removal: "We are trying to do something different, we don't want to unnecessarily remove a tree for any reason," Woodbury says. Greenspan adds, "It's unfortunate when a tree has to come down, but in a sense, we're giving it a new life." That ethos drives the salvage‑first approach and the minimal‑waste processing.
 
 ## Known for
-- Urban timber salvage from felled and urban trees
-- Zero‑waste processing (all by‑products repurposed)
-- Kiln‑dried lumber for dimensional stability
+- Urban timber salvage diverting trees from landfill or burn piles
+- Zero‑waste processing: all byproducts become utility lumber, mulch, or soil amendments
+- Kiln‑dried lumber for stability in fine woodworking and instruments
 - Over 30 Hawaiian and exotic hardwood species available
 - Equipment powered by locally produced bio‑diesel
 
@@ -22,45 +22,49 @@ The founders frame the business as a response to waste: “We are trying to do s
 - Urban timber salvage
 - Sawmilling
 - Kiln drying
-- Live‑edge slab production
+- Live-edge slab milling
 - Bowl blank production
 - Custom milling
-- Zero‑waste by‑product utilization
-- Bio‑diesel powered operations
-- Domestic and international shipping
+- Wood waste recycling
+- Bio-diesel powered operations
 
 ## Industries
 - Furniture making
 - Woodworking
-- Instrument building
+- Musical instrument manufacturing
 - Artisan crafts
-- Cabinetry
-- Countertop fabrication
-- Flooring
 - Construction
+- Cabinetry
+- Flooring
+
+## Equipment
+- Sawmill
+- Kiln
+
+## Certifications
+- ISA Certified Arborist
 
 ## Company details
 - **Company Type:** Manufacturer
-- **Employees:** 8
 - **Ownership:** Co-owned by Alex Woodbury and Joshua Greenspan
 - **Headquarters:** Waimea, Hawaii
 
 <details><summary>Sources</summary>
 
-- Location: Waimea, Hawaii -> db
-- Founded as partnership between arborist and woodworker -> /about-us
-- Co-owners: Alex Woodbury and Joshua Greenspan -> /about-us, /
-- Joshua Greenspan is ISA Certified Arborist -> /about-us
+- Located in Waimea, Hawaii -> db
+- Co-owned by Alex Woodbury and Joshua Greenspan -> /about-us
+- Formed by partnership between an arborist and a woodworker -> /about-us
+- Specializes in reclaimed Hawaiian timber, live-edge slabs, premium hardwood lumber -> /
 - Over 30 Hawaiian and exotic hardwood species -> /
-- Species list: koa, monkeypod, mango, Norfolk pine, lychee, eucalyptus, ohia, etc. -> /, /about-us
-- Products: live-edge slabs, kiln-dried lumber, bowl blanks -> /
-- Zero-waste operation: byproducts repurposed -> /, /about-us
-- Equipment run on locally produced bio-diesel -> /about-us
-- Strict recycling program -> /about-us
-- Team of eight listed -> /about-us
+- Products include live-edge slabs, kiln-dried lumber, bowl blanks -> /
+- Kiln-drying process ensures stability -> /
+- Zero-waste operation: byproducts repurposed into utility lumber, mulch, garden materials -> /
+- Equipment operated on locally produced bio-diesel -> /about-us
 - Ships across Hawaii, U.S., internationally -> /
-- Serves furniture makers, woodworkers, instrument builders, artisans -> /
-- Founder quotes on mission -> /
+- Serves furniture makers, woodworkers, instrument builders, artisans, builders -> /
+- ISA Certified Arborist co-owner Joshua Greenspan -> /about-us
+- Sustainability focus: urban timber salvage -> /about-us
+- Team includes Austin Iban, Jessica Salerno-Woodbury, Elton Alameda, Chris Eblacas, Madison Bartlett, Jimmy Wray -> /
 </details>
 
 ---
@@ -70,43 +74,44 @@ The founders frame the business as a response to waste: “We are trying to do s
 **Old description:** Manufacturing world-class ISSC timers, sensors, and counters in the USA since 1963.
 
 ## About
-Kanson Electronics Inc operates from a 30,000-square-foot manufacturing and technical center in Hohenwald, Tennessee. The company's ISSC line of timers, sensors, and counters has been produced in the United States since 1963. Kanson was woman-owned from 1979 to 2013 and is now veteran-owned.
+Kanson Electronics Inc. operates from a 30,000-square-foot manufacturing and technical center in Hohenwald, Tennessee. The company traces its roots to 1963 when it began producing ISSC timers, sensors, and counters in the United States. The business is veteran-owned; it was also woman-owned from 1979 until 2013.
 
-The facility produces a range of industrial timing and sensing devices, including DIN-rail mount timers with customer-specified voltages, on-delay and true off-delay functions, and sensors with impermeable resin-filled casings. In addition to its own product line, Kanson provides contract manufacturing for electrical and electro-mechanical subassemblies and systems. A sister division, Modor Plastics, molds thermoplastics and thermosets on the same campus. Processes include screen printing, powder coating, encapsulation, and 100 percent testing and cycling of every unit before shipment.
+The firm manufactures its own line of industrial timers and sensors, offering variable timing ranges, encapsulated circuitry, and powder-coated enclosures. In addition to its proprietary products, Kanson provides contract manufacturing for electrical and electro-mechanical subassemblies and complete systems. Capabilities include screen printing, powder coating, and 100 percent testing and quality cycling of every unit. A sister division, Modor Plastics, produces thermoplastic and thermoset components at the same Tennessee campus.
 
-Customers range from small businesses to Fortune 200 companies across industrial and electrical equipment sectors. The company's timers and sensors are used in applications requiring accurate timing control, voltage isolation, and zero-maintenance operation, with many units remaining in service for decades.
+Kanson serves customers ranging from small businesses to Fortune 200 companies across industrial and electronic markets. Its timers and sensors are used in applications requiring accurate timing control and isolation between voltages, while its contract assembly services address custom subassembly and system-level needs.
 
-Kanson emphasizes its all-U.S. production, centralized location for fast national shipping, and a quality regimen that tests every product before it leaves the plant. The company states that making the customer's life easier is the reason it does business.
+The company emphasizes that all products are made in the USA and field-tested, with many timers remaining in service for decades without maintenance. Its veteran-owned status and commitment to 100 percent pre-shipment testing are presented as key differentiators.
 
 ## Known for
 - 100% Made in the USA
-- 100% of products tested, cycled, and quality-checked before shipping
-- 30,000 sq ft manufacturing and technical center in Hohenwald, TN
-- Veteran-owned and formerly woman-owned (1979–2013)
-- Central U.S. location for fast shipping nationwide
+- Veteran-owned
+- 100% testing, cycling, and QC on every product
+- 30,000 sq ft manufacturing and technical center
+- Contract manufacturing for electrical and electro-mechanical subassemblies
 
 ## Capabilities
 - Screen printing
 - Powder coating
+- Contract manufacturing
 - Electrical subassembly
 - Electro-mechanical subassembly
 - Systems assembly
-- Thermoplastic molding
-- Thermoset molding
-- Encapsulation
-- Resin filling
-- 100% testing and cycling
+- Testing and cycling
 - Quality control
-- Contract manufacturing
+- Encapsulated circuitry
+- Timer manufacturing
+- Sensor manufacturing
+- Thermoplastic manufacturing
+- Thermoset manufacturing
 
 ## Industries
-- Industrial automation
-- Electrical equipment
+- Industrial
+- Electronic contract manufacturing
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1963
-- **Ownership:** Veteran-owned
+- **Ownership:** Veteran-owned; Woman-owned (1979-2013)
 - **Headquarters:** Hohenwald, Tennessee
 
 <details><summary>Sources</summary>
@@ -116,19 +121,14 @@ Kanson emphasizes its all-U.S. production, centralized location for fast nationa
 - Veteran-owned -> /about
 - Woman-owned from 1979 to 2013 -> /about
 - 30,000 sq ft manufacturing and technical center -> /about
-- ISSC timers and sensors manufactured since 1963 -> /about, /
-- Screen printing & powder coating available -> /, /about
+- Screen printing & powder coating available -> /
+- 100% Made in the USA -> /
 - Contract manufacturing for electrical and electro-mechanical subassembly and systems -> /about
 - Modor Plastics division for thermoplastics and thermosets -> /about
-- 100% Made in USA -> /, /about
-- 100% of products tested, cycled, quality-checked -> /, /about
-- Central U.S. location for fast shipping -> /about
-- Customers from small businesses to Fortune 200s -> /about
-- Industrial timers with customer-specified voltages -> /
-- Industrial sensors with resin-filled casings -> /
-- Encapsulated circuitry -> /
-- Powder coated enclosures -> /
-- Models 1514, 1510, 1310 -> /
+- 100% testing, cycling, and QC on all products -> /about
+- Industrial timers and sensors product lines -> /
+- Serves small businesses to Fortune 200 companies -> /about
+- Field-tested products with decades of maintenance-free operation -> /about
 </details>
 
 ---
@@ -138,28 +138,28 @@ Kanson emphasizes its all-U.S. production, centralized location for fast nationa
 **Old description:** Made to order. Made to fit. Built by hand in Arizona since 2014.
 
 ## About
-Kase Custom operates from Mesa, Arizona, where it was founded in 2014. The company began with a single table and a belief that craftsmanship and connection matter, growing into a certified B Corporation that handcrafts reclaimed wood furniture to order.
+Kase Custom was founded in 2014 in Mesa, Arizona. The company began with a single table and a belief that craftsmanship and connection matter. Ownership details are not publicly disclosed.
 
-The Arizona shop produces custom tables — bar height, counter height, dining height, and coffee tables — built from reclaimed wood. Each piece is made to the customer's exact dimensions and finish preferences, with a complimentary design service to assist with sizing. The company reports more than 5,500 orders delivered over 12-plus years, with a current build time of four to six weeks.
+The shop produces made-to-order reclaimed wood furniture, including bar-height, counter-height, and dining-height tables, as well as coffee tables. Each piece is handcrafted in their Arizona facility using a process that starts with a complimentary design consultation, followed by hand fabrication and finishing. The company reports over 5,500 orders delivered and a current build time of four to six weeks.
 
-Kase Custom serves both hospitality and residential markets. Its furniture appears in international hotel brands and local coffee shops, where high-top bar tables are designed for daily commercial use. The same durability is offered for home kitchens, dining rooms, and gathering spaces.
+Kase Custom serves both commercial and residential customers. In the hospitality sector, its tables are used by international hotel brands and local coffee shops. For residential clients, the furniture is built for busy family kitchens and everyday gathering spaces.
 
-The company positions its work as "slow furniture" — pieces built to last decades rather than seasons. Its B Corp certification and a 4.9-star rating across more than 800 reviews reflect a focus on responsible manufacturing and customer satisfaction.
+The company differentiates itself through a "slow furniture" philosophy—building pieces to last decades rather than seasons. It emphasizes custom dimensions to fit any space, a complimentary design service, and its status as a Certified B Corporation, reflecting a commitment to social and environmental performance.
 
 ## Known for
-- Custom dimensions for any space
-- Handcrafted from reclaimed wood in Arizona
+- Custom dimensions for every piece
 - Complimentary design consultation
-- B Corp certified
-- 4-6 week lead time
+- Handcrafted in Arizona from reclaimed wood
+- Certified B Corporation
+- 4-6 week build time
 
 ## Capabilities
 - Custom furniture design
 - Handcrafted wood fabrication
-- Reclaimed wood sourcing and processing
-- Custom dimensions and finishes
+- Reclaimed wood sourcing
+- Finish application
 - Complimentary design consultation
-- Packaging and shipping
+- Made-to-order manufacturing
 
 ## Industries
 - Hospitality
@@ -167,7 +167,7 @@ The company positions its work as "slow furniture" — pieces built to last deca
 - Commercial
 
 ## Certifications
-- B Corporation
+- Certified B Corporation
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -176,15 +176,17 @@ The company positions its work as "slow furniture" — pieces built to last deca
 
 <details><summary>Sources</summary>
 
-- Founded 2014 in Mesa, Arizona -> db
+- Founded 2014 -> db
+- Headquarters Mesa, Arizona -> db
 - Certified B Corporation -> /
 - 5,500+ orders delivered -> /
-- 4.9 stars across 800+ reviews -> /
 - Current build time 4-6 weeks -> /
-- Serves hospitality (hotels, coffee shops) and residential -> /
-- Custom made-to-order reclaimed wood furniture -> /
+- Serves hospitality (international hotel brands, local coffee shops) -> /
+- Serves residential (family kitchens, gathering spaces) -> /
 - Complimentary design service -> /
-- Handcrafted in Arizona shop -> /
+- Handcrafted reclaimed wood furniture -> /
+- Started with one table -> /
+- Custom dimensions (length, height, finish) -> /
 </details>
 
 ---
@@ -194,56 +196,57 @@ The company positions its work as "slow furniture" — pieces built to last deca
 **Old description:** For over 100 years, and 5 generations, Kayem Foods has been expertly crafting premium meats and mealtime solutions for home cooks, grill masters, chefs, restaurants, stadiums, and more.
 
 ## About
-Kayem Foods traces its roots to 1909 when Kazimierz Monkiewicz opened a small butcher shop in Chelsea, Massachusetts. Now in its fifth generation, the company remains family-owned and operated, with headquarters in Woburn, Massachusetts, while continuing to manufacture its products at its original Chelsea facility.
+Kayem Foods traces its roots to 1909 when Kazimierz Monkiewicz opened a modest butcher shop in Chelsea, Massachusetts. Now in its fifth generation of family ownership, the company remains headquartered in Chelsea and operates as the largest prepared-meat producer in New England.
 
-The company produces more than 200 items across ten brands, including frankfurters made from 100% pork and beef, pork and chicken sausages, bacon, slow-cooked smoked meats, deli selections such as ham and Italian specialties, and breakfast links and patties. As the largest prepared-meat manufacturer in New England, Kayem employs over 200 people at its Chelsea plant.
+The facility turns out more than 200 products across ten brands, covering frankfurters, sausages, bacon, slow-cooked meats, deli selections, and breakfast links and patties. Production relies on time-tested family recipes and spans curing, smoking, slow-cooking, and portioning lines that support a workforce of over 200 employees.
 
-Its products reach home cooks, grill enthusiasts, chefs, restaurants, retailers, and major stadiums and ballparks across the United States. The customer base spans foodservice, retail grocery, and venue concessions.
+Customers range from home cooks and grill enthusiasts to chefs, restaurants, retailers, and major sports venues such as ballparks and stadiums across the United States. The portfolio is built for both retail shelves and foodservice channels.
 
-Kayem emphasizes its commitment to quality through time-tested family recipes and sustainability targets that aim to cut water use, carbon emissions, and cardboard packaging by 20 percent. The company participates in the Meat Institute's Protein Pact and maintains an animal-welfare policy, reflecting a focus on responsible sourcing and community engagement.
+The business emphasizes community engagement, sustainability targets — including a 20 percent reduction goal for water, CO2, and cardboard use — and animal-welfare commitments through membership in the Meat Institute and the Protein Pact.
 
 ## Known for
 - Largest prepared meat company in New England
 - Over 200 products across 10 brands
-- Family-owned and operated for five generations
-- Manufacturing facility in Chelsea, MA
-- Sustainability goals: reduce water, CO2, and cardboard by 20%
+- 5th generation family-owned and operated
+- Member of Meat Institute and Protein Pact
+- Zero-sort recycling implemented in plants
 
 ## Capabilities
-- Meat processing and fabrication
-- Sausage manufacturing (pork and chicken)
+- Meat processing
+- Sausage manufacturing
 - Bacon curing and smoking
-- Slow-cooking and braising
+- Slow-cooked meat preparation
 - Deli meat slicing and packaging
-- Product development and innovation
+- Breakfast sausage production
 
 ## Industries
+- Food manufacturing
+- Meat processing
 - Foodservice
-- Retail grocery
-- Stadium and venue concessions
-- Consumer packaged goods
+- Retail
+- Stadium and venue catering
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1909
-- **Employees:** 200+
+- **Employees:** over 200
 - **Ownership:** Family-owned
-- **Headquarters:** Woburn, Massachusetts
+- **Headquarters:** Chelsea, Massachusetts
 
 <details><summary>Sources</summary>
 
 - Founded 1909 by Kazimierz Monkiewicz -> /about
-- 5th generation, family-owned and operated -> /about
+- 5th generation family-owned and operated -> /about
+- Headquartered in Chelsea, MA -> /about
 - Largest prepared meat company in New England -> /about
 - Over 200 products across 10 brands -> /about
-- Manufacturing in Chelsea, MA -> /about and /
-- Headquarters in Woburn, MA -> db
-- Over 200 jobs -> /about
-- Sustainability goals: reduce water, CO2, cardboard by 20% and zero-sort recycling -> /about
-- Meat Institute and Protein Pact member -> /about
-- Product categories: franks, sausages, bacon, slow-cooked meats, deli, breakfast -> /
-- Serves homes, cookouts, ballparks, stadiums, restaurants, retailers -> /about
-- Materials: pork, beef, chicken -> / and /about
+- Over 200 employees -> /about
+- Manufactures in Chelsea, MA -> /
+- Products: frankfurters, sausages, bacon, slow-cooked meats, deli, breakfast -> /
+- Serves home cooks, chefs, restaurants, stadiums, retailers -> /
+- Member of Meat Institute and Protein Pact -> /about
+- Sustainability goals: reduce water, CO2, cardboard by 20% -> /about
+- Zero-sort recycling in plants -> /about
 </details>
 
 ---
@@ -253,38 +256,35 @@ Kayem emphasizes its commitment to quality through time-tested family recipes an
 **Old description:** Originally founded in 1929 on Wichita Street as Kansas Rebabbitting, Poorman Auto Supply is now
 
 ## About
-Poorman Auto Supply traces its roots to 1929, when it opened as Kansas Rebabbitting on Wichita Street in Wichita, Kansas. Now in its fourth generation of family ownership, the company operates under the Poorman name from its headquarters
+Poorman Auto Supply, based in Wichita, Kansas, traces its roots to 1929 when it was founded on Wichita Street as Kansas Rebabbitting. Now in its fourth generation of family ownership, the company operates four locations in Wichita and additional branches in Hutchinson, Salina, and Wellington.
 
-The business functions as a full-line automotive parts distributor, stocking original equipment and aftermarket components, tools, accessories, and shop equipment. It maintains seven locations — four in Wichita plus outlets in Hutchinson, Salina, and Wellington — and runs a fleet of more than 30 delivery vehicles to serve wholesale and retail customers across central Kansas. Employees collectively hold over 500 years of automotive experience, and the organization is structured into specialized divisions for different buyer types.
+The company functions as a wholesale and retail distributor of original equipment and aftermarket automotive parts, tools, accessories, and equipment. It maintains a fleet of more than 30 delivery vehicles to serve customers across the Midwest, and its specialized divisions provide technical support for everything from batteries and brakes to belts and filters. The combined experience of its staff exceeds 500 years.
 
-Customers include independent service centers, commercial fleets, automotive repair shops, car dealerships, industrial facilities, and do-it-yourself enthusiasts. Poorman is an authorized distributor for major original-equipment lines such as ACDelco, Motorcraft, Mopar, Auto 7, Denso, and Bosch, emphasizing broad product availability to compete with national chains.
+Poorman serves independent automotive service centers, fleet operators, car dealerships, industrial facilities, and do-it-yourself consumers. It is an authorized distributor for major OE lines including ACDelco, Motorcraft, Mopar, Auto 7, Denso, and Bosch.
 
-The company credits its longevity to local ownership, a large delivery fleet, and deep inventory across OE brands, which together have helped it retain a loyal customer base despite competition from larger national retailers.
+The business was built to support local repair shops and fleets with reliable parts availability and personalized service, allowing it to compete with national chains through a loyal customer base and rapid delivery.
 
 ## Known for
-- Fourth-generation family-owned business
-- Fleet of 30+ delivery vehicles for rapid fulfillment
+- Fourth-generation family ownership
+- Fleet of 30+ delivery vehicles
 - Authorized distributor for ACDelco, Motorcraft, Mopar, Auto 7, Denso, Bosch
-- Seven locations across central Kansas
-- Employees with over 500 years of combined automotive experience
+- Specialized divisions with trained professionals
+- Over 500 years of combined staff experience
 
 ## Capabilities
 - Auto parts distribution
-- Wholesale and retail parts sales
-- Delivery services (30+ vehicles)
+- Wholesale and retail sales
+- Delivery services
+- Technical support for automotive repair
 - Inventory management
-- Technical parts consulting
-- Fleet parts supply
-- Independent service center support
-- Specialized divisions for dealerships, industrial facilities, DIY
+- OE and aftermarket parts sourcing
 
 ## Industries
 - Automotive aftermarket
 - Automotive repair
 - Car dealerships
-- Industrial maintenance
+- Industrial facilities
 - Fleet management
-- Independent service centers
 - DIY automotive
 
 ## Equipment
@@ -293,24 +293,21 @@ The company credits its longevity to local ownership, a large delivery fleet, an
 ## Company details
 - **Company Type:** Distributor / reseller
 - **Founded:** 1929
-- **Ownership:** Family-owned (fourth generation)
+- **Ownership:** Family-owned
 - **Headquarters:** Wichita, Kansas
 
 <details><summary>Sources</summary>
 
-- Founded 1929 as Kansas Rebabbitting on Wichita Street -> /about
+- Founded 1929 as Kansas Rebabbitting -> /about
 - Fourth-generation family ownership -> /about
-- Headquarters at 1400 E Douglas Ave, Wichita, KS -> /, /about
-- Seven locations (four in Wichita, plus Hutchinson, Salina, Wellington) -> /about
+- Four Wichita locations plus Hutchinson, Salina, Wellington -> /about
 - Distributor for ACDelco, Motorcraft, Mopar, Auto 7, Denso, Bosch -> /about
 - Fleet of 30+ delivery vehicles -> /about
-- Employees with over 500 years combined experience -> /about
-- Serves independent service centers, fleets, repair shops, dealerships, industrial facilities, DIY -> /about
-- Wichita-owned auto parts supplier for more than 75 years -> /, /about
-- State-of-the-art automotive service equipment offered -> /
-- Pronto Membership program -> /
-- Database founded_year 1929 -> db
-- Database HQ city/state Wichita, Kansas -> db
+- Staff with over 500 years combined experience -> /about
+- Serves independent service centers, fleets, dealerships, industrial facilities, DIY -> /about
+- Headquarters at 1400 E Douglas Ave, Wichita, KS -> /
+- 7 convenient store locations -> /
+- Pronto Membership for independent aftermarket -> /
 </details>
 
 ---
@@ -320,41 +317,37 @@ The company credits its longevity to local ownership, a large delivery fleet, an
 **Old description:** has been offering dependable farm equipment since 1945. We keep our customers in step with the ever-changing ag market.
 
 ## About
-Kelly Ryan Equipment Company was founded in 1945 in Blair, Nebraska, by Kelly Ryan. The company began by building portable farm elevators from scrap materials to meet post-war farmer demand.
+Kelly Ryan Equipment Company was founded in 1945 in Blair, Nebraska, by Kelly Ryan. The company began by building portable farm elevators from whatever materials were available, including scrap, to meet post-war farmer demand.
 
-Today the company manufactures a line of farm equipment including grain baggers, feed wagons for livestock, and manure spreaders ranging from 4 to 7 feet. It also operates a steel fabrication division, KRECO Steel Fabrication, which provides structural and heavy steel design and manufacturing, and a rigging division, Ed's Wire Rope & Rigging, supplying wire rope, synthetic rope, shackles, slings, and chains. The company reports having sold over 778 units and served 856 customers.
+Today the company operates two primary lines: farm equipment manufacturing and steel fabrication under the KRECO name. The farm line includes grain baggers, Feed-R-Wagon feeders for livestock, and manure spreaders ranging from 4 to 7 feet. The fabrication division handles structural, heavy, and complex steel design and manufacturing, while a sister operation, Ed's Wire Rope & Rigging, supplies wire rope, synthetic rope, rigging hardware, and related tools.
 
-Its primary customers are farmers and livestock operators in the agriculture sector, including cattle, horse, sheep, and goat producers. The steel fabrication and rigging services also serve industrial and construction clients, though specific industries are not detailed.
+The farm equipment serves grain and livestock producers across the agriculture market, with baggers that help farmers harvest faster and manage weather risk, and feed wagons designed for cattle, horses, sheep, and goats. The steel fabrication and rigging services target industrial and construction customers needing custom structural steel and rigging supplies.
 
-The founder's original mission was to provide dependable, affordable machinery that keeps farmers in step with a changing market, a commitment the company says it maintains through continuing customer service, all-welded construction, and on-time delivery.
+The company states its mission is to provide superior, dependable machinery at affordable prices while delivering continuing customer service. For fabrication, it emphasizes honest, accurate, on-time delivery and a reputation built on meeting customer schedules. All-welded construction on farm equipment is cited as a durability feature.
 
 ## Known for
-- Continuing customer service
-- Honest, accurate and on-time steel fabrication
-- Dependable farm equipment since 1945
-- All-welded construction for trouble-free service
-- Affordable pricing for farmers
+- Continuing customer service across all product lines
+- Honest, accurate, and on-time steel fabrication
+- Superior, dependable farm machinery at affordable prices
+- All-welded construction for long service life
+- Full-service rigging and steel fabrication capabilities
 
 ## Capabilities
-- Farm equipment manufacturing
-- Grain bagger production
-- Feed wagon manufacturing
+- Grain bagger manufacturing
+- Livestock feed wagon manufacturing
 - Manure spreader manufacturing
-- Steel fabrication (structural, heavy, complex)
+- Structural steel fabrication
+- Heavy steel fabrication
+- Complex steel design and manufacturing
 - Rigging services
-- Wire rope and synthetic rope supply
-- Shackle, sling, and chain supply
-- Portable farm elevator manufacturing (historical)
+- Wire rope and synthetic rope cutting
+- Rigging hardware supply (shackles, slings, chains)
+- Iron worker tool supply
 
 ## Industries
-- Agriculture
-- Livestock farming
-
-## Equipment
-- Baggers
-- Feed-R-Wagons
-- Manure Spreaders
-- Portable farm elevators
+- Agriculture (grain and livestock)
+- Construction
+- Industrial manufacturing
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -363,14 +356,14 @@ The founder's original mission was to provide dependable, affordable machinery t
 
 <details><summary>Sources</summary>
 
-- Founded in 1945 in Blair, Nebraska -> db
-- Founder Kelly Ryan quoted about post-war start -> page "/"
-- Manufactures baggers, feed wagons, manure spreaders -> page "/"
-- Operates KRECO Steel Fabrication for structural and heavy steel fabrication -> page "/"
-- Operates Ed's Wire Rope & Rigging for wire rope, synthetic rope, shackles, slings, chains -> page "/"
-- Reports 778 equipment sold, 856 happy customers -> page "/"
-- Serves farmers and livestock operators (cattle, horses, sheep, goats) -> page "/"
-- Emphasizes continuing customer service, all-welded construction, on-time delivery -> page "/"
+- Founded 1945 in Blair, Nebraska -> db
+- Founder Kelly Ryan named -> /
+- Farm equipment: baggers, feed wagons, manure spreaders -> /
+- KRECO Steel Fabrication: structural, heavy, complex steel -> /
+- Ed's Wire Rope & Rigging: wire rope, synthetic rope, rigging hardware -> /
+- Mission: superior dependable machinery at affordable prices, continuing customer service -> /
+- Fabrication differentiator: honest, accurate, on-time -> /
+- All-welded construction on farm equipment -> /
 </details>
 
 ---
@@ -380,25 +373,24 @@ The founder's original mission was to provide dependable, affordable machinery t
 **Old description:** Keltech's electronic manufacturing capabilities are now part of P1 Technologies. The same commitment to quality, responsiveness, and customer partnership continues as part of the P1 team. Explore our electronic manufacturing capabilities, including surface-mount and mixed-technology PCB assembly, through-hole assembly, testing, and box builds.
 
 ## About
-Keltech Inc, based in Roanoke, Virginia, has transitioned its electronic manufacturing operations into P1 Technologies. The company's founding year and original ownership structure are not publicly disclosed in available sources, and no founders are named.
+Keltech Inc operated as an electronic contract manufacturer in Roanoke, Virginia, before its capabilities were integrated into P1 Technologies. The company's founding year, ownership structure, and founders are not publicly documented in the available sources.
 
-The operation specializes in printed circuit board assembly, offering surface-mount, mixed-technology, and through-hole assembly, along with testing and box-build integration. No facility size, headcount, or annual volume figures are provided in the source material.
+The shop specialized in surface-mount and mixed-technology PCB assembly, through-hole assembly, functional testing, and box-build integration. Facility size, headcount, annual volumes, and part-number counts are not disclosed.
 
-Specific industries served are not listed in the available content; the company references "markets we serve" without naming them, and no customer types or example programs are identified.
+Industries served and specific customer types are not listed in the available material; the company's website references "markets we serve" without naming them.
 
-The company states that its commitment to quality, responsiveness, and customer partnership continues under the P1 Technologies umbrella, but does not articulate a distinct founding mission or differentiator beyond that continuity.
+Keltech emphasized a commitment to quality, responsiveness, and customer partnership, values that the company states continue under the P1 Technologies organization.
 
 ## Known for
-- Commitment to quality
-- Responsiveness
-- Customer partnership
+- Commitment to quality, responsiveness, and customer partnership
+- Capabilities integrated into P1 Technologies with continued support
 
 ## Capabilities
 - Surface-mount PCB assembly
 - Mixed-technology PCB assembly
 - Through-hole assembly
-- Testing
-- Box build integration
+- Functional testing
+- Box-build integration
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -406,13 +398,11 @@ The company states that its commitment to quality, responsiveness, and customer 
 
 <details><summary>Sources</summary>
 
-- Company name Keltech Inc -> db
-- Headquarters Roanoke, Virginia -> db
-- Now part of P1 Technologies -> page /
-- Capabilities: surface-mount, mixed-technology, through-hole PCB assembly, testing, box builds -> page /
-- Mentions 'markets we serve' without listing -> page /
-- Mentions 'Our Certifications & Registrations' without listing -> page /
-- Commitment to quality, responsiveness, customer partnership -> page /
+- Headquarters: Roanoke, Virginia -> db
+- Acquired by/integrated into P1 Technologies -> /
+- Capabilities: surface-mount, mixed-technology, through-hole PCB assembly, testing, box builds -> /
+- Stated values: quality, responsiveness, customer partnership -> /
+- Website URL -> db
 </details>
 
 ---
@@ -422,34 +412,32 @@ The company states that its commitment to quality, responsiveness, and customer 
 **Old description:** Husband and wife duo, R.W. and Mary Nelson, founded Kemin from their home in 1961. Today their children and grandchildren continue to lead this global ingredient manufacturing company.
 
 ## About
-Kemin Industries traces its roots to 1961 when R.W. and Mary Nelson began producing specialty ingredients from their home in Des Moines, Iowa. The company remains family-owned, with the founders' children and grandchildren continuing to lead the business today.
+Kemin Industries Inc is headquartered in Des Moines, Iowa. The company was founded in 1961 by husband-and-wife duo R.W. and Mary Nelson, who started the business from their home. Today, the founders’ children and grandchildren continue to lead the family-owned enterprise, which has grown into a global ingredient manufacturer.
 
-The company operates as a global ingredient manufacturer, producing more than 500 specialty ingredients across more than 15 manufacturing facilities worldwide. Its portfolio spans animal nutrition and health, animal vaccines, food technologies, human nutrition and health, and pet food and rendering. Beyond ingredient supply, Kemin provides Customer Laboratory Services for analytical testing, Kemin Application Solutions for equipment installation and training, Technical Services for troubleshooting, Research and Exploration Services for early-stage innovation, and the sciORIAN digital platform for operations management.
+Kemin operates more than 15 manufacturing facilities worldwide and offers a portfolio of over 500 specialty ingredients. Its core activities include ingredient manufacturing for animal nutrition and health, animal vaccines, food technologies, human nutrition and health, and pet food and rendering. Beyond production, the company provides Customer Laboratory Services (CLS) for product testing, Kemin Application Solutions (KAS) for equipment installation and training, Technical Services for troubleshooting, Research and Exploration Services (RES) for early-stage innovation, and the sciORIAN™ digital platform for operations management.
 
-Kemin serves customers in more than 120 countries, with operations in over 90 countries. Its client base includes livestock producers, veterinarians and animal health professionals, food manufacturers, pet food companies, renderers, and human nutritional supplement brands. The company's ingredients address oxidation control, food safety, palatability, and health and nutrition across these markets.
+The company serves customers in more than 120 countries across industries such as livestock production, pet food manufacturing, rendering, food processing, and human dietary supplements. Its client base includes pet food companies, renderers, ingredient suppliers, veterinarians, and food manufacturers seeking oxidation control, food safety, palatability enhancement, and nutritional solutions.
 
-Founded on a curiosity-driven, science-based approach, Kemin emphasizes "Partnership Beyond Ingredients," offering tailored services to help customers maximize the value of its products. The company states its mission is to transform the quality of life for people, pets, and animals through innovation.
+Kemin states that it is driven by curiosity and a commitment to science-based innovation, aiming to transform quality of life for people, pets, and animals. The company emphasizes a “Partnership Beyond Ingredients” model, delivering tailored services — from lab analysis to application engineering — to help customers maximize the value of its ingredients.
 
 ## Known for
-- "Partnership Beyond Ingredients" service model with dedicated laboratory, application, technical, and research support
-- More than 15 manufacturing facilities worldwide
-- Portfolio of 500+ specialty ingredients
-- Science-driven innovation culture ("compelled by curiosity")
-- Global reach: operations in 90+ countries, customers in 120+ countries
+- 15+ manufacturing facilities worldwide
+- 500+ specialty ingredients in portfolio
+- Customer Laboratory Services (CLS) for dedicated analytical support
+- Kemin Application Solutions (KAS) for equipment design, installation, and training
+- Technical Services team for shelf-life, flavor, and nutrition troubleshooting
 
 ## Capabilities
-- Specialty ingredient manufacturing
+- Ingredient manufacturing
 - Customer Laboratory Services (CLS)
 - Kemin Application Solutions (KAS)
 - Technical Services
-- Kemin Research and Exploration Services (RES)
-- sciORIAN digital operations software
+- Research and Exploration Services (RES)
+- sciORIAN™ digital operations software
 - Oxidation control solutions
 - Food safety solutions
 - Palatability enhancement
 - Health and nutrition formulation
-- Animal vaccine development
-- Pet food and rendering process support
 
 ## Industries
 - Animal Nutrition & Health
@@ -457,11 +445,8 @@ Founded on a curiosity-driven, science-based approach, Kemin emphasizes "Partner
 - Food Technologies
 - Human Nutrition & Health
 - Pet Food & Rendering
-- Livestock production
-- Pet food manufacturing
+- Pet Food Manufacturing
 - Rendering
-- Food ingredient manufacturing
-- Human nutritional supplements
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -471,17 +456,18 @@ Founded on a curiosity-driven, science-based approach, Kemin emphasizes "Partner
 
 <details><summary>Sources</summary>
 
-- Founded 1961 by R.W. and Mary Nelson in Des Moines, Iowa -> db description
-- Family-owned, led by children and grandchildren -> db description
-- More than 15 manufacturing facilities worldwide -> / (home page)
-- Operates in more than 90 countries -> / (home page)
-- Customers in more than 120 countries -> / (home page)
-- Offers more than 500 specialty ingredients -> / (home page)
-- Markets: Animal Nutrition & Health, Animal Vaccines, Food Technologies, Human Nutrition & Health, Pet Food & Rendering -> / (home page)
-- Services: Customer Laboratory Services, Kemin Application Solutions, Technical Services, Research and Exploration Services, sciORIAN digital software -> /services
-- Product names: ACLARION, ALLINSUR, HYBRILOX, NATUROX, PALASURANCE, PALIVATE, PALTEVA, PARAMEGA, PET-OX, PRALISUR, PREVION, PROSURANCE, RENDOX, RENTERRA, SUBACTIL, TERMOX, VERDILOX -> /services
-- "Partnership Beyond Ingredients" service philosophy -> /services
-- "Compelled by curiosity" innovation statement -> / (home page)
+- Founded in 1961 by R.W. and Mary Nelson -> description (db)
+- Headquartered in Des Moines, Iowa -> db (hq_city, hq_state_label)
+- More than 15 manufacturing facilities worldwide -> page '/'
+- Operates in more than 90 countries -> page '/'
+- Customers in more than 120 countries -> page '/'
+- Offers more than 500 specialty ingredients -> page '/'
+- Industries: Animal Nutrition & Health, Animal Vaccines, Food Technologies, Human Nutrition & Health, Pet Food & Rendering -> page '/'
+- Services: Customer Laboratory Services, Kemin Application Solutions, Technical Services, Research and Exploration Services, sciORIAN digital software -> page '/services'
+- Family-owned leadership (children and grandchildren lead) -> description
+- Compelled by curiosity, guided by science and innovation -> page '/'
+- Partnership Beyond Ingredients model -> page '/services'
+- Unparalleled Service and Expertise for pet food and rendering -> page '/services'
 </details>
 
 ---
@@ -491,64 +477,73 @@ Founded on a curiosity-driven, science-based approach, Kemin emphasizes "Partner
 **Old description:** Over 100 years of combined experience in air flow design, fabrication, and installation
 
 ## About
-Kennedy, Gustafson & Cole, Inc. (KGC) has operated from Berlin, Connecticut since its founding in 1962. The company passed to its current ownership group in the early 1980s when Edward Cole, Robert Cole, and Peter Roy acquired the business; together they bring more than 100 years of combined experience in air‑flow design, fabrication, and installation.
+Founded in 1962, Kennedy, Gustafson & Cole (KGC) has operated from a 35,000-square-foot facility in Berlin, Connecticut. Since the early 1980s, the company has been owned by Edward Cole, Robert Cole, and Peter Roy, who collectively bring over 100 years of experience in air flow design, fabrication, and installation.
 
-KGC designs, fabricates, and installs dust‑collection systems, commercial HVAC equipment, and custom industrial process ventilation. Its 35,000‑square‑foot facility houses in‑house sheet‑metal fabrication capabilities covering galvanized steel, carbon steel, aluminum, stainless steel, PVC, and polypropylene. The shop handles everything from individual duct fittings and pipe assemblies to complete baghouse collectors and wet‑collection systems.
+KGC designs, fabricates, and installs dust collection systems that meet NFPA standards for combustible dust and OSHA regulations for crystalline silica. The company also provides commercial HVAC equipment such as rooftop air handlers, exhaust fans, smoke/fire dampers, and VAV boxes, along with custom sheet metal fabrication in galvanized steel, carbon steel, aluminum, stainless steel, PVC, and polypropylene. Its 35,000-square-foot plant houses in-house fabrication capabilities, allowing the firm to handle projects from ductwork and pipe fittings to complete baghouse collectors.
 
-The firm serves aerospace manufacturers — such as a magnesium‑dust wet‑collection installation — as well as energy‑recovery projects involving compressor heat‑recovery systems. Its customer base includes architects, consulting engineers, building owners, and property managers across industrial and commercial sectors.
+The company serves aerospace manufacturers, having designed a wet collection system for magnesium dust at an aerospace facility, and works with industrial clients on heat recovery and energy savings projects. Its customer base also includes commercial building owners and property managers seeking HVAC solutions, as well as industrial process facilities requiring custom ventilation and dust control.
 
-KGC differentiates itself by engineering every system to meet current NFPA combustible‑dust standards and OSHA crystalline‑silica regulations. The combination of in‑house fabrication and established supplier relationships allows rapid response, and every installation carries a full guarantee.
+KGC emphasizes staying current with technological developments in air pollution control, offering engineering expertise to determine compliance requirements and prepare cost-effective recommendations. The firm highlights its in-house fabrication and broad supplier network as enabling rapid response, and notes that every installation is fully guaranteed.
 
 ## Known for
-- Systems engineered to NFPA combustible‑dust and OSHA silica standards
-- In‑house sheet‑metal fabrication across six material families
-- 35,000 sq ft facility enabling rapid turnaround
-- Over 100 years combined ownership experience in air‑flow design
-- Full guarantee on every installation
+- In-house fabrication capability
+- Broad supplier network for rapid response
+- Every installation fully guaranteed
+- NFPA and OSHA compliance expertise
+- Over 100 years combined owner experience
 
 ## Capabilities
 - Air flow design
+- Dust collection system design
+- Dust collection system fabrication
+- Dust collection system installation
 - Sheet metal fabrication
 - Stainless steel fabrication
-- Dust collection system design and installation
-- Commercial HVAC installation
-- Industrial process ventilation
-- Pipe and fitting fabrication
-- Baghouse collector fabrication and installation
+- Galvanized steel fabrication
+- Carbon steel fabrication
+- Aluminum fabrication
+- PVC fabrication
+- Polypropylene fabrication
+- Pipe and fittings fabrication
+- Baghouse collector fabrication
+- Industrial ventilation design
+- Heat recovery system design
 - Wet collection system fabrication
-- Ventilation system design for heat recovery
-- Custom ductwork fabrication
-- NFPA combustible dust compliance engineering
-- OSHA crystalline silica compliance engineering
+- Silica dust collection system design
+- NFPA compliance engineering
+- OSHA compliance engineering
+- HVAC fabrication (rooftop air handlers, exhaust fans, smoke/fire dampers, VAV boxes)
+- Industrial process application engineering
 
 ## Industries
 - Aerospace
-- Energy
-- Industrial manufacturing
-- Commercial construction
-- HVAC
+- Industrial process
+- Commercial HVAC
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1962
-- **Ownership:** Private (three owners)
-- **Headquarters:** Berlin, CT
+- **Ownership:** Privately owned by three partners
+- **Headquarters:** Berlin, Connecticut
 
 <details><summary>Sources</summary>
 
-- Founded 1962 -> db
-- Headquarters Berlin, CT -> db
-- 35,000 sq ft facility -> /
-- Owners Edward Cole, Robert Cole, Peter Roy -> /
-- Over 100 years combined experience -> /
+- Founded in 1962 -> db
+- Headquarters: Berlin, Connecticut -> db
+- 35,000 sq. ft. facility -> /
+- Owners: Edward Cole, Robert Cole, Peter Roy since early 1980s -> /
+- Over 100 years combined experience in air flow design, fabrication, installation -> /
+- Designs, fabricates, installs dust collection systems meeting NFPA standards -> /
+- Services for OSHA crystalline silica dust compliance -> /
 - In-house fabrication capability -> /
-- Materials: Galvanized, Carbon Steel, Aluminum, Stainless Steel, PVC, Polypropylene -> /
-- NFPA combustible dust standards compliance -> /
-- OSHA crystalline silica rule compliance -> /
-- Aerospace magnesium dust wet collection project -> /
-- Compressor heat recovery/energy savings projects -> /
-- Customer types: architects, building owners, property managers -> /
-- Full guarantee on installations -> /
+- Commercial HVAC: rooftop air handlers, exhaust fans, smoke/fire dampers, VAV boxes -> /
+- Industrial process applications -> /
+- Fabrication services: galvanized, carbon steel, aluminum, stainless steel, PVC, polypropylene -> /
+- Wet collection system for magnesium dust at aerospace manufacturer -> /
+- Compressor heat recovery/energy savings project -> /
+- Every installation fully guaranteed -> /
+- Engineering expertise for compliance and cost-effective recommendations -> /
+- Broad access to assured sources of purchased products -> /
 </details>
 
 ---
@@ -558,35 +553,35 @@ KGC differentiates itself by engineering every system to meet current NFPA combu
 **Old description:** Vegan Burger contains no artificial ingredients and are free from preservatives, GMO’s, gluten and soy. Finally, a vegan burger that's easy to make, healthy, delicious and allergy friendly. The mix starts in southern Oregon in our vegan and kosher certified facility with gluten free oats, black and pinto beans, dehydrated vegetables, and organic brown rice. Just add very hot water, let stand for 5 minutes, form into patties, grill and enjoy!
 
 ## About
-Kester Foods, LLC operates from its headquarters in Eugene, Oregon, with a vegan and kosher certified production facility located in southern Oregon. The company produces two branded product lines: Vegan Burger, a plant-based burger mix free from artificial ingredients, preservatives, GMOs, gluten, and soy; and Northwest Fork, an allergy-friendly emergency food supply. No founding year or founder names are disclosed in the available information.
+Kester Foods operates from Eugene, Oregon, with a production facility in southern Oregon. The company, organized as a limited liability company, produces two branded lines: Vegan Burger and Northwest Fork. No founding year or founder names are disclosed in public materials.
 
-The company manufactures dry-mix food products using ingredients such as gluten-free oats, black and pinto beans, dehydrated vegetables, and organic brown rice. Its facility handles mixing, packaging, and certification compliance for both vegan and kosher standards. Specific facility size, headcount, annual volumes, or SKU counts are not published.
+The company manufactures dry‑mix vegan burgers and emergency food kits. Its Vegan Burger blend combines gluten‑free oats, black and pinto beans, dehydrated vegetables, and organic brown rice; preparation requires only hot water and a five‑minute rest before forming and grilling patties. The Northwest Fork line targets emergency preparedness with similar clean‑label ingredients. Both lines are produced in a facility certified vegan and kosher. Specific facility size, headcount, or annual volume are not published.
 
-Kester Foods serves the vegan and specialty food markets, as well as the emergency preparedness sector. Its Vegan Burger mix targets consumers seeking allergy-friendly, easy-to-prepare plant-based meals, while Northwest Fork addresses customers who want clean-ingredient emergency rations without preservatives or unpronounceable additives. Distribution channels and specific customer types are not detailed in the source material.
+Kester Foods serves the plant‑based food market and the emergency‑preparedness sector. Its products are marketed directly to consumers seeking allergen‑free, non‑GMO, preservative‑free options, and may also reach retail or institutional channels, though specific customer names are not listed.
 
-The company emphasizes simple, clean, and healthy formulations. Its Vegan Burger mix requires only hot water and five minutes of stand time before forming and grilling patties. The Northwest Fork line was created so that in an emergency, consumers would not need to compromise dietary restrictions with conventional preserved rations. Both brands highlight the absence of artificial ingredients, GMOs, gluten, and soy as core differentiators.
+The company emphasizes that its mixes contain no artificial ingredients, preservatives, GMOs, gluten, or soy, positioning them as allergy‑friendly and simple to prepare. The Northwest Fork brand was created to provide emergency rations without compromising dietary restrictions.
 
 ## Known for
 - Vegan and kosher certified production facility
-- No artificial ingredients, preservatives, GMOs, gluten, or soy
-- Allergy-friendly formulations
-- Simple preparation: just add hot water, wait five minutes
-- Clean-ingredient emergency food supply
+- Free from artificial ingredients, preservatives, GMOs, gluten, and soy
+- Allergy‑friendly formulations
+- Simple preparation: just add hot water
+- Emergency food line with clean‑label ingredients
 
 ## Capabilities
-- Dry mix food manufacturing
-- Vegan food production
-- Kosher food production
-- Allergy-friendly food formulation
-- Emergency food supply manufacturing
-- Packaging
+- Dry mix blending
+- Vegan burger mix production
+- Emergency food kit assembly
+- Gluten-free production
+- Allergen-controlled manufacturing
+- Kosher certified production
+- Vegan certified production
 
 ## Industries
-- Food manufacturing
-- Vegan foods
-- Emergency preparedness
-- Specialty foods
-- Plant-based foods
+- Plant-based food manufacturing
+- Emergency preparedness food
+- Allergy-friendly food
+- Vegan food products
 
 ## Certifications
 - Vegan certified
@@ -600,17 +595,11 @@ The company emphasizes simple, clean, and healthy formulations. Its Vegan Burger
 <details><summary>Sources</summary>
 
 - Headquarters in Eugene, Oregon -> db
-- Production facility in southern Oregon -> /
-- Company is Kester Foods, LLC -> /
-- Produces Vegan Burger brand -> /
-- Produces Northwest Fork brand -> /
-- Vegan Burger contains no artificial ingredients, preservatives, GMOs, gluten, soy -> /
-- Facility is vegan and kosher certified -> /
-- Ingredients: gluten-free oats, black beans, pinto beans, dehydrated vegetables, organic brown rice -> /
-- Vegan Burger preparation: add hot water, stand 5 minutes, form patties, grill -> /
-- Northwest Fork mission: allergy-friendly emergency food supply without preservatives -> /
-- Contact: (800) 700-2184, email protected -> /
-- Hours: M-F 7am-5pm -> /
+- Produces Vegan Burger and Northwest Fork brands -> /
+- Vegan and kosher certified facility in southern Oregon -> /
+- Ingredients: gluten free oats, black and pinto beans, dehydrated vegetables, organic brown rice -> /
+- Company organized as Kester Foods, LLC -> /
+- Phone and hours listed -> /
 </details>
 
 ---

@@ -2,16 +2,497 @@ fetched p0380-raw.json 10 / 10
 fetched p0381-raw.json 10 / 10
 fetched p0382-raw.json 9 / 10
 fetched p0383-raw.json 10 / 10
-RETRY midwest-solar-power HTTP Error 429: Too Many Requests
 fetched p0384-raw.json 9 / 10
-ok   Medicreations 
-fetched p0385-raw.json 10 / 10
+RETRY midwest-woodcraft HTTP Error 503: Service Unavailable
 ok   Metal Products Co. Inc 
+ok   Melnick Metal Works Inc. 
+ok   Medical Products Laboratories 
+ok   Metal Specialties-New Jersey 
+fetched p0385-raw.json 10 / 10
+ok   Medicatech USA 
+ok   Medicreations 
+ok   Medway Plastics Corporation 
+ok   Mercury Electronics 
 fetched p0386-raw.json 10 / 10
-ok   Medical Device Innovation Corp. 
-ok   Michael Cowman's Custom Furniture 
-ok   Michaelson Foreign & Domestic Car Parts 
 fetched p0387-raw.json 10 / 10
-skip Metropolitan Packaging Manufacturing 
-ok   Mid Michigan Wood Specialties 
+ok   Medical Device Innovation Corp. 
+ok   Mica Furniture Manufacturing., Inc 
+ok   Metalfab Inc 
 fetched p0388-raw.json 8 / 10
+ok   Mid Atlantic Medical Supply 
+ok   Michaelson Foreign & Domestic Car Parts 
+fetched p0389-raw.json 10 / 10
+ok   Metal Fabricators Plus 
+ok   Metropolitan Packaging Manufacturing 
+skip Mississippi Green Power, LLC 
+ok   Midwest Solar Power 
+ok   MetalMania- Custom Metal Works Fabrication Shop 
+ok   Microchip Auto Glass 
+ok   Mermar Electronics 
+ok   Microweld Co., Inc. 
+ok   Michael Cowman's Custom Furniture 
+ok   Metropolitan Parts, Inc. 
+ok   Mid Michigan Wood Specialties 
+ok   Miller Wire Works, Inc. 
+ok   Midwest Molding Inc 
+RETRY motherson-yachiyo-automotive-tech-products-of-america-inc HTTP Error 503: Service Unavailable
+ok   Mill Haven Foods 
+ok   Midwest Woodcraft 
+ok   Metal Masters of Florida 
+ok   Midwest Solars 
+ok   Mill Creek Packaging Inc 
+ok   Mitchell Plastics 
+ok   Midwest Garment 
+ok   Metalworking Group (Pippin Location) 
+ok   Metal Pro, Inc. 
+ok   Mineral Fabrication & Machine Company Inc. 
+ok   Mirac, LLC. 
+ok   Miscellaneous Stainless & Steel Works LLC (MSSW LLC) 
+ok   Mitsubishi Electric Manufacturing 
+ok   Mocorp Custom Metal Fabrication 
+ok   Mize & Co., Inc. (Mize Wire Products) 
+ok   Milford Woodworking Co 
+ok   Midland Plastics, Inc. 
+ok   Midland West Manufacturing 
+ok   Minnesota Micro Molding, Machining & Manufacturing 
+skip Mora Valley Spinning Mill 
+ok   Millard Manufacturing Corporation 
+ok   Mohawk Electrical Systems Inc. 
+ok   Midwest Plastics Inc. 
+ok   Mitty's Food 
+ok   Micro-Tek Corporation 
+ok   Molding Dynamics Inc. 
+ok   Montana Milling 
+ok   Modern Metal Company 
+ok   NC Solar Now 
+fetched p0390-raw.json 10 / 10
+ok   Mike's Welding 
+RETRY nps-metals HTTP Error 503: Service Unavailable
+ok   Min Plastics & Supply, Inc. 
+PAGE DONE p0384-profiles.json
+ok   Modula Inc - Maine 
+ok   Mitokine Bio Science 
+ok   Mid America Woodworking Mach 
+ok   Modern Alpha Plastics Inc 
+ok   Michigan Milk Producers Association 
+ok   Midwest Sheet Metal Co 
+ok   Minnesota Valley Electric Cooperative 
+ok   Module Master 
+ok   Metalworks of Montana Inc. 
+PAGE DONE p0381-profiles.json
+fetched p0391-raw.json 8 / 10
+ok   Modern Process Equipment Corporation 
+ok   Motherson Warren 
+ok   Midwest Metal Fabrications 
+PAGE DONE p0383-profiles.json
+skip NRG Electrical Inc. 
+RETRY nk-woodworking-design HTTP Error 500: Internal Server Error
+RETRY nassau-national-cable HTTP Error 500: Internal Server Error
+ok   Mop Top pros 
+ok   Moldgenix 
+fetched p0392-raw.json 10 / 10
+ok   Meyer Wire & Cable Co 
+PAGE DONE p0382-profiles.json
+ok   Montana Food Equipment 
+ok   Mississippi Metal Manufacturing 
+ok   Mountain High Woodworks Inc. 
+ok   Mynt Solar 
+ok   Muller Textiles Inc 
+ok   Mountain Energy Design 
+ok   Montana Metalworks and Signs 
+ok   Motherson Yachiyo Automotive Tech Products of America, Inc. 
+RETRY metal-fab-engineering Remote end closed connection without response
+ok   Moody Mountain Solar 
+ok   Mishimoto Automotive 
+ok   Nagakura Engineering Works/Indiana 
+ok   Monterey Company 
+ok   Mountain Drivetrain LLC 
+ok   Mr. Plastic - Jonesboro 
+ok   Molding Technologies LLC 
+ok   Motion Lite | Baton Rouge Technology Solutions 
+ok   Missouri Wind and Solar 
+ok   Mitsubishi International Food Ingredients, Inc. - Dublin Office 
+PAGE DONE p0386-profiles.json
+ok   Murray Sheet Metal Co Inc. 
+ok   Mira Plastics Co. Inc 
+PAGE DONE p0385-profiles.json
+ok   Namaste Solar 
+ok   Mrs Clark's Foods 
+PAGE DONE p0388-profiles.json
+ok   NEXT Medical Products Company 
+ok   National Medical Solutions 
+ok   NH Woodworks LLC 
+ok   NC Solar Electric LLC 
+ok   NZK Plastics LLC 
+ok   Neocera LLC 
+ok   National Seating & Mobility 
+ok   National Solar 
+ok   NPS Metals 
+ok   Nautilus Cables 
+ok   Nashville Wood - by appointment only 
+ok   National Food Equipment & Supplies 
+fetched p0393-raw.json 10 / 10
+RETRY nac-semi Expecting ',' delimiter: line 65 column 4 (char 3363)
+ok   NW Innovative Technologies 
+ok   Neodesha Plastics Inc. 
+ok   Nashville Sheet Metal 
+ok   New Age Medical LLC 
+RETRY newark-ironbound-electrical-supply-co-inc HTTP Error 503: Service Unavailable
+ok   Nemo Manufacturing Inc 
+ok   Nev Metal Works, LLC 
+ok   Netzer Metalworks, LLC 
+ok   Nassau National Cable 
+ok   National Equipment Co 
+ok   Native Solar 
+ok   National Woodwork Mfg. 
+ok   New England Wire Technologies 
+ok   Native Energy Solutions 
+ok   NK Woodworking & Design 
+ok   New Jersey Textiles 
+ok   New Deantronics 
+RETRY montana-metal-fabrications Expecting ',' delimiter: line 55 column 4 (char 3884)
+ok   Metal Fab Engineering 
+PAGE DONE p0380-profiles.json
+ok   Nashville Production & Design 
+PAGE DONE p0390-profiles.json
+ok   New Jersey Wire Cloth Company 
+ok   New Era Supply Co 
+PAGE DONE p0392-profiles.json
+ok   New Rainbow Fabrics 
+ok   New Prairie Solar 
+ok   Nebraska Scooter Mart LLC 
+PAGE DONE p0391-profiles.json
+ok   Nextera Packaging 
+fetched p0394-raw.json 10 / 10
+ok   Neway Packaging Corporation. 
+RETRY nb-electrical-enclosure-manufacturer-inc Remote end closed connection without response
+fetched p0395-raw.json 10 / 10
+fetched p0396-raw.json 10 / 10
+ok   New Tech Plastics, LLC 
+ok   New Mexico Fabrics and Foam 
+fetched p0397-raw.json 9 / 10
+ok   Nexus Electronics LLC 
+ok   Nichols Electronics 
+ok   Nicodemus Sheet Metal & Fabrication 
+ok   Newport Specialty Foods 
+ok   NAC Semi 
+ok   North American Plastics Ltd. 
+ok   Newark Ironbound Electrical Supply Co., Inc. 
+PAGE DONE p0393-profiles.json
+ok   Northeast Foreign Cars 
+ok   NorthWoods Manufacturing 
+ok   Norseman Designs West 
+ok   Nichols Portland, LLC 
+skip Ocean State Packaging Co LLC 
+ok   Northwest Arkansas Sheet Metal 
+ok   Montana Metal Fabrications 
+PAGE DONE p0387-profiles.json
+ok   North American Cable Equipment 
+ok   Northland Auto & Truck Accessories 
+ok   Northwind Solar 
+ok   Ngage Medical Mfg. LLC 
+ok   Oem Experts 
+ok   North Country Sportswear 
+ok   Northern Wire 
+ok   Northern Hydraulics Inc. 
+ok   Northern Furniture Manufacturing LLC 
+ok   Northeast Solar 
+ok   Off Road Warehouse 
+ok   Northeast Restaurant Equipment 
+ok   Nicolet Plastics LLC 
+ok   OEM Components Inc 
+fetched p0398-raw.json 10 / 10
+ok   Nichia America Corporation 
+ok   Ohio Wire Form Spring 
+ok   OTC Medical 
+fetched p0399-raw.json 10 / 10
+ok   North Idaho Log Furniture Co 
+ok   Northern Illinois Steel Supply 
+ok   Oak City Customs 
+ok   Odyssey Electronics 
+ok   Northeast Fabricators & Mechanical 
+ok   NovelCath A Cirtec Company 
+ok   Northeast Millwork Corporation 
+PAGE DONE p0395-profiles.json
+ok   O'Meara Solar 
+ok   OAI Electronics Inc 
+ok   Odie Sheet Metal 
+ok   NB Electrical Enclosure Manufacturer Inc. 
+PAGE DONE p0389-profiles.json
+ok   OREGON ELECTRONICS 
+RETRY osh-cut Expecting ',' delimiter: line 78 column 4 (char 3515)
+ok   Old Fort Furniture 
+ok   Nick's Wood Shop LLC 
+PAGE DONE p0394-profiles.json
+ok   Oklahoma Textile 
+ok   Nova Medical Inc 
+PAGE DONE p0396-profiles.json
+ok   Outlaw Woodworks LLC 
+ok   Old Glory Solar 
+ok   Oregon Screen Impressions 
+ok   Otto Manufacturing, Inc 
+ok   Origin Factory Store 
+ok   OnChip Devices 
+ok   Omnia Medical 
+ok   Omega Leads 
+ok   Outdoor Wood Furniture Inc. 
+ok   On The Spot Assembly 
+ok   Omega Car and Truck Accessories 
+ok   Okuhara Foods Inc 
+ok   P D & E Electronics LLC 
+ok   OSH Cut 
+PAGE DONE p0397-profiles.json
+ok   Oreion Motors 
+ok   Oregon Solar and Battery 
+ok   Oliver Machinery 
+PAGE DONE p0398-profiles.json
+RETRY optifuse Expecting ',' delimiter: line 42 column 4 (char 2737)
+ok   Ozark Solar 
+ok   OptiFuse 
+PAGE DONE p0399-profiles.json
+ALL-DONE errors 0 of 200
+collected 196
+metal-products-co-inc | wording/address
+metropolitan-parts-inc | nums ['1962', '1954']
+meyer-wire-cable-co | nums ['1965']
+microweld-co-inc | nums ['60']
+mid-atlantic-medical-supply | wording/address
+mike-s-welding | nums ['7:00']
+milford-woodworking-co | nums ['1950']
+minnesota-micro-molding-machining-manufacturing | certs ['CpK reporting']
+minnesota-valley-electric-cooperative | wording/address
+missouri-wind-and-solar | wording/address
+mitty-s-food | wording/address
+modern-alpha-plastics-inc | nums ['60,000']
+modern-process-equipment-corporation | wording/address
+montana-milling | wording/address
+motherson-warren | wording/address
+nw-innovative-technologies | certs ['AS9100 (pursuing)', 'RoHS compliant']
+nzk-plastics-llc | wording/address
+nashville-sheet-metal | nums ['35']
+national-equipment-co | wording/address
+national-woodwork-mfg | wording/address
+native-solar | wording/address
+nemo-manufacturing-inc | nums ['1990', '1980'] ; certs ['ISO 9001:2015', 'ITAR']
+neocera-llc | wording/address
+new-age-medical-llc | certs ['FDA tissue intermediary registration']
+newark-ironbound-electrical-supply-co-inc | wording/address
+nichols-electronics | wording/address
+northeast-solar | certs ['A+ BBB rating']
+oem-components-inc | wording/address
+otc-medical | wording/address
+odyssey-electronics | nums ['10,000']
+oem-experts | wording/address
+okuhara-foods-inc | wording/address
+old-fort-furniture | wording/address
+omega-car-and-truck-accessories | certs ['MECP Master Certification']
+optifuse | nums ['2021']
+oreion-motors | wording/address
+collected 196
+done medical-device-innovation-corp 1 
+done medical-products-laboratories 0 
+done medicatech-usa 0 
+done medicreations 2 
+done medway-plastics-corporation 1 
+done melnick-metal-works-inc 1 
+done mercury-electronics 0 
+done mermar-electronics 0 
+done metal-fab-engineering 2 
+done metal-fabricators-plus 0 
+done metal-masters-of-florida 3 
+done metal-pro-inc 0 
+done metal-products-co-inc 2 
+done metal-specialties-new-jersey 0 
+done metalmania-custom-metal-works-fabrication-shop 1 
+done metalfab-inc 0 
+done metalworking-group-pippin-location 0 
+done metalworks-of-montana-inc 1 
+done metropolitan-packaging-manufacturing 0 
+done metropolitan-parts-inc 2 
+done meyer-wire-cable-co 0 
+done mica-furniture-manufacturing-inc 1 
+done michael-cowman-s-custom-furniture 2 
+done michaelson-foreign-domestic-car-parts 4 
+done michigan-milk-producers-association 1 
+done micro-tek-corporation 1 
+done microchip-auto-glass 2 
+done microweld-co-inc 0 
+done mid-america-woodworking-mach 0 
+done mid-atlantic-medical-supply 1 
+done mid-michigan-wood-specialties 0 
+done midland-plastics-inc 6 
+done midland-west-manufacturing 0 
+done midwest-garment 1 
+done midwest-metal-fabrications 2 
+done midwest-molding-inc 2 
+done midwest-plastics-inc 0 
+done midwest-sheet-metal-co 1 
+done midwest-solar-power 2 
+done midwest-solars 2 
+done midwest-woodcraft 1 
+done mike-s-welding 8 
+done milford-woodworking-co 1 
+done mill-creek-packaging-inc 0 
+done mill-haven-foods 0 
+done millard-manufacturing-corporation 1 
+done miller-wire-works-inc 1 
+done min-plastics-supply-inc 1 
+done mineral-fabrication-machine-company-inc 1 
+done minnesota-micro-molding-machining-manufacturing 0 
+done minnesota-valley-electric-cooperative 2 
+done mira-plastics-co-inc 0 
+done mirac-llc 2 
+done miscellaneous-stainless-steel-works-llc-mssw-llc 0 
+done mishimoto-automotive 0 
+done mississippi-metal-manufacturing 1 
+done missouri-wind-and-solar 0 
+done mitchell-plastics 1 
+done mitokine-bio-science 1 
+done mitsubishi-electric-manufacturing 4 wrong
+done mitsubishi-international-food-ingredients-inc-dublin-office 0 
+done mitty-s-food 2 
+done mize-co-inc-mize-wire-products 1 
+done mocorp-custom-metal-fabrication 2 
+done modern-alpha-plastics-inc 0 
+done modern-metal-company 1 
+done modern-process-equipment-corporation 0 
+done modula-inc-maine 1 
+done module-master 0 
+done mohawk-electrical-systems-inc 0 
+done moldgenix 1 
+done molding-dynamics-inc 1 
+done molding-technologies-llc 0 
+done montana-food-equipment 1 
+done montana-metal-fabrications 1 
+RETRY monterey-company expected string or bytes-like object, got 'NoneType'
+RETRY montana-metalworks-and-signs expected string or bytes-like object, got 'NoneType'
+done montana-metalworks-and-signs 0 
+done montana-milling 0 
+done monterey-company 3 
+done moody-mountain-solar 3 
+done mop-top-pros 2 
+done motherson-warren 0 
+done motherson-yachiyo-automotive-tech-products-of-america-inc 3 
+done motion-lite-baton-rouge-technology-solutions 0 
+done mountain-drivetrain-llc 0 
+done mountain-energy-design 4 
+done mountain-high-woodworks-inc 0 
+done mr-plastic-jonesboro 1 
+done mrs-clark-s-foods 0 
+done muller-textiles-inc 1 
+done murray-sheet-metal-co-inc 2 
+done mynt-solar 0 
+done nac-semi 0 
+done nb-electrical-enclosure-manufacturer-inc 0 
+done nc-solar-electric-llc 1 
+done nc-solar-now 3 
+done next-medical-products-company 2 
+done nh-woodworks-llc 1 
+done nk-woodworking-design 1 
+done nps-metals 0 
+done nw-innovative-technologies 3 
+done nzk-plastics-llc 1 
+done nagakura-engineering-works-indiana 0 
+done namaste-solar 0 
+done nashville-production-design 0 
+done nashville-sheet-metal 0 
+done nashville-wood-by-appointment-only 1 
+done nassau-national-cable 1 
+done national-equipment-co 1 
+done national-food-equipment-supplies 4 
+done national-medical-solutions 2 
+done national-seating-mobility 2 
+done national-solar 0 
+done national-woodwork-mfg 0 
+done native-energy-solutions 0 
+done native-solar 0 
+done nautilus-cables 0 
+done nebraska-scooter-mart-llc 2 
+done nemo-manufacturing-inc 2 
+done neocera-llc 2 
+done neodesha-plastics-inc 0 
+done netzer-metalworks-llc 1 
+done nev-metal-works-llc 1 
+done new-age-medical-llc 2 
+done new-deantronics 2 
+done new-england-wire-technologies 1 
+done new-era-supply-co 3 
+done new-jersey-textiles 1 
+done new-jersey-wire-cloth-company 1 
+done new-mexico-fabrics-and-foam 0 
+done new-prairie-solar 1 
+done new-rainbow-fabrics 3 
+done new-tech-plastics-llc 2 
+done newark-ironbound-electrical-supply-co-inc 3 
+done neway-packaging-corporation 1 
+done newport-specialty-foods 2 
+done nextera-packaging 0 
+done nexus-electronics-llc 1 
+done ngage-medical-mfg-llc 0 
+done nichia-america-corporation 9 
+done nichols-electronics 2 
+done nichols-portland-llc 0 
+done nick-s-wood-shop-llc 4 
+done nicodemus-sheet-metal-fabrication 3 
+done nicolet-plastics-llc 1 
+done norseman-designs-west 5 
+done north-american-cable-equipment 1 
+done north-american-plastics-ltd 0 
+done north-country-sportswear 0 
+done north-idaho-log-furniture-co 1 
+done northwoods-manufacturing 1 
+done northeast-fabricators-mechanical 0 
+done northeast-foreign-cars 1 
+done northeast-millwork-corporation 3 
+done northeast-restaurant-equipment 1 
+done northeast-solar 2 
+done northern-furniture-manufacturing-llc 2 
+done northern-hydraulics-inc 0 
+done northern-illinois-steel-supply 0 
+done northern-wire 0 
+done northland-auto-truck-accessories 3 
+done northwest-arkansas-sheet-metal 1 
+done northwind-solar 0 
+done nova-medical-inc 4 
+done novelcath-a-cirtec-company 0 
+done o-meara-solar 2 
+done oai-electronics-inc 1 
+done oem-components-inc 2 
+done oregon-electronics 2 
+done osh-cut 0 
+done otc-medical 1 
+done oak-city-customs 2 
+done odie-sheet-metal 3 
+done odyssey-electronics 1 
+done oem-experts 1 
+done off-road-warehouse 1 
+done ohio-wire-form-spring 0 
+done oklahoma-textile 1 
+done okuhara-foods-inc 1 
+done old-fort-furniture 1 
+done old-glory-solar 0 
+done oliver-machinery 3 
+done omega-car-and-truck-accessories 0 
+done omega-leads 0 
+done omnia-medical 0 
+done on-the-spot-assembly 1 
+done onchip-devices 1 
+done optifuse 1 
+done oregon-screen-impressions 4 
+done oregon-solar-and-battery 0 
+done oreion-motors 1 
+done origin-factory-store 0 
+done otto-manufacturing-inc 0 
+done outdoor-wood-furniture-inc 0 
+done outlaw-woodworks-llc 2 
+done ozark-solar 0 
+done p-d-e-electronics-llc 0 
+ALL-DONE errors 0
+clean 190 | sentences removed 202 | needs review 6 | check errors 0
+REVIEW midland-plastics-inc too short after fact-check (78 words)
+REVIEW mike-s-welding too short after fact-check (49 words)
+REVIEW mitsubishi-electric-manufacturing Source contains unrelated content about SmartRecruiters for SAP SuccessFactors.
+REVIEW mountain-energy-design too short after fact-check (33 words)
+REVIEW nichia-america-corporation too short after fact-check (13 words)
+REVIEW oliver-machinery too short after fact-check (74 words)
+sql parts 3 stories 190

@@ -1,0 +1,705 @@
+# Summit Electrical Contractors
+
+**Old description:** Since 2000 Summit Electrical Contractors have been servicing Rhode Island residents and business alike. We are ever-expanding and provide professional and courteous service for whatever your electrical needs may be. We pride ourselves on our attention to detail and professionalism
+
+## About
+Summit Electrical Contractors was founded in 2000 in Lincoln, Rhode Island, and has since expanded to serve customers throughout the state. The company began as a local electrical service provider focused on residential and commercial work, gradually adding industrial capabilities as demand grew.
+
+The firm delivers a full range of electrical contracting services, including fire alarm system installation and maintenance, new construction and remodel wiring design, panel upgrades, emergency generator installation, and high‑voltage splicing and terminations up to 115 kV. Its technicians perform meggering (insulation testing), switchgear maintenance and installation, industrial control system work, facility maintenance, and substation maintenance. The company also offers energy‑efficiency inspections using a power and energy logger to identify consumption patterns.
+
+Summit serves three primary customer segments: residential clients such as homeowners, multi‑family housing complexes, and apartment buildings; commercial clients including hotels and retail properties; and industrial facilities that require high‑voltage infrastructure and ongoing maintenance. Concrete examples from the company’s own materials cite multi‑family homes, apartment complexes, and hotels as typical fire‑alarm customers, while industrial work encompasses substation and switchgear projects.
+
+The company emphasizes its 24‑hour emergency response, state licensing and insurance, and a reputation for attention to detail and professionalism. These factors, combined with specialized expertise in fire alarm systems and high‑voltage substation work up to 115 kV, are presented as the core reasons customers choose Summit over competitors.
+
+## Known for
+- 24‑hour emergency service availability
+- Licensed and insured electrical contractor
+- Specialists in fire alarm systems for multi‑family and hospitality properties
+- High‑voltage expertise up to 115 kV substation maintenance
+- Energy‑efficiency inspections with power and energy logger
+
+## Capabilities
+- Fire alarm system installation and maintenance
+- New construction electrical design and installation
+- Remodel and renovation electrical work
+- Panel service and upgrades
+- Emergency generator installation
+- Recessed lighting installation
+- Ice dam wiring
+- Ceiling fan installation
+- Landscape lighting installation
+- Bath fan installation
+- WiFi appliance integration
+- Surge protector installation
+- Knob and tube wiring replacement
+- High voltage splices and terminations
+- Meggering (insulation resistance testing)
+- Electrical switchgear maintenance
+- Electrical switchgear installation
+- Industrial control systems
+- Facility electrical maintenance
+- Generator system installation
+- Up to 115 kV substation maintenance
+- Inspection and testing with power and energy logger
+
+## Industries
+- Residential
+- Commercial
+- Industrial
+- Multi-family housing
+- Hospitality (hotels)
+- Facility management
+
+## Equipment
+- Power and energy logger
+- Megger insulation tester
+
+## Company details
+- **Company Type:** Installer / service company
+- **Founded:** 2000
+- **Headquarters:** Lincoln, Rhode Island
+
+<details><summary>Sources</summary>
+
+- Founded in 2000 -> /
+- Headquarters in Lincoln, Rhode Island -> /
+- Residential, commercial, and industrial electrical services -> /
+- 24-hour emergency service -> /
+- Fire alarm system installation and maintenance for multi-family homes, apartments, hotels -> /services
+- New construction and remodel electrical design -> /services
+- Panel service and upgrades -> /services
+- Emergency generator installation -> /services
+- High voltage splices and terminations -> /services
+- Meggering (insulation testing) -> /services
+- Switchgear maintenance and installation -> /services
+- Industrial control systems -> /services
+- Facility maintenance -> /services
+- Generator system installation -> /services
+- Up to 115 kV substation maintenance -> /services
+- Inspection and testing with power and energy logger -> /services
+- Licensed and insured -> /services
+</details>
+
+---
+
+# Summit Interconnect Chicago
+
+**Old description:** Summit Interconnect is celebrating 10 years of trusted PCB manufacturing and the partnerships that have made it possible.
+
+## About
+Summit Interconnect's Chicago facility operates from Schaumburg, Illinois, as part of a North American network founded in 2016 when KCA Electronics in Anaheim and Marcel Electronics International in Orange were acquired to form the company. The Chicago site was added in 2021 through the Eagle Electronics acquisition, which brought quick-turn commercial prototype capabilities. Leadership includes President & CEO Shane Whiteside and a team of veterans paired with younger professionals across engineering, manufacturing, and quality roles.
+
+The company fabricates complex rigid, RF/microwave, rigid-flex, and flex printed circuit boards, and provides full turnkey prototype assembly. Across seven connected high-tech facilities and eight North American locations, Summit runs 1,250-plus employees producing boards from two layers to 30-plus layers standard, with emerging capability beyond 44 layers. Panel sizes reach 24 by 36 inches; HDI sequential lamination goes to seven layers. Processes include laser microvias, blind/buried vias, via-in-pad with conductive or non-conductive fill, and surface finishes such as ENIG, ENEPIG, immersion silver, and OSP. Assembly handles fine-pitch placement to 0.04 mils, components down to 01005, BGA reball, underfill, conformal coating, box build, and functional test.
+
+Customers span aerospace and defense programs, commercial space projects requiring IPC-6012 Class 3/3A, AI and quantum computing infrastructure, industrial and energy systems, and medical devices needing miniaturization with thin dielectrics and laser-drilled vias. The Chicago site specifically supports quick-turn prototype work for commercial and defense customers.
+
+Summit positions itself as one of the largest PCB manufacturers in North America, differentiating through redundant facilities, field application engineers across the continent, and a one-stop model that combines fabrication, assembly, and test under AS9100D, NADCAP, ITAR, and IPC Class III certifications. The stated mission is to help customers succeed while building a workplace where the team can thrive.
+
+## Known for
+- One of the largest PCB manufacturers in North America
+- Seven connected high-tech facilities across eight North American locations
+- Field application engineers deployed across North America
+- Redundant manufacturing facilities for supply-chain resilience
+- Quick-turn commercial prototype capabilities from Eagle Electronics acquisition
+
+## Capabilities
+- HDI rigid PCB fabrication (microvias, blind/buried vias, back drilling, via fill, metal core, large panel)
+- RF/microwave PCB fabrication (high aspect ratio, low-loss materials, bondable gold, tight tolerance drilling, sintering)
+- Rigid-flex and flex PCB manufacturing (bookbinder, multilayer, adhesiveless/adhesive, stiffeners, laser ablation, thin flex laminates)
+- Prototype PCB assembly (turnkey, single/double-sided SMT, through-hole, BGA placement)
+- Thermal management PCBs (advanced materials and processes for heat dissipation)
+- Box build assembly
+- Conformal coating
+- Functional testing
+- Fine-pitch placement (0.04 mils advanced)
+- Component placement down to 01005
+- BGA/uBGA/VFBGA placement and reball
+- Flip-chip assembly
+- Package-on-package assembly
+- Underfill and staking
+- Press-fit insertion
+- Vapor phase reflow
+- Selective soldering
+- 3D BGA X-ray inspection
+- Flying probe testing
+- In-line AOI
+- Ionic contamination testing
+- AS9100D quality management
+- IPC Class II/III compliance
+- ITAR registered manufacturing
+
+## Industries
+- Aerospace & Defense
+- Defense
+- AI & Quantum Computing
+- Commercial Space
+- Industrial & Instrumentation
+- Medical Devices
+
+## Certifications
+- AS9100D
+- NADCAP
+- ITAR
+- ISO9001
+- RoHS
+- IPC Class II
+- IPC Class III
+- AS9102 FAIR
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 2016
+- **Employees:** 1250+
+- **Headquarters:** Schaumburg, Illinois
+
+<details><summary>Sources</summary>
+
+- Founded 2016 via KCA Electronics and Marcel Electronics acquisitions -> /about-us
+- Chicago facility added 2021 via Eagle Electronics acquisition -> /about-us
+- Headquarters Schaumburg, IL -> db, / (Chicago location address)
+- 1,250+ employees, 7 facilities, 8 locations -> /, /about-us
+- Leadership names (Shane Whiteside, etc.) -> /about-us
+- Markets served list -> /
+- Fabrication capabilities (layers, panel size, HDI, vias, finishes) -> /capabilities
+- Assembly capabilities (turns, SMT, through-hole, BGA, fine pitch, components) -> /capabilities
+- Quality certifications (AS9100D, NADCAP, ITAR, ISO9001, RoHS, IPC Class II/III) -> db, /capabilities
+- Quick-turn prototype emphasis -> /, /about-us, /capabilities
+- One of largest PCB manufacturers in North America claim -> /
+- Field application engineers across North America -> /
+- Redundant facilities -> /
+- Mission statement -> /about-us
+</details>
+
+---
+
+# Summit Medical, an Innovia Medical Company
+
+**Old description:** that are passionately committed to partnering with medical professionals to help elevate the delivery of patient care and improve clinical outcomes.
+
+## About
+Summit Medical, an Innovia Medical Company, operates from Eagan, Minnesota. The business is part of Innovia Medical, a family of specialty surgical companies that partner with medical professionals to elevate patient care and improve clinical outcomes. No founding year or founders are disclosed.
+
+The company develops and manufactures a range of surgical and therapy products, including otology ventilation tubes, rhinology nasal splints, ophthalmology instruments, cervical biopsy punches, sterilization trays, and personal protection equipment such as face shields. Its manufacturing capabilities encompass clean-room silicone molding, plastic injection molding, bench assembly, and clean-room packaging, supported by product development, custom design, and private-label services.
+
+Summit Medical serves surgeons, hospitals, and medical professionals across otology, rhinology, ophthalmology, and gynecology specialties. Its products are used in procedures ranging from ear ventilation and nasal airway management to ophthalmic surgery and cervical biopsy.
+
+Innovia Medical emphasizes innovation leadership driven by direct collaboration with physicians and nurses, unsurpassed product quality through rigorous quality control and continuous process improvement, and responsive, personalized customer service with live representatives available around the clock. The company notes that many customers have relied on its product solutions for more than forty years.
+
+## Known for
+- Innovation leadership through close collaboration with medical professional partners
+- Unsurpassed product quality via rigorous quality control and ongoing manufacturing process improvement
+- Responsive, personalized customer service with live representatives available any time
+
+## Capabilities
+- Clean room silicone molding
+- Plastic injection molding
+- Bench assembly
+- Clean room packaging
+- Product development
+- Custom design
+- Private label manufacturing
+
+## Industries
+- Otology
+- Rhinology
+- Ophthalmology
+- Gynecology
+- Surgical instrumentation
+- Medical device manufacturing
+
+## Certifications
+- ISO 13485
+- CE Mark
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Eagan, Minnesota
+
+<details><summary>Sources</summary>
+
+- Headquarters: Eagan, Minnesota -> db
+- Certifications: ISO13485, CEMARK -> db
+- Capabilities: clean room silicone molding, plastic injection molding, bench assembly, clean room packaging, product development, custom design, private label -> db
+- Products: otology ventilation tubes, rhinology nasal splints, ophthalmology surgical products, cervical biopsy punch, sterilization trays, face shields -> /
+- Innovia Medical is a family of specialty surgical companies -> /about
+- Innovation leadership through collaboration with medical professionals -> /about
+- Unsurpassed product quality via rigorous quality control and process improvement -> /about
+- Responsive personalized customer service with live representatives -> /about
+- Customers have relied on products for more than forty years -> /about
+</details>
+
+---
+
+# Summit Packaging Systems
+
+**Old description:** Founded in 1976, Summit is a global leader in the aerosol valve industry, with five manufacturing plants strategically positioned throughout the world.
+
+## About
+Summit Packaging Systems, founded in 1976, is headquartered in Manchester, New Hampshire. The company operates five manufacturing facilities worldwide, including locations in Racine, Wisconsin; Almere, Netherlands; Tarnow, Poland; Pilar, Argentina; and Toluca, Mexico. Built on family values, the business has remained family-owned through multiple generations.
+
+The company specializes in aerosol valves and actuators, offering vertical action, tilt action, female, metered, and bag-on-valve designs. With over 100 million parts produced daily across its global network, Summit holds approximately 25% of the global aerosol valve market. All facilities are ISO 9001 registered, and the company emphasizes continuous improvement, patented technology, and cost-saving initiatives.
+
+Summit serves global brands across consumer packaged goods, pharmaceutical, personal care, and industrial sectors. Its customer base includes multinational companies that rely on the company's supply chain reliability and technical support.
+
+The company differentiates itself through a strategy of quality, service, price, and technology, backed by significant sustainability investments to reduce waste and environmental impact. A profit-sharing program and ongoing training reflect its commitment to a multi-generational workforce.
+
+## Known for
+- Over 100 million parts produced daily
+- Five manufacturing plants on four continents
+- All facilities ISO 9001 registered
+- Approximately 25% global market share in aerosol valves
+- Patented valve and machine technology
+
+## Capabilities
+- Aerosol valve manufacturing
+- Actuator manufacturing
+- Vertical action valve production
+- Tilt action valve production
+- Female valve production
+- Metered valve production
+- Bag-on-valve production
+- Custom valve design
+- Machining
+- Assembly
+- Quality control
+
+## Certifications
+- ISO 9001
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1976
+- **Ownership:** Family-owned
+- **Headquarters:** Manchester, New Hampshire
+
+<details><summary>Sources</summary>
+
+- Founded in 1976 -> db, /about
+- Headquarters Manchester, NH -> /about
+- Five manufacturing plants globally -> /about
+- ISO 9001 registered at all facilities -> /about
+- 25% global market share -> /about
+- Over 100 million parts produced daily -> /
+- Family values and multi-generational workforce -> /about
+- Sustainability investments -> /about
+- Patented technology -> /
+- Product types: vertical action, tilt action, female, metered, bag-on-valve -> /about
+</details>
+
+---
+
+# Sun Up Zero Down
+
+**Old description:** Sun Up Zero Down specializes in installing solar panels for residential homes. Have a system installed on your home for no money down, and save up to 65% on your electric bill.
+
+## About
+Sun Up Zero Down was founded in 2013 in Egg Harbor Township, New Jersey. The company has grown into a regional solar installation provider backed by over 50 years of combined industry experience among its team members. While the founders are not named publicly, the business began with a focus on making solar accessible through zero-down financing options.
+
+The company designs and installs solar energy systems for residential and commercial properties across six states: New Jersey, Pennsylvania, New York, Connecticut, Massachusetts, and Illinois. Its full-service process covers site evaluation (using satellite imagery and 3D shade modeling), financing assistance, permitting, installation, and utility interconnection. Installations typically take one to two days, though utility meter approval can add three to six weeks. Beyond solar, Sun Up Zero Down also offers roof replacement as a dealer for major shingle manufacturers, and provides ongoing maintenance including system diagnostics, inverter troubleshooting (SolarEdge, Enphase, SMA), panel replacement, and critter guard installation. To date, the firm has completed thousands of installations for more than 2,000 property owners.
+
+Customers range from homeowners seeking to reduce electric bills to commercial property owners pursuing energy independence. The company serves clients throughout its six-state footprint, with detailed county-level coverage in New Jersey and Pennsylvania. Projects are customized to each property's roof, energy usage, and shading conditions.
+
+Sun Up Zero Down emphasizes a turnkey approach, handling all paperwork, design, permits, and utility coordination. It differentiates itself through price transparency (no hidden fees), full licensing and insurance including workers' compensation, and a 25-year product warranty on roofing materials. The company has earned three Gold medals in the "Best of The Press" awards and appeared on the Inc. 5000 list of fastest-growing companies.
+
+## Known for
+- Zero-down financing for qualified customers
+- End-to-end project management from site evaluation to utility interconnection
+- Average installation completed in 1-2 days
+- Service expertise across SolarEdge, Enphase, and SMA inverter platforms
+- Roof replacement offered alongside solar as premier shingle dealer
+- Price transparency with no hidden fees
+
+## Capabilities
+- Solar panel installation (residential and commercial)
+- Solar system design
+- Site evaluation (virtual and in-person)
+- Shade analysis and 3D modeling
+- Financing assistance and zero-down options
+- Permitting and paperwork management
+- Utility interconnection coordination
+- Solar system maintenance and diagnostics
+- System removal and reinstallation
+- Solar panel replacement
+- Inverter troubleshooting and replacement (SolarEdge, Enphase, SMA)
+- Array Edge Screen (Critter Guard) installation
+- Roof replacement
+- Custom proposal generation
+
+## Industries
+- Residential solar
+- Commercial solar
+- Roofing
+
+## Equipment
+- SolarEdge inverters
+- Enphase inverters
+- SMA inverters
+- Array Edge Screen (Critter Guard)
+
+## Company details
+- **Company Type:** Installer / service company
+- **Founded:** 2013
+- **Headquarters:** Egg Harbor Township, New Jersey
+
+<details><summary>Sources</summary>
+
+- Founded 2013 -> db and /
+- Headquarters Egg Harbor Township, New Jersey -> db
+- Operates in six states: NJ, PA, NY, CT, MA, IL -> /
+- Over 50 years combined industry experience -> /
+- Thousands of successful solar installations -> /
+- More than 2,000 property owners served -> /services
+- Zero-down financing for qualified customers -> /
+- Average installation 1-2 days -> /
+- Utility meter install up to 3-6 weeks -> /
+- Services SolarEdge, Enphase, SMA inverters -> /services
+- Offers roof replacement as premier dealer -> /services
+- Fully licensed and insured with workers' comp and liability -> /services
+- Price transparency, no hidden fees -> /services
+- 25-year product warranty on roofing materials -> /services
+- Three Gold medals in Best of The Press -> /
+- Inc. 5000 recognition -> /
+- Array Edge Screen (Critter Guard) installation -> /services
+- Site evaluation with satellite imagery and 3D shade modeling -> /
+- Serves residential and commercial customers -> /
+- County-level service areas in NJ and PA -> /services
+</details>
+
+---
+
+# Sun Valley Solar Solutions
+
+**Old description:** Trusted by more than 12,000 residential and commercial solar and battery customers since 2006
+
+## About
+Sun Valley Solar Solutions was founded in 2006 in Chandler, Arizona. The company began with a focus on quality and ethical practices to build long-term customer relationships and a stable business.
+
+The company provides full in-house solar and energy storage services for residential and commercial customers. Its capabilities span system design, installation, and ongoing service for solar arrays, battery storage, EV chargers, and panel removal and reinstallation. With more than 12,000 systems installed since inception, the operation handles sales, engineering, permitting, installation, and maintenance without outsourcing.
+
+Sun Valley serves homeowners across Arizona and commercial clients including PepsiCo, Sub-Zero Group, and Voya Financial. The firm also works with residential customers through its prepaid lease program, which bundles financing and installation under a single local team.
+
+The company emphasizes a no-outsourcing model, keeping design, build, and service under one roof. It cites ethical practices, a referral-driven business model (over one-third of new business from repeat or referred customers), and recognition as a six-time Angie's List Super Service Award winner as differentiators.
+
+## Known for
+- Full in-house operation covering sales, design, installation, and service
+- No outsourcing of any project phase
+- Over 12,000 residential and commercial systems installed since 2006
+- Six-time Angie's List Super Service Award winner
+- Prepaid lease program with integrated financing and local installation
+
+## Capabilities
+- Residential solar installation
+- Commercial solar installation
+- Battery storage installation and service
+- EV charger installation
+- Solar panel removal and reinstallation
+- Solar system design and engineering
+- Solar system maintenance and repair
+- Solar financing (prepaid lease)
+
+## Industries
+- Residential solar energy
+- Commercial solar energy
+- Energy storage
+- EV charging infrastructure
+
+## Certifications
+- Rosie on the House Certified Partner
+
+## Company details
+- **Company Type:** Installer / service company
+- **Founded:** 2006
+- **Headquarters:** Chandler, Arizona
+
+<details><summary>Sources</summary>
+
+- Founded in 2006 -> db
+- Headquartered in Chandler, Arizona -> db
+- 12,000+ residential and commercial customers -> db, page '/'
+- Full in-house operation - sales, design, installation, and service -> page '/'
+- No outsourcing -> page '/'
+- Six-time Angie's List Super Service Award Winner -> db, page '/'
+- Commercial clients: PepsiCo, Sub-Zero Group, Voya Financial -> db
+- Rosie on the House Certified Partner -> db
+- Prepaid lease program (Sun Valley Amicus Impact Prepaid Lease) -> page '/'
+- Services: residential solar, commercial solar, battery, EV chargers, panel removal/reinstallation -> page '/'
+- Over a third of new business from repeat customers and referrals -> page '/'
+</details>
+
+---
+
+# SunElement Energy Inc
+
+**Old description:** Sun Element Energy Inc. epitomizes American innovation, with a team that brings over 15 years of experience to the forefront of solar technology advancement.
+
+## About
+SunElement Energy Inc was founded in 2011 in Dublin, Georgia, where it operates a 196,000-square-foot manufacturing facility. The company's team brings over 15 years of experience in solar technology advancement.
+
+The company produces solar photovoltaic panels for three market segments: residential (450W), commercial and industrial (550W), and utility-scale solar farms (680W). Its facility has a stated production capacity of 1.5 gigawatts annually. All panels are manufactured in the United States using advanced solar technology and superior manufacturing processes.
+
+SunElement serves homeowners, commercial building owners, and utility-scale project developers. Its residential panels target homeowners seeking energy cost savings and a clean energy transition; commercial panels are designed for roof-constrained installations with space-efficient, durable designs; utility-scale panels are built for large solar farms and high-demand projects, focusing on high output and optimal land utilization.
+
+The company emphasizes American innovation and environmentally responsible practices. It backs its products with a 25-year performance warranty and a 30-year product warranty, aiming to promote energy independence and stimulate economic growth through sustainable solar solutions.
+
+## Known for
+- Manufactured in the United States of America
+- 1.5 GW annual production capacity
+- 196,000 sq ft manufacturing facility
+- 25-year performance warranty
+- 30-year product warranty
+
+## Capabilities
+- Solar panel manufacturing
+- Residential solar panel production (450W)
+- Commercial solar panel production (550W)
+- Utility-scale solar panel production (680W)
+- High-capacity solar manufacturing
+
+## Industries
+- Residential solar
+- Commercial solar
+- Industrial solar
+- Utility-scale solar
+- Solar farms
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 2011
+- **Headquarters:** Dublin, Georgia
+
+<details><summary>Sources</summary>
+
+- Founded 2011 -> db
+- Headquarters Dublin, Georgia -> db
+- 196,000 sq ft manufacturing facility -> /
+- 1.5 GW production capacity -> /
+- Manufactured in the USA -> /
+- 25-year performance warranty -> /
+- 30-year product warranty -> /
+- Residential 450W panels -> /
+- Commercial 550W panels -> /
+- Utility-scale 680W panels -> /
+- 15 years experience in solar technology -> db
+</details>
+
+---
+
+# SunMade Smart Roofing, Solar Fresno & Electric
+
+**Old description:** Yes—SunMade® specializes in coordinating roof replacements and solar installations in one seamless project. It’s more efficient, cost-effective, and ensures your new roof is solar-ready from day one.
+
+## About
+SunMade Smart Roofing, Solar & Electric is based in Fresno, California, in the Central Valley. The company was officially established in 2016 by founder Oz Wardak, who began his journey in the solar industry in 2008. The business is locally owned and operated by Central Valley residents.
+
+The firm provides integrated solar, roofing, and electrical contracting services under one roof. It holds three California State License Board classifications: C-46 (solar), C-39 (roofing), and C-10 (electrical). Services include custom solar photovoltaic system design and installation, high-performance roofing system installation and replacement, home battery storage installation, and ongoing maintenance and repair for both solar and roofing systems. All work is performed by in-house licensed teams without subcontractors. The company reports thousands of residential installations completed across California.
+
+SunMade primarily serves residential homeowners in Fresno, Clovis, Madera, Merced, Visalia, and surrounding Central Valley communities. It has also completed commercial projects, such as a donated solar system for a local worship center and a roof donation for Faith Community Church. The company focuses on homeowners seeking to eliminate utility bills and reduce carbon footprint through coordinated roof-and-solar projects.
+
+The company emphasizes its Diamond Certified status, held for six consecutive years as of 2024, with a 98% customer loyalty and 100% helpful expertise rating. It also highlights its triple licensing, in-house execution model, and $0-down financing options as differentiators. Founder Oz Wardak started the business with a commitment to reliable, high-quality solar solutions.
+
+## Known for
+- Triple CSLB licenses: C-46 Solar, C-39 Roofing, C-10 Electrical
+- Only Diamond Certified solar, roofing, and electrical contractor in the Central Valley
+- In-house design, installation, and maintenance teams — no subcontractors
+- $0 down financing options for solar and roofing projects
+- 5-star ratings on Google, Better Business Bureau, and Yelp
+
+## Capabilities
+- Solar PV system design and installation
+- Roofing system installation and replacement
+- Home battery storage installation
+- Electrical contracting (C-10)
+- Solar system maintenance and repair
+- Roofing maintenance and repair
+- Permitting and project management
+
+## Industries
+- Residential solar installation
+- Residential roofing
+- Home energy storage
+- Electrical contracting
+- Commercial solar installation
+
+## Certifications
+- Diamond Certified
+- CSLB C-46 Solar Contractor License
+- CSLB C-39 Roofing Contractor License
+- CSLB C-10 Electrical Contractor License
+- BBB Torch Awards for Ethics Finalist 2026
+- Yahoo! Best of the West Award 2025
+- Yahoo! Local 2026 Best Roofer
+- BusinessRate Best of 2026 #1 Solar Company in Fresno
+
+## Company details
+- **Company Type:** Installer / service company
+- **Founded:** 2016
+- **Ownership:** Locally owned
+- **Headquarters:** Fresno, California
+
+<details><summary>Sources</summary>
+
+- Founded in 2016 by Oz Wardak -> /
+- Headquarters in Fresno, California -> db
+- Triple CSLB licenses (C-46, C-39, C-10) -> /
+- Diamond Certified 6 years as of 2024 -> /
+- Services: solar, roofing, battery, maintenance -> /
+- Residential customers in Central Valley -> /
+- In-house teams, no subcontractors -> /
+- $0 down financing -> /
+- GAF Timberline HDZ RS roofing used in donation -> /about-us
+- Commercial solar donation to worship center -> /about-us
+- Roof donation to Faith Community Church -> /about-us
+- Community donations: One Fresno Foundation, LLS, Blue Star Mothers, women's organizations -> /about-us
+</details>
+
+---
+
+# Sunlight Solar Energy, Inc.
+
+**Old description:** Sunlight Solar provides system design and turn-key installation of grid-tied solar electric systems for homes and businesses throughout Oregon. We have been doing business since 1990. With over 30 years of experience, we offer premium designs and competitive pricing for solar electric systems backed by industry-leading warranties and equipment.
+
+## About
+Sunlight Solar Energy, Inc. is based in Bend, Oregon, and has been installing grid-tied solar electric systems across Central Oregon since approximately 2000. The company was founded by Paul Israel, who began his solar career in the late 1980s and launched a solar contracting business in Redmond in the late 1990s before moving operations to Bend. Israel was among the first licensed Renewable Energy Technicians in Oregon, and Sunlight Solar became the third Solar Trade Ally designated by the Energy Trust of Oregon.
+
+The firm provides turn-key solar services including system design, permitting, installation, inspection, and utility interconnection for residential and commercial customers. Its in-house crews also install battery storage systems such as Tesla Powerwall, EV chargers, and smart electrical panels from Span and Eaton. The company maintains a dedicated service department for long-term maintenance and operates across Central Oregon communities including Bend, Redmond, Sisters, and surrounding areas.
+
+Customers range from homeowners and small businesses to municipal clients and affordable-housing developers. Notable projects include a 200.6 kW installation for Central Electric Cooperative, a 35 kW system for the Bend Centennial Parking Plaza, solar for the Oregon Department of Veteran Affairs, and partnerships with Central Oregon Habitat for Humanity, Rooted Homes, and Thistle and Nest. The team also handles commercial installations for clients such as Worthy Brewing and CiEs Inc.
+
+Sunlight Solar emphasizes its local roots as a differentiator, stating that deep knowledge of regional permitting, utility requirements, and climate conditions allows it to build systems that perform reliably over decades. The company highlights honest quoting, clear communication, and customer education as core values, with the same personnel managing projects from initial design through ongoing service.
+
+## Known for
+- In-house licensed crews manage design, permitting, installation, and interconnection
+- Same team handles projects from quote through long-term service
+- Deep local knowledge of Central Oregon permitting, utilities, and climate
+- Energy Trust of Oregon Trade Ally enabling customer rebate access
+- NABCEP-certified installers and manufacturer-certified for Tesla, SolarEdge, Enphase
+
+## Capabilities
+- Solar PV system design
+- Permitting and interconnection
+- Residential solar installation
+- Commercial solar installation
+- Battery storage installation (Tesla Powerwall)
+- EV charger installation
+- Smart panel installation (Span, Eaton)
+- Solar maintenance and service
+- Municipal PV project development
+- Solar financing coordination
+
+## Industries
+- Residential construction
+- Commercial construction
+- Municipal government
+- Affordable housing
+- Electric vehicle infrastructure
+- Energy storage
+
+## Equipment
+- Tesla Powerwall
+- Span smart panels
+- Eaton smart panels
+- SolarEdge inverters
+- Enphase microinverters
+- ChargePoint EV chargers
+
+## Certifications
+- NABCEP certified
+- Energy Trust of Oregon Trade Ally
+- Tesla Powerwall certified installer
+- SolarEdge certified
+- Enphase certified
+- Oregon Journeyman Electrician license
+- Oregon Solar Electrician license
+- Oregon Racker license
+- OSHA 30 certified
+
+## Company details
+- **Company Type:** Installer / service company
+- **Founded:** 2000
+- **Ownership:** Locally owned
+- **Headquarters:** Bend, Oregon
+
+<details><summary>Sources</summary>
+
+- Headquarters in Bend, Oregon -> db
+- Founded by Paul Israel, started grid-tied solar around 2000 -> /about-us
+- Paul Israel background: first LRT in Oregon, third ETO Trade Ally, 40+ years experience -> /about-us
+- Services: design, permit, install, interconnect, battery, EV, smart panels, maintenance -> /
+- Service areas: Bend, Culver, La Pine, Madras, Prineville, Redmond, Sisters, Sunriver, Terrebonne, Tumalo, Warm Springs -> /
+- Certifications: NABCEP, ETO Trade Ally, Tesla Powerwall, SolarEdge, Enphase, Span, ChargePoint -> /about-us
+- Licensed Oregon Journeyman Electricians, Solar Electricians, Rackers -> /
+- Notable projects: Central Electric Cooperative 200.6 kW, Bend Centennial Parking Plaza 35 kW, Oregon Dept of Veteran Affairs, Worthy Brewing, CiEs Inc. -> /
+- Community partners: Habitat for Humanity, Rooted Homes, Thistle and Nest -> /about-us
+- Awards: Best of Central Oregon (Source Weekly), Energy Installer of the Year (ETO) -> /about-us
+- Joe Mazzarella: 50+ residential and 5+ commercial/municipal projects per year since 2011 -> /about-us
+- Robert Johnson: joined 2001, Journeyman 2004, Signing Supervisor, OSHA 30 -> /about-us
+- Company values: honesty, professionalism, education, community -> /about-us
+</details>
+
+---
+
+# Sunmed Medical Systems
+
+**Old description:** SunMED Medical Solutions was founded in 2002 as a provider of advanced in-home medical equipment and superior support for patients of all ages and conditions.
+
+## About
+SunMED Medical Solutions was founded in 2002 in Marlton, New Jersey, as a provider of advanced in-home medical equipment and superior patient support. The company, led by President Bill Lobosco, began with a focus on delivering specialized equipment directly to patients' homes while managing the complex insurance claims process.
+
+Today SunMED operates nationwide as a diversified durable medical equipment (DME) provider and claims specialist. Its service lines include lymphedema therapy support, wound care therapy (covering negative-pressure wound therapy and compression wound care), women's health (post-surgical garments and new-mother support), and a Supplier National Access Program (S.N.A.P.) that helps medical suppliers establish a national footprint. The company also administers the Wellcare for Women group benefit for employers. SunMED's support staff functions as product and claims subject-matter experts rather than order takers, handling insurance verification, benefit maximization, and patient guidance.
+
+The company serves patients, referring clinicians, therapists, medical suppliers, and employers across the home healthcare, wound care, lymphedema management, and women's health markets. Clinicians rely on SunMED to deliver prescribed products and navigate reimbursement, while suppliers use the S.N.A.P. platform to access national distribution. Employers adopt Wellcare for Women as a voluntary benefit.
+
+SunMED differentiates itself by maintaining a live, telephone-based support team at a time when many competitors have shifted to online-only administration. The firm states that its core purpose is "next-level service," emphasizing personal interaction and claims expertise to capture every eligible health coverage benefit for patients.
+
+## Known for
+- Live telephone support staffed by product and claims experts, not automated online-only administration
+- Nationwide in-home delivery and insurance claims management for DME
+- Supplier National Access Program (S.N.A.P.) enabling medical suppliers to reach national markets
+- Wellcare for Women group benefit program for employers
+- Over 16 years of specialized experience in negative-pressure wound therapy and compression wound care
+
+## Capabilities
+- In-home medical equipment delivery
+- Insurance claims processing and benefit verification
+- Lymphedema therapy equipment support
+- Negative-pressure wound therapy support
+- Compression wound care support
+- Post-surgical garment fitting and supply
+- New mother support services
+- Supplier national access program (S.N.A.P.)
+- Employer group benefit administration (Wellcare for Women)
+- Clinician and therapist support services
+
+## Industries
+- Home healthcare
+- Durable medical equipment (DME)
+- Lymphedema therapy
+- Wound care
+- Women's health
+- Post-surgical care
+- Maternity care
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Founded:** 2002
+- **Headquarters:** Marlton, New Jersey
+
+<details><summary>Sources</summary>
+
+- Founded 2002 -> db
+- Headquarters Marlton, New Jersey -> db
+- President Bill Lobosco -> page '/'
+- Provider of advanced in-home medical equipment and superior support -> page '/'
+- Services expanded nationwide, premier national medical equipment claims experts -> page '/'
+- Live telephone support staff as product and claims subject matter experts -> page '/'
+- Lymphedema Therapy Support -> page '/'
+- Wound Care Therapy Support (negative-pressure wound therapy, compression wound care) -> page '/'
+- Women's Health (post-surgery garments, new mother support) -> page '/'
+- Supplier National Access Program (S.N.A.P.) for medical suppliers -> page '/'
+- Wellcare for Women Group Benefit for employers -> page '/'
+- Specialized Equipment -> page '/'
+- Allies of clinicians since 2002 -> page '/'
+- Over 16 years experience in wound care -> page '/'
+</details>
+
+---

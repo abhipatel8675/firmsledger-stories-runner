@@ -3,36 +3,33 @@
 **Old description:** America’s Premier Manufacturer Of High-Quality Acrylic Display Solutions!
 
 ## About
-Jule-Art Inc. was founded in 1976 in Albuquerque, New Mexico. The company operates as a manufacturer of acrylic display solutions, producing a wide range of standard and custom products for retail, collector, and commercial markets.
+Jule-Art Inc. has operated from Albuquerque, New Mexico since its founding in 1976. The company manufactures acrylic display solutions in the United States, employing American craftsmen.
 
-The product line spans more than two dozen categories, including mineral and fossil stands, collector cases, solid acrylic blocks, easel stands, jewelry fixtures, literature holders, slatwall accessories, locking showcases, eyewear displays, food dispensers, shoe and cosmetic displays, lighted bases, bar accessories, ice cream cone holders, bead bins, sports memorabilia cases, large-format frames, catering dispensers, display stairs, ballot boxes, and countertop sign holders. Manufacturing takes place in the United States using domestic skilled craftsmen and state-of-the-art equipment, with an emphasis on precision fabrication and finishing.
+The product line spans hundreds of standard items including mineral and fossil stands, collector cases, solid acrylic blocks, easel displays, jewelry and eyewear fixtures, literature holders, slatwall and gridwall accessories, countertop risers, locking showcases, protective covers, egg and sphere stands, bulk food dispensers, shoe and cosmetic displays, lighted and rotating bases, bar specialty items, ice cream cone holders, bead bin systems, sports memorabilia displays, large-format frames, catering drink dispensers, display stairs, ballot boxes, and countertop sign holders. Jule-Art also produces custom designs for complex requirements, using what it describes as high-quality materials and state-of-the-art equipment.
 
-The displays serve industries such as retail (jewelry, eyewear, apparel, cosmetics, shoes), museums and collectors (minerals, fossils, sports memorabilia), food service and hospitality (bulk dispensers, ice cream holders, bar and catering equipment), framing and signage (poster and certificate frames), and government (ballot and collection boxes). Customers range from small retailers to large chains seeking both catalog items and custom designs.
+Customers range from retail jewelers and eyewear shops to food-service operators, bars, museums, sports collectible dealers, framing shops, and election officials needing ballot boxes. The company serves any business that requires acrylic display or dispensing solutions, whether for countertop merchandising, collectible presentation, or food handling.
 
-Jule-Art emphasizes domestic production, over 50 years of acrylic experience, and a commitment to premium quality at affordable prices with fast nationwide delivery. The company also highlights its knowledgeable customer service and ability to handle complex custom designs alongside its standard catalog.
+Jule-Art emphasizes domestic production, premium products at affordable prices, fast nationwide delivery, and a knowledgeable customer service team. It positions its ability to handle both simple display cases and complex custom designs as a key differentiator, backed by over five decades of acrylic-industry experience and continuous innovation.
 
 ## Known for
-- Manufactured in the United States by American craftsmen
+- Manufactured in the USA by American craftsmen
 - Over 50 years of acrylic industry experience
-- State-of-the-art equipment for precision fabrication
-- Premium quality at affordable prices with fast nationwide delivery
-- Custom design capability alongside a large standard catalog
+- Custom design capability for complex displays
+- Fast nationwide delivery
+- Premium products at affordable prices
 
 ## Capabilities
-- Acrylic display manufacturing
-- Custom acrylic fabrication
-- Standard acrylic display product catalog
-
-## Industries
-- Retail display
-- Museum and collector
-- Jewelry retail
-- Food service and hospitality
-- Eyewear retail
-- Sports memorabilia
-- Framing and signage
-- Catering
-- Government and elections
+- Acrylic fabrication
+- Custom display design
+- Production of acrylic display stands, cases, and fixtures
+- Manufacturing of locking showcases
+- Fabrication of lighted and rotating display bases
+- Production of slatwall and gridwall accessories
+- Manufacturing of bulk food dispensers
+- Fabrication of jewelry and eyewear displays
+- Production of sports collectible displays
+- Manufacturing of sign and certificate frames
+- Fabrication of ballot and collection boxes
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -43,11 +40,11 @@ Jule-Art emphasizes domestic production, over 50 years of acrylic experience, an
 
 - Founded in 1976 -> db
 - Headquarters in Albuquerque, New Mexico -> db
-- Manufactures acrylic displays in the USA using domestic craftsmen and state-of-the-art equipment -> /
-- Over 50 years of experience in acrylic industry -> /
-- Offers premium products at affordable prices with fast delivery nationwide -> /
-- Provides custom design services and a large standard product catalog -> /
-- Product categories include mineral/fossil stands, collector cases, jewelry displays, literature holders, slatwall accessories, locking showcases, eyewear displays, food dispensers, shoe/cosmetic/apparel displays, lighted bases, bar accessories, ice cream cone holders, bead bins, sports memorabilia cases, large-format frames, catering dispensers, display stairs, ballot boxes, countertop sign holders -> /
+- Manufactures acrylic displays in the USA -> /
+- Over 50 years of experience -> /
+- Offers custom design for complex displays -> /
+- Fast nationwide delivery -> /
+- Product categories include mineral stands, collector cases, jewelry displays, etc. -> /
 </details>
 
 ---
@@ -57,33 +54,33 @@ Jule-Art emphasizes domestic production, over 50 years of acrylic experience, an
 **Old description:** KC Cable Connections was founded in 2011 and aims to be the leader in mainline communication projects. We strive to meet our customer needs while putting safety and quality over everything else.
 
 ## About
-KC Cable Connections, LLC was founded in 2011 in Independence, Missouri. The company set out to become a leader in mainline communication projects, emphasizing safety and quality above all else.
+KC Cable Connections, LLC was founded in 2011 in Independence, Missouri. The company began as a mainline communications construction firm focused on outside plant construction and has since positioned itself as a full turn-key operator for communication infrastructure projects.
 
-The firm specializes in all aspects of communication construction, operating as a full turn-key provider for outside plant builds. Its project portfolio includes mainline fiber and coaxial construction, rural fiber-to-the-home deployments across the Midwest since 2015, and storm restoration work following hurricanes Michael and Laura in Georgia and Louisiana.
+The company specializes in all aspects of communication construction, including coaxial cable installation, fiber-to-the-home (FTTH) builds, and disaster recovery construction. It operates as a turn-key service provider, handling projects from initial planning through final installation. Past projects include hurricane restoration work in Dawson, Georgia (2018) and Lake Charles, Louisiana (2020), as well as a multi-year rural FTTH build across the Midwest starting in 2015.
 
-KC Cable serves telecommunications carriers, broadband providers, and utility contractors. Concrete examples from its track record include a 2018 hurricane Michael restoration in Dawson, Georgia; a multi-year coaxial construction project in Marysville, Kansas from 2016 to 2018; a 2020 hurricane Laura response in Lake Charles, Louisiana; and ongoing rural FTTH builds throughout the Midwest.
+KC Cable Connections serves the telecommunications and broadband infrastructure sectors, working with carriers, utilities, and public-sector clients on mainline communication projects. Its portfolio includes new coaxial construction, rural fiber deployments, and emergency restoration after major storms.
 
-The company states that its differentiation lies in a safety-first culture, a commitment to on-time and on-budget delivery, and a pledge to surpass customer expectations while standing behind its word. These principles are framed as proven success, unsurpassed quality, and honesty in every engagement.
+The firm emphasizes a safety-first culture, on-time and on-budget delivery, and a commitment to honesty in its client relationships. These values are presented as the foundation of its reputation for high-quality outside plant construction at competitive rates.
 
 ## Known for
 - Full turn-key communication construction
-- Safety-first culture
-- On-time and on-budget project delivery
-- Proven experience in storm restoration and rural fiber builds
+- Safety-first approach
+- On-time and on-budget delivery
+- Honesty and integrity in client dealings
 
 ## Capabilities
 - Mainline communications construction
 - Outside plant construction
-- Fiber-to-the-home (FTTH) deployment
-- Coaxial cable construction
-- Storm restoration and emergency response
+- Coaxial cable installation
+- Fiber-to-the-home (FTTH) build
+- Disaster recovery construction
 - Turn-key project management
 
 ## Industries
 - Telecommunications
-- Broadband
-- Utility construction
+- Broadband infrastructure
 - Disaster recovery
+- Rural broadband
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -92,12 +89,13 @@ The company states that its differentiation lies in a safety-first culture, a co
 
 <details><summary>Sources</summary>
 
-- Founded 2011 -> db
-- Headquarters Independence, Missouri -> db
+- Founded in 2011 -> db
+- Headquarters in Independence, Missouri -> db
 - Mainline communications construction company -> /
-- Full turn-key operation -> /
-- Past projects in GA, KS, LA, Midwest -> /
-- Values: safety, quality, on time, on budget -> /
+- Specializes in all aspects of communication construction, full turn-key operation -> /
+- Past projects: Dawson, GA Hurricane Michael 2018; Marysville, KS coaxial construction 2016-2018; Lake Charles, LA Hurricane Laura 2020; Midwest rural FTTH build since 2015 -> /
+- Values: Quality, Safety, On Time, On Budget, Expectations, Honesty -> /
+- LinkedIn URL -> db
 </details>
 
 ---
@@ -107,37 +105,40 @@ The company states that its differentiation lies in a safety-first culture, a co
 **Old description:** Kansas City Home Medical Supply stocks a wide variety of lift chair recliner products manufactured by leading providers including Golden Technology. With many options available to choose from, you can easily find the chair to suit your needs.
 
 ## About
-Kansas City Home Medical Supply operates three retail locations across the Kansas City metropolitan area, with its primary store in Overland Park, Kansas, and additional outlets in Lee’s Summit, Missouri, and Kansas City, Missouri. The company stocks a broad range of home medical equipment and supplies for consumers and caregivers.
+KC Home Medical Supply operates three retail locations across the Kansas City metropolitan area, with its headquarters in Overland Park, Kansas. The company maintains stores in Overland Park, Lee’s Summit, Missouri, and Kansas City, Missouri, each staffed with trained medical personnel to assist customers with home healthcare needs.
 
-The retailer carries more than 3,000 products across categories that include lift chairs (sourced from manufacturers such as Golden Technology), mobility aids, power wheelchairs and scooters, compression garments, orthopedic supports, incontinence and urology supplies, respiratory equipment, bathroom safety devices, wound care, and beds. Each location is staffed with trained medical personnel who assist customers with product selection and fitting.
+The retailer stocks more than 3,000 medical supply products across categories that include lift chairs (18 models), mobility aids (76), power mobility scooters and wheelchairs (23), compression garments, orthopedic supplies, pressure prevention, incontinence care, urology and ostomy, cardio and respiratory equipment, bathroom safety, wound and skin care, living aids, and beds and accessories. Inventory is sourced from manufacturers such as Golden Technologies for lift recliners.
 
-Customers range from individuals recovering from surgery or managing chronic conditions to family members purchasing on behalf of aging relatives. The stores serve the broader home healthcare market in the Kansas City region, providing durable medical equipment that supports mobility, respiratory therapy, and daily living assistance.
+The stores serve individual consumers and caregivers seeking home medical equipment for post-surgical recovery, chronic condition management, and aging-in-place support. Customers purchase directly at the showrooms or through the company’s online catalog, which organizes products by clinical category.
 
-The company emphasizes convenience and cost savings, advertising no sales tax on purchases made with a doctor’s prescription and highlighting the accessibility of its three metro-area locations. Free shipping is also promoted on its website.
+KC Home Medical Supply differentiates itself by offering in-person guidance from trained staff at each location, a broad in-stock selection available for immediate purchase, and a no-sales-tax policy for customers presenting a doctor’s prescription. Seasonal promotions such as 10 percent off power mobility devices are also advertised.
 
 ## Known for
-- No sales tax with a doctor’s prescription
 - Trained medical staff at all three locations
-- Three Kansas City metro locations
-- Over 3,000 medical supply products in stock
+- Over 3,000 products in stock across the KC metro
+- No sales tax with a doctor’s prescription
+- 10% discount on power mobility promotions
 
 ## Capabilities
-- Retail sales of home medical equipment and supplies
-- In-store product consultation with trained medical staff
-- Prescription processing for tax-exempt purchases
+- In-store medical equipment consultation
+- Retail sales of home medical supplies
+- Online product catalog browsing
 
 ## Company details
-- **Company Type:** Distributor / reseller
+- **Company Type:** Retailer
 - **Headquarters:** Overland Park, Kansas
 
 <details><summary>Sources</summary>
 
-- Three locations in Overland Park KS, Lee's Summit MO, Kansas City MO -> /
+- Three store locations in Overland Park KS, Lee's Summit MO, Kansas City MO -> /
+- Headquarters in Overland Park, Kansas -> db
 - More than 3,000 high quality medical supply products in stock -> /
-- Trained medical staff at each of three store locations -> /
+- Product categories with counts: Lift Chairs 18, Mobility Aids 76, Power Mobility 23, Compression & Socks 24, Orthopedic Supplies 119, Pressure Prevention 28, Incontinence Care 31, Urology & Ostomy 41, Cardio & Respiratory 48, Bathroom Safety 52, Wound & Skin Care 104, Living Aids 75, Beds & Accessories 46 -> /
 - Carries Golden Technology lift chairs -> db
-- No sales tax with a doctor's prescription -> /
-- Product categories and counts (lift chairs, mobility aids, etc.) -> /
+- Trained medical staff at each location -> /
+- Business hours: Mon-Fri 9-5:30, Sat 10-4, Sun closed -> /
+- No sales tax with doctor's prescription -> /
+- 10% off power mobility promotion -> /
 </details>
 
 ---
@@ -147,33 +148,31 @@ The company emphasizes convenience and cost savings, advertising no sales tax on
 **Old description:** Graduated from Purdue University Fort Wayne in 2003 in Commercial Interior Design. Nicole has been working in the field of Commercial Interior Design with KDA Furniture & Interiors since 2003 specializing in Healthcare, Educational, Financial, Restaurant and Worship facilities.  She has an extensive background in Optical Design. RMK Design Associates has partnered with KDA Furniture & Interiors for many years utilizing their expertise and design in custom furniture for projects nationally.  In July of 2018 Nicole and her husband, Brian, became the new owners of RMK Design Associates.
 
 ## About
-KDA Furniture & Interiors operates from Fort Wayne, Indiana. The company is woman- and veteran-owned; Nicole Kenefic, a Purdue University Fort Wayne graduate in Commercial Interior Design (2003), has led the firm since 2003. In 2018, Kenefic and her husband Brian acquired RMK Design Associates, a long-time partner.
+Based in Fort Wayne, Indiana, KDA Furniture & Interiors is a woman- and veteran-owned business that has operated for over 40 years. Nicole Kenefic, a Purdue University Fort Wayne graduate in Commercial Interior Design (2003), has been with the company since 2003 and, along with her husband Brian, acquired RMK Design Associates in July 2018.
 
-The firm designs and manufactures custom furniture, handling projects from concept through installation. Its custom mill team performs woodworking, laminating, hand-building, and finishing, with the same craftsmen responsible for packaging, delivery, and on-site installation. The staff includes NCIDQ-accredited designers and installation specialists who have executed projects nationwide.
+The company designs and hand-builds custom furniture, employing skilled craftsmen for woodworking, laminating, and finishing. Each piece is fabricated to client specifications using floor plans, then packaged, delivered, and installed by the same team that built it. The staff includes furniture artisans, NCIDQ-accredited designers, and installation specialists who have executed projects nationwide.
 
-KDA serves healthcare, educational, financial, restaurant, and worship facilities, along with other commercial interior projects across the United States. The company emphasizes long-term relationships built over more than 40 years in the furniture business.
+KDA serves healthcare, educational, financial, restaurant, and worship facilities, developing long-term relationships with clients across the United States. The firm also partners with design associates such as RMK Design Associates for national custom furniture projects.
 
-Kenefic’s team differentiates itself by keeping production in-house from design to installation, offering competitive pricing, quality workmanship, and professional customer service. The Forty Under 40 award winner stresses value and consistency across every project.
+The company emphasizes a single-point-of-contact approach, with the same craftsmen overseeing fabrication through installation. It cites competitive pricing, quality workmanship, and professional customer service as core values, backed by decades of industry experience.
 
 ## Known for
-- Same craftsmen build, package, deliver, and install each piece
-- NCIDQ-accredited designers on staff
-- Nationwide installation service
+- Same craftsmen handle fabrication, delivery, and installation
 - Woman- and veteran-owned
-- Over 40 years in the furniture business
+- NCIDQ-accredited designers on staff
+- Nationwide installation capability
+- Over 40 years of furniture industry experience
 
 ## Capabilities
 - Custom furniture design
 - Woodworking
 - Laminating
-- Hand-building
 - Finishing
-- Packaging
-- Delivery
+- Packaging and delivery
 - Installation
-- Design consulting
-- NCIDQ-accredited design
-- Project management
+- Project consulting
+- Floor plan-based design and quoting
+- NCIDQ-accredited interior design
 
 ## Industries
 - Healthcare
@@ -189,16 +188,18 @@ Kenefic’s team differentiates itself by keeping production in-house from desig
 
 <details><summary>Sources</summary>
 
-- Headquarters in Fort Wayne, Indiana -> db
-- Woman- and veteran-owned -> page /
-- Nicole Kenefic leading since 2003, Purdue graduate 2003 -> db
-- Acquired RMK Design Associates in July 2018 -> db
-- Custom furniture design, woodworking, laminating, hand-building, finishing, packaging, delivery, installation -> page /
-- NCIDQ-accredited designers on staff -> page /
-- Nationwide installation service -> page /
-- Serves healthcare, educational, financial, restaurant, worship facilities -> db
-- Over 40 years in furniture business -> page /
-- Competitive pricing, quality workmanship, professional customer service -> page /
+- Fort Wayne, Indiana headquarters -> db
+- Woman- and veteran-owned -> /
+- Nicole Kenefic, Purdue graduate 2003, with company since 2003 -> db
+- Brian and Nicole acquired RMK Design Associates July 2018 -> db
+- Over 40 years in furniture business -> /
+- Custom furniture design, woodworking, laminating, finishing -> /
+- Same craftsmen build, package, deliver, install -> /
+- Team includes furniture artisans, NCIDQ-accredited designers, installation specialists -> /
+- Nationwide installation travel -> /
+- Industries: healthcare, educational, financial, restaurant, worship -> db
+- Partnership with RMK Design Associates for national projects -> db
+- Competitive pricing, quality workmanship, professional customer service -> /
 </details>
 
 ---
@@ -208,34 +209,40 @@ Kenefic’s team differentiates itself by keeping production in-house from desig
 **Old description:** KFK Seasonings was founded with the vision of providing first class seasonings and blending products and services to institutions and processors across the country. Our senior executive group brings over 125 years of combined experience in seasonings, manufacturing and distribution to food processors.
 
 ## About
-KFK Seasonings operates from its headquarters in Portland, Oregon. The company was founded with the vision of supplying first-class seasonings and blending services to institutions and food processors nationwide. No founding year or founders are disclosed; the business is organized as a limited liability company.
+KFK Seasonings operates from Portland, Oregon. The company was founded with a vision to provide first-class seasonings and blending services to institutions and processors nationwide. It is organized as a limited liability company, and its senior executive team brings over 125 years of combined experience in seasonings, manufacturing, and distribution.
 
-The company specializes in custom spice blending, with production capacities ranging from 300-pound batches to full truckload quantities. Portion packaging spans from one-pound packs to super sacks. In-house food technologists provide formulation and technical support, backed by an on-site R&D and quality-control laboratory that tests every incoming shipment for purity and freshness.
+The company produces custom spice blends, flavoring systems, breading mixes, drink mixes, extracts, and colors. Its blending capabilities range from 300-pound batches to full truckloads, with portion packaging from one-pound bags to super sacks. An on-site R&D and quality-control laboratory supports formulation and technical services, staffed by in-house food technologists.
 
-KFK serves food processors, institutional kitchens, and food-service distributors. Its product lineup includes house blends, spices and herbs, dehydrated vegetables, proprietary blends, breading mixes, drink mixes, and extracts and colors. Services encompass private labeling, institutional packaging, flavoring systems, nutritional labeling, and product development.
+KFK serves food processors, institutional kitchens, and food-service distributors across the United States. Customers include manufacturers seeking private-label seasonings, as well as operators needing custom blends for specific applications.
 
-The company emphasizes the tradition of the spice trade, framing each partnership as a long-term relationship. Its differentiators include the executive team’s 125 years of combined industry experience, state-of-the-art blending equipment, and rigorous lot-by-lot testing to ensure consistency.
+The company emphasizes rigorous testing on every shipment and maintains full-service laboratory facilities at its headquarters to ensure purity and freshness. It traces its approach to the traditions of the historic spice trade, aiming to build long-term partnerships.
 
 ## Known for
-- Blending capacities from 300 lb to truckload quantities
-- Portion pack sizing from 1 lb to super sacks
-- On-site R&D/QC laboratory with rigorous testing on every shipment
-- In-house food technologists for formulation and technical services
-- 125 years of combined executive experience in seasonings manufacturing and distribution
+- State-of-the-art blending capabilities with capacities from 300 lb to truckload quantities
+- Portion pack sizing from 1 pound to super sacks
+- In-house food technologists providing formulation and technical services
+- Full-service R&D/QC laboratory on site at Portland headquarters
+- Rigorous testing performed on every shipment
 
 ## Capabilities
 - Custom spice blending
+- Flavoring system development
 - Food service supply
-- Private labeling
+- Private label manufacturing
 - Institutional packaging
-- Flavoring systems development
 - Nutritional labeling
 - Product development
+- Research and development
+- Quality control testing
+- Laboratory analysis
+- Portion packaging (1 lb to super sacks)
 - Formulation services
 - Technical support
-- R&D laboratory testing
-- Quality control testing
-- Lot-by-lot purity and freshness testing
+- Spice and herb blending
+- Dehydrated vegetable processing
+- Breading mix production
+- Drink mix production
+- Extract and color blending
 
 ## Industries
 - Food processing
@@ -249,17 +256,17 @@ The company emphasizes the tradition of the spice trade, framing each partnershi
 
 <details><summary>Sources</summary>
 
-- Headquarters in Portland, Oregon -> /about
-- Founded with vision to provide seasonings and blending services to institutions and processors -> /about
+- Headquarters in Portland, Oregon -> db
+- Founded with vision to provide first-class seasonings and blending services -> /about
 - Senior executive group brings over 125 years combined experience -> /about
-- Blending capacities 300 lb to truckload quantities -> /about
-- Portion pack sizing 1 lb to super sacks -> /about
-- In-house food technologists for formulation and technical services -> /about
-- On-site R&D/QC laboratory facilities -> /about
+- Blending capacities from 300 lb to truckload quantities -> /about
+- Portion pack sizing from 1 pound to super sacks -> /about
+- In-house food technologists provide formulation and technical services -> /about
+- Full-service R&D/QC laboratory on site -> /about
 - Rigorous testing on every shipment -> /about
-- Products: house blends, spices & herbs, dehydrated vegetables, proprietary blends, breading mixes, drink mixes, extracts & colors -> /
-- Services: custom blending, food service, private label, institutional packaging, flavoring systems, nutritional labeling, product development -> /
-- Company organized as KFK Seasonings, LLC -> / (copyright notice)
+- Products include custom spice blends, flavoring systems, breading mixes, drink mixes, extracts, colors -> /
+- Serves food processors, institutions, food service -> /about
+- Company is KFK Seasonings, LLC -> /
 - LinkedIn URL -> db
 </details>
 
@@ -274,30 +281,30 @@ _skipped: not enough facts_
 **Old description:** Ksport Slide Kontrol Coilovers were designed to perform at a competitive level and withstand the abuse of the drift circuit
 
 ## About
-KSport USA is based in Mesa, Arizona, and was founded in 2003. The company is privately held; no founders or ownership structure are disclosed in public records. It began as a specialist in performance suspension for competitive drifting.
+KSport USA was founded in 2003 in Mesa, Arizona. The company specializes in performance suspension systems for competitive driving, offering a range of coilover and air suspension products.
 
-The company designs and manufactures coilover systems, air suspension components, and related hardware for the automotive aftermarket. Its product line includes the Kontrol Pro and Gravel Rally series, along with replacement parts such as mounting plates, hardware kits, and management assemblies. The mounting plates feature a slim design with a hardened rubber coating for durability and quiet operation. No facility size, headcount, or annual volume figures are published.
+The company designs and manufactures coilover systems, air suspension components, and replacement parts for a variety of vehicle platforms. Its product lineup includes the Slide Kontrol coilover series, Airtech air suspension components, and associated hardware kits. A noted feature is a slim top-plate design with a hardened rubber coating intended to increase durability and reduce noise. The company also provides a replacement-part identification service, allowing customers to submit photos for quick part matching.
 
-KSport USA serves automotive enthusiasts and professional drift competitors. Its components are engineered for the abuse of drift circuits and are sold directly to consumers and through performance retailers.
+KSport USA serves the automotive aftermarket and motorsports segments, with particular emphasis on drift competition. Its components are built to withstand the high loads and abuse encountered on drift circuits, and the company also supplies replacement parts for existing installations. The firm works with aerospace-grade aluminum for certain components, indicating a focus on high-strength materials.
 
-The brand emphasizes aerospace-grade aluminum construction and competitive-level performance as its core differentiators. The coilovers were originally developed to withstand the extreme loads of drift competition, a focus that continues to drive product development.
+The business was established to provide suspension products that meet the demands of competitive drivers, focusing on strength and reliability under extreme conditions.
 
 ## Known for
-- Coilovers engineered for competitive drift circuit abuse
-- Aerospace-grade aluminum construction
-- Slim mounting plates with hardened rubber coating for durability and quietness
-- Direct-to-consumer replacement parts identification via photo submission
+- Designed for competitive-level performance on drift circuits
+- Slim top-plate design with hardened rubber coating for durability and quietness
+- Replacement-part identification via photo submission
+- Use of aerospace-quality aluminum in components
 
 ## Capabilities
-- Coilover system manufacturing
+- Coilover design and manufacturing
 - Air suspension component manufacturing
-- Replacement parts provisioning
-- Mounting plate fabrication with rubber coating
+- Replacement parts sourcing and identification
+- Custom top-plate fabrication with hardened rubber coating
 
 ## Industries
 - Automotive aftermarket
-- Motorsports (drift racing)
-- Performance suspension
+- Motorsports (drift)
+- Aerospace
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -308,13 +315,10 @@ The brand emphasizes aerospace-grade aluminum construction and competitive-level
 
 - Founded in 2003 -> db
 - Headquartered in Mesa, Arizona -> db
-- Manufactures coilovers and air suspension components -> db
-- Products include Kontrol Pro and Gravel Rally series -> db
-- Mounting plates feature slim design with hardened rubber coating -> db
-- Serves drift circuit competitors and automotive enthusiasts -> db
-- Offers fitments for 1990-1993 Acura Integra -> db
-- Uses aerospace-grade aluminum construction -> db
-- Requests photos for replacement part identification -> db
+- Produces Slide Kontrol coilovers and Airtech air suspension components -> db
+- Offers replacement parts and identification service -> db
+- Uses aerospace-quality aluminum and hardened rubber coating -> db
+- Targets drift circuit competition -> db
 </details>
 
 ---
@@ -324,25 +328,26 @@ The brand emphasizes aerospace-grade aluminum construction and competitive-level
 **Old description:** Kaempf & Harris specializes in delivering precise sheet metal installation services tailored to meet the unique demands of each project. Our team is equipped with the skills and experience necessary to handle complex installations, ensuring that every component is fitted with accuracy and care.
 
 ## About
-Kaempf & Harris Sheet Metal operates from Frederick, Maryland, as a division of the third-generation family-owned R.W. Warner, Inc. The Warner name dates to 1937, and Kaempf & Harris was founded in 1941. Matt Warner became CEO in 1998, continuing the family legacy. The company began as a sheet metal fabrication shop serving local mechanical contractors and has grown into a full-service fabrication and installation partner.
+Kaempf & Harris Sheet Metal operates from Frederick, Maryland, where it was founded in 1941 as part of the R.W. Warner family of companies. The business reached its third generation of family ownership in 1998 when Matt Warner became CEO, continuing a lineage that traces back to 1937 under the Warner name. Today it functions as a division alongside Warner Service, Warner Construction, and Warner Mechanical.
 
-The shop specializes in precision sheet metal fabrication, design-build services, broader metal fabrication, and on-site installation. Core processes include CNC laser cutting, press brake forming, turret punching, welding, riveting, and fastening, with finishing options such as painting, powder coating, and galvanizing. The facility produces more than 500 tons of metal annually, handling projects ranging from custom ductwork and pipe supports to structural brackets and frames. A notable project, Frederick’s Rose Hill Cancer Center, required over 75,000 pounds of fabricated sheet metal.
+The shop focuses on precision sheet metal fabrication for commercial, industrial, and institutional projects. Core processes include CNC laser cutting, press brake forming, turret punching, welding, riveting, and fastening, with finishing options such as painting, powder coating, and galvanizing. The company reports fabricating more than 500 tons of metal annually—aluminum, steel, copper, stainless steel, galvanized steel, and black iron—and cites a single project, Frederick’s Rose Hill Cancer Center, that required over 75,000 pounds of sheet metal. Design-build services integrate design and construction under a single point of contact, and crews also handle on-site installation of the fabricated components.
 
-Kaempf & Harris serves commercial construction, industrial manufacturing, infrastructure, healthcare, and institutional markets. Its customer base includes mechanical contractors, general contractors, corporations, and institutions. Recent work includes the Hagerstown Multi-Use Sports Event Center, a $59.5 million downtown project, and ongoing support for mission-critical environments where system uptime and coordination are essential.
+Customers span mechanical contractors, general contractors, corporations, and institutions across healthcare, sports and entertainment, commercial construction, industrial manufacturing, and infrastructure. Notable references include the Rose Hill Cancer Center and the Hagerstown Multi-Use Sports Event Center, a $59.5 million project authorized by the Maryland Stadium Authority in 2021.
 
-The company emphasizes craftsmanship and an integrated design-build approach that streamlines project delivery by aligning design with fabrication capabilities. It holds AISC certification as a steel fabricator and maintains active SMACNA membership, reflecting a long-standing commitment to industry standards. The third-generation family ownership underscores a focus on continuity and client relationships over short-term gains.
+Kaempf & Harris emphasizes a design-build model that streamlines delivery and reduces rework, backed by American Institute of Steel Construction (AISC) fabricator certification and active membership in the Sheet Metal and Air Conditioning Contractors’ National Association (SMACNA). A dedicated in-house safety program, including OSHA 10/30 and specialized trade training, supports its focus on mission-critical environments where uptime and coordination are essential.
 
 ## Known for
+- Design-build integration of design and construction under single point of contact
 - AISC certified fabricator
 - SMACNA member
-- Integrated design-build project delivery
-- Over 500 tons of metal fabricated annually
-- Third-generation family ownership
+- 500+ tons annual fabrication capacity across multiple metal types
+- In-house safety training program with OSHA 10/30 and trade-specific certifications
+- Mission-critical project experience in healthcare and sports venues
 
 ## Capabilities
 - Sheet metal fabrication
 - Design-build services
-- Metal fabrication
+- Metal fabrication (structural components)
 - Sheet metal installation
 - CNC laser cutting
 - Press brake forming
@@ -354,19 +359,16 @@ The company emphasizes craftsmanship and an integrated design-build approach tha
 - Powder coating
 - Galvanizing
 - Custom ductwork fabrication
-- Pipe support fabrication
-- Equipment base fabrication
-- HVAC/plumbing component fabrication
-- Custom bracket fabrication
-- Frame fabrication
-- Structural component fabrication
-- Assembly and finishing
+- Pipe supports fabrication
+- Equipment bases fabrication
+- Custom brackets and frames
 
 ## Industries
 - Commercial construction
 - Industrial manufacturing
 - Infrastructure
 - Healthcare
+- Sports and entertainment
 - Institutional
 - Mechanical contracting
 - General contracting
@@ -377,8 +379,8 @@ The company emphasizes craftsmanship and an integrated design-build approach tha
 - Turret punches
 
 ## Certifications
-- AISC Certified Fabricator
-- SMACNA Member
+- AISC certified fabricator
+- SMACNA member
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -388,101 +390,60 @@ The company emphasizes craftsmanship and an integrated design-build approach tha
 
 <details><summary>Sources</summary>
 
-- Headquarters in Frederick, Maryland -> db
-- Founded in 1941 -> /services
-- Third-generation family ownership (Warner family) -> /about-us
-- Matt Warner became CEO in 1998 -> /about-us
-- Division of R.W. Warner, Inc. -> /about-us
-- Sheet metal fabrication, design-build, metal fabrication, installation services -> /, /services
-- Processes: CNC laser cutting, press brake forming, turret punching, welding, riveting, fastening -> /, /services
+- Headquarters: Frederick, Maryland -> db
+- Founded 1941 -> /services
+- Third-generation family ownership, Matt Warner CEO 1998 -> /about-us
+- Part of R.W. Warner family of companies (Warner Service, Warner Construction, Warner Mechanical) -> /about-us
+- Fabricates 500+ tons metal annually -> /about-us
+- Materials: aluminum, steel, copper, stainless steel, galvanized steel, black iron steel -> /about-us, /
+- Equipment: CNC lasers, press brakes, turret punches -> /, /services
+- Processes: cutting, bending, shaping, welding, riveting, fastening -> /, /services
 - Finishing: painting, powder coating, galvanizing -> /, /services
-- Annual fabrication volume over 500 tons -> /about-us
-- Project: Frederick’s Rose Hill Cancer Center (75,000+ lbs sheet metal) -> /, /services
-- Project: Hagerstown Multi-Use Sports Event Center -> /, /about-us
-- Industries served: commercial construction, industrial manufacturing, infrastructure, healthcare, institutional -> /services, /about-us
-- Customers: mechanical contractors, general contractors, corporations, institutions -> /about-us
+- Design-build services with single point of contact -> /, /services
+- Sheet metal installation services -> /, /services
+- Rose Hill Cancer Center project: 75,000+ lbs sheet metal -> /, /services
+- Hagerstown Multi-Use Sports Event Center project (2021, $59.5M) -> /, /about-us
+- Industries: commercial, industrial, institutional, construction, industrial manufacturing, infrastructure, healthcare, sports -> /services, /
+- Customer types: mechanical companies, general contractors, corporations, institutions -> /about-us
 - AISC certified fabricator -> /services
 - SMACNA member -> /services
-- Materials: aluminum, steel, copper, stainless steel, galvanized steel, black iron steel -> /, /about-us
+- In-house safety program with OSHA 10/30, fall protection, MEWP, scaffolding, confined space, CPR, etc. -> /
 - Mission-critical project specialization -> /
+- Quality, Loyalty, Integrity values -> /
 </details>
 
 ---
 
 # Kahiki Foods
 
-**Old description:** Imagination. Energy. Creativity. And passion for great Asian food. They're all in there. Which means there's only one thing left for you to do. Enjoy.
-
-## About
-Kahiki Foods operates from Gahanna, Ohio, as a brand within the Consumer Brands Division of Schwan's Sales Co., Inc. The company's founding year and original founders are not publicly disclosed in the available sources.
-
-The company manufactures a range of Asian frozen foods, including the Stirfresh, Crispy Tempura, and Steam & Serve product lines. The facility holds SQF certification. Specific production processes, facility size, employee count, and annual volumes are not provided in the available information.
-
-Kahiki Foods primarily serves retail consumers through grocery and foodservice channels. No specific industrial or B2B customer segments are identified in the available sources.
-
-The brand emphasizes imagination, energy, creativity, and passion for great Asian food as its guiding philosophy. No further differentiation claims or origin story are documented in the input.
-
-## Capabilities
-- Asian Frozen Foods
-- Crispy Tempura
-- Steam & Serve
-- Stirfresh
-
-## Certifications
-- SQF
-
-## Company details
-- **Company Type:** Manufacturer
-- **Ownership:** Subsidiary of Schwan's Sales Co., Inc.
-- **Headquarters:** Gahanna, Ohio
-
-<details><summary>Sources</summary>
-
-- headquarters: Gahanna, Ohio -> db
-- certification: SQF -> db
-- product lines: Stirfresh, Crispy Tempura, Steam & Serve -> db capabilities and homepage
-- parent company: Schwan's Sales Co., Inc. -> homepage copyright
-- website: kahiki.com -> db
-- description: passion for great Asian food -> db description
-</details>
-
----
+_skipped: not enough facts_
 
 # Kaimuki Dry Goods Ltd
 
 **Old description:** Benefit from complimentary estimates on sewing machine repairs, backed by our enduring legacy since 1926.
 
 ## About
-Kaimuki Dry Goods Ltd has operated in Honolulu, Hawaii since 1926. The business remains a locally owned retail store specializing in fabrics and sewing supplies.
+Founded in 1926 in Honolulu, Hawaii, Kaimuki Dry Goods has operated as a fabric and sewing supply retailer for nearly a century. The business began as a dry goods store and has remained a fixture in the Kaimuki neighborhood, serving generations of local sewists.
 
-The store carries thousands of items including hundreds of fabric styles, the state's largest selection of Kona cotton solids, exclusive Asian fabrics, notions such as buttons and ribbons, and patterns from collections including New Looks, Victoria Jones, and Apapane Designs. It also sells sewing machines for various skill levels. Beyond retail, the company provides sewing machine repair services through certified technicians, covering general repairs and specialized work on embroidery and computerized machines, with complimentary estimates. Additionally, it offers basic sewing classes for beginners and specialty classes for advanced techniques.
+The store carries thousands of items across hundreds of fabric styles, including the state's largest selection of Kona cotton solids and exclusive Asian fabrics. It also stocks notions such as buttons and ribbons, patterns from collections like New Looks, Victoria Jones, and Apapane Designs, and a range of sewing machines for every skill level. In addition to retail, the company provides sewing machine repair services—both general and specialized for embroidery and computerized machines—with complimentary estimates performed by certified technicians. Sewing classes, from beginner basics to specialty techniques, round out the offerings.
 
-The shop serves individual sewists, quilters, and crafters in the Honolulu area, functioning as a complete sewing center for hobbyists and small-scale creators.
+Kaimuki Dry Goods serves individual hobbyists, quilting enthusiasts, and small-scale apparel makers who need materials, equipment, and instruction. Its customer base includes local residents and visitors seeking a complete sewing center under one roof.
 
-The company emphasizes its long-standing presence since 1926, unique fabric selections, certified technicians, free repair estimates, and knowledgeable staff as distinguishing factors.
+The company emphasizes its long-standing presence since 1926, a curated selection of unique fabrics, and a full-service model that combines retail, repair, and education. Free estimates on machine repairs and knowledgeable, friendly staff are cited as key differentiators.
 
 ## Known for
-- Operating since 1926
+- Operating continuously since 1926
+- State's largest selection of Kona cotton solids and exclusive Asian fabrics
+- Complete sewing center: fabrics, notions, patterns, machines, repairs, and classes
 - Free estimates on sewing machine repairs
-- Certified technicians for sewing machine repairs
-- Unique fabric selection including Kona cotton solids and exclusive Asian fabrics
-- Sewing classes for all skill levels
+- Certified technicians for general and specialized sewing machine repairs
 
 ## Capabilities
 - Sewing machine repair (general)
-- Sewing machine repair (embroidery and computerized machines)
-- Sewing instruction (basic)
-- Sewing instruction (specialty)
-- Fabric retail
-- Notions retail
-- Pattern retail
-- Sewing machine retail
-
-## Industries
-- Fabric retail
-- Sewing supplies retail
-- Sewing machine repair
-- Sewing education
+- Sewing machine repair (specialized for embroidery and computerized machines)
+- Sewing classes (basic)
+- Sewing classes (specialty)
+- Retail of fabrics, notions, patterns, and sewing machines
 
 ## Company details
 - **Company Type:** Retailer
@@ -493,14 +454,13 @@ The company emphasizes its long-standing presence since 1926, unique fabric sele
 
 - Founded 1926 -> db
 - Headquarters Honolulu, Hawaii -> db
-- Fabrics, notions, patterns, sewing machines retail -> /
-- Sewing machine repair services (general and specialized) -> /
-- Free estimates on repairs -> /
-- Certified technicians -> /
-- Sewing classes (basic and specialty) -> /
-- Kona cotton solids and exclusive Asian fabrics -> /
-- Pattern collections: New Looks, Victoria Jones, Apapane Designs -> /
-- Insured Business, Hawaii Licensed Business -> /
+- Offers fabrics, notions, patterns, sewing machines -> /
+- Provides sewing machine repair services with free estimates -> /
+- Offers sewing classes (basic and specialty) -> /
+- Certified technicians for repairs -> /
+- Operating since 1926 -> /
+- Largest selection of Kona cotton solids in state -> /
+- Exclusive Asian fabrics -> /
 </details>
 
 ---

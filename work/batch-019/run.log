@@ -1,502 +1,498 @@
 fetched p0360-raw.json 10 / 10
 fetched p0361-raw.json 9 / 10
+RETRY jeh-solar-llc HTTP Error 503: Service Unavailable
+RETRY jl-solar HTTP Error 503: Service Unavailable
 fetched p0362-raw.json 9 / 10
+RETRY jac-machines-inc-north-america HTTP Error 503: Service Unavailable
 fetched p0363-raw.json 10 / 10
-ok   JCS Technologies Inc. 
-ok   J-Tech Construction and Solar 
-fetched p0364-raw.json 9 / 10
-ok   J Hunter Woodworks 
-ok   JD Woodworking 
 ok   J. Holtz Furniture 
-ok   Jensen's Architectural Woodwork 
-fetched p0365-raw.json 10 / 10
-ok   J & O Plastics 
-fetched p0366-raw.json 10 / 10
-ok   J & R Senior Sheetmetal, Inc. 
-RETRY island-pacific-distributors Expecting ',' delimiter: line 51 column 4 (char 3735)
-ok   J&L Plastic Molding 
-ok   JL Solar 
-ok   Jac Machines Inc- North America 
-ok   J E Fifer Sheet Metal Fabricators Inc 
-ok   J R Plastics and Machining 
-ok   JSC Woodworking 
-ok   JMC Manufacturing Co 
-ok   JEH Solar LLC 
-fetched p0367-raw.json 9 / 10
-skip KI - Bonduel Manufacturing 
-ok   JPW Machining LLC 
-ok   JV Furniture LLC 
-ok   James & James Furniture 
-ok   JMH Woodcraft Inc 
-fetched p0368-raw.json 10 / 10
-ok   Jersey Strand & Cable, Inc. 
-ok   JDM Supply LLC 
-ok   Jireh Semiconductor 
-ok   Jordan Manufacturing Co 
-ok   Jefferson Energy 
-ok   Joyce Food Equipment Co 
-ok   James Monroe Wire & Cable 
-ok   Kase Custom | Custom Wood Furniture 
-ok   JMW Fabrication 
-ok   Jersey Shore Apparel 
-fetched p0369-raw.json 10 / 10
-ok   KSport USA 
-ok   Jackson Solar 
-ok   Kelly Ryan Equipment Company 
+RETRY jefferson-energy HTTP Error 503: Service Unavailable
+skip Jacobson Plastics Inc 
 ok   JB's Tee Shirt Factory 
-ok   Johnson Manufacturing - Arcane Industries 
-ok   Keltech Inc 
-ok   Joel Bare Woodworking 
-ok   Kahiki Foods 
-ok   KC Cable Connections, LLC 
-ok   Kayem Foods Inc. 
-fetched p0370-raw.json 10 / 10
+fetched p0364-raw.json 9 / 10
+ok   J R Plastics and Machining 
+fetched p0365-raw.json 10 / 10
+ok   J&L Plastic Molding 
+ok   JD Woodworking 
+ok   J-Tech Construction and Solar 
+fetched p0366-raw.json 10 / 10
+RETRY kellogg-auto-supply HTTP Error 503: Service Unavailable
+ok   JMC Manufacturing Co 
+ok   JSC Woodworking 
+fetched p0367-raw.json 9 / 10
+fetched p0368-raw.json 10 / 10
+ok   J & R Senior Sheetmetal, Inc. 
 ok   Jamestown Communications Inc 
-ok   Kingsford Manufacturing Company 
-ok   Kemin Industries Inc 
-ok   JU-YOUNG Manufacturing America (Plant 2) 
-fetched p0371-raw.json 10 / 10
-ok   Knoxland Equipment 
-ok   Kester Foods 
+ok   J Hunter Woodworks 
+ok   J & O Plastics 
+ok   Jackson Solar 
+ok   JMH Woodcraft Inc 
+fetched p0369-raw.json 10 / 10
+ok   James Monroe Wire & Cable 
+ok   JL Solar 
+ok   Jensen's Architectural Woodwork 
+ok   Jordan Manufacturing Co 
+fetched p0370-raw.json 10 / 10
+ok   J E Fifer Sheet Metal Fabricators Inc 
+ok   JEH Solar LLC 
+ok   JV Furniture LLC 
+ok   Jay Apparel Group 
 ok   Josephine's Dry Goods 
-PAGE DONE p0363-profiles.json
-ok   Killdeer Mountain Manufacturing 
+ok   James & James Furniture 
+ok   Jersey Strand & Cable, Inc. 
+ok   Joyce Food Equipment Co 
+fetched p0371-raw.json 10 / 10
+ok   KC Cable Connections, LLC 
+ok   Jefferson Energy 
+ok   JDM Supply LLC 
 ok   KFK Seasonings 
-ok   Key Packaging Co 
-ok   Kellogg Auto Supply 
-ok   JPM Steel Fabrication 
-PAGE DONE p0361-profiles.json
-ok   King's Wood Creation 
-RETRY jay-apparel-group Expecting ',' delimiter: line 59 column 4 (char 3427)
-fetched p0372-raw.json 10 / 10
-ok   Keystone Electrical Manufacturing Company 
-ok   Lacerta Group, LLC. 
-ok   Knock On Wood Furniture 
-ok   Kulicke & Soffa Industries Inc. 
-ok   Kanson Electronics Inc 
-ok   Jule-Art Inc. Acrylic Display Manufacturer 
-ok   Kamuela Hardwoods 
-ok   Kindel Furniture Company 
-fetched p0373-raw.json 10 / 10
-ok   Kaempf & Harris Sheet Metal 
+skip Kahiki Foods 
+ok   KC Home Medical Supply 
 ok   Island Pacific Distributors 
 PAGE DONE p0360-profiles.json
-ok   Key Woodworking, Inc. 
-ok   LAPCO Manufacturing, Inc. Headquarters 
-ok   Kyana Packaging Solutions 
-fetched p0374-raw.json 10 / 10
+ok   Kase Custom | Custom Wood Furniture 
+RETRY largo-tank-equipment-inc HTTP Error 503: Service Unavailable
+ok   Kester Foods 
+ok   Kellogg Auto Supply 
+ok   Killdeer Mountain Manufacturing 
+ok   Kingsford Manufacturing Company 
+ok   JCS Technologies Inc. 
+fetched p0372-raw.json 10 / 10
+ok   Jule-Art Inc. Acrylic Display Manufacturer 
+ok   Key Packaging Co 
+RETRY jmw-fabrication Expecting ',' delimiter: line 69 column 4 (char 3170)
+ok   Keystone Electrical Manufacturing Company 
+ok   Kaimuki Dry Goods Ltd 
+ok   JU-YOUNG Manufacturing America (Plant 2) 
 ok   Kennedy Gustafson & Cole - Dust Collection Experts & Sheet Metal Fabrication 
-PAGE DONE p0365-profiles.json
-ok   LEDtronics 
-ok   Lang's Old Car Parts, Inc. 
-ok   L.L.Bean 
-ok   Kulite Semiconductor Products 
-ok   Kit Clark Furniture 
-ok   Larson Cable Trailers, Inc 
-ok   Lendy Electric Equipment & Supply Corp. 
-ok   Knectiv 
-ok   Kibberia Fresh Foods 
-fetched p0375-raw.json 8 / 10
-ok   Lance Industries 
-ok   Keyser Manufacturing 
-ok   Laurel Furniture & Mattresses 
-ok   La France Industries 
-ok   Klingspor's Woodworking Shop 
-ok   L&L Fabrication Inc 
-fetched p0376-raw.json 10 / 10
-ok   L Sweet Lumber Company Inc. 
-ok   LadyBug Technologies, LLC 
-ok   Lakeside Metal Fabrication, LLC 
-ok   Laurel Wire Company, Inc. 
-ok   Legrand 
-ok   Lava USA 
-ok   KDA Furniture & Interiors 
-ok   Lcs Precision Molding 
-ok   Lawrence Foods, Inc. 
-ok   Levine Contract Furniture Group 
-ok   Lectronix Inc 
-ok   Lee High Sheet Metal Inc 
-RETRY kyocera-electronic-devices-llc Expecting ',' delimiter: line 54 column 4 (char 3321)
-ok   Leclerc Foods 
-fetched p0377-raw.json 10 / 10
-ok   Liberate Medical 
-ok   Louisiana School Equipment Company, LLC 
-ok   Largo Tank & Equipment Inc. 
-ok   Lakeside Trading, Sheds & Outdoor Furniture 
-ok   LeVic Plastics 
-ok   Lincoln Electric Products Co. 
-ok   LaMar Plastics & Displays, Ltd. 
 ok   Ki USA Corporation 
-PAGE DONE p0366-profiles.json
-ok   Long Leaf Wood Shop 
-ok   MBF Bioscience LLC 
-fetched p0378-raw.json 10 / 10
-ok   Little Homestead Furniture 
-ok   Landmark Packaging Inc 
-ok   Latest Metalworks 
-PAGE DONE p0369-profiles.json
-ok   Louisiana Structured Cabling, LLC 
-ok   Lincoln Plastics 
-fetched p0379-raw.json 10 / 10
-ok   M&J Frank Inc. 
-ok   Logix, LLC 
-ok   Lectro Components Inc 
-ok   Logo Magic 
-ok   Jay Apparel Group 
-ok   MCA Metal Fabrication 
-ok   MAECO of Oregon 
-ok   M&Q Packaging LLC 
-ok   MEMC LLC 
-ok   Lehi Sheet Metal, Corp. 
-PAGE DONE p0370-profiles.json
-ok   Leprino Foods Company 
-ok   M&M Equipment Corp. 
-ok   Lone Mountain Biotechnology and Medical Devices, Inc 
-ok   Lincoln Industries Manufacturing of WI, LLC 
-ok   Lusk Scandia Woodworks 
-ok   MGI Apparel Solution. B2B Apparel Manufacture - Seamless - Cut and Sew - Socks - Contract Embroidery. 
-ok   MN Haven Furniture 
-RETRY jacobson-plastics-inc The read operation timed out
-ok   Loose Plastics Inc 
-ok   Magna Powertrain 
-ok   Mach Connections 
-RETRY mtc-kitchen Expecting value: line 63 column 5 (char 3249)
-ok   MD Medical Electronics Inc 
-ok   MSP Manufacturing 
-ok   Magna-Power Electronics 
-ok   MPI Exhaust Technologies 
-RETRY meadows-metal-works-llc HTTP Error 429: Too Many Requests
-RETRY med-tech-sweden HTTP Error 503: Service Unavailable
-ok   Malama Solar 
-ok   Mainline Foods 
-ok   Los Angeles Lighting Mfg. Co. 
-ok   Manual Woodworkers & Weavers 
-ok   MFG Supply 
-ok   Maine Woodworks 
-RETRY kc-home-medical-supply The read operation timed out
-ok   Maker Shop Boise 
-ok   Martech Medical Products Inc 
-ok   MPC Design Technologies, Inc. 
-ok   MCF Electronic Services Inc 
-skip Jacobson Plastics Inc 
+ok   KDA Furniture & Interiors 
+ok   Knock On Wood Furniture 
+ok   Kelly Ryan Equipment Company 
+fetched p0373-raw.json 10 / 10
+ok   Kit Clark Furniture 
+ok   Kanson Electronics Inc 
+ok   Jireh Semiconductor 
+ok   Kayem Foods Inc. 
+skip KI - Bonduel Manufacturing 
+ok   Kulicke & Soffa Industries Inc. 
+ok   Kamuela Hardwoods 
+ok   Jac Machines Inc- North America 
 PAGE DONE p0362-profiles.json
-ok   Marshfield Furniture 
-ok   Market Source Restaurant Supply 
-RETRY kaimuki-dry-goods-ltd The read operation timed out
-ok   Master Plastics, Inc. 
-ok   Marine Engines 
-ok   Manufacturing-Works 
-ok   MCS Woodworking LLC 
-ok   Mathis Electronics 
-ok   MAG Medical Equipment 
-ok   Marko Foam Products 
-ok   Majors Plastics Inc. 
-ok   Mark One Metal Works 
+ok   Kemin Industries Inc 
+ok   King's Wood Creation 
+fetched p0374-raw.json 10 / 10
+ok   KSport USA 
+ok   Key Woodworking, Inc. 
+RETRY lone-star-molding HTTP Error 503: Service Unavailable
+ok   Kibberia Fresh Foods 
+ok   Knoxland Equipment 
+ok   Keyser Manufacturing 
+fetched p0375-raw.json 8 / 10
+ok   Lang's Old Car Parts, Inc. 
+RETRY jersey-shore-apparel 'NoneType' object has no attribute 'group'
+ok   LEDtronics 
+ok   Laurel Furniture & Mattresses 
+ok   Lee High Sheet Metal Inc 
+ok   LaMar Plastics & Displays, Ltd. 
+ok   Kaempf & Harris Sheet Metal 
+PAGE DONE p0364-profiles.json
+ok   Lakeside Metal Fabrication, LLC 
+fetched p0376-raw.json 10 / 10
+ok   L.L.Bean 
+ok   Lincoln Electric Products Co. 
+ok   Klingspor's Woodworking Shop 
+ok   Keltech Inc 
+PAGE DONE p0365-profiles.json
+ok   Johnson Manufacturing - Arcane Industries 
+ok   Lakeside Trading, Sheds & Outdoor Furniture 
+ok   Lance Industries 
+ok   Kulite Semiconductor Products 
+ok   Larson Cable Trailers, Inc 
+ok   Joel Bare Woodworking 
+fetched p0377-raw.json 10 / 10
+ok   Kindel Furniture Company 
+PAGE DONE p0366-profiles.json
+RETRY jpm-steel-fabrication Remote end closed connection without response
+RETRY jpw-machining-llc Remote end closed connection without response
+fetched p0378-raw.json 10 / 10
+ok   LadyBug Technologies, LLC 
+ok   Laurel Wire Company, Inc. 
+ok   Long Leaf Wood Shop 
+ok   Lcs Precision Molding 
+fetched p0379-raw.json 10 / 10
+ok   Lawrence Foods, Inc. 
+RETRY knectiv Expecting ',' delimiter: line 61 column 4 (char 3744)
+ok   Logix, LLC 
+ok   L&L Fabrication Inc 
+ok   Liberate Medical 
+ok   Lendy Electric Equipment & Supply Corp. 
+ok   LA Woodshop 
+ok   Lava USA 
+ok   Lacerta Group, LLC. 
+ok   Levine Contract Furniture Group 
+ok   Logo Magic 
+ok   L Sweet Lumber Company Inc. 
+ok   Kyana Packaging Solutions 
+ok   Legrand 
+ok   LAPCO Manufacturing, Inc. Headquarters 
+ok   Kyocera Electronic Devices LLC 
+ok   Loose Plastics Inc 
+ok   MEMC LLC 
+ok   Leprino Foods Company 
+ok   M&J Frank Inc. 
+RETRY manual-woodworkers-weavers HTTP Error 503: Service Unavailable
+ok   Little Homestead Furniture 
+ok   Lehi Sheet Metal, Corp. 
+ok   MFG Supply 
+ok   Largo Tank & Equipment Inc. 
+ok   Los Angeles Lighting Mfg. Co. 
+ok   M&M Equipment Corp. 
+RETRY mark-automotive HTTP Error 503: Service Unavailable
+ok   M&Q Packaging LLC 
+ok   Latest Metalworks 
+ok   Landmark Packaging Inc 
+PAGE DONE p0369-profiles.json
+ok   Lone Star Molding 
+ok   Lectronix Inc 
+ok   Lusk Scandia Woodworks 
+ok   Lone Mountain Biotechnology and Medical Devices, Inc 
+ok   LeVic Plastics 
 ok   MJ Motorsports 
-ok   McIntyre Millwork & Hardwood Supply, Inc. 
-ok   Maryland Medical Supply & Equipment 
-ok   MKR Fabricators 
-ok   Marmon Aerospace & Defense 
-ok   Masterson Foods 
-ok   Maui Industrial Metal Fabricators 
-skip McGinley Innovations 
+ok   MCF Electronic Services Inc 
+ok   MCA Metal Fabrication 
+ok   Lincoln Plastics 
+ok   Lincoln Industries Manufacturing of WI, LLC 
+ok   MAECO of Oregon 
+ok   MBF Bioscience LLC 
+ok   MN Haven Furniture 
+ok   MPI Exhaust Technologies 
+ok   MD Medical Electronics Inc 
+ok   JPW Machining LLC 
+ok   MAG Medical Equipment 
+ok   Louisiana School Equipment Company, LLC 
+ok   Jersey Shore Apparel 
+PAGE DONE p0363-profiles.json
+ok   JMW Fabrication 
+ok   La France Industries 
+PAGE DONE p0368-profiles.json
+ok   Louisiana Structured Cabling, LLC 
+PAGE DONE p0372-profiles.json
+ok   MPC Design Technologies, Inc. 
+ok   JPM Steel Fabrication 
+PAGE DONE p0361-profiles.json
+ok   Mach Connections 
 ok   Malco Products of Maine 
-RETRY magnum-electronics 'NoneType' object has no attribute 'group'
-ok   Marshall Dry Goods Co Inc 
-ok   Marshall Food Equipment Service 
-ok   Marne Plastics LLC 
-PAGE DONE p0377-profiles.json
-ok   Mann Solar 
-ok   Manufacturing Industries Inc 
-ok   Madison Medical, a Breg Company 
-ok   MacroFab, Inc. 
-RETRY la-woodshop The read operation timed out
-RETRY medisurg 'NoneType' object has no attribute 'group'
-ok   McFee Medical Technologies 
-ok   Malloy 
-RETRY mooneyes-hawaii-hot-rod-parts-accessories-and-apparel-open-weekends-order-online 'NoneType' object has no attribute 'group'
-ok   Mark Automotive 
-PAGE DONE p0376-profiles.json
-ok   Mass WoodWorks 
-ok   MTC Kitchen 
-ok   MedCOR Professionals 
-ok   McKenna Metal 
-ok   Matrix Medical Devices 
 ok   Loftis Steel & Aluminum, Inc. 
 PAGE DONE p0371-profiles.json
-ok   McKay's Furniture 
-ok   Med-Dyne 
-ok   MedSpark 
-ok   Medical Device Academy, Inc. 
-ok   Mecury Commercial Electronics 
-ok   KC Home Medical Supply 
-ok   MedQuest Home Medical Equipment 
-ok   Matcor Metal Fabrication (Kansas) Inc. 
-PAGE DONE p0378-profiles.json
+ok   Lectro Components Inc 
+ok   MacroFab, Inc. 
+ok   Marko Foam Products 
+ok   MEDiSURG 
+ok   Mark Automotive 
+ok   Manufacturing Industries Inc 
+ok   MGI Apparel Solution. B2B Apparel Manufacture - Seamless - Cut and Sew - Socks - Contract Embroidery. 
+ok   Leclerc Foods 
+PAGE DONE p0370-profiles.json
+ok   Majors Plastics Inc. 
+ok   Marshfield Furniture 
+ok   Knectiv 
+PAGE DONE p0367-profiles.json
+ok   Martech Medical Products Inc 
+ok   Maine Woodworks 
+ok   Mathis Electronics 
+ok   Mainline Foods 
+ok   Malloy 
+ok   MSP Manufacturing 
+ok   Masterson Foods 
+ok   Mass WoodWorks 
+RETRY mtc-kitchen 'NoneType' object has no attribute 'group'
+ok   Marne Plastics LLC 
+ok   Magna Powertrain 
+ok   Maker Shop Boise 
+ok   Madison Medical, a Breg Company 
+ok   Maryland Medical Supply & Equipment 
+ok   Manufacturing-Works 
+ok   Marshall Food Equipment Service 
+ok   Maui Industrial Metal Fabricators 
+ok   Market Source Restaurant Supply 
 ok   Madden Fabrication - Portland Metal Fab Shop 
-ok   Kaimuki Dry Goods Ltd 
-PAGE DONE p0364-profiles.json
-RETRY lone-star-molding The read operation timed out
+RETRY magnum-electronics Expecting ',' delimiter: line 63 column 4 (char 4161)
+ok   Med-Dyne 
+RETRY mkr-fabricators Expecting ',' delimiter: line 66 column 4 (char 3683)
+ok   MOONEYES HAWAII (Hot Rod Parts, Accessories and Apparel) OPEN WEEKENDS & Order ONLINE. 
+ok   McIntyre Millwork & Hardwood Supply, Inc. 
+ok   Magna-Power Electronics 
+ok   MCS Woodworking LLC 
+PAGE DONE p0373-profiles.json
 ok   Meadows Metal Works LLC 
+ok   Manual Woodworkers & Weavers 
+ok   McGinley Innovations 
+ok   McKay's Furniture 
+ok   MedCOR Professionals 
+RETRY mann-solar 'NoneType' object has no attribute 'group'
+ok   Marmon Aerospace & Defense 
+ok   MTC Kitchen 
+ok   Marine Engines 
+ok   Medical Device Academy, Inc. 
+ok   Marshall Dry Goods Co Inc 
+ok   MedQuest Home Medical Equipment 
+ok   Mecury Commercial Electronics 
+ok   Mark One Metal Works 
+PAGE DONE p0377-profiles.json
+ok   McFee Medical Technologies 
+ok   Master Plastics, Inc. 
+ok   Med Tech Sweden 
+ok   MedSpark 
+ok   Matcor Metal Fabrication (Kansas) Inc. 
+ok   McKenna Metal 
+PAGE DONE p0379-profiles.json
+ok   Matrix Medical Devices 
+PAGE DONE p0378-profiles.json
+ok   MKR Fabricators 
+PAGE DONE p0374-profiles.json
+RETRY malama-solar Remote end closed connection without response
+ok   Mann Solar 
 ok   Magnum Electronics 
 PAGE DONE p0375-profiles.json
-ok   LA Woodshop 
-PAGE DONE p0368-profiles.json
-ok   MEDiSURG 
-PAGE DONE p0373-profiles.json
-RETRY kyocera-electronic-devices-llc The read operation timed out
-ok   MOONEYES HAWAII (Hot Rod Parts, Accessories and Apparel) OPEN WEEKENDS & Order ONLINE. 
-PAGE DONE p0374-profiles.json
-ok   Med Tech Sweden 
-PAGE DONE p0379-profiles.json
-ok   Kyocera Electronic Devices LLC 
-PAGE DONE p0367-profiles.json
-RETRY lone-star-molding The read operation timed out
-RETRY lone-star-molding The read operation timed out
-ok   Lone Star Molding 
-PAGE DONE p0372-profiles.json
+ok   Malama Solar 
+PAGE DONE p0376-profiles.json
 ALL-DONE errors 0 of 200
-collected 196
-jcs-technologies-inc | wording/address
-jordan-manufacturing-co | certs ['SMETA (Sedex Members Ethical Trade Audit)']
-josephine-s-dry-goods | nums ['2000']
-ksport-usa | nums ['1990', '1993']
-kamuela-hardwoods | wording/address
-kellogg-auto-supply | wording/address
-keystone-electrical-manufacturing-company | certs ['NEC (National Electrical Code)']
-ki-usa-corporation | certs ['IATF 16949:2016']
-kyocera-electronic-devices-llc | certs ['RoHS compliance', 'REACH compliance (SVHC tracking)', 'AEC-Q200 qualification']
+collected 197
+kemin-industries-inc | wording/address
 l-l-fabrication-inc | wording/address
 la-woodshop | wording/address
+ladybug-technologies-llc | certs ['Conflict Minerals Reporting Template (CMRT) compliance']
 lakeside-trading-sheds-outdoor-furniture | wording/address
-laurel-furniture-mattresses | nums ['10:00']
-leclerc-foods | certs ['AODA compliance']
-lendy-electric-equipment-supply-corp | wording/address
-leprino-foods-company | wording/address
+laurel-furniture-mattresses | wording/address
+lendy-electric-equipment-supply-corp | nums ['20']
 lincoln-electric-products-co | wording/address
 loftis-steel-aluminum-inc | nums ['50']
 lone-mountain-biotechnology-and-medical-devices-inc | wording/address
-lone-star-molding | wording/address
-louisiana-school-equipment-company-llc | wording/address
-m-j-frank-inc | nums ['1930']
+m-j-frank-inc | wording/address
 mbf-bioscience-llc | nums ['20,000']
-medisurg | wording/address
-memc-llc | wording/address
+mj-motorsports | nums ['2007']
 mkr-fabricators | nums ['330']
 mn-haven-furniture | wording/address
-msp-manufacturing | wording/address
 macrofab-inc | nums ['250,000']
-magna-powertrain | wording/address
-magna-power-electronics | wording/address
+magna-powertrain | nums ['1957']
 magnum-electronics | wording/address
+mainline-foods | wording/address
 mark-automotive | nums ['30']
-masterson-foods | certs ['FSMA Preventive Controls']
-matcor-metal-fabrication-kansas-inc | nums ['1.2']
-med-tech-sweden | nums ['1960']
-collected 196
-done island-pacific-distributors 2 
-done j-o-plastics 2 
+marshall-dry-goods-co-inc | nums ['1980']
+marshfield-furniture | wording/address
+maryland-medical-supply-equipment | wording/address
+matcor-metal-fabrication-kansas-inc | nums ['1.225']
+mecury-commercial-electronics | nums ['2004']
+medspark | certs ['ISO 13485:2016']
+collected 197
+done island-pacific-distributors 1 
+done j-o-plastics 1 
 done j-r-senior-sheetmetal-inc 0 
-done j-e-fifer-sheet-metal-fabricators-inc 0 
+done j-e-fifer-sheet-metal-fabricators-inc 1 
 done j-hunter-woodworks 0 
-done j-r-plastics-and-machining 2 
-done j-l-plastic-molding 1 
-done j-tech-construction-and-solar 1 
-done j-holtz-furniture 0 
-done jb-s-tee-shirt-factory 0 
-done jcs-technologies-inc 2 
-done jd-woodworking 0 
-done jdm-supply-llc 6 
+done j-r-plastics-and-machining 0 
+done j-l-plastic-molding 0 
+done j-tech-construction-and-solar 2 
+done j-holtz-furniture 1 
+done jb-s-tee-shirt-factory 1 
+done jcs-technologies-inc 0 
+done jd-woodworking 3 
+done jdm-supply-llc 1 
 done jeh-solar-llc 0 
-done jl-solar 2 
-done jmc-manufacturing-co 2 
+done jl-solar 1 
+done jmc-manufacturing-co 0 
 done jmh-woodcraft-inc 1 
-done jmw-fabrication 0 
-done jpm-steel-fabrication 0 
+done jmw-fabrication 1 
+done jpm-steel-fabrication 1 
 done jpw-machining-llc 0 
 done jsc-woodworking 1 
-done ju-young-manufacturing-america-plant-2 7 
-done jv-furniture-llc 0 
-done jac-machines-inc-north-america 3 
-done jackson-solar 0 
-done james-james-furniture 0 
-done james-monroe-wire-cable 0 
-done jamestown-communications-inc 0 
-done jay-apparel-group 2 
-done jefferson-energy 0 
-done jensen-s-architectural-woodwork 2 
+done ju-young-manufacturing-america-plant-2 6 
+done jv-furniture-llc 5 
+done jac-machines-inc-north-america 0 
+done jackson-solar 2 
+done james-james-furniture 1 
+done james-monroe-wire-cable 2 
+done jamestown-communications-inc 1 
+done jay-apparel-group 0 
+done jefferson-energy 1 
+done jensen-s-architectural-woodwork 6 
 done jersey-shore-apparel 3 
-done jersey-strand-cable-inc 0 
-done jireh-semiconductor 3 
+done jersey-strand-cable-inc 1 
+done jireh-semiconductor 2 
+RETRY joel-bare-woodworking expected string or bytes-like object, got 'NoneType'
 done joel-bare-woodworking 2 
-done johnson-manufacturing-arcane-industries 0 
-done jordan-manufacturing-co 2 
-done josephine-s-dry-goods 1 
-done joyce-food-equipment-co 1 
-done jule-art-inc-acrylic-display-manufacturer 1 
-done kc-cable-connections-llc 2 
-done kc-home-medical-supply 0 
-done kda-furniture-interiors 1 
-done kfk-seasonings 1 
-done ksport-usa 6 
-done kaempf-harris-sheet-metal 3 
-done kahiki-foods 2 
-done kaimuki-dry-goods-ltd 2 
+done johnson-manufacturing-arcane-industries 1 
+done jordan-manufacturing-co 0 
+done josephine-s-dry-goods 0 
+done joyce-food-equipment-co 2 
+done jule-art-inc-acrylic-display-manufacturer 2 
+done kc-cable-connections-llc 1 
+done kc-home-medical-supply 2 
+done kda-furniture-interiors 0 
+done kfk-seasonings 0 
+done ksport-usa 0 
+done kaempf-harris-sheet-metal 0 
+done kaimuki-dry-goods-ltd 3 
 done kamuela-hardwoods 0 
 done kanson-electronics-inc 1 
-done kase-custom-custom-wood-furniture 0 
-done kayem-foods-inc 2 
-done kellogg-auto-supply 0 
+done kase-custom-custom-wood-furniture 1 
+done kayem-foods-inc 1 
+done kellogg-auto-supply 0 wrong
 done kelly-ryan-equipment-company 2 
-done keltech-inc 0 
-done kemin-industries-inc 0 
+done keltech-inc 2 
+done kemin-industries-inc 1 
 done kennedy-gustafson-cole-dust-collection-experts-sheet-metal-fabrication 0 
-done kester-foods 2 
+done kester-foods 1 
 done key-packaging-co 0 
 done key-woodworking-inc 0 
 done keyser-manufacturing 1 
-done keystone-electrical-manufacturing-company 1 
+done keystone-electrical-manufacturing-company 0 
 done ki-usa-corporation 0 
 done kibberia-fresh-foods 0 
-done killdeer-mountain-manufacturing 5 
-done kindel-furniture-company 0 
-done king-s-wood-creation 3 
-done kingsford-manufacturing-company 3 
-done kit-clark-furniture 1 
-done klingspor-s-woodworking-shop 0 
+done killdeer-mountain-manufacturing 3 
+done kindel-furniture-company 1 
+done king-s-wood-creation 1 
+done kingsford-manufacturing-company 4 
+done kit-clark-furniture 7 
+done klingspor-s-woodworking-shop 2 
 done knectiv 0 
-done knock-on-wood-furniture 3 
-done knoxland-equipment 1 
-done kulicke-soffa-industries-inc 0 
+done knock-on-wood-furniture 2 
+done knoxland-equipment 7 
+done kulicke-soffa-industries-inc 2 
 done kulite-semiconductor-products 0 
-done kyana-packaging-solutions 4 
-done kyocera-electronic-devices-llc 0 
-done l-sweet-lumber-company-inc 2 
-done l-l-fabrication-inc 2 
-done l-l-bean 1 
-done la-woodshop 0 
+done kyana-packaging-solutions 2 
+done kyocera-electronic-devices-llc 4 
+done l-sweet-lumber-company-inc 1 
+done l-l-fabrication-inc 0 
+done l-l-bean 6 
+done la-woodshop 1 
 done lapco-manufacturing-inc-headquarters 1 
 done ledtronics 0 
 done la-france-industries 0 
 done lamar-plastics-displays-ltd 0 
 done lacerta-group-llc 0 
-done ladybug-technologies-llc 0 
+done ladybug-technologies-llc 2 
 done lakeside-metal-fabrication-llc 1 
-done lakeside-trading-sheds-outdoor-furniture 1 
-done lance-industries 0 
-done landmark-packaging-inc 2 
-done lang-s-old-car-parts-inc 2 
-done largo-tank-equipment-inc 2 
+done lakeside-trading-sheds-outdoor-furniture 0 
+done lance-industries 1 
+done landmark-packaging-inc 0 
+done lang-s-old-car-parts-inc 0 
+done largo-tank-equipment-inc 0 
 done larson-cable-trailers-inc 1 
-done latest-metalworks 1 
-done laurel-furniture-mattresses 8 
-done laurel-wire-company-inc 1 
-done lava-usa 0 
+done latest-metalworks 0 
+done laurel-furniture-mattresses 3 
+done laurel-wire-company-inc 0 
+done lava-usa 2 
 done lawrence-foods-inc 0 
-done lcs-precision-molding 0 
+done lcs-precision-molding 1 
 done levic-plastics 0 
 done leclerc-foods 3 
-done lectro-components-inc 1 
+done lectro-components-inc 3 
 done lectronix-inc 0 
 done lee-high-sheet-metal-inc 0 
 done legrand 0 
 done lehi-sheet-metal-corp 1 
-done lendy-electric-equipment-supply-corp 3 
-done leprino-foods-company 0 
-done levine-contract-furniture-group 3 
+done lendy-electric-equipment-supply-corp 4 
+done leprino-foods-company 1 
+done levine-contract-furniture-group 2 
 done liberate-medical 0 
-done lincoln-electric-products-co 2 
-done lincoln-industries-manufacturing-of-wi-llc 1 
+done lincoln-electric-products-co 0 
+done lincoln-industries-manufacturing-of-wi-llc 3 
 done lincoln-plastics 0 
-done little-homestead-furniture 0 
+done little-homestead-furniture 1 
 done loftis-steel-aluminum-inc 0 
-done logix-llc 0 
-done logo-magic 3 
-RETRY lone-mountain-biotechnology-and-medical-devices-inc expected string or bytes-like object, got 'NoneType'
-RETRY lone-mountain-biotechnology-and-medical-devices-inc expected string or bytes-like object, got 'NoneType'
-done lone-mountain-biotechnology-and-medical-devices-inc 1 
-done lone-star-molding 1 
-done long-leaf-wood-shop 0 
-done loose-plastics-inc 0 
-done los-angeles-lighting-mfg-co 2 
-done louisiana-school-equipment-company-llc 2 
-done louisiana-structured-cabling-llc 2 
-done lusk-scandia-woodworks 3 
-done m-j-frank-inc 5 
+done logix-llc 2 
+done logo-magic 2 
+done lone-mountain-biotechnology-and-medical-devices-inc 0 
+done lone-star-molding 3 
+done long-leaf-wood-shop 2 
+done loose-plastics-inc 1 
+done los-angeles-lighting-mfg-co 0 
+done louisiana-school-equipment-company-llc 1 
+done louisiana-structured-cabling-llc 1 
+done lusk-scandia-woodworks 2 
+done m-j-frank-inc 3 
 done m-m-equipment-corp 0 
 done m-q-packaging-llc 1 
 done maeco-of-oregon 1 
-done mag-medical-equipment 2 
+done mag-medical-equipment 1 
 done mbf-bioscience-llc 0 
-done mca-metal-fabrication 3 
-done mcf-electronic-services-inc 1 
+done mca-metal-fabrication 2 
+done mcf-electronic-services-inc 2 
 done mcs-woodworking-llc 1 
-done md-medical-electronics-inc 0 
+done md-medical-electronics-inc 2 
+RETRY medisurg expected string or bytes-like object, got 'NoneType'
+RETRY mn-haven-furniture expected string or bytes-like object, got 'NoneType'
 done medisurg 0 
-done memc-llc 1 
+done memc-llc 2 
 done mfg-supply 1 
-done mgi-apparel-solution-b2b-apparel-manufacture-seamless-cut-and-sew-socks-contract-embroidery 0 
+done mgi-apparel-solution-b2b-apparel-manufacture-seamless-cut-and-sew-socks-contract-embroidery 1 
 done mj-motorsports 0 
-done mkr-fabricators 0 
-done mn-haven-furniture 1 
-done mooneyes-hawaii-hot-rod-parts-accessories-and-apparel-open-weekends-order-online 1 
-done mpc-design-technologies-inc 0 
-done mpi-exhaust-technologies 4 
+done mkr-fabricators 2 
+done mn-haven-furniture 3 
+done mooneyes-hawaii-hot-rod-parts-accessories-and-apparel-open-weekends-order-online 0 
+done mpc-design-technologies-inc 3 
+done mpi-exhaust-technologies 0 
 done msp-manufacturing 0 
-done mtc-kitchen 4 
-done mach-connections 0 
+done mtc-kitchen 0 
+done mach-connections 1 
 done macrofab-inc 0 
 done madden-fabrication-portland-metal-fab-shop 1 
 done madison-medical-a-breg-company 0 
 done magna-powertrain 0 
 done magna-power-electronics 0 
-done magnum-electronics 3 
-done maine-woodworks 0 
-done mainline-foods 3 
+done magnum-electronics 0 
+done maine-woodworks 1 
+done mainline-foods 0 
 done majors-plastics-inc 1 
-done maker-shop-boise 1 
-done malama-solar 1 
-done malco-products-of-maine 2 
-done mann-solar 1 
+done maker-shop-boise 0 
+done malama-solar 0 
+done malco-products-of-maine 1 
+done malloy 0 
+done mann-solar 2 
 done manual-woodworkers-weavers 1 
 done manufacturing-industries-inc 3 
-done manufacturing-works 0 
+done manufacturing-works 1 
 done marine-engines 3 
-done mark-automotive 2 
-done mark-one-metal-works 0 
-done market-source-restaurant-supply 1 
+done mark-automotive 5 
+done mark-one-metal-works 1 
+done market-source-restaurant-supply 0 
 done marko-foam-products 0 
-done marmon-aerospace-defense 1 
-done marne-plastics-llc 0 
-done marshall-dry-goods-co-inc 1 
-done marshall-food-equipment-service 1 
-done marshfield-furniture 0 
+done marmon-aerospace-defense 4 
+done marne-plastics-llc 1 
+done marshall-dry-goods-co-inc 0 
+done marshall-food-equipment-service 0 
+done marshfield-furniture 1 
 done martech-medical-products-inc 0 
-done maryland-medical-supply-equipment 1 
-done mass-woodworks 5 
-done master-plastics-inc 0 
+done maryland-medical-supply-equipment 2 
+done mass-woodworks 4 
+done master-plastics-inc 1 
 done masterson-foods 0 
-done matcor-metal-fabrication-kansas-inc 2 
-done mathis-electronics 0 
-done matrix-medical-devices 1 
-done maui-industrial-metal-fabricators 2 
+done matcor-metal-fabrication-kansas-inc 0 
+done mathis-electronics 2 
+done matrix-medical-devices 2 
+done maui-industrial-metal-fabricators 0 
 done mcfee-medical-technologies 0 
-done mcintyre-millwork-hardwood-supply-inc 2 
-done mckay-s-furniture 1 
-done mckenna-metal 1 
+done mcginley-innovations 2 
+done mcintyre-millwork-hardwood-supply-inc 1 
+done mckay-s-furniture 2 
+done mckenna-metal 3 
 done meadows-metal-works-llc 0 
-done mecury-commercial-electronics 1 
+done mecury-commercial-electronics 0 
 done med-tech-sweden 0 
-done med-dyne 1 
-done medcor-professionals 1 
-done medquest-home-medical-equipment 3 
-done medspark 0 
+done med-dyne 0 
+done medcor-professionals 0 
+done medquest-home-medical-equipment 4 
+done medspark 1 
 done medical-device-academy-inc 1 
 ALL-DONE errors 0
-clean 191 | sentences removed 202 | needs review 5 | check errors 0
-REVIEW ju-young-manufacturing-america-plant-2 too short after fact-check (55 words)
-REVIEW laurel-furniture-mattresses too short after fact-check (76 words)
-REVIEW m-j-frank-inc too short after fact-check (32 words)
-REVIEW mainline-foods too short after fact-check (51 words)
-REVIEW mass-woodworks too short after fact-check (72 words)
-sql parts 3 stories 191
+clean 190 | sentences removed 207 | needs review 7 | check errors 0
+REVIEW jensen-s-architectural-woodwork too short after fact-check (36 words)
+REVIEW kellogg-auto-supply SOURCE name field is 'Kellogg Auto Supply' but the content describes Poorman Auto Supply, indicating a mismatch between the company name and the described business.
+REVIEW keltech-inc too short after fact-check (71 words)
+REVIEW knoxland-equipment too short after fact-check (78 words)
+REVIEW l-l-bean too short after fact-check (15 words)
+REVIEW mark-automotive too short after fact-check (44 words)
+REVIEW medquest-home-medical-equipment too short after fact-check (69 words)
+sql parts 3 stories 190

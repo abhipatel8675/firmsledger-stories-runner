@@ -1,0 +1,655 @@
+fetched p0460-raw.json 10 / 10
+RETRY valentine-enterprises-inc HTTP Error 503: Service Unavailable
+RETRY valeo-niles HTTP Error 503: Service Unavailable
+RETRY vantran-transformers HTTP Error 503: Service Unavailable
+fetched p0461-raw.json 10 / 10
+RETRY vapor-apparel HTTP Error 429: Too Many Requests
+fetched p0462-raw.json 10 / 10
+RETRY vaso-medical-inc HTTP Error 429: Too Many Requests
+RETRY vaughan-bassett-furniture HTTP Error 429: Too Many Requests
+RETRY vault-foods HTTP Error 429: Too Many Requests
+RETRY venture-medical HTTP Error 429: Too Many Requests
+fetched p0463-raw.json 10 / 10
+RETRY vesco-medical HTTP Error 429: Too Many Requests
+RETRY vestis HTTP Error 429: Too Many Requests
+fetched p0464-raw.json 9 / 10
+fetched p0465-raw.json 9 / 10
+fetched p0466-raw.json 10 / 10
+RETRY victory-foodservice HTTP Error 503: Service Unavailable
+fetched p0467-raw.json 10 / 10
+RETRY veterans-electric-llc HTTP Error 503: Service Unavailable
+RETRY viant HTTP Error 503: Service Unavailable
+RETRY vintage-reclaimed-lumber-company HTTP Error 429: Too Many Requests
+RETRY virginia-equipment-distributors-inc HTTP Error 503: Service Unavailable
+ok   Value Plus Auto Parts Wholesale 
+RETRY virginia-electric-supply HTTP Error 503: Service Unavailable
+RETRY valentine-enterprises-inc HTTP Error 503: Service Unavailable
+fetched p0468-raw.json 10 / 10
+fetched p0469-raw.json 10 / 10
+ok   Vermont Made Furniture Handcrafted by Thurston 
+ok   Vermont Electronics 
+fetched p0470-raw.json 10 / 10
+RETRY valeo-niles HTTP Error 503: Service Unavailable
+ok   Vanguard Manufacturing Inc. 
+fetched p0471-raw.json 10 / 10
+fetched p0472-raw.json 9 / 10
+fetched p0473-raw.json 10 / 10
+ok   Valley Steel Services 
+ok   Valcom Inc. 
+ok   Veteran Wood Co. 
+fetched p0474-raw.json 10 / 10
+ok   Vico Plastics 
+ok   Valhalla Millworks 
+fetched p0475-raw.json 10 / 10
+ok   Vermont Plastic Specialties, Inc. 
+fetched p0476-raw.json 10 / 10
+RETRY vriens-truck-parts HTTP Error 503: Service Unavailable
+RETRY vishal-enterprises-inc HTTP Error 503: Service Unavailable
+RETRY vision-plastics-inc HTTP Error 503: Service Unavailable
+fetched p0477-raw.json 9 / 10
+RETRY volta HTTP Error 503: Service Unavailable
+RETRY vita-specialty-foods-inc HTTP Error 503: Service Unavailable
+RETRY vivax-medical-corporation HTTP Error 503: Service Unavailable
+RETRY valley-fabrication-inc 'NoneType' object has no attribute 'group'
+ok   Viking Steel Fabricators 
+fetched p0478-raw.json 10 / 10
+ok   VanTran Transformers 
+fetched p0479-raw.json 10 / 10
+RETRY w-w-afco-steel HTTP Error 503: Service Unavailable
+RETRY w-h-rogers-sheet-metal-inc HTTP Error 503: Service Unavailable
+ok   Virginia Steel Specialties, LLC 
+RETRY wcc-brands-custom-apparel HTTP Error 503: Service Unavailable
+ok   Virginia Industrial Plastics 
+RETRY wagner-food-equipment HTTP Error 503: Service Unavailable
+RETRY washington-hardwoods-and-architectural-products HTTP Error 429: Too Many Requests
+RETRY warrior-energy HTTP Error 429: Too Many Requests
+RETRY watersong-custom-furniture HTTP Error 429: Too Many Requests
+ok   Viking Technology 
+RETRY weaver-popcorn-main-facility HTTP Error 429: Too Many Requests
+RETRY weavetec-inc HTTP Error 429: Too Many Requests
+ok   Vogue Furniture 
+RETRY wellbeloved-woodworks HTTP Error 503: Service Unavailable
+RETRY vaughan-bassett-furniture HTTP Error 503: Service Unavailable
+RETRY west-michigan-plastics HTTP Error 503: Service Unavailable
+RETRY west-valley-woodworking-inc HTTP Error 503: Service Unavailable
+RETRY wako-electronics-usa-inc HTTP Error 500: Internal Server Error
+RETRY west-virginia-electric-corporation HTTP Error 429: Too Many Requests
+ok   Walter Gordon Textiles Inc 
+RETRY w-v-riddle-electrical-llc HTTP Error 500: Internal Server Error
+RETRY walco-electric-co HTTP Error 500: Internal Server Error
+ok   Vitek Solutions Inc 
+RETRY westwire HTTP Error 503: Service Unavailable
+ok   WWW Electronics Inc. 
+RETRY vestis HTTP Error 503: Service Unavailable
+RETRY westfield-auto-parts HTTP Error 429: Too Many Requests
+ok   WMK & Co 
+ok   WTC Fiber 
+RETRY vapor-apparel HTTP Error 500: Internal Server Error
+ok   Walton Plastics 
+ok   Visual Semiconductor Inc. 
+ok   Waxoyl USA 
+ok   Wesdon Automotive is a Wesdon Industries LLC Company 
+ok   Vaso Medical Inc 
+RETRY westin-foods HTTP Error 503: Service Unavailable
+ok   Wald Family Foods 
+ok   Western Maine Supply 
+ok   Vault Foods 
+ok   Weber Auto & Truck Parts,Inc. 
+RETRY washoe-metal-fabricating 'NoneType' object has no attribute 'group'
+ok   Western Packaging 
+ok   Weld House 
+ok   Venture Medical 
+RETRY victory-foodservice HTTP Error 503: Service Unavailable
+ok   Weld Fab Manufacturing Corporation 
+ok   Welton Technology LLC 
+RETRY virginia-electric-supply HTTP Error 503: Service Unavailable
+RETRY vintage-reclaimed-lumber-company HTTP Error 500: Internal Server Error
+RETRY wengerd-wood-inc Remote end closed connection without response
+RETRY white-lightning-aviation-ground-power HTTP Error 429: Too Many Requests
+ok   Vesco Medical 
+RETRY vivax-medical-corporation HTTP Error 503: Service Unavailable
+RETRY w-w-afco-steel HTTP Error 503: Service Unavailable
+RETRY valley-fabrication-inc HTTP Error 503: Service Unavailable
+RETRY w-h-rogers-sheet-metal-inc HTTP Error 429: Too Many Requests
+RETRY wholesale-industrial-electronics HTTP Error 503: Service Unavailable
+RETRY washington-hardwoods-and-architectural-products HTTP Error 429: Too Many Requests
+RETRY wiesbrook-sheet-metal-hvac HTTP Error 429: Too Many Requests
+RETRY warrior-energy HTTP Error 503: Service Unavailable
+skip Valeo Niles 
+ok   Valentine Enterprises Inc 
+RETRY watersong-custom-furniture HTTP Error 503: Service Unavailable
+RETRY wildcat-electronics HTTP Error 503: Service Unavailable
+RETRY wilkens-manufacturing-inc HTTP Error 429: Too Many Requests
+RETRY willard-brothers-woodcutters HTTP Error 503: Service Unavailable
+RETRY weaver-popcorn-main-facility HTTP Error 503: Service Unavailable
+ok   Virginia Equipment Distributors Inc 
+RETRY weavetec-inc HTTP Error 503: Service Unavailable
+RETRY wire-crafters-inc HTTP Error 503: Service Unavailable
+RETRY wellbeloved-woodworks HTTP Error 429: Too Many Requests
+RETRY west-michigan-plastics HTTP Error 429: Too Many Requests
+RETRY west-valley-woodworking-inc HTTP Error 429: Too Many Requests
+RETRY vaughan-bassett-furniture HTTP Error 429: Too Many Requests
+RETRY wako-electronics-usa-inc HTTP Error 429: Too Many Requests
+ok   Veterans Electric LLC 
+ok   Viant 
+ok   Whaley Foodservice 
+ok   Vishal Enterprises, Inc. 
+ok   Whiteside Manufacturing Co 
+ok   Vita Specialty Foods Inc. 
+RETRY westwire HTTP Error 429: Too Many Requests
+ok   Will Clark Electric 
+ok   Wholesale Apparel LLC 
+ok   Vriens Truck Parts 
+ok   Vision Plastics Inc. 
+ok   Wild West Rustic Furniture 
+RETRY westfield-auto-parts HTTP Error 503: Service Unavailable
+ok   Wilcox Family Farms, Montana Egg 
+ok   Wire Specialists Inc 
+ok   Williston Woodworks 
+ok   WCC Brands Custom Apparel 
+ok   Wholesale Medical Devices 
+ok   Wagner Food Equipment 
+RETRY wheeler-metals Remote end closed connection without response
+RETRY wirefox-electric HTTP Error 503: Service Unavailable
+RETRY vapor-apparel HTTP Error 503: Service Unavailable
+RETRY volta Remote end closed connection without response
+RETRY westin-foods HTTP Error 503: Service Unavailable
+ok   West Virginia Electric Corporation 
+ok   Wilmington Precision Machine 
+RETRY windsor-chairmakers Expecting ',' delimiter: line 49 column 4 (char 2755)
+RETRY washoe-metal-fabricating HTTP Error 429: Too Many Requests
+RETRY wired-technologies HTTP Error 503: Service Unavailable
+ok   W.V. Riddle Electrical LLC 
+ok   Wire Specialties 
+ok   Vestis 
+RETRY wilcox-woodworks-inc Remote end closed connection without response
+ok   Walco Electric Co. 
+ok   Wire Wire Electric Supply, LLC 
+ok   Victory Foodservice 
+RETRY wengerd-wood-inc HTTP Error 503: Service Unavailable
+RETRY wires-specialty-manufacturing HTTP Error 503: Service Unavailable
+RETRY wolf-river-electric HTTP Error 503: Service Unavailable
+RETRY vivax-medical-corporation HTTP Error 429: Too Many Requests
+RETRY wood-technologies-llc HTTP Error 429: Too Many Requests
+RETRY woodlab HTTP Error 503: Service Unavailable
+RETRY wholesale-industrial-electronics HTTP Error 429: Too Many Requests
+RETRY woodworking-vermont HTTP Error 429: Too Many Requests
+RETRY washington-hardwoods-and-architectural-products HTTP Error 503: Service Unavailable
+ok   Witonics 
+ok   Virginia Electric Supply 
+RETRY wildcat-electronics HTTP Error 429: Too Many Requests
+RETRY workshop-detroit HTTP Error 429: Too Many Requests
+RETRY world-weidner HTTP Error 503: Service Unavailable
+ok   Wires R Us Inc. 
+ok   Wisconsin Medical Supplies 
+ok   Woeber Mustard Company 
+RETRY wilkens-manufacturing-inc HTTP Error 503: Service Unavailable
+RETRY willard-brothers-woodcutters HTTP Error 429: Too Many Requests
+RETRY worthen-custom-iron-brass HTTP Error 429: Too Many Requests
+ok   Wooden Specialties 
+RETRY weaver-popcorn-main-facility HTTP Error 503: Service Unavailable
+ok   W&W | AFCO Steel 
+RETRY wire-crafters-inc HTTP Error 503: Service Unavailable
+RETRY weavetec-inc HTTP Error 503: Service Unavailable
+ok   Vintage Reclaimed Lumber Company 
+PAGE DONE p0462-profiles.json
+RETRY wunderlich-woodworking HTTP Error 429: Too Many Requests
+RETRY wellbeloved-woodworks HTTP Error 503: Service Unavailable
+ok   Woodside Industries Inc 
+RETRY west-valley-woodworking-inc HTTP Error 429: Too Many Requests
+ok   White Lightning - Aviation Ground Power 
+ok   Wood Castle Company Store 
+ok   Woodworks Studio 
+ok   Wood and Water MN 
+ok   Woodwork of Vermont 
+ok   Warrior Energy 
+ok   Woodlore, LLC 
+ok   Valley Fabrication, Inc. 
+RETRY westwire HTTP Error 503: Service Unavailable
+ok   W H Rogers Sheet Metal Inc 
+ok   Worldpac Inc 
+ok   WorkbenchRVA 
+ok   Vaughan-Bassett Furniture 
+PAGE DONE p0461-profiles.json
+ok   Wyoming Building Supply 
+ok   Watersong Custom Furniture 
+ok   Wynn's Grain and Spice 
+ok   Wiesbrook Sheet Metal HVAC 
+RETRY xenerpower-usa-llc HTTP Error 503: Service Unavailable
+RETRY wheeler-metals HTTP Error 503: Service Unavailable
+ok   West Michigan Plastics 
+ok   X Treme Apparel LLC 
+ok   Wako Electronics USA Inc 
+PAGE DONE p0464-profiles.json
+ok   WireFox Electric 
+RETRY youngtronics-llc HTTP Error 503: Service Unavailable
+RETRY washoe-metal-fabricating HTTP Error 503: Service Unavailable
+ok   Westin Foods 
+ok   Vapor Apparel 
+PAGE DONE p0460-profiles.json
+ok   Xtreme Fabrication 
+ok   XtraLight LED Lighting Solutions 
+ok   Westfield Auto Parts 
+ok   Volta 
+ok   Windsor Chairmakers 
+RETRY wengerd-wood-inc HTTP Error 503: Service Unavailable
+RETRY okc-fabric-market-llc HTTP Error 503: Service Unavailable
+RETRY e-components-a-division-of-csr-electronics-inc HTTP Error 503: Service Unavailable
+RETRY vivax-medical-corporation HTTP Error 503: Service Unavailable
+RETRY 185-promotions-apparel HTTP Error 503: Service Unavailable
+RETRY 207-welding-fabrication HTTP Error 429: Too Many Requests
+RETRY 3-crowns-apparel-services HTTP Error 503: Service Unavailable
+RETRY 3-dmed HTTP Error 429: Too Many Requests
+RETRY 3d-medical-manufacturing-by-tecomet HTTP Error 503: Service Unavailable
+RETRY woodworking-vermont HTTP Error 503: Service Unavailable
+RETRY 425-motorsports HTTP Error 429: Too Many Requests
+RETRY washington-hardwoods-and-architectural-products HTTP Error 503: Service Unavailable
+RETRY 46solutions HTTP Error 429: Too Many Requests
+RETRY wildcat-electronics HTTP Error 503: Service Unavailable
+ok   Zongkers Custom Woods Inc 
+ok   Wired Technologies 
+ok   Yes Solar Solutions 
+RETRY willard-brothers-woodcutters HTTP Error 429: Too Many Requests
+RETRY 5-star-food-equipment HTTP Error 429: Too Many Requests
+RETRY worthen-custom-iron-brass HTTP Error 429: Too Many Requests
+ok   Zenergy Solar & Roofing 
+ok   Xtreme Manufacturing 
+ok   Your Glove Source 
+RETRY 74c-meat-co HTTP Error 429: Too Many Requests
+RETRY wunderlich-woodworking HTTP Error 503: Service Unavailable
+RETRY a-h-manufacturing-co HTTP Error 429: Too Many Requests
+RETRY a-l-furniture HTTP Error 503: Service Unavailable
+RETRY a-list-woodworks HTTP Error 503: Service Unavailable
+RETRY west-valley-woodworking-inc HTTP Error 503: Service Unavailable
+RETRY weaver-popcorn-main-facility HTTP Error 500: Internal Server Error
+ok   Wilcox Woodworks, Inc. 
+skip Vivax Medical Corporation HTTP Error 503: Service Unavailable
+PAGE DONE p0463-profiles.json
+ok   Wires Specialty Manufacturing 
+ok   13 Foods 
+ok   100K Solar 
+ok   27WON Performance 
+ok   Wilkens Manufacturing Inc 
+ok   WoodLab 
+ok   Weavetec Inc 
+ok   Wolf River Electric 
+RETRY xenerpower-usa-llc HTTP Error 503: Service Unavailable
+ok   Wholesale Industrial Electronics 
+ok   Workshop Detroit 
+ok   3-V Distributing Inc 
+ok   417 Motorsports 
+ok   Zwirner Equipment Company 
+ok   307 Meat Processing 
+ok   ePac Flexible Packaging 
+ok   4C Medical Technologies, Inc. 
+ok   World Weidner 
+ok   Wood Technologies, LLC 
+PAGE DONE p0470-profiles.json
+skip Washington Hardwoods and Architectural Products HTTP Error 503: Service Unavailable
+ok   20/20 Custom Molded Plastics 
+ok   Wire Crafters Inc 
+PAGE DONE p0469-profiles.json
+ok   605 Clothing 
+ok   88 Acres 
+RETRY a-vintage-wren HTTP Error 503: Service Unavailable
+RETRY wheeler-metals HTTP Error 429: Too Many Requests
+ok   A & S Electric Supply 
+ok   Wellbeloved woodworks 
+ok   WestWire 
+RETRY youngtronics-llc HTTP Error 503: Service Unavailable
+RETRY a-j-supply HTTP Error 503: Service Unavailable
+RETRY a-color-us-llc HTTP Error 503: Service Unavailable
+RETRY washoe-metal-fabricating HTTP Error 503: Service Unavailable
+ok   A&E Unique LLC 
+ok   A W Hoss & Son, Inc. 
+RETRY aam-metal-forming-subiaco-manufacturing-facility HTTP Error 503: Service Unavailable
+ok   A&M Vermont Solar 
+RETRY acbm-tech HTTP Error 503: Service Unavailable
+RETRY ace-medical-inc HTTP Error 429: Too Many Requests
+RETRY 207-welding-fabrication HTTP Error 503: Service Unavailable
+skip West Valley Woodworking Inc. HTTP Error 503: Service Unavailable
+RETRY 3-crowns-apparel-services HTTP Error 429: Too Many Requests
+RETRY aci-plastics-south-llc HTTP Error 503: Service Unavailable
+RETRY acm-technik HTTP Error 429: Too Many Requests
+skip Weaver Popcorn Main Facility HTTP Error 500: Internal Server Error
+RETRY 3-dmed HTTP Error 503: Service Unavailable
+RETRY actia-electronics HTTP Error 429: Too Many Requests
+RETRY adi-inc HTTP Error 503: Service Unavailable
+RETRY woodworking-vermont HTTP Error 503: Service Unavailable
+RETRY aec-enterprises HTTP Error 503: Service Unavailable
+RETRY afl-cable HTTP Error 503: Service Unavailable
+RETRY ags-electronics-manufacturing HTTP Error 429: Too Many Requests
+RETRY agt-foods-usa HTTP Error 429: Too Many Requests
+RETRY alpla HTTP Error 503: Service Unavailable
+RETRY alttrix-corporation HTTP Error 503: Service Unavailable
+RETRY 425-motorsports HTTP Error 429: Too Many Requests
+RETRY amd-advanced-micro-devices HTTP Error 503: Service Unavailable
+RETRY ametek-solutions-with-innovation HTTP Error 503: Service Unavailable
+RETRY arch-hawaii-custom-design-fabrication HTTP Error 429: Too Many Requests
+RETRY arkk-food-company HTTP Error 503: Service Unavailable
+RETRY willard-brothers-woodcutters HTTP Error 429: Too Many Requests
+RETRY worthen-custom-iron-brass HTTP Error 429: Too Many Requests
+ok   185 Promotions & Apparel 
+RETRY 74c-meat-co HTTP Error 429: Too Many Requests
+RETRY wunderlich-woodworking HTTP Error 503: Service Unavailable
+RETRY az-mediquip-peoria HTTP Error 429: Too Many Requests
+ok   ACI Plastics Inc 
+RETRY a-list-woodworks HTTP Error 503: Service Unavailable
+ok   ACS Medical LLC 
+ok   ACIST Medical Systems 
+skip Washoe Metal Fabricating HTTP Error 503: Service Unavailable
+PAGE DONE p0465-profiles.json
+ok   ​e-Components, a Division of CSR Electronics, Inc. 
+ok   AC Premium Auto 
+ok   Wengerd Wood Inc 
+PAGE DONE p0466-profiles.json
+ok   AAA Spring Specialist Inc 
+ok   AROS Group - Luxury Packaging 
+ok   ASM Auto Supply 
+ok   okc Fabric Market LLC 
+PAGE DONE p0473-profiles.json
+ok   3D Medical Manufacturing by TECOMET 
+ok   AVA Rocky Mountains 
+ok   46Solutions 
+ok   A & H Manufacturing Co 
+ok   AVID Racing (UTV) 
+ok   APCO Plastics 
+ok   A & L Furniture 
+ok   Wildcat Electronics 
+ok   Aabaco Plastics Inc 
+ok   Absolics Inc. 
+ok   5 Star Food Equipment 
+ok   AZ CAP Co 
+RETRY aaron-smith-industries Expecting ',' delimiter: line 81 column 4 (char 3616)
+ok   Absolute Apparel, LLC 
+ok   Xenerpower USA LLC 
+skip Willard Brothers Woodcutters HTTP Error 429: Too Many Requests
+PAGE DONE p0468-profiles.json
+ok   A Vintage Wren 
+ok   Acadian Wood Products 
+RETRY 207-welding-fabrication HTTP Error 429: Too Many Requests
+RETRY aci-plastics-south-llc HTTP Error 429: Too Many Requests
+RETRY 3-dmed HTTP Error 429: Too Many Requests
+ok   A-COLOR US LLC 
+RETRY woodworking-vermont HTTP Error 429: Too Many Requests
+ok   A&J Supply 
+ok   Wheeler Metals 
+PAGE DONE p0467-profiles.json
+RETRY arkk-food-company HTTP Error 429: Too Many Requests
+RETRY worthen-custom-iron-brass HTTP Error 429: Too Many Requests
+ok   Youngtronics, LLC 
+skip AAM Metal Forming | Subiaco Manufacturing Facility 
+RETRY wunderlich-woodworking HTTP Error 429: Too Many Requests
+ok   3 Crowns Apparel Services 
+ok   ACBM TECH 
+PAGE DONE p0476-profiles.json
+ok   ALPLA 
+ok   AMD (Advanced Micro Devices) 
+ok   ALTTRIX Corporation 
+ok   425 Motorsports 
+ok   ACE Medical Inc 
+ok   AFL - Cable 
+ok   ARCH Hawaii: Custom Design & Fabrication 
+ok   AZ MediQuip - Peoria 
+ok   AEC Enterprises 
+ok   AGS-Electronics Manufacturing 
+ok   74C Meat Co. 
+ok   AMETEK - Solutions With Innovation 
+RETRY actia-electronics Expecting ',' delimiter: line 56 column 4 (char 2889)
+ok   ACM Technik 
+skip Woodworking Vermont HTTP Error 429: Too Many Requests
+ok   A List Woodworks 
+PAGE DONE p0475-profiles.json
+ok   AGT Foods USA 
+skip Worthen Custom Iron & Brass HTTP Error 429: Too Many Requests
+PAGE DONE p0471-profiles.json
+RETRY adi-inc Remote end closed connection without response
+RETRY 3-dmed HTTP Error 429: Too Many Requests
+skip Wunderlich Woodworking HTTP Error 429: Too Many Requests
+PAGE DONE p0472-profiles.json
+ok   Aaron Smith Industries 
+PAGE DONE p0479-profiles.json
+skip 3-Dmed HTTP Error 429: Too Many Requests
+ok   ARKK Food Company 
+PAGE DONE p0478-profiles.json
+ok   207 Welding & Fabrication 
+PAGE DONE p0474-profiles.json
+ok   ACTIA Electronics 
+RETRY aci-plastics-south-llc Expecting ',' delimiter: line 77 column 4 (char 4232)
+ok   ADI Inc 
+ok   ACI Plastics South, LLC 
+PAGE DONE p0477-profiles.json
+ALL-DONE errors 10 of 200
+collected 188
+valley-fabrication-inc | nums ['40,000']
+value-plus-auto-parts-wholesale | wording/address
+vico-plastics | wording/address
+victory-foodservice | wording/address
+virginia-electric-supply | wording/address
+virginia-equipment-distributors-inc | wording/address
+vishal-enterprises-inc | wording/address
+vision-plastics-inc | nums ['8.5']
+vita-specialty-foods-inc | wording/address
+w-h-rogers-sheet-metal-inc | certs ['ASME B31.3']
+www-electronics-inc | nums ['100']
+west-michigan-plastics | nums ['16949:2016']
+westfield-auto-parts | wording/address
+whiteside-manufacturing-co | wording/address
+wiesbrook-sheet-metal-hvac | wording/address
+wilkens-manufacturing-inc | wording/address
+williston-woodworks | wording/address
+wood-technologies-llc | certs ['Woman-Owned Business Enterprise (WBE)']
+world-weidner | wording/address
+wynn-s-grain-and-spice | wording/address
+wyoming-building-supply | wording/address
+zenergy-solar-roofing | certs ['BBB accredited']
+epac-flexible-packaging | wording/address
+e-components-a-division-of-csr-electronics-inc | wording/address
+3d-medical-manufacturing-by-tecomet | wording/address
+a-list-woodworks | wording/address
+a-w-hoss-son-inc | wording/address
+a-e-unique-llc | wording/address
+aaa-spring-specialist-inc | wording/address
+aci-plastics-south-llc | certs ['ISO 9001:2015 (Flint location only)']
+acm-technik | nums ['7,300']
+acs-medical-llc | certs ['HQAA accreditation']
+amd-advanced-micro-devices | wording/address
+ametek-solutions-with-innovation | nums ['61508']
+arch-hawaii-custom-design-fabrication | wording/address
+aaron-smith-industries | wording/address
+absolics-inc | nums ['175']
+collected 188
+done valcom-inc 0 
+done valentine-enterprises-inc 0 
+done valhalla-millworks 0 
+done valley-fabrication-inc 1 
+done valley-steel-services 3 
+done value-plus-auto-parts-wholesale 0 
+done vantran-transformers 0 
+done vanguard-manufacturing-inc 4 
+done vapor-apparel 1 
+done vaso-medical-inc 0 
+done vaughan-bassett-furniture 0 
+done vault-foods 0 
+done venture-medical 0 
+done vermont-electronics 3 
+done vermont-made-furniture-handcrafted-by-thurston 0 
+done vermont-plastic-specialties-inc 1 
+done vesco-medical 1 
+done vestis 1 
+done veteran-wood-co 1 
+done veterans-electric-llc 5 
+done viant 1 
+done vico-plastics 2 
+done victory-foodservice 5 
+done viking-steel-fabricators 0 
+done viking-technology 0 
+done vintage-reclaimed-lumber-company 0 
+done virginia-electric-supply 1 
+done virginia-equipment-distributors-inc 2 
+done virginia-industrial-plastics 0 
+done virginia-steel-specialties-llc 0 
+done vishal-enterprises-inc 0 
+done vision-plastics-inc 0 
+done visual-semiconductor-inc 1 
+done vita-specialty-foods-inc 1 
+done vitek-solutions-inc 0 
+done vogue-furniture 4 
+done volta 1 
+done vriens-truck-parts 1 
+done w-h-rogers-sheet-metal-inc 1 
+done w-w-afco-steel 1 
+done w-v-riddle-electrical-llc 1 
+done wcc-brands-custom-apparel 0 
+done wmk-co 1 
+done wtc-fiber 0 
+done www-electronics-inc 3 
+done wagner-food-equipment 2 
+done wako-electronics-usa-inc 3 
+done walco-electric-co 0 
+done wald-family-foods 3 
+done walter-gordon-textiles-inc 3 
+done walton-plastics 3 
+done warrior-energy 0 
+done watersong-custom-furniture 1 
+done waxoyl-usa 0 
+done weavetec-inc 1 
+done weber-auto-truck-parts-inc 1 
+done weld-fab-manufacturing-corporation 1 
+done weld-house 1 
+done wellbeloved-woodworks 4 
+done welton-technology-llc 1 
+done wengerd-wood-inc 2 
+done wesdon-automotive-is-a-wesdon-industries-llc-company 0 
+done west-michigan-plastics 0 
+done west-virginia-electric-corporation 0 
+done westwire 0 
+done western-maine-supply 0 
+done western-packaging 1 
+done westfield-auto-parts 6 
+done westin-foods 2 
+done whaley-foodservice 2 
+done wheeler-metals 3 
+done white-lightning-aviation-ground-power 1 
+done whiteside-manufacturing-co 0 
+done wholesale-apparel-llc 1 
+done wholesale-industrial-electronics 0 
+done wholesale-medical-devices 0 
+done wiesbrook-sheet-metal-hvac 1 
+done wilcox-family-farms-montana-egg 5 
+done wilcox-woodworks-inc 0 
+done wild-west-rustic-furniture 2 
+done wildcat-electronics 1 
+done wilkens-manufacturing-inc 1 
+done will-clark-electric 0 
+done williston-woodworks 1 
+done wilmington-precision-machine 0 
+done windsor-chairmakers 1 
+done wire-crafters-inc 0 
+done wire-specialists-inc 0 
+done wire-specialties 4 
+done wire-wire-electric-supply-llc 0 
+done wirefox-electric 1 
+done wired-technologies 0 
+done wires-r-us-inc 0 
+done wires-specialty-manufacturing 1 
+done wisconsin-medical-supplies 1 
+done witonics 1 
+done woeber-mustard-company 2 
+done wolf-river-electric 0 
+done wood-castle-company-store 0 
+done wood-technologies-llc 1 
+done wood-and-water-mn 1 
+done woodlab 0 
+done wooden-specialties 1 
+done woodlore-llc 2 
+done woodside-industries-inc 2 
+done woodwork-of-vermont 2 
+done woodworks-studio 0 
+done workbenchrva 0 
+RETRY aaa-spring-specialist-inc HTTP Error 502: Bad Gateway
+done workshop-detroit 4 
+done world-weidner 7 
+done worldpac-inc 1 
+done wynn-s-grain-and-spice 0 
+done wyoming-building-supply 0 
+done x-treme-apparel-llc 0 
+done xenerpower-usa-llc 0 
+done xtralight-led-lighting-solutions 0 
+done xtreme-fabrication 1 
+done xtreme-manufacturing 1 
+done yes-solar-solutions 1 
+done youngtronics-llc 2 
+done your-glove-source 2 
+done zenergy-solar-roofing 1 
+done zongkers-custom-woods-inc 1 
+done zwirner-equipment-company 2 
+done epac-flexible-packaging 0 
+done okc-fabric-market-llc 4 
+done e-components-a-division-of-csr-electronics-inc 1 
+done 100k-solar 0 
+done 13-foods 2 
+done 185-promotions-apparel 3 
+done 20-20-custom-molded-plastics 0 
+done 207-welding-fabrication 3 
+done 27won-performance 1 
+done 3-crowns-apparel-services 1 
+done 3-v-distributing-inc 1 
+done 307-meat-processing 0 
+done 3d-medical-manufacturing-by-tecomet 0 
+done 417-motorsports 1 
+done 425-motorsports 1 
+done 46solutions 0 
+done 4c-medical-technologies-inc 1 
+done 5-star-food-equipment 2 
+done 605-clothing 1 
+done 74c-meat-co 2 
+done 88-acres 0 
+done a-h-manufacturing-co 0 
+done a-l-furniture 2 
+done a-s-electric-supply 1 
+done a-list-woodworks 1 
+done a-vintage-wren 2 
+done a-w-hoss-son-inc 5 
+done a-e-unique-llc 0 
+done a-j-supply 2 
+done a-m-vermont-solar 0 
+done a-color-us-llc 2 
+done aaa-spring-specialist-inc 2 
+done ac-premium-auto 1 
+done acbm-tech 5 
+done ace-medical-inc 0 
+done aci-plastics-inc 1 
+done aci-plastics-south-llc 0 
+done acist-medical-systems 0 
+done acm-technik 2 
+done acs-medical-llc 2 
+done actia-electronics 0 
+done adi-inc 0 
+done aec-enterprises 0 
+done afl-cable 1 
+done ags-electronics-manufacturing 0 
+done agt-foods-usa 1 
+done alpla 0 
+done alttrix-corporation 1 
+done amd-advanced-micro-devices 1 
+done ametek-solutions-with-innovation 1 
+done apco-plastics 3 
+done arch-hawaii-custom-design-fabrication 0 
+done arkk-food-company 1 
+done aros-group-luxury-packaging 0 
+done asm-auto-supply 1 
+done ava-rocky-mountains 0 
+done avid-racing-utv 2 
+done az-cap-co 0 
+done az-mediquip-peoria 1 
+done aabaco-plastics-inc 0 
+done aaron-smith-industries 0 
+done absolics-inc 2 
+done absolute-apparel-llc 2 
+done acadian-wood-products 0 
+ALL-DONE errors 0
+clean 186 | sentences removed 194 | needs review 2 | check errors 0
+REVIEW 425-motorsports too short after fact-check (44 words)
+REVIEW acist-medical-systems too short after fact-check (40 words)
+sql parts 3 stories 186

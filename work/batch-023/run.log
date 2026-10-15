@@ -1,0 +1,563 @@
+fetched p0440-raw.json 10 / 10
+fetched p0441-raw.json 10 / 10
+RETRY sticks-inc HTTP Error 429: Too Many Requests
+RETRY subsalve-usa HTTP Error 429: Too Many Requests
+fetched p0442-raw.json 10 / 10
+fetched p0443-raw.json 10 / 10
+fetched p0444-raw.json 10 / 10
+ok   Steel Masters NYC 
+fetched p0445-raw.json 9 / 10
+RETRY stratas-foods HTTP Error 500: Internal Server Error
+fetched p0446-raw.json 10 / 10
+fetched p0447-raw.json 10 / 10
+RETRY summit-medical-an-innovia-medical-company HTTP Error 429: Too Many Requests
+fetched p0448-raw.json 9 / 10
+RETRY sunmed-medical-systems HTTP Error 429: Too Many Requests
+ok   Stickbulb 
+ok   Stitch N Print, Inc 
+ok   Streamline Plastics 
+RETRY superb-metals HTTP Error 429: Too Many Requests
+RETRY superior-moulding-of-nevada HTTP Error 429: Too Many Requests
+fetched p0449-raw.json 10 / 10
+RETRY supreme-cable-technology-inc HTTP Error 429: Too Many Requests
+RETRY swagelok-louisiana HTTP Error 429: Too Many Requests
+ok   Sterling Furniture Co 
+RETRY switchgearus HTTP Error 429: Too Many Requests
+fetched p0450-raw.json 10 / 10
+ok   Stelray Plastic Products Inc 
+RETRY synergy-food-group HTTP Error 429: Too Many Requests
+ok   Steel City Metal Inc 
+RETRY t-j-mold-tool-co HTTP Error 429: Too Many Requests
+RETRY tcb-companies-inc HTTP Error 429: Too Many Requests
+fetched p0451-raw.json 10 / 10
+RETRY temc HTTP Error 429: Too Many Requests
+ok   Sugar Hollow Solar 
+RETRY tmco-inc HTTP Error 429: Too Many Requests
+ok   Sterling Wire & Cable 
+RETRY tmf-plastic-solutions HTTP Error 429: Too Many Requests
+RETRY tnt-cable-contractors HTTP Error 429: Too Many Requests
+fetched p0452-raw.json 10 / 10
+ok   Stromberg Metal Works Inc. 
+ok   Stixon Labels 
+ok   Summit Electrical Contractors 
+ok   Suminoe Textile of America. 
+ok   Stylus Apparel 
+fetched p0453-raw.json 10 / 10
+ok   Stryker Surgical Technologies 
+ok   Summit Electric Supply 
+ok   Suntra MedTech Solutions 
+ok   Sun Valley Solar Solutions 
+ok   StockPKG Films 
+RETRY sunset-outdoor-supply Expecting value: line 78 column 5 (char 3901)
+ok   SunMade Smart Roofing, Solar Fresno & Electric 
+ok   Summit Packaging Systems 
+ok   Sypris Electronics LLC 
+ok   Sunlight Solar Energy, Inc. 
+ok   Summit Interconnect Chicago 
+ok   Sun Up Zero Down 
+ok   TFG Denham Springs 
+ok   Sylvester Sheet Metal 
+fetched p0454-raw.json 10 / 10
+ok   Switchback Medical 
+ok   SunElement Energy Inc 
+ok   Superior Wire Harness 
+ok   THS Foodservice 
+RETRY stengel-bros-inc 'NoneType' object has no attribute 'group'
+ok   T.M. Wood Products Manufacturing, Inc. 
+ok   Superior Artisan Wood 
+ok   TEK Electronics, LLC 
+fetched p0455-raw.json 10 / 10
+ok   Surface Mount Technology Corp. 
+ok   System Packaging Company 
+ok   TOP-electronics USA 
+ok   TJ Woodwork Design 
+ok   Synchronis Medical, LLC 
+ok   Sticks, Inc. 
+ok   TMS Custom Woodworks, LLC 
+ok   Subsalve USA 
+ok   Synteen Technical Fabrics 
+ok   TX Metal Solutions 
+ok   Swift Creek Trading Co 
+ok   TROCOFAB 
+ok   Tak Communications 
+ok   Tallapoosa River Electric 
+fetched p0456-raw.json 10 / 10
+ok   Tampa Sheet Metal Co 
+fetched p0457-raw.json 10 / 10
+fetched p0458-raw.json 10 / 10
+fetched p0459-raw.json 10 / 10
+ok   Tangent Cable Systems Inc 
+ok   Tankersley Food Services 
+RETRY stratas-foods HTTP Error 429: Too Many Requests
+RETRY team-iowa-promotional-products-and-apparel HTTP Error 429: Too Many Requests
+RETRY tech-packaging HTTP Error 429: Too Many Requests
+RETRY techhelp-idaho-manufacturing-specialists HTTP Error 429: Too Many Requests
+RETRY tekton-la-dtla-showroom HTTP Error 429: Too Many Requests
+RETRY texas-capitol-semiconductor HTTP Error 429: Too Many Requests
+RETRY texas-metal-specialty-co HTTP Error 429: Too Many Requests
+RETRY texas-microfiber HTTP Error 503: Service Unavailable
+RETRY the-big-screen-store HTTP Error 429: Too Many Requests
+RETRY the-brickle-group HTTP Error 429: Too Many Requests
+skip Teton Trailer Manufacturing 
+RETRY the-durham-company HTTP Error 429: Too Many Requests
+RETRY superior-moulding-of-nevada HTTP Error 429: Too Many Requests
+RETRY supreme-cable-technology-inc HTTP Error 429: Too Many Requests
+RETRY swagelok-louisiana HTTP Error 429: Too Many Requests
+RETRY switchgearus HTTP Error 429: Too Many Requests
+ok   Taurus Engineering And Manufacturing 
+RETRY the-little-potato-company-potato-processing-packaging-distribution HTTP Error 429: Too Many Requests
+ok   Tarrier Foods Corporation 
+RETRY the-regrainery-custom-woodworking-hand-built-furniture-in-portland-or HTTP Error 429: Too Many Requests
+RETRY tnt-cable-contractors HTTP Error 429: Too Many Requests
+ok   Team Apparel & Specialties 
+ok   Taste New Mexico 
+PAGE DONE p0446-profiles.json
+RETRY tcb-companies-inc HTTP Error 500: Internal Server Error
+RETRY the-cable-company HTTP Error 500: Internal Server Error
+RETRY the-fabric-cobbler HTTP Error 500: Internal Server Error
+ok   The Duck Company 
+ok   Summit Medical, an Innovia Medical Company 
+ok   Team JDC - Gonzales, Louisiana 
+ok   Technical Manufacturing Corporation 
+ok   Tecnova Electronics, Inc. 
+ok   Superb Metals 
+ok   Texa France 
+ok   Sunmed Medical Systems 
+PAGE DONE p0442-profiles.json
+ok   Textile USA, Inc. 
+ok   Terrasteel Furniture Design LLC 
+ok   Texas Sheet Metal Services 
+ok   Texas Metal Works 
+ok   TEMC 
+ok   Texas Engineered Solar 
+ok   Synergy Food Group 
+ok   Texas Best Solar 
+ok   The Iron Works LTD. 
+ok   Texas Direct Solar 
+ok   The DySyn Group, LLC 
+ok   Tele-Fonika Cable Americas Crp 
+ok   The Joseph Company 
+ok   TMCO Inc 
+ok   The Colorado Tent Company 
+ok   The Electric and Solar Specialist 
+ok   The John R. White Company, Inc. 
+ok   Texas Components Corporation 
+ok   Tech Electronics of Kansas City 
+ok   The LYCRA Company - Waynesboro, VA 
+ok   The Millwork Lab 
+ok   T J Mold & Tool Co. 
+ok   The Neil Jones Food Company 
+ok   TMF Plastic Solutions 
+ok   Sunset Outdoor Supply 
+ok   Stengel Bros. Inc 
+PAGE DONE p0440-profiles.json
+ok   The Salt Licking Goat Clothing Company 
+ok   The Solar Guys 
+RETRY thefuseshop HTTP Error 429: Too Many Requests
+RETRY three-r-plastics-inc HTTP Error 429: Too Many Requests
+RETRY tigon-medical HTTP Error 429: Too Many Requests
+RETRY tischler-wood-products-inc HTTP Error 429: Too Many Requests
+RETRY total-healthcare-solutions HTTP Error 429: Too Many Requests
+RETRY total-packaging-concept-inc HTTP Error 429: Too Many Requests
+RETRY trailblazer-foods HTTP Error 429: Too Many Requests
+RETRY trans-cable HTTP Error 429: Too Many Requests
+ok   Toner Electric Company 
+RETRY texas-microfiber HTTP Error 429: Too Many Requests
+ok   The Wood Shop Iowa 
+RETRY the-big-screen-store HTTP Error 429: Too Many Requests
+ok   Thomsen Foodservice 
+ok   Theatrix Hawaii - Audio Visual Company - Maui 
+RETRY the-brickle-group HTTP Error 429: Too Many Requests
+ok   Thexton Manufacturing Co. 
+RETRY techhelp-idaho-manufacturing-specialists HTTP Error 500: Internal Server Error
+RETRY triangle-sheetmetal HTTP Error 500: Internal Server Error
+ok   Third Coast Apparel 
+ok   Tonkin Parts Center 
+ok   The Treehouse Hardwoods & Mill Shop 
+RETRY triple-f-distributing-a-division-of-imperial-dade HTTP Error 429: Too Many Requests
+RETRY supreme-cable-technology-inc HTTP Error 429: Too Many Requests
+RETRY swagelok-louisiana HTTP Error 429: Too Many Requests
+ok   ThermOmegaTech Electronics Division 
+RETRY triplett-companies HTTP Error 429: Too Many Requests
+RETRY tnt-cable-contractors HTTP Error 429: Too Many Requests
+ok   Timber Woodworking Machinery 
+ok   Thermoplastics Engineering Corporation 
+ok   Top Hook Cable Constructors 
+ok   Tomlin Lighting, Inc. 
+ok   Top Notch Sheet Metal 
+ok   Tradepak Inc 
+RETRY the-cable-company HTTP Error 429: Too Many Requests
+ok   Timbercraft Custom Dovetail Drawers 
+RETRY the-fabric-cobbler HTTP Error 429: Too Many Requests
+ok   Tractor & Equipment Co 
+ok   Tech Packaging 
+ok   Total Plastics, Int’l 
+ok   Stratas Foods 
+PAGE DONE p0441-profiles.json
+ok   Total Packaging Company 
+ok   Traditions in Woodworking 
+RETRY tokyo-ohka-kogyo-america-inc Expecting ',' delimiter: line 83 column 4 (char 4882)
+ok   Texas Capitol Semiconductor 
+ok   Timberline Manufacturing Co 
+ok   The Worden Company 
+ok   Todd’s Warehouse 
+ok   Triad Manufacturing Inc 
+ok   SwitchgearUS 
+PAGE DONE p0444-profiles.json
+ok   Tekton LA (DTLA Showroom) 
+ok   Trexon - EZ Form Cable Corporation 
+ok   The Durham Company 
+ok   Trinity Solar 
+ok   Team Iowa Promotional Products and Apparel 
+ok   The Regrainery | Custom Woodworking & Hand-Built Furniture in Portland, OR 
+ok   The Little Potato Company - Potato Processing, Packaging, Distribution 
+ok   Texas Metal Specialty Co 
+PAGE DONE p0448-profiles.json
+ok   Triad Electronic Technologies 
+ok   TCB Companies Inc. 
+ok   Superior Moulding of Nevada 
+RETRY tritium-electronics Expecting ',' delimiter: line 55 column 4 (char 2883)
+ok   Tundra Apparel & Promotions 
+ok   Troy Industrial Solutions, Maine Fabrication Facility 
+ok   Turners Ridge Wood Workz 
+ok   Tutto Ferro 
+ok   Twin City Sheet Metal 
+ok   Tru Form Metal Products, Inc. 
+ok   Tungsten Parts Wyoming 
+RETRY twisted-metals-welding-fabrication-llc HTTP Error 429: Too Many Requests
+RETRY us-fabricating HTTP Error 429: Too Many Requests
+ok   Two Brothers WoodWorks 
+ok   Twin Marquis Inc. 
+RETRY universal-packaging HTTP Error 429: Too Many Requests
+RETRY total-packaging-concept-inc HTTP Error 429: Too Many Requests
+RETRY trailblazer-foods HTTP Error 429: Too Many Requests
+RETRY triangle-sheetmetal HTTP Error 429: Too Many Requests
+RETRY techhelp-idaho-manufacturing-specialists HTTP Error 429: Too Many Requests
+ok   U.S Pack Group 
+RETRY urbantimbersupply HTTP Error 429: Too Many Requests
+ok   Twin Rivers Foods 
+RETRY supreme-cable-technology-inc HTTP Error 429: Too Many Requests
+ok   TheFuseShop 
+PAGE DONE p0451-profiles.json
+ok   UMEC USA INC 
+RETRY utah-communications-inc HTTP Error 429: Too Many Requests
+ok   Unique wood designs 
+ok   US Med-Equip 
+ok   Ultra Spec Cables Inc 
+ok   United Fabrication 
+ok   USA Auto Parts 
+RETRY tnt-cable-contractors HTTP Error 429: Too Many Requests
+ok   US Electronics Inc 
+ok   The Big Screen Store 
+ok   Unicomp Inc 
+ok   Union Furniture Manufacturing Company 
+ok   Triple F Distributing, a Division of Imperial Dade. 
+ok   Ultimate Truck Off Road 
+ok   Total Healthcare Solutions 
+ok   Universal Manufacturers 
+ok   US Sports and Apparel, Inc. 
+ok   Tigon Medical 
+ok   Upstate Elevator 
+ok   United Manufacturers, Inc. 
+RETRY ultralife-corporation Expecting ',' delimiter: line 60 column 4 (char 4295)
+ok   Unique Custom Furniture 
+ok   Trans Cable 
+ok   Uptime Power Systems Inc. 
+ok   United Plastic Molders 
+ok   Unique Woodworking 
+ok   Usherwood Office Technology 
+ok   UnityPoint at Home - Home Medical Equipment - Des Moines 
+ok   URS Electronics 
+ok   Utah Rustic Furniture by Bradley's 
+RETRY twin-peaks-fabrication-llc 'NoneType' object has no attribute 'group'
+ok   United Semiconductors LLC 
+ok   Tischler Wood Products, Inc. 
+ok   Urtech Manufacturing Florida LLC 
+ok   Triplett Companies 
+ok   UniFirst Uniform Services - Warwick 
+ok   The Brickle Group 
+ok   Three R Plastics Inc 
+PAGE DONE p0452-profiles.json
+RETRY uec-electronics Remote end closed connection without response
+ok   VR Industries, Inc 
+ok   Texas Microfiber 
+ok   The Cable Company 
+PAGE DONE p0449-profiles.json
+ok   Swagelok Louisiana 
+ok   VTi by M. Davis Power Distribution Equipment (owned by M. Davis & Sons, Inc.) 
+RETRY tokyo-ohka-kogyo-america-inc 'NoneType' object has no attribute 'group'
+ok   VSL Packaging Company USA 
+ok   The Fabric Cobbler 
+PAGE DONE p0450-profiles.json
+skip Supreme Cable Technology, Inc. HTTP Error 429: Too Many Requests
+PAGE DONE p0443-profiles.json
+ok   Tritium Electronics 
+PAGE DONE p0455-profiles.json
+skip TNT Cable Contractors HTTP Error 429: Too Many Requests
+PAGE DONE p0445-profiles.json
+RETRY techhelp-idaho-manufacturing-specialists HTTP Error 429: Too Many Requests
+RETRY tokyo-ohka-kogyo-america-inc HTTP Error 429: Too Many Requests
+skip TechHelp - Idaho Manufacturing Specialists HTTP Error 429: Too Many Requests
+PAGE DONE p0447-profiles.json
+ok   Twisted Metals Welding & Fabrication, LLC 
+ok   UrbanTimberSupply 
+ok   Universal Packaging 
+PAGE DONE p0458-profiles.json
+ok   Total Packaging Concept Inc 
+ok   Twin Peaks Fabrication, LLC 
+RETRY us-fabricating 'NoneType' object has no attribute 'group'
+ok   Utah Communications, Inc. 
+PAGE DONE p0459-profiles.json
+ok   Triangle Sheetmetal 
+RETRY ultralife-corporation 'NoneType' object has no attribute 'group'
+ok   Trailblazer Foods 
+PAGE DONE p0454-profiles.json
+ok   UEC Electronics 
+PAGE DONE p0456-profiles.json
+ok   Tokyo Ohka Kogyo America Inc 
+PAGE DONE p0453-profiles.json
+ok   US Fabricating 
+ok   Ultralife Corporation 
+PAGE DONE p0457-profiles.json
+ALL-DONE errors 3 of 200
+collected 196
+steel-masters-nyc | wording/address
+stickbulb | certs ['Climate Neutral Certified', 'B Corp Certified']
+sugar-hollow-solar | wording/address
+summit-electric-supply | nums ['24']
+summit-medical-an-innovia-medical-company | nums ['40']
+summit-packaging-systems | wording/address
+sun-up-zero-down | wording/address
+superior-moulding-of-nevada | nums ['15']
+switchback-medical | certs ['FDA Registered (QSR)']
+switchgearus | certs ['SAM.gov Registered', 'BAA/BABA Compliant']
+temc | wording/address
+tak-communications | nums ['1.2']
+tankersley-food-services | nums ['175,000']
+taurus-engineering-and-manufacturing | certs ['ISO 13485:2016']
+technical-manufacturing-corporation | nums ['2025'] ; certs ['ITAR registered', 'RoHS compliant', 'AS9100D']
+texa-france | certs ['HACCP']
+texas-capitol-semiconductor | wording/address
+the-big-screen-store | wording/address
+the-colorado-tent-company | nums ['80', '30']
+the-durham-company | wording/address
+the-fabric-cobbler | wording/address
+the-treehouse-hardwoods-mill-shop | nums ['50', '85']
+thefuseshop | nums ['1970']
+timber-woodworking-machinery | wording/address
+toner-electric-company | wording/address
+total-healthcare-solutions | nums ['8,500']
+tractor-equipment-co | wording/address
+trexon-ez-form-cable-corporation | nums ['250']
+triple-f-distributing-a-division-of-imperial-dade | nums ['2,400', '2024']
+twin-marquis-inc | certs ['USDA inspected facility']
+urs-electronics | wording/address
+ultimate-truck-off-road | wording/address
+union-furniture-manufacturing-company | wording/address
+unique-custom-furniture | wording/address
+unitypoint-at-home-home-medical-equipment-des-moines | wording/address
+uptime-power-systems-inc | wording/address
+usherwood-office-technology | wording/address
+collected 196
+done steel-city-metal-inc 0 
+done steel-masters-nyc 1 
+done stelray-plastic-products-inc 0 
+done stengel-bros-inc 5 
+done sterling-furniture-co 1 
+done sterling-wire-cable 1 
+done stickbulb 0 
+RETRY sticks-inc Remote end closed connection without response
+done sticks-inc 3 
+done stitch-n-print-inc 3 
+done stixon-labels 0 
+done stockpkg-films 0 
+done stratas-foods 1 
+done streamline-plastics 0 
+done stromberg-metal-works-inc 2 
+done stryker-surgical-technologies 2 
+done stylus-apparel 0 
+done subsalve-usa 1 
+done sugar-hollow-solar 1 
+done suminoe-textile-of-america 1 
+done summit-electric-supply 3 
+done summit-electrical-contractors 3 
+done summit-interconnect-chicago 2 
+done summit-medical-an-innovia-medical-company 1 
+done summit-packaging-systems 3 
+done sun-up-zero-down 1 
+done sun-valley-solar-solutions 2 
+done sunelement-energy-inc 0 
+done sunmade-smart-roofing-solar-fresno-electric 0 
+done sunlight-solar-energy-inc 0 
+done sunmed-medical-systems 0 
+done sunset-outdoor-supply 2 
+done suntra-medtech-solutions 1 
+done superb-metals 0 
+done superior-artisan-wood 0 
+done superior-moulding-of-nevada 1 
+done superior-wire-harness 0 
+done surface-mount-technology-corp 1 
+done swagelok-louisiana 3 
+done swift-creek-trading-co 3 
+done switchback-medical 0 
+done switchgearus 0 
+done sylvester-sheet-metal 3 
+done synchronis-medical-llc 1 
+done synergy-food-group 0 
+done synteen-technical-fabrics 1 
+done sypris-electronics-llc 0 
+done system-packaging-company 2 
+done t-j-mold-tool-co 0 
+done t-m-wood-products-manufacturing-inc 4 
+done tcb-companies-inc 0 
+done tek-electronics-llc 1 
+done temc 3 
+done tfg-denham-springs 1 
+done ths-foodservice 2 
+done tj-woodwork-design 0 
+done tmco-inc 0 
+done tmf-plastic-solutions 0 
+done tms-custom-woodworks-llc 0 
+done top-electronics-usa 1 
+done trocofab 0 
+done tx-metal-solutions 1 
+done tak-communications 1 
+done tallapoosa-river-electric 2 
+done tampa-sheet-metal-co 0 
+done tangent-cable-systems-inc 0 
+done tankersley-food-services 3 
+done tarrier-foods-corporation 0 
+done taste-new-mexico 1 
+done taurus-engineering-and-manufacturing 1 
+done team-apparel-specialties 0 
+done team-iowa-promotional-products-and-apparel 2 
+done team-jdc-gonzales-louisiana 0 
+done tech-electronics-of-kansas-city 0 
+done tech-packaging 3 
+done technical-manufacturing-corporation 0 
+done tecnova-electronics-inc 1 
+done tekton-la-dtla-showroom 3 
+done tele-fonika-cable-americas-crp 0 
+done terrasteel-furniture-design-llc 1 
+done texa-france 2 
+done texas-best-solar 0 
+done texas-capitol-semiconductor 0 
+done texas-components-corporation 4 
+done texas-direct-solar 0 
+done texas-engineered-solar 0 
+done texas-metal-specialty-co 1 
+done texas-metal-works 0 
+done texas-microfiber 1 
+done texas-sheet-metal-services 2 
+done textile-usa-inc 3 
+done the-big-screen-store 2 
+done the-brickle-group 2 
+done the-cable-company 3 
+done the-colorado-tent-company 0 
+RETRY the-duck-company Remote end closed connection without response
+done the-duck-company 2 
+done the-durham-company 1 
+done the-dysyn-group-llc 0 
+done the-electric-and-solar-specialist 1 
+done the-fabric-cobbler 1 
+done the-iron-works-ltd 2 
+done the-john-r-white-company-inc 0 
+done the-joseph-company 5 
+done the-lycra-company-waynesboro-va 3 
+done the-little-potato-company-potato-processing-packaging-distribution 1 
+done the-millwork-lab 0 
+done the-neil-jones-food-company 0 
+done the-regrainery-custom-woodworking-hand-built-furniture-in-portland-or 1 
+done the-salt-licking-goat-clothing-company 6 
+done the-solar-guys 0 
+done the-treehouse-hardwoods-mill-shop 0 
+done the-wood-shop-iowa 0 
+done the-worden-company 0 
+done thefuseshop 4 
+done theatrix-hawaii-audio-visual-company-maui 1 
+done thermomegatech-electronics-division 0 
+done thermoplastics-engineering-corporation 0 
+done thexton-manufacturing-co 1 
+done third-coast-apparel 0 
+done thomsen-foodservice 0 
+done three-r-plastics-inc 0 
+done tigon-medical 2 
+done timber-woodworking-machinery 0 
+done timbercraft-custom-dovetail-drawers 0 
+done timberline-manufacturing-co 2 
+done tischler-wood-products-inc 0 
+done todd-s-warehouse 0 
+done tokyo-ohka-kogyo-america-inc 2 
+done tomlin-lighting-inc 5 
+done toner-electric-company 1 
+done tonkin-parts-center 2 
+done top-hook-cable-constructors 0 
+done top-notch-sheet-metal 1 
+done total-healthcare-solutions 0 
+done total-packaging-company 0 
+done total-packaging-concept-inc 0 
+done total-plastics-int-l 0 
+done tractor-equipment-co 1 
+done tradepak-inc 0 
+done traditions-in-woodworking 2 
+done trailblazer-foods 1 
+done trans-cable 0 
+done trexon-ez-form-cable-corporation 2 
+done triad-electronic-technologies 2 
+done triad-manufacturing-inc 1 
+done triangle-sheetmetal 1 
+done trinity-solar 1 
+done triple-f-distributing-a-division-of-imperial-dade 1 
+done triplett-companies 0 
+done tritium-electronics 2 
+done troy-industrial-solutions-maine-fabrication-facility 1 
+done tru-form-metal-products-inc 0 
+done tundra-apparel-promotions 0 
+done tungsten-parts-wyoming 0 
+done turners-ridge-wood-workz 1 
+done tutto-ferro 0 
+done twin-city-sheet-metal 0 
+done twin-marquis-inc 1 
+done twin-peaks-fabrication-llc 1 
+done twin-rivers-foods 2 
+done twisted-metals-welding-fabrication-llc 0 
+done two-brothers-woodworks 5 
+done u-s-pack-group 0 
+done uec-electronics 0 
+done umec-usa-inc 2 
+done urs-electronics 0 
+done us-electronics-inc 0 
+done us-fabricating 0 
+done us-med-equip 0 
+done us-sports-and-apparel-inc 0 
+done usa-auto-parts 3 
+done ultimate-truck-off-road 1 
+done ultra-spec-cables-inc 1 
+done ultralife-corporation 0 
+done unifirst-uniform-services-warwick 1 
+done unicomp-inc 4 
+done union-furniture-manufacturing-company 1 
+done unique-custom-furniture 1 
+done unique-woodworking 3 
+done unique-wood-designs 0 
+done united-fabrication 3 
+done united-manufacturers-inc 0 
+done united-plastic-molders 2 
+done united-semiconductors-llc 0 
+done unitypoint-at-home-home-medical-equipment-des-moines 3 
+done universal-manufacturers 2 
+done universal-packaging 2 
+done upstate-elevator 3 
+done uptime-power-systems-inc 1 
+done urbantimbersupply 0 
+done urtech-manufacturing-florida-llc 1 
+done usherwood-office-technology 1 
+done utah-communications-inc 1 
+done utah-rustic-furniture-by-bradley-s 3 
+done vr-industries-inc 0 
+done vsl-packaging-company-usa 0 
+done vti-by-m-davis-power-distribution-equipment-owned-by-m-davis-sons-inc 0 
+ALL-DONE errors 0
+clean 195 | sentences removed 195 | needs review 1 | check errors 0
+REVIEW the-salt-licking-goat-clothing-company too short after fact-check (54 words)
+sql parts 3 stories 195

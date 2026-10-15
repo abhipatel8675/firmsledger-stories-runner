@@ -3,41 +3,37 @@
 **Old description:** Jefferson Energy is a Solar & Electrical contractor, backed by in-house electrical crews and expanded capabilities in storage, O&M, and emerging energy technologies.
 
 ## About
-Jefferson Energy was founded in 2011 and operates from Indianapolis, Indiana. The company began as a solar and electrical contractor with a focus on in-house execution.
+Jefferson Energy was founded in 2011 in Indianapolis, Indiana, as a solar and electrical contracting firm. The company operates from its headquarters on Cunningham Road and has grown to serve commercial and industrial clients across the Midwest.
 
-The firm provides turnkey commercial and industrial solar contracting, electrical contracting, solar operations and maintenance, battery energy storage system monitoring, energy management integration, and emerging technology piloting. It reports over 700 completed installations and self-performs critical scope with NABCEP-certified personnel.
+The firm acts as a turnkey contractor for commercial and industrial solar projects, handling design, procurement, and construction with in-house electrical crews and NABCEP‑certified professionals. It also provides solar operations and maintenance, battery energy storage system monitoring, energy management integration, and piloting of emerging renewable technologies. Since inception, the team has completed more than 700 installations, self‑performing critical scope to control quality and schedule.
 
-Customers span hospitality, education, automotive, municipal, multi-family housing, and manufacturing sectors. Representative projects include a 120 kW rooftop array for Home2Suites in Brownsburg, a 1.8 MW ground-mount and rooftop system for Sheridan Community Schools, a 1.1 MW array with SCADA and 500 kWh storage at North Putnam High School, a 125 kW rooftop for Subaru’s Technical Training Center, a 352 kW municipal library installation, a 245 kW multi-family rooftop at Hamilton Place Apartments, and a 188 kW rooftop for manufacturer Lippert.
+Jefferson Energy serves healthcare, military, education, hospitality, manufacturing, municipal, and multi‑family housing sectors. Representative projects include a 1.8 MW ground‑mount and rooftop system for Sheridan Community Schools, a 1.1 MW array with 500 kWh storage and SCADA controls at North Putnam High School, a 125 kW rooftop for Subaru’s technical training center in Lafayette, a 352 kW installation for the Allen County Public Library, and multi‑family rooftop arrays for Hamilton Place Apartments (245 kW) and Kittle Property Group (120 kW).
 
-The company emphasizes trust over hardware, citing partner-first urgency, transparent scopes, and impact-focused design as differentiators. It attributes its approach to detailed scheduling, self-performed critical work, and a long-term accountability mindset.
+The company differentiates itself by emphasizing trust over hardware, promising transparent scopes with no buried fees, detailed schedules that are kept, and a partner‑first approach that treats each project as its own. It avoids common pitfalls — missed timelines, change orders, low‑skill crews — by investing in people, self‑performing critical work, and putting its name on every installation for long‑term accountability.
 
 ## Known for
-- In-house NABCEP-certified professionals
-- Self-perform critical scope
-- Detailed schedules we can actually keep
-- Partner-first approach with transparent scopes
-- Impact-focused design for long-term performance
+- In-house NABCEP‑certified professionals
+- Self‑performance of critical electrical scope
+- Turnkey design, procurement, and construction management
+- Transparent pricing with no buried fees
+- 700+ completed installations since 2011
 
 ## Capabilities
-- Electrical Contracting
-- Commercial Solar Contracting
-- Solar Operations & Maintenance
-- Battery Energy Storage System (BESS) Monitoring & Maintenance
-- Energy Management Integration
-- Emerging Technology Piloting
+- Commercial solar contracting (turnkey design, procurement, construction)
+- Industrial and commercial electrical contracting (switchgear, controls)
+- Solar operations and maintenance (scheduled inspections, preventive maintenance)
+- Battery energy storage system (BESS) monitoring and maintenance
+- Energy management integration (metering, controls, monitoring)
+- Emerging renewable technology piloting and deployment
 
 ## Industries
-- Hospitality
-- Education (K-12)
-- Automotive
-- Municipal/Government
-- Multi-family Housing
-- Manufacturing
 - Healthcare & Medical
 - Military & Defense
-
-## Certifications
-- NABCEP
+- Education (K‑12)
+- Hospitality
+- Manufacturing
+- Municipal government
+- Multi‑family housing
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -46,16 +42,16 @@ The company emphasizes trust over hardware, citing partner-first urgency, transp
 
 <details><summary>Sources</summary>
 
-- Founded 2011 -> db
-- Headquarters Indianapolis, Indiana -> db
+- Founded 2011 -> db and homepage 'SINCE 2011'
+- Headquarters Indianapolis, IN -> homepage address
 - 700+ installs -> homepage
-- In-house team -> homepage
+- In-house electrical crews, NABCEP-certified pros -> homepage
 - Turnkey contractor -> homepage
-- Services: Electrical Contracting, Commercial Solar Contracting, Solar O&M, Battery Storage (BESS), Energy Management, Emerging Technologies -> homepage
-- Portfolio projects: Home2Suites (120 kW), Sheridan High School (1.8 MW), North Putnam High School (1.1 MW with SCADA and 500 kWh storage), Subaru of Indiana (125 kW), Allen County Public Library (352 kW), Kittle Property Group (120 kW), Hamilton Place Apartments (245 kW), Lippert (188 kW), Sheridan Community Schools (1.8 MW) -> homepage
-- Industries served: Healthcare & Medical, Military & Defense -> industries_served
-- NABCEP-certified pros -> homepage
-- Partner-first, transparent, impact-focused differentiators -> homepage
+- Services: electrical contracting, commercial solar, solar O&M, BESS, energy management, emerging tech -> homepage
+- Industries: healthcare, military, education, hospitality, manufacturing, municipal, multi-family -> homepage portfolio and industries_served
+- Project examples: Home2Suites, Sheridan High School, North Putnam High School, Subaru, Allen County Library, Kittle Property Group, Hamilton Place, Lippert, Sheridan Community Schools -> homepage portfolio
+- Differentiators: trust, partner-first, transparent, impact-focused, self-perform, detailed schedules -> homepage 'WHY CHOOSE US?' and 'Where installs go wrong'
+- LinkedIn URL -> db
 </details>
 
 ---
@@ -65,26 +61,20 @@ The company emphasizes trust over hardware, citing partner-first urgency, transp
 **Old description:** Three persons you have known at least one year, exclude relatives. Include at least 1 employer reference.
 
 ## About
-Founded in 1994 in North Salt Lake, Utah, Jensen's Architectural Woodwork, Inc. has operated as a custom commercial cabinet manufacturer for over two decades. The company is privately held, though ownership details such as family or veteran status are not publicly disclosed.
+Jensen's Architectural Woodwork, Inc. has operated from North Salt Lake, Utah since its founding in 1994. The company specializes in custom commercial cabinetry and architectural woodwork, serving clients through a bid-request process from its local facility. Ownership details and founder names are not publicly disclosed.
 
-The shop specializes in custom commercial cabinets and architectural woodwork, producing built-to-specification casework for commercial interiors. No facility size, headcount, or annual volume figures are published, but the focus remains on made-to-order cabinetry rather than stock products.
+The shop focuses on the design, fabrication, and finishing of custom commercial cabinets for a range of interior projects. While specific equipment, workforce numbers, and production volumes are not published, the firm presents itself as a dedicated manufacturer of architectural millwork, handling projects from concept through installation coordination.
 
-Primary customers include general contractors, architects, and commercial developers involved in office, retail, hospitality, and institutional projects. The company directs bid requests to its office email, indicating a project-based workflow with trade professionals.
+Primary customers include general contractors, architects, and commercial developers seeking tailored cabinetry for offices, retail spaces, and institutional buildings. The company directs all bid inquiries to its office email, indicating a project-based workflow typical of the commercial construction sector.
 
-The firm positions its long-standing specialization — "Specializing in Custom Commercial Cabinets since 1994" — as its core differentiator, emphasizing depth of experience in the commercial cabinet niche.
+The company emphasizes its long-standing specialization in custom commercial cabinets since 1994 as a core differentiator, highlighting decades of experience in the architectural woodwork niche.
 
 ## Known for
-- Specializes in custom commercial cabinets
-- Founded in 1994
+- Specializing in custom commercial cabinets since 1994
 
 ## Capabilities
-- Custom commercial cabinets
+- Custom commercial cabinet manufacturing
 - Architectural woodwork
-
-## Industries
-- Commercial construction
-- Architectural woodwork
-- Cabinetry
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -93,11 +83,13 @@ The firm positions its long-standing specialization — "Specializing in Custom 
 
 <details><summary>Sources</summary>
 
-- Founded 1994 -> db
-- Headquarters North Salt Lake, Utah -> db
-- Specializes in custom commercial cabinets since 1994 -> homepage
-- Address 100 West Center Street, North Salt Lake, UT 84054 -> homepage
-- Contact email office@jensensarchwood.com -> homepage
+- Company name: Jensen's Architectural Woodwork, Inc. -> page /
+- Location: North Salt Lake, Utah -> page /, db
+- Founded: 1994 -> db, page /
+- Specialization: Custom Commercial Cabinets -> page /
+- Address: 100 West Center Street, North Salt Lake, UT 84054 -> page /
+- Contact: phone (801) 281 3069, email office@jensensarchwood.com -> page /
+- Accepts bid requests via email -> page /
 </details>
 
 ---
@@ -107,32 +99,42 @@ The firm positions its long-standing specialization — "Specializing in Custom 
 **Old description:** to Jersey Shore Apparel. Through this partnership, we aim to create positive change and make a meaningful impact in the mental health community. By combining our resources and expertise, we will work together to raise awareness, provide support, and drive action towards a shared goal. Together, we believe we can make a difference and contribute to a better future.
 
 ## About
-Jersey Shore Apparel is based in Atlantic Highlands, New Jersey, and has been operating since 2012. The business does not disclose its ownership type, founder names, or the circumstances of its launch in public materials.
+Jersey Shore Apparel is based in Atlantic Highlands, New Jersey, and has been operating since 2012. The company does not publicly disclose its ownership structure, founding individuals, or the specific circumstances of its launch.
 
-The company’s core services are custom screen printing, custom embroidery, and the supply of promotional items, complemented by an online store platform for client orders. The website does not provide information about the physical plant, employee count, typical order volumes, or part-number range.
+The business offers custom screen printing, custom embroidery, and promotional items, and it also provides online store platforms that allow clients to manage custom orders. No information is available about the facility’s square footage, employee count, production volumes, or the range of part numbers handled.
 
-While the company’s description references a partnership aimed at the mental health community, it does not enumerate the industries it regularly serves or name specific customers. The available text suggests the shop works with organizations seeking branded apparel and promotional goods, but no sector list is given.
+The company’s customer base includes organizations looking for decorated apparel and branded merchandise. A partnership described in company materials highlights a collaboration aimed at the mental health community, with a goal of raising awareness, providing support, and driving action toward shared goals.
 
-Jersey Shore Apparel does not articulate a differentiating value proposition or a founding mission in its public-facing content.
+Jersey Shore Apparel points to its partnership-focused model—particularly its work in mental health advocacy—as a factor that sets it apart, though specific operational differentiators such as turnaround times or equipment capabilities are not published.
+
+## Known for
+- Established in 2012
+- Online store platform for custom orders
+- Partnership program supporting mental health awareness
+- Combined screen printing and embroidery services
+- Direct contact for quotes and questions
 
 ## Capabilities
 - Custom screen printing
-- Embroidery
+- Custom embroidery
 - Promotional items
-- Online stores
+- Online store platforms
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 2012
 - **Headquarters:** Atlantic Highlands, New Jersey
 
 <details><summary>Sources</summary>
 
-- Location: Atlantic Highlands, New Jersey -> db
-- Founded: 2012 -> homepage
-- Services: Custom screen printing, embroidery, promotional items, online stores -> homepage
-- Contact emails and phone -> homepage
-- Partnership with mental health community -> description
+- Company name: Jersey Shore Apparel -> db
+- Headquarters: Atlantic Highlands, New Jersey -> db
+- Founded: 2012 (Since 2012) -> /
+- Services: Custom screen printing, embroidery, promotional items, online stores -> /
+- Contact emails: jsa@jerseyshoreapparel.com, jerseyshoreapparel@gmail.com -> /
+- Phone: 732-872-4800 -> /
+- Partnership for mental health community -> db
+- Website: http://jerseyshoreapparel.com/ -> db
 </details>
 
 ---
@@ -142,17 +144,18 @@ Jersey Shore Apparel does not articulate a differentiating value proposition or 
 **Old description:** Manufacturer of Small Diameter Custom Cable, Stranded Wire, Wire Rope & Braided Wire
 
 ## About
-Jersey Strand & Cable, Inc. was established in 1978 in Phillipsburg, New Jersey, where it operates a 100,000-square-foot facility producing wire, strand, and cable products.
+Established in 1978, Jersey Strand & Cable, Inc. operates from a 100,000-square-foot facility in Phillipsburg, New Jersey. The company began as a producer of wire, strand, and cable products and has remained at the same location for over four decades.
 
-The company specializes in small-diameter custom cable, stranded wire, wire rope, and braided wire. Its process capabilities include braiding, stranding, bobbin and winding, single-end operations, ultra-fine wire handling, respooling, wire wrapping, heat treatment, and cut-to-length services. The facility houses hundreds of self-designed and manufactured machines, enabling fully customized solutions in both ferrous and non-ferrous metals.
+The company manufactures small-diameter custom cable, stranded wire, wire rope, and braided wire. Its capabilities include braiding, stranding, bobbin and winding, single-end processing, ultra-fine wire handling, respooling, wire wrapping, heat treatment, and cut-to-length services. Production runs on hundreds of self-designed and built machines, allowing the firm to work with both ferrous and non-ferrous metals.
 
-Jersey Strand & Cable has supplied materials for notable projects such as the Eisenhower Memorial tapestry in Washington, D.C., demonstrating its capacity for specialized architectural and government applications. The firm works in tandem with SINC Inc. to develop innovative product solutions for customers requiring precision wire products.
+Jersey Strand & Cable serves customers needing specialized wire and cable solutions. A notable project includes supplying materials for the Eisenhower Memorial tapestry in Washington, D.C. The company also partners with SINC Inc. to deliver fully customized products from the same New Jersey facility.
 
-The company emphasizes its combined 40-plus years of experience and unique, self-developed manufacturing processes as key differentiators, allowing it to deliver quality specialty wire tailored to exacting requirements.
+The firm emphasizes its combined innovative product development and unique processes as key differentiators, citing more than 40 years of collective experience and an in-house machine shop that designs and fabricates its own equipment.
 
 ## Known for
 - Hundreds of self-designed and manufactured machines
 - Combined innovative product development and unique processes
+- Quality specialty wire in ferrous and non-ferrous metals
 - 100,000 sq ft facility in New Jersey
 - 40+ years of combined experience with SINC Inc.
 
@@ -174,17 +177,15 @@ The company emphasizes its combined 40-plus years of experience and unique, self
 
 <details><summary>Sources</summary>
 
-- Established in 1978 -> /
-- 100,000 sq ft facility in New Jersey -> /
-- Produces wire, strand & cable products -> /
-- Works with SINC INC. -> /
-- Hundreds of self-designed and manufactured machines -> /
+- Founded 1978 -> db
+- 100,000 sq ft facility -> /
+- Phillipsburg, NJ location -> /
 - Processes: Braiding, Stranding, Bobbin & Winding, Single End, Ultra Fine Wire, Respooling, Wire Wrap, Heat Treatment, Cut Length -> /
-- Materials: ferrous and non-ferrous metals -> /
+- Hundreds of self-designed and manufactured machines -> /
 - Eisenhower Memorial tapestry project -> /
-- Location: Phillipsburg, NJ -> /
-- Founded year 1978 -> db
-- Headquarters Phillipsburg, New Jersey -> db
+- Ferrous and non-ferrous metals -> /
+- 40+ years combined experience -> /
+- Partnership with SINC Inc. -> /
 </details>
 
 ---
@@ -194,25 +195,30 @@ The company emphasizes its combined 40-plus years of experience and unique, self
 **Old description:** AOS has been sharing trade on NASDAQ OMX under the ticker symbol AOSL since 2010. Start investing with us today!
 
 ## About
-Jireh Semiconductor, Inc. operates as the dedicated wafer fabrication facility for Alpha and Omega Semiconductor (AOS) in Hillsboro, Oregon. Established as a wholly owned subsidiary of the NASDAQ-listed power semiconductor company (ticker: AOSL), the fab supports AOS’s vertical integration strategy. AOS itself was founded by Dr. Mike F. Chang, who serves as Chairman and Executive Vice President of Strategic Initiatives, and has been publicly traded since 2010.
+Jireh Semiconductor, Inc. operates as the in-house wafer fabrication facility for Alpha and Omega Semiconductor (AOS) in Hillsboro, Oregon. Established as a wholly owned subsidiary of the NASDAQ-listed power semiconductor company (ticker: AOSL), the fab supports AOS’s vertical integration strategy. AOS was founded by Dr. Mike F. Chang, who serves as Chairman and Executive Vice President of Strategic Initiatives.
 
-The facility manufactures wafers for a broad portfolio of power semiconductors, including Power MOSFETs, IGBTs, intelligent power modules (IPMs), and power ICs. AOS emphasizes the integration of discrete and IC process technologies with advanced packaging know-how to deliver high-performance power management solutions. Specific production volumes, facility size, and headcount for the Hillsboro fab are not publicly disclosed.
+The fab produces wafers for a broad portfolio of power semiconductors, including Power MOSFETs, IGBTs, intelligent power modules (IPMs), power ICs, gallium nitride (GaN) transistors, and silicon carbide (SiC) MOSFETs. AOS reports more than 2,300 product offerings and 953 patents, targeting high-volume applications across multiple markets.
 
-The components produced at Jireh ultimately serve markets such as automotive (including EV powertrains), cloud and server infrastructure, telecommunications, computing (graphic cards, notebooks), consumer electronics, home appliances, industrial motor drives, power supplies, and power tools. AOS’s customer base spans original equipment manufacturers and design houses across these sectors.
+The devices manufactured at Jireh serve industries such as automotive, EV powertrain, cloud and server infrastructure, telecom, computing, graphics, notebooks, consumer electronics, home appliances, industrial equipment, power supplies, motor drives, power tools, and AI data centers. End customers include OEMs and system designers in these sectors.
 
-AOS states that its differentiation lies in combining process technology, product design, and packaging expertise under one roof, with quality designed in from product inception through delivery. Jireh’s role as the internal wafer fab enables this end-to-end control, supporting rapid innovation and supply-chain resilience for high-volume applications.
+AOS states that its differentiation comes from integrating discrete and IC semiconductor process technology, product design, and advanced packaging know-how. Jireh’s role as an internal fab enables that integration, allowing tight control over process development and quality from wafer to packaged device.
 
 ## Known for
 - In-house wafer fabrication for vertical integration
-- Integration of discrete and IC semiconductor process technologies
-- Advanced packaging know-how for high-performance power management
-- Quality designed in from product inception to delivery
-- Total participation in quality across all company levels
+- Integration of discrete and IC semiconductor process technology
+- Advanced packaging expertise
+- Broad power semiconductor portfolio (MOSFET, IGBT, IPM, Power IC, GaN, SiC)
 
 ## Capabilities
 - Wafer fabrication
-- Discrete semiconductor process technology
-- IC semiconductor process technology
+- Power MOSFET fabrication
+- IGBT fabrication
+- GaN transistor fabrication
+- SiC MOSFET fabrication
+- Power IC fabrication
+- Intelligent power module (IPM) fabrication
+- Advanced packaging
+- Semiconductor process development
 
 ## Industries
 - Automotive
@@ -229,6 +235,7 @@ AOS states that its differentiation lies in combining process technology, produc
 - Power Supply
 - Motor Drive
 - Power Tool
+- AI Data Center
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -237,16 +244,17 @@ AOS states that its differentiation lies in combining process technology, produc
 
 <details><summary>Sources</summary>
 
-- Jireh Semiconductor is a wholly owned subsidiary of Alpha and Omega Semiconductor Ltd. -> /about
-- Jireh Semiconductor is the in-house wafer fab for AOS -> /about
-- Jireh Semiconductor is located in Hillsboro, Oregon -> /about
-- AOS was founded by Dr. Mike F. Chang -> /about
-- AOS has been publicly traded on NASDAQ under ticker AOSL since 2010 -> /
-- AOS product portfolio includes Power MOSFET, IGBT, IPM, Power IC -> /
-- AOS integrates discrete and IC process technology, product design, advanced packaging -> /
-- AOS serves automotive, EV powertrain, cloud, server, telecom, computing, consumer, industrial, power supply, motor drive, power tool -> /
-- AOS emphasizes quality designed in from inception to delivery -> /
-- AOS practices total participation in quality -> /
+- Company name and subsidiary relationship -> /about page
+- Location: Hillsboro, Oregon -> /about page and db
+- In-house wafer fab for AOS -> /about page
+- Parent company AOS ticker AOSL since 2010 -> db description and / page
+- AOS founder Dr. Mike F. Chang -> /about page
+- Product portfolio: Power MOSFET, IGBT, IPM, Power IC, GaN, SiC -> / page
+- 2,300+ products, 953 patents, $685.9M revenue -> / page
+- Industries served list -> / page and /about page
+- Differentiation: integration of discrete/IC process tech, design, advanced packaging -> /about page
+- Materials: Gallium Nitride (GaN) Transistors, 1200V SiC MOSFETs -> / page
+- LinkedIn URL -> db
 </details>
 
 ---
@@ -256,38 +264,37 @@ AOS states that its differentiation lies in combining process technology, produc
 **Old description:** High-quality lumber, rustic style, excellent craftsmanship. Those are what you look for in wood products, and that’s why you want your furniture or countertop to come from a woodworking shop - not a big box store. At Joel Bare Woodworking we perform
 
 ## About
-Joel Bare Woodworking operates from Bird in Hand, Pennsylvania, in the heart of Lancaster County. The shop has been producing custom wood pieces for nearly two decades, though a specific founding year is not publicly stated. Ownership details such as family or veteran status have not been disclosed.
+Joel Bare Woodworking operates from Bird in Hand, Pennsylvania, serving customers across Pennsylvania, Maryland, and New York. The shop has been creating custom wood products for nearly two decades, though a specific founding year is not disclosed. Ownership details and founder names are not publicly stated.
 
-The company specializes in custom woodworking for residential and light commercial projects. Its craftsmen hand-build countertops, dining tables, bar tops, and butcher-block surfaces using domestic, reclaimed, and exotic species such as cherry, maple, walnut, wenge, and zebrano. Processes include traditional joinery, optional hand-planing, and a wide selection of stains, finishes, and edge profiles. No facility size, headcount, or annual volume figures are published.
+The company produces custom furniture, countertops, butcher block tops, bar tops, and dining tables. Each piece is hand-made by craftsmen using time-tested construction techniques, optional hand-planing, and a wide selection of stains, finishes, and edge profiles. Materials include responsibly sourced domestic, reclaimed, and exotic lumber such as cherry, maple, walnut, wenge, and zebrano.
 
-Clients are primarily homeowners, designers, and builders across Pennsylvania, New York, and Maryland. Projects range from kitchen countertops and basement bar tops to dining-room tables meant for family gatherings. The shop emphasizes a collaborative design process, working with each customer from concept through final installation.
+The shop serves residential clients and commercial projects in the tri-state area, delivering custom woodwork for kitchens, bars, and dining spaces. Projects range from dining room tables to basement bar tops, with a collaborative design process that involves the client at every step.
 
-Joel Bare Woodworking distinguishes itself through a cooperative, client-focused approach and a commitment to responsibly sourced lumber. The company states that its time-tested construction techniques and hand-finished details set its pieces apart from mass-produced alternatives.
+The company emphasizes a cooperative experience, combining hand-crafted quality with a collaborative approach to ensure each piece is one of a kind. They position themselves as an alternative to big-box stores, focusing on high-quality lumber and rustic style.
 
 ## Known for
-- Collaborative design and build process with clients
-- Hand-made construction using time-tested techniques
-- Optional hand-planing and extensive stain, finish, and edge-profile options
+- Hand-made by craftsmen using time-tested techniques
+- Collaborative design and build process with client involvement
 - Responsibly sourced domestic, reclaimed, and exotic lumber
-- Service area covering Pennsylvania, New York, and Maryland
+- Wide variety of stain, finish, and edge profile options
+- Nearly two decades of custom woodworking experience
 
 ## Capabilities
 - Custom woodworking
-- Hand-planing
-- Stain application
-- Finish application
-- Edge profiling
-- Collaborative design
-- Countertop fabrication
 - Furniture making
+- Countertop fabrication
 - Butcher block countertop fabrication
-- Traditional joinery
+- Bar top fabrication
+- Dining table fabrication
+- Hand-planing
+- Staining
+- Finishing
+- Edge profiling
 
 ## Industries
 - Residential
-- Commercial
-- Furniture
-- Countertop fabrication
+- Custom furniture
+- Countertops
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -295,14 +302,14 @@ Joel Bare Woodworking distinguishes itself through a cooperative, client-focused
 
 <details><summary>Sources</summary>
 
-- Location: Bird in Hand, Pennsylvania -> db
-- Operating nearly two decades -> /
-- Custom woodworking for PA, NY, MD -> /
-- Hand-made by craftsmen using time-tested techniques -> /
+- Location: Bird in Hand, Pennsylvania -> /
+- Service area: Pennsylvania, Maryland, New York -> /
+- Experience: nearly two decades -> /
+- Products: custom furniture, countertops, butcher block tops, bar tops, dining tables -> /
+- Processes: hand-made, time-tested construction techniques, optional hand-planing, staining, finishing, edge profiling -> /
 - Materials: cherry, maple, walnut, wenge, zebrano, domestic, reclaimed, exotic lumber -> /
-- Processes: hand-planing, stain, finish, edge profiles -> /
-- Products: countertops, furniture, bar tops, dining tables, butcher block -> /
 - Collaborative design process -> /
+- Company type: manufacturer (custom woodworking shop) -> /
 </details>
 
 ---
@@ -312,24 +319,23 @@ Joel Bare Woodworking distinguishes itself through a cooperative, client-focused
 **Old description:** Never run out. Ensure your top-running SKUs are always on hand and ready for just-in-time delivery.
 
 ## About
-Arcane Industries operates from Harrison, Arkansas, where it was founded in 1976. The company has grown over nearly five decades into a plastics manufacturing operation serving industrial and commercial markets. Leadership today includes Chief Executive Officer Michael Hickmon and President Jess Cole, who was appointed in a recent leadership announcement.
+Headquartered in Harrison, with operations in the Little Rock area, Arcane Industries was founded in 1976. With over 50 years of experience, the company has grown into a comprehensive plastics manufacturing partner specializing in injection molding, extrusion, and tooling.
 
-The company provides injection molding, extrusion, and tooling services under one roof. Its injection molding department runs machines from 60 to 1,450 tons, delivering 570,240 hours of machine time annually for both high- and low-volume component production. The extrusion line specializes in continuous-length HDPE conduit from 12 mm to 12 in., with smooth, corrugated, toneable, and cable-in-conduit configurations. An in-house tool and die shop handles CNC milling, turning, EDM, surface grinding, and heat treating, supported by veteran engineers and skilled mold makers who also manage comprehensive maintenance programs.
+Its injection molding capacity spans 60 to 1,450 tons, supported by 570,240 machine hours annually, and it produces HDPE conduit in sizes from 12 mm to 12 inches. The in-house tool and die shop provides CNC milling, turning, EDM, surface grinding, and heat treating, with skilled mold makers and veteran engineers handling design through maintenance. The facility includes advanced machining centers and mold-making equipment.
 
-Arcane serves electric utility, renewable energy, irrigation, telecommunications, and data‑voice sectors with its conduit products. Its B2B stocking program supplies just‑in‑time delivery to major e‑commerce retailers such as Walmart and Amazon, as well as other industrial customers who require consistent SKU availability. The company also offers standard truckload and LTL outbound shipping.
+The company serves electric utility, renewable energy, irrigation, telecommunications, and data communications sectors, and runs a B2B stocking program for just-in-time delivery. It also provides private-label services for major e-commerce retailers such as Walmart and Amazon.
 
-Arcane emphasizes a combination of innovation, economical production, and sustainability, describing its approach as 'Streamlined. Smart. Sustainable.' The stocking program was created to ensure customers never run out of top‑running SKUs, and the company states that getting precision right matters because it affects end‑use performance in demanding environments.
+Arcane says it differentiates itself by combining innovation with economical, sustainable solutions, aiming to redefine plastics manufacturing through a program that addresses environmental, social, and economic responsibility.
 
 ## Known for
-- B2B stocking program with just-in-time delivery for top-running SKUs
-- Injection molding capacity from 60 to 1,450 tons (570,240 machine hours/year)
-- In-house tool and die shop with CNC milling, turning, EDM, surface grinding, and heat treating
-- HDPE conduit extrusion in sizes from 12 mm to 12 in. with custom configurations
-- Sustainability-focused manufacturing using engineered and commodity resins
+- Injection molding from 60 to 1,450 tons with 570,240 annual machine hours
+- HDPE conduit extrusion in sizes from 12 mm to 12 inches
+- Full in-house tooling: CNC milling, turning, EDM, surface grinding, heat treating
+- B2B stocking program for just-in-time delivery of top-running SKUs
+- Private-label services for Walmart, Amazon, and other e-commerce retailers
 
 ## Capabilities
-- Injection Molding
-- Plastic Extrusion
+- Plastic Injection Molding
 - HDPE Conduit Extrusion
 - CNC Milling
 - CNC Turning
@@ -337,20 +343,29 @@ Arcane emphasizes a combination of innovation, economical production, and sustai
 - Surface Grinding
 - Heat Treating
 - Tool & Die Making
-- Mold Making
-- Tool Maintenance & Repair
-- B2B Stocking Program
-- Just-in-Time Delivery
-- LTL/Truckload Shipping
+- Mold Design and Build
+- Tool Maintenance and Repair
+- B2B Inventory Stocking Program
+- Private Label Services
+- Truckload and LTL Shipping
+- Sustainability Consulting
 
 ## Industries
 - Electric Utility
 - Renewable Energy
 - Irrigation
 - Telecommunications
-- Data Voice
-- E-commerce
+- Data Communications
+- E-commerce Retail
 - Consumer Products
+
+## Equipment
+- Injection molding machines (60-1,450 ton)
+- CNC machining centers
+- EDM machines
+- Surface grinders
+- Heat treating furnaces
+- Mold-making equipment
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -361,16 +376,21 @@ Arcane emphasizes a combination of innovation, economical production, and sustai
 
 - Founded 1976 -> db
 - Headquarters Harrison, Arkansas -> db
+- Operations in Little Rock area -> /
+- Over 50 years experience -> /
 - Injection molding 60-1450 tons -> /
-- 570,240 machine hours annually -> capabilities list
-- HDPE conduit 12mm to 12 inches -> /
+- 570,240 hours annual machine capacity -> capabilities list (db)
+- HDPE conduit extrusion 12mm to 12 inches -> /
+- Tooling services: CNC milling, turning, EDM, surface grinding, heat treating -> /
+- Skilled tool and mold makers, veteran engineers -> /
 - Industries: electric utility, renewables, irrigation, telecom, data -> /
-- Tooling: CNC milling, turning, EDM, surface grinding, heat treating -> /
-- Stocking program for Walmart, Amazon -> capabilities list
-- Leadership: Michael Hickmon CEO, Jess Cole President -> /about
-- Sustainability focus -> /
-- Facility size mentioned but not specific -> /
-- Materials: HDPE, engineered resins -> /
+- B2B stocking program for just-in-time delivery -> /
+- Private label services for Walmart, Amazon -> capabilities list (db)
+- Sustainability program -> /
+- Leadership team names -> /about
+- Facility includes advanced machining centers and mold-making equipment -> capabilities list (db)
+- Standard truckload and LTL outbound services -> capabilities list (db)
+- Materials: HDPE, commodity resins, engineered resins -> /
 </details>
 
 ---
@@ -380,36 +400,40 @@ Arcane emphasizes a combination of innovation, economical production, and sustai
 **Old description:** A Family-Owned American Company Creating Quality Outdoor Products Since 1975.
 
 ## About
-Jordan Manufacturing Company was founded in 1975 by Dave Jordan in the basement of his Peoria, Illinois home. The business relocated to Monticello, Indiana in 1985 and has remained family‑owned and operated ever since. In 2021, founder Dave Jordan was succeeded by his daughter, Ashley Budd, continuing the second‑generation leadership.
+Jordan Manufacturing Company was founded in 1975 by Dave Jordan in the basement of his Peoria, Illinois home, where he began building wood furniture and accessories. The family-owned business relocated to Monticello, Indiana in 1985, consolidating multiple production facilities into a single location. Today the company remains family-owned and operated, with founder Dave Jordan succeeded by his daughter Ashley Budd as CEO in 2021.
 
-The company produces a broad line of outdoor soft goods, including patio furniture cushions, throw pillows, poufs, and market umbrellas. Manufacturing is vertically integrated: fiber batting fill is produced in‑house, custom designs are developed on site, and cut‑and‑sew operations run at facilities in Monticello and Kentland, Indiana, as well as in Ho Chi Minh City, Vietnam. The Monticello campus includes a state‑of‑the‑art plant built in 2005 after a fire, and the Kentland facility opened in 2018.
+The company manufactures a broad line of outdoor furnishings, including patio furniture cushions, throw pillows, poufs, and market umbrellas. Production is vertically integrated, encompassing custom design, fiber batting fill production, and cut-and-sew operations. Jordan Manufacturing operates a headquarters and production facility in Monticello, a newer production facility in Kentland, Indiana (opened 2018), and a cut-and-sew facility in Ho Chi Minh City, Vietnam (opened 2012).
 
-Jordan serves the outdoor furniture and accessory market, supplying retailers, e‑commerce brands, and catalog merchants. A dropship program launched in 1999 supports online retailers, while custom product development helps brands differentiate their assortments. Customers range from national home‑furnishings chains to specialty patio dealers.
+Jordan Manufacturing serves the outdoor furniture and accessory industry, supplying retailers and e-commerce channels through a dropship program introduced in 1999. The company partners with customers to provide customized products and smart solutions, catering to both large-volume orders and specialized design requests.
 
-The company emphasizes ethical and sustainable practices. All facilities are Sedex members and SMETA compliant, and the business earned Global Recycle Standard (GRS) certification in 2022. Vertical integration and proprietary equipment are cited as the basis for competitive pricing and fast turnaround, allowing Jordan to offer customized solutions without sacrificing quality.
+The company emphasizes its Sedex membership and SMETA compliance across all facilities, as well as a Global Recycle Standard (GRS) certification earned in 2022. Its vertically integrated process, state-of-the-art equipment, and focus on fast turnaround times are cited as key differentiators, along with a commitment to American craftsmanship and original designs.
 
 ## Known for
-- Vertically integrated manufacturing from fiber fill to finished goods
-- Sedex member with SMETA‑compliant facilities worldwide
-- Global Recycle Standard (GRS) certified since 2022
-- Dropship fulfillment program for online retailers
-- In‑house custom design and pattern development
+- Sedex member with SMETA-compliant facilities
+- Global Recycle Standard (GRS) certified
+- Vertically integrated manufacturing process
+- State-of-the-art equipment for fast turnaround
+- Custom design and dropship capabilities
 
 ## Capabilities
 - Cut-and-sew manufacturing
 - Fiber batting fill production
-- Custom design and pattern development
-- Dropship fulfillment
+- Custom product design
+- Dropship program management
 - Outdoor cushion and pillow manufacturing
 - Market umbrella manufacturing
 - Pouf manufacturing
+- Vertically integrated production
 
 ## Industries
-- Outdoor furniture and accessory industry
-- Online retail
-- Home furnishings
+- Outdoor furniture
+- Home accessories
+- Retail
+- E-commerce
 
 ## Certifications
+- Sedex
+- SMETA
 - Global Recycle Standard (GRS)
 
 ## Company details
@@ -420,21 +444,17 @@ The company emphasizes ethical and sustainable practices. All facilities are Sed
 
 <details><summary>Sources</summary>
 
-- Founded 1975 by Dave Jordan in Peoria, Illinois -> /about-us
-- Relocated to Monticello, Indiana in 1985 -> /about-us
+- Founded in 1975 by Dave Jordan -> /about-us
 - Family-owned and operated -> /about-us
-- CEO succession to Ashley Budd in 2021 -> /about-us
-- Products: patio cushions, throw pillows, poufs, market umbrellas -> /
-- Vertically integrated process with in-house fiber batting fill production -> /about-us
-- Cut-and-sew facility in Ho Chi Minh City, Vietnam opened 2012 -> /about-us
-- Facilities in Monticello and Kentland, Indiana -> /about-us
-- State-of-the-art plant built in Monticello 2005 -> /about-us
-- Kentland, Indiana facility opened 2018 -> /about-us
+- Headquarters in Monticello, Indiana -> /about-us
+- Manufacturing facilities in Kentland, IN and Ho Chi Minh City, Vietnam -> /about-us
 - Sedex member, SMETA compliant -> /about-us
-- Global Recycle Standard (GRS) certification earned 2022 -> /about-us
-- Dropship program introduced 1999 -> /about-us
-- Custom design and pattern development -> /about-us
-- Serves outdoor furniture and accessory industry, online retail, home furnishings -> /about-us
+- Global Recycle Standard (GRS) certification 2022 -> /about-us
+- Products: outdoor throw pillows, patio cushions, poufs, market umbrellas -> /
+- Vertically integrated process, custom design, fiber batting fill production -> /about-us
+- Dropship program since 1999 -> /about-us
+- State-of-the-art equipment, fast turnaround -> /about-us
+- CEO succession to Ashley Budd in 2021 -> /about-us
 </details>
 
 ---
@@ -444,53 +464,51 @@ The company emphasizes ethical and sustainable practices. All facilities are Sed
 **Old description:** Specializing in the highest quality natural fibers and textiles for sewing garments. We carry just about everything, including but not limited to: cotton, linen, silk, wool, lace, unique buttons, ribbon and trims. We also offer one-on-one project consultations. Come visit us and be inspired!
 
 ## About
-Josephine's Dry Goods operates as a fabric boutique in Portland, Oregon, at 2609 SE Clinton Street. Ownership details and founder names are not publicly disclosed.
+Josephine's Dry Goods operates a fabric boutique at 2609 SE Clinton Street in Portland, Oregon. The business has been active since at least 2007, as indicated by its copyright notice, and trades under the name Josephine's Dry Goods. No founder is identified in the available materials, and no specific ownership designation such as family-, veteran-, or woman-owned is stated.
 
-The shop specializes in natural fibers and textiles for garment sewing, stocking cotton, linen, silk, wool, lace, and a wide array of notions including over 1,000 buttons, ribbons, and trims. It claims the largest physical selection of Liberty of London fabrics in the Pacific Northwest. Beyond retail, the store offers one-on-one project consultations, thread matching, and referrals to local tailors, seamstresses, and upholsterers for custom clothing projects.
+The shop curates and sells natural-fiber textiles and sewing notions for garment making. Its inventory spans cotton, linen, silk, wool, lace, ribbon, trims, and a button selection exceeding 1,000 SKUs. The company highlights the largest physical assortment of Liberty of London fabrics in the Pacific Northwest. Beyond retail, it offers one-on-one project consultations and refers customers to local tailors, seamstresses, and upholsterers for custom clothing work. Orders placed online ship to U.S. addresses via USPS within three to four business days.
 
-The boutique serves individual sewists, garment makers, and craft enthusiasts, as well as professionals seeking couture fabrics and upholstery materials. Customers include those looking for high-quality natural fibers for personal projects, and designers sourcing specialty fabrics such as Liberty of London prints. The store also assists clients needing custom clothing guidance, connecting them with local sewing professionals.
+The primary customers are individual sewers, hobbyists, and small-scale garment makers seeking high-quality natural fibers and specialized notions. The boutique also serves clients looking for couture-level fabric guidance and connections to professional stitching services. No industrial or wholesale accounts are described in the source material.
 
-Josephine's Dry Goods emphasizes an in-person shopping experience, with a curated global selection of fabrics and a deep inventory of buttons described as the most extensive north of San Francisco. The company positions itself as a destination for inspiration and expert consultation rather than solely an online retailer, noting that not all items are listed on its website.
+The business distinguishes itself through a curated, in-person shopping experience, a deep stock of Liberty of London prints, an unusually large button inventory, and personalized consultation service. The emphasis on natural fibers and the physical breadth of the selection are presented as core differentiators.
 
 ## Known for
 - Largest physical selection of Liberty of London fabrics in the Pacific Northwest
 - Over 1,000 buttons in stock
-- One-on-one project consultations and thread matching
-- Curated natural fibers sourced globally
-- In-person focused retail experience
+- One-on-one project consultations
+- Curated natural-fiber textiles from global sources
+- Focus on in-person boutique experience
 
 ## Capabilities
-- Fabric retail
+- Fabric curation and retail
 - Notions retail
-- Project consultation
-- Thread matching
-- Custom clothing referral
-- Specialty item sourcing
+- Sewing project consultation
+- Tailor and seamstress referral
+- Online order fulfillment (US domestic)
 
 ## Industries
+- Fabric retail
+- Sewing supplies retail
+- Textile retail
 - Apparel sewing
-- Couture clothing
-- Upholstery
 
 ## Company details
 - **Company Type:** Retailer
+- **Founded:** 2007
 - **Headquarters:** Portland, Oregon
 
 <details><summary>Sources</summary>
 
-- Company name: Josephine's Dry Goods -> db
-- Headquarters: Portland, Oregon -> db
-- Address: 2609 SE Clinton Street, Portland, Oregon -> /
-- Business type: luxurious fabric boutique -> /
-- Specialization: natural fibers and textiles for sewing garments -> /
-- Product range: cotton, linen, silk, wool, lace, buttons, ribbon, trims -> /
-- Services: one-on-one project consultations, thread matching, custom clothing referrals -> /
-- Notable inventory: over 1,000 buttons, largest physical selection of Liberty of London fabrics in Pacific Northwest -> /
-- Hours: Thursday-Monday 11am-6pm, closed Tuesday/Wednesday -> /
-- Shipping: US addresses only, via USPS within 3-4 business days -> /
-- In-person focus: not all items listed online -> /
-- Customer testimonial referencing 20-year history -> /
-- Copyright 2007-2026 -> /
+- Location: 2609 SE Clinton Street, Portland, Oregon -> /
+- Founded 2007 (copyright 2007-2026) -> /
+- Specializes in natural fibers and textiles for sewing garments -> /
+- Carries cotton, linen, silk, wool, lace, buttons, ribbon, trims -> /
+- Offers one-on-one project consultations -> /
+- Over 1,000 buttons in stock -> /
+- Largest physical selection of Liberty of London fabrics in Pacific Northwest -> /
+- Refers customers to local tailors, seamstresses, upholsterers -> /
+- Ships to US addresses only via USPS within 3-4 business days -> /
+- Hours: Thursday-Monday 11am-6pm, closed Tue/Wed -> /
 </details>
 
 ---
@@ -500,45 +518,49 @@ Josephine's Dry Goods emphasizes an in-person shopping experience, with a curate
 **Old description:** We have been a family-owned small business in the upstate since 1965!
 
 ## About
-Joyce Food Equipment Co has operated as a family-owned small business in Greenville, South Carolina, since 1965. Founded as a local supplier, the company serves the upstate region from its location on Wade Hampton Boulevard, building a reputation over nearly six decades of continuous operation.
+Joyce Food Equipment Co has operated as a family-owned small business in Greenville, South Carolina, since 1965. Founded in the upstate region, the company has remained under family ownership for nearly six decades and serves customers from its location on Wade Hampton Boulevard.
 
-The business combines retail and service operations, offering a showroom for used and new food-service equipment along with small wares, while its technicians perform on-site repair calls for restaurant kitchens. An in-store knife-sharpening service is also offered at a flat rate of $2.75 per knife (excluding serrated blades).
+The business combines a retail showroom with a field service operation. Customers can purchase used and new food-service equipment as well as small wares directly from the store, while technicians travel to restaurants and other commercial kitchens for on-site repairs. An in-store knife-sharpening service is also offered at a flat rate of $2.75 per knife (serrated blades excluded). The company focuses on distribution and maintenance of food-service equipment rather than manufacturing.
 
-Customers include restaurants and institutional kitchens such as church facilities. Testimonials reference timely ice-machine repairs and a broad selection of used equipment, highlighting the company's responsiveness and inventory depth.
+The primary customers are restaurants, institutional kitchens such as church facilities, and other food-service operators in the area. Testimonials highlight quick response times for emergency repairs and a broad selection of equipment.
 
-The company emphasizes its long-standing local presence and family ownership as the foundation of its service approach, positioning itself as a neighborhood resource for food-equipment sales and maintenance.
+The company emphasizes its long-standing local presence and personal service, though it does not publish a formal mission statement.
 
 ## Known for
 - Family-owned and operated since 1965
-- On-site restaurant equipment repair calls
+- On-site restaurant equipment repair service calls
 - In-store knife sharpening at $2.75 per knife
-- Showroom with used and new food-service equipment
+- Retail showroom for used and new food-service equipment
+- Small wares available for immediate purchase
 
 ## Capabilities
-- Retail sales of used food-service equipment
-- Retail sales of new food-service equipment
+- Restaurant equipment repair
+- Knife sharpening
+- Retail sales of used food equipment
+- Retail sales of new food equipment
 - Retail sales of small wares
-- On-site restaurant equipment repair
-- In-store knife sharpening
 
 ## Industries
 - Restaurant
-- Institutional food service
+- Food service
+- Church kitchen
 
 ## Company details
 - **Company Type:** Retailer
 - **Founded:** 1965
-- **Ownership:** Family-owned small business
+- **Ownership:** Family-owned, Small business
 - **Headquarters:** Greenville, South Carolina
 
 <details><summary>Sources</summary>
 
-- Family-owned small business since 1965 -> /
-- Headquartered in Greenville, South Carolina -> db
-- Offers in-store shopping for used equipment, new equipment, and small wares -> /services
-- Provides on-site restaurant equipment repair service calls -> /services
+- Founded in 1965 -> db
+- Family-owned small business -> db, /
+- Headquarters in Greenville, South Carolina -> db, /
+- Offers restaurant equipment repair service calls -> /services
 - Offers in-store knife sharpening at $2.75 per knife -> /services
-- Serves restaurants and institutional kitchens (e.g., church kitchen) -> /
+- Sells used equipment, new equipment, and small wares in retail showroom -> /services
+- Serves restaurants and church kitchens -> /
+- Emphasizes timely, professional service and reasonable pricing -> /
 </details>
 
 ---
