@@ -186,7 +186,7 @@ The founder’s stated vision is that unique spaces deserve unique furniture, a 
 
 # 24 Hour Tees®
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: The read operation timed out_
 
 # 307 Clothing Headquarters & Store "307 Social Club"
 

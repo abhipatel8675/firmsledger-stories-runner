@@ -88,7 +88,7 @@ The company emphasizes a full-service model under one roof: multiple decoration 
 <details><summary>Sources</summary>
 
 - Location: 180 Johnson St., Middletown, CT 06457 -> /
-- Phone: 1-860-652-2292, email: sales@wearhouse.io -> /
+- Phone: , email:  -> /
 - Business description: local print shop offering custom t-shirt printing, apparel, promotional products -> /
 - Services: screen printing, DTG, embroidery, DTF, laser engraving, sublimation, cylindrical printing -> /
 - Policy: does not accept customer supplied garments; offers large catalog of blanks -> /
@@ -298,7 +298,7 @@ Weiss Sheet Metal emphasizes its family-owned, hands-on approach and a team with
 
 # Wells Plastic Inc
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: Remote end closed connection without response_
 
 # Wells Wood Turning & Finishing
 

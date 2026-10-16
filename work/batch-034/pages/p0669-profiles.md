@@ -176,7 +176,7 @@ The company’s guiding principle, “Where the Unusual is Commonplace,” refle
 - Tagline: Where the Unusual is Commonplace -> /
 - Offers prototype to production services -> /
 - Address: 151 Mont Vernon Road, Milford, NH 03055 -> /
-- Phone: (603)673-1763 -> /
+- Phone:  -> /
 </details>
 
 ---
@@ -245,7 +245,7 @@ WireNut emphasizes a "No Surprises Promise" that includes upfront pricing, 30-mi
 
 # WireTek, Inc.
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: The read operation timed out_
 
 # Wiringproducts, Ltd.
 

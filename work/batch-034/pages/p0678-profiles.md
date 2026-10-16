@@ -67,11 +67,11 @@ _skipped: not enough facts_
 
 # AK Clothing Company
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: Remote end closed connection without response_
 
 # AK Good Wood
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: Remote end closed connection without response_
 
 # ALL SKY ENERGY, LLC.
 
@@ -177,7 +177,7 @@ The operation emphasizes accessible technical assistance and streamlined order p
 
 # AT THE PEAK SPORTSWEAR CO.
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: Remote end closed connection without response_
 
 # AVNA - Formerly OKAY Industries (Berlin, CT)
 

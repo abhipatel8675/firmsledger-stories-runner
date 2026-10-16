@@ -178,7 +178,7 @@ The company states its goal is to become one of the world's top-level manufactur
 
 # Yanke Machine Shop & Fabrication
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 502: Bad Gateway_
 
 # Yarrington Mills Corporation
 

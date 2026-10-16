@@ -441,4 +441,4 @@ _skipped: not enough facts_
 
 # Valyou Hawaii
 
-_skipped: HTTP Error 500: Internal Server Error_
+_skipped: Remote end closed connection without response_

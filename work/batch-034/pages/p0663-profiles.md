@@ -1,6 +1,6 @@
 # W.L. Fuller, Inc.
 
-_skipped: Remote end closed connection without response_
+_skipped: The read operation timed out_
 
 # W2U Apparel
 

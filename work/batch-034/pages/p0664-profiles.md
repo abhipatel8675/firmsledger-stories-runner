@@ -181,7 +181,7 @@ The company emphasizes responsive communication and rapid turnaround on quotatio
 - Processes: molded assemblies, mechanical assembly, over-molded strain reliefs, smart cables with PCB, wire harnesses -> / (Design Gallery, Manufacturing)
 - Differentiators: communication focus, fast turnaround, no-nonsense support -> /, /about-us
 - Address: 2052 West 700 South, Unit D & E, Springville, Utah 84663 -> /about-us
-- Phone: (801) 800-8378 -> /, /about-us
+- Phone:  -> /, /about-us
 - ISO processes mentioned (standard not specified) -> /, /about-us
 </details>
 
@@ -302,7 +302,7 @@ Wasatch Container emphasizes a collaborative four‑step process — Design & Di
 
 # Wasatch Steel
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: Remote end closed connection without response_
 
 # Washington Packaging Supply Co
 

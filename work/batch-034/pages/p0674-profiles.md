@@ -51,7 +51,7 @@ The company’s stated mission is to deliver simplified innovation for injectabl
 
 # Yutzy Woodworking
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: Remote end closed connection without response_
 
 # ZM Sheet Metal Inc.
 
@@ -473,4 +473,4 @@ The company emphasizes its HaRP™ technology for reducing gate lag and insertio
 
 # rose plastic USA, L.L.L.P.
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: The read operation timed out_

@@ -154,7 +154,7 @@ Woodland Manufacturing emphasizes that it carries no stock inventory; every lett
 - Serves businesses, churches, government, industrial, events, personal/crafting -> /services
 - Company is Woodland Manufacturing, LLC -> /
 - Hours M-F 7am-5pm MDT -> /
-- Phone 1-800-705-4020 -> /
+- Phone  -> /
 </details>
 
 ---
@@ -374,15 +374,15 @@ The firm emphasizes digital ordering convenience for its wholesale accounts, tho
 - Trade names: Woodward Auto Parts, King of All Parts -> page /
 - Locations: 827 Church St, New Bedford, MA 02745; 148 N Montello St, Brockton, MA 02301-3916 -> page /
 - Wholesale ordering platform: ePartConnection -> page /
-- Phone: (508) 587-3609 -> page /
-- Email: kingofallparts@gmail.com -> page /
+- Phone:  -> page /
+- Email:  -> page /
 </details>
 
 ---
 
 # Woody’s Woodshop AZ
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: Remote end closed connection without response_
 
 # Woonsocket Auto Salvage
 

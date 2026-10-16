@@ -237,8 +237,8 @@ Wildwoods emphasizes a real-time quality assurance program that tracks each piec
 - Seven-step quality startup process -> /quality
 - Businesses and mills source lumber from the company -> /
 - Custom furniture includes tables, chairs, cabinets, desks -> /
-- Contact email ryanhexum@msn.com -> /
-- Phone 715-934-2233 -> /
+- Contact email  -> /
+- Phone  -> /
 - Address 16790 US Hwy 63, Hayward, WI 54843 -> /
 </details>
 
@@ -376,19 +376,16 @@ Ching attributes the firm's reputation to a team-based approach—he holds the v
 **Old description:** Get faster, reliable production with U.S.-based electronics manufacturing.
 
 ## About
-Win2uit Electronics operates from Louisville, Kentucky, where its facility sits within a day's drive of 65 percent of the U.S. population. The business runs as an electronic manufacturing services division under the Winston Industries umbrella and draws on more than 30 years of industry experience, though a specific founding year is not disclosed. Leadership includes plant manager Rick Smith and director of manufacturing operations Jennifer Poppell.
+population. Leadership includes plant manager Rick Smith and director of manufacturing operations Jennifer Poppell.
 
-The company provides full-turnkey EMS capabilities: printed circuit board assembly with surface-mount and through-hole placement (including 0201 components and D2Pak packages), reflow soldering, conformal coating at 25–250 µm, intelligent SMT rework, and box build. Cable and harness production uses KOMAX wire processing with crimp-and-seal insertion, supporting wire-to-wire and wire-to-board assemblies with connectors from Molex, TE, and other premium brands. Output is characterized as high-mix, low-to-mid-volume.
+Cable and harness production uses KOMAX wire processing with crimp-and-seal insertion, supporting wire-to-wire and wire-to-board assemblies with connectors from Molex, TE, and other premium brands. Output is characterized as high-mix, low-to-mid-volume.
 
 Win2uit serves customers in aerospace and industrial automation, citing those sectors as primary applications for its custom cable assemblies and wiring harnesses. The shop also supports foodservice equipment manufacturers and works with both startups and established OEMs seeking a single-source partner for PCB assembly, testing, packaging, and supply-chain management.
 
-The firm emphasizes its domestic location as a supply-chain advantage, coupled with ISO 9001-certified quality processes and a team that has developed proprietary techniques for evaluating QFN and BGA solder joints without damaging parts. The turnkey model is positioned to let clients focus on design while Win2uit handles manufacturing.
+The turnkey model is positioned to let clients focus on design while Win2uit handles manufacturing.
 
 ## Known for
-- Within a day's drive of 65% of the U.S. population
 - Single-source turnkey electronics manufacturer
-- Over 30 years of industry experience
-- ISO 9001 certified quality management system
 - Proprietary QFN and BGA solder-joint evaluation techniques
 
 ## Capabilities
@@ -412,9 +409,6 @@ The firm emphasizes its domestic location as a supply-chain advantage, coupled w
 
 ## Equipment
 - KOMAX wire processing equipment
-
-## Certifications
-- ISO 9001
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -448,7 +442,7 @@ The firm emphasizes its domestic location as a supply-chain advantage, coupled w
 
 # Winchester Metals Inc.
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: Remote end closed connection without response_
 
 # Windsor Technology, Inc.
 

@@ -50,7 +50,7 @@ Vexor emphasizes personal service and competitive pricing, positioning itself as
 - Consulting and technical support -> /services
 - CNC 5-axis milling machines -> db
 - Address: 7162 Washington St Denver, CO 80229 -> /
-- Phone: 303-286-8906 -> /
+- Phone:  -> /
 </details>
 
 ---
@@ -451,7 +451,7 @@ Vishay emphasizes its extensive component selection and a focus on quality to su
 
 # VisiPak
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: The read operation timed out_
 
 # Vision Autobody Parts
 

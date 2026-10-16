@@ -311,7 +311,7 @@ The company differentiates itself with a no-pressure sales approach, a 25-year w
 
 # Vermont Clothing Company
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: The read operation timed out_
 
 # Vermont Green Printing
 

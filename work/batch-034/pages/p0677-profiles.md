@@ -585,4 +585,4 @@ AG Parts emphasizes its "QUALITY in Motion" philosophy, highlighting an uncondit
 
 # AGC Automotive Alabama
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: Remote end closed connection without response_
