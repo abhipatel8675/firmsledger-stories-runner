@@ -1,39 +1,39 @@
 # Bruce Foods Corporation
 
-_skipped: The read operation timed out_
+_skipped: HTTP Error 404: Not Found_
 
 # Brunton International
 
-_skipped: The read operation timed out_
+_skipped: HTTP Error 404: Not Found_
 
 # Buckeye Metal Works, Inc
 
-_skipped: The read operation timed out_
+_skipped: HTTP Error 404: Not Found_
 
 # BuildMore Workshop
 
-_skipped: The read operation timed out_
+_skipped: HTTP Error 404: Not Found_
 
 # Bunkie Wood Products Co. Inc
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 404: Not Found_
 
 # Burton Wire & Cable
 
-_skipped: The read operation timed out_
+_skipped: HTTP Error 404: Not Found_
 
 # Butcher Power Products
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 404: Not Found_
 
 # Butcher Supply & Repair Co.
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 404: Not Found_
 
 # Byrne Electronic Services Center
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 404: Not Found_
 
 # C Mayo Inc. Custom Metal Fabrication
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 404: Not Found_

@@ -1,18 +1,18 @@
 # All Metal Fab, Inc
 
-_skipped: The read operation timed out_
+_skipped: Remote end closed connection without response_
 
 # All Solar
 
-_skipped: The read operation timed out_
+_skipped: Remote end closed connection without response_
 
 # All States M.E.D.
 
-_skipped: The read operation timed out_
+_skipped: Remote end closed connection without response_
 
 # All-County Apparel
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # All-New Stamping Company
 
@@ -20,7 +20,7 @@ _skipped: Remote end closed connection without response_
 
 # Alle Processing Corp.
 
-_skipped: The read operation timed out_
+_skipped: Remote end closed connection without response_
 
 # Allegiance Truck Centers
 
@@ -32,8 +32,8 @@ _skipped: Remote end closed connection without response_
 
 # Allen's TV Cable Services Inc
 
-_skipped: The read operation timed out_
+_skipped: Remote end closed connection without response_
 
 # Alliant Biotech
 
-_skipped: The read operation timed out_
+_skipped: Remote end closed connection without response_

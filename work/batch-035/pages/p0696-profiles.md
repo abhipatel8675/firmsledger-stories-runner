@@ -1,39 +1,39 @@
 # Billie-Ann Plastics Packaging Corp.
 
-_skipped: The read operation timed out_
+_skipped: HTTP Error 404: Not Found_
 
 # Billows Electric Supply
 
-_skipped: The read operation timed out_
+_skipped: HTTP Error 404: Not Found_
 
 # BioWave – Smarter Pain Blocking Technology
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 404: Not Found_
 
 # Birmingham Piston Warehouse
 
-_skipped: The read operation timed out_
+_skipped: HTTP Error 404: Not Found_
 
 # Birmingham Wood Works
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 404: Not Found_
 
 # Bittersweet Fabric Shop
 
-_skipped: The read operation timed out_
+_skipped: HTTP Error 404: Not Found_
 
 # Black Bear Medical
 
-_skipped: The read operation timed out_
+_skipped: HTTP Error 404: Not Found_
 
 # Blackwell Plastics, LP
 
-_skipped: The read operation timed out_
+_skipped: HTTP Error 404: Not Found_
 
 # Blankenship Woodworks
 
-_skipped: The read operation timed out_
+_skipped: HTTP Error 404: Not Found_
 
 # Blockhouse Furniture Company
 
-_skipped: The read operation timed out_
+_skipped: HTTP Error 404: Not Found_

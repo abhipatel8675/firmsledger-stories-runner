@@ -1,38 +1,38 @@
 # Americo Vinyl & Fabric
 
-_skipped: The read operation timed out_
+_skipped: Remote end closed connection without response_
 
 # Amerisewn
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Amish Country Furnishings
 
-_skipped: The read operation timed out_
+_skipped: Remote end closed connection without response_
 
 # Amphenol Printed Circuits
 
-_skipped: The read operation timed out_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Anchor Enterprises
 
-_skipped: The read operation timed out_
+_skipped: Remote end closed connection without response_
 
 # Anchor Semiconductor
 
-_skipped: The read operation timed out_
+_skipped: Remote end closed connection without response_
 
 # Anderson Valley Brewing Company
 
-_skipped: The read operation timed out_
+_skipped: Remote end closed connection without response_
 
 # Anima Manufacturing Services
 
-_skipped: The read operation timed out_
+_skipped: Remote end closed connection without response_
 
 # Annapolis Metal Fabrication and Repair LLC
 
-_skipped: The read operation timed out_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Anthela Foods Inc.
 

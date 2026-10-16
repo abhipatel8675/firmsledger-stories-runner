@@ -1,39 +1,39 @@
 # Bellevue Healthcare Central Oregon
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 404: Not Found_
 
 # Bend Biomedical
 
-_skipped: The read operation timed out_
+_skipped: HTTP Error 404: Not Found_
 
 # Bend Steel Supply & Fabrication
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 404: Not Found_
 
 # Bernard Woodworking
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 404: Not Found_
 
 # Bernatello's Foods
 
-_skipped: The read operation timed out_
+_skipped: HTTP Error 404: Not Found_
 
 # Bespoke Home Design - Decorating Den Interiors
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 404: Not Found_
 
 # Best Craft Furniture, Inc.
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 404: Not Found_
 
 # Bestec Inc
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 404: Not Found_
 
 # Betatron Electronics Inc.
 
-_skipped: The read operation timed out_
+_skipped: HTTP Error 404: Not Found_
 
 # Big Island Living - Teak, Hardwood Furniture & Art Gallery
 
-_skipped: The read operation timed out_
+_skipped: HTTP Error 404: Not Found_

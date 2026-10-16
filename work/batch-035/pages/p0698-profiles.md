@@ -1,39 +1,39 @@
 # Bluffton Woodworking Company
 
-_skipped: The read operation timed out_
+_skipped: HTTP Error 404: Not Found_
 
 # Bolta US, Inc.
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 404: Not Found_
 
 # Bowen Design
 
-_skipped: The read operation timed out_
+_skipped: HTTP Error 404: Not Found_
 
 # BradyPLUS - Formerly Idaho Package Co
 
-_skipped: The read operation timed out_
+_skipped: HTTP Error 404: Not Found_
 
 # Brass Sales Co
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 404: Not Found_
 
 # Brazos Biomedical, LLC
 
-_skipped: The read operation timed out_
+_skipped: HTTP Error 404: Not Found_
 
 # Brick City Fab
 
-_skipped: The read operation timed out_
+_skipped: HTTP Error 404: Not Found_
 
 # Bright Medical Technology, Inc.
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 404: Not Found_
 
 # Brothers Furniture Design
 
-_skipped: The read operation timed out_
+_skipped: HTTP Error 404: Not Found_
 
 # Brown's Auto Salvage
 
-_skipped: The read operation timed out_
+_skipped: HTTP Error 404: Not Found_

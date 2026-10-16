@@ -1,10 +1,10 @@
 # Alabama Wholesale Auto Parts (AWAP)
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 400: Bad Request_
 
 # Alabama Woodworkers Guild, Inc.
 
-_skipped: The read operation timed out_
+_skipped: Remote end closed connection without response_
 
 # Alamance Steel Fabricators Inc
 
@@ -12,11 +12,11 @@ _skipped: Remote end closed connection without response_
 
 # Alamo Food Equipment-Supplies
 
-_skipped: The read operation timed out_
+_skipped: Remote end closed connection without response_
 
 # Alaska Chicks Company - Wasilla
 
-_skipped: The read operation timed out_
+_skipped: Remote end closed connection without response_
 
 # Alaska Log Furnishings
 
@@ -24,15 +24,15 @@ _skipped: Remote end closed connection without response_
 
 # Alaska Spiritwear LLC/ FISHAK
 
-_skipped: The read operation timed out_
+_skipped: Remote end closed connection without response_
 
 # Alder & Company
 
-_skipped: The read operation timed out_
+_skipped: Remote end closed connection without response_
 
 # AleSmith Brewing Company
 
-_skipped: The read operation timed out_
+_skipped: Remote end closed connection without response_
 
 # All American Poly
 

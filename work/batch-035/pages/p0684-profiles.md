@@ -1,6 +1,6 @@
 # Allied Steel
 
-_skipped: The read operation timed out_
+_skipped: Remote end closed connection without response_
 
 # Allmatic Transmission Parts
 
@@ -12,28 +12,28 @@ _skipped: Remote end closed connection without response_
 
 # Alpine Medical
 
-_skipped: The read operation timed out_
+_skipped: HTTP Error 400: Bad Request_
 
 # Alpine Medical Worland
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 400: Bad Request_
 
 # Alpine Sheet Metal Systems
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 400: Bad Request_
 
 # Alternate Parts & Components Inc
 
-_skipped: The read operation timed out_
+_skipped: HTTP Error 400: Bad Request_
 
 # Alvatek Electronics
 
-_skipped: The read operation timed out_
+_skipped: HTTP Error 400: Bad Request_
 
 # Am-Tex Plastics & Box, LLC.
 
-_skipped: The read operation timed out_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Amcor Rigid Plastics
 
-_skipped: The read operation timed out_
+_skipped: Remote end closed connection without response_

@@ -1,18 +1,18 @@
 # Atlas Carbon
 
-_skipped: The read operation timed out_
+_skipped: Remote end closed connection without response_
 
 # Atomic Threads
 
-_skipped: The read operation timed out_
+_skipped: Remote end closed connection without response_
 
 # Attends Healthcare Products
 
-_skipped: The read operation timed out_
+_skipped: HTTP Error 400: Bad Request_
 
 # Audio Visions
 
-_skipped: The read operation timed out_
+_skipped: Remote end closed connection without response_
 
 # AudioScience Inc.
 
@@ -20,20 +20,20 @@ _skipped: Remote end closed connection without response_
 
 # Augusta's Custom Fab and Build Inc.
 
-_skipped: The read operation timed out_
+_skipped: Remote end closed connection without response_
 
 # Augustine Plastics, Inc.
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Aurora Generators
 
-_skipped: The read operation timed out_
+_skipped: Remote end closed connection without response_
 
 # Aurora Products
 
-_skipped: The read operation timed out_
+_skipped: Remote end closed connection without response_
 
 # Auto Parts Outlet - Baltimore
 
-_skipped: HTTP Error 400: Bad Request_
+_skipped: Remote end closed connection without response_

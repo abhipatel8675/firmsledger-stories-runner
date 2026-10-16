@@ -1,10 +1,10 @@
 # Auto Parts of Greenwood
 
-_skipped: HTTP Error 400: Bad Request_
+_skipped: Remote end closed connection without response_
 
 # Automated Assembly
 
-_skipped: The read operation timed out_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Automatic Coax & Cable
 
@@ -16,24 +16,24 @@ _skipped: Remote end closed connection without response_
 
 # Automotive Equipment Sales & Service Inc
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Automotive Supply Co
 
-_skipped: HTTP Error 400: Bad Request_
+_skipped: Remote end closed connection without response_
 
 # Avila Textiles, Inc
 
-_skipped: HTTP Error 400: Bad Request_
+_skipped: Remote end closed connection without response_
 
 # Avis Furniture
 
-_skipped: HTTP Error 400: Bad Request_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Aviva Automotive
 
-_skipped: HTTP Error 400: Bad Request_
+_skipped: Remote end closed connection without response_
 
 # B & B Sheet Metal
 
-_skipped: HTTP Error 400: Bad Request_
+_skipped: Remote end closed connection without response_
