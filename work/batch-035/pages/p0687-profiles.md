@@ -1,39 +1,39 @@
 # Antolin Illinois
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 404: Not Found_
 
 # Apex Plastics & Tooling
 
-_skipped: HTTP Error 429: Too Many Requests_
+_skipped: HTTP Error 404: Not Found_
 
 # Apogee Foods
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 404: Not Found_
 
 # Apollo Energy
 
-_skipped: HTTP Error 400: Bad Request_
+_skipped: HTTP Error 404: Not Found_
 
 # Apparel Machinery & Supply Co
 
-_skipped: HTTP Error 429: Too Many Requests_
+_skipped: HTTP Error 404: Not Found_
 
 # Aptiv
 
-_skipped: HTTP Error 400: Bad Request_
+_skipped: HTTP Error 404: Not Found_
 
 # Aqel Sheet Metal
 
-_skipped: HTTP Error 400: Bad Request_
+_skipped: HTTP Error 404: Not Found_
 
 # Arbor Medical Innovations
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 404: Not Found_
 
 # Architectural Metal Supply
 
-_skipped: HTTP Error 400: Bad Request_
+_skipped: HTTP Error 404: Not Found_
 
 # Arctic Food Equipment
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 404: Not Found_

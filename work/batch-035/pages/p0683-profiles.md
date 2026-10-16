@@ -1,39 +1,39 @@
 # All Metal Fab, Inc
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 404: Not Found_
 
 # All Solar
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 404: Not Found_
 
 # All States M.E.D.
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 404: Not Found_
 
 # All-County Apparel
 
-_skipped: HTTP Error 429: Too Many Requests_
+_skipped: HTTP Error 404: Not Found_
 
 # All-New Stamping Company
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 404: Not Found_
 
 # Alle Processing Corp.
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 404: Not Found_
 
 # Allegiance Truck Centers
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 404: Not Found_
 
 # Allegro MicroSystems, LLC
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 404: Not Found_
 
 # Allen's TV Cable Services Inc
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 404: Not Found_
 
 # Alliant Biotech
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 404: Not Found_

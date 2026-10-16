@@ -1,39 +1,39 @@
 # Americo Vinyl & Fabric
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 404: Not Found_
 
 # Amerisewn
 
-_skipped: HTTP Error 429: Too Many Requests_
+_skipped: HTTP Error 404: Not Found_
 
 # Amish Country Furnishings
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 404: Not Found_
 
 # Amphenol Printed Circuits
 
-_skipped: HTTP Error 429: Too Many Requests_
+_skipped: HTTP Error 404: Not Found_
 
 # Anchor Enterprises
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 404: Not Found_
 
 # Anchor Semiconductor
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 404: Not Found_
 
 # Anderson Valley Brewing Company
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 404: Not Found_
 
 # Anima Manufacturing Services
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 404: Not Found_
 
 # Annapolis Metal Fabrication and Repair LLC
 
-_skipped: HTTP Error 429: Too Many Requests_
+_skipped: HTTP Error 404: Not Found_
 
 # Anthela Foods Inc.
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 404: Not Found_

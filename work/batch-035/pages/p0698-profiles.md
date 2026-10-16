@@ -12,7 +12,7 @@ _skipped: HTTP Error 404: Not Found_
 
 # BradyPLUS - Formerly Idaho Package Co
 
-_skipped: HTTP Error 404: Not Found_
+_skipped: The read operation timed out_
 
 # Brass Sales Co
 

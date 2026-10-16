@@ -1,6 +1,6 @@
 # Barrette Fabrication, LLC
 
-_skipped: Remote end closed connection without response_
+_skipped: HTTP Error 404: Not Found_
 
 # Baseline Solar Solutions
 
@@ -8,7 +8,7 @@ _skipped: HTTP Error 404: Not Found_
 
 # Bauer Electronics
 
-_skipped: HTTP Error 404: Not Found_
+_skipped: The read operation timed out_
 
 # Bauer Welding & Metal Fabricators, Inc
 
